@@ -1,0 +1,410 @@
+{
+  "runTime": 1672035797085,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1620529,
+        "num": 1620529,
+        "word": "科华生物创始人唐伟国感染新冠后逝世",
+        "onboard_time": 1672031731,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1204764,
+        "num": 1204764,
+        "word": "谷爱凌斯坦福所有课程全部满分",
+        "onboard_time": 1672034430,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128288,
+        "num": 1160746,
+        "word": "康复期如何快速恢复健康",
+        "onboard_time": 1672015107,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1123644,
+        "num": 1123644,
+        "word": "沈腾马丽2023央视春晚首次联排",
+        "onboard_time": 1672031191,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 984907,
+        "num": 984907,
+        "word": "严定宪去世",
+        "onboard_time": 1672032031,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917179,
+        "num": 917179,
+        "word": "阴性女子去剪发被理发师劝走",
+        "onboard_time": 1672027591,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681856,
+        "num": 681856,
+        "word": "潘粤明方道歉",
+        "onboard_time": 1672032931,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599580,
+        "num": 599580,
+        "word": "父亲深夜摆摊欲卖25万份菠萝蜜救女",
+        "onboard_time": 1672031312,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533117,
+        "num": 533117,
+        "word": "大妈买早餐突然后仰小伙一把扶住",
+        "onboard_time": 1672031010,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 518365,
+        "num": 518365,
+        "word": "王凯谭松韵新剧停职停飞处分",
+        "onboard_time": 1672029033,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 623093,
+        "num": 500286,
+        "word": "俄将尽力避免第三次世界大战",
+        "onboard_time": 1672033291,
+        "rank": 10,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 399533,
+        "num": 399533,
+        "word": "抗原啥时候测才准",
+        "onboard_time": 1672032270,
+        "rank": 11,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 375731,
+        "num": 375731,
+        "word": "太阳转入YG旗下厂牌",
+        "onboard_time": 1672032511,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368351,
+        "num": 368351,
+        "word": "8岁女孩吃布洛芬过敏肿成香肠嘴",
+        "onboard_time": 1672028008,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361911,
+        "num": 361911,
+        "word": "春晚",
+        "onboard_time": 1672034970,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471946,
+        "num": 357792,
+        "word": "王一博正式官宣东方卫视跨年",
+        "onboard_time": 1672024049,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334274,
+        "num": 334274,
+        "word": "男子哄4岁女儿签20年不交男友合约",
+        "onboard_time": 1672027167,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291721,
+        "num": 291721,
+        "word": "专家称转阴后身体约2到3周才能恢复",
+        "onboard_time": 1672018587,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290325,
+        "num": 290325,
+        "word": "Epic道歉",
+        "onboard_time": 1672027412,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276866,
+        "num": 276866,
+        "word": "怪不得猫不喜欢和狗玩",
+        "onboard_time": 1672033711,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 388588,
+        "num": 273948,
+        "word": "被赠药踹门辱骂女邻居当事男子道歉",
+        "onboard_time": 1672022188,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312155,
+        "num": 269401,
+        "word": "2022年度十大歌曲",
+        "onboard_time": 1672031789,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262578,
+        "num": 262578,
+        "word": "不浪费抗原的正确使用方法",
+        "onboard_time": 1672027830,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255300,
+        "num": 255300,
+        "word": "北京多家社区卫生中心收到辉瑞新冠药培训通知",
+        "onboard_time": 1672032691,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252194,
+        "num": 252194,
+        "word": "今年烂尾的韩剧",
+        "onboard_time": 1672025608,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252107,
+        "num": 252107,
+        "word": "EXO顺其自然发行五周年",
+        "onboard_time": 1672030231,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238071,
+        "num": 238071,
+        "word": "阳过后你有心肌炎症状吗",
+        "onboard_time": 1671980010,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235792,
+        "num": 235792,
+        "word": "村医每晚在诊所门上贴满退烧药",
+        "onboard_time": 1672031370,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228322,
+        "num": 228322,
+        "word": "多地感染高峰将至",
+        "onboard_time": 1672028970,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224829,
+        "num": 224829,
+        "word": "大部分心肌炎患者通过休息能痊愈",
+        "onboard_time": 1672019966,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226941,
+        "num": 224136,
+        "word": "你永远可以相信五月天文案",
+        "onboard_time": 1672033470,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217969,
+        "num": 217969,
+        "word": "Mystic回归微博",
+        "onboard_time": 1672034008,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209530,
+        "num": 209530,
+        "word": "武庚纪女主是邢菲",
+        "onboard_time": 1672034550,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197987,
+        "num": 197987,
+        "word": "专家呼吁尽快披露重症患者数据",
+        "onboard_time": 1672029151,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192235,
+        "num": 192235,
+        "word": "失明母亲医院中用力抱紧发烧宝宝",
+        "onboard_time": 1672029993,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187631,
+        "num": 187631,
+        "word": "跨年晚会cp合唱名场面",
+        "onboard_time": 1672033470,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185492,
+        "num": 185492,
+        "word": "云南女子取快递发现包裹长菌子",
+        "onboard_time": 1672028792,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177789,
+        "num": 177789,
+        "word": "蒋欣心月葵登场",
+        "onboard_time": 1672026331,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175952,
+        "num": 175952,
+        "word": "北京计划在各社区医院配置辉瑞Paxlovid",
+        "onboard_time": 1672026691,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156659,
+        "num": 156659,
+        "word": "药房连花清瘟进价18卖118被罚30万",
+        "onboard_time": 1672026450,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176647,
+        "num": 156651,
+        "word": "薛之谦官宣加盟江苏卫视跨年",
+        "onboard_time": 1672027890,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173816,
+        "num": 156586,
+        "word": "马嘉祺谈大学生活",
+        "onboard_time": 1672035750,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155591,
+        "num": 155591,
+        "word": "曾供应全世界的抗原国内为何一盒难求",
+        "onboard_time": 1672021526,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155273,
+        "num": 155273,
+        "word": "谷爱凌回顾2022",
+        "onboard_time": 1672034850,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148651,
+        "num": 148651,
+        "word": "东莞全域放开住房限购",
+        "onboard_time": 1672034970,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 138880,
+        "num": 138880,
+        "word": "光明日报评退烧药拆零销售",
+        "onboard_time": 1672030171,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130911,
+        "num": 130911,
+        "word": "当猫咪被抓包后的反应",
+        "onboard_time": 1672033409,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126909,
+        "num": 126909,
+        "word": "接到推销电话后男子反手将其起诉",
+        "onboard_time": 1672033048,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124137,
+        "num": 124137,
+        "word": "郑州一商场一天涌进十万人",
+        "onboard_time": 1672035690,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119955,
+        "num": 119955,
+        "word": "一年一度微博表情大赛",
+        "onboard_time": 1672034609,
+        "rank": 49,
+        "category": "科技,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#企业有活力也会为经济发展添动力#"
+    }
+  }
+}
