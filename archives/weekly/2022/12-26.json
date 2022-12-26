@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672059050649,
+  "endTime": 1672060908949,
   "band_list": [
     {
       "raw_hot": 3620426,
@@ -11,8 +11,24 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 3397298,
+      "num": 3397298,
+      "word": "原始毒株",
+      "onboard_time": 1672058131,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2717047,
+      "num": 2717047,
+      "word": "白肺",
+      "onboard_time": 1672059454,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2458698,
-      "num": 592795,
+      "num": 708682,
       "word": "刘强东痛批京东中高层拿PPT欺骗自己",
       "onboard_time": 1672046910,
       "rank": 22,
@@ -28,7 +44,7 @@
     },
     {
       "raw_hot": 1742312,
-      "num": 877966,
+      "num": 1236167,
       "word": "13岁女孩被16岁男孩性侵宾馆判赔5000元",
       "onboard_time": 1672054111,
       "rank": 28,
@@ -259,6 +275,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 772976,
+      "num": 772976,
+      "word": "xbb",
+      "onboard_time": 1672057475,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772633,
       "num": 772633,
       "word": "知网",
@@ -283,6 +307,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 722017,
+      "num": 722017,
+      "word": "王重江死了",
+      "onboard_time": 1672060176,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 717835,
       "num": 717835,
       "word": "Epic道歉",
@@ -297,6 +329,14 @@
       "onboard_time": 1672045531,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 715388,
+      "num": 715388,
+      "word": "肖战朗读落花生",
+      "onboard_time": 1672060115,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 708127,
@@ -395,7 +435,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 656828,
+      "raw_hot": 657100,
       "num": 589933,
       "word": "女子曝9岁女儿被14岁男孩持刀砍伤",
       "onboard_time": 1672057111,
@@ -435,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 637097,
-      "num": 637097,
-      "word": "xbb",
-      "onboard_time": 1672057475,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 630637,
       "num": 354842,
       "word": "王铮亮和他五个没上过春晚的兄弟",
@@ -457,14 +489,6 @@
       "onboard_time": 1672040494,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 616727,
-      "num": 616727,
-      "word": "原始毒株",
-      "onboard_time": 1672058131,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 610901,
@@ -627,8 +651,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 497506,
-      "num": 497506,
+      "raw_hot": 500848,
+      "num": 500848,
       "word": "普京称俄将100%摧毁美承诺援乌的爱国者",
       "onboard_time": 1672055493,
       "rank": 18,
@@ -641,6 +665,14 @@
       "onboard_time": 1672047514,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 480641,
+      "num": 480641,
+      "word": "乔治娜圣诞礼物送C罗劳斯莱斯",
+      "onboard_time": 1672058373,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 472353,
@@ -905,6 +937,14 @@
       "onboard_time": 1671969148,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 331720,
+      "num": 331720,
+      "word": "王凯 演技",
+      "onboard_time": 1672060476,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 329218,
@@ -1187,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251723,
+      "num": 251723,
+      "word": "今天好多剧开播",
+      "onboard_time": 1672056272,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248300,
       "num": 248300,
       "word": "洛歌受刑",
@@ -1257,14 +1305,6 @@
       "onboard_time": 1672031370,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235591,
-      "num": 235591,
-      "word": "今天好多剧开播",
-      "onboard_time": 1672056272,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 232107,
@@ -1371,14 +1411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220572,
-      "num": 220572,
-      "word": "乔治娜圣诞礼物送C罗劳斯莱斯",
-      "onboard_time": 1672058373,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 219612,
       "num": 219612,
       "word": "光明日报评退烧药拆零销售",
@@ -1425,6 +1457,14 @@
       "onboard_time": 1671974972,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210088,
+      "num": 242726,
+      "word": "易建联常规赛10000分",
+      "onboard_time": 1672058851,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 209615,
@@ -1563,6 +1603,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194940,
+      "num": 194940,
+      "word": "苏醒阶段性圆梦春晚",
+      "onboard_time": 1672059575,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194880,
       "num": 194880,
       "word": "王鹤棣陈钰琪浮图缘明天见",
@@ -1643,12 +1691,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184870,
+      "num": 159529,
+      "word": "廖穗芳觉得李承天可怕",
+      "onboard_time": 1672060234,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183630,
       "num": 183630,
       "word": "年度国产动画",
       "onboard_time": 1672050511,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 183306,
+      "num": 183306,
+      "word": "微博最受欢迎画手",
+      "onboard_time": 1672060353,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 182865,
+      "num": 156626,
+      "word": "秦岚2023央视春晚首次联排",
+      "onboard_time": 1672059933,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 182714,
@@ -1955,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145062,
+      "num": 145062,
+      "word": "不刻意的恋爱有多幸福",
+      "onboard_time": 1672060176,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144955,
       "num": 144955,
       "word": "新冠感染情况问卷调查",
@@ -2035,6 +2115,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137651,
+      "num": 137651,
+      "word": "如何自我改善肺功能",
+      "onboard_time": 1672059333,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137167,
+      "num": 137167,
+      "word": "武汉街头的车方向盘会自己转",
+      "onboard_time": 1672060656,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136417,
       "num": 136417,
       "word": "让小孩不哭的办法找到了",
@@ -2097,14 +2193,6 @@
       "onboard_time": 1672021587,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 127697,
-      "num": 127697,
-      "word": "易建联常规赛10000分",
-      "onboard_time": 1672058851,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 126909,
@@ -2300,7 +2388,7 @@
     },
     {
       "raw_hot": 91246,
-      "num": 890657,
+      "num": 1750440,
       "word": "关于儿童退烧药10个热点问答",
       "onboard_time": 1672048353,
       "rank": 2,
