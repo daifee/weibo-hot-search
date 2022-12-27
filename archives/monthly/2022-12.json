@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672104314391,
+  "endTime": 1672105845016,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -6515,6 +6515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1017353,
+      "num": 1017353,
+      "word": "谷爱凌说自己不知道的事情请不要说了",
+      "onboard_time": 1672065277,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1017207,
       "num": 1017207,
       "word": "生个病生成了那英",
@@ -6785,14 +6793,6 @@
       "onboard_time": 1669955412,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 988882,
-      "num": 988882,
-      "word": "谷爱凌说自己不知道的事情请不要说了",
-      "onboard_time": 1672065277,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 988376,
@@ -7833,6 +7833,14 @@
       "onboard_time": 1670029628,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 902417,
+      "num": 902417,
+      "word": "王俊凯官宣加盟江苏卫视跨年",
+      "onboard_time": 1672104689,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 902155,
@@ -9713,6 +9721,14 @@
       "onboard_time": 1670332030,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 780018,
+      "num": 780018,
+      "word": "如何在精神病院证明自己不是精神病",
+      "onboard_time": 1672103548,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 779714,
@@ -15177,6 +15193,14 @@
       "onboard_time": 1670858419,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 559554,
+      "num": 478509,
+      "word": "鹿晗亮相十一年了",
+      "onboard_time": 1672104387,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 559281,
@@ -20699,6 +20723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 422169,
+      "num": 422169,
+      "word": "梁洁有多喜欢这件粉色毛绒大衣",
+      "onboard_time": 1672096878,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 421943,
       "num": 421943,
       "word": "提前感受考研那几天的状态",
@@ -21185,14 +21217,6 @@
       "onboard_time": 1671526411,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 413657,
-      "num": 413657,
-      "word": "梁洁有多喜欢这件粉色毛绒大衣",
-      "onboard_time": 1672096878,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 413549,
@@ -27755,6 +27779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312931,
+      "num": 312931,
+      "word": "苹果推出跨年福利",
+      "onboard_time": 1672103250,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 312897,
       "num": 312897,
       "word": "余承东称华为手机又活过来了",
@@ -27912,6 +27944,14 @@
       "word": "怀孕18周孕妇分享感染新冠经历",
       "onboard_time": 1670898851,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311200,
+      "num": 311200,
+      "word": "调整为乙类乙管不是放任不管",
+      "onboard_time": 1672102890,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -31835,14 +31875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267905,
-      "num": 267905,
-      "word": "苹果推出跨年福利",
-      "onboard_time": 1672103250,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 267749,
       "num": 267749,
       "word": "安娜给刘烨直播黄山美景",
@@ -32801,6 +32833,14 @@
       "onboard_time": 1671778649,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 258035,
+      "num": 258035,
+      "word": "女孩子的发饰",
+      "onboard_time": 1672103548,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 257561,
@@ -34921,14 +34961,6 @@
       "onboard_time": 1671694292,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 237798,
-      "num": 237798,
-      "word": "调整为乙类乙管不是放任不管",
-      "onboard_time": 1672102890,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237776,
@@ -37235,6 +37267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218396,
+      "num": 218396,
+      "word": "王广发称没说过北京流行毒株是德尔塔",
+      "onboard_time": 1672104928,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218368,
       "num": 218368,
       "word": "你选择单身的原因是什么",
@@ -38859,6 +38899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206390,
+      "num": 206390,
+      "word": "Giselle合作曲part只有3秒",
+      "onboard_time": 1672095918,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206278,
       "num": 206278,
       "word": "电暖器着火7岁男孩淡定拔电源",
@@ -38897,14 +38945,6 @@
       "onboard_time": 1671156326,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205945,
-      "num": 205945,
-      "word": "Giselle合作曲part只有3秒",
-      "onboard_time": 1672095918,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 205917,
@@ -39203,6 +39243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203127,
+      "num": 203127,
+      "word": "男孩向妈妈吼叫被爸爸教育",
+      "onboard_time": 1672104326,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203039,
       "num": 203039,
       "word": "男子闯医院封控住院部遭保安围殴",
@@ -39473,6 +39521,14 @@
       "onboard_time": 1671719433,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200224,
+      "num": 200224,
+      "word": "乙类乙管是否意味着回到疫情前状态",
+      "onboard_time": 1672104510,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200174,
@@ -40281,14 +40337,6 @@
       "onboard_time": 1671628110,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195845,
-      "num": 186697,
-      "word": "如何在精神病院证明自己不是精神病",
-      "onboard_time": 1672103548,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 195815,
@@ -45537,14 +45585,6 @@
       "onboard_time": 1671407788,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168892,
-      "num": 168892,
-      "word": "女孩子的发饰",
-      "onboard_time": 1672103548,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 168885,
@@ -57369,6 +57409,14 @@
       "onboard_time": 1671456152,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 106624,
+      "num": 106624,
+      "word": "为何此时将新冠回归乙类乙管",
+      "onboard_time": 1672105590,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106601,

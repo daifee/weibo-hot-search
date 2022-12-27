@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672104314391,
+  "endTime": 1672105845016,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 969937,
-      "num": 969937,
+      "raw_hot": 1017353,
+      "num": 1017353,
       "word": "谷爱凌说自己不知道的事情请不要说了",
       "onboard_time": 1672065277,
       "rank": 7,
@@ -59,12 +59,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 902417,
+      "num": 902417,
+      "word": "王俊凯官宣加盟江苏卫视跨年",
+      "onboard_time": 1672104689,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 827453,
       "num": 827453,
       "word": "专家回应奥密克戎是否会导致白肺现象",
       "onboard_time": 1672059454,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 780018,
+      "num": 780018,
+      "word": "如何在精神病院证明自己不是精神病",
+      "onboard_time": 1672103548,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 715345,
@@ -89,6 +105,14 @@
       "onboard_time": 1672097481,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 559554,
+      "num": 478509,
+      "word": "鹿晗亮相十一年了",
+      "onboard_time": 1672104387,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 524509,
@@ -131,8 +155,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 413657,
-      "num": 413657,
+      "raw_hot": 422169,
+      "num": 422169,
       "word": "梁洁有多喜欢这件粉色毛绒大衣",
       "onboard_time": 1672096878,
       "rank": 21,
@@ -203,6 +227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312931,
+      "num": 312931,
+      "word": "苹果推出跨年福利",
+      "onboard_time": 1672103250,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 311200,
+      "num": 311200,
+      "word": "调整为乙类乙管不是放任不管",
+      "onboard_time": 1672102890,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290795,
       "num": 290795,
       "word": "男子开车与救护车碰撞后落水溺亡",
@@ -219,20 +259,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267905,
-      "num": 267905,
-      "word": "苹果推出跨年福利",
-      "onboard_time": 1672103250,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 259612,
       "num": 259612,
       "word": "满足四个标准才算新冠痊愈",
       "onboard_time": 1672054712,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258035,
+      "num": 258035,
+      "word": "女孩子的发饰",
+      "onboard_time": 1672103548,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 251703,
@@ -256,14 +296,6 @@
       "word": "转阴多久没有传染性",
       "onboard_time": 1672055072,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237798,
-      "num": 237798,
-      "word": "调整为乙类乙管不是放任不管",
-      "onboard_time": 1672102890,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -307,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218396,
+      "num": 218396,
+      "word": "王广发称没说过北京流行毒株是德尔塔",
+      "onboard_time": 1672104928,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207114,
       "num": 207114,
       "word": "王凯谭松韵新剧首播收视率第一",
@@ -315,8 +355,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205945,
-      "num": 205945,
+      "raw_hot": 206390,
+      "num": 206390,
       "word": "Giselle合作曲part只有3秒",
       "onboard_time": 1672095918,
       "rank": 29,
@@ -331,20 +371,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203127,
+      "num": 203127,
+      "word": "男孩向妈妈吼叫被爸爸教育",
+      "onboard_time": 1672104326,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200224,
+      "num": 200224,
+      "word": "乙类乙管是否意味着回到疫情前状态",
+      "onboard_time": 1672104510,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197715,
       "num": 187651,
       "word": "120闯红灯撞车后被指见死不救",
       "onboard_time": 1672071565,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195845,
-      "num": 186697,
-      "word": "如何在精神病院证明自己不是精神病",
-      "onboard_time": 1672103548,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 192788,
@@ -425,14 +473,6 @@
       "onboard_time": 1672075698,
       "rank": 45,
       "category": "影视,社会新闻"
-    },
-    {
-      "raw_hot": 168892,
-      "num": 168892,
-      "word": "女孩子的发饰",
-      "onboard_time": 1672103548,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 168615,
@@ -585,6 +625,14 @@
       "onboard_time": 1672055791,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 106624,
+      "num": 106624,
+      "word": "为何此时将新冠回归乙类乙管",
+      "onboard_time": 1672105590,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106527,
