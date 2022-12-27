@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672140790203,
+  "endTime": 1672144403110,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -121,6 +121,14 @@
       "onboard_time": 1672124492,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1888274,
+      "num": 1888274,
+      "word": "北京协和医院发热门诊现状",
+      "onboard_time": 1672138593,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1853950,
@@ -563,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 898560,
+      "num": 484709,
+      "word": "田小娟确诊新冠",
+      "onboard_time": 1672139313,
+      "rank": 27,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 888016,
       "num": 888016,
       "word": "药房连花清瘟进价18卖118被罚30万",
@@ -755,14 +771,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 771686,
-      "num": 467395,
-      "word": "北京协和医院发热门诊现状",
-      "onboard_time": 1672138593,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 766008,
       "num": 766008,
       "word": "北京32岁女子一年相亲上百人",
@@ -803,12 +811,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 755727,
-      "num": 452630,
-      "word": "田小娟确诊新冠",
-      "onboard_time": 1672139313,
-      "rank": 27,
-      "category": "艺人,社会新闻"
+      "raw_hot": 753193,
+      "num": 753193,
+      "word": "男子称转阴3天后出门受凉复阳",
+      "onboard_time": 1672140333,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 751757,
+      "num": 751757,
+      "word": "男子称连续咳嗽10多天断3根肋骨",
+      "onboard_time": 1672141892,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 727856,
@@ -955,6 +971,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 664701,
+      "num": 664701,
+      "word": "相亲遇疫情被迫同居男女已领证结婚",
+      "onboard_time": 1672137152,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 658477,
       "num": 658477,
       "word": "张译和王俊凯易烊千玺都合作了",
@@ -1009,14 +1033,6 @@
       "onboard_time": 1671980190,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 630498,
-      "num": 569646,
-      "word": "相亲遇疫情被迫同居男女已领证结婚",
-      "onboard_time": 1672137152,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 625950,
@@ -1139,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 573505,
+      "num": 1453485,
+      "word": "白肺和原始毒株及疫苗接种没关系",
+      "onboard_time": 1672142072,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 572567,
       "num": 572567,
       "word": "乔治娜圣诞礼物送C罗劳斯莱斯",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1672031010,
       "rank": 36,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 531258,
+      "num": 531258,
+      "word": "k60",
+      "onboard_time": 1672142191,
+      "rank": 8,
+      "category": "科技"
     },
     {
       "raw_hot": 530453,
@@ -1395,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 487488,
+      "num": 487488,
+      "word": "坦然吕布FMVP新皮肤",
+      "onboard_time": 1672142611,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 482446,
       "num": 482446,
       "word": "广州队降级",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1672018048,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436794,
+      "num": 436794,
+      "word": "Zzr确诊",
+      "onboard_time": 1672138771,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 436635,
@@ -1859,14 +1907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354396,
-      "num": 354396,
-      "word": "Zzr确诊",
-      "onboard_time": 1672138771,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 354247,
       "num": 354247,
       "word": "博主称餐厅虚假营销抓起帝王蟹扯腿吃掉",
@@ -2131,6 +2171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307982,
+      "num": 307982,
+      "word": "西蓝花cp一集亲三次",
+      "onboard_time": 1672139793,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307483,
       "num": 307483,
       "word": "官方回应青岛莱西湖附近偶遇老虎",
@@ -2331,6 +2379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 276036,
+      "num": 276036,
+      "word": "我可能遇到了救星 甜",
+      "onboard_time": 1672143935,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274496,
       "num": 274496,
       "word": "北京多家社区卫生中心收到辉瑞新冠药培训通知",
@@ -2407,6 +2463,14 @@
       "num": 263099,
       "word": "金莎发视频回应近日状态",
       "onboard_time": 1672133852,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 261302,
+      "num": 261302,
+      "word": "黄子韬直播",
+      "onboard_time": 1672143392,
       "rank": 25,
       "category": "艺人"
     },
@@ -2715,6 +2779,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 228546,
+      "num": 228546,
+      "word": "恋与制作人",
+      "onboard_time": 1672142970,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228374,
       "num": 228374,
       "word": "一张纸就可以拯救水泥鼻",
@@ -2835,14 +2907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222951,
-      "num": 187799,
-      "word": "西蓝花cp一集亲三次",
-      "onboard_time": 1672139793,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 221421,
       "num": 221421,
       "word": "周深风起西州主题曲古典美",
@@ -2915,6 +2979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216691,
+      "num": 216691,
+      "word": "原神雷电将军",
+      "onboard_time": 1672139972,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214467,
       "num": 214467,
       "word": "苏有朋2023央视春晚首次联排",
@@ -2979,12 +3051,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210040,
+      "num": 210040,
+      "word": "王凯谭松韵新剧连吵7集后和解",
+      "onboard_time": 1672141652,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209615,
       "num": 173202,
       "word": "SMTOWN冬专全专音频视频",
       "onboard_time": 1672050750,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209452,
+      "num": 209452,
+      "word": "竹内亮在中国工地搬砖",
+      "onboard_time": 1672144293,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 207458,
@@ -3080,6 +3168,14 @@
       "word": "转阴后如何保护心脏",
       "onboard_time": 1672124973,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199090,
+      "num": 199090,
+      "word": "90后快递小哥年终总结是两次出差",
+      "onboard_time": 1672143333,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -3281,6 +3377,14 @@
       "onboard_time": 1672028551,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189337,
+      "num": 170070,
+      "word": "名侦探学院熟人局",
+      "onboard_time": 1672142793,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 188023,
@@ -3547,6 +3651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173587,
+      "num": 173587,
+      "word": "没见过这么笨的猫咪",
+      "onboard_time": 1672143333,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173548,
       "num": 173548,
       "word": "顾客吐槽看阿凡达需30元购3D眼镜",
@@ -3625,6 +3737,14 @@
       "onboard_time": 1672132050,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166941,
+      "num": 166941,
+      "word": "铃铛女朋友",
+      "onboard_time": 1672143090,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 166860,
@@ -4051,6 +4171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143632,
+      "num": 143632,
+      "word": "红米发布会",
+      "onboard_time": 1672142072,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 143391,
       "num": 143391,
       "word": "阴阳师",
@@ -4097,14 +4225,6 @@
       "onboard_time": 1672133429,
       "rank": 43,
       "category": "科技"
-    },
-    {
-      "raw_hot": 141669,
-      "num": 141669,
-      "word": "原神雷电将军",
-      "onboard_time": 1672139972,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 141381,
@@ -4241,14 +4361,6 @@
       "onboard_time": 1672064734,
       "rank": 47,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 134715,
-      "num": 134715,
-      "word": "男子称转阴3天后出门受凉复阳",
-      "onboard_time": 1672140333,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132566,
@@ -4603,6 +4715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102631,
+      "num": 139729,
+      "word": "艾滋病女子无防护卖淫被判1年4个月",
+      "onboard_time": 1672144353,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99947,
       "num": 99947,
       "word": "2022年最后5天",
@@ -4665,6 +4785,14 @@
       "onboard_time": 1671981748,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83918,
+      "num": 416757,
+      "word": "K60电竞手机终结者",
+      "onboard_time": 1672142434,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 82226,
