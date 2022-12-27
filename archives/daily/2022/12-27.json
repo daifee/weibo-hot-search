@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672137288773,
+  "endTime": 1672139672730,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1043138,
+      "num": 1043138,
+      "word": "肖战祝福大家顺顺利利平平安安",
+      "onboard_time": 1672138715,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1017353,
       "num": 1017353,
       "word": "谷爱凌说自己不知道的事情请不要说了",
@@ -371,6 +379,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789657,
+      "num": 789657,
+      "word": "妈妈带病洗澡8岁男童诅咒式劝阻",
+      "onboard_time": 1672134809,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 782453,
+      "num": 782453,
+      "word": "卫健委回应武汉急救车被指见死不救",
+      "onboard_time": 1672135534,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 773303,
       "num": 574898,
       "word": "沈腾易烊千玺满江红海报",
@@ -459,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 630498,
+      "num": 569646,
+      "word": "相亲遇疫情被迫同居男女已领证结婚",
+      "onboard_time": 1672137152,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625563,
       "num": 625563,
       "word": "葛优母亲施文心去世",
@@ -505,22 +537,6 @@
       "onboard_time": 1672105946,
       "rank": 8,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 595318,
-      "num": 475982,
-      "word": "妈妈带病洗澡8岁男童诅咒式劝阻",
-      "onboard_time": 1672134809,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 594081,
-      "num": 468862,
-      "word": "卫健委回应武汉急救车被指见死不救",
-      "onboard_time": 1672135534,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 585431,
@@ -593,6 +609,14 @@
       "onboard_time": 1672106186,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515593,
+      "num": 515593,
+      "word": "王一博漫步街角花絮视频",
+      "onboard_time": 1672139134,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 512697,
@@ -747,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 386175,
+      "num": 386175,
+      "word": "永远要和喜欢的人好好说话",
+      "onboard_time": 1672133912,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 385666,
       "num": 385666,
       "word": "狗狗早起去蹭吃后回来装睡",
@@ -761,6 +793,14 @@
       "onboard_time": 1672069234,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382227,
+      "num": 382227,
+      "word": "心疼张婉婷",
+      "onboard_time": 1672137872,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 373768,
@@ -801,6 +841,14 @@
       "onboard_time": 1672106128,
       "rank": 17,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 364551,
+      "num": 353234,
+      "word": "与凤行",
+      "onboard_time": 1672137752,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 358745,
@@ -867,6 +915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 333127,
+      "num": 333127,
+      "word": "北京协和医院发热门诊现状",
+      "onboard_time": 1672138593,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332623,
       "num": 332623,
       "word": "小狗也需要边界感",
@@ -915,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316538,
+      "num": 316538,
+      "word": "外卖大姐因商家打赏20元乐得合不拢嘴",
+      "onboard_time": 1672136734,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315525,
       "num": 315525,
       "word": "没阳过的人跟阳康接触会被感染吗",
@@ -929,6 +993,14 @@
       "onboard_time": 1672103250,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 303304,
+      "num": 303304,
+      "word": "爸爸拿万用表给孩子测体温",
+      "onboard_time": 1672136371,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303280,
@@ -971,14 +1043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286899,
-      "num": 286899,
-      "word": "永远要和喜欢的人好好说话",
-      "onboard_time": 1672133912,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 286233,
       "num": 286233,
       "word": "网传德尔塔奥密克戎共循环是谣言",
@@ -1011,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267990,
+      "num": 267990,
+      "word": "田小娟确诊新冠",
+      "onboard_time": 1672139313,
+      "rank": 27,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 266538,
       "num": 266538,
       "word": "男孩向妈妈吼叫被爸爸教育",
@@ -1019,12 +1091,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264043,
+      "num": 249457,
+      "word": "浮图缘直播",
+      "onboard_time": 1672137034,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263099,
       "num": 263099,
       "word": "金莎发视频回应近日状态",
       "onboard_time": 1672133852,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262653,
+      "num": 262653,
+      "word": "Zzr确诊",
+      "onboard_time": 1672138771,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 259846,
+      "num": 247624,
+      "word": "2022霸屏演员",
+      "onboard_time": 1672137993,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 259612,
@@ -1179,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228374,
+      "num": 228374,
+      "word": "一张纸就可以拯救水泥鼻",
+      "onboard_time": 1672138353,
+      "rank": 34,
+      "category": "其它"
+    },
+    {
       "raw_hot": 228153,
       "num": 228153,
       "word": "刘亦菲逛街随拍",
@@ -1195,20 +1299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227198,
+      "num": 227198,
+      "word": "西热力江史琳杰打架被停赛罚款",
+      "onboard_time": 1672135292,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225713,
       "num": 2106215,
       "word": "感染者出现哪些症状应及时就诊",
       "onboard_time": 1672062693,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225471,
-      "num": 225471,
-      "word": "西热力江史琳杰打架被停赛罚款",
-      "onboard_time": 1672135292,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 225069,
@@ -1275,11 +1379,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211937,
-      "num": 211937,
-      "word": "浮图缘直播",
-      "onboard_time": 1672137034,
-      "rank": 31,
+      "raw_hot": 207566,
+      "num": 207566,
+      "word": "恢复办理内地居民赴港签注",
+      "onboard_time": 1672138233,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207458,
+      "num": 197864,
+      "word": "我可能遇到了救星",
+      "onboard_time": 1672139134,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1491,6 +1603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178290,
+      "num": 178290,
+      "word": "FoFo",
+      "onboard_time": 1672135771,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177755,
       "num": 177755,
       "word": "上海一车主5次倒车撞击后车",
@@ -1505,14 +1625,6 @@
       "onboard_time": 1672126473,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 177632,
-      "num": 177632,
-      "word": "FoFo",
-      "onboard_time": 1672135771,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 175874,
@@ -1667,14 +1779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161087,
-      "num": 161087,
-      "word": "爸爸拿万用表给孩子测体温",
-      "onboard_time": 1672136371,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160992,
       "num": 160992,
       "word": "疫情流行期间核酸应以单采单检为主",
@@ -1689,14 +1793,6 @@
       "onboard_time": 1672114592,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 159733,
-      "num": 159733,
-      "word": "外卖大姐因商家打赏20元乐得合不拢嘴",
-      "onboard_time": 1672136734,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158931,
@@ -1761,14 +1857,6 @@
       "onboard_time": 1672117172,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 150644,
-      "num": 150644,
-      "word": "相亲遇疫情被迫同居男女已领证结婚",
-      "onboard_time": 1672137152,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149777,
@@ -2097,6 +2185,14 @@
       "onboard_time": 1672055493,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 92437,
+      "num": 386421,
+      "word": "原神 雷神 神里绫人复刻",
+      "onboard_time": 1672138834,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 89634,
