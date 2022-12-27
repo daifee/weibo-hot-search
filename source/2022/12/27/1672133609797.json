@@ -1,0 +1,410 @@
+{
+  "runTime": 1672133609797,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3120947,
+        "num": 3120947,
+        "word": "中国将失去这个世界第一",
+        "onboard_time": 1672127912,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1180498,
+        "num": 1180498,
+        "word": "宋宁峰选了离婚",
+        "onboard_time": 1672124492,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206466,
+        "num": 1093785,
+        "word": "新冠乙类乙管个人防护指南",
+        "onboard_time": 1672128691,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1760402,
+        "num": 1083091,
+        "word": "赵丽颖说有翡没给大家好的状态比较遗憾",
+        "onboard_time": 1672130497,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1033039,
+        "num": 1033039,
+        "word": "女子转阴五天复阳高烧四十度",
+        "onboard_time": 1672131451,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792333,
+        "num": 792333,
+        "word": "男子婚礼后拒领证让临产女友退彩礼",
+        "onboard_time": 1672128753,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703620,
+        "num": 703620,
+        "word": "形成白肺的原因",
+        "onboard_time": 1672129235,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683539,
+        "num": 683539,
+        "word": "贝利",
+        "onboard_time": 1672131335,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 614233,
+        "num": 614233,
+        "word": "男孩咳嗽发热在家硬扛一查竟是白肺",
+        "onboard_time": 1672128453,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517039,
+        "num": 517039,
+        "word": "陈钰琪说没想到王鹤棣这么高",
+        "onboard_time": 1672132653,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553856,
+        "num": 514424,
+        "word": "狗哥",
+        "onboard_time": 1672124731,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 501828,
+        "num": 501828,
+        "word": "重症白肺死亡率40%以上",
+        "onboard_time": 1672124791,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477374,
+        "num": 477374,
+        "word": "阳了怎么判断肺部是否感染",
+        "onboard_time": 1672117650,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470577,
+        "num": 470577,
+        "word": "满江红 双男主",
+        "onboard_time": 1672114472,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416587,
+        "num": 416587,
+        "word": "中国入境日本阳性人员需隔离7天",
+        "onboard_time": 1672132653,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390794,
+        "num": 390794,
+        "word": "Meiko国服事件队友回应",
+        "onboard_time": 1672125330,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 389134,
+        "num": 389134,
+        "word": "杨迪在节目里说上一季的人都正常",
+        "onboard_time": 1672120650,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360881,
+        "num": 360881,
+        "word": "当新疆男友第一次去你家",
+        "onboard_time": 1672127074,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 342570,
+        "num": 342570,
+        "word": "爷奶阳性后吃孙女点的外卖表情亮了",
+        "onboard_time": 1672115493,
+        "rank": 18,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 341939,
+        "num": 341939,
+        "word": "男子烧掉离家4年妻子衣物称重新开始",
+        "onboard_time": 1672126473,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363740,
+        "num": 339312,
+        "word": "王佳怡和赵今麦是大学同学",
+        "onboard_time": 1672126411,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330868,
+        "num": 330868,
+        "word": "专家称房地产是明年经济增长主角",
+        "onboard_time": 1672125153,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 325286,
+        "num": 325286,
+        "word": "虞书欣圈内知名美少女摄影师",
+        "onboard_time": 1672128993,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310701,
+        "num": 310701,
+        "word": "女子阳性躺10多天头发变离子烫",
+        "onboard_time": 1672122568,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294537,
+        "num": 294537,
+        "word": "总台2023年春节联欢晚会首次彩排",
+        "onboard_time": 1672131213,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284454,
+        "num": 284454,
+        "word": "博主称餐厅虚假营销抓起帝王蟹扯腿吃掉",
+        "onboard_time": 1672131573,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272105,
+        "num": 272105,
+        "word": "华为天才少年稚晖君确认离职",
+        "onboard_time": 1672122210,
+        "rank": 26,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 262671,
+        "num": 262671,
+        "word": "微念与李子柒达成和解",
+        "onboard_time": 1672115973,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260771,
+        "num": 260771,
+        "word": "当前我国疫情防控进入新阶段",
+        "onboard_time": 1672128271,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235528,
+        "num": 235528,
+        "word": "专家称明年房地产或出现报复性反弹",
+        "onboard_time": 1672131335,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 446704,
+        "num": 233881,
+        "word": "四川新增1例死亡病例",
+        "onboard_time": 1672123050,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275639,
+        "num": 233593,
+        "word": "张婉婷妈妈心真大",
+        "onboard_time": 1672131392,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254387,
+        "num": 233410,
+        "word": "檀健次周也新剧好甜",
+        "onboard_time": 1672129593,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231406,
+        "num": 231406,
+        "word": "黄明昊演唱会",
+        "onboard_time": 1672133194,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227202,
+        "num": 227202,
+        "word": "合肥27岁女子患暴发性心肌炎",
+        "onboard_time": 1672131634,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205320,
+        "num": 205320,
+        "word": "拜登宣布纽约州进入紧急状态",
+        "onboard_time": 1672117048,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 204695,
+        "num": 204695,
+        "word": "阳性人员原则上不带病上岗",
+        "onboard_time": 1672117951,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184161,
+        "num": 184161,
+        "word": "丢个垃圾差点回不了家",
+        "onboard_time": 1672125752,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181199,
+        "num": 181199,
+        "word": "白宇吃了一百碗面",
+        "onboard_time": 1672120650,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173515,
+        "num": 180503,
+        "word": "贝利已和亲友道别",
+        "onboard_time": 1672133194,
+        "rank": 39,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 179964,
+        "num": 179964,
+        "word": "陈飞宇张婧仪芭莎花絮路透",
+        "onboard_time": 1672123289,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175181,
+        "num": 175181,
+        "word": "刘诗诗晒一念关山剧组库存碎片照",
+        "onboard_time": 1672131512,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162603,
+        "num": 162603,
+        "word": "女子花2千买体温计吐槽被收智商税",
+        "onboard_time": 1672118492,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141948,
+        "num": 155672,
+        "word": "手机该买多大的内存",
+        "onboard_time": 1672133429,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 149722,
+        "num": 149722,
+        "word": "4个月后印度将成为人口第一大国",
+        "onboard_time": 1672125513,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 145203,
+        "num": 145203,
+        "word": "小狗也需要边界感",
+        "onboard_time": 1672132835,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 138329,
+        "num": 138329,
+        "word": "女子发烧5天崩溃大哭狗子担心踱步",
+        "onboard_time": 1672112311,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137751,
+        "num": 137751,
+        "word": "乙类乙管后防控重点为3重1大",
+        "onboard_time": 1672129593,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137696,
+        "num": 137696,
+        "word": "老人养的宠物都特别听话",
+        "onboard_time": 1672133013,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 133037,
+        "num": 133037,
+        "word": "女子阳过后洗头发掉了一大把",
+        "onboard_time": 1672133554,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图读懂乙类乙管#"
+    }
+  }
+}

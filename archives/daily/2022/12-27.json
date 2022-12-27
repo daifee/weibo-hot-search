@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672132644212,
+  "endTime": 1672133609797,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1735330,
-      "num": 866067,
+      "raw_hot": 1760402,
+      "num": 1083091,
       "word": "赵丽颖说有翡没给大家好的状态比较遗憾",
       "onboard_time": 1672130497,
       "rank": 3,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1033039,
+      "num": 1033039,
+      "word": "女子转阴五天复阳高烧四十度",
+      "onboard_time": 1672131451,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1017353,
       "num": 1017353,
       "word": "谷爱凌说自己不知道的事情请不要说了",
@@ -347,6 +355,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 792333,
+      "num": 792333,
+      "word": "男子婚礼后拒领证让临产女友退彩礼",
+      "onboard_time": 1672128753,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 773303,
       "num": 574898,
       "word": "沈腾易烊千玺满江红海报",
@@ -387,20 +403,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 750380,
-      "num": 750380,
-      "word": "男子婚礼后拒领证让临产女友退彩礼",
-      "onboard_time": 1672128753,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 715345,
       "num": 715345,
       "word": "解除对新冠感染的甲类传染病防控措施",
       "onboard_time": 1672067736,
       "rank": 8,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 703620,
+      "num": 703620,
+      "word": "形成白肺的原因",
+      "onboard_time": 1672129235,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 699110,
@@ -411,20 +427,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 683539,
+      "num": 683539,
+      "word": "贝利",
+      "onboard_time": 1672131335,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 658477,
       "num": 658477,
       "word": "张译和王俊凯易烊千玺都合作了",
       "onboard_time": 1672115793,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 649103,
-      "num": 649103,
-      "word": "形成白肺的原因",
-      "onboard_time": 1672129235,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 625563,
@@ -441,6 +457,14 @@
       "onboard_time": 1672125330,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 614233,
+      "num": 614233,
+      "word": "男孩咳嗽发热在家硬扛一查竟是白肺",
+      "onboard_time": 1672128453,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601693,
@@ -467,28 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 576004,
-      "num": 576004,
-      "word": "男孩咳嗽发热在家硬扛一查竟是白肺",
-      "onboard_time": 1672128453,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 566190,
       "num": 566190,
       "word": "华为天才少年稚晖君确认离职",
       "onboard_time": 1672122210,
       "rank": 30,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 565940,
-      "num": 455507,
-      "word": "女子转阴五天复阳高烧四十度",
-      "onboard_time": 1672131451,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 564975,
@@ -539,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517039,
+      "num": 517039,
+      "word": "陈钰琪说没想到王鹤棣这么高",
+      "onboard_time": 1672132653,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 512697,
       "num": 512697,
       "word": "妈妈偷订外卖忘记孩子识字被发现",
@@ -585,14 +601,6 @@
       "onboard_time": 1672108769,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 465686,
-      "num": 465686,
-      "word": "贝利",
-      "onboard_time": 1672131335,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 461613,
@@ -657,6 +665,14 @@
       "onboard_time": 1672096878,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 416587,
+      "num": 416587,
+      "word": "中国入境日本阳性人员需隔离7天",
+      "onboard_time": 1672132653,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403522,
@@ -899,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284454,
+      "num": 284454,
+      "word": "博主称餐厅虚假营销抓起帝王蟹扯腿吃掉",
+      "onboard_time": 1672131573,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272810,
       "num": 220785,
       "word": "阿Sa阿娇说跨年要一起躺着过",
@@ -1035,6 +1059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235528,
+      "num": 235528,
+      "word": "专家称明年房地产或出现报复性反弹",
+      "onboard_time": 1672131335,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 232861,
       "num": 232861,
       "word": "回来的女儿洗衣机里是李文文吗",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1672106249,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231406,
+      "num": 231406,
+      "word": "黄明昊演唱会",
+      "onboard_time": 1672133194,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 229173,
@@ -1072,6 +1112,14 @@
       "word": "阳了补维C来得及吗",
       "onboard_time": 1672113511,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227202,
+      "num": 227202,
+      "word": "合肥27岁女子患暴发性心肌炎",
+      "onboard_time": 1672131634,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1123,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217927,
-      "num": 217927,
-      "word": "专家称明年房地产或出现报复性反弹",
-      "onboard_time": 1672131335,
-      "rank": 34,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 214415,
       "num": 214415,
       "word": "赵露思神隐白衣威亚造型路透",
@@ -1177,14 +1217,6 @@
       "onboard_time": 1672063237,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 202981,
-      "num": 202981,
-      "word": "博主称餐厅虚假营销抓起帝王蟹扯腿吃掉",
-      "onboard_time": 1672131573,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200224,
@@ -1297,14 +1329,6 @@
       "onboard_time": 1672071326,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182769,
-      "num": 182769,
-      "word": "合肥27岁女子患暴发性心肌炎",
-      "onboard_time": 1672131634,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182627,
@@ -1433,6 +1457,14 @@
       "onboard_time": 1672075698,
       "rank": 45,
       "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 173515,
+      "num": 180503,
+      "word": "贝利已和亲友道别",
+      "onboard_time": 1672133194,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 173337,
@@ -1643,12 +1675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145203,
+      "num": 145203,
+      "word": "小狗也需要边界感",
+      "onboard_time": 1672132835,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 143361,
       "num": 143361,
       "word": "女生一年参加百场长跑赢一墙奖牌",
       "onboard_time": 1672108948,
       "rank": 45,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 141948,
+      "num": 155672,
+      "word": "手机该买多大的内存",
+      "onboard_time": 1672133429,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 141004,
@@ -1683,10 +1731,26 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 137696,
+      "num": 137696,
+      "word": "老人养的宠物都特别听话",
+      "onboard_time": 1672133013,
+      "rank": 48,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 136925,
       "num": 136925,
       "word": "女子牵狗进饭店绊倒人却未道歉",
       "onboard_time": 1672130135,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133037,
+      "num": 133037,
+      "word": "女子阳过后洗头发掉了一大把",
+      "onboard_time": 1672133554,
       "rank": 49,
       "category": "社会新闻"
     },
