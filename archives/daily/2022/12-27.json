@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672097614583,
+  "endTime": 1672104314391,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -35,12 +35,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 890449,
-      "num": 890449,
+      "raw_hot": 1070761,
+      "num": 1070761,
       "word": "大二女生吃药一年得知被误诊艾滋病",
       "onboard_time": 1672067433,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 969937,
+      "num": 969937,
+      "word": "谷爱凌说自己不知道的事情请不要说了",
+      "onboard_time": 1672065277,
+      "rank": 7,
+      "category": "体育,网红"
+    },
+    {
+      "raw_hot": 928617,
+      "num": 928617,
+      "word": "武汉三镇官方声明",
+      "onboard_time": 1672099466,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 827453,
@@ -49,14 +65,6 @@
       "onboard_time": 1672059454,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 722814,
-      "num": 722814,
-      "word": "谷爱凌说自己不知道的事情请不要说了",
-      "onboard_time": 1672065277,
-      "rank": 7,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 715345,
@@ -75,12 +83,44 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 601693,
+      "num": 601693,
+      "word": "年末川渝男人的统一着装",
+      "onboard_time": 1672097481,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 524509,
       "num": 524509,
       "word": "有序恢复中国公民出境旅游",
       "onboard_time": 1672070789,
       "rank": 19,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 512697,
+      "num": 512697,
+      "word": "妈妈偷订外卖忘记孩子识字被发现",
+      "onboard_time": 1672068756,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511147,
+      "num": 511147,
+      "word": "疫情公布频次调整为每月一次",
+      "onboard_time": 1672098985,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461613,
+      "num": 461613,
+      "word": "防控近三年后为何回归乙类管理",
+      "onboard_time": 1672100066,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438487,
@@ -91,11 +131,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 433034,
-      "num": 433034,
-      "word": "妈妈偷订外卖忘记孩子识字被发现",
-      "onboard_time": 1672068756,
-      "rank": 11,
+      "raw_hot": 413657,
+      "num": 413657,
+      "word": "梁洁有多喜欢这件粉色毛绒大衣",
+      "onboard_time": 1672096878,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 403522,
+      "num": 403522,
+      "word": "25岁老总挪用公款打赏女主播50万",
+      "onboard_time": 1672069054,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -131,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330518,
+      "num": 330518,
+      "word": "新冠转阴后如何预防心肌损伤",
+      "onboard_time": 1672097842,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327455,
       "num": 327455,
       "word": "王重江死了",
@@ -139,11 +195,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 290385,
-      "num": 290385,
-      "word": "25岁老总挪用公款打赏女主播50万",
-      "onboard_time": 1672069054,
-      "rank": 18,
+      "raw_hot": 326382,
+      "num": 326382,
+      "word": "阳了后为什么会眼睛痛",
+      "onboard_time": 1672086553,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290795,
+      "num": 290795,
+      "word": "男子开车与救护车碰撞后落水溺亡",
+      "onboard_time": 1672068451,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -153,6 +217,14 @@
       "onboard_time": 1672046793,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267905,
+      "num": 267905,
+      "word": "苹果推出跨年福利",
+      "onboard_time": 1672103250,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 259612,
@@ -187,12 +259,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237798,
+      "num": 237798,
+      "word": "调整为乙类乙管不是放任不管",
+      "onboard_time": 1672102890,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232861,
+      "num": 232861,
+      "word": "回来的女儿洗衣机里是李文文吗",
+      "onboard_time": 1672101029,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 229173,
+      "num": 229173,
+      "word": "甲类乙类传染病有哪些不同",
+      "onboard_time": 1672098684,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228153,
       "num": 228153,
       "word": "刘亦菲逛街随拍",
       "onboard_time": 1672067014,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225713,
+      "num": 2106215,
+      "word": "感染者出现哪些症状应及时就诊",
+      "onboard_time": 1672062693,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225069,
@@ -203,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207114,
+      "num": 207114,
+      "word": "王凯谭松韵新剧首播收视率第一",
+      "onboard_time": 1672085292,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205945,
+      "num": 205945,
+      "word": "Giselle合作曲part只有3秒",
+      "onboard_time": 1672095918,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203996,
       "num": 203996,
       "word": "骚白",
@@ -211,20 +331,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 200978,
-      "num": 200978,
-      "word": "阳了后为什么会眼睛痛",
-      "onboard_time": 1672086553,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197715,
       "num": 187651,
       "word": "120闯红灯撞车后被指见死不救",
       "onboard_time": 1672071565,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195845,
+      "num": 186697,
+      "word": "如何在精神病院证明自己不是精神病",
+      "onboard_time": 1672103548,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192788,
+      "num": 192788,
+      "word": "宋祖儿春晚彩排",
+      "onboard_time": 1672097180,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 186113,
@@ -243,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182627,
+      "num": 182627,
+      "word": "阳了后医生不建议做的10件事",
+      "onboard_time": 1672061077,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181787,
       "num": 181787,
       "word": "乙类乙管后有哪些应对措施",
@@ -251,11 +387,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177154,
-      "num": 2106215,
-      "word": "感染者出现哪些症状应及时就诊",
-      "onboard_time": 1672062693,
-      "rank": 2,
+      "raw_hot": 180133,
+      "num": 180133,
+      "word": "回来的女儿猴脸男是小卖部老板",
+      "onboard_time": 1672065753,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 177755,
+      "num": 177755,
+      "word": "上海一车主5次倒车撞击后车",
+      "onboard_time": 1672065695,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -275,6 +419,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173548,
+      "num": 173548,
+      "word": "顾客吐槽看阿凡达需30元购3D眼镜",
+      "onboard_time": 1672075698,
+      "rank": 45,
+      "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 168892,
+      "num": 168892,
+      "word": "女孩子的发饰",
+      "onboard_time": 1672103548,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 168615,
       "num": 168615,
       "word": "心肌炎症状有哪些",
@@ -283,8 +443,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162434,
-      "num": 162434,
+      "raw_hot": 162559,
+      "num": 162559,
       "word": "乔治娜圣诞礼物送C罗劳斯莱斯",
       "onboard_time": 1672058373,
       "rank": 32,
@@ -299,12 +459,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154180,
-      "num": 154180,
+      "raw_hot": 155222,
+      "num": 155222,
       "word": "金菊花国产烂片颁奖典礼",
       "onboard_time": 1672057712,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149777,
+      "num": 149777,
+      "word": "2022哪些同框相遇打动了你",
+      "onboard_time": 1672103729,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 146290,
+      "num": 146290,
+      "word": "苹果iPhone15或复活mini产品线",
+      "onboard_time": 1672074380,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 145817,
@@ -315,11 +491,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138237,
-      "num": 138237,
-      "word": "回来的女儿猴脸男是小卖部老板",
-      "onboard_time": 1672065753,
-      "rank": 35,
+      "raw_hot": 141004,
+      "num": 141004,
+      "word": "魔方大厦的秘密",
+      "onboard_time": 1672097904,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -329,6 +505,14 @@
       "onboard_time": 1672053932,
       "rank": 36,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 131763,
+      "num": 131763,
+      "word": "你看过最难释怀的烂剧",
+      "onboard_time": 1672074319,
+      "rank": 49,
+      "category": "影视,情感"
     },
     {
       "raw_hot": 130069,
@@ -355,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126744,
-      "num": 126744,
-      "word": "梁洁有多喜欢这件粉色毛绒大衣",
-      "onboard_time": 1672096878,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 126065,
       "num": 126065,
       "word": "白敬亭荣获豆瓣2022年度年度最受关注演员",
@@ -387,22 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123776,
-      "num": 123776,
-      "word": "上海一车主5次倒车撞击后车",
-      "onboard_time": 1672065695,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122862,
-      "num": 122862,
-      "word": "阳了后医生不建议做的10件事",
-      "onboard_time": 1672061077,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120248,
       "num": 120248,
       "word": "这算是跨年失败了",
@@ -411,12 +571,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114666,
-      "num": 114666,
-      "word": "苹果iPhone15或复活mini产品线",
-      "onboard_time": 1672074380,
-      "rank": 47,
-      "category": "科技"
+      "raw_hot": 118644,
+      "num": 118644,
+      "word": "新冠肺炎为何更名新型冠状病毒感染",
+      "onboard_time": 1672104149,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113492,
@@ -425,22 +585,6 @@
       "onboard_time": 1672055791,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 112899,
-      "num": 112899,
-      "word": "男子开车与救护车碰撞后落水溺亡",
-      "onboard_time": 1672068451,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110339,
-      "num": 110339,
-      "word": "Giselle合作曲part只有3秒",
-      "onboard_time": 1672095918,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 106527,
@@ -475,36 +619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82520,
-      "num": 82520,
-      "word": "宋祖儿春晚彩排",
-      "onboard_time": 1672097180,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 81986,
-      "num": 81986,
-      "word": "顾客吐槽看阿凡达需30元购3D眼镜",
-      "onboard_time": 1672075698,
-      "rank": 45,
-      "category": "影视,社会新闻"
-    },
-    {
       "raw_hot": 77510,
       "num": 77510,
       "word": "崔然竣歌谣大战直拍",
       "onboard_time": 1672073902,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 72604,
-      "num": 72604,
-      "word": "你看过最难释怀的烂剧",
-      "onboard_time": 1672074319,
-      "rank": 49,
-      "category": "影视,情感"
     },
     {
       "raw_hot": 69629,
@@ -515,28 +635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66124,
-      "num": 66124,
-      "word": "王凯谭松韵新剧首播收视率第一",
-      "onboard_time": 1672085292,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 55595,
       "num": 55595,
       "word": "孟子义在线追星张嘉佳",
       "onboard_time": 1672076416,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53404,
-      "num": 53404,
-      "word": "年末川渝男人的统一着装",
-      "onboard_time": 1672097481,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 47330,
