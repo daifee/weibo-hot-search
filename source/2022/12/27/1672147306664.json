@@ -1,0 +1,410 @@
+{
+  "runTime": 1672147306664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1536973,
+        "num": 1536973,
+        "word": "北京协和医院发热门诊现状",
+        "onboard_time": 1672138593,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1319255,
+        "num": 1319255,
+        "word": "中国将失去这个世界第一",
+        "onboard_time": 1672127912,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531197,
+        "num": 1144465,
+        "word": "白肺和原始毒株及疫苗接种没关系",
+        "onboard_time": 1672142072,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1841104,
+        "num": 1112702,
+        "word": "艾滋病女子无防护卖淫被判1年4个月",
+        "onboard_time": 1672144353,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030850,
+        "num": 1030850,
+        "word": "浮图缘",
+        "onboard_time": 1672136313,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 981113,
+        "num": 981113,
+        "word": "在小县城找对象有多难",
+        "onboard_time": 1672144953,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 885026,
+        "num": 885026,
+        "word": "张亮儿子回应网络传言",
+        "onboard_time": 1672140454,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 838150,
+        "num": 838150,
+        "word": "男子称连续咳嗽10多天断3根肋骨",
+        "onboard_time": 1672141892,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609099,
+        "num": 609099,
+        "word": "铃铛女朋友",
+        "onboard_time": 1672143090,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 587010,
+        "num": 587010,
+        "word": "赵丽颖说有翡没给大家好的状态比较遗憾",
+        "onboard_time": 1672130497,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1030818,
+        "num": 584801,
+        "word": "杨紫迪丽热巴同款公主头造型",
+        "onboard_time": 1672144534,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 567210,
+        "num": 567210,
+        "word": "田小娟确诊新冠",
+        "onboard_time": 1672139313,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 544707,
+        "num": 544707,
+        "word": "长相思",
+        "onboard_time": 1672146273,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 482092,
+        "num": 482092,
+        "word": "男子称转阴3天后出门受凉复阳",
+        "onboard_time": 1672140333,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11605,
+        "num": 473074,
+        "word": "雷军的新年礼物",
+        "onboard_time": 1672146031,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467312,
+        "num": 467312,
+        "word": "女子阳过后洗头发掉了一大把",
+        "onboard_time": 1672133554,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443613,
+        "num": 443613,
+        "word": "相亲遇疫情被迫同居男女已领证结婚",
+        "onboard_time": 1672137152,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295663,
+        "num": 295663,
+        "word": "坦然吕布FMVP新皮肤",
+        "onboard_time": 1672142611,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293911,
+        "num": 293911,
+        "word": "k60",
+        "onboard_time": 1672142191,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 286193,
+        "num": 286193,
+        "word": "形成白肺的原因",
+        "onboard_time": 1672129235,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411100,
+        "num": 264491,
+        "word": "浮图缘首播观后感",
+        "onboard_time": 1672145614,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390165,
+        "num": 262785,
+        "word": "五月天2023年跨年演唱会官宣",
+        "onboard_time": 1672144651,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352752,
+        "num": 249347,
+        "word": "与凤行",
+        "onboard_time": 1672137752,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235302,
+        "num": 235302,
+        "word": "专家称明年房地产或出现报复性反弹",
+        "onboard_time": 1672131335,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 230422,
+        "num": 230422,
+        "word": "卫健委回应武汉急救车被指见死不救",
+        "onboard_time": 1672135534,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223066,
+        "num": 223066,
+        "word": "拒绝回家狂扒车门的小狗",
+        "onboard_time": 1672144773,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210598,
+        "num": 210598,
+        "word": "男孩咳嗽发热在家硬扛一查竟是白肺",
+        "onboard_time": 1672128453,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202542,
+        "num": 202542,
+        "word": "贝利",
+        "onboard_time": 1672131335,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198377,
+        "num": 198377,
+        "word": "合肥27岁女子患暴发性心肌炎",
+        "onboard_time": 1672131634,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196626,
+        "num": 196626,
+        "word": "阳了才知道辣是痛觉",
+        "onboard_time": 1672146334,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351806,
+        "num": 195473,
+        "word": "宋宁峰选了离婚",
+        "onboard_time": 1672124492,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313506,
+        "num": 194441,
+        "word": "陈小春徐冬冬新片预告全员恶人",
+        "onboard_time": 1672146573,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296646,
+        "num": 193033,
+        "word": "我可能遇到了救星 甜",
+        "onboard_time": 1672143935,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249860,
+        "num": 191153,
+        "word": "心疼张婉婷",
+        "onboard_time": 1672137872,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246346,
+        "num": 189506,
+        "word": "西蓝花cp一集亲三次",
+        "onboard_time": 1672139793,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189311,
+        "num": 189311,
+        "word": "妈妈带病洗澡8岁男童诅咒式劝阻",
+        "onboard_time": 1672134809,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182661,
+        "num": 182661,
+        "word": "爸爸拿万用表给孩子测体温",
+        "onboard_time": 1672136371,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179873,
+        "num": 179873,
+        "word": "永远要和喜欢的人好好说话",
+        "onboard_time": 1672133912,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177972,
+        "num": 177972,
+        "word": "Zzr确诊",
+        "onboard_time": 1672138771,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170288,
+        "num": 170288,
+        "word": "1岁半宝宝一口气吃4个海蛎子",
+        "onboard_time": 1672146813,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245865,
+        "num": 167086,
+        "word": "黄子韬直播",
+        "onboard_time": 1672143392,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242944,
+        "num": 166735,
+        "word": "我可能遇到了救星 男主人设",
+        "onboard_time": 1672147292,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163813,
+        "num": 163813,
+        "word": "恋与制作人",
+        "onboard_time": 1672142970,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152939,
+        "num": 152939,
+        "word": "女子转阴五天复阳高烧四十度",
+        "onboard_time": 1672131451,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152496,
+        "num": 152496,
+        "word": "四川新增1例死亡病例",
+        "onboard_time": 1672123050,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148212,
+        "num": 148212,
+        "word": "没见过这么笨的猫咪",
+        "onboard_time": 1672143333,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141401,
+        "num": 141401,
+        "word": "海的尽头是吕布FMVP皮肤",
+        "onboard_time": 1672145193,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138229,
+        "num": 138229,
+        "word": "一张纸就可以拯救水泥鼻",
+        "onboard_time": 1672138353,
+        "rank": 47,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 136134,
+        "num": 136134,
+        "word": "原神雷电将军",
+        "onboard_time": 1672139972,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121135,
+        "num": 121135,
+        "word": "哈利波特",
+        "onboard_time": 1672147114,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#90秒超燃回顾中国航天这一年#"
+    }
+  }
+}
