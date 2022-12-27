@@ -1,0 +1,410 @@
+{
+  "runTime": 1672114932130,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3312345,
+        "num": 3312345,
+        "word": "第一波最高峰冲击未出现大面积重症死亡",
+        "onboard_time": 1672111950,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1509606,
+        "num": 1509606,
+        "word": "多国对来自中国旅客查核酸",
+        "onboard_time": 1672110330,
+        "rank": 1,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 72462,
+        "num": 1376184,
+        "word": "感染者出现哪些症状应及时就诊",
+        "onboard_time": 1672062693,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1361506,
+        "num": 1361506,
+        "word": "湖南卫视跨年姿态官宣",
+        "onboard_time": 1672108409,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1186698,
+        "num": 1186698,
+        "word": "女子发烧5天崩溃大哭狗子担心踱步",
+        "onboard_time": 1672112311,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099197,
+        "num": 1099197,
+        "word": "光遇",
+        "onboard_time": 1672114049,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1001480,
+        "num": 1001480,
+        "word": "白肺是什么",
+        "onboard_time": 1672109245,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920748,
+        "num": 920748,
+        "word": "你还在咳咳咳吗",
+        "onboard_time": 1672108048,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817143,
+        "num": 817143,
+        "word": "塞尔维亚军警进入最高级别战备状态",
+        "onboard_time": 1672112131,
+        "rank": 8,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 675144,
+        "num": 675144,
+        "word": "张艺谋镜头下的易烊千玺",
+        "onboard_time": 1672111829,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1421568,
+        "num": 666278,
+        "word": "宋祖儿 壹心",
+        "onboard_time": 1672113873,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 630696,
+        "num": 630696,
+        "word": "王佳怡 满江红",
+        "onboard_time": 1672113873,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 618278,
+        "num": 618278,
+        "word": "老人阳了一定要查血氧",
+        "onboard_time": 1672112610,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611280,
+        "num": 611280,
+        "word": "iPhone车祸检测占用大量救援资源",
+        "onboard_time": 1672106728,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 527200,
+        "num": 527200,
+        "word": "名侦探柯南新剧场版预告",
+        "onboard_time": 1672112190,
+        "rank": 14,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 477311,
+        "num": 477311,
+        "word": "大二女生吃药一年得知被误诊艾滋病",
+        "onboard_time": 1672067433,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462020,
+        "num": 462020,
+        "word": "xbb",
+        "onboard_time": 1672057475,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417215,
+        "num": 417215,
+        "word": "波司登五年涨价六至八成",
+        "onboard_time": 1672111529,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 381501,
+        "num": 381501,
+        "word": "转阴后熬夜易诱发心肌损伤",
+        "onboard_time": 1672112610,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364906,
+        "num": 364906,
+        "word": "北京对老年人发放血氧夹",
+        "onboard_time": 1672106186,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347175,
+        "num": 347175,
+        "word": "微念创始人刘同明退出李子柒公司",
+        "onboard_time": 1672112371,
+        "rank": 20,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 347009,
+        "num": 347009,
+        "word": "徐明浩将缺席雅加达演唱会",
+        "onboard_time": 1672109728,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 335515,
+        "num": 335515,
+        "word": "见过眼睛最漂亮的狗狗",
+        "onboard_time": 1672110929,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320325,
+        "num": 320325,
+        "word": "满江红官宣阵容",
+        "onboard_time": 1672108769,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278464,
+        "num": 278464,
+        "word": "武汉三镇官方声明",
+        "onboard_time": 1672099466,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295399,
+        "num": 266215,
+        "word": "满江红",
+        "onboard_time": 1672107628,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251375,
+        "num": 251375,
+        "word": "新冠肺炎更名为新冠感染",
+        "onboard_time": 1672067493,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 273611,
+        "num": 246424,
+        "word": "满江红 双男主",
+        "onboard_time": 1672114472,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227831,
+        "num": 227831,
+        "word": "阳了补维C来得及吗",
+        "onboard_time": 1672113511,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221173,
+        "num": 221173,
+        "word": "妈妈偷订外卖忘记孩子识字被发现",
+        "onboard_time": 1672068756,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272810,
+        "num": 220785,
+        "word": "阿Sa阿娇说跨年要一起躺着过",
+        "onboard_time": 1672112668,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242700,
+        "num": 220505,
+        "word": "迪丽热巴小红帽三宫格",
+        "onboard_time": 1672113873,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218670,
+        "num": 218670,
+        "word": "国安比赛弃权",
+        "onboard_time": 1672108827,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196587,
+        "num": 196587,
+        "word": "抗新冠病毒药物该怎么用",
+        "onboard_time": 1672114592,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191384,
+        "num": 191384,
+        "word": "这个狗全是心眼",
+        "onboard_time": 1672111589,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184243,
+        "num": 184243,
+        "word": "王鹤棣说一起迎接2023",
+        "onboard_time": 1672114714,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180465,
+        "num": 180465,
+        "word": "阳了后一直咳嗽是怎么回事",
+        "onboard_time": 1672114291,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178539,
+        "num": 178539,
+        "word": "郑秀妍说来跟我一起跳进2023年",
+        "onboard_time": 1672114894,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175877,
+        "num": 175877,
+        "word": "国家统计局最终核实2021年GDP",
+        "onboard_time": 1672105946,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 175176,
+        "num": 175176,
+        "word": "谷爱凌说自己不知道的事情请不要说了",
+        "onboard_time": 1672065277,
+        "rank": 39,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 173908,
+        "num": 173908,
+        "word": "美官员再要求字节出售TikTok美国业务",
+        "onboard_time": 1672110030,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 171127,
+        "num": 171127,
+        "word": "哪个国家会是你出国首站",
+        "onboard_time": 1672106128,
+        "rank": 41,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 165741,
+        "num": 165741,
+        "word": "篮网九连胜",
+        "onboard_time": 1672110869,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160992,
+        "num": 160992,
+        "word": "疫情流行期间核酸应以单采单检为主",
+        "onboard_time": 1672114651,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160910,
+        "num": 160910,
+        "word": "狗狗早起去蹭吃后回来装睡",
+        "onboard_time": 1672114234,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159943,
+        "num": 159943,
+        "word": "浮图缘救赎版预告",
+        "onboard_time": 1672114592,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140881,
+        "num": 140881,
+        "word": "120回应被指闯红灯后撞车",
+        "onboard_time": 1672113032,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136507,
+        "num": 136507,
+        "word": "25岁老总挪用公款打赏女主播50万",
+        "onboard_time": 1672069054,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123666,
+        "num": 123666,
+        "word": "专家回应奥密克戎是否会导致白肺现象",
+        "onboard_time": 1672059454,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113463,
+        "num": 118857,
+        "word": "调整为乙类乙管不是放任不管",
+        "onboard_time": 1672102890,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022中国色彩之美#"
+    }
+  }
+}

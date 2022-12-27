@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672112007478,
+  "endTime": 1672114932130,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -9,6 +9,14 @@
       "onboard_time": 1672067493,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3312345,
+      "num": 3312345,
+      "word": "第一波最高峰冲击未出现大面积重症死亡",
+      "onboard_time": 1672111950,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2227798,
@@ -35,6 +43,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1509606,
+      "num": 1509606,
+      "word": "多国对来自中国旅客查核酸",
+      "onboard_time": 1672110330,
+      "rank": 16,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1421568,
+      "num": 666278,
+      "word": "宋祖儿 壹心",
+      "onboard_time": 1672113873,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1361506,
+      "num": 1361506,
+      "word": "湖南卫视跨年姿态官宣",
+      "onboard_time": 1672108409,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1357043,
       "num": 1357043,
       "word": "iPhone车祸检测占用大量救援资源",
@@ -51,12 +83,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1138032,
-      "num": 1138032,
-      "word": "湖南卫视跨年姿态官宣",
-      "onboard_time": 1672108409,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 1186698,
+      "num": 1186698,
+      "word": "女子发烧5天崩溃大哭狗子担心踱步",
+      "onboard_time": 1672112311,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1099197,
+      "num": 1099197,
+      "word": "光遇",
+      "onboard_time": 1672114049,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 1097741,
@@ -115,14 +155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 852859,
-      "num": 852859,
-      "word": "多国对来自中国旅客查核酸",
-      "onboard_time": 1672110330,
-      "rank": 16,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 845180,
       "num": 845180,
       "word": "满江红官宣阵容",
@@ -137,6 +169,14 @@
       "onboard_time": 1672059454,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 817143,
+      "num": 817143,
+      "word": "塞尔维亚军警进入最高级别战备状态",
+      "onboard_time": 1672112131,
+      "rank": 8,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 773303,
@@ -171,12 +211,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 630696,
+      "num": 630696,
+      "word": "王佳怡 满江红",
+      "onboard_time": 1672113873,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 625563,
       "num": 625563,
       "word": "葛优母亲施文心去世",
       "onboard_time": 1672065394,
       "rank": 9,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 618278,
+      "num": 618278,
+      "word": "老人阳了一定要查血氧",
+      "onboard_time": 1672112610,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601693,
@@ -201,6 +257,14 @@
       "onboard_time": 1672104387,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 527200,
+      "num": 527200,
+      "word": "名侦探柯南新剧场版预告",
+      "onboard_time": 1672112190,
+      "rank": 14,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 524509,
@@ -275,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 417215,
+      "num": 417215,
+      "word": "波司登五年涨价六至八成",
+      "onboard_time": 1672111529,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 403522,
       "num": 403522,
       "word": "25岁老总挪用公款打赏女主播50万",
@@ -296,6 +368,14 @@
       "word": "京东健康辉瑞新冠药已断货",
       "onboard_time": 1672069234,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381501,
+      "num": 381501,
+      "word": "转阴后熬夜易诱发心肌损伤",
+      "onboard_time": 1672112610,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -323,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347175,
+      "num": 347175,
+      "word": "微念创始人刘同明退出李子柒公司",
+      "onboard_time": 1672112371,
+      "rank": 20,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 343424,
       "num": 310393,
       "word": "刘强东痛批京东中高层拿PPT欺骗自己",
@@ -337,6 +425,14 @@
       "onboard_time": 1672061017,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335515,
+      "num": 335515,
+      "word": "见过眼睛最漂亮的狗狗",
+      "onboard_time": 1672110929,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 330518,
@@ -387,6 +483,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273611,
+      "num": 246424,
+      "word": "满江红 双男主",
+      "onboard_time": 1672114472,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 272810,
+      "num": 220785,
+      "word": "阿Sa阿娇说跨年要一起躺着过",
+      "onboard_time": 1672112668,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266538,
       "num": 266538,
       "word": "男孩向妈妈吼叫被爸爸教育",
@@ -433,6 +545,14 @@
       "onboard_time": 1672069174,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242700,
+      "num": 220505,
+      "word": "迪丽热巴小红帽三宫格",
+      "onboard_time": 1672113873,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 242052,
@@ -497,6 +617,14 @@
       "onboard_time": 1672067014,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227831,
+      "num": 227831,
+      "word": "阳了补维C来得及吗",
+      "onboard_time": 1672113511,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225713,
@@ -571,12 +699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196587,
+      "num": 196587,
+      "word": "抗新冠病毒药物该怎么用",
+      "onboard_time": 1672114592,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192788,
       "num": 192788,
       "word": "宋祖儿春晚彩排",
       "onboard_time": 1672097180,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191384,
+      "num": 191384,
+      "word": "这个狗全是心眼",
+      "onboard_time": 1672111589,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 187327,
@@ -593,6 +737,14 @@
       "onboard_time": 1672070971,
       "rank": 26,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 184243,
+      "num": 184243,
+      "word": "王鹤棣说一起迎接2023",
+      "onboard_time": 1672114714,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 183651,
@@ -619,12 +771,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180465,
+      "num": 180465,
+      "word": "阳了后一直咳嗽是怎么回事",
+      "onboard_time": 1672114291,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180133,
       "num": 180133,
       "word": "回来的女儿猴脸男是小卖部老板",
       "onboard_time": 1672065753,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178539,
+      "num": 178539,
+      "word": "郑秀妍说来跟我一起跳进2023年",
+      "onboard_time": 1672114894,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 177755,
@@ -667,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168490,
-      "num": 168490,
-      "word": "见过眼睛最漂亮的狗狗",
-      "onboard_time": 1672110929,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 162559,
       "num": 162559,
       "word": "乔治娜圣诞礼物送C罗劳斯莱斯",
@@ -705,6 +865,30 @@
       "onboard_time": 1672111889,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160992,
+      "num": 160992,
+      "word": "疫情流行期间核酸应以单采单检为主",
+      "onboard_time": 1672114651,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160910,
+      "num": 160910,
+      "word": "狗狗早起去蹭吃后回来装睡",
+      "onboard_time": 1672114234,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 159943,
+      "num": 159943,
+      "word": "浮图缘救赎版预告",
+      "onboard_time": 1672114592,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 157852,
@@ -771,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140881,
+      "num": 140881,
+      "word": "120回应被指闯红灯后撞车",
+      "onboard_time": 1672113032,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138174,
       "num": 138174,
       "word": "广西一老人烧甘蔗叶时不幸身亡",
@@ -819,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126105,
-      "num": 126105,
-      "word": "波司登五年涨价六至八成",
-      "onboard_time": 1672111529,
-      "rank": 42,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 126065,
       "num": 126065,
       "word": "白敬亭荣获豆瓣2022年度年度最受关注演员",
@@ -857,14 +1041,6 @@
       "onboard_time": 1672106488,
       "rank": 44,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 122169,
-      "num": 122169,
-      "word": "这个狗全是心眼",
-      "onboard_time": 1672111589,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 120248,
@@ -905,14 +1081,6 @@
       "onboard_time": 1672055791,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 110744,
-      "num": 110744,
-      "word": "第一波最高峰冲击未出现大面积重症死亡",
-      "onboard_time": 1672111950,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107876,
