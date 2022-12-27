@@ -1,6 +1,6 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672173209253,
+  "endTime": 1672175730583,
   "band_list": [
     {
       "raw_hot": 1893062,
@@ -483,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35777,
+      "num": 35777,
+      "word": "陕西韩城一高中生虐猫",
+      "onboard_time": 1672171451,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 33830,
       "num": 33088,
       "word": "撒贝宁和鱼多少是有点缘分的",
@@ -499,20 +507,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30836,
-      "num": 30836,
-      "word": "陕西韩城一高中生虐猫",
-      "onboard_time": 1672171451,
-      "rank": 29,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 29423,
-      "num": 29423,
+      "raw_hot": 32111,
+      "num": 32111,
       "word": "曼联vs诺丁汉森林",
       "onboard_time": 1672169652,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17033,
+      "num": 17033,
+      "word": "谭松韵演的程霄好狠",
+      "onboard_time": 1672175232,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 12320,
+      "num": 14051,
+      "word": "阳了洗澡会不会加重症状",
+      "onboard_time": 1672175414,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

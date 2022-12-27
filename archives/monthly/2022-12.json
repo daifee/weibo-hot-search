@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672173209253,
+  "endTime": 1672175730583,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -63403,6 +63403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35777,
+      "num": 35777,
+      "word": "陕西韩城一高中生虐猫",
+      "onboard_time": 1672171451,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 35743,
       "num": 35743,
       "word": "刚回家的大学生精神状况",
@@ -63507,6 +63515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32111,
+      "num": 32111,
+      "word": "曼联vs诺丁汉森林",
+      "onboard_time": 1672169652,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31990,
       "num": 110860,
       "word": "恩博洛破门",
@@ -63531,14 +63547,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 30836,
-      "num": 30836,
-      "word": "陕西韩城一高中生虐猫",
-      "onboard_time": 1672171451,
-      "rank": 29,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 30348,
       "num": 398451,
       "word": "绅士鞋有多舒适",
@@ -63553,14 +63561,6 @@
       "onboard_time": 1671559576,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 29423,
-      "num": 29423,
-      "word": "曼联vs诺丁汉森林",
-      "onboard_time": 1672169652,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 29422,
@@ -63763,6 +63763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17033,
+      "num": 17033,
+      "word": "谭松韵演的程霄好狠",
+      "onboard_time": 1672175232,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 16700,
       "num": 19364,
       "word": "这猫咋还边走边踩奶啊",
@@ -63848,6 +63856,14 @@
       "word": "电动时代驾驶乐趣在哪儿",
       "onboard_time": 1671112837,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12320,
+      "num": 14051,
+      "word": "阳了洗澡会不会加重症状",
+      "onboard_time": 1672175414,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
