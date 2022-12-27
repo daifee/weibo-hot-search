@@ -1,6 +1,6 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672165295286,
+  "endTime": 1672166168048,
   "band_list": [
     {
       "raw_hot": 1893062,
@@ -411,8 +411,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90813,
-      "num": 90813,
+      "raw_hot": 93448,
+      "num": 93448,
       "word": "阳过后小心病毒性心肌炎",
       "onboard_time": 1672159222,
       "rank": 49,
@@ -467,7 +467,15 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 33088,
+      "raw_hot": 35656,
+      "num": 35656,
+      "word": "原神3.3",
+      "onboard_time": 1672165215,
+      "rank": 49,
+      "category": "动漫,游戏"
+    },
+    {
+      "raw_hot": 33830,
       "num": 33088,
       "word": "撒贝宁和鱼多少是有点缘分的",
       "onboard_time": 1672164494,
@@ -481,14 +489,6 @@
       "onboard_time": 1672163835,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21791,
-      "num": 23070,
-      "word": "原神3.3",
-      "onboard_time": 1672165215,
-      "rank": 49,
-      "category": "动漫,游戏"
     }
   ],
   "hotgov_list": [
