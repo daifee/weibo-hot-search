@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672166168048,
+  "endTime": 1672168450355,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -5459,6 +5459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 52001,
+      "num": 52001,
+      "word": "原神3.3",
+      "onboard_time": 1672165215,
+      "rank": 49,
+      "category": "动漫,游戏"
+    },
+    {
       "raw_hot": 48948,
       "num": 78842,
       "word": "为保护孩子妈妈用塑料布自制消毒仓",
@@ -5505,14 +5513,6 @@
       "onboard_time": 1672095196,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 35656,
-      "num": 35656,
-      "word": "原神3.3",
-      "onboard_time": 1672165215,
-      "rank": 49,
-      "category": "动漫,游戏"
     },
     {
       "raw_hot": 33830,
