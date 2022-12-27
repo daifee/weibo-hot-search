@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672136352795,
+  "endTime": 1672137288773,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2250738,
+      "num": 2250738,
+      "word": "中国入境日本阳性人员需隔离7天",
+      "onboard_time": 1672132653,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2227798,
       "num": 2227798,
       "word": "章泽天发朋友圈介绍如何购买辉瑞新冠药",
@@ -57,14 +65,6 @@
       "onboard_time": 1672124492,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2063037,
-      "num": 2063037,
-      "word": "中国入境日本阳性人员需隔离7天",
-      "onboard_time": 1672132653,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1853950,
@@ -395,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 765350,
+      "num": 765350,
+      "word": "女子阳过后洗头发掉了一大把",
+      "onboard_time": 1672133554,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 762087,
       "num": 762087,
       "word": "贝利",
@@ -416,14 +424,6 @@
       "word": "未来新冠或似流感需每年打疫苗",
       "onboard_time": 1672122267,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 748031,
-      "num": 748031,
-      "word": "女子阳过后洗头发掉了一大把",
-      "onboard_time": 1672133554,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -507,6 +507,22 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 595318,
+      "num": 475982,
+      "word": "妈妈带病洗澡8岁男童诅咒式劝阻",
+      "onboard_time": 1672134809,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594081,
+      "num": 468862,
+      "word": "卫健委回应武汉急救车被指见死不救",
+      "onboard_time": 1672135534,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585431,
       "num": 548658,
       "word": "男子烧掉离家4年妻子衣物称重新开始",
@@ -537,6 +553,14 @@
       "onboard_time": 1672104387,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 545194,
+      "num": 545194,
+      "word": "浮图缘",
+      "onboard_time": 1672136313,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 535782,
@@ -595,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 482446,
+      "num": 482446,
+      "word": "广州队降级",
+      "onboard_time": 1672135652,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 481755,
       "num": 481755,
       "word": "电影满江红定档大年初一",
@@ -641,14 +673,6 @@
       "onboard_time": 1672123289,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 439473,
-      "num": 439473,
-      "word": "妈妈带病洗澡8岁男童诅咒式劝阻",
-      "onboard_time": 1672134809,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 438487,
@@ -721,14 +745,6 @@
       "onboard_time": 1672108827,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 391040,
-      "num": 391040,
-      "word": "浮图缘",
-      "onboard_time": 1672136313,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 385666,
@@ -819,6 +835,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 342124,
+      "num": 342124,
+      "word": "合肥27岁女子患暴发性心肌炎",
+      "onboard_time": 1672131634,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337691,
       "num": 337691,
       "word": "offer官宣史上最小加油团成员林墨",
@@ -841,14 +865,6 @@
       "onboard_time": 1672110929,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 332664,
-      "num": 332664,
-      "word": "合肥27岁女子患暴发性心肌炎",
-      "onboard_time": 1672131634,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332623,
@@ -889,14 +905,6 @@
       "onboard_time": 1672113873,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 319128,
-      "num": 319128,
-      "word": "广州队降级",
-      "onboard_time": 1672135652,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 317498,
@@ -963,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286899,
+      "num": 286899,
+      "word": "永远要和喜欢的人好好说话",
+      "onboard_time": 1672133912,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 286233,
       "num": 286233,
       "word": "网传德尔塔奥密克戎共循环是谣言",
@@ -993,14 +1009,6 @@
       "onboard_time": 1672112668,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270459,
-      "num": 270459,
-      "word": "永远要和喜欢的人好好说话",
-      "onboard_time": 1672133912,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 266538,
@@ -1075,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243118,
+      "num": 243118,
+      "word": "专家称明年房地产或出现报复性反弹",
+      "onboard_time": 1672131335,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 242700,
       "num": 220505,
       "word": "迪丽热巴小红帽三宫格",
@@ -1139,14 +1155,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 235528,
-      "num": 235528,
-      "word": "专家称明年房地产或出现报复性反弹",
-      "onboard_time": 1672131335,
-      "rank": 34,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 232861,
       "num": 232861,
       "word": "回来的女儿洗衣机里是李文文吗",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1672062693,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225471,
+      "num": 225471,
+      "word": "西热力江史琳杰打架被停赛罚款",
+      "onboard_time": 1672135292,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 225069,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1672115733,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211937,
+      "num": 211937,
+      "word": "浮图缘直播",
+      "onboard_time": 1672137034,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 207114,
@@ -1355,28 +1379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192112,
-      "num": 192112,
-      "word": "西热力江史琳杰打架被停赛罚款",
-      "onboard_time": 1672135292,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191384,
       "num": 191384,
       "word": "这个狗全是心眼",
       "onboard_time": 1672111589,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 191168,
-      "num": 191168,
-      "word": "卫健委回应武汉急救车被指见死不救",
-      "onboard_time": 1672135534,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190677,
@@ -1499,6 +1507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177632,
+      "num": 177632,
+      "word": "FoFo",
+      "onboard_time": 1672135771,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175874,
       "num": 175874,
       "word": "再见2022",
@@ -1568,6 +1584,14 @@
       "word": "江苏卫视跨年第四波阵容官宣",
       "onboard_time": 1672116331,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171541,
+      "num": 171541,
+      "word": "再见爱人",
+      "onboard_time": 1672137094,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1643,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161087,
+      "num": 161087,
+      "word": "爸爸拿万用表给孩子测体温",
+      "onboard_time": 1672136371,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160992,
       "num": 160992,
       "word": "疫情流行期间核酸应以单采单检为主",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1672114592,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159733,
+      "num": 159733,
+      "word": "外卖大姐因商家打赏20元乐得合不拢嘴",
+      "onboard_time": 1672136734,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158931,
@@ -1723,6 +1763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150644,
+      "num": 150644,
+      "word": "相亲遇疫情被迫同居男女已领证结婚",
+      "onboard_time": 1672137152,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149777,
       "num": 1228252,
       "word": "2022哪些同框相遇打动了你",
@@ -1769,14 +1817,6 @@
       "onboard_time": 1672107928,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144898,
-      "num": 144898,
-      "word": "FoFo",
-      "onboard_time": 1672135771,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 143361,
