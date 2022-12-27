@@ -1,6 +1,6 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672179418476,
+  "endTime": 1672180403896,
   "band_list": [
     {
       "raw_hot": 1893062,
@@ -419,6 +419,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87915,
+      "num": 61452,
+      "word": "咳嗽是人体一种保护机制",
+      "onboard_time": 1672178832,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84387,
+      "num": 61380,
+      "word": "可去香港打复必泰二价疫苗",
+      "onboard_time": 1672177873,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80849,
       "num": 42517,
       "word": "教育局回应高中男生摔猫踢猫",
@@ -467,11 +483,11 @@
       "category": "动漫,游戏"
     },
     {
-      "raw_hot": 49587,
-      "num": 25281,
-      "word": "可去香港打复必泰二价疫苗",
-      "onboard_time": 1672177873,
-      "rank": 30,
+      "raw_hot": 51957,
+      "num": 51957,
+      "word": "阳了洗澡会不会加重症状",
+      "onboard_time": 1672175414,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -483,16 +499,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48172,
-      "num": 48172,
-      "word": "阳了洗澡会不会加重症状",
-      "onboard_time": 1672175414,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43034,
-      "num": 39392,
+      "num": 40163,
       "word": "陕西韩城一高中生虐猫",
       "onboard_time": 1672171451,
       "rank": 29,
@@ -505,6 +513,14 @@
       "onboard_time": 1672159401,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 35388,
+      "num": 35388,
+      "word": "曼联vs诺丁汉森林",
+      "onboard_time": 1672169652,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 33830,
@@ -521,22 +537,6 @@
       "onboard_time": 1672163835,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32111,
-      "num": 32111,
-      "word": "曼联vs诺丁汉森林",
-      "onboard_time": 1672169652,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 22126,
-      "num": 22126,
-      "word": "咳嗽是人体一种保护机制",
-      "onboard_time": 1672178832,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17033,
