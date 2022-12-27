@@ -1,6 +1,6 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672169595104,
+  "endTime": 1672172307726,
   "band_list": [
     {
       "raw_hot": 1893062,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80849,
+      "num": 40630,
+      "word": "教育局回应高中男生摔猫踢猫",
+      "onboard_time": 1672168693,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75758,
       "num": 100198,
       "word": "永远要和喜欢的人好好说话",
@@ -491,12 +499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28117,
-      "num": 28117,
-      "word": "教育局回应高中男生摔猫踢猫",
-      "onboard_time": 1672168693,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 27067,
+      "num": 27067,
+      "word": "曼联vs诺丁汉森林",
+      "onboard_time": 1672169652,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23988,
+      "num": 23988,
+      "word": "陕西韩城一高中生虐猫",
+      "onboard_time": 1672171451,
+      "rank": 29,
+      "category": "社会负面"
     }
   ],
   "hotgov_list": [

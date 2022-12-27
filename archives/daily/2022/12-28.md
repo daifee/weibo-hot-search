@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/28 00:25:00 ~ 2022/12/28 03:33:15
+本榜单时间：2022/12/28 00:25:00 ~ 2022/12/28 04:18:27
 </p>
 </blockquote>
 <p>
@@ -327,6 +327,12 @@ CBA 裁判（热度：101179）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E9%AB%98%E4%B8%AD%E7%94%B7%E7%94%9F%E6%91%94%E7%8C%AB%E8%B8%A2%E7%8C%AB%23" target="weibo">
+教育局回应高中男生摔猫踢猫（热度：80849）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E8%A6%81%E5%92%8C%E5%96%9C%E6%AC%A2%E7%9A%84%E4%BA%BA%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D%23" target="weibo">
 永远要和喜欢的人好好说话（热度：75758）
 </a>
@@ -381,8 +387,14 @@ Xun获德杯FMVP（热度：41053）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E9%AB%98%E4%B8%AD%E7%94%B7%E7%94%9F%E6%91%94%E7%8C%AB%E8%B8%A2%E7%8C%AB%23" target="weibo">
-教育局回应高中男生摔猫踢猫（热度：28117）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94vs%E8%AF%BA%E4%B8%81%E6%B1%89%E6%A3%AE%E6%9E%97%23" target="weibo">
+曼联vs诺丁汉森林（热度：27067）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E9%9F%A9%E5%9F%8E%E4%B8%80%E9%AB%98%E4%B8%AD%E7%94%9F%E8%99%90%E7%8C%AB%23" target="weibo">
+陕西韩城一高中生虐猫（热度：23988）
 </a>
 </li>
 
