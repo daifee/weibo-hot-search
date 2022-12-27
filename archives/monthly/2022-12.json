@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672180403896,
+  "endTime": 1672183132023,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -23555,6 +23555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389180,
+      "num": 389180,
+      "word": "咳嗽是人体一种保护机制",
+      "onboard_time": 1672178832,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389129,
       "num": 2221442,
       "word": "妈妈带女儿在自家保时捷上作画引争议",
@@ -31611,6 +31619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281943,
+      "num": 151161,
+      "word": "可去香港打复必泰二价疫苗",
+      "onboard_time": 1672177873,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281350,
       "num": 281350,
       "word": "2023央视春晚标识官宣",
@@ -35417,6 +35433,14 @@
       "onboard_time": 1670805308,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 245037,
+      "num": 245037,
+      "word": "Hero 紫幻",
+      "onboard_time": 1672182798,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 244991,
@@ -47945,6 +47969,14 @@
       "onboard_time": 1670825474,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165848,
+      "num": 149012,
+      "word": "胡兵分享感染新冠状态",
+      "onboard_time": 1672182136,
+      "rank": 11,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 165769,
@@ -61443,6 +61475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88949,
+      "num": 88949,
+      "word": "教育局回应高中男生摔猫踢猫",
+      "onboard_time": 1672168693,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88683,
       "num": 88683,
       "word": "多地试水职业农民评职称",
@@ -61520,14 +61560,6 @@
       "word": "老人店铺门口摆摊被泼水倒垃圾",
       "onboard_time": 1670139132,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87915,
-      "num": 61452,
-      "word": "咳嗽是人体一种保护机制",
-      "onboard_time": 1672178832,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -61715,14 +61747,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 84387,
-      "num": 61380,
-      "word": "可去香港打复必泰二价疫苗",
-      "onboard_time": 1672177873,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84374,
       "num": 84374,
       "word": "女子称买儿童退烧药收到空包裹",
@@ -61891,14 +61915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 80849,
-      "num": 42517,
-      "word": "教育局回应高中男生摔猫踢猫",
-      "onboard_time": 1672168693,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80718,
       "num": 186368,
       "word": "信用分超550租房或可免押金",
@@ -61969,6 +61985,14 @@
       "onboard_time": 1670307611,
       "rank": 49,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 79732,
+      "num": 79732,
+      "word": "陕西韩城一高中生虐猫",
+      "onboard_time": 1672171451,
+      "rank": 29,
+      "category": "社会负面"
     },
     {
       "raw_hot": 79703,
@@ -62169,6 +62193,14 @@
       "onboard_time": 1670086453,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75308,
+      "num": 75308,
+      "word": "阳了洗澡会不会加重症状",
+      "onboard_time": 1672175414,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75298,
@@ -62995,14 +63027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51957,
-      "num": 51957,
-      "word": "阳了洗澡会不会加重症状",
-      "onboard_time": 1672175414,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51917,
       "num": 26645,
       "word": "查韦斯任意球破门",
@@ -63227,20 +63251,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44479,
+      "num": 44479,
+      "word": "曼联vs诺丁汉森林",
+      "onboard_time": 1672169652,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43985,
+      "num": 43985,
+      "word": "不再对乘客查验核酸和健康码",
+      "onboard_time": 1672182979,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43444,
       "num": 43444,
       "word": "感染后出现哪些症状需到医院就诊",
       "onboard_time": 1670436429,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43034,
-      "num": 40163,
-      "word": "陕西韩城一高中生虐猫",
-      "onboard_time": 1672171451,
-      "rank": 29,
-      "category": "社会负面"
     },
     {
       "raw_hot": 42687,
@@ -63328,6 +63360,14 @@
       "word": "这座城从未停止与那段历史对话",
       "onboard_time": 1670940074,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40427,
+      "num": 40427,
+      "word": "保障探亲人员错峰有序回家过年",
+      "onboard_time": 1672182919,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -63441,14 +63481,6 @@
       "onboard_time": 1671049814,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 35388,
-      "num": 35388,
-      "word": "曼联vs诺丁汉森林",
-      "onboard_time": 1672169652,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 35081,

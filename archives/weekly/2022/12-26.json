@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672180403896,
+  "endTime": 1672183132023,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -1899,6 +1899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 389180,
+      "num": 389180,
+      "word": "咳嗽是人体一种保护机制",
+      "onboard_time": 1672178832,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386544,
       "num": 386544,
       "word": "陈飞宇上线换头像",
@@ -2571,6 +2579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281943,
+      "num": 151161,
+      "word": "可去香港打复必泰二价疫苗",
+      "onboard_time": 1672177873,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280732,
       "num": 280732,
       "word": "肖战如梦之梦北京场谢幕直播",
@@ -2865,6 +2881,14 @@
       "onboard_time": 1672050213,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 245037,
+      "num": 245037,
+      "word": "Hero 紫幻",
+      "onboard_time": 1672182798,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 244614,
@@ -4179,6 +4203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165848,
+      "num": 149012,
+      "word": "胡兵分享感染新冠状态",
+      "onboard_time": 1672182136,
+      "rank": 11,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 165769,
       "num": 165769,
       "word": "不会下楼梯的小狗",
@@ -5299,11 +5331,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87915,
-      "num": 61452,
-      "word": "咳嗽是人体一种保护机制",
-      "onboard_time": 1672178832,
-      "rank": 39,
+      "raw_hot": 88949,
+      "num": 88949,
+      "word": "教育局回应高中男生摔猫踢猫",
+      "onboard_time": 1672168693,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -5331,14 +5363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84387,
-      "num": 61380,
-      "word": "可去香港打复必泰二价疫苗",
-      "onboard_time": 1672177873,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82226,
       "num": 82226,
       "word": "男子高烧发视频被多个殡葬商家关注",
@@ -5347,12 +5371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80849,
-      "num": 42517,
-      "word": "教育局回应高中男生摔猫踢猫",
-      "onboard_time": 1672168693,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 79732,
+      "num": 79732,
+      "word": "陕西韩城一高中生虐猫",
+      "onboard_time": 1672171451,
+      "rank": 29,
+      "category": "社会负面"
     },
     {
       "raw_hot": 77618,
@@ -5377,6 +5401,14 @@
       "onboard_time": 1671981688,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 75308,
+      "num": 75308,
+      "word": "阳了洗澡会不会加重症状",
+      "onboard_time": 1672175414,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73055,
@@ -5491,14 +5523,6 @@
       "category": "动漫,游戏"
     },
     {
-      "raw_hot": 51957,
-      "num": 51957,
-      "word": "阳了洗澡会不会加重症状",
-      "onboard_time": 1672175414,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48948,
       "num": 78842,
       "word": "为保护孩子妈妈用塑料布自制消毒仓",
@@ -5515,12 +5539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43034,
-      "num": 40163,
-      "word": "陕西韩城一高中生虐猫",
-      "onboard_time": 1672171451,
-      "rank": 29,
-      "category": "社会负面"
+      "raw_hot": 44479,
+      "num": 44479,
+      "word": "曼联vs诺丁汉森林",
+      "onboard_time": 1672169652,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43985,
+      "num": 43985,
+      "word": "不再对乘客查验核酸和健康码",
+      "onboard_time": 1672182979,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41053,
@@ -5529,6 +5561,14 @@
       "onboard_time": 1672159401,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 40427,
+      "num": 40427,
+      "word": "保障探亲人员错峰有序回家过年",
+      "onboard_time": 1672182919,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40100,
@@ -5553,14 +5593,6 @@
       "onboard_time": 1672095196,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 35388,
-      "num": 35388,
-      "word": "曼联vs诺丁汉森林",
-      "onboard_time": 1672169652,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 33830,
