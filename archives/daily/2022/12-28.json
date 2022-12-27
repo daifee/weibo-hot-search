@@ -1,6 +1,6 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672168450355,
+  "endTime": 1672169595104,
   "band_list": [
     {
       "raw_hot": 1893062,
@@ -489,6 +489,14 @@
       "onboard_time": 1672163835,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28117,
+      "num": 28117,
+      "word": "教育局回应高中男生摔猫踢猫",
+      "onboard_time": 1672168693,
+      "rank": 32,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
