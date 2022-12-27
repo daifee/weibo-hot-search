@@ -1,0 +1,410 @@
+{
+  "runTime": 1672145471347,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1795608,
+        "num": 1795608,
+        "word": "北京协和医院发热门诊现状",
+        "onboard_time": 1672138593,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1489743,
+        "num": 1489743,
+        "word": "中国将失去这个世界第一",
+        "onboard_time": 1672127912,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600015,
+        "num": 1108010,
+        "word": "白肺和原始毒株及疫苗接种没关系",
+        "onboard_time": 1672142072,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1050728,
+        "num": 1050728,
+        "word": "张亮儿子回应网络传言",
+        "onboard_time": 1672140454,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 833643,
+        "num": 833643,
+        "word": "男子称连续咳嗽10多天断3根肋骨",
+        "onboard_time": 1672141892,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726652,
+        "num": 726652,
+        "word": "浮图缘",
+        "onboard_time": 1672136313,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 725371,
+        "num": 725371,
+        "word": "男子称转阴3天后出门受凉复阳",
+        "onboard_time": 1672140333,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717927,
+        "num": 717927,
+        "word": "赵丽颖说有翡没给大家好的状态比较遗憾",
+        "onboard_time": 1672130497,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 601043,
+        "num": 601043,
+        "word": "相亲遇疫情被迫同居男女已领证结婚",
+        "onboard_time": 1672137152,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422051,
+        "num": 422051,
+        "word": "女子阳过后洗头发掉了一大把",
+        "onboard_time": 1672133554,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1242104,
+        "num": 420831,
+        "word": "杨紫迪丽热巴同款公主头造型",
+        "onboard_time": 1672144534,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1010625,
+        "num": 419298,
+        "word": "艾滋病女子无防护卖淫被判1年4个月",
+        "onboard_time": 1672144353,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775283,
+        "num": 418685,
+        "word": "田小娟确诊新冠",
+        "onboard_time": 1672139313,
+        "rank": 12,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 424161,
+        "num": 416997,
+        "word": "宋宁峰选了离婚",
+        "onboard_time": 1672124492,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87115,
+        "num": 416108,
+        "word": "K60电竞手机终结者",
+        "onboard_time": 1672142434,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 414656,
+        "num": 414656,
+        "word": "坦然吕布FMVP新皮肤",
+        "onboard_time": 1672142611,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 371352,
+        "num": 371352,
+        "word": "铃铛女朋友",
+        "onboard_time": 1672143090,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 367529,
+        "num": 367529,
+        "word": "k60",
+        "onboard_time": 1672142191,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 311584,
+        "num": 311584,
+        "word": "形成白肺的原因",
+        "onboard_time": 1672129235,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277503,
+        "num": 277503,
+        "word": "Zzr确诊",
+        "onboard_time": 1672138771,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 346055,
+        "num": 277483,
+        "word": "黄子韬直播",
+        "onboard_time": 1672143392,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339418,
+        "num": 277476,
+        "word": "竹内亮在中国工地搬砖",
+        "onboard_time": 1672144293,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 337356,
+        "num": 277436,
+        "word": "五月天2023年跨年演唱会官宣",
+        "onboard_time": 1672144651,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277366,
+        "num": 277366,
+        "word": "女子转阴五天复阳高烧四十度",
+        "onboard_time": 1672131451,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277029,
+        "num": 277029,
+        "word": "卫健委回应武汉急救车被指见死不救",
+        "onboard_time": 1672135534,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270997,
+        "num": 270997,
+        "word": "妈妈带病洗澡8岁男童诅咒式劝阻",
+        "onboard_time": 1672134809,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244843,
+        "num": 244843,
+        "word": "贝利",
+        "onboard_time": 1672131335,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238498,
+        "num": 238498,
+        "word": "专家称明年房地产或出现报复性反弹",
+        "onboard_time": 1672131335,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 235189,
+        "num": 235189,
+        "word": "男孩咳嗽发热在家硬扛一查竟是白肺",
+        "onboard_time": 1672128453,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218393,
+        "num": 218393,
+        "word": "恋与制作人",
+        "onboard_time": 1672142970,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 325897,
+        "num": 217934,
+        "word": "我可能遇到了救星 甜",
+        "onboard_time": 1672143935,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292148,
+        "num": 213424,
+        "word": "心疼张婉婷",
+        "onboard_time": 1672137872,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282139,
+        "num": 207283,
+        "word": "西蓝花cp一集亲三次",
+        "onboard_time": 1672139793,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253157,
+        "num": 206041,
+        "word": "与凤行",
+        "onboard_time": 1672137752,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203076,
+        "num": 203076,
+        "word": "爸爸拿万用表给孩子测体温",
+        "onboard_time": 1672136371,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202356,
+        "num": 202356,
+        "word": "没见过这么笨的猫咪",
+        "onboard_time": 1672143333,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197400,
+        "num": 197400,
+        "word": "合肥27岁女子患暴发性心肌炎",
+        "onboard_time": 1672131634,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194052,
+        "num": 194052,
+        "word": "永远要和喜欢的人好好说话",
+        "onboard_time": 1672133912,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193112,
+        "num": 193112,
+        "word": "原神雷电将军",
+        "onboard_time": 1672139972,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189683,
+        "num": 189683,
+        "word": "拒绝回家狂扒车门的小狗",
+        "onboard_time": 1672144773,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194342,
+        "num": 185897,
+        "word": "陈钰琪说没想到王鹤棣这么高",
+        "onboard_time": 1672132653,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177769,
+        "num": 177769,
+        "word": "四川新增1例死亡病例",
+        "onboard_time": 1672123050,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174347,
+        "num": 174347,
+        "word": "在小县城找对象有多难",
+        "onboard_time": 1672144953,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170900,
+        "num": 170900,
+        "word": "2022霸屏演员",
+        "onboard_time": 1672137993,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165996,
+        "num": 165996,
+        "word": "海的尽头是吕布FMVP皮肤",
+        "onboard_time": 1672145193,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162520,
+        "num": 162520,
+        "word": "向太说自己有很多需要学习和改进的地方",
+        "onboard_time": 1672145133,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149127,
+        "num": 149127,
+        "word": "一张纸就可以拯救水泥鼻",
+        "onboard_time": 1672138353,
+        "rank": 46,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 145616,
+        "num": 145616,
+        "word": "这狗跟我小时候一个德行",
+        "onboard_time": 1672144834,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139133,
+        "num": 139133,
+        "word": "外卖大姐因商家打赏20元乐得合不拢嘴",
+        "onboard_time": 1672136734,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136146,
+        "num": 136146,
+        "word": "西热力江史琳杰打架被停赛罚款",
+        "onboard_time": 1672135292,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#90秒超燃回顾中国航天这一年#"
+    }
+  }
+}
