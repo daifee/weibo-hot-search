@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672175730583,
+  "endTime": 1672176813727,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -5491,6 +5491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43034,
+      "num": 39068,
+      "word": "陕西韩城一高中生虐猫",
+      "onboard_time": 1672171451,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 41053,
       "num": 54147,
       "word": "Xun获德杯FMVP",
@@ -5523,14 +5531,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 35777,
-      "num": 35777,
-      "word": "陕西韩城一高中生虐猫",
-      "onboard_time": 1672171451,
-      "rank": 29,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 33830,
       "num": 33088,
       "word": "撒贝宁和鱼多少是有点缘分的",
@@ -5559,6 +5559,14 @@
       "num": 28455,
       "word": "栓Q哥成名后有老板为签约喂他吃饭",
       "onboard_time": 1672082952,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21710,
+      "num": 21710,
+      "word": "阳了洗澡会不会加重症状",
+      "onboard_time": 1672175414,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -5601,14 +5609,6 @@
       "onboard_time": 1672153233,
       "rank": 14,
       "category": "幽默,科技"
-    },
-    {
-      "raw_hot": 12320,
-      "num": 14051,
-      "word": "阳了洗澡会不会加重症状",
-      "onboard_time": 1672175414,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11605,
