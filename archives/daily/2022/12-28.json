@@ -1,6 +1,6 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672183132023,
+  "endTime": 1672184010471,
   "band_list": [
     {
       "raw_hot": 1893062,
@@ -43,6 +43,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 495944,
+      "num": 495944,
+      "word": "咳嗽是人体一种保护机制",
+      "onboard_time": 1672178832,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424828,
+      "num": 424828,
+      "word": "Hero 紫幻",
+      "onboard_time": 1672182798,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 421564,
       "num": 421564,
       "word": "中国将失去这个世界第一",
@@ -59,14 +75,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 389180,
-      "num": 389180,
-      "word": "咳嗽是人体一种保护机制",
-      "onboard_time": 1672178832,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377394,
       "num": 377394,
       "word": "2015年的跨年演唱会",
@@ -81,6 +89,14 @@
       "onboard_time": 1672136313,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350562,
+      "num": 350562,
+      "word": "可去香港打复必泰二价疫苗",
+      "onboard_time": 1672177873,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321294,
@@ -107,14 +123,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 281943,
-      "num": 151161,
-      "word": "可去香港打复必泰二价疫苗",
-      "onboard_time": 1672177873,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276376,
       "num": 276376,
       "word": "北京协和医院发热门诊现状",
@@ -139,14 +147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 245037,
-      "num": 245037,
-      "word": "Hero 紫幻",
-      "onboard_time": 1672182798,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 244079,
       "num": 244079,
       "word": "武汉疾控回应网传2020年毒株又来了",
@@ -169,6 +169,14 @@
       "onboard_time": 1672144534,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204786,
+      "num": 72730,
+      "word": "女子100万投资基金到期损失98万",
+      "onboard_time": 1672183281,
+      "rank": 30,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 203212,
@@ -283,12 +291,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158617,
+      "num": 158617,
+      "word": "不再对乘客查验核酸和健康码",
+      "onboard_time": 1672182979,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158235,
       "num": 140355,
       "word": "任若阳离开offer4但收获了offer",
       "onboard_time": 1672153651,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155909,
+      "num": 155909,
+      "word": "男子称转阴3天后出门受凉复阳",
+      "onboard_time": 1672140333,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154345,
@@ -363,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127413,
-      "num": 127413,
-      "word": "男子称转阴3天后出门受凉复阳",
-      "onboard_time": 1672140333,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124528,
       "num": 124528,
       "word": "过年把嘴借我用一下",
@@ -419,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 105972,
+      "num": 105972,
+      "word": "教育局回应高中男生摔猫踢猫",
+      "onboard_time": 1672168693,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102103,
       "num": 102103,
       "word": "不会下楼梯的小狗",
@@ -433,6 +457,14 @@
       "onboard_time": 1672150713,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98247,
+      "num": 98247,
+      "word": "陕西韩城一高中生虐猫",
+      "onboard_time": 1672171451,
+      "rank": 29,
+      "category": "社会负面"
     },
     {
       "raw_hot": 96471,
@@ -451,20 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88949,
-      "num": 88949,
-      "word": "教育局回应高中男生摔猫踢猫",
-      "onboard_time": 1672168693,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79732,
-      "num": 79732,
-      "word": "陕西韩城一高中生虐猫",
-      "onboard_time": 1672171451,
-      "rank": 29,
-      "category": "社会负面"
+      "raw_hot": 85528,
+      "num": 72619,
+      "word": "骨科大夫最忙碌的季节来了",
+      "onboard_time": 1672183518,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 75758,
@@ -483,12 +507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70023,
+      "num": 70023,
+      "word": "保障探亲人员错峰有序回家过年",
+      "onboard_time": 1672182919,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67661,
       "num": 100119,
       "word": "米饭消灭神器",
       "onboard_time": 1672157904,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 65329,
+      "num": 65329,
+      "word": "长期佩戴口罩对肺结节是否有影响",
+      "onboard_time": 1672183760,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64565,
@@ -499,6 +539,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 60704,
+      "num": 60704,
+      "word": "原神3.3",
+      "onboard_time": 1672165215,
+      "rank": 49,
+      "category": "动漫,游戏"
+    },
+    {
+      "raw_hot": 58327,
+      "num": 58327,
+      "word": "2022偶遇的治愈瞬间",
+      "onboard_time": 1672183579,
+      "rank": 47,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 52675,
       "num": 99261,
       "word": "电话传来微弱呼吸空调师傅紧急报警",
@@ -507,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52001,
-      "num": 52001,
-      "word": "原神3.3",
-      "onboard_time": 1672165215,
+      "raw_hot": 51306,
+      "num": 51306,
+      "word": "秀秀 紫幻",
+      "onboard_time": 1672184001,
       "rank": 49,
-      "category": "动漫,游戏"
+      "category": "游戏"
     },
     {
       "raw_hot": 48948,
@@ -531,28 +587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43985,
-      "num": 43985,
-      "word": "不再对乘客查验核酸和健康码",
-      "onboard_time": 1672182979,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41053,
       "num": 54147,
       "word": "Xun获德杯FMVP",
       "onboard_time": 1672159401,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 40427,
-      "num": 40427,
-      "word": "保障探亲人员错峰有序回家过年",
-      "onboard_time": 1672182919,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33830,
