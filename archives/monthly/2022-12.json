@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672162402581,
+  "endTime": 1672165295286,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -63427,6 +63427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 33088,
+      "num": 33088,
+      "word": "撒贝宁和鱼多少是有点缘分的",
+      "onboard_time": 1672164494,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33061,
       "num": 36252,
       "word": "法国队 黑人球员",
@@ -63457,6 +63465,14 @@
       "onboard_time": 1670523192,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 32576,
+      "num": 32576,
+      "word": "切尔西vs伯恩茅斯",
+      "onboard_time": 1672163835,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 32360,
