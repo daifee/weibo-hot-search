@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672114932130,
+  "endTime": 1672115830438,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -11,7 +11,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 3312345,
+      "raw_hot": 3620997,
       "num": 3312345,
       "word": "第一波最高峰冲击未出现大面积重症死亡",
       "onboard_time": 1672111950,
@@ -43,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1509606,
+      "raw_hot": 1617949,
       "num": 1509606,
       "word": "多国对来自中国旅客查核酸",
       "onboard_time": 1672110330,
@@ -51,8 +51,16 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1454627,
+      "num": 1454627,
+      "word": "女子发烧5天崩溃大哭狗子担心踱步",
+      "onboard_time": 1672112311,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1421568,
-      "num": 666278,
+      "num": 734074,
       "word": "宋祖儿 壹心",
       "onboard_time": 1672113873,
       "rank": 10,
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1186698,
-      "num": 1186698,
-      "word": "女子发烧5天崩溃大哭狗子担心踱步",
-      "onboard_time": 1672112311,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1099197,
       "num": 1099197,
       "word": "光遇",
@@ -105,6 +105,14 @@
       "onboard_time": 1672109245,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1086285,
+      "num": 734076,
+      "word": "迪丽热巴银色挑染造型",
+      "onboard_time": 1672115433,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1070761,
@@ -128,6 +136,14 @@
       "word": "如何在精神病院证明自己不是精神病",
       "onboard_time": 1672103548,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 929599,
+      "num": 929599,
+      "word": "王佳怡 满江红",
+      "onboard_time": 1672113873,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -203,6 +219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 731505,
+      "num": 731505,
+      "word": "老人阳了一定要查血氧",
+      "onboard_time": 1672112610,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 715345,
       "num": 715345,
       "word": "解除对新冠感染的甲类传染病防控措施",
@@ -211,11 +235,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 630696,
-      "num": 630696,
-      "word": "王佳怡 满江红",
-      "onboard_time": 1672113873,
-      "rank": 11,
+      "raw_hot": 658477,
+      "num": 658477,
+      "word": "张译和王俊凯易烊千玺都合作了",
+      "onboard_time": 1672115793,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -225,14 +249,6 @@
       "onboard_time": 1672065394,
       "rank": 9,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 618278,
-      "num": 618278,
-      "word": "老人阳了一定要查血氧",
-      "onboard_time": 1672112610,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 601693,
@@ -249,6 +265,14 @@
       "onboard_time": 1672105946,
       "rank": 8,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 587316,
+      "num": 530389,
+      "word": "满江红 双男主",
+      "onboard_time": 1672114472,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 559554,
@@ -280,6 +304,14 @@
       "word": "北京对老年人发放血氧夹",
       "onboard_time": 1672106186,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516512,
+      "num": 516512,
+      "word": "转阴后熬夜易诱发心肌损伤",
+      "onboard_time": 1672112610,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -331,20 +363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424016,
+      "num": 424016,
+      "word": "波司登五年涨价六至八成",
+      "onboard_time": 1672111529,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 422169,
       "num": 422169,
       "word": "梁洁有多喜欢这件粉色毛绒大衣",
       "onboard_time": 1672096878,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 417215,
-      "num": 417215,
-      "word": "波司登五年涨价六至八成",
-      "onboard_time": 1672111529,
-      "rank": 42,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 403522,
@@ -363,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 385666,
+      "num": 385666,
+      "word": "狗狗早起去蹭吃后回来装睡",
+      "onboard_time": 1672114234,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 385289,
       "num": 385289,
       "word": "京东健康辉瑞新冠药已断货",
@@ -371,12 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 381501,
-      "num": 381501,
-      "word": "转阴后熬夜易诱发心肌损伤",
-      "onboard_time": 1672112610,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 374446,
+      "num": 374446,
+      "word": "微念创始人刘同明退出李子柒公司",
+      "onboard_time": 1672112371,
+      "rank": 20,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 373768,
@@ -401,14 +441,6 @@
       "onboard_time": 1672069593,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 347175,
-      "num": 347175,
-      "word": "微念创始人刘同明退出李子柒公司",
-      "onboard_time": 1672112371,
-      "rank": 20,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 343424,
@@ -467,11 +499,27 @@
       "category": "科技"
     },
     {
+      "raw_hot": 293832,
+      "num": 293832,
+      "word": "檀健次官宣加盟2023湖南卫视跨年",
+      "onboard_time": 1672115552,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290795,
       "num": 290795,
       "word": "男子开车与救护车碰撞后落水溺亡",
       "onboard_time": 1672068451,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288881,
+      "num": 288881,
+      "word": "阳了后一直咳嗽是怎么回事",
+      "onboard_time": 1672114291,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -481,14 +529,6 @@
       "onboard_time": 1672046793,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273611,
-      "num": 246424,
-      "word": "满江红 双男主",
-      "onboard_time": 1672114472,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 272810,
@@ -545,6 +585,14 @@
       "onboard_time": 1672069174,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247877,
+      "num": 218072,
+      "word": "冯绍峰颖儿二搭",
+      "onboard_time": 1672115133,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 242700,
@@ -771,20 +819,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180465,
-      "num": 180465,
-      "word": "阳了后一直咳嗽是怎么回事",
-      "onboard_time": 1672114291,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180133,
       "num": 180133,
       "word": "回来的女儿猴脸男是小卖部老板",
       "onboard_time": 1672065753,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179965,
+      "num": 179965,
+      "word": "爷奶阳性后吃孙女点的外卖表情亮了",
+      "onboard_time": 1672115493,
+      "rank": 36,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 178539,
@@ -875,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160910,
-      "num": 160910,
-      "word": "狗狗早起去蹭吃后回来装睡",
-      "onboard_time": 1672114234,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 159943,
       "num": 159943,
       "word": "浮图缘救赎版预告",
@@ -904,6 +944,14 @@
       "word": "金菊花国产烂片颁奖典礼",
       "onboard_time": 1672057712,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 152740,
+      "num": 152740,
+      "word": "回来的女儿 赶紧填坑",
+      "onboard_time": 1672115433,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -931,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145760,
+      "num": 145760,
+      "word": "120回应被指闯红灯后撞车",
+      "onboard_time": 1672113032,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145288,
       "num": 145288,
       "word": "海外目的地搜索大涨10倍",
@@ -953,14 +1009,6 @@
       "onboard_time": 1672097904,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140881,
-      "num": 140881,
-      "word": "120回应被指闯红灯后撞车",
-      "onboard_time": 1672113032,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138174,
@@ -1019,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125946,
+      "num": 125946,
+      "word": "男童血癌复发姐姐捐骨髓救弟",
+      "onboard_time": 1672115733,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125168,
       "num": 125168,
       "word": "回来的女儿",
@@ -1032,6 +1088,14 @@
       "word": "没想到感染毒株也能社死",
       "onboard_time": 1672072467,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125062,
+      "num": 125062,
+      "word": "警惕老人沉默性缺氧",
+      "onboard_time": 1672115793,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
