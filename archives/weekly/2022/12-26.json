@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672108550671,
+  "endTime": 1672109160191,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1121031,
+      "num": 1121031,
+      "word": "iPhone车祸检测占用大量救援资源",
+      "onboard_time": 1672106728,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1070761,
       "num": 1070761,
       "word": "大二女生吃药一年得知被误诊艾滋病",
@@ -257,14 +265,6 @@
       "onboard_time": 1671979472,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 973845,
-      "num": 486529,
-      "word": "iPhone车祸检测占用大量救援资源",
-      "onboard_time": 1672106728,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 969429,
@@ -313,6 +313,14 @@
       "onboard_time": 1672099466,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 915545,
+      "num": 915545,
+      "word": "满江红",
+      "onboard_time": 1672107628,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 902417,
@@ -401,6 +409,14 @@
       "onboard_time": 1672038631,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 800313,
+      "num": 800313,
+      "word": "湖南卫视跨年姿态官宣",
+      "onboard_time": 1672108409,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 799051,
@@ -497,14 +513,6 @@
       "onboard_time": 1672055072,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 689146,
-      "num": 476907,
-      "word": "满江红",
-      "onboard_time": 1672107628,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 681856,
@@ -635,20 +643,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 601116,
+      "num": 601116,
+      "word": "国家统计局最终核实2021年GDP",
+      "onboard_time": 1672105946,
+      "rank": 8,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 599580,
       "num": 599580,
       "word": "父亲深夜摆摊欲卖25万份菠萝蜜救女",
       "onboard_time": 1672031312,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 590289,
-      "num": 590289,
-      "word": "国家统计局最终核实2021年GDP",
-      "onboard_time": 1672105946,
-      "rank": 8,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 585144,
@@ -819,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 520575,
+      "num": 520575,
+      "word": "北京对老年人发放血氧夹",
+      "onboard_time": 1672106186,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516124,
       "num": 516124,
       "word": "宁夏14岁初中生失踪超1个月",
@@ -875,14 +891,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 501559,
-      "num": 501559,
-      "word": "北京对老年人发放血氧夹",
-      "onboard_time": 1672106186,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 500848,
       "num": 500848,
       "word": "普京称俄将100%摧毁美承诺援乌的爱国者",
@@ -897,6 +905,14 @@
       "onboard_time": 1672047514,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 481755,
+      "num": 481755,
+      "word": "电影满江红定档大年初一",
+      "onboard_time": 1672108048,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 472353,
@@ -921,6 +937,14 @@
       "onboard_time": 1672040554,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 467329,
+      "num": 467329,
+      "word": "张杰加盟江苏卫视跨年",
+      "onboard_time": 1672108769,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 465539,
@@ -955,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451696,
+      "num": 356966,
+      "word": "满江红官宣阵容",
+      "onboard_time": 1672108769,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 440564,
       "num": 440564,
       "word": "男子连喝2顿药发现误吞胶囊塑料壳",
@@ -968,6 +1000,14 @@
       "word": "阳了能不能洗澡因人而异",
       "onboard_time": 1672018048,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437757,
+      "num": 437757,
+      "word": "你还在咳咳咳吗",
+      "onboard_time": 1672108048,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1131,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376859,
-      "num": 376859,
-      "word": "湖南卫视跨年姿态官宣",
-      "onboard_time": 1672108409,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 373768,
       "num": 373768,
       "word": "调整为乙类乙管不是放任不管",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1672021288,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 368182,
+      "num": 347889,
+      "word": "沈腾易烊千玺满江红海报",
+      "onboard_time": 1672108528,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 367884,
@@ -1403,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306610,
-      "num": 306610,
-      "word": "电影满江红定档大年初一",
-      "onboard_time": 1672108048,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 300599,
       "num": 300599,
       "word": "怪不得猫不喜欢和狗玩",
@@ -1627,6 +1659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 253517,
+      "num": 243668,
+      "word": "李宏毅新剧演技",
+      "onboard_time": 1672106488,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253127,
       "num": 192795,
       "word": "财阀家的小儿子",
@@ -1697,14 +1737,6 @@
       "onboard_time": 1672062693,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243668,
-      "num": 243668,
-      "word": "李宏毅新剧演技",
-      "onboard_time": 1672106488,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 241827,
@@ -1780,7 +1812,7 @@
     },
     {
       "raw_hot": 232363,
-      "num": 197750,
+      "num": 205243,
       "word": "阿凡达2全球票房破9亿美元",
       "onboard_time": 1672106249,
       "rank": 30,
@@ -2192,14 +2224,6 @@
       "word": "新冠疫情冲击波抵达三四线城市",
       "onboard_time": 1671994813,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193160,
-      "num": 193160,
-      "word": "你还在咳咳咳吗",
-      "onboard_time": 1672108048,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -2691,6 +2715,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 145915,
+      "num": 145915,
+      "word": "国安比赛弃权",
+      "onboard_time": 1672108827,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145817,
       "num": 145817,
       "word": "李宏毅少年歌行好看吗",
@@ -2729,14 +2761,6 @@
       "onboard_time": 1672058972,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 143403,
-      "num": 143403,
-      "word": "沈腾易烊千玺满江红海报",
-      "onboard_time": 1672108528,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 143391,
@@ -2907,6 +2931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130018,
+      "num": 471727,
+      "word": "葫芦里装的什么妖",
+      "onboard_time": 1672106427,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129743,
       "num": 129743,
       "word": "咸鱼干杯",
@@ -2963,6 +2995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122374,
+      "num": 122374,
+      "word": "你有出境旅游计划吗",
+      "onboard_time": 1672106488,
+      "rank": 44,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 120671,
       "num": 120671,
       "word": "药店回应市民排队免费领药被举报",
@@ -2985,6 +3025,14 @@
       "onboard_time": 1672107328,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119295,
+      "num": 119295,
+      "word": "女生一年参加百场长跑赢一墙奖牌",
+      "onboard_time": 1672108948,
+      "rank": 45,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 119176,
@@ -3025,14 +3073,6 @@
       "onboard_time": 1672005671,
       "rank": 35,
       "category": "科技,社会议题"
-    },
-    {
-      "raw_hot": 110663,
-      "num": 380773,
-      "word": "葫芦里装的什么妖",
-      "onboard_time": 1672106427,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 110457,

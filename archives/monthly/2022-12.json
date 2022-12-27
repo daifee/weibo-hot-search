@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672108550671,
+  "endTime": 1672109160191,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -5643,6 +5643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1121031,
+      "num": 1121031,
+      "word": "iPhone车祸检测占用大量救援资源",
+      "onboard_time": 1672106728,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1118697,
       "num": 1118697,
       "word": "阿根廷冠军游行提前结束",
@@ -6907,14 +6915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 973845,
-      "num": 486529,
-      "word": "iPhone车祸检测占用大量救援资源",
-      "onboard_time": 1672106728,
-      "rank": 10,
-      "category": "科技"
-    },
-    {
       "raw_hot": 973818,
       "num": 973818,
       "word": "一家4人阳性男子自驾600公里回家",
@@ -7728,6 +7728,14 @@
       "word": "县委大院",
       "onboard_time": 1670415015,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 915545,
+      "num": 915545,
+      "word": "满江红",
+      "onboard_time": 1672107628,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -9337,6 +9345,14 @@
       "onboard_time": 1670578581,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 800313,
+      "num": 800313,
+      "word": "湖南卫视跨年姿态官宣",
+      "onboard_time": 1672108409,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 799602,
@@ -11593,14 +11609,6 @@
       "onboard_time": 1670195948,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 689146,
-      "num": 476907,
-      "word": "满江红",
-      "onboard_time": 1672107628,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 688906,
@@ -13987,6 +13995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601116,
+      "num": 601116,
+      "word": "国家统计局最终核实2021年GDP",
+      "onboard_time": 1672105946,
+      "rank": 8,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 600494,
       "num": 878293,
       "word": "零下40°C内蒙古神奇不冻河流水潺潺",
@@ -14273,14 +14289,6 @@
       "onboard_time": 1671149005,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 590289,
-      "num": 590289,
-      "word": "国家统计局最终核实2021年GDP",
-      "onboard_time": 1672105946,
-      "rank": 8,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 590208,
@@ -16643,6 +16651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 520575,
+      "num": 520575,
+      "word": "北京对老年人发放血氧夹",
+      "onboard_time": 1672106186,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520350,
       "num": 520350,
       "word": "财阀家的小儿子14",
@@ -17305,14 +17321,6 @@
       "onboard_time": 1670423954,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 501559,
-      "num": 501559,
-      "word": "北京对老年人发放血氧夹",
-      "onboard_time": 1672106186,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 501079,
@@ -18059,6 +18067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 481755,
+      "num": 481755,
+      "word": "电影满江红定档大年初一",
+      "onboard_time": 1672108048,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 481705,
       "num": 481705,
       "word": "LNG",
@@ -18625,6 +18641,14 @@
       "onboard_time": 1670389512,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 467329,
+      "num": 467329,
+      "word": "张杰加盟江苏卫视跨年",
+      "onboard_time": 1672108769,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 467265,
@@ -19353,6 +19377,14 @@
       "onboard_time": 1670292882,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451696,
+      "num": 356966,
+      "word": "满江红官宣阵容",
+      "onboard_time": 1672108769,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 451154,
@@ -23387,14 +23419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 376859,
-      "num": 376859,
-      "word": "湖南卫视跨年姿态官宣",
-      "onboard_time": 1672108409,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 376731,
       "num": 376731,
       "word": "2023金球奖提名",
@@ -23793,6 +23817,14 @@
       "onboard_time": 1670910252,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368182,
+      "num": 347889,
+      "word": "沈腾易烊千玺满江红海报",
+      "onboard_time": 1672108528,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 368053,
@@ -28385,14 +28417,6 @@
       "onboard_time": 1671926780,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 306610,
-      "num": 306610,
-      "word": "电影满江红定档大年初一",
-      "onboard_time": 1672108048,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 306422,
@@ -33283,6 +33307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253517,
+      "num": 243668,
+      "word": "李宏毅新剧演技",
+      "onboard_time": 1672106488,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253414,
       "num": 189762,
       "word": "吴尊说梅西的精神就是传承",
@@ -34384,14 +34416,6 @@
       "word": "王鹤棣浮图缘海外版预告",
       "onboard_time": 1671762630,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 243668,
-      "num": 243668,
-      "word": "李宏毅新剧演技",
-      "onboard_time": 1672106488,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -35660,7 +35684,7 @@
     },
     {
       "raw_hot": 232363,
-      "num": 197750,
+      "num": 205243,
       "word": "阿凡达2全球票房破9亿美元",
       "onboard_time": 1672106249,
       "rank": 30,
@@ -50299,6 +50323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145915,
+      "num": 145915,
+      "word": "国安比赛弃权",
+      "onboard_time": 1672108827,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145906,
       "num": 145906,
       "word": "ITZY新歌CHESHIRE猫爪舞视频",
@@ -50745,14 +50777,6 @@
       "onboard_time": 1671784348,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 143403,
-      "num": 143403,
-      "word": "沈腾易烊千玺满江红海报",
-      "onboard_time": 1672108528,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 143387,
@@ -53419,6 +53443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130018,
+      "num": 471727,
+      "word": "葫芦里装的什么妖",
+      "onboard_time": 1672106427,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129977,
       "num": 129977,
       "word": "原来女明星配音也这么优秀",
@@ -55011,6 +55043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122374,
+      "num": 122374,
+      "word": "你有出境旅游计划吗",
+      "onboard_time": 1672106488,
+      "rank": 44,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 122355,
       "num": 122355,
       "word": "满洲里寒夜光柱如同特效",
@@ -55465,6 +55505,14 @@
       "onboard_time": 1671785608,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119295,
+      "num": 119295,
+      "word": "女生一年参加百场长跑赢一墙奖牌",
+      "onboard_time": 1672108948,
+      "rank": 45,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 119280,
@@ -56817,14 +56865,6 @@
       "onboard_time": 1671843565,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110663,
-      "num": 380773,
-      "word": "葫芦里装的什么妖",
-      "onboard_time": 1672106427,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 110651,
