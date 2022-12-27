@@ -1,10 +1,10 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672159327036,
+  "endTime": 1672161330623,
   "band_list": [
     {
-      "raw_hot": 1529746,
-      "num": 1529746,
+      "raw_hot": 1893062,
+      "num": 1893062,
       "word": "失眠可能是肺出现了问题",
       "onboard_time": 1672156286,
       "rank": 0,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377394,
+      "num": 377394,
+      "word": "2015年的跨年演唱会",
+      "onboard_time": 1672157605,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371044,
       "num": 371044,
       "word": "浮图缘",
@@ -105,14 +113,6 @@
       "onboard_time": 1672154248,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 267493,
-      "num": 267493,
-      "word": "2015年的跨年演唱会",
-      "onboard_time": 1672157605,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 265347,
@@ -275,6 +275,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 144175,
+      "num": 110231,
+      "word": "2022男主人设天花板",
+      "onboard_time": 1672159640,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138385,
       "num": 138385,
       "word": "这个垃圾是非丢不可吗",
@@ -403,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 70914,
+      "num": 77515,
+      "word": "阳过后小心病毒性心肌炎",
+      "onboard_time": 1672159222,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67661,
       "num": 100119,
       "word": "米饭消灭神器",
@@ -427,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44546,
-      "num": 77515,
-      "word": "阳过后小心病毒性心肌炎",
-      "onboard_time": 1672159222,
+      "raw_hot": 41053,
+      "num": 54147,
+      "word": "Xun获德杯FMVP",
+      "onboard_time": 1672159401,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
