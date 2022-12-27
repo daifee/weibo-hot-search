@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672154281545,
+  "endTime": 1672155206029,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -555,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 946966,
+      "num": 946966,
+      "word": "专家称奥密克戎突变已基本饱和",
+      "onboard_time": 1672152813,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 938582,
       "num": 938582,
       "word": "男子进店乞讨发现店员全是阳性",
@@ -867,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755812,
+      "num": 755812,
+      "word": "女孩为拥有苹果手机频繁偷包裹",
+      "onboard_time": 1672152693,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753193,
       "num": 753193,
       "word": "男子称转阴3天后出门受凉复阳",
@@ -1043,6 +1059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 659195,
+      "num": 505548,
+      "word": "辰亦儒演技巅峰",
+      "onboard_time": 1672152994,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 658477,
       "num": 658477,
       "word": "张译和王俊凯易烊千玺都合作了",
@@ -1088,14 +1112,6 @@
       "word": "不浪费抗原的正确使用方法",
       "onboard_time": 1672027830,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 636295,
-      "num": 636295,
-      "word": "专家称奥密克戎突变已基本饱和",
-      "onboard_time": 1672152813,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -1459,14 +1475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 515345,
-      "num": 515345,
-      "word": "女孩为拥有苹果手机频繁偷包裹",
-      "onboard_time": 1672152693,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 512697,
       "num": 512697,
       "word": "妈妈偷订外卖忘记孩子识字被发现",
@@ -1497,14 +1505,6 @@
       "onboard_time": 1672044873,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 505548,
-      "num": 505548,
-      "word": "辰亦儒演技巅峰",
-      "onboard_time": 1672152994,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 505333,
@@ -2843,6 +2843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242011,
+      "num": 242011,
+      "word": "再次感染一般可能轻于既往感染",
+      "onboard_time": 1672153589,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241827,
       "num": 241827,
       "word": "阳了几天后的发型",
@@ -2923,12 +2931,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 237004,
+      "num": 237004,
+      "word": "范子铭",
+      "onboard_time": 1672154248,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236672,
       "num": 228814,
       "word": "沈腾今年春晚彩排瘦了",
       "onboard_time": 1672047692,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235991,
+      "num": 235991,
+      "word": "三体动画豆瓣跌破6分",
+      "onboard_time": 1672152213,
+      "rank": 33,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 235792,
@@ -3241,14 +3265,6 @@
       "onboard_time": 1671981748,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216914,
-      "num": 216914,
-      "word": "三体动画豆瓣跌破6分",
-      "onboard_time": 1672152213,
-      "rank": 33,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 216691,
@@ -3585,6 +3601,14 @@
       "onboard_time": 1672022727,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194038,
+      "num": 194038,
+      "word": "当妈妈知道你羊了",
+      "onboard_time": 1672152873,
+      "rank": 38,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 193973,
@@ -4083,6 +4107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165769,
+      "num": 165769,
+      "word": "不会下楼梯的小狗",
+      "onboard_time": 1672154669,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164836,
       "num": 164836,
       "word": "jet",
@@ -4091,20 +4123,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164700,
+      "num": 164700,
+      "word": "凤凰网2022国际大健康峰会",
+      "onboard_time": 1672154489,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 164598,
       "num": 164598,
       "word": "克洛普说梅西是足坛GOAT",
       "onboard_time": 1672021228,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164583,
-      "num": 164583,
-      "word": "当妈妈知道你羊了",
-      "onboard_time": 1672152873,
-      "rank": 38,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 164257,
@@ -4121,14 +4153,6 @@
       "onboard_time": 1672000213,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163748,
-      "num": 163748,
-      "word": "范子铭",
-      "onboard_time": 1672154248,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 163023,
@@ -4227,14 +4251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 159473,
-      "num": 159473,
-      "word": "再次感染一般可能轻于既往感染",
-      "onboard_time": 1672153589,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158931,
       "num": 158931,
       "word": "天猫将推出商品单价立减无需凑单",
@@ -4329,6 +4345,14 @@
       "onboard_time": 1672034850,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154058,
+      "num": 154058,
+      "word": "重症易发人群应提前用抗病毒治疗",
+      "onboard_time": 1672154970,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153468,
@@ -4651,6 +4675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139857,
+      "num": 139857,
+      "word": "苍兰诀角色号为王鹤棣肖铎打call",
+      "onboard_time": 1672148796,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139784,
       "num": 139784,
       "word": "成都一小伙阳后憋咳致晕厥",
@@ -4761,6 +4793,14 @@
       "onboard_time": 1672074319,
       "rank": 49,
       "category": "影视,情感"
+    },
+    {
+      "raw_hot": 131730,
+      "num": 131730,
+      "word": "关晓彤说自己太喜欢过节",
+      "onboard_time": 1672155149,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 130911,
