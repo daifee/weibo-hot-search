@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672139672730,
+  "endTime": 1672140790203,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -121,6 +121,14 @@
       "onboard_time": 1672119331,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1469639,
+      "num": 1469639,
+      "word": "张亮儿子回应网络传言",
+      "onboard_time": 1672140454,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1459477,
@@ -339,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 834896,
+      "num": 834896,
+      "word": "妈妈带病洗澡8岁男童诅咒式劝阻",
+      "onboard_time": 1672134809,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 832589,
       "num": 832589,
       "word": "阳性人员原则上不带病上岗",
@@ -379,16 +395,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 789657,
-      "num": 789657,
-      "word": "妈妈带病洗澡8岁男童诅咒式劝阻",
-      "onboard_time": 1672134809,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 782453,
-      "num": 782453,
+      "raw_hot": 791477,
+      "num": 791477,
       "word": "卫健委回应武汉急救车被指见死不救",
       "onboard_time": 1672135534,
       "rank": 39,
@@ -417,6 +425,14 @@
       "onboard_time": 1672111829,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 771686,
+      "num": 467395,
+      "word": "北京协和医院发热门诊现状",
+      "onboard_time": 1672138593,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 765350,
@@ -449,6 +465,14 @@
       "onboard_time": 1672122267,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 755727,
+      "num": 452630,
+      "word": "田小娟确诊新冠",
+      "onboard_time": 1672139313,
+      "rank": 27,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 715345,
@@ -635,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503699,
+      "num": 384012,
+      "word": "心疼张婉婷",
+      "onboard_time": 1672137872,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 493166,
       "num": 493166,
       "word": "王佳怡和赵今麦是大学同学",
@@ -795,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382227,
-      "num": 382227,
-      "word": "心疼张婉婷",
-      "onboard_time": 1672137872,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 373768,
       "num": 373768,
       "word": "调整为乙类乙管不是放任不管",
@@ -857,6 +881,14 @@
       "onboard_time": 1672125752,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 354396,
+      "num": 354396,
+      "word": "Zzr确诊",
+      "onboard_time": 1672138771,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 354247,
@@ -915,14 +947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 333127,
-      "num": 333127,
-      "word": "北京协和医院发热门诊现状",
-      "onboard_time": 1672138593,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 332623,
       "num": 332623,
       "word": "小狗也需要边界感",
@@ -979,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315991,
+      "num": 315991,
+      "word": "爸爸拿万用表给孩子测体温",
+      "onboard_time": 1672136371,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315525,
       "num": 315525,
       "word": "没阳过的人跟阳康接触会被感染吗",
@@ -995,12 +1027,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 303304,
-      "num": 303304,
-      "word": "爸爸拿万用表给孩子测体温",
-      "onboard_time": 1672136371,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 306110,
+      "num": 306110,
+      "word": "2022霸屏演员",
+      "onboard_time": 1672137993,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 303280,
@@ -1009,6 +1041,14 @@
       "onboard_time": 1672122746,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297767,
+      "num": 297767,
+      "word": "王鹤棣眼中的肖铎",
+      "onboard_time": 1672140454,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 294195,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1672068451,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289421,
+      "num": 250332,
+      "word": "周深你在画一种很新的画",
+      "onboard_time": 1672139972,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 289010,
@@ -1075,14 +1123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267990,
-      "num": 267990,
-      "word": "田小娟确诊新冠",
-      "onboard_time": 1672139313,
-      "rank": 27,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 266538,
       "num": 266538,
       "word": "男孩向妈妈吼叫被爸爸教育",
@@ -1107,22 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262653,
-      "num": 262653,
-      "word": "Zzr确诊",
-      "onboard_time": 1672138771,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 259846,
-      "num": 247624,
-      "word": "2022霸屏演员",
-      "onboard_time": 1672137993,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 259612,
       "num": 259612,
       "word": "满足四个标准才算新冠痊愈",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1672118550,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254032,
+      "num": 254032,
+      "word": "恢复办理内地居民赴港签注",
+      "onboard_time": 1672138233,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253517,
@@ -1225,6 +1257,14 @@
       "onboard_time": 1672126170,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239015,
+      "num": 239015,
+      "word": "非正式跨年派对",
+      "onboard_time": 1672140272,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 238167,
@@ -1347,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222951,
+      "num": 187799,
+      "word": "西蓝花cp一集亲三次",
+      "onboard_time": 1672139793,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220850,
       "num": 1651350,
       "word": "新冠乙类乙管个人防护指南",
@@ -1376,14 +1424,6 @@
       "word": "男童血癌复发姐姐捐骨髓救弟",
       "onboard_time": 1672115733,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207566,
-      "num": 207566,
-      "word": "恢复办理内地居民赴港签注",
-      "onboard_time": 1672138233,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1867,12 +1907,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147908,
+      "num": 147908,
+      "word": "2022清库存大赛",
+      "onboard_time": 1672140093,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147774,
       "num": 147774,
       "word": "实施乙类乙管重点是强化服务和保障",
       "onboard_time": 1672129172,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147278,
+      "num": 396676,
+      "word": "原神 雷神 神里绫人复刻",
+      "onboard_time": 1672138834,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 146290,
@@ -1921,6 +1977,14 @@
       "onboard_time": 1672133429,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 141669,
+      "num": 141669,
+      "word": "原神雷电将军",
+      "onboard_time": 1672139972,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 141004,
@@ -1977,6 +2041,14 @@
       "onboard_time": 1672134871,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134715,
+      "num": 134715,
+      "word": "男子称转阴3天后出门受凉复阳",
+      "onboard_time": 1672140333,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131763,
@@ -2185,14 +2257,6 @@
       "onboard_time": 1672055493,
       "rank": 49,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 92437,
-      "num": 386421,
-      "word": "原神 雷神 神里绫人复刻",
-      "onboard_time": 1672138834,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 89634,

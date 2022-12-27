@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672139672730,
+  "endTime": 1672140790203,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -3649,6 +3649,14 @@
       "onboard_time": 1670904491,
       "rank": 8,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 1469639,
+      "num": 1469639,
+      "word": "张亮儿子回应网络传言",
+      "onboard_time": 1672140454,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1469486,
@@ -9075,6 +9083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 834896,
+      "num": 834896,
+      "word": "妈妈带病洗澡8岁男童诅咒式劝阻",
+      "onboard_time": 1672134809,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 833677,
       "num": 833677,
       "word": "张鹭",
@@ -9779,6 +9795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 791477,
+      "num": 791477,
+      "word": "卫健委回应武汉急救车被指见死不救",
+      "onboard_time": 1672135534,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 791262,
       "num": 727961,
       "word": "樊振东",
@@ -9817,14 +9841,6 @@
       "onboard_time": 1669994414,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 789657,
-      "num": 789657,
-      "word": "妈妈带病洗澡8岁男童诅咒式劝阻",
-      "onboard_time": 1672134809,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 789527,
@@ -9976,14 +9992,6 @@
       "word": "魏树礼逝世",
       "onboard_time": 1671631238,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 782453,
-      "num": 782453,
-      "word": "卫健委回应武汉急救车被指见死不救",
-      "onboard_time": 1672135534,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -10216,6 +10224,14 @@
       "word": "太原120一天被呼叫4800次",
       "onboard_time": 1671844048,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771686,
+      "num": 467395,
+      "word": "北京协和医院发热门诊现状",
+      "onboard_time": 1672138593,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -10521,6 +10537,14 @@
       "onboard_time": 1670023866,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 755727,
+      "num": 452630,
+      "word": "田小娟确诊新冠",
+      "onboard_time": 1672139313,
+      "rank": 27,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 752976,
@@ -17651,6 +17675,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 503699,
+      "num": 384012,
+      "word": "心疼张婉婷",
+      "onboard_time": 1672137872,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 503655,
       "num": 503655,
       "word": "4人消费近300元后趁店家忙逃单",
@@ -23699,14 +23731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 382227,
-      "num": 382227,
-      "word": "心疼张婉婷",
-      "onboard_time": 1672137872,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 382167,
       "num": 382167,
       "word": "杨紫说颜淡的新剧本已就位",
@@ -25323,6 +25347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354396,
+      "num": 354396,
+      "word": "Zzr确诊",
+      "onboard_time": 1672138771,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 354247,
       "num": 354247,
       "word": "博主称餐厅虚假营销抓起帝王蟹扯腿吃掉",
@@ -26843,14 +26875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 333127,
-      "num": 333127,
-      "word": "北京协和医院发热门诊现状",
-      "onboard_time": 1672138593,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333018,
       "num": 333018,
       "word": "朱婷21分",
@@ -28299,6 +28323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 315991,
+      "num": 315991,
+      "word": "爸爸拿万用表给孩子测体温",
+      "onboard_time": 1672136371,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315968,
       "num": 315968,
       "word": "FoFo",
@@ -29091,6 +29123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306110,
+      "num": 306110,
+      "word": "2022霸屏演员",
+      "onboard_time": 1672137993,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 306024,
       "num": 306024,
       "word": "蛋仔派对",
@@ -29352,14 +29392,6 @@
       "word": "2岁娃被小女孩纠正猎豹外套崩溃哭",
       "onboard_time": 1670747296,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303304,
-      "num": 303304,
-      "word": "爸爸拿万用表给孩子测体温",
-      "onboard_time": 1672136371,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -29801,6 +29833,14 @@
       "onboard_time": 1671529059,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 297767,
+      "num": 297767,
+      "word": "王鹤棣眼中的肖铎",
+      "onboard_time": 1672140454,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 297215,
@@ -30609,6 +30649,14 @@
       "onboard_time": 1671628353,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289421,
+      "num": 250332,
+      "word": "周深你在画一种很新的画",
+      "onboard_time": 1672139972,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 289278,
@@ -32651,14 +32699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267990,
-      "num": 267990,
-      "word": "田小娟确诊新冠",
-      "onboard_time": 1672139313,
-      "rank": 27,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 267969,
       "num": 267969,
       "word": "中午吃火锅晚上吃米线",
@@ -33227,14 +33267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 262653,
-      "num": 262653,
-      "word": "Zzr确诊",
-      "onboard_time": 1672138771,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 262638,
       "num": 258698,
       "word": "KBS直播",
@@ -33505,14 +33537,6 @@
       "onboard_time": 1670751136,
       "rank": 32,
       "category": "体育,音乐"
-    },
-    {
-      "raw_hot": 259846,
-      "num": 247624,
-      "word": "2022霸屏演员",
-      "onboard_time": 1672137993,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 259795,
@@ -33993,6 +34017,14 @@
       "onboard_time": 1670596041,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254032,
+      "num": 254032,
+      "word": "恢复办理内地居民赴港签注",
+      "onboard_time": 1672138233,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254029,
@@ -35689,6 +35721,14 @@
       "onboard_time": 1670332269,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239015,
+      "num": 239015,
+      "word": "非正式跨年派对",
+      "onboard_time": 1671453270,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 239001,
@@ -37641,6 +37681,14 @@
       "onboard_time": 1670961129,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222951,
+      "num": 187799,
+      "word": "西蓝花cp一集亲三次",
+      "onboard_time": 1672139793,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 222943,
@@ -39728,14 +39776,6 @@
       "word": "女子回家发现门口被邻居堆满破烂",
       "onboard_time": 1670757317,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207566,
-      "num": 207566,
-      "word": "恢复办理内地居民赴港签注",
-      "onboard_time": 1672138233,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -50131,14 +50171,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 152260,
-      "num": 152260,
-      "word": "非正式跨年派对",
-      "onboard_time": 1671453270,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152247,
       "num": 152247,
       "word": "女生回乡路上发烧奶奶坚决不让走",
@@ -51059,6 +51091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147908,
+      "num": 147908,
+      "word": "2022清库存大赛",
+      "onboard_time": 1672140093,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147895,
       "num": 147895,
       "word": "中国光纤之父赵梓森逝世",
@@ -51185,6 +51225,14 @@
       "onboard_time": 1670491457,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147278,
+      "num": 396676,
+      "word": "原神 雷神 神里绫人复刻",
+      "onboard_time": 1672138834,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 147272,
@@ -52353,6 +52401,14 @@
       "onboard_time": 1670394914,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141669,
+      "num": 141669,
+      "word": "原神雷电将军",
+      "onboard_time": 1672139972,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 141662,
@@ -53785,6 +53841,14 @@
       "onboard_time": 1671758007,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134715,
+      "num": 134715,
+      "word": "男子称转阴3天后出门受凉复阳",
+      "onboard_time": 1672140333,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134692,
@@ -60457,14 +60521,6 @@
       "onboard_time": 1669981572,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92437,
-      "num": 386421,
-      "word": "原神 雷神 神里绫人复刻",
-      "onboard_time": 1672138834,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 92413,
