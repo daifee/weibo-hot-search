@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672161330623,
+  "endTime": 1672162402581,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -46627,6 +46627,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 172020,
+      "num": 172020,
+      "word": "雷无桀登天阁一口气闯到13层",
+      "onboard_time": 1672161739,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171934,
       "num": 164328,
       "word": "心疼朱正廷演的翼无忧",
@@ -47881,6 +47889,14 @@
       "onboard_time": 1671518549,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166161,
+      "num": 166161,
+      "word": "2022男主人设天花板",
+      "onboard_time": 1672159640,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 166095,
@@ -52464,14 +52480,6 @@
       "word": "徐璐远程为张彬彬打call",
       "onboard_time": 1671517889,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 144175,
-      "num": 110231,
-      "word": "2022男主人设天花板",
-      "onboard_time": 1672159640,
-      "rank": 20,
       "category": "影视"
     },
     {
@@ -62513,6 +62521,14 @@
       "onboard_time": 1670967428,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64565,
+      "num": 52241,
+      "word": "易烊千玺孙均的眼神戏",
+      "onboard_time": 1672161918,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 64530,

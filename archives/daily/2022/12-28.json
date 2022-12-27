@@ -1,6 +1,6 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672161330623,
+  "endTime": 1672162402581,
   "band_list": [
     {
       "raw_hot": 1893062,
@@ -211,6 +211,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172020,
+      "num": 172020,
+      "word": "雷无桀登天阁一口气闯到13层",
+      "onboard_time": 1672161739,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 166161,
+      "num": 166161,
+      "word": "2022男主人设天花板",
+      "onboard_time": 1672159640,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165975,
       "num": 165975,
       "word": "原来男生被爱也会哭",
@@ -273,14 +289,6 @@
       "onboard_time": 1672131335,
       "rank": 29,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 144175,
-      "num": 110231,
-      "word": "2022男主人设天花板",
-      "onboard_time": 1672159640,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 138385,
@@ -403,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90813,
+      "num": 90813,
+      "word": "阳过后小心病毒性心肌炎",
+      "onboard_time": 1672159222,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75758,
       "num": 100198,
       "word": "永远要和喜欢的人好好说话",
@@ -411,20 +427,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 70914,
-      "num": 77515,
-      "word": "阳过后小心病毒性心肌炎",
-      "onboard_time": 1672159222,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67661,
       "num": 100119,
       "word": "米饭消灭神器",
       "onboard_time": 1672157904,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 64565,
+      "num": 52241,
+      "word": "易烊千玺孙均的眼神戏",
+      "onboard_time": 1672161918,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 52675,
@@ -454,6 +470,9 @@
   "hotgov_list": [
     {
       "word": "#90秒超燃回顾中国航天这一年#"
+    },
+    {
+      "word": "#一图读懂乙类乙管#"
     }
   ]
 }
