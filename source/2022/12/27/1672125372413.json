@@ -1,0 +1,410 @@
+{
+  "runTime": 1672125372413,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1705318,
+        "num": 1705318,
+        "word": "宋宁峰选了离婚",
+        "onboard_time": 1672124492,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1575430,
+        "num": 1575430,
+        "word": "满江红 双男主",
+        "onboard_time": 1672114472,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31180,
+        "num": 1228252,
+        "word": "2022哪些同框相遇打动了你",
+        "onboard_time": 1672103729,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1143228,
+        "num": 1143228,
+        "word": "杨迪在节目里说上一季的人都正常",
+        "onboard_time": 1672120650,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1080667,
+        "num": 1080667,
+        "word": "四川新增1例死亡病例",
+        "onboard_time": 1672123050,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1051742,
+        "num": 1051742,
+        "word": "拜登宣布纽约州进入紧急状态",
+        "onboard_time": 1672117048,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 826601,
+        "num": 826601,
+        "word": "爷奶阳性后吃孙女点的外卖表情亮了",
+        "onboard_time": 1672115493,
+        "rank": 6,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 775260,
+        "num": 775260,
+        "word": "女子阳性躺10多天头发变离子烫",
+        "onboard_time": 1672122568,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163358,
+        "num": 741905,
+        "word": "网传女子衣着暴露在人民调解室热舞",
+        "onboard_time": 1672119331,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691254,
+        "num": 691254,
+        "word": "未来新冠或似流感需每年打疫苗",
+        "onboard_time": 1672122267,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699110,
+        "num": 675327,
+        "word": "张婉婷对妈妈说我坚强是因为你们软弱",
+        "onboard_time": 1672121970,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 581763,
+        "num": 581763,
+        "word": "女子发烧5天崩溃大哭狗子担心踱步",
+        "onboard_time": 1672112311,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553444,
+        "num": 553444,
+        "word": "华为天才少年稚晖君确认离职",
+        "onboard_time": 1672122210,
+        "rank": 12,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 528426,
+        "num": 528426,
+        "word": "女子花2千买体温计吐槽被收智商税",
+        "onboard_time": 1672118492,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519489,
+        "num": 519489,
+        "word": "阳了怎么判断肺部是否感染",
+        "onboard_time": 1672117650,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518133,
+        "num": 518133,
+        "word": "狗哥",
+        "onboard_time": 1672124731,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 472978,
+        "num": 472978,
+        "word": "阳性人员原则上不带病上岗",
+        "onboard_time": 1672117951,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459361,
+        "num": 459361,
+        "word": "微念与李子柒达成和解",
+        "onboard_time": 1672115973,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447520,
+        "num": 447520,
+        "word": "陈飞宇张婧仪芭莎花絮路透",
+        "onboard_time": 1672123289,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 303908,
+        "num": 303908,
+        "word": "没阳过的人跟阳康接触会被感染吗",
+        "onboard_time": 1672119990,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384908,
+        "num": 302768,
+        "word": "网传苏有朋李宇春蔡徐坤张艺兴跨年压轴",
+        "onboard_time": 1672117890,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347184,
+        "num": 302036,
+        "word": "白宇吃了一百碗面",
+        "onboard_time": 1672120650,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300133,
+        "num": 300133,
+        "word": "官方辟谣网友5天内2次感染不同毒株",
+        "onboard_time": 1672122746,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276833,
+        "num": 276833,
+        "word": "迪丽热巴银色挑染造型",
+        "onboard_time": 1672115433,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254766,
+        "num": 254766,
+        "word": "网传德尔塔奥密克戎共循环是谣言",
+        "onboard_time": 1672119214,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221098,
+        "num": 221098,
+        "word": "你还在咳咳咳吗",
+        "onboard_time": 1672108048,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210875,
+        "num": 210875,
+        "word": "春节前阳康可以旅游但出国要警惕",
+        "onboard_time": 1672115973,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 206331,
+        "num": 206331,
+        "word": "老人阳了一定要查血氧",
+        "onboard_time": 1672112610,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199518,
+        "num": 199518,
+        "word": "白肺是什么",
+        "onboard_time": 1672109245,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186475,
+        "num": 186475,
+        "word": "iPhone车祸检测占用大量救援资源",
+        "onboard_time": 1672106728,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 260010,
+        "num": 185496,
+        "word": "王佳怡 满江红",
+        "onboard_time": 1672113873,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256900,
+        "num": 184208,
+        "word": "重症白肺死亡率40%以上",
+        "onboard_time": 1672124791,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217403,
+        "num": 181784,
+        "word": "孙怡再见爱人第八期课代表",
+        "onboard_time": 1672124431,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198273,
+        "num": 180090,
+        "word": "易烊千玺满江红铁衣造型",
+        "onboard_time": 1672125091,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178473,
+        "num": 178473,
+        "word": "eStar全员薯片自拍",
+        "onboard_time": 1672124131,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174386,
+        "num": 174386,
+        "word": "苹果在日本补缴9800万美元消费税",
+        "onboard_time": 1672121551,
+        "rank": 35,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 168764,
+        "num": 168764,
+        "word": "孟美岐名誉维权案胜诉",
+        "onboard_time": 1672119214,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167621,
+        "num": 167621,
+        "word": "转阴后熬夜易诱发心肌损伤",
+        "onboard_time": 1672112610,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158931,
+        "num": 158931,
+        "word": "天猫将推出商品单价立减无需凑单",
+        "onboard_time": 1672124251,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 139176,
+        "num": 139176,
+        "word": "75岁外婆深夜赶英语作业",
+        "onboard_time": 1672124370,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166690,
+        "num": 134369,
+        "word": "杨幂湖南卫视跨年晚会宣传片",
+        "onboard_time": 1672118550,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163023,
+        "num": 133015,
+        "word": "孔雪儿刘些宁同框杂志大片",
+        "onboard_time": 1672123411,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125746,
+        "num": 125746,
+        "word": "光与夜之恋",
+        "onboard_time": 1672115852,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125377,
+        "num": 125377,
+        "word": "专家称房地产是明年经济增长主角",
+        "onboard_time": 1672125153,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 123595,
+        "num": 123595,
+        "word": "阳了后一直咳嗽是怎么回事",
+        "onboard_time": 1672114291,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123122,
+        "num": 123122,
+        "word": "仿佛看到跨年时的自己",
+        "onboard_time": 1672125270,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 116396,
+        "num": 116396,
+        "word": "转阴后如何保护心脏",
+        "onboard_time": 1672124973,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107433,
+        "num": 107433,
+        "word": "北京对老年人发放血氧夹",
+        "onboard_time": 1672106186,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103827,
+        "num": 103827,
+        "word": "塞尔维亚军警进入最高级别战备状态",
+        "onboard_time": 1672112131,
+        "rank": 48,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 101856,
+        "num": 101856,
+        "word": "Meiko国服事件队友回应",
+        "onboard_time": 1672125330,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022中国色彩之美#"
+    }
+  }
+}
