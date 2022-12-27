@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672115830438,
+  "endTime": 1672118195939,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1648950,
+      "num": 1648950,
+      "word": "女子发烧5天崩溃大哭狗子担心踱步",
+      "onboard_time": 1672112311,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1617949,
       "num": 1509606,
       "word": "多国对来自中国旅客查核酸",
       "onboard_time": 1672110330,
       "rank": 16,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 1454627,
-      "num": 1454627,
-      "word": "女子发烧5天崩溃大哭狗子担心踱步",
-      "onboard_time": 1672112311,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1421568,
@@ -89,6 +89,14 @@
       "onboard_time": 1672108048,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1105043,
+      "num": 1105043,
+      "word": "爷奶阳性后吃孙女点的外卖表情亮了",
+      "onboard_time": 1672115493,
+      "rank": 36,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 1099197,
@@ -203,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 773178,
+      "num": 773178,
+      "word": "老人阳了一定要查血氧",
+      "onboard_time": 1672112610,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772649,
       "num": 772649,
       "word": "张艺谋镜头下的易烊千玺",
@@ -219,14 +235,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 731505,
-      "num": 731505,
-      "word": "老人阳了一定要查血氧",
-      "onboard_time": 1672112610,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 715345,
       "num": 715345,
       "word": "解除对新冠感染的甲类传染病防控措施",
@@ -235,12 +243,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 675383,
+      "num": 675383,
+      "word": "满江红 双男主",
+      "onboard_time": 1672114472,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 658477,
       "num": 658477,
       "word": "张译和王俊凯易烊千玺都合作了",
       "onboard_time": 1672115793,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 655009,
+      "num": 655009,
+      "word": "微念与李子柒达成和解",
+      "onboard_time": 1672115973,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625563,
@@ -267,12 +291,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 587316,
-      "num": 530389,
-      "word": "满江红 双男主",
-      "onboard_time": 1672114472,
-      "rank": 27,
-      "category": "影视"
+      "raw_hot": 564975,
+      "num": 564975,
+      "word": "转阴后熬夜易诱发心肌损伤",
+      "onboard_time": 1672112610,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559554,
@@ -307,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 516512,
-      "num": 516512,
-      "word": "转阴后熬夜易诱发心肌损伤",
-      "onboard_time": 1672112610,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 512697,
       "num": 512697,
       "word": "妈妈偷订外卖忘记孩子识字被发现",
@@ -331,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510979,
+      "num": 476977,
+      "word": "拜登宣布纽约州进入紧急状态",
+      "onboard_time": 1672117048,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 481755,
       "num": 481755,
       "word": "电影满江红定档大年初一",
       "onboard_time": 1672108048,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 469086,
+      "num": 469086,
+      "word": "春节前阳康可以旅游但出国要警惕",
+      "onboard_time": 1672115973,
+      "rank": 14,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 467329,
@@ -355,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440312,
+      "num": 368116,
+      "word": "网传苏有朋李宇春蔡徐坤张艺兴跨年压轴",
+      "onboard_time": 1672117890,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438487,
       "num": 438487,
       "word": "新冠病毒感染调整为乙类乙管",
       "onboard_time": 1672067854,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424062,
+      "num": 424062,
+      "word": "微念创始人刘同明退出李子柒公司",
+      "onboard_time": 1672112371,
+      "rank": 20,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 424016,
@@ -387,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402551,
+      "num": 402551,
+      "word": "阳了后一直咳嗽是怎么回事",
+      "onboard_time": 1672114291,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398870,
       "num": 398870,
       "word": "国安比赛弃权",
@@ -409,14 +465,6 @@
       "onboard_time": 1672069234,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 374446,
-      "num": 374446,
-      "word": "微念创始人刘同明退出李子柒公司",
-      "onboard_time": 1672112371,
-      "rank": 20,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 373768,
@@ -491,12 +539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318185,
+      "num": 318185,
+      "word": "offer官宣史上最小加油团成员林墨",
+      "onboard_time": 1672117593,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312931,
       "num": 312931,
       "word": "苹果推出跨年福利",
       "onboard_time": 1672103250,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 296586,
+      "num": 215317,
+      "word": "小秀是谁杀死的",
+      "onboard_time": 1672113873,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 293832,
@@ -512,14 +576,6 @@
       "word": "男子开车与救护车碰撞后落水溺亡",
       "onboard_time": 1672068451,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288881,
-      "num": 288881,
-      "word": "阳了后一直咳嗽是怎么回事",
-      "onboard_time": 1672114291,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -635,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237008,
+      "num": 237008,
+      "word": "光与夜之恋",
+      "onboard_time": 1672115852,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232861,
       "num": 232861,
       "word": "回来的女儿洗衣机里是李文文吗",
@@ -707,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212851,
+      "num": 212851,
+      "word": "苹果跨年福利被吐槽清库存",
+      "onboard_time": 1672115370,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 207114,
       "num": 207114,
       "word": "王凯谭松韵新剧首播收视率第一",
@@ -731,6 +803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201075,
+      "num": 201075,
+      "word": "男童血癌复发姐姐捐骨髓救弟",
+      "onboard_time": 1672115733,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200224,
       "num": 200224,
       "word": "乙类乙管是否意味着回到疫情前状态",
@@ -753,6 +833,14 @@
       "onboard_time": 1672114592,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195987,
+      "num": 169022,
+      "word": "回来的女儿 不要烂尾",
+      "onboard_time": 1672116690,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 192788,
@@ -827,14 +915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 179965,
-      "num": 179965,
-      "word": "爷奶阳性后吃孙女点的外卖表情亮了",
-      "onboard_time": 1672115493,
-      "rank": 36,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 178539,
       "num": 178539,
       "word": "郑秀妍说来跟我一起跳进2023年",
@@ -875,6 +955,22 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 173337,
+      "num": 169015,
+      "word": "江苏卫视跨年第四波阵容官宣",
+      "onboard_time": 1672116331,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169035,
+      "num": 169035,
+      "word": "阳了怎么判断肺部是否感染",
+      "onboard_time": 1672117650,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168615,
       "num": 168615,
       "word": "心肌炎症状有哪些",
@@ -904,6 +1000,14 @@
       "word": "分阶段增加国际客运航班数量",
       "onboard_time": 1672108108,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161961,
+      "num": 161961,
+      "word": "阳性人员原则上不带病上岗",
+      "onboard_time": 1672117951,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -953,6 +1057,14 @@
       "onboard_time": 1672115433,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152118,
+      "num": 152118,
+      "word": "虚荣复刻",
+      "onboard_time": 1672117172,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 149777,
@@ -1065,14 +1177,6 @@
       "onboard_time": 1672063832,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125946,
-      "num": 125946,
-      "word": "男童血癌复发姐姐捐骨髓救弟",
-      "onboard_time": 1672115733,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125168,
