@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672111180885,
+  "endTime": 1672112007478,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -43,6 +43,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1350270,
+      "num": 1350270,
+      "word": "你还在咳咳咳吗",
+      "onboard_time": 1672108048,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1138032,
       "num": 1138032,
       "word": "湖南卫视跨年姿态官宣",
@@ -51,19 +59,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1097741,
+      "num": 1097741,
+      "word": "白肺是什么",
+      "onboard_time": 1672109245,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1070761,
       "num": 1070761,
       "word": "大二女生吃药一年得知被误诊艾滋病",
       "onboard_time": 1672067433,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1047307,
-      "num": 1047307,
-      "word": "你还在咳咳咳吗",
-      "onboard_time": 1672108048,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -81,14 +89,6 @@
       "onboard_time": 1672103548,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 946072,
-      "num": 946072,
-      "word": "白肺是什么",
-      "onboard_time": 1672109245,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 928617,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 852859,
+      "num": 852859,
+      "word": "多国对来自中国旅客查核酸",
+      "onboard_time": 1672110330,
+      "rank": 16,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 845180,
       "num": 845180,
       "word": "满江红官宣阵容",
@@ -139,8 +147,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 772649,
+      "num": 772649,
+      "word": "张艺谋镜头下的易烊千玺",
+      "onboard_time": 1672111829,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 761565,
-      "num": 543563,
+      "num": 698501,
       "word": "徐明浩将缺席雅加达演唱会",
       "onboard_time": 1672109728,
       "rank": 10,
@@ -289,14 +305,6 @@
       "onboard_time": 1672102890,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 372033,
-      "num": 372033,
-      "word": "多国对来自中国旅客查核酸",
-      "onboard_time": 1672110330,
-      "rank": 16,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 364937,
@@ -507,6 +515,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214415,
+      "num": 214415,
+      "word": "赵露思神隐白衣威亚造型路透",
+      "onboard_time": 1672111889,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 213809,
+      "num": 213809,
+      "word": "篮网九连胜",
+      "onboard_time": 1672110869,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207114,
       "num": 207114,
       "word": "王凯谭松韵新剧首播收视率第一",
@@ -553,6 +577,14 @@
       "onboard_time": 1672097180,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187327,
+      "num": 187327,
+      "word": "美官员再要求字节出售TikTok美国业务",
+      "onboard_time": 1672110030,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 186113,
@@ -635,12 +667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165037,
-      "num": 165037,
-      "word": "美官员再要求字节出售TikTok美国业务",
-      "onboard_time": 1672110030,
-      "rank": 33,
-      "category": "科技"
+      "raw_hot": 168490,
+      "num": 168490,
+      "word": "见过眼睛最漂亮的狗狗",
+      "onboard_time": 1672110929,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 162559,
@@ -665,6 +697,22 @@
       "onboard_time": 1672108108,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161345,
+      "num": 126175,
+      "word": "龚俊官宣加盟2023湖南卫视跨年晚会",
+      "onboard_time": 1672111889,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157852,
+      "num": 126140,
+      "word": "王砚辉演技",
+      "onboard_time": 1672111649,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 155222,
@@ -731,14 +779,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 133565,
-      "num": 133565,
-      "word": "篮网九连胜",
-      "onboard_time": 1672110869,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131763,
       "num": 131763,
       "word": "你看过最难释怀的烂剧",
@@ -779,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126105,
+      "num": 126105,
+      "word": "波司登五年涨价六至八成",
+      "onboard_time": 1672111529,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 126065,
       "num": 126065,
       "word": "白敬亭荣获豆瓣2022年度年度最受关注演员",
@@ -811,6 +859,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 122169,
+      "num": 122169,
+      "word": "这个狗全是心眼",
+      "onboard_time": 1672111589,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120248,
       "num": 120248,
       "word": "这算是跨年失败了",
@@ -835,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114391,
-      "num": 114391,
-      "word": "见过眼睛最漂亮的狗狗",
-      "onboard_time": 1672110929,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113661,
       "num": 113661,
       "word": "秦岭翠华山雪意涔涔银霜遍地",
@@ -857,6 +905,22 @@
       "onboard_time": 1672055791,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110744,
+      "num": 110744,
+      "word": "第一波最高峰冲击未出现大面积重症死亡",
+      "onboard_time": 1672111950,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107876,
+      "num": 107876,
+      "word": "水泥鼻阶段你都是怎样度过的",
+      "onboard_time": 1672111771,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106624,
