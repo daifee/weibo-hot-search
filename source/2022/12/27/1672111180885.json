@@ -1,0 +1,410 @@
+{
+  "runTime": 1672111180885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1357043,
+        "num": 1357043,
+        "word": "iPhone车祸检测占用大量救援资源",
+        "onboard_time": 1672106728,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1260411,
+        "num": 1260411,
+        "word": "xbb",
+        "onboard_time": 1672057475,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127837,
+        "num": 1160292,
+        "word": "感染者出现哪些症状应及时就诊",
+        "onboard_time": 1672062693,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1138032,
+        "num": 1138032,
+        "word": "湖南卫视跨年姿态官宣",
+        "onboard_time": 1672108409,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1047307,
+        "num": 1047307,
+        "word": "你还在咳咳咳吗",
+        "onboard_time": 1672108048,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946072,
+        "num": 946072,
+        "word": "白肺是什么",
+        "onboard_time": 1672109245,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845180,
+        "num": 845180,
+        "word": "满江红官宣阵容",
+        "onboard_time": 1672108769,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 578327,
+        "num": 578327,
+        "word": "大二女生吃药一年得知被误诊艾滋病",
+        "onboard_time": 1672067433,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773303,
+        "num": 574898,
+        "word": "沈腾易烊千玺满江红海报",
+        "onboard_time": 1672108528,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 548003,
+        "num": 548003,
+        "word": "新冠肺炎更名为新冠感染",
+        "onboard_time": 1672067493,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 761565,
+        "num": 543563,
+        "word": "徐明浩将缺席雅加达演唱会",
+        "onboard_time": 1672109728,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 571918,
+        "num": 542123,
+        "word": "满江红",
+        "onboard_time": 1672107628,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 536318,
+        "num": 536318,
+        "word": "国家统计局最终核实2021年GDP",
+        "onboard_time": 1672105946,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 482267,
+        "num": 482267,
+        "word": "北京对老年人发放血氧夹",
+        "onboard_time": 1672106186,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424167,
+        "num": 424167,
+        "word": "谷爱凌说自己不知道的事情请不要说了",
+        "onboard_time": 1672065277,
+        "rank": 14,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 398870,
+        "num": 398870,
+        "word": "国安比赛弃权",
+        "onboard_time": 1672108827,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372033,
+        "num": 372033,
+        "word": "多国对来自中国旅客查核酸",
+        "onboard_time": 1672110330,
+        "rank": 16,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 357340,
+        "num": 357340,
+        "word": "武汉三镇官方声明",
+        "onboard_time": 1672099466,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350390,
+        "num": 350390,
+        "word": "妈妈偷订外卖忘记孩子识字被发现",
+        "onboard_time": 1672068756,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290413,
+        "num": 290413,
+        "word": "哪个国家会是你出国首站",
+        "onboard_time": 1672106128,
+        "rank": 19,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 345296,
+        "num": 282678,
+        "word": "王俊凯官宣加盟江苏卫视跨年",
+        "onboard_time": 1672104689,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327748,
+        "num": 268033,
+        "word": "电影满江红定档大年初一",
+        "onboard_time": 1672108048,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241939,
+        "num": 241939,
+        "word": "年末川渝男人的统一着装",
+        "onboard_time": 1672097481,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 240351,
+        "num": 240351,
+        "word": "专家回应奥密克戎是否会导致白肺现象",
+        "onboard_time": 1672059454,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221586,
+        "num": 221586,
+        "word": "取消入境后全员核酸检测和集中隔离",
+        "onboard_time": 1672068215,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214916,
+        "num": 214916,
+        "word": "25岁老总挪用公款打赏女主播50万",
+        "onboard_time": 1672069054,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213274,
+        "num": 213274,
+        "word": "出境游将恢复国际机票搜索大涨",
+        "onboard_time": 1672106548,
+        "rank": 26,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 208528,
+        "num": 208528,
+        "word": "男孩向妈妈吼叫被爸爸教育",
+        "onboard_time": 1672104326,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238167,
+        "num": 207374,
+        "word": "张译说大年初一红运开年",
+        "onboard_time": 1672110330,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206110,
+        "num": 206110,
+        "word": "调整为乙类乙管不是放任不管",
+        "onboard_time": 1672102890,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218453,
+        "num": 202398,
+        "word": "李宏毅新剧演技",
+        "onboard_time": 1672106488,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210514,
+        "num": 201433,
+        "word": "鹿晗亮相十一年了",
+        "onboard_time": 1672104387,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197957,
+        "num": 197957,
+        "word": "梁洁有多喜欢这件粉色毛绒大衣",
+        "onboard_time": 1672096878,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165037,
+        "num": 165037,
+        "word": "美官员再要求字节出售TikTok美国业务",
+        "onboard_time": 1672110030,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 163038,
+        "num": 163038,
+        "word": "女孩子的发饰",
+        "onboard_time": 1672103548,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 152637,
+        "num": 152637,
+        "word": "回来的女儿洗衣机里是李文文吗",
+        "onboard_time": 1672101029,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147125,
+        "num": 147125,
+        "word": "乙类乙管是否意味着回到疫情前状态",
+        "onboard_time": 1672104510,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143361,
+        "num": 143361,
+        "word": "女生一年参加百场长跑赢一墙奖牌",
+        "onboard_time": 1672108948,
+        "rank": 37,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 133565,
+        "num": 133565,
+        "word": "篮网九连胜",
+        "onboard_time": 1672110869,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 607959,
+        "num": 133557,
+        "word": "如何在精神病院证明自己不是精神病",
+        "onboard_time": 1672103548,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152561,
+        "num": 133520,
+        "word": "阿凡达2全球票房破9亿美元",
+        "onboard_time": 1672106249,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145191,
+        "num": 133504,
+        "word": "Giselle合作曲part只有3秒",
+        "onboard_time": 1672095918,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133180,
+        "num": 133180,
+        "word": "王广发称没说过北京流行毒株是德尔塔",
+        "onboard_time": 1672104928,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124858,
+        "num": 124858,
+        "word": "苹果推出跨年福利",
+        "onboard_time": 1672103250,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 115578,
+        "num": 115578,
+        "word": "新冠转阴后如何预防心肌损伤",
+        "onboard_time": 1672097842,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114391,
+        "num": 114391,
+        "word": "见过眼睛最漂亮的狗狗",
+        "onboard_time": 1672110929,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113661,
+        "num": 113661,
+        "word": "秦岭翠华山雪意涔涔银霜遍地",
+        "onboard_time": 1672110630,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 112701,
+        "num": 112701,
+        "word": "男子开车与救护车碰撞后落水溺亡",
+        "onboard_time": 1672068451,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111862,
+        "num": 111862,
+        "word": "咳嗽出现这些症状要警惕肺炎",
+        "onboard_time": 1672061017,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104189,
+        "num": 104189,
+        "word": "乙类乙管将不再划定高低风险区",
+        "onboard_time": 1672109548,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022中国色彩之美#"
+    }
+  }
+}
