@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672125372413,
+  "endTime": 1672126394261,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2128398,
+      "num": 2128398,
+      "word": "宋宁峰选了离婚",
+      "onboard_time": 1672124492,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1853950,
       "num": 1853950,
       "word": "取消入境后全员核酸检测和集中隔离",
       "onboard_time": 1672068215,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1705318,
-      "num": 1705318,
-      "word": "宋宁峰选了离婚",
-      "onboard_time": 1672124492,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1665231,
@@ -195,6 +195,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 997477,
+      "num": 562514,
+      "word": "狗哥",
+      "onboard_time": 1672124731,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 958066,
       "num": 958066,
       "word": "如何在精神病院证明自己不是精神病",
@@ -225,6 +233,14 @@
       "onboard_time": 1672107628,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 912585,
+      "num": 912585,
+      "word": "女子阳性躺10多天头发变离子烫",
+      "onboard_time": 1672122568,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 902417,
@@ -291,14 +307,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 775260,
-      "num": 775260,
-      "word": "女子阳性躺10多天头发变离子烫",
-      "onboard_time": 1672122568,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 773303,
       "num": 574898,
       "word": "沈腾易烊千玺满江红海报",
@@ -331,6 +339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 757272,
+      "num": 757272,
+      "word": "未来新冠或似流感需每年打疫苗",
+      "onboard_time": 1672122267,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 715345,
       "num": 715345,
       "word": "解除对新冠感染的甲类传染病防控措施",
@@ -347,20 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 691254,
-      "num": 691254,
-      "word": "未来新冠或似流感需每年打疫苗",
-      "onboard_time": 1672122267,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 658477,
       "num": 658477,
       "word": "张译和王俊凯易烊千玺都合作了",
       "onboard_time": 1672115793,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 635180,
+      "num": 505860,
+      "word": "重症白肺死亡率40%以上",
+      "onboard_time": 1672124791,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625563,
@@ -387,6 +403,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 566190,
+      "num": 566190,
+      "word": "华为天才少年稚晖君确认离职",
+      "onboard_time": 1672122210,
+      "rank": 30,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 564975,
       "num": 564975,
       "word": "转阴后熬夜易诱发心肌损伤",
@@ -401,14 +425,6 @@
       "onboard_time": 1672104387,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 553444,
-      "num": 553444,
-      "word": "华为天才少年稚晖君确认离职",
-      "onboard_time": 1672122210,
-      "rank": 30,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 535782,
@@ -441,14 +457,6 @@
       "onboard_time": 1672106186,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 518133,
-      "num": 518133,
-      "word": "狗哥",
-      "onboard_time": 1672124731,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 512697,
@@ -587,12 +595,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373096,
+      "num": 373096,
+      "word": "孙怡再见爱人第八期课代表",
+      "onboard_time": 1672124431,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364937,
       "num": 364937,
       "word": "哪个国家会是你出国首站",
       "onboard_time": 1672106128,
       "rank": 17,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 352887,
+      "num": 352887,
+      "word": "4个月后印度将成为人口第一大国",
+      "onboard_time": 1672125513,
+      "rank": 21,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 352092,
@@ -683,8 +707,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 300133,
-      "num": 300133,
+      "raw_hot": 303280,
+      "num": 303280,
       "word": "官方辟谣网友5天内2次感染不同毒株",
       "onboard_time": 1672122746,
       "rank": 48,
@@ -705,6 +729,14 @@
       "onboard_time": 1672068451,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290331,
+      "num": 290331,
+      "word": "Meiko国服事件队友回应",
+      "onboard_time": 1672125330,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 286233,
@@ -755,14 +787,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 256900,
-      "num": 184208,
-      "word": "重症白肺死亡率40%以上",
-      "onboard_time": 1672124791,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255969,
       "num": 225370,
       "word": "杨幂湖南卫视跨年晚会宣传片",
@@ -777,6 +801,14 @@
       "onboard_time": 1672106488,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251933,
+      "num": 251933,
+      "word": "专家称房地产是明年经济增长主角",
+      "onboard_time": 1672125153,
+      "rank": 43,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 251703,
@@ -921,14 +953,6 @@
       "onboard_time": 1672119214,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217403,
-      "num": 181784,
-      "word": "孙怡再见爱人第八期课代表",
-      "onboard_time": 1672124431,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 214415,
@@ -1083,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182574,
+      "num": 182574,
+      "word": "75岁外婆深夜赶英语作业",
+      "onboard_time": 1672124370,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181787,
       "num": 181787,
       "word": "乙类乙管后有哪些应对措施",
@@ -1096,6 +1128,22 @@
       "word": "回来的女儿猴脸男是小卖部老板",
       "onboard_time": 1672065753,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 179512,
+      "num": 179512,
+      "word": "直播介绍新冠乙类乙管有关措施",
+      "onboard_time": 1672125873,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178901,
+      "num": 150986,
+      "word": "易烊千玺满江红盔甲片场随拍",
+      "onboard_time": 1672125873,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -1171,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168907,
+      "num": 168907,
+      "word": "丢个垃圾差点回不了家",
+      "onboard_time": 1672125752,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168615,
       "num": 168615,
       "word": "心肌炎症状有哪些",
@@ -1180,7 +1236,7 @@
     },
     {
       "raw_hot": 163023,
-      "num": 133015,
+      "num": 148539,
       "word": "孔雪儿刘些宁同框杂志大片",
       "onboard_time": 1672123411,
       "rank": 41,
@@ -1219,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161203,
+      "num": 161203,
+      "word": "国务院联防联控机制发布会",
+      "onboard_time": 1672125393,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160992,
       "num": 160992,
       "word": "疫情流行期间核酸应以单采单检为主",
@@ -1249,6 +1313,22 @@
       "onboard_time": 1672111649,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157812,
+      "num": 157812,
+      "word": "螳螂精报恩嫁人",
+      "onboard_time": 1672126051,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 156385,
+      "num": 156385,
+      "word": "刘宇宁说2022拼尽全力",
+      "onboard_time": 1672125752,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 155222,
@@ -1323,20 +1403,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 141321,
+      "num": 141321,
+      "word": "转阴后如何保护心脏",
+      "onboard_time": 1672124973,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141004,
       "num": 141004,
       "word": "魔方大厦的秘密",
       "onboard_time": 1672097904,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139176,
-      "num": 139176,
-      "word": "75岁外婆深夜赶英语作业",
-      "onboard_time": 1672124370,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138174,
@@ -1395,14 +1475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125377,
-      "num": 125377,
-      "word": "专家称房地产是明年经济增长主角",
-      "onboard_time": 1672125153,
-      "rank": 43,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 125168,
       "num": 125168,
       "word": "回来的女儿",
@@ -1459,19 +1531,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119026,
+      "num": 140032,
+      "word": "男孩画全家福把父母画成墓碑",
+      "onboard_time": 1672126170,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118644,
       "num": 118644,
       "word": "新冠肺炎为何更名新型冠状病毒感染",
       "onboard_time": 1672104149,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116396,
-      "num": 116396,
-      "word": "转阴后如何保护心脏",
-      "onboard_time": 1672124973,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1553,14 +1625,6 @@
       "onboard_time": 1672109548,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101856,
-      "num": 101856,
-      "word": "Meiko国服事件队友回应",
-      "onboard_time": 1672125330,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 98506,
