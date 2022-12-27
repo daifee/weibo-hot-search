@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672126394261,
+  "endTime": 1672129376983,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -16,6 +16,14 @@
       "word": "第一波最高峰冲击未出现大面积重症死亡",
       "onboard_time": 1672111950,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2598248,
+      "num": 1680432,
+      "word": "日本加强从中国入境的防疫措施",
+      "onboard_time": 1672127492,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -48,6 +56,14 @@
       "word": "取消入境后全员核酸检测和集中隔离",
       "onboard_time": 1672068215,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1684273,
+      "num": 1684273,
+      "word": "中国将失去这个世界第一",
+      "onboard_time": 1672127912,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -139,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1125989,
+      "num": 1125989,
+      "word": "4个月后印度将成为人口第一大国",
+      "onboard_time": 1672125513,
+      "rank": 21,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1099197,
       "num": 1099197,
       "word": "光遇",
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 997477,
-      "num": 562514,
+      "num": 574907,
       "word": "狗哥",
       "onboard_time": 1672124731,
       "rank": 15,
@@ -217,6 +241,14 @@
       "onboard_time": 1672113873,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 929254,
+      "num": 643683,
+      "word": "重症白肺死亡率40%以上",
+      "onboard_time": 1672124791,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 928617,
@@ -371,20 +403,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 635180,
-      "num": 505860,
-      "word": "重症白肺死亡率40%以上",
-      "onboard_time": 1672124791,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 625563,
       "num": 625563,
       "word": "葛优母亲施文心去世",
       "onboard_time": 1672065394,
       "rank": 9,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 621271,
+      "num": 621271,
+      "word": "Meiko国服事件队友回应",
+      "onboard_time": 1672125330,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 601693,
@@ -475,12 +507,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506780,
+      "num": 506780,
+      "word": "男子烧掉离家4年妻子衣物称重新开始",
+      "onboard_time": 1672126473,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 493166,
+      "num": 493166,
+      "word": "王佳怡和赵今麦是大学同学",
+      "onboard_time": 1672126411,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 481755,
       "num": 481755,
       "word": "电影满江红定档大年初一",
       "onboard_time": 1672108048,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 469054,
+      "num": 469054,
+      "word": "专家称房地产是明年经济增长主角",
+      "onboard_time": 1672125153,
+      "rank": 43,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 467329,
@@ -611,12 +667,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 352887,
-      "num": 352887,
-      "word": "4个月后印度将成为人口第一大国",
-      "onboard_time": 1672125513,
-      "rank": 21,
-      "category": "国外要闻"
+      "raw_hot": 358745,
+      "num": 358745,
+      "word": "丢个垃圾差点回不了家",
+      "onboard_time": 1672125752,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 352092,
@@ -641,6 +697,14 @@
       "onboard_time": 1672117593,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337048,
+      "num": 337048,
+      "word": "当前我国疫情防控进入新阶段",
+      "onboard_time": 1672128271,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336310,
@@ -731,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290331,
-      "num": 290331,
-      "word": "Meiko国服事件队友回应",
-      "onboard_time": 1672125330,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 286233,
       "num": 286233,
       "word": "网传德尔塔奥密克戎共循环是谣言",
@@ -752,6 +808,14 @@
       "word": "阳后有必要拍肺部CT吗",
       "onboard_time": 1672046793,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275402,
+      "num": 223853,
+      "word": "男孩咳嗽发热在家硬扛一查竟是白肺",
+      "onboard_time": 1672128453,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -801,14 +865,6 @@
       "onboard_time": 1672106488,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 251933,
-      "num": 251933,
-      "word": "专家称房地产是明年经济增长主角",
-      "onboard_time": 1672125153,
-      "rank": 43,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 251703,
@@ -865,6 +921,14 @@
       "onboard_time": 1672106548,
       "rank": 28,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 239554,
+      "num": 239554,
+      "word": "男孩画全家福把父母画成墓碑",
+      "onboard_time": 1672126170,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238167,
@@ -947,12 +1011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224442,
+      "num": 224442,
+      "word": "当新疆男友第一次去你家",
+      "onboard_time": 1672127074,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 223740,
       "num": 168764,
       "word": "孟美岐名誉维权案胜诉",
       "onboard_time": 1672119214,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223323,
+      "num": 223323,
+      "word": "江苏卫视跨年独缺易烊千玺",
+      "onboard_time": 1672126473,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 214415,
@@ -977,6 +1057,14 @@
       "onboard_time": 1672115733,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208578,
+      "num": 208578,
+      "word": "虞书欣圈内知名美少女摄影师",
+      "onboard_time": 1672128993,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 207114,
@@ -1008,6 +1096,14 @@
       "word": "乙类乙管是否意味着回到疫情前状态",
       "onboard_time": 1672104510,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199422,
+      "num": 199422,
+      "word": "转阴后如何保护心脏",
+      "onboard_time": 1672124973,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1171,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177712,
+      "num": 177712,
+      "word": "任嘉伦邢菲武庚纪路透",
+      "onboard_time": 1672126473,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175874,
       "num": 175874,
       "word": "再见2022",
@@ -1219,14 +1323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168907,
-      "num": 168907,
-      "word": "丢个垃圾差点回不了家",
-      "onboard_time": 1672125752,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 168615,
       "num": 168615,
       "word": "心肌炎症状有哪些",
@@ -1257,6 +1353,14 @@
       "onboard_time": 1672055852,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162125,
+      "num": 162125,
+      "word": "形成白肺的原因",
+      "onboard_time": 1672129235,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162036,
@@ -1331,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156255,
+      "num": 156255,
+      "word": "当代年轻人为什么喜欢捡垃圾",
+      "onboard_time": 1672127851,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155222,
       "num": 155222,
       "word": "金菊花国产烂片颁奖典礼",
@@ -1361,6 +1473,22 @@
       "onboard_time": 1672103729,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148776,
+      "num": 148776,
+      "word": "男子婚礼后拒领证让临产女友退彩礼",
+      "onboard_time": 1672128753,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147774,
+      "num": 147774,
+      "word": "实施乙类乙管重点是强化服务和保障",
+      "onboard_time": 1672129172,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146290,
@@ -1401,14 +1529,6 @@
       "onboard_time": 1672108948,
       "rank": 45,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 141321,
-      "num": 141321,
-      "word": "转阴后如何保护心脏",
-      "onboard_time": 1672124973,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141004,
@@ -1531,14 +1651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 119026,
-      "num": 140032,
-      "word": "男孩画全家福把父母画成墓碑",
-      "onboard_time": 1672126170,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118644,
       "num": 118644,
       "word": "新冠肺炎为何更名新型冠状病毒感染",
@@ -1643,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85190,
+      "num": 1651350,
+      "word": "新冠乙类乙管个人防护指南",
+      "onboard_time": 1672128691,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77510,
       "num": 77510,
       "word": "崔然竣歌谣大战直拍",
@@ -1708,6 +1828,9 @@
     },
     {
       "word": "#2022中国色彩之美#"
+    },
+    {
+      "word": "#一图读懂乙类乙管#"
     }
   ]
 }
