@@ -1,0 +1,410 @@
+{
+  "runTime": 1672130187875,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2865979,
+        "num": 2865979,
+        "word": "中国将失去这个世界第一",
+        "onboard_time": 1672127912,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1407874,
+        "num": 1407874,
+        "word": "宋宁峰选了离婚",
+        "onboard_time": 1672124492,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159374,
+        "num": 889161,
+        "word": "新冠乙类乙管个人防护指南",
+        "onboard_time": 1672128691,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868943,
+        "num": 868943,
+        "word": "4个月后印度将成为人口第一大国",
+        "onboard_time": 1672125513,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2087756,
+        "num": 865734,
+        "word": "日本加强从中国入境的防疫措施",
+        "onboard_time": 1672127492,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611449,
+        "num": 611449,
+        "word": "满江红 双男主",
+        "onboard_time": 1672114472,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601966,
+        "num": 601966,
+        "word": "女子阳性躺10多天头发变离子烫",
+        "onboard_time": 1672122568,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580849,
+        "num": 580849,
+        "word": "Meiko国服事件队友回应",
+        "onboard_time": 1672125330,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1089230,
+        "num": 578998,
+        "word": "重症白肺死亡率40%以上",
+        "onboard_time": 1672124791,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565826,
+        "num": 565826,
+        "word": "杨迪在节目里说上一季的人都正常",
+        "onboard_time": 1672120650,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 958906,
+        "num": 565760,
+        "word": "狗哥",
+        "onboard_time": 1672124731,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 585431,
+        "num": 548658,
+        "word": "男子烧掉离家4年妻子衣物称重新开始",
+        "onboard_time": 1672126473,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479433,
+        "num": 479433,
+        "word": "王佳怡和赵今麦是大学同学",
+        "onboard_time": 1672126411,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 473844,
+        "num": 473844,
+        "word": "专家称房地产是明年经济增长主角",
+        "onboard_time": 1672125153,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 455924,
+        "num": 455924,
+        "word": "阳了怎么判断肺部是否感染",
+        "onboard_time": 1672117650,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454661,
+        "num": 454661,
+        "word": "爷奶阳性后吃孙女点的外卖表情亮了",
+        "onboard_time": 1672115493,
+        "rank": 15,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 453971,
+        "num": 453971,
+        "word": "当前我国疫情防控进入新阶段",
+        "onboard_time": 1672128271,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397730,
+        "num": 397730,
+        "word": "男孩咳嗽发热在家硬扛一查竟是白肺",
+        "onboard_time": 1672128453,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386982,
+        "num": 386982,
+        "word": "拜登宣布纽约州进入紧急状态",
+        "onboard_time": 1672117048,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 370561,
+        "num": 370561,
+        "word": "华为天才少年稚晖君确认离职",
+        "onboard_time": 1672122210,
+        "rank": 19,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 335484,
+        "num": 335484,
+        "word": "微念与李子柒达成和解",
+        "onboard_time": 1672115973,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325039,
+        "num": 325039,
+        "word": "丢个垃圾差点回不了家",
+        "onboard_time": 1672125752,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317534,
+        "num": 317534,
+        "word": "张婉婷对妈妈说我坚强是因为你们软弱",
+        "onboard_time": 1672121970,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287677,
+        "num": 287677,
+        "word": "女子发烧5天崩溃大哭狗子担心踱步",
+        "onboard_time": 1672112311,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286089,
+        "num": 286089,
+        "word": "陈飞宇张婧仪芭莎花絮路透",
+        "onboard_time": 1672123289,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 279047,
+        "num": 279047,
+        "word": "阳性人员原则上不带病上岗",
+        "onboard_time": 1672117951,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271912,
+        "num": 271912,
+        "word": "男子婚礼后拒领证让临产女友退彩礼",
+        "onboard_time": 1672128753,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269911,
+        "num": 269911,
+        "word": "当新疆男友第一次去你家",
+        "onboard_time": 1672127074,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 254486,
+        "num": 254486,
+        "word": "孙怡再见爱人第八期课代表",
+        "onboard_time": 1672124431,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253523,
+        "num": 253523,
+        "word": "虞书欣圈内知名美少女摄影师",
+        "onboard_time": 1672128993,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443764,
+        "num": 252662,
+        "word": "四川新增1例死亡病例",
+        "onboard_time": 1672123050,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250349,
+        "num": 250349,
+        "word": "檀健次周也新剧好甜",
+        "onboard_time": 1672129593,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240966,
+        "num": 240966,
+        "word": "形成白肺的原因",
+        "onboard_time": 1672129235,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216032,
+        "num": 216032,
+        "word": "男孩画全家福把父母画成墓碑",
+        "onboard_time": 1672126170,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204910,
+        "num": 204910,
+        "word": "江苏卫视跨年独缺易烊千玺",
+        "onboard_time": 1672126473,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200172,
+        "num": 200172,
+        "word": "白宇吃了一百碗面",
+        "onboard_time": 1672120650,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196432,
+        "num": 196432,
+        "word": "女子花2千买体温计吐槽被收智商税",
+        "onboard_time": 1672118492,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192276,
+        "num": 192276,
+        "word": "迪丽热巴银色挑染造型",
+        "onboard_time": 1672115433,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185613,
+        "num": 185613,
+        "word": "乙类乙管后防控重点为3重1大",
+        "onboard_time": 1672129593,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182179,
+        "num": 182179,
+        "word": "转阴后如何保护心脏",
+        "onboard_time": 1672124973,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175863,
+        "num": 175863,
+        "word": "2023阿B片单我又可以了",
+        "onboard_time": 1672129654,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164257,
+        "num": 164257,
+        "word": "暖阳 遗憾",
+        "onboard_time": 1672128934,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 322805,
+        "num": 163788,
+        "word": "网传女子衣着暴露在人民调解室热舞",
+        "onboard_time": 1672119331,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161313,
+        "num": 161313,
+        "word": "任嘉伦邢菲武庚纪路透",
+        "onboard_time": 1672126473,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147131,
+        "num": 147131,
+        "word": "你还在咳咳咳吗",
+        "onboard_time": 1672108048,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146433,
+        "num": 146433,
+        "word": "官方辟谣网友5天内2次感染不同毒株",
+        "onboard_time": 1672122746,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146231,
+        "num": 146231,
+        "word": "当代年轻人为什么喜欢捡垃圾",
+        "onboard_time": 1672127851,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144765,
+        "num": 144765,
+        "word": "没阳过的人跟阳康接触会被感染吗",
+        "onboard_time": 1672119990,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139784,
+        "num": 139784,
+        "word": "成都一小伙阳后憋咳致晕厥",
+        "onboard_time": 1672129953,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136925,
+        "num": 136925,
+        "word": "女子牵狗进饭店绊倒人却未道歉",
+        "onboard_time": 1672130135,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#真理之光引领复兴之路#"
+    }
+  }
+}
