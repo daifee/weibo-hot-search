@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672151604382,
+  "endTime": 1672154281545,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -1091,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 636295,
+      "num": 636295,
+      "word": "专家称奥密克戎突变已基本饱和",
+      "onboard_time": 1672152813,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630637,
       "num": 354842,
       "word": "王铮亮和他五个没上过春晚的兄弟",
@@ -1184,6 +1192,14 @@
       "word": "父亲深夜摆摊欲卖25万份菠萝蜜救女",
       "onboard_time": 1672031312,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599092,
+      "num": 599092,
+      "word": "江西精神病院回应入院是否需家属签字",
+      "onboard_time": 1672148978,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1331,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546080,
+      "num": 546080,
+      "word": "武汉疾控回应网传2020年毒株又来了",
+      "onboard_time": 1672150233,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 535782,
       "num": 535782,
       "word": "春节前阳康可以旅游但出国要警惕",
@@ -1419,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 518449,
-      "num": 518449,
-      "word": "江西精神病院回应入院是否需家属签字",
-      "onboard_time": 1672148978,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 516124,
       "num": 516124,
       "word": "宁夏14岁初中生失踪超1个月",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1672139134,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 515345,
+      "num": 515345,
+      "word": "女孩为拥有苹果手机频繁偷包裹",
+      "onboard_time": 1672152693,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 512697,
@@ -1473,6 +1497,14 @@
       "onboard_time": 1672044873,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 505548,
+      "num": 505548,
+      "word": "辰亦儒演技巅峰",
+      "onboard_time": 1672152994,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 505333,
@@ -1553,14 +1585,6 @@
       "onboard_time": 1672108048,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 475353,
-      "num": 475353,
-      "word": "武汉疾控回应网传2020年毒株又来了",
-      "onboard_time": 1672150233,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 473844,
@@ -1648,6 +1672,14 @@
       "word": "当前我国疫情防控进入新阶段",
       "onboard_time": 1672128271,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453723,
+      "num": 453723,
+      "word": "纪念币",
+      "onboard_time": 1672152213,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2779,6 +2811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247478,
+      "num": 247478,
+      "word": "任若阳离开offer4但收获了offer",
+      "onboard_time": 1672153651,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246945,
       "num": 246945,
       "word": "赵丽颖双剧登爱奇艺2022经典榜",
@@ -2913,6 +2953,14 @@
       "onboard_time": 1672101029,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232575,
+      "num": 232575,
+      "word": "CBA 裁判",
+      "onboard_time": 1672150713,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 232363,
@@ -3075,6 +3123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 223470,
+      "num": 223470,
+      "word": "电话传来微弱呼吸空调师傅紧急报警",
+      "onboard_time": 1672150355,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223376,
       "num": 223376,
       "word": "任嘉伦武庚纪开机烟花应援",
@@ -3185,6 +3241,14 @@
       "onboard_time": 1671981748,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216914,
+      "num": 216914,
+      "word": "三体动画豆瓣跌破6分",
+      "onboard_time": 1672152213,
+      "rank": 33,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 216691,
@@ -3387,6 +3451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198724,
+      "num": 198724,
+      "word": "这个垃圾是非丢不可吗",
+      "onboard_time": 1672152392,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198440,
       "num": 190214,
       "word": "2022我想对你说",
@@ -3568,6 +3640,14 @@
       "word": "肖铎听到步音楼找自己睡觉的反应",
       "onboard_time": 1672119090,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190641,
+      "num": 190641,
+      "word": "王鹤棣肖铎上班第一天花絮",
+      "onboard_time": 1672153828,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -3947,6 +4027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170756,
+      "num": 170756,
+      "word": "范子铭桑普森冲突",
+      "onboard_time": 1672153828,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169594,
       "num": 163522,
       "word": "浮图缘剧情节奏",
@@ -3969,14 +4057,6 @@
       "onboard_time": 1672132050,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167254,
-      "num": 167254,
-      "word": "CBA 裁判",
-      "onboard_time": 1672150713,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 166860,
@@ -4019,6 +4099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164583,
+      "num": 164583,
+      "word": "当妈妈知道你羊了",
+      "onboard_time": 1672152873,
+      "rank": 38,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 164257,
       "num": 164257,
       "word": "暖阳 遗憾",
@@ -4033,6 +4121,14 @@
       "onboard_time": 1672000213,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163748,
+      "num": 163748,
+      "word": "范子铭",
+      "onboard_time": 1672154248,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 163023,
@@ -4057,14 +4153,6 @@
       "onboard_time": 1672034970,
       "rank": 44,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 162195,
-      "num": 162195,
-      "word": "电话传来微弱呼吸空调师傅紧急报警",
-      "onboard_time": 1672150355,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162036,
@@ -4137,6 +4225,14 @@
       "onboard_time": 1671979232,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159473,
+      "num": 159473,
+      "word": "再次感染一般可能轻于既往感染",
+      "onboard_time": 1672153589,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158931,
@@ -5273,6 +5369,14 @@
       "onboard_time": 1672006093,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15619,
+      "num": 440117,
+      "word": "什么样的手机材质更舒服",
+      "onboard_time": 1672153233,
+      "rank": 14,
+      "category": "幽默,科技"
     },
     {
       "raw_hot": 11605,
