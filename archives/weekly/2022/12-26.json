@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672119205874,
+  "endTime": 1672122163368,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -105,6 +105,14 @@
       "onboard_time": 1672054111,
       "rank": 28,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1665231,
+      "num": 1665231,
+      "word": "拜登宣布纽约州进入紧急状态",
+      "onboard_time": 1672117048,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1662452,
@@ -259,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1248387,
+      "num": 1248387,
+      "word": "网传女子衣着暴露在人民调解室热舞",
+      "onboard_time": 1672119331,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1208396,
       "num": 1208396,
       "word": "潘粤明代言违法保健品广告被罚",
@@ -273,6 +289,14 @@
       "onboard_time": 1672013304,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1156932,
+      "num": 1156932,
+      "word": "满江红 双男主",
+      "onboard_time": 1672114472,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 1127448,
@@ -355,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 992715,
+      "num": 798148,
+      "word": "杨迪在节目里说上一季的人都正常",
+      "onboard_time": 1672120650,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 969429,
       "num": 877459,
       "word": "吴磊直播",
@@ -427,19 +459,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 901595,
-      "num": 901595,
-      "word": "拜登宣布纽约州进入紧急状态",
-      "onboard_time": 1672117048,
-      "rank": 12,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 888016,
       "num": 888016,
       "word": "药房连花清瘟进价18卖118被罚30万",
       "onboard_time": 1672026450,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 884945,
+      "num": 884945,
+      "word": "女子花2千买体温计吐槽被收智商税",
+      "onboard_time": 1672118492,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -449,6 +481,14 @@
       "onboard_time": 1672063237,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 877059,
+      "num": 877059,
+      "word": "微念与李子柒达成和解",
+      "onboard_time": 1672115973,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 872655,
@@ -512,6 +552,14 @@
       "word": "医院回应挂喜报祝贺急诊人次破200万",
       "onboard_time": 1671982349,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 832589,
+      "num": 832589,
+      "word": "阳性人员原则上不带病上岗",
+      "onboard_time": 1672117951,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -579,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 763062,
-      "num": 763062,
-      "word": "微念与李子柒达成和解",
-      "onboard_time": 1672115973,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 761565,
       "num": 698501,
       "word": "徐明浩将缺席雅加达演唱会",
@@ -601,6 +641,14 @@
       "onboard_time": 1672049973,
       "rank": 31,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 722087,
+      "num": 722087,
+      "word": "阳了怎么判断肺部是否感染",
+      "onboard_time": 1672117650,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 717835,
@@ -689,14 +737,6 @@
       "onboard_time": 1672050030,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 675383,
-      "num": 675383,
-      "word": "满江红 双男主",
-      "onboard_time": 1672114472,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 671449,
@@ -1115,14 +1155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 471171,
-      "num": 471171,
-      "word": "阳性人员原则上不带病上岗",
-      "onboard_time": 1672117951,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 470575,
       "num": 470575,
       "word": "抗原啥时候测才准",
@@ -1211,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431412,
+      "num": 431412,
+      "word": "白宇吃了一百碗面",
+      "onboard_time": 1672120650,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424236,
       "num": 424236,
       "word": "Rookie给小钰送牌匾",
@@ -1265,6 +1305,14 @@
       "onboard_time": 1672096878,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 419906,
+      "num": 159991,
+      "word": "张婉婷对妈妈说我坚强是因为你们软弱",
+      "onboard_time": 1672121970,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 414127,
@@ -1352,14 +1400,6 @@
       "word": "为什么转阴后仍感到虚弱",
       "onboard_time": 1672006151,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 385410,
-      "num": 385410,
-      "word": "阳了怎么判断肺部是否感染",
-      "onboard_time": 1672117650,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1691,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303528,
+      "num": 303528,
+      "word": "没阳过的人跟阳康接触会被感染吗",
+      "onboard_time": 1672119990,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300599,
       "num": 300599,
       "word": "怪不得猫不喜欢和狗玩",
@@ -1899,12 +1947,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 255945,
-      "num": 255945,
-      "word": "女子花2千买体温计吐槽被收智商税",
-      "onboard_time": 1672118492,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 255969,
+      "num": 225370,
+      "word": "杨幂湖南卫视跨年晚会宣传片",
+      "onboard_time": 1672118550,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 255053,
@@ -2075,14 +2123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 237400,
-      "num": 225370,
-      "word": "杨幂湖南卫视跨年晚会宣传片",
-      "onboard_time": 1672118550,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237062,
       "num": 237062,
       "word": "苹果跨年福利被吐槽清库存",
@@ -2233,6 +2273,14 @@
       "onboard_time": 1672039771,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223740,
+      "num": 159472,
+      "word": "孟美岐名誉维权案胜诉",
+      "onboard_time": 1672119214,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 223582,
@@ -2609,6 +2657,14 @@
       "onboard_time": 1672111589,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190774,
+      "num": 190774,
+      "word": "网传德尔塔奥密克戎共循环是谣言",
+      "onboard_time": 1672119214,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190677,
@@ -3379,6 +3435,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 131038,
+      "num": 131038,
+      "word": "再见2022",
+      "onboard_time": 1672122150,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130911,
       "num": 130911,
       "word": "当猫咪被抓包后的反应",
@@ -3579,6 +3643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108452,
+      "num": 108452,
+      "word": "苹果三年来首次利润下滑",
+      "onboard_time": 1672121189,
+      "rank": 45,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 107876,
       "num": 107876,
       "word": "水泥鼻阶段你都是怎样度过的",
@@ -3593,6 +3665,14 @@
       "onboard_time": 1672049912,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107661,
+      "num": 107661,
+      "word": "苹果在日本补缴9800万美元消费税",
+      "onboard_time": 1672121551,
+      "rank": 46,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 107436,
@@ -3713,6 +3793,14 @@
       "onboard_time": 1672013606,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96271,
+      "num": 96271,
+      "word": "李明博获特赦",
+      "onboard_time": 1672121910,
+      "rank": 48,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 91246,
