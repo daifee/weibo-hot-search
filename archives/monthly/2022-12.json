@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672158300697,
+  "endTime": 1672159327036,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -3480,6 +3480,14 @@
       "word": "婆婆给出生9天宝宝喂米糊",
       "onboard_time": 1670807348,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1529746,
+      "num": 1529746,
+      "word": "失眠可能是肺出现了问题",
+      "onboard_time": 1672156286,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -6993,14 +7001,6 @@
       "onboard_time": 1672124731,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 995664,
-      "num": 995664,
-      "word": "失眠可能是肺出现了问题",
-      "onboard_time": 1672156286,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 995136,
@@ -33027,6 +33027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 267493,
+      "num": 267493,
+      "word": "2015年的跨年演唱会",
+      "onboard_time": 1672157605,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267396,
       "num": 209959,
       "word": "女婿救人过程被岳母意外拍下",
@@ -41947,6 +41955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195246,
+      "num": 195246,
+      "word": "范子铭向郭艾伦道歉",
+      "onboard_time": 1672156585,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195215,
       "num": 195215,
       "word": "2022PEL全明星周末",
@@ -44155,14 +44171,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 183476,
-      "num": 142180,
-      "word": "2015年的跨年演唱会",
-      "onboard_time": 1672157605,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183387,
       "num": 183387,
       "word": "BLG获得德杯冠军",
@@ -45985,14 +45993,6 @@
       "onboard_time": 1671706712,
       "rank": 36,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 174913,
-      "num": 174913,
-      "word": "范子铭向郭艾伦道歉",
-      "onboard_time": 1672156585,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 174738,
@@ -47897,6 +47897,14 @@
       "onboard_time": 1672145193,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165975,
+      "num": 165975,
+      "word": "原来男生被爱也会哭",
+      "onboard_time": 1672155864,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 165968,
@@ -51713,14 +51721,6 @@
       "onboard_time": 1671010397,
       "rank": 47,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 147668,
-      "num": 147668,
-      "word": "原来男生被爱也会哭",
-      "onboard_time": 1672155864,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 147592,
@@ -59299,6 +59299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107800,
+      "num": 94325,
+      "word": "倪妮白宇新剧打戏好带感",
+      "onboard_time": 1672159044,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 107656,
       "num": 107656,
       "word": "河南周口为市民免费发布洛芬",
@@ -60787,6 +60795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96471,
+      "num": 100878,
+      "word": "泡面也体验了一回速冻的感觉",
+      "onboard_time": 1672155327,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96439,
       "num": 96439,
       "word": "上海老字号平价糕团有多绝",
@@ -61401,14 +61417,6 @@
       "onboard_time": 1670757197,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89265,
-      "num": 100878,
-      "word": "泡面也体验了一回速冻的感觉",
-      "onboard_time": 1672155327,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 89148,
@@ -63025,6 +63033,14 @@
       "onboard_time": 1669838768,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48948,
+      "num": 78842,
+      "word": "为保护孩子妈妈用塑料布自制消毒仓",
+      "onboard_time": 1672158383,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48418,

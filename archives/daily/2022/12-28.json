@@ -1,10 +1,10 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672158300697,
+  "endTime": 1672159327036,
   "band_list": [
     {
-      "raw_hot": 995664,
-      "num": 995664,
+      "raw_hot": 1529746,
+      "num": 1529746,
       "word": "失眠可能是肺出现了问题",
       "onboard_time": 1672156286,
       "rank": 0,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267493,
+      "num": 267493,
+      "word": "2015年的跨年演唱会",
+      "onboard_time": 1672157605,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265347,
       "num": 265347,
       "word": "在小县城找对象有多难",
@@ -155,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195246,
+      "num": 195246,
+      "word": "范子铭向郭艾伦道歉",
+      "onboard_time": 1672156585,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193921,
       "num": 193921,
       "word": "当妈妈知道你羊了",
@@ -179,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183476,
-      "num": 142180,
-      "word": "2015年的跨年演唱会",
-      "onboard_time": 1672157605,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181605,
       "num": 894354,
       "word": "白肺和原始毒株及疫苗接种没关系",
@@ -203,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174913,
-      "num": 174913,
-      "word": "范子铭向郭艾伦道歉",
-      "onboard_time": 1672156585,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 165975,
+      "num": 165975,
+      "word": "原来男生被爱也会哭",
+      "onboard_time": 1672155864,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 164753,
@@ -243,8 +251,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 150919,
-      "num": 150919,
+      "raw_hot": 152167,
+      "num": 152167,
       "word": "铃铛女朋友",
       "onboard_time": 1672143090,
       "rank": 26,
@@ -257,14 +265,6 @@
       "onboard_time": 1672148978,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147668,
-      "num": 147668,
-      "word": "原来男生被爱也会哭",
-      "onboard_time": 1672155864,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 145532,
@@ -347,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113609,
+      "num": 94682,
+      "word": "田小娟确诊新冠",
+      "onboard_time": 1672139313,
+      "rank": 40,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 111950,
       "num": 111950,
       "word": "阳了才知道辣是痛觉",
       "onboard_time": 1672146334,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107800,
+      "num": 94325,
+      "word": "倪妮白宇新剧打戏好带感",
+      "onboard_time": 1672159044,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 102103,
@@ -371,7 +387,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89265,
+      "raw_hot": 96471,
       "num": 100878,
       "word": "泡面也体验了一回速冻的感觉",
       "onboard_time": 1672155327,
@@ -399,6 +415,22 @@
       "num": 99261,
       "word": "电话传来微弱呼吸空调师傅紧急报警",
       "onboard_time": 1672150355,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48948,
+      "num": 78842,
+      "word": "为保护孩子妈妈用塑料布自制消毒仓",
+      "onboard_time": 1672158383,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44546,
+      "num": 77515,
+      "word": "阳过后小心病毒性心肌炎",
+      "onboard_time": 1672159222,
       "rank": 49,
       "category": "社会新闻"
     }
