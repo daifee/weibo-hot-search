@@ -1,6 +1,6 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672208592722,
+  "endTime": 1672209457134,
   "band_list": [
     {
       "raw_hot": 3219890,
@@ -115,8 +115,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 964696,
-      "num": 964696,
+      "raw_hot": 966522,
+      "num": 966522,
       "word": "老人去世亲友室外冒雪吃席",
       "onboard_time": 1672204591,
       "rank": 19,
@@ -129,6 +129,22 @@
       "onboard_time": 1672186828,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 900843,
+      "num": 900843,
+      "word": "丈夫故意把孩子弄哭丢给发烧妻子",
+      "onboard_time": 1672208368,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 899803,
+      "num": 899803,
+      "word": "新冠感染新增本土死亡3例",
+      "onboard_time": 1672206688,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 889660,
@@ -187,11 +203,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 780896,
+      "num": 642388,
+      "word": "郑新黄河大桥交通事故已致1人死亡",
+      "onboard_time": 1672208486,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 774922,
       "num": 774922,
       "word": "女子送布洛芬后被回赠板蓝根水果",
       "onboard_time": 1672189711,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 761001,
+      "num": 761001,
+      "word": "多地倡导留下过年",
+      "onboard_time": 1672204049,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -211,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 679454,
-      "num": 679454,
-      "word": "多地倡导留下过年",
-      "onboard_time": 1672204049,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 671580,
       "num": 671580,
       "word": "王鹤棣陈钰琪吻戏花絮",
@@ -233,6 +257,14 @@
       "onboard_time": 1672184782,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 649821,
+      "num": 649821,
+      "word": "内娱戏腔天花板",
+      "onboard_time": 1672205248,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 647881,
@@ -251,28 +283,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 627842,
-      "num": 627842,
-      "word": "新冠感染新增本土死亡3例",
-      "onboard_time": 1672206688,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 586486,
       "num": 423534,
       "word": "黄明昊 空降",
       "onboard_time": 1672201829,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 579825,
-      "num": 579825,
-      "word": "内娱戏腔天花板",
-      "onboard_time": 1672205248,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 574748,
@@ -395,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 445515,
+      "num": 445515,
+      "word": "黄晓明说对待儿子很严肃",
+      "onboard_time": 1672206029,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441280,
       "num": 441280,
       "word": "实施乙类乙管打的是有准备之仗",
@@ -433,14 +457,6 @@
       "onboard_time": 1672198649,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 409811,
-      "num": 326697,
-      "word": "黄晓明说对待儿子很严肃",
-      "onboard_time": 1672206029,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 406935,
@@ -491,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 379191,
+      "num": 379191,
+      "word": "张子枫回应评价她是00后小花里最会演戏的",
+      "onboard_time": 1672208071,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 378512,
       "num": 378512,
       "word": "杨幂狐妖小红娘月红篇走路路透",
@@ -505,6 +529,14 @@
       "onboard_time": 1672157605,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 373983,
+      "num": 373983,
+      "word": "老年人感染初期可能只是低烧",
+      "onboard_time": 1672205972,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371044,
@@ -523,12 +555,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358917,
-      "num": 358917,
-      "word": "老年人感染初期可能只是低烧",
-      "onboard_time": 1672205972,
-      "rank": 17,
+      "raw_hot": 362449,
+      "num": 357841,
+      "word": "杨紫说今晚颜淡仙子开始营业",
+      "onboard_time": 1672208009,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 359349,
+      "num": 359349,
+      "word": "黄河大桥",
+      "onboard_time": 1672204949,
+      "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355150,
+      "num": 355150,
+      "word": "当代年轻人跨年只办三件事",
+      "onboard_time": 1672207409,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 353393,
@@ -563,11 +611,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339376,
-      "num": 339376,
-      "word": "黄河大桥",
-      "onboard_time": 1672204949,
-      "rank": 41,
+      "raw_hot": 340793,
+      "num": 340793,
+      "word": "9个奥密克戎亚型毒株正在我国流行",
+      "onboard_time": 1672208071,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -585,14 +633,6 @@
       "onboard_time": 1672184723,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 322468,
-      "num": 322468,
-      "word": "杨紫说今晚颜淡仙子开始营业",
-      "onboard_time": 1672208009,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 321294,
@@ -779,14 +819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 235217,
-      "num": 221473,
-      "word": "郑新黄河大桥交通事故已致1人死亡",
-      "onboard_time": 1672208486,
-      "rank": 31,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 226828,
       "num": 226828,
       "word": "李子柒公司持股增至99%",
@@ -883,20 +915,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197203,
-      "num": 161384,
-      "word": "张子枫回应评价她是00后小花里最会演戏的",
-      "onboard_time": 1672208071,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 195246,
       "num": 195246,
       "word": "范子铭向郭艾伦道歉",
       "onboard_time": 1672156585,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195119,
+      "num": 195119,
+      "word": "河南多车相撞事故涉200多辆车",
+      "onboard_time": 1672208248,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194694,
@@ -939,12 +971,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190035,
-      "num": 190035,
-      "word": "当代年轻人跨年只办三件事",
-      "onboard_time": 1672207409,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 187759,
+      "num": 187759,
+      "word": "村民自带面油排2小时队压辣条",
+      "onboard_time": 1672207289,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180176,
@@ -960,14 +992,6 @@
       "word": "相亲遇疫情被迫同居男女已领证结婚",
       "onboard_time": 1672137152,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175723,
-      "num": 175723,
-      "word": "丈夫故意把孩子弄哭丢给发烧妻子",
-      "onboard_time": 1672208368,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1067,19 +1091,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 161335,
-      "num": 161335,
-      "word": "村民自带面油排2小时队压辣条",
-      "onboard_time": 1672207289,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 163508,
+      "num": 163508,
+      "word": "大厂为何做不出羊了个羊",
+      "onboard_time": 1672209149,
+      "rank": 43,
+      "category": "游戏"
     },
     {
-      "raw_hot": 161322,
-      "num": 161322,
-      "word": "9个奥密克戎亚型毒株正在我国流行",
-      "onboard_time": 1672208071,
-      "rank": 43,
+      "raw_hot": 163035,
+      "num": 163035,
+      "word": "女生发烧42度狗狗守其身边不停舔舐",
+      "onboard_time": 1672209029,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1107,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157014,
+      "num": 157014,
+      "word": "郑新黄河大桥因雾事故已救多人",
+      "onboard_time": 1672208729,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155917,
       "num": 155917,
       "word": "中国女足主题球场落地大凉山",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1672186949,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155517,
+      "num": 155517,
+      "word": "阴阳师手游",
+      "onboard_time": 1672209149,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 155510,
@@ -1187,11 +1227,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 146084,
-      "num": 153205,
-      "word": "河南多车相撞事故涉200多辆车",
-      "onboard_time": 1672208248,
-      "rank": 45,
+      "raw_hot": 147538,
+      "num": 147538,
+      "word": "拟整顿不下载APP不让看全文行为",
+      "onboard_time": 1672209329,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1241,6 +1281,14 @@
       "onboard_time": 1672198408,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134285,
+      "num": 134285,
+      "word": "冰墩墩变身兔墩墩",
+      "onboard_time": 1672209449,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133697,
@@ -1507,8 +1555,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 35684,
-      "num": 161405,
+      "raw_hot": 40164,
+      "num": 172589,
       "word": "钉钉上线新的群功能",
       "onboard_time": 1672207228,
       "rank": 39,
