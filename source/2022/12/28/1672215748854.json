@@ -1,0 +1,410 @@
+{
+  "runTime": 1672215748854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2192368,
+        "num": 2192368,
+        "word": "东八区的先生们将在韩国播出",
+        "onboard_time": 1672212748,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1379432,
+        "num": 1379432,
+        "word": "李子柒归来江湖已变天",
+        "onboard_time": 1672212392,
+        "rank": 1,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 23339,
+        "num": 1278949,
+        "word": "90秒超燃回顾中国航天这一年",
+        "onboard_time": 1672197147,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1192207,
+        "num": 1192207,
+        "word": "女子怕被感染20多天没出门",
+        "onboard_time": 1672202190,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131063,
+        "num": 1131063,
+        "word": "婆婆给儿媳寄9只鸡5亩地菜干邮费1千",
+        "onboard_time": 1672212569,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986735,
+        "num": 986735,
+        "word": "上海医护朋友圈让人泪目",
+        "onboard_time": 1672212931,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937787,
+        "num": 937787,
+        "word": "小胖",
+        "onboard_time": 1672214551,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 742568,
+        "num": 742568,
+        "word": "阳性女子哭着立遗嘱把钱分给妈和男友",
+        "onboard_time": 1672212510,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734176,
+        "num": 734176,
+        "word": "9个奥密克戎亚型毒株正在我国流行",
+        "onboard_time": 1672208071,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1841980,
+        "num": 733327,
+        "word": "丈夫故意把孩子弄哭丢给发烧妻子",
+        "onboard_time": 1672208368,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596107,
+        "num": 596107,
+        "word": "大厂为何做不出羊了个羊",
+        "onboard_time": 1672209149,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 569223,
+        "num": 569223,
+        "word": "郑新黄河大桥交通事故已致1人死亡",
+        "onboard_time": 1672208486,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 539137,
+        "num": 539137,
+        "word": "98年王鹤棣演89年王栎鑫干爹",
+        "onboard_time": 1672204768,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 530160,
+        "num": 530160,
+        "word": "张子枫回应评价她是00后小花里最会演戏的",
+        "onboard_time": 1672208071,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 431357,
+        "num": 431357,
+        "word": "Hero教练 打人",
+        "onboard_time": 1672203269,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 399884,
+        "num": 399884,
+        "word": "冰墩墩变身兔墩墩",
+        "onboard_time": 1672209449,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383442,
+        "num": 383442,
+        "word": "新冠感染新增本土死亡3例",
+        "onboard_time": 1672206688,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378912,
+        "num": 378912,
+        "word": "武侠剧打戏终于不是慢镜头了",
+        "onboard_time": 1672211429,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372873,
+        "num": 372873,
+        "word": "2022年明星微博数据报告",
+        "onboard_time": 1672214129,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317406,
+        "num": 317406,
+        "word": "是失去了味觉不是胃觉",
+        "onboard_time": 1672210831,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316061,
+        "num": 316061,
+        "word": "李子柒即将复出",
+        "onboard_time": 1672200090,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 314873,
+        "num": 314873,
+        "word": "女生发烧42度狗狗守其身边不停舔舐",
+        "onboard_time": 1672209029,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302172,
+        "num": 302172,
+        "word": "浮图缘台词梦回苍兰诀",
+        "onboard_time": 1672211608,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270680,
+        "num": 270680,
+        "word": "老人去世亲友室外冒雪吃席",
+        "onboard_time": 1672204591,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268266,
+        "num": 268266,
+        "word": "周深提醒粉丝不要被自己隐形的翅膀挡到",
+        "onboard_time": 1672211071,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264069,
+        "num": 264069,
+        "word": "鱼跃集团回应94元血氧仪涨到299元",
+        "onboard_time": 1672202133,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256539,
+        "num": 256539,
+        "word": "马斯克曝光所有社媒都与美政府合作",
+        "onboard_time": 1672213408,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 248032,
+        "num": 248032,
+        "word": "我拉黑了我姑姑",
+        "onboard_time": 1672184964,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227594,
+        "num": 227594,
+        "word": "女子炙甘草止咳被医学生留言指正",
+        "onboard_time": 1672210349,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222813,
+        "num": 222813,
+        "word": "郑新黄河大桥大雾天数十辆车相撞",
+        "onboard_time": 1672199249,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 264780,
+        "num": 222512,
+        "word": "内娱戏腔天花板",
+        "onboard_time": 1672205248,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247161,
+        "num": 222278,
+        "word": "刘惜君一首歌录了17个版本",
+        "onboard_time": 1672214608,
+        "rank": 31,
+        "category": "音乐,综艺"
+      },
+      {
+        "raw_hot": 230444,
+        "num": 221944,
+        "word": "杨紫说今晚颜淡仙子开始营业",
+        "onboard_time": 1672208009,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229094,
+        "num": 221850,
+        "word": "微博音乐盛典",
+        "onboard_time": 1672205068,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221548,
+        "num": 221548,
+        "word": "猫原来也有妻管严",
+        "onboard_time": 1672213229,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228082,
+        "num": 203460,
+        "word": "黄晓明说对待儿子很严肃",
+        "onboard_time": 1672206029,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183479,
+        "num": 183479,
+        "word": "白肺欺软怕硬",
+        "onboard_time": 1672199790,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178857,
+        "num": 178857,
+        "word": "奥比岛",
+        "onboard_time": 1672211729,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175817,
+        "num": 175817,
+        "word": "香港取消所有入境强制核酸检测",
+        "onboard_time": 1672214911,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149899,
+        "num": 168970,
+        "word": "年货节首推一件就降玩法",
+        "onboard_time": 1672214428,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216337,
+        "num": 168307,
+        "word": "GOT7或将明年完整体回归",
+        "onboard_time": 1672211249,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223877,
+        "num": 167803,
+        "word": "BLACKPINK明年将二登科切拉",
+        "onboard_time": 1672205671,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166262,
+        "num": 166262,
+        "word": "二次感染同一毒株概率有多大",
+        "onboard_time": 1672196368,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144735,
+        "num": 144735,
+        "word": "梅西世界杯住房被做成博物馆",
+        "onboard_time": 1672197749,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 143070,
+        "num": 143070,
+        "word": "多地倡导留下过年",
+        "onboard_time": 1672204049,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139291,
+        "num": 139291,
+        "word": "当代年轻人跨年只办三件事",
+        "onboard_time": 1672207409,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138329,
+        "num": 138329,
+        "word": "女生病假期上9天班反欠公司三百多",
+        "onboard_time": 1672198408,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137082,
+        "num": 137082,
+        "word": "热衷9键的设计师",
+        "onboard_time": 1672211967,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128282,
+        "num": 128282,
+        "word": "主人欲杀狗吃肉女子掏钱救下",
+        "onboard_time": 1672199488,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124943,
+        "num": 124943,
+        "word": "老年人感染初期可能只是低烧",
+        "onboard_time": 1672205972,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#要弘扬伟大建党精神弘扬延安精神#"
+    }
+  }
+}
