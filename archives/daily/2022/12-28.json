@@ -1,6 +1,6 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672220012721,
+  "endTime": 1672222780800,
   "band_list": [
     {
       "raw_hot": 3248447,
@@ -35,6 +35,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2303920,
+      "num": 2303920,
+      "word": "张翰",
+      "onboard_time": 1672217910,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2203349,
       "num": 2203349,
       "word": "女子怕被感染20多天没出门",
@@ -65,14 +73,6 @@
       "onboard_time": 1672212392,
       "rank": 42,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 1550321,
-      "num": 1550321,
-      "word": "张翰",
-      "onboard_time": 1672217910,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1490396,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1038615,
+      "num": 1038615,
+      "word": "李峋朱韵晒结婚证",
+      "onboard_time": 1672218092,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1018958,
       "num": 1018958,
       "word": "谁心疼张婉婷",
@@ -185,14 +193,6 @@
       "onboard_time": 1672208071,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 973020,
-      "num": 679823,
-      "word": "李峋朱韵晒结婚证",
-      "onboard_time": 1672218092,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 966522,
@@ -283,6 +283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 815020,
+      "num": 815020,
+      "word": "大陆来台旅客须进行PCR检测",
+      "onboard_time": 1672218931,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 803582,
       "num": 803582,
       "word": "蔡徐坤张艺兴鹿晗微博音乐盛典年度推荐歌手",
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 701356,
+      "num": 701356,
+      "word": "老婆发烧找跑腿照顾结果老公回来了",
+      "onboard_time": 1672219653,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687984,
       "num": 687984,
       "word": "女孩为拥有苹果手机频繁偷包裹",
@@ -361,6 +377,14 @@
       "onboard_time": 1672196908,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 669495,
+      "num": 629205,
+      "word": "2022年全球最帅最美面孔",
+      "onboard_time": 1672217971,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 659345,
@@ -393,14 +417,6 @@
       "onboard_time": 1672183281,
       "rank": 30,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 629205,
-      "num": 629205,
-      "word": "2022年全球最帅最美面孔",
-      "onboard_time": 1672217971,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 598950,
@@ -448,6 +464,14 @@
       "word": "多方回应女大学生被误诊艾滋病",
       "onboard_time": 1672200869,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 540093,
+      "num": 540093,
+      "word": "这是感染了爱国株吧",
+      "onboard_time": 1672220912,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -579,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 437053,
+      "num": 437053,
+      "word": "曾舜晞梁洁直播",
+      "onboard_time": 1672221211,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 429726,
       "num": 429726,
       "word": "李子柒能重回顶流吗",
@@ -633,6 +665,14 @@
       "onboard_time": 1672200751,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 401973,
+      "num": 401973,
+      "word": "外交部回应台湾当局延长兵役期",
+      "onboard_time": 1672219412,
+      "rank": 47,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 396357,
@@ -771,12 +811,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351616,
+      "num": 285373,
+      "word": "黄晓明自曝焦虑不敢吃东西",
+      "onboard_time": 1672218572,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350562,
       "num": 350562,
       "word": "可去香港打复必泰二价疫苗",
       "onboard_time": 1672177873,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350076,
+      "num": 284103,
+      "word": "迪丽热巴阔步向前动感开年大片",
+      "onboard_time": 1672222170,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 342727,
@@ -939,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281194,
-      "num": 281194,
-      "word": "大陆来台旅客须进行PCR检测",
-      "onboard_time": 1672218931,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280965,
       "num": 280965,
       "word": "乾清宫正大光明匾被阳光点亮全程",
@@ -979,20 +1027,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265859,
+      "num": 176142,
+      "word": "蒲熠星一言不合放狠话",
+      "onboard_time": 1672222410,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265347,
       "num": 265347,
       "word": "在小县城找对象有多难",
       "onboard_time": 1672144953,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 261223,
-      "num": 192519,
-      "word": "黄晓明自曝焦虑不敢吃东西",
-      "onboard_time": 1672218572,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 261160,
@@ -1019,12 +1067,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258828,
+      "num": 175481,
+      "word": "东方青苍给肖铎下梨花雨",
+      "onboard_time": 1672221809,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258369,
       "num": 258369,
       "word": "马斯克曝光所有社媒都与美政府合作",
       "onboard_time": 1672213408,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 254691,
+      "num": 175378,
+      "word": "王一博新歌像阳光那样",
+      "onboard_time": 1672220492,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 254512,
@@ -1131,12 +1195,36 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 213981,
+      "num": 132144,
+      "word": "宫胁咲良歌谣大战横版直拍",
+      "onboard_time": 1672221272,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213886,
       "num": 213886,
       "word": "当猫咪闻几天没洗的头",
       "onboard_time": 1672217612,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210530,
+      "num": 210530,
+      "word": "版号",
+      "onboard_time": 1672218392,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 208243,
+      "num": 208243,
+      "word": "47岁妈妈被女儿拍成港风女神",
+      "onboard_time": 1672217728,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206418,
@@ -1291,28 +1379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190093,
-      "num": 190093,
-      "word": "47岁妈妈被女儿拍成港风女神",
-      "onboard_time": 1672217728,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183927,
       "num": 183927,
       "word": "18个普通人故事登上十城小事报",
       "onboard_time": 1672212089,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180920,
-      "num": 180920,
-      "word": "版号",
-      "onboard_time": 1672218392,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 180176,
@@ -1353,6 +1425,14 @@
       "onboard_time": 1672137152,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176223,
+      "num": 176223,
+      "word": "湖南是懂沙拉的",
+      "onboard_time": 1672221871,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 174749,
@@ -1619,6 +1699,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 143966,
+      "num": 143966,
+      "word": "年轻人更易感染病毒性心肌炎",
+      "onboard_time": 1672222230,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140318,
       "num": 140318,
       "word": "创可贴拯救水泥鼻",
@@ -1633,14 +1721,6 @@
       "onboard_time": 1672195888,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138817,
-      "num": 138817,
-      "word": "老婆发烧找跑腿照顾结果老公回来了",
-      "onboard_time": 1672219653,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138385,
@@ -1691,20 +1771,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 132028,
+      "num": 132028,
+      "word": "2022十大惊艳名场面",
+      "onboard_time": 1672222470,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131521,
       "num": 131521,
       "word": "男子称连续咳嗽10多天断3根肋骨",
       "onboard_time": 1672141892,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131078,
-      "num": 131078,
-      "word": "外交部回应台湾当局延长兵役期",
-      "onboard_time": 1672219412,
-      "rank": 47,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 130432,
@@ -1835,6 +1915,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 112899,
+      "num": 125997,
+      "word": "53岁女儿生病78岁父亲不放心睡门口",
+      "onboard_time": 1672222710,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111950,
       "num": 111950,
       "word": "阳了才知道辣是痛觉",
@@ -1849,6 +1937,14 @@
       "onboard_time": 1672159044,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 107101,
+      "num": 125616,
+      "word": "男子给走失老人借手机反遭其家属辱骂",
+      "onboard_time": 1672222589,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105420,
