@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672251715236,
+  "endTime": 1672252580300,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -7947,6 +7947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40024,
+      "num": 40024,
+      "word": "未定事件簿",
+      "onboard_time": 1672250295,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 39192,
       "num": 39192,
       "word": "中国海军驱离海盗真实影像",
@@ -7977,14 +7985,6 @@
       "onboard_time": 1672163835,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29616,
-      "num": 29616,
-      "word": "未定事件簿",
-      "onboard_time": 1672250295,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 28455,

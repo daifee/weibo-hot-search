@@ -1,6 +1,6 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672251715236,
+  "endTime": 1672252580300,
   "band_list": [
     {
       "raw_hot": 1495899,
@@ -459,8 +459,8 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 29616,
-      "num": 29616,
+      "raw_hot": 40024,
+      "num": 40024,
       "word": "未定事件簿",
       "onboard_time": 1672250295,
       "rank": 43,
