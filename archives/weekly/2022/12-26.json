@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672262119626,
+  "endTime": 1672263216898,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -7819,6 +7819,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 68358,
+      "num": 38297,
+      "word": "家中有必要自备血氧仪制氧机吗",
+      "onboard_time": 1672260431,
+      "rank": 11,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 67710,
       "num": 46846,
       "word": "长月烬明",
@@ -7923,14 +7931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43624,
-      "num": 38297,
-      "word": "家中有必要自备血氧仪制氧机吗",
-      "onboard_time": 1672260431,
-      "rank": 11,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 41054,
       "num": 41054,
       "word": "未定事件簿",
@@ -8033,6 +8033,14 @@
       "onboard_time": 1672175232,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 15902,
+      "num": 15902,
+      "word": "浙江为60岁以上老人发放防疫包",
+      "onboard_time": 1672261872,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15619,

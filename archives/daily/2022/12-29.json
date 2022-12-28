@@ -1,6 +1,6 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672262119626,
+  "endTime": 1672263216898,
   "band_list": [
     {
       "raw_hot": 1495899,
@@ -435,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68358,
+      "num": 38297,
+      "word": "家中有必要自备血氧仪制氧机吗",
+      "onboard_time": 1672260431,
+      "rank": 11,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 58250,
       "num": 82053,
       "word": "狗狗特殊的叫醒服务",
@@ -459,20 +467,20 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 43624,
-      "num": 38297,
-      "word": "家中有必要自备血氧仪制氧机吗",
-      "onboard_time": 1672260431,
-      "rank": 11,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 41054,
       "num": 41054,
       "word": "未定事件簿",
       "onboard_time": 1672250295,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15902,
+      "num": 15902,
+      "word": "浙江为60岁以上老人发放防疫包",
+      "onboard_time": 1672261872,
+      "rank": 44,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
