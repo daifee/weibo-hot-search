@@ -1,6 +1,6 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672263216898,
+  "endTime": 1672265826823,
   "band_list": [
     {
       "raw_hot": 1495899,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83108,
+      "num": 43826,
+      "word": "家中有必要自备血氧仪制氧机吗",
+      "onboard_time": 1672260431,
+      "rank": 11,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 81970,
       "num": 82505,
       "word": "年轻人更易感染病毒性心肌炎",
@@ -435,12 +443,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 68358,
-      "num": 38297,
-      "word": "家中有必要自备血氧仪制氧机吗",
-      "onboard_time": 1672260431,
-      "rank": 11,
-      "category": "社会议题"
+      "raw_hot": 58737,
+      "num": 43636,
+      "word": "浙江为60岁以上老人发放防疫包",
+      "onboard_time": 1672261872,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58250,
@@ -473,14 +481,6 @@
       "onboard_time": 1672250295,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 15902,
-      "num": 15902,
-      "word": "浙江为60岁以上老人发放防疫包",
-      "onboard_time": 1672261872,
-      "rank": 44,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
