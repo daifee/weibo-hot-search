@@ -1,7 +1,15 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672219029995,
+  "endTime": 1672220012721,
   "band_list": [
+    {
+      "raw_hot": 3248447,
+      "num": 3248447,
+      "word": "核酸检测员月薪10万降至3万",
+      "onboard_time": 1672217008,
+      "rank": 0,
+      "category": "社会新闻,财经"
+    },
     {
       "raw_hot": 3219890,
       "num": 3219890,
@@ -9,14 +17,6 @@
       "onboard_time": 1672184964,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 3088176,
-      "num": 3088176,
-      "word": "核酸检测员月薪10万降至3万",
-      "onboard_time": 1672217008,
-      "rank": 0,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2403593,
@@ -67,6 +67,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 1550321,
+      "num": 1550321,
+      "word": "张翰",
+      "onboard_time": 1672217910,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1490396,
       "num": 1463040,
       "word": "部分国家对来自中国的旅客查核酸",
@@ -104,14 +112,6 @@
       "word": "98年王鹤棣演89年王栎鑫干爹",
       "onboard_time": 1672204768,
       "rank": 9,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1224322,
-      "num": 1224322,
-      "word": "张翰",
-      "onboard_time": 1672217910,
-      "rank": 4,
       "category": "影视"
     },
     {
@@ -185,6 +185,14 @@
       "onboard_time": 1672208071,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 973020,
+      "num": 679823,
+      "word": "李峋朱韵晒结婚证",
+      "onboard_time": 1672218092,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 966522,
@@ -267,6 +275,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 824157,
+      "num": 824157,
+      "word": "腾讯宣布VALORANT中文名",
+      "onboard_time": 1672218211,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 803582,
       "num": 803582,
       "word": "蔡徐坤张艺兴鹿晗微博音乐盛典年度推荐歌手",
@@ -315,7 +331,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 736870,
+      "raw_hot": 751646,
       "num": 670764,
       "word": "春晚押题小品",
       "onboard_time": 1672216530,
@@ -355,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 656683,
-      "num": 656683,
-      "word": "李峋朱韵晒结婚证",
-      "onboard_time": 1672218092,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 649821,
       "num": 649821,
       "word": "内娱戏腔天花板",
@@ -385,6 +393,14 @@
       "onboard_time": 1672183281,
       "rank": 30,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 629205,
+      "num": 629205,
+      "word": "2022年全球最帅最美面孔",
+      "onboard_time": 1672217971,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 598950,
@@ -505,14 +521,6 @@
       "onboard_time": 1672178832,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 482565,
-      "num": 335564,
-      "word": "2022年全球最帅最美面孔",
-      "onboard_time": 1672217971,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 474546,
@@ -811,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318797,
+      "num": 302263,
+      "word": "吴磊是懂点儿浪漫的",
+      "onboard_time": 1672218152,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 317406,
       "num": 317406,
       "word": "是失去了味觉不是胃觉",
@@ -849,14 +865,6 @@
       "onboard_time": 1672199127,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308865,
-      "num": 308865,
-      "word": "腾讯宣布VALORANT中文名",
-      "onboard_time": 1672218211,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 305069,
@@ -931,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281194,
+      "num": 281194,
+      "word": "大陆来台旅客须进行PCR检测",
+      "onboard_time": 1672218931,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280965,
       "num": 280965,
       "word": "乾清宫正大光明匾被阳光点亮全程",
@@ -945,14 +961,6 @@
       "onboard_time": 1672138593,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274127,
-      "num": 180126,
-      "word": "吴磊是懂点儿浪漫的",
-      "onboard_time": 1672218152,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 273429,
@@ -979,12 +987,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261223,
+      "num": 192519,
+      "word": "黄晓明自曝焦虑不敢吃东西",
+      "onboard_time": 1672218572,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261160,
       "num": 261160,
       "word": "郑新黄河大桥多车相撞目击者发声",
       "onboard_time": 1672205309,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260431,
+      "num": 260431,
+      "word": "A股明年会迎来牛市吗",
+      "onboard_time": 1672215570,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 259335,
@@ -1027,14 +1051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242215,
-      "num": 242215,
-      "word": "A股明年会迎来牛市吗",
-      "onboard_time": 1672215570,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 237931,
       "num": 237931,
       "word": "浮图缘首播观后感",
@@ -1059,12 +1075,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 236118,
-      "num": 177325,
-      "word": "黄晓明自曝焦虑不敢吃东西",
-      "onboard_time": 1672218572,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 230513,
+      "num": 190957,
+      "word": "徐志胜说跟何广智默契度为0",
+      "onboard_time": 1672219110,
+      "rank": 32,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 229094,
@@ -1115,11 +1131,27 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 213886,
+      "num": 213886,
+      "word": "当猫咪闻几天没洗的头",
+      "onboard_time": 1672217612,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206418,
       "num": 206418,
       "word": "陈晓说您问住我了我谁来着",
       "onboard_time": 1672188148,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 206135,
+      "num": 152461,
+      "word": "张彬彬徐璐新剧带泪吻戏",
+      "onboard_time": 1672219532,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1235,14 +1267,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 192436,
-      "num": 192436,
-      "word": "当猫咪闻几天没洗的头",
-      "onboard_time": 1672217612,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 192084,
       "num": 192084,
       "word": "女子阳过后洗头发掉了一大把",
@@ -1267,12 +1291,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190093,
+      "num": 190093,
+      "word": "47岁妈妈被女儿拍成港风女神",
+      "onboard_time": 1672217728,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183927,
       "num": 183927,
       "word": "18个普通人故事登上十城小事报",
       "onboard_time": 1672212089,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180920,
+      "num": 180920,
+      "word": "版号",
+      "onboard_time": 1672218392,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 180176,
@@ -1409,14 +1449,6 @@
       "onboard_time": 1672147114,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 161362,
-      "num": 161362,
-      "word": "47岁妈妈被女儿拍成港风女神",
-      "onboard_time": 1672217728,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160017,
@@ -1571,20 +1603,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146065,
+      "num": 146065,
+      "word": "怎么做到让猫猫这么配合",
+      "onboard_time": 1672219715,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145532,
       "num": 145532,
       "word": "专家称明年房地产或出现报复性反弹",
       "onboard_time": 1672131335,
       "rank": 29,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 141816,
-      "num": 141816,
-      "word": "版号",
-      "onboard_time": 1672218392,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 140318,
@@ -1601,6 +1633,14 @@
       "onboard_time": 1672195888,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138817,
+      "num": 138817,
+      "word": "老婆发烧找跑腿照顾结果老公回来了",
+      "onboard_time": 1672219653,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138385,
@@ -1659,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131078,
+      "num": 131078,
+      "word": "外交部回应台湾当局延长兵役期",
+      "onboard_time": 1672219412,
+      "rank": 47,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 130432,
       "num": 130432,
       "word": "1岁半宝宝一口气吃4个海蛎子",
@@ -1683,14 +1731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128065,
-      "num": 128065,
-      "word": "大陆来台旅客须进行PCR检测",
-      "onboard_time": 1672218931,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127805,
       "num": 127805,
       "word": "雪中大熊猫好像滑溜溜的糯米糍",
@@ -1703,6 +1743,14 @@
       "num": 125748,
       "word": "黄永玉的画",
       "onboard_time": 1672216351,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125382,
+      "num": 125382,
+      "word": "外卖大姐回应因20元打赏笑得合不拢嘴",
+      "onboard_time": 1672219173,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -1884,7 +1932,7 @@
     },
     {
       "raw_hot": 62377,
-      "num": 1505128,
+      "num": 1520291,
       "word": "90秒超燃回顾中国航天这一年",
       "onboard_time": 1672197147,
       "rank": 2,
