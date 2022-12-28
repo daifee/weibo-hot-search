@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672195056435,
+  "endTime": 1672195662399,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -6819,6 +6819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1018958,
+      "num": 1018958,
+      "word": "谁心疼张婉婷",
+      "onboard_time": 1672192707,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1018644,
       "num": 455583,
       "word": "加维 帅",
@@ -8667,6 +8675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 868899,
+      "num": 868899,
+      "word": "部分国家对来自中国的旅客查核酸",
+      "onboard_time": 1672193309,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 868609,
       "num": 868609,
       "word": "六公主评价赵丽颖风吹半夏",
@@ -8793,14 +8809,6 @@
       "onboard_time": 1670080092,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 859452,
-      "num": 859452,
-      "word": "谁心疼张婉婷",
-      "onboard_time": 1672192707,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 859131,
@@ -13931,14 +13939,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 625569,
-      "num": 625569,
-      "word": "部分国家对来自中国的旅客查核酸",
-      "onboard_time": 1672193309,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 625465,
       "num": 625465,
       "word": "吴镇宇 长相可以像演技别来沾边",
@@ -17315,6 +17315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521348,
+      "num": 521348,
+      "word": "今天是李峋朱韵结婚三周年",
+      "onboard_time": 1672193489,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 521189,
       "num": 521189,
       "word": "你是还没阳过的天选打工人吗",
@@ -18113,14 +18121,6 @@
       "onboard_time": 1670834178,
       "rank": 16,
       "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 498688,
-      "num": 498688,
-      "word": "今天是李峋朱韵结婚三周年",
-      "onboard_time": 1672193489,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 498567,
@@ -19377,6 +19377,14 @@
       "onboard_time": 1670769677,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 468195,
+      "num": 468195,
+      "word": "00后男生3年打6份工买车",
+      "onboard_time": 1672193065,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467985,
@@ -20721,14 +20729,6 @@
       "onboard_time": 1670410933,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 438780,
-      "num": 438780,
-      "word": "00后男生3年打6份工买车",
-      "onboard_time": 1672193065,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 438736,
@@ -23515,6 +23515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392770,
+      "num": 392770,
+      "word": "何润东 反差感",
+      "onboard_time": 1672192049,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392476,
       "num": 392476,
       "word": "考研加油",
@@ -25096,6 +25104,14 @@
       "word": "买7元掏耳勺胶套掉耳道花175元取出",
       "onboard_time": 1671196835,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364124,
+      "num": 364124,
+      "word": "丈夫饭后晕倒妻子眼神追随及时扶住",
+      "onboard_time": 1672193429,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -29971,14 +29987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301362,
-      "num": 301362,
-      "word": "何润东 反差感",
-      "onboard_time": 1672192049,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 301338,
       "num": 301338,
       "word": "宋茜看男粉跳hotsummer的反应",
@@ -30177,6 +30185,14 @@
       "onboard_time": 1671699512,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300145,
+      "num": 300145,
+      "word": "Hero战队澄清声明",
+      "onboard_time": 1672194327,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 300117,
@@ -31512,14 +31528,6 @@
       "word": "白肺并不是肺变白了",
       "onboard_time": 1672192530,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285853,
-      "num": 285853,
-      "word": "丈夫饭后晕倒妻子眼神追随及时扶住",
-      "onboard_time": 1672193429,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -35315,6 +35323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247312,
+      "num": 247312,
+      "word": "女子靠黑魔法挽回前任被骗1万多",
+      "onboard_time": 1672194390,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247086,
       "num": 247086,
       "word": "个税扣除新增3岁以下婴幼儿照护项目",
@@ -35633,14 +35649,6 @@
       "onboard_time": 1670805308,
       "rank": 22,
       "category": "科技"
-    },
-    {
-      "raw_hot": 245065,
-      "num": 245065,
-      "word": "Hero战队澄清声明",
-      "onboard_time": 1672194327,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 244991,
@@ -36281,6 +36289,14 @@
       "onboard_time": 1671894032,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 238997,
+      "num": 238997,
+      "word": "这几年谢谢脱口秀",
+      "onboard_time": 1672194989,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 238963,
@@ -40339,6 +40355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208036,
+      "num": 208036,
+      "word": "体育老师终于扳回一局",
+      "onboard_time": 1672193547,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 207940,
       "num": 207940,
       "word": "什么样的夫妻关系才最合拍",
@@ -42227,6 +42251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195195,
+      "num": 195195,
+      "word": "中国足协回应武汉三镇声明",
+      "onboard_time": 1672195169,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195170,
       "num": 181742,
       "word": "newjeans新专配置公开",
@@ -42601,14 +42633,6 @@
       "onboard_time": 1671953427,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 193353,
-      "num": 193353,
-      "word": "体育老师终于扳回一局",
-      "onboard_time": 1672193547,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 193349,
@@ -45659,14 +45683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 177649,
-      "num": 177649,
-      "word": "这几年谢谢脱口秀",
-      "onboard_time": 1672194989,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177596,
       "num": 160786,
       "word": "赵垒首次登门遭岳父轮番盘问",
@@ -47153,14 +47169,6 @@
       "onboard_time": 1671539192,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 170985,
-      "num": 170985,
-      "word": "女子靠黑魔法挽回前任被骗1万多",
-      "onboard_time": 1672194390,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170930,
@@ -48699,6 +48707,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 163948,
+      "num": 163948,
+      "word": "西出玉门",
+      "onboard_time": 1672192108,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163929,
       "num": 163929,
       "word": "官方回应快递不快",
@@ -49577,14 +49593,6 @@
       "onboard_time": 1671635019,
       "rank": 37,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 159738,
-      "num": 159738,
-      "word": "西出玉门",
-      "onboard_time": 1672192108,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 159431,
@@ -52721,6 +52729,14 @@
       "onboard_time": 1670738892,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144802,
+      "num": 144802,
+      "word": "马斯克被曝身边充斥着马屁精",
+      "onboard_time": 1672195108,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 144790,
@@ -57347,6 +57363,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 122207,
+      "num": 122207,
+      "word": "教育局通报高中生摔猫踹猫",
+      "onboard_time": 1672194927,
+      "rank": 46,
+      "category": "社会负面,教育"
+    },
+    {
       "raw_hot": 122160,
       "num": 122160,
       "word": "小鬼在搞一种很新的emo",
@@ -57411,6 +57435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121648,
+      "num": 121648,
+      "word": "湖人战胜魔术",
+      "onboard_time": 1672195588,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121623,
       "num": 121623,
       "word": "LPL全明星主宣传片",
@@ -57425,14 +57457,6 @@
       "onboard_time": 1669965911,
       "rank": 42,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 121539,
-      "num": 121539,
-      "word": "教育局通报高中生摔猫踹猫",
-      "onboard_time": 1672194927,
-      "rank": 46,
-      "category": "社会负面,教育"
     },
     {
       "raw_hot": 121529,
@@ -58153,6 +58177,14 @@
       "onboard_time": 1671089068,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 117631,
+      "num": 117631,
+      "word": "孩子发生热性惊厥不要做4件事",
+      "onboard_time": 1672195468,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117615,

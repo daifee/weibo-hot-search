@@ -1,6 +1,6 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672195056435,
+  "endTime": 1672195662399,
   "band_list": [
     {
       "raw_hot": 3219890,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1018958,
+      "num": 1018958,
+      "word": "谁心疼张婉婷",
+      "onboard_time": 1672192707,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 962528,
       "num": 962528,
       "word": "浮图缘 王鹤棣妆造",
@@ -67,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 859452,
-      "num": 859452,
-      "word": "谁心疼张婉婷",
-      "onboard_time": 1672192707,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 868899,
+      "num": 868899,
+      "word": "部分国家对来自中国的旅客查核酸",
+      "onboard_time": 1672193309,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 774922,
@@ -115,14 +123,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 625569,
-      "num": 625569,
-      "word": "部分国家对来自中国的旅客查核酸",
-      "onboard_time": 1672193309,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 568051,
       "num": 568051,
       "word": "救命的排痰姿势",
@@ -139,8 +139,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 498688,
-      "num": 498688,
+      "raw_hot": 521348,
+      "num": 521348,
       "word": "今天是李峋朱韵结婚三周年",
       "onboard_time": 1672193489,
       "rank": 11,
@@ -152,6 +152,14 @@
       "word": "咳嗽是人体一种保护机制",
       "onboard_time": 1672178832,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468195,
+      "num": 468195,
+      "word": "00后男生3年打6份工买车",
+      "onboard_time": 1672193065,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -171,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 438780,
-      "num": 438780,
-      "word": "00后男生3年打6份工买车",
-      "onboard_time": 1672193065,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 421564,
       "num": 421564,
       "word": "中国将失去这个世界第一",
@@ -193,6 +193,14 @@
       "onboard_time": 1672149455,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 392770,
+      "num": 392770,
+      "word": "何润东 反差感",
+      "onboard_time": 1672192049,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 382029,
@@ -217,6 +225,14 @@
       "onboard_time": 1672136313,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 364124,
+      "num": 364124,
+      "word": "丈夫饭后晕倒妻子眼神追随及时扶住",
+      "onboard_time": 1672193429,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350562,
@@ -267,20 +283,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301362,
-      "num": 301362,
-      "word": "何润东 反差感",
-      "onboard_time": 1672192049,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 300787,
       "num": 300787,
       "word": "裴珠泫跳poppy手势舞",
       "onboard_time": 1672155808,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 300145,
+      "num": 300145,
+      "word": "Hero战队澄清声明",
+      "onboard_time": 1672194327,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 292498,
@@ -296,14 +312,6 @@
       "word": "白肺并不是肺变白了",
       "onboard_time": 1672192530,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285853,
-      "num": 285853,
-      "word": "丈夫饭后晕倒妻子眼神追随及时扶住",
-      "onboard_time": 1672193429,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -347,12 +355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245065,
-      "num": 245065,
-      "word": "Hero战队澄清声明",
-      "onboard_time": 1672194327,
-      "rank": 26,
-      "category": "游戏"
+      "raw_hot": 247312,
+      "num": 247312,
+      "word": "女子靠黑魔法挽回前任被骗1万多",
+      "onboard_time": 1672194390,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244079,
@@ -361,6 +369,14 @@
       "onboard_time": 1672150233,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238997,
+      "num": 238997,
+      "word": "这几年谢谢脱口秀",
+      "onboard_time": 1672194989,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 237931,
@@ -393,6 +409,14 @@
       "onboard_time": 1672190308,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208036,
+      "num": 208036,
+      "word": "体育老师终于扳回一局",
+      "onboard_time": 1672193547,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 206418,
@@ -451,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195195,
+      "num": 195195,
+      "word": "中国足协回应武汉三镇声明",
+      "onboard_time": 1672195169,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193921,
       "num": 193921,
       "word": "当妈妈知道你羊了",
@@ -465,14 +497,6 @@
       "onboard_time": 1672142072,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 193353,
-      "num": 193353,
-      "word": "体育老师终于扳回一局",
-      "onboard_time": 1672193547,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 192084,
@@ -497,14 +521,6 @@
       "onboard_time": 1672192647,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177649,
-      "num": 177649,
-      "word": "这几年谢谢脱口秀",
-      "onboard_time": 1672194989,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 176727,
@@ -547,14 +563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170985,
-      "num": 170985,
-      "word": "女子靠黑魔法挽回前任被骗1万多",
-      "onboard_time": 1672194390,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166543,
       "num": 166543,
       "word": "曾黎问这样的本宫真的很可怕吗",
@@ -595,20 +603,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163948,
+      "num": 163948,
+      "word": "西出玉门",
+      "onboard_time": 1672192108,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163818,
       "num": 163818,
       "word": "哈利波特",
       "onboard_time": 1672147114,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159738,
-      "num": 159738,
-      "word": "西出玉门",
-      "onboard_time": 1672192108,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 158235,
@@ -665,6 +673,14 @@
       "onboard_time": 1672131335,
       "rank": 29,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 144802,
+      "num": 144802,
+      "word": "马斯克被曝身边充斥着马屁精",
+      "onboard_time": 1672195108,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 140318,
@@ -747,12 +763,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121539,
-      "num": 121539,
+      "raw_hot": 122207,
+      "num": 122207,
       "word": "教育局通报高中生摔猫踹猫",
       "onboard_time": 1672194927,
       "rank": 46,
       "category": "社会负面,教育"
+    },
+    {
+      "raw_hot": 121648,
+      "num": 121648,
+      "word": "湖人战胜魔术",
+      "onboard_time": 1672195588,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 120898,
@@ -792,6 +816,14 @@
       "word": "纪念币",
       "onboard_time": 1672152213,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117631,
+      "num": 117631,
+      "word": "孩子发生热性惊厥不要做4件事",
+      "onboard_time": 1672195468,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

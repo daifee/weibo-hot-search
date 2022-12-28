@@ -1,0 +1,410 @@
+{
+  "runTime": 1672195662399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1165856,
+        "num": 1165856,
+        "word": "女子阳后卧床3天家变垃圾场",
+        "onboard_time": 1672189889,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018958,
+        "num": 1018958,
+        "word": "谁心疼张婉婷",
+        "onboard_time": 1672192707,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105795,
+        "num": 926381,
+        "word": "白肺和原始毒株及疫苗接种没关系",
+        "onboard_time": 1672142072,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2236835,
+        "num": 899280,
+        "word": "我拉黑了我姑姑",
+        "onboard_time": 1672184964,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 868899,
+        "num": 868899,
+        "word": "部分国家对来自中国的旅客查核酸",
+        "onboard_time": 1672193309,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830796,
+        "num": 830796,
+        "word": "男子网购玫瑰拆开发现1枚子弹",
+        "onboard_time": 1672188570,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786701,
+        "num": 786701,
+        "word": "失眠可能是肺出现了问题",
+        "onboard_time": 1672156286,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765263,
+        "num": 765263,
+        "word": "女子送布洛芬后被回赠板蓝根水果",
+        "onboard_time": 1672189711,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547554,
+        "num": 547554,
+        "word": "孩子发烧41℃第二天家门口出现一瓶美林",
+        "onboard_time": 1672147595,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534037,
+        "num": 534037,
+        "word": "浮图缘 王鹤棣妆造",
+        "onboard_time": 1672186828,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521348,
+        "num": 521348,
+        "word": "今天是李峋朱韵结婚三周年",
+        "onboard_time": 1672193489,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468195,
+        "num": 468195,
+        "word": "00后男生3年打6份工买车",
+        "onboard_time": 1672193065,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410795,
+        "num": 410795,
+        "word": "救命的排痰姿势",
+        "onboard_time": 1672189410,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405908,
+        "num": 405908,
+        "word": "Giselle回应合作曲part只有3秒",
+        "onboard_time": 1672191868,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 397083,
+        "num": 397083,
+        "word": "Hero 紫幻",
+        "onboard_time": 1672182798,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 392770,
+        "num": 392770,
+        "word": "何润东 反差感",
+        "onboard_time": 1672192049,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364124,
+        "num": 364124,
+        "word": "丈夫饭后晕倒妻子眼神追随及时扶住",
+        "onboard_time": 1672193429,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306613,
+        "num": 306613,
+        "word": "专家称奥密克戎突变已基本饱和",
+        "onboard_time": 1672152813,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300145,
+        "num": 300145,
+        "word": "Hero战队澄清声明",
+        "onboard_time": 1672194327,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 279194,
+        "num": 279194,
+        "word": "白肺并不是肺变白了",
+        "onboard_time": 1672192530,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271410,
+        "num": 271410,
+        "word": "特斯拉一夜蒸发440亿美元",
+        "onboard_time": 1672191029,
+        "rank": 20,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 270943,
+        "num": 270943,
+        "word": "女子100万投资基金到期损失98万",
+        "onboard_time": 1672183281,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 267022,
+        "num": 267022,
+        "word": "长期佩戴口罩对肺结节是否有影响",
+        "onboard_time": 1672183760,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247312,
+        "num": 247312,
+        "word": "女子靠黑魔法挽回前任被骗1万多",
+        "onboard_time": 1672194390,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238997,
+        "num": 238997,
+        "word": "这几年谢谢脱口秀",
+        "onboard_time": 1672194989,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232225,
+        "num": 232225,
+        "word": "秀秀 紫幻",
+        "onboard_time": 1672184001,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231414,
+        "num": 231414,
+        "word": "女孩为拥有苹果手机频繁偷包裹",
+        "onboard_time": 1672152693,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224592,
+        "num": 224592,
+        "word": "辰亦儒演技巅峰",
+        "onboard_time": 1672152994,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218466,
+        "num": 218466,
+        "word": "关晓彤说自己太喜欢过节",
+        "onboard_time": 1672155149,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208036,
+        "num": 208036,
+        "word": "体育老师终于扳回一局",
+        "onboard_time": 1672193547,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 195195,
+        "num": 195195,
+        "word": "中国足协回应武汉三镇声明",
+        "onboard_time": 1672195169,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193288,
+        "num": 193288,
+        "word": "2015年的跨年演唱会",
+        "onboard_time": 1672157605,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186057,
+        "num": 186057,
+        "word": "感染高峰下春节要不要回家",
+        "onboard_time": 1672184782,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176016,
+        "num": 176016,
+        "word": "实施乙类乙管打的是有准备之仗",
+        "onboard_time": 1672185326,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172897,
+        "num": 172897,
+        "word": "曼联3比0诺丁汉森林",
+        "onboard_time": 1672190308,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165484,
+        "num": 165484,
+        "word": "康复者返岗全天候防护指南",
+        "onboard_time": 1672192647,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163948,
+        "num": 163948,
+        "word": "西出玉门",
+        "onboard_time": 1672192108,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161635,
+        "num": 161635,
+        "word": "61.8%居民倾向于更多储蓄",
+        "onboard_time": 1672191686,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161437,
+        "num": 161437,
+        "word": "喜欢不可能的人是什么感觉",
+        "onboard_time": 1672184723,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156851,
+        "num": 156851,
+        "word": "浮图缘特效",
+        "onboard_time": 1672193007,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155989,
+        "num": 155989,
+        "word": "中国将失去这个世界第一",
+        "onboard_time": 1672127912,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144802,
+        "num": 144802,
+        "word": "马斯克被曝身边充斥着马屁精",
+        "onboard_time": 1672195108,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 143609,
+        "num": 143609,
+        "word": "教育局回应高中男生摔猫踢猫",
+        "onboard_time": 1672168693,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136158,
+        "num": 136158,
+        "word": "如何预防白肺",
+        "onboard_time": 1672185203,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131800,
+        "num": 131800,
+        "word": "陈晓说您问住我了我谁来着",
+        "onboard_time": 1672188148,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129772,
+        "num": 129772,
+        "word": "陈佑希回家了",
+        "onboard_time": 1672188811,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128224,
+        "num": 128224,
+        "word": "伊甸园",
+        "onboard_time": 1672185506,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122207,
+        "num": 122207,
+        "word": "教育局通报高中生摔猫踹猫",
+        "onboard_time": 1672194927,
+        "rank": 47,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 121648,
+        "num": 121648,
+        "word": "湖人战胜魔术",
+        "onboard_time": 1672195588,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117631,
+        "num": 117631,
+        "word": "孩子发生热性惊厥不要做4件事",
+        "onboard_time": 1672195468,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#90秒超燃回顾中国航天这一年#"
+    }
+  }
+}
