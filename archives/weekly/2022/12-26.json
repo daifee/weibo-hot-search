@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672205610790,
+  "endTime": 1672208592722,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2203349,
+      "num": 2203349,
+      "word": "女子怕被感染20多天没出门",
+      "onboard_time": 1672202190,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2168656,
       "num": 2168656,
       "word": "葛优母亲施文心去世",
@@ -168,14 +176,6 @@
       "word": "取消入境后全员核酸检测和集中隔离",
       "onboard_time": 1672068215,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1845089,
-      "num": 1845089,
-      "word": "女子怕被感染20多天没出门",
-      "onboard_time": 1672202190,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -435,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1241391,
+      "num": 1241391,
+      "word": "98年王鹤棣演89年王栎鑫干爹",
+      "onboard_time": 1672204768,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1235625,
       "num": 1235625,
       "word": "女子转阴五天复阳高烧四十度",
@@ -641,6 +649,14 @@
       "onboard_time": 1672057232,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 964696,
+      "num": 964696,
+      "word": "老人去世亲友室外冒雪吃席",
+      "onboard_time": 1672204591,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 962528,
@@ -867,8 +883,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 829811,
-      "num": 829811,
+      "raw_hot": 832367,
+      "num": 832367,
       "word": "郑新黄河大桥大雾天数十辆车相撞",
       "onboard_time": 1672199249,
       "rank": 13,
@@ -1163,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 679454,
+      "num": 679454,
+      "word": "多地倡导留下过年",
+      "onboard_time": 1672204049,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 678519,
       "num": 678519,
       "word": "今年烂尾的韩剧",
@@ -1283,14 +1307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 649758,
-      "num": 649758,
-      "word": "98年王鹤棣演89年王栎鑫干爹",
-      "onboard_time": 1672204768,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 647881,
       "num": 647881,
       "word": "Hero 紫幻",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1671980190,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 627842,
+      "num": 627842,
+      "word": "新冠感染新增本土死亡3例",
+      "onboard_time": 1672206688,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625950,
@@ -1467,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579825,
+      "num": 579825,
+      "word": "内娱戏腔天花板",
+      "onboard_time": 1672205248,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 578180,
       "num": 578180,
       "word": "护士手术中晕倒醒来后拒摘口罩",
@@ -1553,6 +1585,14 @@
       "onboard_time": 1672112610,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564937,
+      "num": 564937,
+      "word": "BLACKPINK明年将二登科切拉",
+      "onboard_time": 1672205671,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 561458,
@@ -2067,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 429726,
+      "num": 429726,
+      "word": "李子柒能重回顶流吗",
+      "onboard_time": 1672205309,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 425501,
       "num": 425501,
       "word": "2023央视跨年晚会官宣",
@@ -2153,6 +2201,14 @@
       "onboard_time": 1672145614,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 409811,
+      "num": 326697,
+      "word": "黄晓明说对待儿子很严肃",
+      "onboard_time": 1672206029,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 406935,
@@ -2459,6 +2515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358917,
+      "num": 358917,
+      "word": "老年人感染初期可能只是低烧",
+      "onboard_time": 1672205972,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358767,
       "num": 358767,
       "word": "多地感染高峰将至",
@@ -2513,14 +2577,6 @@
       "onboard_time": 1672062876,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 351037,
-      "num": 351037,
-      "word": "老人去世亲友室外冒雪吃席",
-      "onboard_time": 1672204591,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 350562,
@@ -2593,6 +2649,14 @@
       "onboard_time": 1672144293,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 339376,
+      "num": 339376,
+      "word": "黄河大桥",
+      "onboard_time": 1672204949,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338865,
@@ -2713,6 +2777,14 @@
       "onboard_time": 1672023870,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 322468,
+      "num": 322468,
+      "word": "杨紫说今晚颜淡仙子开始营业",
+      "onboard_time": 1672208009,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 322384,
@@ -2947,14 +3019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295826,
-      "num": 295826,
-      "word": "多地倡导留下过年",
-      "onboard_time": 1672204049,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295665,
       "num": 295665,
       "word": "心肌炎症状有哪些",
@@ -3035,19 +3099,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286641,
+      "num": 286641,
+      "word": "男子写鲁迅名字倒过来竟是画像",
+      "onboard_time": 1672203211,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286233,
       "num": 286233,
       "word": "网传德尔塔奥密克戎共循环是谣言",
       "onboard_time": 1672119214,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 286221,
-      "num": 286221,
-      "word": "男子写鲁迅名字倒过来竟是画像",
-      "onboard_time": 1672203211,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3257,6 +3321,14 @@
       "onboard_time": 1672133852,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261160,
+      "num": 261160,
+      "word": "郑新黄河大桥多车相撞目击者发声",
+      "onboard_time": 1672205309,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259335,
@@ -3537,6 +3609,14 @@
       "onboard_time": 1672031370,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235217,
+      "num": 221473,
+      "word": "郑新黄河大桥交通事故已致1人死亡",
+      "onboard_time": 1672208486,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 233909,
@@ -3955,14 +4035,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 209419,
-      "num": 209419,
-      "word": "李子柒能重回顶流吗",
-      "onboard_time": 1672205309,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
       "raw_hot": 207458,
       "num": 197864,
       "word": "我可能遇到了救星",
@@ -4017,6 +4089,14 @@
       "onboard_time": 1672051832,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204167,
+      "num": 204167,
+      "word": "微博音乐盛典",
+      "onboard_time": 1672205068,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 203524,
@@ -4171,6 +4251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197203,
+      "num": 161384,
+      "word": "张子枫回应评价她是00后小花里最会演戏的",
+      "onboard_time": 1672208071,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197160,
       "num": 197160,
       "word": "武庚纪",
@@ -4217,14 +4305,6 @@
       "onboard_time": 1672116690,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195761,
-      "num": 195761,
-      "word": "内娱戏腔天花板",
-      "onboard_time": 1672205248,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 195557,
@@ -4361,6 +4441,14 @@
       "onboard_time": 1672024170,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190035,
+      "num": 190035,
+      "word": "当代年轻人跨年只办三件事",
+      "onboard_time": 1672207409,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 189932,
@@ -4587,14 +4675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178304,
-      "num": 178304,
-      "word": "黄河大桥",
-      "onboard_time": 1672204949,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178290,
       "num": 178290,
       "word": "FoFo",
@@ -4633,6 +4713,14 @@
       "onboard_time": 1672129654,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175723,
+      "num": 175723,
+      "word": "丈夫故意把孩子弄哭丢给发烧妻子",
+      "onboard_time": 1672208368,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175421,
@@ -4835,14 +4923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 166549,
-      "num": 166549,
-      "word": "微博音乐盛典",
-      "onboard_time": 1672205068,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 166161,
       "num": 166161,
       "word": "2022男主人设天花板",
@@ -4977,6 +5057,22 @@
       "onboard_time": 1672111889,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161335,
+      "num": 161335,
+      "word": "村民自带面油排2小时队压辣条",
+      "onboard_time": 1672207289,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161322,
+      "num": 161322,
+      "word": "9个奥密克戎亚型毒株正在我国流行",
+      "onboard_time": 1672208071,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161203,
@@ -5339,6 +5435,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 146084,
+      "num": 153205,
+      "word": "河南多车相撞事故涉200多辆车",
+      "onboard_time": 1672208248,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145817,
       "num": 145817,
       "word": "李宏毅少年歌行好看吗",
@@ -5432,14 +5536,6 @@
       "word": "孩子发热抽搐不要往嘴里塞东西",
       "onboard_time": 1672015586,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143270,
-      "num": 143270,
-      "word": "郑新黄河大桥多车相撞目击者发声",
-      "onboard_time": 1672205309,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -6417,6 +6513,14 @@
       "onboard_time": 1672095196,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 35684,
+      "num": 161405,
+      "word": "钉钉上线新的群功能",
+      "onboard_time": 1672207228,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 33830,
