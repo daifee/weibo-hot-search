@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672241612659,
+  "endTime": 1672244675454,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 2290226,
-      "num": 694632,
+      "num": 739257,
       "word": "侃爷 失踪",
       "onboard_time": 1672226010,
       "rank": 20,
@@ -1097,6 +1097,14 @@
       "onboard_time": 1672199249,
       "rank": 13,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 831050,
+      "num": 300697,
+      "word": "山下智久身材",
+      "onboard_time": 1672242266,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 826958,
@@ -3675,6 +3683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301954,
+      "num": 301954,
+      "word": "EDG老板",
+      "onboard_time": 1672243407,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 300787,
       "num": 300787,
       "word": "裴珠泫跳poppy手势舞",
@@ -3713,6 +3729,14 @@
       "onboard_time": 1672236397,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298507,
+      "num": 298507,
+      "word": "樊振东连续三年年终第一",
+      "onboard_time": 1672241493,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 297995,
@@ -6123,6 +6147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161561,
+      "num": 131654,
+      "word": "张超直播",
+      "onboard_time": 1672244124,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161345,
       "num": 126175,
       "word": "龚俊官宣加盟2023湖南卫视跨年晚会",
@@ -6419,6 +6451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151656,
+      "num": 124711,
+      "word": "王鹤棣陈钰琪浮图缘梨花雨名场面",
+      "onboard_time": 1672244425,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151542,
       "num": 151542,
       "word": "烟火是跨年的仪式感",
@@ -6449,6 +6489,14 @@
       "onboard_time": 1672204409,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150770,
+      "num": 150770,
+      "word": "重庆自有住房用于长租可不计入套数",
+      "onboard_time": 1672241493,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 150463,
@@ -6665,6 +6713,14 @@
       "onboard_time": 1672149156,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144249,
+      "num": 1357099,
+      "word": "关于白肺和变异株的5个热点问答",
+      "onboard_time": 1672238674,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143944,
@@ -6961,14 +7017,6 @@
       "onboard_time": 1672064734,
       "rank": 47,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 134471,
-      "num": 1357099,
-      "word": "关于白肺和变异株的5个热点问答",
-      "onboard_time": 1672238674,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133697,
@@ -7611,28 +7659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83233,
-      "num": 115714,
-      "word": "樊振东连续三年年终第一",
-      "onboard_time": 1672241493,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82226,
       "num": 82226,
       "word": "男子高烧发视频被多个殡葬商家关注",
       "onboard_time": 1671961950,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80149,
-      "num": 115535,
-      "word": "重庆自有住房用于长租可不计入套数",
-      "onboard_time": 1672241493,
-      "rank": 49,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 77618,
@@ -7779,12 +7811,28 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 56639,
+      "num": 56639,
+      "word": "今年最想定格的瞬间",
+      "onboard_time": 1672244663,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 55595,
       "num": 55595,
       "word": "孟子义在线追星张嘉佳",
       "onboard_time": 1672076416,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55295,
+      "num": 55295,
+      "word": "特战队员零下20度边夹豆子边射击",
+      "onboard_time": 1672243885,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 54648,
@@ -7978,6 +8026,9 @@
     },
     {
       "word": "#2022偶遇的治愈瞬间#"
+    },
+    {
+      "word": "#10张数字海报回顾2022#"
     }
   ]
 }

@@ -1,0 +1,411 @@
+{
+  "startTime": 1672244675454,
+  "endTime": 1672244675454,
+  "band_list": [
+    {
+      "raw_hot": 1495899,
+      "num": 398221,
+      "word": "建议专家们不要提建议了",
+      "onboard_time": 1672236816,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1284768,
+      "num": 1284768,
+      "word": "感染新冠两周后心肌会有反应",
+      "onboard_time": 1672237656,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 831050,
+      "num": 300697,
+      "word": "山下智久身材",
+      "onboard_time": 1672242266,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 739257,
+      "num": 739257,
+      "word": "侃爷 失踪",
+      "onboard_time": 1672226010,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 472224,
+      "num": 197329,
+      "word": "萧敬腾 妈咪",
+      "onboard_time": 1672235615,
+      "rank": 20,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 406494,
+      "num": 406494,
+      "word": "回来的女儿 高开低走",
+      "onboard_time": 1672237053,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 403108,
+      "num": 403108,
+      "word": "结婚前有同居的必要吗",
+      "onboard_time": 1672228772,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 390271,
+      "num": 390271,
+      "word": "心肌炎的6个危险信号",
+      "onboard_time": 1672233873,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385127,
+      "num": 385127,
+      "word": "Viper回韩国原因曝光",
+      "onboard_time": 1672239692,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 317874,
+      "num": 317874,
+      "word": "重庆狼队",
+      "onboard_time": 1672239633,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 301954,
+      "num": 301954,
+      "word": "EDG老板",
+      "onboard_time": 1672243407,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 298507,
+      "num": 298507,
+      "word": "樊振东连续三年年终第一",
+      "onboard_time": 1672241493,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 289941,
+      "num": 289941,
+      "word": "武汉120事故肇事急救车司机被刑拘",
+      "onboard_time": 1672236934,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245476,
+      "num": 245476,
+      "word": "向太直播",
+      "onboard_time": 1672228651,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 240935,
+      "num": 240935,
+      "word": "seventeen雅加达暴雨舞台",
+      "onboard_time": 1672237594,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 229415,
+      "num": 229415,
+      "word": "爱德朱爆料Scout转会内幕",
+      "onboard_time": 1672237656,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 214019,
+      "num": 214019,
+      "word": "山东小村卖二手拖拉机年流水十几亿",
+      "onboard_time": 1672237473,
+      "rank": 16,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 205631,
+      "num": 205631,
+      "word": "鹅鸭杀",
+      "onboard_time": 1672235133,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 204222,
+      "num": 204222,
+      "word": "国产新冠口服药先诺欣最快2月上市",
+      "onboard_time": 1672234774,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203113,
+      "num": 203113,
+      "word": "男子特快邮寄申博资料滞留15日过期",
+      "onboard_time": 1672237891,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 178883,
+      "num": 178883,
+      "word": "浮图缘删减戏份",
+      "onboard_time": 1672235974,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 171019,
+      "num": 171019,
+      "word": "张翰",
+      "onboard_time": 1672217910,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 164397,
+      "num": 164397,
+      "word": "浮图缘",
+      "onboard_time": 1672232971,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 161561,
+      "num": 131654,
+      "word": "张超直播",
+      "onboard_time": 1672244124,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 155485,
+      "num": 130364,
+      "word": "李子柒归来江湖已变天",
+      "onboard_time": 1672212392,
+      "rank": 31,
+      "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 155278,
+      "num": 155278,
+      "word": "吕布怒海麟威新皮肤",
+      "onboard_time": 1672238313,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 154713,
+      "num": 128436,
+      "word": "易烊千玺最出圈的角色",
+      "onboard_time": 1672232669,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 151656,
+      "num": 124711,
+      "word": "王鹤棣陈钰琪浮图缘梨花雨名场面",
+      "onboard_time": 1672244425,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 150770,
+      "num": 150770,
+      "word": "重庆自有住房用于长租可不计入套数",
+      "onboard_time": 1672241493,
+      "rank": 25,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 149628,
+      "num": 149628,
+      "word": "这才是真正的爱情吧",
+      "onboard_time": 1672237714,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 144249,
+      "num": 531271,
+      "word": "关于白肺和变异株的5个热点问答",
+      "onboard_time": 1672238674,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143950,
+      "num": 143950,
+      "word": "韩国前总统李明博出狱待遇惨淡",
+      "onboard_time": 1672235794,
+      "rank": 27,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 143602,
+      "num": 143602,
+      "word": "中方始终认为各国防疫措施应科学适度",
+      "onboard_time": 1672223310,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 135937,
+      "num": 107766,
+      "word": "刘宇宁直播说安乐传配音配完了",
+      "onboard_time": 1672239571,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 132528,
+      "num": 132528,
+      "word": "冲马桶不盖盖会发生什么",
+      "onboard_time": 1672233212,
+      "rank": 29,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 126712,
+      "num": 100927,
+      "word": "回来的女儿",
+      "onboard_time": 1672235853,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 124348,
+      "num": 124348,
+      "word": "网民谎称5天2次感染不同毒株被拘",
+      "onboard_time": 1672232494,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123559,
+      "num": 123559,
+      "word": "还以为是发配宁古塔的路上",
+      "onboard_time": 1672238135,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 115812,
+      "num": 115812,
+      "word": "东北冬天的雪糕摊子",
+      "onboard_time": 1672239211,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 112857,
+      "num": 112857,
+      "word": "辉瑞新冠口服药医保支付价下调",
+      "onboard_time": 1672231471,
+      "rank": 37,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 112122,
+      "num": 112122,
+      "word": "女孩患白血病父亲意外发现非亲生",
+      "onboard_time": 1672229673,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107961,
+      "num": 107961,
+      "word": "辽宁遭砍伤女童至今未被道歉赔偿",
+      "onboard_time": 1672234112,
+      "rank": 39,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 93982,
+      "num": 93982,
+      "word": "妈妈转阴后上班5岁儿子独自做家务",
+      "onboard_time": 1672233451,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81970,
+      "num": 81970,
+      "word": "年轻人更易感染病毒性心肌炎",
+      "onboard_time": 1672222230,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81778,
+      "num": 81778,
+      "word": "癸卯年蓝兔子邮票引争议",
+      "onboard_time": 1672233630,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80258,
+      "num": 80258,
+      "word": "国际乒联首位00后年终第一",
+      "onboard_time": 1672229311,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68542,
+      "num": 68542,
+      "word": "小鸭灯也太可爱了",
+      "onboard_time": 1672238075,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 58250,
+      "num": 58250,
+      "word": "狗狗特殊的叫醒服务",
+      "onboard_time": 1672237772,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 56639,
+      "num": 56639,
+      "word": "今年最想定格的瞬间",
+      "onboard_time": 1672244663,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 55295,
+      "num": 55295,
+      "word": "特战队员零下20度边夹豆子边射击",
+      "onboard_time": 1672243885,
+      "rank": 49,
+      "category": "军事,社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#10张数字海报回顾2022#"
+    }
+  ]
+}
