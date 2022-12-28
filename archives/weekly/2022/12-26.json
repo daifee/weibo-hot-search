@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672226083169,
+  "endTime": 1672227207254,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -137,6 +137,14 @@
       "onboard_time": 1672212748,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2290226,
+      "num": 611849,
+      "word": "侃爷 失踪",
+      "onboard_time": 1672226010,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2250738,
@@ -283,6 +291,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1597335,
+      "num": 1597335,
+      "word": "中方始终认为各国防疫措施应科学适度",
+      "onboard_time": 1672223310,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1578178,
       "num": 1578178,
       "word": "解除对新冠感染的甲类传染病防控措施",
@@ -361,6 +377,14 @@
       "onboard_time": 1672060176,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1440813,
+      "num": 1231147,
+      "word": "小胖录音",
+      "onboard_time": 1672224330,
+      "rank": 3,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1438181,
@@ -459,28 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1304985,
-      "num": 1231147,
-      "word": "小胖录音",
-      "onboard_time": 1672224330,
-      "rank": 3,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 1266427,
       "num": 1266427,
       "word": "任嘉伦邢菲二搭",
       "onboard_time": 1672022369,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1248773,
-      "num": 1248773,
-      "word": "中方始终认为各国防疫措施应科学适度",
-      "onboard_time": 1672223310,
-      "rank": 35,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1242104,
@@ -1219,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 758753,
+      "num": 758753,
+      "word": "年轻人更易感染病毒性心肌炎",
+      "onboard_time": 1672222230,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 757272,
       "num": 757272,
       "word": "未来新冠或似流感需每年打疫苗",
@@ -1443,14 +1459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 662180,
-      "num": 662180,
-      "word": "年轻人更易感染病毒性心肌炎",
-      "onboard_time": 1672222230,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 659345,
       "num": 659345,
       "word": "感染高峰下春节要不要回家",
@@ -1547,12 +1555,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 629419,
+      "num": 629419,
+      "word": "哈尔滨大妈买牛奶获赔一头牛",
+      "onboard_time": 1672224811,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625950,
       "num": 568338,
       "word": "肖战李沁梦中的那片海下证",
       "onboard_time": 1672040494,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 623485,
+      "num": 623485,
+      "word": "取消入境人员全员核酸",
+      "onboard_time": 1672224630,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 621271,
@@ -1713,14 +1737,6 @@
       "onboard_time": 1672195169,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 574082,
-      "num": 574082,
-      "word": "取消入境人员全员核酸",
-      "onboard_time": 1672224630,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 573622,
@@ -2131,6 +2147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 478928,
+      "num": 478928,
+      "word": "53岁女儿生病78岁父亲不放心睡门口",
+      "onboard_time": 1672222710,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474546,
       "num": 474546,
       "word": "马斯克被曝身边充斥着马屁精",
@@ -2160,14 +2184,6 @@
       "word": "男子为节省抗原将试纸剪开分两次用",
       "onboard_time": 1671977912,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 471308,
-      "num": 471308,
-      "word": "53岁女儿生病78岁父亲不放心睡门口",
-      "onboard_time": 1672222710,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2249,14 +2265,6 @@
       "onboard_time": 1672100066,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 457601,
-      "num": 372588,
-      "word": "侃爷 失踪",
-      "onboard_time": 1672226010,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 453971,
@@ -2459,14 +2467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417006,
-      "num": 417006,
-      "word": "哈尔滨大妈买牛奶获赔一头牛",
-      "onboard_time": 1672224811,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 414127,
       "num": 414127,
       "word": "太阳转入YG旗下厂牌",
@@ -2489,6 +2489,14 @@
       "onboard_time": 1672214129,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407170,
+      "num": 342154,
+      "word": "曾舜晞问梁洁衣服穿那么久的原因",
+      "onboard_time": 1672226371,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 406935,
@@ -3003,6 +3011,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 339160,
+      "num": 339160,
+      "word": "调查显示四川新冠感染率已过63.5%",
+      "onboard_time": 1672222889,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338865,
       "num": 338865,
       "word": "中国足协望武汉三镇提供黑暗势力证据",
@@ -3136,14 +3152,6 @@
       "word": "失明母亲医院中用力抱紧发烧宝宝",
       "onboard_time": 1672029993,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321502,
-      "num": 321502,
-      "word": "调查显示四川新冠感染率已过63.5%",
-      "onboard_time": 1672222889,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3339,6 +3347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302512,
+      "num": 217577,
+      "word": "杨紫颜淡六宫格剧照",
+      "onboard_time": 1672225710,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302172,
       "num": 302172,
       "word": "浮图缘台词梦回苍兰诀",
@@ -3513,14 +3529,6 @@
       "onboard_time": 1672223433,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 285526,
-      "num": 194356,
-      "word": "杨紫颜淡六宫格剧照",
-      "onboard_time": 1672225710,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 285509,
@@ -3955,6 +3963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243085,
+      "num": 216660,
+      "word": "你今年最心水的一部剧",
+      "onboard_time": 1672226853,
+      "rank": 31,
+      "category": "影视,情感"
+    },
+    {
       "raw_hot": 242700,
       "num": 220505,
       "word": "迪丽热巴小红帽三宫格",
@@ -4121,6 +4137,14 @@
       "onboard_time": 1672219110,
       "rank": 32,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 229757,
+      "num": 229757,
+      "word": "16岁学霸女孩急寻救命O型血",
+      "onboard_time": 1672225290,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229638,
@@ -4417,6 +4441,14 @@
       "onboard_time": 1672148615,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218028,
+      "num": 218028,
+      "word": "男子给走失老人借手机反遭其家属辱骂",
+      "onboard_time": 1672222589,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217502,
@@ -4971,6 +5003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190480,
+      "num": 190480,
+      "word": "婆婆骑三轮为儿媳送4大包吃喝用品",
+      "onboard_time": 1672226853,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190472,
       "num": 152779,
       "word": "尹炫优夺走顺洋",
@@ -5131,14 +5171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182030,
-      "num": 182030,
-      "word": "男子给走失老人借手机反遭其家属辱骂",
-      "onboard_time": 1672222589,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181787,
       "num": 181787,
       "word": "乙类乙管后有哪些应对措施",
@@ -5257,6 +5289,14 @@
       "onboard_time": 1672126473,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177288,
+      "num": 177288,
+      "word": "女子5小时将闲置贵妃椅改独立沙发",
+      "onboard_time": 1672225710,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176836,
@@ -5867,6 +5907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152810,
+      "num": 1231211,
+      "word": "乙类乙管怎么管",
+      "onboard_time": 1672225470,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152740,
       "num": 152740,
       "word": "回来的女儿 赶紧填坑",
@@ -5960,6 +6008,14 @@
       "word": "WB遗憾止步四强",
       "onboard_time": 1671980251,
       "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 148509,
+      "num": 148509,
+      "word": "WBG新阵容首战花盆杯",
+      "onboard_time": 1672226794,
+      "rank": 42,
       "category": "游戏"
     },
     {
@@ -6073,6 +6129,14 @@
       "onboard_time": 1672107928,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145181,
+      "num": 145181,
+      "word": "坐最后一排不是没有道理",
+      "onboard_time": 1672224451,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 145105,
@@ -6217,14 +6281,6 @@
       "onboard_time": 1672132473,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140559,
-      "num": 140559,
-      "word": "坐最后一排不是没有道理",
-      "onboard_time": 1672224451,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 140318,
@@ -6427,12 +6483,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130621,
-      "num": 130621,
-      "word": "16岁学霸女孩急寻救命O型血",
-      "onboard_time": 1672225290,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 130295,
+      "num": 130295,
+      "word": "这狗怎么边跑边稍息",
+      "onboard_time": 1672226672,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 130180,
@@ -6664,14 +6720,6 @@
       "word": "新冠肺炎为何更名新型冠状病毒感染",
       "onboard_time": 1672104149,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118399,
-      "num": 118399,
-      "word": "女子5小时将闲置贵妃椅改独立沙发",
-      "onboard_time": 1672225710,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -6907,6 +6955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99691,
+      "num": 129781,
+      "word": "民航局制定恢复国际客运航班方案",
+      "onboard_time": 1672226191,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99003,
       "num": 99003,
       "word": "WB 花楼",
@@ -6920,14 +6976,6 @@
       "word": "90后小伙三年拍下一百多位老人笑脸",
       "onboard_time": 1672023088,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98923,
-      "num": 1231211,
-      "word": "乙类乙管怎么管",
-      "onboard_time": 1672225470,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -6945,6 +6993,14 @@
       "onboard_time": 1672155327,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93813,
+      "num": 129388,
+      "word": "90后网友花式总结2022",
+      "onboard_time": 1672226431,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93448,
@@ -7099,6 +7155,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 69132,
+      "num": 477075,
+      "word": "淘宝限时开启商品定制",
+      "onboard_time": 1672225231,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 67710,
       "num": 46846,
       "word": "长月烬明",
@@ -7161,14 +7225,6 @@
       "onboard_time": 1671991514,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 50105,
-      "num": 477075,
-      "word": "淘宝限时开启商品定制",
-      "onboard_time": 1672225231,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 48948,
