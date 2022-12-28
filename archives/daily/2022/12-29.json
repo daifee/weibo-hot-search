@@ -1,6 +1,6 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672265826823,
+  "endTime": 1672266797188,
   "band_list": [
     {
       "raw_hot": 1495899,
@@ -403,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86276,
+      "num": 53799,
+      "word": "家中有必要自备血氧仪制氧机吗",
+      "onboard_time": 1672260431,
+      "rank": 11,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 84359,
       "num": 84359,
       "word": "癸卯年蓝兔子邮票引争议",
       "onboard_time": 1672233630,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83108,
-      "num": 43826,
-      "word": "家中有必要自备血氧仪制氧机吗",
-      "onboard_time": 1672260431,
-      "rank": 11,
-      "category": "社会议题"
     },
     {
       "raw_hot": 81970,
@@ -435,20 +435,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78786,
+      "num": 53767,
+      "word": "浙江为60岁以上老人发放防疫包",
+      "onboard_time": 1672261872,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68542,
       "num": 82226,
       "word": "小鸭灯也太可爱了",
       "onboard_time": 1672238075,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 58737,
-      "num": 43636,
-      "word": "浙江为60岁以上老人发放防疫包",
-      "onboard_time": 1672261872,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58250,
