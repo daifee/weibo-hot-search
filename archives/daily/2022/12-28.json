@@ -1,6 +1,6 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672211778299,
+  "endTime": 1672212816410,
   "band_list": [
     {
       "raw_hot": 3219890,
@@ -11,19 +11,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2403593,
+      "num": 961686,
+      "word": "丈夫故意把孩子弄哭丢给发烧妻子",
+      "onboard_time": 1672208368,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2203349,
       "num": 2203349,
       "word": "女子怕被感染20多天没出门",
       "onboard_time": 1672202190,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2140036,
-      "num": 940996,
-      "word": "丈夫故意把孩子弄哭丢给发烧妻子",
-      "onboard_time": 1672208368,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 985880,
+      "num": 985880,
+      "word": "9个奥密克戎亚型毒株正在我国流行",
+      "onboard_time": 1672208071,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 966522,
       "num": 966522,
       "word": "老人去世亲友室外冒雪吃席",
@@ -139,8 +147,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 930925,
-      "num": 930925,
+      "raw_hot": 954764,
+      "num": 954764,
       "word": "郑新黄河大桥交通事故已致1人死亡",
       "onboard_time": 1672208486,
       "rank": 31,
@@ -161,6 +169,14 @@
       "onboard_time": 1672152813,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 875550,
+      "num": 875550,
+      "word": "大厂为何做不出羊了个羊",
+      "onboard_time": 1672209149,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 844900,
@@ -187,14 +203,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 807535,
-      "num": 807535,
-      "word": "大厂为何做不出羊了个羊",
-      "onboard_time": 1672209149,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 803582,
       "num": 803582,
       "word": "蔡徐坤张艺兴鹿晗微博音乐盛典年度推荐歌手",
@@ -219,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 782945,
-      "num": 782945,
-      "word": "9个奥密克戎亚型毒株正在我国流行",
+      "raw_hot": 776454,
+      "num": 776454,
+      "word": "张子枫回应评价她是00后小花里最会演戏的",
       "onboard_time": 1672208071,
-      "rank": 43,
-      "category": "社会新闻"
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 774922,
@@ -291,20 +299,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 639286,
-      "num": 639286,
-      "word": "张子枫回应评价她是00后小花里最会演戏的",
-      "onboard_time": 1672208071,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 634310,
       "num": 634310,
       "word": "女子100万投资基金到期损失98万",
       "onboard_time": 1672183281,
       "rank": 30,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 598950,
+      "num": 598950,
+      "word": "女生发烧42度狗狗守其身边不停舔舐",
+      "onboard_time": 1672209029,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 586486,
@@ -379,20 +387,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 518375,
+      "num": 518375,
+      "word": "冰墩墩变身兔墩墩",
+      "onboard_time": 1672209449,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515291,
       "num": 478268,
       "word": "易烊千玺车内氛围感随拍",
       "onboard_time": 1672196248,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 513989,
-      "num": 513989,
-      "word": "女生发烧42度狗狗守其身边不停舔舐",
-      "onboard_time": 1672209029,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 508530,
@@ -416,14 +424,6 @@
       "word": "咳嗽是人体一种保护机制",
       "onboard_time": 1672178832,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 481551,
-      "num": 481551,
-      "word": "冰墩墩变身兔墩墩",
-      "onboard_time": 1672209449,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -465,6 +465,14 @@
       "onboard_time": 1672185326,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437074,
+      "num": 437074,
+      "word": "周深提醒粉丝不要被自己隐形的翅膀挡到",
+      "onboard_time": 1672211071,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 429726,
@@ -563,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374215,
+      "num": 374215,
+      "word": "GOT7或将明年完整体回归",
+      "onboard_time": 1672211249,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373983,
       "num": 373983,
       "word": "老年人感染初期可能只是低烧",
@@ -584,14 +600,6 @@
       "word": "这几年谢谢脱口秀",
       "onboard_time": 1672194989,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 366898,
-      "num": 366898,
-      "word": "周深提醒粉丝不要被自己隐形的翅膀挡到",
-      "onboard_time": 1672211071,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -667,6 +675,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 332188,
+      "num": 332188,
+      "word": "东八区的先生们将在韩国播出",
+      "onboard_time": 1672212748,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 331894,
+      "num": 331894,
+      "word": "武侠剧打戏终于不是慢镜头了",
+      "onboard_time": 1672211429,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321294,
       "num": 321294,
       "word": "张亮儿子回应网络传言",
@@ -731,6 +755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297995,
+      "num": 340411,
+      "word": "女子炙甘草止咳被医学生留言指正",
+      "onboard_time": 1672210349,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292724,
       "num": 292724,
       "word": "女子靠黑魔法挽回前任被骗1万多",
@@ -752,6 +784,14 @@
       "word": "白肺并不是肺变白了",
       "onboard_time": 1672192530,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291026,
+      "num": 291026,
+      "word": "是失去了味觉不是胃觉",
+      "onboard_time": 1672210831,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -787,20 +827,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269908,
+      "num": 219217,
+      "word": "浮图缘台词梦回苍兰诀",
+      "onboard_time": 1672211608,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269092,
       "num": 269092,
       "word": "伊甸园",
       "onboard_time": 1672185506,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266584,
-      "num": 214016,
-      "word": "GOT7或将明年完整体回归",
-      "onboard_time": 1672211249,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 265347,
@@ -851,14 +891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 236981,
-      "num": 213779,
-      "word": "女子炙甘草止咳被医学生留言指正",
-      "onboard_time": 1672210349,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236158,
       "num": 236158,
       "word": "杨紫迪丽热巴同款公主头造型",
@@ -897,14 +929,6 @@
       "onboard_time": 1672193547,
       "rank": 30,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 207591,
-      "num": 207591,
-      "word": "武侠剧打戏终于不是慢镜头了",
-      "onboard_time": 1672211429,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 206418,
@@ -979,20 +1003,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197371,
+      "num": 197371,
+      "word": "村民自带面油排2小时队压辣条",
+      "onboard_time": 1672207289,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195246,
       "num": 195246,
       "word": "范子铭向郭艾伦道歉",
       "onboard_time": 1672156585,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195224,
-      "num": 195224,
-      "word": "是失去了味觉不是胃觉",
-      "onboard_time": 1672210831,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195119,
@@ -1027,14 +1051,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 193704,
-      "num": 193704,
-      "word": "村民自带面油排2小时队压辣条",
-      "onboard_time": 1672207289,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192084,
       "num": 192084,
       "word": "女子阳过后洗头发掉了一大把",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1672188811,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183927,
+      "num": 183927,
+      "word": "18个普通人故事登上十城小事报",
+      "onboard_time": 1672212089,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180176,
@@ -1113,6 +1137,14 @@
       "onboard_time": 1672201771,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169589,
+      "num": 169589,
+      "word": "李子柒归来江湖已变天",
+      "onboard_time": 1672212392,
+      "rank": 42,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 166543,
@@ -1185,6 +1217,14 @@
       "onboard_time": 1672204172,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 159100,
+      "num": 159100,
+      "word": "热衷9键的设计师",
+      "onboard_time": 1672211967,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 158235,
@@ -1299,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146628,
+      "num": 146628,
+      "word": "婆婆给儿媳寄9只鸡5亩地菜干邮费1千",
+      "onboard_time": 1672212569,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145532,
       "num": 145532,
       "word": "专家称明年房地产或出现报复性反弹",
@@ -1321,6 +1369,14 @@
       "onboard_time": 1672195888,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139375,
+      "num": 139375,
+      "word": "奥比岛",
+      "onboard_time": 1672211729,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 138385,
@@ -1465,14 +1521,6 @@
       "onboard_time": 1672211668,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113659,
-      "num": 113659,
-      "word": "奥比岛",
-      "onboard_time": 1672211729,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 113609,
