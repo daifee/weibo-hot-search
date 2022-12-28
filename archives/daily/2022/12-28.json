@@ -1,6 +1,6 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672238012990,
+  "endTime": 1672240690398,
   "band_list": [
     {
       "raw_hot": 3248447,
@@ -16,6 +16,14 @@
       "word": "我拉黑了我姑姑",
       "onboard_time": 1672184964,
       "rank": 0,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 2446053,
+      "num": 2446053,
+      "word": "建议专家们不要提建议了",
+      "onboard_time": 1672236816,
+      "rank": 44,
       "category": "情感"
     },
     {
@@ -152,6 +160,14 @@
       "word": "婆婆给儿媳寄9只鸡5亩地菜干邮费1千",
       "onboard_time": 1672212569,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1316833,
+      "num": 1316833,
+      "word": "感染新冠两周后心肌会有反应",
+      "onboard_time": 1672237656,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -459,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 743010,
+      "num": 743010,
+      "word": "回来的女儿 高开低走",
+      "onboard_time": 1672237053,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 716306,
       "num": 716306,
       "word": "主人欲杀狗吃肉女子掏钱救下",
@@ -579,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 572523,
-      "num": 515727,
-      "word": "回来的女儿 高开低走",
-      "onboard_time": 1672237053,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 568051,
       "num": 568051,
       "word": "救命的排痰姿势",
@@ -673,14 +689,6 @@
       "onboard_time": 1672235794,
       "rank": 16,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 526551,
-      "num": 526551,
-      "word": "建议专家们不要提建议了",
-      "onboard_time": 1672236816,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 526391,
@@ -819,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466010,
+      "num": 466010,
+      "word": "爱德朱爆料Scout转会内幕",
+      "onboard_time": 1672237656,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 445800,
       "num": 445800,
       "word": "外交部回应台湾当局延长兵役期",
@@ -857,6 +873,14 @@
       "onboard_time": 1672185326,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439099,
+      "num": 439099,
+      "word": "seventeen雅加达暴雨舞台",
+      "onboard_time": 1672237594,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 437074,
@@ -961,14 +985,6 @@
       "onboard_time": 1672149455,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 394269,
-      "num": 165184,
-      "word": "seventeen雅加达暴雨舞台",
-      "onboard_time": 1672237594,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 393614,
@@ -1099,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357593,
+      "num": 357593,
+      "word": "山东小村卖二手拖拉机年流水十几亿",
+      "onboard_time": 1672237473,
+      "rank": 27,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 355150,
       "num": 355150,
       "word": "当代年轻人跨年只办三件事",
@@ -1131,6 +1155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 345649,
+      "num": 345649,
+      "word": "Viper回韩国原因曝光",
+      "onboard_time": 1672239692,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 342727,
       "num": 342727,
       "word": "关晓彤说自己太喜欢过节",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1672198767,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335411,
+      "num": 335411,
+      "word": "吕布怒海麟威新皮肤",
+      "onboard_time": 1672238313,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 333416,
@@ -1201,6 +1241,14 @@
       "onboard_time": 1672227451,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323714,
+      "num": 276537,
+      "word": "刘宇宁直播说安乐传配音配完了",
+      "onboard_time": 1672239571,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 321294,
@@ -1323,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297508,
+      "num": 297508,
+      "word": "武汉120事故肇事急救车司机被刑拘",
+      "onboard_time": 1672236934,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293270,
       "num": 204086,
       "word": "檀健次保留菜单炒螺蛳粉",
@@ -1419,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274588,
+      "num": 274588,
+      "word": "重庆狼队",
+      "onboard_time": 1672239633,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 273429,
       "num": 273429,
       "word": "范子铭",
@@ -1457,6 +1521,14 @@
       "onboard_time": 1672236397,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264714,
+      "num": 264714,
+      "word": "男子特快邮寄申博资料滞留15日过期",
+      "onboard_time": 1672237891,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 263104,
@@ -1579,6 +1651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235343,
+      "num": 235343,
+      "word": "这才是真正的爱情吧",
+      "onboard_time": 1672237714,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233334,
       "num": 148045,
       "word": "宫胁咲良歌谣大战横版直拍",
@@ -1593,6 +1673,14 @@
       "onboard_time": 1672229852,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231733,
+      "num": 231733,
+      "word": "还以为是发配宁古塔的路上",
+      "onboard_time": 1672238135,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 230513,
@@ -1803,20 +1891,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196730,
-      "num": 196730,
-      "word": "山东小村卖二手拖拉机年流水十几亿",
-      "onboard_time": 1672237473,
-      "rank": 27,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 195246,
       "num": 195246,
       "word": "范子铭向郭艾伦道歉",
       "onboard_time": 1672156585,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195211,
+      "num": 195211,
+      "word": "东北冬天的雪糕摊子",
+      "onboard_time": 1672239211,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 195119,
@@ -2051,14 +2139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163288,
-      "num": 163288,
-      "word": "感染新冠两周后心肌会有反应",
-      "onboard_time": 1672237656,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160017,
       "num": 160017,
       "word": "张杰新歌 不熄的光",
@@ -2145,6 +2225,14 @@
       "onboard_time": 1672197988,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152696,
+      "num": 152696,
+      "word": "小鸭灯也太可爱了",
+      "onboard_time": 1672238075,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 152167,
@@ -2307,6 +2395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138374,
+      "num": 138374,
+      "word": "已经期待明年夏天的西瓜了",
+      "onboard_time": 1672238913,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137849,
       "num": 137849,
       "word": "湖人战胜魔术",
@@ -2353,14 +2449,6 @@
       "onboard_time": 1672185746,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133142,
-      "num": 133142,
-      "word": "爱德朱爆料Scout转会内幕",
-      "onboard_time": 1672237656,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 132855,
@@ -2417,14 +2505,6 @@
       "onboard_time": 1672187067,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127572,
-      "num": 127572,
-      "word": "男子特快邮寄申博资料滞留15日过期",
-      "onboard_time": 1672237891,
-      "rank": 44,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 125748,
@@ -2539,6 +2619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114386,
+      "num": 1115679,
+      "word": "关于白肺和变异株的5个热点问答",
+      "onboard_time": 1672238674,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113609,
       "num": 94682,
       "word": "田小娟确诊新冠",
@@ -2563,6 +2651,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 108133,
+      "num": 130773,
+      "word": "这头猪看起来好像很拽",
+      "onboard_time": 1672240292,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107800,
       "num": 94325,
       "word": "倪妮白宇新剧打戏好带感",
@@ -2577,14 +2673,6 @@
       "onboard_time": 1672192229,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102786,
-      "num": 230849,
-      "word": "武汉120事故肇事急救车司机被刑拘",
-      "onboard_time": 1672236934,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102103,

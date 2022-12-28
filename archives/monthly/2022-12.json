@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672238012990,
+  "endTime": 1672240690398,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1671673828,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2446053,
+      "num": 2446053,
+      "word": "建议专家们不要提建议了",
+      "onboard_time": 1672236816,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 2441935,
@@ -4641,6 +4649,14 @@
       "onboard_time": 1671090205,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1316833,
+      "num": 1316833,
+      "word": "感染新冠两周后心肌会有反应",
+      "onboard_time": 1672237656,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1316763,
@@ -11259,6 +11275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 743010,
+      "num": 743010,
+      "word": "回来的女儿 高开低走",
+      "onboard_time": 1672237053,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 741565,
       "num": 741565,
       "word": "75元抗原卖200多被罚20万",
@@ -15939,14 +15963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 572523,
-      "num": 515727,
-      "word": "回来的女儿 高开低走",
-      "onboard_time": 1672237053,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 571918,
       "num": 399616,
       "word": "肖战五号病人90度鞠躬谢幕",
@@ -17625,14 +17641,6 @@
       "onboard_time": 1670591660,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 526551,
-      "num": 526551,
-      "word": "建议专家们不要提建议了",
-      "onboard_time": 1672236816,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 526500,
@@ -20163,6 +20171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466010,
+      "num": 466010,
+      "word": "爱德朱爆料Scout转会内幕",
+      "onboard_time": 1672237656,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 465921,
       "num": 465921,
       "word": "养女大学毕业带回十年多年亲儿",
@@ -21385,6 +21401,14 @@
       "onboard_time": 1670370426,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439099,
+      "num": 439099,
+      "word": "seventeen雅加达暴雨舞台",
+      "onboard_time": 1672237594,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 438833,
@@ -24139,14 +24163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 394269,
-      "num": 165184,
-      "word": "seventeen雅加达暴雨舞台",
-      "onboard_time": 1672237594,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 394157,
       "num": 394157,
       "word": "肖战和如梦之梦演员后台合唱十年",
@@ -26323,6 +26339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 357593,
+      "num": 357593,
+      "word": "山东小村卖二手拖拉机年流水十几亿",
+      "onboard_time": 1672237473,
+      "rank": 27,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 357509,
       "num": 357509,
       "word": "圣诞写真拍成这样可以退款吗",
@@ -27211,6 +27235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 345649,
+      "num": 345649,
+      "word": "Viper回韩国原因曝光",
+      "onboard_time": 1672239692,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 345397,
       "num": 345397,
       "word": "2023LCK",
@@ -27993,6 +28025,14 @@
       "onboard_time": 1670469433,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335411,
+      "num": 335411,
+      "word": "吕布怒海麟威新皮肤",
+      "onboard_time": 1672238313,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 335342,
@@ -29017,6 +29057,14 @@
       "onboard_time": 1670241911,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323714,
+      "num": 276537,
+      "word": "刘宇宁直播说安乐传配音配完了",
+      "onboard_time": 1672239571,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 323634,
@@ -31313,6 +31361,14 @@
       "onboard_time": 1672140454,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 297508,
+      "num": 297508,
+      "word": "武汉120事故肇事急救车司机被刑拘",
+      "onboard_time": 1672236934,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297215,
@@ -33651,6 +33707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274588,
+      "num": 274588,
+      "word": "重庆狼队",
+      "onboard_time": 1672239633,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 274564,
       "num": 291741,
       "word": "马斯克称自己被枪杀可能性很大",
@@ -34657,6 +34721,14 @@
       "onboard_time": 1671917831,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264714,
+      "num": 264714,
+      "word": "男子特快邮寄申博资料滞留15日过期",
+      "onboard_time": 1672237891,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 264618,
@@ -37891,6 +37963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235343,
+      "num": 235343,
+      "word": "这才是真正的爱情吧",
+      "onboard_time": 1672237714,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235334,
       "num": 235334,
       "word": "蒲熠星说为了团队拼了",
@@ -38296,6 +38376,14 @@
       "word": "羊圈里叫的都没这么标准",
       "onboard_time": 1671781288,
       "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 231733,
+      "num": 231733,
+      "word": "还以为是发配宁古塔的路上",
+      "onboard_time": 1672238135,
+      "rank": 26,
       "category": "幽默"
     },
     {
@@ -43123,14 +43211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196730,
-      "num": 196730,
-      "word": "山东小村卖二手拖拉机年流水十几亿",
-      "onboard_time": 1672237473,
-      "rank": 27,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 196726,
       "num": 160231,
       "word": "enhypen 舞台",
@@ -43545,6 +43625,14 @@
       "onboard_time": 1670480954,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195211,
+      "num": 195211,
+      "word": "东北冬天的雪糕摊子",
+      "onboard_time": 1672239211,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 195170,
@@ -50219,14 +50307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163288,
-      "num": 163288,
-      "word": "感染新冠两周后心肌会有反应",
-      "onboard_time": 1672237656,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163233,
       "num": 163233,
       "word": "李雪琴回应被小鲜肉追",
@@ -52401,6 +52481,14 @@
       "onboard_time": 1672115433,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152696,
+      "num": 152696,
+      "word": "小鸭灯也太可爱了",
+      "onboard_time": 1672238075,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 152633,
@@ -55643,6 +55731,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 138374,
+      "num": 138374,
+      "word": "已经期待明年夏天的西瓜了",
+      "onboard_time": 1672238913,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138330,
       "num": 138330,
       "word": "哪一瞬间意识到父母变老了",
@@ -56680,14 +56776,6 @@
       "word": "原神3.3",
       "onboard_time": 1670382851,
       "rank": 37,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 133142,
-      "num": 133142,
-      "word": "爱德朱爆料Scout转会内幕",
-      "onboard_time": 1672237656,
-      "rank": 41,
       "category": "游戏"
     },
     {
@@ -57817,14 +57905,6 @@
       "onboard_time": 1669908851,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 127572,
-      "num": 127572,
-      "word": "男子特快邮寄申博资料滞留15日过期",
-      "onboard_time": 1672237891,
-      "rank": 44,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 127570,
@@ -60323,6 +60403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114386,
+      "num": 1115679,
+      "word": "关于白肺和变异株的5个热点问答",
+      "onboard_time": 1672238674,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114383,
       "num": 130946,
       "word": "阿根廷球员朝荷兰球员做鬼脸庆祝",
@@ -61371,6 +61459,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 108133,
+      "num": 130773,
+      "word": "这头猪看起来好像很拽",
+      "onboard_time": 1672240292,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107930,
       "num": 107930,
       "word": "seventeenFNS舞台DREAM",
@@ -62265,14 +62361,6 @@
       "onboard_time": 1670610313,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102786,
-      "num": 230849,
-      "word": "武汉120事故肇事急救车司机被刑拘",
-      "onboard_time": 1672236934,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102768,

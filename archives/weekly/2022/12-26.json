@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672238012990,
+  "endTime": 1672240690398,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -105,6 +105,14 @@
       "onboard_time": 1672046910,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2446053,
+      "num": 2446053,
+      "word": "建议专家们不要提建议了",
+      "onboard_time": 1672236816,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 2406560,
@@ -496,6 +504,14 @@
       "word": "你还在咳咳咳吗",
       "onboard_time": 1672108048,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1316833,
+      "num": 1316833,
+      "word": "感染新冠两周后心肌会有反应",
+      "onboard_time": 1672237656,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1331,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 743010,
+      "num": 743010,
+      "word": "回来的女儿 高开低走",
+      "onboard_time": 1672237053,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 727856,
       "num": 727856,
       "word": "于正感染新冠两天后转阴",
@@ -1843,14 +1867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 572523,
-      "num": 515727,
-      "word": "回来的女儿 高开低走",
-      "onboard_time": 1672237053,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 568636,
       "num": 568636,
       "word": "阳了一直咳会不会得肺炎",
@@ -2057,14 +2073,6 @@
       "onboard_time": 1672112190,
       "rank": 14,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 526551,
-      "num": 526551,
-      "word": "建议专家们不要提建议了",
-      "onboard_time": 1672236816,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 526391,
@@ -2411,6 +2419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466010,
+      "num": 466010,
+      "word": "爱德朱爆料Scout转会内幕",
+      "onboard_time": 1672237656,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 465539,
       "num": 465539,
       "word": "姐姐打翻汤锅5岁妹妹双腿被烫伤",
@@ -2521,6 +2537,14 @@
       "onboard_time": 1672018048,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439099,
+      "num": 439099,
+      "word": "seventeen雅加达暴雨舞台",
+      "onboard_time": 1672237594,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 437074,
@@ -2785,14 +2809,6 @@
       "onboard_time": 1672147413,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 394269,
-      "num": 165184,
-      "word": "seventeen雅加达暴雨舞台",
-      "onboard_time": 1672237594,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 393614,
@@ -3099,6 +3115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 357593,
+      "num": 357593,
+      "word": "山东小村卖二手拖拉机年流水十几亿",
+      "onboard_time": 1672237473,
+      "rank": 27,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 355200,
       "num": 355200,
       "word": "免费赠药需要写免责声明吗",
@@ -3169,6 +3193,14 @@
       "onboard_time": 1672143392,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345649,
+      "num": 345649,
+      "word": "Viper回韩国原因曝光",
+      "onboard_time": 1672239692,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 345188,
@@ -3257,6 +3289,14 @@
       "onboard_time": 1672110929,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 335411,
+      "num": 335411,
+      "word": "吕布怒海麟威新皮肤",
+      "onboard_time": 1672238313,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 334337,
@@ -3385,6 +3425,14 @@
       "onboard_time": 1672023870,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 323714,
+      "num": 276537,
+      "word": "刘宇宁直播说安乐传配音配完了",
+      "onboard_time": 1672239571,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 322384,
@@ -3667,6 +3715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297508,
+      "num": 297508,
+      "word": "武汉120事故肇事急救车司机被刑拘",
+      "onboard_time": 1672236934,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297016,
       "num": 193240,
       "word": "首波新冠感染高峰冲击下的医院",
@@ -3923,6 +3979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274588,
+      "num": 274588,
+      "word": "重庆狼队",
+      "onboard_time": 1672239633,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 274496,
       "num": 274496,
       "word": "北京多家社区卫生中心收到辉瑞新冠药培训通知",
@@ -4009,6 +4073,14 @@
       "onboard_time": 1672236397,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264714,
+      "num": 264714,
+      "word": "男子特快邮寄申博资料滞留15日过期",
+      "onboard_time": 1672237891,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 264161,
@@ -4403,6 +4475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235343,
+      "num": 235343,
+      "word": "这才是真正的爱情吧",
+      "onboard_time": 1672237714,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233909,
       "num": 233909,
       "word": "这算是跨年失败了",
@@ -4457,6 +4537,14 @@
       "onboard_time": 1672056152,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231733,
+      "num": 231733,
+      "word": "还以为是发配宁古塔的路上",
+      "onboard_time": 1672238135,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 230513,
@@ -5171,14 +5259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196730,
-      "num": 196730,
-      "word": "山东小村卖二手拖拉机年流水十几亿",
-      "onboard_time": 1672237473,
-      "rank": 27,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 196587,
       "num": 196587,
       "word": "抗新冠病毒药物该怎么用",
@@ -5233,6 +5313,14 @@
       "onboard_time": 1672156585,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195211,
+      "num": 195211,
+      "word": "东北冬天的雪糕摊子",
+      "onboard_time": 1672239211,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 195119,
@@ -5995,14 +6083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 163288,
-      "num": 163288,
-      "word": "感染新冠两周后心肌会有反应",
-      "onboard_time": 1672237656,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163023,
       "num": 148539,
       "word": "孔雪儿刘些宁同框杂志大片",
@@ -6297,6 +6377,14 @@
       "onboard_time": 1672115433,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152696,
+      "num": 152696,
+      "word": "小鸭灯也太可爱了",
+      "onboard_time": 1672238075,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 152502,
@@ -6747,6 +6835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138374,
+      "num": 138374,
+      "word": "已经期待明年夏天的西瓜了",
+      "onboard_time": 1672238913,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137849,
       "num": 137849,
       "word": "湖人战胜魔术",
@@ -6867,14 +6963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 133142,
-      "num": 133142,
-      "word": "爱德朱爆料Scout转会内幕",
-      "onboard_time": 1672237656,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 132855,
       "num": 132855,
       "word": "陕西韩城一高中生虐猫",
@@ -6977,14 +7065,6 @@
       "onboard_time": 1672187067,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127572,
-      "num": 127572,
-      "word": "男子特快邮寄申博资料滞留15日过期",
-      "onboard_time": 1672237891,
-      "rank": 44,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 126909,
@@ -7203,6 +7283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114386,
+      "num": 1115679,
+      "word": "关于白肺和变异株的5个热点问答",
+      "onboard_time": 1672238674,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113661,
       "num": 113661,
       "word": "秦岭翠华山雪意涔涔银霜遍地",
@@ -7273,6 +7361,14 @@
       "onboard_time": 1672121189,
       "rank": 45,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 108133,
+      "num": 130773,
+      "word": "这头猪看起来好像很拽",
+      "onboard_time": 1672240292,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 107876,
@@ -7392,14 +7488,6 @@
       "word": "民政局回应下意识逃走残疾摊主没低保",
       "onboard_time": 1671964892,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102786,
-      "num": 230849,
-      "word": "武汉120事故肇事急救车司机被刑拘",
-      "onboard_time": 1672236934,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
