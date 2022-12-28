@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/28 11:19:51
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/28 11:34:26
 </p>
 </blockquote>
 <p>
@@ -2745,6 +2745,12 @@ NMIXX成员JINNI退团（热度：1508200）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%A8%E5%88%86%E5%9B%BD%E5%AE%B6%E5%AF%B9%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%97%85%E5%AE%A2%E6%9F%A5%E6%A0%B8%E9%85%B8%23" target="weibo">
+部分国家对来自中国的旅客查核酸（热度：1490396）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%8D%8A%E5%9C%BA0%E6%AF%940%E5%B7%B4%E8%A5%BF%23" target="weibo">
 克罗地亚半场0比0巴西（热度：1489329）
 </a>
@@ -2813,12 +2819,6 @@ NMIXX成员JINNI退团（热度：1508200）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%93%BC%20hero%23" target="weibo">
 猪哼 hero（热度：1464619）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%A8%E5%88%86%E5%9B%BD%E5%AE%B6%E5%AF%B9%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%97%85%E5%AE%A2%E6%9F%A5%E6%A0%B8%E9%85%B8%23" target="weibo">
-部分国家对来自中国的旅客查核酸（热度：1463040）
 </a>
 </li>
 
