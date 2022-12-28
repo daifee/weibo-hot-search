@@ -1,6 +1,6 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672266797188,
+  "endTime": 1672269475316,
   "band_list": [
     {
       "raw_hot": 1495899,
@@ -171,6 +171,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 183114,
+      "num": 183114,
+      "word": "李子柒归来江湖已变天",
+      "onboard_time": 1672212392,
+      "rank": 31,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 178883,
       "num": 178883,
       "word": "浮图缘删减戏份",
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164590,
+      "num": 164590,
+      "word": "浙江为60岁以上老人发放防疫包",
+      "onboard_time": 1672261872,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164397,
       "num": 164397,
       "word": "浮图缘",
@@ -217,14 +233,6 @@
       "onboard_time": 1672214551,
       "rank": 30,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 155485,
-      "num": 130364,
-      "word": "李子柒归来江湖已变天",
-      "onboard_time": 1672212392,
-      "rank": 31,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 155278,
@@ -379,6 +387,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 107654,
+      "num": 107654,
+      "word": "家中有必要自备血氧仪制氧机吗",
+      "onboard_time": 1672260431,
+      "rank": 11,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 105065,
       "num": 105065,
       "word": "你买的草莓塔塌了吗",
@@ -403,12 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86276,
-      "num": 53799,
-      "word": "家中有必要自备血氧仪制氧机吗",
-      "onboard_time": 1672260431,
-      "rank": 11,
-      "category": "社会议题"
+      "raw_hot": 90156,
+      "num": 90156,
+      "word": "张凌赫云之羽旁边的白衣服",
+      "onboard_time": 1672268775,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 84750,
+      "num": 70976,
+      "word": "内马尔 法甲",
+      "onboard_time": 1672269317,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 84359,
@@ -435,12 +459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78786,
-      "num": 53767,
-      "word": "浙江为60岁以上老人发放防疫包",
-      "onboard_time": 1672261872,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 69662,
+      "num": 69662,
+      "word": "Viper",
+      "onboard_time": 1672269198,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 68542,
@@ -475,12 +499,36 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 55093,
+      "num": 55093,
+      "word": "特效的尽头是实拍",
+      "onboard_time": 1672267935,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 45113,
+      "num": 45113,
+      "word": "女子感染新冠后长出浓密胡子",
+      "onboard_time": 1672269377,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41054,
       "num": 41054,
       "word": "未定事件簿",
       "onboard_time": 1672250295,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 37932,
+      "num": 37932,
+      "word": "顶流冰墩墩回归",
+      "onboard_time": 1672268717,
+      "rank": 48,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
