@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672247748216,
+  "endTime": 1672248811345,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -4571,6 +4571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231528,
+      "num": 155904,
+      "word": "如何判断男团成员的友谊",
+      "onboard_time": 1672246279,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230513,
       "num": 190957,
       "word": "徐志胜说跟何广智默契度为0",
@@ -5089,14 +5097,6 @@
       "onboard_time": 1672051832,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 204189,
-      "num": 155904,
-      "word": "如何判断男团成员的友谊",
-      "onboard_time": 1672246279,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 203524,
@@ -7067,6 +7067,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 131573,
+      "num": 131573,
+      "word": "警方回应警车占用盲道充电",
+      "onboard_time": 1672244843,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130911,
       "num": 130911,
       "word": "当猫咪被抓包后的反应",
@@ -7225,14 +7233,6 @@
       "onboard_time": 1672039952,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 123800,
-      "num": 123800,
-      "word": "警方回应警车占用盲道充电",
-      "onboard_time": 1672244843,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123329,
@@ -7571,6 +7571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102814,
+      "num": 102814,
+      "word": "你买的草莓塔塌了吗",
+      "onboard_time": 1672246519,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 99947,
       "num": 99947,
       "word": "2022年最后5天",
@@ -7683,12 +7691,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82263,
-      "num": 82263,
-      "word": "你买的草莓塔塌了吗",
-      "onboard_time": 1672246519,
-      "rank": 26,
-      "category": "美食"
+      "raw_hot": 85372,
+      "num": 85372,
+      "word": "浙江一商场卫生间无纸可挥旗求助",
+      "onboard_time": 1672246101,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82226,
@@ -7849,14 +7857,6 @@
       "onboard_time": 1672244663,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 57096,
-      "num": 57096,
-      "word": "浙江一商场卫生间无纸可挥旗求助",
-      "onboard_time": 1672246101,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55595,

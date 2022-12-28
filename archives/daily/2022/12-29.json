@@ -1,6 +1,6 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672247748216,
+  "endTime": 1672248811345,
   "band_list": [
     {
       "raw_hot": 1495899,
@@ -123,6 +123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231528,
+      "num": 155904,
+      "word": "如何判断男团成员的友谊",
+      "onboard_time": 1672246279,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229415,
       "num": 229415,
       "word": "爱德朱爆料Scout转会内幕",
@@ -153,14 +161,6 @@
       "onboard_time": 1672234774,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204189,
-      "num": 155904,
-      "word": "如何判断男团成员的友谊",
-      "onboard_time": 1672246279,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 203113,
@@ -307,6 +307,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 131573,
+      "num": 131573,
+      "word": "警方回应警车占用盲道充电",
+      "onboard_time": 1672244843,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126712,
       "num": 100927,
       "word": "回来的女儿",
@@ -320,14 +328,6 @@
       "word": "网民谎称5天2次感染不同毒株被拘",
       "onboard_time": 1672232494,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123800,
-      "num": 123800,
-      "word": "警方回应警车占用盲道充电",
-      "onboard_time": 1672244843,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -371,11 +371,27 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 102814,
+      "num": 102814,
+      "word": "你买的草莓塔塌了吗",
+      "onboard_time": 1672246519,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 93982,
       "num": 93982,
       "word": "妈妈转阴后上班5岁儿子独自做家务",
       "onboard_time": 1672233451,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85372,
+      "num": 85372,
+      "word": "浙江一商场卫生间无纸可挥旗求助",
+      "onboard_time": 1672246101,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -385,14 +401,6 @@
       "onboard_time": 1672233630,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82263,
-      "num": 82263,
-      "word": "你买的草莓塔塌了吗",
-      "onboard_time": 1672246519,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 81970,
@@ -433,14 +441,6 @@
       "onboard_time": 1672244663,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 57096,
-      "num": 57096,
-      "word": "浙江一商场卫生间无纸可挥旗求助",
-      "onboard_time": 1672246101,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55295,
