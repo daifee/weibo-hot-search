@@ -1,0 +1,410 @@
+{
+  "runTime": 1672202228996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1695646,
+        "num": 1695646,
+        "word": "女生病假期上9天班反欠公司三百多",
+        "onboard_time": 1672198408,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1437153,
+        "num": 1437153,
+        "word": "李子柒即将复出",
+        "onboard_time": 1672200090,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38120,
+        "num": 1155753,
+        "word": "90秒超燃回顾中国航天这一年",
+        "onboard_time": 1672197147,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999156,
+        "num": 999156,
+        "word": "二次感染同一毒株概率有多大",
+        "onboard_time": 1672196368,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844900,
+        "num": 844900,
+        "word": "白肺欺软怕硬",
+        "onboard_time": 1672199790,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826958,
+        "num": 826958,
+        "word": "梅西世界杯住房被做成博物馆",
+        "onboard_time": 1672197749,
+        "rank": 5,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 650955,
+        "num": 650955,
+        "word": "失眠可能是肺出现了问题",
+        "onboard_time": 1672156286,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560303,
+        "num": 560303,
+        "word": "谁心疼张婉婷",
+        "onboard_time": 1672192707,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491648,
+        "num": 491648,
+        "word": "郑新黄河大桥大雾天数十辆车相撞",
+        "onboard_time": 1672199249,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 470119,
+        "num": 470119,
+        "word": "长沙下雪",
+        "onboard_time": 1672198649,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1327611,
+        "num": 457493,
+        "word": "我拉黑了我姑姑",
+        "onboard_time": 1672184964,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 801677,
+        "num": 452220,
+        "word": "东契奇绝平",
+        "onboard_time": 1672201233,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 688868,
+        "num": 441527,
+        "word": "主人欲杀狗吃肉女子掏钱救下",
+        "onboard_time": 1672199488,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586486,
+        "num": 423534,
+        "word": "黄明昊 空降",
+        "onboard_time": 1672201829,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418251,
+        "num": 418251,
+        "word": "女子阳后卧床3天家变垃圾场",
+        "onboard_time": 1672189889,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525178,
+        "num": 413135,
+        "word": "部分国家对来自中国的旅客查核酸",
+        "onboard_time": 1672193309,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406935,
+        "num": 406935,
+        "word": "光与夜之恋",
+        "onboard_time": 1672200751,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 395847,
+        "num": 395847,
+        "word": "上海女生晒老公8个月自制手工礼物",
+        "onboard_time": 1672198649,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393614,
+        "num": 393614,
+        "word": "东契奇 神",
+        "onboard_time": 1672201771,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353393,
+        "num": 353393,
+        "word": "王鹤棣浮图缘给陈钰琪梳妆花絮",
+        "onboard_time": 1672201529,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338001,
+        "num": 338001,
+        "word": "丈夫给阳性妻子送饭后飞快盖隔板",
+        "onboard_time": 1672199309,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330131,
+        "num": 330131,
+        "word": "中国足协回应武汉三镇声明",
+        "onboard_time": 1672195169,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329474,
+        "num": 329474,
+        "word": "白敬亭宋轶长风渡预约人数破百万",
+        "onboard_time": 1672197690,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305329,
+        "num": 305329,
+        "word": "中国足协望武汉三镇提供黑暗势力证据",
+        "onboard_time": 1672198767,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283491,
+        "num": 283491,
+        "word": "男子网购玫瑰拆开发现1枚子弹",
+        "onboard_time": 1672188570,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277082,
+        "num": 277082,
+        "word": "张朝阳称地球不存在全黑的地方",
+        "onboard_time": 1672199127,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270766,
+        "num": 270766,
+        "word": "Hero 紫幻",
+        "onboard_time": 1672182798,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264878,
+        "num": 264878,
+        "word": "易烊千玺车内氛围感随拍",
+        "onboard_time": 1672196248,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261486,
+        "num": 261486,
+        "word": "这几年谢谢脱口秀",
+        "onboard_time": 1672194989,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261110,
+        "num": 261110,
+        "word": "马斯克被曝身边充斥着马屁精",
+        "onboard_time": 1672195108,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 311164,
+        "num": 258092,
+        "word": "多方回应女大学生被误诊艾滋病",
+        "onboard_time": 1672200869,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250038,
+        "num": 250038,
+        "word": "Giselle回应合作曲part只有3秒",
+        "onboard_time": 1672191868,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227541,
+        "num": 227541,
+        "word": "时代少年团东方卫视跨年盛典VCR",
+        "onboard_time": 1672200869,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222681,
+        "num": 222681,
+        "word": "白肺并不是肺变白了",
+        "onboard_time": 1672192530,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219116,
+        "num": 219116,
+        "word": "乾清宫正大光明匾被阳光点亮全程",
+        "onboard_time": 1672196849,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 217161,
+        "num": 217161,
+        "word": "今天是李峋朱韵结婚三周年",
+        "onboard_time": 1672193489,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216522,
+        "num": 216522,
+        "word": "沉香如屑安徽卫视今晚开播",
+        "onboard_time": 1672198290,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193752,
+        "num": 193752,
+        "word": "何润东 反差感",
+        "onboard_time": 1672192049,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185683,
+        "num": 185683,
+        "word": "老公照顾生病老婆十万个为什么",
+        "onboard_time": 1672196607,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183064,
+        "num": 183064,
+        "word": "女子靠黑魔法挽回前任被骗1万多",
+        "onboard_time": 1672194390,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173439,
+        "num": 173439,
+        "word": "女子送布洛芬后被回赠板蓝根水果",
+        "onboard_time": 1672189711,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170501,
+        "num": 170501,
+        "word": "最美的夜指尖解锁关键词",
+        "onboard_time": 1672201771,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169486,
+        "num": 169486,
+        "word": "杨幂狐妖小红娘月红篇走路路透",
+        "onboard_time": 1672201470,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169331,
+        "num": 169331,
+        "word": "00后男生3年打6份工买车",
+        "onboard_time": 1672193065,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163592,
+        "num": 163592,
+        "word": "救命的排痰姿势",
+        "onboard_time": 1672189410,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163450,
+        "num": 163450,
+        "word": "教育局通报高中生摔猫踹猫",
+        "onboard_time": 1672194927,
+        "rank": 45,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 160017,
+        "num": 160017,
+        "word": "张杰新歌 不熄的光",
+        "onboard_time": 1672201349,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157398,
+        "num": 157398,
+        "word": "李子柒公司持股增至99%",
+        "onboard_time": 1672202070,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 147156,
+        "num": 147156,
+        "word": "女子怕被感染20多天没出门",
+        "onboard_time": 1672202190,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146821,
+        "num": 146821,
+        "word": "Hero战队澄清声明",
+        "onboard_time": 1672194327,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图读懂乙类乙管#"
+    }
+  }
+}

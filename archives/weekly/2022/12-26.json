@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672201315181,
+  "endTime": 1672202228996,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -187,6 +187,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1695646,
+      "num": 1695646,
+      "word": "女生病假期上9天班反欠公司三百多",
+      "onboard_time": 1672198408,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1689450,
       "num": 1689450,
       "word": "杨鸣被驱逐",
@@ -259,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1552785,
-      "num": 1552785,
-      "word": "女生病假期上9天班反欠公司三百多",
-      "onboard_time": 1672198408,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1526646,
       "num": 1526646,
       "word": "网传女子衣着暴露在人民调解室热舞",
@@ -321,6 +321,14 @@
       "onboard_time": 1672027591,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1437153,
+      "num": 1437153,
+      "word": "李子柒即将复出",
+      "onboard_time": 1672200090,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1421568,
@@ -521,14 +529,6 @@
       "onboard_time": 1672124791,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1087818,
-      "num": 1087818,
-      "word": "李子柒即将复出",
-      "onboard_time": 1672200090,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 1086285,
@@ -795,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 844900,
+      "num": 844900,
+      "word": "白肺欺软怕硬",
+      "onboard_time": 1672199790,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 842582,
       "num": 842582,
       "word": "知网涉嫌垄断被罚8760万",
@@ -843,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 826958,
+      "num": 826958,
+      "word": "梅西世界杯住房被做成博物馆",
+      "onboard_time": 1672197749,
+      "rank": 31,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 824438,
       "num": 824438,
       "word": "76岁老人感染新冠一周后去世",
@@ -865,6 +881,14 @@
       "onboard_time": 1672112131,
       "rank": 8,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 801677,
+      "num": 452220,
+      "word": "东契奇绝平",
+      "onboard_time": 1672201233,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 799051,
@@ -995,14 +1019,6 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 726663,
-      "num": 726663,
-      "word": "梅西世界杯住房被做成博物馆",
-      "onboard_time": 1672197749,
-      "rank": 31,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 717835,
       "num": 717835,
       "word": "Epic道歉",
@@ -1088,6 +1104,14 @@
       "word": "转阴多久没有传染性",
       "onboard_time": 1672055072,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 688868,
+      "num": 441527,
+      "word": "主人欲杀狗吃肉女子掏钱救下",
+      "onboard_time": 1672199488,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1315,14 +1339,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 602136,
-      "num": 414558,
-      "word": "白肺欺软怕硬",
-      "onboard_time": 1672199790,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 601693,
       "num": 601693,
       "word": "年末川渝男人的统一着装",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1672148978,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586486,
+      "num": 423534,
+      "word": "黄明昊 空降",
+      "onboard_time": 1672201829,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 585431,
@@ -1441,14 +1465,6 @@
       "onboard_time": 1672058373,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 571498,
-      "num": 251467,
-      "word": "主人欲杀狗吃肉女子掏钱救下",
-      "onboard_time": 1672199488,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 568636,
@@ -1771,6 +1787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 491648,
+      "num": 491648,
+      "word": "郑新黄河大桥大雾天数十辆车相撞",
+      "onboard_time": 1672199249,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 487488,
       "num": 487488,
       "word": "坦然吕布FMVP新皮肤",
@@ -1835,6 +1859,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 470119,
+      "num": 470119,
+      "word": "长沙下雪",
+      "onboard_time": 1672198649,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468452,
       "num": 468452,
       "word": "孙颖莎称自己的高光时刻还没到来",
@@ -1888,14 +1920,6 @@
       "word": "防控近三年后为何回归乙类管理",
       "onboard_time": 1672100066,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 457222,
-      "num": 457222,
-      "word": "长沙下雪",
-      "onboard_time": 1672198649,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2067,20 +2091,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 410386,
-      "num": 410386,
-      "word": "郑新黄河大桥大雾天数十辆车相撞",
-      "onboard_time": 1672199249,
-      "rank": 13,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 406867,
-      "num": 406867,
-      "word": "东契奇绝平",
-      "onboard_time": 1672201233,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 406935,
+      "num": 406935,
+      "word": "光与夜之恋",
+      "onboard_time": 1672115852,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 406034,
@@ -2153,6 +2169,14 @@
       "onboard_time": 1672147413,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 393614,
+      "num": 393614,
+      "word": "东契奇 神",
+      "onboard_time": 1672201771,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 392770,
@@ -2395,6 +2419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353393,
+      "num": 353393,
+      "word": "王鹤棣浮图缘给陈钰琪梳妆花絮",
+      "onboard_time": 1672201529,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352092,
       "num": 352092,
       "word": "吴磊担心车被偷走",
@@ -2417,14 +2449,6 @@
       "onboard_time": 1672177873,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 349347,
-      "num": 349347,
-      "word": "光与夜之恋",
-      "onboard_time": 1672115852,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 346055,
@@ -2489,6 +2513,14 @@
       "onboard_time": 1672198767,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 338001,
+      "num": 338001,
+      "word": "丈夫给阳性妻子送饭后飞快盖隔板",
+      "onboard_time": 1672199309,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337691,
@@ -2737,6 +2769,14 @@
       "onboard_time": 1672200869,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311164,
+      "num": 258092,
+      "word": "多方回应女大学生被误诊艾滋病",
+      "onboard_time": 1672200869,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310058,
@@ -2992,14 +3032,6 @@
       "word": "男子回应厕所炒菜被质疑卫生问题",
       "onboard_time": 1672053570,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278900,
-      "num": 278900,
-      "word": "丈夫给阳性妻子送饭后飞快盖隔板",
-      "onboard_time": 1672199309,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -4627,10 +4659,26 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170501,
+      "num": 170501,
+      "word": "最美的夜指尖解锁关键词",
+      "onboard_time": 1672201771,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169594,
       "num": 163522,
       "word": "浮图缘剧情节奏",
       "onboard_time": 1672151553,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 169486,
+      "num": 169486,
+      "word": "杨幂狐妖小红娘月红篇走路路透",
+      "onboard_time": 1672201470,
       "rank": 42,
       "category": "影视"
     },
@@ -4851,6 +4899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160017,
+      "num": 160017,
+      "word": "张杰新歌 不熄的光",
+      "onboard_time": 1672201349,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159943,
       "num": 159943,
       "word": "浮图缘救赎版预告",
@@ -4913,6 +4969,14 @@
       "onboard_time": 1672018348,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157398,
+      "num": 157398,
+      "word": "李子柒公司持股增至99%",
+      "onboard_time": 1672202070,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 157322,
@@ -5035,14 +5099,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 152499,
-      "num": 152499,
-      "word": "多方回应女大学生被误诊艾滋病",
-      "onboard_time": 1672200869,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152118,
       "num": 152118,
       "word": "虚荣复刻",
@@ -5129,6 +5185,14 @@
       "onboard_time": 1672138834,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147156,
+      "num": 147156,
+      "word": "女子怕被感染20多天没出门",
+      "onboard_time": 1672202190,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146545,
@@ -6124,7 +6188,7 @@
     },
     {
       "raw_hot": 62377,
-      "num": 1100133,
+      "num": 1155753,
       "word": "90秒超燃回顾中国航天这一年",
       "onboard_time": 1672197147,
       "rank": 2,

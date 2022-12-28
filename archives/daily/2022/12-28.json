@@ -1,6 +1,6 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672201315181,
+  "endTime": 1672202228996,
   "band_list": [
     {
       "raw_hot": 3219890,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1552785,
-      "num": 1552785,
+      "raw_hot": 1695646,
+      "num": 1695646,
       "word": "女生病假期上9天班反欠公司三百多",
       "onboard_time": 1672198408,
       "rank": 49,
@@ -33,6 +33,14 @@
       "onboard_time": 1672193309,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1437153,
+      "num": 1437153,
+      "word": "李子柒即将复出",
+      "onboard_time": 1672200090,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1316527,
@@ -67,14 +75,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1087818,
-      "num": 1087818,
-      "word": "李子柒即将复出",
-      "onboard_time": 1672200090,
-      "rank": 3,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1042343,
       "num": 1042343,
       "word": "长期佩戴口罩对肺结节是否有影响",
@@ -107,6 +107,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 844900,
+      "num": 844900,
+      "word": "白肺欺软怕硬",
+      "onboard_time": 1672199790,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 826958,
+      "num": 826958,
+      "word": "梅西世界杯住房被做成博物馆",
+      "onboard_time": 1672197749,
+      "rank": 31,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 801677,
+      "num": 452220,
+      "word": "东契奇绝平",
+      "onboard_time": 1672201233,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 774922,
       "num": 774922,
       "word": "女子送布洛芬后被回赠板蓝根水果",
@@ -115,12 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 726663,
-      "num": 726663,
-      "word": "梅西世界杯住房被做成博物馆",
-      "onboard_time": 1672197749,
-      "rank": 31,
-      "category": "体育,社会新闻"
+      "raw_hot": 688868,
+      "num": 441527,
+      "word": "主人欲杀狗吃肉女子掏钱救下",
+      "onboard_time": 1672199488,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 687984,
@@ -163,12 +187,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 602136,
-      "num": 414558,
-      "word": "白肺欺软怕硬",
-      "onboard_time": 1672199790,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 586486,
+      "num": 423534,
+      "word": "黄明昊 空降",
+      "onboard_time": 1672201829,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 574748,
@@ -177,14 +201,6 @@
       "onboard_time": 1672195169,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 571498,
-      "num": 251467,
-      "word": "主人欲杀狗吃肉女子掏钱救下",
-      "onboard_time": 1672199488,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 568051,
@@ -251,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491648,
+      "num": 491648,
+      "word": "郑新黄河大桥大雾天数十辆车相撞",
+      "onboard_time": 1672199249,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 474546,
       "num": 474546,
       "word": "马斯克被曝身边充斥着马屁精",
@@ -259,8 +283,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 457222,
-      "num": 457222,
+      "raw_hot": 470119,
+      "num": 470119,
       "word": "长沙下雪",
       "onboard_time": 1672198649,
       "rank": 8,
@@ -299,20 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410386,
-      "num": 410386,
-      "word": "郑新黄河大桥大雾天数十辆车相撞",
-      "onboard_time": 1672199249,
-      "rank": 13,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 406867,
-      "num": 406867,
-      "word": "东契奇绝平",
-      "onboard_time": 1672201233,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 406935,
+      "num": 406935,
+      "word": "光与夜之恋",
+      "onboard_time": 1672200751,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 396357,
@@ -320,6 +336,14 @@
       "word": "杨鸣被驱逐",
       "onboard_time": 1672149455,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 393614,
+      "num": 393614,
+      "word": "东契奇 神",
+      "onboard_time": 1672201771,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -371,20 +395,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353393,
+      "num": 353393,
+      "word": "王鹤棣浮图缘给陈钰琪梳妆花絮",
+      "onboard_time": 1672201529,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350562,
       "num": 350562,
       "word": "可去香港打复必泰二价疫苗",
       "onboard_time": 1672177873,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 349347,
-      "num": 349347,
-      "word": "光与夜之恋",
-      "onboard_time": 1672200751,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 342727,
@@ -401,6 +425,14 @@
       "onboard_time": 1672198767,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 338001,
+      "num": 338001,
+      "word": "丈夫给阳性妻子送饭后飞快盖隔板",
+      "onboard_time": 1672199309,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333416,
@@ -441,6 +473,14 @@
       "onboard_time": 1672200869,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311164,
+      "num": 258092,
+      "word": "多方回应女大学生被误诊艾滋病",
+      "onboard_time": 1672200869,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310058,
@@ -505,14 +545,6 @@
       "onboard_time": 1672196849,
       "rank": 35,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 278900,
-      "num": 278900,
-      "word": "丈夫给阳性妻子送饭后飞快盖隔板",
-      "onboard_time": 1672199309,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276376,
@@ -755,6 +787,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170501,
+      "num": 170501,
+      "word": "最美的夜指尖解锁关键词",
+      "onboard_time": 1672201771,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169486,
+      "num": 169486,
+      "word": "杨幂狐妖小红娘月红篇走路路透",
+      "onboard_time": 1672201470,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166543,
       "num": 166543,
       "word": "曾黎问这样的本宫真的很可怕吗",
@@ -819,12 +867,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160017,
+      "num": 160017,
+      "word": "张杰新歌 不熄的光",
+      "onboard_time": 1672201349,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 158235,
       "num": 140355,
       "word": "任若阳离开offer4但收获了offer",
       "onboard_time": 1672153651,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157398,
+      "num": 157398,
+      "word": "李子柒公司持股增至99%",
+      "onboard_time": 1672202070,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 155917,
@@ -875,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152499,
-      "num": 152499,
-      "word": "多方回应女大学生被误诊艾滋病",
-      "onboard_time": 1672200869,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152167,
       "num": 152167,
       "word": "铃铛女朋友",
@@ -896,6 +952,14 @@
       "word": "江西精神病院回应入院是否需家属签字",
       "onboard_time": 1672148978,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147156,
+      "num": 147156,
+      "word": "女子怕被感染20多天没出门",
+      "onboard_time": 1672202190,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1164,7 +1228,7 @@
     },
     {
       "raw_hot": 62377,
-      "num": 1100133,
+      "num": 1155753,
       "word": "90秒超燃回顾中国航天这一年",
       "onboard_time": 1672197147,
       "rank": 2,
