@@ -1,6 +1,6 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672198466226,
+  "endTime": 1672201315181,
   "band_list": [
     {
       "raw_hot": 3219890,
@@ -16,6 +16,14 @@
       "word": "失眠可能是肺出现了问题",
       "onboard_time": 1672156286,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1552785,
+      "num": 1552785,
+      "word": "女生病假期上9天班反欠公司三百多",
+      "onboard_time": 1672198408,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -49,6 +57,22 @@
       "onboard_time": 1672147595,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1119911,
+      "num": 1119911,
+      "word": "二次感染同一毒株概率有多大",
+      "onboard_time": 1672196368,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1087818,
+      "num": 1087818,
+      "word": "李子柒即将复出",
+      "onboard_time": 1672200090,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1042343,
@@ -91,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 726663,
+      "num": 726663,
+      "word": "梅西世界杯住房被做成博物馆",
+      "onboard_time": 1672197749,
+      "rank": 31,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 687984,
       "num": 687984,
       "word": "女孩为拥有苹果手机频繁偷包裹",
@@ -131,11 +163,11 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 605838,
-      "num": 605838,
-      "word": "二次感染同一毒株概率有多大",
-      "onboard_time": 1672196368,
-      "rank": 19,
+      "raw_hot": 602136,
+      "num": 414558,
+      "word": "白肺欺软怕硬",
+      "onboard_time": 1672199790,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -145,6 +177,14 @@
       "onboard_time": 1672195169,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 571498,
+      "num": 251467,
+      "word": "主人欲杀狗吃肉女子掏钱救下",
+      "onboard_time": 1672199488,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 568051,
@@ -219,6 +259,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 457222,
+      "num": 457222,
+      "word": "长沙下雪",
+      "onboard_time": 1672198649,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445695,
       "num": 445695,
       "word": "Giselle回应合作曲part只有3秒",
@@ -241,6 +289,30 @@
       "onboard_time": 1672127912,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418838,
+      "num": 418838,
+      "word": "上海女生晒老公8个月自制手工礼物",
+      "onboard_time": 1672198649,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410386,
+      "num": 410386,
+      "word": "郑新黄河大桥大雾天数十辆车相撞",
+      "onboard_time": 1672199249,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 406867,
+      "num": 406867,
+      "word": "东契奇绝平",
+      "onboard_time": 1672201233,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 396357,
@@ -307,12 +379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349347,
+      "num": 349347,
+      "word": "光与夜之恋",
+      "onboard_time": 1672200751,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 342727,
       "num": 342727,
       "word": "关晓彤说自己太喜欢过节",
       "onboard_time": 1672155149,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338865,
+      "num": 338865,
+      "word": "中国足协望武汉三镇提供黑暗势力证据",
+      "onboard_time": 1672198767,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 333416,
@@ -345,6 +433,22 @@
       "onboard_time": 1672191029,
       "rank": 22,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 311395,
+      "num": 311395,
+      "word": "时代少年团东方卫视跨年盛典VCR",
+      "onboard_time": 1672200869,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 310058,
+      "num": 310058,
+      "word": "张朝阳称地球不存在全黑的地方",
+      "onboard_time": 1672199127,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305069,
@@ -403,6 +507,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 278900,
+      "num": 278900,
+      "word": "丈夫给阳性妻子送饭后飞快盖隔板",
+      "onboard_time": 1672199309,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276376,
       "num": 276376,
       "word": "北京协和医院发热门诊现状",
@@ -436,7 +548,7 @@
     },
     {
       "raw_hot": 259335,
-      "num": 210703,
+      "num": 251966,
       "word": "沉香如屑安徽卫视今晚开播",
       "onboard_time": 1672198290,
       "rank": 30,
@@ -523,12 +635,12 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 202214,
-      "num": 202214,
-      "word": "梅西世界杯住房被做成博物馆",
-      "onboard_time": 1672197749,
-      "rank": 31,
-      "category": "体育,社会新闻"
+      "raw_hot": 202507,
+      "num": 202507,
+      "word": "老公照顾生病老婆十万个为什么",
+      "onboard_time": 1672196607,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200383,
@@ -643,14 +755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169605,
-      "num": 169605,
-      "word": "老公照顾生病老婆十万个为什么",
-      "onboard_time": 1672196607,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166543,
       "num": 166543,
       "word": "曾黎问这样的本宫真的很可怕吗",
@@ -707,12 +811,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162306,
+      "num": 162306,
+      "word": "如何快速补充天然维C",
+      "onboard_time": 1672199906,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158235,
       "num": 140355,
       "word": "任若阳离开offer4但收获了offer",
       "onboard_time": 1672153651,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155917,
+      "num": 155917,
+      "word": "中国女足主题球场落地大凉山",
+      "onboard_time": 1672200811,
+      "rank": 45,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 155604,
@@ -745,6 +865,22 @@
       "onboard_time": 1672130497,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154258,
+      "num": 154258,
+      "word": "川渝男人的粉色战袍",
+      "onboard_time": 1672197988,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152499,
+      "num": 152499,
+      "word": "多方回应女大学生被误诊艾滋病",
+      "onboard_time": 1672200869,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152167,
@@ -859,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127716,
-      "num": 127716,
-      "word": "川渝男人的粉色战袍",
-      "onboard_time": 1672197988,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125270,
       "num": 125270,
       "word": "31省份上年平均工资数据出炉",
@@ -927,14 +1055,6 @@
       "num": 117631,
       "word": "孩子发生热性惊厥不要做4件事",
       "onboard_time": 1672195468,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115109,
-      "num": 115109,
-      "word": "女生病假期上9天班反欠公司三百多",
-      "onboard_time": 1672198408,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -1044,7 +1164,7 @@
     },
     {
       "raw_hot": 62377,
-      "num": 916088,
+      "num": 1100133,
       "word": "90秒超燃回顾中国航天这一年",
       "onboard_time": 1672197147,
       "rank": 2,
