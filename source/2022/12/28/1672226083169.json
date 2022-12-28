@@ -1,0 +1,410 @@
+{
+  "runTime": 1672226083169,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1248773,
+        "num": 1248773,
+        "word": "中方始终认为各国防疫措施应科学适度",
+        "onboard_time": 1672223310,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1244124,
+        "num": 1244124,
+        "word": "李子柒归来江湖已变天",
+        "onboard_time": 1672212392,
+        "rank": 1,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 98923,
+        "num": 1231211,
+        "word": "乙类乙管怎么管",
+        "onboard_time": 1672225470,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1304985,
+        "num": 1231147,
+        "word": "小胖录音",
+        "onboard_time": 1672224330,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1228382,
+        "num": 1228382,
+        "word": "张翰",
+        "onboard_time": 1672217910,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1039378,
+        "num": 1039378,
+        "word": "这是感染了爱国株吧",
+        "onboard_time": 1672220912,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 923253,
+        "num": 923253,
+        "word": "婆婆给儿媳寄9只鸡5亩地菜干邮费1千",
+        "onboard_time": 1672212569,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662180,
+        "num": 662180,
+        "word": "年轻人更易感染病毒性心肌炎",
+        "onboard_time": 1672222230,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579532,
+        "num": 579532,
+        "word": "老婆发烧找跑腿照顾结果老公回来了",
+        "onboard_time": 1672219653,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574082,
+        "num": 574082,
+        "word": "取消入境人员全员核酸",
+        "onboard_time": 1672224630,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653539,
+        "num": 568732,
+        "word": "李峋朱韵晒结婚证",
+        "onboard_time": 1672218092,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 543606,
+        "num": 543606,
+        "word": "2022年全球最帅最美面孔",
+        "onboard_time": 1672217971,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 527033,
+        "num": 527033,
+        "word": "大陆来台旅客须进行PCR检测",
+        "onboard_time": 1672218931,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510174,
+        "num": 510174,
+        "word": "小胖",
+        "onboard_time": 1672214551,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 50105,
+        "num": 477075,
+        "word": "淘宝限时开启商品定制",
+        "onboard_time": 1672225231,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 471308,
+        "num": 471308,
+        "word": "53岁女儿生病78岁父亲不放心睡门口",
+        "onboard_time": 1672222710,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421428,
+        "num": 421428,
+        "word": "女子怕被感染20多天没出门",
+        "onboard_time": 1672202190,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417006,
+        "num": 417006,
+        "word": "哈尔滨大妈买牛奶获赔一头牛",
+        "onboard_time": 1672224811,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391114,
+        "num": 391114,
+        "word": "腾讯宣布VALORANT中文名",
+        "onboard_time": 1672218211,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 372820,
+        "num": 372820,
+        "word": "上海医护朋友圈让人泪目",
+        "onboard_time": 1672212931,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457601,
+        "num": 372588,
+        "word": "侃爷 失踪",
+        "onboard_time": 1672226010,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374333,
+        "num": 363321,
+        "word": "吴振峰为王一博新歌打call",
+        "onboard_time": 1672224271,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 321502,
+        "num": 321502,
+        "word": "调查显示四川新冠感染率已过63.5%",
+        "onboard_time": 1672222889,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307802,
+        "num": 307802,
+        "word": "湖南是懂沙拉的",
+        "onboard_time": 1672221871,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 296660,
+        "num": 296660,
+        "word": "外交部回应台湾当局延长兵役期",
+        "onboard_time": 1672219412,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 294861,
+        "num": 294861,
+        "word": "9个奥密克戎亚型毒株正在我国流行",
+        "onboard_time": 1672208071,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291178,
+        "num": 291178,
+        "word": "曾舜晞梁洁直播",
+        "onboard_time": 1672221211,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265312,
+        "num": 265312,
+        "word": "阳性女子哭着立遗嘱把钱分给妈和男友",
+        "onboard_time": 1672212510,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251796,
+        "num": 251796,
+        "word": "郑新黄河大桥交通事故已致1人死亡",
+        "onboard_time": 1672208486,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 196184,
+        "num": 196184,
+        "word": "Hero教练 打人",
+        "onboard_time": 1672203269,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285526,
+        "num": 194356,
+        "word": "杨紫颜淡六宫格剧照",
+        "onboard_time": 1672225710,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262770,
+        "num": 193216,
+        "word": "东八区的先生们将在韩国播出",
+        "onboard_time": 1672212748,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244958,
+        "num": 190694,
+        "word": "黄晓明自曝焦虑不敢吃东西",
+        "onboard_time": 1672218572,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242889,
+        "num": 187857,
+        "word": "张子枫回应评价她是00后小花里最会演戏的",
+        "onboard_time": 1672208071,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187634,
+        "num": 187634,
+        "word": "大厂为何做不出羊了个羊",
+        "onboard_time": 1672209149,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204896,
+        "num": 187354,
+        "word": "迪丽热巴阔步向前动感开年大片",
+        "onboard_time": 1672222170,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185248,
+        "num": 185248,
+        "word": "冰墩墩变身兔墩墩",
+        "onboard_time": 1672209449,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182030,
+        "num": 182030,
+        "word": "男子给走失老人借手机反遭其家属辱骂",
+        "onboard_time": 1672222589,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153197,
+        "num": 153197,
+        "word": "新冠感染新增本土死亡3例",
+        "onboard_time": 1672206688,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145658,
+        "num": 145658,
+        "word": "无畏契约过审",
+        "onboard_time": 1672217612,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211473,
+        "num": 144403,
+        "word": "宫胁咲良歌谣大战横版直拍",
+        "onboard_time": 1672221272,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140559,
+        "num": 140559,
+        "word": "坐最后一排不是没有道理",
+        "onboard_time": 1672224451,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137058,
+        "num": 137058,
+        "word": "业主出租意愿或超买卖意愿",
+        "onboard_time": 1672224930,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 130621,
+        "num": 130621,
+        "word": "16岁学霸女孩急寻救命O型血",
+        "onboard_time": 1672225290,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127361,
+        "num": 127361,
+        "word": "47岁妈妈被女儿拍成港风女神",
+        "onboard_time": 1672217728,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118399,
+        "num": 118399,
+        "word": "女子5小时将闲置贵妃椅改独立沙发",
+        "onboard_time": 1672225710,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117541,
+        "num": 117541,
+        "word": "A股明年会迎来牛市吗",
+        "onboard_time": 1672215570,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112580,
+        "num": 112580,
+        "word": "第一次见不会游泳的狗",
+        "onboard_time": 1672222834,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107629,
+        "num": 107629,
+        "word": "马斯克曝光所有社媒都与美政府合作",
+        "onboard_time": 1672213408,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 105672,
+        "num": 105672,
+        "word": "齐司礼",
+        "onboard_time": 1672225950,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#纵览2022美丽中国新画卷#"
+    }
+  }
+}
