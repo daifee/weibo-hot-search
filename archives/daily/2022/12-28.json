@@ -1,10 +1,10 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672190726878,
+  "endTime": 1672192285452,
   "band_list": [
     {
-      "raw_hot": 3033163,
-      "num": 3033163,
+      "raw_hot": 3219890,
+      "num": 3219890,
       "word": "我拉黑了我姑姑",
       "onboard_time": 1672184964,
       "rank": 0,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1316527,
+      "num": 1316527,
+      "word": "男子网购玫瑰拆开发现1枚子弹",
+      "onboard_time": 1672188570,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1148340,
       "num": 1148340,
       "word": "孩子发烧41℃第二天家门口出现一瓶美林",
@@ -27,19 +35,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1075182,
-      "num": 1075182,
-      "word": "男子网购玫瑰拆开发现1枚子弹",
-      "onboard_time": 1672188570,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1042343,
       "num": 1042343,
       "word": "长期佩戴口罩对肺结节是否有影响",
       "onboard_time": 1672183760,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 962528,
+      "num": 962528,
+      "word": "浮图缘 王鹤棣妆造",
+      "onboard_time": 1672186828,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 892446,
+      "num": 892446,
+      "word": "女子阳后卧床3天家变垃圾场",
+      "onboard_time": 1672189889,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -75,12 +91,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 641747,
-      "num": 641747,
-      "word": "浮图缘 王鹤棣妆造",
-      "onboard_time": 1672186828,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 643282,
+      "num": 643282,
+      "word": "女子送布洛芬后被回赠板蓝根水果",
+      "onboard_time": 1672189711,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 634310,
@@ -89,6 +105,14 @@
       "onboard_time": 1672183281,
       "rank": 30,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 568051,
+      "num": 568051,
+      "word": "救命的排痰姿势",
+      "onboard_time": 1672189410,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 529269,
@@ -104,14 +128,6 @@
       "word": "咳嗽是人体一种保护机制",
       "onboard_time": 1672178832,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 455513,
-      "num": 455513,
-      "word": "救命的排痰姿势",
-      "onboard_time": 1672189410,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -163,22 +179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 369547,
-      "num": 369547,
-      "word": "女子送布洛芬后被回赠板蓝根水果",
-      "onboard_time": 1672189711,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353728,
-      "num": 198447,
-      "word": "女子阳后卧床3天家变垃圾场",
-      "onboard_time": 1672189889,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 350562,
       "num": 350562,
       "word": "可去香港打复必泰二价疫苗",
@@ -227,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 297128,
+      "num": 297128,
+      "word": "Giselle回应合作曲part只有3秒",
+      "onboard_time": 1672191868,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 292498,
       "num": 292498,
       "word": "向太说自己有很多需要学习和改进的地方",
@@ -251,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269092,
+      "num": 269092,
+      "word": "伊甸园",
+      "onboard_time": 1672185506,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265347,
       "num": 265347,
       "word": "在小县城找对象有多难",
@@ -259,20 +275,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 265179,
+      "num": 265179,
+      "word": "特斯拉一夜蒸发440亿美元",
+      "onboard_time": 1672191029,
+      "rank": 22,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 254512,
       "num": 254512,
       "word": "如何预防白肺",
       "onboard_time": 1672185203,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252670,
-      "num": 252670,
-      "word": "伊甸园",
-      "onboard_time": 1672185506,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 244079,
@@ -305,6 +321,22 @@
       "onboard_time": 1672183518,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221053,
+      "num": 221053,
+      "word": "曼联3比0诺丁汉森林",
+      "onboard_time": 1672190308,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206418,
+      "num": 206418,
+      "word": "陈晓说您问住我了我谁来着",
+      "onboard_time": 1672188148,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 205882,
@@ -364,7 +396,7 @@
     },
     {
       "raw_hot": 193888,
-      "num": 1076509,
+      "num": 1211874,
       "word": "白肺和原始毒株及疫苗接种没关系",
       "onboard_time": 1672142072,
       "rank": 2,
@@ -403,19 +435,19 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 173309,
-      "num": 173309,
-      "word": "陈晓说您问住我了我谁来着",
-      "onboard_time": 1672188148,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 172020,
       "num": 172020,
       "word": "雷无桀登天阁一口气闯到13层",
       "onboard_time": 1672161739,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 168061,
+      "num": 168061,
+      "word": "何润东 反差感",
+      "onboard_time": 1672192049,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -483,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155510,
+      "num": 155510,
+      "word": "少年歌行",
+      "onboard_time": 1672192170,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154345,
       "num": 139580,
       "word": "赵丽颖说有翡没给大家好的状态比较遗憾",
@@ -515,20 +555,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 142835,
+      "num": 142835,
+      "word": "西出玉门",
+      "onboard_time": 1672192108,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138385,
       "num": 138385,
       "word": "这个垃圾是非丢不可吗",
       "onboard_time": 1672152392,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 137519,
-      "num": 137519,
-      "word": "曼联3比0诺丁汉森林",
-      "onboard_time": 1672190308,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 133697,
@@ -587,6 +627,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125496,
+      "num": 125496,
+      "word": "61.8%居民倾向于更多储蓄",
+      "onboard_time": 1672191686,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123329,
+      "num": 123329,
+      "word": "一人一句兔年好用的祝福词",
+      "onboard_time": 1672191992,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120898,
       "num": 120898,
       "word": "合肥27岁女子患暴发性心肌炎",
@@ -601,6 +657,14 @@
       "onboard_time": 1672165215,
       "rank": 49,
       "category": "动漫,游戏"
+    },
+    {
+      "raw_hot": 120376,
+      "num": 120376,
+      "word": "青海湖现绝美碎冰拼图奇观",
+      "onboard_time": 1672191088,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 118428,
@@ -633,6 +697,14 @@
       "onboard_time": 1672159044,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 105420,
+      "num": 105420,
+      "word": "湖人vs魔术",
+      "onboard_time": 1672192229,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 102103,
