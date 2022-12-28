@@ -1,6 +1,6 @@
 {
   "startTime": 1672158300697,
-  "endTime": 1672216565681,
+  "endTime": 1672219029995,
   "band_list": [
     {
       "raw_hot": 3219890,
@@ -9,6 +9,14 @@
       "onboard_time": 1672184964,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 3088176,
+      "num": 3088176,
+      "word": "核酸检测员月薪10万降至3万",
+      "onboard_time": 1672217008,
+      "rank": 0,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2403593,
@@ -96,6 +104,14 @@
       "word": "98年王鹤棣演89年王栎鑫干爹",
       "onboard_time": 1672204768,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1224322,
+      "num": 1224322,
+      "word": "张翰",
+      "onboard_time": 1672217910,
+      "rank": 4,
       "category": "影视"
     },
     {
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 736870,
+      "num": 670764,
+      "word": "春晚押题小品",
+      "onboard_time": 1672216530,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 716306,
       "num": 716306,
       "word": "主人欲杀狗吃肉女子掏钱救下",
@@ -329,6 +353,14 @@
       "onboard_time": 1672184782,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 656683,
+      "num": 656683,
+      "word": "李峋朱韵晒结婚证",
+      "onboard_time": 1672218092,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 649821,
@@ -475,12 +507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482565,
+      "num": 335564,
+      "word": "2022年全球最帅最美面孔",
+      "onboard_time": 1672217971,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 474546,
       "num": 474546,
       "word": "马斯克被曝身边充斥着马屁精",
       "onboard_time": 1672195108,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 473190,
+      "num": 473190,
+      "word": "瓦罗兰特国服过审",
+      "onboard_time": 1672216831,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 470119,
@@ -537,6 +585,14 @@
       "onboard_time": 1672202310,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 424285,
+      "num": 424285,
+      "word": "无畏契约过审",
+      "onboard_time": 1672217612,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 421564,
@@ -795,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308865,
+      "num": 308865,
+      "word": "腾讯宣布VALORANT中文名",
+      "onboard_time": 1672218211,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305069,
       "num": 305069,
       "word": "再次感染一般可能轻于既往感染",
@@ -883,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274127,
+      "num": 180126,
+      "word": "吴磊是懂点儿浪漫的",
+      "onboard_time": 1672218152,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 273429,
       "num": 273429,
       "word": "范子铭",
@@ -955,11 +1027,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242215,
+      "num": 242215,
+      "word": "A股明年会迎来牛市吗",
+      "onboard_time": 1672215570,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 237931,
       "num": 237931,
       "word": "浮图缘首播观后感",
       "onboard_time": 1672145614,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 237409,
+      "num": 178044,
+      "word": "刘亦菲许红豆开通角色号",
+      "onboard_time": 1672216951,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -969,6 +1057,14 @@
       "onboard_time": 1672144534,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236118,
+      "num": 177325,
+      "word": "黄晓明自曝焦虑不敢吃东西",
+      "onboard_time": 1672218572,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 229094,
@@ -1099,14 +1195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196252,
-      "num": 169556,
-      "word": "春晚押题小品",
-      "onboard_time": 1672216530,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195246,
       "num": 195246,
       "word": "范子铭向郭艾伦道歉",
@@ -1145,6 +1233,14 @@
       "onboard_time": 1672142072,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 192436,
+      "num": 192436,
+      "word": "当猫咪闻几天没洗的头",
+      "onboard_time": 1672217612,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 192084,
@@ -1315,6 +1411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161362,
+      "num": 161362,
+      "word": "47岁妈妈被女儿拍成港风女神",
+      "onboard_time": 1672217728,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160017,
       "num": 160017,
       "word": "张杰新歌 不熄的光",
@@ -1451,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148471,
+      "num": 148471,
+      "word": "这是一种很新的魔术揭秘",
+      "onboard_time": 1672218332,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147538,
       "num": 147538,
       "word": "拟整顿不下载APP不让看全文行为",
@@ -1465,6 +1577,14 @@
       "onboard_time": 1672131335,
       "rank": 29,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 141816,
+      "num": 141816,
+      "word": "版号",
+      "onboard_time": 1672218392,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 140318,
@@ -1507,6 +1627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135958,
+      "num": 135958,
+      "word": "真的搞不懂猫咪在想什么",
+      "onboard_time": 1672218451,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133697,
       "num": 133697,
       "word": "少年歌行 特效",
@@ -1545,6 +1673,22 @@
       "onboard_time": 1672146573,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129492,
+      "num": 129492,
+      "word": "阳康后如何避免二次感染",
+      "onboard_time": 1672217008,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128065,
+      "num": 128065,
+      "word": "大陆来台旅客须进行PCR检测",
+      "onboard_time": 1672218931,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127805,
@@ -1740,7 +1884,7 @@
     },
     {
       "raw_hot": 62377,
-      "num": 1401229,
+      "num": 1505128,
       "word": "90秒超燃回顾中国航天这一年",
       "onboard_time": 1672197147,
       "rank": 2,
