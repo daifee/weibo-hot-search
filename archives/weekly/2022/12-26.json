@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672244675454,
+  "endTime": 1672245722141,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 2290226,
-      "num": 739257,
+      "num": 749447,
       "word": "侃爷 失踪",
       "onboard_time": 1672226010,
       "rank": 20,
@@ -2731,6 +2731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410107,
+      "num": 410107,
+      "word": "EDG老板",
+      "onboard_time": 1672243407,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 407286,
       "num": 407286,
       "word": "2022年明星微博数据报告",
@@ -3681,14 +3689,6 @@
       "onboard_time": 1672211608,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 301954,
-      "num": 301954,
-      "word": "EDG老板",
-      "onboard_time": 1672243407,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 300787,
@@ -5779,6 +5779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177390,
+      "num": 177390,
+      "word": "张超直播",
+      "onboard_time": 1672244124,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176836,
       "num": 176836,
       "word": "戈登 隔扣",
@@ -6147,14 +6155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161561,
-      "num": 131654,
-      "word": "张超直播",
-      "onboard_time": 1672244124,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161345,
       "num": 126175,
       "word": "龚俊官宣加盟2023湖南卫视跨年晚会",
@@ -6505,6 +6505,14 @@
       "onboard_time": 1672203690,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150348,
+      "num": 150348,
+      "word": "内娱男友私服大户",
+      "onboard_time": 1672243645,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 149966,
@@ -7811,8 +7819,8 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 56639,
-      "num": 56639,
+      "raw_hot": 57903,
+      "num": 82275,
       "word": "今年最想定格的瞬间",
       "onboard_time": 1672244663,
       "rank": 48,
@@ -7849,6 +7857,14 @@
       "onboard_time": 1671991514,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 50537,
+      "num": 81950,
+      "word": "警方回应警车占用盲道充电",
+      "onboard_time": 1672244843,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48948,

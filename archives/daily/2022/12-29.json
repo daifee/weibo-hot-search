@@ -1,6 +1,6 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672244675454,
+  "endTime": 1672245722141,
   "band_list": [
     {
       "raw_hot": 1495899,
@@ -27,8 +27,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 739257,
-      "num": 739257,
+      "raw_hot": 749447,
+      "num": 749447,
       "word": "侃爷 失踪",
       "onboard_time": 1672226010,
       "rank": 1,
@@ -41,6 +41,14 @@
       "onboard_time": 1672235615,
       "rank": 20,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 410107,
+      "num": 410107,
+      "word": "EDG老板",
+      "onboard_time": 1672243407,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 406494,
@@ -80,14 +88,6 @@
       "word": "重庆狼队",
       "onboard_time": 1672239633,
       "rank": 8,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 301954,
-      "num": 301954,
-      "word": "EDG老板",
-      "onboard_time": 1672243407,
-      "rank": 9,
       "category": "游戏"
     },
     {
@@ -171,7 +171,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 171019,
+      "raw_hot": 177390,
+      "num": 177390,
+      "word": "张超直播",
+      "onboard_time": 1672244124,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171722,
       "num": 171019,
       "word": "张翰",
       "onboard_time": 1672217910,
@@ -185,14 +193,6 @@
       "onboard_time": 1672232971,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 161561,
-      "num": 131654,
-      "word": "张超直播",
-      "onboard_time": 1672244124,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 155485,
@@ -235,6 +235,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 150348,
+      "num": 150348,
+      "word": "内娱男友私服大户",
+      "onboard_time": 1672243645,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149628,
       "num": 149628,
       "word": "这才是真正的爱情吧",
@@ -265,6 +273,14 @@
       "onboard_time": 1672223310,
       "rank": 28,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 141393,
+      "num": 111796,
+      "word": "小胖",
+      "onboard_time": 1672214551,
+      "rank": 30,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 135937,
@@ -347,24 +363,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81970,
-      "num": 81970,
-      "word": "年轻人更易感染病毒性心肌炎",
-      "onboard_time": 1672222230,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81778,
-      "num": 81778,
+      "raw_hot": 84359,
+      "num": 84359,
       "word": "癸卯年蓝兔子邮票引争议",
       "onboard_time": 1672233630,
       "rank": 44,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81970,
+      "num": 82505,
+      "word": "年轻人更易感染病毒性心肌炎",
+      "onboard_time": 1672222230,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80258,
-      "num": 80258,
+      "num": 82396,
       "word": "国际乒联首位00后年终第一",
       "onboard_time": 1672229311,
       "rank": 45,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 68542,
-      "num": 68542,
+      "num": 82226,
       "word": "小鸭灯也太可爱了",
       "onboard_time": 1672238075,
       "rank": 46,
@@ -380,15 +396,15 @@
     },
     {
       "raw_hot": 58250,
-      "num": 58250,
+      "num": 82053,
       "word": "狗狗特殊的叫醒服务",
       "onboard_time": 1672237772,
       "rank": 47,
       "category": "幽默"
     },
     {
-      "raw_hot": 56639,
-      "num": 56639,
+      "raw_hot": 57903,
+      "num": 82275,
       "word": "今年最想定格的瞬间",
       "onboard_time": 1672244663,
       "rank": 48,
@@ -401,11 +417,22 @@
       "onboard_time": 1672243885,
       "rank": 49,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 50537,
+      "num": 81950,
+      "word": "警方回应警车占用盲道充电",
+      "onboard_time": 1672244843,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#10张数字海报回顾2022#"
+    },
+    {
+      "word": "#纵览2022美丽中国新画卷#"
     }
   ]
 }

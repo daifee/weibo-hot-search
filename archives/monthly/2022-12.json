@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672244675454,
+  "endTime": 1672245722141,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -1524,7 +1524,7 @@
     },
     {
       "raw_hot": 2290226,
-      "num": 739257,
+      "num": 749447,
       "word": "侃爷 失踪",
       "onboard_time": 1672226010,
       "rank": 20,
@@ -23099,6 +23099,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 410107,
+      "num": 410107,
+      "word": "EDG老板",
+      "onboard_time": 1672243407,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 410046,
       "num": 410046,
       "word": "张艺兴陈晓杨颖十二月封面",
@@ -31009,14 +31017,6 @@
       "onboard_time": 1671960388,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 301954,
-      "num": 301954,
-      "word": "EDG老板",
-      "onboard_time": 1672243407,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 301764,
@@ -47227,6 +47227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177390,
+      "num": 177390,
+      "word": "张超直播",
+      "onboard_time": 1672244124,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177367,
       "num": 177367,
       "word": "张元英love舞台直拍",
@@ -50715,14 +50723,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 161561,
-      "num": 131654,
-      "word": "张超直播",
-      "onboard_time": 1672244124,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161553,
       "num": 148126,
       "word": "年度最值得二刷的TVB剧",
@@ -53153,6 +53153,14 @@
       "onboard_time": 1671627213,
       "rank": 47,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 150348,
+      "num": 150348,
+      "word": "内娱男友私服大户",
+      "onboard_time": 1672243645,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 150309,
@@ -65115,6 +65123,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 57903,
+      "num": 82275,
+      "word": "今年最想定格的瞬间",
+      "onboard_time": 1672244663,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57236,
       "num": 90954,
       "word": "当去你去买奢侈品",
@@ -65129,14 +65145,6 @@
       "onboard_time": 1671039377,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56639,
-      "num": 56639,
-      "word": "今年最想定格的瞬间",
-      "onboard_time": 1672244663,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 56613,
@@ -65353,6 +65361,14 @@
       "onboard_time": 1669924567,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50537,
+      "num": 81950,
+      "word": "警方回应警车占用盲道充电",
+      "onboard_time": 1672244843,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50448,
