@@ -1,0 +1,410 @@
+{
+  "runTime": 1672204586914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1437085,
+        "num": 1437085,
+        "word": "女生病假期上9天班反欠公司三百多",
+        "onboard_time": 1672198408,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1308566,
+        "num": 1308566,
+        "word": "女子怕被感染20多天没出门",
+        "onboard_time": 1672202190,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28236,
+        "num": 1264048,
+        "word": "90秒超燃回顾中国航天这一年",
+        "onboard_time": 1672197147,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223433,
+        "num": 1223433,
+        "word": "李子柒即将复出",
+        "onboard_time": 1672200090,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 803582,
+        "num": 803582,
+        "word": "蔡徐坤张艺兴鹿晗微博音乐盛典年度推荐歌手",
+        "onboard_time": 1672203030,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 790124,
+        "num": 790124,
+        "word": "白肺欺软怕硬",
+        "onboard_time": 1672199790,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758625,
+        "num": 758625,
+        "word": "郑新黄河大桥大雾天数十辆车相撞",
+        "onboard_time": 1672199249,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 716306,
+        "num": 716306,
+        "word": "主人欲杀狗吃肉女子掏钱救下",
+        "onboard_time": 1672199488,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685476,
+        "num": 685476,
+        "word": "鱼跃集团回应94元血氧仪涨到299元",
+        "onboard_time": 1672202133,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586204,
+        "num": 586204,
+        "word": "Hero教练 打人",
+        "onboard_time": 1672203269,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1185450,
+        "num": 583330,
+        "word": "我拉黑了我姑姑",
+        "onboard_time": 1672184964,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 580123,
+        "num": 580123,
+        "word": "梅西世界杯住房被做成博物馆",
+        "onboard_time": 1672197749,
+        "rank": 11,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 564432,
+        "num": 564432,
+        "word": "二次感染同一毒株概率有多大",
+        "onboard_time": 1672196368,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557298,
+        "num": 557298,
+        "word": "多方回应女大学生被误诊艾滋病",
+        "onboard_time": 1672200869,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194694,
+        "num": 542493,
+        "word": "如何快速补充天然维C",
+        "onboard_time": 1672203630,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536554,
+        "num": 536554,
+        "word": "东契奇60分21篮板三双",
+        "onboard_time": 1672201710,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425501,
+        "num": 425501,
+        "word": "2023央视跨年晚会官宣",
+        "onboard_time": 1672202310,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422445,
+        "num": 422445,
+        "word": "失眠可能是肺出现了问题",
+        "onboard_time": 1672156286,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414768,
+        "num": 414768,
+        "word": "黄明昊 空降",
+        "onboard_time": 1672201829,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413144,
+        "num": 413144,
+        "word": "东契奇绝平",
+        "onboard_time": 1672201233,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393805,
+        "num": 393805,
+        "word": "谁心疼张婉婷",
+        "onboard_time": 1672192707,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375860,
+        "num": 375860,
+        "word": "杨幂狐妖小红娘月红篇走路路透",
+        "onboard_time": 1672201470,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375175,
+        "num": 375175,
+        "word": "东契奇 神",
+        "onboard_time": 1672201771,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374520,
+        "num": 374520,
+        "word": "部分国家对来自中国的旅客查核酸",
+        "onboard_time": 1672193309,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342157,
+        "num": 342157,
+        "word": "丈夫给阳性妻子送饭后飞快盖隔板",
+        "onboard_time": 1672199309,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322477,
+        "num": 322477,
+        "word": "浮图缘 王鹤棣妆造",
+        "onboard_time": 1672186828,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290843,
+        "num": 290843,
+        "word": "长沙下雪",
+        "onboard_time": 1672198649,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249838,
+        "num": 249838,
+        "word": "光与夜之恋",
+        "onboard_time": 1672200751,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242159,
+        "num": 242159,
+        "word": "Giselle回应合作曲part只有3秒",
+        "onboard_time": 1672191868,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240737,
+        "num": 240737,
+        "word": "中国足协望武汉三镇提供黑暗势力证据",
+        "onboard_time": 1672198767,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241024,
+        "num": 239046,
+        "word": "男子写鲁迅名字倒过来竟是画像",
+        "onboard_time": 1672203211,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235678,
+        "num": 235678,
+        "word": "白敬亭宋轶长风渡预约人数破百万",
+        "onboard_time": 1672197690,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233604,
+        "num": 233604,
+        "word": "女子阳后卧床3天家变垃圾场",
+        "onboard_time": 1672189889,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217105,
+        "num": 217105,
+        "word": "易烊千玺车内氛围感随拍",
+        "onboard_time": 1672196248,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209119,
+        "num": 209119,
+        "word": "李子柒公司持股增至99%",
+        "onboard_time": 1672202070,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 204539,
+        "num": 204539,
+        "word": "上海女生晒老公8个月自制手工礼物",
+        "onboard_time": 1672198649,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194840,
+        "num": 194840,
+        "word": "这几年谢谢脱口秀",
+        "onboard_time": 1672194989,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194107,
+        "num": 194107,
+        "word": "男子网购玫瑰拆开发现1枚子弹",
+        "onboard_time": 1672188570,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192670,
+        "num": 192670,
+        "word": "张朝阳称地球不存在全黑的地方",
+        "onboard_time": 1672199127,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183054,
+        "num": 183054,
+        "word": "何润东 反差感",
+        "onboard_time": 1672192049,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181376,
+        "num": 181376,
+        "word": "Hero 紫幻",
+        "onboard_time": 1672182798,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168179,
+        "num": 168179,
+        "word": "白肺并不是肺变白了",
+        "onboard_time": 1672192530,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165589,
+        "num": 165589,
+        "word": "多地倡导留下过年",
+        "onboard_time": 1672204049,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165289,
+        "num": 165289,
+        "word": "乾清宫正大光明匾被阳光点亮全程",
+        "onboard_time": 1672196849,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 163725,
+        "num": 163725,
+        "word": "救命的排痰姿势",
+        "onboard_time": 1672189410,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159750,
+        "num": 159750,
+        "word": "钉钉用户突破6亿",
+        "onboard_time": 1672204172,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 156734,
+        "num": 156734,
+        "word": "今天是李峋朱韵结婚三周年",
+        "onboard_time": 1672193489,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150923,
+        "num": 150923,
+        "word": "名侦探学院宝物风云",
+        "onboard_time": 1672204409,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150618,
+        "num": 150618,
+        "word": "马斯克被曝身边充斥着马屁精",
+        "onboard_time": 1672195108,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 150463,
+        "num": 150463,
+        "word": "王重江不知道小秀死了",
+        "onboard_time": 1672203690,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#要弘扬伟大建党精神弘扬延安精神#"
+    }
+  }
+}
