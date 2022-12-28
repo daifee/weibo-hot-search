@@ -1,0 +1,410 @@
+{
+  "runTime": 1672236957983,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1410663,
+        "num": 1410663,
+        "word": "心肌炎的6个危险信号",
+        "onboard_time": 1672233873,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1148868,
+        "num": 1148868,
+        "word": "结婚前有同居的必要吗",
+        "onboard_time": 1672228772,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150211,
+        "num": 1144169,
+        "word": "乙类乙管怎么管",
+        "onboard_time": 1672225470,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2027577,
+        "num": 981836,
+        "word": "小胖录音",
+        "onboard_time": 1672224330,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1772150,
+        "num": 861358,
+        "word": "小胖实锤",
+        "onboard_time": 1672234233,
+        "rank": 4,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1252560,
+        "num": 837174,
+        "word": "萧敬腾 妈咪",
+        "onboard_time": 1672235615,
+        "rank": 5,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 762901,
+        "num": 762901,
+        "word": "辉瑞新冠口服药医保支付价下调",
+        "onboard_time": 1672231471,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 679964,
+        "num": 679964,
+        "word": "鹅鸭杀",
+        "onboard_time": 1672235133,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 533395,
+        "num": 533395,
+        "word": "国产新冠口服药先诺欣最快2月上市",
+        "onboard_time": 1672234774,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487247,
+        "num": 487247,
+        "word": "网民谎称5天2次感染不同毒株被拘",
+        "onboard_time": 1672232494,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817686,
+        "num": 476517,
+        "word": "侃爷 失踪",
+        "onboard_time": 1672226010,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599780,
+        "num": 469426,
+        "word": "张翰",
+        "onboard_time": 1672217910,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553150,
+        "num": 435475,
+        "word": "易烊千玺最出圈的角色",
+        "onboard_time": 1672232669,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 536547,
+        "num": 423439,
+        "word": "日语专业又多了个就业方向",
+        "onboard_time": 1672235435,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 417512,
+        "num": 417512,
+        "word": "冲马桶不盖盖会发生什么",
+        "onboard_time": 1672233212,
+        "rank": 14,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 386048,
+        "num": 386048,
+        "word": "中方始终认为各国防疫措施应科学适度",
+        "onboard_time": 1672223310,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 367605,
+        "num": 367605,
+        "word": "韩国前总统李明博出狱待遇惨淡",
+        "onboard_time": 1672235794,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 316996,
+        "num": 316996,
+        "word": "婆婆给儿媳寄9只鸡5亩地菜干邮费1千",
+        "onboard_time": 1672212569,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290332,
+        "num": 290332,
+        "word": "女孩患白血病父亲意外发现非亲生",
+        "onboard_time": 1672229673,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260307,
+        "num": 260307,
+        "word": "国际乒联首位00后年终第一",
+        "onboard_time": 1672229311,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 528753,
+        "num": 260232,
+        "word": "李子柒归来江湖已变天",
+        "onboard_time": 1672212392,
+        "rank": 20,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 523077,
+        "num": 258405,
+        "word": "浮图缘删减戏份",
+        "onboard_time": 1672235974,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 485747,
+        "num": 257808,
+        "word": "回来的女儿",
+        "onboard_time": 1672235853,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254874,
+        "num": 254874,
+        "word": "年轻人更易感染病毒性心肌炎",
+        "onboard_time": 1672222230,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244007,
+        "num": 244007,
+        "word": "妈妈转阴后上班5岁儿子独自做家务",
+        "onboard_time": 1672233451,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243952,
+        "num": 243952,
+        "word": "漫播",
+        "onboard_time": 1672231590,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 239965,
+        "num": 239965,
+        "word": "辽宁遭砍伤女童至今未被道歉赔偿",
+        "onboard_time": 1672234112,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 168269,
+        "num": 239934,
+        "word": "和猫咪玩要不按套路出牌",
+        "onboard_time": 1672236636,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167678,
+        "num": 239373,
+        "word": "男子网购N95口罩收到2瓶酱油",
+        "onboard_time": 1672229131,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152694,
+        "num": 239069,
+        "word": "店铺贴免费药品女子骑车全部拿走",
+        "onboard_time": 1672229071,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440747,
+        "num": 238512,
+        "word": "向太直播",
+        "onboard_time": 1672228651,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377688,
+        "num": 238318,
+        "word": "王鹤棣听到粉丝喊肖掌印好帅的反应",
+        "onboard_time": 1672231590,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298923,
+        "num": 237782,
+        "word": "张杰说今天我也想把这份勇气分享给陈国恩",
+        "onboard_time": 1672236397,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310467,
+        "num": 237192,
+        "word": "浮图缘",
+        "onboard_time": 1672232971,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148088,
+        "num": 236868,
+        "word": "癸卯年蓝兔子邮票引争议",
+        "onboard_time": 1672233630,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147589,
+        "num": 236437,
+        "word": "男子围观警察出警发现是在抓自己",
+        "onboard_time": 1672230872,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146139,
+        "num": 236178,
+        "word": "调查显示四川新冠感染率已过63.5%",
+        "onboard_time": 1672222889,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145020,
+        "num": 235494,
+        "word": "女子怕被感染20多天没出门",
+        "onboard_time": 1672202190,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143867,
+        "num": 235092,
+        "word": "上海医护朋友圈让人泪目",
+        "onboard_time": 1672212931,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140250,
+        "num": 234810,
+        "word": "16岁学霸女孩急寻救命O型血",
+        "onboard_time": 1672225290,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265192,
+        "num": 234607,
+        "word": "浮图缘曾黎的人设好带感",
+        "onboard_time": 1672236397,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126752,
+        "num": 234092,
+        "word": "53岁女儿生病78岁父亲不放心睡门口",
+        "onboard_time": 1672222710,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257235,
+        "num": 233490,
+        "word": "浮图缘皇后",
+        "onboard_time": 1672232610,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122827,
+        "num": 233050,
+        "word": "女子5小时将闲置贵妃椅改独立沙发",
+        "onboard_time": 1672225710,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117641,
+        "num": 232562,
+        "word": "建议专家们不要提建议了",
+        "onboard_time": 1672236816,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113099,
+        "num": 232510,
+        "word": "腾讯宣布VALORANT中文名",
+        "onboard_time": 1672218211,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110800,
+        "num": 231998,
+        "word": "老婆发烧找跑腿照顾结果老公回来了",
+        "onboard_time": 1672219653,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110010,
+        "num": 231417,
+        "word": "雪后喀纳斯美得不真实",
+        "onboard_time": 1672236934,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 105385,
+        "num": 231065,
+        "word": "狗狗的头像拨浪鼓做的",
+        "onboard_time": 1672231409,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102786,
+        "num": 230849,
+        "word": "武汉120事故肇事急救车司机被刑拘",
+        "onboard_time": 1672236934,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022偶遇的治愈瞬间#"
+    }
+  }
+}
