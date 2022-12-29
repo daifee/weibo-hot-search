@@ -1,0 +1,410 @@
+{
+  "runTime": 1672288658322,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1174911,
+        "num": 1174911,
+        "word": "意大利对中国旅客强制实行新冠快速检测",
+        "onboard_time": 1672281928,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1081121,
+        "num": 1081121,
+        "word": "白肺的一个明显表现是气紧",
+        "onboard_time": 1672283428,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198757,
+        "num": 977672,
+        "word": "反复咳嗽的患者有哪些注意事项",
+        "onboard_time": 1672279470,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876803,
+        "num": 876803,
+        "word": "泽连斯基称乌克兰已成为全球领导者之一",
+        "onboard_time": 1672286669,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 642304,
+        "num": 642304,
+        "word": "新冠感染新增本土死亡1例",
+        "onboard_time": 1672285347,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633663,
+        "num": 633663,
+        "word": "杨迪因没收到跨年邀请要出单曲跨",
+        "onboard_time": 1672280189,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 607559,
+        "num": 607559,
+        "word": "女子吸朋友递来香烟后毒品阳性",
+        "onboard_time": 1672280069,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009337,
+        "num": 605671,
+        "word": "女子阳康后子宫异常出血",
+        "onboard_time": 1672274307,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600404,
+        "num": 600404,
+        "word": "转阴后一定不要狂吃",
+        "onboard_time": 1672284269,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582392,
+        "num": 582392,
+        "word": "丈夫照顾阳性妻子5天自己1天痊愈",
+        "onboard_time": 1672285409,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1967776,
+        "num": 578259,
+        "word": "向太试吃车厘子",
+        "onboard_time": 1672283428,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466479,
+        "num": 466479,
+        "word": "素人求助赵露思领养猫咪",
+        "onboard_time": 1672277009,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458945,
+        "num": 458945,
+        "word": "梅西",
+        "onboard_time": 1672281029,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445732,
+        "num": 445732,
+        "word": "只有张艺谋能凑齐的绝版阵容",
+        "onboard_time": 1672283609,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435823,
+        "num": 435823,
+        "word": "199爱",
+        "onboard_time": 1672283913,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427813,
+        "num": 427813,
+        "word": "谭松韵说嗑自己未来老公cp",
+        "onboard_time": 1672287032,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421663,
+        "num": 421663,
+        "word": "姆巴佩绝杀",
+        "onboard_time": 1672276949,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397136,
+        "num": 397136,
+        "word": "女生吐槽学校上厕所排队太难",
+        "onboard_time": 1672283792,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387825,
+        "num": 387825,
+        "word": "感染新冠两周后心肌会有反应",
+        "onboard_time": 1672237656,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312331,
+        "num": 312331,
+        "word": "iPhone15Plus或降价千元",
+        "onboard_time": 1672279470,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 386158,
+        "num": 310912,
+        "word": "杨紫199爱高马尾造型开机路透",
+        "onboard_time": 1672285949,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306242,
+        "num": 306242,
+        "word": "王一博陈宇获年度悬疑刑侦类角色第一",
+        "onboard_time": 1672288349,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283985,
+        "num": 283985,
+        "word": "光与夜之恋",
+        "onboard_time": 1672287569,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282954,
+        "num": 282954,
+        "word": "小胖女朋友澄清",
+        "onboard_time": 1672270522,
+        "rank": 23,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 279604,
+        "num": 279604,
+        "word": "轻度心肌炎多休息基本能痊愈",
+        "onboard_time": 1672286068,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275549,
+        "num": 275549,
+        "word": "咳嗽不停是不是新冠感染在加重",
+        "onboard_time": 1672279348,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267649,
+        "num": 267649,
+        "word": "专家称新冠一定不是感冒",
+        "onboard_time": 1672277970,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257683,
+        "num": 257683,
+        "word": "姆巴佩回应大马丁的嘲讽",
+        "onboard_time": 1672276111,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269970,
+        "num": 250901,
+        "word": "女子感染新冠后长出浓密胡子",
+        "onboard_time": 1672269377,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229776,
+        "num": 229776,
+        "word": "卫健委就女子孕检被误诊艾滋病一事发声",
+        "onboard_time": 1672277787,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262808,
+        "num": 228602,
+        "word": "小胖道歉",
+        "onboard_time": 1672271543,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 246259,
+        "num": 225701,
+        "word": "导演评价王鹤棣的肖铎",
+        "onboard_time": 1672288231,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233753,
+        "num": 223650,
+        "word": "与迪丽热巴一起欢乐跨年",
+        "onboard_time": 1672286612,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232175,
+        "num": 219726,
+        "word": "大哥远",
+        "onboard_time": 1672284329,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 219126,
+        "num": 219126,
+        "word": "齐司礼",
+        "onboard_time": 1672288292,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217239,
+        "num": 217239,
+        "word": "男子病房推搡咒骂痴呆母亲",
+        "onboard_time": 1672284269,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 186185,
+        "num": 186185,
+        "word": "各地重症高峰陆续到来",
+        "onboard_time": 1672286009,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184350,
+        "num": 184350,
+        "word": "44岁保安大叔新年愿望是结婚",
+        "onboard_time": 1672287750,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176025,
+        "num": 176025,
+        "word": "内马尔 法甲",
+        "onboard_time": 1672269317,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43977,
+        "num": 174468,
+        "word": "炫成为2022年最高频文字",
+        "onboard_time": 1672286430,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219584,
+        "num": 174274,
+        "word": "易烊千玺与新年红的适配度",
+        "onboard_time": 1672284390,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200470,
+        "num": 174267,
+        "word": "何润东说新角色很孬",
+        "onboard_time": 1672288231,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174006,
+        "num": 174006,
+        "word": "哈兰德说没能踢世界杯让他很饥饿",
+        "onboard_time": 1672274069,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163829,
+        "num": 163829,
+        "word": "真的没想到这是厕所",
+        "onboard_time": 1672285229,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160088,
+        "num": 160088,
+        "word": "蓝佛安同志任山西省委书记",
+        "onboard_time": 1672288052,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 148445,
+        "num": 148445,
+        "word": "江南百景图",
+        "onboard_time": 1672284811,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144384,
+        "num": 144384,
+        "word": "男子点火锅外卖吃出整块抹布",
+        "onboard_time": 1672280248,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139416,
+        "num": 139416,
+        "word": "篮网十连胜",
+        "onboard_time": 1672283190,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139099,
+        "num": 139099,
+        "word": "iPhone14plus是最拉胯机型吗",
+        "onboard_time": 1672283068,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 136922,
+        "num": 136922,
+        "word": "转阴后痰中带血需要就医吗",
+        "onboard_time": 1672288530,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一段视频告别2022#"
+    }
+  }
+}
