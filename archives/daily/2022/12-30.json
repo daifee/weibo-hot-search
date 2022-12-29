@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672349614059,
+  "endTime": 1672352229266,
   "band_list": [
     {
       "raw_hot": 1936346,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 132890,
-      "num": 66927,
+      "num": 72363,
       "word": "9位新冠二次感染者自述",
       "onboard_time": 1672336695,
       "rank": 31,
@@ -507,24 +507,32 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 31751,
-      "num": 31751,
+      "raw_hot": 36169,
+      "num": 36169,
       "word": "小秀是被李文卓所杀",
       "onboard_time": 1672343712,
       "rank": 35,
       "category": "影视"
     },
     {
-      "raw_hot": 23553,
-      "num": 21551,
+      "raw_hot": 26225,
+      "num": 24375,
       "word": "治疗新冠中药协定方范例公布",
       "onboard_time": 1672341253,
       "rank": 39,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15951,
-      "num": 16951,
+      "raw_hot": 18015,
+      "num": 18015,
+      "word": "没想到还有这种请假方式",
+      "onboard_time": 1672351813,
+      "rank": 44,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 17727,
+      "num": 17727,
       "word": "如何正确认识白肺现象",
       "onboard_time": 1672339273,
       "rank": 47,
