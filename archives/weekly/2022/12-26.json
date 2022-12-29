@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672298165031,
+  "endTime": 1672299205258,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -683,8 +683,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1128731,
-      "num": 1128731,
+      "raw_hot": 1132441,
+      "num": 1132441,
       "word": "陈乔恩说我们都已经是中年人了还装什么",
       "onboard_time": 1672293149,
       "rank": 6,
@@ -1755,6 +1755,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 665587,
+      "num": 665587,
+      "word": "陆毅回应鲍蕾不拍戏的原因",
+      "onboard_time": 1672296326,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 664701,
       "num": 664701,
       "word": "相亲遇疫情被迫同居男女已领证结婚",
@@ -1867,6 +1875,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 639890,
+      "num": 639890,
+      "word": "小胖下放",
+      "onboard_time": 1672294949,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 638394,
       "num": 638394,
       "word": "不浪费抗原的正确使用方法",
@@ -1920,6 +1936,14 @@
       "word": "取消入境人员全员核酸",
       "onboard_time": 1672224630,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622810,
+      "num": 622810,
+      "word": "男子猥亵打人叫嚣叔叔是市长",
+      "onboard_time": 1672296929,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -2129,14 +2153,6 @@
       "onboard_time": 1672058373,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 570135,
-      "num": 436370,
-      "word": "小胖下放",
-      "onboard_time": 1672294949,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 568636,
@@ -2555,14 +2571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 501374,
-      "num": 343073,
-      "word": "陆毅回应鲍蕾不拍戏的原因",
-      "onboard_time": 1672296326,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 500848,
       "num": 500848,
       "word": "普京称俄将100%摧毁美承诺援乌的爱国者",
@@ -2675,20 +2683,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 473007,
+      "num": 473007,
+      "word": "李子柒会加入直播战场吗",
+      "onboard_time": 1672295489,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 472353,
       "num": 472353,
       "word": "男子为节省抗原将试纸剪开分两次用",
       "onboard_time": 1671977912,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472345,
-      "num": 435476,
-      "word": "李子柒会加入直播战场吗",
-      "onboard_time": 1672295489,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 472197,
@@ -3091,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415352,
+      "num": 235887,
+      "word": "周深说很久没在这么大的地方唱歌了",
+      "onboard_time": 1672298669,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414127,
       "num": 414127,
       "word": "太阳转入YG旗下厂牌",
@@ -3219,6 +3235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 394288,
+      "num": 394288,
+      "word": "LPL仅TheShy入选操作TOP榜",
+      "onboard_time": 1672294051,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 393614,
       "num": 393614,
       "word": "东契奇 神",
@@ -3313,14 +3337,6 @@
       "onboard_time": 1672218572,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 380473,
-      "num": 380473,
-      "word": "LPL仅TheShy入选操作TOP榜",
-      "onboard_time": 1672294051,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 380470,
@@ -4059,14 +4075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315026,
-      "num": 315026,
-      "word": "男子猥亵打人叫嚣叔叔是市长",
-      "onboard_time": 1672296929,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314629,
       "num": 314629,
       "word": "热刺 中场",
@@ -4299,6 +4307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295416,
+      "num": 295416,
+      "word": "酒吧前台遭醉酒男猥亵当场反击报警",
+      "onboard_time": 1672295787,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294990,
       "num": 294990,
       "word": "郑州将调整住房限购政策",
@@ -4401,14 +4417,6 @@
       "onboard_time": 1672131392,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 287402,
-      "num": 287402,
-      "word": "酒吧前台遭醉酒男猥亵当场反击报警",
-      "onboard_time": 1672295787,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286641,
@@ -4723,6 +4731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263391,
+      "num": 1022201,
+      "word": "反复咳嗽的患者有哪些注意事项",
+      "onboard_time": 1672279470,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263104,
       "num": 147133,
       "word": "7senses官宣加盟聚光盛典",
@@ -4744,6 +4760,14 @@
       "word": "郑新黄河大桥多车相撞目击者发声",
       "onboard_time": 1672205309,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260919,
+      "num": 260919,
+      "word": "男子网购两车瓜子给全家人囤年货",
+      "onboard_time": 1672294769,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -4900,7 +4924,7 @@
     },
     {
       "raw_hot": 252286,
-      "num": 166446,
+      "num": 167004,
       "word": "赵丽颖沈雨获年度悬疑刑侦类女性角色第一",
       "onboard_time": 1672295370,
       "rank": 33,
@@ -4937,14 +4961,6 @@
       "onboard_time": 1672234112,
       "rank": 43,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 250268,
-      "num": 1022201,
-      "word": "反复咳嗽的患者有哪些注意事项",
-      "onboard_time": 1672279470,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249671,
@@ -5195,14 +5211,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 233184,
-      "num": 233184,
-      "word": "男子网购两车瓜子给全家人囤年货",
-      "onboard_time": 1672294769,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232861,
       "num": 232861,
       "word": "回来的女儿洗衣机里是李文文吗",
@@ -5393,6 +5401,14 @@
       "onboard_time": 1672183518,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225611,
+      "num": 167800,
+      "word": "内娱solo舞台高光时刻",
+      "onboard_time": 1672295248,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 225555,
@@ -5681,14 +5697,6 @@
       "onboard_time": 1672286009,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214116,
-      "num": 152240,
-      "word": "内娱solo舞台高光时刻",
-      "onboard_time": 1672295248,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 214095,
@@ -6267,6 +6275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192353,
+      "num": 192353,
+      "word": "阿里云高层大调整",
+      "onboard_time": 1672295310,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 191384,
       "num": 191384,
       "word": "这个狗全是心眼",
@@ -6563,6 +6579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182420,
+      "num": 112653,
+      "word": "肖战两部剧获年度剧集作品推荐",
+      "onboard_time": 1672299150,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181972,
       "num": 160930,
       "word": "电视剧199爱开机",
@@ -6617,6 +6641,14 @@
       "onboard_time": 1672059034,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180001,
+      "num": 112185,
+      "word": "王一博两部剧获年度剧集作品推荐",
+      "onboard_time": 1672298729,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 179834,
@@ -6945,14 +6977,6 @@
       "onboard_time": 1672151553,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169129,
-      "num": 169129,
-      "word": "阿里云高层大调整",
-      "onboard_time": 1672295310,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 168590,
@@ -7481,6 +7505,14 @@
       "onboard_time": 1672238075,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152612,
+      "num": 152612,
+      "word": "小伙10年考研8战清华",
+      "onboard_time": 1672298488,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 152502,
@@ -8019,6 +8051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138493,
+      "num": 170714,
+      "word": "好喜欢这种懂梗的老师",
+      "onboard_time": 1672296688,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138374,
       "num": 138374,
       "word": "已经期待明年夏天的西瓜了",
@@ -8211,6 +8251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130566,
+      "num": 130566,
+      "word": "细心空调师傅一个电话救了老人一命",
+      "onboard_time": 1672298968,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 130399,
       "num": 130399,
       "word": "总要去浏阳看一次烟花吧",
@@ -8297,14 +8345,6 @@
       "onboard_time": 1672274307,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125808,
-      "num": 125808,
-      "word": "好喜欢这种懂梗的老师",
-      "onboard_time": 1672296688,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 125748,
@@ -8691,6 +8731,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105910,
+      "num": 105910,
+      "word": "科学家确定天赋大脑区域",
+      "onboard_time": 1672298848,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 105637,
+      "num": 105637,
+      "word": "春运不再实施乘客测温",
+      "onboard_time": 1672298124,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 105420,
       "num": 105420,
       "word": "湖人vs魔术",
@@ -8736,6 +8792,14 @@
       "word": "如何用四大名著诠释阳了",
       "onboard_time": 1671982526,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103533,
+      "num": 103533,
+      "word": "雪后华山武侠感拉满",
+      "onboard_time": 1672299029,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -8849,14 +8913,6 @@
       "onboard_time": 1672241130,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 94193,
-      "num": 94193,
-      "word": "春运不再实施乘客测温",
-      "onboard_time": 1672298124,
-      "rank": 48,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 93813,
