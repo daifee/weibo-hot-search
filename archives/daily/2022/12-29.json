@@ -1,6 +1,6 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672312503526,
+  "endTime": 1672313586198,
   "band_list": [
     {
       "raw_hot": 2692084,
@@ -27,20 +27,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1996981,
+      "num": 1996981,
+      "word": "咳出白痰和黄痰有什么区别",
+      "onboard_time": 1672308270,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1975067,
       "num": 616401,
       "word": "素人求助赵露思领养猫咪",
       "onboard_time": 1672277009,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1962426,
-      "num": 1962426,
-      "word": "咳出白痰和黄痰有什么区别",
-      "onboard_time": 1672308270,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1904655,
@@ -153,6 +153,14 @@
       "onboard_time": 1672307251,
       "rank": 5,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 1139576,
+      "num": 1139576,
+      "word": "2023总台春晚首支歌曲公布",
+      "onboard_time": 1672311634,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1132441,
@@ -339,20 +347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 671562,
-      "num": 671562,
-      "word": "2023总台春晚首支歌曲公布",
-      "onboard_time": 1672311634,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 658906,
       "num": 658906,
       "word": "我都转阴了为什么还咳个不停",
       "onboard_time": 1672293450,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653185,
+      "num": 653185,
+      "word": "秦志戬",
+      "onboard_time": 1672309592,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 650618,
@@ -411,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 598376,
-      "num": 598376,
-      "word": "秦志戬",
-      "onboard_time": 1672309592,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 590584,
       "num": 590584,
       "word": "因疫情3年没回国的留学生自述",
@@ -433,6 +433,14 @@
       "onboard_time": 1672285409,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562038,
+      "num": 562038,
+      "word": "iPhone频繁降价开启卷王模式",
+      "onboard_time": 1672311634,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 558781,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 545600,
-      "num": 386084,
+      "num": 396506,
       "word": "迪丽热巴的2023新年祝福",
       "onboard_time": 1672311694,
       "rank": 11,
@@ -473,6 +481,22 @@
       "onboard_time": 1672274909,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541984,
+      "num": 411536,
+      "word": "新冠转阴后出现肺炎或是继发细菌感染",
+      "onboard_time": 1672309051,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519756,
+      "num": 409491,
+      "word": "Scout将在LNG首战微博杯",
+      "onboard_time": 1672312893,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 510446,
@@ -548,19 +572,11 @@
     },
     {
       "raw_hot": 451062,
-      "num": 375902,
+      "num": 391100,
       "word": "顾南亭怀念去世女友",
       "onboard_time": 1672310734,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 448662,
-      "num": 362126,
-      "word": "新冠转阴后出现肺炎或是继发细菌感染",
-      "onboard_time": 1672309051,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445657,
@@ -667,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 406370,
+      "num": 406370,
+      "word": "乌媒称乌全境遭大规模导弹袭击",
+      "onboard_time": 1672311572,
+      "rank": 27,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 403108,
       "num": 403108,
       "word": "结婚前有同居的必要吗",
@@ -723,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364213,
+      "num": 327060,
+      "word": "BoysPlanet",
+      "onboard_time": 1672312054,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357233,
       "num": 313570,
       "word": "顾魏李峋裴之登年度言情角色Top3",
@@ -748,7 +780,7 @@
     },
     {
       "raw_hot": 345714,
-      "num": 315827,
+      "num": 319344,
       "word": "内娱明星眼睛辨识度",
       "onboard_time": 1672309051,
       "rank": 32,
@@ -803,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335058,
+      "num": 335058,
+      "word": "和不喜欢的人结婚是怎样的",
+      "onboard_time": 1672312232,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 331054,
       "num": 243533,
       "word": "张雨绮疯狂喂杨迪喝水",
@@ -843,6 +883,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 320605,
+      "num": 320605,
+      "word": "布洛芬和对乙酰氨基酚日产量达到1.9亿片",
+      "onboard_time": 1672310854,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317874,
       "num": 317874,
       "word": "重庆狼队",
@@ -859,28 +907,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 310154,
-      "num": 310154,
-      "word": "布洛芬和对乙酰氨基酚日产量达到1.9亿片",
-      "onboard_time": 1672310854,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310039,
       "num": 167831,
       "word": "柯佳嬿说电影想见你原本有3个小时",
       "onboard_time": 1672304491,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 308569,
-      "num": 308569,
-      "word": "BoysPlanet",
-      "onboard_time": 1672312054,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 306242,
@@ -1027,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270975,
-      "num": 270975,
-      "word": "iPhone频繁降价开启卷王模式",
-      "onboard_time": 1672311634,
-      "rank": 26,
-      "category": "科技"
-    },
-    {
       "raw_hot": 264075,
       "num": 198460,
       "word": "黄磊评价谢娜乌镇戏剧节表现",
@@ -1073,14 +1097,6 @@
       "onboard_time": 1672290391,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 254422,
-      "num": 254422,
-      "word": "乌媒称乌全境遭大规模导弹袭击",
-      "onboard_time": 1672311572,
-      "rank": 27,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 252299,
@@ -1323,6 +1339,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 209308,
+      "num": 203974,
+      "word": "得知朋友背后诋毁该难过吗",
+      "onboard_time": 1672313312,
+      "rank": 32,
+      "category": "情感,综艺"
+    },
+    {
       "raw_hot": 205631,
       "num": 205631,
       "word": "鹅鸭杀",
@@ -1393,6 +1417,14 @@
       "onboard_time": 1672289852,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198718,
+      "num": 198718,
+      "word": "BoysPlanet主题曲MCD舞台",
+      "onboard_time": 1672313490,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 197932,
@@ -1513,6 +1545,14 @@
       "onboard_time": 1672280130,
       "rank": 28,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 185040,
+      "num": 185040,
+      "word": "追客户追出了恋爱的感觉",
+      "onboard_time": 1672312412,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 184869,
@@ -1883,14 +1923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144579,
-      "num": 144579,
-      "word": "追客户追出了恋爱的感觉",
-      "onboard_time": 1672312412,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 144318,
       "num": 144318,
       "word": "2022广州车展",
@@ -1956,7 +1988,7 @@
     },
     {
       "raw_hot": 139598,
-      "num": 139598,
+      "num": 146463,
       "word": "宝可梦朱紫",
       "onboard_time": 1672308932,
       "rank": 47,
@@ -2033,14 +2065,6 @@
       "onboard_time": 1672298968,
       "rank": 36,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 128934,
-      "num": 128934,
-      "word": "和不喜欢的人结婚是怎样的",
-      "onboard_time": 1672312232,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 128613,
@@ -2201,6 +2225,14 @@
       "onboard_time": 1672309530,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 109529,
+      "num": 143059,
+      "word": "教授撕文凭抗议塔利班不让女性上大学",
+      "onboard_time": 1672313312,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 107961,
@@ -2372,7 +2404,7 @@
     },
     {
       "raw_hot": 34083,
-      "num": 356011,
+      "num": 398740,
       "word": "买一件年货也有平台立减",
       "onboard_time": 1672311634,
       "rank": 14,
