@@ -1,6 +1,6 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672317183139,
+  "endTime": 1672318272221,
   "band_list": [
     {
       "raw_hot": 2692084,
@@ -65,6 +65,14 @@
       "onboard_time": 1672299690,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1741771,
+      "num": 1741771,
+      "word": "女子阳后9天洗头掉发如毛线团",
+      "onboard_time": 1672314270,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1662305,
@@ -152,14 +160,6 @@
       "word": "意大利对中国旅客强制实行新冠快速检测",
       "onboard_time": 1672281928,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1198329,
-      "num": 1198329,
-      "word": "女子阳后9天洗头掉发如毛线团",
-      "onboard_time": 1672314270,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 682040,
+      "num": 682040,
+      "word": "章昊 C位",
+      "onboard_time": 1672314270,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 658906,
       "num": 658906,
       "word": "我都转阴了为什么还咳个不停",
@@ -449,14 +457,6 @@
       "onboard_time": 1672269317,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 594950,
-      "num": 594950,
-      "word": "章昊 C位",
-      "onboard_time": 1672314270,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 590584,
@@ -555,6 +555,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 499468,
+      "num": 484662,
+      "word": "肖战和家人合照的拍照姿势",
+      "onboard_time": 1672315770,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 499430,
       "num": 488866,
       "word": "女子阳性高烧后舌头长满厚白舌苔",
@@ -569,14 +577,6 @@
       "onboard_time": 1672283609,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 484662,
-      "num": 484662,
-      "word": "肖战和家人合照的拍照姿势",
-      "onboard_time": 1672315770,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 483989,
@@ -643,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439302,
+      "num": 304130,
+      "word": "廖穗芳反水",
+      "onboard_time": 1672316670,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 439291,
       "num": 439291,
       "word": "吴磊再说子晟很好相处的",
@@ -657,6 +665,22 @@
       "onboard_time": 1672304970,
       "rank": 44,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 436118,
+      "num": 436118,
+      "word": "阿里健康买300只口罩仅收到30只",
+      "onboard_time": 1672315050,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435991,
+      "num": 435991,
+      "word": "南大发布学生举报教师事件调查通报",
+      "onboard_time": 1672317211,
+      "rank": 14,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 428387,
@@ -795,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 362423,
+      "num": 362423,
+      "word": "白猫掉下水道变黑猫主人边哭边洗",
+      "onboard_time": 1672315889,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357233,
       "num": 313570,
       "word": "顾魏李峋裴之登年度言情角色Top3",
@@ -808,14 +840,6 @@
       "word": "轻度心肌炎多休息基本能痊愈",
       "onboard_time": 1672286068,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355016,
-      "num": 355016,
-      "word": "阿里健康买300只口罩仅收到30只",
-      "onboard_time": 1672315050,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -865,6 +889,14 @@
       "onboard_time": 1672280248,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340050,
+      "num": 340050,
+      "word": "车厘子",
+      "onboard_time": 1672317691,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 337907,
@@ -939,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319067,
+      "num": 303524,
+      "word": "鞠婧祎浴室翻唱DITTO视频",
+      "onboard_time": 1672317450,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 317874,
       "num": 317874,
       "word": "重庆狼队",
@@ -984,6 +1024,14 @@
       "word": "反复咳嗽的患者有哪些注意事项",
       "onboard_time": 1672279470,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303129,
+      "num": 303129,
+      "word": "女子搬家后发现新房藏有豪华地堡",
+      "onboard_time": 1672317151,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1115,12 +1163,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266026,
-      "num": 154187,
-      "word": "白猫掉下水道变黑猫主人边哭边洗",
-      "onboard_time": 1672315889,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 269038,
+      "num": 176412,
+      "word": "BoysPlanet 好多帅哥",
+      "onboard_time": 1672318113,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 264075,
@@ -1203,14 +1251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245528,
-      "num": 151686,
-      "word": "廖穗芳反水",
-      "onboard_time": 1672316670,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 245476,
       "num": 245476,
       "word": "向太直播",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1672290510,
       "rank": 32,
       "category": "情感,音乐"
+    },
+    {
+      "raw_hot": 237447,
+      "num": 175386,
+      "word": "王鹤棣说退退退",
+      "onboard_time": 1672317092,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 235177,
@@ -1427,8 +1475,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 211138,
-      "num": 211138,
+      "raw_hot": 213612,
+      "num": 213612,
       "word": "国乒混双组长肖战",
       "onboard_time": 1672314751,
       "rank": 25,
@@ -1723,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179120,
+      "num": 179120,
+      "word": "足浴店被打员工称打人者依然在外面",
+      "onboard_time": 1672314510,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178883,
       "num": 178883,
       "word": "浮图缘删减戏份",
@@ -1777,14 +1833,6 @@
       "onboard_time": 1672217910,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 171672,
-      "num": 131499,
-      "word": "王鹤棣说退退退",
-      "onboard_time": 1672317092,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 168519,
@@ -1891,12 +1939,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161190,
+      "num": 161190,
+      "word": "xbb",
+      "onboard_time": 1672317092,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160088,
       "num": 160088,
       "word": "蓝佛安同志任山西省委书记",
       "onboard_time": 1672288052,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 159738,
+      "num": 159738,
+      "word": "男子高铁上脱口罩测抗原结果真阳了",
+      "onboard_time": 1672317810,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159687,
@@ -1987,14 +2051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149991,
-      "num": 149991,
-      "word": "足浴店被打员工称打人者依然在外面",
-      "onboard_time": 1672314510,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149984,
       "num": 149984,
       "word": "台湾有志青年要与祖国的发展共振",
@@ -2049,6 +2105,14 @@
       "onboard_time": 1672250653,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144336,
+      "num": 144336,
+      "word": "就让2022的故事都留在2022",
+      "onboard_time": 1672316851,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 144318,
@@ -2139,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136800,
+      "num": 136800,
+      "word": "宝可梦",
+      "onboard_time": 1672315952,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135937,
       "num": 107766,
       "word": "刘宇宁直播说安乐传配音配完了",
@@ -2195,14 +2267,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 130037,
-      "num": 130037,
-      "word": "宝可梦",
-      "onboard_time": 1672315952,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 128613,
       "num": 128613,
       "word": "过年必须有的一件东西",
@@ -2241,14 +2305,6 @@
       "onboard_time": 1672274307,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124382,
-      "num": 124382,
-      "word": "就让2022的故事都留在2022",
-      "onboard_time": 1672316851,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 124348,
@@ -2291,14 +2347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 121018,
-      "num": 124343,
-      "word": "xbb",
-      "onboard_time": 1672317092,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120940,
       "num": 120940,
       "word": "跨年必备牛肉碗",
@@ -2313,6 +2361,14 @@
       "onboard_time": 1672283671,
       "rank": 48,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 116804,
+      "num": 116804,
+      "word": "河南女子骑20分钟电动车到安徽放烟花",
+      "onboard_time": 1672318233,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116567,
@@ -2337,6 +2393,14 @@
       "onboard_time": 1672274069,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115299,
+      "num": 115299,
+      "word": "如何有效避免复阳",
+      "onboard_time": 1672318233,
+      "rank": 49,
+      "category": "社会议题"
     },
     {
       "raw_hot": 114939,
@@ -2392,14 +2456,6 @@
       "word": "栓Q哥回应栓Q成2022十大热词",
       "onboard_time": 1672317031,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111079,
-      "num": 124268,
-      "word": "女子搬家后发现新房藏有豪华地堡",
-      "onboard_time": 1672317151,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2613,6 +2669,9 @@
     },
     {
       "word": "#2022我国航天发射次数创历史新高#"
+    },
+    {
+      "word": "#新冠病毒感染者恢复期健康指引#"
     }
   ]
 }
