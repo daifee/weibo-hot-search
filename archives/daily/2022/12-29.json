@@ -1,6 +1,6 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672323359354,
+  "endTime": 1672324414849,
   "band_list": [
     {
       "raw_hot": 2692084,
@@ -57,6 +57,14 @@
       "onboard_time": 1672280189,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1820544,
+      "num": 1820544,
+      "word": "专家称今后不排除还需要做核酸",
+      "onboard_time": 1672320631,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1775892,
@@ -139,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1270068,
-      "num": 1270068,
-      "word": "专家称今后不排除还需要做核酸",
-      "onboard_time": 1672320631,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1240980,
       "num": 1240980,
       "word": "车厘子",
@@ -217,6 +217,14 @@
       "onboard_time": 1672283428,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1088821,
+      "num": 1088821,
+      "word": "嘉行传媒律师声明",
+      "onboard_time": 1672322973,
+      "rank": 11,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1070829,
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805189,
+      "num": 805189,
+      "word": "卫健委回应中国是否低估新冠死亡人数",
+      "onboard_time": 1672323692,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801955,
       "num": 801955,
       "word": "杨紫范丞丞身高差",
@@ -379,20 +395,20 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 731751,
+      "num": 731751,
+      "word": "曾光称北京新冠感染率或超80%",
+      "onboard_time": 1672319970,
+      "rank": 48,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 728634,
       "num": 728634,
       "word": "小胖女朋友澄清",
       "onboard_time": 1672270522,
       "rank": 6,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 727362,
-      "num": 727362,
-      "word": "曾光称北京新冠感染率或超80%",
-      "onboard_time": 1672319970,
-      "rank": 48,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 715191,
@@ -416,6 +432,14 @@
       "word": "章昊 C位",
       "onboard_time": 1672314270,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 660308,
+      "num": 660308,
+      "word": "医生说杜海涛减肥反弹几率很高",
+      "onboard_time": 1672322914,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -545,14 +569,6 @@
       "onboard_time": 1672285409,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 569740,
-      "num": 569740,
-      "word": "嘉行传媒律师声明",
-      "onboard_time": 1672322973,
-      "rank": 11,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 558781,
@@ -795,7 +811,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 421189,
+      "raw_hot": 422598,
       "num": 328725,
       "word": "BoysPlanet",
       "onboard_time": 1672312054,
@@ -860,7 +876,7 @@
     },
     {
       "raw_hot": 399246,
-      "num": 234507,
+      "num": 315374,
       "word": "BoysPlanet 王南钧",
       "onboard_time": 1672323033,
       "rank": 31,
@@ -915,10 +931,10 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 374525,
-      "num": 231597,
-      "word": "医生说杜海涛减肥反弹几率很高",
-      "onboard_time": 1672322914,
+      "raw_hot": 383255,
+      "num": 230827,
+      "word": "陈建宇 帅",
+      "onboard_time": 1672323454,
       "rank": 32,
       "category": "综艺"
     },
@@ -979,12 +995,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351089,
+      "num": 351089,
+      "word": "第一次晕猫了",
+      "onboard_time": 1672321293,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 350568,
+      "num": 350568,
+      "word": "血氧指标低于90就是肺感染重症体现",
+      "onboard_time": 1672322792,
+      "rank": 46,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 349051,
       "num": 349051,
       "word": "孙子被奶奶支配用漏勺挖面却没漏",
       "onboard_time": 1672299570,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346771,
+      "num": 229564,
+      "word": "张元英LOVEDIVE年末舞台直拍",
+      "onboard_time": 1672323692,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 345714,
@@ -1153,14 +1193,6 @@
       "onboard_time": 1672316670,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312145,
-      "num": 312145,
-      "word": "第一次晕猫了",
-      "onboard_time": 1672321293,
-      "rank": 23,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 310039,
@@ -2243,6 +2275,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 150744,
+      "num": 150744,
+      "word": "木桶饭的意义是什么",
+      "onboard_time": 1672323633,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 150502,
       "num": 150502,
       "word": "孙颖莎国际乒联2022年终世界第一",
@@ -2467,14 +2507,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 130358,
-      "num": 130358,
-      "word": "血氧指标低于90就是肺感染重症体现",
-      "onboard_time": 1672322792,
-      "rank": 46,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 128613,
       "num": 128613,
       "word": "过年必须有的一件东西",
@@ -2499,6 +2531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 127499,
+      "num": 127499,
+      "word": "男孩蛀牙吃泡面精准卡缝咬不断",
+      "onboard_time": 1672324173,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126712,
       "num": 100927,
       "word": "回来的女儿",
@@ -2512,6 +2552,14 @@
       "word": "居家消毒5个注意事项",
       "onboard_time": 1672314153,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126444,
+      "num": 126444,
+      "word": "俩女主播为抢榜一大哥互怼闹上法庭",
+      "onboard_time": 1672322973,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2579,14 +2627,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 116951,
-      "num": 116951,
-      "word": "俩女主播为抢榜一大哥互怼闹上法庭",
-      "onboard_time": 1672322973,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116567,
       "num": 124325,
       "word": "国乒新一届教练组确定",
@@ -2601,6 +2641,14 @@
       "onboard_time": 1672239211,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115663,
+      "num": 115663,
+      "word": "两个字把老师cpu干烧了",
+      "onboard_time": 1672324353,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 115442,

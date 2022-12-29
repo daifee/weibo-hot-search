@@ -1,0 +1,410 @@
+{
+  "runTime": 1672324414849,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1820544,
+        "num": 1820544,
+        "word": "专家称今后不排除还需要做核酸",
+        "onboard_time": 1672320631,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1282226,
+        "num": 1282226,
+        "word": "女子阳后9天洗头掉发如毛线团",
+        "onboard_time": 1672314270,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98351,
+        "num": 1143050,
+        "word": "居家消毒5个注意事项",
+        "onboard_time": 1672314153,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1088821,
+        "num": 1088821,
+        "word": "嘉行传媒律师声明",
+        "onboard_time": 1672322973,
+        "rank": 3,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 974326,
+        "num": 974326,
+        "word": "车厘子",
+        "onboard_time": 1672317691,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 883448,
+        "num": 883448,
+        "word": "咳出白痰和黄痰有什么区别",
+        "onboard_time": 1672308270,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805189,
+        "num": 805189,
+        "word": "卫健委回应中国是否低估新冠死亡人数",
+        "onboard_time": 1672323692,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731751,
+        "num": 731751,
+        "word": "曾光称北京新冠感染率或超80%",
+        "onboard_time": 1672319970,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 719867,
+        "num": 719867,
+        "word": "吾木提 选秀",
+        "onboard_time": 1672318291,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660308,
+        "num": 660308,
+        "word": "医生说杜海涛减肥反弹几率很高",
+        "onboard_time": 1672322914,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 659396,
+        "num": 659396,
+        "word": "杨幂",
+        "onboard_time": 1672309953,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618618,
+        "num": 618618,
+        "word": "男子高铁上脱口罩测抗原结果真阳了",
+        "onboard_time": 1672317810,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613125,
+        "num": 613125,
+        "word": "这个秀非选不可吗",
+        "onboard_time": 1672321235,
+        "rank": 12,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 536854,
+        "num": 536854,
+        "word": "张艺兴公司练习生参加BoysPlanet",
+        "onboard_time": 1672321293,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423772,
+        "num": 423772,
+        "word": "你收到哪里的晚安",
+        "onboard_time": 1672321716,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 405995,
+        "num": 405995,
+        "word": "女子搬家后发现新房藏有豪华地堡",
+        "onboard_time": 1672317151,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385875,
+        "num": 385875,
+        "word": "元旦放5天假是什么体验",
+        "onboard_time": 1672307251,
+        "rank": 16,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 351089,
+        "num": 351089,
+        "word": "第一次晕猫了",
+        "onboard_time": 1672321293,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 350568,
+        "num": 350568,
+        "word": "血氧指标低于90就是肺感染重症体现",
+        "onboard_time": 1672322792,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 316819,
+        "num": 316819,
+        "word": "如何有效避免复阳",
+        "onboard_time": 1672318233,
+        "rank": 19,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 422598,
+        "num": 316207,
+        "word": "BoysPlanet",
+        "onboard_time": 1672312054,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408804,
+        "num": 315899,
+        "word": "文邺辰 青1",
+        "onboard_time": 1672319489,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315435,
+        "num": 315435,
+        "word": "晚安计划",
+        "onboard_time": 1672323155,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392396,
+        "num": 315374,
+        "word": "BoysPlanet 王南钧",
+        "onboard_time": 1672323033,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306315,
+        "num": 306315,
+        "word": "和不喜欢的人结婚是怎样的",
+        "onboard_time": 1672312232,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288548,
+        "num": 288548,
+        "word": "河南女子骑20分钟电动车到安徽放烟花",
+        "onboard_time": 1672318233,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267994,
+        "num": 267994,
+        "word": "iPhone频繁降价开启卷王模式",
+        "onboard_time": 1672311634,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 260896,
+        "num": 260896,
+        "word": "南大发布学生举报教师事件调查通报",
+        "onboard_time": 1672317211,
+        "rank": 27,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 244658,
+        "num": 244658,
+        "word": "同层4户邻居在楼道聚餐",
+        "onboard_time": 1672318770,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232968,
+        "num": 232968,
+        "word": "新冠转阴后出现肺炎或是继发细菌感染",
+        "onboard_time": 1672309051,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387423,
+        "num": 232580,
+        "word": "2023总台春晚首支歌曲公布",
+        "onboard_time": 1672311634,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386042,
+        "num": 232111,
+        "word": "迪丽热巴晒露腰对镜拍",
+        "onboard_time": 1672315407,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383255,
+        "num": 230827,
+        "word": "陈建宇 帅",
+        "onboard_time": 1672323454,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360440,
+        "num": 230520,
+        "word": "章昊 C位",
+        "onboard_time": 1672314270,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229915,
+        "num": 229915,
+        "word": "Scout将在LNG首战微博杯",
+        "onboard_time": 1672312893,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 346771,
+        "num": 229564,
+        "word": "张元英LOVEDIVE年末舞台直拍",
+        "onboard_time": 1672323692,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206568,
+        "num": 206568,
+        "word": "白猫掉下水道变黑猫主人边哭边洗",
+        "onboard_time": 1672315889,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199560,
+        "num": 199560,
+        "word": "女孩走亲戚看到数学老师后瞬间石化",
+        "onboard_time": 1672318049,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193988,
+        "num": 193988,
+        "word": "Scout感谢EDG",
+        "onboard_time": 1672319375,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179733,
+        "num": 179733,
+        "word": "乌媒称乌全境遭大规模导弹袭击",
+        "onboard_time": 1672311572,
+        "rank": 39,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 308029,
+        "num": 179365,
+        "word": "李承天点烟送陈佑希上路",
+        "onboard_time": 1672318170,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175725,
+        "num": 175725,
+        "word": "女子阳性高烧后舌头长满厚白舌苔",
+        "onboard_time": 1672307369,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169215,
+        "num": 169215,
+        "word": "专家建议直接给中低收入群体发钱",
+        "onboard_time": 1672301968,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 152529,
+        "num": 152529,
+        "word": "阳康后咳咳咳6招教你轻松排痰",
+        "onboard_time": 1672319613,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150744,
+        "num": 150744,
+        "word": "木桶饭的意义是什么",
+        "onboard_time": 1672323633,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127499,
+        "num": 127499,
+        "word": "男孩蛀牙吃泡面精准卡缝咬不断",
+        "onboard_time": 1672324173,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127317,
+        "num": 127317,
+        "word": "阿里健康买300只口罩仅收到30只",
+        "onboard_time": 1672315050,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126444,
+        "num": 126444,
+        "word": "俩女主播为抢榜一大哥互怼闹上法庭",
+        "onboard_time": 1672322973,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122048,
+        "num": 122048,
+        "word": "秦志戬",
+        "onboard_time": 1672309592,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115663,
+        "num": 115663,
+        "word": "两个字把老师cpu干烧了",
+        "onboard_time": 1672324353,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#新冠病毒感染者恢复期健康指引#"
+    }
+  }
+}

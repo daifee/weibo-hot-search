@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672323359354,
+  "endTime": 1672324414849,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -297,6 +297,14 @@
       "onboard_time": 1672280189,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1820544,
+      "num": 1820544,
+      "word": "专家称今后不排除还需要做核酸",
+      "onboard_time": 1672320631,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1775892,
@@ -651,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1270068,
-      "num": 1270068,
-      "word": "专家称今后不排除还需要做核酸",
-      "onboard_time": 1672320631,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1266427,
       "num": 1266427,
       "word": "任嘉伦邢菲二搭",
@@ -881,6 +881,14 @@
       "onboard_time": 1672283428,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1088821,
+      "num": 1088821,
+      "word": "嘉行传媒律师声明",
+      "onboard_time": 1672322973,
+      "rank": 11,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1086285,
@@ -1459,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805189,
+      "num": 805189,
+      "word": "卫健委回应中国是否低估新冠死亡人数",
+      "onboard_time": 1672323692,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 803582,
       "num": 803582,
       "word": "蔡徐坤张艺兴鹿晗微博音乐盛典年度推荐歌手",
@@ -1707,6 +1723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 731751,
+      "num": 731751,
+      "word": "曾光称北京新冠感染率或超80%",
+      "onboard_time": 1672319970,
+      "rank": 48,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 728634,
       "num": 728634,
       "word": "小胖女朋友澄清",
@@ -1721,14 +1745,6 @@
       "onboard_time": 1672049973,
       "rank": 31,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 727362,
-      "num": 727362,
-      "word": "曾光称北京新冠感染率或超80%",
-      "onboard_time": 1672319970,
-      "rank": 48,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 717835,
@@ -1945,6 +1961,14 @@
       "onboard_time": 1672147114,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 660308,
+      "num": 660308,
+      "word": "医生说杜海涛减肥反弹几率很高",
+      "onboard_time": 1672322914,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 659345,
@@ -2385,14 +2409,6 @@
       "onboard_time": 1672058373,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 569740,
-      "num": 569740,
-      "word": "嘉行传媒律师声明",
-      "onboard_time": 1672322973,
-      "rank": 11,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 568636,
@@ -3451,20 +3467,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 422598,
+      "num": 328725,
+      "word": "BoysPlanet",
+      "onboard_time": 1672312054,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 422169,
       "num": 422169,
       "word": "梁洁有多喜欢这件粉色毛绒大衣",
       "onboard_time": 1672096878,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 421189,
-      "num": 328725,
-      "word": "BoysPlanet",
-      "onboard_time": 1672312054,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 419269,
@@ -3604,7 +3620,7 @@
     },
     {
       "raw_hot": 399246,
-      "num": 234507,
+      "num": 315374,
       "word": "BoysPlanet 王南钧",
       "onboard_time": 1672323033,
       "rank": 31,
@@ -3747,6 +3763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383255,
+      "num": 230827,
+      "word": "陈建宇 帅",
+      "onboard_time": 1672323454,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382029,
       "num": 382029,
       "word": "秀秀 紫幻",
@@ -3817,14 +3841,6 @@
       "onboard_time": 1672028792,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 374525,
-      "num": 231597,
-      "word": "医生说杜海涛减肥反弹几率很高",
-      "onboard_time": 1672322914,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 374333,
@@ -4099,6 +4115,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351089,
+      "num": 351089,
+      "word": "第一次晕猫了",
+      "onboard_time": 1672321293,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 350568,
+      "num": 350568,
+      "word": "血氧指标低于90就是肺感染重症体现",
+      "onboard_time": 1672322792,
+      "rank": 46,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 350562,
       "num": 350562,
       "word": "可去香港打复必泰二价疫苗",
@@ -4121,6 +4153,14 @@
       "onboard_time": 1672299570,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346771,
+      "num": 229564,
+      "word": "张元英LOVEDIVE年末舞台直拍",
+      "onboard_time": 1672323692,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 346055,
@@ -4657,14 +4697,6 @@
       "onboard_time": 1672022490,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 312145,
-      "num": 312145,
-      "word": "第一次晕猫了",
-      "onboard_time": 1672321293,
-      "rank": 23,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 311739,
@@ -8451,6 +8483,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 150744,
+      "num": 150744,
+      "word": "木桶饭的意义是什么",
+      "onboard_time": 1672323633,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 150502,
       "num": 150502,
       "word": "孙颖莎国际乒联2022年终世界第一",
@@ -9195,14 +9235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130358,
-      "num": 130358,
-      "word": "血氧指标低于90就是肺感染重症体现",
-      "onboard_time": 1672322792,
-      "rank": 46,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 130180,
       "num": 142756,
       "word": "2022第一条晚安短信",
@@ -9291,6 +9323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 127499,
+      "num": 127499,
+      "word": "男孩蛀牙吃泡面精准卡缝咬不断",
+      "onboard_time": 1672324173,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126909,
       "num": 126909,
       "word": "接到推销电话后男子反手将其起诉",
@@ -9304,6 +9344,14 @@
       "word": "居家消毒5个注意事项",
       "onboard_time": 1672314153,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126444,
+      "num": 126444,
+      "word": "俩女主播为抢榜一大哥互怼闹上法庭",
+      "onboard_time": 1672322973,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -9547,14 +9595,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 116951,
-      "num": 116951,
-      "word": "俩女主播为抢榜一大哥互怼闹上法庭",
-      "onboard_time": 1672322973,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116567,
       "num": 124325,
       "word": "国乒新一届教练组确定",
@@ -9577,6 +9617,14 @@
       "onboard_time": 1672211668,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115663,
+      "num": 115663,
+      "word": "两个字把老师cpu干烧了",
+      "onboard_time": 1672324353,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 115442,
