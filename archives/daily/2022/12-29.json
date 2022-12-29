@@ -1,6 +1,6 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672292019964,
+  "endTime": 1672294947914,
   "band_list": [
     {
       "raw_hot": 2692084,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 980734,
+      "num": 980734,
+      "word": "狼队发布小胖处罚公告",
+      "onboard_time": 1672292068,
+      "rank": 1,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 953552,
       "num": 953552,
       "word": "泽连斯基称乌克兰已成为全球领导者之一",
@@ -161,6 +169,22 @@
       "onboard_time": 1672242266,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 818458,
+      "num": 818458,
+      "word": "内马尔 好惨",
+      "onboard_time": 1672292010,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 807764,
+      "num": 807764,
+      "word": "1380元血氧仪成本仅几十块",
+      "onboard_time": 1672290391,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 779373,
@@ -219,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649189,
+      "num": 649189,
+      "word": "陈乔恩说我们都已经是中年人了还装什么",
+      "onboard_time": 1672293149,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 636456,
       "num": 636456,
       "word": "转阴后一定不要狂吃",
@@ -259,12 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 527339,
-      "num": 527339,
-      "word": "1380元血氧仪成本仅几十块",
-      "onboard_time": 1672290391,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 544112,
+      "num": 544112,
+      "word": "杨紫范丞丞身高差",
+      "onboard_time": 1672294710,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 510446,
@@ -313,6 +345,14 @@
       "onboard_time": 1672235615,
       "rank": 20,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 445657,
+      "num": 445657,
+      "word": "张子枫说张艺兴变得勇敢了很多",
+      "onboard_time": 1672291111,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 443112,
@@ -435,12 +475,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 344960,
+      "num": 248536,
+      "word": "夫胜宽 耳光",
+      "onboard_time": 1672292672,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344322,
       "num": 344322,
       "word": "男子点火锅外卖吃出整块抹布",
       "onboard_time": 1672280248,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337907,
+      "num": 337907,
+      "word": "不良人",
+      "onboard_time": 1672290871,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 331054,
+      "num": 243533,
+      "word": "张雨绮疯狂喂杨迪喝水",
+      "onboard_time": 1672294409,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 328994,
@@ -467,12 +531,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 308058,
-      "num": 271651,
-      "word": "张子枫说张艺兴变得勇敢了很多",
-      "onboard_time": 1672291111,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 317151,
+      "num": 238704,
+      "word": "Newjeans将专辑销售收入捐赠给聋哑人",
+      "onboard_time": 1672294409,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 306242,
@@ -571,12 +635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 270552,
-      "num": 270552,
-      "word": "不良人",
-      "onboard_time": 1672290871,
-      "rank": 22,
-      "category": "动漫"
+      "raw_hot": 277767,
+      "num": 277767,
+      "word": "我都转阴了为什么还咳个不停",
+      "onboard_time": 1672293450,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263681,
@@ -593,6 +657,22 @@
       "onboard_time": 1672289789,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259435,
+      "num": 259435,
+      "word": "男孩吐槽认真做作业却考倒数第二",
+      "onboard_time": 1672290391,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 253210,
+      "num": 253210,
+      "word": "LPL仅TheShy入选操作TOP榜",
+      "onboard_time": 1672294051,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 252299,
@@ -681,14 +761,6 @@
       "onboard_time": 1672237656,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 226613,
-      "num": 226613,
-      "word": "男孩吐槽认真做作业却考倒数第二",
-      "onboard_time": 1672290391,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 223370,
@@ -827,6 +899,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 195236,
+      "num": 175843,
+      "word": "大宋少年志",
+      "onboard_time": 1672294647,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193788,
       "num": 193788,
       "word": "梅西外出被球迷围堵",
@@ -867,6 +947,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188478,
+      "num": 188478,
+      "word": "第一次见这样吃饭的猫咪",
+      "onboard_time": 1672293867,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 188388,
+      "num": 175622,
+      "word": "时代少年团获台上台下都很炸的真炸团",
+      "onboard_time": 1672292611,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186639,
       "num": 186639,
       "word": "算法开发工程师平均年薪超60万",
@@ -881,6 +977,14 @@
       "onboard_time": 1672280130,
       "rank": 28,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 184869,
+      "num": 173429,
+      "word": "今年的月老只忘了给我牵线",
+      "onboard_time": 1672292611,
+      "rank": 34,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 183538,
@@ -899,12 +1003,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181914,
-      "num": 181914,
-      "word": "内马尔 好惨",
-      "onboard_time": 1672292010,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 181972,
+      "num": 160930,
+      "word": "电视剧199爱开机",
+      "onboard_time": 1672294169,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 181402,
@@ -1065,6 +1169,14 @@
       "onboard_time": 1672288052,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 159687,
+      "num": 164464,
+      "word": "新疆的赛里木湖有多美",
+      "onboard_time": 1672294409,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 159665,
@@ -1233,6 +1345,14 @@
       "onboard_time": 1672276887,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 133411,
+      "num": 133411,
+      "word": "男子网购两车瓜子给全家人囤年货",
+      "onboard_time": 1672294769,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132908,
