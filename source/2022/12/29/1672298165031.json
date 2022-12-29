@@ -1,0 +1,410 @@
+{
+  "runTime": 1672298165031,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2078182,
+        "num": 2078182,
+        "word": "羊了个羊创始人没想到一季度挣了20万",
+        "onboard_time": 1672289970,
+        "rank": 0,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 1128731,
+        "num": 1128731,
+        "word": "陈乔恩说我们都已经是中年人了还装什么",
+        "onboard_time": 1672293149,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250268,
+        "num": 841873,
+        "word": "反复咳嗽的患者有哪些注意事项",
+        "onboard_time": 1672279470,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705189,
+        "num": 705189,
+        "word": "狼队发布小胖处罚公告",
+        "onboard_time": 1672292068,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 703066,
+        "num": 703066,
+        "word": "杨紫范丞丞身高差",
+        "onboard_time": 1672294710,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 679379,
+        "num": 679379,
+        "word": "内马尔 好惨",
+        "onboard_time": 1672292010,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 658906,
+        "num": 658906,
+        "word": "我都转阴了为什么还咳个不停",
+        "onboard_time": 1672293450,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485039,
+        "num": 485039,
+        "word": "1380元血氧仪成本仅几十块",
+        "onboard_time": 1672290391,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 427000,
+        "num": 427000,
+        "word": "北京一阿姨眼皮跳就诊后被赔16万",
+        "onboard_time": 1672289552,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380473,
+        "num": 380473,
+        "word": "LPL仅TheShy入选操作TOP榜",
+        "onboard_time": 1672294051,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 841104,
+        "num": 367981,
+        "word": "向太试吃车厘子",
+        "onboard_time": 1672283428,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570135,
+        "num": 361590,
+        "word": "小胖下放",
+        "onboard_time": 1672294949,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 501374,
+        "num": 343073,
+        "word": "陆毅回应鲍蕾不拍戏的原因",
+        "onboard_time": 1672296326,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468195,
+        "num": 338941,
+        "word": "李子柒会加入直播战场吗",
+        "onboard_time": 1672295489,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 327980,
+        "num": 327980,
+        "word": "新冠感染新增本土死亡1例",
+        "onboard_time": 1672285347,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315026,
+        "num": 315026,
+        "word": "男子猥亵打人叫嚣叔叔是市长",
+        "onboard_time": 1672296929,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293984,
+        "num": 293984,
+        "word": "白肺的一个明显表现是气紧",
+        "onboard_time": 1672283428,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287402,
+        "num": 287402,
+        "word": "酒吧前台遭醉酒男猥亵当场反击报警",
+        "onboard_time": 1672295787,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246508,
+        "num": 246508,
+        "word": "EDG Scout",
+        "onboard_time": 1672290150,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233553,
+        "num": 233553,
+        "word": "不良人",
+        "onboard_time": 1672290871,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 327660,
+        "num": 233430,
+        "word": "沉香如屑",
+        "onboard_time": 1672296688,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287913,
+        "num": 233311,
+        "word": "夫胜宽 耳光",
+        "onboard_time": 1672292672,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280500,
+        "num": 233256,
+        "word": "萧敬腾方联合声明",
+        "onboard_time": 1672289371,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233184,
+        "num": 233184,
+        "word": "男子网购两车瓜子给全家人囤年货",
+        "onboard_time": 1672294769,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222336,
+        "num": 222336,
+        "word": "女子吸朋友递来香烟后毒品阳性",
+        "onboard_time": 1672280069,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205809,
+        "num": 205809,
+        "word": "泽连斯基称乌克兰已成为全球领导者之一",
+        "onboard_time": 1672286669,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 182098,
+        "num": 182098,
+        "word": "转阴后一定不要狂吃",
+        "onboard_time": 1672284269,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169129,
+        "num": 169129,
+        "word": "阿里云高层大调整",
+        "onboard_time": 1672295310,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 163319,
+        "num": 163319,
+        "word": "第一次见这样吃饭的猫咪",
+        "onboard_time": 1672293867,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155278,
+        "num": 155278,
+        "word": "Hero与你一起跨过2022",
+        "onboard_time": 1672297409,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241692,
+        "num": 154703,
+        "word": "张子枫说张艺兴变得勇敢了很多",
+        "onboard_time": 1672291111,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214116,
+        "num": 152240,
+        "word": "内娱solo舞台高光时刻",
+        "onboard_time": 1672295248,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201800,
+        "num": 151218,
+        "word": "赵丽颖沈雨获年度悬疑刑侦类女性角色第一",
+        "onboard_time": 1672295370,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198427,
+        "num": 149464,
+        "word": "张雨绮疯狂喂杨迪喝水",
+        "onboard_time": 1672294409,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170054,
+        "num": 148715,
+        "word": "女子阳康后子宫异常出血",
+        "onboard_time": 1672274307,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147672,
+        "num": 147672,
+        "word": "轻度心肌炎多休息基本能痊愈",
+        "onboard_time": 1672286068,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142602,
+        "num": 142602,
+        "word": "新疆的赛里木湖有多美",
+        "onboard_time": 1672294409,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 140158,
+        "num": 140158,
+        "word": "丈夫照顾阳性妻子5天自己1天痊愈",
+        "onboard_time": 1672285409,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133175,
+        "num": 133175,
+        "word": "意大利对中国旅客强制实行新冠快速检测",
+        "onboard_time": 1672281928,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125808,
+        "num": 125808,
+        "word": "好喜欢这种懂梗的老师",
+        "onboard_time": 1672296688,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195959,
+        "num": 125593,
+        "word": "易烊千玺满江红侧颜盔甲海报",
+        "onboard_time": 1672298066,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193861,
+        "num": 125314,
+        "word": "颜淡纪云禾小兰花登年度仙侠奇幻角色TOP3",
+        "onboard_time": 1672295729,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124860,
+        "num": 124860,
+        "word": "男孩吐槽认真做作业却考倒数第二",
+        "onboard_time": 1672290391,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 109800,
+        "num": 109800,
+        "word": "iPhone15Plus或降价千元",
+        "onboard_time": 1672279470,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 109596,
+        "num": 109596,
+        "word": "专家称新冠一定不是感冒",
+        "onboard_time": 1672277970,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100505,
+        "num": 100505,
+        "word": "内马尔 被犯规",
+        "onboard_time": 1672297529,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99860,
+        "num": 99860,
+        "word": "女生吐槽学校上厕所排队太难",
+        "onboard_time": 1672283792,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95510,
+        "num": 95510,
+        "word": "姆巴佩绝杀",
+        "onboard_time": 1672276949,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94193,
+        "num": 94193,
+        "word": "春运不再实施乘客测温",
+        "onboard_time": 1672298124,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 93761,
+        "num": 93761,
+        "word": "姆巴佩 强",
+        "onboard_time": 1672297229,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#10张数字海报回顾2022#"
+    }
+  }
+}
