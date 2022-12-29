@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672345148685,
+  "endTime": 1672346020353,
   "band_list": [
     {
       "raw_hot": 1936346,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617530,
+      "num": 617530,
+      "word": "球王贝利去世",
+      "onboard_time": 1672344132,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 606385,
       "num": 528186,
       "word": "福建一股民赚1.4亿被罚没5.7亿",
@@ -73,14 +81,6 @@
       "onboard_time": 1672314270,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 447736,
-      "num": 447736,
-      "word": "球王贝利去世",
-      "onboard_time": 1672344132,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 380838,
@@ -507,7 +507,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 22493,
+      "raw_hot": 25729,
       "num": 20728,
       "word": "小秀是被李文卓所杀",
       "onboard_time": 1672343712,
@@ -515,7 +515,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 21266,
+      "raw_hot": 23062,
       "num": 20718,
       "word": "治疗新冠中药协定方范例公布",
       "onboard_time": 1672341253,
@@ -523,7 +523,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15752,
+      "raw_hot": 15951,
       "num": 16951,
       "word": "如何正确认识白肺现象",
       "onboard_time": 1672339273,

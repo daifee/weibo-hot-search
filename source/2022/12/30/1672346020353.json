@@ -1,0 +1,410 @@
+{
+  "runTime": 1672346020353,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 617530,
+        "num": 617530,
+        "word": "球王贝利去世",
+        "onboard_time": 1672344132,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239196,
+        "num": 239196,
+        "word": "专家称第二波疫情风暴会很低",
+        "onboard_time": 1672328067,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13636,
+        "num": 165531,
+        "word": "恢复期9类健康问题如何应对",
+        "onboard_time": 1672328548,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151445,
+        "num": 151445,
+        "word": "成都百岁网红奶奶去世",
+        "onboard_time": 1672327588,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140526,
+        "num": 140526,
+        "word": "卫健委回应中国是否放开太快",
+        "onboard_time": 1672327290,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117918,
+        "num": 117918,
+        "word": "这个秀非选不可吗",
+        "onboard_time": 1672321235,
+        "rank": 5,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 103292,
+        "num": 103292,
+        "word": "福建一股民赚1.4亿被罚没5.7亿",
+        "onboard_time": 1672329387,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 75724,
+        "num": 75724,
+        "word": "女子阳后9天洗头掉发如毛线团",
+        "onboard_time": 1672314270,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65566,
+        "num": 65566,
+        "word": "专家称今后不排除还需要做核酸",
+        "onboard_time": 1672320631,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62683,
+        "num": 62683,
+        "word": "今年最爱的电子榨菜",
+        "onboard_time": 1672333459,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72086,
+        "num": 60848,
+        "word": "9位新冠二次感染者自述",
+        "onboard_time": 1672336695,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58153,
+        "num": 58153,
+        "word": "卫健委回应中国是否低估新冠死亡人数",
+        "onboard_time": 1672323692,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49741,
+        "num": 49741,
+        "word": "官方辟谣上海浦东某小区有人焚烧遗体",
+        "onboard_time": 1672328186,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46422,
+        "num": 46422,
+        "word": "咳出白痰和黄痰有什么区别",
+        "onboard_time": 1672308270,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45968,
+        "num": 45968,
+        "word": "血氧指标低于90就是肺感染重症体现",
+        "onboard_time": 1672322792,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 43247,
+        "num": 43247,
+        "word": "医生说杜海涛减肥反弹几率很高",
+        "onboard_time": 1672322914,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37780,
+        "num": 37780,
+        "word": "快乐再出发",
+        "onboard_time": 1672327407,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37377,
+        "num": 37377,
+        "word": "日本媒体报道2022年中国网络流行语",
+        "onboard_time": 1672332860,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35393,
+        "num": 35393,
+        "word": "男子高铁上脱口罩测抗原结果真阳了",
+        "onboard_time": 1672317810,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31224,
+        "num": 31224,
+        "word": "嘉行传媒律师声明",
+        "onboard_time": 1672322973,
+        "rank": 19,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 31125,
+        "num": 31125,
+        "word": "曾光称北京新冠感染率或超80%",
+        "onboard_time": 1672319970,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 30988,
+        "num": 30988,
+        "word": "杨幂",
+        "onboard_time": 1672309953,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30843,
+        "num": 30843,
+        "word": "吾木提 选秀",
+        "onboard_time": 1672318291,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30485,
+        "num": 30485,
+        "word": "女子搬家后发现新房藏有豪华地堡",
+        "onboard_time": 1672317151,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29455,
+        "num": 29455,
+        "word": "廖穗芳对陈佑希有感情了",
+        "onboard_time": 1672331663,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28721,
+        "num": 28721,
+        "word": "迪丽热巴晒露腰对镜拍",
+        "onboard_time": 1672315407,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24139,
+        "num": 24139,
+        "word": "女子阳性高烧后舌头长满厚白舌苔",
+        "onboard_time": 1672307369,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23939,
+        "num": 23939,
+        "word": "南大发布学生举报教师事件调查通报",
+        "onboard_time": 1672317211,
+        "rank": 27,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 22153,
+        "num": 22153,
+        "word": "iPhone频繁降价开启卷王模式",
+        "onboard_time": 1672311634,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 20935,
+        "num": 20935,
+        "word": "如何有效避免复阳",
+        "onboard_time": 1672318233,
+        "rank": 29,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 28050,
+        "num": 20811,
+        "word": "染色体 王子浩",
+        "onboard_time": 1672324653,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25931,
+        "num": 20646,
+        "word": "胡彦斌问王霏霏女艺人过年怕吃胖吗",
+        "onboard_time": 1672333819,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25729,
+        "num": 20560,
+        "word": "小秀是被李文卓所杀",
+        "onboard_time": 1672343712,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25456,
+        "num": 20407,
+        "word": "张艺兴公司练习生参加BoysPlanet",
+        "onboard_time": 1672321293,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23062,
+        "num": 20154,
+        "word": "治疗新冠中药协定方范例公布",
+        "onboard_time": 1672341253,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20144,
+        "num": 20144,
+        "word": "Scout将在LNG首战微博杯",
+        "onboard_time": 1672312893,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19851,
+        "num": 19851,
+        "word": "元旦放5天假是什么体验",
+        "onboard_time": 1672307251,
+        "rank": 36,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 19219,
+        "num": 19219,
+        "word": "这英语是非学不可了吗",
+        "onboard_time": 1672327948,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19154,
+        "num": 19154,
+        "word": "猫咪为了揽客有多卑微",
+        "onboard_time": 1672334657,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19080,
+        "num": 19080,
+        "word": "乌媒称乌全境遭大规模导弹袭击",
+        "onboard_time": 1672311572,
+        "rank": 39,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 25340,
+        "num": 18925,
+        "word": "BoysPlanet",
+        "onboard_time": 1672312054,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21237,
+        "num": 18796,
+        "word": "徐艺洋叫刘些宁宝贝",
+        "onboard_time": 1672330164,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18636,
+        "num": 18636,
+        "word": "和不喜欢的人结婚是怎样的",
+        "onboard_time": 1672312232,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18305,
+        "num": 18305,
+        "word": "车厘子",
+        "onboard_time": 1672317691,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 18233,
+        "num": 18233,
+        "word": "觉醒东方只招全能型爱豆吧",
+        "onboard_time": 1672339094,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17660,
+        "num": 17660,
+        "word": "河南女子骑20分钟电动车到安徽放烟花",
+        "onboard_time": 1672318233,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17449,
+        "num": 17449,
+        "word": "白肺是什么",
+        "onboard_time": 1672330526,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17402,
+        "num": 17402,
+        "word": "Scout感谢EDG",
+        "onboard_time": 1672319375,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15951,
+        "num": 15951,
+        "word": "如何正确认识白肺现象",
+        "onboard_time": 1672339273,
+        "rank": 48,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 15545,
+        "num": 15545,
+        "word": "白猫掉下水道变黑猫主人边哭边洗",
+        "onboard_time": 1672315889,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图看懂感染者康复期注意事项#"
+    }
+  }
+}

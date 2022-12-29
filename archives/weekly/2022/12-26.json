@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672345148685,
+  "endTime": 1672346020353,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -2235,6 +2235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 617530,
+      "num": 617530,
+      "word": "球王贝利去世",
+      "onboard_time": 1672344132,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 616642,
       "num": 616642,
       "word": "赵丽颖沈璃撑伞对视氛围感",
@@ -3249,14 +3257,6 @@
       "onboard_time": 1672310734,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 447736,
-      "num": 447736,
-      "word": "球王贝利去世",
-      "onboard_time": 1672344132,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 447520,
@@ -10651,7 +10651,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22493,
+      "raw_hot": 25729,
       "num": 20728,
       "word": "小秀是被李文卓所杀",
       "onboard_time": 1672343712,
@@ -10659,7 +10659,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 21266,
+      "raw_hot": 23062,
       "num": 20718,
       "word": "治疗新冠中药协定方范例公布",
       "onboard_time": 1672341253,
@@ -10699,7 +10699,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 15752,
+      "raw_hot": 15951,
       "num": 16951,
       "word": "如何正确认识白肺现象",
       "onboard_time": 1672339273,
