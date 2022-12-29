@@ -1,10 +1,10 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672277638183,
+  "endTime": 1672278808656,
   "band_list": [
     {
       "raw_hot": 1975067,
-      "num": 474739,
+      "num": 497062,
       "word": "素人求助赵露思领养猫咪",
       "onboard_time": 1672277009,
       "rank": 10,
@@ -27,6 +27,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1357182,
+      "num": 1357182,
+      "word": "美国将对中国旅客实行入境限制措施",
+      "onboard_time": 1672274788,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1284768,
       "num": 1284768,
       "word": "感染新冠两周后心肌会有反应",
@@ -43,12 +51,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1122334,
-      "num": 1122334,
-      "word": "美国将对中国旅客实行入境限制措施",
-      "onboard_time": 1672274788,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 831752,
+      "num": 494887,
+      "word": "姆巴佩绝杀",
+      "onboard_time": 1672276949,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 831050,
@@ -75,6 +83,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 650618,
+      "num": 650618,
+      "word": "姆巴佩回应大马丁的嘲讽",
+      "onboard_time": 1672276111,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 609939,
       "num": 609939,
       "word": "内马尔 法甲",
@@ -83,36 +99,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 586885,
-      "num": 446153,
-      "word": "姆巴佩回应大马丁的嘲讽",
-      "onboard_time": 1672276111,
-      "rank": 11,
-      "category": "体育"
+      "raw_hot": 556086,
+      "num": 493259,
+      "word": "卫健委就女子孕检被误诊艾滋病一事发声",
+      "onboard_time": 1672277787,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 539075,
-      "num": 539075,
+      "raw_hot": 545597,
+      "num": 545597,
       "word": "新冠损伤味觉嗅觉一个月内可恢复",
       "onboard_time": 1672274909,
       "rank": 8,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483989,
-      "num": 365925,
-      "word": "小胖道歉",
-      "onboard_time": 1672271543,
-      "rank": 15,
-      "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 480692,
-      "num": 480692,
+      "raw_hot": 505698,
+      "num": 505698,
       "word": "苹果因不送充电器在美面临新集体诉讼",
       "onboard_time": 1672275330,
       "rank": 9,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 483989,
+      "num": 416043,
+      "word": "小胖道歉",
+      "onboard_time": 1672271543,
+      "rank": 15,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 472224,
@@ -123,8 +139,8 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 414717,
-      "num": 414717,
+      "raw_hot": 443112,
+      "num": 443112,
       "word": "美国要求中国乘客提供新冠检测报告",
       "onboard_time": 1672276291,
       "rank": 12,
@@ -179,14 +195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 344369,
-      "num": 344369,
-      "word": "姆巴佩绝杀",
-      "onboard_time": 1672276949,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 317874,
       "num": 317874,
       "word": "重庆狼队",
@@ -208,6 +216,14 @@
       "word": "樊振东连续三年年终第一",
       "onboard_time": 1672241493,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 298061,
+      "num": 298061,
+      "word": "哈兰德 梅开二度",
+      "onboard_time": 1672274189,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -235,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276873,
+      "num": 276873,
+      "word": "专家称新冠一定不是感冒",
+      "onboard_time": 1672277970,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245476,
       "num": 245476,
       "word": "向太直播",
@@ -259,14 +283,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 236360,
-      "num": 236360,
-      "word": "哈兰德 梅开二度",
-      "onboard_time": 1672274189,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231528,
       "num": 155904,
       "word": "如何判断男团成员的友谊",
@@ -281,6 +297,14 @@
       "onboard_time": 1672237656,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 223370,
+      "num": 223370,
+      "word": "2个枕头帮助提升血氧",
+      "onboard_time": 1672276708,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222884,
@@ -305,6 +329,14 @@
       "onboard_time": 1672237473,
       "rank": 16,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 205657,
+      "num": 205657,
+      "word": "阳康后两周内不要运动",
+      "onboard_time": 1672277849,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205631,
@@ -339,27 +371,19 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 191037,
-      "num": 191037,
-      "word": "癸卯年蓝兔子邮票引争议",
-      "onboard_time": 1672233630,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186426,
-      "num": 186426,
+      "raw_hot": 202242,
+      "num": 202242,
       "word": "Viper",
       "onboard_time": 1672269198,
       "rank": 31,
       "category": "游戏"
     },
     {
-      "raw_hot": 184004,
-      "num": 184004,
-      "word": "2个枕头帮助提升血氧",
-      "onboard_time": 1672276708,
-      "rank": 29,
+      "raw_hot": 191037,
+      "num": 191037,
+      "word": "癸卯年蓝兔子邮票引争议",
+      "onboard_time": 1672233630,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -465,6 +489,14 @@
       "onboard_time": 1672233451,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162373,
+      "num": 162373,
+      "word": "马清运offer4替李金颐改方案",
+      "onboard_time": 1672278028,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 155278,
@@ -635,12 +667,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122935,
+      "num": 122935,
+      "word": "漫威推出斯坦李纪录片",
+      "onboard_time": 1672278270,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115812,
       "num": 115812,
       "word": "东北冬天的雪糕摊子",
       "onboard_time": 1672239211,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115442,
+      "num": 115442,
+      "word": "法甲 裁判",
+      "onboard_time": 1672274069,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 112857,
