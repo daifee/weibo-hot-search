@@ -1,6 +1,6 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672318272221,
+  "endTime": 1672320104919,
   "band_list": [
     {
       "raw_hot": 2692084,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1102630,
+      "num": 1102630,
+      "word": "车厘子",
+      "onboard_time": 1672317691,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1092531,
       "num": 1092531,
       "word": "内马尔 好惨",
@@ -267,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 866167,
+      "num": 866167,
+      "word": "吾木提 选秀",
+      "onboard_time": 1672318291,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 859449,
       "num": 859449,
       "word": "姆巴佩绝杀",
@@ -339,12 +355,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 744504,
+      "num": 744504,
+      "word": "南大发布学生举报教师事件调查通报",
+      "onboard_time": 1672317211,
+      "rank": 14,
+      "category": "社会负面,教育"
+    },
+    {
       "raw_hot": 728634,
       "num": 728634,
       "word": "小胖女朋友澄清",
       "onboard_time": 1672270522,
       "rank": 6,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 720385,
+      "num": 436793,
+      "word": "男子高铁上脱口罩测抗原结果真阳了",
+      "onboard_time": 1672317810,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 715191,
@@ -595,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 477578,
+      "num": 332708,
+      "word": "廖穗芳反水",
+      "onboard_time": 1672316670,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 473007,
       "num": 473007,
       "word": "李子柒会加入直播战场吗",
@@ -609,6 +649,14 @@
       "onboard_time": 1672235615,
       "rank": 20,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 452122,
+      "num": 377567,
+      "word": "女子搬家后发现新房藏有豪华地堡",
+      "onboard_time": 1672317151,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451062,
@@ -643,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 439302,
-      "num": 304130,
-      "word": "廖穗芳反水",
-      "onboard_time": 1672316670,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 439291,
       "num": 439291,
       "word": "吴磊再说子晟很好相处的",
@@ -673,14 +713,6 @@
       "onboard_time": 1672315050,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 435991,
-      "num": 435991,
-      "word": "南大发布学生举报教师事件调查通报",
-      "onboard_time": 1672317211,
-      "rank": 14,
-      "category": "社会负面,教育"
     },
     {
       "raw_hot": 428387,
@@ -713,6 +745,14 @@
       "onboard_time": 1672299990,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 416366,
+      "num": 324177,
+      "word": "文邺辰 青1",
+      "onboard_time": 1672319489,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 415352,
@@ -843,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355178,
+      "num": 355178,
+      "word": "如何有效避免复阳",
+      "onboard_time": 1672318233,
+      "rank": 49,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 349051,
       "num": 349051,
       "word": "孙子被奶奶支配用漏勺挖面却没漏",
@@ -889,14 +937,6 @@
       "onboard_time": 1672280248,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 340050,
-      "num": 340050,
-      "word": "车厘子",
-      "onboard_time": 1672317691,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 337907,
@@ -1027,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303129,
-      "num": 303129,
-      "word": "女子搬家后发现新房藏有豪华地堡",
-      "onboard_time": 1672317151,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299307,
       "num": 299307,
       "word": "哈佛学霸被质疑专业能力",
@@ -1115,6 +1147,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 285062,
+      "num": 184948,
+      "word": "李承天点烟送陈佑希上路",
+      "onboard_time": 1672318170,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284020,
       "num": 175843,
       "word": "大宋少年志",
@@ -1163,12 +1203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270026,
+      "num": 183474,
+      "word": "王鹤棣说退退退",
+      "onboard_time": 1672317092,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269038,
       "num": 176412,
       "word": "BoysPlanet 好多帅哥",
       "onboard_time": 1672318113,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268351,
+      "num": 268351,
+      "word": "女孩走亲戚看到数学老师后瞬间石化",
+      "onboard_time": 1672318049,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264075,
@@ -1219,6 +1275,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 257920,
+      "num": 170396,
+      "word": "肖铎你就宠她吧",
+      "onboard_time": 1672319552,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252299,
       "num": 252299,
       "word": "王俊凯江苏跨年机场出发路透",
@@ -1249,6 +1313,14 @@
       "onboard_time": 1672302449,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246815,
+      "num": 170265,
+      "word": "叶若依剑舞",
+      "onboard_time": 1672320092,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 245476,
@@ -1323,12 +1395,12 @@
       "category": "情感,音乐"
     },
     {
-      "raw_hot": 237447,
-      "num": 175386,
-      "word": "王鹤棣说退退退",
-      "onboard_time": 1672317092,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 237958,
+      "num": 237958,
+      "word": "河南女子骑20分钟电动车到安徽放烟花",
+      "onboard_time": 1672318233,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235177,
@@ -1683,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186091,
+      "num": 186091,
+      "word": "阳康后咳咳咳6招教你轻松排痰",
+      "onboard_time": 1672319613,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185648,
       "num": 185648,
       "word": "苹果拟砍iPhone供应链价格以保获利",
@@ -1729,6 +1809,14 @@
       "onboard_time": 1672299150,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182347,
+      "num": 182347,
+      "word": "同层4户邻居在楼道聚餐",
+      "onboard_time": 1672318770,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181972,
@@ -1811,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177000,
+      "num": 177000,
+      "word": "2022年你有过哪些崩溃瞬间",
+      "onboard_time": 1672318952,
+      "rank": 36,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 172786,
       "num": 172786,
       "word": "王凯顾南亭领带杀视频",
@@ -1833,6 +1929,14 @@
       "onboard_time": 1672217910,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170555,
+      "num": 170555,
+      "word": "Scout感谢EDG",
+      "onboard_time": 1672319375,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 168519,
@@ -1953,14 +2057,6 @@
       "onboard_time": 1672288052,
       "rank": 44,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 159738,
-      "num": 159738,
-      "word": "男子高铁上脱口罩测抗原结果真阳了",
-      "onboard_time": 1672317810,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159687,
@@ -2355,20 +2451,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 118760,
+      "num": 118760,
+      "word": "曾光称北京新冠感染率或超80%",
+      "onboard_time": 1672319970,
+      "rank": 48,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 117731,
       "num": 117731,
       "word": "特斯拉股价今年下跌70%",
       "onboard_time": 1672283671,
       "rank": 48,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 116804,
-      "num": 116804,
-      "word": "河南女子骑20分钟电动车到安徽放烟花",
-      "onboard_time": 1672318233,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116567,
@@ -2393,14 +2489,6 @@
       "onboard_time": 1672274069,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115299,
-      "num": 115299,
-      "word": "如何有效避免复阳",
-      "onboard_time": 1672318233,
-      "rank": 49,
-      "category": "社会议题"
     },
     {
       "raw_hot": 114939,

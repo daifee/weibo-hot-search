@@ -1,0 +1,410 @@
+{
+  "runTime": 1672320104919,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1704677,
+        "num": 1704677,
+        "word": "女子阳后9天洗头掉发如毛线团",
+        "onboard_time": 1672314270,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1207651,
+        "num": 1207651,
+        "word": "咳出白痰和黄痰有什么区别",
+        "onboard_time": 1672308270,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103662,
+        "num": 1155100,
+        "word": "居家消毒5个注意事项",
+        "onboard_time": 1672314153,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1102630,
+        "num": 1102630,
+        "word": "车厘子",
+        "onboard_time": 1672317691,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 866167,
+        "num": 866167,
+        "word": "吾木提 选秀",
+        "onboard_time": 1672318291,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 744504,
+        "num": 744504,
+        "word": "南大发布学生举报教师事件调查通报",
+        "onboard_time": 1672317211,
+        "rank": 5,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 680988,
+        "num": 680988,
+        "word": "2023总台春晚首支歌曲公布",
+        "onboard_time": 1672311634,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607998,
+        "num": 607998,
+        "word": "杨幂",
+        "onboard_time": 1672309953,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506833,
+        "num": 506833,
+        "word": "和不喜欢的人结婚是怎样的",
+        "onboard_time": 1672312232,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 438360,
+        "num": 438360,
+        "word": "元旦放5天假是什么体验",
+        "onboard_time": 1672307251,
+        "rank": 9,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 720385,
+        "num": 436793,
+        "word": "男子高铁上脱口罩测抗原结果真阳了",
+        "onboard_time": 1672317810,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605232,
+        "num": 423537,
+        "word": "迪丽热巴晒露腰对镜拍",
+        "onboard_time": 1672315407,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521789,
+        "num": 401834,
+        "word": "章昊 C位",
+        "onboard_time": 1672314270,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490938,
+        "num": 388037,
+        "word": "肖战和家人合照的拍照姿势",
+        "onboard_time": 1672315770,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 452122,
+        "num": 377567,
+        "word": "女子搬家后发现新房藏有豪华地堡",
+        "onboard_time": 1672317151,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372410,
+        "num": 372410,
+        "word": "Scout将在LNG首战微博杯",
+        "onboard_time": 1672312893,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 362206,
+        "num": 362206,
+        "word": "阿里健康买300只口罩仅收到30只",
+        "onboard_time": 1672315050,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355178,
+        "num": 355178,
+        "word": "如何有效避免复阳",
+        "onboard_time": 1672318233,
+        "rank": 17,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 349017,
+        "num": 349017,
+        "word": "白猫掉下水道变黑猫主人边哭边洗",
+        "onboard_time": 1672315889,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335907,
+        "num": 335907,
+        "word": "iPhone频繁降价开启卷王模式",
+        "onboard_time": 1672311634,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 477578,
+        "num": 332708,
+        "word": "廖穗芳反水",
+        "onboard_time": 1672316670,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416366,
+        "num": 324177,
+        "word": "文邺辰 青1",
+        "onboard_time": 1672319489,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348206,
+        "num": 319510,
+        "word": "苗苗因曾被朋友在背后骂了一个月痛哭",
+        "onboard_time": 1672299690,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307070,
+        "num": 307070,
+        "word": "新冠转阴后出现肺炎或是继发细菌感染",
+        "onboard_time": 1672309051,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268351,
+        "num": 268351,
+        "word": "女孩走亲戚看到数学老师后瞬间石化",
+        "onboard_time": 1672318049,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257071,
+        "num": 257071,
+        "word": "乌媒称乌全境遭大规模导弹袭击",
+        "onboard_time": 1672311572,
+        "rank": 25,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 237958,
+        "num": 237958,
+        "word": "河南女子骑20分钟电动车到安徽放烟花",
+        "onboard_time": 1672318233,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223966,
+        "num": 223966,
+        "word": "女子阳性高烧后舌头长满厚白舌苔",
+        "onboard_time": 1672307369,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206562,
+        "num": 206562,
+        "word": "国乒混双组长肖战",
+        "onboard_time": 1672314751,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186091,
+        "num": 186091,
+        "word": "阳康后咳咳咳6招教你轻松排痰",
+        "onboard_time": 1672319613,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294990,
+        "num": 185976,
+        "word": "鞠婧祎浴室翻唱DITTO视频",
+        "onboard_time": 1672317450,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285062,
+        "num": 184948,
+        "word": "李承天点烟送陈佑希上路",
+        "onboard_time": 1672318170,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274658,
+        "num": 184245,
+        "word": "BoysPlanet",
+        "onboard_time": 1672312054,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270026,
+        "num": 183474,
+        "word": "王鹤棣说退退退",
+        "onboard_time": 1672317092,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224979,
+        "num": 182560,
+        "word": "专家建议直接给中低收入群体发钱",
+        "onboard_time": 1672301968,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 182347,
+        "num": 182347,
+        "word": "同层4户邻居在楼道聚餐",
+        "onboard_time": 1672318770,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177000,
+        "num": 177000,
+        "word": "2022年你有过哪些崩溃瞬间",
+        "onboard_time": 1672318952,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 175754,
+        "num": 175754,
+        "word": "女子在德国做护士1个月6天班工资破万",
+        "onboard_time": 1672300771,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171202,
+        "num": 171202,
+        "word": "女子高烧40度婆婆让前夫送饭送药",
+        "onboard_time": 1672301248,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170555,
+        "num": 170555,
+        "word": "Scout感谢EDG",
+        "onboard_time": 1672319375,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257920,
+        "num": 170396,
+        "word": "肖铎你就宠她吧",
+        "onboard_time": 1672319552,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246815,
+        "num": 170265,
+        "word": "叶若依剑舞",
+        "onboard_time": 1672320092,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170012,
+        "num": 170012,
+        "word": "秦志戬",
+        "onboard_time": 1672309592,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150343,
+        "num": 150343,
+        "word": "王皓",
+        "onboard_time": 1672305690,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135250,
+        "num": 135250,
+        "word": "宝可梦",
+        "onboard_time": 1672315952,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130421,
+        "num": 130421,
+        "word": "解放军军事行动针对的就是台独",
+        "onboard_time": 1672304970,
+        "rank": 45,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 125258,
+        "num": 125258,
+        "word": "足浴店被打员工称打人者依然在外面",
+        "onboard_time": 1672314510,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119664,
+        "num": 119664,
+        "word": "小狗对妈妈的爱真的好专一",
+        "onboard_time": 1672314331,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118760,
+        "num": 118760,
+        "word": "曾光称北京新冠感染率或超80%",
+        "onboard_time": 1672319970,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 115354,
+        "num": 115354,
+        "word": "布洛芬和对乙酰氨基酚日产量达到1.9亿片",
+        "onboard_time": 1672310854,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022我国航天发射次数创历史新高#"
+    }
+  }
+}
