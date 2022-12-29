@@ -1,6 +1,6 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672288658322,
+  "endTime": 1672290989203,
   "band_list": [
     {
       "raw_hot": 2051878,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1213532,
+      "num": 475499,
+      "word": "羊了个羊创始人没想到一季度挣了20万",
+      "onboard_time": 1672289970,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1091158,
       "num": 1091158,
       "word": "女子吸朋友递来香烟后毒品阳性",
@@ -83,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1081121,
-      "num": 1081121,
+      "raw_hot": 1089060,
+      "num": 1089060,
       "word": "白肺的一个明显表现是气紧",
       "onboard_time": 1672283428,
       "rank": 28,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 953552,
+      "num": 953552,
+      "word": "泽连斯基称乌克兰已成为全球领导者之一",
+      "onboard_time": 1672286669,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 918399,
       "num": 918399,
       "word": "梅西",
@@ -107,20 +123,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 891445,
+      "num": 891445,
+      "word": "萧敬腾方联合声明",
+      "onboard_time": 1672289371,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 882815,
       "num": 882815,
       "word": "199爱",
       "onboard_time": 1672283913,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 876803,
-      "num": 876803,
-      "word": "泽连斯基称乌克兰已成为全球领导者之一",
-      "onboard_time": 1672286669,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 859449,
@@ -171,6 +187,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 715191,
+      "num": 715191,
+      "word": "新冠感染新增本土死亡1例",
+      "onboard_time": 1672285347,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 650618,
       "num": 650618,
       "word": "姆巴佩回应大马丁的嘲讽",
@@ -187,19 +211,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 642304,
-      "num": 642304,
-      "word": "新冠感染新增本土死亡1例",
-      "onboard_time": 1672285347,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 636456,
       "num": 636456,
       "word": "转阴后一定不要狂吃",
       "onboard_time": 1672284269,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612586,
+      "num": 612586,
+      "word": "北京一阿姨眼皮跳就诊后被赔16万",
+      "onboard_time": 1672289552,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -265,6 +289,14 @@
       "onboard_time": 1672235615,
       "rank": 20,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 468099,
+      "num": 468099,
+      "word": "杨紫成毅年度仙侠奇幻类角色TOP1",
+      "onboard_time": 1672290571,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 443112,
@@ -363,6 +395,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357233,
+      "num": 313570,
+      "word": "顾魏李峋裴之登年度言情角色Top3",
+      "onboard_time": 1672290271,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 355486,
+      "num": 355486,
+      "word": "轻度心肌炎多休息基本能痊愈",
+      "onboard_time": 1672286068,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345598,
       "num": 345598,
       "word": "大宋少年志2官宣杀青",
@@ -379,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328994,
+      "num": 328994,
+      "word": "齐司礼",
+      "onboard_time": 1672288292,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 327371,
       "num": 327371,
       "word": "2022年内娱最时髦女明星",
@@ -392,6 +448,14 @@
       "word": "重庆狼队",
       "onboard_time": 1672239633,
       "rank": 8,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 315604,
+      "num": 315604,
+      "word": "EDG Scout",
+      "onboard_time": 1672290150,
+      "rank": 19,
       "category": "游戏"
     },
     {
@@ -443,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292189,
+      "num": 292189,
+      "word": "导演评价王鹤棣的肖铎",
+      "onboard_time": 1672288231,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289941,
       "num": 289941,
       "word": "武汉120事故肇事急救车司机被刑拘",
@@ -467,12 +539,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 279604,
-      "num": 279604,
-      "word": "轻度心肌炎多休息基本能痊愈",
-      "onboard_time": 1672286068,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 279915,
+      "num": 279915,
+      "word": "林书豪告别广州男篮",
+      "onboard_time": 1672289371,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 278277,
@@ -491,20 +563,20 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 260305,
+      "num": 217758,
+      "word": "张新成大宋少年志2谐音梗脏心诚",
+      "onboard_time": 1672289789,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252299,
       "num": 252299,
       "word": "王俊凯江苏跨年机场出发路透",
       "onboard_time": 1672280189,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 246259,
-      "num": 225701,
-      "word": "导演评价王鹤棣的肖铎",
-      "onboard_time": 1672288231,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 245476,
@@ -545,6 +617,14 @@
       "onboard_time": 1672237594,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 238989,
+      "num": 217167,
+      "word": "听歌报告里的精神状态",
+      "onboard_time": 1672290510,
+      "rank": 32,
+      "category": "情感,音乐"
     },
     {
       "raw_hot": 233753,
@@ -603,14 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219126,
-      "num": 219126,
-      "word": "齐司礼",
-      "onboard_time": 1672288292,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 218702,
       "num": 218702,
       "word": "七旬奶奶每月5000退休金捐出4500",
@@ -624,6 +696,14 @@
       "word": "反复咳嗽的患者有哪些注意事项",
       "onboard_time": 1672279470,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218487,
+      "num": 218487,
+      "word": "44岁保安大叔新年愿望是结婚",
+      "onboard_time": 1672287750,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -699,6 +779,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200044,
+      "num": 179461,
+      "word": "2022内娱捡手机文学",
+      "onboard_time": 1672289852,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193788,
+      "num": 193788,
+      "word": "梅西外出被球迷围堵",
+      "onboard_time": 1672288888,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193442,
       "num": 193442,
       "word": "iPhone14plus是最拉胯机型吗",
@@ -731,14 +827,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 184350,
-      "num": 184350,
-      "word": "44岁保安大叔新年愿望是结婚",
-      "onboard_time": 1672287750,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183538,
       "num": 183538,
       "word": "七斋时隔三年又聚齐了",
@@ -760,6 +848,14 @@
       "word": "男子闯荡郑州10年后二次创业",
       "onboard_time": 1672282050,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180220,
+      "num": 180220,
+      "word": "算法开发工程师平均年薪超60万",
+      "onboard_time": 1672289730,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -891,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162212,
+      "num": 162212,
+      "word": "1380元血氧仪成本仅几十块",
+      "onboard_time": 1672290391,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160088,
       "num": 160088,
       "word": "蓝佛安同志任山西省委书记",
@@ -905,6 +1009,22 @@
       "onboard_time": 1672284811,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158300,
+      "num": 158300,
+      "word": "男孩吐槽认真做作业却考倒数第二",
+      "onboard_time": 1672290391,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 156753,
+      "num": 156753,
+      "word": "北京印发新冠感染者恢复期健康管理指引",
+      "onboard_time": 1672290932,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155278,
