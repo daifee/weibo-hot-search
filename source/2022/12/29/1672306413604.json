@@ -1,0 +1,410 @@
+{
+  "runTime": 1672306413604,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1622987,
+        "num": 1622987,
+        "word": "专家建议直接给中低收入群体发钱",
+        "onboard_time": 1672301968,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1594903,
+        "num": 1594903,
+        "word": "苗苗因曾被朋友在背后骂了一个月痛哭",
+        "onboard_time": 1672299690,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169083,
+        "num": 1256669,
+        "word": "反复咳嗽的患者有哪些注意事项",
+        "onboard_time": 1672279470,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084148,
+        "num": 1084148,
+        "word": "朱军重返央视工作",
+        "onboard_time": 1672305091,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1044564,
+        "num": 1044564,
+        "word": "女子在德国做护士1个月6天班工资破万",
+        "onboard_time": 1672300771,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729104,
+        "num": 729104,
+        "word": "女子高烧40度婆婆让前夫送饭送药",
+        "onboard_time": 1672301248,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661798,
+        "num": 661798,
+        "word": "羊了个羊创始人没想到一季度挣了20万",
+        "onboard_time": 1672289970,
+        "rank": 6,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 433002,
+        "num": 433002,
+        "word": "小胖下放",
+        "onboard_time": 1672294949,
+        "rank": 7,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 431891,
+        "num": 431891,
+        "word": "王皓",
+        "onboard_time": 1672305690,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418580,
+        "num": 418580,
+        "word": "网传黑莲花攻略手册主演暂定虞书欣陈飞宇",
+        "onboard_time": 1672305450,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2060779,
+        "num": 418228,
+        "word": "网曝嘉行传媒欠款一个亿",
+        "onboard_time": 1672304668,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556108,
+        "num": 418213,
+        "word": "向太试吃车厘子",
+        "onboard_time": 1672283428,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417853,
+        "num": 417853,
+        "word": "陆毅回应鲍蕾不拍戏的原因",
+        "onboard_time": 1672296326,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377181,
+        "num": 377181,
+        "word": "因疫情3年没回国的留学生自述",
+        "onboard_time": 1672299089,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370983,
+        "num": 370983,
+        "word": "小胖晒手写信再次道歉",
+        "onboard_time": 1672303470,
+        "rank": 14,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 362817,
+        "num": 362817,
+        "word": "小伙10年考研8战清华",
+        "onboard_time": 1672298488,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 324870,
+        "num": 324870,
+        "word": "内马尔 好惨",
+        "onboard_time": 1672292010,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310675,
+        "num": 310675,
+        "word": "1380元血氧仪成本仅几十块",
+        "onboard_time": 1672290391,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 297763,
+        "num": 297763,
+        "word": "男子猥亵打人叫嚣叔叔是市长",
+        "onboard_time": 1672296929,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286095,
+        "num": 286095,
+        "word": "白肺的一个明显表现是气紧",
+        "onboard_time": 1672283428,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338712,
+        "num": 267624,
+        "word": "狼队发布小胖处罚公告",
+        "onboard_time": 1672292068,
+        "rank": 20,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 313767,
+        "num": 266635,
+        "word": "易烊千玺22岁实绩图",
+        "onboard_time": 1672301492,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239629,
+        "num": 239629,
+        "word": "男子买15元1斤柚子连切3刀不见果肉",
+        "onboard_time": 1672301070,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231730,
+        "num": 231730,
+        "word": "70年代的烤肠机",
+        "onboard_time": 1672304251,
+        "rank": 23,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 210502,
+        "num": 210502,
+        "word": "解放军军事行动针对的就是台独",
+        "onboard_time": 1672304970,
+        "rank": 24,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 202476,
+        "num": 202476,
+        "word": "EDG Scout",
+        "onboard_time": 1672290150,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202298,
+        "num": 202298,
+        "word": "我都转阴了为什么还咳个不停",
+        "onboard_time": 1672293450,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200973,
+        "num": 200973,
+        "word": "LPL仅TheShy入选操作TOP榜",
+        "onboard_time": 1672294051,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194802,
+        "num": 194802,
+        "word": "孙子被奶奶支配用漏勺挖面却没漏",
+        "onboard_time": 1672299570,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168099,
+        "num": 168099,
+        "word": "在北京不用等红灯是种什么体验",
+        "onboard_time": 1672305151,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 310039,
+        "num": 167831,
+        "word": "柯佳嬿说电影想见你原本有3个小时",
+        "onboard_time": 1672304491,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273577,
+        "num": 167587,
+        "word": "郑钧问张云龙现在有女朋友吗",
+        "onboard_time": 1672305151,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248437,
+        "num": 167434,
+        "word": "吴磊再说子晟很好相处的",
+        "onboard_time": 1672302810,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243591,
+        "num": 167098,
+        "word": "肖战玉骨遥片花播放量破亿",
+        "onboard_time": 1672299990,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166953,
+        "num": 166953,
+        "word": "Gemini的猫世冠预测",
+        "onboard_time": 1672303771,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157078,
+        "num": 157078,
+        "word": "我的2022原神总结",
+        "onboard_time": 1672303171,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150230,
+        "num": 150230,
+        "word": "北京一阿姨眼皮跳就诊后被赔16万",
+        "onboard_time": 1672289552,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140485,
+        "num": 140485,
+        "word": "不良人",
+        "onboard_time": 1672290871,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 135642,
+        "num": 135642,
+        "word": "广州车展展台突发大火",
+        "onboard_time": 1672306173,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132150,
+        "num": 132150,
+        "word": "烟花爆竹是否要一禁了之",
+        "onboard_time": 1672299929,
+        "rank": 39,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 222061,
+        "num": 131712,
+        "word": "田曦薇是懂保暖的",
+        "onboard_time": 1672303829,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212457,
+        "num": 131030,
+        "word": "杨紫范丞丞身高差",
+        "onboard_time": 1672294710,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127531,
+        "num": 127531,
+        "word": "当跨年遇上火盆烧烤",
+        "onboard_time": 1672305932,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123985,
+        "num": 123985,
+        "word": "转阴后一定不要狂吃",
+        "onboard_time": 1672284269,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117850,
+        "num": 117850,
+        "word": "跨年必备牛肉碗",
+        "onboard_time": 1672305091,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117341,
+        "num": 117341,
+        "word": "新冠感染新增本土死亡1例",
+        "onboard_time": 1672285347,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114939,
+        "num": 114939,
+        "word": "转阴后的咳咳咳和痛痛痛怎么办",
+        "onboard_time": 1672304849,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113227,
+        "num": 113227,
+        "word": "2022那些温暖的双向奔赴",
+        "onboard_time": 1672306232,
+        "rank": 47,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 110542,
+        "num": 110542,
+        "word": "酒吧前台遭醉酒男猥亵当场反击报警",
+        "onboard_time": 1672295787,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110393,
+        "num": 110393,
+        "word": "轻度心肌炎多休息基本能痊愈",
+        "onboard_time": 1672286068,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一镜到底回顾2022激动人心时刻#"
+    }
+  }
+}
