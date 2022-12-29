@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672331102414,
+  "endTime": 1672332139291,
   "band_list": [
     {
       "raw_hot": 1936346,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1280596,
-      "num": 1280596,
+      "raw_hot": 1395303,
+      "num": 1395303,
       "word": "专家称第二波疫情风暴会很低",
       "onboard_time": 1672328067,
       "rank": 1,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 606385,
+      "num": 380826,
+      "word": "福建一股民赚1.4亿被罚没5.7亿",
+      "onboard_time": 1672329387,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 595480,
       "num": 595480,
       "word": "快乐再出发",
@@ -65,14 +73,6 @@
       "onboard_time": 1672314270,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417777,
-      "num": 380826,
-      "word": "福建一股民赚1.4亿被罚没5.7亿",
-      "onboard_time": 1672329387,
-      "rank": 10,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 380838,
@@ -107,19 +107,19 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 310977,
+      "num": 310977,
+      "word": "徐艺洋叫刘些宁宝贝",
+      "onboard_time": 1672330164,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310710,
       "num": 310710,
       "word": "医生说杜海涛减肥反弹几率很高",
       "onboard_time": 1672322914,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 309684,
-      "num": 309684,
-      "word": "徐艺洋叫刘些宁宝贝",
-      "onboard_time": 1672330164,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -145,6 +145,14 @@
       "onboard_time": 1672322973,
       "rank": 20,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 226801,
+      "num": 163544,
+      "word": "杨幂",
+      "onboard_time": 1672309953,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 199309,
@@ -176,14 +184,6 @@
       "word": "迪丽热巴晒露腰对镜拍",
       "onboard_time": 1672315407,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 190760,
-      "num": 143201,
-      "word": "杨幂",
-      "onboard_time": 1672309953,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -227,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177401,
+      "num": 161532,
+      "word": "廖穗芳对陈佑希有感情了",
+      "onboard_time": 1672331663,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175956,
       "num": 175956,
       "word": "iPhone频繁降价开启卷王模式",
@@ -267,8 +275,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145667,
-      "num": 145667,
+      "raw_hot": 145974,
+      "num": 145974,
       "word": "这英语是非学不可了吗",
       "onboard_time": 1672327948,
       "rank": 29,
@@ -281,6 +289,14 @@
       "onboard_time": 1672317691,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 134109,
+      "num": 81939,
+      "word": "李承天点烟送陈佑希上路",
+      "onboard_time": 1672318170,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 131740,
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69215,
+      "num": 69215,
+      "word": "这二哈的血脉压制不住",
+      "onboard_time": 1672328248,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 44535,
       "num": 1016063,
       "word": "恢复期9类健康问题如何应对",
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#新冠病毒感染者恢复期健康指引#"
+    },
+    {
+      "word": "#2022我国航天发射次数创历史新高#"
     }
   ]
 }
