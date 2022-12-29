@@ -1,18 +1,26 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672278808656,
+  "endTime": 1672281532793,
   "band_list": [
     {
       "raw_hot": 1975067,
-      "num": 497062,
+      "num": 566327,
       "word": "素人求助赵露思领养猫咪",
       "onboard_time": 1672277009,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 1734142,
+      "num": 1734142,
+      "word": "杨迪因没收到跨年邀请要出单曲跨",
+      "onboard_time": 1672280189,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1662305,
-      "num": 858381,
+      "num": 876571,
       "word": "女子阳康后子宫异常出血",
       "onboard_time": 1672274307,
       "rank": 3,
@@ -51,12 +59,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 831752,
-      "num": 494887,
+      "raw_hot": 859449,
+      "num": 859449,
       "word": "姆巴佩绝杀",
       "onboard_time": 1672276949,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 833496,
+      "num": 833496,
+      "word": "卫健委就女子孕检被误诊艾滋病一事发声",
+      "onboard_time": 1672277787,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 831050,
@@ -65,6 +81,22 @@
       "onboard_time": 1672242266,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 779373,
+      "num": 779373,
+      "word": "iPhone15Plus或降价千元",
+      "onboard_time": 1672279470,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 753103,
+      "num": 554295,
+      "word": "女子吸朋友递来香烟后毒品阳性",
+      "onboard_time": 1672280069,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 749447,
@@ -91,20 +123,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 650080,
+      "num": 650080,
+      "word": "专家称新冠一定不是感冒",
+      "onboard_time": 1672277970,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609939,
       "num": 609939,
       "word": "内马尔 法甲",
       "onboard_time": 1672269317,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 556086,
-      "num": 493259,
-      "word": "卫健委就女子孕检被误诊艾滋病一事发声",
-      "onboard_time": 1672277787,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 545597,
@@ -131,6 +163,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 475865,
+      "num": 475865,
+      "word": "咳嗽不停是不是新冠感染在加重",
+      "onboard_time": 1672279348,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472224,
       "num": 243879,
       "word": "萧敬腾 妈咪",
@@ -144,6 +184,14 @@
       "word": "美国要求中国乘客提供新冠检测报告",
       "onboard_time": 1672276291,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428387,
+      "num": 428387,
+      "word": "阳康后两周内不要运动",
+      "onboard_time": 1672277849,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -193,6 +241,14 @@
       "onboard_time": 1672274069,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 327371,
+      "num": 327371,
+      "word": "2022年内娱最时髦女明星",
+      "onboard_time": 1672280609,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 317874,
@@ -251,12 +307,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 276873,
-      "num": 276873,
-      "word": "专家称新冠一定不是感冒",
-      "onboard_time": 1672277970,
-      "rank": 20,
+      "raw_hot": 277301,
+      "num": 277301,
+      "word": "大宋少年志2官宣杀青",
+      "onboard_time": 1672280730,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 263681,
+      "num": 263681,
+      "word": "苹果市值一夜蒸发约4431亿元",
+      "onboard_time": 1672279768,
+      "rank": 21,
+      "category": "财经,科技"
+    },
+    {
+      "raw_hot": 256869,
+      "num": 256869,
+      "word": "男子点火锅外卖吃出整块抹布",
+      "onboard_time": 1672280248,
+      "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252299,
+      "num": 252299,
+      "word": "王俊凯江苏跨年机场出发路透",
+      "onboard_time": 1672280189,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 245476,
@@ -315,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216890,
+      "num": 216890,
+      "word": "易烊千玺满江红海报眼神杀",
+      "onboard_time": 1672281148,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216070,
       "num": 216070,
       "word": "李子柒归来江湖已变天",
@@ -329,14 +417,6 @@
       "onboard_time": 1672237473,
       "rank": 16,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 205657,
-      "num": 205657,
-      "word": "阳康后两周内不要运动",
-      "onboard_time": 1672277849,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205631,
@@ -385,6 +465,14 @@
       "onboard_time": 1672233630,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185648,
+      "num": 185648,
+      "word": "苹果拟砍iPhone供应链价格以保获利",
+      "onboard_time": 1672280130,
+      "rank": 28,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 182860,
@@ -556,7 +644,7 @@
     },
     {
       "raw_hot": 144249,
-      "num": 880851,
+      "num": 881437,
       "word": "关于白肺和变异株的5个热点问答",
       "onboard_time": 1672238674,
       "rank": 2,
@@ -569,6 +657,14 @@
       "onboard_time": 1672268717,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143998,
+      "num": 143998,
+      "word": "最期待哪一款皮肤返场",
+      "onboard_time": 1672280787,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 143950,
@@ -587,12 +683,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 141890,
+      "num": 141890,
+      "word": "梅西",
+      "onboard_time": 1672281029,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135937,
       "num": 107766,
       "word": "刘宇宁直播说安乐传配音配完了",
       "onboard_time": 1672239571,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135905,
+      "num": 135905,
+      "word": "孙颖莎国际乒联2022年终世界第一",
+      "onboard_time": 1672279949,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 133897,
@@ -699,6 +811,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 112577,
+      "num": 112577,
+      "word": "反复咳嗽的患者有哪些注意事项",
+      "onboard_time": 1672279470,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112122,
       "num": 112122,
       "word": "女孩患白血病父亲意外发现非亲生",
@@ -713,6 +833,14 @@
       "onboard_time": 1672260431,
       "rank": 11,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 108339,
+      "num": 108339,
+      "word": "5岁萌娃第一次滑雪有多丝滑",
+      "onboard_time": 1672281387,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 107961,
