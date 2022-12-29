@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672283992612,
+  "endTime": 1672284831961,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -241,6 +241,14 @@
       "onboard_time": 1672068215,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1852862,
+      "num": 594807,
+      "word": "向太试吃车厘子",
+      "onboard_time": 1672283428,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1827983,
@@ -963,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 918399,
+      "num": 918399,
+      "word": "梅西",
+      "onboard_time": 1672281029,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 915545,
       "num": 915545,
       "word": "满江红",
@@ -1027,6 +1043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 882815,
+      "num": 882815,
+      "word": "199爱",
+      "onboard_time": 1672283913,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 877059,
       "num": 877059,
       "word": "微念与李子柒达成和解",
@@ -1065,14 +1089,6 @@
       "onboard_time": 1672067854,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 866135,
-      "num": 866135,
-      "word": "梅西",
-      "onboard_time": 1672281029,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 859449,
@@ -1291,20 +1307,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 782553,
-      "num": 594807,
-      "word": "向太试吃车厘子",
-      "onboard_time": 1672283428,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 779373,
       "num": 779373,
       "word": "iPhone15Plus或降价千元",
       "onboard_time": 1672279470,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 777893,
+      "num": 777893,
+      "word": "意大利对中国旅客强制实行新冠快速检测",
+      "onboard_time": 1672281928,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 776454,
@@ -1528,14 +1544,6 @@
       "word": "北京医保局称辉瑞新冠药按甲类报销",
       "onboard_time": 1672048773,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 707399,
-      "num": 707399,
-      "word": "意大利对中国旅客强制实行新冠快速检测",
-      "onboard_time": 1672281928,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2803,6 +2811,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 429356,
+      "num": 429356,
+      "word": "白肺的一个明显表现是气紧",
+      "onboard_time": 1672283428,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428387,
       "num": 428387,
       "word": "阳康后两周内不要运动",
@@ -2817,14 +2833,6 @@
       "onboard_time": 1672202310,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 425179,
-      "num": 425179,
-      "word": "199爱",
-      "onboard_time": 1672283913,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 424285,
@@ -2899,12 +2907,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418818,
+      "num": 418818,
+      "word": "只有张艺谋能凑齐的绝版阵容",
+      "onboard_time": 1672283609,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414127,
       "num": 414127,
       "word": "太阳转入YG旗下厂牌",
       "onboard_time": 1672032511,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413900,
+      "num": 413900,
+      "word": "易烊千玺与新年红的适配度",
+      "onboard_time": 1672284390,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 411100,
@@ -4155,14 +4179,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 285354,
-      "num": 285354,
-      "word": "只有张艺谋能凑齐的绝版阵容",
-      "onboard_time": 1672283609,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 285242,
       "num": 285242,
       "word": "金菊花国产烂片颁奖典礼",
@@ -4569,6 +4585,14 @@
       "onboard_time": 1671976653,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252318,
+      "num": 204473,
+      "word": "女生吐槽学校上厕所排队太难",
+      "onboard_time": 1672283792,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252299,
@@ -5211,12 +5235,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219172,
+      "num": 219172,
+      "word": "篮网十连胜",
+      "onboard_time": 1672283190,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218702,
+      "num": 218702,
+      "word": "七旬奶奶每月5000退休金捐出4500",
+      "onboard_time": 1672282352,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218654,
       "num": 209530,
       "word": "武庚纪女主是邢菲",
       "onboard_time": 1672034550,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218571,
+      "num": 1022201,
+      "word": "反复咳嗽的患者有哪些注意事项",
+      "onboard_time": 1672279470,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218513,
@@ -5771,20 +5819,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193442,
+      "num": 193442,
+      "word": "iPhone14plus是最拉胯机型吗",
+      "onboard_time": 1672283068,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 193349,
       "num": 193349,
       "word": "新冠疫情冲击波抵达三四线城市",
       "onboard_time": 1671994813,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192851,
-      "num": 192851,
-      "word": "篮网十连胜",
-      "onboard_time": 1672283190,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 192788,
@@ -5947,14 +5995,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 185224,
-      "num": 185224,
-      "word": "白肺的一个明显表现是气紧",
-      "onboard_time": 1672283428,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184870,
       "num": 175088,
       "word": "廖穗芳觉得李承天可怕",
@@ -5977,14 +6017,6 @@
       "onboard_time": 1672114714,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184076,
-      "num": 184076,
-      "word": "七旬奶奶每月5000退休金捐出4500",
-      "onboard_time": 1672282352,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183927,
@@ -6075,12 +6107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180991,
-      "num": 1022201,
-      "word": "反复咳嗽的患者有哪些注意事项",
-      "onboard_time": 1672279470,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 180481,
+      "num": 180481,
+      "word": "大哥远",
+      "onboard_time": 1672284329,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 180475,
@@ -6283,14 +6315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174425,
-      "num": 174425,
-      "word": "iPhone14plus是最拉胯机型吗",
-      "onboard_time": 1672283068,
-      "rank": 33,
-      "category": "科技"
-    },
-    {
       "raw_hot": 174386,
       "num": 174386,
       "word": "苹果在日本补缴9800万美元消费税",
@@ -6337,6 +6361,14 @@
       "onboard_time": 1672116331,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172786,
+      "num": 172786,
+      "word": "王凯顾南亭领带杀视频",
+      "onboard_time": 1672284210,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 172084,
@@ -6425,6 +6457,14 @@
       "onboard_time": 1672151553,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168918,
+      "num": 168918,
+      "word": "转阴后一定不要狂吃",
+      "onboard_time": 1672284269,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168590,
@@ -7723,6 +7763,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 125525,
+      "num": 125525,
+      "word": "江南百景图",
+      "onboard_time": 1672284811,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125511,
       "num": 125511,
       "word": "2023刘强东可能会参与更多日常工作",
@@ -7787,6 +7835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123288,
+      "num": 123288,
+      "word": "你在职场中什么人设",
+      "onboard_time": 1672284210,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123122,
       "num": 123122,
       "word": "仿佛看到跨年时的自己",
@@ -7825,14 +7881,6 @@
       "onboard_time": 1672106488,
       "rank": 44,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 121074,
-      "num": 121074,
-      "word": "女生吐槽学校上厕所排队太难",
-      "onboard_time": 1672283792,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120798,
@@ -8696,6 +8744,9 @@
     },
     {
       "word": "#一镜到底回顾2022激动人心时刻#"
+    },
+    {
+      "word": "#一段视频告别2022#"
     }
   ]
 }
