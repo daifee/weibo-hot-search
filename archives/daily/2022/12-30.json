@@ -1,10 +1,10 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672355964272,
+  "endTime": 1672356808301,
   "band_list": [
     {
-      "raw_hot": 2106945,
-      "num": 2106945,
+      "raw_hot": 2526052,
+      "num": 2526052,
       "word": "球王贝利去世",
       "onboard_time": 1672344132,
       "rank": 0,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457392,
+      "num": 294967,
+      "word": "女子放生2.5万斤外来物种鲇鱼被起诉",
+      "onboard_time": 1672355477,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380838,
       "num": 380838,
       "word": "专家称今后不排除还需要做核酸",
@@ -107,12 +115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344058,
+      "num": 273910,
+      "word": "贝利三次获得世界杯冠军",
+      "onboard_time": 1672355058,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341138,
       "num": 341138,
       "word": "血氧指标低于90就是肺感染重症体现",
       "onboard_time": 1672322792,
       "rank": 13,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 326767,
+      "num": 326767,
+      "word": "9位新冠二次感染者自述",
+      "onboard_time": 1672336695,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310977,
@@ -131,12 +155,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282694,
-      "num": 282694,
-      "word": "9位新冠二次感染者自述",
-      "onboard_time": 1672336695,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 309553,
+      "num": 309553,
+      "word": "腊八",
+      "onboard_time": 1672356080,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 276469,
@@ -307,20 +331,20 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 159863,
+      "num": 159863,
+      "word": "水银体温计和电子体温计该选哪个",
+      "onboard_time": 1672355960,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156932,
-      "num": 101726,
+      "num": 150668,
       "word": "2023总台春晚首支歌曲公布",
       "onboard_time": 1672311634,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146101,
-      "num": 69088,
-      "word": "贝利三次获得世界杯冠军",
-      "onboard_time": 1672355058,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 145974,
@@ -355,12 +379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123076,
+      "num": 123076,
+      "word": "过了腊八就是年",
+      "onboard_time": 1672355117,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122014,
-      "num": 74598,
+      "num": 78173,
       "word": "胡彦斌问王霏霏女艺人过年怕吃胖吗",
       "onboard_time": 1672333819,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121379,
+      "num": 121379,
+      "word": "白猫掉下水道变黑猫主人边哭边洗",
+      "onboard_time": 1672315889,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118803,
@@ -371,12 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112535,
-      "num": 68975,
-      "word": "女子放生2.5万斤外来物种鲇鱼被起诉",
-      "onboard_time": 1672355477,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 116433,
+      "num": 116433,
+      "word": "如何有效避免复阳",
+      "onboard_time": 1672318233,
+      "rank": 42,
+      "category": "社会议题"
     },
     {
       "raw_hot": 111915,
@@ -387,20 +427,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110143,
-      "num": 110143,
-      "word": "白猫掉下水道变黑猫主人边哭边洗",
-      "onboard_time": 1672315889,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104099,
-      "num": 104099,
-      "word": "过了腊八就是年",
-      "onboard_time": 1672355117,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 104597,
+      "num": 104597,
+      "word": "小秀是被李文卓所杀",
+      "onboard_time": 1672343712,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 93252,
@@ -417,14 +449,6 @@
       "onboard_time": 1672311572,
       "rank": 39,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 91461,
-      "num": 91461,
-      "word": "如何有效避免复阳",
-      "onboard_time": 1672318233,
-      "rank": 42,
-      "category": "社会议题"
     },
     {
       "raw_hot": 90633,
@@ -475,12 +499,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 81647,
-      "num": 81647,
-      "word": "小秀是被李文卓所杀",
-      "onboard_time": 1672343712,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 80918,
+      "num": 80918,
+      "word": "蛋仔派对",
+      "onboard_time": 1672355779,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 74600,
@@ -491,8 +515,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70598,
-      "num": 70598,
+      "raw_hot": 72570,
+      "num": 72570,
       "word": "刘芸因为苗苗提郑恺才想起来自己有老公",
       "onboard_time": 1672336097,
       "rank": 16,
@@ -515,19 +539,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 46009,
-      "num": 46009,
-      "word": "治疗新冠中药协定方范例公布",
-      "onboard_time": 1672341253,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 64844,
+      "num": 64844,
+      "word": "微博年度高能游戏主播",
+      "onboard_time": 1672356140,
+      "rank": 44,
+      "category": "游戏"
     },
     {
-      "raw_hot": 44535,
+      "raw_hot": 53760,
       "num": 1016063,
       "word": "恢复期9类健康问题如何应对",
       "onboard_time": 1672328548,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48873,
+      "num": 48873,
+      "word": "治疗新冠中药协定方范例公布",
+      "onboard_time": 1672341253,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -537,14 +569,6 @@
       "onboard_time": 1672339094,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41617,
-      "num": 41617,
-      "word": "蛋仔派对",
-      "onboard_time": 1672355779,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 36803,

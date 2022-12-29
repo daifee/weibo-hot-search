@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/30 07:19:24
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/30 07:33:28
 </p>
 </blockquote>
 <p>
@@ -873,6 +873,12 @@ NCT4名成员发生坠落事故（热度：2753965）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%83%E7%8E%8B%E8%B4%9D%E5%88%A9%E5%8E%BB%E4%B8%96%23" target="weibo">
+球王贝利去世（热度：2526052）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E9%98%B3%E6%80%A75%E5%A4%A9%E6%B2%A1%E5%8F%91%E7%83%A7%E7%AA%81%E7%84%B6%E6%8A%BD%E6%90%90%E4%B8%8D%E5%81%9C%23" target="weibo">
 男孩阳性5天没发烧突然抽搐不停（热度：2493564）
 </a>
@@ -1439,12 +1445,6 @@ N95口罩与KN95的区别（热度：2123347）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E8%80%83%E8%AF%95%E5%BC%83%E8%80%83%E4%B8%8D%E5%BA%94%E8%AF%A5%E8%A2%AB%E7%9C%8B%E4%B8%8D%E8%B5%B7%23" target="weibo">
 研究生考试弃考不应该被看不起（热度：2108491）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%90%83%E7%8E%8B%E8%B4%9D%E5%88%A9%E5%8E%BB%E4%B8%96%23" target="weibo">
-球王贝利去世（热度：2106945）
 </a>
 </li>
 
