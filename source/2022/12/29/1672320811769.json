@@ -1,0 +1,410 @@
+{
+  "runTime": 1672320811769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1686494,
+        "num": 1686494,
+        "word": "女子阳后9天洗头掉发如毛线团",
+        "onboard_time": 1672314270,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1215178,
+        "num": 1215178,
+        "word": "车厘子",
+        "onboard_time": 1672317691,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101916,
+        "num": 1167518,
+        "word": "居家消毒5个注意事项",
+        "onboard_time": 1672314153,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1143355,
+        "num": 1143355,
+        "word": "咳出白痰和黄痰有什么区别",
+        "onboard_time": 1672308270,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 993437,
+        "num": 993437,
+        "word": "吾木提 选秀",
+        "onboard_time": 1672318291,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 786833,
+        "num": 786833,
+        "word": "男子高铁上脱口罩测抗原结果真阳了",
+        "onboard_time": 1672317810,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719520,
+        "num": 719520,
+        "word": "杨幂",
+        "onboard_time": 1672309953,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702569,
+        "num": 702569,
+        "word": "南大发布学生举报教师事件调查通报",
+        "onboard_time": 1672317211,
+        "rank": 7,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 591395,
+        "num": 591395,
+        "word": "2023总台春晚首支歌曲公布",
+        "onboard_time": 1672311634,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460880,
+        "num": 460880,
+        "word": "和不喜欢的人结婚是怎样的",
+        "onboard_time": 1672312232,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 591121,
+        "num": 458515,
+        "word": "迪丽热巴晒露腰对镜拍",
+        "onboard_time": 1672315407,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521758,
+        "num": 450867,
+        "word": "章昊 C位",
+        "onboard_time": 1672314270,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512054,
+        "num": 443008,
+        "word": "女子搬家后发现新房藏有豪华地堡",
+        "onboard_time": 1672317151,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507665,
+        "num": 431644,
+        "word": "文邺辰 青1",
+        "onboard_time": 1672319489,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425314,
+        "num": 425314,
+        "word": "元旦放5天假是什么体验",
+        "onboard_time": 1672307251,
+        "rank": 14,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 389873,
+        "num": 389873,
+        "word": "如何有效避免复阳",
+        "onboard_time": 1672318233,
+        "rank": 15,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 359065,
+        "num": 359065,
+        "word": "Scout将在LNG首战微博杯",
+        "onboard_time": 1672312893,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 348751,
+        "num": 348751,
+        "word": "白猫掉下水道变黑猫主人边哭边洗",
+        "onboard_time": 1672315889,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329070,
+        "num": 329070,
+        "word": "阿里健康买300只口罩仅收到30只",
+        "onboard_time": 1672315050,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314486,
+        "num": 314486,
+        "word": "iPhone频繁降价开启卷王模式",
+        "onboard_time": 1672311634,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 471000,
+        "num": 313260,
+        "word": "廖穗芳反水",
+        "onboard_time": 1672316670,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435844,
+        "num": 312827,
+        "word": "肖战和家人合照的拍照姿势",
+        "onboard_time": 1672315770,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 396901,
+        "num": 312823,
+        "word": "易烊千玺杂志",
+        "onboard_time": 1672320331,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 302120,
+        "num": 302120,
+        "word": "新冠转阴后出现肺炎或是继发细菌感染",
+        "onboard_time": 1672309051,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262861,
+        "num": 262861,
+        "word": "河南女子骑20分钟电动车到安徽放烟花",
+        "onboard_time": 1672318233,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253295,
+        "num": 253295,
+        "word": "女孩走亲戚看到数学老师后瞬间石化",
+        "onboard_time": 1672318049,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249232,
+        "num": 249232,
+        "word": "Scout感谢EDG",
+        "onboard_time": 1672319375,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242830,
+        "num": 242830,
+        "word": "乌媒称乌全境遭大规模导弹袭击",
+        "onboard_time": 1672311572,
+        "rank": 27,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 228223,
+        "num": 228223,
+        "word": "同层4户邻居在楼道聚餐",
+        "onboard_time": 1672318770,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206461,
+        "num": 206461,
+        "word": "女子阳性高烧后舌头长满厚白舌苔",
+        "onboard_time": 1672307369,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361562,
+        "num": 203185,
+        "word": "敖子逸直播",
+        "onboard_time": 1672320690,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307103,
+        "num": 197872,
+        "word": "李承天点烟送陈佑希上路",
+        "onboard_time": 1672318170,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289444,
+        "num": 186931,
+        "word": "苗苗因曾被朋友在背后骂了一个月痛哭",
+        "onboard_time": 1672299690,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273446,
+        "num": 177172,
+        "word": "鞠婧祎浴室翻唱DITTO视频",
+        "onboard_time": 1672317450,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216741,
+        "num": 171438,
+        "word": "专家建议直接给中低收入群体发钱",
+        "onboard_time": 1672301968,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 169791,
+        "num": 169791,
+        "word": "国乒混双组长肖战",
+        "onboard_time": 1672314751,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169760,
+        "num": 169760,
+        "word": "曾光称北京新冠感染率或超80%",
+        "onboard_time": 1672319970,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 163621,
+        "num": 163621,
+        "word": "秦志戬",
+        "onboard_time": 1672309592,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162894,
+        "num": 162894,
+        "word": "女子高烧40度婆婆让前夫送饭送药",
+        "onboard_time": 1672301248,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153998,
+        "num": 153998,
+        "word": "王皓",
+        "onboard_time": 1672305690,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268317,
+        "num": 153437,
+        "word": "BoysPlanet",
+        "onboard_time": 1672312054,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242875,
+        "num": 152640,
+        "word": "肖铎你就宠她吧",
+        "onboard_time": 1672319552,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222521,
+        "num": 151571,
+        "word": "王鹤棣说退退退",
+        "onboard_time": 1672317092,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216462,
+        "num": 151281,
+        "word": "王大陆蔡卓宜是懂约会的",
+        "onboard_time": 1672306711,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150738,
+        "num": 150738,
+        "word": "女子在德国做护士1个月6天班工资破万",
+        "onboard_time": 1672300771,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143877,
+        "num": 143877,
+        "word": "阳康后咳咳咳6招教你轻松排痰",
+        "onboard_time": 1672319613,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138774,
+        "num": 138774,
+        "word": "宝可梦",
+        "onboard_time": 1672315952,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131751,
+        "num": 131751,
+        "word": "解放军军事行动针对的就是台独",
+        "onboard_time": 1672304970,
+        "rank": 47,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 130446,
+        "num": 130446,
+        "word": "小狗对妈妈的爱真的好专一",
+        "onboard_time": 1672314331,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127791,
+        "num": 127791,
+        "word": "出锅秒光的牛肉锅贴长啥样",
+        "onboard_time": 1672320451,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#新冠病毒感染者恢复期健康指引#"
+    }
+  }
+}

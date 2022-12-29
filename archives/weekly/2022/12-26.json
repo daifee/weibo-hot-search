@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672320104919,
+  "endTime": 1672320811769,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -723,6 +723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1215178,
+      "num": 1215178,
+      "word": "车厘子",
+      "onboard_time": 1672317691,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1208396,
       "num": 1208396,
       "word": "潘粤明代言违法保健品广告被罚",
@@ -817,14 +825,6 @@
       "onboard_time": 1672203269,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1102630,
-      "num": 1102630,
-      "word": "车厘子",
-      "onboard_time": 1672317691,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 1099197,
@@ -1001,6 +1001,14 @@
       "onboard_time": 1671979472,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 993437,
+      "num": 993437,
+      "word": "吾木提 选秀",
+      "onboard_time": 1672318291,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 985880,
@@ -1267,14 +1275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 866167,
-      "num": 866167,
-      "word": "吾木提 选秀",
-      "onboard_time": 1672318291,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 859449,
       "num": 859449,
       "word": "姆巴佩绝杀",
@@ -1507,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786833,
+      "num": 786833,
+      "word": "男子高铁上脱口罩测抗原结果真阳了",
+      "onboard_time": 1672317810,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784719,
       "num": 784719,
       "word": "女子高烧40度婆婆让前夫送饭送药",
@@ -1705,14 +1713,6 @@
       "onboard_time": 1672049973,
       "rank": 31,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 720385,
-      "num": 436793,
-      "word": "男子高铁上脱口罩测抗原结果真阳了",
-      "onboard_time": 1672317810,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 717835,
@@ -2715,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512054,
+      "num": 443008,
+      "word": "女子搬家后发现新房藏有豪华地堡",
+      "onboard_time": 1672317151,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511147,
       "num": 511147,
       "word": "疫情公布频次调整为每月一次",
@@ -2761,6 +2769,14 @@
       "onboard_time": 1672044873,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 507665,
+      "num": 431644,
+      "word": "文邺辰 青1",
+      "onboard_time": 1672319489,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 506370,
@@ -3099,14 +3115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452122,
-      "num": 377567,
-      "word": "女子搬家后发现新房藏有豪华地堡",
-      "onboard_time": 1672317151,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 451062,
       "num": 391100,
       "word": "顾南亭怀念去世女友",
@@ -3419,14 +3427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 416366,
-      "num": 324177,
-      "word": "文邺辰 青1",
-      "onboard_time": 1672319489,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 415352,
       "num": 235887,
       "word": "周深说很久没在这么大的地方唱歌了",
@@ -3563,6 +3563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 396901,
+      "num": 312823,
+      "word": "易烊千玺杂志",
+      "onboard_time": 1672320331,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 396438,
       "num": 396438,
       "word": "曾黎问这样的本宫真的很可怕吗",
@@ -3609,6 +3617,14 @@
       "onboard_time": 1672144651,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 389873,
+      "num": 389873,
+      "word": "如何有效避免复阳",
+      "onboard_time": 1672318233,
+      "rank": 49,
+      "category": "社会议题"
     },
     {
       "raw_hot": 387148,
@@ -3899,6 +3915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361562,
+      "num": 203185,
+      "word": "敖子逸直播",
+      "onboard_time": 1672320690,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359707,
       "num": 306904,
       "word": "赵露思说我在东方卫视等你",
@@ -3969,14 +3993,6 @@
       "onboard_time": 1672011260,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355178,
-      "num": 355178,
-      "word": "如何有效避免复阳",
-      "onboard_time": 1672318233,
-      "rank": 49,
-      "category": "社会议题"
     },
     {
       "raw_hot": 355150,
@@ -4603,6 +4619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307103,
+      "num": 197872,
+      "word": "李承天点烟送陈佑希上路",
+      "onboard_time": 1672318170,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 306242,
       "num": 306242,
       "word": "王一博陈宇获年度悬疑刑侦类角色第一",
@@ -4928,14 +4952,6 @@
       "word": "金菊花国产烂片颁奖典礼",
       "onboard_time": 1672057712,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 285062,
-      "num": 184948,
-      "word": "李承天点烟送陈佑希上路",
-      "onboard_time": 1672318170,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -5267,6 +5283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262861,
+      "num": 262861,
+      "word": "河南女子骑20分钟电动车到安徽放烟花",
+      "onboard_time": 1672318233,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261160,
       "num": 261160,
       "word": "郑新黄河大桥多车相撞目击者发声",
@@ -5507,6 +5531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249232,
+      "num": 249232,
+      "word": "Scout感谢EDG",
+      "onboard_time": 1672319375,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 248426,
       "num": 187372,
       "word": "檀健次湖南卫视跨年晚会彩排路透",
@@ -5713,14 +5745,6 @@
       "onboard_time": 1672110330,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 237958,
-      "num": 237958,
-      "word": "河南女子骑20分钟电动车到安徽放烟花",
-      "onboard_time": 1672318233,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237409,
@@ -5937,6 +5961,14 @@
       "onboard_time": 1672138353,
       "rank": 34,
       "category": "其它"
+    },
+    {
+      "raw_hot": 228223,
+      "num": 228223,
+      "word": "同层4户邻居在楼道聚餐",
+      "onboard_time": 1672318770,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227831,
@@ -7283,14 +7315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182347,
-      "num": 182347,
-      "word": "同层4户邻居在楼道聚餐",
-      "onboard_time": 1672318770,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181972,
       "num": 160930,
       "word": "电视剧199爱开机",
@@ -7683,20 +7707,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170555,
-      "num": 170555,
-      "word": "Scout感谢EDG",
-      "onboard_time": 1672319375,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 170501,
       "num": 170501,
       "word": "最美的夜指尖解锁关键词",
       "onboard_time": 1672201771,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169760,
+      "num": 169760,
+      "word": "曾光称北京新冠感染率或超80%",
+      "onboard_time": 1672319970,
+      "rank": 48,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 169594,
@@ -8859,6 +8883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138774,
+      "num": 138774,
+      "word": "宝可梦",
+      "onboard_time": 1672315952,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138512,
       "num": 138512,
       "word": "第一次聚会可以多上头",
@@ -8937,14 +8969,6 @@
       "onboard_time": 1672288530,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136800,
-      "num": 136800,
-      "word": "宝可梦",
-      "onboard_time": 1672315952,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 136417,
@@ -9169,6 +9193,14 @@
       "onboard_time": 1672187067,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127791,
+      "num": 127791,
+      "word": "出锅秒光的牛肉锅贴长啥样",
+      "onboard_time": 1672320451,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 127531,
@@ -9401,14 +9433,6 @@
       "onboard_time": 1672043733,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118760,
-      "num": 118760,
-      "word": "曾光称北京新冠感染率或超80%",
-      "onboard_time": 1672319970,
-      "rank": 48,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 118644,
