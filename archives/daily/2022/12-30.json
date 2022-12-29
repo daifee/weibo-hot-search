@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672334152984,
+  "endTime": 1672335196847,
   "band_list": [
     {
       "raw_hot": 1936346,
@@ -123,12 +123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276469,
+      "num": 276469,
+      "word": "今年最爱的电子榨菜",
+      "onboard_time": 1672333459,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262288,
       "num": 262288,
       "word": "吾木提 选秀",
       "onboard_time": 1672318291,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258250,
+      "num": 258250,
+      "word": "杨幂",
+      "onboard_time": 1672309953,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 235898,
@@ -145,22 +161,6 @@
       "onboard_time": 1672322973,
       "rank": 20,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 228080,
-      "num": 228080,
-      "word": "杨幂",
-      "onboard_time": 1672309953,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 221940,
-      "num": 221940,
-      "word": "今年最爱的电子榨菜",
-      "onboard_time": 1672333459,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 199309,
@@ -307,6 +307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 136937,
+      "num": 70352,
+      "word": "日本媒体报道2022年中国网络流行语",
+      "onboard_time": 1672332860,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134109,
       "num": 81939,
       "word": "李承天点烟送陈佑希上路",
@@ -321,6 +329,14 @@
       "onboard_time": 1672327709,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122014,
+      "num": 71522,
+      "word": "胡彦斌问王霏霏女艺人过年怕吃胖吗",
+      "onboard_time": 1672333819,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 118803,
@@ -345,14 +361,6 @@
       "onboard_time": 1672315889,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109870,
-      "num": 71522,
-      "word": "胡彦斌问王霏霏女艺人过年怕吃胖吗",
-      "onboard_time": 1672333819,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 93252,
@@ -427,14 +435,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 78301,
-      "num": 70352,
-      "word": "日本媒体报道2022年中国网络流行语",
-      "onboard_time": 1672332860,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 74600,
       "num": 81765,
       "word": "新冠转阴后出现肺炎或是继发细菌感染",
@@ -457,6 +457,22 @@
       "onboard_time": 1672328548,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36680,
+      "num": 41767,
+      "word": "猫咪为了揽客有多卑微",
+      "onboard_time": 1672334657,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 35928,
+      "num": 41521,
+      "word": "令人迷惑的广州地名",
+      "onboard_time": 1672334417,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
