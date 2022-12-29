@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672341252655,
+  "endTime": 1672342403053,
   "band_list": [
     {
       "raw_hot": 1936346,
@@ -497,6 +497,14 @@
       "onboard_time": 1672334417,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20638,
+      "num": 20638,
+      "word": "治疗新冠中药协定方范例公布",
+      "onboard_time": 1672341253,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15634,

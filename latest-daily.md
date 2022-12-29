@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/30 00:25:02 ~ 2022/12/30 03:14:12
+本榜单时间：2022/12/30 00:25:02 ~ 2022/12/30 03:33:23
 </p>
 </blockquote>
 <p>
@@ -383,6 +383,12 @@ Scout感谢EDG（热度：89896）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A4%E4%BA%BA%E8%BF%B7%E6%83%91%E7%9A%84%E5%B9%BF%E5%B7%9E%E5%9C%B0%E5%90%8D%23" target="weibo">
 令人迷惑的广州地名（热度：36803）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%BB%E7%96%97%E6%96%B0%E5%86%A0%E4%B8%AD%E8%8D%AF%E5%8D%8F%E5%AE%9A%E6%96%B9%E8%8C%83%E4%BE%8B%E5%85%AC%E5%B8%83%23" target="weibo">
+治疗新冠中药协定方范例公布（热度：20638）
 </a>
 </li>
 
