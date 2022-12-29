@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672338968971,
+  "endTime": 1672341252655,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -9347,6 +9347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132890,
+      "num": 66927,
+      "word": "9位新冠二次感染者自述",
+      "onboard_time": 1672336695,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132855,
       "num": 132855,
       "word": "陕西韩城一高中生虐猫",
@@ -9737,14 +9745,6 @@
       "onboard_time": 1672043733,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119022,
-      "num": 39703,
-      "word": "9位新冠二次感染者自述",
-      "onboard_time": 1672336695,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118644,
@@ -10547,6 +10547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42746,
+      "num": 42746,
+      "word": "觉醒东方只招全能型爱豆吧",
+      "onboard_time": 1672339094,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41054,
       "num": 41054,
       "word": "未定事件簿",
@@ -10665,6 +10673,14 @@
       "onboard_time": 1672175232,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 15634,
+      "num": 20181,
+      "word": "万能的消防员",
+      "onboard_time": 1672341015,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 15619,
