@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672313586198,
+  "endTime": 1672317183139,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -579,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1363464,
+      "num": 1363464,
+      "word": "2023总台春晚首支歌曲公布",
+      "onboard_time": 1672311634,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1361506,
       "num": 1361506,
       "word": "湖南卫视跨年姿态官宣",
@@ -731,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1198329,
+      "num": 1198329,
+      "word": "女子阳后9天洗头掉发如毛线团",
+      "onboard_time": 1672314270,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1177103,
       "num": 1177103,
       "word": "浮图缘",
@@ -753,14 +769,6 @@
       "onboard_time": 1672307251,
       "rank": 5,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 1139576,
-      "num": 1139576,
-      "word": "2023总台春晚首支歌曲公布",
-      "onboard_time": 1672311634,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1132441,
@@ -1225,6 +1233,14 @@
       "onboard_time": 1672038331,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 870309,
+      "num": 870309,
+      "word": "和不喜欢的人结婚是怎样的",
+      "onboard_time": 1672312232,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 866809,
@@ -1971,6 +1987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 645179,
+      "num": 645179,
+      "word": "iPhone频繁降价开启卷王模式",
+      "onboard_time": 1672311634,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 644467,
       "num": 600876,
       "word": "广西一老人烧甘蔗叶时不幸身亡",
@@ -2025,6 +2049,14 @@
       "onboard_time": 1671980190,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 629820,
+      "num": 518591,
+      "word": "迪丽热巴晒露腰对镜拍",
+      "onboard_time": 1672315407,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 629419,
@@ -2161,6 +2193,14 @@
       "onboard_time": 1672209029,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594950,
+      "num": 594950,
+      "word": "章昊 C位",
+      "onboard_time": 1672314270,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 590584,
@@ -2323,14 +2363,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 562038,
-      "num": 562038,
-      "word": "iPhone频繁降价开启卷王模式",
-      "onboard_time": 1672311634,
-      "rank": 26,
-      "category": "科技"
-    },
-    {
       "raw_hot": 561458,
       "num": 454731,
       "word": "中国工程院院士王仲奇离世",
@@ -2377,6 +2409,14 @@
       "onboard_time": 1672285949,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 551309,
+      "num": 551309,
+      "word": "Scout将在LNG首战微博杯",
+      "onboard_time": 1672312893,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 549164,
@@ -2595,14 +2635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 519756,
-      "num": 409491,
-      "word": "Scout将在LNG首战微博杯",
-      "onboard_time": 1672312893,
-      "rank": 11,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 519071,
       "num": 434271,
       "word": "刘宇宁直播",
@@ -2793,6 +2825,14 @@
       "onboard_time": 1672283609,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 484662,
+      "num": 484662,
+      "word": "肖战和家人合照的拍照姿势",
+      "onboard_time": 1672315770,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 483989,
@@ -3867,6 +3907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 355016,
+      "num": 355016,
+      "word": "阿里健康买300只口罩仅收到30只",
+      "onboard_time": 1672315050,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354247,
       "num": 354247,
       "word": "博主称餐厅虚假营销抓起帝王蟹扯腿吃掉",
@@ -4083,14 +4131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335058,
-      "num": 335058,
-      "word": "和不喜欢的人结婚是怎样的",
-      "onboard_time": 1672312232,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 334337,
       "num": 334337,
       "word": "你后悔参加23考研吗",
@@ -4225,6 +4265,14 @@
       "onboard_time": 1672086553,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325923,
+      "num": 265009,
+      "word": "长月烬明暂定2023年Q1播出",
+      "onboard_time": 1672313791,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 325897,
@@ -4409,6 +4457,14 @@
       "onboard_time": 1672103250,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 312409,
+      "num": 263679,
+      "word": "李会泽 选秀",
+      "onboard_time": 1672316670,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 312257,
@@ -5035,6 +5091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266026,
+      "num": 154187,
+      "word": "白猫掉下水道变黑猫主人边哭边洗",
+      "onboard_time": 1672315889,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265192,
       "num": 234607,
       "word": "浮图缘曾黎的人设好带感",
@@ -5113,6 +5177,14 @@
       "onboard_time": 1672294769,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260537,
+      "num": 152808,
+      "word": "小胖手写信说了七次对不起",
+      "onboard_time": 1672314212,
+      "rank": 31,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 260431,
@@ -5376,6 +5448,14 @@
       "word": "赵丽颖双剧登爱奇艺2022经典榜",
       "onboard_time": 1672050213,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 245528,
+      "num": 151686,
+      "word": "廖穗芳反水",
+      "onboard_time": 1672316670,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -5705,6 +5785,14 @@
       "onboard_time": 1672205068,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228998,
+      "num": 150646,
+      "word": "BoysPlanet有井汲大翔",
+      "onboard_time": 1672315710,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 228826,
@@ -6161,6 +6249,14 @@
       "onboard_time": 1672226672,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211138,
+      "num": 211138,
+      "word": "国乒混双组长肖战",
+      "onboard_time": 1672314751,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 210669,
@@ -7379,6 +7475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171672,
+      "num": 131499,
+      "word": "王鹤棣说退退退",
+      "onboard_time": 1672317092,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171541,
       "num": 171541,
       "word": "再见爱人",
@@ -7963,6 +8067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154204,
+      "num": 154204,
+      "word": "小狗对妈妈的爱真的好专一",
+      "onboard_time": 1672314331,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154058,
       "num": 154058,
       "word": "重症易发人群应提前用抗病毒治疗",
@@ -8107,6 +8219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149991,
+      "num": 149991,
+      "word": "足浴店被打员工称打人者依然在外面",
+      "onboard_time": 1672314510,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149984,
       "num": 149984,
       "word": "台湾有志青年要与祖国的发展共振",
@@ -8233,6 +8353,14 @@
       "onboard_time": 1672138834,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146899,
+      "num": 146899,
+      "word": "我国蓝领群体近一半超40岁",
+      "onboard_time": 1672316492,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 146545,
@@ -8827,6 +8955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130037,
+      "num": 130037,
+      "word": "宝可梦",
+      "onboard_time": 1672315952,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130018,
       "num": 471727,
       "word": "葫芦里装的什么妖",
@@ -8896,6 +9032,14 @@
       "word": "接到推销电话后男子反手将其起诉",
       "onboard_time": 1672033048,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126620,
+      "num": 1231376,
+      "word": "居家消毒5个注意事项",
+      "onboard_time": 1672314153,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -8977,6 +9121,14 @@
       "onboard_time": 1672039952,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124382,
+      "num": 124382,
+      "word": "就让2022的故事都留在2022",
+      "onboard_time": 1672316851,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 123329,
@@ -9139,6 +9291,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 116567,
+      "num": 124325,
+      "word": "国乒新一届教练组确定",
+      "onboard_time": 1672316369,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116096,
       "num": 116096,
       "word": "灰熊vs勇士",
@@ -9209,6 +9369,22 @@
       "onboard_time": 1672260431,
       "rank": 11,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 111690,
+      "num": 124292,
+      "word": "栓Q哥回应栓Q成2022十大热词",
+      "onboard_time": 1672317031,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111079,
+      "num": 124268,
+      "word": "女子搬家后发现新房藏有豪华地堡",
+      "onboard_time": 1672317151,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111011,
@@ -10019,6 +10195,9 @@
     },
     {
       "word": "#一段视频告别2022#"
+    },
+    {
+      "word": "#2022我国航天发射次数创历史新高#"
     }
   ]
 }
