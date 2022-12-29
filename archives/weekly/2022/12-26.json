@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672353197040,
+  "endTime": 1672355964272,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -201,6 +201,14 @@
       "onboard_time": 1672124492,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2106945,
+      "num": 2106945,
+      "word": "球王贝利去世",
+      "onboard_time": 1672344132,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2060779,
@@ -1665,14 +1673,6 @@
       "onboard_time": 1672219653,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 763219,
-      "num": 763219,
-      "word": "球王贝利去世",
-      "onboard_time": 1672344132,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 762901,
@@ -5217,6 +5217,14 @@
       "onboard_time": 1672227511,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282694,
+      "num": 282694,
+      "word": "9位新冠二次感染者自述",
+      "onboard_time": 1672336695,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280965,
@@ -8827,6 +8835,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 146101,
+      "num": 69088,
+      "word": "贝利三次获得世界杯冠军",
+      "onboard_time": 1672355058,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146098,
       "num": 146098,
       "word": "花盆杯",
@@ -9355,14 +9371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132890,
-      "num": 101549,
-      "word": "9位新冠二次感染者自述",
-      "onboard_time": 1672336695,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132855,
       "num": 132855,
       "word": "陕西韩城一高中生虐猫",
@@ -9859,6 +9867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112535,
+      "num": 68975,
+      "word": "女子放生2.5万斤外来物种鲇鱼被起诉",
+      "onboard_time": 1672355477,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112011,
       "num": 112011,
       "word": "第一视角当人类幼崽",
@@ -10072,6 +10088,14 @@
       "word": "乙类乙管将不再划定高低风险区",
       "onboard_time": 1672109548,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104099,
+      "num": 104099,
+      "word": "过了腊八就是年",
+      "onboard_time": 1672355117,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -10297,6 +10321,14 @@
       "onboard_time": 1671961950,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81647,
+      "num": 81647,
+      "word": "小秀是被李文卓所杀",
+      "onboard_time": 1672343712,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 77618,
@@ -10531,6 +10563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46009,
+      "num": 46009,
+      "word": "治疗新冠中药协定方范例公布",
+      "onboard_time": 1672341253,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44535,
       "num": 1016063,
       "word": "恢复期9类健康问题如何应对",
@@ -10561,14 +10601,6 @@
       "onboard_time": 1672339094,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42033,
-      "num": 42033,
-      "word": "小秀是被李文卓所杀",
-      "onboard_time": 1672343712,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 41054,
@@ -10649,14 +10681,6 @@
       "onboard_time": 1672163835,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32102,
-      "num": 30635,
-      "word": "治疗新冠中药协定方范例公布",
-      "onboard_time": 1672341253,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28455,

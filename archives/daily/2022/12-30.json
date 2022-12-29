@@ -1,7 +1,15 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672353197040,
+  "endTime": 1672355964272,
   "band_list": [
+    {
+      "raw_hot": 2106945,
+      "num": 2106945,
+      "word": "球王贝利去世",
+      "onboard_time": 1672344132,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 1936346,
       "num": 1936346,
@@ -25,14 +33,6 @@
       "onboard_time": 1672327290,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 763219,
-      "num": 763219,
-      "word": "球王贝利去世",
-      "onboard_time": 1672344132,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 747555,
@@ -129,6 +129,14 @@
       "onboard_time": 1672322914,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282694,
+      "num": 282694,
+      "word": "9位新冠二次感染者自述",
+      "onboard_time": 1672336695,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276469,
@@ -300,11 +308,19 @@
     },
     {
       "raw_hot": 156932,
-      "num": 91716,
+      "num": 101726,
       "word": "2023总台春晚首支歌曲公布",
       "onboard_time": 1672311634,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146101,
+      "num": 69088,
+      "word": "贝利三次获得世界杯冠军",
+      "onboard_time": 1672355058,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 145974,
@@ -331,14 +347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 132890,
-      "num": 101549,
-      "word": "9位新冠二次感染者自述",
-      "onboard_time": 1672336695,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131740,
       "num": 131740,
       "word": "抗原日产能1.1亿人份",
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112535,
+      "num": 68975,
+      "word": "女子放生2.5万斤外来物种鲇鱼被起诉",
+      "onboard_time": 1672355477,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111915,
       "num": 111915,
       "word": "Scout将在LNG首战微博杯",
@@ -376,6 +392,14 @@
       "word": "白猫掉下水道变黑猫主人边哭边洗",
       "onboard_time": 1672315889,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104099,
+      "num": 104099,
+      "word": "过了腊八就是年",
+      "onboard_time": 1672355117,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -451,6 +475,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 81647,
+      "num": 81647,
+      "word": "小秀是被李文卓所杀",
+      "onboard_time": 1672343712,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 74600,
       "num": 81765,
       "word": "新冠转阴后出现肺炎或是继发细菌感染",
@@ -483,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46009,
+      "num": 46009,
+      "word": "治疗新冠中药协定方范例公布",
+      "onboard_time": 1672341253,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44535,
       "num": 1016063,
       "word": "恢复期9类健康问题如何应对",
@@ -499,12 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42033,
-      "num": 42033,
-      "word": "小秀是被李文卓所杀",
-      "onboard_time": 1672343712,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 41617,
+      "num": 41617,
+      "word": "蛋仔派对",
+      "onboard_time": 1672355779,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 36803,
@@ -513,14 +553,6 @@
       "onboard_time": 1672334417,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 32102,
-      "num": 30635,
-      "word": "治疗新冠中药协定方范例公布",
-      "onboard_time": 1672341253,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18489,
