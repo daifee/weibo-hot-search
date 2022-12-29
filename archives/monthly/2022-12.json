@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672346020353,
+  "endTime": 1672348549965,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -68611,6 +68611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27879,
+      "num": 27879,
+      "word": "小秀是被李文卓所杀",
+      "onboard_time": 1672343712,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 27806,
       "num": 171192,
       "word": "忘情一刻",
@@ -68640,14 +68648,6 @@
       "word": "李光洁说祝大家都能成为富婆",
       "onboard_time": 1671057135,
       "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 25729,
-      "num": 20728,
-      "word": "小秀是被李文卓所杀",
-      "onboard_time": 1672343712,
-      "rank": 35,
       "category": "影视"
     },
     {
