@@ -1,20 +1,20 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672284831961,
+  "endTime": 1672287755801,
   "band_list": [
+    {
+      "raw_hot": 2051878,
+      "num": 594807,
+      "word": "向太试吃车厘子",
+      "onboard_time": 1672283428,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1975067,
       "num": 616401,
       "word": "素人求助赵露思领养猫咪",
       "onboard_time": 1672277009,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1852862,
-      "num": 594807,
-      "word": "向太试吃车厘子",
-      "onboard_time": 1672283428,
       "rank": 10,
       "category": "艺人"
     },
@@ -67,11 +67,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1229659,
+      "num": 1229659,
+      "word": "意大利对中国旅客强制实行新冠快速检测",
+      "onboard_time": 1672281928,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1091158,
       "num": 1091158,
       "word": "女子吸朋友递来香烟后毒品阳性",
       "onboard_time": 1672280069,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1048922,
+      "num": 1048922,
+      "word": "白肺的一个明显表现是气紧",
+      "onboard_time": 1672283428,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -131,14 +147,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 777893,
-      "num": 777893,
-      "word": "意大利对中国旅客强制实行新冠快速检测",
-      "onboard_time": 1672281928,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 749447,
       "num": 749447,
       "word": "侃爷 失踪",
@@ -171,12 +179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 636456,
+      "num": 636456,
+      "word": "转阴后一定不要狂吃",
+      "onboard_time": 1672284269,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609939,
       "num": 609939,
       "word": "内马尔 法甲",
       "onboard_time": 1672269317,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 554887,
+      "num": 495376,
+      "word": "杨紫199爱高马尾造型开机路透",
+      "onboard_time": 1672285949,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 545597,
@@ -187,12 +211,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540722,
+      "num": 495253,
+      "word": "丈夫照顾阳性妻子5天自己1天痊愈",
+      "onboard_time": 1672285409,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505698,
       "num": 505698,
       "word": "苹果因不送充电器在美面临新集体诉讼",
       "onboard_time": 1672275330,
       "rank": 9,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 495422,
+      "num": 495422,
+      "word": "新冠感染新增本土死亡1例",
+      "onboard_time": 1672285347,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494790,
+      "num": 494790,
+      "word": "泽连斯基称乌克兰已成为全球领导者之一",
+      "onboard_time": 1672286669,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 485081,
+      "num": 485081,
+      "word": "只有张艺谋能凑齐的绝版阵容",
+      "onboard_time": 1672283609,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 483989,
@@ -219,11 +275,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 429356,
-      "num": 429356,
-      "word": "白肺的一个明显表现是气紧",
-      "onboard_time": 1672283428,
-      "rank": 28,
+      "raw_hot": 440057,
+      "num": 440057,
+      "word": "女生吐槽学校上厕所排队太难",
+      "onboard_time": 1672283792,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -233,14 +289,6 @@
       "onboard_time": 1672277849,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 418818,
-      "num": 418818,
-      "word": "只有张艺谋能凑齐的绝版阵容",
-      "onboard_time": 1672283609,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 413900,
@@ -305,6 +353,14 @@
       "onboard_time": 1672281928,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 366859,
+      "num": 340885,
+      "word": "谭松韵说嗑自己未来老公cp",
+      "onboard_time": 1672287032,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 345598,
@@ -411,12 +467,12 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 252318,
-      "num": 204473,
-      "word": "女生吐槽学校上厕所排队太难",
-      "onboard_time": 1672283792,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 260638,
+      "num": 260638,
+      "word": "光与夜之恋",
+      "onboard_time": 1672287569,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 252299,
@@ -441,6 +497,14 @@
       "onboard_time": 1672283128,
       "rank": 25,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 243012,
+      "num": 243012,
+      "word": "男子病房推搡咒骂痴呆母亲",
+      "onboard_time": 1672284269,
+      "rank": 28,
+      "category": "社会负面"
     },
     {
       "raw_hot": 241489,
@@ -475,6 +539,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226324,
+      "num": 226324,
+      "word": "轻度心肌炎多休息基本能痊愈",
+      "onboard_time": 1672286068,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225364,
+      "num": 225364,
+      "word": "与迪丽热巴一起欢乐跨年",
+      "onboard_time": 1672286612,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223370,
       "num": 223370,
       "word": "2个枕头帮助提升血氧",
@@ -489,6 +569,14 @@
       "onboard_time": 1672277550,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220314,
+      "num": 220314,
+      "word": "大哥远",
+      "onboard_time": 1672284329,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 219172,
@@ -521,6 +609,14 @@
       "onboard_time": 1672212392,
       "rank": 31,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 214342,
+      "num": 214342,
+      "word": "各地重症高峰陆续到来",
+      "onboard_time": 1672286009,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214019,
@@ -587,12 +683,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190049,
+      "num": 190049,
+      "word": "真的没想到这是厕所",
+      "onboard_time": 1672285229,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185648,
       "num": 185648,
       "word": "苹果拟砍iPhone供应链价格以保获利",
       "onboard_time": 1672280130,
       "rank": 28,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 183538,
+      "num": 183538,
+      "word": "七斋时隔三年又聚齐了",
+      "onboard_time": 1672286549,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 182860,
@@ -611,12 +723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180481,
-      "num": 180481,
-      "word": "大哥远",
-      "onboard_time": 1672284329,
-      "rank": 33,
-      "category": "网红"
+      "raw_hot": 179834,
+      "num": 170836,
+      "word": "周雨彤说本斋长作证七斋是最不会闹事的",
+      "onboard_time": 1672285229,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 179587,
@@ -673,14 +785,6 @@
       "onboard_time": 1672217910,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168918,
-      "num": 168918,
-      "word": "转阴后一定不要狂吃",
-      "onboard_time": 1672284269,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168519,
@@ -747,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159665,
+      "num": 159665,
+      "word": "江南百景图",
+      "onboard_time": 1672284811,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155278,
       "num": 155278,
       "word": "吕布怒海麟威新皮肤",
@@ -793,6 +905,14 @@
       "onboard_time": 1672273947,
       "rank": 41,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 149807,
+      "num": 149807,
+      "word": "44岁保安大叔新年愿望是结婚",
+      "onboard_time": 1672287750,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149628,
@@ -921,14 +1041,6 @@
       "onboard_time": 1672274307,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125525,
-      "num": 125525,
-      "word": "江南百景图",
-      "onboard_time": 1672284811,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 124348,
@@ -1121,6 +1233,14 @@
       "onboard_time": 1672250295,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 38016,
+      "num": 170867,
+      "word": "炫成为2022年最高频文字",
+      "onboard_time": 1672286430,
+      "rank": 39,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
