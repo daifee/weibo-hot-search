@@ -1,7 +1,15 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672290989203,
+  "endTime": 1672292019964,
   "band_list": [
+    {
+      "raw_hot": 2692084,
+      "num": 2692084,
+      "word": "羊了个羊创始人没想到一季度挣了20万",
+      "onboard_time": 1672289970,
+      "rank": 11,
+      "category": "财经"
+    },
     {
       "raw_hot": 2051878,
       "num": 594807,
@@ -73,14 +81,6 @@
       "onboard_time": 1672281928,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1213532,
-      "num": 475499,
-      "word": "羊了个羊创始人没想到一季度挣了20万",
-      "onboard_time": 1672289970,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 1091158,
@@ -171,6 +171,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 749474,
+      "num": 749474,
+      "word": "北京一阿姨眼皮跳就诊后被赔16万",
+      "onboard_time": 1672289552,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 749447,
       "num": 749447,
       "word": "侃爷 失踪",
@@ -219,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 612586,
-      "num": 612586,
-      "word": "北京一阿姨眼皮跳就诊后被赔16万",
-      "onboard_time": 1672289552,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 609939,
       "num": 609939,
       "word": "内马尔 法甲",
@@ -259,6 +259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527339,
+      "num": 527339,
+      "word": "1380元血氧仪成本仅几十块",
+      "onboard_time": 1672290391,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510446,
+      "num": 510446,
+      "word": "EDG Scout",
+      "onboard_time": 1672290150,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 505698,
       "num": 505698,
       "word": "苹果因不送充电器在美面临新集体诉讼",
@@ -283,20 +299,20 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 480145,
+      "num": 480145,
+      "word": "杨紫成毅年度仙侠奇幻类角色TOP1",
+      "onboard_time": 1672290571,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 472224,
       "num": 243879,
       "word": "萧敬腾 妈咪",
       "onboard_time": 1672235615,
       "rank": 20,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 468099,
-      "num": 468099,
-      "word": "杨紫成毅年度仙侠奇幻类角色TOP1",
-      "onboard_time": 1672290571,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 443112,
@@ -451,12 +467,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 315604,
-      "num": 315604,
-      "word": "EDG Scout",
-      "onboard_time": 1672290150,
-      "rank": 19,
-      "category": "游戏"
+      "raw_hot": 308058,
+      "num": 271651,
+      "word": "张子枫说张艺兴变得勇敢了很多",
+      "onboard_time": 1672291111,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 306242,
@@ -555,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270552,
+      "num": 270552,
+      "word": "不良人",
+      "onboard_time": 1672290871,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 263681,
       "num": 263681,
       "word": "苹果市值一夜蒸发约4431亿元",
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 260305,
-      "num": 217758,
+      "num": 223080,
       "word": "张新成大宋少年志2谐音梗脏心诚",
       "onboard_time": 1672289789,
       "rank": 31,
@@ -657,6 +681,14 @@
       "onboard_time": 1672237656,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 226613,
+      "num": 226613,
+      "word": "男孩吐槽认真做作业却考倒数第二",
+      "onboard_time": 1672290391,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 223370,
@@ -787,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197932,
+      "num": 197932,
+      "word": "伍六七第四季定档",
+      "onboard_time": 1672291111,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 193788,
       "num": 193788,
       "word": "梅西外出被球迷围堵",
@@ -811,12 +851,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190999,
+      "num": 190999,
+      "word": "月洋 直播",
+      "onboard_time": 1672291351,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 190049,
       "num": 190049,
       "word": "真的没想到这是厕所",
       "onboard_time": 1672285229,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186639,
+      "num": 186639,
+      "word": "算法开发工程师平均年薪超60万",
+      "onboard_time": 1672289730,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185648,
@@ -843,19 +899,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181914,
+      "num": 181914,
+      "word": "内马尔 好惨",
+      "onboard_time": 1672292010,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181402,
       "num": 181402,
       "word": "男子闯荡郑州10年后二次创业",
       "onboard_time": 1672282050,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180220,
-      "num": 180220,
-      "word": "算法开发工程师平均年薪超60万",
-      "onboard_time": 1672289730,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -897,6 +953,14 @@
       "onboard_time": 1672243645,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177033,
+      "num": 177033,
+      "word": "00后提前演练送红包场景",
+      "onboard_time": 1672291231,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172786,
@@ -947,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164643,
+      "num": 164643,
+      "word": "非学科类培训机构要坚持公益属性",
+      "onboard_time": 1672291470,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 164397,
       "num": 164397,
       "word": "浮图缘",
@@ -987,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162212,
-      "num": 162212,
-      "word": "1380元血氧仪成本仅几十块",
-      "onboard_time": 1672290391,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160088,
       "num": 160088,
       "word": "蓝佛安同志任山西省委书记",
@@ -1009,14 +1073,6 @@
       "onboard_time": 1672284811,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158300,
-      "num": 158300,
-      "word": "男孩吐槽认真做作业却考倒数第二",
-      "onboard_time": 1672290391,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 156753,
@@ -1081,6 +1137,14 @@
       "onboard_time": 1672237714,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149498,
+      "num": 149498,
+      "word": "不良人6定档",
+      "onboard_time": 1672291531,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 148969,

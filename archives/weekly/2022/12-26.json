@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672290989203,
+  "endTime": 1672292019964,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -81,6 +81,14 @@
       "onboard_time": 1672059454,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2692084,
+      "num": 2692084,
+      "word": "羊了个羊创始人没想到一季度挣了20万",
+      "onboard_time": 1672289970,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 2654057,
@@ -633,14 +641,6 @@
       "onboard_time": 1672214551,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1213532,
-      "num": 475499,
-      "word": "羊了个羊创始人没想到一季度挣了20万",
-      "onboard_time": 1672289970,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 1208396,
@@ -1499,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 749474,
+      "num": 749474,
+      "word": "北京一阿姨眼皮跳就诊后被赔16万",
+      "onboard_time": 1672289552,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 743010,
       "num": 743010,
       "word": "回来的女儿 高开低走",
@@ -1888,14 +1896,6 @@
       "word": "男孩咳嗽发热在家硬扛一查竟是白肺",
       "onboard_time": 1672128453,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 612586,
-      "num": 612586,
-      "word": "北京一阿姨眼皮跳就诊后被赔16万",
-      "onboard_time": 1672289552,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -2299,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527339,
+      "num": 527339,
+      "word": "1380元血氧仪成本仅几十块",
+      "onboard_time": 1672290391,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527200,
       "num": 527200,
       "word": "名侦探柯南新剧场版预告",
@@ -2417,6 +2425,14 @@
       "onboard_time": 1672098985,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510446,
+      "num": 510446,
+      "word": "EDG Scout",
+      "onboard_time": 1672290150,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 508530,
@@ -2563,6 +2579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 480145,
+      "num": 480145,
+      "word": "杨紫成毅年度仙侠奇幻类角色TOP1",
+      "onboard_time": 1672290571,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 478928,
       "num": 478928,
       "word": "53岁女儿生病78岁父亲不放心睡门口",
@@ -2656,14 +2680,6 @@
       "word": "王鹤棣听到粉丝喊肖掌印好帅的反应",
       "onboard_time": 1672231590,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 468099,
-      "num": 468099,
-      "word": "杨紫成毅年度仙侠奇幻类角色TOP1",
-      "onboard_time": 1672290571,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -3915,14 +3931,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 315604,
-      "num": 315604,
-      "word": "EDG Scout",
-      "onboard_time": 1672290150,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 315525,
       "num": 315525,
       "word": "没阳过的人跟阳康接触会被感染吗",
@@ -3993,6 +4001,14 @@
       "onboard_time": 1672199127,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308058,
+      "num": 271651,
+      "word": "张子枫说张艺兴变得勇敢了很多",
+      "onboard_time": 1672291111,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 307982,
@@ -4483,6 +4499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270552,
+      "num": 270552,
+      "word": "不良人",
+      "onboard_time": 1672290871,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 269092,
       "num": 269092,
       "word": "伊甸园",
@@ -4604,7 +4628,7 @@
     },
     {
       "raw_hot": 260305,
-      "num": 217758,
+      "num": 223080,
       "word": "张新成大宋少年志2谐音梗脏心诚",
       "onboard_time": 1672289789,
       "rank": 31,
@@ -5209,6 +5233,14 @@
       "onboard_time": 1672183518,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226613,
+      "num": 226613,
+      "word": "男孩吐槽认真做作业却考倒数第二",
+      "onboard_time": 1672290391,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 225555,
@@ -5851,6 +5883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197932,
+      "num": 197932,
+      "word": "伍六七第四季定档",
+      "onboard_time": 1672291111,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 197715,
       "num": 187651,
       "word": "120闯红灯撞车后被指见死不救",
@@ -6075,6 +6115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190999,
+      "num": 190999,
+      "word": "月洋 直播",
+      "onboard_time": 1672291351,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 190816,
       "num": 169814,
       "word": "张艺兴东方卫视跨年盛典官宣海报",
@@ -6193,6 +6241,14 @@
       "onboard_time": 1672043313,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186639,
+      "num": 186639,
+      "word": "算法开发工程师平均年薪超60万",
+      "onboard_time": 1672289730,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186113,
@@ -6315,6 +6371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181914,
+      "num": 181914,
+      "word": "内马尔 好惨",
+      "onboard_time": 1672292010,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181787,
       "num": 181787,
       "word": "乙类乙管后有哪些应对措施",
@@ -6344,14 +6408,6 @@
       "word": "KN95和N95口罩有什么区别",
       "onboard_time": 1671963632,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180220,
-      "num": 180220,
-      "word": "算法开发工程师平均年薪超60万",
-      "onboard_time": 1672289730,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -6481,6 +6537,14 @@
       "onboard_time": 1672243645,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177033,
+      "num": 177033,
+      "word": "00后提前演练送红包场景",
+      "onboard_time": 1672291231,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176836,
@@ -6819,6 +6883,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 164643,
+      "num": 164643,
+      "word": "非学科类培训机构要坚持公益属性",
+      "onboard_time": 1672291470,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 164598,
       "num": 164598,
       "word": "克洛普说梅西是足坛GOAT",
@@ -6889,14 +6961,6 @@
       "onboard_time": 1672034970,
       "rank": 44,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 162212,
-      "num": 162212,
-      "word": "1380元血氧仪成本仅几十块",
-      "onboard_time": 1672290391,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162036,
@@ -7033,14 +7097,6 @@
       "onboard_time": 1672026390,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158300,
-      "num": 158300,
-      "word": "男孩吐槽认真做作业却考倒数第二",
-      "onboard_time": 1672290391,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 157852,
@@ -7337,6 +7393,14 @@
       "onboard_time": 1672042472,
       "rank": 43,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 149498,
+      "num": 149498,
+      "word": "不良人6定档",
+      "onboard_time": 1672291531,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 149111,

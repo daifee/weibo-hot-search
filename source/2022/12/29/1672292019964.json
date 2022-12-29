@@ -1,0 +1,410 @@
+{
+  "runTime": 1672292019964,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2692084,
+        "num": 2692084,
+        "word": "羊了个羊创始人没想到一季度挣了20万",
+        "onboard_time": 1672289970,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 920567,
+        "num": 920567,
+        "word": "白肺的一个明显表现是气紧",
+        "onboard_time": 1672283428,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176506,
+        "num": 835806,
+        "word": "反复咳嗽的患者有哪些注意事项",
+        "onboard_time": 1672279470,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787979,
+        "num": 787979,
+        "word": "泽连斯基称乌克兰已成为全球领导者之一",
+        "onboard_time": 1672286669,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 786607,
+        "num": 786607,
+        "word": "萧敬腾方联合声明",
+        "onboard_time": 1672289371,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 749474,
+        "num": 749474,
+        "word": "北京一阿姨眼皮跳就诊后被赔16万",
+        "onboard_time": 1672289552,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620058,
+        "num": 620058,
+        "word": "新冠感染新增本土死亡1例",
+        "onboard_time": 1672285347,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527339,
+        "num": 527339,
+        "word": "1380元血氧仪成本仅几十块",
+        "onboard_time": 1672290391,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510446,
+        "num": 510446,
+        "word": "EDG Scout",
+        "onboard_time": 1672290150,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 480145,
+        "num": 480145,
+        "word": "杨紫成毅年度仙侠奇幻类角色TOP1",
+        "onboard_time": 1672290571,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1507742,
+        "num": 479208,
+        "word": "向太试吃车厘子",
+        "onboard_time": 1672283428,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463309,
+        "num": 463309,
+        "word": "意大利对中国旅客强制实行新冠快速检测",
+        "onboard_time": 1672281928,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425917,
+        "num": 425917,
+        "word": "杨迪因没收到跨年邀请要出单曲跨",
+        "onboard_time": 1672280189,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 398631,
+        "num": 398631,
+        "word": "女子吸朋友递来香烟后毒品阳性",
+        "onboard_time": 1672280069,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389790,
+        "num": 389790,
+        "word": "丈夫照顾阳性妻子5天自己1天痊愈",
+        "onboard_time": 1672285409,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379974,
+        "num": 379974,
+        "word": "只有张艺谋能凑齐的绝版阵容",
+        "onboard_time": 1672283609,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340962,
+        "num": 340962,
+        "word": "素人求助赵露思领养猫咪",
+        "onboard_time": 1672277009,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315141,
+        "num": 315141,
+        "word": "转阴后一定不要狂吃",
+        "onboard_time": 1672284269,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280456,
+        "num": 280456,
+        "word": "轻度心肌炎多休息基本能痊愈",
+        "onboard_time": 1672286068,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272428,
+        "num": 272428,
+        "word": "感染新冠两周后心肌会有反应",
+        "onboard_time": 1672237656,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317182,
+        "num": 272203,
+        "word": "顾魏李峋裴之登年度言情角色Top3",
+        "onboard_time": 1672290271,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308058,
+        "num": 271651,
+        "word": "张子枫说张艺兴变得勇敢了很多",
+        "onboard_time": 1672291111,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270552,
+        "num": 270552,
+        "word": "不良人",
+        "onboard_time": 1672290871,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 269783,
+        "num": 269783,
+        "word": "姆巴佩绝杀",
+        "onboard_time": 1672276949,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258530,
+        "num": 258530,
+        "word": "导演评价王鹤棣的肖铎",
+        "onboard_time": 1672288231,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236266,
+        "num": 236266,
+        "word": "iPhone15Plus或降价千元",
+        "onboard_time": 1672279470,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 234741,
+        "num": 234741,
+        "word": "林书豪告别广州男篮",
+        "onboard_time": 1672289371,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230721,
+        "num": 230721,
+        "word": "齐司礼",
+        "onboard_time": 1672288292,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229438,
+        "num": 229438,
+        "word": "女生吐槽学校上厕所排队太难",
+        "onboard_time": 1672283792,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226613,
+        "num": 226613,
+        "word": "男孩吐槽认真做作业却考倒数第二",
+        "onboard_time": 1672290391,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 564030,
+        "num": 226177,
+        "word": "女子阳康后子宫异常出血",
+        "onboard_time": 1672274307,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234546,
+        "num": 225875,
+        "word": "谭松韵说嗑自己未来老公cp",
+        "onboard_time": 1672287032,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223080,
+        "num": 223080,
+        "word": "张新成大宋少年志2谐音梗脏心诚",
+        "onboard_time": 1672289789,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218352,
+        "num": 218352,
+        "word": "小胖道歉",
+        "onboard_time": 1672271543,
+        "rank": 33,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 215990,
+        "num": 215990,
+        "word": "专家称新冠一定不是感冒",
+        "onboard_time": 1672277970,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214138,
+        "num": 214138,
+        "word": "199爱",
+        "onboard_time": 1672283913,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197932,
+        "num": 197932,
+        "word": "伍六七第四季定档",
+        "onboard_time": 1672291111,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 197353,
+        "num": 197353,
+        "word": "44岁保安大叔新年愿望是结婚",
+        "onboard_time": 1672287750,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193614,
+        "num": 193614,
+        "word": "姆巴佩回应大马丁的嘲讽",
+        "onboard_time": 1672276111,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187586,
+        "num": 191604,
+        "word": "梅西外出被球迷围堵",
+        "onboard_time": 1672288888,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190999,
+        "num": 190999,
+        "word": "月洋 直播",
+        "onboard_time": 1672291351,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 188590,
+        "num": 188590,
+        "word": "王一博陈宇获年度悬疑刑侦类角色第一",
+        "onboard_time": 1672288349,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186639,
+        "num": 186639,
+        "word": "算法开发工程师平均年薪超60万",
+        "onboard_time": 1672289730,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181914,
+        "num": 181914,
+        "word": "内马尔 好惨",
+        "onboard_time": 1672292010,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177033,
+        "num": 177033,
+        "word": "00后提前演练送红包场景",
+        "onboard_time": 1672291231,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164643,
+        "num": 164643,
+        "word": "非学科类培训机构要坚持公益属性",
+        "onboard_time": 1672291470,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 163272,
+        "num": 163272,
+        "word": "女子感染新冠后长出浓密胡子",
+        "onboard_time": 1672269377,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149498,
+        "num": 149498,
+        "word": "不良人6定档",
+        "onboard_time": 1672291531,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 149051,
+        "num": 149051,
+        "word": "光与夜之恋",
+        "onboard_time": 1672287569,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147111,
+        "num": 147111,
+        "word": "卫健委就女子孕检被误诊艾滋病一事发声",
+        "onboard_time": 1672277787,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#10张数字海报回顾2022#"
+    }
+  }
+}
