@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672320811769,
+  "endTime": 1672323359354,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -651,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1270068,
+      "num": 1270068,
+      "word": "专家称今后不排除还需要做核酸",
+      "onboard_time": 1672320631,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1266427,
       "num": 1266427,
       "word": "任嘉伦邢菲二搭",
@@ -681,6 +689,14 @@
       "onboard_time": 1672204768,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1240980,
+      "num": 1240980,
+      "word": "车厘子",
+      "onboard_time": 1672317691,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 1235625,
@@ -721,14 +737,6 @@
       "onboard_time": 1672214551,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1215178,
-      "num": 1215178,
-      "word": "车厘子",
-      "onboard_time": 1672317691,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 1208396,
@@ -1419,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 822369,
+      "num": 822369,
+      "word": "男子高铁上脱口罩测抗原结果真阳了",
+      "onboard_time": 1672317810,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 817143,
       "num": 817143,
       "word": "塞尔维亚军警进入最高级别战备状态",
@@ -1504,14 +1520,6 @@
       "word": "鱼跃集团回应94元血氧仪涨到299元",
       "onboard_time": 1672202133,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 786833,
-      "num": 786833,
-      "word": "男子高铁上脱口罩测抗原结果真阳了",
-      "onboard_time": 1672317810,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1713,6 +1721,14 @@
       "onboard_time": 1672049973,
       "rank": 31,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 727362,
+      "num": 727362,
+      "word": "曾光称北京新冠感染率或超80%",
+      "onboard_time": 1672319970,
+      "rank": 48,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 717835,
@@ -1987,12 +2003,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 653286,
+      "num": 653286,
+      "word": "张艺兴公司练习生参加BoysPlanet",
+      "onboard_time": 1672321293,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 653185,
       "num": 653185,
       "word": "秦志戬",
       "onboard_time": 1672309592,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 651627,
+      "num": 651627,
+      "word": "这个秀非选不可吗",
+      "onboard_time": 1672321235,
+      "rank": 9,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 650618,
@@ -2017,6 +2049,14 @@
       "onboard_time": 1672205248,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 648114,
+      "num": 648114,
+      "word": "你收到哪里的晚安",
+      "onboard_time": 1672321716,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 647881,
@@ -2345,6 +2385,14 @@
       "onboard_time": 1672058373,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 569740,
+      "num": 569740,
+      "word": "嘉行传媒律师声明",
+      "onboard_time": 1672322973,
+      "rank": 11,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 568636,
@@ -2716,7 +2764,7 @@
     },
     {
       "raw_hot": 512054,
-      "num": 443008,
+      "num": 493492,
       "word": "女子搬家后发现新房藏有豪华地堡",
       "onboard_time": 1672317151,
       "rank": 49,
@@ -2737,6 +2785,14 @@
       "onboard_time": 1672290150,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 510380,
+      "num": 510380,
+      "word": "文邺辰 青1",
+      "onboard_time": 1672319489,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 508530,
@@ -2769,14 +2825,6 @@
       "onboard_time": 1672044873,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 507665,
-      "num": 431644,
-      "word": "文邺辰 青1",
-      "onboard_time": 1672319489,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 506370,
@@ -3411,6 +3459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 421189,
+      "num": 328725,
+      "word": "BoysPlanet",
+      "onboard_time": 1672312054,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419269,
       "num": 270103,
       "word": "肖战玉骨遥片花播放量破亿",
@@ -3545,6 +3601,14 @@
       "onboard_time": 1672047571,
       "rank": 12,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 399246,
+      "num": 234507,
+      "word": "BoysPlanet 王南钧",
+      "onboard_time": 1672323033,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 398870,
@@ -3755,6 +3819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374525,
+      "num": 231597,
+      "word": "医生说杜海涛减肥反弹几率很高",
+      "onboard_time": 1672322914,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374333,
       "num": 363321,
       "word": "吴振峰为王一博新歌打call",
@@ -3859,6 +3931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366466,
+      "num": 366466,
+      "word": "晚安计划",
+      "onboard_time": 1672062876,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 365973,
       "num": 276568,
       "word": "无尽夏开箱",
@@ -3889,14 +3969,6 @@
       "onboard_time": 1672038631,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 364213,
-      "num": 327060,
-      "word": "BoysPlanet",
-      "onboard_time": 1672312054,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 362449,
@@ -4025,14 +4097,6 @@
       "onboard_time": 1672069593,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 351312,
-      "num": 351312,
-      "word": "晚安计划",
-      "onboard_time": 1672062876,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 350562,
@@ -4179,6 +4243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338250,
+      "num": 338250,
+      "word": "河南女子骑20分钟电动车到安徽放烟花",
+      "onboard_time": 1672318233,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337907,
       "num": 337907,
       "word": "不良人",
@@ -4193,6 +4265,14 @@
       "onboard_time": 1672117593,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335955,
+      "num": 227785,
+      "word": "年度歌手",
+      "onboard_time": 1672321472,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 335515,
@@ -4241,6 +4321,14 @@
       "onboard_time": 1672132835,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 331405,
+      "num": 225367,
+      "word": "李承天点烟送陈佑希上路",
+      "onboard_time": 1672318170,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 331054,
@@ -4571,6 +4659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 312145,
+      "num": 312145,
+      "word": "第一次晕猫了",
+      "onboard_time": 1672321293,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 311739,
       "num": 311739,
       "word": "春晚彩排有你想看到的艺人吗",
@@ -4617,14 +4713,6 @@
       "onboard_time": 1672039771,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307103,
-      "num": 197872,
-      "word": "李承天点烟送陈佑希上路",
-      "onboard_time": 1672318170,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 306242,
@@ -5283,14 +5371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262861,
-      "num": 262861,
-      "word": "河南女子骑20分钟电动车到安徽放烟花",
-      "onboard_time": 1672318233,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261160,
       "num": 261160,
       "word": "郑新黄河大桥多车相撞目击者发声",
@@ -5329,6 +5409,14 @@
       "onboard_time": 1672289789,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259936,
+      "num": 259936,
+      "word": "同层4户邻居在楼道聚餐",
+      "onboard_time": 1672318770,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259435,
@@ -5961,14 +6049,6 @@
       "onboard_time": 1672138353,
       "rank": 34,
       "category": "其它"
-    },
-    {
-      "raw_hot": 228223,
-      "num": 228223,
-      "word": "同层4户邻居在楼道聚餐",
-      "onboard_time": 1672318770,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227831,
@@ -7715,14 +7795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169760,
-      "num": 169760,
-      "word": "曾光称北京新冠感染率或超80%",
-      "onboard_time": 1672319970,
-      "rank": 48,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 169594,
       "num": 163522,
       "word": "浮图缘剧情节奏",
@@ -9123,6 +9195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130358,
+      "num": 130358,
+      "word": "血氧指标低于90就是肺感染重症体现",
+      "onboard_time": 1672322792,
+      "rank": 46,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 130180,
       "num": 142756,
       "word": "2022第一条晚安短信",
@@ -9220,7 +9300,7 @@
     },
     {
       "raw_hot": 126620,
-      "num": 1231376,
+      "num": 1254452,
       "word": "居家消毒5个注意事项",
       "onboard_time": 1672314153,
       "rank": 2,
@@ -9467,6 +9547,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 116951,
+      "num": 116951,
+      "word": "俩女主播为抢榜一大哥互怼闹上法庭",
+      "onboard_time": 1672322973,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116567,
       "num": 124325,
       "word": "国乒新一届教练组确定",
@@ -9529,6 +9617,14 @@
       "onboard_time": 1672309291,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112011,
+      "num": 112011,
+      "word": "第一视角当人类幼崽",
+      "onboard_time": 1672320571,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 111854,

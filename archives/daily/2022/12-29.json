@@ -1,6 +1,6 @@
 {
   "startTime": 1672244675454,
-  "endTime": 1672320811769,
+  "endTime": 1672323359354,
   "band_list": [
     {
       "raw_hot": 2692084,
@@ -139,6 +139,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1270068,
+      "num": 1270068,
+      "word": "专家称今后不排除还需要做核酸",
+      "onboard_time": 1672320631,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1240980,
+      "num": 1240980,
+      "word": "车厘子",
+      "onboard_time": 1672317691,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1234907,
       "num": 1234907,
       "word": "女子在德国做护士1个月6天班工资破万",
@@ -161,14 +177,6 @@
       "onboard_time": 1672281928,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1215178,
-      "num": 1215178,
-      "word": "车厘子",
-      "onboard_time": 1672317691,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 1151078,
@@ -307,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 822369,
+      "num": 822369,
+      "word": "男子高铁上脱口罩测抗原结果真阳了",
+      "onboard_time": 1672317810,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807764,
       "num": 807764,
       "word": "1380元血氧仪成本仅几十块",
@@ -321,14 +337,6 @@
       "onboard_time": 1672294710,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 786833,
-      "num": 786833,
-      "word": "男子高铁上脱口罩测抗原结果真阳了",
-      "onboard_time": 1672317810,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 784719,
@@ -379,6 +387,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 727362,
+      "num": 727362,
+      "word": "曾光称北京新冠感染率或超80%",
+      "onboard_time": 1672319970,
+      "rank": 48,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 715191,
       "num": 715191,
       "word": "新冠感染新增本土死亡1例",
@@ -411,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 653286,
+      "num": 653286,
+      "word": "张艺兴公司练习生参加BoysPlanet",
+      "onboard_time": 1672321293,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 653185,
       "num": 653185,
       "word": "秦志戬",
       "onboard_time": 1672309592,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 651627,
+      "num": 651627,
+      "word": "这个秀非选不可吗",
+      "onboard_time": 1672321235,
+      "rank": 9,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 650618,
@@ -433,6 +465,14 @@
       "onboard_time": 1672277970,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 648114,
+      "num": 648114,
+      "word": "你收到哪里的晚安",
+      "onboard_time": 1672321716,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 645179,
@@ -507,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569740,
+      "num": 569740,
+      "word": "嘉行传媒律师声明",
+      "onboard_time": 1672322973,
+      "rank": 11,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 558781,
       "num": 558781,
       "word": "今年工装羽绒服为何爆火",
@@ -564,7 +612,7 @@
     },
     {
       "raw_hot": 512054,
-      "num": 443008,
+      "num": 493492,
       "word": "女子搬家后发现新房藏有豪华地堡",
       "onboard_time": 1672317151,
       "rank": 49,
@@ -579,8 +627,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 507665,
-      "num": 431644,
+      "raw_hot": 510380,
+      "num": 510380,
       "word": "文邺辰 青1",
       "onboard_time": 1672319489,
       "rank": 21,
@@ -747,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 421189,
+      "num": 328725,
+      "word": "BoysPlanet",
+      "onboard_time": 1672312054,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419269,
       "num": 270103,
       "word": "肖战玉骨遥片花播放量破亿",
@@ -803,6 +859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 399246,
+      "num": 234507,
+      "word": "BoysPlanet 王南钧",
+      "onboard_time": 1672323033,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396901,
       "num": 312823,
       "word": "易烊千玺杂志",
@@ -851,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 374525,
+      "num": 231597,
+      "word": "医生说杜海涛减肥反弹几率很高",
+      "onboard_time": 1672322914,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374126,
       "num": 374126,
       "word": "哈兰德说没能踢世界杯让他很饥饿",
@@ -867,12 +939,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 364213,
-      "num": 327060,
-      "word": "BoysPlanet",
-      "onboard_time": 1672312054,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 366466,
+      "num": 366466,
+      "word": "晚安计划",
+      "onboard_time": 1672323155,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 362423,
@@ -955,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338250,
+      "num": 338250,
+      "word": "河南女子骑20分钟电动车到安徽放烟花",
+      "onboard_time": 1672318233,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337907,
       "num": 337907,
       "word": "不良人",
@@ -963,12 +1043,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 335955,
+      "num": 227785,
+      "word": "年度歌手",
+      "onboard_time": 1672321472,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 335321,
       "num": 335321,
       "word": "2岁娃砸千元电视妈妈拒换新给教训",
       "onboard_time": 1672308333,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331405,
+      "num": 225367,
+      "word": "李承天点烟送陈佑希上路",
+      "onboard_time": 1672318170,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 331054,
@@ -1059,18 +1155,18 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312145,
+      "num": 312145,
+      "word": "第一次晕猫了",
+      "onboard_time": 1672321293,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 310039,
       "num": 167831,
       "word": "柯佳嬿说电影想见你原本有3个小时",
       "onboard_time": 1672304491,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 307103,
-      "num": 197872,
-      "word": "李承天点烟送陈佑希上路",
-      "onboard_time": 1672318170,
       "rank": 31,
       "category": "影视"
     },
@@ -1259,14 +1355,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 262861,
-      "num": 262861,
-      "word": "河南女子骑20分钟电动车到安徽放烟花",
-      "onboard_time": 1672318233,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260919,
       "num": 260919,
       "word": "男子网购两车瓜子给全家人囤年货",
@@ -1289,6 +1377,14 @@
       "onboard_time": 1672289789,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259936,
+      "num": 259936,
+      "word": "同层4户邻居在楼道聚餐",
+      "onboard_time": 1672318770,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259435,
@@ -1473,14 +1569,6 @@
       "onboard_time": 1672315710,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228223,
-      "num": 228223,
-      "word": "同层4户邻居在楼道聚餐",
-      "onboard_time": 1672318770,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225611,
@@ -1955,14 +2043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169760,
-      "num": 169760,
-      "word": "曾光称北京新冠感染率或超80%",
-      "onboard_time": 1672319970,
-      "rank": 48,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 168519,
       "num": 168519,
       "word": "如何鉴别病毒性心肌炎",
@@ -2387,6 +2467,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 130358,
+      "num": 130358,
+      "word": "血氧指标低于90就是肺感染重症体现",
+      "onboard_time": 1672322792,
+      "rank": 46,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 128613,
       "num": 128613,
       "word": "过年必须有的一件东西",
@@ -2420,7 +2508,7 @@
     },
     {
       "raw_hot": 126620,
-      "num": 1231376,
+      "num": 1254452,
       "word": "居家消毒5个注意事项",
       "onboard_time": 1672314153,
       "rank": 2,
@@ -2491,6 +2579,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 116951,
+      "num": 116951,
+      "word": "俩女主播为抢榜一大哥互怼闹上法庭",
+      "onboard_time": 1672322973,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116567,
       "num": 124325,
       "word": "国乒新一届教练组确定",
@@ -2553,6 +2649,14 @@
       "onboard_time": 1672229673,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112011,
+      "num": 112011,
+      "word": "第一视角当人类幼崽",
+      "onboard_time": 1672320571,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 111779,
