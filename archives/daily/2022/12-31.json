@@ -1,6 +1,6 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672428783238,
+  "endTime": 1672431493562,
   "band_list": [
     {
       "raw_hot": 1653289,
@@ -475,6 +475,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 72714,
+      "num": 44853,
+      "word": "老人坐整夜将大床让给陪护儿子休息",
+      "onboard_time": 1672425072,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50048,
       "num": 37609,
       "word": "张彬彬说自己新冠已经痊愈",
@@ -491,12 +499,20 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 37045,
-      "num": 37045,
-      "word": "老人坐整夜将大床让给陪护儿子休息",
-      "onboard_time": 1672425072,
-      "rank": 49,
+      "raw_hot": 46562,
+      "num": 44118,
+      "word": "多个平台鱼跃血氧仪涨价数倍",
+      "onboard_time": 1672429992,
+      "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25785,
+      "num": 25785,
+      "word": "白鹿说张彬彬头真的挺大",
+      "onboard_time": 1672425914,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 21226,
@@ -505,14 +521,6 @@
       "onboard_time": 1672428492,
       "rank": 42,
       "category": "游戏,情感"
-    },
-    {
-      "raw_hot": 20026,
-      "num": 21174,
-      "word": "白鹿说张彬彬头真的挺大",
-      "onboard_time": 1672425914,
-      "rank": 44,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
