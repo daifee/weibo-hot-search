@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672427633865,
+  "endTime": 1672428783238,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -71027,6 +71027,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 37045,
+      "num": 37045,
+      "word": "老人坐整夜将大床让给陪护儿子休息",
+      "onboard_time": 1672425072,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36803,
       "num": 41521,
       "word": "令人迷惑的广州地名",
@@ -71355,12 +71363,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21226,
+      "num": 21226,
+      "word": "一条回顾告别2022",
+      "onboard_time": 1672428492,
+      "rank": 42,
+      "category": "游戏,情感"
+    },
+    {
       "raw_hot": 20675,
       "num": 44299,
       "word": "中阿友好相信还会好上加好",
       "onboard_time": 1670613192,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 20026,
+      "num": 21174,
+      "word": "白鹿说张彬彬头真的挺大",
+      "onboard_time": 1672425914,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 20014,
@@ -71457,14 +71481,6 @@
       "onboard_time": 1671563233,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16532,
-      "num": 23713,
-      "word": "老人坐整夜将大床让给陪护儿子休息",
-      "onboard_time": 1672425072,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16100,
