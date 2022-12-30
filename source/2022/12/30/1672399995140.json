@@ -1,0 +1,410 @@
+{
+  "runTime": 1672399995140,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1487895,
+        "num": 1487895,
+        "word": "刘鑫需赔偿江母69万余元",
+        "onboard_time": 1672382733,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1146272,
+        "num": 1146272,
+        "word": "女子家中停水5天300个电话打崩溃",
+        "onboard_time": 1672393950,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12342,
+        "num": 826671,
+        "word": "2022那些温暖到泪目的瞬间",
+        "onboard_time": 1672364189,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 826253,
+        "num": 826253,
+        "word": "刘亦菲首部现代剧来了",
+        "onboard_time": 1672386873,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 776927,
+        "num": 776927,
+        "word": "专家回应房价上涨能促进共同富裕",
+        "onboard_time": 1672396768,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 619615,
+        "num": 619615,
+        "word": "泰国夜市才是泰国的灵魂所在",
+        "onboard_time": 1672397012,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 618185,
+        "num": 618185,
+        "word": "女生阳后鼻塞擤鼻涕结果眼角冒泡",
+        "onboard_time": 1672390109,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557901,
+        "num": 557901,
+        "word": "张文宏预测春节感染率可能达到80%",
+        "onboard_time": 1672392447,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442638,
+        "num": 442638,
+        "word": "爸爸将宝宝塞衣服里带去医院",
+        "onboard_time": 1672395209,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433412,
+        "num": 433412,
+        "word": "偷吃米线被辣到嘴肿的猫咪",
+        "onboard_time": 1672394910,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 431502,
+        "num": 431502,
+        "word": "张文宏称易感人群新春是个坎儿",
+        "onboard_time": 1672387411,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416034,
+        "num": 416034,
+        "word": "苹果推出AirPodsPro兔年特别款",
+        "onboard_time": 1672393707,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 396019,
+        "num": 396019,
+        "word": "中国有可能实现人类经济史上的奇迹",
+        "onboard_time": 1672388970,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 362259,
+        "num": 362259,
+        "word": "王栎鑫说王鹤棣一点坏心眼都没有",
+        "onboard_time": 1672398809,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 361456,
+        "num": 361456,
+        "word": "老人临终前4小时给感冒女儿针灸",
+        "onboard_time": 1672376731,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358046,
+        "num": 358046,
+        "word": "刘宇宁坐轮椅现身医院",
+        "onboard_time": 1672394131,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353025,
+        "num": 353025,
+        "word": "难听",
+        "onboard_time": 1672380572,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280270,
+        "num": 280270,
+        "word": "贝利去世时净资产约1亿美元",
+        "onboard_time": 1672383271,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268102,
+        "num": 268102,
+        "word": "探访发现部分乡村老人不知新冠",
+        "onboard_time": 1672393829,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254138,
+        "num": 254138,
+        "word": "上海重症高峰已慢慢出现",
+        "onboard_time": 1672383208,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249377,
+        "num": 249377,
+        "word": "二审认定刘鑫案发时锁闭房门",
+        "onboard_time": 1672378712,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248432,
+        "num": 248432,
+        "word": "久诚",
+        "onboard_time": 1672392990,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245589,
+        "num": 245589,
+        "word": "庆余年第二季登顶待播剧期待榜",
+        "onboard_time": 1672390710,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245359,
+        "num": 245359,
+        "word": "杨紫湖南卫视跨年新年祝福VCR",
+        "onboard_time": 1672393829,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224612,
+        "num": 224612,
+        "word": "男子感染新冠后疲劳工作诱发心肌炎",
+        "onboard_time": 1672389150,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216213,
+        "num": 216213,
+        "word": "上海重庆等地正处于疫情高位流行",
+        "onboard_time": 1672397371,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207661,
+        "num": 207661,
+        "word": "张文宏解读为何觉得白肺变多了",
+        "onboard_time": 1672384831,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203881,
+        "num": 203881,
+        "word": "久诚怎么了",
+        "onboard_time": 1672399170,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203388,
+        "num": 203388,
+        "word": "YG新女团将1月1日出道",
+        "onboard_time": 1672381590,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197257,
+        "num": 197257,
+        "word": "2023东方卫视跨年蓄力时刻",
+        "onboard_time": 1672394250,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1082791,
+        "num": 197163,
+        "word": "秦刚任外交部部长",
+        "onboard_time": 1672399951,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 195291,
+        "num": 195291,
+        "word": "江秋莲去江歌墓前读判决书",
+        "onboard_time": 1672380750,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188210,
+        "num": 188210,
+        "word": "肖战抖落雪花视频",
+        "onboard_time": 1672392032,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186848,
+        "num": 186848,
+        "word": "小猫咪的睫毛也太美了",
+        "onboard_time": 1672394789,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183640,
+        "num": 183640,
+        "word": "世冠",
+        "onboard_time": 1672398391,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176195,
+        "num": 176195,
+        "word": "解放军在南海上空拦截美军侦察机",
+        "onboard_time": 1672390348,
+        "rank": 35,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 174965,
+        "num": 174965,
+        "word": "刘鑫",
+        "onboard_time": 1672374570,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173863,
+        "num": 173863,
+        "word": "球王曾很讨厌贝利这个绰号",
+        "onboard_time": 1672385911,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172598,
+        "num": 172598,
+        "word": "范丞丞拿错杨迪充电线",
+        "onboard_time": 1672391308,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168452,
+        "num": 168452,
+        "word": "比绿指甲还恐怖的是李承天抽烟",
+        "onboard_time": 1672385493,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166206,
+        "num": 166206,
+        "word": "连自己的床都不放过",
+        "onboard_time": 1672394069,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 162731,
+        "num": 162731,
+        "word": "铠三形态荣耀典藏皮肤",
+        "onboard_time": 1672399711,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162643,
+        "num": 162643,
+        "word": "王俊凯2023遇兔呈祥",
+        "onboard_time": 1672396889,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159750,
+        "num": 159750,
+        "word": "GALI巡演",
+        "onboard_time": 1672398928,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153000,
+        "num": 153000,
+        "word": "江秋莲回应诉刘鑫案二审判决",
+        "onboard_time": 1672398091,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152132,
+        "num": 152132,
+        "word": "男孩报警求助称父亲住院无人照顾自己",
+        "onboard_time": 1672398871,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150824,
+        "num": 150824,
+        "word": "注意老年人出现厌食嗜睡等症状",
+        "onboard_time": 1672396950,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140250,
+        "num": 140250,
+        "word": "曾黎有点搞笑天赋在身上",
+        "onboard_time": 1672397729,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130461,
+        "num": 130461,
+        "word": "顾南亭程霄和小朋友合影",
+        "onboard_time": 1672399891,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129943,
+        "num": 129943,
+        "word": "女子发烧3天左耳道现血块听力暂失",
+        "onboard_time": 1672390710,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图看懂感染者康复期注意事项#"
+    }
+  }
+}

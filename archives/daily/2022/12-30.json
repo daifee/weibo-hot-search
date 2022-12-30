@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672398868942,
+  "endTime": 1672399995140,
   "band_list": [
     {
       "raw_hot": 2526052,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1082791,
+      "num": 197163,
+      "word": "秦刚任外交部部长",
+      "onboard_time": 1672399951,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1082683,
       "num": 1082683,
       "word": "怎么判断自己肺部感染",
@@ -273,6 +281,14 @@
       "onboard_time": 1672363292,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 776927,
+      "num": 776927,
+      "word": "专家回应房价上涨能促进共同富裕",
+      "onboard_time": 1672396768,
+      "rank": 7,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 747555,
@@ -419,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619615,
+      "num": 619615,
+      "word": "泰国夜市才是泰国的灵魂所在",
+      "onboard_time": 1672397012,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 608639,
       "num": 608639,
       "word": "王一博新歌反差感",
@@ -497,14 +521,6 @@
       "onboard_time": 1672358005,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 530147,
-      "num": 530147,
-      "word": "专家回应房价上涨能促进共同富裕",
-      "onboard_time": 1672396768,
-      "rank": 7,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 526785,
@@ -603,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 454245,
-      "num": 454245,
-      "word": "泰国夜市才是泰国的灵魂所在",
-      "onboard_time": 1672397012,
-      "rank": 9,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 452755,
       "num": 452755,
       "word": "高校不再开展全员核酸筛查",
@@ -651,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442638,
+      "num": 442638,
+      "word": "爸爸将宝宝塞衣服里带去医院",
+      "onboard_time": 1672395209,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442079,
       "num": 442079,
       "word": "比绿指甲还恐怖的是李承天抽烟",
@@ -659,19 +675,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433412,
+      "num": 433412,
+      "word": "偷吃米线被辣到嘴肿的猫咪",
+      "onboard_time": 1672394910,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 420547,
       "num": 420547,
       "word": "专家称新冠患者99%可排除心肌炎",
       "onboard_time": 1672369167,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 420253,
-      "num": 420253,
-      "word": "爸爸将宝宝塞衣服里带去医院",
-      "onboard_time": 1672395209,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -705,14 +721,6 @@
       "onboard_time": 1672392990,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 399424,
-      "num": 399424,
-      "word": "偷吃米线被辣到嘴肿的猫咪",
-      "onboard_time": 1672394910,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 398447,
@@ -801,6 +809,14 @@
       "onboard_time": 1672377571,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362259,
+      "num": 362259,
+      "word": "王栎鑫说王鹤棣一点坏心眼都没有",
+      "onboard_time": 1672398809,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 361716,
@@ -1251,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216213,
+      "num": 216213,
+      "word": "上海重庆等地正处于疫情高位流行",
+      "onboard_time": 1672397371,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215768,
       "num": 183585,
       "word": "去有风的地方",
@@ -1299,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203881,
+      "num": 203881,
+      "word": "久诚怎么了",
+      "onboard_time": 1672399170,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202831,
       "num": 202831,
       "word": "INTO1江苏卫视跨年彩排剧透",
@@ -1329,14 +1361,6 @@
       "onboard_time": 1672366888,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 200052,
-      "num": 200052,
-      "word": "王栎鑫说王鹤棣一点坏心眼都没有",
-      "onboard_time": 1672398809,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 199309,
@@ -1457,6 +1481,14 @@
       "onboard_time": 1672373730,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188210,
+      "num": 188210,
+      "word": "肖战抖落雪花视频",
+      "onboard_time": 1672392032,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 188204,
@@ -1739,14 +1771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165046,
-      "num": 165046,
-      "word": "上海重庆等地正处于疫情高位流行",
-      "onboard_time": 1672397371,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164206,
       "num": 98931,
       "word": "日本媒体报道2022年中国网络流行语",
@@ -1761,6 +1785,14 @@
       "onboard_time": 1672388191,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162731,
+      "num": 162731,
+      "word": "铠三形态荣耀典藏皮肤",
+      "onboard_time": 1672399711,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 162337,
@@ -1803,6 +1835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159750,
+      "num": 159750,
+      "word": "GALI巡演",
+      "onboard_time": 1672398928,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 158932,
       "num": 158932,
       "word": "咳嗽咳痰用什么药",
@@ -1833,14 +1873,6 @@
       "onboard_time": 1672396590,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158326,
-      "num": 158326,
-      "word": "肖战抖落雪花视频",
-      "onboard_time": 1672392032,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 157244,
@@ -1889,6 +1921,14 @@
       "onboard_time": 1672363948,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152132,
+      "num": 152132,
+      "word": "男孩报警求助称父亲住院无人照顾自己",
+      "onboard_time": 1672398871,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151108,
@@ -2025,6 +2065,14 @@
       "onboard_time": 1672327709,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130461,
+      "num": 130461,
+      "word": "顾南亭程霄和小朋友合影",
+      "onboard_time": 1672399891,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 124608,
