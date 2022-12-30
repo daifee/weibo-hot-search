@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672370384793,
+  "endTime": 1672371234548,
   "band_list": [
     {
       "raw_hot": 2526052,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1121178,
-      "num": 1121178,
+      "raw_hot": 1223093,
+      "num": 1223093,
       "word": "男子越狱29年被抓时在学校当保安",
       "onboard_time": 1672366528,
       "rank": 11,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1073678,
-      "num": 469467,
+      "num": 896111,
       "word": "iKON离开YG娱乐",
       "onboard_time": 1672367609,
       "rank": 12,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 593790,
+      "num": 593790,
+      "word": "咳嗽其实是人体的一种保护机制",
+      "onboard_time": 1672367004,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593018,
       "num": 593018,
       "word": "官方辟谣上海浦东某小区有人焚烧遗体",
@@ -192,14 +200,6 @@
       "word": "女子阳后9天洗头掉发如毛线团",
       "onboard_time": 1672314270,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 543586,
-      "num": 543586,
-      "word": "咳嗽其实是人体的一种保护机制",
-      "onboard_time": 1672367004,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 474084,
+      "num": 474084,
+      "word": "韩国将要求中国旅客接受两次核酸检测",
+      "onboard_time": 1672370308,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473644,
       "num": 473644,
       "word": "2022年有两个腊八",
@@ -249,6 +257,14 @@
       "onboard_time": 1672367308,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 420547,
+      "num": 420547,
+      "word": "专家称新冠患者99%可排除心肌炎",
+      "onboard_time": 1672369167,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407541,
@@ -299,12 +315,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355085,
+      "num": 355085,
+      "word": "马拉多纳 天堂里一起踢球",
+      "onboard_time": 1672367910,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353440,
       "num": 353440,
       "word": "江苏卫视跨年全阵容",
       "onboard_time": 1672364667,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345047,
+      "num": 345047,
+      "word": "邓超中国乒乓新年新海报",
+      "onboard_time": 1672370249,
+      "rank": 36,
+      "category": "影视,体育"
     },
     {
       "raw_hot": 344058,
@@ -321,22 +353,6 @@
       "onboard_time": 1672322792,
       "rank": 13,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 340430,
-      "num": 340430,
-      "word": "专家称新冠患者99%可排除心肌炎",
-      "onboard_time": 1672369167,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334983,
-      "num": 334983,
-      "word": "马拉多纳 天堂里一起踢球",
-      "onboard_time": 1672367910,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 332452,
@@ -587,14 +603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185963,
-      "num": 185963,
-      "word": "邓超中国乒乓新年新海报",
-      "onboard_time": 1672370249,
-      "rank": 36,
-      "category": "影视,体育"
-    },
-    {
       "raw_hot": 185260,
       "num": 185260,
       "word": "我可能遇到了救星",
@@ -619,8 +627,8 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 180192,
-      "num": 180192,
+      "raw_hot": 182245,
+      "num": 182245,
       "word": "卢伟冰晋升小米集团总裁",
       "onboard_time": 1672368388,
       "rank": 46,
@@ -633,6 +641,14 @@
       "onboard_time": 1672367549,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179371,
+      "num": 179371,
+      "word": "李承天连老婆孩子都不放过",
+      "onboard_time": 1672366587,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 177984,
@@ -659,12 +675,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 175202,
-      "num": 175202,
-      "word": "韩国将要求中国旅客接受两次核酸检测",
-      "onboard_time": 1672370308,
+      "raw_hot": 173785,
+      "num": 173785,
+      "word": "高校不再开展全员核酸筛查",
+      "onboard_time": 1672371090,
       "rank": 38,
-      "category": "社会新闻"
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 173417,
@@ -755,20 +771,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158204,
-      "num": 158204,
-      "word": "李承天连老婆孩子都不放过",
-      "onboard_time": 1672366587,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 156932,
       "num": 150668,
       "word": "2023总台春晚首支歌曲公布",
       "onboard_time": 1672311634,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154485,
+      "num": 154485,
+      "word": "很久没在现偶里看到这么清新的表白了",
+      "onboard_time": 1672370789,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 154195,
@@ -851,12 +867,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135666,
+      "num": 135666,
+      "word": "咳嗽咳痰用什么药",
+      "onboard_time": 1672370547,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134109,
       "num": 81939,
       "word": "李承天点烟送陈佑希上路",
       "onboard_time": 1672318170,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132894,
+      "num": 132894,
+      "word": "转阴后为什么还是很累",
+      "onboard_time": 1672370908,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131740,
@@ -867,12 +899,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123757,
+      "num": 123757,
+      "word": "哪个瞬间爱上了读书",
+      "onboard_time": 1672370789,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123076,
       "num": 123076,
       "word": "过了腊八就是年",
       "onboard_time": 1672355117,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122116,
+      "num": 122116,
+      "word": "陈佑希被李文卓锁喉",
+      "onboard_time": 1672370730,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 122014,
@@ -889,6 +937,14 @@
       "onboard_time": 1672315889,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119202,
+      "num": 119202,
+      "word": "在四川跨年有多幸福",
+      "onboard_time": 1672371150,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 118803,
