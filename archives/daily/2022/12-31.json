@@ -1,6 +1,6 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672417433979,
+  "endTime": 1672418459766,
   "band_list": [
     {
       "raw_hot": 1653289,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 643559,
-      "num": 319173,
+      "num": 568594,
       "word": "何猷君 立牌",
       "onboard_time": 1672413927,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 557210,
-      "num": 318622,
+      "num": 321268,
       "word": "华晨宇说杨幂左立送的蛋糕太丑了",
       "onboard_time": 1672405471,
       "rank": 11,
@@ -51,8 +51,24 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 470000,
+      "num": 470000,
+      "word": "说一句你不敢发在朋友圈的话",
+      "onboard_time": 1672415308,
+      "rank": 9,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 459956,
+      "num": 459956,
+      "word": "虞书欣王鹤棣危险派对登年度综艺视频TOP2",
+      "onboard_time": 1672416685,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 443973,
-      "num": 314998,
+      "num": 320604,
       "word": "禾野",
       "onboard_time": 1672404208,
       "rank": 12,
@@ -84,27 +100,11 @@
     },
     {
       "raw_hot": 368615,
-      "num": 311454,
+      "num": 323615,
       "word": "小朋友在床单上画了条鲨鱼",
       "onboard_time": 1672414409,
       "rank": 13,
       "category": "幽默,幽默"
-    },
-    {
-      "raw_hot": 350451,
-      "num": 350451,
-      "word": "虞书欣王鹤棣危险派对登年度综艺视频TOP2",
-      "onboard_time": 1672416685,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 321442,
-      "num": 321442,
-      "word": "说一句你不敢发在朋友圈的话",
-      "onboard_time": 1672415308,
-      "rank": 9,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 310967,
@@ -155,20 +155,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231019,
+      "num": 231019,
+      "word": "趴着睡能促进新冠感染恢复",
+      "onboard_time": 1672414769,
+      "rank": 21,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 227567,
       "num": 227567,
       "word": "四川已知最长寿老人去世",
       "onboard_time": 1672403611,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217004,
-      "num": 217004,
-      "word": "趴着睡能促进新冠感染恢复",
-      "onboard_time": 1672414769,
-      "rank": 21,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 215684,
@@ -187,20 +187,28 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 199268,
-      "num": 199268,
+      "raw_hot": 199741,
+      "num": 199741,
       "word": "张文宏预测春节感染率可能达到80%",
       "onboard_time": 1672392447,
       "rank": 24,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185324,
-      "num": 185324,
+      "raw_hot": 199669,
+      "num": 199669,
       "word": "原来恋爱中的细节就是偏爱",
       "onboard_time": 1672415248,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184353,
+      "num": 184353,
+      "word": "周深听见下雨的声音舞台",
+      "onboard_time": 1672417462,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 175381,
@@ -217,6 +225,14 @@
       "onboard_time": 1672413150,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173855,
+      "num": 173855,
+      "word": "什么情况才会判断为新冠死亡",
+      "onboard_time": 1672415786,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170227,
@@ -257,14 +273,6 @@
       "onboard_time": 1672412133,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147094,
-      "num": 147094,
-      "word": "什么情况才会判断为新冠死亡",
-      "onboard_time": 1672415786,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144971,
@@ -323,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132385,
+      "num": 132385,
+      "word": "白鹿说自己是归零吉祥物",
+      "onboard_time": 1672418064,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 125925,
       "num": 125925,
       "word": "男子医院抽血医生边看说明边操作",
@@ -363,6 +379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102207,
+      "num": 102207,
+      "word": "6岁男孩被骂后点燃厨房秸秆",
+      "onboard_time": 1672417345,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93304,
       "num": 93304,
       "word": "流浪的猫咪只能在垃圾堆过冬了",
@@ -392,14 +416,6 @@
       "word": "当你阳了你的白细胞有多努力",
       "onboard_time": 1672411532,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73574,
-      "num": 91502,
-      "word": "6岁男孩被骂后点燃厨房秸秆",
-      "onboard_time": 1672417345,
-      "rank": 49,
       "category": "社会新闻"
     }
   ],
