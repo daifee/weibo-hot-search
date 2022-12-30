@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672382235485,
+  "endTime": 1672384555610,
   "band_list": [
     {
       "raw_hot": 2526052,
@@ -16,6 +16,14 @@
       "word": "韩国将要求中国旅客接受两次核酸检测",
       "onboard_time": 1672370308,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2144464,
+      "num": 2144464,
+      "word": "江秋莲去江歌墓前读判决书",
+      "onboard_time": 1672380750,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -51,14 +59,6 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 1749386,
-      "num": 1749386,
-      "word": "江秋莲去江歌墓前读判决书",
-      "onboard_time": 1672380750,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1708237,
       "num": 1636098,
       "word": "二审认定刘鑫案发时锁闭房门",
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1610954,
+      "num": 1350225,
+      "word": "难听",
+      "onboard_time": 1672380572,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1565236,
       "num": 1565236,
       "word": "江母诉刘鑫案二审宣判",
@@ -97,14 +105,6 @@
       "onboard_time": 1672328067,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1350225,
-      "num": 1350225,
-      "word": "难听",
-      "onboard_time": 1672380572,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 1245110,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 882884,
+      "num": 563436,
+      "word": "作家陈岚",
+      "onboard_time": 1672381532,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 860618,
       "num": 860618,
       "word": "巴西政府宣布举行三天哀悼",
@@ -187,7 +195,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 805831,
+      "raw_hot": 828838,
       "num": 580507,
       "word": "YG新女团将1月1日出道",
       "onboard_time": 1672381590,
@@ -217,6 +225,14 @@
       "onboard_time": 1672355477,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723347,
+      "num": 723347,
+      "word": "刘亦菲去有风的地方哭戏",
+      "onboard_time": 1672382610,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 713498,
@@ -275,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 631512,
+      "num": 631512,
+      "word": "男子阳后连咳10多天把肋骨咳断",
+      "onboard_time": 1672379549,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630560,
       "num": 630560,
       "word": "一外籍男教师被指曾性侵女学生",
@@ -304,14 +328,6 @@
       "word": "江歌案当事人5个事实争议",
       "onboard_time": 1672378891,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 616008,
-      "num": 616008,
-      "word": "男子阳后连咳10多天把肋骨咳断",
-      "onboard_time": 1672379549,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -355,11 +371,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586511,
+      "num": 537003,
+      "word": "近2万快递费给重了业务员用了",
+      "onboard_time": 1672381770,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584025,
       "num": 584025,
       "word": "女子阳后9天洗头掉发如毛线团",
       "onboard_time": 1672314270,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 581888,
+      "num": 534438,
+      "word": "刘鑫需赔偿江母69万余元",
+      "onboard_time": 1672382733,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -371,8 +403,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 559560,
-      "num": 559560,
+      "raw_hot": 563669,
+      "num": 563669,
       "word": "卿卿日常",
       "onboard_time": 1672380448,
       "rank": 21,
@@ -424,6 +456,14 @@
       "word": "2022年有两个腊八",
       "onboard_time": 1672360710,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465686,
+      "num": 465686,
+      "word": "上海重症高峰已慢慢出现",
+      "onboard_time": 1672383208,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -507,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389651,
+      "num": 389651,
+      "word": "终于等到李现演的谢之遥",
+      "onboard_time": 1672383693,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380838,
       "num": 380838,
       "word": "专家称今后不排除还需要做核酸",
@@ -563,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358526,
+      "num": 358526,
+      "word": "女子在桥边留下孩子后跳河",
+      "onboard_time": 1672380750,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355085,
       "num": 355085,
       "word": "马拉多纳 天堂里一起踢球",
@@ -601,6 +657,14 @@
       "onboard_time": 1672378290,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349293,
+      "num": 349293,
+      "word": "贝利去世时净资产约1亿美元",
+      "onboard_time": 1672383271,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 345047,
@@ -691,11 +755,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 301895,
-      "num": 301895,
-      "word": "女子在桥边留下孩子后跳河",
-      "onboard_time": 1672380750,
-      "rank": 36,
+      "raw_hot": 296903,
+      "num": 296903,
+      "word": "女子将家中垃圾均匀倒进电梯",
+      "onboard_time": 1672381837,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -729,6 +793,14 @@
       "onboard_time": 1672373491,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 277688,
+      "num": 277688,
+      "word": "肖战西装背头造型",
+      "onboard_time": 1672383810,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 276469,
@@ -819,20 +891,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 234176,
+      "num": 231554,
+      "word": "鹿晗绿毛衣造型五宫格",
+      "onboard_time": 1672383331,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 230063,
+      "num": 230063,
+      "word": "曾舜晞云之羽路透氛围感",
+      "onboard_time": 1672383331,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228521,
       "num": 189079,
       "word": "嘉行传媒律师声明",
       "onboard_time": 1672322973,
       "rank": 20,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 228250,
-      "num": 228250,
-      "word": "作家陈岚",
-      "onboard_time": 1672381532,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226599,
@@ -843,12 +923,28 @@
       "category": "影视,体育"
     },
     {
+      "raw_hot": 222907,
+      "num": 222907,
+      "word": "陈楚生苏醒打台球有点综艺效果在",
+      "onboard_time": 1672384529,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221157,
       "num": 221157,
       "word": "C罗悼念贝利",
       "onboard_time": 1672358426,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215768,
+      "num": 183585,
+      "word": "去有风的地方",
+      "onboard_time": 1672383572,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 214351,
@@ -987,6 +1083,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186823,
+      "num": 186823,
+      "word": "第一次越狱有点生疏的小狗",
+      "onboard_time": 1672383511,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186373,
       "num": 186373,
       "word": "玫瑰骑士今晚开播",
@@ -1033,6 +1137,14 @@
       "onboard_time": 1672368388,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 179745,
+      "num": 179745,
+      "word": "腊八怎么过",
+      "onboard_time": 1672383749,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 179557,
@@ -1115,12 +1227,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168509,
-      "num": 168509,
-      "word": "近2万快递费给重了业务员用了",
-      "onboard_time": 1672381770,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 168333,
+      "num": 168333,
+      "word": "eStar打call阵容有多豪华",
+      "onboard_time": 1672381649,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 165658,
@@ -1195,20 +1307,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157244,
+      "num": 157244,
+      "word": "给狗狗穿得很严实的主人",
+      "onboard_time": 1672379971,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156932,
       "num": 150668,
       "word": "2023总台春晚首支歌曲公布",
       "onboard_time": 1672311634,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156858,
-      "num": 156858,
-      "word": "给狗狗穿得很严实的主人",
-      "onboard_time": 1672379971,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 156432,
@@ -1249,14 +1361,6 @@
       "onboard_time": 1672360470,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148902,
-      "num": 148902,
-      "word": "eStar打call阵容有多豪华",
-      "onboard_time": 1672381649,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 147311,
@@ -1323,14 +1427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137341,
-      "num": 137341,
-      "word": "女子将家中垃圾均匀倒进电梯",
-      "onboard_time": 1672381837,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135741,
       "num": 135741,
       "word": "王者开航新版本1月3日上线",
@@ -1339,12 +1435,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134842,
+      "num": 134842,
+      "word": "百名烂尾楼业主合力推倒小区围墙",
+      "onboard_time": 1672384052,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134109,
       "num": 81939,
       "word": "李承天点烟送陈佑希上路",
       "onboard_time": 1672318170,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132149,
+      "num": 132149,
+      "word": "年轻人结婚最看重什么",
+      "onboard_time": 1672384173,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 131740,
