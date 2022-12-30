@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672407197308,
+  "endTime": 1672409739349,
   "band_list": [
     {
       "raw_hot": 3635696,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1842191,
-      "num": 456624,
+      "num": 610674,
       "word": "华晨宇说杨幂左立送的蛋糕太丑了",
       "onboard_time": 1672405471,
       "rank": 10,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1173861,
+      "num": 1173861,
+      "word": "禾野",
+      "onboard_time": 1672404208,
+      "rank": 4,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 1162660,
       "num": 1162660,
       "word": "张文宏解读为何觉得白肺变多了",
@@ -201,14 +209,6 @@
       "onboard_time": 1672405649,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1127921,
-      "num": 1127921,
-      "word": "禾野",
-      "onboard_time": 1672404208,
-      "rank": 4,
-      "category": "动漫,网红"
     },
     {
       "raw_hot": 1082683,
@@ -315,12 +315,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 869001,
+      "num": 869001,
+      "word": "车厘子4年间价格腰斩",
+      "onboard_time": 1672408352,
+      "rank": 5,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 860618,
       "num": 860618,
       "word": "巴西政府宣布举行三天哀悼",
       "onboard_time": 1672359268,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 859252,
+      "num": 859252,
+      "word": "上海一出租房月租380马桶在厨房里",
+      "onboard_time": 1672407210,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 839879,
@@ -587,12 +603,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 555661,
+      "num": 555661,
+      "word": "金泰妍中文新歌",
+      "onboard_time": 1672409073,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 540847,
       "num": 540847,
       "word": "梅西悼念贝利",
       "onboard_time": 1672358005,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 533782,
+      "num": 533782,
+      "word": "王一博东方卫视跨年彩排照",
+      "onboard_time": 1672407691,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 526785,
@@ -739,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445524,
+      "num": 445524,
+      "word": "旗舰店买iPhone取消订单不给退款",
+      "onboard_time": 1672404149,
+      "rank": 49,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 445166,
       "num": 445166,
       "word": "王晓萍任人社部部长",
@@ -843,6 +883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 403517,
+      "num": 317295,
+      "word": "刘宪华一人乐队唱明明就",
+      "onboard_time": 1672407091,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398798,
       "num": 398798,
       "word": "吉克隽逸穿15厘米高跟鞋2米披风唱歌",
@@ -872,6 +920,14 @@
       "word": "孙俪为邓超新电影中国乒乓打call",
       "onboard_time": 1672373070,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 388481,
+      "num": 315326,
+      "word": "王鹤棣陈钰琪体型差",
+      "onboard_time": 1672406851,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -929,6 +985,14 @@
       "onboard_time": 1672366168,
       "rank": 19,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 367641,
+      "num": 367641,
+      "word": "转阴后依然咳嗽咋回事",
+      "onboard_time": 1672405709,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363809,
@@ -1075,6 +1139,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340646,
+      "num": 340646,
+      "word": "GK对战eStar",
+      "onboard_time": 1672394971,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 338892,
+      "num": 338892,
+      "word": "潘三岁",
+      "onboard_time": 1672408770,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 334678,
       "num": 334678,
       "word": "解放军在南海上空拦截美军侦察机",
@@ -1123,20 +1203,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317384,
+      "num": 317384,
+      "word": "G郭晓萌M",
+      "onboard_time": 1672408352,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 315557,
       "num": 315557,
       "word": "王鹤棣说自己没干过什么偶像干的事",
       "onboard_time": 1672360590,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 313924,
-      "num": 313924,
-      "word": "GK对战eStar",
-      "onboard_time": 1672394971,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 313043,
@@ -1259,14 +1339,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 280714,
-      "num": 280714,
-      "word": "旗舰店买iPhone取消订单不给退款",
-      "onboard_time": 1672404149,
-      "rank": 49,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 277688,
       "num": 277688,
       "word": "肖战西装背头造型",
@@ -1315,20 +1387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267531,
+      "num": 267531,
+      "word": "infp",
+      "onboard_time": 1672408650,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 262928,
+      "num": 189938,
+      "word": "刘亦菲李现新剧打水仗",
+      "onboard_time": 1672409013,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262288,
       "num": 262288,
       "word": "吾木提 选秀",
       "onboard_time": 1672318291,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260503,
-      "num": 178967,
-      "word": "王鹤棣陈钰琪体型差",
-      "onboard_time": 1672406851,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 258250,
@@ -1353,6 +1433,14 @@
       "onboard_time": 1672403671,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255122,
+      "num": 1462145,
+      "word": "恢复期要注意什么",
+      "onboard_time": 1672404508,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254485,
@@ -1387,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248994,
+      "num": 189718,
+      "word": "井汲大翔HereIAm直拍",
+      "onboard_time": 1672408650,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247501,
       "num": 247501,
       "word": "95后男生靠教人挑选衣服走红",
@@ -1401,6 +1497,14 @@
       "onboard_time": 1672384650,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 244464,
+      "num": 160586,
+      "word": "李钟硕林允儿获演技大赏最佳情侣奖",
+      "onboard_time": 1672409610,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 242559,
@@ -1467,20 +1571,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233330,
-      "num": 233330,
-      "word": "转阴后依然咳嗽咋回事",
-      "onboard_time": 1672405709,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232911,
       "num": 232911,
       "word": "小猫咪的睫毛也太美了",
       "onboard_time": 1672394789,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232358,
+      "num": 232358,
+      "word": "流浪的猫咪只能在垃圾堆过冬了",
+      "onboard_time": 1672406131,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 231432,
+      "num": 160534,
+      "word": "久违了王源",
+      "onboard_time": 1672409431,
+      "rank": 41,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 230063,
@@ -1531,20 +1643,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221409,
-      "num": 1462145,
-      "word": "恢复期要注意什么",
-      "onboard_time": 1672404508,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221157,
       "num": 221157,
       "word": "C罗悼念贝利",
       "onboard_time": 1672358426,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218698,
+      "num": 218698,
+      "word": "无所谓GK超级兵会出手",
+      "onboard_time": 1672409133,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 216213,
@@ -1568,14 +1680,6 @@
       "word": "陈楚生在东北玩冰有多快乐",
       "onboard_time": 1672363709,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 214191,
-      "num": 173932,
-      "word": "刘宪华一人乐队唱明明就",
-      "onboard_time": 1672407091,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1787,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188938,
+      "num": 188938,
+      "word": "百兽 马超",
+      "onboard_time": 1672408892,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188733,
       "num": 188733,
       "word": "竟然被弟弟油腻到了",
@@ -1891,6 +2003,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 183244,
+      "num": 183244,
+      "word": "小昭同学ha",
+      "onboard_time": 1672409431,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182245,
       "num": 182245,
       "word": "卢伟冰晋升小米集团总裁",
@@ -1977,6 +2097,14 @@
       "onboard_time": 1672395989,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173457,
+      "num": 173457,
+      "word": "这个假期你有出行计划吗",
+      "onboard_time": 1672409073,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 173417,
@@ -2227,14 +2355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155546,
-      "num": 155546,
-      "word": "流浪的猫咪只能在垃圾堆过冬了",
-      "onboard_time": 1672406131,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154732,
       "num": 154732,
       "word": "注意老年人出现厌食嗜睡等症状",
@@ -2255,6 +2375,14 @@
       "num": 154195,
       "word": "贝利葬礼安排公布",
       "onboard_time": 1672363948,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153454,
+      "num": 153454,
+      "word": "北京男篮vs广东男篮",
+      "onboard_time": 1672407330,
       "rank": 45,
       "category": "体育"
     },
@@ -2395,20 +2523,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136781,
+      "num": 136781,
+      "word": "家属回应老人临终前给女儿针灸",
+      "onboard_time": 1672406492,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135741,
       "num": 135741,
       "word": "王者开航新版本1月3日上线",
       "onboard_time": 1672368568,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 134601,
-      "num": 134886,
-      "word": "家属回应老人临终前给女儿针灸",
-      "onboard_time": 1672406492,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134109,

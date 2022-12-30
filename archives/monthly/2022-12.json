@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672407197308,
+  "endTime": 1672409739349,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -2644,7 +2644,7 @@
     },
     {
       "raw_hot": 1842191,
-      "num": 456624,
+      "num": 610674,
       "word": "华晨宇说杨幂左立送的蛋糕太丑了",
       "onboard_time": 1672405471,
       "rank": 10,
@@ -5947,6 +5947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1173861,
+      "num": 1173861,
+      "word": "禾野",
+      "onboard_time": 1672404208,
+      "rank": 4,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 1172957,
       "num": 1172957,
       "word": "小狗去世前站主人床边1小时不离开",
@@ -6321,14 +6329,6 @@
       "onboard_time": 1671800433,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1127921,
-      "num": 1127921,
-      "word": "禾野",
-      "onboard_time": 1672404208,
-      "rank": 4,
-      "category": "动漫,网红"
     },
     {
       "raw_hot": 1127761,
@@ -9531,6 +9531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 869001,
+      "num": 869001,
+      "word": "车厘子4年间价格腰斩",
+      "onboard_time": 1672408352,
+      "rank": 5,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 868609,
       "num": 868609,
       "word": "六公主评价赵丽颖风吹半夏",
@@ -9673,6 +9681,14 @@
       "onboard_time": 1672276949,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 859252,
+      "num": 859252,
+      "word": "上海一出租房月租380马桶在厨房里",
+      "onboard_time": 1672407210,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 859131,
@@ -17619,6 +17635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 555661,
+      "num": 555661,
+      "word": "金泰妍中文新歌",
+      "onboard_time": 1672409073,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 555400,
       "num": 555400,
       "word": "羊被冻死牧羊犬试图唤醒贴身取暖",
@@ -18529,6 +18553,14 @@
       "onboard_time": 1670204770,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 533782,
+      "num": 533782,
+      "word": "王一博东方卫视跨年彩排照",
+      "onboard_time": 1672407691,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 533672,
@@ -22523,6 +22555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445524,
+      "num": 445524,
+      "word": "旗舰店买iPhone取消订单不给退款",
+      "onboard_time": 1672404149,
+      "rank": 49,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 445515,
       "num": 445515,
       "word": "黄晓明说对待儿子很严肃",
@@ -25195,6 +25235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403517,
+      "num": 317295,
+      "word": "刘宪华一人乐队唱明明就",
+      "onboard_time": 1672407091,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403492,
       "num": 403492,
       "word": "皇马官方宣布签下恩德里克",
@@ -26257,6 +26305,14 @@
       "onboard_time": 1671621454,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388481,
+      "num": 315326,
+      "word": "王鹤棣陈钰琪体型差",
+      "onboard_time": 1672406851,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 388255,
@@ -27465,6 +27521,14 @@
       "onboard_time": 1671344609,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 367641,
+      "num": 367641,
+      "word": "转阴后依然咳嗽咋回事",
+      "onboard_time": 1672405709,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367640,
@@ -29579,6 +29643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340646,
+      "num": 340646,
+      "word": "GK对战eStar",
+      "onboard_time": 1672394971,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 340554,
       "num": 340554,
       "word": "居家治疗转阴后如何消杀",
@@ -29721,6 +29793,14 @@
       "onboard_time": 1672222889,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338892,
+      "num": 338892,
+      "word": "潘三岁",
+      "onboard_time": 1672408770,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 338871,
@@ -31859,6 +31939,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 317384,
+      "num": 317384,
+      "word": "G郭晓萌M",
+      "onboard_time": 1672408352,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 317324,
       "num": 878380,
       "word": "iPhone14Pro系列最快元旦到货",
@@ -32081,14 +32169,6 @@
       "onboard_time": 1670231533,
       "rank": 42,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 313924,
-      "num": 313924,
-      "word": "GK对战eStar",
-      "onboard_time": 1672394971,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 313506,
@@ -35451,14 +35531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280714,
-      "num": 280714,
-      "word": "旗舰店买iPhone取消订单不给退款",
-      "onboard_time": 1672404149,
-      "rank": 49,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 280702,
       "num": 280702,
       "word": "叶舒华训狗达人",
@@ -36899,6 +36971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267531,
+      "num": 267531,
+      "word": "infp",
+      "onboard_time": 1672408650,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 267516,
       "num": 215084,
       "word": "丁禹兮大理寺少卿游打戏镜头",
@@ -37467,6 +37547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262928,
+      "num": 189938,
+      "word": "刘亦菲李现新剧打水仗",
+      "onboard_time": 1672409013,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262871,
       "num": 1874384,
       "word": "阳性居家治疗时怎样保护家人",
@@ -37729,14 +37817,6 @@
       "onboard_time": 1672314212,
       "rank": 31,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 260503,
-      "num": 178967,
-      "word": "王鹤棣陈钰琪体型差",
-      "onboard_time": 1672406851,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 260431,
@@ -38264,6 +38344,14 @@
       "word": "阳了才知道辣是痛觉",
       "onboard_time": 1672146334,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255122,
+      "num": 1462145,
+      "word": "恢复期要注意什么",
+      "onboard_time": 1672404508,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -39035,6 +39123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248994,
+      "num": 189718,
+      "word": "井汲大翔HereIAm直拍",
+      "onboard_time": 1672408650,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248917,
       "num": 248917,
       "word": "厂家回应黄桃罐头中含有石头",
@@ -39609,6 +39705,14 @@
       "onboard_time": 1672283128,
       "rank": 25,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 244464,
+      "num": 160586,
+      "word": "李钟硕林允儿获演技大赏最佳情侣奖",
+      "onboard_time": 1672409610,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 244455,
@@ -41059,14 +41163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 233330,
-      "num": 233330,
-      "word": "转阴后依然咳嗽咋回事",
-      "onboard_time": 1672405709,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233243,
       "num": 233243,
       "word": "珠海一药厂门口市民排长队买药",
@@ -41179,6 +41275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232358,
+      "num": 232358,
+      "word": "流浪的猫咪只能在垃圾堆过冬了",
+      "onboard_time": 1672406131,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232307,
       "num": 232307,
       "word": "江苏省中医院公布防治新冠中药方",
@@ -41273,6 +41377,14 @@
       "onboard_time": 1671097233,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231432,
+      "num": 160534,
+      "word": "久违了王源",
+      "onboard_time": 1672409431,
+      "rank": 41,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 231213,
@@ -42763,14 +42875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221409,
-      "num": 1462145,
-      "word": "恢复期要注意什么",
-      "onboard_time": 1672404508,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221306,
       "num": 221306,
       "word": "张靓颖加盟江苏卫视跨年",
@@ -43129,6 +43233,14 @@
       "onboard_time": 1672282352,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218698,
+      "num": 218698,
+      "word": "无所谓GK超级兵会出手",
+      "onboard_time": 1672409133,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 218654,
@@ -43761,14 +43873,6 @@
       "onboard_time": 1670743635,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 214191,
-      "num": 173932,
-      "word": "刘宪华一人乐队唱明明就",
-      "onboard_time": 1672407091,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 214122,
@@ -48171,6 +48275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188938,
+      "num": 188938,
+      "word": "百兽 马超",
+      "onboard_time": 1672408892,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188910,
       "num": 188910,
       "word": "专家解释感染后为何会复阳",
@@ -49401,6 +49513,14 @@
       "onboard_time": 1671540033,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 183244,
+      "num": 183244,
+      "word": "小昭同学ha",
+      "onboard_time": 1672409431,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 183185,
@@ -51705,6 +51825,14 @@
       "onboard_time": 1672133194,
       "rank": 39,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 173457,
+      "num": 173457,
+      "word": "这个假期你有出行计划吗",
+      "onboard_time": 1672409073,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 173452,
@@ -55947,14 +56075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155546,
-      "num": 155546,
-      "word": "流浪的猫咪只能在垃圾堆过冬了",
-      "onboard_time": 1672406131,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 155525,
       "num": 155525,
       "word": "他为国放弃所有名誉隐姓埋名17年",
@@ -56345,6 +56465,14 @@
       "onboard_time": 1672037607,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153454,
+      "num": 153454,
+      "word": "北京男篮vs广东男篮",
+      "onboard_time": 1672407330,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 153424,
@@ -60435,6 +60563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136781,
+      "num": 136781,
+      "word": "家属回应老人临终前给女儿针灸",
+      "onboard_time": 1672406492,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136780,
       "num": 136780,
       "word": "瑞丽市核子基因因信息作假经营异常",
@@ -60865,14 +61001,6 @@
       "onboard_time": 1670600000,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134601,
-      "num": 134886,
-      "word": "家属回应老人临终前给女儿针灸",
-      "onboard_time": 1672406492,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134553,
