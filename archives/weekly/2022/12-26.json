@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672377382118,
+  "endTime": 1672378428578,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -736,6 +736,14 @@
       "word": "郑州一商场一天涌进十万人",
       "onboard_time": 1672035690,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1269122,
+      "num": 603763,
+      "word": "老人临终前4小时给感冒女儿针灸",
+      "onboard_time": 1672376731,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -2491,6 +2499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 608639,
+      "num": 608639,
+      "word": "王一博新歌反差感",
+      "onboard_time": 1672377812,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 606385,
       "num": 528186,
       "word": "福建一股民赚1.4亿被罚没5.7亿",
@@ -2651,6 +2667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 575922,
+      "num": 575922,
+      "word": "专家称不要把经济低迷完全归于疫情",
+      "onboard_time": 1672375172,
+      "rank": 11,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 574748,
       "num": 574748,
       "word": "中国足协回应武汉三镇声明",
@@ -2769,14 +2793,6 @@
       "onboard_time": 1672300110,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 558619,
-      "num": 558619,
-      "word": "专家称不要把经济低迷完全归于疫情",
-      "onboard_time": 1672375172,
-      "rank": 11,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 554887,
@@ -3473,6 +3489,14 @@
       "onboard_time": 1672363409,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465484,
+      "num": 465484,
+      "word": "卿卿日常见面会官宣",
+      "onboard_time": 1672377090,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 463159,
@@ -4435,14 +4459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361741,
-      "num": 361741,
-      "word": "老人临终前4小时给感冒女儿针灸",
-      "onboard_time": 1672376731,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 361562,
       "num": 203185,
       "word": "敖子逸直播",
@@ -4539,6 +4555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 354727,
+      "num": 354727,
+      "word": "张雨绮踢到小鬼手了",
+      "onboard_time": 1672377331,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354632,
       "num": 354632,
       "word": "查理苏",
@@ -4593,6 +4617,14 @@
       "onboard_time": 1672177873,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350268,
+      "num": 350268,
+      "word": "朴灿烈吴世勋将举行粉丝见面会",
+      "onboard_time": 1672378290,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 350076,
@@ -4657,6 +4689,14 @@
       "onboard_time": 1672307490,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345404,
+      "num": 345404,
+      "word": "杨超越还没有和迪丽热巴加上微信",
+      "onboard_time": 1672378051,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 345188,
@@ -4881,6 +4921,14 @@
       "onboard_time": 1672221871,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 330029,
+      "num": 330029,
+      "word": "秦霄贤被徐梦洁舞台惊艳到了",
+      "onboard_time": 1672377152,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 329375,
@@ -5176,14 +5224,6 @@
       "word": "陈小春徐冬冬新片预告全员恶人",
       "onboard_time": 1672146573,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 313402,
-      "num": 313402,
-      "word": "卿卿日常见面会官宣",
-      "onboard_time": 1672377090,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -5683,6 +5723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281497,
+      "num": 281497,
+      "word": "为什么年轻人不去4S店保养了",
+      "onboard_time": 1672377571,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281021,
       "num": 281021,
       "word": "世冠总决赛首发名单",
@@ -5923,14 +5971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265582,
-      "num": 265582,
-      "word": "张雨绮踢到小鬼手了",
-      "onboard_time": 1672377331,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265192,
       "num": 234607,
       "word": "浮图缘曾黎的人设好带感",
@@ -6065,14 +6105,6 @@
       "onboard_time": 1672221809,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 258450,
-      "num": 254472,
-      "word": "秦霄贤被徐梦洁舞台惊艳到了",
-      "onboard_time": 1672377152,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 258369,
@@ -6537,6 +6569,14 @@
       "onboard_time": 1672303829,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234326,
+      "num": 219131,
+      "word": "时代少年团新歌理想之途预告海报",
+      "onboard_time": 1672378228,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 233909,
@@ -8907,6 +8947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161807,
+      "num": 444630,
+      "word": "腊八年味有多浓",
+      "onboard_time": 1672376430,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161525,
       "num": 161525,
       "word": "医保局回应窗口办事人员效率低",
@@ -9273,14 +9321,6 @@
       "onboard_time": 1671990076,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153016,
-      "num": 444630,
-      "word": "腊八年味有多浓",
-      "onboard_time": 1672376430,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 152740,
@@ -10547,6 +10587,14 @@
       "category": "科技,情感"
     },
     {
+      "raw_hot": 119898,
+      "num": 158182,
+      "word": "狗狗演我过年回家状态",
+      "onboard_time": 1672378111,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119468,
       "num": 119468,
       "word": "Steam2022年度回顾",
@@ -10657,6 +10705,14 @@
       "onboard_time": 1672304849,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114095,
+      "num": 153755,
+      "word": "贝利 巨星陨落",
+      "onboard_time": 1672376670,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 113661,

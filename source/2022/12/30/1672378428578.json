@@ -1,0 +1,410 @@
+{
+  "runTime": 1672378428578,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1844622,
+        "num": 1844622,
+        "word": "江歌母亲江秋莲诉刘鑫案二审维持原判",
+        "onboard_time": 1672374511,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1661339,
+        "num": 1661339,
+        "word": "女子因上厕所未在工位被领导打",
+        "onboard_time": 1672372047,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67849,
+        "num": 1173641,
+        "word": "2022那些温暖到泪目的瞬间",
+        "onboard_time": 1672364189,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1067461,
+        "num": 1067461,
+        "word": "韩国将要求中国旅客接受两次核酸检测",
+        "onboard_time": 1672370308,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902979,
+        "num": 902979,
+        "word": "专家称第二波疫情风暴会很低",
+        "onboard_time": 1672328067,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872783,
+        "num": 872783,
+        "word": "刘鑫",
+        "onboard_time": 1672374570,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865122,
+        "num": 865122,
+        "word": "iPhone15Pro四色概念图出炉",
+        "onboard_time": 1672373129,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 683545,
+        "num": 683545,
+        "word": "86年女子与00年男子相恋",
+        "onboard_time": 1672373551,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608639,
+        "num": 608639,
+        "word": "王一博新歌反差感",
+        "onboard_time": 1672377812,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 604117,
+        "num": 604117,
+        "word": "BLACKPINK或将转入YG旗下厂牌",
+        "onboard_time": 1672375291,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1269122,
+        "num": 603763,
+        "word": "老人临终前4小时给感冒女儿针灸",
+        "onboard_time": 1672376731,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602101,
+        "num": 602101,
+        "word": "江母诉刘鑫案二审宣判",
+        "onboard_time": 1672373310,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575922,
+        "num": 575922,
+        "word": "专家称不要把经济低迷完全归于疫情",
+        "onboard_time": 1672375172,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 465484,
+        "num": 465484,
+        "word": "卿卿日常见面会官宣",
+        "onboard_time": 1672377090,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161807,
+        "num": 426342,
+        "word": "腊八年味有多浓",
+        "onboard_time": 1672376430,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 544442,
+        "num": 423171,
+        "word": "驳回刘鑫上诉维持原判",
+        "onboard_time": 1672374511,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419629,
+        "num": 419629,
+        "word": "专家称在一些地方可以不戴口罩了",
+        "onboard_time": 1672356922,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361176,
+        "num": 361176,
+        "word": "VivienneWestwood去世",
+        "onboard_time": 1672371509,
+        "rank": 17,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 354727,
+        "num": 354727,
+        "word": "张雨绮踢到小鬼手了",
+        "onboard_time": 1672377331,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351270,
+        "num": 351270,
+        "word": "YG还剩哪些人",
+        "onboard_time": 1672372891,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350268,
+        "num": 350268,
+        "word": "朴灿烈吴世勋将举行粉丝见面会",
+        "onboard_time": 1672378290,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345404,
+        "num": 345404,
+        "word": "杨超越还没有和迪丽热巴加上微信",
+        "onboard_time": 1672378051,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342463,
+        "num": 342463,
+        "word": "怎么判断自己肺部感染",
+        "onboard_time": 1672360470,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335727,
+        "num": 335727,
+        "word": "转阴后为什么还是很累",
+        "onboard_time": 1672370908,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330029,
+        "num": 330029,
+        "word": "秦霄贤被徐梦洁舞台惊艳到了",
+        "onboard_time": 1672377152,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309333,
+        "num": 309333,
+        "word": "球王贝利去世",
+        "onboard_time": 1672344132,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281497,
+        "num": 281497,
+        "word": "为什么年轻人不去4S店保养了",
+        "onboard_time": 1672377571,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278544,
+        "num": 278544,
+        "word": "肺部CT检查需求暴增",
+        "onboard_time": 1672363409,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247484,
+        "num": 247484,
+        "word": "高校不再开展全员核酸筛查",
+        "onboard_time": 1672371090,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 227695,
+        "num": 227695,
+        "word": "80后宝妈辞职做沙滩代写月入过万",
+        "onboard_time": 1672363292,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324923,
+        "num": 226780,
+        "word": "陈飞宇张子枫新作告别2022",
+        "onboard_time": 1672373491,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288032,
+        "num": 223664,
+        "word": "iKON离开YG娱乐",
+        "onboard_time": 1672367609,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252993,
+        "num": 221977,
+        "word": "陈晓片场撒娇被毛晓彤一把牵起来",
+        "onboard_time": 1672369048,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234326,
+        "num": 219131,
+        "word": "时代少年团新歌理想之途预告海报",
+        "onboard_time": 1672378228,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216490,
+        "num": 216490,
+        "word": "查理苏",
+        "onboard_time": 1672373851,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215284,
+        "num": 215284,
+        "word": "撒贝宁告诉你穿羽绒服进冰柜是啥体验",
+        "onboard_time": 1672375710,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204105,
+        "num": 204105,
+        "word": "世冠总决赛首发名单",
+        "onboard_time": 1672373491,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201695,
+        "num": 201695,
+        "word": "男子越狱29年被抓时在学校当保安",
+        "onboard_time": 1672366528,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198484,
+        "num": 198484,
+        "word": "江歌",
+        "onboard_time": 1672374631,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174361,
+        "num": 174361,
+        "word": "专家称新冠患者99%可排除心肌炎",
+        "onboard_time": 1672369167,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212999,
+        "num": 174149,
+        "word": "孙俪为邓超新电影中国乒乓打call",
+        "onboard_time": 1672373070,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201998,
+        "num": 173666,
+        "word": "鬼吹灯之南海归墟上线",
+        "onboard_time": 1672368808,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172994,
+        "num": 172994,
+        "word": "贝利微博讣告",
+        "onboard_time": 1672366648,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141721,
+        "num": 172459,
+        "word": "核酸采样亭被挂二手平台售卖",
+        "onboard_time": 1672358426,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131063,
+        "num": 168627,
+        "word": "女孩给礼物换电池发现内藏告白纸条",
+        "onboard_time": 1672366168,
+        "rank": 44,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 128666,
+        "num": 166886,
+        "word": "马拉多纳 天堂里一起踢球",
+        "onboard_time": 1672367910,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128200,
+        "num": 162205,
+        "word": "咳嗽其实是人体的一种保护机制",
+        "onboard_time": 1672367004,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121616,
+        "num": 161307,
+        "word": "女子放生2.5万斤外来物种鲇鱼被起诉",
+        "onboard_time": 1672355477,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119898,
+        "num": 158182,
+        "word": "狗狗演我过年回家状态",
+        "onboard_time": 1672378111,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114095,
+        "num": 153755,
+        "word": "贝利 巨星陨落",
+        "onboard_time": 1672376670,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图看懂感染者康复期注意事项#"
+    }
+  }
+}

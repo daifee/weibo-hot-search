@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672377382118,
+  "endTime": 1672378428578,
   "band_list": [
     {
       "raw_hot": 2526052,
@@ -72,6 +72,14 @@
       "word": "专家称第二波疫情风暴会很低",
       "onboard_time": 1672328067,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1269122,
+      "num": 603763,
+      "word": "老人临终前4小时给感冒女儿针灸",
+      "onboard_time": 1672376731,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -259,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 608639,
+      "num": 608639,
+      "word": "王一博新歌反差感",
+      "onboard_time": 1672377812,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 606385,
       "num": 528186,
       "word": "福建一股民赚1.4亿被罚没5.7亿",
@@ -299,8 +315,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558619,
-      "num": 558619,
+      "raw_hot": 575922,
+      "num": 575922,
       "word": "专家称不要把经济低迷完全归于疫情",
       "onboard_time": 1672375172,
       "rank": 11,
@@ -361,6 +377,14 @@
       "onboard_time": 1672363409,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465484,
+      "num": 465484,
+      "word": "卿卿日常见面会官宣",
+      "onboard_time": 1672377090,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 452755,
@@ -459,20 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361741,
-      "num": 361741,
-      "word": "老人临终前4小时给感冒女儿针灸",
-      "onboard_time": 1672376731,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355085,
       "num": 355085,
       "word": "马拉多纳 天堂里一起踢球",
       "onboard_time": 1672367910,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 354727,
+      "num": 354727,
+      "word": "张雨绮踢到小鬼手了",
+      "onboard_time": 1672377331,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 354632,
@@ -489,6 +513,22 @@
       "onboard_time": 1672364667,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350268,
+      "num": 350268,
+      "word": "朴灿烈吴世勋将举行粉丝见面会",
+      "onboard_time": 1672378290,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 345404,
+      "num": 345404,
+      "word": "杨超越还没有和迪丽热巴加上微信",
+      "onboard_time": 1672378051,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 345047,
@@ -523,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330029,
+      "num": 330029,
+      "word": "秦霄贤被徐梦洁舞台惊艳到了",
+      "onboard_time": 1672377152,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326767,
       "num": 326767,
       "word": "9位新冠二次感染者自述",
@@ -545,14 +593,6 @@
       "onboard_time": 1672360590,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 313402,
-      "num": 313402,
-      "word": "卿卿日常见面会官宣",
-      "onboard_time": 1672377090,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 310977,
@@ -595,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281497,
+      "num": 281497,
+      "word": "为什么年轻人不去4S店保养了",
+      "onboard_time": 1672377571,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281021,
       "num": 281021,
       "word": "世冠总决赛首发名单",
@@ -619,27 +667,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265582,
-      "num": 265582,
-      "word": "张雨绮踢到小鬼手了",
-      "onboard_time": 1672377331,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 262288,
       "num": 262288,
       "word": "吾木提 选秀",
       "onboard_time": 1672318291,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 258450,
-      "num": 254472,
-      "word": "秦霄贤被徐梦洁舞台惊艳到了",
-      "onboard_time": 1672377152,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -681,6 +713,14 @@
       "onboard_time": 1672319970,
       "rank": 17,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 234326,
+      "num": 219131,
+      "word": "时代少年团新歌理想之途预告海报",
+      "onboard_time": 1672378228,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 228521,
@@ -995,6 +1035,14 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 161807,
+      "num": 444630,
+      "word": "腊八年味有多浓",
+      "onboard_time": 1672376430,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160605,
       "num": 160605,
       "word": "VOGUE二月号",
@@ -1041,14 +1089,6 @@
       "onboard_time": 1672363948,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153016,
-      "num": 444630,
-      "word": "腊八年味有多浓",
-      "onboard_time": 1672376430,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 151108,
@@ -1187,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119898,
+      "num": 158182,
+      "word": "狗狗演我过年回家状态",
+      "onboard_time": 1672378111,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119202,
       "num": 119202,
       "word": "在四川跨年有多幸福",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1672318233,
       "rank": 42,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 114095,
+      "num": 153755,
+      "word": "贝利 巨星陨落",
+      "onboard_time": 1672376670,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 111915,

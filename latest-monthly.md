@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/30 13:16:22
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/30 13:33:48
 </p>
 </blockquote>
 <p>
@@ -3855,6 +3855,12 @@ A股109家新冠检测概念公司净赚854亿（热度：1290299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B8%B4%E7%BB%88%E5%89%8D4%E5%B0%8F%E6%97%B6%E7%BB%99%E6%84%9F%E5%86%92%E5%A5%B3%E5%84%BF%E9%92%88%E7%81%B8%23" target="weibo">
+老人临终前4小时给感冒女儿针灸（热度：1269122）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%92%BD%E5%8F%A3%E6%B0%B4%E5%83%8F%E5%90%9E%E5%88%80%E7%89%87%23" target="weibo">
 为什么咽口水像吞刀片（热度：1268680）
 </a>
@@ -6005,12 +6011,6 @@ Ning重回赛场（热度：973587）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E8%AF%B4%E7%9A%84%E6%98%AF%E4%B8%AD%E6%96%87%E5%95%8A%23" target="weibo">
 我说的是中文啊（热度：959521）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E5%8D%9A%E5%A3%AB%E5%B1%85%E5%AE%B6%E9%9A%94%E7%A6%BB%E6%97%B6%E9%AB%98%E7%83%A7%E6%98%8F%E5%8E%A5%E5%8E%BB%E4%B8%96%23" target="weibo">
-年轻博士居家隔离时高烧昏厥去世（热度：958697）
 </a>
 </li>
 
