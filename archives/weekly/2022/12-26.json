@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672399995140,
+  "endTime": 1672403531301,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -33,6 +33,14 @@
       "onboard_time": 1672058131,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3635696,
+      "num": 3635696,
+      "word": "秦刚任外交部部长",
+      "onboard_time": 1672399951,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 3620997,
@@ -433,6 +441,14 @@
       "onboard_time": 1672149455,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1668421,
+      "num": 1668421,
+      "word": "景向谁依",
+      "onboard_time": 1672401628,
+      "rank": 1,
+      "category": "动漫"
     },
     {
       "raw_hot": 1665231,
@@ -1067,14 +1083,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1082791,
-      "num": 197163,
-      "word": "秦刚任外交部部长",
-      "onboard_time": 1672399951,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1082683,
       "num": 1082683,
       "word": "怎么判断自己肺部感染",
@@ -1257,6 +1265,14 @@
       "onboard_time": 1672208071,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 985515,
+      "num": 985515,
+      "word": "张雪峰说考完研笔记别扔了",
+      "onboard_time": 1672399588,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 980734,
@@ -1931,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 762964,
+      "num": 762964,
+      "word": "回来的女儿大结局回血",
+      "onboard_time": 1672402531,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 762901,
       "num": 762901,
       "word": "辉瑞新冠口服药医保支付价下调",
@@ -2411,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 651259,
+      "num": 642362,
+      "word": "回来的女儿",
+      "onboard_time": 1671968071,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 650618,
       "num": 650618,
       "word": "姆巴佩回应大马丁的嘲讽",
@@ -2841,14 +2873,6 @@
       "onboard_time": 1672047453,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 577041,
-      "num": 577041,
-      "word": "回来的女儿",
-      "onboard_time": 1671968071,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 575922,
@@ -3475,6 +3499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 491687,
+      "num": 226364,
+      "word": "台湾女生来河南工作以后",
+      "onboard_time": 1672402110,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 487488,
       "num": 487488,
       "word": "坦然吕布FMVP新皮肤",
@@ -3779,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452979,
+      "num": 452979,
+      "word": "马龙直播",
+      "onboard_time": 1672400009,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 452755,
       "num": 452755,
       "word": "高校不再开展全员核酸筛查",
@@ -4035,6 +4075,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 430610,
+      "num": 430610,
+      "word": "EDG新阵容首战RNG",
+      "onboard_time": 1672401150,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 429726,
       "num": 429726,
       "word": "李子柒能重回顶流吗",
@@ -4201,6 +4249,14 @@
       "onboard_time": 1672284390,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 412767,
+      "num": 412767,
+      "word": "久诚怎么了",
+      "onboard_time": 1672399170,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 411100,
@@ -5003,6 +5059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 349300,
+      "num": 349300,
+      "word": "时代少年团的MBTI测试",
+      "onboard_time": 1672400909,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349051,
       "num": 349051,
       "word": "孙子被奶奶支配用漏勺挖面却没漏",
@@ -5443,6 +5507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325280,
+      "num": 325280,
+      "word": "财阀家的小儿子编剧有毒",
+      "onboard_time": 1672402051,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 324314,
       "num": 324314,
       "word": "梦岚 梦泪",
@@ -5721,6 +5793,14 @@
       "onboard_time": 1672288349,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 306133,
+      "num": 306133,
+      "word": "铠三形态荣耀典藏皮肤",
+      "onboard_time": 1672399711,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 306110,
@@ -6017,6 +6097,14 @@
       "onboard_time": 1672131392,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288243,
+      "num": 288243,
+      "word": "男孩报警求助称父亲住院无人照顾自己",
+      "onboard_time": 1672398871,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286641,
@@ -6499,6 +6587,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 260501,
+      "num": 260501,
+      "word": "肖步活了终于同居了",
+      "onboard_time": 1672401812,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260431,
       "num": 260431,
       "word": "A股明年会迎来牛市吗",
@@ -6625,6 +6721,14 @@
       "onboard_time": 1672185203,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254485,
+      "num": 254485,
+      "word": "华晨宇直播",
+      "onboard_time": 1672401390,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 254032,
@@ -7275,6 +7379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227310,
+      "num": 227310,
+      "word": "mbti",
+      "onboard_time": 1672402891,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227198,
       "num": 227198,
       "word": "西热力江史琳杰打架被停赛罚款",
@@ -7329,6 +7441,22 @@
       "onboard_time": 1672371749,
       "rank": 32,
       "category": "影视,体育"
+    },
+    {
+      "raw_hot": 226572,
+      "num": 226572,
+      "word": "王晓萍任人社部部长",
+      "onboard_time": 1672403130,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 225764,
+      "num": 225764,
+      "word": "江秋莲回应诉刘鑫案二审判决",
+      "onboard_time": 1672398091,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225611,
@@ -7611,6 +7739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216153,
+      "num": 1235757,
+      "word": "新冠康复期13个要点",
+      "onboard_time": 1672401568,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216127,
       "num": 216127,
       "word": "体育老师终于扳回一局",
@@ -7648,6 +7784,14 @@
       "word": "Gemini的猫世冠预测",
       "onboard_time": 1672303771,
       "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 214705,
+      "num": 214705,
+      "word": "GK对战eStar",
+      "onboard_time": 1672394971,
+      "rank": 33,
       "category": "游戏"
     },
     {
@@ -7731,6 +7875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212753,
+      "num": 212753,
+      "word": "by2说爱情不能用资产比例去衡量",
+      "onboard_time": 1672400548,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212698,
       "num": 212698,
       "word": "转阴后为什么还是觉得累",
@@ -7753,6 +7905,14 @@
       "onboard_time": 1672226672,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211729,
+      "num": 211729,
+      "word": "孙芮黑色抹胸长裙造型",
+      "onboard_time": 1672402349,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211043,
@@ -7809,6 +7969,14 @@
       "onboard_time": 1672313312,
       "rank": 32,
       "category": "情感,综艺"
+    },
+    {
+      "raw_hot": 207761,
+      "num": 207761,
+      "word": "回来的女儿会有第二部吗",
+      "onboard_time": 1672403251,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 207458,
@@ -7875,6 +8043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205688,
+      "num": 200721,
+      "word": "吉克隽逸穿15厘米高跟鞋2米披风唱歌",
+      "onboard_time": 1672403372,
+      "rank": 40,
+      "category": "作品衍生,游戏"
+    },
+    {
       "raw_hot": 205551,
       "num": 205551,
       "word": "国乒确定新一届教练组",
@@ -7899,12 +8075,12 @@
       "category": "时尚,情感"
     },
     {
-      "raw_hot": 203881,
-      "num": 203881,
-      "word": "久诚怎么了",
-      "onboard_time": 1672399170,
-      "rank": 27,
-      "category": "游戏"
+      "raw_hot": 204223,
+      "num": 204223,
+      "word": "相亲遇疫情被迫成室友男女已领证",
+      "onboard_time": 1672400791,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203524,
@@ -8379,14 +8555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192933,
-      "num": 192933,
-      "word": "江秋莲回应诉刘鑫案二审判决",
-      "onboard_time": 1672398091,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192788,
       "num": 192788,
       "word": "宋祖儿春晚彩排",
@@ -8401,14 +8569,6 @@
       "onboard_time": 1672380448,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192426,
-      "num": 192426,
-      "word": "GK对战eStar",
-      "onboard_time": 1672394971,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 192386,
@@ -9379,6 +9539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169894,
+      "num": 169894,
+      "word": "孕妇送多余退烧药被回赠草莓答谢",
+      "onboard_time": 1672402229,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169874,
       "num": 169874,
       "word": "曾黎有点搞笑天赋在身上",
@@ -9681,14 +9849,6 @@
       "onboard_time": 1672062635,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162731,
-      "num": 162731,
-      "word": "铠三形态荣耀典藏皮肤",
-      "onboard_time": 1672399711,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 162373,
@@ -10179,14 +10339,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 152132,
-      "num": 152132,
-      "word": "男孩报警求助称父亲住院无人照顾自己",
-      "onboard_time": 1672398871,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152118,
       "num": 152118,
       "word": "虚荣复刻",
@@ -10249,6 +10401,14 @@
       "onboard_time": 1672366828,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 150997,
+      "num": 150997,
+      "word": "你能接受年龄差距多大的恋爱",
+      "onboard_time": 1672403490,
+      "rank": 46,
+      "category": "情感,社会议题"
     },
     {
       "raw_hot": 150923,
@@ -12241,6 +12401,14 @@
       "onboard_time": 1672157904,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 66042,
+      "num": 378240,
+      "word": "听一首二十告别2022",
+      "onboard_time": 1672401628,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 66009,
