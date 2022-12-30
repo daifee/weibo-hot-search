@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672364088633,
+  "endTime": 1672365233808,
   "band_list": [
     {
       "raw_hot": 2526052,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 781018,
+      "num": 548069,
+      "word": "80后宝妈辞职做沙滩代写月入过万",
+      "onboard_time": 1672363292,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 747555,
       "num": 747555,
       "word": "这个秀非选不可吗",
@@ -91,7 +99,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 638906,
+      "raw_hot": 655295,
       "num": 627223,
       "word": "宋雨琦直播回应田小娟身体状况",
       "onboard_time": 1672357885,
@@ -107,8 +115,8 @@
       "category": "社会负面,教育"
     },
     {
-      "raw_hot": 619848,
-      "num": 619848,
+      "raw_hot": 627833,
+      "num": 627833,
       "word": "医生说杜海涛减肥反弹几率很高",
       "onboard_time": 1672322914,
       "rank": 14,
@@ -163,8 +171,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 409419,
-      "num": 409419,
+      "raw_hot": 473644,
+      "num": 473644,
       "word": "2022年有两个腊八",
       "onboard_time": 1672360710,
       "rank": 14,
@@ -177,14 +185,6 @@
       "onboard_time": 1672360348,
       "rank": 15,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 402666,
-      "num": 402666,
-      "word": "80后宝妈辞职做沙滩代写月入过万",
-      "onboard_time": 1672363292,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 380838,
@@ -209,6 +209,22 @@
       "onboard_time": 1672308270,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358559,
+      "num": 358559,
+      "word": "肺部CT检查需求暴增",
+      "onboard_time": 1672363409,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353440,
+      "num": 353440,
+      "word": "江苏卫视跨年全阵容",
+      "onboard_time": 1672364667,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 344058,
@@ -249,6 +265,14 @@
       "onboard_time": 1672358245,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315557,
+      "num": 315557,
+      "word": "王鹤棣说自己没干过什么偶像干的事",
+      "onboard_time": 1672360590,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 310977,
@@ -339,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214260,
-      "num": 214260,
-      "word": "王鹤棣说自己没干过什么偶像干的事",
-      "onboard_time": 1672360590,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 213155,
       "num": 213155,
       "word": "内马尔悼念贝利",
@@ -419,12 +435,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 184620,
-      "num": 184620,
-      "word": "肺部CT检查需求暴增",
-      "onboard_time": 1672363409,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 185260,
+      "num": 185260,
+      "word": "我可能遇到了救星",
+      "onboard_time": 1672361129,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 184429,
+      "num": 184429,
+      "word": "警方称足浴店打人者不管是谁都依法办案",
+      "onboard_time": 1672361968,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 183765,
@@ -435,12 +459,12 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 180992,
-      "num": 180992,
-      "word": "警方称足浴店打人者不管是谁都依法办案",
-      "onboard_time": 1672361968,
-      "rank": 37,
-      "category": "社会负面"
+      "raw_hot": 179271,
+      "num": 179271,
+      "word": "李晨说自己是三开门冰箱",
+      "onboard_time": 1672363892,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 177984,
@@ -467,6 +491,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 175577,
+      "num": 175577,
+      "word": "贵州茅台预计今年净利润626亿元",
+      "onboard_time": 1672364787,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 173417,
+      "num": 173417,
+      "word": "普通人有机会上太空吗",
+      "onboard_time": 1672364910,
+      "rank": 40,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 172654,
       "num": 172654,
       "word": "和不喜欢的人结婚是怎样的",
@@ -483,20 +523,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165658,
+      "num": 165658,
+      "word": "2022那些温暖到泪目的瞬间",
+      "onboard_time": 1672364189,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165474,
       "num": 91793,
       "word": "BoysPlanet hui",
       "onboard_time": 1672330827,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165153,
-      "num": 165153,
-      "word": "我可能遇到了救星",
-      "onboard_time": 1672361129,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 164206,
@@ -515,6 +555,14 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 158894,
+      "num": 158894,
+      "word": "马拉多纳和贝利时隔2年相继离世",
+      "onboard_time": 1672364548,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156932,
       "num": 150668,
       "word": "2023总台春晚首支歌曲公布",
@@ -523,20 +571,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154195,
+      "num": 154195,
+      "word": "贝利葬礼安排公布",
+      "onboard_time": 1672363948,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149063,
       "num": 149063,
       "word": "按压一个穴位帮助缓解久咳不止",
       "onboard_time": 1672360470,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147465,
-      "num": 147465,
-      "word": "贝利葬礼安排公布",
-      "onboard_time": 1672363948,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 147311,
@@ -555,14 +603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144819,
-      "num": 144819,
-      "word": "李晨说自己是三开门冰箱",
-      "onboard_time": 1672363892,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138839,
       "num": 138839,
       "word": "车厘子",
@@ -577,6 +617,14 @@
       "onboard_time": 1672359028,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 138298,
+      "num": 138298,
+      "word": "欧洲疾控中心称没理由限制中国旅客",
+      "onboard_time": 1672364729,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138178,
