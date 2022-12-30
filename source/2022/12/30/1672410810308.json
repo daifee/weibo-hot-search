@@ -1,0 +1,410 @@
+{
+  "runTime": 1672410810308,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1419814,
+        "num": 1419814,
+        "word": "秦刚任外交部部长",
+        "onboard_time": 1672399951,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1320551,
+        "num": 1320551,
+        "word": "车厘子4年间价格腰斩",
+        "onboard_time": 1672408352,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 210159,
+        "num": 1107627,
+        "word": "恢复期要注意什么",
+        "onboard_time": 1672404508,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1059244,
+        "num": 1059244,
+        "word": "回来的女儿大结局回血",
+        "onboard_time": 1672402531,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 921821,
+        "num": 921821,
+        "word": "上海一出租房月租380马桶在厨房里",
+        "onboard_time": 1672407210,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759765,
+        "num": 759765,
+        "word": "方文山说被周深的歌声穿透了",
+        "onboard_time": 1672405649,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717706,
+        "num": 717706,
+        "word": "四川已知最长寿老人去世",
+        "onboard_time": 1672403611,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646131,
+        "num": 646131,
+        "word": "金泰妍中文新歌",
+        "onboard_time": 1672409073,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 592976,
+        "num": 592976,
+        "word": "刘鑫需赔偿江母69万余元",
+        "onboard_time": 1672382733,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481671,
+        "num": 481671,
+        "word": "台湾女生来河南工作以后",
+        "onboard_time": 1672402110,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1544384,
+        "num": 477811,
+        "word": "禾野",
+        "onboard_time": 1672404208,
+        "rank": 10,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 1308854,
+        "num": 474249,
+        "word": "华晨宇说杨幂左立送的蛋糕太丑了",
+        "onboard_time": 1672405471,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 590044,
+        "num": 470601,
+        "word": "女生阳后发现戴帽子的人变多了",
+        "onboard_time": 1672409794,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562029,
+        "num": 466589,
+        "word": "李文卓变傻是李承天害的",
+        "onboard_time": 1672409794,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462458,
+        "num": 462458,
+        "word": "张文宏预测春节感染率可能达到80%",
+        "onboard_time": 1672392447,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394028,
+        "num": 394028,
+        "word": "景向谁依",
+        "onboard_time": 1672401628,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 371582,
+        "num": 371582,
+        "word": "旗舰店买iPhone取消订单不给退款",
+        "onboard_time": 1672404149,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 350851,
+        "num": 350851,
+        "word": "GK对战eStar",
+        "onboard_time": 1672394971,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 349851,
+        "num": 349851,
+        "word": "转阴后依然咳嗽咋回事",
+        "onboard_time": 1672405709,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250744,
+        "num": 250744,
+        "word": "男子感染新冠后疲劳工作诱发心肌炎",
+        "onboard_time": 1672389150,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458533,
+        "num": 250064,
+        "word": "李钟硕林允儿获演技大赏最佳情侣奖",
+        "onboard_time": 1672409610,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 424425,
+        "num": 249885,
+        "word": "王一博东方卫视跨年彩排照",
+        "onboard_time": 1672407691,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422323,
+        "num": 248715,
+        "word": "infp",
+        "onboard_time": 1672408650,
+        "rank": 22,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 244533,
+        "num": 244533,
+        "word": "潘三岁",
+        "onboard_time": 1672408770,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219796,
+        "num": 219796,
+        "word": "EDG新阵容首战RNG",
+        "onboard_time": 1672401150,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207486,
+        "num": 207486,
+        "word": "流浪的猫咪只能在垃圾堆过冬了",
+        "onboard_time": 1672406131,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197220,
+        "num": 197220,
+        "word": "无所谓GK超级兵会出手",
+        "onboard_time": 1672409133,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188138,
+        "num": 188138,
+        "word": "探访发现部分乡村老人不知新冠",
+        "onboard_time": 1672393829,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172055,
+        "num": 172055,
+        "word": "张雪峰说考完研笔记别扔了",
+        "onboard_time": 1672399588,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 171356,
+        "num": 171356,
+        "word": "G郭晓萌M",
+        "onboard_time": 1672408352,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 360085,
+        "num": 171307,
+        "word": "易烊千玺镜头前后反差萌",
+        "onboard_time": 1672409971,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349172,
+        "num": 170680,
+        "word": "王鹤棣陈钰琪体型差",
+        "onboard_time": 1672406851,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345352,
+        "num": 170367,
+        "word": "刘宪华一人乐队唱明明就",
+        "onboard_time": 1672407091,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279932,
+        "num": 169806,
+        "word": "肖步活了终于同居了",
+        "onboard_time": 1672401812,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169586,
+        "num": 169586,
+        "word": "GK连追两局",
+        "onboard_time": 1672410394,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154233,
+        "num": 154233,
+        "word": "这就是传说中的房车吧",
+        "onboard_time": 1672410452,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146866,
+        "num": 146866,
+        "word": "孕妇送多余退烧药被回赠草莓答谢",
+        "onboard_time": 1672402229,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141880,
+        "num": 141880,
+        "word": "百兽 马超",
+        "onboard_time": 1672408892,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141657,
+        "num": 141657,
+        "word": "张文宏称易感人群新春是个坎儿",
+        "onboard_time": 1672387411,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138611,
+        "num": 138611,
+        "word": "爸爸将宝宝塞衣服里带去医院",
+        "onboard_time": 1672395209,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279228,
+        "num": 138292,
+        "word": "刘亦菲李现新剧打水仗",
+        "onboard_time": 1672409013,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237952,
+        "num": 138231,
+        "word": "谁能想到杨丽萍快65岁了",
+        "onboard_time": 1672404690,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137923,
+        "num": 137923,
+        "word": "铠三形态荣耀典藏皮肤",
+        "onboard_time": 1672399711,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136301,
+        "num": 136301,
+        "word": "鲁班大师好护崽",
+        "onboard_time": 1672410630,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134652,
+        "num": 134652,
+        "word": "女生阳后鼻塞擤鼻涕结果眼角冒泡",
+        "onboard_time": 1672390109,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132153,
+        "num": 132153,
+        "word": "北京男篮vs广东男篮",
+        "onboard_time": 1672407330,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131287,
+        "num": 131287,
+        "word": "久诚怎么了",
+        "onboard_time": 1672399170,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131212,
+        "num": 131212,
+        "word": "被陌生人的晚安治愈了",
+        "onboard_time": 1672410571,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129305,
+        "num": 129305,
+        "word": "小昭同学ha",
+        "onboard_time": 1672409431,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127696,
+        "num": 127696,
+        "word": "马龙直播",
+        "onboard_time": 1672400009,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022年国内十大新闻#"
+    }
+  }
+}

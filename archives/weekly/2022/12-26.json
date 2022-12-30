@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672409739349,
+  "endTime": 1672410810308,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -611,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1544384,
+      "num": 1173861,
+      "word": "禾野",
+      "onboard_time": 1672404208,
+      "rank": 4,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 1532744,
       "num": 1532744,
       "word": "王皓",
@@ -803,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1320551,
+      "num": 1320551,
+      "word": "车厘子4年间价格腰斩",
+      "onboard_time": 1672408352,
+      "rank": 5,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1316527,
       "num": 1316527,
       "word": "男子网购玫瑰拆开发现1枚子弹",
@@ -969,14 +985,6 @@
       "onboard_time": 1672013304,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1173861,
-      "num": 1173861,
-      "word": "禾野",
-      "onboard_time": 1672404208,
-      "rank": 4,
-      "category": "动漫,网红"
     },
     {
       "raw_hot": 1162660,
@@ -1451,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 921821,
+      "num": 921821,
+      "word": "上海一出租房月租380马桶在厨房里",
+      "onboard_time": 1672407210,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 918399,
       "num": 918399,
       "word": "梅西",
@@ -1595,14 +1611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 869001,
-      "num": 869001,
-      "word": "车厘子4年间价格腰斩",
-      "onboard_time": 1672408352,
-      "rank": 5,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 866809,
       "num": 866809,
       "word": "法国20万人请愿重踢决赛你怎么看",
@@ -1633,14 +1641,6 @@
       "onboard_time": 1672276949,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 859252,
-      "num": 859252,
-      "word": "上海一出租房月租380马桶在厨房里",
-      "onboard_time": 1672407210,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 850110,
@@ -2539,6 +2539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 646131,
+      "num": 646131,
+      "word": "金泰妍中文新歌",
+      "onboard_time": 1672409073,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 645179,
       "num": 645179,
       "word": "iPhone频繁降价开启卷王模式",
@@ -2867,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 590044,
+      "num": 470601,
+      "word": "女生阳后发现戴帽子的人变多了",
+      "onboard_time": 1672409794,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 586486,
       "num": 423534,
       "word": "黄明昊 空降",
@@ -3027,6 +3043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 562029,
+      "num": 466589,
+      "word": "李文卓变傻是李承天害的",
+      "onboard_time": 1672409794,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 561458,
       "num": 454731,
       "word": "中国工程院院士王仲奇离世",
@@ -3065,14 +3089,6 @@
       "onboard_time": 1672300110,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 555661,
-      "num": 555661,
-      "word": "金泰妍中文新歌",
-      "onboard_time": 1672409073,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 554887,
@@ -3851,6 +3867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458533,
+      "num": 250064,
+      "word": "李钟硕林允儿获演技大赏最佳情侣奖",
+      "onboard_time": 1672409610,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 455885,
       "num": 455885,
       "word": "Viper回韩国原因曝光",
@@ -4281,6 +4305,14 @@
       "onboard_time": 1672312054,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 422323,
+      "num": 267531,
+      "word": "infp",
+      "onboard_time": 1672408650,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 422169,
@@ -5011,6 +5043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 360085,
+      "num": 171307,
+      "word": "易烊千玺镜头前后反差萌",
+      "onboard_time": 1672409971,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 359707,
       "num": 306904,
       "word": "赵露思说我在东方卫视等你",
@@ -5169,6 +5209,14 @@
       "onboard_time": 1672321293,
       "rank": 23,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 350851,
+      "num": 350851,
+      "word": "GK对战eStar",
+      "onboard_time": 1672394971,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 350562,
@@ -5353,14 +5401,6 @@
       "onboard_time": 1671961589,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 340646,
-      "num": 340646,
-      "word": "GK对战eStar",
-      "onboard_time": 1672394971,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 339418,
@@ -6459,6 +6499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279228,
+      "num": 189938,
+      "word": "刘亦菲李现新剧打水仗",
+      "onboard_time": 1672409013,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 279060,
       "num": 279060,
       "word": "男子特快邮寄申博资料滞留15日过期",
@@ -6651,14 +6699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267531,
-      "num": 267531,
-      "word": "infp",
-      "onboard_time": 1672408650,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 267059,
       "num": 267059,
       "word": "回来的女儿猴脸男是小卖部老板",
@@ -6753,14 +6793,6 @@
       "onboard_time": 1672133852,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 262928,
-      "num": 189938,
-      "word": "刘亦菲李现新剧打水仗",
-      "onboard_time": 1672409013,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 261160,
@@ -7177,14 +7209,6 @@
       "onboard_time": 1672283128,
       "rank": 25,
       "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 244464,
-      "num": 160586,
-      "word": "李钟硕林允儿获演技大赏最佳情侣奖",
-      "onboard_time": 1672409610,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 243208,
@@ -9851,6 +9875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169586,
+      "num": 169586,
+      "word": "GK连追两局",
+      "onboard_time": 1672410394,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169417,
       "num": 169417,
       "word": "俩女主播为抢榜一大哥互怼闹上法庭",
@@ -10553,6 +10585,14 @@
       "onboard_time": 1672197988,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154233,
+      "num": 154233,
+      "word": "这就是传说中的房车吧",
+      "onboard_time": 1672410452,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 154204,
@@ -11451,6 +11491,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 136301,
+      "num": 136301,
+      "word": "鲁班大师好护崽",
+      "onboard_time": 1672410630,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136217,
       "num": 136217,
       "word": "星辰变",
@@ -11593,6 +11641,14 @@
       "onboard_time": 1672244843,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131212,
+      "num": 131212,
+      "word": "被陌生人的晚安治愈了",
+      "onboard_time": 1672410571,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 130911,
