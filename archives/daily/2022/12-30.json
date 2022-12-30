@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672368584133,
+  "endTime": 1672370384793,
   "band_list": [
     {
       "raw_hot": 2526052,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1121178,
+      "num": 1121178,
+      "word": "男子越狱29年被抓时在学校当保安",
+      "onboard_time": 1672366528,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1082683,
       "num": 1082683,
       "word": "怎么判断自己肺部感染",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1073678,
-      "num": 451935,
+      "num": 469467,
       "word": "iKON离开YG娱乐",
       "onboard_time": 1672367609,
       "rank": 12,
@@ -83,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 839879,
+      "num": 839879,
+      "word": "陈晓片场撒娇被毛晓彤一把牵起来",
+      "onboard_time": 1672369048,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 781018,
       "num": 756112,
       "word": "80后宝妈辞职做沙滩代写月入过万",
@@ -97,14 +113,6 @@
       "onboard_time": 1672321235,
       "rank": 4,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 747173,
-      "num": 747173,
-      "word": "男子越狱29年被抓时在学校当保安",
-      "onboard_time": 1672366528,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 743232,
@@ -137,6 +145,14 @@
       "onboard_time": 1672357945,
       "rank": 9,
       "category": "社会负面,教育"
+    },
+    {
+      "raw_hot": 628067,
+      "num": 628067,
+      "word": "鬼吹灯之南海归墟上线",
+      "onboard_time": 1672368808,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 627833,
@@ -176,6 +192,14 @@
       "word": "女子阳后9天洗头掉发如毛线团",
       "onboard_time": 1672314270,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543586,
+      "num": 543586,
+      "word": "咳嗽其实是人体的一种保护机制",
+      "onboard_time": 1672367004,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -267,14 +291,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 364419,
-      "num": 364419,
-      "word": "咳嗽其实是人体的一种保护机制",
-      "onboard_time": 1672367004,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 363809,
       "num": 363809,
       "word": "咳出白痰和黄痰有什么区别",
@@ -305,6 +321,22 @@
       "onboard_time": 1672322792,
       "rank": 13,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 340430,
+      "num": 340430,
+      "word": "专家称新冠患者99%可排除心肌炎",
+      "onboard_time": 1672369167,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334983,
+      "num": 334983,
+      "word": "马拉多纳 天堂里一起踢球",
+      "onboard_time": 1672367910,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 332452,
@@ -403,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247501,
+      "num": 247501,
+      "word": "95后男生靠教人挑选衣服走红",
+      "onboard_time": 1672368031,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235898,
       "num": 235898,
       "word": "曾光称北京新冠感染率或超80%",
@@ -451,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200828,
+      "num": 200828,
+      "word": "iPhone15芯片或更注重电池续航",
+      "onboard_time": 1672366888,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 199309,
       "num": 188920,
       "word": "毛不易 我的年度歌手",
@@ -464,6 +512,14 @@
       "word": "男子高铁上脱口罩测抗原结果真阳了",
       "onboard_time": 1672317810,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196122,
+      "num": 196122,
+      "word": "11位外交官中文安利家乡年货",
+      "onboard_time": 1672367609,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -481,14 +537,6 @@
       "onboard_time": 1672315407,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193345,
-      "num": 193345,
-      "word": "iPhone15芯片或更注重电池续航",
-      "onboard_time": 1672366888,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 189352,
@@ -515,14 +563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187993,
-      "num": 187993,
-      "word": "马拉多纳 天堂里一起踢球",
-      "onboard_time": 1672367910,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187127,
       "num": 187127,
       "word": "李晨说自己是三开门冰箱",
@@ -545,6 +585,14 @@
       "onboard_time": 1672367726,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185963,
+      "num": 185963,
+      "word": "邓超中国乒乓新年新海报",
+      "onboard_time": 1672370249,
+      "rank": 36,
+      "category": "影视,体育"
     },
     {
       "raw_hot": 185260,
@@ -571,6 +619,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 180192,
+      "num": 180192,
+      "word": "卢伟冰晋升小米集团总裁",
+      "onboard_time": 1672368388,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 179557,
       "num": 179557,
       "word": "中国乒乓新年新预告",
@@ -595,20 +651,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175990,
-      "num": 175990,
-      "word": "11位外交官中文安利家乡年货",
-      "onboard_time": 1672367609,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175956,
       "num": 175956,
       "word": "iPhone频繁降价开启卷王模式",
       "onboard_time": 1672311634,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 175202,
+      "num": 175202,
+      "word": "韩国将要求中国旅客接受两次核酸检测",
+      "onboard_time": 1672370308,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173417,
@@ -644,7 +700,7 @@
     },
     {
       "raw_hot": 165658,
-      "num": 165658,
+      "num": 1012109,
       "word": "2022那些温暖到泪目的瞬间",
       "onboard_time": 1672364189,
       "rank": 43,
@@ -689,14 +745,6 @@
       "onboard_time": 1672368508,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 159218,
-      "num": 159218,
-      "word": "95后男生靠教人挑选衣服走红",
-      "onboard_time": 1672368031,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158894,
@@ -795,20 +843,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135741,
+      "num": 135741,
+      "word": "王者开航新版本1月3日上线",
+      "onboard_time": 1672368568,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134109,
       "num": 81939,
       "word": "李承天点烟送陈佑希上路",
       "onboard_time": 1672318170,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 134082,
-      "num": 134082,
-      "word": "卢伟冰晋升小米集团总裁",
-      "onboard_time": 1672368388,
-      "rank": 46,
-      "category": "科技"
     },
     {
       "raw_hot": 131740,
@@ -851,12 +899,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117655,
-      "num": 117655,
-      "word": "王者开航新版本1月3日上线",
-      "onboard_time": 1672368568,
-      "rank": 48,
-      "category": "游戏"
+      "raw_hot": 116656,
+      "num": 116656,
+      "word": "聋哑小伙创作2幅15米长卷迎新年",
+      "onboard_time": 1672370128,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116433,
