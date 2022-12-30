@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672414407634,
+  "endTime": 1672417433979,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -2603,6 +2603,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 643559,
+      "num": 319173,
+      "word": "何猷君 立牌",
+      "onboard_time": 1672413927,
+      "rank": 32,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 639992,
       "num": 602062,
       "word": "YG还剩哪些人",
@@ -4363,6 +4371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 421552,
+      "num": 421552,
+      "word": "阳后身上出红疹要警惕",
+      "onboard_time": 1672413390,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420547,
       "num": 420547,
       "word": "专家称新冠患者99%可排除心肌炎",
@@ -4963,6 +4979,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 368615,
+      "num": 311454,
+      "word": "小朋友在床单上画了条鲨鱼",
+      "onboard_time": 1672414409,
+      "rank": 13,
+      "category": "幽默,幽默"
+    },
+    {
       "raw_hot": 367907,
       "num": 367907,
       "word": "女孩给礼物换电池发现内藏告白纸条",
@@ -5273,6 +5297,14 @@
       "onboard_time": 1672177873,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350451,
+      "num": 350451,
+      "word": "虞书欣王鹤棣危险派对登年度综艺视频TOP2",
+      "onboard_time": 1672416685,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 350268,
@@ -5777,6 +5809,14 @@
       "onboard_time": 1672029993,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321442,
+      "num": 321442,
+      "word": "说一句你不敢发在朋友圈的话",
+      "onboard_time": 1672415308,
+      "rank": 9,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 320605,
@@ -6635,6 +6675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 276783,
+      "num": 276783,
+      "word": "EDG和RNG是懂慈善赛的",
+      "onboard_time": 1672412850,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 276702,
       "num": 210876,
       "word": "蒲熠星一言不合放狠话",
@@ -7033,14 +7081,6 @@
       "onboard_time": 1672030352,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 254538,
-      "num": 171612,
-      "word": "何猷君 立牌",
-      "onboard_time": 1672413927,
-      "rank": 32,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 254512,
@@ -7451,14 +7491,6 @@
       "category": "情感,音乐"
     },
     {
-      "raw_hot": 238278,
-      "num": 238278,
-      "word": "EDG和RNG是懂慈善赛的",
-      "onboard_time": 1672412850,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 238167,
       "num": 207374,
       "word": "张译说大年初一红运开年",
@@ -7640,6 +7672,14 @@
       "word": "还以为是发配宁古塔的路上",
       "onboard_time": 1672238135,
       "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 231623,
+      "num": 231623,
+      "word": "几个星期后的超市",
+      "onboard_time": 1672413808,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -8129,6 +8169,14 @@
       "onboard_time": 1671981748,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217004,
+      "num": 217004,
+      "word": "趴着睡能促进新冠感染恢复",
+      "onboard_time": 1672414769,
+      "rank": 21,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 216691,
@@ -9299,6 +9347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185324,
+      "num": 185324,
+      "word": "原来恋爱中的细节就是偏爱",
+      "onboard_time": 1672415248,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185154,
       "num": 154817,
       "word": "李文文消失的真相",
@@ -10113,14 +10169,6 @@
       "onboard_time": 1672410093,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 167067,
-      "num": 167067,
-      "word": "阳后身上出红疹要警惕",
-      "onboard_time": 1672413390,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166860,
@@ -11099,6 +11147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147094,
+      "num": 147094,
+      "word": "什么情况才会判断为新冠死亡",
+      "onboard_time": 1672415786,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146899,
       "num": 146899,
       "word": "我国蓝领群体近一半超40岁",
@@ -11361,6 +11417,14 @@
       "onboard_time": 1672307190,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143277,
+      "num": 121621,
+      "word": "心疼小秀",
+      "onboard_time": 1672414588,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 143029,
@@ -12355,14 +12419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112529,
-      "num": 146529,
-      "word": "几个星期后的超市",
-      "onboard_time": 1672413808,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 112011,
       "num": 112011,
       "word": "第一视角当人类幼崽",
@@ -12873,6 +12929,14 @@
       "onboard_time": 1672267935,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 73574,
+      "num": 91502,
+      "word": "6岁男孩被骂后点燃厨房秸秆",
+      "onboard_time": 1672417345,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73055,
