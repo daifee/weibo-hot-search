@@ -1,0 +1,410 @@
+{
+  "runTime": 1672385603434,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1763411,
+        "num": 1763411,
+        "word": "江秋莲去江歌墓前读判决书",
+        "onboard_time": 1672380750,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128286,
+        "num": 1128286,
+        "word": "老人临终前4小时给感冒女儿针灸",
+        "onboard_time": 1672376731,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43386,
+        "num": 1123493,
+        "word": "2022那些温暖到泪目的瞬间",
+        "onboard_time": 1672364189,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1491070,
+        "num": 1123484,
+        "word": "难听",
+        "onboard_time": 1672380572,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1123447,
+        "num": 1123447,
+        "word": "二审认定刘鑫案发时锁闭房门",
+        "onboard_time": 1672378712,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752691,
+        "num": 752691,
+        "word": "上海重症高峰已慢慢出现",
+        "onboard_time": 1672383208,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717774,
+        "num": 717774,
+        "word": "近2万快递费给重了业务员用了",
+        "onboard_time": 1672381770,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 998701,
+        "num": 673625,
+        "word": "作家陈岚",
+        "onboard_time": 1672381532,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601681,
+        "num": 601681,
+        "word": "女子因上厕所未在工位被领导打",
+        "onboard_time": 1672372047,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583166,
+        "num": 583166,
+        "word": "刘亦菲去有风的地方哭戏",
+        "onboard_time": 1672382610,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 720981,
+        "num": 561125,
+        "word": "YG新女团将1月1日出道",
+        "onboard_time": 1672381590,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639539,
+        "num": 557192,
+        "word": "江歌母亲江秋莲诉刘鑫案二审维持原判",
+        "onboard_time": 1672374511,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530170,
+        "num": 530170,
+        "word": "卿卿日常",
+        "onboard_time": 1672380448,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 508036,
+        "num": 508036,
+        "word": "男子阳后连咳10多天把肋骨咳断",
+        "onboard_time": 1672379549,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638606,
+        "num": 496622,
+        "word": "刘鑫需赔偿江母69万余元",
+        "onboard_time": 1672382733,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478641,
+        "num": 478641,
+        "word": "终于等到李现演的谢之遥",
+        "onboard_time": 1672383693,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465149,
+        "num": 465149,
+        "word": "贝利去世时净资产约1亿美元",
+        "onboard_time": 1672383271,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401429,
+        "num": 401429,
+        "word": "iPhone15Pro四色概念图出炉",
+        "onboard_time": 1672373129,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 385606,
+        "num": 385606,
+        "word": "专家称第二波疫情风暴会很低",
+        "onboard_time": 1672328067,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329768,
+        "num": 329768,
+        "word": "女子在桥边留下孩子后跳河",
+        "onboard_time": 1672380750,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313043,
+        "num": 313043,
+        "word": "女子将家中垃圾均匀倒进电梯",
+        "onboard_time": 1672381837,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292578,
+        "num": 292578,
+        "word": "陈楚生苏醒打台球有点综艺效果在",
+        "onboard_time": 1672384529,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288545,
+        "num": 288545,
+        "word": "BLACKPINK或将转入YG旗下厂牌",
+        "onboard_time": 1672375291,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282648,
+        "num": 282648,
+        "word": "刘鑫",
+        "onboard_time": 1672374570,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271857,
+        "num": 271857,
+        "word": "百名烂尾楼业主合力推倒小区围墙",
+        "onboard_time": 1672384052,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262993,
+        "num": 262993,
+        "word": "iKON离开YG娱乐",
+        "onboard_time": 1672367609,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261851,
+        "num": 261851,
+        "word": "肖战西装背头造型",
+        "onboard_time": 1672383810,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260639,
+        "num": 260639,
+        "word": "RNG疑似拖欠海外员工薪资",
+        "onboard_time": 1672380330,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246760,
+        "num": 246760,
+        "word": "江歌案当事人5个事实争议",
+        "onboard_time": 1672378891,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243576,
+        "num": 243576,
+        "word": "第一次越狱有点生疏的小狗",
+        "onboard_time": 1672383511,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249415,
+        "num": 235067,
+        "word": "杨超越还没有和迪丽热巴加上微信",
+        "onboard_time": 1672378051,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246848,
+        "num": 234247,
+        "word": "王一博新歌像阳光那样销量",
+        "onboard_time": 1672384650,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226184,
+        "num": 226184,
+        "word": "韩国将要求中国旅客接受两次核酸检测",
+        "onboard_time": 1672370308,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222059,
+        "num": 222059,
+        "word": "年轻人结婚最看重什么",
+        "onboard_time": 1672384173,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202195,
+        "num": 202195,
+        "word": "车银优与Fantagio续约",
+        "onboard_time": 1672385371,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202189,
+        "num": 202189,
+        "word": "专家称不要把经济低迷完全归于疫情",
+        "onboard_time": 1672375172,
+        "rank": 35,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 196699,
+        "num": 196699,
+        "word": "武汉三镇夺得中超冠军",
+        "onboard_time": 1672379490,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195075,
+        "num": 195075,
+        "word": "鹿晗绿毛衣造型五宫格",
+        "onboard_time": 1672383331,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187596,
+        "num": 187596,
+        "word": "转阴后为什么还是很累",
+        "onboard_time": 1672370908,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186551,
+        "num": 186551,
+        "word": "86年女子与00年男子相恋",
+        "onboard_time": 1672373551,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181641,
+        "num": 181641,
+        "word": "卿卿日常见面会官宣",
+        "onboard_time": 1672377090,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175375,
+        "num": 175375,
+        "word": "比绿指甲还恐怖的是李承天抽烟",
+        "onboard_time": 1672385493,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171864,
+        "num": 171864,
+        "word": "江母诉刘鑫案二审宣判",
+        "onboard_time": 1672373310,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170915,
+        "num": 170915,
+        "word": "2022王者世冠KIC总决赛",
+        "onboard_time": 1672384591,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170122,
+        "num": 170122,
+        "word": "张文宏解读为何觉得白肺变多了",
+        "onboard_time": 1672384831,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168891,
+        "num": 168891,
+        "word": "WB陪你过腊八",
+        "onboard_time": 1672385549,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166916,
+        "num": 166916,
+        "word": "为什么年轻人不去4S店保养了",
+        "onboard_time": 1672377571,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147685,
+        "num": 147685,
+        "word": "驳回刘鑫上诉维持原判",
+        "onboard_time": 1672374511,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146787,
+        "num": 146787,
+        "word": "eStar打call阵容有多豪华",
+        "onboard_time": 1672381649,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146573,
+        "num": 146573,
+        "word": "混血萌娃吐槽荷兰面包不如青岛海鲜",
+        "onboard_time": 1672385192,
+        "rank": 49,
+        "category": "社会新闻,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022年国内十大新闻#"
+    }
+  }
+}
