@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672391808386,
+  "endTime": 1672392811925,
   "band_list": [
     {
       "raw_hot": 2526052,
@@ -131,19 +131,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1193429,
+      "num": 1193429,
+      "word": "张文宏称易感人群新春是个坎儿",
+      "onboard_time": 1672387411,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1162660,
       "num": 1162660,
       "word": "张文宏解读为何觉得白肺变多了",
       "onboard_time": 1672384831,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1111153,
-      "num": 1111153,
-      "word": "张文宏称易感人群新春是个坎儿",
-      "onboard_time": 1672387411,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -203,12 +203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 906575,
+      "num": 906575,
+      "word": "刘鑫需赔偿江母69万余元",
+      "onboard_time": 1672382733,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 902978,
       "num": 902978,
       "word": "上海重症高峰已慢慢出现",
       "onboard_time": 1672383208,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 895811,
+      "num": 895811,
+      "word": "中国有可能实现人类经济史上的奇迹",
+      "onboard_time": 1672388970,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 860618,
@@ -241,22 +257,6 @@
       "onboard_time": 1672363292,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 769082,
-      "num": 769082,
-      "word": "刘鑫需赔偿江母69万余元",
-      "onboard_time": 1672382733,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 765318,
-      "num": 765318,
-      "word": "中国有可能实现人类经济史上的奇迹",
-      "onboard_time": 1672388970,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 747555,
@@ -411,6 +411,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 604334,
+      "num": 604334,
+      "word": "庆余年第二季登顶待播剧期待榜",
+      "onboard_time": 1672390710,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 595480,
       "num": 595480,
       "word": "快乐再出发",
@@ -432,6 +440,14 @@
       "word": "官方辟谣上海浦东某小区有人焚烧遗体",
       "onboard_time": 1672328186,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588209,
+      "num": 588209,
+      "word": "张文宏预测春节感染率可能达到80%",
+      "onboard_time": 1672392447,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -483,20 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 510510,
-      "num": 510510,
+      "raw_hot": 518309,
+      "num": 518309,
       "word": "球王曾很讨厌贝利这个绰号",
       "onboard_time": 1672385911,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 510388,
-      "num": 510388,
-      "word": "庆余年第二季登顶待播剧期待榜",
-      "onboard_time": 1672390710,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 509727,
@@ -579,6 +587,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 443145,
+      "num": 443145,
+      "word": "陈哲远吹翻沈月刘海",
+      "onboard_time": 1672391910,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442079,
       "num": 442079,
       "word": "比绿指甲还恐怖的是李承天抽烟",
@@ -609,6 +625,14 @@
       "onboard_time": 1672360348,
       "rank": 15,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 406835,
+      "num": 406835,
+      "word": "范丞丞拿错杨迪充电线",
+      "onboard_time": 1672391308,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 397474,
@@ -747,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353347,
+      "num": 353347,
+      "word": "原来喂猪也不是那么容易",
+      "onboard_time": 1672389449,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 350268,
       "num": 350268,
       "word": "朴灿烈吴世勋将举行粉丝见面会",
@@ -795,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334678,
+      "num": 334678,
+      "word": "解放军在南海上空拦截美军侦察机",
+      "onboard_time": 1672390348,
+      "rank": 23,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 332452,
       "num": 332452,
       "word": "小秀是被李文卓所杀",
@@ -817,14 +857,6 @@
       "onboard_time": 1672336695,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326521,
-      "num": 326521,
-      "word": "原来喂猪也不是那么容易",
-      "onboard_time": 1672389449,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 323039,
@@ -873,6 +905,14 @@
       "onboard_time": 1672374331,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 297704,
+      "num": 297704,
+      "word": "女生阳后鼻塞擤鼻涕结果眼角冒泡",
+      "onboard_time": 1672390109,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295185,
@@ -939,11 +979,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273837,
+      "num": 273837,
+      "word": "女子发烧3天左耳道现血块听力暂失",
+      "onboard_time": 1672390710,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272567,
       "num": 272567,
       "word": "第一次越狱有点生疏的小狗",
       "onboard_time": 1672383511,
       "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 271327,
+      "num": 271327,
+      "word": "不要对眼睛做的5件事",
+      "onboard_time": 1672390170,
+      "rank": 24,
       "category": "幽默"
     },
     {
@@ -979,28 +1035,12 @@
       "category": "影视,体育"
     },
     {
-      "raw_hot": 252610,
-      "num": 252610,
-      "word": "解放军在南海上空拦截美军侦察机",
-      "onboard_time": 1672390348,
-      "rank": 23,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 251318,
       "num": 251318,
       "word": "撒贝宁告诉你穿羽绒服进冰柜是啥体验",
       "onboard_time": 1672375710,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249956,
-      "num": 249956,
-      "word": "不要对眼睛做的5件事",
-      "onboard_time": 1672390170,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 249177,
@@ -1025,14 +1065,6 @@
       "onboard_time": 1672384650,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 242596,
-      "num": 242596,
-      "word": "范丞丞拿错杨迪充电线",
-      "onboard_time": 1672391308,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 242559,
@@ -1152,6 +1184,14 @@
       "word": "BoysPlanet初C颜值变化",
       "onboard_time": 1672358547,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202831,
+      "num": 202831,
+      "word": "INTO1江苏卫视跨年彩排剧透",
+      "onboard_time": 1672392268,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1299,14 +1339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185252,
-      "num": 185252,
-      "word": "女子发烧3天左耳道现血块听力暂失",
-      "onboard_time": 1672390710,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184429,
       "num": 184429,
       "word": "警方称足浴店打人者不管是谁都依法办案",
@@ -1427,6 +1459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170877,
+      "num": 170877,
+      "word": "年轻人都在玩一种很新的东西",
+      "onboard_time": 1672391669,
+      "rank": 38,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 170253,
       "num": 170253,
       "word": "吉利旗下公司全资持股魅族科技",
@@ -1467,12 +1507,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166406,
-      "num": 166406,
-      "word": "年轻人都在玩一种很新的东西",
-      "onboard_time": 1672391669,
-      "rank": 38,
-      "category": "社会新闻,幽默"
+      "raw_hot": 166065,
+      "num": 166065,
+      "word": "陈佑希从始至终都很善良",
+      "onboard_time": 1672392328,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 165658,
@@ -1635,6 +1675,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 146357,
+      "num": 146357,
+      "word": "李承天只爱自己",
+      "onboard_time": 1672392447,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 145974,
       "num": 145974,
       "word": "这英语是非学不可了吗",
@@ -1723,11 +1771,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130965,
-      "num": 130965,
-      "word": "女生阳后鼻塞擤鼻涕结果眼角冒泡",
-      "onboard_time": 1672390109,
-      "rank": 49,
+      "raw_hot": 128431,
+      "num": 136647,
+      "word": "海南省预计感染率已达50%",
+      "onboard_time": 1672392212,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
