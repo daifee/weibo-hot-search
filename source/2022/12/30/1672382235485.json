@@ -1,0 +1,410 @@
+{
+  "runTime": 1672382235485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1749386,
+        "num": 1749386,
+        "word": "江秋莲去江歌墓前读判决书",
+        "onboard_time": 1672380750,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1606276,
+        "num": 1606276,
+        "word": "老人临终前4小时给感冒女儿针灸",
+        "onboard_time": 1672376731,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59093,
+        "num": 1447126,
+        "word": "2022那些温暖到泪目的瞬间",
+        "onboard_time": 1672364189,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1745333,
+        "num": 1417455,
+        "word": "江歌母亲江秋莲诉刘鑫案二审维持原判",
+        "onboard_time": 1672374511,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1350225,
+        "num": 1350225,
+        "word": "难听",
+        "onboard_time": 1672380572,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 947266,
+        "num": 947266,
+        "word": "女子因上厕所未在工位被领导打",
+        "onboard_time": 1672372047,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1708237,
+        "num": 862628,
+        "word": "二审认定刘鑫案发时锁闭房门",
+        "onboard_time": 1672378712,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663237,
+        "num": 663237,
+        "word": "专家称第二波疫情风暴会很低",
+        "onboard_time": 1672328067,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616008,
+        "num": 616008,
+        "word": "男子阳后连咳10多天把肋骨咳断",
+        "onboard_time": 1672379549,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619786,
+        "num": 598025,
+        "word": "江歌案当事人5个事实争议",
+        "onboard_time": 1672378891,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805831,
+        "num": 580507,
+        "word": "YG新女团将1月1日出道",
+        "onboard_time": 1672381590,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559560,
+        "num": 559560,
+        "word": "卿卿日常",
+        "onboard_time": 1672380448,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 537334,
+        "num": 537334,
+        "word": "iPhone15Pro四色概念图出炉",
+        "onboard_time": 1672373129,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 460568,
+        "num": 460568,
+        "word": "刘鑫",
+        "onboard_time": 1672374570,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98917,
+        "num": 456821,
+        "word": "健康监测关注血氧很重要",
+        "onboard_time": 1672380028,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455595,
+        "num": 455595,
+        "word": "BLACKPINK或将转入YG旗下厂牌",
+        "onboard_time": 1672375291,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403976,
+        "num": 403976,
+        "word": "韩国将要求中国旅客接受两次核酸检测",
+        "onboard_time": 1672370308,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403665,
+        "num": 403665,
+        "word": "杨超越还没有和迪丽热巴加上微信",
+        "onboard_time": 1672378051,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 362584,
+        "num": 362584,
+        "word": "iKON离开YG娱乐",
+        "onboard_time": 1672367609,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350346,
+        "num": 350346,
+        "word": "专家称不要把经济低迷完全归于疫情",
+        "onboard_time": 1672375172,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 343226,
+        "num": 343226,
+        "word": "RNG疑似拖欠海外员工薪资",
+        "onboard_time": 1672380330,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 339601,
+        "num": 339601,
+        "word": "武汉三镇夺得中超冠军",
+        "onboard_time": 1672379490,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317680,
+        "num": 317680,
+        "word": "为什么年轻人不去4S店保养了",
+        "onboard_time": 1672377571,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304135,
+        "num": 304135,
+        "word": "卿卿日常见面会官宣",
+        "onboard_time": 1672377090,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301895,
+        "num": 301895,
+        "word": "女子在桥边留下孩子后跳河",
+        "onboard_time": 1672380750,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295823,
+        "num": 295823,
+        "word": "VivienneWestwood去世",
+        "onboard_time": 1672371509,
+        "rank": 25,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 284358,
+        "num": 284358,
+        "word": "86年女子与00年男子相恋",
+        "onboard_time": 1672373551,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242419,
+        "num": 242419,
+        "word": "江母诉刘鑫案二审宣判",
+        "onboard_time": 1672373310,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240194,
+        "num": 240194,
+        "word": "中国乒乓",
+        "onboard_time": 1672378891,
+        "rank": 28,
+        "category": "影视,体育"
+      },
+      {
+        "raw_hot": 237642,
+        "num": 237642,
+        "word": "转阴后为什么还是很累",
+        "onboard_time": 1672370908,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228250,
+        "num": 228250,
+        "word": "作家陈岚",
+        "onboard_time": 1672381532,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225941,
+        "num": 225941,
+        "word": "YG",
+        "onboard_time": 1672372408,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225006,
+        "num": 225006,
+        "word": "专家称在一些地方可以不戴口罩了",
+        "onboard_time": 1672356922,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209659,
+        "num": 209659,
+        "word": "朴灿烈吴世勋将举行粉丝见面会",
+        "onboard_time": 1672378290,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201583,
+        "num": 201583,
+        "word": "怎么判断自己肺部感染",
+        "onboard_time": 1672360470,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195010,
+        "num": 195010,
+        "word": "驳回刘鑫上诉维持原判",
+        "onboard_time": 1672374511,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192070,
+        "num": 192070,
+        "word": "YG还剩哪些人",
+        "onboard_time": 1672372891,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189359,
+        "num": 189359,
+        "word": "王一博新歌像阳光那样",
+        "onboard_time": 1672373251,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171741,
+        "num": 171741,
+        "word": "微博杯",
+        "onboard_time": 1672381411,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26511,
+        "num": 169582,
+        "word": "特色年货将实现同城速达",
+        "onboard_time": 1672380028,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168509,
+        "num": 168509,
+        "word": "近2万快递费给重了业务员用了",
+        "onboard_time": 1672381770,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164403,
+        "num": 164403,
+        "word": "时代少年团新歌理想之途预告海报",
+        "onboard_time": 1672378228,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157168,
+        "num": 157168,
+        "word": "陈佑希李承天从头到尾都是相互利用",
+        "onboard_time": 1672380448,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156858,
+        "num": 156858,
+        "word": "给狗狗穿得很严实的主人",
+        "onboard_time": 1672379971,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155109,
+        "num": 155109,
+        "word": "江歌",
+        "onboard_time": 1672374631,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151715,
+        "num": 151715,
+        "word": "肺部CT检查需求暴增",
+        "onboard_time": 1672363409,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148902,
+        "num": 148902,
+        "word": "eStar打call阵容有多豪华",
+        "onboard_time": 1672381649,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145178,
+        "num": 145178,
+        "word": "李承天的黑化一直是有迹可循的",
+        "onboard_time": 1672382194,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137341,
+        "num": 137341,
+        "word": "女子将家中垃圾均匀倒进电梯",
+        "onboard_time": 1672381837,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135376,
+        "num": 135376,
+        "word": "球王贝利去世",
+        "onboard_time": 1672344132,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022我国航天发射次数创历史新高#"
+    }
+  }
+}

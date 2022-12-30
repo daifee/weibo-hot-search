@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672381378571,
+  "endTime": 1672382235485,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -379,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1749386,
+      "num": 1749386,
+      "word": "江秋莲去江歌墓前读判决书",
+      "onboard_time": 1672380750,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1742312,
       "num": 1236167,
       "word": "13岁女孩被16岁男孩性侵宾馆判赔5000元",
@@ -391,6 +399,14 @@
       "num": 1741771,
       "word": "女子阳后9天洗头掉发如毛线团",
       "onboard_time": 1672314270,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1708237,
+      "num": 1636098,
+      "word": "二审认定刘鑫案发时锁闭房门",
+      "onboard_time": 1672378712,
       "rank": 3,
       "category": "社会新闻"
     },
@@ -464,14 +480,6 @@
       "word": "女子发烧5天崩溃大哭狗子担心踱步",
       "onboard_time": 1672112311,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1636098,
-      "num": 1636098,
-      "word": "二审认定刘鑫案发时锁闭房门",
-      "onboard_time": 1672378712,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -737,6 +745,14 @@
       "onboard_time": 1672108048,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1350225,
+      "num": 1350225,
+      "word": "难听",
+      "onboard_time": 1672380572,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 1316527,
@@ -1555,14 +1571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 834229,
-      "num": 834229,
-      "word": "难听",
-      "onboard_time": 1672380572,
-      "rank": 5,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 832589,
       "num": 832589,
       "word": "阳性人员原则上不带病上岗",
@@ -1657,6 +1665,14 @@
       "onboard_time": 1672290391,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 805831,
+      "num": 580507,
+      "word": "YG新女团将1月1日出道",
+      "onboard_time": 1672381590,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 803582,
@@ -2444,7 +2460,7 @@
     },
     {
       "raw_hot": 627825,
-      "num": 467957,
+      "num": 598025,
       "word": "江歌案当事人5个事实争议",
       "onboard_time": 1672378891,
       "rank": 11,
@@ -2481,6 +2497,14 @@
       "onboard_time": 1672150415,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 616008,
+      "num": 616008,
+      "word": "男子阳后连咳10多天把肋骨咳断",
+      "onboard_time": 1672379549,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 614233,
@@ -2795,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559560,
+      "num": 559560,
+      "word": "卿卿日常",
+      "onboard_time": 1672380448,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 559554,
       "num": 478509,
       "word": "鹿晗亮相十一年了",
@@ -3033,14 +3065,6 @@
       "onboard_time": 1672373851,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 524375,
-      "num": 524375,
-      "word": "男子阳后连咳10多天把肋骨咳断",
-      "onboard_time": 1672379549,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 524355,
@@ -4043,14 +4067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 401693,
-      "num": 401693,
-      "word": "江秋莲去江歌墓前读判决书",
-      "onboard_time": 1672380750,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 401335,
       "num": 401335,
       "word": "神里绫人",
@@ -4547,14 +4563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358975,
-      "num": 358975,
-      "word": "卿卿日常",
-      "onboard_time": 1672380448,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 358767,
       "num": 358767,
       "word": "多地感染高峰将至",
@@ -4809,6 +4817,14 @@
       "onboard_time": 1672012763,
       "rank": 11,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 343226,
+      "num": 343226,
+      "word": "RNG疑似拖欠海外员工薪资",
+      "onboard_time": 1672380330,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 342727,
@@ -5307,14 +5323,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 312420,
-      "num": 312420,
-      "word": "RNG疑似拖欠海外员工薪资",
-      "onboard_time": 1672380330,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 312409,
       "num": 263679,
       "word": "李会泽 选秀",
@@ -5449,6 +5457,14 @@
       "onboard_time": 1672211608,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 301895,
+      "num": 301895,
+      "word": "女子在桥边留下孩子后跳河",
+      "onboard_time": 1672380750,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300787,
@@ -6819,6 +6835,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 228250,
+      "num": 228250,
+      "word": "作家陈岚",
+      "onboard_time": 1672381532,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227831,
       "num": 227831,
       "word": "阳了补维C来得及吗",
@@ -8139,14 +8163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186067,
-      "num": 186067,
-      "word": "女子在桥边留下孩子后跳河",
-      "onboard_time": 1672380750,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185648,
       "num": 185648,
       "word": "苹果拟砍iPhone供应链价格以保获利",
@@ -8675,6 +8691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171741,
+      "num": 171741,
+      "word": "微博杯",
+      "onboard_time": 1672381411,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171541,
       "num": 171541,
       "word": "再见爱人",
@@ -8793,6 +8817,14 @@
       "onboard_time": 1672273049,
       "rank": 35,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 168509,
+      "num": 168509,
+      "word": "近2万快递费给重了业务员用了",
+      "onboard_time": 1672381770,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168269,
@@ -9275,6 +9307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156858,
+      "num": 156858,
+      "word": "给狗狗穿得很严实的主人",
+      "onboard_time": 1672379971,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156753,
       "num": 156753,
       "word": "北京印发新冠感染者恢复期健康管理指引",
@@ -9619,6 +9659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148902,
+      "num": 148902,
+      "word": "eStar打call阵容有多豪华",
+      "onboard_time": 1672381649,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148869,
       "num": 148869,
       "word": "WB遗憾止步四强",
@@ -9785,6 +9833,14 @@
       "onboard_time": 1672224451,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145178,
+      "num": 145178,
+      "word": "李承天的黑化一直是有迹可循的",
+      "onboard_time": 1672382194,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 145105,
@@ -10152,6 +10208,14 @@
       "word": "2022十大惊艳名场面",
       "onboard_time": 1672222470,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137341,
+      "num": 137341,
+      "word": "女子将家中垃圾均匀倒进电梯",
+      "onboard_time": 1672381837,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -10641,14 +10705,6 @@
       "onboard_time": 1672333819,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121722,
-      "num": 121722,
-      "word": "给狗狗穿得很严实的主人",
-      "onboard_time": 1672379971,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 120940,
@@ -11171,6 +11227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98917,
+      "num": 456821,
+      "word": "健康监测关注血氧很重要",
+      "onboard_time": 1672380028,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98693,
       "num": 98693,
       "word": "毛主席诞辰129周年",
@@ -11435,14 +11499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69133,
-      "num": 430152,
-      "word": "健康监测关注血氧很重要",
-      "onboard_time": 1672380028,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69132,
       "num": 477075,
       "word": "淘宝限时开启商品定制",
@@ -11683,8 +11739,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21970,
-      "num": 157877,
+      "raw_hot": 26511,
+      "num": 169582,
       "word": "特色年货将实现同城速达",
       "onboard_time": 1672380028,
       "rank": 39,

@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672381378571,
+  "endTime": 1672382235485,
   "band_list": [
     {
       "raw_hot": 2526052,
@@ -51,6 +51,22 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 1749386,
+      "num": 1749386,
+      "word": "江秋莲去江歌墓前读判决书",
+      "onboard_time": 1672380750,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1708237,
+      "num": 1636098,
+      "word": "二审认定刘鑫案发时锁闭房门",
+      "onboard_time": 1672378712,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1654909,
       "num": 1654909,
       "word": "老人临终前4小时给感冒女儿针灸",
@@ -64,14 +80,6 @@
       "word": "专家称在一些地方可以不戴口罩了",
       "onboard_time": 1672356922,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1636098,
-      "num": 1636098,
-      "word": "二审认定刘鑫案发时锁闭房门",
-      "onboard_time": 1672378712,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -89,6 +97,14 @@
       "onboard_time": 1672328067,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1350225,
+      "num": 1350225,
+      "word": "难听",
+      "onboard_time": 1672380572,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 1245110,
@@ -171,12 +187,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 834229,
-      "num": 834229,
-      "word": "难听",
-      "onboard_time": 1672380572,
-      "rank": 5,
-      "category": "音乐"
+      "raw_hot": 805831,
+      "num": 580507,
+      "word": "YG新女团将1月1日出道",
+      "onboard_time": 1672381590,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 781018,
@@ -284,10 +300,18 @@
     },
     {
       "raw_hot": 627825,
-      "num": 467957,
+      "num": 598025,
       "word": "江歌案当事人5个事实争议",
       "onboard_time": 1672378891,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616008,
+      "num": 616008,
+      "word": "男子阳后连咳10多天把肋骨咳断",
+      "onboard_time": 1672379549,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -347,6 +371,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 559560,
+      "num": 559560,
+      "word": "卿卿日常",
+      "onboard_time": 1672380448,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 540847,
       "num": 540847,
       "word": "梅西悼念贝利",
@@ -361,14 +393,6 @@
       "onboard_time": 1672373851,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 524375,
-      "num": 524375,
-      "word": "男子阳后连咳10多天把肋骨咳断",
-      "onboard_time": 1672379549,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 524355,
@@ -467,14 +491,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 401693,
-      "num": 401693,
-      "word": "江秋莲去江歌墓前读判决书",
-      "onboard_time": 1672380750,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 397474,
       "num": 397474,
       "word": "陈飞宇张子枫新作告别2022",
@@ -547,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358975,
-      "num": 358975,
-      "word": "卿卿日常",
-      "onboard_time": 1672380448,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 355085,
       "num": 355085,
       "word": "马拉多纳 天堂里一起踢球",
@@ -611,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343226,
+      "num": 343226,
+      "word": "RNG疑似拖欠海外员工薪资",
+      "onboard_time": 1672380330,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 341138,
       "num": 341138,
       "word": "血氧指标低于90就是肺感染重症体现",
@@ -659,14 +675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 312420,
-      "num": 312420,
-      "word": "RNG疑似拖欠海外员工薪资",
-      "onboard_time": 1672380330,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 310977,
       "num": 310977,
       "word": "徐艺洋叫刘些宁宝贝",
@@ -681,6 +689,14 @@
       "onboard_time": 1672374331,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 301895,
+      "num": 301895,
+      "word": "女子在桥边留下孩子后跳河",
+      "onboard_time": 1672380750,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284208,
@@ -809,6 +825,14 @@
       "onboard_time": 1672322973,
       "rank": 20,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 228250,
+      "num": 228250,
+      "word": "作家陈岚",
+      "onboard_time": 1672381532,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226599,
@@ -971,14 +995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186067,
-      "num": 186067,
-      "word": "女子在桥边留下孩子后跳河",
-      "onboard_time": 1672380750,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185450,
       "num": 185450,
       "word": "像阳光那样",
@@ -1067,6 +1083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171741,
+      "num": 171741,
+      "word": "微博杯",
+      "onboard_time": 1672381411,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171061,
       "num": 171061,
       "word": "转阴后宜摄入优质蛋白不宜油腻",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1672363588,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168509,
+      "num": 168509,
+      "word": "近2万快递费给重了业务员用了",
+      "onboard_time": 1672381770,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165658,
@@ -1171,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156858,
+      "num": 156858,
+      "word": "给狗狗穿得很严实的主人",
+      "onboard_time": 1672379971,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156432,
       "num": 156432,
       "word": "囤的中药过期了还能吃吗",
@@ -1211,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148902,
+      "num": 148902,
+      "word": "eStar打call阵容有多豪华",
+      "onboard_time": 1672381649,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147311,
       "num": 147311,
       "word": "姆巴佩悼念贝利",
@@ -1225,6 +1273,14 @@
       "onboard_time": 1672327948,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145178,
+      "num": 145178,
+      "word": "李承天的黑化一直是有迹可循的",
+      "onboard_time": 1672382194,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 138839,
@@ -1264,6 +1320,14 @@
       "word": "妈妈得知女儿要回家无数次张望",
       "onboard_time": 1672377031,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137341,
+      "num": 137341,
+      "word": "女子将家中垃圾均匀倒进电梯",
+      "onboard_time": 1672381837,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1331,14 +1395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121722,
-      "num": 121722,
-      "word": "给狗狗穿得很严实的主人",
-      "onboard_time": 1672379971,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 121379,
       "num": 121379,
       "word": "白猫掉下水道变黑猫主人边哭边洗",
@@ -1401,6 +1457,14 @@
       "onboard_time": 1672312893,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98917,
+      "num": 456821,
+      "word": "健康监测关注血氧很重要",
+      "onboard_time": 1672380028,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97661,
@@ -1515,14 +1579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69133,
-      "num": 430152,
-      "word": "健康监测关注血氧很重要",
-      "onboard_time": 1672380028,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66009,
       "num": 66009,
       "word": "猫咪为了揽客有多卑微",
@@ -1563,8 +1619,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 21970,
-      "num": 157877,
+      "raw_hot": 26511,
+      "num": 169582,
       "word": "特色年货将实现同城速达",
       "onboard_time": 1672380028,
       "rank": 39,
