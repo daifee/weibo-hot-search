@@ -1,6 +1,6 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672421607892,
+  "endTime": 1672424491138,
   "band_list": [
     {
       "raw_hot": 1653289,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119853,
+      "num": 102216,
+      "word": "湖南卫视跨年晚会舞美设计",
+      "onboard_time": 1672421896,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116711,
       "num": 116711,
       "word": "EDG新阵容首战RNG",
@@ -443,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 84649,
+      "num": 84649,
+      "word": "情侣之间跨年仪式感重要吗",
+      "onboard_time": 1672421059,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 79655,
       "num": 92189,
       "word": "当你阳了你的白细胞有多努力",
@@ -459,12 +475,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 43028,
-      "num": 43028,
-      "word": "情侣之间跨年仪式感重要吗",
-      "onboard_time": 1672421059,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 50048,
+      "num": 37609,
+      "word": "张彬彬说自己新冠已经痊愈",
+      "onboard_time": 1672413331,
+      "rank": 40,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 48465,
+      "num": 48465,
+      "word": "这是把藕的灵魂给切出来了吗",
+      "onboard_time": 1672421657,
+      "rank": 35,
+      "category": "幽默,美食"
     }
   ],
   "hotgov_list": [
