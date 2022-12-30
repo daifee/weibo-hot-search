@@ -1,6 +1,6 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672418459766,
+  "endTime": 1672420542551,
   "band_list": [
     {
       "raw_hot": 1653289,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267255,
+      "num": 267255,
+      "word": "趴着睡能促进新冠感染恢复",
+      "onboard_time": 1672414769,
+      "rank": 21,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 258387,
       "num": 258387,
       "word": "花海世冠FMVP",
@@ -153,14 +161,6 @@
       "onboard_time": 1672413808,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 231019,
-      "num": 231019,
-      "word": "趴着睡能促进新冠感染恢复",
-      "onboard_time": 1672414769,
-      "rank": 21,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 227567,
@@ -187,6 +187,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 202330,
+      "num": 202330,
+      "word": "什么情况才会判断为新冠死亡",
+      "onboard_time": 1672415786,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199741,
       "num": 199741,
       "word": "张文宏预测春节感染率可能达到80%",
@@ -203,12 +211,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194700,
+      "num": 194700,
+      "word": "代旭发长文还原回来的女儿创作细节",
+      "onboard_time": 1672420339,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190973,
+      "num": 159422,
+      "word": "明星腊八营业照",
+      "onboard_time": 1672420400,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189347,
+      "num": 189347,
+      "word": "6岁男孩被骂后点燃厨房秸秆",
+      "onboard_time": 1672417345,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184353,
       "num": 184353,
       "word": "周深听见下雨的声音舞台",
       "onboard_time": 1672417462,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178981,
+      "num": 156811,
+      "word": "肖战腊八雪景大片",
+      "onboard_time": 1672420040,
+      "rank": 21,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 175381,
@@ -225,14 +265,6 @@
       "onboard_time": 1672413150,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 173855,
-      "num": 173855,
-      "word": "什么情况才会判断为新冠死亡",
-      "onboard_time": 1672415786,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170227,
@@ -363,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113263,
+      "num": 92934,
+      "word": "方文山说被周深的歌声穿透了",
+      "onboard_time": 1672405649,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108032,
       "num": 108032,
       "word": "转阴后依然咳嗽咋回事",
@@ -377,14 +417,6 @@
       "onboard_time": 1672411352,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 102207,
-      "num": 102207,
-      "word": "6岁男孩被骂后点燃厨房秸秆",
-      "onboard_time": 1672417345,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93304,
@@ -417,11 +449,22 @@
       "onboard_time": 1672411532,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76792,
+      "num": 76792,
+      "word": "和2022告别",
+      "onboard_time": 1672418843,
+      "rank": 38,
+      "category": "社会新闻,情感"
     }
   ],
   "hotgov_list": [
     {
       "word": "#2022年国内十大新闻#"
+    },
+    {
+      "word": "#总书记的2022相册#"
     }
   ]
 }
