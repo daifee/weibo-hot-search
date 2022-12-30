@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672406513530,
+  "endTime": 1672407197308,
   "band_list": [
     {
       "raw_hot": 3635696,
@@ -68,15 +68,15 @@
     },
     {
       "raw_hot": 1842191,
-      "num": 416891,
+      "num": 456624,
       "word": "华晨宇说杨幂左立送的蛋糕太丑了",
       "onboard_time": 1672405471,
       "rank": 10,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1748244,
-      "num": 1748244,
+      "raw_hot": 1817917,
+      "num": 1817917,
       "word": "回来的女儿大结局回血",
       "onboard_time": 1672402531,
       "rank": 5,
@@ -195,6 +195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1139133,
+      "num": 1139133,
+      "word": "方文山说被周深的歌声穿透了",
+      "onboard_time": 1672405649,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1127921,
+      "num": 1127921,
+      "word": "禾野",
+      "onboard_time": 1672404208,
+      "rank": 4,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 1082683,
       "num": 1082683,
       "word": "怎么判断自己肺部感染",
@@ -211,12 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1055486,
-      "num": 1055486,
-      "word": "禾野",
-      "onboard_time": 1672404208,
-      "rank": 4,
-      "category": "动漫,网红"
+      "raw_hot": 1070964,
+      "num": 1070964,
+      "word": "四川已知最长寿老人去世",
+      "onboard_time": 1672403611,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1015696,
@@ -251,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 992253,
-      "num": 992253,
-      "word": "四川已知最长寿老人去世",
-      "onboard_time": 1672403611,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 985515,
       "num": 985515,
       "word": "张雪峰说考完研笔记别扔了",
@@ -273,6 +281,14 @@
       "onboard_time": 1672373129,
       "rank": 12,
       "category": "科技"
+    },
+    {
+      "raw_hot": 934914,
+      "num": 934914,
+      "word": "台湾女生来河南工作以后",
+      "onboard_time": 1672402110,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 917042,
@@ -299,14 +315,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 864500,
-      "num": 864500,
-      "word": "台湾女生来河南工作以后",
-      "onboard_time": 1672402110,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 860618,
       "num": 860618,
       "word": "巴西政府宣布举行三天哀悼",
@@ -329,14 +337,6 @@
       "onboard_time": 1672381590,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 818618,
-      "num": 818618,
-      "word": "方文山说被周深的歌声穿透了",
-      "onboard_time": 1672405649,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 781018,
@@ -915,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369084,
+      "num": 315968,
+      "word": "肖步活了终于同居了",
+      "onboard_time": 1672401812,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 367907,
       "num": 367907,
       "word": "女孩给礼物换电池发现内藏告白纸条",
@@ -953,14 +961,6 @@
       "onboard_time": 1672384052,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 361642,
-      "num": 315968,
-      "word": "肖步活了终于同居了",
-      "onboard_time": 1672401812,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 361557,
@@ -1131,6 +1131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 313924,
+      "num": 313924,
+      "word": "GK对战eStar",
+      "onboard_time": 1672394971,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 313043,
       "num": 313043,
       "word": "女子将家中垃圾均匀倒进电梯",
@@ -1251,6 +1259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280714,
+      "num": 280714,
+      "word": "旗舰店买iPhone取消订单不给退款",
+      "onboard_time": 1672404149,
+      "rank": 49,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 277688,
       "num": 277688,
       "word": "肖战西装背头造型",
@@ -1265,14 +1281,6 @@
       "onboard_time": 1672333459,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 274121,
-      "num": 274121,
-      "word": "GK对战eStar",
-      "onboard_time": 1672394971,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 272567,
@@ -1313,6 +1321,14 @@
       "onboard_time": 1672318291,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260503,
+      "num": 178967,
+      "word": "王鹤棣陈钰琪体型差",
+      "onboard_time": 1672406851,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 258250,
@@ -1427,14 +1443,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 234739,
-      "num": 234739,
-      "word": "旗舰店买iPhone取消订单不给退款",
-      "onboard_time": 1672404149,
-      "rank": 49,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 234326,
       "num": 219131,
       "word": "时代少年团新歌理想之途预告海报",
@@ -1443,12 +1451,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 234224,
+      "num": 172007,
+      "word": "肖铎喝醉酒紧抱步音楼",
+      "onboard_time": 1672406251,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234176,
       "num": 231554,
       "word": "鹿晗绿毛衣造型五宫格",
       "onboard_time": 1672383331,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233330,
+      "num": 233330,
+      "word": "转阴后依然咳嗽咋回事",
+      "onboard_time": 1672405709,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232911,
@@ -1507,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221409,
+      "num": 1462145,
+      "word": "恢复期要注意什么",
+      "onboard_time": 1672404508,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221157,
       "num": 221157,
       "word": "C罗悼念贝利",
@@ -1539,12 +1571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214195,
-      "num": 1459690,
-      "word": "恢复期要注意什么",
-      "onboard_time": 1672404508,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 214191,
+      "num": 173932,
+      "word": "刘宪华一人乐队唱明明就",
+      "onboard_time": 1672407091,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 213155,
@@ -1673,14 +1705,6 @@
       "onboard_time": 1672367609,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195112,
-      "num": 172007,
-      "word": "肖铎喝醉酒紧抱步音楼",
-      "onboard_time": 1672406251,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 194601,
@@ -1835,6 +1859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185154,
+      "num": 154817,
+      "word": "李文文消失的真相",
+      "onboard_time": 1672407150,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184478,
       "num": 184478,
       "word": "铠银白咏叹调皮肤",
@@ -1937,14 +1969,6 @@
       "onboard_time": 1672388008,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175097,
-      "num": 175097,
-      "word": "转阴后依然咳嗽咋回事",
-      "onboard_time": 1672405709,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174138,
@@ -2203,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155546,
+      "num": 155546,
+      "word": "流浪的猫咪只能在垃圾堆过冬了",
+      "onboard_time": 1672406131,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154732,
       "num": 154732,
       "word": "注意老年人出现厌食嗜睡等症状",
@@ -2227,8 +2259,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151983,
-      "num": 151983,
+      "raw_hot": 152868,
+      "num": 152868,
       "word": "中俄两国元首举行视频会晤",
       "onboard_time": 1672403790,
       "rank": 47,
@@ -2307,14 +2339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144778,
-      "num": 144778,
-      "word": "流浪的猫咪只能在垃圾堆过冬了",
-      "onboard_time": 1672406131,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 142534,
       "num": 142534,
       "word": "腊八蒜",
@@ -2379,12 +2403,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134601,
+      "num": 134886,
+      "word": "家属回应老人临终前给女儿针灸",
+      "onboard_time": 1672406492,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134109,
       "num": 81939,
       "word": "李承天点烟送陈佑希上路",
       "onboard_time": 1672318170,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132990,
+      "num": 132990,
+      "word": "狗子挖地道被逮个正着",
+      "onboard_time": 1672406609,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 131740,
@@ -2475,14 +2515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117514,
-      "num": 134886,
-      "word": "家属回应老人临终前给女儿针灸",
-      "onboard_time": 1672406492,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116656,
       "num": 116656,
       "word": "聋哑小伙创作2幅15米长卷迎新年",
@@ -2497,6 +2529,14 @@
       "onboard_time": 1672318233,
       "rank": 42,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 116041,
+      "num": 132822,
+      "word": "世冠 开幕式",
+      "onboard_time": 1672407150,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 114095,
@@ -2727,6 +2767,9 @@
     },
     {
       "word": "#2022年国内十大新闻#"
+    },
+    {
+      "word": "#听2022中国脉动#"
     }
   ]
 }

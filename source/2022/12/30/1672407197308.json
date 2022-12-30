@@ -1,0 +1,410 @@
+{
+  "runTime": 1672407197308,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2365975,
+        "num": 2365975,
+        "word": "秦刚任外交部部长",
+        "onboard_time": 1672399951,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1817917,
+        "num": 1817917,
+        "word": "回来的女儿大结局回血",
+        "onboard_time": 1672402531,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221409,
+        "num": 1462145,
+        "word": "恢复期要注意什么",
+        "onboard_time": 1672404508,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1139133,
+        "num": 1139133,
+        "word": "方文山说被周深的歌声穿透了",
+        "onboard_time": 1672405649,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1127921,
+        "num": 1127921,
+        "word": "禾野",
+        "onboard_time": 1672404208,
+        "rank": 4,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 1070964,
+        "num": 1070964,
+        "word": "四川已知最长寿老人去世",
+        "onboard_time": 1672403611,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934914,
+        "num": 934914,
+        "word": "台湾女生来河南工作以后",
+        "onboard_time": 1672402110,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 841233,
+        "num": 841233,
+        "word": "景向谁依",
+        "onboard_time": 1672401628,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 745420,
+        "num": 745420,
+        "word": "刘鑫需赔偿江母69万余元",
+        "onboard_time": 1672382733,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470026,
+        "num": 470026,
+        "word": "张文宏预测春节感染率可能达到80%",
+        "onboard_time": 1672392447,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1753798,
+        "num": 456624,
+        "word": "华晨宇说杨幂左立送的蛋糕太丑了",
+        "onboard_time": 1672405471,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 406946,
+        "num": 406946,
+        "word": "谁能想到杨丽萍快65岁了",
+        "onboard_time": 1672404690,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369944,
+        "num": 369944,
+        "word": "吉克隽逸穿15厘米高跟鞋2米披风唱歌",
+        "onboard_time": 1672403372,
+        "rank": 12,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 313924,
+        "num": 313924,
+        "word": "GK对战eStar",
+        "onboard_time": 1672394971,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303011,
+        "num": 303011,
+        "word": "张雪峰说考完研笔记别扔了",
+        "onboard_time": 1672399588,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 302757,
+        "num": 302757,
+        "word": "孕妇送多余退烧药被回赠草莓答谢",
+        "onboard_time": 1672402229,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286251,
+        "num": 286251,
+        "word": "EDG新阵容首战RNG",
+        "onboard_time": 1672401150,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280714,
+        "num": 280714,
+        "word": "旗舰店买iPhone取消订单不给退款",
+        "onboard_time": 1672404149,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 271360,
+        "num": 271360,
+        "word": "男子感染新冠后疲劳工作诱发心肌炎",
+        "onboard_time": 1672389150,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253852,
+        "num": 253852,
+        "word": "女生阳后鼻塞擤鼻涕结果眼角冒泡",
+        "onboard_time": 1672390109,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369084,
+        "num": 249826,
+        "word": "肖步活了终于同居了",
+        "onboard_time": 1672401812,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342237,
+        "num": 244658,
+        "word": "财阀家的小儿子编剧有毒",
+        "onboard_time": 1672402051,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334536,
+        "num": 244401,
+        "word": "刘亦菲首部现代剧来了",
+        "onboard_time": 1672386873,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237851,
+        "num": 237851,
+        "word": "张文宏称易感人群新春是个坎儿",
+        "onboard_time": 1672387411,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235695,
+        "num": 235695,
+        "word": "mbti",
+        "onboard_time": 1672402891,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233330,
+        "num": 233330,
+        "word": "转阴后依然咳嗽咋回事",
+        "onboard_time": 1672405709,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228808,
+        "num": 228808,
+        "word": "铠三形态荣耀典藏皮肤",
+        "onboard_time": 1672399711,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226667,
+        "num": 226667,
+        "word": "马龙直播",
+        "onboard_time": 1672400009,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194184,
+        "num": 194184,
+        "word": "久诚怎么了",
+        "onboard_time": 1672399170,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189629,
+        "num": 189629,
+        "word": "王晓萍任人社部部长",
+        "onboard_time": 1672403130,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 296418,
+        "num": 188320,
+        "word": "回来的女儿",
+        "onboard_time": 1672400548,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260503,
+        "num": 178967,
+        "word": "王鹤棣陈钰琪体型差",
+        "onboard_time": 1672406851,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214191,
+        "num": 173932,
+        "word": "刘宪华一人乐队唱明明就",
+        "onboard_time": 1672407091,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234224,
+        "num": 168937,
+        "word": "肖铎喝醉酒紧抱步音楼",
+        "onboard_time": 1672406251,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167341,
+        "num": 167341,
+        "word": "泰国夜市才是泰国的灵魂所在",
+        "onboard_time": 1672397012,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 164018,
+        "num": 164018,
+        "word": "探访发现部分乡村老人不知新冠",
+        "onboard_time": 1672393829,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162417,
+        "num": 162417,
+        "word": "爸爸将宝宝塞衣服里带去医院",
+        "onboard_time": 1672395209,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159990,
+        "num": 159990,
+        "word": "新冠康复期13个要点",
+        "onboard_time": 1672401568,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156051,
+        "num": 156051,
+        "word": "中国有可能实现人类经济史上的奇迹",
+        "onboard_time": 1672388970,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155546,
+        "num": 155546,
+        "word": "流浪的猫咪只能在垃圾堆过冬了",
+        "onboard_time": 1672406131,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193565,
+        "num": 155450,
+        "word": "肖铎为救步音楼扔掉等活",
+        "onboard_time": 1672403671,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191087,
+        "num": 154867,
+        "word": "时代少年团的MBTI测试",
+        "onboard_time": 1672400909,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185154,
+        "num": 154817,
+        "word": "李文文消失的真相",
+        "onboard_time": 1672407150,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154190,
+        "num": 154190,
+        "word": "男孩报警求助称父亲住院无人照顾自己",
+        "onboard_time": 1672398871,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152868,
+        "num": 152868,
+        "word": "中俄两国元首举行视频会晤",
+        "onboard_time": 1672403790,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 138143,
+        "num": 138143,
+        "word": "铠银白咏叹调皮肤",
+        "onboard_time": 1672405471,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134601,
+        "num": 134601,
+        "word": "家属回应老人临终前给女儿针灸",
+        "onboard_time": 1672406492,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132990,
+        "num": 132990,
+        "word": "狗子挖地道被逮个正着",
+        "onboard_time": 1672406609,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129111,
+        "num": 132914,
+        "word": "女子家中停水5天300个电话打崩溃",
+        "onboard_time": 1672393950,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116041,
+        "num": 132822,
+        "word": "世冠 开幕式",
+        "onboard_time": 1672407150,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#听2022中国脉动#"
+    }
+  }
+}
