@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/26 00:24:02 ~ 2022/12/31 05:15:09
+本榜单时间：2022/12/26 00:24:02 ~ 2022/12/31 05:33:36
 </p>
 </blockquote>
 <p>
@@ -9867,6 +9867,12 @@ GK对战WB（热度：73055）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%93%E4%BA%86%E7%96%AB%E8%8B%97%E8%BF%98%E6%84%9F%E6%9F%93%23" target="weibo">
+为什么打了疫苗还感染（热度：64906）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E9%AB%98%E8%83%BD%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD%23" target="weibo">
 微博年度高能游戏主播（热度：64844）
 </a>
@@ -9953,12 +9959,6 @@ GK对战WB（热度：73055）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%82%AB%E6%88%90%E4%B8%BA2022%E5%B9%B4%E6%9C%80%E9%AB%98%E9%A2%91%E6%96%87%E5%AD%97%23" target="weibo">
 炫成为2022年最高频文字（热度：43977）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%93%E4%BA%86%E7%96%AB%E8%8B%97%E8%BF%98%E6%84%9F%E6%9F%93%23" target="weibo">
-为什么打了疫苗还感染（热度：43073）
 </a>
 </li>
 

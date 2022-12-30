@@ -1,6 +1,6 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672434909795,
+  "endTime": 1672436016010,
   "band_list": [
     {
       "raw_hot": 1653289,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64906,
+      "num": 41898,
+      "word": "为什么打了疫苗还感染",
+      "onboard_time": 1672433232,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50048,
       "num": 37609,
       "word": "张彬彬说自己新冠已经痊愈",
@@ -513,14 +521,6 @@
       "onboard_time": 1672421657,
       "rank": 35,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 43073,
-      "num": 19029,
-      "word": "为什么打了疫苗还感染",
-      "onboard_time": 1672433232,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25785,
