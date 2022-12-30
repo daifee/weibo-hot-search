@@ -1,0 +1,410 @@
+{
+  "runTime": 1672367956566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1761708,
+        "num": 1761708,
+        "word": "球王贝利去世",
+        "onboard_time": 1672344132,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 843293,
+        "num": 843293,
+        "word": "怎么判断自己肺部感染",
+        "onboard_time": 1672360470,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67345,
+        "num": 793805,
+        "word": "恢复期9类健康问题如何应对",
+        "onboard_time": 1672328548,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1069738,
+        "num": 779924,
+        "word": "专家称在一些地方可以不戴口罩了",
+        "onboard_time": 1672356922,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756112,
+        "num": 756112,
+        "word": "80后宝妈辞职做沙滩代写月入过万",
+        "onboard_time": 1672363292,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501733,
+        "num": 501733,
+        "word": "成都百岁网红奶奶去世",
+        "onboard_time": 1672327588,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484963,
+        "num": 484963,
+        "word": "专家称第二波疫情风暴会很低",
+        "onboard_time": 1672328067,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448090,
+        "num": 448090,
+        "word": "女子放生2.5万斤外来物种鲇鱼被起诉",
+        "onboard_time": 1672355477,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433390,
+        "num": 433390,
+        "word": "易烊千玺VOGUE二月封面预告视频",
+        "onboard_time": 1672367308,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 428224,
+        "num": 428224,
+        "word": "巴西政府宣布举行三天哀悼",
+        "onboard_time": 1672359268,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1851430,
+        "num": 426163,
+        "word": "西太后去世",
+        "onboard_time": 1672365628,
+        "rank": 10,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 565642,
+        "num": 425825,
+        "word": "男子越狱29年被抓时在学校当保安",
+        "onboard_time": 1672366528,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548247,
+        "num": 423112,
+        "word": "iKON离开YG娱乐",
+        "onboard_time": 1672367609,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 900144,
+        "num": 421191,
+        "word": "核酸采样亭被挂二手平台售卖",
+        "onboard_time": 1672358426,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547740,
+        "num": 418291,
+        "word": "宋雨琦直播回应田小娟身体状况",
+        "onboard_time": 1672357885,
+        "rank": 14,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 440166,
+        "num": 417308,
+        "word": "贝利微博讣告",
+        "onboard_time": 1672366648,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415491,
+        "num": 415491,
+        "word": "肺部CT检查需求暴增",
+        "onboard_time": 1672363409,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406677,
+        "num": 406677,
+        "word": "医生说杜海涛减肥反弹几率很高",
+        "onboard_time": 1672322914,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370889,
+        "num": 370889,
+        "word": "王俊凯江苏卫视跨年彩排路透视频",
+        "onboard_time": 1672365928,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367907,
+        "num": 367907,
+        "word": "女孩给礼物换电池发现内藏告白纸条",
+        "onboard_time": 1672366168,
+        "rank": 19,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 356446,
+        "num": 356446,
+        "word": "2022年有两个腊八",
+        "onboard_time": 1672360710,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323641,
+        "num": 323641,
+        "word": "女子阳后9天洗头掉发如毛线团",
+        "onboard_time": 1672314270,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319988,
+        "num": 319988,
+        "word": "腊八",
+        "onboard_time": 1672356080,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316237,
+        "num": 316237,
+        "word": "一外籍男教师被指曾性侵女学生",
+        "onboard_time": 1672357945,
+        "rank": 23,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 292465,
+        "num": 292465,
+        "word": "江苏卫视跨年全阵容",
+        "onboard_time": 1672364667,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278601,
+        "num": 278601,
+        "word": "梅西悼念贝利",
+        "onboard_time": 1672358005,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268504,
+        "num": 268504,
+        "word": "屠呦呦92岁生日快乐",
+        "onboard_time": 1672366108,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262050,
+        "num": 262050,
+        "word": "今年最爱的电子榨菜",
+        "onboard_time": 1672333459,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250678,
+        "num": 250678,
+        "word": "王鹤棣说自己没干过什么偶像干的事",
+        "onboard_time": 1672360590,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233422,
+        "num": 233422,
+        "word": "福建一股民赚1.4亿被罚没5.7亿",
+        "onboard_time": 1672329387,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 209573,
+        "num": 209573,
+        "word": "咳嗽其实是人体的一种保护机制",
+        "onboard_time": 1672367004,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187127,
+        "num": 187127,
+        "word": "李晨说自己是三开门冰箱",
+        "onboard_time": 1672363892,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187099,
+        "num": 187099,
+        "word": "贵州茅台预计今年净利润626亿元",
+        "onboard_time": 1672364787,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179557,
+        "num": 179557,
+        "word": "中国乒乓新年新预告",
+        "onboard_time": 1672367549,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175990,
+        "num": 175990,
+        "word": "11位外交官中文安利家乡年货",
+        "onboard_time": 1672367609,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174888,
+        "num": 174888,
+        "word": "卫健委回应中国是否放开太快",
+        "onboard_time": 1672327290,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170984,
+        "num": 170984,
+        "word": "小秀是被李文卓所杀",
+        "onboard_time": 1672343712,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167804,
+        "num": 167804,
+        "word": "玫瑰骑士今晚开播",
+        "onboard_time": 1672367726,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169924,
+        "num": 167505,
+        "word": "廖穗芳救了陈佑希",
+        "onboard_time": 1672360233,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166675,
+        "num": 166675,
+        "word": "马拉多纳 天堂里一起踢球",
+        "onboard_time": 1672367910,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165302,
+        "num": 165302,
+        "word": "愿天堂也有足球",
+        "onboard_time": 1672367190,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163593,
+        "num": 163593,
+        "word": "这个秀非选不可吗",
+        "onboard_time": 1672321235,
+        "rank": 41,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 160566,
+        "num": 160566,
+        "word": "水银体温计和电子体温计该选哪个",
+        "onboard_time": 1672355960,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159136,
+        "num": 159136,
+        "word": "内马尔悼念贝利",
+        "onboard_time": 1672358547,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158204,
+        "num": 158204,
+        "word": "李承天连老婆孩子都不放过",
+        "onboard_time": 1672366587,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156980,
+        "num": 156980,
+        "word": "iPhone15芯片或更注重电池续航",
+        "onboard_time": 1672366888,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 153512,
+        "num": 153512,
+        "word": "这就是古言里的倾国倾城吧",
+        "onboard_time": 1672328186,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152646,
+        "num": 152646,
+        "word": "C罗悼念贝利",
+        "onboard_time": 1672358426,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147244,
+        "num": 147244,
+        "word": "警方称足浴店打人者不管是谁都依法办案",
+        "onboard_time": 1672361968,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 145045,
+        "num": 145045,
+        "word": "血氧指标低于90就是肺感染重症体现",
+        "onboard_time": 1672322792,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022我国航天发射次数创历史新高#"
+    }
+  }
+}
