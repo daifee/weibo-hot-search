@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672374117211,
+  "endTime": 1672375010127,
   "band_list": [
     {
       "raw_hot": 2526052,
@@ -35,8 +35,8 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 1793554,
-      "num": 1793554,
+      "raw_hot": 1843089,
+      "num": 1843089,
       "word": "女子因上厕所未在工位被领导打",
       "onboard_time": 1672372047,
       "rank": 1,
@@ -48,6 +48,14 @@
       "word": "专家称在一些地方可以不戴口罩了",
       "onboard_time": 1672356922,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1565236,
+      "num": 1565236,
+      "word": "江母诉刘鑫案二审宣判",
+      "onboard_time": 1672373310,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -105,6 +113,14 @@
       "onboard_time": 1672373251,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 917225,
+      "num": 917225,
+      "word": "iPhone15Pro四色概念图出炉",
+      "onboard_time": 1672373129,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 860618,
@@ -171,6 +187,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 639992,
+      "num": 602062,
+      "word": "YG还剩哪些人",
+      "onboard_time": 1672372891,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 630560,
       "num": 630560,
       "word": "一外籍男教师被指曾性侵女学生",
@@ -193,14 +217,6 @@
       "onboard_time": 1672322914,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 617551,
-      "num": 617551,
-      "word": "江母诉刘鑫案二审宣判",
-      "onboard_time": 1672373310,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 606385,
@@ -227,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 593498,
-      "num": 593498,
-      "word": "iPhone15Pro四色概念图出炉",
-      "onboard_time": 1672373129,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
       "raw_hot": 593018,
       "num": 593018,
       "word": "官方辟谣上海浦东某小区有人焚烧遗体",
@@ -251,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 571359,
-      "num": 571359,
-      "word": "YG还剩哪些人",
-      "onboard_time": 1672372891,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 540847,
       "num": 540847,
       "word": "梅西悼念贝利",
@@ -267,8 +267,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 513575,
-      "num": 513575,
+      "raw_hot": 524391,
+      "num": 524391,
+      "word": "肖战余生请多指教登顶2022猫眼剧集热度榜",
+      "onboard_time": 1672373851,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 524355,
+      "num": 524355,
       "word": "转阴后为什么还是很累",
       "onboard_time": 1672370908,
       "rank": 44,
@@ -347,12 +355,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 405742,
+      "num": 405742,
+      "word": "86年女子与00年男子相恋",
+      "onboard_time": 1672373551,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395393,
       "num": 310967,
       "word": "孙俪为邓超新电影中国乒乓打call",
       "onboard_time": 1672373070,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 394083,
+      "num": 394083,
+      "word": "驳回刘鑫上诉维持原判",
+      "onboard_time": 1672374511,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380838,
@@ -369,14 +393,6 @@
       "onboard_time": 1672324653,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 372686,
-      "num": 303898,
-      "word": "肖战余生请多指教登顶2022猫眼剧集热度榜",
-      "onboard_time": 1672373851,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 370889,
@@ -409,6 +425,14 @@
       "onboard_time": 1672367910,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 354632,
+      "num": 354632,
+      "word": "查理苏",
+      "onboard_time": 1672373851,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 353440,
@@ -451,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330006,
+      "num": 330006,
+      "word": "江歌母亲江秋莲诉刘鑫案二审维持原判",
+      "onboard_time": 1672374511,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326767,
       "num": 326767,
       "word": "9位新冠二次感染者自述",
@@ -468,7 +500,7 @@
     },
     {
       "raw_hot": 316838,
-      "num": 228383,
+      "num": 307036,
       "word": "陈飞宇张子枫新作告别2022",
       "onboard_time": 1672373491,
       "rank": 31,
@@ -491,6 +523,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303888,
+      "num": 284981,
+      "word": "何润东说王鹤棣球场的账到片场算",
+      "onboard_time": 1672374331,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 302296,
+      "num": 302296,
+      "word": "刘鑫",
+      "onboard_time": 1672374570,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283517,
       "num": 283517,
       "word": "转阴后还在咳咳咳怎么办",
@@ -504,6 +552,22 @@
       "word": "水银体温计和电子体温计该选哪个",
       "onboard_time": 1672355960,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281021,
+      "num": 281021,
+      "word": "世冠总决赛首发名单",
+      "onboard_time": 1672373491,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 280181,
+      "num": 280181,
+      "word": "江歌",
+      "onboard_time": 1672374631,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -595,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213892,
-      "num": 213892,
-      "word": "世冠总决赛首发名单",
-      "onboard_time": 1672373491,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 213155,
       "num": 213155,
       "word": "内马尔悼念贝利",
@@ -673,14 +729,6 @@
       "onboard_time": 1672315407,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190790,
-      "num": 190790,
-      "word": "86年女子与00年男子相恋",
-      "onboard_time": 1672373551,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189352,
@@ -819,14 +867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171920,
-      "num": 171920,
-      "word": "查理苏",
-      "onboard_time": 1672373851,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 171061,
       "num": 171061,
       "word": "转阴后宜摄入优质蛋白不宜油腻",
@@ -852,7 +892,7 @@
     },
     {
       "raw_hot": 165658,
-      "num": 1190080,
+      "num": 1627214,
       "word": "2022那些温暖到泪目的瞬间",
       "onboard_time": 1672364189,
       "rank": 43,
@@ -899,20 +939,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158932,
+      "num": 158932,
+      "word": "咳嗽咳痰用什么药",
+      "onboard_time": 1672370547,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158894,
       "num": 158894,
       "word": "马拉多纳和贝利时隔2年相继离世",
       "onboard_time": 1672364548,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158031,
-      "num": 158031,
-      "word": "咳嗽咳痰用什么药",
-      "onboard_time": 1672370547,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156932,
@@ -1203,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71041,
+      "num": 205660,
+      "word": "2023脱口秀跨年",
+      "onboard_time": 1672372830,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69215,
       "num": 69215,
       "word": "这二哈的血脉压制不住",
@@ -1225,14 +1273,6 @@
       "onboard_time": 1672356140,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 55036,
-      "num": 171818,
-      "word": "2023脱口秀跨年",
-      "onboard_time": 1672372830,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48873,

@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672374117211,
+  "endTime": 1672375010127,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -2611,6 +2611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1843089,
+      "num": 1843089,
+      "word": "女子因上厕所未在工位被领导打",
+      "onboard_time": 1672372047,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1841809,
       "num": 1841809,
       "word": "想见你",
@@ -2712,14 +2720,6 @@
       "word": "布洛芬和连花清瘟能一起吃吗",
       "onboard_time": 1671080253,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1793554,
-      "num": 1793554,
-      "word": "女子因上厕所未在工位被领导打",
-      "onboard_time": 1672372047,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -3569,6 +3569,14 @@
       "onboard_time": 1671387511,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1565236,
+      "num": 1565236,
+      "word": "江母诉刘鑫案二审宣判",
+      "onboard_time": 1672373310,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1564375,
@@ -8673,6 +8681,14 @@
       "onboard_time": 1670580439,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 917225,
+      "num": 917225,
+      "word": "iPhone15Pro四色概念图出炉",
+      "onboard_time": 1672373129,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 917005,
@@ -14691,6 +14707,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 639992,
+      "num": 602062,
+      "word": "YG还剩哪些人",
+      "onboard_time": 1672372891,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 639890,
       "num": 639890,
       "word": "小胖下放",
@@ -15265,14 +15289,6 @@
       "onboard_time": 1671354749,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 617551,
-      "num": 617551,
-      "word": "江母诉刘鑫案二审宣判",
-      "onboard_time": 1672373310,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 617027,
@@ -16001,14 +16017,6 @@
       "onboard_time": 1671172410,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 593498,
-      "num": 593498,
-      "word": "iPhone15Pro四色概念图出炉",
-      "onboard_time": 1672373129,
-      "rank": 12,
-      "category": "科技"
     },
     {
       "raw_hot": 593401,
@@ -16745,14 +16753,6 @@
       "onboard_time": 1670926095,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 571359,
-      "num": 571359,
-      "word": "YG还剩哪些人",
-      "onboard_time": 1672372891,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 571323,
@@ -18579,6 +18579,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 524391,
+      "num": 524391,
+      "word": "肖战余生请多指教登顶2022猫眼剧集热度榜",
+      "onboard_time": 1672373851,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 524355,
+      "num": 524355,
+      "word": "转阴后为什么还是很累",
+      "onboard_time": 1672370908,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524345,
       "num": 524345,
       "word": "梅西加入世界杯传奇行列",
@@ -19064,14 +19080,6 @@
       "word": "喜来登称婚房太吵扣3千押金",
       "onboard_time": 1670581161,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 513575,
-      "num": 513575,
-      "word": "转阴后为什么还是很累",
-      "onboard_time": 1672370908,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -24587,6 +24595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 405742,
+      "num": 405742,
+      "word": "86年女子与00年男子相恋",
+      "onboard_time": 1672373551,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405652,
       "num": 328368,
       "word": "赵樱子做的PPT",
@@ -25369,6 +25385,14 @@
       "onboard_time": 1671206069,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 394083,
+      "num": 394083,
+      "word": "驳回刘鑫上诉维持原判",
+      "onboard_time": 1672374511,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394060,
@@ -26625,14 +26649,6 @@
       "onboard_time": 1670373729,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 372686,
-      "num": 303898,
-      "word": "肖战余生请多指教登顶2022猫眼剧集热度榜",
-      "onboard_time": 1672373851,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 372615,
@@ -27913,6 +27929,14 @@
       "onboard_time": 1671520110,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354632,
+      "num": 354632,
+      "word": "查理苏",
+      "onboard_time": 1672373851,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 354613,
@@ -29947,6 +29971,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 330006,
+      "num": 330006,
+      "word": "江歌母亲江秋莲诉刘鑫案二审维持原判",
+      "onboard_time": 1672374511,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330005,
       "num": 330005,
       "word": "警方通报女子遭泼墨捆绑殴打",
@@ -31244,7 +31276,7 @@
     },
     {
       "raw_hot": 316838,
-      "num": 228383,
+      "num": 307036,
       "word": "陈飞宇张子枫新作告别2022",
       "onboard_time": 1672373491,
       "rank": 31,
@@ -32411,6 +32443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303888,
+      "num": 284981,
+      "word": "何润东说王鹤棣球场的账到片场算",
+      "onboard_time": 1672374331,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 303771,
       "num": 1140079,
       "word": "C罗的身体极限到底有多强",
@@ -32545,6 +32585,14 @@
       "onboard_time": 1670478254,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302296,
+      "num": 302296,
+      "word": "刘鑫",
+      "onboard_time": 1672374570,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302172,
@@ -34683,6 +34731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281021,
+      "num": 281021,
+      "word": "世冠总决赛首发名单",
+      "onboard_time": 1672373491,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280965,
       "num": 280965,
       "word": "乾清宫正大光明匾被阳光点亮全程",
@@ -34817,6 +34873,14 @@
       "onboard_time": 1670857396,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280181,
+      "num": 280181,
+      "word": "江歌",
+      "onboard_time": 1672374631,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280127,
@@ -42859,14 +42923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213892,
-      "num": 213892,
-      "word": "世冠总决赛首发名单",
-      "onboard_time": 1672373491,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 213886,
       "num": 213886,
       "word": "当猫咪闻几天没洗的头",
@@ -46729,14 +46785,6 @@
       "onboard_time": 1672216293,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190790,
-      "num": 190790,
-      "word": "86年女子与00年男子相恋",
-      "onboard_time": 1672373551,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190769,
@@ -50939,14 +50987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171920,
-      "num": 171920,
-      "word": "查理苏",
-      "onboard_time": 1672373851,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 171879,
       "num": 171879,
       "word": "国漫出路在哪里",
@@ -52364,7 +52404,7 @@
     },
     {
       "raw_hot": 165658,
-      "num": 1190080,
+      "num": 1627214,
       "word": "2022那些温暖到泪目的瞬间",
       "onboard_time": 1672364189,
       "rank": 43,
@@ -53891,6 +53931,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 158932,
+      "num": 158932,
+      "word": "咳嗽咳痰用什么药",
+      "onboard_time": 1672370547,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158931,
       "num": 158931,
       "word": "天猫将推出商品单价立减无需凑单",
@@ -54137,14 +54185,6 @@
       "onboard_time": 1670216230,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 158031,
-      "num": 158031,
-      "word": "咳嗽咳痰用什么药",
-      "onboard_time": 1672370547,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158010,
@@ -67883,6 +67923,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 71041,
+      "num": 205660,
+      "word": "2023脱口秀跨年",
+      "onboard_time": 1672372830,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70999,
       "num": 70999,
       "word": "儿童孕产妇及老年人防疫注意事项",
@@ -68569,14 +68617,6 @@
       "onboard_time": 1671406285,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55036,
-      "num": 171818,
-      "word": "2023脱口秀跨年",
-      "onboard_time": 1672372830,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54809,
