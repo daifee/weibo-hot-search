@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672378428578,
+  "endTime": 1672381378571,
   "band_list": [
     {
       "raw_hot": 2526052,
@@ -51,11 +51,27 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 1654909,
+      "num": 1654909,
+      "word": "老人临终前4小时给感冒女儿针灸",
+      "onboard_time": 1672376731,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1651628,
       "num": 1651628,
       "word": "专家称在一些地方可以不戴口罩了",
       "onboard_time": 1672356922,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1636098,
+      "num": 1636098,
+      "word": "二审认定刘鑫案发时锁闭房门",
+      "onboard_time": 1672378712,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -72,14 +88,6 @@
       "word": "专家称第二波疫情风暴会很低",
       "onboard_time": 1672328067,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1269122,
-      "num": 603763,
-      "word": "老人临终前4小时给感冒女儿针灸",
-      "onboard_time": 1672376731,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -161,6 +169,14 @@
       "onboard_time": 1672369048,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 834229,
+      "num": 834229,
+      "word": "难听",
+      "onboard_time": 1672380572,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 781018,
@@ -267,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 627825,
+      "num": 467957,
+      "word": "江歌案当事人5个事实争议",
+      "onboard_time": 1672378891,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608639,
       "num": 608639,
       "word": "王一博新歌反差感",
@@ -339,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 524375,
+      "num": 524375,
+      "word": "男子阳后连咳10多天把肋骨咳断",
+      "onboard_time": 1672379549,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524355,
       "num": 524355,
       "word": "转阴后为什么还是很累",
@@ -395,6 +427,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 450719,
+      "num": 450719,
+      "word": "杨超越还没有和迪丽热巴加上微信",
+      "onboard_time": 1672378051,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 448338,
       "num": 448338,
       "word": "易烊千玺VOGUE二月封面预告视频",
@@ -427,6 +467,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 401693,
+      "num": 401693,
+      "word": "江秋莲去江歌墓前读判决书",
+      "onboard_time": 1672380750,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397474,
       "num": 397474,
       "word": "陈飞宇张子枫新作告别2022",
@@ -449,6 +497,14 @@
       "onboard_time": 1672320631,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375760,
+      "num": 375760,
+      "word": "武汉三镇夺得中超冠军",
+      "onboard_time": 1672379490,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 373040,
@@ -481,6 +537,22 @@
       "onboard_time": 1672308270,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362666,
+      "num": 362666,
+      "word": "为什么年轻人不去4S店保养了",
+      "onboard_time": 1672377571,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358975,
+      "num": 358975,
+      "word": "卿卿日常",
+      "onboard_time": 1672380448,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 355085,
@@ -521,14 +593,6 @@
       "onboard_time": 1672378290,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 345404,
-      "num": 345404,
-      "word": "杨超越还没有和迪丽热巴加上微信",
-      "onboard_time": 1672378051,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 345047,
@@ -595,6 +659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 312420,
+      "num": 312420,
+      "word": "RNG疑似拖欠海外员工薪资",
+      "onboard_time": 1672380330,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 310977,
       "num": 310977,
       "word": "徐艺洋叫刘些宁宝贝",
@@ -632,14 +704,6 @@
       "word": "水银体温计和电子体温计该选哪个",
       "onboard_time": 1672355960,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281497,
-      "num": 281497,
-      "word": "为什么年轻人不去4S店保养了",
-      "onboard_time": 1672377571,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -683,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256460,
+      "num": 256460,
+      "word": "中国乒乓",
+      "onboard_time": 1672378891,
+      "rank": 27,
+      "category": "影视,体育"
+    },
+    {
       "raw_hot": 251318,
       "num": 251318,
       "word": "撒贝宁告诉你穿羽绒服进冰柜是啥体验",
@@ -705,6 +777,14 @@
       "onboard_time": 1672368031,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242065,
+      "num": 242065,
+      "word": "如何评价王一博新歌",
+      "onboard_time": 1672378950,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 235898,
@@ -827,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192528,
+      "num": 192528,
+      "word": "陈佑希李承天从头到尾都是相互利用",
+      "onboard_time": 1672380448,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189352,
       "num": 187311,
       "word": "张艺兴公司练习生参加BoysPlanet",
@@ -881,6 +969,14 @@
       "onboard_time": 1672367726,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186067,
+      "num": 186067,
+      "word": "女子在桥边留下孩子后跳河",
+      "onboard_time": 1672380750,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185450,
@@ -996,7 +1092,7 @@
     },
     {
       "raw_hot": 165658,
-      "num": 1627214,
+      "num": 1641861,
       "word": "2022那些温暖到泪目的瞬间",
       "onboard_time": 1672364189,
       "rank": 43,
@@ -1073,6 +1169,14 @@
       "onboard_time": 1672311634,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156432,
+      "num": 156432,
+      "word": "囤的中药过期了还能吃吗",
+      "onboard_time": 1672380628,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154485,
@@ -1187,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124608,
+      "num": 124608,
+      "word": "男子用蚕丝绣出2000年前古玉佩",
+      "onboard_time": 1672381051,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123757,
       "num": 123757,
       "word": "哪个瞬间爱上了读书",
@@ -1217,6 +1329,14 @@
       "onboard_time": 1672333819,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121722,
+      "num": 121722,
+      "word": "给狗狗穿得很严实的主人",
+      "onboard_time": 1672379971,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 121379,
@@ -1395,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69133,
+      "num": 430152,
+      "word": "健康监测关注血氧很重要",
+      "onboard_time": 1672380028,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66009,
       "num": 66009,
       "word": "猫咪为了揽客有多卑微",
@@ -1433,6 +1561,14 @@
       "onboard_time": 1672334417,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 21970,
+      "num": 157877,
+      "word": "特色年货将实现同城速达",
+      "onboard_time": 1672380028,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18489,
