@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672392811925,
+  "endTime": 1672395541105,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -923,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1171814,
+      "num": 1171814,
+      "word": "刘鑫需赔偿江母69万余元",
+      "onboard_time": 1672382733,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1162660,
       "num": 1162660,
       "word": "张文宏解读为何觉得白肺变多了",
@@ -1235,6 +1243,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 973674,
+      "num": 973674,
+      "word": "女生阳后鼻塞擤鼻涕结果眼角冒泡",
+      "onboard_time": 1672390109,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 969429,
       "num": 877459,
       "word": "吴磊直播",
@@ -1384,14 +1400,6 @@
       "word": "女子阳性躺10多天头发变离子烫",
       "onboard_time": 1672122568,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 906575,
-      "num": 906575,
-      "word": "刘鑫需赔偿江母69万余元",
-      "onboard_time": 1672382733,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2035,6 +2043,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 725282,
+      "num": 725282,
+      "word": "女子家中停水5天300个电话打崩溃",
+      "onboard_time": 1672393950,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 723347,
       "num": 723347,
       "word": "刘亦菲去有风的地方哭戏",
@@ -2571,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 621778,
+      "num": 621778,
+      "word": "张文宏预测春节感染率可能达到80%",
+      "onboard_time": 1672392447,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621271,
       "num": 621271,
       "word": "Meiko国服事件队友回应",
@@ -2728,14 +2752,6 @@
       "word": "因疫情3年没回国的留学生自述",
       "onboard_time": 1672299089,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 588209,
-      "num": 588209,
-      "word": "张文宏预测春节感染率可能达到80%",
-      "onboard_time": 1672392447,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -3763,6 +3779,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 446252,
+      "num": 446252,
+      "word": "杨紫湖南卫视跨年新年祝福VCR",
+      "onboard_time": 1672393829,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 445800,
       "num": 445800,
       "word": "外交部回应台湾当局延长兵役期",
@@ -4195,6 +4219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403739,
+      "num": 403739,
+      "word": "久诚",
+      "onboard_time": 1672392990,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 403522,
       "num": 403522,
       "word": "25岁老总挪用公款打赏女主播50万",
@@ -4257,6 +4289,14 @@
       "onboard_time": 1672108827,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 398447,
+      "num": 398447,
+      "word": "女子发烧3天左耳道现血块听力暂失",
+      "onboard_time": 1672390710,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397946,
@@ -5355,6 +5395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323467,
+      "num": 323467,
+      "word": "刘宇宁坐轮椅现身医院",
+      "onboard_time": 1672394131,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323039,
       "num": 323039,
       "word": "去有风的地方是5A风景区吧",
@@ -5753,14 +5801,6 @@
       "onboard_time": 1672140454,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 297704,
-      "num": 297704,
-      "word": "女生阳后鼻塞擤鼻涕结果眼角冒泡",
-      "onboard_time": 1672390109,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297253,
@@ -6187,14 +6227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273837,
-      "num": 273837,
-      "word": "女子发烧3天左耳道现血块听力暂失",
-      "onboard_time": 1672390710,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273429,
       "num": 273429,
       "word": "范子铭",
@@ -6241,6 +6273,14 @@
       "onboard_time": 1672317092,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269953,
+      "num": 269953,
+      "word": "苹果推出AirPodsPro兔年特别款",
+      "onboard_time": 1672393707,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 269092,
@@ -7635,6 +7675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211043,
+      "num": 198972,
+      "word": "连自己的床都不放过",
+      "onboard_time": 1672394069,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 210669,
       "num": 210669,
       "word": "腰腹赘肉算是有克星了",
@@ -7729,6 +7777,14 @@
       "onboard_time": 1672219532,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205955,
+      "num": 196299,
+      "word": "探访发现部分乡村老人不知新冠",
+      "onboard_time": 1672393829,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205882,
@@ -8235,6 +8291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192987,
+      "num": 192987,
+      "word": "2023东方卫视跨年蓄力时刻",
+      "onboard_time": 1672394250,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192788,
       "num": 192788,
       "word": "宋祖儿春晚彩排",
@@ -8249,6 +8313,22 @@
       "onboard_time": 1672380448,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192426,
+      "num": 192426,
+      "word": "GK对战eStar",
+      "onboard_time": 1672394971,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 192386,
+      "num": 192386,
+      "word": "海南省预计感染率已达50%",
+      "onboard_time": 1672392212,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192353,
@@ -8403,6 +8483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188204,
+      "num": 188204,
+      "word": "这尺子有点多余了",
+      "onboard_time": 1672394609,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188023,
       "num": 144815,
       "word": "Last Christmas",
@@ -8425,6 +8513,14 @@
       "onboard_time": 1672033470,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187374,
+      "num": 187374,
+      "word": "偷吃米线被辣到嘴肿的猫咪",
+      "onboard_time": 1672394910,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 187327,
@@ -9523,6 +9619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161075,
+      "num": 161075,
+      "word": "再给孩子买个加油站吧",
+      "onboard_time": 1672394669,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160992,
       "num": 160992,
       "word": "疫情流行期间核酸应以单采单检为主",
@@ -9665,6 +9769,14 @@
       "onboard_time": 1672026390,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158326,
+      "num": 158326,
+      "word": "肖战抖落雪花视频",
+      "onboard_time": 1672392032,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 157852,
@@ -10025,6 +10137,14 @@
       "onboard_time": 1672042472,
       "rank": 43,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 149699,
+      "num": 149699,
+      "word": "爸爸将宝宝塞衣服里带去医院",
+      "onboard_time": 1672395209,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149498,
@@ -10691,6 +10811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135754,
+      "num": 135754,
+      "word": "小猫咪的睫毛也太美了",
+      "onboard_time": 1672394789,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135741,
       "num": 135741,
       "word": "王者开航新版本1月3日上线",
@@ -10897,14 +11025,6 @@
       "onboard_time": 1672309833,
       "rank": 39,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 128431,
-      "num": 136647,
-      "word": "海南省预计感染率已达50%",
-      "onboard_time": 1672392212,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127805,
