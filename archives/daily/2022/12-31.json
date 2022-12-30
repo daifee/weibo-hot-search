@@ -1,6 +1,6 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672432420737,
+  "endTime": 1672434909795,
   "band_list": [
     {
       "raw_hot": 1653289,
@@ -427,6 +427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97880,
+      "num": 44118,
+      "word": "多个平台鱼跃血氧仪涨价数倍",
+      "onboard_time": 1672429992,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93304,
       "num": 93304,
       "word": "流浪的猫咪只能在垃圾堆过冬了",
@@ -443,6 +451,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 91427,
+      "num": 91427,
+      "word": "一条plog告别2022",
+      "onboard_time": 1672433471,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84764,
       "num": 92382,
       "word": "久诚怎么了",
@@ -457,14 +473,6 @@
       "onboard_time": 1672421059,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 83544,
-      "num": 44118,
-      "word": "多个平台鱼跃血氧仪涨价数倍",
-      "onboard_time": 1672429992,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79655,
@@ -505,6 +513,14 @@
       "onboard_time": 1672421657,
       "rank": 35,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 43073,
+      "num": 19029,
+      "word": "为什么打了疫苗还感染",
+      "onboard_time": 1672433232,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25785,
