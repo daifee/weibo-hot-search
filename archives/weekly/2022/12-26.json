@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672367956566,
+  "endTime": 1672368584133,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1851430,
-      "num": 426163,
+      "num": 454994,
       "word": "西太后去世",
       "onboard_time": 1672365628,
       "rank": 10,
@@ -969,6 +969,14 @@
       "onboard_time": 1672123050,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1073678,
+      "num": 451935,
+      "word": "iKON离开YG娱乐",
+      "onboard_time": 1672367609,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1070829,
@@ -1811,6 +1819,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 747173,
+      "num": 747173,
+      "word": "男子越狱29年被抓时在学校当保安",
+      "onboard_time": 1672366528,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 744504,
       "num": 744504,
       "word": "南大发布学生举报教师事件调查通报",
@@ -2579,14 +2595,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 565642,
-      "num": 425825,
-      "word": "男子越狱29年被抓时在学校当保安",
-      "onboard_time": 1672366528,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 564975,
       "num": 564975,
       "word": "转阴后熬夜易诱发心肌损伤",
@@ -2673,14 +2681,6 @@
       "onboard_time": 1672036471,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548247,
-      "num": 423112,
-      "word": "iKON离开YG娱乐",
-      "onboard_time": 1672367609,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 546977,
@@ -3179,6 +3179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 477464,
+      "num": 450750,
+      "word": "贝利微博讣告",
+      "onboard_time": 1672366648,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 474546,
       "num": 474546,
       "word": "马斯克被曝身边充斥着马屁精",
@@ -3315,6 +3323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465508,
+      "num": 465508,
+      "word": "肺部CT检查需求暴增",
+      "onboard_time": 1672363409,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463159,
       "num": 463159,
       "word": "2022年度十大歌曲",
@@ -3369,6 +3385,14 @@
       "onboard_time": 1672310734,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 448338,
+      "num": 448338,
+      "word": "易烊千玺VOGUE二月封面预告视频",
+      "onboard_time": 1672367308,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 447520,
@@ -3441,14 +3465,6 @@
       "onboard_time": 1672054411,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440166,
-      "num": 417308,
-      "word": "贝利微博讣告",
-      "onboard_time": 1672366648,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 440158,
@@ -3537,14 +3553,6 @@
       "onboard_time": 1672233212,
       "rank": 42,
       "category": "其它"
-    },
-    {
-      "raw_hot": 433390,
-      "num": 433390,
-      "word": "易烊千玺VOGUE二月封面预告视频",
-      "onboard_time": 1672367308,
-      "rank": 8,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 432393,
@@ -3696,14 +3704,6 @@
       "word": "上海女生晒老公8个月自制手工礼物",
       "onboard_time": 1672198649,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 415491,
-      "num": 415491,
-      "word": "肺部CT检查需求暴增",
-      "onboard_time": 1672363409,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -4225,6 +4225,14 @@
       "onboard_time": 1672137752,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 364419,
+      "num": 364419,
+      "word": "咳嗽其实是人体的一种保护机制",
+      "onboard_time": 1672367004,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364365,
@@ -6939,14 +6947,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 209573,
-      "num": 209573,
-      "word": "咳嗽其实是人体的一种保护机制",
-      "onboard_time": 1672367004,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209308,
       "num": 203974,
       "word": "得知朋友背后诋毁该难过吗",
@@ -7467,6 +7467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193345,
+      "num": 193345,
+      "word": "iPhone15芯片或更注重电池续航",
+      "onboard_time": 1672366888,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 192788,
       "num": 192788,
       "word": "宋祖儿春晚彩排",
@@ -7635,6 +7643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187993,
+      "num": 187993,
+      "word": "马拉多纳 天堂里一起踢球",
+      "onboard_time": 1672367910,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187631,
       "num": 187631,
       "word": "跨年晚会cp合唱名场面",
@@ -7681,6 +7697,14 @@
       "onboard_time": 1672289730,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186373,
+      "num": 186373,
+      "word": "玫瑰骑士今晚开播",
+      "onboard_time": 1672367726,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 186113,
@@ -8355,14 +8379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167804,
-      "num": 167804,
-      "word": "玫瑰骑士今晚开播",
-      "onboard_time": 1672367726,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 166860,
       "num": 156059,
       "word": "蔡徐坤hugme2022年度十大歌曲",
@@ -8377,14 +8393,6 @@
       "onboard_time": 1672323633,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 166675,
-      "num": 166675,
-      "word": "马拉多纳 天堂里一起踢球",
-      "onboard_time": 1672367910,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 166605,
@@ -8651,6 +8659,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 160605,
+      "num": 160605,
+      "word": "VOGUE二月号",
+      "onboard_time": 1672368508,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 160462,
       "num": 142169,
       "word": "边伯贤更新",
@@ -8721,6 +8737,14 @@
       "onboard_time": 1671979232,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159218,
+      "num": 159218,
+      "word": "95后男生靠教人挑选衣服走红",
+      "onboard_time": 1672368031,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159100,
@@ -8809,14 +8833,6 @@
       "onboard_time": 1672208729,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156980,
-      "num": 156980,
-      "word": "iPhone15芯片或更注重电池续航",
-      "onboard_time": 1672366888,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 156753,
@@ -9033,6 +9049,14 @@
       "onboard_time": 1672065394,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151108,
+      "num": 151108,
+      "word": "周深跨年主题曲一试有成上线",
+      "onboard_time": 1672366828,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 150923,
@@ -9771,6 +9795,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 134082,
+      "num": 134082,
+      "word": "卢伟冰晋升小米集团总裁",
+      "onboard_time": 1672368388,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 133897,
       "num": 133897,
       "word": "廖穗芳被宠坏的女人",
@@ -10209,6 +10241,14 @@
       "onboard_time": 1672283671,
       "rank": 48,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 117655,
+      "num": 117655,
+      "word": "王者开航新版本1月3日上线",
+      "onboard_time": 1672368568,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 117631,
