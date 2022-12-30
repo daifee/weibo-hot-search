@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672375010127,
+  "endTime": 1672377382118,
   "band_list": [
     {
       "raw_hot": 2526052,
@@ -19,6 +19,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1979655,
+      "num": 1979655,
+      "word": "江歌母亲江秋莲诉刘鑫案二审维持原判",
+      "onboard_time": 1672374511,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1952011,
+      "num": 1952011,
+      "word": "女子因上厕所未在工位被领导打",
+      "onboard_time": 1672372047,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1936346,
       "num": 1936346,
       "word": "成都百岁网红奶奶去世",
@@ -33,14 +49,6 @@
       "onboard_time": 1672365628,
       "rank": 10,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 1843089,
-      "num": 1843089,
-      "word": "女子因上厕所未在工位被领导打",
-      "onboard_time": 1672372047,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1651628,
@@ -115,12 +123,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 917225,
-      "num": 917225,
+      "raw_hot": 953335,
+      "num": 953335,
       "word": "iPhone15Pro四色概念图出炉",
       "onboard_time": 1672373129,
       "rank": 12,
       "category": "科技"
+    },
+    {
+      "raw_hot": 917042,
+      "num": 917042,
+      "word": "刘鑫",
+      "onboard_time": 1672374570,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 860618,
@@ -160,6 +176,30 @@
       "word": "女子放生2.5万斤外来物种鲇鱼被起诉",
       "onboard_time": 1672355477,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 713498,
+      "num": 713498,
+      "word": "86年女子与00年男子相恋",
+      "onboard_time": 1672373551,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 675724,
+      "num": 658834,
+      "word": "BLACKPINK或将转入YG旗下厂牌",
+      "onboard_time": 1672375291,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 667478,
+      "num": 667478,
+      "word": "驳回刘鑫上诉维持原判",
+      "onboard_time": 1672374511,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -259,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 558619,
+      "num": 558619,
+      "word": "专家称不要把经济低迷完全归于疫情",
+      "onboard_time": 1672375172,
+      "rank": 11,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 540847,
       "num": 540847,
       "word": "梅西悼念贝利",
@@ -355,12 +403,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 405742,
-      "num": 405742,
-      "word": "86年女子与00年男子相恋",
-      "onboard_time": 1672373551,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 397474,
+      "num": 397474,
+      "word": "陈飞宇张子枫新作告别2022",
+      "onboard_time": 1672373491,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 395393,
@@ -369,14 +417,6 @@
       "onboard_time": 1672373070,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 394083,
-      "num": 394083,
-      "word": "驳回刘鑫上诉维持原判",
-      "onboard_time": 1672374511,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 380838,
@@ -416,6 +456,14 @@
       "word": "咳出白痰和黄痰有什么区别",
       "onboard_time": 1672308270,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361741,
+      "num": 361741,
+      "word": "老人临终前4小时给感冒女儿针灸",
+      "onboard_time": 1672376731,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -475,14 +523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 330006,
-      "num": 330006,
-      "word": "江歌母亲江秋莲诉刘鑫案二审维持原判",
-      "onboard_time": 1672374511,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326767,
       "num": 326767,
       "word": "9位新冠二次感染者自述",
@@ -499,20 +539,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 316838,
-      "num": 307036,
-      "word": "陈飞宇张子枫新作告别2022",
-      "onboard_time": 1672373491,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 315557,
       "num": 315557,
       "word": "王鹤棣说自己没干过什么偶像干的事",
       "onboard_time": 1672360590,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 313402,
+      "num": 313402,
+      "word": "卿卿日常见面会官宣",
+      "onboard_time": 1672377090,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 310977,
@@ -531,11 +571,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 302296,
-      "num": 302296,
-      "word": "刘鑫",
-      "onboard_time": 1672374570,
-      "rank": 28,
+      "raw_hot": 284208,
+      "num": 284208,
+      "word": "江歌",
+      "onboard_time": 1672374631,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -563,14 +603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 280181,
-      "num": 280181,
-      "word": "江歌",
-      "onboard_time": 1672374631,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276469,
       "num": 276469,
       "word": "今年最爱的电子榨菜",
@@ -587,11 +619,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265582,
+      "num": 265582,
+      "word": "张雨绮踢到小鬼手了",
+      "onboard_time": 1672377331,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262288,
       "num": 262288,
       "word": "吾木提 选秀",
       "onboard_time": 1672318291,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 258450,
+      "num": 254472,
+      "word": "秦霄贤被徐梦洁舞台惊艳到了",
+      "onboard_time": 1672377152,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -601,6 +649,14 @@
       "onboard_time": 1672309953,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251318,
+      "num": 251318,
+      "word": "撒贝宁告诉你穿羽绒服进冰柜是啥体验",
+      "onboard_time": 1672375710,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249177,
@@ -785,6 +841,14 @@
       "onboard_time": 1672367726,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185450,
+      "num": 185450,
+      "word": "像阳光那样",
+      "onboard_time": 1672375233,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 185260,
@@ -979,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153016,
+      "num": 444630,
+      "word": "腊八年味有多浓",
+      "onboard_time": 1672376430,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151108,
       "num": 151108,
       "word": "周深跨年主题曲一试有成上线",
@@ -1041,6 +1113,14 @@
       "onboard_time": 1672359327,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137843,
+      "num": 137843,
+      "word": "妈妈得知女儿要回家无数次张望",
+      "onboard_time": 1672377031,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135741,
