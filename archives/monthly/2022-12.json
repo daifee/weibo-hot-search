@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672425333159,
+  "endTime": 1672427633865,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -71457,6 +71457,14 @@
       "onboard_time": 1671563233,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16532,
+      "num": 23713,
+      "word": "老人坐整夜将大床让给陪护儿子休息",
+      "onboard_time": 1672425072,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16100,
