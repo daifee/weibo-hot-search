@@ -1,6 +1,6 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672431493562,
+  "endTime": 1672432420737,
   "band_list": [
     {
       "raw_hot": 1653289,
@@ -459,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83544,
+      "num": 44118,
+      "word": "多个平台鱼跃血氧仪涨价数倍",
+      "onboard_time": 1672429992,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79655,
       "num": 92189,
       "word": "当你阳了你的白细胞有多努力",
@@ -497,14 +505,6 @@
       "onboard_time": 1672421657,
       "rank": 35,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 46562,
-      "num": 44118,
-      "word": "多个平台鱼跃血氧仪涨价数倍",
-      "onboard_time": 1672429992,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25785,
