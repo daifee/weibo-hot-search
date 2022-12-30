@@ -1,0 +1,410 @@
+{
+  "runTime": 1672414407634,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2268677,
+        "num": 2268677,
+        "word": "女生阳后发现戴帽子的人变多了",
+        "onboard_time": 1672409794,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2056335,
+        "num": 2056335,
+        "word": "别了水银温度计",
+        "onboard_time": 1672411234,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149686,
+        "num": 1400238,
+        "word": "恢复期要注意什么",
+        "onboard_time": 1672404508,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954971,
+        "num": 954971,
+        "word": "车厘子4年间价格腰斩",
+        "onboard_time": 1672408352,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 776113,
+        "num": 776113,
+        "word": "秦刚任外交部部长",
+        "onboard_time": 1672399951,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 711551,
+        "num": 711551,
+        "word": "回来的女儿大结局回血",
+        "onboard_time": 1672402531,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 631387,
+        "num": 631387,
+        "word": "花海世冠FMVP",
+        "onboard_time": 1672412492,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 595057,
+        "num": 595057,
+        "word": "张远还在等春晚的邀请",
+        "onboard_time": 1672413210,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 539905,
+        "num": 539905,
+        "word": "李文卓变傻是李承天害的",
+        "onboard_time": 1672409794,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484271,
+        "num": 484271,
+        "word": "上海一出租房月租380马桶在厨房里",
+        "onboard_time": 1672407210,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873765,
+        "num": 473553,
+        "word": "华晨宇说杨幂左立送的蛋糕太丑了",
+        "onboard_time": 1672405471,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 583480,
+        "num": 465310,
+        "word": "禾野",
+        "onboard_time": 1672404208,
+        "rank": 11,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 449190,
+        "num": 449190,
+        "word": "方文山说被周深的歌声穿透了",
+        "onboard_time": 1672405649,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443967,
+        "num": 443967,
+        "word": "eStar八冠金色雨",
+        "onboard_time": 1672411352,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 370376,
+        "num": 370376,
+        "word": "浙江一村子给200位村民发600万工资",
+        "onboard_time": 1672411892,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352585,
+        "num": 352585,
+        "word": "四川已知最长寿老人去世",
+        "onboard_time": 1672403611,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345922,
+        "num": 345922,
+        "word": "清融",
+        "onboard_time": 1672411653,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 301140,
+        "num": 301140,
+        "word": "张文宏预测春节感染率可能达到80%",
+        "onboard_time": 1672392447,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299011,
+        "num": 299011,
+        "word": "景向谁依",
+        "onboard_time": 1672401628,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 297848,
+        "num": 297848,
+        "word": "刘鑫需赔偿江母69万余元",
+        "onboard_time": 1672382733,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410838,
+        "num": 297624,
+        "word": "金泰妍中文新歌",
+        "onboard_time": 1672409073,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 342026,
+        "num": 296423,
+        "word": "infp",
+        "onboard_time": 1672408650,
+        "rank": 21,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 294055,
+        "num": 294055,
+        "word": "王源现在有一套自己的审美体系",
+        "onboard_time": 1672411773,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276789,
+        "num": 276789,
+        "word": "清融的安琪拉",
+        "onboard_time": 1672413150,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250095,
+        "num": 250095,
+        "word": "男子医院抽血医生边看说明边操作",
+        "onboard_time": 1672410151,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238278,
+        "num": 238278,
+        "word": "EDG和RNG是懂慈善赛的",
+        "onboard_time": 1672412850,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219766,
+        "num": 219766,
+        "word": "GK鹏鹏",
+        "onboard_time": 1672412071,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204210,
+        "num": 204210,
+        "word": "旗舰店买iPhone取消订单不给退款",
+        "onboard_time": 1672404149,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 189601,
+        "num": 189601,
+        "word": "EDG新阵容首战RNG",
+        "onboard_time": 1672401150,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176317,
+        "num": 176317,
+        "word": "转阴后依然咳嗽咋回事",
+        "onboard_time": 1672405709,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289854,
+        "num": 176135,
+        "word": "李钟硕林允儿获演技大赏最佳情侣奖",
+        "onboard_time": 1672409610,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254874,
+        "num": 173018,
+        "word": "王一博东方卫视跨年盛典VCR",
+        "onboard_time": 1672412133,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254538,
+        "num": 171612,
+        "word": "何猷君 立牌",
+        "onboard_time": 1672413927,
+        "rank": 32,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 252960,
+        "num": 169904,
+        "word": "易烊千玺镜头前后反差萌",
+        "onboard_time": 1672409971,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168633,
+        "num": 168633,
+        "word": "当你阳了你的白细胞有多努力",
+        "onboard_time": 1672411532,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168105,
+        "num": 168105,
+        "word": "这就是传说中的房车吧",
+        "onboard_time": 1672410452,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167067,
+        "num": 167067,
+        "word": "阳后身上出红疹要警惕",
+        "onboard_time": 1672413390,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163754,
+        "num": 163754,
+        "word": "当外国婆婆被种草东北搓澡",
+        "onboard_time": 1672412551,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154006,
+        "num": 154006,
+        "word": "GK对战eStar",
+        "onboard_time": 1672394971,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148207,
+        "num": 148207,
+        "word": "新任外交部长秦刚致辞",
+        "onboard_time": 1672410093,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 245093,
+        "num": 147659,
+        "word": "张彬彬说自己新冠已经痊愈",
+        "onboard_time": 1672413331,
+        "rank": 40,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 224993,
+        "num": 147197,
+        "word": "刘宪华一人乐队唱明明就",
+        "onboard_time": 1672407091,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221073,
+        "num": 146976,
+        "word": "李承天从来没当过一天老实人",
+        "onboard_time": 1672414108,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146593,
+        "num": 146593,
+        "word": "台湾女生来河南工作以后",
+        "onboard_time": 1672402110,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135356,
+        "num": 146593,
+        "word": "久诚怎么了",
+        "onboard_time": 1672399170,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134345,
+        "num": 146561,
+        "word": "流浪的猫咪只能在垃圾堆过冬了",
+        "onboard_time": 1672406131,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119045,
+        "num": 146550,
+        "word": "男子感染新冠后疲劳工作诱发心肌炎",
+        "onboard_time": 1672389150,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112529,
+        "num": 146529,
+        "word": "几个星期后的超市",
+        "onboard_time": 1672413808,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105599,
+        "num": 146522,
+        "word": "探访发现部分乡村老人不知新冠",
+        "onboard_time": 1672393829,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104753,
+        "num": 146504,
+        "word": "我的2022年度总结",
+        "onboard_time": 1672413749,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022年国内十大新闻#"
+    }
+  }
+}

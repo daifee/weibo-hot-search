@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672413481238,
+  "endTime": 1672414407634,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -179,8 +179,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2264556,
-      "num": 2264556,
+      "raw_hot": 2268677,
+      "num": 2268677,
       "word": "女生阳后发现戴帽子的人变多了",
       "onboard_time": 1672409794,
       "rank": 12,
@@ -249,6 +249,14 @@
       "onboard_time": 1672304668,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2056335,
+      "num": 2056335,
+      "word": "别了水银温度计",
+      "onboard_time": 1672411234,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2051878,
@@ -344,14 +352,6 @@
       "word": "北京协和医院发热门诊现状",
       "onboard_time": 1672138593,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1862379,
-      "num": 1862379,
-      "word": "别了水银温度计",
-      "onboard_time": 1672411234,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2891,6 +2891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 595057,
+      "num": 595057,
+      "word": "张远还在等春晚的邀请",
+      "onboard_time": 1672413210,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 593790,
       "num": 593790,
       "word": "咳嗽其实是人体的一种保护机制",
@@ -4340,7 +4348,7 @@
     },
     {
       "raw_hot": 422323,
-      "num": 284427,
+      "num": 296423,
       "word": "infp",
       "onboard_time": 1672408650,
       "rank": 24,
@@ -4923,6 +4931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370376,
+      "num": 370376,
+      "word": "浙江一村子给200位村民发600万工资",
+      "onboard_time": 1672411892,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369084,
       "num": 315968,
       "word": "肖步活了终于同居了",
@@ -5129,14 +5145,6 @@
       "onboard_time": 1672237473,
       "rank": 27,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 357487,
-      "num": 271460,
-      "word": "张远还在等春晚的邀请",
-      "onboard_time": 1672413210,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 357233,
@@ -5449,14 +5457,6 @@
       "onboard_time": 1672144293,
       "rank": 36,
       "category": "网红"
-    },
-    {
-      "raw_hot": 339305,
-      "num": 339305,
-      "word": "浙江一村子给200位村民发600万工资",
-      "onboard_time": 1672411892,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339160,
@@ -5932,7 +5932,7 @@
     },
     {
       "raw_hot": 313786,
-      "num": 198905,
+      "num": 294055,
       "word": "王源现在有一套自己的审美体系",
       "onboard_time": 1672411773,
       "rank": 31,
@@ -6627,6 +6627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 276789,
+      "num": 276789,
+      "word": "清融的安琪拉",
+      "onboard_time": 1672413150,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 276702,
       "num": 210876,
       "word": "蒲熠星一言不合放狠话",
@@ -7027,6 +7035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 254538,
+      "num": 171612,
+      "word": "何猷君 立牌",
+      "onboard_time": 1672413927,
+      "rank": 32,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 254512,
       "num": 254512,
       "word": "如何预防白肺",
@@ -7137,6 +7153,14 @@
       "onboard_time": 1672310374,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250095,
+      "num": 250095,
+      "word": "男子医院抽血医生边看说明边操作",
+      "onboard_time": 1672410151,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249786,
@@ -7427,6 +7451,14 @@
       "category": "情感,音乐"
     },
     {
+      "raw_hot": 238278,
+      "num": 238278,
+      "word": "EDG和RNG是懂慈善赛的",
+      "onboard_time": 1672412850,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238167,
       "num": 207374,
       "word": "张译说大年初一红运开年",
@@ -7465,14 +7497,6 @@
       "onboard_time": 1672152213,
       "rank": 33,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 235976,
-      "num": 235976,
-      "word": "男子医院抽血医生边看说明边操作",
-      "onboard_time": 1672410151,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235792,
@@ -7979,6 +8003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221073,
+      "num": 146976,
+      "word": "李承天从来没当过一天老实人",
+      "onboard_time": 1672414108,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221053,
       "num": 221053,
       "word": "曼联3比0诺丁汉森林",
@@ -8009,6 +8041,14 @@
       "onboard_time": 1672060176,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219766,
+      "num": 219766,
+      "word": "GK鹏鹏",
+      "onboard_time": 1672412071,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 219612,
@@ -8257,14 +8297,6 @@
       "onboard_time": 1672226672,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211998,
-      "num": 211998,
-      "word": "GK鹏鹏",
-      "onboard_time": 1672412071,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 211729,
@@ -8521,14 +8553,6 @@
       "onboard_time": 1672385371,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202066,
-      "num": 202066,
-      "word": "清融的安琪拉",
-      "onboard_time": 1672413150,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 200860,
@@ -10091,6 +10115,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 167067,
+      "num": 167067,
+      "word": "阳后身上出红疹要警惕",
+      "onboard_time": 1672413390,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166860,
       "num": 156059,
       "word": "蔡徐坤hugme2022年度十大歌曲",
@@ -10281,6 +10313,14 @@
       "onboard_time": 1672388191,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163754,
+      "num": 163754,
+      "word": "当外国婆婆被种草东北搓澡",
+      "onboard_time": 1672412551,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 163390,
@@ -10865,14 +10905,6 @@
       "onboard_time": 1672065394,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151259,
-      "num": 151259,
-      "word": "EDG和RNG是懂慈善赛的",
-      "onboard_time": 1672412850,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 151108,
@@ -11779,14 +11811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131215,
-      "num": 143387,
-      "word": "当外国婆婆被种草东北搓澡",
-      "onboard_time": 1672412551,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 131212,
       "num": 131212,
       "word": "被陌生人的晚安治愈了",
@@ -12331,6 +12355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112529,
+      "num": 146529,
+      "word": "几个星期后的超市",
+      "onboard_time": 1672413808,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112011,
       "num": 112011,
       "word": "第一视角当人类幼崽",
@@ -12483,14 +12515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106430,
-      "num": 142696,
-      "word": "阳后身上出红疹要警惕",
-      "onboard_time": 1672413390,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105970,
       "num": 105970,
       "word": "詹姆斯38分",
@@ -12545,6 +12569,14 @@
       "onboard_time": 1672028433,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104753,
+      "num": 146504,
+      "word": "我的2022年度总结",
+      "onboard_time": 1672413749,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 104189,
