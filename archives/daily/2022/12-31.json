@@ -1,6 +1,6 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672442249926,
+  "endTime": 1672443216289,
   "band_list": [
     {
       "raw_hot": 1653289,
@@ -17,6 +17,14 @@
       "onboard_time": 1672409794,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 724267,
+      "num": 724267,
+      "word": "C罗加盟利雅得胜利",
+      "onboard_time": 1672441574,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 643559,
@@ -81,14 +89,6 @@
       "onboard_time": 1672413390,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419387,
-      "num": 419387,
-      "word": "C罗加盟利雅得胜利",
-      "onboard_time": 1672441574,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 418991,
@@ -164,11 +164,27 @@
     },
     {
       "raw_hot": 238805,
-      "num": 211936,
+      "num": 221699,
       "word": "6岁男孩被骂后点燃厨房秸秆",
       "onboard_time": 1672417345,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237568,
+      "num": 237568,
+      "word": "长沙委员建议重启橘子洲烟花表演",
+      "onboard_time": 1672437792,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234498,
+      "num": 234498,
+      "word": "廖穗芳死了",
+      "onboard_time": 1672441934,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 231623,
@@ -184,6 +200,14 @@
       "word": "四川已知最长寿老人去世",
       "onboard_time": 1672403611,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226690,
+      "num": 226690,
+      "word": "为什么打了疫苗还感染",
+      "onboard_time": 1672433232,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -208,6 +232,14 @@
       "word": "什么情况才会判断为新冠死亡",
       "onboard_time": 1672415786,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200182,
+      "num": 200182,
+      "word": "多个平台鱼跃血氧仪涨价数倍",
+      "onboard_time": 1672429992,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -243,27 +275,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190316,
-      "num": 190316,
-      "word": "长沙委员建议重启橘子洲烟花表演",
-      "onboard_time": 1672437792,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184641,
-      "num": 184641,
-      "word": "为什么打了疫苗还感染",
-      "onboard_time": 1672433232,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184353,
       "num": 184353,
       "word": "周深听见下雨的声音舞台",
       "onboard_time": 1672417462,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 182219,
+      "num": 173879,
+      "word": "李泳知showmethemoney冠军",
+      "onboard_time": 1672443077,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -323,16 +347,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 156287,
-      "num": 156287,
-      "word": "多个平台鱼跃血氧仪涨价数倍",
-      "onboard_time": 1672429992,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156046,
-      "num": 50105,
+      "num": 68067,
       "word": "廖穗芳被李承天毒死",
       "onboard_time": 1672442056,
       "rank": 30,
@@ -419,12 +435,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125686,
+      "num": 67674,
+      "word": "李承天最爱李文文",
+      "onboard_time": 1672442176,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 121509,
+      "num": 121509,
+      "word": "老人坐整夜将大床让给陪护儿子休息",
+      "onboard_time": 1672425072,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119853,
       "num": 102216,
       "word": "湖南卫视跨年晚会舞美设计",
       "onboard_time": 1672421896,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119300,
+      "num": 119300,
+      "word": "回来的女儿没烂尾",
+      "onboard_time": 1672441934,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 116711,
@@ -443,20 +483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114215,
+      "num": 114215,
+      "word": "如何看待王鹤棣新剧争议",
+      "onboard_time": 1672436472,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 113263,
       "num": 92934,
       "word": "方文山说被周深的歌声穿透了",
       "onboard_time": 1672405649,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111710,
-      "num": 111710,
-      "word": "如何看待王鹤棣新剧争议",
-      "onboard_time": 1672436472,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 108032,
@@ -475,12 +515,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 94269,
-      "num": 94269,
-      "word": "老人坐整夜将大床让给陪护儿子休息",
-      "onboard_time": 1672425072,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 101055,
+      "num": 101055,
+      "word": "苏醒舞台",
+      "onboard_time": 1672443016,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 93304,
@@ -504,6 +544,14 @@
       "word": "一条plog告别2022",
       "onboard_time": 1672433471,
       "rank": 1,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 89876,
+      "num": 89876,
+      "word": "跨年文案",
+      "onboard_time": 1672442116,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -531,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77319,
+      "num": 67890,
+      "word": "李宇春下个路口见经典重现",
+      "onboard_time": 1672443077,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 76792,
       "num": 76792,
       "word": "和2022告别",
@@ -539,28 +595,36 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 70706,
-      "num": 70706,
-      "word": "廖穗芳死了",
-      "onboard_time": 1672441934,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 57830,
-      "num": 49314,
-      "word": "回来的女儿没烂尾",
-      "onboard_time": 1672441934,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 55622,
-      "num": 55622,
+      "raw_hot": 76409,
+      "num": 76409,
       "word": "2022年的最后1天",
       "onboard_time": 1672441516,
       "rank": 25,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 64783,
+      "num": 64783,
+      "word": "你心中的仙侠剧最佳女主角",
+      "onboard_time": 1672439953,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 53907,
+      "num": 53907,
+      "word": "2023所念皆如愿",
+      "onboard_time": 1672442776,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53083,
+      "num": 53083,
+      "word": "北京欢乐谷跨年倒计时活动取消",
+      "onboard_time": 1672440254,
+      "rank": 35,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 50048,
@@ -571,14 +635,6 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 49521,
-      "num": 49521,
-      "word": "你心中的仙侠剧最佳女主角",
-      "onboard_time": 1672439953,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 48465,
       "num": 48465,
       "word": "这是把藕的灵魂给切出来了吗",
@@ -587,20 +643,12 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 45730,
-      "num": 45730,
-      "word": "北京欢乐谷跨年倒计时活动取消",
-      "onboard_time": 1672440254,
-      "rank": 35,
-      "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 35783,
-      "num": 35783,
-      "word": "跨年文案",
-      "onboard_time": 1672442116,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 45013,
+      "num": 45013,
+      "word": "这一年有你知我不易",
+      "onboard_time": 1672442596,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25785,

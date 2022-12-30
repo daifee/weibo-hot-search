@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672442249926,
+  "endTime": 1672443216289,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -12459,6 +12459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 724267,
+      "num": 724267,
+      "word": "C罗加盟利雅得胜利",
+      "onboard_time": 1672441574,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 724095,
       "num": 724095,
       "word": "谷爱凌收入排名女运动员第三位",
@@ -24217,14 +24225,6 @@
       "onboard_time": 1670457547,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 419387,
-      "num": 419387,
-      "word": "C罗加盟利雅得胜利",
-      "onboard_time": 1672441574,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 419306,
@@ -40596,7 +40596,7 @@
     },
     {
       "raw_hot": 238805,
-      "num": 211936,
+      "num": 221699,
       "word": "6岁男孩被骂后点燃厨房秸秆",
       "onboard_time": 1672417345,
       "rank": 49,
@@ -40777,6 +40777,14 @@
       "onboard_time": 1671109116,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 237568,
+      "num": 237568,
+      "word": "长沙委员建议重启橘子洲烟花表演",
+      "onboard_time": 1672437792,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237536,
@@ -41153,6 +41161,14 @@
       "onboard_time": 1670563876,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 234498,
+      "num": 234498,
+      "word": "廖穗芳死了",
+      "onboard_time": 1672441934,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 234419,
@@ -42249,6 +42265,14 @@
       "onboard_time": 1671079773,
       "rank": 33,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 226690,
+      "num": 226690,
+      "word": "为什么打了疫苗还感染",
+      "onboard_time": 1672433232,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226666,
@@ -46099,6 +46123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200182,
+      "num": 200182,
+      "word": "多个平台鱼跃血氧仪涨价数倍",
+      "onboard_time": 1672429992,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200174,
       "num": 200174,
       "word": "王鹤棣白鹿获GQ年度青年演员",
@@ -48227,14 +48259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190316,
-      "num": 190316,
-      "word": "长沙委员建议重启橘子洲烟花表演",
-      "onboard_time": 1672437792,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190205,
       "num": 190205,
       "word": "我头疼的原因找到了",
@@ -49595,14 +49619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184641,
-      "num": 184641,
-      "word": "为什么打了疫苗还感染",
-      "onboard_time": 1672433232,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184610,
       "num": 184610,
       "word": "网传电影我抬头发现两朵一样的云主演暂定王源",
@@ -50073,6 +50089,14 @@
       "onboard_time": 1672368388,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 182219,
+      "num": 173879,
+      "word": "李泳知showmethemoney冠军",
+      "onboard_time": 1672443077,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 182214,
@@ -56227,14 +56251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156287,
-      "num": 156287,
-      "word": "多个平台鱼跃血氧仪涨价数倍",
-      "onboard_time": 1672429992,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156267,
       "num": 156267,
       "word": "世界杯三四名决赛",
@@ -56300,7 +56316,7 @@
     },
     {
       "raw_hot": 156046,
-      "num": 50105,
+      "num": 68067,
       "word": "廖穗芳被李承天毒死",
       "onboard_time": 1672442056,
       "rank": 30,
@@ -63363,6 +63379,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 125686,
+      "num": 67674,
+      "word": "李承天最爱李文文",
+      "onboard_time": 1672442176,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125646,
       "num": 125646,
       "word": "室内温差大手臂冒气被误认为发烧",
@@ -64259,6 +64283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121509,
+      "num": 121509,
+      "word": "老人坐整夜将大床让给陪护儿子休息",
+      "onboard_time": 1672425072,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121496,
       "num": 121496,
       "word": "姚晨录新综艺狂炫饭",
@@ -64641,6 +64673,14 @@
       "onboard_time": 1671785608,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119300,
+      "num": 119300,
+      "word": "回来的女儿没烂尾",
+      "onboard_time": 1672441934,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 119280,
@@ -65563,6 +65603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114215,
+      "num": 114215,
+      "word": "如何看待王鹤棣新剧争议",
+      "onboard_time": 1672436472,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 114170,
       "num": 114170,
       "word": "奥尔西奇世界波",
@@ -65952,14 +66000,6 @@
       "word": "财阀家的小儿子收视破新高",
       "onboard_time": 1670808249,
       "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 111710,
-      "num": 111710,
-      "word": "如何看待王鹤棣新剧争议",
-      "onboard_time": 1672436472,
-      "rank": 9,
       "category": "影视"
     },
     {
@@ -67835,6 +67875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101055,
+      "num": 101055,
+      "word": "苏醒舞台",
+      "onboard_time": 1672443016,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 100999,
       "num": 108389,
       "word": "神十四返回舱着陆瞬间",
@@ -68571,14 +68619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94269,
-      "num": 94269,
-      "word": "老人坐整夜将大床让给陪护儿子休息",
-      "onboard_time": 1672425072,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94257,
       "num": 94257,
       "word": "如何评价电视剧县委大院",
@@ -68929,6 +68969,14 @@
       "onboard_time": 1670011506,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89876,
+      "num": 89876,
+      "word": "跨年文案",
+      "onboard_time": 1672442116,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 89875,
@@ -69603,6 +69651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 77319,
+      "num": 67890,
+      "word": "李宇春下个路口见经典重现",
+      "onboard_time": 1672443077,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 77278,
       "num": 355373,
       "word": "韩乔生看好荷兰进八强",
@@ -69673,6 +69729,14 @@
       "onboard_time": 1671405202,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76409,
+      "num": 76409,
+      "word": "2022年的最后1天",
+      "onboard_time": 1672441516,
+      "rank": 25,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 76246,
@@ -69905,14 +69969,6 @@
       "onboard_time": 1670196367,
       "rank": 44,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 70706,
-      "num": 70706,
-      "word": "廖穗芳死了",
-      "onboard_time": 1672441934,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 70402,
@@ -70169,6 +70225,14 @@
       "onboard_time": 1672356140,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 64783,
+      "num": 64783,
+      "word": "你心中的仙侠剧最佳女主角",
+      "onboard_time": 1672439953,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 64565,
@@ -70467,14 +70531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 57830,
-      "num": 49314,
-      "word": "回来的女儿没烂尾",
-      "onboard_time": 1672441934,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 57236,
       "num": 90954,
       "word": "当去你去买奢侈品",
@@ -70537,14 +70593,6 @@
       "onboard_time": 1671339630,
       "rank": 39,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 55622,
-      "num": 55622,
-      "word": "2022年的最后1天",
-      "onboard_time": 1672441516,
-      "rank": 25,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 55595,
@@ -70627,6 +70675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 53907,
+      "num": 53907,
+      "word": "2023所念皆如愿",
+      "onboard_time": 1672442776,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53685,
       "num": 414304,
       "word": "iQOO11发布会",
@@ -70649,6 +70705,14 @@
       "onboard_time": 1670006170,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53083,
+      "num": 53083,
+      "word": "北京欢乐谷跨年倒计时活动取消",
+      "onboard_time": 1672440254,
+      "rank": 35,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 52765,
@@ -70753,14 +70817,6 @@
       "onboard_time": 1669838768,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49521,
-      "num": 49521,
-      "word": "你心中的仙侠剧最佳女主角",
-      "onboard_time": 1672439953,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 48948,
@@ -70907,12 +70963,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45730,
-      "num": 45730,
-      "word": "北京欢乐谷跨年倒计时活动取消",
-      "onboard_time": 1672440254,
-      "rank": 35,
-      "category": "社会新闻,旅游"
+      "raw_hot": 45013,
+      "num": 45013,
+      "word": "这一年有你知我不易",
+      "onboard_time": 1672442596,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44565,
@@ -71161,14 +71217,6 @@
       "onboard_time": 1670962927,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35783,
-      "num": 35783,
-      "word": "跨年文案",
-      "onboard_time": 1672442116,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 35743,
