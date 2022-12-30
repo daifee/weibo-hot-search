@@ -1,6 +1,6 @@
 {
   "startTime": 1672331102414,
-  "endTime": 1672385603434,
+  "endTime": 1672388525208,
   "band_list": [
     {
       "raw_hot": 2526052,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1627958,
+      "num": 1627958,
+      "word": "刘亦菲首部现代剧来了",
+      "onboard_time": 1672386873,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1610954,
       "num": 1350225,
       "word": "难听",
@@ -120,6 +128,14 @@
       "word": "男子越狱29年被抓时在学校当保安",
       "onboard_time": 1672366528,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1107485,
+      "num": 1107485,
+      "word": "张文宏解读为何觉得白肺变多了",
+      "onboard_time": 1672384831,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -179,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 902978,
+      "num": 902978,
+      "word": "上海重症高峰已慢慢出现",
+      "onboard_time": 1672383208,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 860618,
       "num": 860618,
       "word": "巴西政府宣布举行三天哀悼",
@@ -208,14 +232,6 @@
       "word": "80后宝妈辞职做沙滩代写月入过万",
       "onboard_time": 1672363292,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 752691,
-      "num": 752691,
-      "word": "上海重症高峰已慢慢出现",
-      "onboard_time": 1672383208,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -299,6 +315,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 649410,
+      "num": 592286,
+      "word": "刘鑫需赔偿江母69万余元",
+      "onboard_time": 1672382733,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 639992,
       "num": 602062,
       "word": "YG还剩哪些人",
@@ -307,12 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 638606,
-      "num": 534438,
-      "word": "刘鑫需赔偿江母69万余元",
-      "onboard_time": 1672382733,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 636126,
+      "num": 636126,
+      "word": "贝利去世时净资产约1亿美元",
+      "onboard_time": 1672383271,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 631512,
@@ -491,11 +515,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 465149,
-      "num": 465149,
-      "word": "贝利去世时净资产约1亿美元",
-      "onboard_time": 1672383271,
-      "rank": 20,
+      "raw_hot": 458877,
+      "num": 458877,
+      "word": "球王曾很讨厌贝利这个绰号",
+      "onboard_time": 1672385911,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -521,6 +545,14 @@
       "onboard_time": 1672367308,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 441100,
+      "num": 441100,
+      "word": "比绿指甲还恐怖的是李承天抽烟",
+      "onboard_time": 1672385493,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 420547,
@@ -619,6 +651,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361716,
+      "num": 361716,
+      "word": "百名烂尾楼业主合力推倒小区围墙",
+      "onboard_time": 1672384052,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361557,
+      "num": 361557,
+      "word": "感觉不再需要数学了",
+      "onboard_time": 1672386450,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 361462,
+      "num": 361462,
+      "word": "年轻人结婚最看重什么",
+      "onboard_time": 1672384173,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 358526,
       "num": 358526,
       "word": "女子在桥边留下孩子后跳河",
@@ -691,6 +747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 342662,
+      "num": 342662,
+      "word": "张文宏称易感人群新春是个坎儿",
+      "onboard_time": 1672387411,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341138,
       "num": 341138,
       "word": "血氧指标低于90就是肺感染重症体现",
@@ -747,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311797,
+      "num": 311797,
+      "word": "奥密克戎致肺炎比例远远低于德尔塔",
+      "onboard_time": 1672387170,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310977,
       "num": 310977,
       "word": "徐艺洋叫刘些宁宝贝",
@@ -769,6 +841,22 @@
       "onboard_time": 1672384529,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289689,
+      "num": 289689,
+      "word": "去有风的地方是5A风景区吧",
+      "onboard_time": 1672387709,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 288701,
+      "num": 288701,
+      "word": "九连真人道歉",
+      "onboard_time": 1672385610,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 284208,
@@ -819,12 +907,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271857,
-      "num": 271857,
-      "word": "百名烂尾楼业主合力推倒小区围墙",
-      "onboard_time": 1672384052,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 272567,
+      "num": 272567,
+      "word": "第一次越狱有点生疏的小狗",
+      "onboard_time": 1672383511,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 268504,
@@ -891,20 +979,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 243576,
-      "num": 243576,
-      "word": "第一次越狱有点生疏的小狗",
-      "onboard_time": 1672383511,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242065,
       "num": 242065,
       "word": "如何评价王一博新歌",
       "onboard_time": 1672378950,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 236809,
+      "num": 236809,
+      "word": "白鹿问张彬彬尴尬么",
+      "onboard_time": 1672386931,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 235898,
@@ -947,20 +1035,20 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 228140,
+      "num": 228140,
+      "word": "2023年两会召开时间",
+      "onboard_time": 1672385729,
+      "rank": 31,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 226599,
       "num": 226599,
       "word": "许魏洲中国乒乓里黑到认不出",
       "onboard_time": 1672371749,
       "rank": 32,
       "category": "影视,体育"
-    },
-    {
-      "raw_hot": 222059,
-      "num": 222059,
-      "word": "年轻人结婚最看重什么",
-      "onboard_time": 1672384173,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 221157,
@@ -1211,12 +1299,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 175375,
-      "num": 175375,
-      "word": "比绿指甲还恐怖的是李承天抽烟",
-      "onboard_time": 1672385493,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 175550,
+      "num": 175550,
+      "word": "为世冠荣耀而战",
+      "onboard_time": 1672388008,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 173417,
@@ -1259,12 +1347,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170122,
-      "num": 170122,
-      "word": "张文宏解读为何觉得白肺变多了",
-      "onboard_time": 1672384831,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 170253,
+      "num": 170253,
+      "word": "吉利旗下公司全资持股魅族科技",
+      "onboard_time": 1672386329,
+      "rank": 41,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 169924,
@@ -1329,6 +1417,14 @@
       "onboard_time": 1672332860,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163809,
+      "num": 163809,
+      "word": "2022普通人努力图鉴",
+      "onboard_time": 1672388191,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 162337,
@@ -1433,6 +1529,14 @@
       "onboard_time": 1672358665,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146859,
+      "num": 146859,
+      "word": "3分钟回顾2022暖心时刻",
+      "onboard_time": 1672387590,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 146573,
