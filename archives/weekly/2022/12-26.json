@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672496092153,
+  "endTime": 1672497210371,
   "band_list": [
     {
       "raw_hot": 12836148,
@@ -8,6 +8,14 @@
       "word": "王俊凯单手吊威亚",
       "onboard_time": 1672487986,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 11946544,
+      "num": 11946544,
+      "word": "王一博赤脚跳舞",
+      "onboard_time": 1672495925,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -25,14 +33,6 @@
       "onboard_time": 1672067493,
       "rank": 3,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 6932217,
-      "num": 1700412,
-      "word": "王一博赤脚跳舞",
-      "onboard_time": 1672495925,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 5335024,
@@ -67,20 +67,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4160442,
+      "num": 1699212,
+      "word": "张杰在开演唱会吧",
+      "onboard_time": 1672495495,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4042239,
       "num": 1699662,
       "word": "难听",
       "onboard_time": 1672380572,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 4011703,
-      "num": 1699212,
-      "word": "张杰在开演唱会吧",
-      "onboard_time": 1672495495,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 3825549,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3251179,
+      "num": 1694393,
+      "word": "周深跨年好忙",
+      "onboard_time": 1672495798,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3248447,
       "num": 3248447,
       "word": "核酸检测员月薪10万降至3万",
@@ -192,14 +200,6 @@
       "word": "杨紫 人美歌甜",
       "onboard_time": 1672491473,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2826380,
-      "num": 1694393,
-      "word": "周深跨年好忙",
-      "onboard_time": 1672495798,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -280,6 +280,14 @@
       "word": "诀爱 梦回苍兰诀",
       "onboard_time": 1672493094,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2416805,
+      "num": 1689083,
+      "word": "江苏卫视能调下收音吗",
+      "onboard_time": 1672495743,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2062633,
+      "num": 1689084,
+      "word": "把郑秀妍焊在舞台上",
+      "onboard_time": 1672495322,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2060779,
       "num": 1924401,
       "word": "网曝嘉行传媒欠款一个亿",
@@ -465,14 +481,6 @@
       "onboard_time": 1672308270,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1996230,
-      "num": 1689084,
-      "word": "把郑秀妍焊在舞台上",
-      "onboard_time": 1672495322,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 1979655,
@@ -651,6 +659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1750470,
+      "num": 1750470,
+      "word": "跨年文案",
+      "onboard_time": 1672442116,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1742312,
       "num": 1236167,
       "word": "13岁女孩被16岁男孩性侵宾馆判赔5000元",
@@ -683,14 +699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1703110,
-      "num": 1703110,
-      "word": "跨年文案",
-      "onboard_time": 1672442116,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1695646,
       "num": 1695646,
       "word": "女生病假期上9天班反欠公司三百多",
@@ -705,14 +713,6 @@
       "onboard_time": 1672149455,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1689083,
-      "num": 1689083,
-      "word": "江苏卫视能调下收音吗",
-      "onboard_time": 1672495743,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 1668421,
@@ -1041,6 +1041,14 @@
       "onboard_time": 1672305091,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1387474,
+      "num": 1387474,
+      "word": "苏醒公开揽活",
+      "onboard_time": 1672496464,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 1374151,
@@ -2900,7 +2908,7 @@
     },
     {
       "raw_hot": 678095,
-      "num": 1426418,
+      "num": 1737347,
       "word": "蛋仔派对",
       "onboard_time": 1672038631,
       "rank": 38,
@@ -3433,6 +3441,14 @@
       "onboard_time": 1672463429,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 601836,
+      "num": 1698458,
+      "word": "南部战区揭露美军机抵近侦察真相",
+      "onboard_time": 1672494417,
+      "rank": 13,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 601693,
@@ -4307,6 +4323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 491539,
+      "num": 1714860,
+      "word": "2023全糖去冰",
+      "onboard_time": 1672492074,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 487488,
       "num": 487488,
       "word": "坦然吕布FMVP新皮肤",
@@ -4545,14 +4569,6 @@
       "onboard_time": 1672231590,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 467525,
-      "num": 1698458,
-      "word": "南部战区揭露美军机抵近侦察真相",
-      "onboard_time": 1672494417,
-      "rank": 13,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 467329,
@@ -5168,14 +5184,6 @@
       "word": "上海女生晒老公8个月自制手工礼物",
       "onboard_time": 1672198649,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 415880,
-      "num": 1702506,
-      "word": "2023全糖去冰",
-      "onboard_time": 1672492074,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -6129,6 +6137,14 @@
       "onboard_time": 1672373851,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 354278,
+      "num": 1697714,
+      "word": "跨年配图",
+      "onboard_time": 1672490207,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 354247,
@@ -8177,14 +8193,6 @@
       "onboard_time": 1672403671,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255587,
-      "num": 1697714,
-      "word": "跨年配图",
-      "onboard_time": 1672490207,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 255158,
@@ -11243,7 +11251,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179126,
+      "raw_hot": 179304,
       "num": 2124065,
       "word": "新年头像",
       "onboard_time": 1672479814,
@@ -15075,6 +15083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84583,
+      "num": 1408056,
+      "word": "小黄人悬空火炉",
+      "onboard_time": 1672495621,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82226,
       "num": 82226,
       "word": "男子高烧发视频被多个殡葬商家关注",
@@ -15187,6 +15203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72525,
+      "num": 1280747,
+      "word": "你对2023年的期许是什么",
+      "onboard_time": 1672496941,
+      "rank": 46,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 71041,
       "num": 205660,
       "word": "2023脱口秀跨年",
@@ -15249,14 +15273,6 @@
       "onboard_time": 1672225231,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 68855,
-      "num": 1408056,
-      "word": "小黄人悬空火炉",
-      "onboard_time": 1672495621,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 68720,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1672497210371,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11946544,
+        "num": 11946544,
+        "word": "王一博赤脚跳舞",
+        "onboard_time": 1672495925,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7389796,
+        "num": 7389796,
+        "word": "虞书欣 妆",
+        "onboard_time": 1672492615,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417056,
+        "num": 5367649,
+        "word": "祝愿大家新年快乐皆得所愿",
+        "onboard_time": 1672487926,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 5081548,
+        "num": 5081548,
+        "word": "王俊凯单手吊威亚",
+        "onboard_time": 1672487986,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1750470,
+        "num": 1750470,
+        "word": "跨年文案",
+        "onboard_time": 1672493518,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 506114,
+        "num": 1742941,
+        "word": "花少北",
+        "onboard_time": 1672490517,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 501234,
+        "num": 1737347,
+        "word": "蛋仔派对",
+        "onboard_time": 1672495856,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 491539,
+        "num": 1714860,
+        "word": "2023全糖去冰",
+        "onboard_time": 1672492074,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370645,
+        "num": 1709753,
+        "word": "2023新年贺词完整视频",
+        "onboard_time": 1672486782,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 354278,
+        "num": 1696438,
+        "word": "跨年配图",
+        "onboard_time": 1672490207,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 4160442,
+        "num": 1682334,
+        "word": "张杰在开演唱会吧",
+        "onboard_time": 1672495495,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3683722,
+        "num": 1671178,
+        "word": "难听",
+        "onboard_time": 1672494360,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3251179,
+        "num": 1659995,
+        "word": "周深跨年好忙",
+        "onboard_time": 1672495798,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601836,
+        "num": 1641829,
+        "word": "南部战区揭露美军机抵近侦察真相",
+        "onboard_time": 1672494417,
+        "rank": 13,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 263613,
+        "num": 1636429,
+        "word": "男孩跪路边求买玩具妈妈淡定拍照",
+        "onboard_time": 1672491231,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250262,
+        "num": 1619574,
+        "word": "阳康后还需要戴口罩吗",
+        "onboard_time": 1672477115,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248044,
+        "num": 1608880,
+        "word": "2022",
+        "onboard_time": 1672480416,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220763,
+        "num": 1602919,
+        "word": "大家都在坚忍不拔努力",
+        "onboard_time": 1672486060,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 197868,
+        "num": 1585420,
+        "word": "浙江男篮vs辽宁男篮",
+        "onboard_time": 1672489243,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192484,
+        "num": 1580720,
+        "word": "女子面试失败遇HR帮做职业规划",
+        "onboard_time": 1672488881,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2921321,
+        "num": 1558991,
+        "word": "杨幂老婆好美",
+        "onboard_time": 1672494839,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2647110,
+        "num": 1548809,
+        "word": "何炅哭了",
+        "onboard_time": 1672491780,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2416805,
+        "num": 1538387,
+        "word": "江苏卫视能调下收音吗",
+        "onboard_time": 1672495743,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179304,
+        "num": 1529636,
+        "word": "新年头像",
+        "onboard_time": 1672479814,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176110,
+        "num": 1512359,
+        "word": "女子晒6娃日常引争议",
+        "onboard_time": 1672485518,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152905,
+        "num": 1505016,
+        "word": "美专家称中国出现危险变异株可能性极低",
+        "onboard_time": 1672473034,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148181,
+        "num": 1489442,
+        "word": "狼队vs曼联",
+        "onboard_time": 1672490148,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143165,
+        "num": 1480682,
+        "word": "感冒流感新冠病毒感染有何不同",
+        "onboard_time": 1672486599,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139629,
+        "num": 1468280,
+        "word": "全球不共享疫苗病毒将共享世界",
+        "onboard_time": 1672471597,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 125857,
+        "num": 1455808,
+        "word": "小伙阳康后打篮球心脏刺痛被送医",
+        "onboard_time": 1672475317,
+        "rank": 29,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 2095869,
+        "num": 1441016,
+        "word": "江苏卫视全开麦",
+        "onboard_time": 1672490329,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2062633,
+        "num": 1435317,
+        "word": "把郑秀妍焊在舞台上",
+        "onboard_time": 1672495322,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1945315,
+        "num": 1423246,
+        "word": "程潇 假唱",
+        "onboard_time": 1672490752,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1906289,
+        "num": 1406136,
+        "word": "诀爱 梦回苍兰诀",
+        "onboard_time": 1672493094,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116932,
+        "num": 1388532,
+        "word": "哪一刻意识到自己不再年轻了",
+        "onboard_time": 1672479814,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1387474,
+        "num": 1387474,
+        "word": "苏醒公开揽活",
+        "onboard_time": 1672496464,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111838,
+        "num": 1369131,
+        "word": "男子上公厕10分钟门自动打开",
+        "onboard_time": 1672475077,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109191,
+        "num": 1353981,
+        "word": "疫情发生以来每个人都不容易",
+        "onboard_time": 1672486841,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 95034,
+        "num": 1328459,
+        "word": "阴阳师",
+        "onboard_time": 1672479636,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93910,
+        "num": 1311806,
+        "word": "爹妈都是英语专业是什么体验",
+        "onboard_time": 1672474776,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1307396,
+        "num": 1307396,
+        "word": "杨紫 人美歌甜",
+        "onboard_time": 1672491473,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93191,
+        "num": 1304643,
+        "word": "C罗曾说要有尊严地退休",
+        "onboard_time": 1672477834,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86865,
+        "num": 1302534,
+        "word": "3岁萌娃狂吃橘子手脚发黄成小黄人",
+        "onboard_time": 1672495382,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84583,
+        "num": 1296557,
+        "word": "小黄人悬空火炉",
+        "onboard_time": 1672495621,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77498,
+        "num": 1290922,
+        "word": "男子光膀子讨热水老板娘送他一碗粉",
+        "onboard_time": 1672479393,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 77113,
+        "num": 1286791,
+        "word": "女孩捏出1.4厘米小房子台灯仅2毫米",
+        "onboard_time": 1672478971,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72525,
+        "num": 1280747,
+        "word": "你对2023年的期许是什么",
+        "onboard_time": 1672496941,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 71601,
+        "num": 1278683,
+        "word": "新年壁纸",
+        "onboard_time": 1672469132,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66296,
+        "num": 1275279,
+        "word": "专家称健康码在适当时候也退出",
+        "onboard_time": 1672476753,
+        "rank": 48,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 63448,
+        "num": 1268142,
+        "word": "世界第一国际象棋选手22秒赢下比赛",
+        "onboard_time": 1672483297,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023新年贺词#"
+    }
+  }
+}
