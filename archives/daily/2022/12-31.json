@@ -1,6 +1,6 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672451456987,
+  "endTime": 1672454124778,
   "band_list": [
     {
       "raw_hot": 2239899,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 912165,
+      "num": 912165,
+      "word": "央视跨年晚会节目剧透",
+      "onboard_time": 1672453286,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 910674,
       "num": 910674,
       "word": "张文宏建议家中常备血氧仪",
@@ -57,6 +65,14 @@
       "onboard_time": 1672441934,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 736642,
+      "num": 736642,
+      "word": "女子疑因家庭矛盾将婴儿扔出家门",
+      "onboard_time": 1672450585,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 643559,
@@ -131,6 +147,14 @@
       "category": "动漫,网红"
     },
     {
+      "raw_hot": 427718,
+      "num": 427718,
+      "word": "市民为花掉家乐福储值卡排队抢购",
+      "onboard_time": 1672451666,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421552,
       "num": 421552,
       "word": "阳后身上出红疹要警惕",
@@ -179,20 +203,36 @@
       "category": "幽默,幽默"
     },
     {
+      "raw_hot": 358856,
+      "num": 358856,
+      "word": "37岁C罗告别五大联赛",
+      "onboard_time": 1672448606,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 355319,
+      "num": 355319,
+      "word": "2023年是个什么年",
+      "onboard_time": 1672451487,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325692,
+      "num": 325692,
+      "word": "时代少年团理想之途音源上线",
+      "onboard_time": 1672453587,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 324296,
       "num": 324296,
       "word": "中医中药对新冠有效吗",
       "onboard_time": 1672445964,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321378,
-      "num": 321378,
-      "word": "37岁C罗告别五大联赛",
-      "onboard_time": 1672448606,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 318198,
@@ -203,6 +243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 311226,
+      "num": 311226,
+      "word": "5000元礼物放楼道被保洁偷走藏匿",
+      "onboard_time": 1672452327,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310967,
       "num": 310967,
       "word": "上海一出租房月租380马桶在厨房里",
@@ -211,12 +259,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278245,
-      "num": 278245,
-      "word": "女子疑因家庭矛盾将婴儿扔出家门",
-      "onboard_time": 1672450585,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 301335,
+      "num": 301335,
+      "word": "iKON全员签约新公司",
+      "onboard_time": 1672452564,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 294216,
+      "num": 294216,
+      "word": "王一博获年度综艺名场面TOP1",
+      "onboard_time": 1672452205,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 276783,
@@ -232,6 +288,14 @@
       "word": "刘亦菲新剧开播你会追吗",
       "onboard_time": 1672448184,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 272169,
+      "num": 272169,
+      "word": "李承天一个人害了四个人",
+      "onboard_time": 1672452927,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -427,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184453,
+      "num": 184453,
+      "word": "见过最好笑的接机现场",
+      "onboard_time": 1672451666,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184353,
       "num": 184353,
       "word": "周深听见下雨的声音舞台",
@@ -449,6 +521,14 @@
       "onboard_time": 1672420040,
       "rank": 21,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 175811,
+      "num": 137089,
+      "word": "哪种月经用品最好用",
+      "onboard_time": 1672452987,
+      "rank": 32,
+      "category": "其它"
     },
     {
       "raw_hot": 175751,
@@ -523,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156585,
+      "num": 126483,
+      "word": "偶练青你给我们民谣打call",
+      "onboard_time": 1672451307,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156046,
       "num": 68067,
       "word": "廖穗芳被李承天毒死",
@@ -577,14 +665,6 @@
       "onboard_time": 1672414588,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 141405,
-      "num": 119151,
-      "word": "偶练青你给我们民谣打call",
-      "onboard_time": 1672451307,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 140484,
@@ -643,6 +723,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 129075,
+      "num": 129075,
+      "word": "这一年辛苦了",
+      "onboard_time": 1672453646,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125925,
       "num": 125925,
       "word": "男子医院抽血医生边看说明边操作",
@@ -691,12 +779,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114021,
+      "num": 114021,
+      "word": "一句话总结2022",
+      "onboard_time": 1672453286,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113263,
       "num": 92934,
       "word": "方文山说被周深的歌声穿透了",
       "onboard_time": 1672405649,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112554,
+      "num": 112554,
+      "word": "湖人vs老鹰",
+      "onboard_time": 1672453526,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 108032,
@@ -729,6 +833,14 @@
       "onboard_time": 1672450406,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100242,
+      "num": 100242,
+      "word": "女子咳嗽祖父母为其砍竹子烧竹沥",
+      "onboard_time": 1672453884,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93304,
