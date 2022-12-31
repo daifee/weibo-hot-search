@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/31 16:35:05
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/31 17:16:06
 </p>
 </blockquote>
 <p>
@@ -5229,6 +5229,12 @@ B费（热度：1090207）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B9%B4%E5%BA%A6%E5%B0%81%E9%9D%A2%E4%B9%8B%E6%98%9F%23" target="weibo">
+肖战迪丽热巴年度封面之星（热度：1081247）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%23" target="weibo">
 哈兰德（热度：1081113）
 </a>
@@ -6005,12 +6011,6 @@ QQ音乐（热度：999820）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%B3%E6%80%A7%E7%97%85%E4%BE%8B%E7%8E%B0%E5%9C%A8%E4%B8%BB%E8%A6%81%E6%98%AF%E4%B8%8A%E5%91%BC%E5%90%B8%E9%81%93%E7%97%87%E7%8A%B6%23" target="weibo">
 阳性病例现在主要是上呼吸道症状（热度：988376）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%B7%A9%E5%BD%93%E9%80%89%E6%B0%91%E9%9D%A9%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A%E4%B8%AD%E5%A4%AE%E5%89%AF%E4%B8%BB%E5%B8%AD%23" target="weibo">
-冯巩当选民革第十四届中央副主席（热度：986735）
 </a>
 </li>
 
