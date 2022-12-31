@@ -1,6 +1,6 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672467699086,
+  "endTime": 1672468554190,
   "band_list": [
     {
       "raw_hot": 2722542,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 993472,
+      "num": 993472,
+      "word": "李子柒短期内不考虑复出",
+      "onboard_time": 1672464990,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 989811,
       "num": 989811,
       "word": "身高185视角下的163",
@@ -131,20 +139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 922735,
+      "num": 395941,
+      "word": "湖南卫视 节目单",
+      "onboard_time": 1672467392,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 910674,
       "num": 910674,
       "word": "张文宏建议家中常备血氧仪",
       "onboard_time": 1672446686,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 837734,
-      "num": 837734,
-      "word": "李子柒短期内不考虑复出",
-      "onboard_time": 1672464990,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 764227,
@@ -187,6 +195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 606298,
+      "num": 384243,
+      "word": "东方卫视跨年节目单",
+      "onboard_time": 1672466134,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 603946,
       "num": 603946,
       "word": "各大卫视跨年的节目单",
@@ -201,14 +217,6 @@
       "onboard_time": 1672461028,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 573261,
-      "num": 368823,
-      "word": "东方卫视跨年节目单",
-      "onboard_time": 1672466134,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 557210,
@@ -273,6 +281,14 @@
       "onboard_time": 1672415308,
       "rank": 9,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 460812,
+      "num": 460812,
+      "word": "蛋仔派对",
+      "onboard_time": 1672468473,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 459956,
@@ -411,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361648,
+      "num": 361648,
+      "word": "专家称普通新冠感染没必要输液",
+      "onboard_time": 1672466614,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358856,
       "num": 358856,
       "word": "37岁C罗告别五大联赛",
@@ -499,8 +523,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301732,
-      "num": 301732,
+      "raw_hot": 303926,
+      "num": 303926,
       "word": "媒体批大V扣帽式攻击防疫专家令人不齿",
       "onboard_time": 1672463789,
       "rank": 43,
@@ -512,14 +536,6 @@
       "word": "王一博获年度综艺名场面TOP1",
       "onboard_time": 1672452205,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 293856,
-      "num": 223129,
-      "word": "湖南卫视 节目单",
-      "onboard_time": 1672467392,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -643,6 +659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233433,
+      "num": 222802,
+      "word": "7SENSES成员家乡方言送祝福",
+      "onboard_time": 1672467992,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231784,
       "num": 231784,
       "word": "刘耀文东方卫视跨年晚会彩排镜头",
@@ -699,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224258,
+      "num": 224258,
+      "word": "为什么大家如此在意跨年",
+      "onboard_time": 1672465409,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223033,
       "num": 223033,
       "word": "男子拿走外卖称未见餐投诉骑手",
@@ -713,14 +745,6 @@
       "onboard_time": 1672443980,
       "rank": 21,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 216146,
-      "num": 216146,
-      "word": "为什么大家如此在意跨年",
-      "onboard_time": 1672465409,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 215684,
@@ -891,6 +915,38 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189381,
+      "num": 180783,
+      "word": "雷佳音新片撕掉张小斐假睫毛",
+      "onboard_time": 1672468409,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188885,
+      "num": 188885,
+      "word": "普尔41分",
+      "onboard_time": 1672466730,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185328,
+      "num": 180759,
+      "word": "妈妈剪完刘海宝宝连声喊姐姐",
+      "onboard_time": 1672467635,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184773,
+      "num": 172780,
+      "word": "阿凡达",
+      "onboard_time": 1672466971,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184353,
       "num": 184353,
       "word": "周深听见下雨的声音舞台",
@@ -907,12 +963,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181927,
-      "num": 181927,
-      "word": "专家称普通新冠感染没必要输液",
-      "onboard_time": 1672466614,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 180529,
+      "num": 180529,
+      "word": "三体",
+      "onboard_time": 1672466314,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 178981,
@@ -963,14 +1019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173214,
-      "num": 162256,
-      "word": "阿凡达",
-      "onboard_time": 1672466971,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 172326,
       "num": 172326,
       "word": "回来的女儿没烂尾",
@@ -985,22 +1033,6 @@
       "onboard_time": 1672408650,
       "rank": 28,
       "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 167476,
-      "num": 167476,
-      "word": "普尔41分",
-      "onboard_time": 1672466730,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 166945,
-      "num": 166945,
-      "word": "三体",
-      "onboard_time": 1672466314,
-      "rank": 29,
-      "category": "动漫"
     },
     {
       "raw_hot": 165830,
@@ -1049,6 +1081,14 @@
       "onboard_time": 1672453526,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160716,
+      "num": 160716,
+      "word": "妇联回应女子将婴儿扔出家门",
+      "onboard_time": 1672466552,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158738,
@@ -1121,14 +1161,6 @@
       "onboard_time": 1672443077,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 146420,
-      "num": 146420,
-      "word": "妇联回应女子将婴儿扔出家门",
-      "onboard_time": 1672466552,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144971,
@@ -1403,14 +1435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 106633,
-      "num": 106633,
-      "word": "妈妈剪完刘海宝宝连声喊姐姐",
-      "onboard_time": 1672467635,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103622,
       "num": 103622,
       "word": "新年贺词里这些话直抵人心",
@@ -1539,8 +1563,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 60338,
-      "num": 334860,
+      "raw_hot": 63909,
+      "num": 335606,
       "word": "2022谁与你一起越过",
       "onboard_time": 1672466436,
       "rank": 14,
