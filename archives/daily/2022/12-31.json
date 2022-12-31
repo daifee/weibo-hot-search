@@ -1,7 +1,15 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672443216289,
+  "endTime": 1672449912475,
   "band_list": [
+    {
+      "raw_hot": 2200275,
+      "num": 2200275,
+      "word": "把痰咽下去会伤害身体吗",
+      "onboard_time": 1672445120,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1653289,
       "num": 1653289,
@@ -19,12 +27,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 724267,
-      "num": 724267,
+      "raw_hot": 1065933,
+      "num": 1065933,
       "word": "C罗加盟利雅得胜利",
       "onboard_time": 1672441574,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 829422,
+      "num": 829422,
+      "word": "拒绝馒化",
+      "onboard_time": 1672446745,
+      "rank": 4,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 765282,
+      "num": 765282,
+      "word": "张文宏建议家中常备血氧仪",
+      "onboard_time": 1672446686,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 764227,
+      "num": 764227,
+      "word": "廖穗芳死了",
+      "onboard_time": 1672441934,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 643559,
@@ -33,6 +65,14 @@
       "onboard_time": 1672413927,
       "rank": 10,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 606743,
+      "num": 606743,
+      "word": "年轻人结婚的意义是什么",
+      "onboard_time": 1672445363,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 557210,
@@ -49,6 +89,14 @@
       "onboard_time": 1672402531,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 492285,
+      "num": 492285,
+      "word": "为什么有症状却测不出阳",
+      "onboard_time": 1672444279,
+      "rank": 9,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 477783,
@@ -107,12 +155,36 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 397938,
+      "num": 397938,
+      "word": "李泳知showmethemoney冠军",
+      "onboard_time": 1672443077,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 382933,
+      "num": 382933,
+      "word": "肖战看到雪的反应",
+      "onboard_time": 1672448907,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368615,
       "num": 323615,
       "word": "小朋友在床单上画了条鲨鱼",
       "onboard_time": 1672414409,
       "rank": 13,
       "category": "幽默,幽默"
+    },
+    {
+      "raw_hot": 311890,
+      "num": 311890,
+      "word": "第一次见不甜美的萨摩耶",
+      "onboard_time": 1672444821,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 310967,
@@ -123,12 +195,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300642,
+      "num": 300642,
+      "word": "中医中药对新冠有效吗",
+      "onboard_time": 1672445964,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276783,
       "num": 276783,
       "word": "EDG和RNG是懂慈善赛的",
       "onboard_time": 1672412850,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 276496,
+      "num": 276496,
+      "word": "刘亦菲新剧开播你会追吗",
+      "onboard_time": 1672448184,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271596,
+      "num": 271596,
+      "word": "长沙委员建议重启橘子洲烟花表演",
+      "onboard_time": 1672437792,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270084,
@@ -155,6 +251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 250708,
+      "num": 250708,
+      "word": "37岁C罗告别五大联赛",
+      "onboard_time": 1672448606,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244635,
       "num": 223319,
       "word": "李文卓变傻是李承天害的",
@@ -171,20 +275,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237568,
-      "num": 237568,
-      "word": "长沙委员建议重启橘子洲烟花表演",
-      "onboard_time": 1672437792,
-      "rank": 30,
+      "raw_hot": 234457,
+      "num": 234457,
+      "word": "多个平台鱼跃血氧仪涨价数倍",
+      "onboard_time": 1672429992,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234498,
-      "num": 234498,
-      "word": "廖穗芳死了",
-      "onboard_time": 1672441934,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 234087,
+      "num": 234087,
+      "word": "跨年文案",
+      "onboard_time": 1672442116,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 231623,
@@ -211,6 +315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224747,
+      "num": 224747,
+      "word": "李承天最爱李文文",
+      "onboard_time": 1672442176,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221933,
+      "num": 221933,
+      "word": "C罗年薪达到2亿美元",
+      "onboard_time": 1672443980,
+      "rank": 21,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 215684,
       "num": 215684,
       "word": "金泰妍中文新歌",
@@ -227,19 +347,27 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 209612,
+      "num": 209612,
+      "word": "葡萄牙队祝贺C罗加盟利雅得胜利",
+      "onboard_time": 1672447465,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203773,
+      "num": 203773,
+      "word": "苏醒舞台",
+      "onboard_time": 1672443016,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202330,
       "num": 202330,
       "word": "什么情况才会判断为新冠死亡",
       "onboard_time": 1672415786,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200182,
-      "num": 200182,
-      "word": "多个平台鱼跃血氧仪涨价数倍",
-      "onboard_time": 1672429992,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -283,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182219,
-      "num": 173879,
-      "word": "李泳知showmethemoney冠军",
-      "onboard_time": 1672443077,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178981,
       "num": 156811,
       "word": "肖战腊八雪景大片",
@@ -307,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175245,
+      "num": 175245,
+      "word": "黑暗荣耀 好看",
+      "onboard_time": 1672448907,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174654,
       "num": 174654,
       "word": "清融的安琪拉",
@@ -315,12 +443,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 172326,
+      "num": 172326,
+      "word": "回来的女儿没烂尾",
+      "onboard_time": 1672441934,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170227,
       "num": 170227,
       "word": "infp",
       "onboard_time": 1672408650,
       "rank": 28,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 166659,
+      "num": 166659,
+      "word": "如何看待王鹤棣新剧争议",
+      "onboard_time": 1672436472,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 165830,
@@ -363,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152525,
+      "num": 152525,
+      "word": "李宇春下个路口见经典重现",
+      "onboard_time": 1672443077,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 144971,
       "num": 144971,
       "word": "易烊千玺镜头前后反差萌",
@@ -403,6 +555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136509,
+      "num": 136509,
+      "word": "老人坐整夜将大床让给陪护儿子休息",
+      "onboard_time": 1672425072,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135990,
       "num": 135990,
       "word": "清融",
@@ -435,20 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125686,
-      "num": 67674,
-      "word": "李承天最爱李文文",
-      "onboard_time": 1672442176,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 121509,
-      "num": 121509,
-      "word": "老人坐整夜将大床让给陪护儿子休息",
-      "onboard_time": 1672425072,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 120047,
+      "num": 120047,
+      "word": "C罗说利雅得胜利的愿景令人激动",
+      "onboard_time": 1672446381,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 119853,
@@ -459,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119300,
-      "num": 119300,
-      "word": "回来的女儿没烂尾",
-      "onboard_time": 1672441934,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 116711,
       "num": 116711,
       "word": "EDG新阵容首战RNG",
@@ -475,19 +619,27 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 114770,
-      "num": 915433,
+      "raw_hot": 116391,
+      "num": 116391,
+      "word": "天选打工人实况",
+      "onboard_time": 1672447645,
+      "rank": 42,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 116269,
+      "num": 998483,
       "word": "恢复期要注意什么",
       "onboard_time": 1672404508,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114215,
-      "num": 114215,
-      "word": "如何看待王鹤棣新剧争议",
-      "onboard_time": 1672436472,
-      "rank": 9,
+      "raw_hot": 114948,
+      "num": 114948,
+      "word": "廖穗芳的纵容最终害了自己",
+      "onboard_time": 1672447705,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -515,12 +667,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 101055,
-      "num": 101055,
-      "word": "苏醒舞台",
-      "onboard_time": 1672443016,
-      "rank": 20,
-      "category": "音乐"
+      "raw_hot": 103622,
+      "num": 103622,
+      "word": "新年贺词里这些话直抵人心",
+      "onboard_time": 1672449207,
+      "rank": 47,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 93304,
@@ -547,14 +699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89876,
-      "num": 89876,
-      "word": "跨年文案",
-      "onboard_time": 1672442116,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 84764,
       "num": 92382,
       "word": "久诚怎么了",
@@ -577,14 +721,6 @@
       "onboard_time": 1672411532,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77319,
-      "num": 67890,
-      "word": "李宇春下个路口见经典重现",
-      "onboard_time": 1672443077,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 76792,
