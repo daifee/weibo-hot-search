@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672506890587,
+  "endTime": 1672508002557,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1896908,
-      "num": 671059,
+      "num": 711280,
       "word": "许嵩300秒唱了16首歌",
       "onboard_time": 1672504781,
       "rank": 11,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1545013,
-      "num": 662110,
+      "num": 690877,
       "word": "蔡徐坤压轴出场",
       "onboard_time": 1672506155,
       "rank": 22,
@@ -188,19 +188,51 @@
     },
     {
       "raw_hot": 849413,
-      "num": 654129,
+      "num": 688300,
       "word": "关晓彤 改妆",
       "onboard_time": 1672498918,
       "rank": 32,
       "category": "综艺"
     },
     {
+      "raw_hot": 845652,
+      "num": 690120,
+      "word": "收视率",
+      "onboard_time": 1672507766,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 826377,
+      "num": 688498,
+      "word": "周深 艺高人胆大",
+      "onboard_time": 1672506991,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 814735,
-      "num": 653429,
+      "num": 679113,
       "word": "王俊凯单手吊威亚",
       "onboard_time": 1672487986,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 787703,
+      "num": 679875,
+      "word": "虞书欣好瘦",
+      "onboard_time": 1672507110,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 716449,
+      "num": 1019929,
+      "word": "哈兰德",
+      "onboard_time": 1672503826,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 703720,
@@ -209,14 +241,6 @@
       "onboard_time": 1672497717,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 677458,
-      "num": 1019929,
-      "word": "哈兰德",
-      "onboard_time": 1672503826,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 583158,
@@ -235,6 +259,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 376824,
+      "num": 714132,
+      "word": "红包",
+      "onboard_time": 1672505375,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 374467,
       "num": 1032150,
       "word": "2023全糖去冰",
@@ -243,20 +275,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 367041,
-      "num": 669094,
-      "word": "红包",
-      "onboard_time": 1672505375,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 358641,
       "num": 991195,
       "word": "女子带男友回家父母准备几十道菜",
       "onboard_time": 1672502446,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335524,
+      "num": 708682,
+      "word": "2022 再也不见",
+      "onboard_time": 1672505794,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 331355,
@@ -291,12 +323,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 265494,
-      "num": 666531,
-      "word": "2022 再也不见",
-      "onboard_time": 1672505794,
-      "rank": 16,
-      "category": "情感"
+      "raw_hot": 253722,
+      "num": 704751,
+      "word": "小伙坐地铁手机掉进女乘客手提袋",
+      "onboard_time": 1672505258,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210052,
@@ -323,12 +355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185917,
-      "num": 664745,
-      "word": "小伙坐地铁手机掉进女乘客手提袋",
-      "onboard_time": 1672505258,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 186538,
+      "num": 699472,
+      "word": "兔年",
+      "onboard_time": 1672507232,
+      "rank": 22,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 179001,
@@ -379,20 +411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128200,
+      "num": 687074,
+      "word": "上海武警拉链式人墙跨年夜再上岗",
+      "onboard_time": 1672505973,
+      "rank": 34,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 118224,
       "num": 943658,
       "word": "一句话迎接2023",
       "onboard_time": 1672497421,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 116997,
-      "num": 652522,
-      "word": "上海武警拉链式人墙跨年夜再上岗",
-      "onboard_time": 1672505973,
-      "rank": 34,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 115447,
@@ -411,20 +443,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111294,
+      "num": 693957,
+      "word": "上海本轮包含30个奥密克戎亚型毒株",
+      "onboard_time": 1672506811,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108548,
+      "num": 948648,
+      "word": "女子面试失败遇HR帮做职业规划",
+      "onboard_time": 1672488881,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105755,
       "num": 955905,
       "word": "你好2023",
       "onboard_time": 1672503767,
       "rank": 39,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 104864,
-      "num": 948648,
-      "word": "女子面试失败遇HR帮做职业规划",
-      "onboard_time": 1672488881,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96737,
@@ -491,20 +531,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66805,
+      "num": 672800,
+      "word": "尼格买提说00后比80后更爱穿秋裤",
+      "onboard_time": 1672507170,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57125,
       "num": 898731,
       "word": "我的新年祝福文案",
       "onboard_time": 1672504834,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 55903,
-      "num": 641884,
-      "word": "上海本轮包含30个奥密克戎亚型毒株",
-      "onboard_time": 1672506811,
-      "rank": 48,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
