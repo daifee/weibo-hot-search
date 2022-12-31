@@ -1,0 +1,410 @@
+{
+  "runTime": 1672492818048,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12339370,
+        "num": 12339370,
+        "word": "王俊凯单手吊威亚",
+        "onboard_time": 1672487986,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5335024,
+        "num": 5335024,
+        "word": "程潇 假唱",
+        "onboard_time": 1672490752,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181434,
+        "num": 3770977,
+        "word": "祝愿大家新年快乐皆得所愿",
+        "onboard_time": 1672487926,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3215369,
+        "num": 3215369,
+        "word": "虞书欣 妆",
+        "onboard_time": 1672492615,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 960208,
+        "num": 3202962,
+        "word": "大家都在坚忍不拔努力",
+        "onboard_time": 1672486060,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 821753,
+        "num": 3166645,
+        "word": "花少北",
+        "onboard_time": 1672490517,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 674693,
+        "num": 3133239,
+        "word": "2023新年贺词完整视频",
+        "onboard_time": 1672486782,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 377172,
+        "num": 3121758,
+        "word": "阳康后还需要戴口罩吗",
+        "onboard_time": 1672477115,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319209,
+        "num": 3094273,
+        "word": "感冒流感新冠病毒感染有何不同",
+        "onboard_time": 1672486599,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272861,
+        "num": 3067860,
+        "word": "美专家称中国出现危险变异株可能性极低",
+        "onboard_time": 1672473034,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3047026,
+        "num": 3047026,
+        "word": "杨紫 人美歌甜",
+        "onboard_time": 1672491473,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2662567,
+        "num": 2662567,
+        "word": "江苏卫视全开麦",
+        "onboard_time": 1672490329,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2656111,
+        "num": 2656111,
+        "word": "何炅哭了",
+        "onboard_time": 1672491780,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2396834,
+        "num": 2396834,
+        "word": "江苏卫视跨年",
+        "onboard_time": 1672485396,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370613,
+        "num": 2392992,
+        "word": "女子面试失败遇HR帮做职业规划",
+        "onboard_time": 1672488881,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264615,
+        "num": 2316989,
+        "word": "2022",
+        "onboard_time": 1672480416,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244376,
+        "num": 2275195,
+        "word": "疫情发生以来每个人都不容易",
+        "onboard_time": 1672486841,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 239071,
+        "num": 2221565,
+        "word": "浙江男篮vs辽宁男篮",
+        "onboard_time": 1672489243,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226868,
+        "num": 2181818,
+        "word": "爹妈都是英语专业是什么体验",
+        "onboard_time": 1672474776,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 177618,
+        "num": 2124065,
+        "word": "新年头像",
+        "onboard_time": 1672479814,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2099732,
+        "num": 2099732,
+        "word": "宋茜漂亮",
+        "onboard_time": 1672488586,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1827844,
+        "num": 1827844,
+        "word": "杨幂你怎么这么好看",
+        "onboard_time": 1672492677,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230072,
+        "num": 1749295,
+        "word": "女子晒6娃日常引争议",
+        "onboard_time": 1672485518,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174981,
+        "num": 1701048,
+        "word": "C罗曾说要有尊严地退休",
+        "onboard_time": 1672477834,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216417,
+        "num": 1698961,
+        "word": "小伙阳康后打篮球心脏刺痛被送医",
+        "onboard_time": 1672475317,
+        "rank": 24,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1698252,
+        "num": 1698252,
+        "word": "薛之谦唱孤勇者",
+        "onboard_time": 1672490148,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200255,
+        "num": 1691205,
+        "word": "全球不共享疫苗病毒将共享世界",
+        "onboard_time": 1672471597,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 175921,
+        "num": 1654001,
+        "word": "男孩跪路边求买玩具妈妈淡定拍照",
+        "onboard_time": 1672491231,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162031,
+        "num": 1600584,
+        "word": "男子上公厕10分钟门自动打开",
+        "onboard_time": 1672475077,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157196,
+        "num": 1570251,
+        "word": "2023请多关照",
+        "onboard_time": 1672491531,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1544149,
+        "num": 1544149,
+        "word": "跨年节目单",
+        "onboard_time": 1672457487,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1391883,
+        "num": 1391883,
+        "word": "关晓彤眼线",
+        "onboard_time": 1672492193,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1374089,
+        "num": 1374089,
+        "word": "谁在撕心裂肺的喊于文文",
+        "onboard_time": 1672491045,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1313105,
+        "num": 1313105,
+        "word": "湖南卫视跨年晚会",
+        "onboard_time": 1672485455,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157828,
+        "num": 1290736,
+        "word": "女孩捏出1.4厘米小房子台灯仅2毫米",
+        "onboard_time": 1672478971,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147331,
+        "num": 1286075,
+        "word": "1元8个的街头臭豆腐",
+        "onboard_time": 1672482456,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146495,
+        "num": 1253311,
+        "word": "狼队vs曼联",
+        "onboard_time": 1672490148,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144011,
+        "num": 1233994,
+        "word": "哪一刻意识到自己不再年轻了",
+        "onboard_time": 1672479814,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135365,
+        "num": 1205828,
+        "word": "男子光膀子讨热水老板娘送他一碗粉",
+        "onboard_time": 1672479393,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 26517,
+        "num": 1184348,
+        "word": "这些画面承载了我的2022",
+        "onboard_time": 1672491655,
+        "rank": 39,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1173041,
+        "num": 1173041,
+        "word": "央视跨年晚会",
+        "onboard_time": 1672487259,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133180,
+        "num": 1170509,
+        "word": "阴阳师",
+        "onboard_time": 1672479636,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133086,
+        "num": 1164189,
+        "word": "新年壁纸",
+        "onboard_time": 1672469132,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116338,
+        "num": 1163878,
+        "word": "跨年配图",
+        "onboard_time": 1672490207,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111711,
+        "num": 1157932,
+        "word": "和平精英可以盖房了",
+        "onboard_time": 1672479331,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99697,
+        "num": 1154137,
+        "word": "2023全糖去冰",
+        "onboard_time": 1672492074,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95604,
+        "num": 1148614,
+        "word": "2022最后一天还在忙碌的大家辛苦了",
+        "onboard_time": 1672487986,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 88355,
+        "num": 1144435,
+        "word": "世界第一国际象棋选手22秒赢下比赛",
+        "onboard_time": 1672483297,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78469,
+        "num": 1137895,
+        "word": "专家称健康码在适当时候也退出",
+        "onboard_time": 1672476753,
+        "rank": 48,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 60383,
+        "num": 1133668,
+        "word": "我来了2023",
+        "onboard_time": 1672490752,
+        "rank": 49,
+        "category": "游戏,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023新年贺词#"
+    }
+  }
+}
