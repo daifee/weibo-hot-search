@@ -1,0 +1,410 @@
+{
+  "runTime": 1672463741961,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2276765,
+        "num": 2276765,
+        "word": "普通外科口罩无法阻止奥密克戎",
+        "onboard_time": 1672460848,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1768855,
+        "num": 1768855,
+        "word": "跨年节目单",
+        "onboard_time": 1672457487,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79259,
+        "num": 1386548,
+        "word": "一图了解重点人群恢复期健康指导",
+        "onboard_time": 1672458566,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1261611,
+        "num": 1261611,
+        "word": "小伙阳后胸闷医生查完感叹命真大",
+        "onboard_time": 1672460727,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014414,
+        "num": 1014414,
+        "word": "把痰咽下去会伤害身体吗",
+        "onboard_time": 1672445120,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 980846,
+        "num": 980846,
+        "word": "身高185视角下的163",
+        "onboard_time": 1672461447,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 617569,
+        "num": 617569,
+        "word": "研究称防二次感染关键是鼻子",
+        "onboard_time": 1672457247,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488470,
+        "num": 488470,
+        "word": "20余名黄牛靠插队拿殡葬名额倒卖被抓",
+        "onboard_time": 1672461028,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434179,
+        "num": 434179,
+        "word": "男子阳后缺氧用饮料瓶自制制氧机",
+        "onboard_time": 1672459407,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412009,
+        "num": 412009,
+        "word": "东方卫视跨年",
+        "onboard_time": 1672456946,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1065870,
+        "num": 402698,
+        "word": "易烊千玺今年没有跨年晚会",
+        "onboard_time": 1672457064,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710917,
+        "num": 397414,
+        "word": "肖战学会骑电动车",
+        "onboard_time": 1672459586,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445923,
+        "num": 395126,
+        "word": "允儿呀 就是现在该流泪了",
+        "onboard_time": 1672462407,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389371,
+        "num": 389371,
+        "word": "詹姆斯生日夜杀疯了",
+        "onboard_time": 1672455807,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451859,
+        "num": 381313,
+        "word": "拒绝馒化",
+        "onboard_time": 1672446745,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 370066,
+        "num": 370066,
+        "word": "星汉灿烂的新年祝福",
+        "onboard_time": 1672461447,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328573,
+        "num": 328573,
+        "word": "女子咳嗽祖父母为其砍竹子烧竹沥",
+        "onboard_time": 1672453884,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285106,
+        "num": 285106,
+        "word": "C罗加盟利雅得胜利",
+        "onboard_time": 1672441574,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276141,
+        "num": 276141,
+        "word": "多地公布新冠感染率调查情况",
+        "onboard_time": 1672459407,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267397,
+        "num": 267397,
+        "word": "有妖气漫画正式关停",
+        "onboard_time": 1672462765,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 307902,
+        "num": 266749,
+        "word": "虞书欣东方卫视跨年晚会彩排照",
+        "onboard_time": 1672461986,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302795,
+        "num": 266642,
+        "word": "刘诗诗2022年终总结",
+        "onboard_time": 1672460727,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265741,
+        "num": 265741,
+        "word": "各大卫视跨年的节目单",
+        "onboard_time": 1672463429,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255577,
+        "num": 255577,
+        "word": "女生阳后发现戴帽子的人变多了",
+        "onboard_time": 1672409794,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244481,
+        "num": 244481,
+        "word": "超7成年轻人年末换手机首选iPhone",
+        "onboard_time": 1672455926,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 262119,
+        "num": 239758,
+        "word": "央视跨年晚会节目剧透",
+        "onboard_time": 1672453286,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232230,
+        "num": 232230,
+        "word": "90后北漂开餐馆赔了200万3年没回家",
+        "onboard_time": 1672457364,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229783,
+        "num": 229783,
+        "word": "专四",
+        "onboard_time": 1672460127,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 226623,
+        "num": 226623,
+        "word": "张文宏建议家中常备血氧仪",
+        "onboard_time": 1672446686,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201093,
+        "num": 201093,
+        "word": "女子疑因家庭矛盾将婴儿扔出家门",
+        "onboard_time": 1672450585,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237807,
+        "num": 201046,
+        "word": "廖穗芳死了",
+        "onboard_time": 1672441934,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209178,
+        "num": 200494,
+        "word": "九尾说王鹤棣是大邺第一刺客",
+        "onboard_time": 1672457064,
+        "rank": 31,
+        "category": "影视,游戏"
+      },
+      {
+        "raw_hot": 199931,
+        "num": 199931,
+        "word": "烟花",
+        "onboard_time": 1672461686,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184365,
+        "num": 184365,
+        "word": "刘耀文东方卫视跨年晚会彩排镜头",
+        "onboard_time": 1672459829,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154891,
+        "num": 154891,
+        "word": "哪种月经用品最好用",
+        "onboard_time": 1672452987,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 167467,
+        "num": 154632,
+        "word": "iKON全员签约新公司",
+        "onboard_time": 1672452564,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150556,
+        "num": 150556,
+        "word": "为什么有症状却测不出阳",
+        "onboard_time": 1672444279,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 149214,
+        "num": 149214,
+        "word": "年轻人结婚的意义是什么",
+        "onboard_time": 1672445363,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130972,
+        "num": 130972,
+        "word": "别了水银温度计",
+        "onboard_time": 1672411234,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125267,
+        "num": 125267,
+        "word": "18岁vs28岁女孩爱情观差别有多大",
+        "onboard_time": 1672463068,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143968,
+        "num": 125228,
+        "word": "去炫吧乐派",
+        "onboard_time": 1672463184,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124982,
+        "num": 124982,
+        "word": "2023年是个什么年",
+        "onboard_time": 1672451487,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120289,
+        "num": 120289,
+        "word": "跨年文案",
+        "onboard_time": 1672442116,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111352,
+        "num": 111352,
+        "word": "江母说我是江歌一生的妈妈",
+        "onboard_time": 1672463486,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108845,
+        "num": 108845,
+        "word": "拉小提琴和拉二胡的都沉默了",
+        "onboard_time": 1672461569,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101551,
+        "num": 101551,
+        "word": "斗罗大陆",
+        "onboard_time": 1672462831,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 98667,
+        "num": 98667,
+        "word": "韩乔生说C罗转会曼联或是最大错误",
+        "onboard_time": 1672455088,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 97953,
+        "num": 97953,
+        "word": "男子拿走外卖称未见餐投诉骑手",
+        "onboard_time": 1672456767,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94962,
+        "num": 94962,
+        "word": "7人用鸭肉做假牛羊肉卷被判刑",
+        "onboard_time": 1672454606,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90000,
+        "num": 94790,
+        "word": "你想对今年的自己说什么",
+        "onboard_time": 1672462227,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年贺词里这些话直抵人心#"
+    }
+  }
+}
