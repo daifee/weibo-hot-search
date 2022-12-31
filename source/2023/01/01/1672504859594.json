@@ -1,0 +1,410 @@
+{
+  "runTime": 1672504859594,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8463308,
+        "num": 8463308,
+        "word": "新年快乐",
+        "onboard_time": 1672501434,
+        "rank": 0,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 4899837,
+        "num": 4899837,
+        "word": "鞠婧祎胎毛刘海",
+        "onboard_time": 1672501792,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3890644,
+        "num": 3890644,
+        "word": "五个王源",
+        "onboard_time": 1672501848,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3762173,
+        "num": 3762173,
+        "word": "赵露思腮红谁打的",
+        "onboard_time": 1672499573,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1728466,
+        "num": 1728466,
+        "word": "跨年文案",
+        "onboard_time": 1672493518,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1041827,
+        "num": 1041827,
+        "word": "上海迪士尼新年特别版烟花秀",
+        "onboard_time": 1672500532,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1040095,
+        "num": 1040095,
+        "word": "xbb",
+        "onboard_time": 1672501491,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583158,
+        "num": 1037258,
+        "word": "河南的跨年有多浪漫",
+        "onboard_time": 1672501011,
+        "rank": 7,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 549084,
+        "num": 1035742,
+        "word": "烟花",
+        "onboard_time": 1672497717,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331818,
+        "num": 1032150,
+        "word": "2023全糖去冰",
+        "onboard_time": 1672492074,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3365027,
+        "num": 1030071,
+        "word": "艾薇儿终于来了",
+        "onboard_time": 1672503111,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2895615,
+        "num": 1026315,
+        "word": "张艺兴 压轴",
+        "onboard_time": 1672502089,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2540470,
+        "num": 1023916,
+        "word": "王鹤棣你小子别太帅",
+        "onboard_time": 1672499933,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372005,
+        "num": 1019929,
+        "word": "哈兰德",
+        "onboard_time": 1672503826,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337148,
+        "num": 1018327,
+        "word": "南部战区揭露美军机抵近侦察真相",
+        "onboard_time": 1672494417,
+        "rank": 14,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 268794,
+        "num": 1014336,
+        "word": "转阴后还是很累怎么恢复",
+        "onboard_time": 1672498381,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245010,
+        "num": 1010473,
+        "word": "跨年配图",
+        "onboard_time": 1672490207,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226775,
+        "num": 1008383,
+        "word": "新年祝福",
+        "onboard_time": 1672502747,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 209695,
+        "num": 1006386,
+        "word": "2023新年贺词完整视频",
+        "onboard_time": 1672486782,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 199004,
+        "num": 1001863,
+        "word": "花少北",
+        "onboard_time": 1672490517,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2295417,
+        "num": 998738,
+        "word": "蔡徐坤 又一年我们在一起跨年",
+        "onboard_time": 1672502747,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2181843,
+        "num": 996158,
+        "word": "YG新女团",
+        "onboard_time": 1672502502,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1953427,
+        "num": 992379,
+        "word": "王一博赤脚跳舞",
+        "onboard_time": 1672495925,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189506,
+        "num": 991195,
+        "word": "女子带男友回家父母准备几十道菜",
+        "onboard_time": 1672502446,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154715,
+        "num": 988852,
+        "word": "3岁萌娃狂吃橘子手脚发黄成小黄人",
+        "onboard_time": 1672495382,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151720,
+        "num": 983830,
+        "word": "新年快乐表情包",
+        "onboard_time": 1672502330,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150142,
+        "num": 981917,
+        "word": "新年头像",
+        "onboard_time": 1672479814,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143786,
+        "num": 979574,
+        "word": "2022再见",
+        "onboard_time": 1672503348,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 135925,
+        "num": 975561,
+        "word": "巴萨vs西班牙人",
+        "onboard_time": 1672499755,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134413,
+        "num": 973861,
+        "word": "感冒流感新冠病毒感染有何不同",
+        "onboard_time": 1672486599,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1453440,
+        "num": 971201,
+        "word": "周深跨年好忙",
+        "onboard_time": 1672495798,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1414582,
+        "num": 965965,
+        "word": "难听",
+        "onboard_time": 1672494360,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1288281,
+        "num": 963599,
+        "word": "何炅哭了",
+        "onboard_time": 1672491780,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1156772,
+        "num": 960024,
+        "word": "aespa开麦",
+        "onboard_time": 1672503584,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122555,
+        "num": 958982,
+        "word": "男孩跪路边求买玩具妈妈淡定拍照",
+        "onboard_time": 1672491231,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105755,
+        "num": 955905,
+        "word": "你好2023",
+        "onboard_time": 1672503767,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 99051,
+        "num": 951197,
+        "word": "女子晒6娃日常引争议",
+        "onboard_time": 1672485518,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98808,
+        "num": 948648,
+        "word": "女子面试失败遇HR帮做职业规划",
+        "onboard_time": 1672488881,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85276,
+        "num": 945159,
+        "word": "曼城vs埃弗顿",
+        "onboard_time": 1672503467,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84232,
+        "num": 943658,
+        "word": "一句话迎接2023",
+        "onboard_time": 1672497421,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 941645,
+        "num": 941645,
+        "word": "王俊凯台风",
+        "onboard_time": 1672503348,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 918011,
+        "num": 918011,
+        "word": "刘宇宁张艺凡 寻一个你",
+        "onboard_time": 1672503946,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81656,
+        "num": 915623,
+        "word": "阳康后还需要戴口罩吗",
+        "onboard_time": 1672477115,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80186,
+        "num": 913350,
+        "word": "新的一年",
+        "onboard_time": 1672504425,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 77864,
+        "num": 910875,
+        "word": "疫情发生以来每个人都不容易",
+        "onboard_time": 1672486841,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 77207,
+        "num": 907942,
+        "word": "祝愿大家新年快乐皆得所愿",
+        "onboard_time": 1672487926,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 76704,
+        "num": 906698,
+        "word": "哪一刻意识到自己不再年轻了",
+        "onboard_time": 1672479814,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65340,
+        "num": 904686,
+        "word": "迎接2023",
+        "onboard_time": 1672500412,
+        "rank": 47,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 59829,
+        "num": 901381,
+        "word": "蛋仔派对",
+        "onboard_time": 1672495856,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 57125,
+        "num": 898731,
+        "word": "我的新年祝福文案",
+        "onboard_time": 1672504834,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023新年贺词#"
+    }
+  }
+}
