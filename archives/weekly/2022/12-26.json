@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672454124778,
+  "endTime": 1672454693733,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -1003,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1193261,
+      "num": 1193261,
+      "word": "央视跨年晚会节目剧透",
+      "onboard_time": 1672453286,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1177103,
       "num": 1177103,
       "word": "浮图缘",
@@ -1537,14 +1545,6 @@
       "onboard_time": 1672122568,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 912165,
-      "num": 912165,
-      "word": "央视跨年晚会节目剧透",
-      "onboard_time": 1672453286,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 910674,
@@ -2139,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 754157,
+      "num": 754157,
+      "word": "女子疑因家庭矛盾将婴儿扔出家门",
+      "onboard_time": 1672450585,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753193,
       "num": 753193,
       "word": "男子称转阴3天后出门受凉复阳",
@@ -2193,14 +2201,6 @@
       "onboard_time": 1672237053,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 736642,
-      "num": 736642,
-      "word": "女子疑因家庭矛盾将婴儿扔出家门",
-      "onboard_time": 1672450585,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 731751,
@@ -4051,6 +4051,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 451371,
+      "num": 436342,
+      "word": "市民为花掉家乐福储值卡排队抢购",
+      "onboard_time": 1672451666,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451062,
       "num": 391100,
       "word": "顾南亭怀念去世女友",
@@ -4361,14 +4369,6 @@
       "onboard_time": 1672287032,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 427718,
-      "num": 427718,
-      "word": "市民为花掉家乐福储值卡排队抢购",
-      "onboard_time": 1672451666,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 425501,
@@ -5395,6 +5395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 352165,
+      "num": 352165,
+      "word": "5000元礼物放楼道被保洁偷走藏匿",
+      "onboard_time": 1672452327,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352092,
       "num": 352092,
       "word": "吴磊担心车被偷走",
@@ -5713,6 +5721,14 @@
       "onboard_time": 1672184723,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 332891,
+      "num": 332891,
+      "word": "iKON全员签约新公司",
+      "onboard_time": 1672452564,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 332623,
@@ -6187,14 +6203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 311226,
-      "num": 311226,
-      "word": "5000元礼物放楼道被保洁偷走藏匿",
-      "onboard_time": 1672452327,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310977,
       "num": 310977,
       "word": "徐艺洋叫刘些宁宝贝",
@@ -6315,14 +6323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 301335,
-      "num": 301335,
-      "word": "iKON全员签约新公司",
-      "onboard_time": 1672452564,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300787,
       "num": 300787,
       "word": "裴珠泫跳poppy手势舞",
@@ -6419,6 +6419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296450,
+      "num": 296450,
+      "word": "王一博获年度综艺名场面TOP1",
+      "onboard_time": 1672452205,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295981,
       "num": 295981,
       "word": "mbti",
@@ -6457,14 +6465,6 @@
       "onboard_time": 1672272086,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294216,
-      "num": 294216,
-      "word": "王一博获年度综艺名场面TOP1",
-      "onboard_time": 1672452205,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 294195,
@@ -6753,6 +6753,14 @@
       "onboard_time": 1672289371,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279827,
+      "num": 279827,
+      "word": "女子咳嗽祖父母为其砍竹子烧竹沥",
+      "onboard_time": 1672453884,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279397,
@@ -9363,6 +9371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190972,
+      "num": 190972,
+      "word": "见过最好笑的接机现场",
+      "onboard_time": 1672451666,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190816,
       "num": 169814,
       "word": "张艺兴东方卫视跨年盛典官宣海报",
@@ -9689,14 +9705,6 @@
       "onboard_time": 1672405471,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 184453,
-      "num": 184453,
-      "word": "见过最好笑的接机现场",
-      "onboard_time": 1672451666,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 184429,
@@ -10124,7 +10132,7 @@
     },
     {
       "raw_hot": 175811,
-      "num": 137089,
+      "num": 155183,
       "word": "哪种月经用品最好用",
       "onboard_time": 1672452987,
       "rank": 32,
@@ -10601,6 +10609,14 @@
       "onboard_time": 1672364189,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165611,
+      "num": 152974,
+      "word": "汪苏泷新歌少年般绚丽",
+      "onboard_time": 1672454124,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 165545,
@@ -12147,6 +12163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135566,
+      "num": 135566,
+      "word": "这一年辛苦了",
+      "onboard_time": 1672453646,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135364,
       "num": 402655,
       "word": "新年发财要积极",
@@ -12352,14 +12376,6 @@
       "word": "阳康后如何避免二次感染",
       "onboard_time": 1672217008,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129075,
-      "num": 129075,
-      "word": "这一年辛苦了",
-      "onboard_time": 1672453646,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -12745,6 +12761,14 @@
       "onboard_time": 1672147832,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 116740,
+      "num": 116740,
+      "word": "一条视频告别2022",
+      "onboard_time": 1672454247,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 116656,
@@ -13171,14 +13195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100242,
-      "num": 100242,
-      "word": "女子咳嗽祖父母为其砍竹子烧竹沥",
-      "onboard_time": 1672453884,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99947,
       "num": 99947,
       "word": "2022年最后5天",
@@ -13313,6 +13329,14 @@
       "onboard_time": 1672268775,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 88481,
+      "num": 88481,
+      "word": "7人用鸭肉做假牛羊肉卷被判刑",
+      "onboard_time": 1672454606,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87168,

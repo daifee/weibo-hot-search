@@ -1,6 +1,6 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672454124778,
+  "endTime": 1672454693733,
   "band_list": [
     {
       "raw_hot": 2239899,
@@ -35,20 +35,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1193261,
+      "num": 1193261,
+      "word": "央视跨年晚会节目剧透",
+      "onboard_time": 1672453286,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1065933,
       "num": 1065933,
       "word": "C罗加盟利雅得胜利",
       "onboard_time": 1672441574,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 912165,
-      "num": 912165,
-      "word": "央视跨年晚会节目剧透",
-      "onboard_time": 1672453286,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 910674,
@@ -67,8 +67,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 736642,
-      "num": 736642,
+      "raw_hot": 754157,
+      "num": 754157,
       "word": "女子疑因家庭矛盾将婴儿扔出家门",
       "onboard_time": 1672450585,
       "rank": 16,
@@ -139,20 +139,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451371,
+      "num": 436342,
+      "word": "市民为花掉家乐福储值卡排队抢购",
+      "onboard_time": 1672451666,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443973,
       "num": 320604,
       "word": "禾野",
       "onboard_time": 1672404208,
       "rank": 12,
       "category": "动漫,网红"
-    },
-    {
-      "raw_hot": 427718,
-      "num": 427718,
-      "word": "市民为花掉家乐福储值卡排队抢购",
-      "onboard_time": 1672451666,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 421552,
@@ -219,6 +219,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352165,
+      "num": 352165,
+      "word": "5000元礼物放楼道被保洁偷走藏匿",
+      "onboard_time": 1672452327,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332891,
+      "num": 332891,
+      "word": "iKON全员签约新公司",
+      "onboard_time": 1672452564,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325692,
       "num": 325692,
       "word": "时代少年团理想之途音源上线",
@@ -243,14 +259,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 311226,
-      "num": 311226,
-      "word": "5000元礼物放楼道被保洁偷走藏匿",
-      "onboard_time": 1672452327,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310967,
       "num": 310967,
       "word": "上海一出租房月租380马桶在厨房里",
@@ -259,20 +267,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301335,
-      "num": 301335,
-      "word": "iKON全员签约新公司",
-      "onboard_time": 1672452564,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 294216,
-      "num": 294216,
+      "raw_hot": 296450,
+      "num": 296450,
       "word": "王一博获年度综艺名场面TOP1",
       "onboard_time": 1672452205,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279827,
+      "num": 279827,
+      "word": "女子咳嗽祖父母为其砍竹子烧竹沥",
+      "onboard_time": 1672453884,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276783,
@@ -475,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190972,
+      "num": 190972,
+      "word": "见过最好笑的接机现场",
+      "onboard_time": 1672451666,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190805,
       "num": 166287,
       "word": "廖穗芳带着遗憾永远离开了",
@@ -489,14 +505,6 @@
       "onboard_time": 1672436472,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184453,
-      "num": 184453,
-      "word": "见过最好笑的接机现场",
-      "onboard_time": 1672451666,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 184353,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 175811,
-      "num": 137089,
+      "num": 155183,
       "word": "哪种月经用品最好用",
       "onboard_time": 1672452987,
       "rank": 32,
@@ -577,6 +585,14 @@
       "onboard_time": 1672404149,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 165611,
+      "num": 152974,
+      "word": "汪苏泷新歌少年般绚丽",
+      "onboard_time": 1672454124,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 164176,
@@ -699,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135566,
+      "num": 135566,
+      "word": "这一年辛苦了",
+      "onboard_time": 1672453646,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135548,
       "num": 135548,
       "word": "台湾女生来河南工作以后",
@@ -721,14 +745,6 @@
       "onboard_time": 1672447645,
       "rank": 42,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 129075,
-      "num": 129075,
-      "word": "这一年辛苦了",
-      "onboard_time": 1672453646,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125925,
@@ -761,6 +777,14 @@
       "onboard_time": 1672421896,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116740,
+      "num": 116740,
+      "word": "一条视频告别2022",
+      "onboard_time": 1672454247,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 116711,
@@ -835,14 +859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100242,
-      "num": 100242,
-      "word": "女子咳嗽祖父母为其砍竹子烧竹沥",
-      "onboard_time": 1672453884,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93304,
       "num": 93304,
       "word": "流浪的猫咪只能在垃圾堆过冬了",
@@ -865,6 +881,14 @@
       "onboard_time": 1672433471,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88481,
+      "num": 88481,
+      "word": "7人用鸭肉做假牛羊肉卷被判刑",
+      "onboard_time": 1672454606,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84764,
