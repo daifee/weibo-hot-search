@@ -1,0 +1,402 @@
+{
+  "runTime": 1672522411101,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 531968,
+        "num": 531968,
+        "word": "xbb",
+        "onboard_time": 1672501491,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231019,
+        "num": 231019,
+        "word": "收视率",
+        "onboard_time": 1672507766,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270068,
+        "num": 176327,
+        "word": "丈夫给阳性妻子做鸡汤熬出粪便",
+        "onboard_time": 1672515314,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175092,
+        "num": 175092,
+        "word": "2023新年心愿",
+        "onboard_time": 1672522212,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140656,
+        "num": 140656,
+        "word": "张艺兴 压轴",
+        "onboard_time": 1672502089,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133713,
+        "num": 133713,
+        "word": "赵露思腮红谁打的",
+        "onboard_time": 1672499573,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68834,
+        "num": 68834,
+        "word": "兔年",
+        "onboard_time": 1672507232,
+        "rank": 7,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 56127,
+        "num": 56127,
+        "word": "新年快乐",
+        "onboard_time": 1672501434,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 51464,
+        "num": 56121,
+        "word": "小伙坐地铁手机掉进女乘客手提袋",
+        "onboard_time": 1672505258,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128233,
+        "num": 56097,
+        "word": "鄂尔多斯感染人数中仅1.75%无症状",
+        "onboard_time": 1672517594,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120598,
+        "num": 56078,
+        "word": "鞠婧祎发型师在干嘛",
+        "onboard_time": 1672512138,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102631,
+        "num": 56061,
+        "word": "王鹤棣你小子别太帅",
+        "onboard_time": 1672499933,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89603,
+        "num": 56039,
+        "word": "上海武警拉链式人墙跨年夜再上岗",
+        "onboard_time": 1672505973,
+        "rank": 13,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 89203,
+        "num": 56027,
+        "word": "艾薇儿终于来了",
+        "onboard_time": 1672503111,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59222,
+        "num": 56007,
+        "word": "看过火影和没看过的都沉默了",
+        "onboard_time": 1672515314,
+        "rank": 15,
+        "category": "动漫,幽默"
+      },
+      {
+        "raw_hot": 51818,
+        "num": 55996,
+        "word": "这个蛋糕有点丑",
+        "onboard_time": 1672516574,
+        "rank": 16,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 35923,
+        "num": 55963,
+        "word": "上海迪士尼新年特别版烟花秀",
+        "onboard_time": 1672500532,
+        "rank": 17,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 35788,
+        "num": 55960,
+        "word": "南部战区揭露美军机抵近侦察真相",
+        "onboard_time": 1672494417,
+        "rank": 18,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 35356,
+        "num": 55942,
+        "word": "女子带男友回家父母准备几十道菜",
+        "onboard_time": 1672502446,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75818,
+        "num": 55916,
+        "word": "许嵩300秒唱了16首歌",
+        "onboard_time": 1672504781,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71577,
+        "num": 55894,
+        "word": "何炅哭了",
+        "onboard_time": 1672491780,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69157,
+        "num": 55880,
+        "word": "YG新女团",
+        "onboard_time": 1672502502,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33394,
+        "num": 55851,
+        "word": "转阴后还是很累怎么恢复",
+        "onboard_time": 1672498381,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33058,
+        "num": 55846,
+        "word": "2022 再也不见",
+        "onboard_time": 1672505794,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31098,
+        "num": 55826,
+        "word": "河南的跨年有多浪漫",
+        "onboard_time": 1672501011,
+        "rank": 25,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 30964,
+        "num": 55798,
+        "word": "上海本轮包含30个奥密克戎亚型毒株",
+        "onboard_time": 1672506811,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29011,
+        "num": 55776,
+        "word": "红包",
+        "onboard_time": 1672505375,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28186,
+        "num": 55770,
+        "word": "感冒流感新冠病毒感染有何不同",
+        "onboard_time": 1672486599,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25970,
+        "num": 55740,
+        "word": "跨年文案",
+        "onboard_time": 1672493518,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76077,
+        "num": 55737,
+        "word": "家属回应百岁老人感染13天后康复",
+        "onboard_time": 1672518314,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66325,
+        "num": 55709,
+        "word": "虞书欣好瘦",
+        "onboard_time": 1672507110,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60167,
+        "num": 55702,
+        "word": "王一博 神的孩子在跳舞",
+        "onboard_time": 1672518433,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55683,
+        "num": 55683,
+        "word": "杨幂你怎么这么好看",
+        "onboard_time": 1672492677,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54637,
+        "num": 54637,
+        "word": "程潇 假唱",
+        "onboard_time": 1672490752,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29775,
+        "num": 54599,
+        "word": "做梦也没想到会被肚子卡住",
+        "onboard_time": 1672516874,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28281,
+        "num": 53266,
+        "word": "当健身人杨康后",
+        "onboard_time": 1672515314,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24174,
+        "num": 52939,
+        "word": "这狗还能感觉到尴尬",
+        "onboard_time": 1672517534,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23907,
+        "num": 52125,
+        "word": "2023元旦快乐",
+        "onboard_time": 1672515375,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 23209,
+        "num": 51231,
+        "word": "2023壁纸",
+        "onboard_time": 1672515314,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51179,
+        "num": 51179,
+        "word": "王俊凯单手吊威亚",
+        "onboard_time": 1672487986,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40673,
+        "num": 51172,
+        "word": "蔡徐坤压轴出场",
+        "onboard_time": 1672506155,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22836,
+        "num": 51156,
+        "word": "烟花",
+        "onboard_time": 1672497717,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22389,
+        "num": 51136,
+        "word": "你好2023",
+        "onboard_time": 1672503767,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 19579,
+        "num": 51130,
+        "word": "新年祝福",
+        "onboard_time": 1672502747,
+        "rank": 44,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 18792,
+        "num": 51119,
+        "word": "女子面试失败遇HR帮做职业规划",
+        "onboard_time": 1672488881,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16627,
+        "num": 51102,
+        "word": "曼城1比1埃弗顿",
+        "onboard_time": 1672515856,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16624,
+        "num": 51083,
+        "word": "哈兰德",
+        "onboard_time": 1672503826,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15124,
+        "num": 51076,
+        "word": "2023新年贺词完整视频",
+        "onboard_time": 1672486782,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 14641,
+        "num": 51051,
+        "word": "说说你的2023新年愿望",
+        "onboard_time": 1672517774,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023新年贺词#"
+    }
+  }
+}
