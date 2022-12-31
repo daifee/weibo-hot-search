@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672511678545,
+  "endTime": 1672513999047,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -241,6 +241,14 @@
       "onboard_time": 1672497717,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 687154,
+      "num": 687154,
+      "word": "鞠婧祎发型师在干嘛",
+      "onboard_time": 1672512138,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 583158,
@@ -563,11 +571,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 40212,
+      "raw_hot": 44571,
       "num": 377282,
       "word": "外滩保安喇叭提醒路边导游不可信",
       "onboard_time": 1672510461,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25954,
+      "num": 185504,
+      "word": "女子视频记录公婆跳舞丈夫抱娃欣赏",
+      "onboard_time": 1672513516,
+      "rank": 47,
       "category": "社会新闻"
     }
   ],

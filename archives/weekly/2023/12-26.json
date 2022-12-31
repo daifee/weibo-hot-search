@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672511678545,
+  "endTime": 1672513999047,
   "band_list": [
     {
       "raw_hot": 12836148,
@@ -3081,6 +3081,14 @@
       "onboard_time": 1672055072,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687154,
+      "num": 687154,
+      "word": "鞠婧祎发型师在干嘛",
+      "onboard_time": 1672512138,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 682040,
@@ -15851,6 +15859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44571,
+      "num": 377282,
+      "word": "外滩保安喇叭提醒路边导游不可信",
+      "onboard_time": 1672510461,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44479,
       "num": 44479,
       "word": "曼联vs诺丁汉森林",
@@ -15897,14 +15913,6 @@
       "onboard_time": 1672159401,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 40212,
-      "num": 377282,
-      "word": "外滩保安喇叭提醒路边导游不可信",
-      "onboard_time": 1672510461,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40164,
@@ -16008,6 +16016,14 @@
       "word": "特色年货将实现同城速达",
       "onboard_time": 1672380028,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25954,
+      "num": 185504,
+      "word": "女子视频记录公婆跳舞丈夫抱娃欣赏",
+      "onboard_time": 1672513516,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
