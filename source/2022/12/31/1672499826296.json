@@ -1,0 +1,410 @@
+{
+  "runTime": 1672499826296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7985400,
+        "num": 7985400,
+        "word": "王一博赤脚跳舞",
+        "onboard_time": 1672495925,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4181311,
+        "num": 4181311,
+        "word": "虞书欣 妆",
+        "onboard_time": 1672492615,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606057,
+        "num": 3177921,
+        "word": "南部战区揭露美军机抵近侦察真相",
+        "onboard_time": 1672494417,
+        "rank": 2,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 3159607,
+        "num": 3159607,
+        "word": "周深跨年好忙",
+        "onboard_time": 1672495798,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2148736,
+        "num": 2148736,
+        "word": "跨年文案",
+        "onboard_time": 1672493518,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1004382,
+        "num": 2148301,
+        "word": "烟花",
+        "onboard_time": 1672497717,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434948,
+        "num": 2146407,
+        "word": "2023全糖去冰",
+        "onboard_time": 1672492074,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351281,
+        "num": 2145348,
+        "word": "祝愿大家新年快乐皆得所愿",
+        "onboard_time": 1672487926,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 334184,
+        "num": 2143951,
+        "word": "跨年配图",
+        "onboard_time": 1672490207,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318995,
+        "num": 2142201,
+        "word": "花少北",
+        "onboard_time": 1672490517,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 3139609,
+        "num": 2141832,
+        "word": "难听",
+        "onboard_time": 1672494360,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2893110,
+        "num": 2140128,
+        "word": "赵露思腮红谁打的",
+        "onboard_time": 1672499573,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2656961,
+        "num": 2138563,
+        "word": "范丞丞 杀疯了",
+        "onboard_time": 1672497654,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279061,
+        "num": 2137039,
+        "word": "2023新年贺词完整视频",
+        "onboard_time": 1672486782,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 246158,
+        "num": 2135651,
+        "word": "蛋仔派对",
+        "onboard_time": 1672495856,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228747,
+        "num": 2133804,
+        "word": "2022",
+        "onboard_time": 1672480416,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223810,
+        "num": 2133561,
+        "word": "阳康后还需要戴口罩吗",
+        "onboard_time": 1672477115,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220991,
+        "num": 2132107,
+        "word": "3岁萌娃狂吃橘子手脚发黄成小黄人",
+        "onboard_time": 1672495382,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198711,
+        "num": 2129735,
+        "word": "2023我们都要好好的",
+        "onboard_time": 1672498612,
+        "rank": 18,
+        "category": "游戏,情感"
+      },
+      {
+        "raw_hot": 195323,
+        "num": 2129306,
+        "word": "转阴后还是很累怎么恢复",
+        "onboard_time": 1672498381,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2528120,
+        "num": 2127318,
+        "word": "张杰修音响",
+        "onboard_time": 1672499153,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2126885,
+        "num": 2126885,
+        "word": "何炅哭了",
+        "onboard_time": 1672491780,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2115002,
+        "num": 2115002,
+        "word": "王俊凯单手吊威亚",
+        "onboard_time": 1672487986,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1833718,
+        "num": 1833718,
+        "word": "江苏卫视能调下收音吗",
+        "onboard_time": 1672495743,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192825,
+        "num": 1832449,
+        "word": "男孩跪路边求买玩具妈妈淡定拍照",
+        "onboard_time": 1672491231,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164649,
+        "num": 1770564,
+        "word": "女子晒6娃日常引争议",
+        "onboard_time": 1672485518,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151120,
+        "num": 1730151,
+        "word": "狼队vs曼联",
+        "onboard_time": 1672490148,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144060,
+        "num": 1716692,
+        "word": "大家都在坚忍不拔努力",
+        "onboard_time": 1672486060,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 133712,
+        "num": 1641104,
+        "word": "女子面试失败遇HR帮做职业规划",
+        "onboard_time": 1672488881,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131943,
+        "num": 1626909,
+        "word": "浙江男篮vs辽宁男篮",
+        "onboard_time": 1672489243,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1600820,
+        "num": 1600820,
+        "word": "杨幂老婆好美",
+        "onboard_time": 1672494839,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1560285,
+        "num": 1560285,
+        "word": "白鹿 拍照",
+        "onboard_time": 1672499513,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1469691,
+        "num": 1469691,
+        "word": "关晓彤 改妆",
+        "onboard_time": 1672498918,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128591,
+        "num": 1450689,
+        "word": "新年头像",
+        "onboard_time": 1672479814,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128519,
+        "num": 1443492,
+        "word": "哪一刻意识到自己不再年轻了",
+        "onboard_time": 1672479814,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1437712,
+        "num": 1437712,
+        "word": "江苏卫视全开麦",
+        "onboard_time": 1672490329,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118730,
+        "num": 1437610,
+        "word": "感冒流感新冠病毒感染有何不同",
+        "onboard_time": 1672486599,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103195,
+        "num": 1437190,
+        "word": "美专家称中国出现危险变异株可能性极低",
+        "onboard_time": 1672473034,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102754,
+        "num": 1436789,
+        "word": "全球不共享疫苗病毒将共享世界",
+        "onboard_time": 1672471597,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 99526,
+        "num": 1436564,
+        "word": "疫情发生以来每个人都不容易",
+        "onboard_time": 1672486841,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1436404,
+        "num": 1436404,
+        "word": "王耀庆好搞笑",
+        "onboard_time": 1672499211,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95689,
+        "num": 1431910,
+        "word": "一句话迎接2023",
+        "onboard_time": 1672497421,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94730,
+        "num": 1426603,
+        "word": "2023年新年贺词金句视频版",
+        "onboard_time": 1672498130,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 93138,
+        "num": 1414066,
+        "word": "小伙阳康后打篮球心脏刺痛被送医",
+        "onboard_time": 1672475317,
+        "rank": 43,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 93117,
+        "num": 1411841,
+        "word": "男子上公厕10分钟门自动打开",
+        "onboard_time": 1672475077,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86946,
+        "num": 1402284,
+        "word": "阴阳师",
+        "onboard_time": 1672479636,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85951,
+        "num": 1389613,
+        "word": "你对2023年的期许是什么",
+        "onboard_time": 1672496941,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 79635,
+        "num": 1388010,
+        "word": "C罗曾说要有尊严地退休",
+        "onboard_time": 1672477834,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74726,
+        "num": 1377144,
+        "word": "爹妈都是英语专业是什么体验",
+        "onboard_time": 1672474776,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 61809,
+        "num": 1370532,
+        "word": "巴萨vs西班牙人",
+        "onboard_time": 1672499755,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023新年贺词#"
+    }
+  }
+}
