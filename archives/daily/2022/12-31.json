@@ -1,6 +1,6 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672454693733,
+  "endTime": 1672456731547,
   "band_list": [
     {
       "raw_hot": 2239899,
@@ -59,6 +59,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 861524,
+      "num": 861524,
+      "word": "詹姆斯生日夜杀疯了",
+      "onboard_time": 1672455807,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 821322,
+      "num": 821322,
+      "word": "女子咳嗽祖父母为其砍竹子烧竹沥",
+      "onboard_time": 1672453884,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 764227,
       "num": 764227,
       "word": "廖穗芳死了",
@@ -113,6 +129,14 @@
       "onboard_time": 1672444279,
       "rank": 9,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 486719,
+      "num": 486719,
+      "word": "雷佳音张小斐张宥浩新片首支预告",
+      "onboard_time": 1672454726,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 477783,
@@ -203,6 +227,22 @@
       "category": "幽默,幽默"
     },
     {
+      "raw_hot": 366563,
+      "num": 366563,
+      "word": "哪种月经用品最好用",
+      "onboard_time": 1672452987,
+      "rank": 32,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 365797,
+      "num": 365797,
+      "word": "iKON全员签约新公司",
+      "onboard_time": 1672452564,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358856,
       "num": 358856,
       "word": "37岁C罗告别五大联赛",
@@ -225,14 +265,6 @@
       "onboard_time": 1672452327,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332891,
-      "num": 332891,
-      "word": "iKON全员签约新公司",
-      "onboard_time": 1672452564,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 325692,
@@ -273,14 +305,6 @@
       "onboard_time": 1672452205,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279827,
-      "num": 279827,
-      "word": "女子咳嗽祖父母为其砍竹子烧竹沥",
-      "onboard_time": 1672453884,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276783,
@@ -331,12 +355,36 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 266963,
+      "num": 266963,
+      "word": "超7成年轻人年末换手机首选iPhone",
+      "onboard_time": 1672455926,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 263789,
+      "num": 263789,
+      "word": "7人用鸭肉做假牛羊肉卷被判刑",
+      "onboard_time": 1672454606,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258387,
       "num": 258387,
       "word": "花海世冠FMVP",
       "onboard_time": 1672412492,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 249370,
+      "num": 249370,
+      "word": "宋亚轩理想之途低音",
+      "onboard_time": 1672455926,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 244869,
@@ -531,14 +579,6 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 175811,
-      "num": 155183,
-      "word": "哪种月经用品最好用",
-      "onboard_time": 1672452987,
-      "rank": 32,
-      "category": "其它"
-    },
-    {
       "raw_hot": 175751,
       "num": 165692,
       "word": "李承天逐渐扭曲的一生",
@@ -611,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161314,
+      "num": 161314,
+      "word": "湖人vs老鹰",
+      "onboard_time": 1672453526,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158738,
       "num": 158738,
       "word": "李钟硕林允儿获演技大赏最佳情侣奖",
@@ -659,6 +707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 147860,
+      "num": 147860,
+      "word": "韩乔生说C罗转会曼联或是最大错误",
+      "onboard_time": 1672455088,
+      "rank": 36,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 144971,
       "num": 144971,
       "word": "易烊千玺镜头前后反差萌",
@@ -683,6 +739,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141734,
+      "num": 141734,
+      "word": "2022最后一天突然转运是什么体验",
+      "onboard_time": 1672456345,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 141305,
+      "num": 141305,
+      "word": "去有风的地方八卦版预告",
+      "onboard_time": 1672454366,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 140484,
       "num": 140484,
       "word": "GK鹏鹏",
@@ -697,6 +769,14 @@
       "onboard_time": 1672412551,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140105,
+      "num": 140105,
+      "word": "严浩翔理想之途音色",
+      "onboard_time": 1672456646,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 136509,
@@ -729,6 +809,14 @@
       "onboard_time": 1672402110,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135292,
+      "num": 135292,
+      "word": "龙泉青瓷被跳成舞有多惊艳",
+      "onboard_time": 1672456167,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132385,
@@ -779,6 +867,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118783,
+      "num": 118783,
+      "word": "看了让人腿软的年终述职",
+      "onboard_time": 1672455745,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117993,
+      "num": 117993,
+      "word": "詹姆斯47分",
+      "onboard_time": 1672456345,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116740,
       "num": 116740,
       "word": "一条视频告别2022",
@@ -817,14 +921,6 @@
       "onboard_time": 1672405649,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112554,
-      "num": 112554,
-      "word": "湖人vs老鹰",
-      "onboard_time": 1672453526,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 108032,
@@ -881,14 +977,6 @@
       "onboard_time": 1672433471,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 88481,
-      "num": 88481,
-      "word": "7人用鸭肉做假牛羊肉卷被判刑",
-      "onboard_time": 1672454606,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84764,
