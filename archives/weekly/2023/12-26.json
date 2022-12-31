@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672508002557,
+  "endTime": 1672510837223,
   "band_list": [
     {
       "raw_hot": 12836148,
@@ -783,6 +783,14 @@
       "num": 1720704,
       "word": "白鹿 拍照",
       "onboard_time": 1672499513,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1714887,
+      "num": 1714887,
+      "word": "收视率",
+      "onboard_time": 1672507766,
       "rank": 31,
       "category": "综艺"
     },
@@ -2329,14 +2337,6 @@
       "onboard_time": 1672029033,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 845652,
-      "num": 690120,
-      "word": "收视率",
-      "onboard_time": 1672507766,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 845180,
@@ -5739,6 +5739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387500,
+      "num": 387500,
+      "word": "华晨宇好温柔",
+      "onboard_time": 1672510043,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387148,
       "num": 387148,
       "word": "香港取消所有入境强制核酸检测",
@@ -7857,6 +7865,14 @@
       "onboard_time": 1672355960,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281221,
+      "num": 687074,
+      "word": "上海武警拉链式人墙跨年夜再上岗",
+      "onboard_time": 1672505973,
+      "rank": 34,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 281021,
@@ -11123,6 +11139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187796,
+      "num": 699472,
+      "word": "兔年",
+      "onboard_time": 1672507232,
+      "rank": 22,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 187631,
       "num": 187631,
       "word": "跨年晚会cp合唱名场面",
@@ -11169,14 +11193,6 @@
       "onboard_time": 1672289730,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186538,
-      "num": 699472,
-      "word": "兔年",
-      "onboard_time": 1672507232,
-      "rank": 22,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 186373,
@@ -11841,6 +11857,14 @@
       "onboard_time": 1672395989,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174039,
+      "num": 693957,
+      "word": "上海本轮包含30个奥密克戎亚型毒株",
+      "onboard_time": 1672506811,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173816,
@@ -14227,14 +14251,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 128200,
-      "num": 687074,
-      "word": "上海武警拉链式人墙跨年夜再上岗",
-      "onboard_time": 1672505973,
-      "rank": 34,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 127805,
       "num": 127805,
       "word": "雪中大熊猫好像滑溜溜的糯米糍",
@@ -14855,14 +14871,6 @@
       "num": 124292,
       "word": "栓Q哥回应栓Q成2022十大热词",
       "onboard_time": 1672317031,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111294,
-      "num": 693957,
-      "word": "上海本轮包含30个奥密克戎亚型毒株",
-      "onboard_time": 1672506811,
       "rank": 48,
       "category": "社会新闻"
     },
@@ -15921,6 +15929,14 @@
       "onboard_time": 1672095196,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 36887,
+      "num": 377282,
+      "word": "外滩保安喇叭提醒路边导游不可信",
+      "onboard_time": 1672510461,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36803,

@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672508002557,
+  "endTime": 1672510837223,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1714887,
+      "num": 1714887,
+      "word": "收视率",
+      "onboard_time": 1672507766,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1545013,
       "num": 690877,
       "word": "蔡徐坤压轴出场",
@@ -195,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 845652,
-      "num": 690120,
-      "word": "收视率",
-      "onboard_time": 1672507766,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 826377,
       "num": 688498,
       "word": "周深 艺高人胆大",
@@ -251,12 +251,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 505537,
+      "num": 391899,
+      "word": "程潇 假唱",
+      "onboard_time": 1672490752,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453827,
       "num": 1018327,
       "word": "南部战区揭露美军机抵近侦察真相",
       "onboard_time": 1672494417,
       "rank": 8,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 387500,
+      "num": 387500,
+      "word": "华晨宇好温柔",
+      "onboard_time": 1672510043,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 376824,
@@ -315,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281221,
+      "num": 687074,
+      "word": "上海武警拉链式人墙跨年夜再上岗",
+      "onboard_time": 1672505973,
+      "rank": 34,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 273113,
       "num": 1006386,
       "word": "2023新年贺词完整视频",
@@ -355,7 +379,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186538,
+      "raw_hot": 187796,
       "num": 699472,
       "word": "兔年",
       "onboard_time": 1672507232,
@@ -369,6 +393,14 @@
       "onboard_time": 1672499755,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174039,
+      "num": 693957,
+      "word": "上海本轮包含30个奥密克戎亚型毒株",
+      "onboard_time": 1672506811,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159915,
@@ -411,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128200,
-      "num": 687074,
-      "word": "上海武警拉链式人墙跨年夜再上岗",
-      "onboard_time": 1672505973,
-      "rank": 34,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 118224,
       "num": 943658,
       "word": "一句话迎接2023",
@@ -441,14 +465,6 @@
       "onboard_time": 1672503467,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111294,
-      "num": 693957,
-      "word": "上海本轮包含30个奥密克戎亚型毒株",
-      "onboard_time": 1672506811,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108548,
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 92634,
-      "num": 923868,
+      "num": 1099871,
       "word": "祝愿大家新年快乐皆得所愿",
       "onboard_time": 1672487926,
       "rank": 44,
@@ -545,6 +561,14 @@
       "onboard_time": 1672504834,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 36887,
+      "num": 377282,
+      "word": "外滩保安喇叭提醒路边导游不可信",
+      "onboard_time": 1672510461,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
