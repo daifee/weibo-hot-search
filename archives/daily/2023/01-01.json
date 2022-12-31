@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672504859594,
+  "endTime": 1672506890587,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -107,6 +107,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1896908,
+      "num": 671059,
+      "word": "许嵩300秒唱了16首歌",
+      "onboard_time": 1672504781,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1545013,
+      "num": 662110,
+      "word": "蔡徐坤压轴出场",
+      "onboard_time": 1672506155,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1437942,
       "num": 963599,
       "word": "何炅哭了",
@@ -171,12 +187,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 849413,
+      "num": 654129,
+      "word": "关晓彤 改妆",
+      "onboard_time": 1672498918,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 814735,
+      "num": 653429,
+      "word": "王俊凯单手吊威亚",
+      "onboard_time": 1672487986,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 703720,
       "num": 1035742,
       "word": "烟花",
       "onboard_time": 1672497717,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 677458,
+      "num": 1019929,
+      "word": "哈兰德",
+      "onboard_time": 1672503826,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 583158,
@@ -203,12 +243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 372005,
-      "num": 1019929,
-      "word": "哈兰德",
-      "onboard_time": 1672503826,
+      "raw_hot": 367041,
+      "num": 669094,
+      "word": "红包",
+      "onboard_time": 1672505375,
       "rank": 13,
-      "category": "体育"
+      "category": "情感"
+    },
+    {
+      "raw_hot": 358641,
+      "num": 991195,
+      "word": "女子带男友回家父母准备几十道菜",
+      "onboard_time": 1672502446,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331355,
@@ -243,6 +291,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 265494,
+      "num": 666531,
+      "word": "2022 再也不见",
+      "onboard_time": 1672505794,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210052,
       "num": 1001863,
       "word": "花少北",
@@ -259,19 +315,19 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 189506,
-      "num": 991195,
-      "word": "女子带男友回家父母准备几十道菜",
-      "onboard_time": 1672502446,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188469,
       "num": 988852,
       "word": "3岁萌娃狂吃橘子手脚发黄成小黄人",
       "onboard_time": 1672495382,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185917,
+      "num": 664745,
+      "word": "小伙坐地铁手机掉进女乘客手提袋",
+      "onboard_time": 1672505258,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -331,12 +387,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116997,
+      "num": 652522,
+      "word": "上海武警拉链式人墙跨年夜再上岗",
+      "onboard_time": 1672505973,
+      "rank": 34,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 115447,
       "num": 951197,
       "word": "女子晒6娃日常引争议",
       "onboard_time": 1672485518,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114629,
+      "num": 945159,
+      "word": "曼城vs埃弗顿",
+      "onboard_time": 1672503467,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 105755,
@@ -361,14 +433,6 @@
       "onboard_time": 1672477115,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93128,
-      "num": 945159,
-      "word": "曼城vs埃弗顿",
-      "onboard_time": 1672503467,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 92634,
@@ -433,6 +497,14 @@
       "onboard_time": 1672504834,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55903,
+      "num": 641884,
+      "word": "上海本轮包含30个奥密克戎亚型毒株",
+      "onboard_time": 1672506811,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

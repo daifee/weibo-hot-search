@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672504859594,
+  "endTime": 1672506890587,
   "band_list": [
     {
       "raw_hot": 12836148,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1896908,
+      "num": 671059,
+      "word": "许嵩300秒唱了16首歌",
+      "onboard_time": 1672504781,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1893062,
       "num": 1893062,
       "word": "失眠可能是肺出现了问题",
@@ -967,6 +975,14 @@
       "num": 1172428,
       "word": "潘玮柏胖了",
       "onboard_time": 1672488343,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1545013,
+      "num": 662110,
+      "word": "蔡徐坤压轴出场",
+      "onboard_time": 1672506155,
       "rank": 22,
       "category": "综艺"
     },
@@ -3073,6 +3089,14 @@
       "onboard_time": 1672038631,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 677458,
+      "num": 1019929,
+      "word": "哈兰德",
+      "onboard_time": 1672503826,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 677435,
@@ -5963,14 +5987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 372005,
-      "num": 1019929,
-      "word": "哈兰德",
-      "onboard_time": 1672503826,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 370889,
       "num": 370889,
       "word": "王俊凯江苏卫视跨年彩排路透视频",
@@ -6057,6 +6073,14 @@
       "onboard_time": 1672194989,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367041,
+      "num": 669094,
+      "word": "红包",
+      "onboard_time": 1672505375,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 366466,
@@ -6217,6 +6241,14 @@
       "onboard_time": 1672125752,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 358641,
+      "num": 991195,
+      "word": "女子带男友回家父母准备几十道菜",
+      "onboard_time": 1672502446,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358526,
@@ -8161,6 +8193,14 @@
       "onboard_time": 1672233451,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265494,
+      "num": 666531,
+      "word": "2022 再也不见",
+      "onboard_time": 1672505794,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 265192,
@@ -10947,14 +10987,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 189506,
-      "num": 991195,
-      "word": "女子带男友回家父母准备几十道菜",
-      "onboard_time": 1672502446,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189478,
       "num": 1525836,
       "word": "阴阳师",
@@ -11128,6 +11160,14 @@
       "word": "阳康后咳咳咳6招教你轻松排痰",
       "onboard_time": 1672319613,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185917,
+      "num": 664745,
+      "word": "小伙坐地铁手机掉进女乘客手提袋",
+      "onboard_time": 1672505258,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -14563,6 +14603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116997,
+      "num": 652522,
+      "word": "上海武警拉链式人墙跨年夜再上岗",
+      "onboard_time": 1672505973,
+      "rank": 34,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 116993,
       "num": 116993,
       "word": "小猫也得写作业",
@@ -14657,6 +14705,14 @@
       "onboard_time": 1672304849,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114629,
+      "num": 945159,
+      "word": "曼城vs埃弗顿",
+      "onboard_time": 1672503467,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 114095,
@@ -15243,14 +15299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93128,
-      "num": 945159,
-      "word": "曼城vs埃弗顿",
-      "onboard_time": 1672503467,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91598,
       "num": 535728,
       "word": "阿里为全国乡村提供免费在线义诊",
@@ -15657,6 +15705,14 @@
       "onboard_time": 1672504834,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55903,
+      "num": 641884,
+      "word": "上海本轮包含30个奥密克戎亚型毒株",
+      "onboard_time": 1672506811,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55595,
