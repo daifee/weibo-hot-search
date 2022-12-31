@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672489868373,
+  "endTime": 1672490915554,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -779,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3087343,
+      "num": 1202889,
+      "word": "宋茜漂亮",
+      "onboard_time": 1672488586,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3078815,
       "num": 3078815,
       "word": "梅西赛后采访发飙",
@@ -1065,14 +1073,6 @@
       "onboard_time": 1672147595,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2643963,
-      "num": 1202889,
-      "word": "宋茜漂亮",
-      "onboard_time": 1672488586,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 2637679,
@@ -2017,6 +2017,14 @@
       "onboard_time": 1671884253,
       "rank": 23,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2106120,
+      "num": 960700,
+      "word": "薛之谦唱孤勇者",
+      "onboard_time": 1672490148,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 2104058,
@@ -3091,6 +3099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1727831,
+      "num": 960489,
+      "word": "江苏卫视全开麦",
+      "onboard_time": 1672490329,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1727263,
       "num": 1727263,
       "word": "进返京不再查验核酸和健康码",
@@ -3225,6 +3241,14 @@
       "onboard_time": 1672149455,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1686630,
+      "num": 960466,
+      "word": "程潇 假唱",
+      "onboard_time": 1672490752,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1680213,
@@ -5627,6 +5651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1245509,
+      "num": 960004,
+      "word": "任嘉伦唱如一",
+      "onboard_time": 1672490576,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1245110,
       "num": 1245110,
       "word": "核酸采样亭被挂二手平台售卖",
@@ -6593,6 +6625,14 @@
       "onboard_time": 1670497037,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1126948,
+      "num": 3322675,
+      "word": "大家都在坚忍不拔努力",
+      "onboard_time": 1672486060,
+      "rank": 32,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1126720,
@@ -9121,14 +9161,6 @@
       "onboard_time": 1671457170,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 922589,
-      "num": 3322675,
-      "word": "大家都在坚忍不拔努力",
-      "onboard_time": 1672486060,
-      "rank": 32,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 922116,
@@ -33371,6 +33403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 310899,
+      "num": 1193610,
+      "word": "阳康后还需要戴口罩吗",
+      "onboard_time": 1672477115,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310853,
       "num": 310853,
       "word": "杨幂许凯爱的二八定律厨房吻花絮",
@@ -34217,14 +34257,6 @@
       "onboard_time": 1670633172,
       "rank": 29,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 302428,
-      "num": 1193610,
-      "word": "阳康后还需要戴口罩吗",
-      "onboard_time": 1672477115,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302377,
@@ -42483,6 +42515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232187,
+      "num": 1185901,
+      "word": "2022",
+      "onboard_time": 1672480416,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232175,
       "num": 220314,
       "word": "大哥远",
@@ -45011,14 +45051,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 215769,
-      "num": 1185901,
-      "word": "2022",
-      "onboard_time": 1672480416,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 215768,
       "num": 183585,
       "word": "去有风的地方",
@@ -46929,6 +46961,14 @@
       "onboard_time": 1672037730,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203135,
+      "num": 1143158,
+      "word": "女子面试失败遇HR帮做职业规划",
+      "onboard_time": 1672488881,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203118,
@@ -50689,6 +50729,14 @@
       "onboard_time": 1672375233,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185438,
+      "num": 1134921,
+      "word": "浙江男篮vs辽宁男篮",
+      "onboard_time": 1672489243,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 185425,
@@ -54745,14 +54793,6 @@
       "onboard_time": 1671267926,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 168199,
-      "num": 1143158,
-      "word": "女子面试失败遇HR帮做职业规划",
-      "onboard_time": 1672488881,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168099,
@@ -64683,6 +64723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126617,
+      "num": 960070,
+      "word": "花少北",
+      "onboard_time": 1672490517,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126550,
       "num": 685637,
       "word": "男子开挖机挖到野兔将其放生",
@@ -64721,14 +64769,6 @@
       "onboard_time": 1671351989,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126369,
-      "num": 1134921,
-      "word": "浙江男篮vs辽宁男篮",
-      "onboard_time": 1672489243,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 126339,
@@ -68923,6 +68963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105359,
+      "num": 959911,
+      "word": "狼队vs曼联",
+      "onboard_time": 1672490148,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105354,
       "num": 89204,
       "word": "李文文到底是失踪了还是死了呢",
@@ -69347,6 +69395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102751,
+      "num": 959883,
+      "word": "跨年配图",
+      "onboard_time": 1672490207,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102736,
       "num": 552538,
       "word": "浏阳街道干部殴打居民被政务撤职",
@@ -69529,6 +69585,14 @@
       "onboard_time": 1670330110,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101385,
+      "num": 959857,
+      "word": "我来了2023",
+      "onboard_time": 1672490752,
+      "rank": 46,
+      "category": "游戏,情感"
     },
     {
       "raw_hot": 101375,
@@ -72275,6 +72339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59823,
+      "num": 1136745,
+      "word": "再见了2022",
+      "onboard_time": 1672488044,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 59595,
       "num": 117071,
       "word": "波兰点球",
@@ -72721,14 +72793,6 @@
       "onboard_time": 1670842822,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46457,
-      "num": 1136745,
-      "word": "再见了2022",
-      "onboard_time": 1672488044,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 46423,
