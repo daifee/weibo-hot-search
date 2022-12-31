@@ -1,0 +1,410 @@
+{
+  "runTime": 1672482788393,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2459428,
+        "num": 2459428,
+        "word": "跨年节目单",
+        "onboard_time": 1672457487,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1531858,
+        "num": 1531858,
+        "word": "东方卫视跨年节目单",
+        "onboard_time": 1672466134,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74848,
+        "num": 1448229,
+        "word": "2023愿所有美好与你相伴",
+        "onboard_time": 1672473094,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1389051,
+        "num": 1389051,
+        "word": "湖南卫视 节目单",
+        "onboard_time": 1672467392,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 706147,
+        "num": 706147,
+        "word": "新冠病毒是否会攻击人体生殖系统",
+        "onboard_time": 1672474240,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510742,
+        "num": 510742,
+        "word": "C罗曾说要有尊严地退休",
+        "onboard_time": 1672477834,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496347,
+        "num": 496347,
+        "word": "小伙阳后胸闷医生查完感叹命真大",
+        "onboard_time": 1672460727,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493497,
+        "num": 493497,
+        "word": "女孩捏出1.4厘米小房子台灯仅2毫米",
+        "onboard_time": 1672478971,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348410,
+        "num": 456836,
+        "word": "美专家称中国出现危险变异株可能性极低",
+        "onboard_time": 1672473034,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456475,
+        "num": 456475,
+        "word": "小伙阳康后打篮球心脏刺痛被送医",
+        "onboard_time": 1672475317,
+        "rank": 9,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 738781,
+        "num": 446810,
+        "word": "肖战迪丽热巴年度封面之星",
+        "onboard_time": 1672475134,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 670039,
+        "num": 418242,
+        "word": "东方卫视跨年",
+        "onboard_time": 1672456946,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 634247,
+        "num": 389830,
+        "word": "红白歌会",
+        "onboard_time": 1672478494,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 573005,
+        "num": 369594,
+        "word": "男子上公厕10分钟门自动打开",
+        "onboard_time": 1672475077,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360391,
+        "num": 360391,
+        "word": "医院ICU垃圾桶堆满药盒网友泪目",
+        "onboard_time": 1672481493,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588112,
+        "num": 336793,
+        "word": "金智秀明年将solo",
+        "onboard_time": 1672481975,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304748,
+        "num": 304748,
+        "word": "爹妈都是英语专业是什么体验",
+        "onboard_time": 1672474776,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 302428,
+        "num": 302428,
+        "word": "阳康后还需要戴口罩吗",
+        "onboard_time": 1672477115,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278967,
+        "num": 278967,
+        "word": "2022年A股人均亏损7.87万",
+        "onboard_time": 1672480772,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 236502,
+        "num": 236502,
+        "word": "身高185视角下的163",
+        "onboard_time": 1672461447,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 505269,
+        "num": 236207,
+        "word": "鹿晗说邓超颤音太老了",
+        "onboard_time": 1672478553,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 486769,
+        "num": 236186,
+        "word": "跨年",
+        "onboard_time": 1672476271,
+        "rank": 21,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 235274,
+        "num": 235274,
+        "word": "全球不共享疫苗病毒将共享世界",
+        "onboard_time": 1672471597,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 225857,
+        "num": 225857,
+        "word": "男子光膀子讨热水老板娘送他一碗粉",
+        "onboard_time": 1672479393,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 216738,
+        "num": 216738,
+        "word": "假装晕倒两岁宝宝的反应",
+        "onboard_time": 1672478013,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216714,
+        "num": 216714,
+        "word": "江歌妈妈回应两次开庭未出席",
+        "onboard_time": 1672479575,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192664,
+        "num": 192664,
+        "word": "原来亲戚尬聊密度能这么降",
+        "onboard_time": 1672479155,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181686,
+        "num": 181686,
+        "word": "和平精英可以盖房了",
+        "onboard_time": 1672479331,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162935,
+        "num": 162935,
+        "word": "多名学生合力将共享单车推河里",
+        "onboard_time": 1672476995,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 160171,
+        "num": 160171,
+        "word": "Gr对战WBG",
+        "onboard_time": 1672479273,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 356912,
+        "num": 160166,
+        "word": "何猷君赢麻了",
+        "onboard_time": 1672479514,
+        "rank": 30,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 355507,
+        "num": 160138,
+        "word": "阿Sa阿娇有点漂亮在身上",
+        "onboard_time": 1672482695,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352397,
+        "num": 160111,
+        "word": "跨年晚会",
+        "onboard_time": 1672478791,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295913,
+        "num": 160106,
+        "word": "张小斐说今天跨个年顺便跨个栏",
+        "onboard_time": 1672481673,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160088,
+        "num": 160088,
+        "word": "新年壁纸",
+        "onboard_time": 1672469132,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171326,
+        "num": 159777,
+        "word": "奇葩户型开门就是万丈深渊",
+        "onboard_time": 1672480173,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156864,
+        "num": 156864,
+        "word": "女孩凌晨高烧找药躺地睡着醒后退烧",
+        "onboard_time": 1672472193,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146548,
+        "num": 146548,
+        "word": "阴阳师",
+        "onboard_time": 1672479636,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145159,
+        "num": 145159,
+        "word": "专家称健康码在适当时候也退出",
+        "onboard_time": 1672476753,
+        "rank": 38,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 141185,
+        "num": 141185,
+        "word": "哪一刻意识到自己不再年轻了",
+        "onboard_time": 1672479814,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250352,
+        "num": 139373,
+        "word": "五月天跨年演唱会",
+        "onboard_time": 1672475614,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273328,
+        "num": 139215,
+        "word": "赵丽颖2023新年祝福视频",
+        "onboard_time": 1672482575,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262246,
+        "num": 138107,
+        "word": "谭维维乘风破浪后再唱山海",
+        "onboard_time": 1672482756,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135832,
+        "num": 135832,
+        "word": "1元8个的街头臭豆腐",
+        "onboard_time": 1672482456,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129639,
+        "num": 129639,
+        "word": "新年头像",
+        "onboard_time": 1672479814,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120372,
+        "num": 120372,
+        "word": "专家称A股明年目标价为3500点",
+        "onboard_time": 1672471356,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116788,
+        "num": 120372,
+        "word": "江母说我是江歌一生的妈妈",
+        "onboard_time": 1672463486,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113355,
+        "num": 120372,
+        "word": "官方辟谣男子连咳3天咳断肋骨",
+        "onboard_time": 1672481375,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112059,
+        "num": 120371,
+        "word": "2022IVL秋季赛总决赛",
+        "onboard_time": 1672482033,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105246,
+        "num": 120371,
+        "word": "2022",
+        "onboard_time": 1672480416,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的2022相册#"
+    }
+  }
+}

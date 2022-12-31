@@ -1,6 +1,6 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672481871614,
+  "endTime": 1672482788393,
   "band_list": [
     {
       "raw_hot": 2722542,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2403148,
-      "num": 2403148,
+      "raw_hot": 2459428,
+      "num": 2459428,
       "word": "跨年节目单",
       "onboard_time": 1672457487,
       "rank": 22,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1392907,
-      "num": 1392907,
+      "raw_hot": 1531858,
+      "num": 1531858,
       "word": "东方卫视跨年节目单",
       "onboard_time": 1672466134,
       "rank": 11,
@@ -235,7 +235,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 666031,
+      "raw_hot": 670039,
       "num": 480822,
       "word": "东方卫视跨年",
       "onboard_time": 1672456946,
@@ -267,6 +267,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 634247,
+      "num": 389830,
+      "word": "红白歌会",
+      "onboard_time": 1672478494,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 616685,
       "num": 616685,
       "word": "年轻人结婚的意义是什么",
@@ -289,6 +297,14 @@
       "onboard_time": 1672461028,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588112,
+      "num": 336793,
+      "word": "金智秀明年将solo",
+      "onboard_time": 1672481975,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 557210,
@@ -315,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 505269,
+      "num": 423505,
+      "word": "鹿晗说邓超颤音太老了",
+      "onboard_time": 1672478553,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 504608,
       "num": 504608,
       "word": "回来的女儿大结局回血",
@@ -331,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 493497,
+      "num": 493497,
+      "word": "女孩捏出1.4厘米小房子台灯仅2毫米",
+      "onboard_time": 1672478971,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492285,
       "num": 492285,
       "word": "为什么有症状却测不出阳",
@@ -345,6 +377,14 @@
       "onboard_time": 1672460727,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 486769,
+      "num": 468640,
+      "word": "跨年",
+      "onboard_time": 1672476271,
+      "rank": 12,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 486719,
@@ -371,28 +411,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 468640,
-      "num": 468640,
-      "word": "跨年",
-      "onboard_time": 1672476271,
-      "rank": 12,
-      "category": "情感,艺人"
-    },
-    {
       "raw_hot": 464422,
       "num": 464422,
       "word": "专家称普通新冠感染没必要输液",
       "onboard_time": 1672466614,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 462061,
-      "num": 423505,
-      "word": "鹿晗说邓超颤音太老了",
-      "onboard_time": 1672478553,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 459956,
@@ -409,14 +433,6 @@
       "onboard_time": 1672451666,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 448860,
-      "num": 224064,
-      "word": "红白歌会",
-      "onboard_time": 1672478494,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 445264,
@@ -507,14 +523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 376617,
-      "num": 376617,
-      "word": "女孩捏出1.4厘米小房子台灯仅2毫米",
-      "onboard_time": 1672478971,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 374819,
       "num": 223912,
       "word": "何猷君赢麻了",
@@ -563,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360391,
+      "num": 360391,
+      "word": "医院ICU垃圾桶堆满药盒网友泪目",
+      "onboard_time": 1672481493,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358856,
       "num": 358856,
       "word": "37岁C罗告别五大联赛",
@@ -571,12 +587,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355507,
+      "num": 160138,
+      "word": "阿Sa阿娇有点漂亮在身上",
+      "onboard_time": 1672482695,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355319,
       "num": 355319,
       "word": "2023年是个什么年",
       "onboard_time": 1672451487,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352397,
+      "num": 215426,
+      "word": "跨年晚会",
+      "onboard_time": 1672478791,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 352165,
@@ -609,14 +641,6 @@
       "onboard_time": 1672463068,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 328516,
-      "num": 215426,
-      "word": "跨年晚会",
-      "onboard_time": 1672478791,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 326423,
@@ -707,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302428,
+      "num": 302428,
+      "word": "阳康后还需要戴口罩吗",
+      "onboard_time": 1672477115,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296450,
       "num": 296450,
       "word": "王一博获年度综艺名场面TOP1",
@@ -715,12 +747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294882,
-      "num": 294882,
-      "word": "阳康后还需要戴口罩吗",
-      "onboard_time": 1672477115,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 295913,
+      "num": 160106,
+      "word": "张小斐说今天跨个年顺便跨个栏",
+      "onboard_time": 1672481673,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 285600,
@@ -747,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 278967,
+      "num": 278967,
+      "word": "2022年A股人均亏损7.87万",
+      "onboard_time": 1672480772,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 276783,
       "num": 276783,
       "word": "EDG和RNG是懂慈善赛的",
@@ -763,11 +803,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 275087,
-      "num": 155913,
-      "word": "张小斐说今天跨个年顺便跨个栏",
-      "onboard_time": 1672481673,
-      "rank": 40,
+      "raw_hot": 273328,
+      "num": 139215,
+      "word": "赵丽颖2023新年祝福视频",
+      "onboard_time": 1672482575,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -825,6 +865,14 @@
       "onboard_time": 1672454606,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262246,
+      "num": 138107,
+      "word": "谭维维乘风破浪后再唱山海",
+      "onboard_time": 1672482756,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 258387,
@@ -1057,6 +1105,14 @@
       "onboard_time": 1672467810,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216714,
+      "num": 216714,
+      "word": "江歌妈妈回应两次开庭未出席",
+      "onboard_time": 1672479575,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216046,
@@ -1307,22 +1363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188257,
-      "num": 165483,
-      "word": "江歌妈妈回应两次开庭未出席",
-      "onboard_time": 1672479575,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187313,
-      "num": 187313,
-      "word": "2022年A股人均亏损7.87万",
-      "onboard_time": 1672480772,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 184773,
       "num": 172780,
       "word": "阿凡达",
@@ -1347,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181686,
+      "num": 181686,
+      "word": "和平精英可以盖房了",
+      "onboard_time": 1672479331,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178981,
       "num": 156811,
       "word": "肖战腊八雪景大片",
@@ -1361,14 +1409,6 @@
       "onboard_time": 1672480173,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176597,
-      "num": 176597,
-      "word": "和平精英可以盖房了",
-      "onboard_time": 1672479331,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 176593,
@@ -1619,14 +1659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146821,
-      "num": 146821,
-      "word": "医院ICU垃圾桶堆满药盒网友泪目",
-      "onboard_time": 1672481493,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144971,
       "num": 144971,
       "word": "易烊千玺镜头前后反差萌",
@@ -1731,6 +1763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135832,
+      "num": 135832,
+      "word": "1元8个的街头臭豆腐",
+      "onboard_time": 1672482456,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 135566,
       "num": 135566,
       "word": "这一年辛苦了",
@@ -1779,8 +1819,8 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 126813,
-      "num": 126813,
+      "raw_hot": 129639,
+      "num": 129639,
       "word": "新年头像",
       "onboard_time": 1672479814,
       "rank": 46,
@@ -1929,6 +1969,14 @@
       "onboard_time": 1672481791,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 112059,
+      "num": 120371,
+      "word": "2022IVL秋季赛总决赛",
+      "onboard_time": 1672482033,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 111988,
@@ -2115,8 +2163,8 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 73030,
-      "num": 1428180,
+      "raw_hot": 74848,
+      "num": 1448229,
       "word": "2023愿所有美好与你相伴",
       "onboard_time": 1672473094,
       "rank": 2,
