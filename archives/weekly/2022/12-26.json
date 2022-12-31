@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672449912475,
+  "endTime": 1672451456987,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2239899,
+      "num": 2239899,
+      "word": "把痰咽下去会伤害身体吗",
+      "onboard_time": 1672445120,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2227798,
       "num": 2227798,
       "word": "章泽天发朋友圈介绍如何购买辉瑞新冠药",
@@ -208,14 +216,6 @@
       "word": "女子怕被感染20多天没出门",
       "onboard_time": 1672202190,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2200275,
-      "num": 2200275,
-      "word": "把痰咽下去会伤害身体吗",
-      "onboard_time": 1672445120,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -841,6 +841,14 @@
       "onboard_time": 1672408352,
       "rank": 5,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1319347,
+      "num": 895417,
+      "word": "拒绝馒化",
+      "onboard_time": 1672446745,
+      "rank": 4,
+      "category": "美妆"
     },
     {
       "raw_hot": 1316527,
@@ -1531,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 910674,
+      "num": 910674,
+      "word": "张文宏建议家中常备血氧仪",
+      "onboard_time": 1672446686,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 902978,
       "num": 902978,
       "word": "上海重症高峰已慢慢出现",
@@ -1787,14 +1803,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 829422,
-      "num": 829422,
-      "word": "拒绝馒化",
-      "onboard_time": 1672446745,
-      "rank": 4,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 828838,
       "num": 580507,
       "word": "YG新女团将1月1日出道",
@@ -2048,14 +2056,6 @@
       "word": "女子阳过后洗头发掉了一大把",
       "onboard_time": 1672133554,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 765282,
-      "num": 765282,
-      "word": "张文宏建议家中常备血氧仪",
-      "onboard_time": 1672446686,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -2803,6 +2803,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 616685,
+      "num": 616685,
+      "word": "年轻人结婚的意义是什么",
+      "onboard_time": 1672445363,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 616642,
       "num": 616642,
       "word": "赵丽颖沈璃撑伞对视氛围感",
@@ -2857,14 +2865,6 @@
       "onboard_time": 1672377812,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 606743,
-      "num": 606743,
-      "word": "年轻人结婚的意义是什么",
-      "onboard_time": 1672445363,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 606385,
@@ -4787,6 +4787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 388157,
+      "num": 382933,
+      "word": "肖战看到雪的反应",
+      "onboard_time": 1672448907,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387148,
       "num": 387148,
       "word": "香港取消所有入境强制核酸检测",
@@ -4849,14 +4857,6 @@
       "onboard_time": 1672323454,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382933,
-      "num": 382933,
-      "word": "肖战看到雪的反应",
-      "onboard_time": 1672448907,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 382029,
@@ -5867,6 +5867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 324296,
+      "num": 324296,
+      "word": "中医中药对新冠有效吗",
+      "onboard_time": 1672445964,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323714,
       "num": 276537,
       "word": "刘宇宁直播说安乐传配音配完了",
@@ -5889,6 +5897,14 @@
       "onboard_time": 1672029993,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321378,
+      "num": 321378,
+      "word": "37岁C罗告别五大联赛",
+      "onboard_time": 1672448606,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 320605,
@@ -5921,6 +5937,14 @@
       "onboard_time": 1672218152,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 318198,
+      "num": 318198,
+      "word": "第一次见不甜美的萨摩耶",
+      "onboard_time": 1672444821,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 318069,
@@ -6099,14 +6123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 311890,
-      "num": 311890,
-      "word": "第一次见不甜美的萨摩耶",
-      "onboard_time": 1672444821,
-      "rank": 12,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 311739,
       "num": 311739,
       "word": "春晚彩排有你想看到的艺人吗",
@@ -6257,14 +6273,6 @@
       "onboard_time": 1672155808,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 300642,
-      "num": 300642,
-      "word": "中医中药对新冠有效吗",
-      "onboard_time": 1672445964,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300599,
@@ -6737,6 +6745,14 @@
       "onboard_time": 1672272386,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278245,
+      "num": 278245,
+      "word": "女子疑因家庭矛盾将婴儿扔出家门",
+      "onboard_time": 1672450585,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277688,
@@ -7299,14 +7315,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 250708,
-      "num": 250708,
-      "word": "37岁C罗告别五大联赛",
-      "onboard_time": 1672448606,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 250415,
       "num": 250415,
       "word": "异地恋男友教科书式照顾阳过女友",
@@ -7449,6 +7457,14 @@
       "onboard_time": 1672309773,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244869,
+      "num": 244869,
+      "word": "葡萄牙队祝贺C罗加盟利雅得胜利",
+      "onboard_time": 1672447465,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 244614,
@@ -8571,14 +8587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 209612,
-      "num": 209612,
-      "word": "葡萄牙队祝贺C罗加盟利雅得胜利",
-      "onboard_time": 1672447465,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209308,
       "num": 203974,
       "word": "得知朋友背后诋毁该难过吗",
@@ -9299,6 +9307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190805,
+      "num": 166287,
+      "word": "廖穗芳带着遗憾永远离开了",
+      "onboard_time": 1672451066,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190677,
       "num": 190677,
       "word": "肖铎听到步音楼找自己睡觉的反应",
@@ -9336,6 +9352,14 @@
       "word": "尹炫优夺走顺洋",
       "onboard_time": 1672024170,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190093,
+      "num": 190093,
+      "word": "如何看待王鹤棣新剧争议",
+      "onboard_time": 1672436472,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -9691,6 +9715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183200,
+      "num": 183200,
+      "word": "黑暗荣耀 好看",
+      "onboard_time": 1672448907,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182865,
       "num": 156626,
       "word": "秦岚2023央视春晚首次联排",
@@ -10019,6 +10051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175751,
+      "num": 165692,
+      "word": "李承天逐渐扭曲的一生",
+      "onboard_time": 1672450527,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175705,
       "num": 175705,
       "word": "张靓颖江苏卫视跨年彩排剧透",
@@ -10040,14 +10080,6 @@
       "word": "想见你票房破亿",
       "onboard_time": 1672134394,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 175245,
-      "num": 175245,
-      "word": "黑暗荣耀 好看",
-      "onboard_time": 1672448907,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -10419,14 +10451,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 166659,
-      "num": 166659,
-      "word": "如何看待王鹤棣新剧争议",
-      "onboard_time": 1672436472,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 166605,
       "num": 166605,
       "word": "猫咪把自己烤糊了是什么体验",
@@ -10617,6 +10641,14 @@
       "onboard_time": 1672281387,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 163045,
+      "num": 163045,
+      "word": "张亚东说徐志胜是音盲",
+      "onboard_time": 1672451428,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 163023,
@@ -11129,6 +11161,14 @@
       "onboard_time": 1672115433,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152724,
+      "num": 152724,
+      "word": "体育大赏",
+      "onboard_time": 1672450947,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 152696,
@@ -11707,6 +11747,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 141405,
+      "num": 119151,
+      "word": "偶练青你给我们民谣打call",
+      "onboard_time": 1672451307,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141381,
       "num": 141381,
       "word": "90后老板承包员工一年咖啡",
@@ -12113,6 +12161,14 @@
       "onboard_time": 1672418064,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131803,
+      "num": 131803,
+      "word": "天选打工人实况",
+      "onboard_time": 1672447645,
+      "rank": 42,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 131763,
@@ -12619,14 +12675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116391,
-      "num": 116391,
-      "word": "天选打工人实况",
-      "onboard_time": 1672447645,
-      "rank": 42,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 116096,
       "num": 116096,
       "word": "灰熊vs勇士",
@@ -13001,6 +13049,14 @@
       "onboard_time": 1672302750,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102097,
+      "num": 102097,
+      "word": "祝福C罗",
+      "onboard_time": 1672450406,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 100505,

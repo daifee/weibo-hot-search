@@ -1,10 +1,10 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672449912475,
+  "endTime": 1672451456987,
   "band_list": [
     {
-      "raw_hot": 2200275,
-      "num": 2200275,
+      "raw_hot": 2239899,
+      "num": 2239899,
       "word": "把痰咽下去会伤害身体吗",
       "onboard_time": 1672445120,
       "rank": 0,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1319347,
+      "num": 895417,
+      "word": "拒绝馒化",
+      "onboard_time": 1672446745,
+      "rank": 4,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1065933,
       "num": 1065933,
       "word": "C罗加盟利雅得胜利",
@@ -35,16 +43,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 829422,
-      "num": 829422,
-      "word": "拒绝馒化",
-      "onboard_time": 1672446745,
-      "rank": 4,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 765282,
-      "num": 765282,
+      "raw_hot": 910674,
+      "num": 910674,
       "word": "张文宏建议家中常备血氧仪",
       "onboard_time": 1672446686,
       "rank": 5,
@@ -67,8 +67,8 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 606743,
-      "num": 606743,
+      "raw_hot": 616685,
+      "num": 616685,
       "word": "年轻人结婚的意义是什么",
       "onboard_time": 1672445363,
       "rank": 7,
@@ -163,7 +163,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 382933,
+      "raw_hot": 388157,
       "num": 382933,
       "word": "肖战看到雪的反应",
       "onboard_time": 1672448907,
@@ -179,8 +179,24 @@
       "category": "幽默,幽默"
     },
     {
-      "raw_hot": 311890,
-      "num": 311890,
+      "raw_hot": 324296,
+      "num": 324296,
+      "word": "中医中药对新冠有效吗",
+      "onboard_time": 1672445964,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321378,
+      "num": 321378,
+      "word": "37岁C罗告别五大联赛",
+      "onboard_time": 1672448606,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 318198,
+      "num": 318198,
       "word": "第一次见不甜美的萨摩耶",
       "onboard_time": 1672444821,
       "rank": 12,
@@ -195,11 +211,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 300642,
-      "num": 300642,
-      "word": "中医中药对新冠有效吗",
-      "onboard_time": 1672445964,
-      "rank": 13,
+      "raw_hot": 278245,
+      "num": 278245,
+      "word": "女子疑因家庭矛盾将婴儿扔出家门",
+      "onboard_time": 1672450585,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -251,11 +267,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 250708,
-      "num": 250708,
-      "word": "37岁C罗告别五大联赛",
-      "onboard_time": 1672448606,
-      "rank": 17,
+      "raw_hot": 244869,
+      "num": 244869,
+      "word": "葡萄牙队祝贺C罗加盟利雅得胜利",
+      "onboard_time": 1672447465,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -347,14 +363,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 209612,
-      "num": 209612,
-      "word": "葡萄牙队祝贺C罗加盟利雅得胜利",
-      "onboard_time": 1672447465,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203773,
       "num": 203773,
       "word": "苏醒舞台",
@@ -403,12 +411,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190805,
+      "num": 166287,
+      "word": "廖穗芳带着遗憾永远离开了",
+      "onboard_time": 1672451066,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190093,
+      "num": 190093,
+      "word": "如何看待王鹤棣新剧争议",
+      "onboard_time": 1672436472,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184353,
       "num": 184353,
       "word": "周深听见下雨的声音舞台",
       "onboard_time": 1672417462,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183200,
+      "num": 183200,
+      "word": "黑暗荣耀 好看",
+      "onboard_time": 1672448907,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 178981,
@@ -419,20 +451,20 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 175751,
+      "num": 165692,
+      "word": "李承天逐渐扭曲的一生",
+      "onboard_time": 1672450527,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175381,
       "num": 175381,
       "word": "刘鑫需赔偿江母69万余元",
       "onboard_time": 1672382733,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175245,
-      "num": 175245,
-      "word": "黑暗荣耀 好看",
-      "onboard_time": 1672448907,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 174654,
@@ -459,14 +491,6 @@
       "category": "情感,艺人"
     },
     {
-      "raw_hot": 166659,
-      "num": 166659,
-      "word": "如何看待王鹤棣新剧争议",
-      "onboard_time": 1672436472,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 165830,
       "num": 165830,
       "word": "旗舰店买iPhone取消订单不给退款",
@@ -480,6 +504,14 @@
       "word": "刘宪华一人乐队唱明明就",
       "onboard_time": 1672407091,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163045,
+      "num": 163045,
+      "word": "张亚东说徐志胜是音盲",
+      "onboard_time": 1672451428,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -505,6 +537,14 @@
       "onboard_time": 1672412133,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152724,
+      "num": 152724,
+      "word": "体育大赏",
+      "onboard_time": 1672450947,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 152525,
@@ -537,6 +577,14 @@
       "onboard_time": 1672414588,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141405,
+      "num": 119151,
+      "word": "偶练青你给我们民谣打call",
+      "onboard_time": 1672451307,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 140484,
@@ -587,11 +635,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131803,
+      "num": 131803,
+      "word": "天选打工人实况",
+      "onboard_time": 1672447645,
+      "rank": 42,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 125925,
       "num": 125925,
       "word": "男子医院抽血医生边看说明边操作",
       "onboard_time": 1672410151,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123044,
+      "num": 998483,
+      "word": "恢复期要注意什么",
+      "onboard_time": 1672404508,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -617,22 +681,6 @@
       "onboard_time": 1672401150,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116391,
-      "num": 116391,
-      "word": "天选打工人实况",
-      "onboard_time": 1672447645,
-      "rank": 42,
-      "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 116269,
-      "num": 998483,
-      "word": "恢复期要注意什么",
-      "onboard_time": 1672404508,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114948,
@@ -673,6 +721,14 @@
       "onboard_time": 1672449207,
       "rank": 47,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 102097,
+      "num": 102097,
+      "word": "祝福C罗",
+      "onboard_time": 1672450406,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 93304,
