@@ -1,6 +1,6 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672460497005,
+  "endTime": 1672461392260,
   "band_list": [
     {
       "raw_hot": 2239899,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1194589,
+      "num": 1194589,
+      "word": "研究称防二次感染关键是鼻子",
+      "onboard_time": 1672457247,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1193261,
       "num": 1193261,
       "word": "央视跨年晚会节目剧透",
@@ -73,14 +81,6 @@
       "onboard_time": 1672441574,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 953095,
-      "num": 953095,
-      "word": "研究称防二次感染关键是鼻子",
-      "onboard_time": 1672457247,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 932349,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 866024,
+      "num": 866024,
+      "word": "跨年节目单",
+      "onboard_time": 1672457487,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 764227,
       "num": 764227,
       "word": "廖穗芳死了",
@@ -113,14 +121,6 @@
       "onboard_time": 1672450585,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 732285,
-      "num": 732285,
-      "word": "跨年节目单",
-      "onboard_time": 1672457487,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 665366,
@@ -171,12 +171,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 491608,
+      "num": 401070,
+      "word": "刘诗诗2022年终总结",
+      "onboard_time": 1672460727,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486719,
       "num": 486719,
       "word": "雷佳音张小斐张宥浩新片首支预告",
       "onboard_time": 1672454726,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 480822,
+      "num": 480822,
+      "word": "东方卫视跨年",
+      "onboard_time": 1672456946,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 477783,
@@ -203,14 +219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 455468,
-      "num": 455468,
-      "word": "东方卫视跨年",
-      "onboard_time": 1672456946,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 451371,
       "num": 436342,
       "word": "市民为花掉家乐福储值卡排队抢购",
@@ -225,6 +233,14 @@
       "onboard_time": 1672404208,
       "rank": 12,
       "category": "动漫,网红"
+    },
+    {
+      "raw_hot": 427127,
+      "num": 394237,
+      "word": "男子阳后缺氧用饮料瓶自制制氧机",
+      "onboard_time": 1672459407,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421552,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 380422,
-      "num": 231236,
+      "num": 284978,
       "word": "九尾说王鹤棣是大邺第一刺客",
       "onboard_time": 1672457064,
       "rank": 43,
@@ -371,12 +387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305141,
+      "num": 305141,
+      "word": "多地公布新冠感染率调查情况",
+      "onboard_time": 1672459407,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296450,
       "num": 296450,
       "word": "王一博获年度综艺名场面TOP1",
       "onboard_time": 1672452205,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294920,
+      "num": 294920,
+      "word": "小伙阳后胸闷医生查完感叹命真大",
+      "onboard_time": 1672460727,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276783,
@@ -409,6 +441,14 @@
       "onboard_time": 1672437792,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271033,
+      "num": 271033,
+      "word": "专四",
+      "onboard_time": 1672460127,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 270084,
@@ -491,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231784,
+      "num": 231784,
+      "word": "刘耀文东方卫视跨年晚会彩排镜头",
+      "onboard_time": 1672459829,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231623,
       "num": 231623,
       "word": "几个星期后的超市",
@@ -505,14 +553,6 @@
       "onboard_time": 1672458566,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228504,
-      "num": 228504,
-      "word": "男子阳后缺氧用饮料瓶自制制氧机",
-      "onboard_time": 1672459407,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227567,
@@ -539,14 +579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223194,
-      "num": 170651,
-      "word": "刘耀文东方卫视跨年晚会彩排镜头",
-      "onboard_time": 1672459829,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223033,
       "num": 223033,
       "word": "男子拿走外卖称未见餐投诉骑手",
@@ -563,20 +595,20 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 217506,
-      "num": 169979,
-      "word": "多地公布新冠感染率调查情况",
-      "onboard_time": 1672459407,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215684,
       "num": 215684,
       "word": "金泰妍中文新歌",
       "onboard_time": 1672409073,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 212445,
+      "num": 186933,
+      "word": "张亚东刮面后像做了医美",
+      "onboard_time": 1672460067,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 212095,
@@ -603,12 +635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206427,
+      "num": 186566,
+      "word": "雷佳音沙溢交换人生演父子",
+      "onboard_time": 1672460785,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203773,
       "num": 203773,
       "word": "苏醒舞台",
       "onboard_time": 1672443016,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202719,
+      "num": 139128,
+      "word": "蔡徐坤浙江卫视跨年彩排剧照",
+      "onboard_time": 1672460307,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 202330,
@@ -699,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186354,
+      "num": 186354,
+      "word": "普通外科口罩无法阻止奥密克戎",
+      "onboard_time": 1672460848,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184353,
       "num": 184353,
       "word": "周深听见下雨的声音舞台",
@@ -769,14 +825,6 @@
       "onboard_time": 1672408650,
       "rank": 28,
       "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 166422,
-      "num": 166422,
-      "word": "专四",
-      "onboard_time": 1672460127,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 165830,
@@ -1123,6 +1171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107468,
+      "num": 107468,
+      "word": "20余名黄牛靠插队拿殡葬名额倒卖被抓",
+      "onboard_time": 1672461028,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103622,
       "num": 103622,
       "word": "新年贺词里这些话直抵人心",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1672433471,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90054,
+      "num": 90054,
+      "word": "咳嗽有痰怎么缓解",
+      "onboard_time": 1672461327,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84764,
