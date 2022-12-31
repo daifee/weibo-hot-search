@@ -1,6 +1,6 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672479197521,
+  "endTime": 1672481871614,
   "band_list": [
     {
       "raw_hot": 2722542,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2403148,
+      "num": 2403148,
+      "word": "跨年节目单",
+      "onboard_time": 1672457487,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2239899,
       "num": 2239899,
       "word": "把痰咽下去会伤害身体吗",
       "onboard_time": 1672445120,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1845243,
-      "num": 1845243,
-      "word": "跨年节目单",
-      "onboard_time": 1672457487,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 1829454,
@@ -57,6 +57,14 @@
       "onboard_time": 1672411234,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1392907,
+      "num": 1392907,
+      "word": "东方卫视跨年节目单",
+      "onboard_time": 1672466134,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1374309,
@@ -155,14 +163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 946610,
-      "num": 946610,
-      "word": "东方卫视跨年节目单",
-      "onboard_time": 1672466134,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 937962,
       "num": 937962,
       "word": "男子上公厕10分钟门自动打开",
@@ -235,6 +235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 666031,
+      "num": 480822,
+      "word": "东方卫视跨年",
+      "onboard_time": 1672456946,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 665366,
       "num": 665366,
       "word": "超7成年轻人年末换手机首选iPhone",
@@ -299,6 +307,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 533736,
+      "num": 533736,
+      "word": "C罗曾说要有尊严地退休",
+      "onboard_time": 1672477834,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 504608,
       "num": 504608,
       "word": "回来的女儿大结局回血",
@@ -337,14 +353,6 @@
       "onboard_time": 1672454726,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 480822,
-      "num": 480822,
-      "word": "东方卫视跨年",
-      "onboard_time": 1672456946,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 477783,
@@ -401,6 +409,14 @@
       "onboard_time": 1672451666,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448860,
+      "num": 224064,
+      "word": "红白歌会",
+      "onboard_time": 1672478494,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 445264,
@@ -489,6 +505,22 @@
       "onboard_time": 1672457064,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 376617,
+      "num": 376617,
+      "word": "女孩捏出1.4厘米小房子台灯仅2毫米",
+      "onboard_time": 1672478971,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374819,
+      "num": 223912,
+      "word": "何猷君赢麻了",
+      "onboard_time": 1672479514,
+      "rank": 21,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 374492,
@@ -587,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326423,
+      "num": 171405,
+      "word": "NewJeans新歌Ditto1998版练习室",
+      "onboard_time": 1672481249,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 326206,
       "num": 218705,
       "word": "MBC歌谣大祭典",
@@ -659,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303787,
+      "num": 168265,
+      "word": "顾南亭你违规了",
+      "onboard_time": 1672479874,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 296450,
       "num": 296450,
       "word": "王一博获年度综艺名场面TOP1",
@@ -667,12 +715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292609,
-      "num": 215137,
-      "word": "红白歌会",
-      "onboard_time": 1672478494,
-      "rank": 21,
-      "category": "音乐"
+      "raw_hot": 294882,
+      "num": 294882,
+      "word": "阳康后还需要戴口罩吗",
+      "onboard_time": 1672477115,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285600,
@@ -713,6 +761,14 @@
       "onboard_time": 1672448184,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275087,
+      "num": 155913,
+      "word": "张小斐说今天跨个年顺便跨个栏",
+      "onboard_time": 1672481673,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 272169,
@@ -819,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241716,
+      "num": 241716,
+      "word": "男子光膀子讨热水老板娘送他一碗粉",
+      "onboard_time": 1672479393,
+      "rank": 18,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 238805,
       "num": 221699,
       "word": "6岁男孩被骂后点燃厨房秸秆",
@@ -827,16 +891,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238553,
-      "num": 238553,
-      "word": "C罗曾说要有尊严地退休",
-      "onboard_time": 1672477834,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 235931,
-      "num": 139844,
+      "num": 224076,
       "word": "假装晕倒两岁宝宝的反应",
       "onboard_time": 1672478013,
       "rank": 35,
@@ -963,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222934,
+      "num": 222934,
+      "word": "原来亲戚尬聊密度能这么降",
+      "onboard_time": 1672479155,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221933,
       "num": 221933,
       "word": "C罗年薪达到2亿美元",
@@ -993,14 +1057,6 @@
       "onboard_time": 1672467810,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218366,
-      "num": 218366,
-      "word": "阳康后还需要戴口罩吗",
-      "onboard_time": 1672477115,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216046,
@@ -1139,6 +1195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200551,
+      "num": 200551,
+      "word": "Gr对战WBG",
+      "onboard_time": 1672479273,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199741,
       "num": 199741,
       "word": "张文宏预测春节感染率可能达到80%",
@@ -1243,6 +1307,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188257,
+      "num": 165483,
+      "word": "江歌妈妈回应两次开庭未出席",
+      "onboard_time": 1672479575,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187313,
+      "num": 187313,
+      "word": "2022年A股人均亏损7.87万",
+      "onboard_time": 1672480772,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 184773,
       "num": 172780,
       "word": "阿凡达",
@@ -1273,6 +1353,22 @@
       "onboard_time": 1672420040,
       "rank": 21,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 177350,
+      "num": 164174,
+      "word": "奇葩户型开门就是万丈深渊",
+      "onboard_time": 1672480173,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176597,
+      "num": 176597,
+      "word": "和平精英可以盖房了",
+      "onboard_time": 1672479331,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 176593,
@@ -1419,6 +1515,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160344,
+      "num": 160344,
+      "word": "哪一刻意识到自己不再年轻了",
+      "onboard_time": 1672479814,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 158803,
+      "num": 158803,
+      "word": "我们一同走过的2022",
+      "onboard_time": 1672480954,
+      "rank": 38,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 158738,
       "num": 158738,
       "word": "李钟硕林允儿获演技大赏最佳情侣奖",
@@ -1449,6 +1561,14 @@
       "onboard_time": 1672451307,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156049,
+      "num": 156049,
+      "word": "阴阳师",
+      "onboard_time": 1672479636,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 156046,
@@ -1496,6 +1616,14 @@
       "word": "8岁孙女在爷爷房间贴满礼物说明书",
       "onboard_time": 1672469549,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146821,
+      "num": 146821,
+      "word": "医院ICU垃圾桶堆满药盒网友泪目",
+      "onboard_time": 1672481493,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1627,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132674,
+      "num": 132674,
+      "word": "官方辟谣男子连咳3天咳断肋骨",
+      "onboard_time": 1672481375,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132385,
       "num": 132385,
       "word": "白鹿说自己是归零吉祥物",
@@ -1643,12 +1779,28 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 126813,
+      "num": 126813,
+      "word": "新年头像",
+      "onboard_time": 1672479814,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125925,
       "num": 125925,
       "word": "男子医院抽血医生边看说明边操作",
       "onboard_time": 1672410151,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125845,
+      "num": 125845,
+      "word": "2022",
+      "onboard_time": 1672480416,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 123642,
@@ -1771,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112760,
+      "num": 125802,
+      "word": "美梦成真的橘猫",
+      "onboard_time": 1672481791,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 111988,
       "num": 111988,
       "word": "如果把2022浓缩成24小时",
@@ -1787,20 +1947,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110240,
-      "num": 110240,
-      "word": "女孩捏出1.4厘米小房子台灯仅2毫米",
-      "onboard_time": 1672478971,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108845,
       "num": 108845,
       "word": "拉小提琴和拉二胡的都沉默了",
       "onboard_time": 1672461569,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108801,
+      "num": 125761,
+      "word": "2022年终温暖是外卖给的",
+      "onboard_time": 1672480473,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108032,
@@ -1871,14 +2031,6 @@
       "num": 93304,
       "word": "流浪的猫咪只能在垃圾堆过冬了",
       "onboard_time": 1672406131,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 93292,
-      "num": 93292,
-      "word": "原来亲戚尬聊密度能这么降",
-      "onboard_time": 1672479155,
       "rank": 45,
       "category": "幽默"
     },
@@ -1964,7 +2116,7 @@
     },
     {
       "raw_hot": 73030,
-      "num": 1170458,
+      "num": 1428180,
       "word": "2023愿所有美好与你相伴",
       "onboard_time": 1672473094,
       "rank": 2,
