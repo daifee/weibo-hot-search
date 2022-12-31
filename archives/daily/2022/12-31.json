@@ -1,6 +1,6 @@
 {
   "startTime": 1672417433979,
-  "endTime": 1672457608454,
+  "endTime": 1672460497005,
   "band_list": [
     {
       "raw_hot": 2239899,
@@ -9,6 +9,14 @@
       "onboard_time": 1672445120,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1794632,
+      "num": 1794632,
+      "word": "易烊千玺今年没有跨年晚会",
+      "onboard_time": 1672457064,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1653289,
@@ -35,6 +43,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1311592,
+      "num": 446237,
+      "word": "肖战学会骑电动车",
+      "onboard_time": 1672459586,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1296156,
       "num": 1296156,
       "word": "詹姆斯生日夜杀疯了",
@@ -59,12 +75,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 934632,
-      "num": 934632,
-      "word": "易烊千玺今年没有跨年晚会",
-      "onboard_time": 1672457064,
-      "rank": 3,
-      "category": "艺人"
+      "raw_hot": 953095,
+      "num": 953095,
+      "word": "研究称防二次感染关键是鼻子",
+      "onboard_time": 1672457247,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 932349,
@@ -97,6 +113,14 @@
       "onboard_time": 1672450585,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 732285,
+      "num": 732285,
+      "word": "跨年节目单",
+      "onboard_time": 1672457487,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 665366,
@@ -179,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455468,
+      "num": 455468,
+      "word": "东方卫视跨年",
+      "onboard_time": 1672456946,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451371,
       "num": 436342,
       "word": "市民为花掉家乐福储值卡排队抢购",
@@ -219,6 +251,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 412987,
+      "num": 412987,
+      "word": "90后北漂开餐馆赔了200万3年没回家",
+      "onboard_time": 1672457364,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397938,
       "num": 397938,
       "word": "李泳知showmethemoney冠军",
@@ -241,6 +281,14 @@
       "onboard_time": 1672448907,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380422,
+      "num": 231236,
+      "word": "九尾说王鹤棣是大邺第一刺客",
+      "onboard_time": 1672457064,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 368615,
@@ -315,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310947,
-      "num": 310947,
-      "word": "东方卫视跨年",
-      "onboard_time": 1672456946,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 307084,
       "num": 296603,
       "word": "江苏卫视跨年群星比耶手势大赛",
@@ -385,14 +425,6 @@
       "onboard_time": 1672414769,
       "rank": 21,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 263843,
-      "num": 263843,
-      "word": "跨年节目单",
-      "onboard_time": 1672457487,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 263789,
@@ -467,6 +499,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229374,
+      "num": 219341,
+      "word": "马嘉祺东方卫视跨年晚会",
+      "onboard_time": 1672458566,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 228504,
+      "num": 228504,
+      "word": "男子阳后缺氧用饮料瓶自制制氧机",
+      "onboard_time": 1672459407,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227567,
       "num": 227567,
       "word": "四川已知最长寿老人去世",
@@ -491,12 +539,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223194,
+      "num": 170651,
+      "word": "刘耀文东方卫视跨年晚会彩排镜头",
+      "onboard_time": 1672459829,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 223033,
+      "num": 223033,
+      "word": "男子拿走外卖称未见餐投诉骑手",
+      "onboard_time": 1672456767,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221933,
       "num": 221933,
       "word": "C罗年薪达到2亿美元",
       "onboard_time": 1672443980,
       "rank": 21,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 217506,
+      "num": 169979,
+      "word": "多地公布新冠感染率调查情况",
+      "onboard_time": 1672459407,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215684,
@@ -507,12 +579,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 212095,
+      "num": 169279,
+      "word": "张艺兴跨年练习室排练路透",
+      "onboard_time": 1672458385,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211600,
       "num": 211600,
       "word": "景向谁依",
       "onboard_time": 1672401628,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 208643,
+      "num": 208643,
+      "word": "中国旅英游客需出示48小时内核酸阴性证明",
+      "onboard_time": 1672458744,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203773,
@@ -545,6 +633,14 @@
       "onboard_time": 1672415248,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199576,
+      "num": 151077,
+      "word": "最美的夜指尖红毯盛典",
+      "onboard_time": 1672459887,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 194700,
@@ -675,6 +771,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 166422,
+      "num": 166422,
+      "word": "专四",
+      "onboard_time": 1672460127,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 165830,
       "num": 165830,
       "word": "旗舰店买iPhone取消订单不给退款",
@@ -689,6 +793,14 @@
       "onboard_time": 1672454124,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164792,
+      "num": 168463,
+      "word": "今天跨年怎么过",
+      "onboard_time": 1672459887,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 164176,
@@ -723,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156991,
+      "num": 156991,
+      "word": "韩乔生说C罗转会曼联或是最大错误",
+      "onboard_time": 1672455088,
+      "rank": 36,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 156585,
       "num": 126483,
       "word": "偶练青你给我们民谣打call",
@@ -747,20 +867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154591,
-      "num": 154591,
-      "word": "研究称防二次感染关键是鼻子",
-      "onboard_time": 1672457247,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153714,
-      "num": 153714,
-      "word": "男子拿走外卖称未见餐投诉骑手",
-      "onboard_time": 1672456767,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 155548,
+      "num": 155548,
+      "word": "这才是宅家跨年的必备硬菜",
+      "onboard_time": 1672460127,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 152724,
@@ -777,14 +889,6 @@
       "onboard_time": 1672443077,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 150575,
-      "num": 150575,
-      "word": "韩乔生说C罗转会曼联或是最大错误",
-      "onboard_time": 1672455088,
-      "rank": 36,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 144971,
@@ -849,14 +953,6 @@
       "onboard_time": 1672456646,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 136715,
-      "num": 136715,
-      "word": "九尾说王鹤棣是大邺第一刺客",
-      "onboard_time": 1672457064,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 136509,
@@ -939,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120538,
-      "num": 120538,
-      "word": "90后北漂开餐馆赔了200万3年没回家",
-      "onboard_time": 1672457364,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120047,
       "num": 120047,
       "word": "C罗说利雅得胜利的愿景令人激动",
@@ -1011,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111988,
+      "num": 111988,
+      "word": "如果把2022浓缩成24小时",
+      "onboard_time": 1672460006,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108032,
       "num": 108032,
       "word": "转阴后依然咳嗽咋回事",
@@ -1041,6 +1137,14 @@
       "onboard_time": 1672450406,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94400,
+      "num": 1192167,
+      "word": "一图了解重点人群恢复期健康指导",
+      "onboard_time": 1672458566,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93304,
