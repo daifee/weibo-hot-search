@@ -1,0 +1,410 @@
+{
+  "runTime": 1672547806398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2534684,
+        "num": 2534684,
+        "word": "蒙脱石散",
+        "onboard_time": 1672529298,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1641614,
+        "num": 1641614,
+        "word": "外来媳妇本地郎康伯扮演者去世",
+        "onboard_time": 1672545814,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211439,
+        "num": 1280735,
+        "word": "这是2023年第一天的中国",
+        "onboard_time": 1672532064,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1076452,
+        "num": 1076452,
+        "word": "电影流浪地球2",
+        "onboard_time": 1672544912,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 970831,
+        "num": 970831,
+        "word": "康伯",
+        "onboard_time": 1672545870,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 699604,
+        "num": 699604,
+        "word": "姑娘不顾生理期跳冰湖救出老人",
+        "onboard_time": 1672540594,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540954,
+        "num": 540954,
+        "word": "王毅任中央外办主任",
+        "onboard_time": 1672540474,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 523422,
+        "num": 523422,
+        "word": "足坛年收入C罗断层第一",
+        "onboard_time": 1672541192,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444950,
+        "num": 521744,
+        "word": "补贴取消后新能源车值得买吗",
+        "onboard_time": 1672543354,
+        "rank": 8,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 359558,
+        "num": 520131,
+        "word": "蒙脱石散主要治什么",
+        "onboard_time": 1672543532,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1408173,
+        "num": 517774,
+        "word": "哥哥太爱我了怎么办",
+        "onboard_time": 1672543655,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 791160,
+        "num": 516190,
+        "word": "杨幂 2023请对我好一点吧",
+        "onboard_time": 1672531162,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663832,
+        "num": 514791,
+        "word": "外来媳妇本地郎",
+        "onboard_time": 1672545574,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 651578,
+        "num": 511591,
+        "word": "丈夫给阳性妻子做鸡汤熬出粪便",
+        "onboard_time": 1672515314,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342099,
+        "num": 509284,
+        "word": "新年快乐",
+        "onboard_time": 1672501434,
+        "rank": 14,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 301237,
+        "num": 507578,
+        "word": "多地调整烟花爆竹燃放政策",
+        "onboard_time": 1672546169,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258408,
+        "num": 504752,
+        "word": "GK正式更名为DRG",
+        "onboard_time": 1672543053,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238286,
+        "num": 503300,
+        "word": "农历癸卯兔年全年共有384天",
+        "onboard_time": 1672545212,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180647,
+        "num": 500984,
+        "word": "美术生回老家给拖拉机画醒狮皮肤",
+        "onboard_time": 1672541554,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179919,
+        "num": 498404,
+        "word": "2023新年宝宝诞生",
+        "onboard_time": 1672544853,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960650,
+        "num": 496380,
+        "word": "苏醒说哥是懂站位的",
+        "onboard_time": 1672531283,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652007,
+        "num": 495038,
+        "word": "谢娜 炅每年都有拥抱今年也不会少",
+        "onboard_time": 1672536453,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273611,
+        "num": 493384,
+        "word": "年底iPhone14连续2次降价",
+        "onboard_time": 1672535852,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 594975,
+        "num": 489369,
+        "word": "赵露思腮红谁打的",
+        "onboard_time": 1672499573,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166658,
+        "num": 489179,
+        "word": "8岁哥哥背着妹妹帮补胎一气呵成",
+        "onboard_time": 1672546593,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165365,
+        "num": 486717,
+        "word": "东契奇51分",
+        "onboard_time": 1672543713,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159576,
+        "num": 483721,
+        "word": "合肥市民跨年倒数一起放飞气球",
+        "onboard_time": 1672539393,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144439,
+        "num": 481932,
+        "word": "和喜欢的人跨年是啥体验",
+        "onboard_time": 1672532725,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142853,
+        "num": 479220,
+        "word": "女儿扔掉妈妈囤发霉的20斤食物",
+        "onboard_time": 1672547435,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130654,
+        "num": 477710,
+        "word": "2023新年开场白",
+        "onboard_time": 1672546472,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 552004,
+        "num": 475346,
+        "word": "陆虎终于在跨年唱到了自己的歌",
+        "onboard_time": 1672541614,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542073,
+        "num": 474070,
+        "word": "迪丽热巴2022年终总结",
+        "onboard_time": 1672544734,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472288,
+        "num": 472288,
+        "word": "华晨宇白举纲快男跨十年零点拥抱",
+        "onboard_time": 1672546533,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452980,
+        "num": 452980,
+        "word": "SMTOWN线上演唱会",
+        "onboard_time": 1672543713,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 313593,
+        "num": 443603,
+        "word": "xbb",
+        "onboard_time": 1672501491,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158781,
+        "num": 439902,
+        "word": "西安大唐不夜城跨年夜人山人海",
+        "onboard_time": 1672546653,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154084,
+        "num": 425638,
+        "word": "XBB.1.5已成美国头号流行株",
+        "onboard_time": 1672547254,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128076,
+        "num": 418534,
+        "word": "这就是吃了打印机的手吧",
+        "onboard_time": 1672546050,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127573,
+        "num": 399771,
+        "word": "鄂尔多斯感染人数中仅1.75%无症状",
+        "onboard_time": 1672517594,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127371,
+        "num": 389806,
+        "word": "今起实名制儿童火车票将按照年龄购买",
+        "onboard_time": 1672536513,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387661,
+        "num": 387661,
+        "word": "张艺兴工作室说压不压轴并不重要",
+        "onboard_time": 1672537113,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356553,
+        "num": 356553,
+        "word": "哥哥太爱我了怎么办cp成真",
+        "onboard_time": 1672547492,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105058,
+        "num": 354972,
+        "word": "2023",
+        "onboard_time": 1672531825,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101858,
+        "num": 352604,
+        "word": "如何度过24岁的迷茫期",
+        "onboard_time": 1672531765,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100633,
+        "num": 348073,
+        "word": "蒙脱石散是止泻药吗",
+        "onboard_time": 1672546354,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99214,
+        "num": 343607,
+        "word": "篮网11连胜",
+        "onboard_time": 1672541913,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94590,
+        "num": 342014,
+        "word": "马斯克财产缩水破人类纪录",
+        "onboard_time": 1672527616,
+        "rank": 46,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 90927,
+        "num": 337021,
+        "word": "2023元旦快乐",
+        "onboard_time": 1672515375,
+        "rank": 47,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 87604,
+        "num": 333462,
+        "word": "这是我玩过最可怕的游戏了",
+        "onboard_time": 1672547671,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82705,
+        "num": 330991,
+        "word": "兔年",
+        "onboard_time": 1672507232,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹2022#"
+    }
+  }
+}
