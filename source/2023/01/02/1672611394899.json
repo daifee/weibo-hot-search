@@ -1,0 +1,410 @@
+{
+  "runTime": 1672611394899,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 194584,
+        "num": 194584,
+        "word": "官方回应郑州CBD燃放烟花",
+        "onboard_time": 1672589247,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167780,
+        "num": 167780,
+        "word": "法外狂徒烟花版",
+        "onboard_time": 1672583371,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16477,
+        "num": 113720,
+        "word": "2023年哪些新规开始实施",
+        "onboard_time": 1672586609,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 86064,
+        "num": 86064,
+        "word": "XBB.1.5毒株是什么",
+        "onboard_time": 1672583314,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74693,
+        "num": 74693,
+        "word": "新冠病毒已经找到多种动物宿主",
+        "onboard_time": 1672552232,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72468,
+        "num": 72468,
+        "word": "新冠感染确实会有呕吐腹泻",
+        "onboard_time": 1672577972,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61878,
+        "num": 61878,
+        "word": "凌晨四点半的泰山挑山工",
+        "onboard_time": 1672591944,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56726,
+        "num": 56726,
+        "word": "宋慧乔新剧豆瓣开分8.7分",
+        "onboard_time": 1672582713,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49407,
+        "num": 49407,
+        "word": "打印出3米长试卷9岁男孩秒变哭腔",
+        "onboard_time": 1672588588,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48586,
+        "num": 48586,
+        "word": "张丹峰洪欣携手走红毯",
+        "onboard_time": 1672577433,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92553,
+        "num": 48068,
+        "word": "专家回应阳康后出现脑雾症状",
+        "onboard_time": 1672608132,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49955,
+        "num": 46169,
+        "word": "蒙脱石散和XBB变异株有啥关系",
+        "onboard_time": 1672572809,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43242,
+        "num": 43242,
+        "word": "未成年人禁止服用诺氟沙星",
+        "onboard_time": 1672570408,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42720,
+        "num": 42720,
+        "word": "日媒吐槽世界杯扩军是为让中国男足参赛",
+        "onboard_time": 1672576110,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38751,
+        "num": 38751,
+        "word": "女子接触发霉玉米肺里长黄曲霉菌",
+        "onboard_time": 1672578393,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38432,
+        "num": 38432,
+        "word": "老人去世火化狗狗满眼泪水等待",
+        "onboard_time": 1672574370,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34065,
+        "num": 34065,
+        "word": "刘亦菲许红豆演我",
+        "onboard_time": 1672596615,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32824,
+        "num": 32824,
+        "word": "父母在家装隔音舱让女儿安静上网课",
+        "onboard_time": 1672578813,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31429,
+        "num": 31429,
+        "word": "明星跨年演唱会造型大赏",
+        "onboard_time": 1672596136,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29463,
+        "num": 29463,
+        "word": "李现好会亲",
+        "onboard_time": 1672575870,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27555,
+        "num": 27555,
+        "word": "王一博晒白衬衫照祝大家元旦快乐",
+        "onboard_time": 1672573651,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27120,
+        "num": 27120,
+        "word": "当代人好像在玩一种很新的跨年",
+        "onboard_time": 1672572209,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 27093,
+        "num": 27093,
+        "word": "吴磊扯工牌",
+        "onboard_time": 1672583074,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26600,
+        "num": 26600,
+        "word": "中科院原副院长王佛松院士逝世",
+        "onboard_time": 1672577555,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26076,
+        "num": 26076,
+        "word": "图书馆偶遇外卖小哥备战法考",
+        "onboard_time": 1672584092,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25851,
+        "num": 25851,
+        "word": "吴宣仪状态",
+        "onboard_time": 1672578155,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23995,
+        "num": 23995,
+        "word": "朱正廷演唱会哭了",
+        "onboard_time": 1672591944,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22812,
+        "num": 22812,
+        "word": "男子每次只点油饼老板反手送碗汤",
+        "onboard_time": 1672582053,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 20424,
+        "num": 20424,
+        "word": "谁能拒绝会跳女团舞的老师呢",
+        "onboard_time": 1672580492,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19002,
+        "num": 19002,
+        "word": "第一次见这么可爱的乌龟",
+        "onboard_time": 1672594996,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21050,
+        "num": 18989,
+        "word": "浮图缘原著肖铎喜欢兰花",
+        "onboard_time": 1672590805,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20928,
+        "num": 18884,
+        "word": "Tangoz评论权志龙算你小子有点事业心",
+        "onboard_time": 1672584810,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20546,
+        "num": 18841,
+        "word": "竹内亮在重庆做棒棒",
+        "onboard_time": 1672598355,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 20107,
+        "num": 18814,
+        "word": "还魂",
+        "onboard_time": 1672586849,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18765,
+        "num": 18765,
+        "word": "XBB会不会导致二次感染",
+        "onboard_time": 1672560509,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18228,
+        "num": 18228,
+        "word": "新到车厘子果商一拥而上疯狂抢货",
+        "onboard_time": 1672571250,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18206,
+        "num": 18206,
+        "word": "学生吃席给老师带回一大碗虾和肉",
+        "onboard_time": 1672585351,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16916,
+        "num": 16916,
+        "word": "热刺vs阿斯顿维拉",
+        "onboard_time": 1672587327,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16836,
+        "num": 16836,
+        "word": "原来还有小狗不会汪汪叫",
+        "onboard_time": 1672581573,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16302,
+        "num": 16302,
+        "word": "N95有效防护时间为4到6小时",
+        "onboard_time": 1672563748,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18836,
+        "num": 16230,
+        "word": "春节档电影你最期待哪一部",
+        "onboard_time": 1672594699,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16128,
+        "num": 16128,
+        "word": "去哪儿定酒店不同手机价格差距大",
+        "onboard_time": 1672575388,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15880,
+        "num": 15880,
+        "word": "见过哄娃最专业的小朋友",
+        "onboard_time": 1672586429,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 15512,
+        "num": 15512,
+        "word": "在迪拜跨年是什么体验",
+        "onboard_time": 1672585411,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 15110,
+        "num": 15110,
+        "word": "元旦少不了姐姐收拾弟弟",
+        "onboard_time": 1672600453,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14914,
+        "num": 14914,
+        "word": "诺氟沙星是一种什么药",
+        "onboard_time": 1672577793,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14342,
+        "num": 14342,
+        "word": "白鹿张凌赫GQ背影同框",
+        "onboard_time": 1672577433,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14221,
+        "num": 14340,
+        "word": "总要去湖南看一次烟花秀吧",
+        "onboard_time": 1672582114,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13775,
+        "num": 14338,
+        "word": "这届00后是懂备年货的",
+        "onboard_time": 1672571371,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12866,
+        "num": 14338,
+        "word": "2023第一天来了",
+        "onboard_time": 1672601652,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#时光之辰#"
+    }
+  }
+}
