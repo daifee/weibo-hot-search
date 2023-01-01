@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672537618319,
+  "endTime": 1672539040673,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -123,8 +123,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1845175,
-      "num": 1845175,
+      "raw_hot": 1857213,
+      "num": 1857213,
       "word": "苏醒说哥是懂站位的",
       "onboard_time": 1672531283,
       "rank": 1,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1190350,
-      "num": 862955,
+      "num": 869908,
       "word": "丈夫给阳性妻子做鸡汤熬出粪便",
       "onboard_time": 1672515314,
       "rank": 10,
@@ -232,6 +232,14 @@
       "word": "王鹤棣冲过去抱何炅",
       "onboard_time": 1672534109,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 937259,
+      "num": 937259,
+      "word": "张艺兴工作室说压不压轴并不重要",
+      "onboard_time": 1672537113,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -307,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 681837,
-      "num": 448897,
-      "word": "张艺兴工作室说压不压轴并不重要",
-      "onboard_time": 1672537113,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 583158,
       "num": 1037258,
       "word": "河南的跨年有多浪漫",
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 477822,
+      "num": 429253,
+      "word": "华晨宇湖南卫视压轴",
+      "onboard_time": 1672537052,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453827,
       "num": 1018327,
       "word": "南部战区揭露美军机抵近侦察真相",
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442976,
+      "num": 442976,
+      "word": "今起实名制儿童火车票将按照年龄购买",
+      "onboard_time": 1672536513,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425823,
       "num": 425823,
       "word": "YG新女团BABYMONSTER预告",
@@ -363,12 +379,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 398870,
-      "num": 398870,
+      "raw_hot": 411962,
+      "num": 411962,
       "word": "陈楚生 声音",
       "onboard_time": 1672534649,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401766,
+      "num": 401766,
+      "word": "王霏霏郑秀妍牵手",
+      "onboard_time": 1672534228,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 387500,
@@ -377,14 +401,6 @@
       "onboard_time": 1672510043,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 385251,
-      "num": 385251,
-      "word": "王霏霏郑秀妍牵手",
-      "onboard_time": 1672534228,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 376824,
@@ -433,14 +449,6 @@
       "onboard_time": 1672502747,
       "rank": 15,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 309861,
-      "num": 309861,
-      "word": "华晨宇湖南卫视压轴",
-      "onboard_time": 1672537052,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 302962,
@@ -579,6 +587,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 193586,
+      "num": 447474,
+      "word": "如何度过24岁的迷茫期",
+      "onboard_time": 1672531765,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188469,
       "num": 988852,
       "word": "3岁萌娃狂吃橘子手脚发黄成小黄人",
@@ -619,19 +635,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 173080,
+      "raw_hot": 175032,
       "num": 447794,
       "word": "医生家10岁儿子单独照顾3岁妹妹",
       "onboard_time": 1672522032,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172184,
-      "num": 396544,
-      "word": "今起实名制儿童火车票将按照年龄购买",
-      "onboard_time": 1672536513,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -641,14 +649,6 @@
       "onboard_time": 1672514895,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165032,
-      "num": 447474,
-      "word": "如何度过24岁的迷茫期",
-      "onboard_time": 1672531765,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 159915,
@@ -731,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133411,
+      "num": 425022,
+      "word": "篮网vs黄蜂",
+      "onboard_time": 1672538434,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129705,
       "num": 126569,
       "word": "杨幂你怎么这么好看",
@@ -740,11 +748,19 @@
     },
     {
       "raw_hot": 127782,
-      "num": 391030,
+      "num": 401499,
       "word": "2023年天安门广场首次升旗仪式",
       "onboard_time": 1672532964,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 124180,
+      "num": 413728,
+      "word": "2023年第一天的仪式感",
+      "onboard_time": 1672536991,
+      "rank": 44,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 118224,
@@ -753,6 +769,14 @@
       "onboard_time": 1672497421,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116934,
+      "num": 401047,
+      "word": "元旦祝福",
+      "onboard_time": 1672538973,
+      "rank": 44,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 115447,
@@ -769,6 +793,14 @@
       "onboard_time": 1672503467,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114161,
+      "num": 412716,
+      "word": "2023将迎来哪些奇妙的相遇",
+      "onboard_time": 1672537593,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 108548,
@@ -800,14 +832,6 @@
       "word": "你好2023",
       "onboard_time": 1672503767,
       "rank": 39,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 101776,
-      "num": 308708,
-      "word": "2023年第一天的仪式感",
-      "onboard_time": 1672536991,
-      "rank": 44,
       "category": "社会新闻,情感"
     },
     {
@@ -867,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88332,
+      "num": 399915,
+      "word": "这地里是藏了个DJ吧",
+      "onboard_time": 1672538791,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86823,
       "num": 923454,
       "word": "迎接2023",
@@ -883,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82939,
+      "num": 399787,
+      "word": "国乒元旦祝福",
+      "onboard_time": 1672539034,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82245,
       "num": 923333,
       "word": "疫情发生以来每个人都不容易",
@@ -896,14 +936,6 @@
       "word": "新的一年",
       "onboard_time": 1672504425,
       "rank": 43,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 76598,
-      "num": 306054,
-      "word": "2023将迎来哪些奇妙的相遇",
-      "onboard_time": 1672537593,
-      "rank": 49,
       "category": "社会新闻,情感"
     },
     {
