@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672587221068,
+  "endTime": 1672590224474,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -417,6 +417,14 @@
       "onboard_time": 1672534109,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 974285,
+      "num": 974285,
+      "word": "法外狂徒烟花版",
+      "onboard_time": 1672583371,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 974124,
@@ -849,14 +857,6 @@
       "onboard_time": 1672548510,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 518906,
-      "num": 518906,
-      "word": "法外狂徒烟花版",
-      "onboard_time": 1672583371,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 518471,
@@ -1307,6 +1307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331707,
+      "num": 331707,
+      "word": "学生吃席给老师带回一大碗虾和肉",
+      "onboard_time": 1672585351,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331600,
       "num": 331600,
       "word": "楠艺",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1672539393,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315508,
+      "num": 315508,
+      "word": "还魂",
+      "onboard_time": 1672586849,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 308114,
@@ -1563,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274387,
+      "num": 274387,
+      "word": "官方回应郑州CBD燃放烟花",
+      "onboard_time": 1672589247,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273113,
       "num": 1006386,
       "word": "2023新年贺词完整视频",
@@ -1729,14 +1753,6 @@
       "onboard_time": 1672545212,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235333,
-      "num": 190143,
-      "word": "还魂",
-      "onboard_time": 1672586849,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 235116,
@@ -2059,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190485,
+      "num": 190485,
+      "word": "打印出3米长试卷9岁男孩秒变哭腔",
+      "onboard_time": 1672588588,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189478,
       "num": 189478,
       "word": "当代人是懂跨年的",
@@ -2105,6 +2129,14 @@
       "onboard_time": 1672571729,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182069,
+      "num": 131245,
+      "word": "张兰辟谣复阳",
+      "onboard_time": 1672588588,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 181905,
@@ -2227,12 +2259,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167772,
+      "num": 97253,
+      "word": "龚俊2022年终总结",
+      "onboard_time": 1672589608,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167008,
       "num": 249738,
       "word": "哈尔滨的墙来了有多好笑",
       "onboard_time": 1672574610,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165831,
+      "num": 126257,
+      "word": "丁程鑫2022年终总结vlog",
+      "onboard_time": 1672589247,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 164094,
@@ -2507,14 +2555,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 126007,
-      "num": 184871,
-      "word": "学生吃席给老师带回一大碗虾和肉",
-      "onboard_time": 1672585351,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124180,
       "num": 413728,
       "word": "2023年第一天的仪式感",
@@ -2569,6 +2609,14 @@
       "onboard_time": 1672552893,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115888,
+      "num": 115888,
+      "word": "热刺vs阿斯顿维拉",
+      "onboard_time": 1672587327,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 115447,
@@ -2755,6 +2803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97048,
+      "num": 547633,
+      "word": "2023年哪些新规开始实施",
+      "onboard_time": 1672586609,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 96737,
       "num": 924688,
       "word": "阳康后还需要戴口罩吗",
@@ -2891,6 +2947,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 79801,
+      "num": 79801,
+      "word": "见过哄娃最专业的小朋友",
+      "onboard_time": 1672586429,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 77447,
       "num": 187444,
       "word": "ACT对战Gr",
@@ -2913,14 +2977,6 @@
       "onboard_time": 1672507170,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58146,
-      "num": 511355,
-      "word": "2023年哪些新规开始实施",
-      "onboard_time": 1672586609,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 57125,
@@ -3058,6 +3114,9 @@
     },
     {
       "word": "#2023我来了#"
+    },
+    {
+      "word": "#聆听新年贺词2023加油干#"
     }
   ]
 }
