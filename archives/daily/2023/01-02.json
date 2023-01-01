@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672598097628,
+  "endTime": 1672600419694,
   "band_list": [
     {
       "raw_hot": 1160725,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 72941,
-      "num": 58816,
+      "num": 62042,
       "word": "刘亦菲许红豆演我",
       "onboard_time": 1672596615,
       "rank": 32,
@@ -497,6 +497,14 @@
       "onboard_time": 1672596975,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36539,
+      "num": 23567,
+      "word": "竹内亮在重庆做棒棒",
+      "onboard_time": 1672598355,
+      "rank": 40,
+      "category": "网红"
     }
   ],
   "hotgov_list": [

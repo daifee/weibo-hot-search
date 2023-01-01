@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/02 02:34:57
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/02 03:13:39
 </p>
 </blockquote>
 <p>
@@ -2357,6 +2357,12 @@ Twins的状态我是服气的（热度：68205）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%83%E8%8E%B1%E9%A1%BF2%E6%AF%944%E9%98%BF%E6%A3%AE%E7%BA%B3%23" target="weibo">
 布莱顿2比4阿森纳（热度：37235）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%B9%E5%86%85%E4%BA%AE%E5%9C%A8%E9%87%8D%E5%BA%86%E5%81%9A%E6%A3%92%E6%A3%92%23" target="weibo">
+竹内亮在重庆做棒棒（热度：36539）
 </a>
 </li>
 
