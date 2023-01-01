@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672586243737,
+  "endTime": 1672587221068,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 835742,
+      "num": 835742,
+      "word": "宋慧乔新剧豆瓣开分8.7分",
+      "onboard_time": 1672582713,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 831499,
       "num": 831499,
       "word": "廖搏点评王一博跨年舞台",
@@ -505,14 +513,6 @@
       "onboard_time": 1672506991,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 825126,
-      "num": 825126,
-      "word": "宋慧乔新剧豆瓣开分8.7分",
-      "onboard_time": 1672582713,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 815085,
@@ -851,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 518906,
+      "num": 518906,
+      "word": "法外狂徒烟花版",
+      "onboard_time": 1672583371,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 518471,
       "num": 452980,
       "word": "SMTOWN线上演唱会",
@@ -993,14 +1001,6 @@
       "onboard_time": 1672547852,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 447801,
-      "num": 326936,
-      "word": "法外狂徒烟花版",
-      "onboard_time": 1672583371,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 442976,
@@ -1267,6 +1267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 345092,
+      "num": 345092,
+      "word": "图书馆偶遇外卖小哥备战法考",
+      "onboard_time": 1672584092,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341543,
       "num": 341543,
       "word": "Letme有宝宝了",
@@ -1499,14 +1507,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 280900,
-      "num": 280900,
-      "word": "图书馆偶遇外卖小哥备战法考",
-      "onboard_time": 1672584092,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280358,
       "num": 249532,
       "word": "杨幂红秀封面",
@@ -1603,6 +1603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 261996,
+      "num": 261996,
+      "word": "XBB.1.5毒株是什么",
+      "onboard_time": 1672583314,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260572,
       "num": 183181,
       "word": "苏醒两年前的站位vs今晚的站位",
@@ -1619,8 +1627,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256078,
+      "num": 191545,
+      "word": "马嘉祺7秒有效镜头",
+      "onboard_time": 1672586192,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255693,
-      "num": 170547,
+      "num": 186768,
       "word": "任嘉伦邢菲武庚纪同框对视拉手路透",
       "onboard_time": 1672584754,
       "rank": 33,
@@ -1664,14 +1680,6 @@
       "word": "小学生吃饭打游戏全家上阵喂食",
       "onboard_time": 1672556189,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247531,
-      "num": 247531,
-      "word": "XBB.1.5毒株是什么",
-      "onboard_time": 1672583314,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1721,6 +1729,14 @@
       "onboard_time": 1672545212,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235333,
+      "num": 190143,
+      "word": "还魂",
+      "onboard_time": 1672586849,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 235116,
@@ -1780,7 +1796,7 @@
     },
     {
       "raw_hot": 230987,
-      "num": 158435,
+      "num": 179498,
       "word": "肖铎的就是步音楼的",
       "onboard_time": 1672585529,
       "rank": 40,
@@ -1857,14 +1873,6 @@
       "onboard_time": 1672565850,
       "rank": 26,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 210818,
-      "num": 157595,
-      "word": "马嘉祺7秒有效镜头",
-      "onboard_time": 1672586192,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 210401,
@@ -2499,6 +2507,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 126007,
+      "num": 184871,
+      "word": "学生吃席给老师带回一大碗虾和肉",
+      "onboard_time": 1672585351,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124180,
       "num": 413728,
       "word": "2023年第一天的仪式感",
@@ -2596,7 +2612,7 @@
     },
     {
       "raw_hot": 112677,
-      "num": 158727,
+      "num": 183475,
       "word": "这就是犹豫就会败北吗",
       "onboard_time": 1672585771,
       "rank": 39,
@@ -2713,6 +2729,14 @@
       "onboard_time": 1672575212,
       "rank": 47,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 97217,
+      "num": 178357,
+      "word": "在迪拜跨年是什么体验",
+      "onboard_time": 1672585411,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 97106,
@@ -2835,14 +2859,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 84577,
-      "num": 151061,
-      "word": "在迪拜跨年是什么体验",
-      "onboard_time": 1672585411,
-      "rank": 48,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 82939,
       "num": 399787,
       "word": "国乒元旦祝福",
@@ -2897,6 +2913,14 @@
       "onboard_time": 1672507170,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58146,
+      "num": 511355,
+      "word": "2023年哪些新规开始实施",
+      "onboard_time": 1672586609,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 57125,
