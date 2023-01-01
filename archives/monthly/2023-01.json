@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672607707359,
+  "endTime": 1672608810515,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -3201,6 +3201,14 @@
       "onboard_time": 1672600453,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 23002,
+      "num": 23002,
+      "word": "专家回应阳康后出现脑雾症状",
+      "onboard_time": 1672608132,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15166,
