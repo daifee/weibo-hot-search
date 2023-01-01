@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672611394899,
+  "endTime": 1672612408238,
   "band_list": [
     {
       "raw_hot": 1160725,
@@ -331,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128339,
+      "num": 56383,
+      "word": "专家回应阳康后出现脑雾症状",
+      "onboard_time": 1672608132,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121992,
       "num": 121992,
       "word": "原来还有小狗不会汪汪叫",
@@ -401,14 +409,6 @@
       "onboard_time": 1672596136,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 92553,
-      "num": 48068,
-      "word": "专家回应阳康后出现脑雾症状",
-      "onboard_time": 1672608132,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87293,
@@ -513,6 +513,14 @@
       "onboard_time": 1672598355,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 29007,
+      "num": 29007,
+      "word": "顾南亭的小心思要藏不住了",
+      "onboard_time": 1672609692,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 27523,
