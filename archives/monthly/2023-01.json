@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672600419694,
+  "endTime": 1672601600935,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -3123,20 +3123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39111,
+      "num": 23567,
+      "word": "竹内亮在重庆做棒棒",
+      "onboard_time": 1672598355,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 37235,
       "num": 82777,
       "word": "布莱顿2比4阿森纳",
       "onboard_time": 1672528758,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36539,
-      "num": 23567,
-      "word": "竹内亮在重庆做棒棒",
-      "onboard_time": 1672598355,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 36211,
@@ -3184,6 +3184,14 @@
       "word": "好运2023",
       "onboard_time": 1672567231,
       "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 15274,
+      "num": 19429,
+      "word": "元旦少不了姐姐收拾弟弟",
+      "onboard_time": 1672600453,
+      "rank": 49,
       "category": "情感"
     },
     {
