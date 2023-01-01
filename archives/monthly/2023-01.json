@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672577418187,
+  "endTime": 1672579239232,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1784835,
-      "num": 870253,
+      "num": 925546,
       "word": "未成年人禁止服用诺氟沙星",
       "onboard_time": 1672570408,
       "rank": 3,
@@ -227,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1470443,
+      "num": 448524,
+      "word": "李现好会亲",
+      "onboard_time": 1672575870,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1469736,
       "num": 1469736,
       "word": "XBB会不会导致二次感染",
@@ -241,14 +249,6 @@
       "onboard_time": 1672491780,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1378585,
-      "num": 448524,
-      "word": "李现好会亲",
-      "onboard_time": 1672575870,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 1240782,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1197721,
+      "num": 819163,
+      "word": "张丹峰洪欣携手走红毯",
+      "onboard_time": 1672577433,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1193995,
       "num": 1193995,
       "word": "EXO再唱初雪",
@@ -329,6 +337,14 @@
       "onboard_time": 1672531162,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1115555,
+      "num": 1115555,
+      "word": "日媒吐槽世界杯扩军是为让中国男足参赛",
+      "onboard_time": 1672576110,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 1041827,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 1028964,
-      "num": 717916,
+      "num": 818788,
       "word": "老人去世火化狗狗满眼泪水等待",
       "onboard_time": 1672574370,
       "rank": 10,
@@ -465,6 +481,14 @@
       "onboard_time": 1672506991,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 815085,
+      "num": 815085,
+      "word": "白鹿张凌赫GQ背影同框",
+      "onboard_time": 1672577433,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 814735,
@@ -587,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 681661,
+      "num": 592561,
+      "word": "春节会形成群体免疫吗",
+      "onboard_time": 1672574850,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 679018,
       "num": 679018,
       "word": "华晨宇曲风是变了吗",
@@ -675,14 +707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 592561,
-      "num": 592561,
-      "word": "春节会形成群体免疫吗",
-      "onboard_time": 1672574850,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 588379,
       "num": 442480,
       "word": "王一博晒白衬衫照祝大家元旦快乐",
@@ -721,6 +745,14 @@
       "onboard_time": 1672564767,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 560182,
+      "num": 419528,
+      "word": "吴宣仪状态",
+      "onboard_time": 1672578155,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 537549,
@@ -849,6 +881,14 @@
       "onboard_time": 1672572753,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 454356,
+      "num": 410743,
+      "word": "新冠感染确实会有呕吐腹泻",
+      "onboard_time": 1672577972,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453827,
@@ -1011,14 +1051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 392208,
-      "num": 392208,
-      "word": "日媒吐槽世界杯扩军是为让中国男足参赛",
-      "onboard_time": 1672576110,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 390753,
       "num": 390753,
       "word": "男子开车偶遇大老虎路边休息",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1672492074,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371049,
+      "num": 371049,
+      "word": "许家印称2023年一定能偿还债务",
+      "onboard_time": 1672576473,
+      "rank": 29,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 366199,
@@ -1155,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 332170,
+      "num": 332170,
+      "word": "黑暗荣耀",
+      "onboard_time": 1672576049,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331600,
       "num": 331600,
       "word": "楠艺",
@@ -1243,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302067,
-      "num": 206981,
-      "word": "黑暗荣耀",
-      "onboard_time": 1672576049,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 300784,
       "num": 300784,
       "word": "连小猫咪都有新年礼物了",
@@ -1323,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283204,
+      "num": 283204,
+      "word": "诺氟沙星是一种什么药",
+      "onboard_time": 1672577793,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281534,
       "num": 281534,
       "word": "暧昧期如何与对方异性发小相处",
@@ -1337,6 +1385,14 @@
       "onboard_time": 1672505973,
       "rank": 34,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 280358,
+      "num": 160919,
+      "word": "杨幂红秀封面",
+      "onboard_time": 1672577492,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 280257,
@@ -1379,6 +1435,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 274589,
+      "num": 274589,
+      "word": "专家称没必要囤蒙脱石散",
+      "onboard_time": 1672575752,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273113,
       "num": 1006386,
       "word": "2023新年贺词完整视频",
@@ -1401,14 +1465,6 @@
       "onboard_time": 1672559609,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266576,
-      "num": 266576,
-      "word": "专家称没必要囤蒙脱石散",
-      "onboard_time": 1672575752,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262861,
@@ -1587,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219250,
+      "num": 219250,
+      "word": "中科院原副院长王佛松院士逝世",
+      "onboard_time": 1672577555,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218653,
       "num": 218653,
       "word": "主人举着猫咪一起看烟花",
@@ -1723,6 +1787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198828,
+      "num": 198828,
+      "word": "三星堆文物新年disco",
+      "onboard_time": 1672578092,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196895,
       "num": 161369,
       "word": "用每日一秒记录一整年",
@@ -1736,6 +1808,14 @@
       "word": "8岁哥哥背着妹妹帮补胎一气呵成",
       "onboard_time": 1672546593,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195425,
+      "num": 195425,
+      "word": "新年的武汉街头能有多浪漫",
+      "onboard_time": 1672579233,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1761,6 +1841,14 @@
       "onboard_time": 1672568370,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189432,
+      "num": 154645,
+      "word": "女子接触发霉玉米肺里长黄曲霉菌",
+      "onboard_time": 1672578393,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188469,
@@ -1923,12 +2011,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162117,
+      "num": 204512,
+      "word": "哈尔滨的墙来了有多好笑",
+      "onboard_time": 1672574610,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159915,
       "num": 926232,
       "word": "泰山宝光开启2023",
       "onboard_time": 1672502747,
       "rank": 26,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 159343,
+      "num": 191911,
+      "word": "去哪儿定酒店不同手机价格差距大",
+      "onboard_time": 1672575388,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158694,
@@ -1939,36 +2043,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 158103,
-      "num": 204512,
-      "word": "哈尔滨的墙来了有多好笑",
-      "onboard_time": 1672574610,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156715,
       "num": 269435,
       "word": "男子冰瀑前拍照不慎滑入水中",
       "onboard_time": 1672554630,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155343,
-      "num": 191911,
-      "word": "去哪儿定酒店不同手机价格差距大",
-      "onboard_time": 1672575388,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154871,
-      "num": 207357,
-      "word": "许家印称2023年一定能偿还债务",
-      "onboard_time": 1672576473,
-      "rank": 29,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 153867,
@@ -2115,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136626,
+      "num": 136626,
+      "word": "诺氟沙星可阻碍骨骼成长与发育",
+      "onboard_time": 1672579053,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135931,
       "num": 135931,
       "word": "王一博说无名定档大年初一",
@@ -2145,6 +2233,14 @@
       "onboard_time": 1672492677,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129679,
+      "num": 190602,
+      "word": "这狗有点戏精在身上",
+      "onboard_time": 1672576590,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 128025,
@@ -2219,12 +2315,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115961,
-      "num": 190602,
-      "word": "这狗有点戏精在身上",
-      "onboard_time": 1672576590,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 116865,
+      "num": 129525,
+      "word": "父母在家装隔音舱让女儿安静上网课",
+      "onboard_time": 1672578813,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115447,
