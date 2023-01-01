@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672594403013,
+  "endTime": 1672597250145,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -2299,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164916,
+      "num": 164916,
+      "word": "凌晨四点半的泰山挑山工",
+      "onboard_time": 1672591944,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164094,
       "num": 451613,
       "word": "篮网11连胜",
@@ -2715,14 +2723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107793,
-      "num": 107793,
-      "word": "凌晨四点半的泰山挑山工",
-      "onboard_time": 1672591944,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107665,
       "num": 275790,
       "word": "景区回应跨年夜未按时焰火秀",
@@ -2867,6 +2867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94355,
+      "num": 94355,
+      "word": "明星跨年演唱会造型大赏",
+      "onboard_time": 1672596136,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 94165,
       "num": 128557,
       "word": "郭冠廷如愿 难听",
@@ -3003,12 +3011,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 76460,
+      "num": 76460,
+      "word": "第一次见这么可爱的乌龟",
+      "onboard_time": 1672594996,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75145,
       "num": 923180,
       "word": "狼队0比1曼联",
       "onboard_time": 1672500051,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73515,
+      "num": 48683,
+      "word": "春节档电影你最期待哪一部",
+      "onboard_time": 1672594699,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 68486,
+      "num": 45280,
+      "word": "刘亦菲许红豆演我",
+      "onboard_time": 1672596615,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 68205,
@@ -3025,6 +3057,14 @@
       "onboard_time": 1672507170,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61999,
+      "num": 36077,
+      "word": "贺峻霖晒视频祝大家新年快乐",
+      "onboard_time": 1672596975,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 57125,
