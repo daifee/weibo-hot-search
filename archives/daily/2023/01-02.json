@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672601600935,
+  "endTime": 1672604313007,
   "band_list": [
     {
       "raw_hot": 1160725,
@@ -507,8 +507,16 @@
       "category": "网红"
     },
     {
-      "raw_hot": 15274,
-      "num": 19429,
+      "raw_hot": 27523,
+      "num": 27523,
+      "word": "2023第一天来了",
+      "onboard_time": 1672601652,
+      "rank": 24,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 23145,
+      "num": 23145,
       "word": "元旦少不了姐姐收拾弟弟",
       "onboard_time": 1672600453,
       "rank": 49,
