@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672568310010,
+  "endTime": 1672569218780,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 728160,
-      "num": 545939,
+      "num": 599006,
       "word": "权志龙今年将回归",
       "onboard_time": 1672561170,
       "rank": 12,
@@ -585,6 +585,14 @@
       "onboard_time": 1672541554,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 592920,
+      "num": 592920,
+      "word": "孕妇感染新冠后顺利生下元旦宝宝",
+      "onboard_time": 1672566328,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 585764,
@@ -720,14 +728,6 @@
       "word": "多地调整烟花爆竹燃放政策",
       "onboard_time": 1672546169,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 473624,
-      "num": 473624,
-      "word": "孕妇感染新冠后顺利生下元旦宝宝",
-      "onboard_time": 1672566328,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1003,12 +1003,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 331600,
+      "num": 331600,
+      "word": "楠艺",
+      "onboard_time": 1672564232,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 331355,
       "num": 1010473,
       "word": "跨年配图",
       "onboard_time": 1672490207,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 329828,
+      "num": 329828,
+      "word": "男子带9个网红插队漂流还骂游客",
+      "onboard_time": 1672567529,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328660,
@@ -1033,14 +1049,6 @@
       "onboard_time": 1672558168,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 319521,
-      "num": 319521,
-      "word": "楠艺",
-      "onboard_time": 1672564232,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 318857,
@@ -1259,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240092,
+      "num": 1138575,
+      "word": "2023年将有哪些大事发生",
+      "onboard_time": 1672565309,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 238286,
       "num": 503300,
       "word": "农历癸卯兔年全年共有384天",
@@ -1299,14 +1315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 221846,
-      "num": 1138575,
-      "word": "2023年将有哪些大事发生",
-      "onboard_time": 1672565309,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 220948,
       "num": 295021,
       "word": "重庆市民冒雨撑伞聚集解放碑前跨年",
@@ -1345,6 +1353,14 @@
       "onboard_time": 1672532064,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211243,
+      "num": 211243,
+      "word": "全国征兵女兵今起开始报名",
+      "onboard_time": 1672565850,
+      "rank": 26,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 210052,
@@ -1393,6 +1409,14 @@
       "onboard_time": 1672550552,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204057,
+      "num": 153152,
+      "word": "王大陆蔡卓宜双人厨房",
+      "onboard_time": 1672568489,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 203321,
@@ -1451,14 +1475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195562,
-      "num": 154819,
-      "word": "男子带9个网红插队漂流还骂游客",
-      "onboard_time": 1672567529,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193573,
       "num": 193573,
       "word": "跨年夜市民放飞气球苦了环卫工",
@@ -1491,14 +1507,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 184170,
-      "num": 184170,
-      "word": "全国征兵女兵今起开始报名",
-      "onboard_time": 1672565850,
-      "rank": 26,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 180125,
       "num": 140995,
       "word": "孟佳分享央视总台跨年晚会幕后vlog",
@@ -1521,6 +1529,22 @@
       "onboard_time": 1672499755,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178758,
+      "num": 146770,
+      "word": "朱孝天看到韩雯雯哭无力到愤怒",
+      "onboard_time": 1672568068,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177626,
+      "num": 146723,
+      "word": "顾南亭程霄极限推拉",
+      "onboard_time": 1672568249,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 175743,
@@ -1587,28 +1611,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165582,
+      "num": 151836,
+      "word": "这是别墅还是庄园",
+      "onboard_time": 1672568731,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164094,
       "num": 451613,
       "word": "篮网11连胜",
       "onboard_time": 1672541913,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162792,
-      "num": 135724,
-      "word": "顾南亭程霄极限推拉",
-      "onboard_time": 1672568249,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 161928,
-      "num": 137954,
-      "word": "朱孝天看到韩雯雯哭无力到愤怒",
-      "onboard_time": 1672568068,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 159915,
@@ -1681,6 +1697,14 @@
       "onboard_time": 1672562730,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146422,
+      "num": 146422,
+      "word": "这个才艺可以上春晚吗",
+      "onboard_time": 1672569090,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 145812,
@@ -1771,6 +1795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135593,
+      "num": 135593,
+      "word": "原来手表也能放烟花",
+      "onboard_time": 1672567108,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133411,
       "num": 425022,
       "word": "篮网vs黄蜂",
@@ -1811,10 +1843,10 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 122922,
-      "num": 122922,
-      "word": "原来手表也能放烟花",
-      "onboard_time": 1672567108,
+      "raw_hot": 119760,
+      "num": 119760,
+      "word": "当代人是懂跨年的",
+      "onboard_time": 1672568370,
       "rank": 45,
       "category": "情感"
     },
@@ -1945,6 +1977,14 @@
       "onboard_time": 1672548932,
       "rank": 45,
       "category": "体育,情感"
+    },
+    {
+      "raw_hot": 102213,
+      "num": 102213,
+      "word": "狗狗遗落服务区主人往返600公里找回",
+      "onboard_time": 1672569030,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100181,
@@ -2235,7 +2275,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21269,
+      "raw_hot": 23756,
       "num": 147116,
       "word": "好运2023",
       "onboard_time": 1672567231,
