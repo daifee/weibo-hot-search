@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672529631362,
+  "endTime": 1672537618319,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3284470,
+      "num": 3284470,
+      "word": "蒙脱石散",
+      "onboard_time": 1672529298,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2967846,
       "num": 992379,
       "word": "王一博赤脚跳舞",
@@ -115,12 +123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1845175,
+      "num": 1845175,
+      "word": "苏醒说哥是懂站位的",
+      "onboard_time": 1672531283,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1714887,
       "num": 1714887,
       "word": "收视率",
       "onboard_time": 1672507766,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1703105,
+      "num": 451009,
+      "word": "谢娜 炅每年都有拥抱今年也不会少",
+      "onboard_time": 1672536453,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1545013,
@@ -171,6 +195,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1190350,
+      "num": 862955,
+      "word": "丈夫给阳性妻子做鸡汤熬出粪便",
+      "onboard_time": 1672515314,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1157618,
+      "num": 450950,
+      "word": "杨幂 2023请对我好一点吧",
+      "onboard_time": 1672531162,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1041827,
       "num": 1041827,
       "word": "上海迪士尼新年特别版烟花秀",
@@ -185,6 +225,14 @@
       "onboard_time": 1672501491,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1005791,
+      "num": 1005791,
+      "word": "王鹤棣冲过去抱何炅",
+      "onboard_time": 1672534109,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 918011,
@@ -227,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 752781,
+      "num": 752781,
+      "word": "年底iPhone14连续2次降价",
+      "onboard_time": 1672535852,
+      "rank": 7,
+      "category": "科技"
+    },
+    {
       "raw_hot": 716449,
       "num": 1019929,
       "word": "哈兰德",
@@ -251,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 681837,
+      "num": 448897,
+      "word": "张艺兴工作室说压不压轴并不重要",
+      "onboard_time": 1672537113,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 583158,
       "num": 1037258,
       "word": "河南的跨年有多浪漫",
@@ -259,19 +323,19 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 529617,
-      "num": 529617,
-      "word": "丈夫给阳性妻子做鸡汤熬出粪便",
-      "onboard_time": 1672515314,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 505537,
       "num": 391899,
       "word": "程潇 假唱",
       "onboard_time": 1672490752,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 487679,
+      "num": 448590,
+      "word": "王一博东方跨年舞台收视率",
+      "onboard_time": 1672531825,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -283,12 +347,44 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 451406,
+      "num": 451406,
+      "word": "鄂尔多斯感染人数中仅1.75%无症状",
+      "onboard_time": 1672517594,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425823,
+      "num": 425823,
+      "word": "YG新女团BABYMONSTER预告",
+      "onboard_time": 1672530201,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 398870,
+      "num": 398870,
+      "word": "陈楚生 声音",
+      "onboard_time": 1672534649,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387500,
       "num": 387500,
       "word": "华晨宇好温柔",
       "onboard_time": 1672510043,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 385251,
+      "num": 385251,
+      "word": "王霏霏郑秀妍牵手",
+      "onboard_time": 1672534228,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 376824,
@@ -339,6 +435,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 309861,
+      "num": 309861,
+      "word": "华晨宇湖南卫视压轴",
+      "onboard_time": 1672537052,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302962,
       "num": 1014336,
       "word": "转阴后还是很累怎么恢复",
@@ -347,12 +451,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295073,
+      "num": 451229,
+      "word": "2023",
+      "onboard_time": 1672531825,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291033,
+      "num": 450372,
+      "word": "马斯克财产缩水破人类记录",
+      "onboard_time": 1672527616,
+      "rank": 26,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 289989,
+      "num": 450074,
+      "word": "和喜欢的人跨年是啥体验",
+      "onboard_time": 1672532725,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281221,
       "num": 687074,
       "word": "上海武警拉链式人墙跨年夜再上岗",
       "onboard_time": 1672505973,
       "rank": 34,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 277639,
+      "num": 449944,
+      "word": "2023元旦快乐",
+      "onboard_time": 1672515375,
+      "rank": 45,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 273113,
@@ -379,20 +515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232633,
+      "num": 449450,
+      "word": "家属回应百岁老人感染13天后康复",
+      "onboard_time": 1672518314,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222186,
       "num": 175330,
       "word": "赵樱子是有些尴尬体质在身上的",
       "onboard_time": 1672529298,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 211733,
-      "num": 211733,
-      "word": "蒙脱石散",
-      "onboard_time": 1672529298,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210052,
@@ -403,11 +539,27 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 206434,
-      "num": 206434,
-      "word": "鄂尔多斯感染人数中仅1.75%无症状",
-      "onboard_time": 1672517594,
-      "rank": 47,
+      "raw_hot": 209656,
+      "num": 449317,
+      "word": "新兰永恒",
+      "onboard_time": 1672531585,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 209536,
+      "num": 449017,
+      "word": "看过火影和没看过的都沉默了",
+      "onboard_time": 1672515314,
+      "rank": 35,
+      "category": "动漫,幽默"
+    },
+    {
+      "raw_hot": 206081,
+      "num": 693957,
+      "word": "上海本轮包含30个奥密克戎亚型毒株",
+      "onboard_time": 1672506811,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -451,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176291,
-      "num": 693957,
-      "word": "上海本轮包含30个奥密克戎亚型毒株",
-      "onboard_time": 1672506811,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175495,
       "num": 87066,
       "word": "王一博 神的孩子在跳舞",
@@ -475,12 +619,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173080,
+      "num": 447794,
+      "word": "医生家10岁儿子单独照顾3岁妹妹",
+      "onboard_time": 1672522032,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172184,
+      "num": 396544,
+      "word": "今起实名制儿童火车票将按照年龄购买",
+      "onboard_time": 1672536513,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171620,
       "num": 125941,
       "word": "华晨宇点燃银河尽头的篝火首唱",
       "onboard_time": 1672514895,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165032,
+      "num": 447474,
+      "word": "如何度过24岁的迷茫期",
+      "onboard_time": 1672531765,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 159915,
@@ -513,6 +681,14 @@
       "onboard_time": 1672516574,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143188,
+      "num": 447065,
+      "word": "2023壁纸",
+      "onboard_time": 1672515314,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 142643,
@@ -563,20 +739,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125069,
-      "num": 125069,
-      "word": "马斯克财产缩水破人类记录",
-      "onboard_time": 1672527616,
-      "rank": 26,
-      "category": "科技,财经"
-    },
-    {
-      "raw_hot": 120859,
-      "num": 120859,
-      "word": "家属回应百岁老人感染13天后康复",
-      "onboard_time": 1672518314,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 127782,
+      "num": 391030,
+      "word": "2023年天安门广场首次升旗仪式",
+      "onboard_time": 1672532964,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 118224,
@@ -603,14 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110887,
-      "num": 110887,
-      "word": "医生家10岁儿子单独照顾3岁妹妹",
-      "onboard_time": 1672522032,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108548,
       "num": 948648,
       "word": "女子面试失败遇HR帮做职业规划",
@@ -619,12 +779,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106767,
-      "num": 124603,
-      "word": "2023元旦快乐",
-      "onboard_time": 1672515375,
-      "rank": 45,
-      "category": "社会新闻,情感"
+      "raw_hot": 107544,
+      "num": 309765,
+      "word": "鲜艳的五星红旗与太阳一同升起",
+      "onboard_time": 1672537413,
+      "rank": 42,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 107322,
+      "num": 309082,
+      "word": "2023年第1缕阳光",
+      "onboard_time": 1672537113,
+      "rank": 43,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 105755,
@@ -633,6 +801,22 @@
       "onboard_time": 1672503767,
       "rank": 39,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 101776,
+      "num": 308708,
+      "word": "2023年第一天的仪式感",
+      "onboard_time": 1672536991,
+      "rank": 44,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 100734,
+      "num": 308085,
+      "word": "这是2023年第一天的中国",
+      "onboard_time": 1672532064,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96737,
@@ -675,14 +859,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 89742,
-      "num": 127104,
-      "word": "2023壁纸",
-      "onboard_time": 1672515314,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 89638,
       "num": 923632,
       "word": "哪一刻意识到自己不再年轻了",
@@ -723,12 +899,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 79029,
-      "num": 128174,
-      "word": "看过火影和没看过的都沉默了",
-      "onboard_time": 1672515314,
-      "rank": 35,
-      "category": "动漫,幽默"
+      "raw_hot": 76598,
+      "num": 306054,
+      "word": "2023将迎来哪些奇妙的相遇",
+      "onboard_time": 1672537593,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 75145,
