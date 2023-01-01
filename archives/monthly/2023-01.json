@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672579980629,
+  "endTime": 1672582516035,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 1551994,
-      "num": 819163,
+      "num": 1021854,
       "word": "张丹峰洪欣携手走红毯",
       "onboard_time": 1672577433,
       "rank": 3,
@@ -233,6 +233,14 @@
       "onboard_time": 1672543655,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1479707,
+      "num": 1479707,
+      "word": "新冠感染确实会有呕吐腹泻",
+      "onboard_time": 1672577972,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1470443,
@@ -385,6 +393,14 @@
       "onboard_time": 1672574370,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1021586,
+      "num": 1021586,
+      "word": "白敬亭卿卿日常撑伞彩蛋",
+      "onboard_time": 1672581814,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1005791,
@@ -555,14 +571,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 746918,
-      "num": 746918,
-      "word": "新冠感染确实会有呕吐腹泻",
-      "onboard_time": 1672577972,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 728160,
       "num": 599006,
       "word": "权志龙今年将回归",
@@ -683,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610639,
+      "num": 610639,
+      "word": "白鹿紫色女团风舞台造型",
+      "onboard_time": 1672581872,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 609754,
       "num": 609754,
       "word": "西安大唐不夜城跨年夜人山人海",
@@ -692,7 +708,7 @@
     },
     {
       "raw_hot": 604047,
-      "num": 419528,
+      "num": 432211,
       "word": "吴宣仪状态",
       "onboard_time": 1672578155,
       "rank": 11,
@@ -763,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 565547,
+      "num": 565547,
+      "word": "诺氟沙星是一种什么药",
+      "onboard_time": 1672577793,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537549,
       "num": 472288,
       "word": "华晨宇白举纲快男跨十年零点拥抱",
@@ -809,6 +833,14 @@
       "onboard_time": 1672548510,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 510715,
+      "num": 510715,
+      "word": "女子接触发霉玉米肺里长黄曲霉菌",
+      "onboard_time": 1672578393,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505537,
@@ -939,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436939,
+      "num": 436939,
+      "word": "中科院原副院长王佛松院士逝世",
+      "onboard_time": 1672577555,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433685,
       "num": 433685,
       "word": "YG新女团BABYMONSTER预告",
@@ -1059,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391736,
+      "num": 391736,
+      "word": "父母在家装隔音舱让女儿安静上网课",
+      "onboard_time": 1672578813,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390753,
       "num": 390753,
       "word": "男子开车偶遇大老虎路边休息",
@@ -1091,20 +1139,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382009,
+      "num": 382009,
+      "word": "步音楼主动亲了肖铎",
+      "onboard_time": 1672581695,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 376824,
       "num": 714132,
       "word": "红包",
       "onboard_time": 1672505375,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 374650,
-      "num": 374650,
-      "word": "诺氟沙星是一种什么药",
-      "onboard_time": 1672577793,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 374467,
@@ -1195,12 +1243,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 340312,
-      "num": 340312,
-      "word": "中科院原副院长王佛松院士逝世",
-      "onboard_time": 1672577555,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 338332,
+      "num": 263845,
+      "word": "王鹤棣宋茜跨年台下聊天",
+      "onboard_time": 1672580974,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 335524,
@@ -1209,14 +1257,6 @@
       "onboard_time": 1672505794,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 333265,
-      "num": 333265,
-      "word": "女子接触发霉玉米肺里长黄曲霉菌",
-      "onboard_time": 1672578393,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332170,
@@ -1483,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266447,
+      "num": 254085,
+      "word": "向风而行",
+      "onboard_time": 1672579895,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262861,
       "num": 504752,
       "word": "GK正式更名为DRG",
@@ -1531,14 +1579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249495,
-      "num": 249495,
-      "word": "向风而行",
-      "onboard_time": 1672579895,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 248825,
       "num": 267823,
       "word": "杭州街头万人共喊新年倒计时",
@@ -1571,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242513,
+      "num": 242513,
+      "word": "王嘉尔2022海外实绩",
+      "onboard_time": 1672581994,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240092,
       "num": 1138575,
       "word": "2023年将有哪些大事发生",
@@ -1585,6 +1633,14 @@
       "onboard_time": 1672545212,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235116,
+      "num": 235116,
+      "word": "蔡卓宜做饭到底多好吃",
+      "onboard_time": 1672580612,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 235025,
@@ -1689,14 +1745,6 @@
       "onboard_time": 1672579713,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 213146,
-      "num": 249961,
-      "word": "父母在家装隔音舱让女儿安静上网课",
-      "onboard_time": 1672578813,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211439,
@@ -1915,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181905,
+      "num": 261089,
+      "word": "小狗狗自己坐雪圈滑雪",
+      "onboard_time": 1672579290,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180125,
       "num": 140995,
       "word": "孟佳分享央视总台跨年晚会幕后vlog",
@@ -1929,14 +1985,6 @@
       "onboard_time": 1672544853,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179792,
-      "num": 247161,
-      "word": "小狗狗自己坐雪圈滑雪",
-      "onboard_time": 1672579290,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 179001,
@@ -2019,6 +2067,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 172980,
+      "num": 242065,
+      "word": "原来还有小狗不会汪汪叫",
+      "onboard_time": 1672581573,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171620,
       "num": 125941,
       "word": "华晨宇点燃银河尽头的篝火首唱",
@@ -2049,6 +2105,14 @@
       "onboard_time": 1672541913,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164044,
+      "num": 258941,
+      "word": "诺氟沙星可阻碍骨骼成长与发育",
+      "onboard_time": 1672579053,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163515,
@@ -2083,6 +2147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157572,
+      "num": 240416,
+      "word": "总要去湖南看一次烟花秀吧",
+      "onboard_time": 1672582114,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156715,
       "num": 269435,
       "word": "男子冰瀑前拍照不慎滑入水中",
@@ -2097,14 +2169,6 @@
       "onboard_time": 1672502330,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152777,
-      "num": 241373,
-      "word": "诺氟沙星可阻碍骨骼成长与发育",
-      "onboard_time": 1672579053,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151654,
@@ -2235,12 +2299,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139166,
+      "num": 256727,
+      "word": "2023新年晚安短信计划",
+      "onboard_time": 1672581511,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138464,
       "num": 80315,
       "word": "王源NewBoy少年感",
       "onboard_time": 1672517954,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136030,
+      "num": 255524,
+      "word": "谁能拒绝会跳女团舞的老师呢",
+      "onboard_time": 1672580492,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 135931,
@@ -2252,7 +2332,7 @@
     },
     {
       "raw_hot": 134762,
-      "num": 213668,
+      "num": 219158,
       "word": "当代人好像在玩一种很新的跨年",
       "onboard_time": 1672572209,
       "rank": 35,
@@ -2320,6 +2400,14 @@
       "word": "2023你许下了什么愿望",
       "onboard_time": 1672572570,
       "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 122877,
+      "num": 238646,
+      "word": "为什么跨年时越热闹越孤独",
+      "onboard_time": 1672580913,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -2499,6 +2587,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 97926,
+      "num": 216615,
+      "word": "男子每次只点油饼老板反手送碗汤",
+      "onboard_time": 1672582053,
+      "rank": 44,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 97889,
       "num": 147735,
       "word": "东北500米超长冰滑梯",
@@ -2649,6 +2745,14 @@
       "onboard_time": 1672504425,
       "rank": 43,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 77756,
+      "num": 207113,
+      "word": "上海跨年破旦仪式感",
+      "onboard_time": 1672581814,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77447,
