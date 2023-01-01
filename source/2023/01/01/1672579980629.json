@@ -1,0 +1,410 @@
+{
+  "runTime": 1672579980629,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1413736,
+        "num": 1413736,
+        "word": "日媒吐槽世界杯扩军是为让中国男足参赛",
+        "onboard_time": 1672576110,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 746918,
+        "num": 746918,
+        "word": "新冠感染确实会有呕吐腹泻",
+        "onboard_time": 1672577972,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129835,
+        "num": 745866,
+        "word": "2023年将有哪些大事发生",
+        "onboard_time": 1672565309,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1551994,
+        "num": 741821,
+        "word": "张丹峰洪欣携手走红毯",
+        "onboard_time": 1672577433,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 944247,
+        "num": 739373,
+        "word": "老人去世火化狗狗满眼泪水等待",
+        "onboard_time": 1672574370,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834169,
+        "num": 737960,
+        "word": "未成年人禁止服用诺氟沙星",
+        "onboard_time": 1672570408,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735440,
+        "num": 735440,
+        "word": "白鹿张凌赫GQ背影同框",
+        "onboard_time": 1672577433,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 620860,
+        "num": 620860,
+        "word": "新冠病毒已经找到多种动物宿主",
+        "onboard_time": 1672552232,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437779,
+        "num": 437779,
+        "word": "周也红毯生图",
+        "onboard_time": 1672572093,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420315,
+        "num": 420315,
+        "word": "许家印称2023年一定能偿还债务",
+        "onboard_time": 1672576473,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1516890,
+        "num": 407446,
+        "word": "蒙脱石散和XBB变异株有啥关系",
+        "onboard_time": 1672572809,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1398369,
+        "num": 400748,
+        "word": "李现好会亲",
+        "onboard_time": 1672575870,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604047,
+        "num": 391334,
+        "word": "吴宣仪状态",
+        "onboard_time": 1672578155,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374650,
+        "num": 374650,
+        "word": "诺氟沙星是一种什么药",
+        "onboard_time": 1672577793,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369660,
+        "num": 369660,
+        "word": "新到车厘子果商一拥而上疯狂抢货",
+        "onboard_time": 1672571250,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350141,
+        "num": 350141,
+        "word": "XBB会不会导致二次感染",
+        "onboard_time": 1672560509,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340312,
+        "num": 340312,
+        "word": "中科院原副院长王佛松院士逝世",
+        "onboard_time": 1672577555,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333265,
+        "num": 333265,
+        "word": "女子接触发霉玉米肺里长黄曲霉菌",
+        "onboard_time": 1672578393,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326336,
+        "num": 326336,
+        "word": "黑暗荣耀",
+        "onboard_time": 1672576049,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302723,
+        "num": 302723,
+        "word": "这届00后是懂备年货的",
+        "onboard_time": 1672571371,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374839,
+        "num": 298775,
+        "word": "王一博晒白衬衫照祝大家元旦快乐",
+        "onboard_time": 1672573651,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280064,
+        "num": 280064,
+        "word": "胡夏跨年下班被追尾了",
+        "onboard_time": 1672572753,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276748,
+        "num": 276748,
+        "word": "华晨宇曲风是变了吗",
+        "onboard_time": 1672569388,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249980,
+        "num": 249980,
+        "word": "专家称没必要囤蒙脱石散",
+        "onboard_time": 1672575752,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213146,
+        "num": 249961,
+        "word": "父母在家装隔音舱让女儿安静上网课",
+        "onboard_time": 1672578813,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175511,
+        "num": 249874,
+        "word": "孕妇感染新冠后顺利生下元旦宝宝",
+        "onboard_time": 1672566328,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170517,
+        "num": 249803,
+        "word": "新年的武汉街头能有多浪漫",
+        "onboard_time": 1672579233,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167008,
+        "num": 249738,
+        "word": "哈尔滨的墙来了有多好笑",
+        "onboard_time": 1672574610,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163350,
+        "num": 249725,
+        "word": "N95有效防护时间为4到6小时",
+        "onboard_time": 1672563748,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155631,
+        "num": 249616,
+        "word": "儿子成绩好爸爸奖励60秒超市随便买",
+        "onboard_time": 1672559850,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262004,
+        "num": 249561,
+        "word": "SuperM或将加入新成员",
+        "onboard_time": 1672571614,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254471,
+        "num": 249532,
+        "word": "杨幂红秀封面",
+        "onboard_time": 1672577492,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249495,
+        "num": 249495,
+        "word": "向风而行",
+        "onboard_time": 1672579895,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247974,
+        "num": 247974,
+        "word": "大侦探",
+        "onboard_time": 1672561768,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179792,
+        "num": 247161,
+        "word": "小狗狗自己坐雪圈滑雪",
+        "onboard_time": 1672579290,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152777,
+        "num": 241373,
+        "word": "诺氟沙星可阻碍骨骼成长与发育",
+        "onboard_time": 1672579053,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148145,
+        "num": 237723,
+        "word": "去哪儿定酒店不同手机价格差距大",
+        "onboard_time": 1672575388,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137129,
+        "num": 231701,
+        "word": "男子带9个网红插队漂流还骂游客",
+        "onboard_time": 1672567529,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135377,
+        "num": 227533,
+        "word": "上海市民带家人去健身房跨年",
+        "onboard_time": 1672573712,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125552,
+        "num": 219196,
+        "word": "狗狗遗落服务区主人往返600公里找回",
+        "onboard_time": 1672569030,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218792,
+        "num": 218792,
+        "word": "朱正廷演唱会",
+        "onboard_time": 1672576473,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231979,
+        "num": 218546,
+        "word": "纵有疾风起",
+        "onboard_time": 1672579835,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218264,
+        "num": 218264,
+        "word": "第九节课",
+        "onboard_time": 1672579713,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120428,
+        "num": 217655,
+        "word": "C罗每秒赚50元人民币",
+        "onboard_time": 1672557570,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116162,
+        "num": 214917,
+        "word": "这狗有点戏精在身上",
+        "onboard_time": 1672576590,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100975,
+        "num": 213668,
+        "word": "当代人好像在玩一种很新的跨年",
+        "onboard_time": 1672572209,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 95272,
+        "num": 209979,
+        "word": "新一年的社死来得太快了",
+        "onboard_time": 1672574610,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 545931,
+        "num": 209023,
+        "word": "春节会形成群体免疫吗",
+        "onboard_time": 1672574850,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93657,
+        "num": 206979,
+        "word": "广州本次新冠疫情已达峰",
+        "onboard_time": 1672555171,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81577,
+        "num": 203708,
+        "word": "蒙脱石散",
+        "onboard_time": 1672529298,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹2022#"
+    }
+  }
+}
