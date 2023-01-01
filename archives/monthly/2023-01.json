@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672550167867,
+  "endTime": 1672551218745,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1041917,
+      "num": 1041917,
+      "word": "小破站 整活",
+      "onboard_time": 1672550132,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1041827,
       "num": 1041827,
       "word": "上海迪士尼新年特别版烟花秀",
@@ -272,6 +280,14 @@
       "word": "xbb",
       "onboard_time": 1672501491,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1039220,
+      "num": 1039220,
+      "word": "XBB.1.5已成美国头号流行株",
+      "onboard_time": 1672547254,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -289,14 +305,6 @@
       "onboard_time": 1672534109,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 981547,
-      "num": 981547,
-      "word": "XBB.1.5已成美国头号流行株",
-      "onboard_time": 1672547254,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 937259,
@@ -531,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460594,
+      "num": 460594,
+      "word": "为什么情侣很在乎跨年仪式感",
+      "onboard_time": 1672548510,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 453827,
       "num": 1018327,
       "word": "南部战区揭露美军机抵近侦察真相",
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 452920,
-      "num": 223665,
+      "num": 265444,
       "word": "虎艳芬",
       "onboard_time": 1672547974,
       "rank": 30,
@@ -556,19 +572,11 @@
     },
     {
       "raw_hot": 450437,
-      "num": 230232,
+      "num": 270600,
       "word": "鹿晗2022年终总结",
       "onboard_time": 1672547852,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 445084,
-      "num": 223314,
-      "word": "小破站 整活",
-      "onboard_time": 1672550132,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 442976,
@@ -619,6 +627,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 392438,
+      "num": 392438,
+      "word": "C罗获得新东家1亿欧签字费",
+      "onboard_time": 1672548573,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 388206,
+      "num": 388206,
+      "word": "湖北汉江大桥跨年夜因放烟花起火",
+      "onboard_time": 1672548211,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387500,
       "num": 387500,
       "word": "华晨宇好温柔",
@@ -635,14 +659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 374936,
-      "num": 374936,
-      "word": "湖北汉江大桥跨年夜因放烟花起火",
-      "onboard_time": 1672548211,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 374467,
       "num": 1032150,
       "word": "2023全糖去冰",
@@ -651,16 +667,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 374389,
-      "num": 221455,
-      "word": "C罗获得新东家1亿欧签字费",
-      "onboard_time": 1672548573,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 366199,
-      "num": 221343,
+      "num": 258303,
       "word": "蔡依林演唱会",
       "onboard_time": 1672548932,
       "rank": 36,
@@ -803,6 +811,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 272919,
+      "num": 272919,
+      "word": "杭州跨年夜再现人从众",
+      "onboard_time": 1672549830,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262861,
       "num": 504752,
       "word": "GK正式更名为DRG",
@@ -843,20 +859,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231692,
-      "num": 231692,
-      "word": "为什么情侣很在乎跨年仪式感",
-      "onboard_time": 1672548510,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 222186,
       "num": 175330,
       "word": "赵樱子是有些尴尬体质在身上的",
       "onboard_time": 1672529298,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220948,
+      "num": 269245,
+      "word": "重庆市民冒雨撑伞聚集解放碑前跨年",
+      "onboard_time": 1672547852,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219924,
@@ -872,14 +888,6 @@
       "word": "这是2023年第一天的中国",
       "onboard_time": 1672532064,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211407,
-      "num": 226334,
-      "word": "重庆市民冒雨撑伞聚集解放碑前跨年",
-      "onboard_time": 1672547852,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1020,7 +1028,7 @@
     },
     {
       "raw_hot": 175022,
-      "num": 224709,
+      "num": 257670,
       "word": "张伯礼强调没有所谓特效药",
       "onboard_time": 1672548932,
       "rank": 28,
@@ -1049,6 +1057,14 @@
       "onboard_time": 1672541913,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163834,
+      "num": 262675,
+      "word": "没想到炒饭能炒成这样",
+      "onboard_time": 1672549951,
+      "rank": 46,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 159915,
@@ -1131,7 +1147,7 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 140619,
+      "raw_hot": 141970,
       "num": 418534,
       "word": "这就是吃了打印机的手吧",
       "onboard_time": 1672546050,
@@ -1267,20 +1283,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 104834,
-      "num": 220010,
-      "word": "杭州跨年夜再现人从众",
-      "onboard_time": 1672549830,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102678,
       "num": 219827,
       "word": "2023非凡的开始",
       "onboard_time": 1672548932,
       "rank": 45,
       "category": "体育,情感"
+    },
+    {
+      "raw_hot": 100181,
+      "num": 255529,
+      "word": "希罗三分绝杀爵士",
+      "onboard_time": 1672550312,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 96737,
@@ -1307,20 +1323,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93563,
+      "num": 254607,
+      "word": "跨年夜无人机被气球缠绕坠落人群",
+      "onboard_time": 1672550731,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92634,
       "num": 1127200,
       "word": "祝愿大家新年快乐皆得所愿",
       "onboard_time": 1672487926,
       "rank": 44,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 91841,
-      "num": 219701,
-      "word": "没想到炒饭能炒成这样",
-      "onboard_time": 1672549951,
-      "rank": 46,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 91008,
@@ -1337,6 +1353,14 @@
       "onboard_time": 1672479814,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88640,
+      "num": 254295,
+      "word": "新英雄莱西奥玩法爆料",
+      "onboard_time": 1672550973,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 88332,
@@ -1377,6 +1401,14 @@
       "onboard_time": 1672546112,
       "rank": 49,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 84417,
+      "num": 252772,
+      "word": "石家庄人的跨年夜如此浪漫",
+      "onboard_time": 1672550552,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82939,
