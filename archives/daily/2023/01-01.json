@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672569218780,
+  "endTime": 1672571645543,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -121,6 +121,14 @@
       "onboard_time": 1672502502,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2106966,
+      "num": 2106966,
+      "word": "诺氟沙星",
+      "onboard_time": 1672570408,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1945697,
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 774845,
+      "num": 379834,
+      "word": "男子带9个网红插队漂流还骂游客",
+      "onboard_time": 1672567529,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 773034,
       "num": 708630,
       "word": "中国人不蹦洋迪",
@@ -523,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 679018,
+      "num": 679018,
+      "word": "华晨宇曲风是变了吗",
+      "onboard_time": 1672569388,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 650171,
       "num": 650171,
       "word": "陆虎终于在跨年唱到了自己的歌",
@@ -555,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 622667,
+      "num": 622667,
+      "word": "孕妇感染新冠后顺利生下元旦宝宝",
+      "onboard_time": 1672566328,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609754,
       "num": 609754,
       "word": "西安大唐不夜城跨年夜人山人海",
@@ -585,14 +617,6 @@
       "onboard_time": 1672541554,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 592920,
-      "num": 592920,
-      "word": "孕妇感染新冠后顺利生下元旦宝宝",
-      "onboard_time": 1672566328,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 585764,
@@ -875,6 +899,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 396949,
+      "num": 396949,
+      "word": "沈月新年更沈月的vlog",
+      "onboard_time": 1672571614,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392438,
       "num": 392438,
       "word": "C罗获得新东家1亿欧签字费",
@@ -907,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384973,
+      "num": 384973,
+      "word": "何润东浮图缘重现步惊云",
+      "onboard_time": 1672570353,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 376824,
       "num": 714132,
       "word": "红包",
@@ -920,6 +960,14 @@
       "word": "2023全糖去冰",
       "onboard_time": 1672492074,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366583,
+      "num": 366583,
+      "word": "狗狗遗落服务区主人往返600公里找回",
+      "onboard_time": 1672569030,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1017,14 +1065,6 @@
       "onboard_time": 1672490207,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 329828,
-      "num": 329828,
-      "word": "男子带9个网红插队漂流还骂游客",
-      "onboard_time": 1672567529,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 328660,
@@ -1139,6 +1179,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 290996,
+      "num": 190181,
+      "word": "SuperM或将加入新成员",
+      "onboard_time": 1672571614,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289989,
       "num": 481932,
       "word": "和喜欢的人跨年是啥体验",
@@ -1177,6 +1225,22 @@
       "onboard_time": 1672564829,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279596,
+      "num": 279596,
+      "word": "这是别墅还是庄园",
+      "onboard_time": 1672568731,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 278518,
+      "num": 187596,
+      "word": "刘耀文元旦出发路透",
+      "onboard_time": 1672569991,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 277639,
@@ -1267,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242767,
+      "num": 161365,
+      "word": "严浩翔微电影弹琴镜头",
+      "onboard_time": 1672571189,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240092,
       "num": 1138575,
       "word": "2023年将有哪些大事发生",
@@ -1281,6 +1353,22 @@
       "onboard_time": 1672545212,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235025,
+      "num": 157370,
+      "word": "符龙飞为檀健次新歌舞蹈MV打call",
+      "onboard_time": 1672571009,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 234831,
+      "num": 151491,
+      "word": "时代少年团微电影预告",
+      "onboard_time": 1672569329,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 233337,
@@ -1483,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189478,
+      "num": 189478,
+      "word": "当代人是懂跨年的",
+      "onboard_time": 1672568370,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188469,
       "num": 988852,
       "word": "3岁萌娃狂吃橘子手脚发黄成小黄人",
@@ -1603,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170191,
+      "num": 170191,
+      "word": "目前没有证据表明新冠会影响月经",
+      "onboard_time": 1672569870,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169764,
       "num": 486717,
       "word": "东契奇51分",
@@ -1611,20 +1715,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165582,
-      "num": 151836,
-      "word": "这是别墅还是庄园",
-      "onboard_time": 1672568731,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 164094,
       "num": 451613,
       "word": "篮网11连胜",
       "onboard_time": 1672541913,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163515,
+      "num": 163515,
+      "word": "碳水才是过年的仪式感",
+      "onboard_time": 1672569446,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 159915,
@@ -1707,6 +1811,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146314,
+      "num": 146314,
+      "word": "新到车厘子果商一拥而上疯狂抢货",
+      "onboard_time": 1672571250,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146040,
+      "num": 146040,
+      "word": "这届00后是懂备年货的",
+      "onboard_time": 1672571371,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145812,
       "num": 145812,
       "word": "无名",
@@ -1779,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139207,
+      "num": 139207,
+      "word": "原来手表也能放烟花",
+      "onboard_time": 1672567108,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138464,
       "num": 80315,
       "word": "王源NewBoy少年感",
@@ -1793,14 +1921,6 @@
       "onboard_time": 1672516874,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135593,
-      "num": 135593,
-      "word": "原来手表也能放烟花",
-      "onboard_time": 1672567108,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 133411,
@@ -1843,20 +1963,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 119760,
-      "num": 119760,
-      "word": "当代人是懂跨年的",
-      "onboard_time": 1672568370,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 119645,
       "num": 159511,
       "word": "没见过这么会撒娇的弟弟",
       "onboard_time": 1672564410,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 118673,
+      "num": 118673,
+      "word": "东风快递独家烟火秀",
+      "onboard_time": 1672570589,
+      "rank": 47,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 118224,
@@ -1905,6 +2025,14 @@
       "onboard_time": 1672537593,
       "rank": 49,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 114048,
+      "num": 114048,
+      "word": "一时搞不清谁是主角",
+      "onboard_time": 1672569446,
+      "rank": 48,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 108548,
@@ -1977,14 +2105,6 @@
       "onboard_time": 1672548932,
       "rank": 45,
       "category": "体育,情感"
-    },
-    {
-      "raw_hot": 102213,
-      "num": 102213,
-      "word": "狗狗遗落服务区主人往返600公里找回",
-      "onboard_time": 1672569030,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100181,
@@ -2281,6 +2401,14 @@
       "onboard_time": 1672567231,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11216,
+      "num": 368966,
+      "word": "特色年货同城达",
+      "onboard_time": 1672570832,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2295,6 +2423,9 @@
     },
     {
       "word": "#今天的中国是梦想接连实现的中国#"
+    },
+    {
+      "word": "#2023我来了#"
     }
   ]
 }

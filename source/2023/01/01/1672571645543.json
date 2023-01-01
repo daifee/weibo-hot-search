@@ -1,0 +1,410 @@
+{
+  "runTime": 1672571645543,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2106966,
+        "num": 2106966,
+        "word": "诺氟沙星",
+        "onboard_time": 1672570408,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1428078,
+        "num": 1428078,
+        "word": "新冠病毒已经找到多种动物宿主",
+        "onboard_time": 1672552232,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170055,
+        "num": 1073033,
+        "word": "2023年将有哪些大事发生",
+        "onboard_time": 1672565309,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 956261,
+        "num": 956261,
+        "word": "XBB会不会导致二次感染",
+        "onboard_time": 1672560509,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679018,
+        "num": 679018,
+        "word": "华晨宇曲风是变了吗",
+        "onboard_time": 1672569388,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 622667,
+        "num": 622667,
+        "word": "孕妇感染新冠后顺利生下元旦宝宝",
+        "onboard_time": 1672566328,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560916,
+        "num": 560916,
+        "word": "大侦探",
+        "onboard_time": 1672561768,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516340,
+        "num": 516340,
+        "word": "权志龙今年将回归",
+        "onboard_time": 1672561170,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497804,
+        "num": 497804,
+        "word": "N95有效防护时间为4到6小时",
+        "onboard_time": 1672563748,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421840,
+        "num": 421840,
+        "word": "儿子成绩好爸爸奖励60秒超市随便买",
+        "onboard_time": 1672559850,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627967,
+        "num": 410432,
+        "word": "刘亦菲酒量",
+        "onboard_time": 1672559430,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396949,
+        "num": 396949,
+        "word": "沈月新年更沈月的vlog",
+        "onboard_time": 1672571614,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384973,
+        "num": 384973,
+        "word": "何润东浮图缘重现步惊云",
+        "onboard_time": 1672570353,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 774845,
+        "num": 379834,
+        "word": "男子带9个网红插队漂流还骂游客",
+        "onboard_time": 1672567529,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11216,
+        "num": 368966,
+        "word": "特色年货同城达",
+        "onboard_time": 1672570832,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366583,
+        "num": 366583,
+        "word": "狗狗遗落服务区主人往返600公里找回",
+        "onboard_time": 1672569030,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279596,
+        "num": 279596,
+        "word": "这是别墅还是庄园",
+        "onboard_time": 1672568731,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273078,
+        "num": 273078,
+        "word": "C罗每秒赚50元人民币",
+        "onboard_time": 1672557570,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202471,
+        "num": 202471,
+        "word": "广州本次新冠疫情已达峰",
+        "onboard_time": 1672555171,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195423,
+        "num": 195423,
+        "word": "全国征兵女兵今起开始报名",
+        "onboard_time": 1672565850,
+        "rank": 19,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 357785,
+        "num": 194477,
+        "word": "B站跨年 节目质量",
+        "onboard_time": 1672562492,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339041,
+        "num": 193434,
+        "word": "杨贤硕宣布复职",
+        "onboard_time": 1672564767,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302550,
+        "num": 191590,
+        "word": "廖搏点评王一博跨年舞台",
+        "onboard_time": 1672557693,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290996,
+        "num": 190181,
+        "word": "SuperM或将加入新成员",
+        "onboard_time": 1672571614,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189478,
+        "num": 189478,
+        "word": "当代人是懂跨年的",
+        "onboard_time": 1672568370,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278518,
+        "num": 187596,
+        "word": "刘耀文元旦出发路透",
+        "onboard_time": 1672569991,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177579,
+        "num": 177579,
+        "word": "楠艺",
+        "onboard_time": 1672564232,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 170191,
+        "num": 170191,
+        "word": "目前没有证据表明新冠会影响月经",
+        "onboard_time": 1672569870,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168202,
+        "num": 168202,
+        "word": "XBB.1.5已成美国头号流行株",
+        "onboard_time": 1672547254,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163515,
+        "num": 163515,
+        "word": "碳水才是过年的仪式感",
+        "onboard_time": 1672569446,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 493305,
+        "num": 162973,
+        "word": "蒙脱石散",
+        "onboard_time": 1672529298,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242767,
+        "num": 161365,
+        "word": "严浩翔微电影弹琴镜头",
+        "onboard_time": 1672571189,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159400,
+        "num": 159400,
+        "word": "男子开车偶遇大老虎路边休息",
+        "onboard_time": 1672563031,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235025,
+        "num": 157370,
+        "word": "符龙飞为檀健次新歌舞蹈MV打call",
+        "onboard_time": 1672571009,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159701,
+        "num": 153682,
+        "word": "王曼昱晒捧花照送祝福",
+        "onboard_time": 1672564829,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234831,
+        "num": 151491,
+        "word": "时代少年团微电影预告",
+        "onboard_time": 1672569329,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229873,
+        "num": 147171,
+        "word": "EXO再唱初雪",
+        "onboard_time": 1672553491,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146314,
+        "num": 146314,
+        "word": "新到车厘子果商一拥而上疯狂抢货",
+        "onboard_time": 1672571250,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146040,
+        "num": 146040,
+        "word": "这届00后是懂备年货的",
+        "onboard_time": 1672571371,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139207,
+        "num": 139207,
+        "word": "原来手表也能放烟花",
+        "onboard_time": 1672567108,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138192,
+        "num": 138192,
+        "word": "Letme有宝宝了",
+        "onboard_time": 1672559670,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135613,
+        "num": 135613,
+        "word": "谷爱凌备战米兰奥运",
+        "onboard_time": 1672562191,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131208,
+        "num": 132542,
+        "word": "上海一线医护收到6000元补贴",
+        "onboard_time": 1672553192,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132132,
+        "num": 132132,
+        "word": "女儿扔掉妈妈囤发霉的20斤食物",
+        "onboard_time": 1672547435,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131428,
+        "num": 131428,
+        "word": "这个才艺可以上春晚吗",
+        "onboard_time": 1672569090,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127284,
+        "num": 127284,
+        "word": "C罗获得新东家1亿欧签字费",
+        "onboard_time": 1672548573,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123835,
+        "num": 123835,
+        "word": "推特员工被曝自带卫生纸上班",
+        "onboard_time": 1672555532,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 118673,
+        "num": 118673,
+        "word": "东风快递独家烟火秀",
+        "onboard_time": 1672570589,
+        "rank": 47,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 114048,
+        "num": 114048,
+        "word": "一时搞不清谁是主角",
+        "onboard_time": 1672569446,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 111969,
+        "num": 111969,
+        "word": "主人举着猫咪一起看烟花",
+        "onboard_time": 1672562310,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023我来了#"
+    }
+  }
+}
