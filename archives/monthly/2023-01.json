@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672558403191,
+  "endTime": 1672561341443,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1533013,
+      "num": 1533013,
+      "word": "刘亦菲酒量",
+      "onboard_time": 1672559430,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1482616,
       "num": 517774,
       "word": "哥哥太爱我了怎么办",
@@ -363,12 +371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 831499,
+      "num": 831499,
+      "word": "廖搏点评王一博跨年舞台",
+      "onboard_time": 1672557693,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 826377,
       "num": 688498,
       "word": "周深 艺高人胆大",
       "onboard_time": 1672506991,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 825328,
+      "num": 825328,
+      "word": "C罗每秒赚50元人民币",
+      "onboard_time": 1672557570,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 814735,
@@ -579,6 +603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 513461,
+      "num": 350011,
+      "word": "EXOLoveShot最新舞台",
+      "onboard_time": 1672560752,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 505537,
       "num": 391899,
       "word": "程潇 假唱",
@@ -643,6 +675,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 465526,
+      "num": 357587,
+      "word": "儿子成绩好爸爸奖励60秒超市随便买",
+      "onboard_time": 1672559850,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453827,
       "num": 1018327,
       "word": "南部战区揭露美军机抵近侦察真相",
@@ -672,6 +712,14 @@
       "word": "鹿晗2022年终总结",
       "onboard_time": 1672547852,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 444138,
+      "num": 352384,
+      "word": "权志龙今年将回归",
+      "onboard_time": 1672561170,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -859,6 +907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 341543,
+      "num": 341543,
+      "word": "Letme有宝宝了",
+      "onboard_time": 1672559670,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 335524,
       "num": 708682,
       "word": "2022 再也不见",
@@ -891,7 +947,7 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 319228,
+      "raw_hot": 320689,
       "num": 268090,
       "word": "苏有朋跳了一整首",
       "onboard_time": 1672558168,
@@ -955,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 291127,
-      "num": 268503,
-      "word": "C罗每秒赚50元人民币",
-      "onboard_time": 1672557570,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 291033,
       "num": 450372,
       "word": "马斯克财产缩水破人类记录",
@@ -1019,6 +1067,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 272222,
+      "num": 195444,
+      "word": "虞书欣失忆直拍",
+      "onboard_time": 1672559609,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262861,
       "num": 504752,
       "word": "GK正式更名为DRG",
@@ -1067,11 +1123,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232943,
+      "num": 232943,
+      "word": "火车票购票新规今起实施",
+      "onboard_time": 1672558529,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232633,
       "num": 449450,
       "word": "家属回应百岁老人感染13天后康复",
       "onboard_time": 1672518314,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229061,
+      "num": 267823,
+      "word": "杭州街头万人共喊新年倒计时",
+      "onboard_time": 1672556431,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1096,6 +1168,14 @@
       "word": "美术生回老家给拖拉机画醒狮皮肤",
       "onboard_time": 1672541554,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219520,
+      "num": 219520,
+      "word": "XBB会不会导致二次感染",
+      "onboard_time": 1672560509,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1155,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203309,
+      "num": 192643,
+      "word": "张真源理想之途舞台直拍",
+      "onboard_time": 1672560989,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201240,
       "num": 979574,
       "word": "2022再见",
@@ -1176,6 +1264,14 @@
       "word": "8岁哥哥背着妹妹帮补胎一气呵成",
       "onboard_time": 1672546593,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193573,
+      "num": 193573,
+      "word": "跨年夜市民放飞气球苦了环卫工",
+      "onboard_time": 1672558833,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1291,14 +1387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163726,
-      "num": 267823,
-      "word": "杭州街头万人共喊新年倒计时",
-      "onboard_time": 1672556431,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159915,
       "num": 926232,
       "word": "泰山宝光开启2023",
@@ -1313,6 +1401,14 @@
       "onboard_time": 1672552531,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156715,
+      "num": 269435,
+      "word": "男子冰瀑前拍照不慎滑入水中",
+      "onboard_time": 1672554630,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153867,
@@ -1579,14 +1675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102706,
-      "num": 269435,
-      "word": "男子冰瀑前拍照不慎滑入水中",
-      "onboard_time": 1672554630,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102678,
       "num": 219827,
       "word": "2023非凡的开始",
@@ -1609,6 +1697,14 @@
       "onboard_time": 1672554030,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 97147,
+      "num": 263911,
+      "word": "被结冰静止的海面惊艳了",
+      "onboard_time": 1672558349,
+      "rank": 49,
+      "category": "旅游,自然"
     },
     {
       "raw_hot": 97095,
@@ -1707,12 +1803,28 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 85714,
+      "num": 192027,
+      "word": "连小猫咪都有新年礼物了",
+      "onboard_time": 1672561229,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82939,
       "num": 399787,
       "word": "国乒元旦祝福",
       "onboard_time": 1672539034,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82826,
+      "num": 191730,
+      "word": "2022IVL秋季赛总决赛",
+      "onboard_time": 1672560868,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 82245,
@@ -1737,14 +1849,6 @@
       "onboard_time": 1672500051,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71641,
-      "num": 263911,
-      "word": "被结冰静止的海面惊艳了",
-      "onboard_time": 1672558349,
-      "rank": 49,
-      "category": "旅游,自然"
     },
     {
       "raw_hot": 66805,
@@ -1809,6 +1913,14 @@
       "onboard_time": 1672528036,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 34939,
+      "num": 193052,
+      "word": "新年第一餐",
+      "onboard_time": 1672560030,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 33922,
