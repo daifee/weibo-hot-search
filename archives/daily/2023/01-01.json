@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672564607932,
+  "endTime": 1672565612913,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -203,20 +203,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1469736,
+      "num": 1469736,
+      "word": "XBB会不会导致二次感染",
+      "onboard_time": 1672560509,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1437942,
       "num": 963599,
       "word": "何炅哭了",
       "onboard_time": 1672491780,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1257905,
-      "num": 1257905,
-      "word": "XBB会不会导致二次感染",
-      "onboard_time": 1672560509,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1240782,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 728160,
-      "num": 352384,
+      "num": 354720,
       "word": "权志龙今年将回归",
       "onboard_time": 1672561170,
       "rank": 12,
@@ -595,6 +595,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 543325,
+      "num": 353457,
+      "word": "杨贤硕宣布复职",
+      "onboard_time": 1672564767,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537549,
       "num": 472288,
       "word": "华晨宇白举纲快男跨十年零点拥抱",
@@ -659,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 501086,
+      "num": 501086,
+      "word": "谷爱凌备战米兰奥运",
+      "onboard_time": 1672562191,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 491224,
       "num": 491224,
       "word": "上海一线医护收到6000元补贴",
@@ -699,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 470016,
-      "num": 306378,
-      "word": "谷爱凌备战米兰奥运",
-      "onboard_time": 1672562191,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 468363,
       "num": 468363,
       "word": "推特员工被曝自带卫生纸上班",
@@ -739,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450853,
+      "num": 336627,
+      "word": "SuperM将2023年回归",
+      "onboard_time": 1672564829,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450437,
       "num": 270600,
       "word": "鹿晗2022年终总结",
@@ -752,6 +768,14 @@
       "word": "今起实名制儿童火车票将按照年龄购买",
       "onboard_time": 1672536513,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441837,
+      "num": 441837,
+      "word": "N95有效防护时间为4到6小时",
+      "onboard_time": 1672563748,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -931,6 +955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 346578,
+      "num": 232426,
+      "word": "B站跨年 节目质量",
+      "onboard_time": 1672562492,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341543,
       "num": 341543,
       "word": "Letme有宝宝了",
@@ -995,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308981,
-      "num": 223510,
-      "word": "B站跨年 节目质量",
-      "onboard_time": 1672562492,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 307440,
       "num": 163467,
       "word": "薛之谦新年的第一通电话",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1672541734,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300005,
+      "num": 206196,
+      "word": "虞书欣手上的小兰花",
+      "onboard_time": 1672562909,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 296967,
@@ -1107,12 +1139,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 274348,
+      "num": 274348,
+      "word": "男子开车偶遇大老虎路边休息",
+      "onboard_time": 1672563031,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273113,
       "num": 1006386,
       "word": "2023新年贺词完整视频",
       "onboard_time": 1672486782,
       "rank": 17,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 272788,
+      "num": 272788,
+      "word": "郑州电影小镇就烟花秀临时缺席致歉",
+      "onboard_time": 1672562012,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272222,
@@ -1129,14 +1177,6 @@
       "onboard_time": 1672543053,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 262615,
-      "num": 187598,
-      "word": "虞书欣手上的小兰花",
-      "onboard_time": 1672562909,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 260572,
@@ -1161,6 +1201,14 @@
       "onboard_time": 1672505258,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251227,
+      "num": 200344,
+      "word": "唐嫣晒照祝大家元旦快乐",
+      "onboard_time": 1672564589,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 248825,
@@ -1211,6 +1259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232489,
+      "num": 232489,
+      "word": "楠艺",
+      "onboard_time": 1672564232,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 232193,
+      "num": 232193,
+      "word": "王曼昱晒捧花照送祝福",
+      "onboard_time": 1672564829,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222186,
       "num": 175330,
       "word": "赵樱子是有些尴尬体质在身上的",
@@ -1243,12 +1307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215641,
-      "num": 215641,
-      "word": "郑州电影小镇就烟花秀临时缺席致歉",
-      "onboard_time": 1672562012,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 218653,
+      "num": 218653,
+      "word": "主人举着猫咪一起看烟花",
+      "onboard_time": 1672562310,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 211439,
@@ -1283,28 +1347,12 @@
       "category": "动漫,幽默"
     },
     {
-      "raw_hot": 208083,
-      "num": 208083,
-      "word": "N95有效防护时间为4到6小时",
-      "onboard_time": 1672563748,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206081,
       "num": 693957,
       "word": "上海本轮包含30个奥密克戎亚型毒株",
       "onboard_time": 1672506811,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205819,
-      "num": 150680,
-      "word": "唐嫣晒照祝大家元旦快乐",
-      "onboard_time": 1672564589,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 204830,
@@ -1355,20 +1403,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199471,
+      "num": 199471,
+      "word": "坦然 吕布",
+      "onboard_time": 1672563152,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196895,
       "num": 161369,
       "word": "用每日一秒记录一整年",
       "onboard_time": 1672564048,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 196587,
-      "num": 196587,
-      "word": "男子开车偶遇大老虎路边休息",
-      "onboard_time": 1672563031,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195895,
@@ -1409,22 +1457,6 @@
       "onboard_time": 1672507232,
       "rank": 22,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 185937,
-      "num": 185937,
-      "word": "主人举着猫咪一起看烟花",
-      "onboard_time": 1672562310,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 180869,
-      "num": 158643,
-      "word": "坦然 吕布",
-      "onboard_time": 1672563152,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 179919,
@@ -1515,14 +1547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162458,
-      "num": 162458,
-      "word": "楠艺",
-      "onboard_time": 1672564232,
-      "rank": 36,
-      "category": "科技"
-    },
-    {
       "raw_hot": 159915,
       "num": 926232,
       "word": "泰山宝光开启2023",
@@ -1580,7 +1604,7 @@
     },
     {
       "raw_hot": 146699,
-      "num": 146699,
+      "num": 159957,
       "word": "男子反向放烟花在地面炸开",
       "onboard_time": 1672562730,
       "rank": 44,
@@ -1715,6 +1739,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 119645,
+      "num": 159511,
+      "word": "没见过这么会撒娇的弟弟",
+      "onboard_time": 1672564410,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 118224,
       "num": 943658,
       "word": "一句话迎接2023",
@@ -1753,14 +1785,6 @@
       "onboard_time": 1672503467,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114538,
-      "num": 114538,
-      "word": "没见过这么会撒娇的弟弟",
-      "onboard_time": 1672564410,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 114161,
@@ -1880,6 +1904,14 @@
       "word": "阳康后还需要戴口罩吗",
       "onboard_time": 1672477115,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95249,
+      "num": 157659,
+      "word": "2岁宝宝变身抓娃娃机进窖抓红薯",
+      "onboard_time": 1672564649,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2067,8 +2099,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42145,
+      "num": 1138575,
+      "word": "2023年将有哪些大事发生",
+      "onboard_time": 1672565309,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 40669,
-      "num": 157353,
+      "num": 163339,
       "word": "许下2023第一个心愿",
       "onboard_time": 1672563630,
       "rank": 39,

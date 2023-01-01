@@ -1,0 +1,410 @@
+{
+  "runTime": 1672565612913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1779237,
+        "num": 1779237,
+        "word": "新冠病毒已经找到多种动物宿主",
+        "onboard_time": 1672552232,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1469736,
+        "num": 1469736,
+        "word": "XBB会不会导致二次感染",
+        "onboard_time": 1672560509,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42145,
+        "num": 1138575,
+        "word": "2023年将有哪些大事发生",
+        "onboard_time": 1672565309,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1084218,
+        "num": 1084218,
+        "word": "刘亦菲酒量",
+        "onboard_time": 1672559430,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 964983,
+        "num": 964983,
+        "word": "大侦探",
+        "onboard_time": 1672561768,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 759163,
+        "num": 759163,
+        "word": "儿子成绩好爸爸奖励60秒超市随便买",
+        "onboard_time": 1672559850,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526582,
+        "num": 526582,
+        "word": "小破站 整活",
+        "onboard_time": 1672550132,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501086,
+        "num": 501086,
+        "word": "谷爱凌备战米兰奥运",
+        "onboard_time": 1672562191,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441837,
+        "num": 441837,
+        "word": "N95有效防护时间为4到6小时",
+        "onboard_time": 1672563748,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397616,
+        "num": 397616,
+        "word": "C罗每秒赚50元人民币",
+        "onboard_time": 1672557570,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 575572,
+        "num": 354720,
+        "word": "权志龙今年将回归",
+        "onboard_time": 1672561170,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543325,
+        "num": 353457,
+        "word": "杨贤硕宣布复职",
+        "onboard_time": 1672564767,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450853,
+        "num": 336627,
+        "word": "SuperM将2023年回归",
+        "onboard_time": 1672564829,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303931,
+        "num": 303931,
+        "word": "广州本次新冠疫情已达峰",
+        "onboard_time": 1672555171,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274348,
+        "num": 274348,
+        "word": "男子开车偶遇大老虎路边休息",
+        "onboard_time": 1672563031,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272788,
+        "num": 272788,
+        "word": "郑州电影小镇就烟花秀临时缺席致歉",
+        "onboard_time": 1672562012,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266099,
+        "num": 266099,
+        "word": "Letme有宝宝了",
+        "onboard_time": 1672559670,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264551,
+        "num": 264551,
+        "word": "XBB.1.5已成美国头号流行株",
+        "onboard_time": 1672547254,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242124,
+        "num": 242124,
+        "word": "女儿扔掉妈妈囤发霉的20斤食物",
+        "onboard_time": 1672547435,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232489,
+        "num": 232489,
+        "word": "楠艺",
+        "onboard_time": 1672564232,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 442032,
+        "num": 232486,
+        "word": "EXOLoveShot最新舞台",
+        "onboard_time": 1672560752,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 401123,
+        "num": 232436,
+        "word": "廖搏点评王一博跨年舞台",
+        "onboard_time": 1672557693,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346578,
+        "num": 232426,
+        "word": "B站跨年 节目质量",
+        "onboard_time": 1672562492,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232193,
+        "num": 232193,
+        "word": "王曼昱晒捧花照送祝福",
+        "onboard_time": 1672564829,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220360,
+        "num": 220360,
+        "word": "连小猫咪都有新年礼物了",
+        "onboard_time": 1672561229,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219085,
+        "num": 219085,
+        "word": "2岁宝宝阳性后爸爸自责落泪",
+        "onboard_time": 1672554331,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218653,
+        "num": 218653,
+        "word": "主人举着猫咪一起看烟花",
+        "onboard_time": 1672562310,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90730,
+        "num": 218287,
+        "word": "这是2023年第一天的中国",
+        "onboard_time": 1672532064,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218030,
+        "num": 218030,
+        "word": "C罗获得新东家1亿欧签字费",
+        "onboard_time": 1672548573,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208003,
+        "num": 208003,
+        "word": "上海一线医护收到6000元补贴",
+        "onboard_time": 1672553192,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622744,
+        "num": 207178,
+        "word": "蒙脱石散",
+        "onboard_time": 1672529298,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300005,
+        "num": 206196,
+        "word": "虞书欣手上的小兰花",
+        "onboard_time": 1672562909,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280044,
+        "num": 203337,
+        "word": "EXO再唱初雪",
+        "onboard_time": 1672553491,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 258027,
+        "num": 201581,
+        "word": "2023跨年晚会观后感",
+        "onboard_time": 1672561411,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251227,
+        "num": 200344,
+        "word": "唐嫣晒照祝大家元旦快乐",
+        "onboard_time": 1672564589,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199471,
+        "num": 199471,
+        "word": "坦然 吕布",
+        "onboard_time": 1672563152,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186597,
+        "num": 186597,
+        "word": "跨年夜市民放飞气球苦了环卫工",
+        "onboard_time": 1672558833,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178504,
+        "num": 178504,
+        "word": "火车票购票新规今起实施",
+        "onboard_time": 1672558529,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166662,
+        "num": 166662,
+        "word": "推特员工被曝自带卫生纸上班",
+        "onboard_time": 1672555532,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 25817,
+        "num": 163339,
+        "word": "许下2023第一个心愿",
+        "onboard_time": 1672563630,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244849,
+        "num": 162834,
+        "word": "中国人不蹦洋迪",
+        "onboard_time": 1672552110,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196215,
+        "num": 161850,
+        "word": "蔡徐坤hugme彩排清唱",
+        "onboard_time": 1672562849,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160498,
+        "num": 160498,
+        "word": "蒙脱石散主要治什么",
+        "onboard_time": 1672543532,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144976,
+        "num": 160498,
+        "word": "为什么情侣很在乎跨年仪式感",
+        "onboard_time": 1672548510,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144753,
+        "num": 159957,
+        "word": "男子反向放烟花在地面炸开",
+        "onboard_time": 1672562730,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119645,
+        "num": 159511,
+        "word": "没见过这么会撒娇的弟弟",
+        "onboard_time": 1672564410,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 115970,
+        "num": 159181,
+        "word": "湖北汉江大桥跨年夜因放烟花起火",
+        "onboard_time": 1672548211,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115568,
+        "num": 158789,
+        "word": "杭州街头万人共喊新年倒计时",
+        "onboard_time": 1672556431,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114526,
+        "num": 158130,
+        "word": "小学生吃饭打游戏全家上阵喂食",
+        "onboard_time": 1672556189,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95249,
+        "num": 157659,
+        "word": "2岁宝宝变身抓娃娃机进窖抓红薯",
+        "onboard_time": 1672564649,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023新年贺词#"
+    }
+  }
+}
