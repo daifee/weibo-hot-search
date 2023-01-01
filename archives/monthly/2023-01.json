@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672557340539,
+  "endTime": 1672558403191,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -395,12 +395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 753849,
+      "num": 753849,
+      "word": "广州本次新冠疫情已达峰",
+      "onboard_time": 1672555171,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 752781,
       "num": 752781,
       "word": "年底iPhone14连续2次降价",
       "onboard_time": 1672535852,
       "rank": 7,
       "category": "科技"
+    },
+    {
+      "raw_hot": 725077,
+      "num": 725077,
+      "word": "廖博点评王一博跨年舞台",
+      "onboard_time": 1672557693,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 716449,
@@ -425,14 +441,6 @@
       "onboard_time": 1672497717,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 691721,
-      "num": 691721,
-      "word": "广州本次新冠疫情已达峰",
-      "onboard_time": 1672555171,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 687154,
@@ -539,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 522114,
+      "num": 522114,
+      "word": "2岁宝宝阳性后爸爸自责落泪",
+      "onboard_time": 1672554331,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521233,
       "num": 383158,
       "word": "卿卿日常见面会阵容",
@@ -579,8 +595,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 489401,
-      "num": 489401,
+      "raw_hot": 491224,
+      "num": 491224,
       "word": "上海一线医护收到6000元补贴",
       "onboard_time": 1672553192,
       "rank": 23,
@@ -617,6 +633,14 @@
       "onboard_time": 1672546169,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468363,
+      "num": 468363,
+      "word": "推特员工被曝自带卫生纸上班",
+      "onboard_time": 1672555532,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 453827,
@@ -675,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 425382,
-      "num": 425382,
-      "word": "2岁宝宝阳性后爸爸自责落泪",
-      "onboard_time": 1672554331,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 424433,
       "num": 354149,
       "word": "柳智敏的鞋底掉了",
@@ -731,20 +747,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 401765,
+      "num": 272217,
+      "word": "刘亦菲李现去有风的地方吻戏",
+      "onboard_time": 1672557990,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400977,
       "num": 400977,
       "word": "雍和宫",
       "onboard_time": 1672552232,
       "rank": 17,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 400833,
-      "num": 400833,
-      "word": "推特员工被曝自带卫生纸上班",
-      "onboard_time": 1672555532,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 392438,
@@ -756,7 +772,7 @@
     },
     {
       "raw_hot": 388673,
-      "num": 217919,
+      "num": 269116,
       "word": "zoo舞台",
       "onboard_time": 1672555290,
       "rank": 22,
@@ -793,6 +809,14 @@
       "onboard_time": 1672548932,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 362103,
+      "num": 271774,
+      "word": "杨迪妈妈像极了我妈等我回家",
+      "onboard_time": 1672556970,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 359558,
@@ -867,6 +891,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 319228,
+      "num": 268090,
+      "word": "苏有朋跳了一整首",
+      "onboard_time": 1672558168,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318857,
       "num": 318857,
       "word": "时代少年团新年祝福手势",
@@ -923,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291127,
+      "num": 268503,
+      "word": "C罗每秒赚50元人民币",
+      "onboard_time": 1672557570,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291033,
       "num": 450372,
       "word": "马斯克财产缩水破人类记录",
@@ -937,14 +977,6 @@
       "onboard_time": 1672532725,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 289920,
-      "num": 183501,
-      "word": "杨迪妈妈像极了我妈等我回家",
-      "onboard_time": 1672556970,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 289710,
@@ -1016,6 +1048,14 @@
       "word": "小伙坐地铁手机掉进女乘客手提袋",
       "onboard_time": 1672505258,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248576,
+      "num": 273389,
+      "word": "小学生吃饭打游戏全家上阵喂食",
+      "onboard_time": 1672556189,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1251,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163726,
+      "num": 267823,
+      "word": "杭州街头万人共喊新年倒计时",
+      "onboard_time": 1672556431,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159915,
       "num": 926232,
       "word": "泰山宝光开启2023",
@@ -1273,14 +1321,6 @@
       "onboard_time": 1672502330,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150239,
-      "num": 184591,
-      "word": "小学生吃饭打游戏全家上阵喂食",
-      "onboard_time": 1672556189,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150142,
@@ -1435,14 +1475,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 118914,
-      "num": 182338,
-      "word": "杭州街头万人共喊新年倒计时",
-      "onboard_time": 1672556431,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118224,
       "num": 943658,
       "word": "一句话迎接2023",
@@ -1540,11 +1572,19 @@
     },
     {
       "raw_hot": 104666,
-      "num": 181877,
+      "num": 264209,
       "word": "2022年你最难忘的画面",
       "onboard_time": 1672556970,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102706,
+      "num": 269435,
+      "word": "男子冰瀑前拍照不慎滑入水中",
+      "onboard_time": 1672554630,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102678,
@@ -1601,14 +1641,6 @@
       "onboard_time": 1672517774,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 93786,
-      "num": 269435,
-      "word": "男子冰瀑前拍照不慎滑入水中",
-      "onboard_time": 1672554630,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92634,
@@ -1705,6 +1737,14 @@
       "onboard_time": 1672500051,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71641,
+      "num": 263911,
+      "word": "被结冰静止的海面惊艳了",
+      "onboard_time": 1672558349,
+      "rank": 49,
+      "category": "旅游,自然"
     },
     {
       "raw_hot": 66805,
