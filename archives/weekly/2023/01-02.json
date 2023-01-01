@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672597250145,
+  "endTime": 1672598097628,
   "band_list": [
     {
       "raw_hot": 1160725,
@@ -411,6 +411,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 86536,
+      "num": 86536,
+      "word": "第一次见这么可爱的乌龟",
+      "onboard_time": 1672594996,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85534,
       "num": 85534,
       "word": "当代人好像在玩一种很新的跨年",
@@ -425,14 +433,6 @@
       "onboard_time": 1672586429,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 76460,
-      "num": 76460,
-      "word": "第一次见这么可爱的乌龟",
-      "onboard_time": 1672594996,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 75624,
@@ -459,8 +459,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68486,
-      "num": 45280,
+      "raw_hot": 72941,
+      "num": 58816,
       "word": "刘亦菲许红豆演我",
       "onboard_time": 1672596615,
       "rank": 32,
