@@ -1,14 +1,22 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672590224474,
+  "endTime": 1672591252709,
   "band_list": [
     {
-      "raw_hot": 974285,
-      "num": 974285,
+      "raw_hot": 1098632,
+      "num": 1098632,
       "word": "法外狂徒烟花版",
       "onboard_time": 1672583371,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 795557,
+      "num": 795557,
+      "word": "官方回应郑州CBD燃放烟花",
+      "onboard_time": 1672589247,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 753831,
@@ -75,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315508,
-      "num": 315508,
+      "raw_hot": 317477,
+      "num": 317477,
       "word": "还魂",
       "onboard_time": 1672586849,
       "rank": 7,
@@ -116,18 +124,18 @@
     },
     {
       "raw_hot": 300421,
-      "num": 203125,
+      "num": 250851,
       "word": "吴宣仪状态",
       "onboard_time": 1672578155,
       "rank": 20,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 274387,
-      "num": 274387,
-      "word": "官方回应郑州CBD燃放烟花",
-      "onboard_time": 1672589247,
-      "rank": 15,
+      "raw_hot": 285473,
+      "num": 285473,
+      "word": "打印出3米长试卷9岁男孩秒变哭腔",
+      "onboard_time": 1672588588,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210823,
+      "num": 170385,
+      "word": "张兰辟谣复阳",
+      "onboard_time": 1672588588,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209290,
       "num": 199495,
       "word": "白鹿张凌赫GQ背影同框",
@@ -179,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199876,
+      "num": 169580,
+      "word": "满江红",
+      "onboard_time": 1672591225,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192047,
       "num": 134421,
       "word": "白敬亭卿卿日常撑伞彩蛋",
@@ -192,22 +216,6 @@
       "word": "王一博晒白衬衫照祝大家元旦快乐",
       "onboard_time": 1672573651,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 190485,
-      "num": 190485,
-      "word": "打印出3米长试卷9岁男孩秒变哭腔",
-      "onboard_time": 1672588588,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182069,
-      "num": 131245,
-      "word": "张兰辟谣复阳",
-      "onboard_time": 1672588588,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -225,6 +233,14 @@
       "onboard_time": 1672589608,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167422,
+      "num": 101651,
+      "word": "浮图缘原著肖铎喜欢兰花",
+      "onboard_time": 1672590805,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 165831,
@@ -257,6 +273,14 @@
       "onboard_time": 1672560509,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139983,
+      "num": 83947,
+      "word": "张真源2023元旦vlog",
+      "onboard_time": 1672590685,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 139961,
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 97048,
-      "num": 547633,
+      "num": 641372,
       "word": "2023年哪些新规开始实施",
       "onboard_time": 1672586609,
       "rank": 2,
@@ -363,8 +387,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 79801,
-      "num": 79801,
+      "raw_hot": 83949,
+      "num": 83949,
       "word": "见过哄娃最专业的小朋友",
       "onboard_time": 1672586429,
       "rank": 45,
@@ -395,7 +419,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58927,
+      "raw_hot": 63305,
       "num": 79516,
       "word": "哈尔滨的墙来了有多好笑",
       "onboard_time": 1672574610,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#聆听新年贺词2023加油干#"
+    },
+    {
+      "word": "#开局之年看中国#"
     }
   ]
 }
