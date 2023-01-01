@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672562145307,
+  "endTime": 1672564607932,
   "band_list": [
     {
       "raw_hot": 12836148,
@@ -1419,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1257905,
+      "num": 1257905,
+      "word": "XBB会不会导致二次感染",
+      "onboard_time": 1672560509,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1245509,
       "num": 960004,
       "word": "任嘉伦唱如一",
@@ -2113,6 +2121,14 @@
       "onboard_time": 1672292068,
       "rank": 1,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 974124,
+      "num": 974124,
+      "word": "大侦探",
+      "onboard_time": 1672561768,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 969429,
@@ -2835,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779523,
+      "num": 779523,
+      "word": "儿子成绩好爸爸奖励60秒超市随便买",
+      "onboard_time": 1672559850,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 779373,
       "num": 779373,
       "word": "iPhone15Plus或降价千元",
@@ -3065,14 +3089,6 @@
       "onboard_time": 1672317211,
       "rank": 14,
       "category": "社会负面,教育"
-    },
-    {
-      "raw_hot": 744256,
-      "num": 744256,
-      "word": "XBB会不会导致二次感染",
-      "onboard_time": 1672560509,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 743232,
@@ -3865,14 +3881,6 @@
       "onboard_time": 1672150415,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 615363,
-      "num": 357587,
-      "word": "儿子成绩好爸爸奖励60秒超市随便买",
-      "onboard_time": 1672559850,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 614233,
@@ -5169,6 +5177,14 @@
       "onboard_time": 1672198649,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470016,
+      "num": 306378,
+      "word": "谷爱凌备战米兰奥运",
+      "onboard_time": 1672562191,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 470000,
@@ -7315,14 +7331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 337150,
-      "num": 234408,
-      "word": "大侦探",
-      "onboard_time": 1672561768,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335955,
       "num": 227785,
       "word": "年度歌手",
@@ -7971,6 +7979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308981,
+      "num": 223510,
+      "word": "B站跨年 节目质量",
+      "onboard_time": 1672562492,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307982,
       "num": 307982,
       "word": "西蓝花cp一集亲三次",
@@ -8129,6 +8145,14 @@
       "onboard_time": 1672155808,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 300784,
+      "num": 300784,
+      "word": "连小猫咪都有新年礼物了",
+      "onboard_time": 1672561229,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 300599,
@@ -8331,6 +8355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292841,
+      "num": 222154,
+      "word": "2023跨年晚会观后感",
+      "onboard_time": 1672561411,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292724,
       "num": 292724,
       "word": "女子靠黑魔法挽回前任被骗1万多",
@@ -8393,14 +8425,6 @@
       "onboard_time": 1672068451,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290580,
-      "num": 188420,
-      "word": "2023跨年晚会观后感",
-      "onboard_time": 1672561411,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 289989,
@@ -9081,6 +9105,14 @@
       "onboard_time": 1672543053,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 262615,
+      "num": 187598,
+      "word": "虞书欣手上的小兰花",
+      "onboard_time": 1672562909,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 262246,
@@ -9923,6 +9955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233337,
+      "num": 186110,
+      "word": "蔡徐坤hugme彩排清唱",
+      "onboard_time": 1672562849,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233334,
       "num": 148045,
       "word": "宫胁咲良歌谣大战横版直拍",
@@ -10539,6 +10579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220074,
+      "num": 181671,
+      "word": "GOTtheBeat新歌舞台",
+      "onboard_time": 1672563031,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 220069,
       "num": 220069,
       "word": "妈妈剪完刘海宝宝连声喊姐姐",
@@ -10713,6 +10761,14 @@
       "onboard_time": 1672469132,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215641,
+      "num": 215641,
+      "word": "郑州电影小镇就烟花秀临时缺席致歉",
+      "onboard_time": 1672562012,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215434,
@@ -10987,6 +11043,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 208083,
+      "num": 208083,
+      "word": "N95有效防护时间为4到6小时",
+      "onboard_time": 1672563748,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207761,
       "num": 207761,
       "word": "回来的女儿会有第二部吗",
@@ -11075,6 +11139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205819,
+      "num": 150680,
+      "word": "唐嫣晒照祝大家元旦快乐",
+      "onboard_time": 1672564589,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205551,
       "num": 205551,
       "word": "国乒确定新一届教练组",
@@ -11089,6 +11161,14 @@
       "onboard_time": 1672051832,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204830,
+      "num": 153820,
+      "word": "2023SM家族演唱会",
+      "onboard_time": 1672563691,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 204704,
@@ -11499,6 +11579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196895,
+      "num": 161369,
+      "word": "用每日一秒记录一整年",
+      "onboard_time": 1672564048,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196719,
       "num": 181926,
       "word": "李承天鲨疯了",
@@ -11512,6 +11600,14 @@
       "word": "抗新冠病毒药物该怎么用",
       "onboard_time": 1672114592,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196587,
+      "num": 196587,
+      "word": "男子开车偶遇大老虎路边休息",
+      "onboard_time": 1672563031,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -12147,6 +12243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185937,
+      "num": 185937,
+      "word": "主人举着猫咪一起看烟花",
+      "onboard_time": 1672562310,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185648,
       "num": 185648,
       "word": "苹果拟砍iPhone供应链价格以保获利",
@@ -12393,6 +12497,14 @@
       "onboard_time": 1672483238,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180869,
+      "num": 158643,
+      "word": "坦然 吕布",
+      "onboard_time": 1672563152,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 180475,
@@ -13443,6 +13555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162458,
+      "num": 162458,
+      "word": "楠艺",
+      "onboard_time": 1672564232,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 162373,
       "num": 162373,
       "word": "马清运offer4替李金颐改方案",
@@ -13457,14 +13577,6 @@
       "onboard_time": 1672034970,
       "rank": 44,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 162138,
-      "num": 192027,
-      "word": "连小猫咪都有新年礼物了",
-      "onboard_time": 1672561229,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 162036,
@@ -14377,6 +14489,14 @@
       "onboard_time": 1672387590,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 146699,
+      "num": 146699,
+      "word": "男子反向放烟花在地面炸开",
+      "onboard_time": 1672562730,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146573,
@@ -15915,6 +16035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114538,
+      "num": 114538,
+      "word": "没见过这么会撒娇的弟弟",
+      "onboard_time": 1672564410,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 114161,
       "num": 412716,
       "word": "2023将迎来哪些奇妙的相遇",
@@ -16787,14 +16915,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 79970,
-      "num": 187488,
-      "word": "郑州电影小镇就烟花秀临时缺席致歉",
-      "onboard_time": 1672562012,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78979,
       "num": 431425,
       "word": "听一首二十告别2022",
@@ -17257,6 +17377,14 @@
       "onboard_time": 1672159401,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 40669,
+      "num": 157353,
+      "word": "许下2023第一个心愿",
+      "onboard_time": 1672563630,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40164,

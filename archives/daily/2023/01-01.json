@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672562145307,
+  "endTime": 1672564607932,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1257905,
+      "num": 1257905,
+      "word": "XBB会不会导致二次感染",
+      "onboard_time": 1672560509,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1240782,
       "num": 925425,
       "word": "虞书欣 妆",
@@ -331,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 974124,
+      "num": 974124,
+      "word": "大侦探",
+      "onboard_time": 1672561768,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 937259,
       "num": 937259,
       "word": "张艺兴工作室说压不压轴并不重要",
@@ -411,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 779523,
+      "num": 779523,
+      "word": "儿子成绩好爸爸奖励60秒超市随便买",
+      "onboard_time": 1672559850,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 773034,
       "num": 708630,
       "word": "中国人不蹦洋迪",
@@ -433,14 +457,6 @@
       "onboard_time": 1672535852,
       "rank": 7,
       "category": "科技"
-    },
-    {
-      "raw_hot": 744256,
-      "num": 744256,
-      "word": "XBB会不会导致二次感染",
-      "onboard_time": 1672560509,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 728160,
@@ -529,14 +545,6 @@
       "onboard_time": 1672549116,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 615363,
-      "num": 357587,
-      "word": "儿子成绩好爸爸奖励60秒超市随便买",
-      "onboard_time": 1672559850,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 609754,
@@ -689,6 +697,14 @@
       "onboard_time": 1672546169,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470016,
+      "num": 306378,
+      "word": "谷爱凌备战米兰奥运",
+      "onboard_time": 1672562191,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 468363,
@@ -923,14 +939,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 337150,
-      "num": 234408,
-      "word": "大侦探",
-      "onboard_time": 1672561768,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335524,
       "num": 708682,
       "word": "2022 再也不见",
@@ -987,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308981,
+      "num": 223510,
+      "word": "B站跨年 节目质量",
+      "onboard_time": 1672562492,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307440,
       "num": 163467,
       "word": "薛之谦新年的第一通电话",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1672498381,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300784,
+      "num": 300784,
+      "word": "连小猫咪都有新年礼物了",
+      "onboard_time": 1672561229,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 300342,
@@ -1027,20 +1051,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292841,
+      "num": 222154,
+      "word": "2023跨年晚会观后感",
+      "onboard_time": 1672561411,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291033,
       "num": 450372,
       "word": "马斯克财产缩水破人类记录",
       "onboard_time": 1672527616,
       "rank": 26,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 290580,
-      "num": 188420,
-      "word": "2023跨年晚会观后感",
-      "onboard_time": 1672561411,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 289989,
@@ -1107,6 +1131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262615,
+      "num": 187598,
+      "word": "虞书欣手上的小兰花",
+      "onboard_time": 1672562909,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260572,
       "num": 183181,
       "word": "苏醒两年前的站位vs今晚的站位",
@@ -1155,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233337,
+      "num": 186110,
+      "word": "蔡徐坤hugme彩排清唱",
+      "onboard_time": 1672562849,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232943,
       "num": 232943,
       "word": "火车票购票新规今起实施",
@@ -1187,11 +1227,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220074,
+      "num": 181671,
+      "word": "GOTtheBeat新歌舞台",
+      "onboard_time": 1672563031,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219924,
       "num": 500984,
       "word": "美术生回老家给拖拉机画醒狮皮肤",
       "onboard_time": 1672541554,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215641,
+      "num": 215641,
+      "word": "郑州电影小镇就烟花秀临时缺席致歉",
+      "onboard_time": 1672562012,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1227,12 +1283,36 @@
       "category": "动漫,幽默"
     },
     {
+      "raw_hot": 208083,
+      "num": 208083,
+      "word": "N95有效防护时间为4到6小时",
+      "onboard_time": 1672563748,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206081,
       "num": 693957,
       "word": "上海本轮包含30个奥密克戎亚型毒株",
       "onboard_time": 1672506811,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205819,
+      "num": 150680,
+      "word": "唐嫣晒照祝大家元旦快乐",
+      "onboard_time": 1672564589,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204830,
+      "num": 153820,
+      "word": "2023SM家族演唱会",
+      "onboard_time": 1672563691,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 204704,
@@ -1275,6 +1355,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196895,
+      "num": 161369,
+      "word": "用每日一秒记录一整年",
+      "onboard_time": 1672564048,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 196587,
+      "num": 196587,
+      "word": "男子开车偶遇大老虎路边休息",
+      "onboard_time": 1672563031,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195895,
       "num": 489179,
       "word": "8岁哥哥背着妹妹帮补胎一气呵成",
@@ -1313,6 +1409,22 @@
       "onboard_time": 1672507232,
       "rank": 22,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 185937,
+      "num": 185937,
+      "word": "主人举着猫咪一起看烟花",
+      "onboard_time": 1672562310,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 180869,
+      "num": 158643,
+      "word": "坦然 吕布",
+      "onboard_time": 1672563152,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 179919,
@@ -1403,12 +1515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162138,
-      "num": 192027,
-      "word": "连小猫咪都有新年礼物了",
-      "onboard_time": 1672561229,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 162458,
+      "num": 162458,
+      "word": "楠艺",
+      "onboard_time": 1672564232,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 159915,
@@ -1464,6 +1576,14 @@
       "word": "跨年夜无人机被气球缠绕坠落人群",
       "onboard_time": 1672550731,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146699,
+      "num": 146699,
+      "word": "男子反向放烟花在地面炸开",
+      "onboard_time": 1672562730,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1633,6 +1753,14 @@
       "onboard_time": 1672503467,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114538,
+      "num": 114538,
+      "word": "没见过这么会撒娇的弟弟",
+      "onboard_time": 1672564410,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 114161,
@@ -1867,14 +1995,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 79970,
-      "num": 187488,
-      "word": "郑州电影小镇就烟花秀临时缺席致歉",
-      "onboard_time": 1672562012,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77447,
       "num": 187444,
       "word": "ACT对战Gr",
@@ -1945,6 +2065,14 @@
       "onboard_time": 1672515314,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 40669,
+      "num": 157353,
+      "word": "许下2023第一个心愿",
+      "onboard_time": 1672563630,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37235,
