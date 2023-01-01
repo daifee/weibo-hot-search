@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672583610087,
+  "endTime": 1672586243737,
   "band_list": [
     {
       "raw_hot": 12836148,
@@ -2763,6 +2763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 825126,
+      "num": 825126,
+      "word": "宋慧乔新剧豆瓣开分8.7分",
+      "onboard_time": 1672582713,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 824438,
       "num": 824438,
       "word": "76岁老人感染新冠一周后去世",
@@ -4107,14 +4115,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 606298,
-      "num": 370417,
-      "word": "宋慧乔新剧豆瓣开分8.7分",
-      "onboard_time": 1672582713,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 604334,
       "num": 604334,
       "word": "庆余年第二季登顶待播剧期待榜",
@@ -4265,6 +4265,14 @@
       "onboard_time": 1672299089,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589457,
+      "num": 327236,
+      "word": "Tangoz评论权志龙算你小子有点事业心",
+      "onboard_time": 1672584810,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 588379,
@@ -5681,6 +5689,14 @@
       "onboard_time": 1672367308,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 447801,
+      "num": 326936,
+      "word": "法外狂徒烟花版",
+      "onboard_time": 1672583371,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 447520,
@@ -7891,6 +7907,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 326807,
+      "num": 326807,
+      "word": "男子每次只点油饼老板反手送碗汤",
+      "onboard_time": 1672582053,
+      "rank": 44,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 326767,
       "num": 326767,
       "word": "9位新冠二次感染者自述",
@@ -8835,6 +8859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288999,
+      "num": 288999,
+      "word": "原来还有小狗不会汪汪叫",
+      "onboard_time": 1672581573,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 288243,
       "num": 288243,
       "word": "男孩报警求助称父亲住院无人照顾自己",
@@ -8963,6 +8995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283134,
+      "num": 203669,
+      "word": "王凯到底在电视剧里穿过多少制服",
+      "onboard_time": 1672585771,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 282736,
       "num": 220826,
       "word": "浮图缘 弹幕",
@@ -9009,6 +9049,14 @@
       "onboard_time": 1672196849,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 280900,
+      "num": 280900,
+      "word": "图书馆偶遇外卖小哥备战法考",
+      "onboard_time": 1672584092,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280734,
@@ -9161,14 +9209,6 @@
       "onboard_time": 1672133194,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 277417,
-      "num": 277417,
-      "word": "原来还有小狗不会汪汪叫",
-      "onboard_time": 1672581573,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 276789,
@@ -9683,6 +9723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255693,
+      "num": 170547,
+      "word": "任嘉伦邢菲武庚纪同框对视拉手路透",
+      "onboard_time": 1672584754,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 255613,
       "num": 255613,
       "word": "肖铎为救步音楼扔掉等活",
@@ -9963,6 +10011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247531,
+      "num": 247531,
+      "word": "XBB.1.5毒株是什么",
+      "onboard_time": 1672583314,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247501,
       "num": 247501,
       "word": "95后男生靠教人挑选衣服走红",
@@ -10209,6 +10265,14 @@
       "onboard_time": 1672565309,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 239814,
+      "num": 240416,
+      "word": "总要去湖南看一次烟花秀吧",
+      "onboard_time": 1672582114,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 239744,
@@ -10601,6 +10665,14 @@
       "onboard_time": 1672409431,
       "rank": 41,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 230987,
+      "num": 158435,
+      "word": "肖铎的就是步音楼的",
+      "onboard_time": 1672585529,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 230832,
@@ -11483,6 +11555,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 210818,
+      "num": 157595,
+      "word": "马嘉祺7秒有效镜头",
+      "onboard_time": 1672586192,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210669,
       "num": 210669,
       "word": "腰腹赘肉算是有克星了",
@@ -11497,6 +11577,14 @@
       "onboard_time": 1672218392,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 210401,
+      "num": 156834,
+      "word": "GAI三星堆联动舞台",
+      "onboard_time": 1672585830,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 210197,
@@ -11555,12 +11643,12 @@
       "category": "情感,综艺"
     },
     {
-      "raw_hot": 209273,
-      "num": 240416,
-      "word": "总要去湖南看一次烟花秀吧",
-      "onboard_time": 1672582114,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 208983,
+      "num": 208983,
+      "word": "王濛笑称要备战米兰冬奥",
+      "onboard_time": 1672583493,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 208643,
@@ -11593,14 +11681,6 @@
       "onboard_time": 1672139134,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207354,
-      "num": 216615,
-      "word": "男子每次只点油饼老板反手送碗汤",
-      "onboard_time": 1672582053,
-      "rank": 44,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 207138,
@@ -14163,6 +14243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163410,
+      "num": 255524,
+      "word": "谁能拒绝会跳女团舞的老师呢",
+      "onboard_time": 1672580492,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163390,
       "num": 163390,
       "word": "5岁萌娃第一次滑雪有多丝滑",
@@ -15067,14 +15155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148219,
-      "num": 255524,
-      "word": "谁能拒绝会跳女团舞的老师呢",
-      "onboard_time": 1672580492,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148093,
       "num": 148093,
       "word": "田柾国新歌MV花絮视频",
@@ -15393,14 +15473,6 @@
       "onboard_time": 1672463184,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143960,
-      "num": 185776,
-      "word": "法外狂徒烟花版",
-      "onboard_time": 1672583371,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 143944,
@@ -16859,6 +16931,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 112677,
+      "num": 158727,
+      "word": "这就是犹豫就会败北吗",
+      "onboard_time": 1672585771,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112059,
       "num": 191730,
       "word": "2022IVL秋季赛总决赛",
@@ -17683,12 +17763,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 84316,
-      "num": 185006,
-      "word": "XBB.1.5毒株是什么",
-      "onboard_time": 1672583314,
+      "raw_hot": 84577,
+      "num": 151061,
+      "word": "在迪拜跨年是什么体验",
+      "onboard_time": 1672585411,
       "rank": 48,
-      "category": "社会新闻"
+      "category": "旅游"
     },
     {
       "raw_hot": 82939,
@@ -17713,14 +17793,6 @@
       "onboard_time": 1672504425,
       "rank": 43,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 79939,
-      "num": 184944,
-      "word": "王濛笑称要备战米兰冬奥",
-      "onboard_time": 1672583493,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 78979,
