@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672541586110,
+  "endTime": 1672542150146,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -204,11 +204,19 @@
     },
     {
       "raw_hot": 1191828,
-      "num": 1044108,
+      "num": 1105418,
       "word": "丈夫给阳性妻子做鸡汤熬出粪便",
       "onboard_time": 1672515314,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1158010,
+      "num": 1158010,
+      "word": "王毅任中央外办主任",
+      "onboard_time": 1672540474,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1157618,
@@ -217,14 +225,6 @@
       "onboard_time": 1672531162,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1057570,
-      "num": 1057570,
-      "word": "王毅任中央外办主任",
-      "onboard_time": 1672540474,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1041827,
@@ -331,12 +331,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 598749,
+      "num": 515159,
+      "word": "王鹤棣白鹿剪的以爱为营元旦视频",
+      "onboard_time": 1672542036,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 585764,
+      "num": 293481,
+      "word": "梁朝伟王一博无名定档海报",
+      "onboard_time": 1672541496,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 583158,
       "num": 1037258,
       "word": "河南的跨年有多浪漫",
       "onboard_time": 1672501011,
       "rank": 7,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 561687,
+      "num": 293284,
+      "word": "迪丽热巴红裙卷发复古造型",
+      "onboard_time": 1672541554,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 505537,
@@ -355,20 +379,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 490149,
-      "num": 291880,
-      "word": "迪丽热巴红裙卷发复古造型",
-      "onboard_time": 1672541554,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 487679,
       "num": 448590,
       "word": "王一博东方跨年舞台收视率",
       "onboard_time": 1672531825,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 458844,
+      "num": 458844,
+      "word": "姑娘不顾生理期跳冰湖救出老人",
+      "onboard_time": 1672540594,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453827,
@@ -403,16 +427,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 424905,
-      "num": 288295,
-      "word": "梁朝伟王一博无名定档海报",
-      "onboard_time": 1672541496,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 424433,
-      "num": 290855,
+      "num": 291336,
       "word": "柳智敏的鞋底掉了",
       "onboard_time": 1672539333,
       "rank": 25,
@@ -475,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344024,
+      "num": 344024,
+      "word": "足坛年收入C罗断层第一",
+      "onboard_time": 1672541192,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335524,
       "num": 708682,
       "word": "2022 再也不见",
@@ -507,19 +531,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300342,
+      "num": 289916,
+      "word": "叶秘大年初一见",
+      "onboard_time": 1672541734,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 298003,
+      "num": 298003,
+      "word": "合肥市民跨年倒数一起放飞气球",
+      "onboard_time": 1672539393,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295073,
       "num": 451229,
       "word": "2023",
       "onboard_time": 1672531825,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294557,
-      "num": 294557,
-      "word": "姑娘不顾生理期跳冰湖救出老人",
-      "onboard_time": 1672540594,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -561,14 +593,6 @@
       "onboard_time": 1672486782,
       "rank": 17,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 263086,
-      "num": 294192,
-      "word": "合肥市民跨年倒数一起放飞气球",
-      "onboard_time": 1672539393,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260202,
@@ -731,14 +755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152916,
-      "num": 290175,
-      "word": "足坛年收入C罗断层第一",
-      "onboard_time": 1672541192,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150142,
       "num": 981917,
       "word": "新年头像",
@@ -779,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142247,
+      "num": 292075,
+      "word": "马斯克财产缩水破人类纪录",
+      "onboard_time": 1672527616,
+      "rank": 34,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 140020,
       "num": 140020,
       "word": "何炅回应脱稿",
@@ -809,14 +833,6 @@
       "onboard_time": 1672538434,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131256,
-      "num": 287443,
-      "word": "马斯克财产缩水破人类纪录",
-      "onboard_time": 1672527616,
-      "rank": 34,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 129705,
@@ -913,6 +929,14 @@
       "onboard_time": 1672503767,
       "rank": 39,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 105123,
+      "num": 289153,
+      "word": "篮网11连胜",
+      "onboard_time": 1672541913,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 100734,
@@ -1019,8 +1043,8 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 79410,
-      "num": 281579,
+      "raw_hot": 79561,
+      "num": 288107,
       "word": "美术生回老家给拖拉机画醒狮皮肤",
       "onboard_time": 1672541554,
       "rank": 49,
