@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672539040673,
+  "endTime": 1672541586110,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3205691,
+      "num": 3205691,
+      "word": "摩洛哥禁止来自中国旅客入境",
+      "onboard_time": 1672539333,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2967846,
       "num": 992379,
       "word": "王一博赤脚跳舞",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1703105,
-      "num": 451009,
+      "num": 632042,
       "word": "谢娜 炅每年都有拥抱今年也不会少",
       "onboard_time": 1672536453,
       "rank": 10,
@@ -195,8 +203,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1190350,
-      "num": 869908,
+      "raw_hot": 1191828,
+      "num": 1044108,
       "word": "丈夫给阳性妻子做鸡汤熬出粪便",
       "onboard_time": 1672515314,
       "rank": 10,
@@ -204,11 +212,19 @@
     },
     {
       "raw_hot": 1157618,
-      "num": 450950,
+      "num": 629579,
       "word": "杨幂 2023请对我好一点吧",
       "onboard_time": 1672531162,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1057570,
+      "num": 1057570,
+      "word": "王毅任中央外办主任",
+      "onboard_time": 1672540474,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1041827,
@@ -331,19 +347,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 501502,
+      "num": 429253,
+      "word": "华晨宇湖南卫视压轴",
+      "onboard_time": 1672537052,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 490149,
+      "num": 291880,
+      "word": "迪丽热巴红裙卷发复古造型",
+      "onboard_time": 1672541554,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 487679,
       "num": 448590,
       "word": "王一博东方跨年舞台收视率",
       "onboard_time": 1672531825,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 477822,
-      "num": 429253,
-      "word": "华晨宇湖南卫视压轴",
-      "onboard_time": 1672537052,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -376,6 +400,22 @@
       "word": "YG新女团BABYMONSTER预告",
       "onboard_time": 1672530201,
       "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 424905,
+      "num": 288295,
+      "word": "梁朝伟王一博无名定档海报",
+      "onboard_time": 1672541496,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 424433,
+      "num": 290855,
+      "word": "柳智敏的鞋底掉了",
+      "onboard_time": 1672539333,
+      "rank": 25,
       "category": "音乐"
     },
     {
@@ -427,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351966,
+      "num": 286259,
+      "word": "丁程鑫说新的一年大家一定要开心每一天",
+      "onboard_time": 1672541073,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335524,
       "num": 708682,
       "word": "2022 再也不见",
@@ -464,6 +512,14 @@
       "word": "2023",
       "onboard_time": 1672531825,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294557,
+      "num": 294557,
+      "word": "姑娘不顾生理期跳冰湖救出老人",
+      "onboard_time": 1672540594,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -505,6 +561,14 @@
       "onboard_time": 1672486782,
       "rank": 17,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 263086,
+      "num": 294192,
+      "word": "合肥市民跨年倒数一起放飞气球",
+      "onboard_time": 1672539393,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260202,
@@ -587,7 +651,7 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 193586,
+      "raw_hot": 200758,
       "num": 447474,
       "word": "如何度过24岁的迷茫期",
       "onboard_time": 1672531765,
@@ -667,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152916,
+      "num": 290175,
+      "word": "足坛年收入C罗断层第一",
+      "onboard_time": 1672541192,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150142,
       "num": 981917,
       "word": "新年头像",
@@ -737,6 +809,14 @@
       "onboard_time": 1672538434,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131256,
+      "num": 287443,
+      "word": "马斯克财产缩水破人类纪录",
+      "onboard_time": 1672527616,
+      "rank": 34,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 129705,
@@ -937,6 +1017,14 @@
       "onboard_time": 1672504425,
       "rank": 43,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 79410,
+      "num": 281579,
+      "word": "美术生回老家给拖拉机画醒狮皮肤",
+      "onboard_time": 1672541554,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75145,
