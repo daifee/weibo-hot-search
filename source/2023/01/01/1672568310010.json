@@ -1,0 +1,410 @@
+{
+  "runTime": 1672568310010,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1707629,
+        "num": 1707629,
+        "word": "新冠病毒已经找到多种动物宿主",
+        "onboard_time": 1672552232,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219505,
+        "num": 1219505,
+        "word": "XBB会不会导致二次感染",
+        "onboard_time": 1672560509,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221846,
+        "num": 971556,
+        "word": "2023年将有哪些大事发生",
+        "onboard_time": 1672565309,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 875154,
+        "num": 875154,
+        "word": "大侦探",
+        "onboard_time": 1672561768,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 813399,
+        "num": 813399,
+        "word": "N95有效防护时间为4到6小时",
+        "onboard_time": 1672563748,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767187,
+        "num": 767187,
+        "word": "刘亦菲酒量",
+        "onboard_time": 1672559430,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601463,
+        "num": 601463,
+        "word": "儿子成绩好爸爸奖励60秒超市随便买",
+        "onboard_time": 1672559850,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545939,
+        "num": 545939,
+        "word": "权志龙今年将回归",
+        "onboard_time": 1672561170,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473624,
+        "num": 473624,
+        "word": "孕妇感染新冠后顺利生下元旦宝宝",
+        "onboard_time": 1672566328,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390753,
+        "num": 390753,
+        "word": "男子开车偶遇大老虎路边休息",
+        "onboard_time": 1672563031,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580646,
+        "num": 388113,
+        "word": "杨贤硕宣布复职",
+        "onboard_time": 1672564767,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431169,
+        "num": 386657,
+        "word": "B站跨年 节目质量",
+        "onboard_time": 1672562492,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352954,
+        "num": 352954,
+        "word": "宋亚轩元旦出发路透",
+        "onboard_time": 1672566328,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326836,
+        "num": 326836,
+        "word": "C罗每秒赚50元人民币",
+        "onboard_time": 1672557570,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319521,
+        "num": 319521,
+        "word": "楠艺",
+        "onboard_time": 1672564232,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 293133,
+        "num": 293133,
+        "word": "谷爱凌备战米兰奥运",
+        "onboard_time": 1672562191,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280257,
+        "num": 280257,
+        "word": "王曼昱晒捧花照送祝福",
+        "onboard_time": 1672564829,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260163,
+        "num": 260163,
+        "word": "广州本次新冠疫情已达峰",
+        "onboard_time": 1672555171,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220415,
+        "num": 220415,
+        "word": "郑州电影小镇就烟花秀临时缺席致歉",
+        "onboard_time": 1672562012,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212062,
+        "num": 212062,
+        "word": "主人举着猫咪一起看烟花",
+        "onboard_time": 1672562310,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339297,
+        "num": 210708,
+        "word": "廖搏点评王一博跨年舞台",
+        "onboard_time": 1672557693,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313037,
+        "num": 210607,
+        "word": "小破站 整活",
+        "onboard_time": 1672550132,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265217,
+        "num": 209285,
+        "word": "EXOLoveShot最新舞台",
+        "onboard_time": 1672560752,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203017,
+        "num": 203017,
+        "word": "女儿扔掉妈妈囤发霉的20斤食物",
+        "onboard_time": 1672547435,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191262,
+        "num": 191262,
+        "word": "XBB.1.5已成美国头号流行株",
+        "onboard_time": 1672547254,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190214,
+        "num": 190214,
+        "word": "上海一线医护收到6000元补贴",
+        "onboard_time": 1672553192,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184170,
+        "num": 184170,
+        "word": "全国征兵女兵今起开始报名",
+        "onboard_time": 1672565850,
+        "rank": 26,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 178260,
+        "num": 178260,
+        "word": "坦然 吕布",
+        "onboard_time": 1672563152,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176194,
+        "num": 176194,
+        "word": "Letme有宝宝了",
+        "onboard_time": 1672559670,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160874,
+        "num": 160874,
+        "word": "2岁宝宝阳性后爸爸自责落泪",
+        "onboard_time": 1672554331,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593997,
+        "num": 160606,
+        "word": "蒙脱石散",
+        "onboard_time": 1672529298,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253433,
+        "num": 158816,
+        "word": "虞书欣手上的小兰花",
+        "onboard_time": 1672562909,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246721,
+        "num": 157194,
+        "word": "EXO再唱初雪",
+        "onboard_time": 1672553491,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 243949,
+        "num": 156570,
+        "word": "SuperM将2023年回归",
+        "onboard_time": 1672564829,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195562,
+        "num": 154819,
+        "word": "男子带9个网红插队漂流还骂游客",
+        "onboard_time": 1672567529,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181795,
+        "num": 153836,
+        "word": "中国人不蹦洋迪",
+        "onboard_time": 1672552110,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170210,
+        "num": 152038,
+        "word": "C罗获得新东家1亿欧签字费",
+        "onboard_time": 1672548573,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151654,
+        "num": 151654,
+        "word": "年夜饭必备的硬菜",
+        "onboard_time": 1672567950,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148315,
+        "num": 148315,
+        "word": "推特员工被曝自带卫生纸上班",
+        "onboard_time": 1672555532,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 21269,
+        "num": 147116,
+        "word": "好运2023",
+        "onboard_time": 1672567231,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180125,
+        "num": 140995,
+        "word": "孟佳分享央视总台跨年晚会幕后vlog",
+        "onboard_time": 1672567231,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161928,
+        "num": 137954,
+        "word": "朱孝天看到韩雯雯哭无力到愤怒",
+        "onboard_time": 1672568068,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162792,
+        "num": 135724,
+        "word": "顾南亭程霄极限推拉",
+        "onboard_time": 1672568249,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131552,
+        "num": 131552,
+        "word": "男子反向放烟花在地面炸开",
+        "onboard_time": 1672562730,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124667,
+        "num": 124667,
+        "word": "蒙脱石散主要治什么",
+        "onboard_time": 1672543532,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122922,
+        "num": 122922,
+        "word": "原来手表也能放烟花",
+        "onboard_time": 1672567108,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121996,
+        "num": 121996,
+        "word": "跨年夜市民放飞气球苦了环卫工",
+        "onboard_time": 1672558833,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113513,
+        "num": 113513,
+        "word": "火车票购票新规今起实施",
+        "onboard_time": 1672558529,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113021,
+        "num": 113021,
+        "word": "为什么情侣很在乎跨年仪式感",
+        "onboard_time": 1672548510,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112670,
+        "num": 112670,
+        "word": "小学生吃饭打游戏全家上阵喂食",
+        "onboard_time": 1672556189,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天的中国是梦想接连实现的中国#"
+    }
+  }
+}
