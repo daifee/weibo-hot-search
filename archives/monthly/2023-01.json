@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672561341443,
+  "endTime": 1672562145307,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -379,20 +379,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 828646,
+      "num": 828646,
+      "word": "C罗每秒赚50元人民币",
+      "onboard_time": 1672557570,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 826377,
       "num": 688498,
       "word": "周深 艺高人胆大",
       "onboard_time": 1672506991,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 825328,
-      "num": 825328,
-      "word": "C罗每秒赚50元人民币",
-      "onboard_time": 1672557570,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 814735,
@@ -433,6 +433,22 @@
       "onboard_time": 1672535852,
       "rank": 7,
       "category": "科技"
+    },
+    {
+      "raw_hot": 744256,
+      "num": 744256,
+      "word": "XBB会不会导致二次感染",
+      "onboard_time": 1672560509,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 728160,
+      "num": 352384,
+      "word": "权志龙今年将回归",
+      "onboard_time": 1672561170,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 725077,
@@ -491,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636114,
+      "num": 350011,
+      "word": "EXOLoveShot最新舞台",
+      "onboard_time": 1672560752,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 633531,
       "num": 633531,
       "word": "足坛年收入C罗断层第一",
@@ -505,6 +529,14 @@
       "onboard_time": 1672549116,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 615363,
+      "num": 357587,
+      "word": "儿子成绩好爸爸奖励60秒超市随便买",
+      "onboard_time": 1672559850,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609754,
@@ -603,14 +635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 513461,
-      "num": 350011,
-      "word": "EXOLoveShot最新舞台",
-      "onboard_time": 1672560752,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 505537,
       "num": 391899,
       "word": "程潇 假唱",
@@ -675,14 +699,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 465526,
-      "num": 357587,
-      "word": "儿子成绩好爸爸奖励60秒超市随便买",
-      "onboard_time": 1672559850,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 453827,
       "num": 1018327,
       "word": "南部战区揭露美军机抵近侦察真相",
@@ -712,14 +728,6 @@
       "word": "鹿晗2022年终总结",
       "onboard_time": 1672547852,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 444138,
-      "num": 352384,
-      "word": "权志龙今年将回归",
-      "onboard_time": 1672561170,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -915,6 +923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 337150,
+      "num": 234408,
+      "word": "大侦探",
+      "onboard_time": 1672561768,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335524,
       "num": 708682,
       "word": "2022 再也不见",
@@ -1019,6 +1035,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 290580,
+      "num": 188420,
+      "word": "2023跨年晚会观后感",
+      "onboard_time": 1672561411,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289989,
       "num": 481932,
       "word": "和喜欢的人跨年是啥体验",
@@ -1107,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248825,
+      "num": 267823,
+      "word": "杭州街头万人共喊新年倒计时",
+      "onboard_time": 1672556431,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248576,
       "num": 273389,
       "word": "小学生吃饭打游戏全家上阵喂食",
@@ -1139,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229061,
-      "num": 267823,
-      "word": "杭州街头万人共喊新年倒计时",
-      "onboard_time": 1672556431,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222186,
       "num": 175330,
       "word": "赵樱子是有些尴尬体质在身上的",
@@ -1168,14 +1192,6 @@
       "word": "美术生回老家给拖拉机画醒狮皮肤",
       "onboard_time": 1672541554,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219520,
-      "num": 219520,
-      "word": "XBB会不会导致二次感染",
-      "onboard_time": 1672560509,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1385,6 +1401,14 @@
       "onboard_time": 1672541913,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162138,
+      "num": 192027,
+      "word": "连小猫咪都有新年礼物了",
+      "onboard_time": 1672561229,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 159915,
@@ -1675,6 +1699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103370,
+      "num": 187836,
+      "word": "厦门六中合唱团上新了",
+      "onboard_time": 1672561646,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 102678,
       "num": 219827,
       "word": "2023非凡的开始",
@@ -1691,20 +1723,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98543,
+      "num": 263911,
+      "word": "被结冰静止的海面惊艳了",
+      "onboard_time": 1672558349,
+      "rank": 49,
+      "category": "旅游,自然"
+    },
+    {
       "raw_hot": 98196,
       "num": 155287,
       "word": "驻香港部队在中区军用码头升起国旗",
       "onboard_time": 1672554030,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 97147,
-      "num": 263911,
-      "word": "被结冰静止的海面惊艳了",
-      "onboard_time": 1672558349,
-      "rank": 49,
-      "category": "旅游,自然"
     },
     {
       "raw_hot": 97095,
@@ -1803,14 +1835,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 85714,
-      "num": 192027,
-      "word": "连小猫咪都有新年礼物了",
-      "onboard_time": 1672561229,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 82939,
       "num": 399787,
       "word": "国乒元旦祝福",
@@ -1841,6 +1865,22 @@
       "onboard_time": 1672504425,
       "rank": 43,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 79970,
+      "num": 187488,
+      "word": "郑州电影小镇就烟花秀临时缺席致歉",
+      "onboard_time": 1672562012,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77447,
+      "num": 187444,
+      "word": "ACT对战Gr",
+      "onboard_time": 1672561411,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 75145,
@@ -1883,6 +1923,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 45287,
+      "num": 193052,
+      "word": "新年第一餐",
+      "onboard_time": 1672560030,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 44571,
       "num": 377282,
       "word": "外滩保安喇叭提醒路边导游不可信",
@@ -1913,14 +1961,6 @@
       "onboard_time": 1672528036,
       "rank": 44,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 34939,
-      "num": 193052,
-      "word": "新年第一餐",
-      "onboard_time": 1672560030,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 33922,
