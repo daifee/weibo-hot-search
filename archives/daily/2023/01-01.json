@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672544183775,
+  "endTime": 1672546893382,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1482616,
+      "num": 446731,
+      "word": "哥哥太爱我了怎么办",
+      "onboard_time": 1672543655,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1437942,
       "num": 963599,
       "word": "何炅哭了",
@@ -219,11 +227,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1183646,
+      "num": 1183646,
+      "word": "电影流浪地球2",
+      "onboard_time": 1672544912,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1178825,
+      "num": 367095,
+      "word": "康伯",
+      "onboard_time": 1672545870,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1157618,
       "num": 629579,
       "word": "杨幂 2023请对我好一点吧",
       "onboard_time": 1672531162,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1063968,
+      "num": 351760,
+      "word": "外来媳妇本地郎康伯扮演者去世",
+      "onboard_time": 1672545814,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -273,6 +305,14 @@
       "onboard_time": 1672503946,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 874654,
+      "num": 874654,
+      "word": "外来媳妇本地郎",
+      "onboard_time": 1672545574,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 849413,
@@ -339,6 +379,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 682653,
+      "num": 333779,
+      "word": "迪丽热巴2022年终总结",
+      "onboard_time": 1672544734,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 650171,
+      "num": 650171,
+      "word": "陆虎终于在跨年唱到了自己的歌",
+      "onboard_time": 1672541614,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 633531,
       "num": 633531,
       "word": "足坛年收入C罗断层第一",
@@ -379,12 +435,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 528357,
-      "num": 446731,
-      "word": "哥哥太爱我了怎么办",
-      "onboard_time": 1672543655,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 537549,
+      "num": 333021,
+      "word": "华晨宇白举纲快男跨十年零点拥抱",
+      "onboard_time": 1672546533,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 518471,
+      "num": 395523,
+      "word": "SMTOWN线上演唱会",
+      "onboard_time": 1672543713,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 505537,
@@ -411,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 481776,
+      "num": 481776,
+      "word": "补贴取消后新能源车值得买吗",
+      "onboard_time": 1672543354,
+      "rank": 39,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 453827,
       "num": 1018327,
       "word": "南部战区揭露美军机抵近侦察真相",
@@ -433,14 +505,6 @@
       "onboard_time": 1672536513,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439558,
-      "num": 439558,
-      "word": "陆虎终于在跨年唱到了自己的歌",
-      "onboard_time": 1672541614,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 433685,
@@ -483,14 +547,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 395523,
-      "num": 395523,
-      "word": "SMTOWN线上演唱会",
-      "onboard_time": 1672543713,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 387500,
       "num": 387500,
       "word": "华晨宇好温柔",
@@ -529,6 +585,14 @@
       "onboard_time": 1672541073,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346354,
+      "num": 389104,
+      "word": "蒙脱石散主要治什么",
+      "onboard_time": 1672543532,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335524,
@@ -635,6 +699,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 262861,
+      "num": 382077,
+      "word": "GK正式更名为DRG",
+      "onboard_time": 1672543053,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 260202,
       "num": 257834,
       "word": "姚安娜",
@@ -659,12 +731,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224746,
+      "num": 329078,
+      "word": "农历癸卯兔年全年共有384天",
+      "onboard_time": 1672545212,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222186,
       "num": 175330,
       "word": "赵樱子是有些尴尬体质在身上的",
       "onboard_time": 1672529298,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219924,
+      "num": 441416,
+      "word": "美术生回老家给拖拉机画醒狮皮肤",
+      "onboard_time": 1672541554,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210052,
@@ -715,20 +803,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 201166,
+      "num": 937420,
+      "word": "这是2023年第一天的中国",
+      "onboard_time": 1672532064,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200758,
       "num": 475455,
       "word": "如何度过24岁的迷茫期",
       "onboard_time": 1672531765,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 193693,
-      "num": 456188,
-      "word": "补贴取消后新能源车值得买吗",
-      "onboard_time": 1672543354,
-      "rank": 39,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 188469,
@@ -739,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188188,
+      "num": 345560,
+      "word": "2023新年开场白",
+      "onboard_time": 1672546472,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187796,
       "num": 699472,
       "word": "兔年",
@@ -747,11 +843,11 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 184175,
-      "num": 389104,
-      "word": "蒙脱石散主要治什么",
-      "onboard_time": 1672543532,
-      "rank": 34,
+      "raw_hot": 179010,
+      "num": 344907,
+      "word": "2023新年宝宝诞生",
+      "onboard_time": 1672544853,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -803,12 +899,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166593,
-      "num": 382077,
-      "word": "GK正式更名为DRG",
-      "onboard_time": 1672543053,
-      "rank": 49,
-      "category": "游戏"
+      "raw_hot": 169764,
+      "num": 343061,
+      "word": "东契奇51分",
+      "onboard_time": 1672543713,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 164094,
@@ -817,14 +913,6 @@
       "onboard_time": 1672541913,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163364,
-      "num": 441416,
-      "word": "美术生回老家给拖拉机画醒狮皮肤",
-      "onboard_time": 1672541554,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159915,
@@ -859,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143396,
+      "num": 327832,
+      "word": "蒙脱石散是止泻药吗",
+      "onboard_time": 1672546354,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143188,
       "num": 447065,
       "word": "2023壁纸",
@@ -891,6 +987,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 140619,
+      "num": 337431,
+      "word": "这就是吃了打印机的手吧",
+      "onboard_time": 1672546050,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140020,
       "num": 140020,
       "word": "何炅回应脱稿",
@@ -921,6 +1025,14 @@
       "onboard_time": 1672538434,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131357,
+      "num": 327210,
+      "word": "多地调整烟花爆竹燃放政策",
+      "onboard_time": 1672546169,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129705,
@@ -995,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108104,
+      "num": 322345,
+      "word": "8岁哥哥背着妹妹帮补胎一气呵成",
+      "onboard_time": 1672546593,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107544,
       "num": 309765,
       "word": "鲜艳的五星红旗与太阳一同升起",
@@ -1017,22 +1137,6 @@
       "onboard_time": 1672503767,
       "rank": 39,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 104721,
-      "num": 332788,
-      "word": "东契奇51分",
-      "onboard_time": 1672543713,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 100734,
-      "num": 308085,
-      "word": "这是2023年第一天的中国",
-      "onboard_time": 1672532064,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96737,
@@ -1067,6 +1171,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 91967,
+      "num": 319193,
+      "word": "西安大唐不夜城跨年夜人山人海",
+      "onboard_time": 1672546653,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91008,
       "num": 923736,
       "word": "蛋仔派对",
@@ -1091,6 +1203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88093,
+      "num": 315498,
+      "word": "他用18年造了中国珍贵的三辆车",
+      "onboard_time": 1672545870,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86823,
       "num": 923454,
       "word": "迎接2023",
@@ -1105,6 +1225,14 @@
       "onboard_time": 1672519753,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86007,
+      "num": 314703,
+      "word": "人民子弟兵的硬核仪式感",
+      "onboard_time": 1672546112,
+      "rank": 49,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 82939,
@@ -1241,6 +1369,9 @@
     },
     {
       "word": "#足迹2022#"
+    },
+    {
+      "word": "#习主席书架上的照片上新了#"
     }
   ]
 }
