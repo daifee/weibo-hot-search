@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672551218745,
+  "endTime": 1672554124557,
   "band_list": [
     {
       "raw_hot": 12836148,
@@ -843,12 +843,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1705139,
+      "num": 1705139,
+      "word": "新冠病毒已经找到多种动物宿主",
+      "onboard_time": 1672552232,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1703105,
       "num": 632042,
       "word": "谢娜 炅每年都有拥抱今年也不会少",
       "onboard_time": 1672536453,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1695930,
+      "num": 1695930,
+      "word": "小破站 整活",
+      "onboard_time": 1672550132,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 1695646,
@@ -1883,14 +1899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1041917,
-      "num": 1041917,
-      "word": "小破站 整活",
-      "onboard_time": 1672550132,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1041827,
       "num": 1312576,
       "word": "上海迪士尼新年特别版烟花秀",
@@ -2121,6 +2129,14 @@
       "onboard_time": 1672103548,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 955090,
+      "num": 955090,
+      "word": "EXO再唱初雪",
+      "onboard_time": 1672553491,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 954764,
@@ -2849,6 +2865,14 @@
       "onboard_time": 1672112610,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 773034,
+      "num": 400702,
+      "word": "中国人不蹦洋迪",
+      "onboard_time": 1672552110,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 772649,
@@ -3593,6 +3617,14 @@
       "onboard_time": 1672294949,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 638719,
+      "num": 396067,
+      "word": "有一种友谊叫何炅谢娜",
+      "onboard_time": 1672551692,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 638394,
@@ -4555,12 +4587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 515429,
+      "num": 515429,
+      "word": "为什么情侣很在乎跨年仪式感",
+      "onboard_time": 1672548510,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 515291,
       "num": 478268,
       "word": "易烊千玺车内氛围感随拍",
       "onboard_time": 1672196248,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 514221,
+      "num": 395507,
+      "word": "Jessica的提词器是拼音",
+      "onboard_time": 1672551330,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 512697,
@@ -5145,14 +5193,6 @@
       "onboard_time": 1672100066,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460594,
-      "num": 460594,
-      "word": "为什么情侣很在乎跨年仪式感",
-      "onboard_time": 1672548510,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 459956,
@@ -5827,6 +5867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 406965,
+      "num": 406965,
+      "word": "湖北汉江大桥跨年夜因放烟花起火",
+      "onboard_time": 1672548211,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406935,
       "num": 406935,
       "word": "光与夜之恋",
@@ -5857,6 +5905,14 @@
       "onboard_time": 1672027890,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404754,
+      "num": 404754,
+      "word": "杭州跨年夜再现人从众",
+      "onboard_time": 1672549830,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403739,
@@ -6097,14 +6153,6 @@
       "onboard_time": 1672406851,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 388206,
-      "num": 388206,
-      "word": "湖北汉江大桥跨年夜因放烟花起火",
-      "onboard_time": 1672548211,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 388157,
@@ -7427,6 +7475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322545,
+      "num": 164286,
+      "word": "0713 宝藏",
+      "onboard_time": 1672553968,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322384,
       "num": 322384,
       "word": "失明母亲医院中用力抱紧发烧宝宝",
@@ -7763,6 +7819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307440,
+      "num": 163467,
+      "word": "薛之谦新年的第一通电话",
+      "onboard_time": 1672552952,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 307084,
       "num": 296603,
       "word": "江苏卫视跨年群星比耶手势大赛",
@@ -7977,6 +8041,14 @@
       "onboard_time": 1671976592,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296967,
+      "num": 162672,
+      "word": "aespaRedVelvet合作曲舞台",
+      "onboard_time": 1672552771,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 296450,
@@ -8371,6 +8443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280476,
+      "num": 280476,
+      "word": "雍和宫",
+      "onboard_time": 1672552232,
+      "rank": 17,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 279915,
       "num": 279915,
       "word": "林书豪告别广州男篮",
@@ -8545,14 +8625,6 @@
       "onboard_time": 1672051706,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 272919,
-      "num": 272919,
-      "word": "杭州跨年夜再现人从众",
-      "onboard_time": 1672549830,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272810,
@@ -10572,7 +10644,7 @@
     },
     {
       "raw_hot": 211439,
-      "num": 1280735,
+      "num": 1311588,
       "word": "这是2023年第一天的中国",
       "onboard_time": 1672532064,
       "rank": 45,
@@ -11233,6 +11305,14 @@
       "onboard_time": 1672116690,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195982,
+      "num": 195982,
+      "word": "上海一线医护收到6000元补贴",
+      "onboard_time": 1672553192,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195959,
@@ -11923,6 +12003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183860,
+      "num": 252772,
+      "word": "石家庄人的跨年夜如此浪漫",
+      "onboard_time": 1672550552,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183651,
       "num": 183651,
       "word": "廖穗芳的两个孩子都患有精神病",
@@ -12539,6 +12627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173298,
+      "num": 262675,
+      "word": "没想到炒饭能炒成这样",
+      "onboard_time": 1672549951,
+      "rank": 46,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 172786,
       "num": 172786,
       "word": "王凯顾南亭领带杀视频",
@@ -13043,14 +13139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 163834,
-      "num": 262675,
-      "word": "没想到炒饭能炒成这样",
-      "onboard_time": 1672549951,
-      "rank": 46,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 163809,
       "num": 163809,
       "word": "2022普通人努力图鉴",
@@ -13385,6 +13473,14 @@
       "onboard_time": 1672396590,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158694,
+      "num": 158694,
+      "word": "2023年的第1杯奶茶",
+      "onboard_time": 1672552531,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 158488,
@@ -13993,6 +14089,14 @@
       "onboard_time": 1672138834,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146939,
+      "num": 254607,
+      "word": "跨年夜无人机被气球缠绕坠落人群",
+      "onboard_time": 1672550731,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146899,
@@ -15035,6 +15139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126630,
+      "num": 254295,
+      "word": "新英雄莱西奥玩法爆料",
+      "onboard_time": 1672550973,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126620,
       "num": 1301945,
       "word": "居家消毒5个注意事项",
@@ -15371,6 +15483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119079,
+      "num": 156080,
+      "word": "东北学生开火车式滑雪",
+      "onboard_time": 1672553252,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118783,
       "num": 118783,
       "word": "看了让人腿软的年终述职",
@@ -15425,6 +15545,14 @@
       "onboard_time": 1672538973,
       "rank": 44,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 116904,
+      "num": 155931,
+      "word": "2023年心愿第一天就实现了",
+      "onboard_time": 1672552893,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 116740,
@@ -15843,6 +15971,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 105511,
+      "num": 155645,
+      "word": "烟花放出了打仗的感觉",
+      "onboard_time": 1672551871,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105420,
       "num": 105420,
       "word": "湖人vs魔术",
@@ -16051,6 +16187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98196,
+      "num": 155287,
+      "word": "驻香港部队在中区军用码头升起国旗",
+      "onboard_time": 1672554030,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 97661,
       "num": 1390966,
       "word": "恢复期9类健康问题如何应对",
@@ -16147,14 +16291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93563,
-      "num": 254607,
-      "word": "跨年夜无人机被气球缠绕坠落人群",
-      "onboard_time": 1672550731,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93497,
       "num": 1085563,
       "word": "中国发展要靠广大青年挺膺担当",
@@ -16225,14 +16361,6 @@
       "onboard_time": 1672462227,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 88640,
-      "num": 254295,
-      "word": "新英雄莱西奥玩法爆料",
-      "onboard_time": 1672550973,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 88332,
@@ -16329,14 +16457,6 @@
       "onboard_time": 1672495621,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 84417,
-      "num": 252772,
-      "word": "石家庄人的跨年夜如此浪漫",
-      "onboard_time": 1672550552,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82939,
