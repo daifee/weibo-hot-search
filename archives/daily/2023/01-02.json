@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672662913885,
+  "endTime": 1672664028597,
   "band_list": [
     {
       "raw_hot": 2758634,
@@ -179,19 +179,19 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1040344,
+      "num": 451917,
+      "word": "胡鑫宇失踪母亲暴瘦60斤",
+      "onboard_time": 1672659690,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 985172,
       "num": 985172,
       "word": "急性传染高峰之后的两周是最艰难的",
       "onboard_time": 1672636650,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 926938,
-      "num": 451917,
-      "word": "胡鑫宇失踪母亲暴瘦60斤",
-      "onboard_time": 1672659690,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -235,8 +235,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 801147,
-      "num": 801147,
+      "raw_hot": 816732,
+      "num": 816732,
       "word": "世界唯一女性文字来自湖南小城",
       "onboard_time": 1672660049,
       "rank": 3,
@@ -257,6 +257,14 @@
       "onboard_time": 1672628068,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 729821,
+      "num": 729821,
+      "word": "上海未发现BQ.1和XBB的本土传播",
+      "onboard_time": 1672660411,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 729039,
@@ -283,19 +291,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 712492,
+      "num": 289207,
+      "word": "李现直播",
+      "onboard_time": 1672662509,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 709809,
       "num": 709809,
       "word": "女子花2700修热水器成本只有13元",
       "onboard_time": 1672636948,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 697651,
-      "num": 697651,
-      "word": "上海未发现BQ.1和XBB的本土传播",
-      "onboard_time": 1672660411,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -579,14 +587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 445994,
-      "num": 274652,
-      "word": "李现直播",
-      "onboard_time": 1672662509,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 445533,
       "num": 445533,
       "word": "赵露思加奈那黄日莹神隐同框路透",
@@ -665,6 +665,14 @@
       "onboard_time": 1672616118,
       "rank": 5,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 404865,
+      "num": 235617,
+      "word": "武林外传拜年花絮",
+      "onboard_time": 1672662570,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 403576,
@@ -803,12 +811,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335056,
+      "num": 266731,
+      "word": "所以只能玩起了手机",
+      "onboard_time": 1672662391,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 331707,
       "num": 331707,
       "word": "学生吃席给老师带回一大碗虾和肉",
       "onboard_time": 1672585351,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323589,
+      "num": 183172,
+      "word": "吴镇宇直播模仿张艺兴跳舞",
+      "onboard_time": 1672663890,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 321975,
@@ -947,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 290187,
+      "num": 178757,
+      "word": "凯迪拉克车身贴AED抢救标志",
+      "onboard_time": 1672662210,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 287429,
       "num": 287429,
       "word": "专家称XBB.1.5毒株与其他株没区别",
@@ -985,6 +1017,14 @@
       "onboard_time": 1672588588,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284923,
+      "num": 178255,
+      "word": "浮图缘西蜀篇上大分",
+      "onboard_time": 1672663291,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 282236,
@@ -1115,20 +1155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255828,
+      "num": 255828,
+      "word": "XBB是否会导致腹泻",
+      "onboard_time": 1672661248,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255487,
       "num": 255487,
       "word": "姆巴佩将缺席法国杯",
       "onboard_time": 1672622667,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254996,
-      "num": 186713,
-      "word": "武林外传拜年花絮",
-      "onboard_time": 1672662570,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 254255,
@@ -1144,6 +1184,14 @@
       "word": "乡村爱情15",
       "onboard_time": 1672631249,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 247847,
+      "num": 175893,
+      "word": "程霄帮顾南亭擦手",
+      "onboard_time": 1672663651,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -1169,14 +1217,6 @@
       "onboard_time": 1672643247,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 239247,
-      "num": 239247,
-      "word": "XBB是否会导致腹泻",
-      "onboard_time": 1672661248,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238947,
@@ -1272,6 +1312,14 @@
       "word": "爱情悍匪程霄",
       "onboard_time": 1672653811,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220293,
+      "num": 130417,
+      "word": "王鹤棣双刀打戏",
+      "onboard_time": 1672663414,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -1523,14 +1571,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 190968,
-      "num": 181524,
-      "word": "所以只能玩起了手机",
-      "onboard_time": 1672662391,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190844,
       "num": 190844,
       "word": "黑暗荣耀",
@@ -1545,6 +1585,14 @@
       "onboard_time": 1672645348,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188036,
+      "num": 188036,
+      "word": "平时不理狗狗的后果",
+      "onboard_time": 1672662631,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 185311,
@@ -1625,6 +1673,14 @@
       "onboard_time": 1672657530,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174934,
+      "num": 174934,
+      "word": "第一次见火车户型的房子",
+      "onboard_time": 1672663229,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 173928,
@@ -1731,14 +1787,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 156607,
-      "num": 156607,
-      "word": "凯迪拉克车身贴AED抢救标志",
-      "onboard_time": 1672662210,
-      "rank": 42,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 153998,
       "num": 153998,
       "word": "糖丸爷爷顾方舟逝世四周年",
@@ -1793,14 +1841,6 @@
       "onboard_time": 1672637310,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 148415,
-      "num": 148415,
-      "word": "平时不理狗狗的后果",
-      "onboard_time": 1672662631,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 147894,
@@ -2083,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114467,
+      "num": 114467,
+      "word": "阳康后还会二次感染XBB吗",
+      "onboard_time": 1672663829,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114150,
       "num": 66484,
       "word": "周也红毯生图",
@@ -2128,6 +2176,14 @@
       "word": "甘宇胖回来了",
       "onboard_time": 1672652851,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100760,
+      "num": 100760,
+      "word": "雪虎宝宝奶凶奶凶的叫声",
+      "onboard_time": 1672664010,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1672664028597,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1454347,
+        "num": 1454347,
+        "word": "李飞终于舍得花钱了",
+        "onboard_time": 1672658430,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 816732,
+        "num": 816732,
+        "word": "世界唯一女性文字来自湖南小城",
+        "onboard_time": 1672660049,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7819,
+        "num": 744218,
+        "word": "卫星视角看祖国壮美河山",
+        "onboard_time": 1672630409,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 729821,
+        "num": 729821,
+        "word": "上海未发现BQ.1和XBB的本土传播",
+        "onboard_time": 1672660411,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549879,
+        "num": 549879,
+        "word": "专家称不至于三个月就经历一波疫情",
+        "onboard_time": 1672653092,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2058963,
+        "num": 549815,
+        "word": "胡鑫宇学校监控视频未被删减",
+        "onboard_time": 1672653990,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549422,
+        "num": 549422,
+        "word": "伪装者铁三角接力上新剧",
+        "onboard_time": 1672661248,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420267,
+        "num": 420267,
+        "word": "安宥真LIZ李瑞确诊新冠",
+        "onboard_time": 1672658190,
+        "rank": 7,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 361094,
+        "num": 361094,
+        "word": "女子带英国老公回村过年杀猪",
+        "onboard_time": 1672656092,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300942,
+        "num": 300942,
+        "word": "31省份最低工资表",
+        "onboard_time": 1672655670,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1193619,
+        "num": 298406,
+        "word": "新还珠格格",
+        "onboard_time": 1672652189,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1040344,
+        "num": 293230,
+        "word": "胡鑫宇失踪母亲暴瘦60斤",
+        "onboard_time": 1672659690,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712492,
+        "num": 289207,
+        "word": "李现直播",
+        "onboard_time": 1672662509,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624745,
+        "num": 280606,
+        "word": "王一博跨年晚会脚受伤了",
+        "onboard_time": 1672657171,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369875,
+        "num": 278631,
+        "word": "江西高中生胡鑫宇失踪超80天",
+        "onboard_time": 1672659511,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401669,
+        "num": 270193,
+        "word": "女生收15万彩礼结婚时要加到20万",
+        "onboard_time": 1672650208,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335056,
+        "num": 266731,
+        "word": "所以只能玩起了手机",
+        "onboard_time": 1672662391,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263603,
+        "num": 263603,
+        "word": "女子发现男友真实身份时已借200万",
+        "onboard_time": 1672648528,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255828,
+        "num": 255828,
+        "word": "XBB是否会导致腹泻",
+        "onboard_time": 1672661248,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250104,
+        "num": 250104,
+        "word": "上海已测到XBB毒株",
+        "onboard_time": 1672627889,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469488,
+        "num": 248113,
+        "word": "明星刚出道时有多惊艳",
+        "onboard_time": 1672649068,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 404865,
+        "num": 235617,
+        "word": "武林外传拜年花絮",
+        "onboard_time": 1672662570,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357591,
+        "num": 224199,
+        "word": "粉丝给王俊凯对话加的字幕",
+        "onboard_time": 1672660830,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342277,
+        "num": 219492,
+        "word": "情侣吃自助拿多了把虾倒锅里逃跑",
+        "onboard_time": 1672636349,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261365,
+        "num": 206029,
+        "word": "河南一景区大量游客滞留山上喊退票",
+        "onboard_time": 1672654591,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 204740,
+        "num": 204740,
+        "word": "狼队输了",
+        "onboard_time": 1672661909,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200025,
+        "num": 200025,
+        "word": "警方称胡鑫宇或有厌学情绪自行出走",
+        "onboard_time": 1672649491,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 194599,
+        "num": 194599,
+        "word": "见过最离谱的火锅蘸料",
+        "onboard_time": 1672657590,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188036,
+        "num": 188036,
+        "word": "平时不理狗狗的后果",
+        "onboard_time": 1672662631,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183328,
+        "num": 183328,
+        "word": "顾客吃串服务员数签多算100根",
+        "onboard_time": 1672646548,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323589,
+        "num": 183172,
+        "word": "吴镇宇直播模仿张艺兴跳舞",
+        "onboard_time": 1672663890,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291288,
+        "num": 181165,
+        "word": "虞书欣妆容分享九宫格",
+        "onboard_time": 1672662509,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290187,
+        "num": 178757,
+        "word": "凯迪拉克车身贴AED抢救标志",
+        "onboard_time": 1672662210,
+        "rank": 32,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 284923,
+        "num": 178255,
+        "word": "浮图缘西蜀篇上大分",
+        "onboard_time": 1672663291,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247847,
+        "num": 175893,
+        "word": "程霄帮顾南亭擦手",
+        "onboard_time": 1672663651,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174934,
+        "num": 174934,
+        "word": "第一次见火车户型的房子",
+        "onboard_time": 1672663229,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 158221,
+        "num": 158221,
+        "word": "3万人现场欢迎C罗加盟",
+        "onboard_time": 1672653509,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154619,
+        "num": 154619,
+        "word": "重庆多家药店蒙脱石散一夜脱销",
+        "onboard_time": 1672650869,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144352,
+        "num": 144352,
+        "word": "金毛陪嫁到牧区帮主人牵马放牧",
+        "onboard_time": 1672655852,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132594,
+        "num": 132594,
+        "word": "元旦假期国内旅游收入265.17亿元",
+        "onboard_time": 1672660770,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 326061,
+        "num": 131079,
+        "word": "妈妈撒气将婴儿脸朝下扔地上",
+        "onboard_time": 1672647087,
+        "rank": 40,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 242966,
+        "num": 130801,
+        "word": "网友环球影城偶遇关晓彤",
+        "onboard_time": 1672655250,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220293,
+        "num": 130417,
+        "word": "王鹤棣双刀打戏",
+        "onboard_time": 1672663414,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129400,
+        "num": 129400,
+        "word": "新郎回应带新婚妻子给重症父亲磕头",
+        "onboard_time": 1672655492,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127989,
+        "num": 127989,
+        "word": "34岁宝妈本科毕业10年后考研",
+        "onboard_time": 1672645167,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 124953,
+        "num": 124953,
+        "word": "狗狗是懂享受的",
+        "onboard_time": 1672658492,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117625,
+        "num": 117625,
+        "word": "济南100岁新冠患者病愈出院",
+        "onboard_time": 1672652429,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114467,
+        "num": 114467,
+        "word": "阳康后还会二次感染XBB吗",
+        "onboard_time": 1672663829,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105655,
+        "num": 105655,
+        "word": "成都GG夺冠",
+        "onboard_time": 1672659751,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100760,
+        "num": 100760,
+        "word": "雪虎宝宝奶凶奶凶的叫声",
+        "onboard_time": 1672664010,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年看中国#"
+    }
+  }
+}

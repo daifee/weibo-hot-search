@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672662913885,
+  "endTime": 1672664028597,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -555,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1040344,
+      "num": 451917,
+      "word": "胡鑫宇失踪母亲暴瘦60斤",
+      "onboard_time": 1672659690,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1040095,
       "num": 1040095,
       "word": "xbb",
@@ -632,14 +640,6 @@
       "word": "姑娘不顾生理期跳冰湖救出老人",
       "onboard_time": 1672540594,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 926938,
-      "num": 451917,
-      "word": "胡鑫宇失踪母亲暴瘦60斤",
-      "onboard_time": 1672659690,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -747,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 816732,
+      "num": 816732,
+      "word": "世界唯一女性文字来自湖南小城",
+      "onboard_time": 1672660049,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 815085,
       "num": 815085,
       "word": "白鹿张凌赫GQ背影同框",
@@ -768,14 +776,6 @@
       "word": "N95有效防护时间为4到6小时",
       "onboard_time": 1672563748,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 801147,
-      "num": 801147,
-      "word": "世界唯一女性文字来自湖南小城",
-      "onboard_time": 1672660049,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -835,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 729821,
+      "num": 729821,
+      "word": "上海未发现BQ.1和XBB的本土传播",
+      "onboard_time": 1672660411,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 729039,
       "num": 729039,
       "word": "顾客吃串服务员数签多算100根",
@@ -883,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 712492,
+      "num": 289207,
+      "word": "李现直播",
+      "onboard_time": 1672662509,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 711718,
       "num": 396067,
       "word": "有一种友谊叫何炅谢娜",
@@ -905,14 +921,6 @@
       "onboard_time": 1672497717,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 697651,
-      "num": 697651,
-      "word": "上海未发现BQ.1和XBB的本土传播",
-      "onboard_time": 1672660411,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 687154,
@@ -1531,14 +1539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 445994,
-      "num": 274652,
-      "word": "李现直播",
-      "onboard_time": 1672662509,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 445533,
       "num": 445533,
       "word": "赵露思加奈那黄日莹神隐同框路透",
@@ -1689,6 +1689,14 @@
       "onboard_time": 1672548211,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404865,
+      "num": 235617,
+      "word": "武林外传拜年花絮",
+      "onboard_time": 1672662570,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 403576,
@@ -2027,6 +2035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 335056,
+      "num": 266731,
+      "word": "所以只能玩起了手机",
+      "onboard_time": 1672662391,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 332170,
       "num": 332170,
       "word": "黑暗荣耀",
@@ -2081,6 +2097,14 @@
       "onboard_time": 1672502747,
       "rank": 15,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 323589,
+      "num": 183172,
+      "word": "吴镇宇直播模仿张艺兴跳舞",
+      "onboard_time": 1672663890,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 321975,
@@ -2291,6 +2315,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 290187,
+      "num": 178757,
+      "word": "凯迪拉克车身贴AED抢救标志",
+      "onboard_time": 1672662210,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 289989,
       "num": 481932,
       "word": "和喜欢的人跨年是啥体验",
@@ -2353,6 +2385,14 @@
       "onboard_time": 1672588588,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284923,
+      "num": 178255,
+      "word": "浮图缘西蜀篇上大分",
+      "onboard_time": 1672663291,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 283134,
@@ -2627,6 +2667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255828,
+      "num": 255828,
+      "word": "XBB是否会导致腹泻",
+      "onboard_time": 1672661248,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255693,
       "num": 186768,
       "word": "任嘉伦邢菲武庚纪同框对视拉手路透",
@@ -2641,14 +2689,6 @@
       "onboard_time": 1672622667,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254996,
-      "num": 186713,
-      "word": "武林外传拜年花絮",
-      "onboard_time": 1672662570,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 254255,
@@ -2705,6 +2745,14 @@
       "onboard_time": 1672556189,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247847,
+      "num": 175893,
+      "word": "程霄帮顾南亭擦手",
+      "onboard_time": 1672663651,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 246455,
@@ -2769,14 +2817,6 @@
       "onboard_time": 1672582114,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 239247,
-      "num": 239247,
-      "word": "XBB是否会导致腹泻",
-      "onboard_time": 1672661248,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238947,
@@ -2961,6 +3001,14 @@
       "onboard_time": 1672547852,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220293,
+      "num": 130417,
+      "word": "王鹤棣双刀打戏",
+      "onboard_time": 1672663414,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 220074,
@@ -3395,14 +3443,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 190968,
-      "num": 181524,
-      "word": "所以只能玩起了手机",
-      "onboard_time": 1672662391,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190078,
       "num": 190078,
       "word": "为什么不那么热衷恋爱了",
@@ -3433,6 +3473,14 @@
       "onboard_time": 1672546472,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188036,
+      "num": 188036,
+      "word": "平时不理狗狗的后果",
+      "onboard_time": 1672662631,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 187796,
@@ -3635,6 +3683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174934,
+      "num": 174934,
+      "word": "第一次见火车户型的房子",
+      "onboard_time": 1672663229,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 173928,
       "num": 173928,
       "word": "将辛苦变为幸福的方法",
@@ -3819,14 +3875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156607,
-      "num": 156607,
-      "word": "凯迪拉克车身贴AED抢救标志",
-      "onboard_time": 1672662210,
-      "rank": 42,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 153998,
       "num": 153998,
       "word": "糖丸爷爷顾方舟逝世四周年",
@@ -3921,14 +3969,6 @@
       "onboard_time": 1672550731,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148415,
-      "num": 148415,
-      "word": "平时不理狗狗的后果",
-      "onboard_time": 1672662631,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 147894,
@@ -4395,6 +4435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114467,
+      "num": 114467,
+      "word": "阳康后还会二次感染XBB吗",
+      "onboard_time": 1672663829,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114161,
       "num": 412716,
       "word": "2023将迎来哪些奇妙的相遇",
@@ -4536,6 +4584,14 @@
       "word": "甘宇胖回来了",
       "onboard_time": 1672652851,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100760,
+      "num": 100760,
+      "word": "雪虎宝宝奶凶奶凶的叫声",
+      "onboard_time": 1672664010,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
