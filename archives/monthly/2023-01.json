@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672643793445,
+  "endTime": 1672644812366,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1379525,
+      "num": 1379525,
+      "word": "YG确认金智秀今年将发行solo专辑",
+      "onboard_time": 1672642766,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1368160,
       "num": 1077383,
       "word": "女子变阳求前夫照顾但拒绝复合",
@@ -336,14 +344,6 @@
       "word": "aespa开麦",
       "onboard_time": 1672503584,
       "rank": 41,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 1239627,
-      "num": 1239627,
-      "word": "YG确认金智秀今年将发行solo专辑",
-      "onboard_time": 1672642766,
-      "rank": 0,
       "category": "音乐"
     },
     {
@@ -835,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 644087,
+      "num": 644087,
+      "word": "女子买81元猪舌付8.1元还偷肉",
+      "onboard_time": 1672639947,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 636114,
       "num": 350011,
       "word": "EXOLoveShot最新舞台",
@@ -971,14 +979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 578771,
-      "num": 578771,
-      "word": "女子买81元猪舌付8.1元还偷肉",
-      "onboard_time": 1672639947,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 565547,
       "num": 565547,
       "word": "诺氟沙星是一种什么药",
@@ -1016,6 +1016,14 @@
       "word": "侯一民去世",
       "onboard_time": 1672623446,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548007,
+      "num": 240302,
+      "word": "益生菌",
+      "onboard_time": 1672642408,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1195,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472640,
+      "num": 472640,
+      "word": "阿凡达2票房达到回本线",
+      "onboard_time": 1672641987,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 471284,
       "num": 471284,
       "word": "女子阳性7天没下厨老公表现超赞",
@@ -1305,14 +1321,6 @@
       "onboard_time": 1672628788,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440711,
-      "num": 440711,
-      "word": "阿凡达2票房达到回本线",
-      "onboard_time": 1672641987,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 436939,
@@ -1947,14 +1955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289608,
-      "num": 240302,
-      "word": "益生菌",
-      "onboard_time": 1672642408,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288999,
       "num": 288999,
       "word": "原来还有小狗不会汪汪叫",
@@ -2299,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241922,
+      "num": 241922,
+      "word": "原来年味是可以穿出来的",
+      "onboard_time": 1672643247,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240092,
       "num": 1138575,
       "word": "2023年将有哪些大事发生",
@@ -2387,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232727,
+      "num": 232727,
+      "word": "这狗真的一点边界感都没有",
+      "onboard_time": 1672642047,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232633,
       "num": 449450,
       "word": "家属回应百岁老人感染13天后康复",
@@ -2419,11 +2435,11 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 224926,
-      "num": 224926,
-      "word": "这狗真的一点边界感都没有",
-      "onboard_time": 1672642047,
-      "rank": 24,
+      "raw_hot": 228979,
+      "num": 228979,
+      "word": "吃毒蘑菇后的第一视角",
+      "onboard_time": 1672643428,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -2545,6 +2561,14 @@
       "onboard_time": 1672532064,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211353,
+      "num": 211353,
+      "word": "蔡徐坤梦舞台导播视角",
+      "onboard_time": 1672644388,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 211243,
@@ -2809,6 +2833,14 @@
       "onboard_time": 1672579233,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195010,
+      "num": 195010,
+      "word": "胡可说家就是永远有一个人在等你",
+      "onboard_time": 1672644210,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 194987,
@@ -3163,14 +3195,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 161066,
-      "num": 161066,
-      "word": "原来年味是可以穿出来的",
-      "onboard_time": 1672643247,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159915,
       "num": 926232,
       "word": "泰山宝光开启2023",
@@ -3225,6 +3249,14 @@
       "onboard_time": 1672502330,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153778,
+      "num": 153778,
+      "word": "想见你的用心都藏在细节里",
+      "onboard_time": 1672644150,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 152554,
@@ -3419,6 +3451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138579,
+      "num": 138579,
+      "word": "狗子知道你这样背后说它吗",
+      "onboard_time": 1672643609,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138464,
       "num": 80315,
       "word": "王源NewBoy少年感",
@@ -3441,14 +3481,6 @@
       "onboard_time": 1672572209,
       "rank": 35,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 133822,
-      "num": 133822,
-      "word": "吃毒蘑菇后的第一视角",
-      "onboard_time": 1672643428,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 133411,
@@ -3529,14 +3561,6 @@
       "onboard_time": 1672532964,
       "rank": 37,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 127618,
-      "num": 127618,
-      "word": "狗子知道你这样背后说它吗",
-      "onboard_time": 1672643609,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 127550,

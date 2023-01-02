@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672643793445,
+  "endTime": 1672644812366,
   "band_list": [
     {
       "raw_hot": 2758634,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1379525,
+      "num": 1379525,
+      "word": "YG确认金智秀今年将发行solo专辑",
+      "onboard_time": 1672642766,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1368160,
       "num": 1077383,
       "word": "女子变阳求前夫照顾但拒绝复合",
@@ -49,14 +57,6 @@
       "onboard_time": 1672622667,
       "rank": 31,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1239627,
-      "num": 1239627,
-      "word": "YG确认金智秀今年将发行solo专辑",
-      "onboard_time": 1672642766,
-      "rank": 0,
-      "category": "音乐"
     },
     {
       "raw_hot": 1232892,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 644087,
+      "num": 644087,
+      "word": "女子买81元猪舌付8.1元还偷肉",
+      "onboard_time": 1672639947,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 639625,
       "num": 267140,
       "word": "蒙脱石散",
@@ -192,14 +200,6 @@
       "word": "蒙脱石散和XBB变异株有啥关系",
       "onboard_time": 1672572809,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 578771,
-      "num": 578771,
-      "word": "女子买81元猪舌付8.1元还偷肉",
-      "onboard_time": 1672639947,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -232,6 +232,14 @@
       "word": "侯一民去世",
       "onboard_time": 1672623446,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548007,
+      "num": 240302,
+      "word": "益生菌",
+      "onboard_time": 1672642408,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -289,6 +297,14 @@
       "onboard_time": 1672622785,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472640,
+      "num": 472640,
+      "word": "阿凡达2票房达到回本线",
+      "onboard_time": 1672641987,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 471284,
@@ -353,14 +369,6 @@
       "onboard_time": 1672628788,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440711,
-      "num": 440711,
-      "word": "阿凡达2票房达到回本线",
-      "onboard_time": 1672641987,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 431931,
@@ -587,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289608,
-      "num": 240302,
-      "word": "益生菌",
-      "onboard_time": 1672642408,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 287429,
       "num": 287429,
       "word": "专家称XBB.1.5毒株与其他株没区别",
@@ -715,6 +715,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 241922,
+      "num": 241922,
+      "word": "原来年味是可以穿出来的",
+      "onboard_time": 1672643247,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235600,
       "num": 235600,
       "word": "染色体新人LIN直播首秀",
@@ -739,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232727,
+      "num": 232727,
+      "word": "这狗真的一点边界感都没有",
+      "onboard_time": 1672642047,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232184,
       "num": 202346,
       "word": "步音楼主动亲了肖铎",
@@ -755,11 +771,11 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 224926,
-      "num": 224926,
-      "word": "这狗真的一点边界感都没有",
-      "onboard_time": 1672642047,
-      "rank": 24,
+      "raw_hot": 228979,
+      "num": 228979,
+      "word": "吃毒蘑菇后的第一视角",
+      "onboard_time": 1672643428,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -833,6 +849,14 @@
       "onboard_time": 1672634612,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211353,
+      "num": 211353,
+      "word": "蔡徐坤梦舞台导播视角",
+      "onboard_time": 1672644388,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 210938,
@@ -937,6 +961,14 @@
       "onboard_time": 1672623868,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195010,
+      "num": 195010,
+      "word": "胡可说家就是永远有一个人在等你",
+      "onboard_time": 1672644210,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 194987,
@@ -1107,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161066,
-      "num": 161066,
-      "word": "原来年味是可以穿出来的",
-      "onboard_time": 1672643247,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159346,
       "num": 152082,
       "word": "朱正廷演唱会哭了",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1672623204,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153778,
+      "num": 153778,
+      "word": "想见你的用心都藏在细节里",
+      "onboard_time": 1672644150,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 152554,
@@ -1219,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138579,
+      "num": 138579,
+      "word": "狗子知道你这样背后说它吗",
+      "onboard_time": 1672643609,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135759,
       "num": 135759,
       "word": "这届00后是懂备年货的",
@@ -1233,14 +1273,6 @@
       "onboard_time": 1672578813,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133822,
-      "num": 133822,
-      "word": "吃毒蘑菇后的第一视角",
-      "onboard_time": 1672643428,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 131492,
@@ -1289,14 +1321,6 @@
       "onboard_time": 1672618342,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 127618,
-      "num": 127618,
-      "word": "狗子知道你这样背后说它吗",
-      "onboard_time": 1672643609,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 125901,
