@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672641433758,
+  "endTime": 1672643793445,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 2079160,
-      "num": 742122,
+      "num": 765242,
       "word": "情侣吃自助拿多了把虾倒锅里逃跑",
       "onboard_time": 1672636349,
       "rank": 37,
@@ -336,6 +336,14 @@
       "word": "aespa开麦",
       "onboard_time": 1672503584,
       "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1239627,
+      "num": 1239627,
+      "word": "YG确认金智秀今年将发行solo专辑",
+      "onboard_time": 1672642766,
+      "rank": 0,
       "category": "音乐"
     },
     {
@@ -819,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 646856,
+      "num": 646856,
+      "word": "雪容融下线",
+      "onboard_time": 1672639350,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 636114,
       "num": 350011,
       "word": "EXOLoveShot最新舞台",
@@ -955,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 578771,
+      "num": 578771,
+      "word": "女子买81元猪舌付8.1元还偷肉",
+      "onboard_time": 1672639947,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565547,
       "num": 565547,
       "word": "诺氟沙星是一种什么药",
@@ -1017,14 +1041,6 @@
       "onboard_time": 1672546533,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 536586,
-      "num": 536586,
-      "word": "雪容融下线",
-      "onboard_time": 1672639350,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 530614,
@@ -1195,6 +1211,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 464833,
+      "num": 436612,
+      "word": "张艺兴公司练习生合照",
+      "onboard_time": 1672642949,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 455651,
       "num": 455651,
       "word": "巴黎主帅确认梅西明天归队",
@@ -1283,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440711,
+      "num": 440711,
+      "word": "阿凡达2票房达到回本线",
+      "onboard_time": 1672641987,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 436939,
       "num": 436939,
       "word": "中科院原副院长王佛松院士逝世",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1672633168,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427703,
+      "num": 427703,
+      "word": "妈妈带化疗孩子买帽子暖心老板直接送",
+      "onboard_time": 1672639528,
+      "rank": 27,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 426061,
@@ -1553,14 +1593,6 @@
       "onboard_time": 1672547492,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 355362,
-      "num": 355362,
-      "word": "妈妈带化疗孩子买帽子暖心老板直接送",
-      "onboard_time": 1672639528,
-      "rank": 27,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 352954,
@@ -1915,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289608,
+      "num": 240302,
+      "word": "益生菌",
+      "onboard_time": 1672642408,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288999,
       "num": 288999,
       "word": "原来还有小狗不会汪汪叫",
@@ -2081,14 +2121,6 @@
       "onboard_time": 1672559609,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268418,
-      "num": 268418,
-      "word": "女子买81元猪舌付8.1元还偷肉",
-      "onboard_time": 1672639947,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266447,
@@ -2323,6 +2355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234546,
+      "num": 234546,
+      "word": "谭松韵程霄英语口语教学花絮",
+      "onboard_time": 1672642467,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233444,
       "num": 233444,
       "word": "顾南亭的小心思要藏不住了",
@@ -2377,6 +2417,14 @@
       "onboard_time": 1672622486,
       "rank": 46,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 224926,
+      "num": 224926,
+      "word": "这狗真的一点边界感都没有",
+      "onboard_time": 1672642047,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 224057,
@@ -2441,6 +2489,14 @@
       "onboard_time": 1672562310,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 218483,
+      "num": 218483,
+      "word": "吉克隽逸把三星堆黄金面具搬上舞台",
+      "onboard_time": 1672640428,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 218264,
@@ -2561,6 +2617,14 @@
       "onboard_time": 1672583493,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207700,
+      "num": 207700,
+      "word": "刘亦菲李现新剧片场互相打手花絮",
+      "onboard_time": 1672642829,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 206769,
@@ -2768,6 +2832,14 @@
       "word": "跨年夜市民放飞气球苦了环卫工",
       "onboard_time": 1672558833,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193220,
+      "num": 193220,
+      "word": "男子进店被劝戴口罩反怼就不戴",
+      "onboard_time": 1672640548,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -3091,12 +3163,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 162514,
-      "num": 162514,
-      "word": "吉克隽逸把三星堆黄金面具搬上舞台",
-      "onboard_time": 1672640428,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 161066,
+      "num": 161066,
+      "word": "原来年味是可以穿出来的",
+      "onboard_time": 1672643247,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 159915,
@@ -3209,6 +3281,14 @@
       "onboard_time": 1672550731,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147843,
+      "num": 147843,
+      "word": "杨洋白衬衫拍摄花絮",
+      "onboard_time": 1672642347,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147373,
@@ -3363,12 +3443,36 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 133822,
+      "num": 133822,
+      "word": "吃毒蘑菇后的第一视角",
+      "onboard_time": 1672643428,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133411,
       "num": 425022,
       "word": "篮网vs黄蜂",
       "onboard_time": 1672538434,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131492,
+      "num": 131492,
+      "word": "它甚至还没看清楚就开始狗叫",
+      "onboard_time": 1672640969,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 131114,
+      "num": 131114,
+      "word": "许红豆踩到牛粪",
+      "onboard_time": 1672641749,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 129705,
@@ -3425,6 +3529,14 @@
       "onboard_time": 1672532964,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 127618,
+      "num": 127618,
+      "word": "狗子知道你这样背后说它吗",
+      "onboard_time": 1672643609,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 127550,
@@ -3491,14 +3603,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 118585,
-      "num": 118585,
-      "word": "它甚至还没看清楚就开始狗叫",
-      "onboard_time": 1672640969,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 118224,
       "num": 943658,
       "word": "一句话迎接2023",
@@ -3561,14 +3665,6 @@
       "onboard_time": 1672503467,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114173,
-      "num": 114173,
-      "word": "男子进店被劝戴口罩反怼就不戴",
-      "onboard_time": 1672640548,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114161,
@@ -4073,6 +4169,14 @@
       "onboard_time": 1672528036,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 35583,
+      "num": 149812,
+      "word": "天猫直播是懂年货氛围的",
+      "onboard_time": 1672642829,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 33922,

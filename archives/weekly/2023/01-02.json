@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672641433758,
+  "endTime": 1672643793445,
   "band_list": [
     {
       "raw_hot": 2758634,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2079160,
-      "num": 742122,
+      "num": 765242,
       "word": "情侣吃自助拿多了把虾倒锅里逃跑",
       "onboard_time": 1672636349,
       "rank": 37,
@@ -49,6 +49,14 @@
       "onboard_time": 1672622667,
       "rank": 31,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1239627,
+      "num": 1239627,
+      "word": "YG确认金智秀今年将发行solo专辑",
+      "onboard_time": 1672642766,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 1232892,
@@ -163,6 +171,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 646856,
+      "num": 646856,
+      "word": "雪容融下线",
+      "onboard_time": 1672639350,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 639625,
       "num": 267140,
       "word": "蒙脱石散",
@@ -176,6 +192,14 @@
       "word": "蒙脱石散和XBB变异株有啥关系",
       "onboard_time": 1672572809,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578771,
+      "num": 578771,
+      "word": "女子买81元猪舌付8.1元还偷肉",
+      "onboard_time": 1672639947,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -235,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536586,
-      "num": 536586,
-      "word": "雪容融下线",
-      "onboard_time": 1672639350,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 526085,
       "num": 526085,
       "word": "新冠为什么不能视为大号感冒",
@@ -281,6 +297,14 @@
       "onboard_time": 1672626569,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464833,
+      "num": 436612,
+      "word": "张艺兴公司练习生合照",
+      "onboard_time": 1672642949,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 463673,
@@ -331,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440711,
+      "num": 440711,
+      "word": "阿凡达2票房达到回本线",
+      "onboard_time": 1672641987,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 431931,
       "num": 431931,
       "word": "巴黎32场法甲不败战绩终结",
@@ -353,6 +385,14 @@
       "onboard_time": 1672633168,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427703,
+      "num": 427703,
+      "word": "妈妈带化疗孩子买帽子暖心老板直接送",
+      "onboard_time": 1672639528,
+      "rank": 27,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 410093,
@@ -385,14 +425,6 @@
       "onboard_time": 1672621105,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 355362,
-      "num": 355362,
-      "word": "妈妈带化疗孩子买帽子暖心老板直接送",
-      "onboard_time": 1672639528,
-      "rank": 27,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 346930,
@@ -555,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289608,
+      "num": 240302,
+      "word": "益生菌",
+      "onboard_time": 1672642408,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287429,
       "num": 287429,
       "word": "专家称XBB.1.5毒株与其他株没区别",
@@ -608,14 +648,6 @@
       "word": "江苏3胞胎虎宝降生2只为珍稀雪虎",
       "onboard_time": 1672626930,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268418,
-      "num": 268418,
-      "word": "女子买81元猪舌付8.1元还偷肉",
-      "onboard_time": 1672639947,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -691,6 +723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 234546,
+      "num": 234546,
+      "word": "谭松韵程霄英语口语教学花絮",
+      "onboard_time": 1672642467,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233444,
       "num": 233444,
       "word": "顾南亭的小心思要藏不住了",
@@ -715,6 +755,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 224926,
+      "num": 224926,
+      "word": "这狗真的一点边界感都没有",
+      "onboard_time": 1672642047,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224057,
       "num": 224057,
       "word": "男子拿下科目三跪地给考试车磕头",
@@ -729,6 +777,14 @@
       "onboard_time": 1672626629,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218483,
+      "num": 218483,
+      "word": "吉克隽逸把三星堆黄金面具搬上舞台",
+      "onboard_time": 1672640428,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 217466,
@@ -811,6 +867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207700,
+      "num": 207700,
+      "word": "刘亦菲李现新剧片场互相打手花絮",
+      "onboard_time": 1672642829,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207579,
       "num": 207579,
       "word": "XBB.1.5毒株是什么",
@@ -881,6 +945,14 @@
       "onboard_time": 1672628009,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193220,
+      "num": 193220,
+      "word": "男子进店被劝戴口罩反怼就不戴",
+      "onboard_time": 1672640548,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192047,
@@ -1035,12 +1107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162514,
-      "num": 162514,
-      "word": "吉克隽逸把三星堆黄金面具搬上舞台",
-      "onboard_time": 1672640428,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 161066,
+      "num": 161066,
+      "word": "原来年味是可以穿出来的",
+      "onboard_time": 1672643247,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 159346,
@@ -1081,6 +1153,14 @@
       "onboard_time": 1672637310,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147843,
+      "num": 147843,
+      "word": "杨洋白衬衫拍摄花絮",
+      "onboard_time": 1672642347,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147373,
@@ -1155,6 +1235,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133822,
+      "num": 133822,
+      "word": "吃毒蘑菇后的第一视角",
+      "onboard_time": 1672643428,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 131492,
+      "num": 131492,
+      "word": "它甚至还没看清楚就开始狗叫",
+      "onboard_time": 1672640969,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 131114,
+      "num": 131114,
+      "word": "许红豆踩到牛粪",
+      "onboard_time": 1672641749,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129696,
       "num": 129696,
       "word": "大熊猫看雪犹如糯米自己去裹糖霜",
@@ -1185,6 +1289,14 @@
       "onboard_time": 1672618342,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127618,
+      "num": 127618,
+      "word": "狗子知道你这样背后说它吗",
+      "onboard_time": 1672643609,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 125901,
@@ -1219,14 +1331,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 118585,
-      "num": 118585,
-      "word": "它甚至还没看清楚就开始狗叫",
-      "onboard_time": 1672640969,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 116186,
       "num": 116186,
       "word": "武林外传首播17周年",
@@ -1247,14 +1351,6 @@
       "num": 114776,
       "word": "还要多久才能熬过这段最艰难时光",
       "onboard_time": 1672630111,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114173,
-      "num": 114173,
-      "word": "男子进店被劝戴口罩反怼就不戴",
-      "onboard_time": 1672640548,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -1449,6 +1545,14 @@
       "onboard_time": 1672615577,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35583,
+      "num": 149812,
+      "word": "天猫直播是懂年货氛围的",
+      "onboard_time": 1672642829,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 27523,
