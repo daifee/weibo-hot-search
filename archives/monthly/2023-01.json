@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672668967156,
+  "endTime": 1672669997798,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -115,8 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2624913,
-      "num": 2624913,
+      "raw_hot": 2707325,
+      "num": 2707325,
       "word": "鹅鸭杀",
       "onboard_time": 1672667073,
       "rank": 0,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1960198,
+      "num": 1960198,
+      "word": "转阴后总觉得累是怎么回事",
+      "onboard_time": 1672664367,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1946822,
       "num": 501229,
       "word": "新还珠格格",
@@ -201,14 +209,6 @@
       "onboard_time": 1672504781,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1878978,
-      "num": 1878978,
-      "word": "转阴后总觉得累是怎么回事",
-      "onboard_time": 1672664367,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1857213,
@@ -707,6 +707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 896068,
+      "num": 896068,
+      "word": "杨幂微博一直敞开是为了不忘初心",
+      "onboard_time": 1672667553,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 878021,
       "num": 878021,
       "word": "妈妈掏出百万元存折催儿子结婚",
@@ -769,6 +777,14 @@
       "onboard_time": 1672506991,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 825861,
+      "num": 825861,
+      "word": "4岁女童被同村男子拐走6万卖掉",
+      "onboard_time": 1672667494,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 815085,
@@ -851,6 +867,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 751323,
+      "num": 368233,
+      "word": "王鹤棣陈钰琪未播吻戏",
+      "onboard_time": 1672668334,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 742757,
+      "num": 742757,
+      "word": "第一次见这么尴尬的跨年",
+      "onboard_time": 1672667553,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 741183,
       "num": 741183,
       "word": "水哥王昱珩官宣回归最强大脑",
@@ -905,14 +937,6 @@
       "onboard_time": 1672624707,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 723088,
-      "num": 361014,
-      "word": "王鹤棣陈钰琪未播吻戏",
-      "onboard_time": 1672668334,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 716449,
@@ -1017,14 +1041,6 @@
       "onboard_time": 1672541614,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 647699,
-      "num": 647699,
-      "word": "杨幂微博一直敞开是为了不忘初心",
-      "onboard_time": 1672667553,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 646856,
@@ -1273,14 +1289,6 @@
       "onboard_time": 1672623446,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 550602,
-      "num": 357292,
-      "word": "4岁女童被同村男子拐走6万卖掉",
-      "onboard_time": 1672667494,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 548007,
@@ -1755,20 +1763,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413064,
+      "num": 413064,
+      "word": "浮图缘",
+      "onboard_time": 1672615097,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411962,
       "num": 411962,
       "word": "陈楚生 声音",
       "onboard_time": 1672534649,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 411889,
-      "num": 404219,
-      "word": "浮图缘",
-      "onboard_time": 1672615097,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 410618,
@@ -1891,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393175,
+      "num": 393175,
+      "word": "阳康后还会二次感染XBB吗",
+      "onboard_time": 1672663829,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392438,
       "num": 392438,
       "word": "C罗获得新东家1亿欧签字费",
@@ -1979,14 +1995,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 365799,
-      "num": 365799,
-      "word": "第一次见这么尴尬的跨年",
-      "onboard_time": 1672667553,
-      "rank": 9,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 362111,
       "num": 362111,
       "word": "苏醒说人以群分",
@@ -2024,14 +2032,6 @@
       "word": "女子带男友回家父母准备几十道菜",
       "onboard_time": 1672502446,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356903,
-      "num": 356903,
-      "word": "阳康后还会二次感染XBB吗",
-      "onboard_time": 1672663829,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2345,6 +2345,14 @@
       "onboard_time": 1672552952,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 306403,
+      "num": 306403,
+      "word": "病毒感染并没有特效药",
+      "onboard_time": 1672667192,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304760,
@@ -2955,6 +2963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240734,
+      "num": 143573,
+      "word": "肖铎害羞",
+      "onboard_time": 1672669041,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240092,
       "num": 1138575,
       "word": "2023年将有哪些大事发生",
@@ -3120,14 +3136,6 @@
       "word": "男子拿下科目三跪地给考试车磕头",
       "onboard_time": 1672627168,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224005,
-      "num": 224005,
-      "word": "病毒感染并没有特效药",
-      "onboard_time": 1672667192,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -3659,6 +3667,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 187337,
+      "num": 187337,
+      "word": "一只狗可以有多欠",
+      "onboard_time": 1672667433,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 186399,
       "num": 258941,
       "word": "诺氟沙星可阻碍骨骼成长与发育",
@@ -3793,14 +3809,6 @@
       "onboard_time": 1672568249,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 176870,
-      "num": 176870,
-      "word": "一只狗可以有多欠",
-      "onboard_time": 1672667433,
-      "rank": 29,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 176429,
@@ -3995,6 +4003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162695,
+      "num": 162695,
+      "word": "当你摸狗时突然停止",
+      "onboard_time": 1672667853,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161646,
       "num": 161646,
       "word": "丈夫归家送妻子孩子1人1串糖葫芦",
@@ -4009,6 +4025,14 @@
       "onboard_time": 1672502747,
       "rank": 26,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 159667,
+      "num": 159667,
+      "word": "辽宁男篮vs吉林男篮",
+      "onboard_time": 1672666710,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 159346,
@@ -4043,14 +4067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155158,
-      "num": 155158,
-      "word": "辽宁男篮vs吉林男篮",
-      "onboard_time": 1672666710,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153998,
       "num": 153998,
       "word": "糖丸爷爷顾方舟逝世四周年",
@@ -4073,6 +4089,14 @@
       "onboard_time": 1672644150,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152745,
+      "num": 152745,
+      "word": "辽宁男篮加时战胜吉林男篮",
+      "onboard_time": 1672669712,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 152554,
@@ -4379,14 +4403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 134084,
-      "num": 134084,
-      "word": "当你摸狗时突然停止",
-      "onboard_time": 1672667853,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 133910,
       "num": 133910,
       "word": "不同人眼中的年货天花板",
@@ -4691,6 +4707,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 109768,
+      "num": 142554,
+      "word": "爷爷奶奶烧竹沥水为孙女止咳",
+      "onboard_time": 1672669414,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109472,
       "num": 109472,
       "word": "王者新赛季明日上线",
@@ -4803,6 +4827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100040,
+      "num": 142104,
+      "word": "宠物医院回应用店内机器给人拍片",
+      "onboard_time": 1672669113,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99431,
       "num": 99431,
       "word": "肖铎给步音楼擦嘴",
@@ -4905,6 +4937,14 @@
       "onboard_time": 1672487926,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 92428,
+      "num": 141716,
+      "word": "水银温度计打碎了这样处理",
+      "onboard_time": 1672669952,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91931,

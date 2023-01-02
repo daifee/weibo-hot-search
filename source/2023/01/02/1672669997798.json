@@ -1,0 +1,410 @@
+{
+  "runTime": 1672669997798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2707325,
+        "num": 2707325,
+        "word": "鹅鸭杀",
+        "onboard_time": 1672667073,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1960198,
+        "num": 1960198,
+        "word": "转阴后总觉得累是怎么回事",
+        "onboard_time": 1672664367,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361999,
+        "num": 907182,
+        "word": "什么环境下需要佩戴N95口罩",
+        "onboard_time": 1672665212,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 896068,
+        "num": 896068,
+        "word": "杨幂微博一直敞开是为了不忘初心",
+        "onboard_time": 1672667553,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 825861,
+        "num": 825861,
+        "word": "4岁女童被同村男子拐走6万卖掉",
+        "onboard_time": 1672667494,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 742757,
+        "num": 742757,
+        "word": "第一次见这么尴尬的跨年",
+        "onboard_time": 1672667553,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 581841,
+        "num": 581841,
+        "word": "专家称不至于三个月就经历一波疫情",
+        "onboard_time": 1672653092,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814091,
+        "num": 539032,
+        "word": "世界唯一女性文字来自湖南小城",
+        "onboard_time": 1672660049,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413064,
+        "num": 413064,
+        "word": "浮图缘",
+        "onboard_time": 1672665212,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393175,
+        "num": 393175,
+        "word": "阳康后还会二次感染XBB吗",
+        "onboard_time": 1672663829,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861110,
+        "num": 382623,
+        "word": "新还珠格格",
+        "onboard_time": 1672652189,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 751323,
+        "num": 368233,
+        "word": "王鹤棣陈钰琪未播吻戏",
+        "onboard_time": 1672668334,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 710113,
+        "num": 340380,
+        "word": "吴镇宇直播模仿张艺兴跳舞",
+        "onboard_time": 1672663890,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675835,
+        "num": 321711,
+        "word": "李飞终于舍得花钱了",
+        "onboard_time": 1672658430,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 306403,
+        "num": 306403,
+        "word": "病毒感染并没有特效药",
+        "onboard_time": 1672667192,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266779,
+        "num": 266779,
+        "word": "胡鑫宇家属回应和警方会面",
+        "onboard_time": 1672664733,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265732,
+        "num": 265732,
+        "word": "第一次见火车户型的房子",
+        "onboard_time": 1672663229,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 237111,
+        "num": 237111,
+        "word": "排骨焖饭有多方便",
+        "onboard_time": 1672664311,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 233217,
+        "num": 233217,
+        "word": "凯迪拉克车身贴AED抢救标志",
+        "onboard_time": 1672662210,
+        "rank": 18,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 226941,
+        "num": 226941,
+        "word": "转阴后5个动作帮你恢复体力",
+        "onboard_time": 1672666893,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590781,
+        "num": 221514,
+        "word": "张云雷获年度人气歌手奖",
+        "onboard_time": 1672667612,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 428881,
+        "num": 217487,
+        "word": "王栎鑫说棣棣的好友是即将要拉黑的",
+        "onboard_time": 1672668093,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403935,
+        "num": 214331,
+        "word": "李现直播",
+        "onboard_time": 1672662509,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358445,
+        "num": 207346,
+        "word": "女生收15万彩礼结婚时要加到20万",
+        "onboard_time": 1672650208,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204192,
+        "num": 204192,
+        "word": "所以只能玩起了手机",
+        "onboard_time": 1672662391,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188985,
+        "num": 188985,
+        "word": "河南一景区大量游客滞留山上喊退票",
+        "onboard_time": 1672654591,
+        "rank": 25,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 187337,
+        "num": 187337,
+        "word": "一只狗可以有多欠",
+        "onboard_time": 1672667433,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 175810,
+        "num": 175810,
+        "word": "31省份最低工资表",
+        "onboard_time": 1672655670,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 162695,
+        "num": 162695,
+        "word": "当你摸狗时突然停止",
+        "onboard_time": 1672667853,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160245,
+        "num": 160245,
+        "word": "XBB是否会导致腹泻",
+        "onboard_time": 1672661248,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364996,
+        "num": 160194,
+        "word": "王一博跨年晚会脚受伤了",
+        "onboard_time": 1672657171,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303116,
+        "num": 159999,
+        "word": "谢娜分享看张杰跨年演唱会reaction",
+        "onboard_time": 1672666834,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291120,
+        "num": 159827,
+        "word": "明星刚出道时有多惊艳",
+        "onboard_time": 1672649068,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273260,
+        "num": 159709,
+        "word": "伪装者铁三角接力上新剧",
+        "onboard_time": 1672661248,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159667,
+        "num": 159667,
+        "word": "辽宁男篮vs吉林男篮",
+        "onboard_time": 1672666710,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152745,
+        "num": 152745,
+        "word": "辽宁男篮加时战胜吉林男篮",
+        "onboard_time": 1672669712,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149858,
+        "num": 149858,
+        "word": "女子带英国老公回村过年杀猪",
+        "onboard_time": 1672656092,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144303,
+        "num": 144303,
+        "word": "女子发现男友真实身份时已借200万",
+        "onboard_time": 1672648528,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1031025,
+        "num": 144278,
+        "word": "胡鑫宇失踪母亲暴瘦60斤",
+        "onboard_time": 1672659690,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123848,
+        "num": 143963,
+        "word": "江西高中生胡鑫宇失踪超80天",
+        "onboard_time": 1672659511,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241503,
+        "num": 143813,
+        "word": "央视综艺开门大吉",
+        "onboard_time": 1672666292,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240734,
+        "num": 143573,
+        "word": "肖铎害羞",
+        "onboard_time": 1672669041,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115424,
+        "num": 143409,
+        "word": "3万人现场欢迎C罗加盟",
+        "onboard_time": 1672653509,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111248,
+        "num": 143105,
+        "word": "顾客吃串服务员数签多算100根",
+        "onboard_time": 1672646548,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190938,
+        "num": 142789,
+        "word": "上海未发现BQ.1和XBB的本土传播",
+        "onboard_time": 1672660411,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109768,
+        "num": 142554,
+        "word": "爷爷奶奶烧竹沥水为孙女止咳",
+        "onboard_time": 1672669414,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105165,
+        "num": 142331,
+        "word": "狼队输了",
+        "onboard_time": 1672661909,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100040,
+        "num": 142104,
+        "word": "宠物医院回应用店内机器给人拍片",
+        "onboard_time": 1672669113,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163843,
+        "num": 141993,
+        "word": "上海已测到XBB毒株",
+        "onboard_time": 1672627889,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92428,
+        "num": 141716,
+        "word": "水银温度计打碎了这样处理",
+        "onboard_time": 1672669952,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年看中国#"
+    }
+  }
+}
