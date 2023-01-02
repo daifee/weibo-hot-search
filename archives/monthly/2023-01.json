@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672679743241,
+  "endTime": 1672680810354,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -4356,7 +4356,7 @@
     },
     {
       "raw_hot": 149743,
-      "num": 98206,
+      "num": 126234,
       "word": "Danielle金发双马尾造型",
       "onboard_time": 1672677684,
       "rank": 40,
@@ -4932,7 +4932,7 @@
     },
     {
       "raw_hot": 110330,
-      "num": 105441,
+      "num": 109430,
       "word": "贵州牛肉自助的价格是真实存在的吗",
       "onboard_time": 1672673790,
       "rank": 47,
@@ -4985,6 +4985,14 @@
       "onboard_time": 1672537113,
       "rank": 43,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 105817,
+      "num": 105817,
+      "word": "专家称临床上绝大多数人都是轻症",
+      "onboard_time": 1672678282,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105755,
@@ -5291,14 +5299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71402,
-      "num": 71402,
-      "word": "专家称临床上绝大多数人都是轻症",
-      "onboard_time": 1672678282,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68205,
       "num": 66266,
       "word": "Twins的状态我是服气的",
@@ -5401,6 +5401,14 @@
       "onboard_time": 1672598355,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 38622,
+      "num": 40816,
+      "word": "张镇麟24分14篮板",
+      "onboard_time": 1672679779,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 37435,
