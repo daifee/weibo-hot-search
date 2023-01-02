@@ -1,10 +1,10 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672629586069,
+  "endTime": 1672630434696,
   "band_list": [
     {
-      "raw_hot": 1865019,
-      "num": 1865019,
+      "raw_hot": 2439296,
+      "num": 2439296,
       "word": "上海已测到XBB毒株",
       "onboard_time": 1672627889,
       "rank": 0,
@@ -35,8 +35,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1225619,
-      "num": 1225619,
+      "raw_hot": 1232892,
+      "num": 1232892,
       "word": "抗原检测试剂遭甩卖",
       "onboard_time": 1672627408,
       "rank": 36,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1160486,
-      "num": 439534,
+      "num": 477823,
       "word": "专家回应人们感觉老人去世比往年多",
       "onboard_time": 1672621766,
       "rank": 10,
@@ -83,8 +83,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 799424,
-      "num": 438944,
+      "raw_hot": 871899,
+      "num": 871899,
       "word": "妈妈掏出百万元存折催儿子结婚",
       "onboard_time": 1672627708,
       "rank": 49,
@@ -99,20 +99,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 741183,
+      "num": 741183,
+      "word": "水哥王昱珩官宣回归最强大脑",
+      "onboard_time": 1672628068,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 723398,
       "num": 723398,
       "word": "女子用紫外线灯消毒灼伤全家眼睛",
       "onboard_time": 1672624707,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 708125,
-      "num": 708125,
-      "word": "水哥王昱珩官宣回归最强大脑",
-      "onboard_time": 1672628068,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 679943,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 639625,
-      "num": 215345,
+      "num": 225358,
       "word": "蒙脱石散",
       "onboard_time": 1672624887,
       "rank": 30,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471284,
+      "num": 471284,
+      "word": "女子阳性7天没下厨老公表现超赞",
+      "onboard_time": 1672626569,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463673,
       "num": 463673,
       "word": "宋慧乔新剧豆瓣开分8.7分",
@@ -187,20 +195,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 452032,
+      "num": 452032,
+      "word": "郭麒麟官宣加盟最强大脑10",
+      "onboard_time": 1672628249,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442858,
       "num": 296971,
       "word": "吴磊扯工牌",
       "onboard_time": 1672583074,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 439750,
-      "num": 439750,
-      "word": "郭麒麟官宣加盟最强大脑10",
-      "onboard_time": 1672628249,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 431931,
@@ -219,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411757,
+      "num": 411757,
+      "word": "卫健委回应还要多久熬过艰难时光",
+      "onboard_time": 1672628788,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410093,
       "num": 410093,
       "word": "2023有个神奇的数字23",
@@ -235,11 +251,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 402153,
-      "num": 402153,
-      "word": "女子阳性7天没下厨老公表现超赞",
-      "onboard_time": 1672626569,
-      "rank": 35,
+      "raw_hot": 387558,
+      "num": 387558,
+      "word": "新冠为什么不能视为大号感冒",
+      "onboard_time": 1672628908,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -347,12 +363,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303562,
+      "num": 303562,
+      "word": "杨幂跨年候场视频",
+      "onboard_time": 1672625248,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300421,
       "num": 250851,
       "word": "吴宣仪状态",
       "onboard_time": 1672578155,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 287429,
+      "num": 287429,
+      "word": "专家称XBB.1.5毒株与其他株没区别",
+      "onboard_time": 1672627469,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287281,
@@ -387,16 +419,8 @@
       "category": "动漫,网红"
     },
     {
-      "raw_hot": 276438,
-      "num": 276438,
-      "word": "杨幂跨年候场视频",
-      "onboard_time": 1672625248,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 271896,
-      "num": 271896,
+      "raw_hot": 272703,
+      "num": 272703,
       "word": "江苏3胞胎虎宝降生2只为珍稀雪虎",
       "onboard_time": 1672626930,
       "rank": 49,
@@ -451,20 +475,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 226544,
+      "num": 226544,
+      "word": "宋佳新剧疯批人设",
+      "onboard_time": 1672629567,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 224057,
+      "num": 224057,
+      "word": "男子拿下科目三跪地给考试车磕头",
+      "onboard_time": 1672627168,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223744,
       "num": 223744,
       "word": "去有风的地方爱情观",
       "onboard_time": 1672626629,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 219330,
-      "num": 219330,
-      "word": "专家称XBB.1.5毒株与其他株没区别",
-      "onboard_time": 1672627469,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217466,
@@ -480,14 +512,6 @@
       "word": "女儿悄悄返家爸爸满眼是光",
       "onboard_time": 1672625309,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214629,
-      "num": 214629,
-      "word": "男子拿下科目三跪地给考试车磕头",
-      "onboard_time": 1672627168,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -563,20 +587,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198293,
-      "num": 198293,
-      "word": "卫健委回应还要多久熬过艰难时光",
-      "onboard_time": 1672628788,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196506,
       "num": 196506,
       "word": "有三亚旅游团恢复到3年前同期水平",
       "onboard_time": 1672619483,
       "rank": 23,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 196453,
+      "num": 196453,
+      "word": "女子一晚捡烟花纸皮920斤卖552元",
+      "onboard_time": 1672629868,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195737,
@@ -657,14 +681,6 @@
       "onboard_time": 1672586192,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170601,
-      "num": 170601,
-      "word": "新冠为什么不能视为大号感冒",
-      "onboard_time": 1672628908,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168911,
@@ -843,12 +859,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117165,
+      "num": 117165,
+      "word": "过年最好不要弄这种发型",
+      "onboard_time": 1672630349,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 116186,
+      "num": 116186,
+      "word": "武林外传首播17周年",
+      "onboard_time": 1672630409,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115888,
       "num": 115888,
       "word": "热刺vs阿斯顿维拉",
       "onboard_time": 1672587327,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114776,
+      "num": 114776,
+      "word": "还要多久才能熬过这段最艰难时光",
+      "onboard_time": 1672630111,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114150,
@@ -873,14 +913,6 @@
       "onboard_time": 1672618400,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107976,
-      "num": 107976,
-      "word": "宋佳新剧疯批人设",
-      "onboard_time": 1672629567,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 105665,
@@ -1049,6 +1081,14 @@
       "onboard_time": 1672601652,
       "rank": 24,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 6382,
+      "num": 1052678,
+      "word": "卫星视角看祖国壮美河山",
+      "onboard_time": 1672630409,
+      "rank": 2,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
