@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672697818604,
+  "endTime": 1672698798975,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -4995,6 +4995,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 107237,
+      "num": 45893,
+      "word": "夫妻出车祸有惊无险现场拍照留念",
+      "onboard_time": 1672694231,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105755,
       "num": 955905,
       "word": "你好2023",
@@ -5299,14 +5307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73885,
-      "num": 31733,
-      "word": "夫妻出车祸有惊无险现场拍照留念",
-      "onboard_time": 1672694231,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68205,
       "num": 66266,
       "word": "Twins的状态我是服气的",
@@ -5329,6 +5329,14 @@
       "onboard_time": 1672630409,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 64701,
+      "num": 44021,
+      "word": "放假回家行李箱躺地上被妈妈嫌弃",
+      "onboard_time": 1672696451,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62853,
@@ -5403,19 +5411,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40889,
+      "num": 40889,
+      "word": "中学生湖边烧烤半个身子陷入淤泥",
+      "onboard_time": 1672685653,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40669,
       "num": 163339,
       "word": "许下2023第一个心愿",
       "onboard_time": 1672563630,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39152,
-      "num": 31217,
-      "word": "中学生湖边烧烤半个身子陷入淤泥",
-      "onboard_time": 1672685653,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -5491,6 +5499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30638,
+      "num": 30638,
+      "word": "2023上班第一天",
+      "onboard_time": 1672696871,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29896,
       "num": 66633,
       "word": "这狗还能感觉到尴尬",
@@ -5499,11 +5515,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 29389,
-      "num": 29389,
-      "word": "放假回家行李箱躺地上被妈妈嫌弃",
-      "onboard_time": 1672696451,
-      "rank": 18,
+      "raw_hot": 29709,
+      "num": 29709,
+      "word": "别人是来聚餐的社牛是来办席的",
+      "onboard_time": 1672694351,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -5512,14 +5528,6 @@
       "word": "卖菜农户夜晚在隧道内过夜",
       "onboard_time": 1672689552,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28161,
-      "num": 28161,
-      "word": "别人是来聚餐的社牛是来办席的",
-      "onboard_time": 1672694351,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -5553,14 +5561,6 @@
       "onboard_time": 1672664431,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 18802,
-      "num": 18802,
-      "word": "2023上班第一天",
-      "onboard_time": 1672696871,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15166,

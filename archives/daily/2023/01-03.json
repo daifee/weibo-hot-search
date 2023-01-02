@@ -1,6 +1,6 @@
 {
   "startTime": 1672676687155,
-  "endTime": 1672697818604,
+  "endTime": 1672698798975,
   "band_list": [
     {
       "raw_hot": 828093,
@@ -347,6 +347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 107237,
+      "num": 45893,
+      "word": "夫妻出车祸有惊无险现场拍照留念",
+      "onboard_time": 1672694231,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105307,
       "num": 105307,
       "word": "当你摸狗时突然停止",
@@ -435,19 +443,19 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 73885,
-      "num": 31733,
-      "word": "夫妻出车祸有惊无险现场拍照留念",
-      "onboard_time": 1672694231,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69100,
       "num": 69100,
       "word": "女子带英国老公回村过年杀猪",
       "onboard_time": 1672656092,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64701,
+      "num": 44021,
+      "word": "放假回家行李箱躺地上被妈妈嫌弃",
+      "onboard_time": 1672696451,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -467,8 +475,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 39152,
-      "num": 31217,
+      "raw_hot": 40889,
+      "num": 40889,
       "word": "中学生湖边烧烤半个身子陷入淤泥",
       "onboard_time": 1672685653,
       "rank": 37,
@@ -491,11 +499,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 29389,
-      "num": 29389,
-      "word": "放假回家行李箱躺地上被妈妈嫌弃",
-      "onboard_time": 1672696451,
-      "rank": 18,
+      "raw_hot": 30638,
+      "num": 30638,
+      "word": "2023上班第一天",
+      "onboard_time": 1672696871,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29709,
+      "num": 29709,
+      "word": "别人是来聚餐的社牛是来办席的",
+      "onboard_time": 1672694351,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -507,28 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28161,
-      "num": 28161,
-      "word": "别人是来聚餐的社牛是来办席的",
-      "onboard_time": 1672694351,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19468,
       "num": 19468,
       "word": "Newjeans回归MV",
       "onboard_time": 1672651710,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 18802,
-      "num": 18802,
-      "word": "2023上班第一天",
-      "onboard_time": 1672696871,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10791,
