@@ -1,0 +1,410 @@
+{
+  "runTime": 1672652018843,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2124535,
+        "num": 2124535,
+        "word": "警方称胡鑫宇或有厌学情绪自行出走",
+        "onboard_time": 1672649491,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1406494,
+        "num": 1406494,
+        "word": "Newjeans回归MV",
+        "onboard_time": 1672651710,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28098,
+        "num": 1189884,
+        "word": "卫星视角看祖国壮美河山",
+        "onboard_time": 1672630409,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1165193,
+        "num": 1165193,
+        "word": "情侣吃自助拿多了把虾倒锅里逃跑",
+        "onboard_time": 1672636349,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791295,
+        "num": 791295,
+        "word": "34岁宝妈本科毕业10年后考研",
+        "onboard_time": 1672645167,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 742765,
+        "num": 742765,
+        "word": "上海已测到XBB毒株",
+        "onboard_time": 1672627889,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673678,
+        "num": 673678,
+        "word": "顾客吃串服务员数签多算100根",
+        "onboard_time": 1672646548,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669445,
+        "num": 669445,
+        "word": "街舞导演说王一博真男儿言出必行",
+        "onboard_time": 1672650087,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660166,
+        "num": 660166,
+        "word": "女子发现男友真实身份时已借200万",
+        "onboard_time": 1672648528,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598555,
+        "num": 598555,
+        "word": "女生收15万彩礼结婚时要加到20万",
+        "onboard_time": 1672650208,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1059533,
+        "num": 598403,
+        "word": "妈妈撒气将婴儿脸朝下扔地上",
+        "onboard_time": 1672647087,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 594526,
+        "num": 594526,
+        "word": "明星刚出道时有多惊艳",
+        "onboard_time": 1672649068,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 458096,
+        "num": 458096,
+        "word": "YG确认金智秀今年将发行solo专辑",
+        "onboard_time": 1672642766,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 453295,
+        "num": 453295,
+        "word": "感染新冠后为什么会脱发",
+        "onboard_time": 1672646008,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362111,
+        "num": 362111,
+        "word": "苏醒说人以群分",
+        "onboard_time": 1672650149,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345630,
+        "num": 345630,
+        "word": "今年首尔歌谣大赏有望在中国播出",
+        "onboard_time": 1672650149,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 297131,
+        "num": 297131,
+        "word": "卧龙凤雏的两只猫咪",
+        "onboard_time": 1672649249,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287775,
+        "num": 287775,
+        "word": "急性传染高峰之后的两周是最艰难的",
+        "onboard_time": 1672636650,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258455,
+        "num": 258455,
+        "word": "专家说感染新冠后脱发不是后遗症",
+        "onboard_time": 1672649430,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231057,
+        "num": 231057,
+        "word": "女生相亲遇疫情与对象同居后领证",
+        "onboard_time": 1672648049,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1507617,
+        "num": 230026,
+        "word": "网红灰太狼的羊自曝已婚生子曾被家暴",
+        "onboard_time": 1672646489,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 293361,
+        "num": 225730,
+        "word": "蒙脱石散",
+        "onboard_time": 1672624887,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255944,
+        "num": 220642,
+        "word": "蔡徐坤晒湿发对镜自拍",
+        "onboard_time": 1672645348,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245576,
+        "num": 216848,
+        "word": "罗渽民给粉丝线上看诊",
+        "onboard_time": 1672649128,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214179,
+        "num": 214179,
+        "word": "雪容融下线",
+        "onboard_time": 1672639350,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242580,
+        "num": 211634,
+        "word": "为什么喜欢梁洁演的叶时蓝",
+        "onboard_time": 1672647809,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193745,
+        "num": 193745,
+        "word": "抗原检测试剂遭甩卖",
+        "onboard_time": 1672627408,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192156,
+        "num": 192156,
+        "word": "益生菌",
+        "onboard_time": 1672642408,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171547,
+        "num": 171547,
+        "word": "胡福明去世",
+        "onboard_time": 1672635329,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171009,
+        "num": 171009,
+        "word": "毕业后也不要放弃学习的习惯",
+        "onboard_time": 1672646727,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231290,
+        "num": 170002,
+        "word": "吴磊2023央视春晚彩排内场图",
+        "onboard_time": 1672647689,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200430,
+        "num": 159953,
+        "word": "你身边存在女生规则吗",
+        "onboard_time": 1672651528,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185807,
+        "num": 156767,
+        "word": "阿凡达2票房达到回本线",
+        "onboard_time": 1672641987,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149710,
+        "num": 149710,
+        "word": "女子买81元猪舌付8.1元还偷肉",
+        "onboard_time": 1672639947,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145797,
+        "num": 145797,
+        "word": "二次感染新冠是什么体验",
+        "onboard_time": 1672631249,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144681,
+        "num": 144681,
+        "word": "村民组团开车偷光几百亩白菜",
+        "onboard_time": 1672646125,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 138893,
+        "num": 138893,
+        "word": "为什么不那么热衷恋爱了",
+        "onboard_time": 1672645348,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134231,
+        "num": 134231,
+        "word": "女子花2700修热水器成本只有13元",
+        "onboard_time": 1672636948,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125232,
+        "num": 125232,
+        "word": "重庆多家药店蒙脱石散一夜脱销",
+        "onboard_time": 1672650869,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116970,
+        "num": 116970,
+        "word": "新冠为什么不能视为大号感冒",
+        "onboard_time": 1672628908,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181111,
+        "num": 115607,
+        "word": "王鹤棣陈钰琪浮图缘豆瓣评分7.3",
+        "onboard_time": 1672647387,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157650,
+        "num": 115234,
+        "word": "张艺兴公司练习生合照",
+        "onboard_time": 1672642949,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112898,
+        "num": 112898,
+        "word": "吃毒蘑菇后的第一视角",
+        "onboard_time": 1672643428,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111127,
+        "num": 111127,
+        "word": "rita新年cos",
+        "onboard_time": 1672645768,
+        "rank": 43,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 106464,
+        "num": 106464,
+        "word": "广东男篮vs同曦男篮",
+        "onboard_time": 1672649908,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104497,
+        "num": 104497,
+        "word": "这狗真的一点边界感都没有",
+        "onboard_time": 1672642047,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104024,
+        "num": 104024,
+        "word": "妈妈带化疗孩子买帽子暖心老板直接送",
+        "onboard_time": 1672639528,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 101124,
+        "num": 101124,
+        "word": "王者海月新皮肤",
+        "onboard_time": 1672633951,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100480,
+        "num": 100480,
+        "word": "研究称你胖可能是肠道细菌的错",
+        "onboard_time": 1672651829,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 96533,
+        "num": 96533,
+        "word": "丈夫归家送妻子孩子1人1串糖葫芦",
+        "onboard_time": 1672650929,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年看中国#"
+    }
+  }
+}
