@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672672730497,
+  "endTime": 1672673611054,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -643,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 968593,
+      "num": 319748,
+      "word": "杨迪直播",
+      "onboard_time": 1672672895,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 964442,
       "num": 852977,
       "word": "周也红毯生图",
@@ -1164,7 +1172,7 @@
     },
     {
       "raw_hot": 591899,
-      "num": 310029,
+      "num": 317544,
       "word": "张云雷获年度人气歌手奖",
       "onboard_time": 1672667612,
       "rank": 20,
@@ -2003,6 +2011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 365018,
+      "num": 186825,
+      "word": "鑫仔 戏悟",
+      "onboard_time": 1672672234,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363315,
       "num": 262410,
       "word": "李现直播说你们要相信我的眼光",
@@ -2025,6 +2041,14 @@
       "onboard_time": 1672556970,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361352,
+      "num": 317154,
+      "word": "47岁父亲考研18岁女儿受激励备考",
+      "onboard_time": 1672670433,
+      "rank": 17,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 359558,
@@ -2081,6 +2105,14 @@
       "onboard_time": 1672662210,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 353542,
+      "num": 353542,
+      "word": "水银温度计打碎了这样处理",
+      "onboard_time": 1672669952,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352954,
@@ -2267,14 +2299,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 323425,
-      "num": 294130,
-      "word": "47岁父亲考研18岁女儿受激励备考",
-      "onboard_time": 1672670433,
-      "rank": 17,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 321975,
       "num": 321975,
       "word": "专家称蒙脱石散并非止泻首选",
@@ -2307,20 +2331,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319782,
+      "num": 319782,
+      "word": "被一个蜡烛丑到了",
+      "onboard_time": 1672670192,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 318857,
       "num": 318857,
       "word": "时代少年团新年祝福手势",
       "onboard_time": 1672542514,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317510,
-      "num": 317510,
-      "word": "水银温度计打碎了这样处理",
-      "onboard_time": 1672669952,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317477,
@@ -2337,14 +2361,6 @@
       "onboard_time": 1672539393,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316705,
-      "num": 316705,
-      "word": "被一个蜡烛丑到了",
-      "onboard_time": 1672670192,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 315914,
@@ -2465,6 +2481,14 @@
       "onboard_time": 1672636710,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298289,
+      "num": 298289,
+      "word": "C罗微笑说利雅得见",
+      "onboard_time": 1672671333,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 296967,
@@ -2601,14 +2625,6 @@
       "onboard_time": 1672615276,
       "rank": 5,
       "category": "动漫,网红"
-    },
-    {
-      "raw_hot": 281658,
-      "num": 281658,
-      "word": "C罗微笑说利雅得见",
-      "onboard_time": 1672671333,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 281534,
@@ -2979,12 +2995,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 245641,
-      "num": 186825,
-      "word": "鑫仔 戏悟",
-      "onboard_time": 1672672234,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 246273,
+      "num": 131971,
+      "word": "TVB对话王嘉尔",
+      "onboard_time": 1672673134,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 243854,
@@ -3169,6 +3185,14 @@
       "onboard_time": 1672661909,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231265,
+      "num": 231265,
+      "word": "劳斯莱斯接亲卡道牙进退两难",
+      "onboard_time": 1672671097,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230987,
@@ -3515,6 +3539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202732,
+      "num": 202732,
+      "word": "鹅鸭杀回应服务器崩了",
+      "onboard_time": 1672672712,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202073,
       "num": 202073,
       "word": "占地40个足球场超级显微镜在看什么",
@@ -3601,14 +3633,6 @@
       "onboard_time": 1672564048,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 196729,
-      "num": 196729,
-      "word": "劳斯莱斯接亲卡道牙进退两难",
-      "onboard_time": 1672671097,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196506,
@@ -4299,6 +4323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146084,
+      "num": 146084,
+      "word": "鹅鸭杀 快乐源泉",
+      "onboard_time": 1672673432,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145812,
       "num": 145812,
       "word": "无名",
@@ -4779,6 +4811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111748,
+      "num": 123326,
+      "word": "空气净化器用了2年发现滤芯膜没撕",
+      "onboard_time": 1672672234,
+      "rank": 48,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 111249,
       "num": 1088311,
       "word": "2023年哪些新规开始实施",
@@ -4793,6 +4833,14 @@
       "onboard_time": 1672574731,
       "rank": 44,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 110740,
+      "num": 110740,
+      "word": "胡说八道文学的快乐",
+      "onboard_time": 1672672832,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 109472,
@@ -4915,14 +4963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99555,
-      "num": 124954,
-      "word": "鹅鸭杀回应服务器崩了",
-      "onboard_time": 1672672712,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 99431,
       "num": 99431,
       "word": "肖铎给步音楼擦嘴",
@@ -5019,14 +5059,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 93540,
-      "num": 123326,
-      "word": "空气净化器用了2年发现滤芯膜没撕",
-      "onboard_time": 1672672234,
-      "rank": 48,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 92634,
       "num": 1127200,
       "word": "祝愿大家新年快乐皆得所愿",
@@ -5049,6 +5081,14 @@
       "onboard_time": 1672495856,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 90955,
+      "num": 90955,
+      "word": "老人独自住院脚穿垃圾袋女子买粥赠鞋",
+      "onboard_time": 1672673552,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89638,
