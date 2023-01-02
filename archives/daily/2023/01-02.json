@@ -1,10 +1,10 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672630434696,
+  "endTime": 1672633332760,
   "band_list": [
     {
-      "raw_hot": 2439296,
-      "num": 2439296,
+      "raw_hot": 2758634,
+      "num": 2758634,
       "word": "上海已测到XBB毒株",
       "onboard_time": 1672627889,
       "rank": 0,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1160486,
-      "num": 477823,
+      "num": 494945,
       "word": "专家回应人们感觉老人去世比往年多",
       "onboard_time": 1672621766,
       "rank": 10,
@@ -83,8 +83,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 871899,
-      "num": 871899,
+      "raw_hot": 878021,
+      "num": 878021,
       "word": "妈妈掏出百万元存折催儿子结婚",
       "onboard_time": 1672627708,
       "rank": 49,
@@ -112,6 +112,14 @@
       "word": "女子用紫外线灯消毒灼伤全家眼睛",
       "onboard_time": 1672624707,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 681618,
+      "num": 681618,
+      "word": "二次感染新冠是什么体验",
+      "onboard_time": 1672631249,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -161,6 +169,30 @@
       "onboard_time": 1672625429,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537908,
+      "num": 537908,
+      "word": "女子一晚捡烟花纸皮920斤卖552元",
+      "onboard_time": 1672629868,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 520106,
+      "num": 520106,
+      "word": "新冠为什么不能视为大号感冒",
+      "onboard_time": 1672628908,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495081,
+      "num": 495081,
+      "word": "王俊凯新歌信仰",
+      "onboard_time": 1672632690,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 487286,
@@ -227,8 +259,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 411757,
-      "num": 411757,
+      "raw_hot": 418535,
+      "num": 418535,
       "word": "卫健委回应还要多久熬过艰难时光",
       "onboard_time": 1672628788,
       "rank": 33,
@@ -249,14 +281,6 @@
       "onboard_time": 1672627769,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 387558,
-      "num": 387558,
-      "word": "新冠为什么不能视为大号感冒",
-      "onboard_time": 1672628908,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 387175,
@@ -371,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301637,
+      "num": 301637,
+      "word": "宋佳新剧疯批人设",
+      "onboard_time": 1672629567,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300421,
       "num": 250851,
       "word": "吴宣仪状态",
@@ -419,6 +451,22 @@
       "category": "动漫,网红"
     },
     {
+      "raw_hot": 281349,
+      "num": 281349,
+      "word": "网红转型当歌手有门槛吗",
+      "onboard_time": 1672632630,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 279055,
+      "num": 279055,
+      "word": "马嘉祺东方卫视跨年舞台直拍",
+      "onboard_time": 1672632449,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272703,
       "num": 272703,
       "word": "江苏3胞胎虎宝降生2只为珍稀雪虎",
@@ -441,6 +489,22 @@
       "onboard_time": 1672622667,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251639,
+      "num": 251639,
+      "word": "乡村爱情15",
+      "onboard_time": 1672631249,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 247489,
+      "num": 247489,
+      "word": "流浪猫集体绝育后躺成一排",
+      "onboard_time": 1672632332,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246455,
@@ -475,14 +539,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 226544,
-      "num": 226544,
-      "word": "宋佳新剧疯批人设",
-      "onboard_time": 1672629567,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 224057,
       "num": 224057,
       "word": "男子拿下科目三跪地给考试车磕头",
@@ -513,6 +569,14 @@
       "onboard_time": 1672625309,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214829,
+      "num": 214829,
+      "word": "过年最好不要弄这种发型",
+      "onboard_time": 1672630349,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 214021,
@@ -579,6 +643,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 201001,
+      "num": 201001,
+      "word": "阳康后为什么会出现脑雾",
+      "onboard_time": 1672631671,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199876,
       "num": 169580,
       "word": "满江红",
@@ -593,14 +665,6 @@
       "onboard_time": 1672619483,
       "rank": 23,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 196453,
-      "num": 196453,
-      "word": "女子一晚捡烟花纸皮920斤卖552元",
-      "onboard_time": 1672629868,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195737,
@@ -635,6 +699,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190844,
+      "num": 190844,
+      "word": "黑暗荣耀",
+      "onboard_time": 1672576049,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189659,
+      "num": 189659,
+      "word": "年轻人在滑一种很新的雪",
+      "onboard_time": 1672631969,
+      "rank": 32,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 185311,
       "num": 185311,
       "word": "如何在康复期快速恢复元气",
@@ -667,12 +747,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179223,
+      "num": 179223,
+      "word": "王鹤棣不会动耳朵",
+      "onboard_time": 1672631130,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179051,
       "num": 179051,
       "word": "春节档电影你最期待哪一部",
       "onboard_time": 1672594699,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173928,
+      "num": 173928,
+      "word": "将辛苦变为幸福的方法",
+      "onboard_time": 1672632690,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 171374,
@@ -835,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128228,
+      "num": 128228,
+      "word": "关喵什么事",
+      "onboard_time": 1672631011,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 128165,
       "num": 128165,
       "word": "李润祺哭了",
@@ -856,14 +960,6 @@
       "word": "原来还有小狗不会汪汪叫",
       "onboard_time": 1672581573,
       "rank": 36,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 117165,
-      "num": 117165,
-      "word": "过年最好不要弄这种发型",
-      "onboard_time": 1672630349,
-      "rank": 47,
       "category": "幽默"
     },
     {
@@ -905,6 +1001,14 @@
       "onboard_time": 1672586609,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 108875,
+      "num": 108875,
+      "word": "新疆一滑雪场出现野生雪豹",
+      "onboard_time": 1672633168,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108367,
@@ -1027,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65380,
+      "num": 1052678,
+      "word": "卫星视角看祖国壮美河山",
+      "onboard_time": 1672630409,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 64528,
       "num": 64528,
       "word": "浮图缘",
@@ -1067,28 +1179,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35125,
-      "num": 35125,
-      "word": "黑暗荣耀",
-      "onboard_time": 1672576049,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 27523,
       "num": 27523,
       "word": "2023第一天来了",
       "onboard_time": 1672601652,
       "rank": 24,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 6382,
-      "num": 1052678,
-      "word": "卫星视角看祖国壮美河山",
-      "onboard_time": 1672630409,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
