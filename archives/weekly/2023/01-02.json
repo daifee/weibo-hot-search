@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672690709489,
+  "endTime": 1672691611834,
   "band_list": [
     {
       "raw_hot": 2758634,
@@ -2795,6 +2795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 39152,
+      "num": 30346,
+      "word": "中学生湖边烧烤半个身子陷入淤泥",
+      "onboard_time": 1672685653,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39111,
       "num": 23567,
       "word": "竹内亮在重庆做棒棒",
@@ -2835,14 +2843,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 29179,
-      "num": 29179,
-      "word": "中学生湖边烧烤半个身子陷入淤泥",
-      "onboard_time": 1672685653,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27523,
       "num": 27523,
       "word": "2023第一天来了",
@@ -2851,20 +2851,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 20909,
+      "num": 19598,
+      "word": "卖菜农户夜晚在隧道内过夜",
+      "onboard_time": 1672689552,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20535,
       "num": 150201,
       "word": "天猫直播演绎年货神曲",
       "onboard_time": 1672664431,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 12966,
-      "num": 12966,
-      "word": "卖菜农户夜晚在隧道内过夜",
-      "onboard_time": 1672689552,
-      "rank": 48,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
