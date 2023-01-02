@@ -1,6 +1,6 @@
 {
   "startTime": 1672676687155,
-  "endTime": 1672691611834,
+  "endTime": 1672694122024,
   "band_list": [
     {
       "raw_hot": 828093,
@@ -483,12 +483,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 20909,
+      "raw_hot": 28938,
       "num": 19598,
       "word": "卖菜农户夜晚在隧道内过夜",
       "onboard_time": 1672689552,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10791,
+      "num": 11912,
+      "word": "王源跨年演唱会直拍",
+      "onboard_time": 1672688414,
+      "rank": 47,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672691611834,
+  "endTime": 1672694122024,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -5491,6 +5491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28938,
+      "num": 19598,
+      "word": "卖菜农户夜晚在隧道内过夜",
+      "onboard_time": 1672689552,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27523,
       "num": 27523,
       "word": "2023第一天来了",
@@ -5515,14 +5523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 20909,
-      "num": 19598,
-      "word": "卖菜农户夜晚在隧道内过夜",
-      "onboard_time": 1672689552,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 20535,
       "num": 150201,
       "word": "天猫直播演绎年货神曲",
@@ -5537,6 +5537,14 @@
       "onboard_time": 1672570832,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10791,
+      "num": 11912,
+      "word": "王源跨年演唱会直拍",
+      "onboard_time": 1672688414,
+      "rank": 47,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

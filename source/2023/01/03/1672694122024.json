@@ -1,0 +1,410 @@
+{
+  "runTime": 1672694122024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 115209,
+        "num": 115209,
+        "word": "不做抗原怎么分辨是流感还是阳了",
+        "onboard_time": 1672675467,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81128,
+        "num": 81128,
+        "word": "鹅鸭杀",
+        "onboard_time": 1672667073,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27168,
+        "num": 70448,
+        "word": "什么环境下需要佩戴N95口罩",
+        "onboard_time": 1672665212,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63886,
+        "num": 63886,
+        "word": "专家称不至于三个月就经历一波疫情",
+        "onboard_time": 1672653092,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54059,
+        "num": 54059,
+        "word": "第一次见这么尴尬的跨年",
+        "onboard_time": 1672667553,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39126,
+        "num": 39126,
+        "word": "转阴后总觉得累是怎么回事",
+        "onboard_time": 1672664367,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36832,
+        "num": 36832,
+        "word": "专家称临床上绝大多数人都是轻症",
+        "onboard_time": 1672678282,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33091,
+        "num": 33091,
+        "word": "鹅鸭杀 快乐源泉",
+        "onboard_time": 1672673432,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32677,
+        "num": 32677,
+        "word": "阳康后还会二次感染XBB吗",
+        "onboard_time": 1672663829,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28858,
+        "num": 28858,
+        "word": "47岁父亲考研18岁女儿受激励备考",
+        "onboard_time": 1672670433,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 45857,
+        "num": 28846,
+        "word": "张云雷获年度人气歌手奖",
+        "onboard_time": 1672667612,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 41908,
+        "num": 28837,
+        "word": "4岁女童被同村男子拐走6万卖掉",
+        "onboard_time": 1672667494,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 33076,
+        "num": 28829,
+        "word": "新还珠格格",
+        "onboard_time": 1672652189,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28819,
+        "num": 28819,
+        "word": "TVB对话王嘉尔",
+        "onboard_time": 1672673134,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28302,
+        "num": 28302,
+        "word": "吴镇宇直播模仿张艺兴跳舞",
+        "onboard_time": 1672663890,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27401,
+        "num": 27401,
+        "word": "老人独自住院脚穿垃圾袋女子买粥赠鞋",
+        "onboard_time": 1672673552,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27342,
+        "num": 27342,
+        "word": "鑫仔 戏悟",
+        "onboard_time": 1672672234,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27009,
+        "num": 27009,
+        "word": "中学生湖边烧烤半个身子陷入淤泥",
+        "onboard_time": 1672685653,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23801,
+        "num": 23801,
+        "word": "钱包绑在氢气球上被带飞升空",
+        "onboard_time": 1672674687,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22561,
+        "num": 22561,
+        "word": "转阴后5个动作帮你恢复体力",
+        "onboard_time": 1672666893,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29288,
+        "num": 22159,
+        "word": "杨幂微博一直敞开是为了不忘初心",
+        "onboard_time": 1672667553,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19709,
+        "num": 19709,
+        "word": "52岁大叔雪地画3000平米巨型玉兔",
+        "onboard_time": 1672676965,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19515,
+        "num": 19515,
+        "word": "Danielle金发双马尾造型",
+        "onboard_time": 1672677684,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19288,
+        "num": 19288,
+        "word": "空气净化器用了2年发现滤芯膜没撕",
+        "onboard_time": 1672672234,
+        "rank": 23,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 19201,
+        "num": 19201,
+        "word": "王鹤棣说等活终于来活了",
+        "onboard_time": 1672679001,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19108,
+        "num": 19108,
+        "word": "李现直播说你们要相信我的眼光",
+        "onboard_time": 1672671213,
+        "rank": 25,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 19023,
+        "num": 19090,
+        "word": "贵州牛肉自助的价格是真实存在的吗",
+        "onboard_time": 1672673790,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 19072,
+        "num": 19072,
+        "word": "女生收15万彩礼结婚时要加到20万",
+        "onboard_time": 1672650208,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19065,
+        "num": 19065,
+        "word": "劳斯莱斯接亲卡道牙进退两难",
+        "onboard_time": 1672671097,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19052,
+        "num": 19052,
+        "word": "这一定就是原片吧",
+        "onboard_time": 1672673852,
+        "rank": 29,
+        "category": "动漫,幽默"
+      },
+      {
+        "raw_hot": 28938,
+        "num": 18722,
+        "word": "卖菜农户夜晚在隧道内过夜",
+        "onboard_time": 1672689552,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18007,
+        "num": 18007,
+        "word": "C罗微笑说利雅得见",
+        "onboard_time": 1672671333,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17844,
+        "num": 17844,
+        "word": "王一博跨年晚会脚受伤了",
+        "onboard_time": 1672657171,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17808,
+        "num": 17808,
+        "word": "被一个蜡烛丑到了",
+        "onboard_time": 1672670192,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17494,
+        "num": 17494,
+        "word": "病毒感染并没有特效药",
+        "onboard_time": 1672667192,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17023,
+        "num": 17023,
+        "word": "浮图缘",
+        "onboard_time": 1672665212,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16943,
+        "num": 16943,
+        "word": "鹅鸭杀回应服务器崩了",
+        "onboard_time": 1672672712,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16762,
+        "num": 16762,
+        "word": "水银温度计打碎了这样处理",
+        "onboard_time": 1672669952,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16192,
+        "num": 16192,
+        "word": "当你摸狗时突然停止",
+        "onboard_time": 1672667853,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15482,
+        "num": 15482,
+        "word": "李飞终于舍得花钱了",
+        "onboard_time": 1672658430,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15193,
+        "num": 15193,
+        "word": "黑暗荣耀 班主任",
+        "onboard_time": 1672681996,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13986,
+        "num": 13986,
+        "word": "当猫猫会角色扮演了",
+        "onboard_time": 1672671751,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12236,
+        "num": 12236,
+        "word": "31省份最低工资表",
+        "onboard_time": 1672655670,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 12053,
+        "num": 12053,
+        "word": "喻言年度最佳舞台演绎歌手",
+        "onboard_time": 1672677445,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11983,
+        "num": 11983,
+        "word": "所以只能玩起了手机",
+        "onboard_time": 1672662391,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11922,
+        "num": 11922,
+        "word": "凯迪拉克车身贴AED抢救标志",
+        "onboard_time": 1672662210,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 10862,
+        "num": 11918,
+        "word": "排骨焖饭有多方便",
+        "onboard_time": 1672664311,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 10791,
+        "num": 11912,
+        "word": "王源跨年演唱会直拍",
+        "onboard_time": 1672688414,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10407,
+        "num": 11904,
+        "word": "胡说八道文学的快乐",
+        "onboard_time": 1672672832,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10038,
+        "num": 11898,
+        "word": "国考笔试准考证3日开始打印",
+        "onboard_time": 1672675467,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席书架上的照片记录了哪些珍贵瞬间#"
+    }
+  }
+}
