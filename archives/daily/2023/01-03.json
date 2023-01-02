@@ -1,6 +1,6 @@
 {
   "startTime": 1672676687155,
-  "endTime": 1672676687155,
+  "endTime": 1672677713717,
   "band_list": [
     {
       "raw_hot": 828093,
@@ -25,6 +25,14 @@
       "onboard_time": 1672667553,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 571138,
+      "num": 571138,
+      "word": "不做抗原怎么分辨是流感还是阳了",
+      "onboard_time": 1672675467,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443830,
@@ -75,12 +83,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 287862,
-      "num": 287862,
-      "word": "不做抗原怎么分辨是流感还是阳了",
+      "raw_hot": 309583,
+      "num": 309583,
+      "word": "国考笔试准考证3日开始打印",
       "onboard_time": 1672675467,
-      "rank": 8,
-      "category": "社会新闻"
+      "rank": 24,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 287250,
@@ -99,6 +107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 279303,
+      "num": 279303,
+      "word": "老人独自住院脚穿垃圾袋女子买粥赠鞋",
+      "onboard_time": 1672673552,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275570,
       "num": 275570,
       "word": "4岁女童被同村男子拐走6万卖掉",
@@ -115,20 +131,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 266303,
-      "num": 266303,
-      "word": "老人独自住院脚穿垃圾袋女子买粥赠鞋",
-      "onboard_time": 1672673552,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266195,
       "num": 266195,
       "word": "张云雷获年度人气歌手奖",
       "onboard_time": 1672667612,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 246272,
+      "num": 246272,
+      "word": "郑合惠子自罚挖100斤野菜",
+      "onboard_time": 1672675050,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 243030,
@@ -211,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186905,
-      "num": 186905,
-      "word": "国考笔试准考证3日开始打印",
-      "onboard_time": 1672675467,
-      "rank": 24,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 185530,
       "num": 119885,
       "word": "步音楼慕容婉婉都找到真爱了",
@@ -233,14 +241,6 @@
       "onboard_time": 1672671097,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178993,
-      "num": 91484,
-      "word": "郑合惠子自罚挖100斤野菜",
-      "onboard_time": 1672675050,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 178183,
@@ -275,6 +275,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160298,
+      "num": 105558,
+      "word": "喻言年度最佳舞台演绎歌手",
+      "onboard_time": 1672677445,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 148466,
+      "num": 84408,
+      "word": "Danielle金发双马尾造型",
+      "onboard_time": 1672677684,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146067,
       "num": 146067,
       "word": "女生收15万彩礼结婚时要加到20万",
@@ -291,6 +307,22 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 116811,
+      "num": 116811,
+      "word": "钱包绑在氢气球上被带飞升空",
+      "onboard_time": 1672674687,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110330,
+      "num": 105441,
+      "word": "贵州牛肉自助的价格是真实存在的吗",
+      "onboard_time": 1672673790,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 110090,
       "num": 110090,
       "word": "排骨焖饭有多方便",
@@ -299,12 +331,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 105522,
-      "num": 105522,
-      "word": "钱包绑在氢气球上被带飞升空",
-      "onboard_time": 1672674687,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 105307,
+      "num": 105307,
+      "word": "当你摸狗时突然停止",
+      "onboard_time": 1672667853,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 98958,
@@ -313,14 +345,6 @@
       "onboard_time": 1672655670,
       "rank": 36,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 97681,
-      "num": 97681,
-      "word": "当你摸狗时突然停止",
-      "onboard_time": 1672667853,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 96225,
@@ -355,6 +379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84833,
+      "num": 84833,
+      "word": "胡说八道文学的快乐",
+      "onboard_time": 1672672832,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82869,
       "num": 82869,
       "word": "所以只能玩起了手机",
@@ -379,26 +411,18 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 77899,
-      "num": 77899,
-      "word": "贵州牛肉自助的价格是真实存在的吗",
-      "onboard_time": 1672673790,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 74950,
-      "num": 74950,
-      "word": "胡说八道文学的快乐",
-      "onboard_time": 1672672832,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 69100,
       "num": 69100,
       "word": "女子带英国老公回村过年杀猪",
       "onboard_time": 1672656092,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58814,
+      "num": 58814,
+      "word": "52岁大叔雪地画3000平米巨型玉兔",
+      "onboard_time": 1672676965,
       "rank": 49,
       "category": "社会新闻"
     }
