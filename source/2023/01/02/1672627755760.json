@@ -1,0 +1,410 @@
+{
+  "runTime": 1672627755760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 723398,
+        "num": 723398,
+        "word": "女子用紫外线灯消毒灼伤全家眼睛",
+        "onboard_time": 1672624707,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902573,
+        "num": 709919,
+        "word": "原来王俊凯舞台后面是这样的",
+        "onboard_time": 1672624887,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78216,
+        "num": 618122,
+        "word": "2023年哪些新规开始实施",
+        "onboard_time": 1672586609,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1291817,
+        "num": 591978,
+        "word": "女子变阳求前夫照顾但拒绝复合",
+        "onboard_time": 1672624288,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1237958,
+        "num": 487238,
+        "word": "夫妻阳康后着急备孕医生劝阻",
+        "onboard_time": 1672618943,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463842,
+        "num": 463842,
+        "word": "爷爷第一次见8个月的孙子哭红眼眶",
+        "onboard_time": 1672620804,
+        "rank": 5,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 455651,
+        "num": 455651,
+        "word": "巴黎主帅确认梅西明天归队",
+        "onboard_time": 1672622964,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440235,
+        "num": 440235,
+        "word": "四川居民整体感染发病已超8成",
+        "onboard_time": 1672622785,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1193926,
+        "num": 436112,
+        "word": "女子称产下双胞胎后小儿子去向不明",
+        "onboard_time": 1672622667,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 425751,
+        "num": 425751,
+        "word": "专家回应为何做了充足准备仍感觉猝不及防",
+        "onboard_time": 1672625429,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946662,
+        "num": 409304,
+        "word": "专家回应人们感觉老人去世比往年多",
+        "onboard_time": 1672621766,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556161,
+        "num": 392979,
+        "word": "侯一民去世",
+        "onboard_time": 1672623446,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348882,
+        "num": 348882,
+        "word": "蒙脱石散和XBB变异株有啥关系",
+        "onboard_time": 1672572809,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343007,
+        "num": 343007,
+        "word": "三亚近期酒店房间几乎售罄",
+        "onboard_time": 1672617499,
+        "rank": 13,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 339045,
+        "num": 339045,
+        "word": "程霄终于知道房东就是顾南亭了",
+        "onboard_time": 1672624106,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321975,
+        "num": 321975,
+        "word": "专家称蒙脱石散并非止泻首选",
+        "onboard_time": 1672625366,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295124,
+        "num": 295124,
+        "word": "李现的新年愿望是待播戏全播",
+        "onboard_time": 1672624826,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292883,
+        "num": 292883,
+        "word": "梅西要给所有人大大的拥抱",
+        "onboard_time": 1672622486,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265454,
+        "num": 265454,
+        "word": "黑暗荣耀 好看",
+        "onboard_time": 1672622065,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264354,
+        "num": 264354,
+        "word": "禾野",
+        "onboard_time": 1672615276,
+        "rank": 19,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 243180,
+        "num": 243180,
+        "word": "杨幂跨年候场视频",
+        "onboard_time": 1672625248,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237871,
+        "num": 237871,
+        "word": "巴黎32场法甲不败战绩终结",
+        "onboard_time": 1672618762,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229925,
+        "num": 229925,
+        "word": "用橘子皮制作兔子小橘灯",
+        "onboard_time": 1672622486,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 223744,
+        "num": 223744,
+        "word": "去有风的地方爱情观",
+        "onboard_time": 1672626629,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223650,
+        "num": 223650,
+        "word": "海南离岛免税连续7天销售额超亿元",
+        "onboard_time": 1672626389,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 222776,
+        "num": 222776,
+        "word": "女子阳性7天没下厨老公表现超赞",
+        "onboard_time": 1672626569,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216774,
+        "num": 216774,
+        "word": "女儿悄悄返家爸爸满眼是光",
+        "onboard_time": 1672625309,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202401,
+        "num": 202401,
+        "word": "姆巴佩将缺席法国杯",
+        "onboard_time": 1672622667,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197362,
+        "num": 197362,
+        "word": "专家称XBB.1.5毒株与其他株没区别",
+        "onboard_time": 1672627469,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187162,
+        "num": 187162,
+        "word": "闰二月",
+        "onboard_time": 1672621105,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625306,
+        "num": 187162,
+        "word": "蒙脱石散",
+        "onboard_time": 1672624887,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233631,
+        "num": 187158,
+        "word": "官方回应郑州CBD燃放烟花",
+        "onboard_time": 1672589247,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187134,
+        "num": 187134,
+        "word": "2023有个神奇的数字23",
+        "onboard_time": 1672616118,
+        "rank": 32,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 185081,
+        "num": 185081,
+        "word": "新冠感染确实会有呕吐腹泻",
+        "onboard_time": 1672577972,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185133,
+        "num": 184993,
+        "word": "步音楼说肖铎就是喜欢我",
+        "onboard_time": 1672625665,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183442,
+        "num": 183442,
+        "word": "江苏3胞胎虎宝降生2只为珍稀雪虎",
+        "onboard_time": 1672626930,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181861,
+        "num": 181861,
+        "word": "抗原检测试剂遭甩卖",
+        "onboard_time": 1672627408,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179282,
+        "num": 179282,
+        "word": "许红豆对谢之遥说你可真猛啊你",
+        "onboard_time": 1672627648,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158596,
+        "num": 158596,
+        "word": "宋慧乔新剧豆瓣开分8.7分",
+        "onboard_time": 1672582713,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139013,
+        "num": 139013,
+        "word": "步音楼坠入爱河",
+        "onboard_time": 1672615758,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138346,
+        "num": 138346,
+        "word": "张丹峰洪欣携手走红毯",
+        "onboard_time": 1672577433,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138143,
+        "num": 138143,
+        "word": "糖丸爷爷顾方舟逝世四周年",
+        "onboard_time": 1672623204,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130849,
+        "num": 130849,
+        "word": "男子拿下科目三跪地给考试车磕头",
+        "onboard_time": 1672627168,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125568,
+        "num": 125568,
+        "word": "打印出3米长试卷9岁男孩秒变哭腔",
+        "onboard_time": 1672588588,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116499,
+        "num": 116499,
+        "word": "春节档电影你最期待哪一部",
+        "onboard_time": 1672594699,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112368,
+        "num": 112368,
+        "word": "刘亦菲许红豆演我",
+        "onboard_time": 1672596615,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107256,
+        "num": 107256,
+        "word": "抗生素不等于消炎药",
+        "onboard_time": 1672621463,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105845,
+        "num": 105845,
+        "word": "你永远能相信郑秀妍的舞台",
+        "onboard_time": 1672624467,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103619,
+        "num": 103619,
+        "word": "XBB.1.5毒株是什么",
+        "onboard_time": 1672583314,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101904,
+        "num": 101904,
+        "word": "妈妈掏出百万元存折催儿子结婚",
+        "onboard_time": 1672627708,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年看中国#"
+    }
+  }
+}
