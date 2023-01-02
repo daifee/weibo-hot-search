@@ -1,6 +1,6 @@
 {
   "startTime": 1672676687155,
-  "endTime": 1672677713717,
+  "endTime": 1672679743241,
   "band_list": [
     {
       "raw_hot": 828093,
@@ -27,8 +27,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 571138,
-      "num": 571138,
+      "raw_hot": 680941,
+      "num": 680941,
       "word": "不做抗原怎么分辨是流感还是阳了",
       "onboard_time": 1672675467,
       "rank": 8,
@@ -83,8 +83,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 309583,
-      "num": 309583,
+      "raw_hot": 318608,
+      "num": 318608,
       "word": "国考笔试准考证3日开始打印",
       "onboard_time": 1672675467,
       "rank": 24,
@@ -283,8 +283,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 148466,
-      "num": 84408,
+      "raw_hot": 153079,
+      "num": 99035,
+      "word": "王鹤棣说等活终于来活了",
+      "onboard_time": 1672679001,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 149743,
+      "num": 98206,
       "word": "Danielle金发双马尾造型",
       "onboard_time": 1672677684,
       "rank": 40,
@@ -379,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87953,
+      "num": 57382,
+      "word": "王一博跨年晚会脚受伤了",
+      "onboard_time": 1672657171,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84833,
       "num": 84833,
       "word": "胡说八道文学的快乐",
@@ -411,6 +427,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 71402,
+      "num": 71402,
+      "word": "专家称临床上绝大多数人都是轻症",
+      "onboard_time": 1672678282,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69100,
       "num": 69100,
       "word": "女子带英国老公回村过年杀猪",
@@ -419,12 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58814,
-      "num": 58814,
+      "raw_hot": 62853,
+      "num": 62853,
       "word": "52岁大叔雪地画3000平米巨型玉兔",
       "onboard_time": 1672676965,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37435,
+      "num": 51361,
+      "word": "当老板陷入轮回",
+      "onboard_time": 1672679180,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [

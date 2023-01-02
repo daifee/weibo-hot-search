@@ -1,0 +1,410 @@
+{
+  "runTime": 1672679743241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 680941,
+        "num": 680941,
+        "word": "不做抗原怎么分辨是流感还是阳了",
+        "onboard_time": 1672675467,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493887,
+        "num": 493887,
+        "word": "转阴后总觉得累是怎么回事",
+        "onboard_time": 1672664367,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95948,
+        "num": 356868,
+        "word": "什么环境下需要佩戴N95口罩",
+        "onboard_time": 1672665212,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325542,
+        "num": 325542,
+        "word": "第一次见这么尴尬的跨年",
+        "onboard_time": 1672667553,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318608,
+        "num": 318608,
+        "word": "国考笔试准考证3日开始打印",
+        "onboard_time": 1672675467,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 306717,
+        "num": 306717,
+        "word": "鹅鸭杀",
+        "onboard_time": 1672667073,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212976,
+        "num": 212976,
+        "word": "TVB对话王嘉尔",
+        "onboard_time": 1672673134,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197380,
+        "num": 197380,
+        "word": "老人独自住院脚穿垃圾袋女子买粥赠鞋",
+        "onboard_time": 1672673552,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186146,
+        "num": 186146,
+        "word": "浮图缘",
+        "onboard_time": 1672665212,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181717,
+        "num": 181717,
+        "word": "鹅鸭杀 快乐源泉",
+        "onboard_time": 1672673432,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240492,
+        "num": 181044,
+        "word": "鑫仔 戏悟",
+        "onboard_time": 1672672234,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209973,
+        "num": 177354,
+        "word": "吴镇宇直播模仿张艺兴跳舞",
+        "onboard_time": 1672663890,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173582,
+        "num": 173582,
+        "word": "专家称不至于三个月就经历一波疫情",
+        "onboard_time": 1672653092,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172006,
+        "num": 172006,
+        "word": "新还珠格格",
+        "onboard_time": 1672652189,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170795,
+        "num": 170795,
+        "word": "张云雷获年度人气歌手奖",
+        "onboard_time": 1672667612,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155419,
+        "num": 155419,
+        "word": "4岁女童被同村男子拐走6万卖掉",
+        "onboard_time": 1672667494,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 122870,
+        "num": 122870,
+        "word": "47岁父亲考研18岁女儿受激励备考",
+        "onboard_time": 1672670433,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 119683,
+        "num": 119683,
+        "word": "阳康后还会二次感染XBB吗",
+        "onboard_time": 1672663829,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106043,
+        "num": 106043,
+        "word": "钱包绑在氢气球上被带飞升空",
+        "onboard_time": 1672674687,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103145,
+        "num": 103145,
+        "word": "贵州牛肉自助的价格是真实存在的吗",
+        "onboard_time": 1672673790,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159142,
+        "num": 100239,
+        "word": "杨幂微博一直敞开是为了不忘初心",
+        "onboard_time": 1672667553,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153079,
+        "num": 99035,
+        "word": "王鹤棣说等活终于来活了",
+        "onboard_time": 1672679001,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149743,
+        "num": 98206,
+        "word": "Danielle金发双马尾造型",
+        "onboard_time": 1672677684,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91986,
+        "num": 91986,
+        "word": "这一定就是原片吧",
+        "onboard_time": 1672673852,
+        "rank": 23,
+        "category": "动漫,幽默"
+      },
+      {
+        "raw_hot": 89403,
+        "num": 89403,
+        "word": "C罗微笑说利雅得见",
+        "onboard_time": 1672671333,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78717,
+        "num": 78717,
+        "word": "女生收15万彩礼结婚时要加到20万",
+        "onboard_time": 1672650208,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77660,
+        "num": 77660,
+        "word": "被一个蜡烛丑到了",
+        "onboard_time": 1672670192,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73928,
+        "num": 73928,
+        "word": "鹅鸭杀回应服务器崩了",
+        "onboard_time": 1672672712,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71433,
+        "num": 71433,
+        "word": "31省份最低工资表",
+        "onboard_time": 1672655670,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 71402,
+        "num": 71402,
+        "word": "专家称临床上绝大多数人都是轻症",
+        "onboard_time": 1672678282,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145124,
+        "num": 71393,
+        "word": "李飞终于舍得花钱了",
+        "onboard_time": 1672658430,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128624,
+        "num": 71389,
+        "word": "郑合惠子自罚挖100斤野菜",
+        "onboard_time": 1672675050,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102002,
+        "num": 71386,
+        "word": "喻言年度最佳舞台演绎歌手",
+        "onboard_time": 1672677445,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 71384,
+        "num": 71384,
+        "word": "劳斯莱斯接亲卡道牙进退两难",
+        "onboard_time": 1672671097,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98907,
+        "num": 69362,
+        "word": "李现直播说你们要相信我的眼光",
+        "onboard_time": 1672671213,
+        "rank": 34,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 65262,
+        "num": 65262,
+        "word": "水银温度计打碎了这样处理",
+        "onboard_time": 1672669952,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64819,
+        "num": 64819,
+        "word": "当你摸狗时突然停止",
+        "onboard_time": 1672667853,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62853,
+        "num": 62853,
+        "word": "52岁大叔雪地画3000平米巨型玉兔",
+        "onboard_time": 1672676965,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60560,
+        "num": 60560,
+        "word": "空气净化器用了2年发现滤芯膜没撕",
+        "onboard_time": 1672672234,
+        "rank": 38,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 60310,
+        "num": 60310,
+        "word": "胡说八道文学的快乐",
+        "onboard_time": 1672672832,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91075,
+        "num": 58655,
+        "word": "张远现场好稳",
+        "onboard_time": 1672670553,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87953,
+        "num": 57382,
+        "word": "王一博跨年晚会脚受伤了",
+        "onboard_time": 1672657171,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54592,
+        "num": 54592,
+        "word": "当猫猫会角色扮演了",
+        "onboard_time": 1672671751,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53231,
+        "num": 53231,
+        "word": "凯迪拉克车身贴AED抢救标志",
+        "onboard_time": 1672662210,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 52894,
+        "num": 52894,
+        "word": "河南一景区大量游客滞留山上喊退票",
+        "onboard_time": 1672654591,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 51373,
+        "num": 51373,
+        "word": "排骨焖饭有多方便",
+        "onboard_time": 1672664311,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 50543,
+        "num": 51373,
+        "word": "所以只能玩起了手机",
+        "onboard_time": 1672662391,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45348,
+        "num": 51368,
+        "word": "转阴后5个动作帮你恢复体力",
+        "onboard_time": 1672666893,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40923,
+        "num": 51363,
+        "word": "病毒感染并没有特效药",
+        "onboard_time": 1672667192,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37435,
+        "num": 51361,
+        "word": "当老板陷入轮回",
+        "onboard_time": 1672679180,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席书架上的照片记录了哪些珍贵瞬间#"
+    }
+  }
+}

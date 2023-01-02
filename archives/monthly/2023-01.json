@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672677713717,
+  "endTime": 1672679743241,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -1011,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 680941,
+      "num": 680941,
+      "word": "不做抗原怎么分辨是流感还是阳了",
+      "onboard_time": 1672675467,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 679943,
       "num": 679943,
       "word": "爷爷第一次见8个月的孙子哭红眼眶",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1672661248,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 571138,
-      "num": 571138,
-      "word": "不做抗原怎么分辨是流感还是阳了",
-      "onboard_time": 1672675467,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 568002,
@@ -2363,6 +2363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318608,
+      "num": 318608,
+      "word": "国考笔试准考证3日开始打印",
+      "onboard_time": 1672675467,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 317477,
       "num": 317477,
       "word": "还魂",
@@ -2409,14 +2417,6 @@
       "onboard_time": 1672624826,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 309583,
-      "num": 309583,
-      "word": "国考笔试准考证3日开始打印",
-      "onboard_time": 1672675467,
-      "rank": 24,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 308114,
@@ -4275,6 +4275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153079,
+      "num": 99035,
+      "word": "王鹤棣说等活终于来活了",
+      "onboard_time": 1672679001,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152745,
       "num": 152745,
       "word": "辽宁男篮加时战胜吉林男篮",
@@ -4347,20 +4355,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149743,
+      "num": 98206,
+      "word": "Danielle金发双马尾造型",
+      "onboard_time": 1672677684,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 148701,
       "num": 325494,
       "word": "跨年夜无人机被气球缠绕坠落人群",
       "onboard_time": 1672550731,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148466,
-      "num": 84408,
-      "word": "Danielle金发双马尾造型",
-      "onboard_time": 1672677684,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 147894,
@@ -5283,6 +5291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71402,
+      "num": 71402,
+      "word": "专家称临床上绝大多数人都是轻症",
+      "onboard_time": 1672678282,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68205,
       "num": 66266,
       "word": "Twins的状态我是服气的",
@@ -5307,20 +5323,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 62853,
+      "num": 62853,
+      "word": "52岁大叔雪地画3000平米巨型玉兔",
+      "onboard_time": 1672676965,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61999,
       "num": 36077,
       "word": "贺峻霖晒视频祝大家新年快乐",
       "onboard_time": 1672596975,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58814,
-      "num": 58814,
-      "word": "52岁大叔雪地画3000平米巨型玉兔",
-      "onboard_time": 1672676965,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57125,
@@ -5385,6 +5401,14 @@
       "onboard_time": 1672598355,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 37435,
+      "num": 51361,
+      "word": "当老板陷入轮回",
+      "onboard_time": 1672679180,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 37235,
