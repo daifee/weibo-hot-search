@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672637619534,
+  "endTime": 1672640568639,
   "band_list": [
     {
       "raw_hot": 2758634,
@@ -11,11 +11,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2079160,
+      "num": 683120,
+      "word": "情侣吃自助拿多了把虾倒锅里逃跑",
+      "onboard_time": 1672636349,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1834906,
       "num": 1834906,
       "word": "夫妻阳康后着急备孕医生劝阻",
       "onboard_time": 1672618943,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1385964,
+      "num": 1385964,
+      "word": "胡福明去世",
+      "onboard_time": 1672635329,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -91,27 +107,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 894643,
-      "num": 467603,
-      "word": "情侣吃自助拿多了把虾倒锅里逃跑",
-      "onboard_time": 1672636349,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 878021,
       "num": 878021,
       "word": "妈妈掏出百万元存折催儿子结婚",
       "onboard_time": 1672627708,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 873653,
-      "num": 517227,
-      "word": "胡福明去世",
-      "onboard_time": 1672635329,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 701786,
+      "num": 701786,
+      "word": "急性传染高峰之后的两周是最艰难的",
+      "onboard_time": 1672636650,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 679943,
       "num": 679943,
       "word": "爷爷第一次见8个月的孙子哭红眼眶",
@@ -147,8 +155,16 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 647250,
+      "num": 647250,
+      "word": "女子花2700修热水器成本只有13元",
+      "onboard_time": 1672636948,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 639625,
-      "num": 225358,
+      "num": 258860,
       "word": "蒙脱石散",
       "onboard_time": 1672624887,
       "rank": 30,
@@ -283,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451683,
+      "num": 451683,
+      "word": "当南方猫去了东北",
+      "onboard_time": 1672635627,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 442858,
       "num": 296971,
       "word": "吴磊扯工牌",
@@ -355,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350732,
+      "num": 350732,
+      "word": "雪容融下线",
+      "onboard_time": 1672639350,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346930,
       "num": 346930,
       "word": "日媒吐槽世界杯扩军是为让中国男足参赛",
@@ -371,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342147,
+      "num": 342147,
+      "word": "王源文淇合作我抬头发现两朵一样的云",
+      "onboard_time": 1672637850,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339045,
       "num": 339045,
       "word": "程霄终于知道房东就是顾南亭了",
@@ -385,14 +425,6 @@
       "onboard_time": 1672622486,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 332092,
-      "num": 332092,
-      "word": "当南方猫去了东北",
-      "onboard_time": 1672635627,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 331707,
@@ -507,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298302,
+      "num": 298302,
+      "word": "黑暗荣耀 男二",
+      "onboard_time": 1672639350,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287429,
       "num": 287429,
       "word": "专家称XBB.1.5毒株与其他株没区别",
@@ -571,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259818,
+      "num": 259818,
+      "word": "眼神清澈的狗狗",
+      "onboard_time": 1672637670,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 256149,
       "num": 256149,
       "word": "图书馆偶遇外卖小哥备战法考",
@@ -611,12 +659,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 241439,
-      "num": 241439,
-      "word": "急性传染高峰之后的两周是最艰难的",
-      "onboard_time": 1672636650,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 235600,
+      "num": 235600,
+      "word": "染色体新人LIN直播首秀",
+      "onboard_time": 1672638810,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 233444,
@@ -641,6 +689,14 @@
       "onboard_time": 1672622486,
       "rank": 46,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 229080,
+      "num": 229080,
+      "word": "妈妈带化疗孩子买帽子暖心老板直接送",
+      "onboard_time": 1672639528,
+      "rank": 27,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 224057,
@@ -681,6 +737,14 @@
       "onboard_time": 1672617319,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 212549,
+      "num": 212549,
+      "word": "张彬彬说徐璐是最能哭的",
+      "onboard_time": 1672635570,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 212434,
@@ -795,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195172,
-      "num": 195172,
-      "word": "女子花2700修热水器成本只有13元",
-      "onboard_time": 1672636948,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194987,
       "num": 194987,
       "word": "最强大脑10嘉宾阵容官宣",
@@ -851,14 +907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184233,
-      "num": 184233,
-      "word": "张彬彬说徐璐是最能哭的",
-      "onboard_time": 1672635570,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 181488,
       "num": 181488,
       "word": "元旦少不了姐姐收拾弟弟",
@@ -889,6 +937,14 @@
       "onboard_time": 1672594699,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177854,
+      "num": 177854,
+      "word": "男女生的恋爱曲线不一样吗",
+      "onboard_time": 1672640010,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 173928,
@@ -929,6 +985,14 @@
       "onboard_time": 1672590805,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167182,
+      "num": 167182,
+      "word": "女子买81元猪舌付8.1元还偷肉",
+      "onboard_time": 1672639947,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167173,
@@ -1099,6 +1163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126459,
+      "num": 126459,
+      "word": "吉克隽逸把三星堆黄金面具搬上舞台",
+      "onboard_time": 1672640428,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125901,
       "num": 125901,
       "word": "朗斯3比1巴黎",
@@ -1113,6 +1185,14 @@
       "onboard_time": 1672614917,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122772,
+      "num": 122772,
+      "word": "谁不想变身奥特曼打怪兽呢",
+      "onboard_time": 1672640247,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 121992,
@@ -1161,6 +1241,22 @@
       "onboard_time": 1672586609,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 109472,
+      "num": 109472,
+      "word": "王者新赛季明日上线",
+      "onboard_time": 1672638989,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 108758,
+      "num": 108758,
+      "word": "男子进店被劝戴口罩反怼就不戴",
+      "onboard_time": 1672640548,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108367,
