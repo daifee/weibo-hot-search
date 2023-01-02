@@ -1,0 +1,410 @@
+{
+  "runTime": 1672659203069,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1989920,
+        "num": 1989920,
+        "word": "胡鑫宇学校监控视频未被删减",
+        "onboard_time": 1672653990,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902770,
+        "num": 902770,
+        "word": "专家称不至于三个月就经历一波疫情",
+        "onboard_time": 1672653092,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8695,
+        "num": 822479,
+        "word": "卫星视角看祖国壮美河山",
+        "onboard_time": 1672630409,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1075385,
+        "num": 802210,
+        "word": "王一博跨年晚会脚受伤了",
+        "onboard_time": 1672657171,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 764907,
+        "num": 764907,
+        "word": "女生收15万彩礼结婚时要加到20万",
+        "onboard_time": 1672650208,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642154,
+        "num": 642154,
+        "word": "情侣吃自助拿多了把虾倒锅里逃跑",
+        "onboard_time": 1672636349,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517283,
+        "num": 517283,
+        "word": "河南一景区大量游客滞留山上喊退票",
+        "onboard_time": 1672654591,
+        "rank": 6,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 459934,
+        "num": 459934,
+        "word": "IU田柾国被滚石选为最伟大歌手TOP200",
+        "onboard_time": 1672652851,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 426188,
+        "num": 426188,
+        "word": "上海已测到XBB毒株",
+        "onboard_time": 1672627889,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419674,
+        "num": 419674,
+        "word": "狼队 GG",
+        "onboard_time": 1672656994,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1642910,
+        "num": 419317,
+        "word": "新还珠格格",
+        "onboard_time": 1672652189,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1068548,
+        "num": 414782,
+        "word": "李飞终于舍得花钱了",
+        "onboard_time": 1672658430,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 746453,
+        "num": 413272,
+        "word": "警方称胡鑫宇或有厌学情绪自行出走",
+        "onboard_time": 1672649491,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 564727,
+        "num": 411108,
+        "word": "严浩翔叫马嘉祺马各",
+        "onboard_time": 1672656871,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 555453,
+        "num": 406698,
+        "word": "妈妈撒气将婴儿脸朝下扔地上",
+        "onboard_time": 1672647087,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 510811,
+        "num": 405036,
+        "word": "女子带英国老公回村过年杀猪",
+        "onboard_time": 1672656092,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424844,
+        "num": 402277,
+        "word": "明星刚出道时有多惊艳",
+        "onboard_time": 1672649068,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 399959,
+        "num": 399959,
+        "word": "31省份最低工资表",
+        "onboard_time": 1672655670,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 331253,
+        "num": 331253,
+        "word": "女子发现男友真实身份时已借200万",
+        "onboard_time": 1672648528,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279209,
+        "num": 279209,
+        "word": "金毛陪嫁到牧区帮主人牵马放牧",
+        "onboard_time": 1672655852,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378205,
+        "num": 278984,
+        "word": "安宥真LIZ李瑞确诊新冠",
+        "onboard_time": 1672658190,
+        "rank": 20,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 375728,
+        "num": 278892,
+        "word": "赵露思加奈那黄日莹神隐同框路透",
+        "onboard_time": 1672655610,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353150,
+        "num": 278860,
+        "word": "网友环球影城偶遇关晓彤",
+        "onboard_time": 1672655250,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278521,
+        "num": 278521,
+        "word": "见过最离谱的火锅蘸料",
+        "onboard_time": 1672657590,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268071,
+        "num": 268071,
+        "word": "新郎回应带新婚妻子给重症父亲磕头",
+        "onboard_time": 1672655492,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266310,
+        "num": 266310,
+        "word": "顾客吃串服务员数签多算100根",
+        "onboard_time": 1672646548,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254300,
+        "num": 254300,
+        "word": "3万人现场欢迎C罗加盟",
+        "onboard_time": 1672653509,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219655,
+        "num": 219655,
+        "word": "济南100岁新冠患者病愈出院",
+        "onboard_time": 1672652429,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212467,
+        "num": 212467,
+        "word": "34岁宝妈本科毕业10年后考研",
+        "onboard_time": 1672645167,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 191053,
+        "num": 191053,
+        "word": "骑手用甄嬛传语气对话阳性顾客",
+        "onboard_time": 1672655370,
+        "rank": 29,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 296818,
+        "num": 189494,
+        "word": "hanni声音",
+        "onboard_time": 1672653271,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294218,
+        "num": 185937,
+        "word": "Newjeans回归MV",
+        "onboard_time": 1672651710,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275497,
+        "num": 183312,
+        "word": "张真源想参股时代峰峻",
+        "onboard_time": 1672659032,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254255,
+        "num": 180305,
+        "word": "贺峻霖在微电影里主持春晚",
+        "onboard_time": 1672658430,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177148,
+        "num": 177148,
+        "word": "重庆多家药店蒙脱石散一夜脱销",
+        "onboard_time": 1672650869,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162958,
+        "num": 162958,
+        "word": "急性传染高峰之后的两周是最艰难的",
+        "onboard_time": 1672636650,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159839,
+        "num": 159839,
+        "word": "蒙脱石散",
+        "onboard_time": 1672624887,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140791,
+        "num": 140791,
+        "word": "积极四跑",
+        "onboard_time": 1672658789,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139942,
+        "num": 139942,
+        "word": "第一次见说梦话的狗子",
+        "onboard_time": 1672657472,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137816,
+        "num": 137816,
+        "word": "出现白肺怎么治疗",
+        "onboard_time": 1672652851,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237608,
+        "num": 136886,
+        "word": "YG确认金智秀今年将发行solo专辑",
+        "onboard_time": 1672642766,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199811,
+        "num": 136477,
+        "word": "刘耀文弹钢琴好温柔",
+        "onboard_time": 1672658430,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189445,
+        "num": 136345,
+        "word": "蔡徐坤晒湿发对镜自拍",
+        "onboard_time": 1672645348,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135277,
+        "num": 135277,
+        "word": "孙颖莎猜冠军挑战",
+        "onboard_time": 1672658672,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130261,
+        "num": 130261,
+        "word": "卧龙凤雏的两只猫咪",
+        "onboard_time": 1672649249,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127289,
+        "num": 127289,
+        "word": "研究称你胖可能是肠道细菌的错",
+        "onboard_time": 1672651829,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 122942,
+        "num": 122942,
+        "word": "狗狗是懂享受的",
+        "onboard_time": 1672658492,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121907,
+        "num": 121907,
+        "word": "感染新冠后为什么会脱发",
+        "onboard_time": 1672646008,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120422,
+        "num": 120422,
+        "word": "为什么不那么热衷恋爱了",
+        "onboard_time": 1672645348,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117995,
+        "num": 117995,
+        "word": "贝利遗体告别仪式已准备就绪",
+        "onboard_time": 1672656631,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#聆听新年贺词2023加油干#"
+    }
+  }
+}

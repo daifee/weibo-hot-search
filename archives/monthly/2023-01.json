@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672658095097,
+  "endTime": 1672659203069,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1989920,
+      "num": 1989920,
+      "word": "胡鑫宇学校监控视频未被删减",
+      "onboard_time": 1672653990,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1946822,
       "num": 501229,
       "word": "新还珠格格",
@@ -200,14 +208,6 @@
       "word": "夫妻阳康后着急备孕医生劝阻",
       "onboard_time": 1672618943,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1803860,
-      "num": 1803860,
-      "word": "胡鑫宇学校监控视频未被删减",
-      "onboard_time": 1672653990,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -515,6 +515,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1075385,
+      "num": 802210,
+      "word": "王一博跨年晚会脚受伤了",
+      "onboard_time": 1672657171,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1068548,
+      "num": 414782,
+      "word": "李飞终于舍得花钱了",
+      "onboard_time": 1672658430,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1059533,
       "num": 598403,
       "word": "妈妈撒气将婴儿脸朝下扔地上",
@@ -601,14 +617,6 @@
       "onboard_time": 1672572093,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 956518,
-      "num": 692520,
-      "word": "王一博跨年晚会脚受伤了",
-      "onboard_time": 1672657171,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 937259,
@@ -820,7 +828,7 @@
     },
     {
       "raw_hot": 728844,
-      "num": 409313,
+      "num": 411108,
       "word": "严浩翔叫马嘉祺马各",
       "onboard_time": 1672656871,
       "rank": 12,
@@ -1251,6 +1259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 517283,
+      "num": 517283,
+      "word": "河南一景区大量游客滞留山上喊退票",
+      "onboard_time": 1672654591,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 515429,
       "num": 515429,
       "word": "为什么情侣很在乎跨年仪式感",
@@ -1267,12 +1283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508629,
-      "num": 508629,
-      "word": "河南一景区大量游客滞留山上喊退票",
-      "onboard_time": 1672654591,
-      "rank": 48,
-      "category": "旅游,社会新闻"
+      "raw_hot": 510811,
+      "num": 405036,
+      "word": "女子带英国老公回村过年杀猪",
+      "onboard_time": 1672656092,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507028,
@@ -1579,6 +1595,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 419674,
+      "num": 419674,
+      "word": "狼队 GG",
+      "onboard_time": 1672656994,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 413984,
       "num": 413984,
       "word": "杨紫粉色海洋",
@@ -1649,6 +1673,14 @@
       "onboard_time": 1672552232,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 399959,
+      "num": 399959,
+      "word": "31省份最低工资表",
+      "onboard_time": 1672655670,
+      "rank": 48,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 399549,
@@ -1731,12 +1763,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 380022,
-      "num": 380022,
-      "word": "女子带英国老公回村过年杀猪",
-      "onboard_time": 1672656092,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 378205,
+      "num": 278984,
+      "word": "安宥真LIZ李瑞确诊新冠",
+      "onboard_time": 1672658190,
+      "rank": 20,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 376824,
@@ -1745,14 +1777,6 @@
       "onboard_time": 1672505375,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 374499,
-      "num": 374499,
-      "word": "31省份最低工资表",
-      "onboard_time": 1672655670,
-      "rank": 48,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 374467,
@@ -2091,14 +2115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 308066,
-      "num": 308066,
-      "word": "狼队 GG",
-      "onboard_time": 1672656994,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 307440,
       "num": 163467,
       "word": "薛之谦新年的第一通电话",
@@ -2347,6 +2363,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279209,
+      "num": 279209,
+      "word": "金毛陪嫁到牧区帮主人牵马放牧",
+      "onboard_time": 1672655852,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278521,
+      "num": 278521,
+      "word": "见过最离谱的火锅蘸料",
+      "onboard_time": 1672657590,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 278518,
       "num": 187596,
       "word": "刘耀文元旦出发路透",
@@ -2371,12 +2403,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 274980,
-      "num": 274980,
-      "word": "金毛陪嫁到牧区帮主人牵马放牧",
-      "onboard_time": 1672655852,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 275497,
+      "num": 183312,
+      "word": "张真源想参股时代峰峻",
+      "onboard_time": 1672659032,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 274589,
@@ -2433,6 +2465,14 @@
       "onboard_time": 1672647689,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 268071,
+      "num": 268071,
+      "word": "新郎回应带新婚妻子给重症父亲磕头",
+      "onboard_time": 1672655492,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266447,
@@ -2539,6 +2579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254255,
+      "num": 180305,
+      "word": "贺峻霖在微电影里主持春晚",
+      "onboard_time": 1672658430,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 253722,
       "num": 704751,
       "word": "小伙坐地铁手机掉进女乘客手提袋",
@@ -2633,14 +2681,6 @@
       "onboard_time": 1672643247,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 240146,
-      "num": 182398,
-      "word": "新郎回应带新婚妻子给重症父亲磕头",
-      "onboard_time": 1672655492,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240092,
@@ -3115,20 +3155,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199905,
-      "num": 199905,
-      "word": "见过最离谱的火锅蘸料",
-      "onboard_time": 1672657590,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 199876,
       "num": 169580,
       "word": "满江红",
       "onboard_time": 1672591225,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199811,
+      "num": 136477,
+      "word": "刘耀文弹钢琴好温柔",
+      "onboard_time": 1672658430,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199758,
@@ -3257,6 +3297,14 @@
       "onboard_time": 1672640548,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191053,
+      "num": 191053,
+      "word": "骑手用甄嬛传语气对话阳性顾客",
+      "onboard_time": 1672655370,
+      "rank": 47,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 190078,
@@ -3795,14 +3843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145202,
-      "num": 145202,
-      "word": "骑手用甄嬛传语气对话阳性顾客",
-      "onboard_time": 1672655370,
-      "rank": 47,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 144062,
       "num": 144062,
       "word": "华晨宇新歌毽子头发型",
@@ -3867,6 +3907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140791,
+      "num": 140791,
+      "word": "积极四跑",
+      "onboard_time": 1672658789,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140020,
       "num": 140020,
       "word": "何炅回应脱稿",
@@ -3881,6 +3929,14 @@
       "onboard_time": 1672590685,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139942,
+      "num": 139942,
+      "word": "第一次见说梦话的狗子",
+      "onboard_time": 1672657472,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 139327,
@@ -3937,6 +3993,14 @@
       "onboard_time": 1672516874,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135277,
+      "num": 135277,
+      "word": "孙颖莎猜冠军挑战",
+      "onboard_time": 1672658672,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 134762,
@@ -4083,6 +4147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122942,
+      "num": 122942,
+      "word": "狗狗是懂享受的",
+      "onboard_time": 1672658492,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122877,
       "num": 238646,
       "word": "为什么跨年时越热闹越孤独",
@@ -4121,6 +4193,14 @@
       "onboard_time": 1672497421,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117995,
+      "num": 117995,
+      "word": "贝利遗体告别仪式已准备就绪",
+      "onboard_time": 1672656631,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 116934,
@@ -4227,14 +4307,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 109727,
-      "num": 109727,
-      "word": "第一次见说梦话的狗子",
-      "onboard_time": 1672657472,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 109472,
       "num": 109472,
       "word": "王者新赛季明日上线",
@@ -4329,14 +4401,6 @@
       "onboard_time": 1672652851,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100893,
-      "num": 100893,
-      "word": "贝利遗体告别仪式已准备就绪",
-      "onboard_time": 1672656631,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 100181,
