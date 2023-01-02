@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672659203069,
+  "endTime": 1672662913885,
   "band_list": [
     {
       "raw_hot": 2758634,
@@ -8,6 +8,14 @@
       "word": "上海已测到XBB毒株",
       "onboard_time": 1672627889,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2279060,
+      "num": 2279060,
+      "word": "胡鑫宇学校监控视频未被删减",
+      "onboard_time": 1672653990,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -24,14 +32,6 @@
       "word": "情侣吃自助拿多了把虾倒锅里逃跑",
       "onboard_time": 1672636349,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1989920,
-      "num": 1989920,
-      "word": "胡鑫宇学校监控视频未被删减",
-      "onboard_time": 1672653990,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -57,6 +57,14 @@
       "onboard_time": 1672646489,
       "rank": 10,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1725522,
+      "num": 1725522,
+      "word": "李飞终于舍得花钱了",
+      "onboard_time": 1672658430,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1406494,
@@ -163,14 +171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1068548,
-      "num": 414782,
-      "word": "李飞终于舍得花钱了",
-      "onboard_time": 1672658430,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1059533,
       "num": 598403,
       "word": "妈妈撒气将婴儿脸朝下扔地上",
@@ -184,6 +184,14 @@
       "word": "急性传染高峰之后的两周是最艰难的",
       "onboard_time": 1672636650,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 926938,
+      "num": 451917,
+      "word": "胡鑫宇失踪母亲暴瘦60斤",
+      "onboard_time": 1672659690,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -224,6 +232,14 @@
       "word": "妈妈掏出百万元存折催儿子结婚",
       "onboard_time": 1672627708,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 801147,
+      "num": 801147,
+      "word": "世界唯一女性文字来自湖南小城",
+      "onboard_time": 1672660049,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -272,6 +288,14 @@
       "word": "女子花2700修热水器成本只有13元",
       "onboard_time": 1672636948,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697651,
+      "num": 697651,
+      "word": "上海未发现BQ.1和XBB的本土传播",
+      "onboard_time": 1672660411,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -345,6 +369,14 @@
       "onboard_time": 1672655250,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 579180,
+      "num": 579180,
+      "word": "伪装者铁三角接力上新剧",
+      "onboard_time": 1672661248,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 563512,
@@ -443,6 +475,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 515600,
+      "num": 515600,
+      "word": "安宥真LIZ李瑞确诊新冠",
+      "onboard_time": 1672658190,
+      "rank": 20,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 514716,
       "num": 456785,
       "word": "新郎带新娘到医院给重症父亲磕头",
@@ -452,7 +492,7 @@
     },
     {
       "raw_hot": 510811,
-      "num": 405036,
+      "num": 480413,
       "word": "女子带英国老公回村过年杀猪",
       "onboard_time": 1672656092,
       "rank": 15,
@@ -539,6 +579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 445994,
+      "num": 274652,
+      "word": "李现直播",
+      "onboard_time": 1672662509,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445533,
       "num": 445533,
       "word": "赵露思加奈那黄日莹神隐同框路透",
@@ -603,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 410618,
+      "num": 269807,
+      "word": "粉丝给王俊凯对话加的字幕",
+      "onboard_time": 1672660830,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 410093,
       "num": 410093,
       "word": "2023有个神奇的数字23",
@@ -617,6 +673,14 @@
       "onboard_time": 1672627769,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 403359,
+      "num": 403359,
+      "word": "江西高中生胡鑫宇失踪超80天",
+      "onboard_time": 1672659511,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399959,
@@ -649,14 +713,6 @@
       "onboard_time": 1672621105,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 378205,
-      "num": 278984,
-      "word": "安宥真LIZ李瑞确诊新冠",
-      "onboard_time": 1672658190,
-      "rank": 20,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 368987,
@@ -761,6 +817,14 @@
       "onboard_time": 1672625366,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320782,
+      "num": 267040,
+      "word": "虞书欣妆容分享九宫格",
+      "onboard_time": 1672662509,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 317477,
@@ -1059,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254996,
+      "num": 186713,
+      "word": "武林外传拜年花絮",
+      "onboard_time": 1672662570,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254255,
       "num": 180305,
       "word": "贺峻霖在微电影里主持春晚",
@@ -1097,6 +1169,14 @@
       "onboard_time": 1672643247,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 239247,
+      "num": 239247,
+      "word": "XBB是否会导致腹泻",
+      "onboard_time": 1672661248,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238947,
@@ -1145,6 +1225,14 @@
       "onboard_time": 1672581695,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231596,
+      "num": 231596,
+      "word": "狼队输了",
+      "onboard_time": 1672661909,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 230411,
@@ -1435,6 +1523,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 190968,
+      "num": 181524,
+      "word": "所以只能玩起了手机",
+      "onboard_time": 1672662391,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190844,
       "num": 190844,
       "word": "黑暗荣耀",
@@ -1505,6 +1601,14 @@
       "onboard_time": 1672594699,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178096,
+      "num": 178096,
+      "word": "狗狗是懂享受的",
+      "onboard_time": 1672658492,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 177854,
@@ -1627,6 +1731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156607,
+      "num": 156607,
+      "word": "凯迪拉克车身贴AED抢救标志",
+      "onboard_time": 1672662210,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 153998,
       "num": 153998,
       "word": "糖丸爷爷顾方舟逝世四周年",
@@ -1659,12 +1771,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151268,
+      "num": 151268,
+      "word": "成都GG夺冠",
+      "onboard_time": 1672659751,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 151134,
+      "num": 151134,
+      "word": "元旦假期国内旅游收入265.17亿元",
+      "onboard_time": 1672660770,
+      "rank": 44,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 151081,
       "num": 151081,
       "word": "如何评价王者海月新皮肤",
       "onboard_time": 1672637310,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148415,
+      "num": 148415,
+      "word": "平时不理狗狗的后果",
+      "onboard_time": 1672662631,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 147894,
@@ -1883,14 +2019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122942,
-      "num": 122942,
-      "word": "狗狗是懂享受的",
-      "onboard_time": 1672658492,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 121992,
       "num": 121992,
       "word": "原来还有小狗不会汪汪叫",
@@ -1905,6 +2033,14 @@
       "onboard_time": 1672648348,
       "rank": 47,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 120518,
+      "num": 135987,
+      "word": "坐在车里被围观的狗狗",
+      "onboard_time": 1672661669,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 119818,
@@ -2100,7 +2236,7 @@
     },
     {
       "raw_hot": 65380,
-      "num": 1189884,
+      "num": 1228020,
       "word": "卫星视角看祖国壮美河山",
       "onboard_time": 1672630409,
       "rank": 2,
