@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672633332760,
+  "endTime": 1672634229724,
   "band_list": [
     {
       "raw_hot": 2758634,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750129,
+      "num": 750129,
+      "word": "二次感染新冠是什么体验",
+      "onboard_time": 1672631249,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 741183,
       "num": 741183,
       "word": "水哥王昱珩官宣回归最强大脑",
@@ -112,14 +120,6 @@
       "word": "女子用紫外线灯消毒灼伤全家眼睛",
       "onboard_time": 1672624707,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 681618,
-      "num": 681618,
-      "word": "二次感染新冠是什么体验",
-      "onboard_time": 1672631249,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563512,
+      "num": 563512,
+      "word": "女子一晚捡烟花纸皮920斤卖552元",
+      "onboard_time": 1672629868,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556161,
       "num": 437881,
       "word": "侯一民去世",
@@ -171,16 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 537908,
-      "num": 537908,
-      "word": "女子一晚捡烟花纸皮920斤卖552元",
-      "onboard_time": 1672629868,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 520106,
-      "num": 520106,
+      "raw_hot": 526085,
+      "num": 526085,
       "word": "新冠为什么不能视为大号感冒",
       "onboard_time": 1672628908,
       "rank": 39,
@@ -235,12 +235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448916,
+      "num": 448916,
+      "word": "网红转型当歌手有门槛吗",
+      "onboard_time": 1672632630,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 442858,
       "num": 296971,
       "word": "吴磊扯工牌",
       "onboard_time": 1672583074,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 441508,
+      "num": 441508,
+      "word": "卫健委回应还要多久熬过艰难时光",
+      "onboard_time": 1672628788,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431931,
@@ -251,20 +267,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 431360,
+      "num": 431360,
+      "word": "流浪猫集体绝育后躺成一排",
+      "onboard_time": 1672632332,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428888,
       "num": 289854,
       "word": "李现好会亲",
       "onboard_time": 1672575870,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 418535,
-      "num": 418535,
-      "word": "卫健委回应还要多久熬过艰难时光",
-      "onboard_time": 1672628788,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 410093,
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287011,
+      "num": 287011,
+      "word": "马嘉祺东方卫视跨年舞台直拍",
+      "onboard_time": 1672632449,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286271,
       "num": 286271,
       "word": "黑暗荣耀 好看",
@@ -451,20 +475,12 @@
       "category": "动漫,网红"
     },
     {
-      "raw_hot": 281349,
-      "num": 281349,
-      "word": "网红转型当歌手有门槛吗",
-      "onboard_time": 1672632630,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 279055,
-      "num": 279055,
-      "word": "马嘉祺东方卫视跨年舞台直拍",
-      "onboard_time": 1672632449,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 279522,
+      "num": 279522,
+      "word": "过年最好不要弄这种发型",
+      "onboard_time": 1672630349,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 272703,
@@ -497,14 +513,6 @@
       "onboard_time": 1672631249,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 247489,
-      "num": 247489,
-      "word": "流浪猫集体绝育后躺成一排",
-      "onboard_time": 1672632332,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246455,
@@ -569,14 +577,6 @@
       "onboard_time": 1672625309,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214829,
-      "num": 214829,
-      "word": "过年最好不要弄这种发型",
-      "onboard_time": 1672630349,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 214021,
@@ -659,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198794,
+      "num": 198794,
+      "word": "年轻人在滑一种很新的雪",
+      "onboard_time": 1672631969,
+      "rank": 32,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 196506,
       "num": 196506,
       "word": "有三亚旅游团恢复到3年前同期水平",
@@ -707,12 +715,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 189659,
-      "num": 189659,
-      "word": "年轻人在滑一种很新的雪",
-      "onboard_time": 1672631969,
-      "rank": 32,
-      "category": "体育,社会新闻"
+      "raw_hot": 187028,
+      "num": 187028,
+      "word": "赵丽颖许半夏12月猫眼角色热度榜冠军",
+      "onboard_time": 1672634131,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 186433,
+      "num": 186433,
+      "word": "新疆一滑雪场出现野生雪豹",
+      "onboard_time": 1672633168,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185311,
@@ -849,6 +865,14 @@
       "onboard_time": 1672628670,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151296,
+      "num": 151296,
+      "word": "王者海月新皮肤",
+      "onboard_time": 1672633951,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 147373,
@@ -995,20 +1019,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113989,
+      "num": 113989,
+      "word": "女子晨跑时看到遍地烟花垃圾",
+      "onboard_time": 1672633890,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111249,
       "num": 1088311,
       "word": "2023年哪些新规开始实施",
       "onboard_time": 1672586609,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 108875,
-      "num": 108875,
-      "word": "新疆一滑雪场出现野生雪豹",
-      "onboard_time": 1672633168,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108367,
