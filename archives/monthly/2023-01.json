@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672669997798,
+  "endTime": 1672672730497,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -353,6 +353,14 @@
       "onboard_time": 1672576110,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1412616,
+      "num": 1412616,
+      "word": "第一次见这么尴尬的跨年",
+      "onboard_time": 1672667553,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 1406494,
@@ -747,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 831751,
+      "num": 825861,
+      "word": "4岁女童被同村男子拐走6万卖掉",
+      "onboard_time": 1672667494,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 831499,
       "num": 831499,
       "word": "廖搏点评王一博跨年舞台",
@@ -777,14 +793,6 @@
       "onboard_time": 1672506991,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 825861,
-      "num": 825861,
-      "word": "4岁女童被同村男子拐走6万卖掉",
-      "onboard_time": 1672667494,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 815085,
@@ -873,14 +881,6 @@
       "onboard_time": 1672668334,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 742757,
-      "num": 742757,
-      "word": "第一次见这么尴尬的跨年",
-      "onboard_time": 1672667553,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 741183,
@@ -1155,8 +1155,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 593518,
+      "num": 593518,
+      "word": "浮图缘",
+      "onboard_time": 1672615097,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 591899,
-      "num": 246310,
+      "num": 310029,
       "word": "张云雷获年度人气歌手奖",
       "onboard_time": 1672667612,
       "rank": 20,
@@ -1305,6 +1313,14 @@
       "onboard_time": 1672646008,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544124,
+      "num": 544124,
+      "word": "张远现场好稳",
+      "onboard_time": 1672670553,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 538045,
@@ -1763,14 +1779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 413064,
-      "num": 413064,
-      "word": "浮图缘",
-      "onboard_time": 1672615097,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 411962,
       "num": 411962,
       "word": "陈楚生 声音",
@@ -1892,7 +1900,7 @@
     },
     {
       "raw_hot": 393276,
-      "num": 1407550,
+      "num": 1413130,
       "word": "什么环境下需要佩戴N95口罩",
       "onboard_time": 1672665212,
       "rank": 2,
@@ -1995,6 +2003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 363315,
+      "num": 262410,
+      "word": "李现直播说你们要相信我的眼光",
+      "onboard_time": 1672671213,
+      "rank": 21,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 362111,
       "num": 362111,
       "word": "苏醒说人以群分",
@@ -2016,6 +2032,14 @@
       "word": "蒙脱石散主要治什么",
       "onboard_time": 1672543532,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359427,
+      "num": 359427,
+      "word": "病毒感染并没有特效药",
+      "onboard_time": 1672667192,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -2243,6 +2267,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 323425,
+      "num": 294130,
+      "word": "47岁父亲考研18岁女儿受激励备考",
+      "onboard_time": 1672670433,
+      "rank": 17,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 321975,
       "num": 321975,
       "word": "专家称蒙脱石散并非止泻首选",
@@ -2283,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317510,
+      "num": 317510,
+      "word": "水银温度计打碎了这样处理",
+      "onboard_time": 1672669952,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317477,
       "num": 317477,
       "word": "还魂",
@@ -2297,6 +2337,14 @@
       "onboard_time": 1672539393,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316705,
+      "num": 316705,
+      "word": "被一个蜡烛丑到了",
+      "onboard_time": 1672670192,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 315914,
@@ -2345,14 +2393,6 @@
       "onboard_time": 1672552952,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 306403,
-      "num": 306403,
-      "word": "病毒感染并没有特效药",
-      "onboard_time": 1672667192,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304760,
@@ -2561,6 +2601,14 @@
       "onboard_time": 1672615276,
       "rank": 5,
       "category": "动漫,网红"
+    },
+    {
+      "raw_hot": 281658,
+      "num": 281658,
+      "word": "C罗微笑说利雅得见",
+      "onboard_time": 1672671333,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 281534,
@@ -2779,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261801,
+      "num": 261801,
+      "word": "爷爷奶奶烧竹沥水为孙女止咳",
+      "onboard_time": 1672669414,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260572,
       "num": 183181,
       "word": "苏醒两年前的站位vs今晚的站位",
@@ -2921,6 +2977,14 @@
       "onboard_time": 1672626389,
       "rank": 44,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 245641,
+      "num": 186825,
+      "word": "鑫仔 戏悟",
+      "onboard_time": 1672672234,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 243854,
@@ -3121,6 +3185,14 @@
       "onboard_time": 1672622486,
       "rank": 46,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 229971,
+      "num": 229971,
+      "word": "当你摸狗时突然停止",
+      "onboard_time": 1672667853,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 226676,
@@ -3531,6 +3603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196729,
+      "num": 196729,
+      "word": "劳斯莱斯接亲卡道牙进退两难",
+      "onboard_time": 1672671097,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196506,
       "num": 196506,
       "word": "有三亚旅游团恢复到3年前同期水平",
@@ -3673,6 +3753,14 @@
       "onboard_time": 1672667433,
       "rank": 29,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 186722,
+      "num": 131090,
+      "word": "肖铎步音楼甜得好自然",
+      "onboard_time": 1672672051,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 186399,
@@ -3867,6 +3955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174271,
+      "num": 174271,
+      "word": "当猫猫会角色扮演了",
+      "onboard_time": 1672671751,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173928,
       "num": 173928,
       "word": "将辛苦变为幸福的方法",
@@ -4000,14 +4096,6 @@
       "word": "谁能拒绝会跳女团舞的老师呢",
       "onboard_time": 1672580492,
       "rank": 29,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 162695,
-      "num": 162695,
-      "word": "当你摸狗时突然停止",
-      "onboard_time": 1672667853,
-      "rank": 43,
       "category": "幽默"
     },
     {
@@ -4707,14 +4795,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 109768,
-      "num": 142554,
-      "word": "爷爷奶奶烧竹沥水为孙女止咳",
-      "onboard_time": 1672669414,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109472,
       "num": 109472,
       "word": "王者新赛季明日上线",
@@ -4787,6 +4867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103959,
+      "num": 142104,
+      "word": "宠物医院回应用店内机器给人拍片",
+      "onboard_time": 1672669113,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103370,
       "num": 187836,
       "word": "厦门六中合唱团上新了",
@@ -4827,12 +4915,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100040,
-      "num": 142104,
-      "word": "宠物医院回应用店内机器给人拍片",
-      "onboard_time": 1672669113,
+      "raw_hot": 99555,
+      "num": 124954,
+      "word": "鹅鸭杀回应服务器崩了",
+      "onboard_time": 1672672712,
       "rank": 47,
-      "category": "社会新闻"
+      "category": "游戏"
     },
     {
       "raw_hot": 99431,
@@ -4931,20 +5019,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93540,
+      "num": 123326,
+      "word": "空气净化器用了2年发现滤芯膜没撕",
+      "onboard_time": 1672672234,
+      "rank": 48,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 92634,
       "num": 1127200,
       "word": "祝愿大家新年快乐皆得所愿",
       "onboard_time": 1672487926,
       "rank": 44,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 92428,
-      "num": 141716,
-      "word": "水银温度计打碎了这样处理",
-      "onboard_time": 1672669952,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91931,
