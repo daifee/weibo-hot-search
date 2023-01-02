@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672684557789,
+  "endTime": 1672686840417,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -5505,6 +5505,14 @@
       "onboard_time": 1672567231,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 23735,
+      "num": 23735,
+      "word": "中学生湖边烧烤半个身子陷入淤泥",
+      "onboard_time": 1672685653,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20535,
