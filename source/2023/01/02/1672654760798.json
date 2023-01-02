@@ -1,0 +1,410 @@
+{
+  "runTime": 1672654760798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 773599,
+        "num": 943013,
+        "word": "Newjeans回归MV",
+        "onboard_time": 1672651710,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 670452,
+        "num": 670452,
+        "word": "IU田柾国被滚石选为最伟大歌手TOP200",
+        "onboard_time": 1672652851,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22541,
+        "num": 668576,
+        "word": "卫星视角看祖国壮美河山",
+        "onboard_time": 1672630409,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2128458,
+        "num": 665261,
+        "word": "警方称胡鑫宇或有厌学情绪自行出走",
+        "onboard_time": 1672649491,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1155308,
+        "num": 663762,
+        "word": "女生收15万彩礼结婚时要加到20万",
+        "onboard_time": 1672650208,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901713,
+        "num": 660777,
+        "word": "情侣吃自助拿多了把虾倒锅里逃跑",
+        "onboard_time": 1672636349,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658773,
+        "num": 658773,
+        "word": "街舞导演说王一博真男儿言出必行",
+        "onboard_time": 1672650087,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 637963,
+        "num": 637963,
+        "word": "上海已测到XBB毒株",
+        "onboard_time": 1672627889,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482379,
+        "num": 482379,
+        "word": "女子发现男友真实身份时已借200万",
+        "onboard_time": 1672648528,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427252,
+        "num": 427252,
+        "word": "顾客吃串服务员数签多算100根",
+        "onboard_time": 1672646548,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1946822,
+        "num": 426369,
+        "word": "新还珠格格",
+        "onboard_time": 1672652189,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 742381,
+        "num": 407764,
+        "word": "妈妈撒气将婴儿脸朝下扔地上",
+        "onboard_time": 1672647087,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 555442,
+        "num": 393004,
+        "word": "明星刚出道时有多惊艳",
+        "onboard_time": 1672649068,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 475966,
+        "num": 375329,
+        "word": "hanni声音",
+        "onboard_time": 1672653271,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368791,
+        "num": 368791,
+        "word": "专家称不至于三个月就经历一波疫情",
+        "onboard_time": 1672653092,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339404,
+        "num": 339404,
+        "word": "34岁宝妈本科毕业10年后考研",
+        "onboard_time": 1672645167,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 335990,
+        "num": 335990,
+        "word": "胡鑫宇学校监控视频未被删减",
+        "onboard_time": 1672653990,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327627,
+        "num": 327627,
+        "word": "济南100岁新冠患者病愈出院",
+        "onboard_time": 1672652429,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315914,
+        "num": 315914,
+        "word": "专家说感染新冠后脱发不是后遗症",
+        "onboard_time": 1672649430,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241403,
+        "num": 241403,
+        "word": "重庆多家药店蒙脱石散一夜脱销",
+        "onboard_time": 1672650869,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368987,
+        "num": 232299,
+        "word": "赵露思绿背心对镜九宫格",
+        "onboard_time": 1672653452,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331779,
+        "num": 230505,
+        "word": "YG确认金智秀今年将发行solo专辑",
+        "onboard_time": 1672642766,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 291408,
+        "num": 224536,
+        "word": "苏醒说人以群分",
+        "onboard_time": 1672650149,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216615,
+        "num": 216615,
+        "word": "蒙脱石散",
+        "onboard_time": 1672624887,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215877,
+        "num": 215877,
+        "word": "急性传染高峰之后的两周是最艰难的",
+        "onboard_time": 1672636650,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203160,
+        "num": 203160,
+        "word": "卧龙凤雏的两只猫咪",
+        "onboard_time": 1672649249,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200413,
+        "num": 200413,
+        "word": "感染新冠后为什么会脱发",
+        "onboard_time": 1672646008,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182927,
+        "num": 182927,
+        "word": "3万人现场欢迎C罗加盟",
+        "onboard_time": 1672653509,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163597,
+        "num": 163597,
+        "word": "为什么不那么热衷恋爱了",
+        "onboard_time": 1672645348,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161646,
+        "num": 161646,
+        "word": "丈夫归家送妻子孩子1人1串糖葫芦",
+        "onboard_time": 1672650929,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238947,
+        "num": 161234,
+        "word": "你身边存在女生规则吗",
+        "onboard_time": 1672651528,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238342,
+        "num": 159645,
+        "word": "蔡徐坤晒湿发对镜自拍",
+        "onboard_time": 1672645348,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222267,
+        "num": 158578,
+        "word": "爱情悍匪程霄",
+        "onboard_time": 1672653811,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195026,
+        "num": 158515,
+        "word": "今年首尔歌谣大赏有望在中国播出",
+        "onboard_time": 1672650149,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157481,
+        "num": 157481,
+        "word": "女生相亲遇疫情与对象同居后领证",
+        "onboard_time": 1672648049,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 152717,
+        "num": 152717,
+        "word": "雪容融下线",
+        "onboard_time": 1672639350,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150323,
+        "num": 150323,
+        "word": "毕业后也不要放弃学习的习惯",
+        "onboard_time": 1672646727,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148133,
+        "num": 148133,
+        "word": "研究称你胖可能是肠道细菌的错",
+        "onboard_time": 1672651829,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 147894,
+        "num": 147894,
+        "word": "出现白肺怎么治疗",
+        "onboard_time": 1672652851,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141718,
+        "num": 141718,
+        "word": "胡福明去世",
+        "onboard_time": 1672635329,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162879,
+        "num": 141354,
+        "word": "罗渽民给粉丝线上看诊",
+        "onboard_time": 1672649128,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153502,
+        "num": 141141,
+        "word": "为什么喜欢梁洁演的叶时蓝",
+        "onboard_time": 1672647809,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139894,
+        "num": 139894,
+        "word": "益生菌",
+        "onboard_time": 1672642408,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123539,
+        "num": 123539,
+        "word": "抗原检测试剂遭甩卖",
+        "onboard_time": 1672627408,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104755,
+        "num": 104755,
+        "word": "女子花2700修热水器成本只有13元",
+        "onboard_time": 1672636948,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103156,
+        "num": 103156,
+        "word": "女子买81元猪舌付8.1元还偷肉",
+        "onboard_time": 1672639947,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101826,
+        "num": 101826,
+        "word": "甘宇胖回来了",
+        "onboard_time": 1672652851,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99680,
+        "num": 99680,
+        "word": "村民组团开车偷光几百亩白菜",
+        "onboard_time": 1672646125,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 96097,
+        "num": 96097,
+        "word": "河南一景区大量游客滞留山上喊退票",
+        "onboard_time": 1672654591,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 92436,
+        "num": 92436,
+        "word": "二次感染新冠是什么体验",
+        "onboard_time": 1672631249,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#聆听新年贺词2023加油干#"
+    }
+  }
+}
