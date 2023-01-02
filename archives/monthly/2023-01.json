@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672644812366,
+  "endTime": 1672647850562,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 2079160,
-      "num": 765242,
+      "num": 925117,
       "word": "情侣吃自助拿多了把虾倒锅里逃跑",
       "onboard_time": 1672636349,
       "rank": 37,
@@ -289,6 +289,14 @@
       "onboard_time": 1672491780,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1416608,
+      "num": 373072,
+      "word": "网红灰太狼的羊自曝已婚生子曾被家暴",
+      "onboard_time": 1672646489,
+      "rank": 10,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1413736,
@@ -513,6 +521,14 @@
       "onboard_time": 1672534109,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 995425,
+      "num": 995425,
+      "word": "34岁宝妈本科毕业10年后考研",
+      "onboard_time": 1672645167,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 985172,
@@ -1011,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558432,
+      "num": 419118,
+      "word": "孕妻阳后住院被丈夫吐槽难伺候",
+      "onboard_time": 1672645647,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556161,
       "num": 437881,
       "word": "侯一民去世",
@@ -1491,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396524,
+      "num": 366474,
+      "word": "蔡徐坤晒湿发对镜自拍",
+      "onboard_time": 1672645348,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392438,
       "num": 392438,
       "word": "C罗获得新东家1亿欧签字费",
@@ -1633,6 +1665,14 @@
       "onboard_time": 1672554331,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 347911,
+      "num": 347911,
+      "word": "顾客吃串服务员数签多算100根",
+      "onboard_time": 1672646548,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346743,
@@ -1841,6 +1881,14 @@
       "onboard_time": 1672552952,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 304943,
+      "num": 304943,
+      "word": "感染新冠后为什么会脱发",
+      "onboard_time": 1672646008,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303562,
@@ -2075,6 +2123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278121,
+      "num": 278121,
+      "word": "吃毒蘑菇后的第一视角",
+      "onboard_time": 1672643428,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 277639,
       "num": 472629,
       "word": "2023元旦快乐",
@@ -2121,6 +2177,14 @@
       "onboard_time": 1672559609,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269146,
+      "num": 174939,
+      "word": "妈妈撒气将婴儿脸朝下扔地上",
+      "onboard_time": 1672647087,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 266447,
@@ -2435,12 +2499,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 228979,
-      "num": 228979,
-      "word": "吃毒蘑菇后的第一视角",
-      "onboard_time": 1672643428,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 226854,
+      "num": 226854,
+      "word": "为什么喜欢梁洁演的叶时蓝",
+      "onboard_time": 1672647809,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 226676,
+      "num": 226676,
+      "word": "rita新年cos",
+      "onboard_time": 1672645768,
+      "rank": 23,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 224057,
@@ -2955,6 +3027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180599,
+      "num": 180599,
+      "word": "为什么不那么热衷恋爱了",
+      "onboard_time": 1672645348,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180125,
       "num": 140995,
       "word": "孟佳分享央视总台跨年晚会幕后vlog",
@@ -3195,6 +3275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163268,
+      "num": 163268,
+      "word": "村民组团开车偷光几百亩白菜",
+      "onboard_time": 1672646125,
+      "rank": 33,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 159915,
       "num": 926232,
       "word": "泰山宝光开启2023",
@@ -3233,6 +3321,22 @@
       "onboard_time": 1672554630,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156180,
+      "num": 156180,
+      "word": "毕业后也不要放弃学习的习惯",
+      "onboard_time": 1672646727,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 154678,
+      "num": 154678,
+      "word": "王鹤棣陈钰琪浮图缘豆瓣评分7.3",
+      "onboard_time": 1672647387,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 153998,
@@ -3353,6 +3457,14 @@
       "onboard_time": 1672516574,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144062,
+      "num": 144062,
+      "word": "华晨宇新歌毽子头发型",
+      "onboard_time": 1672645528,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 143396,
@@ -3481,6 +3593,14 @@
       "onboard_time": 1672572209,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 134386,
+      "num": 134386,
+      "word": "吴磊2023央视春晚彩排内场图",
+      "onboard_time": 1672647689,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 133411,

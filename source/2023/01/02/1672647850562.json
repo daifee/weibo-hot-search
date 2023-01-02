@@ -1,0 +1,410 @@
+{
+  "runTime": 1672647850562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 995425,
+        "num": 995425,
+        "word": "34岁宝妈本科毕业10年后考研",
+        "onboard_time": 1672645167,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 966005,
+        "num": 966005,
+        "word": "YG确认金智秀今年将发行solo专辑",
+        "onboard_time": 1672642766,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 37142,
+        "num": 925309,
+        "word": "卫星视角看祖国壮美河山",
+        "onboard_time": 1672630409,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1407294,
+        "num": 925117,
+        "word": "情侣吃自助拿多了把虾倒锅里逃跑",
+        "onboard_time": 1672636349,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924730,
+        "num": 924730,
+        "word": "上海已测到XBB毒株",
+        "onboard_time": 1672627889,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422625,
+        "num": 422625,
+        "word": "雪容融下线",
+        "onboard_time": 1672639350,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 558432,
+        "num": 419118,
+        "word": "孕妻阳后住院被丈夫吐槽难伺候",
+        "onboard_time": 1672645647,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412138,
+        "num": 412138,
+        "word": "女子买81元猪舌付8.1元还偷肉",
+        "onboard_time": 1672639947,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407279,
+        "num": 407279,
+        "word": "急性传染高峰之后的两周是最艰难的",
+        "onboard_time": 1672636650,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387277,
+        "num": 387277,
+        "word": "阿凡达2票房达到回本线",
+        "onboard_time": 1672641987,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1416608,
+        "num": 373072,
+        "word": "网红灰太狼的羊自曝已婚生子曾被家暴",
+        "onboard_time": 1672646489,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 396524,
+        "num": 366474,
+        "word": "蔡徐坤晒湿发对镜自拍",
+        "onboard_time": 1672645348,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347911,
+        "num": 347911,
+        "word": "顾客吃串服务员数签多算100根",
+        "onboard_time": 1672646548,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329845,
+        "num": 329845,
+        "word": "张艺兴公司练习生合照",
+        "onboard_time": 1672642949,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320162,
+        "num": 320162,
+        "word": "抗原检测试剂遭甩卖",
+        "onboard_time": 1672627408,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316967,
+        "num": 316967,
+        "word": "胡福明去世",
+        "onboard_time": 1672635329,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304943,
+        "num": 304943,
+        "word": "感染新冠后为什么会脱发",
+        "onboard_time": 1672646008,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278121,
+        "num": 278121,
+        "word": "吃毒蘑菇后的第一视角",
+        "onboard_time": 1672643428,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247583,
+        "num": 247583,
+        "word": "女子变阳求前夫照顾但拒绝复合",
+        "onboard_time": 1672624288,
+        "rank": 18,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 245321,
+        "num": 245321,
+        "word": "女子花2700修热水器成本只有13元",
+        "onboard_time": 1672636948,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533616,
+        "num": 239194,
+        "word": "益生菌",
+        "onboard_time": 1672642408,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292603,
+        "num": 233210,
+        "word": "蒙脱石散",
+        "onboard_time": 1672624887,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226854,
+        "num": 226854,
+        "word": "为什么喜欢梁洁演的叶时蓝",
+        "onboard_time": 1672647809,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226676,
+        "num": 226676,
+        "word": "rita新年cos",
+        "onboard_time": 1672645768,
+        "rank": 23,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 225930,
+        "num": 225930,
+        "word": "新冠为什么不能视为大号感冒",
+        "onboard_time": 1672628908,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204497,
+        "num": 204497,
+        "word": "妈妈掏出百万元存折催儿子结婚",
+        "onboard_time": 1672627708,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200166,
+        "num": 200166,
+        "word": "这狗真的一点边界感都没有",
+        "onboard_time": 1672642047,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180599,
+        "num": 180599,
+        "word": "为什么不那么热衷恋爱了",
+        "onboard_time": 1672645348,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180280,
+        "num": 180280,
+        "word": "妈妈带化疗孩子买帽子暖心老板直接送",
+        "onboard_time": 1672639528,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 175384,
+        "num": 175384,
+        "word": "二次感染新冠是什么体验",
+        "onboard_time": 1672631249,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269146,
+        "num": 174939,
+        "word": "妈妈撒气将婴儿脸朝下扔地上",
+        "onboard_time": 1672647087,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 172826,
+        "num": 172826,
+        "word": "黑暗荣耀 男二",
+        "onboard_time": 1672639350,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169589,
+        "num": 169589,
+        "word": "Newjeans主打曲OMG",
+        "onboard_time": 1672627769,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163268,
+        "num": 163268,
+        "word": "村民组团开车偷光几百亩白菜",
+        "onboard_time": 1672646125,
+        "rank": 33,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 160441,
+        "num": 160441,
+        "word": "新郎带新娘到医院给重症父亲磕头",
+        "onboard_time": 1672635090,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156180,
+        "num": 156180,
+        "word": "毕业后也不要放弃学习的习惯",
+        "onboard_time": 1672646727,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154678,
+        "num": 154678,
+        "word": "王鹤棣陈钰琪浮图缘豆瓣评分7.3",
+        "onboard_time": 1672647387,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158817,
+        "num": 153815,
+        "word": "夫妻阳康后着急备孕医生劝阻",
+        "onboard_time": 1672618943,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151901,
+        "num": 151901,
+        "word": "王者海月新皮肤",
+        "onboard_time": 1672633951,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147460,
+        "num": 147460,
+        "word": "原来年味是可以穿出来的",
+        "onboard_time": 1672643247,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147309,
+        "num": 147309,
+        "word": "张彬彬说徐璐是最能哭的",
+        "onboard_time": 1672635570,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146794,
+        "num": 146794,
+        "word": "当南方猫去了东北",
+        "onboard_time": 1672635627,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144062,
+        "num": 144062,
+        "word": "华晨宇新歌毽子头发型",
+        "onboard_time": 1672645528,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134386,
+        "num": 134386,
+        "word": "吴磊2023央视春晚彩排内场图",
+        "onboard_time": 1672647689,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131328,
+        "num": 131328,
+        "word": "王源文淇合作我抬头发现两朵一样的云",
+        "onboard_time": 1672637850,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129249,
+        "num": 129249,
+        "word": "卫健委回应还要多久熬过艰难时光",
+        "onboard_time": 1672628788,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127894,
+        "num": 127894,
+        "word": "刘亦菲李现新剧片场互相打手花絮",
+        "onboard_time": 1672642829,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114864,
+        "num": 114864,
+        "word": "流浪猫集体绝育后躺成一排",
+        "onboard_time": 1672632332,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111020,
+        "num": 111020,
+        "word": "男子进店被劝戴口罩反怼就不戴",
+        "onboard_time": 1672640548,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105826,
+        "num": 105826,
+        "word": "女子阳性7天没下厨老公表现超赞",
+        "onboard_time": 1672626569,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年看中国#"
+    }
+  }
+}
