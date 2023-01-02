@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672664028597,
+  "endTime": 1672665788586,
   "band_list": [
     {
       "raw_hot": 2758634,
@@ -99,6 +99,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1354876,
+      "num": 1354876,
+      "word": "胡鑫宇失踪母亲暴瘦60斤",
+      "onboard_time": 1672659690,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1333203,
       "num": 808788,
       "word": "女子称产下双胞胎后小儿子去向不明",
@@ -179,14 +187,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1040344,
-      "num": 451917,
-      "word": "胡鑫宇失踪母亲暴瘦60斤",
-      "onboard_time": 1672659690,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 985172,
       "num": 985172,
       "word": "急性传染高峰之后的两周是最艰难的",
@@ -235,8 +235,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 816732,
-      "num": 816732,
+      "raw_hot": 852590,
+      "num": 852590,
       "word": "世界唯一女性文字来自湖南小城",
       "onboard_time": 1672660049,
       "rank": 3,
@@ -283,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 728048,
+      "num": 373296,
+      "word": "吴镇宇直播模仿张艺兴跳舞",
+      "onboard_time": 1672663890,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 723398,
       "num": 723398,
       "word": "女子用紫外线灯消毒灼伤全家眼睛",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 712492,
-      "num": 289207,
+      "num": 364694,
       "word": "李现直播",
       "onboard_time": 1672662509,
       "rank": 20,
@@ -507,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 504860,
+      "num": 504860,
+      "word": "陈钰琪的方言是王鹤棣教的吗",
+      "onboard_time": 1672664192,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 495081,
       "num": 495081,
       "word": "王俊凯新歌信仰",
@@ -667,12 +683,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 408528,
+      "num": 408528,
+      "word": "第一次见火车户型的房子",
+      "onboard_time": 1672663229,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 404865,
       "num": 235617,
       "word": "武林外传拜年花絮",
       "onboard_time": 1672662570,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 403715,
+      "num": 403715,
+      "word": "转阴后总觉得累是怎么回事",
+      "onboard_time": 1672664367,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403576,
@@ -731,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365058,
+      "num": 255864,
+      "word": "浮图缘",
+      "onboard_time": 1672615097,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362111,
       "num": 362111,
       "word": "苏醒说人以群分",
@@ -739,12 +779,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 358866,
+      "num": 358866,
+      "word": "所以只能玩起了手机",
+      "onboard_time": 1672662391,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 355496,
       "num": 296556,
       "word": "hanni新歌MV镜头",
       "onboard_time": 1672657590,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 350459,
+      "num": 350459,
+      "word": "凯迪拉克车身贴AED抢救标志",
+      "onboard_time": 1672662210,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 346930,
@@ -811,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 335056,
-      "num": 266731,
-      "word": "所以只能玩起了手机",
-      "onboard_time": 1672662391,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 331707,
       "num": 331707,
       "word": "学生吃席给老师带回一大碗虾和肉",
@@ -827,12 +875,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323589,
-      "num": 183172,
-      "word": "吴镇宇直播模仿张艺兴跳舞",
-      "onboard_time": 1672663890,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 328091,
+      "num": 178388,
+      "word": "还没过年春晚已经看完了",
+      "onboard_time": 1672665329,
+      "rank": 31,
+      "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 322134,
+      "num": 322134,
+      "word": "阳康后还会二次感染XBB吗",
+      "onboard_time": 1672663829,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321975,
@@ -955,6 +1011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 299907,
+      "num": 299907,
+      "word": "胡鑫宇家属回应和警方会面",
+      "onboard_time": 1672664733,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298890,
       "num": 298890,
       "word": "杨颖分享新年的第一份vlog",
@@ -969,14 +1033,6 @@
       "onboard_time": 1672647809,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 290187,
-      "num": 178757,
-      "word": "凯迪拉克车身贴AED抢救标志",
-      "onboard_time": 1672662210,
-      "rank": 42,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 287429,
@@ -1177,6 +1233,14 @@
       "onboard_time": 1672658430,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 253484,
+      "num": 253484,
+      "word": "排骨焖饭有多方便",
+      "onboard_time": 1672664311,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 251639,
@@ -1675,14 +1739,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 174934,
-      "num": 174934,
-      "word": "第一次见火车户型的房子",
-      "onboard_time": 1672663229,
-      "rank": 35,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 173928,
       "num": 173928,
       "word": "将辛苦变为幸福的方法",
@@ -2035,6 +2091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126788,
+      "num": 126788,
+      "word": "你阳康后最想做的事",
+      "onboard_time": 1672665451,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125901,
       "num": 125901,
       "word": "朗斯3比1巴黎",
@@ -2099,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116753,
+      "num": 922464,
+      "word": "什么环境下需要佩戴N95口罩",
+      "onboard_time": 1672665212,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116186,
       "num": 116186,
       "word": "武林外传首播17周年",
@@ -2120,14 +2192,6 @@
       "word": "还要多久才能熬过这段最艰难时光",
       "onboard_time": 1672630111,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114467,
-      "num": 114467,
-      "word": "阳康后还会二次感染XBB吗",
-      "onboard_time": 1672663829,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2299,14 +2363,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 64528,
-      "num": 64528,
-      "word": "浮图缘",
-      "onboard_time": 1672615097,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 63305,
       "num": 79516,
       "word": "哈尔滨的墙来了有多好笑",
@@ -2353,6 +2409,14 @@
       "onboard_time": 1672601652,
       "rank": 24,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 17621,
+      "num": 150201,
+      "word": "天猫直播演绎年货神曲",
+      "onboard_time": 1672664431,
+      "rank": 39,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
