@@ -1,6 +1,6 @@
 {
   "startTime": 1672676687155,
-  "endTime": 1672680810354,
+  "endTime": 1672683698262,
   "band_list": [
     {
       "raw_hot": 828093,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172940,
+      "num": 172940,
+      "word": "专家称临床上绝大多数人都是轻症",
+      "onboard_time": 1672678282,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162538,
       "num": 162538,
       "word": "被一个蜡烛丑到了",
@@ -337,14 +345,6 @@
       "onboard_time": 1672664311,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 105817,
-      "num": 105817,
-      "word": "专家称临床上绝大多数人都是轻症",
-      "onboard_time": 1672678282,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105307,
@@ -449,6 +449,14 @@
       "onboard_time": 1672676965,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43774,
+      "num": 32400,
+      "word": "黑暗荣耀 班主任",
+      "onboard_time": 1672681996,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 38622,
