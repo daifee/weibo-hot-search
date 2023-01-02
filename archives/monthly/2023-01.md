@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/03 02:21:38
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/03 02:35:57
 </p>
 </blockquote>
 <p>
@@ -4035,6 +4035,12 @@ Twins的状态我是服气的（热度：68205）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E6%9A%97%E8%8D%A3%E8%80%80%20%E7%8F%AD%E4%B8%BB%E4%BB%BB%23" target="weibo">
+黑暗荣耀 班主任（热度：48998）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E9%A4%90%23" target="weibo">
 新年第一餐（热度：45287）
 </a>
@@ -4043,12 +4049,6 @@ Twins的状态我是服气的（热度：68205）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E6%BB%A9%E4%BF%9D%E5%AE%89%E5%96%87%E5%8F%AD%E6%8F%90%E9%86%92%E8%B7%AF%E8%BE%B9%E5%AF%BC%E6%B8%B8%E4%B8%8D%E5%8F%AF%E4%BF%A1%23" target="weibo">
 外滩保安喇叭提醒路边导游不可信（热度：44571）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E6%9A%97%E8%8D%A3%E8%80%80%20%E7%8F%AD%E4%B8%BB%E4%BB%BB%23" target="weibo">
-黑暗荣耀 班主任（热度：43774）
 </a>
 </li>
 

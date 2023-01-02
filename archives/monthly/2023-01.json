@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672683698262,
+  "endTime": 1672684557789,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -5363,6 +5363,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 48998,
+      "num": 35939,
+      "word": "黑暗荣耀 班主任",
+      "onboard_time": 1672681996,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 45287,
       "num": 193052,
       "word": "新年第一餐",
@@ -5377,14 +5385,6 @@
       "onboard_time": 1672510461,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43774,
-      "num": 32400,
-      "word": "黑暗荣耀 班主任",
-      "onboard_time": 1672681996,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 43358,
