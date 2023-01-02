@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672647850562,
+  "endTime": 1672648606465,
   "band_list": [
     {
       "raw_hot": 2758634,
@@ -27,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1416608,
+      "raw_hot": 1768153,
       "num": 373072,
       "word": "网红灰太狼的羊自曝已婚生子曾被家暴",
       "onboard_time": 1672646489,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1167035,
+      "num": 1167035,
+      "word": "34岁宝妈本科毕业10年后考研",
+      "onboard_time": 1672645167,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1160725,
       "num": 1160725,
       "word": "官方回应郑州CBD燃放烟花",
@@ -105,14 +113,6 @@
       "onboard_time": 1672583371,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 995425,
-      "num": 995425,
-      "word": "34岁宝妈本科毕业10年后考研",
-      "onboard_time": 1672645167,
-      "rank": 0,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 985172,
@@ -177,6 +177,14 @@
       "onboard_time": 1672636948,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 702829,
+      "num": 308336,
+      "word": "妈妈撒气将婴儿脸朝下扔地上",
+      "onboard_time": 1672647087,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 679943,
@@ -296,6 +304,14 @@
       "word": "新冠为什么不能视为大号感冒",
       "onboard_time": 1672628908,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523301,
+      "num": 347911,
+      "word": "顾客吃串服务员数签多算100根",
+      "onboard_time": 1672646548,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -467,11 +483,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 347911,
-      "num": 347911,
-      "word": "顾客吃串服务员数签多算100根",
-      "onboard_time": 1672646548,
-      "rank": 12,
+      "raw_hot": 376156,
+      "num": 376156,
+      "word": "感染新冠后为什么会脱发",
+      "onboard_time": 1672646008,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -587,14 +603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 304943,
-      "num": 304943,
-      "word": "感染新冠后为什么会脱发",
-      "onboard_time": 1672646008,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 304567,
       "num": 304567,
       "word": "新冠病毒已经找到多种动物宿主",
@@ -641,6 +649,14 @@
       "onboard_time": 1672636710,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294857,
+      "num": 294857,
+      "word": "为什么喜欢梁洁演的叶时蓝",
+      "onboard_time": 1672647809,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 287429,
@@ -707,12 +723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269146,
-      "num": 174939,
-      "word": "妈妈撒气将婴儿脸朝下扔地上",
-      "onboard_time": 1672647087,
-      "rank": 30,
-      "category": "社会负面"
+      "raw_hot": 269160,
+      "num": 222156,
+      "word": "吴磊2023央视春晚彩排内场图",
+      "onboard_time": 1672647689,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 266133,
@@ -835,14 +851,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 226854,
-      "num": 226854,
-      "word": "为什么喜欢梁洁演的叶时蓝",
-      "onboard_time": 1672647809,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 226676,
       "num": 226676,
       "word": "rita新年cos",
@@ -864,6 +872,14 @@
       "word": "去有风的地方爱情观",
       "onboard_time": 1672626629,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 219890,
+      "num": 219890,
+      "word": "王鹤棣陈钰琪浮图缘豆瓣评分7.3",
+      "onboard_time": 1672647387,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -1027,6 +1043,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 195822,
+      "num": 195822,
+      "word": "毕业后也不要放弃学习的习惯",
+      "onboard_time": 1672646727,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195737,
       "num": 195737,
       "word": "顶尊跪坐人像和神兽首次合体",
@@ -1083,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190078,
+      "num": 190078,
+      "word": "为什么不那么热衷恋爱了",
+      "onboard_time": 1672645348,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185311,
       "num": 185311,
       "word": "如何在康复期快速恢复元气",
@@ -1104,14 +1136,6 @@
       "word": "元旦少不了姐姐收拾弟弟",
       "onboard_time": 1672600453,
       "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 180599,
-      "num": 180599,
-      "word": "为什么不那么热衷恋爱了",
-      "onboard_time": 1672645348,
-      "rank": 27,
       "category": "情感"
     },
     {
@@ -1153,6 +1177,14 @@
       "onboard_time": 1672632690,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172462,
+      "num": 172462,
+      "word": "村民组团开车偷光几百亩白菜",
+      "onboard_time": 1672646125,
+      "rank": 33,
+      "category": "社会负面"
     },
     {
       "raw_hot": 171374,
@@ -1219,36 +1251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163268,
-      "num": 163268,
-      "word": "村民组团开车偷光几百亩白菜",
-      "onboard_time": 1672646125,
-      "rank": 33,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 159346,
       "num": 152082,
       "word": "朱正廷演唱会哭了",
       "onboard_time": 1672591944,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 156180,
-      "num": 156180,
-      "word": "毕业后也不要放弃学习的习惯",
-      "onboard_time": 1672646727,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 154678,
-      "num": 154678,
-      "word": "王鹤棣陈钰琪浮图缘豆瓣评分7.3",
-      "onboard_time": 1672647387,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 153998,
@@ -1387,12 +1395,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134386,
-      "num": 134386,
-      "word": "吴磊2023央视春晚彩排内场图",
-      "onboard_time": 1672647689,
-      "rank": 43,
+      "raw_hot": 134209,
+      "num": 134209,
+      "word": "月歌行",
+      "onboard_time": 1672648289,
+      "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 133018,
+      "num": 133018,
+      "word": "女生相亲遇疫情与对象同居后领证",
+      "onboard_time": 1672648049,
+      "rank": 41,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 131492,
@@ -1473,6 +1489,22 @@
       "onboard_time": 1672581573,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121122,
+      "num": 121122,
+      "word": "南京大屠杀在册幸存者仅剩49人",
+      "onboard_time": 1672648348,
+      "rank": 47,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 118802,
+      "num": 118802,
+      "word": "女子发现男友真实身份时已借200万",
+      "onboard_time": 1672648528,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116186,
