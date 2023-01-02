@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672627755760,
+  "endTime": 1672629586069,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1865019,
+      "num": 1865019,
+      "word": "上海已测到XBB毒株",
+      "onboard_time": 1672627889,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1857213,
       "num": 1857213,
       "word": "苏醒说哥是懂站位的",
@@ -283,20 +291,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1368160,
+      "num": 1077383,
+      "word": "女子变阳求前夫照顾但拒绝复合",
+      "onboard_time": 1672624288,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1333203,
       "num": 808788,
       "word": "女子称产下双胞胎后小儿子去向不明",
       "onboard_time": 1672622667,
       "rank": 31,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1291817,
-      "num": 628609,
-      "word": "女子变阳求前夫照顾但拒绝复合",
-      "onboard_time": 1672624288,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1240782,
@@ -329,6 +337,14 @@
       "onboard_time": 1672583074,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1225619,
+      "num": 1225619,
+      "word": "抗原检测试剂遭甩卖",
+      "onboard_time": 1672627408,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1216817,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 1160486,
-      "num": 409304,
+      "num": 439534,
       "word": "专家回应人们感觉老人去世比往年多",
       "onboard_time": 1672621766,
       "rank": 10,
@@ -603,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 799424,
+      "num": 438944,
+      "word": "妈妈掏出百万元存折催儿子结婚",
+      "onboard_time": 1672627708,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787703,
       "num": 679875,
       "word": "虞书欣好瘦",
@@ -688,6 +712,14 @@
       "word": "有一种友谊叫何炅谢娜",
       "onboard_time": 1672551692,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 708125,
+      "num": 708125,
+      "word": "水哥王昱珩官宣回归最强大脑",
+      "onboard_time": 1672628068,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -892,10 +924,18 @@
     },
     {
       "raw_hot": 556161,
-      "num": 392979,
+      "num": 437881,
       "word": "侯一民去世",
       "onboard_time": 1672623446,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537966,
+      "num": 537966,
+      "word": "专家回应为何做了充足准备仍感觉猝不及防",
+      "onboard_time": 1672625429,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1107,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439750,
+      "num": 439750,
+      "word": "郭麒麟官宣加盟最强大脑10",
+      "onboard_time": 1672628249,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436939,
       "num": 436939,
       "word": "中科院原副院长王佛松院士逝世",
@@ -1152,14 +1200,6 @@
       "word": "杭州跨年夜再现人从众",
       "onboard_time": 1672549830,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425751,
-      "num": 425751,
-      "word": "专家回应为何做了充足准备仍感觉猝不及防",
-      "onboard_time": 1672625429,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1211,12 +1251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403576,
+      "num": 403576,
+      "word": "Newjeans主打曲OMG",
+      "onboard_time": 1672627769,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 402533,
       "num": 326967,
       "word": "0713 宝藏",
       "onboard_time": 1672553968,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402153,
+      "num": 402153,
+      "word": "女子阳性7天没下厨老公表现超赞",
+      "onboard_time": 1672626569,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401766,
@@ -1771,6 +1827,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 276438,
+      "num": 276438,
+      "word": "杨幂跨年候场视频",
+      "onboard_time": 1672625248,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274589,
       "num": 274589,
       "word": "专家称没必要囤蒙脱石散",
@@ -1801,6 +1865,14 @@
       "onboard_time": 1672559609,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271896,
+      "num": 271896,
+      "word": "江苏3胞胎虎宝降生2只为珍稀雪虎",
+      "onboard_time": 1672626930,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266447,
@@ -1907,20 +1979,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246455,
+      "num": 246455,
+      "word": "海南离岛免税连续7天销售额超亿元",
+      "onboard_time": 1672626389,
+      "rank": 44,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 243854,
       "num": 243854,
       "word": "目前没有证据表明新冠会影响月经",
       "onboard_time": 1672569870,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243180,
-      "num": 243180,
-      "word": "杨幂跨年候场视频",
-      "onboard_time": 1672625248,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 242767,
@@ -2051,28 +2123,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223650,
-      "num": 223650,
-      "word": "海南离岛免税连续7天销售额超亿元",
-      "onboard_time": 1672626389,
-      "rank": 44,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 223452,
       "num": 161553,
       "word": "王鹤棣谈与何润东见面第一印象",
       "onboard_time": 1672575029,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222776,
-      "num": 222776,
-      "word": "女子阳性7天没下厨老公表现超赞",
-      "onboard_time": 1672626569,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222186,
@@ -2107,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219330,
+      "num": 219330,
+      "word": "专家称XBB.1.5毒株与其他株没区别",
+      "onboard_time": 1672627469,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218653,
       "num": 218653,
       "word": "主人举着猫咪一起看烟花",
@@ -2128,6 +2192,14 @@
       "word": "女儿悄悄返家爸爸满眼是光",
       "onboard_time": 1672625309,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214629,
+      "num": 214629,
+      "word": "男子拿下科目三跪地给考试车磕头",
+      "onboard_time": 1672627168,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -2339,11 +2411,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197362,
-      "num": 197362,
-      "word": "专家称XBB.1.5毒株与其他株没区别",
-      "onboard_time": 1672627469,
-      "rank": 28,
+      "raw_hot": 198293,
+      "num": 198293,
+      "word": "卫健委回应还要多久熬过艰难时光",
+      "onboard_time": 1672628788,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -2385,6 +2457,14 @@
       "onboard_time": 1672579233,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194987,
+      "num": 194987,
+      "word": "最强大脑10嘉宾阵容官宣",
+      "onboard_time": 1672628009,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 193947,
@@ -2467,28 +2547,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183442,
-      "num": 183442,
-      "word": "江苏3胞胎虎宝降生2只为珍稀雪虎",
-      "onboard_time": 1672626930,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181905,
       "num": 261089,
       "word": "小狗狗自己坐雪圈滑雪",
       "onboard_time": 1672579290,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181861,
-      "num": 181861,
-      "word": "抗原检测试剂遭甩卖",
-      "onboard_time": 1672627408,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181488,
@@ -2617,6 +2681,14 @@
       "onboard_time": 1672514895,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170601,
+      "num": 170601,
+      "word": "新冠为什么不能视为大号感冒",
+      "onboard_time": 1672628908,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169764,
@@ -2761,6 +2833,14 @@
       "onboard_time": 1672502330,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152554,
+      "num": 152554,
+      "word": "这烟花也太懂事了吧",
+      "onboard_time": 1672628670,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 151654,
@@ -2915,6 +2995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138832,
+      "num": 138832,
+      "word": "老君顶景区辟谣阳康游客心衰死亡",
+      "onboard_time": 1672627947,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138464,
       "num": 80315,
       "word": "王源NewBoy少年感",
@@ -2945,14 +3033,6 @@
       "onboard_time": 1672538434,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130849,
-      "num": 130849,
-      "word": "男子拿下科目三跪地给考试车磕头",
-      "onboard_time": 1672627168,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129705,
@@ -3124,7 +3204,7 @@
     },
     {
       "raw_hot": 111249,
-      "num": 725972,
+      "num": 1088311,
       "word": "2023年哪些新规开始实施",
       "onboard_time": 1672586609,
       "rank": 2,
@@ -3153,6 +3233,14 @@
       "onboard_time": 1672618400,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107976,
+      "num": 107976,
+      "word": "宋佳新剧疯批人设",
+      "onboard_time": 1672629567,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 107665,
@@ -3217,14 +3305,6 @@
       "onboard_time": 1672548932,
       "rank": 45,
       "category": "体育,情感"
-    },
-    {
-      "raw_hot": 101904,
-      "num": 101904,
-      "word": "妈妈掏出百万元存折催儿子结婚",
-      "onboard_time": 1672627708,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100181,
