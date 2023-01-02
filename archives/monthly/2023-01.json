@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672666475501,
+  "endTime": 1672668967156,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2624913,
+      "num": 2624913,
+      "word": "鹅鸭杀",
+      "onboard_time": 1672667073,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2421301,
       "num": 2421301,
       "word": "跨年文案",
@@ -193,6 +201,14 @@
       "onboard_time": 1672504781,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1878978,
+      "num": 1878978,
+      "word": "转阴后总觉得累是怎么回事",
+      "onboard_time": 1672664367,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1857213,
@@ -803,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 773132,
+      "num": 418823,
+      "word": "吴镇宇直播模仿张艺兴跳舞",
+      "onboard_time": 1672663890,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 773034,
       "num": 708630,
       "word": "中国人不蹦洋迪",
@@ -827,28 +851,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 742331,
-      "num": 418823,
-      "word": "吴镇宇直播模仿张艺兴跳舞",
-      "onboard_time": 1672663890,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 741183,
       "num": 741183,
       "word": "水哥王昱珩官宣回归最强大脑",
       "onboard_time": 1672628068,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 737097,
-      "num": 737097,
-      "word": "转阴后总觉得累是怎么回事",
-      "onboard_time": 1672664367,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 729821,
@@ -897,6 +905,14 @@
       "onboard_time": 1672624707,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723088,
+      "num": 361014,
+      "word": "王鹤棣陈钰琪未播吻戏",
+      "onboard_time": 1672668334,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 716449,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1672541614,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 647699,
+      "num": 647699,
+      "word": "杨幂微博一直敞开是为了不忘初心",
+      "onboard_time": 1672667553,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 646856,
@@ -1115,6 +1139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 591899,
+      "num": 246310,
+      "word": "张云雷获年度人气歌手奖",
+      "onboard_time": 1672667612,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 589457,
       "num": 327236,
       "word": "Tangoz评论权志龙算你小子有点事业心",
@@ -1179,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 568002,
+      "num": 245192,
+      "word": "王栎鑫说棣棣的好友是即将要拉黑的",
+      "onboard_time": 1672668093,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 565547,
       "num": 565547,
       "word": "诺氟沙星是一种什么药",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1672629868,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562637,
+      "num": 221518,
+      "word": "还没过年春晚已经看完了",
+      "onboard_time": 1672665329,
+      "rank": 31,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 559829,
@@ -1225,6 +1273,14 @@
       "onboard_time": 1672623446,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550602,
+      "num": 357292,
+      "word": "4岁女童被同村男子拐走6万卖掉",
+      "onboard_time": 1672667494,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 548007,
@@ -1708,7 +1764,7 @@
     },
     {
       "raw_hot": 411889,
-      "num": 255864,
+      "num": 404219,
       "word": "浮图缘",
       "onboard_time": 1672615097,
       "rank": 27,
@@ -1827,12 +1883,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 392929,
-      "num": 221518,
-      "word": "还没过年春晚已经看完了",
-      "onboard_time": 1672665329,
-      "rank": 31,
-      "category": "综艺,幽默"
+      "raw_hot": 393276,
+      "num": 1407550,
+      "word": "什么环境下需要佩戴N95口罩",
+      "onboard_time": 1672665212,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392438,
@@ -1923,6 +1979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 365799,
+      "num": 365799,
+      "word": "第一次见这么尴尬的跨年",
+      "onboard_time": 1672667553,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 362111,
       "num": 362111,
       "word": "苏醒说人以群分",
@@ -1960,6 +2024,14 @@
       "word": "女子带男友回家父母准备几十道菜",
       "onboard_time": 1672502446,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356903,
+      "num": 356903,
+      "word": "阳康后还会二次感染XBB吗",
+      "onboard_time": 1672663829,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2099,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 336853,
+      "num": 176416,
+      "word": "谢娜分享看张杰跨年演唱会reaction",
+      "onboard_time": 1672666834,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335524,
       "num": 708682,
       "word": "2022 再也不见",
@@ -2161,14 +2241,6 @@
       "onboard_time": 1672502747,
       "rank": 15,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 322134,
-      "num": 322134,
-      "word": "阳康后还会二次感染XBB吗",
-      "onboard_time": 1672663829,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321975,
@@ -2635,6 +2707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268191,
+      "num": 175827,
+      "word": "央视综艺开门大吉",
+      "onboard_time": 1672666292,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268071,
       "num": 268071,
       "word": "新郎回应带新婚妻子给重症父亲磕头",
@@ -2665,6 +2745,14 @@
       "onboard_time": 1672641328,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 262880,
+      "num": 156434,
+      "word": "程霄否认暗恋顾南亭",
+      "onboard_time": 1672666590,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 262861,
@@ -2819,14 +2907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246854,
-      "num": 140069,
-      "word": "央视综艺开门大吉",
-      "onboard_time": 1672666292,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246455,
       "num": 246455,
       "word": "海南离岛免税连续7天销售额超亿元",
@@ -2875,14 +2955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 240252,
-      "num": 1099897,
-      "word": "什么环境下需要佩戴N95口罩",
-      "onboard_time": 1672665212,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240092,
       "num": 1138575,
       "word": "2023年将有哪些大事发生",
@@ -2912,6 +2984,14 @@
       "word": "农历癸卯兔年全年共有384天",
       "onboard_time": 1672545212,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236991,
+      "num": 236991,
+      "word": "转阴后5个动作帮你恢复体力",
+      "onboard_time": 1672666893,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -3040,6 +3120,14 @@
       "word": "男子拿下科目三跪地给考试车磕头",
       "onboard_time": 1672627168,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224005,
+      "num": 224005,
+      "word": "病毒感染并没有特效药",
+      "onboard_time": 1672667192,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -3707,6 +3795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176870,
+      "num": 176870,
+      "word": "一只狗可以有多欠",
+      "onboard_time": 1672667433,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 176429,
       "num": 134206,
       "word": "杨幂卷发光影花絮图",
@@ -3945,6 +4041,14 @@
       "onboard_time": 1672554630,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155158,
+      "num": 155158,
+      "word": "辽宁男篮vs吉林男篮",
+      "onboard_time": 1672666710,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 153998,
@@ -4273,6 +4377,22 @@
       "onboard_time": 1672648289,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134084,
+      "num": 134084,
+      "word": "当你摸狗时突然停止",
+      "onboard_time": 1672667853,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 133910,
+      "num": 133910,
+      "word": "不同人眼中的年货天花板",
+      "onboard_time": 1672668154,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133411,
