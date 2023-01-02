@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672665788586,
+  "endTime": 1672666475501,
   "band_list": [
     {
       "raw_hot": 2758634,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1382440,
+      "num": 1382440,
+      "word": "胡鑫宇失踪母亲暴瘦60斤",
+      "onboard_time": 1672659690,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1379525,
       "num": 1379525,
       "word": "YG确认金智秀今年将发行solo专辑",
@@ -97,14 +105,6 @@
       "onboard_time": 1672624288,
       "rank": 47,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1354876,
-      "num": 1354876,
-      "word": "胡鑫宇失踪母亲暴瘦60斤",
-      "onboard_time": 1672659690,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1333203,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 922048,
+      "num": 922048,
+      "word": "世界唯一女性文字来自湖南小城",
+      "onboard_time": 1672660049,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 916216,
       "num": 916216,
       "word": "三亚近期酒店房间几乎售罄",
@@ -235,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 852590,
-      "num": 852590,
-      "word": "世界唯一女性文字来自湖南小城",
-      "onboard_time": 1672660049,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 753831,
       "num": 753831,
       "word": "新冠感染确实会有呕吐腹泻",
@@ -251,12 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 742331,
+      "num": 418823,
+      "word": "吴镇宇直播模仿张艺兴跳舞",
+      "onboard_time": 1672663890,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 741183,
       "num": 741183,
       "word": "水哥王昱珩官宣回归最强大脑",
       "onboard_time": 1672628068,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 737097,
+      "num": 737097,
+      "word": "转阴后总觉得累是怎么回事",
+      "onboard_time": 1672664367,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 729821,
@@ -283,14 +299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 728048,
-      "num": 373296,
-      "word": "吴镇宇直播模仿张艺兴跳舞",
-      "onboard_time": 1672663890,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 723398,
       "num": 723398,
       "word": "女子用紫外线灯消毒灼伤全家眼睛",
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 712492,
-      "num": 364694,
+      "num": 417168,
       "word": "李现直播",
       "onboard_time": 1672662509,
       "rank": 20,
@@ -515,8 +523,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 504860,
-      "num": 504860,
+      "raw_hot": 506360,
+      "num": 506360,
       "word": "陈钰琪的方言是王鹤棣教的吗",
       "onboard_time": 1672664192,
       "rank": 6,
@@ -659,12 +667,36 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 422660,
+      "num": 422660,
+      "word": "第一次见火车户型的房子",
+      "onboard_time": 1672663229,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 419674,
       "num": 419674,
       "word": "狼队 GG",
       "onboard_time": 1672656994,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 416950,
+      "num": 416950,
+      "word": "胡鑫宇家属回应和警方会面",
+      "onboard_time": 1672664733,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411889,
+      "num": 255864,
+      "word": "浮图缘",
+      "onboard_time": 1672615097,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 410618,
@@ -683,28 +715,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 408528,
-      "num": 408528,
-      "word": "第一次见火车户型的房子",
-      "onboard_time": 1672663229,
-      "rank": 35,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 404865,
       "num": 235617,
       "word": "武林外传拜年花絮",
       "onboard_time": 1672662570,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 403715,
-      "num": 403715,
-      "word": "转阴后总觉得累是怎么回事",
-      "onboard_time": 1672664367,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403576,
@@ -747,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392929,
+      "num": 221518,
+      "word": "还没过年春晚已经看完了",
+      "onboard_time": 1672665329,
+      "rank": 31,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 387175,
       "num": 387175,
       "word": "王俊凯跨年演唱会直拍",
@@ -761,14 +785,6 @@
       "onboard_time": 1672653452,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 365058,
-      "num": 255864,
-      "word": "浮图缘",
-      "onboard_time": 1672615097,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 362111,
@@ -795,8 +811,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 350459,
-      "num": 350459,
+      "raw_hot": 354774,
+      "num": 354774,
       "word": "凯迪拉克车身贴AED抢救标志",
       "onboard_time": 1672662210,
       "rank": 42,
@@ -873,14 +889,6 @@
       "onboard_time": 1672585351,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328091,
-      "num": 178388,
-      "word": "还没过年春晚已经看完了",
-      "onboard_time": 1672665329,
-      "rank": 31,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 322134,
@@ -971,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304760,
+      "num": 304760,
+      "word": "排骨焖饭有多方便",
+      "onboard_time": 1672664311,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 304567,
       "num": 304567,
       "word": "新冠病毒已经找到多种动物宿主",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1672578155,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 299907,
-      "num": 299907,
-      "word": "胡鑫宇家属回应和警方会面",
-      "onboard_time": 1672664733,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298890,
@@ -1235,14 +1243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 253484,
-      "num": 253484,
-      "word": "排骨焖饭有多方便",
-      "onboard_time": 1672664311,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 251639,
       "num": 251639,
       "word": "乡村爱情15",
@@ -1257,6 +1257,14 @@
       "onboard_time": 1672663651,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246854,
+      "num": 140069,
+      "word": "央视综艺开门大吉",
+      "onboard_time": 1672666292,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 246455,
@@ -1281,6 +1289,14 @@
       "onboard_time": 1672643247,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 240252,
+      "num": 1099897,
+      "word": "什么环境下需要佩戴N95口罩",
+      "onboard_time": 1672665212,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238947,
@@ -1995,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138996,
+      "num": 138996,
+      "word": "做过最享受的美甲",
+      "onboard_time": 1672665873,
+      "rank": 42,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 138832,
       "num": 138832,
       "word": "老君顶景区辟谣阳康游客心衰死亡",
@@ -2161,14 +2185,6 @@
       "onboard_time": 1672656631,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116753,
-      "num": 922464,
-      "word": "什么环境下需要佩戴N95口罩",
-      "onboard_time": 1672665212,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116186,
@@ -2411,7 +2427,7 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 17621,
+      "raw_hot": 20535,
       "num": 150201,
       "word": "天猫直播演绎年货神曲",
       "onboard_time": 1672664431,
@@ -2431,6 +2447,9 @@
     },
     {
       "word": "#2023我来了#"
+    },
+    {
+      "word": "#习主席书架上的照片记录了哪些珍贵瞬间#"
     }
   ]
 }
