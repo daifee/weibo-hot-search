@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672640568639,
+  "endTime": 1672641433758,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 2079160,
-      "num": 683120,
+      "num": 742122,
       "word": "情侣吃自助拿多了把虾倒锅里逃跑",
       "onboard_time": 1672636349,
       "rank": 37,
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 985172,
+      "num": 985172,
+      "word": "急性传染高峰之后的两周是最艰难的",
+      "onboard_time": 1672636650,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 974124,
       "num": 974124,
       "word": "大侦探",
@@ -747,20 +755,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 709809,
+      "num": 709809,
+      "word": "女子花2700修热水器成本只有13元",
+      "onboard_time": 1672636948,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 703720,
       "num": 1035742,
       "word": "烟花",
       "onboard_time": 1672497717,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 701786,
-      "num": 701786,
-      "word": "急性传染高峰之后的两周是最艰难的",
-      "onboard_time": 1672636650,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 687154,
@@ -809,14 +817,6 @@
       "onboard_time": 1672541614,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 647250,
-      "num": 647250,
-      "word": "女子花2700修热水器成本只有13元",
-      "onboard_time": 1672636948,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 636114,
@@ -1017,6 +1017,14 @@
       "onboard_time": 1672546533,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 536586,
+      "num": 536586,
+      "word": "雪容融下线",
+      "onboard_time": 1672639350,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 530614,
@@ -1547,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355362,
+      "num": 355362,
+      "word": "妈妈带化疗孩子买帽子暖心老板直接送",
+      "onboard_time": 1672639528,
+      "rank": 27,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 352954,
       "num": 352954,
       "word": "宋亚轩元旦出发路透",
@@ -1571,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 350732,
-      "num": 350732,
-      "word": "雪容融下线",
-      "onboard_time": 1672639350,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 349284,
       "num": 323930,
       "word": "BoA宁艺卓Wendy舞台",
@@ -1601,6 +1609,14 @@
       "onboard_time": 1672584092,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344972,
+      "num": 344972,
+      "word": "黑暗荣耀 男二",
+      "onboard_time": 1672639350,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 342147,
@@ -1851,14 +1867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298302,
-      "num": 298302,
-      "word": "黑暗荣耀 男二",
-      "onboard_time": 1672639350,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 296967,
       "num": 162672,
       "word": "aespaRedVelvet合作曲舞台",
@@ -2075,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268418,
+      "num": 268418,
+      "word": "女子买81元猪舌付8.1元还偷肉",
+      "onboard_time": 1672639947,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266447,
       "num": 254085,
       "word": "向风而行",
@@ -2089,6 +2105,14 @@
       "onboard_time": 1672636110,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263833,
+      "num": 263833,
+      "word": "楼炅择威神V合跳新歌Phantom",
+      "onboard_time": 1672641328,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 262861,
@@ -2353,14 +2377,6 @@
       "onboard_time": 1672622486,
       "rank": 46,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 229080,
-      "num": 229080,
-      "word": "妈妈带化疗孩子买帽子暖心老板直接送",
-      "onboard_time": 1672639528,
-      "rank": 27,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 224057,
@@ -2987,6 +3003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169514,
+      "num": 169514,
+      "word": "想见你",
+      "onboard_time": 1672641209,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168911,
       "num": 168911,
       "word": "抗生素不等于消炎药",
@@ -3009,14 +3033,6 @@
       "onboard_time": 1672590805,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167182,
-      "num": 167182,
-      "word": "女子买81元猪舌付8.1元还偷肉",
-      "onboard_time": 1672639947,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167173,
@@ -3073,6 +3089,14 @@
       "onboard_time": 1672580492,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162514,
+      "num": 162514,
+      "word": "吉克隽逸把三星堆黄金面具搬上舞台",
+      "onboard_time": 1672640428,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 159915,
@@ -3411,20 +3435,20 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 126459,
-      "num": 126459,
-      "word": "吉克隽逸把三星堆黄金面具搬上舞台",
-      "onboard_time": 1672640428,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125901,
       "num": 125901,
       "word": "朗斯3比1巴黎",
       "onboard_time": 1672637431,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124185,
+      "num": 124185,
+      "word": "谁不想变身奥特曼打怪兽呢",
+      "onboard_time": 1672640247,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 124180,
@@ -3459,20 +3483,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122772,
-      "num": 122772,
-      "word": "谁不想变身奥特曼打怪兽呢",
-      "onboard_time": 1672640247,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119645,
       "num": 159511,
       "word": "没见过这么会撒娇的弟弟",
       "onboard_time": 1672564410,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 118585,
+      "num": 118585,
+      "word": "它甚至还没看清楚就开始狗叫",
+      "onboard_time": 1672640969,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 118224,
@@ -3539,6 +3563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114173,
+      "num": 114173,
+      "word": "男子进店被劝戴口罩反怼就不戴",
+      "onboard_time": 1672640548,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114161,
       "num": 412716,
       "word": "2023将迎来哪些奇妙的相遇",
@@ -3593,14 +3625,6 @@
       "onboard_time": 1672638989,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 108758,
-      "num": 108758,
-      "word": "男子进店被劝戴口罩反怼就不戴",
-      "onboard_time": 1672640548,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108548,

@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672640568639,
+  "endTime": 1672641433758,
   "band_list": [
     {
       "raw_hot": 2758634,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2079160,
-      "num": 683120,
+      "num": 742122,
       "word": "情侣吃自助拿多了把虾倒锅里逃跑",
       "onboard_time": 1672636349,
       "rank": 37,
@@ -91,6 +91,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 985172,
+      "num": 985172,
+      "word": "急性传染高峰之后的两周是最艰难的",
+      "onboard_time": 1672636650,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 916216,
       "num": 916216,
       "word": "三亚近期酒店房间几乎售罄",
@@ -139,11 +147,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 701786,
-      "num": 701786,
-      "word": "急性传染高峰之后的两周是最艰难的",
-      "onboard_time": 1672636650,
-      "rank": 25,
+      "raw_hot": 709809,
+      "num": 709809,
+      "word": "女子花2700修热水器成本只有13元",
+      "onboard_time": 1672636948,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -155,16 +163,8 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 647250,
-      "num": 647250,
-      "word": "女子花2700修热水器成本只有13元",
-      "onboard_time": 1672636948,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 639625,
-      "num": 258860,
+      "num": 267140,
       "word": "蒙脱石散",
       "onboard_time": 1672624887,
       "rank": 30,
@@ -233,6 +233,14 @@
       "onboard_time": 1672625429,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536586,
+      "num": 536586,
+      "word": "雪容融下线",
+      "onboard_time": 1672639350,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 526085,
@@ -379,12 +387,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 350732,
-      "num": 350732,
-      "word": "雪容融下线",
-      "onboard_time": 1672639350,
-      "rank": 11,
-      "category": "体育"
+      "raw_hot": 355362,
+      "num": 355362,
+      "word": "妈妈带化疗孩子买帽子暖心老板直接送",
+      "onboard_time": 1672639528,
+      "rank": 27,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 346930,
@@ -401,6 +409,14 @@
       "onboard_time": 1672608132,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344972,
+      "num": 344972,
+      "word": "黑暗荣耀 男二",
+      "onboard_time": 1672639350,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 342147,
@@ -539,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298302,
-      "num": 298302,
-      "word": "黑暗荣耀 男二",
-      "onboard_time": 1672639350,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 287429,
       "num": 287429,
       "word": "专家称XBB.1.5毒株与其他株没区别",
@@ -603,12 +611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268418,
+      "num": 268418,
+      "word": "女子买81元猪舌付8.1元还偷肉",
+      "onboard_time": 1672639947,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266133,
       "num": 266133,
       "word": "王鹤棣陈钰琪摔跤变装视频",
       "onboard_time": 1672636110,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263833,
+      "num": 263833,
+      "word": "楼炅择威神V合跳新歌Phantom",
+      "onboard_time": 1672641328,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 259818,
@@ -689,14 +713,6 @@
       "onboard_time": 1672622486,
       "rank": 46,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 229080,
-      "num": 229080,
-      "word": "妈妈带化疗孩子买帽子暖心老板直接送",
-      "onboard_time": 1672639528,
-      "rank": 27,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 224057,
@@ -963,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169514,
+      "num": 169514,
+      "word": "想见你",
+      "onboard_time": 1672641209,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168911,
       "num": 168911,
       "word": "抗生素不等于消炎药",
@@ -987,14 +1011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167182,
-      "num": 167182,
-      "word": "女子买81元猪舌付8.1元还偷肉",
-      "onboard_time": 1672639947,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167173,
       "num": 167173,
       "word": "你永远能相信郑秀妍的舞台",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1672591944,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162514,
+      "num": 162514,
+      "word": "吉克隽逸把三星堆黄金面具搬上舞台",
+      "onboard_time": 1672640428,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 159346,
@@ -1163,20 +1187,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 126459,
-      "num": 126459,
-      "word": "吉克隽逸把三星堆黄金面具搬上舞台",
-      "onboard_time": 1672640428,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125901,
       "num": 125901,
       "word": "朗斯3比1巴黎",
       "onboard_time": 1672637431,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124185,
+      "num": 124185,
+      "word": "谁不想变身奥特曼打怪兽呢",
+      "onboard_time": 1672640247,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 123454,
@@ -1187,19 +1211,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122772,
-      "num": 122772,
-      "word": "谁不想变身奥特曼打怪兽呢",
-      "onboard_time": 1672640247,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 121992,
       "num": 121992,
       "word": "原来还有小狗不会汪汪叫",
       "onboard_time": 1672581573,
       "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 118585,
+      "num": 118585,
+      "word": "它甚至还没看清楚就开始狗叫",
+      "onboard_time": 1672640969,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -1227,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114173,
+      "num": 114173,
+      "word": "男子进店被劝戴口罩反怼就不戴",
+      "onboard_time": 1672640548,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114150,
       "num": 66484,
       "word": "周也红毯生图",
@@ -1249,14 +1281,6 @@
       "onboard_time": 1672638989,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 108758,
-      "num": 108758,
-      "word": "男子进店被劝戴口罩反怼就不戴",
-      "onboard_time": 1672640548,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108367,
