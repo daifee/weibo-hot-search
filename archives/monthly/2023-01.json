@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672702415673,
+  "endTime": 1672709174029,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1160559,
+      "num": 1160559,
+      "word": "泉州油罐车爆炸",
+      "onboard_time": 1672702520,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1160486,
       "num": 494945,
       "word": "专家回应人们感觉老人去世比往年多",
@@ -569,6 +577,14 @@
       "onboard_time": 1672647087,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1052339,
+      "num": 1052339,
+      "word": "曾轶可演唱会被维权",
+      "onboard_time": 1672702701,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1041827,
@@ -617,6 +633,22 @@
       "onboard_time": 1672574370,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1028048,
+      "num": 1028048,
+      "word": "NASA局长称别让中国打着科研幌子登月",
+      "onboard_time": 1672707745,
+      "rank": 3,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1009898,
+      "num": 348788,
+      "word": "那些小县城走出来的名人爱豆",
+      "onboard_time": 1672702217,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1005791,
@@ -867,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 763121,
+      "num": 763121,
+      "word": "新冠感染初愈后可以大吃大喝吗",
+      "onboard_time": 1672705226,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753849,
       "num": 753849,
       "word": "广州本次新冠疫情已达峰",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1672541192,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 624926,
+      "num": 347010,
+      "word": "李现连吃两天菌菇火锅流鼻血",
+      "onboard_time": 1672703724,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 624478,
@@ -1363,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536180,
+      "num": 345007,
+      "word": "三亚18万每晚天价酒店一房难求",
+      "onboard_time": 1672708229,
+      "rank": 12,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 530614,
       "num": 395507,
       "word": "Jessica的提词器是拼音",
@@ -1571,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468568,
+      "num": 468568,
+      "word": "教资面试",
+      "onboard_time": 1672702581,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 468363,
       "num": 468363,
       "word": "推特员工被曝自带卫生纸上班",
@@ -1729,6 +1793,14 @@
       "onboard_time": 1672618762,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 431903,
+      "num": 431903,
+      "word": "广东微辣是什么辣",
+      "onboard_time": 1672703423,
+      "rank": 8,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 431169,
@@ -2060,7 +2132,7 @@
     },
     {
       "raw_hot": 361352,
-      "num": 325350,
+      "num": 337598,
       "word": "47岁父亲考研18岁女儿受激励备考",
       "onboard_time": 1672670433,
       "rank": 17,
@@ -2121,6 +2193,14 @@
       "onboard_time": 1672662210,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 353923,
+      "num": 353923,
+      "word": "王者荣耀",
+      "onboard_time": 1672701136,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 353542,
@@ -2401,14 +2481,6 @@
       "onboard_time": 1672649249,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 312874,
-      "num": 312874,
-      "word": "王者荣耀",
-      "onboard_time": 1672701136,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 312817,
@@ -2817,6 +2889,14 @@
       "onboard_time": 1672559609,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269272,
+      "num": 269272,
+      "word": "国考准考证",
+      "onboard_time": 1672701377,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 269160,
@@ -3331,6 +3411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221373,
+      "num": 221373,
+      "word": "完美诠释了狗仗人势",
+      "onboard_time": 1672703062,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220948,
       "num": 295021,
       "word": "重庆市民冒雨撑伞聚集解放碑前跨年",
@@ -3795,14 +3883,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 190519,
-      "num": 72985,
-      "word": "那些小县城走出来的名人爱豆",
-      "onboard_time": 1672702217,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190078,
       "num": 190078,
       "word": "为什么不那么热衷恋爱了",
@@ -3939,6 +4019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180124,
+      "num": 180124,
+      "word": "XBB毒株5问5答",
+      "onboard_time": 1672708586,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179984,
       "num": 161574,
       "word": "不解风情顾南亭",
@@ -4035,6 +4123,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177170,
+      "num": 177170,
+      "word": "中学生湖边烧烤半个身子陷入淤泥",
+      "onboard_time": 1672685653,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176748,
+      "num": 144864,
+      "word": "英国停止从俄罗斯进口液化天然气",
+      "onboard_time": 1672708469,
+      "rank": 30,
+      "category": "财经,国外要闻"
+    },
+    {
       "raw_hot": 176429,
       "num": 134206,
       "word": "杨幂卷发光影花絮图",
@@ -4113,14 +4217,6 @@
       "onboard_time": 1672549951,
       "rank": 46,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 172577,
-      "num": 172577,
-      "word": "国考准考证",
-      "onboard_time": 1672701377,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 172462,
@@ -4827,20 +4923,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 120633,
-      "num": 120633,
-      "word": "中学生湖边烧烤半个身子陷入淤泥",
-      "onboard_time": 1672685653,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120518,
       "num": 135987,
       "word": "坐在车里被围观的狗狗",
       "onboard_time": 1672661669,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120183,
+      "num": 120183,
+      "word": "泉州交警通报油罐车爆炸",
+      "onboard_time": 1672707506,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 119818,
@@ -4857,6 +4953,14 @@
       "onboard_time": 1672564410,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 119614,
+      "num": 119614,
+      "word": "4岁女孩单板滑雪动作娴熟",
+      "onboard_time": 1672705946,
+      "rank": 36,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 118224,
@@ -4937,6 +5041,14 @@
       "onboard_time": 1672503467,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114328,
+      "num": 114328,
+      "word": "这座桥距离水面有近200层楼高",
+      "onboard_time": 1672702217,
+      "rank": 45,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 114161,
@@ -5083,6 +5195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103936,
+      "num": 103936,
+      "word": "南得霄亭庆祝顾南亭复职",
+      "onboard_time": 1672707567,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 103370,
       "num": 187836,
       "word": "厦门六中合唱团上新了",
@@ -5163,6 +5283,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 97459,
+      "num": 97459,
+      "word": "能一起玩不是没有原因的",
+      "onboard_time": 1672703664,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 97217,
       "num": 178357,
       "word": "在迪拜跨年是什么体验",
@@ -5185,6 +5313,22 @@
       "onboard_time": 1672554153,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96808,
+      "num": 96808,
+      "word": "马刺vs篮网",
+      "onboard_time": 1672704684,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96792,
+      "num": 96792,
+      "word": "湖人vs黄蜂",
+      "onboard_time": 1672708287,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 96737,
@@ -5313,6 +5457,14 @@
       "onboard_time": 1672546112,
       "rank": 49,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 85826,
+      "num": 85826,
+      "word": "阳康后需要做全身体检吗",
+      "onboard_time": 1672709126,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83949,
@@ -5473,14 +5625,6 @@
       "onboard_time": 1672515314,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 42312,
-      "num": 42312,
-      "word": "这座桥距离水面有近200层楼高",
-      "onboard_time": 1672702217,
-      "rank": 45,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 40669,
