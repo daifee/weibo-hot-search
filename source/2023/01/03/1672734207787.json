@@ -1,0 +1,410 @@
+{
+  "runTime": 1672734207787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1493427,
+        "num": 1493427,
+        "word": "全国近94%县城房价不过万元",
+        "onboard_time": 1672729347,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1207738,
+        "num": 1207738,
+        "word": "干咳咳痰是肺炎的判断标准吗",
+        "onboard_time": 1672726646,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36888,
+        "num": 863972,
+        "word": "2022中国正能量",
+        "onboard_time": 1672731209,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 834226,
+        "num": 834226,
+        "word": "鹿邑警方通报故意破坏警车事件",
+        "onboard_time": 1672729228,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 754115,
+        "num": 754115,
+        "word": "大爷摔倒躺藕田2天2夜才被发现",
+        "onboard_time": 1672726588,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690886,
+        "num": 690886,
+        "word": "妇联回应网红灰太狼的羊被家暴",
+        "onboard_time": 1672731268,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 687955,
+        "num": 687955,
+        "word": "春晚",
+        "onboard_time": 1672723229,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 626511,
+        "num": 626511,
+        "word": "乐视实行四天半工作制",
+        "onboard_time": 1672730488,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 587856,
+        "num": 587856,
+        "word": "张婉婷听到宋宁峰的话秒哭",
+        "onboard_time": 1672726528,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510926,
+        "num": 510926,
+        "word": "家人先后阳了会造成重复感染吗",
+        "onboard_time": 1672730849,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514782,
+        "num": 496348,
+        "word": "易烊千玺电影三个字已完成初剪",
+        "onboard_time": 1672730729,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 457665,
+        "num": 457665,
+        "word": "张小斐问能看到我的秋裤不",
+        "onboard_time": 1672733067,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430165,
+        "num": 430165,
+        "word": "迪丽热巴红裙卷发复古造型",
+        "onboard_time": 1672733546,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 408623,
+        "num": 408623,
+        "word": "转阴后多吃这三样",
+        "onboard_time": 1672720590,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526657,
+        "num": 406670,
+        "word": "初二女生为活命扎针超25000次",
+        "onboard_time": 1672720709,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398554,
+        "num": 398554,
+        "word": "男子买下废弃学校翻新成31套住宅",
+        "onboard_time": 1672727967,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346196,
+        "num": 346196,
+        "word": "现在的烟花越来越离谱了",
+        "onboard_time": 1672731869,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316238,
+        "num": 316238,
+        "word": "小狗趁主人不在家偷吃6颗布洛芬",
+        "onboard_time": 1672723889,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304516,
+        "num": 304516,
+        "word": "杭州入境人员发现XBB",
+        "onboard_time": 1672726349,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298626,
+        "num": 298626,
+        "word": "村医用抗生素治疗新冠发热患者",
+        "onboard_time": 1672726888,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368596,
+        "num": 297867,
+        "word": "王一博2023年第一条语音",
+        "onboard_time": 1672733187,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345616,
+        "num": 289393,
+        "word": "孟美岐刘晓庆新电影开机",
+        "onboard_time": 1672730429,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334660,
+        "num": 288431,
+        "word": "杨迪这辈子的尴尬都给再见爱人了",
+        "onboard_time": 1672724969,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269420,
+        "num": 269420,
+        "word": "老师上网课要求学生投屏聊天记录",
+        "onboard_time": 1672725147,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 242500,
+        "num": 242500,
+        "word": "央视评部分国家限制中国旅客入境",
+        "onboard_time": 1672720535,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203894,
+        "num": 203894,
+        "word": "阳性女子4楼扔快递称快递员怕感染",
+        "onboard_time": 1672716687,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195253,
+        "num": 195253,
+        "word": "三亚一住客18万的酒店连住1个月",
+        "onboard_time": 1672718608,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183062,
+        "num": 183062,
+        "word": "LNG对战IGY",
+        "onboard_time": 1672728088,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180859,
+        "num": 180859,
+        "word": "2023KPL春季赛抽签之夜",
+        "onboard_time": 1672732528,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178551,
+        "num": 178551,
+        "word": "警惕蒙脱石散等药物走红背后黑手",
+        "onboard_time": 1672719812,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317654,
+        "num": 178537,
+        "word": "许光汉想和IU合作",
+        "onboard_time": 1672726588,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311571,
+        "num": 178517,
+        "word": "鹰眼扮演者被扫雪机碾压腿部",
+        "onboard_time": 1672718490,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302736,
+        "num": 178496,
+        "word": "宋轶赵今麦现身央视春晚第二次联排",
+        "onboard_time": 1672732649,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294280,
+        "num": 178474,
+        "word": "池子转变的第一步是搬去成都",
+        "onboard_time": 1672733847,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241282,
+        "num": 178457,
+        "word": "刘亦菲杨昆同框梦回仙剑一",
+        "onboard_time": 1672730368,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178443,
+        "num": 178443,
+        "word": "英雄联盟微博杯",
+        "onboard_time": 1672728687,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173632,
+        "num": 173632,
+        "word": "母亲被诈骗儿子不阻止拍视频记录",
+        "onboard_time": 1672719634,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170334,
+        "num": 170334,
+        "word": "如何根据风寒风热对症用药",
+        "onboard_time": 1672733067,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169070,
+        "num": 169070,
+        "word": "英国称中国旅客可拒绝强制核酸",
+        "onboard_time": 1672723831,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156288,
+        "num": 156288,
+        "word": "老人劈柴过年堆太高瞬间倾泻而下",
+        "onboard_time": 1672731090,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212317,
+        "num": 153307,
+        "word": "王鹤棣片场给陈钰琪扇风",
+        "onboard_time": 1672731988,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148841,
+        "num": 148841,
+        "word": "鱼跃医疗称因成本上涨取消血氧仪折扣优惠",
+        "onboard_time": 1672718127,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 140662,
+        "num": 140662,
+        "word": "汤普森54分",
+        "onboard_time": 1672727128,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140419,
+        "num": 140419,
+        "word": "国务院联防联控机制发布会",
+        "onboard_time": 1672730368,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133214,
+        "num": 133214,
+        "word": "A股迎2023年开门红",
+        "onboard_time": 1672733727,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131202,
+        "num": 131202,
+        "word": "肯布洛克因雪车事故去世",
+        "onboard_time": 1672716988,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123004,
+        "num": 123004,
+        "word": "近期浙江感染病例数日增约百万",
+        "onboard_time": 1672726827,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122613,
+        "num": 122613,
+        "word": "咳嗽本身不会引起肺炎",
+        "onboard_time": 1672733969,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122034,
+        "num": 122034,
+        "word": "NBA现场放姆巴佩世界杯进球画面",
+        "onboard_time": 1672724787,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102820,
+        "num": 121880,
+        "word": "元旦假期三亚酒店均价1553元",
+        "onboard_time": 1672733969,
+        "rank": 49,
+        "category": "财经,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席书架上的照片记录了哪些珍贵瞬间#"
+    }
+  }
+}

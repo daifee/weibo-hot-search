@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672731219542,
+  "endTime": 1672734207787,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -353,6 +353,14 @@
       "onboard_time": 1672577972,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1493427,
+      "num": 1493427,
+      "word": "全国近94%县城房价不过万元",
+      "onboard_time": 1672729347,
+      "rank": 21,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1482616,
@@ -963,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 834226,
+      "num": 834226,
+      "word": "鹿邑警方通报故意破坏警车事件",
+      "onboard_time": 1672729228,
+      "rank": 42,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 831751,
       "num": 825861,
       "word": "4岁女童被同村男子拐走6万卖掉",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1672567529,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 774581,
-      "num": 774581,
-      "word": "全国近94%县城房价不过万元",
-      "onboard_time": 1672729347,
-      "rank": 21,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 773132,
@@ -1243,6 +1251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 690886,
+      "num": 690886,
+      "word": "妇联回应网红灰太狼的羊被家暴",
+      "onboard_time": 1672731268,
+      "rank": 5,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 687154,
       "num": 687154,
       "word": "鞠婧祎发型师在干嘛",
@@ -1377,6 +1393,14 @@
       "onboard_time": 1672713084,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 626511,
+      "num": 626511,
+      "word": "乐视实行四天半工作制",
+      "onboard_time": 1672730488,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 624926,
@@ -1787,11 +1811,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 514782,
+      "num": 496348,
+      "word": "易烊千玺电影三个字已完成初剪",
+      "onboard_time": 1672730729,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 514716,
       "num": 456785,
       "word": "新郎带新娘到医院给重症父亲磕头",
       "onboard_time": 1672635090,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510926,
+      "num": 510926,
+      "word": "家人先后阳了会造成重复感染吗",
+      "onboard_time": 1672730849,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1857,14 +1897,6 @@
       "onboard_time": 1672632690,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 492853,
-      "num": 492853,
-      "word": "鹿邑警方通报故意破坏警车事件",
-      "onboard_time": 1672729228,
-      "rank": 42,
-      "category": "社会负面"
     },
     {
       "raw_hot": 491224,
@@ -1985,6 +2017,14 @@
       "onboard_time": 1672642949,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457665,
+      "num": 457665,
+      "word": "张小斐问能看到我的秋裤不",
+      "onboard_time": 1672733067,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 455651,
@@ -2531,6 +2571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368596,
+      "num": 297867,
+      "word": "王一博2023年第一条语音",
+      "onboard_time": 1672733187,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367793,
       "num": 283604,
       "word": "顾南亭终于长嘴了",
@@ -2659,14 +2707,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 353650,
-      "num": 353650,
-      "word": "易烊千玺电影三个字已完成初剪",
-      "onboard_time": 1672730729,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 353542,
       "num": 353542,
       "word": "水银温度计打碎了这样处理",
@@ -2737,6 +2777,14 @@
       "onboard_time": 1672608132,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346196,
+      "num": 346196,
+      "word": "现在的烟花越来越离谱了",
+      "onboard_time": 1672731869,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 345630,
@@ -3091,6 +3139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302736,
+      "num": 178496,
+      "word": "宋轶赵今麦现身央视春晚第二次联排",
+      "onboard_time": 1672732649,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302509,
       "num": 302509,
       "word": "王艺瑾无法再靠近自愈式情歌",
@@ -3201,6 +3257,14 @@
       "onboard_time": 1672714346,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 294280,
+      "num": 178474,
+      "word": "池子转变的第一步是搬去成都",
+      "onboard_time": 1672733847,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 293066,
@@ -3851,6 +3915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241282,
+      "num": 178457,
+      "word": "刘亦菲杨昆同框梦回仙剑一",
+      "onboard_time": 1672730368,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241098,
       "num": 241098,
       "word": "专家称临床上绝大多数人都是轻症",
@@ -4264,6 +4336,14 @@
       "word": "张彬彬说徐璐是最能哭的",
       "onboard_time": 1672635570,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212317,
+      "num": 153307,
+      "word": "王鹤棣片场给陈钰琪扇风",
+      "onboard_time": 1672731988,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -4819,6 +4899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183062,
+      "num": 183062,
+      "word": "LNG对战IGY",
+      "onboard_time": 1672728088,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181905,
       "num": 261089,
       "word": "小狗狗自己坐雪圈滑雪",
@@ -4849,6 +4937,14 @@
       "onboard_time": 1672713446,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180859,
+      "num": 180859,
+      "word": "2023KPL春季赛抽签之夜",
+      "onboard_time": 1672732528,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 180125,
@@ -5091,6 +5187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170334,
+      "num": 170334,
+      "word": "如何根据风寒风热对症用药",
+      "onboard_time": 1672733067,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169788,
       "num": 169788,
       "word": "研究称你胖可能是肠道细菌的错",
@@ -5161,14 +5265,6 @@
       "onboard_time": 1672574610,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166564,
-      "num": 166564,
-      "word": "LNG对战IGY",
-      "onboard_time": 1672728088,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 165831,
@@ -5320,6 +5416,14 @@
       "word": "男子冰瀑前拍照不慎滑入水中",
       "onboard_time": 1672554630,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156288,
+      "num": 156288,
+      "word": "老人劈柴过年堆太高瞬间倾泻而下",
+      "onboard_time": 1672731090,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -5571,14 +5675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140935,
-      "num": 140935,
-      "word": "乐视实行四天半工作制",
-      "onboard_time": 1672730488,
-      "rank": 42,
-      "category": "科技"
-    },
-    {
       "raw_hot": 140791,
       "num": 140791,
       "word": "积极四跑",
@@ -5731,19 +5827,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133214,
+      "num": 133214,
+      "word": "A股迎2023年开门红",
+      "onboard_time": 1672733727,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132813,
       "num": 135292,
       "word": "2023开工多场景防护指南",
       "onboard_time": 1672709425,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131929,
-      "num": 131929,
-      "word": "家人先后阳了会造成重复感染吗",
-      "onboard_time": 1672730849,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -5891,6 +5987,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 122613,
+      "num": 122613,
+      "word": "咳嗽本身不会引起肺炎",
+      "onboard_time": 1672733969,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121122,
       "num": 121122,
       "word": "南京大屠杀在册幸存者仅剩49人",
@@ -5913,14 +6017,6 @@
       "onboard_time": 1672661669,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 120193,
-      "num": 120193,
-      "word": "老人劈柴过年堆太高瞬间倾泻而下",
-      "onboard_time": 1672731090,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120183,
@@ -6209,6 +6305,14 @@
       "onboard_time": 1672561646,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 102820,
+      "num": 121880,
+      "word": "元旦假期三亚酒店均价1553元",
+      "onboard_time": 1672733969,
+      "rank": 49,
+      "category": "财经,旅游"
     },
     {
       "raw_hot": 102678,
@@ -6667,6 +6771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36888,
+      "num": 1046139,
+      "word": "2022中国正能量",
+      "onboard_time": 1672731209,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 36784,
       "num": 36784,
       "word": "热刺0比2阿斯顿维拉",
@@ -6769,14 +6881,6 @@
       "onboard_time": 1672688414,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 6319,
-      "num": 1046139,
-      "word": "2022中国正能量",
-      "onboard_time": 1672731209,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
