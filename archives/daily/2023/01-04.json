@@ -1,6 +1,6 @@
 {
   "startTime": 1672763163878,
-  "endTime": 1672785222314,
+  "endTime": 1672787926094,
   "band_list": [
     {
       "raw_hot": 1578422,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 529790,
-      "num": 529790,
+      "raw_hot": 553718,
+      "num": 553718,
       "word": "XBB会在我国引起新一轮流行吗",
       "onboard_time": 1672755152,
       "rank": 1,
@@ -73,6 +73,14 @@
       "onboard_time": 1672761509,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432276,
+      "num": 264825,
+      "word": "丈夫开车辗轧妻子致死案将开庭",
+      "onboard_time": 1672768156,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 431106,
@@ -179,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 275423,
+      "num": 275423,
+      "word": "2分钟了解XBB毒株",
+      "onboard_time": 1672761150,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271019,
       "num": 271019,
       "word": "鹅鸭杀发文感谢中国玩家",
@@ -203,12 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259793,
-      "num": 148666,
-      "word": "丈夫开车辗轧妻子致死案将开庭",
-      "onboard_time": 1672768156,
+      "raw_hot": 248232,
+      "num": 152484,
+      "word": "专家回应阳康之后多久可以备孕",
+      "onboard_time": 1672785133,
       "rank": 10,
-      "category": "社会负面"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238389,
@@ -267,11 +283,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183559,
-      "num": 183559,
-      "word": "2分钟了解XBB毒株",
-      "onboard_time": 1672761150,
-      "rank": 28,
+      "raw_hot": 187730,
+      "num": 187730,
+      "word": "小猫送走全部观赏鱼霸占鱼缸睡觉",
+      "onboard_time": 1672770555,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -339,6 +355,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156287,
+      "num": 151311,
+      "word": "解放军战机元旦史无前例迫近台岛",
+      "onboard_time": 1672766180,
+      "rank": 49,
+      "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 149058,
+      "num": 149058,
+      "word": "原神总收入超40亿美元",
+      "onboard_time": 1672782491,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147374,
       "num": 147374,
       "word": "阿根廷民众烧梅西雕像庆祝新年",
@@ -363,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132568,
+      "num": 132568,
+      "word": "商家回应出售不开心猪和淘汰猪",
+      "onboard_time": 1672756474,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124446,
       "num": 124446,
       "word": "笑点低的养不了这狗",
@@ -385,14 +425,6 @@
       "onboard_time": 1672770434,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 115328,
-      "num": 115328,
-      "word": "商家回应出售不开心猪和淘汰猪",
-      "onboard_time": 1672756474,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106417,
@@ -443,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83503,
-      "num": 81621,
-      "word": "解放军战机元旦史无前例迫近台岛",
-      "onboard_time": 1672766180,
-      "rank": 49,
-      "category": "国内要闻,军事"
+      "raw_hot": 81442,
+      "num": 81442,
+      "word": "西安铁路客服回应路虎开进站台接人",
+      "onboard_time": 1672786636,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78731,
@@ -459,28 +491,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 66644,
-      "num": 66644,
-      "word": "小猫送走全部观赏鱼霸占鱼缸睡觉",
-      "onboard_time": 1672770555,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51222,
-      "num": 51222,
-      "word": "原神总收入超40亿美元",
-      "onboard_time": 1672782491,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 44352,
-      "num": 44352,
+      "raw_hot": 56880,
+      "num": 56880,
       "word": "西蓝花cp终于官宣",
       "onboard_time": 1672744468,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 53974,
+      "num": 53974,
+      "word": "沈腾2023春晚联排下班路透",
+      "onboard_time": 1672781531,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 48266,
+      "num": 48266,
+      "word": "中方将本着对等原则采取措施",
+      "onboard_time": 1672787477,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 42303,
@@ -507,24 +539,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37915,
-      "num": 37915,
-      "word": "沈腾2023春晚联排下班路透",
-      "onboard_time": 1672781531,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 27783,
-      "num": 27783,
+      "raw_hot": 30011,
+      "num": 30011,
       "word": "阿森纳vs纽卡斯尔",
       "onboard_time": 1672774152,
       "rank": 43,
       "category": "体育"
     },
     {
-      "raw_hot": 23123,
-      "num": 23123,
+      "raw_hot": 29767,
+      "num": 29767,
       "word": "曼联vs伯恩茅斯",
       "onboard_time": 1672777690,
       "rank": 48,
