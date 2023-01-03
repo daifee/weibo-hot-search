@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672741178518,
+  "endTime": 1672742101232,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1615870,
+      "num": 1615870,
+      "word": "二次感染",
+      "onboard_time": 1672737570,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1613648,
       "num": 1613648,
       "word": "初二女生为活命扎针超25000次",
@@ -320,14 +328,6 @@
       "word": "干咳咳痰是肺炎的判断标准吗",
       "onboard_time": 1672726646,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1560092,
-      "num": 1560092,
-      "word": "二次感染",
-      "onboard_time": 1672737570,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1067,8 +1067,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 792062,
-      "num": 792062,
+      "raw_hot": 794572,
+      "num": 794572,
       "word": "2023央视春晚第二次大联排",
       "onboard_time": 1672739669,
       "rank": 3,
@@ -1931,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 497615,
+      "num": 446398,
+      "word": "这是对年轻女性的霸凌",
+      "onboard_time": 1672737570,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 495081,
       "num": 495081,
       "word": "王俊凯新歌信仰",
@@ -2009,6 +2017,14 @@
       "onboard_time": 1672653271,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 475174,
+      "num": 442411,
+      "word": "再见爱人节目组直接对话张婉婷",
+      "onboard_time": 1672739067,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 472640,
@@ -2155,14 +2171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 446398,
-      "num": 446398,
-      "word": "这是对年轻女性的霸凌",
-      "onboard_time": 1672737570,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 445533,
       "num": 445533,
       "word": "赵露思加奈那黄日莹神隐同框路透",
@@ -2203,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440770,
+      "num": 440770,
+      "word": "WBG对战OMG",
+      "onboard_time": 1672740508,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 436939,
       "num": 436939,
       "word": "中科院原副院长王佛松院士逝世",
@@ -2217,6 +2233,14 @@
       "onboard_time": 1672530201,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 433454,
+      "num": 433454,
+      "word": "杨紫现身兔年央视春晚第二次联排",
+      "onboard_time": 1672741410,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 433112,
@@ -2515,6 +2539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391223,
+      "num": 391223,
+      "word": "鹿邑警车被打砸6人已抓捕",
+      "onboard_time": 1672737086,
+      "rank": 47,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 390753,
       "num": 390753,
       "word": "男子开车偶遇大老虎路边休息",
@@ -2659,6 +2691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371082,
+      "num": 302249,
+      "word": "aespa年末舞台最后一场ending",
+      "onboard_time": 1672740508,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 368987,
       "num": 232299,
       "word": "赵露思绿背心对镜九宫格",
@@ -2715,14 +2755,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 362196,
-      "num": 362196,
-      "word": "再见爱人节目组直接对话张婉婷",
-      "onboard_time": 1672739067,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 362111,
       "num": 362111,
       "word": "苏醒说人以群分",
@@ -2737,6 +2769,14 @@
       "onboard_time": 1672556970,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361508,
+      "num": 361508,
+      "word": "中国奇谭豆瓣开分9.5",
+      "onboard_time": 1672739910,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 361352,
@@ -3011,14 +3051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 333579,
-      "num": 333579,
-      "word": "鹿邑警车被打砸6人已抓捕",
-      "onboard_time": 1672737086,
-      "rank": 47,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 333430,
       "num": 256544,
       "word": "王鹤棣王栎鑫李东赫浮图缘花絮",
@@ -3067,6 +3099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 331336,
+      "num": 331336,
+      "word": "英雄联盟微博杯",
+      "onboard_time": 1672728687,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 328660,
       "num": 289445,
       "word": "朴灿烈吴世勋小分队舞台",
@@ -3083,14 +3123,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 325405,
-      "num": 325405,
-      "word": "英雄联盟微博杯",
-      "onboard_time": 1672728687,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 323599,
       "num": 1008383,
       "word": "新年祝福",
@@ -3105,14 +3137,6 @@
       "onboard_time": 1672710626,
       "rank": 48,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 323181,
-      "num": 245743,
-      "word": "aespa年末舞台最后一场ending",
-      "onboard_time": 1672740508,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 322964,
@@ -3211,6 +3235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 312829,
+      "num": 312829,
+      "word": "100岁母亲照顾阳性60岁女儿",
+      "onboard_time": 1672739669,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312817,
       "num": 312817,
       "word": "赵丽颖许半夏12月猫眼角色热度榜冠军",
@@ -3243,12 +3275,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 305494,
+      "num": 209180,
+      "word": "张彬彬片场说徐璐胖",
+      "onboard_time": 1672739849,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304760,
       "num": 304760,
       "word": "排骨焖饭有多方便",
       "onboard_time": 1672664311,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 304119,
+      "num": 304119,
+      "word": "刘鑫",
+      "onboard_time": 1672741528,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303562,
@@ -3376,6 +3424,14 @@
       "word": "2023",
       "onboard_time": 1672531825,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294862,
+      "num": 294862,
+      "word": "柯基进村吃农村素面狗粮留给土狗",
+      "onboard_time": 1672738287,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -3627,14 +3683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 278311,
-      "num": 209180,
-      "word": "张彬彬片场说徐璐胖",
-      "onboard_time": 1672739849,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 278121,
       "num": 278121,
       "word": "吃毒蘑菇后的第一视角",
@@ -3649,6 +3697,14 @@
       "onboard_time": 1672515375,
       "rank": 45,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 276268,
+      "num": 276268,
+      "word": "原来哥哥才是哄睡高手",
+      "onboard_time": 1672738047,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 276164,
@@ -3691,6 +3747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274354,
+      "num": 191591,
+      "word": "宋宁峰生气离席",
+      "onboard_time": 1672738948,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273956,
       "num": 273956,
       "word": "3万人现场欢迎C罗加盟",
@@ -3728,14 +3792,6 @@
       "word": "虞书欣失忆直拍",
       "onboard_time": 1672559609,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 271279,
-      "num": 191591,
-      "word": "宋宁峰生气离席",
-      "onboard_time": 1672738948,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -3987,14 +4043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250413,
-      "num": 250413,
-      "word": "中国奇谭豆瓣开分9.5",
-      "onboard_time": 1672739910,
-      "rank": 18,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 248825,
       "num": 267823,
       "word": "杭州街头万人共喊新年倒计时",
@@ -4008,14 +4056,6 @@
       "word": "小学生吃饭打游戏全家上阵喂食",
       "onboard_time": 1672556189,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247996,
-      "num": 247996,
-      "word": "柯基进村吃农村素面狗粮留给土狗",
-      "onboard_time": 1672738287,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -4081,14 +4121,6 @@
       "onboard_time": 1672581994,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 242164,
-      "num": 242164,
-      "word": "原来哥哥才是哄睡高手",
-      "onboard_time": 1672738047,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 241922,
@@ -4315,14 +4347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231155,
-      "num": 231155,
-      "word": "WBG对战OMG",
-      "onboard_time": 1672740508,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 230987,
       "num": 179498,
       "word": "肖铎的就是步音楼的",
@@ -4539,6 +4563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214838,
+      "num": 139387,
+      "word": "申有娜MBC歌谣大祭典直拍",
+      "onboard_time": 1672740270,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 214021,
       "num": 214021,
       "word": "如果回到2019你会做什么",
@@ -4633,14 +4665,6 @@
       "onboard_time": 1672490517,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209783,
-      "num": 209783,
-      "word": "100岁母亲照顾阳性60岁女儿",
-      "onboard_time": 1672739669,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209656,
@@ -5411,6 +5435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170683,
+      "num": 170683,
+      "word": "你会选择跟好朋友合租吗",
+      "onboard_time": 1672740508,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170334,
       "num": 170334,
       "word": "如何根据风寒风热对症用药",
@@ -6091,12 +6123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132358,
-      "num": 132358,
-      "word": "你会选择跟好朋友合租吗",
-      "onboard_time": 1672740508,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 132710,
+      "num": 132710,
+      "word": "小妖怪的夏天",
+      "onboard_time": 1672741651,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 131492,
@@ -6483,6 +6515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108687,
+      "num": 108687,
+      "word": "本不聪明的脑袋雪上加霜",
+      "onboard_time": 1672740867,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108548,
       "num": 948648,
       "word": "女子面试失败遇HR帮做职业规划",
@@ -6521,14 +6561,6 @@
       "onboard_time": 1672537113,
       "rank": 43,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 106101,
-      "num": 106101,
-      "word": "本不聪明的脑袋雪上加霜",
-      "onboard_time": 1672740867,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 105755,
@@ -7012,7 +7044,7 @@
     },
     {
       "raw_hot": 40180,
-      "num": 1046139,
+      "num": 1178656,
       "word": "2022中国正能量",
       "onboard_time": 1672731209,
       "rank": 2,
