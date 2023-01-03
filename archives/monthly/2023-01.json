@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672787926094,
+  "endTime": 1672788815836,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -1907,6 +1907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 577054,
+      "num": 301658,
+      "word": "丈夫开车辗轧妻子致死案将开庭",
+      "onboard_time": 1672768156,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 568002,
       "num": 245192,
       "word": "王栎鑫说棣棣的好友是即将要拉黑的",
@@ -2579,14 +2587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 432276,
-      "num": 264825,
-      "word": "丈夫开车辗轧妻子致死案将开庭",
-      "onboard_time": 1672768156,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 432097,
       "num": 285464,
       "word": "鑫仔 戏悟",
@@ -2705,6 +2705,14 @@
       "onboard_time": 1672543053,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 412085,
+      "num": 412085,
+      "word": "专家回应阳康之后多久可以备孕",
+      "onboard_time": 1672785133,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 411962,
@@ -3771,6 +3779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302168,
+      "num": 302168,
+      "word": "小猫送走全部观赏鱼霸占鱼缸睡觉",
+      "onboard_time": 1672770555,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301902,
       "num": 301902,
       "word": "曾黎青衣惊艳时刻",
@@ -3793,6 +3809,14 @@
       "onboard_time": 1672561229,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300687,
+      "num": 300687,
+      "word": "2分钟了解XBB毒株",
+      "onboard_time": 1672761150,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300342,
@@ -4211,14 +4235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 275423,
-      "num": 275423,
-      "word": "2分钟了解XBB毒株",
-      "onboard_time": 1672761150,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275141,
       "num": 275141,
       "word": "汤普森54分",
@@ -4592,14 +4608,6 @@
       "word": "小学生吃饭打游戏全家上阵喂食",
       "onboard_time": 1672556189,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248232,
-      "num": 152484,
-      "word": "专家回应阳康之后多久可以备孕",
-      "onboard_time": 1672785133,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -5747,14 +5755,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 187730,
-      "num": 187730,
-      "word": "小猫送走全部观赏鱼霸占鱼缸睡觉",
-      "onboard_time": 1672770555,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187337,
       "num": 187337,
       "word": "一只狗可以有多欠",
@@ -5849,6 +5849,14 @@
       "onboard_time": 1672600453,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180942,
+      "num": 180942,
+      "word": "解放军战机元旦史无前例迫近台岛",
+      "onboard_time": 1672766180,
+      "rank": 49,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 180939,
@@ -6443,12 +6451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156287,
-      "num": 151311,
-      "word": "解放军战机元旦史无前例迫近台岛",
-      "onboard_time": 1672766180,
-      "rank": 49,
-      "category": "国内要闻,军事"
+      "raw_hot": 155130,
+      "num": 155130,
+      "word": "西安铁路客服回应路虎开进站台接人",
+      "onboard_time": 1672786636,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153998,
@@ -6547,6 +6555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151150,
+      "num": 151150,
+      "word": "原神总收入超40亿美元",
+      "onboard_time": 1672782491,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151134,
       "num": 151134,
       "word": "元旦假期国内旅游收入265.17亿元",
@@ -6593,14 +6609,6 @@
       "onboard_time": 1672736729,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149058,
-      "num": 149058,
-      "word": "原神总收入超40亿美元",
-      "onboard_time": 1672782491,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 148701,
@@ -7075,6 +7083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123035,
+      "num": 123035,
+      "word": "中方将本着对等原则采取措施",
+      "onboard_time": 1672787477,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 122877,
       "num": 238646,
       "word": "为什么跨年时越热闹越孤独",
@@ -7089,6 +7105,14 @@
       "onboard_time": 1672672234,
       "rank": 48,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 122100,
+      "num": 122100,
+      "word": "C罗亮相利雅得胜利",
+      "onboard_time": 1672788439,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 121122,
@@ -7739,14 +7763,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 81442,
-      "num": 81442,
-      "word": "西安铁路客服回应路虎开进站台接人",
-      "onboard_time": 1672786636,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80186,
       "num": 913350,
       "word": "新的一年",
@@ -7777,6 +7793,22 @@
       "onboard_time": 1672500051,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73112,
+      "num": 73112,
+      "word": "陈国恩offer还没录完就在面试新工作",
+      "onboard_time": 1672775532,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 69808,
+      "num": 69808,
+      "word": "医生反复3次发烧依然坚持坐诊",
+      "onboard_time": 1672788500,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68205,
@@ -7865,14 +7897,6 @@
       "onboard_time": 1672747236,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 48266,
-      "num": 48266,
-      "word": "中方将本着对等原则采取措施",
-      "onboard_time": 1672787477,
-      "rank": 43,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 45287,
@@ -8081,14 +8105,6 @@
       "onboard_time": 1672770615,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 22527,
-      "num": 22527,
-      "word": "陈国恩offer还没录完就在面试新工作",
-      "onboard_time": 1672775532,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 20535,
