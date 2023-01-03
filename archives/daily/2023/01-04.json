@@ -1,6 +1,6 @@
 {
   "startTime": 1672763163878,
-  "endTime": 1672766191526,
+  "endTime": 1672767217711,
   "band_list": [
     {
       "raw_hot": 1578422,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 479653,
-      "num": 291094,
+      "num": 338111,
       "word": "北京协和医院建议新冠治疗前先临床分型",
       "onboard_time": 1672761509,
       "rank": 10,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 260706,
-      "num": 164916,
+      "num": 231330,
       "word": "老丈人酒后给女婿表演铁头功碎砖头",
       "onboard_time": 1672762344,
       "rank": 46,
@@ -251,6 +251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184207,
+      "num": 148368,
+      "word": "白敬亭2022双平台年冠",
+      "onboard_time": 1672765998,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183559,
       "num": 183559,
       "word": "2分钟了解XBB毒株",
@@ -289,6 +297,14 @@
       "onboard_time": 1672763903,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170816,
+      "num": 107242,
+      "word": "长风破浪",
+      "onboard_time": 1672766540,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 169298,
@@ -347,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120174,
+      "num": 120174,
+      "word": "epl",
+      "onboard_time": 1672764383,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115328,
       "num": 115328,
       "word": "商家回应出售不开心猪和淘汰猪",
@@ -361,22 +385,6 @@
       "onboard_time": 1672748309,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101919,
-      "num": 101919,
-      "word": "epl",
-      "onboard_time": 1672764383,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 95757,
-      "num": 75781,
-      "word": "白敬亭2022双平台年冠",
-      "onboard_time": 1672765998,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 95511,
@@ -419,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81621,
+      "num": 81621,
+      "word": "解放军战机元旦史无前例迫近台岛",
+      "onboard_time": 1672766180,
+      "rank": 49,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 78731,
       "num": 92310,
       "word": "微博杯 解说",
@@ -427,12 +443,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 45913,
-      "num": 45913,
-      "word": "解放军战机元旦史无前例迫近台岛",
-      "onboard_time": 1672766180,
+      "raw_hot": 41238,
+      "num": 42815,
+      "word": "找主人邀功的猫咪",
+      "onboard_time": 1672766777,
       "rank": 49,
-      "category": "国内要闻,军事"
+      "category": "幽默"
     },
     {
       "raw_hot": 4935,
