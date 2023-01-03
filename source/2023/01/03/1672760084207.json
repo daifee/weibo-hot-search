@@ -1,0 +1,410 @@
+{
+  "runTime": 1672760084207,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 906246,
+        "num": 906246,
+        "word": "XBB会在我国引起新一轮流行吗",
+        "onboard_time": 1672755152,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880525,
+        "num": 880525,
+        "word": "网传王一博李沁长风破浪1月初开机",
+        "onboard_time": 1672758275,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 8184,
+        "num": 868915,
+        "word": "2022中国正能量",
+        "onboard_time": 1672731209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1481851,
+        "num": 863072,
+        "word": "杭州不少人阳后出现妇科问题",
+        "onboard_time": 1672752871,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1468761,
+        "num": 838948,
+        "word": "迪丽热巴方将起诉造谣者",
+        "onboard_time": 1672759591,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1116001,
+        "num": 814006,
+        "word": "酒店藏针孔摄像头偷拍大量情侣视频",
+        "onboard_time": 1672745433,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812790,
+        "num": 812790,
+        "word": "教育局回应老师让学生投屏聊天记录",
+        "onboard_time": 1672753170,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 696941,
+        "num": 696941,
+        "word": "吴倩新剧 刀我",
+        "onboard_time": 1672752691,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416889,
+        "num": 416889,
+        "word": "北京一女子带娃嫁头婚老公",
+        "onboard_time": 1672752091,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347469,
+        "num": 347469,
+        "word": "鹅鸭杀发文感谢中国玩家",
+        "onboard_time": 1672752691,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 643913,
+        "num": 344297,
+        "word": "以爱为营王梓薇被换角",
+        "onboard_time": 1672757132,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 621927,
+        "num": 343210,
+        "word": "刘亦菲的新剧状态",
+        "onboard_time": 1672758752,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 567898,
+        "num": 338233,
+        "word": "伊甸园",
+        "onboard_time": 1672759112,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455097,
+        "num": 336327,
+        "word": "江歌妈妈直播回应刘鑫长文",
+        "onboard_time": 1672758514,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334755,
+        "num": 334755,
+        "word": "大G被撞却为节省时间认全责",
+        "onboard_time": 1672746393,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301806,
+        "num": 301806,
+        "word": "鹅鸭杀 epl",
+        "onboard_time": 1672755633,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286520,
+        "num": 286520,
+        "word": "官方回应华夏航空一飞机风挡破裂返航",
+        "onboard_time": 1672758933,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285613,
+        "num": 285613,
+        "word": "30岁女子手术前剃头妈妈哄娃般安慰",
+        "onboard_time": 1672756355,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278934,
+        "num": 278934,
+        "word": "WBG让二追三",
+        "onboard_time": 1672753535,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 331208,
+        "num": 276482,
+        "word": "新冠风暴下的妇产科",
+        "onboard_time": 1672750654,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843391,
+        "num": 269750,
+        "word": "江歌母亲回应刘鑫对赔偿款发起募捐",
+        "onboard_time": 1672742789,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699994,
+        "num": 266574,
+        "word": "刘鑫",
+        "onboard_time": 1672741528,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497104,
+        "num": 261458,
+        "word": "张婉婷 情绪",
+        "onboard_time": 1672752691,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488204,
+        "num": 257329,
+        "word": "曾轶可 打碟",
+        "onboard_time": 1672749572,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 419212,
+        "num": 253882,
+        "word": "胡歌我的四十没有不惑",
+        "onboard_time": 1672757910,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250501,
+        "num": 250501,
+        "word": "笑点低的养不了这狗",
+        "onboard_time": 1672754071,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240043,
+        "num": 240043,
+        "word": "当事人回应发朋友圈致蒙脱石散脱销",
+        "onboard_time": 1672750770,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232822,
+        "num": 232822,
+        "word": "男子不顾刚出生的儿子羡慕隔壁生女儿",
+        "onboard_time": 1672748493,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230891,
+        "num": 230891,
+        "word": "猫咪怎么能睡成这样的",
+        "onboard_time": 1672755274,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214425,
+        "num": 214425,
+        "word": "女子结婚没婚纱婚房也是租的",
+        "onboard_time": 1672745011,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279707,
+        "num": 213854,
+        "word": "曹曦文恭喜祝燃手机被冲厕所",
+        "onboard_time": 1672757670,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279274,
+        "num": 213575,
+        "word": "李现新剧去有风的地方原声台词",
+        "onboard_time": 1672759771,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276214,
+        "num": 213167,
+        "word": "王鹤棣搂陈钰琪看剧本花絮",
+        "onboard_time": 1672752091,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264587,
+        "num": 212331,
+        "word": "以爱为营",
+        "onboard_time": 1672758692,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212055,
+        "num": 212055,
+        "word": "阿根廷民众烧梅西雕像庆祝新年",
+        "onboard_time": 1672742488,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210417,
+        "num": 210417,
+        "word": "商家回应出售不开心猪和淘汰猪",
+        "onboard_time": 1672756474,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189753,
+        "num": 189753,
+        "word": "女子称有阿姨每天狂敲门碰瓷",
+        "onboard_time": 1672758752,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 169736,
+        "num": 169736,
+        "word": "清融",
+        "onboard_time": 1672755395,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163892,
+        "num": 163892,
+        "word": "弟弟是真的喜欢洗头啊",
+        "onboard_time": 1672744650,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153309,
+        "num": 153309,
+        "word": "TheShy MVP",
+        "onboard_time": 1672755695,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248495,
+        "num": 152781,
+        "word": "郭敬明称赞虞书欣哭戏",
+        "onboard_time": 1672753352,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243096,
+        "num": 152748,
+        "word": "浮图缘停更四天",
+        "onboard_time": 1672751792,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149138,
+        "num": 149138,
+        "word": "女儿怀疑武汉搬杭州是因爸爸变穷",
+        "onboard_time": 1672734989,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145781,
+        "num": 145781,
+        "word": "阳康后怎么避免二次感染",
+        "onboard_time": 1672744953,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142477,
+        "num": 142477,
+        "word": "爸爸晒龙凤3胞胎高矮胖瘦各长各的",
+        "onboard_time": 1672745370,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138547,
+        "num": 138547,
+        "word": "一条朋友圈引发蒙脱石散脱销",
+        "onboard_time": 1672747051,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 132071,
+        "num": 132071,
+        "word": "干咳咳痰是肺炎的判断标准吗",
+        "onboard_time": 1672726646,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131490,
+        "num": 131490,
+        "word": "微博杯 解说",
+        "onboard_time": 1672750353,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105681,
+        "num": 131423,
+        "word": "鹅鸭杀组成KPL团建",
+        "onboard_time": 1672759709,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104664,
+        "num": 131363,
+        "word": "鹅鸭杀",
+        "onboard_time": 1672749028,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#这个元旦既是迎新也是回归#"
+    }
+  }
+}
