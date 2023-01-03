@@ -1,0 +1,410 @@
+{
+  "runTime": 1672752223306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1412647,
+        "num": 1412647,
+        "word": "鹅鸭杀",
+        "onboard_time": 1672749028,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1263614,
+        "num": 1263614,
+        "word": "刘亦菲吴倩新剧哭戏感染力",
+        "onboard_time": 1672748911,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26323,
+        "num": 1066984,
+        "word": "2022中国正能量",
+        "onboard_time": 1672731209,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1690966,
+        "num": 1041843,
+        "word": "酒店藏针孔摄像头偷拍大量情侣视频",
+        "onboard_time": 1672745433,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 905813,
+        "num": 905813,
+        "word": "大G被撞却为节省时间认全责",
+        "onboard_time": 1672746393,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758878,
+        "num": 758878,
+        "word": "女子结婚没婚纱婚房也是租的",
+        "onboard_time": 1672745011,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681529,
+        "num": 681529,
+        "word": "男子不顾刚出生的儿子羡慕隔壁生女儿",
+        "onboard_time": 1672748493,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540478,
+        "num": 540478,
+        "word": "曾轶可 打碟",
+        "onboard_time": 1672749572,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 523097,
+        "num": 523097,
+        "word": "西蓝花cp终于官宣",
+        "onboard_time": 1672744468,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 493459,
+        "num": 493459,
+        "word": "女儿怀疑武汉搬杭州是因爸爸变穷",
+        "onboard_time": 1672734989,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624781,
+        "num": 483860,
+        "word": "微博杯 解说",
+        "onboard_time": 1672750353,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 521565,
+        "num": 479471,
+        "word": "再见爱人 窒息",
+        "onboard_time": 1672748309,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460916,
+        "num": 460916,
+        "word": "阿根廷民众烧梅西雕像庆祝新年",
+        "onboard_time": 1672742488,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450997,
+        "num": 450997,
+        "word": "一条朋友圈引发蒙脱石散脱销",
+        "onboard_time": 1672747051,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 412548,
+        "num": 412548,
+        "word": "干咳咳痰是肺炎的判断标准吗",
+        "onboard_time": 1672726646,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378938,
+        "num": 378938,
+        "word": "原来火腿肠是电容笔平替",
+        "onboard_time": 1672747534,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 369576,
+        "num": 369576,
+        "word": "南得霄亭开虐了",
+        "onboard_time": 1672748790,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368398,
+        "num": 368398,
+        "word": "新冠风暴下的妇产科",
+        "onboard_time": 1672750654,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336660,
+        "num": 336660,
+        "word": "WBG对战OMG",
+        "onboard_time": 1672740508,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 323819,
+        "num": 323819,
+        "word": "英雄联盟微博杯",
+        "onboard_time": 1672728687,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2613183,
+        "num": 319373,
+        "word": "江歌母亲回应刘鑫对赔偿款发起募捐",
+        "onboard_time": 1672742789,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1541670,
+        "num": 316858,
+        "word": "刘鑫",
+        "onboard_time": 1672741528,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311715,
+        "num": 311715,
+        "word": "弟弟是真的喜欢洗头啊",
+        "onboard_time": 1672744650,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294105,
+        "num": 294105,
+        "word": "WBG 阵容",
+        "onboard_time": 1672742310,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290624,
+        "num": 290624,
+        "word": "中国奇谭豆瓣开分9.5",
+        "onboard_time": 1672739910,
+        "rank": 24,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 290438,
+        "num": 290438,
+        "word": "白鹿鞠婧祎虞书欣今日营业照",
+        "onboard_time": 1672749752,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290291,
+        "num": 290291,
+        "word": "NewJeans新歌OMG舞蹈版",
+        "onboard_time": 1672751071,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283030,
+        "num": 283030,
+        "word": "去有风的地方",
+        "onboard_time": 1672751553,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276397,
+        "num": 276397,
+        "word": "爸爸晒龙凤3胞胎高矮胖瘦各长各的",
+        "onboard_time": 1672745370,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246934,
+        "num": 246934,
+        "word": "为什么会出现二次感染",
+        "onboard_time": 1672737570,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279944,
+        "num": 233343,
+        "word": "王曼昱",
+        "onboard_time": 1672745734,
+        "rank": 30,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 269208,
+        "num": 226619,
+        "word": "浮图缘停更四天",
+        "onboard_time": 1672751792,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215318,
+        "num": 215318,
+        "word": "这是对年轻女性的霸凌",
+        "onboard_time": 1672737570,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253610,
+        "num": 214648,
+        "word": "肖铎为了避嫌不理步音楼",
+        "onboard_time": 1672748611,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213295,
+        "num": 213295,
+        "word": "阳康后怎么避免二次感染",
+        "onboard_time": 1672744953,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211008,
+        "num": 211008,
+        "word": "张杰说让自己变强就会有更多机会",
+        "onboard_time": 1672750173,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204098,
+        "num": 204098,
+        "word": "当事人回应发朋友圈致蒙脱石散脱销",
+        "onboard_time": 1672750770,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185293,
+        "num": 185293,
+        "word": "女子时隔4年回娘家没被认出",
+        "onboard_time": 1672747832,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166915,
+        "num": 166915,
+        "word": "全国近94%县城房价不过万元",
+        "onboard_time": 1672729347,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 165833,
+        "num": 165833,
+        "word": "100岁母亲照顾阳性60岁女儿",
+        "onboard_time": 1672739669,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213682,
+        "num": 159025,
+        "word": "谢之遥是许红豆的白马村草",
+        "onboard_time": 1672751732,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146422,
+        "num": 146422,
+        "word": "鹿邑警车被打砸6人已抓捕",
+        "onboard_time": 1672737086,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 137389,
+        "num": 137389,
+        "word": "神还原近期某些药房",
+        "onboard_time": 1672751732,
+        "rank": 42,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 136341,
+        "num": 136341,
+        "word": "孙颖莎",
+        "onboard_time": 1672745734,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125901,
+        "num": 136160,
+        "word": "北京一女子带娃嫁头婚老公",
+        "onboard_time": 1672752091,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121735,
+        "num": 134887,
+        "word": "家人先后阳了会造成重复感染吗",
+        "onboard_time": 1672730849,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101281,
+        "num": 134306,
+        "word": "鸳鸯长得好像3D动画",
+        "onboard_time": 1672751611,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101197,
+        "num": 133666,
+        "word": "KPL年度最佳候选人名单",
+        "onboard_time": 1672744050,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99664,
+        "num": 132963,
+        "word": "被金毛幼崽可爱到了",
+        "onboard_time": 1672743992,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89658,
+        "num": 132511,
+        "word": "乐视实行四天半工作制",
+        "onboard_time": 1672730488,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#这个元旦既是迎新也是回归#"
+    }
+  }
+}
