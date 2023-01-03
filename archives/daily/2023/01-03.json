@@ -1,6 +1,6 @@
 {
   "startTime": 1672676687155,
-  "endTime": 1672720603807,
+  "endTime": 1672722990253,
   "band_list": [
     {
       "raw_hot": 2019468,
@@ -27,20 +27,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1422337,
+      "num": 1422337,
+      "word": "鱼跃医疗称因成本上涨取消血氧仪折扣优惠",
+      "onboard_time": 1672718127,
+      "rank": 4,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1297999,
       "num": 1297999,
       "word": "三亚18万每晚天价酒店一房难求",
       "onboard_time": 1672708229,
       "rank": 12,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 1297386,
-      "num": 1297386,
-      "word": "鱼跃医疗称因成本上涨取消血氧仪折扣优惠",
-      "onboard_time": 1672718127,
-      "rank": 4,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1270890,
@@ -67,12 +67,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1130590,
+      "num": 1130590,
+      "word": "初二女生为活命扎针超25000次",
+      "onboard_time": 1672720709,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1128901,
       "num": 610219,
       "word": "家属办完丧事被通知人没死",
       "onboard_time": 1672719273,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1116902,
+      "num": 1116902,
+      "word": "鹰眼扮演者被扫雪机碾压腿部",
+      "onboard_time": 1672718490,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1052339,
@@ -123,12 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 899613,
-      "num": 602521,
-      "word": "鹰眼扮演者被扫雪机碾压腿部",
-      "onboard_time": 1672718490,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 876408,
+      "num": 876408,
+      "word": "警惕蒙脱石散等药物走红背后黑手",
+      "onboard_time": 1672719812,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 865249,
@@ -137,6 +153,14 @@
       "onboard_time": 1672713326,
       "rank": 47,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 837590,
+      "num": 837590,
+      "word": "转阴后多吃这三样",
+      "onboard_time": 1672720590,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 828093,
@@ -152,6 +176,14 @@
       "word": "转阴后总觉得累是怎么回事",
       "onboard_time": 1672664367,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 801388,
+      "num": 801388,
+      "word": "三亚一住客18万的酒店连住1个月",
+      "onboard_time": 1672718608,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -179,19 +211,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 703591,
+      "num": 703591,
+      "word": "母亲被诈骗儿子不阻止拍视频记录",
+      "onboard_time": 1672719634,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 682290,
+      "num": 682290,
+      "word": "央视评部分国家限制中国旅客入境",
+      "onboard_time": 1672720535,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 680941,
       "num": 680941,
       "word": "不做抗原怎么分辨是流感还是阳了",
       "onboard_time": 1672675467,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 676802,
-      "num": 676802,
-      "word": "三亚一住客18万的酒店连住1个月",
-      "onboard_time": 1672718608,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -363,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382356,
+      "num": 382356,
+      "word": "无名",
+      "onboard_time": 1672720953,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380606,
       "num": 287534,
       "word": "曾轶可方回应被维权",
@@ -395,20 +443,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 373384,
-      "num": 373384,
-      "word": "警惕蒙脱石散等药物走红背后黑手",
-      "onboard_time": 1672719812,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 367793,
       "num": 283604,
       "word": "顾南亭终于长嘴了",
       "onboard_time": 1672718009,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366159,
+      "num": 305438,
+      "word": "欧豪2023央视春晚第二次大联排",
+      "onboard_time": 1672721551,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 360528,
@@ -433,14 +481,6 @@
       "onboard_time": 1672710027,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 351048,
-      "num": 351048,
-      "word": "母亲被诈骗儿子不阻止拍视频记录",
-      "onboard_time": 1672719634,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346801,
@@ -481,6 +521,14 @@
       "onboard_time": 1672708586,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333430,
+      "num": 256544,
+      "word": "王鹤棣王栎鑫李东赫浮图缘花絮",
+      "onboard_time": 1672722269,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 331523,
@@ -635,6 +683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 256773,
+      "num": 256773,
+      "word": "原神流浪者",
+      "onboard_time": 1672721013,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 251247,
       "num": 251247,
       "word": "媒体评蓝兔子邮票被吐槽不好看",
@@ -649,6 +705,14 @@
       "onboard_time": 1672717168,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246717,
+      "num": 246717,
+      "word": "南宁院方回应通知错死亡对象",
+      "onboard_time": 1672719452,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246272,
@@ -699,14 +763,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 234575,
-      "num": 234575,
-      "word": "南宁院方回应通知错死亡对象",
-      "onboard_time": 1672719452,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233371,
       "num": 233371,
       "word": "新冠病毒变异毒力会越来越弱吗",
@@ -716,7 +772,7 @@
     },
     {
       "raw_hot": 225573,
-      "num": 1070507,
+      "num": 1120398,
       "word": "什么环境下需要佩戴N95口罩",
       "onboard_time": 1672665212,
       "rank": 2,
@@ -729,6 +785,14 @@
       "onboard_time": 1672670553,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 222092,
+      "num": 222092,
+      "word": "长荣海运年终奖最高领到52个月工资",
+      "onboard_time": 1672720055,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 221373,
@@ -915,12 +979,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164636,
-      "num": 164636,
-      "word": "长荣海运年终奖最高领到52个月工资",
-      "onboard_time": 1672720055,
-      "rank": 45,
-      "category": "财经,社会新闻"
+      "raw_hot": 171516,
+      "num": 171516,
+      "word": "NBA",
+      "onboard_time": 1672721376,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 162538,
@@ -953,6 +1017,14 @@
       "onboard_time": 1672717527,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156342,
+      "num": 156342,
+      "word": "姆巴佩杜兰特合影",
+      "onboard_time": 1672722572,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 153079,
@@ -995,22 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141961,
-      "num": 141961,
-      "word": "央视评部分国家限制中国旅客入境",
-      "onboard_time": 1672720535,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137630,
-      "num": 137630,
-      "word": "转阴后多吃这三样",
-      "onboard_time": 1672720590,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137567,
       "num": 137567,
       "word": "去有风的地方开播",
@@ -1032,6 +1088,14 @@
       "word": "2023开工多场景防护指南",
       "onboard_time": 1672709425,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128588,
+      "num": 144498,
+      "word": "天津小伙将年货融入相声堪比春晚",
+      "onboard_time": 1672722933,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
