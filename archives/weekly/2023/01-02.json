@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672737474505,
+  "endTime": 1672738410304,
   "band_list": [
     {
       "raw_hot": 2758634,
@@ -35,6 +35,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2082642,
+      "num": 2082642,
+      "word": "女儿怀疑武汉搬杭州是因爸爸变穷",
+      "onboard_time": 1672734989,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2079160,
       "num": 1165193,
       "word": "情侣吃自助拿多了把虾倒锅里逃跑",
@@ -65,14 +73,6 @@
       "onboard_time": 1672652189,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1861272,
-      "num": 1861272,
-      "word": "女儿怀疑武汉搬杭州是因爸爸变穷",
-      "onboard_time": 1672734989,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1834906,
@@ -827,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 580613,
+      "num": 580613,
+      "word": "廉政狙击全员拉黑吴卓羲",
+      "onboard_time": 1672734748,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 579896,
       "num": 461643,
       "word": "网友环球影城偶遇关晓彤",
@@ -865,14 +873,6 @@
       "onboard_time": 1672665329,
       "rank": 31,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 562628,
-      "num": 562628,
-      "word": "廉政狙击全员拉黑吴卓羲",
-      "onboard_time": 1672734748,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 559829,
@@ -1179,6 +1179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 449594,
+      "num": 449594,
+      "word": "第一批回村的狗子",
+      "onboard_time": 1672734210,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 445533,
       "num": 445533,
       "word": "赵露思加奈那黄日莹神隐同框路透",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1672628788,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438872,
+      "num": 438872,
+      "word": "如何评价刘亦菲首部现代剧",
+      "onboard_time": 1672737208,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 432097,
@@ -1267,20 +1283,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 422772,
+      "num": 422772,
+      "word": "施柏宇想和Lisa合作",
+      "onboard_time": 1672737147,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 422660,
       "num": 422660,
       "word": "第一次见火车户型的房子",
       "onboard_time": 1672663229,
       "rank": 35,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 422539,
-      "num": 422539,
-      "word": "第一批回村的狗子",
-      "onboard_time": 1672734210,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 419674,
@@ -1321,6 +1337,14 @@
       "onboard_time": 1672662570,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 403844,
+      "num": 403844,
+      "word": "二次感染",
+      "onboard_time": 1672737570,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403576,
@@ -1787,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319936,
+      "num": 237608,
+      "word": "北上",
+      "onboard_time": 1672737570,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 319782,
       "num": 319782,
       "word": "被一个蜡烛丑到了",
@@ -1881,14 +1913,6 @@
       "onboard_time": 1672552232,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304190,
-      "num": 226297,
-      "word": "施柏宇想和Lisa合作",
-      "onboard_time": 1672737147,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 303562,
@@ -2075,6 +2099,14 @@
       "category": "动漫,网红"
     },
     {
+      "raw_hot": 281859,
+      "num": 187587,
+      "word": "这是对年轻女性的霸凌",
+      "onboard_time": 1672737570,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281235,
       "num": 281235,
       "word": "血氧仪为什么一机难求",
@@ -2169,14 +2201,6 @@
       "onboard_time": 1672626930,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272386,
-      "num": 167425,
-      "word": "如何评价刘亦菲首部现代剧",
-      "onboard_time": 1672737208,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 270267,
@@ -2563,6 +2587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227553,
+      "num": 227553,
+      "word": "LNG对战IGY",
+      "onboard_time": 1672728088,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 226676,
       "num": 226676,
       "word": "rita新年cos",
@@ -2603,6 +2635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222482,
+      "num": 141149,
+      "word": "吴磊黑色大衣",
+      "onboard_time": 1672735109,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 222267,
       "num": 158578,
       "word": "爱情悍匪程霄",
@@ -2625,6 +2665,14 @@
       "onboard_time": 1672703062,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221138,
+      "num": 221138,
+      "word": "英雄联盟微博杯",
+      "onboard_time": 1672728687,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 220293,
@@ -2689,14 +2737,6 @@
       "onboard_time": 1672617319,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 213120,
-      "num": 141149,
-      "word": "吴磊黑色大衣",
-      "onboard_time": 1672735109,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 212549,
@@ -2971,6 +3011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189956,
+      "num": 189956,
+      "word": "全球每10颗人造宝石就有7颗来自广西小城",
+      "onboard_time": 1672737508,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189183,
       "num": 158191,
       "word": "王鹤棣片场和小演员游戏pk",
@@ -3057,22 +3105,6 @@
       "onboard_time": 1672712487,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184331,
-      "num": 184331,
-      "word": "英雄联盟微博杯",
-      "onboard_time": 1672728687,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 183361,
-      "num": 183361,
-      "word": "LNG对战IGY",
-      "onboard_time": 1672728088,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 181488,
@@ -3355,6 +3387,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 163058,
+      "num": 163058,
+      "word": "信长星同志任江苏省委书记",
+      "onboard_time": 1672737208,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161646,
       "num": 161646,
       "word": "丈夫归家送妻子孩子1人1串糖葫芦",
@@ -3385,6 +3425,14 @@
       "onboard_time": 1672722751,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159851,
+      "num": 159851,
+      "word": "当新年遇上血糯米芋泥蛋糕",
+      "onboard_time": 1672737810,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 159667,
@@ -3787,6 +3835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127312,
+      "num": 127312,
+      "word": "鹿邑警车被打砸6人已抓捕",
+      "onboard_time": 1672737086,
+      "rank": 47,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 126788,
       "num": 126788,
       "word": "你阳康后最想做的事",
@@ -3801,6 +3857,14 @@
       "onboard_time": 1672637431,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125071,
+      "num": 125071,
+      "word": "用数字3画一只小兔子",
+      "onboard_time": 1672737449,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124185,
@@ -3899,6 +3963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116713,
+      "num": 116713,
+      "word": "原来哥哥才是哄睡高手",
+      "onboard_time": 1672738047,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116186,
       "num": 116186,
       "word": "武林外传首播17周年",
@@ -3947,14 +4019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 112633,
-      "num": 112633,
-      "word": "信长星同志任江苏省委书记",
-      "onboard_time": 1672737208,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111249,
       "num": 1088311,
       "word": "2023年哪些新规开始实施",
@@ -3977,14 +4041,6 @@
       "onboard_time": 1672673790,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 109533,
-      "num": 109533,
-      "word": "鹿邑警车被打砸6人已抓捕",
-      "onboard_time": 1672737086,
-      "rank": 47,
-      "category": "社会负面"
     },
     {
       "raw_hot": 109472,
@@ -4033,14 +4089,6 @@
       "onboard_time": 1672733969,
       "rank": 49,
       "category": "财经,旅游"
-    },
-    {
-      "raw_hot": 102245,
-      "num": 102245,
-      "word": "用数字3画一只小兔子",
-      "onboard_time": 1672737449,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101826,

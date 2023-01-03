@@ -1,0 +1,410 @@
+{
+  "runTime": 1672738410304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2082642,
+        "num": 2082642,
+        "word": "女儿怀疑武汉搬杭州是因爸爸变穷",
+        "onboard_time": 1672734989,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932664,
+        "num": 932664,
+        "word": "干咳咳痰是肺炎的判断标准吗",
+        "onboard_time": 1672726646,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34960,
+        "num": 736492,
+        "word": "2022中国正能量",
+        "onboard_time": 1672731209,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 722000,
+        "num": 722000,
+        "word": "妇联回应网红灰太狼的羊被家暴",
+        "onboard_time": 1672731268,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 631708,
+        "num": 631708,
+        "word": "全国近94%县城房价不过万元",
+        "onboard_time": 1672729347,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 580613,
+        "num": 580613,
+        "word": "廉政狙击全员拉黑吴卓羲",
+        "onboard_time": 1672734748,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 539221,
+        "num": 539221,
+        "word": "乐视实行四天半工作制",
+        "onboard_time": 1672730488,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 536219,
+        "num": 536219,
+        "word": "大爷摔倒躺藕田2天2夜才被发现",
+        "onboard_time": 1672726588,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461743,
+        "num": 461743,
+        "word": "家人先后阳了会造成重复感染吗",
+        "onboard_time": 1672730849,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449594,
+        "num": 449594,
+        "word": "第一批回村的狗子",
+        "onboard_time": 1672734210,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 452242,
+        "num": 448557,
+        "word": "迪丽热巴红裙卷发复古造型",
+        "onboard_time": 1672733546,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 438872,
+        "num": 438872,
+        "word": "如何评价刘亦菲首部现代剧",
+        "onboard_time": 1672737208,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438066,
+        "num": 438066,
+        "word": "五月天打电话给我唱温柔",
+        "onboard_time": 1672735647,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 422772,
+        "num": 422772,
+        "word": "施柏宇想和Lisa合作",
+        "onboard_time": 1672737147,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403844,
+        "num": 403844,
+        "word": "二次感染",
+        "onboard_time": 1672737570,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366755,
+        "num": 366755,
+        "word": "转阴后多吃这三样",
+        "onboard_time": 1672720590,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347905,
+        "num": 347905,
+        "word": "现在的烟花越来越离谱了",
+        "onboard_time": 1672731869,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272633,
+        "num": 272633,
+        "word": "鹿邑警方通报故意破坏警车事件",
+        "onboard_time": 1672729228,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 267399,
+        "num": 267399,
+        "word": "四天半工作制能推广吗",
+        "onboard_time": 1672734687,
+        "rank": 18,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 245915,
+        "num": 245915,
+        "word": "小狗趁主人不在家偷吃6颗布洛芬",
+        "onboard_time": 1672723889,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386952,
+        "num": 245637,
+        "word": "池子转变的第一步是搬去成都",
+        "onboard_time": 1672733847,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319936,
+        "num": 237608,
+        "word": "北上",
+        "onboard_time": 1672737570,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293295,
+        "num": 236533,
+        "word": "张小斐问能看到我的秋裤不",
+        "onboard_time": 1672733067,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227553,
+        "num": 227553,
+        "word": "LNG对战IGY",
+        "onboard_time": 1672728088,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221702,
+        "num": 221702,
+        "word": "初二女生为活命扎针超25000次",
+        "onboard_time": 1672720709,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221138,
+        "num": 221138,
+        "word": "英雄联盟微博杯",
+        "onboard_time": 1672728687,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219666,
+        "num": 219666,
+        "word": "男子买下废弃学校翻新成31套住宅",
+        "onboard_time": 1672727967,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214161,
+        "num": 214161,
+        "word": "老师上网课要求学生投屏聊天记录",
+        "onboard_time": 1672725147,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 198720,
+        "num": 198720,
+        "word": "村医用抗生素治疗新冠发热患者",
+        "onboard_time": 1672726888,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189956,
+        "num": 189956,
+        "word": "全球每10颗人造宝石就有7颗来自广西小城",
+        "onboard_time": 1672737508,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289025,
+        "num": 188601,
+        "word": "易烊千玺电影三个字已完成初剪",
+        "onboard_time": 1672730729,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281859,
+        "num": 187587,
+        "word": "这是对年轻女性的霸凌",
+        "onboard_time": 1672737570,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254452,
+        "num": 185067,
+        "word": "张婉婷听到宋宁峰的话秒哭",
+        "onboard_time": 1672726528,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234091,
+        "num": 183893,
+        "word": "孟美岐刘晓庆新电影开机",
+        "onboard_time": 1672730429,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182127,
+        "num": 182127,
+        "word": "杭州入境人员发现XBB",
+        "onboard_time": 1672726349,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166762,
+        "num": 166762,
+        "word": "央视评部分国家限制中国旅客入境",
+        "onboard_time": 1672720535,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163058,
+        "num": 163058,
+        "word": "信长星同志任江苏省委书记",
+        "onboard_time": 1672737208,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159851,
+        "num": 159851,
+        "word": "当新年遇上血糯米芋泥蛋糕",
+        "onboard_time": 1672737810,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150363,
+        "num": 150363,
+        "word": "警惕蒙脱石散等药物走红背后黑手",
+        "onboard_time": 1672719812,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143784,
+        "num": 143784,
+        "word": "英国称中国旅客可拒绝强制核酸",
+        "onboard_time": 1672723831,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222409,
+        "num": 143226,
+        "word": "许光汉想和IU合作",
+        "onboard_time": 1672726588,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222482,
+        "num": 140805,
+        "word": "吴磊黑色大衣",
+        "onboard_time": 1672735109,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190081,
+        "num": 138117,
+        "word": "鹰眼扮演者被扫雪机碾压腿部",
+        "onboard_time": 1672718490,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133345,
+        "num": 133345,
+        "word": "阳性女子4楼扔快递称快递员怕感染",
+        "onboard_time": 1672716687,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132541,
+        "num": 132541,
+        "word": "A股迎2023年开门红",
+        "onboard_time": 1672733727,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127312,
+        "num": 127312,
+        "word": "鹿邑警车被打砸6人已抓捕",
+        "onboard_time": 1672737086,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 125945,
+        "num": 125945,
+        "word": "三亚一住客18万的酒店连住1个月",
+        "onboard_time": 1672718608,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125071,
+        "num": 125071,
+        "word": "用数字3画一只小兔子",
+        "onboard_time": 1672737449,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122956,
+        "num": 122956,
+        "word": "2023KPL春季赛抽签之夜",
+        "onboard_time": 1672732528,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116713,
+        "num": 116713,
+        "word": "原来哥哥才是哄睡高手",
+        "onboard_time": 1672738047,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#巩固脱贫成果乡村振兴开新局#"
+    }
+  }
+}
