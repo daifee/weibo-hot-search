@@ -1,0 +1,410 @@
+{
+  "runTime": 1672755401004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1316052,
+        "num": 1316052,
+        "word": "吴倩新剧 刀我",
+        "onboard_time": 1672752691,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 970849,
+        "num": 970849,
+        "word": "WBG让二追三",
+        "onboard_time": 1672753535,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16589,
+        "num": 808021,
+        "word": "2022中国正能量",
+        "onboard_time": 1672731209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1775348,
+        "num": 793955,
+        "word": "杭州不少人阳后出现妇科问题",
+        "onboard_time": 1672752871,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1494111,
+        "num": 789662,
+        "word": "酒店藏针孔摄像头偷拍大量情侣视频",
+        "onboard_time": 1672745433,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772241,
+        "num": 772241,
+        "word": "郭敬明称赞虞书欣哭戏",
+        "onboard_time": 1672753352,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 720299,
+        "num": 720299,
+        "word": "男子不顾刚出生的儿子羡慕隔壁生女儿",
+        "onboard_time": 1672748493,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681957,
+        "num": 681957,
+        "word": "北京一女子带娃嫁头婚老公",
+        "onboard_time": 1672752091,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656302,
+        "num": 656302,
+        "word": "张婉婷 情绪",
+        "onboard_time": 1672752691,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 645127,
+        "num": 645127,
+        "word": "新冠风暴下的妇产科",
+        "onboard_time": 1672750654,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580543,
+        "num": 580543,
+        "word": "鹅鸭杀",
+        "onboard_time": 1672749028,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 578437,
+        "num": 578437,
+        "word": "曾轶可 打碟",
+        "onboard_time": 1672749572,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 542510,
+        "num": 542510,
+        "word": "大G被撞却为节省时间认全责",
+        "onboard_time": 1672746393,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532039,
+        "num": 532039,
+        "word": "鹅鸭杀发文感谢中国玩家",
+        "onboard_time": 1672752691,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 526582,
+        "num": 526582,
+        "word": "微博杯 解说",
+        "onboard_time": 1672750353,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 428364,
+        "num": 428364,
+        "word": "王鹤棣搂陈钰琪看剧本花絮",
+        "onboard_time": 1672752091,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401409,
+        "num": 401409,
+        "word": "当事人回应发朋友圈致蒙脱石散脱销",
+        "onboard_time": 1672750770,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389305,
+        "num": 389305,
+        "word": "女子结婚没婚纱婚房也是租的",
+        "onboard_time": 1672745011,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385305,
+        "num": 385305,
+        "word": "令人心动的offer",
+        "onboard_time": 1672753952,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360875,
+        "num": 360875,
+        "word": "女儿怀疑武汉搬杭州是因爸爸变穷",
+        "onboard_time": 1672734989,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1487320,
+        "num": 360429,
+        "word": "江歌母亲回应刘鑫对赔偿款发起募捐",
+        "onboard_time": 1672742789,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118424,
+        "num": 359489,
+        "word": "刘鑫",
+        "onboard_time": 1672741528,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348686,
+        "num": 348686,
+        "word": "WBG对战OMG",
+        "onboard_time": 1672740508,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 348138,
+        "num": 348138,
+        "word": "阿根廷民众烧梅西雕像庆祝新年",
+        "onboard_time": 1672742488,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347226,
+        "num": 347226,
+        "word": "教育局回应老师让学生投屏聊天记录",
+        "onboard_time": 1672753170,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 342730,
+        "num": 342730,
+        "word": "浮图缘停更四天",
+        "onboard_time": 1672751792,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332320,
+        "num": 332320,
+        "word": "再见爱人 窒息",
+        "onboard_time": 1672748309,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302763,
+        "num": 302763,
+        "word": "西蓝花cp终于官宣",
+        "onboard_time": 1672744468,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298786,
+        "num": 298786,
+        "word": "WBG 阵容",
+        "onboard_time": 1672742310,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 279768,
+        "num": 287942,
+        "word": "干咳咳痰是肺炎的判断标准吗",
+        "onboard_time": 1672726646,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286335,
+        "num": 286335,
+        "word": "一条朋友圈引发蒙脱石散脱销",
+        "onboard_time": 1672747051,
+        "rank": 30,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 270559,
+        "num": 270559,
+        "word": "白鹿以爱为营看到代拍的反应",
+        "onboard_time": 1672755032,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256758,
+        "num": 256758,
+        "word": "陈南星给许红豆的语音是吴倩自己写的",
+        "onboard_time": 1672754672,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252882,
+        "num": 252882,
+        "word": "弟弟是真的喜欢洗头啊",
+        "onboard_time": 1672744650,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252363,
+        "num": 252363,
+        "word": "笑点低的养不了这狗",
+        "onboard_time": 1672754071,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247033,
+        "num": 247033,
+        "word": "张若昀每天给自己1小时emo时间",
+        "onboard_time": 1672753535,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246371,
+        "num": 246371,
+        "word": "去有风的地方",
+        "onboard_time": 1672751553,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245418,
+        "num": 245418,
+        "word": "南得霄亭开虐了",
+        "onboard_time": 1672748790,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219671,
+        "num": 219671,
+        "word": "阳康后怎么避免二次感染",
+        "onboard_time": 1672744953,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211353,
+        "num": 211353,
+        "word": "原来火腿肠是电容笔平替",
+        "onboard_time": 1672747534,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232239,
+        "num": 208543,
+        "word": "中国奇谭豆瓣开分9.5",
+        "onboard_time": 1672739910,
+        "rank": 40,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 199606,
+        "num": 199606,
+        "word": "英雄联盟微博杯",
+        "onboard_time": 1672728687,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192631,
+        "num": 192631,
+        "word": "清融",
+        "onboard_time": 1672755395,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190860,
+        "num": 190860,
+        "word": "微博杯直播",
+        "onboard_time": 1672755334,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168252,
+        "num": 168252,
+        "word": "爸爸晒龙凤3胞胎高矮胖瘦各长各的",
+        "onboard_time": 1672745370,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145227,
+        "num": 145227,
+        "word": "为什么会出现二次感染",
+        "onboard_time": 1672737570,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144848,
+        "num": 144848,
+        "word": "神还原近期某些药房",
+        "onboard_time": 1672751732,
+        "rank": 46,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 139583,
+        "num": 139583,
+        "word": "XBB会在我国引起新一轮流行吗",
+        "onboard_time": 1672755152,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131551,
+        "num": 139557,
+        "word": "全国近94%县城房价不过万元",
+        "onboard_time": 1672729347,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 130740,
+        "num": 139533,
+        "word": "100岁母亲照顾阳性60岁女儿",
+        "onboard_time": 1672739669,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#巩固脱贫成果乡村振兴开新局#"
+    }
+  }
+}
