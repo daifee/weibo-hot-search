@@ -1,0 +1,410 @@
+{
+  "runTime": 1672730169256,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1466292,
+        "num": 1466292,
+        "word": "干咳咳痰是肺炎的判断标准吗",
+        "onboard_time": 1672726646,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1411034,
+        "num": 1411034,
+        "word": "春晚",
+        "onboard_time": 1672723229,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30850,
+        "num": 1171274,
+        "word": "什么环境下需要佩戴N95口罩",
+        "onboard_time": 1672665212,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005840,
+        "num": 1005840,
+        "word": "初二女生为活命扎针超25000次",
+        "onboard_time": 1672720709,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965396,
+        "num": 965396,
+        "word": "大爷摔倒躺藕田2天2夜才被发现",
+        "onboard_time": 1672726588,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842497,
+        "num": 842497,
+        "word": "张婉婷听到宋宁峰的话秒哭",
+        "onboard_time": 1672726528,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 602186,
+        "num": 602186,
+        "word": "鹰眼扮演者被扫雪机碾压腿部",
+        "onboard_time": 1672718490,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580566,
+        "num": 580566,
+        "word": "杭州入境人员发现XBB",
+        "onboard_time": 1672726349,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576133,
+        "num": 576133,
+        "word": "央视评部分国家限制中国旅客入境",
+        "onboard_time": 1672720535,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569016,
+        "num": 569016,
+        "word": "老师上网课要求学生投屏聊天记录",
+        "onboard_time": 1672725147,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 539241,
+        "num": 539241,
+        "word": "杨迪这辈子的尴尬都给再见爱人了",
+        "onboard_time": 1672724969,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525340,
+        "num": 525340,
+        "word": "小狗趁主人不在家偷吃6颗布洛芬",
+        "onboard_time": 1672723889,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504823,
+        "num": 504823,
+        "word": "许光汉想和IU合作",
+        "onboard_time": 1672726588,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429282,
+        "num": 429282,
+        "word": "转阴后多吃这三样",
+        "onboard_time": 1672720590,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426789,
+        "num": 426789,
+        "word": "男子买下废弃学校翻新成31套住宅",
+        "onboard_time": 1672727967,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390087,
+        "num": 390087,
+        "word": "虞书欣格子外套上班图",
+        "onboard_time": 1672728088,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351838,
+        "num": 351838,
+        "word": "英国称中国旅客可拒绝强制核酸",
+        "onboard_time": 1672723831,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348807,
+        "num": 348807,
+        "word": "村医用抗生素治疗新冠发热患者",
+        "onboard_time": 1672726888,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281060,
+        "num": 281060,
+        "word": "三亚一住客18万的酒店连住1个月",
+        "onboard_time": 1672718608,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275141,
+        "num": 275141,
+        "word": "汤普森54分",
+        "onboard_time": 1672727128,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258958,
+        "num": 258958,
+        "word": "阳性女子4楼扔快递称快递员怕感染",
+        "onboard_time": 1672716687,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258392,
+        "num": 258392,
+        "word": "全国近94%县城房价不过万元",
+        "onboard_time": 1672729347,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 252958,
+        "num": 252958,
+        "word": "TWICE将1月20日发行先行曲",
+        "onboard_time": 1672726646,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252470,
+        "num": 252470,
+        "word": "曾黎青衣惊艳时刻",
+        "onboard_time": 1672729528,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249998,
+        "num": 249998,
+        "word": "警惕蒙脱石散等药物走红背后黑手",
+        "onboard_time": 1672719812,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247939,
+        "num": 247939,
+        "word": "鱼跃医疗称因成本上涨取消血氧仪折扣优惠",
+        "onboard_time": 1672718127,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 247734,
+        "num": 247734,
+        "word": "母亲被诈骗儿子不阻止拍视频记录",
+        "onboard_time": 1672719634,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230933,
+        "num": 230933,
+        "word": "NBA现场放姆巴佩世界杯进球画面",
+        "onboard_time": 1672724787,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227901,
+        "num": 227901,
+        "word": "吴磊2023年春晚第二次联排上班路透",
+        "onboard_time": 1672728806,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223992,
+        "num": 223992,
+        "word": "近期浙江感染病例数日增约百万",
+        "onboard_time": 1672726827,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223182,
+        "num": 223182,
+        "word": "井汲大翔个人pr造型",
+        "onboard_time": 1672728029,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215363,
+        "num": 215363,
+        "word": "张睿2023央视春晚第二次大联排",
+        "onboard_time": 1672726947,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204761,
+        "num": 204761,
+        "word": "孙怡总结再见爱人一脸疑惑",
+        "onboard_time": 1672725687,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197819,
+        "num": 197819,
+        "word": "肯布洛克因雪车事故去世",
+        "onboard_time": 1672716988,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188782,
+        "num": 188782,
+        "word": "2023春节档已官宣五部电影",
+        "onboard_time": 1672716267,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184331,
+        "num": 184331,
+        "word": "英雄联盟微博杯",
+        "onboard_time": 1672728687,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167860,
+        "num": 167860,
+        "word": "鲁尼绝杀老鹰",
+        "onboard_time": 1672727128,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166564,
+        "num": 166564,
+        "word": "LNG对战IGY",
+        "onboard_time": 1672728088,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163361,
+        "num": 163361,
+        "word": "00后开始在对联上整活了",
+        "onboard_time": 1672729828,
+        "rank": 38,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 159415,
+        "num": 159415,
+        "word": "新冠阳性和康复中禁止任何医美项目",
+        "onboard_time": 1672724249,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176390,
+        "num": 158479,
+        "word": "电影深海定档大年初一",
+        "onboard_time": 1672712788,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169608,
+        "num": 158458,
+        "word": "曾轶可方回应被维权",
+        "onboard_time": 1672716447,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156040,
+        "num": 156040,
+        "word": "鹿邑警方通报故意破坏警车事件",
+        "onboard_time": 1672729228,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 154423,
+        "num": 154423,
+        "word": "100万房贷一年可省2000多元",
+        "onboard_time": 1672713326,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 124325,
+        "num": 124325,
+        "word": "看个电视太费劲了",
+        "onboard_time": 1672723529,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122799,
+        "num": 122799,
+        "word": "詹姆斯惊叹米切尔表现",
+        "onboard_time": 1672726708,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122105,
+        "num": 122105,
+        "word": "原神流浪者",
+        "onboard_time": 1672721013,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118252,
+        "num": 118252,
+        "word": "NASA局长称别让中国打着科研幌子登月",
+        "onboard_time": 1672707745,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 116872,
+        "num": 116872,
+        "word": "米切尔71分",
+        "onboard_time": 1672715426,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110481,
+        "num": 110481,
+        "word": "南宁院方回应通知错死亡对象",
+        "onboard_time": 1672719452,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#巩固脱贫成果乡村振兴开新局#"
+    }
+  }
+}
