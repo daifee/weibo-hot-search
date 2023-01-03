@@ -1,6 +1,6 @@
 {
   "startTime": 1672676687155,
-  "endTime": 1672713428250,
+  "endTime": 1672714029668,
   "band_list": [
     {
       "raw_hot": 1734698,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1009898,
-      "num": 368284,
+      "num": 385152,
       "word": "那些小县城走出来的名人爱豆",
       "onboard_time": 1672702217,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1009302,
+      "num": 1009302,
+      "word": "电影深海定档大年初一",
+      "onboard_time": 1672712788,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 828093,
@@ -83,20 +91,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 723994,
-      "num": 723994,
-      "word": "电影深海定档大年初一",
-      "onboard_time": 1672712788,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 680941,
       "num": 680941,
       "word": "不做抗原怎么分辨是流感还是阳了",
       "onboard_time": 1672675467,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 631481,
+      "num": 631481,
+      "word": "深海",
+      "onboard_time": 1672713084,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 624926,
@@ -107,20 +115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 598767,
+      "raw_hot": 608531,
       "num": 598767,
       "word": "蔡依林唱玫瑰少年哭了",
       "onboard_time": 1672711526,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 545231,
-      "num": 367660,
-      "word": "深海",
-      "onboard_time": 1672713084,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 501537,
@@ -129,6 +129,14 @@
       "onboard_time": 1672709545,
       "rank": 13,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 497578,
+      "num": 497578,
+      "word": "新冠病毒导致重症概率高不高",
+      "onboard_time": 1672710866,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 468568,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 466486,
-      "num": 367485,
+      "num": 373190,
       "word": "张远巡演现场有粉丝求婚",
       "onboard_time": 1672710805,
       "rank": 12,
@@ -153,14 +161,6 @@
       "onboard_time": 1672673134,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 436566,
-      "num": 436566,
-      "word": "新冠病毒导致重症概率高不高",
-      "onboard_time": 1672710866,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 433155,
@@ -203,6 +203,14 @@
       "category": "财经,国外要闻"
     },
     {
+      "raw_hot": 392465,
+      "num": 392465,
+      "word": "什么情况需要做肺部CT",
+      "onboard_time": 1672711107,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386655,
       "num": 386655,
       "word": "江西高中生胡鑫宇失踪超80天",
@@ -219,36 +227,36 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 369016,
-      "num": 369016,
-      "word": "什么情况需要做肺部CT",
-      "onboard_time": 1672711107,
-      "rank": 9,
+      "raw_hot": 367647,
+      "num": 367647,
+      "word": "女子煮鸡蛋发现蛋中蛋",
+      "onboard_time": 1672713027,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350152,
-      "num": 180931,
+      "raw_hot": 359178,
+      "num": 359178,
       "word": "比利时将检测自中国入境航班废水",
       "onboard_time": 1672712067,
       "rank": 31,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 346801,
-      "num": 244335,
-      "word": "虞书欣云为衫绣花紫衣路透",
-      "onboard_time": 1672711766,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 344734,
-      "num": 344734,
+      "raw_hot": 351503,
+      "num": 351503,
       "word": "梅西2023年有望达成的里程碑",
       "onboard_time": 1672710027,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346801,
+      "num": 305864,
+      "word": "虞书欣云为衫绣花紫衣路透",
+      "onboard_time": 1672711766,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 341078,
@@ -267,6 +275,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 337531,
+      "num": 306435,
+      "word": "浮图缘这两集封神",
+      "onboard_time": 1672711287,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336282,
       "num": 336282,
       "word": "XBB毒株5问5答",
@@ -275,16 +291,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330110,
-      "num": 180938,
-      "word": "浮图缘这两集封神",
-      "onboard_time": 1672711287,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 331523,
+      "num": 331523,
+      "word": "老君山景区就游客被滞留山上致歉",
+      "onboard_time": 1672712245,
+      "rank": 18,
+      "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 321893,
-      "num": 321893,
+      "raw_hot": 323328,
+      "num": 323328,
       "word": "元旦起部分存量房贷月供减少",
       "onboard_time": 1672710626,
       "rank": 48,
@@ -304,6 +320,14 @@
       "word": "放假回家行李箱躺地上被妈妈嫌弃",
       "onboard_time": 1672696451,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290798,
+      "num": 290798,
+      "word": "西安高铁站私家车上站台接客",
+      "onboard_time": 1672712967,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -329,6 +353,14 @@
       "onboard_time": 1672673552,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274463,
+      "num": 274463,
+      "word": "樊振东孙颖莎世界第一开启2023",
+      "onboard_time": 1672711888,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 272498,
@@ -363,12 +395,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 250977,
-      "num": 250977,
-      "word": "老君山景区就游客被滞留山上致歉",
-      "onboard_time": 1672712245,
-      "rank": 18,
-      "category": "旅游,社会新闻"
+      "raw_hot": 253726,
+      "num": 253726,
+      "word": "100万房贷一年可省2000多元",
+      "onboard_time": 1672713326,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 251247,
+      "num": 251247,
+      "word": "媒体评蓝兔子邮票被吐槽不好看",
+      "onboard_time": 1672712186,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246272,
@@ -393,14 +433,6 @@
       "onboard_time": 1672678282,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241065,
-      "num": 241065,
-      "word": "樊振东孙颖莎世界第一开启2023",
-      "onboard_time": 1672711888,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 240889,
@@ -428,7 +460,7 @@
     },
     {
       "raw_hot": 225573,
-      "num": 1031770,
+      "num": 1039566,
       "word": "什么环境下需要佩戴N95口罩",
       "onboard_time": 1672665212,
       "rank": 2,
@@ -491,14 +523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 203909,
-      "num": 203909,
-      "word": "媒体评蓝兔子邮票被吐槽不好看",
-      "onboard_time": 1672712186,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200013,
       "num": 145030,
       "word": "李飞终于舍得花钱了",
@@ -545,6 +569,22 @@
       "onboard_time": 1672672473,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185491,
+      "num": 185491,
+      "word": "C罗球衣已为新东家增收2800万欧",
+      "onboard_time": 1672712725,
+      "rank": 40,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 184445,
+      "num": 184445,
+      "word": "欧文单手补扣",
+      "onboard_time": 1672712487,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 180939,
@@ -611,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153933,
+      "num": 153933,
+      "word": "XBB的致病力增加了吗",
+      "onboard_time": 1672713446,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153079,
       "num": 124526,
       "word": "王鹤棣说等活终于来活了",
@@ -627,28 +675,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 151315,
-      "num": 151315,
-      "word": "欧文单手补扣",
-      "onboard_time": 1672712487,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149743,
       "num": 126234,
       "word": "Danielle金发双马尾造型",
       "onboard_time": 1672677684,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 146730,
-      "num": 146730,
-      "word": "C罗球衣已为新东家增收2800万欧",
-      "onboard_time": 1672712725,
-      "rank": 40,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 146209,
@@ -667,12 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145938,
-      "num": 145938,
-      "word": "女子煮鸡蛋发现蛋中蛋",
-      "onboard_time": 1672713027,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 133385,
+      "num": 133385,
+      "word": "顾南亭的慌乱瞬间",
+      "onboard_time": 1672713685,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 132813,
@@ -680,14 +712,6 @@
       "word": "2023开工多场景防护指南",
       "onboard_time": 1672709425,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129474,
-      "num": 129474,
-      "word": "西安高铁站私家车上站台接客",
-      "onboard_time": 1672712967,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -731,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115320,
+      "num": 115320,
+      "word": "利雅得全城都是欢迎C罗海报",
+      "onboard_time": 1672713926,
+      "rank": 49,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 114328,
       "num": 114328,
       "word": "这座桥距离水面有近200层楼高",
@@ -745,14 +777,6 @@
       "onboard_time": 1672667192,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111871,
-      "num": 111871,
-      "word": "100万房贷一年可省2000多元",
-      "onboard_time": 1672713326,
-      "rank": 47,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 110330,
