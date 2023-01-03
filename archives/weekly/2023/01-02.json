@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672738410304,
+  "endTime": 1672741178518,
   "band_list": [
     {
       "raw_hot": 2758634,
@@ -120,6 +120,14 @@
       "word": "干咳咳痰是肺炎的判断标准吗",
       "onboard_time": 1672726646,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1560092,
+      "num": 1560092,
+      "word": "二次感染",
+      "onboard_time": 1672737570,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -521,6 +529,22 @@
       "onboard_time": 1672718608,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 792062,
+      "num": 792062,
+      "word": "2023央视春晚第二次大联排",
+      "onboard_time": 1672739669,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 790169,
+      "num": 790169,
+      "word": "如何评价刘亦菲首部现代剧",
+      "onboard_time": 1672737208,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 773132,
@@ -1187,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 446398,
+      "num": 446398,
+      "word": "这是对年轻女性的霸凌",
+      "onboard_time": 1672737570,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 445533,
       "num": 445533,
       "word": "赵露思加奈那黄日莹神隐同框路透",
@@ -1225,14 +1257,6 @@
       "onboard_time": 1672628788,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438872,
-      "num": 438872,
-      "word": "如何评价刘亦菲首部现代剧",
-      "onboard_time": 1672737208,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 432097,
@@ -1339,14 +1363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 403844,
-      "num": 403844,
-      "word": "二次感染",
-      "onboard_time": 1672737570,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 403576,
       "num": 403576,
       "word": "Newjeans主打曲OMG",
@@ -1441,6 +1457,22 @@
       "onboard_time": 1672725687,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389439,
+      "num": 389439,
+      "word": "全球每10颗人造宝石就有7颗来自广西小城",
+      "onboard_time": 1672737508,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 388597,
+      "num": 388597,
+      "word": "北上",
+      "onboard_time": 1672737570,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 387175,
@@ -1553,6 +1585,14 @@
       "onboard_time": 1672671213,
       "rank": 21,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 362196,
+      "num": 362196,
+      "word": "再见爱人节目组直接对话张婉婷",
+      "onboard_time": 1672739067,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 362111,
@@ -1755,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333579,
+      "num": 333579,
+      "word": "鹿邑警车被打砸6人已抓捕",
+      "onboard_time": 1672737086,
+      "rank": 47,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 333430,
       "num": 256544,
       "word": "王鹤棣王栎鑫李东赫浮图缘花絮",
@@ -1779,12 +1827,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 325405,
+      "num": 325405,
+      "word": "英雄联盟微博杯",
+      "onboard_time": 1672728687,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 323328,
       "num": 323328,
       "word": "元旦起部分存量房贷月供减少",
       "onboard_time": 1672710626,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 323181,
+      "num": 245743,
+      "word": "aespa年末舞台最后一场ending",
+      "onboard_time": 1672740508,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 322964,
@@ -1809,14 +1873,6 @@
       "onboard_time": 1672662509,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319936,
-      "num": 237608,
-      "word": "北上",
-      "onboard_time": 1672737570,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 319782,
@@ -1995,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295551,
+      "num": 209731,
+      "word": "程霄宣示主权",
+      "onboard_time": 1672739609,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294857,
       "num": 294857,
       "word": "为什么喜欢梁洁演的叶时蓝",
@@ -2099,14 +2163,6 @@
       "category": "动漫,网红"
     },
     {
-      "raw_hot": 281859,
-      "num": 187587,
-      "word": "这是对年轻女性的霸凌",
-      "onboard_time": 1672737570,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 281235,
       "num": 281235,
       "word": "血氧仪为什么一机难求",
@@ -2145,6 +2201,14 @@
       "onboard_time": 1672657590,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 278311,
+      "num": 209180,
+      "word": "张彬彬片场说徐璐胖",
+      "onboard_time": 1672739849,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 278121,
@@ -2201,6 +2265,14 @@
       "onboard_time": 1672626930,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271279,
+      "num": 191591,
+      "word": "宋宁峰生气离席",
+      "onboard_time": 1672738948,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 270267,
@@ -2379,6 +2451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250413,
+      "num": 250413,
+      "word": "中国奇谭豆瓣开分9.5",
+      "onboard_time": 1672739910,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 247996,
+      "num": 247996,
+      "word": "柯基进村吃农村素面狗粮留给土狗",
+      "onboard_time": 1672738287,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247953,
       "num": 247953,
       "word": "放烟花一定离狗窝远点",
@@ -2417,6 +2505,14 @@
       "onboard_time": 1672637550,
       "rank": 31,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 242164,
+      "num": 242164,
+      "word": "原来哥哥才是哄睡高手",
+      "onboard_time": 1672738047,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 241922,
@@ -2507,6 +2603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233458,
+      "num": 237252,
+      "word": "LNG战胜iGY",
+      "onboard_time": 1672739188,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233444,
       "num": 233444,
       "word": "顾南亭的小心思要藏不住了",
@@ -2561,6 +2665,14 @@
       "onboard_time": 1672671097,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231155,
+      "num": 231155,
+      "word": "WBG对战OMG",
+      "onboard_time": 1672740508,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 230411,
@@ -2665,14 +2777,6 @@
       "onboard_time": 1672703062,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221138,
-      "num": 221138,
-      "word": "英雄联盟微博杯",
-      "onboard_time": 1672728687,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 220293,
@@ -2801,6 +2905,14 @@
       "onboard_time": 1672588588,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209783,
+      "num": 209783,
+      "word": "100岁母亲照顾阳性60岁女儿",
+      "onboard_time": 1672739669,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209544,
@@ -2971,6 +3083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192100,
+      "num": 192100,
+      "word": "雪场夜滑被年轻人玩明白了",
+      "onboard_time": 1672739968,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192047,
       "num": 134421,
       "word": "白敬亭卿卿日常撑伞彩蛋",
@@ -3008,14 +3128,6 @@
       "word": "为什么不那么热衷恋爱了",
       "onboard_time": 1672645348,
       "rank": 27,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 189956,
-      "num": 189956,
-      "word": "全球每10颗人造宝石就有7颗来自广西小城",
-      "onboard_time": 1672737508,
-      "rank": 29,
       "category": "情感"
     },
     {
@@ -3779,6 +3891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132358,
+      "num": 132358,
+      "word": "你会选择跟好朋友合租吗",
+      "onboard_time": 1672740508,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131492,
       "num": 131492,
       "word": "它甚至还没看清楚就开始狗叫",
@@ -3833,14 +3953,6 @@
       "onboard_time": 1672735526,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 127312,
-      "num": 127312,
-      "word": "鹿邑警车被打砸6人已抓捕",
-      "onboard_time": 1672737086,
-      "rank": 47,
-      "category": "社会负面"
     },
     {
       "raw_hot": 126788,
@@ -3963,14 +4075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116713,
-      "num": 116713,
-      "word": "原来哥哥才是哄睡高手",
-      "onboard_time": 1672738047,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 116186,
       "num": 116186,
       "word": "武林外传首播17周年",
@@ -4057,6 +4161,14 @@
       "onboard_time": 1672618400,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106101,
+      "num": 106101,
+      "word": "本不聪明的脑袋雪上加霜",
+      "onboard_time": 1672740867,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 105665,
