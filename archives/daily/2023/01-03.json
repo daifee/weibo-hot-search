@@ -1,6 +1,6 @@
 {
   "startTime": 1672676687155,
-  "endTime": 1672735009459,
+  "endTime": 1672737474505,
   "band_list": [
     {
       "raw_hot": 2019468,
@@ -9,6 +9,14 @@
       "onboard_time": 1672715787,
       "rank": 45,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1861272,
+      "num": 1861272,
+      "word": "女儿怀疑武汉搬杭州是因爸爸变穷",
+      "onboard_time": 1672734989,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1734698,
@@ -395,7 +403,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 528093,
+      "raw_hot": 562628,
+      "num": 562628,
+      "word": "廉政狙击全员拉黑吴卓羲",
+      "onboard_time": 1672734748,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 536910,
       "num": 475838,
       "word": "迪丽热巴红裙卷发复古造型",
       "onboard_time": 1672733546,
@@ -443,6 +459,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 487627,
+      "num": 449360,
+      "word": "池子转变的第一步是搬去成都",
+      "onboard_time": 1672733847,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486614,
       "num": 486614,
       "word": "肯布洛克因雪车事故去世",
@@ -483,12 +507,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 449360,
-      "num": 449360,
-      "word": "池子转变的第一步是搬去成都",
-      "onboard_time": 1672733847,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 444833,
+      "num": 444833,
+      "word": "五月天打电话给我唱温柔",
+      "onboard_time": 1672735647,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 443830,
@@ -521,6 +545,14 @@
       "onboard_time": 1672703423,
       "rank": 8,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 422539,
+      "num": 422539,
+      "word": "第一批回村的狗子",
+      "onboard_time": 1672734210,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 408924,
@@ -643,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368470,
+      "num": 368470,
+      "word": "现在的烟花越来越离谱了",
+      "onboard_time": 1672731869,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 367793,
       "num": 283604,
       "word": "顾南亭终于长嘴了",
@@ -699,28 +739,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 346196,
-      "num": 346196,
-      "word": "现在的烟花越来越离谱了",
-      "onboard_time": 1672731869,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 345502,
       "num": 345502,
       "word": "新冠阳性和康复中禁止任何医美项目",
       "onboard_time": 1672724249,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344456,
-      "num": 236658,
-      "word": "廉政狙击全员拉黑吴卓羲",
-      "onboard_time": 1672734748,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 343224,
@@ -803,6 +827,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 304190,
+      "num": 226297,
+      "word": "施柏宇想和Lisa合作",
+      "onboard_time": 1672737147,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302736,
       "num": 178496,
       "word": "宋轶赵今麦现身央视春晚第二次联排",
@@ -867,6 +899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 283527,
+      "num": 283527,
+      "word": "四天半工作制能推广吗",
+      "onboard_time": 1672734687,
+      "rank": 17,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 281235,
       "num": 281235,
       "word": "血氧仪为什么一机难求",
@@ -928,6 +968,14 @@
       "word": "新还珠格格",
       "onboard_time": 1672652189,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 272386,
+      "num": 167425,
+      "word": "如何评价刘亦菲首部现代剧",
+      "onboard_time": 1672737208,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1155,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213120,
+      "num": 141149,
+      "word": "吴磊黑色大衣",
+      "onboard_time": 1672735109,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212317,
       "num": 153307,
       "word": "王鹤棣片场给陈钰琪扇风",
@@ -1201,14 +1257,6 @@
       "onboard_time": 1672658430,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 199027,
-      "num": 199027,
-      "word": "第一批回村的狗子",
-      "onboard_time": 1672734210,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 197250,
@@ -1539,6 +1587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149141,
+      "num": 149141,
+      "word": "蓝色生命线",
+      "onboard_time": 1672736729,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146209,
       "num": 146209,
       "word": "黑龙江上百人做出100米长雪雕",
@@ -1577,6 +1633,14 @@
       "onboard_time": 1672709425,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127954,
+      "num": 127954,
+      "word": "一招让你不再半夜醒来",
+      "onboard_time": 1672735526,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 122823,
@@ -1619,14 +1683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119053,
-      "num": 119053,
-      "word": "女儿怀疑武汉搬杭州是因爸爸变穷",
-      "onboard_time": 1672734989,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116811,
       "num": 116811,
       "word": "钱包绑在氢气球上被带飞升空",
@@ -1659,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112633,
+      "num": 112633,
+      "word": "信长星同志任江苏省委书记",
+      "onboard_time": 1672737208,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110330,
       "num": 109430,
       "word": "贵州牛肉自助的价格是真实存在的吗",
@@ -1673,6 +1737,14 @@
       "onboard_time": 1672664311,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 109533,
+      "num": 109533,
+      "word": "鹿邑警车被打砸6人已抓捕",
+      "onboard_time": 1672737086,
+      "rank": 47,
+      "category": "社会负面"
     },
     {
       "raw_hot": 105307,
@@ -1697,6 +1769,14 @@
       "onboard_time": 1672733969,
       "rank": 49,
       "category": "财经,旅游"
+    },
+    {
+      "raw_hot": 102245,
+      "num": 102245,
+      "word": "用数字3画一只小兔子",
+      "onboard_time": 1672737449,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99457,

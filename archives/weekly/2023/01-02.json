@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672735009459,
+  "endTime": 1672737474505,
   "band_list": [
     {
       "raw_hot": 2758634,
@@ -65,6 +65,14 @@
       "onboard_time": 1672652189,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1861272,
+      "num": 1861272,
+      "word": "女儿怀疑武汉搬杭州是因爸爸变穷",
+      "onboard_time": 1672734989,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1834906,
@@ -859,6 +867,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 562628,
+      "num": 562628,
+      "word": "廉政狙击全员拉黑吴卓羲",
+      "onboard_time": 1672734748,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 559829,
       "num": 559829,
       "word": "王者海月新皮肤",
@@ -939,7 +955,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 528093,
+      "raw_hot": 536910,
       "num": 475838,
       "word": "迪丽热巴红裙卷发复古造型",
       "onboard_time": 1672733546,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1672632690,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 487627,
+      "num": 449360,
+      "word": "池子转变的第一步是搬去成都",
+      "onboard_time": 1672733847,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 487286,
@@ -1155,20 +1179,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 449360,
-      "num": 449360,
-      "word": "池子转变的第一步是搬去成都",
-      "onboard_time": 1672733847,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 445533,
       "num": 445533,
       "word": "赵露思加奈那黄日莹神隐同框路透",
       "onboard_time": 1672655610,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 444833,
+      "num": 444833,
+      "word": "五月天打电话给我唱温柔",
+      "onboard_time": 1672735647,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 443830,
@@ -1249,6 +1273,14 @@
       "onboard_time": 1672663229,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 422539,
+      "num": 422539,
+      "word": "第一批回村的狗子",
+      "onboard_time": 1672734210,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 419674,
@@ -1467,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368470,
+      "num": 368470,
+      "word": "现在的烟花越来越离谱了",
+      "onboard_time": 1672731869,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 367793,
       "num": 283604,
       "word": "顾南亭终于长嘴了",
@@ -1603,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 346196,
-      "num": 346196,
-      "word": "现在的烟花越来越离谱了",
-      "onboard_time": 1672731869,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 345630,
       "num": 345630,
       "word": "今年首尔歌谣大赏有望在中国播出",
@@ -1641,14 +1673,6 @@
       "onboard_time": 1672652429,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344456,
-      "num": 236658,
-      "word": "廉政狙击全员拉黑吴卓羲",
-      "onboard_time": 1672734748,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 343224,
@@ -1859,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304190,
+      "num": 226297,
+      "word": "施柏宇想和Lisa合作",
+      "onboard_time": 1672737147,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 303562,
       "num": 303562,
       "word": "杨幂跨年候场视频",
@@ -2019,6 +2051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283527,
+      "num": 283527,
+      "word": "四天半工作制能推广吗",
+      "onboard_time": 1672734687,
+      "rank": 17,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 282236,
       "num": 237379,
       "word": "罗渽民给粉丝线上看诊",
@@ -2129,6 +2169,14 @@
       "onboard_time": 1672626930,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272386,
+      "num": 167425,
+      "word": "如何评价刘亦菲首部现代剧",
+      "onboard_time": 1672737208,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 270267,
@@ -2643,6 +2691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213120,
+      "num": 141149,
+      "word": "吴磊黑色大衣",
+      "onboard_time": 1672735109,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212549,
       "num": 212549,
       "word": "张彬彬说徐璐是最能哭的",
@@ -2793,14 +2849,6 @@
       "onboard_time": 1672658430,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 199027,
-      "num": 199027,
-      "word": "第一批回村的狗子",
-      "onboard_time": 1672734210,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 198794,
@@ -3483,6 +3531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149141,
+      "num": 149141,
+      "word": "蓝色生命线",
+      "onboard_time": 1672736729,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147894,
       "num": 147894,
       "word": "出现白肺怎么治疗",
@@ -3723,6 +3779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127954,
+      "num": 127954,
+      "word": "一招让你不再半夜醒来",
+      "onboard_time": 1672735526,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126788,
       "num": 126788,
       "word": "你阳康后最想做的事",
@@ -3819,14 +3883,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 119053,
-      "num": 119053,
-      "word": "女儿怀疑武汉搬杭州是因爸爸变穷",
-      "onboard_time": 1672734989,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117995,
       "num": 117995,
       "word": "贝利遗体告别仪式已准备就绪",
@@ -3891,6 +3947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 112633,
+      "num": 112633,
+      "word": "信长星同志任江苏省委书记",
+      "onboard_time": 1672737208,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111249,
       "num": 1088311,
       "word": "2023年哪些新规开始实施",
@@ -3913,6 +3977,14 @@
       "onboard_time": 1672673790,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 109533,
+      "num": 109533,
+      "word": "鹿邑警车被打砸6人已抓捕",
+      "onboard_time": 1672737086,
+      "rank": 47,
+      "category": "社会负面"
     },
     {
       "raw_hot": 109472,
@@ -3961,6 +4033,14 @@
       "onboard_time": 1672733969,
       "rank": 49,
       "category": "财经,旅游"
+    },
+    {
+      "raw_hot": 102245,
+      "num": 102245,
+      "word": "用数字3画一只小兔子",
+      "onboard_time": 1672737449,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101826,
