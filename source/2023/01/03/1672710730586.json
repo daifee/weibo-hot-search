@@ -1,0 +1,410 @@
+{
+  "runTime": 1672710730586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1734698,
+        "num": 1734698,
+        "word": "NASA局长称别让中国打着科研幌子登月",
+        "onboard_time": 1672707745,
+        "rank": 0,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1237358,
+        "num": 1237358,
+        "word": "三亚18万每晚天价酒店一房难求",
+        "onboard_time": 1672708229,
+        "rank": 1,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 163023,
+        "num": 880186,
+        "word": "什么环境下需要佩戴N95口罩",
+        "onboard_time": 1672665212,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690392,
+        "num": 690392,
+        "word": "新冠感染初愈后可以大吃大喝吗",
+        "onboard_time": 1672705226,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659518,
+        "num": 659518,
+        "word": "曾轶可演唱会被维权",
+        "onboard_time": 1672702701,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 588196,
+        "num": 588196,
+        "word": "泉州油罐车爆炸",
+        "onboard_time": 1672702520,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 439726,
+        "num": 439726,
+        "word": "教资面试",
+        "onboard_time": 1672702581,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 419152,
+        "num": 419152,
+        "word": "不做抗原怎么分辨是流感还是阳了",
+        "onboard_time": 1672675467,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377098,
+        "num": 377098,
+        "word": "王者荣耀",
+        "onboard_time": 1672701136,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 354094,
+        "num": 354094,
+        "word": "广东微辣是什么辣",
+        "onboard_time": 1672703423,
+        "rank": 9,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 910133,
+        "num": 349859,
+        "word": "那些小县城走出来的名人爱豆",
+        "onboard_time": 1672702217,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501070,
+        "num": 347808,
+        "word": "李现连吃两天菌菇火锅流鼻血",
+        "onboard_time": 1672703724,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401852,
+        "num": 347654,
+        "word": "英国停止从俄罗斯进口液化天然气",
+        "onboard_time": 1672708469,
+        "rank": 12,
+        "category": "财经,国外要闻"
+      },
+      {
+        "raw_hot": 342580,
+        "num": 342580,
+        "word": "计划要求各国用贝利名字命名一个足球场",
+        "onboard_time": 1672709545,
+        "rank": 13,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 339474,
+        "num": 339474,
+        "word": "刘亦菲首部现代剧今晚见",
+        "onboard_time": 1672710268,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336282,
+        "num": 336282,
+        "word": "XBB毒株5问5答",
+        "onboard_time": 1672708586,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288305,
+        "num": 288305,
+        "word": "47岁父亲考研18岁女儿受激励备考",
+        "onboard_time": 1672670433,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 279014,
+        "num": 279014,
+        "word": "4岁女童被同村男子拐走6万卖掉",
+        "onboard_time": 1672667494,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 275550,
+        "num": 275550,
+        "word": "转阴后总觉得累是怎么回事",
+        "onboard_time": 1672664367,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267554,
+        "num": 267554,
+        "word": "肖铎宠妻狂魔",
+        "onboard_time": 1672709185,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237793,
+        "num": 237793,
+        "word": "C罗亮相仪式收益用于慈善",
+        "onboard_time": 1672709485,
+        "rank": 20,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 233517,
+        "num": 233517,
+        "word": "国考准考证",
+        "onboard_time": 1672701377,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 196019,
+        "num": 196019,
+        "word": "阳康后需要做全身体检吗",
+        "onboard_time": 1672709126,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175723,
+        "num": 175723,
+        "word": "专家称不至于三个月就经历一波疫情",
+        "onboard_time": 1672653092,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174852,
+        "num": 174852,
+        "word": "夫妻出车祸有惊无险现场拍照留念",
+        "onboard_time": 1672694231,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171530,
+        "num": 171530,
+        "word": "山西省考",
+        "onboard_time": 1672709966,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 166833,
+        "num": 166833,
+        "word": "鹅鸭杀",
+        "onboard_time": 1672667073,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160798,
+        "num": 160798,
+        "word": "完美诠释了狗仗人势",
+        "onboard_time": 1672703062,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150231,
+        "num": 150231,
+        "word": "中学生湖边烧烤半个身子陷入淤泥",
+        "onboard_time": 1672685653,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142271,
+        "num": 142271,
+        "word": "专家称临床上绝大多数人都是轻症",
+        "onboard_time": 1672678282,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178738,
+        "num": 141512,
+        "word": "梅西2023年有望达成的里程碑",
+        "onboard_time": 1672710027,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151403,
+        "num": 141218,
+        "word": "肖步活了婚后生活",
+        "onboard_time": 1672710146,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132813,
+        "num": 135292,
+        "word": "2023开工多场景防护指南",
+        "onboard_time": 1672709425,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134598,
+        "num": 134598,
+        "word": "张云雷获年度人气歌手奖",
+        "onboard_time": 1672667612,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134417,
+        "num": 134417,
+        "word": "阳康后还会二次感染XBB吗",
+        "onboard_time": 1672663829,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133108,
+        "num": 133108,
+        "word": "杨幂微博一直敞开是为了不忘初心",
+        "onboard_time": 1672667553,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128513,
+        "num": 128513,
+        "word": "TVB对话王嘉尔",
+        "onboard_time": 1672673134,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128342,
+        "num": 128342,
+        "word": "放假回家行李箱躺地上被妈妈嫌弃",
+        "onboard_time": 1672696451,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124852,
+        "num": 124852,
+        "word": "第一次见这么尴尬的跨年",
+        "onboard_time": 1672667553,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124526,
+        "num": 124526,
+        "word": "王鹤棣说等活终于来活了",
+        "onboard_time": 1672679001,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118837,
+        "num": 118837,
+        "word": "鑫仔 戏悟",
+        "onboard_time": 1672672234,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117618,
+        "num": 117618,
+        "word": "4岁女孩单板滑雪动作娴熟",
+        "onboard_time": 1672705946,
+        "rank": 41,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 115204,
+        "num": 115204,
+        "word": "吴镇宇直播模仿张艺兴跳舞",
+        "onboard_time": 1672663890,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114037,
+        "num": 114037,
+        "word": "劳斯莱斯接亲卡道牙进退两难",
+        "onboard_time": 1672671097,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106441,
+        "num": 106441,
+        "word": "鹅鸭杀 快乐源泉",
+        "onboard_time": 1672673432,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98553,
+        "num": 98553,
+        "word": "水银温度计打碎了这样处理",
+        "onboard_time": 1672669952,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98012,
+        "num": 98012,
+        "word": "这座桥距离水面有近200层楼高",
+        "onboard_time": 1672702217,
+        "rank": 46,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 90780,
+        "num": 90780,
+        "word": "马刺vs篮网",
+        "onboard_time": 1672704684,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89442,
+        "num": 89442,
+        "word": "元旦起部分存量房贷月供减少",
+        "onboard_time": 1672710626,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 85281,
+        "num": 85281,
+        "word": "南得霄亭庆祝顾南亭复职",
+        "onboard_time": 1672707567,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#巩固脱贫成果乡村振兴开新局#"
+    }
+  }
+}
