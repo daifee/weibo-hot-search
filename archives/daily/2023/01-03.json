@@ -1,6 +1,6 @@
 {
   "startTime": 1672676687155,
-  "endTime": 1672719706855,
+  "endTime": 1672720603807,
   "band_list": [
     {
       "raw_hot": 2019468,
@@ -35,6 +35,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1297386,
+      "num": 1297386,
+      "word": "鱼跃医疗称因成本上涨取消血氧仪折扣优惠",
+      "onboard_time": 1672718127,
+      "rank": 4,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1270890,
       "num": 1270890,
       "word": "刘亦菲和马合照",
@@ -57,6 +65,14 @@
       "onboard_time": 1672715426,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1128901,
+      "num": 610219,
+      "word": "家属办完丧事被通知人没死",
+      "onboard_time": 1672719273,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1052339,
@@ -99,6 +115,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 902899,
+      "num": 902899,
+      "word": "阳性女子4楼扔快递称快递员怕感染",
+      "onboard_time": 1672716687,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 899613,
+      "num": 602521,
+      "word": "鹰眼扮演者被扫雪机碾压腿部",
+      "onboard_time": 1672718490,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 865249,
       "num": 865249,
       "word": "100万房贷一年可省2000多元",
@@ -121,14 +153,6 @@
       "onboard_time": 1672664367,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 792990,
-      "num": 792990,
-      "word": "鱼跃医疗称因成本上涨取消血氧仪折扣优惠",
-      "onboard_time": 1672718127,
-      "rank": 4,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 763121,
@@ -155,14 +179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 703366,
-      "num": 231803,
-      "word": "鹰眼扮演者被扫雪机碾压腿部",
-      "onboard_time": 1672718490,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 680941,
       "num": 680941,
       "word": "不做抗原怎么分辨是流感还是阳了",
@@ -171,11 +187,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 670774,
-      "num": 670774,
-      "word": "阳性女子4楼扔快递称快递员怕感染",
-      "onboard_time": 1672716687,
-      "rank": 47,
+      "raw_hot": 676802,
+      "num": 676802,
+      "word": "三亚一住客18万的酒店连住1个月",
+      "onboard_time": 1672718608,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -232,6 +248,14 @@
       "word": "流浪地球2里的地球太不容易了",
       "onboard_time": 1672714346,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 515874,
+      "num": 515874,
+      "word": "赵丽颖为电影深海打call",
+      "onboard_time": 1672719391,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -315,6 +339,14 @@
       "category": "财经,国外要闻"
     },
     {
+      "raw_hot": 392473,
+      "num": 332648,
+      "word": "我们的客栈定档1月6日",
+      "onboard_time": 1672718968,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392465,
       "num": 392465,
       "word": "什么情况需要做肺部CT",
@@ -329,14 +361,6 @@
       "onboard_time": 1672659511,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380867,
-      "num": 332648,
-      "word": "我们的客栈定档1月6日",
-      "onboard_time": 1672718968,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 380606,
@@ -371,12 +395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 373306,
-      "num": 327009,
-      "word": "赵丽颖为电影深海打call",
-      "onboard_time": 1672719391,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 373384,
+      "num": 373384,
+      "word": "警惕蒙脱石散等药物走红背后黑手",
+      "onboard_time": 1672719812,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367793,
@@ -387,16 +411,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 364208,
-      "num": 364208,
-      "word": "三亚一住客18万的酒店连住1个月",
-      "onboard_time": 1672718608,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360528,
-      "num": 234665,
+      "num": 242124,
       "word": "电影想见你求婚名场面",
       "onboard_time": 1672716928,
       "rank": 30,
@@ -417,6 +433,14 @@
       "onboard_time": 1672710027,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 351048,
+      "num": 351048,
+      "word": "母亲被诈骗儿子不阻止拍视频记录",
+      "onboard_time": 1672719634,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346801,
@@ -515,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 293066,
+      "num": 293066,
+      "word": "被家里的小猫当场抓获",
+      "onboard_time": 1672717650,
+      "rank": 24,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 285276,
       "num": 202187,
       "word": "杨幂微博一直敞开是为了不忘初心",
@@ -523,12 +555,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 284674,
-      "num": 284674,
-      "word": "被家里的小猫当场抓获",
-      "onboard_time": 1672717650,
-      "rank": 24,
-      "category": "幽默,情感"
+      "raw_hot": 281235,
+      "num": 281235,
+      "word": "血氧仪为什么一机难求",
+      "onboard_time": 1672716747,
+      "rank": 48,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 280493,
+      "num": 234662,
+      "word": "最强大脑10选手名单",
+      "onboard_time": 1672715909,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 280057,
@@ -547,28 +587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276372,
-      "num": 276372,
-      "word": "血氧仪为什么一机难求",
-      "onboard_time": 1672716747,
-      "rank": 48,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 274463,
       "num": 274463,
       "word": "樊振东孙颖莎世界第一开启2023",
       "onboard_time": 1672711888,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 272559,
-      "num": 207531,
-      "word": "最强大脑10选手名单",
-      "onboard_time": 1672715909,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 272498,
@@ -619,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247953,
+      "num": 247953,
+      "word": "放烟花一定离狗窝远点",
+      "onboard_time": 1672717168,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246272,
       "num": 246272,
       "word": "郑合惠子自罚挖100斤野菜",
@@ -667,20 +699,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 234575,
+      "num": 234575,
+      "word": "南宁院方回应通知错死亡对象",
+      "onboard_time": 1672719452,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233371,
       "num": 233371,
       "word": "新冠病毒变异毒力会越来越弱吗",
       "onboard_time": 1672710986,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229772,
-      "num": 229772,
-      "word": "放烟花一定离狗窝远点",
-      "onboard_time": 1672717168,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 225573,
@@ -795,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188752,
+      "num": 188752,
+      "word": "转阴了要注意吃动平衡",
+      "onboard_time": 1672716389,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188355,
       "num": 188355,
       "word": "2023上班第一天",
@@ -832,14 +872,6 @@
       "word": "XBB的致病力增加了吗",
       "onboard_time": 1672713446,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180657,
-      "num": 180657,
-      "word": "转阴了要注意吃动平衡",
-      "onboard_time": 1672716389,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -883,12 +915,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169959,
-      "num": 169959,
-      "word": "家属办完丧事被通知人没死",
-      "onboard_time": 1672719273,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 164636,
+      "num": 164636,
+      "word": "长荣海运年终奖最高领到52个月工资",
+      "onboard_time": 1672720055,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 162538,
@@ -913,14 +945,6 @@
       "onboard_time": 1672715966,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158518,
-      "num": 158518,
-      "word": "南宁院方回应通知错死亡对象",
-      "onboard_time": 1672719452,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157953,
@@ -971,20 +995,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141961,
+      "num": 141961,
+      "word": "央视评部分国家限制中国旅客入境",
+      "onboard_time": 1672720535,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137630,
+      "num": 137630,
+      "word": "转阴后多吃这三样",
+      "onboard_time": 1672720590,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137567,
       "num": 137567,
       "word": "去有风的地方开播",
       "onboard_time": 1672715846,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 136834,
-      "num": 136834,
-      "word": "母亲被诈骗儿子不阻止拍视频记录",
-      "onboard_time": 1672719634,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133385,
