@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672774416446,
+  "endTime": 1672777184651,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -5283,6 +5283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41559,
+      "num": 41559,
+      "word": "小猫送走全部观赏鱼霸占鱼缸睡觉",
+      "onboard_time": 1672770555,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41238,
       "num": 42815,
       "word": "找主人邀功的猫咪",
@@ -5331,14 +5339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37035,
-      "num": 37035,
-      "word": "小猫送走全部观赏鱼霸占鱼缸睡觉",
-      "onboard_time": 1672770555,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36784,
       "num": 36784,
       "word": "热刺0比2阿斯顿维拉",
@@ -5385,6 +5385,14 @@
       "onboard_time": 1672664431,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 18934,
+      "num": 18934,
+      "word": "阿森纳vs纽卡斯尔",
+      "onboard_time": 1672774152,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 10791,
