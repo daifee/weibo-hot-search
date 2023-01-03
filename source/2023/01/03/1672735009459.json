@@ -1,0 +1,410 @@
+{
+  "runTime": 1672735009459,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1455963,
+        "num": 1455963,
+        "word": "全国近94%县城房价不过万元",
+        "onboard_time": 1672729347,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1163977,
+        "num": 1163977,
+        "word": "干咳咳痰是肺炎的判断标准吗",
+        "onboard_time": 1672726646,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40180,
+        "num": 821435,
+        "word": "2022中国正能量",
+        "onboard_time": 1672731209,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 738029,
+        "num": 738029,
+        "word": "妇联回应网红灰太狼的羊被家暴",
+        "onboard_time": 1672731268,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 735414,
+        "num": 735414,
+        "word": "大爷摔倒躺藕田2天2夜才被发现",
+        "onboard_time": 1672726588,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733795,
+        "num": 733795,
+        "word": "鹿邑警方通报故意破坏警车事件",
+        "onboard_time": 1672729228,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 697550,
+        "num": 697550,
+        "word": "家人先后阳了会造成重复感染吗",
+        "onboard_time": 1672730849,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680889,
+        "num": 680889,
+        "word": "乐视实行四天半工作制",
+        "onboard_time": 1672730488,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 507515,
+        "num": 507515,
+        "word": "春晚",
+        "onboard_time": 1672723229,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476152,
+        "num": 476152,
+        "word": "张婉婷听到宋宁峰的话秒哭",
+        "onboard_time": 1672726528,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528093,
+        "num": 475838,
+        "word": "迪丽热巴红裙卷发复古造型",
+        "onboard_time": 1672733546,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 449360,
+        "num": 449360,
+        "word": "池子转变的第一步是搬去成都",
+        "onboard_time": 1672733847,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447160,
+        "num": 447160,
+        "word": "转阴后多吃这三样",
+        "onboard_time": 1672720590,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442561,
+        "num": 442561,
+        "word": "易烊千玺电影三个字已完成初剪",
+        "onboard_time": 1672730729,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357273,
+        "num": 357273,
+        "word": "男子买下废弃学校翻新成31套住宅",
+        "onboard_time": 1672727967,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335232,
+        "num": 335232,
+        "word": "现在的烟花越来越离谱了",
+        "onboard_time": 1672731869,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 310962,
+        "num": 310962,
+        "word": "小狗趁主人不在家偷吃6颗布洛芬",
+        "onboard_time": 1672723889,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268709,
+        "num": 268709,
+        "word": "村医用抗生素治疗新冠发热患者",
+        "onboard_time": 1672726888,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259393,
+        "num": 259393,
+        "word": "杭州入境人员发现XBB",
+        "onboard_time": 1672726349,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252798,
+        "num": 252798,
+        "word": "老师上网课要求学生投屏聊天记录",
+        "onboard_time": 1672725147,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 435850,
+        "num": 245381,
+        "word": "初二女生为活命扎针超25000次",
+        "onboard_time": 1672720709,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344456,
+        "num": 236658,
+        "word": "廉政狙击全员拉黑吴卓羲",
+        "onboard_time": 1672734748,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314423,
+        "num": 232244,
+        "word": "孟美岐刘晓庆新电影开机",
+        "onboard_time": 1672730429,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302409,
+        "num": 219739,
+        "word": "王一博2023年第一条语音",
+        "onboard_time": 1672733187,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214000,
+        "num": 214000,
+        "word": "央视评部分国家限制中国旅客入境",
+        "onboard_time": 1672720535,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205443,
+        "num": 205443,
+        "word": "三亚一住客18万的酒店连住1个月",
+        "onboard_time": 1672718608,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199027,
+        "num": 199027,
+        "word": "第一批回村的狗子",
+        "onboard_time": 1672734210,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190093,
+        "num": 190093,
+        "word": "阳性女子4楼扔快递称快递员怕感染",
+        "onboard_time": 1672716687,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183361,
+        "num": 183361,
+        "word": "LNG对战IGY",
+        "onboard_time": 1672728088,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176019,
+        "num": 176019,
+        "word": "警惕蒙脱石散等药物走红背后黑手",
+        "onboard_time": 1672719812,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298877,
+        "num": 175591,
+        "word": "许光汉想和IU合作",
+        "onboard_time": 1672726588,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287473,
+        "num": 174208,
+        "word": "鹰眼扮演者被扫雪机碾压腿部",
+        "onboard_time": 1672718490,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273906,
+        "num": 173362,
+        "word": "杨迪这辈子的尴尬都给再见爱人了",
+        "onboard_time": 1672724969,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272181,
+        "num": 172313,
+        "word": "宋轶赵今麦现身央视春晚第二次联排",
+        "onboard_time": 1672732649,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269959,
+        "num": 171316,
+        "word": "张小斐问能看到我的秋裤不",
+        "onboard_time": 1672733067,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170921,
+        "num": 170921,
+        "word": "咳嗽本身不会引起肺炎",
+        "onboard_time": 1672733969,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170305,
+        "num": 170305,
+        "word": "2023KPL春季赛抽签之夜",
+        "onboard_time": 1672732528,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169074,
+        "num": 169074,
+        "word": "英雄联盟微博杯",
+        "onboard_time": 1672728687,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153868,
+        "num": 166147,
+        "word": "A股迎2023年开门红",
+        "onboard_time": 1672733727,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164044,
+        "num": 164044,
+        "word": "英国称中国旅客可拒绝强制核酸",
+        "onboard_time": 1672723831,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253578,
+        "num": 162457,
+        "word": "周深现身兔年央视春晚第二次联排",
+        "onboard_time": 1672734687,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159845,
+        "num": 159845,
+        "word": "母亲被诈骗儿子不阻止拍视频记录",
+        "onboard_time": 1672719634,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151620,
+        "num": 151620,
+        "word": "老人劈柴过年堆太高瞬间倾泻而下",
+        "onboard_time": 1672731090,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142222,
+        "num": 142222,
+        "word": "国务院联防联控机制发布会",
+        "onboard_time": 1672730368,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131658,
+        "num": 131658,
+        "word": "鱼跃医疗称因成本上涨取消血氧仪折扣优惠",
+        "onboard_time": 1672718127,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 128603,
+        "num": 128603,
+        "word": "汤普森54分",
+        "onboard_time": 1672727128,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128142,
+        "num": 128142,
+        "word": "NBA现场放姆巴佩世界杯进球画面",
+        "onboard_time": 1672724787,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124519,
+        "num": 124519,
+        "word": "肯布洛克因雪车事故去世",
+        "onboard_time": 1672716988,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119053,
+        "num": 119053,
+        "word": "女儿怀疑武汉搬杭州是因爸爸变穷",
+        "onboard_time": 1672734989,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117727,
+        "num": 117727,
+        "word": "近期浙江感染病例数日增约百万",
+        "onboard_time": 1672726827,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这个元旦既是迎新也是回归#"
+    }
+  }
+}
