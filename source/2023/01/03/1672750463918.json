@@ -1,0 +1,410 @@
+{
+  "runTime": 1672750463918,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2284530,
+        "num": 2284530,
+        "word": "鹅鸭杀",
+        "onboard_time": 1672749028,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1231085,
+        "num": 1231085,
+        "word": "女子结婚没婚纱婚房也是租的",
+        "onboard_time": 1672745011,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25029,
+        "num": 1140669,
+        "word": "2022中国正能量",
+        "onboard_time": 1672731209,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1570247,
+        "num": 1133656,
+        "word": "酒店藏针孔摄像头偷拍大量情侣视频",
+        "onboard_time": 1672745433,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1107939,
+        "num": 1107939,
+        "word": "刘亦菲吴倩新剧哭戏感染力",
+        "onboard_time": 1672748911,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 951537,
+        "num": 951537,
+        "word": "大G被撞却为节省时间认全责",
+        "onboard_time": 1672746393,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884146,
+        "num": 884146,
+        "word": "西蓝花cp终于官宣",
+        "onboard_time": 1672744468,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585670,
+        "num": 585670,
+        "word": "女儿怀疑武汉搬杭州是因爸爸变穷",
+        "onboard_time": 1672734989,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539950,
+        "num": 539950,
+        "word": "阿根廷民众烧梅西雕像庆祝新年",
+        "onboard_time": 1672742488,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519554,
+        "num": 519554,
+        "word": "再见爱人 窒息",
+        "onboard_time": 1672748309,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482635,
+        "num": 482635,
+        "word": "弟弟是真的喜欢洗头啊",
+        "onboard_time": 1672744650,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 476693,
+        "num": 476693,
+        "word": "为什么会出现二次感染",
+        "onboard_time": 1672737570,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457007,
+        "num": 457007,
+        "word": "白鹿鞠婧祎虞书欣今日营业照",
+        "onboard_time": 1672749752,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428900,
+        "num": 428900,
+        "word": "曾轶可 打碟",
+        "onboard_time": 1672749572,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 419369,
+        "num": 419369,
+        "word": "王曼昱",
+        "onboard_time": 1672745734,
+        "rank": 14,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 412881,
+        "num": 412881,
+        "word": "干咳咳痰是肺炎的判断标准吗",
+        "onboard_time": 1672726646,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407675,
+        "num": 407675,
+        "word": "爸爸晒龙凤3胞胎高矮胖瘦各长各的",
+        "onboard_time": 1672745370,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391200,
+        "num": 391200,
+        "word": "WBG 阵容",
+        "onboard_time": 1672742310,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 385249,
+        "num": 385249,
+        "word": "WBG对战OMG",
+        "onboard_time": 1672740508,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 382492,
+        "num": 382492,
+        "word": "男子不顾刚出生的儿子羡慕隔壁生女儿",
+        "onboard_time": 1672748493,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4352532,
+        "num": 381910,
+        "word": "刘鑫对近70万赔偿款发起网络募捐",
+        "onboard_time": 1672742789,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380337,
+        "num": 380337,
+        "word": "原来火腿肠是电容笔平替",
+        "onboard_time": 1672747534,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339233,
+        "num": 339233,
+        "word": "南得霄亭开虐了",
+        "onboard_time": 1672748790,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1731941,
+        "num": 339226,
+        "word": "刘鑫",
+        "onboard_time": 1672741528,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338803,
+        "num": 338803,
+        "word": "一条朋友圈引发蒙脱石散脱销",
+        "onboard_time": 1672747051,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 301613,
+        "num": 301613,
+        "word": "中国奇谭豆瓣开分9.5",
+        "onboard_time": 1672739910,
+        "rank": 25,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 277449,
+        "num": 277449,
+        "word": "这是对年轻女性的霸凌",
+        "onboard_time": 1672737570,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250235,
+        "num": 250235,
+        "word": "英雄联盟微博杯",
+        "onboard_time": 1672728687,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193200,
+        "num": 193200,
+        "word": "阳康后怎么避免二次感染",
+        "onboard_time": 1672744953,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189987,
+        "num": 189987,
+        "word": "全国近94%县城房价不过万元",
+        "onboard_time": 1672729347,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 280512,
+        "num": 188297,
+        "word": "微博杯 解说",
+        "onboard_time": 1672750353,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241892,
+        "num": 182442,
+        "word": "詹雯婷现身兔年央视春晚第二次联排",
+        "onboard_time": 1672743150,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235912,
+        "num": 178458,
+        "word": "张杰说让自己变强就会有更多机会",
+        "onboard_time": 1672750173,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232115,
+        "num": 174143,
+        "word": "肖铎为了避嫌不理步音楼",
+        "onboard_time": 1672748611,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222103,
+        "num": 169169,
+        "word": "迪丽热巴红裙卷发复古造型",
+        "onboard_time": 1672733546,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167988,
+        "num": 167988,
+        "word": "女子时隔4年回娘家没被认出",
+        "onboard_time": 1672747832,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162006,
+        "num": 162006,
+        "word": "孙颖莎",
+        "onboard_time": 1672745734,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150608,
+        "num": 150608,
+        "word": "100岁母亲照顾阳性60岁女儿",
+        "onboard_time": 1672739669,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147290,
+        "num": 147290,
+        "word": "鹿邑警车被打砸6人已抓捕",
+        "onboard_time": 1672737086,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 48272,
+        "num": 138006,
+        "word": "天猫直播变脱口秀现场",
+        "onboard_time": 1672747236,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 198746,
+        "num": 137492,
+        "word": "刘诗诗刘宇宁一念关山杀青路透视频",
+        "onboard_time": 1672744050,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192266,
+        "num": 137222,
+        "word": "陈南星给许红豆的141秒语音遗言",
+        "onboard_time": 1672750231,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135155,
+        "num": 135155,
+        "word": "家人先后阳了会造成重复感染吗",
+        "onboard_time": 1672730849,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126296,
+        "num": 126296,
+        "word": "KPL年度最佳候选人名单",
+        "onboard_time": 1672744050,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118356,
+        "num": 126239,
+        "word": "乐视实行四天半工作制",
+        "onboard_time": 1672730488,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 114692,
+        "num": 126204,
+        "word": "被金毛幼崽可爱到了",
+        "onboard_time": 1672743992,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106685,
+        "num": 126156,
+        "word": "姐姐给11岁妹妹辅导作业4道错3道",
+        "onboard_time": 1672743450,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 106201,
+        "num": 126020,
+        "word": "大爷摔倒躺藕田2天2夜才被发现",
+        "onboard_time": 1672726588,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94381,
+        "num": 125963,
+        "word": "柯基进村吃农村素面狗粮留给土狗",
+        "onboard_time": 1672738287,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91638,
+        "num": 125926,
+        "word": "没有人能空着手走出青岛大集",
+        "onboard_time": 1672747951,
+        "rank": 49,
+        "category": "旅游,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#这个元旦既是迎新也是回归#"
+    }
+  }
+}
