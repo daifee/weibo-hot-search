@@ -1,10 +1,10 @@
 {
   "startTime": 1672676687155,
-  "endTime": 1672744491750,
+  "endTime": 1672745599057,
   "band_list": [
     {
-      "raw_hot": 4071728,
-      "num": 4071728,
+      "raw_hot": 9224273,
+      "num": 9224273,
       "word": "刘鑫对近70万赔偿款发起网络募捐",
       "onboard_time": 1672742789,
       "rank": 0,
@@ -35,20 +35,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1756070,
+      "num": 1756070,
+      "word": "二次感染",
+      "onboard_time": 1672737570,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1734698,
       "num": 1734698,
       "word": "NASA局长称别让中国打着科研幌子登月",
       "onboard_time": 1672707745,
       "rank": 3,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 1615870,
-      "num": 1615870,
-      "word": "二次感染",
-      "onboard_time": 1672737570,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1613648,
@@ -523,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 508210,
+      "num": 508210,
+      "word": "西蓝花cp终于官宣",
+      "onboard_time": 1672744468,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 501537,
       "num": 501537,
       "word": "计划要求各国用贝利名字命名一个足球场",
@@ -587,6 +595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 463403,
+      "num": 463403,
+      "word": "中国奇谭豆瓣开分9.5",
+      "onboard_time": 1672739910,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 457665,
       "num": 457665,
       "word": "张小斐问能看到我的秋裤不",
@@ -603,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 446105,
+      "num": 446105,
+      "word": "刘诗诗刘宇宁一念关山杀青路透视频",
+      "onboard_time": 1672744050,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 444833,
       "num": 444833,
       "word": "五月天打电话给我唱温柔",
@@ -617,14 +641,6 @@
       "onboard_time": 1672673134,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 440979,
-      "num": 440979,
-      "word": "中国奇谭豆瓣开分9.5",
-      "onboard_time": 1672739910,
-      "rank": 18,
-      "category": "动漫"
     },
     {
       "raw_hot": 433454,
@@ -971,14 +987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 326857,
-      "num": 283975,
-      "word": "刘诗诗刘宇宁一念关山杀青路透视频",
-      "onboard_time": 1672744050,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 323328,
       "num": 323328,
       "word": "元旦起部分存量房贷月供减少",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1672726947,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264036,
+      "num": 264036,
+      "word": "弟弟是真的喜欢洗头啊",
+      "onboard_time": 1672744650,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 256773,
@@ -1531,20 +1547,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191743,
+      "num": 191743,
+      "word": "女子结婚没婚纱婚房也是租的",
+      "onboard_time": 1672745011,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191376,
       "num": 191376,
       "word": "水银温度计打碎了这样处理",
       "onboard_time": 1672669952,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190872,
-      "num": 131766,
-      "word": "西蓝花cp终于官宣",
-      "onboard_time": 1672744468,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 189183,
@@ -1675,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172883,
+      "num": 172883,
+      "word": "KPL年度最佳候选人名单",
+      "onboard_time": 1672744050,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172163,
       "num": 172163,
       "word": "用冰雪还原沉香与君名场面",
@@ -1755,6 +1779,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162329,
+      "num": 162329,
+      "word": "酒店藏针孔摄像头偷拍大量情侣视频",
+      "onboard_time": 1672745433,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161948,
+      "num": 161948,
+      "word": "姐姐给11岁妹妹辅导作业4道错3道",
+      "onboard_time": 1672743450,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 160298,
       "num": 105558,
       "word": "喻言年度最佳舞台演绎歌手",
@@ -1793,6 +1833,14 @@
       "onboard_time": 1672715966,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159267,
+      "num": 159267,
+      "word": "阳康后怎么避免二次感染",
+      "onboard_time": 1672744953,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157953,
@@ -1883,6 +1931,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137330,
+      "num": 137330,
+      "word": "被一只狗鄙视了",
+      "onboard_time": 1672745194,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 136272,
+      "num": 136272,
+      "word": "被金毛幼崽可爱到了",
+      "onboard_time": 1672743992,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133385,
       "num": 133385,
       "word": "顾南亭的慌乱瞬间",
@@ -1921,14 +1985,6 @@
       "onboard_time": 1672737449,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123981,
-      "num": 123981,
-      "word": "KPL年度最佳候选人名单",
-      "onboard_time": 1672744050,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 122823,
@@ -1977,6 +2033,14 @@
       "onboard_time": 1672743510,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116922,
+      "num": 116922,
+      "word": "爸爸晒龙凤3胞胎高矮胖瘦各长各的",
+      "onboard_time": 1672745370,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116811,
@@ -2059,28 +2123,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 103301,
-      "num": 103301,
-      "word": "被金毛幼崽可爱到了",
-      "onboard_time": 1672743992,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 102820,
       "num": 121880,
       "word": "元旦假期三亚酒店均价1553元",
       "onboard_time": 1672733969,
       "rank": 49,
       "category": "财经,旅游"
-    },
-    {
-      "raw_hot": 102049,
-      "num": 102049,
-      "word": "姐姐给11岁妹妹辅导作业4道错3道",
-      "onboard_time": 1672743450,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 99457,

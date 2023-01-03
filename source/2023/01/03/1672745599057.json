@@ -1,0 +1,410 @@
+{
+  "runTime": 1672745599057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9224273,
+        "num": 9224273,
+        "word": "刘鑫对近70万赔偿款发起网络募捐",
+        "onboard_time": 1672742789,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1756070,
+        "num": 1756070,
+        "word": "二次感染",
+        "onboard_time": 1672737570,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33213,
+        "num": 1226195,
+        "word": "2022中国正能量",
+        "onboard_time": 1672731209,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1210059,
+        "num": 1210059,
+        "word": "女儿怀疑武汉搬杭州是因爸爸变穷",
+        "onboard_time": 1672734989,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828680,
+        "num": 828680,
+        "word": "阿根廷民众烧梅西雕像庆祝新年",
+        "onboard_time": 1672742488,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 664875,
+        "num": 664875,
+        "word": "WBG 阵容",
+        "onboard_time": 1672742310,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 544210,
+        "num": 544210,
+        "word": "WBG对战OMG",
+        "onboard_time": 1672740508,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 537922,
+        "num": 537922,
+        "word": "2023央视春晚第二次大联排",
+        "onboard_time": 1672739669,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 520283,
+        "num": 520283,
+        "word": "李现刘亦菲偶像剧身高差",
+        "onboard_time": 1672743150,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 518340,
+        "num": 518340,
+        "word": "干咳咳痰是肺炎的判断标准吗",
+        "onboard_time": 1672726646,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3307736,
+        "num": 518204,
+        "word": "刘鑫",
+        "onboard_time": 1672741528,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508210,
+        "num": 508210,
+        "word": "西蓝花cp终于官宣",
+        "onboard_time": 1672744468,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463403,
+        "num": 463403,
+        "word": "中国奇谭豆瓣开分9.5",
+        "onboard_time": 1672739910,
+        "rank": 12,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 461631,
+        "num": 461631,
+        "word": "这是对年轻女性的霸凌",
+        "onboard_time": 1672737570,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 446105,
+        "num": 446105,
+        "word": "刘诗诗刘宇宁一念关山杀青路透视频",
+        "onboard_time": 1672744050,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376022,
+        "num": 376022,
+        "word": "英雄联盟微博杯",
+        "onboard_time": 1672728687,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 373867,
+        "num": 373867,
+        "word": "100岁母亲照顾阳性60岁女儿",
+        "onboard_time": 1672739669,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326616,
+        "num": 326616,
+        "word": "全国近94%县城房价不过万元",
+        "onboard_time": 1672729347,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 314218,
+        "num": 314218,
+        "word": "大爷摔倒躺藕田2天2夜才被发现",
+        "onboard_time": 1672726588,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267738,
+        "num": 267738,
+        "word": "乐视实行四天半工作制",
+        "onboard_time": 1672730488,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 313820,
+        "num": 265901,
+        "word": "再见爱人节目组直接对话张婉婷",
+        "onboard_time": 1672739067,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286729,
+        "num": 265461,
+        "word": "詹雯婷现身兔年央视春晚第二次联排",
+        "onboard_time": 1672743150,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264036,
+        "num": 264036,
+        "word": "弟弟是真的喜欢洗头啊",
+        "onboard_time": 1672744650,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268340,
+        "num": 244233,
+        "word": "杨紫现身兔年央视春晚第二次联排",
+        "onboard_time": 1672741410,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210623,
+        "num": 210623,
+        "word": "鹿邑警车被打砸6人已抓捕",
+        "onboard_time": 1672737086,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 191743,
+        "num": 191743,
+        "word": "女子结婚没婚纱婚房也是租的",
+        "onboard_time": 1672745011,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186844,
+        "num": 186844,
+        "word": "柯基进村吃农村素面狗粮留给土狗",
+        "onboard_time": 1672738287,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177062,
+        "num": 177062,
+        "word": "转阴后多吃这三样",
+        "onboard_time": 1672720590,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176537,
+        "num": 176537,
+        "word": "第一批回村的狗子",
+        "onboard_time": 1672734210,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172883,
+        "num": 172883,
+        "word": "KPL年度最佳候选人名单",
+        "onboard_time": 1672744050,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 262051,
+        "num": 171125,
+        "word": "迪丽热巴红裙卷发复古造型",
+        "onboard_time": 1672733546,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224997,
+        "num": 171068,
+        "word": "廉政狙击全员拉黑吴卓羲",
+        "onboard_time": 1672734748,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213453,
+        "num": 168142,
+        "word": "aespa年末舞台最后一场ending",
+        "onboard_time": 1672740508,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200690,
+        "num": 166987,
+        "word": "妇联回应网红灰太狼的羊被家暴",
+        "onboard_time": 1672731268,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 165803,
+        "num": 165803,
+        "word": "家人先后阳了会造成重复感染吗",
+        "onboard_time": 1672730849,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162329,
+        "num": 162329,
+        "word": "酒店藏针孔摄像头偷拍大量情侣视频",
+        "onboard_time": 1672745433,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161948,
+        "num": 161948,
+        "word": "姐姐给11岁妹妹辅导作业4道错3道",
+        "onboard_time": 1672743450,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 159267,
+        "num": 159267,
+        "word": "阳康后怎么避免二次感染",
+        "onboard_time": 1672744953,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145450,
+        "num": 145450,
+        "word": "你会选择跟好朋友合租吗",
+        "onboard_time": 1672740508,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137330,
+        "num": 137330,
+        "word": "被一只狗鄙视了",
+        "onboard_time": 1672745194,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195475,
+        "num": 136906,
+        "word": "张彬彬片场说徐璐胖",
+        "onboard_time": 1672739849,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190381,
+        "num": 136835,
+        "word": "丁程鑫马正元微博网友最喜爱角色",
+        "onboard_time": 1672742849,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136272,
+        "num": 136272,
+        "word": "被金毛幼崽可爱到了",
+        "onboard_time": 1672743992,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132617,
+        "num": 132617,
+        "word": "现在的烟花越来越离谱了",
+        "onboard_time": 1672731869,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131041,
+        "num": 131041,
+        "word": "村医用抗生素治疗新冠发热患者",
+        "onboard_time": 1672726888,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126469,
+        "num": 126469,
+        "word": "老师上网课要求学生投屏聊天记录",
+        "onboard_time": 1672725147,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 120977,
+        "num": 120977,
+        "word": "小狗趁主人不在家偷吃6颗布洛芬",
+        "onboard_time": 1672723889,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116922,
+        "num": 116922,
+        "word": "爸爸晒龙凤3胞胎高矮胖瘦各长各的",
+        "onboard_time": 1672745370,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115701,
+        "num": 115701,
+        "word": "原来跳房子还能这么玩",
+        "onboard_time": 1672743510,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113617,
+        "num": 115685,
+        "word": "原来哥哥才是哄睡高手",
+        "onboard_time": 1672738047,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#这个元旦既是迎新也是回归#"
+    }
+  }
+}
