@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672756419024,
+  "endTime": 1672759185717,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1970195,
-      "num": 793955,
+      "num": 798692,
       "word": "杭州不少人阳后出现妇科问题",
       "onboard_time": 1672752871,
       "rank": 49,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1013389,
+      "num": 1013389,
+      "word": "教育局回应老师让学生投屏聊天记录",
+      "onboard_time": 1672753170,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1010435,
       "num": 1010435,
       "word": "女子煮鸡蛋发现蛋中蛋",
@@ -659,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 790958,
+      "num": 790958,
+      "word": "XBB会在我国引起新一轮流行吗",
+      "onboard_time": 1672755152,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 790169,
       "num": 790169,
       "word": "如何评价刘亦菲首部现代剧",
@@ -819,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687173,
+      "num": 687173,
+      "word": "以爱为营王梓薇被换角",
+      "onboard_time": 1672757132,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 680941,
       "num": 680941,
       "word": "不做抗原怎么分辨是流感还是阳了",
@@ -849,6 +873,14 @@
       "onboard_time": 1672650087,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 661332,
+      "num": 661332,
+      "word": "刘亦菲的新剧状态",
+      "onboard_time": 1672758752,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 660166,
@@ -976,6 +1008,14 @@
       "word": "许光汉想和IU合作",
       "onboard_time": 1672726588,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 608136,
+      "num": 371868,
+      "word": "网传王一博李沁长风破浪1月初开机",
+      "onboard_time": 1672758275,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -1145,14 +1185,6 @@
       "onboard_time": 1672646008,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545108,
-      "num": 545108,
-      "word": "教育局回应老师让学生投屏聊天记录",
-      "onboard_time": 1672753170,
-      "rank": 24,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 544124,
@@ -1617,6 +1649,14 @@
       "onboard_time": 1672656994,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 418318,
+      "num": 270307,
+      "word": "胡歌我的四十没有不惑",
+      "onboard_time": 1672757910,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 416950,
@@ -2131,6 +2171,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 338757,
+      "num": 268431,
+      "word": "曹曦文恭喜祝燃手机被冲厕所",
+      "onboard_time": 1672757670,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 338617,
+      "num": 266125,
+      "word": "伊甸园",
+      "onboard_time": 1672759112,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337531,
       "num": 306435,
       "word": "浮图缘这两集封神",
@@ -2201,14 +2257,6 @@
       "onboard_time": 1672754071,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 324407,
-      "num": 324407,
-      "word": "XBB会在我国引起新一轮流行吗",
-      "onboard_time": 1672755152,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 323328,
@@ -2369,6 +2417,14 @@
       "onboard_time": 1672636470,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302004,
+      "num": 302004,
+      "word": "鹅鸭杀 epl",
+      "onboard_time": 1672755633,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 301902,
@@ -2731,6 +2787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267631,
+      "num": 213909,
+      "word": "以爱为营",
+      "onboard_time": 1672758692,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267554,
       "num": 267554,
       "word": "肖铎宠妻狂魔",
@@ -2832,6 +2896,14 @@
       "word": "XBB是否会导致腹泻",
       "onboard_time": 1672661248,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255624,
+      "num": 255624,
+      "word": "30岁女子手术前剃头妈妈哄娃般安慰",
+      "onboard_time": 1672756355,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2969,6 +3041,14 @@
       "onboard_time": 1672669041,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240668,
+      "num": 161527,
+      "word": "2023总台春晚完成第二次彩排",
+      "onboard_time": 1672757615,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 238947,
@@ -3243,6 +3323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216808,
+      "num": 216808,
+      "word": "猫咪怎么能睡成这样的",
+      "onboard_time": 1672755274,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216774,
       "num": 216774,
       "word": "女儿悄悄返家爸爸满眼是光",
@@ -3353,6 +3441,14 @@
       "onboard_time": 1672588588,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210684,
+      "num": 210684,
+      "word": "商家回应出售不开心猪和淘汰猪",
+      "onboard_time": 1672756474,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209544,
@@ -3843,14 +3939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 176427,
-      "num": 176427,
-      "word": "鹅鸭杀 epl",
-      "onboard_time": 1672755633,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 174271,
       "num": 174271,
       "word": "当猫猫会角色扮演了",
@@ -3881,6 +3969,14 @@
       "onboard_time": 1672646125,
       "rank": 33,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 172429,
+      "num": 172429,
+      "word": "江歌妈妈直播回应刘鑫长文",
+      "onboard_time": 1672758514,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172163,
@@ -4579,14 +4675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121327,
-      "num": 121327,
-      "word": "30岁女子手术前剃头妈妈哄娃般安慰",
-      "onboard_time": 1672756355,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121122,
       "num": 121122,
       "word": "南京大屠杀在册幸存者仅剩49人",
@@ -4633,6 +4721,22 @@
       "onboard_time": 1672705946,
       "rank": 36,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 118884,
+      "num": 145958,
+      "word": "官方回应华夏航空一飞机风挡破裂返航",
+      "onboard_time": 1672758933,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118285,
+      "num": 145863,
+      "word": "女子称有阿姨每天狂敲门碰瓷",
+      "onboard_time": 1672758752,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 117995,
