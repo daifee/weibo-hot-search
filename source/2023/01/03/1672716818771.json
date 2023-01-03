@@ -1,0 +1,410 @@
+{
+  "runTime": 1672716818771,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1350259,
+        "num": 1350259,
+        "word": "电影深海定档大年初一",
+        "onboard_time": 1672712788,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1131805,
+        "num": 1131805,
+        "word": "米切尔71分",
+        "onboard_time": 1672715426,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101317,
+        "num": 1070507,
+        "word": "什么环境下需要佩戴N95口罩",
+        "onboard_time": 1672665212,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1010435,
+        "num": 1010435,
+        "word": "女子煮鸡蛋发现蛋中蛋",
+        "onboard_time": 1672713027,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 990290,
+        "num": 990290,
+        "word": "NASA局长称别让中国打着科研幌子登月",
+        "onboard_time": 1672707745,
+        "rank": 4,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 865249,
+        "num": 865249,
+        "word": "100万房贷一年可省2000多元",
+        "onboard_time": 1672713326,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 654963,
+        "num": 654963,
+        "word": "那些小县城走出来的名人爱豆",
+        "onboard_time": 1672702217,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614580,
+        "num": 614580,
+        "word": "西安高铁站私家车上站台接客",
+        "onboard_time": 1672712967,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607948,
+        "num": 607948,
+        "word": "三亚18万每晚天价酒店一房难求",
+        "onboard_time": 1672708229,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 566667,
+        "num": 566667,
+        "word": "新冠病毒导致重症概率高不高",
+        "onboard_time": 1672710866,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1022984,
+        "num": 565929,
+        "word": "杨迪力证没整容",
+        "onboard_time": 1672715909,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564938,
+        "num": 564938,
+        "word": "蔡依林唱玫瑰少年哭了",
+        "onboard_time": 1672711526,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 442334,
+        "num": 442334,
+        "word": "家属安葬完老人被医院通知弄错人",
+        "onboard_time": 1672715787,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 437357,
+        "num": 437357,
+        "word": "流浪地球2里的地球太不容易了",
+        "onboard_time": 1672714346,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411394,
+        "num": 411394,
+        "word": "深海",
+        "onboard_time": 1672713084,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375773,
+        "num": 375773,
+        "word": "姆巴佩观战篮网",
+        "onboard_time": 1672714703,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334417,
+        "num": 334417,
+        "word": "教资面试",
+        "onboard_time": 1672702581,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 330567,
+        "num": 330567,
+        "word": "什么情况需要做肺部CT",
+        "onboard_time": 1672711107,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322964,
+        "num": 322964,
+        "word": "米切尔绝平",
+        "onboard_time": 1672715909,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289650,
+        "num": 289650,
+        "word": "比利时将检测自中国入境航班废水",
+        "onboard_time": 1672712067,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380606,
+        "num": 287534,
+        "word": "曾轶可方回应被维权",
+        "onboard_time": 1672716447,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379307,
+        "num": 286301,
+        "word": "刘亦菲首部现代剧今晚见",
+        "onboard_time": 1672710268,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366393,
+        "num": 284431,
+        "word": "2023春节档已官宣五部电影",
+        "onboard_time": 1672716267,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278686,
+        "num": 278686,
+        "word": "女司机等红灯陌生男突然上车搭讪",
+        "onboard_time": 1672715728,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244917,
+        "num": 244917,
+        "word": "王者荣耀",
+        "onboard_time": 1672701136,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241205,
+        "num": 241205,
+        "word": "C罗球衣已为新东家增收2800万欧",
+        "onboard_time": 1672712725,
+        "rank": 25,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 238739,
+        "num": 238739,
+        "word": "我使馆痛斥法媒涉中国疫情防控谬论",
+        "onboard_time": 1672715127,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224471,
+        "num": 224471,
+        "word": "詹姆斯43分11篮板",
+        "onboard_time": 1672714346,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221577,
+        "num": 221577,
+        "word": "樊振东孙颖莎世界第一开启2023",
+        "onboard_time": 1672711888,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211545,
+        "num": 211545,
+        "word": "梅西2023年有望达成的里程碑",
+        "onboard_time": 1672710027,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300046,
+        "num": 211216,
+        "word": "浮图缘这两集封神",
+        "onboard_time": 1672711287,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247106,
+        "num": 210245,
+        "word": "李现连吃两天菌菇火锅流鼻血",
+        "onboard_time": 1672703724,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233990,
+        "num": 209034,
+        "word": "张远巡演现场有粉丝求婚",
+        "onboard_time": 1672710805,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229167,
+        "num": 207531,
+        "word": "最强大脑10选手名单",
+        "onboard_time": 1672715909,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206526,
+        "num": 206526,
+        "word": "老君山景区就游客被滞留山上致歉",
+        "onboard_time": 1672712245,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 204640,
+        "num": 204640,
+        "word": "怀疑滑雪教练想兼职送外卖",
+        "onboard_time": 1672715667,
+        "rank": 35,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 196915,
+        "num": 196915,
+        "word": "元旦起部分存量房贷月供减少",
+        "onboard_time": 1672710626,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 191267,
+        "num": 191267,
+        "word": "计划要求各国用贝利名字命名一个足球场",
+        "onboard_time": 1672709545,
+        "rank": 37,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 187341,
+        "num": 187341,
+        "word": "媒体评蓝兔子邮票被吐槽不好看",
+        "onboard_time": 1672712186,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186382,
+        "num": 186382,
+        "word": "广东微辣是什么辣",
+        "onboard_time": 1672703423,
+        "rank": 39,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 210898,
+        "num": 184739,
+        "word": "金智秀开通油管账号",
+        "onboard_time": 1672716628,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201386,
+        "num": 182890,
+        "word": "虞书欣云为衫绣花紫衣路透",
+        "onboard_time": 1672711766,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175804,
+        "num": 175804,
+        "word": "XBB的致病力增加了吗",
+        "onboard_time": 1672713446,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169436,
+        "num": 169436,
+        "word": "新冠感染初愈后可以大吃大喝吗",
+        "onboard_time": 1672705226,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167797,
+        "num": 167797,
+        "word": "转阴了要注意吃动平衡",
+        "onboard_time": 1672716389,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142453,
+        "num": 142453,
+        "word": "新冠病毒变异毒力会越来越弱吗",
+        "onboard_time": 1672710986,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141622,
+        "num": 141622,
+        "word": "XBB毒株5问5答",
+        "onboard_time": 1672708586,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136392,
+        "num": 136392,
+        "word": "阳性女子4楼扔快递称快递员怕感染",
+        "onboard_time": 1672716687,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134639,
+        "num": 134639,
+        "word": "血氧仪为什么一机难求",
+        "onboard_time": 1672716747,
+        "rank": 48,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 130858,
+        "num": 130858,
+        "word": "欧文单手补扣",
+        "onboard_time": 1672712487,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#巩固脱贫成果乡村振兴开新局#"
+    }
+  }
+}
