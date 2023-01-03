@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672742101232,
+  "endTime": 1672744491750,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -33,6 +33,22 @@
       "onboard_time": 1672499573,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4071728,
+      "num": 4071728,
+      "word": "刘鑫对近70万赔偿款发起网络募捐",
+      "onboard_time": 1672742789,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3661706,
+      "num": 3661706,
+      "word": "刘鑫",
+      "onboard_time": 1672741528,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3629234,
@@ -947,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 876890,
+      "num": 876890,
+      "word": "WBG 阵容",
+      "onboard_time": 1672742310,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 874654,
       "num": 874654,
       "word": "外来媳妇本地郎",
@@ -969,6 +993,14 @@
       "onboard_time": 1672498918,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 842690,
+      "num": 842690,
+      "word": "阿根廷民众烧梅西雕像庆祝新年",
+      "onboard_time": 1672742488,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 842497,
@@ -1443,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 629027,
+      "num": 629027,
+      "word": "WBG对战OMG",
+      "onboard_time": 1672740508,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 624926,
       "num": 347808,
       "word": "李现连吃两天菌菇火锅流鼻血",
@@ -1569,6 +1609,14 @@
       "onboard_time": 1672584810,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 589288,
+      "num": 589288,
+      "word": "李现刘亦菲偶像剧身高差",
+      "onboard_time": 1672743150,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 588379,
@@ -1932,7 +1980,7 @@
     },
     {
       "raw_hot": 497615,
-      "num": 446398,
+      "num": 476931,
       "word": "这是对年轻女性的霸凌",
       "onboard_time": 1672737570,
       "rank": 31,
@@ -2211,12 +2259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 440770,
-      "num": 440770,
-      "word": "WBG对战OMG",
-      "onboard_time": 1672740508,
-      "rank": 27,
-      "category": "游戏"
+      "raw_hot": 440979,
+      "num": 440979,
+      "word": "中国奇谭豆瓣开分9.5",
+      "onboard_time": 1672739910,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 436939,
@@ -2395,6 +2443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406571,
+      "num": 406571,
+      "word": "英雄联盟微博杯",
+      "onboard_time": 1672728687,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 404865,
       "num": 235617,
       "word": "武林外传拜年花絮",
@@ -2561,6 +2617,14 @@
       "onboard_time": 1672728088,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 389843,
+      "num": 389843,
+      "word": "100岁母亲照顾阳性60岁女儿",
+      "onboard_time": 1672739669,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389703,
@@ -2769,14 +2833,6 @@
       "onboard_time": 1672556970,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 361508,
-      "num": 361508,
-      "word": "中国奇谭豆瓣开分9.5",
-      "onboard_time": 1672739910,
-      "rank": 18,
-      "category": "动漫"
     },
     {
       "raw_hot": 361352,
@@ -3099,20 +3155,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 331336,
-      "num": 331336,
-      "word": "英雄联盟微博杯",
-      "onboard_time": 1672728687,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 328660,
       "num": 289445,
       "word": "朴灿烈吴世勋小分队舞台",
       "onboard_time": 1672554871,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 326863,
+      "num": 290394,
+      "word": "詹雯婷现身兔年央视春晚第二次联排",
+      "onboard_time": 1672743150,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 326857,
+      "num": 283975,
+      "word": "刘诗诗刘宇宁一念关山杀青路透视频",
+      "onboard_time": 1672744050,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 326807,
@@ -3235,14 +3299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 312829,
-      "num": 312829,
-      "word": "100岁母亲照顾阳性60岁女儿",
-      "onboard_time": 1672739669,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312817,
       "num": 312817,
       "word": "赵丽颖许半夏12月猫眼角色热度榜冠军",
@@ -3289,14 +3345,6 @@
       "onboard_time": 1672664311,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 304119,
-      "num": 304119,
-      "word": "刘鑫",
-      "onboard_time": 1672741528,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303562,
@@ -4088,6 +4136,14 @@
       "word": "郑合惠子自罚挖100斤野菜",
       "onboard_time": 1672675050,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 246142,
+      "num": 173489,
+      "word": "丁程鑫马正元微博网友最喜爱角色",
+      "onboard_time": 1672742849,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -5003,6 +5059,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 190872,
+      "num": 131766,
+      "word": "西蓝花cp终于官宣",
+      "onboard_time": 1672744468,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190078,
       "num": 190078,
       "word": "为什么不那么热衷恋爱了",
@@ -5145,6 +5209,14 @@
       "onboard_time": 1672712487,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181959,
+      "num": 181959,
+      "word": "打工人哪有想不开的",
+      "onboard_time": 1672743752,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 181905,
@@ -6259,6 +6331,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 123981,
+      "num": 123981,
+      "word": "KPL年度最佳候选人名单",
+      "onboard_time": 1672744050,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123571,
       "num": 123571,
       "word": "2023你许下了什么愿望",
@@ -6361,6 +6441,14 @@
       "onboard_time": 1672656631,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117204,
+      "num": 117204,
+      "word": "原来跳房子还能这么玩",
+      "onboard_time": 1672743510,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 116934,
@@ -6563,6 +6651,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 106965,
+      "num": 106965,
+      "word": "男子自诩车技好结果4名乘客全吐了",
+      "onboard_time": 1672743210,
+      "rank": 47,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 105755,
       "num": 955905,
       "word": "你好2023",
@@ -6611,6 +6707,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 103301,
+      "num": 103301,
+      "word": "被金毛幼崽可爱到了",
+      "onboard_time": 1672743992,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102820,
       "num": 121880,
       "word": "元旦假期三亚酒店均价1553元",
@@ -6625,6 +6729,14 @@
       "onboard_time": 1672548932,
       "rank": 45,
       "category": "体育,情感"
+    },
+    {
+      "raw_hot": 102049,
+      "num": 102049,
+      "word": "姐姐给11岁妹妹辅导作业4道错3道",
+      "onboard_time": 1672743450,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 101826,
@@ -7044,7 +7156,7 @@
     },
     {
       "raw_hot": 40180,
-      "num": 1178656,
+      "num": 1427075,
       "word": "2022中国正能量",
       "onboard_time": 1672731209,
       "rank": 2,

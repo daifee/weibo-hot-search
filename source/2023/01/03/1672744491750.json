@@ -1,0 +1,410 @@
+{
+  "runTime": 1672744491750,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4071728,
+        "num": 4071728,
+        "word": "刘鑫对近70万赔偿款发起网络募捐",
+        "onboard_time": 1672742789,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3661706,
+        "num": 3661706,
+        "word": "刘鑫",
+        "onboard_time": 1672741528,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39385,
+        "num": 1427075,
+        "word": "2022中国正能量",
+        "onboard_time": 1672731209,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1411586,
+        "num": 1411586,
+        "word": "二次感染",
+        "onboard_time": 1672737570,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1370047,
+        "num": 1370047,
+        "word": "女儿怀疑武汉搬杭州是因爸爸变穷",
+        "onboard_time": 1672734989,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876890,
+        "num": 876890,
+        "word": "WBG 阵容",
+        "onboard_time": 1672742310,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 842690,
+        "num": 842690,
+        "word": "阿根廷民众烧梅西雕像庆祝新年",
+        "onboard_time": 1672742488,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 701260,
+        "num": 701260,
+        "word": "2023央视春晚第二次大联排",
+        "onboard_time": 1672739669,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 629027,
+        "num": 629027,
+        "word": "WBG对战OMG",
+        "onboard_time": 1672740508,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 598710,
+        "num": 598710,
+        "word": "干咳咳痰是肺炎的判断标准吗",
+        "onboard_time": 1672726646,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589288,
+        "num": 589288,
+        "word": "李现刘亦菲偶像剧身高差",
+        "onboard_time": 1672743150,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 476931,
+        "num": 476931,
+        "word": "这是对年轻女性的霸凌",
+        "onboard_time": 1672737570,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440979,
+        "num": 440979,
+        "word": "中国奇谭豆瓣开分9.5",
+        "onboard_time": 1672739910,
+        "rank": 12,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 421800,
+        "num": 421800,
+        "word": "再见爱人节目组直接对话张婉婷",
+        "onboard_time": 1672739067,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406571,
+        "num": 406571,
+        "word": "英雄联盟微博杯",
+        "onboard_time": 1672728687,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 389843,
+        "num": 389843,
+        "word": "100岁母亲照顾阳性60岁女儿",
+        "onboard_time": 1672739669,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358042,
+        "num": 358042,
+        "word": "杨紫现身兔年央视春晚第二次联排",
+        "onboard_time": 1672741410,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356549,
+        "num": 356549,
+        "word": "大爷摔倒躺藕田2天2夜才被发现",
+        "onboard_time": 1672726588,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353914,
+        "num": 353914,
+        "word": "全国近94%县城房价不过万元",
+        "onboard_time": 1672729347,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 301371,
+        "num": 301371,
+        "word": "乐视实行四天半工作制",
+        "onboard_time": 1672730488,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 326863,
+        "num": 290394,
+        "word": "詹雯婷现身兔年央视春晚第二次联排",
+        "onboard_time": 1672743150,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326857,
+        "num": 283975,
+        "word": "刘诗诗刘宇宁一念关山杀青路透视频",
+        "onboard_time": 1672744050,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277117,
+        "num": 277117,
+        "word": "廉政狙击全员拉黑吴卓羲",
+        "onboard_time": 1672734748,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258654,
+        "num": 258654,
+        "word": "鹿邑警车被打砸6人已抓捕",
+        "onboard_time": 1672737086,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 223914,
+        "num": 223914,
+        "word": "柯基进村吃农村素面狗粮留给土狗",
+        "onboard_time": 1672738287,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273862,
+        "num": 223232,
+        "word": "迪丽热巴红裙卷发复古造型",
+        "onboard_time": 1672733546,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202663,
+        "num": 202663,
+        "word": "第一批回村的狗子",
+        "onboard_time": 1672734210,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196718,
+        "num": 196718,
+        "word": "转阴后多吃这三样",
+        "onboard_time": 1672720590,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190945,
+        "num": 190945,
+        "word": "家人先后阳了会造成重复感染吗",
+        "onboard_time": 1672730849,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181959,
+        "num": 181959,
+        "word": "打工人哪有想不开的",
+        "onboard_time": 1672743752,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263222,
+        "num": 180715,
+        "word": "妇联回应网红灰太狼的羊被家暴",
+        "onboard_time": 1672731268,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 246142,
+        "num": 173489,
+        "word": "丁程鑫马正元微博网友最喜爱角色",
+        "onboard_time": 1672742849,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245607,
+        "num": 170067,
+        "word": "aespa年末舞台最后一场ending",
+        "onboard_time": 1672740508,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165732,
+        "num": 165732,
+        "word": "全球每10颗人造宝石就有7颗来自广西小城",
+        "onboard_time": 1672737508,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160555,
+        "num": 160555,
+        "word": "原来哥哥才是哄睡高手",
+        "onboard_time": 1672738047,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157208,
+        "num": 157208,
+        "word": "老师上网课要求学生投屏聊天记录",
+        "onboard_time": 1672725147,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 156778,
+        "num": 156778,
+        "word": "你会选择跟好朋友合租吗",
+        "onboard_time": 1672740508,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146823,
+        "num": 146823,
+        "word": "现在的烟花越来越离谱了",
+        "onboard_time": 1672731869,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140728,
+        "num": 140728,
+        "word": "村医用抗生素治疗新冠发热患者",
+        "onboard_time": 1672726888,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137940,
+        "num": 137940,
+        "word": "小狗趁主人不在家偷吃6颗布洛芬",
+        "onboard_time": 1672723889,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229552,
+        "num": 137685,
+        "word": "张彬彬片场说徐璐胖",
+        "onboard_time": 1672739849,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213199,
+        "num": 134022,
+        "word": "宋宁峰生气离席",
+        "onboard_time": 1672738948,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190872,
+        "num": 131766,
+        "word": "西蓝花cp终于官宣",
+        "onboard_time": 1672744468,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125836,
+        "num": 125836,
+        "word": "男子买下废弃学校翻新成31套住宅",
+        "onboard_time": 1672727967,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123981,
+        "num": 123981,
+        "word": "KPL年度最佳候选人名单",
+        "onboard_time": 1672744050,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117204,
+        "num": 117204,
+        "word": "原来跳房子还能这么玩",
+        "onboard_time": 1672743510,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113103,
+        "num": 113103,
+        "word": "杭州入境人员发现XBB",
+        "onboard_time": 1672726349,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106965,
+        "num": 106965,
+        "word": "男子自诩车技好结果4名乘客全吐了",
+        "onboard_time": 1672743210,
+        "rank": 47,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 103301,
+        "num": 103301,
+        "word": "被金毛幼崽可爱到了",
+        "onboard_time": 1672743992,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102049,
+        "num": 102049,
+        "word": "姐姐给11岁妹妹辅导作业4道错3道",
+        "onboard_time": 1672743450,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席书架上的照片记录了哪些珍贵瞬间#"
+    }
+  }
+}
