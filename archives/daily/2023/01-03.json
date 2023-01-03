@@ -1,6 +1,6 @@
 {
   "startTime": 1672676687155,
-  "endTime": 1672755401004,
+  "endTime": 1672756419024,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -51,7 +51,7 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1775348,
+      "raw_hot": 1970195,
       "num": 793955,
       "word": "杭州不少人阳后出现妇科问题",
       "onboard_time": 1672752871,
@@ -467,8 +467,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 681957,
-      "num": 681957,
+      "raw_hot": 689488,
+      "num": 689488,
       "word": "北京一女子带娃嫁头婚老公",
       "onboard_time": 1672752091,
       "rank": 44,
@@ -595,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 587834,
+      "num": 587834,
+      "word": "鹅鸭杀发文感谢中国玩家",
+      "onboard_time": 1672752691,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 587797,
       "num": 587797,
       "word": "弟弟是真的喜欢洗头啊",
@@ -627,20 +635,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 545108,
+      "num": 545108,
+      "word": "教育局回应老师让学生投屏聊天记录",
+      "onboard_time": 1672753170,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 536910,
       "num": 475838,
       "word": "迪丽热巴红裙卷发复古造型",
       "onboard_time": 1672733546,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 532039,
-      "num": 532039,
-      "word": "鹅鸭杀发文感谢中国玩家",
-      "onboard_time": 1672752691,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 523543,
@@ -795,6 +803,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 450890,
+      "num": 450890,
+      "word": "王鹤棣搂陈钰琪看剧本花絮",
+      "onboard_time": 1672752091,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 449594,
       "num": 449594,
       "word": "第一批回村的狗子",
@@ -857,14 +873,6 @@
       "onboard_time": 1672703423,
       "rank": 8,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 428364,
-      "num": 428364,
-      "word": "王鹤棣搂陈钰琪看剧本花絮",
-      "onboard_time": 1672752091,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 422772,
@@ -1147,14 +1155,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 347226,
-      "num": 347226,
-      "word": "教育局回应老师让学生投屏聊天记录",
-      "onboard_time": 1672753170,
-      "rank": 24,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 346801,
       "num": 305864,
       "word": "虞书欣云为衫绣花紫衣路透",
@@ -1185,6 +1185,14 @@
       "onboard_time": 1672663890,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340453,
+      "num": 340453,
+      "word": "清融",
+      "onboard_time": 1672755395,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 337598,
@@ -1233,6 +1241,22 @@
       "onboard_time": 1672743150,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 325972,
+      "num": 325972,
+      "word": "笑点低的养不了这狗",
+      "onboard_time": 1672754071,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 324407,
+      "num": 324407,
+      "word": "XBB会在我国引起新一轮流行吗",
+      "onboard_time": 1672755152,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323328,
@@ -1531,14 +1555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252363,
-      "num": 252363,
-      "word": "笑点低的养不了这狗",
-      "onboard_time": 1672754071,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 251247,
       "num": 251247,
       "word": "媒体评蓝兔子邮票被吐槽不好看",
@@ -1675,6 +1691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226946,
+      "num": 226946,
+      "word": "阳康后怎么避免二次感染",
+      "onboard_time": 1672744953,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225573,
       "num": 1248817,
       "word": "什么环境下需要佩戴N95口罩",
@@ -1736,14 +1760,6 @@
       "word": "阳康后还会二次感染XBB吗",
       "onboard_time": 1672663829,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219671,
-      "num": 219671,
-      "word": "阳康后怎么避免二次感染",
-      "onboard_time": 1672744953,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1881,14 +1897,6 @@
       "onboard_time": 1672730368,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192631,
-      "num": 192631,
-      "word": "清融",
-      "onboard_time": 1672755395,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 192529,
@@ -2067,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176427,
+      "num": 176427,
+      "word": "鹅鸭杀 epl",
+      "onboard_time": 1672755633,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172883,
       "num": 172883,
       "word": "KPL年度最佳候选人名单",
@@ -2081,6 +2097,14 @@
       "onboard_time": 1672713147,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171685,
+      "num": 171685,
+      "word": "TheShy MVP",
+      "onboard_time": 1672755695,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 171516,
@@ -2283,14 +2307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139583,
-      "num": 139583,
-      "word": "XBB会在我国引起新一轮流行吗",
-      "onboard_time": 1672755152,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137567,
       "num": 137567,
       "word": "去有风的地方开播",
@@ -2363,12 +2379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124731,
+      "num": 124731,
+      "word": "WBG战胜OMG",
+      "onboard_time": 1672756235,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122823,
       "num": 122823,
       "word": "空气净化器用了2年发现滤芯膜没撕",
       "onboard_time": 1672672234,
       "rank": 32,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 121327,
+      "num": 121327,
+      "word": "30岁女子手术前剃头妈妈哄娃般安慰",
+      "onboard_time": 1672756355,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121111,
@@ -2724,6 +2756,9 @@
     },
     {
       "word": "#这个元旦既是迎新也是回归#"
+    },
+    {
+      "word": "#开局之年看中国#"
     }
   ]
 }
