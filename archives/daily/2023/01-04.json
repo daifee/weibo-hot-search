@@ -1,6 +1,6 @@
 {
   "startTime": 1672763163878,
-  "endTime": 1672773281965,
+  "endTime": 1672774416446,
   "band_list": [
     {
       "raw_hot": 1578422,
@@ -379,8 +379,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 119472,
-      "num": 119472,
+      "raw_hot": 119504,
+      "num": 119504,
       "word": "刘亦菲李现去有风的地方首播收视率",
       "onboard_time": 1672770434,
       "rank": 25,
@@ -491,20 +491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22800,
+      "raw_hot": 37035,
+      "num": 37035,
+      "word": "小猫送走全部观赏鱼霸占鱼缸睡觉",
+      "onboard_time": 1672770555,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22817,
       "num": 30084,
       "word": "原来这就是绝对音感",
       "onboard_time": 1672770615,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 22639,
-      "num": 22639,
-      "word": "小猫送走全部观赏鱼霸占鱼缸睡觉",
-      "onboard_time": 1672770555,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4935,
