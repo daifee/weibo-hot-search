@@ -1,0 +1,410 @@
+{
+  "runTime": 1672727799693,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1542992,
+        "num": 1542992,
+        "word": "初二女生为活命扎针超25000次",
+        "onboard_time": 1672720709,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1490258,
+        "num": 1490258,
+        "word": "春晚",
+        "onboard_time": 1672723229,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44362,
+        "num": 1081965,
+        "word": "什么环境下需要佩戴N95口罩",
+        "onboard_time": 1672665212,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854092,
+        "num": 854092,
+        "word": "鹰眼扮演者被扫雪机碾压腿部",
+        "onboard_time": 1672718490,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 833995,
+        "num": 833995,
+        "word": "张婉婷听到宋宁峰的话秒哭",
+        "onboard_time": 1672726528,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 788242,
+        "num": 788242,
+        "word": "央视评部分国家限制中国旅客入境",
+        "onboard_time": 1672720535,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734677,
+        "num": 734677,
+        "word": "小狗趁主人不在家偷吃6颗布洛芬",
+        "onboard_time": 1672723889,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658613,
+        "num": 658613,
+        "word": "转阴后多吃这三样",
+        "onboard_time": 1672720590,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587336,
+        "num": 587336,
+        "word": "老师上网课要求学生投屏聊天记录",
+        "onboard_time": 1672725147,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 565838,
+        "num": 565838,
+        "word": "干咳咳痰是肺炎的判断标准吗",
+        "onboard_time": 1672726646,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688078,
+        "num": 550665,
+        "word": "杨迪这辈子的尴尬都给再见爱人了",
+        "onboard_time": 1672724969,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611310,
+        "num": 539381,
+        "word": "许光汉想和IU合作",
+        "onboard_time": 1672726588,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 518222,
+        "num": 518222,
+        "word": "英国称中国旅客可拒绝强制核酸",
+        "onboard_time": 1672723831,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496106,
+        "num": 496106,
+        "word": "大爷摔倒躺藕田2天2夜才被发现",
+        "onboard_time": 1672726588,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483472,
+        "num": 483472,
+        "word": "杭州入境人员发现XBB",
+        "onboard_time": 1672726349,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425985,
+        "num": 425985,
+        "word": "鱼跃医疗称因成本上涨取消血氧仪折扣优惠",
+        "onboard_time": 1672718127,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 387011,
+        "num": 387011,
+        "word": "TWICE将1月20日发行先行曲",
+        "onboard_time": 1672726646,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348753,
+        "num": 348753,
+        "word": "警惕蒙脱石散等药物走红背后黑手",
+        "onboard_time": 1672719812,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332839,
+        "num": 332839,
+        "word": "母亲被诈骗儿子不阻止拍视频记录",
+        "onboard_time": 1672719634,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319343,
+        "num": 319343,
+        "word": "三亚一住客18万的酒店连住1个月",
+        "onboard_time": 1672718608,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329191,
+        "num": 319098,
+        "word": "孙怡总结再见爱人一脸疑惑",
+        "onboard_time": 1672725687,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318517,
+        "num": 318517,
+        "word": "阳性女子4楼扔快递称快递员怕感染",
+        "onboard_time": 1672716687,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278416,
+        "num": 278416,
+        "word": "新冠阳性和康复中禁止任何医美项目",
+        "onboard_time": 1672724249,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269052,
+        "num": 269052,
+        "word": "肯布洛克因雪车事故去世",
+        "onboard_time": 1672716988,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264662,
+        "num": 264662,
+        "word": "张睿2023央视春晚第二次大联排",
+        "onboard_time": 1672726947,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234296,
+        "num": 234296,
+        "word": "电影深海定档大年初一",
+        "onboard_time": 1672712788,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232660,
+        "num": 232660,
+        "word": "NBA现场放姆巴佩世界杯进球画面",
+        "onboard_time": 1672724787,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216034,
+        "num": 216034,
+        "word": "NASA局长称别让中国打着科研幌子登月",
+        "onboard_time": 1672707745,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 214651,
+        "num": 214651,
+        "word": "100万房贷一年可省2000多元",
+        "onboard_time": 1672713326,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 213921,
+        "num": 213921,
+        "word": "老鹰vs勇士",
+        "onboard_time": 1672723711,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216435,
+        "num": 213586,
+        "word": "近期浙江感染病例数日增约百万",
+        "onboard_time": 1672726827,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211098,
+        "num": 211098,
+        "word": "刘亦菲和马合照",
+        "onboard_time": 1672717527,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204595,
+        "num": 204595,
+        "word": "蔡依林唱玫瑰少年哭了",
+        "onboard_time": 1672711526,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202134,
+        "num": 202134,
+        "word": "2023春节档已官宣五部电影",
+        "onboard_time": 1672716267,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197510,
+        "num": 197510,
+        "word": "曾轶可方回应被维权",
+        "onboard_time": 1672716447,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187052,
+        "num": 187052,
+        "word": "詹姆斯惊叹米切尔表现",
+        "onboard_time": 1672726708,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179473,
+        "num": 179473,
+        "word": "老鹰勇士双加时",
+        "onboard_time": 1672727067,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178309,
+        "num": 178309,
+        "word": "村医用抗生素治疗新冠发热患者",
+        "onboard_time": 1672726888,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158281,
+        "num": 158281,
+        "word": "南宁院方回应通知错死亡对象",
+        "onboard_time": 1672719452,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56925,
+        "num": 158194,
+        "word": "网友晒10元必吃家乡早餐",
+        "onboard_time": 1672725628,
+        "rank": 39,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 189183,
+        "num": 158191,
+        "word": "王鹤棣片场和小演员游戏pk",
+        "onboard_time": 1672727609,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158153,
+        "num": 158153,
+        "word": "原神流浪者",
+        "onboard_time": 1672721013,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179691,
+        "num": 156214,
+        "word": "肖铎哄妻进行时",
+        "onboard_time": 1672727787,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146169,
+        "num": 146169,
+        "word": "女子煮鸡蛋发现蛋中蛋",
+        "onboard_time": 1672713027,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142167,
+        "num": 142167,
+        "word": "米切尔71分",
+        "onboard_time": 1672715426,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141918,
+        "num": 141918,
+        "word": "汤普森54分",
+        "onboard_time": 1672727128,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141372,
+        "num": 141372,
+        "word": "看个电视太费劲了",
+        "onboard_time": 1672723529,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137690,
+        "num": 137690,
+        "word": "姆巴佩杜兰特合影",
+        "onboard_time": 1672722572,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131090,
+        "num": 131090,
+        "word": "男子包馄饨手速超快1秒2个",
+        "onboard_time": 1672722751,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121111,
+        "num": 121111,
+        "word": "普尔失误",
+        "onboard_time": 1672727369,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#巩固脱贫成果乡村振兴开新局#"
+    }
+  }
+}

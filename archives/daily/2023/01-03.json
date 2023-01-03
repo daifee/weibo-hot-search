@@ -1,6 +1,6 @@
 {
   "startTime": 1672676687155,
-  "endTime": 1672726915386,
+  "endTime": 1672727799693,
   "band_list": [
     {
       "raw_hot": 2019468,
@@ -179,6 +179,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 833995,
+      "num": 833995,
+      "word": "张婉婷听到宋宁峰的话秒哭",
+      "onboard_time": 1672726528,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 828093,
       "num": 828093,
       "word": "鹅鸭杀",
@@ -235,20 +243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 734677,
+      "num": 734677,
+      "word": "小狗趁主人不在家偷吃6颗布洛芬",
+      "onboard_time": 1672723889,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 729453,
       "num": 729453,
       "word": "第一次见这么尴尬的跨年",
       "onboard_time": 1672667553,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 696374,
-      "num": 696374,
-      "word": "小狗趁主人不在家偷吃6颗布洛芬",
-      "onboard_time": 1672723889,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 680941,
@@ -299,6 +307,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 611310,
+      "num": 539381,
+      "word": "许光汉想和IU合作",
+      "onboard_time": 1672726588,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 587336,
+      "num": 587336,
+      "word": "老师上网课要求学生投屏聊天记录",
+      "onboard_time": 1672725147,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 582416,
       "num": 582416,
       "word": "曾黎说王鹤棣很活泼很直接",
@@ -307,12 +331,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 565838,
+      "num": 565838,
+      "word": "干咳咳痰是肺炎的判断标准吗",
+      "onboard_time": 1672726646,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 523543,
       "num": 523543,
       "word": "流浪地球2里的地球太不容易了",
       "onboard_time": 1672714346,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 518222,
+      "num": 518222,
+      "word": "英国称中国旅客可拒绝强制核酸",
+      "onboard_time": 1672723831,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515874,
@@ -331,19 +371,11 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 494263,
-      "num": 449865,
-      "word": "张婉婷听到宋宁峰的话秒哭",
-      "onboard_time": 1672726528,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 486646,
-      "num": 486646,
-      "word": "英国称中国旅客可拒绝强制核酸",
-      "onboard_time": 1672723831,
-      "rank": 34,
+      "raw_hot": 496106,
+      "num": 496106,
+      "word": "大爷摔倒躺藕田2天2夜才被发现",
+      "onboard_time": 1672726588,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -355,12 +387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 475212,
-      "num": 475212,
-      "word": "老师上网课要求学生投屏聊天记录",
-      "onboard_time": 1672725147,
-      "rank": 9,
-      "category": "教育,社会新闻"
+      "raw_hot": 483472,
+      "num": 483472,
+      "word": "杭州入境人员发现XBB",
+      "onboard_time": 1672726349,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 468568,
@@ -449,6 +481,14 @@
       "onboard_time": 1672725687,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387011,
+      "num": 387011,
+      "word": "TWICE将1月20日发行先行曲",
+      "onboard_time": 1672726646,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 386655,
@@ -635,14 +675,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 307920,
-      "num": 307920,
-      "word": "许光汉想和IU合作",
-      "onboard_time": 1672726588,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 300264,
       "num": 300264,
       "word": "我使馆痛斥法媒涉中国疫情防控谬论",
@@ -673,14 +705,6 @@
       "onboard_time": 1672717650,
       "rank": 24,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 292015,
-      "num": 292015,
-      "word": "TWICE将1月20日发行先行曲",
-      "onboard_time": 1672726646,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 286507,
@@ -787,6 +811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 264662,
+      "num": 264662,
+      "word": "张睿2023央视春晚第二次大联排",
+      "onboard_time": 1672726947,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256773,
       "num": 256773,
       "word": "原神流浪者",
@@ -867,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232660,
+      "num": 232660,
+      "word": "NBA现场放姆巴佩世界杯进球画面",
+      "onboard_time": 1672724787,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225573,
       "num": 1248817,
       "word": "什么环境下需要佩戴N95口罩",
@@ -904,6 +944,14 @@
       "word": "阳康后还会二次感染XBB吗",
       "onboard_time": 1672663829,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216435,
+      "num": 213586,
+      "word": "近期浙江感染病例数日增约百万",
+      "onboard_time": 1672726827,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -963,14 +1011,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 198168,
-      "num": 180938,
-      "word": "杭州入境人员发现XBB",
-      "onboard_time": 1672726349,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197250,
       "num": 142905,
       "word": "王栎鑫说棣棣的好友是即将要拉黑的",
@@ -1003,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189183,
+      "num": 158191,
+      "word": "王鹤棣片场和小演员游戏pk",
+      "onboard_time": 1672727609,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188752,
       "num": 188752,
       "word": "转阴了要注意吃动平衡",
@@ -1019,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187052,
+      "num": 187052,
+      "word": "詹姆斯惊叹米切尔表现",
+      "onboard_time": 1672726708,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185530,
       "num": 119885,
       "word": "步音楼慕容婉婉都找到真爱了",
@@ -1032,14 +1088,6 @@
       "word": "欧文单手补扣",
       "onboard_time": 1672712487,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 183849,
-      "num": 183849,
-      "word": "NBA现场放姆巴佩世界杯进球画面",
-      "onboard_time": 1672724787,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -1067,12 +1115,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178679,
-      "num": 178679,
-      "word": "詹姆斯惊叹米切尔表现",
-      "onboard_time": 1672726708,
-      "rank": 34,
+      "raw_hot": 179691,
+      "num": 156214,
+      "word": "肖铎哄妻进行时",
+      "onboard_time": 1672727787,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 179473,
+      "num": 179473,
+      "word": "老鹰勇士双加时",
+      "onboard_time": 1672727067,
+      "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178309,
+      "num": 178309,
+      "word": "村医用抗生素治疗新冠发热患者",
+      "onboard_time": 1672726888,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178183,
@@ -1171,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156209,
-      "num": 156209,
-      "word": "大爷摔倒躺藕田2天2夜才被发现",
-      "onboard_time": 1672726588,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153079,
       "num": 124526,
       "word": "王鹤棣说等活终于来活了",
@@ -1211,14 +1267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 148669,
-      "num": 148669,
-      "word": "干咳咳痰是肺炎的判断标准吗",
-      "onboard_time": 1672726646,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146209,
       "num": 146209,
       "word": "黑龙江上百人做出100米长雪雕",
@@ -1235,20 +1283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141918,
+      "num": 141918,
+      "word": "汤普森54分",
+      "onboard_time": 1672727128,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137567,
       "num": 137567,
       "word": "去有风的地方开播",
       "onboard_time": 1672715846,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 134988,
-      "num": 134988,
-      "word": "近期浙江感染病例数日增约百万",
-      "onboard_time": 1672726827,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133385,
@@ -1273,6 +1321,14 @@
       "onboard_time": 1672672234,
       "rank": 32,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 121111,
+      "num": 121111,
+      "word": "普尔失误",
+      "onboard_time": 1672727369,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 120183,
@@ -1304,14 +1360,6 @@
       "word": "钱包绑在氢气球上被带飞升空",
       "onboard_time": 1672674687,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116652,
-      "num": 116652,
-      "word": "村医用抗生素治疗新冠发热患者",
-      "onboard_time": 1672726888,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1499,8 +1547,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44163,
-      "num": 156223,
+      "raw_hot": 56925,
+      "num": 158194,
       "word": "网友晒10元必吃家乡早餐",
       "onboard_time": 1672725628,
       "rank": 39,
