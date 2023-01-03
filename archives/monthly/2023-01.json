@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672767217711,
+  "endTime": 1672770055912,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -4731,6 +4731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238389,
+      "num": 238389,
+      "word": "白敬亭2022双平台年冠",
+      "onboard_time": 1672765998,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238286,
       "num": 503300,
       "word": "农历癸卯兔年全年共有384天",
@@ -5787,14 +5795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184207,
-      "num": 148368,
-      "word": "白敬亭2022双平台年冠",
-      "onboard_time": 1672765998,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 183559,
       "num": 183559,
       "word": "2分钟了解XBB毒株",
@@ -6193,6 +6193,14 @@
       "onboard_time": 1672621463,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168760,
+      "num": 117606,
+      "word": "丈夫开车辗轧妻子致死案将开庭",
+      "onboard_time": 1672768156,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 167860,
@@ -7011,6 +7019,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 123632,
+      "num": 123632,
+      "word": "epl",
+      "onboard_time": 1672764383,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123571,
       "num": 123571,
       "word": "2023你许下了什么愿望",
@@ -7073,14 +7089,6 @@
       "onboard_time": 1672707506,
       "rank": 35,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 120174,
-      "num": 120174,
-      "word": "epl",
-      "onboard_time": 1672764383,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 119818,
@@ -7873,6 +7881,14 @@
       "onboard_time": 1672598355,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 38911,
+      "num": 38911,
+      "word": "关晓彤说明白并且接受自己想要什么很了不起",
+      "onboard_time": 1672763244,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 38622,

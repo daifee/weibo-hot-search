@@ -1,6 +1,6 @@
 {
   "startTime": 1672763163878,
-  "endTime": 1672767217711,
+  "endTime": 1672770055912,
   "band_list": [
     {
       "raw_hot": 1578422,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238389,
+      "num": 238389,
+      "word": "白敬亭2022双平台年冠",
+      "onboard_time": 1672765998,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233831,
       "num": 233831,
       "word": "北京一女子带娃嫁头婚老公",
@@ -249,14 +257,6 @@
       "onboard_time": 1672755274,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 184207,
-      "num": 148368,
-      "word": "白敬亭2022双平台年冠",
-      "onboard_time": 1672765998,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 183559,
@@ -315,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168760,
+      "num": 117606,
+      "word": "丈夫开车辗轧妻子致死案将开庭",
+      "onboard_time": 1672768156,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 165796,
       "num": 119243,
       "word": "曹曦文恭喜祝燃手机被冲厕所",
@@ -363,8 +371,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120174,
-      "num": 120174,
+      "raw_hot": 123632,
+      "num": 123632,
       "word": "epl",
       "onboard_time": 1672764383,
       "rank": 33,
@@ -443,12 +451,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 44352,
+      "num": 44352,
+      "word": "西蓝花cp终于官宣",
+      "onboard_time": 1672744468,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 41238,
       "num": 42815,
       "word": "找主人邀功的猫咪",
       "onboard_time": 1672766777,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 38911,
+      "num": 38911,
+      "word": "关晓彤说明白并且接受自己想要什么很了不起",
+      "onboard_time": 1672763244,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 4935,
