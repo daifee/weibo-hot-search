@@ -1,6 +1,6 @@
 {
   "startTime": 1672763163878,
-  "endTime": 1672784256708,
+  "endTime": 1672785222314,
   "band_list": [
     {
       "raw_hot": 1578422,
@@ -443,7 +443,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81621,
+      "raw_hot": 83503,
       "num": 81621,
       "word": "解放军战机元旦史无前例迫近台岛",
       "onboard_time": 1672766180,
@@ -459,12 +459,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 48010,
-      "num": 48010,
+      "raw_hot": 66644,
+      "num": 66644,
       "word": "小猫送走全部观赏鱼霸占鱼缸睡觉",
       "onboard_time": 1672770555,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51222,
+      "num": 51222,
+      "word": "原神总收入超40亿美元",
+      "onboard_time": 1672782491,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 44352,
@@ -499,32 +507,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38179,
-      "num": 38179,
-      "word": "原神总收入超40亿美元",
-      "onboard_time": 1672782491,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 28676,
-      "num": 28676,
+      "raw_hot": 37915,
+      "num": 37915,
       "word": "沈腾2023春晚联排下班路透",
       "onboard_time": 1672781531,
       "rank": 30,
       "category": "综艺"
     },
     {
-      "raw_hot": 26912,
-      "num": 26912,
+      "raw_hot": 27783,
+      "num": 27783,
       "word": "阿森纳vs纽卡斯尔",
       "onboard_time": 1672774152,
       "rank": 43,
       "category": "体育"
     },
     {
-      "raw_hot": 23040,
-      "num": 23040,
+      "raw_hot": 23123,
+      "num": 23123,
       "word": "曼联vs伯恩茅斯",
       "onboard_time": 1672777690,
       "rank": 48,
