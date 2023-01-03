@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672781617296,
+  "endTime": 1672784256708,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -7827,6 +7827,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 48010,
+      "num": 48010,
+      "word": "小猫送走全部观赏鱼霸占鱼缸睡觉",
+      "onboard_time": 1672770555,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45287,
       "num": 193052,
       "word": "新年第一餐",
@@ -7865,14 +7873,6 @@
       "onboard_time": 1672770374,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 41559,
-      "num": 41559,
-      "word": "小猫送走全部观赏鱼霸占鱼缸睡觉",
-      "onboard_time": 1672770555,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41238,
@@ -7921,6 +7921,14 @@
       "onboard_time": 1672679779,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38179,
+      "num": 38179,
+      "word": "原神总收入超40亿美元",
+      "onboard_time": 1672782491,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 37435,
@@ -7995,6 +8003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28676,
+      "num": 28676,
+      "word": "沈腾2023春晚联排下班路透",
+      "onboard_time": 1672781531,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27523,
       "num": 27523,
       "word": "2023第一天来了",
@@ -8003,12 +8019,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 27348,
-      "num": 23165,
-      "word": "沈腾2023春晚联排下班路透",
-      "onboard_time": 1672781531,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 26912,
+      "num": 26912,
+      "word": "阿森纳vs纽卡斯尔",
+      "onboard_time": 1672774152,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 25772,
@@ -8027,11 +8043,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 23709,
-      "num": 23709,
-      "word": "阿森纳vs纽卡斯尔",
-      "onboard_time": 1672774152,
-      "rank": 43,
+      "raw_hot": 23040,
+      "num": 23040,
+      "word": "曼联vs伯恩茅斯",
+      "onboard_time": 1672777690,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -8057,14 +8073,6 @@
       "onboard_time": 1672664431,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 19328,
-      "num": 19328,
-      "word": "曼联vs伯恩茅斯",
-      "onboard_time": 1672777690,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 15166,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/04 05:33:37
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/04 06:17:36
 </p>
 </blockquote>
 <p>
@@ -5883,6 +5883,12 @@ Twins的状态我是服气的（热度：68205）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E9%80%81%E8%B5%B0%E5%85%A8%E9%83%A8%E8%A7%82%E8%B5%8F%E9%B1%BC%E9%9C%B8%E5%8D%A0%E9%B1%BC%E7%BC%B8%E7%9D%A1%E8%A7%89%23" target="weibo">
+小猫送走全部观赏鱼霸占鱼缸睡觉（热度：48010）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E9%A4%90%23" target="weibo">
 新年第一餐（热度：45287）
 </a>
@@ -5909,12 +5915,6 @@ Twins的状态我是服气的（热度：68205）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%E4%B8%8B%E6%9C%9F%E9%A2%84%E5%91%8ALisa%E8%89%BE%E5%A8%81%E6%80%8E%E4%B9%88%E4%BA%86%23" target="weibo">
 再见爱人下期预告Lisa艾威怎么了（热度：42303）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E9%80%81%E8%B5%B0%E5%85%A8%E9%83%A8%E8%A7%82%E8%B5%8F%E9%B1%BC%E9%9C%B8%E5%8D%A0%E9%B1%BC%E7%BC%B8%E7%9D%A1%E8%A7%89%23" target="weibo">
-小猫送走全部观赏鱼霸占鱼缸睡觉（热度：41559）
 </a>
 </li>
 
@@ -5951,6 +5951,12 @@ Twins的状态我是服气的（热度：68205）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%95%87%E9%BA%9F24%E5%88%8614%E7%AF%AE%E6%9D%BF%23" target="weibo">
 张镇麟24分14篮板（热度：38622）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E6%80%BB%E6%94%B6%E5%85%A5%E8%B6%8540%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
+原神总收入超40亿美元（热度：38179）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Twins的状态我是服气的（热度：68205）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E4%BA%BA%E6%98%AF%E6%9D%A5%E8%81%9A%E9%A4%90%E7%9A%84%E7%A4%BE%E7%89%9B%E6%98%AF%E6%9D%A5%E5%8A%9E%E5%B8%AD%E7%9A%84%23" target="weibo">
 别人是来聚餐的社牛是来办席的（热度：29709）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232023%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%9D%A5%E4%BA%86%23" target="weibo">
-2023第一天来了（热度：27523）
 </a>
 </li>
 
