@@ -1,6 +1,6 @@
 {
   "startTime": 1672763163878,
-  "endTime": 1672835728236,
+  "endTime": 1672836848145,
   "band_list": [
     {
       "raw_hot": 3727850,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1286880,
+      "num": 1286880,
+      "word": "许鞍华 汤唯",
+      "onboard_time": 1672833330,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1248145,
       "num": 1248145,
       "word": "如果上4天半班你会搞副业吗",
@@ -193,14 +201,6 @@
       "onboard_time": 1672813589,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1126975,
-      "num": 1126975,
-      "word": "许鞍华 汤唯",
-      "onboard_time": 1672833330,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1086568,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616384,
+      "num": 616384,
+      "word": "巴黎全队列队欢迎梅西",
+      "onboard_time": 1672833393,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 612042,
       "num": 482805,
       "word": "关于刘宇拯救倒闭店铺这件事",
@@ -531,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 580442,
+      "num": 457973,
+      "word": "女子跨年夜中1000万后悔跟孩子说",
+      "onboard_time": 1672835914,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 578389,
       "num": 578389,
       "word": "裴珠泫cos水冰月",
@@ -553,14 +569,6 @@
       "onboard_time": 1672810409,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 566272,
-      "num": 566272,
-      "word": "巴黎全队列队欢迎梅西",
-      "onboard_time": 1672833393,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 564684,
@@ -593,6 +601,14 @@
       "onboard_time": 1672790184,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553104,
+      "num": 553104,
+      "word": "画师 LGD",
+      "onboard_time": 1672835914,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 545547,
@@ -835,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422443,
+      "num": 422443,
+      "word": "开封失联多日16岁女孩已找到",
+      "onboard_time": 1672835312,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413444,
       "num": 413444,
       "word": "多名男子持械打砸超市",
@@ -857,6 +881,14 @@
       "onboard_time": 1672797746,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 409137,
+      "num": 409137,
+      "word": "感染新冠会影响记忆力吗",
+      "onboard_time": 1672834595,
+      "rank": 26,
+      "category": "社会议题"
     },
     {
       "raw_hot": 407914,
@@ -891,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385957,
+      "num": 385957,
+      "word": "原来约会都是从散步开始的",
+      "onboard_time": 1672831290,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 384107,
       "num": 255455,
       "word": "吴倩新剧 刀我",
@@ -905,14 +945,6 @@
       "onboard_time": 1672816952,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 372078,
-      "num": 372078,
-      "word": "原来约会都是从散步开始的",
-      "onboard_time": 1672831290,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 370718,
@@ -985,6 +1017,14 @@
       "onboard_time": 1672811249,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360786,
+      "num": 360786,
+      "word": "余景天机场路透视频",
+      "onboard_time": 1672835972,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 360705,
@@ -1371,6 +1411,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 254893,
+      "num": 254893,
+      "word": "顾南亭情敌出现",
+      "onboard_time": 1672835854,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254099,
       "num": 192064,
       "word": "谭松韵偷亲王凯拍摄花絮",
@@ -1451,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232799,
+      "num": 187426,
+      "word": "赵玉真的桃花落了",
+      "onboard_time": 1672835492,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232741,
       "num": 188953,
       "word": "新冠风暴下的妇产科",
@@ -1483,6 +1539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224315,
+      "num": 224315,
+      "word": "云南农村杀猪饭是什么样",
+      "onboard_time": 1672831290,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 224221,
       "num": 224221,
       "word": "海航回应旅客冲击客舱门",
@@ -1507,14 +1571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218375,
-      "num": 218375,
-      "word": "云南农村杀猪饭是什么样",
-      "onboard_time": 1672831290,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 215163,
       "num": 215163,
       "word": "程序员写代码提醒健忘父亲买年货",
@@ -1531,20 +1587,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 212179,
+      "num": 178973,
+      "word": "程霄手绘的航线地图被撕毁",
+      "onboard_time": 1672835433,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211782,
       "num": 183533,
       "word": "王一博电影无名海报细节",
       "onboard_time": 1672829851,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209591,
-      "num": 209591,
-      "word": "感染新冠会影响记忆力吗",
-      "onboard_time": 1672834595,
-      "rank": 26,
-      "category": "社会议题"
     },
     {
       "raw_hot": 208324,
@@ -1643,14 +1699,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194814,
-      "num": 187426,
-      "word": "赵玉真的桃花落了",
-      "onboard_time": 1672835492,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193888,
       "num": 193888,
       "word": "我不想再当好孩子了",
@@ -1691,6 +1739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184490,
+      "num": 139452,
+      "word": "向风而行预告",
+      "onboard_time": 1672836753,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184362,
       "num": 184362,
       "word": "头一次见旋饭的狗子",
@@ -1729,14 +1785,6 @@
       "onboard_time": 1672813049,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179010,
-      "num": 122873,
-      "word": "程霄手绘的航线地图被撕毁",
-      "onboard_time": 1672835433,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 178352,
@@ -1955,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148126,
+      "num": 148126,
+      "word": "小猫是有点倔强在身上的",
+      "onboard_time": 1672834232,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147949,
       "num": 147949,
       "word": "XBB.1.5是否会攻击人的肠道",
@@ -2027,6 +2083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140411,
+      "num": 140411,
+      "word": "你最想回到哪一年春节",
+      "onboard_time": 1672836271,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139597,
       "num": 139597,
       "word": "小狗识途助走失萌娃找到家",
@@ -2073,14 +2137,6 @@
       "onboard_time": 1672808609,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 133009,
-      "num": 133009,
-      "word": "小猫是有点倔强在身上的",
-      "onboard_time": 1672834232,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 131487,
@@ -2171,20 +2227,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 114280,
+      "num": 125627,
+      "word": "妈妈吐槽儿子每天进门就刷鞋",
+      "onboard_time": 1672835611,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106417,
       "num": 106417,
       "word": "再见爱人 窒息",
       "onboard_time": 1672748309,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105270,
-      "num": 105270,
-      "word": "开封失联多日16岁女孩已找到",
-      "onboard_time": 1672835312,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100839,
@@ -2201,6 +2257,14 @@
       "onboard_time": 1672817129,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97025,
+      "num": 1009567,
+      "word": "如何看待XBB系列毒株",
+      "onboard_time": 1672836392,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95511,
@@ -2368,6 +2432,9 @@
     },
     {
       "word": "#同心奋进新征程#"
+    },
+    {
+      "word": "#不断增强文化遗产保护能力#"
     }
   ]
 }

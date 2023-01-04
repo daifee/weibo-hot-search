@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672835728236,
+  "endTime": 1672836848145,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -683,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1286880,
+      "num": 1286880,
+      "word": "许鞍华 汤唯",
+      "onboard_time": 1672833330,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1270890,
       "num": 1270890,
       "word": "刘亦菲和马合照",
@@ -937,14 +945,6 @@
       "onboard_time": 1672719273,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1126975,
-      "num": 1126975,
-      "word": "许鞍华 汤唯",
-      "onboard_time": 1672833330,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1098632,
@@ -2147,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616384,
+      "num": 616384,
+      "word": "巴黎全队列队欢迎梅西",
+      "onboard_time": 1672833393,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 612042,
       "num": 482805,
       "word": "关于刘宇拯救倒闭店铺这件事",
@@ -2363,6 +2371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 580442,
+      "num": 457973,
+      "word": "女子跨年夜中1000万后悔跟孩子说",
+      "onboard_time": 1672835914,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 579896,
       "num": 461643,
       "word": "网友环球影城偶遇关晓彤",
@@ -2417,14 +2433,6 @@
       "onboard_time": 1672759112,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 566272,
-      "num": 566272,
-      "word": "巴黎全队列队欢迎梅西",
-      "onboard_time": 1672833393,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 565547,
@@ -2513,6 +2521,14 @@
       "onboard_time": 1672790184,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553104,
+      "num": 553104,
+      "word": "画师 LGD",
+      "onboard_time": 1672835914,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 548007,
@@ -3403,6 +3419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422443,
+      "num": 422443,
+      "word": "开封失联多日16岁女孩已找到",
+      "onboard_time": 1672835312,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420315,
       "num": 420315,
       "word": "许家印称2023年一定能偿还债务",
@@ -3489,6 +3513,14 @@
       "onboard_time": 1672616118,
       "rank": 5,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 409137,
+      "num": 409137,
+      "word": "感染新冠会影响记忆力吗",
+      "onboard_time": 1672834595,
+      "rank": 26,
+      "category": "社会议题"
     },
     {
       "raw_hot": 407914,
@@ -3763,6 +3795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 385957,
+      "num": 385957,
+      "word": "原来约会都是从散步开始的",
+      "onboard_time": 1672831290,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 385305,
       "num": 385305,
       "word": "令人心动的offer",
@@ -3865,14 +3905,6 @@
       "onboard_time": 1672492074,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 372078,
-      "num": 372078,
-      "word": "原来约会都是从散步开始的",
-      "onboard_time": 1672831290,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 371082,
@@ -4041,6 +4073,14 @@
       "onboard_time": 1672670433,
       "rank": 17,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 360786,
+      "num": 360786,
+      "word": "余景天机场路透视频",
+      "onboard_time": 1672835972,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 360705,
@@ -5675,6 +5715,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 254893,
+      "num": 254893,
+      "word": "顾南亭情敌出现",
+      "onboard_time": 1672835854,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254255,
       "num": 180305,
       "word": "贺峻霖在微电影里主持春晚",
@@ -6091,6 +6139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232799,
+      "num": 187426,
+      "word": "赵玉真的桃花落了",
+      "onboard_time": 1672835492,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232727,
       "num": 232727,
       "word": "这狗真的一点边界感都没有",
@@ -6225,6 +6281,14 @@
       "onboard_time": 1672802308,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224315,
+      "num": 224315,
+      "word": "云南农村杀猪饭是什么样",
+      "onboard_time": 1672831290,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 224221,
@@ -6387,14 +6451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218375,
-      "num": 218375,
-      "word": "云南农村杀猪饭是什么样",
-      "onboard_time": 1672831290,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 218264,
       "num": 218264,
       "word": "第九节课",
@@ -6480,6 +6536,14 @@
       "word": "王鹤棣片场给陈钰琪扇风",
       "onboard_time": 1672731988,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212179,
+      "num": 178973,
+      "word": "程霄手绘的航线地图被撕毁",
+      "onboard_time": 1672835433,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -6577,14 +6641,6 @@
       "onboard_time": 1672531585,
       "rank": 18,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 209591,
-      "num": 209591,
-      "word": "感染新冠会影响记忆力吗",
-      "onboard_time": 1672834595,
-      "rank": 26,
-      "category": "社会议题"
     },
     {
       "raw_hot": 209544,
@@ -6971,14 +7027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194814,
-      "num": 187426,
-      "word": "赵玉真的桃花落了",
-      "onboard_time": 1672835492,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193947,
       "num": 208106,
       "word": "感觉被猪挑衅了",
@@ -7219,6 +7267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184490,
+      "num": 139452,
+      "word": "向风而行预告",
+      "onboard_time": 1672836753,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184445,
       "num": 184445,
       "word": "欧文单手补扣",
@@ -7368,14 +7424,6 @@
       "word": "春节档电影你最期待哪一部",
       "onboard_time": 1672594699,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 179010,
-      "num": 122873,
-      "word": "程霄手绘的航线地图被撕毁",
-      "onboard_time": 1672835433,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -8179,6 +8227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148126,
+      "num": 148126,
+      "word": "小猫是有点倔强在身上的",
+      "onboard_time": 1672834232,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147949,
       "num": 147949,
       "word": "XBB.1.5是否会攻击人的肠道",
@@ -8345,6 +8401,14 @@
       "onboard_time": 1672658789,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140411,
+      "num": 140411,
+      "word": "你最想回到哪一年春节",
+      "onboard_time": 1672836271,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 140020,
@@ -8553,14 +8617,6 @@
       "onboard_time": 1672713685,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133009,
-      "num": 133009,
-      "word": "小猫是有点倔强在身上的",
-      "onboard_time": 1672834232,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 132813,
@@ -8995,6 +9051,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 114280,
+      "num": 125627,
+      "word": "妈妈吐槽儿子每天进门就刷鞋",
+      "onboard_time": 1672835611,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114161,
       "num": 412716,
       "word": "2023将迎来哪些奇妙的相遇",
@@ -9137,14 +9201,6 @@
       "onboard_time": 1672551871,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105270,
-      "num": 105270,
-      "word": "开封失联多日16岁女孩已找到",
-      "onboard_time": 1672835312,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104666,
@@ -9313,6 +9369,14 @@
       "onboard_time": 1672554153,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97025,
+      "num": 1009567,
+      "word": "如何看待XBB系列毒株",
+      "onboard_time": 1672836392,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96808,
@@ -9920,6 +9984,9 @@
     },
     {
       "word": "#同心奋进新征程#"
+    },
+    {
+      "word": "#不断增强文化遗产保护能力#"
     }
   ]
 }
