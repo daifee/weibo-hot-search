@@ -1,0 +1,410 @@
+{
+  "runTime": 1672820603301,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2163080,
+        "num": 2163080,
+        "word": "优酷更改会员登录规则",
+        "onboard_time": 1672817009,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1251134,
+        "num": 1251134,
+        "word": "女生买蛋糕发现草莓是印的包装",
+        "onboard_time": 1672818268,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130895,
+        "num": 902296,
+        "word": "XBB.1.5七问七答",
+        "onboard_time": 1672802790,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835914,
+        "num": 835914,
+        "word": "万柳书院开发商已成被执行人",
+        "onboard_time": 1672816107,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805444,
+        "num": 805444,
+        "word": "母子赏雪被困找到时2岁娃已失温",
+        "onboard_time": 1672813169,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749782,
+        "num": 749782,
+        "word": "男子15元机选彩票中6122万元",
+        "onboard_time": 1672814250,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621783,
+        "num": 621783,
+        "word": "阳了后警惕病毒性结膜炎",
+        "onboard_time": 1672816648,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582334,
+        "num": 582334,
+        "word": "调休",
+        "onboard_time": 1672789944,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550832,
+        "num": 550832,
+        "word": "肖战任敏玉骨遥韩国将播出",
+        "onboard_time": 1672812209,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 524668,
+        "num": 524668,
+        "word": "我承认以前对白秀珠太大声了",
+        "onboard_time": 1672818868,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 770887,
+        "num": 523130,
+        "word": "何润东麒麟臂原来是真的",
+        "onboard_time": 1672817250,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 735902,
+        "num": 523066,
+        "word": "王梓薇 官宣后我的ip就没动过就没进过组",
+        "onboard_time": 1672820131,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520283,
+        "num": 520283,
+        "word": "网传沈月陈哲远二搭出演小梨涡",
+        "onboard_time": 1672817371,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483123,
+        "num": 483123,
+        "word": "优酷回应账号只能一部手机登录",
+        "onboard_time": 1672818329,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 430613,
+        "num": 430613,
+        "word": "网友三亚偶遇孙怡",
+        "onboard_time": 1672813589,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 424796,
+        "num": 424796,
+        "word": "为什么阳性和阳康暂不能做医美",
+        "onboard_time": 1672813530,
+        "rank": 15,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 414820,
+        "num": 414820,
+        "word": "疑情侣迪士尼插队男子制止遭抓伤",
+        "onboard_time": 1672812689,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 407645,
+        "num": 407645,
+        "word": "新冠月子",
+        "onboard_time": 1672813708,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364007,
+        "num": 364007,
+        "word": "专家称原神展现出中国的高现代化水准",
+        "onboard_time": 1672811607,
+        "rank": 18,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 309845,
+        "num": 309845,
+        "word": "C罗说世界杯唯一赢阿根廷的是沙特",
+        "onboard_time": 1672806092,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 398522,
+        "num": 304702,
+        "word": "春节档 神仙打架",
+        "onboard_time": 1672819888,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376168,
+        "num": 293729,
+        "word": "张元英LOVEDIVE歌谣大祭典舞台直拍",
+        "onboard_time": 1672816952,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315703,
+        "num": 266565,
+        "word": "赵丽颖林更新聚餐照",
+        "onboard_time": 1672812209,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230921,
+        "num": 230921,
+        "word": "9岁重孙为91岁太爷爷换尿不湿擦身体",
+        "onboard_time": 1672813468,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226333,
+        "num": 226333,
+        "word": "女孩子的脚到底能有多冷",
+        "onboard_time": 1672810409,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 219384,
+        "num": 219384,
+        "word": "解放军战机3分钟到台上空台军起飞需6分钟",
+        "onboard_time": 1672809272,
+        "rank": 25,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 200191,
+        "num": 200191,
+        "word": "一中国游客赴韩确诊后拒隔离半路潜逃",
+        "onboard_time": 1672819888,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172651,
+        "num": 172651,
+        "word": "英雄联盟微博杯",
+        "onboard_time": 1672818268,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169276,
+        "num": 169276,
+        "word": "青海15岁女孩独自到南京会网友",
+        "onboard_time": 1672815447,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165603,
+        "num": 165603,
+        "word": "新冠引发的腹泻3天内可自行缓解",
+        "onboard_time": 1672799905,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265601,
+        "num": 165563,
+        "word": "肖铎步音楼浴桶吻",
+        "onboard_time": 1672817910,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256110,
+        "num": 165483,
+        "word": "王一博河南卫视春晚彩排路透",
+        "onboard_time": 1672814250,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247181,
+        "num": 165432,
+        "word": "王俊凯万里归途跨年人气歌舞舞台TOP3",
+        "onboard_time": 1672818991,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230438,
+        "num": 165391,
+        "word": "何运晨不愧是严谨的法律人",
+        "onboard_time": 1672820067,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165351,
+        "num": 165351,
+        "word": "少林寺穿搭",
+        "onboard_time": 1672818689,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 163211,
+        "num": 163211,
+        "word": "齐司礼",
+        "onboard_time": 1672813766,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158696,
+        "num": 158696,
+        "word": "医院回应4000元招募新冠患者",
+        "onboard_time": 1672806634,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152114,
+        "num": 152114,
+        "word": "头一次见旋饭的狗子",
+        "onboard_time": 1672815089,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145490,
+        "num": 145490,
+        "word": "女生吃学校食堂热卤发现香菇上有字",
+        "onboard_time": 1672802490,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144808,
+        "num": 144808,
+        "word": "女子围炉煮茶3小时一氧化碳中毒",
+        "onboard_time": 1672800928,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225497,
+        "num": 144765,
+        "word": "被大学生自制女团惊艳到了",
+        "onboard_time": 1672810109,
+        "rank": 40,
+        "category": "情感,音乐"
+      },
+      {
+        "raw_hot": 222027,
+        "num": 144447,
+        "word": "王鹤棣抠掉扣子",
+        "onboard_time": 1672815028,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143907,
+        "num": 143907,
+        "word": "拜年毛衣成年轻人过年嘴替",
+        "onboard_time": 1672816049,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136546,
+        "num": 136546,
+        "word": "小猫的快乐写在耳朵上",
+        "onboard_time": 1672819648,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132221,
+        "num": 132221,
+        "word": "程序员写代码提醒健忘父亲买年货",
+        "onboard_time": 1672814607,
+        "rank": 44,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 120176,
+        "num": 120176,
+        "word": "俄军跨年夜遭袭系手机暴露定位",
+        "onboard_time": 1672804230,
+        "rank": 45,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 118303,
+        "num": 118303,
+        "word": "新冠康复期要注意什么",
+        "onboard_time": 1672819290,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110149,
+        "num": 110149,
+        "word": "被现实版童话村治愈到了",
+        "onboard_time": 1672820550,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105191,
+        "num": 105191,
+        "word": "韩国警察厅长首次承认踩踏事故当天游玩饮酒",
+        "onboard_time": 1672820366,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102650,
+        "num": 102650,
+        "word": "年底福建人回村的噩梦",
+        "onboard_time": 1672810109,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023用奋斗为新年起笔#"
+    }
+  }
+}
