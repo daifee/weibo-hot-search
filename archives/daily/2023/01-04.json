@@ -1,6 +1,6 @@
 {
   "startTime": 1672763163878,
-  "endTime": 1672842956385,
+  "endTime": 1672845707437,
   "band_list": [
     {
       "raw_hot": 3727850,
@@ -179,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1206007,
+      "num": 1206007,
+      "word": "风情不摇晃",
+      "onboard_time": 1672843232,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1196902,
       "num": 517116,
       "word": "一中国游客赴韩确诊后拒隔离半路潜逃",
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 847840,
+      "num": 847840,
+      "word": "恋爱真的需要发朋友圈吗",
+      "onboard_time": 1672841075,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 843389,
       "num": 843389,
       "word": "万柳书院开发商已成被执行人",
@@ -433,6 +449,14 @@
       "onboard_time": 1672822230,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 716187,
+      "num": 499381,
+      "word": "霍建华最新合照状态",
+      "onboard_time": 1672845094,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 705129,
@@ -635,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 563885,
+      "num": 498142,
+      "word": "白鹿周柯宇以爱为营牵手路透",
+      "onboard_time": 1672845034,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 560780,
       "num": 560780,
       "word": "新冠引发的腹泻3天内可自行缓解",
@@ -683,12 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 541323,
-      "num": 541323,
-      "word": "恋爱真的需要发朋友圈吗",
-      "onboard_time": 1672841075,
-      "rank": 28,
-      "category": "情感"
+      "raw_hot": 541701,
+      "num": 497572,
+      "word": "74岁老人网购上瘾假金链子成堆买",
+      "onboard_time": 1672843712,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 539249,
@@ -755,6 +787,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 511950,
+      "num": 511950,
+      "word": "光遇",
+      "onboard_time": 1672843833,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 509601,
       "num": 509601,
       "word": "姆巴佩评NBA现役前五",
@@ -777,6 +817,14 @@
       "onboard_time": 1672821812,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 501654,
+      "num": 501654,
+      "word": "为什么劝情侣不要轻易拉黑",
+      "onboard_time": 1672844610,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 500255,
@@ -803,6 +851,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 487083,
+      "num": 487083,
+      "word": "初禾初",
+      "onboard_time": 1672845094,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486706,
       "num": 478334,
       "word": "被大学生自制女团惊艳到了",
@@ -817,6 +873,14 @@
       "onboard_time": 1672818329,
       "rank": 13,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 482537,
+      "num": 482537,
+      "word": "赵继伟怒骂裁判",
+      "onboard_time": 1672844253,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 481687,
@@ -872,6 +936,14 @@
       "word": "99年小伙上海辞职回县城卖牛油果",
       "onboard_time": 1672807955,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445486,
+      "num": 445486,
+      "word": "湖北新冠流行毒株仍以BA.5.2为主",
+      "onboard_time": 1672841736,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -945,6 +1017,14 @@
       "onboard_time": 1672791268,
       "rank": 16,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 413020,
+      "num": 413020,
+      "word": "你老了愿意和子女住吗",
+      "onboard_time": 1672842333,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 412085,
@@ -1195,14 +1275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343806,
-      "num": 220496,
-      "word": "湖北新冠流行毒株仍以BA.5.2为主",
-      "onboard_time": 1672841736,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338508,
       "num": 338508,
       "word": "男子准备20斤1元硬币送新婚好友",
@@ -1387,6 +1459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 289436,
+      "num": 289436,
+      "word": "阿奶看许红豆谢之遥的表情",
+      "onboard_time": 1672843472,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287733,
       "num": 287733,
       "word": "谢之遥给许红豆扇扇子",
@@ -1435,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281167,
+      "num": 234958,
+      "word": "黑暗荣耀第二季搞快点",
+      "onboard_time": 1672841736,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280894,
       "num": 280894,
       "word": "还有蛋糕不能模仿的东西吗",
@@ -1449,6 +1537,14 @@
       "onboard_time": 1672757910,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 280073,
+      "num": 232988,
+      "word": "去有风的地方",
+      "onboard_time": 1672843054,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 278962,
@@ -1595,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257626,
+      "num": 257626,
+      "word": "四川戒毒点名批网络小说风情不摇晃",
+      "onboard_time": 1672845330,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257062,
       "num": 257062,
       "word": "车主把AED放车上还允许破窗使用",
@@ -1619,14 +1723,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 254912,
-      "num": 201013,
-      "word": "黑暗荣耀第二季搞快点",
-      "onboard_time": 1672841736,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 254099,
       "num": 192064,
       "word": "谭松韵偷亲王凯拍摄花絮",
@@ -1649,14 +1745,6 @@
       "onboard_time": 1672813766,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 251468,
-      "num": 148979,
-      "word": "你老了愿意和子女住吗",
-      "onboard_time": 1672842333,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 251455,
@@ -1691,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240160,
+      "num": 240160,
+      "word": "蛋仔派对",
+      "onboard_time": 1672843954,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238389,
       "num": 238389,
       "word": "白敬亭2022双平台年冠",
@@ -1705,6 +1801,14 @@
       "onboard_time": 1672820792,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234913,
+      "num": 182138,
+      "word": "有被张若昀offer4的发言戳到",
+      "onboard_time": 1672845455,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 233831,
@@ -2001,6 +2105,14 @@
       "onboard_time": 1672756474,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182587,
+      "num": 182587,
+      "word": "没见过对辣锅这么执着的",
+      "onboard_time": 1672845634,
+      "rank": 39,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 180942,
@@ -2409,6 +2521,14 @@
       "onboard_time": 1672794087,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126790,
+      "num": 150559,
+      "word": "文豪野犬第四季开播",
+      "onboard_time": 1672844913,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 125435,

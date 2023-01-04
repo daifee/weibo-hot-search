@@ -1,0 +1,410 @@
+{
+  "runTime": 1672845707437,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1437707,
+        "num": 1437707,
+        "word": "女子跨年夜中1000万后悔跟孩子说",
+        "onboard_time": 1672835914,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1206007,
+        "num": 1206007,
+        "word": "风情不摇晃",
+        "onboard_time": 1672843232,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240909,
+        "num": 1007455,
+        "word": "如何看待XBB系列毒株",
+        "onboard_time": 1672836392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847840,
+        "num": 847840,
+        "word": "恋爱真的需要发朋友圈吗",
+        "onboard_time": 1672841075,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 810141,
+        "num": 810141,
+        "word": "句句不写穷 句句都是穷",
+        "onboard_time": 1672840352,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 670534,
+        "num": 670534,
+        "word": "男子意外发现交通卡余额有172万",
+        "onboard_time": 1672832069,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665350,
+        "num": 665350,
+        "word": "赵丽颖说知否是自己人生中的一个转折",
+        "onboard_time": 1672831832,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 569336,
+        "num": 569336,
+        "word": "刘鑫大号小号全被禁言",
+        "onboard_time": 1672821450,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511950,
+        "num": 511950,
+        "word": "光遇",
+        "onboard_time": 1672843833,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 501654,
+        "num": 501654,
+        "word": "为什么劝情侣不要轻易拉黑",
+        "onboard_time": 1672844610,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 716187,
+        "num": 499381,
+        "word": "霍建华最新合照状态",
+        "onboard_time": 1672845094,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563885,
+        "num": 498142,
+        "word": "白鹿周柯宇以爱为营牵手路透",
+        "onboard_time": 1672845034,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 541701,
+        "num": 497572,
+        "word": "74岁老人网购上瘾假金链子成堆买",
+        "onboard_time": 1672843712,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496675,
+        "num": 496675,
+        "word": "贺峻霖介绍易烊千玺满江红",
+        "onboard_time": 1672836994,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487083,
+        "num": 487083,
+        "word": "初禾初",
+        "onboard_time": 1672845094,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482537,
+        "num": 482537,
+        "word": "赵继伟怒骂裁判",
+        "onboard_time": 1672844253,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455351,
+        "num": 455351,
+        "word": "许鞍华 汤唯",
+        "onboard_time": 1672833330,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 445486,
+        "num": 445486,
+        "word": "湖北新冠流行毒株仍以BA.5.2为主",
+        "onboard_time": 1672841736,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434677,
+        "num": 434677,
+        "word": "开封失联多日16岁女孩已找到",
+        "onboard_time": 1672835312,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432941,
+        "num": 432941,
+        "word": "运载46万盒连花清瘟货车高速上起火",
+        "onboard_time": 1672830691,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413020,
+        "num": 413020,
+        "word": "你老了愿意和子女住吗",
+        "onboard_time": 1672842333,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377813,
+        "num": 377813,
+        "word": "王一博张婧仪无名复古合照",
+        "onboard_time": 1672836873,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312470,
+        "num": 312470,
+        "word": "重庆6元一份的洋芋凉面",
+        "onboard_time": 1672837654,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 289436,
+        "num": 289436,
+        "word": "阿奶看许红豆谢之遥的表情",
+        "onboard_time": 1672843472,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266474,
+        "num": 266474,
+        "word": "感染新冠会影响记忆力吗",
+        "onboard_time": 1672834595,
+        "rank": 24,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 260091,
+        "num": 260091,
+        "word": "村民办丧事房屋起火损失百万",
+        "onboard_time": 1672838015,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257626,
+        "num": 257626,
+        "word": "四川戒毒点名批网络小说风情不摇晃",
+        "onboard_time": 1672845330,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250934,
+        "num": 250934,
+        "word": "Hero 倒霉蛋子",
+        "onboard_time": 1672840773,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240160,
+        "num": 240160,
+        "word": "蛋仔派对",
+        "onboard_time": 1672843954,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113498,
+        "num": 237363,
+        "word": "阳了后警惕病毒性结膜炎",
+        "onboard_time": 1672816648,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281167,
+        "num": 234958,
+        "word": "黑暗荣耀第二季搞快点",
+        "onboard_time": 1672841736,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280073,
+        "num": 232988,
+        "word": "去有风的地方",
+        "onboard_time": 1672843054,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260721,
+        "num": 228883,
+        "word": "邓超陈赫鹿晗录五哈去了王勉家",
+        "onboard_time": 1672825650,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228793,
+        "num": 228793,
+        "word": "TTG 上上签",
+        "onboard_time": 1672841615,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244299,
+        "num": 226125,
+        "word": "向风而行",
+        "onboard_time": 1672839211,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223409,
+        "num": 223409,
+        "word": "巴黎全队列队欢迎梅西",
+        "onboard_time": 1672833393,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214450,
+        "num": 214450,
+        "word": "鹤岗一供暖公司因亏损将停止供热",
+        "onboard_time": 1672830512,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199011,
+        "num": 199011,
+        "word": "第一次想用猥琐形容奥特曼",
+        "onboard_time": 1672825469,
+        "rank": 37,
+        "category": "动漫,幽默"
+      },
+      {
+        "raw_hot": 191811,
+        "num": 191811,
+        "word": "原来约会都是从散步开始的",
+        "onboard_time": 1672831290,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182587,
+        "num": 182587,
+        "word": "没见过对辣锅这么执着的",
+        "onboard_time": 1672845634,
+        "rank": 39,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 234913,
+        "num": 182138,
+        "word": "有被张若昀offer4的发言戳到",
+        "onboard_time": 1672845455,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174489,
+        "num": 174489,
+        "word": "狼队北梦",
+        "onboard_time": 1672839095,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226144,
+        "num": 167130,
+        "word": "offer4建筑专家建议陈国恩考公",
+        "onboard_time": 1672839269,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150791,
+        "num": 150791,
+        "word": "闽南农村流水席是什么样的",
+        "onboard_time": 1672842393,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143892,
+        "num": 150719,
+        "word": "画师 LGD",
+        "onboard_time": 1672835914,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140267,
+        "num": 150697,
+        "word": "男子买到假NIKE举报店铺被送花圈",
+        "onboard_time": 1672825171,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 132790,
+        "num": 150624,
+        "word": "妈妈吐槽儿子每天进门就刷鞋",
+        "onboard_time": 1672835611,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126790,
+        "num": 150559,
+        "word": "文豪野犬第四季开播",
+        "onboard_time": 1672844913,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118007,
+        "num": 150441,
+        "word": "兔年要打384天的工",
+        "onboard_time": 1672828231,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115332,
+        "num": 150391,
+        "word": "花海澜FMVP皮肤",
+        "onboard_time": 1672828530,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#同心奋进新征程#"
+    }
+  }
+}
