@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672796049401,
+  "endTime": 1672797312184,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -131,6 +131,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1760318,
+      "num": 1126151,
+      "word": "为何调休取消不了",
+      "onboard_time": 1672794151,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1756070,
       "num": 1756070,
       "word": "二次感染",
@@ -163,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1647689,
-      "num": 1126151,
-      "word": "为何调休取消不了",
-      "onboard_time": 1672794151,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 1624302,
+      "num": 1219728,
+      "word": "安悦溪回应王梓薇以爱为营被换角",
+      "onboard_time": 1672795768,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1613648,
@@ -315,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1248145,
+      "num": 1248145,
+      "word": "如果上4天半班你会搞副业吗",
+      "onboard_time": 1672793670,
+      "rank": 4,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 1232892,
       "num": 1232892,
       "word": "抗原检测试剂遭甩卖",
@@ -337,14 +353,6 @@
       "onboard_time": 1672745011,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1219728,
-      "num": 1219728,
-      "word": "安悦溪回应王梓薇以爱为营被换角",
-      "onboard_time": 1672795768,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1191114,
@@ -425,14 +433,6 @@
       "onboard_time": 1672583371,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1094117,
-      "num": 1094117,
-      "word": "如果上4天半班你会搞副业吗",
-      "onboard_time": 1672793670,
-      "rank": 4,
-      "category": "社会议题"
     },
     {
       "raw_hot": 1075385,
@@ -712,6 +712,14 @@
       "word": "三亚一住客18万的酒店连住1个月",
       "onboard_time": 1672718608,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 799513,
+      "num": 799513,
+      "word": "12岁男孩身高1米9爸爸站桌上测量",
+      "onboard_time": 1672795228,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1283,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545071,
+      "num": 545071,
+      "word": "北京协和医院新冠病毒基层诊疗方案建议",
+      "onboard_time": 1672792769,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 544124,
       "num": 544124,
       "word": "张远现场好稳",
@@ -1409,14 +1425,6 @@
       "onboard_time": 1672664192,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 505516,
-      "num": 505516,
-      "word": "北京协和医院新冠病毒基层诊疗方案建议",
-      "onboard_time": 1672792769,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 501537,
@@ -1611,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 454207,
+      "num": 454207,
+      "word": "才知道眼镜布不是擦眼镜的",
+      "onboard_time": 1672794749,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 452032,
       "num": 452032,
       "word": "郭麒麟官宣加盟最强大脑10",
@@ -1753,6 +1769,14 @@
       "onboard_time": 1672639528,
       "rank": 27,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 427051,
+      "num": 427051,
+      "word": "去有风的地方有姚安娜",
+      "onboard_time": 1672795588,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 422772,
@@ -2105,6 +2129,14 @@
       "onboard_time": 1672653452,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368869,
+      "num": 368869,
+      "word": "C罗说在欧洲的工作已经完成",
+      "onboard_time": 1672795107,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 368596,
@@ -3067,14 +3099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 265808,
-      "num": 265808,
-      "word": "C罗说在欧洲的工作已经完成",
-      "onboard_time": 1672795107,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 264662,
       "num": 264662,
       "word": "张睿2023央视春晚第二次大联排",
@@ -3121,14 +3145,6 @@
       "onboard_time": 1672637670,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 259585,
-      "num": 216107,
-      "word": "12岁男孩身高1米9爸爸站桌上测量",
-      "onboard_time": 1672795228,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259435,
@@ -3579,27 +3595,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220072,
-      "num": 220072,
-      "word": "才知道眼镜布不是擦眼镜的",
-      "onboard_time": 1672794749,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 219890,
       "num": 219890,
       "word": "王鹤棣陈钰琪浮图缘豆瓣评分7.3",
       "onboard_time": 1672647387,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 219811,
-      "num": 219811,
-      "word": "去有风的地方有姚安娜",
-      "onboard_time": 1672795588,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -3793,6 +3793,14 @@
       "onboard_time": 1672618342,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206233,
+      "num": 206233,
+      "word": "金泰妍柳智敏预告照",
+      "onboard_time": 1672796186,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 204669,
@@ -4475,6 +4483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162271,
+      "num": 162271,
+      "word": "祖国与苍穹同高天宫会日月争辉",
+      "onboard_time": 1672796127,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161948,
       "num": 161948,
       "word": "姐姐给11岁妹妹辅导作业4道错3道",
@@ -4488,6 +4504,14 @@
       "word": "丈夫归家送妻子孩子1人1串糖葫芦",
       "onboard_time": 1672650929,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161014,
+      "num": 161014,
+      "word": "没证据表明XBB更易攻击消化系统",
+      "onboard_time": 1672796548,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -4755,6 +4779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143560,
+      "num": 143560,
+      "word": "福王什么时候下线",
+      "onboard_time": 1672797149,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142193,
       "num": 142193,
       "word": "XBB会不会导致二次感染",
@@ -4825,6 +4857,14 @@
       "onboard_time": 1672643609,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138567,
+      "num": 138567,
+      "word": "关于XBB的7个高频问答",
+      "onboard_time": 1672796907,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137567,

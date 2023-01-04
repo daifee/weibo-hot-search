@@ -1,6 +1,6 @@
 {
   "startTime": 1672763163878,
-  "endTime": 1672796049401,
+  "endTime": 1672797312184,
   "band_list": [
     {
       "raw_hot": 3377569,
@@ -11,12 +11,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1647689,
+      "raw_hot": 1760318,
       "num": 1126151,
       "word": "为何调休取消不了",
       "onboard_time": 1672794151,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1624302,
+      "num": 1219728,
+      "word": "安悦溪回应王梓薇以爱为营被换角",
+      "onboard_time": 1672795768,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1578422,
@@ -27,16 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1219728,
-      "num": 1219728,
-      "word": "安悦溪回应王梓薇以爱为营被换角",
-      "onboard_time": 1672795768,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1094117,
-      "num": 1094117,
+      "raw_hot": 1248145,
+      "num": 1248145,
       "word": "如果上4天半班你会搞副业吗",
       "onboard_time": 1672793670,
       "rank": 4,
@@ -72,6 +72,14 @@
       "word": "XBB会在我国引起新一轮流行吗",
       "onboard_time": 1672755152,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 799513,
+      "num": 799513,
+      "word": "12岁男孩身高1米9爸爸站桌上测量",
+      "onboard_time": 1672795228,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -131,19 +139,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545071,
+      "num": 545071,
+      "word": "北京协和医院新冠病毒基层诊疗方案建议",
+      "onboard_time": 1672792769,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521479,
       "num": 212805,
       "word": "江歌母亲回应刘鑫对赔偿款发起募捐",
       "onboard_time": 1672742789,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 505516,
-      "num": 505516,
-      "word": "北京协和医院新冠病毒基层诊疗方案建议",
-      "onboard_time": 1672792769,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -171,6 +179,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 454207,
+      "num": 454207,
+      "word": "才知道眼镜布不是擦眼镜的",
+      "onboard_time": 1672794749,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 431106,
       "num": 431106,
       "word": "以爱为营王梓薇被换角",
@@ -184,6 +200,14 @@
       "word": "刘亦菲的新剧状态",
       "onboard_time": 1672758752,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 427051,
+      "num": 427051,
+      "word": "去有风的地方有姚安娜",
+      "onboard_time": 1672795588,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -241,6 +265,14 @@
       "onboard_time": 1672790727,
       "rank": 17,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 368869,
+      "num": 368869,
+      "word": "C罗说在欧洲的工作已经完成",
+      "onboard_time": 1672795107,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 360705,
@@ -363,14 +395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 265808,
-      "num": 265808,
-      "word": "C罗说在欧洲的工作已经完成",
-      "onboard_time": 1672795107,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 260706,
       "num": 231330,
       "word": "老丈人酒后给女婿表演铁头功碎砖头",
@@ -384,14 +408,6 @@
       "word": "大G被撞却为节省时间认全责",
       "onboard_time": 1672746393,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259585,
-      "num": 216107,
-      "word": "12岁男孩身高1米9爸爸站桌上测量",
-      "onboard_time": 1672795228,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -427,20 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220072,
-      "num": 220072,
-      "word": "才知道眼镜布不是擦眼镜的",
-      "onboard_time": 1672794749,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 219811,
-      "num": 219811,
-      "word": "去有风的地方有姚安娜",
-      "onboard_time": 1672795588,
-      "rank": 29,
-      "category": "影视"
+      "raw_hot": 206233,
+      "num": 206233,
+      "word": "金泰妍柳智敏预告照",
+      "onboard_time": 1672796186,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 205808,
@@ -555,6 +563,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162271,
+      "num": 162271,
+      "word": "祖国与苍穹同高天宫会日月争辉",
+      "onboard_time": 1672796127,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161014,
+      "num": 161014,
+      "word": "没证据表明XBB更易攻击消化系统",
+      "onboard_time": 1672796548,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160814,
       "num": 160814,
       "word": "男子不顾刚出生的儿子羡慕隔壁生女儿",
@@ -609,6 +633,22 @@
       "onboard_time": 1672744650,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143560,
+      "num": 143560,
+      "word": "福王什么时候下线",
+      "onboard_time": 1672797149,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 138567,
+      "num": 138567,
+      "word": "关于XBB的7个高频问答",
+      "onboard_time": 1672796907,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129191,
