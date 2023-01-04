@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672864422187,
+  "endTime": 1672867008839,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -7771,6 +7771,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 33653,
+      "num": 28806,
+      "word": "杨迪回应像人贩子",
+      "onboard_time": 1672861693,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 30011,
       "num": 30011,
       "word": "阿森纳vs纽卡斯尔",
@@ -7795,14 +7803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28488,
-      "num": 28488,
-      "word": "杨迪回应像人贩子",
-      "onboard_time": 1672861693,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 27523,
       "num": 27523,
       "word": "2023第一天来了",
@@ -7825,6 +7825,14 @@
       "onboard_time": 1672664431,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 19534,
+      "num": 18634,
+      "word": "蓝羽贺峻霖主持中国电影报道",
+      "onboard_time": 1672865052,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 10791,

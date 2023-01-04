@@ -1,6 +1,6 @@
 {
   "startTime": 1672849948080,
-  "endTime": 1672864422187,
+  "endTime": 1672867008839,
   "band_list": [
     {
       "raw_hot": 1888998,
@@ -515,12 +515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28488,
-      "num": 28488,
+      "raw_hot": 33653,
+      "num": 28806,
       "word": "杨迪回应像人贩子",
       "onboard_time": 1672861693,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19534,
+      "num": 18634,
+      "word": "蓝羽贺峻霖主持中国电影报道",
+      "onboard_time": 1672865052,
+      "rank": 31,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
