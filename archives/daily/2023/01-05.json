@@ -1,6 +1,6 @@
 {
   "startTime": 1672849948080,
-  "endTime": 1672871645133,
+  "endTime": 1672874314974,
   "band_list": [
     {
       "raw_hot": 1888998,
@@ -107,6 +107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278008,
+      "num": 278008,
+      "word": "母子遭家暴离家误入高速民警帮交罚款",
+      "onboard_time": 1672857555,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260527,
       "num": 260527,
       "word": "恋爱真的需要发朋友圈吗",
@@ -160,6 +168,14 @@
       "word": "运载46万盒连花清瘟货车高速上起火",
       "onboard_time": 1672830691,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220619,
+      "num": 127842,
+      "word": "温州小猫走丢2天在上海被收养",
+      "onboard_time": 1672858095,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -315,12 +331,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130031,
+      "num": 69402,
+      "word": "杭州有医院消化道门诊病患成倍增长",
+      "onboard_time": 1672873277,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129626,
       "num": 98093,
       "word": "少年歌行",
       "onboard_time": 1672848508,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129255,
+      "num": 129255,
+      "word": "北京骑手小哥一年跑2万单年入20万",
+      "onboard_time": 1672873034,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126333,
+      "num": 126333,
+      "word": "肖战卡其色西装直播造型",
+      "onboard_time": 1672837654,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125420,
@@ -355,11 +395,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 104458,
-      "num": 104458,
-      "word": "母子遭家暴离家误入高速民警帮交罚款",
-      "onboard_time": 1672857555,
-      "rank": 11,
+      "raw_hot": 108429,
+      "num": 69313,
+      "word": "2023年第一个节气",
+      "onboard_time": 1672873937,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -387,12 +427,20 @@
       "category": "动漫,幽默"
     },
     {
-      "raw_hot": 90202,
-      "num": 90202,
+      "raw_hot": 91988,
+      "num": 91988,
       "word": "字节辟谣被裁员工与HR互殴",
       "onboard_time": 1672853058,
       "rank": 48,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 90041,
+      "num": 90041,
+      "word": "今日小寒",
+      "onboard_time": 1672874238,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88431,
@@ -409,6 +457,14 @@
       "onboard_time": 1672840773,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86508,
+      "num": 86508,
+      "word": "婴儿急需血透邻居驱车260公里献血",
+      "onboard_time": 1672865831,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 85162,
@@ -443,12 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71409,
-      "num": 64591,
-      "word": "温州小猫走丢2天在上海被收养",
-      "onboard_time": 1672858095,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 76556,
+      "num": 76556,
+      "word": "第一次吃席吃回本",
+      "onboard_time": 1672854977,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74764,
+      "num": 74764,
+      "word": "顾南亭疯狂和程霄划清界限",
+      "onboard_time": 1672868411,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 69752,
@@ -459,35 +523,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 66371,
-      "num": 66371,
-      "word": "婴儿急需血透邻居驱车260公里献血",
-      "onboard_time": 1672865831,
-      "rank": 48,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 64634,
-      "num": 64634,
-      "word": "肖战卡其色西装直播造型",
-      "onboard_time": 1672837654,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 62741,
-      "num": 62741,
-      "word": "第一次吃席吃回本",
-      "onboard_time": 1672854977,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 60836,
       "num": 60836,
       "word": "李现谢之遥微醺脸",
       "onboard_time": 1672870032,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 57785,
+      "num": 57785,
+      "word": "刘亦菲李现去有风的地方将在北美播出",
+      "onboard_time": 1672856355,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -507,12 +555,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 52328,
-      "num": 52328,
-      "word": "刘亦菲李现去有风的地方将在北美播出",
-      "onboard_time": 1672856355,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 51789,
+      "num": 51789,
+      "word": "今日23时05分小寒",
+      "onboard_time": 1672873636,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42078,
@@ -539,12 +587,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 22924,
-      "num": 22924,
-      "word": "顾南亭疯狂和程霄划清界限",
-      "onboard_time": 1672868411,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 33249,
+      "num": 36468,
+      "word": "内马尔晒与梅西同框照",
+      "onboard_time": 1672874299,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31336,
+      "num": 36451,
+      "word": "辽宁男篮战胜福建男篮",
+      "onboard_time": 1672870333,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31244,
+      "num": 36445,
+      "word": "警方通报男子机舱喊飞机要出事",
+      "onboard_time": 1672874299,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 19534,
@@ -553,14 +617,6 @@
       "onboard_time": 1672865052,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16166,
-      "num": 20140,
-      "word": "辽宁男篮战胜福建男篮",
-      "onboard_time": 1672870333,
-      "rank": 49,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
