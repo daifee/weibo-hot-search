@@ -1,0 +1,410 @@
+{
+  "runTime": 1672807009502,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2411303,
+        "num": 2411303,
+        "word": "调休",
+        "onboard_time": 1672789944,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1632352,
+        "num": 1632352,
+        "word": "刘暖曦微博永久禁言",
+        "onboard_time": 1672805971,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256477,
+        "num": 1349802,
+        "word": "XBB.1.5七问七答",
+        "onboard_time": 1672802790,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103123,
+        "num": 1103123,
+        "word": "顾嘉辉去世",
+        "onboard_time": 1672800084,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1054841,
+        "num": 1054841,
+        "word": "天府可乐宣布破产",
+        "onboard_time": 1672799487,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 3446631,
+        "num": 1025205,
+        "word": "万柳书院少爷 慕强慕权的氛围",
+        "onboard_time": 1672804890,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 849396,
+        "num": 849396,
+        "word": "谢之遥比韩商言有钱",
+        "onboard_time": 1672802971,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 811137,
+        "num": 811137,
+        "word": "能不能不调休了",
+        "onboard_time": 1672805609,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 808738,
+        "num": 808738,
+        "word": "情侣吵架女方不愿下车耽误俩小时",
+        "onboard_time": 1672800567,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774025,
+        "num": 774025,
+        "word": "女生吃学校食堂热卤发现香菇上有字",
+        "onboard_time": 1672802490,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644362,
+        "num": 644362,
+        "word": "女子围炉煮茶3小时一氧化碳中毒",
+        "onboard_time": 1672800928,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501696,
+        "num": 501696,
+        "word": "安悦溪回应王梓薇以爱为营被换角",
+        "onboard_time": 1672795768,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437348,
+        "num": 437348,
+        "word": "姆巴佩评NBA现役前五",
+        "onboard_time": 1672801527,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420585,
+        "num": 420585,
+        "word": "新冠引发的腹泻3天内可自行缓解",
+        "onboard_time": 1672799905,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403995,
+        "num": 403995,
+        "word": "唐嫣说我挺有综艺感的",
+        "onboard_time": 1672801950,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382390,
+        "num": 382390,
+        "word": "快递点老板跑路留下满屋空包裹",
+        "onboard_time": 1672798648,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367826,
+        "num": 367826,
+        "word": "C罗说世界杯唯一赢阿根廷的是沙特",
+        "onboard_time": 1672806092,
+        "rank": 16,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 352993,
+        "num": 352993,
+        "word": "俄军跨年夜遭袭系手机暴露定位",
+        "onboard_time": 1672804230,
+        "rank": 17,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 336884,
+        "num": 336884,
+        "word": "高福称看病要预约不能得病就排队",
+        "onboard_time": 1672801709,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597341,
+        "num": 335672,
+        "word": "阳康后脑雾症状2到4周会逐渐恢复",
+        "onboard_time": 1672800928,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334175,
+        "num": 334175,
+        "word": "丈夫开车辗轧妻子致死案将开庭",
+        "onboard_time": 1672768156,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 303087,
+        "num": 303087,
+        "word": "张杰说自己是张社牛杰",
+        "onboard_time": 1672802247,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299615,
+        "num": 299615,
+        "word": "关晓彤录制2023北京台春晚",
+        "onboard_time": 1672805071,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292498,
+        "num": 292498,
+        "word": "如果上4天半班你会搞副业吗",
+        "onboard_time": 1672793670,
+        "rank": 23,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 282550,
+        "num": 282550,
+        "word": "女子未靠边行走被超速外卖员撞死",
+        "onboard_time": 1672806271,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 281725,
+        "num": 281725,
+        "word": "许红豆分手好干脆",
+        "onboard_time": 1672797927,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265415,
+        "num": 265415,
+        "word": "初中儿子厌学爸爸带其骑行9000公里",
+        "onboard_time": 1672804769,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 271882,
+        "num": 265316,
+        "word": "去有风的地方有姚安娜",
+        "onboard_time": 1672795588,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264603,
+        "num": 264603,
+        "word": "8岁女童意外烧伤毁容手指截肢",
+        "onboard_time": 1672802611,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250717,
+        "num": 250717,
+        "word": "中国宽带网速位居全球第六",
+        "onboard_time": 1672802670,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 263260,
+        "num": 245777,
+        "word": "黄明昊官宣加盟极限挑战宝藏行3",
+        "onboard_time": 1672804591,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256679,
+        "num": 244887,
+        "word": "男性有效穿搭vs无效穿搭",
+        "onboard_time": 1672805793,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253178,
+        "num": 244702,
+        "word": "交换人生定档大年初一",
+        "onboard_time": 1672801831,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236686,
+        "num": 236686,
+        "word": "12岁男孩身高1米9爸爸站桌上测量",
+        "onboard_time": 1672795228,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230892,
+        "num": 230892,
+        "word": "贾玲说过年看张小斐嘎嘎笑",
+        "onboard_time": 1672802490,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225315,
+        "num": 225315,
+        "word": "黑暗荣耀 校园霸凌",
+        "onboard_time": 1672791747,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224259,
+        "num": 224259,
+        "word": "才知道眼镜布不是擦眼镜的",
+        "onboard_time": 1672794749,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223963,
+        "num": 223963,
+        "word": "云南边境毒贩抓捕现场画面",
+        "onboard_time": 1672799846,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199982,
+        "num": 199982,
+        "word": "新冠恢复期失眠怎么办",
+        "onboard_time": 1672799785,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197080,
+        "num": 197080,
+        "word": "钎城斥私生",
+        "onboard_time": 1672804407,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216427,
+        "num": 196683,
+        "word": "易烊千玺满江红有声角色视频",
+        "onboard_time": 1672800389,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209671,
+        "num": 196576,
+        "word": "我们的客栈合伙人官宣",
+        "onboard_time": 1672799487,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194154,
+        "num": 194154,
+        "word": "鹅鸭杀最后亿把",
+        "onboard_time": 1672798707,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173575,
+        "num": 173575,
+        "word": "XBB会在我国引起新一轮流行吗",
+        "onboard_time": 1672755152,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171494,
+        "num": 171494,
+        "word": "原来猫猫也会觉得孤独",
+        "onboard_time": 1672798166,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 170147,
+        "num": 170147,
+        "word": "女子在优衣库试衣遭两男童推帘",
+        "onboard_time": 1672806811,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 163743,
+        "num": 163743,
+        "word": "Steam2022年度大奖",
+        "onboard_time": 1672802067,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156555,
+        "num": 156555,
+        "word": "医院回应4000元招募新冠患者",
+        "onboard_time": 1672806634,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138976,
+        "num": 138976,
+        "word": "C罗说在欧洲的工作已经完成",
+        "onboard_time": 1672795107,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135036,
+        "num": 135036,
+        "word": "短期内大规模流行XBB变异株的可能性极低",
+        "onboard_time": 1672800749,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023加把劲#"
+    }
+  }
+}
