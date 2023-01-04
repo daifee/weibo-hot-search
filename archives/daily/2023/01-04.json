@@ -1,6 +1,6 @@
 {
   "startTime": 1672763163878,
-  "endTime": 1672836848145,
+  "endTime": 1672838669563,
   "band_list": [
     {
       "raw_hot": 3727850,
@@ -131,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1369706,
+      "num": 1369706,
+      "word": "女子跨年夜中1000万后悔跟孩子说",
+      "onboard_time": 1672835914,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1296540,
       "num": 1296540,
       "word": "女生买蛋糕发现草莓是印的包装",
@@ -203,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1107334,
+      "num": 1107334,
+      "word": "鹅鸭杀",
+      "onboard_time": 1672838074,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1086568,
       "num": 1086568,
       "word": "快递点老板跑路留下满屋空包裹",
@@ -217,6 +233,14 @@
       "onboard_time": 1672752871,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1050961,
+      "num": 1050961,
+      "word": "贺峻霖介绍易烊千玺满江红",
+      "onboard_time": 1672836994,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 965816,
@@ -275,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 864119,
+      "num": 864119,
+      "word": "开封失联多日16岁女孩已找到",
+      "onboard_time": 1672835312,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 859802,
       "num": 859802,
       "word": "12岁男孩身高1米9爸爸站桌上测量",
@@ -329,6 +361,14 @@
       "onboard_time": 1672805609,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 796006,
+      "num": 660522,
+      "word": "王一博张婧仪无名复古合照",
+      "onboard_time": 1672836873,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 787065,
@@ -491,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 620992,
+      "num": 620992,
+      "word": "感染新冠会影响记忆力吗",
+      "onboard_time": 1672834595,
+      "rank": 26,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 616384,
       "num": 616384,
       "word": "巴黎全队列队欢迎梅西",
@@ -536,14 +584,6 @@
       "word": "唐嫣说我挺有综艺感的",
       "onboard_time": 1672801950,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 580442,
-      "num": 457973,
-      "word": "女子跨年夜中1000万后悔跟孩子说",
-      "onboard_time": 1672835914,
-      "rank": 10,
       "category": "综艺"
     },
     {
@@ -851,14 +891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 422443,
-      "num": 422443,
-      "word": "开封失联多日16岁女孩已找到",
-      "onboard_time": 1672835312,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 413444,
       "num": 413444,
       "word": "多名男子持械打砸超市",
@@ -881,14 +913,6 @@
       "onboard_time": 1672797746,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 409137,
-      "num": 409137,
-      "word": "感染新冠会影响记忆力吗",
-      "onboard_time": 1672834595,
-      "rank": 26,
-      "category": "社会议题"
     },
     {
       "raw_hot": 407914,
@@ -921,6 +945,14 @@
       "onboard_time": 1672759112,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389505,
+      "num": 389505,
+      "word": "肖战卡其色西装直播造型",
+      "onboard_time": 1672837654,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 385957,
@@ -1219,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292742,
+      "num": 292742,
+      "word": "妈妈吐槽儿子每天进门就刷鞋",
+      "onboard_time": 1672835611,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291709,
       "num": 291709,
       "word": "教育局回应老师让学生投屏聊天记录",
@@ -1227,12 +1267,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 289976,
+      "num": 1165439,
+      "word": "如何看待XBB系列毒株",
+      "onboard_time": 1672836392,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289946,
       "num": 289946,
       "word": "男性有效穿搭vs无效穿搭",
       "onboard_time": 1672805793,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 287733,
+      "num": 287733,
+      "word": "谢之遥给许红豆扇扇子",
+      "onboard_time": 1672837233,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 286260,
@@ -1267,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282156,
+      "num": 282156,
+      "word": "向风而行预告",
+      "onboard_time": 1672836753,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280894,
       "num": 280894,
       "word": "还有蛋糕不能模仿的东西吗",
@@ -1279,6 +1343,22 @@
       "num": 174739,
       "word": "胡歌我的四十没有不惑",
       "onboard_time": 1672757910,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 278962,
+      "num": 254893,
+      "word": "顾南亭情敌出现",
+      "onboard_time": 1672835854,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 278947,
+      "num": 191243,
+      "word": "周柯宇以爱为营黑西装造型路透",
+      "onboard_time": 1672836450,
       "rank": 30,
       "category": "作品衍生"
     },
@@ -1411,14 +1491,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 254893,
-      "num": 254893,
-      "word": "顾南亭情敌出现",
-      "onboard_time": 1672835854,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 254099,
       "num": 192064,
       "word": "谭松韵偷亲王凯拍摄花絮",
@@ -1523,6 +1595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228250,
+      "num": 186124,
+      "word": "重庆6元一份的洋芋凉面",
+      "onboard_time": 1672837654,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 227905,
       "num": 163972,
       "word": "程霄莫名其妙被冷落",
@@ -1585,6 +1665,14 @@
       "onboard_time": 1672813948,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 212898,
+      "num": 155619,
+      "word": "林晓峰因超售向客人道歉退款",
+      "onboard_time": 1672838611,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 212179,
@@ -1739,12 +1827,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 184490,
-      "num": 139452,
-      "word": "向风而行预告",
-      "onboard_time": 1672836753,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 185258,
+      "num": 185258,
+      "word": "KPL",
+      "onboard_time": 1672837175,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 184362,
@@ -1987,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154310,
+      "num": 154310,
+      "word": "小猫是有点倔强在身上的",
+      "onboard_time": 1672834232,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152722,
       "num": 152722,
       "word": "原来真的有狗急跳墙",
@@ -2001,14 +2097,6 @@
       "onboard_time": 1672775532,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148126,
-      "num": 148126,
-      "word": "小猫是有点倔强在身上的",
-      "onboard_time": 1672834232,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 147949,
@@ -2227,12 +2315,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 114280,
-      "num": 125627,
-      "word": "妈妈吐槽儿子每天进门就刷鞋",
-      "onboard_time": 1672835611,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 115316,
+      "num": 115316,
+      "word": "筱秋",
+      "onboard_time": 1672838552,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 110357,
+      "num": 110357,
+      "word": "2023KPL选秀大会",
+      "onboard_time": 1672838494,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 106417,
@@ -2257,14 +2353,6 @@
       "onboard_time": 1672817129,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97025,
-      "num": 1009567,
-      "word": "如何看待XBB系列毒株",
-      "onboard_time": 1672836392,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95511,
