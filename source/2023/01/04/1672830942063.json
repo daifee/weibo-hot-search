@@ -1,0 +1,410 @@
+{
+  "runTime": 1672830942063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1671110,
+        "num": 1671110,
+        "word": "男子在北京飞上海航班上喊飞机要出事",
+        "onboard_time": 1672827150,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1511036,
+        "num": 1511036,
+        "word": "刘鑫大号小号全被禁言",
+        "onboard_time": 1672821450,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75642,
+        "num": 1251997,
+        "word": "一组手账速览康复期要注意啥",
+        "onboard_time": 1672824391,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1145735,
+        "num": 1145735,
+        "word": "男子买到假NIKE举报店铺被送花圈",
+        "onboard_time": 1672825171,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1115670,
+        "num": 1115670,
+        "word": "邓超陈赫鹿晗录五哈去了王勉家",
+        "onboard_time": 1672825650,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 903557,
+        "num": 903557,
+        "word": "第一次想用猥琐形容奥特曼",
+        "onboard_time": 1672825469,
+        "rank": 5,
+        "category": "动漫,幽默"
+      },
+      {
+        "raw_hot": 637260,
+        "num": 637260,
+        "word": "花海澜FMVP皮肤",
+        "onboard_time": 1672828530,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 646944,
+        "num": 620724,
+        "word": "肖战2022年度中国名人榜登顶",
+        "onboard_time": 1672828112,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586122,
+        "num": 586122,
+        "word": "我承认以前对白秀珠太大声了",
+        "onboard_time": 1672818868,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 582079,
+        "num": 582079,
+        "word": "优酷一个账号仅能登录一台手机",
+        "onboard_time": 1672826612,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 578389,
+        "num": 578389,
+        "word": "裴珠泫cos水冰月",
+        "onboard_time": 1672829010,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478298,
+        "num": 478298,
+        "word": "女生买蛋糕发现草莓是印的包装",
+        "onboard_time": 1672818268,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449149,
+        "num": 449149,
+        "word": "兔年要打384天的工",
+        "onboard_time": 1672828231,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433786,
+        "num": 433786,
+        "word": "五哈",
+        "onboard_time": 1672827932,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421480,
+        "num": 421480,
+        "word": "春节档 神仙打架",
+        "onboard_time": 1672819888,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391209,
+        "num": 391209,
+        "word": "韩国警察厅长首次承认踩踏事故当天游玩饮酒",
+        "onboard_time": 1672820366,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356669,
+        "num": 356669,
+        "word": "优酷更改会员登录规则",
+        "onboard_time": 1672817009,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 347716,
+        "num": 347716,
+        "word": "贺峻霖成为电影频道实习主播",
+        "onboard_time": 1672823910,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346841,
+        "num": 346841,
+        "word": "阳了后警惕病毒性结膜炎",
+        "onboard_time": 1672816648,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321776,
+        "num": 321776,
+        "word": "万柳书院开发商已成被执行人",
+        "onboard_time": 1672816107,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324094,
+        "num": 320082,
+        "word": "王梓薇 官宣后我的ip就没动过就没进过组",
+        "onboard_time": 1672820131,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355676,
+        "num": 312249,
+        "word": "赵露思入选2022最具影响力的亚洲名人",
+        "onboard_time": 1672824511,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303473,
+        "num": 303473,
+        "word": "母子赏雪被困找到时2岁娃已失温",
+        "onboard_time": 1672813169,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287144,
+        "num": 287144,
+        "word": "刘亦菲35岁皮肤状态",
+        "onboard_time": 1672822230,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282262,
+        "num": 282262,
+        "word": "宋亚轩清唱方大同的takeme",
+        "onboard_time": 1672830753,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260666,
+        "num": 260666,
+        "word": "男子15元机选彩票中6122万元",
+        "onboard_time": 1672814250,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223094,
+        "num": 223094,
+        "word": "重庆一男子为夫妻买扶梯票省40分钟",
+        "onboard_time": 1672823132,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 213367,
+        "num": 213367,
+        "word": "过年可以解禁烟花爆竹燃放吗",
+        "onboard_time": 1672829668,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200687,
+        "num": 200687,
+        "word": "海航回应旅客冲击客舱门",
+        "onboard_time": 1672827571,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199572,
+        "num": 199572,
+        "word": "女子分享阳康前后感受到的男友力",
+        "onboard_time": 1672827513,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 271128,
+        "num": 193677,
+        "word": "2022最具影响力亚洲名人榜TOP20",
+        "onboard_time": 1672824749,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234015,
+        "num": 192064,
+        "word": "谭松韵偷亲王凯拍摄花絮",
+        "onboard_time": 1672827872,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211782,
+        "num": 183533,
+        "word": "王一博电影无名海报细节",
+        "onboard_time": 1672829851,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167985,
+        "num": 167985,
+        "word": "早晚洗澡有什么讲究",
+        "onboard_time": 1672822109,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152722,
+        "num": 152722,
+        "word": "原来真的有狗急跳墙",
+        "onboard_time": 1672828292,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208324,
+        "num": 151820,
+        "word": "曹煜辰BE美学适配度",
+        "onboard_time": 1672830753,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149298,
+        "num": 149298,
+        "word": "新冠月子",
+        "onboard_time": 1672813708,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147216,
+        "num": 147216,
+        "word": "优酷回应账号只能一部手机登录",
+        "onboard_time": 1672818329,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 134457,
+        "num": 134457,
+        "word": "原来小狗干活也需要被夸",
+        "onboard_time": 1672820792,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134095,
+        "num": 134095,
+        "word": "突然就治好了我的精神内耗",
+        "onboard_time": 1672828712,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190616,
+        "num": 133462,
+        "word": "程霄莫名其妙被冷落",
+        "onboard_time": 1672830630,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163380,
+        "num": 129462,
+        "word": "陈飞宇机场黑色大衣造型",
+        "onboard_time": 1672828170,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125392,
+        "num": 125392,
+        "word": "为什么阳性和阳康暂不能做医美",
+        "onboard_time": 1672813530,
+        "rank": 42,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 119582,
+        "num": 119582,
+        "word": "我不想再当好孩子了",
+        "onboard_time": 1672821392,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116129,
+        "num": 116129,
+        "word": "精绝古城是怎么消失的",
+        "onboard_time": 1672826252,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 115400,
+        "num": 115400,
+        "word": "专家称原神展现出中国的高现代化水准",
+        "onboard_time": 1672811607,
+        "rank": 45,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 107986,
+        "num": 107986,
+        "word": "运载46万盒连花清瘟货车高速上起火",
+        "onboard_time": 1672830691,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104689,
+        "num": 104689,
+        "word": "鹤岗一供暖公司因亏损将停止供热",
+        "onboard_time": 1672830512,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104113,
+        "num": 104113,
+        "word": "英雄联盟微博杯",
+        "onboard_time": 1672818268,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97585,
+        "num": 97585,
+        "word": "C罗说世界杯唯一赢阿根廷的是沙特",
+        "onboard_time": 1672806092,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同心奋进新征程#"
+    }
+  }
+}
