@@ -1,6 +1,6 @@
 {
   "startTime": 1672849948080,
-  "endTime": 1672849948080,
+  "endTime": 1672851068422,
   "band_list": [
     {
       "raw_hot": 1888998,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 542995,
-      "num": 325190,
+      "num": 462513,
       "word": "初禾初",
       "onboard_time": 1672845094,
       "rank": 8,
@@ -57,6 +57,14 @@
       "onboard_time": 1672831832,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 368628,
+      "num": 266139,
+      "word": "虞书欣片场和郭敬明聊天路透",
+      "onboard_time": 1672849885,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 347974,
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221723,
+      "num": 221723,
+      "word": "2022年逝去的娱乐圈名人",
+      "onboard_time": 1672849705,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219143,
       "num": 219143,
       "word": "赵继伟怒骂裁判",
@@ -155,6 +171,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 208654,
+      "num": 208654,
+      "word": "句句不写穷 句句都是穷",
+      "onboard_time": 1672840352,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202931,
       "num": 175958,
       "word": "王一博张婧仪无名复古合照",
@@ -163,19 +187,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186934,
-      "num": 168511,
-      "word": "句句不写穷 句句都是穷",
-      "onboard_time": 1672840352,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 184507,
       "num": 165371,
       "word": "minji跳poppy手势舞",
       "onboard_time": 1672848448,
       "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 184175,
+      "num": 150245,
+      "word": "GOINGSEVENTEEN将3月1日回归",
+      "onboard_time": 1672850363,
+      "rank": 22,
       "category": "音乐"
     },
     {
@@ -227,12 +251,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 154534,
-      "num": 126978,
-      "word": "2022年逝去的娱乐圈名人",
-      "onboard_time": 1672849705,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 150739,
+      "num": 150739,
+      "word": "1个动作自测肌肉少不少",
+      "onboard_time": 1672847611,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 148599,
@@ -257,22 +281,6 @@
       "onboard_time": 1672841736,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136938,
-      "num": 136938,
-      "word": "1个动作自测肌肉少不少",
-      "onboard_time": 1672847611,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 133309,
-      "num": 97581,
-      "word": "虞书欣片场和郭敬明聊天路透",
-      "onboard_time": 1672849885,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 132291,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 123261,
-      "num": 712072,
+      "num": 752962,
       "word": "如何看待XBB系列毒株",
       "onboard_time": 1672836392,
       "rank": 2,
@@ -371,6 +379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 81969,
+      "num": 81969,
+      "word": "第一次见这么炫酷的烟花",
+      "onboard_time": 1672848390,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78017,
       "num": 78017,
       "word": "妈妈吐槽儿子每天进门就刷鞋",
@@ -387,18 +403,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76092,
-      "num": 76092,
-      "word": "第一次见这么炫酷的烟花",
-      "onboard_time": 1672848390,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 69752,
       "num": 75967,
       "word": "2023KPL春季赛抽签之夜",
       "onboard_time": 1672847729,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 53747,
+      "num": 53747,
+      "word": "光遇",
+      "onboard_time": 1672843833,
       "rank": 49,
       "category": "游戏"
     }
