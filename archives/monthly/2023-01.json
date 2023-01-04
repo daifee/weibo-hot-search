@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672800056063,
+  "endTime": 1672800655296,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -1131,6 +1131,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 864780,
+      "num": 864780,
+      "word": "快递点老板跑路留下满屋空包裹",
+      "onboard_time": 1672798648,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 859802,
       "num": 859802,
       "word": "12岁男孩身高1米9爸爸站桌上测量",
@@ -1249,6 +1257,14 @@
       "onboard_time": 1672748493,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 808803,
+      "num": 426695,
+      "word": "天府可乐宣布破产",
+      "onboard_time": 1672799487,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 801388,
@@ -1449,6 +1465,14 @@
       "onboard_time": 1672557693,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 723954,
+      "num": 423573,
+      "word": "顾嘉辉去世",
+      "onboard_time": 1672800084,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 723398,
@@ -1809,14 +1833,6 @@
       "onboard_time": 1672578155,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 603034,
-      "num": 603034,
-      "word": "快递点老板跑路留下满屋空包裹",
-      "onboard_time": 1672798648,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 602801,
@@ -2475,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468826,
+      "num": 468826,
+      "word": "许红豆分手好干脆",
+      "onboard_time": 1672797927,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 468568,
       "num": 468568,
       "word": "教资面试",
@@ -2835,14 +2859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 413856,
-      "num": 413856,
-      "word": "许红豆分手好干脆",
-      "onboard_time": 1672797927,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 413444,
       "num": 413444,
       "word": "多名男子持械打砸超市",
@@ -2921,6 +2937,14 @@
       "onboard_time": 1672627769,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 403378,
+      "num": 403378,
+      "word": "我们的客栈合伙人官宣",
+      "onboard_time": 1672799487,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 403359,
@@ -3305,6 +3329,14 @@
       "onboard_time": 1672718009,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 367145,
+      "num": 367145,
+      "word": "这届年轻人有多爱搞钱",
+      "onboard_time": 1672798587,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366199,
@@ -3867,14 +3899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315406,
-      "num": 315406,
-      "word": "这届年轻人有多爱搞钱",
-      "onboard_time": 1672798587,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314031,
       "num": 314031,
       "word": "卧龙凤雏的两只猫咪",
@@ -4011,14 +4035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 300626,
-      "num": 300626,
-      "word": "天府可乐宣布破产",
-      "onboard_time": 1672799487,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 300342,
       "num": 289916,
       "word": "叶秘大年初一见",
@@ -4065,6 +4081,14 @@
       "onboard_time": 1672671333,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 297231,
+      "num": 297231,
+      "word": "鹅鸭杀最后亿把",
+      "onboard_time": 1672798707,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 296967,
@@ -4579,6 +4603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267792,
+      "num": 267792,
+      "word": "易烊千玺满江红有声角色视频",
+      "onboard_time": 1672800389,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267631,
       "num": 213909,
       "word": "以爱为营",
@@ -4763,14 +4795,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 254093,
-      "num": 254093,
-      "word": "鹅鸭杀最后亿把",
-      "onboard_time": 1672798707,
-      "rank": 20,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 253722,
       "num": 704751,
       "word": "小伙坐地铁手机掉进女乘客手提袋",
@@ -4793,6 +4817,14 @@
       "onboard_time": 1672799365,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253372,
+      "num": 253372,
+      "word": "车主把AED放车上还允许破窗使用",
+      "onboard_time": 1672799306,
+      "rank": 28,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 252310,
@@ -4825,14 +4857,6 @@
       "onboard_time": 1672564589,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250150,
-      "num": 250150,
-      "word": "我们的客栈合伙人官宣",
-      "onboard_time": 1672799487,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 248825,
@@ -5193,6 +5217,14 @@
       "onboard_time": 1672755274,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230640,
+      "num": 186209,
+      "word": "极限挑战宝藏行3定档官宣",
+      "onboard_time": 1672800266,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 230411,
@@ -5779,6 +5811,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 198314,
+      "num": 185094,
+      "word": "陈韵如也没听伍佰演唱会",
+      "onboard_time": 1672800628,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196895,
       "num": 161369,
       "word": "用每日一秒记录一整年",
@@ -5835,6 +5875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195264,
+      "num": 195264,
+      "word": "新冠引发的腹泻3天内可自行缓解",
+      "onboard_time": 1672799905,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195010,
       "num": 195010,
       "word": "胡可说家就是永远有一个人在等你",
@@ -5873,6 +5921,14 @@
       "onboard_time": 1672640548,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193180,
+      "num": 183253,
+      "word": "李宏毅说少年歌行热度破万倒立洗头",
+      "onboard_time": 1672799245,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 192766,
@@ -5921,6 +5977,14 @@
       "onboard_time": 1672755334,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190730,
+      "num": 190730,
+      "word": "云南边境毒贩抓捕现场画面",
+      "onboard_time": 1672799846,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190078,
@@ -6003,14 +6067,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 187525,
-      "num": 163245,
-      "word": "李宏毅说少年歌行热度破万倒立洗头",
-      "onboard_time": 1672799245,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 187337,
       "num": 187337,
       "word": "一只狗可以有多欠",
@@ -6025,6 +6081,14 @@
       "onboard_time": 1672726708,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186924,
+      "num": 186924,
+      "word": "新冠恢复期失眠怎么办",
+      "onboard_time": 1672799785,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186722,
@@ -6105,6 +6169,14 @@
       "onboard_time": 1672579290,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181629,
+      "num": 181629,
+      "word": "原来猫猫也会觉得孤独",
+      "onboard_time": 1672798166,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 181488,
@@ -6377,14 +6449,6 @@
       "onboard_time": 1672549951,
       "rank": 46,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 172953,
-      "num": 172953,
-      "word": "车主把AED放车上还允许破窗使用",
-      "onboard_time": 1672799306,
-      "rank": 28,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 172883,
@@ -7163,14 +7227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 136361,
-      "num": 136361,
-      "word": "原来猫猫也会觉得孤独",
-      "onboard_time": 1672798166,
-      "rank": 37,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 136272,
       "num": 136272,
       "word": "被金毛幼崽可爱到了",
@@ -7507,14 +7563,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 118730,
-      "num": 118730,
-      "word": "云南边境毒贩抓捕现场画面",
-      "onboard_time": 1672799846,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118224,
       "num": 943658,
       "word": "一句话迎接2023",
@@ -7593,14 +7641,6 @@
       "onboard_time": 1672713926,
       "rank": 49,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 114950,
-      "num": 114950,
-      "word": "新冠引发的腹泻3天内可自行缓解",
-      "onboard_time": 1672799905,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114776,
@@ -7697,14 +7737,6 @@
       "onboard_time": 1672638989,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 109449,
-      "num": 109449,
-      "word": "新冠恢复期失眠怎么办",
-      "onboard_time": 1672799785,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108687,
@@ -8027,6 +8059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90975,
+      "num": 132082,
+      "word": "情侣吵架女方不愿下车耽误俩小时",
+      "onboard_time": 1672800567,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89638,
       "num": 923632,
       "word": "哪一刻意识到自己不再年轻了",
@@ -8073,6 +8113,14 @@
       "onboard_time": 1672594996,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86301,
+      "num": 129717,
+      "word": "穿汉服滑雪如御剑飞行",
+      "onboard_time": 1672799425,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86007,
