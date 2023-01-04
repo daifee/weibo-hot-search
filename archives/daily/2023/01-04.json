@@ -1,6 +1,6 @@
 {
   "startTime": 1672763163878,
-  "endTime": 1672839359398,
+  "endTime": 1672841911523,
   "band_list": [
     {
       "raw_hot": 3727850,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1688050,
+      "num": 1688050,
+      "word": "女子跨年夜中1000万后悔跟孩子说",
+      "onboard_time": 1672835914,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1624302,
       "num": 1219728,
       "word": "安悦溪回应王梓薇以爱为营被换角",
@@ -129,14 +137,6 @@
       "onboard_time": 1672831832,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1480082,
-      "num": 1480082,
-      "word": "女子跨年夜中1000万后悔跟孩子说",
-      "onboard_time": 1672835914,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1296540,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 796006,
-      "num": 660522,
+      "num": 790720,
       "word": "王一博张婧仪无名复古合照",
       "onboard_time": 1672836873,
       "rank": 10,
@@ -571,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 597212,
+      "num": 528242,
+      "word": "句句不写穷 句句都是穷",
+      "onboard_time": 1672840352,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 590870,
       "num": 590870,
       "word": "迪丽热巴sofigaro封面视频",
@@ -585,6 +593,14 @@
       "onboard_time": 1672801950,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 580629,
+      "num": 580629,
+      "word": "重庆6元一份的洋芋凉面",
+      "onboard_time": 1672837654,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 578389,
@@ -681,6 +697,14 @@
       "onboard_time": 1672824511,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 525268,
+      "num": 525268,
+      "word": "Hero 倒霉蛋子",
+      "onboard_time": 1672840773,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 521479,
@@ -891,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 413638,
+      "num": 413638,
+      "word": "offer4建筑专家建议陈国恩考公",
+      "onboard_time": 1672839269,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413444,
       "num": 413444,
       "word": "多名男子持械打砸超市",
@@ -921,6 +953,14 @@
       "onboard_time": 1672813468,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405366,
+      "num": 312296,
+      "word": "浮图缘",
+      "onboard_time": 1672840112,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 403378,
@@ -969,14 +1009,6 @@
       "onboard_time": 1672752691,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 376941,
-      "num": 376941,
-      "word": "重庆6元一份的洋芋凉面",
-      "onboard_time": 1672837654,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 376168,
@@ -1099,6 +1131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 358492,
+      "num": 307872,
+      "word": "向风而行",
+      "onboard_time": 1672839211,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 353928,
       "num": 353928,
       "word": "女子称有阿姨每天狂敲门碰瓷",
@@ -1163,6 +1203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 324969,
+      "num": 1177158,
+      "word": "如何看待XBB系列毒株",
+      "onboard_time": 1672836392,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323852,
       "num": 321326,
       "word": "黄明昊官宣加盟极限挑战宝藏行3",
@@ -1201,14 +1249,6 @@
       "onboard_time": 1672760551,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 312773,
-      "num": 1177158,
-      "word": "如何看待XBB系列毒株",
-      "onboard_time": 1672836392,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312696,
@@ -1323,14 +1363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285539,
-      "num": 285539,
-      "word": "向风而行",
-      "onboard_time": 1672839211,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 283838,
       "num": 223442,
       "word": "青山刚昌说新一要出手了",
@@ -1411,6 +1443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272114,
+      "num": 197359,
+      "word": "去有风的地方 亲情",
+      "onboard_time": 1672839932,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271477,
       "num": 271477,
       "word": "中国宽带网速位居全球第六",
@@ -1427,11 +1467,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 269104,
+      "num": 269104,
+      "word": "KPL 上上签",
+      "onboard_time": 1672840593,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 267145,
       "num": 267145,
       "word": "00后员工吐槽老板创意土被约谈",
       "onboard_time": 1672811191,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266595,
+      "num": 266595,
+      "word": "村民办丧事房屋起火损失百万",
+      "onboard_time": 1672838015,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1475,12 +1531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260019,
-      "num": 193316,
-      "word": "offer4建筑专家建议陈国恩考公",
-      "onboard_time": 1672839269,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 260028,
+      "num": 191115,
+      "word": "李宏毅什么时候倒立洗头",
+      "onboard_time": 1672840832,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 259720,
@@ -1641,6 +1697,14 @@
       "onboard_time": 1672827632,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229887,
+      "num": 229887,
+      "word": "恋爱真的需要发朋友圈吗",
+      "onboard_time": 1672841075,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 227905,
@@ -1891,6 +1955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184266,
+      "num": 184266,
+      "word": "KPL 小爱",
+      "onboard_time": 1672839756,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183286,
       "num": 183286,
       "word": "商家回应出售不开心猪和淘汰猪",
@@ -1987,6 +2059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171965,
+      "num": 171965,
+      "word": "TTG 上上签",
+      "onboard_time": 1672841615,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171203,
       "num": 171203,
       "word": "青海15岁女孩独自到南京会网友",
@@ -2025,6 +2105,14 @@
       "onboard_time": 1672761268,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165816,
+      "num": 165816,
+      "word": "湖北新冠流行毒株仍以BA.5.2为主",
+      "onboard_time": 1672841736,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165796,
