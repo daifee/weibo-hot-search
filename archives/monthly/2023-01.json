@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672859829376,
+  "endTime": 1672860822180,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -9947,6 +9947,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 91115,
+      "num": 65802,
+      "word": "母子遭家暴离家误入高速民警帮交罚款",
+      "onboard_time": 1672857555,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90202,
       "num": 90202,
       "word": "字节辟谣被裁员工与HR互殴",
@@ -10083,14 +10091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 76132,
-      "num": 65802,
-      "word": "母子遭家暴离家误入高速民警帮交罚款",
-      "onboard_time": 1672857555,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75145,
       "num": 923180,
       "word": "狼队0比1曼联",
@@ -10145,6 +10145,14 @@
       "onboard_time": 1672596975,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58069,
+      "num": 31886,
+      "word": "温州小猫走丢2天在上海被收养",
+      "onboard_time": 1672858095,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57125,
@@ -10251,12 +10259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 42112,
-      "num": 31886,
-      "word": "温州小猫走丢2天在上海被收养",
-      "onboard_time": 1672858095,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 42078,
+      "num": 42078,
+      "word": "宫胁咲良称赞Deft",
+      "onboard_time": 1672859294,
+      "rank": 32,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 41238,
@@ -10361,14 +10369,6 @@
       "onboard_time": 1672513516,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32444,
-      "num": 31819,
-      "word": "宫胁咲良称赞Deft",
-      "onboard_time": 1672859294,
-      "rank": 32,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 32028,
