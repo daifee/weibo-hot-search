@@ -1,0 +1,410 @@
+{
+  "runTime": 1672816589646,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1248022,
+        "num": 1248022,
+        "word": "肖战任敏玉骨遥韩国将播出",
+        "onboard_time": 1672812209,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 991330,
+        "num": 991330,
+        "word": "母子赏雪被困找到时2岁娃已失温",
+        "onboard_time": 1672813169,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177579,
+        "num": 896904,
+        "word": "XBB.1.5七问七答",
+        "onboard_time": 1672802790,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878287,
+        "num": 878287,
+        "word": "调休",
+        "onboard_time": 1672789944,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799676,
+        "num": 799676,
+        "word": "男子15元机选彩票中6122万元",
+        "onboard_time": 1672814250,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735556,
+        "num": 735556,
+        "word": "疑情侣迪士尼插队男子制止遭抓伤",
+        "onboard_time": 1672812689,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 722473,
+        "num": 722473,
+        "word": "新冠月子",
+        "onboard_time": 1672813708,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683981,
+        "num": 683981,
+        "word": "专家称原神展现出中国的高现代化水准",
+        "onboard_time": 1672811607,
+        "rank": 7,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 557753,
+        "num": 557753,
+        "word": "女孩子的脚到底能有多冷",
+        "onboard_time": 1672810409,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 545547,
+        "num": 545547,
+        "word": "王一博河南卫视春晚彩排路透",
+        "onboard_time": 1672814250,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 726641,
+        "num": 522419,
+        "word": "网友三亚偶遇孙怡",
+        "onboard_time": 1672813589,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 408811,
+        "num": 408811,
+        "word": "C罗说世界杯唯一赢阿根廷的是沙特",
+        "onboard_time": 1672806092,
+        "rank": 11,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 407914,
+        "num": 407914,
+        "word": "9岁重孙为91岁太爷爷换尿不湿擦身体",
+        "onboard_time": 1672813468,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1101666,
+        "num": 406106,
+        "word": "万柳书院少爷直播唱歌",
+        "onboard_time": 1672808854,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 379456,
+        "num": 379456,
+        "word": "为什么阳性和阳康暂不能做医美",
+        "onboard_time": 1672813530,
+        "rank": 14,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 377501,
+        "num": 377501,
+        "word": "被大学生自制女团惊艳到了",
+        "onboard_time": 1672810109,
+        "rank": 15,
+        "category": "情感,音乐"
+      },
+      {
+        "raw_hot": 337109,
+        "num": 337109,
+        "word": "解放军战机3分钟到台上空台军起飞需6分钟",
+        "onboard_time": 1672809272,
+        "rank": 16,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 327533,
+        "num": 327533,
+        "word": "赵丽颖林更新聚餐照",
+        "onboard_time": 1672812209,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313867,
+        "num": 313867,
+        "word": "医院回应4000元招募新冠患者",
+        "onboard_time": 1672806634,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287423,
+        "num": 287423,
+        "word": "阳后要坐新冠月子吗",
+        "onboard_time": 1672811249,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295263,
+        "num": 286047,
+        "word": "王鹤棣抠掉扣子",
+        "onboard_time": 1672815028,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281794,
+        "num": 281794,
+        "word": "女子围炉煮茶3小时一氧化碳中毒",
+        "onboard_time": 1672800928,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270552,
+        "num": 270552,
+        "word": "女子未靠边行走被超速外卖员撞死",
+        "onboard_time": 1672806271,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 269701,
+        "num": 269701,
+        "word": "新冠引发的腹泻3天内可自行缓解",
+        "onboard_time": 1672799905,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258736,
+        "num": 258736,
+        "word": "陈哲远做过深圳校服模特",
+        "onboard_time": 1672811970,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252696,
+        "num": 252696,
+        "word": "齐司礼",
+        "onboard_time": 1672813766,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252214,
+        "num": 252214,
+        "word": "迪丽热巴多次维权胜诉",
+        "onboard_time": 1672809093,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205249,
+        "num": 205249,
+        "word": "程序员写代码提醒健忘父亲买年货",
+        "onboard_time": 1672814607,
+        "rank": 27,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 199647,
+        "num": 199647,
+        "word": "女生吃学校食堂热卤发现香菇上有字",
+        "onboard_time": 1672802490,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190309,
+        "num": 190309,
+        "word": "00后员工吐槽老板创意土被约谈",
+        "onboard_time": 1672811191,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250960,
+        "num": 189448,
+        "word": "顾嘉辉去世",
+        "onboard_time": 1672800084,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215097,
+        "num": 185592,
+        "word": "内娱老歌翻唱封神舞台",
+        "onboard_time": 1672813948,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208396,
+        "num": 179178,
+        "word": "谢之遥比韩商言有钱",
+        "onboard_time": 1672802971,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195371,
+        "num": 173603,
+        "word": "王嘉尔最近在追的TVB剧集",
+        "onboard_time": 1672809033,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173076,
+        "num": 173076,
+        "word": "年底福建人回村的噩梦",
+        "onboard_time": 1672810109,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192376,
+        "num": 172473,
+        "word": "苏醒理直气壮给粉丝画饼",
+        "onboard_time": 1672808970,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157591,
+        "num": 157591,
+        "word": "俄军跨年夜遭袭系手机暴露定位",
+        "onboard_time": 1672804230,
+        "rank": 36,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 154000,
+        "num": 154000,
+        "word": "万柳书院开发商已成被执行人",
+        "onboard_time": 1672816107,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148765,
+        "num": 148765,
+        "word": "情侣吵架女方不愿下车耽误俩小时",
+        "onboard_time": 1672800567,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144789,
+        "num": 144789,
+        "word": "男性有效穿搭vs无效穿搭",
+        "onboard_time": 1672805793,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189205,
+        "num": 144617,
+        "word": "李现不一样的角色一样的苏",
+        "onboard_time": 1672815388,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143385,
+        "num": 143385,
+        "word": "解放军战机到台上空不到三分钟",
+        "onboard_time": 1672814366,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 142009,
+        "num": 142009,
+        "word": "宝宝与狗互抢食物妈妈崩溃分开照看",
+        "onboard_time": 1672807594,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138901,
+        "num": 138901,
+        "word": "拜年毛衣成年轻人过年嘴替",
+        "onboard_time": 1672816049,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134748,
+        "num": 134748,
+        "word": "没有手机玩的爷爷都在想什么",
+        "onboard_time": 1672811249,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121700,
+        "num": 121700,
+        "word": "8岁女童意外烧伤毁容手指截肢",
+        "onboard_time": 1672802611,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117528,
+        "num": 117528,
+        "word": "天府可乐宣布破产",
+        "onboard_time": 1672799487,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117212,
+        "num": 117212,
+        "word": "头一次见旋饭的狗子",
+        "onboard_time": 1672815089,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114190,
+        "num": 114190,
+        "word": "青海15岁女孩独自到南京会网友",
+        "onboard_time": 1672815447,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111493,
+        "num": 111493,
+        "word": "姆巴佩评NBA现役前五",
+        "onboard_time": 1672801527,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023加把劲#"
+    }
+  }
+}
