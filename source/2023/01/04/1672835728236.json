@@ -1,0 +1,410 @@
+{
+  "runTime": 1672835728236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1514446,
+        "num": 1514446,
+        "word": "赵丽颖说知否是自己人生中的一个转折",
+        "onboard_time": 1672831832,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1280887,
+        "num": 1280887,
+        "word": "男子在北京飞上海航班上喊飞机要出事",
+        "onboard_time": 1672827150,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65157,
+        "num": 1177387,
+        "word": "一组手账速览康复期要注意啥",
+        "onboard_time": 1672824391,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1148911,
+        "num": 1148911,
+        "word": "运载46万盒连花清瘟货车高速上起火",
+        "onboard_time": 1672830691,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1126975,
+        "num": 1126975,
+        "word": "许鞍华 汤唯",
+        "onboard_time": 1672833330,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 913099,
+        "num": 913099,
+        "word": "男子意外发现交通卡余额有172万",
+        "onboard_time": 1672832069,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804113,
+        "num": 804113,
+        "word": "刘鑫大号小号全被禁言",
+        "onboard_time": 1672821450,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606600,
+        "num": 606600,
+        "word": "男子买到假NIKE举报店铺被送花圈",
+        "onboard_time": 1672825171,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 566272,
+        "num": 566272,
+        "word": "巴黎全队列队欢迎梅西",
+        "onboard_time": 1672833393,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553908,
+        "num": 553908,
+        "word": "邓超陈赫鹿晗录五哈去了王勉家",
+        "onboard_time": 1672825650,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 520054,
+        "num": 520054,
+        "word": "鹤岗一供暖公司因亏损将停止供热",
+        "onboard_time": 1672830512,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412355,
+        "num": 412355,
+        "word": "第一次想用猥琐形容奥特曼",
+        "onboard_time": 1672825469,
+        "rank": 11,
+        "category": "动漫,幽默"
+      },
+      {
+        "raw_hot": 372078,
+        "num": 372078,
+        "word": "原来约会都是从散步开始的",
+        "onboard_time": 1672831290,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 364937,
+        "num": 364937,
+        "word": "裴珠泫cos水冰月",
+        "onboard_time": 1672829010,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364684,
+        "num": 364684,
+        "word": "女生买蛋糕发现草莓是印的包装",
+        "onboard_time": 1672818268,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347417,
+        "num": 347417,
+        "word": "我承认以前对白秀珠太大声了",
+        "onboard_time": 1672818868,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313300,
+        "num": 313300,
+        "word": "花海澜FMVP皮肤",
+        "onboard_time": 1672828530,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277858,
+        "num": 277858,
+        "word": "沈腾马丽合体录制北京台春晚",
+        "onboard_time": 1672831702,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269367,
+        "num": 269367,
+        "word": "阳了后警惕病毒性结膜炎",
+        "onboard_time": 1672816648,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264854,
+        "num": 264854,
+        "word": "兔年要打384天的工",
+        "onboard_time": 1672828231,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269542,
+        "num": 262054,
+        "word": "刘亦菲35岁皮肤状态",
+        "onboard_time": 1672822230,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265779,
+        "num": 261859,
+        "word": "春节档 神仙打架",
+        "onboard_time": 1672819888,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247478,
+        "num": 247478,
+        "word": "韩国警察厅长首次承认踩踏事故当天游玩饮酒",
+        "onboard_time": 1672820366,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238701,
+        "num": 238701,
+        "word": "万柳书院开发商已成被执行人",
+        "onboard_time": 1672816107,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225365,
+        "num": 225365,
+        "word": "王梓薇 官宣后我的ip就没动过就没进过组",
+        "onboard_time": 1672820131,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218375,
+        "num": 218375,
+        "word": "云南农村杀猪饭是什么样",
+        "onboard_time": 1672831290,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209591,
+        "num": 209591,
+        "word": "感染新冠会影响记忆力吗",
+        "onboard_time": 1672834595,
+        "rank": 26,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 195619,
+        "num": 195619,
+        "word": "优酷更改会员登录规则",
+        "onboard_time": 1672817009,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 193786,
+        "num": 193786,
+        "word": "过年可以解禁烟花爆竹燃放吗",
+        "onboard_time": 1672829668,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191734,
+        "num": 191734,
+        "word": "母子赏雪被困找到时2岁娃已失温",
+        "onboard_time": 1672813169,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210183,
+        "num": 189133,
+        "word": "2022最具影响力亚洲名人榜TOP20",
+        "onboard_time": 1672824749,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205358,
+        "num": 188343,
+        "word": "五哈",
+        "onboard_time": 1672827932,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194814,
+        "num": 187426,
+        "word": "赵玉真的桃花落了",
+        "onboard_time": 1672835492,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186210,
+        "num": 186210,
+        "word": "宋亚轩清唱方大同的takeme",
+        "onboard_time": 1672830753,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175052,
+        "num": 175052,
+        "word": "重庆一男子为夫妻买扶梯票省40分钟",
+        "onboard_time": 1672823132,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 155110,
+        "num": 155110,
+        "word": "男子15元机选彩票中6122万元",
+        "onboard_time": 1672814250,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142246,
+        "num": 142246,
+        "word": "2022王者世冠KIC",
+        "onboard_time": 1672834290,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137494,
+        "num": 137494,
+        "word": "我不想再当好孩子了",
+        "onboard_time": 1672821392,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133009,
+        "num": 133009,
+        "word": "小猫是有点倔强在身上的",
+        "onboard_time": 1672834232,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131487,
+        "num": 131487,
+        "word": "这就是我梦想的婚姻生活吧",
+        "onboard_time": 1672832551,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178007,
+        "num": 126399,
+        "word": "二刷我可能遇到了救星",
+        "onboard_time": 1672834113,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179010,
+        "num": 122873,
+        "word": "程霄手绘的航线地图被撕毁",
+        "onboard_time": 1672835433,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161069,
+        "num": 121928,
+        "word": "阿远拉裤兜是谁传出去的",
+        "onboard_time": 1672832730,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118666,
+        "num": 118666,
+        "word": "早晚洗澡有什么讲究",
+        "onboard_time": 1672822109,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105270,
+        "num": 105270,
+        "word": "开封失联多日16岁女孩已找到",
+        "onboard_time": 1672835312,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101237,
+        "num": 101237,
+        "word": "海航回应旅客冲击客舱门",
+        "onboard_time": 1672827571,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99340,
+        "num": 99340,
+        "word": "优酷回应账号只能一部手机登录",
+        "onboard_time": 1672818329,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 96851,
+        "num": 96851,
+        "word": "新冠月子",
+        "onboard_time": 1672813708,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95838,
+        "num": 95838,
+        "word": "女子分享阳康前后感受到的男友力",
+        "onboard_time": 1672827513,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 92859,
+        "num": 95786,
+        "word": "原来小狗干活也需要被夸",
+        "onboard_time": 1672820792,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#同心奋进新征程#"
+    }
+  }
+}
