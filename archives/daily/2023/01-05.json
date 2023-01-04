@@ -1,6 +1,6 @@
 {
   "startTime": 1672849948080,
-  "endTime": 1672863601145,
+  "endTime": 1672864422187,
   "band_list": [
     {
       "raw_hot": 1888998,
@@ -513,6 +513,14 @@
       "onboard_time": 1672857375,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28488,
+      "num": 28488,
+      "word": "杨迪回应像人贩子",
+      "onboard_time": 1672861693,
+      "rank": 19,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

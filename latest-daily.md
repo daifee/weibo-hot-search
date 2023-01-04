@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/05 00:32:28 ~ 2023/01/05 04:20:01
+本榜单时间：2023/01/05 00:32:28 ~ 2023/01/05 04:33:42
 </p>
 </blockquote>
 <p>
@@ -395,6 +395,12 @@ Hero 倒霉蛋子（热度：87130）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%8F%AA%E8%83%BD%E7%8C%9C%E4%B8%AD%E5%90%B4%E5%BD%A4%E8%8A%82%E7%9B%AE%E7%9A%84%E6%AD%8C%23" target="weibo">
 杨迪只能猜中吴彤节目的歌（热度：36909）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%9B%9E%E5%BA%94%E5%83%8F%E4%BA%BA%E8%B4%A9%E5%AD%90%23" target="weibo">
+杨迪回应像人贩子（热度：28488）
 </a>
 </li>
 
