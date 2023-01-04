@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672857472341,
+  "endTime": 1672859829376,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -10083,6 +10083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 76132,
+      "num": 65802,
+      "word": "母子遭家暴离家误入高速民警帮交罚款",
+      "onboard_time": 1672857555,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75145,
       "num": 923180,
       "word": "狼队0比1曼联",
@@ -10123,20 +10131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62741,
+      "num": 62741,
+      "word": "第一次吃席吃回本",
+      "onboard_time": 1672854977,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 61999,
       "num": 36077,
       "word": "贺峻霖晒视频祝大家新年快乐",
       "onboard_time": 1672596975,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58487,
-      "num": 58487,
-      "word": "第一次吃席吃回本",
-      "onboard_time": 1672854977,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 57125,
@@ -10155,6 +10163,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 54226,
+      "num": 54226,
+      "word": "光与夜之恋",
+      "onboard_time": 1672858334,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 53974,
       "num": 53974,
       "word": "沈腾2023春晚联排下班路透",
@@ -10171,20 +10187,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 52328,
+      "num": 52328,
+      "word": "刘亦菲李现去有风的地方将在北美播出",
+      "onboard_time": 1672856355,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 51818,
       "num": 127308,
       "word": "这个蛋糕有点丑",
       "onboard_time": 1672516574,
       "rank": 37,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 50072,
-      "num": 49053,
-      "word": "刘亦菲李现去有风的地方将在北美播出",
-      "onboard_time": 1672856355,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 48272,
@@ -10233,6 +10249,14 @@
       "onboard_time": 1672770374,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 42112,
+      "num": 31886,
+      "word": "温州小猫走丢2天在上海被收养",
+      "onboard_time": 1672858095,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41238,
@@ -10299,6 +10323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36909,
+      "num": 36909,
+      "word": "杨迪只能猜中吴彤节目的歌",
+      "onboard_time": 1672857375,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36784,
       "num": 36784,
       "word": "热刺0比2阿斯顿维拉",
@@ -10329,6 +10361,14 @@
       "onboard_time": 1672513516,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32444,
+      "num": 31819,
+      "word": "宫胁咲良称赞Deft",
+      "onboard_time": 1672859294,
+      "rank": 32,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 32028,
