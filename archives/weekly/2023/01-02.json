@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672852751557,
+  "endTime": 1672853714505,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -7625,6 +7625,14 @@
       "onboard_time": 1672700774,
       "rank": 45,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 43023,
+      "num": 43023,
+      "word": "字节辟谣被裁员工与HR互殴",
+      "onboard_time": 1672853058,
+      "rank": 48,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 42303,
