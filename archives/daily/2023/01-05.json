@@ -1,6 +1,6 @@
 {
   "startTime": 1672849948080,
-  "endTime": 1672867008839,
+  "endTime": 1672868023163,
   "band_list": [
     {
       "raw_hot": 1888998,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 91115,
-      "num": 65802,
+      "num": 67883,
       "word": "母子遭家暴离家误入高速民警帮交罚款",
       "onboard_time": 1672857555,
       "rank": 11,
@@ -529,6 +529,14 @@
       "onboard_time": 1672865052,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12711,
+      "num": 15310,
+      "word": "婴儿急需血透邻居驱车260公里献血",
+      "onboard_time": 1672865831,
+      "rank": 48,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [

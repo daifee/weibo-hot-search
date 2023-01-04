@@ -1,0 +1,410 @@
+{
+  "runTime": 1672868023163,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 137112,
+        "num": 137112,
+        "word": "四川戒毒点名批网络小说风情不摇晃",
+        "onboard_time": 1672845330,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91104,
+        "num": 91104,
+        "word": "新冠对生理期到底有什么影响",
+        "onboard_time": 1672846352,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23646,
+        "num": 70678,
+        "word": "如何看待XBB系列毒株",
+        "onboard_time": 1672836392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67883,
+        "num": 67883,
+        "word": "母子遭家暴离家误入高速民警帮交罚款",
+        "onboard_time": 1672857555,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60411,
+        "num": 60411,
+        "word": "初禾初",
+        "onboard_time": 1672845094,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58387,
+        "num": 58387,
+        "word": "为什么劝情侣不要轻易拉黑",
+        "onboard_time": 1672844610,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49533,
+        "num": 49533,
+        "word": "刘鑫大号小号全被禁言",
+        "onboard_time": 1672821450,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48778,
+        "num": 48778,
+        "word": "女子跨年夜中1000万后悔跟孩子说",
+        "onboard_time": 1672835914,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46451,
+        "num": 46451,
+        "word": "风情不摇晃",
+        "onboard_time": 1672843232,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33521,
+        "num": 33521,
+        "word": "开封失联多日16岁女孩已找到",
+        "onboard_time": 1672835312,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60113,
+        "num": 32856,
+        "word": "凌晨坐房顶大哭说不想结婚",
+        "onboard_time": 1672853958,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41562,
+        "num": 32324,
+        "word": "温州小猫走丢2天在上海被收养",
+        "onboard_time": 1672858095,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35047,
+        "num": 32015,
+        "word": "虞书欣片场和郭敬明聊天路透",
+        "onboard_time": 1672849885,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34591,
+        "num": 31044,
+        "word": "2022年逝去的娱乐圈名人",
+        "onboard_time": 1672849705,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30616,
+        "num": 30616,
+        "word": "霍建华最新合照状态",
+        "onboard_time": 1672845094,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28812,
+        "num": 28812,
+        "word": "句句不写穷 句句都是穷",
+        "onboard_time": 1672840352,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28723,
+        "num": 28723,
+        "word": "恋爱真的需要发朋友圈吗",
+        "onboard_time": 1672841075,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28329,
+        "num": 28329,
+        "word": "74岁老人网购上瘾假金链子成堆买",
+        "onboard_time": 1672843712,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26338,
+        "num": 26338,
+        "word": "许鞍华 汤唯",
+        "onboard_time": 1672833330,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24150,
+        "num": 24150,
+        "word": "张杰说回避冲突是保护大家的情绪",
+        "onboard_time": 1672849645,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31573,
+        "num": 24149,
+        "word": "运载46万盒连花清瘟货车高速上起火",
+        "onboard_time": 1672830691,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24053,
+        "num": 24053,
+        "word": "假如你中了一千万会怎么做",
+        "onboard_time": 1672851981,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23818,
+        "num": 23818,
+        "word": "去有风的地方",
+        "onboard_time": 1672843054,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23757,
+        "num": 23757,
+        "word": "鹤岗一供暖公司因亏损将停止供热",
+        "onboard_time": 1672830512,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22545,
+        "num": 22545,
+        "word": "杨迪回应像人贩子",
+        "onboard_time": 1672861693,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21819,
+        "num": 21819,
+        "word": "字节辟谣被裁员工与HR互殴",
+        "onboard_time": 1672853058,
+        "rank": 25,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 21473,
+        "num": 21473,
+        "word": "肖战卡其色西装直播造型",
+        "onboard_time": 1672837654,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20603,
+        "num": 20603,
+        "word": "1个动作自测肌肉少不少",
+        "onboard_time": 1672847611,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20330,
+        "num": 20330,
+        "word": "湖北新冠流行毒株仍以BA.5.2为主",
+        "onboard_time": 1672841736,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20196,
+        "num": 20196,
+        "word": "感染新冠会影响记忆力吗",
+        "onboard_time": 1672834595,
+        "rank": 29,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 20159,
+        "num": 20159,
+        "word": "赵丽颖说知否是自己人生中的一个转折",
+        "onboard_time": 1672831832,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19536,
+        "num": 19536,
+        "word": "画师 LGD",
+        "onboard_time": 1672835914,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18670,
+        "num": 18670,
+        "word": "光与夜之恋",
+        "onboard_time": 1672858334,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18651,
+        "num": 18651,
+        "word": "宫胁咲良称赞Deft",
+        "onboard_time": 1672859294,
+        "rank": 33,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 17907,
+        "num": 17907,
+        "word": "TTG 上上签",
+        "onboard_time": 1672841615,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17588,
+        "num": 17588,
+        "word": "赵继伟怒骂裁判",
+        "onboard_time": 1672844253,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17514,
+        "num": 17514,
+        "word": "刘亦菲李现去有风的地方将在北美播出",
+        "onboard_time": 1672856355,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17256,
+        "num": 17256,
+        "word": "Hero 倒霉蛋子",
+        "onboard_time": 1672840773,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16921,
+        "num": 16921,
+        "word": "男子意外发现交通卡余额有172万",
+        "onboard_time": 1672832069,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16510,
+        "num": 16510,
+        "word": "张角",
+        "onboard_time": 1672846053,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16118,
+        "num": 16118,
+        "word": "巴黎全队列队欢迎梅西",
+        "onboard_time": 1672833393,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15388,
+        "num": 15388,
+        "word": "少年歌行",
+        "onboard_time": 1672848508,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14441,
+        "num": 15387,
+        "word": "2023KPL春季赛抽签之夜",
+        "onboard_time": 1672847729,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13928,
+        "num": 15368,
+        "word": "重庆6元一份的洋芋凉面",
+        "onboard_time": 1672837654,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 13745,
+        "num": 15353,
+        "word": "第一次吃席吃回本",
+        "onboard_time": 1672854977,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13586,
+        "num": 15347,
+        "word": "狼队北梦",
+        "onboard_time": 1672839095,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13529,
+        "num": 15327,
+        "word": "GOINGSEVENTEEN将3月1日回归",
+        "onboard_time": 1672850363,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13286,
+        "num": 15325,
+        "word": "蓝羽贺峻霖主持中国电影报道",
+        "onboard_time": 1672865052,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12711,
+        "num": 15310,
+        "word": "婴儿急需血透邻居驱车260公里献血",
+        "onboard_time": 1672865831,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 12108,
+        "num": 15290,
+        "word": "闽南农村流水席是什么样的",
+        "onboard_time": 1672842393,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#同心奋进新征程#"
+    }
+  }
+}
