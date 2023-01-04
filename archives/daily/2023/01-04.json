@@ -1,6 +1,6 @@
 {
   "startTime": 1672763163878,
-  "endTime": 1672800655296,
+  "endTime": 1672802385257,
   "band_list": [
     {
       "raw_hot": 3377569,
@@ -9,6 +9,14 @@
       "onboard_time": 1672789944,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2009049,
+      "num": 2009049,
+      "word": "顾嘉辉去世",
+      "onboard_time": 1672800084,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1760318,
@@ -27,6 +35,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1612798,
+      "num": 1612798,
+      "word": "天府可乐宣布破产",
+      "onboard_time": 1672799487,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1578422,
       "num": 501018,
       "word": "迪丽热巴方将起诉造谣者",
@@ -43,6 +59,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1086568,
+      "num": 1086568,
+      "word": "快递点老板跑路留下满屋空包裹",
+      "onboard_time": 1672798648,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1058297,
       "num": 474431,
       "word": "杭州不少人阳后出现妇科问题",
@@ -57,14 +81,6 @@
       "onboard_time": 1672758275,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 864780,
-      "num": 864780,
-      "word": "快递点老板跑路留下满屋空包裹",
-      "onboard_time": 1672798648,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 859802,
@@ -91,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 808803,
-      "num": 426695,
-      "word": "天府可乐宣布破产",
-      "onboard_time": 1672799487,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 781507,
       "num": 357403,
       "word": "江歌妈妈直播回应刘鑫长文",
@@ -107,12 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 723954,
-      "num": 423573,
-      "word": "顾嘉辉去世",
-      "onboard_time": 1672800084,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 711537,
+      "num": 520414,
+      "word": "情侣吵架女方不愿下车耽误俩小时",
+      "onboard_time": 1672800567,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 697401,
@@ -145,6 +153,14 @@
       "onboard_time": 1672790005,
       "rank": 8,
       "category": "财经,网红"
+    },
+    {
+      "raw_hot": 631621,
+      "num": 631621,
+      "word": "女子围炉煮茶3小时一氧化碳中毒",
+      "onboard_time": 1672800928,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609408,
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531607,
+      "num": 531607,
+      "word": "新冠引发的腹泻3天内可自行缓解",
+      "onboard_time": 1672799905,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521479,
       "num": 212805,
       "word": "江歌母亲回应刘鑫对赔偿款发起募捐",
@@ -201,6 +225,14 @@
       "onboard_time": 1672788500,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497994,
+      "num": 497994,
+      "word": "易烊千玺满江红有声角色视频",
+      "onboard_time": 1672800389,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 479653,
@@ -219,8 +251,8 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 468826,
-      "num": 468826,
+      "raw_hot": 472007,
+      "num": 472007,
       "word": "许红豆分手好干脆",
       "onboard_time": 1672797927,
       "rank": 9,
@@ -235,12 +267,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 429764,
+      "num": 429764,
+      "word": "云南边境毒贩抓捕现场画面",
+      "onboard_time": 1672799846,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428573,
       "num": 400195,
       "word": "刘亦菲的新剧状态",
       "onboard_time": 1672758752,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 426148,
+      "num": 426148,
+      "word": "唐嫣说我挺有综艺感的",
+      "onboard_time": 1672801950,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 422580,
@@ -323,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367409,
+      "num": 333017,
+      "word": "极限挑战宝藏行3定档官宣",
+      "onboard_time": 1672800266,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367145,
       "num": 367145,
       "word": "这届年轻人有多爱搞钱",
@@ -355,11 +411,27 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 349214,
+      "num": 349214,
+      "word": "新冠恢复期失眠怎么办",
+      "onboard_time": 1672799785,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326321,
       "num": 326321,
       "word": "鹅鸭杀 epl",
       "onboard_time": 1672755633,
       "rank": 7,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 323495,
+      "num": 323495,
+      "word": "鹅鸭杀最后亿把",
+      "onboard_time": 1672798707,
+      "rank": 20,
       "category": "游戏"
     },
     {
@@ -377,6 +449,14 @@
       "onboard_time": 1672759709,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 311790,
+      "num": 311790,
+      "word": "交换人生定档大年初一",
+      "onboard_time": 1672801831,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 304958,
@@ -403,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297231,
-      "num": 297231,
-      "word": "鹅鸭杀最后亿把",
-      "onboard_time": 1672798707,
-      "rank": 20,
-      "category": "游戏"
+      "raw_hot": 297183,
+      "num": 297183,
+      "word": "阳康后脑雾症状2到4周会逐渐恢复",
+      "onboard_time": 1672800928,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291709,
@@ -459,11 +539,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 267792,
-      "num": 267792,
-      "word": "易烊千玺满江红有声角色视频",
-      "onboard_time": 1672800389,
-      "rank": 23,
+      "raw_hot": 265795,
+      "num": 208187,
+      "word": "陈韵如也没听伍佰演唱会",
+      "onboard_time": 1672800628,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -483,20 +563,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257062,
+      "num": 257062,
+      "word": "车主把AED放车上还允许破窗使用",
+      "onboard_time": 1672799306,
+      "rank": 28,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 255029,
+      "num": 255029,
+      "word": "原来猫猫也会觉得孤独",
+      "onboard_time": 1672798166,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 253504,
       "num": 253504,
       "word": "甄子丹带领乔峰传主创集体换头像",
       "onboard_time": 1672799365,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 253372,
-      "num": 253372,
-      "word": "车主把AED放车上还允许破窗使用",
-      "onboard_time": 1672799306,
-      "rank": 28,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 238389,
@@ -523,12 +611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230640,
-      "num": 186209,
-      "word": "极限挑战宝藏行3定档官宣",
-      "onboard_time": 1672800266,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 222537,
+      "num": 222537,
+      "word": "姆巴佩评NBA现役前五",
+      "onboard_time": 1672801527,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 221806,
@@ -555,20 +643,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198314,
-      "num": 185094,
-      "word": "陈韵如也没听伍佰演唱会",
-      "onboard_time": 1672800628,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 195264,
-      "num": 195264,
-      "word": "新冠引发的腹泻3天内可自行缓解",
-      "onboard_time": 1672799905,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 201359,
+      "num": 201359,
+      "word": "张杰说自己是张社牛杰",
+      "onboard_time": 1672802247,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 193180,
@@ -579,12 +659,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190730,
-      "num": 190730,
-      "word": "云南边境毒贩抓捕现场画面",
-      "onboard_time": 1672799846,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 191430,
+      "num": 141496,
+      "word": "刘亦菲李现去有风的地方甜度",
+      "onboard_time": 1672802308,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 188538,
@@ -603,14 +683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 186924,
-      "num": 186924,
-      "word": "新冠恢复期失眠怎么办",
-      "onboard_time": 1672799785,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184272,
       "num": 184272,
       "word": "原神总收入超40亿美元",
@@ -625,14 +697,6 @@
       "onboard_time": 1672756474,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181629,
-      "num": 181629,
-      "word": "原来猫猫也会觉得孤独",
-      "onboard_time": 1672798166,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 180942,
@@ -739,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155375,
+      "num": 155375,
+      "word": "高福称看病要预约不能得病就排队",
+      "onboard_time": 1672801709,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155130,
       "num": 155130,
       "word": "西安铁路客服回应路虎开进站台接人",
@@ -769,6 +841,14 @@
       "onboard_time": 1672742488,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145901,
+      "num": 145901,
+      "word": "短期内大规模流行XBB变异株的可能性极低",
+      "onboard_time": 1672800749,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145469,
@@ -811,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128629,
+      "num": 128629,
+      "word": "Steam2022年度大奖",
+      "onboard_time": 1672802067,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124446,
       "num": 124446,
       "word": "笑点低的养不了这狗",
@@ -833,6 +921,14 @@
       "onboard_time": 1672787477,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 117243,
+      "num": 129717,
+      "word": "穿汉服滑雪如御剑飞行",
+      "onboard_time": 1672799425,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106417,
@@ -875,27 +971,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90975,
-      "num": 132082,
-      "word": "情侣吵架女方不愿下车耽误俩小时",
-      "onboard_time": 1672800567,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88329,
       "num": 93414,
       "word": "阳康后怎么避免二次感染",
       "onboard_time": 1672744953,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86301,
-      "num": 129717,
-      "word": "穿汉服滑雪如御剑飞行",
-      "onboard_time": 1672799425,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -972,7 +1052,7 @@
     },
     {
       "raw_hot": 13190,
-      "num": 1139867,
+      "num": 1709811,
       "word": "2022中国正能量",
       "onboard_time": 1672731209,
       "rank": 2,
