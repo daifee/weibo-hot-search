@@ -1,6 +1,6 @@
 {
   "startTime": 1672763163878,
-  "endTime": 1672813373834,
+  "endTime": 1672814234324,
   "band_list": [
     {
       "raw_hot": 3727850,
@@ -83,7 +83,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1515762,
+      "raw_hot": 1535281,
       "num": 935647,
       "word": "万柳书院少爷直播唱歌",
       "onboard_time": 1672808854,
@@ -97,6 +97,14 @@
       "onboard_time": 1672793670,
       "rank": 4,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 1141349,
+      "num": 473302,
+      "word": "网友三亚偶遇孙怡",
+      "onboard_time": 1672813589,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1086568,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570642,
+      "num": 570642,
+      "word": "女孩子的脚到底能有多冷",
+      "onboard_time": 1672810409,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 564684,
       "num": 564684,
       "word": "王嘉尔最近在追的TVB剧集",
@@ -387,20 +403,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 486808,
-      "num": 486808,
-      "word": "女孩子的脚到底能有多冷",
-      "onboard_time": 1672810409,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 486706,
-      "num": 460725,
+      "num": 478334,
       "word": "被大学生自制女团惊艳到了",
       "onboard_time": 1672810109,
       "rank": 30,
       "category": "情感,音乐"
+    },
+    {
+      "raw_hot": 484194,
+      "num": 484194,
+      "word": "专家称原神展现出中国的高现代化水准",
+      "onboard_time": 1672811607,
+      "rank": 15,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 479653,
@@ -433,6 +449,14 @@
       "onboard_time": 1672797927,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 458850,
+      "num": 458850,
+      "word": "赵丽颖林更新聚餐照",
+      "onboard_time": 1672812209,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 449617,
@@ -473,6 +497,14 @@
       "onboard_time": 1672758752,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 427645,
+      "num": 427645,
+      "word": "母子赏雪被困找到时2岁娃已失温",
+      "onboard_time": 1672813169,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422580,
@@ -531,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 390245,
-      "num": 390245,
-      "word": "赵丽颖林更新聚餐照",
-      "onboard_time": 1672812209,
-      "rank": 12,
-      "category": "作品衍生"
+      "raw_hot": 388534,
+      "num": 388534,
+      "word": "疑情侣迪士尼插队男子制止遭抓伤",
+      "onboard_time": 1672812689,
+      "rank": 36,
+      "category": "社会负面"
     },
     {
       "raw_hot": 384107,
@@ -667,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344800,
-      "num": 344800,
-      "word": "专家称原神展现出中国的高现代化水准",
-      "onboard_time": 1672811607,
-      "rank": 15,
-      "category": "游戏,社会新闻"
-    },
-    {
       "raw_hot": 326321,
       "num": 326321,
       "word": "鹅鸭杀 epl",
@@ -715,20 +739,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312378,
+      "num": 289209,
+      "word": "陈哲远做过深圳校服模特",
+      "onboard_time": 1672811970,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 312216,
       "num": 312216,
       "word": "鹅鸭杀组成KPL团建",
       "onboard_time": 1672759709,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 308017,
-      "num": 137881,
-      "word": "陈哲远做过深圳校服模特",
-      "onboard_time": 1672811970,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 304958,
@@ -1019,12 +1043,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190508,
+      "num": 139306,
+      "word": "内娱老歌翻唱封神舞台",
+      "onboard_time": 1672813948,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 188538,
       "num": 174436,
       "word": "许红豆修好手机第一时间查看陈南星的语音",
       "onboard_time": 1672760729,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188361,
+      "num": 159153,
+      "word": "新冠月子",
+      "onboard_time": 1672813708,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188073,
@@ -1187,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155933,
+      "num": 155933,
+      "word": "没有手机玩的爷爷都在想什么",
+      "onboard_time": 1672811249,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155130,
       "num": 155130,
       "word": "西安铁路客服回应路虎开进站台接人",
@@ -1259,20 +1307,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140554,
+      "num": 140554,
+      "word": "齐司礼",
+      "onboard_time": 1672813766,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138567,
       "num": 138567,
       "word": "关于XBB的7个高频问答",
       "onboard_time": 1672796907,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137287,
-      "num": 137287,
-      "word": "疑情侣迪士尼插队男子制止遭抓伤",
-      "onboard_time": 1672812689,
-      "rank": 36,
-      "category": "社会负面"
     },
     {
       "raw_hot": 135757,
@@ -1331,20 +1379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111671,
-      "num": 136851,
-      "word": "母子赏雪被困找到时2岁娃已失温",
-      "onboard_time": 1672813169,
-      "rank": 39,
+      "raw_hot": 113550,
+      "num": 138605,
+      "word": "9岁重孙为91岁太爷爷换尿不湿擦身体",
+      "onboard_time": 1672813468,
+      "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106920,
-      "num": 136156,
-      "word": "没有手机玩的爷爷都在想什么",
-      "onboard_time": 1672811249,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 106417,
@@ -1353,6 +1393,14 @@
       "onboard_time": 1672748309,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96730,
+      "num": 137697,
+      "word": "为什么阳性和阳康暂不能做医美",
+      "onboard_time": 1672813530,
+      "rank": 44,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 95511,
@@ -1377,6 +1425,14 @@
       "onboard_time": 1672755695,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91651,
+      "num": 136484,
+      "word": "小兔子灯笼折叠画",
+      "onboard_time": 1672814128,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 91184,
