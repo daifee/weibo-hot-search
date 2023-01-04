@@ -1,0 +1,410 @@
+{
+  "runTime": 1672803228278,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2835911,
+        "num": 2835911,
+        "word": "调休",
+        "onboard_time": 1672789944,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1936460,
+        "num": 1936460,
+        "word": "顾嘉辉去世",
+        "onboard_time": 1672800084,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160780,
+        "num": 1789373,
+        "word": "XBB.1.5七问七答",
+        "onboard_time": 1672802790,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1764901,
+        "num": 1764901,
+        "word": "天府可乐宣布破产",
+        "onboard_time": 1672799487,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1021058,
+        "num": 1021058,
+        "word": "快递点老板跑路留下满屋空包裹",
+        "onboard_time": 1672798648,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858104,
+        "num": 858104,
+        "word": "情侣吵架女方不愿下车耽误俩小时",
+        "onboard_time": 1672800567,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831879,
+        "num": 831879,
+        "word": "女子围炉煮茶3小时一氧化碳中毒",
+        "onboard_time": 1672800928,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812374,
+        "num": 812374,
+        "word": "安悦溪回应王梓薇以爱为营被换角",
+        "onboard_time": 1672795768,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 586638,
+        "num": 586638,
+        "word": "唐嫣说我挺有综艺感的",
+        "onboard_time": 1672801950,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 560780,
+        "num": 560780,
+        "word": "新冠引发的腹泻3天内可自行缓解",
+        "onboard_time": 1672799905,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479283,
+        "num": 479283,
+        "word": "张杰说自己是张社牛杰",
+        "onboard_time": 1672802247,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456357,
+        "num": 456357,
+        "word": "如果上4天半班你会搞副业吗",
+        "onboard_time": 1672793670,
+        "rank": 11,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 435483,
+        "num": 435483,
+        "word": "云南边境毒贩抓捕现场画面",
+        "onboard_time": 1672799846,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431637,
+        "num": 431637,
+        "word": "阳康后脑雾症状2到4周会逐渐恢复",
+        "onboard_time": 1672800928,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421420,
+        "num": 421420,
+        "word": "许红豆分手好干脆",
+        "onboard_time": 1672797927,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413431,
+        "num": 413431,
+        "word": "姆巴佩评NBA现役前五",
+        "onboard_time": 1672801527,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412569,
+        "num": 412569,
+        "word": "去有风的地方有姚安娜",
+        "onboard_time": 1672795588,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406146,
+        "num": 406146,
+        "word": "12岁男孩身高1米9爸爸站桌上测量",
+        "onboard_time": 1672795228,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399883,
+        "num": 399883,
+        "word": "丈夫开车辗轧妻子致死案将开庭",
+        "onboard_time": 1672768156,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 337536,
+        "num": 337536,
+        "word": "新冠恢复期失眠怎么办",
+        "onboard_time": 1672799785,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407344,
+        "num": 334900,
+        "word": "易烊千玺满江红有声角色视频",
+        "onboard_time": 1672800389,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396576,
+        "num": 332873,
+        "word": "谢之遥比韩商言有钱",
+        "onboard_time": 1672802971,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370304,
+        "num": 331164,
+        "word": "交换人生定档大年初一",
+        "onboard_time": 1672801831,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328306,
+        "num": 328306,
+        "word": "才知道眼镜布不是擦眼镜的",
+        "onboard_time": 1672794749,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281629,
+        "num": 281629,
+        "word": "XBB会在我国引起新一轮流行吗",
+        "onboard_time": 1672755152,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269723,
+        "num": 269723,
+        "word": "鹅鸭杀最后亿把",
+        "onboard_time": 1672798707,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225544,
+        "num": 225544,
+        "word": "原来猫猫也会觉得孤独",
+        "onboard_time": 1672798166,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 221411,
+        "num": 221411,
+        "word": "车主把AED放车上还允许破窗使用",
+        "onboard_time": 1672799306,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 210764,
+        "num": 210764,
+        "word": "高福称看病要预约不能得病就排队",
+        "onboard_time": 1672801709,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204522,
+        "num": 204522,
+        "word": "Steam2022年度大奖",
+        "onboard_time": 1672802067,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 308893,
+        "num": 202520,
+        "word": "我们的客栈合伙人官宣",
+        "onboard_time": 1672799487,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353617,
+        "num": 198339,
+        "word": "贾玲说过年看张小斐嘎嘎笑",
+        "onboard_time": 1672802490,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331742,
+        "num": 193448,
+        "word": "女生吃学校食堂热卤发现香菇上有字",
+        "onboard_time": 1672802490,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288104,
+        "num": 190206,
+        "word": "极限挑战宝藏行3定档官宣",
+        "onboard_time": 1672800266,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229762,
+        "num": 186268,
+        "word": "横店影视城说庆余年2快了",
+        "onboard_time": 1672797746,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226417,
+        "num": 182629,
+        "word": "刘亦菲李现去有风的地方甜度",
+        "onboard_time": 1672802308,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181528,
+        "num": 181528,
+        "word": "专家回应感染XBB1.5会大便失禁传言",
+        "onboard_time": 1672792289,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176745,
+        "num": 176745,
+        "word": "狗子感受到人类胎动歪头惊出飞机耳",
+        "onboard_time": 1672788921,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166837,
+        "num": 166837,
+        "word": "C罗说在欧洲的工作已经完成",
+        "onboard_time": 1672795107,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147266,
+        "num": 147266,
+        "word": "两只雪豹元旦溜进军营偷鸡",
+        "onboard_time": 1672792949,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223639,
+        "num": 145262,
+        "word": "迪丽热巴方将起诉造谣者",
+        "onboard_time": 1672759591,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141593,
+        "num": 141593,
+        "word": "8岁女童意外烧伤毁容手指截肢",
+        "onboard_time": 1672802611,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170797,
+        "num": 141407,
+        "word": "医生反复3次发烧依然坚持坐诊",
+        "onboard_time": 1672788500,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140793,
+        "num": 140793,
+        "word": "北京协和医院新冠病毒基层诊疗方案建议",
+        "onboard_time": 1672792769,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137991,
+        "num": 137991,
+        "word": "短期内大规模流行XBB变异株的可能性极低",
+        "onboard_time": 1672800749,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128862,
+        "num": 128862,
+        "word": "原神总收入超40亿美元",
+        "onboard_time": 1672782491,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126406,
+        "num": 126406,
+        "word": "C罗亮相利雅得胜利",
+        "onboard_time": 1672788439,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113019,
+        "num": 113019,
+        "word": "中国宽带网速位居全球第六",
+        "onboard_time": 1672802670,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 11032,
+        "num": 102149,
+        "word": "2022中国正能量",
+        "onboard_time": 1672731209,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101603,
+        "num": 101603,
+        "word": "穿汉服滑雪如御剑飞行",
+        "onboard_time": 1672799425,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023用奋斗为新年起笔#"
+    }
+  }
+}
