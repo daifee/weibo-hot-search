@@ -1,7 +1,23 @@
 {
   "startTime": 1672763163878,
-  "endTime": 1672788815836,
+  "endTime": 1672796049401,
   "band_list": [
+    {
+      "raw_hot": 3377569,
+      "num": 3377569,
+      "word": "调休",
+      "onboard_time": 1672789944,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1647689,
+      "num": 1126151,
+      "word": "为何调休取消不了",
+      "onboard_time": 1672794151,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1578422,
       "num": 501018,
@@ -11,8 +27,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1219728,
+      "num": 1219728,
+      "word": "安悦溪回应王梓薇以爱为营被换角",
+      "onboard_time": 1672795768,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1094117,
+      "num": 1094117,
+      "word": "如果上4天半班你会搞副业吗",
+      "onboard_time": 1672793670,
+      "rank": 4,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 1058297,
-      "num": 469192,
+      "num": 474431,
       "word": "杭州不少人阳后出现妇科问题",
       "onboard_time": 1672752871,
       "rank": 4,
@@ -35,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 788143,
-      "num": 788143,
+      "raw_hot": 831129,
+      "num": 831129,
       "word": "XBB会在我国引起新一轮流行吗",
       "onboard_time": 1672755152,
       "rank": 1,
@@ -44,27 +76,59 @@
     },
     {
       "raw_hot": 781507,
-      "num": 284904,
+      "num": 357403,
       "word": "江歌妈妈直播回应刘鑫长文",
       "onboard_time": 1672758514,
       "rank": 11,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 697401,
+      "num": 697401,
+      "word": "专家回应感染XBB1.5会大便失禁传言",
+      "onboard_time": 1672792289,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 694918,
+      "num": 694918,
+      "word": "丈夫开车辗轧妻子致死案将开庭",
+      "onboard_time": 1672768156,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 634000,
+      "num": 634000,
+      "word": "灰太狼的羊被多方抢注商标",
+      "onboard_time": 1672790005,
+      "rank": 8,
+      "category": "财经,网红"
+    },
+    {
       "raw_hot": 609408,
-      "num": 221054,
+      "num": 279262,
       "word": "刘鑫",
       "onboard_time": 1672741528,
       "rank": 20,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 577054,
-      "num": 301658,
-      "word": "丈夫开车辗轧妻子致死案将开庭",
-      "onboard_time": 1672768156,
+      "raw_hot": 577235,
+      "num": 577235,
+      "word": "狗子感受到人类胎动歪头惊出飞机耳",
+      "onboard_time": 1672788921,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553632,
+      "num": 553632,
+      "word": "1月21日至27日放假调休",
+      "onboard_time": 1672790184,
       "rank": 10,
-      "category": "社会负面"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521479,
@@ -75,12 +139,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505516,
+      "num": 505516,
+      "word": "北京协和医院新冠病毒基层诊疗方案建议",
+      "onboard_time": 1672792769,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500255,
+      "num": 500255,
+      "word": "医生反复3次发烧依然坚持坐诊",
+      "onboard_time": 1672788500,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479653,
       "num": 338111,
       "word": "北京协和医院建议新冠治疗前先临床分型",
       "onboard_time": 1672761509,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476806,
+      "num": 476806,
+      "word": "苹果市值一夜蒸发约5345亿元",
+      "onboard_time": 1672791390,
+      "rank": 13,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 431106,
@@ -97,6 +185,22 @@
       "onboard_time": 1672758752,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 422580,
+      "num": 422580,
+      "word": "刘亦菲李现去有风的地方首播收视率",
+      "onboard_time": 1672770434,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 413444,
+      "num": 413444,
+      "word": "多名男子持械打砸超市",
+      "onboard_time": 1672791268,
+      "rank": 16,
+      "category": "社会负面"
     },
     {
       "raw_hot": 412085,
@@ -124,10 +228,34 @@
     },
     {
       "raw_hot": 384107,
-      "num": 208413,
+      "num": 255455,
       "word": "吴倩新剧 刀我",
       "onboard_time": 1672752691,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 370718,
+      "num": 370718,
+      "word": "网友用白敬亭的人形立牌挂菜",
+      "onboard_time": 1672790727,
+      "rank": 17,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 360705,
+      "num": 360705,
+      "word": "C罗亮相利雅得胜利",
+      "onboard_time": 1672788439,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 360176,
+      "num": 360176,
+      "word": "黑暗荣耀 校园霸凌",
+      "onboard_time": 1672791747,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -195,12 +323,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 286260,
+      "num": 286260,
+      "word": "两只雪豹元旦溜进军营偷鸡",
+      "onboard_time": 1672792949,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283838,
-      "num": 177996,
+      "num": 223442,
       "word": "青山刚昌说新一要出手了",
       "onboard_time": 1672762048,
       "rank": 31,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 280894,
+      "num": 280894,
+      "word": "还有蛋糕不能模仿的东西吗",
+      "onboard_time": 1672792471,
+      "rank": 23,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 280084,
@@ -219,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265808,
+      "num": 265808,
+      "word": "C罗说在欧洲的工作已经完成",
+      "onboard_time": 1672795107,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260706,
       "num": 231330,
       "word": "老丈人酒后给女婿表演铁头功碎砖头",
@@ -232,6 +384,14 @@
       "word": "大G被撞却为节省时间认全责",
       "onboard_time": 1672746393,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259585,
+      "num": 216107,
+      "word": "12岁男孩身高1米9爸爸站桌上测量",
+      "onboard_time": 1672795228,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -267,6 +427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220072,
+      "num": 220072,
+      "word": "才知道眼镜布不是擦眼镜的",
+      "onboard_time": 1672794749,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 219811,
+      "num": 219811,
+      "word": "去有风的地方有姚安娜",
+      "onboard_time": 1672795588,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205808,
       "num": 174545,
       "word": "王鹤棣搂陈钰琪看剧本花絮",
@@ -289,6 +465,14 @@
       "onboard_time": 1672755274,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184272,
+      "num": 184272,
+      "word": "原神总收入超40亿美元",
+      "onboard_time": 1672782491,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 183286,
@@ -347,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170414,
+      "num": 170414,
+      "word": "C罗亮相仪式氛围感拉满",
+      "onboard_time": 1672791808,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169298,
       "num": 120027,
       "word": "肖铎对步音楼说你居然家暴我",
@@ -379,12 +571,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151150,
-      "num": 151150,
-      "word": "原神总收入超40亿美元",
-      "onboard_time": 1672782491,
-      "rank": 25,
-      "category": "游戏"
+      "raw_hot": 150094,
+      "num": 150094,
+      "word": "陈国恩offer还没录完就在面试新工作",
+      "onboard_time": 1672775532,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147949,
+      "num": 147949,
+      "word": "XBB.1.5是否会攻击人的肠道",
+      "onboard_time": 1672793010,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147374,
@@ -411,6 +611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129191,
+      "num": 129191,
+      "word": "曼联3比0伯恩茅斯",
+      "onboard_time": 1672794087,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124446,
       "num": 124446,
       "word": "笑点低的养不了这狗",
@@ -433,22 +641,6 @@
       "onboard_time": 1672787477,
       "rank": 43,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 122100,
-      "num": 122100,
-      "word": "C罗亮相利雅得胜利",
-      "onboard_time": 1672788439,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 119504,
-      "num": 119504,
-      "word": "刘亦菲李现去有风的地方首播收视率",
-      "onboard_time": 1672770434,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 106417,
@@ -505,22 +697,6 @@
       "onboard_time": 1672750353,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 73112,
-      "num": 73112,
-      "word": "陈国恩offer还没录完就在面试新工作",
-      "onboard_time": 1672775532,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 69808,
-      "num": 69808,
-      "word": "医生反复3次发烧依然坚持坐诊",
-      "onboard_time": 1672788500,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57294,
@@ -587,8 +763,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 5121,
-      "num": 519016,
+      "raw_hot": 13190,
+      "num": 1139867,
       "word": "2022中国正能量",
       "onboard_time": 1672731209,
       "rank": 2,

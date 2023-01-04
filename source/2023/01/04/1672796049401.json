@@ -1,0 +1,410 @@
+{
+  "runTime": 1672796049401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3377569,
+        "num": 3377569,
+        "word": "调休",
+        "onboard_time": 1672789944,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219728,
+        "num": 1219728,
+        "word": "安悦溪回应王梓薇以爱为营被换角",
+        "onboard_time": 1672795768,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13190,
+        "num": 1139867,
+        "word": "2022中国正能量",
+        "onboard_time": 1672731209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1647689,
+        "num": 1126151,
+        "word": "为何调休取消不了",
+        "onboard_time": 1672794151,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1094117,
+        "num": 1094117,
+        "word": "如果上4天半班你会搞副业吗",
+        "onboard_time": 1672793670,
+        "rank": 4,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 831129,
+        "num": 831129,
+        "word": "XBB会在我国引起新一轮流行吗",
+        "onboard_time": 1672755152,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697401,
+        "num": 697401,
+        "word": "专家回应感染XBB1.5会大便失禁传言",
+        "onboard_time": 1672792289,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694918,
+        "num": 694918,
+        "word": "丈夫开车辗轧妻子致死案将开庭",
+        "onboard_time": 1672768156,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 634000,
+        "num": 634000,
+        "word": "灰太狼的羊被多方抢注商标",
+        "onboard_time": 1672790005,
+        "rank": 8,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 577235,
+        "num": 577235,
+        "word": "狗子感受到人类胎动歪头惊出飞机耳",
+        "onboard_time": 1672788921,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553632,
+        "num": 553632,
+        "word": "1月21日至27日放假调休",
+        "onboard_time": 1672790184,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505516,
+        "num": 505516,
+        "word": "北京协和医院新冠病毒基层诊疗方案建议",
+        "onboard_time": 1672792769,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500255,
+        "num": 500255,
+        "word": "医生反复3次发烧依然坚持坐诊",
+        "onboard_time": 1672788500,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476806,
+        "num": 476806,
+        "word": "苹果市值一夜蒸发约5345亿元",
+        "onboard_time": 1672791390,
+        "rank": 13,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 474431,
+        "num": 474431,
+        "word": "杭州不少人阳后出现妇科问题",
+        "onboard_time": 1672752871,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422580,
+        "num": 422580,
+        "word": "刘亦菲李现去有风的地方首播收视率",
+        "onboard_time": 1672770434,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413444,
+        "num": 413444,
+        "word": "多名男子持械打砸超市",
+        "onboard_time": 1672791268,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 370718,
+        "num": 370718,
+        "word": "网友用白敬亭的人形立牌挂菜",
+        "onboard_time": 1672790727,
+        "rank": 17,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 360705,
+        "num": 360705,
+        "word": "C罗亮相利雅得胜利",
+        "onboard_time": 1672788439,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360176,
+        "num": 360176,
+        "word": "黑暗荣耀 校园霸凌",
+        "onboard_time": 1672791747,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 461689,
+        "num": 357403,
+        "word": "江歌妈妈直播回应刘鑫长文",
+        "onboard_time": 1672758514,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336641,
+        "num": 336641,
+        "word": "迪丽热巴方将起诉造谣者",
+        "onboard_time": 1672759591,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286260,
+        "num": 286260,
+        "word": "两只雪豹元旦溜进军营偷鸡",
+        "onboard_time": 1672792949,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280894,
+        "num": 280894,
+        "word": "还有蛋糕不能模仿的东西吗",
+        "onboard_time": 1672792471,
+        "rank": 23,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 279262,
+        "num": 279262,
+        "word": "刘鑫",
+        "onboard_time": 1672741528,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265808,
+        "num": 265808,
+        "word": "C罗说在欧洲的工作已经完成",
+        "onboard_time": 1672795107,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255455,
+        "num": 255455,
+        "word": "吴倩新剧 刀我",
+        "onboard_time": 1672752691,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223442,
+        "num": 223442,
+        "word": "青山刚昌说新一要出手了",
+        "onboard_time": 1672762048,
+        "rank": 27,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 220072,
+        "num": 220072,
+        "word": "才知道眼镜布不是擦眼镜的",
+        "onboard_time": 1672794749,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219811,
+        "num": 219811,
+        "word": "去有风的地方有姚安娜",
+        "onboard_time": 1672795588,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259585,
+        "num": 216107,
+        "word": "12岁男孩身高1米9爸爸站桌上测量",
+        "onboard_time": 1672795228,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197661,
+        "num": 197661,
+        "word": "专家回应阳康之后多久可以备孕",
+        "onboard_time": 1672785133,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197337,
+        "num": 197337,
+        "word": "小猫送走全部观赏鱼霸占鱼缸睡觉",
+        "onboard_time": 1672770555,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194522,
+        "num": 194522,
+        "word": "江歌母亲回应刘鑫对赔偿款发起募捐",
+        "onboard_time": 1672742789,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185873,
+        "num": 185873,
+        "word": "张婉婷 情绪",
+        "onboard_time": 1672752691,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184272,
+        "num": 184272,
+        "word": "原神总收入超40亿美元",
+        "onboard_time": 1672782491,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180054,
+        "num": 180054,
+        "word": "曾轶可 打碟",
+        "onboard_time": 1672749572,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177759,
+        "num": 177759,
+        "word": "女子称有阿姨每天狂敲门碰瓷",
+        "onboard_time": 1672758752,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 177344,
+        "num": 177344,
+        "word": "网传王一博李沁长风破浪1月初开机",
+        "onboard_time": 1672758275,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170414,
+        "num": 170414,
+        "word": "C罗亮相仪式氛围感拉满",
+        "onboard_time": 1672791808,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168851,
+        "num": 168851,
+        "word": "当事人回应发朋友圈致蒙脱石散脱销",
+        "onboard_time": 1672750770,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162152,
+        "num": 162152,
+        "word": "新冠风暴下的妇产科",
+        "onboard_time": 1672750654,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160471,
+        "num": 160471,
+        "word": "胡歌我的四十没有不惑",
+        "onboard_time": 1672757910,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151035,
+        "num": 151035,
+        "word": "教育局回应老师让学生投屏聊天记录",
+        "onboard_time": 1672753170,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 150094,
+        "num": 150094,
+        "word": "陈国恩offer还没录完就在面试新工作",
+        "onboard_time": 1672775532,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147949,
+        "num": 147949,
+        "word": "XBB.1.5是否会攻击人的肠道",
+        "onboard_time": 1672793010,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144226,
+        "num": 144226,
+        "word": "北京一女子带娃嫁头婚老公",
+        "onboard_time": 1672752091,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130734,
+        "num": 130734,
+        "word": "2分钟了解XBB毒株",
+        "onboard_time": 1672761150,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129191,
+        "num": 129191,
+        "word": "曼联3比0伯恩茅斯",
+        "onboard_time": 1672794087,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127701,
+        "num": 127701,
+        "word": "酒店藏针孔摄像头偷拍大量情侣视频",
+        "onboard_time": 1672745433,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这个元旦既是迎新也是回归#"
+    }
+  }
+}
