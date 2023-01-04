@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672841911523,
+  "endTime": 1672842956385,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -899,6 +899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 873999,
+      "num": 873999,
+      "word": "句句不写穷 句句都是穷",
+      "onboard_time": 1672840352,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 865249,
       "num": 865249,
       "word": "100万房贷一年可省2000多元",
@@ -1547,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 597212,
-      "num": 528242,
-      "word": "句句不写穷 句句都是穷",
-      "onboard_time": 1672840352,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 594526,
       "num": 594526,
       "word": "明星刚出道时有多惊艳",
@@ -1595,6 +1595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 588931,
+      "num": 588931,
+      "word": "重庆6元一份的洋芋凉面",
+      "onboard_time": 1672837654,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 587834,
       "num": 587834,
       "word": "鹅鸭杀发文感谢中国玩家",
@@ -1633,14 +1641,6 @@
       "onboard_time": 1672717829,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 580629,
-      "num": 580629,
-      "word": "重庆6元一份的洋芋凉面",
-      "onboard_time": 1672837654,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 580613,
@@ -1833,6 +1833,14 @@
       "onboard_time": 1672670553,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 541323,
+      "num": 541323,
+      "word": "恋爱真的需要发朋友圈吗",
+      "onboard_time": 1672841075,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 539249,
@@ -2441,6 +2449,14 @@
       "onboard_time": 1672703423,
       "rank": 8,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 430271,
+      "num": 430271,
+      "word": "村民办丧事房屋起火损失百万",
+      "onboard_time": 1672838015,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 428888,
@@ -3219,6 +3235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343806,
+      "num": 220496,
+      "word": "湖北新冠流行毒株仍以BA.5.2为主",
+      "onboard_time": 1672841736,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343224,
       "num": 343224,
       "word": "南宁院方回应通知错死亡对象",
@@ -3523,6 +3547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 311881,
+      "num": 311881,
+      "word": "TTG 上上签",
+      "onboard_time": 1672841615,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 311293,
       "num": 311293,
       "word": "李现的新年愿望是待播戏全播",
@@ -3601,6 +3633,14 @@
       "onboard_time": 1672636470,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302262,
+      "num": 213875,
+      "word": "李宏毅什么时候倒立洗头",
+      "onboard_time": 1672840832,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 302168,
@@ -4060,7 +4100,7 @@
     },
     {
       "raw_hot": 272114,
-      "num": 197359,
+      "num": 207825,
       "word": "去有风的地方 亲情",
       "onboard_time": 1672839932,
       "rank": 32,
@@ -4163,14 +4203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266595,
-      "num": 266595,
-      "word": "村民办丧事房屋起火损失百万",
-      "onboard_time": 1672838015,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266133,
       "num": 266133,
       "word": "王鹤棣陈钰琪摔跤变装视频",
@@ -4241,14 +4273,6 @@
       "onboard_time": 1672762344,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260028,
-      "num": 191115,
-      "word": "李宏毅什么时候倒立洗头",
-      "onboard_time": 1672840832,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 259818,
@@ -4371,6 +4395,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 254912,
+      "num": 201013,
+      "word": "黑暗荣耀第二季搞快点",
+      "onboard_time": 1672841736,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254255,
       "num": 180305,
       "word": "贺峻霖在微电影里主持春晚",
@@ -4417,6 +4449,14 @@
       "onboard_time": 1672631249,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251468,
+      "num": 148979,
+      "word": "你老了愿意和子女住吗",
+      "onboard_time": 1672842333,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 251455,
@@ -4737,14 +4777,6 @@
       "onboard_time": 1672667853,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 229887,
-      "num": 229887,
-      "word": "恋爱真的需要发朋友圈吗",
-      "onboard_time": 1672841075,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 227905,
@@ -5755,6 +5787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176746,
+      "num": 176746,
+      "word": "闽南农村流水席是什么样的",
+      "onboard_time": 1672842393,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 176429,
       "num": 134206,
       "word": "杨幂卷发光影花絮图",
@@ -5817,14 +5857,6 @@
       "onboard_time": 1672713147,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 171965,
-      "num": 171965,
-      "word": "TTG 上上签",
-      "onboard_time": 1672841615,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 171685,
@@ -5977,14 +6009,6 @@
       "onboard_time": 1672589247,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165816,
-      "num": 165816,
-      "word": "湖北新冠流行毒株仍以BA.5.2为主",
-      "onboard_time": 1672841736,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164972,
@@ -6683,6 +6707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129457,
+      "num": 129457,
+      "word": "航拍视角下非遗打铁花有多惊艳",
+      "onboard_time": 1672842693,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 129191,
       "num": 129191,
       "word": "曼联3比0伯恩茅斯",
@@ -6977,6 +7009,22 @@
       "onboard_time": 1672572093,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 114125,
+      "num": 114125,
+      "word": "我2023年的目标",
+      "onboard_time": 1672842932,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 113596,
+      "num": 113596,
+      "word": "世界100座高桥有51座在贵州",
+      "onboard_time": 1672842032,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 111249,
