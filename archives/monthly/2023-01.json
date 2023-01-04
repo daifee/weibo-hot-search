@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672838669563,
+  "endTime": 1672839359398,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -563,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1480082,
+      "num": 1480082,
+      "word": "女子跨年夜中1000万后悔跟孩子说",
+      "onboard_time": 1672835914,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1476554,
       "num": 1476554,
       "word": "电影深海定档大年初一",
@@ -649,14 +657,6 @@
       "onboard_time": 1672642766,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1369706,
-      "num": 1369706,
-      "word": "女子跨年夜中1000万后悔跟孩子说",
-      "onboard_time": 1672835914,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1368160,
@@ -793,6 +793,14 @@
       "onboard_time": 1672515314,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1211028,
+      "num": 1211028,
+      "word": "贺峻霖介绍易烊千玺满江红",
+      "onboard_time": 1672836994,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1206520,
@@ -995,14 +1003,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1050961,
-      "num": 1050961,
-      "word": "贺峻霖介绍易烊千玺满江红",
-      "onboard_time": 1672836994,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1041827,
       "num": 1041827,
       "word": "上海迪士尼新年特别版烟花秀",
@@ -1104,6 +1104,14 @@
       "word": "大爷摔倒躺藕田2天2夜才被发现",
       "onboard_time": 1672726588,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 985239,
+      "num": 985239,
+      "word": "开封失联多日16岁女孩已找到",
+      "onboard_time": 1672835312,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1361,14 +1369,6 @@
       "onboard_time": 1672713326,
       "rank": 47,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 864119,
-      "num": 864119,
-      "word": "开封失联多日16岁女孩已找到",
-      "onboard_time": 1672835312,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 859802,
@@ -2083,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 642024,
+      "num": 642024,
+      "word": "感染新冠会影响记忆力吗",
+      "onboard_time": 1672834595,
+      "rank": 26,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 639501,
       "num": 639501,
       "word": "才知道眼镜布不是擦眼镜的",
@@ -2177,14 +2185,6 @@
       "onboard_time": 1672566328,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 620992,
-      "num": 620992,
-      "word": "感染新冠会影响记忆力吗",
-      "onboard_time": 1672834595,
-      "rank": 26,
-      "category": "社会议题"
     },
     {
       "raw_hot": 616384,
@@ -3883,6 +3883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 376941,
+      "num": 376941,
+      "word": "重庆6元一份的洋芋凉面",
+      "onboard_time": 1672837654,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 376824,
       "num": 714132,
       "word": "红包",
@@ -4137,6 +4145,14 @@
       "onboard_time": 1672807594,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359917,
+      "num": 359917,
+      "word": "狼队北梦",
+      "onboard_time": 1672839095,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 359558,
@@ -4683,6 +4699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316274,
+      "num": 316274,
+      "word": "妈妈吐槽儿子每天进门就刷鞋",
+      "onboard_time": 1672835611,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315914,
       "num": 315914,
       "word": "专家说感染新冠后脱发不是后遗症",
@@ -4713,6 +4737,22 @@
       "onboard_time": 1672634131,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 312773,
+      "num": 1177158,
+      "word": "如何看待XBB系列毒株",
+      "onboard_time": 1672836392,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312696,
+      "num": 312696,
+      "word": "徐志胜何广智说下届冠军是鸟鸟",
+      "onboard_time": 1672838494,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 312442,
@@ -4987,14 +5027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292742,
-      "num": 292742,
-      "word": "妈妈吐槽儿子每天进门就刷鞋",
-      "onboard_time": 1672835611,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291033,
       "num": 450372,
       "word": "马斯克财产缩水破人类记录",
@@ -5017,14 +5049,6 @@
       "onboard_time": 1672532725,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 289976,
-      "num": 1165439,
-      "word": "如何看待XBB系列毒株",
-      "onboard_time": 1672836392,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289946,
@@ -5121,6 +5145,14 @@
       "onboard_time": 1672756355,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285539,
+      "num": 285539,
+      "word": "向风而行",
+      "onboard_time": 1672579895,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 285473,
@@ -5555,14 +5587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266447,
-      "num": 254085,
-      "word": "向风而行",
-      "onboard_time": 1672579895,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 266133,
       "num": 266133,
       "word": "王鹤棣陈钰琪摔跤变装视频",
@@ -5667,12 +5691,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260019,
+      "num": 193316,
+      "word": "offer4建筑专家建议陈国恩考公",
+      "onboard_time": 1672839269,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259818,
       "num": 259818,
       "word": "眼神清澈的狗狗",
       "onboard_time": 1672637670,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 259720,
+      "num": 185632,
+      "word": "许红豆谢之遥传绯闻",
+      "onboard_time": 1672838733,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 259435,
@@ -6299,14 +6339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 228250,
-      "num": 186124,
-      "word": "重庆6元一份的洋芋凉面",
-      "onboard_time": 1672837654,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 227905,
       "num": 163972,
       "word": "程霄莫名其妙被冷落",
@@ -6457,6 +6489,14 @@
       "onboard_time": 1672547852,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220497,
+      "num": 220497,
+      "word": "KPL",
+      "onboard_time": 1672837175,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 220293,
@@ -7339,14 +7379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185258,
-      "num": 185258,
-      "word": "KPL",
-      "onboard_time": 1672837175,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 185133,
       "num": 184993,
       "word": "步音楼说肖铎就是喜欢我",
@@ -8001,6 +8033,14 @@
       "onboard_time": 1672796548,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160910,
+      "num": 160910,
+      "word": "筱秋",
+      "onboard_time": 1672838552,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 160298,
@@ -9107,14 +9147,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 115316,
-      "num": 115316,
-      "word": "筱秋",
-      "onboard_time": 1672838552,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 114776,
       "num": 114776,
       "word": "还要多久才能熬过这段最艰难时光",
@@ -9137,6 +9169,14 @@
       "onboard_time": 1672702217,
       "rank": 45,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 114308,
+      "num": 114308,
+      "word": "2023KPL选秀大会",
+      "onboard_time": 1672838494,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 114161,
@@ -9193,14 +9233,6 @@
       "onboard_time": 1672672832,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110357,
-      "num": 110357,
-      "word": "2023KPL选秀大会",
-      "onboard_time": 1672838494,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 110330,
