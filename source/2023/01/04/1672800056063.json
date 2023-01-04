@@ -1,0 +1,410 @@
+{
+  "runTime": 1672800056063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3247049,
+        "num": 3247049,
+        "word": "调休",
+        "onboard_time": 1672789944,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1041777,
+        "num": 1041777,
+        "word": "如果上4天半班你会搞副业吗",
+        "onboard_time": 1672793670,
+        "rank": 1,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 8092,
+        "num": 881347,
+        "word": "2022中国正能量",
+        "onboard_time": 1672731209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1196482,
+        "num": 874284,
+        "word": "安悦溪回应王梓薇以爱为营被换角",
+        "onboard_time": 1672795768,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 859802,
+        "num": 859802,
+        "word": "12岁男孩身高1米9爸爸站桌上测量",
+        "onboard_time": 1672795228,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639501,
+        "num": 639501,
+        "word": "才知道眼镜布不是擦眼镜的",
+        "onboard_time": 1672794749,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 603034,
+        "num": 603034,
+        "word": "快递点老板跑路留下满屋空包裹",
+        "onboard_time": 1672798648,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560520,
+        "num": 560520,
+        "word": "去有风的地方有姚安娜",
+        "onboard_time": 1672795588,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 497670,
+        "num": 497670,
+        "word": "丈夫开车辗轧妻子致死案将开庭",
+        "onboard_time": 1672768156,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 413856,
+        "num": 413856,
+        "word": "许红豆分手好干脆",
+        "onboard_time": 1672797927,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413449,
+        "num": 413449,
+        "word": "专家回应感染XBB1.5会大便失禁传言",
+        "onboard_time": 1672792289,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410774,
+        "num": 410774,
+        "word": "横店影视城说庆余年2快了",
+        "onboard_time": 1672797746,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387800,
+        "num": 387800,
+        "word": "北京协和医院新冠病毒基层诊疗方案建议",
+        "onboard_time": 1672792769,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383104,
+        "num": 383104,
+        "word": "XBB会在我国引起新一轮流行吗",
+        "onboard_time": 1672755152,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342373,
+        "num": 342373,
+        "word": "C罗说在欧洲的工作已经完成",
+        "onboard_time": 1672795107,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315406,
+        "num": 315406,
+        "word": "这届年轻人有多爱搞钱",
+        "onboard_time": 1672798587,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307554,
+        "num": 307554,
+        "word": "狗子感受到人类胎动歪头惊出飞机耳",
+        "onboard_time": 1672788921,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300626,
+        "num": 300626,
+        "word": "天府可乐宣布破产",
+        "onboard_time": 1672799487,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 288705,
+        "num": 288705,
+        "word": "医生反复3次发烧依然坚持坐诊",
+        "onboard_time": 1672788500,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284802,
+        "num": 284802,
+        "word": "迪丽热巴方将起诉造谣者",
+        "onboard_time": 1672759591,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254093,
+        "num": 254093,
+        "word": "鹅鸭杀最后亿把",
+        "onboard_time": 1672798707,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253504,
+        "num": 253504,
+        "word": "甄子丹带领乔峰传主创集体换头像",
+        "onboard_time": 1672799365,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250150,
+        "num": 250150,
+        "word": "我们的客栈合伙人官宣",
+        "onboard_time": 1672799487,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246869,
+        "num": 246869,
+        "word": "两只雪豹元旦溜进军营偷鸡",
+        "onboard_time": 1672792949,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213000,
+        "num": 213000,
+        "word": "苹果市值一夜蒸发约5345亿元",
+        "onboard_time": 1672791390,
+        "rank": 24,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 207978,
+        "num": 207978,
+        "word": "刘亦菲李现去有风的地方首播收视率",
+        "onboard_time": 1672770434,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206635,
+        "num": 206635,
+        "word": "黑暗荣耀 校园霸凌",
+        "onboard_time": 1672791747,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176759,
+        "num": 176759,
+        "word": "C罗亮相利雅得胜利",
+        "onboard_time": 1672788439,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172953,
+        "num": 172953,
+        "word": "车主把AED放车上还允许破窗使用",
+        "onboard_time": 1672799306,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 163719,
+        "num": 163719,
+        "word": "还有蛋糕不能模仿的东西吗",
+        "onboard_time": 1672792471,
+        "rank": 29,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 210094,
+        "num": 163503,
+        "word": "多名男子持械打砸超市",
+        "onboard_time": 1672791268,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 187525,
+        "num": 163245,
+        "word": "李宏毅说少年歌行热度破万倒立洗头",
+        "onboard_time": 1672799245,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186528,
+        "num": 162853,
+        "word": "金泰妍柳智敏预告照",
+        "onboard_time": 1672796186,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177189,
+        "num": 162103,
+        "word": "少年歌行热度破9000",
+        "onboard_time": 1672799966,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161996,
+        "num": 161996,
+        "word": "原神总收入超40亿美元",
+        "onboard_time": 1672782491,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144286,
+        "num": 144286,
+        "word": "青山刚昌说新一要出手了",
+        "onboard_time": 1672762048,
+        "rank": 35,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 137607,
+        "num": 137607,
+        "word": "女子称有阿姨每天狂敲门碰瓷",
+        "onboard_time": 1672758752,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 136361,
+        "num": 136361,
+        "word": "原来猫猫也会觉得孤独",
+        "onboard_time": 1672798166,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 118730,
+        "num": 118730,
+        "word": "云南边境毒贩抓捕现场画面",
+        "onboard_time": 1672799846,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116599,
+        "num": 116599,
+        "word": "酒店藏针孔摄像头偷拍大量情侣视频",
+        "onboard_time": 1672745433,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249485,
+        "num": 116377,
+        "word": "灰太狼的羊被多方抢注商标",
+        "onboard_time": 1672790005,
+        "rank": 40,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 226516,
+        "num": 116140,
+        "word": "杭州不少人阳后出现妇科问题",
+        "onboard_time": 1672752871,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140090,
+        "num": 115572,
+        "word": "吴倩新剧 刀我",
+        "onboard_time": 1672752691,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139115,
+        "num": 115083,
+        "word": "福王什么时候下线",
+        "onboard_time": 1672797149,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114950,
+        "num": 114950,
+        "word": "新冠引发的腹泻3天内可自行缓解",
+        "onboard_time": 1672799905,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113473,
+        "num": 113473,
+        "word": "教育局回应老师让学生投屏聊天记录",
+        "onboard_time": 1672753170,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 113142,
+        "num": 113142,
+        "word": "2分钟了解XBB毒株",
+        "onboard_time": 1672761150,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109967,
+        "num": 109967,
+        "word": "专家回应阳康之后多久可以备孕",
+        "onboard_time": 1672785133,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109449,
+        "num": 109449,
+        "word": "新冠恢复期失眠怎么办",
+        "onboard_time": 1672799785,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98178,
+        "num": 109250,
+        "word": "XBB.1.5是否会攻击人的肠道",
+        "onboard_time": 1672793010,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这个元旦既是迎新也是回归#"
+    }
+  }
+}
