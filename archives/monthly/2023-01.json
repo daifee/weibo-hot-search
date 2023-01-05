@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672957090944,
+  "endTime": 1672958007418,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -12643,6 +12643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66797,
+      "num": 59441,
+      "word": "男子点一份大盘鸡吃出11个鸡屁股",
+      "onboard_time": 1672950431,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66178,
       "num": 66178,
       "word": "首付比首套利率该降的都要降下来",
@@ -12681,14 +12689,6 @@
       "onboard_time": 1672870032,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 57610,
-      "num": 49415,
-      "word": "男子点一份大盘鸡吃出11个鸡屁股",
-      "onboard_time": 1672950431,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57125,
@@ -12745,6 +12745,14 @@
       "onboard_time": 1672516574,
       "rank": 37,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 49904,
+      "num": 28177,
+      "word": "男子穿婚纱扮新娘上台拥吻新郎",
+      "onboard_time": 1672956312,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48272,
@@ -12891,6 +12899,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 36157,
+      "num": 36157,
+      "word": "春运部分热门航线机票涨至全价",
+      "onboard_time": 1672953972,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 35583,
       "num": 149812,
       "word": "天猫直播是懂年货氛围的",
@@ -12931,6 +12947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31714,
+      "num": 31714,
+      "word": "为什么会对友情感到失望",
+      "onboard_time": 1672954512,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31336,
       "num": 36451,
       "word": "辽宁男篮战胜福建男篮",
@@ -12945,14 +12969,6 @@
       "onboard_time": 1672774152,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29933,
-      "num": 29933,
-      "word": "春运部分热门航线机票涨至全价",
-      "onboard_time": 1672953972,
-      "rank": 48,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 29896,
@@ -12979,12 +12995,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28049,
-      "num": 28049,
-      "word": "为什么会对友情感到失望",
-      "onboard_time": 1672954512,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 28411,
+      "num": 28102,
+      "word": "宋慧乔黑暗荣耀第二季定档0310",
+      "onboard_time": 1672950252,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 27523,
@@ -12995,6 +13011,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 26785,
+      "num": 26785,
+      "word": "顾南亭见程霄父亲",
+      "onboard_time": 1672956732,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 25772,
       "num": 125759,
       "word": "曼城1比1埃弗顿",
@@ -13003,28 +13027,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25482,
-      "num": 25482,
-      "word": "宋慧乔黑暗荣耀第二季定档0310",
-      "onboard_time": 1672950252,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 23756,
       "num": 147116,
       "word": "好运2023",
       "onboard_time": 1672567231,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 23098,
-      "num": 23098,
-      "word": "男子穿婚纱扮新娘上台拥吻新郎",
-      "onboard_time": 1672956312,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22817,
@@ -13041,14 +13049,6 @@
       "onboard_time": 1672664431,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 19977,
-      "num": 19977,
-      "word": "顾南亭见程霄父亲",
-      "onboard_time": 1672956732,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 19534,

@@ -1,6 +1,6 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1672957090944,
+  "endTime": 1672958007418,
   "band_list": [
     {
       "raw_hot": 1331655,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66797,
+      "num": 59441,
+      "word": "男子点一份大盘鸡吃出11个鸡屁股",
+      "onboard_time": 1672950431,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66178,
       "num": 66178,
       "word": "首付比首套利率该降的都要降下来",
@@ -521,14 +529,6 @@
       "onboard_time": 1672920811,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 57610,
-      "num": 49415,
-      "word": "男子点一份大盘鸡吃出11个鸡屁股",
-      "onboard_time": 1672950431,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50489,
@@ -547,6 +547,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49904,
+      "num": 28177,
+      "word": "男子穿婚纱扮新娘上台拥吻新郎",
+      "onboard_time": 1672956312,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36157,
+      "num": 36157,
+      "word": "春运部分热门航线机票涨至全价",
+      "onboard_time": 1672953972,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 34047,
       "num": 34047,
       "word": "真想做个能痛快翻篇儿的人呐",
@@ -555,27 +571,27 @@
       "category": "情感"
     },
     {
-      "raw_hot": 29933,
-      "num": 29933,
-      "word": "春运部分热门航线机票涨至全价",
-      "onboard_time": 1672953972,
-      "rank": 48,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 28049,
-      "num": 28049,
+      "raw_hot": 31714,
+      "num": 31714,
       "word": "为什么会对友情感到失望",
       "onboard_time": 1672954512,
       "rank": 26,
       "category": "情感"
     },
     {
-      "raw_hot": 25482,
-      "num": 25482,
+      "raw_hot": 28411,
+      "num": 28102,
       "word": "宋慧乔黑暗荣耀第二季定档0310",
       "onboard_time": 1672950252,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 26785,
+      "num": 26785,
+      "word": "顾南亭见程霄父亲",
+      "onboard_time": 1672956732,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -585,22 +601,6 @@
       "onboard_time": 1672917094,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 23098,
-      "num": 23098,
-      "word": "男子穿婚纱扮新娘上台拥吻新郎",
-      "onboard_time": 1672956312,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19977,
-      "num": 19977,
-      "word": "顾南亭见程霄父亲",
-      "onboard_time": 1672956732,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 18569,
