@@ -1,6 +1,6 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1672958007418,
+  "endTime": 1672960795613,
   "band_list": [
     {
       "raw_hot": 1331655,
@@ -179,6 +179,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 240579,
+      "num": 240579,
+      "word": "县委书记回应倡导春节不返乡",
+      "onboard_time": 1672924651,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238308,
       "num": 238308,
       "word": "肯德基",
@@ -195,12 +203,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215707,
-      "num": 215707,
-      "word": "县委书记回应倡导春节不返乡",
-      "onboard_time": 1672924651,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 227355,
+      "num": 227355,
+      "word": "首付比首套利率该降的都要降下来",
+      "onboard_time": 1672938083,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 208178,
@@ -217,6 +225,14 @@
       "onboard_time": 1672921353,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198896,
+      "num": 198896,
+      "word": "为什么一到夜晚症状就加重",
+      "onboard_time": 1672942095,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196641,
@@ -257,6 +273,14 @@
       "onboard_time": 1672919012,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184697,
+      "num": 184697,
+      "word": "男子穿婚纱扮新娘上台拥吻新郎",
+      "onboard_time": 1672956312,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178249,
@@ -307,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170632,
+      "num": 170632,
+      "word": "男子点一份大盘鸡吃出11个鸡屁股",
+      "onboard_time": 1672950431,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166826,
       "num": 166826,
       "word": "这是一种很新的团建",
@@ -331,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155673,
+      "num": 155673,
+      "word": "上海利西路成韩式街头疯狂刷屏",
+      "onboard_time": 1672959076,
+      "rank": 13,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 153671,
       "num": 163460,
       "word": "贺峻霖微电影有特效",
@@ -345,14 +385,6 @@
       "onboard_time": 1672934728,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140610,
-      "num": 140610,
-      "word": "为什么一到夜晚症状就加重",
-      "onboard_time": 1672942095,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127687,
@@ -427,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91801,
+      "num": 159883,
+      "word": "对于购买第一套住房的要大力支持",
+      "onboard_time": 1672922071,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89712,
       "num": 48901,
       "word": "戴燕妮叶若依病娇战损妆",
@@ -499,36 +539,52 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 69974,
-      "num": 159883,
-      "word": "对于购买第一套住房的要大力支持",
-      "onboard_time": 1672922071,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66797,
-      "num": 59441,
-      "word": "男子点一份大盘鸡吃出11个鸡屁股",
-      "onboard_time": 1672950431,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66178,
-      "num": 66178,
-      "word": "首付比首套利率该降的都要降下来",
-      "onboard_time": 1672938083,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 60412,
       "num": 159113,
       "word": "20余名大哥抢救回800箱黄桃罐头",
       "onboard_time": 1672920811,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 57543,
+      "num": 57543,
+      "word": "春运部分热门航线机票涨至全价",
+      "onboard_time": 1672953972,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 54427,
+      "num": 54427,
+      "word": "顾南亭见程霄父亲",
+      "onboard_time": 1672956732,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 54264,
+      "num": 54264,
+      "word": "为什么会对友情感到失望",
+      "onboard_time": 1672954512,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 51560,
+      "num": 49714,
+      "word": "宋慧乔黑暗荣耀第二季定档0310",
+      "onboard_time": 1672950252,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 51048,
+      "num": 51048,
+      "word": "马鞍山药神案秦才东获刑后发声",
+      "onboard_time": 1672959977,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50489,
@@ -547,22 +603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 49904,
-      "num": 28177,
-      "word": "男子穿婚纱扮新娘上台拥吻新郎",
-      "onboard_time": 1672956312,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36157,
-      "num": 36157,
-      "word": "春运部分热门航线机票涨至全价",
-      "onboard_time": 1672953972,
-      "rank": 48,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 34047,
       "num": 34047,
       "word": "真想做个能痛快翻篇儿的人呐",
@@ -571,28 +611,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 31714,
-      "num": 31714,
-      "word": "为什么会对友情感到失望",
-      "onboard_time": 1672954512,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 28411,
-      "num": 28102,
-      "word": "宋慧乔黑暗荣耀第二季定档0310",
-      "onboard_time": 1672950252,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 26785,
-      "num": 26785,
-      "word": "顾南亭见程霄父亲",
-      "onboard_time": 1672956732,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 31222,
+      "num": 31222,
+      "word": "2023加班工资日历",
+      "onboard_time": 1672960519,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23596,
