@@ -1,0 +1,410 @@
+{
+  "runTime": 1672903000427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1108352,
+        "num": 1108352,
+        "word": "女子怀孕后因病成植物人",
+        "onboard_time": 1672893276,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100048,
+        "num": 1100048,
+        "word": "苗苗谈刻意不理郑恺的原因",
+        "onboard_time": 1672899450,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25590,
+        "num": 1078455,
+        "word": "如何看待XBB系列毒株",
+        "onboard_time": 1672836392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1066820,
+        "num": 1066820,
+        "word": "风情不摇晃作者曾回应相关争议",
+        "onboard_time": 1672899390,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922368,
+        "num": 922368,
+        "word": "丈夫被妻子气哭1小时去娘家诉苦",
+        "onboard_time": 1672897652,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821856,
+        "num": 821856,
+        "word": "陆毅趁鲍蕾不在家带孩子彻底放飞",
+        "onboard_time": 1672899149,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591306,
+        "num": 591306,
+        "word": "沙溢时隔16年再扮白展堂",
+        "onboard_time": 1672896510,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567162,
+        "num": 567162,
+        "word": "法律明令禁止未成年人进KTV",
+        "onboard_time": 1672891655,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 405374,
+        "num": 405374,
+        "word": "别让大学生辅导高中生作业",
+        "onboard_time": 1672891591,
+        "rank": 8,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 326561,
+        "num": 326561,
+        "word": "出版社回应小说被批歌颂毒枭爱情",
+        "onboard_time": 1672889912,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657998,
+        "num": 324543,
+        "word": "鹿晗五哈录制现场给粉丝送喝的",
+        "onboard_time": 1672900948,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 635902,
+        "num": 323100,
+        "word": "EXO将春天后完整体回归",
+        "onboard_time": 1672899390,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1362479,
+        "num": 319421,
+        "word": "虞书欣父母公司再成被执行人",
+        "onboard_time": 1672892495,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402239,
+        "num": 318215,
+        "word": "新冠病毒很可能存在眼部趋向性",
+        "onboard_time": 1672879950,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315513,
+        "num": 315513,
+        "word": "围炉煮茶",
+        "onboard_time": 1672894477,
+        "rank": 14,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 289672,
+        "num": 289672,
+        "word": "远方传来风笛",
+        "onboard_time": 1672890755,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285822,
+        "num": 285822,
+        "word": "妹妹被姐姐欺负后写日记称我忍了",
+        "onboard_time": 1672899807,
+        "rank": 16,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 228712,
+        "num": 228712,
+        "word": "别人家的年终奖发的有多早",
+        "onboard_time": 1672897833,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180351,
+        "num": 180351,
+        "word": "女生回男友家过节后决定分手",
+        "onboard_time": 1672877127,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177445,
+        "num": 177445,
+        "word": "猫猫是懂晒太阳的",
+        "onboard_time": 1672895614,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 513156,
+        "num": 175935,
+        "word": "易烊千玺说沈腾在现场即兴很厉害",
+        "onboard_time": 1672902749,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 476029,
+        "num": 175467,
+        "word": "迪丽热巴2023开年大片",
+        "onboard_time": 1672898493,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347135,
+        "num": 174872,
+        "word": "六公主认证王鹤棣浮图缘是爆款新剧",
+        "onboard_time": 1672896632,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174259,
+        "num": 174259,
+        "word": "恢复办理内地居民赴港签注",
+        "onboard_time": 1672901132,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150689,
+        "num": 150689,
+        "word": "活塞绝杀勇士",
+        "onboard_time": 1672897532,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150450,
+        "num": 150450,
+        "word": "曝C罗将继续执行2场禁赛",
+        "onboard_time": 1672885228,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148871,
+        "num": 148871,
+        "word": "二胎妈妈盆底肌受损阳后咳嗽严重漏尿",
+        "onboard_time": 1672888832,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147630,
+        "num": 147630,
+        "word": "知情人称风情不摇晃作者已退圈",
+        "onboard_time": 1672902028,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312598,
+        "num": 146991,
+        "word": "年货还得是00后会买",
+        "onboard_time": 1672900169,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140868,
+        "num": 140868,
+        "word": "国内航线燃油附加费1月5日起下调",
+        "onboard_time": 1672898852,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726918,
+        "num": 140803,
+        "word": "优衣库遭掀帘女子被男童家长骂不检点",
+        "onboard_time": 1672885169,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328920,
+        "num": 140351,
+        "word": "网友吃到了刘亦菲做的鲜花饼",
+        "onboard_time": 1672902571,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287769,
+        "num": 140081,
+        "word": "网传肖战任敏玉骨遥暂定Q1播出",
+        "onboard_time": 1672893396,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265539,
+        "num": 139678,
+        "word": "郑钧录视频向刘芸道歉",
+        "onboard_time": 1672900050,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262974,
+        "num": 139291,
+        "word": "谢腾飞亲奶奶出场就砸100万",
+        "onboard_time": 1672890212,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139151,
+        "num": 139151,
+        "word": "天府可乐董事长谈滞销原因",
+        "onboard_time": 1672895492,
+        "rank": 35,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 135541,
+        "num": 135541,
+        "word": "四川戒毒点名批网络小说风情不摇晃",
+        "onboard_time": 1672845330,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130403,
+        "num": 130403,
+        "word": "热火vs湖人",
+        "onboard_time": 1672897413,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124132,
+        "num": 124132,
+        "word": "奶奶不会写字在银行取不出养老金",
+        "onboard_time": 1672889611,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120735,
+        "num": 120735,
+        "word": "不再对自香港入境人员进行全员核酸",
+        "onboard_time": 1672895135,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 254435,
+        "num": 120726,
+        "word": "郎朗商业版图",
+        "onboard_time": 1672902689,
+        "rank": 40,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 235089,
+        "num": 120726,
+        "word": "许红豆人家图我大美女",
+        "onboard_time": 1672897652,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120715,
+        "num": 120715,
+        "word": "初禾初",
+        "onboard_time": 1672845094,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115197,
+        "num": 115197,
+        "word": "上海真是糯叽叽美食天堂",
+        "onboard_time": 1672892615,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114796,
+        "num": 114796,
+        "word": "2023KPL春季转会期",
+        "onboard_time": 1672895852,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113965,
+        "num": 113965,
+        "word": "小猫演我臭显摆状态",
+        "onboard_time": 1672892914,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109668,
+        "num": 109668,
+        "word": "西北有高楼",
+        "onboard_time": 1672902689,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108710,
+        "num": 108710,
+        "word": "8岁妹妹给姐姐看记仇日记",
+        "onboard_time": 1672902090,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103902,
+        "num": 103902,
+        "word": "七旬老人10个月创作150种兔剪纸",
+        "onboard_time": 1672902329,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95248,
+        "num": 103887,
+        "word": "87岁退休老医生重返一线坐诊",
+        "onboard_time": 1672894894,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断增强文化遗产保护能力#"
+    }
+  }
+}
