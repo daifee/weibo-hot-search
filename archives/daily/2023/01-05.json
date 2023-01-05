@@ -1,6 +1,6 @@
 {
   "startTime": 1672849948080,
-  "endTime": 1672899710343,
+  "endTime": 1672900610527,
   "band_list": [
     {
       "raw_hot": 2780800,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 895979,
+      "num": 895979,
+      "word": "丈夫被妻子气哭1小时去娘家诉苦",
+      "onboard_time": 1672897652,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 848827,
       "num": 848827,
       "word": "沈腾说马丽太美了",
@@ -139,12 +147,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 817642,
-      "num": 817642,
-      "word": "丈夫被妻子气哭1小时去娘家诉苦",
-      "onboard_time": 1672897652,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 813674,
+      "num": 813674,
+      "word": "沙溢时隔16年再扮白展堂",
+      "onboard_time": 1672896510,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 809433,
@@ -161,6 +169,14 @@
       "onboard_time": 1672877427,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 782748,
+      "num": 782748,
+      "word": "陆毅趁鲍蕾不在家带孩子彻底放飞",
+      "onboard_time": 1672899149,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 781198,
@@ -187,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 735031,
+      "num": 437296,
+      "word": "EXO将春天后完整体回归",
+      "onboard_time": 1672899390,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 728973,
       "num": 728973,
       "word": "法国公布针对中国旅客检测数据",
@@ -201,14 +225,6 @@
       "onboard_time": 1672890755,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 666424,
-      "num": 502002,
-      "word": "沙溢时隔16年再扮白展堂",
-      "onboard_time": 1672896510,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 640735,
@@ -339,14 +355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 495949,
-      "num": 495949,
-      "word": "陆毅趁鲍蕾不在家带孩子彻底放飞",
-      "onboard_time": 1672899149,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 486415,
       "num": 486415,
       "word": "奶奶不会写字在银行取不出养老金",
@@ -427,20 +435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 402625,
-      "num": 235276,
-      "word": "EXO将春天后完整体回归",
-      "onboard_time": 1672899390,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 395227,
       "num": 395227,
       "word": "宋亚轩打开被黄霄云夸很空灵",
       "onboard_time": 1672879950,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 389755,
+      "num": 220177,
+      "word": "苗苗谈刻意不理郑恺的原因",
+      "onboard_time": 1672899450,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 383355,
@@ -579,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300692,
+      "num": 300692,
+      "word": "风情不摇晃作者曾回应相关争议",
+      "onboard_time": 1672899390,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300169,
       "num": 300169,
       "word": "刘鑫大号小号全被禁言",
@@ -595,20 +611,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 294173,
+      "num": 183574,
+      "word": "许红豆人家图我大美女",
+      "onboard_time": 1672897652,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293336,
       "num": 293336,
       "word": "74岁老人网购上瘾假金链子成堆买",
       "onboard_time": 1672843712,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290936,
-      "num": 183574,
-      "word": "许红豆人家图我大美女",
-      "onboard_time": 1672897652,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 289114,
@@ -689,14 +705,6 @@
       "onboard_time": 1672893816,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 267701,
-      "num": 183490,
-      "word": "苗苗谈刻意不理郑恺的原因",
-      "onboard_time": 1672899450,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 261367,
@@ -811,6 +819,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224452,
+      "num": 171852,
+      "word": "雷佳音15秒说136字台词",
+      "onboard_time": 1672898373,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221773,
+      "num": 221773,
+      "word": "猫猫是懂晒太阳的",
+      "onboard_time": 1672895614,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219143,
       "num": 219143,
       "word": "赵继伟怒骂裁判",
@@ -841,14 +865,6 @@
       "onboard_time": 1672874238,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215481,
-      "num": 215481,
-      "word": "猫猫是懂晒太阳的",
-      "onboard_time": 1672895614,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 215411,
@@ -907,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193431,
+      "num": 193431,
+      "word": "天府可乐董事长谈滞销原因",
+      "onboard_time": 1672895492,
+      "rank": 46,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 193107,
       "num": 193107,
       "word": "字节辟谣被裁员工与HR互殴",
@@ -921,6 +945,14 @@
       "onboard_time": 1672895852,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185018,
+      "num": 149178,
+      "word": "张钧甯灰西装拼接棉服造型",
+      "onboard_time": 1672900169,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184507,
@@ -953,14 +985,6 @@
       "onboard_time": 1672887930,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 183647,
-      "num": 183647,
-      "word": "天府可乐董事长谈滞销原因",
-      "onboard_time": 1672895492,
-      "rank": 46,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 183488,
@@ -1139,6 +1163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 153604,
+      "num": 153604,
+      "word": "年货还得是00后会买",
+      "onboard_time": 1672900169,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153329,
       "num": 150503,
       "word": "黑暗荣耀编剧有多牛",
@@ -1267,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125133,
+      "num": 125133,
+      "word": "妹妹被姐姐欺负后写日记称我忍了",
+      "onboard_time": 1672899807,
+      "rank": 45,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 124032,
       "num": 1681321,
       "word": "如何看待XBB系列毒株",
@@ -1307,11 +1347,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115079,
-      "num": 115079,
-      "word": "风情不摇晃作者曾回应相关争议",
-      "onboard_time": 1672899390,
-      "rank": 48,
+      "raw_hot": 116834,
+      "num": 116834,
+      "word": "出版社称风情不摇晃已下架",
+      "onboard_time": 1672900469,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
