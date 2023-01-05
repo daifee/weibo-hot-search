@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672911225506,
+  "endTime": 1672914018353,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -105,6 +105,14 @@
       "onboard_time": 1672817009,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2553470,
+      "num": 2553470,
+      "word": "电费",
+      "onboard_time": 1672909172,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2432405,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 1570145,
-      "num": 584313,
+      "num": 935882,
       "word": "IVE假唱被KBS点名批评",
       "onboard_time": 1672906291,
       "rank": 10,
@@ -521,6 +529,14 @@
       "onboard_time": 1672846352,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1348404,
+      "num": 1348404,
+      "word": "程霄当众承认喜欢顾南亭",
+      "onboard_time": 1672912111,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1333203,
@@ -1491,14 +1507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 729357,
-      "num": 729357,
-      "word": "电费",
-      "onboard_time": 1672909172,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 729039,
       "num": 729039,
       "word": "顾客吃串服务员数签多算100根",
@@ -2067,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 585255,
+      "num": 585255,
+      "word": "网传马嘉祺宋亚轩张真源将出新歌",
+      "onboard_time": 1672913550,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 582416,
       "num": 582416,
       "word": "曾黎说王鹤棣很活泼很直接",
@@ -2579,6 +2595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 502646,
+      "num": 502646,
+      "word": "王一博说试飞员是非常危险的职业",
+      "onboard_time": 1672912349,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 501537,
       "num": 501537,
       "word": "计划要求各国用贝利名字命名一个足球场",
@@ -3051,6 +3075,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 431890,
+      "num": 431890,
+      "word": "陆家嘴三件套石墩引游客火爆打卡",
+      "onboard_time": 1672911391,
+      "rank": 12,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 431789,
       "num": 285105,
       "word": "谢之遥没告白却被拒绝",
@@ -3177,6 +3209,14 @@
       "onboard_time": 1672664733,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413754,
+      "num": 413754,
+      "word": "王鹤棣时宴今日出妆路透",
+      "onboard_time": 1672911692,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 413638,
@@ -3321,6 +3361,14 @@
       "onboard_time": 1672630349,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 399378,
+      "num": 399378,
+      "word": "TES小鹏挂牌",
+      "onboard_time": 1672912289,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 396524,
@@ -3953,6 +4001,14 @@
       "onboard_time": 1672801709,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346111,
+      "num": 200652,
+      "word": "夜城赋今日开播",
+      "onboard_time": 1672912772,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 345848,
@@ -4731,6 +4787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287081,
+      "num": 190844,
+      "word": "黑暗荣耀",
+      "onboard_time": 1672576049,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287062,
       "num": 287062,
       "word": "去有风的地方",
@@ -5129,6 +5193,14 @@
       "onboard_time": 1672701377,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 269215,
+      "num": 154360,
+      "word": "许红豆是来旅游的不是打工的",
+      "onboard_time": 1672913492,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 269160,
@@ -6195,6 +6267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211991,
+      "num": 211991,
+      "word": "阴阳师",
+      "onboard_time": 1672910374,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211956,
       "num": 211956,
       "word": "指责男童进女子试衣间是小题大做吗",
@@ -6251,6 +6331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210711,
+      "num": 210711,
+      "word": "不要随便叫别人家的狗",
+      "onboard_time": 1672911632,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210684,
       "num": 210684,
       "word": "商家回应出售不开心猪和淘汰猪",
@@ -6275,20 +6363,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 208915,
-      "num": 208915,
-      "word": "阴阳师",
-      "onboard_time": 1672910374,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 208906,
       "num": 208906,
       "word": "就没有柯佳嬿接不住的梗吧",
       "onboard_time": 1672847969,
       "rank": 18,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 208653,
+      "num": 208653,
+      "word": "上海电网回应电费涨价",
+      "onboard_time": 1672913191,
+      "rank": 27,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 208324,
@@ -6337,6 +6425,14 @@
       "onboard_time": 1672796186,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205805,
+      "num": 205805,
+      "word": "QQ糖角标 根据软硬程度区分",
+      "onboard_time": 1672910312,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 205168,
@@ -6667,14 +6763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 190844,
-      "num": 190844,
-      "word": "黑暗荣耀",
-      "onboard_time": 1672576049,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190078,
       "num": 190078,
       "word": "为什么不那么热衷恋爱了",
@@ -6705,6 +6793,14 @@
       "onboard_time": 1672716389,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188603,
+      "num": 204634,
+      "word": "在成都真的可以拍到窗含西岭千秋雪",
+      "onboard_time": 1672907971,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 188538,
@@ -7459,6 +7555,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 161937,
+      "num": 161937,
+      "word": "500多宝妈在童车旗舰店网购被骗",
+      "onboard_time": 1672911209,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161646,
       "num": 161646,
       "word": "丈夫归家送妻子孩子1人1串糖葫芦",
@@ -7496,6 +7600,14 @@
       "word": "关于XBB毒株的6个认知误区",
       "onboard_time": 1672879707,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160333,
+      "num": 1356667,
+      "word": "抗病毒药物应在医生指导下使用",
+      "onboard_time": 1672910430,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -7624,6 +7736,14 @@
       "word": "小猫是有点倔强在身上的",
       "onboard_time": 1672834232,
       "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 154235,
+      "num": 154235,
+      "word": "这猫怎么有腋毛啊",
+      "onboard_time": 1672913670,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -7779,6 +7899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150054,
+      "num": 150054,
+      "word": "当代大学生放假回家实况",
+      "onboard_time": 1672912052,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149743,
       "num": 126234,
       "word": "Danielle金发双马尾造型",
@@ -7867,6 +7995,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 145766,
+      "num": 145766,
+      "word": "原来小狗也喜欢夹子音",
+      "onboard_time": 1672913313,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145667,
       "num": 145667,
       "word": "男子每次只点油饼老板反手送碗汤",
@@ -7889,14 +8025,6 @@
       "onboard_time": 1672886007,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144648,
-      "num": 198583,
-      "word": "在成都真的可以拍到窗含西岭千秋雪",
-      "onboard_time": 1672907971,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 144213,
@@ -8755,14 +8883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101470,
-      "num": 142214,
-      "word": "QQ糖角标 根据软硬程度区分",
-      "onboard_time": 1672910312,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 101281,
       "num": 134306,
       "word": "鸳鸯长得好像3D动画",
@@ -8995,12 +9115,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 83680,
-      "num": 141382,
-      "word": "500多宝妈在童车旗舰店网购被骗",
-      "onboard_time": 1672911209,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 83267,
+      "num": 404718,
+      "word": "王传福用20年造就仰望",
+      "onboard_time": 1672912830,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 82069,
@@ -9040,14 +9160,6 @@
       "word": "目前没有证据表明新冠会影响月经",
       "onboard_time": 1672569870,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72750,
-      "num": 1142644,
-      "word": "抗病毒药物应在医生指导下使用",
-      "onboard_time": 1672910430,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
