@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672889617913,
+  "endTime": 1672892575107,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -192,6 +192,14 @@
       "word": "四川戒毒点名批网络小说风情不摇晃",
       "onboard_time": 1672845330,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1868590,
+      "num": 1868590,
+      "word": "男子阳后嗜睡一检查已是白肺",
+      "onboard_time": 1672889069,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -801,6 +809,14 @@
       "onboard_time": 1672800567,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 951934,
+      "num": 951934,
+      "word": "谢腾飞亲奶奶出场就砸100万",
+      "onboard_time": 1672890212,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 951537,
@@ -1635,6 +1651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 627481,
+      "num": 627481,
+      "word": "远方传来风笛",
+      "onboard_time": 1672890755,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 624926,
       "num": 347808,
       "word": "李现连吃两天菌菇火锅流鼻血",
@@ -1779,12 +1803,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 585483,
+      "num": 585483,
+      "word": "出版社回应小说被批歌颂毒枭爱情",
+      "onboard_time": 1672889912,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 582416,
       "num": 582416,
       "word": "曾黎说王鹤棣很活泼很直接",
       "onboard_time": 1672717829,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 581308,
+      "num": 507403,
+      "word": "二胎妈妈盆底肌受损阳后咳嗽严重漏尿",
+      "onboard_time": 1672888832,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 580613,
@@ -2379,6 +2419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 480495,
+      "num": 480495,
+      "word": "奶奶不会写字在银行取不出养老金",
+      "onboard_time": 1672889611,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479653,
       "num": 338111,
       "word": "北京协和医院建议新冠治疗前先临床分型",
@@ -2667,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435591,
+      "num": 435591,
+      "word": "2022爱奇艺尖叫之夜",
+      "onboard_time": 1672892315,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 435483,
       "num": 435483,
       "word": "云南边境毒贩抓捕现场画面",
@@ -2713,6 +2769,14 @@
       "onboard_time": 1672703423,
       "rank": 8,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 430643,
+      "num": 430643,
+      "word": "亚马逊将裁员1.7万人",
+      "onboard_time": 1672887329,
+      "rank": 19,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 430271,
@@ -3067,6 +3131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387021,
+      "num": 387021,
+      "word": "法律明令禁止未成年人进KTV",
+      "onboard_time": 1672891655,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 387011,
       "num": 387011,
       "word": "TWICE将1月20日发行先行曲",
@@ -3177,6 +3249,14 @@
       "onboard_time": 1672790727,
       "rank": 17,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 370488,
+      "num": 370488,
+      "word": "马頔曾说爱情永远万岁",
+      "onboard_time": 1672890876,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 370304,
@@ -3417,14 +3497,6 @@
       "onboard_time": 1672662210,
       "rank": 42,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 354052,
-      "num": 354052,
-      "word": "亚马逊将裁员1.7万人",
-      "onboard_time": 1672887329,
-      "rank": 19,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 353928,
@@ -3683,6 +3755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326444,
+      "num": 326444,
+      "word": "陈铭主持offer",
+      "onboard_time": 1672889251,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326321,
       "num": 326321,
       "word": "鹅鸭杀 epl",
@@ -3707,6 +3787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324146,
+      "num": 324146,
+      "word": "肖铎步音楼正式拜天地",
+      "onboard_time": 1672892132,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323852,
       "num": 321326,
       "word": "黄明昊官宣加盟极限挑战宝藏行3",
@@ -3729,6 +3817,14 @@
       "onboard_time": 1672710626,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 323241,
+      "num": 214104,
+      "word": "孙俪说期待邓超中国乒乓",
+      "onboard_time": 1672892374,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 322964,
@@ -3832,14 +3928,6 @@
       "word": "老人去世火化狗狗满眼泪水等待",
       "onboard_time": 1672574370,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313227,
-      "num": 313227,
-      "word": "二胎妈妈盆底肌受损阳后咳嗽严重漏尿",
-      "onboard_time": 1672888832,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -4171,6 +4259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287101,
+      "num": 213925,
+      "word": "有风小院是现搭的",
+      "onboard_time": 1672890151,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287062,
       "num": 287062,
       "word": "去有风的地方",
@@ -4323,12 +4419,12 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 280578,
-      "num": 280578,
-      "word": "男子阳后嗜睡一检查已是白肺",
-      "onboard_time": 1672889069,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 280747,
+      "num": 212271,
+      "word": "虞书欣父母公司再成被执行人",
+      "onboard_time": 1672892495,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 280493,
@@ -4473,6 +4569,14 @@
       "onboard_time": 1672738948,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274350,
+      "num": 211337,
+      "word": "王一博说逐梦而行2023不负期待",
+      "onboard_time": 1672889912,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 273956,
@@ -5427,6 +5531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215963,
+      "num": 215963,
+      "word": "起底风情不摇晃出版商",
+      "onboard_time": 1672889730,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215605,
       "num": 215605,
       "word": "今日小寒",
@@ -5697,6 +5809,14 @@
       "onboard_time": 1672888711,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203587,
+      "num": 203587,
+      "word": "别让大学生辅导高中生作业",
+      "onboard_time": 1672891591,
+      "rank": 37,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 202073,
@@ -6003,6 +6123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188993,
+      "num": 188993,
+      "word": "天府可乐呼吁消费者理性消费",
+      "onboard_time": 1672891655,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 188752,
       "num": 188752,
       "word": "转阴了要注意吃动平衡",
@@ -6145,6 +6273,14 @@
       "onboard_time": 1672845634,
       "rank": 39,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 182415,
+      "num": 182415,
+      "word": "CBA赛区保安与曾凡博球迷抢鞋",
+      "onboard_time": 1672887089,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 182318,
@@ -6395,14 +6531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175411,
-      "num": 175411,
-      "word": "CBA赛区保安与曾凡博球迷抢鞋",
-      "onboard_time": 1672887089,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174271,
       "num": 174271,
       "word": "当猫猫会角色扮演了",
@@ -6571,6 +6699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168693,
+      "num": 168693,
+      "word": "真正的春运是什么样的",
+      "onboard_time": 1672890454,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167860,
       "num": 167860,
       "word": "鲁尼绝杀老鹰",
@@ -6641,14 +6777,6 @@
       "onboard_time": 1672723529,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 163605,
-      "num": 134144,
-      "word": "陈铭主持offer",
-      "onboard_time": 1672889251,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 163389,
@@ -6891,6 +7019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153773,
+      "num": 153773,
+      "word": "天府可乐官方店铺发公告",
+      "onboard_time": 1672891895,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 153329,
       "num": 150503,
       "word": "黑暗荣耀编剧有多牛",
@@ -7081,6 +7217,14 @@
       "onboard_time": 1672711766,
       "rank": 41,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 145923,
+      "num": 145923,
+      "word": "河南省考1月9日报名笔试面试时间确定",
+      "onboard_time": 1672888711,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 145667,
@@ -7299,6 +7443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134764,
+      "num": 134764,
+      "word": "指责男童进女子试衣间是小题大做吗",
+      "onboard_time": 1672892193,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134508,
       "num": 134508,
       "word": "父母在家装隔音舱让女儿安静上网课",
@@ -7425,14 +7577,6 @@
       "onboard_time": 1672842693,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 129258,
-      "num": 129258,
-      "word": "河南省考1月9日报名笔试面试时间确定",
-      "onboard_time": 1672888711,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 129191,
@@ -7681,14 +7825,6 @@
       "onboard_time": 1672656631,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117940,
-      "num": 117940,
-      "word": "奶奶不会写字在银行取不出养老金",
-      "onboard_time": 1672889611,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117243,
