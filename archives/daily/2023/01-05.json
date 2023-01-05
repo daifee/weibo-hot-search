@@ -1,6 +1,6 @@
 {
   "startTime": 1672849948080,
-  "endTime": 1672923249460,
+  "endTime": 1672925209096,
   "band_list": [
     {
       "raw_hot": 3420078,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2040529,
+      "num": 2040529,
+      "word": "优衣库遭掀帘女子男友发声",
+      "onboard_time": 1672918652,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1940695,
       "num": 1940695,
       "word": "女儿生病继母不刮鳞用活鱼煮汤",
@@ -72,14 +80,6 @@
       "word": "男子阳后嗜睡一检查已是白肺",
       "onboard_time": 1672889069,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1895927,
-      "num": 1895927,
-      "word": "优衣库遭掀帘女子男友发声",
-      "onboard_time": 1672918652,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1133440,
+      "num": 1133440,
+      "word": "女子拒绝公开恋爱关系砍伤男友",
+      "onboard_time": 1672919850,
+      "rank": 8,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1131655,
       "num": 1131655,
       "word": "法律明令禁止未成年人进KTV",
@@ -227,12 +235,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1022568,
+      "num": 1022568,
+      "word": "张文宏称社区医院治疗大多无效",
+      "onboard_time": 1672922372,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1014752,
       "num": 1014752,
       "word": "欧盟建议各国要求自中国入境者提供核酸",
       "onboard_time": 1672878207,
       "rank": 3,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1014238,
+      "num": 1014238,
+      "word": "苗苗说曾喜欢一个人十几年",
+      "onboard_time": 1672918051,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 991254,
@@ -251,28 +275,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 974330,
-      "num": 974330,
-      "word": "女子拒绝公开恋爱关系砍伤男友",
-      "onboard_time": 1672919850,
-      "rank": 8,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 965083,
-      "num": 965083,
-      "word": "苗苗说曾喜欢一个人十几年",
-      "onboard_time": 1672918051,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 953736,
       "num": 953736,
       "word": "谢腾飞亲奶奶出场就砸100万",
       "onboard_time": 1672890212,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 942700,
+      "num": 480230,
+      "word": "天放 酸",
+      "onboard_time": 1672924531,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 922368,
@@ -971,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 343602,
+      "num": 326428,
+      "word": "小狼女Emma节目上安利seventeen",
+      "onboard_time": 1672923513,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 343210,
       "num": 297477,
       "word": "金唱片",
@@ -985,6 +1009,14 @@
       "onboard_time": 1672889251,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339017,
+      "num": 325752,
+      "word": "顾南亭认识宁檬",
+      "onboard_time": 1672924413,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 336171,
@@ -1003,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333338,
+      "num": 333338,
+      "word": "TheShy薇恩上单",
+      "onboard_time": 1672921897,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 332849,
       "num": 198561,
       "word": "程霄躲在洗手间哭",
@@ -1011,20 +1051,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327049,
+      "num": 327049,
+      "word": "建立首套住房贷款利率政策动态调整机制",
+      "onboard_time": 1672919373,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324831,
+      "num": 324831,
+      "word": "峨眉山最有礼貌的猴子",
+      "onboard_time": 1672922793,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 324146,
       "num": 324146,
       "word": "肖铎步音楼正式拜天地",
       "onboard_time": 1672892132,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 323245,
-      "num": 323245,
-      "word": "建立首套住房贷款利率政策动态调整机制",
-      "onboard_time": 1672919373,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322973,
@@ -1139,14 +1187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303714,
-      "num": 303714,
-      "word": "张文宏称社区医院治疗大多无效",
-      "onboard_time": 1672922372,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303338,
       "num": 160645,
       "word": "Angelababy祝大家新春大吉",
@@ -1179,14 +1219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 297899,
-      "num": 297899,
-      "word": "TheShy薇恩上单",
-      "onboard_time": 1672921897,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 297262,
       "num": 142272,
       "word": "顾南亭满脑子想的都是程霄",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1672843712,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289311,
+      "num": 225250,
+      "word": "马嘉祺的枪冒火是P的",
+      "onboard_time": 1672925132,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 289114,
@@ -1265,6 +1305,14 @@
       "onboard_time": 1672895672,
       "rank": 32,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 275222,
+      "num": 275222,
+      "word": "对于购买第一套住房的要大力支持",
+      "onboard_time": 1672922071,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274650,
@@ -1363,12 +1411,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255640,
+      "num": 224456,
+      "word": "顾南亭程霄解释飞机如何供电",
+      "onboard_time": 1672924233,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 255023,
+      "num": 224079,
+      "word": "许红豆说自己曾经是前台憋尿亚军",
+      "onboard_time": 1672923211,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252405,
       "num": 221723,
       "word": "2022年逝去的娱乐圈名人",
       "onboard_time": 1672849705,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249459,
+      "num": 171019,
+      "word": "张婧仪吃甜品随拍",
+      "onboard_time": 1672921773,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 248207,
+      "num": 171875,
+      "word": "许红豆谢之遥有一群爱情保安",
+      "onboard_time": 1672924294,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 247261,
@@ -1459,6 +1539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228549,
+      "num": 170558,
+      "word": "刘耀文害羞镜头",
+      "onboard_time": 1672925192,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 228488,
       "num": 228488,
       "word": "LNG对战BLG",
@@ -1473,6 +1561,14 @@
       "onboard_time": 1672830691,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226325,
+      "num": 226325,
+      "word": "20余名大哥抢救回800箱黄桃罐头",
+      "onboard_time": 1672920811,
+      "rank": 37,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 225346,
@@ -1491,6 +1587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223803,
+      "num": 223803,
+      "word": "WBG晋级微博杯决赛",
+      "onboard_time": 1672924893,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 221773,
       "num": 221773,
       "word": "猫猫是懂晒太阳的",
@@ -1505,14 +1609,6 @@
       "onboard_time": 1672844253,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 219036,
-      "num": 219036,
-      "word": "20余名大哥抢救回800箱黄桃罐头",
-      "onboard_time": 1672920811,
-      "rank": 37,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 218903,
@@ -1584,22 +1680,6 @@
       "word": "句句不写穷 句句都是穷",
       "onboard_time": 1672840352,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 208306,
-      "num": 208306,
-      "word": "对于购买第一套住房的要大力支持",
-      "onboard_time": 1672922071,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208201,
-      "num": 202643,
-      "word": "许红豆说自己曾经是前台憋尿亚军",
-      "onboard_time": 1672923211,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -1811,12 +1891,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176579,
+      "num": 176579,
+      "word": "县委书记回应倡导春节不返乡",
+      "onboard_time": 1672924651,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176338,
+      "num": 176338,
+      "word": "有哪些生了娃才知道的事",
+      "onboard_time": 1672923391,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176216,
       "num": 176216,
       "word": "北京WB阿豆挂牌",
       "onboard_time": 1672922849,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173476,
+      "num": 173476,
+      "word": "刘春孔庆东等微博账号被禁言",
+      "onboard_time": 1672920451,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172899,
@@ -1873,14 +1977,6 @@
       "onboard_time": 1672912052,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 163753,
-      "num": 163753,
-      "word": "刘春孔庆东等微博账号被禁言",
-      "onboard_time": 1672920451,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163482,
@@ -2043,20 +2139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143801,
-      "num": 162802,
-      "word": "峨眉山最有礼貌的猴子",
-      "onboard_time": 1672922793,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 142402,
       "num": 142402,
       "word": "小寒节气这4个地方要保暖",
       "onboard_time": 1672905870,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142210,
+      "num": 142210,
+      "word": "这是路边摊爱好者的天堂吧",
+      "onboard_time": 1672923571,
+      "rank": 48,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 140646,
@@ -2307,6 +2403,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 97405,
+      "num": 1555364,
+      "word": "共话网络真善美",
+      "onboard_time": 1672920872,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96649,
       "num": 96649,
       "word": "第一次想用猥琐形容奥特曼",
@@ -2393,14 +2497,6 @@
       "onboard_time": 1672848390,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 78433,
-      "num": 1539172,
-      "word": "共话网络真善美",
-      "onboard_time": 1672920872,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78017,
