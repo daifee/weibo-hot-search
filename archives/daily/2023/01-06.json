@@ -1,6 +1,6 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1672946090981,
+  "endTime": 1672947196344,
   "band_list": [
     {
       "raw_hot": 1331655,
@@ -347,8 +347,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130063,
-      "num": 130063,
+      "raw_hot": 140610,
+      "num": 140610,
       "word": "为什么一到夜晚症状就加重",
       "onboard_time": 1672942095,
       "rank": 29,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 84423,
-      "num": 41472,
+      "num": 47597,
       "word": "黑暗荣耀删减剧情",
       "onboard_time": 1672941136,
       "rank": 30,
@@ -537,6 +537,14 @@
       "onboard_time": 1672937425,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 23596,
+      "num": 24736,
+      "word": "马嘉祺也在看少爷和我",
+      "onboard_time": 1672917094,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 18569,
