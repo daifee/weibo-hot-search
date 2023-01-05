@@ -1,6 +1,6 @@
 {
   "startTime": 1672849948080,
-  "endTime": 1672917351272,
+  "endTime": 1672918413047,
   "band_list": [
     {
       "raw_hot": 2780800,
@@ -33,6 +33,14 @@
       "onboard_time": 1672903166,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2558784,
+      "num": 2558784,
+      "word": "少爷和我",
+      "onboard_time": 1672916792,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2556054,
@@ -155,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1186614,
+      "num": 1186614,
+      "word": "56岁岳父像90后与女婿似同龄人",
+      "onboard_time": 1672914810,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1131655,
       "num": 1131655,
       "word": "法律明令禁止未成年人进KTV",
@@ -171,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1049408,
+      "num": 620948,
+      "word": "马嘉祺也在看少爷和我",
+      "onboard_time": 1672917094,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1014752,
       "num": 1014752,
       "word": "欧盟建议各国要求自中国入境者提供核酸",
@@ -179,20 +203,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1006163,
+      "num": 592051,
+      "word": "新娘被要求坐主厅5小时脚不能沾地",
+      "onboard_time": 1672916552,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 991254,
       "num": 991254,
       "word": "别让大学生辅导高中生作业",
       "onboard_time": 1672891591,
       "rank": 37,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 977546,
-      "num": 620948,
-      "word": "马嘉祺也在看少爷和我",
-      "onboard_time": 1672917094,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 976084,
@@ -209,14 +233,6 @@
       "onboard_time": 1672890212,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 926479,
-      "num": 926479,
-      "word": "少爷和我",
-      "onboard_time": 1672916792,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 922368,
@@ -251,11 +267,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 866964,
-      "num": 866964,
-      "word": "56岁岳父像90后与女婿似同龄人",
-      "onboard_time": 1672914810,
-      "rank": 49,
+      "raw_hot": 854549,
+      "num": 593962,
+      "word": "云南一家六口5天内3人相继离世",
+      "onboard_time": 1672915651,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -355,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 736647,
+      "num": 736647,
+      "word": "三亚民宿老板称一个月赚回三年亏损",
+      "onboard_time": 1672916245,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 735031,
       "num": 437296,
       "word": "EXO将春天后完整体回归",
@@ -387,6 +411,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 709598,
+      "num": 709598,
+      "word": "快看",
+      "onboard_time": 1672917394,
+      "rank": 6,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 703254,
       "num": 703254,
       "word": "网传唐嫣将再演仙侠剧",
@@ -401,14 +433,6 @@
       "onboard_time": 1672906051,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 686485,
-      "num": 593962,
-      "word": "云南一家六口5天内3人相继离世",
-      "onboard_time": 1672915651,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 677031,
@@ -588,7 +612,7 @@
     },
     {
       "raw_hot": 506512,
-      "num": 166819,
+      "num": 461188,
       "word": "宋亚轩刘耀文将出新歌烟花升停在星夜",
       "onboard_time": 1672917094,
       "rank": 37,
@@ -601,14 +625,6 @@
       "onboard_time": 1672912349,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 487842,
-      "num": 487842,
-      "word": "三亚民宿老板称一个月赚回三年亏损",
-      "onboard_time": 1672916245,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 486415,
@@ -633,6 +649,14 @@
       "onboard_time": 1672882831,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465515,
+      "num": 465515,
+      "word": "三亚春节20万一晚酒店已售罄",
+      "onboard_time": 1672916611,
+      "rank": 26,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 454055,
@@ -851,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349833,
-      "num": 349833,
-      "word": "新娘被要求坐主厅5小时脚不能沾地",
-      "onboard_time": 1672916552,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347974,
       "num": 347974,
       "word": "男子意外发现交通卡余额有172万",
@@ -940,7 +956,7 @@
     },
     {
       "raw_hot": 317543,
-      "num": 183932,
+      "num": 197218,
       "word": "顾南亭偷听程霄和情敌对话被抓包",
       "onboard_time": 1672916733,
       "rank": 31,
@@ -1123,6 +1139,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 274938,
+      "num": 195018,
+      "word": "苗苗说曾喜欢一个人十几年",
+      "onboard_time": 1672918051,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274650,
       "num": 163067,
       "word": "付豪喊徐冬冬一起举椰汁",
@@ -1281,14 +1305,6 @@
       "onboard_time": 1672880672,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 229884,
-      "num": 229884,
-      "word": "三亚春节20万一晚酒店已售罄",
-      "onboard_time": 1672916611,
-      "rank": 26,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 228488,
@@ -1465,6 +1481,14 @@
       "onboard_time": 1672853058,
       "rank": 48,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 192860,
+      "num": 192860,
+      "word": "WBG对战EDGY",
+      "onboard_time": 1672917212,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 188603,
@@ -1747,6 +1771,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 153451,
+      "num": 153451,
+      "word": "上海辟谣电费涨价",
+      "onboard_time": 1672917212,
+      "rank": 44,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 153329,
       "num": 150503,
       "word": "黑暗荣耀编剧有多牛",
@@ -1811,20 +1843,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144857,
+      "num": 200349,
+      "word": "酒精消毒喷剂可以带上高铁吗",
+      "onboard_time": 1672917692,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144213,
       "num": 144213,
       "word": "国内航线燃油附加费1月5日起下调",
       "onboard_time": 1672898852,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142511,
-      "num": 142511,
-      "word": "上海辟谣电费涨价",
-      "onboard_time": 1672917212,
-      "rank": 44,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 142402,
@@ -1888,6 +1920,14 @@
       "word": "原来约会都是从散步开始的",
       "onboard_time": 1672831290,
       "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 131787,
+      "num": 131787,
+      "word": "姐弟恋的结局是怎样的",
+      "onboard_time": 1672917931,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -1955,14 +1995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 119661,
-      "num": 140570,
-      "word": "WBG对战EDGY",
-      "onboard_time": 1672917212,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 118876,
       "num": 118876,
       "word": "2022年度十大职场热梗",
@@ -2017,6 +2049,14 @@
       "onboard_time": 1672902090,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108342,
+      "num": 108342,
+      "word": "我的成长纪念",
+      "onboard_time": 1672918352,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 105744,

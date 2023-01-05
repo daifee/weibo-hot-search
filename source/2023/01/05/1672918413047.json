@@ -1,0 +1,410 @@
+{
+  "runTime": 1672918413047,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2558784,
+        "num": 2558784,
+        "word": "少爷和我",
+        "onboard_time": 1672916792,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2353628,
+        "num": 2353628,
+        "word": "肯德基",
+        "onboard_time": 1672915230,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 137489,
+        "num": 1341966,
+        "word": "抗病毒药物应在医生指导下使用",
+        "onboard_time": 1672910430,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1186614,
+        "num": 1186614,
+        "word": "56岁岳父像90后与女婿似同龄人",
+        "onboard_time": 1672914810,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1582665,
+        "num": 1047207,
+        "word": "电费",
+        "onboard_time": 1672909172,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736647,
+        "num": 736647,
+        "word": "三亚民宿老板称一个月赚回三年亏损",
+        "onboard_time": 1672916245,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709598,
+        "num": 709598,
+        "word": "快看",
+        "onboard_time": 1672917394,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 666661,
+        "num": 666661,
+        "word": "上海电网回应电费涨价",
+        "onboard_time": 1672913191,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 640902,
+        "num": 640902,
+        "word": "程霄当众承认喜欢顾南亭",
+        "onboard_time": 1672912111,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 639367,
+        "num": 639367,
+        "word": "IVE假唱被KBS点名批评",
+        "onboard_time": 1672906291,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1049408,
+        "num": 608837,
+        "word": "马嘉祺也在看少爷和我",
+        "onboard_time": 1672917094,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1006163,
+        "num": 592051,
+        "word": "新娘被要求坐主厅5小时脚不能沾地",
+        "onboard_time": 1672916552,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854549,
+        "num": 585979,
+        "word": "云南一家六口5天内3人相继离世",
+        "onboard_time": 1672915651,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574863,
+        "num": 574863,
+        "word": "这猫怎么有腋毛啊",
+        "onboard_time": 1672913670,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 561852,
+        "num": 561852,
+        "word": "全国最脏的工作被江西小城包了",
+        "onboard_time": 1672907493,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465515,
+        "num": 465515,
+        "word": "三亚春节20万一晚酒店已售罄",
+        "onboard_time": 1672916611,
+        "rank": 15,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 461188,
+        "num": 461188,
+        "word": "宋亚轩刘耀文将出新歌烟花升停在星夜",
+        "onboard_time": 1672917094,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 429319,
+        "num": 429319,
+        "word": "上海电费",
+        "onboard_time": 1672903166,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365517,
+        "num": 365517,
+        "word": "微博杯",
+        "onboard_time": 1672909890,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 356078,
+        "num": 356078,
+        "word": "新冠阳性大麦网拒绝退票",
+        "onboard_time": 1672907192,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338366,
+        "num": 338366,
+        "word": "易烊千玺说沈腾在现场即兴很厉害",
+        "onboard_time": 1672902749,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330248,
+        "num": 330248,
+        "word": "陆家嘴三件套石墩引游客火爆打卡",
+        "onboard_time": 1672911391,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 322971,
+        "num": 322971,
+        "word": "黑暗荣耀",
+        "onboard_time": 1672911391,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318312,
+        "num": 318312,
+        "word": "我可能遇到了救星大结局你满意吗",
+        "onboard_time": 1672915711,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307460,
+        "num": 307460,
+        "word": "网友吃到了刘亦菲做的鲜花饼",
+        "onboard_time": 1672902571,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279892,
+        "num": 279892,
+        "word": "杭州一KTV聘用6名未成年少女被罚",
+        "onboard_time": 1672907493,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249150,
+        "num": 249150,
+        "word": "女儿生病继母不刮鳞用活鱼煮汤",
+        "onboard_time": 1672905693,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248304,
+        "num": 248304,
+        "word": "风情不摇晃作者曾回应相关争议",
+        "onboard_time": 1672899390,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201547,
+        "num": 201547,
+        "word": "知情人称风情不摇晃作者已退圈",
+        "onboard_time": 1672902028,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144857,
+        "num": 200349,
+        "word": "酒精消毒喷剂可以带上高铁吗",
+        "onboard_time": 1672917692,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420353,
+        "num": 198895,
+        "word": "虞书欣父母公司再成被执行人",
+        "onboard_time": 1672892495,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278165,
+        "num": 197218,
+        "word": "顾南亭偷听程霄和情敌对话被抓包",
+        "onboard_time": 1672916733,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274938,
+        "num": 195018,
+        "word": "苗苗说曾喜欢一个人十几年",
+        "onboard_time": 1672918051,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241494,
+        "num": 193774,
+        "word": "王鹤棣时宴今日出妆路透",
+        "onboard_time": 1672911692,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192860,
+        "num": 192860,
+        "word": "WBG对战EDGY",
+        "onboard_time": 1672917212,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174857,
+        "num": 174857,
+        "word": "原来小狗也喜欢夹子音",
+        "onboard_time": 1672913313,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157100,
+        "num": 157100,
+        "word": "TES小鹏挂牌",
+        "onboard_time": 1672912289,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153451,
+        "num": 153451,
+        "word": "上海辟谣电费涨价",
+        "onboard_time": 1672917212,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 152076,
+        "num": 152076,
+        "word": "QQ糖角标 根据软硬程度区分",
+        "onboard_time": 1672910312,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150023,
+        "num": 150023,
+        "word": "丈夫被妻子气哭1小时去娘家诉苦",
+        "onboard_time": 1672897652,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232477,
+        "num": 148080,
+        "word": "付豪喊徐冬冬一起举椰汁",
+        "onboard_time": 1672915172,
+        "rank": 40,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 232168,
+        "num": 143936,
+        "word": "王一博说试飞员是非常危险的职业",
+        "onboard_time": 1672912349,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137462,
+        "num": 137462,
+        "word": "新年第五天上了多少分",
+        "onboard_time": 1672913909,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136420,
+        "num": 136420,
+        "word": "给爸爸买了只金蟾蜍",
+        "onboard_time": 1672906291,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134449,
+        "num": 134449,
+        "word": "湖南一地倡导非必要不返乡",
+        "onboard_time": 1672905508,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131822,
+        "num": 131822,
+        "word": "共青团中央批风情不摇晃",
+        "onboard_time": 1672905631,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131787,
+        "num": 131787,
+        "word": "姐弟恋的结局是怎样的",
+        "onboard_time": 1672917931,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131357,
+        "num": 131357,
+        "word": "当代大学生放假回家实况",
+        "onboard_time": 1672912052,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114227,
+        "num": 114227,
+        "word": "仰望",
+        "onboard_time": 1672903651,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 108342,
+        "num": 108342,
+        "word": "我的成长纪念",
+        "onboard_time": 1672918352,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断增强文化遗产保护能力#"
+    }
+  }
+}
