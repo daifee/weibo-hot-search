@@ -1,0 +1,410 @@
+{
+  "runTime": 1672893480361,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2780800,
+        "num": 2780800,
+        "word": "优衣库遭掀帘女子被男童家长骂不检点",
+        "onboard_time": 1672885169,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1920753,
+        "num": 1920753,
+        "word": "男子阳后嗜睡一检查已是白肺",
+        "onboard_time": 1672889069,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54483,
+        "num": 1681321,
+        "word": "如何看待XBB系列毒株",
+        "onboard_time": 1672836392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1633018,
+        "num": 1633018,
+        "word": "虞书欣父母公司再成被执行人",
+        "onboard_time": 1672892495,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 953736,
+        "num": 953736,
+        "word": "谢腾飞亲奶奶出场就砸100万",
+        "onboard_time": 1672890212,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 903883,
+        "num": 903883,
+        "word": "2022爱奇艺尖叫之夜",
+        "onboard_time": 1672892315,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 857753,
+        "num": 857753,
+        "word": "四川戒毒点名批网络小说风情不摇晃",
+        "onboard_time": 1672845330,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707391,
+        "num": 707391,
+        "word": "法律明令禁止未成年人进KTV",
+        "onboard_time": 1672891655,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 677031,
+        "num": 677031,
+        "word": "远方传来风笛",
+        "onboard_time": 1672890755,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 695529,
+        "num": 660104,
+        "word": "女生回男友家过节后决定分手",
+        "onboard_time": 1672877127,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 985262,
+        "num": 653017,
+        "word": "新冠病毒很可能存在眼部趋向性",
+        "onboard_time": 1672879950,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638932,
+        "num": 638932,
+        "word": "出版社回应小说被批歌颂毒枭爱情",
+        "onboard_time": 1672889912,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576833,
+        "num": 576833,
+        "word": "二胎妈妈盆底肌受损阳后咳嗽严重漏尿",
+        "onboard_time": 1672888832,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522898,
+        "num": 522898,
+        "word": "浪莎回应郎朗吉娜代言一日游",
+        "onboard_time": 1672881327,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486415,
+        "num": 486415,
+        "word": "奶奶不会写字在银行取不出养老金",
+        "onboard_time": 1672889611,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475613,
+        "num": 475613,
+        "word": "沈腾说马丽太美了",
+        "onboard_time": 1672893096,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458396,
+        "num": 458396,
+        "word": "初禾初",
+        "onboard_time": 1672845094,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453947,
+        "num": 453947,
+        "word": "孙俪说期待邓超中国乒乓",
+        "onboard_time": 1672892374,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442955,
+        "num": 442955,
+        "word": "98年哥哥返乡给15弟妹买一车礼物",
+        "onboard_time": 1672886787,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430984,
+        "num": 430984,
+        "word": "曝C罗将继续执行2场禁赛",
+        "onboard_time": 1672885228,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420772,
+        "num": 420772,
+        "word": "王鹤棣片场树懒抱陈钰琪",
+        "onboard_time": 1672893216,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417661,
+        "num": 417661,
+        "word": "2022年度十大烂片盘点",
+        "onboard_time": 1672879528,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405161,
+        "num": 405161,
+        "word": "别让大学生辅导高中生作业",
+        "onboard_time": 1672891591,
+        "rank": 22,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 365800,
+        "num": 365800,
+        "word": "亚马逊将裁员1.7万人",
+        "onboard_time": 1672887329,
+        "rank": 23,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 350950,
+        "num": 350950,
+        "word": "满江红易烊千玺演副统领孙均",
+        "onboard_time": 1672887089,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345848,
+        "num": 345848,
+        "word": "唐嫣我们的客栈佟湘玉变装视频",
+        "onboard_time": 1672892793,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307198,
+        "num": 307198,
+        "word": "天府可乐呼吁消费者理性消费",
+        "onboard_time": 1672891655,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 288027,
+        "num": 288027,
+        "word": "法国公布针对中国旅客检测数据",
+        "onboard_time": 1672880550,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258145,
+        "num": 258145,
+        "word": "风情不摇晃",
+        "onboard_time": 1672843232,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241541,
+        "num": 241541,
+        "word": "狗子啃墙皮啃掉一排牙齿",
+        "onboard_time": 1672886129,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341145,
+        "num": 239475,
+        "word": "陈铭主持offer",
+        "onboard_time": 1672889251,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315080,
+        "num": 238758,
+        "word": "肖铎步音楼正式拜天地",
+        "onboard_time": 1672892132,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298590,
+        "num": 234653,
+        "word": "马頔曾说爱情永远万岁",
+        "onboard_time": 1672890876,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219910,
+        "num": 219910,
+        "word": "妻子吐槽老公在病房和女患者嗨聊",
+        "onboard_time": 1672880429,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198428,
+        "num": 198428,
+        "word": "地心人",
+        "onboard_time": 1672877251,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197060,
+        "num": 197060,
+        "word": "起底风情不摇晃出版商",
+        "onboard_time": 1672889730,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195604,
+        "num": 195604,
+        "word": "梅西说期待着与巴黎实现本赛季的目标",
+        "onboard_time": 1672888711,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195082,
+        "num": 195082,
+        "word": "新冠对生理期到底有什么影响",
+        "onboard_time": 1672846352,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191031,
+        "num": 191031,
+        "word": "狗狗趴去世主人床上默默流泪",
+        "onboard_time": 1672882831,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182812,
+        "num": 182812,
+        "word": "上海真是糯叽叽美食天堂",
+        "onboard_time": 1672892615,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 288898,
+        "num": 181528,
+        "word": "顾魏今天35岁了",
+        "onboard_time": 1672882469,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280135,
+        "num": 181367,
+        "word": "网传肖战任敏玉骨遥暂定Q1播出",
+        "onboard_time": 1672893396,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248188,
+        "num": 180980,
+        "word": "王一博说逐梦而行2023不负期待",
+        "onboard_time": 1672889912,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180147,
+        "num": 180147,
+        "word": "小猫演我臭显摆状态",
+        "onboard_time": 1672892914,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174386,
+        "num": 174386,
+        "word": "CBA赛区保安与曾凡博球迷抢鞋",
+        "onboard_time": 1672887089,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172897,
+        "num": 172897,
+        "word": "警方通报男子机舱喊飞机要出事",
+        "onboard_time": 1672874299,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 165080,
+        "num": 165080,
+        "word": "xbb.1.5已成美国优势毒株",
+        "onboard_time": 1672883130,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158355,
+        "num": 158355,
+        "word": "女子怀孕后因病成植物人",
+        "onboard_time": 1672893276,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157742,
+        "num": 157742,
+        "word": "真正的春运是什么样的",
+        "onboard_time": 1672890454,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137954,
+        "num": 137954,
+        "word": "河南省考1月9日报名笔试面试时间确定",
+        "onboard_time": 1672888711,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断增强文化遗产保护能力#"
+    }
+  }
+}

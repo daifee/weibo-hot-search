@@ -1,10 +1,10 @@
 {
   "startTime": 1672849948080,
-  "endTime": 1672892575107,
+  "endTime": 1672893480361,
   "band_list": [
     {
-      "raw_hot": 2773520,
-      "num": 2773520,
+      "raw_hot": 2780800,
+      "num": 2780800,
       "word": "优衣库遭掀帘女子被男童家长骂不检点",
       "onboard_time": 1672885169,
       "rank": 3,
@@ -19,19 +19,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1920753,
+      "num": 1920753,
+      "word": "男子阳后嗜睡一检查已是白肺",
+      "onboard_time": 1672889069,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1888998,
       "num": 1888998,
       "word": "四川戒毒点名批网络小说风情不摇晃",
       "onboard_time": 1672845330,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1868590,
-      "num": 1868590,
-      "word": "男子阳后嗜睡一检查已是白肺",
-      "onboard_time": 1672889069,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -41,6 +41,14 @@
       "onboard_time": 1672877127,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1633018,
+      "num": 1633018,
+      "word": "虞书欣父母公司再成被执行人",
+      "onboard_time": 1672892495,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 1453277,
@@ -75,12 +83,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 951934,
-      "num": 951934,
+      "raw_hot": 953736,
+      "num": 953736,
       "word": "谢腾飞亲奶奶出场就砸100万",
       "onboard_time": 1672890212,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 903883,
+      "num": 903883,
+      "word": "2022爱奇艺尖叫之夜",
+      "onboard_time": 1672892315,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 809433,
@@ -115,6 +131,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 707391,
+      "num": 707391,
+      "word": "法律明令禁止未成年人进KTV",
+      "onboard_time": 1672891655,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 677031,
+      "num": 677031,
+      "word": "远方传来风笛",
+      "onboard_time": 1672890755,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 640735,
       "num": 640735,
       "word": "女子跨年夜中1000万后悔跟孩子说",
@@ -123,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 627481,
-      "num": 627481,
-      "word": "远方传来风笛",
-      "onboard_time": 1672890755,
-      "rank": 5,
-      "category": "幽默"
+      "raw_hot": 638932,
+      "num": 638932,
+      "word": "出版社回应小说被批歌颂毒枭爱情",
+      "onboard_time": 1672889912,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590917,
@@ -139,16 +171,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 585483,
-      "num": 585483,
-      "word": "出版社回应小说被批歌颂毒枭爱情",
-      "onboard_time": 1672889912,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 581308,
-      "num": 507403,
+      "num": 576833,
       "word": "二胎妈妈盆底肌受损阳后咳嗽严重漏尿",
       "onboard_time": 1672888832,
       "rank": 16,
@@ -235,8 +259,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 480495,
-      "num": 480495,
+      "raw_hot": 486415,
+      "num": 486415,
       "word": "奶奶不会写字在银行取不出养老金",
       "onboard_time": 1672889611,
       "rank": 48,
@@ -249,6 +273,14 @@
       "onboard_time": 1672883130,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475613,
+      "num": 475613,
+      "word": "沈腾说马丽太美了",
+      "onboard_time": 1672893096,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 470738,
@@ -267,20 +299,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 453947,
+      "num": 453947,
+      "word": "孙俪说期待邓超中国乒乓",
+      "onboard_time": 1672892374,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 448694,
       "num": 448694,
       "word": "权志龙2023世界巡演计划有港澳场",
       "onboard_time": 1672885169,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 435591,
-      "num": 435591,
-      "word": "2022爱奇艺尖叫之夜",
-      "onboard_time": 1672892315,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 430643,
@@ -307,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420772,
+      "num": 420772,
+      "word": "王鹤棣片场树懒抱陈钰琪",
+      "onboard_time": 1672893216,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 420088,
       "num": 420088,
       "word": "北京骑手小哥一年跑2万单年入20万",
@@ -315,20 +355,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405161,
+      "num": 405161,
+      "word": "别让大学生辅导高中生作业",
+      "onboard_time": 1672891591,
+      "rank": 37,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 395227,
       "num": 395227,
       "word": "宋亚轩打开被黄霄云夸很空灵",
       "onboard_time": 1672879950,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 387021,
-      "num": 387021,
-      "word": "法律明令禁止未成年人进KTV",
-      "onboard_time": 1672891655,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 383355,
@@ -371,7 +411,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326444,
+      "raw_hot": 345848,
+      "num": 345848,
+      "word": "唐嫣我们的客栈佟湘玉变装视频",
+      "onboard_time": 1672892793,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 341145,
       "num": 326444,
       "word": "陈铭主持offer",
       "onboard_time": 1672889251,
@@ -384,14 +432,6 @@
       "word": "肖铎步音楼正式拜天地",
       "onboard_time": 1672892132,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 323241,
-      "num": 214104,
-      "word": "孙俪说期待邓超中国乒乓",
-      "onboard_time": 1672892374,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -409,6 +449,14 @@
       "onboard_time": 1672873819,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307198,
+      "num": 307198,
+      "word": "天府可乐呼吁消费者理性消费",
+      "onboard_time": 1672891655,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 300720,
@@ -459,12 +507,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 280747,
-      "num": 212271,
-      "word": "虞书欣父母公司再成被执行人",
-      "onboard_time": 1672892495,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 280135,
+      "num": 181367,
+      "word": "网传肖战任敏玉骨遥暂定Q1播出",
+      "onboard_time": 1672893396,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 278156,
@@ -643,14 +691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203587,
-      "num": 203587,
-      "word": "别让大学生辅导高中生作业",
-      "onboard_time": 1672891591,
-      "rank": 37,
-      "category": "幽默,教育"
-    },
-    {
       "raw_hot": 202931,
       "num": 175958,
       "word": "王一博张婧仪无名复古合照",
@@ -675,14 +715,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 188993,
-      "num": 188993,
-      "word": "天府可乐呼吁消费者理性消费",
-      "onboard_time": 1672891655,
-      "rank": 39,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 184507,
       "num": 165371,
       "word": "minji跳poppy手势舞",
@@ -705,6 +737,14 @@
       "onboard_time": 1672887930,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182812,
+      "num": 182812,
+      "word": "上海真是糯叽叽美食天堂",
+      "onboard_time": 1672892615,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 182415,
@@ -745,6 +785,14 @@
       "onboard_time": 1672879351,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180147,
+      "num": 180147,
+      "word": "小猫演我臭显摆状态",
+      "onboard_time": 1672892914,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 177030,
@@ -841,6 +889,14 @@
       "onboard_time": 1672852218,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158355,
+      "num": 158355,
+      "word": "女子怀孕后因病成植物人",
+      "onboard_time": 1672893276,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155761,
@@ -988,7 +1044,7 @@
     },
     {
       "raw_hot": 124032,
-      "num": 1379264,
+      "num": 1681321,
       "word": "如何看待XBB系列毒株",
       "onboard_time": 1672836392,
       "rank": 2,
