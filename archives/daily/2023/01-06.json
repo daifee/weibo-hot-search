@@ -1,6 +1,6 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1672953400444,
+  "endTime": 1672954420142,
   "band_list": [
     {
       "raw_hot": 1331655,
@@ -539,7 +539,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 43544,
+      "raw_hot": 48366,
       "num": 43544,
       "word": "男子点一份大盘鸡吃出11个鸡屁股",
       "onboard_time": 1672950431,
@@ -555,8 +555,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 24451,
-      "num": 19160,
+      "raw_hot": 25482,
+      "num": 25482,
       "word": "宋慧乔黑暗荣耀第二季定档0310",
       "onboard_time": 1672950252,
       "rank": 31,
@@ -593,6 +593,14 @@
       "onboard_time": 1672949894,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 10669,
+      "num": 12600,
+      "word": "春运部分热门航线机票涨至全价",
+      "onboard_time": 1672953972,
+      "rank": 48,
+      "category": "财经,社会新闻"
     }
   ],
   "hotgov_list": [
