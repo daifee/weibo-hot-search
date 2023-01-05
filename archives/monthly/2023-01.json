@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672896810748,
+  "endTime": 1672899710343,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -643,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1467953,
+      "num": 1467953,
+      "word": "女子怀孕后因病成植物人",
+      "onboard_time": 1672893276,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1453277,
       "num": 1453277,
       "word": "妻子买千元手机被丈夫按头砸柜台",
@@ -777,14 +785,6 @@
       "onboard_time": 1672748911,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1257371,
-      "num": 1257371,
-      "word": "女子怀孕后因病成植物人",
-      "onboard_time": 1672893276,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1248145,
@@ -1235,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 976084,
+      "num": 836773,
+      "word": "迪丽热巴2023开年大片",
+      "onboard_time": 1672898493,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 974124,
       "num": 974124,
       "word": "大侦探",
@@ -1643,6 +1651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 817642,
+      "num": 817642,
+      "word": "丈夫被妻子气哭1小时去娘家诉苦",
+      "onboard_time": 1672897652,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 815085,
       "num": 815085,
       "word": "白鹿张凌赫GQ背影同框",
@@ -1745,6 +1761,14 @@
       "onboard_time": 1672758514,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 781198,
+      "num": 781198,
+      "word": "六公主认证王鹤棣浮图缘是爆款新剧",
+      "onboard_time": 1672896632,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 779523,
@@ -2171,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 666424,
+      "num": 502002,
+      "word": "沙溢时隔16年再扮白展堂",
+      "onboard_time": 1672896510,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 666112,
       "num": 509477,
       "word": "贺峻霖成为电影频道实习主播",
@@ -2475,14 +2507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 601858,
-      "num": 498646,
-      "word": "六公主认证王鹤棣浮图缘是爆款新剧",
-      "onboard_time": 1672896632,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 600904,
       "num": 600904,
       "word": "初禾初",
@@ -2601,6 +2625,14 @@
       "onboard_time": 1672744650,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 587649,
+      "num": 587649,
+      "word": "围炉煮茶",
+      "onboard_time": 1672894477,
+      "rank": 21,
+      "category": "美食,情感"
     },
     {
       "raw_hot": 587362,
@@ -3259,6 +3291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 495949,
+      "num": 495949,
+      "word": "陆毅趁鲍蕾不在家带孩子彻底放飞",
+      "onboard_time": 1672899149,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 495279,
       "num": 495279,
       "word": "王曼昱",
@@ -3699,14 +3739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445472,
-      "num": 445472,
-      "word": "围炉煮茶",
-      "onboard_time": 1672894477,
-      "rank": 21,
-      "category": "美食,情感"
-    },
-    {
       "raw_hot": 444833,
       "num": 444833,
       "word": "五月天打电话给我唱温柔",
@@ -4081,6 +4113,14 @@
       "onboard_time": 1672659511,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402625,
+      "num": 235276,
+      "word": "EXO将春天后完整体回归",
+      "onboard_time": 1672899390,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 402533,
@@ -5379,6 +5419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308543,
+      "num": 308543,
+      "word": "活塞绝杀勇士",
+      "onboard_time": 1672897532,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308387,
       "num": 215993,
       "word": "吴彦姝演的李现奶奶",
@@ -5651,20 +5699,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292787,
-      "num": 205398,
-      "word": "沙溢时隔16年再扮白展堂",
-      "onboard_time": 1672896510,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 291033,
       "num": 450372,
       "word": "马斯克财产缩水破人类记录",
       "onboard_time": 1672527616,
       "rank": 26,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 290936,
+      "num": 183574,
+      "word": "许红豆人家图我大美女",
+      "onboard_time": 1672897652,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 290291,
@@ -6083,6 +6131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276681,
+      "num": 183538,
+      "word": "中国奇谭播放量突破1000万",
+      "onboard_time": 1672895672,
+      "rank": 32,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 276268,
       "num": 276268,
       "word": "原来哥哥才是哄睡高手",
@@ -6281,6 +6337,14 @@
       "onboard_time": 1672655492,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267701,
+      "num": 183490,
+      "word": "苗苗谈刻意不理郑恺的原因",
+      "onboard_time": 1672899450,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 267631,
@@ -6761,6 +6825,14 @@
       "onboard_time": 1672853958,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243081,
+      "num": 243081,
+      "word": "别人家的年终奖发的有多早",
+      "onboard_time": 1672897833,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 242767,
@@ -7331,6 +7403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218903,
+      "num": 161215,
+      "word": "顾南亭拒绝出租程霄住过的房子",
+      "onboard_time": 1672898012,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218653,
       "num": 218653,
       "word": "主人举着猫咪一起看烟花",
@@ -7393,6 +7473,14 @@
       "onboard_time": 1672874238,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215481,
+      "num": 215481,
+      "word": "猫猫是懂晒太阳的",
+      "onboard_time": 1672895614,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 215411,
@@ -8323,6 +8411,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183647,
+      "num": 183647,
+      "word": "天府可乐董事长谈滞销原因",
+      "onboard_time": 1672895492,
+      "rank": 46,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 183488,
+      "num": 183488,
+      "word": "热火vs湖人",
+      "onboard_time": 1672897413,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182750,
       "num": 182750,
       "word": "打工人年底发疯图鉴",
@@ -8795,14 +8899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170866,
-      "num": 170866,
-      "word": "猫猫是懂晒太阳的",
-      "onboard_time": 1672895614,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 170816,
       "num": 107242,
       "word": "长风破浪",
@@ -8961,14 +9057,6 @@
       "onboard_time": 1672591944,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164382,
-      "num": 164382,
-      "word": "天府可乐董事长谈滞销原因",
-      "onboard_time": 1672895492,
-      "rank": 46,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 164094,
@@ -9241,6 +9329,14 @@
       "onboard_time": 1672786636,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154902,
+      "num": 154902,
+      "word": "美味猫堡",
+      "onboard_time": 1672895912,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 154310,
@@ -9545,14 +9641,6 @@
       "onboard_time": 1672886007,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144236,
-      "num": 144236,
-      "word": "美味猫堡",
-      "onboard_time": 1672895912,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 144062,
@@ -9979,6 +10067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128483,
+      "num": 128483,
+      "word": "国内航线燃油附加费1月5日起下调",
+      "onboard_time": 1672898852,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128228,
       "num": 128228,
       "word": "关喵什么事",
@@ -10345,6 +10441,14 @@
       "onboard_time": 1672713926,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 115079,
+      "num": 115079,
+      "word": "风情不摇晃作者曾回应相关争议",
+      "onboard_time": 1672899390,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114921,
@@ -10785,6 +10889,14 @@
       "onboard_time": 1672596136,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 94275,
+      "num": 114682,
+      "word": "被老板告白是什么感觉",
+      "onboard_time": 1672899689,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 94165,
