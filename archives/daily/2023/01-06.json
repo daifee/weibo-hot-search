@@ -1,6 +1,6 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1672940023066,
+  "endTime": 1672943006971,
   "band_list": [
     {
       "raw_hot": 1331655,
@@ -91,6 +91,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 398943,
+      "num": 398943,
+      "word": "小鬼自曝去洛杉矶网吧玩",
+      "onboard_time": 1672937782,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377135,
       "num": 377135,
       "word": "快乐再出发",
@@ -139,19 +147,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261149,
-      "num": 261149,
-      "word": "小鬼自曝去洛杉矶网吧玩",
-      "onboard_time": 1672937782,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253307,
       "num": 212297,
       "word": "迪丽热巴说演员是被选择的职业",
       "onboard_time": 1672927593,
       "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 249339,
+      "num": 249339,
+      "word": "这就是韩系甜妹天花板吧",
+      "onboard_time": 1672939339,
+      "rank": 13,
       "category": "作品衍生"
     },
     {
@@ -251,14 +259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178929,
-      "num": 161606,
-      "word": "这就是韩系甜妹天花板吧",
-      "onboard_time": 1672939339,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 178249,
       "num": 178249,
       "word": "余万",
@@ -312,6 +312,14 @@
       "word": "这是一种很新的团建",
       "onboard_time": 1672935506,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165093,
+      "num": 94078,
+      "word": "你们男团是懂搞笑的",
+      "onboard_time": 1672939819,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -403,14 +411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91027,
-      "num": 43808,
-      "word": "你们男团是懂搞笑的",
-      "onboard_time": 1672939819,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 89712,
       "num": 48901,
       "word": "戴燕妮叶若依病娇战损妆",
@@ -425,6 +425,14 @@
       "onboard_time": 1672917692,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81256,
+      "num": 40717,
+      "word": "黑暗荣耀删减剧情",
+      "onboard_time": 1672941136,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 79908,
@@ -483,20 +491,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66178,
+      "num": 66178,
+      "word": "首付比首套利率该降的都要降下来",
+      "onboard_time": 1672938083,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 60412,
       "num": 159113,
       "word": "20余名大哥抢救回800箱黄桃罐头",
       "onboard_time": 1672920811,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 55657,
-      "num": 55657,
-      "word": "首付比首套利率该降的都要降下来",
-      "onboard_time": 1672938083,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 50489,
@@ -513,6 +521,14 @@
       "onboard_time": 1672932629,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 40929,
+      "num": 40929,
+      "word": "为什么一到夜晚症状就加重",
+      "onboard_time": 1672942095,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34047,
