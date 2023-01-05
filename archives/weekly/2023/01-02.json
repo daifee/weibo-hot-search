@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672933016229,
+  "endTime": 1672936138082,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -851,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1121353,
+      "num": 1121353,
+      "word": "女子在日本4次感染新冠坐上救护车",
+      "onboard_time": 1672931131,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1098632,
       "num": 1098632,
       "word": "法外狂徒烟花版",
@@ -1337,14 +1345,6 @@
       "onboard_time": 1672726528,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 840038,
-      "num": 840038,
-      "word": "女子在日本4次感染新冠坐上救护车",
-      "onboard_time": 1672931131,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 834226,
@@ -1979,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 652668,
+      "num": 652668,
+      "word": "30岁女生回应与65岁男子谈恋爱",
+      "onboard_time": 1672932213,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 651062,
       "num": 651062,
       "word": "曾轶可 打碟",
@@ -2507,6 +2515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549797,
+      "num": 340651,
+      "word": "苗苗刘芸分析张云龙恋情",
+      "onboard_time": 1672932033,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 549298,
       "num": 549298,
       "word": "王鹤棣片场树懒抱陈钰琪",
@@ -2564,7 +2580,7 @@
     },
     {
       "raw_hot": 541194,
-      "num": 296648,
+      "num": 377135,
       "word": "快乐再出发",
       "onboard_time": 1672930472,
       "rank": 20,
@@ -2865,6 +2881,14 @@
       "onboard_time": 1672788500,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500225,
+      "num": 500225,
+      "word": "为什么男生恋爱时会忽冷忽热",
+      "onboard_time": 1672931973,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 497994,
@@ -3505,14 +3529,6 @@
       "onboard_time": 1672791268,
       "rank": 16,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 413437,
-      "num": 255435,
-      "word": "苗苗刘芸分析张云龙恋情",
-      "onboard_time": 1672932033,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 413020,
@@ -6131,6 +6147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249165,
+      "num": 211612,
+      "word": "去有风的地方全员演技在线",
+      "onboard_time": 1672932810,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248207,
       "num": 176566,
       "word": "许红豆谢之遥有一群爱情保安",
@@ -6483,6 +6507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231538,
+      "num": 231538,
+      "word": "竟然被一只乌龟可爱到了",
+      "onboard_time": 1672933412,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231265,
       "num": 231265,
       "word": "劳斯莱斯接亲卡道牙进退两难",
@@ -6497,14 +6529,6 @@
       "onboard_time": 1672755274,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 230733,
-      "num": 193490,
-      "word": "去有风的地方全员演技在线",
-      "onboard_time": 1672932810,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 230701,
@@ -6571,14 +6595,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 227330,
-      "num": 197061,
-      "word": "30岁女生回应与65岁男子谈恋爱",
-      "onboard_time": 1672932213,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226946,
       "num": 226946,
       "word": "阳康后怎么避免二次感染",
@@ -6633,14 +6649,6 @@
       "onboard_time": 1672827571,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224146,
-      "num": 224146,
-      "word": "为什么男生恋爱时会忽冷忽热",
-      "onboard_time": 1672931973,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 224057,
@@ -6729,6 +6737,14 @@
       "onboard_time": 1672663414,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220166,
+      "num": 211375,
+      "word": "白鹿片场和助理贴贴",
+      "onboard_time": 1672935924,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 219890,
@@ -7795,6 +7811,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 178249,
+      "num": 178249,
+      "word": "余万",
+      "onboard_time": 1672934851,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178183,
       "num": 178183,
       "word": "这一定就是原片吧",
@@ -8123,6 +8147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166826,
+      "num": 166826,
+      "word": "这是一种很新的团建",
+      "onboard_time": 1672935506,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165831,
       "num": 126257,
       "word": "丁程鑫2022年终总结vlog",
@@ -8161,6 +8193,14 @@
       "onboard_time": 1672910971,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164418,
+      "num": 164418,
+      "word": "郎朗说吉娜会主持今年北京台春晚",
+      "onboard_time": 1672933710,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 164403,
@@ -8209,6 +8249,14 @@
       "onboard_time": 1672729828,
       "rank": 38,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 163288,
+      "num": 163288,
+      "word": "许红豆意识到自己被谢之遥和阿奶忽悠",
+      "onboard_time": 1672934670,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 163058,
@@ -8459,6 +8507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 153671,
+      "num": 163460,
+      "word": "贺峻霖微电影有特效",
+      "onboard_time": 1672935747,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153451,
       "num": 153451,
       "word": "上海辟谣电费涨价",
@@ -8529,6 +8585,14 @@
       "onboard_time": 1672633890,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151554,
+      "num": 178200,
+      "word": "生娃后会失去什么",
+      "onboard_time": 1672934670,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 151403,
@@ -8657,6 +8721,14 @@
       "onboard_time": 1672571250,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146588,
+      "num": 163450,
+      "word": "丁程鑫想导侦探悬疑片",
+      "onboard_time": 1672934728,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 146209,
@@ -9457,6 +9529,14 @@
       "onboard_time": 1672842032,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 113158,
+      "num": 164279,
+      "word": "现在大学生刀工都这么好吗",
+      "onboard_time": 1672934249,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 111996,
