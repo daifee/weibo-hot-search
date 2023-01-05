@@ -1,0 +1,410 @@
+{
+  "runTime": 1672907866843,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2334572,
+        "num": 2334572,
+        "word": "上海电费",
+        "onboard_time": 1672903166,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1717930,
+        "num": 1717930,
+        "word": "女儿生病继母不刮鳞用活鱼煮汤",
+        "onboard_time": 1672905693,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26797,
+        "num": 1478134,
+        "word": "如何看待XBB系列毒株",
+        "onboard_time": 1672836392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1461504,
+        "num": 1461504,
+        "word": "胖虎说易烊千玺是值得守卫的首位",
+        "onboard_time": 1672907371,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 846735,
+        "num": 846735,
+        "word": "风情不摇晃作者曾回应相关争议",
+        "onboard_time": 1672899390,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728429,
+        "num": 728429,
+        "word": "苍兰诀",
+        "onboard_time": 1672904009,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 703254,
+        "num": 703254,
+        "word": "网传唐嫣将再演仙侠剧",
+        "onboard_time": 1672906409,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 537375,
+        "num": 537375,
+        "word": "湖南一地倡导非必要不返乡",
+        "onboard_time": 1672905508,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498090,
+        "num": 498090,
+        "word": "丈夫被妻子气哭1小时去娘家诉苦",
+        "onboard_time": 1672897652,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383213,
+        "num": 383213,
+        "word": "法律明令禁止未成年人进KTV",
+        "onboard_time": 1672891655,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1471454,
+        "num": 380438,
+        "word": "IVE假唱被KBS点名批评",
+        "onboard_time": 1672906291,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 693504,
+        "num": 379931,
+        "word": "电影无名辟谣",
+        "onboard_time": 1672906051,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 724603,
+        "num": 375821,
+        "word": "王铮亮说希望苏醒把羽绒服一直穿到海南",
+        "onboard_time": 1672906593,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694533,
+        "num": 370702,
+        "word": "苗苗谈刻意不理郑恺的原因",
+        "onboard_time": 1672899450,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517301,
+        "num": 368616,
+        "word": "给爸爸买了只金蟾蜍",
+        "onboard_time": 1672906291,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 367262,
+        "num": 367262,
+        "word": "新冠病毒很可能存在眼部趋向性",
+        "onboard_time": 1672879950,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346326,
+        "num": 346326,
+        "word": "仰望",
+        "onboard_time": 1672903651,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 321970,
+        "num": 321970,
+        "word": "共青团中央批风情不摇晃",
+        "onboard_time": 1672905631,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319744,
+        "num": 319744,
+        "word": "西北有高楼",
+        "onboard_time": 1672902689,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306426,
+        "num": 306426,
+        "word": "知情人称风情不摇晃作者已退圈",
+        "onboard_time": 1672902028,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696563,
+        "num": 297538,
+        "word": "网友吃到了刘亦菲做的鲜花饼",
+        "onboard_time": 1672902571,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343210,
+        "num": 297477,
+        "word": "金唱片",
+        "onboard_time": 1672907668,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283563,
+        "num": 283563,
+        "word": "别让大学生辅导高中生作业",
+        "onboard_time": 1672891591,
+        "rank": 22,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 218754,
+        "num": 218754,
+        "word": "远方传来风笛",
+        "onboard_time": 1672890755,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201427,
+        "num": 201427,
+        "word": "LNG对战BLG",
+        "onboard_time": 1672903410,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 319549,
+        "num": 196546,
+        "word": "陆毅趁鲍蕾不在家带孩子彻底放飞",
+        "onboard_time": 1672899149,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187998,
+        "num": 187998,
+        "word": "围炉煮茶",
+        "onboard_time": 1672894477,
+        "rank": 26,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 183164,
+        "num": 183164,
+        "word": "每日最多6万港人过关进入内地",
+        "onboard_time": 1672904430,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163482,
+        "num": 163482,
+        "word": "长城到底藏有多少暗门",
+        "onboard_time": 1672904250,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 162608,
+        "num": 162608,
+        "word": "全国最脏的工作被江西小城包了",
+        "onboard_time": 1672907493,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318115,
+        "num": 162469,
+        "word": "鹿晗五哈录制现场给粉丝送喝的",
+        "onboard_time": 1672900948,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 869893,
+        "num": 162217,
+        "word": "虞书欣父母公司再成被执行人",
+        "onboard_time": 1672892495,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489085,
+        "num": 161797,
+        "word": "优衣库遭掀帘女子被男童家长骂不检点",
+        "onboard_time": 1672885169,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323440,
+        "num": 161229,
+        "word": "郑钧录视频向刘芸道歉",
+        "onboard_time": 1672900050,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485025,
+        "num": 161051,
+        "word": "女子怀孕后因病成植物人",
+        "onboard_time": 1672893276,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303338,
+        "num": 160645,
+        "word": "Angelababy祝大家新春大吉",
+        "onboard_time": 1672904729,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160409,
+        "num": 160409,
+        "word": "妹妹被姐姐欺负后写日记称我忍了",
+        "onboard_time": 1672899807,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 158622,
+        "num": 158622,
+        "word": "新冠阳性大麦网拒绝退票",
+        "onboard_time": 1672907192,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131686,
+        "num": 131686,
+        "word": "出版社回应小说被批歌颂毒枭爱情",
+        "onboard_time": 1672889912,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130062,
+        "num": 130062,
+        "word": "杭州一KTV聘用6名未成年少女被罚",
+        "onboard_time": 1672907493,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287543,
+        "num": 129768,
+        "word": "王一博长空之王试飞镜头",
+        "onboard_time": 1672904549,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128897,
+        "num": 128897,
+        "word": "恢复办理内地居民赴港签注",
+        "onboard_time": 1672901132,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123087,
+        "num": 123087,
+        "word": "原来猫饼是这样做的",
+        "onboard_time": 1672904608,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113357,
+        "num": 123016,
+        "word": "猫猫是懂晒太阳的",
+        "onboard_time": 1672895614,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110471,
+        "num": 122782,
+        "word": "12月的电费为何这么贵",
+        "onboard_time": 1672907311,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107109,
+        "num": 122773,
+        "word": "别人家的年终奖发的有多早",
+        "onboard_time": 1672897833,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97562,
+        "num": 122509,
+        "word": "二胎妈妈盆底肌受损阳后咳嗽严重漏尿",
+        "onboard_time": 1672888832,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91098,
+        "num": 122375,
+        "word": "牙医教你正确的刷牙方式",
+        "onboard_time": 1672907853,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88547,
+        "num": 122241,
+        "word": "国内航线燃油附加费1月5日起下调",
+        "onboard_time": 1672898852,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85003,
+        "num": 122033,
+        "word": "四川戒毒点名批网络小说风情不摇晃",
+        "onboard_time": 1672845330,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席同菲律宾总统会谈#"
+    }
+  }
+}

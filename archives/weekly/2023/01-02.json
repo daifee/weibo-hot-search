@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672907052507,
+  "endTime": 1672907866843,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -283,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1717930,
+      "num": 1717930,
+      "word": "女儿生病继母不刮鳞用活鱼煮汤",
+      "onboard_time": 1672905693,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1690966,
       "num": 1133656,
       "word": "酒店藏针孔摄像头偷拍大量情侣视频",
@@ -409,6 +417,14 @@
       "onboard_time": 1672893276,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1461504,
+      "num": 1461504,
+      "word": "胖虎说易烊千玺是值得守卫的首位",
+      "onboard_time": 1672907371,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1453277,
@@ -680,14 +696,6 @@
       "word": "运载46万盒连花清瘟货车高速上起火",
       "onboard_time": 1672830691,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1148125,
-      "num": 1148125,
-      "word": "女儿生病继母不刮鳞用活鱼煮汤",
-      "onboard_time": 1672905693,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1483,6 +1491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 728429,
+      "num": 728429,
+      "word": "苍兰诀",
+      "onboard_time": 1672904009,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 724745,
       "num": 724745,
       "word": "为什么劝情侣不要轻易拉黑",
@@ -1539,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 703254,
+      "num": 703254,
+      "word": "网传唐嫣将再演仙侠剧",
+      "onboard_time": 1672906409,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 701400,
       "num": 701400,
       "word": "春节档 神仙打架",
@@ -1569,6 +1593,14 @@
       "onboard_time": 1672768156,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 693504,
+      "num": 390229,
+      "word": "电影无名辟谣",
+      "onboard_time": 1672906051,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 689488,
@@ -1633,14 +1665,6 @@
       "onboard_time": 1672650087,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 668490,
-      "num": 668490,
-      "word": "苍兰诀",
-      "onboard_time": 1672904009,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 666112,
@@ -2091,14 +2115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 566823,
-      "num": 390229,
-      "word": "电影无名辟谣",
-      "onboard_time": 1672906051,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 564684,
       "num": 564684,
       "word": "王嘉尔最近在追的TVB剧集",
@@ -2291,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537375,
+      "num": 537375,
+      "word": "湖南一地倡导非必要不返乡",
+      "onboard_time": 1672905508,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536910,
       "num": 475838,
       "word": "迪丽热巴红裙卷发复古造型",
@@ -2385,6 +2409,14 @@
       "onboard_time": 1672723831,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517301,
+      "num": 368616,
+      "word": "给爸爸买了只金蟾蜍",
+      "onboard_time": 1672906291,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 517283,
@@ -2787,14 +2819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 456617,
-      "num": 239552,
-      "word": "网传唐嫣将再演仙侠剧",
-      "onboard_time": 1672906409,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 455651,
       "num": 455651,
       "word": "巴黎主帅确认梅西明天归队",
@@ -3033,14 +3057,6 @@
       "onboard_time": 1672874299,
       "rank": 49,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 425928,
-      "num": 380998,
-      "word": "湖南一地倡导非必要不返乡",
-      "onboard_time": 1672905508,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 424753,
@@ -3915,6 +3931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343210,
+      "num": 297477,
+      "word": "金唱片",
+      "onboard_time": 1672907668,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 342147,
       "num": 342147,
       "word": "王源文淇合作我抬头发现两朵一样的云",
@@ -4004,7 +4028,7 @@
     },
     {
       "raw_hot": 334266,
-      "num": 146020,
+      "num": 161229,
       "word": "郑钧录视频向刘芸道歉",
       "onboard_time": 1672900050,
       "rank": 33,
@@ -4120,6 +4144,14 @@
       "word": "专家称蒙脱石散并非止泻首选",
       "onboard_time": 1672625366,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321970,
+      "num": 321970,
+      "word": "共青团中央批风情不摇晃",
+      "onboard_time": 1672905631,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -4377,6 +4409,14 @@
       "onboard_time": 1672625248,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303338,
+      "num": 160645,
+      "word": "Angelababy祝大家新春大吉",
+      "onboard_time": 1672904729,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 302736,
@@ -4689,14 +4729,6 @@
       "onboard_time": 1672663291,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 284626,
-      "num": 143237,
-      "word": "共青团中央批风情不摇晃",
-      "onboard_time": 1672905631,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283838,
@@ -5593,14 +5625,6 @@
       "onboard_time": 1672638810,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 235314,
-      "num": 235314,
-      "word": "给爸爸买了只金蟾蜍",
-      "onboard_time": 1672906291,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 234913,
@@ -7275,6 +7299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163482,
+      "num": 163482,
+      "word": "长城到底藏有多少暗门",
+      "onboard_time": 1672904250,
+      "rank": 29,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 163389,
       "num": 146129,
       "word": "谢之遥是村系霸总吧",
@@ -7304,6 +7336,14 @@
       "word": "2023年第一个节气",
       "onboard_time": 1672873937,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162608,
+      "num": 162608,
+      "word": "全国最脏的工作被江西小城包了",
+      "onboard_time": 1672907493,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -7440,6 +7480,14 @@
       "word": "短期内大规模流行XBB变异株的可能性极低",
       "onboard_time": 1672800749,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158622,
+      "num": 158622,
+      "word": "新冠阳性大麦网拒绝退票",
+      "onboard_time": 1672907192,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -7657,14 +7705,6 @@
       "onboard_time": 1672677684,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 149456,
-      "num": 149456,
-      "word": "长城到底藏有多少暗门",
-      "onboard_time": 1672904250,
-      "rank": 29,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 149141,
@@ -8073,6 +8113,14 @@
       "onboard_time": 1672641749,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130062,
+      "num": 130062,
+      "word": "杭州一KTV聘用6名未成年少女被罚",
+      "onboard_time": 1672907493,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129826,
@@ -8499,6 +8547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110471,
+      "num": 122782,
+      "word": "12月的电费为何这么贵",
+      "onboard_time": 1672907311,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110330,
       "num": 109430,
       "word": "贵州牛肉自助的价格是真实存在的吗",
@@ -8769,6 +8825,14 @@
       "onboard_time": 1672814128,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 91098,
+      "num": 122375,
+      "word": "牙医教你正确的刷牙方式",
+      "onboard_time": 1672907853,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 90245,
