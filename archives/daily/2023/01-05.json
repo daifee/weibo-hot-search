@@ -1,6 +1,6 @@
 {
   "startTime": 1672849948080,
-  "endTime": 1672903000427,
+  "endTime": 1672904017385,
   "band_list": [
     {
       "raw_hot": 2780800,
@@ -67,6 +67,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1451176,
+      "num": 1451176,
+      "word": "风情不摇晃作者曾回应相关争议",
+      "onboard_time": 1672899390,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1365613,
+      "num": 1365613,
+      "word": "苗苗谈刻意不理郑恺的原因",
+      "onboard_time": 1672899450,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1358019,
       "num": 1358019,
       "word": "新冠对生理期到底有什么影响",
@@ -83,28 +99,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1100048,
-      "num": 1100048,
-      "word": "苗苗谈刻意不理郑恺的原因",
-      "onboard_time": 1672899450,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1095052,
       "num": 854041,
       "word": "浪莎回应郎朗吉娜代言一日游",
       "onboard_time": 1672881327,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1066820,
-      "num": 1066820,
-      "word": "风情不摇晃作者曾回应相关争议",
-      "onboard_time": 1672899390,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1014752,
@@ -153,6 +153,14 @@
       "onboard_time": 1672892315,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 889288,
+      "num": 889288,
+      "word": "易烊千玺说沈腾在现场即兴很厉害",
+      "onboard_time": 1672902749,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 848827,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 710535,
+      "num": 403109,
+      "word": "网友吃到了刘亦菲做的鲜花饼",
+      "onboard_time": 1672902571,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 677031,
       "num": 677031,
       "word": "远方传来风笛",
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 657998,
-      "num": 324543,
+      "num": 357065,
       "word": "鹿晗五哈录制现场给粉丝送喝的",
       "onboard_time": 1672900948,
       "rank": 10,
@@ -363,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 513156,
-      "num": 175935,
-      "word": "易烊千玺说沈腾在现场即兴很厉害",
-      "onboard_time": 1672902749,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 509728,
       "num": 457080,
       "word": "地心人",
@@ -392,6 +400,14 @@
       "word": "奶奶不会写字在银行取不出养老金",
       "onboard_time": 1672889611,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486341,
+      "num": 486341,
+      "word": "上海电费",
+      "onboard_time": 1672903166,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -515,6 +531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 355943,
+      "num": 236855,
+      "word": "郎朗商业版图",
+      "onboard_time": 1672902689,
+      "rank": 40,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 353238,
       "num": 353238,
       "word": "狗子啃墙皮啃掉一排牙齿",
@@ -547,12 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 328920,
-      "num": 140351,
-      "word": "网友吃到了刘亦菲做的鲜花饼",
-      "onboard_time": 1672902571,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 330714,
+      "num": 143996,
+      "word": "郑钧录视频向刘芸道歉",
+      "onboard_time": 1672900050,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 324146,
@@ -561,6 +585,14 @@
       "onboard_time": 1672892132,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 322973,
+      "num": 322973,
+      "word": "妹妹被姐姐欺负后写日记称我忍了",
+      "onboard_time": 1672899807,
+      "rank": 45,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 315801,
@@ -611,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307980,
+      "num": 307980,
+      "word": "仰望",
+      "onboard_time": 1672903651,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 307198,
       "num": 307198,
       "word": "天府可乐呼吁消费者理性消费",
@@ -643,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 297262,
+      "num": 142272,
+      "word": "顾南亭满脑子想的都是程霄",
+      "onboard_time": 1672903050,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294173,
       "num": 183574,
       "word": "许红豆人家图我大美女",
@@ -673,14 +721,6 @@
       "onboard_time": 1672890151,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 285822,
-      "num": 285822,
-      "word": "妹妹被姐姐欺负后写日记称我忍了",
-      "onboard_time": 1672899807,
-      "rank": 45,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 285184,
@@ -731,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274179,
+      "num": 274179,
+      "word": "知情人称风情不摇晃作者已退圈",
+      "onboard_time": 1672902028,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271967,
       "num": 271967,
       "word": "风月锦囊阵容官宣",
@@ -745,14 +793,6 @@
       "onboard_time": 1672893816,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 265539,
-      "num": 139678,
-      "word": "郑钧录视频向刘芸道歉",
-      "onboard_time": 1672900050,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 261367,
@@ -777,14 +817,6 @@
       "onboard_time": 1672833330,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 254435,
-      "num": 120726,
-      "word": "郎朗商业版图",
-      "onboard_time": 1672902689,
-      "rank": 40,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 252405,
@@ -843,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234751,
+      "num": 116488,
+      "word": "苍兰诀",
+      "onboard_time": 1672904009,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234357,
       "num": 234357,
       "word": "开封失联多日16岁女孩已找到",
@@ -872,6 +912,14 @@
       "word": "运载46万盒连花清瘟货车高速上起火",
       "onboard_time": 1672830691,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225346,
+      "num": 225346,
+      "word": "恢复办理内地居民赴港签注",
+      "onboard_time": 1672901132,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -936,6 +984,14 @@
       "word": "指责男童进女子试衣间是小题大做吗",
       "onboard_time": 1672892193,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211411,
+      "num": 211411,
+      "word": "西北有高楼",
+      "onboard_time": 1672902689,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1123,14 +1179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 174259,
-      "num": 174259,
-      "word": "恢复办理内地居民赴港签注",
-      "onboard_time": 1672901132,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172899,
       "num": 147788,
       "word": "乡村爱情15定档0112",
@@ -1267,20 +1315,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147630,
-      "num": 147630,
-      "word": "知情人称风情不摇晃作者已退圈",
-      "onboard_time": 1672902028,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145923,
       "num": 145923,
       "word": "河南省考1月9日报名笔试面试时间确定",
       "onboard_time": 1672888711,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 145385,
+      "num": 145385,
+      "word": "LNG对战BLG",
+      "onboard_time": 1672903410,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 145090,
@@ -1291,8 +1339,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140868,
-      "num": 140868,
+      "raw_hot": 144213,
+      "num": 144213,
       "word": "国内航线燃油附加费1月5日起下调",
       "onboard_time": 1672898852,
       "rank": 45,
@@ -1441,14 +1489,6 @@
       "onboard_time": 1672839095,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 109668,
-      "num": 109668,
-      "word": "西北有高楼",
-      "onboard_time": 1672902689,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108710,
