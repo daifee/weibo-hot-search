@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672886536931,
+  "endTime": 1672887142868,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -265,6 +265,14 @@
       "onboard_time": 1672835914,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1646175,
+      "num": 1646175,
+      "word": "优衣库遭掀帘女子被男童家长骂不检点",
+      "onboard_time": 1672885169,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1624302,
@@ -689,14 +697,6 @@
       "onboard_time": 1672647087,
       "rank": 30,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1055831,
-      "num": 1055831,
-      "word": "优衣库遭掀帘女子被男童家长骂不检点",
-      "onboard_time": 1672885169,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1052339,
@@ -2379,6 +2379,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 476034,
+      "num": 476034,
+      "word": "xbb.1.5已成美国优势毒株",
+      "onboard_time": 1672883130,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 475966,
       "num": 375329,
       "word": "hanni声音",
@@ -2513,14 +2521,6 @@
       "onboard_time": 1672874299,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 452678,
-      "num": 452678,
-      "word": "xbb.1.5已成美国优势毒株",
-      "onboard_time": 1672883130,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 452032,
@@ -2793,6 +2793,14 @@
       "onboard_time": 1672664733,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414813,
+      "num": 414813,
+      "word": "曝C罗将继续执行2场禁赛",
+      "onboard_time": 1672885228,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 413638,
@@ -3763,6 +3771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315801,
+      "num": 305090,
+      "word": "长空之王全新海报",
+      "onboard_time": 1672886250,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315758,
       "num": 199241,
       "word": "谢之遥比韩商言还操心",
@@ -3851,14 +3867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 309558,
-      "num": 305090,
-      "word": "长空之王全新海报",
-      "onboard_time": 1672886250,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 308917,
       "num": 283206,
       "word": "未成年人禁止服用诺氟沙星",
@@ -3921,14 +3929,6 @@
       "onboard_time": 1672732649,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 302606,
-      "num": 302606,
-      "word": "曝C罗将继续执行2场禁赛",
-      "onboard_time": 1672885228,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 302509,
@@ -4595,6 +4595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262658,
+      "num": 262658,
+      "word": "狗子啃墙皮啃掉一排牙齿",
+      "onboard_time": 1672886129,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261801,
       "num": 261801,
       "word": "爷爷奶奶烧竹沥水为孙女止咳",
@@ -4641,6 +4649,14 @@
       "onboard_time": 1672650869,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259183,
+      "num": 219269,
+      "word": "风月锦囊阵容官宣",
+      "onboard_time": 1672886550,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 258934,
@@ -5089,6 +5105,14 @@
       "onboard_time": 1672724787,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232539,
+      "num": 214874,
+      "word": "许红豆对谢之遥是日久生情",
+      "onboard_time": 1672883250,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 232184,
@@ -6043,14 +6067,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 182937,
-      "num": 182937,
-      "word": "许红豆对谢之遥是日久生情",
-      "onboard_time": 1672883250,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 182587,
       "num": 182587,
       "word": "没见过对辣锅这么执着的",
@@ -6939,6 +6955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147060,
+      "num": 147060,
+      "word": "98年哥哥返乡给15弟妹买一车礼物",
+      "onboard_time": 1672886787,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147013,
       "num": 147013,
       "word": "长白山野生小紫貂玩雪玩嗨啦",
@@ -7083,14 +7107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139208,
-      "num": 139208,
-      "word": "狗子啃墙皮啃掉一排牙齿",
-      "onboard_time": 1672886129,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138996,
       "num": 138996,
       "word": "做过最享受的美甲",
@@ -7233,6 +7249,14 @@
       "onboard_time": 1672709425,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132731,
+      "num": 115207,
+      "word": "满江红易烊千玺演副统领孙均",
+      "onboard_time": 1672887089,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 132710,
@@ -7587,6 +7611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115871,
+      "num": 115871,
+      "word": "河北柏乡频繁出现天然气断气现象",
+      "onboard_time": 1672886007,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115320,
       "num": 115320,
       "word": "利雅得全城都是欢迎C罗海报",
@@ -7673,14 +7705,6 @@
       "onboard_time": 1672673790,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 109960,
-      "num": 109960,
-      "word": "河北柏乡频繁出现天然气断气现象",
-      "onboard_time": 1672886007,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109472,
@@ -7825,6 +7849,14 @@
       "onboard_time": 1672623626,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97583,
+      "num": 97583,
+      "word": "CBA赛区保安与曾凡博球迷抢鞋",
+      "onboard_time": 1672887089,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 97459,

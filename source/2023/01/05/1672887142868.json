@@ -1,0 +1,410 @@
+{
+  "runTime": 1672887142868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1646175,
+        "num": 1646175,
+        "word": "优衣库遭掀帘女子被男童家长骂不检点",
+        "onboard_time": 1672885169,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2267687,
+        "num": 1562782,
+        "word": "新冠病毒很可能存在眼部趋向性",
+        "onboard_time": 1672879950,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70877,
+        "num": 1370667,
+        "word": "如何看待XBB系列毒株",
+        "onboard_time": 1672836392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1342480,
+        "num": 1342480,
+        "word": "妻子买千元手机被丈夫按头砸柜台",
+        "onboard_time": 1672884568,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777958,
+        "num": 777958,
+        "word": "浪莎回应郎朗吉娜代言一日游",
+        "onboard_time": 1672881327,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 729389,
+        "num": 729389,
+        "word": "2022年度十大烂片盘点",
+        "onboard_time": 1672879528,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 717684,
+        "num": 717684,
+        "word": "女生回男友家过节后决定分手",
+        "onboard_time": 1672877127,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537847,
+        "num": 537847,
+        "word": "法国公布针对中国旅客检测数据",
+        "onboard_time": 1672880550,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484962,
+        "num": 484962,
+        "word": "四川戒毒点名批网络小说风情不摇晃",
+        "onboard_time": 1672845330,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476034,
+        "num": 476034,
+        "word": "xbb.1.5已成美国优势毒株",
+        "onboard_time": 1672883130,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456303,
+        "num": 456303,
+        "word": "有被16年的钟楚曦惊艳到",
+        "onboard_time": 1672880490,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446170,
+        "num": 446170,
+        "word": "权志龙2023世界巡演计划有港澳场",
+        "onboard_time": 1672885169,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 438979,
+        "num": 438979,
+        "word": "王鹤棣说浮图缘再演霸总有压力",
+        "onboard_time": 1672884749,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 418386,
+        "num": 418386,
+        "word": "顾魏今天35岁了",
+        "onboard_time": 1672882469,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417844,
+        "num": 417844,
+        "word": "狗狗趴去世主人床上默默流泪",
+        "onboard_time": 1672882831,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414813,
+        "num": 414813,
+        "word": "曝C罗将继续执行2场禁赛",
+        "onboard_time": 1672885228,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411316,
+        "num": 411316,
+        "word": "妻子吐槽老公在病房和女患者嗨聊",
+        "onboard_time": 1672880429,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356429,
+        "num": 356429,
+        "word": "初禾初",
+        "onboard_time": 1672845094,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327504,
+        "num": 327504,
+        "word": "女子回应在优衣库试衣间被男童掀帘",
+        "onboard_time": 1672877427,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305750,
+        "num": 305750,
+        "word": "新冠对生理期到底有什么影响",
+        "onboard_time": 1672846352,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356102,
+        "num": 303786,
+        "word": "王栎鑫说我们是多幸运的人啊",
+        "onboard_time": 1672880490,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315801,
+        "num": 302772,
+        "word": "长空之王全新海报",
+        "onboard_time": 1672886250,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297122,
+        "num": 297122,
+        "word": "警方通报男子机舱喊飞机要出事",
+        "onboard_time": 1672874299,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 267892,
+        "num": 267892,
+        "word": "被亲妈算计是什么体验",
+        "onboard_time": 1672879408,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262658,
+        "num": 262658,
+        "word": "狗子啃墙皮啃掉一排牙齿",
+        "onboard_time": 1672886129,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245400,
+        "num": 245400,
+        "word": "风情不摇晃",
+        "onboard_time": 1672843232,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244733,
+        "num": 244733,
+        "word": "欧盟建议各国要求自中国入境者提供核酸",
+        "onboard_time": 1672878207,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 231062,
+        "num": 231062,
+        "word": "内马尔晒与梅西同框照",
+        "onboard_time": 1672874299,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223171,
+        "num": 223171,
+        "word": "6万球迷见证苏亚雷斯亮相新东家",
+        "onboard_time": 1672882530,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221141,
+        "num": 221141,
+        "word": "地心人",
+        "onboard_time": 1672877251,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259183,
+        "num": 219269,
+        "word": "风月锦囊阵容官宣",
+        "onboard_time": 1672886550,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232539,
+        "num": 214874,
+        "word": "许红豆对谢之遥是日久生情",
+        "onboard_time": 1672883250,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210243,
+        "num": 210243,
+        "word": "宋亚轩打开被黄霄云夸很空灵",
+        "onboard_time": 1672879950,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206651,
+        "num": 206651,
+        "word": "母子遭家暴离家误入高速民警帮交罚款",
+        "onboard_time": 1672857555,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170790,
+        "num": 170790,
+        "word": "虞书欣片场和郭敬明聊天路透",
+        "onboard_time": 1672849885,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167935,
+        "num": 167935,
+        "word": "为什么劝情侣不要轻易拉黑",
+        "onboard_time": 1672844610,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147060,
+        "num": 147060,
+        "word": "98年哥哥返乡给15弟妹买一车礼物",
+        "onboard_time": 1672886787,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124129,
+        "num": 124129,
+        "word": "今日小寒",
+        "onboard_time": 1672874238,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120461,
+        "num": 120461,
+        "word": "温州小猫走丢2天在上海被收养",
+        "onboard_time": 1672858095,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115871,
+        "num": 115871,
+        "word": "河北柏乡频繁出现天然气断气现象",
+        "onboard_time": 1672886007,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157584,
+        "num": 115847,
+        "word": "刘亦菲许红豆说出了打工人的酸楚",
+        "onboard_time": 1672880672,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132731,
+        "num": 115207,
+        "word": "满江红易烊千玺演副统领孙均",
+        "onboard_time": 1672887089,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111307,
+        "num": 111307,
+        "word": "女子晒英国老公回贵州家乡干活杀猪",
+        "onboard_time": 1672873819,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108074,
+        "num": 108074,
+        "word": "74岁老人网购上瘾假金链子成堆买",
+        "onboard_time": 1672843712,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107786,
+        "num": 107786,
+        "word": "大爷冰钓坠河消防用手肘破冰救人",
+        "onboard_time": 1672885528,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106810,
+        "num": 106810,
+        "word": "北京骑手小哥一年跑2万单年入20万",
+        "onboard_time": 1672873034,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104001,
+        "num": 104001,
+        "word": "国补取消你还买新能源车吗",
+        "onboard_time": 1672877065,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103859,
+        "num": 103859,
+        "word": "恋爱真的需要发朋友圈吗",
+        "onboard_time": 1672841075,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98346,
+        "num": 98346,
+        "word": "凌晨坐房顶大哭说不想结婚",
+        "onboard_time": 1672853958,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97583,
+        "num": 97583,
+        "word": "CBA赛区保安与曾凡博球迷抢鞋",
+        "onboard_time": 1672887089,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席同菲律宾总统会谈#"
+    }
+  }
+}

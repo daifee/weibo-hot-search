@@ -1,6 +1,6 @@
 {
   "startTime": 1672849948080,
-  "endTime": 1672886536931,
+  "endTime": 1672887142868,
   "band_list": [
     {
       "raw_hot": 2432405,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1646175,
+      "num": 1646175,
+      "word": "优衣库遭掀帘女子被男童家长骂不检点",
+      "onboard_time": 1672885169,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1453277,
       "num": 1453277,
       "word": "妻子买千元手机被丈夫按头砸柜台",
@@ -49,14 +57,6 @@
       "onboard_time": 1672881327,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1055831,
-      "num": 1055831,
-      "word": "优衣库遭掀帘女子被男童家长骂不检点",
-      "onboard_time": 1672885169,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1014752,
@@ -171,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 476034,
+      "num": 476034,
+      "word": "xbb.1.5已成美国优势毒株",
+      "onboard_time": 1672883130,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470738,
       "num": 470738,
       "word": "狗狗趴去世主人床上默默流泪",
@@ -185,14 +193,6 @@
       "onboard_time": 1672874299,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 452678,
-      "num": 452678,
-      "word": "xbb.1.5已成美国优势毒株",
-      "onboard_time": 1672883130,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 448694,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414813,
+      "num": 414813,
+      "word": "曝C罗将继续执行2场禁赛",
+      "onboard_time": 1672885228,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 395227,
       "num": 395227,
       "word": "宋亚轩打开被黄霄云夸很空灵",
@@ -259,15 +267,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312343,
-      "num": 312343,
-      "word": "女子晒英国老公回贵州家乡干活杀猪",
-      "onboard_time": 1672873819,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309558,
+      "raw_hot": 315801,
       "num": 305090,
       "word": "长空之王全新海报",
       "onboard_time": 1672886250,
@@ -275,12 +275,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302606,
-      "num": 302606,
-      "word": "曝C罗将继续执行2场禁赛",
-      "onboard_time": 1672885228,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 312343,
+      "num": 312343,
+      "word": "女子晒英国老公回贵州家乡干活杀猪",
+      "onboard_time": 1672873819,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300720,
@@ -331,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262658,
+      "num": 262658,
+      "word": "狗子啃墙皮啃掉一排牙齿",
+      "onboard_time": 1672886129,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261367,
       "num": 261367,
       "word": "6万球迷见证苏亚雷斯亮相新东家",
@@ -345,6 +353,14 @@
       "onboard_time": 1672841075,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 259183,
+      "num": 219269,
+      "word": "风月锦囊阵容官宣",
+      "onboard_time": 1672886550,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 258450,
@@ -393,6 +409,14 @@
       "onboard_time": 1672835312,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232539,
+      "num": 214874,
+      "word": "许红豆对谢之遥是日久生情",
+      "onboard_time": 1672883250,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 230701,
@@ -481,14 +505,6 @@
       "onboard_time": 1672850363,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 182937,
-      "num": 182937,
-      "word": "许红豆对谢之遥是日久生情",
-      "onboard_time": 1672883250,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 182318,
@@ -643,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147060,
+      "num": 147060,
+      "word": "98年哥哥返乡给15弟妹买一车礼物",
+      "onboard_time": 1672886787,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140260,
       "num": 140260,
       "word": "肖战卡其色西装直播造型",
@@ -675,12 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139208,
-      "num": 139208,
-      "word": "狗子啃墙皮啃掉一排牙齿",
-      "onboard_time": 1672886129,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 132731,
+      "num": 115207,
+      "word": "满江红易烊千玺演副统领孙均",
+      "onboard_time": 1672887089,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 132291,
@@ -739,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115871,
+      "num": 115871,
+      "word": "河北柏乡频繁出现天然气断气现象",
+      "onboard_time": 1672886007,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114921,
       "num": 114921,
       "word": "刘宇安徽春晚路透",
@@ -761,14 +793,6 @@
       "onboard_time": 1672839095,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 109960,
-      "num": 109960,
-      "word": "河北柏乡频繁出现天然气断气现象",
-      "onboard_time": 1672886007,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105744,
@@ -809,6 +833,14 @@
       "onboard_time": 1672845634,
       "rank": 39,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 97583,
+      "num": 97583,
+      "word": "CBA赛区保安与曾凡博球迷抢鞋",
+      "onboard_time": 1672887089,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 96649,
