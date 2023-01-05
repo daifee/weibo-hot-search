@@ -1,0 +1,410 @@
+{
+  "runTime": 1672923249460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3231757,
+        "num": 3231757,
+        "word": "少爷和我",
+        "onboard_time": 1672916792,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1895927,
+        "num": 1895927,
+        "word": "优衣库遭掀帘女子男友发声",
+        "onboard_time": 1672918652,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78433,
+        "num": 1539172,
+        "word": "共话网络真善美",
+        "onboard_time": 1672920872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1335190,
+        "num": 1335190,
+        "word": "3女子吃自助餐吃掉100多只螃蟹",
+        "onboard_time": 1672919191,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974330,
+        "num": 974330,
+        "word": "女子拒绝公开恋爱关系砍伤男友",
+        "onboard_time": 1672919850,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 892070,
+        "num": 892070,
+        "word": "苗苗说曾喜欢一个人十几年",
+        "onboard_time": 1672918051,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 748825,
+        "num": 748825,
+        "word": "56岁岳父像90后与女婿似同龄人",
+        "onboard_time": 1672914810,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688947,
+        "num": 688947,
+        "word": "肯德基",
+        "onboard_time": 1672915230,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 661042,
+        "num": 661042,
+        "word": "三亚民宿老板称一个月赚回三年亏损",
+        "onboard_time": 1672916245,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569488,
+        "num": 569488,
+        "word": "于蕾任2023春晚总导演",
+        "onboard_time": 1672920153,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1406499,
+        "num": 541837,
+        "word": "新娘被要求坐主厅5小时脚不能沾地",
+        "onboard_time": 1672916552,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1044208,
+        "num": 509397,
+        "word": "NINEPERCENT粉丝应援曲我的少年",
+        "onboard_time": 1672921353,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 461082,
+        "num": 461082,
+        "word": "三亚春节20万一晚酒店已售罄",
+        "onboard_time": 1672916611,
+        "rank": 12,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 435010,
+        "num": 435010,
+        "word": "电费",
+        "onboard_time": 1672909172,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433671,
+        "num": 433671,
+        "word": "哪本小说全网无代餐",
+        "onboard_time": 1672919012,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 415409,
+        "num": 415409,
+        "word": "IVE假唱被KBS点名批评",
+        "onboard_time": 1672906291,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369462,
+        "num": 369462,
+        "word": "景向谁依晚会首秀",
+        "onboard_time": 1672920691,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323245,
+        "num": 323245,
+        "word": "建立首套住房贷款利率政策动态调整机制",
+        "onboard_time": 1672919373,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313217,
+        "num": 313217,
+        "word": "微博杯",
+        "onboard_time": 1672909890,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 310654,
+        "num": 310654,
+        "word": "全国最脏的工作被江西小城包了",
+        "onboard_time": 1672907493,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354621,
+        "num": 309949,
+        "word": "马嘉祺也在看少爷和我",
+        "onboard_time": 1672917094,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353425,
+        "num": 309667,
+        "word": "谭松韵台词功底",
+        "onboard_time": 1672920271,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334564,
+        "num": 307880,
+        "word": "上海电费",
+        "onboard_time": 1672903166,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305919,
+        "num": 305919,
+        "word": "WBG对战EDGY",
+        "onboard_time": 1672917212,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305221,
+        "num": 305221,
+        "word": "时代少年团全校通报以前叫娃娃",
+        "onboard_time": 1672919252,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303714,
+        "num": 303714,
+        "word": "张文宏称社区医院治疗大多无效",
+        "onboard_time": 1672922372,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297899,
+        "num": 297899,
+        "word": "TheShy薇恩上单",
+        "onboard_time": 1672921897,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269682,
+        "num": 269682,
+        "word": "酒精消毒喷剂可以带上高铁吗",
+        "onboard_time": 1672917692,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219036,
+        "num": 219036,
+        "word": "20余名大哥抢救回800箱黄桃罐头",
+        "onboard_time": 1672920811,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 209829,
+        "num": 209829,
+        "word": "快看",
+        "onboard_time": 1672917394,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 281408,
+        "num": 209780,
+        "word": "丁程鑫47岁导演和20岁演员无缝切换",
+        "onboard_time": 1672918592,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254402,
+        "num": 209518,
+        "word": "易烊千玺说沈腾在现场即兴很厉害",
+        "onboard_time": 1672902749,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250965,
+        "num": 209379,
+        "word": "张真源一掌把床拍塌了",
+        "onboard_time": 1672919912,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248020,
+        "num": 209260,
+        "word": "虞书欣父母公司再成被执行人",
+        "onboard_time": 1672892495,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209201,
+        "num": 209201,
+        "word": "这猫怎么有腋毛啊",
+        "onboard_time": 1672913670,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234994,
+        "num": 209050,
+        "word": "程霄当众承认喜欢顾南亭",
+        "onboard_time": 1672912111,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208762,
+        "num": 208762,
+        "word": "陆家嘴三件套石墩引游客火爆打卡",
+        "onboard_time": 1672911391,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 208306,
+        "num": 208306,
+        "word": "对于购买第一套住房的要大力支持",
+        "onboard_time": 1672922071,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206930,
+        "num": 206930,
+        "word": "上海电网回应电费涨价",
+        "onboard_time": 1672913191,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 203795,
+        "num": 203795,
+        "word": "姐弟恋的结局是怎样的",
+        "onboard_time": 1672917931,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208201,
+        "num": 202643,
+        "word": "许红豆说自己曾经是前台憋尿亚军",
+        "onboard_time": 1672923211,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177584,
+        "num": 177584,
+        "word": "新冠阳性大麦网拒绝退票",
+        "onboard_time": 1672907192,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176216,
+        "num": 176216,
+        "word": "北京WB阿豆挂牌",
+        "onboard_time": 1672922849,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163753,
+        "num": 163753,
+        "word": "刘春孔庆东等微博账号被禁言",
+        "onboard_time": 1672920451,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163266,
+        "num": 163266,
+        "word": "5位退役也未曾飞天的航天员",
+        "onboard_time": 1672920572,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144519,
+        "num": 163243,
+        "word": "杭州一KTV聘用6名未成年少女被罚",
+        "onboard_time": 1672907493,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143801,
+        "num": 162802,
+        "word": "峨眉山最有礼貌的猴子",
+        "onboard_time": 1672922793,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124432,
+        "num": 162733,
+        "word": "和家境好的朋友相处会累吗",
+        "onboard_time": 1672920751,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114612,
+        "num": 162335,
+        "word": "风情不摇晃作者曾回应相关争议",
+        "onboard_time": 1672899390,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114140,
+        "num": 162249,
+        "word": "QQ糖角标 根据软硬程度区分",
+        "onboard_time": 1672910312,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023激发活力释放潜力#"
+    }
+  }
+}

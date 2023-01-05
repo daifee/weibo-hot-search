@@ -1,6 +1,6 @@
 {
   "startTime": 1672849948080,
-  "endTime": 1672922160705,
+  "endTime": 1672923249460,
   "band_list": [
     {
       "raw_hot": 3420078,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1895927,
+      "num": 1895927,
+      "word": "优衣库遭掀帘女子男友发声",
+      "onboard_time": 1672918652,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1888998,
       "num": 1888998,
       "word": "四川戒毒点名批网络小说风情不摇晃",
@@ -87,14 +95,6 @@
       "num": 1772733,
       "word": "女生回男友家过节后决定分手",
       "onboard_time": 1672877127,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1741381,
-      "num": 1741381,
-      "word": "优衣库遭掀帘女子男友发声",
-      "onboard_time": 1672918652,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -219,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1044208,
+      "num": 913085,
+      "word": "NINEPERCENT粉丝应援曲我的少年",
+      "onboard_time": 1672921353,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1014752,
       "num": 1014752,
       "word": "欧盟建议各国要求自中国入境者提供核酸",
@@ -243,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 974330,
+      "num": 974330,
+      "word": "女子拒绝公开恋爱关系砍伤男友",
+      "onboard_time": 1672919850,
+      "rank": 8,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 965083,
       "num": 965083,
       "word": "苗苗说曾喜欢一个人十几年",
@@ -265,14 +281,6 @@
       "onboard_time": 1672897652,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 913085,
-      "num": 913085,
-      "word": "NINEPERCENT粉丝应援曲我的少年",
-      "onboard_time": 1672921353,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 903883,
@@ -433,14 +441,6 @@
       "onboard_time": 1672904009,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 726737,
-      "num": 726737,
-      "word": "女子拒绝公开恋爱关系砍伤男友",
-      "onboard_time": 1672919850,
-      "rank": 8,
-      "category": "社会负面"
     },
     {
       "raw_hot": 726032,
@@ -739,6 +739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 433671,
+      "num": 433671,
+      "word": "哪本小说全网无代餐",
+      "onboard_time": 1672919012,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 431789,
       "num": 285105,
       "word": "谢之遥没告白却被拒绝",
@@ -780,7 +788,7 @@
     },
     {
       "raw_hot": 418332,
-      "num": 289095,
+      "num": 369462,
       "word": "景向谁依晚会首秀",
       "onboard_time": 1672920691,
       "rank": 20,
@@ -841,14 +849,6 @@
       "onboard_time": 1672909471,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 392043,
-      "num": 392043,
-      "word": "哪本小说全网无代餐",
-      "onboard_time": 1672919012,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 383355,
@@ -931,6 +931,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 353425,
+      "num": 309667,
+      "word": "谭松韵台词功底",
+      "onboard_time": 1672920271,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 353238,
       "num": 353238,
       "word": "狗子啃墙皮啃掉一排牙齿",
@@ -963,14 +971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 343631,
-      "num": 288293,
-      "word": "谭松韵台词功底",
-      "onboard_time": 1672920271,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 343210,
       "num": 297477,
       "word": "金唱片",
@@ -988,7 +988,7 @@
     },
     {
       "raw_hot": 336171,
-      "num": 287824,
+      "num": 305221,
       "word": "时代少年团全校通报以前叫娃娃",
       "onboard_time": 1672919252,
       "rank": 22,
@@ -1017,6 +1017,14 @@
       "onboard_time": 1672892132,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 323245,
+      "num": 323245,
+      "word": "建立首套住房贷款利率政策动态调整机制",
+      "onboard_time": 1672919373,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322973,
@@ -1115,12 +1123,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 305919,
+      "num": 305919,
+      "word": "WBG对战EDGY",
+      "onboard_time": 1672917212,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305496,
       "num": 218093,
       "word": "张真源一掌把床拍塌了",
       "onboard_time": 1672919912,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303714,
+      "num": 303714,
+      "word": "张文宏称社区医院治疗大多无效",
+      "onboard_time": 1672922372,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303338,
@@ -1155,6 +1179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 297899,
+      "num": 297899,
+      "word": "TheShy薇恩上单",
+      "onboard_time": 1672921897,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 297262,
       "num": 142272,
       "word": "顾南亭满脑子想的都是程霄",
@@ -1176,14 +1208,6 @@
       "word": "74岁老人网购上瘾假金链子成堆买",
       "onboard_time": 1672843712,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289459,
-      "num": 289459,
-      "word": "建立首套住房贷款利率政策动态调整机制",
-      "onboard_time": 1672919373,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1275,20 +1299,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271235,
-      "num": 271235,
-      "word": "WBG对战EDGY",
-      "onboard_time": 1672917212,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 270289,
       "num": 213764,
       "word": "刘亦菲片场撸猫逗狗日常",
       "onboard_time": 1672893816,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269682,
+      "num": 269682,
+      "word": "酒精消毒喷剂可以带上高铁吗",
+      "onboard_time": 1672917692,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269215,
@@ -1451,14 +1475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226254,
-      "num": 226254,
-      "word": "酒精消毒喷剂可以带上高铁吗",
-      "onboard_time": 1672917692,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225346,
       "num": 225346,
       "word": "恢复办理内地居民赴港签注",
@@ -1489,6 +1505,14 @@
       "onboard_time": 1672844253,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219036,
+      "num": 219036,
+      "word": "20余名大哥抢救回800箱黄桃罐头",
+      "onboard_time": 1672920811,
+      "rank": 37,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 218903,
@@ -1560,6 +1584,22 @@
       "word": "句句不写穷 句句都是穷",
       "onboard_time": 1672840352,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 208306,
+      "num": 208306,
+      "word": "对于购买第一套住房的要大力支持",
+      "onboard_time": 1672922071,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208201,
+      "num": 202643,
+      "word": "许红豆说自己曾经是前台憋尿亚军",
+      "onboard_time": 1672923211,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1747,14 +1787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177276,
-      "num": 177276,
-      "word": "20余名大哥抢救回800箱黄桃罐头",
-      "onboard_time": 1672920811,
-      "rank": 37,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 177030,
       "num": 136212,
       "word": "张杰说回避冲突是保护大家的情绪",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1672851981,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176216,
+      "num": 176216,
+      "word": "北京WB阿豆挂牌",
+      "onboard_time": 1672922849,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 172899,
@@ -1833,6 +1873,14 @@
       "onboard_time": 1672912052,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163753,
+      "num": 163753,
+      "word": "刘春孔庆东等微博账号被禁言",
+      "onboard_time": 1672920451,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163482,
@@ -1963,14 +2011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147446,
-      "num": 147446,
-      "word": "对于购买第一套住房的要大力支持",
-      "onboard_time": 1672922071,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146134,
       "num": 198892,
       "word": "优化内地与港澳人员往来措施1月8日起实施",
@@ -2003,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143801,
+      "num": 162802,
+      "word": "峨眉山最有礼貌的猴子",
+      "onboard_time": 1672922793,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142402,
       "num": 142402,
       "word": "小寒节气这4个地方要保暖",
@@ -2011,16 +2059,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142000,
-      "num": 142000,
-      "word": "刘春孔庆东等微博账号被禁言",
-      "onboard_time": 1672920451,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140646,
-      "num": 140646,
+      "num": 162733,
       "word": "和家境好的朋友相处会累吗",
       "onboard_time": 1672920751,
       "rank": 43,
@@ -2299,14 +2339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 89235,
-      "num": 139176,
-      "word": "TheShy薇恩上单",
-      "onboard_time": 1672921897,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 88431,
       "num": 88431,
       "word": "画师 LGD",
@@ -2363,6 +2395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78433,
+      "num": 1539172,
+      "word": "共话网络真善美",
+      "onboard_time": 1672920872,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78017,
       "num": 78017,
       "word": "妈妈吐槽儿子每天进门就刷鞋",
@@ -2385,14 +2425,6 @@
       "onboard_time": 1672847729,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 66044,
-      "num": 1477960,
-      "word": "共话网络真善美",
-      "onboard_time": 1672920872,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60836,
