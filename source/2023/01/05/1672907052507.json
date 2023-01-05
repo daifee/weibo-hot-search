@@ -1,0 +1,410 @@
+{
+  "runTime": 1672907052507,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2568157,
+        "num": 2568157,
+        "word": "上海电费",
+        "onboard_time": 1672903166,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1148125,
+        "num": 1148125,
+        "word": "女儿生病继母不刮鳞用活鱼煮汤",
+        "onboard_time": 1672905693,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26784,
+        "num": 1013392,
+        "word": "如何看待XBB系列毒株",
+        "onboard_time": 1672836392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936527,
+        "num": 936527,
+        "word": "苗苗谈刻意不理郑恺的原因",
+        "onboard_time": 1672899450,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 944672,
+        "num": 933339,
+        "word": "风情不摇晃作者曾回应相关争议",
+        "onboard_time": 1672899390,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769385,
+        "num": 769385,
+        "word": "易烊千玺说沈腾在现场即兴很厉害",
+        "onboard_time": 1672902749,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 668490,
+        "num": 668490,
+        "word": "苍兰诀",
+        "onboard_time": 1672904009,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 541229,
+        "num": 541229,
+        "word": "丈夫被妻子气哭1小时去娘家诉苦",
+        "onboard_time": 1672897652,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416924,
+        "num": 416924,
+        "word": "法律明令禁止未成年人进KTV",
+        "onboard_time": 1672891655,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 404325,
+        "num": 404325,
+        "word": "仰望",
+        "onboard_time": 1672903651,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1570145,
+        "num": 399809,
+        "word": "IVE假唱被KBS点名批评",
+        "onboard_time": 1672906291,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 852937,
+        "num": 392980,
+        "word": "王铮亮说希望苏醒把羽绒服一直穿到海南",
+        "onboard_time": 1672906593,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566823,
+        "num": 390229,
+        "word": "电影无名辟谣",
+        "onboard_time": 1672906051,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425928,
+        "num": 380998,
+        "word": "湖南一地倡导非必要不返乡",
+        "onboard_time": 1672905508,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377963,
+        "num": 377963,
+        "word": "知情人称风情不摇晃作者已退圈",
+        "onboard_time": 1672902028,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376383,
+        "num": 376383,
+        "word": "西北有高楼",
+        "onboard_time": 1672902689,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375273,
+        "num": 375273,
+        "word": "新冠病毒很可能存在眼部趋向性",
+        "onboard_time": 1672879950,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296540,
+        "num": 296540,
+        "word": "别让大学生辅导高中生作业",
+        "onboard_time": 1672891591,
+        "rank": 17,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 244328,
+        "num": 244328,
+        "word": "远方传来风笛",
+        "onboard_time": 1672890755,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 627440,
+        "num": 242451,
+        "word": "女子怀孕后因病成植物人",
+        "onboard_time": 1672893276,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755656,
+        "num": 240776,
+        "word": "网友吃到了刘亦菲做的鲜花饼",
+        "onboard_time": 1672902571,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 456617,
+        "num": 239552,
+        "word": "网传唐嫣将再演仙侠剧",
+        "onboard_time": 1672906409,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379608,
+        "num": 236164,
+        "word": "鹿晗五哈录制现场给粉丝送喝的",
+        "onboard_time": 1672900948,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235314,
+        "num": 235314,
+        "word": "给爸爸买了只金蟾蜍",
+        "onboard_time": 1672906291,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228488,
+        "num": 228488,
+        "word": "LNG对战BLG",
+        "onboard_time": 1672903410,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211489,
+        "num": 211489,
+        "word": "围炉煮茶",
+        "onboard_time": 1672894477,
+        "rank": 25,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 194557,
+        "num": 194557,
+        "word": "每日最多6万港人过关进入内地",
+        "onboard_time": 1672904430,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193042,
+        "num": 193042,
+        "word": "妹妹被姐姐欺负后写日记称我忍了",
+        "onboard_time": 1672899807,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 179036,
+        "num": 179036,
+        "word": "恢复办理内地居民赴港签注",
+        "onboard_time": 1672901132,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149456,
+        "num": 149456,
+        "word": "长城到底藏有多少暗门",
+        "onboard_time": 1672904250,
+        "rank": 29,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 366552,
+        "num": 149128,
+        "word": "陆毅趁鲍蕾不在家带孩子彻底放飞",
+        "onboard_time": 1672899149,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 952274,
+        "num": 148081,
+        "word": "虞书欣父母公司再成被执行人",
+        "onboard_time": 1672892495,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556033,
+        "num": 146678,
+        "word": "优衣库遭掀帘女子被男童家长骂不检点",
+        "onboard_time": 1672885169,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334266,
+        "num": 146020,
+        "word": "郑钧录视频向刘芸道歉",
+        "onboard_time": 1672900050,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317126,
+        "num": 144725,
+        "word": "EXO将春天后完整体回归",
+        "onboard_time": 1672899390,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314467,
+        "num": 144205,
+        "word": "王一博长空之王试飞镜头",
+        "onboard_time": 1672904549,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284626,
+        "num": 143237,
+        "word": "共青团中央批风情不摇晃",
+        "onboard_time": 1672905631,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142402,
+        "num": 142402,
+        "word": "小寒节气这4个地方要保暖",
+        "onboard_time": 1672905870,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137419,
+        "num": 137419,
+        "word": "出版社回应小说被批歌颂毒枭爱情",
+        "onboard_time": 1672889912,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136702,
+        "num": 136702,
+        "word": "原来猫饼是这样做的",
+        "onboard_time": 1672904608,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296169,
+        "num": 131111,
+        "word": "郎朗商业版图",
+        "onboard_time": 1672902689,
+        "rank": 40,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 124073,
+        "num": 124073,
+        "word": "猫猫是懂晒太阳的",
+        "onboard_time": 1672895614,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119996,
+        "num": 119996,
+        "word": "别人家的年终奖发的有多早",
+        "onboard_time": 1672897833,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101903,
+        "num": 101903,
+        "word": "四川戒毒点名批网络小说风情不摇晃",
+        "onboard_time": 1672845330,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100911,
+        "num": 100911,
+        "word": "如何看待年轻人选年货偏爱家乡味",
+        "onboard_time": 1672905693,
+        "rank": 44,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 100856,
+        "num": 100856,
+        "word": "二胎妈妈盆底肌受损阳后咳嗽严重漏尿",
+        "onboard_time": 1672888832,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95869,
+        "num": 95869,
+        "word": "国内航线燃油附加费1月5日起下调",
+        "onboard_time": 1672898852,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94415,
+        "num": 94415,
+        "word": "8岁妹妹给姐姐看记仇日记",
+        "onboard_time": 1672902090,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88119,
+        "num": 88119,
+        "word": "曝C罗将继续执行2场禁赛",
+        "onboard_time": 1672885228,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86176,
+        "num": 86176,
+        "word": "奶奶不会写字在银行取不出养老金",
+        "onboard_time": 1672889611,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席同菲律宾总统会谈#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672904017385,
+  "endTime": 1672907052507,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -192,6 +192,14 @@
       "word": "江歌母亲回应刘鑫对赔偿款发起募捐",
       "onboard_time": 1672742789,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2568157,
+      "num": 2568157,
+      "word": "上海电费",
+      "onboard_time": 1672903166,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -545,6 +553,14 @@
       "onboard_time": 1672825650,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1570145,
+      "num": 399809,
+      "word": "IVE假唱被KBS点名批评",
+      "onboard_time": 1672906291,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1551994,
@@ -1024,6 +1040,14 @@
       "word": "运载46万盒连花清瘟货车高速上起火",
       "onboard_time": 1672830691,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1148125,
+      "num": 1148125,
+      "word": "女儿生病继母不刮鳞用活鱼煮汤",
+      "onboard_time": 1672905693,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1555,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 852937,
+      "num": 392980,
+      "word": "王铮亮说希望苏醒把羽绒服一直穿到海南",
+      "onboard_time": 1672906593,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 849413,
       "num": 688300,
       "word": "关晓彤 改妆",
@@ -1915,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755656,
+      "num": 403109,
+      "word": "网友吃到了刘亦菲做的鲜花饼",
+      "onboard_time": 1672902571,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 753849,
       "num": 753849,
       "word": "广州本次新冠疫情已达峰",
@@ -2091,14 +2131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 710535,
-      "num": 403109,
-      "word": "网友吃到了刘亦菲做的鲜花饼",
-      "onboard_time": 1672902571,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 709809,
       "num": 709809,
       "word": "女子花2700修热水器成本只有13元",
@@ -2249,6 +2281,14 @@
       "onboard_time": 1672650087,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 668490,
+      "num": 668490,
+      "word": "苍兰诀",
+      "onboard_time": 1672904009,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 666112,
@@ -2825,6 +2865,14 @@
       "onboard_time": 1672759112,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566823,
+      "num": 390229,
+      "word": "电影无名辟谣",
+      "onboard_time": 1672906051,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 565547,
@@ -3427,14 +3475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 486341,
-      "num": 486341,
-      "word": "上海电费",
-      "onboard_time": 1672903166,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 483123,
       "num": 483123,
       "word": "优酷回应账号只能一部手机登录",
@@ -3641,6 +3681,14 @@
       "onboard_time": 1672749752,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 456617,
+      "num": 239552,
+      "word": "网传唐嫣将再演仙侠剧",
+      "onboard_time": 1672906409,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 455651,
@@ -3963,6 +4011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425928,
+      "num": 380998,
+      "word": "湖南一地倡导非必要不返乡",
+      "onboard_time": 1672905508,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424753,
       "num": 424753,
       "word": "母子遭家暴离家误入高速民警帮交罚款",
@@ -4145,6 +4201,14 @@
       "onboard_time": 1672662570,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 404325,
+      "num": 404325,
+      "word": "仰望",
+      "onboard_time": 1672903651,
+      "rank": 15,
+      "category": "科技"
     },
     {
       "raw_hot": 403576,
@@ -4451,6 +4515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 377963,
+      "num": 377963,
+      "word": "知情人称风情不摇晃作者已退圈",
+      "onboard_time": 1672902028,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377307,
       "num": 377307,
       "word": "浮图缘停更四天",
@@ -4481,6 +4553,14 @@
       "onboard_time": 1672895734,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 376383,
+      "num": 376383,
+      "word": "西北有高楼",
+      "onboard_time": 1672902689,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376255,
@@ -5139,6 +5219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 334266,
+      "num": 146020,
+      "word": "郑钧录视频向刘芸道歉",
+      "onboard_time": 1672900050,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333430,
       "num": 256544,
       "word": "王鹤棣王栎鑫李东赫浮图缘花絮",
@@ -5185,14 +5273,6 @@
       "onboard_time": 1672490207,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 330714,
-      "num": 143996,
-      "word": "郑钧录视频向刘芸道歉",
-      "onboard_time": 1672900050,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 328660,
@@ -5411,6 +5491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314467,
+      "num": 144205,
+      "word": "王一博长空之王试飞镜头",
+      "onboard_time": 1672904549,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314031,
       "num": 314031,
       "word": "卧龙凤雏的两只猫咪",
@@ -5521,14 +5609,6 @@
       "onboard_time": 1672572330,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 307980,
-      "num": 307980,
-      "word": "仰望",
-      "onboard_time": 1672903651,
-      "rank": 15,
-      "category": "科技"
     },
     {
       "raw_hot": 307440,
@@ -5971,6 +6051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284626,
+      "num": 143237,
+      "word": "共青团中央批风情不摇晃",
+      "onboard_time": 1672905631,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283838,
       "num": 223442,
       "word": "青山刚昌说新一要出手了",
@@ -6297,14 +6385,6 @@
       "onboard_time": 1672889912,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 274179,
-      "num": 274179,
-      "word": "知情人称风情不摇晃作者已退圈",
-      "onboard_time": 1672902028,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273956,
@@ -7107,6 +7187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 235314,
+      "num": 235314,
+      "word": "给爸爸买了只金蟾蜍",
+      "onboard_time": 1672906291,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235116,
       "num": 235116,
       "word": "蔡卓宜做饭到底多好吃",
@@ -7137,14 +7225,6 @@
       "onboard_time": 1672569329,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 234751,
-      "num": 116488,
-      "word": "苍兰诀",
-      "onboard_time": 1672904009,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 234546,
@@ -7305,6 +7385,14 @@
       "onboard_time": 1672667853,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 228488,
+      "num": 228488,
+      "word": "LNG对战BLG",
+      "onboard_time": 1672903410,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 227905,
@@ -7720,14 +7808,6 @@
       "word": "这是2023年第一天的中国",
       "onboard_time": 1672532064,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211411,
-      "num": 211411,
-      "word": "西北有高楼",
-      "onboard_time": 1672902689,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -8217,6 +8297,14 @@
       "onboard_time": 1672846352,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194557,
+      "num": 194557,
+      "word": "每日最多6万港人过关进入内地",
+      "onboard_time": 1672904430,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193947,
@@ -9675,6 +9763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149456,
+      "num": 149456,
+      "word": "长城到底藏有多少暗门",
+      "onboard_time": 1672904250,
+      "rank": 29,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 149141,
       "num": 149141,
       "word": "蓝色生命线",
@@ -9771,14 +9867,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 145385,
-      "num": 145385,
-      "word": "LNG对战BLG",
-      "onboard_time": 1672903410,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 145090,
       "num": 145090,
       "word": "河北柏乡频繁出现天然气断气现象",
@@ -9848,6 +9936,14 @@
       "word": "男孩跪路边求买玩具妈妈淡定拍照",
       "onboard_time": 1672491231,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142402,
+      "num": 142402,
+      "word": "小寒节气这4个地方要保暖",
+      "onboard_time": 1672905870,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -10023,6 +10119,14 @@
       "num": 137330,
       "word": "被一只狗鄙视了",
       "onboard_time": 1672745194,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 136702,
+      "num": 136702,
+      "word": "原来猫饼是这样做的",
+      "onboard_time": 1672904608,
       "rank": 39,
       "category": "幽默"
     },
@@ -10889,6 +10993,14 @@
       "onboard_time": 1672751611,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100911,
+      "num": 100911,
+      "word": "如何看待年轻人选年货偏爱家乡味",
+      "onboard_time": 1672905693,
+      "rank": 44,
+      "category": "社会议题"
     },
     {
       "raw_hot": 100839,
