@@ -1,6 +1,6 @@
 {
   "startTime": 1672849948080,
-  "endTime": 1672914018353,
+  "endTime": 1672914968420,
   "band_list": [
     {
       "raw_hot": 2780800,
@@ -8,6 +8,14 @@
       "word": "优衣库遭掀帘女子被男童家长骂不检点",
       "onboard_time": 1672885169,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2725119,
+      "num": 2725119,
+      "word": "电费",
+      "onboard_time": 1672909172,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -24,14 +32,6 @@
       "word": "上海电费",
       "onboard_time": 1672903166,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2553470,
-      "num": 2553470,
-      "word": "电费",
-      "onboard_time": 1672909172,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 897469,
+      "num": 897469,
+      "word": "网传马嘉祺宋亚轩张真源将出新歌",
+      "onboard_time": 1672913550,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 889288,
       "num": 889288,
       "word": "易烊千玺说沈腾在现场即兴很厉害",
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603011,
+      "num": 453645,
+      "word": "上海电网回应电费涨价",
+      "onboard_time": 1672913191,
+      "rank": 27,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 593515,
       "num": 593515,
       "word": "给爸爸买了只金蟾蜍",
@@ -409,14 +425,6 @@
       "onboard_time": 1672894477,
       "rank": 21,
       "category": "美食,情感"
-    },
-    {
-      "raw_hot": 585255,
-      "num": 585255,
-      "word": "网传马嘉祺宋亚轩张真源将出新歌",
-      "onboard_time": 1672913550,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 581308,
@@ -579,20 +587,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 448928,
+      "num": 448928,
+      "word": "陆家嘴三件套石墩引游客火爆打卡",
+      "onboard_time": 1672911391,
+      "rank": 12,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 448694,
       "num": 448694,
       "word": "权志龙2023世界巡演计划有港澳场",
       "onboard_time": 1672885169,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 431890,
-      "num": 431890,
-      "word": "陆家嘴三件套石墩引游客火爆打卡",
-      "onboard_time": 1672911391,
-      "rank": 12,
-      "category": "旅游"
     },
     {
       "raw_hot": 431789,
@@ -641,6 +649,14 @@
       "onboard_time": 1672905631,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414073,
+      "num": 414073,
+      "word": "微博杯",
+      "onboard_time": 1672909890,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 413754,
@@ -715,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375180,
+      "num": 375180,
+      "word": "夜城赋今日开播",
+      "onboard_time": 1672912772,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372569,
       "num": 292242,
       "word": "妻子的浪漫旅行",
@@ -737,14 +761,6 @@
       "onboard_time": 1672849885,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 368312,
-      "num": 368312,
-      "word": "微博杯",
-      "onboard_time": 1672909890,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 355943,
@@ -771,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 346111,
-      "num": 200652,
-      "word": "夜城赋今日开播",
-      "onboard_time": 1672912772,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 345848,
       "num": 345848,
       "word": "唐嫣我们的客栈佟湘玉变装视频",
@@ -803,12 +811,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340024,
+      "num": 340024,
+      "word": "这猫怎么有腋毛啊",
+      "onboard_time": 1672913670,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 334266,
       "num": 198266,
       "word": "郑钧录视频向刘芸道歉",
       "onboard_time": 1672900050,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 332849,
+      "num": 198561,
+      "word": "程霄躲在洗手间哭",
+      "onboard_time": 1672914451,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 324146,
@@ -972,7 +996,7 @@
     },
     {
       "raw_hot": 287081,
-      "num": 155957,
+      "num": 197726,
       "word": "黑暗荣耀",
       "onboard_time": 1672911391,
       "rank": 40,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1672913492,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267792,
+      "num": 267792,
+      "word": "QQ糖角标 根据软硬程度区分",
+      "onboard_time": 1672910312,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 261367,
@@ -1283,28 +1315,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208653,
-      "num": 208653,
-      "word": "上海电网回应电费涨价",
-      "onboard_time": 1672913191,
-      "rank": 27,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 205805,
-      "num": 205805,
-      "word": "QQ糖角标 根据软硬程度区分",
-      "onboard_time": 1672910312,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 203682,
       "num": 203682,
       "word": "梅西说期待着与巴黎实现本赛季的目标",
       "onboard_time": 1672888711,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203163,
+      "num": 203163,
+      "word": "原来小狗也喜欢夹子音",
+      "onboard_time": 1672913313,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 202931,
@@ -1360,6 +1384,14 @@
       "word": "2023KPL春季转会期",
       "onboard_time": 1672895852,
       "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 185848,
+      "num": 185848,
+      "word": "新年第五天上了多少分",
+      "onboard_time": 1672913909,
+      "rank": 39,
       "category": "游戏"
     },
     {
@@ -1507,6 +1539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168040,
+      "num": 181397,
+      "word": "500多宝妈在童车旗舰店网购被骗",
+      "onboard_time": 1672911209,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165820,
       "num": 146331,
       "word": "妙手今晚开播",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1672910971,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164017,
+      "num": 181237,
+      "word": "当代大学生放假回家实况",
+      "onboard_time": 1672912052,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 163482,
@@ -1552,14 +1600,6 @@
       "word": "大爷冰钓坠河消防用手肘破冰救人",
       "onboard_time": 1672885528,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161937,
-      "num": 161937,
-      "word": "500多宝妈在童车旗舰店网购被骗",
-      "onboard_time": 1672911209,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1603,14 +1643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154235,
-      "num": 154235,
-      "word": "这猫怎么有腋毛啊",
-      "onboard_time": 1672913670,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 153773,
       "num": 153773,
       "word": "天府可乐官方店铺发公告",
@@ -1651,14 +1683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150054,
-      "num": 150054,
-      "word": "当代大学生放假回家实况",
-      "onboard_time": 1672912052,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148599,
       "num": 148599,
       "word": "巴黎全队列队欢迎梅西",
@@ -1681,14 +1705,6 @@
       "onboard_time": 1672888711,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 145766,
-      "num": 145766,
-      "word": "原来小狗也喜欢夹子音",
-      "onboard_time": 1672913313,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 145090,
@@ -1808,6 +1824,14 @@
       "word": "哈尔滨超治愈大雪人回来了",
       "onboard_time": 1672909831,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122197,
+      "num": 180412,
+      "word": "56岁岳父像90后与女婿似同龄人",
+      "onboard_time": 1672914810,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1987,6 +2011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 87767,
+      "num": 414795,
+      "word": "王传福用20年造就仰望",
+      "onboard_time": 1672912830,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 87130,
       "num": 87130,
       "word": "Hero 倒霉蛋子",
@@ -2009,14 +2041,6 @@
       "onboard_time": 1672842393,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 83267,
-      "num": 404718,
-      "word": "王传福用20年造就仰望",
-      "onboard_time": 1672912830,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 82069,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1672914968420,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2725119,
+        "num": 2725119,
+        "word": "电费",
+        "onboard_time": 1672909172,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1465174,
+        "num": 1465174,
+        "word": "女儿生病继母不刮鳞用活鱼煮汤",
+        "onboard_time": 1672905693,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148273,
+        "num": 1328026,
+        "word": "抗病毒药物应在医生指导下使用",
+        "onboard_time": 1672910430,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1256086,
+        "num": 1256086,
+        "word": "程霄当众承认喜欢顾南亭",
+        "onboard_time": 1672912111,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 953237,
+        "num": 953237,
+        "word": "全国最脏的工作被江西小城包了",
+        "onboard_time": 1672907493,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 897469,
+        "num": 897469,
+        "word": "网传马嘉祺宋亚轩张真源将出新歌",
+        "onboard_time": 1672913550,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 850714,
+        "num": 850714,
+        "word": "IVE假唱被KBS点名批评",
+        "onboard_time": 1672906291,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 721642,
+        "num": 721642,
+        "word": "上海电费",
+        "onboard_time": 1672903166,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496608,
+        "num": 496608,
+        "word": "新冠阳性大麦网拒绝退票",
+        "onboard_time": 1672907192,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455415,
+        "num": 455415,
+        "word": "杭州一KTV聘用6名未成年少女被罚",
+        "onboard_time": 1672907493,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603011,
+        "num": 453645,
+        "word": "上海电网回应电费涨价",
+        "onboard_time": 1672913191,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 476001,
+        "num": 452371,
+        "word": "胖虎说易烊千玺是值得守卫的首位",
+        "onboard_time": 1672907371,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 448928,
+        "num": 448928,
+        "word": "陆家嘴三件套石墩引游客火爆打卡",
+        "onboard_time": 1672911391,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 415932,
+        "num": 415932,
+        "word": "王一博说试飞员是非常危险的职业",
+        "onboard_time": 1672912349,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87767,
+        "num": 414795,
+        "word": "王传福用20年造就仰望",
+        "onboard_time": 1672912830,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 414073,
+        "num": 414073,
+        "word": "微博杯",
+        "onboard_time": 1672909890,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 402271,
+        "num": 402271,
+        "word": "风情不摇晃作者曾回应相关争议",
+        "onboard_time": 1672899390,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375180,
+        "num": 375180,
+        "word": "夜城赋今日开播",
+        "onboard_time": 1672912772,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340024,
+        "num": 340024,
+        "word": "这猫怎么有腋毛啊",
+        "onboard_time": 1672913670,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 338228,
+        "num": 338228,
+        "word": "TES小鹏挂牌",
+        "onboard_time": 1672912289,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 372428,
+        "num": 316073,
+        "word": "苗苗谈刻意不理郑恺的原因",
+        "onboard_time": 1672899450,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359590,
+        "num": 307252,
+        "word": "王鹤棣时宴今日出妆路透",
+        "onboard_time": 1672911692,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349310,
+        "num": 293227,
+        "word": "网友吃到了刘亦菲做的鲜花饼",
+        "onboard_time": 1672902571,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273401,
+        "num": 273401,
+        "word": "丈夫被妻子气哭1小时去娘家诉苦",
+        "onboard_time": 1672897652,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267792,
+        "num": 267792,
+        "word": "QQ糖角标 根据软硬程度区分",
+        "onboard_time": 1672910312,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 256681,
+        "num": 256681,
+        "word": "给爸爸买了只金蟾蜍",
+        "onboard_time": 1672906291,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228296,
+        "num": 228296,
+        "word": "湖南一地倡导非必要不返乡",
+        "onboard_time": 1672905508,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203777,
+        "num": 203777,
+        "word": "不要随便叫别人家的狗",
+        "onboard_time": 1672911632,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203163,
+        "num": 203163,
+        "word": "原来小狗也喜欢夹子音",
+        "onboard_time": 1672913313,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154148,
+        "num": 203142,
+        "word": "在成都真的可以拍到窗含西岭千秋雪",
+        "onboard_time": 1672907971,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 321474,
+        "num": 201098,
+        "word": "梁洁晒曾舜晞送的新外套",
+        "onboard_time": 1672909054,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500548,
+        "num": 200228,
+        "word": "虞书欣父母公司再成被执行人",
+        "onboard_time": 1672892495,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332849,
+        "num": 198561,
+        "word": "程霄躲在洗手间哭",
+        "onboard_time": 1672914451,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278433,
+        "num": 197726,
+        "word": "黑暗荣耀",
+        "onboard_time": 1672911391,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275937,
+        "num": 196262,
+        "word": "王铮亮说希望苏醒把羽绒服一直穿到海南",
+        "onboard_time": 1672906593,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211860,
+        "num": 195224,
+        "word": "优衣库遭掀帘女子被男童家长骂不检点",
+        "onboard_time": 1672885169,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194452,
+        "num": 194452,
+        "word": "阴阳师",
+        "onboard_time": 1672910374,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192406,
+        "num": 192406,
+        "word": "共青团中央批风情不摇晃",
+        "onboard_time": 1672905631,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188569,
+        "num": 188569,
+        "word": "知情人称风情不摇晃作者已退圈",
+        "onboard_time": 1672902028,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185848,
+        "num": 185848,
+        "word": "新年第五天上了多少分",
+        "onboard_time": 1672913909,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255847,
+        "num": 185770,
+        "word": "电影无名辟谣",
+        "onboard_time": 1672906051,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181522,
+        "num": 181522,
+        "word": "LNG对战BLG",
+        "onboard_time": 1672903410,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168040,
+        "num": 181397,
+        "word": "500多宝妈在童车旗舰店网购被骗",
+        "onboard_time": 1672911209,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164017,
+        "num": 181237,
+        "word": "当代大学生放假回家实况",
+        "onboard_time": 1672912052,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153562,
+        "num": 181150,
+        "word": "LGD江城挂牌",
+        "onboard_time": 1672909172,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150776,
+        "num": 181046,
+        "word": "西北有高楼",
+        "onboard_time": 1672902689,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137694,
+        "num": 180930,
+        "word": "12月的电费为何这么贵",
+        "onboard_time": 1672907311,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135406,
+        "num": 180648,
+        "word": "仰望",
+        "onboard_time": 1672903651,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 128772,
+        "num": 180513,
+        "word": "远方传来风笛",
+        "onboard_time": 1672890755,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122197,
+        "num": 180412,
+        "word": "56岁岳父像90后与女婿似同龄人",
+        "onboard_time": 1672914810,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断增强文化遗产保护能力#"
+    }
+  }
+}

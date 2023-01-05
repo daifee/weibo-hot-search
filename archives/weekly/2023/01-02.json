@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672914018353,
+  "endTime": 1672914968420,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2725119,
+      "num": 2725119,
+      "word": "电费",
+      "onboard_time": 1672909172,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2707325,
       "num": 2707325,
       "word": "鹅鸭杀",
@@ -105,14 +113,6 @@
       "onboard_time": 1672817009,
       "rank": 23,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2553470,
-      "num": 2553470,
-      "word": "电费",
-      "onboard_time": 1672909172,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2432405,
@@ -1075,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 897469,
+      "num": 897469,
+      "word": "网传马嘉祺宋亚轩张真源将出新歌",
+      "onboard_time": 1672913550,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 896068,
       "num": 896068,
       "word": "杨幂微博一直敞开是为了不忘初心",
@@ -1955,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 603011,
+      "num": 453645,
+      "word": "上海电网回应电费涨价",
+      "onboard_time": 1672913191,
+      "rank": 27,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 602801,
       "num": 602801,
       "word": "杭州入境人员发现XBB",
@@ -2073,14 +2089,6 @@
       "onboard_time": 1672801950,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 585255,
-      "num": 585255,
-      "word": "网传马嘉祺宋亚轩张真源将出新歌",
-      "onboard_time": 1672913550,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 582416,
@@ -2955,6 +2963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 448928,
+      "num": 448928,
+      "word": "陆家嘴三件套石墩引游客火爆打卡",
+      "onboard_time": 1672911391,
+      "rank": 12,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 448694,
       "num": 448694,
       "word": "权志龙2023世界巡演计划有港澳场",
@@ -3073,14 +3089,6 @@
       "onboard_time": 1672703423,
       "rank": 8,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 431890,
-      "num": 431890,
-      "word": "陆家嘴三件套石墩引游客火爆打卡",
-      "onboard_time": 1672911391,
-      "rank": 12,
-      "category": "旅游"
     },
     {
       "raw_hot": 431789,
@@ -3209,6 +3217,14 @@
       "onboard_time": 1672664733,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414073,
+      "num": 414073,
+      "word": "微博杯",
+      "onboard_time": 1672909890,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 413754,
@@ -3611,6 +3627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375180,
+      "num": 375180,
+      "word": "夜城赋今日开播",
+      "onboard_time": 1672912772,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372569,
       "num": 292242,
       "word": "妻子的浪漫旅行",
@@ -3705,14 +3729,6 @@
       "onboard_time": 1672731869,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 368312,
-      "num": 368312,
-      "word": "微博杯",
-      "onboard_time": 1672909890,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 367793,
@@ -4003,14 +4019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 346111,
-      "num": 200652,
-      "word": "夜城赋今日开播",
-      "onboard_time": 1672912772,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 345848,
       "num": 345848,
       "word": "唐嫣我们的客栈佟湘玉变装视频",
@@ -4091,6 +4099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 340024,
+      "num": 340024,
+      "word": "这猫怎么有腋毛啊",
+      "onboard_time": 1672913670,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 339045,
       "num": 339045,
       "word": "程霄终于知道房东就是顾南亭了",
@@ -4168,6 +4184,14 @@
       "word": "王鹤棣王栎鑫李东赫浮图缘花絮",
       "onboard_time": 1672722269,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 332849,
+      "num": 198561,
+      "word": "程霄躲在洗手间哭",
+      "onboard_time": 1672914451,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -4788,7 +4812,7 @@
     },
     {
       "raw_hot": 287081,
-      "num": 190844,
+      "num": 197726,
       "word": "黑暗荣耀",
       "onboard_time": 1672576049,
       "rank": 37,
@@ -5233,6 +5257,14 @@
       "onboard_time": 1672655492,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267792,
+      "num": 267792,
+      "word": "QQ糖角标 根据软硬程度区分",
+      "onboard_time": 1672910312,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 267631,
@@ -6371,14 +6403,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 208653,
-      "num": 208653,
-      "word": "上海电网回应电费涨价",
-      "onboard_time": 1672913191,
-      "rank": 27,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 208324,
       "num": 151820,
       "word": "曹煜辰BE美学适配度",
@@ -6427,14 +6451,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 205805,
-      "num": 205805,
-      "word": "QQ糖角标 根据软硬程度区分",
-      "onboard_time": 1672910312,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 205168,
       "num": 178045,
       "word": "王俊凯希望可以带来更多好的作品",
@@ -6473,6 +6489,14 @@
       "onboard_time": 1672888711,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203163,
+      "num": 203163,
+      "word": "原来小狗也喜欢夹子音",
+      "onboard_time": 1672913313,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 202073,
@@ -6857,6 +6881,14 @@
       "onboard_time": 1672672051,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185848,
+      "num": 185848,
+      "word": "新年第五天上了多少分",
+      "onboard_time": 1672913909,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 185530,
@@ -7411,6 +7443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168040,
+      "num": 181397,
+      "word": "500多宝妈在童车旗舰店网购被骗",
+      "onboard_time": 1672911209,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167860,
       "num": 167860,
       "word": "鲁尼绝杀老鹰",
@@ -7483,6 +7523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164017,
+      "num": 181237,
+      "word": "当代大学生放假回家实况",
+      "onboard_time": 1672912052,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163735,
       "num": 161062,
       "word": "看个电视太费劲了",
@@ -7553,14 +7601,6 @@
       "onboard_time": 1672743450,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 161937,
-      "num": 161937,
-      "word": "500多宝妈在童车旗舰店网购被骗",
-      "onboard_time": 1672911209,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161646,
@@ -7739,14 +7779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154235,
-      "num": 154235,
-      "word": "这猫怎么有腋毛啊",
-      "onboard_time": 1672913670,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 153998,
       "num": 153998,
       "word": "糖丸爷爷顾方舟逝世四周年",
@@ -7899,14 +7931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150054,
-      "num": 150054,
-      "word": "当代大学生放假回家实况",
-      "onboard_time": 1672912052,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 149743,
       "num": 126234,
       "word": "Danielle金发双马尾造型",
@@ -7993,14 +8017,6 @@
       "onboard_time": 1672888711,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 145766,
-      "num": 145766,
-      "word": "原来小狗也喜欢夹子音",
-      "onboard_time": 1672913313,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 145667,
@@ -8529,6 +8545,14 @@
       "onboard_time": 1672672234,
       "rank": 48,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 122197,
+      "num": 180412,
+      "word": "56岁岳父像90后与女婿似同龄人",
+      "onboard_time": 1672914810,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121992,
@@ -9067,6 +9091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 87767,
+      "num": 414795,
+      "word": "王传福用20年造就仰望",
+      "onboard_time": 1672912830,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 87588,
       "num": 135550,
       "word": "列车长熟练默画出全国铁路图",
@@ -9113,14 +9145,6 @@
       "onboard_time": 1672586429,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 83267,
-      "num": 404718,
-      "word": "王传福用20年造就仰望",
-      "onboard_time": 1672912830,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 82069,
