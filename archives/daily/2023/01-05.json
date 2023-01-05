@@ -1,6 +1,6 @@
 {
   "startTime": 1672849948080,
-  "endTime": 1672929295653,
+  "endTime": 1672932055363,
   "band_list": [
     {
       "raw_hot": 3458179,
@@ -73,6 +73,14 @@
       "onboard_time": 1672918652,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1960895,
+      "num": 1960895,
+      "word": "第八号当铺",
+      "onboard_time": 1672928492,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1940695,
@@ -195,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1340450,
+      "num": 484716,
+      "word": "钱给到位你愿意生7个孩子吗",
+      "onboard_time": 1672928613,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1186614,
       "num": 1186614,
       "word": "56岁岳父像90后与女婿似同龄人",
       "onboard_time": 1672914810,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1152917,
-      "num": 1152917,
-      "word": "第八号当铺",
-      "onboard_time": 1672928492,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1140708,
@@ -491,12 +499,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 715216,
+      "num": 715216,
+      "word": "偶像练习生制作方等被执行4044万",
+      "onboard_time": 1672929752,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 709598,
       "num": 709598,
       "word": "快看",
       "onboard_time": 1672917394,
       "rank": 6,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 709228,
+      "num": 477431,
+      "word": "马旭东 买手机等的就是这一天",
+      "onboard_time": 1672930234,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 703254,
@@ -563,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 595550,
+      "num": 595550,
+      "word": "住建部部长谈2023买房租房",
+      "onboard_time": 1672926213,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593515,
       "num": 593515,
       "word": "给爸爸买了只金蟾蜍",
@@ -585,14 +617,6 @@
       "onboard_time": 1672894477,
       "rank": 21,
       "category": "美食,情感"
-    },
-    {
-      "raw_hot": 583352,
-      "num": 583352,
-      "word": "住建部部长谈2023买房租房",
-      "onboard_time": 1672926213,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 581308,
@@ -635,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 553104,
+      "num": 457586,
+      "word": "王耀庆成为霸总专业户的原因是不吃碳水",
+      "onboard_time": 1672930355,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 549298,
       "num": 549298,
       "word": "王鹤棣片场树懒抱陈钰琪",
@@ -665,6 +697,14 @@
       "onboard_time": 1672845094,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541194,
+      "num": 296648,
+      "word": "快乐再出发",
+      "onboard_time": 1672930472,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 537375,
@@ -907,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 386761,
+      "num": 215283,
+      "word": "吴宣仪对着锦鲤叫杨超越",
+      "onboard_time": 1672930713,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384946,
       "num": 384946,
       "word": "有哪些生了娃才知道的事",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1672907668,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 342023,
+      "num": 215167,
+      "word": "土豆 助力每一个梦想",
+      "onboard_time": 1672929873,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 341145,
@@ -1323,6 +1379,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292344,
+      "num": 214929,
+      "word": "张呈 赢麻了",
+      "onboard_time": 1672929873,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 291296,
+      "num": 291296,
+      "word": "女子在日本4次感染新冠坐上救护车",
+      "onboard_time": 1672931131,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289114,
       "num": 289114,
       "word": "温州小猫走丢2天在上海被收养",
@@ -1523,6 +1595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259767,
+      "num": 213729,
+      "word": "陆翊哭了",
+      "onboard_time": 1672931495,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258450,
       "num": 258450,
       "word": "许鞍华 汤唯",
@@ -1643,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242092,
+      "num": 213672,
+      "word": "苗苗刘芸分析张云龙恋情",
+      "onboard_time": 1672932033,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237570,
       "num": 237570,
       "word": "12月的电费为何这么贵",
@@ -1657,14 +1745,6 @@
       "onboard_time": 1672835312,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233577,
-      "num": 233577,
-      "word": "钱给到位你愿意生7个孩子吗",
-      "onboard_time": 1672928613,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 232943,
@@ -2267,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143167,
+      "num": 215472,
+      "word": "用纸巾做一只兔子",
+      "onboard_time": 1672930054,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142402,
       "num": 142402,
       "word": "小寒节气这4个地方要保暖",
@@ -2516,7 +2604,7 @@
     },
     {
       "raw_hot": 100571,
-      "num": 1555364,
+      "num": 1846361,
       "word": "共话网络真善美",
       "onboard_time": 1672920872,
       "rank": 2,
@@ -2553,6 +2641,22 @@
       "onboard_time": 1672899689,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93431,
+      "num": 212454,
+      "word": "为什么男生恋爱时会忽冷忽热",
+      "onboard_time": 1672931973,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 91955,
+      "num": 212310,
+      "word": "当糯米遇上小寒",
+      "onboard_time": 1672931253,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 91098,
