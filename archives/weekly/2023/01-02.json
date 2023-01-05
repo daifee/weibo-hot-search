@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672960795613,
+  "endTime": 1672961615874,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -5443,6 +5443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281131,
+      "num": 210667,
+      "word": "上海利西路成韩式街头疯狂刷屏",
+      "onboard_time": 1672959076,
+      "rank": 13,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 280894,
       "num": 280894,
       "word": "还有蛋糕不能模仿的东西吗",
@@ -5923,6 +5931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260082,
+      "num": 260082,
+      "word": "为什么一到夜晚症状就加重",
+      "onboard_time": 1672942095,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259818,
       "num": 259818,
       "word": "眼神清澈的狗狗",
@@ -6049,6 +6065,14 @@
       "onboard_time": 1672622667,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255479,
+      "num": 255479,
+      "word": "首付比首套利率该降的都要降下来",
+      "onboard_time": 1672938083,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 255029,
@@ -6627,12 +6651,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 227355,
-      "num": 227355,
-      "word": "首付比首套利率该降的都要降下来",
-      "onboard_time": 1672938083,
-      "rank": 48,
-      "category": "财经"
+      "raw_hot": 227105,
+      "num": 227105,
+      "word": "男子点一份大盘鸡吃出11个鸡屁股",
+      "onboard_time": 1672950431,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226946,
@@ -7235,14 +7259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198896,
-      "num": 198896,
-      "word": "为什么一到夜晚症状就加重",
-      "onboard_time": 1672942095,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198794,
       "num": 198794,
       "word": "年轻人在滑一种很新的雪",
@@ -7619,8 +7635,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184697,
-      "num": 184697,
+      "raw_hot": 184865,
+      "num": 184865,
       "word": "男子穿婚纱扮新娘上台拥吻新郎",
       "onboard_time": 1672956312,
       "rank": 38,
@@ -8139,14 +8155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 170632,
-      "num": 170632,
-      "word": "男子点一份大盘鸡吃出11个鸡屁股",
-      "onboard_time": 1672950431,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170414,
       "num": 170414,
       "word": "C罗亮相仪式氛围感拉满",
@@ -8553,14 +8561,6 @@
       "onboard_time": 1672811249,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 155673,
-      "num": 155673,
-      "word": "上海利西路成韩式街头疯狂刷屏",
-      "onboard_time": 1672959076,
-      "rank": 13,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 155130,
@@ -9355,6 +9355,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124404,
+      "num": 124404,
+      "word": "马鞍山药神案秦才东获刑后发声",
+      "onboard_time": 1672959977,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124385,
+      "num": 124385,
+      "word": "如何自查是否出现白肺",
+      "onboard_time": 1672961120,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124185,
       "num": 124185,
       "word": "谁不想变身奥特曼打怪兽呢",
@@ -9867,6 +9883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99779,
+      "num": 99779,
+      "word": "2023加班工资日历",
+      "onboard_time": 1672960519,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99457,
       "num": 99457,
       "word": "卖菜农户夜晚在隧道内过夜",
@@ -10099,6 +10123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76993,
+      "num": 76993,
+      "word": "女子陪服兵役朋友爷爷奶奶包饺子",
+      "onboard_time": 1672937241,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76907,
       "num": 76907,
       "word": "黑暗荣耀 班主任",
@@ -10113,14 +10145,6 @@
       "onboard_time": 1672585771,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73181,
-      "num": 73181,
-      "word": "女子陪服兵役朋友爷爷奶奶包饺子",
-      "onboard_time": 1672937241,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73095,
@@ -10145,6 +10169,14 @@
       "onboard_time": 1672566328,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66043,
+      "num": 66043,
+      "word": "为什么会对友情感到失望",
+      "onboard_time": 1672954512,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 65380,
@@ -10179,11 +10211,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61475,
+      "num": 61475,
+      "word": "宋慧乔黑暗荣耀第二季定档0310",
+      "onboard_time": 1672950252,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 60836,
       "num": 60836,
       "word": "李现谢之遥微醺脸",
       "onboard_time": 1672870032,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 60208,
+      "num": 60208,
+      "word": "顾南亭见程霄父亲",
+      "onboard_time": 1672956732,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -10201,22 +10249,6 @@
       "onboard_time": 1672725628,
       "rank": 39,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 54427,
-      "num": 54427,
-      "word": "顾南亭见程霄父亲",
-      "onboard_time": 1672956732,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 54264,
-      "num": 54264,
-      "word": "为什么会对友情感到失望",
-      "onboard_time": 1672954512,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 54226,
@@ -10243,27 +10275,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51560,
-      "num": 49714,
-      "word": "宋慧乔黑暗荣耀第二季定档0310",
-      "onboard_time": 1672950252,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 51048,
-      "num": 51048,
-      "word": "马鞍山药神案秦才东获刑后发声",
-      "onboard_time": 1672959977,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48272,
       "num": 147870,
       "word": "天猫直播变脱口秀现场",
       "onboard_time": 1672747236,
       "rank": 39,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 45053,
+      "num": 45053,
+      "word": "手机存在性能过剩吗",
+      "onboard_time": 1672960939,
+      "rank": 48,
       "category": "科技"
     },
     {
@@ -10385,14 +10409,6 @@
       "onboard_time": 1672870333,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31222,
-      "num": 31222,
-      "word": "2023加班工资日历",
-      "onboard_time": 1672960519,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30011,

@@ -1,6 +1,6 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1672960795613,
+  "endTime": 1672961615874,
   "band_list": [
     {
       "raw_hot": 1331655,
@@ -139,12 +139,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324884,
+      "num": 324884,
+      "word": "县委书记回应倡导春节不返乡",
+      "onboard_time": 1672924651,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281131,
+      "num": 210667,
+      "word": "上海利西路成韩式街头疯狂刷屏",
+      "onboard_time": 1672959076,
+      "rank": 13,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 272925,
       "num": 272925,
       "word": "住建部部长谈2023买房租房",
       "onboard_time": 1672926213,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260082,
+      "num": 260082,
+      "word": "为什么一到夜晚症状就加重",
+      "onboard_time": 1672942095,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255479,
+      "num": 255479,
+      "word": "首付比首套利率该降的都要降下来",
+      "onboard_time": 1672938083,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 253307,
@@ -179,14 +211,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 240579,
-      "num": 240579,
-      "word": "县委书记回应倡导春节不返乡",
-      "onboard_time": 1672924651,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238308,
       "num": 238308,
       "word": "肯德基",
@@ -203,12 +227,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 227355,
-      "num": 227355,
-      "word": "首付比首套利率该降的都要降下来",
-      "onboard_time": 1672938083,
-      "rank": 48,
-      "category": "财经"
+      "raw_hot": 227105,
+      "num": 227105,
+      "word": "男子点一份大盘鸡吃出11个鸡屁股",
+      "onboard_time": 1672950431,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208178,
@@ -225,14 +249,6 @@
       "onboard_time": 1672921353,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198896,
-      "num": 198896,
-      "word": "为什么一到夜晚症状就加重",
-      "onboard_time": 1672942095,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196641,
@@ -275,8 +291,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184697,
-      "num": 184697,
+      "raw_hot": 184865,
+      "num": 184865,
       "word": "男子穿婚纱扮新娘上台拥吻新郎",
       "onboard_time": 1672956312,
       "rank": 38,
@@ -331,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170632,
-      "num": 170632,
-      "word": "男子点一份大盘鸡吃出11个鸡屁股",
-      "onboard_time": 1672950431,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166826,
       "num": 166826,
       "word": "这是一种很新的团建",
@@ -363,14 +371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155673,
-      "num": 155673,
-      "word": "上海利西路成韩式街头疯狂刷屏",
-      "onboard_time": 1672959076,
-      "rank": 13,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 153671,
       "num": 163460,
       "word": "贺峻霖微电影有特效",
@@ -393,6 +393,30 @@
       "onboard_time": 1672934249,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127564,
+      "num": 159883,
+      "word": "对于购买第一套住房的要大力支持",
+      "onboard_time": 1672922071,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124404,
+      "num": 124404,
+      "word": "马鞍山药神案秦才东获刑后发声",
+      "onboard_time": 1672959977,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124385,
+      "num": 124385,
+      "word": "如何自查是否出现白肺",
+      "onboard_time": 1672961120,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124076,
@@ -451,20 +475,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99779,
+      "num": 99779,
+      "word": "2023加班工资日历",
+      "onboard_time": 1672960519,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94438,
       "num": 163866,
       "word": "有哪些生了娃才知道的事",
       "onboard_time": 1672923391,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91801,
-      "num": 159883,
-      "word": "对于购买第一套住房的要大力支持",
-      "onboard_time": 1672922071,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89712,
@@ -481,6 +505,14 @@
       "onboard_time": 1672941136,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 83008,
+      "num": 161134,
+      "word": "陆家嘴三件套石墩引游客火爆打卡",
+      "onboard_time": 1672911391,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 82910,
@@ -507,28 +539,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 76993,
+      "num": 76993,
+      "word": "女子陪服兵役朋友爷爷奶奶包饺子",
+      "onboard_time": 1672937241,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76421,
       "num": 161751,
       "word": "姐弟恋的结局是怎样的",
       "onboard_time": 1672917931,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 73461,
-      "num": 161134,
-      "word": "陆家嘴三件套石墩引游客火爆打卡",
-      "onboard_time": 1672911391,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 73181,
-      "num": 73181,
-      "word": "女子陪服兵役朋友爷爷奶奶包饺子",
-      "onboard_time": 1672937241,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71165,
@@ -539,6 +563,22 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 66043,
+      "num": 66043,
+      "word": "为什么会对友情感到失望",
+      "onboard_time": 1672954512,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 61475,
+      "num": 61475,
+      "word": "宋慧乔黑暗荣耀第二季定档0310",
+      "onboard_time": 1672950252,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 60412,
       "num": 159113,
       "word": "20余名大哥抢救回800箱黄桃罐头",
@@ -547,44 +587,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 57543,
-      "num": 57543,
-      "word": "春运部分热门航线机票涨至全价",
-      "onboard_time": 1672953972,
-      "rank": 48,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 54427,
-      "num": 54427,
+      "raw_hot": 60208,
+      "num": 60208,
       "word": "顾南亭见程霄父亲",
       "onboard_time": 1672956732,
       "rank": 41,
       "category": "影视"
     },
     {
-      "raw_hot": 54264,
-      "num": 54264,
-      "word": "为什么会对友情感到失望",
-      "onboard_time": 1672954512,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 51560,
-      "num": 49714,
-      "word": "宋慧乔黑暗荣耀第二季定档0310",
-      "onboard_time": 1672950252,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 51048,
-      "num": 51048,
-      "word": "马鞍山药神案秦才东获刑后发声",
-      "onboard_time": 1672959977,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 57543,
+      "num": 57543,
+      "word": "春运部分热门航线机票涨至全价",
+      "onboard_time": 1672953972,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 50489,
@@ -603,20 +619,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 45053,
+      "num": 45053,
+      "word": "手机存在性能过剩吗",
+      "onboard_time": 1672960939,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 34047,
       "num": 34047,
       "word": "真想做个能痛快翻篇儿的人呐",
       "onboard_time": 1672937425,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 31222,
-      "num": 31222,
-      "word": "2023加班工资日历",
-      "onboard_time": 1672960519,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23596,
