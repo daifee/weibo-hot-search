@@ -1,6 +1,6 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1672954420142,
+  "endTime": 1672957090944,
   "band_list": [
     {
       "raw_hot": 1331655,
@@ -523,6 +523,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 57610,
+      "num": 49415,
+      "word": "男子点一份大盘鸡吃出11个鸡屁股",
+      "onboard_time": 1672950431,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50489,
       "num": 988481,
       "word": "共话网络真善美",
@@ -539,19 +547,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 48366,
-      "num": 43544,
-      "word": "男子点一份大盘鸡吃出11个鸡屁股",
-      "onboard_time": 1672950431,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34047,
       "num": 34047,
       "word": "真想做个能痛快翻篇儿的人呐",
       "onboard_time": 1672937425,
       "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 29933,
+      "num": 29933,
+      "word": "春运部分热门航线机票涨至全价",
+      "onboard_time": 1672953972,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 28049,
+      "num": 28049,
+      "word": "为什么会对友情感到失望",
+      "onboard_time": 1672954512,
+      "rank": 26,
       "category": "情感"
     },
     {
@@ -569,6 +585,22 @@
       "onboard_time": 1672917094,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23098,
+      "num": 23098,
+      "word": "男子穿婚纱扮新娘上台拥吻新郎",
+      "onboard_time": 1672956312,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19977,
+      "num": 19977,
+      "word": "顾南亭见程霄父亲",
+      "onboard_time": 1672956732,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 18569,
@@ -595,12 +627,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 10669,
-      "num": 12600,
-      "word": "春运部分热门航线机票涨至全价",
-      "onboard_time": 1672953972,
-      "rank": 48,
-      "category": "财经,社会新闻"
+      "raw_hot": 17130,
+      "num": 17130,
+      "word": "刘雨昕战损古装",
+      "onboard_time": 1672955232,
+      "rank": 45,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

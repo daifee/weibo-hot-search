@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672954420142,
+  "endTime": 1672957090944,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -10163,6 +10163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 57610,
+      "num": 49415,
+      "word": "男子点一份大盘鸡吃出11个鸡屁股",
+      "onboard_time": 1672950431,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56925,
       "num": 158194,
       "word": "网友晒10元必吃家乡早餐",
@@ -10193,14 +10201,6 @@
       "onboard_time": 1672781531,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 48366,
-      "num": 43544,
-      "word": "男子点一份大盘鸡吃出11个鸡屁股",
-      "onboard_time": 1672950431,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48272,
@@ -10339,6 +10339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29933,
+      "num": 29933,
+      "word": "春运部分热门航线机票涨至全价",
+      "onboard_time": 1672953972,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 29767,
       "num": 29767,
       "word": "曼联vs伯恩茅斯",
@@ -10353,6 +10361,14 @@
       "onboard_time": 1672694351,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28049,
+      "num": 28049,
+      "word": "为什么会对友情感到失望",
+      "onboard_time": 1672954512,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 27523,
@@ -10371,6 +10387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 23098,
+      "num": 23098,
+      "word": "男子穿婚纱扮新娘上台拥吻新郎",
+      "onboard_time": 1672956312,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22817,
       "num": 30084,
       "word": "原来这就是绝对音感",
@@ -10385,6 +10409,14 @@
       "onboard_time": 1672664431,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 19977,
+      "num": 19977,
+      "word": "顾南亭见程霄父亲",
+      "onboard_time": 1672956732,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 19534,
@@ -10411,20 +10443,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17130,
+      "num": 17130,
+      "word": "刘雨昕战损古装",
+      "onboard_time": 1672955232,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 10791,
       "num": 11912,
       "word": "王源跨年演唱会直拍",
       "onboard_time": 1672688414,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 10669,
-      "num": 12600,
-      "word": "春运部分热门航线机票涨至全价",
-      "onboard_time": 1672953972,
-      "rank": 48,
-      "category": "财经,社会新闻"
     }
   ],
   "hotgov_list": [
