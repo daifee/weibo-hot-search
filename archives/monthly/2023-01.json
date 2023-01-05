@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672943006971,
+  "endTime": 1672943872895,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -12515,6 +12515,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 84423,
+      "num": 40717,
+      "word": "黑暗荣耀删减剧情",
+      "onboard_time": 1672941136,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 83949,
       "num": 83949,
       "word": "见过哄娃最专业的小朋友",
@@ -12563,14 +12571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 81256,
-      "num": 40717,
-      "word": "黑暗荣耀删减剧情",
-      "onboard_time": 1672941136,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 80186,
       "num": 913350,
       "word": "新的一年",
@@ -12608,6 +12608,14 @@
       "word": "女子陪服兵役朋友爷爷奶奶包饺子",
       "onboard_time": 1672937241,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71303,
+      "num": 71303,
+      "word": "为什么一到夜晚症状就加重",
+      "onboard_time": 1672942095,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -12785,14 +12793,6 @@
       "onboard_time": 1672766777,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 40929,
-      "num": 40929,
-      "word": "为什么一到夜晚症状就加重",
-      "onboard_time": 1672942095,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40669,
@@ -13001,6 +13001,14 @@
       "onboard_time": 1672865052,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18569,
+      "num": 24509,
+      "word": "原来狗狗也会挑玩具",
+      "onboard_time": 1672943054,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 15166,

@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672943006971,
+  "endTime": 1672943872895,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -10019,6 +10019,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 84423,
+      "num": 40717,
+      "word": "黑暗荣耀删减剧情",
+      "onboard_time": 1672941136,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 83949,
       "num": 83949,
       "word": "见过哄娃最专业的小朋友",
@@ -10041,14 +10049,6 @@
       "onboard_time": 1672848390,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 81256,
-      "num": 40717,
-      "word": "黑暗荣耀删减剧情",
-      "onboard_time": 1672941136,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 76907,
@@ -10080,6 +10080,14 @@
       "word": "目前没有证据表明新冠会影响月经",
       "onboard_time": 1672569870,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71303,
+      "num": 71303,
+      "word": "为什么一到夜晚症状就加重",
+      "onboard_time": 1672942095,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -10217,14 +10225,6 @@
       "onboard_time": 1672766777,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 40929,
-      "num": 40929,
-      "word": "为什么一到夜晚症状就加重",
-      "onboard_time": 1672942095,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40180,
@@ -10369,6 +10369,14 @@
       "onboard_time": 1672865052,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18569,
+      "num": 24509,
+      "word": "原来狗狗也会挑玩具",
+      "onboard_time": 1672943054,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 10791,
