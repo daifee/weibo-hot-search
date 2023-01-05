@@ -1,0 +1,410 @@
+{
+  "runTime": 1672917351272,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2556054,
+        "num": 2556054,
+        "word": "肯德基",
+        "onboard_time": 1672915230,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 926479,
+        "num": 926479,
+        "word": "少爷和我",
+        "onboard_time": 1672916792,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123668,
+        "num": 898678,
+        "word": "抗病毒药物应在医生指导下使用",
+        "onboard_time": 1672910430,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2088472,
+        "num": 897350,
+        "word": "电费",
+        "onboard_time": 1672909172,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895321,
+        "num": 895321,
+        "word": "程霄当众承认喜欢顾南亭",
+        "onboard_time": 1672912111,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 866964,
+        "num": 866964,
+        "word": "56岁岳父像90后与女婿似同龄人",
+        "onboard_time": 1672914810,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726032,
+        "num": 726032,
+        "word": "上海电网回应电费涨价",
+        "onboard_time": 1672913191,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 723262,
+        "num": 723262,
+        "word": "IVE假唱被KBS点名批评",
+        "onboard_time": 1672906291,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 695873,
+        "num": 695873,
+        "word": "全国最脏的工作被江西小城包了",
+        "onboard_time": 1672907493,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624028,
+        "num": 624028,
+        "word": "这猫怎么有腋毛啊",
+        "onboard_time": 1672913670,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 977546,
+        "num": 620948,
+        "word": "马嘉祺也在看少爷和我",
+        "onboard_time": 1672917094,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 686485,
+        "num": 593962,
+        "word": "云南一家六口5天内3人相继离世",
+        "onboard_time": 1672915651,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550265,
+        "num": 550265,
+        "word": "女儿生病继母不刮鳞用活鱼煮汤",
+        "onboard_time": 1672905693,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520455,
+        "num": 520455,
+        "word": "上海电费",
+        "onboard_time": 1672903166,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487842,
+        "num": 487842,
+        "word": "三亚民宿老板称一个月赚回三年亏损",
+        "onboard_time": 1672916245,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392000,
+        "num": 392000,
+        "word": "陆家嘴三件套石墩引游客火爆打卡",
+        "onboard_time": 1672911391,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 391455,
+        "num": 391455,
+        "word": "新冠阳性大麦网拒绝退票",
+        "onboard_time": 1672907192,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380833,
+        "num": 380833,
+        "word": "黑暗荣耀",
+        "onboard_time": 1672911391,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351807,
+        "num": 351807,
+        "word": "王鹤棣时宴今日出妆路透",
+        "onboard_time": 1672911692,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349833,
+        "num": 349833,
+        "word": "新娘被要求坐主厅5小时脚不能沾地",
+        "onboard_time": 1672916552,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344292,
+        "num": 344292,
+        "word": "我可能遇到了救星大结局你满意吗",
+        "onboard_time": 1672915711,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340476,
+        "num": 340476,
+        "word": "微博杯",
+        "onboard_time": 1672909890,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 337054,
+        "num": 337054,
+        "word": "胖虎说易烊千玺是值得守卫的首位",
+        "onboard_time": 1672907371,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 327540,
+        "num": 327540,
+        "word": "网友吃到了刘亦菲做的鲜花饼",
+        "onboard_time": 1672902571,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 325455,
+        "num": 325455,
+        "word": "风情不摇晃作者曾回应相关争议",
+        "onboard_time": 1672899390,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322136,
+        "num": 322136,
+        "word": "杭州一KTV聘用6名未成年少女被罚",
+        "onboard_time": 1672907493,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229884,
+        "num": 229884,
+        "word": "三亚春节20万一晚酒店已售罄",
+        "onboard_time": 1672916611,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 215444,
+        "num": 215444,
+        "word": "知情人称风情不摇晃作者已退圈",
+        "onboard_time": 1672902028,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186484,
+        "num": 186484,
+        "word": "原来小狗也喜欢夹子音",
+        "onboard_time": 1672913313,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112425,
+        "num": 185873,
+        "word": "在成都真的可以拍到窗含西岭千秋雪",
+        "onboard_time": 1672907971,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 413443,
+        "num": 185242,
+        "word": "虞书欣父母公司再成被执行人",
+        "onboard_time": 1672892495,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317543,
+        "num": 183932,
+        "word": "顾南亭偷听程霄和情敌对话被抓包",
+        "onboard_time": 1672916733,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299964,
+        "num": 182061,
+        "word": "苗苗谈刻意不理郑恺的原因",
+        "onboard_time": 1672899450,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288159,
+        "num": 181935,
+        "word": "王一博说试飞员是非常危险的职业",
+        "onboard_time": 1672912349,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180843,
+        "num": 180843,
+        "word": "丈夫被妻子气哭1小时去娘家诉苦",
+        "onboard_time": 1672897652,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176168,
+        "num": 176168,
+        "word": "TES小鹏挂牌",
+        "onboard_time": 1672912289,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166993,
+        "num": 166993,
+        "word": "湖南一地倡导非必要不返乡",
+        "onboard_time": 1672905508,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506512,
+        "num": 166819,
+        "word": "宋亚轩刘耀文将出新歌烟花升停在星夜",
+        "onboard_time": 1672917094,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166209,
+        "num": 166209,
+        "word": "共青团中央批风情不摇晃",
+        "onboard_time": 1672905631,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164827,
+        "num": 164827,
+        "word": "QQ糖角标 根据软硬程度区分",
+        "onboard_time": 1672910312,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 274650,
+        "num": 163067,
+        "word": "付豪喊徐冬冬一起举椰汁",
+        "onboard_time": 1672915172,
+        "rank": 40,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 154146,
+        "num": 154146,
+        "word": "给爸爸买了只金蟾蜍",
+        "onboard_time": 1672906291,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144270,
+        "num": 144270,
+        "word": "当代大学生放假回家实况",
+        "onboard_time": 1672912052,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142781,
+        "num": 142781,
+        "word": "新年第五天上了多少分",
+        "onboard_time": 1672913909,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142511,
+        "num": 142511,
+        "word": "上海辟谣电费涨价",
+        "onboard_time": 1672917212,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 141348,
+        "num": 141348,
+        "word": "优衣库遭掀帘女子被男童家长骂不检点",
+        "onboard_time": 1672885169,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140626,
+        "num": 140626,
+        "word": "不要随便叫别人家的狗",
+        "onboard_time": 1672911632,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128946,
+        "num": 140590,
+        "word": "仰望",
+        "onboard_time": 1672903651,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 119661,
+        "num": 140570,
+        "word": "WBG对战EDGY",
+        "onboard_time": 1672917212,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115259,
+        "num": 140525,
+        "word": "LNG对战BLG",
+        "onboard_time": 1672903410,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023激发活力释放潜力#"
+    }
+  }
+}

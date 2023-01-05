@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672914968420,
+  "endTime": 1672917351272,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -216,6 +216,14 @@
       "word": "优酷更改会员登录规则",
       "onboard_time": 1672817009,
       "rank": 23,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 2556054,
+      "num": 2556054,
+      "word": "肯德基",
+      "onboard_time": 1672915230,
+      "rank": 0,
       "category": "科技"
     },
     {
@@ -1307,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 977546,
+      "num": 620948,
+      "word": "马嘉祺也在看少爷和我",
+      "onboard_time": 1672917094,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 976084,
       "num": 836773,
       "word": "迪丽热巴2023开年大片",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1672540594,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 926479,
+      "num": 926479,
+      "word": "少爷和我",
+      "onboard_time": 1672916792,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 922368,
@@ -1601,6 +1625,14 @@
       "onboard_time": 1672840352,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 866964,
+      "num": 866964,
+      "word": "56岁岳父像90后与女婿似同龄人",
+      "onboard_time": 1672914810,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 865249,
@@ -2131,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 726032,
+      "num": 726032,
+      "word": "上海电网回应电费涨价",
+      "onboard_time": 1672913191,
+      "rank": 27,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 725077,
       "num": 725077,
       "word": "廖博点评王一博跨年舞台",
@@ -2289,6 +2329,14 @@
       "onboard_time": 1672512138,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 686485,
+      "num": 593962,
+      "word": "云南一家六口5天内3人相继离世",
+      "onboard_time": 1672915651,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 683981,
@@ -2595,6 +2643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 624028,
+      "num": 624028,
+      "word": "这猫怎么有腋毛啊",
+      "onboard_time": 1672913670,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 623483,
       "num": 623483,
       "word": "赵露思陈哲远偷偷藏不住元旦剧照",
@@ -2665,14 +2721,6 @@
       "onboard_time": 1672578155,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 603011,
-      "num": 453645,
-      "word": "上海电网回应电费涨价",
-      "onboard_time": 1672913191,
-      "rank": 27,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 602801,
@@ -3427,6 +3475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 506512,
+      "num": 166819,
+      "word": "宋亚轩刘耀文将出新歌烟花升停在星夜",
+      "onboard_time": 1672917094,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 506360,
       "num": 506360,
       "word": "陈钰琪的方言是王鹤棣教的吗",
@@ -3520,6 +3576,14 @@
       "word": "上海一线医护收到6000元补贴",
       "onboard_time": 1672553192,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487842,
+      "num": 487842,
+      "word": "三亚民宿老板称一个月赚回三年亏损",
+      "onboard_time": 1672916245,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4643,6 +4707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 380833,
+      "num": 380833,
+      "word": "黑暗荣耀",
+      "onboard_time": 1672576049,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380606,
       "num": 287534,
       "word": "曾轶可方回应被维权",
@@ -5155,6 +5227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349833,
+      "num": 349833,
+      "word": "新娘被要求坐主厅5小时脚不能沾地",
+      "onboard_time": 1672916552,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349284,
       "num": 323930,
       "word": "BoA宁艺卓Wendy舞台",
@@ -5251,6 +5331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344292,
+      "num": 344292,
+      "word": "我可能遇到了救星大结局你满意吗",
+      "onboard_time": 1672915711,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 343224,
       "num": 343224,
       "word": "南宁院方回应通知错死亡对象",
@@ -5297,14 +5385,6 @@
       "onboard_time": 1672755395,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 340024,
-      "num": 340024,
-      "word": "这猫怎么有腋毛啊",
-      "onboard_time": 1672913670,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 339045,
@@ -5408,14 +5488,6 @@
       "word": "程霄躲在洗手间哭",
       "onboard_time": 1672914451,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 332170,
-      "num": 332170,
-      "word": "黑暗荣耀",
-      "onboard_time": 1672576049,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -5625,6 +5697,14 @@
       "onboard_time": 1672822109,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317543,
+      "num": 183932,
+      "word": "顾南亭偷听程霄和情敌对话被抓包",
+      "onboard_time": 1672916733,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 317477,
@@ -6537,6 +6617,14 @@
       "onboard_time": 1672727128,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274650,
+      "num": 163067,
+      "word": "付豪喊徐冬冬一起举椰汁",
+      "onboard_time": 1672915172,
+      "rank": 40,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 274589,
@@ -7585,6 +7673,14 @@
       "onboard_time": 1672667853,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229884,
+      "num": 229884,
+      "word": "三亚春节20万一晚酒店已售罄",
+      "onboard_time": 1672916611,
+      "rank": 26,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 228488,
@@ -10219,6 +10315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142511,
+      "num": 142511,
+      "word": "上海辟谣电费涨价",
+      "onboard_time": 1672917212,
+      "rank": 44,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 142402,
       "num": 142402,
       "word": "小寒节气这4个地方要保暖",
@@ -10795,14 +10899,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 122197,
-      "num": 180412,
-      "word": "56岁岳父像90后与女婿似同龄人",
-      "onboard_time": 1672914810,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121974,
       "num": 121974,
       "word": "古画里的小寒",
@@ -10865,6 +10961,14 @@
       "onboard_time": 1672654831,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119661,
+      "num": 140570,
+      "word": "WBG对战EDGY",
+      "onboard_time": 1672917212,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 119645,
