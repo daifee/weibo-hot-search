@@ -1,6 +1,6 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1672950831968,
+  "endTime": 1672953400444,
   "band_list": [
     {
       "raw_hot": 1331655,
@@ -363,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124076,
+      "num": 124076,
+      "word": "赵让新歌紋",
+      "onboard_time": 1672952832,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 123564,
       "num": 177527,
       "word": "刘春孔庆东等微博账号被禁言",
@@ -531,6 +539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 43544,
+      "num": 43544,
+      "word": "男子点一份大盘鸡吃出11个鸡屁股",
+      "onboard_time": 1672950431,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34047,
       "num": 34047,
       "word": "真想做个能痛快翻篇儿的人呐",
@@ -539,7 +555,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 23844,
+      "raw_hot": 24451,
       "num": 19160,
       "word": "宋慧乔黑暗荣耀第二季定档0310",
       "onboard_time": 1672950252,
@@ -577,14 +593,6 @@
       "onboard_time": 1672949894,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14139,
-      "num": 14139,
-      "word": "男子点一份大盘鸡吃出11个鸡屁股",
-      "onboard_time": 1672950431,
-      "rank": 42,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
