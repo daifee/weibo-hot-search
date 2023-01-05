@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672895833409,
+  "endTime": 1672896810748,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -171,20 +171,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2678918,
+      "num": 2678918,
+      "word": "虞书欣父母公司再成被执行人",
+      "onboard_time": 1672892495,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2666621,
       "num": 2666621,
       "word": "刘鑫大号小号全被禁言",
       "onboard_time": 1672821450,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2651686,
-      "num": 2651686,
-      "word": "虞书欣父母公司再成被执行人",
-      "onboard_time": 1672892495,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 2613183,
@@ -779,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1257371,
+      "num": 1257371,
+      "word": "女子怀孕后因病成植物人",
+      "onboard_time": 1672893276,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1248145,
       "num": 1248145,
       "word": "如果上4天半班你会搞副业吗",
@@ -987,14 +995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1155940,
-      "num": 1155940,
-      "word": "女子怀孕后因病成植物人",
-      "onboard_time": 1672893276,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1150280,
       "num": 1150280,
       "word": "西蓝花cp终于官宣",
@@ -1035,20 +1035,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1131655,
+      "num": 1131655,
+      "word": "法律明令禁止未成年人进KTV",
+      "onboard_time": 1672891655,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1128901,
       "num": 610219,
       "word": "家属办完丧事被通知人没死",
       "onboard_time": 1672719273,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1101440,
-      "num": 1101440,
-      "word": "法律明令禁止未成年人进KTV",
-      "onboard_time": 1672891655,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 1098632,
@@ -1203,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 991254,
+      "num": 991254,
+      "word": "别让大学生辅导高中生作业",
+      "onboard_time": 1672891591,
+      "rank": 37,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 989341,
       "num": 989341,
       "word": "大爷摔倒躺藕田2天2夜才被发现",
@@ -1265,14 +1273,6 @@
       "onboard_time": 1672572093,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 962386,
-      "num": 962386,
-      "word": "别让大学生辅导高中生作业",
-      "onboard_time": 1672891591,
-      "rank": 37,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 953736,
@@ -1884,7 +1884,7 @@
     },
     {
       "raw_hot": 742013,
-      "num": 619709,
+      "num": 649313,
       "word": "网传肖战任敏玉骨遥暂定Q1播出",
       "onboard_time": 1672893396,
       "rank": 41,
@@ -2473,6 +2473,14 @@
       "onboard_time": 1672726349,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601858,
+      "num": 498646,
+      "word": "六公主认证王鹤棣浮图缘是爆款新剧",
+      "onboard_time": 1672896632,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 600904,
@@ -3691,6 +3699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445472,
+      "num": 445472,
+      "word": "围炉煮茶",
+      "onboard_time": 1672894477,
+      "rank": 21,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 444833,
       "num": 444833,
       "word": "五月天打电话给我唱温柔",
@@ -4371,6 +4387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 376797,
+      "num": 306687,
+      "word": "易烊千玺VOGUE京剧风封面",
+      "onboard_time": 1672895734,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 376255,
       "num": 376255,
       "word": "村医用抗生素治疗新冠发热患者",
@@ -4409,6 +4433,14 @@
       "onboard_time": 1672492074,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372569,
+      "num": 292242,
+      "word": "妻子的浪漫旅行",
+      "onboard_time": 1672896094,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 371082,
@@ -4899,14 +4931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342894,
-      "num": 342894,
-      "word": "围炉煮茶",
-      "onboard_time": 1672894477,
-      "rank": 21,
-      "category": "美食,情感"
-    },
-    {
       "raw_hot": 342147,
       "num": 342147,
       "word": "王源文淇合作我抬头发现两朵一样的云",
@@ -5331,6 +5355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 311890,
+      "num": 311890,
+      "word": "不再对自香港入境人员进行全员核酸",
+      "onboard_time": 1672895135,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 311881,
       "num": 311881,
       "word": "TTG 上上签",
@@ -5344,6 +5376,14 @@
       "word": "李现的新年愿望是待播戏全播",
       "onboard_time": 1672624826,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 308387,
+      "num": 215993,
+      "word": "吴彦姝演的李现奶奶",
+      "onboard_time": 1672895433,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -5369,14 +5409,6 @@
       "onboard_time": 1672891655,
       "rank": 39,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 306687,
-      "num": 306687,
-      "word": "易烊千玺VOGUE京剧风封面",
-      "onboard_time": 1672895734,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 305494,
@@ -5615,6 +5647,14 @@
       "num": 222154,
       "word": "2023跨年晚会观后感",
       "onboard_time": 1672561411,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 292787,
+      "num": 205398,
+      "word": "沙溢时隔16年再扮白展堂",
+      "onboard_time": 1672896510,
       "rank": 31,
       "category": "综艺"
     },
@@ -5963,6 +6003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278961,
+      "num": 278961,
+      "word": "上海真是糯叽叽美食天堂",
+      "onboard_time": 1672892615,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 278947,
       "num": 191243,
       "word": "周柯宇以爱为营黑西装造型路透",
@@ -6017,14 +6065,6 @@
       "onboard_time": 1672515375,
       "rank": 45,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 277509,
-      "num": 215993,
-      "word": "吴彦姝演的李现奶奶",
-      "onboard_time": 1672895433,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 277381,
@@ -6161,14 +6201,6 @@
       "onboard_time": 1672886550,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 271547,
-      "num": 271547,
-      "word": "上海真是糯叽叽美食天堂",
-      "onboard_time": 1672892615,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 271477,
@@ -6649,6 +6681,14 @@
       "onboard_time": 1672663651,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247261,
+      "num": 192815,
+      "word": "秦霄贤徐梦洁合唱旅行的意义",
+      "onboard_time": 1672896572,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 247181,
@@ -7259,14 +7299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220125,
-      "num": 220125,
-      "word": "不再对自香港入境人员进行全员核酸",
-      "onboard_time": 1672895135,
-      "rank": 29,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 220074,
       "num": 181671,
       "word": "GOTtheBeat新歌舞台",
@@ -7449,6 +7481,14 @@
       "onboard_time": 1672835433,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211956,
+      "num": 211956,
+      "word": "指责男童进女子试衣间是小题大做吗",
+      "onboard_time": 1672892193,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211782,
@@ -7979,14 +8019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193628,
-      "num": 193628,
-      "word": "指责男童进女子试衣间是小题大做吗",
-      "onboard_time": 1672892193,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193573,
       "num": 193573,
       "word": "跨年夜市民放飞气球苦了环卫工",
@@ -8131,6 +8163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188243,
+      "num": 188243,
+      "word": "2023KPL春季转会期",
+      "onboard_time": 1672895852,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188188,
       "num": 477710,
       "word": "2023新年开场白",
@@ -8233,6 +8273,14 @@
       "onboard_time": 1672712487,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184406,
+      "num": 184406,
+      "word": "87岁退休老医生重返一线坐诊",
+      "onboard_time": 1672894894,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184362,
@@ -8747,6 +8795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170866,
+      "num": 170866,
+      "word": "猫猫是懂晒太阳的",
+      "onboard_time": 1672895614,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170816,
       "num": 107242,
       "word": "长风破浪",
@@ -8905,6 +8961,14 @@
       "onboard_time": 1672591944,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164382,
+      "num": 164382,
+      "word": "天府可乐董事长谈滞销原因",
+      "onboard_time": 1672895492,
+      "rank": 46,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 164094,
@@ -9177,14 +9241,6 @@
       "onboard_time": 1672786636,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154995,
-      "num": 154995,
-      "word": "天府可乐董事长谈滞销原因",
-      "onboard_time": 1672895492,
-      "rank": 46,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 154310,
@@ -9483,20 +9539,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 145447,
-      "num": 145447,
-      "word": "87岁退休老医生重返一线坐诊",
-      "onboard_time": 1672894894,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145090,
       "num": 145090,
       "word": "河北柏乡频繁出现天然气断气现象",
       "onboard_time": 1672886007,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144236,
+      "num": 144236,
+      "word": "美味猫堡",
+      "onboard_time": 1672895912,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 144062,
@@ -9617,14 +9673,6 @@
       "onboard_time": 1672590685,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139980,
-      "num": 139980,
-      "word": "猫猫是懂晒太阳的",
-      "onboard_time": 1672895614,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 139942,
@@ -10384,6 +10432,14 @@
       "word": "这就是犹豫就会败北吗",
       "onboard_time": 1672585771,
       "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 111996,
+      "num": 111996,
+      "word": "好像是天津的边牧",
+      "onboard_time": 1672896751,
+      "rank": 49,
       "category": "幽默"
     },
     {

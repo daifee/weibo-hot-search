@@ -1,0 +1,410 @@
+{
+  "runTime": 1672896810748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2678918,
+        "num": 2678918,
+        "word": "虞书欣父母公司再成被执行人",
+        "onboard_time": 1672892495,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1357085,
+        "num": 1357085,
+        "word": "男子阳后嗜睡一检查已是白肺",
+        "onboard_time": 1672889069,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30258,
+        "num": 1297131,
+        "word": "如何看待XBB系列毒株",
+        "onboard_time": 1672836392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1257371,
+        "num": 1257371,
+        "word": "女子怀孕后因病成植物人",
+        "onboard_time": 1672893276,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131655,
+        "num": 1131655,
+        "word": "法律明令禁止未成年人进KTV",
+        "onboard_time": 1672891655,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 991254,
+        "num": 991254,
+        "word": "别让大学生辅导高中生作业",
+        "onboard_time": 1672891591,
+        "rank": 5,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 725823,
+        "num": 725823,
+        "word": "沈腾说马丽太美了",
+        "onboard_time": 1672893096,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 649313,
+        "num": 649313,
+        "word": "网传肖战任敏玉骨遥暂定Q1播出",
+        "onboard_time": 1672893396,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1788376,
+        "num": 605976,
+        "word": "优衣库遭掀帘女子被男童家长骂不检点",
+        "onboard_time": 1672885169,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561409,
+        "num": 561409,
+        "word": "远方传来风笛",
+        "onboard_time": 1672890755,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 687110,
+        "num": 547932,
+        "word": "新冠病毒很可能存在眼部趋向性",
+        "onboard_time": 1672879950,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649231,
+        "num": 541434,
+        "word": "谢腾飞亲奶奶出场就砸100万",
+        "onboard_time": 1672890212,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 626688,
+        "num": 526984,
+        "word": "2022爱奇艺尖叫之夜",
+        "onboard_time": 1672892315,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601858,
+        "num": 498646,
+        "word": "六公主认证王鹤棣浮图缘是爆款新剧",
+        "onboard_time": 1672896632,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 496121,
+        "num": 496121,
+        "word": "出版社回应小说被批歌颂毒枭爱情",
+        "onboard_time": 1672889912,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478204,
+        "num": 478204,
+        "word": "女生回男友家过节后决定分手",
+        "onboard_time": 1672877127,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445472,
+        "num": 445472,
+        "word": "围炉煮茶",
+        "onboard_time": 1672894477,
+        "rank": 16,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 311890,
+        "num": 311890,
+        "word": "不再对自香港入境人员进行全员核酸",
+        "onboard_time": 1672895135,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 409688,
+        "num": 304156,
+        "word": "四川戒毒点名批网络小说风情不摇晃",
+        "onboard_time": 1672845330,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292838,
+        "num": 292838,
+        "word": "小猫演我臭显摆状态",
+        "onboard_time": 1672892914,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376797,
+        "num": 292589,
+        "word": "易烊千玺VOGUE京剧风封面",
+        "onboard_time": 1672895734,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372569,
+        "num": 292242,
+        "word": "妻子的浪漫旅行",
+        "onboard_time": 1672896094,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345208,
+        "num": 292088,
+        "word": "浪莎回应郎朗吉娜代言一日游",
+        "onboard_time": 1672881327,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291652,
+        "num": 291652,
+        "word": "二胎妈妈盆底肌受损阳后咳嗽严重漏尿",
+        "onboard_time": 1672888832,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279961,
+        "num": 279961,
+        "word": "初禾初",
+        "onboard_time": 1672845094,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278961,
+        "num": 278961,
+        "word": "上海真是糯叽叽美食天堂",
+        "onboard_time": 1672892615,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 277037,
+        "num": 277037,
+        "word": "曝C罗将继续执行2场禁赛",
+        "onboard_time": 1672885228,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270427,
+        "num": 270427,
+        "word": "奶奶不会写字在银行取不出养老金",
+        "onboard_time": 1672889611,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255117,
+        "num": 255117,
+        "word": "98年哥哥返乡给15弟妹买一车礼物",
+        "onboard_time": 1672886787,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211956,
+        "num": 211956,
+        "word": "指责男童进女子试衣间是小题大做吗",
+        "onboard_time": 1672892193,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308387,
+        "num": 210555,
+        "word": "吴彦姝演的李现奶奶",
+        "onboard_time": 1672895433,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292787,
+        "num": 205398,
+        "word": "沙溢时隔16年再扮白展堂",
+        "onboard_time": 1672896510,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257475,
+        "num": 202287,
+        "word": "2022年度十大烂片盘点",
+        "onboard_time": 1672879528,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247601,
+        "num": 198693,
+        "word": "唐嫣我们的客栈佟湘玉变装视频",
+        "onboard_time": 1672892793,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247261,
+        "num": 192815,
+        "word": "秦霄贤徐梦洁合唱旅行的意义",
+        "onboard_time": 1672896572,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192780,
+        "num": 192780,
+        "word": "亚马逊将裁员1.7万人",
+        "onboard_time": 1672887329,
+        "rank": 35,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 192712,
+        "num": 192712,
+        "word": "天府可乐呼吁消费者理性消费",
+        "onboard_time": 1672891655,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 188243,
+        "num": 188243,
+        "word": "2023KPL春季转会期",
+        "onboard_time": 1672895852,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184406,
+        "num": 184406,
+        "word": "87岁退休老医生重返一线坐诊",
+        "onboard_time": 1672894894,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175974,
+        "num": 175974,
+        "word": "地心人",
+        "onboard_time": 1672877251,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235349,
+        "num": 174029,
+        "word": "刘亦菲片场撸猫逗狗日常",
+        "onboard_time": 1672893816,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170866,
+        "num": 170866,
+        "word": "猫猫是懂晒太阳的",
+        "onboard_time": 1672895614,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165962,
+        "num": 165962,
+        "word": "风情不摇晃",
+        "onboard_time": 1672843232,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164382,
+        "num": 164382,
+        "word": "天府可乐董事长谈滞销原因",
+        "onboard_time": 1672895492,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 153539,
+        "num": 153539,
+        "word": "狗子啃墙皮啃掉一排牙齿",
+        "onboard_time": 1672886129,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152943,
+        "num": 152943,
+        "word": "打工人年底发疯图鉴",
+        "onboard_time": 1672893757,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144236,
+        "num": 144236,
+        "word": "美味猫堡",
+        "onboard_time": 1672895912,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135310,
+        "num": 135310,
+        "word": "妻子吐槽老公在病房和女患者嗨聊",
+        "onboard_time": 1672880429,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132837,
+        "num": 132837,
+        "word": "起底风情不摇晃出版商",
+        "onboard_time": 1672889730,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111996,
+        "num": 111996,
+        "word": "好像是天津的边牧",
+        "onboard_time": 1672896751,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席同菲律宾总统会谈#"
+    }
+  }
+}
