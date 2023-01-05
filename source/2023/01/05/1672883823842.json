@@ -1,0 +1,410 @@
+{
+  "runTime": 1672883823842,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2383220,
+        "num": 2383220,
+        "word": "新冠病毒很可能存在眼部趋向性",
+        "onboard_time": 1672879950,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1401039,
+        "num": 1401039,
+        "word": "女生回男友家过节后决定分手",
+        "onboard_time": 1672877127,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104604,
+        "num": 881166,
+        "word": "如何看待XBB系列毒株",
+        "onboard_time": 1672836392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832228,
+        "num": 832228,
+        "word": "四川戒毒点名批网络小说风情不摇晃",
+        "onboard_time": 1672845330,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809433,
+        "num": 809433,
+        "word": "2022年度十大烂片盘点",
+        "onboard_time": 1672879528,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 785971,
+        "num": 785971,
+        "word": "欧盟建议各国要求自中国入境者提供核酸",
+        "onboard_time": 1672878207,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 728973,
+        "num": 728973,
+        "word": "法国公布针对中国旅客检测数据",
+        "onboard_time": 1672880550,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617710,
+        "num": 617710,
+        "word": "女子回应在优衣库试衣间被男童掀帘",
+        "onboard_time": 1672877427,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590917,
+        "num": 590917,
+        "word": "妻子吐槽老公在病房和女患者嗨聊",
+        "onboard_time": 1672880429,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536268,
+        "num": 536268,
+        "word": "顾魏今天35岁了",
+        "onboard_time": 1672882469,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1000641,
+        "num": 532628,
+        "word": "浪莎回应郎朗吉娜代言一日游",
+        "onboard_time": 1672881327,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481987,
+        "num": 481987,
+        "word": "初禾初",
+        "onboard_time": 1672845094,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472501,
+        "num": 472501,
+        "word": "新冠对生理期到底有什么影响",
+        "onboard_time": 1672846352,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467953,
+        "num": 467953,
+        "word": "有被16年的钟楚曦惊艳到",
+        "onboard_time": 1672880490,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417415,
+        "num": 417415,
+        "word": "王栎鑫说我们是多幸运的人啊",
+        "onboard_time": 1672880490,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382102,
+        "num": 382102,
+        "word": "地心人",
+        "onboard_time": 1672877251,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367270,
+        "num": 367270,
+        "word": "内马尔晒与梅西同框照",
+        "onboard_time": 1672874299,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356742,
+        "num": 356742,
+        "word": "宋亚轩打开被黄霄云夸很空灵",
+        "onboard_time": 1672879950,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349395,
+        "num": 349395,
+        "word": "母子遭家暴离家误入高速民警帮交罚款",
+        "onboard_time": 1672857555,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345733,
+        "num": 345733,
+        "word": "警方通报男子机舱喊飞机要出事",
+        "onboard_time": 1672874299,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 269546,
+        "num": 269546,
+        "word": "为什么劝情侣不要轻易拉黑",
+        "onboard_time": 1672844610,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251794,
+        "num": 251794,
+        "word": "狗狗趴去世主人床上默默流泪",
+        "onboard_time": 1672882831,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239318,
+        "num": 239318,
+        "word": "被亲妈算计是什么体验",
+        "onboard_time": 1672879408,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230701,
+        "num": 230701,
+        "word": "刘亦菲许红豆说出了打工人的酸楚",
+        "onboard_time": 1672880672,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227947,
+        "num": 227947,
+        "word": "风情不摇晃",
+        "onboard_time": 1672843232,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219443,
+        "num": 219443,
+        "word": "女子晒英国老公回贵州家乡干活杀猪",
+        "onboard_time": 1672873819,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184409,
+        "num": 184409,
+        "word": "温州小猫走丢2天在上海被收养",
+        "onboard_time": 1672858095,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184051,
+        "num": 184051,
+        "word": "国补取消你还买新能源车吗",
+        "onboard_time": 1672877065,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181502,
+        "num": 181502,
+        "word": "北京骑手小哥一年跑2万单年入20万",
+        "onboard_time": 1672873034,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181120,
+        "num": 181120,
+        "word": "共享视频账号的做法要不得",
+        "onboard_time": 1672883069,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185130,
+        "num": 180646,
+        "word": "xbb.1.5已成美国优势毒株",
+        "onboard_time": 1672883130,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177563,
+        "num": 177563,
+        "word": "今日小寒",
+        "onboard_time": 1672874238,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174994,
+        "num": 174994,
+        "word": "6万球迷见证苏亚雷斯亮相新东家",
+        "onboard_time": 1672882530,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170792,
+        "num": 170792,
+        "word": "虞书欣片场和郭敬明聊天路透",
+        "onboard_time": 1672849885,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167463,
+        "num": 167463,
+        "word": "句句不写穷 句句都是穷",
+        "onboard_time": 1672840352,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155793,
+        "num": 155793,
+        "word": "许红豆对谢之遥是日久生情",
+        "onboard_time": 1672883250,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151739,
+        "num": 151739,
+        "word": "郎朗晒北京卫视春晚录制照",
+        "onboard_time": 1672882409,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150820,
+        "num": 150820,
+        "word": "谢之遥撞脸表情包",
+        "onboard_time": 1672882709,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148242,
+        "num": 148242,
+        "word": "在海南过冬也得穿秋裤",
+        "onboard_time": 1672879351,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147279,
+        "num": 147279,
+        "word": "字节辟谣被裁员工与HR互殴",
+        "onboard_time": 1672853058,
+        "rank": 39,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 140651,
+        "num": 140651,
+        "word": "凌晨坐房顶大哭说不想结婚",
+        "onboard_time": 1672853958,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138922,
+        "num": 138922,
+        "word": "女子跨年夜中1000万后悔跟孩子说",
+        "onboard_time": 1672835914,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135527,
+        "num": 135527,
+        "word": "关于XBB毒株的6个认知误区",
+        "onboard_time": 1672879707,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132210,
+        "num": 132210,
+        "word": "男子意外发现交通卡余额有172万",
+        "onboard_time": 1672832069,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129952,
+        "num": 129952,
+        "word": "不见面的爱情会消失吗",
+        "onboard_time": 1672875562,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128522,
+        "num": 128522,
+        "word": "黑暗荣耀编剧有多牛",
+        "onboard_time": 1672879288,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124773,
+        "num": 124773,
+        "word": "恋爱真的需要发朋友圈吗",
+        "onboard_time": 1672841075,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120574,
+        "num": 120574,
+        "word": "74岁老人网购上瘾假金链子成堆买",
+        "onboard_time": 1672843712,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114921,
+        "num": 114921,
+        "word": "刘宇安徽春晚路透",
+        "onboard_time": 1672882948,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105744,
+        "num": 105744,
+        "word": "2023春运时刻",
+        "onboard_time": 1672883788,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断增强文化遗产保护能力#"
+    }
+  }
+}
