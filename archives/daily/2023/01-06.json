@@ -1,6 +1,6 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1672947196344,
+  "endTime": 1672950001044,
   "band_list": [
     {
       "raw_hot": 1331655,
@@ -553,6 +553,14 @@
       "onboard_time": 1672943054,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18453,
+      "num": 14768,
+      "word": "王鹤棣时宴今日出妆路透",
+      "onboard_time": 1672911692,
+      "rank": 41,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
