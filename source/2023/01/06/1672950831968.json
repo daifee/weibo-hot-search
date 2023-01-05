@@ -1,0 +1,410 @@
+{
+  "runTime": 1672950831968,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 128821,
+        "num": 128821,
+        "word": "优衣库遭掀帘女子男友发声",
+        "onboard_time": 1672918652,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82537,
+        "num": 82537,
+        "word": "为什么一到夜晚症状就加重",
+        "onboard_time": 1672942095,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7887,
+        "num": 81899,
+        "word": "共话网络真善美",
+        "onboard_time": 1672920872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81523,
+        "num": 81523,
+        "word": "30岁女生回应与65岁男子谈恋爱",
+        "onboard_time": 1672932213,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72017,
+        "num": 72017,
+        "word": "生娃后会失去什么",
+        "onboard_time": 1672934670,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54919,
+        "num": 54919,
+        "word": "3女子吃自助餐吃掉100多只螃蟹",
+        "onboard_time": 1672919191,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53595,
+        "num": 53595,
+        "word": "少爷和我",
+        "onboard_time": 1672916792,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51192,
+        "num": 51192,
+        "word": "郎朗说吉娜会主持今年北京台春晚",
+        "onboard_time": 1672933710,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48165,
+        "num": 48165,
+        "word": "第八号当铺",
+        "onboard_time": 1672928492,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44371,
+        "num": 44371,
+        "word": "县委书记回应倡导春节不返乡",
+        "onboard_time": 1672924651,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105405,
+        "num": 42242,
+        "word": "钱给到位你愿意生7个孩子吗",
+        "onboard_time": 1672928613,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45291,
+        "num": 41483,
+        "word": "新娘被要求坐主厅5小时脚不能沾地",
+        "onboard_time": 1672916552,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40016,
+        "num": 40016,
+        "word": "小鬼自曝去洛杉矶网吧玩",
+        "onboard_time": 1672937782,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38223,
+        "num": 38223,
+        "word": "苗苗刘芸分析张云龙恋情",
+        "onboard_time": 1672932033,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37365,
+        "num": 37365,
+        "word": "去有风的地方追风人观后感",
+        "onboard_time": 1672936824,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34237,
+        "num": 34237,
+        "word": "女子拒绝公开恋爱关系砍伤男友",
+        "onboard_time": 1672919850,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 33604,
+        "num": 33604,
+        "word": "三亚民宿老板称一个月赚回三年亏损",
+        "onboard_time": 1672916245,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33355,
+        "num": 33355,
+        "word": "为什么男生恋爱时会忽冷忽热",
+        "onboard_time": 1672931973,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31471,
+        "num": 31471,
+        "word": "哪本小说全网无代餐",
+        "onboard_time": 1672919012,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30676,
+        "num": 30676,
+        "word": "这是路边摊爱好者的天堂吧",
+        "onboard_time": 1672923571,
+        "rank": 19,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 36113,
+        "num": 30357,
+        "word": "这就是韩系甜妹天花板吧",
+        "onboard_time": 1672939339,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31584,
+        "num": 30046,
+        "word": "白鹿片场和助理贴贴",
+        "onboard_time": 1672935924,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29531,
+        "num": 29531,
+        "word": "偶像练习生制作方等被执行4044万",
+        "onboard_time": 1672929752,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 26585,
+        "num": 26585,
+        "word": "三亚春节20万一晚酒店已售罄",
+        "onboard_time": 1672916611,
+        "rank": 23,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 25213,
+        "num": 25213,
+        "word": "竟然被一只乌龟可爱到了",
+        "onboard_time": 1672933412,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27135,
+        "num": 24241,
+        "word": "你们男团是懂搞笑的",
+        "onboard_time": 1672939819,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22774,
+        "num": 22774,
+        "word": "住建部部长谈2023买房租房",
+        "onboard_time": 1672926213,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22529,
+        "num": 22529,
+        "word": "56岁岳父像90后与女婿似同龄人",
+        "onboard_time": 1672914810,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21286,
+        "num": 21286,
+        "word": "肯德基",
+        "onboard_time": 1672915230,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 19372,
+        "num": 19372,
+        "word": "首付比首套利率该降的都要降下来",
+        "onboard_time": 1672938083,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25572,
+        "num": 19343,
+        "word": "天放 酸",
+        "onboard_time": 1672924531,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23844,
+        "num": 19160,
+        "word": "宋慧乔黑暗荣耀第二季定档0310",
+        "onboard_time": 1672950252,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18935,
+        "num": 18935,
+        "word": "刘春孔庆东等微博账号被禁言",
+        "onboard_time": 1672920451,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23694,
+        "num": 18874,
+        "word": "黑暗荣耀删减剧情",
+        "onboard_time": 1672941136,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17163,
+        "num": 17163,
+        "word": "自助餐到底能不能吃回本",
+        "onboard_time": 1672937003,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21212,
+        "num": 16991,
+        "word": "赵丽颖直播九连拍",
+        "onboard_time": 1672925730,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15047,
+        "num": 15047,
+        "word": "余万",
+        "onboard_time": 1672934851,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14753,
+        "num": 14753,
+        "word": "这猫好像吸嗨了",
+        "onboard_time": 1672927173,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14550,
+        "num": 14550,
+        "word": "陆家嘴三件套石墩引游客火爆打卡",
+        "onboard_time": 1672911391,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 14415,
+        "num": 14415,
+        "word": "对于购买第一套住房的要大力支持",
+        "onboard_time": 1672922071,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18400,
+        "num": 14397,
+        "word": "人为什么会有两套DNA",
+        "onboard_time": 1672949894,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14352,
+        "num": 14352,
+        "word": "电费",
+        "onboard_time": 1672909172,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14139,
+        "num": 14139,
+        "word": "男子点一份大盘鸡吃出11个鸡屁股",
+        "onboard_time": 1672950431,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14060,
+        "num": 14060,
+        "word": "姐弟恋的结局是怎样的",
+        "onboard_time": 1672917931,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13911,
+        "num": 13911,
+        "word": "峨眉山最有礼貌的猴子",
+        "onboard_time": 1672922793,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13701,
+        "num": 13701,
+        "word": "真想做个能痛快翻篇儿的人呐",
+        "onboard_time": 1672937425,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13642,
+        "num": 13642,
+        "word": "女子陪服兵役朋友爷爷奶奶包饺子",
+        "onboard_time": 1672937241,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13287,
+        "num": 13287,
+        "word": "有哪些生了娃才知道的事",
+        "onboard_time": 1672923391,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11939,
+        "num": 13285,
+        "word": "WBG晋级微博杯决赛",
+        "onboard_time": 1672924893,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11876,
+        "num": 13273,
+        "word": "现在大学生刀工都这么好吗",
+        "onboard_time": 1672934249,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#同心奋进新征程#"
+    }
+  }
+}
