@@ -1,10 +1,10 @@
 {
   "startTime": 1672849948080,
-  "endTime": 1672888767256,
+  "endTime": 1672889617913,
   "band_list": [
     {
-      "raw_hot": 2514545,
-      "num": 2514545,
+      "raw_hot": 2773520,
+      "num": 2773520,
       "word": "优衣库遭掀帘女子被男童家长骂不检点",
       "onboard_time": 1672885169,
       "rank": 3,
@@ -83,19 +83,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 764772,
+      "num": 764772,
+      "word": "98年哥哥返乡给15弟妹买一车礼物",
+      "onboard_time": 1672886787,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728973,
       "num": 728973,
       "word": "法国公布针对中国旅客检测数据",
       "onboard_time": 1672880550,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 645584,
-      "num": 645584,
-      "word": "98年哥哥返乡给15弟妹买一车礼物",
-      "onboard_time": 1672886787,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -113,6 +113,14 @@
       "onboard_time": 1672880429,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576828,
+      "num": 576828,
+      "word": "曝C罗将继续执行2场禁赛",
+      "onboard_time": 1672885228,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 554325,
@@ -153,14 +161,6 @@
       "onboard_time": 1672882469,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 534868,
-      "num": 534868,
-      "word": "曝C罗将继续执行2场禁赛",
-      "onboard_time": 1672885228,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 526078,
@@ -275,19 +275,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 354052,
+      "num": 354052,
+      "word": "亚马逊将裁员1.7万人",
+      "onboard_time": 1672887329,
+      "rank": 19,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 353238,
+      "num": 353238,
+      "word": "狗子啃墙皮啃掉一排牙齿",
+      "onboard_time": 1672886129,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347974,
       "num": 347974,
       "word": "男子意外发现交通卡余额有172万",
       "onboard_time": 1672832069,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343118,
-      "num": 343118,
-      "word": "狗子啃墙皮啃掉一排牙齿",
-      "onboard_time": 1672886129,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -297,6 +305,14 @@
       "onboard_time": 1672886250,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313227,
+      "num": 313227,
+      "word": "二胎妈妈盆底肌受损阳后咳嗽严重漏尿",
+      "onboard_time": 1672888832,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312343,
@@ -331,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290456,
-      "num": 290456,
-      "word": "亚马逊将裁员1.7万人",
-      "onboard_time": 1672887329,
-      "rank": 19,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 289114,
       "num": 289114,
       "word": "温州小猫走丢2天在上海被收养",
@@ -355,12 +363,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 280578,
+      "num": 280578,
+      "word": "男子阳后嗜睡一检查已是白肺",
+      "onboard_time": 1672889069,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278156,
       "num": 278156,
       "word": "被亲妈算计是什么体验",
       "onboard_time": 1672879408,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 277381,
+      "num": 277381,
+      "word": "河南省考",
+      "onboard_time": 1672887387,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 271967,
@@ -385,14 +409,6 @@
       "onboard_time": 1672841075,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 259967,
-      "num": 259967,
-      "word": "河南省考",
-      "onboard_time": 1672887387,
-      "rank": 26,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 258450,
@@ -507,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203682,
+      "num": 203682,
+      "word": "梅西说期待着与巴黎实现本赛季的目标",
+      "onboard_time": 1672888711,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202931,
       "num": 175958,
       "word": "王一博张婧仪无名复古合照",
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 184026,
-      "num": 147471,
+      "num": 181570,
       "word": "满江红公布全员角色名",
       "onboard_time": 1672887930,
       "rank": 41,
@@ -641,6 +665,14 @@
       "onboard_time": 1672888170,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163605,
+      "num": 134144,
+      "word": "陈铭主持offer",
+      "onboard_time": 1672889251,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 162875,
@@ -779,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132829,
-      "num": 132829,
-      "word": "梅西说期待着与巴黎实现本赛季的目标",
-      "onboard_time": 1672888711,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132291,
       "num": 132291,
       "word": "原来约会都是从散步开始的",
@@ -801,6 +825,14 @@
       "onboard_time": 1672848508,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129258,
+      "num": 129258,
+      "word": "河南省考1月9日报名笔试面试时间确定",
+      "onboard_time": 1672888711,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 125420,
@@ -841,6 +873,22 @@
       "onboard_time": 1672884451,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118876,
+      "num": 118876,
+      "word": "2022年度十大职场热梗",
+      "onboard_time": 1672889192,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 117940,
+      "num": 117940,
+      "word": "奶奶不会写字在银行取不出养老金",
+      "onboard_time": 1672889611,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114921,
@@ -913,14 +961,6 @@
       "onboard_time": 1672825469,
       "rank": 42,
       "category": "动漫,幽默"
-    },
-    {
-      "raw_hot": 90666,
-      "num": 129096,
-      "word": "河南省考1月9日报名笔试面试时间确定",
-      "onboard_time": 1672888711,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 90245,
