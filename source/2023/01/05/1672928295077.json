@@ -1,0 +1,410 @@
+{
+  "runTime": 1672928295077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3458179,
+        "num": 3458179,
+        "word": "少爷和我",
+        "onboard_time": 1672916792,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2066534,
+        "num": 2066534,
+        "word": "优衣库遭掀帘女子男友发声",
+        "onboard_time": 1672918652,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71229,
+        "num": 1210377,
+        "word": "共话网络真善美",
+        "onboard_time": 1672920872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1132610,
+        "num": 1132610,
+        "word": "3女子吃自助餐吃掉100多只螃蟹",
+        "onboard_time": 1672919191,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854564,
+        "num": 854564,
+        "word": "县委书记回应倡导春节不返乡",
+        "onboard_time": 1672924651,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652165,
+        "num": 652165,
+        "word": "女子拒绝公开恋爱关系砍伤男友",
+        "onboard_time": 1672919850,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 639260,
+        "num": 639260,
+        "word": "迪丽热巴说演员是被选择的职业",
+        "onboard_time": 1672927593,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 578296,
+        "num": 578296,
+        "word": "三亚民宿老板称一个月赚回三年亏损",
+        "onboard_time": 1672916245,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527459,
+        "num": 527459,
+        "word": "56岁岳父像90后与女婿似同龄人",
+        "onboard_time": 1672914810,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488644,
+        "num": 488644,
+        "word": "苗苗说曾喜欢一个人十几年",
+        "onboard_time": 1672918051,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2203680,
+        "num": 487000,
+        "word": "天放 酸",
+        "onboard_time": 1672924531,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1102540,
+        "num": 474993,
+        "word": "新娘被要求坐主厅5小时脚不能沾地",
+        "onboard_time": 1672916552,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586415,
+        "num": 473399,
+        "word": "NINEPERCENT粉丝应援曲我的少年",
+        "onboard_time": 1672921353,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 531134,
+        "num": 465665,
+        "word": "赵丽颖直播九连拍",
+        "onboard_time": 1672925730,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458652,
+        "num": 458652,
+        "word": "住建部部长谈2023买房租房",
+        "onboard_time": 1672926213,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451493,
+        "num": 451493,
+        "word": "肯德基",
+        "onboard_time": 1672915230,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 418488,
+        "num": 418488,
+        "word": "三亚春节20万一晚酒店已售罄",
+        "onboard_time": 1672916611,
+        "rank": 16,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 384946,
+        "num": 384946,
+        "word": "有哪些生了娃才知道的事",
+        "onboard_time": 1672923391,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340773,
+        "num": 340773,
+        "word": "哪本小说全网无代餐",
+        "onboard_time": 1672919012,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337387,
+        "num": 337387,
+        "word": "电费",
+        "onboard_time": 1672909172,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371053,
+        "num": 333650,
+        "word": "顾南亭认识宁檬",
+        "onboard_time": 1672924413,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370001,
+        "num": 332906,
+        "word": "长空之王王一博试飞片段",
+        "onboard_time": 1672928012,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318445,
+        "num": 318445,
+        "word": "杨超越新年兔系碎钻妆",
+        "onboard_time": 1672926152,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279998,
+        "num": 279998,
+        "word": "峨眉山最有礼貌的猴子",
+        "onboard_time": 1672922793,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261696,
+        "num": 261696,
+        "word": "这猫怎么有腋毛啊",
+        "onboard_time": 1672913670,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238218,
+        "num": 238218,
+        "word": "上海电费",
+        "onboard_time": 1672903166,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209279,
+        "num": 238183,
+        "word": "刘春孔庆东等微博账号被禁言",
+        "onboard_time": 1672920451,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193358,
+        "num": 238163,
+        "word": "WBG晋级微博杯决赛",
+        "onboard_time": 1672924893,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189477,
+        "num": 238141,
+        "word": "对于购买第一套住房的要大力支持",
+        "onboard_time": 1672922071,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185775,
+        "num": 238103,
+        "word": "酒精消毒喷剂可以带上高铁吗",
+        "onboard_time": 1672917692,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299589,
+        "num": 238048,
+        "word": "小狼女Emma节目上安利seventeen",
+        "onboard_time": 1672923513,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283612,
+        "num": 238001,
+        "word": "许红豆说谢之遥有病",
+        "onboard_time": 1672927292,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283160,
+        "num": 237957,
+        "word": "西蓝花cp的爱还在继续",
+        "onboard_time": 1672927711,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277645,
+        "num": 237950,
+        "word": "东北哪里的冷面最正宗",
+        "onboard_time": 1672925554,
+        "rank": 33,
+        "category": "综艺,美食"
+      },
+      {
+        "raw_hot": 180163,
+        "num": 237876,
+        "word": "陆家嘴三件套石墩引游客火爆打卡",
+        "onboard_time": 1672911391,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 177460,
+        "num": 237855,
+        "word": "这猫好像吸嗨了",
+        "onboard_time": 1672927173,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171400,
+        "num": 237825,
+        "word": "建立首套住房贷款利率政策动态调整机制",
+        "onboard_time": 1672919373,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143698,
+        "num": 237777,
+        "word": "这是路边摊爱好者的天堂吧",
+        "onboard_time": 1672923571,
+        "rank": 37,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 143640,
+        "num": 237754,
+        "word": "上海电网回应电费涨价",
+        "onboard_time": 1672913191,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 141525,
+        "num": 237688,
+        "word": "TheShy薇恩上单",
+        "onboard_time": 1672921897,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275884,
+        "num": 237657,
+        "word": "IVE假唱被KBS点名批评",
+        "onboard_time": 1672906291,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273269,
+        "num": 237616,
+        "word": "于蕾任2023春晚总导演",
+        "onboard_time": 1672920153,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260176,
+        "num": 237586,
+        "word": "只有雷无桀每次都报真名",
+        "onboard_time": 1672926451,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237565,
+        "num": 237565,
+        "word": "顾南亭倪湛塑料兄弟情",
+        "onboard_time": 1672928253,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139118,
+        "num": 236381,
+        "word": "20余名大哥抢救回800箱黄桃罐头",
+        "onboard_time": 1672920811,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 136019,
+        "num": 235108,
+        "word": "北京WB阿豆挂牌",
+        "onboard_time": 1672922849,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135226,
+        "num": 234249,
+        "word": "虎年最后一轮满月",
+        "onboard_time": 1672927893,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126125,
+        "num": 233567,
+        "word": "全国最脏的工作被江西小城包了",
+        "onboard_time": 1672907493,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124536,
+        "num": 231779,
+        "word": "姐弟恋的结局是怎样的",
+        "onboard_time": 1672917931,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121993,
+        "num": 230569,
+        "word": "WBG对战EDGY",
+        "onboard_time": 1672917212,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023激发活力释放潜力#"
+    }
+  }
+}
