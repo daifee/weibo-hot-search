@@ -1,6 +1,6 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1672976036947,
+  "endTime": 1672978935324,
   "band_list": [
     {
       "raw_hot": 1897773,
@@ -11,6 +11,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1425585,
+      "num": 1425585,
+      "word": "女子阳后一周锻炼晕倒摔断3颗牙",
+      "onboard_time": 1672973309,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1406553,
       "num": 1406553,
       "word": "购买三套以上住房原则上不支持",
@@ -19,11 +27,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1340061,
+      "num": 1340061,
+      "word": "表兄妹结婚41年想离婚得知婚姻无效",
+      "onboard_time": 1672974568,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1331655,
       "num": 1331655,
       "word": "少爷和我",
       "onboard_time": 1672916792,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1213216,
+      "num": 1213216,
+      "word": "唐嫣李未央造型6年前后对比",
+      "onboard_time": 1672976426,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -51,20 +75,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1059069,
+      "num": 620456,
+      "word": "N号房主犯曾调查金智秀私生活",
+      "onboard_time": 1672975047,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1052227,
       "num": 1052227,
       "word": "易烊千玺演的孙均有点狠",
       "onboard_time": 1672974150,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1028972,
-      "num": 1028972,
-      "word": "女子阳后一周锻炼晕倒摔断3颗牙",
-      "onboard_time": 1672973309,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1023891,
@@ -91,19 +115,19 @@
       "category": "军事"
     },
     {
+      "raw_hot": 913105,
+      "num": 804402,
+      "word": "唐山妇联回应男子疑家暴哺乳期妻子",
+      "onboard_time": 1672974150,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 900281,
-      "num": 490394,
+      "num": 546245,
       "word": "焉栩嘉获北电三等奖学金",
       "onboard_time": 1672971147,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 887747,
-      "num": 493746,
-      "word": "N号房主犯曾调查金智秀私生活",
-      "onboard_time": 1672975047,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -115,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 841770,
+      "num": 841770,
+      "word": "男子1599元万达买到海蓝之谜试用装",
+      "onboard_time": 1672977391,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 789468,
       "num": 789468,
       "word": "中国乒乓官宣定档大年初一",
@@ -123,12 +155,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 772447,
-      "num": 772447,
-      "word": "唐山妇联回应男子疑家暴哺乳期妻子",
-      "onboard_time": 1672974150,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 763553,
+      "num": 763553,
+      "word": "苍兰诀魔尊小兰花分开好虐",
+      "onboard_time": 1672977150,
+      "rank": 7,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 747915,
@@ -137,14 +169,6 @@
       "onboard_time": 1672928613,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 730716,
-      "num": 490986,
-      "word": "表兄妹结婚41年想离婚得知婚姻无效",
-      "onboard_time": 1672974568,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 715670,
@@ -169,6 +193,14 @@
       "onboard_time": 1672932213,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 640237,
+      "num": 640237,
+      "word": "未定事件簿",
+      "onboard_time": 1672975888,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 632099,
@@ -259,8 +291,16 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 469075,
-      "num": 469075,
+      "raw_hot": 489155,
+      "num": 489155,
+      "word": "刘亦菲早起vs许红豆早起",
+      "onboard_time": 1672976248,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 484577,
+      "num": 484577,
       "word": "戴尔计划到2024年停用中国制造的芯片",
       "onboard_time": 1672972647,
       "rank": 45,
@@ -292,11 +332,19 @@
     },
     {
       "raw_hot": 440399,
-      "num": 343065,
+      "num": 351201,
       "word": "2023春节档电影增至七部",
       "onboard_time": 1672975047,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 423017,
+      "num": 423017,
+      "word": "今年春运有两个日期将出现返程高峰",
+      "onboard_time": 1672974387,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412616,
@@ -329,6 +377,14 @@
       "onboard_time": 1672939339,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 377245,
+      "num": 377245,
+      "word": "天府可乐董事长直播带火崂山可乐",
+      "onboard_time": 1672976548,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377135,
@@ -371,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349086,
+      "num": 349086,
+      "word": "武汉66岁太婆一天炸3000个圆子",
+      "onboard_time": 1672974387,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344728,
       "num": 344728,
       "word": "男子点一份大盘鸡吃出11个鸡屁股",
@@ -411,14 +475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 326388,
-      "num": 326388,
-      "word": "武汉66岁太婆一天炸3000个圆子",
-      "onboard_time": 1672974387,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 324884,
       "num": 324884,
       "word": "县委书记回应倡导春节不返乡",
@@ -435,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312194,
-      "num": 312194,
-      "word": "今年春运有两个日期将出现返程高峰",
-      "onboard_time": 1672974387,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 311290,
+      "num": 311290,
+      "word": "顾南亭程霄倪湛三人大型修罗场",
+      "onboard_time": 1672977330,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 308012,
@@ -449,6 +505,38 @@
       "onboard_time": 1672972348,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 302591,
+      "num": 225505,
+      "word": "Wendy清唱Ditto",
+      "onboard_time": 1672978590,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 301454,
+      "num": 223907,
+      "word": "海边喊住王诠胜的人是陈韵如",
+      "onboard_time": 1672977509,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 287700,
+      "num": 179420,
+      "word": "陈乔恩 睡眠呼吸中止症",
+      "onboard_time": 1672978830,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 282270,
+      "num": 247107,
+      "word": "卢海潮",
+      "onboard_time": 1672975830,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 281131,
@@ -539,14 +627,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 247107,
-      "num": 247107,
-      "word": "卢海潮",
-      "onboard_time": 1672975830,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247009,
       "num": 178569,
       "word": "许红豆意识到自己被谢之遥和阿奶忽悠",
@@ -555,12 +635,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247005,
+      "num": 247005,
+      "word": "上海春考",
+      "onboard_time": 1672978352,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 242877,
       "num": 242877,
       "word": "以后爸妈吵架就这么劝",
       "onboard_time": 1672964488,
       "rank": 23,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 242629,
+      "num": 242629,
+      "word": "未定事件簿战损",
+      "onboard_time": 1672976849,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 240692,
@@ -603,12 +699,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 228565,
-      "num": 228565,
-      "word": "未定事件簿",
-      "onboard_time": 1672975888,
-      "rank": 34,
-      "category": "游戏"
+      "raw_hot": 230182,
+      "num": 230182,
+      "word": "妇联回应男子殴打女子猛砸头部",
+      "onboard_time": 1672976189,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 219468,
+      "num": 178905,
+      "word": "张远刘雅瑟极地密码网播上线",
+      "onboard_time": 1672977990,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 208178,
@@ -673,6 +777,14 @@
       "onboard_time": 1672916611,
       "rank": 24,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 190325,
+      "num": 190325,
+      "word": "狗狗美容前后差距有多大",
+      "onboard_time": 1672977752,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 185155,
@@ -803,6 +915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153579,
+      "num": 153579,
+      "word": "特斯拉降价会带来什么影响",
+      "onboard_time": 1672978830,
+      "rank": 47,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 152926,
       "num": 152926,
       "word": "当代年轻人是懂互联网拜年的",
@@ -817,6 +937,14 @@
       "onboard_time": 1672966888,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146849,
+      "num": 146849,
+      "word": "男生发现外婆家厨房墙酷似山水画",
+      "onboard_time": 1672976309,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146588,
@@ -1124,7 +1252,7 @@
     },
     {
       "raw_hot": 50489,
-      "num": 1034210,
+      "num": 1267954,
       "word": "共话网络真善美",
       "onboard_time": 1672920872,
       "rank": 2,
