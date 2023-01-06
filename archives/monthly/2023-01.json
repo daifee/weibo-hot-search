@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673029378563,
+  "endTime": 1673030229549,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -14867,6 +14867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90817,
+      "num": 66462,
+      "word": "于文文曾当中介给自己找房源",
+      "onboard_time": 1673029515,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90245,
       "num": 90245,
       "word": "刘亦菲李现去有风的地方将在北美播出",
@@ -15035,6 +15043,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 78492,
+      "num": 65530,
+      "word": "杨洋是糊弄学大师吧",
+      "onboard_time": 1673028315,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77447,
       "num": 187444,
       "word": "ACT对战Gr",
@@ -15051,20 +15067,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 75756,
-      "num": 64527,
-      "word": "杨洋是糊弄学大师吧",
-      "onboard_time": 1673028315,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 75145,
       "num": 923180,
       "word": "狼队0比1曼联",
       "onboard_time": 1672500051,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69518,
+      "num": 63675,
+      "word": "喜欢真的会从眼睛里跑出来",
+      "onboard_time": 1673029215,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 68603,
@@ -15105,14 +15121,6 @@
       "onboard_time": 1672630409,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 63675,
-      "num": 63675,
-      "word": "喜欢真的会从眼睛里跑出来",
-      "onboard_time": 1673029215,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 63123,

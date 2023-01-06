@@ -1,6 +1,6 @@
 {
   "startTime": 1673022390574,
-  "endTime": 1673029378563,
+  "endTime": 1673030229549,
   "band_list": [
     {
       "raw_hot": 2030918,
@@ -419,6 +419,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92236,
+      "num": 134492,
+      "word": "新冠恢复期失眠怎么办",
+      "onboard_time": 1673028376,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90817,
+      "num": 66462,
+      "word": "于文文曾当中介给自己找房源",
+      "onboard_time": 1673029515,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90198,
       "num": 138583,
       "word": "教资面试",
@@ -435,20 +451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78492,
+      "num": 65530,
+      "word": "杨洋是糊弄学大师吧",
+      "onboard_time": 1673028315,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77090,
       "num": 136712,
       "word": "绝境李元浩",
       "onboard_time": 1673011713,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 75756,
-      "num": 64527,
-      "word": "杨洋是糊弄学大师吧",
-      "onboard_time": 1673028315,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 71612,
@@ -465,6 +481,14 @@
       "onboard_time": 1673001392,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 69518,
+      "num": 63675,
+      "word": "喜欢真的会从眼睛里跑出来",
+      "onboard_time": 1673029215,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 68603,
@@ -497,22 +521,6 @@
       "onboard_time": 1673016692,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 63675,
-      "num": 63675,
-      "word": "喜欢真的会从眼睛里跑出来",
-      "onboard_time": 1673029215,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 58331,
-      "num": 64719,
-      "word": "新冠恢复期失眠怎么办",
-      "onboard_time": 1673028376,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55073,
