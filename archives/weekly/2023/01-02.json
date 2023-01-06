@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1673033623919,
+  "endTime": 1673036380350,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -11427,6 +11427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130170,
+      "num": 130170,
+      "word": "李现直播模仿kisskiss表情包",
+      "onboard_time": 1673036052,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129826,
       "num": 129826,
       "word": "没有人能空着手走出青岛大集",
@@ -12899,6 +12907,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 35419,
+      "num": 35419,
+      "word": "宝可梦",
+      "onboard_time": 1673032753,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 34047,
       "num": 34047,
       "word": "真想做个能痛快翻篇儿的人呐",
@@ -12960,14 +12976,6 @@
       "word": "故城黎明的回响",
       "onboard_time": 1673026219,
       "rank": 33,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 23139,
-      "num": 31309,
-      "word": "宝可梦",
-      "onboard_time": 1673032753,
-      "rank": 40,
       "category": "游戏"
     },
     {
