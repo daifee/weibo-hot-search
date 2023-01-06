@@ -1,6 +1,6 @@
 {
   "startTime": 1673022390574,
-  "endTime": 1673047035635,
+  "endTime": 1673048025468,
   "band_list": [
     {
       "raw_hot": 2030918,
@@ -251,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185689,
+      "num": 156725,
+      "word": "刘亦菲说三个词不够夸谢之遥",
+      "onboard_time": 1673032572,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184451,
       "num": 155705,
       "word": "杨迪是我的过年脸替",
@@ -273,6 +281,14 @@
       "onboard_time": 1673012012,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178610,
+      "num": 145714,
+      "word": "冯鹤年被开除党籍",
+      "onboard_time": 1673039772,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166102,
@@ -299,14 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156725,
-      "num": 156725,
-      "word": "刘亦菲说三个词不够夸谢之遥",
-      "onboard_time": 1673032572,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 156450,
       "num": 156450,
       "word": "WBG夺得微博杯冠军",
@@ -331,11 +339,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145714,
-      "num": 145714,
-      "word": "冯鹤年被开除党籍",
-      "onboard_time": 1673039772,
-      "rank": 30,
+      "raw_hot": 144962,
+      "num": 158529,
+      "word": "新冠恢复期失眠怎么办",
+      "onboard_time": 1673028376,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -353,6 +361,14 @@
       "onboard_time": 1673007450,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143340,
+      "num": 143340,
+      "word": "教资面试",
+      "onboard_time": 1673001813,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 141465,
@@ -395,14 +411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 130386,
-      "num": 158529,
-      "word": "新冠恢复期失眠怎么办",
-      "onboard_time": 1673028376,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130385,
       "num": 95876,
       "word": "王一博光明之路上班路透",
@@ -427,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129453,
+      "num": 129453,
+      "word": "张伯礼院士分享两个止咳小偏方",
+      "onboard_time": 1673044994,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128964,
       "num": 94687,
       "word": "国产剧中最强事业咖盘点",
@@ -449,6 +465,14 @@
       "onboard_time": 1673032333,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128282,
+      "num": 128282,
+      "word": "主人阳性休息狗子帮忙看店卖货",
+      "onboard_time": 1673045955,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127130,
@@ -508,7 +532,7 @@
     },
     {
       "raw_hot": 116304,
-      "num": 48085,
+      "num": 64931,
       "word": "沙溢重现英子开门爹地名场面",
       "onboard_time": 1673046377,
       "rank": 30,
@@ -539,12 +563,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101402,
+      "num": 101402,
+      "word": "张文宏到访社区卫生服务中心",
+      "onboard_time": 1673047218,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101263,
       "num": 66462,
       "word": "于文文曾当中介给自己找房源",
       "onboard_time": 1673029515,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99132,
+      "num": 99132,
+      "word": "男子心疼妻子生娃产房外哭到抽泣",
+      "onboard_time": 1673045836,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98907,
@@ -555,20 +595,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96070,
-      "num": 48045,
-      "word": "张伯礼院士分享两个止咳小偏方",
-      "onboard_time": 1673044994,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 91327,
+      "num": 91327,
+      "word": "红袜子是本命年全国统一标配吗",
+      "onboard_time": 1673046617,
+      "rank": 28,
+      "category": "情感"
     },
     {
-      "raw_hot": 90198,
-      "num": 138583,
-      "word": "教资面试",
-      "onboard_time": 1673001813,
-      "rank": 44,
-      "category": "教育"
+      "raw_hot": 82075,
+      "num": 82075,
+      "word": "杨洋是糊弄学大师吧",
+      "onboard_time": 1673028315,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 79318,
@@ -577,14 +617,6 @@
       "onboard_time": 1673018072,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78492,
-      "num": 65530,
-      "word": "杨洋是糊弄学大师吧",
-      "onboard_time": 1673028315,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 77090,
@@ -601,6 +633,14 @@
       "onboard_time": 1672995333,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69838,
+      "num": 63621,
+      "word": "中国奇谭",
+      "onboard_time": 1673047818,
+      "rank": 32,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 69616,
@@ -651,12 +691,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 64628,
-      "num": 64628,
-      "word": "男子心疼妻子生娃产房外哭到抽泣",
-      "onboard_time": 1673045836,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 59436,
+      "num": 59436,
+      "word": "曼联3比1埃弗顿",
+      "onboard_time": 1673047098,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 55073,
@@ -675,24 +715,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 49099,
-      "num": 49099,
-      "word": "红袜子是本命年全国统一标配吗",
-      "onboard_time": 1673046617,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 48445,
-      "num": 48445,
-      "word": "主人阳性休息狗子帮忙看店卖货",
-      "onboard_time": 1673045955,
-      "rank": 29,
+      "raw_hot": 45952,
+      "num": 45952,
+      "word": "过年回家如何做好健康防护",
+      "onboard_time": 1673047338,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
       "raw_hot": 35419,
-      "num": 35419,
+      "num": 41520,
       "word": "宝可梦",
       "onboard_time": 1673032753,
       "rank": 40,
