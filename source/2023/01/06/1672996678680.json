@@ -1,0 +1,410 @@
+{
+  "runTime": 1672996678680,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1827729,
+        "num": 1827729,
+        "word": "成都回应不雅聊天男干部1月还参会",
+        "onboard_time": 1672992571,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770879,
+        "num": 770879,
+        "word": "多国要求日本将核污水倒在东京",
+        "onboard_time": 1672989569,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 135455,
+        "num": 741842,
+        "word": "春节返乡农村地区疫情防控6点倡议",
+        "onboard_time": 1672981471,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718406,
+        "num": 718406,
+        "word": "王雪峰被查",
+        "onboard_time": 1672992031,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683864,
+        "num": 683864,
+        "word": "医生收红包转手充进患者账户",
+        "onboard_time": 1672992149,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 554814,
+        "num": 554814,
+        "word": "原来真的有人自带大佬气场",
+        "onboard_time": 1672990110,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553084,
+        "num": 553084,
+        "word": "李荣浩回应张艺兴驷马难追",
+        "onboard_time": 1672994012,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 538744,
+        "num": 538744,
+        "word": "孩子误将摔炮当成糖果放嘴里咬",
+        "onboard_time": 1672988128,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493293,
+        "num": 493293,
+        "word": "爷爷让1岁孙子开车还发视频炫耀",
+        "onboard_time": 1672993351,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492388,
+        "num": 492388,
+        "word": "陈乔恩 睡眠呼吸中止症",
+        "onboard_time": 1672978830,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 822611,
+        "num": 482123,
+        "word": "王鹤棣时宴的车被交警拖走了",
+        "onboard_time": 1672987469,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 610559,
+        "num": 478923,
+        "word": "王俊凯灰色西装造型",
+        "onboard_time": 1672996291,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 559172,
+        "num": 462395,
+        "word": "增加抗原阳性作为新冠诊断标准",
+        "onboard_time": 1672995333,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438283,
+        "num": 438283,
+        "word": "贾玲探班张小斐笑出眼泪",
+        "onboard_time": 1672992091,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427411,
+        "num": 427411,
+        "word": "重庆共青团质疑抖音评论审核规则",
+        "onboard_time": 1672989029,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421705,
+        "num": 421705,
+        "word": "不再要求新冠病例集中隔离收治",
+        "onboard_time": 1672995631,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 343327,
+        "num": 343327,
+        "word": "男孩无意摔碎千元盘子父亲赔偿后说值了",
+        "onboard_time": 1672983210,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335156,
+        "num": 335156,
+        "word": "北京疫情发布会",
+        "onboard_time": 1672993951,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330332,
+        "num": 330332,
+        "word": "第十版新冠诊疗方案重点内容",
+        "onboard_time": 1672995271,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318332,
+        "num": 318332,
+        "word": "原来穿制服真的会加分",
+        "onboard_time": 1672995393,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382304,
+        "num": 312277,
+        "word": "赵今麦蓝色玫瑰短裙",
+        "onboard_time": 1672990891,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368523,
+        "num": 291004,
+        "word": "k4",
+        "onboard_time": 1672996469,
+        "rank": 21,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 365788,
+        "num": 286260,
+        "word": "范丞丞张婧仪新电影身高差",
+        "onboard_time": 1672990651,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257617,
+        "num": 257617,
+        "word": "青岛胶东机场机务人员被碾死调查结果",
+        "onboard_time": 1672988012,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 248921,
+        "num": 248921,
+        "word": "姆巴佩和忍者神龟合影",
+        "onboard_time": 1672995991,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213853,
+        "num": 213853,
+        "word": "男子1599元万达买到海蓝之谜试用装",
+        "onboard_time": 1672977391,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213528,
+        "num": 213528,
+        "word": "辅警放下1岁儿子转身营救落水女童",
+        "onboard_time": 1672995450,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 198897,
+        "num": 198897,
+        "word": "发年终奖的都是什么公司",
+        "onboard_time": 1672981950,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191788,
+        "num": 191788,
+        "word": "在农村花200万建房值吗",
+        "onboard_time": 1672984170,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177588,
+        "num": 177588,
+        "word": "女子阳后一周锻炼晕倒摔断3颗牙",
+        "onboard_time": 1672973309,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293756,
+        "num": 176469,
+        "word": "苏醒与小学生的时代鸿沟",
+        "onboard_time": 1672995573,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290912,
+        "num": 174190,
+        "word": "李现新剧角色贡献度第一",
+        "onboard_time": 1672993471,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247393,
+        "num": 171695,
+        "word": "卢海潮去世",
+        "onboard_time": 1672982429,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262932,
+        "num": 166367,
+        "word": "许红豆被谢之遥拉手表白的反应",
+        "onboard_time": 1672996050,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166203,
+        "num": 166203,
+        "word": "北京儿童防护面罩搜索超过方便面",
+        "onboard_time": 1672995512,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246002,
+        "num": 164483,
+        "word": "龚俊狐妖小红娘片场对戏路透",
+        "onboard_time": 1672990169,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161261,
+        "num": 161261,
+        "word": "原来大家都梦到过这里",
+        "onboard_time": 1672991490,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159910,
+        "num": 159910,
+        "word": "敦煌壁画3只兔子竟只有3个耳朵",
+        "onboard_time": 1672989989,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 158797,
+        "num": 158797,
+        "word": "未定事件簿",
+        "onboard_time": 1672975888,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157614,
+        "num": 157614,
+        "word": "隔玻璃亲吻的印痕女护士有宝宝了",
+        "onboard_time": 1672985669,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216215,
+        "num": 156258,
+        "word": "IU入围亚洲电影大奖最佳新演员",
+        "onboard_time": 1672996231,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153059,
+        "num": 153059,
+        "word": "奶茶担任AG主教练",
+        "onboard_time": 1672989691,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150659,
+        "num": 150659,
+        "word": "国乒众将呼吁球迷专注赛场",
+        "onboard_time": 1672995932,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144059,
+        "num": 144059,
+        "word": "警方回应男子殴打疑似哺乳期女子",
+        "onboard_time": 1672984290,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 138363,
+        "num": 138363,
+        "word": "女生6个月减肥73斤称重塑人生",
+        "onboard_time": 1672978590,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133825,
+        "num": 133825,
+        "word": "表兄妹结婚41年想离婚得知婚姻无效",
+        "onboard_time": 1672974568,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132440,
+        "num": 132440,
+        "word": "2块钱鸡蛋和5毛钱鸡蛋的区别",
+        "onboard_time": 1672981651,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130817,
+        "num": 130817,
+        "word": "被小猫咪甜到撒娇的狗狗",
+        "onboard_time": 1672992510,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118428,
+        "num": 130781,
+        "word": "特斯拉降价",
+        "onboard_time": 1672969406,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 113616,
+        "num": 130710,
+        "word": "中小学生寒假全天候健康指南",
+        "onboard_time": 1672991010,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#形成共促高质量发展的合力#"
+    }
+  }
+}
