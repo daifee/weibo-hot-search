@@ -1,6 +1,6 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1673018390952,
+  "endTime": 1673019298628,
   "band_list": [
     {
       "raw_hot": 3498294,
@@ -208,6 +208,14 @@
       "word": "父亲将石榴埋沙里4个月等儿子",
       "onboard_time": 1672965028,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1147137,
+      "num": 1147137,
+      "word": "妻子终止妊娠仅17天丈夫起诉离婚",
+      "onboard_time": 1673017413,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -433,6 +441,14 @@
       "onboard_time": 1673006610,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 817820,
+      "num": 817820,
+      "word": "邓超 人缘",
+      "onboard_time": 1673017833,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 816994,
@@ -875,14 +891,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 502430,
-      "num": 502430,
-      "word": "邓超 人缘",
-      "onboard_time": 1673017833,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 500225,
       "num": 500225,
       "word": "为什么男生恋爱时会忽冷忽热",
@@ -915,14 +923,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 480444,
-      "num": 480444,
-      "word": "妻子终止妊娠仅17天丈夫起诉离婚",
-      "onboard_time": 1673017413,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 474421,
       "num": 301586,
       "word": "网传大侦探第八季下周上线",
@@ -945,6 +945,14 @@
       "onboard_time": 1672976548,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459945,
+      "num": 459945,
+      "word": "李庚希说姚晨声音像巫婆",
+      "onboard_time": 1673016331,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 456968,
@@ -993,6 +1001,14 @@
       "onboard_time": 1672975047,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 433304,
+      "num": 433304,
+      "word": "明星也不能笑着走出理发店",
+      "onboard_time": 1673014112,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 430681,
@@ -1059,22 +1075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 408943,
-      "num": 408943,
-      "word": "明星也不能笑着走出理发店",
-      "onboard_time": 1673014112,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 408858,
-      "num": 306229,
-      "word": "李庚希说姚晨声音像巫婆",
-      "onboard_time": 1673016331,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 407344,
       "num": 407344,
       "word": "原来艺人也和我一样想放假",
@@ -1115,6 +1115,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 396897,
+      "num": 396897,
+      "word": "女孩子真的是很美好很美好",
+      "onboard_time": 1673017294,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 396533,
       "num": 249570,
       "word": "鲍蕾在和陆毅短暂分别时哭了",
@@ -1136,6 +1144,14 @@
       "word": "王心凌参加北京台春晚录制",
       "onboard_time": 1673009131,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 391412,
+      "num": 291228,
+      "word": "水哥王昱珩说来最强大脑像回家",
+      "onboard_time": 1673018132,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1292,7 +1308,7 @@
     },
     {
       "raw_hot": 348231,
-      "num": 540517,
+      "num": 544281,
       "word": "监控公司回应胡鑫宇视频是否被删减",
       "onboard_time": 1673015132,
       "rank": 34,
@@ -1475,6 +1491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 306799,
+      "num": 285737,
+      "word": "周杰伦回应演唱会撞期足球赛",
+      "onboard_time": 1673017653,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 306014,
       "num": 182961,
       "word": "王一博练习室排练图",
@@ -1555,6 +1579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 283230,
+      "num": 283230,
+      "word": "Doinb评价LPL选手卡",
+      "onboard_time": 1673017772,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282952,
       "num": 163333,
       "word": "李现跳舞",
@@ -1609,14 +1641,6 @@
       "onboard_time": 1672974208,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 276319,
-      "num": 201650,
-      "word": "周杰伦回应演唱会撞期足球赛",
-      "onboard_time": 1673017653,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 275515,
@@ -1793,22 +1817,6 @@
       "onboard_time": 1672978830,
       "rank": 47,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 244810,
-      "num": 201546,
-      "word": "女孩子真的是很美好很美好",
-      "onboard_time": 1673017294,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 243787,
-      "num": 201319,
-      "word": "水哥王昱珩说来最强大脑像回家",
-      "onboard_time": 1673018132,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 242877,
@@ -2243,14 +2251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162611,
-      "num": 201715,
-      "word": "Doinb评价LPL选手卡",
-      "onboard_time": 1673017772,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 162363,
       "num": 162363,
       "word": "阳康前后勿剧烈运动",
@@ -2491,6 +2491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121714,
+      "num": 201121,
+      "word": "这狗子怎么跟个人似的",
+      "onboard_time": 1673018193,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120374,
       "num": 120374,
       "word": "决赛圈选手春节前要注意什么",
@@ -2651,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100198,
+      "num": 201222,
+      "word": "改善富贵包",
+      "onboard_time": 1673018072,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99779,
       "num": 99779,
       "word": "2023加班工资日历",
@@ -2659,20 +2675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99496,
+      "num": 199085,
+      "word": "C罗无缘大名单",
+      "onboard_time": 1673019033,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98057,
       "num": 111743,
       "word": "北京中小学2月13日如期开学",
       "onboard_time": 1673000912,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 97777,
-      "num": 201222,
-      "word": "改善富贵包",
-      "onboard_time": 1673018072,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 96119,
@@ -2721,14 +2737,6 @@
       "onboard_time": 1672937483,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 87052,
-      "num": 201121,
-      "word": "这狗子怎么跟个人似的",
-      "onboard_time": 1673018193,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 84423,

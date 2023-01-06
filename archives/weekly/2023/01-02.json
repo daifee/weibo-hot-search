@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1673018390952,
+  "endTime": 1673019298628,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -995,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1147137,
+      "num": 1147137,
+      "word": "妻子终止妊娠仅17天丈夫起诉离婚",
+      "onboard_time": 1673017413,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1145735,
       "num": 1145735,
       "word": "男子买到假NIKE举报店铺被送花圈",
@@ -1801,6 +1809,14 @@
       "onboard_time": 1672805609,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 817820,
+      "num": 817820,
+      "word": "邓超 人缘",
+      "onboard_time": 1673017833,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 816994,
@@ -3667,14 +3683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 502430,
-      "num": 502430,
-      "word": "邓超 人缘",
-      "onboard_time": 1673017833,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 501537,
       "num": 501537,
       "word": "计划要求各国用贝利名字命名一个足球场",
@@ -3835,14 +3843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 480444,
-      "num": 480444,
-      "word": "妻子终止妊娠仅17天丈夫起诉离婚",
-      "onboard_time": 1673017413,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 479653,
       "num": 338111,
       "word": "北京协和医院建议新冠治疗前先临床分型",
@@ -3993,6 +3993,14 @@
       "onboard_time": 1672976548,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459945,
+      "num": 459945,
+      "word": "李庚希说姚晨声音像巫婆",
+      "onboard_time": 1673016331,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 458850,
@@ -4249,6 +4257,14 @@
       "onboard_time": 1672741410,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 433304,
+      "num": 433304,
+      "word": "明星也不能笑着走出理发店",
+      "onboard_time": 1673014112,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 432097,
@@ -4539,22 +4555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 408943,
-      "num": 408943,
-      "word": "明星也不能笑着走出理发店",
-      "onboard_time": 1673014112,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 408858,
-      "num": 306229,
-      "word": "李庚希说姚晨声音像巫婆",
-      "onboard_time": 1673016331,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 407914,
       "num": 407914,
       "word": "9岁重孙为91岁太爷爷换尿不湿擦身体",
@@ -4691,6 +4691,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 396897,
+      "num": 396897,
+      "word": "女孩子真的是很美好很美好",
+      "onboard_time": 1673017294,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 396533,
       "num": 249570,
       "word": "鲍蕾在和陆毅短暂分别时哭了",
@@ -4769,6 +4777,14 @@
       "onboard_time": 1672711107,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391412,
+      "num": 291228,
+      "word": "水哥王昱珩说来最强大脑像回家",
+      "onboard_time": 1673018132,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 391223,
@@ -5492,7 +5508,7 @@
     },
     {
       "raw_hot": 348231,
-      "num": 540517,
+      "num": 544281,
       "word": "监控公司回应胡鑫宇视频是否被删减",
       "onboard_time": 1673015132,
       "rank": 34,
@@ -6267,6 +6283,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 306799,
+      "num": 285737,
+      "word": "周杰伦回应演唱会撞期足球赛",
+      "onboard_time": 1673017653,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 306512,
       "num": 277726,
       "word": "Tangoz评论权志龙算你小子有点事业心",
@@ -6771,6 +6795,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 283230,
+      "num": 283230,
+      "word": "Doinb评价LPL选手卡",
+      "onboard_time": 1673017772,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283160,
       "num": 237957,
       "word": "西蓝花cp的爱还在继续",
@@ -7009,14 +7041,6 @@
       "onboard_time": 1672895672,
       "rank": 32,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 276319,
-      "num": 201650,
-      "word": "周杰伦回应演唱会撞期足球赛",
-      "onboard_time": 1673017653,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 276310,
@@ -7865,22 +7889,6 @@
       "onboard_time": 1672895013,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 244810,
-      "num": 201546,
-      "word": "女孩子真的是很美好很美好",
-      "onboard_time": 1673017294,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 243787,
-      "num": 201319,
-      "word": "水哥王昱珩说来最强大脑像回家",
-      "onboard_time": 1673018132,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 243573,
@@ -10235,14 +10243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162611,
-      "num": 201715,
-      "word": "Doinb评价LPL选手卡",
-      "onboard_time": 1673017772,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 162415,
       "num": 162415,
       "word": "大爷冰钓坠河消防用手肘破冰救人",
@@ -11491,6 +11491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121714,
+      "num": 201121,
+      "word": "这狗子怎么跟个人似的",
+      "onboard_time": 1673018193,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121122,
       "num": 121122,
       "word": "南京大屠杀在册幸存者仅剩49人",
@@ -12035,12 +12043,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100198,
+      "num": 201222,
+      "word": "改善富贵包",
+      "onboard_time": 1673018072,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99779,
       "num": 99779,
       "word": "2023加班工资日历",
       "onboard_time": 1672960519,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99496,
+      "num": 199085,
+      "word": "C罗无缘大名单",
+      "onboard_time": 1673019033,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 99457,
@@ -12065,14 +12089,6 @@
       "onboard_time": 1673000912,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 97777,
-      "num": 201222,
-      "word": "改善富贵包",
-      "onboard_time": 1673018072,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 97459,
@@ -12265,14 +12281,6 @@
       "onboard_time": 1672585411,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 87052,
-      "num": 201121,
-      "word": "这狗子怎么跟个人似的",
-      "onboard_time": 1673018193,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 87014,
