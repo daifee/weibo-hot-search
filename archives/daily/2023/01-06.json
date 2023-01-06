@@ -1,6 +1,6 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1672978935324,
+  "endTime": 1672979855211,
   "band_list": [
     {
       "raw_hot": 1897773,
@@ -43,8 +43,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1213216,
-      "num": 1213216,
+      "raw_hot": 1243080,
+      "num": 562820,
+      "word": "陈乔恩 睡眠呼吸中止症",
+      "onboard_time": 1672978830,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1229404,
+      "num": 1229404,
       "word": "唐嫣李未央造型6年前后对比",
       "onboard_time": 1672976426,
       "rank": 3,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 985804,
+      "num": 985804,
+      "word": "男子1599元万达买到海蓝之谜试用装",
+      "onboard_time": 1672977391,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 966983,
       "num": 966983,
       "word": "优衣库遭掀帘女子男友发声",
@@ -137,14 +153,6 @@
       "onboard_time": 1672928492,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 841770,
-      "num": 841770,
-      "word": "男子1599元万达买到海蓝之谜试用装",
-      "onboard_time": 1672977391,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 789468,
@@ -307,6 +315,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 461974,
+      "num": 461974,
+      "word": "天府可乐董事长直播带火崂山可乐",
+      "onboard_time": 1672976548,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456968,
       "num": 372444,
       "word": "赵露思神隐粉裙路透",
@@ -371,20 +387,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394786,
+      "num": 219091,
+      "word": "SEVENTEEN堂吉诃德舞台首演",
+      "onboard_time": 1672979792,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 388283,
       "num": 388283,
       "word": "这就是韩系甜妹天花板吧",
       "onboard_time": 1672939339,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 377245,
-      "num": 377245,
-      "word": "天府可乐董事长直播带火崂山可乐",
-      "onboard_time": 1672976548,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 377135,
@@ -425,6 +441,14 @@
       "onboard_time": 1672964607,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 349923,
+      "num": 247107,
+      "word": "卢海潮",
+      "onboard_time": 1672975830,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 349086,
@@ -475,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330857,
+      "num": 225505,
+      "word": "Wendy清唱Ditto",
+      "onboard_time": 1672978590,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 324884,
       "num": 324884,
       "word": "县委书记回应倡导春节不返乡",
@@ -507,14 +539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302591,
-      "num": 225505,
-      "word": "Wendy清唱Ditto",
-      "onboard_time": 1672978590,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 301454,
       "num": 223907,
       "word": "海边喊住王诠胜的人是陈韵如",
@@ -523,20 +547,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 287700,
-      "num": 179420,
-      "word": "陈乔恩 睡眠呼吸中止症",
-      "onboard_time": 1672978830,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 282270,
-      "num": 247107,
-      "word": "卢海潮",
-      "onboard_time": 1672975830,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 293190,
+      "num": 293190,
+      "word": "女生6个月减肥73斤称重塑人生",
+      "onboard_time": 1672978590,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281131,
@@ -552,6 +568,14 @@
       "word": "满江红沈腾预告",
       "onboard_time": 1672974208,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 275515,
+      "num": 193515,
+      "word": "邓超孙俪中国乒乓同框镜头",
+      "onboard_time": 1672979070,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -609,6 +633,14 @@
       "onboard_time": 1672973489,
       "rank": 43,
       "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 251240,
+      "num": 251240,
+      "word": "狗狗美容前后差距有多大",
+      "onboard_time": 1672977752,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 249165,
@@ -715,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208566,
+      "num": 208566,
+      "word": "特斯拉降价会带来什么影响",
+      "onboard_time": 1672978830,
+      "rank": 47,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 208178,
       "num": 208178,
       "word": "郎朗说吉娜会主持今年北京台春晚",
@@ -779,14 +819,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 190325,
-      "num": 190325,
-      "word": "狗狗美容前后差距有多大",
-      "onboard_time": 1672977752,
-      "rank": 38,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 185155,
       "num": 185155,
       "word": "哪本小说全网无代餐",
@@ -800,6 +832,14 @@
       "word": "男子穿婚纱扮新娘上台拥吻新郎",
       "onboard_time": 1672956312,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184050,
+      "num": 184050,
+      "word": "男生发现外婆家厨房墙酷似山水画",
+      "onboard_time": 1672976309,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -915,14 +955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 153579,
-      "num": 153579,
-      "word": "特斯拉降价会带来什么影响",
-      "onboard_time": 1672978830,
-      "rank": 47,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 152926,
       "num": 152926,
       "word": "当代年轻人是懂互联网拜年的",
@@ -939,20 +971,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 146849,
-      "num": 146849,
-      "word": "男生发现外婆家厨房墙酷似山水画",
-      "onboard_time": 1672976309,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146588,
       "num": 163450,
       "word": "丁程鑫想导侦探悬疑片",
       "onboard_time": 1672934728,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145742,
+      "num": 145742,
+      "word": "中式建筑遇上初雪有多美",
+      "onboard_time": 1672979431,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 138359,
@@ -1049,6 +1081,14 @@
       "onboard_time": 1672969587,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114199,
+      "num": 125862,
+      "word": "旗舰机过于同质化了吗",
+      "onboard_time": 1672979792,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 107606,
