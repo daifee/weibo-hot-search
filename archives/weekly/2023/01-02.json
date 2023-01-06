@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1673004808831,
+  "endTime": 1673008488103,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -345,6 +345,14 @@
       "onboard_time": 1672737570,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1748836,
+      "num": 1748836,
+      "word": "瓶子爆料",
+      "onboard_time": 1673004511,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 1742540,
@@ -1275,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 923816,
+      "num": 923816,
+      "word": "newjeans团综推广韩纸",
+      "onboard_time": 1673004032,
+      "rank": 6,
+      "category": "社会新闻,综艺"
+    },
+    {
       "raw_hot": 922368,
       "num": 922368,
       "word": "丈夫被妻子气哭1小时去娘家诉苦",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1672814250,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 907310,
+      "num": 907310,
+      "word": "郭晓婷站过车保罗",
+      "onboard_time": 1673006610,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 906246,
@@ -1617,6 +1641,14 @@
       "onboard_time": 1672726528,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 838677,
+      "num": 838677,
+      "word": "原神",
+      "onboard_time": 1673007450,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 834226,
@@ -1881,6 +1913,14 @@
       "onboard_time": 1672577972,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 752498,
+      "num": 428895,
+      "word": "刘亦菲说自己是容易紧绷的人",
+      "onboard_time": 1673007693,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 752328,
@@ -2419,14 +2459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 645144,
-      "num": 645144,
-      "word": "newjeans团综推广韩纸",
-      "onboard_time": 1673004032,
-      "rank": 6,
-      "category": "社会新闻,综艺"
-    },
-    {
       "raw_hot": 645127,
       "num": 645127,
       "word": "新冠风暴下的妇产科",
@@ -2577,6 +2609,14 @@
       "onboard_time": 1672726588,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 611205,
+      "num": 412898,
+      "word": "重庆一隧道两摩托车相撞致4死",
+      "onboard_time": 1673006610,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 610559,
@@ -4003,6 +4043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 436778,
+      "num": 298137,
+      "word": "网传大侦探第八季下周上线",
+      "onboard_time": 1673007331,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 435483,
       "num": 435483,
       "word": "云南边境毒贩抓捕现场画面",
@@ -4329,6 +4377,14 @@
       "onboard_time": 1672728687,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 406324,
+      "num": 221038,
+      "word": "哈里王子承认在阿富汗时曾杀死25人",
+      "onboard_time": 1673007693,
+      "rank": 30,
+      "category": "社会新闻,国内要闻"
     },
     {
       "raw_hot": 404865,
@@ -4956,7 +5012,7 @@
     },
     {
       "raw_hot": 364981,
-      "num": 214578,
+      "num": 216562,
       "word": "WBG微博杯总决赛",
       "onboard_time": 1673001333,
       "rank": 31,
@@ -6123,6 +6179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300088,
+      "num": 300088,
+      "word": "信阳警方回应优衣库试衣间事件",
+      "onboard_time": 1673007390,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299412,
       "num": 299412,
       "word": "放假回家行李箱躺地上被妈妈嫌弃",
@@ -6153,6 +6217,14 @@
       "onboard_time": 1672671333,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 298184,
+      "num": 298184,
+      "word": "DYG挂牌",
+      "onboard_time": 1673005530,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 297262,
@@ -6233,6 +6305,22 @@
       "onboard_time": 1672929873,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 291892,
+      "num": 291892,
+      "word": "李现谈谢之遥对许红豆初印象",
+      "onboard_time": 1673006790,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 290930,
+      "num": 290930,
+      "word": "上甘岭战役一等功臣蒋诚逝世",
+      "onboard_time": 1673003732,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 290291,
@@ -7227,6 +7315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254001,
+      "num": 217899,
+      "word": "程霄爸爸认可倪湛当男朋友",
+      "onboard_time": 1673008230,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253990,
       "num": 161009,
       "word": "红豆遥遥冰好甜",
@@ -7523,6 +7619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242012,
+      "num": 215288,
+      "word": "顾南亭承认是自己的问题",
+      "onboard_time": 1673007570,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241922,
       "num": 241922,
       "word": "原来年味是可以穿出来的",
@@ -7755,6 +7859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 232678,
+      "num": 163179,
+      "word": "浪莎发文向郎朗吉娜道歉",
+      "onboard_time": 1673008411,
+      "rank": 40,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 232660,
       "num": 232660,
       "word": "NBA现场放姆巴佩世界杯进球画面",
@@ -7809,6 +7921,14 @@
       "onboard_time": 1672671097,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231217,
+      "num": 231217,
+      "word": "无畏说九尾发色真扛造",
+      "onboard_time": 1673007511,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 230891,
@@ -7937,6 +8057,14 @@
       "onboard_time": 1672802308,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226370,
+      "num": 163029,
+      "word": "张杰是懂氛围感帅哥杨迪的",
+      "onboard_time": 1673005892,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 225346,
@@ -8388,7 +8516,7 @@
     },
     {
       "raw_hot": 209095,
-      "num": 1069331,
+      "num": 1101067,
       "word": "这不是复制粘贴这是人民陆军",
       "onboard_time": 1672997551,
       "rank": 2,
@@ -9819,14 +9947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162072,
-      "num": 186698,
-      "word": "上甘岭战役一等功臣蒋诚逝世",
-      "onboard_time": 1673003732,
-      "rank": 49,
-      "category": "军事"
-    },
-    {
       "raw_hot": 161948,
       "num": 161948,
       "word": "姐姐给11岁妹妹辅导作业4道错3道",
@@ -9953,14 +10073,6 @@
       "onboard_time": 1672800749,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158037,
-      "num": 158037,
-      "word": "瓶子爆料",
-      "onboard_time": 1673004511,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 157953,
@@ -10425,6 +10537,14 @@
       "onboard_time": 1672560509,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140876,
+      "num": 357683,
+      "word": "原神3.4全球直播",
+      "onboard_time": 1673006431,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 140791,
@@ -11297,6 +11417,14 @@
       "onboard_time": 1672842932,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113901,
+      "num": 113901,
+      "word": "原来无畏是九尾脑",
+      "onboard_time": 1673007991,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 113596,
