@@ -1,0 +1,410 @@
+{
+  "runTime": 1672976036947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1326693,
+        "num": 1326693,
+        "word": "特斯拉降价",
+        "onboard_time": 1672969406,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1052227,
+        "num": 1052227,
+        "word": "易烊千玺演的孙均有点狠",
+        "onboard_time": 1672974150,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12048,
+        "num": 1034210,
+        "word": "共话网络真善美",
+        "onboard_time": 1672920872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1028972,
+        "num": 1028972,
+        "word": "女子阳后一周锻炼晕倒摔断3颗牙",
+        "onboard_time": 1672973309,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772447,
+        "num": 772447,
+        "word": "唐山妇联回应男子疑家暴哺乳期妻子",
+        "onboard_time": 1672974150,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698341,
+        "num": 698341,
+        "word": "北京今年春节全域禁放",
+        "onboard_time": 1672972767,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632099,
+        "num": 632099,
+        "word": "东部战区回应美舰过航台湾海峡",
+        "onboard_time": 1672971927,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 517725,
+        "num": 517725,
+        "word": "苏醒人生就差那么两厘米",
+        "onboard_time": 1672972827,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506735,
+        "num": 506735,
+        "word": "宣化一中就寒假通知用词不当致歉",
+        "onboard_time": 1672971386,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 701220,
+        "num": 506243,
+        "word": "专家称新冠不是大号流感",
+        "onboard_time": 1672969467,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887747,
+        "num": 493746,
+        "word": "N号房主犯曾调查金智秀私生活",
+        "onboard_time": 1672975047,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 730716,
+        "num": 490986,
+        "word": "表兄妹结婚41年想离婚得知婚姻无效",
+        "onboard_time": 1672974568,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645452,
+        "num": 483246,
+        "word": "焉栩嘉获北电三等奖学金",
+        "onboard_time": 1672971147,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480472,
+        "num": 480472,
+        "word": "中国乒乓官宣定档大年初一",
+        "onboard_time": 1672972111,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44619,
+        "num": 471852,
+        "word": "新能源解锁轻越野",
+        "onboard_time": 1672974028,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535734,
+        "num": 470489,
+        "word": "棣欣引力",
+        "onboard_time": 1672963467,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 469075,
+        "num": 469075,
+        "word": "戴尔计划到2024年停用中国制造的芯片",
+        "onboard_time": 1672972647,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 375871,
+        "num": 375871,
+        "word": "官方回应村民家中出现大熊猫",
+        "onboard_time": 1672970726,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349585,
+        "num": 349585,
+        "word": "白血病女孩痊愈后攒10万元捐病友",
+        "onboard_time": 1672971386,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348097,
+        "num": 348097,
+        "word": "购买三套以上住房原则上不支持",
+        "onboard_time": 1672965389,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 440399,
+        "num": 343065,
+        "word": "2023春节档电影增至七部",
+        "onboard_time": 1672975047,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333902,
+        "num": 333902,
+        "word": "谢永强把谢广坤饭桌掀飞了",
+        "onboard_time": 1672972711,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333133,
+        "num": 333133,
+        "word": "优衣库遭掀帘女子男友发声",
+        "onboard_time": 1672918652,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326388,
+        "num": 326388,
+        "word": "武汉66岁太婆一天炸3000个圆子",
+        "onboard_time": 1672974387,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312194,
+        "num": 312194,
+        "word": "今年春运有两个日期将出现返程高峰",
+        "onboard_time": 1672974387,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304842,
+        "num": 304842,
+        "word": "普京下令接触线停火36小时",
+        "onboard_time": 1672968566,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 279716,
+        "num": 279716,
+        "word": "爆款现偶剧哪一部最实至名归",
+        "onboard_time": 1672970489,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278713,
+        "num": 278713,
+        "word": "如何自查是否出现白肺",
+        "onboard_time": 1672961120,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273971,
+        "num": 273971,
+        "word": "父亲将石榴埋沙里4个月等儿子",
+        "onboard_time": 1672965028,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251625,
+        "num": 251625,
+        "word": "大叔烫头后感觉年轻了一个辈分",
+        "onboard_time": 1672973489,
+        "rank": 29,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 267686,
+        "num": 249961,
+        "word": "赵露思神隐粉裙路透",
+        "onboard_time": 1672968688,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247107,
+        "num": 247107,
+        "word": "卢海潮",
+        "onboard_time": 1672975830,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239490,
+        "num": 239490,
+        "word": "这就是韩系甜妹天花板吧",
+        "onboard_time": 1672939339,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235579,
+        "num": 235579,
+        "word": "烟花到底该不该禁",
+        "onboard_time": 1672973968,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228565,
+        "num": 228565,
+        "word": "未定事件簿",
+        "onboard_time": 1672975888,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225393,
+        "num": 225393,
+        "word": "谢之遥就是李现本人吧",
+        "onboard_time": 1672972348,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225105,
+        "num": 225105,
+        "word": "湖北是唯一有省鞋的地方吧",
+        "onboard_time": 1672964007,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210321,
+        "num": 210321,
+        "word": "新娘被要求坐主厅5小时脚不能沾地",
+        "onboard_time": 1672916552,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194028,
+        "num": 194028,
+        "word": "上海一网吧春节促销参加者签生死状",
+        "onboard_time": 1672969709,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170120,
+        "num": 170120,
+        "word": "女孩和骗子沟通病情相互安慰",
+        "onboard_time": 1672967130,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208165,
+        "num": 169942,
+        "word": "满江红沈腾预告",
+        "onboard_time": 1672974208,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182104,
+        "num": 169828,
+        "word": "光明之路王一博演的角色人物介绍",
+        "onboard_time": 1672969226,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169338,
+        "num": 169338,
+        "word": "盗取并泄露他人信息要承担什么责任",
+        "onboard_time": 1672976009,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162363,
+        "num": 162363,
+        "word": "阳康前后勿剧烈运动",
+        "onboard_time": 1672975047,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158001,
+        "num": 158001,
+        "word": "兔年财神开始接活了",
+        "onboard_time": 1672975109,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152926,
+        "num": 152926,
+        "word": "当代年轻人是懂互联网拜年的",
+        "onboard_time": 1672975888,
+        "rank": 45,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 148866,
+        "num": 148866,
+        "word": "30岁女生回应与65岁男子谈恋爱",
+        "onboard_time": 1672932213,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139549,
+        "num": 139549,
+        "word": "CBA官宣第三阶段恢复主客场制",
+        "onboard_time": 1672969110,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133343,
+        "num": 133343,
+        "word": "小伙送机器人陪爷爷下象棋反被催婚",
+        "onboard_time": 1672974511,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132609,
+        "num": 132609,
+        "word": "为什么男生恋爱时会忽冷忽热",
+        "onboard_time": 1672931973,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023激发活力释放潜力#"
+    }
+  }
+}
