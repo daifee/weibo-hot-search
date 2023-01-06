@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/07 00:26:30 ~ 2023/01/07 05:15:47
+本榜单时间：2023/01/07 00:26:30 ~ 2023/01/07 05:33:34
 </p>
 </blockquote>
 <p>
@@ -485,6 +485,12 @@ WBG夺得微博杯冠军（热度：156450）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%AB%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84%23" target="weibo">
 天宫是怎样炼成的（热度：55073）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E9%B9%A4%E5%B9%B4%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23" target="weibo">
+冯鹤年被开除党籍（热度：45361）
 </a>
 </li>
 

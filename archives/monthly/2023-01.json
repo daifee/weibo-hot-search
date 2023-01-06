@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673039747305,
+  "endTime": 1673040814610,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -15345,6 +15345,14 @@
       "onboard_time": 1672747236,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 45361,
+      "num": 19363,
+      "word": "冯鹤年被开除党籍",
+      "onboard_time": 1673039772,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45287,
