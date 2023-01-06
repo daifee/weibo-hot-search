@@ -1,6 +1,6 @@
 {
   "startTime": 1673022390574,
-  "endTime": 1673040814610,
+  "endTime": 1673043455762,
   "band_list": [
     {
       "raw_hot": 2030918,
@@ -611,6 +611,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 67127,
+      "num": 21362,
+      "word": "冯鹤年被开除党籍",
+      "onboard_time": 1673039772,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66942,
       "num": 134872,
       "word": "浙江高考",
@@ -633,14 +641,6 @@
       "onboard_time": 1673015314,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 45361,
-      "num": 19363,
-      "word": "冯鹤年被开除党籍",
-      "onboard_time": 1673039772,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35419,

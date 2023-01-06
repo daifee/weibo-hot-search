@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1673040814610,
+  "endTime": 1673043455762,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -12691,6 +12691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67127,
+      "num": 21362,
+      "word": "冯鹤年被开除党籍",
+      "onboard_time": 1673039772,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66043,
       "num": 66043,
       "word": "为什么会对友情感到失望",
@@ -12809,14 +12817,6 @@
       "onboard_time": 1672747236,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 45361,
-      "num": 19363,
-      "word": "冯鹤年被开除党籍",
-      "onboard_time": 1673039772,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45053,

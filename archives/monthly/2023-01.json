@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673040814610,
+  "endTime": 1673043455762,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -15203,6 +15203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67127,
+      "num": 21362,
+      "word": "冯鹤年被开除党籍",
+      "onboard_time": 1673039772,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66805,
       "num": 672800,
       "word": "尼格买提说00后比80后更爱穿秋裤",
@@ -15345,14 +15353,6 @@
       "onboard_time": 1672747236,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 45361,
-      "num": 19363,
-      "word": "冯鹤年被开除党籍",
-      "onboard_time": 1673039772,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45287,
