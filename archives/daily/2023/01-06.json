@@ -1,6 +1,6 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1672996678680,
+  "endTime": 1672997630239,
   "band_list": [
     {
       "raw_hot": 2081074,
@@ -19,8 +19,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1827729,
-      "num": 1827729,
+      "raw_hot": 1884610,
+      "num": 1884610,
       "word": "成都回应不雅聊天男干部1月还参会",
       "onboard_time": 1672992571,
       "rank": 19,
@@ -363,6 +363,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645940,
+      "num": 645940,
+      "word": "k4",
+      "onboard_time": 1672996469,
+      "rank": 21,
+      "category": "科技,艺人"
+    },
+    {
+      "raw_hot": 636480,
+      "num": 475971,
+      "word": "增加抗原阳性作为新冠诊断标准",
+      "onboard_time": 1672995333,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632099,
       "num": 632099,
       "word": "东部战区回应美舰过航台湾海峡",
@@ -411,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568840,
+      "num": 568840,
+      "word": "爷爷让1岁孙子开车还发视频炫耀",
+      "onboard_time": 1672993351,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564590,
       "num": 564590,
       "word": "女孩和骗子沟通病情相互安慰",
@@ -419,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 559172,
-      "num": 462395,
-      "word": "增加抗原阳性作为新冠诊断标准",
-      "onboard_time": 1672995333,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 559969,
+      "num": 559969,
+      "word": "李荣浩回应张艺兴驷马难追",
+      "onboard_time": 1672994012,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 554814,
@@ -433,14 +457,6 @@
       "onboard_time": 1672990110,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 553084,
-      "num": 553084,
-      "word": "李荣浩回应张艺兴驷马难追",
-      "onboard_time": 1672994012,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 549797,
@@ -465,6 +481,14 @@
       "onboard_time": 1672992091,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 527396,
+      "num": 446051,
+      "word": "姆巴佩和忍者神龟合影",
+      "onboard_time": 1672995991,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 523820,
@@ -531,12 +555,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 493293,
-      "num": 493293,
-      "word": "爷爷让1岁孙子开车还发视频炫耀",
-      "onboard_time": 1672993351,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 494226,
+      "num": 494226,
+      "word": "国乒众将呼吁球迷专注赛场",
+      "onboard_time": 1672995932,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 489616,
@@ -747,14 +771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 368523,
-      "num": 291004,
-      "word": "k4",
-      "onboard_time": 1672996469,
-      "rank": 21,
-      "category": "科技,艺人"
-    },
-    {
       "raw_hot": 366950,
       "num": 366950,
       "word": "警方回应男子殴打疑似哺乳期女子",
@@ -771,12 +787,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365639,
+      "num": 365639,
+      "word": "辅警放下1岁儿子转身营救落水女童",
+      "onboard_time": 1672995450,
+      "rank": 26,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 361439,
       "num": 361439,
       "word": "生娃后会失去什么",
       "onboard_time": 1672934670,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 355443,
+      "num": 338605,
+      "word": "南派三叔说你们是懂出题的",
+      "onboard_time": 1672997431,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 352353,
@@ -843,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335721,
+      "num": 335721,
+      "word": "原来穿制服真的会加分",
+      "onboard_time": 1672995393,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 335156,
       "num": 335156,
       "word": "北京疫情发布会",
@@ -905,14 +945,6 @@
       "onboard_time": 1672969709,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318332,
-      "num": 318332,
-      "word": "原来穿制服真的会加分",
-      "onboard_time": 1672995393,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 315122,
@@ -993,6 +1025,14 @@
       "onboard_time": 1672959076,
       "rank": 13,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 280754,
+      "num": 177464,
+      "word": "顾南亭倪湛情敌1V1",
+      "onboard_time": 1672997312,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 279292,
@@ -1123,14 +1163,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 248921,
-      "num": 248921,
-      "word": "姆巴佩和忍者神龟合影",
-      "onboard_time": 1672995991,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 247009,
       "num": 178569,
       "word": "许红豆意识到自己被谢之遥和阿奶忽悠",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1672978830,
       "rank": 47,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 244725,
+      "num": 137691,
+      "word": "杨超越说已经不想和不懂欣赏的人玩了",
+      "onboard_time": 1672997071,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 242877,
@@ -1235,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227516,
+      "num": 156258,
+      "word": "IU入围亚洲电影大奖最佳新演员",
+      "onboard_time": 1672996231,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222639,
       "num": 222639,
       "word": "敦煌壁画3只兔子竟只有3个耳朵",
@@ -1249,22 +1297,6 @@
       "onboard_time": 1672977990,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 216215,
-      "num": 156258,
-      "word": "IU入围亚洲电影大奖最佳新演员",
-      "onboard_time": 1672996231,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 213528,
-      "num": 213528,
-      "word": "辅警放下1岁儿子转身营救落水女童",
-      "onboard_time": 1672995450,
-      "rank": 26,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 211400,
@@ -1451,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169727,
+      "num": 169727,
+      "word": "为什么火锅越热闹越好吃",
+      "onboard_time": 1672997251,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 169338,
       "num": 169338,
       "word": "盗取并泄露他人信息要承担什么责任",
@@ -1539,14 +1579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150659,
-      "num": 150659,
-      "word": "国乒众将呼吁球迷专注赛场",
-      "onboard_time": 1672995932,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146588,
       "num": 163450,
       "word": "丁程鑫想导侦探悬疑片",
@@ -1595,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137359,
+      "num": 137359,
+      "word": "订婚仪式感重要吗",
+      "onboard_time": 1672997130,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137239,
       "num": 138529,
       "word": "遭遇家暴最直接的解决办法是什么",
@@ -1641,6 +1681,14 @@
       "onboard_time": 1672971747,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130171,
+      "num": 130171,
+      "word": "小米首款车预计26万至30万元起售",
+      "onboard_time": 1672996830,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 128584,
@@ -2041,6 +2089,14 @@
       "onboard_time": 1672955232,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 14296,
+      "num": 672866,
+      "word": "这不是复制粘贴这是人民陆军",
+      "onboard_time": 1672997551,
+      "rank": 2,
+      "category": "军事"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1672996678680,
+  "endTime": 1672997630239,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1884610,
+      "num": 1884610,
+      "word": "成都回应不雅聊天男干部1月还参会",
+      "onboard_time": 1672992571,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1857213,
       "num": 1857213,
       "word": "苏醒说哥是懂站位的",
@@ -456,14 +464,6 @@
       "word": "夫妻阳康后着急备孕医生劝阻",
       "onboard_time": 1672618943,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1827729,
-      "num": 1827729,
-      "word": "成都回应不雅聊天男干部1月还参会",
-      "onboard_time": 1672992571,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2979,6 +2979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 645940,
+      "num": 645940,
+      "word": "k4",
+      "onboard_time": 1672996469,
+      "rank": 21,
+      "category": "科技,艺人"
+    },
+    {
       "raw_hot": 645276,
       "num": 645276,
       "word": "蔡依林唱玫瑰少年哭了",
@@ -3033,6 +3041,14 @@
       "onboard_time": 1672828530,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 636480,
+      "num": 475971,
+      "word": "增加抗原阳性作为新冠诊断标准",
+      "onboard_time": 1672995333,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 636114,
@@ -3499,6 +3515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 568840,
+      "num": 568840,
+      "word": "爷爷让1岁孙子开车还发视频炫耀",
+      "onboard_time": 1672993351,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 568002,
       "num": 245192,
       "word": "王栎鑫说棣棣的好友是即将要拉黑的",
@@ -3587,6 +3611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 559969,
+      "num": 559969,
+      "word": "李荣浩回应张艺兴驷马难追",
+      "onboard_time": 1672994012,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 559829,
       "num": 559829,
       "word": "王者海月新皮肤",
@@ -3601,14 +3633,6 @@
       "onboard_time": 1672632630,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 559172,
-      "num": 462395,
-      "word": "增加抗原阳性作为新冠诊断标准",
-      "onboard_time": 1672995333,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 558432,
@@ -3665,14 +3689,6 @@
       "onboard_time": 1672930355,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 553084,
-      "num": 553084,
-      "word": "李荣浩回应张艺兴驷马难追",
-      "onboard_time": 1672994012,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 549797,
@@ -3833,6 +3849,14 @@
       "onboard_time": 1672551330,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 527396,
+      "num": 446051,
+      "word": "姆巴佩和忍者神龟合影",
+      "onboard_time": 1672995991,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 526085,
@@ -4227,12 +4251,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 493293,
-      "num": 493293,
-      "word": "爷爷让1岁孙子开车还发视频炫耀",
-      "onboard_time": 1672993351,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 494226,
+      "num": 494226,
+      "word": "国乒众将呼吁球迷专注赛场",
+      "onboard_time": 1672995932,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 491224,
@@ -5811,14 +5835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 368523,
-      "num": 291004,
-      "word": "k4",
-      "onboard_time": 1672996469,
-      "rank": 21,
-      "category": "科技,艺人"
-    },
-    {
       "raw_hot": 368470,
       "num": 368470,
       "word": "现在的烟花越来越离谱了",
@@ -5889,6 +5905,14 @@
       "onboard_time": 1672721551,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365639,
+      "num": 365639,
+      "word": "辅警放下1岁儿子转身营救落水女童",
+      "onboard_time": 1672995450,
+      "rank": 26,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 364175,
@@ -6065,6 +6089,14 @@
       "onboard_time": 1672657590,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 355443,
+      "num": 338605,
+      "word": "南派三叔说你们是懂出题的",
+      "onboard_time": 1672997431,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 354774,
@@ -6451,6 +6483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335721,
+      "num": 335721,
+      "word": "原来穿制服真的会加分",
+      "onboard_time": 1672995393,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 335524,
       "num": 708682,
       "word": "2022 再也不见",
@@ -6769,14 +6809,6 @@
       "onboard_time": 1672926152,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 318332,
-      "num": 318332,
-      "word": "原来穿制服真的会加分",
-      "onboard_time": 1672995393,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 317674,
@@ -7665,6 +7697,14 @@
       "onboard_time": 1672792471,
       "rank": 23,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 280754,
+      "num": 177464,
+      "word": "顾南亭倪湛情敌1V1",
+      "onboard_time": 1672997312,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 280493,
@@ -8635,14 +8675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248921,
-      "num": 248921,
-      "word": "姆巴佩和忍者神龟合影",
-      "onboard_time": 1672995991,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248825,
       "num": 267823,
       "word": "杭州街头万人共喊新年倒计时",
@@ -8769,6 +8801,14 @@
       "onboard_time": 1672895013,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244725,
+      "num": 137691,
+      "word": "杨超越说已经不想和不懂欣赏的人玩了",
+      "onboard_time": 1672997071,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 243854,
@@ -9291,6 +9331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 227516,
+      "num": 156258,
+      "word": "IU入围亚洲电影大奖最佳新演员",
+      "onboard_time": 1672996231,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226946,
       "num": 226946,
       "word": "阳康后怎么避免二次感染",
@@ -9563,14 +9611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 216215,
-      "num": 156258,
-      "word": "IU入围亚洲电影大奖最佳新演员",
-      "onboard_time": 1672996231,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 215963,
       "num": 215963,
       "word": "起底风情不摇晃出版商",
@@ -9633,14 +9673,6 @@
       "onboard_time": 1672751732,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 213528,
-      "num": 213528,
-      "word": "辅警放下1岁儿子转身营救落水女童",
-      "onboard_time": 1672995450,
-      "rank": 26,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 212898,
@@ -11283,6 +11315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169727,
+      "num": 169727,
+      "word": "为什么火锅越热闹越好吃",
+      "onboard_time": 1672997251,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 169550,
       "num": 146380,
       "word": "名侦探学院宝物风云盲凶案",
@@ -11987,14 +12027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150659,
-      "num": 150659,
-      "word": "国乒众将呼吁球迷专注赛场",
-      "onboard_time": 1672995932,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150142,
       "num": 981917,
       "word": "新年头像",
@@ -12451,6 +12483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137359,
+      "num": 137359,
+      "word": "订婚仪式感重要吗",
+      "onboard_time": 1672997130,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137330,
       "num": 137330,
       "word": "被一只狗鄙视了",
@@ -12665,6 +12705,14 @@
       "onboard_time": 1672971747,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130171,
+      "num": 130171,
+      "word": "小米首款车预计26万至30万元起售",
+      "onboard_time": 1672996830,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 129826,
@@ -14489,6 +14537,14 @@
       "onboard_time": 1672570832,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14296,
+      "num": 672866,
+      "word": "这不是复制粘贴这是人民陆军",
+      "onboard_time": 1672997551,
+      "rank": 2,
+      "category": "军事"
     },
     {
       "raw_hot": 10791,
