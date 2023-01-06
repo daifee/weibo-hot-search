@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1673022390574,
+  "endTime": 1673023440863,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -1739,6 +1739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 845249,
+      "num": 845249,
+      "word": "暧昧期过长的原因是什么",
+      "onboard_time": 1673020290,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 843389,
       "num": 843389,
       "word": "万柳书院开发商已成被执行人",
@@ -2145,14 +2153,6 @@
       "onboard_time": 1672723889,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 731598,
-      "num": 731598,
-      "word": "暧昧期过长的原因是什么",
-      "onboard_time": 1673020290,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 729821,
@@ -9499,6 +9499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184451,
+      "num": 125425,
+      "word": "杨迪是我的过年脸替",
+      "onboard_time": 1673023224,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184445,
       "num": 184445,
       "word": "欧文单手补扣",
@@ -11051,6 +11059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138731,
+      "num": 141132,
+      "word": "这只狗有种清新脱俗的感觉",
+      "onboard_time": 1673020470,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138579,
       "num": 138579,
       "word": "狗子知道你这样背后说它吗",
@@ -11121,6 +11137,14 @@
       "onboard_time": 1672992871,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137007,
+      "num": 94943,
+      "word": "张天爱和刘恋对视哭了",
+      "onboard_time": 1673023344,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 136702,
@@ -11769,14 +11793,6 @@
       "onboard_time": 1672630409,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 115943,
-      "num": 141132,
-      "word": "这只狗有种清新脱俗的感觉",
-      "onboard_time": 1673020470,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 115888,
