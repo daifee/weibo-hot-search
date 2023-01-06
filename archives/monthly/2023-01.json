@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673025436538,
+  "endTime": 1673026417380,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -12523,6 +12523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159195,
+      "num": 114483,
+      "word": "再就业男团是共享鞋柜了吗",
+      "onboard_time": 1673024782,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158999,
       "num": 158999,
       "word": "短期内大规模流行XBB变异株的可能性极低",
@@ -12593,6 +12601,14 @@
       "onboard_time": 1672895912,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154809,
+      "num": 113571,
+      "word": "许红豆坐车车费7000",
+      "onboard_time": 1673025380,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 154310,
@@ -13105,14 +13121,6 @@
       "onboard_time": 1672834290,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142148,
-      "num": 96812,
-      "word": "再就业男团是共享鞋柜了吗",
-      "onboard_time": 1673024782,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 141970,
@@ -14267,14 +14275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 108899,
-      "num": 69312,
-      "word": "许红豆坐车车费7000",
-      "onboard_time": 1673025380,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 108710,
       "num": 108710,
       "word": "8岁妹妹给姐姐看记仇日记",
@@ -14297,6 +14297,14 @@
       "onboard_time": 1672488881,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108442,
+      "num": 73128,
+      "word": "阿杜说周深把Andy唱出三个故事",
+      "onboard_time": 1673024841,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 108367,
@@ -15163,6 +15171,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 53555,
+      "num": 72079,
+      "word": "儿童面条真的适合孩子吃吗",
+      "onboard_time": 1673024602,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 51818,
       "num": 127308,
       "word": "这个蛋糕有点丑",
@@ -15417,6 +15433,14 @@
       "onboard_time": 1672601652,
       "rank": 24,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 27440,
+      "num": 76639,
+      "word": "故城黎明的回响",
+      "onboard_time": 1673026219,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 25772,
