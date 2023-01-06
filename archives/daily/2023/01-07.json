@@ -1,6 +1,6 @@
 {
   "startTime": 1673022390574,
-  "endTime": 1673044441305,
+  "endTime": 1673047035635,
   "band_list": [
     {
       "raw_hot": 2030918,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156725,
+      "num": 156725,
+      "word": "刘亦菲说三个词不够夸谢之遥",
+      "onboard_time": 1673032572,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156450,
       "num": 156450,
       "word": "WBG夺得微博杯冠军",
@@ -321,6 +329,14 @@
       "onboard_time": 1673032393,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145714,
+      "num": 145714,
+      "word": "冯鹤年被开除党籍",
+      "onboard_time": 1673039772,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143826,
@@ -379,16 +395,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135923,
-      "num": 83779,
-      "word": "刘亦菲说三个词不够夸谢之遥",
-      "onboard_time": 1673032572,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 130386,
-      "num": 134492,
+      "num": 158529,
       "word": "新冠恢复期失眠怎么办",
       "onboard_time": 1673028376,
       "rank": 29,
@@ -499,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116304,
+      "num": 48085,
+      "word": "沙溢重现英子开门爹地名场面",
+      "onboard_time": 1673046377,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112664,
       "num": 140798,
       "word": "瓶子爆料",
@@ -539,6 +555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96070,
+      "num": 48045,
+      "word": "张伯礼院士分享两个止咳小偏方",
+      "onboard_time": 1673044994,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90198,
       "num": 138583,
       "word": "教资面试",
@@ -553,14 +577,6 @@
       "onboard_time": 1673018072,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79163,
-      "num": 77673,
-      "word": "冯鹤年被开除党籍",
-      "onboard_time": 1673039772,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78492,
@@ -635,12 +651,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64628,
+      "num": 64628,
+      "word": "男子心疼妻子生娃产房外哭到抽泣",
+      "onboard_time": 1673045836,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55073,
       "num": 1109723,
       "word": "天宫是怎样炼成的",
       "onboard_time": 1673015314,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 50806,
+      "num": 36248,
+      "word": "顾南亭没嘴但有手",
+      "onboard_time": 1673045113,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 49099,
+      "num": 49099,
+      "word": "红袜子是本命年全国统一标配吗",
+      "onboard_time": 1673046617,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 48445,
+      "num": 48445,
+      "word": "主人阳性休息狗子帮忙看店卖货",
+      "onboard_time": 1673045955,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35419,
