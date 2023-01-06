@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1672997630239,
+  "endTime": 1673000397728,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -385,6 +385,14 @@
       "onboard_time": 1672835914,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1657249,
+      "num": 1657249,
+      "word": "k4",
+      "onboard_time": 1672996469,
+      "rank": 21,
+      "category": "科技,艺人"
     },
     {
       "raw_hot": 1624302,
@@ -1075,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1014824,
+      "num": 1014824,
+      "word": "原来穿制服真的会加分",
+      "onboard_time": 1672995393,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1014752,
       "num": 1014752,
       "word": "欧盟建议各国要求自中国入境者提供核酸",
@@ -1579,6 +1595,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 832217,
+      "num": 459787,
+      "word": "维亚利去世",
+      "onboard_time": 1672999231,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 831879,
       "num": 831879,
       "word": "女子围炉煮茶3小时一氧化碳中毒",
@@ -1721,6 +1745,14 @@
       "onboard_time": 1672896632,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 780797,
+      "num": 780797,
+      "word": "李文喜被判死缓",
+      "onboard_time": 1672998752,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 775169,
@@ -2171,6 +2203,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 679002,
+      "num": 679002,
+      "word": "增加抗原阳性作为新冠诊断标准",
+      "onboard_time": 1672995333,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677031,
       "num": 677031,
       "word": "远方传来风笛",
@@ -2201,6 +2241,14 @@
       "onboard_time": 1672800928,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663409,
+      "num": 663409,
+      "word": "国乒众将呼吁球迷专注赛场",
+      "onboard_time": 1672995932,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 663026,
@@ -2307,6 +2355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 649574,
+      "num": 649574,
+      "word": "姆巴佩和忍者神龟合影",
+      "onboard_time": 1672995991,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 646944,
       "num": 620724,
       "word": "肖战2022年度中国名人榜登顶",
@@ -2323,12 +2379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 645940,
-      "num": 645940,
-      "word": "k4",
-      "onboard_time": 1672996469,
-      "rank": 21,
-      "category": "科技,艺人"
+      "raw_hot": 645943,
+      "num": 441029,
+      "word": "刘亦菲晒海边吹风随拍",
+      "onboard_time": 1672998449,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 645276,
@@ -2393,14 +2449,6 @@
       "onboard_time": 1672828530,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 636480,
-      "num": 475971,
-      "word": "增加抗原阳性作为新冠诊断标准",
-      "onboard_time": 1672995333,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 634000,
@@ -2963,6 +3011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 542997,
+      "num": 401695,
+      "word": "南派三叔说你们是懂出题的",
+      "onboard_time": 1672997431,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 541701,
       "num": 511448,
       "word": "74岁老人网购上瘾假金链子成堆买",
@@ -3065,14 +3121,6 @@
       "onboard_time": 1672925730,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 527396,
-      "num": 446051,
-      "word": "姆巴佩和忍者神龟合影",
-      "onboard_time": 1672995991,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 526085,
@@ -3395,14 +3443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 494226,
-      "num": 494226,
-      "word": "国乒众将呼吁球迷专注赛场",
-      "onboard_time": 1672995932,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 489616,
       "num": 489616,
       "word": "浙江58.87万学生将迎来高考首战",
@@ -3505,6 +3545,14 @@
       "onboard_time": 1672828231,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 479723,
+      "num": 479723,
+      "word": "小米首款车预计26万至30万元起售",
+      "onboard_time": 1672996830,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 479653,
@@ -4475,6 +4523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 382919,
+      "num": 382919,
+      "word": "杨超越说已经不想和不懂欣赏的人玩了",
+      "onboard_time": 1672997071,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 382766,
       "num": 382766,
       "word": "00后女儿陪父母看甄嬛传找穿帮镜头",
@@ -4939,14 +4995,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 355443,
-      "num": 338605,
-      "word": "南派三叔说你们是懂出题的",
-      "onboard_time": 1672997431,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 354774,
       "num": 354774,
       "word": "凯迪拉克车身贴AED抢救标志",
@@ -5041,6 +5089,14 @@
       "onboard_time": 1672799785,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349129,
+      "num": 349129,
+      "word": "管泽元解说全球总决赛",
+      "onboard_time": 1672999350,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 349086,
@@ -5283,14 +5339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335721,
-      "num": 335721,
-      "word": "原来穿制服真的会加分",
-      "onboard_time": 1672995393,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 335156,
       "num": 335156,
       "word": "北京疫情发布会",
@@ -5361,6 +5409,14 @@
       "onboard_time": 1672585351,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331606,
+      "num": 320964,
+      "word": "原来艺人也和我一样想放假",
+      "onboard_time": 1672999651,
+      "rank": 21,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 331523,
@@ -7075,6 +7131,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 253415,
+      "num": 192961,
+      "word": "好心疼倪湛",
+      "onboard_time": 1672999472,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252696,
       "num": 252696,
       "word": "齐司礼",
@@ -7273,14 +7337,6 @@
       "onboard_time": 1672895013,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 244725,
-      "num": 137691,
-      "word": "杨超越说已经不想和不懂欣赏的人玩了",
-      "onboard_time": 1672997071,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 243573,
@@ -7515,6 +7571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233728,
+      "num": 185736,
+      "word": "去有风的地方中的人情世故",
+      "onboard_time": 1673000249,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233458,
       "num": 237252,
       "word": "LNG战胜iGY",
@@ -7673,6 +7737,14 @@
       "onboard_time": 1672903410,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228008,
+      "num": 183480,
+      "word": "顾南亭护霄狂魔",
+      "onboard_time": 1672999111,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 227905,
@@ -8155,6 +8227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209095,
+      "num": 810508,
+      "word": "这不是复制粘贴这是人民陆军",
+      "onboard_time": 1672997551,
+      "rank": 2,
+      "category": "军事"
+    },
+    {
       "raw_hot": 208906,
       "num": 208906,
       "word": "就没有柯佳嬿接不住的梗吧",
@@ -8201,6 +8281,14 @@
       "onboard_time": 1672672712,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206887,
+      "num": 206887,
+      "word": "有没有人能管管电视这个事",
+      "onboard_time": 1672999171,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 206769,
@@ -10523,14 +10611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130171,
-      "num": 130171,
-      "word": "小米首款车预计26万至30万元起售",
-      "onboard_time": 1672996830,
-      "rank": 47,
-      "category": "科技"
-    },
-    {
       "raw_hot": 129826,
       "num": 129826,
       "word": "没有人能空着手走出青岛大集",
@@ -10787,6 +10867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120851,
+      "num": 120851,
+      "word": "Hero一笙挂牌",
+      "onboard_time": 1673000132,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120617,
       "num": 120617,
       "word": "篮网vs公牛",
@@ -10849,6 +10937,14 @@
       "onboard_time": 1672654831,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119787,
+      "num": 119787,
+      "word": "肩背不舒服的人一定要看看",
+      "onboard_time": 1672997971,
+      "rank": 43,
+      "category": "其它"
     },
     {
       "raw_hot": 119614,
@@ -11043,6 +11139,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 111099,
+      "num": 111099,
+      "word": "大学生假期挨骂现状",
+      "onboard_time": 1673000310,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110740,
       "num": 110740,
       "word": "胡说八道文学的快乐",
@@ -11115,6 +11219,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 105765,
+      "num": 105765,
+      "word": "在母爱和护食之间挣扎",
+      "onboard_time": 1672999709,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105744,
       "num": 105744,
       "word": "2023春运时刻",
@@ -11176,6 +11288,14 @@
       "word": "女子陪服兵役朋友爷爷奶奶包饺子",
       "onboard_time": 1672937241,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102457,
+      "num": 102457,
+      "word": "最新版新冠诊疗方案",
+      "onboard_time": 1672998031,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -11905,14 +12025,6 @@
       "onboard_time": 1672955232,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 14296,
-      "num": 672866,
-      "word": "这不是复制粘贴这是人民陆军",
-      "onboard_time": 1672997551,
-      "rank": 2,
-      "category": "军事"
     },
     {
       "raw_hot": 10791,
