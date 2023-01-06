@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673003757159,
+  "endTime": 1673004808831,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -692,7 +692,7 @@
     },
     {
       "raw_hot": 1542830,
-      "num": 531792,
+      "num": 539150,
       "word": "王鹤棣时宴的车被交警拖走了",
       "onboard_time": 1672987469,
       "rank": 10,
@@ -2459,6 +2459,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 752328,
+      "num": 752328,
+      "word": "浙江高考",
+      "onboard_time": 1673002350,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 752303,
       "num": 752303,
       "word": "杨迪这辈子的尴尬都给再见爱人了",
@@ -3067,6 +3075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 645144,
+      "num": 645144,
+      "word": "newjeans团综推广韩纸",
+      "onboard_time": 1673004032,
+      "rank": 6,
+      "category": "社会新闻,综艺"
+    },
+    {
       "raw_hot": 645127,
       "num": 645127,
       "word": "新冠风暴下的妇产科",
@@ -3137,6 +3153,14 @@
       "onboard_time": 1672541192,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 632363,
+      "num": 632363,
+      "word": "有没有人能管管电视这个事",
+      "onboard_time": 1672999171,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 632099,
@@ -3579,6 +3603,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 569502,
+      "num": 569502,
+      "word": "程霄说故意躲着就是不够喜欢",
+      "onboard_time": 1673002411,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 569408,
       "num": 569408,
       "word": "梁洁晒曾舜晞送的新外套",
@@ -3625,14 +3657,6 @@
       "onboard_time": 1672577793,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 565491,
-      "num": 565491,
-      "word": "浙江高考",
-      "onboard_time": 1673002350,
-      "rank": 7,
-      "category": "教育"
     },
     {
       "raw_hot": 564684,
@@ -3859,14 +3883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 540916,
-      "num": 540916,
-      "word": "有没有人能管管电视这个事",
-      "onboard_time": 1672999171,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 539249,
       "num": 488029,
       "word": "苏醒理直气壮给粉丝画饼",
@@ -3905,6 +3921,14 @@
       "onboard_time": 1672905508,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536859,
+      "num": 536859,
+      "word": "壹心娱乐官宣虚拟人天妤加入",
+      "onboard_time": 1673003252,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 536268,
@@ -3977,6 +4001,14 @@
       "onboard_time": 1672840773,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 524174,
+      "num": 524174,
+      "word": "杨紫余生请多指教日本宣传VCR",
+      "onboard_time": 1673003970,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 524049,
@@ -4361,14 +4393,6 @@
       "onboard_time": 1672553192,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 490698,
-      "num": 490698,
-      "word": "程霄说故意躲着就是不够喜欢",
-      "onboard_time": 1673002411,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 489616,
@@ -5779,6 +5803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 377035,
+      "num": 186597,
+      "word": "吴俊霆直播",
+      "onboard_time": 1673004451,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376824,
       "num": 714132,
       "word": "红包",
@@ -6203,6 +6235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 356899,
+      "num": 356899,
+      "word": "全球每5双运动鞋有1双来自晋江",
+      "onboard_time": 1673002773,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356553,
       "num": 356553,
       "word": "哥哥太爱我了怎么办cp成真",
@@ -6331,14 +6371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 350094,
-      "num": 300266,
-      "word": "壹心娱乐官宣虚拟人天妤加入",
-      "onboard_time": 1673003252,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 349923,
       "num": 247107,
       "word": "卢海潮",
@@ -6464,6 +6496,14 @@
       "word": "我可能遇到了救星大结局你满意吗",
       "onboard_time": 1672915711,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 344183,
+      "num": 214517,
+      "word": "去有风的地方全员合体直播",
+      "onboard_time": 1673003311,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -6993,14 +7033,6 @@
       "onboard_time": 1672835611,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315935,
-      "num": 214517,
-      "word": "去有风的地方全员合体直播",
-      "onboard_time": 1673003311,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 315914,
@@ -8683,6 +8715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253990,
+      "num": 161009,
+      "word": "红豆遥遥冰好甜",
+      "onboard_time": 1673004571,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253722,
       "num": 704751,
       "word": "小伙坐地铁手机掉进女乘客手提袋",
@@ -9355,6 +9395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232153,
+      "num": 232153,
+      "word": "大学生假期挨骂现状",
+      "onboard_time": 1673000310,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231979,
       "num": 218546,
       "word": "纵有疾风起",
@@ -9489,14 +9537,6 @@
       "onboard_time": 1672728088,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 227520,
-      "num": 227520,
-      "word": "全球每5双运动鞋有1双来自晋江",
-      "onboard_time": 1673002773,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227516,
@@ -10137,14 +10177,6 @@
       "onboard_time": 1672506811,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205264,
-      "num": 205264,
-      "word": "大学生假期挨骂现状",
-      "onboard_time": 1673000310,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 205168,
@@ -11819,6 +11851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162072,
+      "num": 186698,
+      "word": "上甘岭战役一等功臣蒋诚逝世",
+      "onboard_time": 1673003732,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 161948,
       "num": 161948,
       "word": "姐姐给11岁妹妹辅导作业4道错3道",
@@ -11969,6 +12009,14 @@
       "onboard_time": 1672552531,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158037,
+      "num": 158037,
+      "word": "瓶子爆料",
+      "onboard_time": 1673004511,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 157953,
@@ -13275,6 +13323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119984,
+      "num": 187528,
+      "word": "原来狗狗也喜欢拍照",
+      "onboard_time": 1673002112,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119976,
       "num": 119976,
       "word": "科学家实现凭空生产氢气",
@@ -13351,14 +13407,6 @@
       "num": 117369,
       "word": "在母爱和护食之间挣扎",
       "onboard_time": 1672999709,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 117344,
-      "num": 187528,
-      "word": "原来狗狗也喜欢拍照",
-      "onboard_time": 1673002112,
       "rank": 48,
       "category": "幽默"
     },
@@ -14017,14 +14065,6 @@
       "onboard_time": 1672564649,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95228,
-      "num": 186698,
-      "word": "上甘岭战役一等功臣蒋诚逝世",
-      "onboard_time": 1673003732,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 94359,

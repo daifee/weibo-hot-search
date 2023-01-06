@@ -1,6 +1,6 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1673003757159,
+  "endTime": 1673004808831,
   "band_list": [
     {
       "raw_hot": 2081074,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1542830,
-      "num": 531792,
+      "num": 539150,
       "word": "王鹤棣时宴的车被交警拖走了",
       "onboard_time": 1672987469,
       "rank": 10,
@@ -323,6 +323,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 752328,
+      "num": 752328,
+      "word": "浙江高考",
+      "onboard_time": 1673002350,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 750042,
       "num": 750042,
       "word": "王雪峰被查",
@@ -443,6 +451,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 645144,
+      "num": 645144,
+      "word": "newjeans团综推广韩纸",
+      "onboard_time": 1673004032,
+      "rank": 6,
+      "category": "社会新闻,综艺"
+    },
+    {
+      "raw_hot": 632363,
+      "num": 632363,
+      "word": "有没有人能管管电视这个事",
+      "onboard_time": 1672999171,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 632099,
       "num": 632099,
       "word": "东部战区回应美舰过航台湾海峡",
@@ -499,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569502,
+      "num": 569502,
+      "word": "程霄说故意躲着就是不够喜欢",
+      "onboard_time": 1673002411,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 569260,
       "num": 462556,
       "word": "南派三叔说你们是懂出题的",
@@ -513,14 +545,6 @@
       "onboard_time": 1672993351,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 565491,
-      "num": 565491,
-      "word": "浙江高考",
-      "onboard_time": 1673002350,
-      "rank": 7,
-      "category": "教育"
     },
     {
       "raw_hot": 564590,
@@ -563,12 +587,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 540916,
-      "num": 540916,
-      "word": "有没有人能管管电视这个事",
-      "onboard_time": 1672999171,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 536859,
+      "num": 536859,
+      "word": "壹心娱乐官宣虚拟人天妤加入",
+      "onboard_time": 1673003252,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 536071,
@@ -584,6 +608,14 @@
       "word": "王一博无名明朝发预告",
       "onboard_time": 1673003071,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 524174,
+      "num": 524174,
+      "word": "杨紫余生请多指教日本宣传VCR",
+      "onboard_time": 1673003970,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -657,14 +689,6 @@
       "onboard_time": 1672931973,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 490698,
-      "num": 490698,
-      "word": "程霄说故意躲着就是不够喜欢",
-      "onboard_time": 1673002411,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 489616,
@@ -899,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377035,
+      "num": 186597,
+      "word": "吴俊霆直播",
+      "onboard_time": 1673004451,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370348,
       "num": 309280,
       "word": "刘亦菲吴彦姝董晴洱海边拍大片花絮",
@@ -947,6 +979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 356899,
+      "num": 356899,
+      "word": "全球每5双运动鞋有1双来自晋江",
+      "onboard_time": 1673002773,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352353,
       "num": 340450,
       "word": "偶像练习生制作方等被执行4044万",
@@ -961,14 +1001,6 @@
       "onboard_time": 1672964607,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 350094,
-      "num": 300266,
-      "word": "壹心娱乐官宣虚拟人天妤加入",
-      "onboard_time": 1673003252,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 349923,
@@ -993,6 +1025,14 @@
       "onboard_time": 1672950431,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344183,
+      "num": 214517,
+      "word": "去有风的地方全员合体直播",
+      "onboard_time": 1673003311,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 340862,
@@ -1089,14 +1129,6 @@
       "onboard_time": 1672969709,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315935,
-      "num": 214517,
-      "word": "去有风的地方全员合体直播",
-      "onboard_time": 1673003311,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 315122,
@@ -1283,6 +1315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 253990,
+      "num": 161009,
+      "word": "红豆遥遥冰好甜",
+      "onboard_time": 1673004571,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253415,
       "num": 200045,
       "word": "好心疼倪湛",
@@ -1419,6 +1459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232153,
+      "num": 232153,
+      "word": "大学生假期挨骂现状",
+      "onboard_time": 1673000310,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231538,
       "num": 231538,
       "word": "竟然被一只乌龟可爱到了",
@@ -1449,14 +1497,6 @@
       "onboard_time": 1672999111,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227520,
-      "num": 227520,
-      "word": "全球每5双运动鞋有1双来自晋江",
-      "onboard_time": 1673002773,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227516,
@@ -1537,14 +1577,6 @@
       "onboard_time": 1672933710,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205264,
-      "num": 205264,
-      "word": "大学生假期挨骂现状",
-      "onboard_time": 1673000310,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 202976,
@@ -1779,6 +1811,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162072,
+      "num": 186698,
+      "word": "上甘岭战役一等功臣蒋诚逝世",
+      "onboard_time": 1673003732,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 158037,
+      "num": 158037,
+      "word": "瓶子爆料",
+      "onboard_time": 1673004511,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153671,
       "num": 163460,
       "word": "贺峻霖微电影有特效",
@@ -1995,6 +2043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119984,
+      "num": 187528,
+      "word": "原来狗狗也喜欢拍照",
+      "onboard_time": 1673002112,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119976,
       "num": 119976,
       "word": "科学家实现凭空生产氢气",
@@ -2015,14 +2071,6 @@
       "num": 117369,
       "word": "在母爱和护食之间挣扎",
       "onboard_time": 1672999709,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 117344,
-      "num": 187528,
-      "word": "原来狗狗也喜欢拍照",
-      "onboard_time": 1673002112,
       "rank": 48,
       "category": "幽默"
     },
@@ -2145,14 +2193,6 @@
       "onboard_time": 1672965869,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95228,
-      "num": 186698,
-      "word": "上甘岭战役一等功臣蒋诚逝世",
-      "onboard_time": 1673003732,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 94438,

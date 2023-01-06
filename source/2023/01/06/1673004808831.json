@@ -1,0 +1,410 @@
+{
+  "runTime": 1673004808831,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1603559,
+        "num": 1603559,
+        "word": "迪丽热巴为邓超新电影打call",
+        "onboard_time": 1673001033,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1092469,
+        "num": 1092469,
+        "word": "九尾红发",
+        "onboard_time": 1673001392,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171965,
+        "num": 809204,
+        "word": "这不是复制粘贴这是人民陆军",
+        "onboard_time": 1672997551,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 798097,
+        "num": 798097,
+        "word": "维亚利去世",
+        "onboard_time": 1672999231,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 788390,
+        "num": 788390,
+        "word": "李文喜被判死缓",
+        "onboard_time": 1672998752,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752328,
+        "num": 752328,
+        "word": "浙江高考",
+        "onboard_time": 1673002350,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 645144,
+        "num": 645144,
+        "word": "newjeans团综推广韩纸",
+        "onboard_time": 1673004032,
+        "rank": 6,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 632363,
+        "num": 632363,
+        "word": "有没有人能管管电视这个事",
+        "onboard_time": 1672999171,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 569502,
+        "num": 569502,
+        "word": "程霄说故意躲着就是不够喜欢",
+        "onboard_time": 1673002411,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 540785,
+        "num": 540785,
+        "word": "原来穿制服真的会加分",
+        "onboard_time": 1672995393,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 625014,
+        "num": 539150,
+        "word": "王鹤棣时宴的车被交警拖走了",
+        "onboard_time": 1672987469,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 536859,
+        "num": 536859,
+        "word": "壹心娱乐官宣虚拟人天妤加入",
+        "onboard_time": 1673003252,
+        "rank": 11,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 524174,
+        "num": 524174,
+        "word": "杨紫余生请多指教日本宣传VCR",
+        "onboard_time": 1673003970,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 476544,
+        "num": 476544,
+        "word": "男孩无意摔碎千元盘子父亲赔偿后说值了",
+        "onboard_time": 1672983210,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360978,
+        "num": 360978,
+        "word": "微博杯",
+        "onboard_time": 1673000493,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 359747,
+        "num": 359747,
+        "word": "增加抗原阳性作为新冠诊断标准",
+        "onboard_time": 1672995333,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356899,
+        "num": 356899,
+        "word": "全球每5双运动鞋有1双来自晋江",
+        "onboard_time": 1673002773,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323836,
+        "num": 323836,
+        "word": "姆巴佩和忍者神龟合影",
+        "onboard_time": 1672995991,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322689,
+        "num": 322689,
+        "word": "快送狗子出国留学吧",
+        "onboard_time": 1673001631,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282114,
+        "num": 282114,
+        "word": "小米首款车预计26万至30万元起售",
+        "onboard_time": 1672996830,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 425311,
+        "num": 277741,
+        "word": "楷灿因健康欠佳暂停活动",
+        "onboard_time": 1673002350,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407857,
+        "num": 275372,
+        "word": "k4",
+        "onboard_time": 1672996469,
+        "rank": 21,
+        "category": "音乐,科技"
+      },
+      {
+        "raw_hot": 396298,
+        "num": 273959,
+        "word": "王一博无名明朝发预告",
+        "onboard_time": 1673003071,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267739,
+        "num": 267739,
+        "word": "多国要求日本将核污水倒在东京",
+        "onboard_time": 1672989569,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 264866,
+        "num": 264866,
+        "word": "孩子误将摔炮当成糖果放嘴里咬",
+        "onboard_time": 1672988128,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232153,
+        "num": 232153,
+        "word": "大学生假期挨骂现状",
+        "onboard_time": 1673000310,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231104,
+        "num": 231104,
+        "word": "重庆共青团质疑抖音评论审核规则",
+        "onboard_time": 1672989029,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202487,
+        "num": 202487,
+        "word": "教资面试",
+        "onboard_time": 1673001813,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193963,
+        "num": 193963,
+        "word": "管泽元解说全球总决赛",
+        "onboard_time": 1672999350,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188969,
+        "num": 188969,
+        "word": "辅警放下1岁儿子转身营救落水女童",
+        "onboard_time": 1672995450,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 365795,
+        "num": 188929,
+        "word": "刘亦菲晒海边吹风随拍",
+        "onboard_time": 1672998449,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377035,
+        "num": 186597,
+        "word": "吴俊霆直播",
+        "onboard_time": 1673004451,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344183,
+        "num": 185929,
+        "word": "去有风的地方全员合体直播",
+        "onboard_time": 1673003311,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298817,
+        "num": 184522,
+        "word": "南派三叔说你们是懂出题的",
+        "onboard_time": 1672997431,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257186,
+        "num": 183731,
+        "word": "WBG微博杯总决赛",
+        "onboard_time": 1673001333,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183023,
+        "num": 183023,
+        "word": "WBG对战BLG",
+        "onboard_time": 1673001753,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174393,
+        "num": 174393,
+        "word": "王雪峰被查",
+        "onboard_time": 1672992031,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174217,
+        "num": 174217,
+        "word": "国乒众将呼吁球迷专注赛场",
+        "onboard_time": 1672995932,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170692,
+        "num": 170692,
+        "word": "爷爷让1岁孙子开车还发视频炫耀",
+        "onboard_time": 1672993351,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162072,
+        "num": 162072,
+        "word": "上甘岭战役一等功臣蒋诚逝世",
+        "onboard_time": 1673003732,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 253990,
+        "num": 161009,
+        "word": "红豆遥遥冰好甜",
+        "onboard_time": 1673004571,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252507,
+        "num": 160994,
+        "word": "无名",
+        "onboard_time": 1673002650,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159868,
+        "num": 159868,
+        "word": "北京疫情发布会",
+        "onboard_time": 1672993951,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158037,
+        "num": 158037,
+        "word": "瓶子爆料",
+        "onboard_time": 1673004511,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153511,
+        "num": 153511,
+        "word": "青岛胶东机场机务人员被碾死调查结果",
+        "onboard_time": 1672988012,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 141991,
+        "num": 141991,
+        "word": "Hero一笙挂牌",
+        "onboard_time": 1673000132,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127727,
+        "num": 127727,
+        "word": "发年终奖的都是什么公司",
+        "onboard_time": 1672981950,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125202,
+        "num": 125202,
+        "word": "医生收红包转手充进患者账户",
+        "onboard_time": 1672992149,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 119984,
+        "num": 125110,
+        "word": "原来狗狗也喜欢拍照",
+        "onboard_time": 1673002112,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108548,
+        "num": 125057,
+        "word": "隔玻璃亲吻的印痕女护士有宝宝了",
+        "onboard_time": 1672985669,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同心奋进新征程#"
+    }
+  }
+}
