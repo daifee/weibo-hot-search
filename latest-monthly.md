@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/07 00:44:00
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/07 01:17:16
 </p>
 </blockquote>
 <p>
@@ -5487,6 +5487,12 @@ LGD江城挂牌（热度：322614）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A9%E7%88%B1%E5%92%8C%E5%88%98%E6%81%8B%E5%AF%B9%E8%A7%86%E5%93%AD%E4%BA%86%23" target="weibo">
+张天爱和刘恋对视哭了（热度：320769）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E8%B7%B3%E4%BA%86%E4%B8%80%E6%95%B4%E9%A6%96%23" target="weibo">
 苏有朋跳了一整首（热度：320689）
 </a>
@@ -6005,12 +6011,6 @@ aespaRedVelvet合作曲舞台（热度：296967）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23NewJeans%E6%96%B0%E6%AD%8COMG%E8%88%9E%E8%B9%88%E7%89%88%23" target="weibo">
 NewJeans新歌OMG舞蹈版（热度：290291）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%96%9C%E6%AC%A2%E7%9A%84%E4%BA%BA%E8%B7%A8%E5%B9%B4%E6%98%AF%E5%95%A5%E4%BD%93%E9%AA%8C%23" target="weibo">
-和喜欢的人跨年是啥体验（热度：289989）
 </a>
 </li>
 
