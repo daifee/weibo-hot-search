@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/06 18:19:57
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/06 18:35:34
 </p>
 </blockquote>
 <p>
@@ -454,7 +454,7 @@ NASA局长称别让中国打着科研幌子登月（热度：1734698）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23k4%23" target="weibo">
-k4（热度：1657249）
+k4（热度：1673744）
 </a>
 </li>
 
@@ -713,6 +713,12 @@ YG确认金智秀今年将发行solo专辑（热度：1379525）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%97%E8%8B%97%E8%B0%88%E5%88%BB%E6%84%8F%E4%B8%8D%E7%90%86%E9%83%91%E6%81%BA%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 苗苗谈刻意不理郑恺的原因（热度：1365613）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B4%E4%BA%9A%E5%88%A9%E5%8E%BB%E4%B8%96%23" target="weibo">
+维亚利去世（热度：1362289）
 </a>
 </li>
 
@@ -1077,6 +1083,12 @@ N号房主犯曾调查金智秀私生活（热度：1059069）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%87%E5%96%9C%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23" target="weibo">
+李文喜被判死缓（热度：1046661）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23NINEPERCENT%E7%B2%89%E4%B8%9D%E5%BA%94%E6%8F%B4%E6%9B%B2%E6%88%91%E7%9A%84%E5%B0%91%E5%B9%B4%23" target="weibo">
 NINEPERCENT粉丝应援曲我的少年（热度：1044208）
 </a>
@@ -1217,6 +1229,12 @@ XBB.1.5已成美国头号流行株（热度：1039220）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B42023%E5%BC%80%E5%B9%B4%E5%A4%A7%E7%89%87%23" target="weibo">
 迪丽热巴2023开年大片（热度：976084）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%BA%E9%82%93%E8%B6%85%E6%96%B0%E7%94%B5%E5%BD%B1%E6%89%93call%23" target="weibo">
+迪丽热巴为邓超新电影打call（热度：975092）
 </a>
 </li>
 
@@ -1569,12 +1587,6 @@ WBG 阵容（热度：876890）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B4%E4%BA%9A%E5%88%A9%E5%8E%BB%E4%B8%96%23" target="weibo">
-维亚利去世（热度：832217）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%B4%E7%82%89%E7%85%AE%E8%8C%B63%E5%B0%8F%E6%97%B6%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92%23" target="weibo">
 女子围炉煮茶3小时一氧化碳中毒（热度：831879）
 </a>
@@ -1727,12 +1739,6 @@ C罗说世界杯唯一赢阿根廷的是沙特（热度：787065）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E8%AE%A4%E8%AF%81%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%B5%AE%E5%9B%BE%E7%BC%98%E6%98%AF%E7%88%86%E6%AC%BE%E6%96%B0%E5%89%A7%23" target="weibo">
 六公主认证王鹤棣浮图缘是爆款新剧（热度：781198）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%87%E5%96%9C%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23" target="weibo">
-李文喜被判死缓（热度：780797）
 </a>
 </li>
 
@@ -2685,6 +2691,12 @@ SuperM或将加入新成员（热度：587362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B4%BE%E4%B8%89%E5%8F%94%E8%AF%B4%E4%BD%A0%E4%BB%AC%E6%98%AF%E6%87%82%E5%87%BA%E9%A2%98%E7%9A%84%23" target="weibo">
+南派三叔说你们是懂出题的（热度：569260）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E8%AE%A91%E5%B2%81%E5%AD%99%E5%AD%90%E5%BC%80%E8%BD%A6%E8%BF%98%E5%8F%91%E8%A7%86%E9%A2%91%E7%82%AB%E8%80%80%23" target="weibo">
 爷爷让1岁孙子开车还发视频炫耀（热度：568840）
 </a>
@@ -2859,12 +2871,6 @@ SuperM或将加入新成员（热度：587362）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B4%BE%E4%B8%89%E5%8F%94%E8%AF%B4%E4%BD%A0%E4%BB%AC%E6%98%AF%E6%87%82%E5%87%BA%E9%A2%98%E7%9A%84%23" target="weibo">
-南派三叔说你们是懂出题的（热度：542997）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2374%E5%B2%81%E8%80%81%E4%BA%BA%E7%BD%91%E8%B4%AD%E4%B8%8A%E7%98%BE%E5%81%87%E9%87%91%E9%93%BE%E5%AD%90%E6%88%90%E5%A0%86%E4%B9%B0%23" target="weibo">
 74岁老人网购上瘾假金链子成堆买（热度：541701）
 </a>
@@ -2981,6 +2987,12 @@ Hero 倒霉蛋子（热度：525268）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%AE%9D%E5%AE%9D%E9%98%B3%E6%80%A7%E5%90%8E%E7%88%B8%E7%88%B8%E8%87%AA%E8%B4%A3%E8%90%BD%E6%B3%AA%23" target="weibo">
 2岁宝宝阳性后爸爸自责落泪（热度：522114）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%A6%96%E6%AC%BE%E8%BD%A6%E9%A2%84%E8%AE%A126%E4%B8%87%E8%87%B330%E4%B8%87%E5%85%83%E8%B5%B7%E5%94%AE%23" target="weibo">
+小米首款车预计26万至30万元起售（热度：521810）
 </a>
 </li>
 
@@ -3335,12 +3347,6 @@ twice日本小分队将出道（热度：506606）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E9%95%BF%E9%A3%8E%E6%B8%A1%E5%85%83%E6%97%A6%E6%B5%B7%E6%8A%A5%23" target="weibo">
 白敬亭宋轶长风渡元旦海报（热度：480195）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%A6%96%E6%AC%BE%E8%BD%A6%E9%A2%84%E8%AE%A126%E4%B8%87%E8%87%B330%E4%B8%87%E5%85%83%E8%B5%B7%E5%94%AE%23" target="weibo">
-小米首款车预计26万至30万元起售（热度：479723）
 </a>
 </li>
 
@@ -3729,6 +3735,12 @@ B站跨年 节目质量（热度：431169）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E8%A7%A3%E8%AF%B4%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
+管泽元解说全球总决赛（热度：430681）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%B0%86%E8%A3%81%E5%91%981.7%E4%B8%87%E4%BA%BA%23" target="weibo">
 亚马逊将裁员1.7万人（热度：430643）
 </a>
@@ -3813,6 +3825,12 @@ B站跨年 节目质量（热度：431169）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E6%9D%AF%23" target="weibo">
+微博杯（热度：420485）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E7%A7%B02023%E5%B9%B4%E4%B8%80%E5%AE%9A%E8%83%BD%E5%81%BF%E8%BF%98%E5%80%BA%E5%8A%A1%23" target="weibo">
 许家印称2023年一定能偿还债务（热度：420315）
 </a>
@@ -3851,12 +3869,6 @@ B站跨年 节目质量（热度：431169）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%91%AB%E5%AE%87%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E5%92%8C%E8%AD%A6%E6%96%B9%E4%BC%9A%E9%9D%A2%23" target="weibo">
 胡鑫宇家属回应和警方会面（热度：416950）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E6%9D%AF%23" target="weibo">
-微博杯（热度：414073）
 </a>
 </li>
 
@@ -3935,6 +3947,12 @@ offer4建筑专家建议陈国恩考公（热度：413638）
 <li>
 <a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E9%87%8D%E5%AD%99%E4%B8%BA91%E5%B2%81%E5%A4%AA%E7%88%B7%E7%88%B7%E6%8D%A2%E5%B0%BF%E4%B8%8D%E6%B9%BF%E6%93%A6%E8%BA%AB%E4%BD%93%23" target="weibo">
 9岁重孙为91岁太爷爷换尿不湿擦身体（热度：407914）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%89%BA%E4%BA%BA%E4%B9%9F%E5%92%8C%E6%88%91%E4%B8%80%E6%A0%B7%E6%83%B3%E6%94%BE%E5%81%87%23" target="weibo">
+原来艺人也和我一样想放假（热度：407344）
 </a>
 </li>
 
@@ -4228,7 +4246,7 @@ TWICE将1月20日发行先行曲（热度：387011）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%AF%B4%E5%B7%B2%E7%BB%8F%E4%B8%8D%E6%83%B3%E5%92%8C%E4%B8%8D%E6%87%82%E6%AC%A3%E8%B5%8F%E7%9A%84%E4%BA%BA%E7%8E%A9%E4%BA%86%23" target="weibo">
-杨超越说已经不想和不懂欣赏的人玩了（热度：382919）
+杨超越说已经不想和不懂欣赏的人玩了（热度：383484）
 </a>
 </li>
 
@@ -4719,12 +4737,6 @@ BoA宁艺卓Wendy舞台（热度：349284）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E8%A7%A3%E8%AF%B4%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
-管泽元解说全球总决赛（热度：349129）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%8966%E5%B2%81%E5%A4%AA%E5%A9%86%E4%B8%80%E5%A4%A9%E7%82%B83000%E4%B8%AA%E5%9C%86%E5%AD%90%23" target="weibo">
 武汉66岁太婆一天炸3000个圆子（热度：349086）
 </a>
@@ -4973,12 +4985,6 @@ TheShy薇恩上单（热度：333338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%90%83%E5%B8%AD%E7%BB%99%E8%80%81%E5%B8%88%E5%B8%A6%E5%9B%9E%E4%B8%80%E5%A4%A7%E7%A2%97%E8%99%BE%E5%92%8C%E8%82%89%23" target="weibo">
 学生吃席给老师带回一大碗虾和肉（热度：331707）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%89%BA%E4%BA%BA%E4%B9%9F%E5%92%8C%E6%88%91%E4%B8%80%E6%A0%B7%E6%83%B3%E6%94%BE%E5%81%87%23" target="weibo">
-原来艺人也和我一样想放假（热度：331606）
 </a>
 </li>
 
@@ -5303,6 +5309,12 @@ TTG 上上签（热度：311881）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%8D%97%E4%BA%AD%E7%A8%8B%E9%9C%84%E5%80%AA%E6%B9%9B%E4%B8%89%E4%BA%BA%E5%A4%A7%E5%9E%8B%E4%BF%AE%E7%BD%97%E5%9C%BA%23" target="weibo">
 顾南亭程霄倪湛三人大型修罗场（热度：311290）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BA%BA%E8%83%BD%E7%AE%A1%E7%AE%A1%E7%94%B5%E8%A7%86%E8%BF%99%E4%B8%AA%E4%BA%8B%23" target="weibo">
+有没有人能管管电视这个事（热度：310952）
 </a>
 </li>
 
@@ -6002,18 +6014,6 @@ NewJeans新歌OMG舞蹈版（热度：290291）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%B1%AA%E5%96%8A%E5%BE%90%E5%86%AC%E5%86%AC%E4%B8%80%E8%B5%B7%E4%B8%BE%E6%A4%B0%E6%B1%81%23" target="weibo">
-付豪喊徐冬冬一起举椰汁（热度：274650）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%B2%A1%E5%BF%85%E8%A6%81%E5%9B%A4%E8%92%99%E8%84%B1%E7%9F%B3%E6%95%A3%23" target="weibo">
-专家称没必要囤蒙脱石散（热度：274589）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6137,6 +6137,12 @@ NewJeans新歌OMG舞蹈版（热度：290291）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%232023%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%85%A8%E5%B9%B4%E5%8F%91%E5%B0%84%E5%B0%86%E5%86%8D%E7%A0%B460%E6%AC%A1%23%23" target="weibo">
 #2023中国航天全年发射将再破60次#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%9D%9A%E6%8C%81%E5%92%8C%E5%8A%A0%E5%BC%BA%E5%85%9A%E4%B8%AD%E5%A4%AE%E9%9B%86%E4%B8%AD%E7%BB%9F%E4%B8%80%E9%A2%86%E5%AF%BC%23%23" target="weibo">
+#坚持和加强党中央集中统一领导#
 </a>
 </li>
 

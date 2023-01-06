@@ -1,0 +1,410 @@
+{
+  "runTime": 1673001334778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1673744,
+        "num": 1673744,
+        "word": "k4",
+        "onboard_time": 1672996469,
+        "rank": 0,
+        "category": "音乐,科技"
+      },
+      {
+        "raw_hot": 1362289,
+        "num": 1362289,
+        "word": "维亚利去世",
+        "onboard_time": 1672999231,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162109,
+        "num": 1069331,
+        "word": "这不是复制粘贴这是人民陆军",
+        "onboard_time": 1672997551,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1046661,
+        "num": 1046661,
+        "word": "李文喜被判死缓",
+        "onboard_time": 1672998752,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 975092,
+        "num": 975092,
+        "word": "迪丽热巴为邓超新电影打call",
+        "onboard_time": 1673001033,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 943647,
+        "num": 943647,
+        "word": "原来穿制服真的会加分",
+        "onboard_time": 1672995393,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 587354,
+        "num": 587354,
+        "word": "姆巴佩和忍者神龟合影",
+        "onboard_time": 1672995991,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 581670,
+        "num": 581670,
+        "word": "增加抗原阳性作为新冠诊断标准",
+        "onboard_time": 1672995333,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548547,
+        "num": 548547,
+        "word": "国乒众将呼吁球迷专注赛场",
+        "onboard_time": 1672995932,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 521810,
+        "num": 521810,
+        "word": "小米首款车预计26万至30万元起售",
+        "onboard_time": 1672996830,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 722213,
+        "num": 487415,
+        "word": "王鹤棣时宴的车被交警拖走了",
+        "onboard_time": 1672987469,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 569260,
+        "num": 462556,
+        "word": "南派三叔说你们是懂出题的",
+        "onboard_time": 1672997431,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526384,
+        "num": 457708,
+        "word": "刘亦菲晒海边吹风随拍",
+        "onboard_time": 1672998449,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430681,
+        "num": 430681,
+        "word": "管泽元解说全球总决赛",
+        "onboard_time": 1672999350,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 420485,
+        "num": 420485,
+        "word": "微博杯",
+        "onboard_time": 1673000493,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 411487,
+        "num": 411487,
+        "word": "王雪峰被查",
+        "onboard_time": 1672992031,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407344,
+        "num": 407344,
+        "word": "原来艺人也和我一样想放假",
+        "onboard_time": 1672999651,
+        "rank": 16,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 393227,
+        "num": 393227,
+        "word": "多国要求日本将核污水倒在东京",
+        "onboard_time": 1672989569,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 381466,
+        "num": 381466,
+        "word": "男孩无意摔碎千元盘子父亲赔偿后说值了",
+        "onboard_time": 1672983210,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318105,
+        "num": 318105,
+        "word": "辅警放下1岁儿子转身营救落水女童",
+        "onboard_time": 1672995450,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 383484,
+        "num": 317464,
+        "word": "杨超越说已经不想和不懂欣赏的人玩了",
+        "onboard_time": 1672997071,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356161,
+        "num": 314828,
+        "word": "陈乔恩 睡眠呼吸中止症",
+        "onboard_time": 1672978830,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310952,
+        "num": 310952,
+        "word": "有没有人能管管电视这个事",
+        "onboard_time": 1672999171,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 304245,
+        "num": 304245,
+        "word": "原来真的有人自带大佬气场",
+        "onboard_time": 1672990110,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292507,
+        "num": 292507,
+        "word": "重庆共青团质疑抖音评论审核规则",
+        "onboard_time": 1672989029,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271915,
+        "num": 271915,
+        "word": "孩子误将摔炮当成糖果放嘴里咬",
+        "onboard_time": 1672988128,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259237,
+        "num": 259237,
+        "word": "爷爷让1岁孙子开车还发视频炫耀",
+        "onboard_time": 1672993351,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212169,
+        "num": 212169,
+        "word": "Hero一笙挂牌",
+        "onboard_time": 1673000132,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201508,
+        "num": 201508,
+        "word": "医生收红包转手充进患者账户",
+        "onboard_time": 1672992149,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 201445,
+        "num": 201445,
+        "word": "青岛胶东机场机务人员被碾死调查结果",
+        "onboard_time": 1672988012,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 293340,
+        "num": 200699,
+        "word": "赵今麦蓝色玫瑰短裙",
+        "onboard_time": 1672990891,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245906,
+        "num": 200045,
+        "word": "好心疼倪湛",
+        "onboard_time": 1672999472,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234989,
+        "num": 198295,
+        "word": "李荣浩回应张艺兴驷马难追",
+        "onboard_time": 1672994012,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232012,
+        "num": 196609,
+        "word": "卢海潮去世",
+        "onboard_time": 1672982429,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196470,
+        "num": 196470,
+        "word": "北京疫情发布会",
+        "onboard_time": 1672993951,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219662,
+        "num": 196249,
+        "word": "去有风的地方中的人情世故",
+        "onboard_time": 1673000249,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187897,
+        "num": 187897,
+        "word": "不再要求新冠病例集中隔离收治",
+        "onboard_time": 1672995631,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 186102,
+        "num": 186102,
+        "word": "发年终奖的都是什么公司",
+        "onboard_time": 1672981950,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156057,
+        "num": 156057,
+        "word": "大学生假期挨骂现状",
+        "onboard_time": 1673000310,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152623,
+        "num": 152623,
+        "word": "在农村花200万建房值吗",
+        "onboard_time": 1672984170,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210834,
+        "num": 143165,
+        "word": "许红豆看小马降生落泪",
+        "onboard_time": 1673001270,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130059,
+        "num": 130059,
+        "word": "隔玻璃亲吻的印痕女护士有宝宝了",
+        "onboard_time": 1672985669,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128630,
+        "num": 128630,
+        "word": "蓝兔邮票设计者直播回应争议",
+        "onboard_time": 1673000732,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117720,
+        "num": 117720,
+        "word": "敦煌壁画3只兔子竟只有3个耳朵",
+        "onboard_time": 1672989989,
+        "rank": 43,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 117369,
+        "num": 117369,
+        "word": "在母爱和护食之间挣扎",
+        "onboard_time": 1672999709,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115629,
+        "num": 115629,
+        "word": "订婚仪式感重要吗",
+        "onboard_time": 1672997130,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112195,
+        "num": 112195,
+        "word": "男子1599元万达买到海蓝之谜试用装",
+        "onboard_time": 1672977391,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105429,
+        "num": 112111,
+        "word": "奶茶担任AG主教练",
+        "onboard_time": 1672989691,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103667,
+        "num": 111866,
+        "word": "肩背不舒服的人一定要看看",
+        "onboard_time": 1672997971,
+        "rank": 48,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 98057,
+        "num": 111743,
+        "word": "北京中小学2月13日如期开学",
+        "onboard_time": 1673000912,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持和加强党中央集中统一领导#"
+    }
+  }
+}
