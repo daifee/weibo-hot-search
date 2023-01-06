@@ -1,10 +1,10 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1672970378205,
+  "endTime": 1672973171954,
   "band_list": [
     {
-      "raw_hot": 1513329,
-      "num": 1513329,
+      "raw_hot": 1897773,
+      "num": 1897773,
       "word": "特斯拉降价",
       "onboard_time": 1672969406,
       "rank": 0,
@@ -67,12 +67,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 900281,
+      "num": 431212,
+      "word": "焉栩嘉获北电三等奖学金",
+      "onboard_time": 1672971147,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 863084,
       "num": 863084,
       "word": "第八号当铺",
       "onboard_time": 1672928492,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 860713,
+      "num": 860713,
+      "word": "专家称新冠不是大号流感",
+      "onboard_time": 1672969467,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 747915,
@@ -97,6 +113,14 @@
       "onboard_time": 1672932213,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622171,
+      "num": 622171,
+      "word": "中国乒乓官宣定档大年初一",
+      "onboard_time": 1672972111,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 606752,
@@ -155,6 +179,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 489211,
+      "num": 489211,
+      "word": "官方回应村民家中出现大熊猫",
+      "onboard_time": 1672970726,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456968,
       "num": 372444,
       "word": "赵露思神隐粉裙路透",
@@ -169,6 +201,14 @@
       "onboard_time": 1672961961,
       "rank": 9,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 441124,
+      "num": 441124,
+      "word": "爆款现偶剧哪一部最实至名归",
+      "onboard_time": 1672970489,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 412616,
@@ -187,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404186,
+      "num": 404186,
+      "word": "宣化一中就寒假通知用词不当致歉",
+      "onboard_time": 1672971386,
+      "rank": 12,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 398943,
       "num": 398943,
       "word": "小鬼自曝去洛杉矶网吧玩",
@@ -203,12 +251,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 382504,
+      "num": 382504,
+      "word": "东部战区回应美舰过航台湾海峡",
+      "onboard_time": 1672971927,
+      "rank": 14,
+      "category": "军事"
+    },
+    {
       "raw_hot": 377135,
       "num": 377135,
       "word": "快乐再出发",
       "onboard_time": 1672930472,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363330,
+      "num": 363330,
+      "word": "白血病女孩痊愈后攒10万元捐病友",
+      "onboard_time": 1672971386,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361439,
@@ -275,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320094,
+      "num": 320094,
+      "word": "上海一网吧春节促销参加者签生死状",
+      "onboard_time": 1672969709,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281131,
       "num": 268664,
       "word": "上海利西路成韩式街头疯狂刷屏",
@@ -299,12 +371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260303,
-      "num": 260303,
-      "word": "专家称新冠不是大号流感",
-      "onboard_time": 1672969467,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 270878,
+      "num": 270878,
+      "word": "黄景瑜工作室告黑胜诉",
+      "onboard_time": 1672970188,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 260082,
@@ -313,6 +385,14 @@
       "onboard_time": 1672942095,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257895,
+      "num": 257895,
+      "word": "谢永强把谢广坤饭桌掀飞了",
+      "onboard_time": 1672972711,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 255479,
@@ -329,6 +409,14 @@
       "onboard_time": 1672927593,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 249754,
+      "num": 184761,
+      "word": "谢之遥就是李现本人吧",
+      "onboard_time": 1672972348,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 249165,
@@ -363,14 +451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 238801,
-      "num": 238801,
-      "word": "黄景瑜工作室告黑胜诉",
-      "onboard_time": 1672970188,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238308,
       "num": 238308,
       "word": "肯德基",
@@ -395,11 +475,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229371,
+      "num": 178569,
+      "word": "许红豆意识到自己被谢之遥和阿奶忽悠",
+      "onboard_time": 1672934670,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208178,
       "num": 208178,
       "word": "郎朗说吉娜会主持今年北京台春晚",
       "onboard_time": 1672933710,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207366,
+      "num": 171858,
+      "word": "苏醒人生就差那么两厘米",
+      "onboard_time": 1672972827,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -409,6 +505,14 @@
       "onboard_time": 1672921353,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198514,
+      "num": 198514,
+      "word": "今年春运客流预计同比增长99.5%",
+      "onboard_time": 1672972947,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196641,
@@ -475,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177532,
-      "num": 177532,
-      "word": "上海一网吧春节促销参加者签生死状",
-      "onboard_time": 1672969709,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176387,
       "num": 149165,
       "word": "梁洁发长文告别叶时蓝",
@@ -531,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166250,
+      "num": 166250,
+      "word": "年底就该有年底的样子",
+      "onboard_time": 1672971509,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165093,
       "num": 94078,
       "word": "你们男团是懂搞笑的",
@@ -539,12 +643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163288,
-      "num": 163288,
-      "word": "许红豆意识到自己被谢之遥和阿奶忽悠",
-      "onboard_time": 1672934670,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 160356,
+      "num": 160356,
+      "word": "北京今年春节全域禁放",
+      "onboard_time": 1672972767,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153671,
@@ -593,6 +697,14 @@
       "onboard_time": 1672963043,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130492,
+      "num": 130492,
+      "word": "10大恢复期实用指南",
+      "onboard_time": 1672971747,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127687,
@@ -651,12 +763,20 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 112622,
-      "num": 112622,
+      "raw_hot": 115261,
+      "num": 115261,
       "word": "男子与白骆驼合影被攻击",
       "onboard_time": 1672969587,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108467,
+      "num": 108467,
+      "word": "戴尔计划到2024年停用中国制造的芯片",
+      "onboard_time": 1672972647,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 107606,
@@ -753,6 +873,14 @@
       "onboard_time": 1672937483,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 88900,
+      "num": 88900,
+      "word": "丙种球蛋白能预防感染吗",
+      "onboard_time": 1672970606,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84423,

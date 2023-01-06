@@ -1,0 +1,410 @@
+{
+  "runTime": 1672973171954,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1897773,
+        "num": 1897773,
+        "word": "特斯拉降价",
+        "onboard_time": 1672969406,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 860713,
+        "num": 860713,
+        "word": "专家称新冠不是大号流感",
+        "onboard_time": 1672969467,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18419,
+        "num": 783851,
+        "word": "共话网络真善美",
+        "onboard_time": 1672920872,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 750917,
+        "num": 750917,
+        "word": "购买三套以上住房原则上不支持",
+        "onboard_time": 1672965389,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 666612,
+        "num": 666612,
+        "word": "普京下令接触线停火36小时",
+        "onboard_time": 1672968566,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 622171,
+        "num": 622171,
+        "word": "中国乒乓官宣定档大年初一",
+        "onboard_time": 1672972111,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 500543,
+        "num": 500543,
+        "word": "父亲将石榴埋沙里4个月等儿子",
+        "onboard_time": 1672965028,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494334,
+        "num": 494334,
+        "word": "优衣库遭掀帘女子男友发声",
+        "onboard_time": 1672918652,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489211,
+        "num": 489211,
+        "word": "官方回应村民家中出现大熊猫",
+        "onboard_time": 1672970726,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441124,
+        "num": 441124,
+        "word": "爆款现偶剧哪一部最实至名归",
+        "onboard_time": 1672970489,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 900281,
+        "num": 431212,
+        "word": "焉栩嘉获北电三等奖学金",
+        "onboard_time": 1672971147,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 748180,
+        "num": 422486,
+        "word": "棣欣引力",
+        "onboard_time": 1672963467,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404186,
+        "num": 404186,
+        "word": "宣化一中就寒假通知用词不当致歉",
+        "onboard_time": 1672971386,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 403095,
+        "num": 403095,
+        "word": "女孩和骗子沟通病情相互安慰",
+        "onboard_time": 1672967130,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382504,
+        "num": 382504,
+        "word": "东部战区回应美舰过航台湾海峡",
+        "onboard_time": 1672971927,
+        "rank": 14,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 363330,
+        "num": 363330,
+        "word": "白血病女孩痊愈后攒10万元捐病友",
+        "onboard_time": 1672971386,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356738,
+        "num": 356738,
+        "word": "新娘被要求坐主厅5小时脚不能沾地",
+        "onboard_time": 1672916552,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351870,
+        "num": 351870,
+        "word": "赵露思神隐粉裙路透",
+        "onboard_time": 1672968688,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348966,
+        "num": 348966,
+        "word": "如何自查是否出现白肺",
+        "onboard_time": 1672961120,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344719,
+        "num": 344719,
+        "word": "湖北是唯一有省鞋的地方吧",
+        "onboard_time": 1672964007,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327290,
+        "num": 327290,
+        "word": "这就是韩系甜妹天花板吧",
+        "onboard_time": 1672939339,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320094,
+        "num": 320094,
+        "word": "上海一网吧春节促销参加者签生死状",
+        "onboard_time": 1672969709,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274664,
+        "num": 274664,
+        "word": "光明之路王一博演的角色人物介绍",
+        "onboard_time": 1672969226,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270878,
+        "num": 270878,
+        "word": "黄景瑜工作室告黑胜诉",
+        "onboard_time": 1672970188,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257895,
+        "num": 257895,
+        "word": "谢永强把谢广坤饭桌掀飞了",
+        "onboard_time": 1672972711,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241100,
+        "num": 241100,
+        "word": "30岁女生回应与65岁男子谈恋爱",
+        "onboard_time": 1672932213,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213968,
+        "num": 213968,
+        "word": "CBA官宣第三阶段恢复主客场制",
+        "onboard_time": 1672969110,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198514,
+        "num": 198514,
+        "word": "今年春运客流预计同比增长99.5%",
+        "onboard_time": 1672972947,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196743,
+        "num": 196743,
+        "word": "泽连斯基拒绝俄方暂时停火提议",
+        "onboard_time": 1672961961,
+        "rank": 28,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 188791,
+        "num": 188791,
+        "word": "3女子吃自助餐吃掉100多只螃蟹",
+        "onboard_time": 1672919191,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249754,
+        "num": 184761,
+        "word": "谢之遥就是李现本人吧",
+        "onboard_time": 1672972348,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224461,
+        "num": 184552,
+        "word": "小鬼自曝去洛杉矶网吧玩",
+        "onboard_time": 1672937782,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229371,
+        "num": 178569,
+        "word": "许红豆意识到自己被谢之遥和阿奶忽悠",
+        "onboard_time": 1672934670,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214697,
+        "num": 174234,
+        "word": "苗苗刘芸分析张云龙恋情",
+        "onboard_time": 1672932033,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171876,
+        "num": 171876,
+        "word": "为什么男生恋爱时会忽冷忽热",
+        "onboard_time": 1672931973,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207366,
+        "num": 171858,
+        "word": "苏醒人生就差那么两厘米",
+        "onboard_time": 1672972827,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166250,
+        "num": 166250,
+        "word": "年底就该有年底的样子",
+        "onboard_time": 1672971509,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160356,
+        "num": 160356,
+        "word": "北京今年春节全域禁放",
+        "onboard_time": 1672972767,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143868,
+        "num": 143868,
+        "word": "男子穿婚纱扮新娘上台拥吻新郎",
+        "onboard_time": 1672956312,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141607,
+        "num": 141607,
+        "word": "詹姆斯全明星第一轮票王",
+        "onboard_time": 1672964607,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188985,
+        "num": 139133,
+        "word": "陆虎陈楚生一次特别的合影",
+        "onboard_time": 1672962564,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130492,
+        "num": 130492,
+        "word": "10大恢复期实用指南",
+        "onboard_time": 1672971747,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129802,
+        "num": 129802,
+        "word": "男子点一份大盘鸡吃出11个鸡屁股",
+        "onboard_time": 1672950431,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115261,
+        "num": 115261,
+        "word": "男子与白骆驼合影被攻击",
+        "onboard_time": 1672969587,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112095,
+        "num": 112095,
+        "word": "以后爸妈吵架就这么劝",
+        "onboard_time": 1672964488,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 108467,
+        "num": 108467,
+        "word": "戴尔计划到2024年停用中国制造的芯片",
+        "onboard_time": 1672972647,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 103198,
+        "num": 103198,
+        "word": "上海利西路成韩式街头疯狂刷屏",
+        "onboard_time": 1672959076,
+        "rank": 46,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 90909,
+        "num": 90909,
+        "word": "LOL季前启航赛",
+        "onboard_time": 1672967490,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88900,
+        "num": 88900,
+        "word": "丙种球蛋白能预防感染吗",
+        "onboard_time": 1672970606,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85239,
+        "num": 85239,
+        "word": "首付比首套利率该降的都要降下来",
+        "onboard_time": 1672938083,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023激发活力释放潜力#"
+    }
+  }
+}
