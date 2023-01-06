@@ -1,0 +1,410 @@
+{
+  "runTime": 1672994226997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1664058,
+        "num": 1664058,
+        "word": "唐山家暴男子已被行拘",
+        "onboard_time": 1672986329,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1012569,
+        "num": 1012569,
+        "word": "多国要求日本将核污水倒在东京",
+        "onboard_time": 1672989569,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 141601,
+        "num": 995207,
+        "word": "春节返乡农村地区疫情防控6点倡议",
+        "onboard_time": 1672981471,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 989044,
+        "num": 989044,
+        "word": "孩子误将摔炮当成糖果放嘴里咬",
+        "onboard_time": 1672988128,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832159,
+        "num": 832159,
+        "word": "成都回应不雅聊天男干部1月还参会",
+        "onboard_time": 1672992571,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805192,
+        "num": 805192,
+        "word": "唐山家暴事件双方未领结婚证",
+        "onboard_time": 1672988249,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 750042,
+        "num": 750042,
+        "word": "王雪峰被查",
+        "onboard_time": 1672992031,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607323,
+        "num": 607323,
+        "word": "范丞丞张婧仪新电影身高差",
+        "onboard_time": 1672990651,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 587648,
+        "num": 587648,
+        "word": "陈乔恩 睡眠呼吸中止症",
+        "onboard_time": 1672978830,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536071,
+        "num": 536071,
+        "word": "贾玲探班张小斐笑出眼泪",
+        "onboard_time": 1672992091,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1094472,
+        "num": 531792,
+        "word": "王鹤棣时宴的车被交警拖走了",
+        "onboard_time": 1672987469,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 582667,
+        "num": 529818,
+        "word": "重庆共青团质疑抖音评论审核规则",
+        "onboard_time": 1672989029,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520981,
+        "num": 520981,
+        "word": "男孩无意摔碎千元盘子父亲赔偿后说值了",
+        "onboard_time": 1672983210,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505931,
+        "num": 505931,
+        "word": "原来真的有人自带大佬气场",
+        "onboard_time": 1672990110,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338059,
+        "num": 499335,
+        "word": "未定事件簿",
+        "onboard_time": 1672975888,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 499081,
+        "num": 499081,
+        "word": "赵今麦蓝色玫瑰短裙",
+        "onboard_time": 1672990891,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 471618,
+        "num": 471618,
+        "word": "医生收红包转手充进患者账户",
+        "onboard_time": 1672992149,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 320285,
+        "num": 320285,
+        "word": "青岛胶东机场机务人员被碾死调查结果",
+        "onboard_time": 1672988012,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 256761,
+        "num": 256761,
+        "word": "女子阳后一周锻炼晕倒摔断3颗牙",
+        "onboard_time": 1672973309,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255882,
+        "num": 255882,
+        "word": "隔玻璃亲吻的印痕女护士有宝宝了",
+        "onboard_time": 1672985669,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391642,
+        "num": 255367,
+        "word": "李荣浩回应张艺兴驷马难追",
+        "onboard_time": 1672994012,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379334,
+        "num": 251330,
+        "word": "龚俊狐妖小红娘片场对戏路透",
+        "onboard_time": 1672990169,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322851,
+        "num": 249570,
+        "word": "鲍蕾在和陆毅短暂分别时哭了",
+        "onboard_time": 1672989451,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241413,
+        "num": 241413,
+        "word": "在农村花200万建房值吗",
+        "onboard_time": 1672984170,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235231,
+        "num": 235231,
+        "word": "奶茶担任AG主教练",
+        "onboard_time": 1672989691,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222639,
+        "num": 222639,
+        "word": "敦煌壁画3只兔子竟只有3个耳朵",
+        "onboard_time": 1672989989,
+        "rank": 25,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 210302,
+        "num": 210302,
+        "word": "男子1599元万达买到海蓝之谜试用装",
+        "onboard_time": 1672977391,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192173,
+        "num": 192173,
+        "word": "发年终奖的都是什么公司",
+        "onboard_time": 1672981950,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186855,
+        "num": 186855,
+        "word": "表兄妹结婚41年想离婚得知婚姻无效",
+        "onboard_time": 1672974568,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180117,
+        "num": 180117,
+        "word": "爷爷让1岁孙子开车还发视频炫耀",
+        "onboard_time": 1672993351,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312572,
+        "num": 180072,
+        "word": "郑秀妍跳海后独自游到了岸上",
+        "onboard_time": 1672985789,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315122,
+        "num": 179954,
+        "word": "李现新剧角色贡献度第一",
+        "onboard_time": 1672993471,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304768,
+        "num": 179888,
+        "word": "杨超越敦煌飞天神女造型",
+        "onboard_time": 1672987409,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259605,
+        "num": 179828,
+        "word": "卢海潮去世",
+        "onboard_time": 1672982429,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249120,
+        "num": 179641,
+        "word": "张俪于文文对视落泪",
+        "onboard_time": 1672992091,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179639,
+        "num": 179639,
+        "word": "原来大家都梦到过这里",
+        "onboard_time": 1672991490,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166264,
+        "num": 166264,
+        "word": "女生6个月减肥73斤称重塑人生",
+        "onboard_time": 1672978590,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151958,
+        "num": 151958,
+        "word": "特斯拉降价",
+        "onboard_time": 1672969406,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 144967,
+        "num": 144967,
+        "word": "被小猫咪甜到撒娇的狗狗",
+        "onboard_time": 1672992510,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144958,
+        "num": 144958,
+        "word": "2块钱鸡蛋和5毛钱鸡蛋的区别",
+        "onboard_time": 1672981651,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230059,
+        "num": 143020,
+        "word": "需要一个杨迪手机壳",
+        "onboard_time": 1672988307,
+        "rank": 40,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 138544,
+        "num": 138544,
+        "word": "居委会回应小区再现核酸检测",
+        "onboard_time": 1672980813,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137239,
+        "num": 138529,
+        "word": "遭遇家暴最直接的解决办法是什么",
+        "onboard_time": 1672992871,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133676,
+        "num": 138496,
+        "word": "北京疫情发布会",
+        "onboard_time": 1672993951,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127032,
+        "num": 138459,
+        "word": "东北人的冬天也太有趣了",
+        "onboard_time": 1672989629,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112666,
+        "num": 138446,
+        "word": "一个人在海底捞过生日什么体验",
+        "onboard_time": 1672990711,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111034,
+        "num": 138394,
+        "word": "中小学生寒假全天候健康指南",
+        "onboard_time": 1672991010,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 108820,
+        "num": 138372,
+        "word": "部分特斯拉车主准备维权",
+        "onboard_time": 1672985908,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99539,
+        "num": 138352,
+        "word": "让你戒掉手机瘾的小说",
+        "onboard_time": 1672987109,
+        "rank": 48,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 94872,
+        "num": 138312,
+        "word": "当代年轻人对crush的定义",
+        "onboard_time": 1672984770,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023中国航天全年发射将再破60次#"
+    }
+  }
+}
