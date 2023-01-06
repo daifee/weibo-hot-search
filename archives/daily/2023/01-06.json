@@ -1,7 +1,15 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1672969074073,
+  "endTime": 1672970378205,
   "band_list": [
+    {
+      "raw_hot": 1513329,
+      "num": 1513329,
+      "word": "特斯拉降价",
+      "onboard_time": 1672969406,
+      "rank": 0,
+      "category": "科技"
+    },
     {
       "raw_hot": 1406553,
       "num": 1406553,
@@ -49,6 +57,14 @@
       "onboard_time": 1672918652,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 920813,
+      "num": 920813,
+      "word": "普京下令接触线停火36小时",
+      "onboard_time": 1672968566,
+      "rank": 12,
+      "category": "军事"
     },
     {
       "raw_hot": 863084,
@@ -107,20 +123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564590,
+      "num": 564590,
+      "word": "女孩和骗子沟通病情相互安慰",
+      "onboard_time": 1672967130,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 549797,
       "num": 340651,
       "word": "苗苗刘芸分析张云龙恋情",
       "onboard_time": 1672932033,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 527494,
-      "num": 527494,
-      "word": "女孩和骗子沟通病情相互安慰",
-      "onboard_time": 1672967130,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 500225,
@@ -139,20 +155,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 456968,
+      "num": 372444,
+      "word": "赵露思神隐粉裙路透",
+      "onboard_time": 1672968688,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 450205,
       "num": 450205,
       "word": "泽连斯基拒绝俄方暂时停火提议",
       "onboard_time": 1672961961,
       "rank": 9,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 450176,
-      "num": 450176,
-      "word": "普京下令接触线停火36小时",
-      "onboard_time": 1672968566,
-      "rank": 12,
-      "category": "军事"
     },
     {
       "raw_hot": 412616,
@@ -243,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334170,
+      "num": 334170,
+      "word": "光明之路王一博演的角色人物介绍",
+      "onboard_time": 1672969226,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 324884,
       "num": 324884,
       "word": "县委书记回应倡导春节不返乡",
@@ -267,20 +291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271393,
+      "num": 271393,
+      "word": "CBA官宣第三阶段恢复主客场制",
+      "onboard_time": 1672969110,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 260303,
+      "num": 260303,
+      "word": "专家称新冠不是大号流感",
+      "onboard_time": 1672969467,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260082,
       "num": 260082,
       "word": "为什么一到夜晚症状就加重",
       "onboard_time": 1672942095,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257441,
-      "num": 257441,
-      "word": "赵露思神隐粉裙路透",
-      "onboard_time": 1672968688,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 255479,
@@ -331,12 +363,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238801,
+      "num": 238801,
+      "word": "黄景瑜工作室告黑胜诉",
+      "onboard_time": 1672970188,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238308,
       "num": 238308,
       "word": "肯德基",
       "onboard_time": 1672915230,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 234645,
+      "num": 234645,
+      "word": "陆虎陈楚生一次特别的合影",
+      "onboard_time": 1672962564,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 231538,
@@ -427,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177532,
+      "num": 177532,
+      "word": "上海一网吧春节促销参加者签生死状",
+      "onboard_time": 1672969709,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176387,
       "num": 149165,
       "word": "梁洁发长文告别叶时蓝",
@@ -465,14 +521,6 @@
       "onboard_time": 1672936645,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170854,
-      "num": 170854,
-      "word": "陆虎陈楚生一次特别的合影",
-      "onboard_time": 1672962564,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 166826,
@@ -603,6 +651,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 112622,
+      "num": 112622,
+      "word": "男子与白骆驼合影被攻击",
+      "onboard_time": 1672969587,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107606,
       "num": 59764,
       "word": "严浩翔聊梦想中的工作室",
@@ -656,6 +712,14 @@
       "word": "2023加班工资日历",
       "onboard_time": 1672960519,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96119,
+      "num": 96119,
+      "word": "张伯礼院士解读XBB毒株热点问题",
+      "onboard_time": 1672965869,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -788,7 +852,7 @@
     },
     {
       "raw_hot": 50489,
-      "num": 988481,
+      "num": 1015111,
       "word": "共话网络真善美",
       "onboard_time": 1672920872,
       "rank": 2,
