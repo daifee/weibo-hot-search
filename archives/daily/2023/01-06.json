@@ -1,7 +1,15 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1672987069156,
+  "endTime": 1672989311907,
   "band_list": [
+    {
+      "raw_hot": 2081074,
+      "num": 2081074,
+      "word": "唐山家暴男子已被行拘",
+      "onboard_time": 1672986329,
+      "rank": 17,
+      "category": "社会负面"
+    },
     {
       "raw_hot": 1897773,
       "num": 1897773,
@@ -35,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1426205,
+      "num": 1426205,
+      "word": "男孩无意摔碎千元盘子父亲赔偿后说值了",
+      "onboard_time": 1672983210,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1425585,
       "num": 1425585,
       "word": "女子阳后一周锻炼晕倒摔断3颗牙",
@@ -51,12 +67,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1347227,
-      "num": 1347227,
-      "word": "男孩无意摔碎千元盘子父亲赔偿后说值了",
-      "onboard_time": 1672983210,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 1394105,
+      "num": 394473,
+      "word": "王鹤棣时宴的车被交警拖走了",
+      "onboard_time": 1672987469,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1340061,
@@ -195,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 869765,
+      "num": 869765,
+      "word": "郑秀妍跳海后独自游到了岸上",
+      "onboard_time": 1672985789,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 863084,
       "num": 863084,
       "word": "第八号当铺",
@@ -235,20 +259,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 708951,
+      "raw_hot": 711215,
       "num": 511440,
       "word": "李彦宏称百度内部腐败问题吓死人",
       "onboard_time": 1672984770,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 703428,
-      "num": 428983,
-      "word": "郑秀妍跳海后独自游到了岸上",
-      "onboard_time": 1672985789,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 698341,
@@ -257,6 +273,14 @@
       "onboard_time": 1672972767,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687166,
+      "num": 687166,
+      "word": "在农村花200万建房值吗",
+      "onboard_time": 1672984170,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 659592,
@@ -289,14 +313,6 @@
       "onboard_time": 1672919191,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 598899,
-      "num": 598899,
-      "word": "在农村花200万建房值吗",
-      "onboard_time": 1672984170,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 585478,
@@ -363,6 +379,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512002,
+      "num": 290415,
+      "word": "杨超越敦煌飞天神女造型",
+      "onboard_time": 1672987409,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 510044,
+      "num": 362945,
+      "word": "隔玻璃亲吻的印痕女护士有宝宝了",
+      "onboard_time": 1672985669,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506735,
       "num": 506735,
       "word": "宣化一中就寒假通知用词不当致歉",
@@ -401,6 +433,14 @@
       "onboard_time": 1672972647,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 469831,
+      "num": 273876,
+      "word": "张艺兴晒李荣浩的新专辑to签",
+      "onboard_time": 1672988430,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 461974,
@@ -457,6 +497,14 @@
       "onboard_time": 1672974387,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416408,
+      "num": 156570,
+      "word": "青岛胶东机场机务人员被碾死调查结果",
+      "onboard_time": 1672988012,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 412616,
@@ -523,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381826,
+      "num": 270467,
+      "word": "需要一个杨迪手机壳",
+      "onboard_time": 1672988307,
+      "rank": 22,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 377744,
       "num": 322578,
       "word": "内娱歌手是懂点浪漫的",
@@ -571,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 360341,
+      "num": 360341,
+      "word": "孩子误将摔炮当成糖果放嘴里咬",
+      "onboard_time": 1672988128,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352353,
       "num": 340450,
       "word": "偶像练习生制作方等被执行4044万",
@@ -609,14 +673,6 @@
       "onboard_time": 1672950431,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343873,
-      "num": 343873,
-      "word": "唐山家暴男子已被行拘",
-      "onboard_time": 1672986329,
-      "rank": 17,
-      "category": "社会负面"
     },
     {
       "raw_hot": 340862,
@@ -665,14 +721,6 @@
       "onboard_time": 1672978590,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 326819,
-      "num": 326819,
-      "word": "隔玻璃亲吻的印痕女护士有宝宝了",
-      "onboard_time": 1672985669,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324884,
@@ -729,6 +777,22 @@
       "onboard_time": 1672977509,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300965,
+      "num": 300965,
+      "word": "唐山家暴事件双方未领结婚证",
+      "onboard_time": 1672988249,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 286643,
+      "num": 150216,
+      "word": "时代少年团嘉人拍立得花絮图",
+      "onboard_time": 1672988489,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 282952,
@@ -1107,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175795,
+      "num": 175795,
+      "word": "让小猫看看谁还没睡觉",
+      "onboard_time": 1672983869,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174761,
       "num": 174761,
       "word": "兔年财神开始接活了",
@@ -1147,14 +1219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167819,
-      "num": 167819,
-      "word": "让小猫看看谁还没睡觉",
-      "onboard_time": 1672983869,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 166826,
       "num": 166826,
       "word": "这是一种很新的团建",
@@ -1184,6 +1248,14 @@
       "word": "阳康前后勿剧烈运动",
       "onboard_time": 1672975047,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159373,
+      "num": 159373,
+      "word": "部分特斯拉车主准备维权",
+      "onboard_time": 1672985908,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1235,19 +1307,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145036,
+      "num": 145036,
+      "word": "让你戒掉手机瘾的小说",
+      "onboard_time": 1672987109,
+      "rank": 35,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 138530,
+      "num": 138530,
+      "word": "9成年轻人承认自己会被骗",
+      "onboard_time": 1672988489,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138359,
       "num": 138359,
       "word": "边境民警巡逻变白眉大侠看得心疼",
       "onboard_time": 1672968209,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137811,
-      "num": 137811,
-      "word": "部分特斯拉车主准备维权",
-      "onboard_time": 1672985908,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1337,6 +1417,14 @@
       "onboard_time": 1672982971,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119976,
+      "num": 119976,
+      "word": "科学家实现凭空生产氢气",
+      "onboard_time": 1672987289,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 116703,
@@ -1440,6 +1528,14 @@
       "word": "张伯礼院士解读XBB毒株热点问题",
       "onboard_time": 1672965869,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94642,
+      "num": 94642,
+      "word": "重庆共青团质疑抖音评论审核规则",
+      "onboard_time": 1672989029,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
