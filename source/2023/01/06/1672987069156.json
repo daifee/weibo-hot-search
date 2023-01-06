@@ -1,0 +1,410 @@
+{
+  "runTime": 1672987069156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1595192,
+        "num": 1595192,
+        "word": "陈乔恩 睡眠呼吸中止症",
+        "onboard_time": 1672978830,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1365800,
+        "num": 1365800,
+        "word": "卢海潮去世",
+        "onboard_time": 1672982429,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242588,
+        "num": 1349641,
+        "word": "春节返乡农村地区疫情防控6点倡议",
+        "onboard_time": 1672981471,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1347227,
+        "num": 1347227,
+        "word": "男孩无意摔碎千元盘子父亲赔偿后说值了",
+        "onboard_time": 1672983210,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858234,
+        "num": 858234,
+        "word": "范丞丞说猪都有双眼皮他没有",
+        "onboard_time": 1672984529,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 597547,
+        "num": 597547,
+        "word": "未定事件簿",
+        "onboard_time": 1672975888,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 593959,
+        "num": 593959,
+        "word": "在农村花200万建房值吗",
+        "onboard_time": 1672984170,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 582637,
+        "num": 582637,
+        "word": "女子阳后一周锻炼晕倒摔断3颗牙",
+        "onboard_time": 1672973309,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465498,
+        "num": 465498,
+        "word": "男子1599元万达买到海蓝之谜试用装",
+        "onboard_time": 1672977391,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450149,
+        "num": 450149,
+        "word": "女生6个月减肥73斤称重塑人生",
+        "onboard_time": 1672978590,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877236,
+        "num": 436916,
+        "word": "谢娜被服务员说有点像谢娜",
+        "onboard_time": 1672982190,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708951,
+        "num": 429639,
+        "word": "李彦宏称百度内部腐败问题吓死人",
+        "onboard_time": 1672984770,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703428,
+        "num": 428983,
+        "word": "郑秀妍跳海后独自游到了岸上",
+        "onboard_time": 1672985789,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413588,
+        "num": 413588,
+        "word": "表兄妹结婚41年想离婚得知婚姻无效",
+        "onboard_time": 1672974568,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390768,
+        "num": 390768,
+        "word": "N号房主犯曾调查金智秀私生活",
+        "onboard_time": 1672975047,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389169,
+        "num": 389169,
+        "word": "赵露思片场唱雪落下的声音",
+        "onboard_time": 1672981769,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 388283,
+        "num": 388283,
+        "word": "发年终奖的都是什么公司",
+        "onboard_time": 1672981950,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343873,
+        "num": 343873,
+        "word": "唐山家暴男子已被行拘",
+        "onboard_time": 1672986329,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 326819,
+        "num": 326819,
+        "word": "隔玻璃亲吻的印痕女护士有宝宝了",
+        "onboard_time": 1672985669,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322768,
+        "num": 322768,
+        "word": "警方回应男子殴打疑似哺乳期女子",
+        "onboard_time": 1672984290,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 377744,
+        "num": 322578,
+        "word": "内娱歌手是懂点浪漫的",
+        "onboard_time": 1672985908,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 340054,
+        "num": 322545,
+        "word": "王凯谭松韵新剧豆瓣6.9分",
+        "onboard_time": 1672986329,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321996,
+        "num": 321996,
+        "word": "2块钱鸡蛋和5毛钱鸡蛋的区别",
+        "onboard_time": 1672981651,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303410,
+        "num": 303410,
+        "word": "居委会回应小区再现核酸检测",
+        "onboard_time": 1672980813,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281339,
+        "num": 281339,
+        "word": "特斯拉降价",
+        "onboard_time": 1672969406,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 322907,
+        "num": 255351,
+        "word": "偷偷藏不住预约人数破100万",
+        "onboard_time": 1672985669,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204391,
+        "num": 204391,
+        "word": "专家称新冠不是大号流感",
+        "onboard_time": 1672969467,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185937,
+        "num": 185937,
+        "word": "这鸟都胖成企鹅了",
+        "onboard_time": 1672981950,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180461,
+        "num": 180461,
+        "word": "当代年轻人对crush的定义",
+        "onboard_time": 1672984770,
+        "rank": 28,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 124250,
+        "num": 178188,
+        "word": "今年春运有两个日期将出现返程高峰",
+        "onboard_time": 1672974387,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295744,
+        "num": 177576,
+        "word": "刘亦菲吴彦姝董晴洱海边拍大片花絮",
+        "onboard_time": 1672982730,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288993,
+        "num": 175048,
+        "word": "唐嫣李未央造型6年前后对比",
+        "onboard_time": 1672976426,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249850,
+        "num": 170435,
+        "word": "外来媳妇本地郎",
+        "onboard_time": 1672982250,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234574,
+        "num": 169846,
+        "word": "唐山妇联回应男子疑家暴哺乳期妻子",
+        "onboard_time": 1672974150,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167819,
+        "num": 167819,
+        "word": "让小猫看看谁还没睡觉",
+        "onboard_time": 1672983869,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165320,
+        "num": 165320,
+        "word": "北京今年春节全域禁放",
+        "onboard_time": 1672972767,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143761,
+        "num": 143761,
+        "word": "特斯拉降价会带来什么影响",
+        "onboard_time": 1672978830,
+        "rank": 36,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 140563,
+        "num": 140563,
+        "word": "东部战区回应美舰过航台湾海峡",
+        "onboard_time": 1672971927,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 137811,
+        "num": 137811,
+        "word": "部分特斯拉车主准备维权",
+        "onboard_time": 1672985908,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129878,
+        "num": 137563,
+        "word": "宣化一中就寒假通知用词不当致歉",
+        "onboard_time": 1672971386,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 229352,
+        "num": 137444,
+        "word": "哪一刻发现自己身体机能下降了",
+        "onboard_time": 1672985849,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229096,
+        "num": 137173,
+        "word": "龚俊王鹤棣影视实绩图",
+        "onboard_time": 1672983330,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122890,
+        "num": 136768,
+        "word": "画画时的窒息瞬间",
+        "onboard_time": 1672983749,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 113190,
+        "num": 136455,
+        "word": "90后是懂拿捏熊孩子的",
+        "onboard_time": 1672983928,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97577,
+        "num": 136166,
+        "word": "武汉66岁太婆一天炸3000个圆子",
+        "onboard_time": 1672974387,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93546,
+        "num": 135794,
+        "word": "普京下令接触线停火36小时",
+        "onboard_time": 1672968566,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 92979,
+        "num": 135492,
+        "word": "00后女儿陪父母看甄嬛传找穿帮镜头",
+        "onboard_time": 1672980211,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88815,
+        "num": 135324,
+        "word": "大叔烫头后感觉年轻了一个辈分",
+        "onboard_time": 1672973489,
+        "rank": 47,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 86037,
+        "num": 135021,
+        "word": "未定事件簿战损",
+        "onboard_time": 1672976849,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75599,
+        "num": 134540,
+        "word": "张伟丽徐梦桃阳康心得",
+        "onboard_time": 1672985188,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#形成共促高质量发展的合力#"
+    }
+  }
+}
