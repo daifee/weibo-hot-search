@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/07 00:26:30 ~ 2023/01/07 06:17:35
+本榜单时间：2023/01/07 00:26:30 ~ 2023/01/07 06:34:01
 </p>
 </blockquote>
 <p>
@@ -429,6 +429,12 @@ WBG夺得微博杯冠军（热度：156450）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E9%B9%A4%E5%B9%B4%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23" target="weibo">
+冯鹤年被开除党籍（热度：79163）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E6%98%AF%E7%B3%8A%E5%BC%84%E5%AD%A6%E5%A4%A7%E5%B8%88%E5%90%A7%23" target="weibo">
 杨洋是糊弄学大师吧（热度：78492）
 </a>
@@ -467,12 +473,6 @@ WBG夺得微博杯冠军（热度：156450）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E5%A4%9C%E6%99%AF%E6%9C%89%E5%A4%9A%E6%A2%A6%E5%B9%BB%23" target="weibo">
 哈尔滨冰雪大世界夜景有多梦幻（热度：67940）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E9%B9%A4%E5%B9%B4%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23" target="weibo">
-冯鹤年被开除党籍（热度：67127）
 </a>
 </li>
 

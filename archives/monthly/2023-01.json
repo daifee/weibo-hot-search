@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673043455762,
+  "endTime": 1673044441305,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -15147,6 +15147,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 79163,
+      "num": 77673,
+      "word": "冯鹤年被开除党籍",
+      "onboard_time": 1673039772,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78492,
       "num": 65530,
       "word": "杨洋是糊弄学大师吧",
@@ -15201,14 +15209,6 @@
       "onboard_time": 1672594159,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67127,
-      "num": 21362,
-      "word": "冯鹤年被开除党籍",
-      "onboard_time": 1673039772,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66805,
