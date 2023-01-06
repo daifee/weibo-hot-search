@@ -1,6 +1,6 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1672973757085,
+  "endTime": 1672975174308,
   "band_list": [
     {
       "raw_hot": 1897773,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1115232,
-      "num": 450197,
+      "num": 488668,
       "word": "棣欣引力",
       "onboard_time": 1672963467,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 932681,
+      "num": 932681,
+      "word": "易烊千玺演的孙均有点狠",
+      "onboard_time": 1672974150,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 920813,
       "num": 920813,
       "word": "普京下令接触线停火36小时",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 900281,
-      "num": 434996,
+      "num": 490394,
       "word": "焉栩嘉获北电三等奖学金",
       "onboard_time": 1672971147,
       "rank": 10,
@@ -89,6 +97,14 @@
       "onboard_time": 1672928492,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 848329,
+      "num": 848329,
+      "word": "女子阳后一周锻炼晕倒摔断3颗牙",
+      "onboard_time": 1672973309,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 789468,
@@ -115,12 +131,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 658821,
+      "num": 658821,
+      "word": "北京今年春节全域禁放",
+      "onboard_time": 1672972767,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 652668,
       "num": 652668,
       "word": "30岁女生回应与65岁男子谈恋爱",
       "onboard_time": 1672932213,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 615216,
+      "num": 615216,
+      "word": "东部战区回应美舰过航台湾海峡",
+      "onboard_time": 1672971927,
+      "rank": 14,
+      "category": "军事"
     },
     {
       "raw_hot": 606752,
@@ -163,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 537021,
-      "num": 433479,
-      "word": "东部战区回应美舰过航台湾海峡",
-      "onboard_time": 1672971927,
-      "rank": 14,
-      "category": "军事"
-    },
-    {
       "raw_hot": 513155,
       "num": 513155,
       "word": "官方回应村民家中出现大熊猫",
@@ -185,6 +209,14 @@
       "onboard_time": 1672931973,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 492753,
+      "num": 492753,
+      "word": "宣化一中就寒假通知用词不当致歉",
+      "onboard_time": 1672971386,
+      "rank": 12,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 489616,
@@ -211,6 +243,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 445795,
+      "num": 445795,
+      "word": "戴尔计划到2024年停用中国制造的芯片",
+      "onboard_time": 1672972647,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 441124,
       "num": 441124,
       "word": "爆款现偶剧哪一部最实至名归",
@@ -219,20 +259,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 427585,
-      "num": 427585,
-      "word": "宣化一中就寒假通知用词不当致歉",
-      "onboard_time": 1672971386,
-      "rank": 12,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 412616,
       "num": 273050,
       "word": "白鹿片场和助理贴贴",
       "onboard_time": 1672935924,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 411783,
+      "num": 411783,
+      "word": "唐山妇联回应男子疑家暴哺乳期妻子",
+      "onboard_time": 1672974150,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409969,
@@ -267,8 +307,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 363330,
-      "num": 363330,
+      "raw_hot": 375531,
+      "num": 375531,
+      "word": "苏醒人生就差那么两厘米",
+      "onboard_time": 1672972827,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 366209,
+      "num": 366209,
       "word": "白血病女孩痊愈后攒10万元捐病友",
       "onboard_time": 1672971386,
       "rank": 15,
@@ -289,14 +337,6 @@
       "onboard_time": 1672929752,
       "rank": 13,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 352006,
-      "num": 352006,
-      "word": "北京今年春节全域禁放",
-      "onboard_time": 1672972767,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351491,
@@ -363,20 +403,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 297315,
-      "num": 297315,
+      "raw_hot": 305842,
+      "num": 305842,
       "word": "谢永强把谢广坤饭桌掀飞了",
       "onboard_time": 1672972711,
       "rank": 24,
       "category": "影视"
     },
     {
-      "raw_hot": 281162,
-      "num": 281162,
-      "word": "苏醒人生就差那么两厘米",
-      "onboard_time": 1672972827,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 293546,
+      "num": 293546,
+      "word": "N号房主犯曾调查金智秀私生活",
+      "onboard_time": 1672975047,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 281131,
@@ -385,6 +425,22 @@
       "onboard_time": 1672959076,
       "rank": 13,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 279777,
+      "num": 279777,
+      "word": "2023春节档电影增至七部",
+      "onboard_time": 1672975047,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 279292,
+      "num": 237718,
+      "word": "满江红沈腾预告",
+      "onboard_time": 1672974208,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 272925,
@@ -459,20 +515,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246737,
-      "num": 161813,
-      "word": "戴尔计划到2024年停用中国制造的芯片",
-      "onboard_time": 1672972647,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 242877,
       "num": 242877,
       "word": "以后爸妈吵架就这么劝",
       "onboard_time": 1672964488,
       "rank": 23,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 240798,
+      "num": 240798,
+      "word": "大叔烫头后感觉年轻了一个辈分",
+      "onboard_time": 1672973489,
+      "rank": 43,
+      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 240692,
@@ -505,6 +561,30 @@
       "onboard_time": 1672933412,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227315,
+      "num": 219255,
+      "word": "表兄妹结婚41年想离婚得知婚姻无效",
+      "onboard_time": 1672974568,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216067,
+      "num": 216067,
+      "word": "烟花到底该不该禁",
+      "onboard_time": 1672973968,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212060,
+      "num": 212060,
+      "word": "武汉66岁太婆一天炸3000个圆子",
+      "onboard_time": 1672974387,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208178,
@@ -587,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183318,
+      "num": 183318,
+      "word": "小伙送机器人陪爷爷下象棋反被催婚",
+      "onboard_time": 1672974511,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178249,
       "num": 178249,
       "word": "余万",
@@ -609,6 +697,22 @@
       "onboard_time": 1672925730,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174761,
+      "num": 174761,
+      "word": "兔年财神开始接活了",
+      "onboard_time": 1672975109,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174222,
+      "num": 174222,
+      "word": "今年春运有两个日期将出现返程高峰",
+      "onboard_time": 1672974387,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173827,
@@ -683,14 +787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140554,
-      "num": 140554,
-      "word": "女子阳后一周锻炼晕倒摔断3颗牙",
-      "onboard_time": 1672973309,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138359,
       "num": 138359,
       "word": "边境民警巡逻变白眉大侠看得心疼",
@@ -720,6 +816,14 @@
       "word": "10大恢复期实用指南",
       "onboard_time": 1672971747,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128825,
+      "num": 128825,
+      "word": "阳康前后勿剧烈运动",
+      "onboard_time": 1672975047,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -793,14 +897,6 @@
       "onboard_time": 1672939879,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106004,
-      "num": 106004,
-      "word": "大叔烫头后感觉年轻了一个辈分",
-      "onboard_time": 1672973489,
-      "rank": 43,
-      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 105869,
@@ -1009,6 +1105,14 @@
       "onboard_time": 1672932629,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 49888,
+      "num": 413587,
+      "word": "新能源解锁轻越野",
+      "onboard_time": 1672974028,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45053,
