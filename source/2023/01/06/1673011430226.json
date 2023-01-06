@@ -1,0 +1,410 @@
+{
+  "runTime": 1673011430226,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1432158,
+        "num": 1432158,
+        "word": "瓶子爆料",
+        "onboard_time": 1673004511,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1097893,
+        "num": 1097893,
+        "word": "浪莎发文向郎朗吉娜道歉",
+        "onboard_time": 1673008411,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 145345,
+        "num": 1073183,
+        "word": "这不是复制粘贴这是人民陆军",
+        "onboard_time": 1672997551,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1070247,
+        "num": 1070247,
+        "word": "原神",
+        "onboard_time": 1673007450,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 909989,
+        "num": 909989,
+        "word": "迪丽热巴为邓超新电影打call",
+        "onboard_time": 1673001033,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 882919,
+        "num": 882919,
+        "word": "刘亦菲说自己是容易紧绷的人",
+        "onboard_time": 1673007693,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 821740,
+        "num": 821740,
+        "word": "女子首次去福建农村男友家傻眼了",
+        "onboard_time": 1673008892,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807322,
+        "num": 807322,
+        "word": "信阳警方回应优衣库试衣间事件",
+        "onboard_time": 1673007390,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414806,
+        "num": 414806,
+        "word": "有没有人能管管电视这个事",
+        "onboard_time": 1672999171,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409238,
+        "num": 409238,
+        "word": "原来穿制服真的会加分",
+        "onboard_time": 1672995393,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 915628,
+        "num": 406732,
+        "word": "哈里王子承认在阿富汗时曾杀死25人",
+        "onboard_time": 1673007693,
+        "rank": 10,
+        "category": "社会新闻,国内要闻"
+      },
+      {
+        "raw_hot": 862296,
+        "num": 396994,
+        "word": "李现展示吴彦姝奶奶吃苹果的照片",
+        "onboard_time": 1673009972,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 826774,
+        "num": 391309,
+        "word": "重庆一隧道两摩托车相撞致4死",
+        "onboard_time": 1673006610,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 819211,
+        "num": 383564,
+        "word": "唐嫣听到郭京飞欠姚晨钱的反应",
+        "onboard_time": 1673010391,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 812981,
+        "num": 378233,
+        "word": "陈飞宇直播",
+        "onboard_time": 1673009131,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373352,
+        "num": 373352,
+        "word": "微博杯",
+        "onboard_time": 1673000493,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 312779,
+        "num": 312779,
+        "word": "WBG微博杯总决赛",
+        "onboard_time": 1673001333,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 299392,
+        "num": 299392,
+        "word": "维亚利去世",
+        "onboard_time": 1672999231,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268093,
+        "num": 268093,
+        "word": "月亮",
+        "onboard_time": 1673010452,
+        "rank": 18,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 254092,
+        "num": 254092,
+        "word": "WBG对战BLG",
+        "onboard_time": 1673001753,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 545473,
+        "num": 253558,
+        "word": "newjeans团综推广韩纸",
+        "onboard_time": 1673004032,
+        "rank": 20,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 538200,
+        "num": 244607,
+        "word": "郭晓婷站过车保罗",
+        "onboard_time": 1673006610,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527963,
+        "num": 238010,
+        "word": "程霄决定放弃喜欢顾南亭",
+        "onboard_time": 1673009972,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220717,
+        "num": 220717,
+        "word": "无畏说九尾发色真扛造",
+        "onboard_time": 1673007511,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216387,
+        "num": 216387,
+        "word": "浙江高考",
+        "onboard_time": 1673002350,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216183,
+        "num": 216183,
+        "word": "增加抗原阳性作为新冠诊断标准",
+        "onboard_time": 1672995333,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186422,
+        "num": 186422,
+        "word": "鹤岗真的是反卷胜地吗",
+        "onboard_time": 1673010150,
+        "rank": 26,
+        "category": "财经,社会议题"
+      },
+      {
+        "raw_hot": 184777,
+        "num": 184777,
+        "word": "姆巴佩和忍者神龟合影",
+        "onboard_time": 1672995991,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180963,
+        "num": 180963,
+        "word": "九尾红发",
+        "onboard_time": 1673001392,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176932,
+        "num": 176932,
+        "word": "孩子误将摔炮当成糖果放嘴里咬",
+        "onboard_time": 1672988128,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452341,
+        "num": 176777,
+        "word": "我们的客栈连线宋亚轩",
+        "onboard_time": 1673010932,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359374,
+        "num": 175869,
+        "word": "网传大侦探第八季下周上线",
+        "onboard_time": 1673007331,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340963,
+        "num": 174360,
+        "word": "王心凌参加北京台春晚录制",
+        "onboard_time": 1673009131,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275641,
+        "num": 173271,
+        "word": "王鹤棣时宴的车被交警拖走了",
+        "onboard_time": 1672987469,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173199,
+        "num": 173199,
+        "word": "上甘岭战役一等功臣蒋诚逝世",
+        "onboard_time": 1673003732,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 157063,
+        "num": 157063,
+        "word": "辅警放下1岁儿子转身营救落水女童",
+        "onboard_time": 1672995450,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 156392,
+        "num": 156392,
+        "word": "原来无畏是九尾脑",
+        "onboard_time": 1673007991,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151360,
+        "num": 151360,
+        "word": "李文喜被判死缓",
+        "onboard_time": 1672998752,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149700,
+        "num": 149700,
+        "word": "北京疫情发布会",
+        "onboard_time": 1672993951,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141096,
+        "num": 141096,
+        "word": "重庆一隧道发生摩托车事故",
+        "onboard_time": 1673010512,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 253409,
+        "num": 139943,
+        "word": "杨紫余生请多指教日本宣传VCR",
+        "onboard_time": 1673003970,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234068,
+        "num": 139634,
+        "word": "张杰是懂氛围感帅哥杨迪的",
+        "onboard_time": 1673005892,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138276,
+        "num": 138276,
+        "word": "教资面试",
+        "onboard_time": 1673001813,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125469,
+        "num": 125469,
+        "word": "多国要求日本将核污水倒在东京",
+        "onboard_time": 1672989569,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 120879,
+        "num": 120879,
+        "word": "男孩无意摔碎千元盘子父亲赔偿后说值了",
+        "onboard_time": 1672983210,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116532,
+        "num": 116532,
+        "word": "王雪峰被查",
+        "onboard_time": 1672992031,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104869,
+        "num": 104869,
+        "word": "全球每5双运动鞋有1双来自晋江",
+        "onboard_time": 1673002773,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97504,
+        "num": 104677,
+        "word": "爷爷让1岁孙子开车还发视频炫耀",
+        "onboard_time": 1672993351,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96269,
+        "num": 104546,
+        "word": "重庆共青团质疑抖音评论审核规则",
+        "onboard_time": 1672989029,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91663,
+        "num": 104140,
+        "word": "原神3.4全球直播",
+        "onboard_time": 1673006431,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持和加强党中央集中统一领导#"
+    }
+  }
+}

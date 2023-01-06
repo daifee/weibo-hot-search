@@ -1,6 +1,6 @@
 {
   "startTime": 1672936138082,
-  "endTime": 1673009566178,
+  "endTime": 1673011430226,
   "band_list": [
     {
       "raw_hot": 2081074,
@@ -187,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1097893,
+      "num": 1097893,
+      "word": "浪莎发文向郎朗吉娜道歉",
+      "onboard_time": 1673008411,
+      "rank": 40,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1059069,
       "num": 735381,
       "word": "N号房主犯曾调查金智秀私生活",
@@ -275,6 +283,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 915628,
+      "num": 410844,
+      "word": "哈里王子承认在阿富汗时曾杀死25人",
+      "onboard_time": 1673007693,
+      "rank": 30,
+      "category": "社会新闻,国内要闻"
+    },
+    {
       "raw_hot": 913105,
       "num": 804402,
       "word": "唐山妇联回应男子疑家暴哺乳期妻子",
@@ -347,20 +363,60 @@
       "category": "影视"
     },
     {
+      "raw_hot": 862296,
+      "num": 396994,
+      "word": "李现展示吴彦姝奶奶吃苹果的照片",
+      "onboard_time": 1673009972,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 826774,
+      "num": 778621,
+      "word": "重庆一隧道两摩托车相撞致4死",
+      "onboard_time": 1673006610,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 821740,
+      "num": 821740,
+      "word": "女子首次去福建农村男友家傻眼了",
+      "onboard_time": 1673008892,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 819211,
+      "num": 383564,
+      "word": "唐嫣听到郭京飞欠姚晨钱的反应",
+      "onboard_time": 1673010391,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 812981,
+      "num": 411931,
+      "word": "陈飞宇直播",
+      "onboard_time": 1673009131,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 807322,
+      "num": 807322,
+      "word": "信阳警方回应优衣库试衣间事件",
+      "onboard_time": 1673007390,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 789468,
       "num": 789468,
       "word": "中国乒乓官宣定档大年初一",
       "onboard_time": 1672972111,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 778621,
-      "num": 778621,
-      "word": "重庆一隧道两摩托车相撞致4死",
-      "onboard_time": 1673006610,
-      "rank": 11,
-      "category": "社会负面"
     },
     {
       "raw_hot": 763553,
@@ -411,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 705317,
-      "num": 411931,
-      "word": "陈飞宇直播",
-      "onboard_time": 1673009131,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 698341,
       "num": 698341,
       "word": "北京今年春节全域禁放",
@@ -435,28 +483,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 687113,
-      "num": 410844,
-      "word": "哈里王子承认在阿富汗时曾杀死25人",
-      "onboard_time": 1673007693,
-      "rank": 30,
-      "category": "社会新闻,国内要闻"
-    },
-    {
       "raw_hot": 683864,
       "num": 683864,
       "word": "医生收红包转手充进患者账户",
       "onboard_time": 1672992149,
       "rank": 17,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 679834,
-      "num": 679834,
-      "word": "信阳警方回应优衣库试衣间事件",
-      "onboard_time": 1673007390,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 679002,
@@ -667,12 +699,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 526930,
-      "num": 409991,
-      "word": "浪莎发文向郎朗吉娜道歉",
-      "onboard_time": 1673008411,
-      "rank": 40,
-      "category": "社会新闻,艺人"
+      "raw_hot": 527963,
+      "num": 238010,
+      "word": "程霄决定放弃喜欢顾南亭",
+      "onboard_time": 1673009972,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 526493,
@@ -825,6 +857,14 @@
       "onboard_time": 1673000493,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 452341,
+      "num": 176777,
+      "word": "我们的客栈连线宋亚轩",
+      "onboard_time": 1673010932,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 450809,
@@ -1419,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268093,
+      "num": 268093,
+      "word": "月亮",
+      "onboard_time": 1673010452,
+      "rank": 18,
+      "category": "自然"
+    },
+    {
       "raw_hot": 263076,
       "num": 1349641,
       "word": "春节返乡农村地区疫情防控6点倡议",
@@ -1537,14 +1585,6 @@
       "onboard_time": 1672978830,
       "rank": 47,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 244756,
-      "num": 244756,
-      "word": "女子首次去福建农村男友家傻眼了",
-      "onboard_time": 1673008892,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242877,
@@ -1811,6 +1851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186422,
+      "num": 186422,
+      "word": "鹤岗真的是反卷胜地吗",
+      "onboard_time": 1673010150,
+      "rank": 26,
+      "category": "财经,社会议题"
+    },
+    {
       "raw_hot": 185155,
       "num": 185155,
       "word": "哪本小说全网无代餐",
@@ -2041,6 +2089,14 @@
       "onboard_time": 1672992510,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141096,
+      "num": 141096,
+      "word": "重庆一隧道发生摩托车事故",
+      "onboard_time": 1673010512,
+      "rank": 39,
+      "category": "社会负面"
     },
     {
       "raw_hot": 138530,
