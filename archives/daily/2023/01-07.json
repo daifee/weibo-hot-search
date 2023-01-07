@@ -1,6 +1,6 @@
 {
   "startTime": 1673022390574,
-  "endTime": 1673069605609,
+  "endTime": 1673072473514,
   "band_list": [
     {
       "raw_hot": 2529517,
@@ -99,12 +99,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1033743,
+      "num": 1033743,
+      "word": "女子看病被医生开的处方字体惊呆了",
+      "onboard_time": 1673068888,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 992586,
+      "num": 992586,
+      "word": "杜华说好心疼范丞丞",
+      "onboard_time": 1673071887,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 967169,
       "num": 967169,
       "word": "姐姐 我们还有好久好久",
       "onboard_time": 1673066789,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 952466,
+      "num": 952466,
+      "word": "涉嫌侮辱邱少云索尼公司被禁言",
+      "onboard_time": 1673068651,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 901431,
@@ -195,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 699191,
+      "num": 699191,
+      "word": "王鹤棣唱诀爱",
+      "onboard_time": 1673069908,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 686123,
       "num": 686123,
       "word": "牛骏峰去有风的地方人设",
@@ -259,12 +291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594334,
+      "num": 594334,
+      "word": "多地出现倒奶杀牛现象",
+      "onboard_time": 1673069008,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579728,
       "num": 579728,
       "word": "蔡依林造型",
       "onboard_time": 1673019451,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 576085,
+      "num": 441763,
+      "word": "黄磊说大年初一展望未来",
+      "onboard_time": 1673071406,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 571546,
@@ -297,6 +345,14 @@
       "onboard_time": 1673062767,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524369,
+      "num": 222074,
+      "word": "网传王一博重新参与天天向上录制",
+      "onboard_time": 1673071468,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 518718,
@@ -451,14 +507,6 @@
       "category": "社会新闻,国内要闻"
     },
     {
-      "raw_hot": 412011,
-      "num": 412011,
-      "word": "涉嫌侮辱邱少云索尼公司被禁言",
-      "onboard_time": 1673068651,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 408234,
       "num": 408234,
       "word": "突发心慌心悸警惕病毒性心肌炎",
@@ -475,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385048,
+      "num": 385048,
+      "word": "懒羊羊喜羊羊实绩图",
+      "onboard_time": 1673068109,
+      "rank": 37,
+      "category": "动漫,幽默"
+    },
+    {
       "raw_hot": 364355,
       "num": 275078,
       "word": "白鹿脖子上挂了一串小熊",
@@ -489,14 +545,6 @@
       "onboard_time": 1673057548,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 363633,
-      "num": 363633,
-      "word": "懒羊羊喜羊羊实绩图",
-      "onboard_time": 1673068109,
-      "rank": 37,
-      "category": "动漫,幽默"
     },
     {
       "raw_hot": 356436,
@@ -529,6 +577,14 @@
       "onboard_time": 1673031674,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 321904,
+      "num": 321904,
+      "word": "日本宅男看动漫被打断怒杀父母",
+      "onboard_time": 1673071647,
+      "rank": 15,
+      "category": "社会负面"
     },
     {
       "raw_hot": 320769,
@@ -587,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291084,
+      "num": 204154,
+      "word": "刘亦菲李现有风小院烤肉趴片场花絮",
+      "onboard_time": 1673069069,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287819,
       "num": 257813,
       "word": "宋亚轩北京台春晚下班路透",
@@ -601,14 +665,6 @@
       "onboard_time": 1673065049,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284314,
-      "num": 204154,
-      "word": "刘亦菲李现有风小院烤肉趴片场花絮",
-      "onboard_time": 1673069069,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 276412,
@@ -707,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251033,
-      "num": 197912,
-      "word": "女子看病被医生开的处方字体惊呆了",
-      "onboard_time": 1673068888,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250779,
       "num": 250779,
       "word": "胡鑫宇失踪事件暂未立为刑案",
@@ -801,6 +849,14 @@
       "onboard_time": 1673062949,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226977,
+      "num": 173714,
+      "word": "金钟仁姜涩琪李帝努柳智敏新歌练习室",
+      "onboard_time": 1673070809,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 225163,
@@ -920,14 +976,6 @@
       "word": "90后海岸警察被海风吹到怀疑人生",
       "onboard_time": 1673051906,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192389,
-      "num": 192389,
-      "word": "多地出现倒奶杀牛现象",
-      "onboard_time": 1673069008,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1155,6 +1203,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141162,
+      "num": 135406,
+      "word": "新裤子五条人今年要举办演唱会",
+      "onboard_time": 1673070207,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 141148,
+      "num": 141148,
+      "word": "小猫居然有两幅面孔",
+      "onboard_time": 1673071349,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139873,
       "num": 139873,
       "word": "谢之遥用玩笑的方式说出真心话",
@@ -1185,6 +1249,14 @@
       "onboard_time": 1673032333,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134112,
+      "num": 134112,
+      "word": "这是要收了法海吧",
+      "onboard_time": 1673071048,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 130385,
@@ -1291,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121495,
+      "num": 121495,
+      "word": "老鹰vs湖人",
+      "onboard_time": 1673067750,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120669,
       "num": 70818,
       "word": "杨超越情景喜剧适配度",
@@ -1307,14 +1387,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 117199,
-      "num": 117199,
-      "word": "老鹰vs湖人",
-      "onboard_time": 1673067750,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117156,
       "num": 141416,
       "word": "维亚利去世",
@@ -1329,6 +1401,14 @@
       "onboard_time": 1673046377,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112819,
+      "num": 112819,
+      "word": "低谷期真的不适合恋爱吗",
+      "onboard_time": 1673072128,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 112664,
@@ -1361,6 +1441,14 @@
       "onboard_time": 1673024841,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108012,
+      "num": 108012,
+      "word": "湖人四连胜",
+      "onboard_time": 1673072367,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107999,
