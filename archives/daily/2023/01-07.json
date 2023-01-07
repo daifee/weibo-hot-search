@@ -1,6 +1,6 @@
 {
   "startTime": 1673022390574,
-  "endTime": 1673079732596,
+  "endTime": 1673080521289,
   "band_list": [
     {
       "raw_hot": 2529517,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1263481,
-      "num": 886552,
+      "num": 1192221,
       "word": "疑因婆婆怀孕女子被要求打胎",
       "onboard_time": 1673075970,
       "rank": 11,
@@ -89,6 +89,14 @@
       "onboard_time": 1673017413,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1254936,
+      "num": 1254936,
+      "word": "姐姐 我们还有好久好久",
+      "onboard_time": 1673066789,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1244647,
@@ -115,20 +123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1164120,
+      "num": 1164120,
+      "word": "医生称超30%阳康可能面临脱发风险",
+      "onboard_time": 1673078489,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1152279,
       "num": 553052,
       "word": "王俊凯易烊千玺刘耀文今日营业照",
       "onboard_time": 1673074949,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1099306,
-      "num": 1099306,
-      "word": "姐姐 我们还有好久好久",
-      "onboard_time": 1673066789,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 1066371,
@@ -153,6 +161,14 @@
       "onboard_time": 1673068651,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 910315,
+      "num": 910315,
+      "word": "张小斐说真不是故意就手有点滑",
+      "onboard_time": 1673077051,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 901431,
@@ -193,14 +209,6 @@
       "onboard_time": 1673020290,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 802787,
-      "num": 802787,
-      "word": "医生称超30%阳康可能面临脱发风险",
-      "onboard_time": 1673078489,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 774163,
@@ -547,14 +555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 434420,
-      "num": 434420,
-      "word": "张小斐说真不是故意就手有点滑",
-      "onboard_time": 1673077051,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 430146,
       "num": 385541,
       "word": "爸爸几十年如一日每天等妈妈下班",
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 395506,
-      "num": 251302,
+      "num": 251525,
       "word": "汪苏泷录歌偶遇王源杨丞琳",
       "onboard_time": 1673075430,
       "rank": 41,
@@ -649,6 +649,14 @@
       "onboard_time": 1673057548,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358673,
+      "num": 250897,
+      "word": "向风而行直播",
+      "onboard_time": 1673079990,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 357336,
@@ -779,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282395,
+      "num": 282395,
+      "word": "农村地区疫情防控情况",
+      "onboard_time": 1673076750,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276412,
       "num": 234200,
       "word": "浪莎发文向郎朗吉娜道歉",
@@ -843,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264729,
+      "num": 141184,
+      "word": "王一博无名仪态",
+      "onboard_time": 1673079511,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 264242,
       "num": 239955,
       "word": "吴彦姝感谢李现带着她的照片",
@@ -899,14 +923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 251916,
-      "num": 251916,
-      "word": "农村地区疫情防控情况",
-      "onboard_time": 1673076750,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250779,
       "num": 250779,
       "word": "胡鑫宇失踪事件暂未立为刑案",
@@ -915,8 +931,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248440,
-      "num": 248440,
+      "raw_hot": 250300,
+      "num": 140918,
+      "word": "张彬彬给小司藤新剧打call",
+      "onboard_time": 1673080353,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 248470,
+      "num": 248470,
       "word": "麦卡锡当选美国众议院议长",
       "onboard_time": 1673077709,
       "rank": 23,
@@ -1009,14 +1033,6 @@
       "onboard_time": 1673075911,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227382,
-      "num": 122260,
-      "word": "王一博无名仪态",
-      "onboard_time": 1673079511,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 227002,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1673017653,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200272,
+      "num": 200272,
+      "word": "睡觉没有多余动作的狗狗",
+      "onboard_time": 1673078069,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 200252,
@@ -1305,14 +1329,6 @@
       "onboard_time": 1673066188,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 164635,
-      "num": 137480,
-      "word": "睡觉没有多余动作的狗狗",
-      "onboard_time": 1673078069,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 164178,
@@ -1777,6 +1793,14 @@
       "onboard_time": 1673016754,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98445,
+      "num": 98445,
+      "word": "陈雪涛声讨罗永浩",
+      "onboard_time": 1673080410,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 93924,
