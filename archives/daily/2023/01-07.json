@@ -1,6 +1,6 @@
 {
   "startTime": 1673022390574,
-  "endTime": 1673100921654,
+  "endTime": 1673101995252,
   "band_list": [
     {
       "raw_hot": 2529517,
@@ -9,6 +9,14 @@
       "onboard_time": 1673061628,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2077791,
+      "num": 2077791,
+      "word": "迪丽热巴年后进组",
+      "onboard_time": 1673101115,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2030918,
@@ -531,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 615792,
+      "num": 615792,
+      "word": "向风而行收视率破2",
+      "onboard_time": 1673100212,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 614449,
       "num": 487361,
       "word": "虞书欣的学院风造型",
@@ -627,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563349,
+      "num": 466834,
+      "word": "戴佩妮吴克群 嗑到了",
+      "onboard_time": 1673099012,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 562400,
       "num": 562400,
       "word": "一诺走秀",
@@ -643,20 +667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536867,
-      "num": 536867,
+      "raw_hot": 538071,
+      "num": 538071,
       "word": "老赖不还债花330万买彩票获刑5年",
       "onboard_time": 1673097511,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 532745,
-      "num": 446887,
-      "word": "戴佩妮吴克群 嗑到了",
-      "onboard_time": 1673099012,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 528155,
@@ -716,7 +732,7 @@
     },
     {
       "raw_hot": 512326,
-      "num": 445836,
+      "num": 465483,
       "word": "朴宰范田小娟徐东贤合作舞台",
       "onboard_time": 1673100395,
       "rank": 11,
@@ -785,6 +801,22 @@
       "onboard_time": 1673060787,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 474124,
+      "num": 463812,
+      "word": "沈月入行第一部戏的片酬被偷",
+      "onboard_time": 1673100395,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 471529,
+      "num": 471529,
+      "word": "男子在滚烫红糖锅内徒手抓糖",
+      "onboard_time": 1673099314,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465296,
@@ -899,14 +931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 431384,
-      "num": 253960,
-      "word": "向风而行收视率破2",
-      "onboard_time": 1673100212,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 430146,
       "num": 385541,
       "word": "爸爸几十年如一日每天等妈妈下班",
@@ -993,6 +1017,14 @@
       "onboard_time": 1673083772,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 398128,
+      "num": 281897,
+      "word": "张杰新歌蕾拉首唱舞台像拍MV",
+      "onboard_time": 1673100694,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 395506,
@@ -1139,19 +1171,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350250,
+      "num": 350250,
+      "word": "国乒能否获得世乒赛满额席位",
+      "onboard_time": 1673100212,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 347659,
       "num": 205752,
       "word": "黄明昊AngelLove金发舞台",
       "onboard_time": 1673099554,
       "rank": 31,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 344714,
-      "num": 205462,
-      "word": "张杰新歌蕾拉首唱舞台像拍MV",
-      "onboard_time": 1673100694,
-      "rank": 32,
       "category": "音乐"
     },
     {
@@ -1219,6 +1251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 322308,
+      "num": 139314,
+      "word": "王凯猫耳错位图",
+      "onboard_time": 1673101594,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321557,
       "num": 155317,
       "word": "崔胜澈金唱片黑发卷毛造型",
@@ -1275,14 +1315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 307173,
-      "num": 307173,
-      "word": "男子在滚烫红糖锅内徒手抓糖",
-      "onboard_time": 1673099314,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298850,
       "num": 298850,
       "word": "胡鑫宇妈妈坚持称孩子已被害",
@@ -1296,6 +1328,14 @@
       "word": "信阳警方回应优衣库试衣间事件",
       "onboard_time": 1673007390,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295304,
+      "num": 295304,
+      "word": "贪官多年布局海景别墅项目洗钱",
+      "onboard_time": 1673099135,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1331,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286495,
-      "num": 182701,
-      "word": "沈月入行第一部戏的片酬被偷",
-      "onboard_time": 1673100395,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 286363,
       "num": 286363,
       "word": "未发现胡某宇在校内被害或自杀证据",
@@ -1363,6 +1395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282459,
+      "num": 282459,
+      "word": "狗狗做错事的表情太明显了",
+      "onboard_time": 1673098411,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 282395,
       "num": 282395,
       "word": "农村地区疫情防控情况",
@@ -1371,20 +1411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281359,
+      "num": 281359,
+      "word": "狗狗累了不走主人树枝作轿抬回家",
+      "onboard_time": 1673100094,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277361,
+      "num": 135106,
+      "word": "treasure获金唱片最佳组合",
+      "onboard_time": 1673101956,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 276412,
       "num": 234200,
       "word": "浪莎发文向郎朗吉娜道歉",
       "onboard_time": 1673008411,
       "rank": 20,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 275631,
-      "num": 275631,
-      "word": "狗狗做错事的表情太明显了",
-      "onboard_time": 1673098411,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 275480,
@@ -1608,14 +1656,6 @@
       "word": "主人阳性休息狗子帮忙看店卖货",
       "onboard_time": 1673045955,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235530,
-      "num": 235530,
-      "word": "贪官多年布局海景别墅项目洗钱",
-      "onboard_time": 1673099135,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -2003,14 +2043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 166604,
-      "num": 166604,
-      "word": "国乒能否获得世乒赛满额席位",
-      "onboard_time": 1673100212,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166102,
       "num": 140424,
       "word": "去有风的地方亲情戏",
@@ -2179,14 +2211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144213,
-      "num": 144213,
-      "word": "狗狗累了不走主人树枝作轿抬回家",
-      "onboard_time": 1673100094,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143826,
       "num": 143826,
       "word": "这狗子怎么跟个人似的",
@@ -2200,6 +2224,14 @@
       "word": "原神",
       "onboard_time": 1673007450,
       "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 143538,
+      "num": 143538,
+      "word": "狼队年总首冠",
+      "onboard_time": 1673101714,
+      "rank": 38,
       "category": "游戏"
     },
     {
@@ -2233,6 +2265,14 @@
       "onboard_time": 1673021008,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139438,
+      "num": 139438,
+      "word": "成都副区长不雅聊天记录当事人另有其人",
+      "onboard_time": 1673101836,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138746,
@@ -2289,6 +2329,14 @@
       "onboard_time": 1673071048,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130400,
+      "num": 130400,
+      "word": "CBA",
+      "onboard_time": 1673101413,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 130385,
