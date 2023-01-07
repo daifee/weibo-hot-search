@@ -1,0 +1,410 @@
+{
+  "runTime": 1673059150749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1165059,
+        "num": 1165059,
+        "word": "女子表白领导被拒后每天在公司摸鱼",
+        "onboard_time": 1673053347,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817259,
+        "num": 817259,
+        "word": "广西小伙救落水者因外表引热议",
+        "onboard_time": 1673055446,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51243,
+        "num": 790625,
+        "word": "天宫是怎样炼成的",
+        "onboard_time": 1673015314,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1889554,
+        "num": 789826,
+        "word": "李宇春被问认不认识周笔畅",
+        "onboard_time": 1673056588,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785705,
+        "num": 785705,
+        "word": "超20亿人次大迁徙再现",
+        "onboard_time": 1673050644,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758345,
+        "num": 758345,
+        "word": "国考",
+        "onboard_time": 1673050104,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 659790,
+        "num": 659790,
+        "word": "无名",
+        "onboard_time": 1673058388,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 574480,
+        "num": 574480,
+        "word": "小说西北有高楼涉嫌美化南京大屠杀",
+        "onboard_time": 1673056289,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531190,
+        "num": 531190,
+        "word": "范丞丞说自己本名叫范晶",
+        "onboard_time": 1673050644,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435246,
+        "num": 435246,
+        "word": "主办方回应蓝兔子玩偶形象被吐槽",
+        "onboard_time": 1673057308,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1332355,
+        "num": 434255,
+        "word": "杨幂转发11年前微博给大家拜早年",
+        "onboard_time": 1673052085,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1095964,
+        "num": 429871,
+        "word": "21岁网红庄慕卿车祸身亡",
+        "onboard_time": 1673013212,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 512392,
+        "num": 428537,
+        "word": "新娘出嫁前到外婆病床前跪拜报喜",
+        "onboard_time": 1673056526,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423913,
+        "num": 423913,
+        "word": "张远在搞一种很新的再就业合体舞台",
+        "onboard_time": 1673055627,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 419030,
+        "num": 419030,
+        "word": "教资面试",
+        "onboard_time": 1673001813,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 385541,
+        "num": 385541,
+        "word": "爸爸几十年如一日每天等妈妈下班",
+        "onboard_time": 1673054427,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345428,
+        "num": 345428,
+        "word": "吴尊友称中国疫情数据都与国际社会分享",
+        "onboard_time": 1673057548,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339681,
+        "num": 339681,
+        "word": "没赶上高铁该咋办",
+        "onboard_time": 1673052266,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299646,
+        "num": 299646,
+        "word": "医院其他科室现状",
+        "onboard_time": 1673048721,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242027,
+        "num": 242027,
+        "word": "张文宏到访社区卫生服务中心",
+        "onboard_time": 1673047218,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315316,
+        "num": 240362,
+        "word": "唐嫣回应切胃减肥传闻",
+        "onboard_time": 1673020591,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260196,
+        "num": 239754,
+        "word": "宋亚轩北京台春晚下班路透",
+        "onboard_time": 1673059106,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258600,
+        "num": 239214,
+        "word": "网传迪丽热巴龚俊安乐传过审",
+        "onboard_time": 1673031674,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238673,
+        "num": 238673,
+        "word": "专家建议不要生吃可生食鸡蛋",
+        "onboard_time": 1673058505,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233699,
+        "num": 233699,
+        "word": "暧昧期过长的原因是什么",
+        "onboard_time": 1673020290,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252032,
+        "num": 229929,
+        "word": "杨紫晒五宫格超市随拍",
+        "onboard_time": 1673054307,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248904,
+        "num": 218779,
+        "word": "胡鑫宇妈妈坚持称孩子已被害",
+        "onboard_time": 1673013992,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205465,
+        "num": 205465,
+        "word": "蛋仔派对",
+        "onboard_time": 1673048841,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162928,
+        "num": 162928,
+        "word": "四部门发布新冠乙类乙管感染者医保政策",
+        "onboard_time": 1673052205,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162888,
+        "num": 162888,
+        "word": "95后海归小伙被父亲喊回老家种地",
+        "onboard_time": 1673057787,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243291,
+        "num": 159622,
+        "word": "中国奇谭",
+        "onboard_time": 1673047818,
+        "rank": 30,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 233150,
+        "num": 157483,
+        "word": "郭晓婷回应站过车保罗",
+        "onboard_time": 1673050885,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180369,
+        "num": 156985,
+        "word": "姚晨和朋友打电话状态演我",
+        "onboard_time": 1673058989,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154814,
+        "num": 154814,
+        "word": "塔利班官员称英哈里王子该被送上国际法庭",
+        "onboard_time": 1673058027,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 136080,
+        "num": 136080,
+        "word": "C罗无缘大名单",
+        "onboard_time": 1673019033,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176718,
+        "num": 135969,
+        "word": "邓超 人缘",
+        "onboard_time": 1673017833,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128436,
+        "num": 128436,
+        "word": "主人阳性休息狗子帮忙看店卖货",
+        "onboard_time": 1673045955,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127011,
+        "num": 127011,
+        "word": "茅台董事长现场带货冰淇淋",
+        "onboard_time": 1673023764,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125027,
+        "num": 125027,
+        "word": "C罗为塔利斯卡鼓掌",
+        "onboard_time": 1673058447,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120940,
+        "num": 120940,
+        "word": "男子心疼妻子生娃产房外哭到抽泣",
+        "onboard_time": 1673045836,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158853,
+        "num": 119148,
+        "word": "谢之遥听到许红豆孵出小鸡的表情",
+        "onboard_time": 1673055385,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144173,
+        "num": 118874,
+        "word": "马嘉祺北京台春晚下班和粉丝挥手再见",
+        "onboard_time": 1673055027,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116238,
+        "num": 116238,
+        "word": "冯鹤年被开除党籍",
+        "onboard_time": 1673039772,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114501,
+        "num": 114501,
+        "word": "鹅鸭杀 服务器",
+        "onboard_time": 1673012374,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99084,
+        "num": 99084,
+        "word": "北京小伙第1次去女友家",
+        "onboard_time": 1673012733,
+        "rank": 44,
+        "category": "情感,情感"
+      },
+      {
+        "raw_hot": 97278,
+        "num": 97278,
+        "word": "张伯礼院士分享两个止咳小偏方",
+        "onboard_time": 1673044994,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95680,
+        "num": 95680,
+        "word": "突发心慌心悸警惕病毒性心肌炎",
+        "onboard_time": 1673058866,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92360,
+        "num": 92360,
+        "word": "2023LPL",
+        "onboard_time": 1673059049,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91631,
+        "num": 91631,
+        "word": "看得出来他真的不想撒谎",
+        "onboard_time": 1673052026,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89975,
+        "num": 89975,
+        "word": "信阳警方回应优衣库试衣间事件",
+        "onboard_time": 1673007390,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023中国航天全年发射将再破60次#"
+    }
+  }
+}
