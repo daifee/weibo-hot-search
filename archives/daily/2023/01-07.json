@@ -1,6 +1,6 @@
 {
   "startTime": 1673022390574,
-  "endTime": 1673104641226,
+  "endTime": 1673105596330,
   "band_list": [
     {
       "raw_hot": 2529517,
@@ -43,7 +43,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1813478,
+      "raw_hot": 1817300,
       "num": 1813478,
       "word": "成都副区长不雅聊天记录当事人另有其人",
       "onboard_time": 1673101836,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1652794,
+      "num": 1652794,
+      "word": "玲娜贝儿被游客拍头",
+      "onboard_time": 1673102674,
+      "rank": 1,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1545690,
       "num": 1545690,
       "word": "超20亿人次大迁徙再现",
@@ -121,14 +129,6 @@
       "onboard_time": 1673062229,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1439511,
-      "num": 1439511,
-      "word": "玲娜贝儿被游客拍头",
-      "onboard_time": 1673102674,
-      "rank": 1,
-      "category": "动漫"
     },
     {
       "raw_hot": 1263481,
@@ -219,20 +219,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1022172,
+      "num": 1022172,
+      "word": "你好星期六下期预告没有冯禧",
+      "onboard_time": 1673103035,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1007744,
       "num": 1007744,
       "word": "孟美岐演唱会",
       "onboard_time": 1673095352,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 995255,
-      "num": 995255,
-      "word": "你好星期六下期预告没有冯禧",
-      "onboard_time": 1673103035,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 992586,
@@ -515,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 654792,
+      "num": 654792,
+      "word": "Lisa曼谷演唱会LALISA舞台",
+      "onboard_time": 1673104532,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 651475,
       "num": 651475,
       "word": "小说西北有高楼涉嫌美化南京大屠杀",
@@ -763,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 521248,
+      "num": 359491,
+      "word": "俄议员建议从中国回购辽宁舰",
+      "onboard_time": 1673104237,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
       "raw_hot": 520120,
       "num": 520120,
       "word": "DRG 挂牌",
@@ -800,14 +816,6 @@
       "word": "朴宰范田小娟徐东贤合作舞台",
       "onboard_time": 1673100395,
       "rank": 11,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 510230,
-      "num": 271908,
-      "word": "Lisa曼谷演唱会LALISA舞台",
-      "onboard_time": 1673104532,
-      "rank": 20,
       "category": "音乐"
     },
     {
@@ -1187,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368058,
+      "num": 368058,
+      "word": "央视对话阿里张勇谈2023年最大机会",
+      "onboard_time": 1673103515,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364355,
       "num": 275078,
       "word": "白鹿脖子上挂了一串小熊",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1673100094,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350355,
+      "num": 243580,
+      "word": "敖子逸承受了这个年纪不该有的黑",
+      "onboard_time": 1673105073,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 350250,
@@ -1651,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257456,
+      "num": 257456,
+      "word": "小土狗真的很可爱",
+      "onboard_time": 1673102975,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254534,
       "num": 217584,
       "word": "你好星期六全员晒00年代金曲歌单",
@@ -1763,28 +1795,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233790,
-      "num": 233790,
-      "word": "央视对话阿里张勇谈2023年最大机会",
-      "onboard_time": 1673103515,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233717,
       "num": 234046,
       "word": "23岁女医学生捐器官让5人重获新生",
       "onboard_time": 1673073687,
       "rank": 17,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 233233,
-      "num": 233233,
-      "word": "小土狗真的很可爱",
-      "onboard_time": 1673102975,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 233150,
@@ -2139,6 +2155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171287,
+      "num": 171287,
+      "word": "曝马丁内斯执教葡萄牙队",
+      "onboard_time": 1673103394,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167973,
       "num": 236364,
       "word": "男子坐火车吃东西垃圾扔满地",
@@ -2217,14 +2241,6 @@
       "onboard_time": 1673072128,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161515,
-      "num": 161515,
-      "word": "曝马丁内斯执教葡萄牙队",
-      "onboard_time": 1673103394,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 160718,
@@ -2347,14 +2363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 142038,
-      "num": 142038,
-      "word": "俄议员建议从中国回购辽宁舰",
-      "onboard_time": 1673104237,
-      "rank": 37,
-      "category": "军事"
-    },
-    {
       "raw_hot": 141465,
       "num": 130105,
       "word": "李现拍吃桃子的吴彦姝",
@@ -2425,6 +2433,30 @@
       "onboard_time": 1673086951,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136004,
+      "num": 136004,
+      "word": "gk战队",
+      "onboard_time": 1673105371,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 135917,
+      "num": 135917,
+      "word": "一招就能解决便秘",
+      "onboard_time": 1673104473,
+      "rank": 36,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 135777,
+      "num": 135777,
+      "word": "猫咪的爱也太沉重了",
+      "onboard_time": 1673103874,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 134986,
@@ -2667,14 +2699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 109208,
-      "num": 109208,
-      "word": "猫咪的爱也太沉重了",
-      "onboard_time": 1673103874,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 108442,
       "num": 73128,
       "word": "阿杜说周深把Andy唱出三个故事",
@@ -2697,6 +2721,14 @@
       "onboard_time": 1673049322,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107045,
+      "num": 107045,
+      "word": "柯基打架点到为止",
+      "onboard_time": 1673104413,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 106922,
@@ -2761,14 +2793,6 @@
       "onboard_time": 1673080410,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 95996,
-      "num": 95996,
-      "word": "柯基打架点到为止",
-      "onboard_time": 1673104413,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 93924,

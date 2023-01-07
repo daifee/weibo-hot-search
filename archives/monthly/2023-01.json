@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673104641226,
+  "endTime": 1673105596330,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -515,7 +515,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1813478,
+      "raw_hot": 1817300,
       "num": 1813478,
       "word": "成都副区长不雅聊天记录当事人另有其人",
       "onboard_time": 1673101836,
@@ -713,6 +713,14 @@
       "onboard_time": 1673013992,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1652794,
+      "num": 1652794,
+      "word": "玲娜贝儿被游客拍头",
+      "onboard_time": 1673102674,
+      "rank": 1,
+      "category": "动漫"
     },
     {
       "raw_hot": 1624302,
@@ -985,14 +993,6 @@
       "onboard_time": 1673062229,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1439511,
-      "num": 1439511,
-      "word": "玲娜贝儿被游客拍头",
-      "onboard_time": 1673102674,
-      "rank": 1,
-      "category": "动漫"
     },
     {
       "raw_hot": 1437942,
@@ -1803,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1022172,
+      "num": 1022172,
+      "word": "你好星期六下期预告没有冯禧",
+      "onboard_time": 1673103035,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1014824,
       "num": 1014824,
       "word": "原来穿制服真的会加分",
@@ -1889,14 +1897,6 @@
       "onboard_time": 1672720590,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 995255,
-      "num": 995255,
-      "word": "你好星期六下期预告没有冯禧",
-      "onboard_time": 1673103035,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 992586,
@@ -3651,6 +3651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 654792,
+      "num": 654792,
+      "word": "Lisa曼谷演唱会LALISA舞台",
+      "onboard_time": 1673104532,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 654706,
       "num": 654706,
       "word": "微博杯 解说",
@@ -4987,6 +4995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 521248,
+      "num": 359491,
+      "word": "俄议员建议从中国回购辽宁舰",
+      "onboard_time": 1673104237,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
       "raw_hot": 521233,
       "num": 383158,
       "word": "卿卿日常见面会阵容",
@@ -5185,14 +5201,6 @@
       "onboard_time": 1672656092,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510230,
-      "num": 271908,
-      "word": "Lisa曼谷演唱会LALISA舞台",
-      "onboard_time": 1673104532,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 510044,
@@ -7387,6 +7395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 368058,
+      "num": 368058,
+      "word": "央视对话阿里张勇谈2023年最大机会",
+      "onboard_time": 1673103515,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367793,
       "num": 283604,
       "word": "顾南亭终于长嘴了",
@@ -7833,6 +7849,14 @@
       "onboard_time": 1672730429,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350355,
+      "num": 243580,
+      "word": "敖子逸承受了这个年纪不该有的黑",
+      "onboard_time": 1673105073,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 350250,
@@ -10523,6 +10547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257456,
+      "num": 257456,
+      "word": "小土狗真的很可爱",
+      "onboard_time": 1673102975,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257062,
       "num": 257062,
       "word": "车主把AED放车上还允许破窗使用",
@@ -11323,14 +11355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233790,
-      "num": 233790,
-      "word": "央视对话阿里张勇谈2023年最大机会",
-      "onboard_time": 1673103515,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233728,
       "num": 196249,
       "word": "去有风的地方中的人情世故",
@@ -11377,14 +11401,6 @@
       "onboard_time": 1672562849,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233233,
-      "num": 233233,
-      "word": "小土狗真的很可爱",
-      "onboard_time": 1673102975,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 233150,
@@ -13843,6 +13859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171287,
+      "num": 171287,
+      "word": "曝马丁内斯执教葡萄牙队",
+      "onboard_time": 1673103394,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171203,
       "num": 171203,
       "word": "青海15岁女孩独自到南京会网友",
@@ -14289,14 +14313,6 @@
       "onboard_time": 1672650929,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161515,
-      "num": 161515,
-      "word": "曝马丁内斯执教葡萄牙队",
-      "onboard_time": 1673103394,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 161069,
@@ -15091,14 +15107,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 142038,
-      "num": 142038,
-      "word": "俄议员建议从中国回购辽宁舰",
-      "onboard_time": 1673104237,
-      "rank": 37,
-      "category": "军事"
-    },
-    {
       "raw_hot": 141970,
       "num": 418534,
       "word": "这就是吃了打印机的手吧",
@@ -15387,12 +15395,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136004,
+      "num": 136004,
+      "word": "gk战队",
+      "onboard_time": 1673105371,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135931,
       "num": 135931,
       "word": "王一博说无名定档大年初一",
       "onboard_time": 1672516874,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135917,
+      "num": 135917,
+      "word": "一招就能解决便秘",
+      "onboard_time": 1673104473,
+      "rank": 36,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 135777,
+      "num": 135777,
+      "word": "猫咪的爱也太沉重了",
+      "onboard_time": 1673103874,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 135757,
@@ -16491,14 +16523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 109208,
-      "num": 109208,
-      "word": "猫咪的爱也太沉重了",
-      "onboard_time": 1673103874,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 108710,
       "num": 108710,
       "word": "8岁妹妹给姐姐看记仇日记",
@@ -16593,6 +16617,14 @@
       "onboard_time": 1672537113,
       "rank": 43,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 107045,
+      "num": 107045,
+      "word": "柯基打架点到为止",
+      "onboard_time": 1673104413,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 106965,
@@ -17001,14 +17033,6 @@
       "onboard_time": 1672965869,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95996,
-      "num": 95996,
-      "word": "柯基打架点到为止",
-      "onboard_time": 1673104413,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 95249,
