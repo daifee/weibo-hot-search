@@ -1,6 +1,6 @@
 {
   "startTime": 1673022390574,
-  "endTime": 1673090045825,
+  "endTime": 1673091194662,
   "band_list": [
     {
       "raw_hot": 2529517,
@@ -195,8 +195,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 922669,
+      "num": 922669,
+      "word": "胡鑫宇家属发声",
+      "onboard_time": 1673087012,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 913650,
-      "num": 462588,
+      "num": 553814,
       "word": "迪丽热巴又顶碗了",
       "onboard_time": 1673088211,
       "rank": 10,
@@ -243,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 798035,
+      "num": 798035,
+      "word": "主持人把谭松韵叫成程松韵",
+      "onboard_time": 1673084969,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 791078,
       "num": 791078,
       "word": "狼队挂牌",
@@ -267,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 772289,
-      "num": 772289,
-      "word": "主持人把谭松韵叫成程松韵",
-      "onboard_time": 1673084969,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 769416,
       "num": 769416,
       "word": "NASA局长怕中国先登月封锁月表资源",
@@ -297,14 +305,6 @@
       "onboard_time": 1673058388,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 747485,
-      "num": 747485,
-      "word": "胡鑫宇家属发声",
-      "onboard_time": 1673087012,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 721348,
@@ -353,6 +353,14 @@
       "onboard_time": 1673073027,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 688775,
+      "num": 688775,
+      "word": "家住8楼无电梯点外卖被骂不配点",
+      "onboard_time": 1673089111,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686123,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 614449,
-      "num": 455335,
+      "num": 487361,
       "word": "虞书欣的学院风造型",
       "onboard_time": 1673089111,
       "rank": 11,
@@ -473,6 +481,14 @@
       "onboard_time": 1673081308,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 597533,
+      "num": 597533,
+      "word": "赵丽颖卷发造型梦回许半夏",
+      "onboard_time": 1673089834,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 597420,
@@ -595,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 492690,
+      "num": 492690,
+      "word": "教资面试的苦",
+      "onboard_time": 1673088452,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 488462,
       "num": 488462,
       "word": "贝克汉姆儿子加盟布伦特福德",
@@ -675,14 +699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 443377,
-      "num": 443377,
-      "word": "教资面试的苦",
-      "onboard_time": 1673088452,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 443307,
       "num": 443307,
       "word": "女孩子真的是很美好很美好",
@@ -705,6 +721,14 @@
       "onboard_time": 1673060850,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 432627,
+      "num": 432627,
+      "word": "为什么大家不爱发朋友圈了",
+      "onboard_time": 1673090069,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 430146,
@@ -875,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363767,
+      "num": 273209,
+      "word": "叶秘原型",
+      "onboard_time": 1673090732,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 358673,
       "num": 250897,
       "word": "向风而行直播",
@@ -907,6 +939,14 @@
       "category": "情感,情感"
     },
     {
+      "raw_hot": 339307,
+      "num": 184646,
+      "word": "王凯理解的两根手指",
+      "onboard_time": 1673089410,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338359,
       "num": 338359,
       "word": "万柳书院式炫富不该成为流量",
@@ -931,7 +971,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 323988,
+      "raw_hot": 332963,
+      "num": 332963,
+      "word": "大学生放假回家后的行李箱",
+      "onboard_time": 1673086834,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 325100,
       "num": 191153,
       "word": "张元英金唱片红毯造型",
       "onboard_time": 1673088514,
@@ -945,14 +993,6 @@
       "onboard_time": 1673023344,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 320554,
-      "num": 187767,
-      "word": "赵丽颖卷发造型梦回许半夏",
-      "onboard_time": 1673089834,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 318545,
@@ -987,14 +1027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 308504,
-      "num": 308504,
-      "word": "大学生放假回家后的行李箱",
-      "onboard_time": 1673086834,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 298850,
       "num": 298850,
       "word": "胡鑫宇妈妈坚持称孩子已被害",
@@ -1009,14 +1041,6 @@
       "onboard_time": 1673007390,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296300,
-      "num": 184646,
-      "word": "王凯理解的两根手指",
-      "onboard_time": 1673089410,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 293431,
@@ -1145,14 +1169,6 @@
       "onboard_time": 1673079511,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 264316,
-      "num": 264316,
-      "word": "家住8楼无电梯点外卖被骂不配点",
-      "onboard_time": 1673089111,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264242,
@@ -1843,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137831,
+      "num": 154081,
+      "word": "春节将迎来脱发高峰期",
+      "onboard_time": 1673090610,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136925,
       "num": 95312,
       "word": "许红豆为谢之遥鼓掌",
@@ -2139,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100511,
+      "num": 149235,
+      "word": "缉毒警察用牺牲战友名字作化名",
+      "onboard_time": 1673090433,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98907,
       "num": 139952,
       "word": "一笙明锅发文感谢Hero",
@@ -2193,6 +2225,14 @@
       "onboard_time": 1673082452,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 78219,
+      "num": 145933,
+      "word": "多音梗又得一分",
+      "onboard_time": 1673091093,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 77090,
