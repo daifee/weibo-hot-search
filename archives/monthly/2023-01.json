@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673076796714,
+  "endTime": 1673079732596,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -1147,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1263481,
+      "num": 886552,
+      "word": "疑因婆婆怀孕女子被要求打胎",
+      "onboard_time": 1673075970,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1259820,
       "num": 1259820,
       "word": "妻子终止妊娠仅17天丈夫起诉离婚",
@@ -1428,7 +1436,7 @@
     },
     {
       "raw_hot": 1152279,
-      "num": 487146,
+      "num": 553052,
       "word": "王俊凯易烊千玺刘耀文今日营业照",
       "onboard_time": 1673074949,
       "rank": 10,
@@ -1536,6 +1544,14 @@
       "word": "棣欣引力",
       "onboard_time": 1672963467,
       "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1099306,
+      "num": 1099306,
+      "word": "姐姐 我们还有好久好久",
+      "onboard_time": 1673066789,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -1873,14 +1889,6 @@
       "onboard_time": 1672672895,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 967169,
-      "num": 967169,
-      "word": "姐姐 我们还有好久好久",
-      "onboard_time": 1673066789,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 965816,
@@ -2560,6 +2568,14 @@
       "word": "信阳警方回应优衣库试衣间事件",
       "onboard_time": 1673007390,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 802787,
+      "num": 802787,
+      "word": "医生称超30%阳康可能面临脱发风险",
+      "onboard_time": 1673078489,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -3531,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 643102,
+      "num": 643102,
+      "word": "想见你",
+      "onboard_time": 1672641209,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 642077,
       "num": 642077,
       "word": "女子吐槽68元一盘羊肉只有几片",
@@ -3729,6 +3753,14 @@
       "onboard_time": 1672807955,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 611589,
+      "num": 611589,
+      "word": "马龙 比赛",
+      "onboard_time": 1673077590,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 611310,
@@ -4081,6 +4113,14 @@
       "onboard_time": 1672829010,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 578145,
+      "num": 578145,
+      "word": "诗酒退役",
+      "onboard_time": 1673078251,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 577235,
@@ -5267,14 +5307,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 467117,
-      "num": 467117,
-      "word": "疑因婆婆怀孕女子被要求打胎",
-      "onboard_time": 1673075970,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 466486,
       "num": 373190,
       "word": "张远巡演现场有粉丝求婚",
@@ -5649,6 +5681,14 @@
       "onboard_time": 1672799846,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434420,
+      "num": 434420,
+      "word": "张小斐说真不是故意就手有点滑",
+      "onboard_time": 1673077051,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 433786,
@@ -6260,7 +6300,7 @@
     },
     {
       "raw_hot": 395506,
-      "num": 226445,
+      "num": 251302,
       "word": "汪苏泷录歌偶遇王源杨丞琳",
       "onboard_time": 1673075430,
       "rank": 41,
@@ -7043,6 +7083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357336,
+      "num": 250183,
+      "word": "SEVENTEEN夫硕顺小队确定2月回归",
+      "onboard_time": 1673079270,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356899,
       "num": 356899,
       "word": "全球每5双运动鞋有1双来自晋江",
@@ -7569,6 +7617,14 @@
       "onboard_time": 1672921897,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 333168,
+      "num": 249689,
+      "word": "谢之遥被全村催婚",
+      "onboard_time": 1673078670,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 333042,
@@ -9099,6 +9155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276091,
+      "num": 145689,
+      "word": "徐璐说数了数不多也就被挂了7次而已",
+      "onboard_time": 1673079149,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275515,
       "num": 193515,
       "word": "邓超孙俪中国乒乓同框镜头",
@@ -9923,6 +9987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251916,
+      "num": 251916,
+      "word": "农村地区疫情防控情况",
+      "onboard_time": 1673076750,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251639,
       "num": 251639,
       "word": "乡村爱情15",
@@ -10017,6 +10089,14 @@
       "onboard_time": 1672556189,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248440,
+      "num": 248440,
+      "word": "麦卡锡当选美国众议院议长",
+      "onboard_time": 1673077709,
+      "rank": 23,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 248207,
@@ -10753,6 +10833,14 @@
       "onboard_time": 1672996231,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227382,
+      "num": 122260,
+      "word": "王一博无名仪态",
+      "onboard_time": 1673079511,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 227002,
@@ -11825,6 +11913,14 @@
       "onboard_time": 1672623868,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195498,
+      "num": 195498,
+      "word": "TTG钎城挂牌",
+      "onboard_time": 1673076449,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 195425,
@@ -12995,14 +13091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169514,
-      "num": 169514,
-      "word": "想见你",
-      "onboard_time": 1672641209,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 169338,
       "num": 169338,
       "word": "盗取并泄露他人信息要承担什么责任",
@@ -13177,6 +13265,14 @@
       "onboard_time": 1672591944,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164635,
+      "num": 137480,
+      "word": "睡觉没有多余动作的狗狗",
+      "onboard_time": 1673078069,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 164545,
@@ -14120,14 +14216,6 @@
       "word": "2022王者世冠KIC",
       "onboard_time": 1672834290,
       "rank": 36,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 141980,
-      "num": 141980,
-      "word": "TTG钎城挂牌",
-      "onboard_time": 1673076449,
-      "rank": 37,
       "category": "游戏"
     },
     {
@@ -15171,6 +15259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117576,
+      "num": 117576,
+      "word": "WTT",
+      "onboard_time": 1673076809,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117369,
       "num": 117369,
       "word": "在母爱和护食之间挣扎",
@@ -15665,14 +15761,6 @@
       "onboard_time": 1673067569,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 103106,
-      "num": 103106,
-      "word": "农村地区疫情防控情况",
-      "onboard_time": 1673076750,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102937,
