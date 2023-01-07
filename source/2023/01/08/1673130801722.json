@@ -1,0 +1,410 @@
+{
+  "runTime": 1673130801722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 215523,
+        "num": 215523,
+        "word": "你能接受婚前同居的恋爱吗",
+        "onboard_time": 1673107170,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152167,
+        "num": 152167,
+        "word": "俄议员建议从中国回购辽宁舰",
+        "onboard_time": 1673104237,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 3218,
+        "num": 130609,
+        "word": "春运健康出行防护指南",
+        "onboard_time": 1673063609,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128012,
+        "num": 128012,
+        "word": "妈妈嫌儿子相亲照太生硬做成视频",
+        "onboard_time": 1673108668,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127636,
+        "num": 127636,
+        "word": "玲娜贝儿被游客拍头",
+        "onboard_time": 1673102674,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 92890,
+        "num": 92890,
+        "word": "母亲去世3年仍有疫苗接种记录",
+        "onboard_time": 1673109565,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84349,
+        "num": 84349,
+        "word": "Lisa泰国人气",
+        "onboard_time": 1673107050,
+        "rank": 6,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 67399,
+        "num": 67399,
+        "word": "为什么大家不爱发朋友圈了",
+        "onboard_time": 1673090069,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61050,
+        "num": 61050,
+        "word": "我读懂了张婉婷",
+        "onboard_time": 1673106270,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60217,
+        "num": 60217,
+        "word": "杜锋呼吁不要让CBA变成罚篮比赛",
+        "onboard_time": 1673108069,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 218814,
+        "num": 57994,
+        "word": "马云不再是蚂蚁集团实际控制人",
+        "onboard_time": 1673108965,
+        "rank": 10,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 104409,
+        "num": 57100,
+        "word": "官方回应高铁站人员疑似摆拍",
+        "onboard_time": 1673125571,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76951,
+        "num": 54027,
+        "word": "学者发现2.52亿年前陆地生物大灭绝元凶",
+        "onboard_time": 1673111302,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62090,
+        "num": 52202,
+        "word": "在北京买房两居变两层",
+        "onboard_time": 1673107467,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50510,
+        "num": 50510,
+        "word": "11年前13岁女孩上学路上失踪至今",
+        "onboard_time": 1673121672,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49453,
+        "num": 49453,
+        "word": "原来猫会被猫嫌弃",
+        "onboard_time": 1673106329,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42653,
+        "num": 42653,
+        "word": "央视对话阿里张勇谈2023年最大机会",
+        "onboard_time": 1673103515,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42147,
+        "num": 42147,
+        "word": "你好星期六下期预告没有冯禧",
+        "onboard_time": 1673103035,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41777,
+        "num": 41777,
+        "word": "鞠婧祎脸好小",
+        "onboard_time": 1673109565,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39255,
+        "num": 39255,
+        "word": "三体",
+        "onboard_time": 1673107290,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 35927,
+        "num": 35927,
+        "word": "鸟叔再跳江南style",
+        "onboard_time": 1673106451,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33658,
+        "num": 33658,
+        "word": "阿里为全国60多万村捐赠血氧仪",
+        "onboard_time": 1673095950,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31720,
+        "num": 31720,
+        "word": "王鹤棣片场买烤肠吃",
+        "onboard_time": 1673103215,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31338,
+        "num": 31338,
+        "word": "狗狗累了不走主人树枝作轿抬回家",
+        "onboard_time": 1673100094,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31009,
+        "num": 31009,
+        "word": "教资面试的苦",
+        "onboard_time": 1673088452,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 30422,
+        "num": 30422,
+        "word": "家住8楼无电梯点外卖被骂不配点",
+        "onboard_time": 1673089111,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29081,
+        "num": 29081,
+        "word": "孟美岐演唱会",
+        "onboard_time": 1673095352,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27115,
+        "num": 27115,
+        "word": "王嘉尔说我感激所有的评价",
+        "onboard_time": 1673110823,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26840,
+        "num": 26840,
+        "word": "孙女连夜回国陪病重爷爷发现他在炫饭",
+        "onboard_time": 1673091810,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26322,
+        "num": 26322,
+        "word": "老年人感染新冠后不一定发烧",
+        "onboard_time": 1673084250,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46556,
+        "num": 26215,
+        "word": "贪官迷恋当官被中专学历骗子骗了20年",
+        "onboard_time": 1673126893,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25882,
+        "num": 25882,
+        "word": "SEVENTEEN今日金唱片舞台",
+        "onboard_time": 1673105793,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25498,
+        "num": 25498,
+        "word": "宫心计全员恶女飙戏",
+        "onboard_time": 1673121373,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25258,
+        "num": 25349,
+        "word": "戴佩妮吴克群 嗑到了",
+        "onboard_time": 1673099012,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25278,
+        "num": 25278,
+        "word": "老赖不还债花330万买彩票获刑5年",
+        "onboard_time": 1673097511,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24228,
+        "num": 24228,
+        "word": "男子在滚烫红糖锅内徒手抓糖",
+        "onboard_time": 1673099314,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22904,
+        "num": 22904,
+        "word": "沈月入行第一部戏的片酬被偷",
+        "onboard_time": 1673100395,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22833,
+        "num": 22833,
+        "word": "惠英红佘诗曼演吵架吓到薛凯琪",
+        "onboard_time": 1673106991,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21907,
+        "num": 21907,
+        "word": "缉毒警察用牺牲战友名字作化名",
+        "onboard_time": 1673090433,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20892,
+        "num": 20892,
+        "word": "小土狗真的很可爱",
+        "onboard_time": 1673102975,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21760,
+        "num": 20646,
+        "word": "BLACKPINK演唱会",
+        "onboard_time": 1673093431,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21680,
+        "num": 20492,
+        "word": "张远撞脸自由女神",
+        "onboard_time": 1673112201,
+        "rank": 41,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 20334,
+        "num": 20334,
+        "word": "一招就能解决便秘",
+        "onboard_time": 1673104473,
+        "rank": 42,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 18449,
+        "num": 18449,
+        "word": "快递小哥当选中国经济年度人物特别奖",
+        "onboard_time": 1673115616,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18340,
+        "num": 18340,
+        "word": "东北人的社交能力有多强",
+        "onboard_time": 1673093431,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 18254,
+        "num": 18254,
+        "word": "车保罗说只要我还是演员就很骄傲",
+        "onboard_time": 1673129174,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18187,
+        "num": 18187,
+        "word": "曝马丁内斯执教葡萄牙队",
+        "onboard_time": 1673103394,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17563,
+        "num": 18187,
+        "word": "贪官多年布局海景别墅项目洗钱",
+        "onboard_time": 1673099135,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17209,
+        "num": 18170,
+        "word": "狼队年总首冠",
+        "onboard_time": 1673101714,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16552,
+        "num": 18164,
+        "word": "gk战队",
+        "onboard_time": 1673105371,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023春运正式开启#"
+    }
+  }
+}

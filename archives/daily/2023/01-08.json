@@ -1,6 +1,6 @@
 {
   "startTime": 1673108634444,
-  "endTime": 1673129784392,
+  "endTime": 1673130801722,
   "band_list": [
     {
       "raw_hot": 1647435,
@@ -435,20 +435,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 104409,
+      "num": 57100,
+      "word": "官方回应高铁站人员疑似摆拍",
+      "onboard_time": 1673125571,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100297,
       "num": 105988,
       "word": "国乒能否获得世乒赛满额席位",
       "onboard_time": 1673100212,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85858,
-      "num": 45780,
-      "word": "官方回应高铁站人员疑似摆拍",
-      "onboard_time": 1673125571,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85393,
@@ -515,6 +515,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50510,
+      "num": 50510,
+      "word": "11年前13岁女孩上学路上失踪至今",
+      "onboard_time": 1673121672,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46556,
+      "num": 26215,
+      "word": "贪官迷恋当官被中专学历骗子骗了20年",
+      "onboard_time": 1673126893,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39529,
       "num": 29650,
       "word": "宋雨琦金唱片红毯粉裙造型",
@@ -523,20 +539,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 39271,
-      "num": 23734,
-      "word": "贪官迷恋当官被中专学历骗子骗了20年",
-      "onboard_time": 1673126893,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38701,
-      "num": 38701,
-      "word": "11年前13岁女孩上学路上失踪至今",
-      "onboard_time": 1673121672,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 25498,
+      "num": 25498,
+      "word": "宫心计全员恶女飙戏",
+      "onboard_time": 1673121373,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 24978,
@@ -547,11 +555,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 24719,
-      "num": 23732,
-      "word": "宫心计全员恶女飙戏",
-      "onboard_time": 1673121373,
-      "rank": 35,
+      "raw_hot": 18254,
+      "num": 18254,
+      "word": "车保罗说只要我还是演员就很骄傲",
+      "onboard_time": 1673129174,
+      "rank": 45,
       "category": "综艺"
     },
     {
