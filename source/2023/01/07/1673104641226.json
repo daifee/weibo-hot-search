@@ -1,0 +1,410 @@
+{
+  "runTime": 1673104641226,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1813478,
+        "num": 1813478,
+        "word": "成都副区长不雅聊天记录当事人另有其人",
+        "onboard_time": 1673101836,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1439511,
+        "num": 1439511,
+        "word": "玲娜贝儿被游客拍头",
+        "onboard_time": 1673102674,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 16041,
+        "num": 1051281,
+        "word": "春运健康出行防护指南",
+        "onboard_time": 1673063609,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 995255,
+        "num": 995255,
+        "word": "你好星期六下期预告没有冯禧",
+        "onboard_time": 1673103035,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 951353,
+        "num": 951353,
+        "word": "为什么大家不爱发朋友圈了",
+        "onboard_time": 1673090069,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 700849,
+        "num": 700849,
+        "word": "SEVENTEEN获金唱片最佳表演奖赏",
+        "onboard_time": 1673102793,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 639175,
+        "num": 639175,
+        "word": "网友撞声刘亦菲许红豆",
+        "onboard_time": 1673102855,
+        "rank": 6,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 528623,
+        "num": 528623,
+        "word": "男子在滚烫红糖锅内徒手抓糖",
+        "onboard_time": 1673099314,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488277,
+        "num": 488277,
+        "word": "医生称超30%阳康可能面临脱发风险",
+        "onboard_time": 1673078489,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413318,
+        "num": 413318,
+        "word": "成都涉不雅聊天干部被建议免职",
+        "onboard_time": 1673086592,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732152,
+        "num": 406901,
+        "word": "王鹤棣片场买烤肠吃",
+        "onboard_time": 1673103215,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 556416,
+        "num": 405707,
+        "word": "沈月入行第一部戏的片酬被偷",
+        "onboard_time": 1673100395,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 520766,
+        "num": 401363,
+        "word": "戴佩妮吴克群 嗑到了",
+        "onboard_time": 1673099012,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389828,
+        "num": 389828,
+        "word": "狼队年总首冠",
+        "onboard_time": 1673101714,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 367364,
+        "num": 367364,
+        "word": "孙女连夜回国陪病重爷爷发现他在炫饭",
+        "onboard_time": 1673091810,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352955,
+        "num": 352955,
+        "word": "狗狗累了不走主人树枝作轿抬回家",
+        "onboard_time": 1673100094,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318542,
+        "num": 318542,
+        "word": "国乒能否获得世乒赛满额席位",
+        "onboard_time": 1673100212,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316538,
+        "num": 316538,
+        "word": "阿里为全国60多万村捐赠血氧仪",
+        "onboard_time": 1673095950,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294838,
+        "num": 294838,
+        "word": "老赖不还债花330万买彩票获刑5年",
+        "onboard_time": 1673097511,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288069,
+        "num": 288069,
+        "word": "贪官多年布局海景别墅项目洗钱",
+        "onboard_time": 1673099135,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510230,
+        "num": 271908,
+        "word": "Lisa曼谷演唱会LALISA舞台",
+        "onboard_time": 1673104532,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 506675,
+        "num": 259332,
+        "word": "孟美岐演唱会",
+        "onboard_time": 1673095352,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 445532,
+        "num": 253361,
+        "word": "徐明浩金唱片看粉丝的眼神",
+        "onboard_time": 1673103455,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233790,
+        "num": 233790,
+        "word": "央视对话阿里张勇谈2023年最大机会",
+        "onboard_time": 1673103515,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233233,
+        "num": 233233,
+        "word": "小土狗真的很可爱",
+        "onboard_time": 1673102975,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413597,
+        "num": 232795,
+        "word": "BLACKPINK演唱会",
+        "onboard_time": 1673093431,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229589,
+        "num": 229589,
+        "word": "老年人感染新冠后不一定发烧",
+        "onboard_time": 1673084250,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224087,
+        "num": 224087,
+        "word": "安徽一学校为学生发放100头猪",
+        "onboard_time": 1673097752,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 192954,
+        "num": 192954,
+        "word": "教资面试的苦",
+        "onboard_time": 1673088452,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188369,
+        "num": 188369,
+        "word": "家住8楼无电梯点外卖被骂不配点",
+        "onboard_time": 1673089111,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396128,
+        "num": 184038,
+        "word": "惠英红反驳吴镇宇",
+        "onboard_time": 1673102252,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368394,
+        "num": 183720,
+        "word": "向风而行收视率破2",
+        "onboard_time": 1673100212,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345508,
+        "num": 178417,
+        "word": "金珉奎舞台",
+        "onboard_time": 1673103755,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161515,
+        "num": 161515,
+        "word": "曝马丁内斯执教葡萄牙队",
+        "onboard_time": 1673103394,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155278,
+        "num": 155278,
+        "word": "狗狗做错事的表情太明显了",
+        "onboard_time": 1673098411,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151889,
+        "num": 151889,
+        "word": "今年国考约70人录取1人",
+        "onboard_time": 1673084792,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 150905,
+        "num": 150905,
+        "word": "东北人的社交能力有多强",
+        "onboard_time": 1673093431,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 142038,
+        "num": 142038,
+        "word": "俄议员建议从中国回购辽宁舰",
+        "onboard_time": 1673104237,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 129105,
+        "num": 129105,
+        "word": "卷毛猫明明很可爱",
+        "onboard_time": 1673103097,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 125821,
+        "num": 125821,
+        "word": "你能接受无电梯配送费上调吗",
+        "onboard_time": 1673099374,
+        "rank": 39,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 316126,
+        "num": 123540,
+        "word": "朴宰范田小娟徐东贤合作舞台",
+        "onboard_time": 1673100395,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 296364,
+        "num": 121336,
+        "word": "张杰演唱会现场指弹吉他版天下",
+        "onboard_time": 1673104355,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 302690,
+        "num": 120936,
+        "word": "LESSERAFIM今日金唱片舞台",
+        "onboard_time": 1673096555,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118529,
+        "num": 118529,
+        "word": "缉毒警察用牺牲战友名字作化名",
+        "onboard_time": 1673090433,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109208,
+        "num": 109208,
+        "word": "猫咪的爱也太沉重了",
+        "onboard_time": 1673103874,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106922,
+        "num": 106922,
+        "word": "这个冬天想去东北玩雪了",
+        "onboard_time": 1673103755,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 104128,
+        "num": 104128,
+        "word": "三亚一月赚回三年亏损民宿老板录音原声",
+        "onboard_time": 1673073446,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102010,
+        "num": 102010,
+        "word": "狼队挂牌",
+        "onboard_time": 1673085272,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101408,
+        "num": 101408,
+        "word": "AG挂牌Cat",
+        "onboard_time": 1673088635,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95996,
+        "num": 95996,
+        "word": "柯基打架点到为止",
+        "onboard_time": 1673104413,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中土两国友好交往翻开新篇章#"
+    }
+  }
+}
