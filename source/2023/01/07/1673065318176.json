@@ -1,0 +1,410 @@
+{
+  "runTime": 1673065318176,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2529517,
+        "num": 2529517,
+        "word": "胡鑫宇事件调查报告",
+        "onboard_time": 1673061628,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1405066,
+        "num": 1405066,
+        "word": "专家建议不要生吃可生食鸡蛋",
+        "onboard_time": 1673058505,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77102,
+        "num": 1327139,
+        "word": "春运健康出行防护指南",
+        "onboard_time": 1673063609,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1322253,
+        "num": 1322253,
+        "word": "李宇春被问认不认识周笔畅",
+        "onboard_time": 1673056588,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1220786,
+        "num": 1220786,
+        "word": "陈粒不懂乐理",
+        "onboard_time": 1673062229,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 774163,
+        "num": 774163,
+        "word": "现有信息指向胡鑫宇自行离校",
+        "onboard_time": 1673062349,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769416,
+        "num": 769416,
+        "word": "NASA局长怕中国先登月封锁月表资源",
+        "onboard_time": 1673060429,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 686123,
+        "num": 686123,
+        "word": "牛骏峰去有风的地方人设",
+        "onboard_time": 1673061988,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 543668,
+        "num": 543668,
+        "word": "女子表白领导被拒后每天在公司摸鱼",
+        "onboard_time": 1673053347,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515195,
+        "num": 515195,
+        "word": "医院回应女子做核酸收费245元",
+        "onboard_time": 1673062767,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724752,
+        "num": 509967,
+        "word": "杨幂转发11年前微博给大家拜早年",
+        "onboard_time": 1673052085,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594929,
+        "num": 502547,
+        "word": "BLACKPINK将领衔科切拉音乐节",
+        "onboard_time": 1673063669,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 488449,
+        "num": 488449,
+        "word": "电影无名官宣全阵容",
+        "onboard_time": 1673061509,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 464711,
+        "num": 464711,
+        "word": "LPL新logo好帅",
+        "onboard_time": 1673060787,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 437319,
+        "num": 437319,
+        "word": "贝克汉姆儿子加盟布伦特福德",
+        "onboard_time": 1673062107,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403763,
+        "num": 403763,
+        "word": "小说西北有高楼涉嫌美化南京大屠杀",
+        "onboard_time": 1673056289,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378568,
+        "num": 378568,
+        "word": "卢姨",
+        "onboard_time": 1673059709,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 282620,
+        "num": 282620,
+        "word": "广西小伙救落水者因外表引热议",
+        "onboard_time": 1673055446,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280696,
+        "num": 280696,
+        "word": "主办方回应蓝兔子玩偶形象被吐槽",
+        "onboard_time": 1673057308,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280385,
+        "num": 280385,
+        "word": "突发心慌心悸警惕病毒性心肌炎",
+        "onboard_time": 1673058866,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453699,
+        "num": 279643,
+        "word": "张婧仪无名眼神",
+        "onboard_time": 1673064809,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402552,
+        "num": 276063,
+        "word": "王鹤棣黄明昊李雪琴踢腿变身视频",
+        "onboard_time": 1673064985,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340567,
+        "num": 275652,
+        "word": "许红米考复旦大学许红豆考孵蛋大学",
+        "onboard_time": 1673060850,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272405,
+        "num": 272405,
+        "word": "国考",
+        "onboard_time": 1673050104,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 262973,
+        "num": 262973,
+        "word": "航拍分析胡鑫宇所在中学具体情况",
+        "onboard_time": 1673062888,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261174,
+        "num": 261174,
+        "word": "蛋仔派对",
+        "onboard_time": 1673048841,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260236,
+        "num": 260236,
+        "word": "第十版新冠防控方案重点内容",
+        "onboard_time": 1673063848,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233317,
+        "num": 233317,
+        "word": "万柳书院式炫富不该成为流量",
+        "onboard_time": 1673062710,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221311,
+        "num": 221311,
+        "word": "郑刚炮轰罗永浩",
+        "onboard_time": 1673059648,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 221119,
+        "num": 221119,
+        "word": "南京大屠杀幸存者郭林大去世",
+        "onboard_time": 1673061389,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325162,
+        "num": 221070,
+        "word": "王一博电影无名的眼神戏",
+        "onboard_time": 1673061567,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313497,
+        "num": 219452,
+        "word": "范丞丞说自己本名叫范晶",
+        "onboard_time": 1673050644,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289693,
+        "num": 218719,
+        "word": "新冠患者遗体处置按乙类传染病规定执行",
+        "onboard_time": 1673064628,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254534,
+        "num": 217584,
+        "word": "你好星期六全员晒00年代金曲歌单",
+        "onboard_time": 1673063489,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212593,
+        "num": 216753,
+        "word": "超20亿人次大迁徙再现",
+        "onboard_time": 1673050644,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245029,
+        "num": 216481,
+        "word": "白鹿脖子上挂了一串小熊",
+        "onboard_time": 1673063969,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215778,
+        "num": 215778,
+        "word": "新娘出嫁前到外婆病床前跪拜报喜",
+        "onboard_time": 1673056526,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206695,
+        "num": 206695,
+        "word": "高中语文",
+        "onboard_time": 1673060970,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174297,
+        "num": 174297,
+        "word": "2023LPL",
+        "onboard_time": 1673059049,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174011,
+        "num": 174011,
+        "word": "教资面试",
+        "onboard_time": 1673001813,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 227002,
+        "num": 173341,
+        "word": "许红豆旅行青蛙",
+        "onboard_time": 1673062949,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171627,
+        "num": 171627,
+        "word": "未发现胡某宇在校内被害或自杀证据",
+        "onboard_time": 1673065049,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191315,
+        "num": 164149,
+        "word": "李现谢之遥日常玩耍合集",
+        "onboard_time": 1673065289,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151187,
+        "num": 151187,
+        "word": "工厂老板年终奖给员工发电动车",
+        "onboard_time": 1673060550,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215142,
+        "num": 150879,
+        "word": "无名剧组又名无声剧组",
+        "onboard_time": 1673064450,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150392,
+        "num": 150392,
+        "word": "蚂蚁集团完善公司治理",
+        "onboard_time": 1673064089,
+        "rank": 45,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 125663,
+        "num": 148779,
+        "word": "天府可乐破产传闻后推出新品",
+        "onboard_time": 1673064809,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 121186,
+        "num": 148335,
+        "word": "没赶上高铁该咋办",
+        "onboard_time": 1673052266,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120856,
+        "num": 146362,
+        "word": "暧昧期过长的原因是什么",
+        "onboard_time": 1673020290,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114518,
+        "num": 143122,
+        "word": "医院其他科室现状",
+        "onboard_time": 1673048721,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023中国航天全年发射将再破60次#"
+    }
+  }
+}

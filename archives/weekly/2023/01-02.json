@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1673062411604,
+  "endTime": 1673065318176,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -137,6 +137,14 @@
       "onboard_time": 1672915230,
       "rank": 0,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2529517,
+      "num": 2529517,
+      "word": "胡鑫宇事件调查报告",
+      "onboard_time": 1673061628,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2432405,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 1889554,
-      "num": 882431,
+      "num": 1322253,
       "word": "李宇春被问认不认识周笔畅",
       "onboard_time": 1673056588,
       "rank": 3,
@@ -907,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1220786,
+      "num": 1220786,
+      "word": "陈粒不懂乐理",
+      "onboard_time": 1673062229,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1211028,
       "num": 1211028,
       "word": "贺峻霖介绍易烊千玺满江红",
@@ -1440,14 +1456,6 @@
       "word": "世界唯一女性文字来自湖南小城",
       "onboard_time": 1672660049,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 921190,
-      "num": 921190,
-      "word": "胡鑫宇事件调查报告",
-      "onboard_time": 1673061628,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2043,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 774163,
+      "num": 774163,
+      "word": "现有信息指向胡鑫宇自行离校",
+      "onboard_time": 1673062349,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 774025,
       "num": 774025,
       "word": "女生吃学校食堂热卤发现香菇上有字",
@@ -2073,6 +2089,14 @@
       "onboard_time": 1672817250,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 769416,
+      "num": 769416,
+      "word": "NASA局长怕中国先登月封锁月表资源",
+      "onboard_time": 1673060429,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 764772,
@@ -2145,14 +2169,6 @@
       "onboard_time": 1672577972,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 752821,
-      "num": 752821,
-      "word": "NASA局长怕中国先登月封锁月表资源",
-      "onboard_time": 1673060429,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 752328,
@@ -2465,6 +2481,14 @@
       "onboard_time": 1672984170,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 686123,
+      "num": 686123,
+      "word": "牛骏峰去有风的地方人设",
+      "onboard_time": 1673061988,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 683981,
@@ -2953,6 +2977,14 @@
       "onboard_time": 1672926213,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594929,
+      "num": 502547,
+      "word": "BLACKPINK将领衔科切拉音乐节",
+      "onboard_time": 1673063669,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 594526,
@@ -3707,6 +3739,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 515195,
+      "num": 515195,
+      "word": "医院回应女子做核酸收费245元",
+      "onboard_time": 1673062767,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514782,
       "num": 496348,
       "word": "易烊千玺电影三个字已完成初剪",
@@ -4283,6 +4323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 453699,
+      "num": 279643,
+      "word": "张婧仪无名眼神",
+      "onboard_time": 1673064809,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 452032,
       "num": 452032,
       "word": "郭麒麟官宣加盟最强大脑10",
@@ -4457,6 +4505,14 @@
       "onboard_time": 1672975047,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 437319,
+      "num": 437319,
+      "word": "贝克汉姆儿子加盟布伦特福德",
+      "onboard_time": 1673062107,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 436074,
@@ -4649,14 +4705,6 @@
       "onboard_time": 1672974387,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 422954,
-      "num": 422954,
-      "word": "陈粒不懂乐理",
-      "onboard_time": 1673062229,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 422861,
@@ -4897,6 +4945,14 @@
       "onboard_time": 1672659511,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402552,
+      "num": 276063,
+      "word": "王鹤棣黄明昊李雪琴踢腿变身视频",
+      "onboard_time": 1673064985,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 401965,
@@ -6275,14 +6331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321389,
-      "num": 289213,
-      "word": "牛骏峰去有风的地方人设",
-      "onboard_time": 1673061988,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 320782,
       "num": 267040,
       "word": "虞书欣妆容分享九宫格",
@@ -6961,6 +7009,14 @@
       "onboard_time": 1672805793,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 289693,
+      "num": 218719,
+      "word": "新冠患者遗体处置按乙类传染病规定执行",
+      "onboard_time": 1673064628,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289436,
@@ -7779,6 +7835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262973,
+      "num": 262973,
+      "word": "航拍分析胡鑫宇所在中学具体情况",
+      "onboard_time": 1673062888,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262932,
       "num": 166367,
       "word": "许红豆被谢之遥拉手表白的反应",
@@ -7840,6 +7904,14 @@
       "word": "老丈人酒后给女婿表演铁头功碎砖头",
       "onboard_time": 1672762344,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260236,
+      "num": 260236,
+      "word": "第十版新冠防控方案重点内容",
+      "onboard_time": 1673063848,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -8009,6 +8081,14 @@
       "onboard_time": 1672923211,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254534,
+      "num": 217584,
+      "word": "你好星期六全员晒00年代金曲歌单",
+      "onboard_time": 1673063489,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 254255,
@@ -8281,6 +8361,14 @@
       "onboard_time": 1672895013,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 245029,
+      "num": 216481,
+      "word": "白鹿脖子上挂了一串小熊",
+      "onboard_time": 1673063969,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 243573,
@@ -8587,6 +8675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233317,
+      "num": 233317,
+      "word": "万柳书院式炫富不该成为流量",
+      "onboard_time": 1673062710,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233150,
       "num": 157483,
       "word": "郭晓婷回应站过车保罗",
@@ -8779,6 +8875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227002,
+      "num": 173341,
+      "word": "许红豆旅行青蛙",
+      "onboard_time": 1673062949,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226946,
       "num": 226946,
       "word": "阳康后怎么避免二次感染",
@@ -8923,6 +9027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221119,
+      "num": 221119,
+      "word": "南京大屠杀幸存者郭林大去世",
+      "onboard_time": 1673061389,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220497,
       "num": 220497,
       "word": "KPL",
@@ -9041,6 +9153,14 @@
       "onboard_time": 1672814607,
       "rank": 27,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 215142,
+      "num": 150879,
+      "word": "无名剧组又名无声剧组",
+      "onboard_time": 1673064450,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 215097,
@@ -9739,6 +9859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191315,
+      "num": 164149,
+      "word": "李现谢之遥日常玩耍合集",
+      "onboard_time": 1673065289,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191053,
       "num": 191053,
       "word": "骑手用甄嬛传语气对话阳性顾客",
@@ -10163,14 +10291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 179827,
-      "num": 179827,
-      "word": "现有信息指向胡鑫宇自行离校",
-      "onboard_time": 1673062349,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179691,
       "num": 156214,
       "word": "肖铎哄妻进行时",
@@ -10457,6 +10577,14 @@
       "onboard_time": 1672755695,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171627,
+      "num": 171627,
+      "word": "未发现胡某宇在校内被害或自杀证据",
+      "onboard_time": 1673065049,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171516,
@@ -11241,6 +11369,14 @@
       "onboard_time": 1672847611,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150392,
+      "num": 150392,
+      "word": "蚂蚁集团完善公司治理",
+      "onboard_time": 1673064089,
+      "rank": 45,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 150094,
@@ -12067,6 +12203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125663,
+      "num": 148779,
+      "word": "天府可乐破产传闻后推出新品",
+      "onboard_time": 1673064809,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 125435,
       "num": 125435,
       "word": "为什么说要主动表达爱",
@@ -12105,14 +12249,6 @@
       "onboard_time": 1672756235,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 124568,
-      "num": 124568,
-      "word": "贝克汉姆儿子加盟布伦特福德",
-      "onboard_time": 1673062107,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 124404,
@@ -12369,14 +12505,6 @@
       "onboard_time": 1672889192,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118625,
-      "num": 118625,
-      "word": "南京大屠杀幸存者郭林大去世",
-      "onboard_time": 1673061389,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118303,
@@ -13185,6 +13313,14 @@
       "onboard_time": 1672848390,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77102,
+      "num": 1327139,
+      "word": "春运健康出行防护指南",
+      "onboard_time": 1673063609,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76907,
