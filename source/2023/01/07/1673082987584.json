@@ -1,0 +1,410 @@
+{
+  "runTime": 1673082987584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1709535,
+        "num": 1709535,
+        "word": "医生称超30%阳康可能面临脱发风险",
+        "onboard_time": 1673078489,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1274273,
+        "num": 1274273,
+        "word": "三亚一月赚回三年亏损民宿老板录音原声",
+        "onboard_time": 1673073446,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43847,
+        "num": 1186626,
+        "word": "春运健康出行防护指南",
+        "onboard_time": 1673063609,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1114101,
+        "num": 1114101,
+        "word": "张小斐说真不是故意就手有点滑",
+        "onboard_time": 1673077051,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1080225,
+        "num": 1080225,
+        "word": "姐姐 我们还有好久好久",
+        "onboard_time": 1673066789,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 933151,
+        "num": 933151,
+        "word": "张彬彬给小司藤新剧打call",
+        "onboard_time": 1673080353,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 873066,
+        "num": 873066,
+        "word": "疑因婆婆怀孕女子被要求打胎",
+        "onboard_time": 1673075970,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582429,
+        "num": 582429,
+        "word": "胡鑫宇事件调查报告",
+        "onboard_time": 1673061628,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510405,
+        "num": 510405,
+        "word": "日本宅男看动漫被打断怒杀父母",
+        "onboard_time": 1673071647,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 458097,
+        "num": 458097,
+        "word": "女子吐槽68元一盘羊肉只有几片",
+        "onboard_time": 1673072787,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610338,
+        "num": 449546,
+        "word": "顾南亭程霄结婚证",
+        "onboard_time": 1673081308,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 598147,
+        "num": 442877,
+        "word": "金唱片",
+        "onboard_time": 1673081849,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 549997,
+        "num": 439833,
+        "word": "王俊凯易烊千玺刘耀文今日营业照",
+        "onboard_time": 1673074949,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434093,
+        "num": 434093,
+        "word": "涉嫌侮辱邱少云索尼公司被禁言",
+        "onboard_time": 1673068651,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370874,
+        "num": 370874,
+        "word": "诗酒退役",
+        "onboard_time": 1673078251,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 369728,
+        "num": 369728,
+        "word": "女子看病被医生开的处方字体惊呆了",
+        "onboard_time": 1673068888,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357279,
+        "num": 357279,
+        "word": "孙景坤逝世",
+        "onboard_time": 1673080892,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324343,
+        "num": 324343,
+        "word": "阳了能不能喝咖啡",
+        "onboard_time": 1673081911,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318845,
+        "num": 318845,
+        "word": "专家建议不要生吃可生食鸡蛋",
+        "onboard_time": 1673058505,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285685,
+        "num": 285685,
+        "word": "马龙 比赛",
+        "onboard_time": 1673077590,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460946,
+        "num": 270362,
+        "word": "想见你",
+        "onboard_time": 1673078428,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381032,
+        "num": 265893,
+        "word": "刘亦菲陈晓梦华录入选2022中国电视剧选集",
+        "onboard_time": 1673081491,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335143,
+        "num": 264598,
+        "word": "张婧仪无名眼神",
+        "onboard_time": 1673064809,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244756,
+        "num": 244756,
+        "word": "农村地区疫情防控情况",
+        "onboard_time": 1673076750,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231416,
+        "num": 231416,
+        "word": "睡觉没有多余动作的狗狗",
+        "onboard_time": 1673078069,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 211532,
+        "num": 211532,
+        "word": "男子半夜种菜为给女友买房",
+        "onboard_time": 1673075188,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205424,
+        "num": 205424,
+        "word": "麦卡锡当选美国众议院议长",
+        "onboard_time": 1673077709,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 198388,
+        "num": 198388,
+        "word": "懒羊羊喜羊羊实绩图",
+        "onboard_time": 1673068109,
+        "rank": 27,
+        "category": "动漫,幽默"
+      },
+      {
+        "raw_hot": 183010,
+        "num": 197963,
+        "word": "济南现多处冰瀑犹如冰水母",
+        "onboard_time": 1673081191,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 150262,
+        "num": 197488,
+        "word": "23岁女医学生捐器官让5人重获新生",
+        "onboard_time": 1673073687,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 268329,
+        "num": 197221,
+        "word": "向风而行直播",
+        "onboard_time": 1673079990,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333363,
+        "num": 196756,
+        "word": "原来许红豆真的存在",
+        "onboard_time": 1673082753,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294010,
+        "num": 195968,
+        "word": "婚期还剩十几天新娘不见了",
+        "onboard_time": 1673066789,
+        "rank": 32,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 292457,
+        "num": 195487,
+        "word": "杨幂点赞2010年微博",
+        "onboard_time": 1673082154,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291967,
+        "num": 195181,
+        "word": "徐璐说数了数不多也就被挂了7次而已",
+        "onboard_time": 1673079149,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280851,
+        "num": 194820,
+        "word": "汪苏泷录歌偶遇王源杨丞琳",
+        "onboard_time": 1673075430,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145986,
+        "num": 194429,
+        "word": "TTG钎城挂牌",
+        "onboard_time": 1673076449,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140456,
+        "num": 193712,
+        "word": "猫咪会有什么坏心眼",
+        "onboard_time": 1673079930,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 122855,
+        "num": 193450,
+        "word": "高中语文",
+        "onboard_time": 1673060970,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118970,
+        "num": 192806,
+        "word": "医院回应女子做核酸收费245元",
+        "onboard_time": 1673062767,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278330,
+        "num": 192219,
+        "word": "王鹤棣唱诀爱",
+        "onboard_time": 1673069908,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115482,
+        "num": 191848,
+        "word": "男子烧热水在铁锅中洗澡",
+        "onboard_time": 1673066908,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103817,
+        "num": 191209,
+        "word": "胡鑫宇失踪事件暂未立为刑案",
+        "onboard_time": 1673066429,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100141,
+        "num": 191068,
+        "word": "万柳书院式炫富不该成为流量",
+        "onboard_time": 1673062710,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97864,
+        "num": 190442,
+        "word": "这是点了两只陪玩小鸟吗",
+        "onboard_time": 1673075008,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97207,
+        "num": 189890,
+        "word": "低谷期真的不适合恋爱吗",
+        "onboard_time": 1673072128,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93663,
+        "num": 189451,
+        "word": "国考",
+        "onboard_time": 1673050104,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 78222,
+        "num": 188880,
+        "word": "女子驱车3小时为患病女孩献熊猫血",
+        "onboard_time": 1673082452,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 76479,
+        "num": 188261,
+        "word": "NASA局长怕中国先登月封锁月表资源",
+        "onboard_time": 1673060429,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 76155,
+        "num": 187952,
+        "word": "贝克汉姆儿子加盟布伦特福德",
+        "onboard_time": 1673062107,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#极简版第十版诊疗方案#"
+    }
+  }
+}

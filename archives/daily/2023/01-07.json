@@ -1,6 +1,6 @@
 {
   "startTime": 1673022390574,
-  "endTime": 1673080521289,
+  "endTime": 1673082987584,
   "band_list": [
     {
       "raw_hot": 2529517,
@@ -32,6 +32,14 @@
       "word": "三亚一月赚回三年亏损民宿老板录音原声",
       "onboard_time": 1673073446,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1709535,
+      "num": 1709535,
+      "word": "医生称超30%阳康可能面临脱发风险",
+      "onboard_time": 1673078489,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -123,20 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1164120,
-      "num": 1164120,
-      "word": "医生称超30%阳康可能面临脱发风险",
-      "onboard_time": 1673078489,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1152279,
       "num": 553052,
       "word": "王俊凯易烊千玺刘耀文今日营业照",
       "onboard_time": 1673074949,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1114101,
+      "num": 1114101,
+      "word": "张小斐说真不是故意就手有点滑",
+      "onboard_time": 1673077051,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 1066371,
@@ -163,11 +171,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 910315,
-      "num": 910315,
-      "word": "张小斐说真不是故意就手有点滑",
-      "onboard_time": 1673077051,
-      "rank": 14,
+      "raw_hot": 933151,
+      "num": 933151,
+      "word": "张彬彬给小司藤新剧打call",
+      "onboard_time": 1673080353,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -377,6 +385,22 @@
       "onboard_time": 1673077590,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 610338,
+      "num": 449546,
+      "word": "顾南亭程霄结婚证",
+      "onboard_time": 1673081308,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 598147,
+      "num": 442877,
+      "word": "金唱片",
+      "onboard_time": 1673081849,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 597420,
@@ -635,6 +659,14 @@
       "category": "动漫,幽默"
     },
     {
+      "raw_hot": 381032,
+      "num": 265893,
+      "word": "刘亦菲陈晓梦华录入选2022中国电视剧选集",
+      "onboard_time": 1673081491,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364355,
       "num": 275078,
       "word": "白鹿脖子上挂了一串小熊",
@@ -665,6 +697,14 @@
       "onboard_time": 1673079270,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 357279,
+      "num": 357279,
+      "word": "孙景坤逝世",
+      "onboard_time": 1673080892,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356436,
@@ -699,12 +739,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333363,
+      "num": 196756,
+      "word": "原来许红豆真的存在",
+      "onboard_time": 1673082753,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 333168,
       "num": 249689,
       "word": "谢之遥被全村催婚",
       "onboard_time": 1673078670,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 324343,
+      "num": 324343,
+      "word": "阳了能不能喝咖啡",
+      "onboard_time": 1673081911,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320769,
@@ -763,6 +819,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292457,
+      "num": 195487,
+      "word": "杨幂点赞2010年微博",
+      "onboard_time": 1673082154,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 291967,
+      "num": 195181,
+      "word": "徐璐说数了数不多也就被挂了7次而已",
+      "onboard_time": 1673079149,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 291084,
       "num": 204154,
       "word": "刘亦菲李现有风小院烤肉趴片场花絮",
@@ -801,14 +873,6 @@
       "onboard_time": 1673008411,
       "rank": 20,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 276091,
-      "num": 145689,
-      "word": "徐璐说数了数不多也就被挂了7次而已",
-      "onboard_time": 1673079149,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 275480,
@@ -931,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250300,
-      "num": 140918,
-      "word": "张彬彬给小司藤新剧打call",
-      "onboard_time": 1673080353,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 248470,
       "num": 248470,
       "word": "麦卡锡当选美国众议院议长",
@@ -1033,6 +1089,14 @@
       "onboard_time": 1673075911,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231416,
+      "num": 231416,
+      "word": "睡觉没有多余动作的狗狗",
+      "onboard_time": 1673078069,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 227002,
@@ -1137,14 +1201,6 @@
       "onboard_time": 1673017653,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 200272,
-      "num": 200272,
-      "word": "睡觉没有多余动作的狗狗",
-      "onboard_time": 1673078069,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 200252,
@@ -1267,6 +1323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183010,
+      "num": 197963,
+      "word": "济南现多处冰瀑犹如冰水母",
+      "onboard_time": 1673081191,
+      "rank": 28,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 182160,
       "num": 182160,
       "word": "看电视为啥越来越复杂",
@@ -1308,7 +1372,7 @@
     },
     {
       "raw_hot": 167817,
-      "num": 167817,
+      "num": 190442,
       "word": "这是点了两只陪玩小鸟吗",
       "onboard_time": 1673075008,
       "rank": 46,
@@ -1356,7 +1420,7 @@
     },
     {
       "raw_hot": 162346,
-      "num": 162346,
+      "num": 189890,
       "word": "低谷期真的不适合恋爱吗",
       "onboard_time": 1673072128,
       "rank": 47,
@@ -1481,6 +1545,14 @@
       "onboard_time": 1673070207,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140456,
+      "num": 193712,
+      "word": "猫咪会有什么坏心眼",
+      "onboard_time": 1673079930,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 139873,
@@ -1833,6 +1905,14 @@
       "onboard_time": 1673018072,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78222,
+      "num": 188880,
+      "word": "女子驱车3小时为患病女孩献熊猫血",
+      "onboard_time": 1673082452,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 77090,
