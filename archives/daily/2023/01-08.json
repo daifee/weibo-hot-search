@@ -1,6 +1,6 @@
 {
   "startTime": 1673108634444,
-  "endTime": 1673108634444,
+  "endTime": 1673109654196,
   "band_list": [
     {
       "raw_hot": 1647435,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 964337,
-      "num": 964337,
+      "raw_hot": 1020126,
+      "num": 1020126,
       "word": "Lisa泰国人气",
       "onboard_time": 1673107050,
       "rank": 1,
@@ -32,6 +32,14 @@
       "word": "为什么大家不爱发朋友圈了",
       "onboard_time": 1673090069,
       "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 872845,
+      "num": 872845,
+      "word": "你能接受婚前同居的恋爱吗",
+      "onboard_time": 1673107170,
+      "rank": 7,
       "category": "情感"
     },
     {
@@ -57,14 +65,6 @@
       "onboard_time": 1673103035,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 485525,
-      "num": 485525,
-      "word": "你能接受婚前同居的恋爱吗",
-      "onboard_time": 1673107170,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 429433,
@@ -123,6 +123,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 239260,
+      "num": 209386,
+      "word": "原来猫会被猫嫌弃",
+      "onboard_time": 1673106329,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 227813,
+      "num": 134263,
+      "word": "鞠婧祎脸好小",
+      "onboard_time": 1673109565,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225783,
       "num": 150738,
       "word": "Minnie唱泰语版VillainDies",
@@ -155,12 +171,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209386,
-      "num": 209386,
-      "word": "原来猫会被猫嫌弃",
-      "onboard_time": 1673106329,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 213121,
+      "num": 198659,
+      "word": "杜锋呼吁不要让CBA变成罚篮比赛",
+      "onboard_time": 1673108069,
+      "rank": 42,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 207563,
+      "num": 133171,
+      "word": "戴佩妮吴克群 嗑到了",
+      "onboard_time": 1673099012,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205719,
+      "num": 205719,
+      "word": "三体",
+      "onboard_time": 1673107290,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 200064,
@@ -179,6 +211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191100,
+      "num": 107868,
+      "word": "张杰live实力好强",
+      "onboard_time": 1673109148,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186783,
       "num": 186783,
       "word": "男子在滚烫红糖锅内徒手抓糖",
@@ -187,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180419,
-      "num": 122845,
-      "word": "戴佩妮吴克群 嗑到了",
-      "onboard_time": 1673099012,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 186618,
+      "num": 107588,
+      "word": "在北京买房两居变两层",
+      "onboard_time": 1673107467,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 180262,
@@ -200,6 +240,14 @@
       "word": "成都涉不雅聊天干部被建议免职",
       "onboard_time": 1673086592,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178868,
+      "num": 107359,
+      "word": "妈妈嫌儿子相亲照太生硬做成视频",
+      "onboard_time": 1673108668,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -283,14 +331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 132801,
-      "num": 132801,
-      "word": "三体",
-      "onboard_time": 1673107290,
-      "rank": 29,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 119985,
       "num": 119985,
       "word": "家住8楼无电梯点外卖被骂不配点",
@@ -323,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107301,
+      "num": 107301,
+      "word": "马云不再是蚂蚁集团实际控制人",
+      "onboard_time": 1673108965,
+      "rank": 36,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 106167,
       "num": 106167,
       "word": "安徽一学校为学生发放100头猪",
@@ -337,22 +385,6 @@
       "onboard_time": 1673100212,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95619,
-      "num": 95619,
-      "word": "杜锋呼吁不要让CBA变成罚篮比赛",
-      "onboard_time": 1673108069,
-      "rank": 42,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 87056,
-      "num": 87056,
-      "word": "在北京买房两居变两层",
-      "onboard_time": 1673107467,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 85393,
@@ -396,7 +428,7 @@
     },
     {
       "raw_hot": 7383,
-      "num": 891135,
+      "num": 924736,
       "word": "春运健康出行防护指南",
       "onboard_time": 1673063609,
       "rank": 2,
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#极简版第十版诊疗方案#"
+    },
+    {
+      "word": "#2023春运正式开启#"
     }
   ]
 }

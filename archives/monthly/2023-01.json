@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673108634444,
+  "endTime": 1673109654196,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -1811,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1020126,
+      "num": 1020126,
+      "word": "Lisa泰国人气",
+      "onboard_time": 1673107050,
+      "rank": 1,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 1014824,
       "num": 1014824,
       "word": "原来穿制服真的会加分",
@@ -2001,14 +2009,6 @@
       "onboard_time": 1672572093,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 964337,
-      "num": 964337,
-      "word": "Lisa泰国人气",
-      "onboard_time": 1673107050,
-      "rank": 1,
-      "category": "音乐,时尚"
     },
     {
       "raw_hot": 953736,
@@ -2377,6 +2377,14 @@
       "onboard_time": 1672840352,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 872845,
+      "num": 872845,
+      "word": "你能接受婚前同居的恋爱吗",
+      "onboard_time": 1673107170,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 870368,
@@ -5497,14 +5505,6 @@
       "onboard_time": 1672889611,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 485525,
-      "num": 485525,
-      "word": "你能接受婚前同居的恋爱吗",
-      "onboard_time": 1673107170,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 484737,
@@ -11227,6 +11227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 239260,
+      "num": 209386,
+      "word": "原来猫会被猫嫌弃",
+      "onboard_time": 1673106329,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238947,
       "num": 162535,
       "word": "你身边存在女生规则吗",
@@ -11657,6 +11665,14 @@
       "onboard_time": 1672728806,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227813,
+      "num": 134263,
+      "word": "鞠婧祎脸好小",
+      "onboard_time": 1673109565,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 227553,
@@ -12091,6 +12107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213121,
+      "num": 198659,
+      "word": "杜锋呼吁不要让CBA变成罚篮比赛",
+      "onboard_time": 1673108069,
+      "rank": 42,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 212898,
       "num": 155619,
       "word": "林晓峰因超售向客人道歉退款",
@@ -12307,14 +12331,6 @@
       "category": "动漫,幽默"
     },
     {
-      "raw_hot": 209386,
-      "num": 209386,
-      "word": "原来猫会被猫嫌弃",
-      "onboard_time": 1673106329,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 209279,
       "num": 238183,
       "word": "刘春孔庆东等微博账号被禁言",
@@ -12409,6 +12425,14 @@
       "onboard_time": 1672506811,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205719,
+      "num": 205719,
+      "word": "三体",
+      "onboard_time": 1673107290,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 205168,
@@ -12963,6 +12987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191100,
+      "num": 107868,
+      "word": "张杰live实力好强",
+      "onboard_time": 1673109148,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191053,
       "num": 191053,
       "word": "骑手用甄嬛传语气对话阳性顾客",
@@ -13129,6 +13161,14 @@
       "onboard_time": 1672672051,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186618,
+      "num": 107588,
+      "word": "在北京买房两居变两层",
+      "onboard_time": 1673107467,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 186399,
@@ -13553,6 +13593,14 @@
       "onboard_time": 1672499755,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178868,
+      "num": 107359,
+      "word": "妈妈嫌儿子相亲照太生硬做成视频",
+      "onboard_time": 1673108668,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178781,
@@ -15619,14 +15667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132801,
-      "num": 132801,
-      "word": "三体",
-      "onboard_time": 1673107290,
-      "rank": 29,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 132710,
       "num": 132710,
       "word": "小妖怪的夏天",
@@ -16683,6 +16723,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 107301,
+      "num": 107301,
+      "word": "马云不再是蚂蚁集团实际控制人",
+      "onboard_time": 1673108965,
+      "rank": 36,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 107045,
       "num": 107045,
       "word": "柯基打架点到为止",
@@ -17099,14 +17147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95619,
-      "num": 95619,
-      "word": "杜锋呼吁不要让CBA变成罚篮比赛",
-      "onboard_time": 1673108069,
-      "rank": 42,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 95249,
       "num": 157659,
       "word": "2岁宝宝变身抓娃娃机进窖抓红薯",
@@ -17321,14 +17361,6 @@
       "onboard_time": 1672812150,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87056,
-      "num": 87056,
-      "word": "在北京买房两居变两层",
-      "onboard_time": 1673107467,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 87014,
