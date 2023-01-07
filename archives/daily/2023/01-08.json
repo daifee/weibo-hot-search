@@ -1,6 +1,6 @@
 {
   "startTime": 1673108634444,
-  "endTime": 1673123626011,
+  "endTime": 1673126100917,
   "band_list": [
     {
       "raw_hot": 1647435,
@@ -515,7 +515,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 29250,
+      "raw_hot": 33361,
       "num": 20602,
       "word": "11年前13岁女孩上学路上失踪至今",
       "onboard_time": 1673121672,
@@ -523,7 +523,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22619,
+      "raw_hot": 24978,
       "num": 18922,
       "word": "许红豆不想放下心里的事",
       "onboard_time": 1673121853,
@@ -531,12 +531,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 20822,
+      "raw_hot": 21529,
       "num": 19293,
       "word": "宫心计全员恶女飙戏",
       "onboard_time": 1673121373,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13936,
+      "num": 13936,
+      "word": "官方回应高铁站人员疑似摆拍",
+      "onboard_time": 1673125571,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7383,
