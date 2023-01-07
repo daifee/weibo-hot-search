@@ -1,0 +1,410 @@
+{
+  "runTime": 1673076796714,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1743830,
+        "num": 1743830,
+        "word": "三亚一月赚回三年亏损民宿老板录音原声",
+        "onboard_time": 1673073446,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857329,
+        "num": 857329,
+        "word": "日本宅男看动漫被打断怒杀父母",
+        "onboard_time": 1673071647,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 45717,
+        "num": 732747,
+        "word": "春运健康出行防护指南",
+        "onboard_time": 1673063609,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712528,
+        "num": 712528,
+        "word": "女子看病被医生开的处方字体惊呆了",
+        "onboard_time": 1673068888,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669654,
+        "num": 669654,
+        "word": "刘亦菲李现的肤色差",
+        "onboard_time": 1673073027,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 642077,
+        "num": 642077,
+        "word": "女子吐槽68元一盘羊肉只有几片",
+        "onboard_time": 1673072787,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579776,
+        "num": 579776,
+        "word": "杜华说好心疼范丞丞",
+        "onboard_time": 1673071887,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 575746,
+        "num": 575746,
+        "word": "涉嫌侮辱邱少云索尼公司被禁言",
+        "onboard_time": 1673068651,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541740,
+        "num": 541740,
+        "word": "黄磊说大年初一展望未来",
+        "onboard_time": 1673071406,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 481825,
+        "num": 481825,
+        "word": "胡鑫宇事件调查报告",
+        "onboard_time": 1673061628,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1152279,
+        "num": 477675,
+        "word": "王俊凯易烊千玺刘耀文今日营业照",
+        "onboard_time": 1673074949,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467117,
+        "num": 467117,
+        "word": "疑因婆婆怀孕女子被要求打胎",
+        "onboard_time": 1673075970,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427291,
+        "num": 427291,
+        "word": "张婧仪无名眼神",
+        "onboard_time": 1673064809,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413870,
+        "num": 413870,
+        "word": "姐姐 我们还有好久好久",
+        "onboard_time": 1673066789,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388178,
+        "num": 388178,
+        "word": "男子半夜种菜为给女友买房",
+        "onboard_time": 1673075188,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412637,
+        "num": 383444,
+        "word": "王鹤棣唱诀爱",
+        "onboard_time": 1673069908,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373568,
+        "num": 373568,
+        "word": "专家建议不要生吃可生食鸡蛋",
+        "onboard_time": 1673058505,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331956,
+        "num": 331956,
+        "word": "新冠患者遗体处置按乙类传染病规定执行",
+        "onboard_time": 1673064628,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251023,
+        "num": 251023,
+        "word": "懒羊羊喜羊羊实绩图",
+        "onboard_time": 1673068109,
+        "rank": 18,
+        "category": "动漫,幽默"
+      },
+      {
+        "raw_hot": 233717,
+        "num": 233717,
+        "word": "23岁女医学生捐器官让5人重获新生",
+        "onboard_time": 1673073687,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 395506,
+        "num": 226445,
+        "word": "汪苏泷录歌偶遇王源杨丞琳",
+        "onboard_time": 1673075430,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379028,
+        "num": 223949,
+        "word": "杨幂转发11年前微博给大家拜早年",
+        "onboard_time": 1673052085,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216902,
+        "num": 216902,
+        "word": "医院回应女子做核酸收费245元",
+        "onboard_time": 1673062767,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202153,
+        "num": 202153,
+        "word": "男子烧热水在铁锅中洗澡",
+        "onboard_time": 1673066908,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185057,
+        "num": 185057,
+        "word": "万柳书院式炫富不该成为流量",
+        "onboard_time": 1673062710,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175617,
+        "num": 175617,
+        "word": "小猫居然有两幅面孔",
+        "onboard_time": 1673071349,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167817,
+        "num": 167817,
+        "word": "这是点了两只陪玩小鸟吗",
+        "onboard_time": 1673075008,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157452,
+        "num": 157452,
+        "word": "高中语文",
+        "onboard_time": 1673060970,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154591,
+        "num": 154591,
+        "word": "NASA局长怕中国先登月封锁月表资源",
+        "onboard_time": 1673060429,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 154168,
+        "num": 154168,
+        "word": "胡鑫宇失踪事件暂未立为刑案",
+        "onboard_time": 1673066429,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506780,
+        "num": 153029,
+        "word": "婚期还剩十几天新娘不见了",
+        "onboard_time": 1673066789,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 360425,
+        "num": 152042,
+        "word": "多地出现倒奶杀牛现象",
+        "onboard_time": 1673069008,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341212,
+        "num": 151494,
+        "word": "李宇春被问认不认识周笔畅",
+        "onboard_time": 1673056588,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291486,
+        "num": 150015,
+        "word": "网传王一博重新参与天天向上录制",
+        "onboard_time": 1673071468,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275480,
+        "num": 148488,
+        "word": "三体动画豆瓣评分人数破10万",
+        "onboard_time": 1673074828,
+        "rank": 34,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 232158,
+        "num": 147167,
+        "word": "李沁进组光明之路",
+        "onboard_time": 1673075911,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146196,
+        "num": 146196,
+        "word": "女孩下塘捕鱼沾满泥活像美人鱼",
+        "onboard_time": 1673072969,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141980,
+        "num": 141980,
+        "word": "TTG钎城挂牌",
+        "onboard_time": 1673076449,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135983,
+        "num": 135983,
+        "word": "低谷期真的不适合恋爱吗",
+        "onboard_time": 1673072128,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135274,
+        "num": 135274,
+        "word": "LPL新logo好帅",
+        "onboard_time": 1673060787,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223378,
+        "num": 130416,
+        "word": "陈粒不懂乐理",
+        "onboard_time": 1673062229,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221572,
+        "num": 128402,
+        "word": "姚晨唐嫣庄达菲联手骗赢孙坚",
+        "onboard_time": 1673076149,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125449,
+        "num": 125449,
+        "word": "贝克汉姆儿子加盟布伦特福德",
+        "onboard_time": 1673062107,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119631,
+        "num": 119631,
+        "word": "你的年货我的年货好像不一样",
+        "onboard_time": 1673076269,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115937,
+        "num": 115937,
+        "word": "LPL春季赛14日开赛",
+        "onboard_time": 1673073087,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115780,
+        "num": 115780,
+        "word": "郑刚炮轰罗永浩",
+        "onboard_time": 1673059648,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114945,
+        "num": 114945,
+        "word": "现有信息指向胡鑫宇自行离校",
+        "onboard_time": 1673062349,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112602,
+        "num": 112602,
+        "word": "蛋仔派对",
+        "onboard_time": 1673048841,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110425,
+        "num": 110425,
+        "word": "湖人四连胜",
+        "onboard_time": 1673072367,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103106,
+        "num": 103106,
+        "word": "农村地区疫情防控情况",
+        "onboard_time": 1673076750,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中土两国友好交往翻开新篇章#"
+    }
+  }
+}
