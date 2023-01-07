@@ -1,0 +1,410 @@
+{
+  "runTime": 1673127210470,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 144224,
+        "num": 144224,
+        "word": "你能接受婚前同居的恋爱吗",
+        "onboard_time": 1673107170,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84808,
+        "num": 84808,
+        "word": "玲娜贝儿被游客拍头",
+        "onboard_time": 1673102674,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1926,
+        "num": 79690,
+        "word": "春运健康出行防护指南",
+        "onboard_time": 1673063609,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77981,
+        "num": 77981,
+        "word": "俄议员建议从中国回购辽宁舰",
+        "onboard_time": 1673104237,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 68215,
+        "num": 68215,
+        "word": "母亲去世3年仍有疫苗接种记录",
+        "onboard_time": 1673109565,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66464,
+        "num": 66464,
+        "word": "Lisa泰国人气",
+        "onboard_time": 1673107050,
+        "rank": 5,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 58490,
+        "num": 58490,
+        "word": "为什么大家不爱发朋友圈了",
+        "onboard_time": 1673090069,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52333,
+        "num": 52333,
+        "word": "我读懂了张婉婷",
+        "onboard_time": 1673106270,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48402,
+        "num": 48402,
+        "word": "妈妈嫌儿子相亲照太生硬做成视频",
+        "onboard_time": 1673108668,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37264,
+        "num": 37264,
+        "word": "你好星期六下期预告没有冯禧",
+        "onboard_time": 1673103035,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132357,
+        "num": 37252,
+        "word": "马云不再是蚂蚁集团实际控制人",
+        "onboard_time": 1673108965,
+        "rank": 10,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 50122,
+        "num": 37212,
+        "word": "学者发现2.52亿年前陆地生物大灭绝元凶",
+        "onboard_time": 1673111302,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41704,
+        "num": 37204,
+        "word": "在北京买房两居变两层",
+        "onboard_time": 1673107467,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37103,
+        "num": 37103,
+        "word": "官方回应高铁站人员疑似摆拍",
+        "onboard_time": 1673125571,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37009,
+        "num": 37009,
+        "word": "张远撞脸自由女神",
+        "onboard_time": 1673112201,
+        "rank": 14,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 35322,
+        "num": 35322,
+        "word": "杜锋呼吁不要让CBA变成罚篮比赛",
+        "onboard_time": 1673108069,
+        "rank": 15,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 33786,
+        "num": 33786,
+        "word": "11年前13岁女孩上学路上失踪至今",
+        "onboard_time": 1673121672,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32629,
+        "num": 32629,
+        "word": "原来猫会被猫嫌弃",
+        "onboard_time": 1673106329,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32398,
+        "num": 32398,
+        "word": "三体",
+        "onboard_time": 1673107290,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 29423,
+        "num": 29423,
+        "word": "鞠婧祎脸好小",
+        "onboard_time": 1673109565,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29345,
+        "num": 29345,
+        "word": "孟美岐演唱会",
+        "onboard_time": 1673095352,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28381,
+        "num": 28381,
+        "word": "戴佩妮吴克群 嗑到了",
+        "onboard_time": 1673099012,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28308,
+        "num": 28308,
+        "word": "央视对话阿里张勇谈2023年最大机会",
+        "onboard_time": 1673103515,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25911,
+        "num": 25911,
+        "word": "鸟叔再跳江南style",
+        "onboard_time": 1673106451,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25301,
+        "num": 25301,
+        "word": "老赖不还债花330万买彩票获刑5年",
+        "onboard_time": 1673097511,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25043,
+        "num": 25043,
+        "word": "王嘉尔说我感激所有的评价",
+        "onboard_time": 1673110823,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21247,
+        "num": 21247,
+        "word": "阿里为全国60多万村捐赠血氧仪",
+        "onboard_time": 1673095950,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20952,
+        "num": 20952,
+        "word": "家住8楼无电梯点外卖被骂不配点",
+        "onboard_time": 1673089111,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19874,
+        "num": 19874,
+        "word": "孙女连夜回国陪病重爷爷发现他在炫饭",
+        "onboard_time": 1673091810,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19111,
+        "num": 19111,
+        "word": "狗狗累了不走主人树枝作轿抬回家",
+        "onboard_time": 1673100094,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23543,
+        "num": 19076,
+        "word": "王鹤棣片场买烤肠吃",
+        "onboard_time": 1673103215,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22953,
+        "num": 19026,
+        "word": "许红豆不想放下心里的事",
+        "onboard_time": 1673121853,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22418,
+        "num": 18982,
+        "word": "BLACKPINK演唱会",
+        "onboard_time": 1673093431,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21976,
+        "num": 18960,
+        "word": "SEVENTEEN今日金唱片舞台",
+        "onboard_time": 1673105793,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18872,
+        "num": 18924,
+        "word": "缉毒警察用牺牲战友名字作化名",
+        "onboard_time": 1673090433,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18878,
+        "num": 18878,
+        "word": "老年人感染新冠后不一定发烧",
+        "onboard_time": 1673084250,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17803,
+        "num": 17803,
+        "word": "男子在滚烫红糖锅内徒手抓糖",
+        "onboard_time": 1673099314,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16464,
+        "num": 16464,
+        "word": "贪官多年布局海景别墅项目洗钱",
+        "onboard_time": 1673099135,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15581,
+        "num": 15581,
+        "word": "小土狗真的很可爱",
+        "onboard_time": 1673102975,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14536,
+        "num": 14536,
+        "word": "一招就能解决便秘",
+        "onboard_time": 1673104473,
+        "rank": 39,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 21644,
+        "num": 14403,
+        "word": "惠英红佘诗曼演吵架吓到薛凯琪",
+        "onboard_time": 1673106991,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18918,
+        "num": 14291,
+        "word": "宫心计全员恶女飙戏",
+        "onboard_time": 1673121373,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14031,
+        "num": 14031,
+        "word": "东北人的社交能力有多强",
+        "onboard_time": 1673093431,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 13969,
+        "num": 13969,
+        "word": "新年金属感美甲",
+        "onboard_time": 1673106691,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 13906,
+        "num": 13906,
+        "word": "曝马丁内斯执教葡萄牙队",
+        "onboard_time": 1673103394,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13796,
+        "num": 13796,
+        "word": "教资面试的苦",
+        "onboard_time": 1673088452,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 12443,
+        "num": 13764,
+        "word": "gk战队",
+        "onboard_time": 1673105371,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12233,
+        "num": 13693,
+        "word": "狼队年总首冠",
+        "onboard_time": 1673101714,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11551,
+        "num": 13669,
+        "word": "快递小哥当选中国经济年度人物特别奖",
+        "onboard_time": 1673115616,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10918,
+        "num": 13634,
+        "word": "贪官迷恋当官被中专学历骗子骗了20年",
+        "onboard_time": 1673126893,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023春运正式开启#"
+    }
+  }
+}
