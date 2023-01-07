@@ -1,6 +1,6 @@
 {
   "startTime": 1673022390574,
-  "endTime": 1673072473514,
+  "endTime": 1673073345676,
   "band_list": [
     {
       "raw_hot": 2529517,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1203442,
+      "num": 1203442,
+      "word": "女子看病被医生开的处方字体惊呆了",
+      "onboard_time": 1673068888,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1165059,
       "num": 1165059,
       "word": "女子表白领导被拒后每天在公司摸鱼",
@@ -97,14 +105,6 @@
       "onboard_time": 1673020591,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1033743,
-      "num": 1033743,
-      "word": "女子看病被医生开的处方字体惊呆了",
-      "onboard_time": 1673068888,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 992586,
@@ -235,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 679809,
+      "num": 679809,
+      "word": "黄磊说大年初一展望未来",
+      "onboard_time": 1673071406,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 669266,
       "num": 502547,
       "word": "BLACKPINK将领衔科切拉音乐节",
@@ -243,11 +251,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 668295,
+      "num": 436588,
+      "word": "日本宅男看动漫被打断怒杀父母",
+      "onboard_time": 1673071647,
+      "rank": 15,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 651475,
       "num": 651475,
       "word": "小说西北有高楼涉嫌美化南京大屠杀",
       "onboard_time": 1673056289,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638787,
+      "num": 638787,
+      "word": "多地出现倒奶杀牛现象",
+      "onboard_time": 1673069008,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -291,28 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 594334,
-      "num": 594334,
-      "word": "多地出现倒奶杀牛现象",
-      "onboard_time": 1673069008,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 579728,
       "num": 579728,
       "word": "蔡依林造型",
       "onboard_time": 1673019451,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 576085,
-      "num": 441763,
-      "word": "黄磊说大年初一展望未来",
-      "onboard_time": 1673071406,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 571546,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 524369,
-      "num": 222074,
+      "num": 382263,
       "word": "网传王一博重新参与天天向上录制",
       "onboard_time": 1673071468,
       "rank": 20,
@@ -467,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434498,
+      "num": 216003,
+      "word": "刘亦菲李现的肤色差",
+      "onboard_time": 1673073027,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 430146,
       "num": 385541,
       "word": "爸爸几十年如一日每天等妈妈下班",
@@ -577,14 +593,6 @@
       "onboard_time": 1673031674,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 321904,
-      "num": 321904,
-      "word": "日本宅男看动漫被打断怒杀父母",
-      "onboard_time": 1673071647,
-      "rank": 15,
-      "category": "社会负面"
     },
     {
       "raw_hot": 320769,
@@ -761,6 +769,14 @@
       "onboard_time": 1673063489,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254361,
+      "num": 161462,
+      "word": "江疏影无名民国造型",
+      "onboard_time": 1673072488,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 250779,
@@ -979,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192153,
+      "num": 192153,
+      "word": "小猫居然有两幅面孔",
+      "onboard_time": 1673071349,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191315,
       "num": 164149,
       "word": "李现谢之遥日常玩耍合集",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1673023224,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184218,
+      "num": 184218,
+      "word": "LPL春季赛14日开赛",
+      "onboard_time": 1673073087,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 182160,
@@ -1099,12 +1131,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162346,
+      "num": 162346,
+      "word": "低谷期真的不适合恋爱吗",
+      "onboard_time": 1673072128,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160718,
       "num": 124222,
       "word": "许红豆被谢之遥吸引",
       "onboard_time": 1673051906,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160687,
+      "num": 160687,
+      "word": "女子吐槽68元一盘羊肉只有几片",
+      "onboard_time": 1673072787,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160375,
@@ -1211,14 +1259,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141148,
-      "num": 141148,
-      "word": "小猫居然有两幅面孔",
-      "onboard_time": 1673071349,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 139873,
       "num": 139873,
       "word": "谢之遥用玩笑的方式说出真心话",
@@ -1251,8 +1291,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 134112,
-      "num": 134112,
+      "raw_hot": 134986,
+      "num": 134986,
+      "word": "湖人四连胜",
+      "onboard_time": 1673072367,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134648,
+      "num": 134648,
       "word": "这是要收了法海吧",
       "onboard_time": 1673071048,
       "rank": 42,
@@ -1403,12 +1451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112819,
-      "num": 112819,
-      "word": "低谷期真的不适合恋爱吗",
-      "onboard_time": 1673072128,
+      "raw_hot": 116209,
+      "num": 116209,
+      "word": "女孩下塘捕鱼沾满泥活像美人鱼",
+      "onboard_time": 1673072969,
       "rank": 47,
-      "category": "情感"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112664,
@@ -1441,14 +1489,6 @@
       "onboard_time": 1673024841,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108012,
-      "num": 108012,
-      "word": "湖人四连胜",
-      "onboard_time": 1673072367,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 107999,
@@ -1660,6 +1700,9 @@
     },
     {
       "word": "#中土两国友好交往翻开新篇章#"
+    },
+    {
+      "word": "#极简版第十版诊疗方案#"
     }
   ]
 }
