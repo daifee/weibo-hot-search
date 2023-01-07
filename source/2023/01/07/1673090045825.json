@@ -1,0 +1,410 @@
+{
+  "runTime": 1673090045825,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1980337,
+        "num": 1980337,
+        "word": "成都涉不雅聊天干部被建议免职",
+        "onboard_time": 1673086592,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 940979,
+        "num": 940979,
+        "word": "医生称超30%阳康可能面临脱发风险",
+        "onboard_time": 1673078489,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21840,
+        "num": 775990,
+        "word": "春运健康出行防护指南",
+        "onboard_time": 1673063609,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747485,
+        "num": 747485,
+        "word": "胡鑫宇家属发声",
+        "onboard_time": 1673087012,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727042,
+        "num": 727042,
+        "word": "三亚一月赚回三年亏损民宿老板录音原声",
+        "onboard_time": 1673073446,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586730,
+        "num": 586730,
+        "word": "疑因婆婆怀孕女子被要求打胎",
+        "onboard_time": 1673075970,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579758,
+        "num": 579758,
+        "word": "主持人把谭松韵叫成程松韵",
+        "onboard_time": 1673084969,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 577280,
+        "num": 577280,
+        "word": "原来许红豆真的存在",
+        "onboard_time": 1673082753,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510212,
+        "num": 510212,
+        "word": "金唱片红毯上的明星",
+        "onboard_time": 1673086291,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478082,
+        "num": 478082,
+        "word": "AG挂牌Cat",
+        "onboard_time": 1673088635,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 913650,
+        "num": 462588,
+        "word": "迪丽热巴又顶碗了",
+        "onboard_time": 1673088211,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614449,
+        "num": 455335,
+        "word": "虞书欣的学院风造型",
+        "onboard_time": 1673089111,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 443377,
+        "num": 443377,
+        "word": "教资面试的苦",
+        "onboard_time": 1673088452,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 422024,
+        "num": 422024,
+        "word": "金唱片节目单",
+        "onboard_time": 1673086230,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 417300,
+        "num": 417300,
+        "word": "今年国考约70人录取1人",
+        "onboard_time": 1673084792,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 397816,
+        "num": 397816,
+        "word": "老年人感染新冠后不一定发烧",
+        "onboard_time": 1673084250,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339372,
+        "num": 339372,
+        "word": "十问胡鑫宇失踪事件",
+        "onboard_time": 1673084012,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323545,
+        "num": 323545,
+        "word": "狼队挂牌",
+        "onboard_time": 1673085272,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 308504,
+        "num": 308504,
+        "word": "大学生放假回家后的行李箱",
+        "onboard_time": 1673086834,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302762,
+        "num": 302762,
+        "word": "日本宅男看动漫被打断怒杀父母",
+        "onboard_time": 1673071647,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 379180,
+        "num": 298627,
+        "word": "姐姐 我们还有好久好久",
+        "onboard_time": 1673066789,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368121,
+        "num": 297174,
+        "word": "金唱片",
+        "onboard_time": 1673081849,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 324311,
+        "num": 295632,
+        "word": "陈宇为王一博新电影打call",
+        "onboard_time": 1673086951,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286809,
+        "num": 286809,
+        "word": "女子吐槽68元一盘羊肉只有几片",
+        "onboard_time": 1673072787,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264316,
+        "num": 264316,
+        "word": "家住8楼无电梯点外卖被骂不配点",
+        "onboard_time": 1673089111,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260863,
+        "num": 260863,
+        "word": "阳了能不能喝咖啡",
+        "onboard_time": 1673081911,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247063,
+        "num": 247063,
+        "word": "百兽挂牌",
+        "onboard_time": 1673083053,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201215,
+        "num": 201215,
+        "word": "女子看病被医生开的处方字体惊呆了",
+        "onboard_time": 1673068888,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197423,
+        "num": 197423,
+        "word": "孙景坤逝世",
+        "onboard_time": 1673080892,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214882,
+        "num": 196029,
+        "word": "涉嫌侮辱邱少云索尼公司被禁言",
+        "onboard_time": 1673068651,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323988,
+        "num": 191153,
+        "word": "张元英金唱片红毯造型",
+        "onboard_time": 1673088514,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320554,
+        "num": 187767,
+        "word": "赵丽颖卷发造型梦回许半夏",
+        "onboard_time": 1673089834,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296300,
+        "num": 184646,
+        "word": "王凯理解的两根手指",
+        "onboard_time": 1673089410,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284904,
+        "num": 181362,
+        "word": "许光汉直播跳舞娘",
+        "onboard_time": 1673087552,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278221,
+        "num": 179028,
+        "word": "苏醒晒拔牙后脸肿的自拍",
+        "onboard_time": 1673085033,
+        "rank": 34,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 177007,
+        "num": 177007,
+        "word": "GK 百兽",
+        "onboard_time": 1673088151,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164744,
+        "num": 164744,
+        "word": "法国队与德尚续约至2026年",
+        "onboard_time": 1673087311,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159906,
+        "num": 159906,
+        "word": "婚期还剩十几天新娘不见了",
+        "onboard_time": 1673066789,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 151640,
+        "num": 151640,
+        "word": "睡觉没有多余动作的狗狗",
+        "onboard_time": 1673078069,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 143066,
+        "num": 151521,
+        "word": "DRG 挂牌",
+        "onboard_time": 1673083171,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248387,
+        "num": 151374,
+        "word": "陈奕迅演唱会唱孤勇者的反应",
+        "onboard_time": 1673083651,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201165,
+        "num": 151219,
+        "word": "王鹤棣丁海寅同款白西装",
+        "onboard_time": 1673083772,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141685,
+        "num": 151070,
+        "word": "男子半夜种菜为给女友买房",
+        "onboard_time": 1673075188,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115096,
+        "num": 150953,
+        "word": "胡鑫宇事件调查报告",
+        "onboard_time": 1673061628,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113671,
+        "num": 150838,
+        "word": "懒羊羊喜羊羊实绩图",
+        "onboard_time": 1673068109,
+        "rank": 44,
+        "category": "动漫,幽默"
+      },
+      {
+        "raw_hot": 98144,
+        "num": 150642,
+        "word": "乙类乙管后最新个人防护指南",
+        "onboard_time": 1673082992,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97957,
+        "num": 150593,
+        "word": "23岁女医学生捐器官让5人重获新生",
+        "onboard_time": 1673073687,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 96981,
+        "num": 150359,
+        "word": "诗酒退役",
+        "onboard_time": 1673078251,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89617,
+        "num": 150170,
+        "word": "麦卡锡当选美国众议院议长",
+        "onboard_time": 1673077709,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 87303,
+        "num": 150021,
+        "word": "猫咪会有什么坏心眼",
+        "onboard_time": 1673079930,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023春运正式开启#"
+    }
+  }
+}
