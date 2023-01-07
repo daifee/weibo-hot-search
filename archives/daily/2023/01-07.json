@@ -1,6 +1,6 @@
 {
   "startTime": 1673022390574,
-  "endTime": 1673054851433,
+  "endTime": 1673056435722,
   "band_list": [
     {
       "raw_hot": 2030918,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1118354,
+      "num": 1118354,
+      "word": "女子表白领导被拒后每天在公司摸鱼",
+      "onboard_time": 1673053347,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1066371,
       "num": 1066371,
       "word": "唐嫣回应切胃减肥传闻",
@@ -51,28 +59,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 851648,
+      "num": 851648,
+      "word": "范丞丞说自己本名叫范晶",
+      "onboard_time": 1673050644,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 845249,
       "num": 845249,
       "word": "暧昧期过长的原因是什么",
       "onboard_time": 1673020290,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 841481,
-      "num": 371527,
-      "word": "女子表白领导被拒后每天在公司摸鱼",
-      "onboard_time": 1673053347,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 735579,
-      "num": 735579,
-      "word": "范丞丞说自己本名叫范晶",
-      "onboard_time": 1673050644,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 716886,
@@ -123,8 +123,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 523921,
-      "num": 523921,
+      "raw_hot": 566388,
+      "num": 566388,
       "word": "没赶上高铁该咋办",
       "onboard_time": 1673052266,
       "rank": 5,
@@ -179,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 430146,
+      "num": 365418,
+      "word": "爸爸几十年如一日每天等妈妈下班",
+      "onboard_time": 1673054427,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424674,
       "num": 424674,
       "word": "中国奇谭",
@@ -203,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360262,
+      "num": 360262,
+      "word": "张远在搞一种很新的再就业合体舞台",
+      "onboard_time": 1673055627,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 356436,
       "num": 356436,
       "word": "四部门发布新冠乙类乙管感染者医保政策",
@@ -217,6 +233,14 @@
       "onboard_time": 1673012733,
       "rank": 15,
       "category": "情感,情感"
+    },
+    {
+      "raw_hot": 333485,
+      "num": 250131,
+      "word": "网传迪丽热巴龚俊安乐传过审",
+      "onboard_time": 1673031674,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 320769,
@@ -235,12 +259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 309120,
-      "num": 250131,
-      "word": "网传迪丽热巴龚俊安乐传过审",
-      "onboard_time": 1673031674,
-      "rank": 3,
-      "category": "影视"
+      "raw_hot": 298850,
+      "num": 298850,
+      "word": "胡鑫宇妈妈坚持称孩子已被害",
+      "onboard_time": 1673013992,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297613,
@@ -251,10 +275,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280142,
-      "num": 280142,
-      "word": "胡鑫宇妈妈坚持称孩子已被害",
-      "onboard_time": 1673013992,
+      "raw_hot": 290153,
+      "num": 290153,
+      "word": "广西小伙救落水者因外表引热议",
+      "onboard_time": 1673055446,
       "rank": 17,
       "category": "社会新闻"
     },
@@ -299,12 +323,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261029,
+      "num": 239596,
+      "word": "马嘉祺北京台春晚下班和粉丝挥手再见",
+      "onboard_time": 1673055027,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246297,
       "num": 246297,
       "word": "蛋仔派对",
       "onboard_time": 1673048841,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242913,
+      "num": 242913,
+      "word": "冯鹤年被开除党籍",
+      "onboard_time": 1673039772,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241880,
@@ -345,14 +385,6 @@
       "onboard_time": 1673050885,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206615,
-      "num": 206615,
-      "word": "冯鹤年被开除党籍",
-      "onboard_time": 1673039772,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204755,
@@ -427,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184825,
+      "num": 151552,
+      "word": "谢之遥听到许红豆孵出小鸡的表情",
+      "onboard_time": 1673055385,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184451,
       "num": 155705,
       "word": "杨迪是我的过年脸替",
@@ -441,6 +481,14 @@
       "onboard_time": 1673017772,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181606,
+      "num": 181606,
+      "word": "看得出来他真的不想撒谎",
+      "onboard_time": 1673052026,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 178878,
@@ -483,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160718,
+      "num": 124222,
+      "word": "许红豆被谢之遥吸引",
+      "onboard_time": 1673051906,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159195,
       "num": 114483,
       "word": "再就业男团是共享鞋柜了吗",
@@ -499,14 +555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155021,
-      "num": 155021,
-      "word": "看得出来他真的不想撒谎",
-      "onboard_time": 1673052026,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154809,
       "num": 113571,
       "word": "许红豆坐车车费7000",
@@ -515,19 +563,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150840,
+      "num": 150840,
+      "word": "茅台董事长现场带货冰淇淋",
+      "onboard_time": 1673023764,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 147757,
+      "num": 147757,
+      "word": "实现梦想的人都是熬出来的",
+      "onboard_time": 1673055864,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147198,
       "num": 147198,
       "word": "谢之遥对许红豆心动",
       "onboard_time": 1673032393,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 145011,
-      "num": 124222,
-      "word": "许红豆被谢之遥吸引",
-      "onboard_time": 1673051906,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -595,14 +651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 132976,
-      "num": 132976,
-      "word": "茅台董事长现场带货冰淇淋",
-      "onboard_time": 1673023764,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 130385,
       "num": 95876,
       "word": "王一博光明之路上班路透",
@@ -657,14 +705,6 @@
       "onboard_time": 1673032333,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 127247,
-      "num": 127247,
-      "word": "爸爸几十年如一日每天等妈妈下班",
-      "onboard_time": 1673054427,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127130,
@@ -755,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107999,
+      "num": 107999,
+      "word": "新冠治疗医保如何报销",
+      "onboard_time": 1673055147,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107674,
       "num": 107674,
       "word": "南京大屠杀在册幸存者仅剩48人",
@@ -809,6 +857,14 @@
       "onboard_time": 1673046617,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83119,
+      "num": 95479,
+      "word": "小说西北有高楼涉嫌美化南京大屠杀",
+      "onboard_time": 1673056289,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79318,
