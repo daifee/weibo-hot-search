@@ -1,0 +1,410 @@
+{
+  "runTime": 1673098396966,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1527531,
+        "num": 1527531,
+        "word": "为什么大家不爱发朋友圈了",
+        "onboard_time": 1673090069,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 907681,
+        "num": 907681,
+        "word": "孟美岐演唱会",
+        "onboard_time": 1673095352,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12977,
+        "num": 848926,
+        "word": "春运健康出行防护指南",
+        "onboard_time": 1673063609,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914939,
+        "num": 847088,
+        "word": "成都涉不雅聊天干部被建议免职",
+        "onboard_time": 1673086592,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827297,
+        "num": 827297,
+        "word": "王鹤棣秦霄贤猜少爷和我",
+        "onboard_time": 1673098113,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 811328,
+        "num": 811328,
+        "word": "阿里为全国60多万村捐赠血氧仪",
+        "onboard_time": 1673095950,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755327,
+        "num": 755327,
+        "word": "张杰线上演唱会",
+        "onboard_time": 1673094332,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 682606,
+        "num": 682606,
+        "word": "医生称超30%阳康可能面临脱发风险",
+        "onboard_time": 1673078489,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591286,
+        "num": 591286,
+        "word": "孙女连夜回国陪病重爷爷发现他在炫饭",
+        "onboard_time": 1673091810,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458225,
+        "num": 458225,
+        "word": "一诺走秀",
+        "onboard_time": 1673092650,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 641121,
+        "num": 451842,
+        "word": "BLACKPINK演唱会",
+        "onboard_time": 1673093431,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 612199,
+        "num": 442054,
+        "word": "LESSERAFIM今日金唱片舞台",
+        "onboard_time": 1673096555,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 404180,
+        "num": 404180,
+        "word": "家住8楼无电梯点外卖被骂不配点",
+        "onboard_time": 1673089111,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360981,
+        "num": 360981,
+        "word": "全圆佑金唱片眼镜造型",
+        "onboard_time": 1673097092,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352210,
+        "num": 352210,
+        "word": "三亚一月赚回三年亏损民宿老板录音原声",
+        "onboard_time": 1673073446,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358607,
+        "num": 345874,
+        "word": "刘耀文唱兄妹",
+        "onboard_time": 1673097210,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311269,
+        "num": 311269,
+        "word": "缉毒警察用牺牲战友名字作化名",
+        "onboard_time": 1673090433,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290189,
+        "num": 290189,
+        "word": "老年人感染新冠后不一定发烧",
+        "onboard_time": 1673084250,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265766,
+        "num": 265766,
+        "word": "教资面试的苦",
+        "onboard_time": 1673088452,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 257201,
+        "num": 257201,
+        "word": "今年国考约70人录取1人",
+        "onboard_time": 1673084792,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 608614,
+        "num": 256662,
+        "word": "春节将迎来脱发高峰期",
+        "onboard_time": 1673090610,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339354,
+        "num": 256234,
+        "word": "许红豆被谢之遥拿捏了",
+        "onboard_time": 1673095832,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304801,
+        "num": 255657,
+        "word": "胡鑫宇家属发声",
+        "onboard_time": 1673087012,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338425,
+        "num": 255182,
+        "word": "原来许红豆真的存在",
+        "onboard_time": 1673082753,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255043,
+        "num": 255043,
+        "word": "第一次见会吹气的狗",
+        "onboard_time": 1673092291,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247406,
+        "num": 247406,
+        "word": "东北人的社交能力有多强",
+        "onboard_time": 1673093431,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 221309,
+        "num": 221309,
+        "word": "老赖不还债花330万买彩票获刑5年",
+        "onboard_time": 1673097511,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178784,
+        "num": 178784,
+        "word": "阴阳师",
+        "onboard_time": 1673095052,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176109,
+        "num": 176109,
+        "word": "大熊猫真的去做引体向上了",
+        "onboard_time": 1673093670,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158514,
+        "num": 158514,
+        "word": "狼队挂牌",
+        "onboard_time": 1673085272,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 318203,
+        "num": 158239,
+        "word": "迪丽热巴又顶碗了",
+        "onboard_time": 1673088211,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321557,
+        "num": 155317,
+        "word": "崔胜澈金唱片黑发卷毛造型",
+        "onboard_time": 1673097991,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310899,
+        "num": 154383,
+        "word": "金唱片",
+        "onboard_time": 1673081849,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318183,
+        "num": 153123,
+        "word": "newjeans金唱片舞台喊麦",
+        "onboard_time": 1673093788,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 306332,
+        "num": 151528,
+        "word": "赵丽颖卷发造型梦回许半夏",
+        "onboard_time": 1673089834,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150212,
+        "num": 150212,
+        "word": "这样扎针应该不会疼吧",
+        "onboard_time": 1673096671,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144969,
+        "num": 144969,
+        "word": "AG挂牌Cat",
+        "onboard_time": 1673088635,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137636,
+        "num": 137636,
+        "word": "阳了能不能喝咖啡",
+        "onboard_time": 1673081911,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135762,
+        "num": 135762,
+        "word": "孙景坤逝世",
+        "onboard_time": 1673080892,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134765,
+        "num": 134765,
+        "word": "傅政华自述官迷心窍被骗子死死拿捏",
+        "onboard_time": 1673096731,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294361,
+        "num": 132391,
+        "word": "柯佳嬿认证喜欢许光汉就像长腋毛",
+        "onboard_time": 1673094150,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125969,
+        "num": 125969,
+        "word": "男子坐火车吃东西垃圾扔满地",
+        "onboard_time": 1673091391,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123378,
+        "num": 123378,
+        "word": "安徽一学校为学生发放100头猪",
+        "onboard_time": 1673097752,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 104142,
+        "num": 123347,
+        "word": "花海求衣得衣",
+        "onboard_time": 1673093431,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103828,
+        "num": 123318,
+        "word": "十问胡鑫宇失踪事件",
+        "onboard_time": 1673084012,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102670,
+        "num": 123268,
+        "word": "大学生放假回家后的行李箱",
+        "onboard_time": 1673086834,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100564,
+        "num": 123234,
+        "word": "日本宅男看动漫被打断怒杀父母",
+        "onboard_time": 1673071647,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 97889,
+        "num": 123190,
+        "word": "百兽挂牌",
+        "onboard_time": 1673083053,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92316,
+        "num": 123149,
+        "word": "女子吐槽68元一盘羊肉只有几片",
+        "onboard_time": 1673072787,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72836,
+        "num": 123107,
+        "word": "广东男篮vs浙江男篮",
+        "onboard_time": 1673092891,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#极简版第十版诊疗方案#"
+    }
+  }
+}

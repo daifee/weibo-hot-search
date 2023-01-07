@@ -1,6 +1,6 @@
 {
   "startTime": 1673022390574,
-  "endTime": 1673097642991,
+  "endTime": 1673098396966,
   "band_list": [
     {
       "raw_hot": 2529517,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 907681,
+      "num": 907681,
+      "word": "孟美岐演唱会",
+      "onboard_time": 1673095352,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 901431,
       "num": 901431,
       "word": "广西小伙救落水者因外表引热议",
@@ -291,11 +299,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 827297,
+      "num": 827297,
+      "word": "王鹤棣秦霄贤猜少爷和我",
+      "onboard_time": 1673098113,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 814834,
       "num": 814834,
       "word": "家住8楼无电梯点外卖被骂不配点",
       "onboard_time": 1673089111,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 811328,
+      "num": 811328,
+      "word": "阿里为全国60多万村捐赠血氧仪",
+      "onboard_time": 1673095950,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -321,14 +345,6 @@
       "onboard_time": 1673083053,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 775959,
-      "num": 775959,
-      "word": "孟美岐演唱会",
-      "onboard_time": 1673095352,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 774163,
@@ -443,14 +459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 668058,
-      "num": 668058,
-      "word": "阿里为全国60多万村捐赠血氧仪",
-      "onboard_time": 1673095950,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 658500,
       "num": 526182,
       "word": "金唱片",
@@ -531,6 +539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 612199,
+      "num": 502313,
+      "word": "LESSERAFIM今日金唱片舞台",
+      "onboard_time": 1673096555,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 611589,
       "num": 611589,
       "word": "马龙 比赛",
@@ -553,14 +569,6 @@
       "onboard_time": 1673096252,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 599036,
-      "num": 502313,
-      "word": "LESSERAFIM今日金唱片舞台",
-      "onboard_time": 1673096555,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 597533,
@@ -892,7 +900,7 @@
     },
     {
       "raw_hot": 419419,
-      "num": 242331,
+      "num": 345874,
       "word": "刘耀文唱兄妹",
       "onboard_time": 1673097210,
       "rank": 20,
@@ -1075,6 +1083,14 @@
       "category": "情感,情感"
     },
     {
+      "raw_hot": 339354,
+      "num": 256234,
+      "word": "许红豆被谢之遥拿捏了",
+      "onboard_time": 1673095832,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339307,
       "num": 184646,
       "word": "王凯理解的两根手指",
@@ -1115,19 +1131,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 331934,
-      "num": 231311,
-      "word": "许红豆被谢之遥拿捏了",
-      "onboard_time": 1673095832,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 325100,
       "num": 191153,
       "word": "张元英金唱片红毯造型",
       "onboard_time": 1673088514,
       "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 321557,
+      "num": 155317,
+      "word": "崔胜澈金唱片黑发卷毛造型",
+      "onboard_time": 1673097991,
+      "rank": 31,
       "category": "作品衍生"
     },
     {
@@ -1419,6 +1435,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 247406,
+      "num": 247406,
+      "word": "东北人的社交能力有多强",
+      "onboard_time": 1673093431,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 245836,
       "num": 236281,
       "word": "刘亦菲片场和马玩",
@@ -1523,14 +1547,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 227013,
-      "num": 236997,
-      "word": "东北人的社交能力有多强",
-      "onboard_time": 1673093431,
-      "rank": 38,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 227002,
       "num": 179325,
       "word": "许红豆旅行青蛙",
@@ -1577,6 +1593,14 @@
       "onboard_time": 1673076149,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221309,
+      "num": 221309,
+      "word": "老赖不还债花330万买彩票获刑5年",
+      "onboard_time": 1673097511,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221119,
@@ -1979,6 +2003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 150212,
+      "num": 191842,
+      "word": "这样扎针应该不会疼吧",
+      "onboard_time": 1673096671,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148509,
       "num": 148509,
       "word": "女孩下塘捕鱼沾满泥活像美人鱼",
@@ -2227,6 +2259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 123378,
+      "num": 123378,
+      "word": "安徽一学校为学生发放100头猪",
+      "onboard_time": 1673097752,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 123305,
       "num": 135351,
       "word": "消毒用的酒精不能带上车",
@@ -2297,14 +2337,6 @@
       "onboard_time": 1673004511,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 112299,
-      "num": 191842,
-      "word": "这样扎针应该不会疼吧",
-      "onboard_time": 1673096671,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 112248,
@@ -2441,14 +2473,6 @@
       "onboard_time": 1673046617,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 88142,
-      "num": 189430,
-      "word": "老赖不还债花330万买彩票获刑5年",
-      "onboard_time": 1673097511,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80120,
