@@ -1,0 +1,410 @@
+{
+  "runTime": 1673108634444,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1647435,
+        "num": 1647435,
+        "word": "玲娜贝儿被游客拍头",
+        "onboard_time": 1673102674,
+        "rank": 0,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 964337,
+        "num": 964337,
+        "word": "Lisa泰国人气",
+        "onboard_time": 1673107050,
+        "rank": 1,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 7383,
+        "num": 891135,
+        "word": "春运健康出行防护指南",
+        "onboard_time": 1673063609,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874757,
+        "num": 874757,
+        "word": "为什么大家不爱发朋友圈了",
+        "onboard_time": 1673090069,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 786107,
+        "num": 786107,
+        "word": "我读懂了张婉婷",
+        "onboard_time": 1673106270,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 786066,
+        "num": 786066,
+        "word": "俄议员建议从中国回购辽宁舰",
+        "onboard_time": 1673104237,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 753688,
+        "num": 753688,
+        "word": "你好星期六下期预告没有冯禧",
+        "onboard_time": 1673103035,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485525,
+        "num": 485525,
+        "word": "你能接受婚前同居的恋爱吗",
+        "onboard_time": 1673107170,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275846,
+        "num": 275846,
+        "word": "央视对话阿里张勇谈2023年最大机会",
+        "onboard_time": 1673103515,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1288015,
+        "num": 273485,
+        "word": "成都副区长不雅聊天记录当事人另有其人",
+        "onboard_time": 1673101836,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429433,
+        "num": 265104,
+        "word": "王鹤棣片场买烤肠吃",
+        "onboard_time": 1673103215,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 402300,
+        "num": 261292,
+        "word": "孟美岐演唱会",
+        "onboard_time": 1673095352,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 382433,
+        "num": 256086,
+        "word": "鸟叔再跳江南style",
+        "onboard_time": 1673106451,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253140,
+        "num": 253140,
+        "word": "孙女连夜回国陪病重爷爷发现他在炫饭",
+        "onboard_time": 1673091810,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209386,
+        "num": 209386,
+        "word": "原来猫会被猫嫌弃",
+        "onboard_time": 1673106329,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200064,
+        "num": 200064,
+        "word": "小土狗真的很可爱",
+        "onboard_time": 1673102975,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186783,
+        "num": 186783,
+        "word": "男子在滚烫红糖锅内徒手抓糖",
+        "onboard_time": 1673099314,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180262,
+        "num": 180262,
+        "word": "成都涉不雅聊天干部被建议免职",
+        "onboard_time": 1673086592,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173356,
+        "num": 173356,
+        "word": "狗狗累了不走主人树枝作轿抬回家",
+        "onboard_time": 1673100094,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158775,
+        "num": 158775,
+        "word": "老赖不还债花330万买彩票获刑5年",
+        "onboard_time": 1673097511,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325010,
+        "num": 153293,
+        "word": "网友撞声刘亦菲许红豆",
+        "onboard_time": 1673102855,
+        "rank": 20,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 250223,
+        "num": 151027,
+        "word": "SEVENTEEN今日金唱片舞台",
+        "onboard_time": 1673105793,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225783,
+        "num": 150738,
+        "word": "Minnie唱泰语版VillainDies",
+        "onboard_time": 1673107589,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143860,
+        "num": 143860,
+        "word": "一招就能解决便秘",
+        "onboard_time": 1673104473,
+        "rank": 23,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 140441,
+        "num": 140441,
+        "word": "老年人感染新冠后不一定发烧",
+        "onboard_time": 1673084250,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138464,
+        "num": 138464,
+        "word": "曝马丁内斯执教葡萄牙队",
+        "onboard_time": 1673103394,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136319,
+        "num": 136319,
+        "word": "阿里为全国60多万村捐赠血氧仪",
+        "onboard_time": 1673095950,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133385,
+        "num": 133385,
+        "word": "gk战队",
+        "onboard_time": 1673105371,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133044,
+        "num": 133044,
+        "word": "狼队年总首冠",
+        "onboard_time": 1673101714,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132801,
+        "num": 132801,
+        "word": "三体",
+        "onboard_time": 1673107290,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 221077,
+        "num": 131432,
+        "word": "沈月入行第一部戏的片酬被偷",
+        "onboard_time": 1673100395,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218550,
+        "num": 128549,
+        "word": "还魂",
+        "onboard_time": 1673105973,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196537,
+        "num": 124912,
+        "word": "BLACKPINK演唱会",
+        "onboard_time": 1673093431,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180419,
+        "num": 122845,
+        "word": "戴佩妮吴克群 嗑到了",
+        "onboard_time": 1673099012,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119985,
+        "num": 119985,
+        "word": "家住8楼无电梯点外卖被骂不配点",
+        "onboard_time": 1673089111,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115537,
+        "num": 115537,
+        "word": "贪官多年布局海景别墅项目洗钱",
+        "onboard_time": 1673099135,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115014,
+        "num": 115014,
+        "word": "教资面试的苦",
+        "onboard_time": 1673088452,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113586,
+        "num": 113586,
+        "word": "猫咪的爱也太沉重了",
+        "onboard_time": 1673103874,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106167,
+        "num": 106167,
+        "word": "安徽一学校为学生发放100头猪",
+        "onboard_time": 1673097752,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 100297,
+        "num": 100297,
+        "word": "国乒能否获得世乒赛满额席位",
+        "onboard_time": 1673100212,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175530,
+        "num": 99544,
+        "word": "惠英红反驳吴镇宇",
+        "onboard_time": 1673102252,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172347,
+        "num": 97957,
+        "word": "敖子逸承受了这个年纪不该有的黑",
+        "onboard_time": 1673105073,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95619,
+        "num": 95619,
+        "word": "杜锋呼吁不要让CBA变成罚篮比赛",
+        "onboard_time": 1673108069,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 87056,
+        "num": 87056,
+        "word": "在北京买房两居变两层",
+        "onboard_time": 1673107467,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85393,
+        "num": 85393,
+        "word": "东北人的社交能力有多强",
+        "onboard_time": 1673093431,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 82154,
+        "num": 82154,
+        "word": "缉毒警察用牺牲战友名字作化名",
+        "onboard_time": 1673090433,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75973,
+        "num": 82065,
+        "word": "今年国考约70人录取1人",
+        "onboard_time": 1673084792,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 65415,
+        "num": 81560,
+        "word": "你能接受无电梯配送费上调吗",
+        "onboard_time": 1673099374,
+        "rank": 47,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 65197,
+        "num": 81200,
+        "word": "KBG对阵JDG",
+        "onboard_time": 1673107648,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216288,
+        "num": 80515,
+        "word": "医生称超30%阳康可能面临脱发风险",
+        "onboard_time": 1673078489,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#极简版第十版诊疗方案#"
+    }
+  }
+}
