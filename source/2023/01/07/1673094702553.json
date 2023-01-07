@@ -1,0 +1,410 @@
+{
+  "runTime": 1673094702553,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1690015,
+        "num": 1690015,
+        "word": "为什么大家不爱发朋友圈了",
+        "onboard_time": 1673090069,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1233401,
+        "num": 1233401,
+        "word": "成都涉不雅聊天干部被建议免职",
+        "onboard_time": 1673086592,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17077,
+        "num": 903493,
+        "word": "春运健康出行防护指南",
+        "onboard_time": 1673063609,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828763,
+        "num": 828763,
+        "word": "BLACKPINK演唱会",
+        "onboard_time": 1673093431,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 814834,
+        "num": 814834,
+        "word": "家住8楼无电梯点外卖被骂不配点",
+        "onboard_time": 1673089111,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695416,
+        "num": 695416,
+        "word": "张杰线上演唱会",
+        "onboard_time": 1673094332,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 673750,
+        "num": 673750,
+        "word": "医生称超30%阳康可能面临脱发风险",
+        "onboard_time": 1673078489,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614444,
+        "num": 614444,
+        "word": "孙女连夜回国陪病重爷爷发现他在炫饭",
+        "onboard_time": 1673091810,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528155,
+        "num": 528155,
+        "word": "缉毒警察用牺牲战友名字作化名",
+        "onboard_time": 1673090433,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525476,
+        "num": 525476,
+        "word": "一诺走秀",
+        "onboard_time": 1673092650,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1758840,
+        "num": 520941,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1673094332,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1145209,
+        "num": 520069,
+        "word": "春节将迎来脱发高峰期",
+        "onboard_time": 1673090610,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512066,
+        "num": 512066,
+        "word": "赵丽颖卷发造型梦回许半夏",
+        "onboard_time": 1673089834,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 506568,
+        "num": 506568,
+        "word": "胡鑫宇家属发声",
+        "onboard_time": 1673087012,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499462,
+        "num": 499462,
+        "word": "主持人把谭松韵叫成程松韵",
+        "onboard_time": 1673084969,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 494613,
+        "num": 494613,
+        "word": "金唱片",
+        "onboard_time": 1673081849,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 469985,
+        "num": 469985,
+        "word": "三亚一月赚回三年亏损民宿老板录音原声",
+        "onboard_time": 1673073446,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346231,
+        "num": 346231,
+        "word": "教资面试的苦",
+        "onboard_time": 1673088452,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 251646,
+        "num": 251646,
+        "word": "第一次见会吹气的狗",
+        "onboard_time": 1673092291,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246773,
+        "num": 246773,
+        "word": "今年国考约70人录取1人",
+        "onboard_time": 1673084792,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 458197,
+        "num": 246711,
+        "word": "newjeans金唱片舞台喊麦",
+        "onboard_time": 1673093788,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 443992,
+        "num": 246307,
+        "word": "柯佳嬿认证喜欢许光汉就像长腋毛",
+        "onboard_time": 1673094150,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390097,
+        "num": 246223,
+        "word": "原来许红豆真的存在",
+        "onboard_time": 1673082753,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245488,
+        "num": 245488,
+        "word": "老年人感染新冠后不一定发烧",
+        "onboard_time": 1673084250,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188482,
+        "num": 188482,
+        "word": "AG挂牌Cat",
+        "onboard_time": 1673088635,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183429,
+        "num": 183429,
+        "word": "日本宅男看动漫被打断怒杀父母",
+        "onboard_time": 1673071647,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 167595,
+        "num": 167595,
+        "word": "花海求衣得衣",
+        "onboard_time": 1673093431,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157664,
+        "num": 157664,
+        "word": "狼队挂牌",
+        "onboard_time": 1673085272,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157179,
+        "num": 157179,
+        "word": "阳了能不能喝咖啡",
+        "onboard_time": 1673081911,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154535,
+        "num": 154535,
+        "word": "男子坐火车吃东西垃圾扔满地",
+        "onboard_time": 1673091391,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369187,
+        "num": 154047,
+        "word": "今晚王鹤棣明晚肖掌印",
+        "onboard_time": 1673093371,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355223,
+        "num": 154042,
+        "word": "阿娇晒与阿Sa跨年vlog",
+        "onboard_time": 1673092472,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274209,
+        "num": 153408,
+        "word": "虞书欣的学院风造型",
+        "onboard_time": 1673089111,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152707,
+        "num": 152707,
+        "word": "女子吐槽68元一盘羊肉只有几片",
+        "onboard_time": 1673072787,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273334,
+        "num": 151080,
+        "word": "你好星期六",
+        "onboard_time": 1673094213,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268227,
+        "num": 149753,
+        "word": "IVE 新人奖",
+        "onboard_time": 1673092531,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148005,
+        "num": 148005,
+        "word": "大熊猫真的去做引体向上了",
+        "onboard_time": 1673093670,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146497,
+        "num": 146497,
+        "word": "孙景坤逝世",
+        "onboard_time": 1673080892,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146138,
+        "num": 146138,
+        "word": "东北人的社交能力有多强",
+        "onboard_time": 1673093431,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 142993,
+        "num": 142993,
+        "word": "十问胡鑫宇失踪事件",
+        "onboard_time": 1673084012,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267246,
+        "num": 142989,
+        "word": "金唱片红毯上的明星",
+        "onboard_time": 1673086291,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129434,
+        "num": 142932,
+        "word": "大学生放假回家后的行李箱",
+        "onboard_time": 1673086834,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109681,
+        "num": 142905,
+        "word": "阴阳师新春版本",
+        "onboard_time": 1673094150,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107815,
+        "num": 142877,
+        "word": "GK 百兽",
+        "onboard_time": 1673088151,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103744,
+        "num": 142829,
+        "word": "百兽挂牌",
+        "onboard_time": 1673083053,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101462,
+        "num": 142798,
+        "word": "女子看病被医生开的处方字体惊呆了",
+        "onboard_time": 1673068888,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91201,
+        "num": 142770,
+        "word": "广东男篮vs浙江男篮",
+        "onboard_time": 1673092891,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88562,
+        "num": 142711,
+        "word": "男子半夜种菜为给女友买房",
+        "onboard_time": 1673075188,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81563,
+        "num": 142696,
+        "word": "法国队与德尚续约至2026年",
+        "onboard_time": 1673087311,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60919,
+        "num": 142651,
+        "word": "婚期还剩十几天新娘不见了",
+        "onboard_time": 1673066789,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#极简版第十版诊疗方案#"
+    }
+  }
+}

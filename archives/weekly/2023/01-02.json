@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1673091194662,
+  "endTime": 1673094702553,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1758840,
+      "num": 520941,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1673094332,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1756070,
       "num": 1756070,
       "word": "二次感染",
@@ -449,6 +457,14 @@
       "onboard_time": 1672745433,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1690015,
+      "num": 1690015,
+      "word": "为什么大家不爱发朋友圈了",
+      "onboard_time": 1673090069,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 1688050,
@@ -1137,6 +1153,14 @@
       "onboard_time": 1672825171,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1145209,
+      "num": 520069,
+      "word": "春节将迎来脱发高峰期",
+      "onboard_time": 1673090610,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1141349,
@@ -2003,6 +2027,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 828763,
+      "num": 828763,
+      "word": "BLACKPINK演唱会",
+      "onboard_time": 1673093431,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 826774,
       "num": 778621,
       "word": "重庆一隧道两摩托车相撞致4死",
@@ -2049,6 +2081,14 @@
       "onboard_time": 1673013754,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 814834,
+      "num": 814834,
+      "word": "家住8楼无电梯点外卖被骂不配点",
+      "onboard_time": 1673089111,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 813674,
@@ -2635,6 +2675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695416,
+      "num": 695416,
+      "word": "张杰线上演唱会",
+      "onboard_time": 1673094332,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 694918,
       "num": 694918,
       "word": "丈夫开车辗轧妻子致死案将开庭",
@@ -2664,14 +2712,6 @@
       "word": "北京一女子带娃嫁头婚老公",
       "onboard_time": 1672752091,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 688775,
-      "num": 688775,
-      "word": "家住8楼无电梯点外卖被骂不配点",
-      "onboard_time": 1673089111,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -3169,6 +3209,14 @@
       "onboard_time": 1673089111,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 614444,
+      "num": 614444,
+      "word": "孙女连夜回国陪病重爷爷发现他在炫饭",
+      "onboard_time": 1673091810,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 612042,
@@ -3899,6 +3947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 528155,
+      "num": 528155,
+      "word": "缉毒警察用牺牲战友名字作化名",
+      "onboard_time": 1673090433,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 526493,
       "num": 526493,
       "word": "王一博无名明朝发预告",
@@ -3929,6 +3985,14 @@
       "onboard_time": 1672880490,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 525476,
+      "num": 525476,
+      "word": "一诺走秀",
+      "onboard_time": 1673092650,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 525268,
@@ -4635,6 +4699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 458197,
+      "num": 246711,
+      "word": "newjeans金唱片舞台喊麦",
+      "onboard_time": 1673093788,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 457665,
       "num": 457665,
       "word": "张小斐问能看到我的秋裤不",
@@ -4827,6 +4899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 443992,
+      "num": 246307,
+      "word": "柯佳嬿认证喜欢许光汉就像长腋毛",
+      "onboard_time": 1673094150,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443830,
       "num": 443830,
       "word": "TVB对话王嘉尔",
@@ -4937,14 +5017,6 @@
       "onboard_time": 1673014112,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 432627,
-      "num": 432627,
-      "word": "为什么大家不爱发朋友圈了",
-      "onboard_time": 1673090069,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 432097,
@@ -5931,6 +6003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 369187,
+      "num": 154047,
+      "word": "今晚王鹤棣明晚肖掌印",
+      "onboard_time": 1673093371,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368987,
       "num": 232299,
       "word": "赵露思绿背心对镜九宫格",
@@ -6249,6 +6329,14 @@
       "onboard_time": 1672657590,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 355223,
+      "num": 154042,
+      "word": "阿娇晒与阿Sa跨年vlog",
+      "onboard_time": 1673092472,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 354774,
@@ -8139,6 +8227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273334,
+      "num": 151080,
+      "word": "你好星期六",
+      "onboard_time": 1673094213,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272703,
       "num": 272703,
       "word": "江苏3胞胎虎宝降生2只为珍稀雪虎",
@@ -8321,6 +8417,14 @@
       "onboard_time": 1672843954,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 268227,
+      "num": 149753,
+      "word": "IVE 新人奖",
+      "onboard_time": 1673092531,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 268191,
@@ -8801,6 +8905,14 @@
       "onboard_time": 1673005892,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251646,
+      "num": 251646,
+      "word": "第一次见会吹气的狗",
+      "onboard_time": 1673092291,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 251639,
@@ -11491,6 +11603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167595,
+      "num": 167595,
+      "word": "花海求衣得衣",
+      "onboard_time": 1673093431,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167422,
       "num": 104055,
       "word": "浮图缘原著肖铎喜欢兰花",
@@ -11947,6 +12067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154535,
+      "num": 154535,
+      "word": "男子坐火车吃东西垃圾扔满地",
+      "onboard_time": 1673091391,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154310,
       "num": 154310,
       "word": "小猫是有点倔强在身上的",
@@ -12195,6 +12323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148005,
+      "num": 148005,
+      "word": "大熊猫真的去做引体向上了",
+      "onboard_time": 1673093670,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147949,
       "num": 147949,
       "word": "XBB.1.5是否会攻击人的肠道",
@@ -12281,6 +12417,14 @@
       "onboard_time": 1672711766,
       "rank": 41,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 146138,
+      "num": 146138,
+      "word": "东北人的社交能力有多强",
+      "onboard_time": 1673093431,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 146134,
@@ -12592,14 +12736,6 @@
       "word": "乙类乙管后最新个人防护指南",
       "onboard_time": 1673082992,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137831,
-      "num": 154081,
-      "word": "春节将迎来脱发高峰期",
-      "onboard_time": 1673090610,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -13611,6 +13747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109681,
+      "num": 142905,
+      "word": "阴阳师新春版本",
+      "onboard_time": 1673094150,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109472,
       "num": 109472,
       "word": "王者新赛季明日上线",
@@ -13891,14 +14035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100511,
-      "num": 149235,
-      "word": "缉毒警察用牺牲战友名字作化名",
-      "onboard_time": 1673090433,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100469,
       "num": 100469,
       "word": "缓解肩颈不适试试这2个动作",
@@ -14113,6 +14249,14 @@
       "onboard_time": 1673046617,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91201,
+      "num": 142770,
+      "word": "广东男篮vs浙江男篮",
+      "onboard_time": 1673092891,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 91098,
