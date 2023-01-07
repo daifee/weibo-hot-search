@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1673109654196,
+  "endTime": 1673111718827,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -1875,6 +1875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 887107,
+      "num": 887107,
+      "word": "你能接受婚前同居的恋爱吗",
+      "onboard_time": 1673107170,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 878021,
       "num": 878021,
       "word": "妈妈掏出百万元存折催儿子结婚",
@@ -1913,14 +1921,6 @@
       "onboard_time": 1672840352,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 872845,
-      "num": 872845,
-      "word": "你能接受婚前同居的恋爱吗",
-      "onboard_time": 1673107170,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 870368,
@@ -5179,12 +5179,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 440473,
+      "num": 223045,
+      "word": "马云不再是蚂蚁集团实际控制人",
+      "onboard_time": 1673108965,
+      "rank": 36,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 440399,
       "num": 351201,
       "word": "2023春节档电影增至七部",
       "onboard_time": 1672975047,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 437877,
+      "num": 219948,
+      "word": "鞠婧祎脸好小",
+      "onboard_time": 1673109565,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 436152,
@@ -5809,6 +5825,14 @@
       "onboard_time": 1673009131,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 394165,
+      "num": 216017,
+      "word": "妈妈嫌儿子相亲照太生硬做成视频",
+      "onboard_time": 1673108668,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393970,
@@ -8195,6 +8219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284094,
+      "num": 284094,
+      "word": "杜锋呼吁不要让CBA变成罚篮比赛",
+      "onboard_time": 1673108069,
+      "rank": 42,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 283838,
       "num": 223442,
       "word": "青山刚昌说新一要出手了",
@@ -9219,6 +9251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 254186,
+      "num": 211608,
+      "word": "在北京买房两居变两层",
+      "onboard_time": 1673107467,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254099,
       "num": 192064,
       "word": "谭松韵偷亲王凯拍摄花絮",
@@ -9345,6 +9385,14 @@
       "onboard_time": 1672810109,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250854,
+      "num": 208131,
+      "word": "母亲去世3年仍有疫苗接种记录",
+      "onboard_time": 1673109565,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250779,
@@ -10035,14 +10083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227813,
-      "num": 134263,
-      "word": "鞠婧祎脸好小",
-      "onboard_time": 1673109565,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227553,
       "num": 227553,
       "word": "LNG对战IGY",
@@ -10113,6 +10153,14 @@
       "onboard_time": 1672901132,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224959,
+      "num": 224959,
+      "word": "三体",
+      "onboard_time": 1673107290,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 224452,
@@ -10427,14 +10475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213121,
-      "num": 198659,
-      "word": "杜锋呼吁不要让CBA变成罚篮比赛",
-      "onboard_time": 1673108069,
-      "rank": 42,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 212898,
       "num": 155619,
       "word": "林晓峰因超售向客人道歉退款",
@@ -10705,14 +10745,6 @@
       "onboard_time": 1672796186,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 205719,
-      "num": 205719,
-      "word": "三体",
-      "onboard_time": 1673107290,
-      "rank": 29,
-      "category": "动漫"
     },
     {
       "raw_hot": 205168,
@@ -11291,12 +11323,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186618,
-      "num": 107588,
-      "word": "在北京买房两居变两层",
-      "onboard_time": 1673107467,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 186460,
+      "num": 127048,
+      "word": "超燃美食记",
+      "onboard_time": 1673110644,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 185848,
@@ -11673,14 +11705,6 @@
       "onboard_time": 1672751732,
       "rank": 42,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 178868,
-      "num": 107359,
-      "word": "妈妈嫌儿子相亲照太生硬做成视频",
-      "onboard_time": 1673108668,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178781,
@@ -12851,6 +12875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148117,
+      "num": 126846,
+      "word": "王嘉尔说我感激所有的评价",
+      "onboard_time": 1673110823,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147949,
       "num": 147949,
       "word": "XBB.1.5是否会攻击人的肠道",
@@ -13097,6 +13129,14 @@
       "onboard_time": 1673070207,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141051,
+      "num": 122115,
+      "word": "孟佳橄榄球防守了个寂寞",
+      "onboard_time": 1673110944,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 140791,
@@ -13425,6 +13465,14 @@
       "onboard_time": 1672578813,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134400,
+      "num": 121012,
+      "word": "王一博无名战损妆",
+      "onboard_time": 1673111302,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 134226,
@@ -14379,14 +14427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107301,
-      "num": 107301,
-      "word": "马云不再是蚂蚁集团实际控制人",
-      "onboard_time": 1673108965,
-      "rank": 36,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 107045,
       "num": 107045,
       "word": "柯基打架点到为止",
@@ -14955,6 +14995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79773,
+      "num": 113038,
+      "word": "新年金属感美甲",
+      "onboard_time": 1673106691,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 78222,
       "num": 188880,
       "word": "女子驱车3小时为患病女孩献熊猫血",
@@ -15145,6 +15193,14 @@
       "onboard_time": 1672781531,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51612,
+      "num": 107329,
+      "word": "学者发现2.52亿年前陆地生物大灭绝元凶",
+      "onboard_time": 1673111302,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50806,

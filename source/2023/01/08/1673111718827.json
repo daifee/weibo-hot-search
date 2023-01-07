@@ -1,0 +1,410 @@
+{
+  "runTime": 1673111718827,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1152454,
+        "num": 1152454,
+        "word": "玲娜贝儿被游客拍头",
+        "onboard_time": 1673102674,
+        "rank": 0,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 887107,
+        "num": 887107,
+        "word": "你能接受婚前同居的恋爱吗",
+        "onboard_time": 1673107170,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 4065,
+        "num": 694288,
+        "word": "春运健康出行防护指南",
+        "onboard_time": 1673063609,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685732,
+        "num": 685732,
+        "word": "Lisa泰国人气",
+        "onboard_time": 1673107050,
+        "rank": 3,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 601118,
+        "num": 601118,
+        "word": "我读懂了张婉婷",
+        "onboard_time": 1673106270,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478840,
+        "num": 478840,
+        "word": "为什么大家不爱发朋友圈了",
+        "onboard_time": 1673090069,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 379007,
+        "num": 379007,
+        "word": "俄议员建议从中国回购辽宁舰",
+        "onboard_time": 1673104237,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 309588,
+        "num": 309588,
+        "word": "你好星期六下期预告没有冯禧",
+        "onboard_time": 1673103035,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284094,
+        "num": 284094,
+        "word": "杜锋呼吁不要让CBA变成罚篮比赛",
+        "onboard_time": 1673108069,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 224959,
+        "num": 224959,
+        "word": "三体",
+        "onboard_time": 1673107290,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 440473,
+        "num": 223045,
+        "word": "马云不再是蚂蚁集团实际控制人",
+        "onboard_time": 1673108965,
+        "rank": 10,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 437877,
+        "num": 219948,
+        "word": "鞠婧祎脸好小",
+        "onboard_time": 1673109565,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394165,
+        "num": 216017,
+        "word": "妈妈嫌儿子相亲照太生硬做成视频",
+        "onboard_time": 1673108668,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308992,
+        "num": 215404,
+        "word": "孟美岐演唱会",
+        "onboard_time": 1673095352,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 254186,
+        "num": 211608,
+        "word": "在北京买房两居变两层",
+        "onboard_time": 1673107467,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250854,
+        "num": 208131,
+        "word": "母亲去世3年仍有疫苗接种记录",
+        "onboard_time": 1673109565,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236286,
+        "num": 205824,
+        "word": "王鹤棣片场买烤肠吃",
+        "onboard_time": 1673103215,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202712,
+        "num": 202712,
+        "word": "原来猫会被猫嫌弃",
+        "onboard_time": 1673106329,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161900,
+        "num": 161900,
+        "word": "孙女连夜回国陪病重爷爷发现他在炫饭",
+        "onboard_time": 1673091810,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128062,
+        "num": 128062,
+        "word": "小土狗真的很可爱",
+        "onboard_time": 1673102975,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216631,
+        "num": 127676,
+        "word": "鸟叔再跳江南style",
+        "onboard_time": 1673106451,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186460,
+        "num": 127048,
+        "word": "超燃美食记",
+        "onboard_time": 1673110644,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148117,
+        "num": 126846,
+        "word": "王嘉尔说我感激所有的评价",
+        "onboard_time": 1673110823,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88509,
+        "num": 125800,
+        "word": "央视对话阿里张勇谈2023年最大机会",
+        "onboard_time": 1673103515,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87118,
+        "num": 125418,
+        "word": "老赖不还债花330万买彩票获刑5年",
+        "onboard_time": 1673097511,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84980,
+        "num": 124917,
+        "word": "老年人感染新冠后不一定发烧",
+        "onboard_time": 1673084250,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77331,
+        "num": 124520,
+        "word": "男子在滚烫红糖锅内徒手抓糖",
+        "onboard_time": 1673099314,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76553,
+        "num": 123917,
+        "word": "狗狗累了不走主人树枝作轿抬回家",
+        "onboard_time": 1673100094,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76344,
+        "num": 122937,
+        "word": "gk战队",
+        "onboard_time": 1673105371,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74246,
+        "num": 122628,
+        "word": "一招就能解决便秘",
+        "onboard_time": 1673104473,
+        "rank": 29,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 141051,
+        "num": 122115,
+        "word": "孟佳橄榄球防守了个寂寞",
+        "onboard_time": 1673110944,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135211,
+        "num": 121498,
+        "word": "SEVENTEEN今日金唱片舞台",
+        "onboard_time": 1673105793,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134400,
+        "num": 121012,
+        "word": "王一博无名战损妆",
+        "onboard_time": 1673111302,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120580,
+        "num": 120580,
+        "word": "沈月入行第一部戏的片酬被偷",
+        "onboard_time": 1673100395,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116835,
+        "num": 116835,
+        "word": "Minnie唱泰语版VillainDies",
+        "onboard_time": 1673107589,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113633,
+        "num": 113633,
+        "word": "戴佩妮吴克群 嗑到了",
+        "onboard_time": 1673099012,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79773,
+        "num": 113038,
+        "word": "新年金属感美甲",
+        "onboard_time": 1673106691,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 71565,
+        "num": 112869,
+        "word": "贪官多年布局海景别墅项目洗钱",
+        "onboard_time": 1673099135,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71114,
+        "num": 111819,
+        "word": "家住8楼无电梯点外卖被骂不配点",
+        "onboard_time": 1673089111,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70386,
+        "num": 111619,
+        "word": "教资面试的苦",
+        "onboard_time": 1673088452,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 70360,
+        "num": 110465,
+        "word": "狼队年总首冠",
+        "onboard_time": 1673101714,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67678,
+        "num": 110348,
+        "word": "曝马丁内斯执教葡萄牙队",
+        "onboard_time": 1673103394,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67324,
+        "num": 109256,
+        "word": "东北人的社交能力有多强",
+        "onboard_time": 1673093431,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 65842,
+        "num": 109040,
+        "word": "阿里为全国60多万村捐赠血氧仪",
+        "onboard_time": 1673095950,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59126,
+        "num": 108416,
+        "word": "猫咪的爱也太沉重了",
+        "onboard_time": 1673103874,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51612,
+        "num": 107329,
+        "word": "学者发现2.52亿年前陆地生物大灭绝元凶",
+        "onboard_time": 1673111302,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49781,
+        "num": 107050,
+        "word": "安徽一学校为学生发放100头猪",
+        "onboard_time": 1673097752,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 48030,
+        "num": 105988,
+        "word": "国乒能否获得世乒赛满额席位",
+        "onboard_time": 1673100212,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47069,
+        "num": 105699,
+        "word": "今年国考约70人录取1人",
+        "onboard_time": 1673084792,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 27821,
+        "num": 104860,
+        "word": "缉毒警察用牺牲战友名字作化名",
+        "onboard_time": 1673090433,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#极简版第十版诊疗方案#"
+    }
+  }
+}
