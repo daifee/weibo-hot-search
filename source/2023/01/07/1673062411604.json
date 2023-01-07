@@ -1,0 +1,410 @@
+{
+  "runTime": 1673062411604,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1669392,
+        "num": 1669392,
+        "word": "专家建议不要生吃可生食鸡蛋",
+        "onboard_time": 1673058505,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921190,
+        "num": 921190,
+        "word": "胡鑫宇事件调查报告",
+        "onboard_time": 1673061628,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43184,
+        "num": 886490,
+        "word": "天宫是怎样炼成的",
+        "onboard_time": 1673015314,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1576898,
+        "num": 882431,
+        "word": "李宇春被问认不认识周笔畅",
+        "onboard_time": 1673056588,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 857160,
+        "num": 857160,
+        "word": "女子表白领导被拒后每天在公司摸鱼",
+        "onboard_time": 1673053347,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752821,
+        "num": 752821,
+        "word": "NASA局长怕中国先登月封锁月表资源",
+        "onboard_time": 1673060429,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 569587,
+        "num": 569587,
+        "word": "电影无名官宣全阵容",
+        "onboard_time": 1673061509,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 564062,
+        "num": 564062,
+        "word": "小说西北有高楼涉嫌美化南京大屠杀",
+        "onboard_time": 1673056289,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559091,
+        "num": 559091,
+        "word": "主办方回应蓝兔子玩偶形象被吐槽",
+        "onboard_time": 1673057308,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550495,
+        "num": 550495,
+        "word": "国考",
+        "onboard_time": 1673050104,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 947334,
+        "num": 550297,
+        "word": "杨幂转发11年前微博给大家拜早年",
+        "onboard_time": 1673052085,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547471,
+        "num": 547471,
+        "word": "广西小伙救落水者因外表引热议",
+        "onboard_time": 1673055446,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518718,
+        "num": 518718,
+        "word": "卢姨",
+        "onboard_time": 1673059709,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 476268,
+        "num": 476268,
+        "word": "LPL新logo好帅",
+        "onboard_time": 1673060787,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 446800,
+        "num": 446800,
+        "word": "王一博电影无名的眼神戏",
+        "onboard_time": 1673061567,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 436074,
+        "num": 436074,
+        "word": "许红米考复旦大学许红豆考孵蛋大学",
+        "onboard_time": 1673060850,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422954,
+        "num": 422954,
+        "word": "陈粒不懂乐理",
+        "onboard_time": 1673062229,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402686,
+        "num": 402686,
+        "word": "新娘出嫁前到外婆病床前跪拜报喜",
+        "onboard_time": 1673056526,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402366,
+        "num": 402366,
+        "word": "突发心慌心悸警惕病毒性心肌炎",
+        "onboard_time": 1673058866,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299572,
+        "num": 299572,
+        "word": "超20亿人次大迁徙再现",
+        "onboard_time": 1673050644,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401069,
+        "num": 295602,
+        "word": "范丞丞说自己本名叫范晶",
+        "onboard_time": 1673050644,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360493,
+        "num": 289682,
+        "word": "无名",
+        "onboard_time": 1673058388,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321389,
+        "num": 289213,
+        "word": "牛骏峰去有风的地方人设",
+        "onboard_time": 1673061988,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283757,
+        "num": 283757,
+        "word": "2023LPL",
+        "onboard_time": 1673059049,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261993,
+        "num": 261993,
+        "word": "蛋仔派对",
+        "onboard_time": 1673048841,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258233,
+        "num": 258233,
+        "word": "张远在搞一种很新的再就业合体舞台",
+        "onboard_time": 1673055627,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245166,
+        "num": 245166,
+        "word": "郑刚炮轰罗永浩",
+        "onboard_time": 1673059648,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 245050,
+        "num": 245050,
+        "word": "吴尊友称中国疫情数据都与国际社会分享",
+        "onboard_time": 1673057548,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242500,
+        "num": 242500,
+        "word": "教资面试",
+        "onboard_time": 1673001813,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239430,
+        "num": 239430,
+        "word": "高中语文",
+        "onboard_time": 1673060970,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 245836,
+        "num": 236281,
+        "word": "刘亦菲片场和马玩",
+        "onboard_time": 1673060608,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232670,
+        "num": 232670,
+        "word": "傅菁江苏卫视春晚录制路透",
+        "onboard_time": 1673061149,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222148,
+        "num": 222148,
+        "word": "姚晨和朋友打电话状态演我",
+        "onboard_time": 1673058989,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206999,
+        "num": 206999,
+        "word": "爸爸几十年如一日每天等妈妈下班",
+        "onboard_time": 1673054427,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200252,
+        "num": 200252,
+        "word": "工厂老板年终奖给员工发电动车",
+        "onboard_time": 1673060550,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193179,
+        "num": 193179,
+        "word": "医院其他科室现状",
+        "onboard_time": 1673048721,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187961,
+        "num": 187961,
+        "word": "塔利班官员称英哈里王子该被送上国际法庭",
+        "onboard_time": 1673058027,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 182495,
+        "num": 182495,
+        "word": "没赶上高铁该咋办",
+        "onboard_time": 1673052266,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179827,
+        "num": 179827,
+        "word": "现有信息指向胡鑫宇自行离校",
+        "onboard_time": 1673062349,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168680,
+        "num": 168680,
+        "word": "暧昧期过长的原因是什么",
+        "onboard_time": 1673020290,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208292,
+        "num": 164898,
+        "word": "唐嫣回应切胃减肥传闻",
+        "onboard_time": 1673020591,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210113,
+        "num": 161781,
+        "word": "网传迪丽热巴龚俊安乐传过审",
+        "onboard_time": 1673031674,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209777,
+        "num": 153158,
+        "word": "胡鑫宇妈妈坚持称孩子已被害",
+        "onboard_time": 1673013992,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204461,
+        "num": 151365,
+        "word": "易烊千玺满江红的关键字是狠",
+        "onboard_time": 1673059406,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145893,
+        "num": 145893,
+        "word": "95后海归小伙被父亲喊回老家种地",
+        "onboard_time": 1673057787,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143701,
+        "num": 143701,
+        "word": "C罗为塔利斯卡鼓掌",
+        "onboard_time": 1673058447,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124568,
+        "num": 124568,
+        "word": "贝克汉姆儿子加盟布伦特福德",
+        "onboard_time": 1673062107,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123305,
+        "num": 123305,
+        "word": "消毒用的酒精不能带上车",
+        "onboard_time": 1673061089,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118625,
+        "num": 118625,
+        "word": "南京大屠杀幸存者郭林大去世",
+        "onboard_time": 1673061389,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118321,
+        "num": 118321,
+        "word": "张文宏到访社区卫生服务中心",
+        "onboard_time": 1673047218,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第十版新冠诊疗方案发布#"
+    }
+  }
+}

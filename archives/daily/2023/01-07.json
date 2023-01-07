@@ -1,6 +1,6 @@
 {
   "startTime": 1673022390574,
-  "endTime": 1673061608497,
+  "endTime": 1673062411604,
   "band_list": [
     {
       "raw_hot": 2030918,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1889554,
-      "num": 789826,
+      "num": 882431,
       "word": "李宇春被问认不认识周笔畅",
       "onboard_time": 1673056588,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1669392,
+      "num": 1669392,
+      "word": "专家建议不要生吃可生食鸡蛋",
+      "onboard_time": 1673058505,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1545690,
@@ -27,16 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1545514,
-      "num": 1545514,
-      "word": "专家建议不要生吃可生食鸡蛋",
-      "onboard_time": 1673058505,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1499142,
-      "num": 468838,
+      "num": 550297,
       "word": "杨幂转发11年前微博给大家拜早年",
       "onboard_time": 1673052085,
       "rank": 10,
@@ -65,6 +65,14 @@
       "onboard_time": 1673020591,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 921190,
+      "num": 921190,
+      "word": "胡鑫宇事件调查报告",
+      "onboard_time": 1673061628,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 901431,
@@ -105,6 +113,14 @@
       "onboard_time": 1673050104,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 752821,
+      "num": 752821,
+      "word": "NASA局长怕中国先登月封锁月表资源",
+      "onboard_time": 1673060429,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 751143,
@@ -171,12 +187,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 569587,
+      "num": 569587,
+      "word": "电影无名官宣全阵容",
+      "onboard_time": 1673061509,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 566388,
       "num": 566388,
       "word": "没赶上高铁该咋办",
       "onboard_time": 1673052266,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518718,
+      "num": 518718,
+      "word": "卢姨",
+      "onboard_time": 1673059709,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 512392,
@@ -203,20 +235,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 492170,
-      "num": 467761,
-      "word": "NASA局长怕中国先登月封锁月表资源",
-      "onboard_time": 1673060429,
-      "rank": 11,
-      "category": "科技"
-    },
-    {
       "raw_hot": 484737,
       "num": 484737,
       "word": "张艺兴突然间我们stop视频",
       "onboard_time": 1673020409,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 476268,
+      "num": 476268,
+      "word": "LPL新logo好帅",
+      "onboard_time": 1673060787,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 460375,
@@ -235,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 446800,
+      "num": 446800,
+      "word": "王一博电影无名的眼神戏",
+      "onboard_time": 1673061567,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443307,
       "num": 443307,
       "word": "女孩子真的是很美好很美好",
@@ -243,12 +283,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 432476,
-      "num": 432476,
-      "word": "卢姨",
-      "onboard_time": 1673059709,
-      "rank": 49,
-      "category": "教育"
+      "raw_hot": 436074,
+      "num": 436074,
+      "word": "许红米考复旦大学许红豆考孵蛋大学",
+      "onboard_time": 1673060850,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 430146,
@@ -275,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 422954,
+      "num": 422954,
+      "word": "陈粒不懂乐理",
+      "onboard_time": 1673062229,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415143,
       "num": 415143,
       "word": "哈里王子承认在阿富汗时曾杀死25人",
@@ -297,14 +345,6 @@
       "onboard_time": 1673016213,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 378846,
-      "num": 378846,
-      "word": "许红米考复旦大学许红豆考孵蛋大学",
-      "onboard_time": 1673060850,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 364257,
@@ -336,6 +376,14 @@
       "word": "网传迪丽热巴龚俊安乐传过审",
       "onboard_time": 1673031674,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 321389,
+      "num": 289213,
+      "word": "牛骏峰去有风的地方人设",
+      "onboard_time": 1673061988,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -371,14 +419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 306843,
-      "num": 292180,
-      "word": "电影无名官宣全阵容",
-      "onboard_time": 1673061509,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 298850,
       "num": 298850,
       "word": "胡鑫宇妈妈坚持称孩子已被害",
@@ -393,14 +433,6 @@
       "onboard_time": 1673007390,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293117,
-      "num": 293117,
-      "word": "LPL新logo好帅",
-      "onboard_time": 1673060787,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 287819,
@@ -459,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261993,
+      "num": 261993,
+      "word": "蛋仔派对",
+      "onboard_time": 1673048841,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 261582,
       "num": 220407,
       "word": "李庚希说姚晨声音像巫婆",
@@ -475,12 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246297,
-      "num": 246297,
-      "word": "蛋仔派对",
-      "onboard_time": 1673048841,
-      "rank": 19,
-      "category": "游戏"
+      "raw_hot": 245836,
+      "num": 236281,
+      "word": "刘亦菲片场和马玩",
+      "onboard_time": 1673060608,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 242913,
@@ -492,7 +532,7 @@
     },
     {
       "raw_hot": 241963,
-      "num": 214801,
+      "num": 232670,
       "word": "傅菁江苏卫视春晚录制路透",
       "onboard_time": 1673061149,
       "rank": 30,
@@ -505,6 +545,14 @@
       "onboard_time": 1673013754,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 239430,
+      "num": 239430,
+      "word": "高中语文",
+      "onboard_time": 1673060970,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 237346,
@@ -555,14 +603,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 217502,
-      "num": 206351,
-      "word": "刘亦菲片场和马玩",
-      "onboard_time": 1673060608,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 204755,
       "num": 142955,
       "word": "newjeans团综推广韩纸",
@@ -587,12 +627,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 203143,
-      "num": 175147,
-      "word": "王一博电影无名的眼神戏",
-      "onboard_time": 1673061567,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 200252,
+      "num": 200252,
+      "word": "工厂老板年终奖给员工发电动车",
+      "onboard_time": 1673060550,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199986,
@@ -643,14 +683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186335,
-      "num": 186335,
-      "word": "工厂老板年终奖给员工发电动车",
-      "onboard_time": 1673060550,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185689,
       "num": 156725,
       "word": "刘亦菲说三个词不够夸谢之遥",
@@ -691,20 +723,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179827,
+      "num": 179827,
+      "word": "现有信息指向胡鑫宇自行离校",
+      "onboard_time": 1673062349,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178878,
       "num": 139866,
       "word": "张杰曾用光头得了健美操冠军",
       "onboard_time": 1673012012,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177054,
-      "num": 177054,
-      "word": "高中语文",
-      "onboard_time": 1673060970,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 166102,
@@ -947,12 +979,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124568,
+      "num": 124568,
+      "word": "贝克汉姆儿子加盟布伦特福德",
+      "onboard_time": 1673062107,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123651,
       "num": 123651,
       "word": "李现晒去有风的地方片场随拍",
       "onboard_time": 1673039653,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 123305,
+      "num": 135351,
+      "word": "消毒用的酒精不能带上车",
+      "onboard_time": 1673061089,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120669,
@@ -969,6 +1017,14 @@
       "onboard_time": 1673021788,
       "rank": 39,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 118625,
+      "num": 118625,
+      "word": "南京大屠杀幸存者郭林大去世",
+      "onboard_time": 1673061389,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117156,
@@ -1033,14 +1089,6 @@
       "onboard_time": 1673053587,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103091,
-      "num": 135351,
-      "word": "消毒用的酒精不能带上车",
-      "onboard_time": 1673061089,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102937,
