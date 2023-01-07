@@ -1,6 +1,6 @@
 {
   "startTime": 1673022390574,
-  "endTime": 1673059150749,
+  "endTime": 1673059745750,
   "band_list": [
     {
       "raw_hot": 2030918,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 901431,
+      "num": 901431,
+      "word": "广西小伙救落水者因外表引热议",
+      "onboard_time": 1673055446,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 868369,
       "num": 868369,
       "word": "邓超 人缘",
@@ -83,20 +91,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 817259,
-      "num": 817259,
-      "word": "广西小伙救落水者因外表引热议",
-      "onboard_time": 1673055446,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 758345,
       "num": 758345,
       "word": "国考",
       "onboard_time": 1673050104,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 751143,
+      "num": 751143,
+      "word": "无名",
+      "onboard_time": 1673058388,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 716886,
@@ -107,12 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 659790,
-      "num": 659790,
-      "word": "无名",
-      "onboard_time": 1673058388,
-      "rank": 6,
-      "category": "影视"
+      "raw_hot": 651475,
+      "num": 651475,
+      "word": "小说西北有高楼涉嫌美化南京大屠杀",
+      "onboard_time": 1673056289,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 633442,
@@ -131,6 +139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 607398,
+      "num": 405320,
+      "word": "专家建议不要生吃可生食鸡蛋",
+      "onboard_time": 1673058505,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 597420,
       "num": 597420,
       "word": "女子首次去福建农村男友家傻眼了",
@@ -145,14 +161,6 @@
       "onboard_time": 1673019451,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 574480,
-      "num": 574480,
-      "word": "小说西北有高楼涉嫌美化南京大屠杀",
-      "onboard_time": 1673056289,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 566388,
@@ -187,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 493027,
+      "num": 493027,
+      "word": "主办方回应蓝兔子玩偶形象被吐槽",
+      "onboard_time": 1673057308,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484737,
       "num": 484737,
       "word": "张艺兴突然间我们stop视频",
@@ -217,14 +233,6 @@
       "onboard_time": 1673017294,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 435246,
-      "num": 435246,
-      "word": "主办方回应蓝兔子玩偶形象被吐槽",
-      "onboard_time": 1673057308,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430146,
@@ -267,19 +275,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364257,
+      "num": 364257,
+      "word": "吴尊友称中国疫情数据都与国际社会分享",
+      "onboard_time": 1673057548,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356436,
       "num": 356436,
       "word": "四部门发布新冠乙类乙管感染者医保政策",
       "onboard_time": 1673052205,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 345428,
-      "num": 345428,
-      "word": "吴尊友称中国疫情数据都与国际社会分享",
-      "onboard_time": 1673057548,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287819,
+      "num": 257813,
+      "word": "宋亚轩北京台春晚下班路透",
+      "onboard_time": 1673059106,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276412,
       "num": 234200,
       "word": "浪莎发文向郎朗吉娜道歉",
@@ -379,12 +395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260196,
-      "num": 239754,
-      "word": "宋亚轩北京台春晚下班路透",
-      "onboard_time": 1673059106,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 256254,
+      "num": 256254,
+      "word": "易烊千玺满江红的关键字是狠",
+      "onboard_time": 1673059406,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 246297,
@@ -411,14 +427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 238673,
-      "num": 238673,
-      "word": "专家建议不要生吃可生食鸡蛋",
-      "onboard_time": 1673058505,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237346,
       "num": 237346,
       "word": "明星也不能笑着走出理发店",
@@ -440,6 +448,14 @@
       "word": "郭晓婷回应站过车保罗",
       "onboard_time": 1673050885,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 225849,
+      "num": 192904,
+      "word": "姚晨和朋友打电话状态演我",
+      "onboard_time": 1673058989,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -483,6 +499,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198403,
+      "num": 198403,
+      "word": "塔利班官员称英哈里王子该被送上国际法庭",
+      "onboard_time": 1673058027,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 198220,
+      "num": 198220,
+      "word": "95后海归小伙被父亲喊回老家种地",
+      "onboard_time": 1673057787,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196145,
       "num": 156587,
       "word": "杨洋是糊弄学大师吧",
@@ -505,6 +537,14 @@
       "onboard_time": 1673051906,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189530,
+      "num": 189530,
+      "word": "2023LPL",
+      "onboard_time": 1673059049,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 186780,
@@ -555,14 +595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 180369,
-      "num": 156985,
-      "word": "姚晨和朋友打电话状态演我",
-      "onboard_time": 1673058989,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178878,
       "num": 139866,
       "word": "张杰曾用光头得了健美操冠军",
@@ -593,14 +625,6 @@
       "onboard_time": 1673033474,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162888,
-      "num": 162888,
-      "word": "95后海归小伙被父亲喊回老家种地",
-      "onboard_time": 1673057787,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162880,
@@ -635,12 +659,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 154814,
-      "num": 154814,
-      "word": "塔利班官员称英哈里王子该被送上国际法庭",
-      "onboard_time": 1673058027,
-      "rank": 33,
-      "category": "国外要闻"
+      "raw_hot": 156348,
+      "num": 156348,
+      "word": "突发心慌心悸警惕病毒性心肌炎",
+      "onboard_time": 1673058866,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154809,
@@ -739,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136725,
+      "num": 136725,
+      "word": "C罗为塔利斯卡鼓掌",
+      "onboard_time": 1673058447,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130385,
       "num": 95876,
       "word": "王一博光明之路上班路透",
@@ -795,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127805,
+      "num": 127805,
+      "word": "郑刚炮轰罗永浩",
+      "onboard_time": 1673059648,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127130,
       "num": 141693,
       "word": "有没有人能管管电视这个事",
@@ -817,14 +857,6 @@
       "onboard_time": 1673032333,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125027,
-      "num": 125027,
-      "word": "C罗为塔利斯卡鼓掌",
-      "onboard_time": 1673058447,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 123651,
@@ -947,28 +979,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 95680,
-      "num": 95680,
-      "word": "突发心慌心悸警惕病毒性心肌炎",
-      "onboard_time": 1673058866,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92360,
-      "num": 92360,
-      "word": "2023LPL",
-      "onboard_time": 1673059049,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 91327,
       "num": 91327,
       "word": "红袜子是本命年全国统一标配吗",
       "onboard_time": 1673046617,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83383,
+      "num": 83383,
+      "word": "卢姨",
+      "onboard_time": 1673059709,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 79318,
