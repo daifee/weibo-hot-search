@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673196072850,
+  "endTime": 1673198104654,
   "band_list": [
     {
       "raw_hot": 1255901,
@@ -56,6 +56,14 @@
       "word": "俞敏洪谈男童掀帘事件",
       "onboard_time": 1673190697,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 542749,
+      "num": 542749,
+      "word": "人民网评胡鑫宇失踪调查进展",
+      "onboard_time": 1673195605,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -131,7 +139,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326219,
+      "raw_hot": 336773,
       "num": 326219,
       "word": "泰副总理将赴机场迎接首批中国游客",
       "onboard_time": 1673193451,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 300337,
-      "num": 155260,
+      "num": 237426,
       "word": "苏醒 当年的电视剧字幕里没一句我名字",
       "onboard_time": 1673182352,
       "rank": 22,
@@ -283,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121096,
+      "num": 84096,
+      "word": "薛之谦 准备听新歌了哦",
+      "onboard_time": 1673196502,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 117970,
       "num": 117970,
       "word": "如何评价今年国考",
@@ -307,6 +323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 107975,
+      "num": 107975,
+      "word": "熊熊第一次吃榴莲的反应",
+      "onboard_time": 1673192792,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104121,
       "num": 104121,
       "word": "明日方舟",
@@ -323,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100579,
+      "num": 100579,
+      "word": "假如把太阳换成其他恒星",
+      "onboard_time": 1673194466,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100519,
       "num": 94245,
       "word": "鹅鹅鹅 画风",
@@ -331,20 +363,20 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 100455,
-      "num": 100455,
-      "word": "熊熊第一次吃榴莲的反应",
-      "onboard_time": 1673192792,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 99766,
       "num": 99766,
       "word": "郭艾伦CBA得分超越巴特尔",
       "onboard_time": 1673186373,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99719,
+      "num": 83241,
+      "word": "第九节课",
+      "onboard_time": 1673196146,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 88969,
@@ -387,22 +419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 80428,
-      "num": 80428,
-      "word": "假如把太阳换成其他恒星",
-      "onboard_time": 1673194466,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 79626,
-      "num": 79626,
-      "word": "人民网评胡鑫宇失踪调查进展",
-      "onboard_time": 1673195605,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72700,
       "num": 72700,
       "word": "重岳 配音",
@@ -417,6 +433,14 @@
       "onboard_time": 1673188357,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43406,
+      "num": 65536,
+      "word": "鹅鸭杀",
+      "onboard_time": 1673188297,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 22347,
