@@ -1,0 +1,410 @@
+{
+  "runTime": 1673166125472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1062752,
+        "num": 1062752,
+        "word": "乘客羽绒服炸裂绒毛飘满地铁车厢",
+        "onboard_time": 1673159609,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941430,
+        "num": 941430,
+        "word": "医保局和辉瑞谈判4个多小时",
+        "onboard_time": 1673161588,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159020,
+        "num": 890957,
+        "word": "新冠感染乙类乙管今起正式实施",
+        "onboard_time": 1673143107,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855318,
+        "num": 855318,
+        "word": "上海警方调查玲娜贝儿头部被拍打",
+        "onboard_time": 1673163808,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822171,
+        "num": 822171,
+        "word": "姚明女儿最新身高",
+        "onboard_time": 1673163030,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1420331,
+        "num": 690639,
+        "word": "江西重大交通事故已致19死20伤",
+        "onboard_time": 1673156188,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 493820,
+        "num": 493820,
+        "word": "Lisa代言广告里有沉香如屑",
+        "onboard_time": 1673163929,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454365,
+        "num": 454365,
+        "word": "小琴求婚谢之遥",
+        "onboard_time": 1673165009,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 410677,
+        "num": 410677,
+        "word": "iPhone15Pro机型会有6大独占功能",
+        "onboard_time": 1673152528,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 406482,
+        "num": 406482,
+        "word": "陈钰琪帮王鹤棣脱衣服花絮",
+        "onboard_time": 1673161407,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1247797,
+        "num": 406367,
+        "word": "长清一中",
+        "onboard_time": 1673160091,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 875821,
+        "num": 404389,
+        "word": "官方通报女子去世后有新冠疫苗接种记录",
+        "onboard_time": 1673163749,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 395232,
+        "num": 395232,
+        "word": "女主播直播间公然打骂女儿被行拘",
+        "onboard_time": 1673159248,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 374608,
+        "num": 374608,
+        "word": "恋爱久了真的很难结婚吗",
+        "onboard_time": 1673162248,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366357,
+        "num": 366357,
+        "word": "血氧仪对农村意味着什么",
+        "onboard_time": 1673154031,
+        "rank": 14,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 308394,
+        "num": 308394,
+        "word": "这游戏真的非玩不可吗",
+        "onboard_time": 1673146348,
+        "rank": 15,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 306977,
+        "num": 306977,
+        "word": "叶一茜说田亮为赶回家太拼了",
+        "onboard_time": 1673160566,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303587,
+        "num": 303587,
+        "word": "三亚游客被尾随推销拒绝后生口角",
+        "onboard_time": 1673162668,
+        "rank": 17,
+        "category": "社会负面,旅游"
+      },
+      {
+        "raw_hot": 811405,
+        "num": 294619,
+        "word": "成都涉不雅聊天副区长简历被撤下",
+        "onboard_time": 1673159846,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 277944,
+        "num": 277944,
+        "word": "林林",
+        "onboard_time": 1673159910,
+        "rank": 19,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 260811,
+        "num": 260811,
+        "word": "与凤行预约人数破百万",
+        "onboard_time": 1673164349,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240158,
+        "num": 240158,
+        "word": "开放入境后会引发第二轮感染吗",
+        "onboard_time": 1673161469,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233073,
+        "num": 233073,
+        "word": "刘耀文横店演乞丐路透",
+        "onboard_time": 1673164170,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228322,
+        "num": 228322,
+        "word": "福建33岁单亲妈妈嫁35岁头婚男",
+        "onboard_time": 1673141606,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227188,
+        "num": 227188,
+        "word": "鹿晗五哈赶集路透",
+        "onboard_time": 1673166029,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209784,
+        "num": 209784,
+        "word": "张馨予晒怼脸自拍",
+        "onboard_time": 1673161469,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188392,
+        "num": 188392,
+        "word": "第十版防控方案情况发布会",
+        "onboard_time": 1673166029,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183919,
+        "num": 183919,
+        "word": "长清一中高考听力录音疑似卡顿",
+        "onboard_time": 1673165128,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 181984,
+        "num": 181984,
+        "word": "有人买9万元机票广州飞洛杉矶",
+        "onboard_time": 1673151750,
+        "rank": 28,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 181740,
+        "num": 181740,
+        "word": "38岁詹姆斯场均38分",
+        "onboard_time": 1673160629,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318922,
+        "num": 181269,
+        "word": "普通型肺炎重型肺炎CT读片",
+        "onboard_time": 1673164589,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179534,
+        "num": 179534,
+        "word": "一个出不去一个跑不了",
+        "onboard_time": 1673165428,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175482,
+        "num": 175482,
+        "word": "杨九郎谐音梗让孟佳愤怒离席",
+        "onboard_time": 1673147429,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157777,
+        "num": 157777,
+        "word": "感染新冠后多久可以接种疫苗",
+        "onboard_time": 1673164769,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157484,
+        "num": 157484,
+        "word": "男子捡到没设密码手机微信有20万",
+        "onboard_time": 1673165668,
+        "rank": 34,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 151516,
+        "num": 151516,
+        "word": "顾南亭用行动爱着程霄",
+        "onboard_time": 1673163389,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140607,
+        "num": 140607,
+        "word": "成都涉不雅聊天干部简历被撤",
+        "onboard_time": 1673164529,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134064,
+        "num": 134064,
+        "word": "过年的冬衣准备好了没",
+        "onboard_time": 1673164292,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132709,
+        "num": 132709,
+        "word": "疫情暴发流行期间可以采取紧急防控措施",
+        "onboard_time": 1673164469,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132624,
+        "num": 132624,
+        "word": "林小宅古装",
+        "onboard_time": 1673156787,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130163,
+        "num": 130163,
+        "word": "肖步活了重回小木屋",
+        "onboard_time": 1673164110,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127534,
+        "num": 127534,
+        "word": "谢之遥OOTD",
+        "onboard_time": 1673165249,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116296,
+        "num": 116296,
+        "word": "猫咪的身子骨能有多软",
+        "onboard_time": 1673165307,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106036,
+        "num": 106036,
+        "word": "男子新买百万奔驰被朋友借走撞烂",
+        "onboard_time": 1673143886,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105177,
+        "num": 105177,
+        "word": "男孩滑板失控俯冲被路人一秒拽回",
+        "onboard_time": 1673158828,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 104109,
+        "num": 104109,
+        "word": "孩子发烧不要用酒精擦拭",
+        "onboard_time": 1673157692,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102192,
+        "num": 102192,
+        "word": "勇士 普洱",
+        "onboard_time": 1673154630,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98844,
+        "num": 98844,
+        "word": "沈月许魏洲荣梓杉融入群演好快",
+        "onboard_time": 1673160029,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98553,
+        "num": 98553,
+        "word": "今年国考报名人数达近十年之最",
+        "onboard_time": 1673153368,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 97892,
+        "num": 97892,
+        "word": "新车被小孩刮花家长不认账",
+        "onboard_time": 1673156188,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国活力#"
+    }
+  }
+}

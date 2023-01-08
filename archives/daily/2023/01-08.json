@@ -1,6 +1,6 @@
 {
   "startTime": 1673108634444,
-  "endTime": 1673163197411,
+  "endTime": 1673166125472,
   "band_list": [
     {
       "raw_hot": 3650071,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 941430,
+      "num": 941430,
+      "word": "医保局和辉瑞谈判4个多小时",
+      "onboard_time": 1673161588,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 926653,
       "num": 926653,
       "word": "国考行测",
@@ -171,12 +179,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 875821,
+      "num": 404389,
+      "word": "官方通报女子去世后有新冠疫苗接种记录",
+      "onboard_time": 1673163749,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 874757,
       "num": 874757,
       "word": "为什么大家不爱发朋友圈了",
       "onboard_time": 1673090069,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 855318,
+      "num": 855318,
+      "word": "上海警方调查玲娜贝儿头部被拍打",
+      "onboard_time": 1673163808,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 848342,
@@ -193,6 +217,14 @@
       "onboard_time": 1673140467,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 822171,
+      "num": 822171,
+      "word": "姚明女儿最新身高",
+      "onboard_time": 1673163030,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 804239,
@@ -347,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 539308,
-      "num": 447966,
-      "word": "医保局和辉瑞谈判4个多小时",
-      "onboard_time": 1673161588,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 536514,
       "num": 536514,
       "word": "叶一茜说田亮为赶回家太拼了",
@@ -395,6 +419,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 493820,
+      "num": 493820,
+      "word": "Lisa代言广告里有沉香如屑",
+      "onboard_time": 1673163929,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 492834,
       "num": 492834,
       "word": "许嵩新歌 没想到",
@@ -425,6 +457,14 @@
       "onboard_time": 1673152170,
       "rank": 45,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 454365,
+      "num": 454365,
+      "word": "小琴求婚谢之遥",
+      "onboard_time": 1673165009,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 452597,
@@ -579,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 374608,
+      "num": 374608,
+      "word": "恋爱久了真的很难结婚吗",
+      "onboard_time": 1673162248,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 373811,
       "num": 373811,
       "word": "你朋友圈暂停营业多久了",
@@ -627,6 +675,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 318922,
+      "num": 181269,
+      "word": "普通型肺炎重型肺炎CT读片",
+      "onboard_time": 1673164589,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314775,
       "num": 314775,
       "word": "孩子发烧不要用酒精擦拭",
@@ -665,6 +721,14 @@
       "onboard_time": 1673134820,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303587,
+      "num": 303587,
+      "word": "三亚游客被尾随推销拒绝后生口角",
+      "onboard_time": 1673162668,
+      "rank": 27,
+      "category": "社会负面,旅游"
     },
     {
       "raw_hot": 303039,
@@ -779,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260811,
+      "num": 260811,
+      "word": "与凤行预约人数破百万",
+      "onboard_time": 1673164349,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255995,
       "num": 217504,
       "word": "顾南亭为程霄奔走调查",
@@ -835,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240158,
+      "num": 240158,
+      "word": "开放入境后会引发第二轮感染吗",
+      "onboard_time": 1673161469,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239260,
       "num": 209386,
       "word": "原来猫会被猫嫌弃",
@@ -867,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233073,
+      "num": 233073,
+      "word": "刘耀文横店演乞丐路透",
+      "onboard_time": 1673164170,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231527,
       "num": 231527,
       "word": "官方回应高铁站人员疑似摆拍",
@@ -881,6 +969,14 @@
       "onboard_time": 1673136743,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227188,
+      "num": 227188,
+      "word": "鹿晗五哈赶集路透",
+      "onboard_time": 1673166029,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 226385,
@@ -905,14 +1001,6 @@
       "onboard_time": 1673107290,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 224694,
-      "num": 224694,
-      "word": "开放入境后会引发第二轮感染吗",
-      "onboard_time": 1673161469,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221192,
@@ -1083,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188392,
+      "num": 188392,
+      "word": "第十版防控方案情况发布会",
+      "onboard_time": 1673166029,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187030,
       "num": 187030,
       "word": "小狗有仇直接当场报",
@@ -1115,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183919,
+      "num": 183919,
+      "word": "长清一中高考听力录音疑似卡顿",
+      "onboard_time": 1673165128,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 181524,
       "num": 181524,
       "word": "今年国考报名人数达近十年之最",
@@ -1137,6 +1241,14 @@
       "onboard_time": 1673086592,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179534,
+      "num": 179534,
+      "word": "一个出不去一个跑不了",
+      "onboard_time": 1673165428,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 179399,
@@ -1251,12 +1363,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156441,
-      "num": 156441,
-      "word": "三亚游客被尾随推销拒绝后生口角",
-      "onboard_time": 1673162668,
-      "rank": 27,
-      "category": "社会负面,旅游"
+      "raw_hot": 157777,
+      "num": 157777,
+      "word": "感染新冠后多久可以接种疫苗",
+      "onboard_time": 1673164769,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157484,
+      "num": 157484,
+      "word": "男子捡到没设密码手机微信有20万",
+      "onboard_time": 1673165668,
+      "rank": 34,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 154353,
@@ -1267,20 +1387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153787,
-      "num": 153787,
-      "word": "恋爱久了真的很难结婚吗",
-      "onboard_time": 1673162248,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152013,
       "num": 152013,
       "word": "周总理定下十条家规",
       "onboard_time": 1673142208,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151516,
+      "num": 151516,
+      "word": "顾南亭用行动爱着程霄",
+      "onboard_time": 1673163389,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 150265,
@@ -1347,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140607,
+      "num": 140607,
+      "word": "成都涉不雅聊天干部简历被撤",
+      "onboard_time": 1673164529,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140441,
       "num": 140441,
       "word": "老年人感染新冠后不一定发烧",
@@ -1403,6 +1531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134064,
+      "num": 134064,
+      "word": "过年的冬衣准备好了没",
+      "onboard_time": 1673164292,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133385,
       "num": 133385,
       "word": "gk战队",
@@ -1417,6 +1553,30 @@
       "onboard_time": 1673101714,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132709,
+      "num": 132709,
+      "word": "疫情暴发流行期间可以采取紧急防控措施",
+      "onboard_time": 1673164469,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130163,
+      "num": 130163,
+      "word": "肖步活了重回小木屋",
+      "onboard_time": 1673164110,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 127534,
+      "num": 127534,
+      "word": "谢之遥OOTD",
+      "onboard_time": 1673165249,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 124249,
@@ -1457,6 +1617,14 @@
       "onboard_time": 1673161889,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 116296,
+      "num": 116296,
+      "word": "猫咪的身子骨能有多软",
+      "onboard_time": 1673165307,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 115846,
@@ -1505,14 +1673,6 @@
       "onboard_time": 1673137826,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106483,
-      "num": 106483,
-      "word": "姚明女儿最新身高",
-      "onboard_time": 1673163030,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 106167,
@@ -1706,6 +1866,9 @@
     },
     {
       "word": "#做实做细做完备应对好春运大考#"
+    },
+    {
+      "word": "#流动的中国活力#"
     }
   ]
 }
