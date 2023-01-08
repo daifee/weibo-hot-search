@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1673176443691,
+  "endTime": 1673177593283,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2078484,
+      "num": 1064981,
+      "word": "依托答辩",
+      "onboard_time": 1673173895,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2077791,
       "num": 2077791,
       "word": "迪丽热巴年后进组",
@@ -289,14 +297,6 @@
       "onboard_time": 1672800084,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2001788,
-      "num": 1064981,
-      "word": "依托答辩",
-      "onboard_time": 1673173895,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 1980337,
@@ -547,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1681013,
+      "num": 1062189,
+      "word": "陈炳林承认校园霸凌",
+      "onboard_time": 1673175032,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1673744,
       "num": 1673744,
       "word": "k4",
@@ -771,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1465219,
+      "num": 1465219,
+      "word": "辉瑞Paxlovid因报价高医保谈判未能成功",
+      "onboard_time": 1673174849,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1461504,
       "num": 1461504,
       "word": "胖虎说易烊千玺是值得守卫的首位",
@@ -955,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1349847,
-      "num": 1062189,
-      "word": "陈炳林承认校园霸凌",
-      "onboard_time": 1673175032,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1348404,
       "num": 1348404,
       "word": "程霄当众承认喜欢顾南亭",
@@ -1016,14 +1024,6 @@
       "word": "女生买蛋糕发现草莓是印的包装",
       "onboard_time": 1672818268,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1294132,
-      "num": 1294132,
-      "word": "辉瑞Paxlovid因报价高医保谈判未能成功",
-      "onboard_time": 1673174849,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -2755,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 746011,
+      "num": 746011,
+      "word": "卿卿日常见面会",
+      "onboard_time": 1673175692,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 742013,
       "num": 649313,
       "word": "网传肖战任敏玉骨遥暂定Q1播出",
@@ -3219,6 +3227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 666793,
+      "num": 666793,
+      "word": "阿奶补上了陈南星的位置",
+      "onboard_time": 1673173771,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 666754,
       "num": 666754,
       "word": "WBG夺得微博杯冠军",
@@ -3305,14 +3321,6 @@
       "onboard_time": 1672975888,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 658610,
-      "num": 658610,
-      "word": "阿奶补上了陈南星的位置",
-      "onboard_time": 1673173771,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 658500,
@@ -4025,6 +4033,14 @@
       "onboard_time": 1673078251,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 577672,
+      "num": 577672,
+      "word": "中国奇谭 封神",
+      "onboard_time": 1673176531,
+      "rank": 12,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 577235,
@@ -5035,6 +5051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 491807,
+      "num": 273522,
+      "word": "王鹤棣为学弟学妹录制加油视频",
+      "onboard_time": 1673176951,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489616,
       "num": 489616,
       "word": "浙江58.87万学生将迎来高考首战",
@@ -5395,6 +5419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 458005,
+      "num": 272199,
+      "word": "网络视听盛典",
+      "onboard_time": 1673176772,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 457665,
       "num": 457665,
       "word": "张小斐问能看到我的秋裤不",
@@ -5569,14 +5601,6 @@
       "onboard_time": 1672885169,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 447888,
-      "num": 447888,
-      "word": "卿卿日常见面会",
-      "onboard_time": 1673175692,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 446800,
@@ -7081,6 +7105,22 @@
       "onboard_time": 1672995450,
       "rank": 26,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 365377,
+      "num": 198599,
+      "word": "TVB颁奖礼",
+      "onboard_time": 1673176292,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 365181,
+      "num": 198589,
+      "word": "白鹿以爱为营婚纱造型拍摄路透",
+      "onboard_time": 1673177552,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 364981,
@@ -10435,6 +10475,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 248456,
+      "num": 198410,
+      "word": "没有姚明高没有比尔盖茨富",
+      "onboard_time": 1673176890,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248207,
       "num": 176566,
       "word": "许红豆谢之遥有一群爱情保安",
@@ -11491,6 +11539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217530,
+      "num": 217530,
+      "word": "当对象给你留吃的时",
+      "onboard_time": 1673176652,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217466,
       "num": 217466,
       "word": "诺氟沙星是一种什么药",
@@ -11505,6 +11561,14 @@
       "onboard_time": 1672625309,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216625,
+      "num": 216625,
+      "word": "行测答案",
+      "onboard_time": 1673175933,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 216368,
@@ -12121,14 +12185,6 @@
       "onboard_time": 1673071349,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 196699,
-      "num": 148230,
-      "word": "TVB颁奖礼",
-      "onboard_time": 1673176292,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 196686,
@@ -13747,6 +13803,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 163354,
+      "num": 163354,
+      "word": "北京天空现绝美多层飞碟云",
+      "onboard_time": 1673176352,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163167,
       "num": 163167,
       "word": "公安部预警2023年春运五类风险",
@@ -14299,6 +14363,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 150622,
+      "num": 150622,
+      "word": "2040元买30斤牛肉切开肉内有纸",
+      "onboard_time": 1673177250,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150265,
       "num": 150265,
       "word": "曝苹果或上调iPhone15Pro售价",
@@ -14329,14 +14401,6 @@
       "onboard_time": 1672677684,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 149714,
-      "num": 149714,
-      "word": "行测答案",
-      "onboard_time": 1673175933,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 149587,
@@ -14473,6 +14537,14 @@
       "onboard_time": 1672934728,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146328,
+      "num": 146328,
+      "word": "吴尊友解析是否马上有新一轮传播风险",
+      "onboard_time": 1673176772,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146309,
@@ -15235,6 +15307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129428,
+      "num": 129428,
+      "word": "如何评价今年国考",
+      "onboard_time": 1673177250,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 129191,
       "num": 129191,
       "word": "曼联3比0伯恩茅斯",
@@ -15425,6 +15505,14 @@
       "onboard_time": 1673013271,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 124762,
+      "num": 124762,
+      "word": "辉瑞",
+      "onboard_time": 1673177491,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124731,
@@ -15737,14 +15825,6 @@
       "onboard_time": 1672889192,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118644,
-      "num": 118644,
-      "word": "北京天空现绝美多层飞碟云",
-      "onboard_time": 1673176352,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118303,
