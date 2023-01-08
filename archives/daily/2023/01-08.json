@@ -1,6 +1,6 @@
 {
   "startTime": 1673108634444,
-  "endTime": 1673146566542,
+  "endTime": 1673147946926,
   "band_list": [
     {
       "raw_hot": 3650071,
@@ -11,8 +11,16 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2299894,
+      "num": 2299894,
+      "word": "南昌居民称事故系货车撞上出殡队伍",
+      "onboard_time": 1673146288,
+      "rank": 21,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1649281,
-      "num": 931335,
+      "num": 1307166,
       "word": "福建33岁单亲妈妈嫁35岁头婚男",
       "onboard_time": 1673141606,
       "rank": 31,
@@ -25,6 +33,14 @@
       "onboard_time": 1673102674,
       "rank": 0,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 1621542,
+      "num": 1621542,
+      "word": "国考",
+      "onboard_time": 1673133917,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1288015,
@@ -51,6 +67,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1043554,
+      "num": 1043554,
+      "word": "堂吉诃德",
+      "onboard_time": 1673134100,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1020126,
       "num": 1020126,
       "word": "Lisa泰国人气",
@@ -65,14 +89,6 @@
       "onboard_time": 1673143886,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 921535,
-      "num": 921535,
-      "word": "堂吉诃德",
-      "onboard_time": 1673134100,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 887107,
@@ -139,6 +155,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 593882,
+      "num": 593882,
+      "word": "女子为吃骨髓用手挖美甲卡大骨头",
+      "onboard_time": 1673144488,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585941,
       "num": 585941,
       "word": "红豆遥遥冰否认恋情",
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 557399,
-      "num": 478074,
+      "num": 538983,
       "word": "北京台春晚代言人剪影线索",
       "onboard_time": 1673146230,
       "rank": 10,
@@ -179,12 +203,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 524022,
-      "num": 524022,
-      "word": "国考",
-      "onboard_time": 1673133917,
-      "rank": 0,
-      "category": "教育"
+      "raw_hot": 506188,
+      "num": 506188,
+      "word": "女子踢打残疾乞讨男子抢其钱撕碎",
+      "onboard_time": 1673145688,
+      "rank": 36,
+      "category": "社会负面"
     },
     {
       "raw_hot": 492834,
@@ -193,14 +217,6 @@
       "onboard_time": 1673137103,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 488276,
-      "num": 488276,
-      "word": "女子为吃骨髓用手挖美甲卡大骨头",
-      "onboard_time": 1673144488,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 437877,
@@ -219,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 425615,
+      "num": 425615,
+      "word": "杨九郎谐音梗让孟佳愤怒离席",
+      "onboard_time": 1673147429,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419481,
       "num": 419481,
       "word": "Lisa金色抹胸蝴蝶结造型",
@@ -227,12 +251,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 406454,
+      "num": 406454,
+      "word": "热烈制片人说王一博会演戏不用质疑",
+      "onboard_time": 1673146648,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404445,
       "num": 404445,
       "word": "第一次见这么可爱的兔子",
       "onboard_time": 1673136926,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 403662,
+      "num": 403662,
+      "word": "这游戏真的非玩不可吗",
+      "onboard_time": 1673146348,
+      "rank": 37,
+      "category": "游戏,幽默"
     },
     {
       "raw_hot": 402300,
@@ -275,6 +315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 364674,
+      "num": 269507,
+      "word": "黄明昊说冯禧的雪人是用断桥残雪堆的",
+      "onboard_time": 1673146409,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350305,
       "num": 268119,
       "word": "母亲去世3年仍有疫苗接种记录",
@@ -291,20 +339,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 336212,
+      "num": 269229,
+      "word": "LESSERAFIM看朴宰范的reaction",
+      "onboard_time": 1673147729,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 325010,
       "num": 153293,
       "word": "网友撞声刘亦菲许红豆",
       "onboard_time": 1673102855,
       "rank": 20,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 311234,
-      "num": 311234,
-      "word": "女子踢打残疾乞讨男子抢其钱撕碎",
-      "onboard_time": 1673145688,
-      "rank": 36,
-      "category": "社会负面"
     },
     {
       "raw_hot": 303895,
@@ -315,20 +363,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303039,
+      "num": 245996,
+      "word": "刘亦菲李现拍夕阳花絮",
+      "onboard_time": 1673146768,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284094,
       "num": 284094,
       "word": "杜锋呼吁不要让CBA变成罚篮比赛",
       "onboard_time": 1673108069,
       "rank": 42,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 282443,
-      "num": 282443,
-      "word": "南昌居民称事故系货车撞上出殡队伍",
-      "onboard_time": 1673146288,
-      "rank": 21,
-      "category": "社会负面"
     },
     {
       "raw_hot": 279685,
@@ -353,6 +401,14 @@
       "onboard_time": 1673134760,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269869,
+      "num": 269869,
+      "word": "直播看香港与内地恢复通关首日",
+      "onboard_time": 1673144428,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269451,
@@ -419,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245671,
-      "num": 245671,
-      "word": "直播看香港与内地恢复通关首日",
-      "onboard_time": 1673144428,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239260,
       "num": 209386,
       "word": "原来猫会被猫嫌弃",
@@ -441,6 +489,14 @@
       "onboard_time": 1673125571,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231462,
+      "num": 137609,
+      "word": "肖铎步音楼手撕绿茶",
+      "onboard_time": 1673147787,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 229826,
@@ -491,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215793,
+      "num": 215793,
+      "word": "实施乙类乙管后全国疫情形势现状",
+      "onboard_time": 1673145508,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207563,
       "num": 133171,
       "word": "戴佩妮吴克群 嗑到了",
@@ -531,14 +595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194926,
-      "num": 186011,
-      "word": "黄明昊说冯禧的雪人是用断桥残雪堆的",
-      "onboard_time": 1673146409,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192989,
       "num": 144073,
       "word": "学者发现2.52亿年前陆地生物大灭绝元凶",
@@ -563,8 +619,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 187690,
-      "num": 187690,
+      "raw_hot": 188699,
+      "num": 188699,
       "word": "为什么年轻人越来越抵触父母催婚",
       "onboard_time": 1673144846,
       "rank": 34,
@@ -593,14 +649,6 @@
       "onboard_time": 1673110644,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185137,
-      "num": 185137,
-      "word": "实施乙类乙管后全国疫情形势现状",
-      "onboard_time": 1673145508,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180550,
@@ -673,14 +721,6 @@
       "onboard_time": 1673141007,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169201,
-      "num": 169201,
-      "word": "这游戏真的非玩不可吗",
-      "onboard_time": 1673146348,
-      "rank": 37,
-      "category": "游戏,幽默"
     },
     {
       "raw_hot": 158775,
@@ -899,6 +939,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94107,
+      "num": 94107,
+      "word": "公安部预警2023年春运五类风险",
+      "onboard_time": 1673147248,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93190,
+      "num": 93190,
+      "word": "2023国考公共科目笔试",
+      "onboard_time": 1673147850,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 91996,
       "num": 91996,
       "word": "皇马状态",
@@ -1020,7 +1076,7 @@
     },
     {
       "raw_hot": 19812,
-      "num": 959436,
+      "num": 1362661,
       "word": "春运健康出行防护指南",
       "onboard_time": 1673063609,
       "rank": 2,
