@@ -1,6 +1,6 @@
 {
   "startTime": 1673108634444,
-  "endTime": 1673174025045,
+  "endTime": 1673176443691,
   "band_list": [
     {
       "raw_hot": 3650071,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2367438,
-      "num": 957153,
+      "num": 959297,
       "word": "江西重大交通事故已致19死20伤",
       "onboard_time": 1673156188,
       "rank": 5,
@@ -41,6 +41,14 @@
       "onboard_time": 1673146288,
       "rank": 21,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2001788,
+      "num": 1064981,
+      "word": "依托答辩",
+      "onboard_time": 1673173895,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 1752867,
@@ -99,12 +107,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1349847,
+      "num": 1062189,
+      "word": "陈炳林承认校园霸凌",
+      "onboard_time": 1673175032,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1299381,
       "num": 1299381,
       "word": "官方通报女子去世后有新冠疫苗接种记录",
       "onboard_time": 1673163749,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1294132,
+      "num": 1294132,
+      "word": "辉瑞Paxlovid因报价高医保谈判未能成功",
+      "onboard_time": 1673174849,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1293735,
@@ -163,6 +187,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1055042,
+      "num": 1055042,
+      "word": "一家四口用兽药退烧儿女现肝衰竭",
+      "onboard_time": 1673172030,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1033767,
       "num": 1033767,
       "word": "成都涉不雅聊天副区长简历被撤下",
@@ -192,14 +224,6 @@
       "word": "医保局和辉瑞谈判4个多小时",
       "onboard_time": 1673161588,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 931675,
-      "num": 931675,
-      "word": "一家四口用兽药退烧儿女现肝衰竭",
-      "onboard_time": 1673172030,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -339,6 +363,22 @@
       "category": "社会负面,网红"
     },
     {
+      "raw_hot": 662093,
+      "num": 662093,
+      "word": "阿兹夫定片医保谈判成功",
+      "onboard_time": 1673173895,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 658610,
+      "num": 658610,
+      "word": "阿奶补上了陈南星的位置",
+      "onboard_time": 1673173771,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 654021,
       "num": 654021,
       "word": "陈钰琪帮王鹤棣脱衣服花絮",
@@ -377,6 +417,14 @@
       "onboard_time": 1673165009,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 597539,
+      "num": 597539,
+      "word": "你会介意另一半过去的感情经历吗",
+      "onboard_time": 1673172210,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 594909,
@@ -459,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 508412,
+      "num": 508412,
+      "word": "虞书欣提裙摆梦回小兰花",
+      "onboard_time": 1673175210,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 506188,
       "num": 506188,
       "word": "女子踢打残疾乞讨男子抢其钱撕碎",
@@ -489,14 +545,6 @@
       "onboard_time": 1673137103,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 479238,
-      "num": 479238,
-      "word": "你会介意另一半过去的感情经历吗",
-      "onboard_time": 1673172210,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 477984,
@@ -536,6 +584,14 @@
       "word": "张小斐说偷偷努力被发现了",
       "onboard_time": 1673152049,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 447888,
+      "num": 447888,
+      "word": "卿卿日常见面会",
+      "onboard_time": 1673175692,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -595,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414298,
+      "num": 298746,
+      "word": "王鹤棣解释鸳鸯脑",
+      "onboard_time": 1673175330,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 406707,
       "num": 406707,
       "word": "苏醒一台晚会打两份工",
@@ -633,6 +697,14 @@
       "onboard_time": 1673095352,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 402054,
+      "num": 295913,
+      "word": "江部长倒逼程霄辞职",
+      "onboard_time": 1673175093,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 396025,
@@ -1115,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246194,
+      "num": 219660,
+      "word": "时光与他恰是正好",
+      "onboard_time": 1673173949,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241007,
       "num": 1284590,
       "word": "多渠道增加受疫情影响较大群体的收入",
@@ -1159,6 +1239,14 @@
       "num": 170449,
       "word": "浮图缘",
       "onboard_time": 1673158349,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 236557,
+      "num": 219185,
+      "word": "影视剧霸总101",
+      "onboard_time": 1673175511,
       "rank": 32,
       "category": "影视"
     },
@@ -1291,12 +1379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212986,
-      "num": 205840,
-      "word": "阿奶补上了陈南星的位置",
-      "onboard_time": 1673173771,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 208399,
+      "num": 149051,
+      "word": "tempest网络视听盛典路透",
+      "onboard_time": 1673176051,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 207563,
@@ -1352,6 +1440,14 @@
       "word": "南得霄亭联手破局",
       "onboard_time": 1673173771,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196699,
+      "num": 148230,
+      "word": "TVB颁奖礼",
+      "onboard_time": 1673176292,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1723,6 +1819,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 149714,
+      "num": 149714,
+      "word": "行测答案",
+      "onboard_time": 1673175933,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 149587,
       "num": 145203,
       "word": "张远撞脸自由女神",
@@ -1737,14 +1841,6 @@
       "onboard_time": 1673158349,
       "rank": 47,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 148545,
-      "num": 148545,
-      "word": "依托答辩",
-      "onboard_time": 1673173895,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 148117,
@@ -1851,14 +1947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133978,
-      "num": 133978,
-      "word": "阿兹夫定片医保谈判成功",
-      "onboard_time": 1673173895,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133385,
       "num": 133385,
       "word": "gk战队",
@@ -1952,6 +2040,14 @@
       "word": "家住8楼无电梯点外卖被骂不配点",
       "onboard_time": 1673089111,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118644,
+      "num": 118644,
+      "word": "北京天空现绝美多层飞碟云",
+      "onboard_time": 1673176352,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673174025045,
+  "endTime": 1673176443691,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 2367438,
-      "num": 957153,
+      "num": 959297,
       "word": "江西重大交通事故已致19死20伤",
       "onboard_time": 1673156188,
       "rank": 5,
@@ -417,6 +417,14 @@
       "onboard_time": 1672800084,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2001788,
+      "num": 1064981,
+      "word": "依托答辩",
+      "onboard_time": 1673173895,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 1980337,
@@ -1219,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1349847,
+      "num": 1062189,
+      "word": "陈炳林承认校园霸凌",
+      "onboard_time": 1673175032,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1348404,
       "num": 1348404,
       "word": "程霄当众承认喜欢顾南亭",
@@ -1272,6 +1288,14 @@
       "word": "女生买蛋糕发现草莓是印的包装",
       "onboard_time": 1672818268,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1294132,
+      "num": 1294132,
+      "word": "辉瑞Paxlovid因报价高医保谈判未能成功",
+      "onboard_time": 1673174849,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1835,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1055042,
+      "num": 1055042,
+      "word": "一家四口用兽药退烧儿女现肝衰竭",
+      "onboard_time": 1673172030,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1052339,
       "num": 1052339,
       "word": "曾轶可演唱会被维权",
@@ -2233,14 +2265,6 @@
       "onboard_time": 1673080353,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 931675,
-      "num": 931675,
-      "word": "一家四口用兽药退烧儿女现肝衰竭",
-      "onboard_time": 1673172030,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 926653,
@@ -3891,6 +3915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 662093,
+      "num": 662093,
+      "word": "阿兹夫定片医保谈判成功",
+      "onboard_time": 1673173895,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661332,
       "num": 661332,
       "word": "刘亦菲的新剧状态",
@@ -3921,6 +3953,14 @@
       "onboard_time": 1672975888,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 658610,
+      "num": 658610,
+      "word": "阿奶补上了陈南星的位置",
+      "onboard_time": 1673173771,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 658500,
@@ -4465,6 +4505,14 @@
       "onboard_time": 1672554992,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 597539,
+      "num": 597539,
+      "word": "你会介意另一半过去的感情经历吗",
+      "onboard_time": 1673172210,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 597533,
@@ -5643,6 +5691,14 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 508412,
+      "num": 508412,
+      "word": "虞书欣提裙摆梦回小兰花",
+      "onboard_time": 1673175210,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 508384,
       "num": 508384,
       "word": "王鹤棣说浮图缘再演霸总有压力",
@@ -6008,14 +6064,6 @@
       "word": "张杰说自己是张社牛杰",
       "onboard_time": 1672802247,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 479238,
-      "num": 479238,
-      "word": "你会介意另一半过去的感情经历吗",
-      "onboard_time": 1673172210,
-      "rank": 23,
       "category": "综艺"
     },
     {
@@ -6465,6 +6513,14 @@
       "onboard_time": 1672885169,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 447888,
+      "num": 447888,
+      "word": "卿卿日常见面会",
+      "onboard_time": 1673175692,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 446800,
@@ -7019,6 +7075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 414298,
+      "num": 298746,
+      "word": "王鹤棣解释鸳鸯脑",
+      "onboard_time": 1673175330,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 413984,
       "num": 413984,
       "word": "杨紫粉色海洋",
@@ -7241,6 +7305,14 @@
       "onboard_time": 1672553968,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402054,
+      "num": 295913,
+      "word": "江部长倒逼程霄辞职",
+      "onboard_time": 1673175093,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 401852,
@@ -11979,6 +12051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246194,
+      "num": 219660,
+      "word": "时光与他恰是正好",
+      "onboard_time": 1673173949,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246142,
       "num": 173489,
       "word": "丁程鑫马正元微博网友最喜爱角色",
@@ -12305,6 +12385,14 @@
       "onboard_time": 1673045955,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236557,
+      "num": 219185,
+      "word": "影视剧霸总101",
+      "onboard_time": 1673175511,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 236390,
@@ -13203,14 +13291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212986,
-      "num": 205840,
-      "word": "阿奶补上了陈南星的位置",
-      "onboard_time": 1673173771,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 212898,
       "num": 155619,
       "word": "林晓峰因超售向客人道歉退款",
@@ -13457,6 +13537,14 @@
       "onboard_time": 1672847969,
       "rank": 18,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 208399,
+      "num": 149051,
+      "word": "tempest网络视听盛典路透",
+      "onboard_time": 1673176051,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 208324,
@@ -13857,6 +13945,14 @@
       "onboard_time": 1672564048,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196699,
+      "num": 148230,
+      "word": "TVB颁奖礼",
+      "onboard_time": 1673176292,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 196686,
@@ -16331,6 +16427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149714,
+      "num": 149714,
+      "word": "行测答案",
+      "onboard_time": 1673175933,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 149587,
       "num": 145203,
       "word": "张远撞脸自由女神",
@@ -16377,14 +16481,6 @@
       "onboard_time": 1672550731,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148545,
-      "num": 148545,
-      "word": "依托答辩",
-      "onboard_time": 1673173895,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 148509,
@@ -17147,14 +17243,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 133978,
-      "num": 133978,
-      "word": "阿兹夫定片医保谈判成功",
-      "onboard_time": 1673173895,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133910,
       "num": 133910,
       "word": "不同人眼中的年货天花板",
@@ -17889,6 +17977,14 @@
       "onboard_time": 1672889192,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118644,
+      "num": 118644,
+      "word": "北京天空现绝美多层飞碟云",
+      "onboard_time": 1673176352,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118303,
