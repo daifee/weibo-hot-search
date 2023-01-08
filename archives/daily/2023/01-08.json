@@ -1,6 +1,6 @@
 {
   "startTime": 1673108634444,
-  "endTime": 1673191088362,
+  "endTime": 1673191996465,
   "band_list": [
     {
       "raw_hot": 3650071,
@@ -315,8 +315,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 891775,
-      "num": 891775,
+      "raw_hot": 910559,
+      "num": 910559,
       "word": "59岁的叶童",
       "onboard_time": 1673189975,
       "rank": 5,
@@ -843,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 439367,
+      "num": 155830,
+      "word": "胡定欣陈晓华陈山聪 最佳衣着奖",
+      "onboard_time": 1673191233,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 439121,
       "num": 439121,
       "word": "2023国考公共科目笔试",
@@ -1155,6 +1163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 343707,
+      "num": 343707,
+      "word": "感觉狗子爽到了",
+      "onboard_time": 1673188896,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 337431,
       "num": 337431,
       "word": "今起新冠感染乙类乙管正式实施",
@@ -1169,14 +1185,6 @@
       "onboard_time": 1673190396,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 329957,
-      "num": 329957,
-      "word": "感觉狗子爽到了",
-      "onboard_time": 1673188896,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 327987,
@@ -1473,6 +1481,14 @@
       "onboard_time": 1673166390,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 267748,
+      "num": 267748,
+      "word": "俞敏洪谈男童掀帘事件",
+      "onboard_time": 1673190697,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267135,
@@ -2635,6 +2651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112150,
+      "num": 130955,
+      "word": "冬天的哈尔滨",
+      "onboard_time": 1673190877,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111590,
       "num": 111590,
       "word": "梁建章称旅游行业仍处冰冻期",
@@ -2651,14 +2675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107097,
-      "num": 131135,
-      "word": "俞敏洪谈男童掀帘事件",
-      "onboard_time": 1673190697,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106810,
       "num": 106810,
       "word": "仿佛脚底安了弹簧的狗狗",
@@ -2673,6 +2689,14 @@
       "onboard_time": 1673097752,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 105316,
+      "num": 105316,
+      "word": "姚迪确认将出国打球",
+      "onboard_time": 1673191835,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 104987,
@@ -2721,14 +2745,6 @@
       "onboard_time": 1673181512,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 95444,
-      "num": 130955,
-      "word": "冬天的哈尔滨",
-      "onboard_time": 1673190877,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 91996,

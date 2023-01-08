@@ -1,0 +1,410 @@
+{
+  "runTime": 1673191996465,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1665279,
+        "num": 1665279,
+        "word": "女子晒6本结婚证4本离婚证",
+        "onboard_time": 1673188715,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1337168,
+        "num": 1337168,
+        "word": "贪官收下一箱水果打开是一百万现金",
+        "onboard_time": 1673186853,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48008,
+        "num": 1193806,
+        "word": "多渠道增加受疫情影响较大群体的收入",
+        "onboard_time": 1673166209,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1117647,
+        "num": 1117647,
+        "word": "Lisa演唱会 黄欣苑",
+        "onboard_time": 1673190937,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 910559,
+        "num": 910559,
+        "word": "59岁的叶童",
+        "onboard_time": 1673189975,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 848449,
+        "num": 848449,
+        "word": "姑娘坐火车来京见男友却被拉黑哭着求助民警",
+        "onboard_time": 1673185653,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633716,
+        "num": 633716,
+        "word": "TVB颁奖礼",
+        "onboard_time": 1673176292,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 543648,
+        "num": 543648,
+        "word": "辉瑞Paxlovid因报价高医保谈判未能成功",
+        "onboard_time": 1673174849,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539134,
+        "num": 539134,
+        "word": "2040元买30斤牛肉切开肉内有纸",
+        "onboard_time": 1673177250,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449537,
+        "num": 449537,
+        "word": "新冠恢复期解决失眠的4个方法",
+        "onboard_time": 1673184932,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809864,
+        "num": 426782,
+        "word": "李现对不起 我爱上了隔壁村草谢之遥",
+        "onboard_time": 1673180910,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 551970,
+        "num": 426758,
+        "word": "白敬亭说初一必须穿红色",
+        "onboard_time": 1673187634,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539577,
+        "num": 411314,
+        "word": "陈炳林承认校园霸凌",
+        "onboard_time": 1673175032,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343707,
+        "num": 343707,
+        "word": "感觉狗子爽到了",
+        "onboard_time": 1673188896,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313169,
+        "num": 313169,
+        "word": "女子买200万豪车亲友400箱礼花庆贺",
+        "onboard_time": 1673185473,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274954,
+        "num": 274954,
+        "word": "为捞政绩他执意搞填海严重破坏珊瑚礁",
+        "onboard_time": 1673184154,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 267748,
+        "num": 267748,
+        "word": "俞敏洪谈男童掀帘事件",
+        "onboard_time": 1673190697,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253546,
+        "num": 253546,
+        "word": "一家四口用兽药退烧儿女现肝衰竭",
+        "onboard_time": 1673172030,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232213,
+        "num": 232213,
+        "word": "郭艾伦CBA得分超越巴特尔",
+        "onboard_time": 1673186373,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219616,
+        "num": 219616,
+        "word": "吴尊友解析是否马上有新一轮传播风险",
+        "onboard_time": 1673176772,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423752,
+        "num": 218329,
+        "word": "中国奇谭 封神",
+        "onboard_time": 1673176531,
+        "rank": 20,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 384238,
+        "num": 217698,
+        "word": "陈楚生现场",
+        "onboard_time": 1673189138,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 383669,
+        "num": 217621,
+        "word": "苏醒 当年的电视剧字幕里没一句我名字",
+        "onboard_time": 1673182352,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214868,
+        "num": 214868,
+        "word": "申论答案",
+        "onboard_time": 1673186613,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205074,
+        "num": 205074,
+        "word": "阿兹夫定片医保谈判成功",
+        "onboard_time": 1673173895,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 896367,
+        "num": 204869,
+        "word": "南昌车祸亲历者称在路边放爆竹逃过一劫",
+        "onboard_time": 1673186915,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 202038,
+        "num": 202038,
+        "word": "1米85男子被妻子气哭盖被抽泣",
+        "onboard_time": 1673170297,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176873,
+        "num": 176873,
+        "word": "一直不谈恋爱会等到更好的人吗",
+        "onboard_time": 1673166449,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173009,
+        "num": 173009,
+        "word": "申论",
+        "onboard_time": 1673169330,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158756,
+        "num": 158756,
+        "word": "把小狗急坏了",
+        "onboard_time": 1673189434,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 439367,
+        "num": 155830,
+        "word": "胡定欣陈晓华陈山聪 最佳衣着奖",
+        "onboard_time": 1673191233,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334922,
+        "num": 155122,
+        "word": "陆虎张远苏醒合唱雪落下的声音",
+        "onboard_time": 1673187273,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 332766,
+        "num": 149446,
+        "word": "万千星辉颁奖典礼2022",
+        "onboard_time": 1673180731,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297587,
+        "num": 148400,
+        "word": "王栎鑫说和王鹤棣在一起很有安全感",
+        "onboard_time": 1673190158,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145224,
+        "num": 145224,
+        "word": "明日方舟",
+        "onboard_time": 1673180491,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143862,
+        "num": 143862,
+        "word": "被警笛激发了狼的血统",
+        "onboard_time": 1673187513,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139328,
+        "num": 139328,
+        "word": "女子花6000请侦探寻狗找到后抱狗痛哭",
+        "onboard_time": 1673178391,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132007,
+        "num": 132007,
+        "word": "鹅鸭杀",
+        "onboard_time": 1673188297,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129330,
+        "num": 129330,
+        "word": "如何评价今年国考",
+        "onboard_time": 1673177250,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126893,
+        "num": 126893,
+        "word": "快给他买根小皮筋吧",
+        "onboard_time": 1673184811,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273269,
+        "num": 126206,
+        "word": "陈贝儿再获TVB最佳女主持",
+        "onboard_time": 1673190396,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224809,
+        "num": 125988,
+        "word": "刑事侦缉档案剧组重聚TVB颁奖礼",
+        "onboard_time": 1673184513,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124710,
+        "num": 124710,
+        "word": "张文宏称疫情将过渡到地方性流行阶段",
+        "onboard_time": 1673171850,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117879,
+        "num": 117879,
+        "word": "一看就是第一次回村的狗",
+        "onboard_time": 1673182472,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114083,
+        "num": 114083,
+        "word": "县一把手变一霸手帮弟弟揽工程",
+        "onboard_time": 1673188357,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113123,
+        "num": 113123,
+        "word": "国考",
+        "onboard_time": 1673169390,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112150,
+        "num": 112150,
+        "word": "冬天的哈尔滨",
+        "onboard_time": 1673190877,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109013,
+        "num": 109013,
+        "word": "江西重大交通事故已致19死20伤",
+        "onboard_time": 1673156188,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 106107,
+        "num": 106107,
+        "word": "重岳 配音",
+        "onboard_time": 1673189975,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105316,
+        "num": 105316,
+        "word": "姚迪确认将出国打球",
+        "onboard_time": 1673191835,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国活力#"
+    }
+  }
+}
