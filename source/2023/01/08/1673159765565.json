@@ -1,0 +1,410 @@
+{
+  "runTime": 1673159765565,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1172670,
+        "num": 1172670,
+        "word": "血氧仪对农村意味着什么",
+        "onboard_time": 1673154031,
+        "rank": 0,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 792867,
+        "num": 792867,
+        "word": "李雪琴精准吐槽王鹤棣",
+        "onboard_time": 1673153730,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296398,
+        "num": 713009,
+        "word": "新冠感染乙类乙管今起正式实施",
+        "onboard_time": 1673143107,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712682,
+        "num": 712682,
+        "word": "iPhone15Pro机型会有6大独占功能",
+        "onboard_time": 1673152528,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 621159,
+        "num": 621159,
+        "word": "堂吉诃德",
+        "onboard_time": 1673134100,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2367438,
+        "num": 608587,
+        "word": "江西重大交通事故已致19死20伤",
+        "onboard_time": 1673156188,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 541799,
+        "num": 541799,
+        "word": "刘耀文坐地上吃盒饭",
+        "onboard_time": 1673157808,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593448,
+        "num": 530350,
+        "word": "多名网红直播间约架在网红桥斗殴",
+        "onboard_time": 1673153310,
+        "rank": 7,
+        "category": "社会负面,网红"
+      },
+      {
+        "raw_hot": 445114,
+        "num": 445114,
+        "word": "这游戏真的非玩不可吗",
+        "onboard_time": 1673146348,
+        "rank": 8,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 418871,
+        "num": 418871,
+        "word": "新车被小孩刮花家长不认账",
+        "onboard_time": 1673156188,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526155,
+        "num": 407687,
+        "word": "何润东 被虐得好惨",
+        "onboard_time": 1673158103,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510231,
+        "num": 397596,
+        "word": "福建33岁单亲妈妈嫁35岁头婚男",
+        "onboard_time": 1673141606,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447873,
+        "num": 395106,
+        "word": "林小宅古装",
+        "onboard_time": 1673156787,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 383559,
+        "num": 383559,
+        "word": "勇士 普洱",
+        "onboard_time": 1673154630,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378581,
+        "num": 378581,
+        "word": "有人买9万元机票广州飞洛杉矶",
+        "onboard_time": 1673151750,
+        "rank": 14,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 314775,
+        "num": 314775,
+        "word": "孩子发烧不要用酒精擦拭",
+        "onboard_time": 1673157692,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304282,
+        "num": 304282,
+        "word": "杨九郎谐音梗让孟佳愤怒离席",
+        "onboard_time": 1673147429,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301363,
+        "num": 301363,
+        "word": "成都双流机场首个入境航班抵达",
+        "onboard_time": 1673154990,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277462,
+        "num": 277462,
+        "word": "男子新买百万奔驰被朋友借走撞烂",
+        "onboard_time": 1673143886,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271537,
+        "num": 271537,
+        "word": "女孩坠深井邻居身绑麻绳下井拉起",
+        "onboard_time": 1673157148,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 294116,
+        "num": 270959,
+        "word": "苏醒一台晚会打两份工",
+        "onboard_time": 1673154749,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258311,
+        "num": 258311,
+        "word": "多所中学老师让学生到指定店买资料",
+        "onboard_time": 1673152170,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 233079,
+        "num": 233079,
+        "word": "女子踢打残疾乞讨男子抢其钱撕碎",
+        "onboard_time": 1673145688,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 226580,
+        "num": 226580,
+        "word": "赵樱子演技",
+        "onboard_time": 1673136262,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217504,
+        "num": 217504,
+        "word": "顾南亭为程霄奔走调查",
+        "onboard_time": 1673157089,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193699,
+        "num": 193699,
+        "word": "乙类乙管后会不会出现更高的感染高峰",
+        "onboard_time": 1673157207,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184667,
+        "num": 184667,
+        "word": "湖人五连胜",
+        "onboard_time": 1673157868,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184413,
+        "num": 184413,
+        "word": "女生们的过年三件套",
+        "onboard_time": 1673139806,
+        "rank": 27,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 174329,
+        "num": 174329,
+        "word": "女主播直播间公然打骂女儿被行拘",
+        "onboard_time": 1673159248,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 170844,
+        "num": 170844,
+        "word": "詹姆斯37分",
+        "onboard_time": 1673158168,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211281,
+        "num": 170671,
+        "word": "名侦探柯南开播27周年",
+        "onboard_time": 1673153430,
+        "rank": 30,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 180421,
+        "num": 170572,
+        "word": "车保罗说薛凯琪的眼神好厉害",
+        "onboard_time": 1673149769,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176203,
+        "num": 170542,
+        "word": "卿卿日常见面会今晚见",
+        "onboard_time": 1673152292,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170449,
+        "num": 170449,
+        "word": "浮图缘",
+        "onboard_time": 1673158349,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159837,
+        "num": 159837,
+        "word": "男孩滑板失控俯冲被路人一秒拽回",
+        "onboard_time": 1673158828,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 154353,
+        "num": 154353,
+        "word": "小鸟胖成球儿也能轻松一字马",
+        "onboard_time": 1673157267,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150318,
+        "num": 150318,
+        "word": "女子为吃骨髓用手挖美甲卡大骨头",
+        "onboard_time": 1673144488,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150265,
+        "num": 150265,
+        "word": "曝苹果或上调iPhone15Pro售价",
+        "onboard_time": 1673156907,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 147248,
+        "num": 147248,
+        "word": "国考",
+        "onboard_time": 1673147729,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136238,
+        "num": 136238,
+        "word": "今年国考报名人数达近十年之最",
+        "onboard_time": 1673153368,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 166701,
+        "num": 133323,
+        "word": "檀健次进组被我弄丢两次的王斤斤",
+        "onboard_time": 1673158467,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163004,
+        "num": 131892,
+        "word": "许红豆拿捏了萌娃",
+        "onboard_time": 1673157448,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123904,
+        "num": 123904,
+        "word": "直播看香港与内地恢复通关首日",
+        "onboard_time": 1673144428,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120116,
+        "num": 120116,
+        "word": "单位组织拍照缉毒警下意识转身",
+        "onboard_time": 1673140467,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118326,
+        "num": 118326,
+        "word": "小女孩泥塘抱大鱼像极了年画娃娃",
+        "onboard_time": 1673148749,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112122,
+        "num": 112122,
+        "word": "时空中的绘旅人",
+        "onboard_time": 1673155589,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110809,
+        "num": 110809,
+        "word": "香港成为入境机票出发地第一",
+        "onboard_time": 1673147971,
+        "rank": 46,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 108757,
+        "num": 108757,
+        "word": "乘客羽绒服炸裂绒毛飘满地铁车厢",
+        "onboard_time": 1673159609,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105681,
+        "num": 105681,
+        "word": "国际航班最新入境流程",
+        "onboard_time": 1673158349,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 102087,
+        "num": 102087,
+        "word": "你接受异地恋情吗",
+        "onboard_time": 1673143290,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#做实做细做完备应对好春运大考#"
+    }
+  }
+}
