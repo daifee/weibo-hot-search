@@ -1,0 +1,410 @@
+{
+  "runTime": 1673212522582,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 186239,
+        "num": 186239,
+        "word": "新冠恢复期解决失眠的4个方法",
+        "onboard_time": 1673184932,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78599,
+        "num": 78599,
+        "word": "女子晒6本结婚证4本离婚证",
+        "onboard_time": 1673188715,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4343,
+        "num": 74502,
+        "word": "多渠道增加受疫情影响较大群体的收入",
+        "onboard_time": 1673166209,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 73812,
+        "num": 73812,
+        "word": "贪官收下一箱水果打开是一百万现金",
+        "onboard_time": 1673186853,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70503,
+        "num": 70503,
+        "word": "人民网评胡鑫宇失踪调查进展",
+        "onboard_time": 1673195605,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66116,
+        "num": 66116,
+        "word": "男子养2年多狗借同学配种反被卖",
+        "onboard_time": 1673199797,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58339,
+        "num": 58339,
+        "word": "姑娘坐火车来京见男友却被拉黑哭着求助民警",
+        "onboard_time": 1673185653,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50236,
+        "num": 50236,
+        "word": "俞敏洪谈男童掀帘事件",
+        "onboard_time": 1673190697,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40599,
+        "num": 40599,
+        "word": "江美仪 最佳女主角",
+        "onboard_time": 1673192195,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37131,
+        "num": 37131,
+        "word": "陈炳林承认校园霸凌",
+        "onboard_time": 1673175032,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48707,
+        "num": 37014,
+        "word": "黄牛拒收家乐福购物卡",
+        "onboard_time": 1673198420,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 44431,
+        "num": 36901,
+        "word": "解放军位台岛周边演练",
+        "onboard_time": 1673192373,
+        "rank": 11,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 36463,
+        "num": 36463,
+        "word": "泰副总理将赴机场迎接首批中国游客",
+        "onboard_time": 1673193451,
+        "rank": 12,
+        "category": "国外要闻,旅游"
+      },
+      {
+        "raw_hot": 36263,
+        "num": 36263,
+        "word": "李现对不起 我爱上了隔壁村草谢之遥",
+        "onboard_time": 1673180910,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34385,
+        "num": 34385,
+        "word": "Lisa演唱会 黄欣苑",
+        "onboard_time": 1673190937,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32613,
+        "num": 32613,
+        "word": "中国奇谭 封神",
+        "onboard_time": 1673176531,
+        "rank": 15,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 32180,
+        "num": 32180,
+        "word": "苏醒 当年的电视剧字幕里没一句我名字",
+        "onboard_time": 1673182352,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30258,
+        "num": 30258,
+        "word": "2040元买30斤牛肉切开肉内有纸",
+        "onboard_time": 1673177250,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27389,
+        "num": 27389,
+        "word": "姚迪确认将出国打球",
+        "onboard_time": 1673191835,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26876,
+        "num": 26876,
+        "word": "辉瑞Paxlovid因报价高医保谈判未能成功",
+        "onboard_time": 1673174849,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28156,
+        "num": 26455,
+        "word": "TXT回归概念预告照",
+        "onboard_time": 1673192792,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25993,
+        "num": 25993,
+        "word": "陈山聪 最佳男主角",
+        "onboard_time": 1673192551,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25461,
+        "num": 25461,
+        "word": "为捞政绩他执意搞填海严重破坏珊瑚礁",
+        "onboard_time": 1673184154,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 24032,
+        "num": 24032,
+        "word": "吴尊友解析是否马上有新一轮传播风险",
+        "onboard_time": 1673176772,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22574,
+        "num": 22574,
+        "word": "女子买200万豪车亲友400箱礼花庆贺",
+        "onboard_time": 1673185473,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21431,
+        "num": 21431,
+        "word": "明日方舟",
+        "onboard_time": 1673180491,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20619,
+        "num": 20619,
+        "word": "TVB颁奖礼",
+        "onboard_time": 1673176292,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19166,
+        "num": 19166,
+        "word": "1米85男子被妻子气哭盖被抽泣",
+        "onboard_time": 1673170297,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18896,
+        "num": 18896,
+        "word": "鹅鸭杀",
+        "onboard_time": 1673188297,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18803,
+        "num": 18803,
+        "word": "一看就是第一次回村的狗",
+        "onboard_time": 1673182472,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29973,
+        "num": 18797,
+        "word": "邻居占道沟通无果男子喊挖机拆墙",
+        "onboard_time": 1673208313,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19512,
+        "num": 18762,
+        "word": "杨玏说出了作为子女的心里话",
+        "onboard_time": 1673209333,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19417,
+        "num": 18672,
+        "word": "BLACKPINK的live实力",
+        "onboard_time": 1673201956,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18475,
+        "num": 18475,
+        "word": "阿兹夫定片医保谈判成功",
+        "onboard_time": 1673173895,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18012,
+        "num": 18012,
+        "word": "感觉狗子爽到了",
+        "onboard_time": 1673188896,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17447,
+        "num": 17447,
+        "word": "她好像一只灵动的小鹿啊",
+        "onboard_time": 1673200817,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16819,
+        "num": 16819,
+        "word": "一家四口用兽药退烧儿女现肝衰竭",
+        "onboard_time": 1673172030,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16337,
+        "num": 16337,
+        "word": "快给他买根小皮筋吧",
+        "onboard_time": 1673184811,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15879,
+        "num": 15879,
+        "word": "女子花6000请侦探寻狗找到后抱狗痛哭",
+        "onboard_time": 1673178391,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15756,
+        "num": 15756,
+        "word": "鹅鹅鹅 画风",
+        "onboard_time": 1673182412,
+        "rank": 39,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 14453,
+        "num": 15754,
+        "word": "假如把太阳换成其他恒星",
+        "onboard_time": 1673194466,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14320,
+        "num": 15754,
+        "word": "陈楚生现场",
+        "onboard_time": 1673189138,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13698,
+        "num": 15751,
+        "word": "熊熊第一次吃榴莲的反应",
+        "onboard_time": 1673192792,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13028,
+        "num": 15747,
+        "word": "张文宏称疫情将过渡到地方性流行阶段",
+        "onboard_time": 1673171850,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12114,
+        "num": 15745,
+        "word": "白敬亭说初一必须穿红色",
+        "onboard_time": 1673187634,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11861,
+        "num": 15744,
+        "word": "申论答案",
+        "onboard_time": 1673186613,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 11121,
+        "num": 15742,
+        "word": "郭艾伦CBA得分超越巴特尔",
+        "onboard_time": 1673186373,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10898,
+        "num": 15739,
+        "word": "把小狗急坏了",
+        "onboard_time": 1673189434,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10076,
+        "num": 15736,
+        "word": "重岳 配音",
+        "onboard_time": 1673189975,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 9823,
+        "num": 15734,
+        "word": "救人男子回应被指不符英雄形象",
+        "onboard_time": 1673212392,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年看中国#"
+    }
+  }
+}
