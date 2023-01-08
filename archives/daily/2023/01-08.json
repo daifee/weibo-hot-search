@@ -1,6 +1,6 @@
 {
   "startTime": 1673108634444,
-  "endTime": 1673188399866,
+  "endTime": 1673191088362,
   "band_list": [
     {
       "raw_hot": 3650071,
@@ -75,6 +75,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1692599,
+      "num": 1692599,
+      "word": "女子晒6本结婚证4本离婚证",
+      "onboard_time": 1673188715,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1681013,
       "num": 1101895,
       "word": "陈炳林承认校园霸凌",
@@ -139,12 +147,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1425071,
+      "num": 1425071,
+      "word": "Lisa演唱会 黄欣苑",
+      "onboard_time": 1673190937,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1369520,
       "num": 566731,
       "word": "长清一中",
       "onboard_time": 1673160091,
       "rank": 10,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1364769,
+      "num": 1364769,
+      "word": "贪官收下一箱水果打开是一百万现金",
+      "onboard_time": 1673186853,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1329740,
@@ -219,8 +243,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1074223,
-      "num": 1074223,
+      "raw_hot": 1077429,
+      "num": 1077429,
       "word": "姑娘坐火车来京见男友却被拉黑哭着求助民警",
       "onboard_time": 1673185653,
       "rank": 13,
@@ -241,6 +265,14 @@
       "onboard_time": 1673172030,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1048949,
+      "num": 533569,
+      "word": "南昌车祸亲历者称在路边放爆竹逃过一劫",
+      "onboard_time": 1673186915,
+      "rank": 39,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1033767,
@@ -281,6 +313,14 @@
       "onboard_time": 1673149169,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 891775,
+      "num": 891775,
+      "word": "59岁的叶童",
+      "onboard_time": 1673189975,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 887107,
@@ -433,6 +473,14 @@
       "onboard_time": 1673138545,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 686644,
+      "num": 686644,
+      "word": "TVB颁奖礼",
+      "onboard_time": 1673176292,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 679948,
@@ -595,14 +643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 557963,
-      "num": 469200,
-      "word": "贪官收下一箱水果打开是一百万现金",
-      "onboard_time": 1673186853,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 557399,
       "num": 538983,
       "word": "北京台春晚代言人剪影线索",
@@ -675,14 +715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 506603,
-      "num": 248373,
-      "word": "南昌车祸亲历者称在路边放爆竹逃过一劫",
-      "onboard_time": 1673186915,
-      "rank": 39,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 506188,
       "num": 506188,
       "word": "女子踢打残疾乞讨男子抢其钱撕碎",
@@ -721,14 +753,6 @@
       "onboard_time": 1673184154,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 493228,
-      "num": 323331,
-      "word": "TVB颁奖礼",
-      "onboard_time": 1673176292,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 492834,
@@ -881,6 +905,14 @@
       "onboard_time": 1673183553,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 416974,
+      "num": 243399,
+      "word": "陈楚生现场",
+      "onboard_time": 1673189138,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 414298,
@@ -1051,6 +1083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 371534,
+      "num": 242455,
+      "word": "万千星辉颁奖典礼2022",
+      "onboard_time": 1673180731,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 370791,
       "num": 172533,
       "word": "虞书欣鎏金黄色抹胸长裙造型",
@@ -1123,6 +1163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330859,
+      "num": 170871,
+      "word": "陈贝儿再获TVB最佳女主持",
+      "onboard_time": 1673190396,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 329957,
+      "num": 329957,
+      "word": "感觉狗子爽到了",
+      "onboard_time": 1673188896,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 327987,
       "num": 327987,
       "word": "直播看香港与内地恢复通关首日",
@@ -1145,6 +1201,14 @@
       "onboard_time": 1673102855,
       "rank": 20,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 324473,
+      "num": 171515,
+      "word": "王栎鑫说和王鹤棣在一起很有安全感",
+      "onboard_time": 1673190158,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 322321,
@@ -1339,14 +1403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279650,
-      "num": 242455,
-      "word": "万千星辉颁奖典礼2022",
-      "onboard_time": 1673180731,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 279068,
       "num": 279068,
       "word": "国考结束",
@@ -1443,6 +1499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261864,
+      "num": 261864,
+      "word": "郭艾伦CBA得分超越巴特尔",
+      "onboard_time": 1673186373,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261669,
       "num": 261669,
       "word": "快给他买根小皮筋吧",
@@ -1457,14 +1521,6 @@
       "onboard_time": 1673164349,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 258229,
-      "num": 258229,
-      "word": "郭艾伦CBA得分超越巴特尔",
-      "onboard_time": 1673186373,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 257787,
@@ -1580,7 +1636,7 @@
     },
     {
       "raw_hot": 241007,
-      "num": 1284590,
+      "num": 1365635,
       "word": "多渠道增加受疫情影响较大群体的收入",
       "onboard_time": 1673166209,
       "rank": 2,
@@ -2195,6 +2251,22 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 161484,
+      "num": 161484,
+      "word": "把小狗急坏了",
+      "onboard_time": 1673189434,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 161319,
+      "num": 161319,
+      "word": "被警笛激发了狼的血统",
+      "onboard_time": 1673187513,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158775,
       "num": 158775,
       "word": "老赖不还债花330万买彩票获刑5年",
@@ -2305,6 +2377,14 @@
       "onboard_time": 1673183972,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141498,
+      "num": 141498,
+      "word": "重岳 配音",
+      "onboard_time": 1673189975,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 141469,
@@ -2499,20 +2579,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118856,
+      "num": 238173,
+      "word": "县一把手变一霸手帮弟弟揽工程",
+      "onboard_time": 1673188357,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117655,
       "num": 117655,
       "word": "李现谢之遥忙碌的一整天",
       "onboard_time": 1673161889,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 117006,
-      "num": 238173,
-      "word": "县一把手变一霸手帮弟弟揽工程",
-      "onboard_time": 1673188357,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116296,
@@ -2569,6 +2649,14 @@
       "onboard_time": 1673137826,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107097,
+      "num": 131135,
+      "word": "俞敏洪谈男童掀帘事件",
+      "onboard_time": 1673190697,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106810,
@@ -2633,6 +2721,14 @@
       "onboard_time": 1673181512,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 95444,
+      "num": 130955,
+      "word": "冬天的哈尔滨",
+      "onboard_time": 1673190877,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 91996,
