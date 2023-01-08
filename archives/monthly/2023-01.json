@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673191996465,
+  "endTime": 1673195039228,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -2049,6 +2049,14 @@
       "onboard_time": 1672574370,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1027966,
+      "num": 1027966,
+      "word": "江美仪 最佳女主角",
+      "onboard_time": 1673192195,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1023891,
@@ -4955,6 +4963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579426,
+      "num": 579426,
+      "word": "陈山聪 最佳男主角",
+      "onboard_time": 1673192551,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 579180,
       "num": 579180,
       "word": "伪装者铁三角接力上新剧",
@@ -5235,6 +5251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 558223,
+      "num": 500596,
+      "word": "解放军位台岛周边演练",
+      "onboard_time": 1673192373,
+      "rank": 10,
+      "category": "军事"
+    },
+    {
       "raw_hot": 557399,
       "num": 538983,
       "word": "北京台春晚代言人剪影线索",
@@ -5336,6 +5360,14 @@
       "word": "医院回应女子做核酸收费245元",
       "onboard_time": 1673062767,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546992,
+      "num": 546992,
+      "word": "俞敏洪谈男童掀帘事件",
+      "onboard_time": 1673190697,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -6017,6 +6049,22 @@
       "onboard_time": 1672562191,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 500703,
+      "num": 500703,
+      "word": "姚迪确认将出国打球",
+      "onboard_time": 1673191835,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 500553,
+      "num": 500553,
+      "word": "TXT回归概念预告照",
+      "onboard_time": 1673192792,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 500255,
@@ -10611,6 +10659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 289909,
+      "num": 117350,
+      "word": "泰副总理将赴机场迎接首批中国游客",
+      "onboard_time": 1673193451,
+      "rank": 30,
+      "category": "国外要闻,旅游"
+    },
+    {
       "raw_hot": 289710,
       "num": 183332,
       "word": "四大名著连连看",
@@ -11643,14 +11699,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 267748,
-      "num": 267748,
-      "word": "俞敏洪谈男童掀帘事件",
-      "onboard_time": 1673190697,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267631,
       "num": 213909,
       "word": "以爱为营",
@@ -11697,6 +11745,14 @@
       "onboard_time": 1673144668,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 266388,
+      "num": 115816,
+      "word": "曾黎给王鹤棣哭戏配音",
+      "onboard_time": 1673193570,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 266133,
@@ -19067,14 +19123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 105316,
-      "num": 105316,
-      "word": "姚迪确认将出国打球",
-      "onboard_time": 1673191835,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105277,
       "num": 105277,
       "word": "遇到了一个热爱生活的司机",
@@ -19881,6 +19929,14 @@
       "onboard_time": 1672500051,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73517,
+      "num": 73517,
+      "word": "熊熊第一次吃榴莲的反应",
+      "onboard_time": 1673192792,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 69518,
