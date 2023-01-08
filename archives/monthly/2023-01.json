@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673199211393,
+  "endTime": 1673202061762,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -16675,6 +16675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155454,
+      "num": 68654,
+      "word": "黄牛拒收家乐福购物卡",
+      "onboard_time": 1673198420,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 155130,
       "num": 155130,
       "word": "西安铁路客服回应路虎开进站台接人",
@@ -16793,6 +16801,14 @@
       "onboard_time": 1672679001,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152936,
+      "num": 104167,
+      "word": "男子养2年多狗借同学配种反被卖",
+      "onboard_time": 1673199797,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152926,
@@ -19699,14 +19715,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 91338,
-      "num": 68654,
-      "word": "黄牛拒收家乐福购物卡",
-      "onboard_time": 1673198420,
-      "rank": 31,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 91327,
       "num": 91327,
       "word": "红袜子是本命年全国统一标配吗",
@@ -19945,6 +19953,14 @@
       "onboard_time": 1673091093,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77672,
+      "num": 55139,
+      "word": "BLACKPINK的live实力",
+      "onboard_time": 1673201956,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 77447,
