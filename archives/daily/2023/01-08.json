@@ -1,6 +1,6 @@
 {
   "startTime": 1673108634444,
-  "endTime": 1673152623044,
+  "endTime": 1673154958059,
   "band_list": [
     {
       "raw_hot": 3650071,
@@ -89,6 +89,22 @@
       "onboard_time": 1673107050,
       "rank": 1,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 1012122,
+      "num": 502219,
+      "word": "李雪琴精准吐槽王鹤棣",
+      "onboard_time": 1673153730,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 980238,
+      "num": 980238,
+      "word": "iPhone15Pro机型会有6大独占功能",
+      "onboard_time": 1673152528,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 979767,
@@ -211,6 +227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 636744,
+      "num": 636744,
+      "word": "有人买9万元机票广州飞洛杉矶",
+      "onboard_time": 1673151750,
+      "rank": 17,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 618607,
       "num": 618607,
       "word": "女子为吃骨髓用手挖美甲卡大骨头",
@@ -291,6 +315,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 449100,
+      "num": 449100,
+      "word": "张小斐说偷偷努力被发现了",
+      "onboard_time": 1673152049,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 448512,
+      "num": 448512,
+      "word": "血氧仪对农村意味着什么",
+      "onboard_time": 1673154031,
+      "rank": 13,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 439121,
       "num": 439121,
       "word": "2023国考公共科目笔试",
@@ -307,12 +347,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432404,
+      "num": 432404,
+      "word": "多所中学老师让学生到指定店买资料",
+      "onboard_time": 1673152170,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 429433,
       "num": 265104,
       "word": "王鹤棣片场买烤肠吃",
       "onboard_time": 1673103215,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 427530,
+      "num": 427530,
+      "word": "多名网红直播间约架在网红桥斗殴",
+      "onboard_time": 1673153310,
+      "rank": 16,
+      "category": "社会负面,网红"
     },
     {
       "raw_hot": 420005,
@@ -355,6 +411,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 396025,
+      "num": 396025,
+      "word": "名侦探柯南开播27周年",
+      "onboard_time": 1673153430,
+      "rank": 18,
+      "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 393344,
+      "num": 326810,
+      "word": "易烊千玺满江红定妆花絮视频",
+      "onboard_time": 1673152892,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 382433,
       "num": 256086,
       "word": "鸟叔再跳江南style",
@@ -379,20 +451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377961,
+      "num": 320053,
+      "word": "卿卿日常见面会今晚见",
+      "onboard_time": 1673152292,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373811,
       "num": 373811,
       "word": "你朋友圈暂停营业多久了",
       "onboard_time": 1673133917,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 366760,
-      "num": 205337,
-      "word": "张小斐说偷偷努力被发现了",
-      "onboard_time": 1673152049,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 350997,
@@ -419,14 +491,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 346398,
-      "num": 346398,
-      "word": "有人买9万元机票广州飞洛杉矶",
-      "onboard_time": 1673151750,
-      "rank": 17,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 327987,
       "num": 327987,
       "word": "直播看香港与内地恢复通关首日",
@@ -448,6 +512,14 @@
       "word": "车保罗说薛凯琪的眼神好厉害",
       "onboard_time": 1673149769,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 306424,
+      "num": 179786,
+      "word": "苏醒一台晚会打两份工",
+      "onboard_time": 1673154749,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -563,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 257810,
-      "num": 257810,
-      "word": "卿卿日常见面会今晚见",
-      "onboard_time": 1673152292,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 255031,
       "num": 238723,
       "word": "三体动画跌破5分",
@@ -681,6 +745,14 @@
       "onboard_time": 1673145508,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214704,
+      "num": 135395,
+      "word": "哎呀好身材",
+      "onboard_time": 1673154870,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 207563,
@@ -923,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155328,
+      "num": 155328,
+      "word": "勇士 普洱",
+      "onboard_time": 1673154630,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152013,
       "num": 152013,
       "word": "周总理定下十条家规",
@@ -953,14 +1033,6 @@
       "onboard_time": 1673104473,
       "rank": 23,
       "category": "其它"
-    },
-    {
-      "raw_hot": 142563,
-      "num": 142563,
-      "word": "多所中学老师让学生到指定店买资料",
-      "onboard_time": 1673152170,
-      "rank": 45,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 141469,
@@ -1025,6 +1097,14 @@
       "onboard_time": 1673111302,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 133515,
+      "num": 133515,
+      "word": "今年国考报名人数达近十年之最",
+      "onboard_time": 1673153368,
+      "rank": 42,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 133385,
