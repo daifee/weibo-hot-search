@@ -1,0 +1,410 @@
+{
+  "runTime": 1673219882852,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 674185,
+        "num": 674185,
+        "word": "新冠恢复期解决失眠的4个方法",
+        "onboard_time": 1673184932,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453069,
+        "num": 453069,
+        "word": "女子晒6本结婚证4本离婚证",
+        "onboard_time": 1673188715,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16857,
+        "num": 354258,
+        "word": "多渠道增加受疫情影响较大群体的收入",
+        "onboard_time": 1673166209,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 344648,
+        "num": 344648,
+        "word": "人民网评胡鑫宇失踪调查进展",
+        "onboard_time": 1673195605,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334750,
+        "num": 334750,
+        "word": "男子养2年多狗借同学配种反被卖",
+        "onboard_time": 1673199797,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276252,
+        "num": 276252,
+        "word": "贪官收下一箱水果打开是一百万现金",
+        "onboard_time": 1673186853,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235690,
+        "num": 235690,
+        "word": "解放军位台岛周边演练",
+        "onboard_time": 1673192373,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 209923,
+        "num": 209923,
+        "word": "姑娘坐火车来京见男友却被拉黑哭着求助民警",
+        "onboard_time": 1673185653,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172424,
+        "num": 172424,
+        "word": "俞敏洪谈男童掀帘事件",
+        "onboard_time": 1673190697,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166283,
+        "num": 166283,
+        "word": "江美仪 最佳女主角",
+        "onboard_time": 1673192195,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354173,
+        "num": 165869,
+        "word": "贪官受贿近3亿无视督导组整改意见",
+        "onboard_time": 1673217135,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197693,
+        "num": 165232,
+        "word": "黄牛拒收家乐福购物卡",
+        "onboard_time": 1673198420,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 183427,
+        "num": 164556,
+        "word": "7旬担保人替朋友扛下280万债务",
+        "onboard_time": 1673218036,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 172391,
+        "num": 164412,
+        "word": "泰副总理将赴机场迎接首批中国游客",
+        "onboard_time": 1673193451,
+        "rank": 13,
+        "category": "国外要闻,旅游"
+      },
+      {
+        "raw_hot": 163910,
+        "num": 163910,
+        "word": "苏醒 当年的电视剧字幕里没一句我名字",
+        "onboard_time": 1673182352,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162045,
+        "num": 162045,
+        "word": "152.5万人实际参加国考",
+        "onboard_time": 1673212812,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 135369,
+        "num": 135369,
+        "word": "陈山聪 最佳男主角",
+        "onboard_time": 1673192551,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114865,
+        "num": 114865,
+        "word": "江韬篡改录音",
+        "onboard_time": 1673219237,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109342,
+        "num": 109342,
+        "word": "2040元买30斤牛肉切开肉内有纸",
+        "onboard_time": 1673177250,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106195,
+        "num": 106195,
+        "word": "中国奇谭 封神",
+        "onboard_time": 1673176531,
+        "rank": 19,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 105624,
+        "num": 105624,
+        "word": "李现对不起 我爱上了隔壁村草谢之遥",
+        "onboard_time": 1673180910,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104589,
+        "num": 104589,
+        "word": "救人男子回应被指不符英雄形象",
+        "onboard_time": 1673212392,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98545,
+        "num": 98545,
+        "word": "吴尊友解析是否马上有新一轮传播风险",
+        "onboard_time": 1673176772,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97234,
+        "num": 97234,
+        "word": "我国再次成功发射一箭三星",
+        "onboard_time": 1673219838,
+        "rank": 23,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 88824,
+        "num": 88824,
+        "word": "为捞政绩他执意搞填海严重破坏珊瑚礁",
+        "onboard_time": 1673184154,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 84202,
+        "num": 84202,
+        "word": "辉瑞Paxlovid因报价高医保谈判未能成功",
+        "onboard_time": 1673174849,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83074,
+        "num": 83074,
+        "word": "邻居占道沟通无果男子喊挖机拆墙",
+        "onboard_time": 1673208313,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81938,
+        "num": 81938,
+        "word": "阿兹夫定片医保谈判成功",
+        "onboard_time": 1673173895,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78981,
+        "num": 78981,
+        "word": "山西太原晋源区3.1级地震",
+        "onboard_time": 1673219597,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76776,
+        "num": 76776,
+        "word": "Lisa演唱会 黄欣苑",
+        "onboard_time": 1673190937,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 72625,
+        "num": 72625,
+        "word": "姚迪确认将出国打球",
+        "onboard_time": 1673191835,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70934,
+        "num": 70934,
+        "word": "TXT回归概念预告照",
+        "onboard_time": 1673192792,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67807,
+        "num": 67807,
+        "word": "陈炳林承认校园霸凌",
+        "onboard_time": 1673175032,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67086,
+        "num": 67086,
+        "word": "一家四口用兽药退烧儿女现肝衰竭",
+        "onboard_time": 1673172030,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66298,
+        "num": 66298,
+        "word": "女子买200万豪车亲友400箱礼花庆贺",
+        "onboard_time": 1673185473,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61110,
+        "num": 61110,
+        "word": "TVB颁奖礼",
+        "onboard_time": 1673176292,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55343,
+        "num": 55343,
+        "word": "1米85男子被妻子气哭盖被抽泣",
+        "onboard_time": 1673170297,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54266,
+        "num": 54266,
+        "word": "白敬亭说初一必须穿红色",
+        "onboard_time": 1673187634,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51728,
+        "num": 51728,
+        "word": "陈楚生现场",
+        "onboard_time": 1673189138,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51676,
+        "num": 51676,
+        "word": "一看就是第一次回村的狗",
+        "onboard_time": 1673182472,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47961,
+        "num": 47961,
+        "word": "女子花6000请侦探寻狗找到后抱狗痛哭",
+        "onboard_time": 1673178391,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47578,
+        "num": 47578,
+        "word": "申论答案",
+        "onboard_time": 1673186613,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 47352,
+        "num": 47352,
+        "word": "曼城4比0切尔西",
+        "onboard_time": 1673219718,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44609,
+        "num": 44609,
+        "word": "鹅鹅鹅 画风",
+        "onboard_time": 1673182412,
+        "rank": 43,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 43154,
+        "num": 43154,
+        "word": "郭艾伦CBA得分超越巴特尔",
+        "onboard_time": 1673186373,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43093,
+        "num": 43093,
+        "word": "一直不谈恋爱会等到更好的人吗",
+        "onboard_time": 1673166449,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40615,
+        "num": 40615,
+        "word": "BLACKPINK的live实力",
+        "onboard_time": 1673201956,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40168,
+        "num": 40168,
+        "word": "张文宏称疫情将过渡到地方性流行阶段",
+        "onboard_time": 1673171850,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39402,
+        "num": 39402,
+        "word": "杨玏说出了作为子女的心里话",
+        "onboard_time": 1673209333,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35372,
+        "num": 35372,
+        "word": "感觉狗子爽到了",
+        "onboard_time": 1673188896,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年看中国#"
+    }
+  }
+}
