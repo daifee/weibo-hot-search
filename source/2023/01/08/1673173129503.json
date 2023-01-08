@@ -1,0 +1,410 @@
+{
+  "runTime": 1673173129503,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1813979,
+        "num": 1813979,
+        "word": "申论",
+        "onboard_time": 1673169330,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1330975,
+        "num": 1330975,
+        "word": "姚明女儿最新身高",
+        "onboard_time": 1673163030,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 201336,
+        "num": 1237257,
+        "word": "多渠道增加受疫情影响较大群体的收入",
+        "onboard_time": 1673166209,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1148847,
+        "num": 1148847,
+        "word": "1米85男子被妻子气哭盖被抽泣",
+        "onboard_time": 1673170297,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583864,
+        "num": 583864,
+        "word": "男子捡到没设密码手机微信有20万",
+        "onboard_time": 1673165668,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1108587,
+        "num": 580268,
+        "word": "江西重大交通事故已致19死20伤",
+        "onboard_time": 1673156188,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 571758,
+        "num": 571758,
+        "word": "医保局和辉瑞谈判4个多小时",
+        "onboard_time": 1673161588,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540012,
+        "num": 540012,
+        "word": "官方通报女子去世后有新冠疫苗接种记录",
+        "onboard_time": 1673163749,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 522368,
+        "num": 522368,
+        "word": "国考",
+        "onboard_time": 1673169390,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 505009,
+        "num": 505009,
+        "word": "朴灿烈中国新年刊封面",
+        "onboard_time": 1673169030,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 489926,
+        "num": 489926,
+        "word": "一家四口用兽药退烧儿女现肝衰竭",
+        "onboard_time": 1673172030,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443536,
+        "num": 443536,
+        "word": "上海警方调查玲娜贝儿头部被拍打",
+        "onboard_time": 1673163808,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427879,
+        "num": 427879,
+        "word": "Lisa代言广告里有沉香如屑",
+        "onboard_time": 1673163929,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414549,
+        "num": 414549,
+        "word": "成都涉不雅聊天干部简历被撤",
+        "onboard_time": 1673164529,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392995,
+        "num": 392995,
+        "word": "一直不谈恋爱会等到更好的人吗",
+        "onboard_time": 1673166449,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 367719,
+        "num": 367719,
+        "word": "张文宏称疫情将过渡到地方性流行阶段",
+        "onboard_time": 1673171850,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364469,
+        "num": 364469,
+        "word": "长清一中",
+        "onboard_time": 1673160091,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 358870,
+        "num": 358870,
+        "word": "第一批回村的狗在干嘛",
+        "onboard_time": 1673167169,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 330562,
+        "num": 330562,
+        "word": "普通型肺炎重型肺炎CT读片",
+        "onboard_time": 1673164589,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322321,
+        "num": 322321,
+        "word": "任嘉伦如一唱出爱的坚定",
+        "onboard_time": 1673172750,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 314867,
+        "num": 314867,
+        "word": "命韵峋环的购物车vs交换人生的购物车",
+        "onboard_time": 1673169631,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300631,
+        "num": 300631,
+        "word": "女子带1头猪2只羊12只鸡看姐姐",
+        "onboard_time": 1673170951,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279068,
+        "num": 279068,
+        "word": "国考结束",
+        "onboard_time": 1673169930,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 256582,
+        "num": 256582,
+        "word": "你会介意另一半过去的感情经历吗",
+        "onboard_time": 1673172210,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253320,
+        "num": 253320,
+        "word": "长清一中高考听力录音疑似卡顿",
+        "onboard_time": 1673165128,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 246137,
+        "num": 246137,
+        "word": "iPhone15Pro机型会有6大独占功能",
+        "onboard_time": 1673152528,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 236074,
+        "num": 236074,
+        "word": "小琴求婚谢之遥",
+        "onboard_time": 1673165009,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217874,
+        "num": 217874,
+        "word": "吴俊霆直播",
+        "onboard_time": 1673167770,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216962,
+        "num": 216962,
+        "word": "乘客羽绒服炸裂绒毛飘满地铁车厢",
+        "onboard_time": 1673159609,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213137,
+        "num": 213137,
+        "word": "王鹤棣镜头下的檀健次",
+        "onboard_time": 1673167650,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208778,
+        "num": 208778,
+        "word": "83岁老人因病住院10位子孙争相照顾",
+        "onboard_time": 1673166329,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205157,
+        "num": 205157,
+        "word": "雷佳音说好害怕以后一搜少年都出现的是我",
+        "onboard_time": 1673167110,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204917,
+        "num": 204917,
+        "word": "青椒烧鳄鱼腿",
+        "onboard_time": 1673168493,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199068,
+        "num": 199068,
+        "word": "血氧仪对农村意味着什么",
+        "onboard_time": 1673154031,
+        "rank": 33,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 194152,
+        "num": 194152,
+        "word": "一个出不去一个跑不了",
+        "onboard_time": 1673165428,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187884,
+        "num": 187884,
+        "word": "天才MMA选手李胜惠离世",
+        "onboard_time": 1673167711,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186240,
+        "num": 186240,
+        "word": "少年歌行追剧后遗症",
+        "onboard_time": 1673170469,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174674,
+        "num": 174674,
+        "word": "程霄母女矛盾升级",
+        "onboard_time": 1673168910,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174655,
+        "num": 174655,
+        "word": "开放入境后会引发第二轮感染吗",
+        "onboard_time": 1673161469,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171314,
+        "num": 171314,
+        "word": "猫咪竟然有两幅面孔",
+        "onboard_time": 1673172572,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169567,
+        "num": 169567,
+        "word": "目前监测到16例XBB本土关联病例",
+        "onboard_time": 1673172388,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168438,
+        "num": 168438,
+        "word": "虞书欣网络视听盛典上班路透",
+        "onboard_time": 1673167711,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162411,
+        "num": 162411,
+        "word": "地铁小姐姐蹲下身子为孕妇系上鞋带",
+        "onboard_time": 1673167110,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 161674,
+        "num": 161674,
+        "word": "艾薇儿开口就是爷青回",
+        "onboard_time": 1673166390,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160258,
+        "num": 160258,
+        "word": "水星的魔女",
+        "onboard_time": 1673169631,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156604,
+        "num": 156604,
+        "word": "恋爱久了真的很难结婚吗",
+        "onboard_time": 1673162248,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153909,
+        "num": 153909,
+        "word": "这猫有凌波微步吧",
+        "onboard_time": 1673172989,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143613,
+        "num": 143613,
+        "word": "华晨宇新歌音源提前曝光",
+        "onboard_time": 1673168250,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139575,
+        "num": 139575,
+        "word": "女主播直播间公然打骂女儿被行拘",
+        "onboard_time": 1673159248,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 129712,
+        "num": 129712,
+        "word": "回顾考公的这一年",
+        "onboard_time": 1673171729,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年看中国#"
+    }
+  }
+}
