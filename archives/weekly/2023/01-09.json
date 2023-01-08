@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673198104654,
+  "endTime": 1673199211393,
   "band_list": [
     {
       "raw_hot": 1255901,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570516,
+      "num": 570516,
+      "word": "人民网评胡鑫宇失踪调查进展",
+      "onboard_time": 1673195605,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558223,
       "num": 500596,
       "word": "解放军位台岛周边演练",
@@ -56,14 +64,6 @@
       "word": "俞敏洪谈男童掀帘事件",
       "onboard_time": 1673190697,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 542749,
-      "num": 542749,
-      "word": "人民网评胡鑫宇失踪调查进展",
-      "onboard_time": 1673195605,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 121096,
-      "num": 84096,
+      "num": 96156,
       "word": "薛之谦 准备听新歌了哦",
       "onboard_time": 1673196502,
       "rank": 30,
@@ -313,6 +313,14 @@
       "onboard_time": 1673178391,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111890,
+      "num": 83241,
+      "word": "第九节课",
+      "onboard_time": 1673196146,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 109246,
@@ -371,12 +379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99719,
-      "num": 83241,
-      "word": "第九节课",
-      "onboard_time": 1673196146,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 91338,
+      "num": 68654,
+      "word": "黄牛拒收家乐福购物卡",
+      "onboard_time": 1673198420,
+      "rank": 31,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 88969,
