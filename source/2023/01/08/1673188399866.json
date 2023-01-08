@@ -1,0 +1,410 @@
+{
+  "runTime": 1673188399866,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1770081,
+        "num": 1770081,
+        "word": "Lisa演唱会看到青春有你2学员的反应",
+        "onboard_time": 1673186314,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1074223,
+        "num": 1074223,
+        "word": "姑娘坐火车来京见男友却被拉黑哭着求助民警",
+        "onboard_time": 1673185653,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85663,
+        "num": 1058424,
+        "word": "多渠道增加受疫情影响较大群体的收入",
+        "onboard_time": 1673166209,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1056729,
+        "num": 1056729,
+        "word": "2040元买30斤牛肉切开肉内有纸",
+        "onboard_time": 1673177250,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816158,
+        "num": 816158,
+        "word": "陈炳林承认校园霸凌",
+        "onboard_time": 1673175032,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 770822,
+        "num": 770822,
+        "word": "新冠恢复期解决失眠的4个方法",
+        "onboard_time": 1673184932,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740863,
+        "num": 740863,
+        "word": "白敬亭说初一必须穿红色",
+        "onboard_time": 1673187634,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713095,
+        "num": 713095,
+        "word": "辉瑞Paxlovid因报价高医保谈判未能成功",
+        "onboard_time": 1673174849,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584092,
+        "num": 584092,
+        "word": "女子买200万豪车亲友400箱礼花庆贺",
+        "onboard_time": 1673185473,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535623,
+        "num": 535623,
+        "word": "申论",
+        "onboard_time": 1673169330,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1309325,
+        "num": 524927,
+        "word": "李现对不起 我爱上了隔壁村草谢之遥",
+        "onboard_time": 1673180910,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 734190,
+        "num": 504938,
+        "word": "中国奇谭 封神",
+        "onboard_time": 1673176531,
+        "rank": 11,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 628913,
+        "num": 497360,
+        "word": "苏醒 当年的电视剧字幕里没一句我名字",
+        "onboard_time": 1673182352,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557963,
+        "num": 469200,
+        "word": "贪官收下一箱水果打开是一百万现金",
+        "onboard_time": 1673186853,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467939,
+        "num": 467939,
+        "word": "为捞政绩他执意搞填海严重破坏珊瑚礁",
+        "onboard_time": 1673184154,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 585722,
+        "num": 440439,
+        "word": "陆虎张远苏醒合唱雪落下的声音",
+        "onboard_time": 1673187273,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 383523,
+        "num": 383523,
+        "word": "一看就是第一次回村的狗",
+        "onboard_time": 1673182472,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 357288,
+        "num": 357288,
+        "word": "一家四口用兽药退烧儿女现肝衰竭",
+        "onboard_time": 1673172030,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307588,
+        "num": 307588,
+        "word": "阿兹夫定片医保谈判成功",
+        "onboard_time": 1673173895,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297436,
+        "num": 297436,
+        "word": "吴尊友解析是否马上有新一轮传播风险",
+        "onboard_time": 1673176772,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481207,
+        "num": 296434,
+        "word": "刑事侦缉档案剧组重聚TVB颁奖礼",
+        "onboard_time": 1673184513,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273824,
+        "num": 273824,
+        "word": "1米85男子被妻子气哭盖被抽泣",
+        "onboard_time": 1673170297,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453061,
+        "num": 273194,
+        "word": "TVB颁奖礼",
+        "onboard_time": 1673176292,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270676,
+        "num": 270676,
+        "word": "江西重大交通事故已致19死20伤",
+        "onboard_time": 1673156188,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 261669,
+        "num": 261669,
+        "word": "快给他买根小皮筋吧",
+        "onboard_time": 1673184811,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258229,
+        "num": 258229,
+        "word": "郭艾伦CBA得分超越巴特尔",
+        "onboard_time": 1673186373,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250070,
+        "num": 250070,
+        "word": "申论答案",
+        "onboard_time": 1673186613,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 212518,
+        "num": 249590,
+        "word": "女子花6000请侦探寻狗找到后抱狗痛哭",
+        "onboard_time": 1673178391,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200592,
+        "num": 249345,
+        "word": "明日方舟",
+        "onboard_time": 1673180491,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198738,
+        "num": 248432,
+        "word": "一直不谈恋爱会等到更好的人吗",
+        "onboard_time": 1673166449,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 506603,
+        "num": 248373,
+        "word": "南昌车祸亲历者称在路边放爆竹逃过一劫",
+        "onboard_time": 1673186915,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 420159,
+        "num": 247786,
+        "word": "鹅鹅鹅 画风",
+        "onboard_time": 1673182412,
+        "rank": 31,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 340625,
+        "num": 247287,
+        "word": "步音楼得知肖铎身世",
+        "onboard_time": 1673181630,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323511,
+        "num": 246560,
+        "word": "白鹿模仿粉丝跟王鹤棣打招呼",
+        "onboard_time": 1673186012,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278335,
+        "num": 246060,
+        "word": "刘宇宁第二次在江苏卫视春晚过生日",
+        "onboard_time": 1673188237,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264043,
+        "num": 245129,
+        "word": "程霄被停飞",
+        "onboard_time": 1673185533,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175389,
+        "num": 244632,
+        "word": "如何评价今年国考",
+        "onboard_time": 1673177250,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163319,
+        "num": 244456,
+        "word": "鹅鸭杀",
+        "onboard_time": 1673188297,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155844,
+        "num": 243805,
+        "word": "张文宏称疫情将过渡到地方性流行阶段",
+        "onboard_time": 1673171850,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154159,
+        "num": 243255,
+        "word": "老人落水被救7年后儿子再次上门道谢",
+        "onboard_time": 1673180791,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 263861,
+        "num": 242455,
+        "word": "万千星辉颁奖典礼2022",
+        "onboard_time": 1673180731,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152925,
+        "num": 241967,
+        "word": "辉瑞",
+        "onboard_time": 1673177491,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150918,
+        "num": 241794,
+        "word": "狗狗的心思都写在脸上了",
+        "onboard_time": 1673182953,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147047,
+        "num": 240924,
+        "word": "国考",
+        "onboard_time": 1673169390,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134568,
+        "num": 240407,
+        "word": "国考估分",
+        "onboard_time": 1673180970,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133446,
+        "num": 239754,
+        "word": "官方通报女子去世后有新冠疫苗接种记录",
+        "onboard_time": 1673163749,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 129132,
+        "num": 239096,
+        "word": "男子捡到没设密码手机微信有20万",
+        "onboard_time": 1673165668,
+        "rank": 46,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 127975,
+        "num": 239070,
+        "word": "上海警方调查玲娜贝儿头部被拍打",
+        "onboard_time": 1673163808,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117006,
+        "num": 238173,
+        "word": "县一把手变一霸手帮弟弟揽工程",
+        "onboard_time": 1673188357,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115413,
+        "num": 237639,
+        "word": "北控男篮vs辽宁男篮",
+        "onboard_time": 1673183972,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国活力#"
+    }
+  }
+}
