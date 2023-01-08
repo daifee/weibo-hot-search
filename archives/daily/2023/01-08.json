@@ -1,6 +1,6 @@
 {
   "startTime": 1673108634444,
-  "endTime": 1673151723389,
+  "endTime": 1673152623044,
   "band_list": [
     {
       "raw_hot": 3650071,
@@ -24,6 +24,14 @@
       "word": "南昌居民称事故系货车撞上出殡队伍",
       "onboard_time": 1673146288,
       "rank": 21,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1752867,
+      "num": 936749,
+      "word": "伤者讲述南昌17死22伤车祸",
+      "onboard_time": 1673150730,
+      "rank": 10,
       "category": "社会负面"
     },
     {
@@ -89,14 +97,6 @@
       "onboard_time": 1673143886,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 947610,
-      "num": 608577,
-      "word": "伤者讲述南昌17死22伤车祸",
-      "onboard_time": 1673150730,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 926653,
@@ -187,6 +187,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 675018,
+      "num": 675018,
+      "word": "国考答案",
+      "onboard_time": 1673151211,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 644400,
       "num": 644400,
       "word": "黄明昊说冯禧的雪人是用断桥残雪堆的",
@@ -195,20 +203,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 639118,
+      "num": 639118,
+      "word": "申论",
+      "onboard_time": 1673151151,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 618607,
       "num": 618607,
       "word": "女子为吃骨髓用手挖美甲卡大骨头",
       "onboard_time": 1673144488,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 611778,
-      "num": 611778,
-      "word": "申论",
-      "onboard_time": 1673151151,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 585941,
@@ -379,12 +387,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 372243,
-      "num": 372243,
-      "word": "国考答案",
-      "onboard_time": 1673151211,
-      "rank": 18,
-      "category": "教育"
+      "raw_hot": 366760,
+      "num": 205337,
+      "word": "张小斐说偷偷努力被发现了",
+      "onboard_time": 1673152049,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 350997,
@@ -409,6 +417,14 @@
       "onboard_time": 1673136201,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 346398,
+      "num": 346398,
+      "word": "有人买9万元机票广州飞洛杉矶",
+      "onboard_time": 1673151750,
+      "rank": 17,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 327987,
@@ -449,6 +465,22 @@
       "onboard_time": 1673146768,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290611,
+      "num": 290611,
+      "word": "英雄志",
+      "onboard_time": 1673152410,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 286160,
+      "num": 286160,
+      "word": "资料分析",
+      "onboard_time": 1673151331,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 284094,
@@ -528,6 +560,14 @@
       "word": "谭松韵表情细节",
       "onboard_time": 1673144668,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 257810,
+      "num": 257810,
+      "word": "卿卿日常见面会今晚见",
+      "onboard_time": 1673152292,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -651,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205546,
+      "num": 205546,
+      "word": "国考常识",
+      "onboard_time": 1673151211,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 203846,
       "num": 203846,
       "word": "贪官迷恋当官被中专学历骗子骗了20年",
@@ -755,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184194,
+      "num": 154884,
+      "word": "谢之遥是懂忽悠的",
+      "onboard_time": 1673151808,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180550,
       "num": 180550,
       "word": "不愧是奶奶手里的猫",
@@ -795,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175559,
-      "num": 175559,
-      "word": "资料分析",
-      "onboard_time": 1673151331,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 175530,
       "num": 99544,
       "word": "惠英红反驳吴镇宇",
@@ -835,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168742,
+      "num": 168742,
+      "word": "小女孩泥塘抱大鱼像极了年画娃娃",
+      "onboard_time": 1673148749,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167030,
       "num": 160321,
       "word": "许红豆晒初到云苗村的照片库存",
@@ -851,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159923,
-      "num": 159923,
-      "word": "小女孩泥塘抱大鱼像极了年画娃娃",
-      "onboard_time": 1673148749,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158775,
       "num": 158775,
       "word": "老赖不还债花330万买彩票获刑5年",
@@ -867,12 +915,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157018,
-      "num": 157018,
-      "word": "国考常识",
-      "onboard_time": 1673151211,
-      "rank": 44,
-      "category": "教育"
+      "raw_hot": 158571,
+      "num": 158571,
+      "word": "抗生素吃多了容易产生耐药性",
+      "onboard_time": 1673148150,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152013,
@@ -880,14 +928,6 @@
       "word": "周总理定下十条家规",
       "onboard_time": 1673142208,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149873,
-      "num": 149873,
-      "word": "抗生素吃多了容易产生耐药性",
-      "onboard_time": 1673148150,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -913,6 +953,14 @@
       "onboard_time": 1673104473,
       "rank": 23,
       "category": "其它"
+    },
+    {
+      "raw_hot": 142563,
+      "num": 142563,
+      "word": "多所中学老师让学生到指定店买资料",
+      "onboard_time": 1673152170,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 141469,
