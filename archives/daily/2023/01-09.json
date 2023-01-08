@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673202061762,
+  "endTime": 1673202909723,
   "band_list": [
     {
       "raw_hot": 1255901,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180786,
+      "num": 104167,
+      "word": "男子养2年多狗借同学配种反被卖",
+      "onboard_time": 1673199797,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175547,
       "num": 175547,
       "word": "为捞政绩他执意搞填海严重破坏珊瑚礁",
@@ -236,19 +244,11 @@
     },
     {
       "raw_hot": 155454,
-      "num": 68654,
+      "num": 91607,
       "word": "黄牛拒收家乐福购物卡",
       "onboard_time": 1673198420,
       "rank": 31,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 152936,
-      "num": 104167,
-      "word": "男子养2年多狗借同学配种反被卖",
-      "onboard_time": 1673199797,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151689,
@@ -395,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94312,
+      "num": 55757,
+      "word": "BLACKPINK的live实力",
+      "onboard_time": 1673201956,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 88969,
       "num": 88969,
       "word": "张文宏称疫情将过渡到地方性流行阶段",
@@ -433,14 +441,6 @@
       "onboard_time": 1673190877,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 77672,
-      "num": 55139,
-      "word": "BLACKPINK的live实力",
-      "onboard_time": 1673201956,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 72700,

@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673202061762,
+  "endTime": 1673202909723,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -15387,6 +15387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180786,
+      "num": 104167,
+      "word": "男子养2年多狗借同学配种反被卖",
+      "onboard_time": 1673199797,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180550,
       "num": 180550,
       "word": "不愧是奶奶手里的猫",
@@ -16676,7 +16684,7 @@
     },
     {
       "raw_hot": 155454,
-      "num": 68654,
+      "num": 91607,
       "word": "黄牛拒收家乐福购物卡",
       "onboard_time": 1673198420,
       "rank": 31,
@@ -16801,14 +16809,6 @@
       "onboard_time": 1672679001,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152936,
-      "num": 104167,
-      "word": "男子养2年多狗借同学配种反被卖",
-      "onboard_time": 1673199797,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152926,
@@ -19595,6 +19595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 94312,
+      "num": 55757,
+      "word": "BLACKPINK的live实力",
+      "onboard_time": 1673201956,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 94275,
       "num": 114682,
       "word": "被老板告白是什么感觉",
@@ -19953,14 +19961,6 @@
       "onboard_time": 1673091093,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 77672,
-      "num": 55139,
-      "word": "BLACKPINK的live实力",
-      "onboard_time": 1673201956,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 77447,

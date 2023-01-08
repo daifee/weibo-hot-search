@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/09 00:23:59 ~ 2023/01/09 02:21:01
+本榜单时间：2023/01/09 00:23:59 ~ 2023/01/09 02:35:09
 </p>
 </blockquote>
 <p>
@@ -177,6 +177,12 @@ TVB颁奖礼（热度：202010）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%BB2%E5%B9%B4%E5%A4%9A%E7%8B%97%E5%80%9F%E5%90%8C%E5%AD%A6%E9%85%8D%E7%A7%8D%E5%8F%8D%E8%A2%AB%E5%8D%96%23" target="weibo">
+男子养2年多狗借同学配种反被卖（热度：180786）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E6%8D%9E%E6%94%BF%E7%BB%A9%E4%BB%96%E6%89%A7%E6%84%8F%E6%90%9E%E5%A1%AB%E6%B5%B7%E4%B8%A5%E9%87%8D%E7%A0%B4%E5%9D%8F%E7%8F%8A%E7%91%9A%E7%A4%81%23" target="weibo">
 为捞政绩他执意搞填海严重破坏珊瑚礁（热度：175547）
 </a>
@@ -191,12 +197,6 @@ TVB颁奖礼（热度：202010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E6%8B%92%E6%94%B6%E5%AE%B6%E4%B9%90%E7%A6%8F%E8%B4%AD%E7%89%A9%E5%8D%A1%23" target="weibo">
 黄牛拒收家乐福购物卡（热度：155454）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%BB2%E5%B9%B4%E5%A4%9A%E7%8B%97%E5%80%9F%E5%90%8C%E5%AD%A6%E9%85%8D%E7%A7%8D%E5%8F%8D%E8%A2%AB%E5%8D%96%23" target="weibo">
-男子养2年多狗借同学配种反被卖（热度：152936）
 </a>
 </li>
 
@@ -309,6 +309,12 @@ TVB颁奖礼（热度：202010）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E7%9A%84live%E5%AE%9E%E5%8A%9B%23" target="weibo">
+BLACKPINK的live实力（热度：94312）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E7%96%AB%E6%83%85%E5%B0%86%E8%BF%87%E6%B8%A1%E5%88%B0%E5%9C%B0%E6%96%B9%E6%80%A7%E6%B5%81%E8%A1%8C%E9%98%B6%E6%AE%B5%23" target="weibo">
 张文宏称疫情将过渡到地方性流行阶段（热度：88969）
 </a>
@@ -335,12 +341,6 @@ TVB颁奖礼（热度：202010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E7%9A%84%E5%93%88%E5%B0%94%E6%BB%A8%23" target="weibo">
 冬天的哈尔滨（热度：82352）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E7%9A%84live%E5%AE%9E%E5%8A%9B%23" target="weibo">
-BLACKPINK的live实力（热度：77672）
 </a>
 </li>
 
