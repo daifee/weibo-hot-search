@@ -1,6 +1,6 @@
 {
   "startTime": 1673108634444,
-  "endTime": 1673182224466,
+  "endTime": 1673184062910,
   "band_list": [
     {
       "raw_hot": 3650071,
@@ -51,7 +51,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1884592,
+      "raw_hot": 1996291,
       "num": 626651,
       "word": "李现对不起 我爱上了隔壁村草谢之遥",
       "onboard_time": 1673180910,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 846451,
+      "num": 447958,
+      "word": "苏醒 当年的电视剧字幕里没一句我名字",
+      "onboard_time": 1673182352,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 828726,
       "num": 828726,
       "word": "单位组织拍照缉毒警下意识转身",
@@ -377,6 +385,14 @@
       "onboard_time": 1673138545,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 688424,
+      "num": 688424,
+      "word": "白敬亭卿卿日常见面会对粉丝说我爱你们",
+      "onboard_time": 1673182772,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 679948,
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 493228,
-      "num": 268545,
+      "num": 311320,
       "word": "TVB颁奖礼",
       "onboard_time": 1673176292,
       "rank": 41,
@@ -659,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 463617,
+      "num": 312354,
+      "word": "步音楼得知肖铎身世",
+      "onboard_time": 1673181630,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 458005,
       "num": 272199,
       "word": "网络视听盛典",
@@ -673,14 +697,6 @@
       "onboard_time": 1673152170,
       "rank": 45,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 454478,
-      "num": 245022,
-      "word": "步音楼得知肖铎身世",
-      "onboard_time": 1673181630,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 452597,
@@ -731,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 428976,
+      "num": 310062,
+      "word": "鹅鹅鹅 画风",
+      "onboard_time": 1673182412,
+      "rank": 22,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 420005,
       "num": 420005,
       "word": "香港成为入境机票出发地第一",
@@ -761,6 +785,14 @@
       "onboard_time": 1673175330,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 407829,
+      "num": 196543,
+      "word": "张杰我型我show唱跳视频",
+      "onboard_time": 1673181331,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 406707,
@@ -859,6 +891,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 384473,
+      "num": 195202,
+      "word": "吴宣仪路透",
+      "onboard_time": 1673182652,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 382433,
       "num": 256086,
       "word": "鸟叔再跳江南style",
@@ -931,12 +971,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 364785,
-      "num": 171143,
-      "word": "张杰我型我show唱跳视频",
-      "onboard_time": 1673181331,
-      "rank": 32,
-      "category": "音乐"
+      "raw_hot": 365573,
+      "num": 194255,
+      "word": "金智秀看到Lisa穿厚底鞋的反应",
+      "onboard_time": 1673183553,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 358870,
@@ -969,6 +1009,14 @@
       "onboard_time": 1673136201,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 337431,
+      "num": 337431,
+      "word": "今起新冠感染乙类乙管正式实施",
+      "onboard_time": 1673179111,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327987,
@@ -1075,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302626,
+      "num": 302626,
+      "word": "老人落水被救7年后儿子再次上门道谢",
+      "onboard_time": 1673180791,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 302525,
       "num": 302525,
       "word": "王鹤棣镜头下的檀健次",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1673178210,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287296,
+      "num": 287296,
+      "word": "一看就是第一次回村的狗",
+      "onboard_time": 1673182472,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 286838,
@@ -1435,14 +1499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 236043,
-      "num": 236043,
-      "word": "今起新冠感染乙类乙管正式实施",
-      "onboard_time": 1673179111,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233620,
       "num": 233620,
       "word": "当对象给你留吃的时",
@@ -1675,6 +1731,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 193990,
+      "num": 193990,
+      "word": "国考估分",
+      "onboard_time": 1673180970,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 193877,
       "num": 193877,
       "word": "步音楼吃醋踩肖铎",
@@ -1689,14 +1753,6 @@
       "onboard_time": 1673157207,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193247,
-      "num": 193247,
-      "word": "老人落水被救7年后儿子再次上门道谢",
-      "onboard_time": 1673180791,
-      "rank": 47,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 192989,
@@ -1737,6 +1793,14 @@
       "onboard_time": 1673144846,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189315,
+      "num": 189315,
+      "word": "狗狗的心思都写在脸上了",
+      "onboard_time": 1673182953,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 188392,
@@ -2019,14 +2083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 151238,
-      "num": 165975,
-      "word": "国考估分",
-      "onboard_time": 1673180970,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 150648,
       "num": 150648,
       "word": "广西这个峡谷水流声如万马奔腾咆哮",
@@ -2251,6 +2307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122141,
+      "num": 122141,
+      "word": "哈尔滨大雪人开启夜景模式",
+      "onboard_time": 1673183194,
+      "rank": 44,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 121712,
       "num": 108769,
       "word": "许红豆说谢之遥输了可别哭",
@@ -2339,6 +2403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106810,
+      "num": 106810,
+      "word": "仿佛脚底安了弹簧的狗狗",
+      "onboard_time": 1673182833,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106167,
       "num": 107050,
       "word": "安徽一学校为学生发放100头猪",
@@ -2384,6 +2456,14 @@
       "word": "国乒能否获得世乒赛满额席位",
       "onboard_time": 1673100212,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99748,
+      "num": 99748,
+      "word": "北控男篮vs辽宁男篮",
+      "onboard_time": 1673183972,
+      "rank": 49,
       "category": "体育"
     },
     {
