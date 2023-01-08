@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673181192288,
+  "endTime": 1673182224466,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1884592,
+      "num": 626651,
+      "word": "李现对不起 我爱上了隔壁村草谢之遥",
+      "onboard_time": 1673180910,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1857213,
       "num": 1857213,
       "word": "苏醒说哥是懂站位的",
@@ -803,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1617979,
+      "num": 1617979,
+      "word": "2040元买30斤牛肉切开肉内有纸",
+      "onboard_time": 1673177250,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1613648,
       "num": 1613648,
       "word": "初二女生为活命扎针超25000次",
@@ -825,14 +841,6 @@
       "onboard_time": 1673153730,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1586563,
-      "num": 1586563,
-      "word": "2040元买30斤牛肉切开肉内有纸",
-      "onboard_time": 1673177250,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1584454,
@@ -1283,8 +1291,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1322161,
-      "num": 1322161,
+      "raw_hot": 1329740,
+      "num": 1329740,
       "word": "中国奇谭 封神",
       "onboard_time": 1673176531,
       "rank": 12,
@@ -3123,6 +3131,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 781597,
+      "num": 781597,
+      "word": "女子花6000请侦探寻狗找到后抱狗痛哭",
+      "onboard_time": 1673178391,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 781507,
       "num": 357403,
       "word": "江歌妈妈直播回应刘鑫长文",
@@ -3392,14 +3408,6 @@
       "word": "三亚民宿老板称一个月赚回三年亏损",
       "onboard_time": 1672916245,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 736573,
-      "num": 736573,
-      "word": "女子花6000请侦探寻狗找到后抱狗痛哭",
-      "onboard_time": 1673178391,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -3697,14 +3705,6 @@
       "onboard_time": 1672792289,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 697197,
-      "num": 626651,
-      "word": "李现对不起 我爱上了隔壁村草谢之遥",
-      "onboard_time": 1673180910,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 694918,
@@ -4265,6 +4265,14 @@
       "onboard_time": 1672541192,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 633520,
+      "num": 633520,
+      "word": "明日方舟",
+      "onboard_time": 1673180491,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 633442,
@@ -5939,6 +5947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 493228,
+      "num": 268545,
+      "word": "TVB颁奖礼",
+      "onboard_time": 1673176292,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 492834,
       "num": 492834,
       "word": "许嵩新歌 没想到",
@@ -6017,14 +6033,6 @@
       "onboard_time": 1672733847,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 487305,
-      "num": 487305,
-      "word": "明日方舟",
-      "onboard_time": 1673180491,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 487286,
@@ -6449,6 +6457,14 @@
       "onboard_time": 1672909890,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 454478,
+      "num": 245022,
+      "word": "步音楼得知肖铎身世",
+      "onboard_time": 1673181630,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 454208,
@@ -6993,14 +7009,6 @@
       "onboard_time": 1673055627,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 423376,
-      "num": 268545,
-      "word": "TVB颁奖礼",
-      "onboard_time": 1673176292,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 423287,
@@ -7811,6 +7819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387051,
+      "num": 267305,
+      "word": "小妖怪的夏天 结局",
+      "onboard_time": 1673177669,
+      "rank": 22,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 387011,
       "num": 387011,
       "word": "TWICE将1月20日发行先行曲",
@@ -8123,6 +8139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 370791,
+      "num": 172533,
+      "word": "虞书欣鎏金黄色抹胸长裙造型",
+      "onboard_time": 1673181391,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370718,
       "num": 370718,
       "word": "网友用白敬亭的人形立牌挂菜",
@@ -8313,6 +8337,14 @@
       "onboard_time": 1673001333,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 364785,
+      "num": 171143,
+      "word": "张杰我型我show唱跳视频",
+      "onboard_time": 1673181331,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 364355,
@@ -8961,14 +8993,6 @@
       "onboard_time": 1672986329,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 339754,
-      "num": 267305,
-      "word": "小妖怪的夏天 结局",
-      "onboard_time": 1673177669,
-      "rank": 22,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 339354,
@@ -10131,6 +10155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297581,
+      "num": 169083,
+      "word": "程霄对顾南亭说这次我放弃了",
+      "onboard_time": 1673180131,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297262,
       "num": 142272,
       "word": "顾南亭满脑子想的都是程霄",
@@ -10779,6 +10811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279650,
+      "num": 151097,
+      "word": "万千星辉颁奖典礼2022",
+      "onboard_time": 1673180731,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 279596,
       "num": 279596,
       "word": "这是别墅还是庄园",
@@ -11177,14 +11217,6 @@
       "onboard_time": 1672989691,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 270996,
-      "num": 165988,
-      "word": "程霄对顾南亭说这次我放弃了",
-      "onboard_time": 1673180131,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 270878,
@@ -14339,6 +14371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193247,
+      "num": 193247,
+      "word": "老人落水被救7年后儿子再次上门道谢",
+      "onboard_time": 1673180791,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 193220,
       "num": 193220,
       "word": "男子进店被劝戴口罩反怼就不戴",
@@ -15955,6 +15995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163148,
+      "num": 163148,
+      "word": "4AM拿下世界赛首鸡",
+      "onboard_time": 1673181630,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163136,
       "num": 70676,
       "word": "檀健次发博支持邓超新电影",
@@ -16497,6 +16545,14 @@
       "onboard_time": 1672659751,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151238,
+      "num": 165975,
+      "word": "国考估分",
+      "onboard_time": 1673180970,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 151134,
@@ -18515,14 +18571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 108880,
-      "num": 165978,
-      "word": "老人落水被救7年后儿子再次上门道谢",
-      "onboard_time": 1673180791,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 108710,
       "num": 108710,
       "word": "8岁妹妹给姐姐看记仇日记",
@@ -18625,14 +18673,6 @@
       "onboard_time": 1672537113,
       "rank": 43,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 107105,
-      "num": 165975,
-      "word": "国考估分",
-      "onboard_time": 1673180970,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 107045,
@@ -19033,6 +19073,14 @@
       "onboard_time": 1672585411,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 97127,
+      "num": 146331,
+      "word": "4AM单局18淘汰",
+      "onboard_time": 1673181512,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 97106,
