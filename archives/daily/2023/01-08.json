@@ -1,6 +1,6 @@
 {
   "startTime": 1673108634444,
-  "endTime": 1673148811439,
+  "endTime": 1673151723389,
   "band_list": [
     {
       "raw_hot": 3650071,
@@ -43,8 +43,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 1298546,
-      "num": 1298546,
+      "raw_hot": 1466880,
+      "num": 1466880,
       "word": "堂吉诃德",
       "onboard_time": 1673134100,
       "rank": 14,
@@ -91,6 +91,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 947610,
+      "num": 608577,
+      "word": "伤者讲述南昌17死22伤车祸",
+      "onboard_time": 1673150730,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 926653,
+      "num": 926653,
+      "word": "国考行测",
+      "onboard_time": 1673149169,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 887107,
       "num": 887107,
       "word": "你能接受婚前同居的恋爱吗",
@@ -105,6 +121,14 @@
       "onboard_time": 1673090069,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 848342,
+      "num": 848342,
+      "word": "杨九郎谐音梗让孟佳愤怒离席",
+      "onboard_time": 1673147429,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 828726,
@@ -139,19 +163,19 @@
       "category": "军事"
     },
     {
+      "raw_hot": 756269,
+      "num": 756269,
+      "word": "这游戏真的非玩不可吗",
+      "onboard_time": 1673146348,
+      "rank": 37,
+      "category": "游戏,幽默"
+    },
+    {
       "raw_hot": 753688,
       "num": 753688,
       "word": "你好星期六下期预告没有冯禧",
       "onboard_time": 1673103035,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 744188,
-      "num": 744188,
-      "word": "杨九郎谐音梗让孟佳愤怒离席",
-      "onboard_time": 1673147429,
-      "rank": 14,
       "category": "综艺"
     },
     {
@@ -163,6 +187,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 644400,
+      "num": 644400,
+      "word": "黄明昊说冯禧的雪人是用断桥残雪堆的",
+      "onboard_time": 1673146409,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 618607,
       "num": 618607,
       "word": "女子为吃骨髓用手挖美甲卡大骨头",
@@ -171,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 611778,
+      "num": 611778,
+      "word": "申论",
+      "onboard_time": 1673151151,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 585941,
       "num": 585941,
       "word": "红豆遥遥冰否认恋情",
       "onboard_time": 1673144008,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 576179,
-      "num": 576179,
-      "word": "这游戏真的非玩不可吗",
-      "onboard_time": 1673146348,
-      "rank": 37,
-      "category": "游戏,幽默"
     },
     {
       "raw_hot": 557399,
@@ -235,11 +267,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 488599,
-      "num": 488599,
-      "word": "黄明昊说冯禧的雪人是用断桥残雪堆的",
-      "onboard_time": 1673146409,
-      "rank": 32,
+      "raw_hot": 465486,
+      "num": 465486,
+      "word": "王一博河南春晚转圈路透",
+      "onboard_time": 1673150070,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -249,6 +281,14 @@
       "onboard_time": 1673147729,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 439121,
+      "num": 439121,
+      "word": "2023国考公共科目笔试",
+      "onboard_time": 1673147850,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 437877,
@@ -265,6 +305,14 @@
       "onboard_time": 1673103215,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 420005,
+      "num": 420005,
+      "word": "香港成为入境机票出发地第一",
+      "onboard_time": 1673147971,
+      "rank": 35,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 419481,
@@ -331,6 +379,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 372243,
+      "num": 372243,
+      "word": "国考答案",
+      "onboard_time": 1673151211,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 350997,
+      "num": 350997,
+      "word": "赵丽颖北京台春晚代言人剪影",
+      "onboard_time": 1673149169,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350305,
       "num": 268119,
       "word": "母亲去世3年仍有疫苗接种记录",
@@ -363,20 +427,20 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 311540,
+      "num": 311540,
+      "word": "车保罗说薛凯琪的眼神好厉害",
+      "onboard_time": 1673149769,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303895,
       "num": 303895,
       "word": "张婉婷 逻辑",
       "onboard_time": 1673134820,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 303773,
-      "num": 303773,
-      "word": "2023国考公共科目笔试",
-      "onboard_time": 1673147850,
-      "rank": 46,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 303039,
@@ -396,7 +460,7 @@
     },
     {
       "raw_hot": 283292,
-      "num": 187770,
+      "num": 195238,
       "word": "肖铎步音楼手撕绿茶",
       "onboard_time": 1673147787,
       "rank": 40,
@@ -425,6 +489,14 @@
       "onboard_time": 1673134760,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271223,
+      "num": 271223,
+      "word": "香港至深圳船票搜索量每小时上涨五成",
+      "onboard_time": 1673148931,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269451,
@@ -465,6 +537,14 @@
       "onboard_time": 1673136504,
       "rank": 30,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 254431,
+      "num": 254431,
+      "word": "国考难度到底有多大",
+      "onboard_time": 1673149892,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 253140,
@@ -603,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193877,
+      "num": 193877,
+      "word": "步音楼吃醋踩肖铎",
+      "onboard_time": 1673151570,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192989,
       "num": 144073,
       "word": "学者发现2.52亿年前陆地生物大灭绝元凶",
@@ -619,6 +707,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 191855,
+      "num": 195536,
+      "word": "何冰娇王曼昱互相激励",
+      "onboard_time": 1673150607,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191100,
       "num": 107868,
       "word": "张杰live实力好强",
@@ -633,14 +729,6 @@
       "onboard_time": 1673144846,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187110,
-      "num": 187110,
-      "word": "香港成为入境机票出发地第一",
-      "onboard_time": 1673147971,
-      "rank": 35,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 187030,
@@ -707,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175559,
+      "num": 175559,
+      "word": "资料分析",
+      "onboard_time": 1673151331,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 175530,
       "num": 99544,
       "word": "惠英红反驳吴镇宇",
@@ -739,6 +835,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167030,
+      "num": 160321,
+      "word": "许红豆晒初到云苗村的照片库存",
+      "onboard_time": 1673150607,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 163167,
+      "num": 163167,
+      "word": "公安部预警2023年春运五类风险",
+      "onboard_time": 1673147248,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159923,
+      "num": 159923,
+      "word": "小女孩泥塘抱大鱼像极了年画娃娃",
+      "onboard_time": 1673148749,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158775,
       "num": 158775,
       "word": "老赖不还债花330万买彩票获刑5年",
@@ -747,11 +867,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157018,
+      "num": 157018,
+      "word": "国考常识",
+      "onboard_time": 1673151211,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 152013,
       "num": 152013,
       "word": "周总理定下十条家规",
       "onboard_time": 1673142208,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149873,
+      "num": 149873,
+      "word": "抗生素吃多了容易产生耐药性",
+      "onboard_time": 1673148150,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -793,14 +929,6 @@
       "onboard_time": 1673110944,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140582,
-      "num": 140582,
-      "word": "公安部预警2023年春运五类风险",
-      "onboard_time": 1673147248,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140441,
@@ -963,14 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99318,
-      "num": 99318,
-      "word": "抗生素吃多了容易产生耐药性",
-      "onboard_time": 1673148150,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91996,
       "num": 91996,
       "word": "皇马状态",
@@ -993,14 +1113,6 @@
       "onboard_time": 1673106991,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84090,
-      "num": 84090,
-      "word": "小女孩泥塘抱大鱼像极了年画娃娃",
-      "onboard_time": 1673148749,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82756,
@@ -1116,6 +1228,9 @@
     },
     {
       "word": "#中土两国友好交往翻开新篇章#"
+    },
+    {
+      "word": "#开局之年看中国#"
     }
   ]
 }
