@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673209097899,
+  "endTime": 1673210009437,
   "band_list": [
     {
       "raw_hot": 1255901,
@@ -483,20 +483,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 16810,
-      "num": 15266,
-      "word": "她好像一只灵动的小鹿啊",
-      "onboard_time": 1673200817,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 13553,
-      "num": 15190,
+      "raw_hot": 19843,
+      "num": 18738,
       "word": "邻居占道沟通无果男子喊挖机拆墙",
       "onboard_time": 1673208313,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18401,
+      "num": 18401,
+      "word": "她好像一只灵动的小鹿啊",
+      "onboard_time": 1673200817,
+      "rank": 41,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
