@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673216210570,
+  "endTime": 1673217197653,
   "band_list": [
     {
       "raw_hot": 1255901,
@@ -355,6 +355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105971,
+      "num": 77308,
+      "word": "152.5万人实际参加国考",
+      "onboard_time": 1673212812,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 104121,
       "num": 104121,
       "word": "明日方舟",
@@ -443,14 +451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 73192,
-      "num": 58457,
-      "word": "152.5万人实际参加国考",
-      "onboard_time": 1673212812,
-      "rank": 33,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 72700,
       "num": 72700,
       "word": "重岳 配音",
@@ -467,8 +467,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56078,
-      "num": 56078,
+      "raw_hot": 61981,
+      "num": 61981,
       "word": "救人男子回应被指不符英雄形象",
       "onboard_time": 1673212392,
       "rank": 49,
@@ -491,12 +491,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 29973,
-      "num": 26876,
+      "raw_hot": 32143,
+      "num": 32143,
       "word": "邻居占道沟通无果男子喊挖机拆墙",
       "onboard_time": 1673208313,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22429,
+      "num": 22429,
+      "word": "她好像一只灵动的小鹿啊",
+      "onboard_time": 1673200817,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 22347,
@@ -515,12 +523,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18401,
-      "num": 18401,
-      "word": "她好像一只灵动的小鹿啊",
-      "onboard_time": 1673200817,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 14920,
+      "num": 17158,
+      "word": "贪官受贿近3亿无视督导组整改意见",
+      "onboard_time": 1673217135,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
