@@ -1,6 +1,6 @@
 {
   "startTime": 1673108634444,
-  "endTime": 1673177593283,
+  "endTime": 1673181192288,
   "band_list": [
     {
       "raw_hot": 3650071,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1681013,
-      "num": 1062189,
+      "num": 1101895,
       "word": "陈炳林承认校园霸凌",
       "onboard_time": 1673175032,
       "rank": 4,
@@ -89,6 +89,14 @@
       "onboard_time": 1673153730,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1586563,
+      "num": 1586563,
+      "word": "2040元买30斤牛肉切开肉内有纸",
+      "onboard_time": 1673177250,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1466880,
@@ -121,6 +129,14 @@
       "onboard_time": 1673160091,
       "rank": 10,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1322161,
+      "num": 1322161,
+      "word": "中国奇谭 封神",
+      "onboard_time": 1673176531,
+      "rank": 12,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 1299381,
@@ -339,6 +355,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 736573,
+      "num": 736573,
+      "word": "女子花6000请侦探寻狗找到后抱狗痛哭",
+      "onboard_time": 1673178391,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697197,
+      "num": 626651,
+      "word": "李现对不起 我爱上了隔壁村草谢之遥",
+      "onboard_time": 1673180910,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 692258,
       "num": 692258,
       "word": "香港与内地有序恢复人员正常往来",
@@ -377,6 +409,14 @@
       "onboard_time": 1673173771,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 663766,
+      "num": 663766,
+      "word": "辉瑞",
+      "onboard_time": 1673177491,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662093,
@@ -451,12 +491,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 577672,
-      "num": 577672,
-      "word": "中国奇谭 封神",
-      "onboard_time": 1673176531,
-      "rank": 12,
-      "category": "动漫,影视"
+      "raw_hot": 574494,
+      "num": 574494,
+      "word": "王鹤棣再现你居然家暴我",
+      "onboard_time": 1673178872,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 567443,
@@ -481,6 +521,14 @@
       "onboard_time": 1673146230,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 554795,
+      "num": 272813,
+      "word": "白鹿以爱为营婚纱造型拍摄路透",
+      "onboard_time": 1673177552,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 543514,
@@ -571,6 +619,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487305,
+      "num": 487305,
+      "word": "明日方舟",
+      "onboard_time": 1673180491,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 486010,
+      "num": 486010,
+      "word": "如何评价今年国考",
+      "onboard_time": 1673177250,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 477984,
       "num": 477984,
       "word": "林林",
@@ -649,6 +713,14 @@
       "onboard_time": 1673103215,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 423376,
+      "num": 268545,
+      "word": "TVB颁奖礼",
+      "onboard_time": 1673176292,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 420005,
@@ -747,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393300,
+      "num": 393300,
+      "word": "吴尊友解析是否马上有新一轮传播风险",
+      "onboard_time": 1673176772,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392995,
       "num": 392995,
       "word": "一直不谈恋爱会等到更好的人吗",
@@ -827,22 +907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 365377,
-      "num": 198599,
-      "word": "TVB颁奖礼",
-      "onboard_time": 1673176292,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 365181,
-      "num": 198589,
-      "word": "白鹿以爱为营婚纱造型拍摄路透",
-      "onboard_time": 1673177552,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 358870,
       "num": 358870,
       "word": "第一批回村的狗在干嘛",
@@ -873,6 +937,14 @@
       "onboard_time": 1673136201,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 339754,
+      "num": 267305,
+      "word": "小妖怪的夏天 结局",
+      "onboard_time": 1673177669,
+      "rank": 22,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 327987,
@@ -1011,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289470,
+      "num": 205188,
+      "word": "肖铎说我们成亲了",
+      "onboard_time": 1673178210,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286838,
       "num": 286838,
       "word": "华晨宇新歌音源提前曝光",
@@ -1091,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270996,
+      "num": 165988,
+      "word": "程霄对顾南亭说这次我放弃了",
+      "onboard_time": 1673180131,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269451,
       "num": 269451,
       "word": "你接受异地恋情吗",
@@ -1169,6 +1257,14 @@
       "onboard_time": 1673157868,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255482,
+      "num": 165986,
+      "word": "吴磊上班路透",
+      "onboard_time": 1673178032,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 255031,
@@ -1307,6 +1403,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236043,
+      "num": 236043,
+      "word": "今起新冠感染乙类乙管正式实施",
+      "onboard_time": 1673179111,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233620,
+      "num": 233620,
+      "word": "当对象给你留吃的时",
+      "onboard_time": 1673176652,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 233073,
       "num": 233073,
       "word": "刘耀文横店演乞丐路透",
@@ -1403,14 +1515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217530,
-      "num": 217530,
-      "word": "当对象给你留吃的时",
-      "onboard_time": 1673176652,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 216625,
       "num": 216625,
       "word": "行测答案",
@@ -1505,6 +1609,14 @@
       "onboard_time": 1673173771,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196944,
+      "num": 196944,
+      "word": "北京天空现绝美多层飞碟云",
+      "onboard_time": 1673176352,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196537,
@@ -1795,14 +1907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 163354,
-      "num": 163354,
-      "word": "北京天空现绝美多层飞碟云",
-      "onboard_time": 1673176352,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163167,
       "num": 163167,
       "word": "公安部预警2023年春运五类风险",
@@ -1875,14 +1979,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 150622,
-      "num": 150622,
-      "word": "2040元买30斤牛肉切开肉内有纸",
-      "onboard_time": 1673177250,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150265,
       "num": 150265,
       "word": "曝苹果或上调iPhone15Pro售价",
@@ -1915,20 +2011,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 146328,
-      "num": 146328,
-      "word": "吴尊友解析是否马上有新一轮传播风险",
-      "onboard_time": 1673176772,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146309,
       "num": 146309,
       "word": "听得懂英语的狗子",
       "onboard_time": 1673162368,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144405,
+      "num": 165990,
+      "word": "德约科维奇夺生涯第92冠",
+      "onboard_time": 1673178810,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 143860,
@@ -2027,6 +2123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133222,
+      "num": 165985,
+      "word": "挖掘机你不要太离谱了",
+      "onboard_time": 1673179292,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133044,
       "num": 133044,
       "word": "狼队年总首冠",
@@ -2059,14 +2163,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 129428,
-      "num": 129428,
-      "word": "如何评价今年国考",
-      "onboard_time": 1673177250,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 129150,
       "num": 129150,
       "word": "1个姿势缓解夜间咳嗽加重",
@@ -2089,14 +2185,6 @@
       "onboard_time": 1673165249,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 124762,
-      "num": 124762,
-      "word": "辉瑞",
-      "onboard_time": 1673177491,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124249,
@@ -2187,12 +2275,28 @@
       "category": "财经,旅游"
     },
     {
+      "raw_hot": 108880,
+      "num": 165978,
+      "word": "老人落水被救7年后儿子再次上门道谢",
+      "onboard_time": 1673180791,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 107979,
       "num": 107979,
       "word": "真正的爱从来都是不理智的吗",
       "onboard_time": 1673137826,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107105,
+      "num": 165975,
+      "word": "国考估分",
+      "onboard_time": 1673180970,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 106167,
