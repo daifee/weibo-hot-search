@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1673154958059,
+  "endTime": 1673156014830,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -585,6 +585,14 @@
       "onboard_time": 1672726646,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1595228,
+      "num": 1595228,
+      "word": "李雪琴精准吐槽王鹤棣",
+      "onboard_time": 1673153730,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1584454,
@@ -1307,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1115573,
+      "num": 1115573,
+      "word": "血氧仪对农村意味着什么",
+      "onboard_time": 1673154031,
+      "rank": 13,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1115232,
       "num": 488668,
       "word": "棣欣引力",
@@ -1340,7 +1356,7 @@
     },
     {
       "raw_hot": 1093516,
-      "num": 1093516,
+      "num": 1143985,
       "word": "新冠感染乙类乙管今起正式实施",
       "onboard_time": 1673143107,
       "rank": 28,
@@ -1377,6 +1393,14 @@
       "onboard_time": 1673020591,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1066029,
+      "num": 1066029,
+      "word": "iPhone15Pro机型会有6大独占功能",
+      "onboard_time": 1673152528,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 1059533,
@@ -1523,14 +1547,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1012122,
-      "num": 502219,
-      "word": "李雪琴精准吐槽王鹤棣",
-      "onboard_time": 1673153730,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1010435,
       "num": 1010435,
       "word": "女子煮鸡蛋发现蛋中蛋",
@@ -1617,14 +1633,6 @@
       "onboard_time": 1672636650,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 980238,
-      "num": 980238,
-      "word": "iPhone15Pro机型会有6大独占功能",
-      "onboard_time": 1673152528,
-      "rank": 3,
-      "category": "科技"
     },
     {
       "raw_hot": 979767,
@@ -3755,6 +3763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584617,
+      "num": 584617,
+      "word": "多名网红直播间约架在网红桥斗殴",
+      "onboard_time": 1673153310,
+      "rank": 16,
+      "category": "社会负面,网红"
+    },
+    {
       "raw_hot": 583109,
       "num": 515560,
       "word": "楷灿因健康欠佳暂停活动",
@@ -5163,6 +5179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 456922,
+      "num": 456922,
+      "word": "多所中学老师让学生到指定店买资料",
+      "onboard_time": 1673152170,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 455651,
       "num": 455651,
       "word": "巴黎主帅确认梅西明天归队",
@@ -5305,14 +5329,6 @@
       "onboard_time": 1672885169,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 448512,
-      "num": 448512,
-      "word": "血氧仪对农村意味着什么",
-      "onboard_time": 1673154031,
-      "rank": 13,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 446800,
@@ -5515,14 +5531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 432404,
-      "num": 432404,
-      "word": "多所中学老师让学生到指定店买资料",
-      "onboard_time": 1673152170,
-      "rank": 45,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 432097,
       "num": 285464,
       "word": "鑫仔 戏悟",
@@ -5617,14 +5625,6 @@
       "onboard_time": 1672639528,
       "rank": 27,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 427530,
-      "num": 427530,
-      "word": "多名网红直播间约架在网红桥斗殴",
-      "onboard_time": 1673153310,
-      "rank": 16,
-      "category": "社会负面,网红"
     },
     {
       "raw_hot": 426643,
@@ -5921,6 +5921,14 @@
       "onboard_time": 1672999651,
       "rank": 21,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 406707,
+      "num": 406707,
+      "word": "苏醒一台晚会打两份工",
+      "onboard_time": 1673154749,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 406571,
@@ -7979,6 +7987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311434,
+      "num": 159851,
+      "word": "王一博无名影片时长128分钟",
+      "onboard_time": 1673155648,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311293,
       "num": 311293,
       "word": "李现的新年愿望是待播戏全播",
@@ -7993,6 +8009,14 @@
       "onboard_time": 1672977330,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 310848,
+      "num": 310848,
+      "word": "勇士 普洱",
+      "onboard_time": 1673154630,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 310059,
@@ -8065,14 +8089,6 @@
       "onboard_time": 1672584810,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 306424,
-      "num": 179786,
-      "word": "苏醒一台晚会打两份工",
-      "onboard_time": 1673154749,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 306014,
@@ -10651,6 +10667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226385,
+      "num": 155584,
+      "word": "哎呀好身材",
+      "onboard_time": 1673154870,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225783,
       "num": 150738,
       "word": "Minnie唱泰语版VillainDies",
@@ -10969,14 +10993,6 @@
       "onboard_time": 1672740270,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 214704,
-      "num": 135395,
-      "word": "哎呀好身材",
-      "onboard_time": 1673154870,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 214453,
@@ -12171,6 +12187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181524,
+      "num": 181524,
+      "word": "今年国考报名人数达近十年之最",
+      "onboard_time": 1673153368,
+      "rank": 42,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 181488,
       "num": 181488,
       "word": "元旦少不了姐姐收拾弟弟",
@@ -12696,6 +12720,14 @@
       "word": "如何根据风寒风热对症用药",
       "onboard_time": 1672733067,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169941,
+      "num": 169941,
+      "word": "成都双流机场首个入境航班抵达",
+      "onboard_time": 1673154990,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -13265,14 +13297,6 @@
       "onboard_time": 1672811249,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 155328,
-      "num": 155328,
-      "word": "勇士 普洱",
-      "onboard_time": 1673154630,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 155130,
@@ -14243,14 +14267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133515,
-      "num": 133515,
-      "word": "今年国考报名人数达近十年之最",
-      "onboard_time": 1673153368,
-      "rank": 42,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 133385,
       "num": 133385,
       "word": "顾南亭的慌乱瞬间",
@@ -15073,6 +15089,14 @@
       "onboard_time": 1672586609,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 110987,
+      "num": 110987,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1673155589,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 110740,
