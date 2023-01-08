@@ -1,0 +1,410 @@
+{
+  "runTime": 1673148811439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3101539,
+        "num": 3101539,
+        "word": "国考",
+        "onboard_time": 1673147729,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1298546,
+        "num": 1298546,
+        "word": "堂吉诃德",
+        "onboard_time": 1673134100,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 10771,
+        "num": 1290063,
+        "word": "春运健康出行防护指南",
+        "onboard_time": 1673063609,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1288434,
+        "num": 1288434,
+        "word": "福建33岁单亲妈妈嫁35岁头婚男",
+        "onboard_time": 1673141606,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895167,
+        "num": 895167,
+        "word": "男子新买百万奔驰被朋友借走撞烂",
+        "onboard_time": 1673143886,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2221783,
+        "num": 883063,
+        "word": "南昌发生重大交通事故致17死",
+        "onboard_time": 1673140763,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 779100,
+        "num": 779100,
+        "word": "新冠感染乙类乙管今起正式实施",
+        "onboard_time": 1673143107,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 744188,
+        "num": 744188,
+        "word": "杨九郎谐音梗让孟佳愤怒离席",
+        "onboard_time": 1673147429,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618607,
+        "num": 618607,
+        "word": "女子为吃骨髓用手挖美甲卡大骨头",
+        "onboard_time": 1673144488,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583792,
+        "num": 583792,
+        "word": "赵樱子演技",
+        "onboard_time": 1673136262,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576179,
+        "num": 576179,
+        "word": "这游戏真的非玩不可吗",
+        "onboard_time": 1673146348,
+        "rank": 10,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 506036,
+        "num": 506036,
+        "word": "女子踢打残疾乞讨男子抢其钱撕碎",
+        "onboard_time": 1673145688,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 488599,
+        "num": 488599,
+        "word": "黄明昊说冯禧的雪人是用断桥残雪堆的",
+        "onboard_time": 1673146409,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487968,
+        "num": 487968,
+        "word": "红豆遥遥冰否认恋情",
+        "onboard_time": 1673144008,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452597,
+        "num": 452597,
+        "word": "LESSERAFIM看朴宰范的reaction",
+        "onboard_time": 1673147729,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 431254,
+        "num": 431254,
+        "word": "北京台春晚代言人剪影线索",
+        "onboard_time": 1673146230,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372842,
+        "num": 372842,
+        "word": "单位组织拍照缉毒警下意识转身",
+        "onboard_time": 1673140467,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328306,
+        "num": 328306,
+        "word": "女生们的过年三件套",
+        "onboard_time": 1673139806,
+        "rank": 17,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 2047088,
+        "num": 328232,
+        "word": "南昌居民称事故系货车撞上出殡队伍",
+        "onboard_time": 1673146288,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 327987,
+        "num": 327987,
+        "word": "直播看香港与内地恢复通关首日",
+        "onboard_time": 1673144428,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379695,
+        "num": 324956,
+        "word": "热烈制片人说王一博会演戏不用质疑",
+        "onboard_time": 1673146648,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311256,
+        "num": 311256,
+        "word": "Lisa金色抹胸蝴蝶结造型",
+        "onboard_time": 1673139566,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303773,
+        "num": 303773,
+        "word": "2023国考公共科目笔试",
+        "onboard_time": 1673147850,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 249378,
+        "num": 249378,
+        "word": "玲娜贝儿被游客拍头",
+        "onboard_time": 1673102674,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 246012,
+        "num": 246012,
+        "word": "你接受异地恋情吗",
+        "onboard_time": 1673143290,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232637,
+        "num": 232637,
+        "word": "周总理台历上的工作日程看到泪目",
+        "onboard_time": 1673133197,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220913,
+        "num": 220913,
+        "word": "妈妈嫌儿子相亲照太生硬做成视频",
+        "onboard_time": 1673108668,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192559,
+        "num": 192559,
+        "word": "实施乙类乙管后全国疫情形势现状",
+        "onboard_time": 1673145508,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190771,
+        "num": 190771,
+        "word": "为什么年轻人越来越抵触父母催婚",
+        "onboard_time": 1673144846,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188210,
+        "num": 188210,
+        "word": "你朋友圈暂停营业多久了",
+        "onboard_time": 1673133917,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302515,
+        "num": 188079,
+        "word": "刘亦菲李现拍夕阳花絮",
+        "onboard_time": 1673146768,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283292,
+        "num": 187770,
+        "word": "肖铎步音楼手撕绿茶",
+        "onboard_time": 1673147787,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247986,
+        "num": 187603,
+        "word": "许嵩新歌 没想到",
+        "onboard_time": 1673137103,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240014,
+        "num": 187493,
+        "word": "Jennie曼谷演唱会上的颜值",
+        "onboard_time": 1673136201,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186344,
+        "num": 187161,
+        "word": "第一次见这么可爱的兔子",
+        "onboard_time": 1673136926,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187110,
+        "num": 187110,
+        "word": "香港成为入境机票出发地第一",
+        "onboard_time": 1673147971,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 186951,
+        "num": 186951,
+        "word": "俄议员建议从中国回购辽宁舰",
+        "onboard_time": 1673104237,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 172095,
+        "num": 172095,
+        "word": "香港与内地有序恢复人员正常往来",
+        "onboard_time": 1673138545,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 156988,
+        "num": 156988,
+        "word": "城管为劝卖糖葫芦大爷离开下跪",
+        "onboard_time": 1673143231,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140582,
+        "num": 140582,
+        "word": "公安部预警2023年春运五类风险",
+        "onboard_time": 1673147248,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197757,
+        "num": 139239,
+        "word": "三体动画跌破5分",
+        "onboard_time": 1673136504,
+        "rank": 40,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 192701,
+        "num": 138935,
+        "word": "谭松韵表情细节",
+        "onboard_time": 1673144668,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126778,
+        "num": 126778,
+        "word": "牧民家的猫咪天天趴在羊背上",
+        "onboard_time": 1673142747,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125723,
+        "num": 125723,
+        "word": "为什么没见过马龙捡过球",
+        "onboard_time": 1673136743,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124386,
+        "num": 124386,
+        "word": "LOL阿狸视觉更新",
+        "onboard_time": 1673145388,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108133,
+        "num": 108133,
+        "word": "周总理定下十条家规",
+        "onboard_time": 1673142208,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100074,
+        "num": 100074,
+        "word": "专家称抗生素对于新冠病毒无效",
+        "onboard_time": 1673139146,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99318,
+        "num": 99318,
+        "word": "抗生素吃多了容易产生耐药性",
+        "onboard_time": 1673148150,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89835,
+        "num": 89835,
+        "word": "原来猫会被猫嫌弃",
+        "onboard_time": 1673106329,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84090,
+        "num": 84090,
+        "word": "小女孩泥塘抱大鱼像极了年画娃娃",
+        "onboard_time": 1673148749,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023春运正式开启#"
+    }
+  }
+}
