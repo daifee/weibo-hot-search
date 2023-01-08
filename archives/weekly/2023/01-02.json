@@ -1,6 +1,6 @@
 {
   "startTime": 1672590224474,
-  "endTime": 1673142047159,
+  "endTime": 1673143239019,
   "band_list": [
     {
       "raw_hot": 9224273,
@@ -25,6 +25,14 @@
       "onboard_time": 1672741528,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3650071,
+      "num": 3650071,
+      "word": "南昌发生重大交通事故致17死",
+      "onboard_time": 1673140763,
+      "rank": 0,
+      "category": "社会负面"
     },
     {
       "raw_hot": 3498294,
@@ -57,14 +65,6 @@
       "onboard_time": 1672789944,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3096373,
-      "num": 3096373,
-      "word": "南昌发生重大交通事故致17死",
-      "onboard_time": 1673140763,
-      "rank": 0,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2780800,
@@ -705,6 +705,14 @@
       "onboard_time": 1672907371,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1456644,
+      "num": 900476,
+      "word": "福建33岁单亲妈妈嫁35岁头婚男",
+      "onboard_time": 1673141606,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1453277,
@@ -2115,6 +2123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 828726,
+      "num": 828726,
+      "word": "单位组织拍照缉毒警下意识转身",
+      "onboard_time": 1673140467,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 827297,
       "num": 827297,
       "word": "王鹤棣秦霄贤猜少爷和我",
@@ -3433,14 +3449,6 @@
       "onboard_time": 1673081308,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 608725,
-      "num": 608725,
-      "word": "单位组织拍照缉毒警下意识转身",
-      "onboard_time": 1673140467,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 607812,
@@ -6139,6 +6147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 381987,
+      "num": 381987,
+      "word": "Lisa金色抹胸蝴蝶结造型",
+      "onboard_time": 1673139566,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 381826,
       "num": 270467,
       "word": "需要一个杨迪手机壳",
@@ -6177,6 +6193,14 @@
       "onboard_time": 1672747534,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 378557,
+      "num": 378557,
+      "word": "女生们的过年三件套",
+      "onboard_time": 1673139806,
+      "rank": 17,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 378023,
@@ -6297,6 +6321,14 @@
       "onboard_time": 1672924413,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 373811,
+      "num": 373811,
+      "word": "你朋友圈暂停营业多久了",
+      "onboard_time": 1673133917,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 372569,
@@ -7043,14 +7075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 339963,
-      "num": 339963,
-      "word": "你朋友圈暂停营业多久了",
-      "onboard_time": 1673133917,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 339354,
       "num": 256234,
       "word": "许红豆被谢之遥拿捏了",
@@ -7249,6 +7273,14 @@
       "onboard_time": 1672712245,
       "rank": 18,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 331362,
+      "num": 331362,
+      "word": "赵丽颖湿发怼脸自拍",
+      "onboard_time": 1673140166,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 330857,
@@ -7601,14 +7633,6 @@
       "onboard_time": 1672574370,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313065,
-      "num": 313065,
-      "word": "Lisa金色抹胸蝴蝶结造型",
-      "onboard_time": 1673139566,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 312817,
@@ -8515,19 +8539,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280679,
-      "num": 208120,
-      "word": "赵丽颖湿发怼脸自拍",
-      "onboard_time": 1673140166,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 280493,
       "num": 234662,
       "word": "最强大脑10选手名单",
       "onboard_time": 1672715909,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 279685,
+      "num": 225965,
+      "word": "刘耀文许魏洲默契度",
+      "onboard_time": 1673142808,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -9035,6 +9059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267135,
+      "num": 267135,
+      "word": "专家称抗生素对于新冠病毒无效",
+      "onboard_time": 1673139146,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266133,
       "num": 266133,
       "word": "王鹤棣陈钰琪摔跤变装视频",
@@ -9348,7 +9380,7 @@
     },
     {
       "raw_hot": 255031,
-      "num": 141327,
+      "num": 186985,
       "word": "三体动画跌破5分",
       "onboard_time": 1673136504,
       "rank": 30,
@@ -9691,14 +9723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244106,
-      "num": 244106,
-      "word": "专家称抗生素对于新冠病毒无效",
-      "onboard_time": 1673139146,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243573,
       "num": 190405,
       "word": "著名滑稽表演艺术家李青因病逝世",
@@ -9785,14 +9809,6 @@
       "onboard_time": 1672643247,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 241372,
-      "num": 241372,
-      "word": "女生们的过年三件套",
-      "onboard_time": 1673139806,
-      "rank": 17,
-      "category": "美妆,时尚"
     },
     {
       "raw_hot": 241282,
@@ -10195,6 +10211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229826,
+      "num": 229826,
+      "word": "为什么没见过马龙捡过球",
+      "onboard_time": 1673136743,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229352,
       "num": 137444,
       "word": "哪一刻发现自己身体机能下降了",
@@ -10209,14 +10233,6 @@
       "onboard_time": 1672903410,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 228226,
-      "num": 140782,
-      "word": "福建33岁单亲妈妈嫁35岁头婚男",
-      "onboard_time": 1673141606,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228008,
@@ -10713,14 +10729,6 @@
       "onboard_time": 1672892193,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211931,
-      "num": 211931,
-      "word": "为什么没见过马龙捡过球",
-      "onboard_time": 1673136743,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 211782,
@@ -12569,6 +12577,14 @@
       "onboard_time": 1672737208,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162975,
+      "num": 162975,
+      "word": "新冠感染乙类乙管今起正式实施",
+      "onboard_time": 1673143107,
+      "rank": 28,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 162880,
@@ -14563,6 +14579,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 112541,
+      "num": 112541,
+      "word": "周总理定下十条家规",
+      "onboard_time": 1673142208,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112248,
       "num": 112248,
       "word": "需要这个哈哈哈哈哈对联",
@@ -14593,6 +14617,14 @@
       "onboard_time": 1672586609,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 110937,
+      "num": 110937,
+      "word": "牧民家的猫咪天天趴在羊背上",
+      "onboard_time": 1673142747,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110740,
@@ -14763,6 +14795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104987,
+      "num": 107667,
+      "word": "魔术vs勇士",
+      "onboard_time": 1673142449,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104805,
       "num": 104805,
       "word": "LOL季前启航赛",
@@ -14923,6 +14963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100603,
+      "num": 100603,
+      "word": "伊戈达拉赛季首秀",
+      "onboard_time": 1673141487,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100571,
       "num": 1846361,
       "word": "共话网络真善美",
@@ -15049,14 +15097,6 @@
       "onboard_time": 1672575388,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95660,
-      "num": 95660,
-      "word": "伊戈达拉赛季首秀",
-      "onboard_time": 1673141487,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 94359,
@@ -15201,6 +15241,14 @@
       "onboard_time": 1672937483,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 88451,
+      "num": 88451,
+      "word": "城管为劝卖糖葫芦大爷离开下跪",
+      "onboard_time": 1673143231,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87767,
