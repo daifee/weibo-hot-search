@@ -1,0 +1,410 @@
+{
+  "runTime": 1673162137917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 977837,
+        "num": 977837,
+        "word": "乘客羽绒服炸裂绒毛飘满地铁车厢",
+        "onboard_time": 1673159609,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849130,
+        "num": 849130,
+        "word": "成都涉不雅聊天副区长简历被撤下",
+        "onboard_time": 1673159846,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 227670,
+        "num": 774826,
+        "word": "新冠感染乙类乙管今起正式实施",
+        "onboard_time": 1673143107,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752499,
+        "num": 752499,
+        "word": "血氧仪对农村意味着什么",
+        "onboard_time": 1673154031,
+        "rank": 3,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 654021,
+        "num": 654021,
+        "word": "陈钰琪帮王鹤棣脱衣服花絮",
+        "onboard_time": 1673161407,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2002596,
+        "num": 653196,
+        "word": "江西重大交通事故已致19死20伤",
+        "onboard_time": 1673156188,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 639791,
+        "num": 639791,
+        "word": "女主播直播间公然打骂女儿被行拘",
+        "onboard_time": 1673159248,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 536514,
+        "num": 536514,
+        "word": "叶一茜说田亮为赶回家太拼了",
+        "onboard_time": 1673160566,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530726,
+        "num": 530726,
+        "word": "iPhone15Pro机型会有6大独占功能",
+        "onboard_time": 1673152528,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 477984,
+        "num": 477984,
+        "word": "林林",
+        "onboard_time": 1673159910,
+        "rank": 9,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 1150643,
+        "num": 475848,
+        "word": "长清一中",
+        "onboard_time": 1673160091,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 470233,
+        "num": 470233,
+        "word": "这游戏真的非玩不可吗",
+        "onboard_time": 1673146348,
+        "rank": 11,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 390232,
+        "num": 390232,
+        "word": "福建33岁单亲妈妈嫁35岁头婚男",
+        "onboard_time": 1673141606,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385233,
+        "num": 385233,
+        "word": "刘耀文坐地上吃盒饭",
+        "onboard_time": 1673157808,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328995,
+        "num": 328995,
+        "word": "堂吉诃德",
+        "onboard_time": 1673134100,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 316701,
+        "num": 316701,
+        "word": "何润东 被虐得好惨",
+        "onboard_time": 1673158103,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278260,
+        "num": 278260,
+        "word": "有人买9万元机票广州飞洛杉矶",
+        "onboard_time": 1673151750,
+        "rank": 16,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 273763,
+        "num": 273763,
+        "word": "孩子发烧不要用酒精擦拭",
+        "onboard_time": 1673157692,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264691,
+        "num": 264691,
+        "word": "新车被小孩刮花家长不认账",
+        "onboard_time": 1673156188,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213815,
+        "num": 241662,
+        "word": "医保局和辉瑞谈判4个多小时",
+        "onboard_time": 1673161588,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294391,
+        "num": 240994,
+        "word": "林小宅古装",
+        "onboard_time": 1673156787,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238824,
+        "num": 238824,
+        "word": "谭松韵程霄角色反差感",
+        "onboard_time": 1673161230,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237809,
+        "num": 237809,
+        "word": "杨九郎谐音梗让孟佳愤怒离席",
+        "onboard_time": 1673147429,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206912,
+        "num": 206912,
+        "word": "38岁詹姆斯场均38分",
+        "onboard_time": 1673160629,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194140,
+        "num": 194140,
+        "word": "男孩滑板失控俯冲被路人一秒拽回",
+        "onboard_time": 1673158828,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 181673,
+        "num": 181673,
+        "word": "男子新买百万奔驰被朋友借走撞烂",
+        "onboard_time": 1673143886,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163981,
+        "num": 163981,
+        "word": "女孩坠深井邻居身绑麻绳下井拉起",
+        "onboard_time": 1673157148,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 163028,
+        "num": 163028,
+        "word": "乙类乙管后会不会出现更高的感染高峰",
+        "onboard_time": 1673157207,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161586,
+        "num": 161586,
+        "word": "勇士 普洱",
+        "onboard_time": 1673154630,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149997,
+        "num": 149997,
+        "word": "女子踢打残疾乞讨男子抢其钱撕碎",
+        "onboard_time": 1673145688,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 221192,
+        "num": 149881,
+        "word": "沈月许魏洲荣梓杉融入群演好快",
+        "onboard_time": 1673160029,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217552,
+        "num": 149782,
+        "word": "张馨予晒怼脸自拍",
+        "onboard_time": 1673161469,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160093,
+        "num": 149755,
+        "word": "檀健次进组被我弄丢两次的王斤斤",
+        "onboard_time": 1673158467,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149538,
+        "num": 149538,
+        "word": "成都双流机场首个入境航班抵达",
+        "onboard_time": 1673154990,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160004,
+        "num": 149515,
+        "word": "苏醒一台晚会打两份工",
+        "onboard_time": 1673154749,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149278,
+        "num": 149278,
+        "word": "曝苹果或上调iPhone15Pro售价",
+        "onboard_time": 1673156907,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 148480,
+        "num": 148480,
+        "word": "国际航班最新入境流程",
+        "onboard_time": 1673158349,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 141951,
+        "num": 141951,
+        "word": "多所中学老师让学生到指定店买资料",
+        "onboard_time": 1673152170,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 139467,
+        "num": 139467,
+        "word": "开放入境后会引发第二轮感染吗",
+        "onboard_time": 1673161469,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130496,
+        "num": 130496,
+        "word": "女子为吃骨髓用手挖美甲卡大骨头",
+        "onboard_time": 1673144488,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154371,
+        "num": 129763,
+        "word": "顾南亭为程霄奔走调查",
+        "onboard_time": 1673157089,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147042,
+        "num": 129221,
+        "word": "赵樱子演技",
+        "onboard_time": 1673136262,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127865,
+        "num": 127865,
+        "word": "女生们的过年三件套",
+        "onboard_time": 1673139806,
+        "rank": 42,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 121243,
+        "num": 121243,
+        "word": "小鸟胖成球儿也能轻松一字马",
+        "onboard_time": 1673157267,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120180,
+        "num": 120180,
+        "word": "真正的爱情首先需要做自己",
+        "onboard_time": 1673160508,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113556,
+        "num": 113556,
+        "word": "今年国考报名人数达近十年之最",
+        "onboard_time": 1673153368,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 111590,
+        "num": 111590,
+        "word": "梁建章称旅游行业仍处冰冻期",
+        "onboard_time": 1673161588,
+        "rank": 46,
+        "category": "财经,旅游"
+      },
+      {
+        "raw_hot": 108638,
+        "num": 108638,
+        "word": "詹姆斯37分",
+        "onboard_time": 1673158168,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360936,
+        "num": 107315,
+        "word": "多名网红直播间约架在网红桥斗殴",
+        "onboard_time": 1673153310,
+        "rank": 48,
+        "category": "社会负面,网红"
+      },
+      {
+        "raw_hot": 102420,
+        "num": 102420,
+        "word": "季前启航赛LPL阵容",
+        "onboard_time": 1673161348,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年看中国#"
+    }
+  }
+}
