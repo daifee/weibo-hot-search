@@ -1,0 +1,410 @@
+{
+  "runTime": 1673306324998,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 563132,
+        "num": 563132,
+        "word": "保洁夹断猫腿与宠主就赔偿争执",
+        "onboard_time": 1673282785,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520446,
+        "num": 520446,
+        "word": "贝尔宣布退役",
+        "onboard_time": 1673279308,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 12525,
+        "num": 388363,
+        "word": "当前疫情最新热点十问十答",
+        "onboard_time": 1673251830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285578,
+        "num": 285578,
+        "word": "女孩博士毕业不社交遭妈妈吐槽",
+        "onboard_time": 1673276371,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244071,
+        "num": 244071,
+        "word": "太快确定关系真的不会长久吗",
+        "onboard_time": 1673286496,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339300,
+        "num": 231143,
+        "word": "1家8口到三亚过年嫌房租贵直接买房",
+        "onboard_time": 1673257830,
+        "rank": 5,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 192407,
+        "num": 192407,
+        "word": "护士发烧晕倒同事用椅子推着就医",
+        "onboard_time": 1673284100,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173019,
+        "num": 173019,
+        "word": "他将同学聚会变成权钱交易所",
+        "onboard_time": 1673280329,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160502,
+        "num": 160502,
+        "word": "奥密克戎毒株肺炎发生率比德尔塔小",
+        "onboard_time": 1673280507,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153473,
+        "num": 153473,
+        "word": "王鹤棣虞书欣苍兰诀入围年度全端最佳剧集",
+        "onboard_time": 1673305816,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316669,
+        "num": 146122,
+        "word": "黄锐自曝每月还欠款二十万",
+        "onboard_time": 1673279549,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137682,
+        "num": 137682,
+        "word": "贪官买房让商人出钱自己高价卖出",
+        "onboard_time": 1673275893,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137404,
+        "num": 137404,
+        "word": "1亿元阿兹夫定捐给中西部农村",
+        "onboard_time": 1673269950,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134380,
+        "num": 134380,
+        "word": "如何评价惠英红穿婚纱喊话水兵",
+        "onboard_time": 1673260830,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133764,
+        "num": 133764,
+        "word": "苍兰诀 投票",
+        "onboard_time": 1673276851,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129643,
+        "num": 129643,
+        "word": "小伙花280元从上海坐公交到北京",
+        "onboard_time": 1673264011,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122604,
+        "num": 122604,
+        "word": "山东又要变成山冻",
+        "onboard_time": 1673303895,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115719,
+        "num": 115719,
+        "word": "赵丽颖说情侣之间不能送水果梨",
+        "onboard_time": 1673272533,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115009,
+        "num": 115009,
+        "word": "谢之遥没提挽留但处处在挽留",
+        "onboard_time": 1673270190,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101797,
+        "num": 101797,
+        "word": "欠北方的雪可能要还了",
+        "onboard_time": 1673270492,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108866,
+        "num": 99843,
+        "word": "第一次被机场耍大牌爽到",
+        "onboard_time": 1673281285,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97130,
+        "num": 97130,
+        "word": "苹果耳机盒子不要丢",
+        "onboard_time": 1673264609,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 89190,
+        "num": 89190,
+        "word": "刘诗诗刘宇宁与一念关山工作人员合影",
+        "onboard_time": 1673305697,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88201,
+        "num": 88201,
+        "word": "中国网友偶遇侃爷",
+        "onboard_time": 1673276014,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87597,
+        "num": 87597,
+        "word": "见义勇为受伤的南京胖哥举办婚礼",
+        "onboard_time": 1673273735,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87311,
+        "num": 87311,
+        "word": "蔡依林演唱会造型",
+        "onboard_time": 1673270669,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83513,
+        "num": 83513,
+        "word": "去有风的地方不够看",
+        "onboard_time": 1673278889,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78516,
+        "num": 78516,
+        "word": "一句你不敢发在朋友圈的话",
+        "onboard_time": 1673259267,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76505,
+        "num": 76505,
+        "word": "网红假装在国外",
+        "onboard_time": 1673266889,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75804,
+        "num": 75804,
+        "word": "医美的尽头到底是什么",
+        "onboard_time": 1673279248,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86163,
+        "num": 75400,
+        "word": "塞尔达传说或将改编动画电影",
+        "onboard_time": 1673305518,
+        "rank": 30,
+        "category": "游戏,影视"
+      },
+      {
+        "raw_hot": 82346,
+        "num": 75144,
+        "word": "依川川",
+        "onboard_time": 1673276132,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 74879,
+        "num": 74879,
+        "word": "狗狗从城市回老家两天狂炫5锅饭",
+        "onboard_time": 1673274033,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70898,
+        "num": 70898,
+        "word": "第一次压轿的人类幼崽",
+        "onboard_time": 1673280628,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66748,
+        "num": 66748,
+        "word": "奥密克戎毒株致病性明显下降",
+        "onboard_time": 1673260768,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64350,
+        "num": 64350,
+        "word": "洗完澡像换了一只狗狗",
+        "onboard_time": 1673274634,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62403,
+        "num": 62403,
+        "word": "女子10年前买1.8万钻戒如今值180元",
+        "onboard_time": 1673253090,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60643,
+        "num": 60643,
+        "word": "你家12月电费多少钱",
+        "onboard_time": 1673266650,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60623,
+        "num": 60623,
+        "word": "被坐着睡觉的猫咪可爱到了",
+        "onboard_time": 1673277570,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53464,
+        "num": 53464,
+        "word": "人民币升破6.8",
+        "onboard_time": 1673256089,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69959,
+        "num": 53028,
+        "word": "杜华为王一博长空之王打call",
+        "onboard_time": 1673279428,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60985,
+        "num": 52788,
+        "word": "演员李嘉明指责电视收费乱象",
+        "onboard_time": 1673257409,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 52513,
+        "num": 52513,
+        "word": "原来妈妈才是恋爱高手",
+        "onboard_time": 1673276252,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48754,
+        "num": 48754,
+        "word": "地质队是神级全能选手吧",
+        "onboard_time": 1673305518,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47485,
+        "num": 47485,
+        "word": "这好大喜功的地方官用近7亿建公园",
+        "onboard_time": 1673271993,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38076,
+        "num": 38076,
+        "word": "15岁狗去世前不吃饭默默躲进树林",
+        "onboard_time": 1673263349,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33657,
+        "num": 33657,
+        "word": "喜欢哆啦A梦的原因找到了",
+        "onboard_time": 1673279849,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 32614,
+        "num": 32614,
+        "word": "保证公费师范生全部安排到中小学校任教",
+        "onboard_time": 1673264249,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 31328,
+        "num": 31328,
+        "word": "平静海面为何会频繁发生溺亡",
+        "onboard_time": 1673283262,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29929,
+        "num": 29929,
+        "word": "猫咪是怎么忍住不抢的",
+        "onboard_time": 1673280688,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#形成共促高质量发展的合力#"
+    }
+  }
+}
