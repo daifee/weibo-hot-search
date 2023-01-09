@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673289473279,
+  "endTime": 1673291712601,
   "band_list": [
     {
       "raw_hot": 2492828,
@@ -2387,20 +2387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141794,
+      "num": 141794,
+      "word": "太快确定关系真的不会长久吗",
+      "onboard_time": 1673286496,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141263,
       "num": 141263,
       "word": "第一次压轿的人类幼崽",
       "onboard_time": 1673280628,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140464,
-      "num": 140464,
-      "word": "太快确定关系真的不会长久吗",
-      "onboard_time": 1673286496,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 139772,
