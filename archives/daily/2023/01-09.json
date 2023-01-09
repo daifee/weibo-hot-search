@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673277983565,
+  "endTime": 1673278876445,
   "band_list": [
     {
       "raw_hot": 2492828,
@@ -120,6 +120,14 @@
       "word": "李宏毅 倒立洗头",
       "onboard_time": 1673253690,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1299598,
+      "num": 1299598,
+      "word": "苍兰诀 投票",
+      "onboard_time": 1673276851,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -281,14 +289,6 @@
       "onboard_time": 1673255549,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 867679,
-      "num": 867679,
-      "word": "苍兰诀 投票",
-      "onboard_time": 1673276851,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 866136,
@@ -467,6 +467,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 703736,
+      "num": 703736,
+      "word": "女孩博士毕业不社交遭妈妈吐槽",
+      "onboard_time": 1673276371,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700292,
       "num": 700292,
       "word": "小伙帮妈熏腊肉130斤肉烧剩20多斤",
@@ -603,12 +611,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 576334,
-      "num": 374129,
-      "word": "女孩博士毕业不社交遭妈妈吐槽",
-      "onboard_time": 1673276371,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 572062,
+      "num": 413062,
+      "word": "刘美含 圆满炸了",
+      "onboard_time": 1673275832,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 571929,
@@ -689,14 +697,6 @@
       "onboard_time": 1673190697,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 536603,
-      "num": 359488,
-      "word": "刘美含 圆满炸了",
-      "onboard_time": 1673275832,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 533705,
@@ -1027,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 407672,
+      "num": 407672,
+      "word": "原来妈妈才是恋爱高手",
+      "onboard_time": 1673276252,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 398019,
       "num": 398019,
       "word": "你家12月电费多少钱",
@@ -1307,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332423,
+      "num": 332423,
+      "word": "洗完澡像换了一只狗狗",
+      "onboard_time": 1673274634,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 325146,
       "num": 325146,
       "word": "三亚溺水兰州游客家属发声",
@@ -1347,14 +1363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315218,
-      "num": 315218,
-      "word": "洗完澡像换了一只狗狗",
-      "onboard_time": 1673274634,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 314161,
       "num": 174922,
       "word": "2023央视春晚第三次联排",
@@ -1369,14 +1377,6 @@
       "onboard_time": 1673262930,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 311712,
-      "num": 311712,
-      "word": "原来妈妈才是恋爱高手",
-      "onboard_time": 1673276252,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 306663,
@@ -1675,6 +1675,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229339,
+      "num": 229339,
+      "word": "贪官买房让商人出钱自己高价卖出",
+      "onboard_time": 1673275893,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228694,
+      "num": 228694,
+      "word": "奥比岛",
+      "onboard_time": 1673276672,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 226123,
       "num": 226123,
       "word": "这就是110",
@@ -1811,14 +1827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211432,
-      "num": 211432,
-      "word": "奥比岛",
-      "onboard_time": 1673276672,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 209788,
       "num": 209788,
       "word": "核潜艇总设计师张金麟逝世",
@@ -1841,14 +1849,6 @@
       "onboard_time": 1673258431,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 205684,
-      "num": 205684,
-      "word": "贪官买房让商人出钱自己高价卖出",
-      "onboard_time": 1673275893,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202829,
@@ -2219,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149405,
+      "num": 169680,
+      "word": "被坐着睡觉的猫咪可爱到了",
+      "onboard_time": 1673277570,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142696,
       "num": 444768,
       "word": "王冰冰的采访有多暖心",
@@ -2411,6 +2419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112803,
+      "num": 112803,
+      "word": "河南新冠病毒感染率为89.0%",
+      "onboard_time": 1673278529,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112610,
       "num": 112610,
       "word": "Jennie朴彩英演唱会镜头前躲猫猫",
@@ -2467,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105450,
+      "num": 105450,
+      "word": "没毛笔也能练书法",
+      "onboard_time": 1673278228,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104121,
       "num": 104121,
       "word": "明日方舟",
@@ -2489,14 +2513,6 @@
       "onboard_time": 1673246667,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102368,
-      "num": 169680,
-      "word": "被坐着睡觉的猫咪可爱到了",
-      "onboard_time": 1673277570,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 101489,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/09 23:26:23
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/09 23:41:16
 </p>
 </blockquote>
 <p>
@@ -1091,6 +1091,12 @@ YG确认金智秀今年将发行solo专辑（热度：1379525）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD%20%E5%B0%81%E7%A5%9E%23" target="weibo">
 中国奇谭 封神（热度：1329740）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80%20%E6%8A%95%E7%A5%A8%23" target="weibo">
+苍兰诀 投票（热度：1299598）
 </a>
 </li>
 
@@ -2235,12 +2241,6 @@ YG新女团成员正面生图（热度：872101）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80%20%E6%8A%95%E7%A5%A8%23" target="weibo">
-苍兰诀 投票（热度：867679）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8D%87%E7%A0%B46.8%23" target="weibo">
 人民币升破6.8（热度：866136）
 </a>
@@ -3131,6 +3131,12 @@ EXO将春天后完整体回归（热度：735031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%944000%E5%85%83%E6%8B%9B%E5%8B%9F%E6%96%B0%E5%86%A0%E6%82%A3%E8%80%85%23" target="weibo">
 医院回应4000元招募新冠患者（热度：705129）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E4%B8%8D%E7%A4%BE%E4%BA%A4%E9%81%AD%E5%A6%88%E5%A6%88%E5%90%90%E6%A7%BD%23" target="weibo">
+女孩博士毕业不社交遭妈妈吐槽（热度：703736）
 </a>
 </li>
 
@@ -4179,14 +4185,14 @@ SuperM或将加入新成员（热度：587362）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E4%B8%8D%E7%A4%BE%E4%BA%A4%E9%81%AD%E5%A6%88%E5%A6%88%E5%90%90%E6%A7%BD%23" target="weibo">
-女孩博士毕业不社交遭妈妈吐槽（热度：576334）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%86%8D%E7%8E%B0%E4%BD%A0%E5%B1%85%E7%84%B6%E5%AE%B6%E6%9A%B4%E6%88%91%23" target="weibo">
+王鹤棣再现你居然家暴我（热度：574494）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%86%8D%E7%8E%B0%E4%BD%A0%E5%B1%85%E7%84%B6%E5%AE%B6%E6%9A%B4%E6%88%91%23" target="weibo">
-王鹤棣再现你居然家暴我（热度：574494）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%9C%86%E6%BB%A1%E7%82%B8%E4%BA%86%23" target="weibo">
+刘美含 圆满炸了（热度：572062）
 </a>
 </li>
 
@@ -4589,12 +4595,6 @@ SuperM或将加入新成员（热度：587362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A3%B9%E5%BF%83%E5%A8%B1%E4%B9%90%E5%AE%98%E5%AE%A3%E8%99%9A%E6%8B%9F%E4%BA%BA%E5%A4%A9%E5%A6%A4%E5%8A%A0%E5%85%A5%23" target="weibo">
 壹心娱乐官宣虚拟人天妤加入（热度：536859）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BE%8E%E5%90%AB%20%E5%9C%86%E6%BB%A1%E7%82%B8%E4%BA%86%23" target="weibo">
-刘美含 圆满炸了（热度：536603）
 </a>
 </li>
 
