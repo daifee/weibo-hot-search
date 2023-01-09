@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673267784904,
+  "endTime": 1673268874662,
   "band_list": [
     {
       "raw_hot": 2299492,
@@ -81,6 +81,14 @@
       "onboard_time": 1673232685,
       "rank": 1,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 1391437,
+      "num": 1391437,
+      "word": "4游客在三亚溺水3人死亡1人失联",
+      "onboard_time": 1673266291,
+      "rank": 5,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1379723,
@@ -211,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 901954,
+      "num": 858846,
+      "word": "严浩翔报名了第一届全国道家法师法术考试",
+      "onboard_time": 1673264129,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 891604,
       "num": 448363,
       "word": "BLACKPINK演唱会官宣中国高雄澳门场",
@@ -249,14 +265,6 @@
       "onboard_time": 1673234850,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 858846,
-      "num": 858846,
-      "word": "严浩翔报名了第一届全国道家法师法术考试",
-      "onboard_time": 1673264129,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 854525,
@@ -347,14 +355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 764507,
-      "num": 764507,
-      "word": "4游客在三亚溺水3人死亡1人失联",
-      "onboard_time": 1673266291,
-      "rank": 5,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 755071,
       "num": 755071,
       "word": "有一家五口至今没中招",
@@ -417,6 +417,14 @@
       "onboard_time": 1673221764,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691747,
+      "num": 691747,
+      "word": "这不得把老丈人迷死",
+      "onboard_time": 1673262268,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 680129,
@@ -499,14 +507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 577655,
-      "num": 577655,
-      "word": "这不得把老丈人迷死",
-      "onboard_time": 1673262268,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 571929,
       "num": 571929,
       "word": "命韵峋环登顶2022国产剧年度cp",
@@ -569,6 +569,14 @@
       "onboard_time": 1673246368,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 547075,
+      "num": 547075,
+      "word": "保证公费师范生全部安排到中小学校任教",
+      "onboard_time": 1673264249,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 546992,
@@ -787,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 436528,
-      "num": 436528,
-      "word": "保证公费师范生全部安排到中小学校任教",
-      "onboard_time": 1673264249,
-      "rank": 11,
-      "category": "教育"
-    },
-    {
       "raw_hot": 432237,
       "num": 432237,
       "word": "鞠婧祎花棉袄造型",
@@ -1003,6 +1003,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 357153,
+      "num": 357153,
+      "word": "少年歌行",
+      "onboard_time": 1673267551,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355791,
       "num": 214332,
       "word": "景甜冯绍峰灼灼风流杀青路透",
@@ -1067,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337377,
+      "num": 337377,
+      "word": "步音楼拒绝肖铎的喜欢",
+      "onboard_time": 1673268268,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336773,
       "num": 326219,
       "word": "泰副总理将赴机场迎接首批中国游客",
@@ -1099,18 +1115,26 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317233,
-      "num": 317233,
-      "word": "辉瑞Paxlovid医保谈判基本未降价",
-      "onboard_time": 1673253572,
+      "raw_hot": 322397,
+      "num": 322397,
+      "word": "你家12月电费多少钱",
+      "onboard_time": 1673266650,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 321309,
+      "num": 321309,
+      "word": "小伙花280元从上海坐公交到北京",
+      "onboard_time": 1673264011,
       "rank": 18,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315417,
-      "num": 315417,
-      "word": "小伙花280元从上海坐公交到北京",
-      "onboard_time": 1673264011,
+      "raw_hot": 317233,
+      "num": 317233,
+      "word": "辉瑞Paxlovid医保谈判基本未降价",
+      "onboard_time": 1673253572,
       "rank": 18,
       "category": "社会新闻"
     },
@@ -1163,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297694,
+      "num": 176285,
+      "word": "程霄说任何后果我愿意承担",
+      "onboard_time": 1673268090,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295281,
       "num": 295281,
       "word": "Doinb 拒绝做细狗",
@@ -1177,14 +1209,6 @@
       "onboard_time": 1673224351,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 294741,
-      "num": 260740,
-      "word": "少年歌行",
-      "onboard_time": 1673267551,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 294001,
@@ -1291,6 +1315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 263477,
+      "num": 163520,
+      "word": "王铮亮现身2023央视春晚第三次大联排",
+      "onboard_time": 1673268687,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261396,
       "num": 261396,
       "word": "斗鱼获得LPL直播版权",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1673188896,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252846,
+      "num": 252846,
+      "word": "网红假装在国外",
+      "onboard_time": 1673266889,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 252185,
@@ -1595,14 +1635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188877,
-      "num": 188877,
-      "word": "你家12月电费多少钱",
-      "onboard_time": 1673266650,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187753,
       "num": 187753,
       "word": "00后创业成为年货策划师",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1673255430,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178316,
+      "num": 178316,
+      "word": "我能胜任的工作岗位",
+      "onboard_time": 1673264967,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 175708,
@@ -1705,14 +1745,6 @@
       "onboard_time": 1673244087,
       "rank": 29,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 167664,
-      "num": 167664,
-      "word": "我能胜任的工作岗位",
-      "onboard_time": 1673264967,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 165986,
@@ -1945,14 +1977,6 @@
       "onboard_time": 1673186613,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 131195,
-      "num": 131195,
-      "word": "网红假装在国外",
-      "onboard_time": 1673266889,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 129831,
@@ -2227,11 +2251,27 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 93267,
+      "num": 93267,
+      "word": "猫咪差点就有了新家",
+      "onboard_time": 1673267910,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88969,
       "num": 88969,
       "word": "张文宏称疫情将过渡到地方性流行阶段",
       "onboard_time": 1673171850,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88533,
+      "num": 88533,
+      "word": "贪官为否认收金条自己导演一出戏",
+      "onboard_time": 1673268813,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
