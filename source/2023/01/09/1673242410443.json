@@ -1,0 +1,410 @@
+{
+  "runTime": 1673242410443,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1550494,
+        "num": 1550494,
+        "word": "奶奶不舒服10分钟10位亲人赶来",
+        "onboard_time": 1673232147,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1396203,
+        "num": 1396203,
+        "word": "春晚",
+        "onboard_time": 1673237671,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565711,
+        "num": 1315349,
+        "word": "XBB会不会成为我国主要流行株",
+        "onboard_time": 1673234850,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1243326,
+        "num": 1243326,
+        "word": "年会抽奖抽到了脏东西",
+        "onboard_time": 1673240309,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 960728,
+        "num": 960728,
+        "word": "赵丽颖换上了深海糖豆儿的头像",
+        "onboard_time": 1673237127,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 860369,
+        "num": 860369,
+        "word": "薛凯琪想了一年的梗被佘诗曼破了",
+        "onboard_time": 1673236768,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 688112,
+        "num": 688112,
+        "word": "两个县级一把手互相关照对方弟弟",
+        "onboard_time": 1673231247,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632926,
+        "num": 632926,
+        "word": "未成年寒假仅14小时游戏时间",
+        "onboard_time": 1673232685,
+        "rank": 7,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 533670,
+        "num": 533670,
+        "word": "突然觉得这工作好适合我",
+        "onboard_time": 1673236590,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 474325,
+        "num": 474325,
+        "word": "韩国飞中国机票一票难求",
+        "onboard_time": 1673220742,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 922231,
+        "num": 451743,
+        "word": "惠英红 水兵",
+        "onboard_time": 1673240968,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 793614,
+        "num": 448363,
+        "word": "BLACKPINK演唱会官宣中国高雄澳门场",
+        "onboard_time": 1673239232,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 632330,
+        "num": 418650,
+        "word": "商场回应爱马仕开业请道士做法",
+        "onboard_time": 1673240849,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612781,
+        "num": 398901,
+        "word": "胡歌古装",
+        "onboard_time": 1673241629,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374445,
+        "num": 374445,
+        "word": "河南新冠病毒感染率近九成",
+        "onboard_time": 1673232325,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344154,
+        "num": 344154,
+        "word": "1岁娃吃松子摔倒卡进气管脸憋紫",
+        "onboard_time": 1673235627,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333700,
+        "num": 333700,
+        "word": "LOL龙王重做",
+        "onboard_time": 1673238571,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290543,
+        "num": 290543,
+        "word": "异地恋5年奔现被男友拉黑",
+        "onboard_time": 1673234007,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284471,
+        "num": 284471,
+        "word": "母亲离世患病女大学生独自照顾病父10年",
+        "onboard_time": 1673238510,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276725,
+        "num": 276725,
+        "word": "巴西国会已被夺回约400人被捕",
+        "onboard_time": 1673234007,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 445288,
+        "num": 273024,
+        "word": "扬州通报网传领导干部生活作风问题",
+        "onboard_time": 1673233288,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412468,
+        "num": 272546,
+        "word": "李现刘亦菲新剧掀大理旅游热",
+        "onboard_time": 1673232749,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335459,
+        "num": 265415,
+        "word": "王一博长空之王战损镜头",
+        "onboard_time": 1673241990,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310651,
+        "num": 264226,
+        "word": "河南春晚官宣阵容",
+        "onboard_time": 1673238451,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260455,
+        "num": 260455,
+        "word": "超8成年轻人回家只想带自己",
+        "onboard_time": 1673240731,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 301000,
+        "num": 250772,
+        "word": "黄欣苑说和Lisa互动的不是她",
+        "onboard_time": 1673231549,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237063,
+        "num": 237063,
+        "word": "辉瑞新冠药为何不愿意放低姿态",
+        "onboard_time": 1673222726,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236371,
+        "num": 236371,
+        "word": "浙江武义天空出现超大鱼形云朵",
+        "onboard_time": 1673238809,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227397,
+        "num": 227397,
+        "word": "乙类乙管为何不提前到夏天",
+        "onboard_time": 1673227825,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213061,
+        "num": 213061,
+        "word": "多家快递公司春节高薪留人",
+        "onboard_time": 1673228846,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284440,
+        "num": 208609,
+        "word": "迪丽热巴龚俊安乐传集数变更",
+        "onboard_time": 1673234007,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249646,
+        "num": 207029,
+        "word": "日本版单身即地狱男嘉宾颜值",
+        "onboard_time": 1673234608,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246116,
+        "num": 206905,
+        "word": "命韵峋环登顶2022国产剧年度cp",
+        "onboard_time": 1673237487,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203410,
+        "num": 203410,
+        "word": "6旬父亲摔倒睡觉儿子飞奔护住头",
+        "onboard_time": 1673239950,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201266,
+        "num": 202323,
+        "word": "33岁男子酗酒20年骨头坏死",
+        "onboard_time": 1673234486,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201719,
+        "num": 201719,
+        "word": "九尾超话破百万粉丝派对",
+        "onboard_time": 1673238691,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194517,
+        "num": 194517,
+        "word": "女孩遇到面部有同款胎记的猫咪",
+        "onboard_time": 1673241389,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180775,
+        "num": 180775,
+        "word": "广东省考",
+        "onboard_time": 1673236290,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153851,
+        "num": 180544,
+        "word": "有一家五口至今没中招",
+        "onboard_time": 1673241868,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147410,
+        "num": 180484,
+        "word": "为什么临期产品开始吸引年轻人",
+        "onboard_time": 1673221764,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241641,
+        "num": 180066,
+        "word": "许红豆醉酒抱谢之遥",
+        "onboard_time": 1673232027,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223823,
+        "num": 179882,
+        "word": "景甜冯绍峰灼灼风流杀青路透",
+        "onboard_time": 1673238329,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222824,
+        "num": 179780,
+        "word": "顾南亭程霄今晚沙发吻",
+        "onboard_time": 1673232685,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134907,
+        "num": 179510,
+        "word": "贪官受贿近3亿无视督导组整改意见",
+        "onboard_time": 1673217135,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112104,
+        "num": 179265,
+        "word": "女子6年跟丈夫结3次离2次婚",
+        "onboard_time": 1673230527,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111413,
+        "num": 179032,
+        "word": "狗狗被鞭炮吓到缩角落萌娃帮捂耳朵",
+        "onboard_time": 1673227406,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95253,
+        "num": 178791,
+        "word": "河南已顺利渡过疫情高峰",
+        "onboard_time": 1673233826,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93894,
+        "num": 178549,
+        "word": "女子晒6本结婚证4本离婚证",
+        "onboard_time": 1673188715,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93578,
+        "num": 178244,
+        "word": "日出时梅里雪山身披金光太震撼",
+        "onboard_time": 1673242229,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 92867,
+        "num": 177919,
+        "word": "瓜迪奥拉花式吹梅西",
+        "onboard_time": 1673230765,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国活力#"
+    }
+  }
+}
