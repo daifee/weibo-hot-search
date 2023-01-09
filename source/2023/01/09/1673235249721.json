@@ -1,0 +1,410 @@
+{
+  "runTime": 1673235249721,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2029447,
+        "num": 2029447,
+        "word": "奶奶不舒服10分钟10位亲人赶来",
+        "onboard_time": 1673232147,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1492158,
+        "num": 1492158,
+        "word": "未成年寒假仅14小时游戏时间",
+        "onboard_time": 1673232685,
+        "rank": 1,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 115597,
+        "num": 994364,
+        "word": "XBB会不会成为我国主要流行株",
+        "onboard_time": 1673234850,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869302,
+        "num": 869302,
+        "word": "韩国飞中国机票一票难求",
+        "onboard_time": 1673220742,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 826089,
+        "num": 826089,
+        "word": "迪丽热巴龚俊安乐传集数变更",
+        "onboard_time": 1673234007,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 825607,
+        "num": 825607,
+        "word": "黄欣苑说和Lisa互动的不是她",
+        "onboard_time": 1673231549,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 818457,
+        "num": 818457,
+        "word": "河南新冠病毒感染率近九成",
+        "onboard_time": 1673232325,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795614,
+        "num": 795614,
+        "word": "两个县级一把手互相关照对方弟弟",
+        "onboard_time": 1673231247,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533558,
+        "num": 533558,
+        "word": "李现刘亦菲新剧掀大理旅游热",
+        "onboard_time": 1673232749,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532972,
+        "num": 532972,
+        "word": "乙类乙管后曾违反疫情规定被判刑的人怎么办",
+        "onboard_time": 1673227225,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515543,
+        "num": 515543,
+        "word": "王一博已有两部电影官宣定档",
+        "onboard_time": 1673232866,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 507510,
+        "num": 507510,
+        "word": "扬州通报网传领导干部生活作风问题",
+        "onboard_time": 1673233288,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507089,
+        "num": 507089,
+        "word": "许红豆醉酒抱谢之遥",
+        "onboard_time": 1673232027,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 473938,
+        "num": 473938,
+        "word": "张凌赫参加江苏卫视春晚录制",
+        "onboard_time": 1673233165,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371938,
+        "num": 371938,
+        "word": "多家快递公司春节高薪留人",
+        "onboard_time": 1673228846,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363783,
+        "num": 363783,
+        "word": "贪官收下一箱水果打开是一百万现金",
+        "onboard_time": 1673186853,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353676,
+        "num": 353676,
+        "word": "异地恋5年奔现被男友拉黑",
+        "onboard_time": 1673234007,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348358,
+        "num": 348358,
+        "word": "辉瑞新冠药为何不愿意放低姿态",
+        "onboard_time": 1673222726,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283120,
+        "num": 283120,
+        "word": "孕妇鞋带散开没法弯腰乘务员蹲下帮忙",
+        "onboard_time": 1673227105,
+        "rank": 18,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 247575,
+        "num": 247575,
+        "word": "狗狗被鞭炮吓到缩角落萌娃帮捂耳朵",
+        "onboard_time": 1673227406,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433458,
+        "num": 246833,
+        "word": "顾南亭程霄今晚沙发吻",
+        "onboard_time": 1673232685,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 424087,
+        "num": 246154,
+        "word": "邓超说中国乒乓演员练球卷得厉害",
+        "onboard_time": 1673234548,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383795,
+        "num": 246081,
+        "word": "杨紫现身央视春晚第三次大联排路透",
+        "onboard_time": 1673230706,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245440,
+        "num": 245440,
+        "word": "乙类乙管为何不提前到夏天",
+        "onboard_time": 1673227825,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234838,
+        "num": 234838,
+        "word": "河南已顺利渡过疫情高峰",
+        "onboard_time": 1673233826,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225911,
+        "num": 225911,
+        "word": "贪官受贿近3亿无视督导组整改意见",
+        "onboard_time": 1673217135,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215849,
+        "num": 215849,
+        "word": "为什么临期产品开始吸引年轻人",
+        "onboard_time": 1673221764,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209473,
+        "num": 209473,
+        "word": "女子晒6本结婚证4本离婚证",
+        "onboard_time": 1673188715,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207700,
+        "num": 207700,
+        "word": "女子6年跟丈夫结3次离2次婚",
+        "onboard_time": 1673230527,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197179,
+        "num": 197179,
+        "word": "33岁男子酗酒20年骨头坏死",
+        "onboard_time": 1673234486,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335320,
+        "num": 196475,
+        "word": "日本版单身即地狱男嘉宾颜值",
+        "onboard_time": 1673234608,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266833,
+        "num": 194915,
+        "word": "许光汉 请别",
+        "onboard_time": 1673230227,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234956,
+        "num": 194245,
+        "word": "刘诗诗黑裙光影大片",
+        "onboard_time": 1673234127,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204502,
+        "num": 193522,
+        "word": "王子异综艺截图",
+        "onboard_time": 1673221885,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192638,
+        "num": 192638,
+        "word": "巴西国会已被夺回约400人被捕",
+        "onboard_time": 1673234007,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 199948,
+        "num": 184321,
+        "word": "陈钰琪回应被叫楼姐",
+        "onboard_time": 1673227166,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174572,
+        "num": 174572,
+        "word": "瓜迪奥拉花式吹梅西",
+        "onboard_time": 1673230765,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173120,
+        "num": 173120,
+        "word": "黑猫警长2023特别篇",
+        "onboard_time": 1673234247,
+        "rank": 37,
+        "category": "动漫,社会新闻"
+      },
+      {
+        "raw_hot": 172835,
+        "num": 172835,
+        "word": "杭州西湖出现萌兔福气船",
+        "onboard_time": 1673234850,
+        "rank": 38,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 154712,
+        "num": 165333,
+        "word": "网友实现一户一万能卡",
+        "onboard_time": 1673233227,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181569,
+        "num": 164645,
+        "word": "肖铎歪头梦回东方青苍",
+        "onboard_time": 1673234966,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163666,
+        "num": 163666,
+        "word": "这就是110",
+        "onboard_time": 1673229027,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18644,
+        "num": 161281,
+        "word": "多渠道增加受疫情影响较大群体的收入",
+        "onboard_time": 1673166209,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 159039,
+        "num": 159039,
+        "word": "人民网评胡鑫宇失踪调查进展",
+        "onboard_time": 1673195605,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143275,
+        "num": 143275,
+        "word": "巴黎vs利雅得友谊赛门票售罄",
+        "onboard_time": 1673226087,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139528,
+        "num": 139528,
+        "word": "恢复期这9件事一定要注意",
+        "onboard_time": 1673229266,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136072,
+        "num": 136072,
+        "word": "杜兰特右膝受伤",
+        "onboard_time": 1673228126,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123357,
+        "num": 123357,
+        "word": "辉瑞新冠口服药为何灵魂砍价失败",
+        "onboard_time": 1673222066,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117524,
+        "num": 117524,
+        "word": "奥尼尔准绝杀热火",
+        "onboard_time": 1673229623,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112345,
+        "num": 112345,
+        "word": "男子养2年多狗借同学配种反被卖",
+        "onboard_time": 1673199797,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第十版新冠病毒感染防控方案有何调整#"
+    }
+  }
+}

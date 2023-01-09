@@ -1,10 +1,10 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673234389589,
+  "endTime": 1673235249721,
   "band_list": [
     {
-      "raw_hot": 1980961,
-      "num": 1980961,
+      "raw_hot": 2029447,
+      "num": 2029447,
       "word": "奶奶不舒服10分钟10位亲人赶来",
       "onboard_time": 1673232147,
       "rank": 21,
@@ -19,20 +19,20 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1492158,
+      "num": 1492158,
+      "word": "未成年寒假仅14小时游戏时间",
+      "onboard_time": 1673232685,
+      "rank": 1,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 1255901,
       "num": 1255901,
       "word": "女子晒6本结婚证4本离婚证",
       "onboard_time": 1673188715,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1252155,
-      "num": 1252155,
-      "word": "未成年寒假仅14小时游戏时间",
-      "onboard_time": 1673232685,
-      "rank": 1,
-      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 1044524,
@@ -67,12 +67,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 826089,
+      "num": 826089,
+      "word": "迪丽热巴龚俊安乐传集数变更",
+      "onboard_time": 1673234007,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 818516,
       "num": 818516,
       "word": "河北4000万补贴乳企确保不发生倒奶事件",
       "onboard_time": 1673226927,
       "rank": 10,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 818457,
+      "num": 818457,
+      "word": "河南新冠病毒感染率近九成",
+      "onboard_time": 1673232325,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 816273,
@@ -91,11 +107,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 745833,
-      "num": 745833,
-      "word": "河南新冠病毒感染率近九成",
-      "onboard_time": 1673232325,
-      "rank": 31,
+      "raw_hot": 795614,
+      "num": 795614,
+      "word": "两个县级一把手互相关照对方弟弟",
+      "onboard_time": 1673231247,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -121,14 +137,6 @@
       "onboard_time": 1673190937,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 675189,
-      "num": 675189,
-      "word": "两个县级一把手互相关照对方弟弟",
-      "onboard_time": 1673231247,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 665989,
@@ -219,8 +227,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 527724,
-      "num": 505645,
+      "raw_hot": 533558,
+      "num": 533558,
       "word": "李现刘亦菲新剧掀大理旅游热",
       "onboard_time": 1673232749,
       "rank": 11,
@@ -235,12 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 515355,
-      "num": 515355,
-      "word": "迪丽热巴龚俊安乐传集数变更",
-      "onboard_time": 1673234007,
-      "rank": 10,
-      "category": "影视"
+      "raw_hot": 507510,
+      "num": 507510,
+      "word": "扬州通报网传领导干部生活作风问题",
+      "onboard_time": 1673233288,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 500703,
@@ -299,12 +307,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 420693,
-      "num": 420693,
-      "word": "扬州通报网传领导干部生活作风问题",
-      "onboard_time": 1673233288,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 424087,
+      "num": 246154,
+      "word": "邓超说中国乒乓演员练球卷得厉害",
+      "onboard_time": 1673234548,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 418860,
@@ -371,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 353676,
+      "num": 353676,
+      "word": "异地恋5年奔现被男友拉黑",
+      "onboard_time": 1673234007,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348261,
       "num": 348261,
       "word": "杜兰特右膝受伤",
@@ -401,6 +417,14 @@
       "onboard_time": 1673193451,
       "rank": 30,
       "category": "国外要闻,旅游"
+    },
+    {
+      "raw_hot": 335320,
+      "num": 196475,
+      "word": "日本版单身即地狱男嘉宾颜值",
+      "onboard_time": 1673234608,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 306663,
@@ -483,6 +507,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 234838,
+      "num": 234838,
+      "word": "河南已顺利渡过疫情高峰",
+      "onboard_time": 1673233826,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226123,
       "num": 226123,
       "word": "这就是110",
@@ -555,12 +587,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197179,
+      "num": 197179,
+      "word": "33岁男子酗酒20年骨头坏死",
+      "onboard_time": 1673234486,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193408,
       "num": 193408,
       "word": "曼城4比0切尔西",
       "onboard_time": 1673219718,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192638,
+      "num": 192638,
+      "word": "巴西国会已被夺回约400人被捕",
+      "onboard_time": 1673234007,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 191095,
@@ -579,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181569,
+      "num": 164645,
+      "word": "肖铎歪头梦回东方青苍",
+      "onboard_time": 1673234966,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175708,
       "num": 175708,
       "word": "声音共和",
@@ -593,6 +649,30 @@
       "onboard_time": 1673184154,
       "rank": 19,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 174572,
+      "num": 174572,
+      "word": "瓜迪奥拉花式吹梅西",
+      "onboard_time": 1673230765,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 173120,
+      "num": 173120,
+      "word": "黑猫警长2023特别篇",
+      "onboard_time": 1673234247,
+      "rank": 45,
+      "category": "动漫,社会新闻"
+    },
+    {
+      "raw_hot": 172835,
+      "num": 172835,
+      "word": "杭州西湖出现萌兔福气船",
+      "onboard_time": 1673234850,
+      "rank": 38,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 169479,
@@ -619,14 +699,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 162723,
-      "num": 162723,
-      "word": "瓜迪奥拉花式吹梅西",
-      "onboard_time": 1673230765,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162089,
       "num": 162089,
       "word": "奥尼尔准绝杀热火",
@@ -641,14 +713,6 @@
       "onboard_time": 1673204354,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159356,
-      "num": 159356,
-      "word": "河南已顺利渡过疫情高峰",
-      "onboard_time": 1673233826,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158495,
@@ -673,6 +737,14 @@
       "onboard_time": 1673219838,
       "rank": 23,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 154712,
+      "num": 165333,
+      "word": "网友实现一户一万能卡",
+      "onboard_time": 1673233227,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151689,
@@ -713,14 +785,6 @@
       "onboard_time": 1673226386,
       "rank": 37,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 138770,
-      "num": 138770,
-      "word": "异地恋5年奔现被男友拉黑",
-      "onboard_time": 1673234007,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136874,
@@ -771,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127121,
-      "num": 138984,
-      "word": "网友实现一户一万能卡",
-      "onboard_time": 1673233227,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125695,
       "num": 125695,
       "word": "一直不谈恋爱会等到更好的人吗",
@@ -787,28 +843,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124428,
-      "num": 124428,
-      "word": "黑猫警长2023特别篇",
-      "onboard_time": 1673234247,
-      "rank": 45,
-      "category": "动漫,社会新闻"
-    },
-    {
       "raw_hot": 121096,
       "num": 96156,
       "word": "薛之谦 准备听新歌了哦",
       "onboard_time": 1673196502,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 120319,
-      "num": 120319,
-      "word": "巴西国会已被夺回约400人被捕",
-      "onboard_time": 1673234007,
-      "rank": 46,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 119332,
@@ -833,6 +873,14 @@
       "onboard_time": 1673177250,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 115597,
+      "num": 994364,
+      "word": "XBB会不会成为我国主要流行株",
+      "onboard_time": 1673234850,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114309,
@@ -1049,6 +1097,9 @@
     },
     {
       "word": "#开局之年看中国#"
+    },
+    {
+      "word": "#第十版新冠病毒感染防控方案有何调整#"
     }
   ]
 }
