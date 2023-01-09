@@ -1,0 +1,410 @@
+{
+  "runTime": 1673271449919,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1138735,
+        "num": 1138735,
+        "word": "1家8口到三亚过年嫌房租贵直接买房",
+        "onboard_time": 1673257830,
+        "rank": 0,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1920190,
+        "num": 1108072,
+        "word": "4游客在三亚溺水3人死亡1人失联",
+        "onboard_time": 1673266291,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 53976,
+        "num": 905058,
+        "word": "当前疫情最新热点十问十答",
+        "onboard_time": 1673251830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849724,
+        "num": 849724,
+        "word": "苹果耳机盒子不要丢",
+        "onboard_time": 1673264609,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 792854,
+        "num": 792854,
+        "word": "择君记定档0111",
+        "onboard_time": 1673269530,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 838977,
+        "num": 774532,
+        "word": "网红假装在国外",
+        "onboard_time": 1673266889,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 703668,
+        "num": 703668,
+        "word": "演员李嘉明指责电视收费乱象",
+        "onboard_time": 1673257409,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 558336,
+        "num": 558336,
+        "word": "女子10年前买1.8万钻戒如今值180元",
+        "onboard_time": 1673253090,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482317,
+        "num": 482317,
+        "word": "许红豆谢之遥共同点是未婚",
+        "onboard_time": 1673269890,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412727,
+        "num": 412727,
+        "word": "这不得把老丈人迷死",
+        "onboard_time": 1673262268,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 597815,
+        "num": 408661,
+        "word": "虞书欣双马尾蝴蝶结造型",
+        "onboard_time": 1673270372,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 523897,
+        "num": 404123,
+        "word": "家属回应一家四口三亚溺水3死1失联",
+        "onboard_time": 1673269530,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479195,
+        "num": 403331,
+        "word": "严浩翔报名了第一届全国道家法师法术考试",
+        "onboard_time": 1673264129,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461555,
+        "num": 395947,
+        "word": "谢之遥没提挽留但处处在挽留",
+        "onboard_time": 1673270190,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413666,
+        "num": 391179,
+        "word": "茅台董事长称买不起茅台还吃不起冰淇淋吗",
+        "onboard_time": 1673270669,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391010,
+        "num": 391010,
+        "word": "你家12月电费多少钱",
+        "onboard_time": 1673266650,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 371492,
+        "num": 371492,
+        "word": "保证公费师范生全部安排到中小学校任教",
+        "onboard_time": 1673264249,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 366764,
+        "num": 366764,
+        "word": "奥密克戎毒株致病性明显下降",
+        "onboard_time": 1673260768,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300103,
+        "num": 300103,
+        "word": "1亿元阿兹夫定捐给中西部农村",
+        "onboard_time": 1673269950,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273380,
+        "num": 273380,
+        "word": "贪官为否认收金条自己导演一出戏",
+        "onboard_time": 1673268813,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429559,
+        "num": 272333,
+        "word": "乐华公布王一博名誉维权案进展",
+        "onboard_time": 1673270911,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381797,
+        "num": 271259,
+        "word": "浮图缘彤云想替步音楼侍寝",
+        "onboard_time": 1673270309,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262849,
+        "num": 262849,
+        "word": "小伙花280元从上海坐公交到北京",
+        "onboard_time": 1673264011,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341540,
+        "num": 259001,
+        "word": "步音楼拒绝肖铎的喜欢",
+        "onboard_time": 1673268268,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237695,
+        "num": 237695,
+        "word": "泰国副总理赴机场迎接中国游客",
+        "onboard_time": 1673258848,
+        "rank": 24,
+        "category": "国外要闻,旅游"
+      },
+      {
+        "raw_hot": 227701,
+        "num": 227701,
+        "word": "15岁狗去世前不吃饭默默躲进树林",
+        "onboard_time": 1673263349,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219290,
+        "num": 219290,
+        "word": "一句你不敢发在朋友圈的话",
+        "onboard_time": 1673259267,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199827,
+        "num": 199827,
+        "word": "丈夫摸孕妻胎动遭狗狗无情驱赶",
+        "onboard_time": 1673250390,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196732,
+        "num": 196732,
+        "word": "猫咪差点就有了新家",
+        "onboard_time": 1673267910,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189568,
+        "num": 189568,
+        "word": "马丁内斯执教葡萄牙队",
+        "onboard_time": 1673269231,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 734748,
+        "num": 189190,
+        "word": "赵立坚已任边界与海洋事务司副司长",
+        "onboard_time": 1673261188,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 316400,
+        "num": 188476,
+        "word": "春晚",
+        "onboard_time": 1673237671,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311922,
+        "num": 188141,
+        "word": "刘诗诗刘宇宁7秒吻戏",
+        "onboard_time": 1673250448,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287572,
+        "num": 187492,
+        "word": "王铮亮现身2023央视春晚第三次大联排",
+        "onboard_time": 1673268687,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268165,
+        "num": 186884,
+        "word": "蔡依林演唱会造型",
+        "onboard_time": 1673270669,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266723,
+        "num": 186615,
+        "word": "刘耀文拿着斧子跳舞",
+        "onboard_time": 1673270611,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186137,
+        "num": 186137,
+        "word": "人民币升破6.8",
+        "onboard_time": 1673256089,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174974,
+        "num": 174974,
+        "word": "小伙帮妈熏腊肉130斤肉烧剩20多斤",
+        "onboard_time": 1673252788,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174912,
+        "num": 174912,
+        "word": "斗鱼获得LPL直播版权",
+        "onboard_time": 1673265870,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171811,
+        "num": 171811,
+        "word": "马龙 比分",
+        "onboard_time": 1673265028,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261379,
+        "num": 170277,
+        "word": "李宏毅 倒立洗头",
+        "onboard_time": 1673253690,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167753,
+        "num": 167753,
+        "word": "欠北方的雪可能要还了",
+        "onboard_time": 1673270492,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156457,
+        "num": 167751,
+        "word": "20岁女孩感染新冠3天后几近失明",
+        "onboard_time": 1673270972,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108986,
+        "num": 167738,
+        "word": "小偷砸车窗偷2千现金扔20万包",
+        "onboard_time": 1673251347,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106072,
+        "num": 167712,
+        "word": "我能胜任的工作岗位",
+        "onboard_time": 1673264967,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101378,
+        "num": 167705,
+        "word": "我国部分地区将遭遇剧烈降温",
+        "onboard_time": 1673251649,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96081,
+        "num": 167687,
+        "word": "也玩点年轻人的东西",
+        "onboard_time": 1673270731,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92398,
+        "num": 167670,
+        "word": "头像真的会影响第一印象吗",
+        "onboard_time": 1673255549,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83081,
+        "num": 167651,
+        "word": "樊振东王楚钦4比0冯耀恩郭勇",
+        "onboard_time": 1673262930,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79904,
+        "num": 167637,
+        "word": "智能电视充多个会员一年花近千元",
+        "onboard_time": 1673270249,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第十版新冠病毒感染防控方案有何调整#"
+    }
+  }
+}
