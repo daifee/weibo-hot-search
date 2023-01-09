@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673295668514,
+  "endTime": 1673296481069,
   "band_list": [
     {
       "raw_hot": 2492828,
@@ -2905,6 +2905,14 @@
       "onboard_time": 1673166209,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 24774,
+      "num": 24774,
+      "word": "刘雨昕加盟河南春晚",
+      "onboard_time": 1673295792,
+      "rank": 24,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
