@@ -1,7 +1,15 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673232656277,
+  "endTime": 1673234389589,
   "band_list": [
+    {
+      "raw_hot": 1980961,
+      "num": 1980961,
+      "word": "奶奶不舒服10分钟10位亲人赶来",
+      "onboard_time": 1673232147,
+      "rank": 21,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1920319,
       "num": 1920319,
@@ -17,6 +25,14 @@
       "onboard_time": 1673188715,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1252155,
+      "num": 1252155,
+      "word": "未成年寒假仅14小时游戏时间",
+      "onboard_time": 1673232685,
+      "rank": 1,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 1044524,
@@ -75,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 745833,
+      "num": 745833,
+      "word": "河南新冠病毒感染率近九成",
+      "onboard_time": 1673232325,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 721063,
       "num": 721063,
       "word": "孕妇鞋带散开没法弯腰乘务员蹲下帮忙",
@@ -97,6 +121,22 @@
       "onboard_time": 1673190937,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 675189,
+      "num": 675189,
+      "word": "两个县级一把手互相关照对方弟弟",
+      "onboard_time": 1673231247,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 665989,
+      "num": 665989,
+      "word": "王一博已有两部电影官宣定档",
+      "onboard_time": 1673232866,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 642360,
@@ -129,6 +169,14 @@
       "onboard_time": 1673195605,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569606,
+      "num": 569606,
+      "word": "许红豆醉酒抱谢之遥",
+      "onboard_time": 1673232027,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 566712,
@@ -171,12 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527724,
+      "num": 505645,
+      "word": "李现刘亦菲新剧掀大理旅游热",
+      "onboard_time": 1673232749,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 518345,
       "num": 518345,
       "word": "姑娘坐火车来京见男友却被拉黑哭着求助民警",
       "onboard_time": 1673185653,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515355,
+      "num": 515355,
+      "word": "迪丽热巴龚俊安乐传集数变更",
+      "onboard_time": 1673234007,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 500703,
@@ -193,6 +257,22 @@
       "onboard_time": 1673192792,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490278,
+      "num": 490278,
+      "word": "张凌赫参加江苏卫视春晚录制",
+      "onboard_time": 1673233165,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 450461,
+      "num": 262185,
+      "word": "顾南亭程霄今晚沙发吻",
+      "onboard_time": 1673232685,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 449389,
@@ -219,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 420693,
+      "num": 420693,
+      "word": "扬州通报网传领导干部生活作风问题",
+      "onboard_time": 1673233288,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418860,
       "num": 418860,
       "word": "狗狗被鞭炮吓到缩角落萌娃帮捂耳朵",
@@ -243,28 +331,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 400396,
-      "num": 387407,
-      "word": "两个县级一把手互相关照对方弟弟",
-      "onboard_time": 1673231247,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 388553,
       "num": 388553,
       "word": "乙类乙管为何不提前到夏天",
       "onboard_time": 1673227825,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 385662,
-      "num": 385662,
-      "word": "许红豆醉酒抱谢之遥",
-      "onboard_time": 1673232027,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 383906,
@@ -337,6 +409,14 @@
       "onboard_time": 1673229027,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 305891,
+      "num": 262156,
+      "word": "刘诗诗黑裙光影大片",
+      "onboard_time": 1673234127,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 300337,
@@ -427,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223562,
-      "num": 223562,
-      "word": "奶奶不舒服10分钟10位亲人赶来",
-      "onboard_time": 1673232147,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221019,
       "num": 221019,
       "word": "巴黎vs利雅得友谊赛门票售罄",
@@ -499,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188420,
-      "num": 174743,
-      "word": "河南新冠病毒感染率近九成",
-      "onboard_time": 1673232325,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187469,
       "num": 187469,
       "word": "女子买200万豪车亲友400箱礼花庆贺",
@@ -555,6 +619,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 162723,
+      "num": 162723,
+      "word": "瓜迪奥拉花式吹梅西",
+      "onboard_time": 1673230765,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162089,
       "num": 162089,
       "word": "奥尼尔准绝杀热火",
@@ -569,6 +641,14 @@
       "onboard_time": 1673204354,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159356,
+      "num": 159356,
+      "word": "河南已顺利渡过疫情高峰",
+      "onboard_time": 1673233826,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158495,
@@ -635,6 +715,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 138770,
+      "num": 138770,
+      "word": "异地恋5年奔现被男友拉黑",
+      "onboard_time": 1673234007,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136874,
       "num": 136874,
       "word": "这些话讲给长辈们听",
@@ -667,14 +755,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 132489,
-      "num": 132489,
-      "word": "瓜迪奥拉花式吹梅西",
-      "onboard_time": 1673230765,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129027,
       "num": 129027,
       "word": "篮网vs热火",
@@ -691,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127121,
+      "num": 138984,
+      "word": "网友实现一户一万能卡",
+      "onboard_time": 1673233227,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125695,
       "num": 125695,
       "word": "一直不谈恋爱会等到更好的人吗",
@@ -699,12 +787,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124428,
+      "num": 124428,
+      "word": "黑猫警长2023特别篇",
+      "onboard_time": 1673234247,
+      "rank": 45,
+      "category": "动漫,社会新闻"
+    },
+    {
       "raw_hot": 121096,
       "num": 96156,
       "word": "薛之谦 准备听新歌了哦",
       "onboard_time": 1673196502,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120319,
+      "num": 120319,
+      "word": "巴西国会已被夺回约400人被捕",
+      "onboard_time": 1673234007,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 119332,
+      "num": 119332,
+      "word": "两地官员因一个水果箱互结利益网",
+      "onboard_time": 1673232567,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119324,
+      "num": 119324,
+      "word": "每个色块都好像有了灵魂",
+      "onboard_time": 1673232506,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 117970,
@@ -827,22 +947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97622,
-      "num": 97622,
-      "word": "每个色块都好像有了灵魂",
-      "onboard_time": 1673232506,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 97196,
-      "num": 97196,
-      "word": "两地官员因一个水果箱互结利益网",
-      "onboard_time": 1673232567,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94312,
       "num": 55757,
       "word": "BLACKPINK的live实力",
@@ -932,7 +1036,7 @@
     },
     {
       "raw_hot": 30296,
-      "num": 971140,
+      "num": 1041236,
       "word": "多渠道增加受疫情影响较大群体的收入",
       "onboard_time": 1673166209,
       "rank": 2,
