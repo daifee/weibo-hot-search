@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673283076784,
+  "endTime": 1673284742219,
   "band_list": [
     {
       "raw_hot": 2492828,
@@ -1643,6 +1643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252388,
+      "num": 160042,
+      "word": "保洁夹断猫腿与宠主就赔偿争执",
+      "onboard_time": 1673282785,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252185,
       "num": 145716,
       "word": "王鹤棣不爱吃猕猴桃",
@@ -1995,12 +2003,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188068,
+      "num": 188068,
+      "word": "seventeen堂吉诃德舞台只练了三天",
+      "onboard_time": 1673283621,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187753,
       "num": 187753,
       "word": "00后创业成为年货策划师",
       "onboard_time": 1673254770,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187645,
+      "num": 187645,
+      "word": "第一次被机场耍大牌爽到",
+      "onboard_time": 1673281285,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 187469,
@@ -2075,6 +2099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177240,
+      "num": 168504,
+      "word": "他将同学聚会变成权钱交易所",
+      "onboard_time": 1673280329,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175708,
       "num": 175708,
       "word": "声音共和",
@@ -2107,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173320,
+      "num": 173320,
+      "word": "奥密克戎毒株肺炎发生率比德尔塔小",
+      "onboard_time": 1673280507,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173120,
       "num": 173120,
       "word": "黑猫警长2023特别篇",
@@ -2123,14 +2163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172043,
-      "num": 94408,
-      "word": "第一次被机场耍大牌爽到",
-      "onboard_time": 1673281285,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169479,
       "num": 177884,
       "word": "过年最期待什么",
@@ -2145,22 +2177,6 @@
       "onboard_time": 1673244087,
       "rank": 29,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 168604,
-      "num": 168604,
-      "word": "奥密克戎毒株肺炎发生率比德尔塔小",
-      "onboard_time": 1673280507,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168504,
-      "num": 168504,
-      "word": "他将同学聚会变成权钱交易所",
-      "onboard_time": 1673280329,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165986,
@@ -2331,6 +2347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150772,
+      "num": 82867,
+      "word": "林一成出庭作证",
+      "onboard_time": 1673283561,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150479,
       "num": 150479,
       "word": "吴尊友解析是否马上有新一轮传播风险",
@@ -2361,6 +2385,14 @@
       "onboard_time": 1673262209,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141263,
+      "num": 141263,
+      "word": "第一次压轿的人类幼崽",
+      "onboard_time": 1673280628,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 139772,
@@ -2459,20 +2491,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125734,
+      "num": 125734,
+      "word": "猫咪是怎么忍住不抢的",
+      "onboard_time": 1673280688,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125695,
       "num": 125695,
       "word": "一直不谈恋爱会等到更好的人吗",
       "onboard_time": 1673166449,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124501,
-      "num": 124501,
-      "word": "猫咪是怎么忍住不抢的",
-      "onboard_time": 1673280688,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 121745,
@@ -2529,14 +2561,6 @@
       "onboard_time": 1673177250,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 117448,
-      "num": 117448,
-      "word": "第一次压轿的人类幼崽",
-      "onboard_time": 1673280628,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 114539,
@@ -2608,6 +2632,14 @@
       "word": "真实生物回应阿兹夫定进医保",
       "onboard_time": 1673237429,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105991,
+      "num": 105991,
+      "word": "平静海面为何会频繁发生溺亡",
+      "onboard_time": 1673283262,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -2713,6 +2745,14 @@
       "onboard_time": 1673270731,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95510,
+      "num": 95510,
+      "word": "河北农村为何遭遇停气",
+      "onboard_time": 1673282244,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94312,
@@ -2827,19 +2867,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56231,
-      "num": 56231,
-      "word": "河北农村为何遭遇停气",
-      "onboard_time": 1673282244,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53855,
-      "num": 53855,
-      "word": "保洁夹断猫腿与宠主就赔偿争执",
-      "onboard_time": 1673282785,
-      "rank": 48,
+      "raw_hot": 65514,
+      "num": 65514,
+      "word": "护士发烧晕倒同事用椅子推着就医",
+      "onboard_time": 1673284100,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
