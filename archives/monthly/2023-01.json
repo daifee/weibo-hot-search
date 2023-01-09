@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673256824578,
+  "endTime": 1673259698526,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -1059,6 +1059,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1487678,
+      "num": 1487678,
+      "word": "演员李嘉明指责电视收费乱象",
+      "onboard_time": 1673257409,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1482616,
       "num": 517774,
       "word": "哥哥太爱我了怎么办",
@@ -1441,6 +1449,14 @@
       "onboard_time": 1672717527,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1267102,
+      "num": 1267102,
+      "word": "1家8口到三亚过年嫌房租贵直接买房",
+      "onboard_time": 1673257830,
+      "rank": 1,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1263614,
@@ -2881,6 +2897,14 @@
       "onboard_time": 1673017833,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 866136,
+      "num": 866136,
+      "word": "人民币升破6.8",
+      "onboard_time": 1673256089,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 865249,
@@ -7635,6 +7659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432579,
+      "num": 227801,
+      "word": "三体电视剧过审",
+      "onboard_time": 1673257348,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432097,
       "num": 285464,
       "word": "鑫仔 戏悟",
@@ -8113,6 +8145,14 @@
       "onboard_time": 1672962323,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409111,
+      "num": 409111,
+      "word": "头像真的会影响第一印象吗",
+      "onboard_time": 1673255549,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 409092,
@@ -10737,6 +10777,14 @@
       "onboard_time": 1672904549,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 314161,
+      "num": 174922,
+      "word": "2023央视春晚第三次联排",
+      "onboard_time": 1673258129,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 314031,
@@ -14699,6 +14747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 219229,
+      "num": 219229,
+      "word": "泰国副总理赴机场迎接中国游客",
+      "onboard_time": 1673258848,
+      "rank": 24,
+      "category": "国外要闻,旅游"
+    },
+    {
       "raw_hot": 218903,
       "num": 161215,
       "word": "顾南亭拒绝出租程霄住过的房子",
@@ -14881,6 +14937,14 @@
       "onboard_time": 1673065888,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214029,
+      "num": 214029,
+      "word": "张朝阳董宇辉谈工作的意义",
+      "onboard_time": 1673255790,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214021,
@@ -15099,6 +15163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210133,
+      "num": 210133,
+      "word": "皇马发声力挺齐达内",
+      "onboard_time": 1673258968,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210052,
       "num": 1001863,
       "word": "花少北",
@@ -15257,14 +15329,6 @@
       "onboard_time": 1672506811,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206022,
-      "num": 206022,
-      "word": "头像真的会影响第一印象吗",
-      "onboard_time": 1673255549,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 205546,
@@ -15947,12 +16011,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 190982,
-      "num": 190982,
-      "word": "人民币升破6.8",
-      "onboard_time": 1673256089,
-      "rank": 29,
-      "category": "财经"
+      "raw_hot": 190956,
+      "num": 190956,
+      "word": "林高远 新队服",
+      "onboard_time": 1673256747,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 190860,
@@ -16336,6 +16400,14 @@
       "word": "男生发现外婆家厨房墙酷似山水画",
       "onboard_time": 1672976309,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184029,
+      "num": 184029,
+      "word": "女子餐厅吃饭和桌布撞衫",
+      "onboard_time": 1673257227,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -17091,14 +17163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171577,
-      "num": 171577,
-      "word": "张朝阳董宇辉谈工作的意义",
-      "onboard_time": 1673255790,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171516,
       "num": 171516,
       "word": "NBA",
@@ -17313,6 +17377,14 @@
       "onboard_time": 1672589608,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167772,
+      "num": 167772,
+      "word": "原神3.3版本",
+      "onboard_time": 1673258431,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 167422,
@@ -18121,6 +18193,14 @@
       "onboard_time": 1673016754,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152643,
+      "num": 152643,
+      "word": "林高远王曼昱4比2林兆恒吴咏琳",
+      "onboard_time": 1673257169,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 152554,
@@ -19563,6 +19643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126015,
+      "num": 126015,
+      "word": "一句你不敢发在朋友圈的话",
+      "onboard_time": 1673259267,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125901,
       "num": 125901,
       "word": "朗斯3比1巴黎",
@@ -20249,14 +20337,6 @@
       "onboard_time": 1672569446,
       "rank": 48,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 113682,
-      "num": 134296,
-      "word": "林高远 新队服",
-      "onboard_time": 1673256747,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 113596,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/09 17:33:44
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/09 18:21:38
 </p>
 </blockquote>
 <p>
@@ -807,6 +807,12 @@ IVE假唱被KBS点名批评（热度：1570145）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%9D%8E%E5%98%89%E6%98%8E%E6%8C%87%E8%B4%A3%E7%94%B5%E8%A7%86%E6%94%B6%E8%B4%B9%E4%B9%B1%E8%B1%A1%23" target="weibo">
+演员李嘉明指责电视收费乱象（热度：1487678）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E5%A4%AA%E7%88%B1%E6%88%91%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%23" target="weibo">
 哥哥太爱我了怎么办（热度：1482616）
 </a>
@@ -1091,6 +1097,12 @@ YG确认金智秀今年将发行solo专辑（热度：1379525）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%92%8C%E9%A9%AC%E5%90%88%E7%85%A7%23" target="weibo">
 刘亦菲和马合照（热度：1270890）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%231%E5%AE%B68%E5%8F%A3%E5%88%B0%E4%B8%89%E4%BA%9A%E8%BF%87%E5%B9%B4%E5%AB%8C%E6%88%BF%E7%A7%9F%E8%B4%B5%E7%9B%B4%E6%8E%A5%E4%B9%B0%E6%88%BF%23" target="weibo">
+1家8口到三亚过年嫌房租贵直接买房（热度：1267102）
 </a>
 </li>
 
@@ -2171,6 +2183,12 @@ YG新女团成员正面生图（热度：872101）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%20%E4%BA%BA%E7%BC%98%23" target="weibo">
 邓超 人缘（热度：868369）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8D%87%E7%A0%B46.8%23" target="weibo">
+人民币升破6.8（热度：866136）
 </a>
 </li>
 
@@ -5739,6 +5757,12 @@ YG新女团BABYMONSTER预告（热度：433685）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BD%93%E7%94%B5%E8%A7%86%E5%89%A7%E8%BF%87%E5%AE%A1%23" target="weibo">
+三体电视剧过审（热度：432579）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%91%AB%E4%BB%94%20%E6%88%8F%E6%82%9F%23" target="weibo">
 鑫仔 戏悟（热度：432097）
 </a>
@@ -5987,30 +6011,6 @@ Lisa金色抹胸蝴蝶结造型（热度：419481）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E7%8E%B0%E5%9C%BA%23" target="weibo">
 陈楚生现场（热度：416974）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%91%AB%E5%AE%87%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E5%92%8C%E8%AD%A6%E6%96%B9%E4%BC%9A%E9%9D%A2%23" target="weibo">
-胡鑫宇家属回应和警方会面（热度：416950）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BC%94%E5%94%B1%E4%BC%9A%E5%94%B1%E5%AD%A4%E5%8B%87%E8%80%85%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
-陈奕迅演唱会唱孤勇者的反应（热度：415132）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A7%A3%E9%87%8A%E9%B8%B3%E9%B8%AF%E8%84%91%23" target="weibo">
-王鹤棣解释鸳鸯脑（热度：414298）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E5%B8%85%E7%A1%AE%E8%AE%A4C%E7%BD%97%E9%A6%96%E7%A7%80%E5%B0%86%E5%AF%B9%E9%98%B5%E5%B7%B4%E9%BB%8E%23" target="weibo">
-主帅确认C罗首秀将对阵巴黎（热度：414244）
 </a>
 </li>
 

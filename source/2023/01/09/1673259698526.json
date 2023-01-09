@@ -1,0 +1,410 @@
+{
+  "runTime": 1673259698526,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1487678,
+        "num": 1487678,
+        "word": "演员李嘉明指责电视收费乱象",
+        "onboard_time": 1673257409,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1267102,
+        "num": 1267102,
+        "word": "1家8口到三亚过年嫌房租贵直接买房",
+        "onboard_time": 1673257830,
+        "rank": 1,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 84729,
+        "num": 1162476,
+        "word": "当前疫情最新热点十问十答",
+        "onboard_time": 1673251830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1113811,
+        "num": 1113811,
+        "word": "春晚",
+        "onboard_time": 1673237671,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 932145,
+        "num": 932145,
+        "word": "女子10年前买1.8万钻戒如今值180元",
+        "onboard_time": 1673253090,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866136,
+        "num": 866136,
+        "word": "人民币升破6.8",
+        "onboard_time": 1673256089,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 838753,
+        "num": 838753,
+        "word": "李宏毅 倒立洗头",
+        "onboard_time": 1673253690,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 632704,
+        "num": 632704,
+        "word": "丈夫摸孕妻胎动遭狗狗无情驱赶",
+        "onboard_time": 1673250390,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562555,
+        "num": 562555,
+        "word": "小伙帮妈熏腊肉130斤肉烧剩20多斤",
+        "onboard_time": 1673252788,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409111,
+        "num": 409111,
+        "word": "头像真的会影响第一印象吗",
+        "onboard_time": 1673255549,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 580028,
+        "num": 400657,
+        "word": "避谶",
+        "onboard_time": 1673251227,
+        "rank": 10,
+        "category": "综艺,情感"
+      },
+      {
+        "raw_hot": 563440,
+        "num": 391809,
+        "word": "林俊杰去了BLACKPINK演唱会",
+        "onboard_time": 1673251407,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 557485,
+        "num": 388499,
+        "word": "YG新女团成员正面生图",
+        "onboard_time": 1673255549,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375638,
+        "num": 375638,
+        "word": "年会抽奖抽到了脏东西",
+        "onboard_time": 1673240309,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 359846,
+        "num": 359846,
+        "word": "北京不少市民收到移动奇怪短信",
+        "onboard_time": 1673245168,
+        "rank": 14,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 287367,
+        "num": 287367,
+        "word": "小偷砸车窗偷2千现金扔20万包",
+        "onboard_time": 1673251347,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278887,
+        "num": 278887,
+        "word": "年轻人是懂兔子谐音梗的",
+        "onboard_time": 1673251049,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278117,
+        "num": 278117,
+        "word": "主帅确认C罗首秀将对阵巴黎",
+        "onboard_time": 1673250089,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271598,
+        "num": 271598,
+        "word": "我国部分地区将遭遇剧烈降温",
+        "onboard_time": 1673251649,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247507,
+        "num": 247507,
+        "word": "教育局回应长清一中高考听力卡顿",
+        "onboard_time": 1673249968,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 520719,
+        "num": 246659,
+        "word": "赵樱子给粉丝买手抓饼",
+        "onboard_time": 1673254230,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 444958,
+        "num": 236160,
+        "word": "鹿晗五哈杀猪",
+        "onboard_time": 1673249490,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432579,
+        "num": 227801,
+        "word": "三体电视剧过审",
+        "onboard_time": 1673257348,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219396,
+        "num": 219396,
+        "word": "辉瑞Paxlovid医保谈判基本未降价",
+        "onboard_time": 1673253572,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219229,
+        "num": 219229,
+        "word": "泰国副总理赴机场迎接中国游客",
+        "onboard_time": 1673258848,
+        "rank": 24,
+        "category": "国外要闻,旅游"
+      },
+      {
+        "raw_hot": 214029,
+        "num": 214029,
+        "word": "张朝阳董宇辉谈工作的意义",
+        "onboard_time": 1673255790,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210133,
+        "num": 210133,
+        "word": "皇马发声力挺齐达内",
+        "onboard_time": 1673258968,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190956,
+        "num": 190956,
+        "word": "林高远 新队服",
+        "onboard_time": 1673256747,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184029,
+        "num": 184029,
+        "word": "女子餐厅吃饭和桌布撞衫",
+        "onboard_time": 1673257227,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177170,
+        "num": 177170,
+        "word": "印航飞机上一银行副总裁对女乘客小便",
+        "onboard_time": 1673244205,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404020,
+        "num": 176156,
+        "word": "刘诗诗刘宇宁7秒吻戏",
+        "onboard_time": 1673250448,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314161,
+        "num": 174922,
+        "word": "2023央视春晚第三次联排",
+        "onboard_time": 1673258129,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313257,
+        "num": 173058,
+        "word": "刘亦菲齐刘海",
+        "onboard_time": 1673244148,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289071,
+        "num": 170011,
+        "word": "内娱翻唱天花板",
+        "onboard_time": 1673256510,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169089,
+        "num": 169089,
+        "word": "猫咪的好奇心太重了",
+        "onboard_time": 1673252190,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167772,
+        "num": 167772,
+        "word": "原神3.3版本",
+        "onboard_time": 1673258431,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159580,
+        "num": 159580,
+        "word": "DK更换新队名队标",
+        "onboard_time": 1673252070,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152643,
+        "num": 152643,
+        "word": "林高远王曼昱4比2林兆恒吴咏琳",
+        "onboard_time": 1673257169,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140977,
+        "num": 140977,
+        "word": "Doinb 拒绝做细狗",
+        "onboard_time": 1673250028,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139022,
+        "num": 139022,
+        "word": "女子结婚在婚宴上安排前男友桌",
+        "onboard_time": 1673244447,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244761,
+        "num": 138960,
+        "word": "惠英红 水兵",
+        "onboard_time": 1673240968,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229996,
+        "num": 138800,
+        "word": "张庭TST公司成被执行人",
+        "onboard_time": 1673251169,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 138607,
+        "num": 138607,
+        "word": "2022年关闭537万个水军账号",
+        "onboard_time": 1673255430,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137710,
+        "num": 137710,
+        "word": "云黎巅峰赛被气哭",
+        "onboard_time": 1673250267,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136634,
+        "num": 136634,
+        "word": "大学生寒假应聘搓澡工攒钱旅游",
+        "onboard_time": 1673248588,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130442,
+        "num": 130442,
+        "word": "王牌飞行员",
+        "onboard_time": 1673255910,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126015,
+        "num": 126015,
+        "word": "一句你不敢发在朋友圈的话",
+        "onboard_time": 1673259267,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120331,
+        "num": 120331,
+        "word": "有一家五口至今没中招",
+        "onboard_time": 1673241868,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106442,
+        "num": 120010,
+        "word": "废弃核酸检测亭何时能撤走",
+        "onboard_time": 1673250748,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101667,
+        "num": 119945,
+        "word": "王楚钦孙颖莎4比2冯耀恩王歆茹",
+        "onboard_time": 1673251711,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#第十版新冠病毒感染防控方案有何调整#"
+    }
+  }
+}
