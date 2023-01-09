@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/09 17:19:05
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/09 17:33:44
 </p>
 </blockquote>
 <p>
@@ -1197,6 +1197,12 @@ aespa开麦（热度：1239883）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%9010%E5%B9%B4%E5%89%8D%E4%B9%B01.8%E4%B8%87%E9%92%BB%E6%88%92%E5%A6%82%E4%BB%8A%E5%80%BC180%E5%85%83%23" target="weibo">
+女子10年前买1.8万钻戒如今值180元（热度：1212458）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E4%BB%8B%E7%BB%8D%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%BB%A1%E6%B1%9F%E7%BA%A2%23" target="weibo">
 贺峻霖介绍易烊千玺满江红（热度：1211028）
 </a>
@@ -1793,12 +1799,6 @@ WBG让二追三（热度：970849）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E7%9B%B4%E6%92%AD%23" target="weibo">
 杨迪直播（热度：968593）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%9010%E5%B9%B4%E5%89%8D%E4%B9%B01.8%E4%B8%87%E9%92%BB%E6%88%92%E5%A6%82%E4%BB%8A%E5%80%BC180%E5%85%83%23" target="weibo">
-女子10年前买1.8万钻戒如今值180元（热度：966704）
 </a>
 </li>
 
@@ -3075,6 +3075,12 @@ SEVENTEEN获金唱片最佳表演奖赏（热度：700849）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%B8%AE%E5%A6%88%E7%86%8F%E8%85%8A%E8%82%89130%E6%96%A4%E8%82%89%E7%83%A7%E5%89%A920%E5%A4%9A%E6%96%A4%23" target="weibo">
+小伙帮妈熏腊肉130斤肉烧剩20多斤（热度：700292）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%94%B1%E8%AF%80%E7%88%B1%23" target="weibo">
 王鹤棣唱诀爱（热度：699191）
 </a>
@@ -3611,12 +3617,6 @@ WBG对战OMG（热度：629027）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%23" target="weibo">
 教资面试（热度：626125）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%B8%AE%E5%A6%88%E7%86%8F%E8%85%8A%E8%82%89130%E6%96%A4%E8%82%89%E7%83%A7%E5%89%A920%E5%A4%9A%E6%96%A4%23" target="weibo">
-小伙帮妈熏腊肉130斤肉烧剩20多斤（热度：625608）
 </a>
 </li>
 
