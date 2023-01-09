@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673259698526,
+  "endTime": 1673260639857,
   "band_list": [
     {
       "raw_hot": 2094597,
@@ -27,12 +27,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1795463,
+      "num": 1795463,
+      "word": "演员李嘉明指责电视收费乱象",
+      "onboard_time": 1673257409,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1774733,
       "num": 1672674,
       "word": "避谶",
       "onboard_time": 1673251227,
       "rank": 1,
       "category": "综艺,情感"
+    },
+    {
+      "raw_hot": 1702106,
+      "num": 1702106,
+      "word": "1家8口到三亚过年嫌房租贵直接买房",
+      "onboard_time": 1673257830,
+      "rank": 1,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1622142,
@@ -59,28 +75,12 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 1487678,
-      "num": 1487678,
-      "word": "演员李嘉明指责电视收费乱象",
-      "onboard_time": 1673257409,
-      "rank": 0,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1356460,
       "num": 1144678,
       "word": "李宏毅 倒立洗头",
       "onboard_time": 1673253690,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1267102,
-      "num": 1267102,
-      "word": "1家8口到三亚过年嫌房租贵直接买房",
-      "onboard_time": 1673257830,
-      "rank": 1,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1255901,
@@ -619,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 500503,
+      "num": 468642,
+      "word": "泰国副总理赴机场迎接中国游客",
+      "onboard_time": 1673258848,
+      "rank": 24,
+      "category": "国外要闻,旅游"
+    },
+    {
       "raw_hot": 497176,
       "num": 299035,
       "word": "魏晨现身2023央视春晚第三次大联排",
@@ -643,12 +651,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 476323,
+      "num": 476323,
+      "word": "头像真的会影响第一印象吗",
+      "onboard_time": 1673255549,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 472972,
       "num": 351514,
       "word": "日本版单身即地狱男嘉宾颜值",
       "onboard_time": 1673234608,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 464263,
+      "num": 338922,
+      "word": "三体电视剧过审",
+      "onboard_time": 1673257348,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 451703,
@@ -707,11 +731,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 432579,
-      "num": 227801,
-      "word": "三体电视剧过审",
-      "onboard_time": 1673257348,
-      "rank": 22,
+      "raw_hot": 431835,
+      "num": 258801,
+      "word": "顾南亭承认喜欢程霄",
+      "onboard_time": 1673259989,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -761,14 +785,6 @@
       "onboard_time": 1673230227,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 409111,
-      "num": 409111,
-      "word": "头像真的会影响第一印象吗",
-      "onboard_time": 1673255549,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 409092,
@@ -1075,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281881,
+      "num": 281881,
+      "word": "皇马发声力挺齐达内",
+      "onboard_time": 1673258968,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275092,
       "num": 189404,
       "word": "周冬雨演的航空医生沈天然",
@@ -1179,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239990,
+      "num": 140927,
+      "word": "张艺兴黄色毛线帽机场造型",
+      "onboard_time": 1673260529,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238672,
       "num": 238672,
       "word": "黄牛拒收家乐福购物卡",
@@ -1275,14 +1307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219229,
-      "num": 219229,
-      "word": "泰国副总理赴机场迎接中国游客",
-      "onboard_time": 1673258848,
-      "rank": 24,
-      "category": "国外要闻,旅游"
-    },
-    {
       "raw_hot": 217613,
       "num": 217613,
       "word": "九尾超话破百万粉丝派对",
@@ -1339,14 +1363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 210133,
-      "num": 210133,
-      "word": "皇马发声力挺齐达内",
-      "onboard_time": 1673258968,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209788,
       "num": 209788,
       "word": "核潜艇总设计师张金麟逝世",
@@ -1355,11 +1371,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208207,
+      "num": 208207,
+      "word": "一句你不敢发在朋友圈的话",
+      "onboard_time": 1673259267,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206408,
       "num": 206408,
       "word": "icon锐评国服",
       "onboard_time": 1673246428,
       "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 206186,
+      "num": 206186,
+      "word": "原神3.3版本",
+      "onboard_time": 1673258431,
+      "rank": 35,
       "category": "游戏"
     },
     {
@@ -1385,6 +1417,14 @@
       "onboard_time": 1673219718,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192243,
+      "num": 192243,
+      "word": "女子餐厅吃饭和桌布撞衫",
+      "onboard_time": 1673257227,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191095,
@@ -1416,14 +1456,6 @@
       "word": "女子买200万豪车亲友400箱礼花庆贺",
       "onboard_time": 1673185473,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184029,
-      "num": 184029,
-      "word": "女子餐厅吃饭和桌布撞衫",
-      "onboard_time": 1673257227,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1513,14 +1545,6 @@
       "onboard_time": 1673244087,
       "rank": 29,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 167772,
-      "num": 167772,
-      "word": "原神3.3版本",
-      "onboard_time": 1673258431,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 165986,
@@ -1745,14 +1769,6 @@
       "onboard_time": 1673212392,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126015,
-      "num": 126015,
-      "word": "一句你不敢发在朋友圈的话",
-      "onboard_time": 1673259267,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 125695,
