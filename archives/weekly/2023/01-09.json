@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673306324998,
+  "endTime": 1673307226149,
   "band_list": [
     {
       "raw_hot": 2492828,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630519,
+      "num": 630519,
+      "word": "保洁夹断猫腿与宠主就赔偿争执",
+      "onboard_time": 1673282785,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590022,
       "num": 590022,
       "word": "女子结婚在婚宴上安排前男友桌",
@@ -683,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 563132,
-      "num": 563132,
-      "word": "保洁夹断猫腿与宠主就赔偿争执",
-      "onboard_time": 1673282785,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 562990,
       "num": 562990,
       "word": "贪官受贿近3亿无视督导组整改意见",
@@ -713,6 +713,14 @@
       "onboard_time": 1673246368,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 553274,
+      "num": 553274,
+      "word": "集五福",
+      "onboard_time": 1673306599,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 547075,
@@ -1491,6 +1499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 292956,
+      "num": 292956,
+      "word": "太快确定关系真的不会长久吗",
+      "onboard_time": 1673286496,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 291408,
       "num": 186615,
       "word": "刘耀文拿着斧子跳舞",
@@ -1691,12 +1707,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 244071,
-      "num": 244071,
-      "word": "太快确定关系真的不会长久吗",
-      "onboard_time": 1673286496,
-      "rank": 8,
-      "category": "情感"
+      "raw_hot": 244437,
+      "num": 244437,
+      "word": "护士发烧晕倒同事用椅子推着就医",
+      "onboard_time": 1673284100,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243504,
@@ -1955,6 +1971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198925,
+      "num": 198925,
+      "word": "他将同学聚会变成权钱交易所",
+      "onboard_time": 1673280329,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197068,
       "num": 129770,
       "word": "Lisa泰国见面会生图",
@@ -1985,14 +2009,6 @@
       "onboard_time": 1673219718,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192407,
-      "num": 192407,
-      "word": "护士发烧晕倒同事用椅子推着就医",
-      "onboard_time": 1673284100,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192243,
@@ -2123,14 +2139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 177240,
-      "num": 173019,
-      "word": "他将同学聚会变成权钱交易所",
-      "onboard_time": 1673280329,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175708,
       "num": 175708,
       "word": "声音共和",
@@ -2185,6 +2193,14 @@
       "onboard_time": 1673279428,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171539,
+      "num": 171539,
+      "word": "110警察节",
+      "onboard_time": 1673306359,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169479,
@@ -2257,6 +2273,14 @@
       "onboard_time": 1673204354,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160880,
+      "num": 160880,
+      "word": "塞尔达传说或将改编动画电影",
+      "onboard_time": 1673305518,
+      "rank": 30,
+      "category": "游戏,影视"
     },
     {
       "raw_hot": 160836,
@@ -2337,6 +2361,14 @@
       "onboard_time": 1673219838,
       "rank": 23,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 154962,
+      "num": 137302,
+      "word": "刘诗诗刘宇宁与一念关山工作人员合影",
+      "onboard_time": 1673305697,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154712,
@@ -2451,6 +2483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136943,
+      "num": 136943,
+      "word": "山东又要变成山冻",
+      "onboard_time": 1673303895,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136874,
       "num": 136874,
       "word": "这些话讲给长辈们听",
@@ -2515,6 +2555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127260,
+      "num": 127260,
+      "word": "用一首歌感受人民警察的坚守和不易",
+      "onboard_time": 1673306599,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125734,
       "num": 125734,
       "word": "猫咪是怎么忍住不抢的",
@@ -2529,14 +2577,6 @@
       "onboard_time": 1673166449,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 122604,
-      "num": 122604,
-      "word": "山东又要变成山冻",
-      "onboard_time": 1673303895,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121745,
@@ -2811,14 +2851,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 89190,
-      "num": 89190,
-      "word": "刘诗诗刘宇宁与一念关山工作人员合影",
-      "onboard_time": 1673305697,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 88969,
       "num": 88969,
       "word": "张文宏称疫情将过渡到地方性流行阶段",
@@ -2849,14 +2881,6 @@
       "onboard_time": 1673267728,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 86163,
-      "num": 75400,
-      "word": "塞尔达传说或将改编动画电影",
-      "onboard_time": 1673305518,
-      "rank": 30,
-      "category": "游戏,影视"
     },
     {
       "raw_hot": 84076,
@@ -2907,12 +2931,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69168,
+      "num": 69168,
+      "word": "地质队是神级全能选手吧",
+      "onboard_time": 1673305518,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67774,
       "num": 168949,
       "word": "航天院士陆元九迎来103岁生日",
       "onboard_time": 1673246248,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60860,
+      "num": 60860,
+      "word": "一个舍得买一个舍不得要",
+      "onboard_time": 1673306958,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 58551,
@@ -2929,14 +2969,6 @@
       "onboard_time": 1673209333,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 48754,
-      "num": 48754,
-      "word": "地质队是神级全能选手吧",
-      "onboard_time": 1673305518,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30296,

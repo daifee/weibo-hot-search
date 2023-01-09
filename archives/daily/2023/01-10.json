@@ -1,6 +1,6 @@
 {
   "startTime": 1673281966955,
-  "endTime": 1673306324998,
+  "endTime": 1673307226149,
   "band_list": [
     {
       "raw_hot": 1310196,
@@ -59,12 +59,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 563132,
-      "num": 563132,
+      "raw_hot": 630519,
+      "num": 630519,
       "word": "保洁夹断猫腿与宠主就赔偿争执",
       "onboard_time": 1673282785,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553274,
+      "num": 553274,
+      "word": "集五福",
+      "onboard_time": 1673306599,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 545965,
@@ -115,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 292956,
+      "num": 292956,
+      "word": "太快确定关系真的不会长久吗",
+      "onboard_time": 1673286496,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 289847,
       "num": 289847,
       "word": "中国影视蓝皮书 投票",
@@ -147,12 +163,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244071,
-      "num": 244071,
-      "word": "太快确定关系真的不会长久吗",
-      "onboard_time": 1673286496,
-      "rank": 8,
-      "category": "情感"
+      "raw_hot": 244437,
+      "num": 244437,
+      "word": "护士发烧晕倒同事用椅子推着就医",
+      "onboard_time": 1673284100,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235781,
@@ -203,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198925,
+      "num": 198925,
+      "word": "他将同学聚会变成权钱交易所",
+      "onboard_time": 1673280329,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197068,
       "num": 129770,
       "word": "Lisa泰国见面会生图",
@@ -211,12 +235,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 192407,
-      "num": 192407,
-      "word": "护士发烧晕倒同事用椅子推着就医",
-      "onboard_time": 1673284100,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 191706,
+      "num": 191706,
+      "word": "如何评价惠英红穿婚纱喊话水兵",
+      "onboard_time": 1673260830,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 188068,
@@ -243,6 +267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182514,
+      "num": 182514,
+      "word": "1亿元阿兹夫定捐给中西部农村",
+      "onboard_time": 1673269950,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181862,
       "num": 114527,
       "word": "王一博无名长空之王梦幻联动",
@@ -259,16 +291,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 177240,
-      "num": 173019,
-      "word": "他将同学聚会变成权钱交易所",
-      "onboard_time": 1673280329,
-      "rank": 28,
+      "raw_hot": 176432,
+      "num": 176432,
+      "word": "贪官买房让商人出钱自己高价卖出",
+      "onboard_time": 1673275893,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
       "raw_hot": 174465,
-      "num": 115009,
+      "num": 124194,
       "word": "谢之遥没提挽留但处处在挽留",
       "onboard_time": 1673270190,
       "rank": 32,
@@ -299,20 +331,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171539,
+      "num": 171539,
+      "word": "110警察节",
+      "onboard_time": 1673306359,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163807,
       "num": 110012,
       "word": "蔡依林演唱会造型",
       "onboard_time": 1673270669,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 161792,
-      "num": 161792,
-      "word": "1亿元阿兹夫定捐给中西部农村",
-      "onboard_time": 1673269950,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161786,
@@ -323,12 +355,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160880,
+      "num": 160880,
+      "word": "塞尔达传说或将改编动画电影",
+      "onboard_time": 1673305518,
+      "rank": 30,
+      "category": "游戏,影视"
+    },
+    {
       "raw_hot": 155060,
       "num": 85209,
       "word": "许红豆改口叫阿遥",
       "onboard_time": 1673273195,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154962,
+      "num": 137302,
+      "word": "刘诗诗刘宇宁与一念关山工作人员合影",
+      "onboard_time": 1673305697,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153473,
@@ -355,27 +403,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137682,
-      "num": 137682,
-      "word": "贪官买房让商人出钱自己高价卖出",
-      "onboard_time": 1673275893,
-      "rank": 27,
+      "raw_hot": 136943,
+      "num": 136943,
+      "word": "山东又要变成山冻",
+      "onboard_time": 1673303895,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134380,
-      "num": 134380,
-      "word": "如何评价惠英红穿婚纱喊话水兵",
-      "onboard_time": 1673260830,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 129643,
-      "num": 129643,
+      "raw_hot": 136606,
+      "num": 136606,
       "word": "小伙花280元从上海坐公交到北京",
       "onboard_time": 1673264011,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127260,
+      "num": 127260,
+      "word": "用一首歌感受人民警察的坚守和不易",
+      "onboard_time": 1673306599,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -387,11 +435,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122604,
-      "num": 122604,
-      "word": "山东又要变成山冻",
-      "onboard_time": 1673303895,
-      "rank": 16,
+      "raw_hot": 119409,
+      "num": 119409,
+      "word": "欠北方的雪可能要还了",
+      "onboard_time": 1673270492,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -400,6 +448,14 @@
       "word": "狗狗从城市回老家两天狂炫5锅饭",
       "onboard_time": 1673274033,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116835,
+      "num": 116835,
+      "word": "见义勇为受伤的南京胖哥举办婚礼",
+      "onboard_time": 1673273735,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -419,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101797,
-      "num": 101797,
-      "word": "欠北方的雪可能要还了",
-      "onboard_time": 1673270492,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95510,
       "num": 95510,
       "word": "河北农村为何遭遇停气",
@@ -435,36 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89190,
-      "num": 89190,
-      "word": "刘诗诗刘宇宁与一念关山工作人员合影",
-      "onboard_time": 1673305697,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 88994,
       "num": 88994,
       "word": "你家12月电费多少钱",
       "onboard_time": 1673266650,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 87597,
-      "num": 87597,
-      "word": "见义勇为受伤的南京胖哥举办婚礼",
-      "onboard_time": 1673273735,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86163,
-      "num": 75400,
-      "word": "塞尔达传说或将改编动画电影",
-      "onboard_time": 1673305518,
-      "rank": 30,
-      "category": "游戏,影视"
     },
     {
       "raw_hot": 84077,
@@ -491,11 +515,27 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 70827,
+      "num": 70827,
+      "word": "演员李嘉明指责电视收费乱象",
+      "onboard_time": 1673257409,
+      "rank": 41,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 70141,
       "num": 70141,
       "word": "15岁狗去世前不吃饭默默躲进树林",
       "onboard_time": 1673263349,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69168,
+      "num": 69168,
+      "word": "地质队是神级全能选手吧",
+      "onboard_time": 1673305518,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -507,6 +547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 63596,
+      "num": 63596,
+      "word": "乐华公布王一博名誉维权案进展",
+      "onboard_time": 1673270911,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61174,
       "num": 69827,
       "word": "这不得把老丈人迷死",
@@ -515,12 +563,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 60985,
-      "num": 52788,
-      "word": "演员李嘉明指责电视收费乱象",
-      "onboard_time": 1673257409,
-      "rank": 41,
-      "category": "社会新闻,艺人"
+      "raw_hot": 60860,
+      "num": 60860,
+      "word": "一个舍得买一个舍不得要",
+      "onboard_time": 1673306958,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 58551,
@@ -539,14 +587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 48754,
-      "num": 48754,
-      "word": "地质队是神级全能选手吧",
-      "onboard_time": 1673305518,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24774,
       "num": 24774,
       "word": "刘雨昕加盟河南春晚",
@@ -555,7 +595,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15191,
+      "raw_hot": 15744,
       "num": 662786,
       "word": "当前疫情最新热点十问十答",
       "onboard_time": 1673251830,
