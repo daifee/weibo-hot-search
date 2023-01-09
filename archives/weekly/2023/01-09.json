@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673239055105,
+  "endTime": 1673241419707,
   "band_list": [
     {
       "raw_hot": 2094597,
@@ -27,8 +27,8 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 1285079,
-      "num": 1285079,
+      "raw_hot": 1520041,
+      "num": 1520041,
       "word": "春晚",
       "onboard_time": 1673237671,
       "rank": 12,
@@ -75,11 +75,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 945303,
+      "num": 945303,
+      "word": "薛凯琪想了一年的梗被佘诗曼破了",
+      "onboard_time": 1673236768,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 911643,
       "num": 911643,
       "word": "黄欣苑说和Lisa互动的不是她",
       "onboard_time": 1673231549,
       "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 891604,
+      "num": 384762,
+      "word": "BLACKPINK演唱会官宣中国高雄澳门场",
+      "onboard_time": 1673239232,
+      "rank": 10,
       "category": "音乐"
     },
     {
@@ -147,6 +163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 747996,
+      "num": 378077,
+      "word": "年会抽奖抽到了脏东西",
+      "onboard_time": 1673240309,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 721063,
       "num": 721063,
       "word": "孕妇鞋带散开没法弯腰乘务员蹲下帮忙",
@@ -179,6 +203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 676273,
+      "num": 676273,
+      "word": "突然觉得这工作好适合我",
+      "onboard_time": 1673236590,
+      "rank": 17,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 665989,
       "num": 665989,
       "word": "王一博已有两部电影官宣定档",
@@ -201,14 +233,6 @@
       "onboard_time": 1673222066,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 582705,
-      "num": 538237,
-      "word": "薛凯琪想了一年的梗被佘诗曼破了",
-      "onboard_time": 1673236768,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 579426,
@@ -275,12 +299,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 556450,
-      "num": 556450,
-      "word": "突然觉得这工作好适合我",
-      "onboard_time": 1673236590,
-      "rank": 17,
-      "category": "幽默,情感"
+      "raw_hot": 552102,
+      "num": 366598,
+      "word": "惠英红 水兵",
+      "onboard_time": 1673240968,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 546992,
@@ -428,7 +452,7 @@
     },
     {
       "raw_hot": 386916,
-      "num": 168577,
+      "num": 278353,
       "word": "河南春晚官宣阵容",
       "onboard_time": 1673238451,
       "rank": 31,
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 355791,
-      "num": 166199,
+      "num": 214332,
       "word": "景甜冯绍峰灼灼风流杀青路透",
       "onboard_time": 1673238329,
       "rank": 32,
@@ -497,6 +521,14 @@
       "onboard_time": 1673176531,
       "rank": 21,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 342593,
+      "num": 342593,
+      "word": "LOL龙王重做",
+      "onboard_time": 1673238571,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 342532,
@@ -537,6 +569,14 @@
       "onboard_time": 1673237190,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 323811,
+      "num": 323811,
+      "word": "母亲离世患病女大学生独自照顾病父10年",
+      "onboard_time": 1673238510,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306663,
@@ -595,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273551,
+      "num": 212259,
+      "word": "张雨绮春晚联排双马尾造型",
+      "onboard_time": 1673240490,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268546,
       "num": 225932,
       "word": "白敬亭说初一必须穿红色",
@@ -641,6 +689,14 @@
       "onboard_time": 1673198420,
       "rank": 31,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 235357,
+      "num": 235357,
+      "word": "浙江武义天空出现超大鱼形云朵",
+      "onboard_time": 1673238809,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234838,
@@ -691,6 +747,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217613,
+      "num": 217613,
+      "word": "九尾超话破百万粉丝派对",
+      "onboard_time": 1673238691,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 216626,
+      "num": 216626,
+      "word": "6旬父亲摔倒睡觉儿子飞奔护住头",
+      "onboard_time": 1673239950,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216093,
       "num": 123385,
       "word": "陈楚生现场",
@@ -705,6 +777,14 @@
       "onboard_time": 1673200817,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211651,
+      "num": 211651,
+      "word": "商场回应爱马仕开业请道士做法",
+      "onboard_time": 1673240849,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202829,
@@ -795,6 +875,14 @@
       "category": "动漫,社会新闻"
     },
     {
+      "raw_hot": 169783,
+      "num": 169783,
+      "word": "超8成年轻人回家只想带自己",
+      "onboard_time": 1673240731,
+      "rank": 38,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 169479,
       "num": 177884,
       "word": "过年最期待什么",
@@ -817,14 +905,6 @@
       "onboard_time": 1673212812,
       "rank": 33,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 162150,
-      "num": 162150,
-      "word": "LOL龙王重做",
-      "onboard_time": 1673238571,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 162089,
@@ -859,14 +939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156374,
-      "num": 156374,
-      "word": "九尾超话破百万粉丝派对",
-      "onboard_time": 1673238691,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 155155,
       "num": 155155,
       "word": "我国再次成功发射一箭三星",
@@ -889,14 +961,6 @@
       "onboard_time": 1673187273,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 151595,
-      "num": 151595,
-      "word": "母亲离世患病女大学生独自照顾病父10年",
-      "onboard_time": 1673238510,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150479,
@@ -1035,14 +1099,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 114996,
-      "num": 114996,
-      "word": "浙江武义天空出现超大鱼形云朵",
-      "onboard_time": 1673238809,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114539,
       "num": 114539,
       "word": "万神殿第二季被取消",
@@ -1177,6 +1233,14 @@
       "onboard_time": 1673201956,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 91990,
+      "num": 91990,
+      "word": "女孩遇到面部有同款胎记的猫咪",
+      "onboard_time": 1673241389,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88969,
