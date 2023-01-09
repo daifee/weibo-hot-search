@@ -1,0 +1,410 @@
+{
+  "runTime": 1673277983565,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 962140,
+        "num": 962140,
+        "word": "中国网友偶遇侃爷",
+        "onboard_time": 1673276014,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2001347,
+        "num": 950597,
+        "word": "茅台董事长称买不起茅台还吃不起冰淇淋吗",
+        "onboard_time": 1673270669,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27577,
+        "num": 904104,
+        "word": "当前疫情最新热点十问十答",
+        "onboard_time": 1673251830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867679,
+        "num": 867679,
+        "word": "苍兰诀 投票",
+        "onboard_time": 1673276851,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 865836,
+        "num": 865836,
+        "word": "1家8口到三亚过年嫌房租贵直接买房",
+        "onboard_time": 1673257830,
+        "rank": 4,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 784200,
+        "num": 784200,
+        "word": "苹果耳机盒子不要丢",
+        "onboard_time": 1673264609,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 651562,
+        "num": 651562,
+        "word": "制片人回应陈飞宇张婧仪二搭",
+        "onboard_time": 1673273195,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 575998,
+        "num": 575998,
+        "word": "家属回应一家四口三亚溺水3死1失联",
+        "onboard_time": 1673269530,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475071,
+        "num": 475071,
+        "word": "鹅鸭杀",
+        "onboard_time": 1673272653,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 399184,
+        "num": 399184,
+        "word": "女子10年前买1.8万钻戒如今值180元",
+        "onboard_time": 1673253090,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924436,
+        "num": 391103,
+        "word": "赵丽颖说情侣之间不能送水果梨",
+        "onboard_time": 1673272533,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703290,
+        "num": 384617,
+        "word": "20岁女孩感染新冠3天后几近失明",
+        "onboard_time": 1673270972,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576334,
+        "num": 374129,
+        "word": "女孩博士毕业不社交遭妈妈吐槽",
+        "onboard_time": 1673276371,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536603,
+        "num": 359488,
+        "word": "刘美含 圆满炸了",
+        "onboard_time": 1673275832,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449519,
+        "num": 342484,
+        "word": "乐华公布王一博名誉维权案进展",
+        "onboard_time": 1673270911,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338857,
+        "num": 338857,
+        "word": "狗狗从城市回老家两天狂炫5锅饭",
+        "onboard_time": 1673274033,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325146,
+        "num": 325146,
+        "word": "三亚溺水兰州游客家属发声",
+        "onboard_time": 1673271571,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315218,
+        "num": 315218,
+        "word": "洗完澡像换了一只狗狗",
+        "onboard_time": 1673274634,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 312929,
+        "num": 312929,
+        "word": "奥密克戎毒株致病性明显下降",
+        "onboard_time": 1673260768,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311712,
+        "num": 311712,
+        "word": "原来妈妈才是恋爱高手",
+        "onboard_time": 1673276252,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 532603,
+        "num": 310039,
+        "word": "4游客在三亚溺水3人死亡1人失联",
+        "onboard_time": 1673266291,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 393139,
+        "num": 303366,
+        "word": "谢之遥没提挽留但处处在挽留",
+        "onboard_time": 1673270190,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378843,
+        "num": 298991,
+        "word": "依川川",
+        "onboard_time": 1673276132,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 346786,
+        "num": 294791,
+        "word": "许红豆改口叫阿遥",
+        "onboard_time": 1673273195,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290585,
+        "num": 290585,
+        "word": "网红假装在国外",
+        "onboard_time": 1673266889,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288699,
+        "num": 288699,
+        "word": "1亿元阿兹夫定捐给中西部农村",
+        "onboard_time": 1673269950,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211432,
+        "num": 211432,
+        "word": "奥比岛",
+        "onboard_time": 1673276672,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205684,
+        "num": 205684,
+        "word": "贪官买房让商人出钱自己高价卖出",
+        "onboard_time": 1673275893,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199805,
+        "num": 199805,
+        "word": "一句你不敢发在朋友圈的话",
+        "onboard_time": 1673259267,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171888,
+        "num": 171888,
+        "word": "保证公费师范生全部安排到中小学校任教",
+        "onboard_time": 1673264249,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 323489,
+        "num": 171788,
+        "word": "演员李嘉明指责电视收费乱象",
+        "onboard_time": 1673257409,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 269668,
+        "num": 171583,
+        "word": "去有风的地方第一场吻戏",
+        "onboard_time": 1673272772,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246989,
+        "num": 171413,
+        "word": "许嵩新歌没想到",
+        "onboard_time": 1673276371,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 246738,
+        "num": 171268,
+        "word": "陈奕迅新歌盲婚哑嫁",
+        "onboard_time": 1673271932,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171100,
+        "num": 171100,
+        "word": "你家12月电费多少钱",
+        "onboard_time": 1673266650,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157569,
+        "num": 171096,
+        "word": "欠北方的雪可能要还了",
+        "onboard_time": 1673270492,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150031,
+        "num": 170936,
+        "word": "小伙花280元从上海坐公交到北京",
+        "onboard_time": 1673264011,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141091,
+        "num": 170825,
+        "word": "这好大喜功的地方官用近7亿建公园",
+        "onboard_time": 1673271993,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128566,
+        "num": 170642,
+        "word": "见义勇为受伤的南京胖哥举办婚礼",
+        "onboard_time": 1673273735,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125360,
+        "num": 170496,
+        "word": "借小兔子耳朵吃个饭",
+        "onboard_time": 1673272714,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231646,
+        "num": 170345,
+        "word": "蔡依林演唱会造型",
+        "onboard_time": 1673270669,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225667,
+        "num": 170211,
+        "word": "许红豆谢之遥的爱情故事有8个版本",
+        "onboard_time": 1673277813,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118868,
+        "num": 170183,
+        "word": "这不得把老丈人迷死",
+        "onboard_time": 1673262268,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115297,
+        "num": 170067,
+        "word": "人民币升破6.8",
+        "onboard_time": 1673256089,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104753,
+        "num": 169853,
+        "word": "马龙 比分",
+        "onboard_time": 1673265028,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102632,
+        "num": 169720,
+        "word": "泰国副总理赴机场迎接中国游客",
+        "onboard_time": 1673258848,
+        "rank": 45,
+        "category": "国外要闻,旅游"
+      },
+      {
+        "raw_hot": 102368,
+        "num": 169680,
+        "word": "被坐着睡觉的猫咪可爱到了",
+        "onboard_time": 1673277570,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101299,
+        "num": 169448,
+        "word": "15岁狗去世前不吃饭默默躲进树林",
+        "onboard_time": 1673263349,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92246,
+        "num": 169429,
+        "word": "贪官为否认收金条自己导演一出戏",
+        "onboard_time": 1673268813,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88547,
+        "num": 169188,
+        "word": "马丁内斯执教葡萄牙队",
+        "onboard_time": 1673269231,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一刻不停推进全面从严治党#"
+    }
+  }
+}
