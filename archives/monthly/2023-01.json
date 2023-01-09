@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673262962300,
+  "endTime": 1673264009350,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -315,6 +315,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2299492,
+      "num": 2299492,
+      "word": "赵立坚已任边界与海洋事务司副司长",
+      "onboard_time": 1673261188,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2279060,
       "num": 2279060,
       "word": "胡鑫宇学校监控视频未被删减",
@@ -361,14 +369,6 @@
       "onboard_time": 1673232147,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2083030,
-      "num": 2083030,
-      "word": "赵立坚已任边界与海洋事务司副司长",
-      "onboard_time": 1673261188,
-      "rank": 0,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 2082642,
@@ -6843,6 +6843,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 484564,
+      "num": 484564,
+      "word": "如何评价惠英红穿婚纱喊话水兵",
+      "onboard_time": 1673260830,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483355,
       "num": 483355,
       "word": "今晚王鹤棣明晚肖掌印",
@@ -7283,14 +7291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 452686,
-      "num": 452686,
-      "word": "如何评价惠英红穿婚纱喊话水兵",
-      "onboard_time": 1673260830,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 452597,
       "num": 452597,
       "word": "LESSERAFIM看朴宰范的reaction",
@@ -7705,6 +7705,14 @@
       "onboard_time": 1673261609,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432139,
+      "num": 432139,
+      "word": "奥密克戎毒株致病性明显下降",
+      "onboard_time": 1673260768,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432097,
@@ -9051,14 +9059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376190,
-      "num": 376190,
-      "word": "奥密克戎毒株致病性明显下降",
-      "onboard_time": 1673260768,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376168,
       "num": 297258,
       "word": "张元英LOVEDIVE歌谣大祭典舞台直拍",
@@ -9112,6 +9112,14 @@
       "word": "你朋友圈暂停营业多久了",
       "onboard_time": 1673133917,
       "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 373367,
+      "num": 373367,
+      "word": "一句你不敢发在朋友圈的话",
+      "onboard_time": 1673259267,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -9273,14 +9281,6 @@
       "onboard_time": 1672718009,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 367554,
-      "num": 367554,
-      "word": "一句你不敢发在朋友圈的话",
-      "onboard_time": 1673259267,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 367409,
@@ -9857,6 +9857,14 @@
       "onboard_time": 1673186012,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 348579,
+      "num": 348579,
+      "word": "这不得把老丈人迷死",
+      "onboard_time": 1673262268,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 348261,
@@ -10889,6 +10897,14 @@
       "onboard_time": 1672802611,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312434,
+      "num": 312434,
+      "word": "樊振东王楚钦4比0冯耀恩郭勇",
+      "onboard_time": 1673262930,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 312378,
@@ -12020,7 +12036,7 @@
     },
     {
       "raw_hot": 281179,
-      "num": 133043,
+      "num": 154700,
       "word": "陈奕迅新歌盲婚哑嫁预告",
       "onboard_time": 1673261789,
       "rank": 40,
@@ -14883,14 +14899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217443,
-      "num": 217443,
-      "word": "这不得把老丈人迷死",
-      "onboard_time": 1673262268,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 216774,
       "num": 216774,
       "word": "女儿悄悄返家爸爸满眼是光",
@@ -15063,6 +15071,14 @@
       "num": 155619,
       "word": "林晓峰因超售向客人道歉退款",
       "onboard_time": 1672838611,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212784,
+      "num": 136544,
+      "word": "王鹤棣不爱吃猕猴桃",
+      "onboard_time": 1673263948,
       "rank": 40,
       "category": "综艺"
     },
@@ -17459,6 +17475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167570,
+      "num": 167570,
+      "word": "15岁狗去世前不吃饭默默躲进树林",
+      "onboard_time": 1673263349,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167422,
       "num": 104055,
       "word": "浮图缘原著肖铎喜欢兰花",
@@ -18819,6 +18843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142025,
+      "num": 142025,
+      "word": "送货司机称食品厂收坏果制作罐头",
+      "onboard_time": 1673262209,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141970,
       "num": 418534,
       "word": "这就是吃了打印机的手吧",
@@ -19073,6 +19105,14 @@
       "onboard_time": 1672988489,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138486,
+      "num": 138486,
+      "word": "LPL线下观赛开启",
+      "onboard_time": 1673261489,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 138464,
@@ -19345,14 +19385,6 @@
       "onboard_time": 1672668154,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133899,
-      "num": 133899,
-      "word": "LPL线下观赛开启",
-      "onboard_time": 1673261489,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 133411,
@@ -19632,14 +19664,6 @@
       "word": "救人男子回应被指不符英雄形象",
       "onboard_time": 1673212392,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128256,
-      "num": 128256,
-      "word": "送货司机称食品厂收坏果制作罐头",
-      "onboard_time": 1673262209,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -20705,14 +20729,6 @@
       "onboard_time": 1673103755,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 106912,
-      "num": 106912,
-      "word": "樊振东王楚钦4比0冯耀恩郭勇",
-      "onboard_time": 1673262930,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 106810,

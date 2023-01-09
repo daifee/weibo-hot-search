@@ -1,0 +1,410 @@
+{
+  "runTime": 1673264009350,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2299492,
+        "num": 2299492,
+        "word": "赵立坚已任边界与海洋事务司副司长",
+        "onboard_time": 1673261188,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1552244,
+        "num": 1552244,
+        "word": "演员李嘉明指责电视收费乱象",
+        "onboard_time": 1673257409,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 66557,
+        "num": 1486293,
+        "word": "当前疫情最新热点十问十答",
+        "onboard_time": 1673251830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1468859,
+        "num": 1468859,
+        "word": "1家8口到三亚过年嫌房租贵直接买房",
+        "onboard_time": 1673257830,
+        "rank": 3,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 690239,
+        "num": 690239,
+        "word": "女子10年前买1.8万钻戒如今值180元",
+        "onboard_time": 1673253090,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602378,
+        "num": 602378,
+        "word": "春晚",
+        "onboard_time": 1673237671,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599301,
+        "num": 599301,
+        "word": "泰国副总理赴机场迎接中国游客",
+        "onboard_time": 1673258848,
+        "rank": 6,
+        "category": "国外要闻,旅游"
+      },
+      {
+        "raw_hot": 559998,
+        "num": 559998,
+        "word": "丈夫摸孕妻胎动遭狗狗无情驱赶",
+        "onboard_time": 1673250390,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533308,
+        "num": 533308,
+        "word": "李宏毅 倒立洗头",
+        "onboard_time": 1673253690,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 497318,
+        "num": 497318,
+        "word": "人民币升破6.8",
+        "onboard_time": 1673256089,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 484564,
+        "num": 484564,
+        "word": "如何评价惠英红穿婚纱喊话水兵",
+        "onboard_time": 1673260830,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432139,
+        "num": 432139,
+        "word": "奥密克戎毒株致病性明显下降",
+        "onboard_time": 1673260768,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406271,
+        "num": 406271,
+        "word": "避谶",
+        "onboard_time": 1673251227,
+        "rank": 12,
+        "category": "综艺,情感"
+      },
+      {
+        "raw_hot": 373367,
+        "num": 373367,
+        "word": "一句你不敢发在朋友圈的话",
+        "onboard_time": 1673259267,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365988,
+        "num": 365988,
+        "word": "三体电视剧过审",
+        "onboard_time": 1673257348,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355178,
+        "num": 355178,
+        "word": "小伙帮妈熏腊肉130斤肉烧剩20多斤",
+        "onboard_time": 1673252788,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348579,
+        "num": 348579,
+        "word": "这不得把老丈人迷死",
+        "onboard_time": 1673262268,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 312434,
+        "num": 312434,
+        "word": "樊振东王楚钦4比0冯耀恩郭勇",
+        "onboard_time": 1673262930,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285621,
+        "num": 285621,
+        "word": "年会抽奖抽到了脏东西",
+        "onboard_time": 1673240309,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243157,
+        "num": 243157,
+        "word": "头像真的会影响第一印象吗",
+        "onboard_time": 1673255549,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359910,
+        "num": 240608,
+        "word": "鹿晗五哈杀猪",
+        "onboard_time": 1673249490,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349692,
+        "num": 236011,
+        "word": "林俊杰去了BLACKPINK演唱会",
+        "onboard_time": 1673251407,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 326286,
+        "num": 229847,
+        "word": "刘诗诗刘宇宁7秒吻戏",
+        "onboard_time": 1673250448,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223644,
+        "num": 223644,
+        "word": "皇马发声力挺齐达内",
+        "onboard_time": 1673258968,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219210,
+        "num": 219210,
+        "word": "年轻人是懂兔子谐音梗的",
+        "onboard_time": 1673251049,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325026,
+        "num": 216206,
+        "word": "鞠婧祎花棉袄造型",
+        "onboard_time": 1673261609,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195305,
+        "num": 195305,
+        "word": "北京不少市民收到移动奇怪短信",
+        "onboard_time": 1673245168,
+        "rank": 26,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 189198,
+        "num": 189198,
+        "word": "小偷砸车窗偷2千现金扔20万包",
+        "onboard_time": 1673251347,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179214,
+        "num": 179214,
+        "word": "主帅确认C罗首秀将对阵巴黎",
+        "onboard_time": 1673250089,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167570,
+        "num": 167570,
+        "word": "15岁狗去世前不吃饭默默躲进树林",
+        "onboard_time": 1673263349,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323157,
+        "num": 167570,
+        "word": "YG新女团成员正面生图",
+        "onboard_time": 1673255549,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315447,
+        "num": 166922,
+        "word": "顾南亭承认喜欢程霄",
+        "onboard_time": 1673259989,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235334,
+        "num": 164314,
+        "word": "刘亦菲齐刘海",
+        "onboard_time": 1673244148,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159330,
+        "num": 159330,
+        "word": "女子餐厅吃饭和桌布撞衫",
+        "onboard_time": 1673257227,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159423,
+        "num": 157769,
+        "word": "教育局回应长清一中高考听力卡顿",
+        "onboard_time": 1673249968,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 232365,
+        "num": 154700,
+        "word": "陈奕迅新歌盲婚哑嫁预告",
+        "onboard_time": 1673261789,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150784,
+        "num": 150784,
+        "word": "原神3.3版本",
+        "onboard_time": 1673258431,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144341,
+        "num": 144341,
+        "word": "我国部分地区将遭遇剧烈降温",
+        "onboard_time": 1673251649,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142025,
+        "num": 142025,
+        "word": "送货司机称食品厂收坏果制作罐头",
+        "onboard_time": 1673262209,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138486,
+        "num": 138486,
+        "word": "LPL线下观赛开启",
+        "onboard_time": 1673261489,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212784,
+        "num": 136544,
+        "word": "王鹤棣不爱吃猕猴桃",
+        "onboard_time": 1673263948,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133913,
+        "num": 133913,
+        "word": "9件事减轻阳康脑雾症状",
+        "onboard_time": 1673261729,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118354,
+        "num": 118354,
+        "word": "辉瑞Paxlovid医保谈判基本未降价",
+        "onboard_time": 1673253572,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115939,
+        "num": 115939,
+        "word": "猫咪的好奇心太重了",
+        "onboard_time": 1673252190,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110833,
+        "num": 110833,
+        "word": "张朝阳董宇辉谈工作的意义",
+        "onboard_time": 1673255790,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106372,
+        "num": 106372,
+        "word": "大学生寒假应聘搓澡工攒钱旅游",
+        "onboard_time": 1673248588,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106072,
+        "num": 106072,
+        "word": "林高远 新队服",
+        "onboard_time": 1673256747,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104041,
+        "num": 104041,
+        "word": "DK更换新队名队标",
+        "onboard_time": 1673252070,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100282,
+        "num": 100282,
+        "word": "Doinb 拒绝做细狗",
+        "onboard_time": 1673250028,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93198,
+        "num": 100228,
+        "word": "印航飞机上一银行副总裁对女乘客小便",
+        "onboard_time": 1673244205,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#形成共促高质量发展的合力#"
+    }
+  }
+}
