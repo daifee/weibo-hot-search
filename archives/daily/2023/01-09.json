@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673249593687,
+  "endTime": 1673252671826,
   "band_list": [
     {
       "raw_hot": 2094597,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1015231,
+      "num": 1015231,
+      "word": "避谶",
+      "onboard_time": 1673251227,
+      "rank": 1,
+      "category": "综艺,情感"
+    },
+    {
       "raw_hot": 958574,
       "num": 958574,
       "word": "贪官收下一箱水果打开是一百万现金",
@@ -139,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 904107,
+      "num": 437314,
+      "word": "林俊杰去了BLACKPINK演唱会",
+      "onboard_time": 1673251407,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 891604,
       "num": 448363,
       "word": "BLACKPINK演唱会官宣中国高雄澳门场",
@@ -169,6 +185,22 @@
       "onboard_time": 1673231247,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 839259,
+      "num": 435837,
+      "word": "于正说找赵晴的戏仅次于白鹿",
+      "onboard_time": 1673249847,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 831161,
+      "num": 435388,
+      "word": "鹿晗五哈杀猪",
+      "onboard_time": 1673249490,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 826089,
@@ -211,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795540,
+      "num": 795540,
+      "word": "丈夫摸孕妻胎动遭狗狗无情驱赶",
+      "onboard_time": 1673250390,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 783084,
       "num": 783084,
       "word": "2023央视春晚第三次大联排",
@@ -241,6 +281,22 @@
       "onboard_time": 1673244205,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 753204,
+      "num": 267297,
+      "word": "刘诗诗刘宇宁7秒吻戏",
+      "onboard_time": 1673250448,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 723039,
+      "num": 723039,
+      "word": "莎头",
+      "onboard_time": 1673250868,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 721063,
@@ -291,12 +347,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 653120,
+      "num": 653120,
+      "word": "大学生寒假应聘搓澡工攒钱旅游",
+      "onboard_time": 1673248588,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642360,
       "num": 642360,
       "word": "辉瑞新冠药为何不愿意放低姿态",
       "onboard_time": 1673222726,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632057,
+      "num": 266360,
+      "word": "张庭TST公司成被执行人",
+      "onboard_time": 1673251169,
+      "rank": 21,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 590022,
@@ -419,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517842,
+      "num": 265858,
+      "word": "唐嫣工作间隙会通过监控跟家人说话",
+      "onboard_time": 1673250748,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 513241,
       "num": 435239,
       "word": "邓超说中国乒乓演员练球卷得厉害",
@@ -523,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437933,
+      "num": 437933,
+      "word": "年轻人是懂兔子谐音梗的",
+      "onboard_time": 1673251049,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 431141,
       "num": 431141,
       "word": "李现对不起 我爱上了隔壁村草谢之遥",
@@ -563,6 +651,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 407643,
+      "num": 407643,
+      "word": "主帅确认C罗首秀将对阵巴黎",
+      "onboard_time": 1673250089,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 398990,
+      "num": 398990,
+      "word": "教育局回应长清一中高考听力卡顿",
+      "onboard_time": 1673249968,
+      "rank": 16,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 397614,
       "num": 207135,
       "word": "BLACKPINK全员互相比身高",
@@ -577,6 +681,14 @@
       "onboard_time": 1673245287,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 393919,
+      "num": 212262,
+      "word": "易烊千玺放松自我的方法就是真的放松自我",
+      "onboard_time": 1673251049,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 388553,
@@ -691,6 +803,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 345964,
+      "num": 345964,
+      "word": "小偷砸车窗偷2千现金扔20万包",
+      "onboard_time": 1673251347,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342593,
       "num": 342593,
       "word": "LOL龙王重做",
@@ -787,14 +907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 296694,
-      "num": 190489,
-      "word": "鹿晗五哈杀猪",
-      "onboard_time": 1673249490,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 295268,
       "num": 295268,
       "word": "老狼现场",
@@ -851,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268740,
+      "num": 268740,
+      "word": "Doinb 拒绝做细狗",
+      "onboard_time": 1673250028,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 268546,
       "num": 225932,
       "word": "白敬亭说初一必须穿红色",
@@ -873,6 +993,14 @@
       "onboard_time": 1673235750,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267859,
+      "num": 165057,
+      "word": "魏晨现身2023央视春晚第三次大联排",
+      "onboard_time": 1673252609,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 266388,
@@ -947,6 +1075,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233985,
+      "num": 233985,
+      "word": "王楚钦孙颖莎4比2冯耀恩王歆茹",
+      "onboard_time": 1673251711,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 227641,
+      "num": 227641,
+      "word": "废弃核酸检测亭何时能撤走",
+      "onboard_time": 1673250748,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226123,
       "num": 226123,
       "word": "这就是110",
@@ -969,6 +1113,14 @@
       "onboard_time": 1673229266,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222779,
+      "num": 222779,
+      "word": "云黎巅峰赛被气哭",
+      "onboard_time": 1673250267,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 221019,
@@ -1019,6 +1171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215550,
+      "num": 215550,
+      "word": "被一句慢点吃整破防了",
+      "onboard_time": 1673250988,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213299,
       "num": 213299,
       "word": "她好像一只灵动的小鹿啊",
@@ -1059,14 +1219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198234,
-      "num": 198380,
-      "word": "大学生寒假应聘搓澡工攒钱旅游",
-      "onboard_time": 1673248588,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193408,
       "num": 193408,
       "word": "曼城4比0切尔西",
@@ -1089,6 +1241,14 @@
       "onboard_time": 1673185473,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183111,
+      "num": 190538,
+      "word": "火力少年王还是过于保守了",
+      "onboard_time": 1673249129,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 181569,
@@ -1129,6 +1289,14 @@
       "onboard_time": 1673230765,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173569,
+      "num": 173569,
+      "word": "我国部分地区将遭遇剧烈降温",
+      "onboard_time": 1673251649,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173120,
@@ -1323,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129104,
+      "num": 164944,
+      "word": "猫咪的好奇心太重了",
+      "onboard_time": 1673252190,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129027,
       "num": 129027,
       "word": "篮网vs热火",
@@ -1411,12 +1587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114209,
-      "num": 190538,
-      "word": "火力少年王还是过于保守了",
-      "onboard_time": 1673249129,
-      "rank": 38,
-      "category": "幽默"
+      "raw_hot": 113824,
+      "num": 164844,
+      "word": "DK更换新队名队标",
+      "onboard_time": 1673252070,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 112610,
@@ -1483,6 +1659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103884,
+      "num": 164677,
+      "word": "这咖啡也太魔性了吧",
+      "onboard_time": 1673252609,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103028,
       "num": 199713,
       "word": "梁万年回应为何选在隆冬放开",
@@ -1537,6 +1721,14 @@
       "onboard_time": 1673186373,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98466,
+      "num": 165132,
+      "word": "天猫年度热销榜单发布",
+      "onboard_time": 1673251227,
+      "rank": 39,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 97416,
@@ -1635,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69068,
+      "num": 989716,
+      "word": "当前疫情最新热点十问十答",
+      "onboard_time": 1673251830,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67774,
       "num": 168949,
       "word": "航天院士陆元九迎来103岁生日",
@@ -1676,6 +1876,9 @@
     },
     {
       "word": "#第十版新冠病毒感染防控方案有何调整#"
+    },
+    {
+      "word": "#形成共促高质量发展的合力#"
     }
   ]
 }
