@@ -1,0 +1,410 @@
+{
+  "runTime": 1673239055105,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2053519,
+        "num": 2053519,
+        "word": "奶奶不舒服10分钟10位亲人赶来",
+        "onboard_time": 1673232147,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1438089,
+        "num": 1438089,
+        "word": "未成年寒假仅14小时游戏时间",
+        "onboard_time": 1673232685,
+        "rank": 1,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 834256,
+        "num": 1290651,
+        "word": "XBB会不会成为我国主要流行株",
+        "onboard_time": 1673234850,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1285079,
+        "num": 1285079,
+        "word": "春晚",
+        "onboard_time": 1673237671,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1106767,
+        "num": 1106767,
+        "word": "赵丽颖换上了深海糖豆儿的头像",
+        "onboard_time": 1673237127,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 844488,
+        "num": 844488,
+        "word": "两个县级一把手互相关照对方弟弟",
+        "onboard_time": 1673231247,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720072,
+        "num": 720072,
+        "word": "河南新冠病毒感染率近九成",
+        "onboard_time": 1673232325,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717406,
+        "num": 717406,
+        "word": "韩国飞中国机票一票难求",
+        "onboard_time": 1673220742,
+        "rank": 7,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 590851,
+        "num": 590851,
+        "word": "李现刘亦菲新剧掀大理旅游热",
+        "onboard_time": 1673232749,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556450,
+        "num": 556450,
+        "word": "突然觉得这工作好适合我",
+        "onboard_time": 1673236590,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 582705,
+        "num": 538237,
+        "word": "薛凯琪想了一年的梗被佘诗曼破了",
+        "onboard_time": 1673236768,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561682,
+        "num": 532455,
+        "word": "迪丽热巴龚俊安乐传集数变更",
+        "onboard_time": 1673234007,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487362,
+        "num": 487362,
+        "word": "扬州通报网传领导干部生活作风问题",
+        "onboard_time": 1673233288,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448068,
+        "num": 448068,
+        "word": "异地恋5年奔现被男友拉黑",
+        "onboard_time": 1673234007,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4416,
+        "num": 444768,
+        "word": "王冰冰的采访有多暖心",
+        "onboard_time": 1673236830,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442804,
+        "num": 442804,
+        "word": "1岁娃吃松子摔倒卡进气管脸憋紫",
+        "onboard_time": 1673235627,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435239,
+        "num": 435239,
+        "word": "邓超说中国乒乓演员练球卷得厉害",
+        "onboard_time": 1673234548,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382726,
+        "num": 382726,
+        "word": "巴西国会已被夺回约400人被捕",
+        "onboard_time": 1673234007,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 353112,
+        "num": 353112,
+        "word": "辉瑞新冠药为何不愿意放低姿态",
+        "onboard_time": 1673222726,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320478,
+        "num": 320478,
+        "word": "33岁男子酗酒20年骨头坏死",
+        "onboard_time": 1673234486,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420389,
+        "num": 317580,
+        "word": "日本版单身即地狱男嘉宾颜值",
+        "onboard_time": 1673234608,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407415,
+        "num": 302565,
+        "word": "命韵峋环登顶2022国产剧年度cp",
+        "onboard_time": 1673237487,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 527415,
+        "num": 295074,
+        "word": "朴彩英假装听懂Lisa说的泰语",
+        "onboard_time": 1673237730,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285653,
+        "num": 285653,
+        "word": "多家快递公司春节高薪留人",
+        "onboard_time": 1673228846,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280454,
+        "num": 280454,
+        "word": "乙类乙管为何不提前到夏天",
+        "onboard_time": 1673227825,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269473,
+        "num": 269473,
+        "word": "广东省考",
+        "onboard_time": 1673236290,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193632,
+        "num": 193632,
+        "word": "贪官受贿近3亿无视督导组整改意见",
+        "onboard_time": 1673217135,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186370,
+        "num": 186370,
+        "word": "为什么临期产品开始吸引年轻人",
+        "onboard_time": 1673221764,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178549,
+        "num": 178549,
+        "word": "女子6年跟丈夫结3次离2次婚",
+        "onboard_time": 1673230527,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174124,
+        "num": 174124,
+        "word": "狗狗被鞭炮吓到缩角落萌娃帮捂耳朵",
+        "onboard_time": 1673227406,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388959,
+        "num": 172506,
+        "word": "许红豆醉酒抱谢之遥",
+        "onboard_time": 1673232027,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386916,
+        "num": 168577,
+        "word": "河南春晚官宣阵容",
+        "onboard_time": 1673238451,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355791,
+        "num": 166199,
+        "word": "景甜冯绍峰灼灼风流杀青路透",
+        "onboard_time": 1673238329,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355246,
+        "num": 162746,
+        "word": "顾南亭程霄今晚沙发吻",
+        "onboard_time": 1673232685,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162150,
+        "num": 162150,
+        "word": "LOL龙王重做",
+        "onboard_time": 1673238571,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161582,
+        "num": 161582,
+        "word": "杭州西湖出现萌兔福气船",
+        "onboard_time": 1673234850,
+        "rank": 35,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 156374,
+        "num": 156374,
+        "word": "九尾超话破百万粉丝派对",
+        "onboard_time": 1673238691,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155993,
+        "num": 155993,
+        "word": "贪官收下一箱水果打开是一百万现金",
+        "onboard_time": 1673186853,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151595,
+        "num": 151595,
+        "word": "母亲离世患病女大学生独自照顾病父10年",
+        "onboard_time": 1673238510,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134965,
+        "num": 134965,
+        "word": "河南已顺利渡过疫情高峰",
+        "onboard_time": 1673233826,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342532,
+        "num": 133985,
+        "word": "王一博雷宇原型",
+        "onboard_time": 1673238873,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290692,
+        "num": 132044,
+        "word": "成毅英雄志造型路透",
+        "onboard_time": 1673237190,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129831,
+        "num": 129831,
+        "word": "快递小哥多少有点全能",
+        "onboard_time": 1673237309,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128650,
+        "num": 128650,
+        "word": "孕妇鞋带散开没法弯腰乘务员蹲下帮忙",
+        "onboard_time": 1673227105,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 124230,
+        "num": 124230,
+        "word": "瓜迪奥拉花式吹梅西",
+        "onboard_time": 1673230765,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118375,
+        "num": 118375,
+        "word": "巴黎vs利雅得友谊赛门票售罄",
+        "onboard_time": 1673226087,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116504,
+        "num": 116504,
+        "word": "杜兰特右膝受伤",
+        "onboard_time": 1673228126,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114996,
+        "num": 114996,
+        "word": "浙江武义天空出现超大鱼形云朵",
+        "onboard_time": 1673238809,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114852,
+        "num": 114852,
+        "word": "男子养2年多狗借同学配种反被卖",
+        "onboard_time": 1673199797,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102121,
+        "num": 102121,
+        "word": "黑猫警长2023特别篇",
+        "onboard_time": 1673234247,
+        "rank": 49,
+        "category": "动漫,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国活力#"
+    }
+  }
+}
