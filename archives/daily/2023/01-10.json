@@ -1,6 +1,6 @@
 {
   "startTime": 1673281966955,
-  "endTime": 1673285837552,
+  "endTime": 1673288625634,
   "band_list": [
     {
       "raw_hot": 1310196,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111895,
+      "num": 111895,
+      "word": "护士发烧晕倒同事用椅子推着就医",
+      "onboard_time": 1673284100,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108859,
       "num": 108859,
       "word": "保证公费师范生全部安排到中小学校任教",
@@ -371,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101990,
-      "num": 101990,
-      "word": "护士发烧晕倒同事用椅子推着就医",
-      "onboard_time": 1673284100,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 105895,
+      "num": 105895,
+      "word": "太快确定关系真的不会长久吗",
+      "onboard_time": 1673286496,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 100328,
@@ -465,6 +473,14 @@
       "onboard_time": 1673262268,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 55173,
+      "num": 39917,
+      "word": "苏醒一个人完成了接词游戏",
+      "onboard_time": 1673285957,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 54461,
