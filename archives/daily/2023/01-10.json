@@ -1,6 +1,6 @@
 {
   "startTime": 1673281966955,
-  "endTime": 1673281966955,
+  "endTime": 1673283076784,
   "band_list": [
     {
       "raw_hot": 1310196,
@@ -19,20 +19,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 964051,
+      "num": 289191,
+      "word": "黄锐自曝每月还欠款二十万",
+      "onboard_time": 1673279549,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 917849,
       "num": 290656,
       "word": "茅台董事长称买不起茅台还吃不起冰淇淋吗",
       "onboard_time": 1673270669,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 864218,
-      "num": 289191,
-      "word": "黄锐自曝每月还欠款二十万",
-      "onboard_time": 1673279549,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 824586,
@@ -91,8 +91,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 382311,
-      "num": 382311,
+      "raw_hot": 406771,
+      "num": 406771,
       "word": "医美的尽头到底是什么",
       "onboard_time": 1673279248,
       "rank": 8,
@@ -107,8 +107,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 284472,
-      "num": 284472,
+      "raw_hot": 289847,
+      "num": 289847,
       "word": "中国影视蓝皮书 投票",
       "onboard_time": 1673280029,
       "rank": 14,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 248556,
-      "num": 161791,
+      "num": 216668,
       "word": "黑暗荣耀 大婶",
       "onboard_time": 1673279188,
       "rank": 20,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 210553,
-      "num": 118085,
+      "num": 128429,
       "word": "去有风的地方不够看",
       "onboard_time": 1673278889,
       "rank": 30,
@@ -179,10 +179,34 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197068,
+      "num": 129770,
+      "word": "Lisa泰国见面会生图",
+      "onboard_time": 1673282425,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184472,
+      "num": 94440,
+      "word": "刘宇宁唱盗梦视频",
+      "onboard_time": 1673282843,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181862,
       "num": 114527,
       "word": "王一博无名长空之王梦幻联动",
       "onboard_time": 1673281824,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 179925,
+      "num": 94425,
+      "word": "长空之王",
+      "onboard_time": 1673282004,
       "rank": 31,
       "category": "影视"
     },
@@ -200,6 +224,38 @@
       "word": "奥密克戎毒株致病性明显下降",
       "onboard_time": 1673260768,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172278,
+      "num": 94392,
+      "word": "杜华为王一博长空之王打call",
+      "onboard_time": 1673279428,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 172043,
+      "num": 94408,
+      "word": "第一次被机场耍大牌爽到",
+      "onboard_time": 1673281285,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168604,
+      "num": 168604,
+      "word": "奥密克戎毒株肺炎发生率比德尔塔小",
+      "onboard_time": 1673280507,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168504,
+      "num": 168504,
+      "word": "他将同学聚会变成权钱交易所",
+      "onboard_time": 1673280329,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -227,28 +283,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 161295,
-      "num": 85473,
-      "word": "第一次被机场耍大牌爽到",
-      "onboard_time": 1673281285,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155060,
       "num": 85209,
       "word": "许红豆改口叫阿遥",
       "onboard_time": 1673273195,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 143671,
-      "num": 143671,
-      "word": "奥密克戎毒株肺炎发生率比德尔塔小",
-      "onboard_time": 1673280507,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140944,
@@ -267,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133132,
-      "num": 133132,
-      "word": "他将同学聚会变成权钱交易所",
-      "onboard_time": 1673280329,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 124501,
+      "num": 124501,
+      "word": "猫咪是怎么忍住不抢的",
+      "onboard_time": 1673280688,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 118782,
@@ -283,20 +323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117448,
+      "num": 117448,
+      "word": "第一次压轿的人类幼崽",
+      "onboard_time": 1673280628,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108859,
       "num": 108859,
       "word": "保证公费师范生全部安排到中小学校任教",
       "onboard_time": 1673264249,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 108617,
-      "num": 108617,
-      "word": "第一次压轿的人类幼崽",
-      "onboard_time": 1673280628,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 100328,
@@ -321,14 +361,6 @@
       "onboard_time": 1673270492,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86539,
-      "num": 86539,
-      "word": "猫咪是怎么忍住不抢的",
-      "onboard_time": 1673280688,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 84077,
@@ -363,8 +395,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69891,
-      "num": 69891,
+      "raw_hot": 70141,
+      "num": 70141,
       "word": "15岁狗去世前不吃饭默默躲进树林",
       "onboard_time": 1673263349,
       "rank": 46,
@@ -387,12 +419,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 56231,
+      "num": 56231,
+      "word": "河北农村为何遭遇停气",
+      "onboard_time": 1673282244,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54461,
       "num": 69766,
       "word": "没毛笔也能练书法",
       "onboard_time": 1673278228,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 53855,
+      "num": 53855,
+      "word": "保洁夹断猫腿与宠主就赔偿争执",
+      "onboard_time": 1673282785,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15191,
@@ -406,6 +454,9 @@
   "hotgov_list": [
     {
       "word": "#形成共促高质量发展的合力#"
+    },
+    {
+      "word": "#一刻不停推进全面从严治党#"
     }
   ]
 }

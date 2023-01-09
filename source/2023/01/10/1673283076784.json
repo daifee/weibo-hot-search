@@ -1,0 +1,410 @@
+{
+  "runTime": 1673283076784,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1218691,
+        "num": 1218691,
+        "word": "贝尔宣布退役",
+        "onboard_time": 1673279308,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 625214,
+        "num": 625214,
+        "word": "苹果耳机盒子不要丢",
+        "onboard_time": 1673264609,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 13060,
+        "num": 497666,
+        "word": "当前疫情最新热点十问十答",
+        "onboard_time": 1673251830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487593,
+        "num": 487593,
+        "word": "女孩博士毕业不社交遭妈妈吐槽",
+        "onboard_time": 1673276371,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447525,
+        "num": 447525,
+        "word": "1家8口到三亚过年嫌房租贵直接买房",
+        "onboard_time": 1673257830,
+        "rank": 4,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 437437,
+        "num": 437437,
+        "word": "鹅鸭杀",
+        "onboard_time": 1673272653,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 406771,
+        "num": 406771,
+        "word": "医美的尽头到底是什么",
+        "onboard_time": 1673279248,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289847,
+        "num": 289847,
+        "word": "中国影视蓝皮书 投票",
+        "onboard_time": 1673280029,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281161,
+        "num": 281161,
+        "word": "中国网友偶遇侃爷",
+        "onboard_time": 1673276014,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216668,
+        "num": 216668,
+        "word": "黑暗荣耀 大婶",
+        "onboard_time": 1673279188,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 964051,
+        "num": 214512,
+        "word": "黄锐自曝每月还欠款二十万",
+        "onboard_time": 1673279549,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 837720,
+        "num": 209519,
+        "word": "苍兰诀 投票",
+        "onboard_time": 1673276851,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 750769,
+        "num": 201017,
+        "word": "茅台董事长称买不起茅台还吃不起冰淇淋吗",
+        "onboard_time": 1673270669,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314615,
+        "num": 193959,
+        "word": "赵丽颖说情侣之间不能送水果梨",
+        "onboard_time": 1673272533,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193674,
+        "num": 193674,
+        "word": "原来妈妈才是恋爱高手",
+        "onboard_time": 1673276252,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182231,
+        "num": 182231,
+        "word": "被坐着睡觉的猫咪可爱到了",
+        "onboard_time": 1673277570,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173708,
+        "num": 173708,
+        "word": "奥比岛",
+        "onboard_time": 1673276672,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168604,
+        "num": 168604,
+        "word": "奥密克戎毒株肺炎发生率比德尔塔小",
+        "onboard_time": 1673280507,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168504,
+        "num": 168504,
+        "word": "他将同学聚会变成权钱交易所",
+        "onboard_time": 1673280329,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132579,
+        "num": 132579,
+        "word": "奥密克戎毒株致病性明显下降",
+        "onboard_time": 1673260768,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210337,
+        "num": 131669,
+        "word": "网红假装在国外",
+        "onboard_time": 1673266889,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197068,
+        "num": 129770,
+        "word": "Lisa泰国见面会生图",
+        "onboard_time": 1673282425,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194794,
+        "num": 128429,
+        "word": "去有风的地方不够看",
+        "onboard_time": 1673278889,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189125,
+        "num": 126737,
+        "word": "刘美含 圆满炸了",
+        "onboard_time": 1673275832,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126619,
+        "num": 126619,
+        "word": "1亿元阿兹夫定捐给中西部农村",
+        "onboard_time": 1673269950,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124501,
+        "num": 124501,
+        "word": "猫咪是怎么忍住不抢的",
+        "onboard_time": 1673280688,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117779,
+        "num": 117779,
+        "word": "洗完澡像换了一只狗狗",
+        "onboard_time": 1673274634,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117448,
+        "num": 117448,
+        "word": "第一次压轿的人类幼崽",
+        "onboard_time": 1673280628,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105699,
+        "num": 105699,
+        "word": "女子10年前买1.8万钻戒如今值180元",
+        "onboard_time": 1673253090,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94440,
+        "num": 94440,
+        "word": "小伙花280元从上海坐公交到北京",
+        "onboard_time": 1673264011,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184472,
+        "num": 94440,
+        "word": "刘宇宁唱盗梦视频",
+        "onboard_time": 1673282843,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179925,
+        "num": 94425,
+        "word": "长空之王",
+        "onboard_time": 1673282004,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172043,
+        "num": 94408,
+        "word": "第一次被机场耍大牌爽到",
+        "onboard_time": 1673281285,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172278,
+        "num": 94392,
+        "word": "杜华为王一博长空之王打call",
+        "onboard_time": 1673279428,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162762,
+        "num": 94374,
+        "word": "制片人回应陈飞宇张婧仪二搭",
+        "onboard_time": 1673273195,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94369,
+        "num": 94369,
+        "word": "贪官买房让商人出钱自己高价卖出",
+        "onboard_time": 1673275893,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93249,
+        "num": 93249,
+        "word": "狗狗从城市回老家两天狂炫5锅饭",
+        "onboard_time": 1673274033,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85178,
+        "num": 85178,
+        "word": "保证公费师范生全部安排到中小学校任教",
+        "onboard_time": 1673264249,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 75954,
+        "num": 75954,
+        "word": "欠北方的雪可能要还了",
+        "onboard_time": 1673270492,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75403,
+        "num": 75403,
+        "word": "喜欢哆啦A梦的原因找到了",
+        "onboard_time": 1673279849,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 157833,
+        "num": 75086,
+        "word": "依川川",
+        "onboard_time": 1673276132,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 71897,
+        "num": 71897,
+        "word": "你家12月电费多少钱",
+        "onboard_time": 1673266650,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70645,
+        "num": 70645,
+        "word": "这好大喜功的地方官用近7亿建公园",
+        "onboard_time": 1673271993,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70141,
+        "num": 70141,
+        "word": "15岁狗去世前不吃饭默默躲进树林",
+        "onboard_time": 1673263349,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62652,
+        "num": 62652,
+        "word": "一句你不敢发在朋友圈的话",
+        "onboard_time": 1673259267,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58834,
+        "num": 58834,
+        "word": "见义勇为受伤的南京胖哥举办婚礼",
+        "onboard_time": 1673273735,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57609,
+        "num": 57609,
+        "word": "人民币升破6.8",
+        "onboard_time": 1673256089,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56231,
+        "num": 56231,
+        "word": "河北农村为何遭遇停气",
+        "onboard_time": 1673282244,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53855,
+        "num": 53855,
+        "word": "保洁夹断猫腿与宠主就赔偿争执",
+        "onboard_time": 1673282785,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44097,
+        "num": 53782,
+        "word": "这不得把老丈人迷死",
+        "onboard_time": 1673262268,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#一刻不停推进全面从严治党#"
+    }
+  }
+}
