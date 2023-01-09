@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673252671826,
+  "endTime": 1673253491095,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -811,6 +811,14 @@
       "category": "科技,艺人"
     },
     {
+      "raw_hot": 1672674,
+      "num": 1672674,
+      "word": "避谶",
+      "onboard_time": 1673251227,
+      "rank": 1,
+      "category": "综艺,情感"
+    },
+    {
       "raw_hot": 1669392,
       "num": 1669392,
       "word": "专家建议不要生吃可生食鸡蛋",
@@ -849,6 +857,14 @@
       "onboard_time": 1672795768,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1622142,
+      "num": 1622142,
+      "word": "春晚",
+      "onboard_time": 1672723229,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1617979,
@@ -993,14 +1009,6 @@
       "onboard_time": 1672559430,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1531798,
-      "num": 1531798,
-      "word": "春晚",
-      "onboard_time": 1672723229,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1520786,
@@ -2163,14 +2171,6 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 1015231,
-      "num": 1015231,
-      "word": "避谶",
-      "onboard_time": 1673251227,
-      "rank": 1,
-      "category": "综艺,情感"
-    },
-    {
       "raw_hot": 1014824,
       "num": 1014824,
       "word": "原来穿制服真的会加分",
@@ -2249,6 +2249,14 @@
       "onboard_time": 1672534109,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1005738,
+      "num": 1005738,
+      "word": "丈夫摸孕妻胎动遭狗狗无情驱赶",
+      "onboard_time": 1673250390,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 997240,
@@ -2377,6 +2385,14 @@
       "onboard_time": 1673161588,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 955108,
+      "num": 955108,
+      "word": "林俊杰去了BLACKPINK演唱会",
+      "onboard_time": 1673251407,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 953736,
@@ -2633,14 +2649,6 @@
       "onboard_time": 1672988249,
       "rank": 19,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 904107,
-      "num": 437314,
-      "word": "林俊杰去了BLACKPINK演唱会",
-      "onboard_time": 1673251407,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 903883,
@@ -3068,7 +3076,7 @@
     },
     {
       "raw_hot": 831161,
-      "num": 435388,
+      "num": 511686,
       "word": "鹿晗五哈杀猪",
       "onboard_time": 1673249490,
       "rank": 40,
@@ -3337,14 +3345,6 @@
       "onboard_time": 1673012733,
       "rank": 30,
       "category": "情感,情感"
-    },
-    {
-      "raw_hot": 795540,
-      "num": 795540,
-      "word": "丈夫摸孕妻胎动遭狗狗无情驱赶",
-      "onboard_time": 1673250390,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 794572,
@@ -3652,7 +3652,7 @@
     },
     {
       "raw_hot": 753204,
-      "num": 267297,
+      "num": 441131,
       "word": "刘诗诗刘宇宁7秒吻戏",
       "onboard_time": 1673250448,
       "rank": 20,
@@ -3705,6 +3705,14 @@
       "onboard_time": 1672992031,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 747399,
+      "num": 508853,
+      "word": "张庭TST公司成被执行人",
+      "onboard_time": 1673251169,
+      "rank": 21,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 746011,
@@ -4721,14 +4729,6 @@
       "onboard_time": 1672971927,
       "rank": 14,
       "category": "军事"
-    },
-    {
-      "raw_hot": 632057,
-      "num": 266360,
-      "word": "张庭TST公司成被执行人",
-      "onboard_time": 1673251169,
-      "rank": 21,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 631481,
@@ -6035,6 +6035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 524287,
+      "num": 524287,
+      "word": "年轻人是懂兔子谐音梗的",
+      "onboard_time": 1673251049,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 524174,
       "num": 524174,
       "word": "杨紫余生请多指教日本宣传VCR",
@@ -6459,6 +6467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 503740,
+      "num": 503740,
+      "word": "小偷砸车窗偷2千现金扔20万包",
+      "onboard_time": 1673251347,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502646,
       "num": 502646,
       "word": "王一博说试飞员是非常危险的职业",
@@ -6561,6 +6577,14 @@
       "onboard_time": 1672737570,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 497176,
+      "num": 299035,
+      "word": "魏晨现身2023央视春晚第三次大联排",
+      "onboard_time": 1673252609,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 495279,
@@ -7299,6 +7323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 446872,
+      "num": 199372,
+      "word": "吴磊红色大衣",
+      "onboard_time": 1673252908,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 446800,
       "num": 446800,
       "word": "王一博电影无名的眼神戏",
@@ -7379,6 +7411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 443873,
+      "num": 443873,
+      "word": "教育局回应长清一中高考听力卡顿",
+      "onboard_time": 1673249968,
+      "rank": 16,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 443830,
       "num": 443830,
       "word": "TVB对话王嘉尔",
@@ -7457,14 +7497,6 @@
       "onboard_time": 1673147850,
       "rank": 46,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 437933,
-      "num": 437933,
-      "word": "年轻人是懂兔子谐音梗的",
-      "onboard_time": 1673251049,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 437877,
@@ -7923,6 +7955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 414244,
+      "num": 414244,
+      "word": "主帅确认C罗首秀将对阵巴黎",
+      "onboard_time": 1673250089,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 413984,
       "num": 413984,
       "word": "杨紫粉色海洋",
@@ -8057,14 +8097,6 @@
       "onboard_time": 1673181331,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 407643,
-      "num": 407643,
-      "word": "主帅确认C罗首秀将对阵巴黎",
-      "onboard_time": 1673250089,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 407344,
@@ -8257,14 +8289,6 @@
       "onboard_time": 1672912289,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 398990,
-      "num": 398990,
-      "word": "教育局回应长清一中高考听力卡顿",
-      "onboard_time": 1673249968,
-      "rank": 16,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 398943,
@@ -9755,14 +9779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 345964,
-      "num": 345964,
-      "word": "小偷砸车窗偷2千现金扔20万包",
-      "onboard_time": 1673251347,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345848,
       "num": 345848,
       "word": "唐嫣我们的客栈佟湘玉变装视频",
@@ -11243,6 +11259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295281,
+      "num": 295281,
+      "word": "Doinb 拒绝做细狗",
+      "onboard_time": 1673250028,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295268,
       "num": 295268,
       "word": "老狼现场",
@@ -12443,14 +12467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 268740,
-      "num": 268740,
-      "word": "Doinb 拒绝做细狗",
-      "onboard_time": 1673250028,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 268711,
       "num": 211608,
       "word": "在北京买房两居变两层",
@@ -12505,14 +12521,6 @@
       "onboard_time": 1672655492,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267859,
-      "num": 165057,
-      "word": "魏晨现身2023央视春晚第三次大联排",
-      "onboard_time": 1673252609,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 267792,
@@ -12771,6 +12779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260786,
+      "num": 260786,
+      "word": "我国部分地区将遭遇剧烈降温",
+      "onboard_time": 1673251649,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260706,
       "num": 231330,
       "word": "老丈人酒后给女婿表演铁头功碎砖头",
@@ -12985,6 +13001,14 @@
       "onboard_time": 1672924233,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255521,
+      "num": 255521,
+      "word": "王楚钦孙颖莎4比2冯耀恩王歆茹",
+      "onboard_time": 1673251711,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 255487,
@@ -13483,6 +13507,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 243504,
+      "num": 243504,
+      "word": "废弃核酸检测亭何时能撤走",
+      "onboard_time": 1673250748,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243400,
       "num": 174238,
       "word": "凌晨坐房顶大哭说不想结婚",
@@ -13907,14 +13939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233985,
-      "num": 233985,
-      "word": "王楚钦孙颖莎4比2冯耀恩王歆茹",
-      "onboard_time": 1673251711,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 233728,
       "num": 196249,
       "word": "去有风的地方中的人情世故",
@@ -14219,14 +14243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227641,
-      "num": 227641,
-      "word": "废弃核酸检测亭何时能撤走",
-      "onboard_time": 1673250748,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227553,
       "num": 227553,
       "word": "LNG对战IGY",
@@ -14339,6 +14355,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 224752,
+      "num": 224752,
+      "word": "云黎巅峰赛被气哭",
+      "onboard_time": 1673250267,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224452,
       "num": 171852,
       "word": "雷佳音15秒说136字台词",
@@ -14425,14 +14449,6 @@
       "onboard_time": 1672728029,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222779,
-      "num": 222779,
-      "word": "云黎巅峰赛被气哭",
-      "onboard_time": 1673250267,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 222639,
@@ -14745,6 +14761,14 @@
       "onboard_time": 1673250988,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215523,
+      "num": 215523,
+      "word": "小伙帮妈熏腊肉130斤肉烧剩20多斤",
+      "onboard_time": 1673252788,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215411,
@@ -15875,6 +15899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190059,
+      "num": 190059,
+      "word": "女子10年前买1.8万钻戒如今值180元",
+      "onboard_time": 1673253090,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189478,
       "num": 189478,
       "word": "当代人是懂跨年的",
@@ -16265,6 +16297,14 @@
       "onboard_time": 1673081191,
       "rank": 28,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 182945,
+      "num": 182945,
+      "word": "猫咪的好奇心太重了",
+      "onboard_time": 1673252190,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 182750,
@@ -16891,14 +16931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173569,
-      "num": 173569,
-      "word": "我国部分地区将遭遇剧烈降温",
-      "onboard_time": 1673251649,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173298,
       "num": 324883,
       "word": "没想到炒饭能炒成这样",
@@ -16985,6 +17017,14 @@
       "onboard_time": 1672721376,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171398,
+      "num": 171398,
+      "word": "DK更换新队名队标",
+      "onboard_time": 1673252070,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 171378,
@@ -18787,6 +18827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138300,
+      "num": 138300,
+      "word": "研究表明志向远大可降低死亡风险",
+      "onboard_time": 1673252550,
+      "rank": 46,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 137738,
       "num": 137738,
       "word": "儿童发生热性惊厥后不可强行按压",
@@ -19257,14 +19305,6 @@
       "onboard_time": 1673103097,
       "rank": 38,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 129104,
-      "num": 164944,
-      "word": "猫咪的好奇心太重了",
-      "onboard_time": 1673252190,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 129027,
@@ -20115,14 +20155,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 113824,
-      "num": 164844,
-      "word": "DK更换新队名队标",
-      "onboard_time": 1673252070,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 113596,
       "num": 113596,
       "word": "世界100座高桥有51座在贵州",
@@ -20771,6 +20803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 99301,
+      "num": 1066054,
+      "word": "当前疫情最新热点十问十答",
+      "onboard_time": 1673251830,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98543,
       "num": 263911,
       "word": "被结冰静止的海面惊艳了",
@@ -20780,7 +20820,7 @@
     },
     {
       "raw_hot": 98466,
-      "num": 165132,
+      "num": 168097,
       "word": "天猫年度热销榜单发布",
       "onboard_time": 1673251227,
       "rank": 39,
@@ -21353,14 +21393,6 @@
       "onboard_time": 1673029215,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 69068,
-      "num": 989716,
-      "word": "当前疫情最新热点十问十答",
-      "onboard_time": 1673251830,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68603,

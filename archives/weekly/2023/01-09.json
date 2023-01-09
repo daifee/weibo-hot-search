@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673252671826,
+  "endTime": 1673253491095,
   "band_list": [
     {
       "raw_hot": 2094597,
@@ -27,6 +27,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1672674,
+      "num": 1672674,
+      "word": "避谶",
+      "onboard_time": 1673251227,
+      "rank": 1,
+      "category": "综艺,情感"
+    },
+    {
+      "raw_hot": 1622142,
+      "num": 1622142,
+      "word": "春晚",
+      "onboard_time": 1673237671,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1588406,
       "num": 1049507,
       "word": "刘亦菲齐刘海",
@@ -41,14 +57,6 @@
       "onboard_time": 1673232685,
       "rank": 1,
       "category": "游戏,社会新闻"
-    },
-    {
-      "raw_hot": 1520041,
-      "num": 1520041,
-      "word": "春晚",
-      "onboard_time": 1673237671,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1255901,
@@ -99,12 +107,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1015231,
-      "num": 1015231,
-      "word": "避谶",
-      "onboard_time": 1673251227,
-      "rank": 1,
-      "category": "综艺,情感"
+      "raw_hot": 1005738,
+      "num": 1005738,
+      "word": "丈夫摸孕妻胎动遭狗狗无情驱赶",
+      "onboard_time": 1673250390,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 958574,
@@ -113,6 +121,14 @@
       "onboard_time": 1673186853,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 955108,
+      "num": 955108,
+      "word": "林俊杰去了BLACKPINK演唱会",
+      "onboard_time": 1673251407,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 945303,
@@ -145,14 +161,6 @@
       "onboard_time": 1673241629,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 904107,
-      "num": 437314,
-      "word": "林俊杰去了BLACKPINK演唱会",
-      "onboard_time": 1673251407,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 891604,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 831161,
-      "num": 435388,
+      "num": 511686,
       "word": "鹿晗五哈杀猪",
       "onboard_time": 1673249490,
       "rank": 40,
@@ -243,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 795540,
-      "num": 795540,
-      "word": "丈夫摸孕妻胎动遭狗狗无情驱赶",
-      "onboard_time": 1673250390,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 783084,
       "num": 783084,
       "word": "2023央视春晚第三次大联排",
@@ -284,11 +284,19 @@
     },
     {
       "raw_hot": 753204,
-      "num": 267297,
+      "num": 441131,
       "word": "刘诗诗刘宇宁7秒吻戏",
       "onboard_time": 1673250448,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 747399,
+      "num": 508853,
+      "word": "张庭TST公司成被执行人",
+      "onboard_time": 1673251169,
+      "rank": 21,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 723039,
@@ -361,14 +369,6 @@
       "onboard_time": 1673222726,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 632057,
-      "num": 266360,
-      "word": "张庭TST公司成被执行人",
-      "onboard_time": 1673251169,
-      "rank": 21,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 590022,
@@ -483,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 524287,
+      "num": 524287,
+      "word": "年轻人是懂兔子谐音梗的",
+      "onboard_time": 1673251049,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 518345,
       "num": 518345,
       "word": "姑娘坐火车来京见男友却被拉黑哭着求助民警",
@@ -523,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 503740,
+      "num": 503740,
+      "word": "小偷砸车窗偷2千现金扔20万包",
+      "onboard_time": 1673251347,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500703,
       "num": 500703,
       "word": "姚迪确认将出国打球",
@@ -537,6 +553,14 @@
       "onboard_time": 1673192792,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497176,
+      "num": 299035,
+      "word": "魏晨现身2023央视春晚第三次大联排",
+      "onboard_time": 1673252609,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 492568,
@@ -587,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 446872,
+      "num": 199372,
+      "word": "吴磊红色大衣",
+      "onboard_time": 1673252908,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 444243,
       "num": 444243,
       "word": "美国男子持假枪抢劫被反杀",
@@ -595,20 +627,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443873,
+      "num": 443873,
+      "word": "教育局回应长清一中高考听力卡顿",
+      "onboard_time": 1673249968,
+      "rank": 16,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 442804,
       "num": 442804,
       "word": "1岁娃吃松子摔倒卡进气管脸憋紫",
       "onboard_time": 1673235627,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 437933,
-      "num": 437933,
-      "word": "年轻人是懂兔子谐音梗的",
-      "onboard_time": 1673251049,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 431141,
@@ -635,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414244,
+      "num": 414244,
+      "word": "主帅确认C罗首秀将对阵巴黎",
+      "onboard_time": 1673250089,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 410529,
       "num": 400842,
       "word": "许光汉 请别",
@@ -649,22 +689,6 @@
       "onboard_time": 1673230348,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 407643,
-      "num": 407643,
-      "word": "主帅确认C罗首秀将对阵巴黎",
-      "onboard_time": 1673250089,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 398990,
-      "num": 398990,
-      "word": "教育局回应长清一中高考听力卡顿",
-      "onboard_time": 1673249968,
-      "rank": 16,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 397614,
@@ -803,14 +827,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 345964,
-      "num": 345964,
-      "word": "小偷砸车窗偷2千现金扔20万包",
-      "onboard_time": 1673251347,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342593,
       "num": 342593,
       "word": "LOL龙王重做",
@@ -907,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295281,
+      "num": 295281,
+      "word": "Doinb 拒绝做细狗",
+      "onboard_time": 1673250028,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295268,
       "num": 295268,
       "word": "老狼现场",
@@ -963,14 +987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268740,
-      "num": 268740,
-      "word": "Doinb 拒绝做细狗",
-      "onboard_time": 1673250028,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 268546,
       "num": 225932,
       "word": "白敬亭说初一必须穿红色",
@@ -995,14 +1011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267859,
-      "num": 165057,
-      "word": "魏晨现身2023央视春晚第三次大联排",
-      "onboard_time": 1673252609,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266388,
       "num": 115816,
       "word": "曾黎给王鹤棣哭戏配音",
@@ -1011,12 +1019,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260786,
+      "num": 260786,
+      "word": "我国部分地区将遭遇剧烈降温",
+      "onboard_time": 1673251649,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260455,
       "num": 260455,
       "word": "超8成年轻人回家只想带自己",
       "onboard_time": 1673240731,
       "rank": 38,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 255521,
+      "num": 255521,
+      "word": "王楚钦孙颖莎4比2冯耀恩王歆茹",
+      "onboard_time": 1673251711,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 253735,
@@ -1041,6 +1065,14 @@
       "onboard_time": 1673243908,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243504,
+      "num": 243504,
+      "word": "废弃核酸检测亭何时能撤走",
+      "onboard_time": 1673250748,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238672,
@@ -1075,22 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233985,
-      "num": 233985,
-      "word": "王楚钦孙颖莎4比2冯耀恩王歆茹",
-      "onboard_time": 1673251711,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 227641,
-      "num": 227641,
-      "word": "废弃核酸检测亭何时能撤走",
-      "onboard_time": 1673250748,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226123,
       "num": 226123,
       "word": "这就是110",
@@ -1107,20 +1123,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 224752,
+      "num": 224752,
+      "word": "云黎巅峰赛被气哭",
+      "onboard_time": 1673250267,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223952,
       "num": 223952,
       "word": "恢复期这9件事一定要注意",
       "onboard_time": 1673229266,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222779,
-      "num": 222779,
-      "word": "云黎巅峰赛被气哭",
-      "onboard_time": 1673250267,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 221019,
@@ -1179,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215523,
+      "num": 215523,
+      "word": "小伙帮妈熏腊肉130斤肉烧剩20多斤",
+      "onboard_time": 1673252788,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213299,
       "num": 213299,
       "word": "她好像一只灵动的小鹿啊",
@@ -1235,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190059,
+      "num": 190059,
+      "word": "女子10年前买1.8万钻戒如今值180元",
+      "onboard_time": 1673253090,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187469,
       "num": 187469,
       "word": "女子买200万豪车亲友400箱礼花庆贺",
@@ -1248,6 +1280,14 @@
       "word": "火力少年王还是过于保守了",
       "onboard_time": 1673249129,
       "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 182945,
+      "num": 182945,
+      "word": "猫咪的好奇心太重了",
+      "onboard_time": 1673252190,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -1291,20 +1331,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173569,
-      "num": 173569,
-      "word": "我国部分地区将遭遇剧烈降温",
-      "onboard_time": 1673251649,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173120,
       "num": 173120,
       "word": "黑猫警长2023特别篇",
       "onboard_time": 1673234247,
       "rank": 45,
       "category": "动漫,社会新闻"
+    },
+    {
+      "raw_hot": 171398,
+      "num": 171398,
+      "word": "DK更换新队名队标",
+      "onboard_time": 1673252070,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 169479,
@@ -1451,6 +1491,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 138300,
+      "num": 138300,
+      "word": "研究表明志向远大可降低死亡风险",
+      "onboard_time": 1673252550,
+      "rank": 46,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 136874,
       "num": 136874,
       "word": "这些话讲给长辈们听",
@@ -1489,14 +1537,6 @@
       "onboard_time": 1673237309,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129104,
-      "num": 164944,
-      "word": "猫咪的好奇心太重了",
-      "onboard_time": 1673252190,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 129027,
@@ -1585,14 +1625,6 @@
       "onboard_time": 1673178391,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113824,
-      "num": 164844,
-      "word": "DK更换新队名队标",
-      "onboard_time": 1673252070,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 112610,
@@ -1723,8 +1755,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99301,
+      "num": 1066054,
+      "word": "当前疫情最新热点十问十答",
+      "onboard_time": 1673251830,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98466,
-      "num": 165132,
+      "num": 168097,
       "word": "天猫年度热销榜单发布",
       "onboard_time": 1673251227,
       "rank": 39,
@@ -1824,14 +1864,6 @@
       "word": "县一把手变一霸手帮弟弟揽工程",
       "onboard_time": 1673188357,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69068,
-      "num": 989716,
-      "word": "当前疫情最新热点十问十答",
-      "onboard_time": 1673251830,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

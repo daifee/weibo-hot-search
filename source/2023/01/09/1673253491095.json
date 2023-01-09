@@ -1,0 +1,410 @@
+{
+  "runTime": 1673253491095,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1672674,
+        "num": 1672674,
+        "word": "避谶",
+        "onboard_time": 1673251227,
+        "rank": 0,
+        "category": "综艺,情感"
+      },
+      {
+        "raw_hot": 1622142,
+        "num": 1622142,
+        "word": "春晚",
+        "onboard_time": 1673237671,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99301,
+        "num": 1066054,
+        "word": "当前疫情最新热点十问十答",
+        "onboard_time": 1673251830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005738,
+        "num": 1005738,
+        "word": "丈夫摸孕妻胎动遭狗狗无情驱赶",
+        "onboard_time": 1673250390,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955108,
+        "num": 955108,
+        "word": "林俊杰去了BLACKPINK演唱会",
+        "onboard_time": 1673251407,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 761584,
+        "num": 761584,
+        "word": "年会抽奖抽到了脏东西",
+        "onboard_time": 1673240309,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 661627,
+        "num": 661627,
+        "word": "北京不少市民收到移动奇怪短信",
+        "onboard_time": 1673245168,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 603334,
+        "num": 603334,
+        "word": "大学生寒假应聘搓澡工攒钱旅游",
+        "onboard_time": 1673248588,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586572,
+        "num": 586572,
+        "word": "莎头",
+        "onboard_time": 1673250868,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524287,
+        "num": 524287,
+        "word": "年轻人是懂兔子谐音梗的",
+        "onboard_time": 1673251049,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 831432,
+        "num": 514100,
+        "word": "刘亦菲齐刘海",
+        "onboard_time": 1673244148,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 763734,
+        "num": 511686,
+        "word": "鹿晗五哈杀猪",
+        "onboard_time": 1673249490,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 747399,
+        "num": 508853,
+        "word": "张庭TST公司成被执行人",
+        "onboard_time": 1673251169,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 503740,
+        "num": 503740,
+        "word": "小偷砸车窗偷2千现金扔20万包",
+        "onboard_time": 1673251347,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443873,
+        "num": 443873,
+        "word": "教育局回应长清一中高考听力卡顿",
+        "onboard_time": 1673249968,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 709422,
+        "num": 441131,
+        "word": "刘诗诗刘宇宁7秒吻戏",
+        "onboard_time": 1673250448,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414244,
+        "num": 414244,
+        "word": "主帅确认C罗首秀将对阵巴黎",
+        "onboard_time": 1673250089,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358102,
+        "num": 358102,
+        "word": "印航飞机上一银行副总裁对女乘客小便",
+        "onboard_time": 1673244205,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336948,
+        "num": 336948,
+        "word": "奶奶不舒服10分钟10位亲人赶来",
+        "onboard_time": 1673232147,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305504,
+        "num": 305504,
+        "word": "女子结婚在婚宴上安排前男友桌",
+        "onboard_time": 1673244447,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648268,
+        "num": 300666,
+        "word": "于正说找赵晴的戏仅次于白鹿",
+        "onboard_time": 1673249847,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497176,
+        "num": 299035,
+        "word": "魏晨现身2023央视春晚第三次大联排",
+        "onboard_time": 1673252609,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295281,
+        "num": 295281,
+        "word": "Doinb 拒绝做细狗",
+        "onboard_time": 1673250028,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260786,
+        "num": 260786,
+        "word": "我国部分地区将遭遇剧烈降温",
+        "onboard_time": 1673251649,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255521,
+        "num": 255521,
+        "word": "王楚钦孙颖莎4比2冯耀恩王歆茹",
+        "onboard_time": 1673251711,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243504,
+        "num": 243504,
+        "word": "废弃核酸检测亭何时能撤走",
+        "onboard_time": 1673250748,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235051,
+        "num": 235051,
+        "word": "有一家五口至今没中招",
+        "onboard_time": 1673241868,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224752,
+        "num": 224752,
+        "word": "云黎巅峰赛被气哭",
+        "onboard_time": 1673250267,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215523,
+        "num": 215523,
+        "word": "小伙帮妈熏腊肉130斤肉烧剩20多斤",
+        "onboard_time": 1673252788,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200938,
+        "num": 200938,
+        "word": "00后办年味的方式有多绝",
+        "onboard_time": 1673247328,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 446872,
+        "num": 199372,
+        "word": "吴磊红色大衣",
+        "onboard_time": 1673252908,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442763,
+        "num": 197512,
+        "word": "唐嫣工作间隙会通过监控跟家人说话",
+        "onboard_time": 1673250748,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433503,
+        "num": 194646,
+        "word": "沈腾马丽同款羽绒服",
+        "onboard_time": 1673248886,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404425,
+        "num": 191858,
+        "word": "惠英红 水兵",
+        "onboard_time": 1673240968,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190059,
+        "num": 190059,
+        "word": "女子10年前买1.8万钻戒如今值180元",
+        "onboard_time": 1673253090,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182945,
+        "num": 182945,
+        "word": "猫咪的好奇心太重了",
+        "onboard_time": 1673252190,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171900,
+        "num": 171900,
+        "word": "XBB会不会成为我国主要流行株",
+        "onboard_time": 1673234850,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171398,
+        "num": 171398,
+        "word": "DK更换新队名队标",
+        "onboard_time": 1673252070,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169538,
+        "num": 169538,
+        "word": "核潜艇总设计师张金麟逝世",
+        "onboard_time": 1673247689,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60170,
+        "num": 168097,
+        "word": "天猫年度热销榜单发布",
+        "onboard_time": 1673251227,
+        "rank": 39,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 381518,
+        "num": 168095,
+        "word": "2023央视春晚第三次大联排",
+        "onboard_time": 1673243548,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317263,
+        "num": 168094,
+        "word": "易烊千玺放松自我的方法就是真的放松自我",
+        "onboard_time": 1673251049,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168094,
+        "num": 168093,
+        "word": "被一句慢点吃整破防了",
+        "onboard_time": 1673250988,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157024,
+        "num": 157024,
+        "word": "火力少年王还是过于保守了",
+        "onboard_time": 1673249129,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142240,
+        "num": 142240,
+        "word": "异地恋5年奔现被男友拉黑",
+        "onboard_time": 1673234007,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139006,
+        "num": 139006,
+        "word": "Uzi传奇卡评分公布",
+        "onboard_time": 1673243849,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138300,
+        "num": 138300,
+        "word": "研究表明志向远大可降低死亡风险",
+        "onboard_time": 1673252550,
+        "rank": 46,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 129032,
+        "num": 129032,
+        "word": "未成年寒假仅14小时游戏时间",
+        "onboard_time": 1673232685,
+        "rank": 47,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 114735,
+        "num": 114735,
+        "word": "女孩遇到面部有同款胎记的猫咪",
+        "onboard_time": 1673241389,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106994,
+        "num": 114600,
+        "word": "icon锐评国服",
+        "onboard_time": 1673246428,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#第十版新冠病毒感染防控方案有何调整#"
+    }
+  }
+}
