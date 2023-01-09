@@ -1,0 +1,410 @@
+{
+  "runTime": 1673245431848,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1920839,
+        "num": 1920839,
+        "word": "年会抽奖抽到了脏东西",
+        "onboard_time": 1673240309,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1155919,
+        "num": 1155919,
+        "word": "春晚",
+        "onboard_time": 1673237671,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395136,
+        "num": 946792,
+        "word": "XBB会不会成为我国主要流行株",
+        "onboard_time": 1673234850,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1441840,
+        "num": 930788,
+        "word": "刘亦菲齐刘海",
+        "onboard_time": 1673244148,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 909107,
+        "num": 909107,
+        "word": "胡歌古装",
+        "onboard_time": 1673241629,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 857347,
+        "num": 857347,
+        "word": "奶奶不舒服10分钟10位亲人赶来",
+        "onboard_time": 1673232147,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754027,
+        "num": 754027,
+        "word": "有一家五口至今没中招",
+        "onboard_time": 1673241868,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430463,
+        "num": 430463,
+        "word": "女孩遇到面部有同款胎记的猫咪",
+        "onboard_time": 1673241389,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412366,
+        "num": 412366,
+        "word": "两个县级一把手互相关照对方弟弟",
+        "onboard_time": 1673231247,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349713,
+        "num": 349713,
+        "word": "异地恋5年奔现被男友拉黑",
+        "onboard_time": 1673234007,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109829,
+        "num": 341797,
+        "word": "惠英红 水兵",
+        "onboard_time": 1673240968,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 742779,
+        "num": 335503,
+        "word": "2023央视春晚第三次大联排",
+        "onboard_time": 1673243548,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 681419,
+        "num": 329200,
+        "word": "瞒报行程被判4年司机发声",
+        "onboard_time": 1673243788,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451172,
+        "num": 314963,
+        "word": "赵丽颖换上了深海糖豆儿的头像",
+        "onboard_time": 1673237127,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 890269,
+        "num": 310832,
+        "word": "商场回应爱马仕开业请道士做法",
+        "onboard_time": 1673240849,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302554,
+        "num": 302554,
+        "word": "未成年寒假仅14小时游戏时间",
+        "onboard_time": 1673232685,
+        "rank": 15,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 268111,
+        "num": 268111,
+        "word": "Uzi传奇卡评分公布",
+        "onboard_time": 1673243849,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244908,
+        "num": 244908,
+        "word": "韩国飞中国机票一票难求",
+        "onboard_time": 1673220742,
+        "rank": 17,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 232243,
+        "num": 232243,
+        "word": "女子结婚在婚宴上安排前男友桌",
+        "onboard_time": 1673244447,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226705,
+        "num": 226705,
+        "word": "巴西国会已被夺回约400人被捕",
+        "onboard_time": 1673234007,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 440742,
+        "num": 221843,
+        "word": "BLACKPINK演唱会官宣中国高雄澳门场",
+        "onboard_time": 1673239232,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217671,
+        "num": 213441,
+        "word": "河南新冠病毒感染率近九成",
+        "onboard_time": 1673232325,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393965,
+        "num": 211190,
+        "word": "扬州通报网传领导干部生活作风问题",
+        "onboard_time": 1673233288,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392920,
+        "num": 202171,
+        "word": "薛凯琪想了一年的梗被佘诗曼破了",
+        "onboard_time": 1673236768,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286104,
+        "num": 195471,
+        "word": "肖战两部剧入围年度全端最佳剧集名单",
+        "onboard_time": 1673245227,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275092,
+        "num": 189404,
+        "word": "周冬雨演的航空医生沈天然",
+        "onboard_time": 1673242468,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185220,
+        "num": 185220,
+        "word": "超8成年轻人回家只想带自己",
+        "onboard_time": 1673240731,
+        "rank": 26,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 180848,
+        "num": 180848,
+        "word": "突然觉得这工作好适合我",
+        "onboard_time": 1673236590,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 179817,
+        "num": 179817,
+        "word": "1岁娃吃松子摔倒卡进气管脸憋紫",
+        "onboard_time": 1673235627,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168425,
+        "num": 168425,
+        "word": "在外打工不如回家种西红柿",
+        "onboard_time": 1673244087,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 306776,
+        "num": 168019,
+        "word": "印航飞机上一银行副总裁对女乘客小便",
+        "onboard_time": 1673244205,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255997,
+        "num": 167926,
+        "word": "白敬亭两部剧入围年度全端热度剧集名单",
+        "onboard_time": 1673245287,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250078,
+        "num": 167825,
+        "word": "seventeen新综艺预告",
+        "onboard_time": 1673243908,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167289,
+        "num": 167289,
+        "word": "LOL龙王重做",
+        "onboard_time": 1673238571,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226813,
+        "num": 167271,
+        "word": "BLACKPINK全员互相比身高",
+        "onboard_time": 1673243249,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136934,
+        "num": 166607,
+        "word": "浙江武义天空出现超大鱼形云朵",
+        "onboard_time": 1673238809,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127740,
+        "num": 165985,
+        "word": "33岁男子酗酒20年骨头坏死",
+        "onboard_time": 1673234486,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125947,
+        "num": 165125,
+        "word": "母亲离世患病女大学生独自照顾病父10年",
+        "onboard_time": 1673238510,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123522,
+        "num": 164560,
+        "word": "6旬父亲摔倒睡觉儿子飞奔护住头",
+        "onboard_time": 1673239950,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121104,
+        "num": 163806,
+        "word": "辉瑞新冠药为何不愿意放低姿态",
+        "onboard_time": 1673222726,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220857,
+        "num": 163521,
+        "word": "英雄志开机成毅李一桐互让C位",
+        "onboard_time": 1673243728,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214626,
+        "num": 162701,
+        "word": "黄欣苑说和Lisa互动的不是她",
+        "onboard_time": 1673231549,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203714,
+        "num": 162229,
+        "word": "顾南亭程霄今晚沙发吻",
+        "onboard_time": 1673232685,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113541,
+        "num": 161595,
+        "word": "广东省考",
+        "onboard_time": 1673236290,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98363,
+        "num": 160809,
+        "word": "九尾超话破百万粉丝派对",
+        "onboard_time": 1673238691,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96958,
+        "num": 160311,
+        "word": "张伯礼称将经历一段疫情反复期",
+        "onboard_time": 1673244807,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96179,
+        "num": 159958,
+        "word": "多家快递公司春节高薪留人",
+        "onboard_time": 1673228846,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90001,
+        "num": 159320,
+        "word": "北京不少市民收到移动奇怪短信",
+        "onboard_time": 1673245168,
+        "rank": 47,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 69584,
+        "num": 158517,
+        "word": "河南已顺利渡过疫情高峰",
+        "onboard_time": 1673233826,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66201,
+        "num": 158126,
+        "word": "为什么临期产品开始吸引年轻人",
+        "onboard_time": 1673221764,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第十版新冠病毒感染防控方案有何调整#"
+    }
+  }
+}
