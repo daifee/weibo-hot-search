@@ -1,0 +1,411 @@
+{
+  "startTime": 1673281966955,
+  "endTime": 1673281966955,
+  "band_list": [
+    {
+      "raw_hot": 1310196,
+      "num": 1310196,
+      "word": "贝尔宣布退役",
+      "onboard_time": 1673279308,
+      "rank": 0,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 1112163,
+      "num": 293085,
+      "word": "苍兰诀 投票",
+      "onboard_time": 1673276851,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 917849,
+      "num": 290656,
+      "word": "茅台董事长称买不起茅台还吃不起冰淇淋吗",
+      "onboard_time": 1673270669,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 864218,
+      "num": 289191,
+      "word": "黄锐自曝每月还欠款二十万",
+      "onboard_time": 1673279549,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 824586,
+      "num": 661062,
+      "word": "河南新冠病毒感染率为89.0%",
+      "onboard_time": 1673278529,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 681826,
+      "num": 681826,
+      "word": "苹果耳机盒子不要丢",
+      "onboard_time": 1673264609,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 654274,
+      "num": 654274,
+      "word": "女孩博士毕业不社交遭妈妈吐槽",
+      "onboard_time": 1673276371,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545965,
+      "num": 545965,
+      "word": "1家8口到三亚过年嫌房租贵直接买房",
+      "onboard_time": 1673257830,
+      "rank": 5,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 544001,
+      "num": 544001,
+      "word": "鹅鸭杀",
+      "onboard_time": 1673272653,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 441419,
+      "num": 285577,
+      "word": "赵丽颖说情侣之间不能送水果梨",
+      "onboard_time": 1673272533,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 410814,
+      "num": 410814,
+      "word": "中国网友偶遇侃爷",
+      "onboard_time": 1673276014,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 382311,
+      "num": 382311,
+      "word": "医美的尽头到底是什么",
+      "onboard_time": 1673279248,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 295932,
+      "num": 295932,
+      "word": "原来妈妈才是恋爱高手",
+      "onboard_time": 1673276252,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 284472,
+      "num": 284472,
+      "word": "中国影视蓝皮书 投票",
+      "onboard_time": 1673280029,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 257239,
+      "num": 257239,
+      "word": "奥比岛",
+      "onboard_time": 1673276672,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 254822,
+      "num": 254822,
+      "word": "刘美含 圆满炸了",
+      "onboard_time": 1673275832,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 248556,
+      "num": 161791,
+      "word": "黑暗荣耀 大婶",
+      "onboard_time": 1673279188,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 235781,
+      "num": 161789,
+      "word": "制片人回应陈飞宇张婧仪二搭",
+      "onboard_time": 1673273195,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 228095,
+      "num": 161788,
+      "word": "网红假装在国外",
+      "onboard_time": 1673266889,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 224710,
+      "num": 161786,
+      "word": "依川川",
+      "onboard_time": 1673276132,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 210553,
+      "num": 118085,
+      "word": "去有风的地方不够看",
+      "onboard_time": 1673278889,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 202120,
+      "num": 202120,
+      "word": "被坐着睡觉的猫咪可爱到了",
+      "onboard_time": 1673277570,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 181862,
+      "num": 114527,
+      "word": "王一博无名长空之王梦幻联动",
+      "onboard_time": 1673281824,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 174465,
+      "num": 111580,
+      "word": "谢之遥没提挽留但处处在挽留",
+      "onboard_time": 1673270190,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 172372,
+      "num": 172372,
+      "word": "奥密克戎毒株致病性明显下降",
+      "onboard_time": 1673260768,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163807,
+      "num": 110012,
+      "word": "蔡依林演唱会造型",
+      "onboard_time": 1673270669,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 161792,
+      "num": 161792,
+      "word": "1亿元阿兹夫定捐给中西部农村",
+      "onboard_time": 1673269950,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161786,
+      "num": 161785,
+      "word": "洗完澡像换了一只狗狗",
+      "onboard_time": 1673274634,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 161295,
+      "num": 85473,
+      "word": "第一次被机场耍大牌爽到",
+      "onboard_time": 1673281285,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155060,
+      "num": 85209,
+      "word": "许红豆改口叫阿遥",
+      "onboard_time": 1673273195,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 143671,
+      "num": 143671,
+      "word": "奥密克戎毒株肺炎发生率比德尔塔小",
+      "onboard_time": 1673280507,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140944,
+      "num": 140944,
+      "word": "女子10年前买1.8万钻戒如今值180元",
+      "onboard_time": 1673253090,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133593,
+      "num": 133593,
+      "word": "贪官买房让商人出钱自己高价卖出",
+      "onboard_time": 1673275893,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133132,
+      "num": 133132,
+      "word": "他将同学聚会变成权钱交易所",
+      "onboard_time": 1673280329,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118782,
+      "num": 118782,
+      "word": "狗狗从城市回老家两天狂炫5锅饭",
+      "onboard_time": 1673274033,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108859,
+      "num": 108859,
+      "word": "保证公费师范生全部安排到中小学校任教",
+      "onboard_time": 1673264249,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 108617,
+      "num": 108617,
+      "word": "第一次压轿的人类幼崽",
+      "onboard_time": 1673280628,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100328,
+      "num": 100328,
+      "word": "小伙花280元从上海坐公交到北京",
+      "onboard_time": 1673264011,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88994,
+      "num": 88994,
+      "word": "你家12月电费多少钱",
+      "onboard_time": 1673266650,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 88569,
+      "num": 88569,
+      "word": "欠北方的雪可能要还了",
+      "onboard_time": 1673270492,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86539,
+      "num": 86539,
+      "word": "猫咪是怎么忍住不抢的",
+      "onboard_time": 1673280688,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 84077,
+      "num": 84077,
+      "word": "一句你不敢发在朋友圈的话",
+      "onboard_time": 1673259267,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 79444,
+      "num": 79444,
+      "word": "这好大喜功的地方官用近7亿建公园",
+      "onboard_time": 1673271993,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78758,
+      "num": 78758,
+      "word": "喜欢哆啦A梦的原因找到了",
+      "onboard_time": 1673279849,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 73954,
+      "num": 73954,
+      "word": "见义勇为受伤的南京胖哥举办婚礼",
+      "onboard_time": 1673273735,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69891,
+      "num": 69891,
+      "word": "15岁狗去世前不吃饭默默躲进树林",
+      "onboard_time": 1673263349,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67625,
+      "num": 69844,
+      "word": "人民币升破6.8",
+      "onboard_time": 1673256089,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 61174,
+      "num": 69827,
+      "word": "这不得把老丈人迷死",
+      "onboard_time": 1673262268,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 54461,
+      "num": 69766,
+      "word": "没毛笔也能练书法",
+      "onboard_time": 1673278228,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 15191,
+      "num": 662786,
+      "word": "当前疫情最新热点十问十答",
+      "onboard_time": 1673251830,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#形成共促高质量发展的合力#"
+    }
+  ]
+}

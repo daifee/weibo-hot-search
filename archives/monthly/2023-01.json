@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673278876445,
+  "endTime": 1673281966955,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -1441,6 +1441,14 @@
       "onboard_time": 1673176531,
       "rank": 12,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 1310196,
+      "num": 1310196,
+      "word": "贝尔宣布退役",
+      "onboard_time": 1673279308,
+      "rank": 0,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1299598,
@@ -2995,6 +3003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 864218,
+      "num": 289191,
+      "word": "黄锐自曝每月还欠款二十万",
+      "onboard_time": 1673279549,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 862296,
       "num": 410774,
       "word": "李现展示吴彦姝奶奶吃苹果的照片",
@@ -3281,6 +3297,14 @@
       "onboard_time": 1673234007,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 824586,
+      "num": 661062,
+      "word": "河南新冠病毒感染率为89.0%",
+      "onboard_time": 1673278529,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 821856,
@@ -9131,6 +9155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 382311,
+      "num": 382311,
+      "word": "医美的尽头到底是什么",
+      "onboard_time": 1673279248,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 381826,
       "num": 270467,
       "word": "需要一个杨迪手机壳",
@@ -12171,6 +12203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284472,
+      "num": 284472,
+      "word": "中国影视蓝皮书 投票",
+      "onboard_time": 1673280029,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284094,
       "num": 284094,
       "word": "杜锋呼吁不要让CBA变成罚篮比赛",
@@ -13459,6 +13499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257239,
+      "num": 257239,
+      "word": "奥比岛",
+      "onboard_time": 1673276672,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 257062,
       "num": 257062,
       "word": "车主把AED放车上还允许破窗使用",
@@ -13881,6 +13929,14 @@
       "onboard_time": 1672556189,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248556,
+      "num": 161791,
+      "word": "黑暗荣耀 大婶",
+      "onboard_time": 1673279188,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 248470,
@@ -14779,14 +14835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 228694,
-      "num": 228694,
-      "word": "奥比岛",
-      "onboard_time": 1673276672,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 228488,
       "num": 228488,
       "word": "LNG对战BLG",
@@ -15635,6 +15683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210553,
+      "num": 118085,
+      "word": "去有风的地方不够看",
+      "onboard_time": 1673278889,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210401,
       "num": 156834,
       "word": "GAI三星堆联动舞台",
@@ -15937,6 +15993,14 @@
       "onboard_time": 1673218036,
       "rank": 12,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 202120,
+      "num": 202120,
+      "word": "被坐着睡觉的猫咪可爱到了",
+      "onboard_time": 1673277570,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 202073,
@@ -17009,6 +17073,14 @@
       "onboard_time": 1672579290,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181862,
+      "num": 114527,
+      "word": "王一博无名长空之王梦幻联动",
+      "onboard_time": 1673281824,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 181606,
@@ -18299,6 +18371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161295,
+      "num": 85473,
+      "word": "第一次被机场耍大牌爽到",
+      "onboard_time": 1673281285,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161069,
       "num": 121928,
       "word": "阿远拉裤兜是谁传出去的",
@@ -18947,14 +19027,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 149405,
-      "num": 169680,
-      "word": "被坐着睡觉的猫咪可爱到了",
-      "onboard_time": 1673277570,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 149376,
       "num": 212943,
       "word": "傅政华自述官迷心窍被骗子死死拿捏",
@@ -19209,6 +19281,14 @@
       "onboard_time": 1673018193,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143671,
+      "num": 143671,
+      "word": "奥密克戎毒株肺炎发生率比德尔塔小",
+      "onboard_time": 1673280507,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143560,
@@ -19873,6 +19953,14 @@
       "onboard_time": 1673179292,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133132,
+      "num": 133132,
+      "word": "他将同学聚会变成权钱交易所",
+      "onboard_time": 1673280329,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132813,
@@ -20931,14 +21019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112803,
-      "num": 112803,
-      "word": "河南新冠病毒感染率为89.0%",
-      "onboard_time": 1673278529,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112677,
       "num": 183475,
       "word": "这就是犹豫就会败北吗",
@@ -21072,6 +21152,14 @@
       "word": "本不聪明的脑袋雪上加霜",
       "onboard_time": 1672740867,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 108617,
+      "num": 108617,
+      "word": "第一次压轿的人类幼崽",
+      "onboard_time": 1673280628,
+      "rank": 35,
       "category": "幽默"
     },
     {
@@ -21995,6 +22083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86539,
+      "num": 86539,
+      "word": "猫咪是怎么忍住不抢的",
+      "onboard_time": 1673280688,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86536,
       "num": 86536,
       "word": "第一次见这么可爱的乌龟",
@@ -22121,6 +22217,14 @@
       "onboard_time": 1673106691,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 78758,
+      "num": 78758,
+      "word": "喜欢哆啦A梦的原因找到了",
+      "onboard_time": 1673279849,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 78222,
