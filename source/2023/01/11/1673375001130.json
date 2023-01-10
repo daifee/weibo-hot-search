@@ -1,0 +1,410 @@
+{
+  "runTime": 1673375001130,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 927781,
+        "num": 927781,
+        "word": "人民网评余景天粉丝接机制造拥堵",
+        "onboard_time": 1673368046,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 889957,
+        "num": 889957,
+        "word": "韩国",
+        "onboard_time": 1673360732,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 16958,
+        "num": 433740,
+        "word": "守护你回家的路",
+        "onboard_time": 1673359051,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 397411,
+        "num": 397411,
+        "word": "专家劝百姓拿出三分之一存款买房",
+        "onboard_time": 1673359892,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299944,
+        "num": 299944,
+        "word": "男方嫌30万彩礼多只肯出1万8包三金",
+        "onboard_time": 1673350472,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223181,
+        "num": 223181,
+        "word": "家长炮轰中国奇谭",
+        "onboard_time": 1673346149,
+        "rank": 5,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 162036,
+        "num": 162036,
+        "word": "暂停审发日本公民赴华普通签证",
+        "onboard_time": 1673356051,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 158394,
+        "num": 158394,
+        "word": "你介意对象谈过很久的前任吗",
+        "onboard_time": 1673359533,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140364,
+        "num": 140364,
+        "word": "19岁小伙腰痛拍片肠胃里全是奶茶珍珠",
+        "onboard_time": 1673350592,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126281,
+        "num": 126281,
+        "word": "前中国首富李河君被警方带走",
+        "onboard_time": 1673365293,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 271502,
+        "num": 124962,
+        "word": "一人表演五人丢脸",
+        "onboard_time": 1673371998,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178183,
+        "num": 121303,
+        "word": "网红餐厅爆满女子被安排前台就餐",
+        "onboard_time": 1673370799,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157738,
+        "num": 117539,
+        "word": "张兰称一定会和茅台合作的",
+        "onboard_time": 1673371699,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140973,
+        "num": 114741,
+        "word": "虞书欣王鹤棣的采访",
+        "onboard_time": 1673366189,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114031,
+        "num": 114031,
+        "word": "女孩因和男友条件差距大分手痛哭",
+        "onboard_time": 1673353710,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113939,
+        "num": 113939,
+        "word": "半瘫痪女孩居家打3份工月入过万",
+        "onboard_time": 1673371879,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97386,
+        "num": 97386,
+        "word": "张文宏称存在无症状感染者",
+        "onboard_time": 1673362955,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94988,
+        "num": 94988,
+        "word": "钎九",
+        "onboard_time": 1673364873,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 94596,
+        "num": 94596,
+        "word": "杨某人官宣恋情",
+        "onboard_time": 1673352931,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90264,
+        "num": 90264,
+        "word": "专家称现在正是房价低的时候",
+        "onboard_time": 1673367270,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 88892,
+        "num": 88892,
+        "word": "eStar开除运营",
+        "onboard_time": 1673362837,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84217,
+        "num": 84217,
+        "word": "再见爱人 这一期哭死我",
+        "onboard_time": 1673355753,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80893,
+        "num": 80893,
+        "word": "狗子跳车拦住怀孕主人下一秒山路塌方",
+        "onboard_time": 1673364632,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78961,
+        "num": 78961,
+        "word": "猫猫的尿怎么可以这么大泡",
+        "onboard_time": 1673361753,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77870,
+        "num": 77870,
+        "word": "放开手让孩子自主成长",
+        "onboard_time": 1673374455,
+        "rank": 24,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 77415,
+        "num": 77415,
+        "word": "84岁吴彦姝三步上篮",
+        "onboard_time": 1673370561,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72207,
+        "num": 72207,
+        "word": "柬埔寨首相说柬埔寨不靠中国还能靠谁",
+        "onboard_time": 1673362474,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 68606,
+        "num": 68606,
+        "word": "CCTV6将首播刘亦菲版花木兰",
+        "onboard_time": 1673362535,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64301,
+        "num": 64301,
+        "word": "羊了个羊",
+        "onboard_time": 1673365832,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50989,
+        "num": 50989,
+        "word": "外交部回应暂停签发韩公民赴华短期签证",
+        "onboard_time": 1673345428,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74633,
+        "num": 50926,
+        "word": "老外用中国的一块手表进行全球交换",
+        "onboard_time": 1673369964,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67562,
+        "num": 50775,
+        "word": "唐嫣获评上海市二级演员",
+        "onboard_time": 1673353892,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67506,
+        "num": 50602,
+        "word": "大侦探8演唱会连播两天",
+        "onboard_time": 1673356114,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63063,
+        "num": 50469,
+        "word": "林俊杰周杰伦可惜没如果合作舞台",
+        "onboard_time": 1673363795,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 58019,
+        "num": 50275,
+        "word": "看得出当心理医生挺烦的",
+        "onboard_time": 1673373197,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50130,
+        "num": 50130,
+        "word": "美国脱口秀主持人称XBB.1.5是最好的变种",
+        "onboard_time": 1673363374,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47900,
+        "num": 47900,
+        "word": "美食博主让餐厅起死回生",
+        "onboard_time": 1673364268,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 45679,
+        "num": 45679,
+        "word": "马龙3比4吉村真晴",
+        "onboard_time": 1673357371,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43338,
+        "num": 43338,
+        "word": "小猫咪是怎么凶人的",
+        "onboard_time": 1673365110,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42952,
+        "num": 42952,
+        "word": "31岁小伙相亲恋爱差点当爷爷",
+        "onboard_time": 1673350952,
+        "rank": 39,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 52085,
+        "num": 42898,
+        "word": "宋木子 鑫仔",
+        "onboard_time": 1673355273,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46870,
+        "num": 42794,
+        "word": "王源客厅狂欢QQ音乐实体专辑畅销榜第一",
+        "onboard_time": 1673367089,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 42656,
+        "num": 42656,
+        "word": "七成00后打算过年给父母包红包",
+        "onboard_time": 1673357675,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39469,
+        "num": 39469,
+        "word": "韩国未进中国春节前十名出境游目的地",
+        "onboard_time": 1673336070,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 39137,
+        "num": 39137,
+        "word": "外交部回应暂停向日本游客发放签证",
+        "onboard_time": 1673342248,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 38672,
+        "num": 38672,
+        "word": "目前行情下你还考虑年后离职吗",
+        "onboard_time": 1673360974,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31943,
+        "num": 31943,
+        "word": "DRG 真的刀",
+        "onboard_time": 1673359174,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30567,
+        "num": 30567,
+        "word": "现在大学生这么会做饭吗",
+        "onboard_time": 1673364813,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30378,
+        "num": 30378,
+        "word": "马龙 记分牌",
+        "onboard_time": 1673355992,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26234,
+        "num": 30369,
+        "word": "菜鸟将投2亿补贴快递员爬楼送货上门",
+        "onboard_time": 1673345849,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面从严治党永远吹冲锋号#"
+    }
+  }
+}
