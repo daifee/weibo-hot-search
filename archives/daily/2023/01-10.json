@@ -1,10 +1,10 @@
 {
   "startTime": 1673281966955,
-  "endTime": 1673314749798,
+  "endTime": 1673316122144,
   "band_list": [
     {
-      "raw_hot": 1957831,
-      "num": 1957831,
+      "raw_hot": 2293132,
+      "num": 2293132,
       "word": "同居四天后分手男子要求返还彩礼",
       "onboard_time": 1673313029,
       "rank": 0,
@@ -19,8 +19,16 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1259455,
+      "num": 1259455,
+      "word": "女子顺丰寄4万手表疑被调包仅赔百元",
+      "onboard_time": 1673313387,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1258361,
-      "num": 873972,
+      "num": 907490,
       "word": "男孩得知父亲想生三胎怒怼父亲",
       "onboard_time": 1673307563,
       "rank": 3,
@@ -59,14 +67,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 869525,
-      "num": 869525,
-      "word": "女子顺丰寄4万手表疑被调包仅赔百元",
-      "onboard_time": 1673313387,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 865492,
       "num": 865492,
       "word": "一个舍得买一个舍不得要",
@@ -91,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 794941,
-      "num": 794941,
+      "raw_hot": 809977,
+      "num": 809977,
       "word": "姚安娜新剧台词",
       "onboard_time": 1673310627,
       "rank": 7,
@@ -139,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 549203,
+      "num": 549203,
+      "word": "步步惊心BGM是大中国",
+      "onboard_time": 1673314648,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 545965,
       "num": 545965,
       "word": "1家8口到三亚过年嫌房租贵直接买房",
@@ -163,7 +171,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 489109,
+      "raw_hot": 512166,
       "num": 489109,
       "word": "武大靖说能把照片颜色调一下吗害怕",
       "onboard_time": 1673309488,
@@ -201,6 +209,30 @@
       "onboard_time": 1673279248,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 403811,
+      "num": 403811,
+      "word": "人社部部长谈2023毕业生就业",
+      "onboard_time": 1673313869,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 396671,
+      "num": 166411,
+      "word": "网红依川川因病去世",
+      "onboard_time": 1673315966,
+      "rank": 30,
+      "category": "动漫,网红"
+    },
+    {
+      "raw_hot": 375077,
+      "num": 375077,
+      "word": "许红豆坐在谢之遥的副驾",
+      "onboard_time": 1673314348,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 295932,
@@ -243,8 +275,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268378,
-      "num": 268378,
+      "raw_hot": 269134,
+      "num": 269134,
       "word": "福字",
       "onboard_time": 1673310027,
       "rank": 19,
@@ -267,20 +299,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 252351,
-      "num": 252351,
-      "word": "人社部部长谈2023毕业生就业",
-      "onboard_time": 1673313869,
-      "rank": 20,
-      "category": "教育"
-    },
-    {
       "raw_hot": 248556,
       "num": 216668,
       "word": "黑暗荣耀 大婶",
       "onboard_time": 1673279188,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247247,
+      "num": 247247,
+      "word": "我国有多少种警察",
+      "onboard_time": 1673313627,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244437,
@@ -339,14 +371,6 @@
       "category": "游戏,影视"
     },
     {
-      "raw_hot": 219513,
-      "num": 187567,
-      "word": "许红豆坐在谢之遥的副驾",
-      "onboard_time": 1673314348,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210553,
       "num": 128429,
       "word": "去有风的地方不够看",
@@ -363,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205210,
+      "num": 205210,
+      "word": "远嫁女儿隔四年回家爸妈喜极而泣",
+      "onboard_time": 1673314226,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203838,
       "num": 203838,
       "word": "千万别把小猫单独留在家里",
@@ -377,6 +409,14 @@
       "onboard_time": 1673277570,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201260,
+      "num": 201260,
+      "word": "林娜琏俞定延MOMO预告照",
+      "onboard_time": 1673311947,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 198925,
@@ -409,14 +449,6 @@
       "onboard_time": 1673260830,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189594,
-      "num": 189594,
-      "word": "我国有多少种警察",
-      "onboard_time": 1673313627,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189317,
@@ -459,12 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184836,
-      "num": 184836,
-      "word": "林娜琏俞定延MOMO预告照",
-      "onboard_time": 1673311947,
-      "rank": 34,
-      "category": "音乐"
+      "raw_hot": 185245,
+      "num": 185245,
+      "word": "萌娃嫌饭难吃拿碗勺想去邻居家蹭",
+      "onboard_time": 1673314468,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184747,
+      "num": 184747,
+      "word": "年前或将迎来退租潮",
+      "onboard_time": 1673314947,
+      "rank": 27,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 184472,
@@ -492,7 +532,7 @@
     },
     {
       "raw_hot": 179940,
-      "num": 123356,
+      "num": 158821,
       "word": "7部新片定档大年初一",
       "onboard_time": 1673308705,
       "rank": 40,
@@ -505,6 +545,14 @@
       "onboard_time": 1673282004,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177076,
+      "num": 177076,
+      "word": "在集一种很新的福气",
+      "onboard_time": 1673315847,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 176432,
@@ -547,8 +595,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168344,
-      "num": 168344,
+      "raw_hot": 168772,
+      "num": 119338,
+      "word": "林俊杰让观众唱不为谁而作的歌",
+      "onboard_time": 1673315905,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 168596,
+      "num": 168596,
       "word": "当猫咪碰上防抓膜",
       "onboard_time": 1673309665,
       "rank": 36,
@@ -611,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137305,
-      "num": 122844,
-      "word": "步步惊心BGM是大中国",
-      "onboard_time": 1673314648,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 136943,
       "num": 136943,
       "word": "山东又要变成山冻",
@@ -651,14 +699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120989,
-      "num": 120989,
-      "word": "远嫁女儿隔四年回家爸妈喜极而泣",
-      "onboard_time": 1673314226,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119409,
       "num": 119409,
       "word": "欠北方的雪可能要还了",
@@ -675,18 +715,18 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117180,
+      "num": 117180,
+      "word": "上海政协委员呼吁辉瑞新冠药降价",
+      "onboard_time": 1673315367,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116835,
       "num": 116835,
       "word": "见义勇为受伤的南京胖哥举办婚礼",
       "onboard_time": 1673273735,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113885,
-      "num": 113885,
-      "word": "萌娃嫌饭难吃拿碗勺想去邻居家蹭",
-      "onboard_time": 1673314468,
       "rank": 45,
       "category": "社会新闻"
     },
@@ -836,7 +876,7 @@
     },
     {
       "raw_hot": 17023,
-      "num": 874932,
+      "num": 1000614,
       "word": "当前疫情最新热点十问十答",
       "onboard_time": 1673251830,
       "rank": 2,

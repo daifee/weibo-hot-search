@@ -1,0 +1,410 @@
+{
+  "runTime": 1673316122144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2293132,
+        "num": 2293132,
+        "word": "同居四天后分手男子要求返还彩礼",
+        "onboard_time": 1673313029,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1259455,
+        "num": 1259455,
+        "word": "女子顺丰寄4万手表疑被调包仅赔百元",
+        "onboard_time": 1673313387,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13229,
+        "num": 1000614,
+        "word": "当前疫情最新热点十问十答",
+        "onboard_time": 1673251830,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 907490,
+        "num": 907490,
+        "word": "男孩得知父亲想生三胎怒怼父亲",
+        "onboard_time": 1673307563,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882719,
+        "num": 882719,
+        "word": "开年第一部烂尾剧",
+        "onboard_time": 1673307441,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 809977,
+        "num": 809977,
+        "word": "姚安娜新剧台词",
+        "onboard_time": 1673310627,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 584708,
+        "num": 584708,
+        "word": "一个舍得买一个舍不得要",
+        "onboard_time": 1673306958,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 549203,
+        "num": 549203,
+        "word": "步步惊心BGM是大中国",
+        "onboard_time": 1673314648,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 509434,
+        "num": 509434,
+        "word": "一私募员工捐款1.38亿",
+        "onboard_time": 1673311349,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 423426,
+        "num": 423426,
+        "word": "小伙买世界最亮手电筒打开亮度惊人",
+        "onboard_time": 1673310866,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512166,
+        "num": 414162,
+        "word": "武大靖说能把照片颜色调一下吗害怕",
+        "onboard_time": 1673309488,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 476036,
+        "num": 412382,
+        "word": "黄锐自曝每月还欠款二十万",
+        "onboard_time": 1673279549,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403811,
+        "num": 403811,
+        "word": "人社部部长谈2023毕业生就业",
+        "onboard_time": 1673313869,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 375077,
+        "num": 375077,
+        "word": "许红豆坐在谢之遥的副驾",
+        "onboard_time": 1673314348,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269134,
+        "num": 269134,
+        "word": "福字",
+        "onboard_time": 1673310027,
+        "rank": 14,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 258463,
+        "num": 258463,
+        "word": "保洁夹断猫腿与宠主就赔偿争执",
+        "onboard_time": 1673282785,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248382,
+        "num": 248382,
+        "word": "Windows7将彻底退出历史舞台",
+        "onboard_time": 1673310448,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 247247,
+        "num": 247247,
+        "word": "我国有多少种警察",
+        "onboard_time": 1673313627,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220267,
+        "num": 220267,
+        "word": "女孩博士毕业不社交遭妈妈吐槽",
+        "onboard_time": 1673276371,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207762,
+        "num": 207762,
+        "word": "猫在烘干箱里的样子",
+        "onboard_time": 1673309488,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299534,
+        "num": 207215,
+        "word": "苍兰诀 投票",
+        "onboard_time": 1673276851,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237976,
+        "num": 206727,
+        "word": "赵丽颖说情侣之间不能送水果梨",
+        "onboard_time": 1673272533,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205210,
+        "num": 205210,
+        "word": "远嫁女儿隔四年回家爸妈喜极而泣",
+        "onboard_time": 1673314226,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201260,
+        "num": 201260,
+        "word": "林娜琏俞定延MOMO预告照",
+        "onboard_time": 1673311947,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201042,
+        "num": 201042,
+        "word": "贝尔宣布退役",
+        "onboard_time": 1673279308,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 185348,
+        "num": 185348,
+        "word": "谁将成为法国队新任队长",
+        "onboard_time": 1673309127,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185245,
+        "num": 185245,
+        "word": "萌娃嫌饭难吃拿碗勺想去邻居家蹭",
+        "onboard_time": 1673314468,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184747,
+        "num": 184747,
+        "word": "年前或将迎来退租潮",
+        "onboard_time": 1673314947,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 177076,
+        "num": 177076,
+        "word": "在集一种很新的福气",
+        "onboard_time": 1673315847,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168596,
+        "num": 168596,
+        "word": "当猫咪碰上防抓膜",
+        "onboard_time": 1673309665,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396671,
+        "num": 166411,
+        "word": "网红依川川因病去世",
+        "onboard_time": 1673315966,
+        "rank": 30,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 179314,
+        "num": 165462,
+        "word": "Lisa泰国见面会生图",
+        "onboard_time": 1673282425,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178502,
+        "num": 161445,
+        "word": "王鹤棣虞书欣苍兰诀入围年度全端最佳剧集",
+        "onboard_time": 1673305816,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172460,
+        "num": 158821,
+        "word": "7部新片定档大年初一",
+        "onboard_time": 1673308705,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158057,
+        "num": 158057,
+        "word": "千万别把小猫单独留在家里",
+        "onboard_time": 1673307382,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150097,
+        "num": 150097,
+        "word": "詹姆斯米切尔当选周最佳",
+        "onboard_time": 1673311049,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149681,
+        "num": 149681,
+        "word": "一只平凡的小猪",
+        "onboard_time": 1673311889,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143424,
+        "num": 143424,
+        "word": "95后女警轻松驾驭600斤机车",
+        "onboard_time": 1673312309,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140702,
+        "num": 140702,
+        "word": "奥密克戎毒株肺炎发生率比德尔塔小",
+        "onboard_time": 1673280507,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119400,
+        "num": 119400,
+        "word": "1亿元阿兹夫定捐给中西部农村",
+        "onboard_time": 1673269950,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166407,
+        "num": 119348,
+        "word": "第一次被机场耍大牌爽到",
+        "onboard_time": 1673281285,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168772,
+        "num": 119338,
+        "word": "林俊杰让观众唱不为谁而作的歌",
+        "onboard_time": 1673315905,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159480,
+        "num": 119315,
+        "word": "塞尔达传说或将改编动画电影",
+        "onboard_time": 1673305518,
+        "rank": 42,
+        "category": "游戏,影视"
+      },
+      {
+        "raw_hot": 119292,
+        "num": 119292,
+        "word": "太快确定关系真的不会长久吗",
+        "onboard_time": 1673286496,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117180,
+        "num": 117180,
+        "word": "上海政协委员呼吁辉瑞新冠药降价",
+        "onboard_time": 1673315367,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112391,
+        "num": 112391,
+        "word": "医美的尽头到底是什么",
+        "onboard_time": 1673279248,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109374,
+        "num": 109374,
+        "word": "护士发烧晕倒同事用椅子推着就医",
+        "onboard_time": 1673284100,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101902,
+        "num": 101902,
+        "word": "相爱的人永远都能和好吗",
+        "onboard_time": 1673308283,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94143,
+        "num": 94143,
+        "word": "苹果耳机盒子不要丢",
+        "onboard_time": 1673264609,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 87091,
+        "num": 87091,
+        "word": "原来妈妈才是恋爱高手",
+        "onboard_time": 1673276252,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#一刻不停推进全面从严治党#"
+    }
+  }
+}
