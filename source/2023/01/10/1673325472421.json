@@ -1,0 +1,410 @@
+{
+  "runTime": 1673325472421,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3436506,
+        "num": 3436506,
+        "word": "网红依川川因病去世",
+        "onboard_time": 1673315966,
+        "rank": 0,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 1686770,
+        "num": 1686770,
+        "word": "高拉特确认放弃中国国籍",
+        "onboard_time": 1673316748,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119779,
+        "num": 1397227,
+        "word": "年前返乡必知的20个防护要点",
+        "onboard_time": 1673311228,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1177195,
+        "num": 1177195,
+        "word": "光遇",
+        "onboard_time": 1673323530,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1010329,
+        "num": 1010329,
+        "word": "女子顺丰寄4万手表疑被调包仅赔百元",
+        "onboard_time": 1673313387,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805896,
+        "num": 805896,
+        "word": "网友吐槽入境韩国被挂黄牌围拍",
+        "onboard_time": 1673324070,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793860,
+        "num": 793860,
+        "word": "银行柜员挥霍储户30万元存款",
+        "onboard_time": 1673322031,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 557516,
+        "num": 557516,
+        "word": "新加坡卫生部长称不对华入境设限",
+        "onboard_time": 1673319928,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 553030,
+        "num": 553030,
+        "word": "3人围炉烤红薯6小时后中毒晕倒",
+        "onboard_time": 1673316987,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509813,
+        "num": 509813,
+        "word": "周杰伦最伟大的作品年度专辑",
+        "onboard_time": 1673325092,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1048205,
+        "num": 496879,
+        "word": "优酷娱乐把张雨绮经纪人认成张雨绮",
+        "onboard_time": 1673321549,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 522661,
+        "num": 493621,
+        "word": "男孩得知父亲想生三胎怒怼父亲",
+        "onboard_time": 1673307563,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472839,
+        "num": 472839,
+        "word": "孙悟空不愧是大家的英雄",
+        "onboard_time": 1673320528,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459872,
+        "num": 459872,
+        "word": "杨幂时装一月封面",
+        "onboard_time": 1673321728,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 402921,
+        "num": 402921,
+        "word": "王小蒙在甄嬛传也是大女主",
+        "onboard_time": 1673316748,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388052,
+        "num": 388052,
+        "word": "福字",
+        "onboard_time": 1673310027,
+        "rank": 15,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 361318,
+        "num": 361318,
+        "word": "骑手父亲蜗居地下室陪13岁女儿抗癌",
+        "onboard_time": 1673320228,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325817,
+        "num": 325817,
+        "word": "大学男生骄傲记录街头写春联的女友",
+        "onboard_time": 1673318668,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324557,
+        "num": 324557,
+        "word": "劳斯莱斯平均价格首次达50万欧元",
+        "onboard_time": 1673323830,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 296401,
+        "num": 296401,
+        "word": "劳斯莱斯创118年来最高销量纪录",
+        "onboard_time": 1673321487,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 356447,
+        "num": 296366,
+        "word": "谢之遥爸爸刀子嘴豆腐心",
+        "onboard_time": 1673323292,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320751,
+        "num": 285601,
+        "word": "LESSERAFIM和NewJeans练习室打招呼",
+        "onboard_time": 1673321849,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 340599,
+        "num": 279735,
+        "word": "许红豆吃米线",
+        "onboard_time": 1673319328,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269050,
+        "num": 269050,
+        "word": "一私募员工捐款1.38亿",
+        "onboard_time": 1673311349,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 253675,
+        "num": 253675,
+        "word": "特斯拉门店透露降价后销量翻倍",
+        "onboard_time": 1673320648,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 235588,
+        "num": 235588,
+        "word": "辉瑞称正与中国伙伴合作",
+        "onboard_time": 1673317768,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224246,
+        "num": 224246,
+        "word": "抖音去年电商交易总额达1.41万亿元",
+        "onboard_time": 1673321308,
+        "rank": 26,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 223441,
+        "num": 223441,
+        "word": "年前或将迎来退租潮",
+        "onboard_time": 1673314947,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 209700,
+        "num": 209700,
+        "word": "上门婚礼的仪式感",
+        "onboard_time": 1673321787,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207010,
+        "num": 207010,
+        "word": "北京的疫情已过感染高峰期",
+        "onboard_time": 1673317349,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309381,
+        "num": 204558,
+        "word": "开年第一部烂尾剧",
+        "onboard_time": 1673307441,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308183,
+        "num": 192225,
+        "word": "向风而行全员恋爱",
+        "onboard_time": 1673318068,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294949,
+        "num": 182737,
+        "word": "蚁人3正式预告",
+        "onboard_time": 1673325273,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266738,
+        "num": 175719,
+        "word": "王心凌芭莎千禧风视频",
+        "onboard_time": 1673325154,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171999,
+        "num": 171999,
+        "word": "东部战区用最温柔的语气说最硬气的话",
+        "onboard_time": 1673316146,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258397,
+        "num": 169366,
+        "word": "步步惊心BGM是大中国",
+        "onboard_time": 1673314648,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165174,
+        "num": 165174,
+        "word": "再上八天班就过年了",
+        "onboard_time": 1673325033,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162105,
+        "num": 162105,
+        "word": "男子放鞭炮没躲开炸伤眼球",
+        "onboard_time": 1673320708,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161872,
+        "num": 161872,
+        "word": "猫在烘干箱里的样子",
+        "onboard_time": 1673309488,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145770,
+        "num": 161837,
+        "word": "中国足协的归化计划失败了吗",
+        "onboard_time": 1673325092,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232775,
+        "num": 161751,
+        "word": "2023总台春晚完成第三次彩排",
+        "onboard_time": 1673321189,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133341,
+        "num": 161727,
+        "word": "一个舍得买一个舍不得要",
+        "onboard_time": 1673306958,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133135,
+        "num": 161655,
+        "word": "千万别把小猫单独留在家里",
+        "onboard_time": 1673307382,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131145,
+        "num": 161622,
+        "word": "我国有多少种警察",
+        "onboard_time": 1673313627,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118819,
+        "num": 161500,
+        "word": "高拉特国足零出场",
+        "onboard_time": 1673323350,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106673,
+        "num": 161484,
+        "word": "小伙买世界最亮手电筒打开亮度惊人",
+        "onboard_time": 1673310866,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103327,
+        "num": 161418,
+        "word": "被红外线笔强制开机的猫咪",
+        "onboard_time": 1673325392,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 102034,
+        "num": 161360,
+        "word": "Windows7将彻底退出历史舞台",
+        "onboard_time": 1673310448,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 100582,
+        "num": 161294,
+        "word": "京东图书与当当网签订战略合作协议",
+        "onboard_time": 1673325451,
+        "rank": 48,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 100366,
+        "num": 161238,
+        "word": "这猫像极了称体重的女生",
+        "onboard_time": 1673325451,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#第3个中国人民警察节#"
+    }
+  }
+}
