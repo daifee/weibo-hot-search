@@ -1,0 +1,410 @@
+{
+  "runTime": 1673355307406,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2001787,
+        "num": 2001787,
+        "word": "家长炮轰中国奇谭",
+        "onboard_time": 1673346149,
+        "rank": 0,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 1416357,
+        "num": 1416357,
+        "word": "19岁小伙腰痛拍片肠胃里全是奶茶珍珠",
+        "onboard_time": 1673350592,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33819,
+        "num": 1160297,
+        "word": "最新防疫热点10问10答",
+        "onboard_time": 1673339790,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1850660,
+        "num": 1105205,
+        "word": "男方嫌30万彩礼多只肯出1万8包三金",
+        "onboard_time": 1673350472,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 995522,
+        "num": 995522,
+        "word": "导演何平去世",
+        "onboard_time": 1673349570,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 931452,
+        "num": 931452,
+        "word": "王楚钦",
+        "onboard_time": 1673353649,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 889986,
+        "num": 889986,
+        "word": "杨某人官宣恋情",
+        "onboard_time": 1673352931,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 867822,
+        "num": 867822,
+        "word": "唐嫣获评上海市二级演员",
+        "onboard_time": 1673353892,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 781558,
+        "num": 781558,
+        "word": "31岁小伙相亲恋爱差点当爷爷",
+        "onboard_time": 1673350952,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 582582,
+        "num": 582582,
+        "word": "外交部回应暂停向日本游客发放签证",
+        "onboard_time": 1673342248,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 655861,
+        "num": 577458,
+        "word": "女孩因和男友条件差距大分手痛哭",
+        "onboard_time": 1673353710,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570955,
+        "num": 570955,
+        "word": "骚白直播",
+        "onboard_time": 1673351191,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 503519,
+        "num": 503519,
+        "word": "浮图缘虐不过两集",
+        "onboard_time": 1673352931,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 445592,
+        "num": 445592,
+        "word": "韩国未进中国春节前十名出境游目的地",
+        "onboard_time": 1673336070,
+        "rank": 13,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 207143,
+        "num": 421195,
+        "word": "如何看待中国奇谭的爆火",
+        "onboard_time": 1673352089,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 405477,
+        "num": 405477,
+        "word": "让人操心三部剧",
+        "onboard_time": 1673351909,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370244,
+        "num": 370244,
+        "word": "外交部回应暂停签发韩公民赴华短期签证",
+        "onboard_time": 1673345428,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339184,
+        "num": 339184,
+        "word": "血氧仪到底准不准",
+        "onboard_time": 1673350231,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 336716,
+        "num": 336716,
+        "word": "女子趁老板离开偷拿鲍鱼塞裤裆",
+        "onboard_time": 1673353710,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294945,
+        "num": 294945,
+        "word": "不烫不死心烫完心死了",
+        "onboard_time": 1673337630,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332862,
+        "num": 293351,
+        "word": "顾南亭升为飞行部部长",
+        "onboard_time": 1673354672,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302169,
+        "num": 293160,
+        "word": "谢之遥的爸也是个作爹",
+        "onboard_time": 1673353230,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291690,
+        "num": 291690,
+        "word": "菜鸟将投2亿补贴快递员爬楼送货上门",
+        "onboard_time": 1673345849,
+        "rank": 22,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 281011,
+        "num": 281011,
+        "word": "TTG驯服四肢全记录",
+        "onboard_time": 1673353528,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278241,
+        "num": 278241,
+        "word": "江部长永久停飞",
+        "onboard_time": 1673347050,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270637,
+        "num": 270637,
+        "word": "KPL奇妙夜",
+        "onboard_time": 1673348611,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226381,
+        "num": 226381,
+        "word": "特斯拉中国三天获3万辆订单",
+        "onboard_time": 1673338109,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 208869,
+        "num": 208869,
+        "word": "赴韩中国人自费核酸一次8万韩元",
+        "onboard_time": 1673337869,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200201,
+        "num": 200201,
+        "word": "男生做饭忘关火厨房变灾难现场",
+        "onboard_time": 1673349509,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196976,
+        "num": 196976,
+        "word": "樊振东4比0德塞",
+        "onboard_time": 1673354730,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274178,
+        "num": 196424,
+        "word": "程霄成为机长",
+        "onboard_time": 1673351969,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237947,
+        "num": 193269,
+        "word": "宋木子 鑫仔",
+        "onboard_time": 1673355273,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234504,
+        "num": 192396,
+        "word": "杨超越的话",
+        "onboard_time": 1673351969,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232307,
+        "num": 188911,
+        "word": "谁是中国奇谭的受众",
+        "onboard_time": 1673353410,
+        "rank": 33,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 231373,
+        "num": 187491,
+        "word": "我出不去 你也休想出去玩",
+        "onboard_time": 1673353771,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223441,
+        "num": 184208,
+        "word": "唐莲下线",
+        "onboard_time": 1673349390,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183881,
+        "num": 183881,
+        "word": "凌晨四点的春运高铁站",
+        "onboard_time": 1673353892,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181881,
+        "num": 181881,
+        "word": "门票要你三十还是亏了",
+        "onboard_time": 1673348191,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162352,
+        "num": 162352,
+        "word": "儿子听到父亲埋怨其不回家杀年猪大哭",
+        "onboard_time": 1673336671,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154999,
+        "num": 154999,
+        "word": "LPL将有两支队伍参加MSI",
+        "onboard_time": 1673344229,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182051,
+        "num": 154995,
+        "word": "薛之谦王啸坤新歌银河少年",
+        "onboard_time": 1673354793,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154946,
+        "num": 154946,
+        "word": "马克龙罕见回应为何与老师结婚",
+        "onboard_time": 1673339549,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 142337,
+        "num": 142337,
+        "word": "辽宁男篮vs北京男篮",
+        "onboard_time": 1673354313,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136904,
+        "num": 136904,
+        "word": "你吃锅包肉第一口会咳嗽吗",
+        "onboard_time": 1673346390,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134738,
+        "num": 134738,
+        "word": "三亚警方通报6名男子身挎相机互殴",
+        "onboard_time": 1673341950,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133324,
+        "num": 133324,
+        "word": "男子发输液水结晶被网友提醒不能打",
+        "onboard_time": 1673338409,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127869,
+        "num": 127869,
+        "word": "女子50元买仓鼠第1天就被咬花1000",
+        "onboard_time": 1673339909,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122124,
+        "num": 122124,
+        "word": "我去了能捡一整天",
+        "onboard_time": 1673342551,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113037,
+        "num": 113037,
+        "word": "和WB一起扭一扭",
+        "onboard_time": 1673354012,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96592,
+        "num": 112934,
+        "word": "微博最受欢迎画手",
+        "onboard_time": 1673346931,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#第3个中国人民警察节#"
+    }
+  }
+}
