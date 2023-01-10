@@ -1,22 +1,22 @@
 {
   "startTime": 1673368158524,
-  "endTime": 1673368158524,
+  "endTime": 1673369311302,
   "band_list": [
     {
-      "raw_hot": 2687261,
-      "num": 168215,
-      "word": "人民网评余景天粉丝接机制造拥堵",
-      "onboard_time": 1673368046,
-      "rank": 31,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2350287,
-      "num": 2350287,
+      "raw_hot": 3062974,
+      "num": 3062974,
       "word": "韩国",
       "onboard_time": 1673360732,
       "rank": 0,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2687261,
+      "num": 2574788,
+      "word": "人民网评余景天粉丝接机制造拥堵",
+      "onboard_time": 1673368046,
+      "rank": 31,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1376744,
@@ -83,20 +83,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 489364,
+      "num": 489364,
+      "word": "羊了个羊",
+      "onboard_time": 1673365832,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 488704,
+      "num": 488704,
+      "word": "前中国首富李河君被警方带走",
+      "onboard_time": 1673365293,
+      "rank": 11,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 478862,
       "num": 478862,
       "word": "钎九",
       "onboard_time": 1673364873,
       "rank": 9,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 461409,
-      "num": 461409,
-      "word": "前中国首富李河君被警方带走",
-      "onboard_time": 1673365293,
-      "rank": 11,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 432046,
@@ -161,14 +169,6 @@
       "onboard_time": 1673361753,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 317381,
-      "num": 317381,
-      "word": "羊了个羊",
-      "onboard_time": 1673365832,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 276930,
@@ -243,6 +243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 197390,
+      "num": 197390,
+      "word": "戴燕妮说叶若依是事业粉",
+      "onboard_time": 1673369245,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185264,
       "num": 185264,
       "word": "现在大学生这么会做饭吗",
@@ -268,11 +276,19 @@
     },
     {
       "raw_hot": 183492,
-      "num": 106628,
+      "num": 143716,
       "word": "王源客厅狂欢QQ音乐实体专辑畅销榜第一",
       "onboard_time": 1673367089,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169386,
+      "num": 169386,
+      "word": "专家称现在正是房价低的时候",
+      "onboard_time": 1673367270,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 169138,
@@ -347,14 +363,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 102008,
-      "num": 102008,
-      "word": "专家称现在正是房价低的时候",
-      "onboard_time": 1673367270,
-      "rank": 44,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 98005,
       "num": 98005,
       "word": "普通的小狗突然不普通了",
@@ -395,8 +403,16 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 69292,
+      "num": 69292,
+      "word": "表情包比我会表达心情",
+      "onboard_time": 1673367987,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 35418,
-      "num": 1039330,
+      "num": 1551635,
       "word": "守护你回家的路",
       "onboard_time": 1673359051,
       "rank": 2,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#展现可信可爱可敬的中国形象#"
+    },
+    {
+      "word": "#全面从严治党永远吹冲锋号#"
     }
   ]
 }
