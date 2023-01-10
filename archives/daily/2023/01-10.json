@@ -1,6 +1,6 @@
 {
   "startTime": 1673281966955,
-  "endTime": 1673343262226,
+  "endTime": 1673346023375,
   "band_list": [
     {
       "raw_hot": 3436506,
@@ -49,6 +49,14 @@
       "onboard_time": 1673324070,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1713579,
+      "num": 1713579,
+      "word": "外交部回应暂停向日本游客发放签证",
+      "onboard_time": 1673342248,
+      "rank": 39,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 1701192,
@@ -211,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 878920,
-      "num": 878920,
-      "word": "外交部回应暂停向日本游客发放签证",
-      "onboard_time": 1673342248,
-      "rank": 39,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 871883,
       "num": 871883,
       "word": "张婉婷宋宁峰帮忙照顾Lisa",
@@ -241,6 +241,14 @@
       "onboard_time": 1673306958,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 864533,
+      "num": 864533,
+      "word": "蜡笔小醒",
+      "onboard_time": 1673342609,
+      "rank": 17,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 861684,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 743663,
-      "num": 608409,
+      "num": 702236,
       "word": "马克龙罕见回应为何与老师结婚",
       "onboard_time": 1673339549,
       "rank": 46,
@@ -411,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 572293,
+      "num": 485887,
+      "word": "LPL将有两支队伍参加MSI",
+      "onboard_time": 1673344229,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 569985,
       "num": 479167,
       "word": "陈钰琪收到了王鹤棣品牌衣服",
@@ -507,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497095,
+      "num": 497095,
+      "word": "我去了能捡一整天",
+      "onboard_time": 1673342551,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 492069,
       "num": 492069,
       "word": "蝉冰雪女典藏皮肤",
@@ -587,6 +611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 445539,
+      "num": 445539,
+      "word": "三亚警方通报6名男子身挎相机互殴",
+      "onboard_time": 1673341950,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441419,
       "num": 285577,
       "word": "赵丽颖说情侣之间不能送水果梨",
@@ -609,14 +641,6 @@
       "onboard_time": 1673342851,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 416459,
-      "num": 416459,
-      "word": "蜡笔小醒",
-      "onboard_time": 1673342609,
-      "rank": 17,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 416133,
@@ -675,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 396964,
+      "num": 396964,
+      "word": "外交部回应暂停签发韩公民赴华短期签证",
+      "onboard_time": 1673345428,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394978,
       "num": 394978,
       "word": "骑手父亲蜗居地下室陪13岁女儿抗癌",
@@ -689,6 +721,14 @@
       "onboard_time": 1673334028,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 378912,
+      "num": 378912,
+      "word": "顾南亭表白连续被打断",
+      "onboard_time": 1673345070,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 375055,
@@ -891,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 295628,
+      "num": 295628,
+      "word": "谭维维也在嗑命韵峋环",
+      "onboard_time": 1673345549,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294949,
       "num": 182737,
       "word": "蚁人3正式预告",
@@ -907,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293226,
+      "num": 293226,
+      "word": "这是给大学生准备的拖鞋吧",
+      "onboard_time": 1673342609,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 292956,
       "num": 292956,
       "word": "太快确定关系真的不会长久吗",
@@ -921,14 +977,6 @@
       "onboard_time": 1673321189,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290478,
-      "num": 290478,
-      "word": "三亚警方通报6名男子身挎相机互殴",
-      "onboard_time": 1673341950,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289847,
@@ -952,6 +1000,14 @@
       "word": "许红豆挑眉vs赵盼儿挑眉",
       "onboard_time": 1673327611,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 277622,
+      "num": 277622,
+      "word": "谢之遥介绍许红豆是老板娘",
+      "onboard_time": 1673345671,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -1115,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243923,
+      "num": 243923,
+      "word": "S13小组赛赛制更新",
+      "onboard_time": 1673343750,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242623,
       "num": 242623,
       "word": "谁将成为法国队新任队长",
@@ -1179,6 +1243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228719,
+      "num": 170996,
+      "word": "王鹤棣以爱为营格子大衣路透",
+      "onboard_time": 1673343808,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228460,
       "num": 196875,
       "word": "倪湛表白程霄",
@@ -1209,6 +1281,14 @@
       "onboard_time": 1673305518,
       "rank": 30,
       "category": "游戏,影视"
+    },
+    {
+      "raw_hot": 223129,
+      "num": 223129,
+      "word": "一诺猫咪合影",
+      "onboard_time": 1673342851,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 218777,
@@ -1307,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204879,
+      "num": 170465,
+      "word": "张艺兴网络视听盛典路透",
+      "onboard_time": 1673344291,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203838,
       "num": 203838,
       "word": "千万别把小猫单独留在家里",
@@ -1353,14 +1441,6 @@
       "onboard_time": 1673337328,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197570,
-      "num": 197570,
-      "word": "这是给大学生准备的拖鞋吧",
-      "onboard_time": 1673342609,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 197068,
@@ -1467,6 +1547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184040,
+      "num": 184040,
+      "word": "Fly去哪儿",
+      "onboard_time": 1673345671,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182514,
       "num": 182514,
       "word": "1亿元阿兹夫定捐给中西部农村",
@@ -1547,14 +1635,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 174757,
-      "num": 174757,
-      "word": "一诺猫咪合影",
-      "onboard_time": 1673342851,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 174465,
       "num": 124194,
       "word": "谢之遥没提挽留但处处在挽留",
@@ -1569,6 +1649,14 @@
       "onboard_time": 1673326172,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173833,
+      "num": 173833,
+      "word": "刘彦平一审被判死缓",
+      "onboard_time": 1673345128,
+      "rank": 39,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 173784,
@@ -1625,14 +1713,6 @@
       "onboard_time": 1673309665,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166711,
-      "num": 166711,
-      "word": "我去了能捡一整天",
-      "onboard_time": 1673342551,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 165295,
@@ -1737,6 +1817,22 @@
       "onboard_time": 1673340510,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145062,
+      "num": 145062,
+      "word": "狗狗们吃个饭挺累的",
+      "onboard_time": 1673345609,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 142353,
+      "num": 142353,
+      "word": "菜鸟将投2亿补贴快递员爬楼送货上门",
+      "onboard_time": 1673345849,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 141263,
