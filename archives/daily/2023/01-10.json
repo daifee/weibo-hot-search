@@ -1,6 +1,6 @@
 {
   "startTime": 1673281966955,
-  "endTime": 1673339864454,
+  "endTime": 1673342319946,
   "band_list": [
     {
       "raw_hot": 3436506,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1255097,
+      "num": 1255097,
+      "word": "赴韩中国人自费核酸一次8万韩元",
+      "onboard_time": 1673337869,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1221324,
       "num": 1221324,
       "word": "光遇",
@@ -121,6 +129,14 @@
       "onboard_time": 1673326051,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1061369,
+      "num": 1061369,
+      "word": "不烫不死心烫完心死了",
+      "onboard_time": 1673337630,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 1029029,
@@ -171,8 +187,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 911578,
-      "num": 911578,
+      "raw_hot": 917518,
+      "num": 917518,
       "word": "韩版青簪行预告",
       "onboard_time": 1673337930,
       "rank": 11,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 865670,
-      "num": 595847,
+      "num": 695829,
       "word": "权志龙确定与YG续约",
       "onboard_time": 1673338588,
       "rank": 20,
@@ -217,6 +233,14 @@
       "onboard_time": 1673306958,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 861684,
+      "num": 861684,
+      "word": "特斯拉中国三天获3万辆订单",
+      "onboard_time": 1673338109,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 848612,
@@ -275,14 +299,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 707309,
-      "num": 707309,
-      "word": "赴韩中国人自费核酸一次8万韩元",
-      "onboard_time": 1673337869,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 691949,
       "num": 691949,
       "word": "广电要求向演员开展法律培训",
@@ -313,14 +329,6 @@
       "onboard_time": 1673334569,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 664482,
-      "num": 664482,
-      "word": "不烫不死心烫完心死了",
-      "onboard_time": 1673337630,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 654274,
@@ -363,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 611938,
-      "num": 611938,
-      "word": "特斯拉中国三天获3万辆订单",
-      "onboard_time": 1673338109,
-      "rank": 24,
-      "category": "科技"
+      "raw_hot": 612088,
+      "num": 612088,
+      "word": "男子发输液水结晶被网友提醒不能打",
+      "onboard_time": 1673338409,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609905,
@@ -377,6 +385,14 @@
       "onboard_time": 1673314648,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 608409,
+      "num": 608409,
+      "word": "马克龙罕见回应为何与老师结婚",
+      "onboard_time": 1673339549,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 589516,
@@ -499,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 480171,
+      "num": 480171,
+      "word": "女子50元买仓鼠第1天就被咬花1000",
+      "onboard_time": 1673339909,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477864,
       "num": 477864,
       "word": "大爷心疼网友吃猕猴桃酸掉牙",
@@ -555,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 434928,
-      "num": 434928,
-      "word": "男子发输液水结晶被网友提醒不能打",
-      "onboard_time": 1673338409,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 434633,
       "num": 409771,
       "word": "刘亦菲李现吻戏路透",
@@ -601,6 +617,14 @@
       "onboard_time": 1673276014,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408213,
+      "num": 408213,
+      "word": "坚决反对针对中国歧视性入境限制措施",
+      "onboard_time": 1673339310,
+      "rank": 35,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 406771,
@@ -707,6 +731,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 336982,
+      "num": 310945,
+      "word": "杨迪的直播可以当综艺看了",
+      "onboard_time": 1673339851,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334570,
       "num": 334570,
       "word": "百兽 上厕所没纸",
@@ -785,6 +817,14 @@
       "onboard_time": 1673325033,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302741,
+      "num": 302741,
+      "word": "考完教资面试的后遗症",
+      "onboard_time": 1673339969,
+      "rank": 23,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 302025,
@@ -923,6 +963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265844,
+      "num": 180756,
+      "word": "真人版狐狸书生",
+      "onboard_time": 1673340810,
+      "rank": 32,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 257239,
       "num": 257239,
       "word": "奥比岛",
@@ -993,6 +1041,14 @@
       "onboard_time": 1673334870,
       "rank": 33,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 245208,
+      "num": 245208,
+      "word": "感染后有这些情况需就医",
+      "onboard_time": 1673339131,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244527,
@@ -1147,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209916,
+      "num": 175021,
+      "word": "程霄帮妈妈克服恐飞",
+      "onboard_time": 1673342190,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209700,
       "num": 209700,
       "word": "上门婚礼的仪式感",
@@ -1161,6 +1225,14 @@
       "onboard_time": 1673283561,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207040,
+      "num": 165101,
+      "word": "鞠婧祎吊带粉衬衫造型",
+      "onboard_time": 1673342307,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206447,
@@ -1331,14 +1403,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 183435,
-      "num": 159112,
-      "word": "杨迪的直播可以当综艺看了",
-      "onboard_time": 1673339851,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182514,
       "num": 182514,
       "word": "1亿元阿兹夫定捐给中西部农村",
@@ -1353,14 +1417,6 @@
       "onboard_time": 1673281824,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180316,
-      "num": 180316,
-      "word": "坚决反对针对中国歧视性入境限制措施",
-      "onboard_time": 1673339310,
-      "rank": 35,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 179940,
@@ -1385,6 +1441,14 @@
       "onboard_time": 1673328451,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 179033,
+      "num": 179033,
+      "word": "你觉得父母给孩子转账算不算借款",
+      "onboard_time": 1673341650,
+      "rank": 33,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 177847,
@@ -1491,6 +1555,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168273,
+      "num": 168273,
+      "word": "看来你是懂烫发的",
+      "onboard_time": 1673341527,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 165865,
+      "num": 165865,
+      "word": "女子为宠物置办年货后脱单",
+      "onboard_time": 1673341410,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165628,
+      "num": 165628,
+      "word": "外交部回应暂停向日本游客发放签证",
+      "onboard_time": 1673342248,
+      "rank": 39,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 165295,
       "num": 165295,
       "word": "V5正式官宣更名NIP",
@@ -1505,6 +1593,14 @@
       "onboard_time": 1673270669,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 163029,
+      "num": 163029,
+      "word": "LPL选手新赛季宣言",
+      "onboard_time": 1673339189,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 162105,
@@ -1571,12 +1667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143605,
-      "num": 143605,
-      "word": "感染后有这些情况需就医",
-      "onboard_time": 1673339131,
+      "raw_hot": 146148,
+      "num": 146148,
+      "word": "三亚警方通报6名男子身挎相机互殴",
+      "onboard_time": 1673341950,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145578,
+      "num": 145578,
+      "word": "狗狗真的会因为感情流泪",
+      "onboard_time": 1673340510,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 141263,
@@ -1625,14 +1729,6 @@
       "onboard_time": 1673338529,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134807,
-      "num": 134807,
-      "word": "马克龙罕见回应为何与老师结婚",
-      "onboard_time": 1673339549,
-      "rank": 46,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 127970,
@@ -1689,14 +1785,6 @@
       "onboard_time": 1673316387,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124607,
-      "num": 124607,
-      "word": "LPL选手新赛季宣言",
-      "onboard_time": 1673339189,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 123554,
@@ -1915,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62864,
+      "num": 1061636,
+      "word": "最新防疫热点10问10答",
+      "onboard_time": 1673339790,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61174,
       "num": 69827,
       "word": "这不得把老丈人迷死",
@@ -1951,14 +2047,6 @@
       "num": 1219385,
       "word": "当前疫情最新热点十问十答",
       "onboard_time": 1673251830,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13327,
-      "num": 1024263,
-      "word": "最新防疫热点10问10答",
-      "onboard_time": 1673339790,
       "rank": 2,
       "category": "社会新闻"
     }
