@@ -1,0 +1,410 @@
+{
+  "runTime": 1673364355092,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2709676,
+        "num": 2709676,
+        "word": "专家劝百姓拿出三分之一存款买房",
+        "onboard_time": 1673359892,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2252229,
+        "num": 2252229,
+        "word": "韩国",
+        "onboard_time": 1673360732,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 76396,
+        "num": 1805633,
+        "word": "守护你回家的路",
+        "onboard_time": 1673359051,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1567080,
+        "num": 1567080,
+        "word": "暂停审发日本公民赴华普通签证",
+        "onboard_time": 1673356051,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1378525,
+        "num": 1378525,
+        "word": "男方嫌30万彩礼多只肯出1万8包三金",
+        "onboard_time": 1673350472,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1076349,
+        "num": 1076349,
+        "word": "你介意对象谈过很久的前任吗",
+        "onboard_time": 1673359533,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1001239,
+        "num": 1001239,
+        "word": "家长炮轰中国奇谭",
+        "onboard_time": 1673346149,
+        "rank": 6,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 664647,
+        "num": 664647,
+        "word": "张文宏称存在无症状感染者",
+        "onboard_time": 1673362955,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598480,
+        "num": 598480,
+        "word": "19岁小伙腰痛拍片肠胃里全是奶茶珍珠",
+        "onboard_time": 1673350592,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593906,
+        "num": 593906,
+        "word": "CCTV6将首播刘亦菲版花木兰",
+        "onboard_time": 1673362535,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 538898,
+        "num": 538898,
+        "word": "猫猫的尿怎么可以这么大泡",
+        "onboard_time": 1673361753,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 526667,
+        "num": 526667,
+        "word": "女孩因和男友条件差距大分手痛哭",
+        "onboard_time": 1673353710,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507777,
+        "num": 507777,
+        "word": "eStar开除运营",
+        "onboard_time": 1673362837,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 497574,
+        "num": 497574,
+        "word": "再见爱人 这一期哭死我",
+        "onboard_time": 1673355753,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484208,
+        "num": 484208,
+        "word": "杨某人官宣恋情",
+        "onboard_time": 1673352931,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 464803,
+        "num": 464803,
+        "word": "王凯 制服的神",
+        "onboard_time": 1673363495,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 448925,
+        "num": 448925,
+        "word": "大侦探8演唱会连播两天",
+        "onboard_time": 1673356114,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441757,
+        "num": 441757,
+        "word": "谭松韵说向风而行缺谁都不行",
+        "onboard_time": 1673362656,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354257,
+        "num": 354257,
+        "word": "马龙3比4吉村真晴",
+        "onboard_time": 1673357371,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300321,
+        "num": 300321,
+        "word": "目前行情下你还考虑年后离职吗",
+        "onboard_time": 1673360974,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432031,
+        "num": 298554,
+        "word": "唐嫣获评上海市二级演员",
+        "onboard_time": 1673353892,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405890,
+        "num": 297835,
+        "word": "张九南 演出",
+        "onboard_time": 1673360794,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358214,
+        "num": 297160,
+        "word": "宋木子 鑫仔",
+        "onboard_time": 1673355273,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293043,
+        "num": 293043,
+        "word": "31岁小伙相亲恋爱差点当爷爷",
+        "onboard_time": 1673350952,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 286189,
+        "num": 286189,
+        "word": "eStar 运营",
+        "onboard_time": 1673361877,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237789,
+        "num": 237789,
+        "word": "普通的小狗突然不普通了",
+        "onboard_time": 1673357250,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237606,
+        "num": 237606,
+        "word": "外交部回应暂停向日本游客发放签证",
+        "onboard_time": 1673342248,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 211929,
+        "num": 211929,
+        "word": "韩国未进中国春节前十名出境游目的地",
+        "onboard_time": 1673336070,
+        "rank": 27,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 196816,
+        "num": 196816,
+        "word": "外交部回应暂停签发韩公民赴华短期签证",
+        "onboard_time": 1673345428,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181183,
+        "num": 181183,
+        "word": "DRG 真的刀",
+        "onboard_time": 1673359174,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 357816,
+        "num": 181159,
+        "word": "柬埔寨首相说柬埔寨不靠中国还能靠谁",
+        "onboard_time": 1673362474,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 328628,
+        "num": 180874,
+        "word": "王鹤棣戴耳环",
+        "onboard_time": 1673359355,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305582,
+        "num": 180772,
+        "word": "导演何平去世",
+        "onboard_time": 1673349570,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293782,
+        "num": 180571,
+        "word": "张杰认为教育孩子不能用吼的",
+        "onboard_time": 1673357312,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290377,
+        "num": 180404,
+        "word": "林俊杰周杰伦可惜没如果合作舞台",
+        "onboard_time": 1673363795,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229419,
+        "num": 180272,
+        "word": "美国脱口秀主持人称XBB.1.5是最好的变种",
+        "onboard_time": 1673363374,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180211,
+        "num": 180211,
+        "word": "七成00后打算过年给父母包红包",
+        "onboard_time": 1673357675,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154434,
+        "num": 154434,
+        "word": "马龙 记分牌",
+        "onboard_time": 1673355992,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153614,
+        "num": 153614,
+        "word": "我驻日使馆发布通知",
+        "onboard_time": 1673356893,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 153534,
+        "num": 153534,
+        "word": "美食博主让餐厅起死回生",
+        "onboard_time": 1673364268,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 264669,
+        "num": 149807,
+        "word": "顾南亭眼睛",
+        "onboard_time": 1673360433,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199111,
+        "num": 148431,
+        "word": "浮图缘虐不过两集",
+        "onboard_time": 1673352931,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145974,
+        "num": 145974,
+        "word": "菜鸟将投2亿补贴快递员爬楼送货上门",
+        "onboard_time": 1673345849,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 140522,
+        "num": 140522,
+        "word": "血氧仪到底准不准",
+        "onboard_time": 1673350231,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 133278,
+        "num": 133278,
+        "word": "小狗长大仿佛一瞬间的事",
+        "onboard_time": 1673358575,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123896,
+        "num": 123896,
+        "word": "王楚钦",
+        "onboard_time": 1673353649,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103816,
+        "num": 103816,
+        "word": "WBG春季赛大名单",
+        "onboard_time": 1673358392,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103243,
+        "num": 103243,
+        "word": "赴韩中国人自费核酸一次8万韩元",
+        "onboard_time": 1673337869,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103123,
+        "num": 103123,
+        "word": "Hero 大制作",
+        "onboard_time": 1673358633,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101124,
+        "num": 101124,
+        "word": "贪官嗜赌成瘾一上牌桌如打鸡血",
+        "onboard_time": 1673356292,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#展现可信可爱可敬的中国形象#"
+    }
+  }
+}
