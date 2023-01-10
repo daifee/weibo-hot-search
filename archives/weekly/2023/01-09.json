@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673349367531,
+  "endTime": 1673350416693,
   "band_list": [
     {
       "raw_hot": 3536801,
@@ -347,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1023260,
+      "num": 1023260,
+      "word": "菜鸟将投2亿补贴快递员爬楼送货上门",
+      "onboard_time": 1673345849,
+      "rank": 49,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1018303,
       "num": 1018303,
       "word": "开年第一部烂尾剧",
@@ -499,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 879692,
-      "num": 879692,
-      "word": "菜鸟将投2亿补贴快递员爬楼送货上门",
-      "onboard_time": 1673345849,
-      "rank": 49,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 872101,
       "num": 489293,
       "word": "YG新女团成员正面生图",
@@ -609,6 +609,14 @@
       "onboard_time": 1673266889,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 836511,
+      "num": 430738,
+      "word": "导演何平去世",
+      "onboard_time": 1673349570,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 831161,
@@ -1515,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444155,
+      "num": 444155,
+      "word": "江部长永久停飞",
+      "onboard_time": 1673347050,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443873,
       "num": 443873,
       "word": "教育局回应长清一中高考听力卡顿",
@@ -1593,6 +1609,14 @@
       "onboard_time": 1673342851,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422922,
+      "num": 422922,
+      "word": "你吃锅包肉第一口会咳嗽吗",
+      "onboard_time": 1673346390,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 418860,
@@ -1691,14 +1715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 400272,
-      "num": 400272,
-      "word": "你吃锅包肉第一口会咳嗽吗",
-      "onboard_time": 1673346390,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 398019,
       "num": 398019,
       "word": "你家12月电费多少钱",
@@ -1755,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391475,
+      "num": 391475,
+      "word": "唐莲下线",
+      "onboard_time": 1673349390,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388553,
       "num": 388553,
       "word": "乙类乙管为何不提前到夏天",
@@ -1809,14 +1833,6 @@
       "onboard_time": 1673276132,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 377536,
-      "num": 377536,
-      "word": "江部长永久停飞",
-      "onboard_time": 1673347050,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 377008,
@@ -1881,6 +1897,14 @@
       "onboard_time": 1673248109,
       "rank": 32,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 367728,
+      "num": 367728,
+      "word": "KPL奇妙夜",
+      "onboard_time": 1673348611,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 366010,
@@ -2243,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310602,
+      "num": 310602,
+      "word": "王凯说顾南亭会从光里走来",
+      "onboard_time": 1673349691,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 309418,
       "num": 309418,
       "word": "白鹿灰色背心居家写真",
@@ -2467,6 +2499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277921,
+      "num": 277921,
+      "word": "何润东说慕容高巩只做三件事",
+      "onboard_time": 1673350048,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277622,
       "num": 277622,
       "word": "谢之遥介绍许红豆是老板娘",
@@ -2657,6 +2697,14 @@
       "onboard_time": 1673313627,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251527,
+      "num": 188414,
+      "word": "王源黑胶唱片销售额突破7000万",
+      "onboard_time": 1673350351,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 250332,
@@ -2923,14 +2971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225642,
-      "num": 225642,
-      "word": "KPL奇妙夜",
-      "onboard_time": 1673348611,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 225294,
       "num": 134155,
       "word": "顾南亭对程霄说你现在不是一个人",
@@ -3097,6 +3137,14 @@
       "onboard_time": 1673252190,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212810,
+      "num": 212810,
+      "word": "微博最受欢迎画手",
+      "onboard_time": 1673346931,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 212723,
@@ -3411,14 +3459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186347,
-      "num": 186347,
-      "word": "微博最受欢迎画手",
-      "onboard_time": 1673346931,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 186180,
       "num": 123059,
       "word": "肖铎逃不过步音楼",
@@ -3691,6 +3731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165950,
+      "num": 165950,
+      "word": "3名男生向居民家中扔鞭炮后逃跑",
+      "onboard_time": 1673347473,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165295,
       "num": 165295,
       "word": "V5正式官宣更名NIP",
@@ -3832,14 +3880,6 @@
       "word": "永远吹冲锋号",
       "onboard_time": 1673273195,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157133,
-      "num": 157133,
-      "word": "3名男生向居民家中扔鞭炮后逃跑",
-      "onboard_time": 1673347473,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -4065,6 +4105,14 @@
       "onboard_time": 1673189434,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136021,
+      "num": 136021,
+      "word": "男生做饭忘关火厨房变灾难现场",
+      "onboard_time": 1673349509,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135860,
@@ -4371,6 +4419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107727,
+      "num": 107727,
+      "word": "血氧仪到底准不准",
+      "onboard_time": 1673350231,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 107175,
       "num": 107175,
       "word": "谢广坤在演一种很新的港剧",
@@ -4417,6 +4473,14 @@
       "onboard_time": 1673252609,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103499,
+      "num": 103499,
+      "word": "分手需不需要当面说清",
+      "onboard_time": 1673350110,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 103028,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1673350416693,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3432848,
+        "num": 3432848,
+        "word": "家长炮轰中国奇谭",
+        "onboard_time": 1673346149,
+        "rank": 0,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 1023260,
+        "num": 1023260,
+        "word": "菜鸟将投2亿补贴快递员爬楼送货上门",
+        "onboard_time": 1673345849,
+        "rank": 1,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 38342,
+        "num": 1001795,
+        "word": "最新防疫热点10问10答",
+        "onboard_time": 1673339790,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 995518,
+        "num": 995518,
+        "word": "外交部回应暂停向日本游客发放签证",
+        "onboard_time": 1673342248,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 874192,
+        "num": 874192,
+        "word": "外交部回应暂停签发韩公民赴华短期签证",
+        "onboard_time": 1673345428,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724312,
+        "num": 724312,
+        "word": "韩国未进中国春节前十名出境游目的地",
+        "onboard_time": 1673336070,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 666325,
+        "num": 666325,
+        "word": "不烫不死心烫完心死了",
+        "onboard_time": 1673337630,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 468900,
+        "num": 468900,
+        "word": "赴韩中国人自费核酸一次8万韩元",
+        "onboard_time": 1673337869,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444155,
+        "num": 444155,
+        "word": "江部长永久停飞",
+        "onboard_time": 1673347050,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435637,
+        "num": 435637,
+        "word": "特斯拉中国三天获3万辆订单",
+        "onboard_time": 1673338109,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 836511,
+        "num": 430738,
+        "word": "导演何平去世",
+        "onboard_time": 1673349570,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422922,
+        "num": 422922,
+        "word": "你吃锅包肉第一口会咳嗽吗",
+        "onboard_time": 1673346390,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 391475,
+        "num": 391475,
+        "word": "唐莲下线",
+        "onboard_time": 1673349390,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367728,
+        "num": 367728,
+        "word": "KPL奇妙夜",
+        "onboard_time": 1673348611,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 343467,
+        "num": 343467,
+        "word": "儿子听到父亲埋怨其不回家杀年猪大哭",
+        "onboard_time": 1673336671,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328990,
+        "num": 328990,
+        "word": "马克龙罕见回应为何与老师结婚",
+        "onboard_time": 1673339549,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 313666,
+        "num": 313666,
+        "word": "LPL将有两支队伍参加MSI",
+        "onboard_time": 1673344229,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 310602,
+        "num": 310602,
+        "word": "王凯说顾南亭会从光里走来",
+        "onboard_time": 1673349691,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288513,
+        "num": 288513,
+        "word": "韩版青簪行预告",
+        "onboard_time": 1673337930,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280648,
+        "num": 280648,
+        "word": "我去了能捡一整天",
+        "onboard_time": 1673342551,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280912,
+        "num": 279323,
+        "word": "蜡笔小醒",
+        "onboard_time": 1673342609,
+        "rank": 20,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 277921,
+        "num": 277921,
+        "word": "何润东说慕容高巩只做三件事",
+        "onboard_time": 1673350048,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277694,
+        "num": 277694,
+        "word": "顾南亭表白连续被打断",
+        "onboard_time": 1673345070,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275629,
+        "num": 275629,
+        "word": "男子发输液水结晶被网友提醒不能打",
+        "onboard_time": 1673338409,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265799,
+        "num": 265799,
+        "word": "再就业男团 万人演唱会",
+        "onboard_time": 1673330850,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232490,
+        "num": 232490,
+        "word": "女子50元买仓鼠第1天就被咬花1000",
+        "onboard_time": 1673339909,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213638,
+        "num": 213638,
+        "word": "大学生开始互相撕伞了",
+        "onboard_time": 1673327074,
+        "rank": 26,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 212810,
+        "num": 212810,
+        "word": "微博最受欢迎画手",
+        "onboard_time": 1673346931,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 208340,
+        "num": 208340,
+        "word": "Fly去哪儿",
+        "onboard_time": 1673345671,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194003,
+        "num": 194003,
+        "word": "三亚警方通报6名男子身挎相机互殴",
+        "onboard_time": 1673341950,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254155,
+        "num": 192057,
+        "word": "谭维维也在嗑命韵峋环",
+        "onboard_time": 1673345549,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251527,
+        "num": 188414,
+        "word": "王源黑胶唱片销售额突破7000万",
+        "onboard_time": 1673350351,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235879,
+        "num": 187554,
+        "word": "网红依川川因病去世",
+        "onboard_time": 1673315966,
+        "rank": 32,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 182394,
+        "num": 182394,
+        "word": "中国驻韩国大使馆发布通知",
+        "onboard_time": 1673329768,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 181037,
+        "num": 181037,
+        "word": "这是给大学生准备的拖鞋吧",
+        "onboard_time": 1673342609,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178049,
+        "num": 178049,
+        "word": "门票要你三十还是亏了",
+        "onboard_time": 1673348191,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165950,
+        "num": 165950,
+        "word": "3名男生向居民家中扔鞭炮后逃跑",
+        "onboard_time": 1673347473,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153810,
+        "num": 153810,
+        "word": "蝉冰雪女典藏皮肤",
+        "onboard_time": 1673335412,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151532,
+        "num": 151532,
+        "word": "考完教资面试的后遗症",
+        "onboard_time": 1673339969,
+        "rank": 38,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 145985,
+        "num": 145985,
+        "word": "暂停签发韩公民赴华短期签证",
+        "onboard_time": 1673325569,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233385,
+        "num": 143552,
+        "word": "白鹿灰色背心居家写真",
+        "onboard_time": 1673346330,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213305,
+        "num": 141121,
+        "word": "权志龙确定与YG续约",
+        "onboard_time": 1673338588,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179555,
+        "num": 140634,
+        "word": "网传肖战骄阳伴我有蹦迪戏份",
+        "onboard_time": 1673337510,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136281,
+        "num": 136281,
+        "word": "中国警察全警种图鉴",
+        "onboard_time": 1673347891,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136021,
+        "num": 136021,
+        "word": "男生做饭忘关火厨房变灾难现场",
+        "onboard_time": 1673349509,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133282,
+        "num": 133282,
+        "word": "Duke担任NIP教练",
+        "onboard_time": 1673349029,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124657,
+        "num": 124657,
+        "word": "女子为宠物置办年货后脱单",
+        "onboard_time": 1673341410,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110824,
+        "num": 110824,
+        "word": "旅游平台韩国入华订票量第一",
+        "onboard_time": 1673333189,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 107727,
+        "num": 107727,
+        "word": "血氧仪到底准不准",
+        "onboard_time": 1673350231,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 103499,
+        "num": 103499,
+        "word": "分手需不需要当面说清",
+        "onboard_time": 1673350110,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#建立更高水平的平安中国#"
+    }
+  }
+}
