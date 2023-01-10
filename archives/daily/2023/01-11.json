@@ -1,6 +1,6 @@
 {
   "startTime": 1673368158524,
-  "endTime": 1673382814071,
+  "endTime": 1673385430557,
   "band_list": [
     {
       "raw_hot": 3062974,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92360,
+      "num": 20504,
+      "word": "韩国男子杀害中国妻子未遂获减刑",
+      "onboard_time": 1673383633,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 90620,
       "num": 90620,
       "word": "马龙 记分牌",
@@ -505,6 +513,14 @@
       "onboard_time": 1673359051,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 19599,
+      "num": 19599,
+      "word": "如何看待中国奇谭的爆火",
+      "onboard_time": 1673352089,
+      "rank": 35,
+      "category": "动漫"
     }
   ],
   "hotgov_list": [

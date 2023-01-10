@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673382814071,
+  "endTime": 1673385430557,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -24537,6 +24537,14 @@
       "onboard_time": 1672487926,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 92360,
+      "num": 20504,
+      "word": "韩国男子杀害中国妻子未遂获减刑",
+      "onboard_time": 1673383633,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 91996,
