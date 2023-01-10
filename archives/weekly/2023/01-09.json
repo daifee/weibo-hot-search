@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673371135629,
+  "endTime": 1673372142339,
   "band_list": [
     {
       "raw_hot": 3536801,
@@ -4435,6 +4435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161630,
+      "num": 161630,
+      "word": "张兰称一定会和茅台合作的",
+      "onboard_time": 1673371699,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161302,
       "num": 161302,
       "word": "再就业男团重回宿舍生活",
@@ -4811,6 +4819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 131244,
+      "num": 85217,
+      "word": "网红餐厅爆满女子被安排前台就餐",
+      "onboard_time": 1673370799,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129831,
       "num": 129831,
       "word": "快递小哥多少有点全能",
@@ -4993,6 +5009,14 @@
       "onboard_time": 1673322748,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114753,
+      "num": 83878,
+      "word": "一人表演五人丢脸",
+      "onboard_time": 1673371998,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 114563,
@@ -5427,20 +5451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55914,
-      "num": 55914,
-      "word": "网红餐厅爆满女子被安排前台就餐",
-      "onboard_time": 1673370799,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49068,
       "num": 49068,
       "word": "杨玏说出了作为子女的心里话",
       "onboard_time": 1673209333,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 44229,
+      "num": 44229,
+      "word": "半瘫痪女孩居家打3份工月入过万",
+      "onboard_time": 1673371879,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30296,
