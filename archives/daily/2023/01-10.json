@@ -1,7 +1,15 @@
 {
   "startTime": 1673281966955,
-  "endTime": 1673307226149,
+  "endTime": 1673314749798,
   "band_list": [
+    {
+      "raw_hot": 1957831,
+      "num": 1957831,
+      "word": "同居四天后分手男子要求返还彩礼",
+      "onboard_time": 1673313029,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1310196,
       "num": 1310196,
@@ -9,6 +17,14 @@
       "onboard_time": 1673279308,
       "rank": 0,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 1258361,
+      "num": 873972,
+      "word": "男孩得知父亲想生三胎怒怼父亲",
+      "onboard_time": 1673307563,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1112163,
@@ -19,8 +35,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 988098,
+      "num": 988098,
+      "word": "开年第一部烂尾剧",
+      "onboard_time": 1673307441,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 964051,
-      "num": 289191,
+      "num": 577529,
       "word": "黄锐自曝每月还欠款二十万",
       "onboard_time": 1673279549,
       "rank": 12,
@@ -35,12 +59,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 869525,
+      "num": 869525,
+      "word": "女子顺丰寄4万手表疑被调包仅赔百元",
+      "onboard_time": 1673313387,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 865492,
+      "num": 865492,
+      "word": "一个舍得买一个舍不得要",
+      "onboard_time": 1673306958,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 848612,
+      "num": 848612,
+      "word": "扫福",
+      "onboard_time": 1673312370,
+      "rank": 6,
+      "category": "科技,情感"
+    },
+    {
       "raw_hot": 824586,
       "num": 661062,
       "word": "河南新冠病毒感染率为89.0%",
       "onboard_time": 1673278529,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794941,
+      "num": 794941,
+      "word": "姚安娜新剧台词",
+      "onboard_time": 1673310627,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 681826,
@@ -57,6 +113,14 @@
       "onboard_time": 1673276371,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636932,
+      "num": 636932,
+      "word": "一私募员工捐款1.38亿",
+      "onboard_time": 1673311349,
+      "rank": 8,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 630519,
@@ -89,6 +153,30 @@
       "onboard_time": 1673272653,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 515560,
+      "num": 515560,
+      "word": "小伙买世界最亮手电筒打开亮度惊人",
+      "onboard_time": 1673310866,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489109,
+      "num": 489109,
+      "word": "武大靖说能把照片颜色调一下吗害怕",
+      "onboard_time": 1673309488,
+      "rank": 11,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 477864,
+      "num": 477864,
+      "word": "大爷心疼网友吃猕猴桃酸掉牙",
+      "onboard_time": 1673312070,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441419,
@@ -139,6 +227,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276735,
+      "num": 276735,
+      "word": "Windows7将彻底退出历史舞台",
+      "onboard_time": 1673310448,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 274228,
+      "num": 274228,
+      "word": "第一次被机场耍大牌爽到",
+      "onboard_time": 1673281285,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 268378,
+      "num": 268378,
+      "word": "福字",
+      "onboard_time": 1673310027,
+      "rank": 19,
+      "category": "科技,情感"
+    },
+    {
       "raw_hot": 257239,
       "num": 257239,
       "word": "奥比岛",
@@ -153,6 +265,14 @@
       "onboard_time": 1673275832,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252351,
+      "num": 252351,
+      "word": "人社部部长谈2023毕业生就业",
+      "onboard_time": 1673313869,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 248556,
@@ -171,12 +291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242623,
+      "num": 242623,
+      "word": "谁将成为法国队新任队长",
+      "onboard_time": 1673309127,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235781,
       "num": 161789,
       "word": "制片人回应陈飞宇张婧仪二搭",
       "onboard_time": 1673273195,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 230079,
+      "num": 230079,
+      "word": "猫在烘干箱里的样子",
+      "onboard_time": 1673309488,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 228095,
@@ -195,6 +331,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 224047,
+      "num": 224047,
+      "word": "塞尔达传说或将改编动画电影",
+      "onboard_time": 1673305518,
+      "rank": 30,
+      "category": "游戏,影视"
+    },
+    {
+      "raw_hot": 219513,
+      "num": 187567,
+      "word": "许红豆坐在谢之遥的副驾",
+      "onboard_time": 1673314348,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210553,
       "num": 128429,
       "word": "去有风的地方不够看",
@@ -209,6 +361,14 @@
       "onboard_time": 1673283561,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203838,
+      "num": 203838,
+      "word": "千万别把小猫单独留在家里",
+      "onboard_time": 1673307382,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 202120,
@@ -228,11 +388,19 @@
     },
     {
       "raw_hot": 197068,
-      "num": 129770,
+      "num": 187566,
       "word": "Lisa泰国见面会生图",
       "onboard_time": 1673282425,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194982,
+      "num": 194982,
+      "word": "王鹤棣虞书欣苍兰诀入围年度全端最佳剧集",
+      "onboard_time": 1673305816,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 191706,
@@ -243,6 +411,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189594,
+      "num": 189594,
+      "word": "我国有多少种警察",
+      "onboard_time": 1673313627,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189317,
+      "num": 187566,
+      "word": "走不出的浪浪山 过不了的书简湖",
+      "onboard_time": 1673309066,
+      "rank": 32,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 188068,
       "num": 188068,
       "word": "seventeen堂吉诃德舞台只练了三天",
@@ -251,12 +435,36 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 187645,
-      "num": 187645,
-      "word": "第一次被机场耍大牌爽到",
-      "onboard_time": 1673281285,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 187684,
+      "num": 187684,
+      "word": "一只平凡的小猪",
+      "onboard_time": 1673311889,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 187567,
+      "num": 187567,
+      "word": "詹姆斯米切尔当选周最佳",
+      "onboard_time": 1673311049,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187565,
+      "num": 187565,
+      "word": "奥密克戎毒株肺炎发生率比德尔塔小",
+      "onboard_time": 1673280507,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184836,
+      "num": 184836,
+      "word": "林娜琏俞定延MOMO预告照",
+      "onboard_time": 1673311947,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 184472,
@@ -280,6 +488,14 @@
       "word": "王一博无名长空之王梦幻联动",
       "onboard_time": 1673281824,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 179940,
+      "num": 123356,
+      "word": "7部新片定档大年初一",
+      "onboard_time": 1673308705,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -307,14 +523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 173320,
-      "num": 173320,
-      "word": "奥密克戎毒株肺炎发生率比德尔塔小",
-      "onboard_time": 1673280507,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172372,
       "num": 172372,
       "word": "奥密克戎毒株致病性明显下降",
@@ -339,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168344,
+      "num": 168344,
+      "word": "当猫咪碰上防抓膜",
+      "onboard_time": 1673309665,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163807,
       "num": 110012,
       "word": "蔡依林演唱会造型",
@@ -353,14 +569,6 @@
       "onboard_time": 1673274634,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160880,
-      "num": 160880,
-      "word": "塞尔达传说或将改编动画电影",
-      "onboard_time": 1673305518,
-      "rank": 30,
-      "category": "游戏,影视"
     },
     {
       "raw_hot": 155060,
@@ -379,12 +587,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 153473,
-      "num": 153473,
-      "word": "王鹤棣虞书欣苍兰诀入围年度全端最佳剧集",
-      "onboard_time": 1673305816,
-      "rank": 9,
-      "category": "影视"
+      "raw_hot": 152406,
+      "num": 152406,
+      "word": "95后女警轻松驾驭600斤机车",
+      "onboard_time": 1673312309,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141263,
@@ -401,6 +609,14 @@
       "onboard_time": 1673253090,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137305,
+      "num": 122844,
+      "word": "步步惊心BGM是大中国",
+      "onboard_time": 1673314648,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 136943,
@@ -435,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120989,
+      "num": 120989,
+      "word": "远嫁女儿隔四年回家爸妈喜极而泣",
+      "onboard_time": 1673314226,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119409,
       "num": 119409,
       "word": "欠北方的雪可能要还了",
@@ -457,6 +681,38 @@
       "onboard_time": 1673273735,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113885,
+      "num": 113885,
+      "word": "萌娃嫌饭难吃拿碗勺想去邻居家蹭",
+      "onboard_time": 1673314468,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112326,
+      "num": 112326,
+      "word": "这好大喜功的地方官用近7亿建公园",
+      "onboard_time": 1673271993,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111590,
+      "num": 111590,
+      "word": "这不是电影这是真实警察故事",
+      "onboard_time": 1673312847,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111304,
+      "num": 111304,
+      "word": "相爱的人永远都能和好吗",
+      "onboard_time": 1673308283,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 108859,
@@ -497,14 +753,6 @@
       "onboard_time": 1673259267,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 79444,
-      "num": 79444,
-      "word": "这好大喜功的地方官用近7亿建公园",
-      "onboard_time": 1673271993,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78758,
@@ -563,14 +811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 60860,
-      "num": 60860,
-      "word": "一个舍得买一个舍不得要",
-      "onboard_time": 1673306958,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 58551,
       "num": 40938,
       "word": "苏醒一个人完成了接词游戏",
@@ -595,8 +835,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15744,
-      "num": 662786,
+      "raw_hot": 17023,
+      "num": 874932,
       "word": "当前疫情最新热点十问十答",
       "onboard_time": 1673251830,
       "rank": 2,
