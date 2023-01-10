@@ -1,0 +1,410 @@
+{
+  "runTime": 1673386425590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 300793,
+        "num": 300793,
+        "word": "人民网评余景天粉丝接机制造拥堵",
+        "onboard_time": 1673368046,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 280223,
+        "num": 280223,
+        "word": "韩国",
+        "onboard_time": 1673360732,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 12383,
+        "num": 234816,
+        "word": "守护你回家的路",
+        "onboard_time": 1673359051,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 208685,
+        "num": 208685,
+        "word": "专家劝百姓拿出三分之一存款买房",
+        "onboard_time": 1673359892,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97311,
+        "num": 97311,
+        "word": "男方嫌30万彩礼多只肯出1万8包三金",
+        "onboard_time": 1673350472,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89556,
+        "num": 89556,
+        "word": "网红餐厅爆满女子被安排前台就餐",
+        "onboard_time": 1673370799,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82501,
+        "num": 82501,
+        "word": "家长炮轰中国奇谭",
+        "onboard_time": 1673346149,
+        "rank": 6,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 76698,
+        "num": 76698,
+        "word": "前中国首富李河君被警方带走",
+        "onboard_time": 1673365293,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 63381,
+        "num": 63381,
+        "word": "暂停审发日本公民赴华普通签证",
+        "onboard_time": 1673356051,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 51203,
+        "num": 51203,
+        "word": "你介意对象谈过很久的前任吗",
+        "onboard_time": 1673359533,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75274,
+        "num": 51198,
+        "word": "张文宏称存在无症状感染者",
+        "onboard_time": 1673362955,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55117,
+        "num": 51198,
+        "word": "半瘫痪女孩居家打3份工月入过万",
+        "onboard_time": 1673371879,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55021,
+        "num": 51191,
+        "word": "赴韩中国游客一下飞机就被挂黄牌",
+        "onboard_time": 1673377035,
+        "rank": 12,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 51185,
+        "num": 51185,
+        "word": "张兰称一定会和茅台合作的",
+        "onboard_time": 1673371699,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45639,
+        "num": 45639,
+        "word": "专家称现在正是房价低的时候",
+        "onboard_time": 1673367270,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 40448,
+        "num": 40448,
+        "word": "狗子跳车拦住怀孕主人下一秒山路塌方",
+        "onboard_time": 1673364632,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36430,
+        "num": 36430,
+        "word": "女孩因和男友条件差距大分手痛哭",
+        "onboard_time": 1673353710,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36223,
+        "num": 36223,
+        "word": "美国脱口秀主持人称XBB.1.5是最好的变种",
+        "onboard_time": 1673363374,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33775,
+        "num": 33775,
+        "word": "猫猫的尿怎么可以这么大泡",
+        "onboard_time": 1673361753,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32936,
+        "num": 32936,
+        "word": "柬埔寨首相说柬埔寨不靠中国还能靠谁",
+        "onboard_time": 1673362474,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 31596,
+        "num": 31596,
+        "word": "eStar开除运营",
+        "onboard_time": 1673362837,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30291,
+        "num": 30291,
+        "word": "虞书欣王鹤棣的采访",
+        "onboard_time": 1673366189,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27802,
+        "num": 27802,
+        "word": "一人表演五人丢脸",
+        "onboard_time": 1673371998,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27717,
+        "num": 27717,
+        "word": "31岁小伙相亲恋爱差点当爷爷",
+        "onboard_time": 1673350952,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 27253,
+        "num": 27253,
+        "word": "19岁小伙腰痛拍片肠胃里全是奶茶珍珠",
+        "onboard_time": 1673350592,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26825,
+        "num": 26825,
+        "word": "再见爱人 这一期哭死我",
+        "onboard_time": 1673355753,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25895,
+        "num": 25895,
+        "word": "羊了个羊",
+        "onboard_time": 1673365832,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25556,
+        "num": 25556,
+        "word": "钎九",
+        "onboard_time": 1673364873,
+        "rank": 27,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 24242,
+        "num": 24242,
+        "word": "外交部回应暂停签发韩公民赴华短期签证",
+        "onboard_time": 1673345428,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22901,
+        "num": 22901,
+        "word": "张九南 演出",
+        "onboard_time": 1673360794,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134180,
+        "num": 22860,
+        "word": "韩国男子杀害中国妻子未遂获减刑",
+        "onboard_time": 1673383633,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 25613,
+        "num": 22825,
+        "word": "美食博主让餐厅起死回生",
+        "onboard_time": 1673364268,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 22127,
+        "num": 22127,
+        "word": "韩国未进中国春节前十名出境游目的地",
+        "onboard_time": 1673336070,
+        "rank": 32,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 21956,
+        "num": 21956,
+        "word": "男子疑吃红烧肉挑出多条猪肉绦虫",
+        "onboard_time": 1673385431,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21926,
+        "num": 21926,
+        "word": "小猫咪是怎么凶人的",
+        "onboard_time": 1673365110,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19802,
+        "num": 19802,
+        "word": "唐嫣获评上海市二级演员",
+        "onboard_time": 1673353892,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19706,
+        "num": 19706,
+        "word": "老外用中国的一块手表进行全球交换",
+        "onboard_time": 1673369964,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19517,
+        "num": 19517,
+        "word": "CCTV6将首播刘亦菲版花木兰",
+        "onboard_time": 1673362535,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18656,
+        "num": 18656,
+        "word": "目前行情下你还考虑年后离职吗",
+        "onboard_time": 1673360974,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18469,
+        "num": 18469,
+        "word": "大侦探8演唱会连播两天",
+        "onboard_time": 1673356114,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18413,
+        "num": 18413,
+        "word": "eStar 运营",
+        "onboard_time": 1673361877,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18035,
+        "num": 18035,
+        "word": "马龙3比4吉村真晴",
+        "onboard_time": 1673357371,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17661,
+        "num": 17661,
+        "word": "七成00后打算过年给父母包红包",
+        "onboard_time": 1673357675,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16789,
+        "num": 16789,
+        "word": "王凯 制服的神",
+        "onboard_time": 1673363495,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15325,
+        "num": 15325,
+        "word": "迪丽热巴致敬中国人民警察宣传VCR",
+        "onboard_time": 1673367031,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15069,
+        "num": 15069,
+        "word": "曾黎说也不过是自己的一厢情愿罢了",
+        "onboard_time": 1673385971,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14735,
+        "num": 14735,
+        "word": "林俊杰周杰伦可惜没如果合作舞台",
+        "onboard_time": 1673363795,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13907,
+        "num": 13907,
+        "word": "外交部回应暂停向日本游客发放签证",
+        "onboard_time": 1673342248,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 13890,
+        "num": 13890,
+        "word": "如何看待中国奇谭的爆火",
+        "onboard_time": 1673352089,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 12983,
+        "num": 13888,
+        "word": "俄拟立法允许盗版好莱坞大片合法上映",
+        "onboard_time": 1673385912,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面从严治党永远吹冲锋号#"
+    }
+  }
+}
