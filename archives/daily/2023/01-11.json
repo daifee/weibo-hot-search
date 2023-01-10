@@ -1,6 +1,6 @@
 {
   "startTime": 1673368158524,
-  "endTime": 1673386425590,
+  "endTime": 1673389120365,
   "band_list": [
     {
       "raw_hot": 3062974,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241199,
+      "num": 83331,
+      "word": "韩国男子杀害中国妻子未遂获减刑",
+      "onboard_time": 1673383633,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 214734,
       "num": 167887,
       "word": "张九南 演出",
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 178183,
-      "num": 121303,
+      "num": 152533,
       "word": "网红餐厅爆满女子被安排前台就餐",
       "onboard_time": 1673370799,
       "rank": 46,
@@ -377,14 +385,6 @@
       "onboard_time": 1673361877,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 134180,
-      "num": 22860,
-      "word": "韩国男子杀害中国妻子未遂获减刑",
-      "onboard_time": 1673383633,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 113939,
@@ -475,6 +475,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 71858,
+      "num": 71858,
+      "word": "赴韩中国游客一下飞机就被挂黄牌",
+      "onboard_time": 1673377035,
+      "rank": 47,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 71636,
       "num": 71636,
       "word": "中国智能手机换机周期或增至34个月",
@@ -491,12 +499,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 60513,
-      "num": 51932,
-      "word": "赴韩中国游客一下飞机就被挂黄牌",
-      "onboard_time": 1673377035,
-      "rank": 47,
-      "category": "社会新闻,旅游"
+      "raw_hot": 63500,
+      "num": 30090,
+      "word": "男子疑吃红烧肉挑出多条猪肉绦虫",
+      "onboard_time": 1673385431,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60160,
+      "num": 60160,
+      "word": "丈夫生前借姐姐名买房遗孀起诉要钱",
+      "onboard_time": 1673387292,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58019,
@@ -507,20 +523,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 56061,
+      "num": 29962,
+      "word": "俄拟立法允许盗版好莱坞大片合法上映",
+      "onboard_time": 1673385912,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 35418,
       "num": 1551635,
       "word": "守护你回家的路",
       "onboard_time": 1673359051,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 21956,
-      "num": 21956,
-      "word": "男子疑吃红烧肉挑出多条猪肉绦虫",
-      "onboard_time": 1673385431,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19599,
@@ -531,20 +547,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 18395,
+      "num": 18395,
+      "word": "新郎接亲时淡定嗑瓜子迎新娘",
+      "onboard_time": 1673388615,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15069,
       "num": 15069,
       "word": "曾黎说也不过是自己的一厢情愿罢了",
       "onboard_time": 1673385971,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 12983,
-      "num": 13888,
-      "word": "俄拟立法允许盗版好莱坞大片合法上映",
-      "onboard_time": 1673385912,
-      "rank": 49,
-      "category": "国外要闻"
     }
   ],
   "hotgov_list": [
