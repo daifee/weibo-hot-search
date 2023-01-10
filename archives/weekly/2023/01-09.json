@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673331866584,
+  "endTime": 1673332701728,
   "band_list": [
     {
       "raw_hot": 3436506,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1635272,
+      "num": 1635272,
+      "word": "中国驻韩国大使馆发布通知",
+      "onboard_time": 1673329768,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1622142,
       "num": 1622142,
       "word": "春晚",
@@ -137,14 +145,6 @@
       "onboard_time": 1673244148,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1583135,
-      "num": 456166,
-      "word": "中国驻韩国大使馆发布通知",
-      "onboard_time": 1673329768,
-      "rank": 10,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1520786,
@@ -299,8 +299,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 988204,
-      "num": 988204,
+      "raw_hot": 990607,
+      "num": 990607,
       "word": "大学生开始互相撕伞了",
       "onboard_time": 1673327074,
       "rank": 31,
@@ -313,6 +313,14 @@
       "onboard_time": 1673251407,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 966870,
+      "num": 966870,
+      "word": "赵樱子回应被夺舍了",
+      "onboard_time": 1673330313,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 964051,
@@ -427,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 871883,
+      "num": 871883,
+      "word": "张婉婷宋宁峰帮忙照顾Lisa",
+      "onboard_time": 1673328634,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 866136,
       "num": 866136,
       "word": "人民币升破6.8",
@@ -489,14 +505,6 @@
       "onboard_time": 1673266889,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 836002,
-      "num": 836002,
-      "word": "张婉婷宋宁峰帮忙照顾Lisa",
-      "onboard_time": 1673328634,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 831161,
@@ -691,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 682349,
+      "num": 598181,
+      "word": "艾威握紧Lisa的手说不离婚了",
+      "onboard_time": 1673329589,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 680129,
       "num": 680129,
       "word": "李现刘亦菲新剧掀大理旅游热",
@@ -729,14 +745,6 @@
       "onboard_time": 1673270911,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 663469,
-      "num": 598181,
-      "word": "艾威握紧Lisa的手说不离婚了",
-      "onboard_time": 1673329589,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 653120,
@@ -859,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570553,
+      "num": 523647,
+      "word": "再就业男团 万人演唱会",
+      "onboard_time": 1673330850,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 570516,
       "num": 570516,
       "word": "人民网评胡鑫宇失踪调查进展",
@@ -868,7 +884,7 @@
     },
     {
       "raw_hot": 569985,
-      "num": 455458,
+      "num": 479167,
       "word": "陈钰琪收到了王鹤棣品牌衣服",
       "onboard_time": 1673329110,
       "rank": 11,
@@ -961,6 +977,14 @@
       "onboard_time": 1673188297,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 536578,
+      "num": 536578,
+      "word": "医生称每次都纠结要不要给患者家属希望",
+      "onboard_time": 1673329768,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533705,
@@ -1059,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504010,
+      "num": 504010,
+      "word": "江秋莲说没收到刘鑫70万元赔偿金",
+      "onboard_time": 1673328989,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503740,
       "num": 503740,
       "word": "小偷砸车窗偷2千现金扔20万包",
@@ -1113,22 +1145,6 @@
       "onboard_time": 1673257348,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 496029,
-      "num": 496029,
-      "word": "江秋莲说没收到刘鑫70万元赔偿金",
-      "onboard_time": 1673328989,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 493293,
-      "num": 452293,
-      "word": "医生称每次都纠结要不要给患者家属希望",
-      "onboard_time": 1673329768,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 492568,
@@ -1227,14 +1243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462173,
-      "num": 263385,
-      "word": "赵樱子回应被夺舍了",
-      "onboard_time": 1673330313,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 457078,
       "num": 457078,
       "word": "RNG因与WBG纠纷被强执827万",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1673235627,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 433320,
-      "num": 252999,
-      "word": "再就业男团 万人演唱会",
-      "onboard_time": 1673330850,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 432237,
@@ -1411,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412422,
+      "num": 412422,
+      "word": "鹅鸭杀服务器被攻击",
+      "onboard_time": 1673329832,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 410529,
       "num": 400842,
       "word": "许光汉 请别",
@@ -1433,14 +1441,6 @@
       "onboard_time": 1673276252,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 407159,
-      "num": 407159,
-      "word": "鹅鸭杀服务器被攻击",
-      "onboard_time": 1673329832,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 406771,
@@ -1803,6 +1803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334570,
+      "num": 334570,
+      "word": "百兽 上厕所没纸",
+      "onboard_time": 1673330009,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 333190,
       "num": 333190,
       "word": "辉瑞称正与中国伙伴合作",
@@ -1913,6 +1921,14 @@
       "onboard_time": 1673327132,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308501,
+      "num": 308501,
+      "word": "男子疑因庇护小三当街暴打妻儿",
+      "onboard_time": 1673331870,
+      "rank": 19,
+      "category": "社会负面"
     },
     {
       "raw_hot": 306663,
@@ -2121,14 +2137,6 @@
       "onboard_time": 1673327611,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 276752,
-      "num": 276752,
-      "word": "百兽 上厕所没纸",
-      "onboard_time": 1673330009,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 276735,
@@ -2547,6 +2555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219736,
+      "num": 219736,
+      "word": "夫妻打工回家1岁半孩子满眼陌生",
+      "onboard_time": 1673331029,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217613,
       "num": 217613,
       "word": "九尾超话破百万粉丝派对",
@@ -2569,6 +2585,14 @@
       "onboard_time": 1673189138,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 215937,
+      "num": 138622,
+      "word": "月歌行双结局",
+      "onboard_time": 1673332169,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 215550,
@@ -3355,6 +3379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136965,
+      "num": 136965,
+      "word": "月销售额10万元以下小规模纳税人免征增值税",
+      "onboard_time": 1673331690,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 136943,
       "num": 136943,
       "word": "山东又要变成山冻",
@@ -3513,14 +3545,6 @@
       "onboard_time": 1673196502,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 120525,
-      "num": 120525,
-      "word": "夫妻打工回家1岁半孩子满眼陌生",
-      "onboard_time": 1673331029,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120289,
@@ -3841,14 +3865,6 @@
       "onboard_time": 1673171850,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88763,
-      "num": 88763,
-      "word": "月销售额10万元以下小规模纳税人免征增值税",
-      "onboard_time": 1673331690,
-      "rank": 47,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 87785,

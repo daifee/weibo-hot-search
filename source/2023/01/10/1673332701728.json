@@ -1,0 +1,410 @@
+{
+  "runTime": 1673332701728,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2244545,
+        "num": 2244545,
+        "word": "暂停签发韩公民赴华短期签证",
+        "onboard_time": 1673325569,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1794064,
+        "num": 1794064,
+        "word": "网红依川川因病去世",
+        "onboard_time": 1673315966,
+        "rank": 1,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 68335,
+        "num": 1675808,
+        "word": "年前返乡必知的20个防护要点",
+        "onboard_time": 1673311228,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1635272,
+        "num": 1635272,
+        "word": "中国驻韩国大使馆发布通知",
+        "onboard_time": 1673329768,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 990607,
+        "num": 990607,
+        "word": "大学生开始互相撕伞了",
+        "onboard_time": 1673327074,
+        "rank": 4,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 966870,
+        "num": 966870,
+        "word": "赵樱子回应被夺舍了",
+        "onboard_time": 1673330313,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 871883,
+        "num": 871883,
+        "word": "张婉婷宋宁峰帮忙照顾Lisa",
+        "onboard_time": 1673328634,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 839978,
+        "num": 839978,
+        "word": "网友吐槽入境韩国被挂黄牌围拍",
+        "onboard_time": 1673324070,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555159,
+        "num": 555159,
+        "word": "高拉特确认放弃中国国籍",
+        "onboard_time": 1673316748,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 536578,
+        "num": 536578,
+        "word": "医生称每次都纠结要不要给患者家属希望",
+        "onboard_time": 1673329768,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682349,
+        "num": 524428,
+        "word": "艾威握紧Lisa的手说不离婚了",
+        "onboard_time": 1673329589,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570553,
+        "num": 523647,
+        "word": "再就业男团 万人演唱会",
+        "onboard_time": 1673330850,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 504010,
+        "num": 504010,
+        "word": "江秋莲说没收到刘鑫70万元赔偿金",
+        "onboard_time": 1673328989,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479167,
+        "num": 479167,
+        "word": "陈钰琪收到了王鹤棣品牌衣服",
+        "onboard_time": 1673329110,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 449627,
+        "num": 449627,
+        "word": "RNG因与WBG纠纷被强执827万",
+        "onboard_time": 1673328091,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 414947,
+        "num": 414947,
+        "word": "做完美甲的生活状态",
+        "onboard_time": 1673327553,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 412422,
+        "num": 412422,
+        "word": "鹅鸭杀服务器被攻击",
+        "onboard_time": 1673329832,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 388746,
+        "num": 388746,
+        "word": "女子顺丰寄4万手表疑被调包仅赔百元",
+        "onboard_time": 1673313387,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334570,
+        "num": 334570,
+        "word": "百兽 上厕所没纸",
+        "onboard_time": 1673330009,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 308501,
+        "num": 308501,
+        "word": "男子疑因庇护小三当街暴打妻儿",
+        "onboard_time": 1673331870,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 426099,
+        "num": 286906,
+        "word": "张静初 黄谣不会清者自清",
+        "onboard_time": 1673326834,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410716,
+        "num": 278549,
+        "word": "大侦探",
+        "onboard_time": 1673326051,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400398,
+        "num": 272660,
+        "word": "杨幂说狐妖小红娘日程很紧张",
+        "onboard_time": 1673328390,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263263,
+        "num": 263263,
+        "word": "银行柜员挥霍储户30万元存款",
+        "onboard_time": 1673322031,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 219736,
+        "num": 219736,
+        "word": "夫妻打工回家1岁半孩子满眼陌生",
+        "onboard_time": 1673331029,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183184,
+        "num": 183184,
+        "word": "3人围炉烤红薯6小时后中毒晕倒",
+        "onboard_time": 1673316987,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179728,
+        "num": 179728,
+        "word": "福字",
+        "onboard_time": 1673310027,
+        "rank": 26,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 168038,
+        "num": 168038,
+        "word": "劳斯莱斯平均价格首次达50万欧元",
+        "onboard_time": 1673323830,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164158,
+        "num": 164158,
+        "word": "这只猫猫好不聪明的样子",
+        "onboard_time": 1673326172,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141445,
+        "num": 141445,
+        "word": "新加坡卫生部长称不对华入境设限",
+        "onboard_time": 1673319928,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 318578,
+        "num": 140860,
+        "word": "时代少年团 定制话筒",
+        "onboard_time": 1673329052,
+        "rank": 30,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 224841,
+        "num": 139692,
+        "word": "周杰伦最伟大的作品年度专辑",
+        "onboard_time": 1673325092,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215937,
+        "num": 138622,
+        "word": "月歌行双结局",
+        "onboard_time": 1673332169,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186884,
+        "num": 137940,
+        "word": "谢之遥给许红豆送花",
+        "onboard_time": 1673329890,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137554,
+        "num": 137554,
+        "word": "男孩得知父亲想生三胎怒怼父亲",
+        "onboard_time": 1673307563,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186189,
+        "num": 137353,
+        "word": "2023央视网络春晚官宣",
+        "onboard_time": 1673327970,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136965,
+        "num": 136965,
+        "word": "月销售额10万元以下小规模纳税人免征增值税",
+        "onboard_time": 1673331690,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 130981,
+        "num": 130981,
+        "word": "这猫像极了称体重的女生",
+        "onboard_time": 1673325451,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126276,
+        "num": 126276,
+        "word": "再上八天班就过年了",
+        "onboard_time": 1673325033,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126071,
+        "num": 126071,
+        "word": "骑手父亲蜗居地下室陪13岁女儿抗癌",
+        "onboard_time": 1673320228,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143467,
+        "num": 126019,
+        "word": "孙怡郭采洁再见爱人感动哭",
+        "onboard_time": 1673327730,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114440,
+        "num": 114440,
+        "word": "东部战区用最温柔的语气说最硬气的话",
+        "onboard_time": 1673316146,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113492,
+        "num": 113492,
+        "word": "中国足协的归化计划失败了吗",
+        "onboard_time": 1673325092,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110103,
+        "num": 110103,
+        "word": "山东花饽饽存在创作天花板吗",
+        "onboard_time": 1673330670,
+        "rank": 43,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 109370,
+        "num": 109370,
+        "word": "没有人能拒绝赠品的快乐",
+        "onboard_time": 1673326653,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 95815,
+        "num": 95815,
+        "word": "北京的疫情已过感染高峰期",
+        "onboard_time": 1673317349,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95578,
+        "num": 95578,
+        "word": "LOL新赛季爆料",
+        "onboard_time": 1673330850,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92190,
+        "num": 92190,
+        "word": "光遇",
+        "onboard_time": 1673323530,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82915,
+        "num": 82915,
+        "word": "特斯拉门店透露降价后销量翻倍",
+        "onboard_time": 1673320648,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 80495,
+        "num": 80495,
+        "word": "掘金战胜湖人",
+        "onboard_time": 1673325693,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#第3个中国人民警察节#"
+    }
+  }
+}
