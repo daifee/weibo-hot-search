@@ -1,0 +1,410 @@
+{
+  "runTime": 1673328818716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2986422,
+        "num": 2986422,
+        "word": "暂停签发韩公民赴华短期签证",
+        "onboard_time": 1673325569,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2574927,
+        "num": 2574927,
+        "word": "网红依川川因病去世",
+        "onboard_time": 1673315966,
+        "rank": 1,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 94498,
+        "num": 2128040,
+        "word": "年前返乡必知的20个防护要点",
+        "onboard_time": 1673311228,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1764573,
+        "num": 1764573,
+        "word": "网友吐槽入境韩国被挂黄牌围拍",
+        "onboard_time": 1673324070,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987826,
+        "num": 987826,
+        "word": "高拉特确认放弃中国国籍",
+        "onboard_time": 1673316748,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 958942,
+        "num": 958942,
+        "word": "张静初 黄谣不会清者自清",
+        "onboard_time": 1673326834,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 838406,
+        "num": 838406,
+        "word": "大侦探",
+        "onboard_time": 1673326051,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 678708,
+        "num": 678708,
+        "word": "女子顺丰寄4万手表疑被调包仅赔百元",
+        "onboard_time": 1673313387,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612484,
+        "num": 612484,
+        "word": "大学生开始互相撕伞了",
+        "onboard_time": 1673327074,
+        "rank": 8,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 446284,
+        "num": 446284,
+        "word": "银行柜员挥霍储户30万元存款",
+        "onboard_time": 1673322031,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 615613,
+        "num": 441450,
+        "word": "见租客生意好房租从26万涨到50万",
+        "onboard_time": 1673327253,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 529371,
+        "num": 438247,
+        "word": "杨幂说狐妖小红娘日程很紧张",
+        "onboard_time": 1673328390,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 448770,
+        "num": 432567,
+        "word": "优酷娱乐把张雨绮经纪人认成张雨绮",
+        "onboard_time": 1673321549,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 416133,
+        "num": 416133,
+        "word": "孙怡郭采洁再见爱人感动哭",
+        "onboard_time": 1673327730,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361255,
+        "num": 361255,
+        "word": "劳斯莱斯平均价格首次达50万欧元",
+        "onboard_time": 1673323830,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 356793,
+        "num": 356793,
+        "word": "新加坡卫生部长称不对华入境设限",
+        "onboard_time": 1673319928,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 342247,
+        "num": 342247,
+        "word": "男孩得知父亲想生三胎怒怼父亲",
+        "onboard_time": 1673307563,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337707,
+        "num": 337707,
+        "word": "福字",
+        "onboard_time": 1673310027,
+        "rank": 17,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 319274,
+        "num": 319274,
+        "word": "3人围炉烤红薯6小时后中毒晕倒",
+        "onboard_time": 1673316987,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280029,
+        "num": 280029,
+        "word": "做完美甲的生活状态",
+        "onboard_time": 1673327553,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337852,
+        "num": 278889,
+        "word": "张婉婷宋宁峰帮忙照顾Lisa",
+        "onboard_time": 1673328634,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324687,
+        "num": 278632,
+        "word": "2023央视网络春晚官宣",
+        "onboard_time": 1673327970,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314759,
+        "num": 277979,
+        "word": "周杰伦最伟大的作品年度专辑",
+        "onboard_time": 1673325092,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276626,
+        "num": 276626,
+        "word": "RNG因与WBG纠纷被强执827万",
+        "onboard_time": 1673328091,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270798,
+        "num": 270798,
+        "word": "这猫像极了称体重的女生",
+        "onboard_time": 1673325451,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252882,
+        "num": 252882,
+        "word": "再上八天班就过年了",
+        "onboard_time": 1673325033,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248699,
+        "num": 248699,
+        "word": "没有人能拒绝赠品的快乐",
+        "onboard_time": 1673326653,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 234060,
+        "num": 234060,
+        "word": "光遇",
+        "onboard_time": 1673323530,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215698,
+        "num": 215698,
+        "word": "中国足协的归化计划失败了吗",
+        "onboard_time": 1673325092,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195472,
+        "num": 195472,
+        "word": "骑手父亲蜗居地下室陪13岁女儿抗癌",
+        "onboard_time": 1673320228,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280879,
+        "num": 195147,
+        "word": "许红豆挑眉vs赵盼儿挑眉",
+        "onboard_time": 1673327611,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230004,
+        "num": 191055,
+        "word": "顾南亭给程霄妈妈的初印象",
+        "onboard_time": 1673325994,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227569,
+        "num": 186846,
+        "word": "大侦探8春暖花开如约而至",
+        "onboard_time": 1673327132,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226152,
+        "num": 183926,
+        "word": "孙悟空不愧是大家的英雄",
+        "onboard_time": 1673320528,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212869,
+        "num": 179946,
+        "word": "LESSERAFIM和NewJeans练习室打招呼",
+        "onboard_time": 1673321849,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179408,
+        "num": 179408,
+        "word": "阴阳师流光追月神CG",
+        "onboard_time": 1673328451,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173784,
+        "num": 173784,
+        "word": "黑金吉他先祖复刻",
+        "onboard_time": 1673328451,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154952,
+        "num": 154952,
+        "word": "东部战区用最温柔的语气说最硬气的话",
+        "onboard_time": 1673316146,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154881,
+        "num": 154881,
+        "word": "一私募员工捐款1.38亿",
+        "onboard_time": 1673311349,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 154405,
+        "num": 154405,
+        "word": "这只猫猫好不聪明的样子",
+        "onboard_time": 1673326172,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200355,
+        "num": 154253,
+        "word": "中国影视蓝皮书",
+        "onboard_time": 1673325693,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142799,
+        "num": 154136,
+        "word": "特斯拉门店透露降价后销量翻倍",
+        "onboard_time": 1673320648,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 141550,
+        "num": 153766,
+        "word": "北京的疫情已过感染高峰期",
+        "onboard_time": 1673317349,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137143,
+        "num": 153534,
+        "word": "年前或将迎来退租潮",
+        "onboard_time": 1673314947,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 131481,
+        "num": 153419,
+        "word": "掘金战胜湖人",
+        "onboard_time": 1673325693,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129775,
+        "num": 153065,
+        "word": "大学男生骄傲记录街头写春联的女友",
+        "onboard_time": 1673318668,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128876,
+        "num": 152865,
+        "word": "抖音去年电商交易总额达1.41万亿元",
+        "onboard_time": 1673321308,
+        "rank": 46,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 118311,
+        "num": 152548,
+        "word": "辉瑞称正与中国伙伴合作",
+        "onboard_time": 1673317768,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116858,
+        "num": 152440,
+        "word": "被红外线笔强制开机的猫咪",
+        "onboard_time": 1673325392,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 114361,
+        "num": 152002,
+        "word": "劳斯莱斯创118年来最高销量纪录",
+        "onboard_time": 1673321487,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#一刻不停推进全面从严治党#"
+    }
+  }
+}

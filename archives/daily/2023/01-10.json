@@ -1,6 +1,6 @@
 {
   "startTime": 1673281966955,
-  "endTime": 1673327815221,
+  "endTime": 1673328818716,
   "band_list": [
     {
       "raw_hot": 3436506,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 958942,
+      "num": 958942,
+      "word": "张静初 黄谣不会清者自清",
+      "onboard_time": 1673326834,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 917849,
       "num": 290656,
       "word": "茅台董事长称买不起茅台还吃不起冰淇淋吗",
@@ -211,20 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 615613,
+      "num": 441450,
+      "word": "见租客生意好房租从26万涨到50万",
+      "onboard_time": 1673327253,
+      "rank": 26,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 612484,
+      "num": 612484,
+      "word": "大学生开始互相撕伞了",
+      "onboard_time": 1673327074,
+      "rank": 31,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 609905,
       "num": 549203,
       "word": "步步惊心BGM是大中国",
       "onboard_time": 1673314648,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 597370,
-      "num": 597370,
-      "word": "张静初 黄谣不会清者自清",
-      "onboard_time": 1673326834,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 557516,
@@ -257,6 +273,14 @@
       "onboard_time": 1673272653,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 529371,
+      "num": 438247,
+      "word": "杨幂说狐妖小红娘日程很紧张",
+      "onboard_time": 1673328390,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 515560,
@@ -337,6 +361,14 @@
       "onboard_time": 1673272533,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 416133,
+      "num": 416133,
+      "word": "孙怡郭采洁再见爱人感动哭",
+      "onboard_time": 1673327730,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 412620,
@@ -427,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 337852,
+      "num": 278889,
+      "word": "张婉婷宋宁峰帮忙照顾Lisa",
+      "onboard_time": 1673328634,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333190,
       "num": 333190,
       "word": "辉瑞称正与中国伙伴合作",
@@ -441,6 +481,14 @@
       "onboard_time": 1673316627,
       "rank": 21,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 324687,
+      "num": 278632,
+      "word": "2023央视网络春晚官宣",
+      "onboard_time": 1673327970,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 324368,
@@ -524,7 +572,7 @@
     },
     {
       "raw_hot": 294797,
-      "num": 179526,
+      "num": 191055,
       "word": "顾南亭给程霄妈妈的初印象",
       "onboard_time": 1673325994,
       "rank": 30,
@@ -555,14 +603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 286013,
-      "num": 178894,
-      "word": "大学生开始互相撕伞了",
-      "onboard_time": 1673327074,
-      "rank": 31,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 285783,
       "num": 142227,
       "word": "林俊杰让观众唱不为谁而作的歌",
@@ -571,12 +611,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 280879,
+      "num": 195147,
+      "word": "许红豆挑眉vs赵盼儿挑眉",
+      "onboard_time": 1673327611,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 280029,
+      "num": 280029,
+      "word": "做完美甲的生活状态",
+      "onboard_time": 1673327553,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276735,
       "num": 276735,
       "word": "Windows7将彻底退出历史舞台",
       "onboard_time": 1673310448,
       "rank": 16,
       "category": "科技"
+    },
+    {
+      "raw_hot": 276626,
+      "num": 276626,
+      "word": "RNG因与WBG纠纷被强执827万",
+      "onboard_time": 1673328091,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 274228,
@@ -627,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248699,
+      "num": 248699,
+      "word": "没有人能拒绝赠品的快乐",
+      "onboard_time": 1673326653,
+      "rank": 25,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 248556,
       "num": 216668,
       "word": "黑暗荣耀 大婶",
@@ -643,14 +715,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 247577,
-      "num": 178517,
-      "word": "孙怡郭采洁再见爱人感动哭",
-      "onboard_time": 1673327730,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 244527,
       "num": 177357,
       "word": "顾南亭为爱苦等两天两夜",
@@ -665,14 +729,6 @@
       "onboard_time": 1673284100,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242802,
-      "num": 176579,
-      "word": "许红豆挑眉vs赵盼儿挑眉",
-      "onboard_time": 1673327611,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 242623,
@@ -755,14 +811,6 @@
       "category": "游戏,影视"
     },
     {
-      "raw_hot": 223783,
-      "num": 223783,
-      "word": "没有人能拒绝赠品的快乐",
-      "onboard_time": 1673326653,
-      "rank": 25,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 212723,
       "num": 152999,
       "word": "Angelababy拍摄路透花絮",
@@ -811,14 +859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 203664,
-      "num": 203664,
-      "word": "见租客生意好房租从26万涨到50万",
-      "onboard_time": 1673327253,
-      "rank": 26,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 202120,
       "num": 202120,
       "word": "被坐着睡觉的猫咪可爱到了",
@@ -833,6 +873,14 @@
       "onboard_time": 1673311947,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200355,
+      "num": 154253,
+      "word": "中国影视蓝皮书",
+      "onboard_time": 1673325693,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 198925,
@@ -955,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179408,
+      "num": 179408,
+      "word": "阴阳师流光追月神CG",
+      "onboard_time": 1673328451,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177076,
       "num": 177076,
       "word": "在集一种很新的福气",
@@ -993,6 +1049,14 @@
       "onboard_time": 1673326172,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173784,
+      "num": 173784,
+      "word": "黑金吉他先祖复刻",
+      "onboard_time": 1673328451,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 172372,
@@ -1123,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130354,
-      "num": 146914,
-      "word": "做完美甲的生活状态",
-      "onboard_time": 1673327553,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 127970,
       "num": 185241,
       "word": "这可能是对110最浪漫的定义",
@@ -1148,7 +1204,7 @@
     },
     {
       "raw_hot": 127362,
-      "num": 2004433,
+      "num": 2128040,
       "word": "年前返乡必知的20个防护要点",
       "onboard_time": 1673311228,
       "rank": 2,
