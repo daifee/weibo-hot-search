@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673357835137,
+  "endTime": 1673360531382,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -195,6 +195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 3030073,
+      "num": 3030073,
+      "word": "暂停审发日本公民赴华普通签证",
+      "onboard_time": 1673356051,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2967846,
       "num": 992379,
       "word": "王一博赤脚跳舞",
@@ -257,14 +265,6 @@
       "onboard_time": 1672821450,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2642276,
-      "num": 2642276,
-      "word": "暂停审发日本公民赴华普通签证",
-      "onboard_time": 1673356051,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 2613183,
@@ -3171,6 +3171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 888096,
+      "num": 888096,
+      "word": "马龙3比4吉村真晴",
+      "onboard_time": 1673357371,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 887547,
       "num": 887547,
       "word": "3人围炉烤红薯6小时后中毒晕倒",
@@ -4281,6 +4289,14 @@
       "onboard_time": 1673251169,
       "rank": 21,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 746830,
+      "num": 676628,
+      "word": "再见爱人 这一期哭死我",
+      "onboard_time": 1673355753,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 746011,
@@ -5435,14 +5451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 627341,
-      "num": 627341,
-      "word": "再见爱人 这一期哭死我",
-      "onboard_time": 1673355753,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 626125,
       "num": 626125,
       "word": "教资面试",
@@ -5465,6 +5473,14 @@
       "onboard_time": 1672571371,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 624137,
+      "num": 624137,
+      "word": "张杰认为教育孩子不能用吼的",
+      "onboard_time": 1673357312,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 624028,
@@ -6259,6 +6275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564831,
+      "num": 564831,
+      "word": "普通的小狗突然不普通了",
+      "onboard_time": 1673357250,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 564684,
       "num": 564684,
       "word": "王嘉尔最近在追的TVB剧集",
@@ -6321,6 +6345,14 @@
       "onboard_time": 1672665329,
       "rank": 31,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 562403,
+      "num": 322530,
+      "word": "王鹤棣戴耳环",
+      "onboard_time": 1673359355,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 562400,
@@ -7129,14 +7161,6 @@
       "onboard_time": 1672656092,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510353,
-      "num": 265459,
-      "word": "张杰认为教育孩子不能用吼的",
-      "onboard_time": 1673357312,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 510044,
@@ -12515,6 +12539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304785,
+      "num": 304785,
+      "word": "你介意对象谈过很久的前任吗",
+      "onboard_time": 1673359533,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304760,
       "num": 304760,
       "word": "排骨焖饭有多方便",
@@ -12697,6 +12729,14 @@
       "onboard_time": 1672541734,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300291,
+      "num": 300291,
+      "word": "我驻日使馆发布通知",
+      "onboard_time": 1673356893,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 300284,
@@ -13611,6 +13651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279959,
+      "num": 279959,
+      "word": "专家劝百姓拿出三分之一存款买房",
+      "onboard_time": 1673359892,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279685,
       "num": 225965,
       "word": "刘耀文许魏洲默契度",
@@ -13825,6 +13873,14 @@
       "onboard_time": 1672738047,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 276242,
+      "num": 276242,
+      "word": "DRG 真的刀",
+      "onboard_time": 1673359174,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 276164,
@@ -14105,6 +14161,14 @@
       "onboard_time": 1672928253,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 270639,
+      "num": 270639,
+      "word": "七成00后打算过年给父母包红包",
+      "onboard_time": 1673357675,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270559,
@@ -15163,14 +15227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248856,
-      "num": 248856,
-      "word": "马龙3比4吉村真晴",
-      "onboard_time": 1673357371,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248825,
       "num": 267823,
       "word": "杭州街头万人共喊新年倒计时",
@@ -16147,6 +16203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231112,
+      "num": 209155,
+      "word": "贺峻霖最新一期中国电影报道",
+      "onboard_time": 1673358455,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230987,
       "num": 179498,
       "word": "肖铎的就是步音楼的",
@@ -16289,6 +16353,14 @@
       "onboard_time": 1672728806,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227851,
+      "num": 185009,
+      "word": "顾南亭眼睛",
+      "onboard_time": 1673360433,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 227553,
@@ -17027,6 +17099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212395,
+      "num": 184732,
+      "word": "权顺荣夫胜宽HARUTODarari舞蹈挑战",
+      "onboard_time": 1673359174,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 212317,
       "num": 153307,
       "word": "王鹤棣片场给陈钰琪扇风",
@@ -17315,6 +17395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207553,
+      "num": 207553,
+      "word": "AG 舞王",
+      "onboard_time": 1673356893,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207143,
       "num": 421195,
       "word": "如何看待中国奇谭的爆火",
@@ -17579,12 +17667,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 201954,
-      "num": 201954,
-      "word": "AG 舞王",
-      "onboard_time": 1673356893,
+      "raw_hot": 201891,
+      "num": 201891,
+      "word": "小狗长大仿佛一瞬间的事",
+      "onboard_time": 1673358575,
       "rank": 35,
-      "category": "游戏"
+      "category": "幽默"
     },
     {
       "raw_hot": 201717,
@@ -17697,6 +17785,14 @@
       "onboard_time": 1672563152,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199467,
+      "num": 199467,
+      "word": "贪官嗜赌成瘾一上牌桌如打鸡血",
+      "onboard_time": 1673356292,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199279,
@@ -17905,6 +18001,14 @@
       "onboard_time": 1672546593,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195895,
+      "num": 195895,
+      "word": "Hero 大制作",
+      "onboard_time": 1673358633,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 195822,
@@ -18259,14 +18363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190527,
-      "num": 190527,
-      "word": "贪官嗜赌成瘾一上牌桌如打鸡血",
-      "onboard_time": 1673356292,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190078,
       "num": 190078,
       "word": "为什么不那么热衷恋爱了",
@@ -18329,6 +18425,14 @@
       "onboard_time": 1672716389,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188715,
+      "num": 188715,
+      "word": "eStar有点演技在身上",
+      "onboard_time": 1673360312,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 188603,
@@ -19027,14 +19131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 179642,
-      "num": 179642,
-      "word": "七成00后打算过年给父母包红包",
-      "onboard_time": 1673357675,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179473,
       "num": 179473,
       "word": "老鹰勇士双加时",
@@ -19425,14 +19521,6 @@
       "onboard_time": 1672548932,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174827,
-      "num": 174827,
-      "word": "我驻日使馆发布通知",
-      "onboard_time": 1673356893,
-      "rank": 37,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 174761,
@@ -19987,20 +20075,20 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 165535,
+      "num": 165535,
+      "word": "WBG春季赛大名单",
+      "onboard_time": 1673358392,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165295,
       "num": 165295,
       "word": "V5正式官宣更名NIP",
       "onboard_time": 1673337208,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165255,
-      "num": 165255,
-      "word": "普通的小狗突然不普通了",
-      "onboard_time": 1673357250,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 165093,
@@ -24673,6 +24761,14 @@
       "onboard_time": 1672725628,
       "rank": 39,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 55945,
+      "num": 1438523,
+      "word": "守护你回家的路",
+      "onboard_time": 1673359051,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 54226,
