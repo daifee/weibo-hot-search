@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673375895779,
+  "endTime": 1673378122779,
   "band_list": [
     {
       "raw_hot": 3536801,
@@ -5513,6 +5513,14 @@
       "onboard_time": 1673295792,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23304,
+      "num": 23304,
+      "word": "赴韩中国游客一下飞机就被挂黄牌",
+      "onboard_time": 1673377035,
+      "rank": 47,
+      "category": "社会新闻,旅游"
     }
   ],
   "hotgov_list": [
