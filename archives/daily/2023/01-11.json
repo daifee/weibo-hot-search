@@ -1,6 +1,6 @@
 {
   "startTime": 1673368158524,
-  "endTime": 1673378122779,
+  "endTime": 1673379204512,
   "band_list": [
     {
       "raw_hot": 3062974,
@@ -491,20 +491,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 38656,
+      "num": 28969,
+      "word": "赴韩中国游客一下飞机就被挂黄牌",
+      "onboard_time": 1673377035,
+      "rank": 47,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 35418,
       "num": 1551635,
       "word": "守护你回家的路",
       "onboard_time": 1673359051,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 23304,
-      "num": 23304,
-      "word": "赴韩中国游客一下飞机就被挂黄牌",
-      "onboard_time": 1673377035,
-      "rank": 47,
-      "category": "社会新闻,旅游"
     }
   ],
   "hotgov_list": [
