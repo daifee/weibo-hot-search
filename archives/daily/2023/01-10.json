@@ -1,6 +1,6 @@
 {
   "startTime": 1673281966955,
-  "endTime": 1673364355092,
+  "endTime": 1673365311230,
   "band_list": [
     {
       "raw_hot": 3536801,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 664515,
+      "num": 664515,
+      "word": "CCTV6将首播刘亦菲版花木兰",
+      "onboard_time": 1673362535,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 654274,
       "num": 654274,
       "word": "女孩博士毕业不社交遭妈妈吐槽",
@@ -603,14 +611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 593906,
-      "num": 593906,
-      "word": "CCTV6将首播刘亦菲版花木兰",
-      "onboard_time": 1673362535,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 589516,
       "num": 589516,
       "word": "网传肖战骄阳伴我有蹦迪戏份",
@@ -625,6 +625,14 @@
       "onboard_time": 1673344229,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 571438,
+      "num": 571438,
+      "word": "猫猫的尿怎么可以这么大泡",
+      "onboard_time": 1673361753,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 569985,
@@ -659,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 548547,
+      "num": 548547,
+      "word": "eStar开除运营",
+      "onboard_time": 1673362837,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 545965,
       "num": 545965,
       "word": "1家8口到三亚过年嫌房租贵直接买房",
@@ -673,14 +689,6 @@
       "onboard_time": 1673272653,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 538898,
-      "num": 538898,
-      "word": "猫猫的尿怎么可以这么大泡",
-      "onboard_time": 1673361753,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 530064,
@@ -737,14 +745,6 @@
       "onboard_time": 1673325092,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 507777,
-      "num": 507777,
-      "word": "eStar开除运营",
-      "onboard_time": 1673362837,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 504010,
@@ -907,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438116,
+      "num": 438116,
+      "word": "柬埔寨首相说柬埔寨不靠中国还能靠谁",
+      "onboard_time": 1673362474,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 434633,
       "num": 409771,
       "word": "刘亦菲李现吻戏路透",
@@ -945,6 +953,14 @@
       "onboard_time": 1673327730,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 415216,
+      "num": 415216,
+      "word": "钎九",
+      "onboard_time": 1673364873,
+      "rank": 16,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 412620,
@@ -1035,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379721,
+      "num": 288980,
+      "word": "林俊杰周杰伦可惜没如果合作舞台",
+      "onboard_time": 1673363795,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 377008,
       "num": 377008,
       "word": "Fly去哪儿",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1673336969,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 357816,
-      "num": 181159,
-      "word": "柬埔寨首相说柬埔寨不靠中国还能靠谁",
-      "onboard_time": 1673362474,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 352064,
@@ -1209,6 +1225,14 @@
       "onboard_time": 1673314947,
       "rank": 27,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 323194,
+      "num": 180272,
+      "word": "美国脱口秀主持人称XBB.1.5是最好的变种",
+      "onboard_time": 1673363374,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319904,
@@ -1369,14 +1393,6 @@
       "onboard_time": 1673321189,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290377,
-      "num": 180404,
-      "word": "林俊杰周杰伦可惜没如果合作舞台",
-      "onboard_time": 1673363795,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 289847,
@@ -1745,14 +1761,6 @@
       "onboard_time": 1673309488,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 229419,
-      "num": 180272,
-      "word": "美国脱口秀主持人称XBB.1.5是最好的变种",
-      "onboard_time": 1673363374,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228719,
@@ -2427,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158319,
+      "num": 158319,
+      "word": "狗子跳车拦住怀孕主人下一秒山路塌方",
+      "onboard_time": 1673364632,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155500,
       "num": 155500,
       "word": "AG土味MV回忆杀",
@@ -2803,12 +2819,28 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 100184,
+      "num": 133815,
+      "word": "现在大学生这么会做饭吗",
+      "onboard_time": 1673364813,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99562,
       "num": 99562,
       "word": "春节返乡图鉴",
       "onboard_time": 1673336008,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96302,
+      "num": 133766,
+      "word": "前中国首富李河君被警方带走",
+      "onboard_time": 1673365293,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 95510,
