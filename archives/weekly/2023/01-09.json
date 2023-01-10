@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673379204512,
+  "endTime": 1673381964509,
   "band_list": [
     {
       "raw_hot": 3536801,
@@ -5491,20 +5491,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 54274,
+      "num": 28969,
+      "word": "赴韩中国游客一下飞机就被挂黄牌",
+      "onboard_time": 1673377035,
+      "rank": 47,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 49068,
       "num": 49068,
       "word": "杨玏说出了作为子女的心里话",
       "onboard_time": 1673209333,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 38656,
-      "num": 28969,
-      "word": "赴韩中国游客一下飞机就被挂黄牌",
-      "onboard_time": 1673377035,
-      "rank": 47,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 30296,
