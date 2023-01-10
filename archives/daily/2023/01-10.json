@@ -1,6 +1,6 @@
 {
   "startTime": 1673281966955,
-  "endTime": 1673350416693,
+  "endTime": 1673354208831,
   "band_list": [
     {
       "raw_hot": 3536801,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1867534,
+      "num": 1207013,
+      "word": "男方嫌30万彩礼多只肯出1万8包三金",
+      "onboard_time": 1673350472,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1821663,
       "num": 1821663,
       "word": "网友吐槽入境韩国被挂黄牌围拍",
@@ -73,6 +81,14 @@
       "onboard_time": 1673316748,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1319645,
+      "num": 1319645,
+      "word": "19岁小伙腰痛拍片肠胃里全是奶茶珍珠",
+      "onboard_time": 1673350592,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1310196,
@@ -129,6 +145,14 @@
       "onboard_time": 1673321549,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1200873,
+      "num": 1200873,
+      "word": "导演何平去世",
+      "onboard_time": 1673349570,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1112163,
@@ -291,14 +315,6 @@
       "category": "科技,情感"
     },
     {
-      "raw_hot": 836511,
-      "num": 430738,
-      "word": "导演何平去世",
-      "onboard_time": 1673349570,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 824586,
       "num": 661062,
       "word": "河南新冠病毒感染率为89.0%",
@@ -315,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 803874,
+      "num": 803874,
+      "word": "31岁小伙相亲恋爱差点当爷爷",
+      "onboard_time": 1673350952,
+      "rank": 5,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 793860,
       "num": 793860,
       "word": "银行柜员挥霍储户30万元存款",
@@ -329,6 +353,14 @@
       "onboard_time": 1673336671,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 754198,
+      "num": 754198,
+      "word": "骚白直播",
+      "onboard_time": 1673351191,
+      "rank": 6,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 751968,
@@ -441,6 +473,14 @@
       "onboard_time": 1673314648,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 593738,
+      "num": 405247,
+      "word": "杨某人官宣恋情",
+      "onboard_time": 1673352931,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 589516,
@@ -611,12 +651,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 463878,
+      "num": 398150,
+      "word": "浮图缘虐不过两集",
+      "onboard_time": 1673352931,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 457656,
+      "num": 383446,
+      "word": "程霄成为机长",
+      "onboard_time": 1673351969,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 457078,
       "num": 457078,
       "word": "RNG因与WBG纠纷被强执827万",
       "onboard_time": 1673328091,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 453857,
+      "num": 377885,
+      "word": "让人操心三部剧",
+      "onboard_time": 1673351909,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 453212,
@@ -875,6 +939,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 335382,
+      "num": 335382,
+      "word": "王楚钦",
+      "onboard_time": 1673353649,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 334570,
       "num": 334570,
       "word": "百兽 上厕所没纸",
@@ -905,6 +977,14 @@
       "onboard_time": 1673342609,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 331388,
+      "num": 331388,
+      "word": "血氧仪到底准不准",
+      "onboard_time": 1673350231,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 328188,
@@ -963,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310293,
+      "num": 277387,
+      "word": "谢之遥的爸也是个作爹",
+      "onboard_time": 1673353230,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 309418,
       "num": 309418,
       "word": "白鹿灰色背心居家写真",
@@ -977,6 +1065,14 @@
       "onboard_time": 1673337208,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306011,
+      "num": 276795,
+      "word": "杨超越的话",
+      "onboard_time": 1673351969,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 304240,
@@ -1000,6 +1096,14 @@
       "word": "和王一博一起向人民警察致敬",
       "onboard_time": 1673319209,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 300790,
+      "num": 173400,
+      "word": "唐嫣获评上海市二级演员",
+      "onboard_time": 1673353892,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1155,6 +1259,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 262585,
+      "num": 172544,
+      "word": "谁是中国奇谭的受众",
+      "onboard_time": 1673353410,
+      "rank": 32,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 257239,
       "num": 257239,
       "word": "奥比岛",
@@ -1281,6 +1393,14 @@
       "onboard_time": 1673343750,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243163,
+      "num": 243163,
+      "word": "男生做饭忘关火厨房变灾难现场",
+      "onboard_time": 1673349509,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242623,
@@ -1643,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187275,
+      "num": 187275,
+      "word": "门票要你三十还是亏了",
+      "onboard_time": 1673348191,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186180,
       "num": 123059,
       "word": "肖铎逃不过步音楼",
@@ -1657,6 +1785,14 @@
       "onboard_time": 1673314468,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184875,
+      "num": 365371,
+      "word": "如何看待中国奇谭的爆火",
+      "onboard_time": 1673352089,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 184472,
@@ -1681,14 +1817,6 @@
       "onboard_time": 1673281824,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181673,
-      "num": 181673,
-      "word": "门票要你三十还是亏了",
-      "onboard_time": 1673348191,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 179940,
@@ -1753,6 +1881,14 @@
       "onboard_time": 1673325392,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 175569,
+      "num": 171247,
+      "word": "女孩因和男友条件差距大分手痛哭",
+      "onboard_time": 1673353710,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174582,
@@ -1827,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170403,
+      "num": 170403,
+      "word": "TTG驯服四肢全记录",
+      "onboard_time": 1673353528,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169189,
       "num": 169189,
       "word": "掘金战胜湖人",
@@ -1849,6 +1993,14 @@
       "onboard_time": 1673347473,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165741,
+      "num": 142094,
+      "word": "中国奇谭连麦",
+      "onboard_time": 1673353291,
+      "rank": 41,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 165295,
@@ -1979,6 +2131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141099,
+      "num": 141099,
+      "word": "女子趁老板离开偷拿鲍鱼塞裤裆",
+      "onboard_time": 1673353710,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140944,
       "num": 140944,
       "word": "女子10年前买1.8万钻戒如今值180元",
@@ -1995,12 +2155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139980,
+      "num": 139980,
+      "word": "凌晨四点的春运高铁站",
+      "onboard_time": 1673353892,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138966,
       "num": 138966,
       "word": "Duke担任NIP教练",
       "onboard_time": 1673349029,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137030,
+      "num": 137030,
+      "word": "我出不去 你也休想出去玩",
+      "onboard_time": 1673353771,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 136943,
@@ -2011,19 +2187,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136764,
+      "num": 136764,
+      "word": "小兔子花馍",
+      "onboard_time": 1673350649,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 136606,
       "num": 136606,
       "word": "小伙花280元从上海坐公交到北京",
       "onboard_time": 1673264011,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136021,
-      "num": 136021,
-      "word": "男生做饭忘关火厨房变灾难现场",
-      "onboard_time": 1673349509,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2073,6 +2249,14 @@
       "onboard_time": 1673280688,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125529,
+      "num": 125529,
+      "word": "和WB一起扭一扭",
+      "onboard_time": 1673354012,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 125446,
@@ -2203,14 +2387,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 107727,
-      "num": 107727,
-      "word": "血氧仪到底准不准",
-      "onboard_time": 1673350231,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
       "raw_hot": 105991,
       "num": 105991,
       "word": "平静海面为何会频繁发生溺亡",
@@ -2276,7 +2452,7 @@
     },
     {
       "raw_hot": 74756,
-      "num": 1125612,
+      "num": 1207541,
       "word": "最新防疫热点10问10答",
       "onboard_time": 1673339790,
       "rank": 2,
