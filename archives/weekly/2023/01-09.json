@@ -1,10 +1,10 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673321640730,
+  "endTime": 1673324558880,
   "band_list": [
     {
-      "raw_hot": 3382708,
-      "num": 3382708,
+      "raw_hot": 3408278,
+      "num": 3408278,
       "word": "网红依川川因病去世",
       "onboard_time": 1673315966,
       "rank": 30,
@@ -99,8 +99,8 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 1644637,
-      "num": 1644637,
+      "raw_hot": 1701192,
+      "num": 1701192,
       "word": "高拉特确认放弃中国国籍",
       "onboard_time": 1673316748,
       "rank": 1,
@@ -187,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1221324,
+      "num": 1221324,
+      "word": "光遇",
+      "onboard_time": 1673323530,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1212458,
       "num": 1212458,
       "word": "女子10年前买1.8万钻戒如今值180元",
       "onboard_time": 1673253090,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1203448,
+      "num": 449266,
+      "word": "优酷娱乐把张雨绮经纪人认成张雨绮",
+      "onboard_time": 1673321549,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1181730,
@@ -667,6 +683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 645985,
+      "num": 447331,
+      "word": "银行柜员挥霍储户30万元存款",
+      "onboard_time": 1673322031,
+      "rank": 11,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 642360,
       "num": 642360,
       "word": "辉瑞新冠药为何不愿意放低姿态",
@@ -1020,7 +1044,7 @@
     },
     {
       "raw_hot": 481227,
-      "num": 312281,
+      "num": 416314,
       "word": "许红豆吃米线",
       "onboard_time": 1673319328,
       "rank": 40,
@@ -1059,12 +1083,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472195,
+      "num": 472195,
+      "word": "杨幂时装一月封面",
+      "onboard_time": 1673321728,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 468095,
+      "num": 468095,
+      "word": "新加坡卫生部长称不对华入境设限",
+      "onboard_time": 1673319928,
+      "rank": 24,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 464919,
       "num": 464919,
       "word": "15岁狗去世前不吃饭默默躲进树林",
       "onboard_time": 1673263349,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453212,
+      "num": 453212,
+      "word": "福字",
+      "onboard_time": 1673310027,
+      "rank": 19,
+      "category": "科技,情感"
     },
     {
       "raw_hot": 451703,
@@ -1121,6 +1169,14 @@
       "onboard_time": 1673235627,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440397,
+      "num": 440397,
+      "word": "孙悟空不愧是大家的英雄",
+      "onboard_time": 1673320528,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 432237,
@@ -1259,6 +1315,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 396987,
+      "num": 268833,
+      "word": "谢之遥爸爸刀子嘴豆腐心",
+      "onboard_time": 1673323292,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 394978,
+      "num": 394978,
+      "word": "骑手父亲蜗居地下室陪13岁女儿抗癌",
+      "onboard_time": 1673320228,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394725,
       "num": 210145,
       "word": "白敬亭两部剧入围年度全端热度剧集名单",
@@ -1337,14 +1409,6 @@
       "onboard_time": 1673271932,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 376040,
-      "num": 284437,
-      "word": "孙悟空不愧是大家的英雄",
-      "onboard_time": 1673320528,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 373367,
@@ -1443,6 +1507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 352064,
+      "num": 268832,
+      "word": "LESSERAFIM和NewJeans练习室打招呼",
+      "onboard_time": 1673321849,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 348591,
       "num": 234748,
       "word": "王铮亮现身2023央视春晚第三次大联排",
@@ -1457,14 +1529,6 @@
       "onboard_time": 1673228126,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 347569,
-      "num": 271329,
-      "word": "骑手父亲蜗居地下室陪13岁女儿抗癌",
-      "onboard_time": 1673320228,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346079,
@@ -1497,6 +1561,14 @@
       "onboard_time": 1673177250,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341931,
+      "num": 341931,
+      "word": "劳斯莱斯创118年来最高销量纪录",
+      "onboard_time": 1673321487,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 340715,
@@ -1571,14 +1643,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 326013,
-      "num": 255363,
-      "word": "新加坡卫生部长称不对华入境设限",
-      "onboard_time": 1673319928,
-      "rank": 24,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 325146,
       "num": 325146,
       "word": "三亚溺水兰州游客家属发声",
@@ -1617,6 +1681,14 @@
       "onboard_time": 1673264011,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318903,
+      "num": 185750,
+      "word": "向风而行全员恋爱",
+      "onboard_time": 1673318068,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 317233,
@@ -1705,6 +1777,14 @@
       "onboard_time": 1673268090,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 297067,
+      "num": 185729,
+      "word": "王鹤棣祝全国人民警察节日快乐",
+      "onboard_time": 1673322508,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 295281,
@@ -1859,12 +1939,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269134,
-      "num": 269134,
-      "word": "福字",
-      "onboard_time": 1673310027,
-      "rank": 19,
-      "category": "科技,情感"
+      "raw_hot": 268730,
+      "num": 268730,
+      "word": "特斯拉门店透露降价后销量翻倍",
+      "onboard_time": 1673320648,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 268546,
@@ -2019,20 +2099,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241563,
+      "num": 185527,
+      "word": "蔡徐坤Hugme收听人数突破5000万",
+      "onboard_time": 1673321969,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 240795,
       "num": 240795,
       "word": "北京的疫情已过感染高峰期",
       "onboard_time": 1673317349,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240234,
-      "num": 116874,
-      "word": "优酷娱乐把张雨绮经纪人认成张雨绮",
-      "onboard_time": 1673321549,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 239990,
@@ -2137,6 +2217,14 @@
       "onboard_time": 1673250267,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 224071,
+      "num": 224071,
+      "word": "抖音去年电商交易总额达1.41万亿元",
+      "onboard_time": 1673321308,
+      "rank": 43,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 224047,
@@ -2304,6 +2392,14 @@
       "word": "千万别把小猫单独留在家里",
       "onboard_time": 1673307382,
       "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 203144,
+      "num": 203144,
+      "word": "上门婚礼的仪式感",
+      "onboard_time": 1673321787,
+      "rank": 27,
       "category": "情感"
     },
     {
@@ -2475,6 +2571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185767,
+      "num": 185767,
+      "word": "网友吐槽入境韩国被挂黄牌围拍",
+      "onboard_time": 1673324070,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185245,
       "num": 185245,
       "word": "萌娃嫌饭难吃拿碗勺想去邻居家蹭",
@@ -2633,6 +2737,14 @@
       "onboard_time": 1673244087,
       "rank": 29,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 168689,
+      "num": 185669,
+      "word": "劳斯莱斯平均价格首次达50万欧元",
+      "onboard_time": 1673323830,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 168596,
@@ -2795,6 +2907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154092,
+      "num": 185595,
+      "word": "男子放鞭炮没躲开炸伤眼球",
+      "onboard_time": 1673320708,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152643,
       "num": 152643,
       "word": "林高远王曼昱4比2林兆恒吴咏琳",
@@ -2841,14 +2961,6 @@
       "onboard_time": 1673173895,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146089,
-      "num": 146089,
-      "word": "特斯拉门店透露降价后销量翻倍",
-      "onboard_time": 1673320648,
-      "rank": 27,
-      "category": "科技"
     },
     {
       "raw_hot": 142696,
@@ -2987,6 +3099,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127970,
+      "num": 185241,
+      "word": "这可能是对110最浪漫的定义",
+      "onboard_time": 1673323950,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127577,
+      "num": 184687,
+      "word": "高拉特国足零出场",
+      "onboard_time": 1673323350,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127362,
+      "num": 1392335,
+      "word": "年前返乡必知的20个防护要点",
+      "onboard_time": 1673311228,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127260,
       "num": 127260,
       "word": "用一首歌感受人民警察的坚守和不易",
@@ -3027,6 +3163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123554,
+      "num": 184598,
+      "word": "这届年轻人的拜年吉祥话有多花哨",
+      "onboard_time": 1673322148,
+      "rank": 45,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 121745,
       "num": 121745,
       "word": "只有回家才懂的BGM",
@@ -3049,6 +3193,14 @@
       "onboard_time": 1673317707,
       "rank": 38,
       "category": "军事"
+    },
+    {
+      "raw_hot": 119796,
+      "num": 184078,
+      "word": "2023年春节是21世纪第二早春节",
+      "onboard_time": 1673323769,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119332,
@@ -3091,12 +3243,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 117446,
-      "num": 117446,
-      "word": "男子放鞭炮没躲开炸伤眼球",
-      "onboard_time": 1673320708,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 114759,
+      "num": 182655,
+      "word": "讨好型人格该如何改变",
+      "onboard_time": 1673322748,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 114539,
@@ -3219,28 +3371,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 103284,
-      "num": 103284,
-      "word": "抖音去年电商交易总额达1.41万亿元",
-      "onboard_time": 1673321308,
-      "rank": 43,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 103028,
       "num": 199713,
       "word": "梁万年回应为何选在隆冬放开",
       "onboard_time": 1673246667,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101828,
-      "num": 101828,
-      "word": "劳斯莱斯创118年来最高销量纪录",
-      "onboard_time": 1673321487,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 101489,
@@ -3408,14 +3544,6 @@
       "word": "九个充实自己的方式",
       "onboard_time": 1673220261,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75425,
-      "num": 1235687,
-      "word": "年前返乡必知的20个防护要点",
-      "onboard_time": 1673311228,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
