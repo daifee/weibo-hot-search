@@ -1,0 +1,410 @@
+{
+  "runTime": 1673320800716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3339238,
+        "num": 3339238,
+        "word": "网红依川川因病去世",
+        "onboard_time": 1673315966,
+        "rank": 0,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 1644637,
+        "num": 1644637,
+        "word": "高拉特确认放弃中国国籍",
+        "onboard_time": 1673316748,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29874,
+        "num": 1229817,
+        "word": "年前返乡必知的20个防护要点",
+        "onboard_time": 1673311228,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030878,
+        "num": 1030878,
+        "word": "女子顺丰寄4万手表疑被调包仅赔百元",
+        "onboard_time": 1673313387,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 985005,
+        "num": 985005,
+        "word": "开年第一部烂尾剧",
+        "onboard_time": 1673307441,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 887547,
+        "num": 887547,
+        "word": "3人围炉烤红薯6小时后中毒晕倒",
+        "onboard_time": 1673316987,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696282,
+        "num": 696282,
+        "word": "王小蒙在甄嬛传也是大女主",
+        "onboard_time": 1673316748,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 497721,
+        "num": 497721,
+        "word": "大学男生骄傲记录街头写春联的女友",
+        "onboard_time": 1673318668,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333190,
+        "num": 333190,
+        "word": "辉瑞称正与中国伙伴合作",
+        "onboard_time": 1673317768,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322247,
+        "num": 322247,
+        "word": "一私募员工捐款1.38亿",
+        "onboard_time": 1673311349,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 528754,
+        "num": 314933,
+        "word": "男孩得知父亲想生三胎怒怼父亲",
+        "onboard_time": 1673307563,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412289,
+        "num": 312281,
+        "word": "许红豆吃米线",
+        "onboard_time": 1673319328,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383599,
+        "num": 312043,
+        "word": "步步惊心BGM是大中国",
+        "onboard_time": 1673314648,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304948,
+        "num": 304948,
+        "word": "姚安娜新剧台词",
+        "onboard_time": 1673310627,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293034,
+        "num": 293034,
+        "word": "一个舍得买一个舍不得要",
+        "onboard_time": 1673306958,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278513,
+        "num": 278513,
+        "word": "人社部部长谈2023毕业生就业",
+        "onboard_time": 1673313869,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 266330,
+        "num": 266330,
+        "word": "年前或将迎来退租潮",
+        "onboard_time": 1673314947,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 261159,
+        "num": 261159,
+        "word": "东部战区用最温柔的语气说最硬气的话",
+        "onboard_time": 1673316146,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241295,
+        "num": 241295,
+        "word": "福字",
+        "onboard_time": 1673310027,
+        "rank": 18,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 240795,
+        "num": 240795,
+        "word": "北京的疫情已过感染高峰期",
+        "onboard_time": 1673317349,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302025,
+        "num": 239304,
+        "word": "金泰妍Wendy金玟庭预告照",
+        "onboard_time": 1673317046,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298210,
+        "num": 228703,
+        "word": "许红豆坐在谢之遥的副驾",
+        "onboard_time": 1673314348,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291004,
+        "num": 228656,
+        "word": "和王一博一起向人民警察致敬",
+        "onboard_time": 1673319209,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218080,
+        "num": 218080,
+        "word": "小伙买世界最亮手电筒打开亮度惊人",
+        "onboard_time": 1673310866,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208985,
+        "num": 208985,
+        "word": "新加坡卫生部长称不对华入境设限",
+        "onboard_time": 1673319928,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 179911,
+        "num": 179911,
+        "word": "我国有多少种警察",
+        "onboard_time": 1673313627,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167631,
+        "num": 167631,
+        "word": "骑手父亲蜗居地下室陪13岁女儿抗癌",
+        "onboard_time": 1673320228,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153281,
+        "num": 153281,
+        "word": "Windows7将彻底退出历史舞台",
+        "onboard_time": 1673310448,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 152371,
+        "num": 152371,
+        "word": "猫在烘干箱里的样子",
+        "onboard_time": 1673309488,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142889,
+        "num": 142889,
+        "word": "女孩博士毕业不社交遭妈妈吐槽",
+        "onboard_time": 1673276371,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285783,
+        "num": 142227,
+        "word": "林俊杰让观众唱不为谁而作的歌",
+        "onboard_time": 1673315905,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 284651,
+        "num": 141638,
+        "word": "武大靖说能把照片颜色调一下吗害怕",
+        "onboard_time": 1673309488,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 283779,
+        "num": 140771,
+        "word": "刘宇宁的紫色秋衣是黄子韬那买的吗",
+        "onboard_time": 1673316627,
+        "rank": 32,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 278813,
+        "num": 140226,
+        "word": "陈立农黄明昊同框跳舞视频",
+        "onboard_time": 1673320708,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139350,
+        "num": 139350,
+        "word": "千万别把小猫单独留在家里",
+        "onboard_time": 1673307382,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248135,
+        "num": 135264,
+        "word": "依川川",
+        "onboard_time": 1673276132,
+        "rank": 35,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 129104,
+        "num": 129104,
+        "word": "谁将成为法国队新任队长",
+        "onboard_time": 1673309127,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124559,
+        "num": 124559,
+        "word": "1个动作躺着增强心肺功能",
+        "onboard_time": 1673316387,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122101,
+        "num": 122101,
+        "word": "保洁夹断猫腿与宠主就赔偿争执",
+        "onboard_time": 1673282785,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119794,
+        "num": 119794,
+        "word": "上海政协委员呼吁辉瑞新冠药降价",
+        "onboard_time": 1673315367,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263560,
+        "num": 118625,
+        "word": "孙悟空不愧是大家的英雄",
+        "onboard_time": 1673320528,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117175,
+        "num": 117175,
+        "word": "贝尔宣布退役",
+        "onboard_time": 1673279308,
+        "rank": 41,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 11310,
+        "num": 116684,
+        "word": "当前疫情最新热点十问十答",
+        "onboard_time": 1673251830,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116430,
+        "num": 116430,
+        "word": "远嫁女儿隔四年回家爸妈喜极而泣",
+        "onboard_time": 1673314226,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113647,
+        "num": 113647,
+        "word": "萌娃嫌饭难吃拿碗勺想去邻居家蹭",
+        "onboard_time": 1673314468,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103238,
+        "num": 103238,
+        "word": "一只平凡的小猪",
+        "onboard_time": 1673311889,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102375,
+        "num": 102375,
+        "word": "95后女警轻松驾驭600斤机车",
+        "onboard_time": 1673312309,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101095,
+        "num": 101095,
+        "word": "奥密克戎毒株肺炎发生率比德尔塔小",
+        "onboard_time": 1673280507,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91887,
+        "num": 91887,
+        "word": "去年有487名民辅警因公牺牲",
+        "onboard_time": 1673320767,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91016,
+        "num": 91016,
+        "word": "太快确定关系真的不会长久吗",
+        "onboard_time": 1673286496,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#一刻不停推进全面从严治党#"
+    }
+  }
+}

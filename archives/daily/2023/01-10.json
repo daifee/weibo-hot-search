@@ -1,10 +1,10 @@
 {
   "startTime": 1673281966955,
-  "endTime": 1673319410906,
+  "endTime": 1673320800716,
   "band_list": [
     {
-      "raw_hot": 3205993,
-      "num": 3205993,
+      "raw_hot": 3339238,
+      "num": 3339238,
       "word": "网红依川川因病去世",
       "onboard_time": 1673315966,
       "rank": 30,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1450986,
-      "num": 1450986,
+      "raw_hot": 1644637,
+      "num": 1644637,
       "word": "高拉特确认放弃中国国籍",
       "onboard_time": 1673316748,
       "rank": 1,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 887547,
+      "num": 887547,
+      "word": "3人围炉烤红薯6小时后中毒晕倒",
+      "onboard_time": 1673316987,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865492,
       "num": 865492,
       "word": "一个舍得买一个舍不得要",
@@ -115,16 +123,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 803821,
-      "num": 803821,
-      "word": "3人围炉烤红薯6小时后中毒晕倒",
-      "onboard_time": 1673316987,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 689967,
-      "num": 689967,
+      "raw_hot": 696282,
+      "num": 696282,
       "word": "王小蒙在甄嬛传也是大女主",
       "onboard_time": 1673316748,
       "rank": 6,
@@ -211,6 +211,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 497721,
+      "num": 497721,
+      "word": "大学男生骄傲记录街头写春联的女友",
+      "onboard_time": 1673318668,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477864,
       "num": 477864,
       "word": "大爷心疼网友吃猕猴桃酸掉牙",
@@ -233,6 +241,14 @@
       "onboard_time": 1673313869,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 412289,
+      "num": 312281,
+      "word": "许红豆吃米线",
+      "onboard_time": 1673319328,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 410814,
@@ -259,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333190,
+      "num": 333190,
+      "word": "辉瑞称正与中国伙伴合作",
+      "onboard_time": 1673317768,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328188,
       "num": 242270,
       "word": "刘宇宁的紫色秋衣是黄子韬那买的吗",
@@ -275,20 +299,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 302025,
+      "num": 239304,
+      "word": "金泰妍Wendy金玟庭预告照",
+      "onboard_time": 1673317046,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301406,
-      "num": 216067,
+      "num": 228656,
       "word": "和王一博一起向人民警察致敬",
       "onboard_time": 1673319209,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299764,
-      "num": 299764,
-      "word": "辉瑞称正与中国伙伴合作",
-      "onboard_time": 1673317768,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297961,
@@ -323,12 +347,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 287155,
-      "num": 231290,
-      "word": "金泰妍Wendy金玟庭预告照",
-      "onboard_time": 1673317046,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 285783,
+      "num": 142227,
+      "word": "林俊杰让观众唱不为谁而作的歌",
+      "onboard_time": 1673315905,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 278813,
+      "num": 140226,
+      "word": "陈立农黄明昊同框跳舞视频",
+      "onboard_time": 1673320708,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 276735,
@@ -353,6 +385,14 @@
       "onboard_time": 1673310027,
       "rank": 19,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 263560,
+      "num": 118625,
+      "word": "孙悟空不愧是大家的英雄",
+      "onboard_time": 1673320528,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 257239,
@@ -387,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248135,
+      "num": 161786,
+      "word": "依川川",
+      "onboard_time": 1673276132,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 244437,
       "num": 244437,
       "word": "护士发烧晕倒同事用椅子推着就医",
@@ -401,6 +449,14 @@
       "onboard_time": 1673309127,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240795,
+      "num": 240795,
+      "word": "北京的疫情已过感染高峰期",
+      "onboard_time": 1673317349,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235781,
@@ -419,14 +475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231027,
-      "num": 161786,
-      "word": "依川川",
-      "onboard_time": 1673276132,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 230079,
       "num": 230079,
       "word": "猫在烘干箱里的样子",
@@ -443,28 +491,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 226826,
-      "num": 140198,
-      "word": "林俊杰让观众唱不为谁而作的歌",
-      "onboard_time": 1673315905,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 224047,
       "num": 224047,
       "word": "塞尔达传说或将改编动画电影",
       "onboard_time": 1673305518,
       "rank": 30,
       "category": "游戏,影视"
-    },
-    {
-      "raw_hot": 215288,
-      "num": 215288,
-      "word": "北京的疫情已过感染高峰期",
-      "onboard_time": 1673317349,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212723,
@@ -491,20 +523,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208985,
+      "num": 208985,
+      "word": "新加坡卫生部长称不对华入境设限",
+      "onboard_time": 1673319928,
+      "rank": 24,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 205210,
       "num": 205210,
       "word": "远嫁女儿隔四年回家爸妈喜极而泣",
       "onboard_time": 1673314226,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203887,
-      "num": 120991,
-      "word": "许红豆吃米线",
-      "onboard_time": 1673319328,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 203838,
@@ -707,11 +739,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165090,
-      "num": 165090,
-      "word": "大学男生骄傲记录街头写春联的女友",
-      "onboard_time": 1673318668,
-      "rank": 48,
+      "raw_hot": 167631,
+      "num": 167631,
+      "word": "骑手父亲蜗居地下室陪13岁女儿抗癌",
+      "onboard_time": 1673320228,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -811,6 +843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124559,
+      "num": 124559,
+      "word": "1个动作躺着增强心肺功能",
+      "onboard_time": 1673316387,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120289,
       "num": 120289,
       "word": "东部战区战训MV我的战鹰绕着宝岛飞",
@@ -841,14 +881,6 @@
       "onboard_time": 1673273735,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113115,
-      "num": 113115,
-      "word": "1个动作躺着增强心肺功能",
-      "onboard_time": 1673316387,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 112326,
@@ -896,6 +928,14 @@
       "word": "河北农村为何遭遇停气",
       "onboard_time": 1673282244,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91887,
+      "num": 91887,
+      "word": "去年有487名民辅警因公牺牲",
+      "onboard_time": 1673320767,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -993,6 +1033,14 @@
       "onboard_time": 1673278228,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 29874,
+      "num": 1229817,
+      "word": "年前返乡必知的20个防护要点",
+      "onboard_time": 1673311228,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24774,
