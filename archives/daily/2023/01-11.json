@@ -1,6 +1,6 @@
 {
   "startTime": 1673368158524,
-  "endTime": 1673390093730,
+  "endTime": 1673392727575,
   "band_list": [
     {
       "raw_hot": 3062974,
@@ -81,6 +81,14 @@
       "onboard_time": 1673362535,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 504638,
+      "num": 504638,
+      "word": "韩国男子杀害中国妻子未遂获减刑",
+      "onboard_time": 1673383633,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 489364,
@@ -171,6 +179,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 353488,
+      "num": 353488,
+      "word": "网红餐厅爆满女子被安排前台就餐",
+      "onboard_time": 1673370799,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304952,
+      "num": 304952,
+      "word": "丈夫生前借姐姐名买房遗孀起诉要钱",
+      "onboard_time": 1673387292,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276930,
       "num": 276930,
       "word": "再见爱人 这一期哭死我",
@@ -185,14 +209,6 @@
       "onboard_time": 1673371998,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258621,
-      "num": 114189,
-      "word": "韩国男子杀害中国妻子未遂获减刑",
-      "onboard_time": 1673383633,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 254461,
@@ -219,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251538,
+      "num": 251538,
+      "word": "张兰称一定会和茅台合作的",
+      "onboard_time": 1673371699,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250235,
       "num": 250235,
       "word": "唐嫣获评上海市二级演员",
@@ -233,6 +257,22 @@
       "onboard_time": 1673356114,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241396,
+      "num": 241396,
+      "word": "半瘫痪女孩居家打3份工月入过万",
+      "onboard_time": 1673371879,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238840,
+      "num": 238840,
+      "word": "赴韩中国游客一下飞机就被挂黄牌",
+      "onboard_time": 1673377035,
+      "rank": 47,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 214734,
@@ -275,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190288,
+      "num": 190288,
+      "word": "新郎接亲时淡定嗑瓜子迎新娘",
+      "onboard_time": 1673388615,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185264,
       "num": 185264,
       "word": "现在大学生这么会做饭吗",
@@ -305,14 +353,6 @@
       "onboard_time": 1673367089,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 181504,
-      "num": 181504,
-      "word": "网红餐厅爆满女子被安排前台就餐",
-      "onboard_time": 1673370799,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169138,
@@ -347,14 +387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 161630,
-      "num": 161630,
-      "word": "张兰称一定会和茅台合作的",
-      "onboard_time": 1673371699,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161516,
       "num": 161516,
       "word": "外交部回应暂停向日本游客发放签证",
@@ -387,12 +419,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 113939,
-      "num": 113939,
-      "word": "半瘫痪女孩居家打3份工月入过万",
-      "onboard_time": 1673371879,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 139545,
+      "num": 139545,
+      "word": "俄拟立法允许盗版好莱坞大片合法上映",
+      "onboard_time": 1673385912,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 113209,
@@ -411,11 +443,11 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 103136,
-      "num": 103136,
-      "word": "丈夫生前借姐姐名买房遗孀起诉要钱",
-      "onboard_time": 1673387292,
-      "rank": 16,
+      "raw_hot": 102401,
+      "num": 102401,
+      "word": "男子疑吃红烧肉挑出多条猪肉绦虫",
+      "onboard_time": 1673385431,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -451,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92898,
-      "num": 92898,
-      "word": "赴韩中国游客一下飞机就被挂黄牌",
-      "onboard_time": 1673377035,
-      "rank": 47,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 90620,
       "num": 90620,
       "word": "马龙 记分牌",
@@ -475,20 +499,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 78550,
+      "num": 78550,
+      "word": "我驻日使馆发布通知",
+      "onboard_time": 1673356893,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 77870,
       "num": 77870,
       "word": "放开手让孩子自主成长",
       "onboard_time": 1673374455,
       "rank": 24,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 77533,
-      "num": 77533,
-      "word": "我驻日使馆发布通知",
-      "onboard_time": 1673356893,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 71636,
@@ -499,12 +523,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 70014,
-      "num": 32622,
-      "word": "俄拟立法允许盗版好莱坞大片合法上映",
-      "onboard_time": 1673385912,
-      "rank": 49,
-      "category": "国外要闻"
+      "raw_hot": 70137,
+      "num": 70137,
+      "word": "反催婚还得是东北人",
+      "onboard_time": 1673391077,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 69358,
+      "num": 69358,
+      "word": "烟花引燃绿化墙居家消防员光速灭火",
+      "onboard_time": 1673392640,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69292,
@@ -515,14 +547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 63500,
-      "num": 32476,
-      "word": "男子疑吃红烧肉挑出多条猪肉绦虫",
-      "onboard_time": 1673385431,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58019,
       "num": 56540,
       "word": "看得出当心理医生挺烦的",
@@ -531,20 +555,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 48723,
-      "num": 32354,
-      "word": "新郎接亲时淡定嗑瓜子迎新娘",
-      "onboard_time": 1673388615,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35418,
+      "raw_hot": 42697,
       "num": 1551635,
       "word": "守护你回家的路",
       "onboard_time": 1673359051,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 38260,
+      "num": 38260,
+      "word": "曾黎说也不过是自己的一厢情愿罢了",
+      "onboard_time": 1673385971,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 19599,
@@ -553,14 +577,6 @@
       "onboard_time": 1673352089,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 15069,
-      "num": 15069,
-      "word": "曾黎说也不过是自己的一厢情愿罢了",
-      "onboard_time": 1673385971,
-      "rank": 45,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
