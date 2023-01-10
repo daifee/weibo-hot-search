@@ -1,6 +1,6 @@
 {
   "startTime": 1673368158524,
-  "endTime": 1673392727575,
+  "endTime": 1673393625604,
   "band_list": [
     {
       "raw_hot": 3062974,
@@ -33,6 +33,14 @@
       "onboard_time": 1673350472,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 696711,
+      "num": 696711,
+      "word": "韩国男子杀害中国妻子未遂获减刑",
+      "onboard_time": 1673383633,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 662473,
@@ -81,14 +89,6 @@
       "onboard_time": 1673362535,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 504638,
-      "num": 504638,
-      "word": "韩国男子杀害中国妻子未遂获减刑",
-      "onboard_time": 1673383633,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 489364,
@@ -187,12 +187,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304952,
-      "num": 304952,
+      "raw_hot": 350364,
+      "num": 350364,
+      "word": "赴韩中国游客一下飞机就被挂黄牌",
+      "onboard_time": 1673377035,
+      "rank": 47,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 319202,
+      "num": 319202,
+      "word": "半瘫痪女孩居家打3份工月入过万",
+      "onboard_time": 1673371879,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312510,
+      "num": 312510,
       "word": "丈夫生前借姐姐名买房遗孀起诉要钱",
       "onboard_time": 1673387292,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304947,
+      "num": 304947,
+      "word": "张兰称一定会和茅台合作的",
+      "onboard_time": 1673371699,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 276930,
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 271502,
-      "num": 124962,
+      "num": 139758,
       "word": "一人表演五人丢脸",
       "onboard_time": 1673371998,
       "rank": 31,
@@ -235,14 +259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251538,
-      "num": 251538,
-      "word": "张兰称一定会和茅台合作的",
-      "onboard_time": 1673371699,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250235,
       "num": 250235,
       "word": "唐嫣获评上海市二级演员",
@@ -259,22 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241396,
-      "num": 241396,
-      "word": "半瘫痪女孩居家打3份工月入过万",
-      "onboard_time": 1673371879,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238840,
-      "num": 238840,
-      "word": "赴韩中国游客一下飞机就被挂黄牌",
-      "onboard_time": 1673377035,
-      "rank": 47,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 214734,
       "num": 167887,
       "word": "张九南 演出",
@@ -289,6 +289,14 @@
       "onboard_time": 1673367270,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 204160,
+      "num": 204160,
+      "word": "新郎接亲时淡定嗑瓜子迎新娘",
+      "onboard_time": 1673388615,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202053,
@@ -313,14 +321,6 @@
       "onboard_time": 1673369245,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190288,
-      "num": 190288,
-      "word": "新郎接亲时淡定嗑瓜子迎新娘",
-      "onboard_time": 1673388615,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185264,
@@ -395,6 +395,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 148152,
+      "num": 148152,
+      "word": "俄拟立法允许盗版好莱坞大片合法上映",
+      "onboard_time": 1673385912,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 146560,
+      "num": 146560,
+      "word": "反催婚还得是东北人",
+      "onboard_time": 1673391077,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144987,
       "num": 112391,
       "word": "84岁吴彦姝三步上篮",
@@ -419,12 +435,36 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 139545,
-      "num": 139545,
-      "word": "俄拟立法允许盗版好莱坞大片合法上映",
-      "onboard_time": 1673385912,
+      "raw_hot": 139203,
+      "num": 106975,
+      "word": "彭昱畅说何炅黄磊不会吵架除非在点自己",
+      "onboard_time": 1673393301,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137695,
+      "num": 137695,
+      "word": "男子疑吃红烧肉挑出多条猪肉绦虫",
+      "onboard_time": 1673385431,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124005,
+      "num": 124005,
+      "word": "我驻日使馆发布通知",
+      "onboard_time": 1673356893,
       "rank": 49,
-      "category": "国外要闻"
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 115410,
+      "num": 115410,
+      "word": "还有10天就是除夕了",
+      "onboard_time": 1673393602,
+      "rank": 26,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 113209,
@@ -443,12 +483,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 102401,
-      "num": 102401,
-      "word": "男子疑吃红烧肉挑出多条猪肉绦虫",
-      "onboard_time": 1673385431,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 107912,
+      "num": 107912,
+      "word": "12年前的今天歼20首飞",
+      "onboard_time": 1673393422,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 103686,
+      "num": 103686,
+      "word": "泰坦尼克号全球多地重映定档",
+      "onboard_time": 1673393301,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 102311,
@@ -499,12 +547,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 78550,
-      "num": 78550,
-      "word": "我驻日使馆发布通知",
-      "onboard_time": 1673356893,
-      "rank": 49,
-      "category": "国内要闻"
+      "raw_hot": 80112,
+      "num": 80112,
+      "word": "烟花引燃绿化墙居家消防员光速灭火",
+      "onboard_time": 1673392640,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77870,
@@ -523,28 +571,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 70137,
-      "num": 70137,
-      "word": "反催婚还得是东北人",
-      "onboard_time": 1673391077,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 69358,
-      "num": 69358,
-      "word": "烟花引燃绿化墙居家消防员光速灭火",
-      "onboard_time": 1673392640,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69292,
       "num": 69292,
       "word": "表情包比我会表达心情",
       "onboard_time": 1673367987,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 59958,
+      "num": 59958,
+      "word": "电锯人",
+      "onboard_time": 1673393362,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 58019,
@@ -555,7 +595,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 42697,
+      "raw_hot": 49349,
       "num": 1551635,
       "word": "守护你回家的路",
       "onboard_time": 1673359051,
