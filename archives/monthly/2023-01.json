@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673355307406,
+  "endTime": 1673357164274,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 1867534,
-      "num": 1207013,
+      "num": 1365443,
       "word": "男方嫌30万彩礼多只肯出1万8包三金",
       "onboard_time": 1673350472,
       "rank": 3,
@@ -1475,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1361453,
+      "num": 1361453,
+      "word": "暂停审发日本公民赴华普通签证",
+      "onboard_time": 1673356051,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1358019,
       "num": 1358019,
       "word": "新冠对生理期到底有什么影响",
@@ -1697,6 +1705,14 @@
       "onboard_time": 1672813169,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1234033,
+      "num": 1234033,
+      "word": "杨某人官宣恋情",
+      "onboard_time": 1673352931,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 1233797,
@@ -2043,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1143720,
+      "num": 877900,
+      "word": "宋木子 鑫仔",
+      "onboard_time": 1673355273,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1141349,
       "num": 522419,
       "word": "网友三亚偶遇孙怡",
@@ -2064,6 +2088,14 @@
       "word": "赵樱子演技",
       "onboard_time": 1673136262,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1136780,
+      "num": 1136780,
+      "word": "大侦探8演唱会连播两天",
+      "onboard_time": 1673356114,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -2235,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1063586,
+      "num": 1063586,
+      "word": "唐嫣获评上海市二级演员",
+      "onboard_time": 1673353892,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1061604,
       "num": 1061604,
       "word": "不烫不死心烫完心死了",
@@ -2401,6 +2441,14 @@
       "onboard_time": 1673192195,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1026274,
+      "num": 1026274,
+      "word": "马龙 记分牌",
+      "onboard_time": 1673355992,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 1023891,
@@ -3115,14 +3163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 889986,
-      "num": 889986,
-      "word": "杨某人官宣恋情",
-      "onboard_time": 1673352931,
-      "rank": 10,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 889288,
       "num": 889288,
       "word": "易烊千玺说沈腾在现场即兴很厉害",
@@ -3233,14 +3273,6 @@
       "onboard_time": 1673017833,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 867822,
-      "num": 867822,
-      "word": "唐嫣获评上海市二级演员",
-      "onboard_time": 1673353892,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 866136,
@@ -3489,6 +3521,14 @@
       "onboard_time": 1672582713,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 835659,
+      "num": 835659,
+      "word": "女孩因和男友条件差距大分手痛哭",
+      "onboard_time": 1673353710,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 834226,
@@ -5041,14 +5081,6 @@
       "onboard_time": 1672752691,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 655861,
-      "num": 577458,
-      "word": "女孩因和男友条件差距大分手痛哭",
-      "onboard_time": 1673353710,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 654792,
@@ -6883,6 +6915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 520076,
+      "num": 520076,
+      "word": "再见爱人 这一期哭死我",
+      "onboard_time": 1673355753,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520054,
       "num": 520054,
       "word": "鹤岗一供暖公司因亏损将停止供热",
@@ -7417,6 +7457,14 @@
       "onboard_time": 1672632690,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 494450,
+      "num": 494450,
+      "word": "女子趁老板离开偷拿鲍鱼塞裤裆",
+      "onboard_time": 1673353710,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 492834,
@@ -9216,6 +9264,14 @@
       "word": "热烈制片人说王一博会演戏不用质疑",
       "onboard_time": 1673146648,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 405121,
+      "num": 293351,
+      "word": "顾南亭升为飞行部部长",
+      "onboard_time": 1673354672,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -11371,14 +11427,6 @@
       "category": "国外要闻,旅游"
     },
     {
-      "raw_hot": 336716,
-      "num": 336716,
-      "word": "女子趁老板离开偷拿鲍鱼塞裤裆",
-      "onboard_time": 1673353710,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336379,
       "num": 288284,
       "word": "宋亚轩清唱方大同的takeme",
@@ -11521,14 +11569,6 @@
       "onboard_time": 1673086834,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 332862,
-      "num": 293351,
-      "word": "顾南亭升为飞行部部长",
-      "onboard_time": 1673354672,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 332849,
@@ -13451,6 +13491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281475,
+      "num": 184146,
+      "word": "再见爱人",
+      "onboard_time": 1673355334,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281235,
       "num": 281235,
       "word": "血氧仪为什么一机难求",
@@ -15171,6 +15219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247751,
+      "num": 153614,
+      "word": "福王安排肖铎伺候荣安皇后",
+      "onboard_time": 1673356833,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247745,
       "num": 247745,
       "word": "夫妻打工回家1岁半孩子满眼陌生",
@@ -15681,14 +15737,6 @@
       "onboard_time": 1673245887,
       "rank": 32,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 237947,
-      "num": 193269,
-      "word": "宋木子 鑫仔",
-      "onboard_time": 1673355273,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 237793,
@@ -18307,6 +18355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188069,
+      "num": 188069,
+      "word": "Hero电竞百灵鸟回归",
+      "onboard_time": 1673355813,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188068,
       "num": 188068,
       "word": "seventeen堂吉诃德舞台只练了三天",
@@ -20107,6 +20163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162458,
+      "num": 162458,
+      "word": "AG 舞王",
+      "onboard_time": 1673356893,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162415,
       "num": 162415,
       "word": "大爷冰钓坠河消防用手肘破冰救人",
@@ -20483,12 +20547,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156081,
+      "num": 156081,
+      "word": "我驻日使馆发布通知",
+      "onboard_time": 1673356893,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 155933,
       "num": 155933,
       "word": "没有手机玩的爷爷都在想什么",
       "onboard_time": 1672811249,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155500,
+      "num": 155500,
+      "word": "AG土味MV回忆杀",
+      "onboard_time": 1673356893,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 155325,
@@ -20696,6 +20776,14 @@
       "word": "95后女警轻松驾驭600斤机车",
       "onboard_time": 1673312309,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152099,
+      "num": 152099,
+      "word": "贪官嗜赌成瘾一上牌桌如打鸡血",
+      "onboard_time": 1673356292,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -21897,6 +21985,14 @@
       "onboard_time": 1673179292,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133000,
+      "num": 133000,
+      "word": "啊泽cos哪吒上天入海",
+      "onboard_time": 1673356533,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 132813,
@@ -24372,7 +24468,7 @@
     },
     {
       "raw_hot": 74756,
-      "num": 1207541,
+      "num": 1367396,
       "word": "最新防疫热点10问10答",
       "onboard_time": 1673339790,
       "rank": 2,
