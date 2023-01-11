@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673426322031,
+  "endTime": 1673428914179,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -1347,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1462598,
+      "num": 1462598,
+      "word": "泰国调整入境政策",
+      "onboard_time": 1673423250,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1461504,
       "num": 1461504,
       "word": "胖虎说易烊千玺是值得守卫的首位",
@@ -1633,14 +1641,6 @@
       "onboard_time": 1673176531,
       "rank": 12,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 1319292,
-      "num": 1319292,
-      "word": "泰国调整入境政策",
-      "onboard_time": 1673423250,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1310196,
@@ -2339,6 +2339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1113829,
+      "num": 1113829,
+      "word": "军队文职",
+      "onboard_time": 1673427151,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1109980,
       "num": 1109980,
       "word": "外交部回应暂停签发韩公民赴华短期签证",
@@ -2889,6 +2897,14 @@
       "onboard_time": 1672898493,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 974476,
+      "num": 974476,
+      "word": "杨幂在演一种很新的白狐",
+      "onboard_time": 1673423911,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 970849,
@@ -3497,14 +3513,6 @@
       "onboard_time": 1673328634,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 871808,
-      "num": 871808,
-      "word": "杨幂在演一种很新的白狐",
-      "onboard_time": 1673423911,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 870368,
@@ -4633,6 +4641,14 @@
       "onboard_time": 1673159248,
       "rank": 28,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 739149,
+      "num": 739149,
+      "word": "三亚和泰国旅游卷起来了",
+      "onboard_time": 1673426253,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 738029,
@@ -5859,6 +5875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 620000,
+      "num": 620000,
+      "word": "Doinb选手认证被取消",
+      "onboard_time": 1673426012,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 618918,
       "num": 425693,
       "word": "王鹤棣提裙子花絮",
@@ -6467,6 +6491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 576570,
+      "num": 576570,
+      "word": "张元英将离开音银",
+      "onboard_time": 1673427271,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 574494,
       "num": 574494,
       "word": "王鹤棣再现你居然家暴我",
@@ -6625,6 +6657,14 @@
       "onboard_time": 1673157808,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566837,
+      "num": 566837,
+      "word": "吴磊赵露思星汉灿烂豆瓣评分人数超50万",
+      "onboard_time": 1673426551,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 566712,
@@ -6953,6 +6993,14 @@
       "onboard_time": 1672642408,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547875,
+      "num": 547875,
+      "word": "刘亦菲野餐",
+      "onboard_time": 1673428772,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 547466,
@@ -8041,6 +8089,14 @@
       "onboard_time": 1673365293,
       "rank": 49,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 488691,
+      "num": 488691,
+      "word": "女子在婆家公司无薪工作索赔37万",
+      "onboard_time": 1673426672,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 488462,
@@ -11947,6 +12003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345417,
+      "num": 345417,
+      "word": "张馨予发文喊话黑子",
+      "onboard_time": 1673427512,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345092,
       "num": 345092,
       "word": "图书馆偶遇外卖小哥备战法考",
@@ -12683,6 +12747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 323404,
+      "num": 323404,
+      "word": "狼人杀",
+      "onboard_time": 1673423790,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 323328,
       "num": 323328,
       "word": "元旦起部分存量房贷月供减少",
@@ -13008,6 +13080,22 @@
       "word": "谢之遥比韩商言还操心",
       "onboard_time": 1672760551,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 315737,
+      "num": 315737,
+      "word": "台媒称东部战区MV中出现台康定级军舰",
+      "onboard_time": 1673425534,
+      "rank": 23,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 315619,
+      "num": 315619,
+      "word": "李宏毅主动递简历争取到萧瑟",
+      "onboard_time": 1673422950,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -14803,14 +14891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 277574,
-      "num": 277574,
-      "word": "台媒称东部战区MV中出现台康定级军舰",
-      "onboard_time": 1673425534,
-      "rank": 23,
-      "category": "军事"
-    },
-    {
       "raw_hot": 277381,
       "num": 277381,
       "word": "河南省考",
@@ -15019,14 +15099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273596,
-      "num": 273596,
-      "word": "李宏毅主动递简历争取到萧瑟",
-      "onboard_time": 1673422950,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 273575,
       "num": 209521,
       "word": "我可能遇到了救星",
@@ -15073,6 +15145,14 @@
       "onboard_time": 1672562012,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272745,
+      "num": 272745,
+      "word": "原来这才是给父母最好的礼物",
+      "onboard_time": 1673426791,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 272703,
@@ -15129,14 +15209,6 @@
       "onboard_time": 1672886550,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 271552,
-      "num": 271552,
-      "word": "狼人杀",
-      "onboard_time": 1673423790,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 271537,
@@ -15721,6 +15793,14 @@
       "onboard_time": 1673063848,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260217,
+      "num": 260217,
+      "word": "FPX澄清冠军皮肤分成",
+      "onboard_time": 1673426613,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 260202,
@@ -18939,6 +19019,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 201063,
+      "num": 182858,
+      "word": "横店演员夸刘耀文敬业",
+      "onboard_time": 1673428712,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200909,
       "num": 137729,
       "word": "太阳朴智旻合作曲将1月13日发行",
@@ -19217,6 +19305,14 @@
       "onboard_time": 1672619483,
       "rank": 23,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 196392,
+      "num": 196392,
+      "word": "男孩闯红灯过路司机怒吼教导",
+      "onboard_time": 1673428592,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196208,
@@ -19667,6 +19763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189516,
+      "num": 182003,
+      "word": "许红豆的表情包全是猫",
+      "onboard_time": 1673427631,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189478,
       "num": 189478,
       "word": "当代人是懂跨年的",
@@ -19913,6 +20017,14 @@
       "onboard_time": 1672672051,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186489,
+      "num": 186489,
+      "word": "种植1颗牙的费用有望降低约50%",
+      "onboard_time": 1673427871,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186460,
@@ -20201,6 +20313,14 @@
       "onboard_time": 1673081191,
       "rank": 28,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 182936,
+      "num": 182936,
+      "word": "马龙4比2户上隼辅",
+      "onboard_time": 1673428230,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 182750,
@@ -20968,14 +21088,6 @@
       "word": "黑金吉他先祖复刻",
       "onboard_time": 1673328451,
       "rank": 36,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 173639,
-      "num": 173639,
-      "word": "Doinb选手认证被取消",
-      "onboard_time": 1673426012,
-      "rank": 39,
       "category": "游戏"
     },
     {
@@ -21763,6 +21875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161673,
+      "num": 161673,
+      "word": "小狗也很想妈妈吧",
+      "onboard_time": 1673428053,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161646,
       "num": 161646,
       "word": "丈夫归家送妻子孩子1人1串糖葫芦",
@@ -22031,6 +22151,14 @@
       "num": 158229,
       "word": "王牌飞行员",
       "onboard_time": 1673255910,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158072,
+      "num": 158072,
+      "word": "外交部回应日本抗议暂停审发赴华签证",
+      "onboard_time": 1673427453,
       "rank": 45,
       "category": "社会新闻"
     },
@@ -22537,6 +22665,14 @@
       "onboard_time": 1672923571,
       "rank": 48,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 148859,
+      "num": 148859,
+      "word": "口腔种植体集采11日开标",
+      "onboard_time": 1673428832,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148761,
@@ -23251,6 +23387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138377,
+      "num": 138377,
+      "word": "2023年军队文职人员公开招考",
+      "onboard_time": 1673428173,
+      "rank": 49,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 138359,
       "num": 138359,
       "word": "边境民警巡逻变白眉大侠看得心疼",
@@ -23569,14 +23713,6 @@
       "onboard_time": 1672668154,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133803,
-      "num": 141254,
-      "word": "三亚和泰国旅游卷起来了",
-      "onboard_time": 1673426253,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 133411,
@@ -26809,6 +26945,14 @@
       "onboard_time": 1672865052,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19443,
+      "num": 1143673,
+      "word": "春运天气指南请收好",
+      "onboard_time": 1673428592,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18569,

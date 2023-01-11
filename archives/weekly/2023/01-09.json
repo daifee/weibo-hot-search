@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673426322031,
+  "endTime": 1673428914179,
   "band_list": [
     {
       "raw_hot": 3708647,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1462598,
+      "num": 1462598,
+      "word": "泰国调整入境政策",
+      "onboard_time": 1673423250,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1431558,
       "num": 1431558,
       "word": "电费1个月3481元竟有电费刺客",
@@ -313,14 +321,6 @@
       "onboard_time": 1673253690,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1319292,
-      "num": 1319292,
-      "word": "泰国调整入境政策",
-      "onboard_time": 1673423250,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1310196,
@@ -515,6 +515,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1113829,
+      "num": 1113829,
+      "word": "军队文职",
+      "onboard_time": 1673427151,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1109980,
       "num": 1109980,
       "word": "外交部回应暂停签发韩公民赴华短期签证",
@@ -665,6 +673,14 @@
       "onboard_time": 1673422049,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 974476,
+      "num": 974476,
+      "word": "杨幂在演一种很新的白狐",
+      "onboard_time": 1673423911,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 964051,
@@ -849,14 +865,6 @@
       "onboard_time": 1673328634,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 871808,
-      "num": 871808,
-      "word": "杨幂在演一种很新的白狐",
-      "onboard_time": 1673423911,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 866136,
@@ -1187,6 +1195,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 739149,
+      "num": 739149,
+      "word": "三亚和泰国旅游卷起来了",
+      "onboard_time": 1673426253,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 729784,
       "num": 695059,
       "word": "辉瑞称中国是第二大经济体新冠药不能太便宜",
@@ -1427,6 +1443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 620000,
+      "num": 620000,
+      "word": "Doinb选手认证被取消",
+      "onboard_time": 1673426012,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 618496,
       "num": 611364,
       "word": "老人去世00后担起重任帮抬棺",
@@ -1523,6 +1547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 576570,
+      "num": 576570,
+      "word": "张元英将离开音银",
+      "onboard_time": 1673427271,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 572293,
       "num": 515228,
       "word": "LPL将有两支队伍参加MSI",
@@ -1585,6 +1617,14 @@
       "onboard_time": 1673418628,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 566837,
+      "num": 566837,
+      "word": "吴磊赵露思星汉灿烂豆瓣评分人数超50万",
+      "onboard_time": 1673426551,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 566712,
@@ -1673,6 +1713,14 @@
       "onboard_time": 1673362837,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 547875,
+      "num": 547875,
+      "word": "刘亦菲野餐",
+      "onboard_time": 1673428772,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 547075,
@@ -1977,6 +2025,14 @@
       "onboard_time": 1673365293,
       "rank": 49,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 488691,
+      "num": 488691,
+      "word": "女子在婆家公司无薪工作索赔37万",
+      "onboard_time": 1673426672,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485143,
@@ -3003,6 +3059,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 345417,
+      "num": 345417,
+      "word": "张馨予发文喊话黑子",
+      "onboard_time": 1673427512,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343796,
       "num": 343796,
       "word": "这猫像极了称体重的女生",
@@ -3243,6 +3307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323404,
+      "num": 323404,
+      "word": "狼人杀",
+      "onboard_time": 1673423790,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 323156,
       "num": 323156,
       "word": "中国赴泰游客或将超疫情前水平",
@@ -3305,6 +3377,22 @@
       "onboard_time": 1673253572,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315737,
+      "num": 315737,
+      "word": "台媒称东部战区MV中出现台康定级军舰",
+      "onboard_time": 1673425534,
+      "rank": 23,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 315619,
+      "num": 315619,
+      "word": "李宏毅主动递简历争取到萧瑟",
+      "onboard_time": 1673422950,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 314161,
@@ -3755,14 +3843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 277574,
-      "num": 277574,
-      "word": "台媒称东部战区MV中出现台康定级军舰",
-      "onboard_time": 1673425534,
-      "rank": 23,
-      "category": "军事"
-    },
-    {
       "raw_hot": 277175,
       "num": 277175,
       "word": "赵丽颖手画兔小蕊",
@@ -3819,14 +3899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273596,
-      "num": 273596,
-      "word": "李宏毅主动递简历争取到萧瑟",
-      "onboard_time": 1673422950,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 273551,
       "num": 212259,
       "word": "张雨绮春晚联排双马尾造型",
@@ -3843,20 +3915,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272745,
+      "num": 272745,
+      "word": "原来这才是给父母最好的礼物",
+      "onboard_time": 1673426791,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 272445,
       "num": 272445,
       "word": "爸妈是真不拿我当外人啊",
       "onboard_time": 1673401706,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 271552,
-      "num": 271552,
-      "word": "狼人杀",
-      "onboard_time": 1673423790,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 271502,
@@ -3977,6 +4049,14 @@
       "onboard_time": 1673240731,
       "rank": 38,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 260217,
+      "num": 260217,
+      "word": "FPX澄清冠军皮肤分成",
+      "onboard_time": 1673426613,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 259731,
@@ -4875,6 +4955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201063,
+      "num": 182858,
+      "word": "横店演员夸刘耀文敬业",
+      "onboard_time": 1673428712,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200355,
       "num": 154253,
       "word": "中国影视蓝皮书",
@@ -4945,6 +5033,14 @@
       "onboard_time": 1673267910,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196392,
+      "num": 196392,
+      "word": "男孩闯红灯过路司机怒吼教导",
+      "onboard_time": 1673428592,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195895,
@@ -5067,6 +5163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189516,
+      "num": 182003,
+      "word": "许红豆的表情包全是猫",
+      "onboard_time": 1673427631,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189317,
       "num": 187566,
       "word": "走不出的浪浪山 过不了的书简湖",
@@ -5155,6 +5259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186489,
+      "num": 186489,
+      "word": "种植1颗牙的费用有望降低约50%",
+      "onboard_time": 1673427871,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186180,
       "num": 123059,
       "word": "肖铎逃不过步音楼",
@@ -5225,6 +5337,14 @@
       "onboard_time": 1673249129,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182936,
+      "num": 182936,
+      "word": "马龙4比2户上隼辅",
+      "onboard_time": 1673428230,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 182051,
@@ -5419,14 +5539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173639,
-      "num": 173639,
-      "word": "Doinb选手认证被取消",
-      "onboard_time": 1673426012,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 173120,
       "num": 173120,
       "word": "黑猫警长2023特别篇",
@@ -5611,6 +5723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161673,
+      "num": 161673,
+      "word": "小狗也很想妈妈吧",
+      "onboard_time": 1673428053,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161302,
       "num": 161302,
       "word": "再就业男团重回宿舍生活",
@@ -5687,6 +5807,14 @@
       "num": 158229,
       "word": "王牌飞行员",
       "onboard_time": 1673255910,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158072,
+      "num": 158072,
+      "word": "外交部回应日本抗议暂停审发赴华签证",
+      "onboard_time": 1673427453,
       "rank": 45,
       "category": "社会新闻"
     },
@@ -5824,6 +5952,14 @@
       "word": "阿兹夫定片医保谈判成功",
       "onboard_time": 1673173895,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148859,
+      "num": 148859,
+      "word": "口腔种植体集采11日开标",
+      "onboard_time": 1673428832,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -5987,6 +6123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138377,
+      "num": 138377,
+      "word": "2023年军队文职人员公开招考",
+      "onboard_time": 1673428173,
+      "rank": 49,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 137546,
       "num": 137546,
       "word": "谢之遥温暖了云苗村",
@@ -6073,14 +6217,6 @@
       "onboard_time": 1673186613,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 133803,
-      "num": 141254,
-      "word": "三亚和泰国旅游卷起来了",
-      "onboard_time": 1673426253,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 129831,
@@ -6841,6 +6977,14 @@
       "onboard_time": 1673295792,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19443,
+      "num": 1143673,
+      "word": "春运天气指南请收好",
+      "onboard_time": 1673428592,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
