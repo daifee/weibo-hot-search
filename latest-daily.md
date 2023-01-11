@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/11 00:29:18 ~ 2023/01/11 12:38:07
+本榜单时间：2023/01/11 00:29:18 ~ 2023/01/11 13:17:20
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%231888%E4%B8%87%E5%BD%A9%E7%A4%BC%23" target="weibo">
+1888万彩礼（热度：3708647）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%23" target="weibo">
@@ -28,13 +34,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B64%E5%8F%A3%E4%B8%89%E4%BA%9A%E6%BA%BA%E6%B0%B4%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE%23" target="weibo">
-一家4口三亚溺水全部遇难（热度：2376791）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%231888%E4%B8%87%E5%BD%A9%E7%A4%BC%23" target="weibo">
-1888万彩礼（热度：2129898）
+一家4口三亚溺水全部遇难（热度：2481259）
 </a>
 </li>
 
@@ -119,6 +119,24 @@ iPhone16Pro或取消灵动岛（热度：1254655）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%AC%E4%B8%9A%E7%A6%8F%23" target="weibo">
 敬业福（热度：948489）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E5%8F%8D%E5%A4%8D%E5%91%95%E5%90%90%E8%A2%AB%E7%A1%AE%E8%AF%8A%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F%23" target="weibo">
+3岁男童反复呕吐被确诊癌症晚期（热度：941693）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%89%E7%91%9ECEO%E7%A7%B0%E6%96%B0%E5%86%A0%E8%8D%AF%E4%B8%8D%E8%83%BD%E5%A4%AA%E4%BE%BF%E5%AE%9C%23" target="weibo">
+辉瑞CEO称新冠药不能太便宜（热度：932029）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%97%A4%E8%90%9D%E4%B8%BA%E6%9E%9D%23" target="weibo">
+藤萝为枝（热度：900559）
 </a>
 </li>
 
@@ -213,6 +231,12 @@ BLACKPINK确定领衔出演科切拉音乐节（热度：863887）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%8A%E9%97%A8%E8%BF%8E%E5%A8%B6%E8%87%AA%E5%B7%B1%E7%9A%84%E6%96%B0%E9%83%8E%23" target="weibo">
+女孩上门迎娶自己的新郎（热度：546003）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A1%8C%E9%95%BF%E6%8A%8A%E9%93%B6%E8%A1%8C%E5%BD%93%E8%87%AA%E5%B7%B1%E5%AE%B6%E7%96%AF%E7%8B%82%E6%95%9B%E8%B4%A2%23" target="weibo">
 董事长行长把银行当自己家疯狂敛财（热度：543795）
 </a>
@@ -269,12 +293,6 @@ CCTV6将首播刘亦菲版花木兰（热度：505078）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23ENHYPEN%E6%9C%B4%E7%BB%BC%E6%98%9F%E9%81%93%E6%AD%89%23" target="weibo">
 ENHYPEN朴综星道歉（热度：484660）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%8A%E9%97%A8%E8%BF%8E%E5%A8%B6%E8%87%AA%E5%B7%B1%E7%9A%84%E6%96%B0%E9%83%8E%23" target="weibo">
-女孩上门迎娶自己的新郎（热度：483802）
 </a>
 </li>
 
@@ -375,6 +393,18 @@ eStar开除运营（热度：396658）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9B%AE%E5%89%8D%E6%B5%81%E8%A1%8C%E6%AF%92%E6%A0%AA%E6%98%AF%E4%B8%96%E7%95%8C%E5%85%B6%E4%BB%96%E5%9C%B0%E6%96%B9%E5%B7%B2%E5%AD%98%E5%9C%A8%E6%AF%92%E6%A0%AA%23" target="weibo">
+中国目前流行毒株是世界其他地方已存在毒株（热度：382507）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%B2%E5%8E%86%E8%80%85%E8%AE%B2%E8%BF%B0%E5%85%A5%E5%A2%83%E9%9F%A9%E5%9B%BD%E8%A2%AB%E5%85%B3%E5%B0%8F%E9%BB%91%E5%B1%8B%23" target="weibo">
+亲历者讲述入境韩国被关小黑屋（热度：375691）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%A6%96%E7%9B%B8%E8%AF%B4%E6%9F%AC%E5%9F%94%E5%AF%A8%E4%B8%8D%E9%9D%A0%E4%B8%AD%E5%9B%BD%E8%BF%98%E8%83%BD%E9%9D%A0%E8%B0%81%23" target="weibo">
 柬埔寨首相说柬埔寨不靠中国还能靠谁（热度：373040）
 </a>
@@ -465,6 +495,24 @@ eStar开除运营（热度：396658）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E4%BA%A4%E6%8D%A2%E4%BA%BA%E7%94%9F%E5%8F%98%E8%84%B8%E8%A7%86%E9%A2%91%23" target="weibo">
+张小斐交换人生变脸视频（热度：305089）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%83%B3%E8%A7%81%E4%BD%A0%E5%BB%B6%E9%95%BF%E4%B8%8A%E6%98%A0%23" target="weibo">
+电影想见你延长上映（热度：301200）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E8%BF%8E%E8%AF%B4%E5%B0%8F%E5%A5%B3%E6%B2%88%E5%A6%99%E4%BB%8A%E6%97%A5%E5%A4%A7%E5%A9%9A%23" target="weibo">
+张雪迎说小女沈妙今日大婚（热度：299805）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B0%86%E5%BC%80%E5%A7%8B%E8%87%AA%E4%BA%A7iPhone%E5%B1%8F%E5%B9%95%23" target="weibo">
 苹果将开始自产iPhone屏幕（热度：290486）
 </a>
@@ -479,12 +527,6 @@ eStar开除运营（热度：396658）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%B0%86%E4%BA%8C%E7%99%BB%E7%A7%91%E5%88%87%E6%8B%89%23" target="weibo">
 王嘉尔将二登科切拉（热度：285540）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E5%8F%8D%E5%A4%8D%E5%91%95%E5%90%90%E8%A2%AB%E7%A1%AE%E8%AF%8A%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F%23" target="weibo">
-3岁男童反复呕吐被确诊癌症晚期（热度：279920）
 </a>
 </li>
 
@@ -519,8 +561,14 @@ eStar开除运营（热度：396658）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%89%E7%91%9ECEO%E7%A7%B0%E6%96%B0%E5%86%A0%E8%8D%AF%E4%B8%8D%E8%83%BD%E5%A4%AA%E4%BE%BF%E5%AE%9C%23" target="weibo">
-辉瑞CEO称新冠药不能太便宜（热度：256949）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%99%E7%8C%AB%E5%92%AA%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E8%84%8F%23" target="weibo">
+没想到这猫咪居然这么脏（热度：257704）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%8D%97%E4%BA%AD%E5%91%8A%E7%99%BD%E7%A8%8B%E9%9C%84%E8%8A%B1%E7%B5%AE%23" target="weibo">
+顾南亭告白程霄花絮（热度：255173）
 </a>
 </li>
 
@@ -557,12 +605,6 @@ eStar开除运营（热度：396658）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E9%9C%84%E7%BB%88%E4%BA%8E%E5%90%91%E9%A3%8E%E8%80%8C%E8%A1%8C%E4%BA%86%23" target="weibo">
 程霄终于向风而行了（热度：247379）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%B2%E5%8E%86%E8%80%85%E8%AE%B2%E8%BF%B0%E5%85%A5%E5%A2%83%E9%9F%A9%E5%9B%BD%E8%A2%AB%E5%85%B3%E5%B0%8F%E9%BB%91%E5%B1%8B%23" target="weibo">
-亲历者讲述入境韩国被关小黑屋（热度：246580）
 </a>
 </li>
 
@@ -615,6 +657,12 @@ eStar开除运营（热度：396658）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E7%9A%84%E6%84%8F%E4%B9%89%E5%90%A7%23" target="weibo">
+这就是回家过年的意义吧（热度：206267）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E7%8E%B0%E5%9C%A8%E6%AD%A3%E6%98%AF%E6%88%BF%E4%BB%B7%E4%BD%8E%E7%9A%84%E6%97%B6%E5%80%99%23" target="weibo">
 专家称现在正是房价低的时候（热度：206180）
 </a>
@@ -634,7 +682,7 @@ eStar开除运营（热度：396658）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone15%E5%85%A8%E7%B3%BB%E5%B0%86%E6%90%AD%E8%BD%BD%E7%81%B5%E5%8A%A8%E5%B2%9B%23" target="weibo">
-iPhone15全系将搭载灵动岛（热度：200506）
+iPhone15全系将搭载灵动岛（热度：201670）
 </a>
 </li>
 
@@ -693,6 +741,12 @@ iPhone15全系将搭载灵动岛（热度：200506）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%B1%BC%E5%88%BA%E5%8D%A1%E5%96%89%E5%8F%8D%E5%A4%8D%E6%8C%89%E5%8E%8B%E8%87%B4%E8%84%91%E6%A2%97%23" target="weibo">
+男子鱼刺卡喉反复按压致脑梗（热度：180549）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone%E5%B7%B2%E7%B4%AF%E8%AE%A1%E5%94%AE%E5%87%BA23.2%E4%BA%BF%E5%8F%B0%23" target="weibo">
 iPhone已累计售出23.2亿台（热度：179161）
 </a>
@@ -723,14 +777,14 @@ iPhone已累计售出23.2亿台（热度：179161）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%92%AA%E6%98%AF%E6%80%8E%E4%B9%88%E5%87%B6%E4%BA%BA%E7%9A%84%23" target="weibo">
-小猫咪是怎么凶人的（热度：168644）
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%8F%91%E6%96%B0%E5%A8%98%E4%B8%8D%E7%A9%BF%E5%A9%9A%E7%BA%B1%E8%A2%AB%E8%AF%AF%E8%AE%A4%E6%88%90%E4%BC%B4%E9%83%8E%23" target="weibo">
+短发新娘不穿婚纱被误认成伴郎（热度：168749）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%97%A4%E8%90%9D%E4%B8%BA%E6%9E%9D%23" target="weibo">
-藤萝为枝（热度：162006）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%92%AA%E6%98%AF%E6%80%8E%E4%B9%88%E5%87%B6%E4%BA%BA%E7%9A%84%23" target="weibo">
+小猫咪是怎么凶人的（热度：168644）
 </a>
 </li>
 
@@ -753,6 +807,12 @@ iPhone已累计售出23.2亿台（热度：179161）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E5%BA%B7%E5%A4%8D%E5%A6%82%E4%BD%95%E5%81%9A%E5%88%B0%E6%B8%85%E6%B7%A1%E9%A5%AE%E9%A3%9F%23" target="weibo">
+新冠康复如何做到清淡饮食（热度：156343）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%96%91%E5%90%83%E7%BA%A2%E7%83%A7%E8%82%89%E6%8C%91%E5%87%BA%E5%A4%9A%E6%9D%A1%E7%8C%AA%E8%82%89%E7%BB%A6%E8%99%AB%23" target="weibo">
 男子疑吃红烧肉挑出多条猪肉绦虫（热度：148273）
 </a>
@@ -767,12 +827,6 @@ iPhone已累计售出23.2亿台（热度：179161）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%82%AC%E5%A9%9A%E8%BF%98%E5%BE%97%E6%98%AF%E4%B8%9C%E5%8C%97%E4%BA%BA%23" target="weibo">
 反催婚还得是东北人（热度：146560）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E7%9A%84%E6%84%8F%E4%B9%89%E5%90%A7%23" target="weibo">
-这就是回家过年的意义吧（热度：146133）
 </a>
 </li>
 
@@ -809,12 +863,6 @@ eStar 运营（热度：139954）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3vs%E5%8B%87%E5%A3%AB%23" target="weibo">
 太阳vs勇士（热度：137198）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E5%BA%B7%E5%A4%8D%E5%A6%82%E4%BD%95%E5%81%9A%E5%88%B0%E6%B8%85%E6%B7%A1%E9%A5%AE%E9%A3%9F%23" target="weibo">
-新冠康复如何做到清淡饮食（热度：130583）
 </a>
 </li>
 
@@ -857,12 +905,6 @@ AppStore累计创下超3200亿美元营收（热度：125683）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%9C%8910%E5%A4%A9%E5%B0%B1%E6%98%AF%E9%99%A4%E5%A4%95%E4%BA%86%23" target="weibo">
 还有10天就是除夕了（热度：115410）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9B%AE%E5%89%8D%E6%B5%81%E8%A1%8C%E6%AF%92%E6%A0%AA%E6%98%AF%E4%B8%96%E7%95%8C%E5%85%B6%E4%BB%96%E5%9C%B0%E6%96%B9%E5%B7%B2%E5%AD%98%E5%9C%A8%E6%AF%92%E6%A0%AA%23" target="weibo">
-中国目前流行毒株是世界其他地方已存在毒株（热度：114544）
 </a>
 </li>
 
