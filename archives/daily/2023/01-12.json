@@ -1,6 +1,6 @@
 {
   "startTime": 1673454894759,
-  "endTime": 1673475551259,
+  "endTime": 1673476519750,
   "band_list": [
     {
       "raw_hot": 5148320,
@@ -91,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359582,
+      "num": 359582,
+      "word": "给中国游客挂牌子别怪我们反制",
+      "onboard_time": 1673470572,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332026,
       "num": 332026,
       "word": "小鹿回应拉宏桑被骂",
@@ -129,14 +137,6 @@
       "onboard_time": 1673453249,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 274997,
-      "num": 79597,
-      "word": "给中国游客挂牌子别怪我们反制",
-      "onboard_time": 1673470572,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274630,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 201800,
-      "num": 129959,
+      "num": 135764,
       "word": "小狗被抱养一个月狗妈妈突然出现",
       "onboard_time": 1673455823,
       "rank": 45,
@@ -201,6 +201,22 @@
       "onboard_time": 1673456003,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192552,
+      "num": 90240,
+      "word": "全美航班停飞原因曝光",
+      "onboard_time": 1673456602,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185177,
+      "num": 185177,
+      "word": "人们为什么不想听专家说话了",
+      "onboard_time": 1673473753,
+      "rank": 4,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 180554,
@@ -265,14 +281,6 @@
       "onboard_time": 1673454028,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 149719,
-      "num": 79111,
-      "word": "全美航班停飞原因曝光",
-      "onboard_time": 1673456602,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148282,
@@ -371,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120268,
+      "num": 120268,
+      "word": "新冠口服药莫诺拉韦预计本周五国内上市",
+      "onboard_time": 1673466552,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120131,
       "num": 120131,
       "word": "ming去哪了",
@@ -387,14 +403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109305,
-      "num": 90224,
-      "word": "新冠口服药莫诺拉韦预计本周五国内上市",
-      "onboard_time": 1673466552,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104167,
       "num": 101292,
       "word": "王源五年前救助的三胞胎现状",
@@ -409,14 +417,6 @@
       "onboard_time": 1673427151,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101788,
-      "num": 101788,
-      "word": "人们为什么不想听专家说话了",
-      "onboard_time": 1673473753,
-      "rank": 4,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 100929,
@@ -483,6 +483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 76057,
+      "num": 76057,
+      "word": "孟美岐我心飞扬",
+      "onboard_time": 1673463314,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 74459,
       "num": 78548,
       "word": "国乒拿到世乒赛满额席位",
@@ -507,12 +515,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58982,
-      "num": 58982,
-      "word": "孟美岐我心飞扬",
-      "onboard_time": 1673463314,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 59281,
+      "num": 59281,
+      "word": "江母申请强制执行刘暖曦案已立案",
+      "onboard_time": 1673475614,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56785,
@@ -523,6 +531,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 55298,
+      "num": 55298,
+      "word": "专家不建议春节期间探访未阳老人",
+      "onboard_time": 1673475975,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55088,
       "num": 786761,
       "word": "如何科学稳妥地恢复运动",
@@ -531,8 +547,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29031,
-      "num": 29031,
+      "raw_hot": 36431,
+      "num": 36431,
       "word": "王一博黑纱造型",
       "onboard_time": 1673431049,
       "rank": 40,
