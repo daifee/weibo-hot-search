@@ -1,7 +1,15 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673436842382,
+  "endTime": 1673440580903,
   "band_list": [
+    {
+      "raw_hot": 15690756,
+      "num": 15690756,
+      "word": "广州一宝马冲撞人群已致5死13伤",
+      "onboard_time": 1673436935,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 5149861,
       "num": 536128,
@@ -57,6 +65,14 @@
       "onboard_time": 1673356051,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2758780,
+      "num": 2758780,
+      "word": "广州一小车碰撞行人司机已被控制",
+      "onboard_time": 1673439099,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2709676,
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 1442722,
-      "num": 921912,
+      "num": 1178706,
       "word": "李现被刘亦菲搂腰的反应",
       "onboard_time": 1673434834,
       "rank": 3,
@@ -1459,6 +1475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 649291,
+      "num": 649291,
+      "word": "情侣同居应该告知父母吗",
+      "onboard_time": 1673435133,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 642360,
       "num": 642360,
       "word": "辉瑞新冠药为何不愿意放低姿态",
@@ -1561,6 +1585,14 @@
       "onboard_time": 1673314648,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 608469,
+      "num": 451513,
+      "word": "韩媒称中国游客在泰国享受国宾待遇",
+      "onboard_time": 1673439336,
+      "rank": 10,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 602984,
@@ -1705,14 +1737,6 @@
       "onboard_time": 1673418628,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 567271,
-      "num": 567271,
-      "word": "情侣同居应该告知父母吗",
-      "onboard_time": 1673435133,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 566837,
@@ -2403,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444480,
+      "num": 444480,
+      "word": "ming去哪了",
+      "onboard_time": 1673436454,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 444243,
       "num": 444243,
       "word": "美国男子持假枪抢劫被反杀",
@@ -2673,6 +2705,14 @@
       "onboard_time": 1673230348,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 409084,
+      "num": 409084,
+      "word": "蔡明回应被模仿40年春晚造型",
+      "onboard_time": 1673438557,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 407672,
@@ -3003,6 +3043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367880,
+      "num": 367880,
+      "word": "伊利客服回应30支冰淇淋分30箱发货",
+      "onboard_time": 1673437297,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367732,
       "num": 367732,
       "word": "马龙 比赛",
@@ -3137,6 +3185,14 @@
       "onboard_time": 1673370799,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353467,
+      "num": 353467,
+      "word": "粉丝总有操不完的心",
+      "onboard_time": 1673438858,
+      "rank": 17,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 352064,
@@ -3403,6 +3459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332520,
+      "num": 323770,
+      "word": "00后实习生把拉客玩明白了",
+      "onboard_time": 1673439997,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332423,
       "num": 332423,
       "word": "洗完澡像换了一只狗狗",
@@ -3481,6 +3545,14 @@
       "onboard_time": 1673314947,
       "rank": 27,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 324175,
+      "num": 324175,
+      "word": "江西婚介谈彩礼有多高",
+      "onboard_time": 1673437958,
+      "rank": 19,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 323962,
@@ -3571,6 +3643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318491,
+      "num": 318491,
+      "word": "十位女歌手为汪苏泷新专打call",
+      "onboard_time": 1673437173,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 317233,
       "num": 317233,
       "word": "辉瑞Paxlovid医保谈判基本未降价",
@@ -3648,6 +3728,14 @@
       "word": "谢之遥的爸也是个作爹",
       "onboard_time": 1673353230,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 309689,
+      "num": 200446,
+      "word": "择君记",
+      "onboard_time": 1673439939,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -4067,6 +4155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277860,
+      "num": 190052,
+      "word": "顾南亭放弃与程霄飞首航",
+      "onboard_time": 1673440297,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277622,
       "num": 277622,
       "word": "谢之遥介绍许红豆是老板娘",
@@ -4281,6 +4377,14 @@
       "onboard_time": 1673265870,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 260782,
+      "num": 186045,
+      "word": "许红豆主动牵起谢之遥的手",
+      "onboard_time": 1673439939,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 260455,
@@ -4507,6 +4611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244685,
+      "num": 149341,
+      "word": "宋亚轩刘耀文新歌0114上线",
+      "onboard_time": 1673437116,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 244527,
       "num": 177357,
       "word": "顾南亭为爱苦等两天两夜",
@@ -4609,6 +4721,14 @@
       "onboard_time": 1673427453,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240018,
+      "num": 148251,
+      "word": "网传吴磊周雨彤爱情而已尺度很大",
+      "onboard_time": 1673440475,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 239990,
@@ -4939,6 +5059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216853,
+      "num": 216853,
+      "word": "TES全员旺仔",
+      "onboard_time": 1673437537,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216626,
       "num": 216626,
       "word": "6旬父亲摔倒睡觉儿子飞奔护住头",
@@ -5177,14 +5305,6 @@
       "onboard_time": 1673388615,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204119,
-      "num": 204119,
-      "word": "ming去哪了",
-      "onboard_time": 1673436454,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 203838,
@@ -5595,6 +5715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185220,
+      "num": 185220,
+      "word": "毁容式护肤",
+      "onboard_time": 1673439817,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 184712,
       "num": 184712,
       "word": "如何保护父母挺进决赛圈",
@@ -5907,6 +6035,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 169002,
+      "num": 169002,
+      "word": "一天吃两顿火锅是啥体验",
+      "onboard_time": 1673439817,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 168644,
       "num": 168644,
       "word": "小猫咪是怎么凶人的",
@@ -6049,6 +6185,14 @@
       "onboard_time": 1673252550,
       "rank": 46,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 159802,
+      "num": 159802,
+      "word": "EDG官宣新赛季大名单",
+      "onboard_time": 1673436875,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 159572,
@@ -6241,6 +6385,14 @@
       "onboard_time": 1673334269,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150523,
+      "num": 150523,
+      "word": "结婚时多少彩礼才合适",
+      "onboard_time": 1673435615,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150479,
@@ -6515,6 +6667,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 132470,
+      "num": 132470,
+      "word": "切尔西租借菲利克斯",
+      "onboard_time": 1673440359,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129831,
       "num": 129831,
       "word": "快递小哥多少有点全能",
@@ -6716,7 +6876,7 @@
     },
     {
       "raw_hot": 118682,
-      "num": 1143673,
+      "num": 1484373,
       "word": "春运天气指南请收好",
       "onboard_time": 1673428592,
       "rank": 2,
@@ -6769,6 +6929,14 @@
       "onboard_time": 1673435311,
       "rank": 49,
       "category": "体育,情感"
+    },
+    {
+      "raw_hot": 115026,
+      "num": 115026,
+      "word": "年底的打工人有多难",
+      "onboard_time": 1673440475,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 115022,

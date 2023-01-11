@@ -1,7 +1,15 @@
 {
   "startTime": 1673368158524,
-  "endTime": 1673436842382,
+  "endTime": 1673440580903,
   "band_list": [
+    {
+      "raw_hot": 15690756,
+      "num": 15690756,
+      "word": "广州一宝马冲撞人群已致5死13伤",
+      "onboard_time": 1673436935,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 5149861,
       "num": 536128,
@@ -25,6 +33,14 @@
       "onboard_time": 1673360732,
       "rank": 0,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2758780,
+      "num": 2758780,
+      "word": "广州一小车碰撞行人司机已被控制",
+      "onboard_time": 1673439099,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2687261,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 1442722,
-      "num": 921912,
+      "num": 1178706,
       "word": "李现被刘亦菲搂腰的反应",
       "onboard_time": 1673434834,
       "rank": 3,
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649291,
+      "num": 649291,
+      "word": "情侣同居应该告知父母吗",
+      "onboard_time": 1673435133,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 622827,
       "num": 471057,
       "word": "虞书欣王鹤棣的采访",
@@ -457,6 +481,14 @@
       "onboard_time": 1673431531,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 608469,
+      "num": 451513,
+      "word": "韩媒称中国游客在泰国享受国宾待遇",
+      "onboard_time": 1673439336,
+      "rank": 10,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 597201,
@@ -497,14 +529,6 @@
       "onboard_time": 1673418628,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 567271,
-      "num": 567271,
-      "word": "情侣同居应该告知父母吗",
-      "onboard_time": 1673435133,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 566837,
@@ -723,6 +747,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 444480,
+      "num": 444480,
+      "word": "ming去哪了",
+      "onboard_time": 1673436454,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 438836,
       "num": 438836,
       "word": "五年后电视机的样子",
@@ -809,6 +841,14 @@
       "onboard_time": 1673399550,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409084,
+      "num": 409084,
+      "word": "蔡明回应被模仿40年春晚造型",
+      "onboard_time": 1673438557,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 397963,
@@ -939,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367880,
+      "num": 367880,
+      "word": "伊利客服回应30支冰淇淋分30箱发货",
+      "onboard_time": 1673437297,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367732,
       "num": 367732,
       "word": "马龙 比赛",
@@ -993,6 +1041,14 @@
       "onboard_time": 1673370799,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353467,
+      "num": 353467,
+      "word": "粉丝总有操不完的心",
+      "onboard_time": 1673438858,
+      "rank": 17,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 351800,
@@ -1083,6 +1139,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 332520,
+      "num": 323770,
+      "word": "00后实习生把拉客玩明白了",
+      "onboard_time": 1673439997,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331936,
       "num": 331936,
       "word": "生肖卡",
@@ -1113,6 +1177,14 @@
       "onboard_time": 1673422950,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 324175,
+      "num": 324175,
+      "word": "江西婚介谈彩礼有多高",
+      "onboard_time": 1673437958,
+      "rank": 19,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 323404,
@@ -1163,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318491,
+      "num": 318491,
+      "word": "十位女歌手为汪苏泷新专打call",
+      "onboard_time": 1673437173,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 315737,
       "num": 315737,
       "word": "台媒称东部战区MV中出现台康定级军舰",
@@ -1193,6 +1273,14 @@
       "onboard_time": 1673387292,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309689,
+      "num": 200446,
+      "word": "择君记",
+      "onboard_time": 1673439939,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 308784,
@@ -1323,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277860,
+      "num": 190052,
+      "word": "顾南亭放弃与程霄飞首航",
+      "onboard_time": 1673440297,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277175,
       "num": 277175,
       "word": "赵丽颖手画兔小蕊",
@@ -1393,6 +1489,14 @@
       "onboard_time": 1673414252,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 260782,
+      "num": 186045,
+      "word": "许红豆主动牵起谢之遥的手",
+      "onboard_time": 1673439939,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 260217,
@@ -1491,6 +1595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244685,
+      "num": 149341,
+      "word": "宋亚轩刘耀文新歌0114上线",
+      "onboard_time": 1673437116,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 244111,
       "num": 184628,
       "word": "灼灼风流杀青官宣",
@@ -1529,6 +1641,14 @@
       "onboard_time": 1673427453,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240018,
+      "num": 148251,
+      "word": "网传吴磊周雨彤爱情而已尺度很大",
+      "onboard_time": 1673440475,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 237154,
@@ -1627,6 +1747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216853,
+      "num": 216853,
+      "word": "TES全员旺仔",
+      "onboard_time": 1673437537,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214734,
       "num": 167887,
       "word": "张九南 演出",
@@ -1681,14 +1809,6 @@
       "onboard_time": 1673388615,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204119,
-      "num": 204119,
-      "word": "ming去哪了",
-      "onboard_time": 1673436454,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 203593,
@@ -1803,6 +1923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185220,
+      "num": 185220,
+      "word": "毁容式护肤",
+      "onboard_time": 1673439817,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 185014,
       "num": 107184,
       "word": "导演何平去世",
@@ -1891,6 +2019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169002,
+      "num": 169002,
+      "word": "一天吃两顿火锅是啥体验",
+      "onboard_time": 1673439817,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 168978,
       "num": 168978,
       "word": "马龙3比4吉村真晴",
@@ -1929,6 +2065,14 @@
       "onboard_time": 1673399069,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159802,
+      "num": 159802,
+      "word": "EDG官宣新赛季大名单",
+      "onboard_time": 1673436875,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 158732,
@@ -1976,6 +2120,14 @@
       "word": "口腔种植体集采11日开标",
       "onboard_time": 1673428832,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150523,
+      "num": 150523,
+      "word": "结婚时多少彩礼才合适",
+      "onboard_time": 1673435615,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2059,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132470,
+      "num": 132470,
+      "word": "切尔西租借菲利克斯",
+      "onboard_time": 1673440359,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125683,
       "num": 162892,
       "word": "AppStore累计创下超3200亿美元营收",
@@ -2116,7 +2276,7 @@
     },
     {
       "raw_hot": 118682,
-      "num": 1143673,
+      "num": 1484373,
       "word": "春运天气指南请收好",
       "onboard_time": 1673428592,
       "rank": 2,
@@ -2145,6 +2305,14 @@
       "onboard_time": 1673435311,
       "rank": 49,
       "category": "体育,情感"
+    },
+    {
+      "raw_hot": 115026,
+      "num": 115026,
+      "word": "年底的打工人有多难",
+      "onboard_time": 1673440475,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 115022,
