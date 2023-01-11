@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673458680165,
+  "endTime": 1673461631012,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -23163,6 +23163,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 154116,
+      "num": 129959,
+      "word": "小狗被抱养一个月狗妈妈突然出现",
+      "onboard_time": 1673455823,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153998,
       "num": 153998,
       "word": "糖丸爷爷顾方舟逝世四周年",
@@ -24723,6 +24731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131905,
+      "num": 131905,
+      "word": "徐海乔现在很羡慕李现吧",
+      "onboard_time": 1673459297,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131492,
       "num": 131492,
       "word": "它甚至还没看清楚就开始狗叫",
@@ -24761,6 +24777,14 @@
       "onboard_time": 1672963043,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130598,
+      "num": 130598,
+      "word": "刘亦菲发博恭喜杨紫琼获奖",
+      "onboard_time": 1673457860,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 130492,
@@ -25033,14 +25057,6 @@
       "onboard_time": 1673165249,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 127418,
-      "num": 77363,
-      "word": "小狗被抱养一个月狗妈妈突然出现",
-      "onboard_time": 1673455823,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127362,
@@ -27203,6 +27219,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 83251,
+      "num": 80197,
+      "word": "MinjiHanni李惠仁新歌OMG舞蹈挑战",
+      "onboard_time": 1673460256,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 82939,
       "num": 399787,
       "word": "国乒元旦祝福",
@@ -27387,20 +27411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72068,
+      "num": 72068,
+      "word": "南方人都是这样吃甘蔗的吗",
+      "onboard_time": 1673456243,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71636,
       "num": 71636,
       "word": "中国智能手机换机周期或增至34个月",
       "onboard_time": 1673375235,
       "rank": 25,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 70930,
-      "num": 70930,
-      "word": "南方人都是这样吃甘蔗的吗",
-      "onboard_time": 1673456243,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 69518,
@@ -27489,6 +27513,14 @@
       "onboard_time": 1672676965,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62346,
+      "num": 50846,
+      "word": "真的很爱这种大气的美",
+      "onboard_time": 1673458759,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 61999,

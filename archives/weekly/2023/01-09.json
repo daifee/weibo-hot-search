@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673458680165,
+  "endTime": 1673461631012,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -6747,6 +6747,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 154116,
+      "num": 129959,
+      "word": "小狗被抱养一个月狗妈妈突然出现",
+      "onboard_time": 1673455823,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153792,
       "num": 153792,
       "word": "口腔种植体集采11日开标",
@@ -7187,6 +7195,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131905,
+      "num": 131905,
+      "word": "徐海乔现在很羡慕李现吧",
+      "onboard_time": 1673459297,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 130598,
+      "num": 130598,
+      "word": "刘亦菲发博恭喜杨紫琼获奖",
+      "onboard_time": 1673457860,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129831,
       "num": 129831,
       "word": "快递小哥多少有点全能",
@@ -7225,14 +7249,6 @@
       "onboard_time": 1673323350,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127418,
-      "num": 77363,
-      "word": "小狗被抱养一个月狗妈妈突然出现",
-      "onboard_time": 1673455823,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127362,
@@ -7867,6 +7883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 83251,
+      "num": 80197,
+      "word": "MinjiHanni李惠仁新歌OMG舞蹈挑战",
+      "onboard_time": 1673460256,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 82352,
       "num": 82352,
       "word": "冬天的哈尔滨",
@@ -7947,6 +7971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72068,
+      "num": 72068,
+      "word": "南方人都是这样吃甘蔗的吗",
+      "onboard_time": 1673456243,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72055,
       "num": 72055,
       "word": "县一把手变一霸手帮弟弟揽工程",
@@ -7961,14 +7993,6 @@
       "onboard_time": 1673375235,
       "rank": 25,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 70930,
-      "num": 70930,
-      "word": "南方人都是这样吃甘蔗的吗",
-      "onboard_time": 1673456243,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 69292,
@@ -7993,6 +8017,14 @@
       "onboard_time": 1673246248,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62346,
+      "num": 50846,
+      "word": "真的很爱这种大气的美",
+      "onboard_time": 1673458759,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 58551,
