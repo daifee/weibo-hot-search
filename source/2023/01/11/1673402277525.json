@@ -1,0 +1,410 @@
+{
+  "runTime": 1673402277525,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2044583,
+        "num": 2044583,
+        "word": "人民网评余景天粉丝接机制造拥堵",
+        "onboard_time": 1673368046,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1178312,
+        "num": 1178312,
+        "word": "彭昱畅说何炅黄磊不会吵架除非在点自己",
+        "onboard_time": 1673393301,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53142,
+        "num": 1170915,
+        "word": "守护你回家的路",
+        "onboard_time": 1673359051,
+        "rank": 2,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1164513,
+        "num": 1164513,
+        "word": "韩国男子杀害中国妻子未遂获减刑",
+        "onboard_time": 1673383633,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1143788,
+        "num": 1143788,
+        "word": "欧盟就自中国入境航班指引达成一致",
+        "onboard_time": 1673397810,
+        "rank": 4,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1482793,
+        "num": 1132040,
+        "word": "韩国",
+        "onboard_time": 1673360732,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 995971,
+        "num": 995971,
+        "word": "日本发红色挂件标记中国旅客",
+        "onboard_time": 1673395108,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934635,
+        "num": 934635,
+        "word": "专家劝百姓拿出三分之一存款买房",
+        "onboard_time": 1673359892,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863887,
+        "num": 863887,
+        "word": "BLACKPINK确定领衔出演科切拉音乐节",
+        "onboard_time": 1673400150,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 612880,
+        "num": 612880,
+        "word": "各地大学生出手了",
+        "onboard_time": 1673394146,
+        "rank": 9,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 826879,
+        "num": 582588,
+        "word": "微信回应切断抖音外链",
+        "onboard_time": 1673400928,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 660577,
+        "num": 579201,
+        "word": "中国奇谭",
+        "onboard_time": 1673400629,
+        "rank": 11,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 538709,
+        "num": 538709,
+        "word": "白敬亭赵今麦开端开播1周年",
+        "onboard_time": 1673398651,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478504,
+        "num": 478504,
+        "word": "董事长行长把银行当自己家疯狂敛财",
+        "onboard_time": 1673397868,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468330,
+        "num": 468330,
+        "word": "李现吃黄焖鸡要多加土豆",
+        "onboard_time": 1673401289,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 443113,
+        "num": 443113,
+        "word": "男方嫌30万彩礼多只肯出1万8包三金",
+        "onboard_time": 1673350472,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410173,
+        "num": 410173,
+        "word": "妈妈用1块布给女儿做4套拜年服",
+        "onboard_time": 1673399550,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309415,
+        "num": 309415,
+        "word": "你介意对象谈过很久的前任吗",
+        "onboard_time": 1673359533,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298746,
+        "num": 298746,
+        "word": "张文宏称存在无症状感染者",
+        "onboard_time": 1673362955,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256689,
+        "num": 256689,
+        "word": "被老年人的手机酷到了",
+        "onboard_time": 1673395648,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 397658,
+        "num": 252830,
+        "word": "粉丝接送机文化该不该禁止",
+        "onboard_time": 1673396788,
+        "rank": 20,
+        "category": "社会议题,艺人"
+      },
+      {
+        "raw_hot": 328401,
+        "num": 252685,
+        "word": "张兰称一定会和茅台合作的",
+        "onboard_time": 1673371699,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293727,
+        "num": 251489,
+        "word": "王鹤棣品牌",
+        "onboard_time": 1673393903,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247883,
+        "num": 247883,
+        "word": "金毛绝育后瘫坐副驾驶不下车",
+        "onboard_time": 1673401410,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235074,
+        "num": 235074,
+        "word": "丈夫生前借姐姐名买房遗孀起诉要钱",
+        "onboard_time": 1673387292,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285540,
+        "num": 233062,
+        "word": "王嘉尔将二登科切拉",
+        "onboard_time": 1673401530,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222044,
+        "num": 222044,
+        "word": "房地产市场降三高有信心",
+        "onboard_time": 1673395527,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 216796,
+        "num": 216796,
+        "word": "蒙冤29年谭修义申请1700万国家赔偿",
+        "onboard_time": 1673398110,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213406,
+        "num": 213406,
+        "word": "网红餐厅爆满女子被安排前台就餐",
+        "onboard_time": 1673370799,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198783,
+        "num": 198783,
+        "word": "半瘫痪女孩居家打3份工月入过万",
+        "onboard_time": 1673371879,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276641,
+        "num": 197920,
+        "word": "金球奖红毯",
+        "onboard_time": 1673400325,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201605,
+        "num": 197496,
+        "word": "CCTV6将首播刘亦菲版花木兰",
+        "onboard_time": 1673362535,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195671,
+        "num": 195671,
+        "word": "赴韩中国游客一下飞机就被挂黄牌",
+        "onboard_time": 1673377035,
+        "rank": 32,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 192025,
+        "num": 192025,
+        "word": "家长炮轰中国奇谭",
+        "onboard_time": 1673346149,
+        "rank": 33,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 176323,
+        "num": 176323,
+        "word": "北京楼市销量回暖",
+        "onboard_time": 1673400448,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 168386,
+        "num": 168386,
+        "word": "爸妈是真不拿我当外人啊",
+        "onboard_time": 1673401706,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162125,
+        "num": 162125,
+        "word": "暂停审发日本公民赴华普通签证",
+        "onboard_time": 1673356051,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 153860,
+        "num": 153860,
+        "word": "阳过之后心跳快是得了心肌炎吗",
+        "onboard_time": 1673401948,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153698,
+        "num": 153698,
+        "word": "目前行情下你还考虑年后离职吗",
+        "onboard_time": 1673360974,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153582,
+        "num": 153582,
+        "word": "狗子跳车拦住怀孕主人下一秒山路塌方",
+        "onboard_time": 1673364632,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186479,
+        "num": 151002,
+        "word": "一人表演五人丢脸",
+        "onboard_time": 1673371998,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170361,
+        "num": 150009,
+        "word": "赵丽颖三农人物盛典白衬衫录制路透",
+        "onboard_time": 1673402128,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144489,
+        "num": 144489,
+        "word": "专家称现在正是房价低的时候",
+        "onboard_time": 1673367270,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 143864,
+        "num": 143864,
+        "word": "前中国首富李河君被警方带走",
+        "onboard_time": 1673365293,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 130743,
+        "num": 130743,
+        "word": "电锯人",
+        "onboard_time": 1673393362,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 130252,
+        "num": 130252,
+        "word": "小猫咪是怎么凶人的",
+        "onboard_time": 1673365110,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129554,
+        "num": 129554,
+        "word": "一公司就给员工加薪50元道歉",
+        "onboard_time": 1673402068,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126556,
+        "num": 126556,
+        "word": "eStar开除运营",
+        "onboard_time": 1673362837,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116117,
+        "num": 116117,
+        "word": "男子疑吃红烧肉挑出多条猪肉绦虫",
+        "onboard_time": 1673385431,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108022,
+        "num": 108022,
+        "word": "本世纪有4次早春节",
+        "onboard_time": 1673399069,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#展现可信可爱可敬的中国形象#"
+    }
+  }
+}
