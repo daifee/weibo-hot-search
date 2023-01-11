@@ -1,0 +1,410 @@
+{
+  "runTime": 1673422431565,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1269842,
+        "num": 1269842,
+        "word": "短发新娘不穿婚纱被误认成伴郎",
+        "onboard_time": 1673413772,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1230451,
+        "num": 1230451,
+        "word": "女子写错外卖地址男孩误吃鸡爪面包",
+        "onboard_time": 1673419169,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96068,
+        "num": 1014228,
+        "word": "新冠康复如何做到清淡饮食",
+        "onboard_time": 1673410590,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2243531,
+        "num": 972361,
+        "word": "上海严公子",
+        "onboard_time": 1673416471,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891311,
+        "num": 891311,
+        "word": "灰太狼的羊称家暴出轨均为虚构",
+        "onboard_time": 1673415269,
+        "rank": 4,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 785502,
+        "num": 785502,
+        "word": "张若昀大侦探8银发造型",
+        "onboard_time": 1673421330,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 569046,
+        "num": 569046,
+        "word": "劝老百姓买房专家任多家房企高管",
+        "onboard_time": 1673418628,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 501764,
+        "num": 501764,
+        "word": "权志龙姐姐开北京首店",
+        "onboard_time": 1673407469,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446260,
+        "num": 446260,
+        "word": "老人去世00后担起重任帮抬棺",
+        "onboard_time": 1673415748,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444702,
+        "num": 444702,
+        "word": "网购60支冰淇淋到货发现用30箱装",
+        "onboard_time": 1673414550,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1092163,
+        "num": 437156,
+        "word": "一家4口三亚溺水全部遇难",
+        "onboard_time": 1673409571,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036333,
+        "num": 432878,
+        "word": "虞书欣不冷吗",
+        "onboard_time": 1673419409,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 485143,
+        "num": 429342,
+        "word": "何运晨排凶一排一个准",
+        "onboard_time": 1673420308,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425431,
+        "num": 425431,
+        "word": "兰州地震",
+        "onboard_time": 1673422170,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421692,
+        "num": 421692,
+        "word": "iPhone16Pro或取消灵动岛",
+        "onboard_time": 1673404526,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 401232,
+        "num": 401232,
+        "word": "五年后电视机的样子",
+        "onboard_time": 1673419468,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396770,
+        "num": 396770,
+        "word": "3岁男童反复呕吐被确诊癌症晚期",
+        "onboard_time": 1673411311,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376520,
+        "num": 376520,
+        "word": "藤萝为枝",
+        "onboard_time": 1673411613,
+        "rank": 17,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 372346,
+        "num": 372346,
+        "word": "王鹤棣心中TOP1的动漫角色是路飞",
+        "onboard_time": 1673420908,
+        "rank": 18,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 331105,
+        "num": 331105,
+        "word": "女子逛街试戴水杯把手被卡无奈买下",
+        "onboard_time": 1673419587,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368176,
+        "num": 330838,
+        "word": "谢腾飞才是财阀家的小儿子",
+        "onboard_time": 1673420668,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340968,
+        "num": 329797,
+        "word": "余景天就机场拥堵事件道歉",
+        "onboard_time": 1673403866,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 328161,
+        "num": 328161,
+        "word": "易烊千玺满江红福布斯全球最受期待电影",
+        "onboard_time": 1673419288,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323156,
+        "num": 323156,
+        "word": "中国赴泰游客或将超疫情前水平",
+        "onboard_time": 1673418089,
+        "rank": 23,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 308076,
+        "num": 308076,
+        "word": "凯特温斯莱特鼓励新手记者",
+        "onboard_time": 1673418269,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288928,
+        "num": 288928,
+        "word": "爸爸将女儿第一双鞋当挂件",
+        "onboard_time": 1673418209,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224160,
+        "num": 224160,
+        "word": "五福吉祥物丑",
+        "onboard_time": 1673421390,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202876,
+        "num": 202876,
+        "word": "电费1个月3481元竟有电费刺客",
+        "onboard_time": 1673403687,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690107,
+        "num": 201438,
+        "word": "辉瑞称中国是第二大经济体新冠药不能太便宜",
+        "onboard_time": 1673411132,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199364,
+        "num": 199364,
+        "word": "韩国要求香港航班只能降落仁川机场",
+        "onboard_time": 1673405609,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303017,
+        "num": 196808,
+        "word": "王嘉尔两次科切拉地位变化",
+        "onboard_time": 1673422231,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 291591,
+        "num": 194951,
+        "word": "陈哲远回应被综艺之神眷顾",
+        "onboard_time": 1673417130,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287184,
+        "num": 194627,
+        "word": "宋雨琦给陈卓璇新歌打call",
+        "onboard_time": 1673420368,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191813,
+        "num": 191813,
+        "word": "00后帮老人买票被送黄金手串",
+        "onboard_time": 1673417609,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189254,
+        "num": 189254,
+        "word": "明天会有V我50的人吗",
+        "onboard_time": 1673421806,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 186775,
+        "num": 186775,
+        "word": "15岁男孩救火母亲大喊你快回来",
+        "onboard_time": 1673420489,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186165,
+        "num": 186165,
+        "word": "中国目前流行毒株是世界其他地方已存在毒株",
+        "onboard_time": 1673411853,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184559,
+        "num": 184559,
+        "word": "女子带儿子偷偷回家妈妈感动落泪",
+        "onboard_time": 1673417489,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182977,
+        "num": 182977,
+        "word": "女子患癌去世前给女儿买整柜衣服",
+        "onboard_time": 1673422049,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178597,
+        "num": 178597,
+        "word": "为什么彩礼习俗流传至今",
+        "onboard_time": 1673421929,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275123,
+        "num": 177046,
+        "word": "90后东北女孩神还原蔡明春晚40年造型",
+        "onboard_time": 1673419949,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257232,
+        "num": 174809,
+        "word": "想见你导演黄天仁关注吴磊赵今麦",
+        "onboard_time": 1673422349,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249772,
+        "num": 174398,
+        "word": "金玟庭看恐怖片的反应",
+        "onboard_time": 1673419169,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171812,
+        "num": 171812,
+        "word": "优衣库日本员工将涨薪40%",
+        "onboard_time": 1673414252,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170899,
+        "num": 170899,
+        "word": "狗狗演我晕车状态",
+        "onboard_time": 1673417130,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153722,
+        "num": 153722,
+        "word": "没想到这猫咪居然这么脏",
+        "onboard_time": 1673413414,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150080,
+        "num": 150080,
+        "word": "深圳生育第三孩累计补贴1.9万元",
+        "onboard_time": 1673407889,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146115,
+        "num": 146115,
+        "word": "暂停签发韩日公民来华口岸签证",
+        "onboard_time": 1673421449,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130785,
+        "num": 130785,
+        "word": "iPhone15全系将搭载灵动岛",
+        "onboard_time": 1673410470,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 120803,
+        "num": 120803,
+        "word": "国产芯片有望通过先进封装突围",
+        "onboard_time": 1673422108,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面从严治党永远吹冲锋号#"
+    }
+  }
+}
