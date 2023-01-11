@@ -1,0 +1,410 @@
+{
+  "runTime": 1673426322031,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1507513,
+        "num": 1507513,
+        "word": "女子写错外卖地址男孩误吃鸡爪面包",
+        "onboard_time": 1673419169,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1319292,
+        "num": 1319292,
+        "word": "泰国调整入境政策",
+        "onboard_time": 1673423250,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96568,
+        "num": 982160,
+        "word": "新冠康复如何做到清淡饮食",
+        "onboard_time": 1673410590,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1593425,
+        "num": 981367,
+        "word": "上海严公子",
+        "onboard_time": 1673416471,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978709,
+        "num": 978709,
+        "word": "女子患癌去世前给女儿买整柜衣服",
+        "onboard_time": 1673422049,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 871808,
+        "num": 871808,
+        "word": "杨幂在演一种很新的白狐",
+        "onboard_time": 1673423911,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 649770,
+        "num": 649770,
+        "word": "短发新娘不穿婚纱被误认成伴郎",
+        "onboard_time": 1673413772,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604381,
+        "num": 604381,
+        "word": "张若昀大侦探8银发造型",
+        "onboard_time": 1673421330,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 450421,
+        "num": 450421,
+        "word": "研究称智能手机可释放致命病毒",
+        "onboard_time": 1673424271,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 438836,
+        "num": 438836,
+        "word": "五年后电视机的样子",
+        "onboard_time": 1673419468,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 834851,
+        "num": 437621,
+        "word": "一家4口三亚溺水全部遇难",
+        "onboard_time": 1673409571,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634172,
+        "num": 436785,
+        "word": "虞书欣不冷吗",
+        "onboard_time": 1673419409,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 433873,
+        "num": 433873,
+        "word": "为什么彩礼习俗流传至今",
+        "onboard_time": 1673421929,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428445,
+        "num": 428445,
+        "word": "劝老百姓买房专家任多家房企高管",
+        "onboard_time": 1673418628,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 383968,
+        "num": 383968,
+        "word": "国产芯片有望通过先进封装突围",
+        "onboard_time": 1673422108,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 381832,
+        "num": 381832,
+        "word": "权志龙姐姐开北京首店",
+        "onboard_time": 1673407469,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367732,
+        "num": 367732,
+        "word": "马龙 比赛",
+        "onboard_time": 1673424451,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363380,
+        "num": 363380,
+        "word": "找到中国奇谭里的小猪妖了",
+        "onboard_time": 1673424633,
+        "rank": 17,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 358039,
+        "num": 358039,
+        "word": "网购60支冰淇淋到货发现用30箱装",
+        "onboard_time": 1673414550,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334239,
+        "num": 334239,
+        "word": "王嘉尔两次科切拉地位变化",
+        "onboard_time": 1673422231,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 328870,
+        "num": 328870,
+        "word": "藤萝为枝",
+        "onboard_time": 1673411613,
+        "rank": 20,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 284302,
+        "num": 284302,
+        "word": "谢腾飞才是财阀家的小儿子",
+        "onboard_time": 1673420668,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286423,
+        "num": 282150,
+        "word": "汪苏泷年末赶业绩",
+        "onboard_time": 1673425474,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277574,
+        "num": 277574,
+        "word": "台媒称东部战区MV中出现台康定级军舰",
+        "onboard_time": 1673425534,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 277175,
+        "num": 277175,
+        "word": "赵丽颖手画兔小蕊",
+        "onboard_time": 1673425171,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276620,
+        "num": 276620,
+        "word": "肖铎失恋发疯",
+        "onboard_time": 1673422891,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275279,
+        "num": 275279,
+        "word": "兰州震感",
+        "onboard_time": 1673422170,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271552,
+        "num": 271552,
+        "word": "狼人杀",
+        "onboard_time": 1673423790,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258480,
+        "num": 258480,
+        "word": "3岁男童反复呕吐被确诊癌症晚期",
+        "onboard_time": 1673411311,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257724,
+        "num": 257724,
+        "word": "暂停签发韩日公民来华口岸签证",
+        "onboard_time": 1673421449,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257754,
+        "num": 257224,
+        "word": "王鹤棣心中TOP1的动漫角色是路飞",
+        "onboard_time": 1673420908,
+        "rank": 30,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 244889,
+        "num": 244889,
+        "word": "iPhone16Pro或取消灵动岛",
+        "onboard_time": 1673404526,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 244632,
+        "num": 244632,
+        "word": "李宏毅主动递简历争取到萧瑟",
+        "onboard_time": 1673422950,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231078,
+        "num": 231078,
+        "word": "90后东北女孩神还原蔡明春晚40年造型",
+        "onboard_time": 1673419949,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210614,
+        "num": 210614,
+        "word": "上美影回应中国奇谭周边脱销",
+        "onboard_time": 1673425051,
+        "rank": 34,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 206387,
+        "num": 206387,
+        "word": "15岁男孩救火母亲大喊你快回来",
+        "onboard_time": 1673420489,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205503,
+        "num": 205503,
+        "word": "女子逛街试戴水杯把手被卡无奈买下",
+        "onboard_time": 1673419587,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177548,
+        "num": 177548,
+        "word": "画师改名话诗",
+        "onboard_time": 1673425171,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175518,
+        "num": 175518,
+        "word": "老人去世00后担起重任帮抬棺",
+        "onboard_time": 1673415748,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173639,
+        "num": 173639,
+        "word": "Doinb选手认证被取消",
+        "onboard_time": 1673426012,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189157,
+        "num": 172253,
+        "word": "易烊千玺满江红福布斯全球最受期待电影",
+        "onboard_time": 1673419288,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187435,
+        "num": 172141,
+        "word": "余景天就机场拥堵事件道歉",
+        "onboard_time": 1673403866,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 170117,
+        "num": 170117,
+        "word": "爸爸将女儿第一双鞋当挂件",
+        "onboard_time": 1673418209,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168119,
+        "num": 168119,
+        "word": "中国赴泰游客或将超疫情前水平",
+        "onboard_time": 1673418089,
+        "rank": 43,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 153758,
+        "num": 153758,
+        "word": "中国目前流行毒株是世界其他地方已存在毒株",
+        "onboard_time": 1673411853,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153142,
+        "num": 153142,
+        "word": "江西如何给天价彩礼降温",
+        "onboard_time": 1673422588,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149337,
+        "num": 149337,
+        "word": "韩国要求香港航班只能降落仁川机场",
+        "onboard_time": 1673405609,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141606,
+        "num": 141606,
+        "word": "没想到这猫咪居然这么脏",
+        "onboard_time": 1673413414,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133803,
+        "num": 141254,
+        "word": "三亚和泰国旅游卷起来了",
+        "onboard_time": 1673426253,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 125465,
+        "num": 141195,
+        "word": "优衣库日本员工将涨薪40%",
+        "onboard_time": 1673414252,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面从严治党永远吹冲锋号#"
+    }
+  }
+}

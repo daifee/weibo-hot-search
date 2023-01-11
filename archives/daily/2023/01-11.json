@@ -1,6 +1,6 @@
 {
   "startTime": 1673368158524,
-  "endTime": 1673425498330,
+  "endTime": 1673426322031,
   "band_list": [
     {
       "raw_hot": 3708647,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2430955,
-      "num": 972361,
+      "num": 981367,
       "word": "上海严公子",
       "onboard_time": 1673416471,
       "rank": 3,
@@ -67,8 +67,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1494932,
-      "num": 1494932,
+      "raw_hot": 1507513,
+      "num": 1507513,
       "word": "女子写错外卖地址男孩误吃鸡爪面包",
       "onboard_time": 1673419169,
       "rank": 4,
@@ -96,6 +96,14 @@
       "word": "专家劝百姓拿出三分之一存款买房",
       "onboard_time": 1673359892,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1319292,
+      "num": 1319292,
+      "word": "泰国调整入境政策",
+      "onboard_time": 1673423250,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 978709,
+      "num": 978709,
+      "word": "女子患癌去世前给女儿买整柜衣服",
+      "onboard_time": 1673422049,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 952584,
       "num": 952584,
       "word": "藤萝为枝",
@@ -203,27 +219,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 943890,
-      "num": 943890,
-      "word": "女子患癌去世前给女儿买整柜衣服",
-      "onboard_time": 1673422049,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 941693,
       "num": 941693,
       "word": "3岁男童反复呕吐被确诊癌症晚期",
       "onboard_time": 1673411311,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 920179,
-      "num": 920179,
-      "word": "泰国调整入境政策",
-      "onboard_time": 1673423250,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -241,6 +241,14 @@
       "onboard_time": 1673350472,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 871808,
+      "num": 871808,
+      "word": "杨幂在演一种很新的白狐",
+      "onboard_time": 1673423911,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 863887,
@@ -304,14 +312,6 @@
       "word": "金球奖",
       "onboard_time": 1673404587,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 670882,
-      "num": 670882,
-      "word": "杨幂在演一种很新的白狐",
-      "onboard_time": 1673423911,
-      "rank": 6,
       "category": "影视"
     },
     {
@@ -547,12 +547,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 433437,
-      "num": 433437,
+      "raw_hot": 450421,
+      "num": 450421,
+      "word": "研究称智能手机可释放致命病毒",
+      "onboard_time": 1673424271,
+      "rank": 24,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 438836,
+      "num": 438836,
       "word": "五年后电视机的样子",
       "onboard_time": 1673419468,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 433873,
+      "num": 433873,
+      "word": "为什么彩礼习俗流传至今",
+      "onboard_time": 1673421929,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432046,
@@ -667,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383968,
+      "num": 383968,
+      "word": "国产芯片有望通过先进封装突围",
+      "onboard_time": 1673422108,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 375691,
       "num": 375691,
       "word": "亲历者讲述入境韩国被关小黑屋",
@@ -715,12 +739,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 360546,
-      "num": 360546,
-      "word": "国产芯片有望通过先进封装突围",
-      "onboard_time": 1673422108,
-      "rank": 49,
-      "category": "科技"
+      "raw_hot": 367732,
+      "num": 367732,
+      "word": "马龙 比赛",
+      "onboard_time": 1673424451,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 363380,
+      "num": 363380,
+      "word": "找到中国奇谭里的小猪妖了",
+      "onboard_time": 1673424633,
+      "rank": 20,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 360048,
@@ -744,14 +776,6 @@
       "word": "网红餐厅爆满女子被安排前台就餐",
       "onboard_time": 1673370799,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351902,
-      "num": 351902,
-      "word": "为什么彩礼习俗流传至今",
-      "onboard_time": 1673421929,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -827,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330346,
-      "num": 330346,
-      "word": "马龙 比赛",
-      "onboard_time": 1673424451,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 327187,
       "num": 327187,
       "word": "被老年人的手机酷到了",
@@ -873,14 +889,6 @@
       "onboard_time": 1673418269,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 316053,
-      "num": 316053,
-      "word": "找到中国奇谭里的小猪妖了",
-      "onboard_time": 1673424633,
-      "rank": 20,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 312510,
@@ -963,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286423,
+      "num": 282150,
+      "word": "汪苏泷年末赶业绩",
+      "onboard_time": 1673425474,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 286103,
       "num": 286103,
       "word": "00后帮老人买票被送黄金手串",
@@ -979,20 +995,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 284320,
-      "num": 284320,
-      "word": "研究称智能手机可释放致命病毒",
-      "onboard_time": 1673424271,
-      "rank": 24,
-      "category": "科技"
-    },
-    {
       "raw_hot": 278713,
       "num": 221595,
       "word": "瞬息全宇宙赢麻了",
       "onboard_time": 1673411132,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 277574,
+      "num": 277574,
+      "word": "台媒称东部战区MV中出现台康定级军舰",
+      "onboard_time": 1673425534,
+      "rank": 23,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 277175,
+      "num": 277175,
+      "word": "赵丽颖手画兔小蕊",
+      "onboard_time": 1673425171,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 276930,
@@ -1035,6 +1059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271552,
+      "num": 271552,
+      "word": "狼人杀",
+      "onboard_time": 1673423790,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 271502,
       "num": 195927,
       "word": "一人表演五人丢脸",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1673414252,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 257724,
+      "num": 257724,
+      "word": "暂停签发韩日公民来华口岸签证",
+      "onboard_time": 1673421449,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257232,
@@ -1171,14 +1211,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 231834,
-      "num": 220684,
-      "word": "赵丽颖手画兔小蕊",
-      "onboard_time": 1673425171,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 226828,
       "num": 226828,
       "word": "男子鱼刺卡喉反复按压致脑梗",
@@ -1211,14 +1243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222483,
-      "num": 222483,
-      "word": "暂停签发韩日公民来华口岸签证",
-      "onboard_time": 1673421449,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220463,
       "num": 220463,
       "word": "少年歌行女性角色",
@@ -1241,14 +1265,6 @@
       "onboard_time": 1673414669,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 216546,
-      "num": 163418,
-      "word": "汪苏泷年末赶业绩",
-      "onboard_time": 1673425474,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 214734,
@@ -1419,6 +1435,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 177548,
+      "num": 177548,
+      "word": "画师改名话诗",
+      "onboard_time": 1673425171,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176323,
       "num": 176323,
       "word": "北京楼市销量回暖",
@@ -1427,11 +1451,11 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 170799,
-      "num": 170799,
-      "word": "狼人杀",
-      "onboard_time": 1673423790,
-      "rank": 38,
+      "raw_hot": 173639,
+      "num": 173639,
+      "word": "Doinb选手认证被取消",
+      "onboard_time": 1673426012,
+      "rank": 39,
       "category": "游戏"
     },
     {
@@ -1473,14 +1497,6 @@
       "onboard_time": 1673422588,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163413,
-      "num": 163413,
-      "word": "画师改名话诗",
-      "onboard_time": 1673425171,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 161516,
@@ -1601,6 +1617,14 @@
       "onboard_time": 1673405249,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133803,
+      "num": 141254,
+      "word": "三亚和泰国旅游卷起来了",
+      "onboard_time": 1673426253,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 125683,
