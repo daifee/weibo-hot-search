@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673393625604,
+  "endTime": 1673401016910,
   "band_list": [
     {
       "raw_hot": 3536801,
@@ -299,6 +299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1221743,
+      "num": 1221743,
+      "word": "韩国男子杀害中国妻子未遂获减刑",
+      "onboard_time": 1673383633,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1221324,
       "num": 1221324,
       "word": "光遇",
@@ -347,12 +355,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1191146,
+      "num": 1191146,
+      "word": "日本发红色挂件标记中国旅客",
+      "onboard_time": 1673395108,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1181730,
       "num": 1164234,
       "word": "瞒报行程被判4年司机发声",
       "onboard_time": 1673243788,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1179296,
+      "num": 1179296,
+      "word": "彭昱畅说何炅黄磊不会吵架除非在点自己",
+      "onboard_time": 1673393301,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1136780,
@@ -425,6 +449,14 @@
       "onboard_time": 1673227225,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1041658,
+      "num": 1041658,
+      "word": "欧盟就自中国入境航班指引达成一致",
+      "onboard_time": 1673397810,
+      "rank": 7,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1029029,
@@ -931,12 +963,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 743499,
+      "num": 743499,
+      "word": "BLACKPINK确定领衔出演科切拉音乐节",
+      "onboard_time": 1673400150,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 723039,
       "num": 723039,
       "word": "莎头",
       "onboard_time": 1673250868,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 721365,
+      "num": 721365,
+      "word": "各地大学生出手了",
+      "onboard_time": 1673394146,
+      "rank": 9,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 721063,
@@ -961,14 +1009,6 @@
       "onboard_time": 1673252788,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 696711,
-      "num": 696711,
-      "word": "韩国男子杀害中国妻子未遂获减刑",
-      "onboard_time": 1673383633,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 694784,
@@ -1283,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566673,
+      "num": 566673,
+      "word": "白敬亭赵今麦开端开播1周年",
+      "onboard_time": 1673398651,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 564453,
       "num": 564453,
       "word": "王子异综艺截图",
@@ -1369,6 +1417,22 @@
       "onboard_time": 1673188297,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 543795,
+      "num": 543795,
+      "word": "董事长行长把银行当自己家疯狂敛财",
+      "onboard_time": 1673397868,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541166,
+      "num": 541166,
+      "word": "粉丝接送机文化该不该禁止",
+      "onboard_time": 1673396788,
+      "rank": 12,
+      "category": "社会议题,艺人"
     },
     {
       "raw_hot": 533705,
@@ -1979,6 +2043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 411656,
+      "num": 411656,
+      "word": "张兰称一定会和茅台合作的",
+      "onboard_time": 1673371699,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411413,
       "num": 411413,
       "word": "狗子跳车拦住怀孕主人下一秒山路塌方",
@@ -2147,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384634,
+      "num": 325520,
+      "word": "中国奇谭",
+      "onboard_time": 1673400629,
+      "rank": 20,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 383906,
       "num": 360507,
       "word": "陈炳林承认校园霸凌",
@@ -2235,6 +2315,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 367896,
+      "num": 367896,
+      "word": "妈妈用1块布给女儿做4套拜年服",
+      "onboard_time": 1673399550,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367728,
       "num": 367728,
       "word": "KPL奇妙夜",
@@ -2273,6 +2361,14 @@
       "onboard_time": 1673360433,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 360048,
+      "num": 324278,
+      "word": "王鹤棣品牌",
+      "onboard_time": 1673393903,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 359819,
@@ -2385,6 +2481,14 @@
       "onboard_time": 1673325451,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 342782,
+      "num": 342782,
+      "word": "房地产市场降三高有信心",
+      "onboard_time": 1673395527,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 342593,
@@ -2537,6 +2641,14 @@
       "onboard_time": 1673316627,
       "rank": 21,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 327187,
+      "num": 327187,
+      "word": "被老年人的手机酷到了",
+      "onboard_time": 1673395648,
+      "rank": 19,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 325146,
@@ -2713,14 +2825,6 @@
       "onboard_time": 1673243849,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 304947,
-      "num": 304947,
-      "word": "张兰称一定会和茅台合作的",
-      "onboard_time": 1673371699,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 304240,
@@ -3020,7 +3124,7 @@
     },
     {
       "raw_hot": 271502,
-      "num": 139758,
+      "num": 195927,
       "word": "一人表演五人丢脸",
       "onboard_time": 1673371998,
       "rank": 31,
@@ -3179,6 +3283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 253643,
+      "num": 197117,
+      "word": "金球奖红毯",
+      "onboard_time": 1673400325,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252185,
       "num": 145716,
       "word": "王鹤棣不爱吃猕猴桃",
@@ -3313,6 +3425,14 @@
       "onboard_time": 1673343750,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243846,
+      "num": 243846,
+      "word": "蒙冤29年谭修义申请1700万国家赔偿",
+      "onboard_time": 1673398110,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243504,
@@ -4139,6 +4259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184369,
+      "num": 184369,
+      "word": "电锯人",
+      "onboard_time": 1673393362,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 183881,
       "num": 183881,
       "word": "凌晨四点的春运高铁站",
@@ -4507,6 +4635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161175,
+      "num": 161175,
+      "word": "本世纪有4次早春节",
+      "onboard_time": 1673399069,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160836,
       "num": 160836,
       "word": "研究表明志向远大可降低死亡风险",
@@ -4675,6 +4811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148273,
+      "num": 148273,
+      "word": "男子疑吃红烧肉挑出多条猪肉绦虫",
+      "onboard_time": 1673385431,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148152,
       "num": 148152,
       "word": "俄拟立法允许盗版好莱坞大片合法上映",
@@ -4795,14 +4939,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 139203,
-      "num": 106975,
-      "word": "彭昱畅说何炅黄磊不会吵架除非在点自己",
-      "onboard_time": 1673393301,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138966,
       "num": 138966,
       "word": "Duke担任NIP教练",
@@ -4827,12 +4963,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 137695,
-      "num": 137695,
-      "word": "男子疑吃红烧肉挑出多条猪肉绦虫",
-      "onboard_time": 1673385431,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 137546,
+      "num": 137546,
+      "word": "谢之遥温暖了云苗村",
+      "onboard_time": 1673397449,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 136943,
@@ -4913,6 +5049,14 @@
       "onboard_time": 1673237309,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129490,
+      "num": 129490,
+      "word": "北京楼市销量回暖",
+      "onboard_time": 1673400448,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 129027,
@@ -5009,6 +5153,14 @@
       "onboard_time": 1673322148,
       "rank": 45,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 122134,
+      "num": 122134,
+      "word": "新年第一场冷空气发货",
+      "onboard_time": 1673400508,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121745,
@@ -5209,6 +5361,14 @@
       "onboard_time": 1673393422,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 107715,
+      "num": 107715,
+      "word": "微信回应切断抖音外链",
+      "onboard_time": 1673400928,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 107175,
@@ -5569,14 +5729,6 @@
       "onboard_time": 1673246248,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59958,
-      "num": 59958,
-      "word": "电锯人",
-      "onboard_time": 1673393362,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 58551,
