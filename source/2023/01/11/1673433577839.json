@@ -1,0 +1,410 @@
+{
+  "runTime": 1673433577839,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1275301,
+        "num": 1275301,
+        "word": "军队文职",
+        "onboard_time": 1673427151,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1176002,
+        "num": 1176002,
+        "word": "赵丽颖哽咽致敬三农人物张桂梅",
+        "onboard_time": 1673429134,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105164,
+        "num": 1000570,
+        "word": "春运天气指南请收好",
+        "onboard_time": 1673428592,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966517,
+        "num": 966517,
+        "word": "王源五年前救助的三胞胎现状",
+        "onboard_time": 1673430990,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 960834,
+        "num": 960834,
+        "word": "女子写错外卖地址男孩误吃鸡爪面包",
+        "onboard_time": 1673419169,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804416,
+        "num": 804416,
+        "word": "王一博黑纱造型",
+        "onboard_time": 1673431049,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 702067,
+        "num": 702067,
+        "word": "泰国调整入境政策",
+        "onboard_time": 1673423250,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576603,
+        "num": 576603,
+        "word": "丈夫晒自己与妻子的证书差距",
+        "onboard_time": 1673429491,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555101,
+        "num": 555101,
+        "word": "三亚和泰国旅游卷起来了",
+        "onboard_time": 1673426253,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 537379,
+        "num": 537379,
+        "word": "女子在婆家公司无薪工作索赔37万",
+        "onboard_time": 1673426672,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2822174,
+        "num": 536128,
+        "word": "正佳",
+        "onboard_time": 1673432791,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 690693,
+        "num": 533164,
+        "word": "陈坤刘亦菲金粉世家韩国播出预告",
+        "onboard_time": 1673433272,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 657924,
+        "num": 531281,
+        "word": "一家4口三亚溺水全部遇难",
+        "onboard_time": 1673409571,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613161,
+        "num": 529603,
+        "word": "顾南亭程霄街头吻",
+        "onboard_time": 1673431531,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79988,
+        "num": 528096,
+        "word": "儿童患新冠或流感怎么办",
+        "onboard_time": 1673431232,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526637,
+        "num": 526637,
+        "word": "顾南亭给程霄买了一屋子花",
+        "onboard_time": 1673429552,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455823,
+        "num": 455823,
+        "word": "女子患癌去世前给女儿买整柜衣服",
+        "onboard_time": 1673422049,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423312,
+        "num": 423312,
+        "word": "Doinb选手认证被取消",
+        "onboard_time": 1673426012,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 397963,
+        "num": 397963,
+        "word": "年轻人结婚该不该要彩礼",
+        "onboard_time": 1673430211,
+        "rank": 18,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 380218,
+        "num": 380218,
+        "word": "RNG官宣Angel加入",
+        "onboard_time": 1673431531,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 455481,
+        "num": 376852,
+        "word": "杨幂在演一种很新的白狐",
+        "onboard_time": 1673423911,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430021,
+        "num": 372407,
+        "word": "张元英将离开音银",
+        "onboard_time": 1673427271,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336430,
+        "num": 336430,
+        "word": "许红豆谢之遥暧昧期太甜了",
+        "onboard_time": 1673431891,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250543,
+        "num": 250543,
+        "word": "你是懂解决电视乱收费的",
+        "onboard_time": 1673430570,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247455,
+        "num": 247455,
+        "word": "短发新娘不穿婚纱被误认成伴郎",
+        "onboard_time": 1673413772,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241787,
+        "num": 241787,
+        "word": "为什么彩礼习俗流传至今",
+        "onboard_time": 1673421929,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234279,
+        "num": 234279,
+        "word": "LPL把中国风穿在身上",
+        "onboard_time": 1673431650,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224642,
+        "num": 224642,
+        "word": "网购60支冰淇淋到货发现用30箱装",
+        "onboard_time": 1673414550,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220683,
+        "num": 220683,
+        "word": "GALA与RNG续约",
+        "onboard_time": 1673430990,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209933,
+        "num": 209933,
+        "word": "外交部回应日本抗议暂停审发赴华签证",
+        "onboard_time": 1673427453,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312815,
+        "num": 209731,
+        "word": "王鹤棣祝绪丹遇龙泰国定档",
+        "onboard_time": 1673429971,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273216,
+        "num": 209656,
+        "word": "张若昀大侦探8银发造型",
+        "onboard_time": 1673421330,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270532,
+        "num": 209318,
+        "word": "横店演员夸刘耀文敬业",
+        "onboard_time": 1673428712,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249523,
+        "num": 209122,
+        "word": "藤萝为枝",
+        "onboard_time": 1673411613,
+        "rank": 33,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 209090,
+        "num": 209090,
+        "word": "劝老百姓买房专家任多家房企高管",
+        "onboard_time": 1673418628,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249093,
+        "num": 207789,
+        "word": "虞书欣不冷吗",
+        "onboard_time": 1673419409,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198476,
+        "num": 198476,
+        "word": "五年后电视机的样子",
+        "onboard_time": 1673419468,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183803,
+        "num": 183803,
+        "word": "马龙4比2户上隼辅",
+        "onboard_time": 1673428230,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171274,
+        "num": 171274,
+        "word": "小狗也很想妈妈吧",
+        "onboard_time": 1673428053,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167624,
+        "num": 167624,
+        "word": "公司取消年终奖请员工去新疆聚餐",
+        "onboard_time": 1673433331,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222472,
+        "num": 165192,
+        "word": "张馨予发文喊话黑子",
+        "onboard_time": 1673427512,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211388,
+        "num": 164289,
+        "word": "吴磊赵露思星汉灿烂豆瓣评分人数超50万",
+        "onboard_time": 1673426551,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159723,
+        "num": 159723,
+        "word": "预计今年将有500万中国游客赴泰旅游",
+        "onboard_time": 1673432970,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157606,
+        "num": 157606,
+        "word": "鹅鸭杀否认被腾讯收购",
+        "onboard_time": 1673432732,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154380,
+        "num": 154380,
+        "word": "这小狗怎么咩里咩气的",
+        "onboard_time": 1673430093,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152483,
+        "num": 152483,
+        "word": "台媒称东部战区MV中出现台康定级军舰",
+        "onboard_time": 1673425534,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 151866,
+        "num": 151866,
+        "word": "狼人杀",
+        "onboard_time": 1673423790,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145669,
+        "num": 145669,
+        "word": "FPX澄清冠军皮肤分成",
+        "onboard_time": 1673426613,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142594,
+        "num": 142594,
+        "word": "三亚溺水海域曾发生溺亡事件",
+        "onboard_time": 1673432489,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142171,
+        "num": 142171,
+        "word": "过年你会给你父母红包吗",
+        "onboard_time": 1673432251,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#永远吹冲锋号#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673432645301,
+  "endTime": 1673433577839,
   "band_list": [
     {
       "raw_hot": 11081869,
@@ -225,6 +225,14 @@
       "onboard_time": 1672495925,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2822174,
+      "num": 536128,
+      "word": "正佳",
+      "onboard_time": 1673432791,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2812133,
@@ -2099,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1176002,
+      "num": 1176002,
+      "word": "赵丽颖哽咽致敬三农人物张桂梅",
+      "onboard_time": 1673429134,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1172670,
       "num": 1172670,
       "word": "血氧仪对农村意味着什么",
@@ -2803,14 +2819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1001834,
-      "num": 1001834,
-      "word": "赵丽颖哽咽致敬三农人物张桂梅",
-      "onboard_time": 1673429134,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 997240,
       "num": 997240,
       "word": "转阴后多吃这三样",
@@ -2936,6 +2944,14 @@
       "word": "杨迪直播",
       "onboard_time": 1672672895,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 966517,
+      "num": 966517,
+      "word": "王源五年前救助的三胞胎现状",
+      "onboard_time": 1673430990,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -3801,14 +3817,6 @@
       "onboard_time": 1672726528,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 841880,
-      "num": 841880,
-      "word": "王源五年前救助的三胞胎现状",
-      "onboard_time": 1673430990,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 839259,
@@ -5099,6 +5107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 690693,
+      "num": 533164,
+      "word": "陈坤刘亦菲金粉世家韩国播出预告",
+      "onboard_time": 1673433272,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 689808,
       "num": 689808,
       "word": "金球奖",
@@ -5979,6 +5995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613161,
+      "num": 529603,
+      "word": "顾南亭程霄街头吻",
+      "onboard_time": 1673431531,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 612199,
       "num": 502313,
       "word": "LESSERAFIM今日金唱片舞台",
@@ -6531,6 +6555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 576603,
+      "num": 576603,
+      "word": "丈夫晒自己与妻子的证书差距",
+      "onboard_time": 1673429491,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574494,
       "num": 574494,
       "word": "王鹤棣再现你居然家暴我",
@@ -6588,7 +6620,7 @@
     },
     {
       "raw_hot": 570671,
-      "num": 484156,
+      "num": 526637,
       "word": "顾南亭给程霄买了一屋子花",
       "onboard_time": 1673429552,
       "rank": 20,
@@ -6913,14 +6945,6 @@
       "onboard_time": 1673146230,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 556953,
-      "num": 450869,
-      "word": "顾南亭程霄街头吻",
-      "onboard_time": 1673431531,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 556416,
@@ -9195,14 +9219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 439321,
-      "num": 439321,
-      "word": "丈夫晒自己与妻子的证书差距",
-      "onboard_time": 1673429491,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 439121,
       "num": 439121,
       "word": "2023国考公共科目笔试",
@@ -10243,6 +10259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 397963,
+      "num": 397963,
+      "word": "年轻人结婚该不该要彩礼",
+      "onboard_time": 1673430211,
+      "rank": 19,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 397614,
       "num": 207135,
       "word": "BLACKPINK全员互相比身高",
@@ -10825,6 +10849,14 @@
       "onboard_time": 1672747534,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 380218,
+      "num": 380218,
+      "word": "RNG官宣Angel加入",
+      "onboard_time": 1673431531,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 379206,
@@ -11457,14 +11489,6 @@
       "onboard_time": 1673099616,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 360993,
-      "num": 360993,
-      "word": "RNG官宣Angel加入",
-      "onboard_time": 1673431531,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 360786,
@@ -12379,6 +12403,14 @@
       "category": "国外要闻,旅游"
     },
     {
+      "raw_hot": 336430,
+      "num": 336430,
+      "word": "许红豆谢之遥暧昧期太甜了",
+      "onboard_time": 1673431891,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336379,
       "num": 288284,
       "word": "宋亚轩清唱方大同的takeme",
@@ -12603,14 +12635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330893,
-      "num": 330893,
-      "word": "年轻人结婚该不该要彩礼",
-      "onboard_time": 1673430211,
-      "rank": 19,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 330859,
       "num": 170871,
       "word": "陈贝儿再获TVB最佳女主持",
@@ -12689,14 +12713,6 @@
       "onboard_time": 1672582053,
       "rank": 44,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 326638,
-      "num": 326638,
-      "word": "许红豆谢之遥暧昧期太甜了",
-      "onboard_time": 1673431891,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 326321,
@@ -13251,6 +13267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 312815,
+      "num": 218951,
+      "word": "王鹤棣祝绪丹遇龙泰国定档",
+      "onboard_time": 1673429971,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 312696,
       "num": 312696,
       "word": "徐志胜何广智说下届冠军是鸟鸟",
@@ -13393,14 +13417,6 @@
       "onboard_time": 1673154990,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310521,
-      "num": 218951,
-      "word": "王鹤棣祝绪丹遇龙泰国定档",
-      "onboard_time": 1673429971,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 310293,
@@ -16451,6 +16467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250543,
+      "num": 250543,
+      "word": "你是懂解决电视乱收费的",
+      "onboard_time": 1673430570,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250332,
       "num": 202241,
       "word": "鹅鹅鹅 解析",
@@ -16585,14 +16609,6 @@
       "onboard_time": 1673331029,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247611,
-      "num": 247611,
-      "word": "你是懂解决电视乱收费的",
-      "onboard_time": 1673430570,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 247406,
@@ -17337,6 +17353,14 @@
       "onboard_time": 1672642467,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 234279,
+      "num": 234279,
+      "word": "LPL把中国风穿在身上",
+      "onboard_time": 1673431650,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 234150,
@@ -18209,14 +18233,6 @@
       "onboard_time": 1673093670,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 219301,
-      "num": 219301,
-      "word": "LPL把中国风穿在身上",
-      "onboard_time": 1673431650,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 218903,
@@ -21603,6 +21619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167624,
+      "num": 167624,
+      "word": "公司取消年终奖请员工去新疆聚餐",
+      "onboard_time": 1673433331,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167422,
       "num": 104055,
       "word": "浮图缘原著肖铎喜欢兰花",
@@ -22195,6 +22219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159723,
+      "num": 159723,
+      "word": "预计今年将有500万中国游客赴泰旅游",
+      "onboard_time": 1673432970,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159667,
       "num": 159667,
       "word": "辽宁男篮vs吉林男篮",
@@ -22337,6 +22369,14 @@
       "onboard_time": 1673230165,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157606,
+      "num": 157606,
+      "word": "鹅鸭杀否认被腾讯收购",
+      "onboard_time": 1673432732,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 157303,
@@ -26419,6 +26459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79988,
+      "num": 528096,
+      "word": "儿童患新冠或流感怎么办",
+      "onboard_time": 1673431232,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79773,
       "num": 113038,
       "word": "新年金属感美甲",
@@ -26601,14 +26649,6 @@
       "onboard_time": 1673107648,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 63748,
-      "num": 457769,
-      "word": "儿童患新冠或流感怎么办",
-      "onboard_time": 1673431232,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63123,
