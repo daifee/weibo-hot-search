@@ -1,0 +1,410 @@
+{
+  "runTime": 1673447113140,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9587922,
+        "num": 9587922,
+        "word": "广州一宝马冲撞人群已致5死13伤",
+        "onboard_time": 1673436935,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1540269,
+        "num": 1540269,
+        "word": "爱奇艺APP限制投屏",
+        "onboard_time": 1673444678,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 95570,
+        "num": 1500237,
+        "word": "如何科学稳妥地恢复运动",
+        "onboard_time": 1673445578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1479937,
+        "num": 1479937,
+        "word": "韩媒称中国游客在泰国享受国宾待遇",
+        "onboard_time": 1673439336,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 919028,
+        "num": 919028,
+        "word": "网传吴磊周雨彤爱情而已尺度很大",
+        "onboard_time": 1673440475,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 847863,
+        "num": 847863,
+        "word": "公司取消年终奖请员工去新疆聚餐",
+        "onboard_time": 1673433331,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841550,
+        "num": 841550,
+        "word": "小鹿回应拉宏桑被骂",
+        "onboard_time": 1673441980,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 806188,
+        "num": 806188,
+        "word": "李现被刘亦菲搂腰的反应",
+        "onboard_time": 1673434834,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 731818,
+        "num": 731818,
+        "word": "美媒称全美航班均已停飞",
+        "onboard_time": 1673444558,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669103,
+        "num": 669103,
+        "word": "中国游客实拍仁川机场入境流程",
+        "onboard_time": 1673443237,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2023437,
+        "num": 659239,
+        "word": "肇事男子冲撞人群后遍地撒钱",
+        "onboard_time": 1673443301,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 559265,
+        "num": 559265,
+        "word": "长月烬明原著小说疑似被曝抄袭",
+        "onboard_time": 1673441798,
+        "rank": 11,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 526066,
+        "num": 526066,
+        "word": "彭昱畅当面催张若昀庆余年2",
+        "onboard_time": 1673445100,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512981,
+        "num": 512981,
+        "word": "杨幂放烟花游玩照",
+        "onboard_time": 1673441917,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475347,
+        "num": 475347,
+        "word": "你还拥有朋友圈自由吗",
+        "onboard_time": 1673441980,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 449781,
+        "num": 449781,
+        "word": "男朋友第一次见女方家长气氛嗨爆",
+        "onboard_time": 1673440599,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 431642,
+        "num": 431642,
+        "word": "广州一小车碰撞行人司机已被控制",
+        "onboard_time": 1673439099,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425546,
+        "num": 425546,
+        "word": "时代少年团北京春晚录制花絮",
+        "onboard_time": 1673446717,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285345,
+        "num": 285345,
+        "word": "TheShy提莫",
+        "onboard_time": 1673440899,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 279398,
+        "num": 279398,
+        "word": "广东红包惹哭多少小孩子",
+        "onboard_time": 1673441077,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1846308,
+        "num": 278466,
+        "word": "广州5死13伤交通事故目击者发声",
+        "onboard_time": 1673441197,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 372452,
+        "num": 277020,
+        "word": "陈小春捕到30斤鱼王",
+        "onboard_time": 1673442760,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364146,
+        "num": 275872,
+        "word": "人民文娱评中国奇谭",
+        "onboard_time": 1673443116,
+        "rank": 22,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 338025,
+        "num": 272768,
+        "word": "被4部剧虐麻了找1个地方疗伤",
+        "onboard_time": 1673443418,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272437,
+        "num": 272437,
+        "word": "江西婚介谈彩礼有多高",
+        "onboard_time": 1673437958,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 318540,
+        "num": 270637,
+        "word": "韩国虚拟女团MAVE即将出道",
+        "onboard_time": 1673443900,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268497,
+        "num": 268497,
+        "word": "伊利客服回应30支冰淇淋分30箱发货",
+        "onboard_time": 1673437297,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241894,
+        "num": 241894,
+        "word": "国乒拿到世乒赛满额席位",
+        "onboard_time": 1673445999,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240645,
+        "num": 240645,
+        "word": "男子每次喝完酒都叫爸爸代驾",
+        "onboard_time": 1673445519,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237455,
+        "num": 237455,
+        "word": "毁容式护肤",
+        "onboard_time": 1673439817,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 326427,
+        "num": 236524,
+        "word": "华晨宇新专辑银发造型",
+        "onboard_time": 1673446960,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285549,
+        "num": 230731,
+        "word": "王一博黑纱造型",
+        "onboard_time": 1673431049,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259434,
+        "num": 227747,
+        "word": "杨迪妈妈织围巾织成狗衣服",
+        "onboard_time": 1673446235,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224665,
+        "num": 224665,
+        "word": "泰国调整入境政策",
+        "onboard_time": 1673423250,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218882,
+        "num": 218882,
+        "word": "情侣同居应该告知父母吗",
+        "onboard_time": 1673435133,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215040,
+        "num": 215040,
+        "word": "军队文职",
+        "onboard_time": 1673427151,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190605,
+        "num": 190605,
+        "word": "一天吃两顿火锅是啥体验",
+        "onboard_time": 1673439817,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190371,
+        "num": 190371,
+        "word": "ming去哪了",
+        "onboard_time": 1673436454,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184189,
+        "num": 184189,
+        "word": "女子患癌去世前给女儿买整柜衣服",
+        "onboard_time": 1673422049,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172598,
+        "num": 172598,
+        "word": "预计今年将有500万中国游客赴泰旅游",
+        "onboard_time": 1673432970,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246489,
+        "num": 170069,
+        "word": "赵丽颖哽咽致敬三农人物张桂梅",
+        "onboard_time": 1673429134,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243211,
+        "num": 168734,
+        "word": "王源五年前救助的三胞胎现状",
+        "onboard_time": 1673430990,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164777,
+        "num": 164777,
+        "word": "你会为投屏买高级视频会员吗",
+        "onboard_time": 1673447077,
+        "rank": 42,
+        "category": "社会议题,科技"
+      },
+      {
+        "raw_hot": 164080,
+        "num": 164080,
+        "word": "江西萍乡曾提倡彩礼不超3万",
+        "onboard_time": 1673433693,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154733,
+        "num": 154733,
+        "word": "三亚和泰国旅游卷起来了",
+        "onboard_time": 1673426253,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 154322,
+        "num": 154322,
+        "word": "女子写错外卖地址男孩误吃鸡爪面包",
+        "onboard_time": 1673419169,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154135,
+        "num": 154135,
+        "word": "一言不合就锤人的小猫",
+        "onboard_time": 1673442456,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 147768,
+        "num": 147768,
+        "word": "泰国欢迎中国朋友来旅游",
+        "onboard_time": 1673445398,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 147718,
+        "num": 147718,
+        "word": "男子分手赌气离家20年后骑摩托回家",
+        "onboard_time": 1673434533,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143405,
+        "num": 143405,
+        "word": "找到了适合社恐的职业",
+        "onboard_time": 1673446119,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#永远吹冲锋号#"
+    }
+  }
+}
