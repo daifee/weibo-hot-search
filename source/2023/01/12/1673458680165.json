@@ -1,0 +1,410 @@
+{
+  "runTime": 1673458680165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 978904,
+        "num": 978904,
+        "word": "广州一小车碰撞行人司机已被控制",
+        "onboard_time": 1673439099,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534912,
+        "num": 534912,
+        "word": "爱奇艺APP限制投屏",
+        "onboard_time": 1673444678,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 29380,
+        "num": 493782,
+        "word": "如何科学稳妥地恢复运动",
+        "onboard_time": 1673445578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482908,
+        "num": 482908,
+        "word": "韩媒称中国游客在泰国享受国宾待遇",
+        "onboard_time": 1673439336,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 287295,
+        "num": 287295,
+        "word": "出现这6个症状警惕心肌炎",
+        "onboard_time": 1673453488,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283511,
+        "num": 283511,
+        "word": "恋爱中的分寸感有多重要",
+        "onboard_time": 1673451397,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282234,
+        "num": 282234,
+        "word": "小鹿回应拉宏桑被骂",
+        "onboard_time": 1673441980,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277128,
+        "num": 277128,
+        "word": "美媒称全美航班均已停飞",
+        "onboard_time": 1673444558,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261494,
+        "num": 261494,
+        "word": "高价彩礼是否违法",
+        "onboard_time": 1673453968,
+        "rank": 8,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 241212,
+        "num": 241212,
+        "word": "公司取消年终奖请员工去新疆聚餐",
+        "onboard_time": 1673433331,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1362795,
+        "num": 238414,
+        "word": "广州一宝马冲撞人群已致5死13伤",
+        "onboard_time": 1673436935,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230003,
+        "num": 230003,
+        "word": "中国游客回应赴韩后曾逃避隔离",
+        "onboard_time": 1673452951,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210490,
+        "num": 210490,
+        "word": "水果姐大赞蔡依林造型",
+        "onboard_time": 1673451334,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209004,
+        "num": 209004,
+        "word": "网传吴磊周雨彤爱情而已尺度很大",
+        "onboard_time": 1673440475,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186108,
+        "num": 186108,
+        "word": "张若昀面试庆余年在offer楼上",
+        "onboard_time": 1673453249,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159365,
+        "num": 159365,
+        "word": "中国游客实拍仁川机场入境流程",
+        "onboard_time": 1673443237,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153428,
+        "num": 153428,
+        "word": "人民文娱评中国奇谭",
+        "onboard_time": 1673443116,
+        "rank": 16,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 134374,
+        "num": 134374,
+        "word": "你还拥有朋友圈自由吗",
+        "onboard_time": 1673441980,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127657,
+        "num": 127657,
+        "word": "沈腾易烊千玺满江红试映repo",
+        "onboard_time": 1673452171,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118553,
+        "num": 118553,
+        "word": "哈尔滨的企鹅真的满街跑",
+        "onboard_time": 1673455045,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115668,
+        "num": 115668,
+        "word": "广东红包惹哭多少小孩子",
+        "onboard_time": 1673441077,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113100,
+        "num": 113100,
+        "word": "龚俊包揽央卫非黄金时段收视率冠亚",
+        "onboard_time": 1673450675,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109061,
+        "num": 109061,
+        "word": "杨幂放烟花游玩照",
+        "onboard_time": 1673441917,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104278,
+        "num": 104278,
+        "word": "找到了比钱包还干净的东西",
+        "onboard_time": 1673451872,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98345,
+        "num": 98345,
+        "word": "去有风的地方演网文作者现状",
+        "onboard_time": 1673454268,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89866,
+        "num": 89866,
+        "word": "妈妈才是最好的心理医生",
+        "onboard_time": 1673450853,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88885,
+        "num": 88885,
+        "word": "找到了适合社恐的职业",
+        "onboard_time": 1673446119,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 83062,
+        "num": 83062,
+        "word": "情侣同居应该告知父母吗",
+        "onboard_time": 1673435133,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81351,
+        "num": 81351,
+        "word": "男朋友第一次见女方家长气氛嗨爆",
+        "onboard_time": 1673440599,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77579,
+        "num": 77579,
+        "word": "ming去哪了",
+        "onboard_time": 1673436454,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118221,
+        "num": 77363,
+        "word": "小狗被抱养一个月狗妈妈突然出现",
+        "onboard_time": 1673455823,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86146,
+        "num": 77049,
+        "word": "在成员多的组合里能唱多少词",
+        "onboard_time": 1673449836,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 84171,
+        "num": 76884,
+        "word": "王源五年前救助的三胞胎现状",
+        "onboard_time": 1673430990,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75544,
+        "num": 76619,
+        "word": "居然有如此配合的猫咪",
+        "onboard_time": 1673452894,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76497,
+        "num": 76497,
+        "word": "陈钰琪说浮图缘结局意想不到",
+        "onboard_time": 1673448999,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75885,
+        "num": 75885,
+        "word": "伊利客服回应30支冰淇淋分30箱发货",
+        "onboard_time": 1673437297,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73652,
+        "num": 73652,
+        "word": "男子分手赌气离家20年后骑摩托回家",
+        "onboard_time": 1673434533,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68326,
+        "num": 68326,
+        "word": "南方人都是这样吃甘蔗的吗",
+        "onboard_time": 1673456243,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65555,
+        "num": 65555,
+        "word": "江西萍乡曾提倡彩礼不超3万",
+        "onboard_time": 1673433693,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64658,
+        "num": 64658,
+        "word": "军队文职",
+        "onboard_time": 1673427151,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60995,
+        "num": 60995,
+        "word": "赵丽颖哽咽致敬三农人物张桂梅",
+        "onboard_time": 1673429134,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59131,
+        "num": 59131,
+        "word": "毁容式护肤",
+        "onboard_time": 1673439817,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 57695,
+        "num": 57695,
+        "word": "张雪迎邢昭林新剧cp感",
+        "onboard_time": 1673454028,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56785,
+        "num": 56785,
+        "word": "手机厂商吹的牛都实现了吗",
+        "onboard_time": 1673457080,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 56238,
+        "num": 56238,
+        "word": "男子每次喝完酒都叫爸爸代驾",
+        "onboard_time": 1673445519,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53976,
+        "num": 53976,
+        "word": "法国足协主席宣布辞职",
+        "onboard_time": 1673448036,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53909,
+        "num": 53909,
+        "word": "全美航班停飞原因曝光",
+        "onboard_time": 1673456602,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169154,
+        "num": 52777,
+        "word": "李现被刘亦菲搂腰的反应",
+        "onboard_time": 1673434834,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50847,
+        "num": 50847,
+        "word": "预计今年将有500万中国游客赴泰旅游",
+        "onboard_time": 1673432970,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40448,
+        "num": 49949,
+        "word": "被人类幼崽的微笑治愈到了",
+        "onboard_time": 1673451036,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#永远吹冲锋号#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673457746719,
+  "endTime": 1673458680165,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -4307,6 +4307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287295,
+      "num": 287295,
+      "word": "出现这6个症状警惕心肌炎",
+      "onboard_time": 1673453488,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287075,
       "num": 227675,
       "word": "去有风的地方剧组安排了技能培训",
@@ -4673,6 +4681,14 @@
       "onboard_time": 1673353410,
       "rank": 32,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 261494,
+      "num": 261494,
+      "word": "高价彩礼是否违法",
+      "onboard_time": 1673453968,
+      "rank": 38,
+      "category": "社会议题"
     },
     {
       "raw_hot": 261396,
@@ -5169,14 +5185,6 @@
       "onboard_time": 1673275893,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229077,
-      "num": 229077,
-      "word": "高价彩礼是否违法",
-      "onboard_time": 1673453968,
-      "rank": 38,
-      "category": "社会议题"
     },
     {
       "raw_hot": 228719,
@@ -5857,14 +5865,6 @@
       "onboard_time": 1673415690,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192306,
-      "num": 192306,
-      "word": "出现这6个症状警惕心肌炎",
-      "onboard_time": 1673453488,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192243,
@@ -7228,7 +7228,7 @@
     },
     {
       "raw_hot": 127418,
-      "num": 69196,
+      "num": 77363,
       "word": "小狗被抱养一个月狗妈妈突然出现",
       "onboard_time": 1673455823,
       "rank": 45,
@@ -8011,20 +8011,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 56785,
+      "num": 56785,
+      "word": "手机厂商吹的牛都实现了吗",
+      "onboard_time": 1673457080,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 49068,
       "num": 49068,
       "word": "杨玏说出了作为子女的心里话",
       "onboard_time": 1673209333,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 42195,
-      "num": 49788,
-      "word": "手机厂商吹的牛都实现了吗",
-      "onboard_time": 1673457080,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 38260,

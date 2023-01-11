@@ -1,6 +1,6 @@
 {
   "startTime": 1673454894759,
-  "endTime": 1673457746719,
+  "endTime": 1673458680165,
   "band_list": [
     {
       "raw_hot": 5148320,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 978904,
+      "num": 978904,
+      "word": "广州一小车碰撞行人司机已被控制",
+      "onboard_time": 1673439099,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 966522,
       "num": 966522,
       "word": "爱奇艺APP限制投屏",
       "onboard_time": 1673444678,
       "rank": 1,
       "category": "科技"
-    },
-    {
-      "raw_hot": 774186,
-      "num": 774186,
-      "word": "广州一小车碰撞行人司机已被控制",
-      "onboard_time": 1673439099,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 759972,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287295,
+      "num": 287295,
+      "word": "出现这6个症状警惕心肌炎",
+      "onboard_time": 1673453488,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277458,
       "num": 217421,
       "word": "张若昀面试庆余年在offer楼上",
@@ -129,6 +137,14 @@
       "onboard_time": 1673449836,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 261494,
+      "num": 261494,
+      "word": "高价彩礼是否违法",
+      "onboard_time": 1673453968,
+      "rank": 38,
+      "category": "社会议题"
     },
     {
       "raw_hot": 260424,
@@ -155,14 +171,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 229077,
-      "num": 229077,
-      "word": "高价彩礼是否违法",
-      "onboard_time": 1673453968,
-      "rank": 38,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 197392,
       "num": 197392,
       "word": "找到了比钱包还干净的东西",
@@ -177,14 +185,6 @@
       "onboard_time": 1673456003,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192306,
-      "num": 192306,
-      "word": "出现这6个症状警惕心肌炎",
-      "onboard_time": 1673453488,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180554,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 127418,
-      "num": 69196,
+      "num": 77363,
       "word": "小狗被抱养一个月狗妈妈突然出现",
       "onboard_time": 1673455823,
       "rank": 45,
@@ -443,20 +443,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60995,
+      "num": 60995,
+      "word": "赵丽颖哽咽致敬三农人物张桂梅",
+      "onboard_time": 1673429134,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 56785,
+      "num": 56785,
+      "word": "手机厂商吹的牛都实现了吗",
+      "onboard_time": 1673457080,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 55088,
       "num": 786761,
       "word": "如何科学稳妥地恢复运动",
       "onboard_time": 1673445578,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42195,
-      "num": 49788,
-      "word": "手机厂商吹的牛都实现了吗",
-      "onboard_time": 1673457080,
-      "rank": 39,
-      "category": "科技"
     }
   ],
   "hotgov_list": [
