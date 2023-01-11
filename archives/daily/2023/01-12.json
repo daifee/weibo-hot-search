@@ -1,6 +1,6 @@
 {
   "startTime": 1673454894759,
-  "endTime": 1673465633758,
+  "endTime": 1673468410342,
   "band_list": [
     {
       "raw_hot": 5148320,
@@ -483,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59446,
+      "num": 56250,
+      "word": "新冠口服药莫诺拉韦预计本周五国内上市",
+      "onboard_time": 1673466552,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56785,
       "num": 56785,
       "word": "手机厂商吹的牛都实现了吗",
@@ -499,8 +507,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43015,
-      "num": 43015,
+      "raw_hot": 49593,
+      "num": 49593,
       "word": "孟美岐我心飞扬",
       "onboard_time": 1673463314,
       "rank": 25,
@@ -521,6 +529,14 @@
       "onboard_time": 1673440899,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 17626,
+      "num": 17626,
+      "word": "地铁上女孩帮陌生大叔抢火车票",
+      "onboard_time": 1673466912,
+      "rank": 43,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
