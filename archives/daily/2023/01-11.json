@@ -1,6 +1,6 @@
 {
   "startTime": 1673368158524,
-  "endTime": 1673435768640,
+  "endTime": 1673436842382,
   "band_list": [
     {
       "raw_hot": 5149861,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2366089,
+      "num": 2366089,
+      "word": "公司取消年终奖请员工去新疆聚餐",
+      "onboard_time": 1673433331,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1955953,
       "num": 1955953,
       "word": "权志龙姐姐开北京首店",
       "onboard_time": 1673407469,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1894690,
-      "num": 1894690,
-      "word": "公司取消年终奖请员工去新疆聚餐",
-      "onboard_time": 1673433331,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1803064,
@@ -499,6 +499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 567271,
+      "num": 567271,
+      "word": "情侣同居应该告知父母吗",
+      "onboard_time": 1673435133,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 566837,
       "num": 566837,
       "word": "吴磊赵露思星汉灿烂豆瓣评分人数超50万",
@@ -563,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 535543,
+      "num": 535543,
+      "word": "江西萍乡曾提倡彩礼不超3万",
+      "onboard_time": 1673433693,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534367,
       "num": 534367,
       "word": "程耳对王一博说咱俩吃饭去得了",
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 494751,
-      "num": 436542,
+      "num": 463728,
       "word": "网传大宋少年志2结局全员be",
       "onboard_time": 1673435073,
       "rank": 14,
@@ -713,6 +729,14 @@
       "onboard_time": 1673419468,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 437721,
+      "num": 437721,
+      "word": "男子分手赌气离家20年后骑摩托回家",
+      "onboard_time": 1673434533,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433873,
@@ -843,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385120,
+      "num": 385120,
+      "word": "鹅鸭杀否认被腾讯收购",
+      "onboard_time": 1673432732,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 383968,
       "num": 383968,
       "word": "国产芯片有望通过先进封装突围",
@@ -856,14 +888,6 @@
       "word": "RNG官宣Angel加入",
       "onboard_time": 1673431531,
       "rank": 18,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 378749,
-      "num": 378749,
-      "word": "鹅鸭杀否认被腾讯收购",
-      "onboard_time": 1673432732,
-      "rank": 43,
       "category": "游戏"
     },
     {
@@ -931,6 +955,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 361614,
+      "num": 361614,
+      "word": "预计今年将有500万中国游客赴泰旅游",
+      "onboard_time": 1673432970,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360048,
       "num": 324278,
       "word": "王鹤棣品牌",
@@ -939,20 +971,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 359815,
-      "num": 359815,
-      "word": "江西萍乡曾提倡彩礼不超3万",
-      "onboard_time": 1673433693,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 358805,
       "num": 358805,
       "word": "猫猫的尿怎么可以这么大泡",
       "onboard_time": 1673361753,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 358685,
+      "num": 358685,
+      "word": "罗渽民韩版嘉人二月号封面",
+      "onboard_time": 1673435974,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 353488,
@@ -1067,14 +1099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 329268,
-      "num": 329268,
-      "word": "预计今年将有500万中国游客赴泰旅游",
-      "onboard_time": 1673432970,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 327187,
       "num": 327187,
       "word": "被老年人的手机酷到了",
@@ -1119,6 +1143,14 @@
       "num": 319202,
       "word": "半瘫痪女孩居家打3份工月入过万",
       "onboard_time": 1673371879,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318528,
+      "num": 318528,
+      "word": "三亚溺水海域曾发生溺亡事件",
+      "onboard_time": 1673432489,
       "rank": 48,
       "category": "社会新闻"
     },
@@ -1275,14 +1307,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 285483,
-      "num": 285483,
-      "word": "男子分手赌气离家20年后骑摩托回家",
-      "onboard_time": 1673434533,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279887,
       "num": 225803,
       "word": "顾南亭也有被拒绝的一天",
@@ -1321,14 +1345,6 @@
       "onboard_time": 1673400325,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 275657,
-      "num": 275657,
-      "word": "三亚溺水海域曾发生溺亡事件",
-      "onboard_time": 1673432489,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275123,
@@ -1627,14 +1643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 209393,
-      "num": 209393,
-      "word": "情侣同居应该告知父母吗",
-      "onboard_time": 1673435133,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207427,
       "num": 207427,
       "word": "15岁男孩救火母亲大喊你快回来",
@@ -1673,6 +1681,14 @@
       "onboard_time": 1673388615,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204119,
+      "num": 204119,
+      "word": "ming去哪了",
+      "onboard_time": 1673436454,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 203593,
@@ -1753,6 +1769,14 @@
       "onboard_time": 1673421806,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 188005,
+      "num": 188005,
+      "word": "13岁编程少年3年获奖45个",
+      "onboard_time": 1673435014,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187021,
@@ -1995,14 +2019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144590,
-      "num": 144590,
-      "word": "13岁编程少年3年获奖45个",
-      "onboard_time": 1673435014,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139954,
       "num": 139954,
       "word": "eStar 运营",
@@ -2049,6 +2065,14 @@
       "onboard_time": 1673409510,
       "rank": 46,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 124273,
+      "num": 124273,
+      "word": "LOL季前启航赛",
+      "onboard_time": 1673435853,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 124005,
@@ -2121,6 +2145,14 @@
       "onboard_time": 1673435311,
       "rank": 49,
       "category": "体育,情感"
+    },
+    {
+      "raw_hot": 115022,
+      "num": 115022,
+      "word": "浙江队晋级足协杯决赛",
+      "onboard_time": 1673436334,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 113209,
