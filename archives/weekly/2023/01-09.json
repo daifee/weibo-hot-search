@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673443699438,
+  "endTime": 1673444449172,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2022277,
+      "num": 411613,
+      "word": "广州5死13伤交通事故目击者发声",
+      "onboard_time": 1673441197,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1971123,
       "num": 1971123,
       "word": "4游客在三亚溺水3人死亡1人失联",
@@ -177,14 +185,6 @@
       "onboard_time": 1673407469,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1923917,
-      "num": 399671,
-      "word": "广州5死13伤交通事故目击者发声",
-      "onboard_time": 1673441197,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1920839,
@@ -547,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1184822,
+      "num": 1184822,
+      "word": "小鹿回应拉宏桑被骂",
+      "onboard_time": 1673441980,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1181730,
       "num": 1164234,
       "word": "瞒报行程被判4年司机发声",
@@ -627,14 +635,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1097453,
-      "num": 1097453,
-      "word": "小鹿回应拉宏桑被骂",
-      "onboard_time": 1673441980,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1076349,
       "num": 1076349,
       "word": "你介意对象谈过很久的前任吗",
@@ -683,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1031212,
+      "num": 1031212,
+      "word": "网传吴磊周雨彤爱情而已尺度很大",
+      "onboard_time": 1673440475,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1029029,
       "num": 1029029,
       "word": "男子疑因庇护小三当街暴打妻儿",
@@ -720,14 +728,6 @@
       "word": "开年第一部烂尾剧",
       "onboard_time": 1673307441,
       "rank": 1,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1008825,
-      "num": 1008825,
-      "word": "网传吴磊周雨彤爱情而已尺度很大",
-      "onboard_time": 1673440475,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -1308,7 +1308,7 @@
     },
     {
       "raw_hot": 736943,
-      "num": 362287,
+      "num": 391181,
       "word": "杨幂放烟花游玩照",
       "onboard_time": 1673441917,
       "rank": 11,
@@ -1691,12 +1691,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 578442,
+      "num": 330581,
+      "word": "肇事男子冲撞人群后遍地撒钱",
+      "onboard_time": 1673443301,
+      "rank": 44,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 576603,
       "num": 576603,
       "word": "丈夫晒自己与妻子的证书差距",
       "onboard_time": 1673429491,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572630,
+      "num": 572630,
+      "word": "男朋友第一次见女方家长气氛嗨爆",
+      "onboard_time": 1673440599,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 572293,
@@ -2067,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506704,
+      "num": 368432,
+      "word": "陈小春捕到30斤鱼王",
+      "onboard_time": 1673442760,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 505618,
       "num": 445873,
       "word": "严浩翔新发色对镜自拍",
@@ -2249,6 +2273,14 @@
       "onboard_time": 1673319328,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 480437,
+      "num": 480437,
+      "word": "长月烬明原著小说疑似被曝抄袭",
+      "onboard_time": 1673441798,
+      "rank": 15,
+      "category": "其它"
     },
     {
       "raw_hot": 478862,
@@ -2787,14 +2819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 401661,
-      "num": 401661,
-      "word": "男朋友第一次见女方家长气氛嗨爆",
-      "onboard_time": 1673440599,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 398207,
       "num": 362121,
       "word": "顾南亭放弃与程霄飞首航",
@@ -3155,14 +3179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 361668,
-      "num": 361668,
-      "word": "长月烬明原著小说疑似被曝抄袭",
-      "onboard_time": 1673441798,
-      "rank": 15,
-      "category": "其它"
-    },
-    {
       "raw_hot": 361614,
       "num": 361614,
       "word": "预计今年将有500万中国游客赴泰旅游",
@@ -3289,6 +3305,14 @@
       "onboard_time": 1673434411,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 348876,
+      "num": 348876,
+      "word": "TheShy提莫",
+      "onboard_time": 1673440899,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 348591,
@@ -3467,6 +3491,14 @@
       "category": "国外要闻,旅游"
     },
     {
+      "raw_hot": 336531,
+      "num": 286434,
+      "word": "被4部剧虐麻了找1个地方疗伤",
+      "onboard_time": 1673443418,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336430,
       "num": 336430,
       "word": "许红豆谢之遥暧昧期太甜了",
@@ -3585,14 +3617,6 @@
       "onboard_time": 1673271571,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325146,
-      "num": 325146,
-      "word": "TheShy提莫",
-      "onboard_time": 1673440899,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 324687,
@@ -3779,6 +3803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312021,
+      "num": 312021,
+      "word": "你还拥有朋友圈自由吗",
+      "onboard_time": 1673441980,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311870,
       "num": 311870,
       "word": "大侦探8春暖花开如约而至",
@@ -3825,14 +3857,6 @@
       "onboard_time": 1673404107,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 307501,
-      "num": 250006,
-      "word": "陈小春捕到30斤鱼王",
-      "onboard_time": 1673442760,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 306794,
@@ -3955,6 +3979,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 299992,
+      "num": 243482,
+      "word": "人民文娱评中国奇谭",
+      "onboard_time": 1673443116,
+      "rank": 33,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 299805,
       "num": 299805,
       "word": "张雪迎说小女沈妙今日大婚",
@@ -4057,6 +4089,14 @@
       "onboard_time": 1673270611,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291341,
+      "num": 219081,
+      "word": "韩国虚拟女团MAVE即将出道",
+      "onboard_time": 1673443900,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 291327,
@@ -4171,6 +4211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 282516,
+      "num": 217954,
+      "word": "文韬名学徽章榜第一",
+      "onboard_time": 1673443716,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282348,
       "num": 123109,
       "word": "谢之遥勇敢追爱",
@@ -4219,8 +4267,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280511,
-      "num": 280511,
+      "raw_hot": 280618,
+      "num": 280618,
       "word": "广东红包惹哭多少小孩子",
       "onboard_time": 1673441077,
       "rank": 43,
@@ -4361,14 +4409,6 @@
       "onboard_time": 1673357675,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268891,
-      "num": 268891,
-      "word": "你还拥有朋友圈自由吗",
-      "onboard_time": 1673441980,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 268730,
@@ -4763,14 +4803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243482,
-      "num": 243482,
-      "word": "人民文娱评中国奇谭",
-      "onboard_time": 1673443116,
-      "rank": 33,
-      "category": "动漫,影视"
-    },
-    {
       "raw_hot": 243163,
       "num": 243163,
       "word": "男生做饭忘关火厨房变灾难现场",
@@ -5001,14 +5033,6 @@
       "onboard_time": 1673223867,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 225920,
-      "num": 173543,
-      "word": "被4部剧虐麻了找1个地方疗伤",
-      "onboard_time": 1673443418,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 225667,
@@ -5393,6 +5417,14 @@
       "onboard_time": 1673344291,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204779,
+      "num": 204779,
+      "word": "中国游客实拍仁川机场入境流程",
+      "onboard_time": 1673443237,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204328,
@@ -6459,6 +6491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152644,
+      "num": 152644,
+      "word": "一言不合就锤人的小猫",
+      "onboard_time": 1673442456,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 152643,
       "num": 152643,
       "word": "林高远王曼昱4比2林兆恒吴咏琳",
@@ -6587,20 +6627,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144369,
+      "num": 144369,
+      "word": "酸草莓的隐藏吃法",
+      "onboard_time": 1673444376,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 143552,
       "num": 143552,
       "word": "中国警察全警种图鉴",
       "onboard_time": 1673347891,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142886,
-      "num": 142886,
-      "word": "肇事男子冲撞人群后遍地撒钱",
-      "onboard_time": 1673443301,
-      "rank": 44,
-      "category": "社会负面"
     },
     {
       "raw_hot": 142696,
@@ -6715,6 +6755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137435,
+      "num": 137435,
+      "word": "我妈都能听懂的rap找到了",
+      "onboard_time": 1673444076,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137198,
       "num": 163006,
       "word": "太阳vs勇士",
@@ -6737,14 +6785,6 @@
       "onboard_time": 1673227348,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136842,
-      "num": 136842,
-      "word": "一言不合就锤人的小猫",
-      "onboard_time": 1673442456,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 136764,
@@ -6921,14 +6961,6 @@
       "onboard_time": 1673435853,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 124116,
-      "num": 124116,
-      "word": "中国游客实拍仁川机场入境流程",
-      "onboard_time": 1673443237,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123786,
@@ -7177,6 +7209,14 @@
       "onboard_time": 1673169330,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 109146,
+      "num": 128820,
+      "word": "呲溜滑高手武大靖",
+      "onboard_time": 1673444197,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 108641,
