@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673464555571,
+  "endTime": 1673465633758,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -27747,6 +27747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 43015,
+      "num": 43015,
+      "word": "孟美岐我心飞扬",
+      "onboard_time": 1673463314,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 42303,
       "num": 37920,
       "word": "再见爱人下期预告Lisa艾威怎么了",
@@ -27785,14 +27793,6 @@
       "onboard_time": 1672731209,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 39611,
-      "num": 39611,
-      "word": "孟美岐我心飞扬",
-      "onboard_time": 1673463314,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 39529,
