@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673461631012,
+  "endTime": 1673462452835,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -19747,6 +19747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201800,
+      "num": 129959,
+      "word": "小狗被抱养一个月狗妈妈突然出现",
+      "onboard_time": 1673455823,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201717,
       "num": 201717,
       "word": "孙颖莎",
@@ -23161,14 +23169,6 @@
       "onboard_time": 1673442456,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 154116,
-      "num": 129959,
-      "word": "小狗被抱养一个月狗妈妈突然出现",
-      "onboard_time": 1673455823,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153998,
@@ -26899,6 +26899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95173,
+      "num": 95173,
+      "word": "MinjiHanni李惠仁新歌OMG舞蹈挑战",
+      "onboard_time": 1673460256,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 94359,
       "num": 191455,
       "word": "没见过这么灵活的挖掘机",
@@ -27139,6 +27147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87336,
+      "num": 87336,
+      "word": "南方人都是这样吃甘蔗的吗",
+      "onboard_time": 1673456243,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87313,
       "num": 87313,
       "word": "道路过窄少年骑车载消防员去灭火",
@@ -27217,14 +27233,6 @@
       "onboard_time": 1672586429,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 83251,
-      "num": 80197,
-      "word": "MinjiHanni李惠仁新歌OMG舞蹈挑战",
-      "onboard_time": 1673460256,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 82939,
@@ -27409,14 +27417,6 @@
       "onboard_time": 1673319385,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72068,
-      "num": 72068,
-      "word": "南方人都是这样吃甘蔗的吗",
-      "onboard_time": 1673456243,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 71636,

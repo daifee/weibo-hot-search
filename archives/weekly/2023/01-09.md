@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/09 00:23:59 ~ 2023/01/12 02:27:11
+本榜单时间：2023/01/09 00:23:59 ~ 2023/01/12 02:40:52
 </p>
 </blockquote>
 <p>
@@ -4287,6 +4287,12 @@ TVB颁奖礼（热度：202010）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E8%A2%AB%E6%8A%B1%E5%85%BB%E4%B8%80%E4%B8%AA%E6%9C%88%E7%8B%97%E5%A6%88%E5%A6%88%E7%AA%81%E7%84%B6%E5%87%BA%E7%8E%B0%23" target="weibo">
+小狗被抱养一个月狗妈妈突然出现（热度：201800）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A8%9C%E7%90%8F%E4%BF%9E%E5%AE%9A%E5%BB%B6MOMO%E9%A2%84%E5%91%8A%E7%85%A7%23" target="weibo">
 林娜琏俞定延MOMO预告照（热度：201260）
 </a>
@@ -5069,12 +5075,6 @@ AG土味MV回忆杀（热度：155500）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%A8%80%E4%B8%8D%E5%90%88%E5%B0%B1%E9%94%A4%E4%BA%BA%E7%9A%84%E5%B0%8F%E7%8C%AB%23" target="weibo">
 一言不合就锤人的小猫（热度：154135）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E8%A2%AB%E6%8A%B1%E5%85%BB%E4%B8%80%E4%B8%AA%E6%9C%88%E7%8B%97%E5%A6%88%E5%A6%88%E7%AA%81%E7%84%B6%E5%87%BA%E7%8E%B0%23" target="weibo">
-小狗被抱养一个月狗妈妈突然出现（热度：154116）
 </a>
 </li>
 
@@ -5877,6 +5877,12 @@ Jennie朴彩英演唱会镜头前躲猫猫（热度：112610）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23MinjiHanni%E6%9D%8E%E6%83%A0%E4%BB%81%E6%96%B0%E6%AD%8COMG%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98%23" target="weibo">
+MinjiHanni李惠仁新歌OMG舞蹈挑战（热度：95173）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E7%9A%84live%E5%AE%9E%E5%8A%9B%23" target="weibo">
 BLACKPINK的live实力（热度：94312）
 </a>
@@ -5907,6 +5913,12 @@ BLACKPINK的live实力（热度：94312）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E4%BA%BA%E9%83%BD%E6%98%AF%E8%BF%99%E6%A0%B7%E5%90%83%E7%94%98%E8%94%97%E7%9A%84%E5%90%97%23" target="weibo">
+南方人都是这样吃甘蔗的吗（热度：87336）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%81%93%E8%B7%AF%E8%BF%87%E7%AA%84%E5%B0%91%E5%B9%B4%E9%AA%91%E8%BD%A6%E8%BD%BD%E6%B6%88%E9%98%B2%E5%91%98%E5%8E%BB%E7%81%AD%E7%81%AB%23" target="weibo">
 道路过窄少年骑车载消防员去灭火（热度：87313）
 </a>
@@ -5921,12 +5933,6 @@ BLACKPINK的live实力（热度：94312）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%23" target="weibo">
 国考（热度：84076）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23MinjiHanni%E6%9D%8E%E6%83%A0%E4%BB%81%E6%96%B0%E6%AD%8COMG%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98%23" target="weibo">
-MinjiHanni李惠仁新歌OMG舞蹈挑战（热度：83251）
 </a>
 </li>
 
@@ -5987,12 +5993,6 @@ MinjiHanni李惠仁新歌OMG舞蹈挑战（热度：83251）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%B2%B3%20%E9%85%8D%E9%9F%B3%23" target="weibo">
 重岳 配音（热度：72700）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E4%BA%BA%E9%83%BD%E6%98%AF%E8%BF%99%E6%A0%B7%E5%90%83%E7%94%98%E8%94%97%E7%9A%84%E5%90%97%23" target="weibo">
-南方人都是这样吃甘蔗的吗（热度：72068）
 </a>
 </li>
 

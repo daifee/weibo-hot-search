@@ -1,6 +1,6 @@
 {
   "startTime": 1673454894759,
-  "endTime": 1673461631012,
+  "endTime": 1673462452835,
   "band_list": [
     {
       "raw_hot": 5148320,
@@ -171,6 +171,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 201800,
+      "num": 129959,
+      "word": "小狗被抱养一个月狗妈妈突然出现",
+      "onboard_time": 1673455823,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197392,
       "num": 197392,
       "word": "找到了比钱包还干净的东西",
@@ -241,14 +249,6 @@
       "onboard_time": 1673435133,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 154116,
-      "num": 129959,
-      "word": "小狗被抱养一个月狗妈妈突然出现",
-      "onboard_time": 1673455823,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152080,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95173,
+      "num": 95173,
+      "word": "MinjiHanni李惠仁新歌OMG舞蹈挑战",
+      "onboard_time": 1673460256,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 92983,
       "num": 92983,
       "word": "赴韩转机旅客讲述入境过程",
@@ -435,12 +443,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 83251,
-      "num": 80197,
-      "word": "MinjiHanni李惠仁新歌OMG舞蹈挑战",
-      "onboard_time": 1673460256,
-      "rank": 21,
-      "category": "音乐"
+      "raw_hot": 87336,
+      "num": 87336,
+      "word": "南方人都是这样吃甘蔗的吗",
+      "onboard_time": 1673456243,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 83107,
@@ -457,14 +465,6 @@
       "onboard_time": 1673445999,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72068,
-      "num": 72068,
-      "word": "南方人都是这样吃甘蔗的吗",
-      "onboard_time": 1673456243,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 62346,
