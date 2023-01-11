@@ -1,6 +1,6 @@
 {
   "startTime": 1673454894759,
-  "endTime": 1673468410342,
+  "endTime": 1673469232775,
   "band_list": [
     {
       "raw_hot": 5148320,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95847,
+      "num": 56250,
+      "word": "新冠口服药莫诺拉韦预计本周五国内上市",
+      "onboard_time": 1673466552,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95173,
       "num": 95173,
       "word": "MinjiHanni李惠仁新歌OMG舞蹈挑战",
@@ -483,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59446,
-      "num": 56250,
-      "word": "新冠口服药莫诺拉韦预计本周五国内上市",
-      "onboard_time": 1673466552,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56785,
       "num": 56785,
       "word": "手机厂商吹的牛都实现了吗",
@@ -523,20 +523,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18330,
-      "num": 18330,
+      "raw_hot": 19996,
+      "num": 19996,
+      "word": "地铁上女孩帮陌生大叔抢火车票",
+      "onboard_time": 1673466912,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 19209,
+      "num": 19209,
       "word": "TheShy提莫",
       "onboard_time": 1673440899,
       "rank": 45,
       "category": "游戏"
     },
     {
-      "raw_hot": 17626,
-      "num": 17626,
-      "word": "地铁上女孩帮陌生大叔抢火车票",
-      "onboard_time": 1673466912,
-      "rank": 43,
-      "category": "社会正能量"
+      "raw_hot": 17500,
+      "num": 17500,
+      "word": "李现去有风的地方好苏",
+      "onboard_time": 1673468832,
+      "rank": 44,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
