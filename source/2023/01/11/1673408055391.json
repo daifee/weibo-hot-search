@@ -1,0 +1,410 @@
+{
+  "runTime": 1673408055391,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1442106,
+        "num": 1442106,
+        "word": "杨紫琼金球奖影后",
+        "onboard_time": 1673403687,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1348877,
+        "num": 1348877,
+        "word": "电费1个月3481元竟有电费刺客",
+        "onboard_time": 1673403687,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34727,
+        "num": 1238017,
+        "word": "守护你回家的路",
+        "onboard_time": 1673359051,
+        "rank": 2,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1219813,
+        "num": 1219813,
+        "word": "iPhone16Pro或取消灵动岛",
+        "onboard_time": 1673404526,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1189873,
+        "num": 1189873,
+        "word": "三亚失联男孩尸体疑似被找到",
+        "onboard_time": 1673404949,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1168776,
+        "num": 1168776,
+        "word": "韩国",
+        "onboard_time": 1673360732,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 839148,
+        "num": 839148,
+        "word": "韩国要求香港航班只能降落仁川机场",
+        "onboard_time": 1673405609,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795183,
+        "num": 795183,
+        "word": "彭昱畅说何炅黄磊不会吵架除非在点自己",
+        "onboard_time": 1673393301,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670537,
+        "num": 670537,
+        "word": "权志龙姐姐开北京首店",
+        "onboard_time": 1673407469,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614214,
+        "num": 614214,
+        "word": "韩国男子杀害中国妻子未遂获减刑",
+        "onboard_time": 1673383633,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1279496,
+        "num": 614159,
+        "word": "余景天就机场拥堵事件道歉",
+        "onboard_time": 1673403866,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 918977,
+        "num": 612698,
+        "word": "敬业福",
+        "onboard_time": 1673402366,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 609577,
+        "num": 609577,
+        "word": "微信回应切断抖音外链",
+        "onboard_time": 1673400928,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 583603,
+        "num": 583603,
+        "word": "迪丽热巴龚俊安乐传获得发行许可证",
+        "onboard_time": 1673407529,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 516383,
+        "num": 516383,
+        "word": "日本发红色挂件标记中国旅客",
+        "onboard_time": 1673395108,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515953,
+        "num": 515953,
+        "word": "金球奖",
+        "onboard_time": 1673404587,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510548,
+        "num": 510548,
+        "word": "人民网评电视收费乱象",
+        "onboard_time": 1673404768,
+        "rank": 16,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 508847,
+        "num": 508847,
+        "word": "金毛绝育后瘫坐副驾驶不下车",
+        "onboard_time": 1673401410,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491891,
+        "num": 491891,
+        "word": "一公司就给员工加薪50元道歉",
+        "onboard_time": 1673402068,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396921,
+        "num": 396921,
+        "word": "C罗合同无帮助申办世界杯条款",
+        "onboard_time": 1673404227,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 477509,
+        "num": 395762,
+        "word": "易烊千玺入选2022华语院线出彩演员",
+        "onboard_time": 1673406869,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466370,
+        "num": 394632,
+        "word": "赵丽颖待播影视作品",
+        "onboard_time": 1673407828,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392359,
+        "num": 392359,
+        "word": "曝以爱为营剧组拖欠群演薪资",
+        "onboard_time": 1673404587,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360540,
+        "num": 360540,
+        "word": "各地大学生出手了",
+        "onboard_time": 1673394146,
+        "rank": 23,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 325342,
+        "num": 325342,
+        "word": "2022年人民币存款增加26.26万亿",
+        "onboard_time": 1673403988,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 324729,
+        "num": 324729,
+        "word": "欧盟就自中国入境航班指引达成一致",
+        "onboard_time": 1673397810,
+        "rank": 25,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 261459,
+        "num": 261459,
+        "word": "爸妈是真不拿我当外人啊",
+        "onboard_time": 1673401706,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242266,
+        "num": 242266,
+        "word": "阳过之后心跳快是得了心肌炎吗",
+        "onboard_time": 1673401948,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207705,
+        "num": 207705,
+        "word": "生肖卡",
+        "onboard_time": 1673408008,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185242,
+        "num": 185242,
+        "word": "董事长行长把银行当自己家疯狂敛财",
+        "onboard_time": 1673397868,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374403,
+        "num": 184867,
+        "word": "李现吃黄焖鸡要多加土豆",
+        "onboard_time": 1673401289,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360654,
+        "num": 184163,
+        "word": "ENHYPEN朴综星道歉",
+        "onboard_time": 1673404526,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351800,
+        "num": 184048,
+        "word": "刚洗完头的喻言",
+        "onboard_time": 1673406931,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183144,
+        "num": 183144,
+        "word": "如何保护父母挺进决赛圈",
+        "onboard_time": 1673407110,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317884,
+        "num": 181388,
+        "word": "BLACKPINK确定领衔出演科切拉音乐节",
+        "onboard_time": 1673400150,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274117,
+        "num": 181247,
+        "word": "2023年金球奖获奖名单",
+        "onboard_time": 1673404887,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179161,
+        "num": 179161,
+        "word": "iPhone已累计售出23.2亿台",
+        "onboard_time": 1673406330,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 178927,
+        "num": 178927,
+        "word": "公司回应男子月薪5万试用3天被裁",
+        "onboard_time": 1673403148,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168325,
+        "num": 168325,
+        "word": "专家劝百姓拿出三分之一存款买房",
+        "onboard_time": 1673359892,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152686,
+        "num": 152686,
+        "word": "你介意对象谈过很久的前任吗",
+        "onboard_time": 1673359533,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259094,
+        "num": 152536,
+        "word": "中国奇谭",
+        "onboard_time": 1673400629,
+        "rank": 40,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 151233,
+        "num": 151233,
+        "word": "妈妈用1块布给女儿做4套拜年服",
+        "onboard_time": 1673399550,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147223,
+        "num": 147223,
+        "word": "深圳生育第三孩累计补贴1.9万元",
+        "onboard_time": 1673407889,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145444,
+        "num": 145444,
+        "word": "钢腿女孩四川省人大代表新身份",
+        "onboard_time": 1673402669,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144902,
+        "num": 144902,
+        "word": "苹果将开始自产iPhone屏幕",
+        "onboard_time": 1673402307,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 137198,
+        "num": 137198,
+        "word": "太阳vs勇士",
+        "onboard_time": 1673405249,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136167,
+        "num": 136167,
+        "word": "张文宏称存在无症状感染者",
+        "onboard_time": 1673362955,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123963,
+        "num": 123963,
+        "word": "龙凤胎宝宝相视一笑又萌又治愈",
+        "onboard_time": 1673407411,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123824,
+        "num": 123824,
+        "word": "男方嫌30万彩礼多只肯出1万8包三金",
+        "onboard_time": 1673350472,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122391,
+        "num": 122391,
+        "word": "被老年人的手机酷到了",
+        "onboard_time": 1673395648,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#展现可信可爱可敬的中国形象#"
+    }
+  }
+}
