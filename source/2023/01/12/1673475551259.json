@@ -1,0 +1,410 @@
+{
+  "runTime": 1673475551259,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 214278,
+        "num": 214278,
+        "word": "广州一小车碰撞行人司机已被控制",
+        "onboard_time": 1673439099,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133686,
+        "num": 133686,
+        "word": "高价彩礼是否违法",
+        "onboard_time": 1673453968,
+        "rank": 1,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 19980,
+        "num": 132840,
+        "word": "如何科学稳妥地恢复运动",
+        "onboard_time": 1673445578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132357,
+        "num": 132357,
+        "word": "韩媒称中国游客在泰国享受国宾待遇",
+        "onboard_time": 1673439336,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 101788,
+        "num": 101788,
+        "word": "人们为什么不想听专家说话了",
+        "onboard_time": 1673473753,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 95956,
+        "num": 95956,
+        "word": "小狗被抱养一个月狗妈妈突然出现",
+        "onboard_time": 1673455823,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90224,
+        "num": 90224,
+        "word": "新冠口服药莫诺拉韦预计本周五国内上市",
+        "onboard_time": 1673466552,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87341,
+        "num": 87341,
+        "word": "中国游客回应赴韩后曾逃避隔离",
+        "onboard_time": 1673452951,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80381,
+        "num": 80381,
+        "word": "刘亦菲发博恭喜杨紫琼获奖",
+        "onboard_time": 1673457860,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79812,
+        "num": 79812,
+        "word": "哈尔滨的企鹅真的满街跑",
+        "onboard_time": 1673455045,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274997,
+        "num": 79597,
+        "word": "给中国游客挂牌子别怪我们反制",
+        "onboard_time": 1673470572,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241878,
+        "num": 79196,
+        "word": "广州一宝马冲撞人群已致5死13伤",
+        "onboard_time": 1673436935,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149719,
+        "num": 79111,
+        "word": "全美航班停飞原因曝光",
+        "onboard_time": 1673456602,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78467,
+        "num": 78467,
+        "word": "中国游客实拍仁川机场入境流程",
+        "onboard_time": 1673443237,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73548,
+        "num": 73548,
+        "word": "出现这6个症状警惕心肌炎",
+        "onboard_time": 1673453488,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63529,
+        "num": 63529,
+        "word": "爱奇艺APP限制投屏",
+        "onboard_time": 1673444678,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 63364,
+        "num": 63364,
+        "word": "公司取消年终奖请员工去新疆聚餐",
+        "onboard_time": 1673433331,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58982,
+        "num": 58982,
+        "word": "孟美岐我心飞扬",
+        "onboard_time": 1673463314,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51694,
+        "num": 51694,
+        "word": "美媒称全美航班均已停飞",
+        "onboard_time": 1673444558,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44686,
+        "num": 44686,
+        "word": "南方人都是这样吃甘蔗的吗",
+        "onboard_time": 1673456243,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43270,
+        "num": 43270,
+        "word": "伊利客服回应30支冰淇淋分30箱发货",
+        "onboard_time": 1673437297,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41363,
+        "num": 41363,
+        "word": "水果姐大赞蔡依林造型",
+        "onboard_time": 1673451334,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39387,
+        "num": 39387,
+        "word": "真的很爱这种大气的美",
+        "onboard_time": 1673458759,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37945,
+        "num": 37945,
+        "word": "妈妈才是最好的心理医生",
+        "onboard_time": 1673450853,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35928,
+        "num": 35928,
+        "word": "张若昀面试庆余年在offer楼上",
+        "onboard_time": 1673453249,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35684,
+        "num": 35684,
+        "word": "恋爱中的分寸感有多重要",
+        "onboard_time": 1673451397,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34425,
+        "num": 34425,
+        "word": "你还拥有朋友圈自由吗",
+        "onboard_time": 1673441980,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34148,
+        "num": 34148,
+        "word": "沈腾易烊千玺满江红试映repo",
+        "onboard_time": 1673452171,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33990,
+        "num": 33990,
+        "word": "人民文娱评中国奇谭",
+        "onboard_time": 1673443116,
+        "rank": 28,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 33645,
+        "num": 33645,
+        "word": "手机厂商吹的牛都实现了吗",
+        "onboard_time": 1673457080,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 30285,
+        "num": 30285,
+        "word": "男朋友第一次见女方家长气氛嗨爆",
+        "onboard_time": 1673440599,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29031,
+        "num": 29031,
+        "word": "王一博黑纱造型",
+        "onboard_time": 1673431049,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28911,
+        "num": 28911,
+        "word": "网传吴磊周雨彤爱情而已尺度很大",
+        "onboard_time": 1673440475,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28209,
+        "num": 28209,
+        "word": "广东红包惹哭多少小孩子",
+        "onboard_time": 1673441077,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27520,
+        "num": 27520,
+        "word": "去有风的地方演网文作者现状",
+        "onboard_time": 1673454268,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26494,
+        "num": 26494,
+        "word": "小鹿回应拉宏桑被骂",
+        "onboard_time": 1673441980,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25143,
+        "num": 25143,
+        "word": "居然有如此配合的猫咪",
+        "onboard_time": 1673452894,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24167,
+        "num": 24167,
+        "word": "男子分手赌气离家20年后骑摩托回家",
+        "onboard_time": 1673434533,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23707,
+        "num": 23707,
+        "word": "杨幂放烟花游玩照",
+        "onboard_time": 1673441917,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23332,
+        "num": 23332,
+        "word": "法国足协主席宣布辞职",
+        "onboard_time": 1673448036,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22886,
+        "num": 22886,
+        "word": "江西萍乡曾提倡彩礼不超3万",
+        "onboard_time": 1673433693,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21736,
+        "num": 21736,
+        "word": "徐海乔现在很羡慕李现吧",
+        "onboard_time": 1673459297,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20365,
+        "num": 20365,
+        "word": "找到了适合社恐的职业",
+        "onboard_time": 1673446119,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 19676,
+        "num": 19676,
+        "word": "TheShy提莫",
+        "onboard_time": 1673440899,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19077,
+        "num": 19077,
+        "word": "王源五年前救助的三胞胎现状",
+        "onboard_time": 1673430990,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19066,
+        "num": 19066,
+        "word": "ming去哪了",
+        "onboard_time": 1673436454,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18238,
+        "num": 18238,
+        "word": "地铁上女孩帮陌生大叔抢火车票",
+        "onboard_time": 1673466912,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 17947,
+        "num": 17947,
+        "word": "男子每次喝完酒都叫爸爸代驾",
+        "onboard_time": 1673445519,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15882,
+        "num": 15882,
+        "word": "张雪迎邢昭林新剧cp感",
+        "onboard_time": 1673454028,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15342,
+        "num": 15342,
+        "word": "毁容式护肤",
+        "onboard_time": 1673439817,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#永远吹冲锋号#"
+    }
+  }
+}

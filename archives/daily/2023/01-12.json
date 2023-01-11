@@ -1,6 +1,6 @@
 {
   "startTime": 1673454894759,
-  "endTime": 1673472818571,
+  "endTime": 1673475551259,
   "band_list": [
     {
       "raw_hot": 5148320,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274997,
+      "num": 79597,
+      "word": "给中国游客挂牌子别怪我们反制",
+      "onboard_time": 1673470572,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274630,
       "num": 174958,
       "word": "在成员多的组合里能唱多少词",
@@ -259,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149719,
+      "num": 79111,
+      "word": "全美航班停飞原因曝光",
+      "onboard_time": 1673456602,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148282,
       "num": 148282,
       "word": "男子每次喝完酒都叫爸爸代驾",
@@ -289,14 +305,6 @@
       "onboard_time": 1673452894,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136090,
-      "num": 70020,
-      "word": "全美航班停飞原因曝光",
-      "onboard_time": 1673456602,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135608,
@@ -380,18 +388,10 @@
     },
     {
       "raw_hot": 109305,
-      "num": 56250,
+      "num": 90224,
       "word": "新冠口服药莫诺拉韦预计本周五国内上市",
       "onboard_time": 1673466552,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108474,
-      "num": 47078,
-      "word": "给中国游客挂牌子别怪我们反制",
-      "onboard_time": 1673470572,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -409,6 +409,14 @@
       "onboard_time": 1673427151,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101788,
+      "num": 101788,
+      "word": "人们为什么不想听专家说话了",
+      "onboard_time": 1673473753,
+      "rank": 4,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 100929,
@@ -499,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58982,
+      "num": 58982,
+      "word": "孟美岐我心飞扬",
+      "onboard_time": 1673463314,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 56785,
       "num": 56785,
       "word": "手机厂商吹的牛都实现了吗",
@@ -515,16 +531,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49593,
-      "num": 49593,
-      "word": "孟美岐我心飞扬",
-      "onboard_time": 1673463314,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 28679,
-      "num": 27120,
+      "raw_hot": 29031,
+      "num": 29031,
       "word": "王一博黑纱造型",
       "onboard_time": 1673431049,
       "rank": 40,
@@ -539,8 +547,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 19209,
-      "num": 19209,
+      "raw_hot": 19676,
+      "num": 19676,
       "word": "TheShy提莫",
       "onboard_time": 1673440899,
       "rank": 45,
