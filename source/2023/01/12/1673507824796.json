@@ -1,0 +1,410 @@
+{
+  "runTime": 1673507824796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3918466,
+        "num": 3918466,
+        "word": "权威人士称上海打人者王某某系王思聪",
+        "onboard_time": 1673500476,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1161108,
+        "num": 1161108,
+        "word": "许佳琪想约迪丽热巴蒸桑拿",
+        "onboard_time": 1673506107,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62208,
+        "num": 1043331,
+        "word": "温暖你我的回家路",
+        "onboard_time": 1673500657,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928787,
+        "num": 928787,
+        "word": "33岁女子生3女儿后4胎得子",
+        "onboard_time": 1673496449,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916355,
+        "num": 916355,
+        "word": "韩媒称中国游客不来韩国商家认栽",
+        "onboard_time": 1673505689,
+        "rank": 4,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 734170,
+        "num": 734170,
+        "word": "50岁外公抱2个月外孙女村里炫耀",
+        "onboard_time": 1673503529,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692925,
+        "num": 692925,
+        "word": "建议将春节假期延长至9天",
+        "onboard_time": 1673486550,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675614,
+        "num": 675614,
+        "word": "王心凌追完了星汉灿烂卿卿日常",
+        "onboard_time": 1673505689,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 524014,
+        "num": 524014,
+        "word": "上海警方通报王某某等殴打路人",
+        "onboard_time": 1673497173,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 481987,
+        "num": 481987,
+        "word": "00后会消灭酒桌文化吗",
+        "onboard_time": 1673497832,
+        "rank": 9,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 761705,
+        "num": 479869,
+        "word": "盘点王思聪资本版图",
+        "onboard_time": 1673504609,
+        "rank": 10,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 668863,
+        "num": 479235,
+        "word": "周杰伦转发家有儿女片段",
+        "onboard_time": 1673501495,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550240,
+        "num": 477195,
+        "word": "三体",
+        "onboard_time": 1673499452,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 470527,
+        "num": 470527,
+        "word": "甄嬛传新功能一键跳过甘露寺",
+        "onboard_time": 1673493868,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420845,
+        "num": 420845,
+        "word": "北京下雪",
+        "onboard_time": 1673502331,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336978,
+        "num": 336978,
+        "word": "上海市消保委点名爱奇艺限制投屏不厚道",
+        "onboard_time": 1673502153,
+        "rank": 15,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 317639,
+        "num": 317639,
+        "word": "女子上班第一天因已婚被辞",
+        "onboard_time": 1673490928,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316009,
+        "num": 316009,
+        "word": "大叔火车站帮女生提20斤行李箱下楼",
+        "onboard_time": 1673505929,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 312733,
+        "num": 312733,
+        "word": "刘鑫已成被执行人",
+        "onboard_time": 1673493269,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309955,
+        "num": 309955,
+        "word": "熊猫毛实在太扎手",
+        "onboard_time": 1673505148,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430193,
+        "num": 309767,
+        "word": "徐梦洁徐艺洋世另我舞台双倍甜",
+        "onboard_time": 1673502510,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391532,
+        "num": 308016,
+        "word": "金元植疑似逃兵役",
+        "onboard_time": 1673507189,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306104,
+        "num": 306104,
+        "word": "已婚未孕不应成为求职的阻碍",
+        "onboard_time": 1673500176,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297867,
+        "num": 297867,
+        "word": "辅酶Q10搜索量暴涨2500%",
+        "onboard_time": 1673499937,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 286297,
+        "num": 286297,
+        "word": "5000人冒雨上山搜寻胡鑫宇",
+        "onboard_time": 1673493688,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280023,
+        "num": 280023,
+        "word": "韩方回应自华入境涉嫌歧视中国人问题",
+        "onboard_time": 1673489727,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268984,
+        "num": 268984,
+        "word": "Ming回应缺席RNG大名单",
+        "onboard_time": 1673507431,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266352,
+        "num": 266352,
+        "word": "罗纳尔多求婚成功",
+        "onboard_time": 1673495908,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 229530,
+        "num": 229530,
+        "word": "算是把同事关系整明白了",
+        "onboard_time": 1673499274,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218770,
+        "num": 218770,
+        "word": "虔诚退役",
+        "onboard_time": 1673503289,
+        "rank": 29,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 372624,
+        "num": 216645,
+        "word": "大侦探",
+        "onboard_time": 1673499154,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306830,
+        "num": 215439,
+        "word": "谢之遥发现了许红豆的秘密",
+        "onboard_time": 1673506107,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250665,
+        "num": 212402,
+        "word": "三体电视剧定档0115",
+        "onboard_time": 1673507668,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247320,
+        "num": 210586,
+        "word": "少爷和我和倪大红",
+        "onboard_time": 1673497112,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240367,
+        "num": 208600,
+        "word": "狂飙",
+        "onboard_time": 1673507548,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207703,
+        "num": 207703,
+        "word": "印尼已为中国游客准备好红毯",
+        "onboard_time": 1673506769,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 198794,
+        "num": 198794,
+        "word": "2型糖尿病人工胰腺试验成功",
+        "onboard_time": 1673506587,
+        "rank": 36,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 186146,
+        "num": 186146,
+        "word": "米哈游商业版图",
+        "onboard_time": 1673506289,
+        "rank": 37,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 180687,
+        "num": 180687,
+        "word": "前夫接孩子带走2儿子独留女儿",
+        "onboard_time": 1673488706,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177354,
+        "num": 177354,
+        "word": "这狗子多少有点喝飘了",
+        "onboard_time": 1673505625,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215859,
+        "num": 176580,
+        "word": "魏晨说唯一送给专属于大侦探宇宙的七生七世",
+        "onboard_time": 1673502212,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172210,
+        "num": 172210,
+        "word": "Uzi传奇降临",
+        "onboard_time": 1673500711,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166006,
+        "num": 166006,
+        "word": "这猫多少有点马里马气",
+        "onboard_time": 1673507008,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161853,
+        "num": 161853,
+        "word": "米哈游辟谣年终奖108薪",
+        "onboard_time": 1673490089,
+        "rank": 43,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 159050,
+        "num": 159050,
+        "word": "江西民众称天价彩礼是极端个例",
+        "onboard_time": 1673494951,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 155209,
+        "num": 155209,
+        "word": "原来真的有猫猫律师",
+        "onboard_time": 1673499333,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150408,
+        "num": 150408,
+        "word": "阳过一次管多久",
+        "onboard_time": 1673480423,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139943,
+        "num": 139943,
+        "word": "陕西首次考古出土柳公权真迹",
+        "onboard_time": 1673499694,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133122,
+        "num": 133122,
+        "word": "女儿回娘家爸妈没认出推销还收费",
+        "onboard_time": 1673494167,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124946,
+        "num": 124946,
+        "word": "飞猪发文嘲讽携程抄袭",
+        "onboard_time": 1673501792,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#构筑起保健康防重症的坚实防线#"
+    }
+  }
+}
