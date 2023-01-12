@@ -1,6 +1,6 @@
 {
   "startTime": 1673541706835,
-  "endTime": 1673544548963,
+  "endTime": 1673545403887,
   "band_list": [
     {
       "raw_hot": 1931393,
@@ -123,20 +123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329755,
+      "num": 329755,
+      "word": "胡鑫宇家乡镇长回应冒雨拉网式搜寻",
+      "onboard_time": 1673542043,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313983,
       "num": 313983,
       "word": "内娱唱演俱佳的明星",
       "onboard_time": 1673531071,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299853,
-      "num": 299853,
-      "word": "胡鑫宇家乡镇长回应冒雨拉网式搜寻",
-      "onboard_time": 1673542043,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276098,
@@ -153,6 +153,22 @@
       "onboard_time": 1673538571,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 254535,
+      "num": 232789,
+      "word": "郑恺没见过苗苗跳古典舞",
+      "onboard_time": 1673541685,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 250184,
+      "num": 250184,
+      "word": "异地恋真的走不到最后吗",
+      "onboard_time": 1673541565,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 240608,
@@ -177,22 +193,6 @@
       "onboard_time": 1673536654,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232789,
-      "num": 232789,
-      "word": "郑恺没见过苗苗跳古典舞",
-      "onboard_time": 1673541685,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 231200,
-      "num": 231200,
-      "word": "异地恋真的走不到最后吗",
-      "onboard_time": 1673541565,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 228517,
@@ -265,6 +265,14 @@
       "onboard_time": 1673537132,
       "rank": 25,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 167596,
+      "num": 167596,
+      "word": "大结局了顾南亭依然没有长嘴",
+      "onboard_time": 1673544620,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 161018,
