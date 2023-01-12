@@ -1,6 +1,6 @@
 {
   "startTime": 1673454894759,
-  "endTime": 1673491369310,
+  "endTime": 1673491971111,
   "band_list": [
     {
       "raw_hot": 5148320,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1406687,
-      "num": 527577,
+      "num": 563185,
       "word": "当男演员们遇上刘亦菲",
       "onboard_time": 1673485709,
       "rank": 10,
@@ -91,12 +91,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 812196,
-      "num": 812196,
+      "raw_hot": 856578,
+      "num": 856578,
       "word": "韩方回应自华入境涉嫌歧视中国人问题",
       "onboard_time": 1673489727,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 830356,
+      "num": 830356,
+      "word": "赵樱子被网友说是迪幂孟扎的照片",
+      "onboard_time": 1673491291,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 782341,
@@ -115,6 +123,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 738226,
+      "num": 738226,
+      "word": "米哈游辟谣年终奖108薪",
+      "onboard_time": 1673490089,
+      "rank": 11,
+      "category": "游戏,财经"
+    },
+    {
       "raw_hot": 729880,
       "num": 447673,
       "word": "别再怪粉丝非理性",
@@ -131,14 +147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 590209,
-      "num": 523172,
-      "word": "米哈游辟谣年终奖108薪",
-      "onboard_time": 1673490089,
-      "rank": 11,
-      "category": "游戏,财经"
-    },
-    {
       "raw_hot": 555058,
       "num": 555058,
       "word": "公司取消年终奖请员工去新疆聚餐",
@@ -147,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 516574,
-      "num": 516574,
-      "word": "赵樱子被网友说是迪幂孟扎的照片",
-      "onboard_time": 1673491291,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 534990,
+      "num": 534990,
+      "word": "女子上班第一天因已婚被辞",
+      "onboard_time": 1673490928,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 509578,
@@ -275,20 +283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349349,
+      "num": 349349,
+      "word": "苹果正开发触摸屏Mac电脑",
+      "onboard_time": 1673488348,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 347279,
       "num": 347279,
       "word": "网友对王嘉尔二登科切拉的反应",
       "onboard_time": 1673482529,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 345724,
-      "num": 345724,
-      "word": "苹果正开发触摸屏Mac电脑",
-      "onboard_time": 1673488348,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 342670,
@@ -328,6 +336,14 @@
       "word": "成毅英雄志乞丐造型",
       "onboard_time": 1673490209,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 321903,
+      "num": 205536,
+      "word": "谢之遥深情告别许红豆",
+      "onboard_time": 1673491046,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -443,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251695,
+      "num": 251695,
+      "word": "南得霄亭终于霄亭了",
+      "onboard_time": 1673490750,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250241,
       "num": 250241,
       "word": "陈飞宇晒背头自拍",
@@ -459,11 +483,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246370,
+      "num": 246370,
+      "word": "少年歌行今晚加更",
+      "onboard_time": 1673491529,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245566,
       "num": 245566,
       "word": "刘亦菲发博恭喜杨紫琼获奖",
       "onboard_time": 1673457860,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 245235,
+      "num": 245235,
+      "word": "满江红各怀鬼胎版海报",
+      "onboard_time": 1673491348,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -473,14 +513,6 @@
       "onboard_time": 1673443116,
       "rank": 22,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 236618,
-      "num": 205536,
-      "word": "谢之遥深情告别许红豆",
-      "onboard_time": 1673491046,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 234693,
@@ -520,14 +552,6 @@
       "word": "孟美岐我心飞扬",
       "onboard_time": 1673463314,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 208998,
-      "num": 208998,
-      "word": "南得霄亭终于霄亭了",
-      "onboard_time": 1673490750,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -587,19 +611,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183965,
-      "num": 183965,
+      "raw_hot": 187777,
+      "num": 187777,
+      "word": "乡村爱情15开播",
+      "onboard_time": 1673490389,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 184314,
+      "num": 184314,
       "word": "1岁半萌娃返乡过年下车奔向太爷爷",
       "onboard_time": 1673489247,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181043,
-      "num": 181043,
-      "word": "女子上班第一天因已婚被辞",
-      "onboard_time": 1673490928,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -608,14 +632,6 @@
       "word": "陈钰琪说浮图缘结局意想不到",
       "onboard_time": 1673448999,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 179369,
-      "num": 179369,
-      "word": "乡村爱情15开播",
-      "onboard_time": 1673490389,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -659,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169614,
+      "num": 169614,
+      "word": "鹅鸭杀开服",
+      "onboard_time": 1673490030,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168500,
       "num": 168500,
       "word": "红豆遥遥冰是精神的契合",
@@ -691,14 +715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164931,
-      "num": 164931,
-      "word": "鹅鸭杀开服",
-      "onboard_time": 1673490030,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 164173,
       "num": 164173,
       "word": "原来狗子晕车是这样的",
@@ -729,14 +745,6 @@
       "onboard_time": 1673440599,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 156952,
-      "num": 156952,
-      "word": "满江红各怀鬼胎版海报",
-      "onboard_time": 1673491348,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 152562,
@@ -867,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129384,
+      "num": 129384,
+      "word": "下周末就是春节了",
+      "onboard_time": 1673491708,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123331,
       "num": 101524,
       "word": "许红豆谢之遥和孩子们合照",
@@ -897,6 +913,14 @@
       "onboard_time": 1673445578,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106669,
+      "num": 106669,
+      "word": "你最期待谁的兔限皮肤",
+      "onboard_time": 1673491948,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 104467,
