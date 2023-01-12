@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673531030414,
+  "endTime": 1673533466490,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1461247,
+      "num": 1461247,
+      "word": "内娱唱演俱佳的明星",
+      "onboard_time": 1673531071,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1450986,
       "num": 1450986,
       "word": "徐梦洁徐艺洋世另我舞台双倍甜",
@@ -859,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1055809,
+      "num": 1055809,
+      "word": "去世爷爷手机每页都空出孙子的脸",
+      "onboard_time": 1673530771,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1049086,
       "num": 1049086,
       "word": "辉瑞CEO称新冠药不能太便宜",
@@ -944,6 +960,14 @@
       "word": "韩方回应自华入境涉嫌歧视中国人问题",
       "onboard_time": 1673489727,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1007384,
+      "num": 1007384,
+      "word": "扬州通报干部作风问题",
+      "onboard_time": 1673532691,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1420,7 +1444,7 @@
     },
     {
       "raw_hot": 816945,
-      "num": 379246,
+      "num": 754732,
       "word": "有风小院全员中毒后的精神状态",
       "onboard_time": 1673529152,
       "rank": 10,
@@ -2331,6 +2355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 560433,
+      "num": 335985,
+      "word": "蓝正龙被问到大S的反应",
+      "onboard_time": 1673532813,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 559265,
       "num": 559265,
       "word": "长月烬明原著小说疑似被曝抄袭",
@@ -2713,6 +2745,14 @@
       "onboard_time": 1673352931,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 502436,
+      "num": 502436,
+      "word": "过年就别再催婚了",
+      "onboard_time": 1673529090,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 501597,
@@ -3411,6 +3451,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 419303,
+      "num": 419303,
+      "word": "AG菲菲",
+      "onboard_time": 1673532032,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 418860,
       "num": 418860,
       "word": "狗狗被鞭炮吓到缩角落萌娃帮捂耳朵",
@@ -3747,6 +3795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388334,
+      "num": 328621,
+      "word": "苗苗跳舞时的眼睛",
+      "onboard_time": 1673530230,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387668,
       "num": 387668,
       "word": "深圳生育第三孩累计补贴1.9万元",
@@ -3843,6 +3899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 380397,
+      "num": 287585,
+      "word": "择君记沈妙怀孕",
+      "onboard_time": 1673532452,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380218,
       "num": 380218,
       "word": "RNG官宣Angel加入",
@@ -3872,6 +3936,14 @@
       "word": "陈奕迅新歌盲婚哑嫁",
       "onboard_time": 1673271932,
       "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 376273,
+      "num": 186521,
+      "word": "时代少年团小分队合作曲试听",
+      "onboard_time": 1673531551,
+      "rank": 30,
       "category": "音乐"
     },
     {
@@ -4379,20 +4451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342015,
+      "num": 334776,
+      "word": "大叔做高跟鞋脚模试穿狂奔月入600万",
+      "onboard_time": 1673532391,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341931,
       "num": 341931,
       "word": "劳斯莱斯创118年来最高销量纪录",
       "onboard_time": 1673321487,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 341172,
-      "num": 341172,
-      "word": "过年就别再催婚了",
-      "onboard_time": 1673529090,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 341021,
@@ -4833,14 +4905,6 @@
       "onboard_time": 1673437173,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 318119,
-      "num": 167060,
-      "word": "苗苗跳舞时的眼睛",
-      "onboard_time": 1673530230,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 317233,
@@ -5395,12 +5459,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 285669,
+      "num": 186017,
+      "word": "许红豆对谢之遥吐露心声",
+      "onboard_time": 1673531252,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 285540,
       "num": 233062,
       "word": "王嘉尔将二登科切拉",
       "onboard_time": 1673401530,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 285146,
+      "num": 285146,
+      "word": "狗子被放车厢迎风随主人返乡",
+      "onboard_time": 1673530891,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 285004,
@@ -5820,7 +5900,7 @@
     },
     {
       "raw_hot": 261437,
-      "num": 161229,
+      "num": 178780,
       "word": "陈飞宇周也倒数说爱你看初雪",
       "onboard_time": 1673527290,
       "rank": 33,
@@ -7515,6 +7595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188275,
+      "num": 188275,
+      "word": "张昊21分",
+      "onboard_time": 1673531191,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188069,
       "num": 188069,
       "word": "Hero电竞百灵鸟回归",
@@ -7699,6 +7787,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 183632,
+      "num": 183632,
+      "word": "这么看地球确实很小",
+      "onboard_time": 1673528848,
+      "rank": 37,
+      "category": "其它"
+    },
+    {
       "raw_hot": 183492,
       "num": 143716,
       "word": "王源客厅狂欢QQ音乐实体专辑畅销榜第一",
@@ -7753,6 +7849,14 @@
       "onboard_time": 1673234966,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181143,
+      "num": 181143,
+      "word": "故宫长城雍和宫雪花浪漫纷飞",
+      "onboard_time": 1673529748,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 180603,
@@ -7841,6 +7945,14 @@
       "onboard_time": 1673264967,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178225,
+      "num": 178225,
+      "word": "45岁女子带5个孩子嫁给初恋",
+      "onboard_time": 1673533051,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177847,
@@ -8041,14 +8153,6 @@
       "onboard_time": 1673492190,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 171022,
-      "num": 171022,
-      "word": "这么看地球确实很小",
-      "onboard_time": 1673528848,
-      "rank": 37,
-      "category": "其它"
     },
     {
       "raw_hot": 170361,
@@ -8931,14 +9035,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 136747,
-      "num": 136747,
-      "word": "故宫长城雍和宫雪花浪漫纷飞",
-      "onboard_time": 1673529748,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 136501,
       "num": 136501,
       "word": "把小狗急坏了",
@@ -8969,6 +9065,14 @@
       "onboard_time": 1673170297,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135406,
+      "num": 135406,
+      "word": "菲姐说花落没来AG",
+      "onboard_time": 1673532093,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 135064,
@@ -9177,14 +9281,6 @@
       "onboard_time": 1673316387,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124534,
-      "num": 124534,
-      "word": "去世爷爷手机每页都空出孙子的脸",
-      "onboard_time": 1673530771,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124273,
@@ -9465,14 +9561,6 @@
       "onboard_time": 1673224530,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 112080,
-      "num": 112080,
-      "word": "狗子被放车厢迎风随主人返乡",
-      "onboard_time": 1673530891,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 111962,
@@ -9833,6 +9921,14 @@
       "onboard_time": 1673521829,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91863,
+      "num": 124025,
+      "word": "大多数人用不到辅酶Q10",
+      "onboard_time": 1673532871,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89139,

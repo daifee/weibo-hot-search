@@ -1,0 +1,410 @@
+{
+  "runTime": 1673533466490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1724218,
+        "num": 1724218,
+        "word": "王思聪疑因打人被拘提请行政复议",
+        "onboard_time": 1673515168,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1461247,
+        "num": 1461247,
+        "word": "内娱唱演俱佳的明星",
+        "onboard_time": 1673531071,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1055809,
+        "num": 1055809,
+        "word": "去世爷爷手机每页都空出孙子的脸",
+        "onboard_time": 1673530771,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007384,
+        "num": 1007384,
+        "word": "扬州通报干部作风问题",
+        "onboard_time": 1673532691,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766425,
+        "num": 766425,
+        "word": "研究显示25万年来爸爸总比妈妈大",
+        "onboard_time": 1673525190,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 754732,
+        "num": 754732,
+        "word": "有风小院全员中毒后的精神状态",
+        "onboard_time": 1673529152,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 502436,
+        "num": 502436,
+        "word": "过年就别再催婚了",
+        "onboard_time": 1673529090,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 419303,
+        "num": 419303,
+        "word": "AG菲菲",
+        "onboard_time": 1673532032,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 392321,
+        "num": 392321,
+        "word": "江西萍乡民政局回应网传1888万彩礼",
+        "onboard_time": 1673518228,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336118,
+        "num": 336118,
+        "word": "爱奇艺上线远程为父母付款功能",
+        "onboard_time": 1673526990,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 560433,
+        "num": 335985,
+        "word": "蓝正龙被问到大S的反应",
+        "onboard_time": 1673532813,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532331,
+        "num": 335828,
+        "word": "女子就餐花40多块点肥肠发现有粪便",
+        "onboard_time": 1673523329,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52559,
+        "num": 335667,
+        "word": "我国海水稻种植面积突破百万亩",
+        "onboard_time": 1673515409,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469055,
+        "num": 335506,
+        "word": "爱奇艺回应上海市消保委点名不厚道",
+        "onboard_time": 1673519251,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 261409,
+        "num": 335353,
+        "word": "红军报名时的身高标线看着心疼",
+        "onboard_time": 1673522548,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437879,
+        "num": 335153,
+        "word": "骗TangoZ萧逸是我男朋友",
+        "onboard_time": 1673524112,
+        "rank": 15,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 426856,
+        "num": 334827,
+        "word": "许红豆吃菌中毒",
+        "onboard_time": 1673527349,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342015,
+        "num": 334776,
+        "word": "大叔做高跟鞋脚模试穿狂奔月入600万",
+        "onboard_time": 1673532391,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334630,
+        "num": 334630,
+        "word": "尹锡悦要求韩外交部向中方解释",
+        "onboard_time": 1673513185,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 331834,
+        "num": 331834,
+        "word": "前巴萨高层辱骂梅西",
+        "onboard_time": 1673524531,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388334,
+        "num": 328621,
+        "word": "苗苗跳舞时的眼睛",
+        "onboard_time": 1673530230,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383782,
+        "num": 312246,
+        "word": "少年歌行杀疯了",
+        "onboard_time": 1673525250,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1318028,
+        "num": 299316,
+        "word": "郭碧婷ins取关向佐",
+        "onboard_time": 1673513368,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380397,
+        "num": 287585,
+        "word": "择君记沈妙怀孕",
+        "onboard_time": 1673532452,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285146,
+        "num": 285146,
+        "word": "狗子被放车厢迎风随主人返乡",
+        "onboard_time": 1673530891,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249563,
+        "num": 249563,
+        "word": "泰国旅游业为什么喜欢中国人",
+        "onboard_time": 1673522430,
+        "rank": 25,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 228143,
+        "num": 228143,
+        "word": "韩国总统称未来可能部署核武器",
+        "onboard_time": 1673519553,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201032,
+        "num": 201032,
+        "word": "超6成东北人想去三亚过年",
+        "onboard_time": 1673526867,
+        "rank": 27,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 188275,
+        "num": 188275,
+        "word": "张昊21分",
+        "onboard_time": 1673531191,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186555,
+        "num": 186555,
+        "word": "73岁保安徒手接住4楼坠落女子",
+        "onboard_time": 1673522310,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 376273,
+        "num": 186521,
+        "word": "时代少年团小分队合作曲试听",
+        "onboard_time": 1673531551,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325346,
+        "num": 186273,
+        "word": "王一博李沁光明之路更名金色征途",
+        "onboard_time": 1673530170,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289418,
+        "num": 186127,
+        "word": "刘芸不让郑钧唱灰姑娘",
+        "onboard_time": 1673521349,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285669,
+        "num": 186017,
+        "word": "许红豆对谢之遥吐露心声",
+        "onboard_time": 1673531252,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258083,
+        "num": 185883,
+        "word": "权威人士称上海打人者王某某系王思聪",
+        "onboard_time": 1673500476,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 185819,
+        "num": 185819,
+        "word": "男子情绪崩溃在医院走廊连扇耳光",
+        "onboard_time": 1673514629,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183632,
+        "num": 183632,
+        "word": "这么看地球确实很小",
+        "onboard_time": 1673528848,
+        "rank": 36,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 181894,
+        "num": 181894,
+        "word": "00后女生3年手写信件超1000封",
+        "onboard_time": 1673528072,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181143,
+        "num": 181143,
+        "word": "故宫长城雍和宫雪花浪漫纷飞",
+        "onboard_time": 1673529748,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 179119,
+        "num": 179119,
+        "word": "官方称1888万天价彩礼初步判断系杜撰",
+        "onboard_time": 1673520390,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192938,
+        "num": 178780,
+        "word": "陈飞宇周也倒数说爱你看初雪",
+        "onboard_time": 1673527290,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178225,
+        "num": 178225,
+        "word": "45岁女子带5个孩子嫁给初恋",
+        "onboard_time": 1673533051,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167666,
+        "num": 167666,
+        "word": "兔年茅台生肖酒上市一周价格腰斩",
+        "onboard_time": 1673520453,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 146194,
+        "num": 146194,
+        "word": "平台回应女子买牛肋排全是骨头",
+        "onboard_time": 1673521049,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135406,
+        "num": 135406,
+        "word": "菲姐说花落没来AG",
+        "onboard_time": 1673532093,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124601,
+        "num": 124601,
+        "word": "这是小狗该有的坐姿吗",
+        "onboard_time": 1673517209,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 116022,
+        "num": 124473,
+        "word": "驻韩大使回应中国公民入境韩国问题",
+        "onboard_time": 1673515769,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 106326,
+        "num": 124319,
+        "word": "Faker认为LCK整体比LPL强",
+        "onboard_time": 1673516185,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101417,
+        "num": 124206,
+        "word": "喜欢把猫咪藏起来的狗狗",
+        "onboard_time": 1673526209,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91863,
+        "num": 124025,
+        "word": "大多数人用不到辅酶Q10",
+        "onboard_time": 1673532871,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#健全全面从严治党体系#"
+    }
+  }
+}
