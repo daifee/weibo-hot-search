@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673480016251,
+  "endTime": 1673487449030,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2170451,
+      "num": 2170451,
+      "word": "阳过一次管多久",
+      "onboard_time": 1673480423,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2094597,
       "num": 2094597,
       "word": "奶奶不舒服10分钟10位亲人赶来",
@@ -323,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1541081,
+      "num": 1541081,
+      "word": "地磁暴",
+      "onboard_time": 1673478981,
+      "rank": 40,
+      "category": "自然"
+    },
+    {
       "raw_hot": 1520786,
       "num": 1520786,
       "word": "未成年寒假仅14小时游戏时间",
@@ -401,6 +417,14 @@
       "onboard_time": 1673253690,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1315745,
+      "num": 449956,
+      "word": "当男演员们遇上刘亦菲",
+      "onboard_time": 1673485709,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1310196,
@@ -1179,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 811007,
+      "num": 811007,
+      "word": "建议将春节假期延长至9天",
+      "onboard_time": 1673486550,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809977,
       "num": 809977,
       "word": "姚安娜新剧台词",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1673237730,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 782341,
+      "num": 782341,
+      "word": "种植牙万元时代即将结束",
+      "onboard_time": 1673482529,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 766728,
@@ -1369,6 +1409,14 @@
       "onboard_time": 1673443237,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729880,
+      "num": 447673,
+      "word": "别再怪粉丝非理性",
+      "onboard_time": 1673479402,
+      "rank": 12,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 729784,
@@ -2155,6 +2203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 509578,
+      "num": 509578,
+      "word": "梅西2023年首球",
+      "onboard_time": 1673480304,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 507510,
       "num": 507510,
       "word": "扬州通报网传领导干部生活作风问题",
@@ -2305,6 +2361,14 @@
       "onboard_time": 1673365293,
       "rank": 49,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 486693,
+      "num": 486693,
+      "word": "这猫怎么是花臂啊",
+      "onboard_time": 1673481448,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 485143,
@@ -2731,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430248,
+      "num": 430248,
+      "word": "大坂直美宣布怀孕",
+      "onboard_time": 1673484090,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 430231,
       "num": 430231,
       "word": "顾南亭表白连续被打断",
@@ -2849,6 +2921,14 @@
       "onboard_time": 1673371699,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411509,
+      "num": 411509,
+      "word": "花落 AG",
+      "onboard_time": 1673483550,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 411413,
@@ -2977,6 +3057,14 @@
       "onboard_time": 1673404227,
       "rank": 36,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 395483,
+      "num": 395483,
+      "word": "热剧烂尾有多难受",
+      "onboard_time": 1673480906,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 395220,
@@ -3427,6 +3515,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 349881,
+      "num": 349881,
+      "word": "为什么阳了后会失眠",
+      "onboard_time": 1673479402,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349875,
       "num": 349875,
       "word": "时代少年团新歌舞台版MV预告",
@@ -3472,6 +3568,14 @@
       "word": "王嘉尔两次科切拉地位变化",
       "onboard_time": 1673422231,
       "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 347279,
+      "num": 347279,
+      "word": "网友对王嘉尔二登科切拉的反应",
+      "onboard_time": 1673482529,
+      "rank": 17,
       "category": "音乐"
     },
     {
@@ -3900,7 +4004,7 @@
     },
     {
       "raw_hot": 318878,
-      "num": 268385,
+      "num": 307488,
       "word": "全美航班停飞原因曝光",
       "onboard_time": 1673456602,
       "rank": 30,
@@ -3937,6 +4041,14 @@
       "onboard_time": 1673437173,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 317406,
+      "num": 317406,
+      "word": "内马尔 黄牌",
+      "onboard_time": 1673486726,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 317233,
@@ -4105,14 +4217,6 @@
       "onboard_time": 1673422891,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 305067,
-      "num": 305067,
-      "word": "地磁暴",
-      "onboard_time": 1673478981,
-      "rank": 40,
-      "category": "自然"
     },
     {
       "raw_hot": 305030,
@@ -4419,6 +4523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 284934,
+      "num": 284934,
+      "word": "哈尔滨的企鹅真的满街跑",
+      "onboard_time": 1673455045,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 282516,
       "num": 217954,
       "word": "文韬名学徽章榜第一",
@@ -4667,6 +4779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 268263,
+      "num": 268263,
+      "word": "康复期一直咳咳咳怎么办",
+      "onboard_time": 1673482168,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268111,
       "num": 123225,
       "word": "顾南亭终于勇敢追妻了",
@@ -4681,6 +4801,14 @@
       "onboard_time": 1673430990,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 267668,
+      "num": 267668,
+      "word": "YG新女团成员haramlive实力",
+      "onboard_time": 1673483669,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 267605,
@@ -4729,6 +4857,14 @@
       "onboard_time": 1673340810,
       "rank": 32,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 265837,
+      "num": 265837,
+      "word": "我国部分地区降温将超20度",
+      "onboard_time": 1673483430,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262585,
@@ -4795,14 +4931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258664,
-      "num": 258664,
-      "word": "别再怪粉丝非理性",
-      "onboard_time": 1673479402,
-      "rank": 12,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 258086,
       "num": 258086,
       "word": "欠北方的雪可能要还了",
@@ -4832,6 +4960,14 @@
       "word": "想见你导演黄天仁关注吴磊赵今麦",
       "onboard_time": 1673422349,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 255552,
+      "num": 255552,
+      "word": "李现去有风的地方哭戏",
+      "onboard_time": 1673485228,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -4905,6 +5041,14 @@
       "onboard_time": 1673247148,
       "rank": 35,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 250241,
+      "num": 250241,
+      "word": "陈飞宇晒背头自拍",
+      "onboard_time": 1673485471,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 250078,
@@ -5195,6 +5339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234693,
+      "num": 234693,
+      "word": "为什么明星都想演大男主大女主",
+      "onboard_time": 1673479882,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234279,
       "num": 234279,
       "word": "LPL把中国风穿在身上",
@@ -5288,6 +5440,14 @@
       "word": "男子鱼刺卡喉反复按压致脑梗",
       "onboard_time": 1673413174,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226435,
+      "num": 226435,
+      "word": "90后也开始报复性存钱",
+      "onboard_time": 1673486848,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -5393,6 +5553,14 @@
       "onboard_time": 1673434171,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221291,
+      "num": 221291,
+      "word": "什么是地磁暴",
+      "onboard_time": 1673485650,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221026,
@@ -5505,6 +5673,14 @@
       "onboard_time": 1673250988,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215466,
+      "num": 215466,
+      "word": "感染新冠病毒多久才能彻底康复",
+      "onboard_time": 1673480184,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215030,
@@ -5715,6 +5891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204617,
+      "num": 204617,
+      "word": "张远说现在开始往龙年春晚准备了",
+      "onboard_time": 1673484569,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204328,
       "num": 204328,
       "word": "小狗也很想妈妈吧",
@@ -5875,6 +6059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196520,
+      "num": 196520,
+      "word": "投屏单独收费合理吗",
+      "onboard_time": 1673480964,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196392,
       "num": 196392,
       "word": "男孩闯红灯过路司机怒吼教导",
@@ -6011,6 +6203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190423,
+      "num": 190423,
+      "word": "寒潮蓝色预警今日继续发布",
+      "onboard_time": 1673486550,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189568,
       "num": 189568,
       "word": "马丁内斯执教葡萄牙队",
@@ -6073,6 +6273,14 @@
       "onboard_time": 1673435014,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187962,
+      "num": 187962,
+      "word": "梅西五大联赛进球数追平C罗",
+      "onboard_time": 1673482951,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 187753,
@@ -6331,6 +6539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176661,
+      "num": 176661,
+      "word": "YG新女团live表演",
+      "onboard_time": 1673481267,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 176323,
       "num": 176323,
       "word": "北京楼市销量回暖",
@@ -6507,6 +6723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168500,
+      "num": 168500,
+      "word": "红豆遥遥冰是精神的契合",
+      "onboard_time": 1673485709,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167604,
       "num": 167604,
       "word": "2023LPL",
@@ -6593,6 +6817,14 @@
       "onboard_time": 1673422588,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164173,
+      "num": 164173,
+      "word": "原来狗子晕车是这样的",
+      "onboard_time": 1673479341,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 163684,
@@ -6699,14 +6931,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 158611,
-      "num": 158611,
-      "word": "哈尔滨的企鹅真的满街跑",
-      "onboard_time": 1673455045,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 158575,
       "num": 158575,
       "word": "中国20年培养了6000万名工程师",
@@ -6739,14 +6963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157739,
-      "num": 157739,
-      "word": "为什么阳了后会失眠",
-      "onboard_time": 1673479402,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157683,
       "num": 157683,
       "word": "9件事减轻阳康脑雾症状",
@@ -6761,6 +6977,14 @@
       "onboard_time": 1673230165,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157584,
+      "num": 157584,
+      "word": "谢之遥晋升许红豆未过门的老公",
+      "onboard_time": 1673482468,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 157267,
@@ -6921,6 +7145,14 @@
       "onboard_time": 1673176772,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150452,
+      "num": 150452,
+      "word": "如何看待打工人精神离职",
+      "onboard_time": 1673486188,
+      "rank": 46,
+      "category": "社会议题"
     },
     {
       "raw_hot": 150146,
@@ -7299,6 +7531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131239,
+      "num": 131239,
+      "word": "曼城联赛杯爆冷出局",
+      "onboard_time": 1673482409,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129831,
       "num": 129831,
       "word": "快递小哥多少有点全能",
@@ -7481,14 +7721,6 @@
       "onboard_time": 1673450253,
       "rank": 47,
       "category": "动漫,情感"
-    },
-    {
-      "raw_hot": 120542,
-      "num": 120542,
-      "word": "原来狗子晕车是这样的",
-      "onboard_time": 1673479341,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 120289,
@@ -7808,14 +8040,6 @@
       "word": "世界九成小提琴是中国制造",
       "onboard_time": 1673226448,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101316,
-      "num": 101316,
-      "word": "为什么明星都想演大男主大女主",
-      "onboard_time": 1673479882,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
