@@ -1,0 +1,410 @@
+{
+  "runTime": 1673494454562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2224124,
+        "num": 2224124,
+        "word": "建议将春节假期延长至9天",
+        "onboard_time": 1673486550,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1114894,
+        "num": 1114894,
+        "word": "赵樱子被网友说是迪幂孟扎的照片",
+        "onboard_time": 1673491291,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49280,
+        "num": 1109569,
+        "word": "如何科学稳妥地恢复运动",
+        "onboard_time": 1673445578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1108199,
+        "num": 1108199,
+        "word": "前夫接孩子带走2儿子独留女儿",
+        "onboard_time": 1673488706,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987138,
+        "num": 987138,
+        "word": "韩方回应自华入境涉嫌歧视中国人问题",
+        "onboard_time": 1673489727,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936028,
+        "num": 936028,
+        "word": "女子上班第一天因已婚被辞",
+        "onboard_time": 1673490928,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831339,
+        "num": 831339,
+        "word": "米哈游辟谣年终奖108薪",
+        "onboard_time": 1673490089,
+        "rank": 6,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 799945,
+        "num": 799945,
+        "word": "阳过一次管多久",
+        "onboard_time": 1673480423,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685109,
+        "num": 685109,
+        "word": "甄嬛传新功能一键跳过甘露寺",
+        "onboard_time": 1673493868,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522245,
+        "num": 522245,
+        "word": "地磁暴",
+        "onboard_time": 1673478981,
+        "rank": 9,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 769729,
+        "num": 520199,
+        "word": "刘鑫已成被执行人",
+        "onboard_time": 1673493269,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626867,
+        "num": 520190,
+        "word": "当男演员们遇上刘亦菲",
+        "onboard_time": 1673485709,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 507510,
+        "num": 507510,
+        "word": "90后也开始报复性存钱",
+        "onboard_time": 1673486848,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467279,
+        "num": 467279,
+        "word": "5000人冒雨上山搜寻胡鑫宇",
+        "onboard_time": 1673493688,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462602,
+        "num": 462602,
+        "word": "男子恋爱俩2个月才知女友45岁",
+        "onboard_time": 1673492545,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460469,
+        "num": 460469,
+        "word": "天龙八部之乔峰传定档大年三十",
+        "onboard_time": 1673493028,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399763,
+        "num": 399763,
+        "word": "专家不建议春节期间探访未阳老人",
+        "onboard_time": 1673475975,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383686,
+        "num": 383686,
+        "word": "谢之遥深情告别许红豆",
+        "onboard_time": 1673491046,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344306,
+        "num": 344306,
+        "word": "给中国游客挂牌子别怪我们反制",
+        "onboard_time": 1673470572,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325987,
+        "num": 325987,
+        "word": "时代少年团全球华语音乐流行榜年度最佳团体",
+        "onboard_time": 1673490567,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325923,
+        "num": 325923,
+        "word": "别再怪粉丝非理性",
+        "onboard_time": 1673479402,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 316991,
+        "num": 316991,
+        "word": "内马尔 黄牌",
+        "onboard_time": 1673486726,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315211,
+        "num": 315211,
+        "word": "TWICE全员新歌预告照",
+        "onboard_time": 1673493208,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274134,
+        "num": 274134,
+        "word": "苹果正开发触摸屏Mac电脑",
+        "onboard_time": 1673488348,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 268901,
+        "num": 268901,
+        "word": "种植牙万元时代即将结束",
+        "onboard_time": 1673482529,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244093,
+        "num": 244093,
+        "word": "赵丽颖说我们一起过大年",
+        "onboard_time": 1673490750,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235860,
+        "num": 235860,
+        "word": "花落 AG",
+        "onboard_time": 1673483550,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230637,
+        "num": 230637,
+        "word": "梅西2023年首球",
+        "onboard_time": 1673480304,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230580,
+        "num": 230580,
+        "word": "你最期待谁的兔限皮肤",
+        "onboard_time": 1673491948,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228504,
+        "num": 228504,
+        "word": "这猫怎么是花臂啊",
+        "onboard_time": 1673481448,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215451,
+        "num": 215451,
+        "word": "肖铎自己把自己哄好了",
+        "onboard_time": 1673492248,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210899,
+        "num": 210899,
+        "word": "南得霄亭终于霄亭了",
+        "onboard_time": 1673490750,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210272,
+        "num": 210272,
+        "word": "YG新女团成员haramlive实力",
+        "onboard_time": 1673483669,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199421,
+        "num": 199421,
+        "word": "红豆遥遥冰会be吗",
+        "onboard_time": 1673493868,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184845,
+        "num": 184845,
+        "word": "新娘妈妈低头落泪不敢与女儿对视",
+        "onboard_time": 1673487811,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192734,
+        "num": 184269,
+        "word": "热剧烂尾有多难受",
+        "onboard_time": 1673480906,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183549,
+        "num": 183549,
+        "word": "女儿回娘家爸妈没认出推销还收费",
+        "onboard_time": 1673494167,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174350,
+        "num": 174350,
+        "word": "鹅鸭杀开服",
+        "onboard_time": 1673490030,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174233,
+        "num": 174233,
+        "word": "小朋友看红楼梦为奶奶复刻同款粥",
+        "onboard_time": 1673492007,
+        "rank": 38,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 169607,
+        "num": 169607,
+        "word": "全美航班停飞原因曝光",
+        "onboard_time": 1673456602,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193948,
+        "num": 168765,
+        "word": "王凯谭松韵聚餐",
+        "onboard_time": 1673494167,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193197,
+        "num": 167996,
+        "word": "少年歌行今晚加更",
+        "onboard_time": 1673491529,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166891,
+        "num": 166891,
+        "word": "广东年例带箱饮料就能吃大餐",
+        "onboard_time": 1673493508,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155827,
+        "num": 155827,
+        "word": "奥比岛",
+        "onboard_time": 1673492909,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149335,
+        "num": 149335,
+        "word": "会玩老鹰抓小鸡的狗狗",
+        "onboard_time": 1673494167,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146304,
+        "num": 146304,
+        "word": "1岁半萌娃返乡过年下车奔向太爷爷",
+        "onboard_time": 1673489247,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145552,
+        "num": 145552,
+        "word": "大坂直美宣布怀孕",
+        "onboard_time": 1673484090,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142706,
+        "num": 142706,
+        "word": "韩媒称中国游客在泰国享受国宾待遇",
+        "onboard_time": 1673439336,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 142023,
+        "num": 142023,
+        "word": "爱奇艺APP限制投屏",
+        "onboard_time": 1673444678,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 140634,
+        "num": 140634,
+        "word": "江母申请强制执行刘暖曦案已立案",
+        "onboard_time": 1673475614,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#治国必先治党党兴才能国强#"
+    }
+  }
+}
