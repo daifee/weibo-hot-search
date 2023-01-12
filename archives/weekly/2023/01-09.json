@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673547877408,
+  "endTime": 1673548751919,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -10299,6 +10299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84809,
+      "num": 80246,
+      "word": "王栎鑫 我不选大美女难道选苏醒吗",
+      "onboard_time": 1673545936,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84076,
       "num": 84076,
       "word": "国考",
@@ -10313,14 +10321,6 @@
       "onboard_time": 1673190877,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 82341,
-      "num": 80246,
-      "word": "王栎鑫 我不选大美女难道选苏醒吗",
-      "onboard_time": 1673545936,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 81968,
@@ -10499,8 +10499,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 31926,
-      "num": 31926,
+      "raw_hot": 37608,
+      "num": 37608,
       "word": "用筷子自制剥瓜子神器",
       "onboard_time": 1673544979,
       "rank": 47,
