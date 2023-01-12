@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673515272185,
+  "endTime": 1673516113928,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 1781535,
-      "num": 394024,
+      "num": 414747,
       "word": "郭碧婷ins取关向佐",
       "onboard_time": 1673513368,
       "rank": 10,
@@ -1035,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 931671,
+      "num": 931671,
+      "word": "尹锡悦要求韩外交部向中方解释",
+      "onboard_time": 1673513185,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 931452,
       "num": 931452,
       "word": "王楚钦",
@@ -1433,14 +1441,6 @@
       "onboard_time": 1673482529,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 771344,
-      "num": 388376,
-      "word": "尹锡悦要求韩外交部向中方解释",
-      "onboard_time": 1673513185,
-      "rank": 11,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 766728,
@@ -2563,6 +2563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498428,
+      "num": 498428,
+      "word": "郑嘉颖三胎得子",
+      "onboard_time": 1673513788,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497853,
       "num": 497853,
       "word": "小夫妻阵容官宣",
@@ -2737,14 +2745,6 @@
       "onboard_time": 1673406869,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 477181,
-      "num": 236961,
-      "word": "郑嘉颖三胎得子",
-      "onboard_time": 1673513788,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 476323,
@@ -3523,6 +3523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389978,
+      "num": 229875,
+      "word": "王子文演青年叶文洁",
+      "onboard_time": 1673515109,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388553,
       "num": 388553,
       "word": "乙类乙管为何不提前到夏天",
@@ -3577,6 +3585,14 @@
       "onboard_time": 1673265028,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 384800,
+      "num": 228695,
+      "word": "南得霄亭开启同居",
+      "onboard_time": 1673515707,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 383968,
@@ -5171,6 +5187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 281153,
+      "num": 172143,
+      "word": "郑恺苗苗相敬如宾的相处方式",
+      "onboard_time": 1673515049,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281011,
       "num": 281011,
       "word": "TTG驯服四肢全记录",
@@ -5209,14 +5233,6 @@
       "onboard_time": 1673411132,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 277938,
-      "num": 172143,
-      "word": "郑恺苗苗相敬如宾的相处方式",
-      "onboard_time": 1673515049,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 277921,
@@ -5369,14 +5385,6 @@
       "onboard_time": 1673276672,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 269485,
-      "num": 163260,
-      "word": "王子文演青年叶文洁",
-      "onboard_time": 1673515109,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 268730,
@@ -5633,6 +5641,14 @@
       "onboard_time": 1673483610,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253178,
+      "num": 253178,
+      "word": "爱奇艺客服回应APP限制投屏",
+      "onboard_time": 1673511928,
+      "rank": 34,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 252185,
@@ -6131,6 +6147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230373,
+      "num": 230373,
+      "word": "地铁跑酷",
+      "onboard_time": 1673514629,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230236,
       "num": 230236,
       "word": "小狗被抱养一个月狗妈妈突然出现",
@@ -6145,14 +6169,6 @@
       "onboard_time": 1673309488,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 229701,
-      "num": 229701,
-      "word": "爱奇艺客服回应APP限制投屏",
-      "onboard_time": 1673511928,
-      "rank": 34,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 229339,
@@ -6184,6 +6200,14 @@
       "word": "男子鱼刺卡喉反复按压致脑梗",
       "onboard_time": 1673413174,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226369,
+      "num": 226369,
+      "word": "王思聪疑因打人被拘提请行政复议",
+      "onboard_time": 1673515168,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -6963,6 +6987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194013,
+      "num": 194013,
+      "word": "男子情绪崩溃在医院走廊连扇耳光",
+      "onboard_time": 1673514629,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193408,
       "num": 193408,
       "word": "曼城4比0切尔西",
@@ -7209,6 +7241,14 @@
       "onboard_time": 1673314468,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184885,
+      "num": 184885,
+      "word": "狗狗是懂吵架要先预热的",
+      "onboard_time": 1673515109,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 184712,
@@ -7523,14 +7563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173849,
-      "num": 173849,
-      "word": "地铁跑酷",
-      "onboard_time": 1673514629,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 173833,
       "num": 173833,
       "word": "刘彦平一审被判死缓",
@@ -7595,6 +7627,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 171703,
+      "num": 171703,
+      "word": "为什么要和喜欢的人看初雪",
+      "onboard_time": 1673514387,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171539,
       "num": 171539,
       "word": "110警察节",
@@ -7617,14 +7657,6 @@
       "onboard_time": 1673402128,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169907,
-      "num": 169907,
-      "word": "为什么要和喜欢的人看初雪",
-      "onboard_time": 1673514387,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 169479,
@@ -7803,6 +7835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164029,
+      "num": 164029,
+      "word": "驻韩大使回应中国公民入境韩国问题",
+      "onboard_time": 1673515769,
+      "rank": 37,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 163684,
       "num": 163684,
       "word": "BLG新阵容抽卡",
@@ -7873,6 +7913,14 @@
       "onboard_time": 1673252550,
       "rank": 46,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 160230,
+      "num": 160230,
+      "word": "国内首个文旅沉浸式数字化云平台发布",
+      "onboard_time": 1673515468,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 159802,
@@ -8179,14 +8227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148155,
-      "num": 148155,
-      "word": "男子情绪崩溃在医院走廊连扇耳光",
-      "onboard_time": 1673514629,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148152,
       "num": 148152,
       "word": "俄拟立法允许盗版好莱坞大片合法上映",
@@ -8339,14 +8379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 141634,
-      "num": 141634,
-      "word": "狗狗是懂吵架要先预热的",
-      "onboard_time": 1673515109,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 141433,
       "num": 141433,
       "word": "聚焦2023四川两会",
@@ -8491,14 +8523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135996,
-      "num": 135996,
-      "word": "王思聪疑因打人被拘提请行政复议",
-      "onboard_time": 1673515168,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135860,
       "num": 135860,
       "word": "1米85男子被妻子气哭盖被抽泣",
@@ -8585,6 +8609,14 @@
       "onboard_time": 1673482409,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130838,
+      "num": 130838,
+      "word": "律师称达成和解王某某将免于处罚",
+      "onboard_time": 1673515947,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129831,
@@ -9505,6 +9537,14 @@
       "onboard_time": 1673457080,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 49314,
+      "num": 965537,
+      "word": "我国海水稻种植面积突破百万亩",
+      "onboard_time": 1673515409,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49068,

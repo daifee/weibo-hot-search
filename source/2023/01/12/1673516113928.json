@@ -1,0 +1,410 @@
+{
+  "runTime": 1673516113928,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2213643,
+        "num": 2213643,
+        "word": "权威人士称上海打人者王某某系王思聪",
+        "onboard_time": 1673500476,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1079474,
+        "num": 1079474,
+        "word": "韩媒称中国游客不来韩国商家认栽",
+        "onboard_time": 1673505689,
+        "rank": 1,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 49314,
+        "num": 965537,
+        "word": "我国海水稻种植面积突破百万亩",
+        "onboard_time": 1673515409,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931671,
+        "num": 931671,
+        "word": "尹锡悦要求韩外交部向中方解释",
+        "onboard_time": 1673513185,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 658342,
+        "num": 658342,
+        "word": "许佳琪想约迪丽热巴蒸桑拿",
+        "onboard_time": 1673506107,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538717,
+        "num": 538717,
+        "word": "印尼已为中国游客准备好红毯",
+        "onboard_time": 1673506769,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 502171,
+        "num": 502171,
+        "word": "33岁女子生3女儿后4胎得子",
+        "onboard_time": 1673496449,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498428,
+        "num": 498428,
+        "word": "郑嘉颖三胎得子",
+        "onboard_time": 1673513788,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450786,
+        "num": 450786,
+        "word": "建议将春节假期延长至9天",
+        "onboard_time": 1673486550,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417545,
+        "num": 417545,
+        "word": "00后会消灭酒桌文化吗",
+        "onboard_time": 1673497832,
+        "rank": 9,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 1357715,
+        "num": 414747,
+        "word": "郭碧婷ins取关向佐",
+        "onboard_time": 1673513368,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393652,
+        "num": 393652,
+        "word": "50岁外公抱2个月外孙女村里炫耀",
+        "onboard_time": 1673503529,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338361,
+        "num": 338361,
+        "word": "大叔火车站帮女生提20斤行李箱下楼",
+        "onboard_time": 1673505929,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 491601,
+        "num": 316765,
+        "word": "奥斯卡vlog疑似有与女生亲吻照",
+        "onboard_time": 1673508448,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276359,
+        "num": 276359,
+        "word": "傻子瓜子创始人年广九逝世",
+        "onboard_time": 1673510910,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269806,
+        "num": 269806,
+        "word": "Ming回应缺席RNG大名单",
+        "onboard_time": 1673507431,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 458193,
+        "num": 268441,
+        "word": "许嵩冯禧逛街拥抱",
+        "onboard_time": 1673508328,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257629,
+        "num": 257629,
+        "word": "熊猫毛实在太扎手",
+        "onboard_time": 1673505148,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253178,
+        "num": 253178,
+        "word": "爱奇艺客服回应APP限制投屏",
+        "onboard_time": 1673511928,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 230373,
+        "num": 230373,
+        "word": "地铁跑酷",
+        "onboard_time": 1673514629,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 389978,
+        "num": 229875,
+        "word": "王子文演青年叶文洁",
+        "onboard_time": 1673515109,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384800,
+        "num": 228695,
+        "word": "南得霄亭开启同居",
+        "onboard_time": 1673515707,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349172,
+        "num": 228142,
+        "word": "甄嬛传新功能一键跳过甘露寺",
+        "onboard_time": 1673493868,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226442,
+        "num": 226442,
+        "word": "辅酶Q10搜索量暴涨2500%",
+        "onboard_time": 1673499937,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 226369,
+        "num": 226369,
+        "word": "王思聪疑因打人被拘提请行政复议",
+        "onboard_time": 1673515168,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201340,
+        "num": 201340,
+        "word": "2型糖尿病人工胰腺试验成功",
+        "onboard_time": 1673506587,
+        "rank": 25,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 198394,
+        "num": 198394,
+        "word": "北京下雪",
+        "onboard_time": 1673502331,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194013,
+        "num": 194013,
+        "word": "男子情绪崩溃在医院走廊连扇耳光",
+        "onboard_time": 1673514629,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188870,
+        "num": 188870,
+        "word": "5000人冒雨上山搜寻胡鑫宇",
+        "onboard_time": 1673493688,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184885,
+        "num": 184885,
+        "word": "狗狗是懂吵架要先预热的",
+        "onboard_time": 1673515109,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339020,
+        "num": 184332,
+        "word": "王心凌追完了星汉灿烂卿卿日常",
+        "onboard_time": 1673505689,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313954,
+        "num": 183019,
+        "word": "盘点王思聪资本版图",
+        "onboard_time": 1673504609,
+        "rank": 31,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 303705,
+        "num": 181612,
+        "word": "金元植疑似逃兵役",
+        "onboard_time": 1673507189,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292052,
+        "num": 178550,
+        "word": "三体电视剧定档0115",
+        "onboard_time": 1673507668,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178513,
+        "num": 178513,
+        "word": "上海市消保委点名爱奇艺限制投屏不厚道",
+        "onboard_time": 1673502153,
+        "rank": 34,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 171703,
+        "num": 171703,
+        "word": "为什么要和喜欢的人看初雪",
+        "onboard_time": 1673514387,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167544,
+        "num": 167544,
+        "word": "奶奶带孙子盐蒸宝妈担心娃受不了",
+        "onboard_time": 1673514029,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164029,
+        "num": 164029,
+        "word": "驻韩大使回应中国公民入境韩国问题",
+        "onboard_time": 1673515769,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 162700,
+        "num": 162700,
+        "word": "米哈游商业版图",
+        "onboard_time": 1673506289,
+        "rank": 38,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 160230,
+        "num": 160230,
+        "word": "国内首个文旅沉浸式数字化云平台发布",
+        "onboard_time": 1673515468,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 281153,
+        "num": 160074,
+        "word": "郑恺苗苗相敬如宾的相处方式",
+        "onboard_time": 1673515049,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269187,
+        "num": 160060,
+        "word": "2022尖叫之夜阵容官宣",
+        "onboard_time": 1673509110,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239688,
+        "num": 159986,
+        "word": "三体",
+        "onboard_time": 1673499452,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159865,
+        "num": 159865,
+        "word": "女子上班第一天因已婚被辞",
+        "onboard_time": 1673490928,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158158,
+        "num": 158158,
+        "word": "上海警方通报王某某等殴打路人",
+        "onboard_time": 1673497173,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 152574,
+        "num": 152574,
+        "word": "刘鑫已成被执行人",
+        "onboard_time": 1673493269,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145596,
+        "num": 145596,
+        "word": "已婚未孕不应成为求职的阻碍",
+        "onboard_time": 1673500176,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136115,
+        "num": 136115,
+        "word": "算是把同事关系整明白了",
+        "onboard_time": 1673499274,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132773,
+        "num": 132773,
+        "word": "多国政要官员向中国游客发出邀请函",
+        "onboard_time": 1673511207,
+        "rank": 48,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 130838,
+        "num": 130838,
+        "word": "律师称达成和解王某某将免于处罚",
+        "onboard_time": 1673515947,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#构筑起保健康防重症的坚实防线#"
+    }
+  }
+}
