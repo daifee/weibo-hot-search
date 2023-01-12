@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673555677671,
+  "endTime": 1673558248764,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -10537,6 +10537,14 @@
       "onboard_time": 1673468832,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 12514,
+      "num": 12514,
+      "word": "北京初雪解放军仪仗兵雪中训练",
+      "onboard_time": 1673553312,
+      "rank": 49,
+      "category": "社会新闻,军事"
     }
   ],
   "hotgov_list": [
