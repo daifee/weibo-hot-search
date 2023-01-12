@@ -1,0 +1,410 @@
+{
+  "runTime": 1673552016976,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 157931,
+        "num": 157931,
+        "word": "大学时期的赵露思",
+        "onboard_time": 1673540665,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154133,
+        "num": 154133,
+        "word": "王思聪疑因打人被拘提请行政复议",
+        "onboard_time": 1673515168,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 23504,
+        "num": 121666,
+        "word": "2023年第一场雪",
+        "onboard_time": 1673509168,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113128,
+        "num": 113128,
+        "word": "印度16岁少女枪击性侵者母亲",
+        "onboard_time": 1673535390,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100954,
+        "num": 100954,
+        "word": "胡鑫宇家乡镇长回应冒雨拉网式搜寻",
+        "onboard_time": 1673542043,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87316,
+        "num": 87316,
+        "word": "武大拟对10研究生退学处理",
+        "onboard_time": 1673538689,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 86202,
+        "num": 86202,
+        "word": "天津一烧烤店结账只收现金",
+        "onboard_time": 1673535272,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82328,
+        "num": 82328,
+        "word": "TheShy多个韩服号被永封",
+        "onboard_time": 1673536535,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80696,
+        "num": 80696,
+        "word": "王鹤棣让工作人员拍自己和粉丝的合照",
+        "onboard_time": 1673541208,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78511,
+        "num": 78511,
+        "word": "去世爷爷手机每页都空出孙子的脸",
+        "onboard_time": 1673530771,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296644,
+        "num": 75157,
+        "word": "22岁女生熟睡时从学校宿舍上铺坠亡",
+        "onboard_time": 1673535092,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 69101,
+        "num": 69101,
+        "word": "45岁女子带5个孩子嫁给初恋",
+        "onboard_time": 1673533051,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66670,
+        "num": 66670,
+        "word": "大叔做高跟鞋脚模试穿狂奔月入600万",
+        "onboard_time": 1673532391,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64495,
+        "num": 64495,
+        "word": "大叔医院扔下10万元转身就走",
+        "onboard_time": 1673535512,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62259,
+        "num": 62259,
+        "word": "黑莲花",
+        "onboard_time": 1673533773,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61970,
+        "num": 61970,
+        "word": "王栎鑫 我不选大美女难道选苏醒吗",
+        "onboard_time": 1673545936,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59504,
+        "num": 59504,
+        "word": "骗TangoZ萧逸是我男朋友",
+        "onboard_time": 1673524112,
+        "rank": 16,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 55397,
+        "num": 55397,
+        "word": "缅甸枭龙战机越境空袭印度",
+        "onboard_time": 1673536595,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 52756,
+        "num": 52756,
+        "word": "扬州通报干部作风问题",
+        "onboard_time": 1673532691,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52091,
+        "num": 52091,
+        "word": "异地恋真的走不到最后吗",
+        "onboard_time": 1673541565,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56036,
+        "num": 52084,
+        "word": "郑恺没见过苗苗跳古典舞",
+        "onboard_time": 1673541685,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46369,
+        "num": 46369,
+        "word": "内娱唱演俱佳的明星",
+        "onboard_time": 1673531071,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44377,
+        "num": 44377,
+        "word": "女子回应前夫只接走2儿子独留女儿",
+        "onboard_time": 1673534492,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43751,
+        "num": 43751,
+        "word": "官方称1888万天价彩礼初步判断系杜撰",
+        "onboard_time": 1673520390,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38407,
+        "num": 38407,
+        "word": "网友福建偶遇赵丽颖",
+        "onboard_time": 1673541625,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34746,
+        "num": 34746,
+        "word": "安贤洙迈出回韩国执教第一步",
+        "onboard_time": 1673534193,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32391,
+        "num": 32391,
+        "word": "英日两国将允许相互驻军",
+        "onboard_time": 1673534013,
+        "rank": 26,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 31773,
+        "num": 31773,
+        "word": "原来木工可以做得这么可爱",
+        "onboard_time": 1673539170,
+        "rank": 27,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 28418,
+        "num": 28418,
+        "word": "韩总统室表示与尹锡悦拥核言论保持距离",
+        "onboard_time": 1673538030,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 26679,
+        "num": 26679,
+        "word": "去世母亲的每件财物都标注儿女名字",
+        "onboard_time": 1673534972,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37405,
+        "num": 26609,
+        "word": "少年歌行杀疯了",
+        "onboard_time": 1673525250,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33366,
+        "num": 26556,
+        "word": "金泰妍中文新歌",
+        "onboard_time": 1673538571,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32843,
+        "num": 26514,
+        "word": "爱奇艺回应上海市消保委点名不厚道",
+        "onboard_time": 1673519251,
+        "rank": 32,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 31676,
+        "num": 26392,
+        "word": "用筷子自制剥瓜子神器",
+        "onboard_time": 1673544979,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29885,
+        "num": 26379,
+        "word": "权威人士称上海打人者王某某系王思聪",
+        "onboard_time": 1673500476,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 29119,
+        "num": 26245,
+        "word": "大结局了顾南亭依然没有长嘴",
+        "onboard_time": 1673544620,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26236,
+        "num": 26236,
+        "word": "研究显示25万年来爸爸总比妈妈大",
+        "onboard_time": 1673525190,
+        "rank": 36,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 25902,
+        "num": 25902,
+        "word": "女子就餐花40多块点肥肠发现有粪便",
+        "onboard_time": 1673523329,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24461,
+        "num": 24461,
+        "word": "前巴萨高层辱骂梅西",
+        "onboard_time": 1673524531,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24108,
+        "num": 24108,
+        "word": "爱奇艺上线远程为父母付款功能",
+        "onboard_time": 1673526990,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 26322,
+        "num": 24014,
+        "word": "沈月范世錡沉默的5秒钟",
+        "onboard_time": 1673540248,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23610,
+        "num": 23610,
+        "word": "大麦离开有风小院",
+        "onboard_time": 1673539408,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21560,
+        "num": 21560,
+        "word": "泰国旅游业为什么喜欢中国人",
+        "onboard_time": 1673522430,
+        "rank": 42,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 21264,
+        "num": 21264,
+        "word": "尹锡悦要求韩外交部向中方解释",
+        "onboard_time": 1673513185,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 20789,
+        "num": 20789,
+        "word": "AG菲菲",
+        "onboard_time": 1673532032,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19096,
+        "num": 19096,
+        "word": "给小狗买衣服买大了",
+        "onboard_time": 1673537132,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 18305,
+        "num": 18305,
+        "word": "过年就别再催婚了",
+        "onboard_time": 1673529090,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17723,
+        "num": 17723,
+        "word": "中国用2500度高温焊接出地下巨无霸",
+        "onboard_time": 1673539831,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 16524,
+        "num": 16524,
+        "word": "韦峰",
+        "onboard_time": 1673535872,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15880,
+        "num": 15880,
+        "word": "这居然不是狗",
+        "onboard_time": 1673536054,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#健全全面从严治党体系#"
+    }
+  }
+}
