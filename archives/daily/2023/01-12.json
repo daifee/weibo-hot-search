@@ -1,6 +1,6 @@
 {
   "startTime": 1673454894759,
-  "endTime": 1673523258396,
+  "endTime": 1673527100514,
   "band_list": [
     {
       "raw_hot": 5962374,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2549283,
-      "num": 577046,
+      "num": 1025281,
       "word": "郭碧婷ins取关向佐",
       "onboard_time": 1673513368,
       "rank": 10,
@@ -64,6 +64,14 @@
       "word": "33岁女子生3女儿后4胎得子",
       "onboard_time": 1673496449,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1636463,
+      "num": 1636463,
+      "word": "王思聪疑因打人被拘提请行政复议",
+      "onboard_time": 1673515168,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -107,6 +115,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1310698,
+      "num": 1310698,
+      "word": "爱奇艺回应上海市消保委点名不厚道",
+      "onboard_time": 1673519251,
+      "rank": 29,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1296529,
       "num": 1296529,
       "word": "韩媒称中国游客不来韩国商家认栽",
@@ -137,14 +153,6 @@
       "onboard_time": 1673506107,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1225835,
-      "num": 1225835,
-      "word": "爱奇艺回应上海市消保委点名不厚道",
-      "onboard_time": 1673519251,
-      "rank": 29,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1152681,
@@ -203,6 +211,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 961270,
+      "num": 961270,
+      "word": "少年歌行杀疯了",
+      "onboard_time": 1673525250,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 936028,
       "num": 936028,
       "word": "女子上班第一天因已婚被辞",
@@ -217,6 +233,14 @@
       "onboard_time": 1673508448,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 928253,
+      "num": 449129,
+      "word": "女子就餐花40多块点肥肠发现有粪便",
+      "onboard_time": 1673523329,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 915249,
@@ -259,6 +283,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 801673,
+      "num": 438147,
+      "word": "骗TangoZ萧逸是我男朋友",
+      "onboard_time": 1673524112,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 783515,
+      "num": 622076,
+      "word": "刘芸不让郑钧唱灰姑娘",
+      "onboard_time": 1673521349,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 782341,
       "num": 782341,
       "word": "种植牙万元时代即将结束",
@@ -281,14 +321,6 @@
       "onboard_time": 1673439336,
       "rank": 3,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 751635,
-      "num": 751635,
-      "word": "王思聪疑因打人被拘提请行政复议",
-      "onboard_time": 1673515168,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 751580,
@@ -387,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 642649,
+      "num": 642649,
+      "word": "前巴萨高层辱骂梅西",
+      "onboard_time": 1673524531,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 639975,
       "num": 639975,
       "word": "少爷和我和倪大红",
@@ -401,14 +441,6 @@
       "onboard_time": 1673508328,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 622076,
-      "num": 622076,
-      "word": "刘芸不让郑钧唱灰姑娘",
-      "onboard_time": 1673521349,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 604942,
@@ -457,6 +489,14 @@
       "onboard_time": 1673499452,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 548182,
+      "num": 548182,
+      "word": "泰国旅游业为什么喜欢中国人",
+      "onboard_time": 1673522430,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 539557,
@@ -547,6 +587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 462891,
+      "num": 462891,
+      "word": "研究显示25万年来爸爸总比妈妈大",
+      "onboard_time": 1673525190,
+      "rank": 8,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 462602,
       "num": 462602,
       "word": "男子恋爱俩2个月才知女友45岁",
@@ -555,12 +603,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461212,
+      "num": 252131,
+      "word": "白鹿张凌赫加盟尖叫之夜",
+      "onboard_time": 1673522908,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460652,
       "num": 460652,
       "word": "辅酶Q10搜索量暴涨2500%",
       "onboard_time": 1673499937,
       "rank": 44,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 460616,
+      "num": 419597,
+      "word": "红军报名时的身高标线看着心疼",
+      "onboard_time": 1673522548,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460469,
@@ -635,14 +699,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 417337,
-      "num": 212845,
-      "word": "白鹿张凌赫加盟尖叫之夜",
-      "onboard_time": 1673522908,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 414036,
       "num": 414036,
       "word": "谢之遥深情告别许红豆",
@@ -697,6 +753,14 @@
       "onboard_time": 1673500476,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 390821,
+      "num": 249845,
+      "word": "张若昀话说早了",
+      "onboard_time": 1673523149,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 389978,
@@ -776,6 +840,14 @@
       "word": "熊猫毛实在太扎手",
       "onboard_time": 1673505148,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362980,
+      "num": 362980,
+      "word": "胡鑫宇舅舅称如果他存在就该有痕迹",
+      "onboard_time": 1673525610,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -971,12 +1043,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299760,
+      "num": 299760,
+      "word": "73岁保安徒手接住4楼坠落女子",
+      "onboard_time": 1673522310,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 298754,
       "num": 298754,
       "word": "广东年例带箱饮料就能吃大餐",
       "onboard_time": 1673493508,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297353,
+      "num": 153937,
+      "word": "向风而行有第二部吗",
+      "onboard_time": 1673523872,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 288122,
@@ -1147,12 +1235,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 259992,
+      "num": 147002,
+      "word": "狂飙定档1月14日",
+      "onboard_time": 1673526209,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256372,
       "num": 256372,
       "word": "狗子是懂用屁股的",
       "onboard_time": 1673496392,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 256067,
+      "num": 145700,
+      "word": "涂松岩说刘亦菲李现很好很可爱",
+      "onboard_time": 1673526630,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 255552,
@@ -1185,6 +1289,14 @@
       "onboard_time": 1673483610,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252229,
+      "num": 252229,
+      "word": "这个世界好离谱",
+      "onboard_time": 1673521648,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 251970,
@@ -1835,14 +1947,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 150301,
-      "num": 140683,
-      "word": "这个世界好离谱",
-      "onboard_time": 1673521648,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 149335,
       "num": 149335,
       "word": "会玩老鹰抓小鸡的狗狗",
@@ -1915,20 +2019,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139988,
-      "num": 139988,
-      "word": "73岁保安徒手接住4楼坠落女子",
-      "onboard_time": 1673522310,
-      "rank": 47,
-      "category": "社会正能量"
+      "raw_hot": 139700,
+      "num": 139700,
+      "word": "北控男篮vs广东男篮",
+      "onboard_time": 1673526390,
+      "rank": 36,
+      "category": "体育"
     },
     {
-      "raw_hot": 136895,
-      "num": 136895,
-      "word": "泰国旅游业为什么喜欢中国人",
-      "onboard_time": 1673522430,
-      "rank": 49,
-      "category": "旅游,社会新闻"
+      "raw_hot": 137286,
+      "num": 137286,
+      "word": "泰国优惠酒店一房难求",
+      "onboard_time": 1673525369,
+      "rank": 37,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 136148,
@@ -2091,12 +2195,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 114048,
-      "num": 114048,
-      "word": "红军报名时的身高标线看着心疼",
-      "onboard_time": 1673522548,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 113871,
+      "num": 113871,
+      "word": "超6成东北人想去三亚过年",
+      "onboard_time": 1673526867,
+      "rank": 42,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 111256,
+      "num": 111256,
+      "word": "喜欢把猫咪藏起来的狗狗",
+      "onboard_time": 1673526209,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 111166,
@@ -2116,7 +2228,7 @@
     },
     {
       "raw_hot": 107931,
-      "num": 965537,
+      "num": 1072194,
       "word": "我国海水稻种植面积突破百万亩",
       "onboard_time": 1673515409,
       "rank": 2,
@@ -2217,6 +2329,22 @@
       "onboard_time": 1673451036,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 89139,
+      "num": 89139,
+      "word": "师父粤语配音即将上线",
+      "onboard_time": 1673523754,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 85877,
+      "num": 85877,
+      "word": "爱奇艺上线远程为父母付款功能",
+      "onboard_time": 1673526990,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 83107,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1673527100514,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1636463,
+        "num": 1636463,
+        "word": "王思聪疑因打人被拘提请行政复议",
+        "onboard_time": 1673515168,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1310698,
+        "num": 1310698,
+        "word": "爱奇艺回应上海市消保委点名不厚道",
+        "onboard_time": 1673519251,
+        "rank": 1,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 67815,
+        "num": 1072194,
+        "word": "我国海水稻种植面积突破百万亩",
+        "onboard_time": 1673515409,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1497131,
+        "num": 1025281,
+        "word": "郭碧婷ins取关向佐",
+        "onboard_time": 1673513368,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 961270,
+        "num": 961270,
+        "word": "少年歌行杀疯了",
+        "onboard_time": 1673525250,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 642649,
+        "num": 642649,
+        "word": "前巴萨高层辱骂梅西",
+        "onboard_time": 1673524531,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 605207,
+        "num": 605207,
+        "word": "官方称1888万天价彩礼初步判断系杜撰",
+        "onboard_time": 1673520390,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548182,
+        "num": 548182,
+        "word": "泰国旅游业为什么喜欢中国人",
+        "onboard_time": 1673522430,
+        "rank": 7,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 462891,
+        "num": 462891,
+        "word": "研究显示25万年来爸爸总比妈妈大",
+        "onboard_time": 1673525190,
+        "rank": 8,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 452260,
+        "num": 452260,
+        "word": "男子情绪崩溃在医院走廊连扇耳光",
+        "onboard_time": 1673514629,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928253,
+        "num": 449129,
+        "word": "女子就餐花40多块点肥肠发现有粪便",
+        "onboard_time": 1673523329,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822743,
+        "num": 442268,
+        "word": "权威人士称上海打人者王某某系王思聪",
+        "onboard_time": 1673500476,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 801673,
+        "num": 438147,
+        "word": "骗TangoZ萧逸是我男朋友",
+        "onboard_time": 1673524112,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 783515,
+        "num": 431168,
+        "word": "刘芸不让郑钧唱灰姑娘",
+        "onboard_time": 1673521349,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460616,
+        "num": 419597,
+        "word": "红军报名时的身高标线看着心疼",
+        "onboard_time": 1673522548,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419248,
+        "num": 419248,
+        "word": "尹锡悦要求韩外交部向中方解释",
+        "onboard_time": 1673513185,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 386166,
+        "num": 386166,
+        "word": "韩国总统称未来可能部署核武器",
+        "onboard_time": 1673519553,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362980,
+        "num": 362980,
+        "word": "胡鑫宇舅舅称如果他存在就该有痕迹",
+        "onboard_time": 1673525610,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299760,
+        "num": 299760,
+        "word": "73岁保安徒手接住4楼坠落女子",
+        "onboard_time": 1673522310,
+        "rank": 18,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 252229,
+        "num": 252229,
+        "word": "这个世界好离谱",
+        "onboard_time": 1673521648,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 461212,
+        "num": 252131,
+        "word": "白鹿张凌赫加盟尖叫之夜",
+        "onboard_time": 1673522908,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390821,
+        "num": 249845,
+        "word": "张若昀话说早了",
+        "onboard_time": 1673523149,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389550,
+        "num": 240185,
+        "word": "2022尖叫之夜阵容官宣",
+        "onboard_time": 1673509110,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229429,
+        "num": 229429,
+        "word": "平台回应女子买牛肋排全是骨头",
+        "onboard_time": 1673521049,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225517,
+        "num": 225517,
+        "word": "韩媒称中国游客不来韩国商家认栽",
+        "onboard_time": 1673505689,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 207168,
+        "num": 207168,
+        "word": "江西萍乡民政局回应网传1888万彩礼",
+        "onboard_time": 1673518228,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189918,
+        "num": 189918,
+        "word": "兔年茅台生肖酒上市一周价格腰斩",
+        "onboard_time": 1673520453,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 183605,
+        "num": 183605,
+        "word": "Faker认为LCK整体比LPL强",
+        "onboard_time": 1673516185,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175532,
+        "num": 175532,
+        "word": "这是小狗该有的坐姿吗",
+        "onboard_time": 1673517209,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 163494,
+        "num": 163494,
+        "word": "律师称达成和解王某某将免于处罚",
+        "onboard_time": 1673515947,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348976,
+        "num": 160395,
+        "word": "王鹤棣看到都得愣一下",
+        "onboard_time": 1673520092,
+        "rank": 30,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 297353,
+        "num": 153937,
+        "word": "向风而行有第二部吗",
+        "onboard_time": 1673523872,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259992,
+        "num": 147002,
+        "word": "狂飙定档1月14日",
+        "onboard_time": 1673526209,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256067,
+        "num": 145700,
+        "word": "涂松岩说刘亦菲李现很好很可爱",
+        "onboard_time": 1673526630,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140333,
+        "num": 140333,
+        "word": "女子带娃上户口网逃丈夫当场被抓",
+        "onboard_time": 1673518831,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253432,
+        "num": 140287,
+        "word": "苏醒又做错了什么",
+        "onboard_time": 1673518287,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139700,
+        "num": 139700,
+        "word": "北控男篮vs广东男篮",
+        "onboard_time": 1673526390,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137286,
+        "num": 137286,
+        "word": "泰国优惠酒店一房难求",
+        "onboard_time": 1673525369,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 123546,
+        "num": 123546,
+        "word": "驻韩大使回应中国公民入境韩国问题",
+        "onboard_time": 1673515769,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 122184,
+        "num": 122184,
+        "word": "地铁跑酷",
+        "onboard_time": 1673514629,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243985,
+        "num": 120890,
+        "word": "郑嘉颖三胎得子",
+        "onboard_time": 1673513788,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118245,
+        "num": 118245,
+        "word": "经济学家称给百姓直接发钱弊大于利",
+        "onboard_time": 1673520092,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 113871,
+        "num": 113871,
+        "word": "超6成东北人想去三亚过年",
+        "onboard_time": 1673526867,
+        "rank": 42,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 113636,
+        "num": 113636,
+        "word": "傻子瓜子创始人年广九逝世",
+        "onboard_time": 1673510910,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112473,
+        "num": 112473,
+        "word": "小时候真的好想要这个",
+        "onboard_time": 1673519070,
+        "rank": 44,
+        "category": "情感,动漫"
+      },
+      {
+        "raw_hot": 111256,
+        "num": 111256,
+        "word": "喜欢把猫咪藏起来的狗狗",
+        "onboard_time": 1673526209,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95478,
+        "num": 95478,
+        "word": "为什么要和喜欢的人看初雪",
+        "onboard_time": 1673514387,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92122,
+        "num": 92122,
+        "word": "50岁外公抱2个月外孙女村里炫耀",
+        "onboard_time": 1673503529,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89139,
+        "num": 89139,
+        "word": "师父粤语配音即将上线",
+        "onboard_time": 1673523754,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85877,
+        "num": 85877,
+        "word": "爱奇艺上线远程为父母付款功能",
+        "onboard_time": 1673526990,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023年纪检监察工作八大任务#"
+    }
+  }
+}
