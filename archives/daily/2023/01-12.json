@@ -1,6 +1,6 @@
 {
   "startTime": 1673454894759,
-  "endTime": 1673533466490,
+  "endTime": 1673534583262,
   "band_list": [
     {
       "raw_hot": 5962374,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1638569,
+      "num": 1638569,
+      "word": "扬州通报干部作风问题",
+      "onboard_time": 1673532691,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1587169,
       "num": 1587169,
       "word": "甄嬛传新功能一键跳过甘露寺",
@@ -91,8 +99,8 @@
       "category": "自然"
     },
     {
-      "raw_hot": 1461247,
-      "num": 1461247,
+      "raw_hot": 1511967,
+      "num": 1511967,
       "word": "内娱唱演俱佳的明星",
       "onboard_time": 1673531071,
       "rank": 1,
@@ -105,6 +113,14 @@
       "onboard_time": 1673502510,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1428949,
+      "num": 1428949,
+      "word": "去世爷爷手机每页都空出孙子的脸",
+      "onboard_time": 1673530771,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1406687,
@@ -179,19 +195,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1082475,
+      "num": 1082475,
+      "word": "蓝正龙被问到大S的反应",
+      "onboard_time": 1673532813,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1057250,
       "num": 897990,
       "word": "江西萍乡民政局回应网传1888万彩礼",
       "onboard_time": 1673518228,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1055809,
-      "num": 1055809,
-      "word": "去世爷爷手机每页都空出孙子的脸",
-      "onboard_time": 1673530771,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -216,14 +232,6 @@
       "word": "韩方回应自华入境涉嫌歧视中国人问题",
       "onboard_time": 1673489727,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1007384,
-      "num": 1007384,
-      "word": "扬州通报干部作风问题",
-      "onboard_time": 1673532691,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805627,
+      "num": 344546,
+      "word": "黑莲花",
+      "onboard_time": 1673533773,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 801673,
       "num": 438147,
       "word": "骗TangoZ萧逸是我男朋友",
@@ -419,12 +435,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 719724,
+      "num": 335355,
+      "word": "45岁女子带5个孩子嫁给初恋",
+      "onboard_time": 1673533051,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 696245,
       "num": 639006,
       "word": "苗苗说结婚后的梦想是回舞台跳舞",
       "onboard_time": 1673496449,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 693852,
+      "num": 334776,
+      "word": "大叔做高跟鞋脚模试穿狂奔月入600万",
+      "onboard_time": 1673532391,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 689770,
@@ -521,14 +553,6 @@
       "onboard_time": 1673494167,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 560433,
-      "num": 335985,
-      "word": "蓝正龙被问到大S的反应",
-      "onboard_time": 1673532813,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 555058,
@@ -635,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 479607,
+      "num": 328621,
+      "word": "苗苗跳舞时的眼睛",
+      "onboard_time": 1673530230,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475244,
       "num": 475244,
       "word": "李现被刘亦菲搂腰的反应",
@@ -649,6 +681,14 @@
       "onboard_time": 1673516185,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 473467,
+      "num": 234731,
+      "word": "郑钧说没有陆毅那么体贴细微",
+      "onboard_time": 1673534253,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 468956,
@@ -859,14 +899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 388334,
-      "num": 328621,
-      "word": "苗苗跳舞时的眼睛",
-      "onboard_time": 1673530230,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 387398,
       "num": 387398,
       "word": "人们为什么不想听专家说话了",
@@ -1019,6 +1051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 343405,
+      "num": 233598,
+      "word": "谭松韵说程霄太有劲儿了",
+      "onboard_time": 1673533832,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 342670,
       "num": 342670,
       "word": "江母申请强制执行刘暖曦案已立案",
@@ -1032,14 +1072,6 @@
       "word": "新娘妈妈低头落泪不敢与女儿对视",
       "onboard_time": 1673487811,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342015,
-      "num": 334776,
-      "word": "大叔做高跟鞋脚模试穿狂奔月入600万",
-      "onboard_time": 1673532391,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1155,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 309317,
+      "num": 186017,
+      "word": "许红豆对谢之遥吐露心声",
+      "onboard_time": 1673531252,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 306830,
       "num": 224826,
       "word": "谢之遥发现了许红豆的秘密",
@@ -1225,14 +1265,6 @@
       "onboard_time": 1673521049,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285669,
-      "num": 186017,
-      "word": "许红豆对谢之遥吐露心声",
-      "onboard_time": 1673531252,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 285146,
@@ -1819,6 +1851,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193339,
+      "num": 193339,
+      "word": "CPI",
+      "onboard_time": 1673533529,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 193057,
+      "num": 193057,
+      "word": "这么看地球确实很小",
+      "onboard_time": 1673528848,
+      "rank": 37,
+      "category": "其它"
+    },
+    {
       "raw_hot": 192953,
       "num": 136789,
       "word": "于和伟三体原声台词",
@@ -1883,14 +1931,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 183632,
-      "num": 183632,
-      "word": "这么看地球确实很小",
-      "onboard_time": 1673528848,
-      "rank": 37,
-      "category": "其它"
-    },
-    {
       "raw_hot": 182278,
       "num": 182278,
       "word": "官方回应胡鑫宇搜寻方向",
@@ -1945,14 +1985,6 @@
       "onboard_time": 1673497474,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178225,
-      "num": 178225,
-      "word": "45岁女子带5个孩子嫁给初恋",
-      "onboard_time": 1673533051,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178207,
@@ -2307,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132694,
+      "num": 132694,
+      "word": "英日两国将允许相互驻军",
+      "onboard_time": 1673534013,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
       "raw_hot": 132603,
       "num": 132603,
       "word": "山兔新春限定皮肤",
@@ -2321,6 +2361,14 @@
       "onboard_time": 1673459297,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131425,
+      "num": 131770,
+      "word": "微博今年集兔卡",
+      "onboard_time": 1673533472,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 131239,
@@ -2345,6 +2393,14 @@
       "onboard_time": 1673491708,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129258,
+      "num": 129258,
+      "word": "安贤洙迈出回韩国执教第一步",
+      "onboard_time": 1673534193,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 127804,
@@ -2401,6 +2457,14 @@
       "onboard_time": 1673521289,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 120952,
+      "num": 1530531,
+      "word": "2023年第一场雪",
+      "onboard_time": 1673509168,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120131,
@@ -2465,6 +2529,14 @@
       "onboard_time": 1673430990,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103308,
+      "num": 116184,
+      "word": "女子回应前夫只接走2儿子独留女儿",
+      "onboard_time": 1673534492,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103112,
@@ -2674,6 +2746,9 @@
     },
     {
       "word": "#健全全面从严治党体系#"
+    },
+    {
+      "word": "#年味儿里的中国#"
     }
   ]
 }
