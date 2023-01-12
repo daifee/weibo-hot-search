@@ -1,0 +1,410 @@
+{
+  "runTime": 1673488617977,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1763068,
+        "num": 1763068,
+        "word": "阳过一次管多久",
+        "onboard_time": 1673480423,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1676089,
+        "num": 1676089,
+        "word": "建议将春节假期延长至9天",
+        "onboard_time": 1673486550,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89069,
+        "num": 1376782,
+        "word": "如何科学稳妥地恢复运动",
+        "onboard_time": 1673445578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1263690,
+        "num": 1263690,
+        "word": "地磁暴",
+        "onboard_time": 1673478981,
+        "rank": 3,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 945708,
+        "num": 945708,
+        "word": "专家不建议春节期间探访未阳老人",
+        "onboard_time": 1673475975,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767083,
+        "num": 767083,
+        "word": "90后也开始报复性存钱",
+        "onboard_time": 1673486848,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654597,
+        "num": 654597,
+        "word": "内马尔 黄牌",
+        "onboard_time": 1673486726,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 638182,
+        "num": 638182,
+        "word": "种植牙万元时代即将结束",
+        "onboard_time": 1673482529,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611022,
+        "num": 611022,
+        "word": "给中国游客挂牌子别怪我们反制",
+        "onboard_time": 1673470572,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463214,
+        "num": 463214,
+        "word": "梅西2023年首球",
+        "onboard_time": 1673480304,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1406687,
+        "num": 448029,
+        "word": "当男演员们遇上刘亦菲",
+        "onboard_time": 1673485709,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 655704,
+        "num": 445259,
+        "word": "别再怪粉丝非理性",
+        "onboard_time": 1673479402,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 405167,
+        "num": 405167,
+        "word": "韩媒称中国游客在泰国享受国宾待遇",
+        "onboard_time": 1673439336,
+        "rank": 12,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 404193,
+        "num": 404193,
+        "word": "大坂直美宣布怀孕",
+        "onboard_time": 1673484090,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391361,
+        "num": 391361,
+        "word": "这猫怎么是花臂啊",
+        "onboard_time": 1673481448,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 378219,
+        "num": 378219,
+        "word": "花落 AG",
+        "onboard_time": 1673483550,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 375322,
+        "num": 375322,
+        "word": "热剧烂尾有多难受",
+        "onboard_time": 1673480906,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373462,
+        "num": 373462,
+        "word": "YG新女团成员haramlive实力",
+        "onboard_time": 1673483669,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352912,
+        "num": 352912,
+        "word": "爱奇艺APP限制投屏",
+        "onboard_time": 1673444678,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 313806,
+        "num": 313806,
+        "word": "为什么阳了后会失眠",
+        "onboard_time": 1673479402,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284871,
+        "num": 284871,
+        "word": "哈尔滨的企鹅真的满街跑",
+        "onboard_time": 1673455045,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277608,
+        "num": 277608,
+        "word": "网友对王嘉尔二登科切拉的反应",
+        "onboard_time": 1673482529,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262731,
+        "num": 262731,
+        "word": "全美航班停飞原因曝光",
+        "onboard_time": 1673456602,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253483,
+        "num": 253483,
+        "word": "张远说客厅就是他最大的舞台",
+        "onboard_time": 1673483610,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235136,
+        "num": 235136,
+        "word": "陈飞宇晒背头自拍",
+        "onboard_time": 1673485471,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234079,
+        "num": 234079,
+        "word": "我国部分地区降温将超20度",
+        "onboard_time": 1673483430,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229053,
+        "num": 229053,
+        "word": "新娘妈妈低头落泪不敢与女儿对视",
+        "onboard_time": 1673487811,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227259,
+        "num": 227259,
+        "word": "康复期一直咳咳咳怎么办",
+        "onboard_time": 1673482168,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224397,
+        "num": 224397,
+        "word": "什么是地磁暴",
+        "onboard_time": 1673485650,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223214,
+        "num": 223214,
+        "word": "李现去有风的地方哭戏",
+        "onboard_time": 1673485228,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222413,
+        "num": 222413,
+        "word": "鹅鸭杀",
+        "onboard_time": 1673478800,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221301,
+        "num": 221301,
+        "word": "为什么明星都想演大男主大女主",
+        "onboard_time": 1673479882,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212616,
+        "num": 212616,
+        "word": "江母申请强制执行刘暖曦案已立案",
+        "onboard_time": 1673475614,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170901,
+        "num": 170901,
+        "word": "感染新冠病毒多久才能彻底康复",
+        "onboard_time": 1673480184,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167137,
+        "num": 167137,
+        "word": "人们为什么不想听专家说话了",
+        "onboard_time": 1673473753,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 165233,
+        "num": 165233,
+        "word": "梅西五大联赛进球数追平C罗",
+        "onboard_time": 1673482951,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163166,
+        "num": 163166,
+        "word": "投屏单独收费合理吗",
+        "onboard_time": 1673480964,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155666,
+        "num": 155666,
+        "word": "彭昱畅当面催张若昀庆余年2",
+        "onboard_time": 1673445100,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152324,
+        "num": 152324,
+        "word": "YG新女团live表演",
+        "onboard_time": 1673481267,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141528,
+        "num": 141528,
+        "word": "中国游客实拍仁川机场入境流程",
+        "onboard_time": 1673443237,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141433,
+        "num": 141433,
+        "word": "聚焦2023四川两会",
+        "onboard_time": 1673487509,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136267,
+        "num": 136267,
+        "word": "美媒称全美航班均已停飞",
+        "onboard_time": 1673444558,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136105,
+        "num": 136105,
+        "word": "谢之遥晋升许红豆未过门的老公",
+        "onboard_time": 1673482468,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135679,
+        "num": 135679,
+        "word": "原来狗子晕车是这样的",
+        "onboard_time": 1673479341,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132660,
+        "num": 132660,
+        "word": "如何看待打工人精神离职",
+        "onboard_time": 1673486188,
+        "rank": 44,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 132443,
+        "num": 132443,
+        "word": "苹果正开发触摸屏Mac电脑",
+        "onboard_time": 1673488348,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 127135,
+        "num": 127135,
+        "word": "沈腾易烊千玺满江红试映repo",
+        "onboard_time": 1673452171,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126535,
+        "num": 126535,
+        "word": "公司取消年终奖请员工去新疆聚餐",
+        "onboard_time": 1673433331,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115207,
+        "num": 115207,
+        "word": "红豆遥遥冰是精神的契合",
+        "onboard_time": 1673485709,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114482,
+        "num": 114482,
+        "word": "陈钰琪说王鹤棣啃西瓜速度超快",
+        "onboard_time": 1673485471,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#构筑起保健康防重症的坚实防线#"
+    }
+  }
+}

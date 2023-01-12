@@ -1,6 +1,6 @@
 {
   "startTime": 1673454894759,
-  "endTime": 1673487449030,
+  "endTime": 1673488617977,
   "band_list": [
     {
       "raw_hot": 5148320,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1676089,
+      "num": 1676089,
+      "word": "建议将春节假期延长至9天",
+      "onboard_time": 1673486550,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1541081,
       "num": 1541081,
       "word": "地磁暴",
@@ -27,7 +35,7 @@
       "category": "自然"
     },
     {
-      "raw_hot": 1315745,
+      "raw_hot": 1406687,
       "num": 449956,
       "word": "当男演员们遇上刘亦菲",
       "onboard_time": 1673485709,
@@ -67,19 +75,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 811007,
-      "num": 811007,
-      "word": "建议将春节假期延长至9天",
-      "onboard_time": 1673486550,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 782341,
       "num": 782341,
       "word": "种植牙万元时代即将结束",
       "onboard_time": 1673482529,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 767083,
+      "num": 767083,
+      "word": "90后也开始报复性存钱",
+      "onboard_time": 1673486848,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -97,6 +105,14 @@
       "onboard_time": 1673479402,
       "rank": 12,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 654597,
+      "num": 654597,
+      "word": "内马尔 黄牌",
+      "onboard_time": 1673486726,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 555058,
@@ -195,6 +211,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 373462,
+      "num": 373462,
+      "word": "YG新女团成员haramlive实力",
+      "onboard_time": 1673483669,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 362551,
       "num": 362551,
       "word": "网传吴磊周雨彤爱情而已尺度很大",
@@ -249,14 +273,6 @@
       "onboard_time": 1673456602,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317406,
-      "num": 317406,
-      "word": "内马尔 黄牌",
-      "onboard_time": 1673486726,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 310803,
@@ -323,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267668,
-      "num": 267668,
-      "word": "YG新女团成员haramlive实力",
-      "onboard_time": 1673483669,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 265837,
       "num": 265837,
       "word": "我国部分地区降温将超20度",
@@ -361,6 +369,14 @@
       "onboard_time": 1673485228,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253483,
+      "num": 253483,
+      "word": "张远说客厅就是他最大的舞台",
+      "onboard_time": 1673483610,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 250241,
@@ -411,16 +427,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226435,
-      "num": 226435,
-      "word": "90后也开始报复性存钱",
-      "onboard_time": 1673486848,
-      "rank": 28,
+      "raw_hot": 229053,
+      "num": 229053,
+      "word": "新娘妈妈低头落泪不敢与女儿对视",
+      "onboard_time": 1673487811,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221291,
-      "num": 221291,
+      "raw_hot": 224397,
+      "num": 224397,
       "word": "什么是地磁暴",
       "onboard_time": 1673485650,
       "rank": 29,
@@ -651,6 +667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141433,
+      "num": 141433,
+      "word": "聚焦2023四川两会",
+      "onboard_time": 1673487509,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135210,
       "num": 135210,
       "word": "法国足协主席宣布辞职",
@@ -681,6 +705,14 @@
       "onboard_time": 1673450253,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132443,
+      "num": 132443,
+      "word": "苹果正开发触摸屏Mac电脑",
+      "onboard_time": 1673488348,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 131905,
@@ -723,8 +755,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114482,
+      "num": 114482,
+      "word": "陈钰琪说王鹤棣啃西瓜速度超快",
+      "onboard_time": 1673485471,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 111166,
-      "num": 1131714,
+      "num": 1376782,
       "word": "如何科学稳妥地恢复运动",
       "onboard_time": 1673445578,
       "rank": 2,
