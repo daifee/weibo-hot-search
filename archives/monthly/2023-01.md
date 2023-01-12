@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/12 23:30:43
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/12 23:51:15
 </p>
 </blockquote>
 <p>
@@ -159,6 +159,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2322%E5%B2%81%E5%A5%B3%E7%94%9F%E7%86%9F%E7%9D%A1%E6%97%B6%E4%BB%8E%E5%AD%A6%E6%A0%A1%E5%AE%BF%E8%88%8D%E4%B8%8A%E9%93%BA%E5%9D%A0%E4%BA%A1%23" target="weibo">
+22岁女生熟睡时从学校宿舍上铺坠亡（热度：3216264）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E7%A6%81%E6%AD%A2%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E6%97%85%E5%AE%A2%E5%85%A5%E5%A2%83%23" target="weibo">
 摩洛哥禁止来自中国旅客入境（热度：3205691）
 </a>
@@ -215,12 +221,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%B5%A4%E8%84%9A%E8%B7%B3%E8%88%9E%23" target="weibo">
 王一博赤脚跳舞（热度：2967846）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2322%E5%B2%81%E5%A5%B3%E7%94%9F%E7%86%9F%E7%9D%A1%E6%97%B6%E4%BB%8E%E5%AD%A6%E6%A0%A1%E5%AE%BF%E8%88%8D%E4%B8%8A%E9%93%BA%E5%9D%A0%E4%BA%A1%23" target="weibo">
-22岁女生熟睡时从学校宿舍上铺坠亡（热度：2892645）
 </a>
 </li>
 
@@ -2343,6 +2343,12 @@ Lisa泰国人气（热度：1020126）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A616%E5%B2%81%E5%B0%91%E5%A5%B3%E6%9E%AA%E5%87%BB%E6%80%A7%E4%BE%B5%E8%80%85%E6%AF%8D%E4%BA%B2%23" target="weibo">
+印度16岁少女枪击性侵者母亲（热度：1011546）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%85%AE%E9%B8%A1%E8%9B%8B%E5%8F%91%E7%8E%B0%E8%9B%8B%E4%B8%AD%E8%9B%8B%23" target="weibo">
 女子煮鸡蛋发现蛋中蛋（热度：1010435）
 </a>
@@ -2921,6 +2927,12 @@ BLACKPINK演唱会官宣中国高雄澳门场（热度：891604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%A9%9A%E5%89%8D%E5%90%8C%E5%B1%85%E7%9A%84%E6%81%8B%E7%88%B1%E5%90%97%23" target="weibo">
 你能接受婚前同居的恋爱吗（热度：887107）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%B8%80%E7%83%A7%E7%83%A4%E5%BA%97%E7%BB%93%E8%B4%A6%E5%8F%AA%E6%94%B6%E7%8E%B0%E9%87%91%23" target="weibo">
+天津一烧烤店结账只收现金（热度：884053）
 </a>
 </li>
 
@@ -4047,12 +4059,6 @@ EXO将春天后完整体回归（热度：735031）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%B8%80%E7%83%A7%E7%83%A4%E5%BA%97%E7%BB%93%E8%B4%A6%E5%8F%AA%E6%94%B6%E7%8E%B0%E9%87%91%23" target="weibo">
-天津一烧烤店结账只收现金（热度：720564）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B235%E5%B2%81%E7%9A%AE%E8%82%A4%E7%8A%B6%E6%80%81%23" target="weibo">
 刘亦菲35岁皮肤状态（热度：718021）
 </a>
@@ -4157,12 +4163,6 @@ EXO将春天后完整体回归（热度：735031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%94%90%E5%AB%A3%E5%B0%86%E5%86%8D%E6%BC%94%E4%BB%99%E4%BE%A0%E5%89%A7%23" target="weibo">
 网传唐嫣将再演仙侠剧（热度：703254）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A616%E5%B2%81%E5%B0%91%E5%A5%B3%E6%9E%AA%E5%87%BB%E6%80%A7%E4%BE%B5%E8%80%85%E6%AF%8D%E4%BA%B2%23" target="weibo">
-印度16岁少女枪击性侵者母亲（热度：702960）
 </a>
 </li>
 
@@ -4871,6 +4871,12 @@ EXOLoveShot最新舞台（热度：636114）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%B4%81%E5%A4%B9%E6%96%AD%E7%8C%AB%E8%85%BF%E4%B8%8E%E5%AE%A0%E4%B8%BB%E5%B0%B1%E8%B5%94%E5%81%BF%E4%BA%89%E6%89%A7%23" target="weibo">
 保洁夹断猫腿与宠主就赔偿争执（热度：630519）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TheShy%E5%A4%9A%E4%B8%AA%E9%9F%A9%E6%9C%8D%E5%8F%B7%E8%A2%AB%E6%B0%B8%E5%B0%81%23" target="weibo">
+TheShy多个韩服号被永封（热度：630230）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ eStar开除运营（热度：548547）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%8C%85%E6%8F%BD%E5%A4%AE%E5%8D%AB%E9%9D%9E%E9%BB%84%E9%87%91%E6%97%B6%E6%AE%B5%E6%94%B6%E8%A7%86%E7%8E%87%E5%86%A0%E4%BA%9A%23" target="weibo">
 龚俊包揽央卫非黄金时段收视率冠亚（热度：536716）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E4%B8%80%E8%8C%9C%E8%AF%B4%E7%94%B0%E4%BA%AE%E4%B8%BA%E8%B5%B6%E5%9B%9E%E5%AE%B6%E5%A4%AA%E6%8B%BC%E4%BA%86%23" target="weibo">
-叶一茜说田亮为赶回家太拼了（热度：536514）
 </a>
 </li>
 
