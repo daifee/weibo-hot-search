@@ -1,0 +1,410 @@
+{
+  "runTime": 1673493591523,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1763323,
+        "num": 1763323,
+        "word": "建议将春节假期延长至9天",
+        "onboard_time": 1673486550,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1269749,
+        "num": 1269749,
+        "word": "赵樱子被网友说是迪幂孟扎的照片",
+        "onboard_time": 1673491291,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52013,
+        "num": 1180071,
+        "word": "如何科学稳妥地恢复运动",
+        "onboard_time": 1673445578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1152681,
+        "num": 1152681,
+        "word": "前夫接孩子带走2儿子独留女儿",
+        "onboard_time": 1673488706,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014177,
+        "num": 1014177,
+        "word": "韩方回应自华入境涉嫌歧视中国人问题",
+        "onboard_time": 1673489727,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932144,
+        "num": 932144,
+        "word": "女子上班第一天因已婚被辞",
+        "onboard_time": 1673490928,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880598,
+        "num": 880598,
+        "word": "阳过一次管多久",
+        "onboard_time": 1673480423,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798647,
+        "num": 798647,
+        "word": "米哈游辟谣年终奖108薪",
+        "onboard_time": 1673490089,
+        "rank": 7,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 596041,
+        "num": 596041,
+        "word": "90后也开始报复性存钱",
+        "onboard_time": 1673486848,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492117,
+        "num": 492117,
+        "word": "地磁暴",
+        "onboard_time": 1673478981,
+        "rank": 9,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 673439,
+        "num": 483865,
+        "word": "当男演员们遇上刘亦菲",
+        "onboard_time": 1673485709,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 445430,
+        "num": 445430,
+        "word": "专家不建议春节期间探访未阳老人",
+        "onboard_time": 1673475975,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414036,
+        "num": 414036,
+        "word": "谢之遥深情告别许红豆",
+        "onboard_time": 1673491046,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397968,
+        "num": 397968,
+        "word": "给中国游客挂牌子别怪我们反制",
+        "onboard_time": 1673470572,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369061,
+        "num": 369061,
+        "word": "别再怪粉丝非理性",
+        "onboard_time": 1673479402,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 362521,
+        "num": 362521,
+        "word": "内马尔 黄牌",
+        "onboard_time": 1673486726,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351800,
+        "num": 351800,
+        "word": "时代少年团全球华语音乐流行榜年度最佳团体",
+        "onboard_time": 1673490567,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346877,
+        "num": 346877,
+        "word": "天龙八部之乔峰传定档大年三十",
+        "onboard_time": 1673493028,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327356,
+        "num": 327356,
+        "word": "苹果正开发触摸屏Mac电脑",
+        "onboard_time": 1673488348,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 293938,
+        "num": 293938,
+        "word": "男子恋爱俩2个月才知女友45岁",
+        "onboard_time": 1673492545,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308761,
+        "num": 291700,
+        "word": "TWICE全员新歌预告照",
+        "onboard_time": 1673493208,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287844,
+        "num": 287844,
+        "word": "种植牙万元时代即将结束",
+        "onboard_time": 1673482529,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275515,
+        "num": 275515,
+        "word": "这猫怎么是花臂啊",
+        "onboard_time": 1673481448,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267915,
+        "num": 267915,
+        "word": "YG新女团成员haramlive实力",
+        "onboard_time": 1673483669,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250038,
+        "num": 250038,
+        "word": "梅西2023年首球",
+        "onboard_time": 1673480304,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243158,
+        "num": 243158,
+        "word": "你最期待谁的兔限皮肤",
+        "onboard_time": 1673491948,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236878,
+        "num": 236878,
+        "word": "南得霄亭终于霄亭了",
+        "onboard_time": 1673490750,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235693,
+        "num": 235693,
+        "word": "花落 AG",
+        "onboard_time": 1673483550,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231919,
+        "num": 231919,
+        "word": "新娘妈妈低头落泪不敢与女儿对视",
+        "onboard_time": 1673487811,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201683,
+        "num": 201683,
+        "word": "小朋友看红楼梦为奶奶复刻同款粥",
+        "onboard_time": 1673492007,
+        "rank": 29,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 229365,
+        "num": 199351,
+        "word": "少年歌行今晚加更",
+        "onboard_time": 1673491529,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221381,
+        "num": 196806,
+        "word": "赵丽颖说我们一起过大年",
+        "onboard_time": 1673490750,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208333,
+        "num": 192249,
+        "word": "成毅英雄志乞丐造型",
+        "onboard_time": 1673490209,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206710,
+        "num": 189090,
+        "word": "热剧烂尾有多难受",
+        "onboard_time": 1673480906,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187399,
+        "num": 187399,
+        "word": "江母申请强制执行刘暖曦案已立案",
+        "onboard_time": 1673475614,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181316,
+        "num": 181316,
+        "word": "韩媒称中国游客在泰国享受国宾待遇",
+        "onboard_time": 1673439336,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 179702,
+        "num": 179702,
+        "word": "1岁半萌娃返乡过年下车奔向太爷爷",
+        "onboard_time": 1673489247,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174918,
+        "num": 174918,
+        "word": "刘鑫已成被执行人",
+        "onboard_time": 1673493269,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169834,
+        "num": 169834,
+        "word": "全美航班停飞原因曝光",
+        "onboard_time": 1673456602,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165022,
+        "num": 165022,
+        "word": "爱奇艺APP限制投屏",
+        "onboard_time": 1673444678,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 205381,
+        "num": 164652,
+        "word": "满江红各怀鬼胎版海报",
+        "onboard_time": 1673491348,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197199,
+        "num": 163874,
+        "word": "肖铎自己把自己哄好了",
+        "onboard_time": 1673492248,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171529,
+        "num": 163862,
+        "word": "许红豆开得起玩笑的原因",
+        "onboard_time": 1673492190,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162976,
+        "num": 162976,
+        "word": "鹅鸭杀开服",
+        "onboard_time": 1673490030,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160152,
+        "num": 160152,
+        "word": "大坂直美宣布怀孕",
+        "onboard_time": 1673484090,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152744,
+        "num": 152744,
+        "word": "为什么阳了后会失眠",
+        "onboard_time": 1673479402,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150428,
+        "num": 150428,
+        "word": "鹅鸭杀",
+        "onboard_time": 1673478800,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147112,
+        "num": 147112,
+        "word": "哈尔滨的企鹅真的满街跑",
+        "onboard_time": 1673455045,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142128,
+        "num": 142128,
+        "word": "广东年例带箱饮料就能吃大餐",
+        "onboard_time": 1673493508,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134212,
+        "num": 134212,
+        "word": "发放育儿补贴能否释放生育潜能",
+        "onboard_time": 1673488648,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#治国必先治党党兴才能国强#"
+    }
+  }
+}
