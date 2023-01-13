@@ -1,6 +1,6 @@
 {
   "startTime": 1673541706835,
-  "endTime": 1673599080641,
+  "endTime": 1673601591614,
   "band_list": [
     {
       "raw_hot": 2832679,
@@ -41,6 +41,14 @@
       "onboard_time": 1673576005,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2054831,
+      "num": 2054831,
+      "word": "太爷爷去世女子请假奔丧被老板怼",
+      "onboard_time": 1673597490,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2035859,
@@ -113,6 +121,14 @@
       "onboard_time": 1673586870,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1123296,
+      "num": 1123296,
+      "word": "全国超9亿人口或已感染新冠",
+      "onboard_time": 1673598869,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1113050,
@@ -219,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 915922,
-      "num": 915922,
-      "word": "太爷爷去世女子请假奔丧被老板怼",
-      "onboard_time": 1673597490,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 870814,
       "num": 870814,
       "word": "大学时期的赵露思",
@@ -281,6 +289,14 @@
       "onboard_time": 1673581227,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706324,
+      "num": 706324,
+      "word": "刺杀安倍晋三嫌犯被正式起诉",
+      "onboard_time": 1673596831,
+      "rank": 17,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 684806,
@@ -379,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 602270,
+      "num": 602270,
+      "word": "王一博过年好忙",
+      "onboard_time": 1673601147,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 600768,
       "num": 600768,
       "word": "王鹤棣让工作人员拍自己和粉丝的合照",
@@ -427,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 559578,
+      "num": 559578,
+      "word": "97年流水线女工逆袭成高校老师",
+      "onboard_time": 1673599712,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557488,
       "num": 557488,
       "word": "王思聪疑因打人被拘提请行政复议",
@@ -443,8 +475,8 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 544326,
-      "num": 544326,
+      "raw_hot": 544496,
+      "num": 544496,
       "word": "来华人员登机前48小时须核酸检测",
       "onboard_time": 1673596228,
       "rank": 14,
@@ -523,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 463709,
-      "num": 463709,
-      "word": "刺杀安倍晋三嫌犯被正式起诉",
-      "onboard_time": 1673596831,
-      "rank": 17,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 462459,
       "num": 462459,
       "word": "去世爷爷手机每页都空出孙子的脸",
@@ -592,6 +616,14 @@
       "word": "易烊千玺满江红踹沈腾花絮",
       "onboard_time": 1673590049,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 424728,
+      "num": 424728,
+      "word": "满江红",
+      "onboard_time": 1673601209,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -731,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369411,
+      "num": 369411,
+      "word": "某国产手游疑似抄袭斯普拉遁",
+      "onboard_time": 1673600370,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 364385,
       "num": 364385,
       "word": "中方代表在联合国安理会上点名美国",
@@ -753,6 +793,14 @@
       "onboard_time": 1673584654,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 353847,
+      "num": 353847,
+      "word": "新年美甲",
+      "onboard_time": 1673599531,
+      "rank": 18,
+      "category": "美妆"
     },
     {
       "raw_hot": 350062,
@@ -833,6 +881,14 @@
       "onboard_time": 1673542043,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328093,
+      "num": 328093,
+      "word": "JY回归狼人杀",
+      "onboard_time": 1673598569,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 320155,
@@ -931,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299902,
+      "num": 172693,
+      "word": "刘诗诗说希望如意可以一直自由快乐随心而活",
+      "onboard_time": 1673600669,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299490,
       "num": 187763,
       "word": "一念关山",
@@ -985,6 +1049,14 @@
       "onboard_time": 1673595090,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282434,
+      "num": 172287,
+      "word": "陈立农入职芒果",
+      "onboard_time": 1673601510,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 277077,
@@ -1049,6 +1121,14 @@
       "onboard_time": 1673574806,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 270060,
+      "num": 169763,
+      "word": "Hanni弹唱IU的夜信",
+      "onboard_time": 1673601029,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 269276,
@@ -1235,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215913,
+      "num": 215913,
+      "word": "一开始还以为是演的",
+      "onboard_time": 1673598149,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214410,
       "num": 214410,
       "word": "去世母亲的每件财物都标注儿女名字",
@@ -1281,14 +1369,6 @@
       "onboard_time": 1673586691,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 193653,
-      "num": 193653,
-      "word": "JY回归狼人杀",
-      "onboard_time": 1673598569,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 192738,
@@ -1379,6 +1459,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 178714,
+      "num": 187428,
+      "word": "公安机关关闭网络水军账号530余万个",
+      "onboard_time": 1673598029,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177550,
       "num": 177550,
       "word": "给小狗买衣服买大了",
@@ -1393,6 +1481,14 @@
       "onboard_time": 1673589149,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 173901,
+      "num": 173901,
+      "word": "G5515张南高速交通事故致3人死亡",
+      "onboard_time": 1673601268,
+      "rank": 29,
+      "category": "社会负面"
     },
     {
       "raw_hot": 173290,
@@ -1433,14 +1529,6 @@
       "onboard_time": 1673544620,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 165070,
-      "num": 165070,
-      "word": "全国超9亿人口或已感染新冠",
-      "onboard_time": 1673598869,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161018,
@@ -1553,22 +1641,6 @@
       "onboard_time": 1673578948,
       "rank": 36,
       "category": "时尚,幽默"
-    },
-    {
-      "raw_hot": 149239,
-      "num": 187428,
-      "word": "公安机关关闭网络水军账号530余万个",
-      "onboard_time": 1673598029,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148808,
-      "num": 187343,
-      "word": "一开始还以为是演的",
-      "onboard_time": 1673598149,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 146530,
@@ -1780,7 +1852,7 @@
     },
     {
       "raw_hot": 109514,
-      "num": 109514,
+      "num": 1104451,
       "word": "哪些年货坐火车要限量携带",
       "onboard_time": 1673579308,
       "rank": 49,
@@ -1843,6 +1915,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 100605,
+      "num": 100605,
+      "word": "社牛小朋友抓兔百只给小伙伴拜年",
+      "onboard_time": 1673600967,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100541,
       "num": 100541,
       "word": "微距镜头下的年味",
@@ -1865,6 +1945,22 @@
       "onboard_time": 1673597790,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99385,
+      "num": 99385,
+      "word": "这是电影里的求婚场景吧",
+      "onboard_time": 1673600490,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 99153,
+      "num": 99153,
+      "word": "10岁女孩患病养父全网寻人亲姐配型",
+      "onboard_time": 1673601572,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98538,
