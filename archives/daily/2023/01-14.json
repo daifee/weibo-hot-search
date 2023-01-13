@@ -1,6 +1,6 @@
 {
   "startTime": 1673627419435,
-  "endTime": 1673638396952,
+  "endTime": 1673641179233,
   "band_list": [
     {
       "raw_hot": 1704998,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29192,
+      "num": 18650,
+      "word": "龚俊湿发造型大片花絮",
+      "onboard_time": 1673640431,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 27974,
       "num": 22276,
       "word": "何炅最漫长的二十秒",
@@ -545,6 +553,14 @@
       "onboard_time": 1673635756,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 26532,
+      "num": 18545,
+      "word": "是一只有主见的小猫咪",
+      "onboard_time": 1673638032,
+      "rank": 32,
+      "category": "幽默,情感"
     }
   ],
   "hotgov_list": [
