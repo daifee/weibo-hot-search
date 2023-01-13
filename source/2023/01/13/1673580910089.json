@@ -1,0 +1,410 @@
+{
+  "runTime": 1673580910089,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1694364,
+        "num": 1694364,
+        "word": "王俊凯 大家不要抱着戾气生活",
+        "onboard_time": 1673566824,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1386177,
+        "num": 1386177,
+        "word": "李泽言",
+        "onboard_time": 1673566161,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 366090,
+        "num": 1311207,
+        "word": "新冠治疗费用报销图解",
+        "onboard_time": 1673577327,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1275479,
+        "num": 1275479,
+        "word": "邓超儿子等等长得好帅",
+        "onboard_time": 1673565681,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1201101,
+        "num": 1201101,
+        "word": "成都26岁失联女子申某已找到",
+        "onboard_time": 1673577447,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004412,
+        "num": 1004412,
+        "word": "王嘉尔伦敦演唱会怼外媒",
+        "onboard_time": 1673579547,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 666029,
+        "num": 666029,
+        "word": "同吃同住双胞胎体重相差19斤",
+        "onboard_time": 1673577447,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622428,
+        "num": 622428,
+        "word": "前任突然加微信要同意吗",
+        "onboard_time": 1673565800,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 608367,
+        "num": 608367,
+        "word": "iPhone14兔年保护套售价398元",
+        "onboard_time": 1673579249,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 607593,
+        "num": 607593,
+        "word": "女子谎称是90后和31岁男子恋爱",
+        "onboard_time": 1673572770,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 998333,
+        "num": 594362,
+        "word": "谢之遥得知许红豆一生挚爱是陈南星",
+        "onboard_time": 1673579609,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 658088,
+        "num": 588117,
+        "word": "赵丽颖金色露背造型大片",
+        "onboard_time": 1673580390,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 623378,
+        "num": 584860,
+        "word": "央视网络春晚第二波阵容官宣",
+        "onboard_time": 1673578828,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580845,
+        "num": 580845,
+        "word": "女生怕父母被质疑重男轻女改名",
+        "onboard_time": 1673578649,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467460,
+        "num": 467460,
+        "word": "疑似1888万彩礼帖文作者致歉",
+        "onboard_time": 1673572406,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394438,
+        "num": 394438,
+        "word": "苹果汽车或售价9万美元",
+        "onboard_time": 1673576967,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 385194,
+        "num": 385194,
+        "word": "学古筝和不学古筝的都沉默了",
+        "onboard_time": 1673578107,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 379327,
+        "num": 379327,
+        "word": "这辈子他都不敢插队了",
+        "onboard_time": 1673579071,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329216,
+        "num": 329216,
+        "word": "军人结婚当天收到立功喜报",
+        "onboard_time": 1673574384,
+        "rank": 18,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 313392,
+        "num": 313392,
+        "word": "库克2023年薪酬将砍半",
+        "onboard_time": 1673578408,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 477842,
+        "num": 304579,
+        "word": "张万森 下雪了",
+        "onboard_time": 1673568506,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 472652,
+        "num": 295491,
+        "word": "张同学回应热度消退",
+        "onboard_time": 1673579727,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 873622,
+        "num": 292743,
+        "word": "副市长韦峰简历已从官网撤下",
+        "onboard_time": 1673575466,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450453,
+        "num": 282439,
+        "word": "郑钧刘芸吵架后的状态",
+        "onboard_time": 1673578649,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277077,
+        "num": 277077,
+        "word": "日政府无视当地民众反对开建不沉航母",
+        "onboard_time": 1673576306,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 442354,
+        "num": 258948,
+        "word": "宋晓峰老婆生完孩子不作了",
+        "onboard_time": 1673576967,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231964,
+        "num": 231964,
+        "word": "江苏省考成绩",
+        "onboard_time": 1673579849,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 224389,
+        "num": 224389,
+        "word": "PDD鹅鸭杀皮肤",
+        "onboard_time": 1673569709,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212111,
+        "num": 212111,
+        "word": "神器传说之武则天皮肤",
+        "onboard_time": 1673568087,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181573,
+        "num": 181573,
+        "word": "为100只流浪猫投简历",
+        "onboard_time": 1673579968,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447913,
+        "num": 180720,
+        "word": "王源即将返回伯克利上学",
+        "onboard_time": 1673568506,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419580,
+        "num": 179648,
+        "word": "王鹤棣热血高校造型大片",
+        "onboard_time": 1673580569,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 344154,
+        "num": 178616,
+        "word": "刘耀文新警察故事台词",
+        "onboard_time": 1673580090,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284477,
+        "num": 175908,
+        "word": "小妖怪的夏天",
+        "onboard_time": 1673577687,
+        "rank": 33,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 175887,
+        "num": 175887,
+        "word": "美司法部调查拜登私人办公室发现机密文件",
+        "onboard_time": 1673573608,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 152218,
+        "num": 152218,
+        "word": "这确实是把穿搭玩明白了",
+        "onboard_time": 1673578948,
+        "rank": 35,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 151680,
+        "num": 151680,
+        "word": "儿子用电话手表加陌生女孩聊天",
+        "onboard_time": 1673568388,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143679,
+        "num": 143679,
+        "word": "十秒内在数字中轴看春夏秋冬",
+        "onboard_time": 1673580808,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136442,
+        "num": 136442,
+        "word": "人类幼崽聊天有多可爱",
+        "onboard_time": 1673574806,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127153,
+        "num": 127153,
+        "word": "武大拟对10研究生退学处理",
+        "onboard_time": 1673538689,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 247764,
+        "num": 127153,
+        "word": "周迅滑冰",
+        "onboard_time": 1673580449,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127147,
+        "num": 127147,
+        "word": "大叔做高跟鞋脚模试穿狂奔月入600万",
+        "onboard_time": 1673532391,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123689,
+        "num": 123689,
+        "word": "像极了放假前的工作状态",
+        "onboard_time": 1673580751,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122550,
+        "num": 122550,
+        "word": "各国抢中国游客纷纷放大招",
+        "onboard_time": 1673560272,
+        "rank": 43,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 111532,
+        "num": 111532,
+        "word": "苹果CEO库克主动要求降薪",
+        "onboard_time": 1673579308,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 110482,
+        "num": 110482,
+        "word": "大叔医院扔下10万元转身就走",
+        "onboard_time": 1673535512,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108144,
+        "num": 108144,
+        "word": "鹅鸭杀",
+        "onboard_time": 1673565439,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106847,
+        "num": 106847,
+        "word": "TheShy多个韩服号被永封",
+        "onboard_time": 1673536535,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104874,
+        "num": 104874,
+        "word": "一图读懂新冠治疗费用报销",
+        "onboard_time": 1673580266,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104781,
+        "num": 104781,
+        "word": "果然懒人的孩子早当家",
+        "onboard_time": 1673571388,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#必须紧紧依靠人民创造历史#"
+    }
+  }
+}

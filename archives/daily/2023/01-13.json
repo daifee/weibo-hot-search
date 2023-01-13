@@ -1,6 +1,6 @@
 {
   "startTime": 1673541706835,
-  "endTime": 1673580058365,
+  "endTime": 1673580910089,
   "band_list": [
     {
       "raw_hot": 2101496,
@@ -35,8 +35,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1293122,
-      "num": 1293122,
+      "raw_hot": 1386177,
+      "num": 1386177,
       "word": "李泽言",
       "onboard_time": 1673566161,
       "rank": 12,
@@ -48,6 +48,14 @@
       "word": "副市长韦峰简历已从官网撤下",
       "onboard_time": 1673575466,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1201101,
+      "num": 1201101,
+      "word": "成都26岁失联女子申某已找到",
+      "onboard_time": 1673577447,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -83,12 +91,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1038394,
-      "num": 1038394,
-      "word": "成都26岁失联女子申某已找到",
-      "onboard_time": 1673577447,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 1004412,
+      "num": 1004412,
+      "word": "王嘉尔伦敦演唱会怼外媒",
+      "onboard_time": 1673579547,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 998333,
+      "num": 594362,
+      "word": "谢之遥得知许红豆一生挚爱是陈南星",
+      "onboard_time": 1673579609,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 945236,
@@ -140,11 +156,27 @@
     },
     {
       "raw_hot": 684806,
-      "num": 560466,
+      "num": 584860,
       "word": "央视网络春晚第二波阵容官宣",
       "onboard_time": 1673578828,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 666029,
+      "num": 666029,
+      "word": "同吃同住双胞胎体重相差19斤",
+      "onboard_time": 1673577447,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 658088,
+      "num": 588117,
+      "word": "赵丽颖金色露背造型大片",
+      "onboard_time": 1673580390,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 652756,
@@ -163,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608367,
+      "num": 608367,
+      "word": "iPhone14兔年保护套售价398元",
+      "onboard_time": 1673579249,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 600768,
       "num": 600768,
       "word": "王鹤棣让工作人员拍自己和粉丝的合照",
@@ -171,12 +211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 587702,
-      "num": 559817,
-      "word": "王嘉尔伦敦演唱会怼外媒",
-      "onboard_time": 1673579547,
-      "rank": 11,
-      "category": "音乐"
+      "raw_hot": 580845,
+      "num": 580845,
+      "word": "女生怕父母被质疑重男轻女改名",
+      "onboard_time": 1673578649,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 557488,
@@ -185,14 +225,6 @@
       "onboard_time": 1673515168,
       "rank": 4,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 555095,
-      "num": 555095,
-      "word": "同吃同住双胞胎体重相差19斤",
-      "onboard_time": 1673577447,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 527296,
@@ -219,6 +251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 472652,
+      "num": 295491,
+      "word": "张同学回应热度消退",
+      "onboard_time": 1673579727,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 469067,
       "num": 469067,
       "word": "TheShy多个韩服号被永封",
@@ -235,12 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 449575,
-      "num": 273100,
-      "word": "谢之遥得知许红豆一生挚爱是陈南星",
-      "onboard_time": 1673579609,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 450453,
+      "num": 282439,
+      "word": "郑钧刘芸吵架后的状态",
+      "onboard_time": 1673578649,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 445650,
@@ -283,20 +323,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 418721,
-      "num": 271978,
-      "word": "郑钧刘芸吵架后的状态",
-      "onboard_time": 1673578649,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 412562,
-      "num": 412562,
-      "word": "女生怕父母被质疑重男轻女改名",
-      "onboard_time": 1673578649,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 419580,
+      "num": 179648,
+      "word": "王鹤棣热血高校造型大片",
+      "onboard_time": 1673580569,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 410733,
@@ -331,11 +363,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 378117,
-      "num": 378117,
+      "raw_hot": 385194,
+      "num": 385194,
       "word": "学古筝和不学古筝的都沉默了",
       "onboard_time": 1673578107,
       "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 379327,
+      "num": 379327,
+      "word": "这辈子他都不敢插队了",
+      "onboard_time": 1673579071,
+      "rank": 19,
       "category": "幽默"
     },
     {
@@ -345,6 +385,14 @@
       "onboard_time": 1673536595,
       "rank": 13,
       "category": "军事"
+    },
+    {
+      "raw_hot": 344154,
+      "num": 178616,
+      "word": "刘耀文新警察故事台词",
+      "onboard_time": 1673580090,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 341895,
@@ -395,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 322054,
-      "num": 322054,
-      "word": "iPhone14兔年保护套售价398元",
-      "onboard_time": 1673579249,
-      "rank": 18,
-      "category": "科技"
-    },
-    {
       "raw_hot": 317425,
       "num": 244915,
       "word": "王一博演唱电影无名主题曲",
@@ -417,6 +457,14 @@
       "onboard_time": 1673531071,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313392,
+      "num": 313392,
+      "word": "库克2023年薪酬将砍半",
+      "onboard_time": 1673578408,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 310288,
@@ -451,6 +499,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 277077,
+      "num": 277077,
+      "word": "日政府无视当地民众反对开建不沉航母",
+      "onboard_time": 1673576306,
+      "rank": 26,
+      "category": "军事"
+    },
+    {
       "raw_hot": 276871,
       "num": 254296,
       "word": "郭京飞说沈腾瘦了20斤",
@@ -475,14 +531,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 273349,
-      "num": 273349,
-      "word": "这辈子他都不敢插队了",
-      "onboard_time": 1673579071,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 272332,
       "num": 272332,
       "word": "内务府的审美是在线的",
@@ -497,22 +545,6 @@
       "onboard_time": 1673574806,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 270562,
-      "num": 270562,
-      "word": "库克2023年薪酬将砍半",
-      "onboard_time": 1673578408,
-      "rank": 43,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 270122,
-      "num": 253396,
-      "word": "日政府无视当地民众反对开建不沉航母",
-      "onboard_time": 1673576306,
-      "rank": 26,
-      "category": "军事"
     },
     {
       "raw_hot": 269276,
@@ -539,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254388,
-      "num": 184051,
-      "word": "张同学回应热度消退",
-      "onboard_time": 1673579727,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 250184,
       "num": 250184,
       "word": "异地恋真的走不到最后吗",
@@ -569,6 +593,14 @@
       "onboard_time": 1673565319,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247764,
+      "num": 127153,
+      "word": "周迅滑冰",
+      "onboard_time": 1673580449,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 243535,
@@ -601,6 +633,14 @@
       "onboard_time": 1673536654,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231964,
+      "num": 231964,
+      "word": "江苏省考成绩",
+      "onboard_time": 1673579849,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 228517,
@@ -659,14 +699,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 190432,
-      "num": 190432,
-      "word": "江苏省考成绩",
-      "onboard_time": 1673579849,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 188605,
       "num": 166895,
       "word": "戴燕妮叶若依人设",
@@ -697,6 +729,14 @@
       "onboard_time": 1673525190,
       "rank": 24,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 181573,
+      "num": 181573,
+      "word": "为100只流浪猫投简历",
+      "onboard_time": 1673579968,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179997,
@@ -803,8 +843,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146391,
-      "num": 146391,
+      "raw_hot": 152218,
+      "num": 152218,
       "word": "这确实是把穿搭玩明白了",
       "onboard_time": 1673578948,
       "rank": 36,
@@ -817,6 +857,14 @@
       "onboard_time": 1673500476,
       "rank": 41,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 143679,
+      "num": 143679,
+      "word": "十秒内在数字中轴看春夏秋冬",
+      "onboard_time": 1673580808,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142012,
@@ -867,6 +915,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 123689,
+      "num": 123689,
+      "word": "像极了放假前的工作状态",
+      "onboard_time": 1673580751,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122433,
       "num": 88944,
       "word": "徐冬冬看自己哭戏reaction",
@@ -897,14 +953,6 @@
       "onboard_time": 1673579849,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 118482,
-      "num": 118482,
-      "word": "为100只流浪猫投简历",
-      "onboard_time": 1673579968,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117680,
@@ -977,6 +1025,14 @@
       "onboard_time": 1673532032,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 104874,
+      "num": 104874,
+      "word": "一图读懂新冠治疗费用报销",
+      "onboard_time": 1673580266,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101358,
@@ -1105,6 +1161,9 @@
     },
     {
       "word": "#年味儿里的中国#"
+    },
+    {
+      "word": "#必须紧紧依靠人民创造历史#"
     }
   ]
 }
