@@ -1,6 +1,6 @@
 {
   "startTime": 1673541706835,
-  "endTime": 1673573952749,
+  "endTime": 1673575279189,
   "band_list": [
     {
       "raw_hot": 2101496,
@@ -27,6 +27,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1142809,
+      "num": 1142809,
+      "word": "李泽言",
+      "onboard_time": 1673566161,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1109537,
       "num": 1109537,
       "word": "王源即将返回伯克利上学",
@@ -43,12 +51,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 958725,
-      "num": 958725,
-      "word": "李泽言",
-      "onboard_time": 1673566161,
-      "rank": 12,
-      "category": "游戏"
+      "raw_hot": 951424,
+      "num": 951424,
+      "word": "女子谎称是90后和31岁男子恋爱",
+      "onboard_time": 1673572770,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 945236,
@@ -67,8 +75,8 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 878215,
-      "num": 878215,
+      "raw_hot": 927507,
+      "num": 927507,
       "word": "疑似1888万彩礼帖文作者致歉",
       "onboard_time": 1673572406,
       "rank": 6,
@@ -163,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 460399,
-      "num": 460399,
-      "word": "女子谎称是90后和31岁男子恋爱",
-      "onboard_time": 1673572770,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 445650,
       "num": 353636,
       "word": "武大拟对10研究生退学处理",
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368801,
+      "num": 368801,
+      "word": "美司法部调查拜登私人办公室发现机密文件",
+      "onboard_time": 1673573608,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 350062,
       "num": 350062,
       "word": "缅甸枭龙战机越境空袭印度",
@@ -225,6 +233,14 @@
       "onboard_time": 1673532691,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338808,
+      "num": 338808,
+      "word": "果然懒人的孩子早当家",
+      "onboard_time": 1673571388,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 334139,
@@ -267,12 +283,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 293998,
-      "num": 293998,
-      "word": "果然懒人的孩子早当家",
-      "onboard_time": 1673571388,
-      "rank": 18,
-      "category": "幽默"
+      "raw_hot": 276871,
+      "num": 254296,
+      "word": "郭京飞说沈腾瘦了20斤",
+      "onboard_time": 1673574867,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 276098,
@@ -307,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 255463,
+      "num": 255463,
+      "word": "专家称春节假期前拆后借不友好",
+      "onboard_time": 1673573367,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254535,
       "num": 232789,
       "word": "郑恺没见过苗苗跳古典舞",
@@ -329,6 +353,14 @@
       "onboard_time": 1673565319,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 243780,
+      "num": 243780,
+      "word": "军人结婚当天收到立功喜报",
+      "onboard_time": 1673574384,
+      "rank": 23,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 240608,
@@ -393,6 +425,14 @@
       "onboard_time": 1673534013,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 190282,
+      "num": 190282,
+      "word": "人类幼崽聊天有多可爱",
+      "onboard_time": 1673574806,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 188605,
@@ -547,12 +587,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 141055,
-      "num": 141055,
-      "word": "专家称春节假期前拆后借不友好",
-      "onboard_time": 1673573367,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 139448,
+      "num": 139448,
+      "word": "宁德时代单季盈利破百亿",
+      "onboard_time": 1673572406,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 138868,
@@ -561,14 +601,6 @@
       "onboard_time": 1673567124,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136944,
-      "num": 136944,
-      "word": "宁德时代单季盈利破百亿",
-      "onboard_time": 1673572406,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 131444,
@@ -619,12 +651,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120335,
-      "num": 120335,
-      "word": "美司法部调查拜登私人办公室发现机密文件",
-      "onboard_time": 1673573608,
-      "rank": 48,
-      "category": "国外要闻"
+      "raw_hot": 117680,
+      "num": 117680,
+      "word": "杨超越千金风上班路透",
+      "onboard_time": 1673558832,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116410,
@@ -683,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90012,
+      "num": 90012,
+      "word": "雪天不慎摔倒如何保护自己",
+      "onboard_time": 1673575165,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86423,
       "num": 86423,
       "word": "红军报名时的身高标线看着心疼",
@@ -716,7 +756,7 @@
     },
     {
       "raw_hot": 70519,
-      "num": 1126963,
+      "num": 1337714,
       "word": "2023年第一场雪",
       "onboard_time": 1673509168,
       "rank": 2,
@@ -745,14 +785,6 @@
       "onboard_time": 1673544979,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24985,
-      "num": 24040,
-      "word": "杨超越千金风上班路透",
-      "onboard_time": 1673558832,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 19794,

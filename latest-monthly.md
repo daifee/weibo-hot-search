@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/13 09:39:12
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/13 10:01:19
 </p>
 </blockquote>
 <p>
@@ -1929,6 +1929,12 @@ EXO再唱初雪（热度：1193995）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B3%BD%E8%A8%80%23" target="weibo">
+李泽言（热度：1142809）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B8%89%E4%BA%9A%E5%81%B6%E9%81%87%E5%AD%99%E6%80%A1%23" target="weibo">
 网友三亚偶遇孙怡（热度：1141349）
 </a>
@@ -2559,12 +2565,6 @@ WBG让二追三（热度：970849）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B3%BD%E8%A8%80%23" target="weibo">
-李泽言（热度：958725）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%92%8C%E8%BE%89%E7%91%9E%E8%B0%88%E5%88%A44%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%23" target="weibo">
 医保局和辉瑞谈判4个多小时（热度：957242）
 </a>
@@ -2597,6 +2597,12 @@ WBG让二追三（热度：970849）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7G%E8%A2%AB%E6%92%9E%E5%8D%B4%E4%B8%BA%E8%8A%82%E7%9C%81%E6%97%B6%E9%97%B4%E8%AE%A4%E5%85%A8%E8%B4%A3%23" target="weibo">
 大G被撞却为节省时间认全责（热度：951537）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B0%8E%E7%A7%B0%E6%98%AF90%E5%90%8E%E5%92%8C31%E5%B2%81%E7%94%B7%E5%AD%90%E6%81%8B%E7%88%B1%23" target="weibo">
+女子谎称是90后和31岁男子恋爱（热度：951424）
 </a>
 </li>
 
@@ -2675,6 +2681,12 @@ WBG让二追三（热度：970849）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2320%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A03%E5%A4%A9%E5%90%8E%E5%87%A0%E8%BF%91%E5%A4%B1%E6%98%8E%23" target="weibo">
 20岁女孩感染新冠3天后几近失明（热度：930103）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC1888%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%B8%96%E6%96%87%E4%BD%9C%E8%80%85%E8%87%B4%E6%AD%89%23" target="weibo">
+疑似1888万彩礼帖文作者致歉（热度：927507）
 </a>
 </li>
 
@@ -2969,12 +2981,6 @@ BLACKPINK演唱会官宣中国高雄澳门场（热度：891604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%B8%80%E7%83%A7%E7%83%A4%E5%BA%97%E7%BB%93%E8%B4%A6%E5%8F%AA%E6%94%B6%E7%8E%B0%E9%87%91%23" target="weibo">
 天津一烧烤店结账只收现金（热度：884053）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC1888%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%B8%96%E6%96%87%E4%BD%9C%E8%80%85%E8%87%B4%E6%AD%89%23" target="weibo">
-疑似1888万彩礼帖文作者致歉（热度：878215）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ eStar开除运营（热度：548547）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E8%83%B6%E4%B8%9C%E6%9C%BA%E5%9C%BA%E6%9C%BA%E5%8A%A1%E4%BA%BA%E5%91%98%E8%A2%AB%E7%A2%BE%E6%AD%BB%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23" target="weibo">
 青岛胶东机场机务人员被碾死调查结果（热度：541431）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E5%86%8D%E5%87%BA%E5%8F%91%23" target="weibo">
-快乐再出发（热度：541194）
 </a>
 </li>
 
