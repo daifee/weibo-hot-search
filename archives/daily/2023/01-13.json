@@ -1,6 +1,6 @@
 {
   "startTime": 1673541706835,
-  "endTime": 1673598261619,
+  "endTime": 1673599080641,
   "band_list": [
     {
       "raw_hot": 2832679,
@@ -203,11 +203,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 923242,
+      "num": 923242,
+      "word": "肖战手绘的福",
+      "onboard_time": 1673597730,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 923221,
       "num": 923221,
       "word": "男子煮羊肉爆炸高压锅击穿屋顶",
       "onboard_time": 1673581947,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 915922,
+      "num": 915922,
+      "word": "太爷爷去世女子请假奔丧被老板怼",
+      "onboard_time": 1673597490,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -233,14 +249,6 @@
       "onboard_time": 1673578649,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 790615,
-      "num": 790615,
-      "word": "肖战手绘的福",
-      "onboard_time": 1673597730,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 781152,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 676768,
-      "num": 412913,
+      "num": 546320,
       "word": "B站发布鹅鸭杀直播规范通知",
       "onboard_time": 1673593889,
       "rank": 37,
@@ -363,6 +371,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 612479,
+      "num": 545907,
+      "word": "沈月说自己更新朋友圈是为了争取角色",
+      "onboard_time": 1673594912,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 600768,
       "num": 600768,
       "word": "王鹤棣让工作人员拍自己和粉丝的合照",
@@ -379,11 +395,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 589302,
-      "num": 409404,
-      "word": "沈月说自己更新朋友圈是为了争取角色",
-      "onboard_time": 1673594912,
-      "rank": 20,
+      "raw_hot": 590593,
+      "num": 545497,
+      "word": "虞书欣北京春晚水蓝色双蝴蝶结造型",
+      "onboard_time": 1673597608,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -395,20 +411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 572698,
-      "num": 394245,
-      "word": "虞书欣北京春晚水蓝色双蝴蝶结造型",
-      "onboard_time": 1673597608,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 572115,
       "num": 297635,
       "word": "魏大勋大侦探唱功开大了",
       "onboard_time": 1673586753,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 565430,
+      "num": 545067,
+      "word": "谢之遥太猛了",
+      "onboard_time": 1673597069,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 557488,
@@ -425,6 +441,14 @@
       "onboard_time": 1673595630,
       "rank": 8,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 544326,
+      "num": 544326,
+      "word": "来华人员登机前48小时须核酸检测",
+      "onboard_time": 1673596228,
+      "rank": 14,
+      "category": "国内要闻,旅游"
     },
     {
       "raw_hot": 527296,
@@ -459,20 +483,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 498292,
+      "num": 291022,
+      "word": "王一博官宣加盟湖南卫视春晚",
+      "onboard_time": 1673598212,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483435,
       "num": 483435,
       "word": "神器传说之武则天皮肤",
       "onboard_time": 1673568087,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 477884,
-      "num": 383347,
-      "word": "谢之遥太猛了",
-      "onboard_time": 1673597069,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 472652,
@@ -491,20 +515,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 468566,
-      "num": 382817,
-      "word": "来华人员登机前48小时须核酸检测",
-      "onboard_time": 1673596228,
-      "rank": 14,
-      "category": "国内要闻,旅游"
-    },
-    {
       "raw_hot": 465006,
       "num": 367715,
       "word": "白敬亭田曦薇加盟尖叫之夜",
       "onboard_time": 1673596352,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463709,
+      "num": 463709,
+      "word": "刺杀安倍晋三嫌犯被正式起诉",
+      "onboard_time": 1673596831,
+      "rank": 17,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 462459,
@@ -587,6 +611,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 424472,
+      "num": 283718,
+      "word": "一念关山全是美女",
+      "onboard_time": 1673597549,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 419580,
       "num": 179648,
       "word": "王鹤棣热血高校造型大片",
@@ -601,6 +633,14 @@
       "onboard_time": 1673573608,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 399416,
+      "num": 281485,
+      "word": "时代少年团加盟2023湖南卫视春晚",
+      "onboard_time": 1673598692,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 396119,
@@ -723,12 +763,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 349625,
-      "num": 187490,
-      "word": "一念关山全是美女",
-      "onboard_time": 1673597549,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 349147,
+      "num": 349147,
+      "word": "半夜在水里看到充气娃娃有多吓人",
+      "onboard_time": 1673596050,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344154,
@@ -737,14 +777,6 @@
       "onboard_time": 1673580090,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 344040,
-      "num": 344040,
-      "word": "刺杀安倍晋三嫌犯被正式起诉",
-      "onboard_time": 1673596831,
-      "rank": 17,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 341895,
@@ -859,14 +891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311023,
-      "num": 311023,
-      "word": "半夜在水里看到充气娃娃有多吓人",
-      "onboard_time": 1673596050,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310288,
       "num": 310288,
       "word": "国内春节最适合去的8个城市",
@@ -881,14 +905,6 @@
       "onboard_time": 1673579249,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 307467,
-      "num": 187461,
-      "word": "太爷爷去世女子请假奔丧被老板怼",
-      "onboard_time": 1673597490,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 307079,
@@ -929,14 +945,6 @@
       "onboard_time": 1673577687,
       "rank": 41,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 298000,
-      "num": 187407,
-      "word": "王一博官宣加盟湖南卫视春晚",
-      "onboard_time": 1673598212,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 297204,
@@ -1019,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 273714,
+      "num": 273714,
+      "word": "狗子的cpu都快烧了",
+      "onboard_time": 1673594611,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 272332,
       "num": 272332,
       "word": "内务府的审美是在线的",
@@ -1032,14 +1048,6 @@
       "word": "人类幼崽聊天有多可爱",
       "onboard_time": 1673574806,
       "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 270607,
-      "num": 270607,
-      "word": "狗子的cpu都快烧了",
-      "onboard_time": 1673594611,
-      "rank": 44,
       "category": "幽默"
     },
     {
@@ -1275,6 +1283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193653,
+      "num": 193653,
+      "word": "JY回归狼人杀",
+      "onboard_time": 1673598569,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192738,
       "num": 192738,
       "word": "乖乖趴在奶奶肩上的小奶狗",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1673581349,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189765,
+      "num": 189765,
+      "word": "云南农民3天打造一个庄园",
+      "onboard_time": 1673598449,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188605,
@@ -1336,6 +1360,14 @@
       "word": "为100只流浪猫投简历",
       "onboard_time": 1673579968,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181177,
+      "num": 187448,
+      "word": "原来内蒙古过年真的发羊",
+      "onboard_time": 1673597847,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1401,6 +1433,14 @@
       "onboard_time": 1673544620,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165070,
+      "num": 165070,
+      "word": "全国超9亿人口或已感染新冠",
+      "onboard_time": 1673598869,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161018,
@@ -1483,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154724,
+      "num": 154724,
+      "word": "国内目前暂未发现XBB.1.5本土病例",
+      "onboard_time": 1673598449,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153868,
       "num": 170660,
       "word": "紧那罗新春限定皮肤",
@@ -1505,6 +1553,22 @@
       "onboard_time": 1673578948,
       "rank": 36,
       "category": "时尚,幽默"
+    },
+    {
+      "raw_hot": 149239,
+      "num": 187428,
+      "word": "公安机关关闭网络水军账号530余万个",
+      "onboard_time": 1673598029,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148808,
+      "num": 187343,
+      "word": "一开始还以为是演的",
+      "onboard_time": 1673598149,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 146530,
@@ -1571,14 +1635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136087,
-      "num": 187448,
-      "word": "原来内蒙古过年真的发羊",
-      "onboard_time": 1673597847,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134807,
       "num": 134807,
       "word": "炫到停不下来的小说",
@@ -1609,14 +1665,6 @@
       "onboard_time": 1673539170,
       "rank": 37,
       "category": "其它"
-    },
-    {
-      "raw_hot": 124351,
-      "num": 187428,
-      "word": "公安机关关闭网络水军账号530余万个",
-      "onboard_time": 1673598029,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122433,
@@ -1691,6 +1739,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 114869,
+      "num": 114869,
+      "word": "兄弟俩用绳子拴门把踹门拔牙",
+      "onboard_time": 1673599047,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114777,
       "num": 114777,
       "word": "苹果CEO库克主动要求降薪",
@@ -1745,14 +1801,6 @@
       "onboard_time": 1673529152,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 106756,
-      "num": 187343,
-      "word": "一开始还以为是演的",
-      "onboard_time": 1673598149,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 106008,
@@ -1948,6 +1996,9 @@
     },
     {
       "word": "#必须紧紧依靠人民创造历史#"
+    },
+    {
+      "word": "#春运路上的暖心守护#"
     }
   ]
 }
