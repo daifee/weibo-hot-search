@@ -1,6 +1,6 @@
 {
   "startTime": 1673627419435,
-  "endTime": 1673634999677,
+  "endTime": 1673637282584,
   "band_list": [
     {
       "raw_hot": 1704998,
@@ -339,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 117873,
+      "num": 81006,
+      "word": "XBB等变异株会再引发感染高峰吗",
+      "onboard_time": 1673633597,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110229,
       "num": 172941,
       "word": "第一次从猫猫脸上看见了委屈",
@@ -483,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60087,
-      "num": 60087,
-      "word": "XBB等变异株会再引发感染高峰吗",
-      "onboard_time": 1673633597,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54451,
       "num": 166156,
       "word": "苏州新年氛围感有多浓",
@@ -521,6 +521,22 @@
       "onboard_time": 1673634976,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27974,
+      "num": 22276,
+      "word": "何炅最漫长的二十秒",
+      "onboard_time": 1673611590,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 27111,
+      "num": 22438,
+      "word": "胡夏从那些年唱到这些人",
+      "onboard_time": 1673635756,
+      "rank": 40,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [

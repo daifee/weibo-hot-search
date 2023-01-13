@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/09 00:23:59 ~ 2023/01/14 02:36:39
+本榜单时间：2023/01/09 00:23:59 ~ 2023/01/14 03:14:42
 </p>
 </blockquote>
 <p>
@@ -9009,6 +9009,12 @@ FIRSTFRAME第一帧（热度：121716）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23XBB%E7%AD%89%E5%8F%98%E5%BC%82%E6%A0%AA%E4%BC%9A%E5%86%8D%E5%BC%95%E5%8F%91%E6%84%9F%E6%9F%93%E9%AB%98%E5%B3%B0%E5%90%97%23" target="weibo">
+XBB等变异株会再引发感染高峰吗（热度：117873）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%8B%89%E9%9B%AA%E4%BA%BA%E6%95%B0%E7%99%BE%E5%85%AC%E9%87%8C%E4%B8%BA%E5%A5%B3%E5%84%BF%E5%9C%86%E6%A2%A6%23" target="weibo">
 货车司机拉雪人数百公里为女儿圆梦（热度：117736）
 </a>
@@ -9735,12 +9741,6 @@ BLACKPINK的live实力（热度：94312）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23XBB%E7%AD%89%E5%8F%98%E5%BC%82%E6%A0%AA%E4%BC%9A%E5%86%8D%E5%BC%95%E5%8F%91%E6%84%9F%E6%9F%93%E9%AB%98%E5%B3%B0%E5%90%97%23" target="weibo">
-XBB等变异株会再引发感染高峰吗（热度：60087）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%AE%8C%E6%88%90%E4%BA%86%E6%8E%A5%E8%AF%8D%E6%B8%B8%E6%88%8F%23" target="weibo">
 苏醒一个人完成了接词游戏（热度：58551）
 </a>
@@ -9797,6 +9797,12 @@ XBB等变异株会再引发感染高峰吗（热度：60087）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%B8%A0%E9%81%93%E5%A2%9E%E5%8A%A0%E5%8F%97%E7%96%AB%E6%83%85%E5%BD%B1%E5%93%8D%E8%BE%83%E5%A4%A7%E7%BE%A4%E4%BD%93%E7%9A%84%E6%94%B6%E5%85%A5%23" target="weibo">
 多渠道增加受疫情影响较大群体的收入（热度：30296）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%A4%8F%E4%BB%8E%E9%82%A3%E4%BA%9B%E5%B9%B4%E5%94%B1%E5%88%B0%E8%BF%99%E4%BA%9B%E4%BA%BA%23" target="weibo">
+胡夏从那些年唱到这些人（热度：27111）
 </a>
 </li>
 
