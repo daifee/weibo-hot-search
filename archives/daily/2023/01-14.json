@@ -1,6 +1,6 @@
 {
   "startTime": 1673627419435,
-  "endTime": 1673645624262,
+  "endTime": 1673648222377,
   "band_list": [
     {
       "raw_hot": 1704998,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139790,
+      "num": 139790,
+      "word": "XBB等变异株会再引发感染高峰吗",
+      "onboard_time": 1673633597,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134026,
       "num": 134026,
       "word": "娶到心爱的女孩笑容是藏不住的",
@@ -339,11 +347,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 120498,
-      "num": 102362,
-      "word": "XBB等变异株会再引发感染高峰吗",
-      "onboard_time": 1673633597,
-      "rank": 41,
+      "raw_hot": 119537,
+      "num": 67004,
+      "word": "家人回应小女孩背猪草背篓比人大",
+      "onboard_time": 1673644452,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -483,8 +491,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 62687,
-      "num": 51908,
+      "raw_hot": 63481,
+      "num": 63481,
       "word": "鼓励住房汽车等大宗消费",
       "onboard_time": 1673641213,
       "rank": 42,
@@ -547,14 +555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 35160,
-      "num": 20723,
-      "word": "家人回应小女孩背猪草背篓比人大",
-      "onboard_time": 1673644452,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33665,
       "num": 33665,
       "word": "朝阳打歌中心",
@@ -601,6 +601,22 @@
       "onboard_time": 1673638032,
       "rank": 32,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 17930,
+      "num": 17930,
+      "word": "韦峰戴璐曾共事属上下级关系",
+      "onboard_time": 1673647814,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16805,
+      "num": 16805,
+      "word": "杨超越方向吃错瓜了",
+      "onboard_time": 1673647814,
+      "rank": 45,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
