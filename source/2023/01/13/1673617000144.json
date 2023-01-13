@@ -1,0 +1,410 @@
+{
+  "runTime": 1673617000144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1796436,
+        "num": 1796436,
+        "word": "这就是明星走出去的意义",
+        "onboard_time": 1673603787,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1426427,
+        "num": 1426427,
+        "word": "2022百大UP主名单",
+        "onboard_time": 1673613630,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15269,
+        "num": 1096777,
+        "word": "哪些年货坐火车要限量携带",
+        "onboard_time": 1673579308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1043660,
+        "num": 1043660,
+        "word": "网传陈飞宇张婧仪二搭出演结婚而已",
+        "onboard_time": 1673615133,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 956929,
+        "num": 956929,
+        "word": "男孩1天喝6瓶饮料父亲一次灌饱",
+        "onboard_time": 1673614049,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770881,
+        "num": 770881,
+        "word": "韩国官员诚挚欢迎中国游客到访",
+        "onboard_time": 1673615316,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 700459,
+        "num": 700459,
+        "word": "女生第1次去男友家洗碗手冻通红",
+        "onboard_time": 1673592328,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623298,
+        "num": 623298,
+        "word": "女子回家过年拒绝相亲被介绍人打伤",
+        "onboard_time": 1673612612,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556477,
+        "num": 556477,
+        "word": "报告称2022年终奖人均2.19万元",
+        "onboard_time": 1673611529,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 335653,
+        "num": 335653,
+        "word": "大学单身率最高的专业是什么",
+        "onboard_time": 1673609492,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 4558237,
+        "num": 327803,
+        "word": "马思唯易梦玲 分手",
+        "onboard_time": 1673614532,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314244,
+        "num": 314244,
+        "word": "男子偷摸未成年被女孩妈妈当街掌掴",
+        "onboard_time": 1673590350,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309124,
+        "num": 309124,
+        "word": "太爷爷去世女子请假奔丧被老板怼",
+        "onboard_time": 1673597490,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3891499,
+        "num": 303237,
+        "word": "刘心悠承认已婚",
+        "onboard_time": 1673614290,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290535,
+        "num": 290535,
+        "word": "梨泰院踩踏事故调查结果公布",
+        "onboard_time": 1673592091,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284284,
+        "num": 284284,
+        "word": "4万年前8岁男孩容貌再现",
+        "onboard_time": 1673602410,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770654,
+        "num": 284221,
+        "word": "侃爷 结婚",
+        "onboard_time": 1673604868,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238799,
+        "num": 238799,
+        "word": "爸妈抛下儿子旅游寄回30箱年货",
+        "onboard_time": 1673604448,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234849,
+        "num": 234849,
+        "word": "G5515张南高速交通事故致3人死亡",
+        "onboard_time": 1673601268,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 222490,
+        "num": 222490,
+        "word": "丈夫偷送万元包妻子大哭10分钟",
+        "onboard_time": 1673603247,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580292,
+        "num": 222190,
+        "word": "沈腾说没想到易烊千玺这么不爱说话",
+        "onboard_time": 1673604810,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400008,
+        "num": 220874,
+        "word": "谢之遥终于放心了",
+        "onboard_time": 1673616575,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379883,
+        "num": 219381,
+        "word": "星汉灿烂组团去纵有疾风起了",
+        "onboard_time": 1673613330,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215745,
+        "num": 215745,
+        "word": "新年美甲",
+        "onboard_time": 1673599531,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 198202,
+        "num": 198202,
+        "word": "第一次从猫猫脸上看见了委屈",
+        "onboard_time": 1673610869,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 367496,
+        "num": 197418,
+        "word": "孙怡 女团",
+        "onboard_time": 1673607151,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189217,
+        "num": 189217,
+        "word": "新冠感染重症病例诊疗方案试行第四版公布",
+        "onboard_time": 1673616155,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182239,
+        "num": 182239,
+        "word": "EDG上野ID",
+        "onboard_time": 1673610568,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180461,
+        "num": 180461,
+        "word": "第一次见洗澡这么享受的狗",
+        "onboard_time": 1673606972,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 179456,
+        "num": 179456,
+        "word": "感染新冠后哪些迹象预示病情恶化",
+        "onboard_time": 1673615914,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368492,
+        "num": 178829,
+        "word": "王一博说想不到无名会找自己演",
+        "onboard_time": 1673610990,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343393,
+        "num": 176960,
+        "word": "鞠婧祎米卡时隔两年再合作",
+        "onboard_time": 1673610632,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 334169,
+        "num": 173227,
+        "word": "李现说只有谢之遥看到了商机",
+        "onboard_time": 1673615498,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317905,
+        "num": 172819,
+        "word": "七英俊 调色盘",
+        "onboard_time": 1673611472,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171121,
+        "num": 171121,
+        "word": "知乎永久封禁1888万彩礼作者帐号",
+        "onboard_time": 1673586153,
+        "rank": 34,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 166139,
+        "num": 166139,
+        "word": "走丢女孩坚称父母电话是110",
+        "onboard_time": 1673608112,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146119,
+        "num": 166105,
+        "word": "某国产手游疑似抄袭斯普拉遁",
+        "onboard_time": 1673600370,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137619,
+        "num": 166073,
+        "word": "来华人员登机前48小时须核酸检测",
+        "onboard_time": 1673596228,
+        "rank": 37,
+        "category": "国内要闻,旅游"
+      },
+      {
+        "raw_hot": 136356,
+        "num": 166041,
+        "word": "吴尊友发文谈复阳",
+        "onboard_time": 1673605833,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135547,
+        "num": 165997,
+        "word": "福字",
+        "onboard_time": 1673605291,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307162,
+        "num": 165962,
+        "word": "贺峻霖嗨字写错",
+        "onboard_time": 1673609371,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132373,
+        "num": 165939,
+        "word": "97年流水线女工逆袭成高校老师",
+        "onboard_time": 1673599712,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119343,
+        "num": 165881,
+        "word": "90后的集卡DNA动了",
+        "onboard_time": 1673616397,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 114712,
+        "num": 165839,
+        "word": "月光爆料",
+        "onboard_time": 1673610150,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103763,
+        "num": 165806,
+        "word": "不愧是川渝的流水席",
+        "onboard_time": 1673604511,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99135,
+        "num": 165765,
+        "word": "隔着屏幕已经闻到小狗味了",
+        "onboard_time": 1673609792,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97287,
+        "num": 165707,
+        "word": "JY回归狼人杀",
+        "onboard_time": 1673598569,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95715,
+        "num": 165689,
+        "word": "这打招呼的方式有点超前",
+        "onboard_time": 1673615014,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94211,
+        "num": 165627,
+        "word": "蚂蚁集团等14家大型平台企业整改已基本完成",
+        "onboard_time": 1673608588,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91228,
+        "num": 165611,
+        "word": "省教育厅回应女生宿舍上铺坠亡",
+        "onboard_time": 1673616814,
+        "rank": 49,
+        "category": "社会负面,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#年味儿里的中国#"
+    }
+  }
+}
