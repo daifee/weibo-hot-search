@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673637282584,
+  "endTime": 1673638396952,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -11891,6 +11891,14 @@
       "category": "动漫,情感"
     },
     {
+      "raw_hot": 120498,
+      "num": 81006,
+      "word": "XBB等变异株会再引发感染高峰吗",
+      "onboard_time": 1673633597,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120289,
       "num": 120289,
       "word": "东部战区战训MV我的战鹰绕着宝岛飞",
@@ -11993,14 +12001,6 @@
       "onboard_time": 1673177250,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 117873,
-      "num": 81006,
-      "word": "XBB等变异株会再引发感染高峰吗",
-      "onboard_time": 1673633597,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117736,
@@ -13041,6 +13041,14 @@
       "onboard_time": 1673385971,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 33233,
+      "num": 24952,
+      "word": "严浩翔说马哥捡到了你的纸飞机",
+      "onboard_time": 1673637914,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 30296,

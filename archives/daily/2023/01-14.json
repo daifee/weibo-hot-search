@@ -1,6 +1,6 @@
 {
   "startTime": 1673627419435,
-  "endTime": 1673637282584,
+  "endTime": 1673638396952,
   "band_list": [
     {
       "raw_hot": 1704998,
@@ -339,7 +339,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 117873,
+      "raw_hot": 120498,
       "num": 81006,
       "word": "XBB等变异株会再引发感染高峰吗",
       "onboard_time": 1673633597,
@@ -520,6 +520,14 @@
       "word": "龚俊cos哈利波特",
       "onboard_time": 1673634976,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 33233,
+      "num": 24952,
+      "word": "严浩翔说马哥捡到了你的纸飞机",
+      "onboard_time": 1673637914,
+      "rank": 32,
       "category": "艺人"
     },
     {
