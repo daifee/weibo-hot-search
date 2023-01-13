@@ -1,6 +1,6 @@
 {
   "startTime": 1673627419435,
-  "endTime": 1673641179233,
+  "endTime": 1673642027395,
   "band_list": [
     {
       "raw_hot": 1704998,
@@ -411,6 +411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 93261,
+      "num": 53096,
+      "word": "没见过这么好笑的粤语教学",
+      "onboard_time": 1673641332,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89528,
       "num": 68323,
       "word": "朴宰范HoshiDino舞蹈挑战",
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 29192,
-      "num": 18650,
+      "num": 21462,
       "word": "龚俊湿发造型大片花絮",
       "onboard_time": 1673640431,
       "rank": 31,
@@ -555,12 +563,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 26532,
-      "num": 18545,
+      "raw_hot": 26901,
+      "num": 21667,
       "word": "是一只有主见的小猫咪",
       "onboard_time": 1673638032,
       "rank": 32,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 16010,
+      "num": 17538,
+      "word": "鼓励住房汽车等大宗消费",
+      "onboard_time": 1673641213,
+      "rank": 42,
+      "category": "财经,社会新闻"
     }
   ],
   "hotgov_list": [

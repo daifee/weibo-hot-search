@@ -1,0 +1,410 @@
+{
+  "runTime": 1673642027395,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 170794,
+        "num": 170794,
+        "word": "榜一大哥奔现遭拒起诉主播欺诈",
+        "onboard_time": 1673625450,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 96508,
+        "num": 96508,
+        "word": "省教育厅回应女生宿舍上铺坠亡",
+        "onboard_time": 1673616814,
+        "rank": 1,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 9629,
+        "num": 96254,
+        "word": "谢谢回家路上的你",
+        "onboard_time": 1673619757,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96185,
+        "num": 96185,
+        "word": "唐嫣不知道黄豆豆也是沙溢演的",
+        "onboard_time": 1673617537,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85295,
+        "num": 85295,
+        "word": "新娘刚下婚车遭痱子粉砸脸糊满身",
+        "onboard_time": 1673617176,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 80218,
+        "num": 80218,
+        "word": "XBB等变异株会再引发感染高峰吗",
+        "onboard_time": 1673633597,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78695,
+        "num": 78695,
+        "word": "日本近1个月新冠死亡人数飙升",
+        "onboard_time": 1673632218,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73848,
+        "num": 73848,
+        "word": "韩国官员诚挚欢迎中国游客到访",
+        "onboard_time": 1673615316,
+        "rank": 7,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 73465,
+        "num": 73465,
+        "word": "易烊千玺留了两三个月的头发拍满江红",
+        "onboard_time": 1673625029,
+        "rank": 8,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 53546,
+        "num": 53546,
+        "word": "郑渊洁找到37年前小读者道歉",
+        "onboard_time": 1673628566,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121101,
+        "num": 53096,
+        "word": "刘心悠承认已婚",
+        "onboard_time": 1673614290,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93261,
+        "num": 53096,
+        "word": "没见过这么好笑的粤语教学",
+        "onboard_time": 1673641332,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52398,
+        "num": 52398,
+        "word": "原神 归终",
+        "onboard_time": 1673623653,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105712,
+        "num": 52295,
+        "word": "向佐郭碧婷 逛街",
+        "onboard_time": 1673624973,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49289,
+        "num": 49289,
+        "word": "淮安市副市长韦峰被免职",
+        "onboard_time": 1673621916,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46128,
+        "num": 46128,
+        "word": "男子超市买898元零食P图付款被抓现行",
+        "onboard_time": 1673619817,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76575,
+        "num": 45054,
+        "word": "马思唯易梦玲 分手",
+        "onboard_time": 1673614532,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41072,
+        "num": 41072,
+        "word": "男孩1天喝6瓶饮料父亲一次灌饱",
+        "onboard_time": 1673614049,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40413,
+        "num": 40413,
+        "word": "顾客吃串为少付钱藏桌底200根签子",
+        "onboard_time": 1673620415,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38242,
+        "num": 38242,
+        "word": "女生第1次去男友家洗碗手冻通红",
+        "onboard_time": 1673592328,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52902,
+        "num": 37491,
+        "word": "2022百大UP主名单",
+        "onboard_time": 1673613630,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36693,
+        "num": 36693,
+        "word": "侃爷 结婚",
+        "onboard_time": 1673604868,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32172,
+        "num": 32172,
+        "word": "最近广东回南天的现状",
+        "onboard_time": 1673620595,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30429,
+        "num": 30429,
+        "word": "女子误把二哈当狼哭着报警",
+        "onboard_time": 1673618494,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36528,
+        "num": 30401,
+        "word": "曼谷没有等到太阳",
+        "onboard_time": 1673620054,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28101,
+        "num": 28101,
+        "word": "感染新冠后哪些迹象预示病情恶化",
+        "onboard_time": 1673615914,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26587,
+        "num": 26587,
+        "word": "南方人哪见过这场面",
+        "onboard_time": 1673622755,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22828,
+        "num": 22828,
+        "word": "报告称2022年终奖人均2.19万元",
+        "onboard_time": 1673611529,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 22061,
+        "num": 22061,
+        "word": "太爷爷去世女子请假奔丧被老板怼",
+        "onboard_time": 1673597490,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21840,
+        "num": 21840,
+        "word": "这鱼长得东倒西歪的",
+        "onboard_time": 1673623535,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34102,
+        "num": 21800,
+        "word": "这就是明星走出去的意义",
+        "onboard_time": 1673603787,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26901,
+        "num": 21667,
+        "word": "是一只有主见的小猫咪",
+        "onboard_time": 1673638032,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 25894,
+        "num": 21462,
+        "word": "龚俊湿发造型大片花絮",
+        "onboard_time": 1673640431,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23052,
+        "num": 21256,
+        "word": "卡梅隆发文diss漫威超级英雄电影",
+        "onboard_time": 1673622333,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21153,
+        "num": 21153,
+        "word": "严浩翔说马哥捡到了你的纸飞机",
+        "onboard_time": 1673637914,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19842,
+        "num": 19842,
+        "word": "4万年前8岁男孩容貌再现",
+        "onboard_time": 1673602410,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18591,
+        "num": 18591,
+        "word": "娶到心爱的女孩笑容是藏不住的",
+        "onboard_time": 1673629642,
+        "rank": 36,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 17824,
+        "num": 17824,
+        "word": "G5515张南高速交通事故致3人死亡",
+        "onboard_time": 1673601268,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 16653,
+        "num": 17763,
+        "word": "学校上铺护栏高度标准是多少",
+        "onboard_time": 1673624074,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 16053,
+        "num": 17723,
+        "word": "互不干涉的相处方式很酷好吗",
+        "onboard_time": 1673622098,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 19821,
+        "num": 17675,
+        "word": "网传陈飞宇张婧仪二搭出演结婚而已",
+        "onboard_time": 1673615133,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19329,
+        "num": 17591,
+        "word": "梁朝伟王一博无名展望未来海报",
+        "onboard_time": 1673627667,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16010,
+        "num": 17538,
+        "word": "鼓励住房汽车等大宗消费",
+        "onboard_time": 1673641213,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 15239,
+        "num": 17494,
+        "word": "女子展示神操作橘子复原术",
+        "onboard_time": 1673630722,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14803,
+        "num": 17412,
+        "word": "金善台安贤洙竞争教练职位",
+        "onboard_time": 1673626169,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14534,
+        "num": 17344,
+        "word": "某幻连续5年获百大UP主",
+        "onboard_time": 1673619155,
+        "rank": 45,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 13604,
+        "num": 17324,
+        "word": "手艺人做的翻糖",
+        "onboard_time": 1673626348,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 13212,
+        "num": 17243,
+        "word": "你与李泽言的第六年",
+        "onboard_time": 1673623117,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11547,
+        "num": 17189,
+        "word": "新冠感染重症病例诊疗方案试行第四版公布",
+        "onboard_time": 1673616155,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11535,
+        "num": 17111,
+        "word": "大学单身率最高的专业是什么",
+        "onboard_time": 1673609492,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#春运路上的暖心守护#"
+    }
+  }
+}
