@@ -1,0 +1,410 @@
+{
+  "runTime": 1673584711753,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1557153,
+        "num": 1557153,
+        "word": "王俊凯 大家不要抱着戾气生活",
+        "onboard_time": 1673566824,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1456634,
+        "num": 1456634,
+        "word": "后期抽了一条烟 才把这十秒的烟给抠掉",
+        "onboard_time": 1673582070,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256473,
+        "num": 1310743,
+        "word": "新冠治疗费用报销图解",
+        "onboard_time": 1673577327,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1260044,
+        "num": 1260044,
+        "word": "成都26岁失联女子申某已找到",
+        "onboard_time": 1673577447,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184542,
+        "num": 1184542,
+        "word": "李泽言",
+        "onboard_time": 1673566161,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1088129,
+        "num": 1088129,
+        "word": "邓超儿子等等长得好帅",
+        "onboard_time": 1673565681,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 848893,
+        "num": 848893,
+        "word": "男子煮羊肉爆炸高压锅击穿屋顶",
+        "onboard_time": 1673581947,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765240,
+        "num": 765240,
+        "word": "沙特球队3亿年薪报价梅西",
+        "onboard_time": 1673581110,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 749414,
+        "num": 749414,
+        "word": "女生怕父母被质疑重男轻女改名",
+        "onboard_time": 1673578649,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677867,
+        "num": 677867,
+        "word": "秦始皇陵兵马俑甬道被人挖开过",
+        "onboard_time": 1673581227,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902663,
+        "num": 675520,
+        "word": "谢之遥得知许红豆一生挚爱是陈南星",
+        "onboard_time": 1673579609,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 853566,
+        "num": 664445,
+        "word": "王嘉尔伦敦演唱会怼外媒",
+        "onboard_time": 1673579547,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 650130,
+        "num": 650130,
+        "word": "刘威说赵丽颖太爱捡乐了",
+        "onboard_time": 1673583814,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585387,
+        "num": 585387,
+        "word": "妈妈为女儿织上百件毛衣价值百万",
+        "onboard_time": 1673581770,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581526,
+        "num": 581526,
+        "word": "iPhone14兔年保护套售价398元",
+        "onboard_time": 1673579249,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 459952,
+        "num": 459952,
+        "word": "同吃同住双胞胎体重相差19斤",
+        "onboard_time": 1673577447,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401017,
+        "num": 401017,
+        "word": "前任突然加微信要同意吗",
+        "onboard_time": 1673565800,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357248,
+        "num": 357248,
+        "word": "疑似1888万彩礼帖文作者致歉",
+        "onboard_time": 1673572406,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349881,
+        "num": 349881,
+        "word": "这辈子他都不敢插队了",
+        "onboard_time": 1673579071,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303477,
+        "num": 303477,
+        "word": "库克2023年薪酬将砍半",
+        "onboard_time": 1673578408,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 591472,
+        "num": 302687,
+        "word": "郑钧刘芸吵架后的状态",
+        "onboard_time": 1673578649,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398650,
+        "num": 299899,
+        "word": "刘宪华回应近年来曝光少的原因",
+        "onboard_time": 1673584471,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 394529,
+        "num": 295332,
+        "word": "张万森 下雪了",
+        "onboard_time": 1673568506,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289413,
+        "num": 289413,
+        "word": "女子谎称是90后和31岁男子恋爱",
+        "onboard_time": 1673572770,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226240,
+        "num": 226240,
+        "word": "苹果正开发iPhone16Pro",
+        "onboard_time": 1673581410,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 354055,
+        "num": 219075,
+        "word": "王源即将返回伯克利上学",
+        "onboard_time": 1673568506,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208772,
+        "num": 208772,
+        "word": "学古筝和不学古筝的都沉默了",
+        "onboard_time": 1673578107,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198915,
+        "num": 198915,
+        "word": "PDD鹅鸭杀皮肤",
+        "onboard_time": 1673569709,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194220,
+        "num": 194220,
+        "word": "腰背不舒服别像这样乱拉伸",
+        "onboard_time": 1673583633,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182183,
+        "num": 182183,
+        "word": "城市猫咪回村血脉觉醒开始抓老鼠",
+        "onboard_time": 1673583333,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339539,
+        "num": 181215,
+        "word": "张同学回应热度消退",
+        "onboard_time": 1673579727,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 587767,
+        "num": 180864,
+        "word": "猫王独生女去世",
+        "onboard_time": 1673583692,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321764,
+        "num": 178978,
+        "word": "央视网络春晚第二波阵容官宣",
+        "onboard_time": 1673578828,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313327,
+        "num": 177145,
+        "word": "苏醒开场后收门票费",
+        "onboard_time": 1673581227,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172915,
+        "num": 177035,
+        "word": "苹果汽车或售价9万美元",
+        "onboard_time": 1673576967,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 192248,
+        "num": 175644,
+        "word": "日本决定核废水2023春夏排入海",
+        "onboard_time": 1673584411,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174591,
+        "num": 174591,
+        "word": "日政府无视当地民众反对开建不沉航母",
+        "onboard_time": 1673576306,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 170926,
+        "num": 170926,
+        "word": "江苏省考成绩",
+        "onboard_time": 1673579849,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160891,
+        "num": 160891,
+        "word": "这是狗犯错后该有的样子吗",
+        "onboard_time": 1673582490,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160769,
+        "num": 160769,
+        "word": "像极了放假前的工作状态",
+        "onboard_time": 1673580751,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 312658,
+        "num": 160667,
+        "word": "张艺兴湖南春晚代言人",
+        "onboard_time": 1673584654,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160536,
+        "num": 160536,
+        "word": "神器传说之武则天皮肤",
+        "onboard_time": 1673568087,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160091,
+        "num": 160091,
+        "word": "父母为省钱未做四维生下连体双胞胎",
+        "onboard_time": 1673584233,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155575,
+        "num": 155575,
+        "word": "佛跳墙成北方年夜饭新宠",
+        "onboard_time": 1673582248,
+        "rank": 43,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 154057,
+        "num": 154057,
+        "word": "兔宝宝8天5个涨停板",
+        "onboard_time": 1673584053,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148139,
+        "num": 148139,
+        "word": "军人结婚当天收到立功喜报",
+        "onboard_time": 1673574384,
+        "rank": 45,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 134295,
+        "num": 134295,
+        "word": "炫到停不下来的小说",
+        "onboard_time": 1673582610,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126153,
+        "num": 126153,
+        "word": "乖乖趴在奶奶肩上的小奶狗",
+        "onboard_time": 1673584053,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118377,
+        "num": 118377,
+        "word": "这确实是把穿搭玩明白了",
+        "onboard_time": 1673578948,
+        "rank": 48,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 112604,
+        "num": 112604,
+        "word": "独行侠vs湖人",
+        "onboard_time": 1673581349,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#年味儿里的中国#"
+    }
+  }
+}

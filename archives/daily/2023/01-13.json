@@ -1,6 +1,6 @@
 {
   "startTime": 1673541706835,
-  "endTime": 1673583790971,
+  "endTime": 1673584711753,
   "band_list": [
     {
       "raw_hot": 2101496,
@@ -33,6 +33,14 @@
       "onboard_time": 1673535092,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1456634,
+      "num": 1456634,
+      "word": "后期抽了一条烟 才把这十秒的烟给抠掉",
+      "onboard_time": 1673582070,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1412932,
@@ -99,14 +107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1048315,
-      "num": 665546,
-      "word": "后期抽了一条烟 才把这十秒的烟给抠掉",
-      "onboard_time": 1673582070,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1004412,
       "num": 1004412,
       "word": "王嘉尔伦敦演唱会怼外媒",
@@ -155,12 +155,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 848893,
+      "num": 848893,
+      "word": "男子煮羊肉爆炸高压锅击穿屋顶",
+      "onboard_time": 1673581947,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 818538,
       "num": 818538,
       "word": "女生怕父母被质疑重男轻女改名",
       "onboard_time": 1673578649,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 765240,
+      "num": 765240,
+      "word": "沙特球队3亿年薪报价梅西",
+      "onboard_time": 1673581110,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 729461,
@@ -185,22 +201,6 @@
       "onboard_time": 1673578828,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 673828,
-      "num": 673828,
-      "word": "沙特球队3亿年薪报价梅西",
-      "onboard_time": 1673581110,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 670618,
-      "num": 670618,
-      "word": "男子煮羊肉爆炸高压锅击穿屋顶",
-      "onboard_time": 1673581947,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 666029,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 650130,
+      "num": 650130,
+      "word": "刘威说赵丽颖太爱捡乐了",
+      "onboard_time": 1673583814,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 643426,
       "num": 643426,
       "word": "郑钧刘芸吵架后的状态",
@@ -259,8 +267,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 582658,
-      "num": 582658,
+      "raw_hot": 587767,
+      "num": 180864,
+      "word": "猫王独生女去世",
+      "onboard_time": 1673583692,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 585387,
+      "num": 585387,
       "word": "妈妈为女儿织上百件毛衣价值百万",
       "onboard_time": 1673581770,
       "rank": 15,
@@ -385,6 +401,14 @@
       "onboard_time": 1673573608,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 398650,
+      "num": 299899,
+      "word": "刘宪华回应近年来曝光少的原因",
+      "onboard_time": 1673584471,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 396119,
@@ -515,12 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 312198,
-      "num": 175839,
-      "word": "猫王独生女去世",
-      "onboard_time": 1673583692,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 312658,
+      "num": 160667,
+      "word": "张艺兴湖南春晚代言人",
+      "onboard_time": 1673584654,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 310288,
@@ -787,6 +811,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 194220,
+      "num": 194220,
+      "word": "腰背不舒服别像这样乱拉伸",
+      "onboard_time": 1673583633,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192248,
+      "num": 175644,
+      "word": "日本决定核废水2023春夏排入海",
+      "onboard_time": 1673584411,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188605,
       "num": 166895,
       "word": "戴燕妮叶若依人设",
@@ -817,6 +857,14 @@
       "onboard_time": 1673525190,
       "rank": 24,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 182183,
+      "num": 182183,
+      "word": "城市猫咪回村血脉觉醒开始抓老鼠",
+      "onboard_time": 1673583333,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181573,
@@ -883,12 +931,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160891,
+      "num": 160891,
+      "word": "这是狗犯错后该有的样子吗",
+      "onboard_time": 1673582490,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 160769,
+      "num": 160769,
+      "word": "像极了放假前的工作状态",
+      "onboard_time": 1673580751,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160657,
       "num": 128540,
       "word": "少年歌行杀疯了",
       "onboard_time": 1673525250,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160091,
+      "num": 160091,
+      "word": "父母为省钱未做四维生下连体双胞胎",
+      "onboard_time": 1673584233,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159298,
@@ -915,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155575,
+      "num": 155575,
+      "word": "佛跳墙成北方年夜饭新宠",
+      "onboard_time": 1673582248,
+      "rank": 37,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 154916,
       "num": 154916,
       "word": "FIFA年度最佳候选公布",
@@ -923,12 +1003,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154427,
-      "num": 154427,
-      "word": "佛跳墙成北方年夜饭新宠",
-      "onboard_time": 1673582248,
-      "rank": 37,
-      "category": "美食,社会新闻"
+      "raw_hot": 154057,
+      "num": 154057,
+      "word": "兔宝宝8天5个涨停板",
+      "onboard_time": 1673584053,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 153769,
@@ -945,14 +1025,6 @@
       "onboard_time": 1673578948,
       "rank": 36,
       "category": "时尚,幽默"
-    },
-    {
-      "raw_hot": 147797,
-      "num": 147797,
-      "word": "这是狗犯错后该有的样子吗",
-      "onboard_time": 1673582490,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 146483,
@@ -977,14 +1049,6 @@
       "onboard_time": 1673580808,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142413,
-      "num": 142413,
-      "word": "像极了放假前的工作状态",
-      "onboard_time": 1673580751,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 142012,
@@ -1059,12 +1123,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 123541,
-      "num": 123541,
-      "word": "腰背不舒服别像这样乱拉伸",
-      "onboard_time": 1673583633,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 126153,
+      "num": 126153,
+      "word": "乖乖趴在奶奶肩上的小奶狗",
+      "onboard_time": 1673584053,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 122433,
