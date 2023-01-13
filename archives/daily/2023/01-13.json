@@ -1,7 +1,15 @@
 {
   "startTime": 1673541706835,
-  "endTime": 1673584711753,
+  "endTime": 1673587045296,
   "band_list": [
+    {
+      "raw_hot": 2619832,
+      "num": 2619832,
+      "word": "后期抽了一条烟 才把这十秒的烟给抠掉",
+      "onboard_time": 1673582070,
+      "rank": 10,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2101496,
       "num": 2101496,
@@ -35,12 +43,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1456634,
-      "num": 1456634,
-      "word": "后期抽了一条烟 才把这十秒的烟给抠掉",
-      "onboard_time": 1673582070,
-      "rank": 10,
-      "category": "综艺"
+      "raw_hot": 1681545,
+      "num": 1681545,
+      "word": "日本决定核废水2023春夏排入海",
+      "onboard_time": 1673584411,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1412932,
@@ -73,6 +81,14 @@
       "onboard_time": 1673568506,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1096201,
+      "num": 1096201,
+      "word": "刘宪华回应近年来曝光少的原因",
+      "onboard_time": 1673584471,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1095576,
@@ -139,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 923221,
+      "num": 923221,
+      "word": "男子煮羊肉爆炸高压锅击穿屋顶",
+      "onboard_time": 1673581947,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 870814,
       "num": 870814,
       "word": "大学时期的赵露思",
@@ -155,14 +179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 848893,
-      "num": 848893,
-      "word": "男子煮羊肉爆炸高压锅击穿屋顶",
-      "onboard_time": 1673581947,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 818538,
       "num": 818538,
       "word": "女生怕父母被质疑重男轻女改名",
@@ -171,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785147,
+      "num": 543090,
+      "word": "知乎永久封禁1888万彩礼作者帐号",
+      "onboard_time": 1673586153,
+      "rank": 11,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 765240,
       "num": 765240,
       "word": "沙特球队3亿年薪报价梅西",
       "onboard_time": 1673581110,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 737545,
+      "num": 542769,
+      "word": "父母为省钱未做四维生下连体双胞胎",
+      "onboard_time": 1673584233,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 729461,
@@ -251,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 625340,
+      "num": 508052,
+      "word": "猫王独生女去世",
+      "onboard_time": 1673583692,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 618591,
       "num": 618591,
       "word": "iPhone14兔年保护套售价398元",
@@ -264,14 +304,6 @@
       "word": "王鹤棣让工作人员拍自己和粉丝的合照",
       "onboard_time": 1673541208,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 587767,
-      "num": 180864,
-      "word": "猫王独生女去世",
-      "onboard_time": 1673583692,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -403,14 +435,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 398650,
-      "num": 299899,
-      "word": "刘宪华回应近年来曝光少的原因",
-      "onboard_time": 1673584471,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 396119,
       "num": 1567290,
       "word": "新冠治疗费用报销图解",
@@ -449,6 +473,22 @@
       "onboard_time": 1673578408,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 363297,
+      "num": 196735,
+      "word": "张艺兴湖南春晚代言人",
+      "onboard_time": 1673584654,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 359598,
+      "num": 192242,
+      "word": "魏大勋大侦探唱功开大了",
+      "onboard_time": 1673586753,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 350062,
@@ -539,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 312658,
-      "num": 160667,
-      "word": "张艺兴湖南春晚代言人",
-      "onboard_time": 1673584654,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 310288,
       "num": 310288,
       "word": "国内春节最适合去的8个城市",
@@ -561,6 +593,14 @@
       "onboard_time": 1673579249,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306856,
+      "num": 188376,
+      "word": "陈佩斯母亲感染新冠去世",
+      "onboard_time": 1673586870,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 302020,
@@ -579,12 +619,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299490,
+      "num": 187763,
+      "word": "一念关山",
+      "onboard_time": 1673585433,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298269,
       "num": 186511,
       "word": "小妖怪的夏天",
       "onboard_time": 1673577687,
       "rank": 41,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 296781,
+      "num": 296781,
+      "word": "城市猫咪回村血脉觉醒开始抓老鼠",
+      "onboard_time": 1673583333,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283425,
@@ -609,6 +665,14 @@
       "onboard_time": 1673574867,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276858,
+      "num": 171701,
+      "word": "湖南卫视春晚露两手官宣",
+      "onboard_time": 1673586811,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 276098,
@@ -803,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197738,
+      "num": 197738,
+      "word": "兔宝宝8天5个涨停板",
+      "onboard_time": 1673584053,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 197737,
       "num": 197737,
       "word": "英日两国将允许相互驻军",
@@ -819,20 +891,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192248,
-      "num": 175644,
-      "word": "日本决定核废水2023春夏排入海",
-      "onboard_time": 1673584411,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188605,
       "num": 166895,
       "word": "戴燕妮叶若依人设",
       "onboard_time": 1673544140,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188324,
+      "num": 188324,
+      "word": "乖乖趴在奶奶肩上的小奶狗",
+      "onboard_time": 1673584053,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 188199,
@@ -857,14 +929,6 @@
       "onboard_time": 1673525190,
       "rank": 24,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 182183,
-      "num": 182183,
-      "word": "城市猫咪回村血脉觉醒开始抓老鼠",
-      "onboard_time": 1673583333,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181573,
@@ -932,7 +996,7 @@
     },
     {
       "raw_hot": 160891,
-      "num": 160891,
+      "num": 171267,
       "word": "这是狗犯错后该有的样子吗",
       "onboard_time": 1673582490,
       "rank": 38,
@@ -940,7 +1004,7 @@
     },
     {
       "raw_hot": 160769,
-      "num": 160769,
+      "num": 170333,
       "word": "像极了放假前的工作状态",
       "onboard_time": 1673580751,
       "rank": 42,
@@ -953,14 +1017,6 @@
       "onboard_time": 1673525250,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 160091,
-      "num": 160091,
-      "word": "父母为省钱未做四维生下连体双胞胎",
-      "onboard_time": 1673584233,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159298,
@@ -987,8 +1043,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155877,
+      "num": 172172,
+      "word": "这猫咪好能装",
+      "onboard_time": 1673585070,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155575,
-      "num": 155575,
+      "num": 170929,
       "word": "佛跳墙成北方年夜饭新宠",
       "onboard_time": 1673582248,
       "rank": 37,
@@ -1001,14 +1065,6 @@
       "onboard_time": 1673570788,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154057,
-      "num": 154057,
-      "word": "兔宝宝8天5个涨停板",
-      "onboard_time": 1673584053,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 153769,
@@ -1091,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136371,
+      "num": 171366,
+      "word": "过年的硬菜跑了",
+      "onboard_time": 1673586691,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134807,
       "num": 134807,
       "word": "炫到停不下来的小说",
@@ -1123,12 +1187,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 126153,
-      "num": 126153,
-      "word": "乖乖趴在奶奶肩上的小奶狗",
-      "onboard_time": 1673584053,
+      "raw_hot": 126679,
+      "num": 170660,
+      "word": "紧那罗新春限定皮肤",
+      "onboard_time": 1673586753,
       "rank": 47,
-      "category": "情感"
+      "category": "游戏"
     },
     {
       "raw_hot": 122433,
@@ -1241,6 +1305,14 @@
       "onboard_time": 1673580266,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101387,
+      "num": 542155,
+      "word": "原神 魈PV",
+      "onboard_time": 1673586033,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 101358,

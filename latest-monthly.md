@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/13 12:38:31
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/13 13:17:25
 </p>
 </blockquote>
 <p>
@@ -275,6 +275,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%91%AB%E5%A4%A7%E5%8F%B7%E5%B0%8F%E5%8F%B7%E5%85%A8%E8%A2%AB%E7%A6%81%E8%A8%80%23" target="weibo">
 刘鑫大号小号全被禁言（热度：2666621）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%8E%E6%9C%9F%E6%8A%BD%E4%BA%86%E4%B8%80%E6%9D%A1%E7%83%9F%20%E6%89%8D%E6%8A%8A%E8%BF%99%E5%8D%81%E7%A7%92%E7%9A%84%E7%83%9F%E7%BB%99%E6%8A%A0%E6%8E%89%23" target="weibo">
+后期抽了一条烟 才把这十秒的烟给抠掉（热度：2619832）
 </a>
 </li>
 
@@ -885,6 +891,12 @@ NASA局长称别让中国打着科研幌子登月（热度：1734698）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%86%B3%E5%AE%9A%E6%A0%B8%E5%BA%9F%E6%B0%B42023%E6%98%A5%E5%A4%8F%E6%8E%92%E5%85%A5%E6%B5%B7%23" target="weibo">
+日本决定核废水2023春夏排入海（热度：1681545）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%82%B3%E6%9E%97%E6%89%BF%E8%AE%A4%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%23" target="weibo">
 陈炳林承认校园霸凌（热度：1681013）
 </a>
@@ -1181,12 +1193,6 @@ XBB会不会导致二次感染（热度：1469736）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E8%99%8E%E8%AF%B4%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%98%AF%E5%80%BC%E5%BE%97%E5%AE%88%E5%8D%AB%E7%9A%84%E9%A6%96%E4%BD%8D%23" target="weibo">
 胖虎说易烊千玺是值得守卫的首位（热度：1461504）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%8E%E6%9C%9F%E6%8A%BD%E4%BA%86%E4%B8%80%E6%9D%A1%E7%83%9F%20%E6%89%8D%E6%8A%8A%E8%BF%99%E5%8D%81%E7%A7%92%E7%9A%84%E7%83%9F%E7%BB%99%E6%8A%A0%E6%8E%89%23" target="weibo">
-后期抽了一条烟 才把这十秒的烟给抠掉（热度：1456634）
 </a>
 </li>
 
@@ -2079,6 +2085,12 @@ EXO再唱初雪（热度：1193995）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E5%9B%9E%E5%BA%94%E8%BF%91%E5%B9%B4%E6%9D%A5%E6%9B%9D%E5%85%89%E5%B0%91%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+刘宪华回应近年来曝光少的原因（热度：1096201）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%99%93%E5%B3%B0%E8%80%81%E5%A9%86%E7%94%9F%E5%AE%8C%E5%AD%A9%E5%AD%90%E4%B8%8D%E4%BD%9C%E4%BA%86%23" target="weibo">
 宋晓峰老婆生完孩子不作了（热度：1095576）
 </a>
@@ -2745,6 +2757,12 @@ newjeans团综推广韩纸（热度：923816）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%85%AE%E7%BE%8A%E8%82%89%E7%88%86%E7%82%B8%E9%AB%98%E5%8E%8B%E9%94%85%E5%87%BB%E7%A9%BF%E5%B1%8B%E9%A1%B6%23" target="weibo">
+男子煮羊肉爆炸高压锅击穿屋顶（热度：923221）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%91%AB%E5%AE%87%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
 胡鑫宇家属发声（热度：922669）
 </a>
@@ -3225,12 +3243,6 @@ BLACKPINK确定领衔出演科切拉音乐节（热度：863887）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%85%AE%E7%BE%8A%E8%82%89%E7%88%86%E7%82%B8%E9%AB%98%E5%8E%8B%E9%94%85%E5%87%BB%E7%A9%BF%E5%B1%8B%E9%A1%B6%23" target="weibo">
-男子煮羊肉爆炸高压锅击穿屋顶（热度：848893）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E8%AF%B4%E9%A9%AC%E4%B8%BD%E5%A4%AA%E7%BE%8E%E4%BA%86%23" target="weibo">
 沈腾说马丽太美了（热度：848827）
 </a>
@@ -3693,6 +3705,12 @@ C罗说世界杯唯一赢阿根廷的是沙特（热度：787065）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E4%B9%8E%E6%B0%B8%E4%B9%85%E5%B0%81%E7%A6%811888%E4%B8%87%E5%BD%A9%E7%A4%BC%E4%BD%9C%E8%80%85%E5%B8%90%E5%8F%B7%23" target="weibo">
+知乎永久封禁1888万彩礼作者帐号（热度：785147）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%B8%E4%B8%8D%E8%AE%A9%E9%83%91%E9%92%A7%E5%94%B1%E7%81%B0%E5%A7%91%E5%A8%98%23" target="weibo">
 刘芸不让郑钧唱灰姑娘（热度：783515）
 </a>
@@ -4031,6 +4049,12 @@ NASA局长怕中国先登月封锁月表资源（热度：769416）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%87%E8%81%94%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BA%A2%E7%81%B0%E5%A4%AA%E7%8B%BC%E7%9A%84%E7%BE%8A%E8%A2%AB%E5%AE%B6%E6%9A%B4%23" target="weibo">
 妇联回应网红灰太狼的羊被家暴（热度：738029）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E4%B8%BA%E7%9C%81%E9%92%B1%E6%9C%AA%E5%81%9A%E5%9B%9B%E7%BB%B4%E7%94%9F%E4%B8%8B%E8%BF%9E%E4%BD%93%E5%8F%8C%E8%83%9E%E8%83%8E%23" target="weibo">
+父母为省钱未做四维生下连体双胞胎（热度：737545）
 </a>
 </li>
 
@@ -5061,6 +5085,12 @@ WBG对战OMG（热度：629027）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%8E%8B%E7%8B%AC%E7%94%9F%E5%A5%B3%E5%8E%BB%E4%B8%96%23" target="weibo">
+猫王独生女去世（热度：625340）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E8%BF%9E%E5%90%83%E4%B8%A4%E5%A4%A9%E8%8F%8C%E8%8F%87%E7%81%AB%E9%94%85%E6%B5%81%E9%BC%BB%E8%A1%80%23" target="weibo">
 李现连吃两天菌菇火锅流鼻血（热度：624926）
 </a>
@@ -5435,12 +5465,6 @@ Tangoz评论权志龙算你小子有点事业心（热度：589457）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E6%98%AF%E7%9C%9F%E7%9A%84%E5%96%9C%E6%AC%A2%E6%B4%97%E5%A4%B4%E5%95%8A%23" target="weibo">
 弟弟是真的喜欢洗头啊（热度：587797）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%8E%8B%E7%8B%AC%E7%94%9F%E5%A5%B3%E5%8E%BB%E4%B8%96%23" target="weibo">
-猫王独生女去世（热度：587767）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ LPL将有两支队伍参加MSI（热度：572293）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%86%E4%BA%94%E7%A6%8F%23" target="weibo">
 集五福（热度：553274）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%BB%E5%B8%88%20LGD%23" target="weibo">
-画师 LGD（热度：553104）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%80%E5%BA%86%E6%88%90%E4%B8%BA%E9%9C%B8%E6%80%BB%E4%B8%93%E4%B8%9A%E6%88%B7%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%B8%8D%E5%90%83%E7%A2%B3%E6%B0%B4%23" target="weibo">
-王耀庆成为霸总专业户的原因是不吃碳水（热度：553104）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%8A%E9%97%A8%E8%BF%8E%E5%A8%B6%E8%87%AA%E5%B7%B1%E7%9A%84%E6%96%B0%E9%83%8E%23" target="weibo">
-女孩上门迎娶自己的新郎（热度：552486）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BD%93%23" target="weibo">
-三体（热度：550240）
 </a>
 </li>
 
