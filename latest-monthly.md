@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/14 00:48:01
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/14 01:16:58
 </p>
 </blockquote>
 <p>
@@ -2271,6 +2271,12 @@ EXO再唱初雪（热度：1193995）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E5%A5%94%E7%8E%B0%E9%81%AD%E6%8B%92%E8%B5%B7%E8%AF%89%E4%B8%BB%E6%92%AD%E6%AC%BA%E8%AF%88%23" target="weibo">
+榜一大哥奔现遭拒起诉主播欺诈（热度：1080833）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E5%9D%90%E7%81%AB%E8%BD%A6%E6%9D%A5%E4%BA%AC%E8%A7%81%E7%94%B7%E5%8F%8B%E5%8D%B4%E8%A2%AB%E6%8B%89%E9%BB%91%E5%93%AD%E7%9D%80%E6%B1%82%E5%8A%A9%E6%B0%91%E8%AD%A6%23" target="weibo">
 姑娘坐火车来京见男友却被拉黑哭着求助民警（热度：1077429）
 </a>
@@ -2789,12 +2795,6 @@ WBG让二追三（热度：970849）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2345%E5%B2%81%E5%A5%B3%E5%AD%90%E5%B8%A65%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%AB%81%E7%BB%99%E5%88%9D%E6%81%8B%23" target="weibo">
 45岁女子带5个孩子嫁给初恋（热度：956728）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E5%A5%94%E7%8E%B0%E9%81%AD%E6%8B%92%E8%B5%B7%E8%AF%89%E4%B8%BB%E6%92%AD%E6%AC%BA%E8%AF%88%23" target="weibo">
-榜一大哥奔现遭拒起诉主播欺诈（热度：954840）
 </a>
 </li>
 
