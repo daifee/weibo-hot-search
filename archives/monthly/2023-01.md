@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/13 15:16:47
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/13 15:33:49
 </p>
 </blockquote>
 <p>
@@ -513,6 +513,12 @@ YG新女团（热度：2181843）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83%23" target="weibo">
+梨泰院踩踏事故调查结果公布（热度：2035859）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E5%8C%97%E4%BA%AC%E9%A3%9E%E4%B8%8A%E6%B5%B7%E8%88%AA%E7%8F%AD%E4%B8%8A%E5%96%8A%E9%A3%9E%E6%9C%BA%E8%A6%81%E5%87%BA%E4%BA%8B%23" target="weibo">
 男子在北京飞上海航班上喊飞机要出事（热度：2026376）
 </a>
@@ -837,6 +843,12 @@ NASA局长称别让中国打着科研幌子登月（热度：1734698）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%B7%E6%91%B8%E6%9C%AA%E6%88%90%E5%B9%B4%E8%A2%AB%E5%A5%B3%E5%AD%A9%E5%A6%88%E5%A6%88%E5%BD%93%E8%A1%97%E6%8E%8C%E6%8E%B4%23" target="weibo">
+男子偷摸未成年被女孩妈妈当街掌掴（热度：1715996）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
 收视率（热度：1714887）
 </a>
@@ -863,12 +875,6 @@ NASA局长称别让中国打着科研幌子登月（热度：1734698）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%20%E7%82%85%E6%AF%8F%E5%B9%B4%E9%83%BD%E6%9C%89%E6%8B%A5%E6%8A%B1%E4%BB%8A%E5%B9%B4%E4%B9%9F%E4%B8%8D%E4%BC%9A%E5%B0%91%23" target="weibo">
 谢娜 炅每年都有拥抱今年也不会少（热度：1703105）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%B7%E6%91%B8%E6%9C%AA%E6%88%90%E5%B9%B4%E8%A2%AB%E5%A5%B3%E5%AD%A9%E5%A6%88%E5%A6%88%E5%BD%93%E8%A1%97%E6%8E%8C%E6%8E%B4%23" target="weibo">
-男子偷摸未成年被女孩妈妈当街掌掴（热度：1703033）
 </a>
 </li>
 
@@ -905,6 +911,12 @@ NASA局长称别让中国打着科研幌子登月（热度：1734698）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B7%A8%E5%B9%B4%E5%A4%9C%E4%B8%AD1000%E4%B8%87%E5%90%8E%E6%82%94%E8%B7%9F%E5%AD%A9%E5%AD%90%E8%AF%B4%23" target="weibo">
 女子跨年夜中1000万后悔跟孩子说（热度：1688050）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%AC%AC1%E6%AC%A1%E5%8E%BB%E7%94%B7%E5%8F%8B%E5%AE%B6%E6%B4%97%E7%A2%97%E6%89%8B%E5%86%BB%E9%80%9A%E7%BA%A2%23" target="weibo">
+女生第1次去男友家洗碗手冻通红（热度：1682351）
 </a>
 </li>
 
@@ -1137,12 +1149,6 @@ IVE假唱被KBS点名批评（热度：1570145）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83%23" target="weibo">
-梨泰院踩踏事故调查结果公布（热度：1492677）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E5%A4%AA%E7%88%B1%E6%88%91%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%23" target="weibo">
 哥哥太爱我了怎么办（热度：1482616）
 </a>
@@ -1343,12 +1349,6 @@ Lisa演唱会 黄欣苑（热度：1425071）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Newjeans%E5%9B%9E%E5%BD%92MV%23" target="weibo">
 Newjeans回归MV（热度：1406494）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%AC%AC1%E6%AC%A1%E5%8E%BB%E7%94%B7%E5%8F%8B%E5%AE%B6%E6%B4%97%E7%A2%97%E6%89%8B%E5%86%BB%E9%80%9A%E7%BA%A2%23" target="weibo">
-女生第1次去男友家洗碗手冻通红（热度：1406491）
 </a>
 </li>
 
