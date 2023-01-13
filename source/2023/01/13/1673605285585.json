@@ -1,0 +1,410 @@
+{
+  "runTime": 1673605285585,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1566479,
+        "num": 1566479,
+        "word": "太爷爷去世女子请假奔丧被老板怼",
+        "onboard_time": 1673597490,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1378807,
+        "num": 1378807,
+        "word": "陈立农入职芒果",
+        "onboard_time": 1673601510,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55234,
+        "num": 1086196,
+        "word": "哪些年货坐火车要限量携带",
+        "onboard_time": 1673579308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1501276,
+        "num": 1052154,
+        "word": "女生第1次去男友家洗碗手冻通红",
+        "onboard_time": 1673592328,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984876,
+        "num": 984876,
+        "word": "何炅说我想回马栏山",
+        "onboard_time": 1673604208,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 980454,
+        "num": 980454,
+        "word": "这就是明星走出去的意义",
+        "onboard_time": 1673603787,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 962339,
+        "num": 962339,
+        "word": "满江红",
+        "onboard_time": 1673601209,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 833626,
+        "num": 833626,
+        "word": "男子偷摸未成年被女孩妈妈当街掌掴",
+        "onboard_time": 1673590350,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784058,
+        "num": 784058,
+        "word": "新年美甲",
+        "onboard_time": 1673599531,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 673416,
+        "num": 673416,
+        "word": "某国产手游疑似抄袭斯普拉遁",
+        "onboard_time": 1673600370,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 823320,
+        "num": 666170,
+        "word": "沈腾说没想到易烊千玺这么不爱说话",
+        "onboard_time": 1673604810,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 806052,
+        "num": 663834,
+        "word": "流浪地球2片长173分钟",
+        "onboard_time": 1673603069,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 619117,
+        "num": 619117,
+        "word": "97年流水线女工逆袭成高校老师",
+        "onboard_time": 1673599712,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576317,
+        "num": 576317,
+        "word": "梨泰院踩踏事故调查结果公布",
+        "onboard_time": 1673592091,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546340,
+        "num": 546340,
+        "word": "知乎永久封禁1888万彩礼作者帐号",
+        "onboard_time": 1673586153,
+        "rank": 14,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 540839,
+        "num": 540839,
+        "word": "丈夫偷送万元包妻子大哭10分钟",
+        "onboard_time": 1673603247,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473551,
+        "num": 473551,
+        "word": "G5515张南高速交通事故致3人死亡",
+        "onboard_time": 1673601268,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 420001,
+        "num": 420001,
+        "word": "4万年前8岁男孩容貌再现",
+        "onboard_time": 1673602410,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290651,
+        "num": 290651,
+        "word": "刺杀安倍晋三嫌犯被正式起诉",
+        "onboard_time": 1673596831,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 288439,
+        "num": 288439,
+        "word": "B站发布鹅鸭杀直播规范通知",
+        "onboard_time": 1673593889,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 777229,
+        "num": 285527,
+        "word": "全国超9亿人口或已感染新冠",
+        "onboard_time": 1673598869,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774208,
+        "num": 272403,
+        "word": "侃爷 结婚",
+        "onboard_time": 1673604868,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397847,
+        "num": 253578,
+        "word": "肖战手绘的福",
+        "onboard_time": 1673597730,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389985,
+        "num": 244448,
+        "word": "刘耀文被成龙指导演技前后对比",
+        "onboard_time": 1673604868,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234977,
+        "num": 234977,
+        "word": "来华人员登机前48小时须核酸检测",
+        "onboard_time": 1673596228,
+        "rank": 24,
+        "category": "国内要闻,旅游"
+      },
+      {
+        "raw_hot": 378139,
+        "num": 233859,
+        "word": "后期抽了一条烟 才把这十秒的烟给抠掉",
+        "onboard_time": 1673582070,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230718,
+        "num": 230718,
+        "word": "离异女子回应带5娃嫁给未婚初恋",
+        "onboard_time": 1673601809,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219454,
+        "num": 219454,
+        "word": "JY回归狼人杀",
+        "onboard_time": 1673598569,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216178,
+        "num": 216178,
+        "word": "日本决定核废水2023春夏排入海",
+        "onboard_time": 1673584411,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187132,
+        "num": 187132,
+        "word": "爸妈抛下儿子旅游寄回30箱年货",
+        "onboard_time": 1673604448,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366742,
+        "num": 187018,
+        "word": "陈佩斯母亲感染新冠去世",
+        "onboard_time": 1673586870,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336985,
+        "num": 186680,
+        "word": "王一博过年好忙",
+        "onboard_time": 1673601147,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334629,
+        "num": 186059,
+        "word": "满江红直播",
+        "onboard_time": 1673603247,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319198,
+        "num": 185593,
+        "word": "李现坚持锻炼用到实处了",
+        "onboard_time": 1673603130,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185444,
+        "num": 185444,
+        "word": "一开始还以为是演的",
+        "onboard_time": 1673598149,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176305,
+        "num": 185406,
+        "word": "如何科学淡痘印",
+        "onboard_time": 1673604088,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 175716,
+        "num": 185129,
+        "word": "半夜在水里看到充气娃娃有多吓人",
+        "onboard_time": 1673596050,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132482,
+        "num": 185042,
+        "word": "不愧是川渝的流水席",
+        "onboard_time": 1673604511,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128378,
+        "num": 184880,
+        "word": "父母为省钱未做四维生下连体双胞胎",
+        "onboard_time": 1673584233,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120033,
+        "num": 184663,
+        "word": "全国多地景区宣布免费",
+        "onboard_time": 1673604146,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 311383,
+        "num": 184552,
+        "word": "唐嫣我们的客栈学院风造型路透",
+        "onboard_time": 1673602648,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119795,
+        "num": 184250,
+        "word": "100亿资助最聪明最大胆的人",
+        "onboard_time": 1673595630,
+        "rank": 41,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 109694,
+        "num": 184221,
+        "word": "中方代表在联合国安理会上点名美国",
+        "onboard_time": 1673593470,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 108806,
+        "num": 183983,
+        "word": "撒贝宁的家宴都有啥好吃的",
+        "onboard_time": 1673601448,
+        "rank": 43,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 105106,
+        "num": 183834,
+        "word": "高价保温杯到底贵在哪里",
+        "onboard_time": 1673591129,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99852,
+        "num": 183552,
+        "word": "乍一看还以为是毛绒坐垫",
+        "onboard_time": 1673604628,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98828,
+        "num": 183505,
+        "word": "当狗狗第一次打针",
+        "onboard_time": 1673605114,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97352,
+        "num": 183276,
+        "word": "原神魈",
+        "onboard_time": 1673587291,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93931,
+        "num": 183134,
+        "word": "公安机关关闭网络水军账号530余万个",
+        "onboard_time": 1673598029,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92048,
+        "num": 182915,
+        "word": "原来狗狗只听语气不听内容",
+        "onboard_time": 1673604930,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022年我国外贸成绩单#"
+    }
+  }
+}
