@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/14 00:30:19 ~ 2023/01/14 01:33:33
+本榜单时间：2023/01/14 00:30:19 ~ 2023/01/14 02:22:18
 </p>
 </blockquote>
 <p>
@@ -147,6 +147,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%911%E4%B8%AA%E6%9C%88%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E9%A3%99%E5%8D%87%23" target="weibo">
+日本近1个月新冠死亡人数飙升（热度：238400）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91%E8%BF%99%E6%9C%9F%E5%83%8F%E5%BC%80%E4%BA%8620%E5%80%8D%E9%80%9F%23" target="weibo">
 最强大脑这期像开了20倍速（热度：233799）
 </a>
@@ -225,6 +231,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A8%B6%E5%88%B0%E5%BF%83%E7%88%B1%E7%9A%84%E5%A5%B3%E5%AD%A9%E7%AC%91%E5%AE%B9%E6%98%AF%E8%97%8F%E4%B8%8D%E4%BD%8F%E7%9A%84%23" target="weibo">
+娶到心爱的女孩笑容是藏不住的（热度：134026）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%96%84%E5%8F%B0%E5%AE%89%E8%B4%A4%E6%B4%99%E7%AB%9E%E4%BA%89%E6%95%99%E7%BB%83%E8%81%8C%E4%BD%8D%23" target="weibo">
 金善台安贤洙竞争教练职位（热度：133885）
 </a>
@@ -245,6 +257,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%90%8E%E5%93%AA%E4%BA%9B%E8%BF%B9%E8%B1%A1%E9%A2%84%E7%A4%BA%E7%97%85%E6%83%85%E6%81%B6%E5%8C%96%23" target="weibo">
 感染新冠后哪些迹象预示病情恶化（热度：125374）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23FIRSTFRAME%E7%AC%AC%E4%B8%80%E5%B8%A7%23" target="weibo">
+FIRSTFRAME第一帧（热度：121716）
 </a>
 </li>
 
@@ -309,8 +327,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A8%B6%E5%88%B0%E5%BF%83%E7%88%B1%E7%9A%84%E5%A5%B3%E5%AD%A9%E7%AC%91%E5%AE%B9%E6%98%AF%E8%97%8F%E4%B8%8D%E4%BD%8F%E7%9A%84%23" target="weibo">
-娶到心爱的女孩笑容是藏不住的（热度：86261）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%AE%B0%E8%8C%83HoshiDino%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98%23" target="weibo">
+朴宰范HoshiDino舞蹈挑战（热度：82159）
 </a>
 </li>
 
@@ -323,6 +341,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23G5515%E5%BC%A0%E5%8D%97%E9%AB%98%E9%80%9F%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%87%B43%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 G5515张南高速交通事故致3人死亡（热度：75220）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%82%A6%E7%88%B1%E5%BE%97%E8%B5%B7%E5%94%B1%E5%87%BA%E4%BA%86%E6%94%BE%E5%BE%97%E4%B8%8B%23" target="weibo">
+孙悦爱得起唱出了放得下（热度：72333）
 </a>
 </li>
 
@@ -345,6 +369,12 @@ EDG上野ID（热度：66794）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B1%95%E7%A4%BA%E7%A5%9E%E6%93%8D%E4%BD%9C%E6%A9%98%E5%AD%90%E5%A4%8D%E5%8E%9F%E6%9C%AF%23" target="weibo">
+女子展示神操作橘子复原术（热度：60449）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E6%96%B0%E5%B9%B4%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%9C%89%E5%A4%9A%E6%B5%93%23" target="weibo">
 苏州新年氛围感有多浓（热度：54451）
 </a>
@@ -363,8 +393,8 @@ EDG上野ID（热度：66794）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B1%95%E7%A4%BA%E7%A5%9E%E6%93%8D%E4%BD%9C%E6%A9%98%E5%AD%90%E5%A4%8D%E5%8E%9F%E6%9C%AF%23" target="weibo">
-女子展示神操作橘子复原术（热度：39547）
+<a href="https://s.weibo.com/weibo?q=%23XBB%E7%AD%89%E5%8F%98%E5%BC%82%E6%A0%AA%E4%BC%9A%E5%86%8D%E5%BC%95%E5%8F%91%E6%84%9F%E6%9F%93%E9%AB%98%E5%B3%B0%E5%90%97%23" target="weibo">
+XBB等变异株会再引发感染高峰吗（热度：34827）
 </a>
 </li>
 

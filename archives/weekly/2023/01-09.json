@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673631213207,
+  "endTime": 1673634138918,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -8355,6 +8355,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 238400,
+      "num": 238400,
+      "word": "日本近1个月新冠死亡人数飙升",
+      "onboard_time": 1673632218,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238184,
       "num": 169069,
       "word": "中国奇谭推出官方周边",
@@ -11531,6 +11539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134026,
+      "num": 134026,
+      "word": "娶到心爱的女孩笑容是藏不住的",
+      "onboard_time": 1673629642,
+      "rank": 43,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 133885,
       "num": 174777,
       "word": "金善台安贤洙竞争教练职位",
@@ -11817,6 +11833,14 @@
       "onboard_time": 1673236768,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121716,
+      "num": 79305,
+      "word": "FIRSTFRAME第一帧",
+      "onboard_time": 1673632997,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 121616,
@@ -12739,14 +12763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 86261,
-      "num": 114240,
-      "word": "娶到心爱的女孩笑容是藏不住的",
-      "onboard_time": 1673629642,
-      "rank": 43,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 84076,
       "num": 84076,
       "word": "国考",
@@ -12761,6 +12777,14 @@
       "onboard_time": 1673190877,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 82159,
+      "num": 48009,
+      "word": "朴宰范HoshiDino舞蹈挑战",
+      "onboard_time": 1673633117,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 81968,
@@ -12851,6 +12875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72333,
+      "num": 42712,
+      "word": "孙悦爱得起唱出了放得下",
+      "onboard_time": 1673632517,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72055,
       "num": 72055,
       "word": "县一把手变一霸手帮弟弟揽工程",
@@ -12923,6 +12955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 60449,
+      "num": 60449,
+      "word": "女子展示神操作橘子复原术",
+      "onboard_time": 1673630722,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58551,
       "num": 40938,
       "word": "苏醒一个人完成了接词游戏",
@@ -12979,20 +13019,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39547,
-      "num": 39547,
-      "word": "女子展示神操作橘子复原术",
-      "onboard_time": 1673630722,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38260,
       "num": 38260,
       "word": "曾黎说也不过是自己的一厢情愿罢了",
       "onboard_time": 1673385971,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 34827,
+      "num": 34827,
+      "word": "XBB等变异株会再引发感染高峰吗",
+      "onboard_time": 1673633597,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30296,

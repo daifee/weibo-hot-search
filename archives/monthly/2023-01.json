@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673631213207,
+  "endTime": 1673634138918,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -20955,6 +20955,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 238400,
+      "num": 238400,
+      "word": "日本近1个月新冠死亡人数飙升",
+      "onboard_time": 1673632218,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238389,
       "num": 238389,
       "word": "白敬亭2022双平台年冠",
@@ -28963,6 +28971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134026,
+      "num": 134026,
+      "word": "娶到心爱的女孩笑容是藏不住的",
+      "onboard_time": 1673629642,
+      "rank": 43,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 133981,
       "num": 133981,
       "word": "无畏这样的我治愈感拉满",
@@ -29817,6 +29833,14 @@
       "onboard_time": 1673236768,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121716,
+      "num": 79305,
+      "word": "FIRSTFRAME第一帧",
+      "onboard_time": 1673632997,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 121712,
@@ -32003,14 +32027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 86261,
-      "num": 114240,
-      "word": "娶到心爱的女孩笑容是藏不住的",
-      "onboard_time": 1673629642,
-      "rank": 43,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 86007,
       "num": 314703,
       "word": "人民子弟兵的硬核仪式感",
@@ -32073,6 +32089,14 @@
       "onboard_time": 1672486841,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 82159,
+      "num": 48009,
+      "word": "朴宰范HoshiDino舞蹈挑战",
+      "onboard_time": 1673633117,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 82069,
@@ -32243,6 +32267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72333,
+      "num": 42712,
+      "word": "孙悦爱得起唱出了放得下",
+      "onboard_time": 1673632517,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 71636,
       "num": 71636,
       "word": "中国智能手机换机周期或增至34个月",
@@ -32393,6 +32425,14 @@
       "onboard_time": 1672870032,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 60449,
+      "num": 60449,
+      "word": "女子展示神操作橘子复原术",
+      "onboard_time": 1673630722,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60208,
@@ -32651,14 +32691,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 39547,
-      "num": 39547,
-      "word": "女子展示神操作橘子复原术",
-      "onboard_time": 1673630722,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39529,
       "num": 29650,
       "word": "宋雨琦金唱片红毯粉裙造型",
@@ -32761,6 +32793,14 @@
       "onboard_time": 1673032753,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 34827,
+      "num": 34827,
+      "word": "XBB等变异株会再引发感染高峰吗",
+      "onboard_time": 1673633597,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34047,

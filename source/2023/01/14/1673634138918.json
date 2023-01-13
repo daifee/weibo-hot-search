@@ -1,0 +1,410 @@
+{
+  "runTime": 1673634138918,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 420710,
+        "num": 420710,
+        "word": "榜一大哥奔现遭拒起诉主播欺诈",
+        "onboard_time": 1673625450,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 327096,
+        "num": 327096,
+        "word": "易烊千玺留了两三个月的头发拍满江红",
+        "onboard_time": 1673625029,
+        "rank": 1,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 16078,
+        "num": 294152,
+        "word": "谢谢回家路上的你",
+        "onboard_time": 1673619757,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274342,
+        "num": 274342,
+        "word": "2022百大UP主名单",
+        "onboard_time": 1673613630,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238400,
+        "num": 238400,
+        "word": "日本近1个月新冠死亡人数飙升",
+        "onboard_time": 1673632218,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233397,
+        "num": 233397,
+        "word": "新娘刚下婚车遭痱子粉砸脸糊满身",
+        "onboard_time": 1673617176,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 204076,
+        "num": 204076,
+        "word": "省教育厅回应女生宿舍上铺坠亡",
+        "onboard_time": 1673616814,
+        "rank": 6,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 196871,
+        "num": 196871,
+        "word": "韩国官员诚挚欢迎中国游客到访",
+        "onboard_time": 1673615316,
+        "rank": 7,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 161440,
+        "num": 161440,
+        "word": "原神 归终",
+        "onboard_time": 1673623653,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107545,
+        "num": 140490,
+        "word": "男子超市买898元零食P图付款被抓现行",
+        "onboard_time": 1673619817,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446821,
+        "num": 137720,
+        "word": "马思唯易梦玲 分手",
+        "onboard_time": 1673614532,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229982,
+        "num": 136477,
+        "word": "郑渊洁找到37年前小读者道歉",
+        "onboard_time": 1673628566,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134026,
+        "num": 134026,
+        "word": "娶到心爱的女孩笑容是藏不住的",
+        "onboard_time": 1673629642,
+        "rank": 12,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 428653,
+        "num": 127791,
+        "word": "刘心悠承认已婚",
+        "onboard_time": 1673614290,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99548,
+        "num": 99548,
+        "word": "最近广东回南天的现状",
+        "onboard_time": 1673620595,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94878,
+        "num": 94878,
+        "word": "女生第1次去男友家洗碗手冻通红",
+        "onboard_time": 1673592328,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351726,
+        "num": 94757,
+        "word": "向佐郭碧婷 逛街",
+        "onboard_time": 1673624973,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94253,
+        "num": 94253,
+        "word": "男孩1天喝6瓶饮料父亲一次灌饱",
+        "onboard_time": 1673614049,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86124,
+        "num": 86124,
+        "word": "顾客吃串为少付钱藏桌底200根签子",
+        "onboard_time": 1673620415,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81966,
+        "num": 81966,
+        "word": "南方人哪见过这场面",
+        "onboard_time": 1673622755,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180110,
+        "num": 80944,
+        "word": "唐嫣不知道黄豆豆也是沙溢演的",
+        "onboard_time": 1673617537,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121716,
+        "num": 79305,
+        "word": "FIRSTFRAME第一帧",
+        "onboard_time": 1673632997,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94600,
+        "num": 77590,
+        "word": "这就是明星走出去的意义",
+        "onboard_time": 1673603787,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 72455,
+        "num": 72455,
+        "word": "淮安市副市长韦峰被免职",
+        "onboard_time": 1673621916,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71336,
+        "num": 71336,
+        "word": "女子误把二哈当狼哭着报警",
+        "onboard_time": 1673618494,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64740,
+        "num": 64740,
+        "word": "报告称2022年终奖人均2.19万元",
+        "onboard_time": 1673611529,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 60449,
+        "num": 60449,
+        "word": "女子展示神操作橘子复原术",
+        "onboard_time": 1673630722,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52964,
+        "num": 52964,
+        "word": "这鱼长得东倒西歪的",
+        "onboard_time": 1673623535,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50724,
+        "num": 50724,
+        "word": "大学单身率最高的专业是什么",
+        "onboard_time": 1673609492,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50536,
+        "num": 50536,
+        "word": "感染新冠后哪些迹象预示病情恶化",
+        "onboard_time": 1673615914,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94377,
+        "num": 50453,
+        "word": "侃爷 结婚",
+        "onboard_time": 1673604868,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82159,
+        "num": 48009,
+        "word": "朴宰范HoshiDino舞蹈挑战",
+        "onboard_time": 1673633117,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 79034,
+        "num": 46230,
+        "word": "郑钧哄小孩式哄刘芸",
+        "onboard_time": 1673627964,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76459,
+        "num": 44925,
+        "word": "曼谷没有等到太阳",
+        "onboard_time": 1673620054,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43061,
+        "num": 43061,
+        "word": "金善台安贤洙竞争教练职位",
+        "onboard_time": 1673626169,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72333,
+        "num": 42712,
+        "word": "孙悦爱得起唱出了放得下",
+        "onboard_time": 1673632517,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42038,
+        "num": 42038,
+        "word": "太爷爷去世女子请假奔丧被老板怼",
+        "onboard_time": 1673597490,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36534,
+        "num": 36534,
+        "word": "第一次从猫猫脸上看见了委屈",
+        "onboard_time": 1673610869,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36412,
+        "num": 36412,
+        "word": "互不干涉的相处方式很酷好吗",
+        "onboard_time": 1673622098,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 36139,
+        "num": 36139,
+        "word": "某幻连续5年获百大UP主",
+        "onboard_time": 1673619155,
+        "rank": 39,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 71533,
+        "num": 35719,
+        "word": "卡梅隆发文diss漫威超级英雄电影",
+        "onboard_time": 1673622333,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34827,
+        "num": 34827,
+        "word": "XBB等变异株会再引发感染高峰吗",
+        "onboard_time": 1673633597,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33417,
+        "num": 33417,
+        "word": "你与李泽言的第六年",
+        "onboard_time": 1673623117,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32774,
+        "num": 32774,
+        "word": "EDG上野ID",
+        "onboard_time": 1673610568,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32560,
+        "num": 32560,
+        "word": "手艺人做的翻糖",
+        "onboard_time": 1673626348,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 31849,
+        "num": 31849,
+        "word": "新冠感染重症病例诊疗方案试行第四版公布",
+        "onboard_time": 1673616155,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31670,
+        "num": 31670,
+        "word": "新年美甲",
+        "onboard_time": 1673599531,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 30709,
+        "num": 31670,
+        "word": "4万年前8岁男孩容貌再现",
+        "onboard_time": 1673602410,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27528,
+        "num": 31663,
+        "word": "学校上铺护栏高度标准是多少",
+        "onboard_time": 1673624074,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 25322,
+        "num": 31657,
+        "word": "丈夫偷送万元包妻子大哭10分钟",
+        "onboard_time": 1673603247,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#春运路上的暖心守护#"
+    }
+  }
+}
