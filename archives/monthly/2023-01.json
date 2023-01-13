@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673634138918,
+  "endTime": 1673634999677,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -15923,6 +15923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318896,
+      "num": 318896,
+      "word": "日本近1个月新冠死亡人数飙升",
+      "onboard_time": 1673632218,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318878,
       "num": 342610,
       "word": "全美航班停飞原因曝光",
@@ -20953,14 +20961,6 @@
       "onboard_time": 1673198420,
       "rank": 31,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 238400,
-      "num": 238400,
-      "word": "日本近1个月新冠死亡人数飙升",
-      "onboard_time": 1673632218,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238389,
@@ -31931,6 +31931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89528,
+      "num": 68323,
+      "word": "朴宰范HoshiDino舞蹈挑战",
+      "onboard_time": 1673633117,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 89139,
       "num": 89139,
       "word": "师父粤语配音即将上线",
@@ -32089,14 +32097,6 @@
       "onboard_time": 1672486841,
       "rank": 48,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 82159,
-      "num": 48009,
-      "word": "朴宰范HoshiDino舞蹈挑战",
-      "onboard_time": 1673633117,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 82069,
@@ -32443,6 +32443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 60087,
+      "num": 60087,
+      "word": "XBB等变异株会再引发感染高峰吗",
+      "onboard_time": 1673633597,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59436,
       "num": 59436,
       "word": "曼联3比1埃弗顿",
@@ -32601,6 +32609,14 @@
       "onboard_time": 1673047338,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45506,
+      "num": 42775,
+      "word": "龚俊cos哈利波特",
+      "onboard_time": 1673634976,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 45287,
@@ -32793,14 +32809,6 @@
       "onboard_time": 1673032753,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 34827,
-      "num": 34827,
-      "word": "XBB等变异株会再引发感染高峰吗",
-      "onboard_time": 1673633597,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34047,
