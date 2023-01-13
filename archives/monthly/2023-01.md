@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/13 22:18:18
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/13 22:34:42
 </p>
 </blockquote>
 <p>
@@ -1455,6 +1455,12 @@ YG确认金智秀今年将发行solo专辑（热度：1379525）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%88%9A%E4%B8%8B%E5%A9%9A%E8%BD%A6%E9%81%AD%E7%97%B1%E5%AD%90%E7%B2%89%E7%A0%B8%E8%84%B8%E7%B3%8A%E6%BB%A1%E8%BA%AB%23" target="weibo">
+新娘刚下婚车遭痱子粉砸脸糊满身（热度：1371967）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B8%85%E4%B8%80%E4%B8%AD%23" target="weibo">
 长清一中（热度：1369520）
 </a>
@@ -1775,6 +1781,12 @@ aespa开麦（热度：1239883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E6%89%AF%E5%B7%A5%E7%89%8C%23" target="weibo">
 吴磊扯工牌（热度：1227192）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E4%B8%8A%E9%93%BA%E5%9D%A0%E4%BA%A1%23" target="weibo">
+省教育厅回应女生宿舍上铺坠亡（热度：1227080）
 </a>
 </li>
 
@@ -2279,12 +2291,6 @@ iPhone15Pro机型会有6大独占功能（热度：1066029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A2%23" target="weibo">
 大侦探（热度：1065354）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%88%9A%E4%B8%8B%E5%A9%9A%E8%BD%A6%E9%81%AD%E7%97%B1%E5%AD%90%E7%B2%89%E7%A0%B8%E8%84%B8%E7%B3%8A%E6%BB%A1%E8%BA%AB%23" target="weibo">
-新娘刚下婚车遭痱子粉砸脸糊满身（热度：1063601）
 </a>
 </li>
 
@@ -3143,12 +3149,6 @@ IU田柾国被滚石选为最伟大歌手TOP200（热度：902530）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%AD%A6%E5%AF%9F%E5%8E%85%E9%95%BF%E9%A6%96%E6%AC%A1%E6%89%BF%E8%AE%A4%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E5%BD%93%E5%A4%A9%E6%B8%B8%E7%8E%A9%E9%A5%AE%E9%85%92%23" target="weibo">
 韩国警察厅长首次承认踩踏事故当天游玩饮酒（热度：893634）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E4%B8%8A%E9%93%BA%E5%9D%A0%E4%BA%A1%23" target="weibo">
-省教育厅回应女生宿舍上铺坠亡（热度：892526）
 </a>
 </li>
 

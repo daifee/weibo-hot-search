@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673619498173,
+  "endTime": 1673620482798,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 4558237,
-      "num": 388717,
+      "num": 444331,
       "word": "马思唯易梦玲 分手",
       "onboard_time": 1673614532,
       "rank": 13,
@@ -691,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1371967,
+      "num": 1267308,
+      "word": "新娘刚下婚车遭痱子粉砸脸糊满身",
+      "onboard_time": 1673617176,
+      "rank": 5,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1358522,
       "num": 1358522,
       "word": "尹锡悦要求韩外交部向中方解释",
@@ -857,6 +865,14 @@
       "onboard_time": 1673352931,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1227080,
+      "num": 1227080,
+      "word": "省教育厅回应女生宿舍上铺坠亡",
+      "onboard_time": 1673616814,
+      "rank": 49,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 1226637,
@@ -1129,14 +1145,6 @@
       "onboard_time": 1673326051,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1063601,
-      "num": 1063601,
-      "word": "新娘刚下婚车遭痱子粉砸脸糊满身",
-      "onboard_time": 1673617176,
-      "rank": 5,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1061604,
@@ -1593,14 +1601,6 @@
       "onboard_time": 1673470572,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 892526,
-      "num": 892526,
-      "word": "省教育厅回应女生宿舍上铺坠亡",
-      "onboard_time": 1673616814,
-      "rank": 49,
-      "category": "社会负面,教育"
     },
     {
       "raw_hot": 891604,
@@ -3507,6 +3507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504681,
+      "num": 213911,
+      "word": "曼谷没有等到太阳",
+      "onboard_time": 1673620054,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504365,
       "num": 393538,
       "word": "虞书欣豹纹吊带裙上班路透",
@@ -3779,6 +3787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478201,
+      "num": 208678,
+      "word": "姚晨爸妈坚持养鸡",
+      "onboard_time": 1673619633,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477864,
       "num": 477864,
       "word": "大爷心疼网友吃猕猴桃酸掉牙",
@@ -3897,6 +3913,14 @@
       "onboard_time": 1673407828,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 466296,
+      "num": 466296,
+      "word": "新冠感染重症病例诊疗方案试行第四版公布",
+      "onboard_time": 1673616155,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466159,
@@ -4249,6 +4273,14 @@
       "onboard_time": 1673565439,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434876,
+      "num": 208571,
+      "word": "时代少年团湖南小年夜彩排路透",
+      "onboard_time": 1673619575,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 434633,
@@ -4651,14 +4683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 405143,
-      "num": 405143,
-      "word": "新冠感染重症病例诊疗方案试行第四版公布",
-      "onboard_time": 1673616155,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 405121,
       "num": 293351,
       "word": "顾南亭升为飞行部部长",
@@ -4697,6 +4721,14 @@
       "onboard_time": 1673598692,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 398520,
+      "num": 398520,
+      "word": "某幻连续5年获百大UP主",
+      "onboard_time": 1673619155,
+      "rank": 27,
+      "category": "游戏,科技"
     },
     {
       "raw_hot": 398207,
@@ -4793,6 +4825,14 @@
       "onboard_time": 1673251049,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 393237,
+      "num": 393237,
+      "word": "女子误把二哈当狼哭着报警",
+      "onboard_time": 1673618494,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392912,
@@ -5361,6 +5401,14 @@
       "onboard_time": 1673267551,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 356898,
+      "num": 226061,
+      "word": "杨超越游戏ID是球千尺",
+      "onboard_time": 1673619396,
+      "rank": 40,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 355791,
@@ -5937,6 +5985,14 @@
       "onboard_time": 1673576907,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 330592,
+      "num": 206771,
+      "word": "李现谢之遥压力山大",
+      "onboard_time": 1673620117,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 329755,
@@ -6817,14 +6873,6 @@
       "onboard_time": 1673402307,
       "rank": 24,
       "category": "科技"
-    },
-    {
-      "raw_hot": 290281,
-      "num": 226061,
-      "word": "杨超越游戏ID是球千尺",
-      "onboard_time": 1673619396,
-      "rank": 40,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 289847,
@@ -9123,6 +9171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199733,
+      "num": 207783,
+      "word": "男子超市买898元零食P图付款被抓现行",
+      "onboard_time": 1673619817,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199467,
       "num": 199467,
       "word": "贪官嗜赌成瘾一上牌桌如打鸡血",
@@ -10035,14 +10091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 173470,
-      "num": 240219,
-      "word": "某幻连续5年获百大UP主",
-      "onboard_time": 1673619155,
-      "rank": 27,
-      "category": "游戏,科技"
-    },
-    {
       "raw_hot": 173290,
       "num": 173290,
       "word": "谁家小狗这样走路啊",
@@ -10592,14 +10640,6 @@
       "word": "新冠康复如何做到清淡饮食",
       "onboard_time": 1673410590,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156063,
-      "num": 231967,
-      "word": "女子误把二哈当狼哭着报警",
-      "onboard_time": 1673618494,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -11345,6 +11385,14 @@
       "onboard_time": 1673482409,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129942,
+      "num": 207364,
+      "word": "想被王思聪打这个梗很丑陋",
+      "onboard_time": 1673620117,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129831,
@@ -12507,6 +12555,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 78589,
+      "num": 205293,
+      "word": "顾客吃串为少付钱藏桌底200根签子",
+      "onboard_time": 1673620415,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77870,
       "num": 77870,
       "word": "放开手让孩子自主成长",
@@ -12641,6 +12697,14 @@
       "onboard_time": 1673457080,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 52923,
+      "num": 1267462,
+      "word": "谢谢回家路上的你",
+      "onboard_time": 1673619757,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50454,

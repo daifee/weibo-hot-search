@@ -1,6 +1,6 @@
 {
   "startTime": 1673541706835,
-  "endTime": 1673619498173,
+  "endTime": 1673620482798,
   "band_list": [
     {
       "raw_hot": 4568769,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4558237,
-      "num": 388717,
+      "num": 444331,
       "word": "马思唯易梦玲 分手",
       "onboard_time": 1673614532,
       "rank": 13,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1371967,
+      "num": 1267308,
+      "word": "新娘刚下婚车遭痱子粉砸脸糊满身",
+      "onboard_time": 1673617176,
+      "rank": 5,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1290277,
       "num": 1290277,
       "word": "全国超9亿人口或已感染新冠",
@@ -201,6 +209,14 @@
       "onboard_time": 1673577447,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1227080,
+      "num": 1227080,
+      "word": "省教育厅回应女生宿舍上铺坠亡",
+      "onboard_time": 1673616814,
+      "rank": 49,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 1225677,
@@ -257,14 +273,6 @@
       "onboard_time": 1673572770,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1063601,
-      "num": 1063601,
-      "word": "新娘刚下婚车遭痱子粉砸脸糊满身",
-      "onboard_time": 1673617176,
-      "rank": 5,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1061139,
@@ -353,14 +361,6 @@
       "onboard_time": 1673581947,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 892526,
-      "num": 892526,
-      "word": "省教育厅回应女生宿舍上铺坠亡",
-      "onboard_time": 1673616814,
-      "rank": 49,
-      "category": "社会负面,教育"
     },
     {
       "raw_hot": 883507,
@@ -755,6 +755,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 504681,
+      "num": 213911,
+      "word": "曼谷没有等到太阳",
+      "onboard_time": 1673620054,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504365,
       "num": 393538,
       "word": "虞书欣豹纹吊带裙上班路透",
@@ -787,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 478201,
+      "num": 208678,
+      "word": "姚晨爸妈坚持养鸡",
+      "onboard_time": 1673619633,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 473551,
       "num": 473551,
       "word": "G5515张南高速交通事故致3人死亡",
@@ -817,6 +833,14 @@
       "onboard_time": 1673536535,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 466296,
+      "num": 466296,
+      "word": "新冠感染重症病例诊疗方案试行第四版公布",
+      "onboard_time": 1673616155,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465006,
@@ -889,6 +913,14 @@
       "onboard_time": 1673565439,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434876,
+      "num": 208571,
+      "word": "时代少年团湖南小年夜彩排路透",
+      "onboard_time": 1673619575,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 430452,
@@ -979,20 +1011,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 405143,
-      "num": 405143,
-      "word": "新冠感染重症病例诊疗方案试行第四版公布",
-      "onboard_time": 1673616155,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 399416,
       "num": 281485,
       "word": "时代少年团加盟2023湖南卫视春晚",
       "onboard_time": 1673598692,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 398520,
+      "num": 398520,
+      "word": "某幻连续5年获百大UP主",
+      "onboard_time": 1673619155,
+      "rank": 27,
+      "category": "游戏,科技"
     },
     {
       "raw_hot": 396119,
@@ -1008,6 +1040,14 @@
       "word": "大叔做高跟鞋脚模试穿狂奔月入600万",
       "onboard_time": 1673532391,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393237,
+      "num": 393237,
+      "word": "女子误把二哈当狼哭着报警",
+      "onboard_time": 1673618494,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1123,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356898,
+      "num": 226061,
+      "word": "杨超越游戏ID是球千尺",
+      "onboard_time": 1673619396,
+      "rank": 40,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 350062,
       "num": 350062,
       "word": "缅甸枭龙战机越境空袭印度",
@@ -1233,6 +1281,14 @@
       "onboard_time": 1673576907,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 330592,
+      "num": 206771,
+      "word": "李现谢之遥压力山大",
+      "onboard_time": 1673620117,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 329755,
@@ -1441,14 +1497,6 @@
       "onboard_time": 1673619035,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 290281,
-      "num": 226061,
-      "word": "杨超越游戏ID是球千尺",
-      "onboard_time": 1673619396,
-      "rank": 40,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 284993,
@@ -1811,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199733,
+      "num": 207783,
+      "word": "男子超市买898元零食P图付款被抓现行",
+      "onboard_time": 1673619817,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197738,
       "num": 197738,
       "word": "兔宝宝8天5个涨停板",
@@ -1971,14 +2027,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 173470,
-      "num": 240219,
-      "word": "某幻连续5年获百大UP主",
-      "onboard_time": 1673619155,
-      "rank": 27,
-      "category": "游戏,科技"
-    },
-    {
       "raw_hot": 173290,
       "num": 173290,
       "word": "谁家小狗这样走路啊",
@@ -2089,14 +2137,6 @@
       "onboard_time": 1673541625,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156063,
-      "num": 231967,
-      "word": "女子误把二哈当狼哭着报警",
-      "onboard_time": 1673618494,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155877,
@@ -2249,6 +2289,14 @@
       "onboard_time": 1673539831,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 129942,
+      "num": 207364,
+      "word": "想被王思聪打这个梗很丑陋",
+      "onboard_time": 1673620117,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129269,
@@ -2627,6 +2675,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 78589,
+      "num": 205293,
+      "word": "顾客吃串为少付钱藏桌底200根签子",
+      "onboard_time": 1673620415,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73523,
       "num": 73523,
       "word": "路边小摊的称都准吗",
@@ -2649,6 +2705,14 @@
       "onboard_time": 1673564176,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 52923,
+      "num": 1267462,
+      "word": "谢谢回家路上的你",
+      "onboard_time": 1673619757,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50454,
