@@ -1,6 +1,6 @@
 {
   "startTime": 1673541706835,
-  "endTime": 1673623213699,
+  "endTime": 1673624181940,
   "band_list": [
     {
       "raw_hot": 4568769,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 854820,
-      "num": 351648,
+      "num": 364558,
       "word": "曼谷没有等到太阳",
       "onboard_time": 1673620054,
       "rank": 21,
@@ -787,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506826,
+      "num": 506826,
+      "word": "淮安市副市长韦峰被免职",
+      "onboard_time": 1673621916,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504365,
       "num": 393538,
       "word": "虞书欣豹纹吊带裙上班路透",
@@ -820,7 +828,7 @@
     },
     {
       "raw_hot": 478201,
-      "num": 255827,
+      "num": 269658,
       "word": "姚晨爸妈坚持养鸡",
       "onboard_time": 1673619633,
       "rank": 31,
@@ -857,6 +865,14 @@
       "onboard_time": 1673536535,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 468587,
+      "num": 468587,
+      "word": "最近广东回南天的现状",
+      "onboard_time": 1673620595,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 466296,
@@ -1075,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391406,
-      "num": 391406,
-      "word": "最近广东回南天的现状",
-      "onboard_time": 1673620595,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 388585,
       "num": 254685,
       "word": "江苏卫视春晚首波阵容官宣",
@@ -1171,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369636,
+      "num": 187387,
+      "word": "卡梅隆发文diss漫威超级英雄电影",
+      "onboard_time": 1673622333,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364385,
       "num": 364385,
       "word": "中方代表在联合国安理会上点名美国",
@@ -1193,14 +1209,6 @@
       "onboard_time": 1673584654,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 360251,
-      "num": 360251,
-      "word": "淮安市副市长韦峰被免职",
-      "onboard_time": 1673621916,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356898,
@@ -1257,6 +1265,14 @@
       "onboard_time": 1673532691,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340748,
+      "num": 162457,
+      "word": "陈鸿宇淘汰",
+      "onboard_time": 1673623833,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 339195,
@@ -1339,20 +1355,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328554,
+      "num": 328554,
+      "word": "河南女子遭暴力逼亲警方妇联介入",
+      "onboard_time": 1673622518,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328093,
       "num": 328093,
       "word": "JY回归狼人杀",
       "onboard_time": 1673598569,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 328032,
-      "num": 187387,
-      "word": "卡梅隆发文diss漫威超级英雄电影",
-      "onboard_time": 1673622333,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 326529,
@@ -1497,6 +1513,14 @@
       "onboard_time": 1673583210,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300629,
+      "num": 160822,
+      "word": "老番茄连续5年获百大UP主",
+      "onboard_time": 1673623715,
+      "rank": 33,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 299902,
@@ -1689,6 +1713,14 @@
       "onboard_time": 1673582908,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259281,
+      "num": 137706,
+      "word": "最强大脑这期像开了20倍速",
+      "onboard_time": 1673623473,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 257788,
@@ -2011,6 +2043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185438,
+      "num": 185438,
+      "word": "南方人哪见过这场面",
+      "onboard_time": 1673622755,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182974,
       "num": 182974,
       "word": "研究显示25万年来爸爸总比妈妈大",
@@ -2243,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152987,
+      "num": 152987,
+      "word": "鸳鸯锅泡面一脸win号",
+      "onboard_time": 1673623833,
+      "rank": 35,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 152218,
       "num": 152218,
       "word": "这确实是把穿搭玩明白了",
@@ -2291,6 +2339,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 143782,
+      "num": 143782,
+      "word": "原神 归终",
+      "onboard_time": 1673623653,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143679,
       "num": 143679,
       "word": "十秒内在数字中轴看春夏秋冬",
@@ -2315,12 +2371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140348,
-      "num": 188308,
-      "word": "河南女子遭暴力逼亲警方妇联介入",
-      "onboard_time": 1673622518,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 141200,
+      "num": 184631,
+      "word": "互不干涉的相处方式很酷好吗",
+      "onboard_time": 1673622098,
+      "rank": 36,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 139448,
@@ -2339,7 +2395,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135813,
+      "raw_hot": 137743,
       "num": 185819,
       "word": "司机车内挂满糖果免费送乘客",
       "onboard_time": 1673621075,
@@ -2377,14 +2433,6 @@
       "onboard_time": 1673539170,
       "rank": 37,
       "category": "其它"
-    },
-    {
-      "raw_hot": 124515,
-      "num": 184631,
-      "word": "互不干涉的相处方式很酷好吗",
-      "onboard_time": 1673622098,
-      "rank": 36,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 122433,
@@ -2563,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109176,
+      "num": 137669,
+      "word": "你与李泽言的第六年",
+      "onboard_time": 1673623117,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108153,
       "num": 162829,
       "word": "冬天就不要漂流了吧",
@@ -2609,6 +2665,14 @@
       "onboard_time": 1673597310,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 103236,
+      "num": 137651,
+      "word": "这鱼长得东倒西歪的",
+      "onboard_time": 1673623535,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 102806,
@@ -2713,14 +2777,6 @@
       "onboard_time": 1673577808,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96779,
-      "num": 183578,
-      "word": "南方人哪见过这场面",
-      "onboard_time": 1673622755,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 90012,

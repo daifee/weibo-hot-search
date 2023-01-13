@@ -1,0 +1,410 @@
+{
+  "runTime": 1673624181940,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1290851,
+        "num": 1290851,
+        "word": "省教育厅回应女生宿舍上铺坠亡",
+        "onboard_time": 1673616814,
+        "rank": 0,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 1065254,
+        "num": 1065254,
+        "word": "唐嫣不知道黄豆豆也是沙溢演的",
+        "onboard_time": 1673617537,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92906,
+        "num": 1062785,
+        "word": "谢谢回家路上的你",
+        "onboard_time": 1673619757,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167978,
+        "num": 1062360,
+        "word": "新娘刚下婚车遭痱子粉砸脸糊满身",
+        "onboard_time": 1673617176,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1061239,
+        "num": 1061239,
+        "word": "2022百大UP主名单",
+        "onboard_time": 1673613630,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 823916,
+        "num": 823916,
+        "word": "韩国官员诚挚欢迎中国游客到访",
+        "onboard_time": 1673615316,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 801983,
+        "num": 801983,
+        "word": "这就是明星走出去的意义",
+        "onboard_time": 1673603787,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 756151,
+        "num": 756151,
+        "word": "男子超市买898元零食P图付款被抓现行",
+        "onboard_time": 1673619817,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506826,
+        "num": 506826,
+        "word": "淮安市副市长韦峰被免职",
+        "onboard_time": 1673621916,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476938,
+        "num": 476938,
+        "word": "顾客吃串为少付钱藏桌底200根签子",
+        "onboard_time": 1673620415,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2502613,
+        "num": 473161,
+        "word": "马思唯易梦玲 分手",
+        "onboard_time": 1673614532,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468587,
+        "num": 468587,
+        "word": "最近广东回南天的现状",
+        "onboard_time": 1673620595,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 430921,
+        "num": 430921,
+        "word": "男孩1天喝6瓶饮料父亲一次灌饱",
+        "onboard_time": 1673614049,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1988503,
+        "num": 426210,
+        "word": "刘心悠承认已婚",
+        "onboard_time": 1673614290,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398941,
+        "num": 398941,
+        "word": "女子误把二哈当狼哭着报警",
+        "onboard_time": 1673618494,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2190067,
+        "num": 367519,
+        "word": "想被王思聪打这个梗很丑陋",
+        "onboard_time": 1673620117,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844202,
+        "num": 364558,
+        "word": "曼谷没有等到太阳",
+        "onboard_time": 1673620054,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328554,
+        "num": 328554,
+        "word": "河南女子遭暴力逼亲警方妇联介入",
+        "onboard_time": 1673622518,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318614,
+        "num": 318614,
+        "word": "女生第1次去男友家洗碗手冻通红",
+        "onboard_time": 1673592328,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271280,
+        "num": 271280,
+        "word": "某幻连续5年获百大UP主",
+        "onboard_time": 1673619155,
+        "rank": 19,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 393689,
+        "num": 269658,
+        "word": "姚晨爸妈坚持养鸡",
+        "onboard_time": 1673619633,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378408,
+        "num": 265837,
+        "word": "沈腾说没想到易烊千玺这么不爱说话",
+        "onboard_time": 1673604810,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376224,
+        "num": 264287,
+        "word": "网传陈飞宇张婧仪二搭出演结婚而已",
+        "onboard_time": 1673615133,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258508,
+        "num": 258508,
+        "word": "报告称2022年终奖人均2.19万元",
+        "onboard_time": 1673611529,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 232897,
+        "num": 232897,
+        "word": "太爷爷去世女子请假奔丧被老板怼",
+        "onboard_time": 1673597490,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190997,
+        "num": 190997,
+        "word": "感染新冠后哪些迹象预示病情恶化",
+        "onboard_time": 1673615914,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185438,
+        "num": 185438,
+        "word": "南方人哪见过这场面",
+        "onboard_time": 1673622755,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181340,
+        "num": 181340,
+        "word": "4万年前8岁男孩容貌再现",
+        "onboard_time": 1673602410,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172670,
+        "num": 172670,
+        "word": "大学单身率最高的专业是什么",
+        "onboard_time": 1673609492,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163835,
+        "num": 163835,
+        "word": "新冠感染重症病例诊疗方案试行第四版公布",
+        "onboard_time": 1673616155,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369636,
+        "num": 162946,
+        "word": "卡梅隆发文diss漫威超级英雄电影",
+        "onboard_time": 1673622333,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340748,
+        "num": 162457,
+        "word": "陈鸿宇淘汰",
+        "onboard_time": 1673623833,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309690,
+        "num": 161508,
+        "word": "刘亦菲的猫客串去有风的地方",
+        "onboard_time": 1673617716,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300629,
+        "num": 160822,
+        "word": "老番茄连续5年获百大UP主",
+        "onboard_time": 1673623715,
+        "rank": 33,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 160272,
+        "num": 160272,
+        "word": "新年美甲",
+        "onboard_time": 1673599531,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 152987,
+        "num": 152987,
+        "word": "鸳鸯锅泡面一脸win号",
+        "onboard_time": 1673623833,
+        "rank": 35,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 143782,
+        "num": 143782,
+        "word": "原神 归终",
+        "onboard_time": 1673623653,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141200,
+        "num": 141200,
+        "word": "互不干涉的相处方式很酷好吗",
+        "onboard_time": 1673622098,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 137743,
+        "num": 137743,
+        "word": "司机车内挂满糖果免费送乘客",
+        "onboard_time": 1673621075,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 122325,
+        "num": 137732,
+        "word": "丈夫偷送万元包妻子大哭10分钟",
+        "onboard_time": 1673603247,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277434,
+        "num": 137726,
+        "word": "侃爷 结婚",
+        "onboard_time": 1673604868,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259281,
+        "num": 137706,
+        "word": "最强大脑这期像开了20倍速",
+        "onboard_time": 1673623473,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119344,
+        "num": 137698,
+        "word": "G5515张南高速交通事故致3人死亡",
+        "onboard_time": 1673601268,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 114538,
+        "num": 137676,
+        "word": "第一次从猫猫脸上看见了委屈",
+        "onboard_time": 1673610869,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109176,
+        "num": 137669,
+        "word": "你与李泽言的第六年",
+        "onboard_time": 1673623117,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103236,
+        "num": 137651,
+        "word": "这鱼长得东倒西歪的",
+        "onboard_time": 1673623535,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86641,
+        "num": 137634,
+        "word": "EDG上野ID",
+        "onboard_time": 1673610568,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82936,
+        "num": 137616,
+        "word": "福字",
+        "onboard_time": 1673605291,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82226,
+        "num": 137615,
+        "word": "吴尊友发文谈复阳",
+        "onboard_time": 1673605833,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72909,
+        "num": 137596,
+        "word": "爸妈抛下儿子旅游寄回30箱年货",
+        "onboard_time": 1673604448,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022年我国外贸成绩单#"
+    }
+  }
+}
