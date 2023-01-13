@@ -1,0 +1,410 @@
+{
+  "runTime": 1673598261619,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1809493,
+        "num": 1809493,
+        "word": "梨泰院踩踏事故调查结果公布",
+        "onboard_time": 1673592091,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1218018,
+        "num": 1218018,
+        "word": "知乎永久封禁1888万彩礼作者帐号",
+        "onboard_time": 1673586153,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 95645,
+        "num": 1055562,
+        "word": "新冠治疗费用报销图解",
+        "onboard_time": 1673577327,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2176019,
+        "num": 1031940,
+        "word": "女生第1次去男友家洗碗手冻通红",
+        "onboard_time": 1673592328,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1426721,
+        "num": 1002626,
+        "word": "男子偷摸未成年被女孩妈妈当街掌掴",
+        "onboard_time": 1673590350,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964265,
+        "num": 964265,
+        "word": "后期抽了一条烟 才把这十秒的烟给抠掉",
+        "onboard_time": 1673582070,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 866484,
+        "num": 866484,
+        "word": "陈佩斯母亲感染新冠去世",
+        "onboard_time": 1673586870,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 790615,
+        "num": 790615,
+        "word": "肖战手绘的福",
+        "onboard_time": 1673597730,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553844,
+        "num": 553844,
+        "word": "100亿资助最聪明最大胆的人",
+        "onboard_time": 1673595630,
+        "rank": 8,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 420836,
+        "num": 420836,
+        "word": "日本决定核废水2023春夏排入海",
+        "onboard_time": 1673584411,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676768,
+        "num": 412913,
+        "word": "B站发布鹅鸭杀直播规范通知",
+        "onboard_time": 1673593889,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 589302,
+        "num": 409404,
+        "word": "沈月说自己更新朋友圈是为了争取角色",
+        "onboard_time": 1673594912,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572698,
+        "num": 394245,
+        "word": "虞书欣北京春晚水蓝色双蝴蝶结造型",
+        "onboard_time": 1673597608,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477884,
+        "num": 383347,
+        "word": "谢之遥太猛了",
+        "onboard_time": 1673597069,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468566,
+        "num": 382817,
+        "word": "来华人员登机前48小时须核酸检测",
+        "onboard_time": 1673596228,
+        "rank": 14,
+        "category": "国内要闻,旅游"
+      },
+      {
+        "raw_hot": 465006,
+        "num": 367715,
+        "word": "白敬亭田曦薇加盟尖叫之夜",
+        "onboard_time": 1673596352,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364385,
+        "num": 364385,
+        "word": "中方代表在联合国安理会上点名美国",
+        "onboard_time": 1673593470,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 344040,
+        "num": 344040,
+        "word": "刺杀安倍晋三嫌犯被正式起诉",
+        "onboard_time": 1673596831,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 332704,
+        "num": 332704,
+        "word": "父母为省钱未做四维生下连体双胞胎",
+        "onboard_time": 1673584233,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311023,
+        "num": 311023,
+        "word": "半夜在水里看到充气娃娃有多吓人",
+        "onboard_time": 1673596050,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384374,
+        "num": 299885,
+        "word": "王鹤棣以爱为营上班接了小朋友的画",
+        "onboard_time": 1673597310,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371085,
+        "num": 292907,
+        "word": "赵丽颖祝张可盈幸福幸运",
+        "onboard_time": 1673596228,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284741,
+        "num": 284741,
+        "word": "成都26岁失联女子申某已找到",
+        "onboard_time": 1673577447,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270607,
+        "num": 270607,
+        "word": "狗子的cpu都快烧了",
+        "onboard_time": 1673594611,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243796,
+        "num": 243796,
+        "word": "高价保温杯到底贵在哪里",
+        "onboard_time": 1673591129,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224439,
+        "num": 224439,
+        "word": "妈妈为女儿织上百件毛衣价值百万",
+        "onboard_time": 1673581770,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187539,
+        "num": 187539,
+        "word": "为何年长父亲会遗传给后代更多突变",
+        "onboard_time": 1673593171,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151098,
+        "num": 187530,
+        "word": "沙特球队3亿年薪报价梅西",
+        "onboard_time": 1673581110,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150768,
+        "num": 187525,
+        "word": "男子煮羊肉爆炸高压锅击穿屋顶",
+        "onboard_time": 1673581947,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150661,
+        "num": 187513,
+        "word": "iPhone14兔年保护套售价398元",
+        "onboard_time": 1673579249,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 352363,
+        "num": 187509,
+        "word": "红豆遥遥冰亲上了",
+        "onboard_time": 1673589269,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349625,
+        "num": 187490,
+        "word": "一念关山全是美女",
+        "onboard_time": 1673597549,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344012,
+        "num": 187487,
+        "word": "王嘉尔伦敦演唱会怼外媒",
+        "onboard_time": 1673579547,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 319520,
+        "num": 187471,
+        "word": "梁朝伟说和程耳交流不需要讲很多话",
+        "onboard_time": 1673596469,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307467,
+        "num": 187461,
+        "word": "太爷爷去世女子请假奔丧被老板怼",
+        "onboard_time": 1673597490,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146568,
+        "num": 187460,
+        "word": "恋与制作人已成功注册李泽言商标",
+        "onboard_time": 1673589871,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136087,
+        "num": 187448,
+        "word": "原来内蒙古过年真的发羊",
+        "onboard_time": 1673597847,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129998,
+        "num": 187438,
+        "word": "秦始皇陵兵马俑甬道被人挖开过",
+        "onboard_time": 1673581227,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124351,
+        "num": 187428,
+        "word": "公安机关关闭网络水军账号530余万个",
+        "onboard_time": 1673598029,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122868,
+        "num": 187417,
+        "word": "原神魈",
+        "onboard_time": 1673587291,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298000,
+        "num": 187407,
+        "word": "王一博官宣加盟湖南卫视春晚",
+        "onboard_time": 1673598212,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297113,
+        "num": 187392,
+        "word": "刘宪华回应近年来曝光少的原因",
+        "onboard_time": 1673584471,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121657,
+        "num": 187385,
+        "word": "梅西年度最佳拿到手软",
+        "onboard_time": 1673589928,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119879,
+        "num": 187379,
+        "word": "女生怕父母被质疑重男轻女改名",
+        "onboard_time": 1673578649,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114800,
+        "num": 187372,
+        "word": "湖人独行侠裁判",
+        "onboard_time": 1673590469,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112749,
+        "num": 187356,
+        "word": "苹果正开发iPhone16Pro",
+        "onboard_time": 1673581410,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 106756,
+        "num": 187343,
+        "word": "一开始还以为是演的",
+        "onboard_time": 1673598149,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103286,
+        "num": 187333,
+        "word": "兔年有哪些好用的祝福词",
+        "onboard_time": 1673597310,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 100363,
+        "num": 187325,
+        "word": "满级滑雪图鉴",
+        "onboard_time": 1673597790,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98871,
+        "num": 187319,
+        "word": "过年的硬菜跑了",
+        "onboard_time": 1673586691,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#年味儿里的中国#"
+    }
+  }
+}
