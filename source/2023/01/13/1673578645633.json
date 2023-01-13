@@ -1,0 +1,410 @@
+{
+  "runTime": 1673578645633,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2057031,
+        "num": 2057031,
+        "word": "王嘉尔 透视装",
+        "onboard_time": 1673576005,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1679892,
+        "num": 1679892,
+        "word": "王俊凯 大家不要抱着戾气生活",
+        "onboard_time": 1673566824,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350259,
+        "num": 1505324,
+        "word": "新冠治疗费用报销图解",
+        "onboard_time": 1673577327,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1467417,
+        "num": 1467417,
+        "word": "邓超儿子等等长得好帅",
+        "onboard_time": 1673565681,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1293122,
+        "num": 1293122,
+        "word": "李泽言",
+        "onboard_time": 1673566161,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1275995,
+        "num": 1275995,
+        "word": "副市长韦峰简历已从官网撤下",
+        "onboard_time": 1673575466,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067192,
+        "num": 1067192,
+        "word": "女子谎称是90后和31岁男子恋爱",
+        "onboard_time": 1673572770,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738006,
+        "num": 738006,
+        "word": "疑似1888万彩礼帖文作者致歉",
+        "onboard_time": 1673572406,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676973,
+        "num": 676973,
+        "word": "前任突然加微信要同意吗",
+        "onboard_time": 1673565800,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396024,
+        "num": 396024,
+        "word": "军人结婚当天收到立功喜报",
+        "onboard_time": 1673574384,
+        "rank": 9,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 1088618,
+        "num": 391721,
+        "word": "宋晓峰老婆生完孩子不作了",
+        "onboard_time": 1673576967,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 702853,
+        "num": 385658,
+        "word": "成都26岁失联女子申某已找到",
+        "onboard_time": 1673577447,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625857,
+        "num": 380271,
+        "word": "张万森 下雪了",
+        "onboard_time": 1673568506,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 567473,
+        "num": 378656,
+        "word": "王源即将返回伯克利上学",
+        "onboard_time": 1673568506,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372998,
+        "num": 372998,
+        "word": "美司法部调查拜登私人办公室发现机密文件",
+        "onboard_time": 1673573608,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 359069,
+        "num": 359069,
+        "word": "苹果汽车或售价9万美元",
+        "onboard_time": 1673576967,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 292650,
+        "num": 292650,
+        "word": "神器传说之武则天皮肤",
+        "onboard_time": 1673568087,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275105,
+        "num": 275105,
+        "word": "同吃同住双胞胎体重相差19斤",
+        "onboard_time": 1673577447,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271618,
+        "num": 271618,
+        "word": "人类幼崽聊天有多可爱",
+        "onboard_time": 1673574806,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257467,
+        "num": 257467,
+        "word": "儿子用电话手表加陌生女孩聊天",
+        "onboard_time": 1673568388,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 361852,
+        "num": 254685,
+        "word": "江苏卫视春晚首波阵容官宣",
+        "onboard_time": 1673576067,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319273,
+        "num": 253923,
+        "word": "马嘉祺严浩翔合作单曲若想念飞行",
+        "onboard_time": 1673576907,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 302635,
+        "num": 244915,
+        "word": "王一博演唱电影无名主题曲",
+        "onboard_time": 1673577086,
+        "rank": 22,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 235634,
+        "num": 235634,
+        "word": "PDD鹅鸭杀皮肤",
+        "onboard_time": 1673569709,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230272,
+        "num": 230272,
+        "word": "果然懒人的孩子早当家",
+        "onboard_time": 1673571388,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225865,
+        "num": 225865,
+        "word": "日政府无视当地民众反对开建不沉航母",
+        "onboard_time": 1673576306,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 181615,
+        "num": 181615,
+        "word": "专家称春节假期前拆后借不友好",
+        "onboard_time": 1673573367,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178639,
+        "num": 178639,
+        "word": "印度16岁少女枪击性侵者母亲",
+        "onboard_time": 1673535390,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161760,
+        "num": 161760,
+        "word": "各国抢中国游客纷纷放大招",
+        "onboard_time": 1673560272,
+        "rank": 28,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 160894,
+        "num": 160894,
+        "word": "大叔医院扔下10万元转身就走",
+        "onboard_time": 1673535512,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295887,
+        "num": 160881,
+        "word": "小妖怪的夏天",
+        "onboard_time": 1673577687,
+        "rank": 30,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 243535,
+        "num": 160874,
+        "word": "杨迪妈妈做饭能有多好吃",
+        "onboard_time": 1673576727,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217761,
+        "num": 160863,
+        "word": "蒲熠星的猫过年有春联了",
+        "onboard_time": 1673577506,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217456,
+        "num": 160847,
+        "word": "霉霉首唱AntiHero",
+        "onboard_time": 1673577268,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160843,
+        "num": 160843,
+        "word": "大叔做高跟鞋脚模试穿狂奔月入600万",
+        "onboard_time": 1673532391,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160313,
+        "num": 160313,
+        "word": "武大拟对10研究生退学处理",
+        "onboard_time": 1673538689,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139087,
+        "num": 139087,
+        "word": "学古筝和不学古筝的都沉默了",
+        "onboard_time": 1673578107,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129711,
+        "num": 129711,
+        "word": "天津一烧烤店结账只收现金",
+        "onboard_time": 1673535272,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128346,
+        "num": 128346,
+        "word": "詹姆斯全明星第2轮票王",
+        "onboard_time": 1673572109,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116819,
+        "num": 116819,
+        "word": "TheShy多个韩服号被永封",
+        "onboard_time": 1673536535,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213178,
+        "num": 116778,
+        "word": "张译狂飙原声台词",
+        "onboard_time": 1673576907,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209290,
+        "num": 116723,
+        "word": "韩东君",
+        "onboard_time": 1673571206,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115930,
+        "num": 115930,
+        "word": "国内春节最适合去的8个城市",
+        "onboard_time": 1673568987,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 114447,
+        "num": 114447,
+        "word": "库克2023年薪酬将砍半",
+        "onboard_time": 1673578408,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 114269,
+        "num": 114269,
+        "word": "内务府的审美是在线的",
+        "onboard_time": 1673570250,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109868,
+        "num": 109868,
+        "word": "45岁女子带5个孩子嫁给初恋",
+        "onboard_time": 1673533051,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101138,
+        "num": 101138,
+        "word": "FIFA年度最佳候选公布",
+        "onboard_time": 1673570788,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100541,
+        "num": 100541,
+        "word": "微距镜头下的年味",
+        "onboard_time": 1673578289,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93757,
+        "num": 93757,
+        "word": "女子攻克难题让1颗蚕茧抽出1500米丝",
+        "onboard_time": 1673577808,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92541,
+        "num": 92541,
+        "word": "宁德时代单季盈利破百亿",
+        "onboard_time": 1673572406,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#健全全面从严治党体系#"
+    }
+  }
+}
