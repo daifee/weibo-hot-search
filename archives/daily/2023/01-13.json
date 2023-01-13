@@ -1,6 +1,6 @@
 {
   "startTime": 1673541706835,
-  "endTime": 1673578645633,
+  "endTime": 1673580058365,
   "band_list": [
     {
       "raw_hot": 2101496,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1095576,
-      "num": 470852,
+      "num": 1031426,
       "word": "宋晓峰老婆生完孩子不作了",
       "onboard_time": 1673576967,
       "rank": 10,
@@ -81,6 +81,14 @@
       "onboard_time": 1673565800,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1038394,
+      "num": 1038394,
+      "word": "成都26岁失联女子申某已找到",
+      "onboard_time": 1673577447,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 945236,
@@ -131,16 +139,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 702853,
-      "num": 385658,
-      "word": "成都26岁失联女子申某已找到",
-      "onboard_time": 1673577447,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 684806,
+      "num": 560466,
+      "word": "央视网络春晚第二波阵容官宣",
+      "onboard_time": 1673578828,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 652756,
-      "num": 478917,
+      "num": 508339,
       "word": "张万森 下雪了",
       "onboard_time": 1673568506,
       "rank": 10,
@@ -163,12 +171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 587702,
+      "num": 559817,
+      "word": "王嘉尔伦敦演唱会怼外媒",
+      "onboard_time": 1673579547,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 557488,
       "num": 557488,
       "word": "王思聪疑因打人被拘提请行政复议",
       "onboard_time": 1673515168,
       "rank": 4,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 555095,
+      "num": 555095,
+      "word": "同吃同住双胞胎体重相差19斤",
+      "onboard_time": 1673577447,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 527296,
@@ -211,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449575,
+      "num": 273100,
+      "word": "谢之遥得知许红豆一生挚爱是陈南星",
+      "onboard_time": 1673579609,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 445650,
       "num": 353636,
       "word": "武大拟对10研究生退学处理",
@@ -243,12 +275,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424562,
+      "num": 424562,
+      "word": "苹果汽车或售价9万美元",
+      "onboard_time": 1673576967,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 418721,
+      "num": 271978,
+      "word": "郑钧刘芸吵架后的状态",
+      "onboard_time": 1673578649,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 412562,
+      "num": 412562,
+      "word": "女生怕父母被质疑重男轻女改名",
+      "onboard_time": 1673578649,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410733,
       "num": 410733,
       "word": "美司法部调查拜登私人办公室发现机密文件",
       "onboard_time": 1673573608,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 396119,
+      "num": 1567290,
+      "word": "新冠治疗费用报销图解",
+      "onboard_time": 1673577327,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394944,
@@ -267,20 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 359069,
-      "num": 359069,
-      "word": "苹果汽车或售价9万美元",
-      "onboard_time": 1673576967,
-      "rank": 23,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 350259,
-      "num": 1567290,
-      "word": "新冠治疗费用报销图解",
-      "onboard_time": 1673577327,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 378117,
+      "num": 378117,
+      "word": "学古筝和不学古筝的都沉默了",
+      "onboard_time": 1673578107,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 350062,
@@ -307,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 337692,
+      "num": 257829,
+      "word": "马嘉祺说如果不爱你怎会想你",
+      "onboard_time": 1673579489,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 334139,
       "num": 334139,
       "word": "大叔医院扔下10万元转身就走",
@@ -329,6 +393,14 @@
       "onboard_time": 1673542043,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322054,
+      "num": 322054,
+      "word": "iPhone14兔年保护套售价398元",
+      "onboard_time": 1673579249,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 317425,
@@ -355,6 +427,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 307957,
+      "num": 188899,
+      "word": "赵丽颖年度关键词是坚持",
+      "onboard_time": 1673579249,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302020,
       "num": 285219,
       "word": "沈腾易烊千玺将合体直播",
@@ -363,8 +443,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295887,
-      "num": 160881,
+      "raw_hot": 298269,
+      "num": 186511,
       "word": "小妖怪的夏天",
       "onboard_time": 1673577687,
       "rank": 41,
@@ -387,20 +467,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275105,
-      "num": 275105,
-      "word": "同吃同住双胞胎体重相差19斤",
-      "onboard_time": 1673577447,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273811,
       "num": 273811,
       "word": "金泰妍中文新歌",
       "onboard_time": 1673538571,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 273349,
+      "num": 273349,
+      "word": "这辈子他都不敢插队了",
+      "onboard_time": 1673579071,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 272332,
@@ -417,6 +497,22 @@
       "onboard_time": 1673574806,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 270562,
+      "num": 270562,
+      "word": "库克2023年薪酬将砍半",
+      "onboard_time": 1673578408,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 270122,
+      "num": 253396,
+      "word": "日政府无视当地民众反对开建不沉航母",
+      "onboard_time": 1673576306,
+      "rank": 26,
+      "category": "军事"
     },
     {
       "raw_hot": 269276,
@@ -441,6 +537,14 @@
       "onboard_time": 1673541685,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254388,
+      "num": 184051,
+      "word": "张同学回应热度消退",
+      "onboard_time": 1673579727,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 250184,
@@ -507,14 +611,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 225865,
-      "num": 225865,
-      "word": "日政府无视当地民众反对开建不沉航母",
-      "onboard_time": 1673576306,
-      "rank": 26,
-      "category": "军事"
-    },
-    {
       "raw_hot": 220184,
       "num": 163694,
       "word": "大麦离开有风小院",
@@ -561,6 +657,14 @@
       "onboard_time": 1673534013,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 190432,
+      "num": 190432,
+      "word": "江苏省考成绩",
+      "onboard_time": 1673579849,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 188605,
@@ -699,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146391,
+      "num": 146391,
+      "word": "这确实是把穿搭玩明白了",
+      "onboard_time": 1673578948,
+      "rank": 36,
+      "category": "时尚,幽默"
+    },
+    {
       "raw_hot": 144681,
       "num": 144681,
       "word": "权威人士称上海打人者王某某系王思聪",
@@ -721,14 +833,6 @@
       "onboard_time": 1673572406,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 139087,
-      "num": 139087,
-      "word": "学古筝和不学古筝的都沉默了",
-      "onboard_time": 1673578107,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 138868,
@@ -787,6 +891,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119792,
+      "num": 119792,
+      "word": "霍格沃茨之遗PC配置需求",
+      "onboard_time": 1673579849,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 118482,
+      "num": 118482,
+      "word": "为100只流浪猫投简历",
+      "onboard_time": 1673579968,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117680,
       "num": 117680,
       "word": "杨超越千金风上班路透",
@@ -811,12 +931,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 114447,
-      "num": 114447,
-      "word": "库克2023年薪酬将砍半",
-      "onboard_time": 1673578408,
-      "rank": 43,
-      "category": "科技"
+      "raw_hot": 114777,
+      "num": 114777,
+      "word": "苹果CEO库克主动要求降薪",
+      "onboard_time": 1673579308,
+      "rank": 47,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 112899,
@@ -833,6 +953,14 @@
       "onboard_time": 1673522430,
       "rank": 41,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 109514,
+      "num": 109514,
+      "word": "哪些年货坐火车要限量携带",
+      "onboard_time": 1673579308,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107634,
