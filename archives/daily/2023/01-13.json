@@ -1,6 +1,6 @@
 {
   "startTime": 1673541706835,
-  "endTime": 1673587045296,
+  "endTime": 1673588024659,
   "band_list": [
     {
       "raw_hot": 2619832,
@@ -27,6 +27,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2044186,
+      "num": 2044186,
+      "word": "知乎永久封禁1888万彩礼作者帐号",
+      "onboard_time": 1673586153,
+      "rank": 11,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 2012773,
       "num": 2012773,
       "word": "邓超儿子等等长得好帅",
@@ -35,20 +43,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1933278,
+      "num": 1933278,
+      "word": "日本决定核废水2023春夏排入海",
+      "onboard_time": 1673584411,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1931393,
       "num": 354830,
       "word": "22岁女生熟睡时从学校宿舍上铺坠亡",
       "onboard_time": 1673535092,
       "rank": 10,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1681545,
-      "num": 1681545,
-      "word": "日本决定核废水2023春夏排入海",
-      "onboard_time": 1673584411,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1412932,
@@ -187,12 +195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 785147,
-      "num": 543090,
-      "word": "知乎永久封禁1888万彩礼作者帐号",
-      "onboard_time": 1673586153,
-      "rank": 11,
-      "category": "社会新闻,科技"
+      "raw_hot": 781152,
+      "num": 549590,
+      "word": "父母为省钱未做四维生下连体双胞胎",
+      "onboard_time": 1673584233,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 765240,
@@ -203,12 +211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 737545,
-      "num": 542769,
-      "word": "父母为省钱未做四维生下连体双胞胎",
-      "onboard_time": 1673584233,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 746921,
+      "num": 525695,
+      "word": "陈佩斯母亲感染新冠去世",
+      "onboard_time": 1673586870,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 729461,
@@ -307,12 +315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 591678,
+      "num": 486892,
+      "word": "严浩翔tangoZ合作视频",
+      "onboard_time": 1673587530,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 585387,
       "num": 585387,
       "word": "妈妈为女儿织上百件毛衣价值百万",
       "onboard_time": 1673581770,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572115,
+      "num": 297635,
+      "word": "魏大勋大侦探唱功开大了",
+      "onboard_time": 1673586753,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 557488,
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 396119,
-      "num": 1567290,
+      "num": 1933364,
       "word": "新冠治疗费用报销图解",
       "onboard_time": 1673577327,
       "rank": 2,
@@ -475,19 +499,19 @@
       "category": "科技"
     },
     {
+      "raw_hot": 364379,
+      "num": 191157,
+      "word": "湖南卫视春晚露两手官宣",
+      "onboard_time": 1673586811,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363297,
       "num": 196735,
       "word": "张艺兴湖南春晚代言人",
       "onboard_time": 1673584654,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 359598,
-      "num": 192242,
-      "word": "魏大勋大侦探唱功开大了",
-      "onboard_time": 1673586753,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -595,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306856,
-      "num": 188376,
-      "word": "陈佩斯母亲感染新冠去世",
-      "onboard_time": 1673586870,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 302020,
       "num": 285219,
       "word": "沈腾易烊千玺将合体直播",
@@ -665,14 +681,6 @@
       "onboard_time": 1673574867,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 276858,
-      "num": 171701,
-      "word": "湖南卫视春晚露两手官宣",
-      "onboard_time": 1673586811,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 276098,
@@ -867,6 +875,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206034,
+      "num": 206034,
+      "word": "原神魈",
+      "onboard_time": 1673587291,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 205171,
+      "num": 205171,
+      "word": "腰背不舒服别像这样乱拉伸",
+      "onboard_time": 1673583633,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197738,
       "num": 197738,
       "word": "兔宝宝8天5个涨停板",
@@ -883,11 +907,19 @@
       "category": "军事"
     },
     {
-      "raw_hot": 194220,
-      "num": 194220,
-      "word": "腰背不舒服别像这样乱拉伸",
-      "onboard_time": 1673583633,
-      "rank": 45,
+      "raw_hot": 192738,
+      "num": 192738,
+      "word": "乖乖趴在奶奶肩上的小奶狗",
+      "onboard_time": 1673584053,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 190238,
+      "num": 190238,
+      "word": "C罗合影利雅得胜利前任7号",
+      "onboard_time": 1673587229,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -897,14 +929,6 @@
       "onboard_time": 1673544140,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188324,
-      "num": 188324,
-      "word": "乖乖趴在奶奶肩上的小奶狗",
-      "onboard_time": 1673584053,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 188199,
@@ -987,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163183,
+      "num": 163183,
+      "word": "这狗是来报恩的吗",
+      "onboard_time": 1673587530,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161018,
       "num": 161018,
       "word": "女子回应前夫只接走2儿子独留女儿",
@@ -1067,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153868,
+      "num": 170660,
+      "word": "紧那罗新春限定皮肤",
+      "onboard_time": 1673586753,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153769,
       "num": 153769,
       "word": "官方称1888万天价彩礼初步判断系杜撰",
@@ -1081,6 +1121,14 @@
       "onboard_time": 1673578948,
       "rank": 36,
       "category": "时尚,幽默"
+    },
+    {
+      "raw_hot": 146530,
+      "num": 542155,
+      "word": "原神 魈PV",
+      "onboard_time": 1673586033,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 146483,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1673580808,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143115,
+      "num": 171366,
+      "word": "过年的硬菜跑了",
+      "onboard_time": 1673586691,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 142012,
@@ -1147,14 +1203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136371,
-      "num": 171366,
-      "word": "过年的硬菜跑了",
-      "onboard_time": 1673586691,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 134807,
       "num": 134807,
       "word": "炫到停不下来的小说",
@@ -1185,14 +1233,6 @@
       "onboard_time": 1673539170,
       "rank": 37,
       "category": "其它"
-    },
-    {
-      "raw_hot": 126679,
-      "num": 170660,
-      "word": "紧那罗新春限定皮肤",
-      "onboard_time": 1673586753,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 122433,
@@ -1291,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 106008,
+      "num": 110954,
+      "word": "知乎回应1888万天价彩礼事件",
+      "onboard_time": 1673588011,
+      "rank": 49,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 105165,
       "num": 105165,
       "word": "AG菲菲",
@@ -1305,14 +1353,6 @@
       "onboard_time": 1673580266,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101387,
-      "num": 542155,
-      "word": "原神 魈PV",
-      "onboard_time": 1673586033,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 101358,
