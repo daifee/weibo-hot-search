@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673648222377,
+  "endTime": 1673649233960,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -10859,6 +10859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155243,
+      "num": 155243,
+      "word": "XBB等变异株会再引发感染高峰吗",
+      "onboard_time": 1673633597,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155155,
       "num": 155155,
       "word": "我国再次成功发射一箭三星",
@@ -11009,6 +11017,14 @@
       "onboard_time": 1673334269,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150575,
+      "num": 79983,
+      "word": "家人回应小女孩背猪草背篓比人大",
+      "onboard_time": 1673644452,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150523,
@@ -11304,14 +11320,6 @@
       "word": "上海政协委员呼吁辉瑞新冠药降价",
       "onboard_time": 1673315367,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139790,
-      "num": 139790,
-      "word": "XBB等变异株会再引发感染高峰吗",
-      "onboard_time": 1673633597,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -11929,14 +11937,6 @@
       "onboard_time": 1673579849,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 119537,
-      "num": 67004,
-      "word": "家人回应小女孩背猪草背篓比人大",
-      "onboard_time": 1673644452,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119343,
@@ -12963,20 +12963,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 64969,
+      "num": 64969,
+      "word": "鼓励住房汽车等大宗消费",
+      "onboard_time": 1673641213,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 63809,
       "num": 165589,
       "word": "手艺人做的翻糖",
       "onboard_time": 1673626348,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 63481,
-      "num": 63481,
-      "word": "鼓励住房汽车等大宗消费",
-      "onboard_time": 1673641213,
-      "rank": 42,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 62597,
@@ -13024,6 +13024,14 @@
       "word": "苏州新年氛围感有多浓",
       "onboard_time": 1673627726,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51263,
+      "num": 51263,
+      "word": "韦峰戴璐曾共事属上下级关系",
+      "onboard_time": 1673647814,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -13116,7 +13124,7 @@
     },
     {
       "raw_hot": 26901,
-      "num": 21667,
+      "num": 26708,
       "word": "是一只有主见的小猫咪",
       "onboard_time": 1673638032,
       "rank": 32,
@@ -13129,6 +13137,14 @@
       "onboard_time": 1673295792,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23170,
+      "num": 23170,
+      "word": "杨超越方向吃错瓜了",
+      "onboard_time": 1673647814,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 19996,
@@ -13155,27 +13171,11 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 17930,
-      "num": 17930,
-      "word": "韦峰戴璐曾共事属上下级关系",
-      "onboard_time": 1673647814,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17500,
       "num": 17500,
       "word": "李现去有风的地方好苏",
       "onboard_time": 1673468832,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 16805,
-      "num": 16805,
-      "word": "杨超越方向吃错瓜了",
-      "onboard_time": 1673647814,
-      "rank": 45,
       "category": "影视"
     }
   ],

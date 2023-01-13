@@ -1,6 +1,6 @@
 {
   "startTime": 1673627419435,
-  "endTime": 1673648222377,
+  "endTime": 1673649233960,
   "band_list": [
     {
       "raw_hot": 1704998,
@@ -283,6 +283,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 155243,
+      "num": 155243,
+      "word": "XBB等变异株会再引发感染高峰吗",
+      "onboard_time": 1673633597,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151331,
       "num": 118233,
       "word": "周深说花火唱给愿意成为海岸的人",
@@ -291,11 +299,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139790,
-      "num": 139790,
-      "word": "XBB等变异株会再引发感染高峰吗",
-      "onboard_time": 1673633597,
-      "rank": 41,
+      "raw_hot": 150575,
+      "num": 79983,
+      "word": "家人回应小女孩背猪草背篓比人大",
+      "onboard_time": 1673644452,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -345,14 +353,6 @@
       "onboard_time": 1673632997,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 119537,
-      "num": 67004,
-      "word": "家人回应小女孩背猪草背篓比人大",
-      "onboard_time": 1673644452,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110229,
@@ -483,20 +483,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64969,
+      "num": 64969,
+      "word": "鼓励住房汽车等大宗消费",
+      "onboard_time": 1673641213,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 63809,
       "num": 165589,
       "word": "手艺人做的翻糖",
       "onboard_time": 1673626348,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 63481,
-      "num": 63481,
-      "word": "鼓励住房汽车等大宗消费",
-      "onboard_time": 1673641213,
-      "rank": 42,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 62597,
@@ -531,6 +531,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 51263,
+      "num": 51263,
+      "word": "韦峰戴璐曾共事属上下级关系",
+      "onboard_time": 1673647814,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47254,
       "num": 753722,
       "word": "谢谢回家路上的你",
@@ -563,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33391,
+      "num": 29391,
+      "word": "何炅最漫长的二十秒",
+      "onboard_time": 1673611590,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33233,
       "num": 24952,
       "word": "严浩翔说马哥捡到了你的纸飞机",
@@ -579,14 +595,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 27974,
-      "num": 22276,
-      "word": "何炅最漫长的二十秒",
-      "onboard_time": 1673611590,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 27111,
       "num": 22438,
       "word": "胡夏从那些年唱到这些人",
@@ -596,23 +604,15 @@
     },
     {
       "raw_hot": 26901,
-      "num": 21667,
+      "num": 26708,
       "word": "是一只有主见的小猫咪",
       "onboard_time": 1673638032,
       "rank": 32,
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 17930,
-      "num": 17930,
-      "word": "韦峰戴璐曾共事属上下级关系",
-      "onboard_time": 1673647814,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16805,
-      "num": 16805,
+      "raw_hot": 23170,
+      "num": 23170,
       "word": "杨超越方向吃错瓜了",
       "onboard_time": 1673647814,
       "rank": 45,
