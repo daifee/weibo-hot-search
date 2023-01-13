@@ -1,0 +1,410 @@
+{
+  "runTime": 1673583790971,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1647202,
+        "num": 1647202,
+        "word": "王俊凯 大家不要抱着戾气生活",
+        "onboard_time": 1673566824,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1412932,
+        "num": 1412932,
+        "word": "李泽言",
+        "onboard_time": 1673566161,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286460,
+        "num": 1305821,
+        "word": "新冠治疗费用报销图解",
+        "onboard_time": 1673577327,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1265264,
+        "num": 1265264,
+        "word": "成都26岁失联女子申某已找到",
+        "onboard_time": 1673577447,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1061139,
+        "num": 1061139,
+        "word": "谢之遥得知许红豆一生挚爱是陈南星",
+        "onboard_time": 1673579609,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1005969,
+        "num": 1005969,
+        "word": "邓超儿子等等长得好帅",
+        "onboard_time": 1673565681,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 818538,
+        "num": 818538,
+        "word": "女生怕父母被质疑重男轻女改名",
+        "onboard_time": 1673578649,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711558,
+        "num": 711558,
+        "word": "秦始皇陵兵马俑甬道被人挖开过",
+        "onboard_time": 1673581227,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673828,
+        "num": 673828,
+        "word": "沙特球队3亿年薪报价梅西",
+        "onboard_time": 1673581110,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 670618,
+        "num": 670618,
+        "word": "男子煮羊肉爆炸高压锅击穿屋顶",
+        "onboard_time": 1673581947,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1048315,
+        "num": 665546,
+        "word": "后期抽了一条烟 才把这十秒的烟给抠掉",
+        "onboard_time": 1673582070,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 920495,
+        "num": 664608,
+        "word": "王嘉尔伦敦演唱会怼外媒",
+        "onboard_time": 1673579547,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 643426,
+        "num": 643426,
+        "word": "郑钧刘芸吵架后的状态",
+        "onboard_time": 1673578649,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618591,
+        "num": 618591,
+        "word": "iPhone14兔年保护套售价398元",
+        "onboard_time": 1673579249,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 615836,
+        "num": 615836,
+        "word": "同吃同住双胞胎体重相差19斤",
+        "onboard_time": 1673577447,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582658,
+        "num": 582658,
+        "word": "妈妈为女儿织上百件毛衣价值百万",
+        "onboard_time": 1673581770,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455479,
+        "num": 455479,
+        "word": "这辈子他都不敢插队了",
+        "onboard_time": 1673579071,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 452836,
+        "num": 452836,
+        "word": "前任突然加微信要同意吗",
+        "onboard_time": 1673565800,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 378606,
+        "num": 378606,
+        "word": "库克2023年薪酬将砍半",
+        "onboard_time": 1673578408,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 368321,
+        "num": 368321,
+        "word": "疑似1888万彩礼帖文作者致歉",
+        "onboard_time": 1673572406,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410773,
+        "num": 366652,
+        "word": "央视网络春晚第二波阵容官宣",
+        "onboard_time": 1673578828,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405572,
+        "num": 358068,
+        "word": "张万森 下雪了",
+        "onboard_time": 1673568506,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383979,
+        "num": 354483,
+        "word": "张同学回应热度消退",
+        "onboard_time": 1673579727,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 321472,
+        "num": 321472,
+        "word": "女子谎称是90后和31岁男子恋爱",
+        "onboard_time": 1673572770,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266217,
+        "num": 266217,
+        "word": "学古筝和不学古筝的都沉默了",
+        "onboard_time": 1673578107,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240644,
+        "num": 240644,
+        "word": "PDD鹅鸭杀皮肤",
+        "onboard_time": 1673569709,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228324,
+        "num": 228324,
+        "word": "苹果正开发iPhone16Pro",
+        "onboard_time": 1673581410,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 210370,
+        "num": 210370,
+        "word": "日政府无视当地民众反对开建不沉航母",
+        "onboard_time": 1673576306,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 207842,
+        "num": 207842,
+        "word": "苹果汽车或售价9万美元",
+        "onboard_time": 1673576967,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 188583,
+        "num": 188583,
+        "word": "江苏省考成绩",
+        "onboard_time": 1673579849,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 343052,
+        "num": 184905,
+        "word": "王源即将返回伯克利上学",
+        "onboard_time": 1673568506,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317735,
+        "num": 179986,
+        "word": "苏醒开场后收门票费",
+        "onboard_time": 1673581227,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312198,
+        "num": 175839,
+        "word": "猫王独生女去世",
+        "onboard_time": 1673583692,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300799,
+        "num": 171156,
+        "word": "谢之遥父子一物降一物",
+        "onboard_time": 1673583210,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168602,
+        "num": 168602,
+        "word": "军人结婚当天收到立功喜报",
+        "onboard_time": 1673574384,
+        "rank": 34,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 283425,
+        "num": 166040,
+        "word": "吴倩九义人眼神戏",
+        "onboard_time": 1673581770,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161756,
+        "num": 161756,
+        "word": "神器传说之武则天皮肤",
+        "onboard_time": 1673568087,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154427,
+        "num": 154427,
+        "word": "佛跳墙成北方年夜饭新宠",
+        "onboard_time": 1673582248,
+        "rank": 37,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 147797,
+        "num": 147797,
+        "word": "这是狗犯错后该有的样子吗",
+        "onboard_time": 1673582490,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146483,
+        "num": 146483,
+        "word": "2023来自高校的第一份祝福",
+        "onboard_time": 1673583692,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 261227,
+        "num": 144894,
+        "word": "一念关山官宣杀青",
+        "onboard_time": 1673582908,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142413,
+        "num": 142413,
+        "word": "像极了放假前的工作状态",
+        "onboard_time": 1673580751,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141624,
+        "num": 141624,
+        "word": "秦兵马俑一号坑第三次发掘成果",
+        "onboard_time": 1673582908,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136474,
+        "num": 136474,
+        "word": "独行侠vs湖人",
+        "onboard_time": 1673581349,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134807,
+        "num": 134807,
+        "word": "炫到停不下来的小说",
+        "onboard_time": 1673582610,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123541,
+        "num": 123541,
+        "word": "腰背不舒服别像这样乱拉伸",
+        "onboard_time": 1673583633,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122121,
+        "num": 122121,
+        "word": "这确实是把穿搭玩明白了",
+        "onboard_time": 1673578948,
+        "rank": 46,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 110893,
+        "num": 110893,
+        "word": "儿子用电话手表加陌生女孩聊天",
+        "onboard_time": 1673568388,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108450,
+        "num": 108450,
+        "word": "美司法部调查拜登私人办公室发现机密文件",
+        "onboard_time": 1673573608,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 107923,
+        "num": 107923,
+        "word": "为100只流浪猫投简历",
+        "onboard_time": 1673579968,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#年味儿里的中国#"
+    }
+  }
+}

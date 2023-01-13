@@ -1,6 +1,6 @@
 {
   "startTime": 1673541706835,
-  "endTime": 1673580910089,
+  "endTime": 1673583790971,
   "band_list": [
     {
       "raw_hot": 2101496,
@@ -35,8 +35,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1386177,
-      "num": 1386177,
+      "raw_hot": 1412932,
+      "num": 1412932,
       "word": "李泽言",
       "onboard_time": 1673566161,
       "rank": 12,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1201101,
-      "num": 1201101,
+      "raw_hot": 1265264,
+      "num": 1265264,
       "word": "成都26岁失联女子申某已找到",
       "onboard_time": 1673577447,
       "rank": 17,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1061139,
+      "num": 1061139,
+      "word": "谢之遥得知许红豆一生挚爱是陈南星",
+      "onboard_time": 1673579609,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1060392,
       "num": 1060392,
       "word": "前任突然加微信要同意吗",
@@ -91,20 +99,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1048315,
+      "num": 665546,
+      "word": "后期抽了一条烟 才把这十秒的烟给抠掉",
+      "onboard_time": 1673582070,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1004412,
       "num": 1004412,
       "word": "王嘉尔伦敦演唱会怼外媒",
       "onboard_time": 1673579547,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 998333,
-      "num": 594362,
-      "word": "谢之遥得知许红豆一生挚爱是陈南星",
-      "onboard_time": 1673579609,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 945236,
@@ -147,6 +155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 818538,
+      "num": 818538,
+      "word": "女生怕父母被质疑重男轻女改名",
+      "onboard_time": 1673578649,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 729461,
       "num": 729461,
       "word": "黑莲花",
@@ -155,12 +171,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 711558,
+      "num": 711558,
+      "word": "秦始皇陵兵马俑甬道被人挖开过",
+      "onboard_time": 1673581227,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 684806,
       "num": 584860,
       "word": "央视网络春晚第二波阵容官宣",
       "onboard_time": 1673578828,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 673828,
+      "num": 673828,
+      "word": "沙特球队3亿年薪报价梅西",
+      "onboard_time": 1673581110,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 670618,
+      "num": 670618,
+      "word": "男子煮羊肉爆炸高压锅击穿屋顶",
+      "onboard_time": 1673581947,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 666029,
@@ -195,8 +235,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 608367,
-      "num": 608367,
+      "raw_hot": 643426,
+      "num": 643426,
+      "word": "郑钧刘芸吵架后的状态",
+      "onboard_time": 1673578649,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 618591,
+      "num": 618591,
       "word": "iPhone14兔年保护套售价398元",
       "onboard_time": 1673579249,
       "rank": 18,
@@ -211,10 +259,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 580845,
-      "num": 580845,
-      "word": "女生怕父母被质疑重男轻女改名",
-      "onboard_time": 1673578649,
+      "raw_hot": 582658,
+      "num": 582658,
+      "word": "妈妈为女儿织上百件毛衣价值百万",
+      "onboard_time": 1673581770,
       "rank": 15,
       "category": "社会新闻"
     },
@@ -252,7 +300,7 @@
     },
     {
       "raw_hot": 472652,
-      "num": 295491,
+      "num": 354483,
       "word": "张同学回应热度消退",
       "onboard_time": 1673579727,
       "rank": 32,
@@ -275,12 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 450453,
-      "num": 282439,
-      "word": "郑钧刘芸吵架后的状态",
-      "onboard_time": 1673578649,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 455479,
+      "num": 455479,
+      "word": "这辈子他都不敢插队了",
+      "onboard_time": 1673579071,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 445650,
@@ -371,12 +419,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 379327,
-      "num": 379327,
-      "word": "这辈子他都不敢插队了",
-      "onboard_time": 1673579071,
-      "rank": 19,
-      "category": "幽默"
+      "raw_hot": 378606,
+      "num": 378606,
+      "word": "库克2023年薪酬将砍半",
+      "onboard_time": 1673578408,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 350062,
@@ -443,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317735,
+      "num": 179986,
+      "word": "苏醒开场后收门票费",
+      "onboard_time": 1673581227,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317425,
       "num": 244915,
       "word": "王一博演唱电影无名主题曲",
@@ -459,12 +515,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313392,
-      "num": 313392,
-      "word": "库克2023年薪酬将砍半",
-      "onboard_time": 1673578408,
-      "rank": 43,
-      "category": "科技"
+      "raw_hot": 312198,
+      "num": 175839,
+      "word": "猫王独生女去世",
+      "onboard_time": 1673583692,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 310288,
@@ -491,12 +547,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300799,
+      "num": 171156,
+      "word": "谢之遥父子一物降一物",
+      "onboard_time": 1673583210,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298269,
       "num": 186511,
       "word": "小妖怪的夏天",
       "onboard_time": 1673577687,
       "rank": 41,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 283425,
+      "num": 166040,
+      "word": "吴倩九义人眼神戏",
+      "onboard_time": 1673581770,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 277077,
@@ -553,6 +625,14 @@
       "onboard_time": 1673569709,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 261227,
+      "num": 144894,
+      "word": "一念关山官宣杀青",
+      "onboard_time": 1673582908,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 255463,
@@ -649,6 +729,14 @@
       "onboard_time": 1673524112,
       "rank": 22,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 228324,
+      "num": 228324,
+      "word": "苹果正开发iPhone16Pro",
+      "onboard_time": 1673581410,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 220184,
@@ -835,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154427,
+      "num": 154427,
+      "word": "佛跳墙成北方年夜饭新宠",
+      "onboard_time": 1673582248,
+      "rank": 37,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 153769,
       "num": 153769,
       "word": "官方称1888万天价彩礼初步判断系杜撰",
@@ -849,6 +945,22 @@
       "onboard_time": 1673578948,
       "rank": 36,
       "category": "时尚,幽默"
+    },
+    {
+      "raw_hot": 147797,
+      "num": 147797,
+      "word": "这是狗犯错后该有的样子吗",
+      "onboard_time": 1673582490,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 146483,
+      "num": 146483,
+      "word": "2023来自高校的第一份祝福",
+      "onboard_time": 1673583692,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 144681,
@@ -867,12 +979,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142413,
+      "num": 142413,
+      "word": "像极了放假前的工作状态",
+      "onboard_time": 1673580751,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142012,
       "num": 142012,
       "word": "从什么时候开始不爱发动态了",
       "onboard_time": 1673570369,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141624,
+      "num": 141624,
+      "word": "秦兵马俑一号坑第三次发掘成果",
+      "onboard_time": 1673582908,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139448,
@@ -889,6 +1017,22 @@
       "onboard_time": 1673567124,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136474,
+      "num": 136474,
+      "word": "独行侠vs湖人",
+      "onboard_time": 1673581349,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134807,
+      "num": 134807,
+      "word": "炫到停不下来的小说",
+      "onboard_time": 1673582610,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 131444,
@@ -915,12 +1059,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 123689,
-      "num": 123689,
-      "word": "像极了放假前的工作状态",
-      "onboard_time": 1673580751,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 123541,
+      "num": 123541,
+      "word": "腰背不舒服别像这样乱拉伸",
+      "onboard_time": 1673583633,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 122433,
