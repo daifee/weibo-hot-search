@@ -1,0 +1,410 @@
+{
+  "runTime": 1673573952749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2101496,
+        "num": 2101496,
+        "word": "王俊凯 大家不要抱着戾气生活",
+        "onboard_time": 1673566824,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2012773,
+        "num": 2012773,
+        "word": "邓超儿子等等长得好帅",
+        "onboard_time": 1673565681,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51170,
+        "num": 1126963,
+        "word": "2023年第一场雪",
+        "onboard_time": 1673509168,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109537,
+        "num": 1109537,
+        "word": "王源即将返回伯克利上学",
+        "onboard_time": 1673568506,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1060392,
+        "num": 1060392,
+        "word": "前任突然加微信要同意吗",
+        "onboard_time": 1673565800,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 958725,
+        "num": 958725,
+        "word": "李泽言",
+        "onboard_time": 1673566161,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 878215,
+        "num": 878215,
+        "word": "疑似1888万彩礼帖文作者致歉",
+        "onboard_time": 1673572406,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862673,
+        "num": 862673,
+        "word": "儿子用电话手表加陌生女孩聊天",
+        "onboard_time": 1673568388,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 518812,
+        "num": 518812,
+        "word": "26岁女子成都失联超20天",
+        "onboard_time": 1673567905,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483435,
+        "num": 483435,
+        "word": "神器传说之武则天皮肤",
+        "onboard_time": 1673568087,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 652756,
+        "num": 478917,
+        "word": "张万森 下雪了",
+        "onboard_time": 1673568506,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460399,
+        "num": 460399,
+        "word": "女子谎称是90后和31岁男子恋爱",
+        "onboard_time": 1673572770,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429771,
+        "num": 429771,
+        "word": "韩东君",
+        "onboard_time": 1673571206,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403652,
+        "num": 403652,
+        "word": "印度16岁少女枪击性侵者母亲",
+        "onboard_time": 1673535390,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402847,
+        "num": 402847,
+        "word": "各国抢中国游客纷纷放大招",
+        "onboard_time": 1673560272,
+        "rank": 14,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 320374,
+        "num": 320374,
+        "word": "王思聪疑因打人被拘提请行政复议",
+        "onboard_time": 1673515168,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 310288,
+        "num": 310288,
+        "word": "国内春节最适合去的8个城市",
+        "onboard_time": 1673568987,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 301219,
+        "num": 301219,
+        "word": "天津一烧烤店结账只收现金",
+        "onboard_time": 1673535272,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293998,
+        "num": 293998,
+        "word": "果然懒人的孩子早当家",
+        "onboard_time": 1673571388,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286097,
+        "num": 286097,
+        "word": "大叔医院扔下10万元转身就走",
+        "onboard_time": 1673535512,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302020,
+        "num": 285219,
+        "word": "沈腾易烊千玺将合体直播",
+        "onboard_time": 1673566944,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276965,
+        "num": 276965,
+        "word": "45岁女子带5个孩子嫁给初恋",
+        "onboard_time": 1673533051,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272332,
+        "num": 272332,
+        "word": "内务府的审美是在线的",
+        "onboard_time": 1673570250,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 437583,
+        "num": 272028,
+        "word": "六旬老人带10万元回家差点没法过年",
+        "onboard_time": 1673565439,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269276,
+        "num": 269276,
+        "word": "PDD鹅鸭杀皮肤",
+        "onboard_time": 1673569709,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248827,
+        "num": 248827,
+        "word": "国产剧的冬季有效穿搭",
+        "onboard_time": 1673565319,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231094,
+        "num": 231094,
+        "word": "大学时期的赵露思",
+        "onboard_time": 1673540665,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218992,
+        "num": 218992,
+        "word": "扬州通报干部作风问题",
+        "onboard_time": 1673532691,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217172,
+        "num": 217172,
+        "word": "詹姆斯全明星第2轮票王",
+        "onboard_time": 1673572109,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214410,
+        "num": 214410,
+        "word": "去世母亲的每件财物都标注儿女名字",
+        "onboard_time": 1673534972,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200231,
+        "num": 200231,
+        "word": "郑恺没见过苗苗跳古典舞",
+        "onboard_time": 1673541685,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190056,
+        "num": 190056,
+        "word": "TheShy多个韩服号被永封",
+        "onboard_time": 1673536535,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183925,
+        "num": 183925,
+        "word": "武大拟对10研究生退学处理",
+        "onboard_time": 1673538689,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181200,
+        "num": 181200,
+        "word": "去世爷爷手机每页都空出孙子的脸",
+        "onboard_time": 1673530771,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176454,
+        "num": 176454,
+        "word": "王鹤棣让工作人员拍自己和粉丝的合照",
+        "onboard_time": 1673541208,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173049,
+        "num": 173049,
+        "word": "陈楚生被兄弟们车轮催",
+        "onboard_time": 1673570008,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168419,
+        "num": 168419,
+        "word": "大叔做高跟鞋脚模试穿狂奔月入600万",
+        "onboard_time": 1673532391,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157697,
+        "num": 157697,
+        "word": "陈飞宇说书妍我会永远在你身边",
+        "onboard_time": 1673568927,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154916,
+        "num": 154916,
+        "word": "FIFA年度最佳候选公布",
+        "onboard_time": 1673570788,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147433,
+        "num": 147433,
+        "word": "缅甸枭龙战机越境空袭印度",
+        "onboard_time": 1673536595,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 152207,
+        "num": 146343,
+        "word": "王栎鑫 我不选大美女难道选苏醒吗",
+        "onboard_time": 1673545936,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144653,
+        "num": 144653,
+        "word": "鹅鸭杀",
+        "onboard_time": 1673565439,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142012,
+        "num": 142012,
+        "word": "从什么时候开始不爱发动态了",
+        "onboard_time": 1673570369,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141055,
+        "num": 141055,
+        "word": "专家称春节假期前拆后借不友好",
+        "onboard_time": 1673573367,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138868,
+        "num": 138868,
+        "word": "快乐再出发",
+        "onboard_time": 1673567124,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136944,
+        "num": 136944,
+        "word": "宁德时代单季盈利破百亿",
+        "onboard_time": 1673572406,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131444,
+        "num": 131444,
+        "word": "中国用2500度高温焊接出地下巨无霸",
+        "onboard_time": 1673539831,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 121616,
+        "num": 121616,
+        "word": "老红军笑着回忆吃皮带让人泪目",
+        "onboard_time": 1673573246,
+        "rank": 47,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 120335,
+        "num": 120335,
+        "word": "美司法部调查拜登私人办公室发现机密文件",
+        "onboard_time": 1673573608,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 116309,
+        "num": 116309,
+        "word": "安贤洙迈出回韩国执教第一步",
+        "onboard_time": 1673534193,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#年味儿里的中国#"
+    }
+  }
+}
