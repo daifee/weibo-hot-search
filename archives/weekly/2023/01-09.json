@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673720446748,
+  "endTime": 1673721298478,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -11716,7 +11716,7 @@
     },
     {
       "raw_hot": 186057,
-      "num": 139891,
+      "num": 183763,
       "word": "这戏是越看火越大",
       "onboard_time": 1673715441,
       "rank": 25,
@@ -12379,6 +12379,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 168802,
+      "num": 153367,
+      "word": "外卖小哥在1楼管道井撒尿",
+      "onboard_time": 1673717840,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168644,
       "num": 168644,
       "word": "小猫咪是怎么凶人的",
@@ -12993,14 +13001,6 @@
       "onboard_time": 1673623833,
       "rank": 35,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 152825,
-      "num": 152825,
-      "word": "外卖小哥在1楼管道井撒尿",
-      "onboard_time": 1673717840,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152643,
@@ -15531,6 +15531,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59648,
+      "num": 42872,
+      "word": "天娱男团1equalfive到底有多卷",
+      "onboard_time": 1673720235,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 59489,
+      "num": 59489,
+      "word": "化妆师背5个月宝宝给新娘化妆",
+      "onboard_time": 1673718199,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58551,
       "num": 40938,
       "word": "苏醒一个人完成了接词游戏",
@@ -15569,14 +15585,6 @@
       "onboard_time": 1673651116,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 52658,
-      "num": 52658,
-      "word": "化妆师背5个月宝宝给新娘化妆",
-      "onboard_time": 1673718199,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50454,
@@ -15681,6 +15689,14 @@
       "onboard_time": 1673635756,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 25391,
+      "num": 40738,
+      "word": "被舞蹈生的脚整破防了",
+      "onboard_time": 1673720716,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 24774,
