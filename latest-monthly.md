@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/14 09:24:55
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/14 09:50:19
 </p>
 </blockquote>
 <p>
@@ -1287,6 +1287,12 @@ XBB会不会导致二次感染（热度：1469736）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%B0%91%E5%B7%A51%E4%BA%BA%E5%8D%A06%E4%B8%AA%E8%A1%8C%E6%9D%8E%E6%9E%B6%E4%BD%8D%E8%A2%AB%E6%80%BC%23" target="weibo">
+农民工1人占6个行李架位被怼（热度：1454149）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E4%B9%B0%E5%8D%83%E5%85%83%E6%89%8B%E6%9C%BA%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%8C%89%E5%A4%B4%E7%A0%B8%E6%9F%9C%E5%8F%B0%23" target="weibo">
 妻子买千元手机被丈夫按头砸柜台（热度：1453277）
 </a>
@@ -1307,6 +1313,12 @@ XBB会不会导致二次感染（热度：1469736）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%B4%81%E5%BE%90%E8%89%BA%E6%B4%8B%E4%B8%96%E5%8F%A6%E6%88%91%E8%88%9E%E5%8F%B0%E5%8F%8C%E5%80%8D%E7%94%9C%23" target="weibo">
 徐梦洁徐艺洋世另我舞台双倍甜（热度：1450986）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B042%E5%B2%81%E6%9C%AA%E5%A9%9A%E7%8A%B6%E6%80%81%E8%B6%85%E5%A5%BD%23" target="weibo">
+女子称42岁未婚状态超好（热度：1450138）
 </a>
 </li>
 
@@ -1385,12 +1397,6 @@ Lisa演唱会 黄欣苑（热度：1425071）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E5%90%90%E6%A7%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E6%89%A9%E5%86%9B%E6%98%AF%E4%B8%BA%E8%AE%A9%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E5%8F%82%E8%B5%9B%23" target="weibo">
 日媒吐槽世界杯扩军是为让中国男足参赛（热度：1413736）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B042%E5%B2%81%E6%9C%AA%E5%A9%9A%E7%8A%B6%E6%80%81%E8%B6%85%E5%A5%BD%23" target="weibo">
-女子称42岁未婚状态超好（热度：1413735）
 </a>
 </li>
 
@@ -2289,12 +2295,6 @@ EXO再唱初雪（热度：1193995）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%B0%91%E5%B7%A51%E4%BA%BA%E5%8D%A06%E4%B8%AA%E8%A1%8C%E6%9D%8E%E6%9E%B6%E4%BD%8D%E8%A2%AB%E6%80%BC%23" target="weibo">
-农民工1人占6个行李架位被怼（热度：1077744）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E5%9D%90%E7%81%AB%E8%BD%A6%E6%9D%A5%E4%BA%AC%E8%A7%81%E7%94%B7%E5%8F%8B%E5%8D%B4%E8%A2%AB%E6%8B%89%E9%BB%91%E5%93%AD%E7%9D%80%E6%B1%82%E5%8A%A9%E6%B0%91%E8%AD%A6%23" target="weibo">
 姑娘坐火车来京见男友却被拉黑哭着求助民警（热度：1077429）
 </a>
@@ -3081,6 +3081,12 @@ XBB会在我国引起新一轮流行吗（热度：906246）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E7%B4%A0%E9%A2%9C%23" target="weibo">
+唐嫣素颜（热度：904931）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E5%AE%B6%E6%9A%B4%E4%BA%8B%E4%BB%B6%E5%8F%8C%E6%96%B9%E6%9C%AA%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%23" target="weibo">
 唐山家暴事件双方未领结婚证（热度：904697）
 </a>
@@ -3647,12 +3653,6 @@ C罗每秒赚50元人民币（热度：828646）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%E5%A4%A7%E9%BA%A6%E7%BD%91%E6%8B%92%E7%BB%9D%E9%80%80%E7%A5%A8%23" target="weibo">
 新冠阳性大麦网拒绝退票（热度：819357）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E7%B4%A0%E9%A2%9C%23" target="weibo">
-唐嫣素颜（热度：818726）
 </a>
 </li>
 
