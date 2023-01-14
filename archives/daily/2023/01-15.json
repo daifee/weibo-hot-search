@@ -1,6 +1,6 @@
 {
   "startTime": 1673713412094,
-  "endTime": 1673716521147,
+  "endTime": 1673717610170,
   "band_list": [
     {
       "raw_hot": 1664567,
@@ -24,6 +24,14 @@
       "word": "女生哭诉化妆品被6岁表妹全抠碎",
       "onboard_time": 1673710649,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784878,
+      "num": 784878,
+      "word": "桂林一酒吧卫生间疑装双面镜",
+      "onboard_time": 1673714485,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -67,20 +75,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 499553,
+      "num": 499553,
+      "word": "女子将小猫寄养后小猫拨来视频电话",
+      "onboard_time": 1673713405,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498210,
       "num": 449554,
       "word": "萨顶顶说看着迪丽热巴的眼睛眼泪就下来了",
       "onboard_time": 1673706931,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 496573,
-      "num": 311584,
-      "word": "女子将小猫寄养后小猫拨来视频电话",
-      "onboard_time": 1673713405,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 481830,
@@ -105,14 +113,6 @@
       "onboard_time": 1673709448,
       "rank": 8,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 447947,
-      "num": 306438,
-      "word": "桂林一酒吧卫生间疑装双面镜",
-      "onboard_time": 1673714485,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 433036,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249942,
+      "num": 249942,
+      "word": "背5个月宝宝给新娘化妆宝妈发声",
+      "onboard_time": 1673714123,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246427,
       "num": 150319,
       "word": "张译新剧1集老了20岁",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 237693,
-      "num": 174108,
+      "num": 198055,
       "word": "檀健次红发",
       "onboard_time": 1673712986,
       "rank": 31,
@@ -249,14 +257,6 @@
       "onboard_time": 1673695289,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 230211,
-      "num": 149905,
-      "word": "背5个月宝宝给新娘化妆宝妈发声",
-      "onboard_time": 1673714123,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213627,
@@ -315,6 +315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167031,
+      "num": 79524,
+      "word": "虞书欣红色针织衫上班路透",
+      "onboard_time": 1673716759,
+      "rank": 30,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 164285,
       "num": 164285,
       "word": "母子关系和母女关系是不一样的",
@@ -323,8 +331,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148619,
-      "num": 74617,
+      "raw_hot": 162028,
+      "num": 79447,
       "word": "狂飙首播的收视率",
       "onboard_time": 1673716341,
       "rank": 41,
@@ -473,6 +481,14 @@
       "onboard_time": 1673709211,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 75055,
+      "num": 75055,
+      "word": "妈妈吐槽儿子过年没领儿媳却带只猫",
+      "onboard_time": 1673716401,
+      "rank": 36,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
