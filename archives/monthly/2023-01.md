@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/14 18:33:38
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/14 19:13:58
 </p>
 </blockquote>
 <p>
@@ -1167,6 +1167,12 @@ IVE假唱被KBS点名批评（热度：1570145）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%9C%9F%E5%9C%A8%E9%99%A2%E6%96%B0%E5%86%A0%E7%9B%B8%E5%85%B3%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B%E6%95%B0%E5%85%AC%E5%B8%83%23" target="weibo">
+近期在院新冠相关死亡病例数公布（热度：1538966）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%A2%AB%E6%9C%8D%E5%8A%A1%E5%91%98%E8%AF%B4%E6%9C%89%E7%82%B9%E5%83%8F%E8%B0%A2%E5%A8%9C%23" target="weibo">
 谢娜被服务员说有点像谢娜（热度：1536300）
 </a>
@@ -1875,6 +1881,12 @@ aespa开麦（热度：1239883）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AE%A1%E8%91%AC%E9%A6%86%E5%BC%80%E5%B0%8F%E5%8C%BA%E9%97%A8%E5%8F%A3%E8%A2%AB%E5%A0%86%E5%9E%83%E5%9C%BE%E8%B4%B4%E5%8D%AB%E7%94%9F%E5%B7%BE%23" target="weibo">
+殡葬馆开小区门口被堆垃圾贴卫生巾（热度：1222504）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E4%B8%AD%E5%9B%BD%E5%A6%BB%E5%AD%90%E6%9C%AA%E9%81%82%E8%8E%B7%E5%87%8F%E5%88%91%23" target="weibo">
 韩国男子杀害中国妻子未遂获减刑（热度：1221743）
 </a>
@@ -2229,6 +2241,12 @@ EXO再唱初雪（热度：1193995）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%8E%B7%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%94%B7%E7%A5%9E%E5%A5%B3%E7%A5%9E%23" target="weibo">
+王鹤棣虞书欣获尖叫之夜男神女神（热度：1128762）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC4%E6%AC%A1%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%9D%90%E4%B8%8A%E6%95%91%E6%8A%A4%E8%BD%A6%23" target="weibo">
 女子在日本4次感染新冠坐上救护车（热度：1121353）
 </a>
@@ -2447,6 +2465,12 @@ N号房主犯曾调查金智秀私生活（热度：1059069）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%90%8D%E4%B9%A1%E6%B0%91%E6%94%BF%E5%B1%80%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A01888%E4%B8%87%E5%BD%A9%E7%A4%BC%23" target="weibo">
 江西萍乡民政局回应网传1888万彩礼（热度：1057250）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%23" target="weibo">
+尖叫之夜（热度：1056133）
 </a>
 </li>
 
@@ -4575,6 +4599,12 @@ EXO将春天后完整体回归（热度：735031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%AD%90%E5%85%B3%E7%B3%BB%E5%92%8C%E6%AF%8D%E5%A5%B3%E5%85%B3%E7%B3%BB%E6%98%AF%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%23" target="weibo">
+母子关系和母女关系是不一样的（热度：718319）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E7%BB%9C%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%8F%91%E5%B8%83%23" target="weibo">
 央视网络春晚节目单发布（热度：718274）
 </a>
@@ -5541,12 +5571,6 @@ WBG对战OMG（热度：629027）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%AD%90%E5%85%B3%E7%B3%BB%E5%92%8C%E6%AF%8D%E5%A5%B3%E5%85%B3%E7%B3%BB%E6%98%AF%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%23" target="weibo">
-母子关系和母女关系是不一样的（热度：626182）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%23" target="weibo">
 教资面试（热度：626125）
 </a>
@@ -5987,30 +6011,6 @@ Tangoz评论权志龙算你小子有点事业心（热度：589457）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E9%92%9F%E8%BE%B0%E4%B9%90%23" target="weibo">
 偶遇钟辰乐（热度：588755）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%99%92%E7%99%BD%E8%A1%AC%E8%A1%AB%E7%85%A7%E7%A5%9D%E5%A4%A7%E5%AE%B6%E5%85%83%E6%97%A6%E5%BF%AB%E4%B9%90%23" target="weibo">
-王一博晒白衬衫照祝大家元旦快乐（热度：588379）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%85%E9%B8%AD%E6%9D%80%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E7%8E%A9%E5%AE%B6%23" target="weibo">
-鹅鸭杀发文感谢中国玩家（热度：587834）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E6%98%AF%E7%9C%9F%E7%9A%84%E5%96%9C%E6%AC%A2%E6%B4%97%E5%A4%B4%E5%95%8A%23" target="weibo">
-弟弟是真的喜欢洗头啊（热度：587797）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%B4%E7%82%89%E7%85%AE%E8%8C%B6%23" target="weibo">
-围炉煮茶（热度：587649）
 </a>
 </li>
 
