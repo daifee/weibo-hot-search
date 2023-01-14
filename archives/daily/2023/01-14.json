@@ -1,6 +1,6 @@
 {
   "startTime": 1673627419435,
-  "endTime": 1673709444612,
+  "endTime": 1673710409060,
   "band_list": [
     {
       "raw_hot": 3695504,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 689632,
+      "num": 689632,
+      "word": "官方调查雷丁汽车举报县委书记",
+      "onboard_time": 1673708011,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 672773,
       "num": 432886,
       "word": "三体",
@@ -475,12 +483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 670529,
-      "num": 670529,
-      "word": "官方调查雷丁汽车举报县委书记",
-      "onboard_time": 1673708011,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 665462,
+      "num": 466648,
+      "word": "王俊凯鞋滑",
+      "onboard_time": 1673709390,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 662035,
@@ -787,12 +795,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 480139,
+      "num": 480139,
+      "word": "拖米连发16条博",
+      "onboard_time": 1673708252,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 469917,
       "num": 205422,
       "word": "这就是明星走出去的意义",
       "onboard_time": 1673603787,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 468762,
+      "num": 275316,
+      "word": "新华社评去有风的地方热播",
+      "onboard_time": 1673708671,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 465806,
@@ -1027,14 +1051,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 390604,
-      "num": 390604,
-      "word": "拖米连发16条博",
-      "onboard_time": 1673708252,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 390010,
       "num": 193323,
       "word": "电影无名预售票房破2000万",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1673686226,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 379640,
-      "num": 250801,
-      "word": "新华社评去有风的地方热播",
-      "onboard_time": 1673708671,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 378859,
@@ -1140,7 +1148,7 @@
     },
     {
       "raw_hot": 364105,
-      "num": 172657,
+      "num": 182410,
       "word": "郭晓婷周柯宇感情戏",
       "onboard_time": 1673706570,
       "rank": 40,
@@ -1371,12 +1379,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 319641,
+      "num": 186306,
+      "word": "原神登陆央视网络春晚",
+      "onboard_time": 1673710230,
+      "rank": 30,
+      "category": "游戏,综艺"
+    },
+    {
       "raw_hot": 319223,
       "num": 319223,
       "word": "国际足联对大马丁启动纪律程序",
       "onboard_time": 1673663367,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318429,
+      "num": 318429,
+      "word": "可以非但没必要这么非",
+      "onboard_time": 1673709448,
+      "rank": 15,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 308127,
@@ -1523,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282435,
+      "num": 282435,
+      "word": "王者兔年限定山海有灵",
+      "onboard_time": 1673709448,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281453,
       "num": 142582,
       "word": "宋亚轩刘耀文一起作画视频",
@@ -1544,14 +1576,6 @@
       "word": "有风小院接纳了很多人的不堪",
       "onboard_time": 1673678366,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 278935,
-      "num": 169247,
-      "word": "王俊凯鞋滑",
-      "onboard_time": 1673709390,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -1577,6 +1601,14 @@
       "onboard_time": 1673704229,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 271214,
+      "num": 179965,
+      "word": "鑫仔被老丈人吐槽不幽默",
+      "onboard_time": 1673709810,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 271173,
@@ -1657,6 +1689,14 @@
       "onboard_time": 1673703030,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 245229,
+      "num": 245229,
+      "word": "梅德韦杰夫称岸田文雄访美后该切腹",
+      "onboard_time": 1673708730,
+      "rank": 44,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 242210,
@@ -1875,6 +1915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209148,
+      "num": 209148,
+      "word": "bin哥厉害",
+      "onboard_time": 1673708492,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209029,
       "num": 139555,
       "word": "红豆遥遥冰第一次牵手花絮",
@@ -1995,8 +2043,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185590,
-      "num": 185590,
+      "raw_hot": 187924,
+      "num": 187924,
       "word": "JDG战胜BLG",
       "onboard_time": 1673709211,
       "rank": 27,
@@ -2100,7 +2148,7 @@
     },
     {
       "raw_hot": 173168,
-      "num": 173168,
+      "num": 180566,
       "word": "雷丁",
       "onboard_time": 1673708011,
       "rank": 29,
@@ -2120,14 +2168,6 @@
       "word": "KPL时尚COSMO光芒骑士短片",
       "onboard_time": 1673702492,
       "rank": 38,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 169863,
-      "num": 169863,
-      "word": "bin哥厉害",
-      "onboard_time": 1673708492,
-      "rank": 36,
       "category": "游戏"
     },
     {
@@ -2364,7 +2404,7 @@
     },
     {
       "raw_hot": 129829,
-      "num": 168784,
+      "num": 179108,
       "word": "同曦男篮队史首次战胜广东男篮",
       "onboard_time": 1673706931,
       "rank": 43,
@@ -2377,14 +2417,6 @@
       "onboard_time": 1673673507,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128740,
-      "num": 168583,
-      "word": "梅德韦杰夫称岸田文雄访美后该切腹",
-      "onboard_time": 1673708730,
-      "rank": 44,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 127264,
@@ -2524,7 +2556,7 @@
     },
     {
       "raw_hot": 107930,
-      "num": 167815,
+      "num": 178900,
       "word": "一封家书唱给远在家乡的父母",
       "onboard_time": 1673709332,
       "rank": 49,
