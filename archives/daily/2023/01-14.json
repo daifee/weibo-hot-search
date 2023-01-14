@@ -1,6 +1,6 @@
 {
   "startTime": 1673627419435,
-  "endTime": 1673691511071,
+  "endTime": 1673692418076,
   "band_list": [
     {
       "raw_hot": 3695504,
@@ -19,8 +19,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1944663,
-      "num": 1944663,
+      "raw_hot": 2133506,
+      "num": 2133506,
       "word": "女子樱桃过敏公司年货发1箱车厘子",
       "onboard_time": 1673688928,
       "rank": 0,
@@ -161,6 +161,14 @@
       "onboard_time": 1673670328,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1014070,
+      "num": 1014070,
+      "word": "这居然是卿卿日常上官婧",
+      "onboard_time": 1673691086,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 974190,
@@ -315,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 649459,
+      "num": 649459,
+      "word": "Doinb在线求职",
+      "onboard_time": 1673690486,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 637189,
       "num": 458054,
       "word": "七英俊发文道歉",
@@ -337,6 +353,14 @@
       "onboard_time": 1673673808,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 626182,
+      "num": 626182,
+      "word": "母子关系和母女关系是不一样的",
+      "onboard_time": 1673689045,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 620576,
@@ -387,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 583030,
-      "num": 384405,
-      "word": "Doinb在线求职",
-      "onboard_time": 1673690486,
-      "rank": 10,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 581224,
       "num": 534010,
       "word": "谭松韵繁花油画纱裙造型",
@@ -425,14 +441,6 @@
       "onboard_time": 1673654121,
       "rank": 7,
       "category": "游戏,综艺"
-    },
-    {
-      "raw_hot": 568591,
-      "num": 361710,
-      "word": "母子关系和母女关系是不一样的",
-      "onboard_time": 1673689045,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 564528,
@@ -497,14 +505,6 @@
       "onboard_time": 1673659708,
       "rank": 17,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 524057,
-      "num": 337461,
-      "word": "这居然是卿卿日常上官婧",
-      "onboard_time": 1673691086,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 516107,
@@ -819,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339804,
+      "num": 339804,
+      "word": "偶像梦幻祭",
+      "onboard_time": 1673692049,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 335377,
       "num": 172626,
       "word": "卡梅隆发文diss漫威超级英雄电影",
@@ -891,6 +899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 321389,
+      "num": 216047,
+      "word": "王鹤棣说自己白天不起晚上不睡",
+      "onboard_time": 1673690907,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 319223,
       "num": 319223,
       "word": "国际足联对大马丁启动纪律程序",
@@ -913,14 +929,6 @@
       "onboard_time": 1673680948,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 305422,
-      "num": 151105,
-      "word": "王鹤棣说自己白天不起晚上不睡",
-      "onboard_time": 1673690907,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 300871,
@@ -993,6 +1001,14 @@
       "onboard_time": 1673661325,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287073,
+      "num": 176377,
+      "word": "关晓彤连续八年登上北京台春晚",
+      "onboard_time": 1673691027,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 284253,
@@ -1105,14 +1121,6 @@
       "onboard_time": 1673671049,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246241,
-      "num": 148223,
-      "word": "关晓彤连续八年登上北京台春晚",
-      "onboard_time": 1673691027,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 242210,
@@ -1307,6 +1315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212127,
+      "num": 212127,
+      "word": "网之易暴雪团队大部分员工已离职",
+      "onboard_time": 1673689887,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 209949,
+      "num": 209949,
+      "word": "eStar这把西装高端局",
+      "onboard_time": 1673690126,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209029,
       "num": 139555,
       "word": "红豆遥遥冰第一次牵手花絮",
@@ -1329,14 +1353,6 @@
       "onboard_time": 1673672728,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200586,
-      "num": 200586,
-      "word": "网之易暴雪团队大部分员工已离职",
-      "onboard_time": 1673689887,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 199588,
@@ -1395,20 +1411,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182339,
-      "num": 182339,
-      "word": "eStar这把西装高端局",
-      "onboard_time": 1673690126,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 182089,
       "num": 182089,
       "word": "前国脚徐亮回应误食开塞露送医",
       "onboard_time": 1673688568,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 181730,
+      "num": 181730,
+      "word": "WE终结16连败",
+      "onboard_time": 1673692289,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 181303,
+      "num": 181303,
+      "word": "建议将睡眠质量监测纳入医保",
+      "onboard_time": 1673692228,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181145,
@@ -1427,12 +1451,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178358,
+      "num": 178358,
+      "word": "小年夜",
+      "onboard_time": 1673691987,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177998,
       "num": 177998,
       "word": "报告称2022年终奖人均2.19万元",
       "onboard_time": 1673611529,
       "rank": 24,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 176630,
+      "num": 176630,
+      "word": "急诊呈现达峰以后持续下降趋势",
+      "onboard_time": 1673690666,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176106,
@@ -1449,6 +1489,14 @@
       "onboard_time": 1673685026,
       "rank": 29,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 174154,
+      "num": 174154,
+      "word": "KPL过年了",
+      "onboard_time": 1673691686,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 171781,
@@ -1499,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145210,
+      "num": 145210,
+      "word": "近期在院新冠相关死亡病例数公布",
+      "onboard_time": 1673692049,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145038,
       "num": 175124,
       "word": "LPL春季赛",
@@ -1539,14 +1595,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 136710,
-      "num": 136710,
-      "word": "急诊呈现达峰以后持续下降趋势",
-      "onboard_time": 1673690666,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136169,
       "num": 203030,
       "word": "小年快乐",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1673626169,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133450,
+      "num": 133450,
+      "word": "小苍解说",
+      "onboard_time": 1673691446,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 133086,
@@ -1651,6 +1707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116542,
+      "num": 174049,
+      "word": "吃席的正确打开方式",
+      "onboard_time": 1673687726,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114666,
       "num": 114666,
       "word": "LPL选手拜年照",
@@ -1667,28 +1731,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111899,
-      "num": 174049,
-      "word": "吃席的正确打开方式",
-      "onboard_time": 1673687726,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 110229,
       "num": 172941,
       "word": "第一次从猫猫脸上看见了委屈",
       "onboard_time": 1673610869,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 109064,
-      "num": 109064,
-      "word": "小苍解说",
-      "onboard_time": 1673691446,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 107906,

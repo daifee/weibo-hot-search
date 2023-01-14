@@ -1,0 +1,410 @@
+{
+  "runTime": 1673692418076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2133506,
+        "num": 2133506,
+        "word": "女子樱桃过敏公司年货发1箱车厘子",
+        "onboard_time": 1673688928,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1081650,
+        "num": 1081650,
+        "word": "建议暂时取消男1000女800",
+        "onboard_time": 1673668945,
+        "rank": 1,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 19556,
+        "num": 1031579,
+        "word": "一图速览10个发热就诊指征",
+        "onboard_time": 1673668407,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014070,
+        "num": 1014070,
+        "word": "这居然是卿卿日常上官婧",
+        "onboard_time": 1673691086,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 797874,
+        "num": 797874,
+        "word": "网传骗子行骗留郭京飞的电话",
+        "onboard_time": 1673675187,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694098,
+        "num": 694098,
+        "word": "新娘不要彩礼陪嫁208万",
+        "onboard_time": 1673677167,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649459,
+        "num": 649459,
+        "word": "Doinb在线求职",
+        "onboard_time": 1673690486,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 626182,
+        "num": 626182,
+        "word": "母子关系和母女关系是不一样的",
+        "onboard_time": 1673689045,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 610687,
+        "num": 610687,
+        "word": "张元英演我过年前最后一天上班",
+        "onboard_time": 1673687605,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525976,
+        "num": 525976,
+        "word": "女子称42岁未婚状态超好",
+        "onboard_time": 1673655384,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548899,
+        "num": 525572,
+        "word": "中国奇谭导演回应家长炮轰",
+        "onboard_time": 1673685804,
+        "rank": 10,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 524565,
+        "num": 524565,
+        "word": "金晨主持央视电视剧盛典",
+        "onboard_time": 1673683645,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 519605,
+        "num": 519605,
+        "word": "爸爸带喂了2年的流浪猫回家过年",
+        "onboard_time": 1673687126,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414838,
+        "num": 414838,
+        "word": "七英俊发文道歉",
+        "onboard_time": 1673686286,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 339804,
+        "num": 339804,
+        "word": "偶像梦幻祭",
+        "onboard_time": 1673692049,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 314875,
+        "num": 314875,
+        "word": "张朝阳称年轻人不要只追求赚钱和快乐",
+        "onboard_time": 1673665946,
+        "rank": 15,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 300827,
+        "num": 300827,
+        "word": "WE战胜FPX",
+        "onboard_time": 1673691266,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 284354,
+        "num": 284354,
+        "word": "大一男生勾拖鞋手法娴熟月入6千",
+        "onboard_time": 1673681367,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228069,
+        "num": 228069,
+        "word": "孙悟空才是心软的神",
+        "onboard_time": 1673683044,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 224976,
+        "num": 224976,
+        "word": "FPX对战WE",
+        "onboard_time": 1673683768,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 811162,
+        "num": 220859,
+        "word": "网传赵丽颖朱一龙二搭平番出演天骄",
+        "onboard_time": 1673685624,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375588,
+        "num": 216618,
+        "word": "酷酷的滕婚礼",
+        "onboard_time": 1673676687,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321389,
+        "num": 216047,
+        "word": "王鹤棣说自己白天不起晚上不睡",
+        "onboard_time": 1673690907,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212127,
+        "num": 212127,
+        "word": "网之易暴雪团队大部分员工已离职",
+        "onboard_time": 1673689887,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209949,
+        "num": 209949,
+        "word": "eStar这把西装高端局",
+        "onboard_time": 1673690126,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199364,
+        "num": 199364,
+        "word": "这两只狗看着有点不怀好意",
+        "onboard_time": 1673689767,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181730,
+        "num": 181730,
+        "word": "WE终结16连败",
+        "onboard_time": 1673692289,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181303,
+        "num": 181303,
+        "word": "建议将睡眠质量监测纳入医保",
+        "onboard_time": 1673692228,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178358,
+        "num": 178358,
+        "word": "小年夜",
+        "onboard_time": 1673691987,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176630,
+        "num": 176630,
+        "word": "急诊呈现达峰以后持续下降趋势",
+        "onboard_time": 1673690666,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287073,
+        "num": 176377,
+        "word": "关晓彤连续八年登上北京台春晚",
+        "onboard_time": 1673691027,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273569,
+        "num": 175605,
+        "word": "白宇杨蓉合体梦回美人为馅",
+        "onboard_time": 1673685927,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266805,
+        "num": 174895,
+        "word": "天放 我把这辈子的人都丢完了",
+        "onboard_time": 1673680286,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243882,
+        "num": 174245,
+        "word": "杨紫说幸福是发自内心的微笑",
+        "onboard_time": 1673686587,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174154,
+        "num": 174154,
+        "word": "KPL过年了",
+        "onboard_time": 1673691686,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167430,
+        "num": 167430,
+        "word": "亲戚带娃做客将女子化妆品打碎一地",
+        "onboard_time": 1673673808,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162362,
+        "num": 162362,
+        "word": "前国脚徐亮回应误食开塞露送医",
+        "onboard_time": 1673688568,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 156815,
+        "num": 156815,
+        "word": "郭艾伦升至历史得分榜第9位",
+        "onboard_time": 1673687787,
+        "rank": 37,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 145210,
+        "num": 145210,
+        "word": "近期在院新冠相关死亡病例数公布",
+        "onboard_time": 1673692049,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137432,
+        "num": 137432,
+        "word": "国际足联调查阿根廷队世界杯不当行为",
+        "onboard_time": 1673678006,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207001,
+        "num": 135762,
+        "word": "梁朝伟王一博电影无名预售战报",
+        "onboard_time": 1673687845,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197685,
+        "num": 135740,
+        "word": "王嘉尔去粉丝家里做客",
+        "onboard_time": 1673670328,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133450,
+        "num": 133450,
+        "word": "小苍解说",
+        "onboard_time": 1673691446,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131213,
+        "num": 131213,
+        "word": "小兔枕着胡萝卜悠闲吃草",
+        "onboard_time": 1673684126,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124130,
+        "num": 124130,
+        "word": "重启警号123296",
+        "onboard_time": 1673678305,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120861,
+        "num": 120861,
+        "word": "狗子听见鞭炮声吓得钻进主人怀里",
+        "onboard_time": 1673684666,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116542,
+        "num": 116542,
+        "word": "吃席的正确打开方式",
+        "onboard_time": 1673687726,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116208,
+        "num": 116208,
+        "word": "专家称美元是唯一的中心货币",
+        "onboard_time": 1673670508,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115928,
+        "num": 115928,
+        "word": "如何看待张朝阳劝诫年轻人被群嘲",
+        "onboard_time": 1673683106,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115616,
+        "num": 115616,
+        "word": "妈妈本命年爸爸给家里狂贴小兔子",
+        "onboard_time": 1673681607,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#现代化离不开农业农村现代化#"
+    }
+  }
+}
