@@ -1,10 +1,10 @@
 {
   "startTime": 1673627419435,
-  "endTime": 1673671011080,
+  "endTime": 1673673376052,
   "band_list": [
     {
-      "raw_hot": 3241026,
-      "num": 3241026,
+      "raw_hot": 3695504,
+      "num": 3695504,
       "word": "建议暂时取消男1000女800",
       "onboard_time": 1673668945,
       "rank": 1,
@@ -83,12 +83,28 @@
       "category": "艺人,音乐"
     },
     {
+      "raw_hot": 1116629,
+      "num": 1116629,
+      "word": "梁咏琪 因为工作原因无法参与之后的录制",
+      "onboard_time": 1673670988,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1080833,
       "num": 1080833,
       "word": "榜一大哥奔现遭拒起诉主播欺诈",
       "onboard_time": 1673625450,
       "rank": 20,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1068834,
+      "num": 1068834,
+      "word": "王嘉尔去粉丝家里做客",
+      "onboard_time": 1673670328,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 974190,
@@ -171,14 +187,6 @@
       "category": "社会负面,教育"
     },
     {
-      "raw_hot": 775545,
-      "num": 775545,
-      "word": "王嘉尔去粉丝家里做客",
-      "onboard_time": 1673670328,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 736197,
       "num": 736197,
       "word": "易烊千玺留了两三个月的头发拍满江红",
@@ -193,6 +201,14 @@
       "onboard_time": 1673662224,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 672773,
+      "num": 374118,
+      "word": "三体",
+      "onboard_time": 1673671228,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 662035,
@@ -217,6 +233,14 @@
       "onboard_time": 1673654722,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598503,
+      "num": 362628,
+      "word": "迪丽热巴画的兔子",
+      "onboard_time": 1673671469,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 591069,
@@ -281,6 +305,22 @@
       "onboard_time": 1673667866,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 509951,
+      "num": 356433,
+      "word": "无效接剧艺人",
+      "onboard_time": 1673672668,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 496994,
+      "num": 496994,
+      "word": "专家称美元是唯一的中心货币",
+      "onboard_time": 1673670508,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 490720,
@@ -379,6 +419,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 381209,
+      "num": 347701,
+      "word": "东航南航将从纽交所退市",
+      "onboard_time": 1673668348,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 378859,
+      "num": 268728,
+      "word": "朴彩英上台前开嗓",
+      "onboard_time": 1673672788,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 375656,
+      "num": 375656,
+      "word": "姥姥看见突然回家的外孙女愣住了",
+      "onboard_time": 1673669967,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369155,
       "num": 214512,
       "word": "长月烬明",
@@ -411,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 361515,
+      "num": 265331,
+      "word": "朴综星道歉后首现身",
+      "onboard_time": 1673672306,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361275,
       "num": 287973,
       "word": "韦峰戴璐曾共事属上下级关系",
@@ -441,6 +513,14 @@
       "onboard_time": 1673666486,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342259,
+      "num": 342259,
+      "word": "中国火车站的名字能有多可爱",
+      "onboard_time": 1673670508,
+      "rank": 39,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 342088,
@@ -491,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324269,
+      "num": 324269,
+      "word": "闪耀暖暖",
+      "onboard_time": 1673670328,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 323369,
       "num": 323369,
       "word": "最近广东回南天的现状",
@@ -505,22 +593,6 @@
       "onboard_time": 1673663367,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 303973,
-      "num": 179980,
-      "word": "梁咏琪 因为工作原因无法参与之后的录制",
-      "onboard_time": 1673670988,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 300813,
-      "num": 274618,
-      "word": "东航南航将从纽交所退市",
-      "onboard_time": 1673668348,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 299548,
@@ -563,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292043,
+      "num": 292043,
+      "word": "年轻人为什么热衷于搞钱",
+      "onboard_time": 1673669487,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288379,
       "num": 115651,
       "word": "春节档排片",
@@ -579,20 +659,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 282468,
+      "num": 172060,
+      "word": "赵丽颖说幸福是有梦想有希望",
+      "onboard_time": 1673672549,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280799,
       "num": 280799,
       "word": "顾客吃串为少付钱藏桌底200根签子",
       "onboard_time": 1673620415,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276141,
-      "num": 276141,
-      "word": "闪耀暖暖",
-      "onboard_time": 1673670328,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 271173,
@@ -603,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 265912,
+      "num": 162869,
+      "word": "王一博电影无名战损镜头",
+      "onboard_time": 1673673266,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260658,
       "num": 171406,
       "word": "金钟仁米兰时装周红毯",
@@ -611,12 +699,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 247983,
-      "num": 247983,
-      "word": "年轻人为什么热衷于搞钱",
-      "onboard_time": 1673669487,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 249013,
+      "num": 249013,
+      "word": "红星评网友新年愿望是被王思聪打",
+      "onboard_time": 1673671049,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242143,
@@ -747,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191894,
+      "num": 191894,
+      "word": "女生的可爱果然不分年龄",
+      "onboard_time": 1673672428,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191372,
       "num": 191372,
       "word": "这鱼长得东倒西歪的",
@@ -825,14 +921,6 @@
       "onboard_time": 1673663845,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 141547,
-      "num": 194404,
-      "word": "姥姥看见突然回家的外孙女愣住了",
-      "onboard_time": 1673669967,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140696,
@@ -931,12 +1019,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111364,
-      "num": 178129,
-      "word": "中国火车站的名字能有多可爱",
-      "onboard_time": 1673670508,
+      "raw_hot": 111986,
+      "num": 163142,
+      "word": "一根吸管帮老年人快速排痰",
+      "onboard_time": 1673672728,
       "rank": 39,
-      "category": "幽默,社会新闻"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110229,
@@ -945,14 +1033,6 @@
       "onboard_time": 1673610869,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 108391,
-      "num": 177124,
-      "word": "专家称美元是唯一的中心货币",
-      "onboard_time": 1673670508,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 106619,
@@ -1051,6 +1131,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91778,
+      "num": 176143,
+      "word": "谁童年还没拿床单当礼服呢",
+      "onboard_time": 1673670689,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 89825,
+      "num": 162159,
+      "word": "未来两年人才将成为关键",
+      "onboard_time": 1673671770,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89528,
       "num": 68323,
       "word": "朴宰范HoshiDino舞蹈挑战",
@@ -1075,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88581,
-      "num": 176143,
-      "word": "谁童年还没拿床单当礼服呢",
-      "onboard_time": 1673670689,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 87811,
       "num": 169360,
       "word": "丈夫偷送万元包妻子大哭10分钟",
@@ -1097,6 +1185,14 @@
       "onboard_time": 1673654543,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85871,
+      "num": 161936,
+      "word": "00后在置办一种很新的年货",
+      "onboard_time": 1673673089,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 76930,
@@ -1332,6 +1428,9 @@
     },
     {
       "word": "#2023一起回家#"
+    },
+    {
+      "word": "#热气腾腾中国年#"
     }
   ]
 }
