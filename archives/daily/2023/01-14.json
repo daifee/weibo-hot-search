@@ -1,6 +1,6 @@
 {
   "startTime": 1673627419435,
-  "endTime": 1673699504809,
+  "endTime": 1673700552426,
   "band_list": [
     {
       "raw_hot": 3695504,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1519587,
+      "num": 1519587,
+      "word": "苍兰诀赢麻了",
+      "onboard_time": 1673698349,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1479783,
       "num": 1479783,
       "word": "王鹤棣虞书欣获尖叫之夜男神女神",
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1429996,
-      "num": 1429996,
-      "word": "苍兰诀赢麻了",
-      "onboard_time": 1673698349,
-      "rank": 0,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1423365,
       "num": 999111,
       "word": "新娘不要彩礼陪嫁208万",
@@ -121,6 +121,14 @@
       "onboard_time": 1673653940,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1293969,
+      "num": 1293969,
+      "word": "李知恩好帅",
+      "onboard_time": 1673699011,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 1283587,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 836785,
-      "num": 462334,
+      "num": 464855,
       "word": "王俊凯 平遥国际电影展",
       "onboard_time": 1673697266,
       "rank": 11,
@@ -435,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 634387,
+      "num": 634387,
+      "word": "广州撞人致5死司机被批捕",
+      "onboard_time": 1673699730,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628060,
       "num": 628060,
       "word": "亲戚带娃做客将女子化妆品打碎一地",
@@ -531,6 +547,14 @@
       "category": "游戏,综艺"
     },
     {
+      "raw_hot": 568237,
+      "num": 462505,
+      "word": "张译新剧1集老了20岁",
+      "onboard_time": 1673698229,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 564528,
       "num": 564528,
       "word": "小年",
@@ -569,6 +593,14 @@
       "onboard_time": 1673615316,
       "rank": 6,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 536483,
+      "num": 460712,
+      "word": "央视网络春晚",
+      "onboard_time": 1673698707,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 534235,
@@ -643,16 +675,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 461790,
-      "num": 305525,
-      "word": "张译新剧1集老了20岁",
-      "onboard_time": 1673698229,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 458989,
-      "num": 458989,
+      "raw_hot": 458991,
+      "num": 458991,
       "word": "男子向前女友索还15万恋爱支出被驳回",
       "onboard_time": 1673696369,
       "rank": 13,
@@ -673,14 +697,6 @@
       "onboard_time": 1673622518,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 451867,
-      "num": 304335,
-      "word": "央视网络春晚",
-      "onboard_time": 1673698707,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 448099,
@@ -715,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438249,
+      "num": 438249,
+      "word": "女子多次相亲失败妈妈生气咆哮",
+      "onboard_time": 1673699188,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436741,
       "num": 201482,
       "word": "曼谷没有等到太阳",
@@ -732,7 +756,7 @@
     },
     {
       "raw_hot": 426198,
-      "num": 302917,
+      "num": 399991,
       "word": "狂飙",
       "onboard_time": 1673681727,
       "rank": 22,
@@ -899,14 +923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 366471,
-      "num": 366471,
-      "word": "李知恩好帅",
-      "onboard_time": 1673699011,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 365951,
       "num": 365951,
       "word": "淮安市副市长韦峰被免职",
@@ -979,20 +995,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347950,
+      "num": 196855,
+      "word": "关晓彤连续八年登上北京台春晚",
+      "onboard_time": 1673691027,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346994,
       "num": 346994,
       "word": "律师称女孩背猪草的拍摄者侵犯肖像权",
       "onboard_time": 1673666486,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 345110,
-      "num": 196855,
-      "word": "关晓彤连续八年登上北京台春晚",
-      "onboard_time": 1673691027,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 342259,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1673687845,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 338386,
+      "num": 166721,
+      "word": "你好星期六",
+      "onboard_time": 1673700330,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 335377,
@@ -1867,6 +1891,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 137603,
+      "num": 137603,
+      "word": "成都春熙路下雪了",
+      "onboard_time": 1673698828,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137441,
       "num": 137441,
       "word": "小年文案",
@@ -2019,12 +2051,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 117957,
-      "num": 133719,
-      "word": "女子多次相亲失败妈妈生气咆哮",
-      "onboard_time": 1673699188,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 120546,
+      "num": 135487,
+      "word": "终于知道为什么叫小奶狗了",
+      "onboard_time": 1673700209,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 116542,
@@ -2059,12 +2091,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 112364,
-      "num": 133668,
-      "word": "成都春熙路下雪了",
-      "onboard_time": 1673698828,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 112282,
+      "num": 135081,
+      "word": "BLG对战JDG",
+      "onboard_time": 1673698707,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 110229,
@@ -2073,14 +2105,6 @@
       "onboard_time": 1673610869,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 108160,
-      "num": 133606,
-      "word": "BLG对战JDG",
-      "onboard_time": 1673698707,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 107906,
@@ -2185,6 +2209,14 @@
       "onboard_time": 1673698889,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 94846,
+      "num": 134390,
+      "word": "未央年度最佳新人",
+      "onboard_time": 1673700510,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 94437,
@@ -2387,6 +2419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 63318,
+      "num": 459023,
+      "word": "DM-i超级混动超级省",
+      "onboard_time": 1673697629,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 62597,
       "num": 167498,
       "word": "学校上铺护栏高度标准是多少",
@@ -2449,14 +2489,6 @@
       "onboard_time": 1673623833,
       "rank": 49,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 49688,
-      "num": 443539,
-      "word": "DM-i超级混动超级省",
-      "onboard_time": 1673697629,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 45506,
