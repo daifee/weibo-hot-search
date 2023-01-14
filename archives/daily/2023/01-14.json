@@ -1,6 +1,6 @@
 {
   "startTime": 1673627419435,
-  "endTime": 1673688813941,
+  "endTime": 1673691511071,
   "band_list": [
     {
       "raw_hot": 3695504,
@@ -17,6 +17,14 @@
       "onboard_time": 1673685624,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1944663,
+      "num": 1944663,
+      "word": "女子樱桃过敏公司年货发1箱车厘子",
+      "onboard_time": 1673688928,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1868415,
@@ -315,6 +323,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 635427,
+      "num": 635427,
+      "word": "张元英演我过年前最后一天上班",
+      "onboard_time": 1673687605,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 628060,
       "num": 628060,
       "word": "亲戚带娃做客将女子化妆品打碎一地",
@@ -332,19 +348,11 @@
     },
     {
       "raw_hot": 620256,
-      "num": 446447,
+      "num": 541853,
       "word": "中国奇谭导演回应家长炮轰",
       "onboard_time": 1673685804,
       "rank": 12,
       "category": "影视,社会新闻"
-    },
-    {
-      "raw_hot": 607453,
-      "num": 444143,
-      "word": "张元英演我过年前最后一天上班",
-      "onboard_time": 1673687605,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 605898,
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 583030,
+      "num": 384405,
+      "word": "Doinb在线求职",
+      "onboard_time": 1673690486,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 581224,
       "num": 534010,
       "word": "谭松韵繁花油画纱裙造型",
@@ -409,6 +425,14 @@
       "onboard_time": 1673654121,
       "rank": 7,
       "category": "游戏,综艺"
+    },
+    {
+      "raw_hot": 568591,
+      "num": 361710,
+      "word": "母子关系和母女关系是不一样的",
+      "onboard_time": 1673689045,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 564528,
@@ -459,12 +483,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 533494,
+      "num": 533494,
+      "word": "爸爸带喂了2年的流浪猫回家过年",
+      "onboard_time": 1673687126,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527586,
       "num": 527586,
       "word": "意大利欢迎中国游客早日到来",
       "onboard_time": 1673659708,
       "rank": 17,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 524057,
+      "num": 337461,
+      "word": "这居然是卿卿日常上官婧",
+      "onboard_time": 1673691086,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 516107,
@@ -553,14 +593,6 @@
       "onboard_time": 1673620054,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 432557,
-      "num": 432557,
-      "word": "爸爸带喂了2年的流浪猫回家过年",
-      "onboard_time": 1673687126,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429818,
@@ -867,12 +899,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308127,
+      "num": 308127,
+      "word": "FPX对战WE",
+      "onboard_time": 1673683768,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 306253,
       "num": 127679,
       "word": "春节档电影预售破千万",
       "onboard_time": 1673680948,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 305422,
+      "num": 151105,
+      "word": "王鹤棣说自己白天不起晚上不睡",
+      "onboard_time": 1673690907,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 300871,
+      "num": 300871,
+      "word": "WE战胜FPX",
+      "onboard_time": 1673691266,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 299548,
@@ -1011,14 +1067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 266412,
-      "num": 266412,
-      "word": "FPX对战WE",
-      "onboard_time": 1673683768,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 265912,
       "num": 190351,
       "word": "王一博电影无名战损镜头",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1673671049,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246241,
+      "num": 148223,
+      "word": "关晓彤连续八年登上北京台春晚",
+      "onboard_time": 1673691027,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 242210,
@@ -1123,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232184,
+      "num": 124615,
+      "word": "赵露思晒花海氛围感随拍",
+      "onboard_time": 1673690308,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231372,
       "num": 106016,
       "word": "姚晨爸妈坚持养鸡",
@@ -1145,6 +1209,14 @@
       "onboard_time": 1673614049,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223722,
+      "num": 223722,
+      "word": "这两只狗看着有点不怀好意",
+      "onboard_time": 1673689767,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 222135,
@@ -1259,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200586,
+      "num": 200586,
+      "word": "网之易暴雪团队大部分员工已离职",
+      "onboard_time": 1673689887,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199588,
       "num": 135560,
       "word": "周深高音好像坐上了太空电梯",
@@ -1273,6 +1353,14 @@
       "onboard_time": 1673657128,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195507,
+      "num": 195507,
+      "word": "郭艾伦升至历史得分榜第9位",
+      "onboard_time": 1673687787,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 191372,
@@ -1305,6 +1393,22 @@
       "onboard_time": 1673683106,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182339,
+      "num": 182339,
+      "word": "eStar这把西装高端局",
+      "onboard_time": 1673690126,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 182089,
+      "num": 182089,
+      "word": "前国脚徐亮回应误食开塞露送医",
+      "onboard_time": 1673688568,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 181145,
@@ -1435,6 +1539,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 136710,
+      "num": 136710,
+      "word": "急诊呈现达峰以后持续下降趋势",
+      "onboard_time": 1673690666,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136169,
       "num": 203030,
       "word": "小年快乐",
@@ -1489,14 +1601,6 @@
       "onboard_time": 1673673507,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 127690,
-      "num": 127690,
-      "word": "郭艾伦升至历史得分榜第9位",
-      "onboard_time": 1673687787,
-      "rank": 35,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 127264,
@@ -1563,12 +1667,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111899,
+      "num": 174049,
+      "word": "吃席的正确打开方式",
+      "onboard_time": 1673687726,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110229,
       "num": 172941,
       "word": "第一次从猫猫脸上看见了委屈",
       "onboard_time": 1673610869,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109064,
+      "num": 109064,
+      "word": "小苍解说",
+      "onboard_time": 1673691446,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 107906,
@@ -1659,14 +1779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100788,
-      "num": 174049,
-      "word": "吃席的正确打开方式",
-      "onboard_time": 1673687726,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 97145,
       "num": 53516,
       "word": "郑钧哄小孩式哄刘芸",
@@ -1705,14 +1817,6 @@
       "onboard_time": 1673670689,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90304,
-      "num": 90304,
-      "word": "前国脚徐亮回应误食开塞露送医",
-      "onboard_time": 1673688568,
-      "rank": 48,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 89528,
@@ -2034,6 +2138,9 @@
     },
     {
       "word": "#福满千万家#"
+    },
+    {
+      "word": "#现代化离不开农业农村现代化#"
     }
   ]
 }
