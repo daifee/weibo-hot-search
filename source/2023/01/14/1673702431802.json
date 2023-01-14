@@ -1,0 +1,410 @@
+{
+  "runTime": 1673702431802,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2083855,
+        "num": 2083855,
+        "word": "尔冬升让赵樱子重新介绍自己",
+        "onboard_time": 1673700808,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1614917,
+        "num": 1614917,
+        "word": "广州撞人致5死司机被批捕",
+        "onboard_time": 1673699730,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9512,
+        "num": 1489858,
+        "word": "一图速览10个发热就诊指征",
+        "onboard_time": 1673668407,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1480746,
+        "num": 1480746,
+        "word": "李知恩好帅",
+        "onboard_time": 1673699011,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1176185,
+        "num": 1176185,
+        "word": "苍兰诀赢麻了",
+        "onboard_time": 1673698349,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1033489,
+        "num": 1033489,
+        "word": "女子樱桃过敏公司年货发1箱车厘子",
+        "onboard_time": 1673688928,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900754,
+        "num": 900754,
+        "word": "近期在院新冠相关死亡病例59938例",
+        "onboard_time": 1673692049,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869230,
+        "num": 869230,
+        "word": "女子多次相亲失败妈妈生气咆哮",
+        "onboard_time": 1673699188,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862476,
+        "num": 862476,
+        "word": "鞠婧祎米卡合唱晚风告白",
+        "onboard_time": 1673700989,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 780382,
+        "num": 780382,
+        "word": "xinyi",
+        "onboard_time": 1673695289,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 647117,
+        "num": 647117,
+        "word": "赵丽颖也在看少爷和我",
+        "onboard_time": 1673695951,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 592406,
+        "num": 592406,
+        "word": "张译新剧1集老了20岁",
+        "onboard_time": 1673698229,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 570164,
+        "num": 570164,
+        "word": "王俊凯 平遥国际电影展",
+        "onboard_time": 1673697266,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421922,
+        "num": 421922,
+        "word": "建议暂时取消男1000女800",
+        "onboard_time": 1673668945,
+        "rank": 13,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 322512,
+        "num": 322512,
+        "word": "成都下雪",
+        "onboard_time": 1673694867,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312546,
+        "num": 312546,
+        "word": "新娘不要彩礼陪嫁208万",
+        "onboard_time": 1673677167,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285919,
+        "num": 285919,
+        "word": "建议允许春节分区分时燃放烟花",
+        "onboard_time": 1673694808,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285265,
+        "num": 285265,
+        "word": "男子向前女友索还15万恋爱支出被驳回",
+        "onboard_time": 1673696369,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264012,
+        "num": 264012,
+        "word": "终于知道为什么叫小奶狗了",
+        "onboard_time": 1673700209,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 238899,
+        "num": 238899,
+        "word": "爸爸带喂了2年的流浪猫回家过年",
+        "onboard_time": 1673687126,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532869,
+        "num": 238076,
+        "word": "许红米去云苗村找许红豆了",
+        "onboard_time": 1673701049,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471808,
+        "num": 237874,
+        "word": "李小冉好美",
+        "onboard_time": 1673694928,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 458880,
+        "num": 237600,
+        "word": "央视网络春晚",
+        "onboard_time": 1673698707,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236711,
+        "num": 236711,
+        "word": "偶像梦幻祭",
+        "onboard_time": 1673692049,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227672,
+        "num": 227672,
+        "word": "没有一口竹子是白吃的",
+        "onboard_time": 1673693607,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222673,
+        "num": 222673,
+        "word": "母子关系和母女关系是不一样的",
+        "onboard_time": 1673689045,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214069,
+        "num": 214069,
+        "word": "曼联vs曼城",
+        "onboard_time": 1673696308,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212848,
+        "num": 212848,
+        "word": "住院新冠感染者回落到127万人",
+        "onboard_time": 1673693547,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201272,
+        "num": 201272,
+        "word": "烟花",
+        "onboard_time": 1673700931,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200683,
+        "num": 200683,
+        "word": "被山东的海鲜大集馋哭了",
+        "onboard_time": 1673693006,
+        "rank": 29,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 435738,
+        "num": 199546,
+        "word": "你好星期六",
+        "onboard_time": 1673700330,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357915,
+        "num": 197739,
+        "word": "狂飙",
+        "onboard_time": 1673681727,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345586,
+        "num": 195128,
+        "word": "王鹤棣虞书欣获尖叫之夜男神女神",
+        "onboard_time": 1673693909,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344192,
+        "num": 193630,
+        "word": "郑业成刘耀文对手戏",
+        "onboard_time": 1673702070,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336071,
+        "num": 192947,
+        "word": "郭京飞呼吁大家保护好自己谨防诈骗",
+        "onboard_time": 1673699070,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191350,
+        "num": 191350,
+        "word": "Gemini年度十大主播",
+        "onboard_time": 1673697689,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182026,
+        "num": 182026,
+        "word": "成都春熙路下雪了",
+        "onboard_time": 1673698828,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149643,
+        "num": 181998,
+        "word": "Doinb在线求职",
+        "onboard_time": 1673690486,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139750,
+        "num": 181863,
+        "word": "KPL盛典一开场就泪目了",
+        "onboard_time": 1673697448,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119813,
+        "num": 181778,
+        "word": "XYG国风造型",
+        "onboard_time": 1673698108,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 334624,
+        "num": 181738,
+        "word": "刘亦菲晒与吴彦姝的闺蜜合照",
+        "onboard_time": 1673702131,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118010,
+        "num": 181605,
+        "word": "王者荣耀年度颁奖盛典",
+        "onboard_time": 1673692645,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115625,
+        "num": 181572,
+        "word": "瓶子获奖感言",
+        "onboard_time": 1673700870,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114795,
+        "num": 181429,
+        "word": "TTG西装大片",
+        "onboard_time": 1673702070,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110394,
+        "num": 181342,
+        "word": "BLG对战JDG",
+        "onboard_time": 1673698707,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108485,
+        "num": 181273,
+        "word": "Ruler四杀",
+        "onboard_time": 1673701592,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106589,
+        "num": 181209,
+        "word": "大一男生勾拖鞋手法娴熟月入6千",
+        "onboard_time": 1673681367,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103007,
+        "num": 181109,
+        "word": "小年夜",
+        "onboard_time": 1673691987,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95580,
+        "num": 181044,
+        "word": "孙悟空才是心软的神",
+        "onboard_time": 1673683044,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 88757,
+        "num": 180952,
+        "word": "手机性能哪家强",
+        "onboard_time": 1673698889,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#现代化离不开农业农村现代化#"
+    }
+  }
+}
