@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673705730513,
+  "endTime": 1673706815252,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -2307,6 +2307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 787997,
+      "num": 787997,
+      "word": "李小冉红毯前走错赶场冷出眼泪",
+      "onboard_time": 1673703992,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 786826,
       "num": 786826,
       "word": "大一男生勾拖鞋手法娴熟月入6千",
@@ -2473,14 +2481,6 @@
       "onboard_time": 1673250448,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 753124,
-      "num": 753124,
-      "word": "李小冉红毯前走错赶场冷出眼泪",
-      "onboard_time": 1673703992,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 751968,
@@ -3235,6 +3235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 607475,
+      "num": 493416,
+      "word": "王冰冰好甜",
+      "onboard_time": 1673705789,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 605898,
       "num": 605898,
       "word": "专家称美元是唯一的中心货币",
@@ -3452,7 +3460,7 @@
     },
     {
       "raw_hot": 576339,
-      "num": 442735,
+      "num": 488175,
       "word": "东方青苍给虞书欣尖叫女神盖章",
       "onboard_time": 1673703149,
       "rank": 23,
@@ -5116,7 +5124,7 @@
     },
     {
       "raw_hot": 432369,
-      "num": 224224,
+      "num": 232168,
       "word": "杨紫机场蓝色大衣造型路透",
       "onboard_time": 1673703631,
       "rank": 21,
@@ -5657,6 +5665,14 @@
       "onboard_time": 1673430211,
       "rank": 19,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 397777,
+      "num": 230799,
+      "word": "李一桐新剧彪女人设",
+      "onboard_time": 1673706153,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 397614,
@@ -6987,6 +7003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336420,
+      "num": 336420,
+      "word": "曼联vs曼城",
+      "onboard_time": 1673696308,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335711,
       "num": 335711,
       "word": "EDG上野ID",
@@ -7337,6 +7361,22 @@
       "onboard_time": 1673506587,
       "rank": 36,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 322478,
+      "num": 172657,
+      "word": "郭晓婷周柯宇感情戏",
+      "onboard_time": 1673706570,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 322227,
+      "num": 176646,
+      "word": "小琴叫谢之遥阿遥叔",
+      "onboard_time": 1673706208,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 322215,
@@ -7729,14 +7769,6 @@
       "onboard_time": 1673229027,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 306621,
-      "num": 306621,
-      "word": "曼联vs曼城",
-      "onboard_time": 1673696308,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 306253,
@@ -8395,6 +8427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283338,
+      "num": 283338,
+      "word": "赵睿受伤",
+      "onboard_time": 1673703030,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282982,
       "num": 174081,
       "word": "肖战台历图",
@@ -8561,14 +8601,6 @@
       "onboard_time": 1673425171,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277093,
-      "num": 277093,
-      "word": "赵睿受伤",
-      "onboard_time": 1673703030,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 277077,
@@ -9233,6 +9265,14 @@
       "onboard_time": 1673483610,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252701,
+      "num": 252701,
+      "word": "没想到抽个奖都能社死",
+      "onboard_time": 1673704229,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 252229,
@@ -10699,6 +10739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204567,
+      "num": 204567,
+      "word": "张大仙最具影响力主播",
+      "onboard_time": 1673704291,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204400,
       "num": 204400,
       "word": "米哈游商业版图",
@@ -10873,6 +10921,14 @@
       "onboard_time": 1673493868,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199176,
+      "num": 199176,
+      "word": "或许这就是回家的真正意义",
+      "onboard_time": 1673705609,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 199123,
@@ -11467,14 +11523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184102,
-      "num": 184102,
-      "word": "没想到抽个奖都能社死",
-      "onboard_time": 1673704229,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 183881,
       "num": 183881,
       "word": "凌晨四点的春运高铁站",
@@ -11635,6 +11683,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 180123,
+      "num": 180123,
+      "word": "央视boys用说唱科普生僻字",
+      "onboard_time": 1673704050,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179997,
       "num": 165622,
       "word": "韩总统室表示与尹锡悦拥核言论保持距离",
@@ -11672,14 +11728,6 @@
       "word": "阴阳师流光追月神CG",
       "onboard_time": 1673328451,
       "rank": 35,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 179226,
-      "num": 179226,
-      "word": "张大仙最具影响力主播",
-      "onboard_time": 1673704291,
-      "rank": 36,
       "category": "游戏"
     },
     {
@@ -11752,6 +11800,14 @@
       "word": "画师改名话诗",
       "onboard_time": 1673425171,
       "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 177166,
+      "num": 177166,
+      "word": "eStar全员年度最佳阵容",
+      "onboard_time": 1673705370,
+      "rank": 46,
       "category": "游戏"
     },
     {
@@ -12249,14 +12305,6 @@
       "onboard_time": 1673479341,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 164140,
-      "num": 177163,
-      "word": "或许这就是回家的真正意义",
-      "onboard_time": 1673705609,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 163684,
@@ -12867,14 +12915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147547,
-      "num": 177089,
-      "word": "央视boys用说唱科普生僻字",
-      "onboard_time": 1673704050,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146795,
       "num": 146795,
       "word": "狗狗真的会因为感情流泪",
@@ -12905,6 +12945,14 @@
       "onboard_time": 1673583692,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 145337,
+      "num": 181273,
+      "word": "Ruler四杀",
+      "onboard_time": 1673701592,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 145062,
@@ -12953,14 +13001,6 @@
       "onboard_time": 1673444376,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 144229,
-      "num": 181273,
-      "word": "Ruler四杀",
-      "onboard_time": 1673701592,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 143711,
@@ -13131,6 +13171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139567,
+      "num": 172573,
+      "word": "格拉利什头球破门",
+      "onboard_time": 1673706450,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139448,
       "num": 139448,
       "word": "宁德时代单季盈利破百亿",
@@ -13193,6 +13241,14 @@
       "onboard_time": 1673428173,
       "rank": 49,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 137836,
+      "num": 931572,
+      "word": "铁水打花的春节氛围感有多绝",
+      "onboard_time": 1673704350,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137743,
@@ -13635,14 +13691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125335,
-      "num": 176540,
-      "word": "eStar全员年度最佳阵容",
-      "onboard_time": 1673705370,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 124862,
       "num": 124862,
       "word": "1个动作躺着增强心肺功能",
@@ -13955,6 +14003,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 115755,
+      "num": 172333,
+      "word": "这就是回家的意义",
+      "onboard_time": 1673706690,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115625,
       "num": 181572,
       "word": "瓶子获奖感言",
@@ -14209,6 +14265,14 @@
       "onboard_time": 1673623117,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109170,
+      "num": 172262,
+      "word": "CBA",
+      "onboard_time": 1673706450,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 109146,
@@ -14851,14 +14915,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 87113,
-      "num": 931572,
-      "word": "铁水打花的春节氛围感有多绝",
-      "onboard_time": 1673704350,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86455,
       "num": 100941,
       "word": "如果狗狗能说话",
@@ -15400,6 +15456,9 @@
     },
     {
       "word": "#现代化离不开农业农村现代化#"
+    },
+    {
+      "word": "#总书记的新春足迹#"
     }
   ]
 }

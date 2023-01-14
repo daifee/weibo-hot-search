@@ -1,6 +1,6 @@
 {
   "startTime": 1673627419435,
-  "endTime": 1673705730513,
+  "endTime": 1673706815252,
   "band_list": [
     {
       "raw_hot": 3695504,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 787997,
+      "num": 787997,
+      "word": "李小冉红毯前走错赶场冷出眼泪",
+      "onboard_time": 1673703992,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 786826,
       "num": 786826,
       "word": "大一男生勾拖鞋手法娴熟月入6千",
@@ -393,14 +401,6 @@
       "onboard_time": 1673616814,
       "rank": 1,
       "category": "社会负面,教育"
-    },
-    {
-      "raw_hot": 753124,
-      "num": 753124,
-      "word": "李小冉红毯前走错赶场冷出眼泪",
-      "onboard_time": 1673703992,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 736197,
@@ -515,6 +515,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 607475,
+      "num": 493416,
+      "word": "王冰冰好甜",
+      "onboard_time": 1673705789,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 605898,
       "num": 605898,
       "word": "专家称美元是唯一的中心货币",
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 576339,
-      "num": 442735,
+      "num": 488175,
       "word": "东方青苍给虞书欣尖叫女神盖章",
       "onboard_time": 1673703149,
       "rank": 23,
@@ -836,7 +844,7 @@
     },
     {
       "raw_hot": 432369,
-      "num": 224224,
+      "num": 232168,
       "word": "杨紫机场蓝色大衣造型路透",
       "onboard_time": 1673703631,
       "rank": 21,
@@ -937,6 +945,14 @@
       "onboard_time": 1673695590,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 397777,
+      "num": 230799,
+      "word": "李一桐新剧彪女人设",
+      "onboard_time": 1673706153,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 393878,
@@ -1179,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336420,
+      "num": 336420,
+      "word": "曼联vs曼城",
+      "onboard_time": 1673696308,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335377,
       "num": 172626,
       "word": "卡梅隆发文diss漫威超级英雄电影",
@@ -1251,6 +1275,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 322478,
+      "num": 172657,
+      "word": "郭晓婷周柯宇感情戏",
+      "onboard_time": 1673706570,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 322227,
+      "num": 176646,
+      "word": "小琴叫谢之遥阿遥叔",
+      "onboard_time": 1673706208,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321389,
       "num": 216047,
       "word": "王鹤棣说自己白天不起晚上不睡",
@@ -1281,14 +1321,6 @@
       "onboard_time": 1673695289,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 306621,
-      "num": 306621,
-      "word": "曼联vs曼城",
-      "onboard_time": 1673696308,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 306253,
@@ -1403,6 +1435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283338,
+      "num": 283338,
+      "word": "赵睿受伤",
+      "onboard_time": 1673703030,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282468,
       "num": 196786,
       "word": "赵丽颖说幸福是有梦想有希望",
@@ -1433,14 +1473,6 @@
       "onboard_time": 1673678366,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 277093,
-      "num": 277093,
-      "word": "赵睿受伤",
-      "onboard_time": 1673703030,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 276279,
@@ -1513,6 +1545,14 @@
       "onboard_time": 1673684126,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252701,
+      "num": 252701,
+      "word": "没想到抽个奖都能社死",
+      "onboard_time": 1673704229,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 249013,
@@ -1763,6 +1803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204567,
+      "num": 204567,
+      "word": "张大仙最具影响力主播",
+      "onboard_time": 1673704291,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202403,
       "num": 203398,
       "word": "鼓励住房汽车等大宗消费",
@@ -1793,6 +1841,14 @@
       "onboard_time": 1673677947,
       "rank": 33,
       "category": "音乐,影视"
+    },
+    {
+      "raw_hot": 199176,
+      "num": 199176,
+      "word": "或许这就是回家的真正意义",
+      "onboard_time": 1673705609,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 199123,
@@ -1859,14 +1915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 184102,
-      "num": 184102,
-      "word": "没想到抽个奖都能社死",
-      "onboard_time": 1673704229,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 183444,
       "num": 183444,
       "word": "如何看待张朝阳劝诫年轻人被群嘲",
@@ -1907,12 +1955,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 179226,
-      "num": 179226,
-      "word": "张大仙最具影响力主播",
-      "onboard_time": 1673704291,
-      "rank": 36,
-      "category": "游戏"
+      "raw_hot": 180123,
+      "num": 180123,
+      "word": "央视boys用说唱科普生僻字",
+      "onboard_time": 1673704050,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178358,
@@ -1929,6 +1977,14 @@
       "onboard_time": 1673611529,
       "rank": 24,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 177166,
+      "num": 177166,
+      "word": "eStar全员年度最佳阵容",
+      "onboard_time": 1673705370,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 176630,
@@ -2003,14 +2059,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164140,
-      "num": 177163,
-      "word": "或许这就是回家的真正意义",
-      "onboard_time": 1673705609,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162678,
       "num": 177603,
       "word": "花海年度最佳打野",
@@ -2059,12 +2107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147547,
-      "num": 177089,
-      "word": "央视boys用说唱科普生僻字",
-      "onboard_time": 1673704050,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 145337,
+      "num": 181273,
+      "word": "Ruler四杀",
+      "onboard_time": 1673701592,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 145038,
@@ -2081,14 +2129,6 @@
       "onboard_time": 1673663845,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 144229,
-      "num": 181273,
-      "word": "Ruler四杀",
-      "onboard_time": 1673701592,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 143711,
@@ -2121,6 +2161,22 @@
       "onboard_time": 1673666127,
       "rank": 38,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 139567,
+      "num": 172573,
+      "word": "格拉利什头球破门",
+      "onboard_time": 1673706450,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137836,
+      "num": 931572,
+      "word": "铁水打花的春节氛围感有多绝",
+      "onboard_time": 1673704350,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137441,
@@ -2251,14 +2307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125335,
-      "num": 176540,
-      "word": "eStar全员年度最佳阵容",
-      "onboard_time": 1673705370,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 122916,
       "num": 122916,
       "word": "过了小年就是年",
@@ -2289,6 +2337,14 @@
       "onboard_time": 1673687726,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115755,
+      "num": 172333,
+      "word": "这就是回家的意义",
+      "onboard_time": 1673706690,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115625,
@@ -2337,6 +2393,14 @@
       "onboard_time": 1673610869,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109170,
+      "num": 172262,
+      "word": "CBA",
+      "onboard_time": 1673706450,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107906,
@@ -2536,14 +2600,6 @@
       "word": "过年如何对付串门的熊孩子",
       "onboard_time": 1673682745,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87113,
-      "num": 931572,
-      "word": "铁水打花的春节氛围感有多绝",
-      "onboard_time": 1673704350,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2829,6 +2885,9 @@
     },
     {
       "word": "#现代化离不开农业农村现代化#"
+    },
+    {
+      "word": "#总书记的新春足迹#"
     }
   ]
 }
