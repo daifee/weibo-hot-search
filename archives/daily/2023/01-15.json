@@ -1,6 +1,6 @@
 {
   "startTime": 1673713412094,
-  "endTime": 1673734586620,
+  "endTime": 1673735588626,
   "band_list": [
     {
       "raw_hot": 1664567,
@@ -569,6 +569,14 @@
       "onboard_time": 1673726834,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 17649,
+      "num": 17649,
+      "word": "女子带57岁未来婆婆拍人生首本写真",
+      "onboard_time": 1673735233,
+      "rank": 45,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
