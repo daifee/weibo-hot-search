@@ -1,0 +1,410 @@
+{
+  "runTime": 1673659495723,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1313858,
+        "num": 1313858,
+        "word": "同村前男友结婚女孩哭成泪人",
+        "onboard_time": 1673653940,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1077744,
+        "num": 1077744,
+        "word": "农民工1人占6个行李架位被怼",
+        "onboard_time": 1673657066,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51741,
+        "num": 874943,
+        "word": "谢谢回家路上的你",
+        "onboard_time": 1673619757,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1413735,
+        "num": 874896,
+        "word": "女子称42岁未婚状态超好",
+        "onboard_time": 1673655384,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874094,
+        "num": 874094,
+        "word": "韩男团成员称韩国历史好似短篇小说",
+        "onboard_time": 1673655745,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 818726,
+        "num": 818726,
+        "word": "唐嫣素颜",
+        "onboard_time": 1673656405,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 600854,
+        "num": 600854,
+        "word": "为什么南北方小年不同一天",
+        "onboard_time": 1673654722,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568872,
+        "num": 568872,
+        "word": "中国boy 没在百大",
+        "onboard_time": 1673654121,
+        "rank": 7,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 564528,
+        "num": 564528,
+        "word": "小年",
+        "onboard_time": 1673651776,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418400,
+        "num": 418400,
+        "word": "彩礼的必要性在哪",
+        "onboard_time": 1673654903,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829903,
+        "num": 416139,
+        "word": "向佐郭碧婷 逛街",
+        "onboard_time": 1673624973,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412984,
+        "num": 412984,
+        "word": "BLACKPINK香港演唱会",
+        "onboard_time": 1673653338,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 370389,
+        "num": 370389,
+        "word": "新娘刚下婚车遭痱子粉砸脸糊满身",
+        "onboard_time": 1673617176,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 541355,
+        "num": 349015,
+        "word": "刘心悠承认已婚",
+        "onboard_time": 1673614290,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293402,
+        "num": 293402,
+        "word": "00后小伙回应卖猪肉走红",
+        "onboard_time": 1673656465,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253738,
+        "num": 253738,
+        "word": "韩国官员诚挚欢迎中国游客到访",
+        "onboard_time": 1673615316,
+        "rank": 15,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 253733,
+        "num": 253733,
+        "word": "家人回应小女孩背猪草背篓比人大",
+        "onboard_time": 1673644452,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236960,
+        "num": 236960,
+        "word": "省教育厅回应女生宿舍上铺坠亡",
+        "onboard_time": 1673616814,
+        "rank": 17,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 222615,
+        "num": 222615,
+        "word": "阳了发烧10种情况应就医",
+        "onboard_time": 1673657005,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221982,
+        "num": 221982,
+        "word": "C罗造访皇马训练",
+        "onboard_time": 1673654180,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374666,
+        "num": 221221,
+        "word": "榜一大哥奔现遭拒起诉主播欺诈",
+        "onboard_time": 1673625450,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 369155,
+        "num": 214512,
+        "word": "长月烬明",
+        "onboard_time": 1673653821,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342088,
+        "num": 211569,
+        "word": "著名歌唱家谢莉斯离世",
+        "onboard_time": 1673656584,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202403,
+        "num": 202403,
+        "word": "鼓励住房汽车等大宗消费",
+        "onboard_time": 1673641213,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 199123,
+        "num": 199123,
+        "word": "骑手春节留京送年货月入2万",
+        "onboard_time": 1673657128,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167971,
+        "num": 167971,
+        "word": "淮安市副市长韦峰被免职",
+        "onboard_time": 1673621916,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164788,
+        "num": 164788,
+        "word": "男孩1天喝6瓶饮料父亲一次灌饱",
+        "onboard_time": 1673614049,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162902,
+        "num": 162902,
+        "word": "女子误把二哈当狼哭着报警",
+        "onboard_time": 1673618494,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158261,
+        "num": 158261,
+        "word": "郑渊洁找到37年前小读者道歉",
+        "onboard_time": 1673628566,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149878,
+        "num": 149878,
+        "word": "原神 归终",
+        "onboard_time": 1673623653,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 317828,
+        "num": 149764,
+        "word": "马思唯易梦玲 分手",
+        "onboard_time": 1673614532,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245909,
+        "num": 149245,
+        "word": "易烊千玺留了两三个月的头发拍满江红",
+        "onboard_time": 1673625029,
+        "rank": 31,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 240396,
+        "num": 149083,
+        "word": "电影无名预售",
+        "onboard_time": 1673659345,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237014,
+        "num": 148632,
+        "word": "2022百大UP主名单",
+        "onboard_time": 1673613630,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148507,
+        "num": 148507,
+        "word": "男子超市买898元零食P图付款被抓现行",
+        "onboard_time": 1673619817,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234479,
+        "num": 144844,
+        "word": "王一博说希望常因光影相聚",
+        "onboard_time": 1673654543,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136169,
+        "num": 136169,
+        "word": "小年快乐",
+        "onboard_time": 1673658745,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126881,
+        "num": 126881,
+        "word": "谁不怀念那时候的年味",
+        "onboard_time": 1673654121,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122114,
+        "num": 122114,
+        "word": "南方人哪见过这场面",
+        "onboard_time": 1673622755,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105106,
+        "num": 105106,
+        "word": "最近广东回南天的现状",
+        "onboard_time": 1673620595,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215330,
+        "num": 103565,
+        "word": "逍遥散人连续5年获百大UP主",
+        "onboard_time": 1673659345,
+        "rank": 40,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 100805,
+        "num": 100805,
+        "word": "一件小事坚持10年是什么体验",
+        "onboard_time": 1673653099,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99657,
+        "num": 99657,
+        "word": "新冠口服药莫诺拉韦中国市场首发",
+        "onboard_time": 1673650035,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93096,
+        "num": 93096,
+        "word": "娶到心爱的女孩笑容是藏不住的",
+        "onboard_time": 1673629642,
+        "rank": 43,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 92614,
+        "num": 92614,
+        "word": "顾客吃串为少付钱藏桌底200根签子",
+        "onboard_time": 1673620415,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90342,
+        "num": 90342,
+        "word": "人生真的会被年龄局限吗",
+        "onboard_time": 1673658805,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85971,
+        "num": 85971,
+        "word": "没想到相个亲也会社死",
+        "onboard_time": 1673643732,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85884,
+        "num": 85884,
+        "word": "那不勒斯5比1尤文图斯",
+        "onboard_time": 1673654543,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75993,
+        "num": 75993,
+        "word": "你见过冰上水墨画吗",
+        "onboard_time": 1673659464,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73061,
+        "num": 73061,
+        "word": "报告称2022年终奖人均2.19万元",
+        "onboard_time": 1673611529,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#春运路上的暖心守护#"
+    }
+  }
+}
