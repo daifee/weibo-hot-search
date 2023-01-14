@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673706815252,
+  "endTime": 1673709444612,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -169,6 +169,14 @@
       "onboard_time": 1673513368,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2514266,
+      "num": 2514266,
+      "word": "张新成 受伤",
+      "onboard_time": 1673707710,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2492828,
@@ -681,6 +689,14 @@
       "onboard_time": 1673427151,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1478429,
+      "num": 1478429,
+      "word": "吴镇宇说赵樱子太会哭了",
+      "onboard_time": 1673707590,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1463722,
@@ -1433,6 +1449,14 @@
       "onboard_time": 1673615133,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1039401,
+      "num": 1039401,
+      "word": "萨顶顶说看着迪丽热巴的眼睛眼泪就下来了",
+      "onboard_time": 1673706931,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1035615,
@@ -2547,6 +2571,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 736965,
+      "num": 493416,
+      "word": "王冰冰好甜",
+      "onboard_time": 1673705789,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 736943,
       "num": 512981,
       "word": "杨幂放烟花游玩照",
@@ -2841,6 +2873,14 @@
       "onboard_time": 1673334569,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 670529,
+      "num": 670529,
+      "word": "官方调查雷丁汽车举报县委书记",
+      "onboard_time": 1673708011,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 666029,
@@ -3233,14 +3273,6 @@
       "onboard_time": 1673314648,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 607475,
-      "num": 493416,
-      "word": "王冰冰好甜",
-      "onboard_time": 1673705789,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 605898,
@@ -3939,6 +3971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533567,
+      "num": 533567,
+      "word": "Ruler五杀",
+      "onboard_time": 1673707471,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 533494,
       "num": 533494,
       "word": "爸爸带喂了2年的流浪猫回家过年",
@@ -4025,6 +4065,14 @@
       "onboard_time": 1673251049,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 524109,
+      "num": 435129,
+      "word": "杨颖晒车内侧颜随拍",
+      "onboard_time": 1673707111,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 518812,
@@ -5811,6 +5859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390604,
+      "num": 390604,
+      "word": "拖米连发16条博",
+      "onboard_time": 1673708252,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 390010,
       "num": 193323,
       "word": "电影无名预售票房破2000万",
@@ -6049,6 +6105,14 @@
       "onboard_time": 1673431531,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 379640,
+      "num": 250801,
+      "word": "新华社评去有风的地方热播",
+      "onboard_time": 1673708671,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 378859,
@@ -6339,6 +6403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364105,
+      "num": 172657,
+      "word": "郭晓婷周柯宇感情戏",
+      "onboard_time": 1673706570,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363380,
       "num": 363380,
       "word": "找到中国奇谭里的小猪妖了",
@@ -6553,6 +6625,14 @@
       "onboard_time": 1673406931,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351163,
+      "num": 351163,
+      "word": "曼联2比1曼城",
+      "onboard_time": 1673707412,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 350364,
@@ -7361,14 +7441,6 @@
       "onboard_time": 1673506587,
       "rank": 36,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 322478,
-      "num": 172657,
-      "word": "郭晓婷周柯宇感情戏",
-      "onboard_time": 1673706570,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 322227,
@@ -8563,6 +8635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278935,
+      "num": 169247,
+      "word": "王俊凯鞋滑",
+      "onboard_time": 1673709390,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278713,
       "num": 221595,
       "word": "瞬息全宇宙赢麻了",
@@ -8777,6 +8857,14 @@
       "onboard_time": 1673570250,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 272263,
+      "num": 272263,
+      "word": "没想到抽个奖都能社死",
+      "onboard_time": 1673704229,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 271618,
@@ -9265,14 +9353,6 @@
       "onboard_time": 1673483610,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252701,
-      "num": 252701,
-      "word": "没想到抽个奖都能社死",
-      "onboard_time": 1673704229,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 252229,
@@ -10707,6 +10787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206103,
+      "num": 206103,
+      "word": "央视boys用说唱科普生僻字",
+      "onboard_time": 1673704050,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205210,
       "num": 205210,
       "word": "远嫁女儿隔四年回家爸妈喜极而泣",
@@ -11467,6 +11555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185590,
+      "num": 185590,
+      "word": "JDG战胜BLG",
+      "onboard_time": 1673709211,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185341,
       "num": 185341,
       "word": "XYG国风造型",
@@ -11681,14 +11777,6 @@
       "onboard_time": 1673496992,
       "rank": 44,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 180123,
-      "num": 180123,
-      "word": "央视boys用说唱科普生僻字",
-      "onboard_time": 1673704050,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179997,
@@ -11979,6 +12067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173168,
+      "num": 173168,
+      "word": "雷丁",
+      "onboard_time": 1673708011,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173120,
       "num": 173120,
       "word": "黑猫警长2023特别篇",
@@ -12073,6 +12169,14 @@
       "onboard_time": 1673402128,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169863,
+      "num": 169863,
+      "word": "bin哥厉害",
+      "onboard_time": 1673708492,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 169479,
@@ -13043,6 +13147,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 142365,
+      "num": 1328106,
+      "word": "铁水打花的春节氛围感有多绝",
+      "onboard_time": 1673704350,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142337,
       "num": 142337,
       "word": "辽宁男篮vs北京男篮",
@@ -13241,14 +13353,6 @@
       "onboard_time": 1673428173,
       "rank": 49,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 137836,
-      "num": 931572,
-      "word": "铁水打花的春节氛围感有多绝",
-      "onboard_time": 1673704350,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137743,
@@ -13539,6 +13643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129829,
+      "num": 168784,
+      "word": "同曦男篮队史首次战胜广东男篮",
+      "onboard_time": 1673706931,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129786,
       "num": 188998,
       "word": "这烟花能不能让人把话说完",
@@ -13561,6 +13673,14 @@
       "onboard_time": 1673222244,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128740,
+      "num": 168583,
+      "word": "梅德韦杰夫称岸田文雄访美后该切腹",
+      "onboard_time": 1673708730,
+      "rank": 44,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 128399,
@@ -14328,6 +14448,14 @@
       "word": "我国海水稻种植面积突破百万亩",
       "onboard_time": 1673515409,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107930,
+      "num": 167815,
+      "word": "一封家书唱给远在家乡的父母",
+      "onboard_time": 1673709332,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
