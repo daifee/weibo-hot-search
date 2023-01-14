@@ -1,7 +1,15 @@
 {
   "startTime": 1673627419435,
-  "endTime": 1673670111633,
+  "endTime": 1673671011080,
   "band_list": [
+    {
+      "raw_hot": 3241026,
+      "num": 3241026,
+      "word": "建议暂时取消男1000女800",
+      "onboard_time": 1673668945,
+      "rank": 1,
+      "category": "教育,体育"
+    },
     {
       "raw_hot": 1868415,
       "num": 1868415,
@@ -35,14 +43,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1437078,
-      "num": 1437078,
-      "word": "建议暂时取消男1000女800",
-      "onboard_time": 1673668945,
-      "rank": 1,
-      "category": "教育,体育"
-    },
-    {
       "raw_hot": 1433939,
       "num": 1433939,
       "word": "女子被骗回婆家过年高速抢方向盘",
@@ -73,6 +73,14 @@
       "onboard_time": 1673653940,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1215468,
+      "num": 1215468,
+      "word": "Angelababy去看了BLACKPINK演唱会",
+      "onboard_time": 1673669846,
+      "rank": 6,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 1080833,
@@ -147,12 +155,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 783201,
+      "num": 783201,
+      "word": "女孩备考专八402天用掉200支笔",
+      "onboard_time": 1673666844,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 779620,
       "num": 779620,
       "word": "省教育厅回应女生宿舍上铺坠亡",
       "onboard_time": 1673616814,
       "rank": 1,
       "category": "社会负面,教育"
+    },
+    {
+      "raw_hot": 775545,
+      "num": 775545,
+      "word": "王嘉尔去粉丝家里做客",
+      "onboard_time": 1673670328,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 736197,
@@ -163,28 +187,12 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 718863,
-      "num": 718863,
-      "word": "女孩备考专八402天用掉200支笔",
-      "onboard_time": 1673666844,
-      "rank": 39,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 718274,
       "num": 718274,
       "word": "央视网络春晚节目单发布",
       "onboard_time": 1673662224,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 707783,
-      "num": 707783,
-      "word": "Angelababy去看了BLACKPINK演唱会",
-      "onboard_time": 1673669846,
-      "rank": 6,
-      "category": "艺人,音乐"
     },
     {
       "raw_hot": 662035,
@@ -499,12 +507,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303973,
+      "num": 179980,
+      "word": "梁咏琪 因为工作原因无法参与之后的录制",
+      "onboard_time": 1673670988,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 300813,
+      "num": 274618,
+      "word": "东航南航将从纽交所退市",
+      "onboard_time": 1673668348,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 299548,
       "num": 299548,
       "word": "家人回应小女孩背猪草背篓比人大",
       "onboard_time": 1673644452,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297883,
+      "num": 179155,
+      "word": "宋亚轩珍珠戒指",
+      "onboard_time": 1673670928,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 297255,
@@ -555,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276141,
+      "num": 276141,
+      "word": "闪耀暖暖",
+      "onboard_time": 1673670328,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 271173,
       "num": 271173,
       "word": "南方人哪见过这场面",
@@ -569,6 +609,14 @@
       "onboard_time": 1673627067,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 247983,
+      "num": 247983,
+      "word": "年轻人为什么热衷于搞钱",
+      "onboard_time": 1673669487,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 242143,
@@ -683,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213257,
-      "num": 213257,
-      "word": "东航南航将从纽交所退市",
-      "onboard_time": 1673668348,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 202403,
       "num": 203398,
       "word": "鼓励住房汽车等大宗消费",
@@ -739,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180822,
+      "num": 196010,
+      "word": "当狗狗被关在门外后的反应",
+      "onboard_time": 1673667684,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177998,
       "num": 177998,
       "word": "报告称2022年终奖人均2.19万元",
@@ -763,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156522,
-      "num": 196010,
-      "word": "当狗狗被关在门外后的反应",
-      "onboard_time": 1673667684,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 151331,
       "num": 118233,
       "word": "周深说花火唱给愿意成为海岸的人",
@@ -785,6 +825,14 @@
       "onboard_time": 1673663845,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141547,
+      "num": 194404,
+      "word": "姥姥看见突然回家的外孙女愣住了",
+      "onboard_time": 1673669967,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140696,
@@ -867,14 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124916,
-      "num": 195502,
-      "word": "年轻人为什么热衷于搞钱",
-      "onboard_time": 1673669487,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 121716,
       "num": 79305,
       "word": "FIRSTFRAME第一帧",
@@ -891,12 +931,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111364,
+      "num": 178129,
+      "word": "中国火车站的名字能有多可爱",
+      "onboard_time": 1673670508,
+      "rank": 39,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 110229,
       "num": 172941,
       "word": "第一次从猫猫脸上看见了委屈",
       "onboard_time": 1673610869,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108391,
+      "num": 177124,
+      "word": "专家称美元是唯一的中心货币",
+      "onboard_time": 1673670508,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 106619,
@@ -1019,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88581,
+      "num": 176143,
+      "word": "谁童年还没拿床单当礼服呢",
+      "onboard_time": 1673670689,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87811,
       "num": 169360,
       "word": "丈夫偷送万元包妻子大哭10分钟",
@@ -1075,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74111,
+      "num": 194580,
+      "word": "勇士战胜马刺",
+      "onboard_time": 1673669727,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73198,
       "num": 194763,
       "word": "女子回家过节姥姥激动拥抱拍打",
@@ -1089,14 +1161,6 @@
       "onboard_time": 1673632517,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 72127,
-      "num": 194580,
-      "word": "勇士战胜马刺",
-      "onboard_time": 1673669727,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 66794,
@@ -1123,14 +1187,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 62694,
-      "num": 194404,
-      "word": "姥姥看见突然回家的外孙女愣住了",
-      "onboard_time": 1673669967,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62597,
       "num": 167498,
       "word": "学校上铺护栏高度标准是多少",
@@ -1139,7 +1195,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 60607,
+      "raw_hot": 62336,
       "num": 1434577,
       "word": "一图速览10个发热就诊指征",
       "onboard_time": 1673668407,

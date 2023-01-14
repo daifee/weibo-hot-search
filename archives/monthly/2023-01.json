@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673670111633,
+  "endTime": 1673671011080,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -209,6 +209,14 @@
       "onboard_time": 1672529298,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3241026,
+      "num": 3241026,
+      "word": "建议暂时取消男1000女800",
+      "onboard_time": 1673668945,
+      "rank": 1,
+      "category": "教育,体育"
     },
     {
       "raw_hot": 3216264,
@@ -1795,14 +1803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1437078,
-      "num": 1437078,
-      "word": "建议暂时取消男1000女800",
-      "onboard_time": 1673668945,
-      "rank": 1,
-      "category": "教育,体育"
-    },
-    {
       "raw_hot": 1433939,
       "num": 1433939,
       "word": "女子被骗回婆家过年高速抢方向盘",
@@ -2473,6 +2473,14 @@
       "onboard_time": 1672515314,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1215468,
+      "num": 1215468,
+      "word": "Angelababy去看了BLACKPINK演唱会",
+      "onboard_time": 1673669846,
+      "rank": 6,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 1213413,
@@ -5291,6 +5299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 783201,
+      "num": 783201,
+      "word": "女孩备考专八402天用掉200支笔",
+      "onboard_time": 1673666844,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 783084,
       "num": 783084,
       "word": "2023央视春晚第三次大联排",
@@ -5353,6 +5369,14 @@
       "onboard_time": 1672559850,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 775545,
+      "num": 775545,
+      "word": "王嘉尔去粉丝家里做客",
+      "onboard_time": 1673670328,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 775169,
@@ -5955,14 +5979,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 718863,
-      "num": 718863,
-      "word": "女孩备考专八402天用掉200支笔",
-      "onboard_time": 1673666844,
-      "rank": 39,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 718274,
       "num": 718274,
       "word": "央视网络春晚节目单发布",
@@ -6073,14 +6089,6 @@
       "onboard_time": 1672930234,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 707783,
-      "num": 707783,
-      "word": "Angelababy去看了BLACKPINK演唱会",
-      "onboard_time": 1673669846,
-      "rank": 6,
-      "category": "艺人,音乐"
     },
     {
       "raw_hot": 706324,
@@ -17043,6 +17051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303973,
+      "num": 179980,
+      "word": "梁咏琪 因为工作原因无法参与之后的录制",
+      "onboard_time": 1673670988,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303895,
       "num": 303895,
       "word": "张婉婷 逻辑",
@@ -17201,6 +17217,14 @@
       "onboard_time": 1673166748,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 300813,
+      "num": 274618,
+      "word": "东航南航将从纽交所退市",
+      "onboard_time": 1673668348,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 300799,
@@ -17425,6 +17449,14 @@
       "onboard_time": 1673316146,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297883,
+      "num": 179155,
+      "word": "宋亚轩珍珠戒指",
+      "onboard_time": 1673670928,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 297694,
@@ -18825,6 +18857,14 @@
       "onboard_time": 1672723711,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276141,
+      "num": 276141,
+      "word": "闪耀暖暖",
+      "onboard_time": 1673670328,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 276098,
@@ -20697,6 +20737,14 @@
       "onboard_time": 1672924294,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247983,
+      "num": 247983,
+      "word": "年轻人为什么热衷于搞钱",
+      "onboard_time": 1673669487,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 247953,
@@ -22993,14 +23041,6 @@
       "onboard_time": 1673200817,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 213257,
-      "num": 213257,
-      "word": "东航南航将从纽交所退市",
-      "onboard_time": 1673668348,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 213253,
@@ -25555,6 +25595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180822,
+      "num": 196010,
+      "word": "当狗狗被关在门外后的反应",
+      "onboard_time": 1673667684,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180783,
       "num": 224417,
       "word": "蚂蚁集团等14家大型平台企业整改已基本完成",
@@ -27619,14 +27667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 156522,
-      "num": 196010,
-      "word": "当狗狗被关在门外后的反应",
-      "onboard_time": 1673667684,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156343,
       "num": 1882417,
       "word": "新冠康复如何做到清淡饮食",
@@ -28776,6 +28816,14 @@
       "word": "秦兵马俑一号坑第三次发掘成果",
       "onboard_time": 1673582908,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141547,
+      "num": 194404,
+      "word": "姥姥看见突然回家的外孙女愣住了",
+      "onboard_time": 1673669967,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -30099,14 +30147,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 124916,
-      "num": 195502,
-      "word": "年轻人为什么热衷于搞钱",
-      "onboard_time": 1673669487,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 124862,
       "num": 124862,
       "word": "1个动作躺着增强心肺功能",
@@ -31203,6 +31243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111364,
+      "num": 178129,
+      "word": "中国火车站的名字能有多可爱",
+      "onboard_time": 1673670508,
+      "rank": 39,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 111304,
       "num": 111304,
       "word": "相爱的人永远都能和好吗",
@@ -31353,6 +31401,14 @@
       "onboard_time": 1673024841,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108391,
+      "num": 177124,
+      "word": "专家称美元是唯一的中心货币",
+      "onboard_time": 1673670508,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 108367,
@@ -32547,6 +32603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 88581,
+      "num": 176143,
+      "word": "谁童年还没拿床单当礼服呢",
+      "onboard_time": 1673670689,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88332,
       "num": 399915,
       "word": "这地里是藏了个DJ吧",
@@ -32891,6 +32955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74111,
+      "num": 194580,
+      "word": "勇士战胜马刺",
+      "onboard_time": 1673669727,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73198,
       "num": 194763,
       "word": "女子回家过节姥姥激动拥抱拍打",
@@ -32905,14 +32977,6 @@
       "onboard_time": 1673632517,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 72127,
-      "num": 194580,
-      "word": "勇士战胜马刺",
-      "onboard_time": 1673669727,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 71636,
@@ -33043,20 +33107,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62694,
-      "num": 194404,
-      "word": "姥姥看见突然回家的外孙女愣住了",
-      "onboard_time": 1673669967,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62597,
       "num": 167498,
       "word": "学校上铺护栏高度标准是多少",
       "onboard_time": 1673624074,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 62336,
+      "num": 1434577,
+      "word": "一图速览10个发热就诊指征",
+      "onboard_time": 1673668407,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61999,
@@ -33081,14 +33145,6 @@
       "onboard_time": 1672870032,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 60607,
-      "num": 1434577,
-      "word": "一图速览10个发热就诊指征",
-      "onboard_time": 1673668407,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60449,
