@@ -1,6 +1,6 @@
 {
   "startTime": 1673627419435,
-  "endTime": 1673678148234,
+  "endTime": 1673680529432,
   "band_list": [
     {
       "raw_hot": 3695504,
@@ -75,12 +75,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1252070,
+      "num": 972345,
+      "word": "新娘不要彩礼陪嫁208万",
+      "onboard_time": 1673677167,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1215468,
       "num": 1215468,
       "word": "Angelababy去看了BLACKPINK演唱会",
       "onboard_time": 1673669846,
       "rank": 6,
       "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 1205733,
+      "num": 1205733,
+      "word": "网传骗子行骗留郭京飞的电话",
+      "onboard_time": 1673675187,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1149943,
@@ -121,14 +137,6 @@
       "onboard_time": 1673661446,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 940886,
-      "num": 940886,
-      "word": "网传骗子行骗留郭京飞的电话",
-      "onboard_time": 1673675187,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 904931,
@@ -193,6 +201,14 @@
       "onboard_time": 1673663726,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 789226,
+      "num": 789226,
+      "word": "于文文张天爱牵手花絮照",
+      "onboard_time": 1673678425,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 783201,
@@ -297,6 +313,14 @@
       "onboard_time": 1673663306,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 569297,
+      "num": 569297,
+      "word": "前国脚徐亮误食开塞露住院",
+      "onboard_time": 1673677526,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 568872,
@@ -419,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434901,
+      "num": 434901,
+      "word": "三体 庄颜",
+      "onboard_time": 1673679384,
+      "rank": 11,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 429818,
       "num": 232782,
       "word": "乡爱15是谢大脚最后一部",
       "onboard_time": 1673664746,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 425754,
+      "num": 425754,
+      "word": "我们的客栈豆瓣3.4",
+      "onboard_time": 1673679685,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 422294,
@@ -435,20 +475,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413412,
+      "num": 413412,
+      "word": "久哲直播",
+      "onboard_time": 1673677586,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 412984,
       "num": 412984,
       "word": "BLACKPINK香港演唱会",
       "onboard_time": 1673653338,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 408444,
-      "num": 275055,
-      "word": "新娘不要彩礼陪嫁208万",
-      "onboard_time": 1673677167,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 398871,
@@ -464,6 +504,14 @@
       "word": "电影无名领跑春节档新片票房榜",
       "onboard_time": 1673660785,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 383329,
+      "num": 190011,
+      "word": "王子文说叶文洁是有力量的角色",
+      "onboard_time": 1673678726,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -483,12 +531,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 373728,
-      "num": 373728,
-      "word": "久哲直播",
-      "onboard_time": 1673677586,
-      "rank": 8,
-      "category": "游戏"
+      "raw_hot": 375817,
+      "num": 375817,
+      "word": "国际足联调查阿根廷队世界杯不当行为",
+      "onboard_time": 1673678006,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 369155,
@@ -521,6 +569,14 @@
       "onboard_time": 1673661805,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 363841,
+      "num": 363841,
+      "word": "重启警号123296",
+      "onboard_time": 1673678305,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361515,
@@ -595,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333083,
+      "num": 333083,
+      "word": "男子加油发现刚拔油枪就跳字",
+      "onboard_time": 1673675486,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330942,
       "num": 330942,
       "word": "得知前任结婚时是什么感受",
@@ -641,14 +705,6 @@
       "onboard_time": 1673620595,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 319977,
-      "num": 273943,
-      "word": "男子加油发现刚拔油枪就跳字",
-      "onboard_time": 1673675486,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319223,
@@ -755,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279635,
+      "num": 134030,
+      "word": "有风小院接纳了很多人的不堪",
+      "onboard_time": 1673678366,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271173,
       "num": 271173,
       "word": "南方人哪见过这场面",
@@ -777,6 +841,14 @@
       "onboard_time": 1673673089,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 265811,
+      "num": 128093,
+      "word": "天放 我把这辈子的人都丢完了",
+      "onboard_time": 1673680286,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 260658,
@@ -849,6 +921,14 @@
       "onboard_time": 1673619633,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231084,
+      "num": 114602,
+      "word": "龚俊刘耀文张凌赫今日营业照",
+      "onboard_time": 1673678425,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 230729,
@@ -1043,20 +1123,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162184,
+      "num": 162184,
+      "word": "女子买红尖椒用手一搓狂掉色儿",
+      "onboard_time": 1673679028,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161261,
       "num": 205578,
       "word": "男生奋力抢手捧花送门后的姑娘",
       "onboard_time": 1673661025,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152925,
-      "num": 134761,
-      "word": "前国脚徐亮误食开塞露住院",
-      "onboard_time": 1673677526,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 151331,
@@ -1073,6 +1153,14 @@
       "onboard_time": 1673663845,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144347,
+      "num": 144347,
+      "word": "医院用麻袋装活鸡送职工当年货",
+      "onboard_time": 1673678547,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143711,
@@ -1179,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114666,
+      "num": 114666,
+      "word": "LPL选手拜年照",
+      "onboard_time": 1673679804,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112913,
       "num": 112913,
       "word": "新冠口服药莫诺拉韦中国市场首发",
@@ -1233,14 +1329,6 @@
       "onboard_time": 1673643732,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 102788,
-      "num": 102788,
-      "word": "国际足联调查阿根廷队世界杯不当行为",
-      "onboard_time": 1673678006,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 102742,
@@ -1419,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70515,
+      "num": 114145,
+      "word": "我的小年仪式感",
+      "onboard_time": 1673679207,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68241,
       "num": 139296,
       "word": "医生魔性指导小伙做肺功能检查",
@@ -1472,6 +1568,14 @@
       "word": "女子展示神操作橘子复原术",
       "onboard_time": 1673630722,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55858,
+      "num": 114033,
+      "word": "老人手机余额充足却提示欠费需续费",
+      "onboard_time": 1673680465,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
