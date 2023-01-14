@@ -1,6 +1,6 @@
 {
   "startTime": 1673627419435,
-  "endTime": 1673684523693,
+  "endTime": 1673685322759,
   "band_list": [
     {
       "raw_hot": 3695504,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1423365,
-      "num": 975167,
+      "num": 977828,
       "word": "新娘不要彩礼陪嫁208万",
       "onboard_time": 1673677167,
       "rank": 45,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1236340,
+      "num": 1236340,
+      "word": "金晨主持央视电视剧盛典",
+      "onboard_time": 1673683645,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1215468,
       "num": 1215468,
       "word": "Angelababy去看了BLACKPINK演唱会",
@@ -97,14 +105,6 @@
       "onboard_time": 1673675187,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1188069,
-      "num": 1188069,
-      "word": "金晨主持央视电视剧盛典",
-      "onboard_time": 1673683645,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1149943,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1083097,
+      "num": 546002,
+      "word": "金白开",
+      "onboard_time": 1673680887,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1080833,
       "num": 1080833,
       "word": "榜一大哥奔现遭拒起诉主播欺诈",
@@ -137,14 +145,6 @@
       "onboard_time": 1673670328,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 997274,
-      "num": 399106,
-      "word": "金白开",
-      "onboard_time": 1673680887,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 974190,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 786826,
+      "num": 786826,
+      "word": "大一男生勾拖鞋手法娴熟月入6千",
+      "onboard_time": 1673681367,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 783201,
       "num": 783201,
       "word": "女孩备考专八402天用掉200支笔",
@@ -241,14 +249,6 @@
       "onboard_time": 1673616814,
       "rank": 1,
       "category": "社会负面,教育"
-    },
-    {
-      "raw_hot": 744229,
-      "num": 744229,
-      "word": "大一男生勾拖鞋手法娴熟月入6千",
-      "onboard_time": 1673681367,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 736197,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 581224,
+      "num": 534010,
+      "word": "谭松韵繁花油画纱裙造型",
+      "onboard_time": 1673684306,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 570974,
       "num": 387163,
       "word": "如何看待私生饭摸艺人的头",
@@ -377,6 +385,14 @@
       "onboard_time": 1673679685,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 552266,
+      "num": 552266,
+      "word": "无畏直播",
+      "onboard_time": 1673683527,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 545491,
@@ -459,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 445682,
-      "num": 194392,
-      "word": "谭松韵繁花油画纱裙造型",
-      "onboard_time": 1673684306,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 445439,
       "num": 445439,
       "word": "原神 归终",
@@ -539,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 402766,
-      "num": 402766,
-      "word": "无畏直播",
-      "onboard_time": 1673683527,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 398871,
       "num": 398871,
       "word": "女生的可爱果然不分年龄",
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 393878,
-      "num": 145580,
+      "num": 175201,
       "word": "沈腾易烊千玺是懂宣传的",
       "onboard_time": 1673682025,
       "rank": 30,
@@ -651,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358815,
+      "num": 358815,
+      "word": "老人手机余额充足却提示欠费需续费",
+      "onboard_time": 1673680465,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358197,
       "num": 253651,
       "word": "刘心悠曾说可以为爱不顾一切",
@@ -672,14 +680,6 @@
       "word": "律师称女孩背猪草的拍摄者侵犯肖像权",
       "onboard_time": 1673666486,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344975,
-      "num": 344975,
-      "word": "老人手机余额充足却提示欠费需续费",
-      "onboard_time": 1673680465,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -737,6 +737,14 @@
       "onboard_time": 1673669426,
       "rank": 31,
       "category": "音乐,影视"
+    },
+    {
+      "raw_hot": 328767,
+      "num": 328767,
+      "word": "妈妈本命年爸爸给家里狂贴小兔子",
+      "onboard_time": 1673681607,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328650,
@@ -843,14 +851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289735,
-      "num": 289735,
-      "word": "妈妈本命年爸爸给家里狂贴小兔子",
-      "onboard_time": 1673681607,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288379,
       "num": 115651,
       "word": "春节档排片",
@@ -900,7 +900,7 @@
     },
     {
       "raw_hot": 275089,
-      "num": 143889,
+      "num": 168050,
       "word": "赵露思限定冬日花园胶片风写真",
       "onboard_time": 1673683706,
       "rank": 33,
@@ -913,6 +913,14 @@
       "onboard_time": 1673622755,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 266612,
+      "num": 266612,
+      "word": "久酷直播",
+      "onboard_time": 1673684726,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 266412,
@@ -953,6 +961,14 @@
       "onboard_time": 1673671049,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242210,
+      "num": 169986,
+      "word": "王鹤棣和镜头躲猫猫",
+      "onboard_time": 1673684427,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 242143,
@@ -1012,7 +1028,7 @@
     },
     {
       "raw_hot": 231084,
-      "num": 114602,
+      "num": 143523,
       "word": "龚俊刘耀文张凌赫今日营业照",
       "onboard_time": 1673678425,
       "rank": 40,
@@ -1059,14 +1075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220241,
-      "num": 111556,
-      "word": "王鹤棣和镜头躲猫猫",
-      "onboard_time": 1673684427,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219127,
       "num": 219127,
       "word": "专家称没证据表明XBB变异株致病力增加",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1673618494,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218308,
+      "num": 218308,
+      "word": "无畏向张嘉豪学滑雪",
+      "onboard_time": 1673674106,
+      "rank": 34,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 217825,
@@ -1179,12 +1195,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181223,
-      "num": 195460,
-      "word": "无畏向张嘉豪学滑雪",
-      "onboard_time": 1673674106,
-      "rank": 34,
-      "category": "游戏,体育"
+      "raw_hot": 188674,
+      "num": 188674,
+      "word": "孙悟空才是心软的神",
+      "onboard_time": 1673683044,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 185408,
+      "num": 185408,
+      "word": "小兔枕着胡萝卜悠闲吃草",
+      "onboard_time": 1673684126,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185168,
+      "num": 185168,
+      "word": "女子走失36年小年和亲生父母相认",
+      "onboard_time": 1673682147,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181145,
@@ -1219,12 +1251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175449,
+      "num": 175449,
+      "word": "打拼一年的疲惫能被什么治愈",
+      "onboard_time": 1673685026,
+      "rank": 29,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 171781,
       "num": 205427,
       "word": "母子配合盗窃得手后离开",
       "onboard_time": 1673661205,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167151,
+      "num": 167151,
+      "word": "久酷抓壮丁",
+      "onboard_time": 1673684726,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 166112,
@@ -1243,20 +1291,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158624,
-      "num": 158624,
-      "word": "女子走失36年小年和亲生父母相认",
-      "onboard_time": 1673682147,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151331,
       "num": 118233,
       "word": "周深说花火唱给愿意成为海岸的人",
       "onboard_time": 1673629761,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148027,
+      "num": 148027,
+      "word": "如何看待张朝阳劝诫年轻人被群嘲",
+      "onboard_time": 1673683106,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145038,
+      "num": 145038,
+      "word": "LPL春季赛",
+      "onboard_time": 1673685267,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 144553,
@@ -1272,6 +1328,14 @@
       "word": "未来两年人才将成为关键",
       "onboard_time": 1673671770,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141725,
+      "num": 141725,
+      "word": "南方女子到东北漂流冻到自我怀疑",
+      "onboard_time": 1673680828,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1297,14 +1361,6 @@
       "onboard_time": 1673663845,
       "rank": 39,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 135058,
-      "num": 135058,
-      "word": "南方女子到东北漂流冻到自我怀疑",
-      "onboard_time": 1673680828,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134026,
@@ -1387,14 +1443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 118122,
-      "num": 118122,
-      "word": "如何看待张朝阳劝诫年轻人被群嘲",
-      "onboard_time": 1673683106,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114666,
       "num": 114666,
       "word": "LPL选手拜年照",
@@ -1425,14 +1473,6 @@
       "onboard_time": 1673679865,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107343,
-      "num": 107343,
-      "word": "小兔枕着胡萝卜悠闲吃草",
-      "onboard_time": 1673684126,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106619,
@@ -1473,14 +1513,6 @@
       "onboard_time": 1673643732,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 103341,
-      "num": 103341,
-      "word": "孙悟空才是心软的神",
-      "onboard_time": 1673683044,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 102742,
@@ -1537,6 +1569,14 @@
       "onboard_time": 1673623117,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 93484,
+      "num": 93484,
+      "word": "陪小朋友玩滑滑梯的小狗",
+      "onboard_time": 1673685267,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 93261,
