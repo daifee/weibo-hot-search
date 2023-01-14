@@ -1,0 +1,410 @@
+{
+  "runTime": 1673688813941,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1969247,
+        "num": 1969247,
+        "word": "网传赵丽颖朱一龙二搭平番出演天骄",
+        "onboard_time": 1673685624,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1486525,
+        "num": 1486525,
+        "word": "建议暂时取消男1000女800",
+        "onboard_time": 1673668945,
+        "rank": 1,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 34044,
+        "num": 975510,
+        "word": "一图速览10个发热就诊指征",
+        "onboard_time": 1673668407,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878058,
+        "num": 878058,
+        "word": "新娘不要彩礼陪嫁208万",
+        "onboard_time": 1673677167,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795730,
+        "num": 795730,
+        "word": "金晨主持央视电视剧盛典",
+        "onboard_time": 1673683645,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 692772,
+        "num": 692772,
+        "word": "网传骗子行骗留郭京飞的电话",
+        "onboard_time": 1673675187,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 671604,
+        "num": 671604,
+        "word": "女子称42岁未婚状态超好",
+        "onboard_time": 1673655384,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533182,
+        "num": 533182,
+        "word": "孙悟空才是心软的神",
+        "onboard_time": 1673683044,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 498466,
+        "num": 498466,
+        "word": "大一男生勾拖鞋手法娴熟月入6千",
+        "onboard_time": 1673681367,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471992,
+        "num": 471992,
+        "word": "张朝阳称年轻人不要只追求赚钱和快乐",
+        "onboard_time": 1673665946,
+        "rank": 9,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 637189,
+        "num": 458054,
+        "word": "七英俊发文道歉",
+        "onboard_time": 1673686286,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 620256,
+        "num": 446447,
+        "word": "中国奇谭导演回应家长炮轰",
+        "onboard_time": 1673685804,
+        "rank": 11,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 607453,
+        "num": 444143,
+        "word": "张元英演我过年前最后一天上班",
+        "onboard_time": 1673687605,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432557,
+        "num": 432557,
+        "word": "爸爸带喂了2年的流浪猫回家过年",
+        "onboard_time": 1673687126,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260995,
+        "num": 260995,
+        "word": "妈妈本命年爸爸给家里狂贴小兔子",
+        "onboard_time": 1673681607,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598916,
+        "num": 243076,
+        "word": "白宇杨蓉合体梦回美人为馅",
+        "onboard_time": 1673685927,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220795,
+        "num": 220795,
+        "word": "小兔枕着胡萝卜悠闲吃草",
+        "onboard_time": 1673684126,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218686,
+        "num": 218686,
+        "word": "亲戚带娃做客将女子化妆品打碎一地",
+        "onboard_time": 1673673808,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217734,
+        "num": 217734,
+        "word": "国际足联调查阿根廷队世界杯不当行为",
+        "onboard_time": 1673678006,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216419,
+        "num": 216419,
+        "word": "女子走失36年小年和亲生父母相认",
+        "onboard_time": 1673682147,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361377,
+        "num": 214755,
+        "word": "天放 我把这辈子的人都丢完了",
+        "onboard_time": 1673680286,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348371,
+        "num": 214654,
+        "word": "杨紫说幸福是发自内心的微笑",
+        "onboard_time": 1673686587,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212808,
+        "num": 212808,
+        "word": "无畏直播",
+        "onboard_time": 1673683527,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183444,
+        "num": 183444,
+        "word": "如何看待张朝阳劝诫年轻人被群嘲",
+        "onboard_time": 1673683106,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167183,
+        "num": 167183,
+        "word": "专家称美元是唯一的中心货币",
+        "onboard_time": 1673670508,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 344409,
+        "num": 162882,
+        "word": "酷酷的滕婚礼",
+        "onboard_time": 1673676687,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157137,
+        "num": 157137,
+        "word": "重启警号123296",
+        "onboard_time": 1673678305,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153045,
+        "num": 153045,
+        "word": "老人手机余额充足却提示欠费需续费",
+        "onboard_time": 1673680465,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150313,
+        "num": 150313,
+        "word": "狗子听见鞭炮声吓得钻进主人怀里",
+        "onboard_time": 1673684666,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144250,
+        "num": 144250,
+        "word": "FPX对战WE",
+        "onboard_time": 1673683768,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 340215,
+        "num": 144223,
+        "word": "梁朝伟王一博电影无名预售战报",
+        "onboard_time": 1673687845,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292884,
+        "num": 142593,
+        "word": "王嘉尔去粉丝家里做客",
+        "onboard_time": 1673670328,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286412,
+        "num": 141103,
+        "word": "张艺兴说总有些小骄傲想与你分享",
+        "onboard_time": 1673686226,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261553,
+        "num": 140047,
+        "word": "沈腾易烊千玺是懂宣传的",
+        "onboard_time": 1673682025,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139733,
+        "num": 139733,
+        "word": "久酷抓壮丁",
+        "onboard_time": 1673684726,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127690,
+        "num": 127690,
+        "word": "郭艾伦升至历史得分榜第9位",
+        "onboard_time": 1673687787,
+        "rank": 35,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 125760,
+        "num": 125760,
+        "word": "Hero的bking西装",
+        "onboard_time": 1673688326,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125436,
+        "num": 125436,
+        "word": "LPL春季赛",
+        "onboard_time": 1673685267,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121854,
+        "num": 121854,
+        "word": "男子加油发现刚拔油枪就跳字",
+        "onboard_time": 1673675486,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107805,
+        "num": 107805,
+        "word": "红星评网友新年愿望是被王思聪打",
+        "onboard_time": 1673671049,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243684,
+        "num": 106465,
+        "word": "谭松韵繁花油画纱裙造型",
+        "onboard_time": 1673684306,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105089,
+        "num": 105089,
+        "word": "女孩备考专八402天用掉200支笔",
+        "onboard_time": 1673666844,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 101302,
+        "num": 101302,
+        "word": "久哲直播",
+        "onboard_time": 1673677586,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101093,
+        "num": 101093,
+        "word": "女生的可爱果然不分年龄",
+        "onboard_time": 1673672428,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100788,
+        "num": 100788,
+        "word": "吃席的正确打开方式",
+        "onboard_time": 1673687726,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98999,
+        "num": 98999,
+        "word": "南方女子到东北漂流冻到自我怀疑",
+        "onboard_time": 1673680828,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95963,
+        "num": 95963,
+        "word": "陪小朋友玩滑滑梯的小狗",
+        "onboard_time": 1673685267,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 92900,
+        "num": 92900,
+        "word": "年轻人为什么热衷于搞钱",
+        "onboard_time": 1673669487,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90304,
+        "num": 90304,
+        "word": "前国脚徐亮回应误食开塞露送医",
+        "onboard_time": 1673688568,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 87879,
+        "num": 87879,
+        "word": "回村的人类幼崽是啥样的",
+        "onboard_time": 1673688086,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#热气腾腾中国年#"
+    }
+  }
+}
