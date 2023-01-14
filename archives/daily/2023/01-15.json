@@ -1,6 +1,6 @@
 {
   "startTime": 1673713412094,
-  "endTime": 1673730903802,
+  "endTime": 1673732015543,
   "band_list": [
     {
       "raw_hot": 1664567,
@@ -555,20 +555,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 30246,
+      "num": 20243,
+      "word": "沈月说上海滩是极致的浪漫",
+      "onboard_time": 1673730851,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22340,
       "num": 22340,
       "word": "对我而言危险的他",
       "onboard_time": 1673726834,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 18584,
-      "num": 18419,
-      "word": "沈月说上海滩是极致的浪漫",
-      "onboard_time": 1673730851,
-      "rank": 41,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
