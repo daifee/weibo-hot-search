@@ -1,6 +1,6 @@
 {
   "startTime": 1673195039228,
-  "endTime": 1673713412094,
+  "endTime": 1673714434677,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -1867,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 901399,
+      "num": 901399,
+      "word": "女生哭诉化妆品被6岁表妹全抠碎",
+      "onboard_time": 1673710649,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 898115,
       "num": 898115,
       "word": "旅游平台韩国入华订票量第一",
@@ -2001,14 +2009,6 @@
       "onboard_time": 1673540665,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 869832,
-      "num": 869832,
-      "word": "女生哭诉化妆品被6岁表妹全抠碎",
-      "onboard_time": 1673710649,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 867743,
@@ -4203,6 +4203,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 510759,
+      "num": 510759,
+      "word": "哈兰德",
+      "onboard_time": 1673710708,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 509892,
       "num": 509892,
       "word": "英日两国将允许相互驻军",
@@ -4849,14 +4857,6 @@
       "onboard_time": 1673404587,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 457667,
-      "num": 457667,
-      "word": "哈兰德",
-      "onboard_time": 1673710708,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 457656,
@@ -5820,7 +5820,7 @@
     },
     {
       "raw_hot": 396379,
-      "num": 228235,
+      "num": 367785,
       "word": "李诞说人生问题不能清零只能共存",
       "onboard_time": 1673712627,
       "rank": 21,
@@ -6731,6 +6731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 349777,
+      "num": 349777,
+      "word": "重庆地铁出站有多难",
+      "onboard_time": 1673711369,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 349349,
       "num": 349349,
       "word": "苹果正开发触摸屏Mac电脑",
@@ -7553,14 +7561,6 @@
       "onboard_time": 1673264011,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320513,
-      "num": 320513,
-      "word": "重庆地铁出站有多难",
-      "onboard_time": 1673711369,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 320155,
@@ -8713,6 +8713,14 @@
       "onboard_time": 1673678366,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279446,
+      "num": 279446,
+      "word": "第一次觉得泰语这么好听",
+      "onboard_time": 1673712507,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 278713,
@@ -9947,6 +9955,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 237693,
+      "num": 150454,
+      "word": "檀健次红发",
+      "onboard_time": 1673712986,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 237154,
       "num": 237154,
       "word": "钢腿女孩四川省人大代表新身份",
@@ -10483,6 +10499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218423,
+      "num": 150442,
+      "word": "女子将小猫寄养后小猫拨来视频电话",
+      "onboard_time": 1673713405,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218308,
       "num": 218308,
       "word": "无畏向张嘉豪学滑雪",
@@ -10769,6 +10793,14 @@
       "onboard_time": 1673321787,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209451,
+      "num": 150359,
+      "word": "宋木子TangoZ真像村口大男孩",
+      "onboard_time": 1673713705,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 209412,
@@ -11977,6 +12009,14 @@
       "onboard_time": 1673334809,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177706,
+      "num": 150072,
+      "word": "谢之遥只有时间和许红豆谈朋友",
+      "onboard_time": 1673714425,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 177548,
@@ -13660,7 +13700,7 @@
     },
     {
       "raw_hot": 133319,
-      "num": 133319,
+      "num": 149810,
       "word": "曼市德比",
       "onboard_time": 1673712986,
       "rank": 27,
@@ -13801,14 +13841,6 @@
       "onboard_time": 1673496873,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 127676,
-      "num": 127676,
-      "word": "第一次觉得泰语这么好听",
-      "onboard_time": 1673712507,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 127577,
@@ -15044,7 +15076,7 @@
     },
     {
       "raw_hot": 93186,
-      "num": 93186,
+      "num": 150186,
       "word": "布莱顿vs利物浦",
       "onboard_time": 1673711667,
       "rank": 44,
@@ -15211,20 +15243,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 78375,
-      "num": 92411,
-      "word": "女子将小猫寄养后小猫拨来视频电话",
-      "onboard_time": 1673713405,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77870,
       "num": 77870,
       "word": "放开手让孩子自主成长",
       "onboard_time": 1673374455,
       "rank": 24,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 76918,
+      "num": 149905,
+      "word": "背5个月宝宝给新娘化妆宝妈发声",
+      "onboard_time": 1673714123,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76396,
