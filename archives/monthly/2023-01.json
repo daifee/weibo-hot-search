@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673723611827,
+  "endTime": 1673724796622,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -34987,6 +34987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 59699,
+      "num": 59699,
+      "word": "被舞蹈生的脚整破防了",
+      "onboard_time": 1673720716,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 59648,
       "num": 42872,
       "word": "天娱男团1equalfive到底有多卷",
@@ -35017,14 +35025,6 @@
       "onboard_time": 1673285957,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 58285,
-      "num": 58285,
-      "word": "被舞蹈生的脚整破防了",
-      "onboard_time": 1673720716,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 58019,
@@ -35379,6 +35379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36239,
+      "num": 33040,
+      "word": "龚俊晒环球影城游玩照",
+      "onboard_time": 1673724133,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36211,
       "num": 82688,
       "word": "第一次见会擤鼻涕的猫",
@@ -35401,6 +35409,14 @@
       "onboard_time": 1673032753,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 35196,
+      "num": 33015,
+      "word": "华晨宇新歌的神来之笔是猫叫",
+      "onboard_time": 1673723533,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 34047,
@@ -35449,14 +35465,6 @@
       "onboard_time": 1672870333,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31186,
-      "num": 29396,
-      "word": "华晨宇新歌的神来之笔是猫叫",
-      "onboard_time": 1673723533,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 30011,
