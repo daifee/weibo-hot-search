@@ -1,0 +1,410 @@
+{
+  "runTime": 1673674414811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3286745,
+        "num": 3286745,
+        "word": "建议暂时取消男1000女800",
+        "onboard_time": 1673668945,
+        "rank": 0,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 1117010,
+        "num": 1117010,
+        "word": "张朝阳称年轻人不要只追求赚钱和快乐",
+        "onboard_time": 1673665946,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 46609,
+        "num": 1015263,
+        "word": "一图速览10个发热就诊指征",
+        "onboard_time": 1673668407,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006842,
+        "num": 1006842,
+        "word": "Angelababy去看了BLACKPINK演唱会",
+        "onboard_time": 1673669846,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 939171,
+        "num": 939171,
+        "word": "王嘉尔去粉丝家里做客",
+        "onboard_time": 1673670328,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 886284,
+        "num": 886284,
+        "word": "梁咏琪 因为工作原因无法参与之后的录制",
+        "onboard_time": 1673670988,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 862333,
+        "num": 862333,
+        "word": "女子称42岁未婚状态超好",
+        "onboard_time": 1673655384,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605898,
+        "num": 605898,
+        "word": "专家称美元是唯一的中心货币",
+        "onboard_time": 1673670508,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 454018,
+        "num": 454018,
+        "word": "姥姥看见突然回家的外孙女愣住了",
+        "onboard_time": 1673669967,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448340,
+        "num": 448340,
+        "word": "女孩备考专八402天用掉200支笔",
+        "onboard_time": 1673666844,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 879412,
+        "num": 439843,
+        "word": "无效接剧艺人",
+        "onboard_time": 1673672668,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619793,
+        "num": 432886,
+        "word": "三体",
+        "onboard_time": 1673671228,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 476988,
+        "num": 414594,
+        "word": "迪丽热巴画的兔子",
+        "onboard_time": 1673671469,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467381,
+        "num": 399595,
+        "word": "男模特直播间卖女性内衣被指擦边",
+        "onboard_time": 1673661446,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398871,
+        "num": 398871,
+        "word": "女生的可爱果然不分年龄",
+        "onboard_time": 1673672428,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321140,
+        "num": 321140,
+        "word": "闪耀暖暖",
+        "onboard_time": 1673670328,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 316997,
+        "num": 316997,
+        "word": "东航南航将从纽交所退市",
+        "onboard_time": 1673668348,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 292821,
+        "num": 292821,
+        "word": "公司发年终奖老员工人手1个30克金牌",
+        "onboard_time": 1673661805,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280908,
+        "num": 280908,
+        "word": "年轻人为什么热衷于搞钱",
+        "onboard_time": 1673669487,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265826,
+        "num": 265826,
+        "word": "00后在置办一种很新的年货",
+        "onboard_time": 1673673089,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376722,
+        "num": 265698,
+        "word": "朴彩英上台前开嗓",
+        "onboard_time": 1673672788,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 350153,
+        "num": 264964,
+        "word": "朴综星道歉后首现身",
+        "onboard_time": 1673672306,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338508,
+        "num": 262765,
+        "word": "王鹤棣说今年最让他尖叫的时刻是苍兰诀破万",
+        "onboard_time": 1673667866,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258695,
+        "num": 258695,
+        "word": "中国火车站的名字能有多可爱",
+        "onboard_time": 1673670508,
+        "rank": 23,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 234309,
+        "num": 234309,
+        "word": "红星评网友新年愿望是被王思聪打",
+        "onboard_time": 1673671049,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230467,
+        "num": 230467,
+        "word": "农民工1人占6个行李架位被怼",
+        "onboard_time": 1673657066,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230461,
+        "num": 230461,
+        "word": "律师称女孩背猪草的拍摄者侵犯肖像权",
+        "onboard_time": 1673666486,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200732,
+        "num": 200732,
+        "word": "一根吸管帮老年人快速排痰",
+        "onboard_time": 1673672728,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176083,
+        "num": 199962,
+        "word": "为什么南北方小年不同一天",
+        "onboard_time": 1673654722,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158486,
+        "num": 199324,
+        "word": "小年",
+        "onboard_time": 1673651776,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266448,
+        "num": 198962,
+        "word": "韩男团成员称韩国历史好似短篇小说",
+        "onboard_time": 1673655745,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243415,
+        "num": 198077,
+        "word": "央视网络春晚节目单发布",
+        "onboard_time": 1673662224,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239192,
+        "num": 196786,
+        "word": "赵丽颖说幸福是有梦想有希望",
+        "onboard_time": 1673672549,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235268,
+        "num": 195806,
+        "word": "流浪地球",
+        "onboard_time": 1673673448,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174365,
+        "num": 195460,
+        "word": "无畏向张嘉豪学滑雪",
+        "onboard_time": 1673674106,
+        "rank": 34,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 152849,
+        "num": 194159,
+        "word": "国铁西安局回应火车设麻将桌",
+        "onboard_time": 1673664986,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143720,
+        "num": 193944,
+        "word": "当狗狗被关在门外后的反应",
+        "onboard_time": 1673667684,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143711,
+        "num": 192409,
+        "word": "未来两年人才将成为关键",
+        "onboard_time": 1673671770,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141508,
+        "num": 192257,
+        "word": "亲戚带娃做客将女子化妆品打碎一地",
+        "onboard_time": 1673673808,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138931,
+        "num": 190875,
+        "word": "彩礼的必要性在哪",
+        "onboard_time": 1673654903,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227051,
+        "num": 190351,
+        "word": "王一博电影无名战损镜头",
+        "onboard_time": 1673673266,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189782,
+        "num": 189782,
+        "word": "宋亚轩珍珠戒指",
+        "onboard_time": 1673670928,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138202,
+        "num": 189722,
+        "word": "国际足联对大马丁启动纪律程序",
+        "onboard_time": 1673663367,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132651,
+        "num": 189325,
+        "word": "得知前任结婚时是什么感受",
+        "onboard_time": 1673665107,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129786,
+        "num": 188998,
+        "word": "这烟花能不能让人把话说完",
+        "onboard_time": 1673673507,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112329,
+        "num": 188691,
+        "word": "同村前男友结婚女孩哭成泪人",
+        "onboard_time": 1673653940,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95123,
+        "num": 188481,
+        "word": "意大利欢迎中国游客早日到来",
+        "onboard_time": 1673659708,
+        "rank": 46,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 94437,
+        "num": 188191,
+        "word": "这个屏幕别太荒谬",
+        "onboard_time": 1673674287,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87208,
+        "num": 187753,
+        "word": "谁童年还没拿床单当礼服呢",
+        "onboard_time": 1673670689,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74640,
+        "num": 187468,
+        "word": "女生赶路打到三轮半路还得自己蹬",
+        "onboard_time": 1673665767,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#福满千万家#"
+    }
+  }
+}
