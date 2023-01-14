@@ -1,0 +1,410 @@
+{
+  "runTime": 1673723611827,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 375107,
+        "num": 375107,
+        "word": "桂林一酒吧卫生间疑装双面镜",
+        "onboard_time": 1673714485,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196417,
+        "num": 196417,
+        "word": "张新成 受伤",
+        "onboard_time": 1673707710,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23426,
+        "num": 180989,
+        "word": "铁水打花的春节氛围感有多绝",
+        "onboard_time": 1673704350,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179745,
+        "num": 179745,
+        "word": "广州撞人致5死司机被批捕",
+        "onboard_time": 1673699730,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166008,
+        "num": 166008,
+        "word": "女子将小猫寄养后小猫拨来视频电话",
+        "onboard_time": 1673713405,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137157,
+        "num": 137157,
+        "word": "女生哭诉化妆品被6岁表妹全抠碎",
+        "onboard_time": 1673710649,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132133,
+        "num": 132133,
+        "word": "外卖小哥在1楼管道井撒尿",
+        "onboard_time": 1673717840,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111426,
+        "num": 111426,
+        "word": "原神登陆央视网络春晚",
+        "onboard_time": 1673710230,
+        "rank": 7,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 102725,
+        "num": 102725,
+        "word": "这戏是越看火越大",
+        "onboard_time": 1673715441,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96216,
+        "num": 96216,
+        "word": "近期在院新冠相关死亡病例59938例",
+        "onboard_time": 1673692049,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97834,
+        "num": 95767,
+        "word": "黄明昊俄语弹舌音学了但没完全会",
+        "onboard_time": 1673722454,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92608,
+        "num": 92608,
+        "word": "背5个月宝宝给新娘化妆宝妈发声",
+        "onboard_time": 1673714123,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85422,
+        "num": 85422,
+        "word": "狂飙首播的收视率",
+        "onboard_time": 1673716341,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84298,
+        "num": 84298,
+        "word": "吴镇宇说赵樱子太会哭了",
+        "onboard_time": 1673707590,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84103,
+        "num": 84103,
+        "word": "第一次觉得泰语这么好听",
+        "onboard_time": 1673712507,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80731,
+        "num": 80731,
+        "word": "王者兔年限定山海有灵",
+        "onboard_time": 1673709448,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79997,
+        "num": 79997,
+        "word": "xinyi",
+        "onboard_time": 1673695289,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60397,
+        "num": 60397,
+        "word": "官方调查雷丁汽车举报县委书记",
+        "onboard_time": 1673708011,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58943,
+        "num": 58943,
+        "word": "妈妈吐槽儿子过年没领儿媳却带只猫",
+        "onboard_time": 1673716401,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58285,
+        "num": 58285,
+        "word": "被舞蹈生的脚整破防了",
+        "onboard_time": 1673720716,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69914,
+        "num": 56734,
+        "word": "苍兰诀赢麻了",
+        "onboard_time": 1673698349,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67477,
+        "num": 55375,
+        "word": "在重庆点鸳鸯锅真的会被嘲笑吗",
+        "onboard_time": 1673710708,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53226,
+        "num": 53226,
+        "word": "李知恩好帅",
+        "onboard_time": 1673699011,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50880,
+        "num": 50880,
+        "word": "春楠拍的刘诗诗",
+        "onboard_time": 1673711247,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50411,
+        "num": 50411,
+        "word": "偶像梦幻祭",
+        "onboard_time": 1673692049,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49576,
+        "num": 49576,
+        "word": "女子多次相亲失败妈妈生气咆哮",
+        "onboard_time": 1673699188,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46742,
+        "num": 46742,
+        "word": "化妆师背5个月宝宝给新娘化妆",
+        "onboard_time": 1673718199,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43152,
+        "num": 43152,
+        "word": "重庆地铁出站有多难",
+        "onboard_time": 1673711369,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42912,
+        "num": 42912,
+        "word": "哈兰德",
+        "onboard_time": 1673710708,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38405,
+        "num": 38405,
+        "word": "梅德韦杰夫称岸田文雄访美后该切腹",
+        "onboard_time": 1673708730,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 49406,
+        "num": 38342,
+        "word": "宋木子TangoZ真像村口大男孩",
+        "onboard_time": 1673713705,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49368,
+        "num": 38262,
+        "word": "檀健次红发",
+        "onboard_time": 1673712986,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39960,
+        "num": 38206,
+        "word": "王冰冰好甜",
+        "onboard_time": 1673705789,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39489,
+        "num": 38107,
+        "word": "李小冉红毯前走错赶场冷出眼泪",
+        "onboard_time": 1673703992,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38051,
+        "num": 38051,
+        "word": "可以非但没必要这么非",
+        "onboard_time": 1673709448,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 36585,
+        "num": 36585,
+        "word": "建议暂时取消男1000女800",
+        "onboard_time": 1673668945,
+        "rank": 35,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 31887,
+        "num": 31887,
+        "word": "曼联2比1曼城",
+        "onboard_time": 1673707412,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31836,
+        "num": 31836,
+        "word": "女子樱桃过敏公司年货发1箱车厘子",
+        "onboard_time": 1673688928,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30309,
+        "num": 30309,
+        "word": "建议允许春节分区分时燃放烟花",
+        "onboard_time": 1673694808,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29926,
+        "num": 29926,
+        "word": "Ruler五杀",
+        "onboard_time": 1673707471,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37325,
+        "num": 29736,
+        "word": "天娱男团1equalfive到底有多卷",
+        "onboard_time": 1673720235,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31186,
+        "num": 29396,
+        "word": "华晨宇新歌的神来之笔是猫叫",
+        "onboard_time": 1673723533,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29011,
+        "num": 29011,
+        "word": "拖米连发16条博",
+        "onboard_time": 1673708252,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25869,
+        "num": 25869,
+        "word": "母子关系和母女关系是不一样的",
+        "onboard_time": 1673689045,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22785,
+        "num": 25867,
+        "word": "曼市德比",
+        "onboard_time": 1673712986,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22241,
+        "num": 25864,
+        "word": "没想到抽个奖都能社死",
+        "onboard_time": 1673704229,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21962,
+        "num": 25860,
+        "word": "住院新冠感染者回落到127万人",
+        "onboard_time": 1673693547,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21497,
+        "num": 25855,
+        "word": "布莱顿vs利物浦",
+        "onboard_time": 1673711667,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21307,
+        "num": 25851,
+        "word": "成都下雪",
+        "onboard_time": 1673694867,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17991,
+        "num": 25850,
+        "word": "bin哥厉害",
+        "onboard_time": 1673708492,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#热气腾腾中国年#"
+    }
+  }
+}
