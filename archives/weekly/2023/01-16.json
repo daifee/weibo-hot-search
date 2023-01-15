@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673817307272,
+  "endTime": 1673818412990,
   "band_list": [
     {
       "raw_hot": 2443672,
@@ -475,6 +475,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 59502,
+      "num": 35980,
+      "word": "不建议没阳过的人长途旅行",
+      "onboard_time": 1673817191,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53691,
       "num": 81290,
       "word": "千里江山图就是照着它画的吧",
@@ -499,20 +507,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 28658,
+      "num": 28658,
+      "word": "残疾小哥剐蹭车辆后为车主送新鲜菜",
+      "onboard_time": 1673815691,
+      "rank": 19,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 23174,
       "num": 19359,
       "word": "原来吴昕是真的在种草",
       "onboard_time": 1673808133,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22089,
-      "num": 22089,
-      "word": "残疾小哥剐蹭车辆后为车主送新鲜菜",
-      "onboard_time": 1673815691,
-      "rank": 19,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 19455,
@@ -539,12 +547,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 10033,
-      "num": 14136,
-      "word": "不建议没阳过的人长途旅行",
-      "onboard_time": 1673817191,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 11522,
+      "num": 13944,
+      "word": "官方回应EVA终海报涉嫌抄袭",
+      "onboard_time": 1673816711,
+      "rank": 47,
+      "category": "动漫,影视"
     }
   ],
   "hotgov_list": [
