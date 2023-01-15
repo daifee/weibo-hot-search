@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673806849726,
+  "endTime": 1673807694185,
   "band_list": [
     {
       "raw_hot": 2443672,
@@ -195,20 +195,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249893,
+      "num": 116671,
+      "word": "尼泊尔飞机坠毁前或曾尝试着陆",
+      "onboard_time": 1673802083,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 249481,
       "num": 249481,
       "word": "学到了一种很新的拒绝方式",
       "onboard_time": 1673796031,
       "rank": 16,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 239325,
-      "num": 116671,
-      "word": "尼泊尔飞机坠毁前或曾尝试着陆",
-      "onboard_time": 1673802083,
-      "rank": 39,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 232880,
@@ -347,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103185,
+      "num": 52645,
+      "word": "岳云鹏说和赵今麦最有cp感",
+      "onboard_time": 1673806935,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100938,
       "num": 59921,
       "word": "单依纯一进厨房语言系统错乱",
@@ -467,6 +475,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 53691,
+      "num": 81290,
+      "word": "千里江山图就是照着它画的吧",
+      "onboard_time": 1673803400,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52487,
       "num": 81720,
       "word": "Cat LGD",
@@ -475,15 +491,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 51754,
-      "num": 81290,
-      "word": "千里江山图就是照着它画的吧",
-      "onboard_time": 1673803400,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 37732,
+      "raw_hot": 41779,
       "num": 51499,
       "word": "尼泊尔涉事客机机型曾多次发生空难",
       "onboard_time": 1673805198,
