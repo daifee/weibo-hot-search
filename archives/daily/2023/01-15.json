@@ -1,6 +1,6 @@
 {
   "startTime": 1673713412094,
-  "endTime": 1673750727055,
+  "endTime": 1673751331351,
   "band_list": [
     {
       "raw_hot": 1664567,
@@ -83,16 +83,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 721444,
-      "num": 721444,
+      "raw_hot": 756645,
+      "num": 756645,
       "word": "上海下雪",
       "onboard_time": 1673745744,
       "rank": 7,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 695317,
-      "num": 695317,
+      "raw_hot": 716905,
+      "num": 716905,
       "word": "陈奕迅被自己演唱会门票震惊到",
       "onboard_time": 1673746644,
       "rank": 12,
@@ -113,6 +113,14 @@
       "onboard_time": 1673737275,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635338,
+      "num": 635338,
+      "word": "七英俊再发文道歉",
+      "onboard_time": 1673750244,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 628700,
@@ -219,20 +227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 416416,
-      "num": 354319,
-      "word": "七英俊再发文道歉",
-      "onboard_time": 1673750244,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 412074,
       "num": 229150,
       "word": "新华社评去有风的地方热播",
       "onboard_time": 1673708671,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 396408,
+      "num": 396408,
+      "word": "韩滑冰教练协会狠批金善台安贤洙",
+      "onboard_time": 1673749644,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 396379,
@@ -251,6 +259,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 385229,
+      "num": 385229,
+      "word": "一口气炫完五集狂飙",
+      "onboard_time": 1673747846,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 384079,
       "num": 384079,
       "word": "女子樱桃过敏公司年货发1箱车厘子",
@@ -259,11 +275,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383164,
-      "num": 353342,
-      "word": "一口气炫完五集狂飙",
-      "onboard_time": 1673747846,
-      "rank": 41,
+      "raw_hot": 378288,
+      "num": 265925,
+      "word": "狂飙",
+      "onboard_time": 1673750845,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -281,6 +297,14 @@
       "onboard_time": 1673711369,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 333581,
+      "num": 333581,
+      "word": "88岁老人临终为老伴擦泪不舍告别",
+      "onboard_time": 1673748684,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327118,
@@ -307,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306923,
-      "num": 306923,
-      "word": "88岁老人临终为老伴擦泪不舍告别",
-      "onboard_time": 1673748684,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295058,
       "num": 269208,
       "word": "丁程鑫张真源贺峻霖合作曲亲亲爱",
@@ -339,8 +355,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272407,
-      "num": 272407,
+      "raw_hot": 275582,
+      "num": 275582,
       "word": "北京人均地区生产总值超过18万元",
       "onboard_time": 1673747846,
       "rank": 48,
@@ -353,6 +369,22 @@
       "onboard_time": 1673738596,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 267563,
+      "num": 267563,
+      "word": "85岁老人被盗15只鸡2只鹅1条狗",
+      "onboard_time": 1673750063,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263458,
+      "num": 257581,
+      "word": "狂飙口碑",
+      "onboard_time": 1673750427,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 260888,
@@ -449,22 +481,6 @@
       "onboard_time": 1673695289,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 219630,
-      "num": 184431,
-      "word": "狂飙口碑",
-      "onboard_time": 1673750427,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 219536,
-      "num": 269321,
-      "word": "韩滑冰教练协会狠批金善台安贤洙",
-      "onboard_time": 1673749644,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 219186,
@@ -643,6 +659,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142522,
+      "num": 142522,
+      "word": "就要这个新年味",
+      "onboard_time": 1673751029,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 140807,
+      "num": 140807,
+      "word": "这一幕幕就是回家的意义",
+      "onboard_time": 1673750902,
+      "rank": 36,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 133598,
       "num": 118980,
       "word": "过年十大BGM",
@@ -664,14 +696,6 @@
       "word": "男子脚踩40厘米积雪爬华山",
       "onboard_time": 1673738056,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130448,
-      "num": 130448,
-      "word": "85岁老人被盗15只鸡2只鹅1条狗",
-      "onboard_time": 1673750063,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -747,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104633,
+      "num": 104633,
+      "word": "国家发改委约谈个别铁矿石资讯企业",
+      "onboard_time": 1673749764,
+      "rank": 43,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 104531,
       "num": 104531,
       "word": "2023的第一场雪来了",
@@ -793,14 +825,6 @@
       "onboard_time": 1673718199,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102195,
-      "num": 102195,
-      "word": "国家发改委约谈个别铁矿石资讯企业",
-      "onboard_time": 1673749764,
-      "rank": 43,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 101041,
@@ -883,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83064,
+      "num": 83064,
+      "word": "一诺花海合唱",
+      "onboard_time": 1673750606,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80720,
       "num": 80720,
       "word": "布莱顿3比0利物浦",
@@ -905,14 +937,6 @@
       "onboard_time": 1673727131,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71266,
-      "num": 83051,
-      "word": "一诺花海合唱",
-      "onboard_time": 1673750606,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 70432,
