@@ -1,6 +1,6 @@
 {
   "startTime": 1673713412094,
-  "endTime": 1673788862952,
+  "endTime": 1673789598331,
   "band_list": [
     {
       "raw_hot": 3379508,
@@ -83,12 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1473356,
+      "num": 1473356,
+      "word": "三体",
+      "onboard_time": 1673777187,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1300666,
       "num": 1300666,
       "word": "黄仁俊",
       "onboard_time": 1673773647,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1249304,
+      "num": 1249304,
+      "word": "女子住全季酒店遇保安深夜刷卡进房",
+      "onboard_time": 1673784987,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1244010,
@@ -107,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1167544,
-      "num": 1167544,
-      "word": "三体",
-      "onboard_time": 1673777187,
-      "rank": 5,
-      "category": "影视"
+      "raw_hot": 1187779,
+      "num": 422728,
+      "word": "假唱",
+      "onboard_time": 1673789131,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1146799,
@@ -136,14 +152,6 @@
       "word": "中国婆婆给俄罗斯儿媳买三金",
       "onboard_time": 1673745982,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1089334,
-      "num": 1089334,
-      "word": "女子住全季酒店遇保安深夜刷卡进房",
-      "onboard_time": 1673784987,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -176,6 +184,14 @@
       "word": "独生女远嫁过年和老公决定各找各妈",
       "onboard_time": 1673755465,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 941758,
+      "num": 941758,
+      "word": "银行回应三个窗口只开一个惹市民不满",
+      "onboard_time": 1673787511,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -219,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 898498,
+      "num": 400748,
+      "word": "蒋依依开场舞",
+      "onboard_time": 1673788351,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 861698,
       "num": 861698,
       "word": "中科大提出生育力保存新方法",
@@ -259,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 828712,
+      "num": 216265,
+      "word": "张艺兴新麓山之歌",
+      "onboard_time": 1673789070,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 784878,
       "num": 784878,
       "word": "桂林一酒吧卫生间疑装双面镜",
@@ -281,6 +313,14 @@
       "onboard_time": 1673766148,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 763081,
+      "num": 393133,
+      "word": "设计师曝被宝藏般的乡村节目组一剪没",
+      "onboard_time": 1673787690,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 758038,
@@ -313,6 +353,14 @@
       "onboard_time": 1673757867,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 745672,
+      "num": 211517,
+      "word": "三体首播收视率",
+      "onboard_time": 1673788891,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 735124,
@@ -387,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 672426,
-      "num": 400076,
-      "word": "银行回应三个窗口只开一个惹市民不满",
-      "onboard_time": 1673787511,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 664333,
       "num": 664333,
       "word": "原神登陆央视网络春晚",
@@ -408,6 +448,14 @@
       "word": "重庆下雪",
       "onboard_time": 1673737275,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643928,
+      "num": 410090,
+      "word": "爸爸遛丢8岁女儿妈妈急得大哭",
+      "onboard_time": 1673788109,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -432,14 +480,6 @@
       "word": "吴镇宇说赵樱子太会哭了",
       "onboard_time": 1673707590,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 619162,
-      "num": 393133,
-      "word": "设计师曝被宝藏般的乡村节目组一剪没",
-      "onboard_time": 1673787690,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -513,14 +553,6 @@
       "onboard_time": 1673752163,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 540774,
-      "num": 244880,
-      "word": "蒋依依开场舞",
-      "onboard_time": 1673788351,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 537515,
@@ -763,6 +795,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 442343,
+      "num": 396173,
+      "word": "看起来很贵其实很便宜的东西",
+      "onboard_time": 1673786254,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 436358,
       "num": 436358,
       "word": "新华人寿原董事长万峰已经失联",
@@ -928,6 +968,14 @@
       "word": "三体电视剧今日开播",
       "onboard_time": 1673752226,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 383767,
+      "num": 123878,
+      "word": "无名",
+      "onboard_time": 1673789313,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1169,14 +1217,6 @@
       "onboard_time": 1673753304,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 309130,
-      "num": 309130,
-      "word": "看起来很贵其实很便宜的东西",
-      "onboard_time": 1673786254,
-      "rank": 39,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 308270,
@@ -1545,14 +1585,6 @@
       "onboard_time": 1673763746,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 242264,
-      "num": 242264,
-      "word": "爸爸遛丢8岁女儿妈妈急得大哭",
-      "onboard_time": 1673788109,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241733,
@@ -2043,6 +2075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159975,
+      "num": 159975,
+      "word": "南海海域山东舰上多架歼15起飞",
+      "onboard_time": 1673787990,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 158462,
       "num": 208769,
       "word": "一诺皇冠造型",
@@ -2124,7 +2164,7 @@
     },
     {
       "raw_hot": 140807,
-      "num": 1158299,
+      "num": 1438148,
       "word": "这一幕幕就是回家的意义",
       "onboard_time": 1673750902,
       "rank": 36,
@@ -2211,14 +2251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125951,
-      "num": 125951,
-      "word": "南海海域山东舰上多架歼15起飞",
-      "onboard_time": 1673787990,
-      "rank": 45,
-      "category": "军事"
-    },
-    {
       "raw_hot": 124567,
       "num": 150250,
       "word": "建议允许春节分区分时燃放烟花",
@@ -2241,6 +2273,14 @@
       "onboard_time": 1673749764,
       "rank": 43,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 121884,
+      "num": 121884,
+      "word": "多人在辽宁盘锦化工厂爆炸事故中失联",
+      "onboard_time": 1673789192,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 121378,
@@ -2337,6 +2377,14 @@
       "onboard_time": 1673704350,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105765,
+      "num": 105765,
+      "word": "你画我猜这个游戏好离谱",
+      "onboard_time": 1673789494,
+      "rank": 47,
+      "category": "游戏,幽默"
     },
     {
       "raw_hot": 105239,
