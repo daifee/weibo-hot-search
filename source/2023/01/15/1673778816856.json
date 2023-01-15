@@ -1,0 +1,410 @@
+{
+  "runTime": 1673778816856,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1234632,
+        "num": 1234632,
+        "word": "曹德旺捐100亿元建世界一流名校",
+        "onboard_time": 1673769988,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1176434,
+        "num": 1176434,
+        "word": "女子清洗4年窗帘灰色变粉色",
+        "onboard_time": 1673772748,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77840,
+        "num": 1063335,
+        "word": "这一幕幕就是回家的意义",
+        "onboard_time": 1673750902,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033568,
+        "num": 1033568,
+        "word": "尼泊尔载72人坠毁客机失事瞬间",
+        "onboard_time": 1673773526,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 861698,
+        "num": 861698,
+        "word": "中科大提出生育力保存新方法",
+        "onboard_time": 1673773647,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 820832,
+        "num": 820832,
+        "word": "三体",
+        "onboard_time": 1673777187,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450210,
+        "num": 450210,
+        "word": "新娘婚纱配皮草有多惊艳",
+        "onboard_time": 1673766866,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436327,
+        "num": 436327,
+        "word": "毕节3名幼童家门口玩耍时失踪",
+        "onboard_time": 1673774969,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 421740,
+        "num": 421740,
+        "word": "AG 百兽",
+        "onboard_time": 1673775625,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 399150,
+        "num": 399150,
+        "word": "被体重吓到的小猫",
+        "onboard_time": 1673775388,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 612290,
+        "num": 399004,
+        "word": "尼泊尔空难已造成至少45人死亡",
+        "onboard_time": 1673769088,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 394890,
+        "num": 394890,
+        "word": "南方人可看不得这个",
+        "onboard_time": 1673774607,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 370499,
+        "num": 370499,
+        "word": "毛晓彤湖南卫视春晚造型花絮",
+        "onboard_time": 1673775569,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332771,
+        "num": 332771,
+        "word": "宋亚轩的笑从小到大都没变",
+        "onboard_time": 1673776589,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318232,
+        "num": 318232,
+        "word": "古装发带有多绝",
+        "onboard_time": 1673768307,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316303,
+        "num": 316303,
+        "word": "因为iKON才有中国有嘻哈",
+        "onboard_time": 1673763928,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310632,
+        "num": 310632,
+        "word": "KSG 今屿",
+        "onboard_time": 1673773348,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303892,
+        "num": 303892,
+        "word": "黄海工作室致歉声明",
+        "onboard_time": 1673770407,
+        "rank": 17,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 285153,
+        "num": 285153,
+        "word": "TES 钎城",
+        "onboard_time": 1673778388,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281608,
+        "num": 281608,
+        "word": "这是2只凤凰在打架吧",
+        "onboard_time": 1673771248,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266893,
+        "num": 266893,
+        "word": "杨迪家过年像极了我家",
+        "onboard_time": 1673775448,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252708,
+        "num": 252708,
+        "word": "全球首架C919国产大飞机首达青岛",
+        "onboard_time": 1673769326,
+        "rank": 21,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 252686,
+        "num": 252686,
+        "word": "时代少年团波斯猫舞台彩排",
+        "onboard_time": 1673776650,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248147,
+        "num": 248147,
+        "word": "尼泊尔客机坠毁前最后画面",
+        "onboard_time": 1673777489,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 248079,
+        "num": 248079,
+        "word": "张艺谋希望从春节档开始中国电影能有一个起飞",
+        "onboard_time": 1673765127,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245861,
+        "num": 245861,
+        "word": "三体电视剧今日开播",
+        "onboard_time": 1673752226,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219326,
+        "num": 219326,
+        "word": "狗子竟然被当成暖手宝",
+        "onboard_time": 1673777366,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219267,
+        "num": 219267,
+        "word": "尼泊尔一客机坠毁机上载有68名乘客",
+        "onboard_time": 1673763324,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 219183,
+        "num": 219183,
+        "word": "红军吃有毒野草充饥眼睛全红",
+        "onboard_time": 1673774308,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198548,
+        "num": 198548,
+        "word": "出生三年驾龄两年",
+        "onboard_time": 1673772447,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236904,
+        "num": 196006,
+        "word": "许红豆承认对谢之遥动了心",
+        "onboard_time": 1673778447,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220211,
+        "num": 194590,
+        "word": "NewJeans新歌OMG舞台ending",
+        "onboard_time": 1673771067,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190274,
+        "num": 190274,
+        "word": "尼泊尔就坠机事件召开紧急内阁会议",
+        "onboard_time": 1673776948,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 215804,
+        "num": 190126,
+        "word": "郭晓婷男人装开年刊封面",
+        "onboard_time": 1673758649,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191975,
+        "num": 189137,
+        "word": "新娘结婚走红毯头顶被扣两盆麸子",
+        "onboard_time": 1673766148,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184945,
+        "num": 184945,
+        "word": "独生女远嫁过年和老公决定各找各妈",
+        "onboard_time": 1673755465,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176122,
+        "num": 176122,
+        "word": "尼泊尔飞机坠毁找到30具遗体",
+        "onboard_time": 1673767107,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 169144,
+        "num": 169144,
+        "word": "多人因假冒王思聪行骗被判刑",
+        "onboard_time": 1673757445,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167366,
+        "num": 167366,
+        "word": "王者兔限CG预告片",
+        "onboard_time": 1673778088,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159463,
+        "num": 159463,
+        "word": "新华人寿原董事长万峰已经失联",
+        "onboard_time": 1673765306,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210786,
+        "num": 156812,
+        "word": "于和伟回复吕严来三体看大史",
+        "onboard_time": 1673765667,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184449,
+        "num": 155295,
+        "word": "撒贝宁的鞋跟",
+        "onboard_time": 1673778809,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152860,
+        "num": 152860,
+        "word": "阿尼亚是懂打亚索的",
+        "onboard_time": 1673777187,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138265,
+        "num": 138265,
+        "word": "KPL御三家接力合拍",
+        "onboard_time": 1673777908,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137643,
+        "num": 137643,
+        "word": "浙江队1比2山东泰山",
+        "onboard_time": 1673776169,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136393,
+        "num": 136393,
+        "word": "这狗怎么欺负狗啊",
+        "onboard_time": 1673775809,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134344,
+        "num": 134344,
+        "word": "盘锦一化工厂起火爆炸",
+        "onboard_time": 1673772867,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 130909,
+        "num": 130909,
+        "word": "警察带走候车厅抽烟女子群众拍手称快",
+        "onboard_time": 1673765188,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128885,
+        "num": 128885,
+        "word": "豌豆尖在川渝的地位有多高",
+        "onboard_time": 1673763385,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100136,
+        "num": 128353,
+        "word": "延时记录日照梅里雪山金光万丈",
+        "onboard_time": 1673778689,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦2023年春运#"
+    }
+  }
+}
