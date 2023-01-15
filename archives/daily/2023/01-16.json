@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673821013385,
+  "endTime": 1673822000654,
   "band_list": [
     {
       "raw_hot": 2443672,
@@ -211,6 +211,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 235771,
+      "num": 235771,
+      "word": "不建议没阳过的人长途旅行",
+      "onboard_time": 1673817191,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232880,
       "num": 128950,
       "word": "周杰伦马来西亚演唱会",
@@ -259,14 +267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184919,
-      "num": 184919,
-      "word": "不建议没阳过的人长途旅行",
-      "onboard_time": 1673817191,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184372,
       "num": 184372,
       "word": "多人在辽宁盘锦化工厂爆炸事故中失联",
@@ -305,6 +305,14 @@
       "onboard_time": 1673794838,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130164,
+      "num": 66803,
+      "word": "男子车祸失忆流浪9年后找回家人",
+      "onboard_time": 1673819412,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120598,
@@ -467,14 +475,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 68001,
-      "num": 54380,
-      "word": "男子车祸失忆流浪9年后找回家人",
-      "onboard_time": 1673819412,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61697,
       "num": 180690,
       "word": "中科大提出生育力保存新方法",
@@ -515,12 +515,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 34819,
+      "raw_hot": 35980,
       "num": 36495,
       "word": "残疾小哥剐蹭车辆后为车主送新鲜菜",
       "onboard_time": 1673815691,
       "rank": 19,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 23793,
+      "num": 23793,
+      "word": "朴彩英抱Jennie",
+      "onboard_time": 1673820973,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 23174,
@@ -529,6 +537,14 @@
       "onboard_time": 1673808133,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19853,
+      "num": 19853,
+      "word": "官方回应EVA终海报涉嫌抄袭",
+      "onboard_time": 1673816711,
+      "rank": 47,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 19455,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 19062,
-      "num": 17877,
+      "num": 17944,
       "word": "许红豆告别前想和谢之遥一起多吃几顿饭",
       "onboard_time": 1673816291,
       "rank": 35,
@@ -555,20 +571,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 16951,
-      "num": 16951,
-      "word": "朴彩英抱Jennie",
-      "onboard_time": 1673820973,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 15104,
-      "num": 15104,
-      "word": "官方回应EVA终海报涉嫌抄袭",
-      "onboard_time": 1673816711,
+      "raw_hot": 15830,
+      "num": 17552,
+      "word": "这席非吃不可吗",
+      "onboard_time": 1673821513,
       "rank": 47,
-      "category": "动漫,影视"
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
