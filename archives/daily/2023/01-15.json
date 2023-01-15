@@ -1,6 +1,6 @@
 {
   "startTime": 1673713412094,
-  "endTime": 1673793208079,
+  "endTime": 1673795851382,
   "band_list": [
     {
       "raw_hot": 7619978,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1335773,
-      "num": 435833,
+      "num": 1082423,
       "word": "三体首播收视率",
       "onboard_time": 1673788891,
       "rank": 22,
@@ -203,6 +203,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1061009,
+      "num": 377403,
+      "word": "王传君演丁仪",
+      "onboard_time": 1673794656,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1053356,
       "num": 1053356,
       "word": "广州撞人致5死司机被批捕",
@@ -241,6 +249,14 @@
       "onboard_time": 1673763928,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 919432,
+      "num": 363705,
+      "word": "上海39平米的家是什么样",
+      "onboard_time": 1673793639,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 904786,
@@ -321,6 +337,14 @@
       "onboard_time": 1673789070,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 816356,
+      "num": 816356,
+      "word": "买8寸蛋糕直径少4厘米索赔遭怼",
+      "onboard_time": 1673791175,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 784878,
@@ -419,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 720458,
+      "num": 215356,
+      "word": "张兰评论张颖颖心机女",
+      "onboard_time": 1673794237,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 719242,
       "num": 719242,
       "word": "女孩见男友父母被赠红手帕包10001元",
@@ -467,19 +499,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 681236,
+      "num": 215102,
+      "word": "郑秀妍晒Jennie舞台",
+      "onboard_time": 1673795197,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 678687,
       "num": 678687,
       "word": "85岁老人被盗15只鸡2只鹅1条狗",
       "onboard_time": 1673750063,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 671961,
-      "num": 671961,
-      "word": "买8寸蛋糕直径少4厘米索赔遭怼",
-      "onboard_time": 1673791175,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -569,6 +601,14 @@
       "onboard_time": 1673770706,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 569498,
+      "num": 212645,
+      "word": "张艺兴面纱舞台脸链造型",
+      "onboard_time": 1673795433,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 550005,
@@ -731,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 489973,
+      "num": 212021,
+      "word": "吴昕终于分到话了",
+      "onboard_time": 1673793278,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485818,
       "num": 485818,
       "word": "当准女婿第一次去老丈人家",
@@ -771,6 +819,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 475479,
+      "num": 211526,
+      "word": "赵丽颖哽咽朗诵致敬张桂梅",
+      "onboard_time": 1673793220,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472715,
       "num": 265925,
       "word": "狂飙",
@@ -785,6 +841,14 @@
       "onboard_time": 1673787210,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 466554,
+      "num": 209590,
+      "word": "宋亚轩7秒有效镜头",
+      "onboard_time": 1673793817,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 463892,
@@ -857,6 +921,14 @@
       "onboard_time": 1673777489,
       "rank": 34,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 439866,
+      "num": 209210,
+      "word": "王一博无名湖南春晚直播关注度冠军",
+      "onboard_time": 1673794056,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 436358,
@@ -1033,6 +1105,14 @@
       "onboard_time": 1673787390,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 384442,
+      "num": 208957,
+      "word": "刘宇宁 稳",
+      "onboard_time": 1673795735,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 384079,
@@ -1867,6 +1947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201809,
+      "num": 211458,
+      "word": "餐厅就别搞这种顶灯了吧",
+      "onboard_time": 1673794959,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 200186,
       "num": 98414,
       "word": "杨颖晒车内侧颜随拍",
@@ -2009,6 +2097,14 @@
       "onboard_time": 1673758528,
       "rank": 32,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 178723,
+      "num": 214545,
+      "word": "深圳男篮主帅场边昏倒",
+      "onboard_time": 1673794838,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 177706,
@@ -2217,6 +2313,14 @@
       "onboard_time": 1673757204,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157539,
+      "num": 217586,
+      "word": "洛阳小伙2年集齐一二三等功",
+      "onboard_time": 1673792436,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156923,
@@ -2483,14 +2587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110039,
-      "num": 217586,
-      "word": "洛阳小伙2年集齐一二三等功",
-      "onboard_time": 1673792436,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109004,
       "num": 109004,
       "word": "今天你扫房子了吗",
@@ -2617,6 +2713,14 @@
       "onboard_time": 1673722454,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95011,
+      "num": 207819,
+      "word": "尼泊尔失事飞机上无中国公民",
+      "onboard_time": 1673795557,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 94983,
