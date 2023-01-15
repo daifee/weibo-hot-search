@@ -1,10 +1,10 @@
 {
   "startTime": 1673713412094,
-  "endTime": 1673792126973,
+  "endTime": 1673793208079,
   "band_list": [
     {
-      "raw_hot": 5472837,
-      "num": 1251037,
+      "raw_hot": 7619978,
+      "num": 7619978,
       "word": "假唱",
       "onboard_time": 1673789131,
       "rank": 10,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1335773,
+      "num": 435833,
+      "word": "三体首播收视率",
+      "onboard_time": 1673788891,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1300666,
       "num": 1300666,
       "word": "黄仁俊",
@@ -131,12 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1161971,
-      "num": 418580,
-      "word": "三体首播收视率",
-      "onboard_time": 1673788891,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 1186436,
+      "num": 435804,
+      "word": "时代少年团唱波斯猫",
+      "onboard_time": 1673790515,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1146799,
@@ -161,14 +169,6 @@
       "onboard_time": 1673745982,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1099892,
-      "num": 414202,
-      "word": "时代少年团唱波斯猫",
-      "onboard_time": 1673790515,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1085908,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 898498,
-      "num": 411089,
+      "num": 435653,
       "word": "蒋依依开场舞",
       "onboard_time": 1673788351,
       "rank": 20,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 717031,
+      "num": 263959,
+      "word": "三体首播口碑",
+      "onboard_time": 1673791836,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 716905,
       "num": 716905,
       "word": "陈奕迅被自己演唱会门票震惊到",
@@ -451,11 +459,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 687887,
+      "num": 221013,
+      "word": "郑秀妍去看了BLACKPINK演唱会",
+      "onboard_time": 1673792194,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 678687,
       "num": 678687,
       "word": "85岁老人被盗15只鸡2只鹅1条狗",
       "onboard_time": 1673750063,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 671961,
+      "num": 671961,
+      "word": "买8寸蛋糕直径少4厘米索赔遭怼",
+      "onboard_time": 1673791175,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -515,12 +539,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 600138,
+      "num": 243809,
+      "word": "毛晓彤李一桐徐梦洁王楚然甜妹同台",
+      "onboard_time": 1673788411,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 598943,
       "num": 598943,
       "word": "TES 钎城",
       "onboard_time": 1673778388,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 589506,
+      "num": 219528,
+      "word": "汪涵眼里的王一博是骄傲",
+      "onboard_time": 1673792858,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 570178,
@@ -601,14 +641,6 @@
       "onboard_time": 1673782170,
       "rank": 21,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 528836,
-      "num": 243809,
-      "word": "毛晓彤李一桐徐梦洁王楚然甜妹同台",
-      "onboard_time": 1673788411,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 516327,
@@ -803,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 448078,
+      "num": 218129,
+      "word": "张艺兴把湖南骄傲放到rap里",
+      "onboard_time": 1673792495,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 445391,
       "num": 377462,
       "word": "管虎父亲管宗祥逝世",
@@ -859,6 +899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 417523,
+      "num": 417523,
+      "word": "多人在辽宁盘锦化工厂爆炸事故中失联",
+      "onboard_time": 1673789192,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 415012,
       "num": 380337,
       "word": "黄晓明祝陈梦生日快乐",
@@ -907,14 +955,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 397418,
-      "num": 397418,
-      "word": "多人在辽宁盘锦化工厂爆炸事故中失联",
-      "onboard_time": 1673789192,
-      "rank": 43,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 396500,
       "num": 396500,
       "word": "杨迪家过年像极了我家",
@@ -953,14 +993,6 @@
       "onboard_time": 1673739076,
       "rank": 44,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 393019,
-      "num": 393019,
-      "word": "买8寸蛋糕直径少4厘米索赔遭怼",
-      "onboard_time": 1673791175,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 392860,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1673765188,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381464,
+      "num": 219325,
+      "word": "王子文三体直播状态",
+      "onboard_time": 1673792797,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 379405,
@@ -1177,14 +1217,6 @@
       "onboard_time": 1673752827,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 337398,
-      "num": 263959,
-      "word": "三体首播口碑",
-      "onboard_time": 1673791836,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 335402,
@@ -2107,6 +2139,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 165358,
+      "num": 264474,
+      "word": "KPL转会期的瓜给我转懵了",
+      "onboard_time": 1673790694,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165298,
       "num": 165298,
       "word": "瓜迪奥拉认为曼联进球越位",
@@ -2211,14 +2251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 151638,
-      "num": 264474,
-      "word": "KPL转会期的瓜给我转懵了",
-      "onboard_time": 1673790694,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 147026,
       "num": 147026,
       "word": "女儿过年不回家被妈妈千里投喂",
@@ -2260,7 +2292,7 @@
     },
     {
       "raw_hot": 140807,
-      "num": 1438148,
+      "num": 1731502,
       "word": "这一幕幕就是回家的意义",
       "onboard_time": 1673750902,
       "rank": 36,
@@ -2363,6 +2395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122763,
+      "num": 263820,
+      "word": "开肩美背 仪态救星",
+      "onboard_time": 1673790816,
+      "rank": 42,
+      "category": "其它"
+    },
+    {
       "raw_hot": 122359,
       "num": 208217,
       "word": "国家发改委约谈个别铁矿石资讯企业",
@@ -2443,20 +2483,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110039,
+      "num": 217586,
+      "word": "洛阳小伙2年集齐一二三等功",
+      "onboard_time": 1673792436,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109004,
       "num": 109004,
       "word": "今天你扫房子了吗",
       "onboard_time": 1673747604,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107219,
-      "num": 263820,
-      "word": "开肩美背 仪态救星",
-      "onboard_time": 1673790816,
-      "rank": 42,
-      "category": "其它"
     },
     {
       "raw_hot": 106916,
