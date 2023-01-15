@@ -1,6 +1,6 @@
 {
   "startTime": 1673713412094,
-  "endTime": 1673763722998,
+  "endTime": 1673764580468,
   "band_list": [
     {
       "raw_hot": 3379508,
@@ -64,6 +64,14 @@
       "word": "老人在医院撩女子裙底",
       "onboard_time": 1673742923,
       "rank": 10,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1063036,
+      "num": 1063036,
+      "word": "尼泊尔一客机坠毁机上载有68名乘客",
+      "onboard_time": 1673763324,
+      "rank": 1,
       "category": "社会负面"
     },
     {
@@ -163,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 735124,
+      "num": 463464,
+      "word": "二胎妈妈下决心和家暴老公离婚",
+      "onboard_time": 1673760447,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719242,
       "num": 719242,
       "word": "女孩见男友父母被赠红手帕包10001元",
@@ -179,12 +195,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 686745,
-      "num": 463464,
-      "word": "二胎妈妈下决心和家暴老公离婚",
-      "onboard_time": 1673760447,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 716733,
+      "num": 716733,
+      "word": "因为iKON才有中国有嘻哈",
+      "onboard_time": 1673763928,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 678687,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 506159,
-      "num": 378059,
+      "num": 383284,
       "word": "迪丽热巴鞠婧祎解锁超话钻二",
       "onboard_time": 1673762726,
       "rank": 10,
@@ -371,6 +387,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 457508,
+      "num": 383653,
+      "word": "七英俊 华九灯没有抄袭我的作品",
+      "onboard_time": 1673763267,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 452772,
       "num": 452772,
       "word": "李诞说不要再造新词制造焦虑",
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 415012,
-      "num": 359351,
+      "num": 380337,
       "word": "黄晓明祝陈梦生日快乐",
       "onboard_time": 1673760086,
       "rank": 12,
@@ -465,14 +489,6 @@
       "onboard_time": 1673752226,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 370034,
-      "num": 179933,
-      "word": "七英俊 华九灯没有抄袭我的作品",
-      "onboard_time": 1673763267,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 360623,
@@ -531,11 +547,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335402,
+      "num": 195012,
+      "word": "王一博的卫衣和帽子都是无名",
+      "onboard_time": 1673763928,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 333581,
       "num": 333581,
       "word": "88岁老人临终为老伴擦泪不舍告别",
       "onboard_time": 1673748684,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327458,
+      "num": 327458,
+      "word": "晚点",
+      "onboard_time": 1673759727,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -545,14 +577,6 @@
       "onboard_time": 1673698349,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 316953,
-      "num": 316953,
-      "word": "晚点",
-      "onboard_time": 1673759727,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314050,
@@ -593,6 +617,14 @@
       "onboard_time": 1673753245,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297761,
+      "num": 191475,
+      "word": "阿里嘎多美羊羊桑",
+      "onboard_time": 1673762608,
+      "rank": 22,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 295058,
@@ -771,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242921,
+      "num": 143661,
+      "word": "李现去有风的地方眼神戏",
+      "onboard_time": 1673763746,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241733,
       "num": 241733,
       "word": "好的睡眠应该是什么样子",
@@ -835,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215425,
+      "num": 215425,
+      "word": "男子骑三轮拉16层水果称赔了算他的",
+      "onboard_time": 1673760987,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215344,
       "num": 175669,
       "word": "小鬼小年夜三连唱嗨翻了",
@@ -843,28 +891,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215154,
+      "num": 215154,
+      "word": "中国足协免去刘奕足协秘书长职务",
+      "onboard_time": 1673761767,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213627,
       "num": 213627,
       "word": "李知恩好帅",
       "onboard_time": 1673699011,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 212778,
-      "num": 212778,
-      "word": "男子骑三轮拉16层水果称赔了算他的",
-      "onboard_time": 1673760987,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201062,
-      "num": 201062,
-      "word": "中国足协免去刘奕足协秘书长职务",
-      "onboard_time": 1673761767,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 200186,
@@ -1019,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164999,
+      "num": 163674,
+      "word": "2023北京将会这样变",
+      "onboard_time": 1673762007,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164285,
       "num": 164285,
       "word": "母子关系和母女关系是不一样的",
@@ -1051,19 +1099,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156970,
-      "num": 163674,
-      "word": "2023北京将会这样变",
-      "onboard_time": 1673762007,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154010,
       "num": 208127,
       "word": "B费谈争议进球",
       "onboard_time": 1673748265,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150484,
+      "num": 163028,
+      "word": "许昕为三岁儿子自豪",
+      "onboard_time": 1673763686,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1107,6 +1155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 134979,
+      "num": 163070,
+      "word": "豌豆尖在川渝的地位有多高",
+      "onboard_time": 1673763385,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 133598,
       "num": 118980,
       "word": "过年十大BGM",
@@ -1145,6 +1201,14 @@
       "onboard_time": 1673753304,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127471,
+      "num": 127471,
+      "word": "大马赛雅思组合四连冠",
+      "onboard_time": 1673764166,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 124567,
@@ -1315,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95423,
-      "num": 163070,
-      "word": "豌豆尖在川渝的地位有多高",
-      "onboard_time": 1673763385,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 94983,
       "num": 149850,
       "word": "赵睿受伤",
@@ -1361,14 +1417,6 @@
       "onboard_time": 1673750606,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 88775,
-      "num": 163028,
-      "word": "许昕为三岁儿子自豪",
-      "onboard_time": 1673763686,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 87774,
