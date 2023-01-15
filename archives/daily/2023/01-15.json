@@ -1,6 +1,6 @@
 {
   "startTime": 1673713412094,
-  "endTime": 1673764580468,
+  "endTime": 1673766945674,
   "band_list": [
     {
       "raw_hot": 3379508,
@@ -11,12 +11,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2408626,
-      "num": 2408626,
+      "raw_hot": 2487898,
+      "num": 2487898,
       "word": "八成大学生想生两娃",
       "onboard_time": 1673760147,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1966351,
+      "num": 1966351,
+      "word": "尼泊尔一客机坠毁机上载有68名乘客",
+      "onboard_time": 1673763324,
+      "rank": 1,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1664567,
@@ -67,14 +75,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1063036,
-      "num": 1063036,
-      "word": "尼泊尔一客机坠毁机上载有68名乘客",
-      "onboard_time": 1673763324,
-      "rank": 1,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1053356,
       "num": 1053356,
       "word": "广州撞人致5死司机被批捕",
@@ -89,6 +89,14 @@
       "onboard_time": 1673755465,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 921225,
+      "num": 921225,
+      "word": "因为iKON才有中国有嘻哈",
+      "onboard_time": 1673763928,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 904786,
@@ -195,12 +203,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 716733,
-      "num": 716733,
-      "word": "因为iKON才有中国有嘻哈",
-      "onboard_time": 1673763928,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 705715,
+      "num": 353771,
+      "word": "阿里嘎多美羊羊桑",
+      "onboard_time": 1673762608,
+      "rank": 22,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 678687,
@@ -259,6 +267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 546798,
+      "num": 546798,
+      "word": "张艺谋希望从春节档开始中国电影能有一个起飞",
+      "onboard_time": 1673765127,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 543922,
       "num": 543922,
       "word": "XBB可能缩短免疫保护期",
@@ -281,6 +297,14 @@
       "onboard_time": 1673749644,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 513987,
+      "num": 383653,
+      "word": "七英俊 华九灯没有抄袭我的作品",
+      "onboard_time": 1673763267,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 510759,
@@ -387,14 +411,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 457508,
-      "num": 383653,
-      "word": "七英俊 华九灯没有抄袭我的作品",
-      "onboard_time": 1673763267,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 452772,
       "num": 452772,
       "word": "李诞说不要再造新词制造焦虑",
@@ -484,7 +500,7 @@
     },
     {
       "raw_hot": 383995,
-      "num": 225733,
+      "num": 229806,
       "word": "三体电视剧今日开播",
       "onboard_time": 1673752226,
       "rank": 33,
@@ -548,7 +564,7 @@
     },
     {
       "raw_hot": 335402,
-      "num": 195012,
+      "num": 258603,
       "word": "王一博的卫衣和帽子都是无名",
       "onboard_time": 1673763928,
       "rank": 21,
@@ -619,14 +635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297761,
-      "num": 191475,
-      "word": "阿里嘎多美羊羊桑",
-      "onboard_time": 1673762608,
-      "rank": 22,
-      "category": "动漫,影视"
-    },
-    {
       "raw_hot": 295058,
       "num": 269208,
       "word": "丁程鑫张真源贺峻霖合作曲亲亲爱",
@@ -643,6 +651,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 286423,
+      "num": 146454,
+      "word": "王鹤棣东方青苍开大新花絮",
+      "onboard_time": 1673765248,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 282755,
       "num": 220426,
       "word": "女子带57岁未来婆婆拍人生首本写真",
@@ -657,6 +673,30 @@
       "onboard_time": 1673747846,
       "rank": 48,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 272542,
+      "num": 146264,
+      "word": "于和伟回复吕严来三体看大史",
+      "onboard_time": 1673765667,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 270741,
+      "num": 146086,
+      "word": "华晨宇专辑销量承包网易云冠亚军",
+      "onboard_time": 1673766688,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 269539,
+      "num": 269539,
+      "word": "酒店回应保安深夜刷卡闯入女子房间",
+      "onboard_time": 1673764766,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 268313,
@@ -779,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247844,
+      "num": 145517,
+      "word": "郑秀妍晒和姐姐们的合照",
+      "onboard_time": 1673766866,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246427,
       "num": 150319,
       "word": "张译新剧1集老了20岁",
@@ -793,6 +841,14 @@
       "onboard_time": 1673757867,
       "rank": 23,
       "category": "军事"
+    },
+    {
+      "raw_hot": 246194,
+      "num": 246194,
+      "word": "中国足协免去刘奕足协秘书长职务",
+      "onboard_time": 1673761767,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 243983,
@@ -843,12 +899,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234847,
+      "num": 234847,
+      "word": "警察带走候车厅抽烟女子群众拍手称快",
+      "onboard_time": 1673765188,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232820,
+      "num": 232820,
+      "word": "新娘结婚走红毯头顶被扣两盆麸子",
+      "onboard_time": 1673766148,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231972,
       "num": 231972,
       "word": "xinyi",
       "onboard_time": 1673695289,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 226677,
+      "num": 145624,
+      "word": "新华人寿原董事长万峰已经失联",
+      "onboard_time": 1673765306,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224677,
@@ -891,20 +971,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 215154,
-      "num": 215154,
-      "word": "中国足协免去刘奕足协秘书长职务",
-      "onboard_time": 1673761767,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213627,
       "num": 213627,
       "word": "李知恩好帅",
       "onboard_time": 1673699011,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206407,
+      "num": 206407,
+      "word": "豌豆尖在川渝的地位有多高",
+      "onboard_time": 1673763385,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 200186,
@@ -947,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192060,
+      "num": 145299,
+      "word": "新娘婚纱配皮草有多惊艳",
+      "onboard_time": 1673766866,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188235,
       "num": 207908,
       "word": "穿汉服滑雪有多惊艳",
@@ -977,6 +1065,14 @@
       "onboard_time": 1673715441,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185689,
+      "num": 185689,
+      "word": "2023北京将会这样变",
+      "onboard_time": 1673762007,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181535,
@@ -1059,19 +1155,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164999,
-      "num": 163674,
-      "word": "2023北京将会这样变",
-      "onboard_time": 1673762007,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164285,
       "num": 164285,
       "word": "母子关系和母女关系是不一样的",
       "onboard_time": 1673689045,
       "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 163885,
+      "num": 163028,
+      "word": "许昕为三岁儿子自豪",
+      "onboard_time": 1673763686,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162612,
+      "num": 162612,
+      "word": "地铁的尽头原来长这样",
+      "onboard_time": 1673765967,
+      "rank": 27,
       "category": "情感"
     },
     {
@@ -1099,6 +1203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158423,
+      "num": 144609,
+      "word": "多地多人围炉煮茶中毒",
+      "onboard_time": 1673765848,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154010,
       "num": 208127,
       "word": "B费谈争议进球",
@@ -1107,12 +1219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150484,
-      "num": 163028,
-      "word": "许昕为三岁儿子自豪",
-      "onboard_time": 1673763686,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 147026,
+      "num": 147026,
+      "word": "女儿过年不回家被妈妈千里投喂",
+      "onboard_time": 1673766566,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142927,
@@ -1152,14 +1264,6 @@
       "word": "把烘焙做出了油画的感觉",
       "onboard_time": 1673751444,
       "rank": 37,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 134979,
-      "num": 163070,
-      "word": "豌豆尖在川渝的地位有多高",
-      "onboard_time": 1673763385,
-      "rank": 46,
       "category": "美食"
     },
     {
@@ -1259,6 +1363,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 116647,
+      "num": 143462,
+      "word": "离翻盘成功就差一个福星",
+      "onboard_time": 1673766208,
+      "rank": 44,
+      "category": "游戏,幽默"
+    },
+    {
       "raw_hot": 111925,
       "num": 150169,
       "word": "bin哥厉害",
@@ -1348,7 +1460,7 @@
     },
     {
       "raw_hot": 102602,
-      "num": 876278,
+      "num": 1037717,
       "word": "春节回家带上这9个健康锦囊",
       "onboard_time": 1673752765,
       "rank": 2,
@@ -1417,6 +1529,14 @@
       "onboard_time": 1673750606,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 88095,
+      "num": 142960,
+      "word": "足协杯决赛",
+      "onboard_time": 1673766747,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 87774,
