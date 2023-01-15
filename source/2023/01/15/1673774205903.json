@@ -1,0 +1,410 @@
+{
+  "runTime": 1673774205903,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2160941,
+        "num": 2160941,
+        "word": "八成大学生想生两娃",
+        "onboard_time": 1673760147,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1437118,
+        "num": 1437118,
+        "word": "曹德旺捐100亿元建世界一流名校",
+        "onboard_time": 1673769988,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77282,
+        "num": 1158299,
+        "word": "这一幕幕就是回家的意义",
+        "onboard_time": 1673750902,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128699,
+        "num": 1128699,
+        "word": "尼泊尔空难已造成至少45人死亡",
+        "onboard_time": 1673769088,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 837846,
+        "num": 837846,
+        "word": "刘诗诗何蓝逗同游迪士尼",
+        "onboard_time": 1673770106,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639064,
+        "num": 639064,
+        "word": "黄仁俊",
+        "onboard_time": 1673773647,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547068,
+        "num": 547068,
+        "word": "黄海工作室致歉声明",
+        "onboard_time": 1673770407,
+        "rank": 6,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 516327,
+        "num": 516327,
+        "word": "这是2只凤凰在打架吧",
+        "onboard_time": 1673771248,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 483662,
+        "num": 483662,
+        "word": "新娘婚纱配皮草有多惊艳",
+        "onboard_time": 1673766866,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395544,
+        "num": 395544,
+        "word": "新娘结婚走红毯头顶被扣两盆麸子",
+        "onboard_time": 1673766148,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637827,
+        "num": 393708,
+        "word": "尼泊尔一客机坠毁机上载有68名乘客",
+        "onboard_time": 1673763324,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 470719,
+        "num": 391453,
+        "word": "因为iKON才有中国有嘻哈",
+        "onboard_time": 1673763928,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460158,
+        "num": 390510,
+        "word": "成毅说没有被家里催过婚",
+        "onboard_time": 1673770706,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451067,
+        "num": 386930,
+        "word": "NewJeans新歌OMG舞台ending",
+        "onboard_time": 1673771067,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 417727,
+        "num": 384560,
+        "word": "女子清洗4年窗帘灰色变粉色",
+        "onboard_time": 1673772748,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384063,
+        "num": 384063,
+        "word": "KSG 今屿",
+        "onboard_time": 1673773348,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 381028,
+        "num": 381028,
+        "word": "出生三年驾龄两年",
+        "onboard_time": 1673772447,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352186,
+        "num": 352186,
+        "word": "全球首架C919国产大飞机首达青岛",
+        "onboard_time": 1673769326,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 338624,
+        "num": 338624,
+        "word": "尼泊尔飞机坠毁找到30具遗体",
+        "onboard_time": 1673767107,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 312244,
+        "num": 312244,
+        "word": "独生女远嫁过年和老公决定各找各妈",
+        "onboard_time": 1673755465,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429490,
+        "num": 307441,
+        "word": "古装发带有多绝",
+        "onboard_time": 1673768307,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384467,
+        "num": 297849,
+        "word": "张艺谋希望从春节档开始中国电影能有一个起飞",
+        "onboard_time": 1673765127,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284331,
+        "num": 284331,
+        "word": "多人因假冒王思聪行骗被判刑",
+        "onboard_time": 1673757445,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272024,
+        "num": 272024,
+        "word": "三体电视剧今日开播",
+        "onboard_time": 1673752226,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232501,
+        "num": 232501,
+        "word": "新华人寿原董事长万峰已经失联",
+        "onboard_time": 1673765306,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264712,
+        "num": 216669,
+        "word": "时代少年团今晚唱有你的季节波斯猫",
+        "onboard_time": 1673773228,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194768,
+        "num": 194768,
+        "word": "警察带走候车厅抽烟女子群众拍手称快",
+        "onboard_time": 1673765188,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186583,
+        "num": 186583,
+        "word": "尼泊尔坠毁飞机上含10名外国人",
+        "onboard_time": 1673767949,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185501,
+        "num": 185501,
+        "word": "盘锦一化工厂起火爆炸",
+        "onboard_time": 1673772867,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 182779,
+        "num": 182779,
+        "word": "尼泊尔载72人坠毁客机失事瞬间",
+        "onboard_time": 1673773526,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 261205,
+        "num": 181011,
+        "word": "三体站内预约量破300万",
+        "onboard_time": 1673773829,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259777,
+        "num": 179515,
+        "word": "陈奕迅演唱会尾场终极ENCORE",
+        "onboard_time": 1673774186,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257649,
+        "num": 177963,
+        "word": "郭晓婷男人装开年刊封面",
+        "onboard_time": 1673758649,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 176112,
+        "num": 176112,
+        "word": "梓墨暖阳玫瑰挑染",
+        "onboard_time": 1673771785,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163719,
+        "num": 163719,
+        "word": "如何判断睡眠是否出现问题",
+        "onboard_time": 1673770229,
+        "rank": 34,
+        "category": "社会议题,科技"
+      },
+      {
+        "raw_hot": 255238,
+        "num": 162208,
+        "word": "刘亦菲李现片场比谁更能吃酸",
+        "onboard_time": 1673773406,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156633,
+        "num": 156633,
+        "word": "看得出这猫咪真的很纠结",
+        "onboard_time": 1673767288,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147906,
+        "num": 147906,
+        "word": "女孩见男友父母被赠红手帕包10001元",
+        "onboard_time": 1673754385,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145750,
+        "num": 145750,
+        "word": "豌豆尖在川渝的地位有多高",
+        "onboard_time": 1673763385,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141759,
+        "num": 141759,
+        "word": "多地多人围炉煮茶中毒",
+        "onboard_time": 1673765848,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227064,
+        "num": 135974,
+        "word": "湖南卫视春晚节目单",
+        "onboard_time": 1673757867,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124977,
+        "num": 124977,
+        "word": "中科大提出生育力保存新方法",
+        "onboard_time": 1673773647,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 124097,
+        "num": 124097,
+        "word": "和许万森一起晒初雪",
+        "onboard_time": 1673769448,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123028,
+        "num": 123028,
+        "word": "地铁的尽头原来长这样",
+        "onboard_time": 1673765967,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120614,
+        "num": 120614,
+        "word": "男子接诈骗电话试图拯救对方",
+        "onboard_time": 1673772208,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105239,
+        "num": 105239,
+        "word": "从今天开始不当讨好型人格",
+        "onboard_time": 1673773647,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 101452,
+        "num": 101452,
+        "word": "当准女婿第一次去老丈人家",
+        "onboard_time": 1673761286,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98040,
+        "num": 98040,
+        "word": "男子骑三轮拉16层水果称赔了算他的",
+        "onboard_time": 1673760987,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91801,
+        "num": 91801,
+        "word": "尼泊尔坠机现场已发现至少40具遗体",
+        "onboard_time": 1673769627,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 85375,
+        "num": 85375,
+        "word": "XBB可能缩短免疫保护期",
+        "onboard_time": 1673752163,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这份新春约定风雪无阻暖人心扉#"
+    }
+  }
+}
