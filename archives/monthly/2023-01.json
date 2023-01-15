@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673800838829,
+  "endTime": 1673802934664,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -11836,7 +11836,7 @@
     },
     {
       "raw_hot": 467751,
-      "num": 285557,
+      "num": 411057,
       "word": "尼泊尔失事客机上72人全部遇难",
       "onboard_time": 1673796453,
       "rank": 35,
@@ -17721,6 +17721,14 @@
       "onboard_time": 1673274634,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 332205,
+      "num": 183697,
+      "word": "徐怀钰状态",
+      "onboard_time": 1673799387,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 332039,
@@ -25435,14 +25443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220871,
-      "num": 93218,
-      "word": "徐怀钰状态",
-      "onboard_time": 1673799387,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220857,
       "num": 163521,
       "word": "英雄志开机成毅李一桐互让C位",
@@ -26913,6 +26913,14 @@
       "onboard_time": 1673060550,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199946,
+      "num": 116856,
+      "word": "张真源湖南春晚舞台直拍",
+      "onboard_time": 1673801782,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 199811,
@@ -30233,6 +30241,14 @@
       "onboard_time": 1672935506,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166819,
+      "num": 116779,
+      "word": "戴燕妮兑现叶若依跳舞flag",
+      "onboard_time": 1673802201,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 166755,
@@ -36955,6 +36971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80220,
+      "num": 116760,
+      "word": "笑点太多不知道笑谁了",
+      "onboard_time": 1673800763,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80186,
       "num": 913350,
       "word": "新的一年",
@@ -37371,6 +37395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 60479,
+      "num": 116671,
+      "word": "尼泊尔飞机坠毁前或曾尝试着陆",
+      "onboard_time": 1673802083,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 60449,
       "num": 60449,
       "word": "女子展示神操作橘子复原术",
@@ -37537,14 +37569,6 @@
       "onboard_time": 1673045113,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 50714,
-      "num": 50714,
-      "word": "笑点太多不知道笑谁了",
-      "onboard_time": 1673800763,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 49888,
