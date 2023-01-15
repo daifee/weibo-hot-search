@@ -1,6 +1,6 @@
 {
   "startTime": 1673713412094,
-  "endTime": 1673770926652,
+  "endTime": 1673771749815,
   "band_list": [
     {
       "raw_hot": 3379508,
@@ -91,6 +91,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 938101,
+      "num": 938101,
+      "word": "曹德旺捐100亿元建世界一流名校",
+      "onboard_time": 1673769988,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 931900,
+      "num": 931900,
+      "word": "刘诗诗何蓝逗同游迪士尼",
+      "onboard_time": 1673770106,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 921225,
       "num": 921225,
       "word": "因为iKON才有中国有嘻哈",
@@ -105,14 +121,6 @@
       "onboard_time": 1673740338,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 904707,
-      "num": 904707,
-      "word": "刘诗诗何蓝逗同游迪士尼",
-      "onboard_time": 1673770106,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 901399,
@@ -145,6 +153,14 @@
       "onboard_time": 1673751805,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 823744,
+      "num": 823744,
+      "word": "尼泊尔空难已造成至少45人死亡",
+      "onboard_time": 1673769088,
+      "rank": 6,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 784878,
@@ -201,14 +217,6 @@
       "onboard_time": 1673757867,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 741159,
-      "num": 741159,
-      "word": "尼泊尔空难已造成至少45人死亡",
-      "onboard_time": 1673769088,
-      "rank": 6,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 735124,
@@ -315,6 +323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 570178,
+      "num": 570178,
+      "word": "成毅说没有被家里催过婚",
+      "onboard_time": 1673770706,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 546798,
       "num": 546798,
       "word": "张艺谋希望从春节档开始中国电影能有一个起飞",
@@ -347,8 +363,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 530552,
-      "num": 530552,
+      "raw_hot": 531573,
+      "num": 531573,
       "word": "新娘婚纱配皮草有多惊艳",
       "onboard_time": 1673766866,
       "rank": 36,
@@ -419,12 +435,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 486953,
+      "num": 486953,
+      "word": "黄海工作室致歉声明",
+      "onboard_time": 1673770407,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 485818,
       "num": 485818,
       "word": "当准女婿第一次去老丈人家",
       "onboard_time": 1673761286,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 482682,
+      "num": 482682,
+      "word": "NewJeans新歌OMG舞台ending",
+      "onboard_time": 1673771067,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 481830,
@@ -459,14 +491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 460935,
-      "num": 169270,
-      "word": "黄海工作室致歉声明",
-      "onboard_time": 1673770407,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 459510,
       "num": 459510,
       "word": "可以非但没必要这么非",
@@ -483,20 +507,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449372,
+      "num": 449372,
+      "word": "古装发带有多绝",
+      "onboard_time": 1673768307,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 445391,
       "num": 377462,
       "word": "管虎父亲管宗祥逝世",
       "onboard_time": 1673758889,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 436754,
-      "num": 436754,
-      "word": "古装发带有多绝",
-      "onboard_time": 1673768307,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 436358,
@@ -595,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361525,
-      "num": 361525,
-      "word": "成毅说没有被家里催过婚",
-      "onboard_time": 1673770706,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 360623,
       "num": 221240,
       "word": "在重庆点鸳鸯锅真的会被嘲笑吗",
@@ -659,14 +675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 342909,
-      "num": 342909,
-      "word": "曹德旺捐100亿元建世界一流名校",
-      "onboard_time": 1673769988,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 337846,
       "num": 183380,
       "word": "时代少年团元宇宙盛典互送祝福",
@@ -713,6 +721,14 @@
       "onboard_time": 1673753304,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 311790,
+      "num": 332920,
+      "word": "全球首架C919国产大飞机首达青岛",
+      "onboard_time": 1673769326,
+      "rank": 19,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 308270,
@@ -985,14 +1001,6 @@
       "onboard_time": 1673763746,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 242464,
-      "num": 332920,
-      "word": "全球首架C919国产大飞机首达青岛",
-      "onboard_time": 1673769326,
-      "rank": 19,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 241733,
@@ -1315,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162530,
+      "num": 162530,
+      "word": "如何判断睡眠是否出现问题",
+      "onboard_time": 1673770229,
+      "rank": 37,
+      "category": "社会议题,科技"
+    },
+    {
       "raw_hot": 162028,
       "num": 147657,
       "word": "狂飙首播的收视率",
@@ -1363,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146857,
+      "num": 146857,
+      "word": "这是2只凤凰在打架吧",
+      "onboard_time": 1673771248,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142927,
       "num": 150615,
       "word": "曼联2比1曼城",
@@ -1380,7 +1404,7 @@
     },
     {
       "raw_hot": 140807,
-      "num": 949219,
+      "num": 1093265,
       "word": "这一幕幕就是回家的意义",
       "onboard_time": 1673750902,
       "rank": 36,
@@ -1465,14 +1489,6 @@
       "onboard_time": 1673756485,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124406,
-      "num": 124406,
-      "word": "如何判断睡眠是否出现问题",
-      "onboard_time": 1673770229,
-      "rank": 37,
-      "category": "社会议题,科技"
     },
     {
       "raw_hot": 122359,
@@ -1831,6 +1847,9 @@
     },
     {
       "word": "#这份新春约定风雪无阻暖人心扉#"
+    },
+    {
+      "word": "#聚焦2023年春运#"
     }
   ]
 }
