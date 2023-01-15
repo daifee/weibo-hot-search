@@ -1,0 +1,410 @@
+{
+  "runTime": 1673796812239,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6310190,
+        "num": 6310190,
+        "word": "假唱",
+        "onboard_time": 1673789131,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1697461,
+        "num": 1697461,
+        "word": "三体",
+        "onboard_time": 1673777187,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30469,
+        "num": 1179442,
+        "word": "这一幕幕就是回家的意义",
+        "onboard_time": 1673750902,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1127465,
+        "num": 1127465,
+        "word": "王传君演丁仪",
+        "onboard_time": 1673794656,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1069930,
+        "num": 1069930,
+        "word": "上海39平米的家是什么样",
+        "onboard_time": 1673793639,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 619581,
+        "num": 619581,
+        "word": "买8寸蛋糕直径少4厘米索赔遭怼",
+        "onboard_time": 1673791175,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556113,
+        "num": 556113,
+        "word": "爸爸遛丢8岁女儿妈妈急得大哭",
+        "onboard_time": 1673788109,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454145,
+        "num": 454145,
+        "word": "银行回应三个窗口只开一个惹市民不满",
+        "onboard_time": 1673787511,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373968,
+        "num": 373968,
+        "word": "女子住全季酒店遇保安深夜刷卡进房",
+        "onboard_time": 1673784987,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342822,
+        "num": 342822,
+        "word": "尼泊尔载72人坠毁客机失事瞬间",
+        "onboard_time": 1673773526,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 918292,
+        "num": 342767,
+        "word": "三体首播收视率",
+        "onboard_time": 1673788891,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 799550,
+        "num": 342702,
+        "word": "何炅 嗓子",
+        "onboard_time": 1673785528,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 854794,
+        "num": 342613,
+        "word": "三体赢麻了",
+        "onboard_time": 1673796212,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342450,
+        "num": 342450,
+        "word": "餐厅就别搞这种顶灯了吧",
+        "onboard_time": 1673794959,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 338794,
+        "num": 338794,
+        "word": "王者荣耀",
+        "onboard_time": 1673778988,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 332939,
+        "num": 332939,
+        "word": "看起来很贵其实很便宜的东西",
+        "onboard_time": 1673786254,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 327520,
+        "num": 327520,
+        "word": "多人在辽宁盘锦化工厂爆炸事故中失联",
+        "onboard_time": 1673789192,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 197673,
+        "num": 197673,
+        "word": "肚子为什么容易长肉",
+        "onboard_time": 1673785168,
+        "rank": 17,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 195240,
+        "num": 195240,
+        "word": "尼泊尔空难已造成至少67人死亡",
+        "onboard_time": 1673781751,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 191002,
+        "num": 191002,
+        "word": "曹德旺捐100亿元建世界一流名校",
+        "onboard_time": 1673769988,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747970,
+        "num": 190939,
+        "word": "张兰评论张颖颖心机女",
+        "onboard_time": 1673794237,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751322,
+        "num": 190918,
+        "word": "郑秀妍晒Jennie舞台",
+        "onboard_time": 1673795197,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 588663,
+        "num": 190856,
+        "word": "时代少年团唱波斯猫",
+        "onboard_time": 1673790515,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 583390,
+        "num": 190759,
+        "word": "张艺兴面纱舞台脸链造型",
+        "onboard_time": 1673795433,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171627,
+        "num": 190731,
+        "word": "113位王者英雄大合唱",
+        "onboard_time": 1673789975,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162809,
+        "num": 190658,
+        "word": "深圳男篮主帅场边昏倒",
+        "onboard_time": 1673794838,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154416,
+        "num": 190574,
+        "word": "女子清洗4年窗帘灰色变粉色",
+        "onboard_time": 1673772748,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149807,
+        "num": 190515,
+        "word": "KPL转会期的瓜给我转懵了",
+        "onboard_time": 1673790694,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132967,
+        "num": 190449,
+        "word": "NIP战胜UP",
+        "onboard_time": 1673787390,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131291,
+        "num": 190394,
+        "word": "洛阳小伙2年集齐一二三等功",
+        "onboard_time": 1673792436,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534806,
+        "num": 190345,
+        "word": "三体首播口碑",
+        "onboard_time": 1673791836,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 533006,
+        "num": 190295,
+        "word": "吴昕终于分到话了",
+        "onboard_time": 1673793278,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426887,
+        "num": 190206,
+        "word": "蒋依依开场舞",
+        "onboard_time": 1673788351,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167019,
+        "num": 190134,
+        "word": "雪天户外吃席8个凉菜被冻成冰雕",
+        "onboard_time": 1673795857,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126631,
+        "num": 190066,
+        "word": "尼泊尔失事飞机上无中国公民",
+        "onboard_time": 1673795557,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 153533,
+        "num": 190051,
+        "word": "尼泊尔失事客机上72人全部遇难",
+        "onboard_time": 1673796453,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 127116,
+        "num": 189988,
+        "word": "学到了一种很新的拒绝方式",
+        "onboard_time": 1673796031,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 117491,
+        "num": 189906,
+        "word": "TES 钎城",
+        "onboard_time": 1673778388,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114366,
+        "num": 189803,
+        "word": "狼队Fly现身米兰看秀",
+        "onboard_time": 1673790275,
+        "rank": 38,
+        "category": "游戏,时尚"
+      },
+      {
+        "raw_hot": 114174,
+        "num": 189779,
+        "word": "尼泊尔客机坠毁前最后画面",
+        "onboard_time": 1673777489,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 426175,
+        "num": 189682,
+        "word": "赵丽颖哽咽朗诵致敬张桂梅",
+        "onboard_time": 1673793220,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365456,
+        "num": 189636,
+        "word": "东北人对锅包肉的执念有多强",
+        "onboard_time": 1673796692,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109099,
+        "num": 189569,
+        "word": "ming",
+        "onboard_time": 1673781870,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105986,
+        "num": 189524,
+        "word": "开肩美背 仪态救星",
+        "onboard_time": 1673790816,
+        "rank": 43,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 102670,
+        "num": 189424,
+        "word": "南海海域山东舰上多架歼15起飞",
+        "onboard_time": 1673787990,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 99842,
+        "num": 189369,
+        "word": "中科大提出生育力保存新方法",
+        "onboard_time": 1673773647,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 99065,
+        "num": 189313,
+        "word": "你画我猜这个游戏好离谱",
+        "onboard_time": 1673789494,
+        "rank": 46,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 98288,
+        "num": 189267,
+        "word": "顾客称就餐磕碎桌面被要求赔1300元",
+        "onboard_time": 1673787210,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95000,
+        "num": 189215,
+        "word": "GALA出场秀",
+        "onboard_time": 1673780969,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85258,
+        "num": 189156,
+        "word": "Cat LGD",
+        "onboard_time": 1673783248,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#这份新春约定风雪无阻暖人心扉#"
+    }
+  }
+}
