@@ -1,0 +1,410 @@
+{
+  "runTime": 1673777900861,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1304663,
+        "num": 1304663,
+        "word": "曹德旺捐100亿元建世界一流名校",
+        "onboard_time": 1673769988,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201400,
+        "num": 1201400,
+        "word": "女子清洗4年窗帘灰色变粉色",
+        "onboard_time": 1673772748,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81730,
+        "num": 1004822,
+        "word": "这一幕幕就是回家的意义",
+        "onboard_time": 1673750902,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817090,
+        "num": 817090,
+        "word": "尼泊尔载72人坠毁客机失事瞬间",
+        "onboard_time": 1673773526,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 780360,
+        "num": 780360,
+        "word": "中科大提出生育力保存新方法",
+        "onboard_time": 1673773647,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 607402,
+        "num": 607402,
+        "word": "三体",
+        "onboard_time": 1673777187,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463102,
+        "num": 463102,
+        "word": "新娘婚纱配皮草有多惊艳",
+        "onboard_time": 1673766866,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456017,
+        "num": 456017,
+        "word": "AG 百兽",
+        "onboard_time": 1673775625,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 396500,
+        "num": 396500,
+        "word": "杨迪家过年像极了我家",
+        "onboard_time": 1673775448,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376789,
+        "num": 376789,
+        "word": "宋亚轩的笑从小到大都没变",
+        "onboard_time": 1673776589,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660625,
+        "num": 375899,
+        "word": "尼泊尔空难已造成至少45人死亡",
+        "onboard_time": 1673769088,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 400388,
+        "num": 375723,
+        "word": "毕节3名幼童家门口玩耍时失踪",
+        "onboard_time": 1673774969,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 374822,
+        "num": 374822,
+        "word": "毛晓彤湖南卫视春晚造型花絮",
+        "onboard_time": 1673775569,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354574,
+        "num": 354574,
+        "word": "KSG 今屿",
+        "onboard_time": 1673773348,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350067,
+        "num": 350067,
+        "word": "古装发带有多绝",
+        "onboard_time": 1673768307,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347878,
+        "num": 347878,
+        "word": "被体重吓到的小猫",
+        "onboard_time": 1673775388,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 345106,
+        "num": 345106,
+        "word": "这是2只凤凰在打架吧",
+        "onboard_time": 1673771248,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344246,
+        "num": 344246,
+        "word": "南方人可看不得这个",
+        "onboard_time": 1673774607,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333532,
+        "num": 333532,
+        "word": "因为iKON才有中国有嘻哈",
+        "onboard_time": 1673763928,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231726,
+        "num": 231726,
+        "word": "出生三年驾龄两年",
+        "onboard_time": 1673772447,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276131,
+        "num": 225843,
+        "word": "黄海工作室致歉声明",
+        "onboard_time": 1673770407,
+        "rank": 20,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 268282,
+        "num": 222820,
+        "word": "张艺谋希望从春节档开始中国电影能有一个起飞",
+        "onboard_time": 1673765127,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247455,
+        "num": 221664,
+        "word": "NewJeans新歌OMG舞台ending",
+        "onboard_time": 1673771067,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216542,
+        "num": 216542,
+        "word": "全球首架C919国产大飞机首达青岛",
+        "onboard_time": 1673769326,
+        "rank": 23,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 207431,
+        "num": 207431,
+        "word": "新娘结婚走红毯头顶被扣两盆麸子",
+        "onboard_time": 1673766148,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205485,
+        "num": 205485,
+        "word": "独生女远嫁过年和老公决定各找各妈",
+        "onboard_time": 1673755465,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202937,
+        "num": 202937,
+        "word": "红军吃有毒野草充饥眼睛全红",
+        "onboard_time": 1673774308,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194201,
+        "num": 194201,
+        "word": "尼泊尔一客机坠毁机上载有68名乘客",
+        "onboard_time": 1673763324,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 186171,
+        "num": 186171,
+        "word": "多人因假冒王思聪行骗被判刑",
+        "onboard_time": 1673757445,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185614,
+        "num": 185614,
+        "word": "尼泊尔就坠机事件召开紧急内阁会议",
+        "onboard_time": 1673776948,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 234530,
+        "num": 185352,
+        "word": "三体电视剧今日开播",
+        "onboard_time": 1673752226,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203388,
+        "num": 184905,
+        "word": "郭晓婷男人装开年刊封面",
+        "onboard_time": 1673758649,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201908,
+        "num": 184568,
+        "word": "成毅说没有被家里催过婚",
+        "onboard_time": 1673770706,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200970,
+        "num": 184142,
+        "word": "肖铎步音楼的爱都藏在细节里",
+        "onboard_time": 1673775145,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183845,
+        "num": 183845,
+        "word": "尼泊尔客机坠毁前最后画面",
+        "onboard_time": 1673777489,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 162095,
+        "num": 162095,
+        "word": "浙江队1比2山东泰山",
+        "onboard_time": 1673776169,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161231,
+        "num": 161231,
+        "word": "新华人寿原董事长万峰已经失联",
+        "onboard_time": 1673765306,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160733,
+        "num": 160733,
+        "word": "这狗怎么欺负狗啊",
+        "onboard_time": 1673775809,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152871,
+        "num": 152871,
+        "word": "尼泊尔飞机坠毁找到30具遗体",
+        "onboard_time": 1673767107,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 149141,
+        "num": 149141,
+        "word": "盘锦一化工厂起火爆炸",
+        "onboard_time": 1673772867,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 193138,
+        "num": 146978,
+        "word": "陈奕迅演唱会尾场终极ENCORE",
+        "onboard_time": 1673774186,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197858,
+        "num": 145672,
+        "word": "于和伟回复吕严来三体看大史",
+        "onboard_time": 1673765667,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186415,
+        "num": 144350,
+        "word": "时代少年团波斯猫舞台彩排",
+        "onboard_time": 1673776650,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141274,
+        "num": 141274,
+        "word": "足协杯",
+        "onboard_time": 1673777249,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139121,
+        "num": 139121,
+        "word": "阿尼亚是懂打亚索的",
+        "onboard_time": 1673777187,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137169,
+        "num": 137169,
+        "word": "警察带走候车厅抽烟女子群众拍手称快",
+        "onboard_time": 1673765188,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132896,
+        "num": 132896,
+        "word": "豌豆尖在川渝的地位有多高",
+        "onboard_time": 1673763385,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132278,
+        "num": 132278,
+        "word": "狗子竟然被当成暖手宝",
+        "onboard_time": 1673777366,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99574,
+        "num": 131516,
+        "word": "梓墨暖阳玫瑰挑染",
+        "onboard_time": 1673771785,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93282,
+        "num": 130835,
+        "word": "如何判断睡眠是否出现问题",
+        "onboard_time": 1673770229,
+        "rank": 49,
+        "category": "社会议题,科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春足迹#"
+    }
+  }
+}
