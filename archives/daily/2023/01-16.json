@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673802934664,
+  "endTime": 1673804034223,
   "band_list": [
     {
       "raw_hot": 2443672,
@@ -275,7 +275,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144037,
+      "raw_hot": 155501,
       "num": 180266,
       "word": "结个婚被笑话三年",
       "onboard_time": 1673799745,
@@ -305,6 +305,30 @@
       "onboard_time": 1673785168,
       "rank": 27,
       "category": "其它"
+    },
+    {
+      "raw_hot": 111185,
+      "num": 82880,
+      "word": "你如何看待假唱",
+      "onboard_time": 1673802142,
+      "rank": 35,
+      "category": "综艺,情感"
+    },
+    {
+      "raw_hot": 109177,
+      "num": 82289,
+      "word": "三体隐藏细节",
+      "onboard_time": 1673803458,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 107154,
+      "num": 116671,
+      "word": "尼泊尔飞机坠毁前或曾尝试着陆",
+      "onboard_time": 1673802083,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 104161,
@@ -427,20 +451,28 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 60479,
-      "num": 116671,
-      "word": "尼泊尔飞机坠毁前或曾尝试着陆",
-      "onboard_time": 1673802083,
-      "rank": 39,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 60075,
       "num": 180413,
       "word": "南海海域山东舰上多架歼15起飞",
       "onboard_time": 1673787990,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 37381,
+      "num": 81720,
+      "word": "Cat LGD",
+      "onboard_time": 1673783248,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 34958,
+      "num": 81290,
+      "word": "千里江山图就是照着它画的吧",
+      "onboard_time": 1673803400,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 19455,
