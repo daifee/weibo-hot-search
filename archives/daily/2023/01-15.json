@@ -1,6 +1,6 @@
 {
   "startTime": 1673713412094,
-  "endTime": 1673781270335,
+  "endTime": 1673782391318,
   "band_list": [
     {
       "raw_hot": 3379508,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1167544,
+      "num": 1167544,
+      "word": "三体",
+      "onboard_time": 1673777187,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1146799,
       "num": 1146799,
       "word": "多人因假冒王思聪行骗被判刑",
@@ -129,14 +137,6 @@
       "onboard_time": 1673699730,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1039748,
-      "num": 1039748,
-      "word": "三体",
-      "onboard_time": 1673777187,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1008933,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 811715,
+      "num": 477004,
+      "word": "陈玺达",
+      "onboard_time": 1673781388,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 784878,
       "num": 784878,
       "word": "桂林一酒吧卫生间疑装双面镜",
@@ -273,6 +281,14 @@
       "onboard_time": 1673760447,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 730931,
+      "num": 730931,
+      "word": "周雨彤染粉紫发",
+      "onboard_time": 1673780669,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 726804,
@@ -387,6 +403,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 550005,
+      "num": 550005,
+      "word": "撒贝宁的鞋跟",
+      "onboard_time": 1673778809,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 549798,
+      "num": 473271,
+      "word": "GALA出场秀",
+      "onboard_time": 1673780969,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 547068,
       "num": 547068,
       "word": "黄海工作室致歉声明",
@@ -427,14 +459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 536201,
-      "num": 536201,
-      "word": "周雨彤染粉紫发",
-      "onboard_time": 1673780669,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 531573,
       "num": 531573,
       "word": "新娘婚纱配皮草有多惊艳",
@@ -449,6 +473,14 @@
       "onboard_time": 1673771248,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 514417,
+      "num": 514417,
+      "word": "冰尘再见",
+      "onboard_time": 1673781269,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 513987,
@@ -515,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 498956,
-      "num": 498956,
-      "word": "撒贝宁的鞋跟",
-      "onboard_time": 1673778809,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 498210,
       "num": 449554,
       "word": "萨顶顶说看着迪丽热巴的眼睛眼泪就下来了",
@@ -577,6 +601,14 @@
       "onboard_time": 1673750845,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 463892,
+      "num": 463892,
+      "word": "小朋友把山东的雪带回福建半路大哭",
+      "onboard_time": 1673779649,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 459510,
@@ -675,11 +707,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412925,
+      "num": 412925,
+      "word": "张艺兴逆应援给粉丝送奶茶",
+      "onboard_time": 1673781388,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412074,
       "num": 229150,
       "word": "新华社评去有风的地方热播",
       "onboard_time": 1673708671,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 402046,
+      "num": 402046,
+      "word": "王凯说顾南亭没有遗憾了",
+      "onboard_time": 1673780909,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -803,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358244,
+      "num": 358244,
+      "word": "狗子竟然被当成暖手宝",
+      "onboard_time": 1673777366,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 354944,
       "num": 218982,
       "word": "王一博无名首舞台",
@@ -851,14 +907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 338090,
-      "num": 338090,
-      "word": "王凯说顾南亭没有遗憾了",
-      "onboard_time": 1673780909,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 337846,
       "num": 183380,
       "word": "时代少年团元宇宙盛典互送祝福",
@@ -875,28 +923,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 334211,
-      "num": 334211,
-      "word": "小朋友把山东的雪带回福建半路大哭",
-      "onboard_time": 1673779649,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333581,
       "num": 333581,
       "word": "88岁老人临终为老伴擦泪不舍告别",
       "onboard_time": 1673748684,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329882,
-      "num": 329882,
-      "word": "狗子竟然被当成暖手宝",
-      "onboard_time": 1673777366,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 327458,
@@ -971,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297810,
+      "num": 297810,
+      "word": "尼泊尔空难已造成至少67人死亡",
+      "onboard_time": 1673781751,
+      "rank": 20,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 295058,
       "num": 269208,
       "word": "丁程鑫张真源贺峻霖合作曲亲亲爱",
@@ -1025,6 +1065,14 @@
       "onboard_time": 1673779829,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281059,
+      "num": 281059,
+      "word": "60位台湾政商及文艺界名人资料疑遭外泄",
+      "onboard_time": 1673782170,
+      "rank": 21,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 275582,
@@ -1249,6 +1297,14 @@
       "onboard_time": 1673761767,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244873,
+      "num": 180854,
+      "word": "许红豆说谢之遥你可真猛",
+      "onboard_time": 1673781568,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 243983,
@@ -1547,14 +1603,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 177933,
-      "num": 177933,
-      "word": "GALA出场秀",
-      "onboard_time": 1673780969,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 177706,
       "num": 150072,
       "word": "谢之遥只有时间和许红豆谈朋友",
@@ -1675,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162193,
+      "num": 162193,
+      "word": "ming",
+      "onboard_time": 1673781870,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162095,
       "num": 162095,
       "word": "浙江队1比2山东泰山",
@@ -1721,6 +1777,14 @@
       "onboard_time": 1673769627,
       "rank": 35,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 156386,
+      "num": 156386,
+      "word": "一看就是老一辈带大的",
+      "onboard_time": 1673781568,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 154010,
@@ -1780,7 +1844,7 @@
     },
     {
       "raw_hot": 138265,
-      "num": 138265,
+      "num": 140112,
       "word": "KPL御三家接力合拍",
       "onboard_time": 1673777908,
       "rank": 43,

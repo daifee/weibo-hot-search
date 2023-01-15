@@ -1,0 +1,410 @@
+{
+  "runTime": 1673782391318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1659518,
+        "num": 1659518,
+        "word": "王者荣耀",
+        "onboard_time": 1673778988,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1167544,
+        "num": 1167544,
+        "word": "三体",
+        "onboard_time": 1673777187,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52025,
+        "num": 1061255,
+        "word": "这一幕幕就是回家的意义",
+        "onboard_time": 1673750902,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984069,
+        "num": 984069,
+        "word": "曹德旺捐100亿元建世界一流名校",
+        "onboard_time": 1673769988,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944049,
+        "num": 944049,
+        "word": "尼泊尔载72人坠毁客机失事瞬间",
+        "onboard_time": 1673773526,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 730931,
+        "num": 730931,
+        "word": "周雨彤染粉紫发",
+        "onboard_time": 1673780669,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 729314,
+        "num": 729314,
+        "word": "女子清洗4年窗帘灰色变粉色",
+        "onboard_time": 1673772748,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550005,
+        "num": 550005,
+        "word": "撒贝宁的鞋跟",
+        "onboard_time": 1673778809,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514417,
+        "num": 514417,
+        "word": "冰尘再见",
+        "onboard_time": 1673781269,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 488429,
+        "num": 488429,
+        "word": "中科大提出生育力保存新方法",
+        "onboard_time": 1673773647,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 811715,
+        "num": 477004,
+        "word": "陈玺达",
+        "onboard_time": 1673781388,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549798,
+        "num": 473271,
+        "word": "GALA出场秀",
+        "onboard_time": 1673780969,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 463892,
+        "num": 463892,
+        "word": "小朋友把山东的雪带回福建半路大哭",
+        "onboard_time": 1673779649,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458584,
+        "num": 458584,
+        "word": "TES 钎城",
+        "onboard_time": 1673778388,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 419668,
+        "num": 419668,
+        "word": "尼泊尔客机坠毁前最后画面",
+        "onboard_time": 1673777489,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 412925,
+        "num": 412925,
+        "word": "张艺兴逆应援给粉丝送奶茶",
+        "onboard_time": 1673781388,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402046,
+        "num": 402046,
+        "word": "王凯说顾南亭没有遗憾了",
+        "onboard_time": 1673780909,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358244,
+        "num": 358244,
+        "word": "狗子竟然被当成暖手宝",
+        "onboard_time": 1673777366,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331839,
+        "num": 331839,
+        "word": "新娘婚纱配皮草有多惊艳",
+        "onboard_time": 1673766866,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309239,
+        "num": 309239,
+        "word": "南方人可看不得这个",
+        "onboard_time": 1673774607,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297810,
+        "num": 297810,
+        "word": "尼泊尔空难已造成至少67人死亡",
+        "onboard_time": 1673781751,
+        "rank": 20,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 281059,
+        "num": 281059,
+        "word": "60位台湾政商及文艺界名人资料疑遭外泄",
+        "onboard_time": 1673782170,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 276658,
+        "num": 276658,
+        "word": "古装发带有多绝",
+        "onboard_time": 1673768307,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274939,
+        "num": 274939,
+        "word": "被体重吓到的小猫",
+        "onboard_time": 1673775388,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 273469,
+        "num": 273469,
+        "word": "黄海工作室致歉声明",
+        "onboard_time": 1673770407,
+        "rank": 24,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 258337,
+        "num": 258337,
+        "word": "华晨宇粉丝线下合唱向阳而生",
+        "onboard_time": 1673779349,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257206,
+        "num": 257206,
+        "word": "AG 百兽",
+        "onboard_time": 1673775625,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193827,
+        "num": 193827,
+        "word": "毕节3名幼童家门口玩耍时失踪",
+        "onboard_time": 1673774969,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 192899,
+        "num": 192899,
+        "word": "KSG 今屿",
+        "onboard_time": 1673773348,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184117,
+        "num": 184117,
+        "word": "全球首架C919国产大飞机首达青岛",
+        "onboard_time": 1673769326,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 262576,
+        "num": 182677,
+        "word": "杨迪家过年像极了我家",
+        "onboard_time": 1673775448,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252087,
+        "num": 181232,
+        "word": "毛晓彤湖南卫视春晚造型花絮",
+        "onboard_time": 1673775569,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244873,
+        "num": 180854,
+        "word": "许红豆说谢之遥你可真猛",
+        "onboard_time": 1673781568,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229652,
+        "num": 178143,
+        "word": "TF家族四代最新营业照",
+        "onboard_time": 1673779829,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177615,
+        "num": 177615,
+        "word": "OMG对战RNG",
+        "onboard_time": 1673780609,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175087,
+        "num": 175087,
+        "word": "尼泊尔空难已造成至少45人死亡",
+        "onboard_time": 1673769088,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 162193,
+        "num": 162193,
+        "word": "ming",
+        "onboard_time": 1673781870,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160449,
+        "num": 160449,
+        "word": "这是2只凤凰在打架吧",
+        "onboard_time": 1673771248,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156386,
+        "num": 156386,
+        "word": "一看就是老一辈带大的",
+        "onboard_time": 1673781568,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154137,
+        "num": 154137,
+        "word": "新娘结婚走红毯头顶被扣两盆麸子",
+        "onboard_time": 1673766148,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228392,
+        "num": 153984,
+        "word": "因为iKON才有中国有嘻哈",
+        "onboard_time": 1673763928,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150158,
+        "num": 150158,
+        "word": "尼泊尔官员称坠机上3人获救送医",
+        "onboard_time": 1673781208,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 142205,
+        "num": 142205,
+        "word": "红军吃有毒野草充饥眼睛全红",
+        "onboard_time": 1673774308,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140456,
+        "num": 140456,
+        "word": "王者兔限CG预告片",
+        "onboard_time": 1673778088,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127409,
+        "num": 140399,
+        "word": "新华人寿原董事长万峰已经失联",
+        "onboard_time": 1673765306,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118847,
+        "num": 140350,
+        "word": "独生女远嫁过年和老公决定各找各妈",
+        "onboard_time": 1673755465,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110942,
+        "num": 140273,
+        "word": "出生三年驾龄两年",
+        "onboard_time": 1673772447,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105630,
+        "num": 140196,
+        "word": "警察带走候车厅抽烟女子群众拍手称快",
+        "onboard_time": 1673765188,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102251,
+        "num": 140145,
+        "word": "多人因假冒王思聪行骗被判刑",
+        "onboard_time": 1673757445,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97423,
+        "num": 140112,
+        "word": "KPL御三家接力合拍",
+        "onboard_time": 1673777908,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#这份新春约定风雪无阻暖人心扉#"
+    }
+  }
+}
