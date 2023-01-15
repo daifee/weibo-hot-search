@@ -1,7 +1,15 @@
 {
   "startTime": 1673713412094,
-  "endTime": 1673789598331,
+  "endTime": 1673792126973,
   "band_list": [
+    {
+      "raw_hot": 5472837,
+      "num": 1251037,
+      "word": "假唱",
+      "onboard_time": 1673789131,
+      "rank": 10,
+      "category": "综艺"
+    },
     {
       "raw_hot": 3379508,
       "num": 402303,
@@ -9,6 +17,14 @@
       "onboard_time": 1673757566,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3263499,
+      "num": 3263499,
+      "word": "三体",
+      "onboard_time": 1673777187,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 2635715,
@@ -83,14 +99,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1473356,
-      "num": 1473356,
-      "word": "三体",
-      "onboard_time": 1673777187,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1300666,
       "num": 1300666,
       "word": "黄仁俊",
@@ -123,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1187779,
-      "num": 422728,
-      "word": "假唱",
-      "onboard_time": 1673789131,
-      "rank": 10,
-      "category": "综艺"
+      "raw_hot": 1161971,
+      "num": 418580,
+      "word": "三体首播收视率",
+      "onboard_time": 1673788891,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 1146799,
@@ -155,12 +163,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1099892,
+      "num": 414202,
+      "word": "时代少年团唱波斯猫",
+      "onboard_time": 1673790515,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1085908,
+      "num": 1085908,
+      "word": "银行回应三个窗口只开一个惹市民不满",
+      "onboard_time": 1673787511,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1079385,
       "num": 390766,
       "word": "老人在医院撩女子裙底",
       "onboard_time": 1673742923,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1078951,
+      "num": 1078951,
+      "word": "爸爸遛丢8岁女儿妈妈急得大哭",
+      "onboard_time": 1673788109,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1070938,
@@ -184,14 +216,6 @@
       "word": "独生女远嫁过年和老公决定各找各妈",
       "onboard_time": 1673755465,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 941758,
-      "num": 941758,
-      "word": "银行回应三个窗口只开一个惹市民不满",
-      "onboard_time": 1673787511,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -236,11 +260,19 @@
     },
     {
       "raw_hot": 898498,
-      "num": 400748,
+      "num": 411089,
       "word": "蒋依依开场舞",
       "onboard_time": 1673788351,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 867686,
+      "num": 867686,
+      "word": "看起来很贵其实很便宜的东西",
+      "onboard_time": 1673786254,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 861698,
@@ -355,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 745672,
-      "num": 211517,
-      "word": "三体首播收视率",
-      "onboard_time": 1673788891,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 735124,
       "num": 463464,
       "word": "二胎妈妈下决心和家暴老公离婚",
@@ -448,14 +472,6 @@
       "word": "重庆下雪",
       "onboard_time": 1673737275,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 643928,
-      "num": 410090,
-      "word": "爸爸遛丢8岁女儿妈妈急得大哭",
-      "onboard_time": 1673788109,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -732,7 +748,7 @@
     },
     {
       "raw_hot": 467948,
-      "num": 177038,
+      "num": 263953,
       "word": "浮图缘船戏不够看",
       "onboard_time": 1673787210,
       "rank": 31,
@@ -771,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451917,
+      "num": 264858,
+      "word": "刘宇宁超越舞台红西装造型",
+      "onboard_time": 1673791414,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449372,
       "num": 449372,
       "word": "古装发带有多绝",
@@ -793,14 +817,6 @@
       "onboard_time": 1673777489,
       "rank": 34,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 442343,
-      "num": 396173,
-      "word": "看起来很贵其实很便宜的东西",
-      "onboard_time": 1673786254,
-      "rank": 39,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 436358,
@@ -891,6 +907,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 397418,
+      "num": 397418,
+      "word": "多人在辽宁盘锦化工厂爆炸事故中失联",
+      "onboard_time": 1673789192,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 396500,
       "num": 396500,
       "word": "杨迪家过年像极了我家",
@@ -931,11 +955,35 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 393019,
+      "num": 393019,
+      "word": "买8寸蛋糕直径少4厘米索赔遭怼",
+      "onboard_time": 1673791175,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392860,
+      "num": 264739,
+      "word": "周杰伦马来西亚演唱会",
+      "onboard_time": 1673790873,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 389245,
       "num": 389245,
       "word": "华晨宇粉丝线下合唱向阳而生",
       "onboard_time": 1673779349,
       "rank": 11,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 387691,
+      "num": 264688,
+      "word": "陈楚生说我在何地是问题也是回答",
+      "onboard_time": 1673791596,
+      "rank": 32,
       "category": "音乐"
     },
     {
@@ -1043,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360320,
+      "num": 264595,
+      "word": "何润东和老婆一起追浮图缘好甜",
+      "onboard_time": 1673789614,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 359600,
       "num": 175707,
       "word": "无名好听",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1673752827,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337398,
+      "num": 263959,
+      "word": "三体首播口碑",
+      "onboard_time": 1673791836,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 335402,
@@ -1596,7 +1660,7 @@
     },
     {
       "raw_hot": 241472,
-      "num": 241472,
+      "num": 263363,
       "word": "尼泊尔官员称坠机上3人获救送医",
       "onboard_time": 1673781208,
       "rank": 33,
@@ -1649,6 +1713,14 @@
       "onboard_time": 1673778447,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235025,
+      "num": 265704,
+      "word": "顾客称就餐磕碎桌面被要求赔1300元",
+      "onboard_time": 1673787210,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231972,
@@ -1704,14 +1776,6 @@
       "word": "红军吃有毒野草充饥眼睛全红",
       "onboard_time": 1673774308,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218707,
-      "num": 218707,
-      "word": "顾客称就餐磕碎桌面被要求赔1300元",
-      "onboard_time": 1673787210,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1819,6 +1883,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 194492,
+      "num": 265298,
+      "word": "113位王者英雄大合唱",
+      "onboard_time": 1673789975,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194129,
       "num": 170655,
       "word": "平遥国际电影展",
@@ -1873,6 +1945,14 @@
       "onboard_time": 1673752705,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 186784,
+      "num": 265208,
+      "word": "南海海域山东舰上多架歼15起飞",
+      "onboard_time": 1673787990,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 186057,
@@ -1956,7 +2036,7 @@
     },
     {
       "raw_hot": 172380,
-      "num": 172380,
+      "num": 264103,
       "word": "委屈但不冤枉的狗狗",
       "onboard_time": 1673785470,
       "rank": 49,
@@ -1977,6 +2057,14 @@
       "onboard_time": 1673744242,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169426,
+      "num": 265078,
+      "word": "你画我猜这个游戏好离谱",
+      "onboard_time": 1673789494,
+      "rank": 47,
+      "category": "游戏,幽默"
     },
     {
       "raw_hot": 168802,
@@ -2075,12 +2163,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159975,
-      "num": 159975,
-      "word": "南海海域山东舰上多架歼15起飞",
-      "onboard_time": 1673787990,
-      "rank": 45,
-      "category": "军事"
+      "raw_hot": 159730,
+      "num": 264949,
+      "word": "狼队Fly现身米兰看秀",
+      "onboard_time": 1673790275,
+      "rank": 28,
+      "category": "游戏,时尚"
     },
     {
       "raw_hot": 158462,
@@ -2120,6 +2208,14 @@
       "word": "阿尼亚是懂打亚索的",
       "onboard_time": 1673777187,
       "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 151638,
+      "num": 264474,
+      "word": "KPL转会期的瓜给我转懵了",
+      "onboard_time": 1673790694,
+      "rank": 34,
       "category": "游戏"
     },
     {
@@ -2275,14 +2371,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 121884,
-      "num": 121884,
-      "word": "多人在辽宁盘锦化工厂爆炸事故中失联",
-      "onboard_time": 1673789192,
-      "rank": 43,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 121378,
       "num": 150525,
       "word": "偶像梦幻祭",
@@ -2363,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107219,
+      "num": 263820,
+      "word": "开肩美背 仪态救星",
+      "onboard_time": 1673790816,
+      "rank": 42,
+      "category": "其它"
+    },
+    {
       "raw_hot": 106916,
       "num": 106916,
       "word": "妈妈吐槽儿子过年没领儿媳却带只猫",
@@ -2377,14 +2473,6 @@
       "onboard_time": 1673704350,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105765,
-      "num": 105765,
-      "word": "你画我猜这个游戏好离谱",
-      "onboard_time": 1673789494,
-      "rank": 47,
-      "category": "游戏,幽默"
     },
     {
       "raw_hot": 105239,
