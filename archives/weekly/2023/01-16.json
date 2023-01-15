@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673799882537,
+  "endTime": 1673800838829,
   "band_list": [
     {
       "raw_hot": 2443672,
@@ -19,8 +19,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1336038,
-      "num": 1336038,
+      "raw_hot": 1437266,
+      "num": 1437266,
       "word": "汪涵 多给我们家一博机会",
       "onboard_time": 1673797468,
       "rank": 3,
@@ -59,7 +59,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 435936,
+      "raw_hot": 467751,
       "num": 285557,
       "word": "尼泊尔失事客机上72人全部遇难",
       "onboard_time": 1673796453,
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335503,
-      "num": 335503,
+      "raw_hot": 340368,
+      "num": 340368,
       "word": "女子住全季酒店遇保安深夜刷卡进房",
       "onboard_time": 1673784987,
       "rank": 7,
@@ -155,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277350,
+      "num": 277350,
+      "word": "王者荣耀",
+      "onboard_time": 1673778988,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 272054,
       "num": 182911,
       "word": "蒋依依开场舞",
       "onboard_time": 1673788351,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271793,
-      "num": 271793,
-      "word": "王者荣耀",
-      "onboard_time": 1673778988,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 268484,
@@ -195,6 +195,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 232880,
+      "num": 95850,
+      "word": "周杰伦马来西亚演唱会",
+      "onboard_time": 1673790873,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 220871,
+      "num": 93218,
+      "word": "徐怀钰状态",
+      "onboard_time": 1673799387,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217652,
       "num": 217652,
       "word": "尼泊尔载72人坠毁客机失事瞬间",
@@ -219,8 +235,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187384,
-      "num": 187384,
+      "raw_hot": 201135,
+      "num": 201135,
       "word": "这小朋友的胎教是甄嬛传吧",
       "onboard_time": 1673797291,
       "rank": 19,
@@ -235,12 +251,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 178115,
+      "raw_hot": 180585,
       "num": 184306,
       "word": "尼泊尔失事飞机上无中国公民",
       "onboard_time": 1673795557,
       "rank": 24,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 144037,
+      "num": 180266,
+      "word": "结个婚被笑话三年",
+      "onboard_time": 1673799745,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 136833,
@@ -267,19 +291,19 @@
       "category": "其它"
     },
     {
+      "raw_hot": 104161,
+      "num": 183541,
+      "word": "电竞人的搞笑天赋点满了",
+      "onboard_time": 1673797052,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103333,
       "num": 183584,
       "word": "NIP战胜UP",
       "onboard_time": 1673787390,
       "rank": 28,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 101076,
-      "num": 183541,
-      "word": "电竞人的搞笑天赋点满了",
-      "onboard_time": 1673797052,
-      "rank": 29,
       "category": "游戏"
     },
     {
@@ -387,10 +411,10 @@
       "category": "军事"
     },
     {
-      "raw_hot": 53193,
-      "num": 180266,
-      "word": "结个婚被笑话三年",
-      "onboard_time": 1673799745,
+      "raw_hot": 50714,
+      "num": 50714,
+      "word": "笑点太多不知道笑谁了",
+      "onboard_time": 1673800763,
       "rank": 49,
       "category": "幽默"
     },
