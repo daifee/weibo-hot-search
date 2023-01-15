@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673811205424,
+  "endTime": 1673813884348,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -38041,6 +38041,14 @@
       "onboard_time": 1672567231,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 23174,
+      "num": 19359,
+      "word": "原来吴昕是真的在种草",
+      "onboard_time": 1673808133,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 22817,
