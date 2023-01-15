@@ -1,0 +1,410 @@
+{
+  "runTime": 1673759779130,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1011117,
+        "num": 1011117,
+        "word": "多人因假冒王思聪行骗被判刑",
+        "onboard_time": 1673757445,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939779,
+        "num": 939779,
+        "word": "临摹10万张梵高的画见到真迹后却沉默",
+        "onboard_time": 1673738957,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71384,
+        "num": 876278,
+        "word": "春节回家带上这9个健康锦囊",
+        "onboard_time": 1673752765,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 871525,
+        "num": 871525,
+        "word": "独生女远嫁过年和老公决定各找各妈",
+        "onboard_time": 1673755465,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746281,
+        "num": 746281,
+        "word": "湖南卫视春晚节目单",
+        "onboard_time": 1673757867,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 723535,
+        "num": 723535,
+        "word": "尹烨称白肺可能不是新冠感染",
+        "onboard_time": 1673754806,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669316,
+        "num": 669316,
+        "word": "女孩见男友父母被赠红手帕包10001元",
+        "onboard_time": 1673754385,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641806,
+        "num": 641806,
+        "word": "七英俊再发文道歉",
+        "onboard_time": 1673750244,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 541078,
+        "num": 541078,
+        "word": "郭晓婷男人装开年刊封面",
+        "onboard_time": 1673758649,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 425085,
+        "num": 425085,
+        "word": "中国婆婆给俄罗斯儿媳买三金",
+        "onboard_time": 1673745982,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3379508,
+        "num": 402303,
+        "word": "刘大锤要曝全国人民都认识的喜剧演员",
+        "onboard_time": 1673757566,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477281,
+        "num": 396720,
+        "word": "任嘉伦一年拍三部戏一个综艺一张专辑",
+        "onboard_time": 1673752163,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445391,
+        "num": 377462,
+        "word": "管虎父亲管宗祥逝世",
+        "onboard_time": 1673758889,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350873,
+        "num": 350873,
+        "word": "恋与制作人背头",
+        "onboard_time": 1673757146,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 326192,
+        "num": 326192,
+        "word": "XBB可能缩短免疫保护期",
+        "onboard_time": 1673752163,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389638,
+        "num": 325055,
+        "word": "许红豆一眼认出许红米",
+        "onboard_time": 1673752465,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293878,
+        "num": 293878,
+        "word": "女子凌晨回家12名亲人在路边等候",
+        "onboard_time": 1673752827,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271352,
+        "num": 271352,
+        "word": "85岁老人被盗15只鸡2只鹅1条狗",
+        "onboard_time": 1673750063,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231286,
+        "num": 231286,
+        "word": "美国一彩票头奖开出13.5亿美元",
+        "onboard_time": 1673745145,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213775,
+        "num": 213775,
+        "word": "JackeyLove出道五周年",
+        "onboard_time": 1673753304,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 368056,
+        "num": 211521,
+        "word": "网传吴磊周雨彤爱情而已更名原来是爱情啊",
+        "onboard_time": 1673751805,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327196,
+        "num": 211150,
+        "word": "张艺兴飞天登迪拜世博园春节大巡游舞台",
+        "onboard_time": 1673756546,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209027,
+        "num": 209027,
+        "word": "上海下雪",
+        "onboard_time": 1673745744,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187215,
+        "num": 208991,
+        "word": "因为怕失温都不敢休息太长时间",
+        "onboard_time": 1673757867,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 172676,
+        "num": 208975,
+        "word": "韩滑冰教练协会狠批金善台安贤洙",
+        "onboard_time": 1673749644,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322610,
+        "num": 208896,
+        "word": "肖战王一博龚俊最新VCR状态",
+        "onboard_time": 1673748383,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312548,
+        "num": 208850,
+        "word": "三体电视剧今日开播",
+        "onboard_time": 1673752226,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159629,
+        "num": 208791,
+        "word": "恋与制作人",
+        "onboard_time": 1673757265,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158462,
+        "num": 208769,
+        "word": "一诺皇冠造型",
+        "onboard_time": 1673757204,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145444,
+        "num": 208725,
+        "word": "下雪",
+        "onboard_time": 1673745804,
+        "rank": 29,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 286825,
+        "num": 208665,
+        "word": "狂飙",
+        "onboard_time": 1673750845,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267172,
+        "num": 208620,
+        "word": "易烊千玺满江红戏里戏外反差",
+        "onboard_time": 1673757325,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156667,
+        "num": 208542,
+        "word": "华为2022年分红出炉",
+        "onboard_time": 1673758528,
+        "rank": 32,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 155166,
+        "num": 208522,
+        "word": "女子没阳不想带娃回老公家过年",
+        "onboard_time": 1673758889,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142566,
+        "num": 208466,
+        "word": "被中国非遗打铁花惊艳到了",
+        "onboard_time": 1673752705,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 143244,
+        "num": 208386,
+        "word": "莫兰特逆天隔扣",
+        "onboard_time": 1673751865,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124411,
+        "num": 208341,
+        "word": "这张嘴是开过光吗",
+        "onboard_time": 1673756485,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118426,
+        "num": 208287,
+        "word": "粉笔模考",
+        "onboard_time": 1673755045,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108588,
+        "num": 208261,
+        "word": "重庆下雪",
+        "onboard_time": 1673737275,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98972,
+        "num": 208190,
+        "word": "晚点",
+        "onboard_time": 1673759727,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266896,
+        "num": 208141,
+        "word": "张杰 掰手腕",
+        "onboard_time": 1673740338,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255800,
+        "num": 208108,
+        "word": "时代少年团湖南小年夜VCR",
+        "onboard_time": 1673759546,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97433,
+        "num": 208076,
+        "word": "B费说别用我的名字攻击C罗",
+        "onboard_time": 1673759126,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97036,
+        "num": 208012,
+        "word": "奶奶去世爸爸吹奏世上只有妈妈好",
+        "onboard_time": 1673743282,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 92239,
+        "num": 207965,
+        "word": "这个玩具看起来很不服气",
+        "onboard_time": 1673753304,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89720,
+        "num": 207888,
+        "word": "南方小年",
+        "onboard_time": 1673741362,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85044,
+        "num": 207874,
+        "word": "女生哭诉化妆品被6岁表妹全抠碎",
+        "onboard_time": 1673710649,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83134,
+        "num": 207809,
+        "word": "88岁老人临终为老伴擦泪不舍告别",
+        "onboard_time": 1673748684,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80890,
+        "num": 207755,
+        "word": "B费谈争议进球",
+        "onboard_time": 1673748265,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76781,
+        "num": 207727,
+        "word": "把烘焙做出了油画的感觉",
+        "onboard_time": 1673751444,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春足迹#"
+    }
+  }
+}
