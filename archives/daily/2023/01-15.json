@@ -1,6 +1,6 @@
 {
   "startTime": 1673713412094,
-  "endTime": 1673774205903,
+  "endTime": 1673775218968,
   "band_list": [
     {
       "raw_hot": 3379508,
@@ -43,12 +43,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1437118,
-      "num": 1437118,
+      "raw_hot": 1570058,
+      "num": 1570058,
       "word": "曹德旺捐100亿元建世界一流名校",
       "onboard_time": 1673769988,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1300666,
+      "num": 1300666,
+      "word": "黄仁俊",
+      "onboard_time": 1673773647,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1244010,
@@ -291,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 639064,
-      "num": 639064,
-      "word": "黄仁俊",
-      "onboard_time": 1673773647,
-      "rank": 5,
-      "category": "艺人"
+      "raw_hot": 648086,
+      "num": 648086,
+      "word": "女子清洗4年窗帘灰色变粉色",
+      "onboard_time": 1673772748,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 628700,
@@ -401,6 +409,14 @@
       "onboard_time": 1673763267,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 511196,
+      "num": 511196,
+      "word": "KSG 今屿",
+      "onboard_time": 1673773348,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 510759,
@@ -571,12 +587,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 417727,
-      "num": 384560,
-      "word": "女子清洗4年窗帘灰色变粉色",
-      "onboard_time": 1673772748,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 415735,
+      "num": 415735,
+      "word": "中科大提出生育力保存新方法",
+      "onboard_time": 1673773647,
+      "rank": 41,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 415012,
@@ -595,12 +611,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410587,
+      "num": 410587,
+      "word": "尼泊尔载72人坠毁客机失事瞬间",
+      "onboard_time": 1673773526,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 396379,
       "num": 367785,
       "word": "李诞说人生问题不能清零只能共存",
       "onboard_time": 1673712627,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 394654,
+      "num": 394654,
+      "word": "出生三年驾龄两年",
+      "onboard_time": 1673772447,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 394538,
@@ -627,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 384063,
-      "num": 384063,
-      "word": "KSG 今屿",
-      "onboard_time": 1673773348,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 383995,
       "num": 272024,
       "word": "三体电视剧今日开播",
@@ -649,14 +673,6 @@
       "onboard_time": 1673765188,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381028,
-      "num": 381028,
-      "word": "出生三年驾龄两年",
-      "onboard_time": 1673772447,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 360623,
@@ -761,6 +777,22 @@
       "onboard_time": 1673698349,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325667,
+      "num": 294083,
+      "word": "陈奕迅演唱会尾场终极ENCORE",
+      "onboard_time": 1673774186,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 322227,
+      "num": 291598,
+      "word": "严浩翔湖南卫视小年夜彩排饭拍",
+      "onboard_time": 1673774668,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 314050,
@@ -939,14 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259777,
-      "num": 179515,
-      "word": "陈奕迅演唱会尾场终极ENCORE",
-      "onboard_time": 1673774186,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 257355,
       "num": 160109,
       "word": "网红翻窗闯法拍别墅拍视频被罚3千",
@@ -996,7 +1020,7 @@
     },
     {
       "raw_hot": 255238,
-      "num": 162208,
+      "num": 173035,
       "word": "刘亦菲李现片场比谁更能吃酸",
       "onboard_time": 1673773406,
       "rank": 35,
@@ -1179,6 +1203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215116,
+      "num": 129922,
+      "word": "肖铎步音楼的爱都藏在细节里",
+      "onboard_time": 1673775145,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213769,
       "num": 213769,
       "word": "地铁的尽头原来长这样",
@@ -1251,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190715,
+      "num": 190715,
+      "word": "盘锦一化工厂起火爆炸",
+      "onboard_time": 1673772867,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 188235,
       "num": 207908,
       "word": "穿汉服滑雪有多惊艳",
@@ -1291,22 +1331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185501,
-      "num": 185501,
-      "word": "盘锦一化工厂起火爆炸",
-      "onboard_time": 1673772867,
-      "rank": 28,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 182779,
-      "num": 182779,
-      "word": "尼泊尔载72人坠毁客机失事瞬间",
-      "onboard_time": 1673773526,
-      "rank": 29,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 181535,
       "num": 208542,
       "word": "华为2022年分红出炉",
@@ -1345,6 +1369,14 @@
       "onboard_time": 1673761707,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172709,
+      "num": 172709,
+      "word": "如何判断睡眠是否出现问题",
+      "onboard_time": 1673770229,
+      "rank": 37,
+      "category": "社会议题,科技"
     },
     {
       "raw_hot": 170267,
@@ -1417,14 +1449,6 @@
       "onboard_time": 1673763686,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163719,
-      "num": 163719,
-      "word": "如何判断睡眠是否出现问题",
-      "onboard_time": 1673770229,
-      "rank": 37,
-      "category": "社会议题,科技"
     },
     {
       "raw_hot": 162028,
@@ -1539,6 +1563,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132986,
+      "num": 132986,
+      "word": "南方人可看不得这个",
+      "onboard_time": 1673774607,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 129391,
+      "num": 129391,
+      "word": "红军吃有毒野草充饥眼睛全红",
+      "onboard_time": 1673774308,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129253,
       "num": 150588,
       "word": "建议暂时取消男1000女800",
@@ -1561,14 +1601,6 @@
       "onboard_time": 1673764166,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124977,
-      "num": 124977,
-      "word": "中科大提出生育力保存新方法",
-      "onboard_time": 1673773647,
-      "rank": 41,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 124567,
@@ -1641,6 +1673,14 @@
       "onboard_time": 1673766208,
       "rank": 44,
       "category": "游戏,幽默"
+    },
+    {
+      "raw_hot": 111936,
+      "num": 111936,
+      "word": "红腹锦鸡争斗现场好似凤凰打架",
+      "onboard_time": 1673774788,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111925,
@@ -1761,6 +1801,14 @@
       "onboard_time": 1673704229,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98738,
+      "num": 98738,
+      "word": "毕节3名幼童家门口玩耍时失踪",
+      "onboard_time": 1673774969,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 97834,
