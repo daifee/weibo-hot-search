@@ -1,0 +1,410 @@
+{
+  "runTime": 1673851124396,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3654757,
+        "num": 3654757,
+        "word": "制片人张萌获刑三年",
+        "onboard_time": 1673847868,
+        "rank": 0,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 1428275,
+        "num": 1428275,
+        "word": "大陆输台螺蛳粉包装现你是中国人",
+        "onboard_time": 1673844451,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89838,
+        "num": 1003823,
+        "word": "脆弱人群感染后要警惕这些情况",
+        "onboard_time": 1673830166,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887993,
+        "num": 887993,
+        "word": "易烊千玺说外甥大了不由舅难办",
+        "onboard_time": 1673847928,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 807427,
+        "num": 807427,
+        "word": "赵丽颖兔年央视春晚第四次大联排",
+        "onboard_time": 1673850092,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 662798,
+        "num": 662798,
+        "word": "马化腾称内部贪腐触目惊心",
+        "onboard_time": 1673846548,
+        "rank": 5,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 473094,
+        "num": 473094,
+        "word": "姐姐胳膊被机器压烂弟弟放声痛哭",
+        "onboard_time": 1673845172,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445587,
+        "num": 445587,
+        "word": "N95口罩血氧仪价格大跳水",
+        "onboard_time": 1673831725,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 383755,
+        "num": 383755,
+        "word": "高铁G61为她紧急临停3分钟",
+        "onboard_time": 1673839645,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366740,
+        "num": 366740,
+        "word": "丈夫称老家有别墅妻子看后大呼上当",
+        "onboard_time": 1673834967,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1883225,
+        "num": 360062,
+        "word": "张颖颖 我说了无数次分手",
+        "onboard_time": 1673846008,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1348137,
+        "num": 358553,
+        "word": "大鹏 新孩子",
+        "onboard_time": 1673847810,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626235,
+        "num": 350983,
+        "word": "杨紫春晚联排高马尾造型路透",
+        "onboard_time": 1673849612,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366834,
+        "num": 344096,
+        "word": "儿媳每天接送8旬医生公公上下班",
+        "onboard_time": 1673849194,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339834,
+        "num": 339834,
+        "word": "美国女子刺伤亚裔称以为是中国人",
+        "onboard_time": 1673839166,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316865,
+        "num": 316865,
+        "word": "内马尔踢后卫",
+        "onboard_time": 1673849852,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313459,
+        "num": 313459,
+        "word": "梅西踢后腰",
+        "onboard_time": 1673840185,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306367,
+        "num": 306367,
+        "word": "福兔",
+        "onboard_time": 1673846610,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 296237,
+        "num": 296237,
+        "word": "平台开始反薅用户羊毛",
+        "onboard_time": 1673849434,
+        "rank": 18,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 275164,
+        "num": 275164,
+        "word": "尼泊尔坠毁飞机的黑匣子被发现",
+        "onboard_time": 1673850211,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474262,
+        "num": 274004,
+        "word": "春晚主持人 龙洋",
+        "onboard_time": 1673842530,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447622,
+        "num": 273925,
+        "word": "王鹤棣首部电影定档",
+        "onboard_time": 1673842649,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427143,
+        "num": 273764,
+        "word": "孙怡零下二十度打工人穿搭",
+        "onboard_time": 1673847269,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271615,
+        "num": 271615,
+        "word": "车厘子自由为什么这么难",
+        "onboard_time": 1673837727,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240362,
+        "num": 240362,
+        "word": "威少最后一攻",
+        "onboard_time": 1673847151,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239163,
+        "num": 239163,
+        "word": "去年腾讯100余人因触犯高压线被辞退",
+        "onboard_time": 1673841748,
+        "rank": 25,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 232380,
+        "num": 232380,
+        "word": "北京街头闲置核酸检测亭陆续撤场",
+        "onboard_time": 1673849011,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225315,
+        "num": 225315,
+        "word": "一诺发催泪合照",
+        "onboard_time": 1673848591,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185894,
+        "num": 185894,
+        "word": "尼泊尔客机副驾因丈夫坠机接力飞行梦",
+        "onboard_time": 1673834545,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 180407,
+        "num": 180407,
+        "word": "游客滑雪失控致女生被撞倒后抽搐",
+        "onboard_time": 1673835085,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317620,
+        "num": 178590,
+        "word": "沈月说鹿鼎记双儿就是她的舒适圈",
+        "onboard_time": 1673848410,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292906,
+        "num": 173300,
+        "word": "确认恋爱关系前你会考虑哪些问题",
+        "onboard_time": 1673847990,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291865,
+        "num": 170513,
+        "word": "周杰伦演唱会回应负评",
+        "onboard_time": 1673835445,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251028,
+        "num": 166817,
+        "word": "杨幂红色挑染卷发造型",
+        "onboard_time": 1673840969,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163274,
+        "num": 163274,
+        "word": "梅西内马尔相依为命",
+        "onboard_time": 1673850330,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154059,
+        "num": 154059,
+        "word": "男子首次带女友回家全家拿红包门口迎接",
+        "onboard_time": 1673843130,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153289,
+        "num": 153289,
+        "word": "消息人士称普京不参与明年俄大选",
+        "onboard_time": 1673839105,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 152625,
+        "num": 152625,
+        "word": "黑神话悟空发售时间公开",
+        "onboard_time": 1673838929,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147964,
+        "num": 147964,
+        "word": "这样的老丈人要不要拜把子",
+        "onboard_time": 1673849731,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145219,
+        "num": 145219,
+        "word": "这猫怎么比狗还狗",
+        "onboard_time": 1673844753,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216543,
+        "num": 143784,
+        "word": "春晚主持人首次迎来双90后",
+        "onboard_time": 1673842050,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211234,
+        "num": 143466,
+        "word": "孙莉带儿女踏冰",
+        "onboard_time": 1673845952,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141398,
+        "num": 141398,
+        "word": "尼泊尔客机坠毁机舱内画面曝光",
+        "onboard_time": 1673831245,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 129554,
+        "num": 141266,
+        "word": "环保少女在德带气候人士反对开采褐煤",
+        "onboard_time": 1673850750,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111581,
+        "num": 141119,
+        "word": "Cat 转会",
+        "onboard_time": 1673836226,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115694,
+        "num": 140722,
+        "word": "尼泊尔失事客机上72人全部遇难",
+        "onboard_time": 1673796453,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 109422,
+        "num": 140675,
+        "word": "六旬父亲13年为远嫁女儿做肉松",
+        "onboard_time": 1673850391,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109140,
+        "num": 140288,
+        "word": "本命年的兔子有多嚣张",
+        "onboard_time": 1673835024,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108959,
+        "num": 140017,
+        "word": "智能电视到底挣了多少会员费",
+        "onboard_time": 1673847928,
+        "rank": 48,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 101231,
+        "num": 139830,
+        "word": "像极了我做完形填空的样子",
+        "onboard_time": 1673850988,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦2023年春运#"
+    }
+  }
+}
