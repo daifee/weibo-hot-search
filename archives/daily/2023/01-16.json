@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673868806643,
+  "endTime": 1673872675183,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -171,12 +171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1200062,
+      "num": 1200062,
+      "word": "无所谓 向太会出手",
+      "onboard_time": 1673872467,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1168560,
       "num": 1168560,
       "word": "王鹤棣首部电影定档",
       "onboard_time": 1673842649,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1160362,
+      "num": 1160362,
+      "word": "女子网购100根仙女棒收到100根铁丝",
+      "onboard_time": 1673869590,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1158812,
@@ -251,6 +267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 853998,
+      "num": 853998,
+      "word": "明起多国来华将严查48小时核酸",
+      "onboard_time": 1673870127,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 836861,
       "num": 836861,
       "word": "赵丽颖兔年央视春晚第四次大联排",
@@ -289,6 +313,14 @@
       "onboard_time": 1673842530,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 772610,
+      "num": 772610,
+      "word": "女孩称因戴弟弟帽子被妈妈殴打",
+      "onboard_time": 1673866708,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 735791,
@@ -339,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 682925,
-      "num": 682925,
-      "word": "女孩称因戴弟弟帽子被妈妈殴打",
-      "onboard_time": 1673866708,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 676704,
+      "num": 676704,
+      "word": "王鹤棣看了赵丽颖风吹半夏",
+      "onboard_time": 1673870608,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 673725,
@@ -433,6 +465,14 @@
       "onboard_time": 1673840185,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 618462,
+      "num": 618462,
+      "word": "男子新房未入住被邻居种大葱",
+      "onboard_time": 1673870789,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 616531,
@@ -635,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466386,
+      "num": 466386,
+      "word": "少爷和我也在追三体",
+      "onboard_time": 1673871629,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 464418,
       "num": 464418,
       "word": "福兔",
@@ -752,6 +800,14 @@
       "word": "程耳祝王一博转型成功",
       "onboard_time": 1673859208,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 389114,
+      "num": 389114,
+      "word": "浮图缘",
+      "onboard_time": 1673870190,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -939,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332325,
+      "num": 332325,
+      "word": "原神米卡",
+      "onboard_time": 1673869109,
+      "rank": 14,
+      "category": "动漫,游戏"
+    },
+    {
       "raw_hot": 332205,
       "num": 183697,
       "word": "徐怀钰状态",
@@ -1009,6 +1073,14 @@
       "onboard_time": 1673794959,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 317361,
+      "num": 178461,
+      "word": "赵露思神隐路透梦回李乐嫣",
+      "onboard_time": 1673869648,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 316959,
@@ -1088,6 +1160,14 @@
       "word": "文俊辉直播",
       "onboard_time": 1673841270,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 296757,
+      "num": 171651,
+      "word": "宋亚轩庆祝胜利的方式",
+      "onboard_time": 1673872230,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -1459,6 +1539,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 216083,
+      "num": 108190,
+      "word": "刘学义董璇新剧演母子",
+      "onboard_time": 1673868870,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214251,
       "num": 160418,
       "word": "孙莉带儿女踏冰",
@@ -1489,6 +1577,14 @@
       "onboard_time": 1673854229,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 211463,
+      "num": 110341,
+      "word": "沈月听到吴彤主动邀请自己参加节目的反应",
+      "onboard_time": 1673869468,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 210625,
@@ -1635,12 +1731,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 178299,
+      "num": 178299,
+      "word": "情侣逛街是全国统一的吧",
+      "onboard_time": 1673871808,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176471,
       "num": 176471,
       "word": "现实版左牵黄右擎苍",
       "onboard_time": 1673866111,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175852,
+      "num": 175852,
+      "word": "奥特曼是东北的找到证据了",
+      "onboard_time": 1673868628,
+      "rank": 39,
+      "category": "动漫,幽默"
     },
     {
       "raw_hot": 175728,
@@ -1723,6 +1835,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 164975,
+      "num": 164975,
+      "word": "外交部回应美日称中国加速核武库扩张",
+      "onboard_time": 1673868090,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 163500,
       "num": 181328,
       "word": "76人vs湖人",
@@ -1745,6 +1865,14 @@
       "onboard_time": 1673791836,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159990,
+      "num": 159990,
+      "word": "EDG首发全华班",
+      "onboard_time": 1673871509,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 156316,
@@ -1793,6 +1921,22 @@
       "onboard_time": 1673851828,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152016,
+      "num": 152016,
+      "word": "这就是一碗猫咪吗",
+      "onboard_time": 1673870608,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 149693,
+      "num": 149693,
+      "word": "TES对战AL",
+      "onboard_time": 1673871450,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 147964,
@@ -1915,6 +2059,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 130740,
+      "num": 130740,
+      "word": "原神迪希雅",
+      "onboard_time": 1673868928,
+      "rank": 36,
+      "category": "动漫,游戏"
+    },
+    {
       "raw_hot": 126913,
       "num": 181303,
       "word": "新一批大国重器亮相直播间",
@@ -1969,14 +2121,6 @@
       "onboard_time": 1673769988,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121588,
-      "num": 121588,
-      "word": "奥特曼是东北的找到证据了",
-      "onboard_time": 1673868628,
-      "rank": 39,
-      "category": "动漫,幽默"
     },
     {
       "raw_hot": 121474,
@@ -2131,14 +2275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101596,
-      "num": 101596,
-      "word": "外交部回应美日称中国加速核武库扩张",
-      "onboard_time": 1673868090,
-      "rank": 49,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 101231,
       "num": 139830,
       "word": "像极了我做完形填空的样子",
@@ -2171,12 +2307,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 96784,
+      "num": 96784,
+      "word": "这猫咪怎么自带开关啊",
+      "onboard_time": 1673872230,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96112,
       "num": 96112,
       "word": "剧团回应冒雪演出仅一位观众",
       "onboard_time": 1673836464,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94143,
+      "num": 94143,
+      "word": "中国足协杯奖杯被掰断",
+      "onboard_time": 1673872590,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 93488,
@@ -2209,6 +2361,14 @@
       "onboard_time": 1673833884,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90328,
+      "num": 90328,
+      "word": "这家门口有年味但不多",
+      "onboard_time": 1673869828,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 89921,

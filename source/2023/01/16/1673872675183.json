@@ -1,0 +1,410 @@
+{
+  "runTime": 1673872675183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1301131,
+        "num": 1301131,
+        "word": "弟弟发现姐姐首饰装备库原地震惊",
+        "onboard_time": 1673861967,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1200062,
+        "num": 1200062,
+        "word": "无所谓 向太会出手",
+        "onboard_time": 1673872467,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20747,
+        "num": 1168296,
+        "word": "脆弱人群感染后要警惕这些情况",
+        "onboard_time": 1673830166,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1160362,
+        "num": 1160362,
+        "word": "女子网购100根仙女棒收到100根铁丝",
+        "onboard_time": 1673869590,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853998,
+        "num": 853998,
+        "word": "明起多国来华将严查48小时核酸",
+        "onboard_time": 1673870127,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772610,
+        "num": 772610,
+        "word": "女孩称因戴弟弟帽子被妈妈殴打",
+        "onboard_time": 1673866708,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676704,
+        "num": 676704,
+        "word": "王鹤棣看了赵丽颖风吹半夏",
+        "onboard_time": 1673870608,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618462,
+        "num": 618462,
+        "word": "男子新房未入住被邻居种大葱",
+        "onboard_time": 1673870789,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490692,
+        "num": 490692,
+        "word": "缩短教育时间能提高生育率吗",
+        "onboard_time": 1673866169,
+        "rank": 8,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 466386,
+        "num": 466386,
+        "word": "少爷和我也在追三体",
+        "onboard_time": 1673871629,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1501418,
+        "num": 445611,
+        "word": "张颖颖 我说了无数次分手",
+        "onboard_time": 1673846008,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389114,
+        "num": 389114,
+        "word": "浮图缘",
+        "onboard_time": 1673870190,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367938,
+        "num": 367938,
+        "word": "王者荣耀",
+        "onboard_time": 1673860287,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 456708,
+        "num": 363522,
+        "word": "刘大锤曝的喜剧演员是大鹏",
+        "onboard_time": 1673844451,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332325,
+        "num": 332325,
+        "word": "原神米卡",
+        "onboard_time": 1673869109,
+        "rank": 14,
+        "category": "动漫,游戏"
+      },
+      {
+        "raw_hot": 332071,
+        "num": 332071,
+        "word": "2022年全国人口或出现负增长",
+        "onboard_time": 1673857289,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219627,
+        "num": 219627,
+        "word": "河南将投入130亿元支持双一流建设",
+        "onboard_time": 1673862990,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188621,
+        "num": 188621,
+        "word": "公共场所的烘手器有多脏",
+        "onboard_time": 1673860949,
+        "rank": 17,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 187681,
+        "num": 187681,
+        "word": "第一次对烧烤失去兴趣",
+        "onboard_time": 1673854830,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178545,
+        "num": 178545,
+        "word": "小乔山海琳琅生皮肤",
+        "onboard_time": 1673861430,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 371288,
+        "num": 178509,
+        "word": "内娱舞台教科书",
+        "onboard_time": 1673864010,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 339407,
+        "num": 178471,
+        "word": "刘亦菲曾舜晞对手戏",
+        "onboard_time": 1673862267,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317361,
+        "num": 178461,
+        "word": "赵露思神隐路透梦回李乐嫣",
+        "onboard_time": 1673869648,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178299,
+        "num": 178299,
+        "word": "情侣逛街是全国统一的吧",
+        "onboard_time": 1673871808,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175852,
+        "num": 175852,
+        "word": "奥特曼是东北的找到证据了",
+        "onboard_time": 1673868628,
+        "rank": 24,
+        "category": "动漫,幽默"
+      },
+      {
+        "raw_hot": 296757,
+        "num": 171651,
+        "word": "宋亚轩庆祝胜利的方式",
+        "onboard_time": 1673872230,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164975,
+        "num": 164975,
+        "word": "外交部回应美日称中国加速核武库扩张",
+        "onboard_time": 1673868090,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 159990,
+        "num": 159990,
+        "word": "EDG首发全华班",
+        "onboard_time": 1673871509,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152016,
+        "num": 152016,
+        "word": "这就是一碗猫咪吗",
+        "onboard_time": 1673870608,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149693,
+        "num": 149693,
+        "word": "TES对战AL",
+        "onboard_time": 1673871450,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259420,
+        "num": 148709,
+        "word": "制片人张萌获刑三年",
+        "onboard_time": 1673847868,
+        "rank": 30,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 238919,
+        "num": 146955,
+        "word": "孙俪问邓超谁是一家之主",
+        "onboard_time": 1673865568,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227087,
+        "num": 143964,
+        "word": "EXO将2月后完整体回归",
+        "onboard_time": 1673858848,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138603,
+        "num": 138603,
+        "word": "现实版左牵黄右擎苍",
+        "onboard_time": 1673866111,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131623,
+        "num": 131623,
+        "word": "EDG战胜WE",
+        "onboard_time": 1673868151,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131222,
+        "num": 131222,
+        "word": "分手后还会看前任动态吗",
+        "onboard_time": 1673862570,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130740,
+        "num": 130740,
+        "word": "原神迪希雅",
+        "onboard_time": 1673868928,
+        "rank": 36,
+        "category": "动漫,游戏"
+      },
+      {
+        "raw_hot": 121949,
+        "num": 121949,
+        "word": "好欢螺商业版图",
+        "onboard_time": 1673857709,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112858,
+        "num": 112858,
+        "word": "大陆输台螺蛳粉包装现你是中国人",
+        "onboard_time": 1673844451,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111830,
+        "num": 111830,
+        "word": "福兔",
+        "onboard_time": 1673846610,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 211463,
+        "num": 110341,
+        "word": "沈月听到吴彤主动邀请自己参加节目的反应",
+        "onboard_time": 1673869468,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216083,
+        "num": 108190,
+        "word": "刘学义董璇新剧演母子",
+        "onboard_time": 1673868870,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166832,
+        "num": 106787,
+        "word": "王一博无名战损妆剧照",
+        "onboard_time": 1673867729,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105369,
+        "num": 105369,
+        "word": "梅西内马尔相依为命",
+        "onboard_time": 1673850330,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97007,
+        "num": 97007,
+        "word": "原来小猫咪也会发光",
+        "onboard_time": 1673864127,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96784,
+        "num": 96784,
+        "word": "这猫咪怎么自带开关啊",
+        "onboard_time": 1673872230,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94143,
+        "num": 94143,
+        "word": "中国足协杯奖杯被掰断",
+        "onboard_time": 1673872590,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90351,
+        "num": 90351,
+        "word": "马化腾称内部贪腐触目惊心",
+        "onboard_time": 1673846548,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 90328,
+        "num": 90328,
+        "word": "这家门口有年味但不多",
+        "onboard_time": 1673869828,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 89015,
+        "num": 89015,
+        "word": "九尾清清无畏运镜合拍",
+        "onboard_time": 1673865689,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#被春节回家暖心瞬间戳到了#"
+    }
+  }
+}
