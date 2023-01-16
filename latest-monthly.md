@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/17 00:25:35
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/17 00:42:58
 </p>
 </blockquote>
 <p>
@@ -3993,6 +3993,12 @@ YG新女团成员正面生图（热度：872101）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C1%25%E4%BA%BA%E5%8F%A3%E8%B5%9A%E4%BA%86%E5%85%B6%E4%BD%99%E4%BA%BA%E5%8F%A3%E8%BF%91%E4%B8%A4%E5%80%8D%23" target="weibo">
+全球最富1%人口赚了其余人口近两倍（热度：867006）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8D%87%E7%A0%B46.8%23" target="weibo">
 人民币升破6.8（热度：866136）
 </a>
@@ -4925,12 +4931,6 @@ NASA局长怕中国先登月封锁月表资源（热度：769416）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%87%8C%E6%99%A8%E4%BA%94%E7%82%B9%E8%BF%98%E5%9C%A8%E5%8F%AB%E7%81%AB%E9%94%85%E5%A4%96%E5%8D%96%23" target="weibo">
 上海人凌晨五点还在叫火锅外卖（热度：759097）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C1%25%E4%BA%BA%E5%8F%A3%E8%B5%9A%E4%BA%86%E5%85%B6%E4%BD%99%E4%BA%BA%E5%8F%A3%E8%BF%91%E4%B8%A4%E5%80%8D%23" target="weibo">
-全球最富1%人口赚了其余人口近两倍（热度：758336）
 </a>
 </li>
 
