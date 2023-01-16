@@ -1,6 +1,6 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673889418662,
+  "endTime": 1673890402114,
   "band_list": [
     {
       "raw_hot": 1803692,
@@ -187,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271870,
+      "num": 260312,
+      "word": "儿子出国8年首次回家妈妈喜极而泣",
+      "onboard_time": 1673887643,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263451,
       "num": 263451,
       "word": "弟弟发现姐姐首饰装备库原地震惊",
@@ -235,19 +243,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191170,
+      "num": 141753,
+      "word": "电影无名同名主题曲MV海报",
+      "onboard_time": 1673889200,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185535,
       "num": 122793,
       "word": "曾舜晞去有风的地方演技",
       "onboard_time": 1673879493,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 181652,
-      "num": 141753,
-      "word": "电影无名同名主题曲MV海报",
-      "onboard_time": 1673889200,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -297,14 +305,6 @@
       "onboard_time": 1673887346,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146629,
-      "num": 146629,
-      "word": "儿子出国8年首次回家妈妈喜极而泣",
-      "onboard_time": 1673887643,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143410,
@@ -379,8 +379,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74688,
-      "num": 74688,
+      "raw_hot": 81335,
+      "num": 81335,
       "word": "回村的狗请摆正自己的位置",
       "onboard_time": 1673888362,
       "rank": 37,
@@ -409,6 +409,14 @@
       "onboard_time": 1673870608,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70603,
+      "num": 70603,
+      "word": "DRX中单fate疑似出轨",
+      "onboard_time": 1673889440,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 68398,

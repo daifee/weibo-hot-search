@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673889418662,
+  "endTime": 1673890402114,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -1627,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271870,
+      "num": 260312,
+      "word": "儿子出国8年首次回家妈妈喜极而泣",
+      "onboard_time": 1673887643,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271241,
       "num": 181635,
       "word": "这只上春晚的兔子也太可爱了",
@@ -2059,6 +2067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191170,
+      "num": 141753,
+      "word": "电影无名同名主题曲MV海报",
+      "onboard_time": 1673889200,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190857,
       "num": 190857,
       "word": "河南发现240座北魏时期皇家仓窖",
@@ -2097,14 +2113,6 @@
       "onboard_time": 1673863952,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 181652,
-      "num": 141753,
-      "word": "电影无名同名主题曲MV海报",
-      "onboard_time": 1673889200,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 180585,
@@ -2360,14 +2368,6 @@
       "word": "全国特色年味地图出炉",
       "onboard_time": 1673873428,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146629,
-      "num": 146629,
-      "word": "儿子出国8年首次回家妈妈喜极而泣",
-      "onboard_time": 1673887643,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2915,6 +2915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81335,
+      "num": 81335,
+      "word": "回村的狗请摆正自己的位置",
+      "onboard_time": 1673888362,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80948,
       "num": 80948,
       "word": "女童悬挂窗外60岁老人爬梯托举",
@@ -2937,14 +2945,6 @@
       "onboard_time": 1673772748,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74688,
-      "num": 74688,
-      "word": "回村的狗请摆正自己的位置",
-      "onboard_time": 1673888362,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 72943,
@@ -2985,6 +2985,14 @@
       "onboard_time": 1673796814,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 70603,
+      "num": 70603,
+      "word": "DRX中单fate疑似出轨",
+      "onboard_time": 1673889440,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 68295,

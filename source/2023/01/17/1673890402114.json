@@ -1,0 +1,410 @@
+{
+  "runTime": 1673890402114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 960216,
+        "num": 960216,
+        "word": "多平台回应刑满释放人员变励志网红",
+        "onboard_time": 1673885188,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717486,
+        "num": 717486,
+        "word": "网友吃火锅菜品中发现蓝环章鱼",
+        "onboard_time": 1673879732,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38671,
+        "num": 597828,
+        "word": "全国特色年味地图出炉",
+        "onboard_time": 1673873428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493794,
+        "num": 493794,
+        "word": "全球最富1%人口赚了其余人口近两倍",
+        "onboard_time": 1673883689,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 478591,
+        "num": 478591,
+        "word": "蓝环章鱼",
+        "onboard_time": 1673877091,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461114,
+        "num": 461114,
+        "word": "车厘子打败砂糖橘成最热年货",
+        "onboard_time": 1673885427,
+        "rank": 5,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 357855,
+        "num": 357855,
+        "word": "火锅店吃饭还好多问了一句",
+        "onboard_time": 1673879611,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300896,
+        "num": 300896,
+        "word": "其实结婚是自己的选择题",
+        "onboard_time": 1673884049,
+        "rank": 7,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 294904,
+        "num": 294904,
+        "word": "王一博抱never",
+        "onboard_time": 1673876553,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264798,
+        "num": 264798,
+        "word": "夫妻为宝宝取8个字姓名共56画",
+        "onboard_time": 1673882312,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 750179,
+        "num": 262230,
+        "word": "李川锤娜丽莎 恋情",
+        "onboard_time": 1673882010,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271870,
+        "num": 260312,
+        "word": "儿子出国8年首次回家妈妈喜极而泣",
+        "onboard_time": 1673887643,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254143,
+        "num": 254143,
+        "word": "无所谓 向太会出手",
+        "onboard_time": 1673872467,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250670,
+        "num": 250670,
+        "word": "明起多国来华将严查48小时核酸",
+        "onboard_time": 1673870127,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209587,
+        "num": 209587,
+        "word": "杨蓉三体角色口碑",
+        "onboard_time": 1673887104,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188055,
+        "num": 188055,
+        "word": "女子网购100根仙女棒收到100根铁丝",
+        "onboard_time": 1673869590,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202506,
+        "num": 187817,
+        "word": "林永健 你们这届网友干嘛呢",
+        "onboard_time": 1673872889,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187235,
+        "num": 187235,
+        "word": "缩短教育时间能提高生育率吗",
+        "onboard_time": 1673866169,
+        "rank": 17,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 134272,
+        "num": 134272,
+        "word": "女子回村后美甲太长被妈妈按住剪掉",
+        "onboard_time": 1673873909,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122658,
+        "num": 122658,
+        "word": "弟弟发现姐姐首饰装备库原地震惊",
+        "onboard_time": 1673861967,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205356,
+        "num": 120315,
+        "word": "never 讨厌没有边界感的帅哥",
+        "onboard_time": 1673879251,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162036,
+        "num": 118326,
+        "word": "张颖颖微博点赞",
+        "onboard_time": 1673884409,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191170,
+        "num": 117596,
+        "word": "电影无名同名主题曲MV海报",
+        "onboard_time": 1673889200,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115512,
+        "num": 115512,
+        "word": "男子吃板面碗里仅2根面剩下全是菜",
+        "onboard_time": 1673880812,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103707,
+        "num": 103707,
+        "word": "什么馅饺子最好吃",
+        "onboard_time": 1673884293,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100586,
+        "num": 100586,
+        "word": "王者荣耀",
+        "onboard_time": 1673860287,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96631,
+        "num": 96631,
+        "word": "男子拿去年澡票洗澡遭老板拒绝",
+        "onboard_time": 1673884168,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81335,
+        "num": 81335,
+        "word": "回村的狗请摆正自己的位置",
+        "onboard_time": 1673888362,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80002,
+        "num": 80002,
+        "word": "动车上女儿突然出现父母一愣",
+        "onboard_time": 1673877570,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78807,
+        "num": 78807,
+        "word": "情侣逛街是全国统一的吧",
+        "onboard_time": 1673871808,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146972,
+        "num": 78589,
+        "word": "三体罗辑背影",
+        "onboard_time": 1673887346,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139455,
+        "num": 78490,
+        "word": "都暻秀翻唱伯贤的Unvillage",
+        "onboard_time": 1673884949,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138617,
+        "num": 78298,
+        "word": "三体 原著党狂喜",
+        "onboard_time": 1673876489,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134864,
+        "num": 77898,
+        "word": "荣安皇后终于被肖铎抱了",
+        "onboard_time": 1673876853,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77857,
+        "num": 77857,
+        "word": "中国足协杯奖杯被掰断",
+        "onboard_time": 1673872590,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70603,
+        "num": 70603,
+        "word": "DRX中单fate疑似出轨",
+        "onboard_time": 1673889440,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 70016,
+        "num": 70016,
+        "word": "男子买100克金条亲手给未婚妻做手镯",
+        "onboard_time": 1673876489,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69952,
+        "num": 69952,
+        "word": "女孩称因戴弟弟帽子被妈妈殴打",
+        "onboard_time": 1673866708,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66330,
+        "num": 66330,
+        "word": "男子新房未入住被邻居种大葱",
+        "onboard_time": 1673870789,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60960,
+        "num": 60960,
+        "word": "外交部批日美合谋诋毁中国形象",
+        "onboard_time": 1673882851,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 100511,
+        "num": 60912,
+        "word": "肖铎知道步音楼父亲是凶手",
+        "onboard_time": 1673881289,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60043,
+        "num": 60043,
+        "word": "原神米卡",
+        "onboard_time": 1673869109,
+        "rank": 41,
+        "category": "动漫,游戏"
+      },
+      {
+        "raw_hot": 53166,
+        "num": 53166,
+        "word": "meiko 娜美",
+        "onboard_time": 1673875109,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 46581,
+        "num": 53157,
+        "word": "歼20在我国防空识别区驱离外机",
+        "onboard_time": 1673874869,
+        "rank": 43,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 39511,
+        "num": 53079,
+        "word": "分手后还会看前任动态吗",
+        "onboard_time": 1673862570,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120637,
+        "num": 52953,
+        "word": "never在笑",
+        "onboard_time": 1673878411,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36745,
+        "num": 52907,
+        "word": "EDG首发全华班",
+        "onboard_time": 1673871509,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35138,
+        "num": 52859,
+        "word": "2022年全国人口或出现负增长",
+        "onboard_time": 1673857289,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34757,
+        "num": 52749,
+        "word": "这就是一碗猫咪吗",
+        "onboard_time": 1673870608,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31357,
+        "num": 52707,
+        "word": "公共场所的烘手器有多脏",
+        "onboard_time": 1673860949,
+        "rank": 49,
+        "category": "其它"
+      }
+    ],
+    "hotgov": {
+      "word": "#向春而行#"
+    }
+  }
+}
