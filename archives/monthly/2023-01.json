@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673872675183,
+  "endTime": 1673873788258,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -1321,6 +1321,14 @@
       "onboard_time": 1673150730,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1748746,
+      "num": 1748746,
+      "word": "无所谓 向太会出手",
+      "onboard_time": 1673872467,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1744309,
@@ -2955,14 +2963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1200062,
-      "num": 1200062,
-      "word": "无所谓 向太会出手",
-      "onboard_time": 1673872467,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1197813,
       "num": 1197813,
       "word": "研究显示25万年来爸爸总比妈妈大",
@@ -3131,6 +3131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1162162,
+      "num": 1162162,
+      "word": "女子网购100根仙女棒收到100根铁丝",
+      "onboard_time": 1673869590,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1161869,
       "num": 983244,
       "word": "王梓薇 官宣后我的ip就没动过就没进过组",
@@ -3168,14 +3176,6 @@
       "word": "专家回应人们感觉老人去世比往年多",
       "onboard_time": 1672621766,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1160362,
-      "num": 1160362,
-      "word": "女子网购100根仙女棒收到100根铁丝",
-      "onboard_time": 1673869590,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -4291,6 +4291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 973997,
+      "num": 973997,
+      "word": "明起多国来华将严查48小时核酸",
+      "onboard_time": 1673870127,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 970849,
       "num": 970849,
       "word": "WBG让二追三",
@@ -5353,14 +5361,6 @@
       "onboard_time": 1673254230,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 853998,
-      "num": 853998,
-      "word": "明起多国来华将严查48小时核酸",
-      "onboard_time": 1673870127,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 853742,
@@ -7371,6 +7371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 690107,
+      "num": 690107,
+      "word": "王鹤棣看了赵丽颖风吹半夏",
+      "onboard_time": 1673870608,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 689808,
       "num": 689808,
       "word": "金球奖",
@@ -7593,14 +7601,6 @@
       "onboard_time": 1673593889,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 676704,
-      "num": 676704,
-      "word": "王鹤棣看了赵丽颖风吹半夏",
-      "onboard_time": 1673870608,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 676273,
@@ -7865,6 +7865,14 @@
       "onboard_time": 1673047818,
       "rank": 32,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 660375,
+      "num": 387017,
+      "word": "林永健 你们这届网友干嘛呢",
+      "onboard_time": 1673872889,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 660166,
@@ -8547,6 +8555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623012,
+      "num": 623012,
+      "word": "男子新房未入住被邻居种大葱",
+      "onboard_time": 1673870789,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622827,
       "num": 471057,
       "word": "虞书欣王鹤棣的采访",
@@ -8617,14 +8633,6 @@
       "onboard_time": 1673840185,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 618462,
-      "num": 618462,
-      "word": "男子新房未入住被邻居种大葱",
-      "onboard_time": 1673870789,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 616531,
@@ -11779,6 +11787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 492383,
+      "num": 492383,
+      "word": "少爷和我也在追三体",
+      "onboard_time": 1673871629,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 492069,
       "num": 492069,
       "word": "蝉冰雪女典藏皮肤",
@@ -12465,14 +12481,6 @@
       "onboard_time": 1672710805,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 466386,
-      "num": 466386,
-      "word": "少爷和我也在追三体",
-      "onboard_time": 1673871629,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 466370,
@@ -18603,6 +18611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 331907,
+      "num": 182718,
+      "word": "看完三体的后遗症",
+      "onboard_time": 1673873131,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331707,
       "num": 331707,
       "word": "学生吃席给老师带回一大碗虾和肉",
@@ -22315,6 +22331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275669,
+      "num": 134627,
+      "word": "谢之遥给许红豆煮面",
+      "onboard_time": 1673873308,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275582,
       "num": 275582,
       "word": "北京人均地区生产总值超过18万元",
@@ -22553,6 +22577,14 @@
       "onboard_time": 1673863467,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 273119,
+      "num": 125003,
+      "word": "浮图缘彤云曹春盎he",
+      "onboard_time": 1673873610,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 273113,
@@ -27035,6 +27067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216343,
+      "num": 216343,
+      "word": "EDG首发全华班",
+      "onboard_time": 1673871509,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216083,
       "num": 108190,
       "word": "刘学义董璇新剧演母子",
@@ -30547,6 +30587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178562,
+      "num": 178562,
+      "word": "情侣逛街是全国统一的吧",
+      "onboard_time": 1673871808,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178510,
       "num": 178510,
       "word": "李现牢记云苗村萌娃饮食习惯",
@@ -30569,14 +30617,6 @@
       "onboard_time": 1673264967,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 178299,
-      "num": 178299,
-      "word": "情侣逛街是全国统一的吧",
-      "onboard_time": 1673871808,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 178249,
@@ -31097,6 +31137,14 @@
       "onboard_time": 1673785290,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173526,
+      "num": 173526,
+      "word": "TES对战AL",
+      "onboard_time": 1673871450,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 173488,
@@ -32499,14 +32547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 159990,
-      "num": 159990,
-      "word": "EDG首发全华班",
-      "onboard_time": 1673871509,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 159915,
       "num": 926232,
       "word": "泰山宝光开启2023",
@@ -33443,14 +33483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 149693,
-      "num": 149693,
-      "word": "TES对战AL",
-      "onboard_time": 1673871450,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 149587,
       "num": 145203,
       "word": "张远撞脸自由女神",
@@ -33817,6 +33849,14 @@
       "onboard_time": 1672886007,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145077,
+      "num": 145077,
+      "word": "中国足协杯奖杯被掰断",
+      "onboard_time": 1673872590,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 145062,
@@ -36875,6 +36915,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 113393,
+      "num": 113393,
+      "word": "用逗猫的方式去逗狗",
+      "onboard_time": 1673873551,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113214,
       "num": 190308,
       "word": "没见过这么离谱的烟花",
@@ -37435,6 +37483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106766,
+      "num": 106766,
+      "word": "这是一只来自星星的猫",
+      "onboard_time": 1673873551,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106750,
       "num": 106750,
       "word": "残疾小哥剐蹭车辆后为车主送新鲜菜",
@@ -37529,6 +37585,14 @@
       "onboard_time": 1673852788,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105115,
+      "num": 105115,
+      "word": "春节要瘦不要胖",
+      "onboard_time": 1673872168,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 104987,
@@ -38441,14 +38505,6 @@
       "onboard_time": 1672516814,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94143,
-      "num": 94143,
-      "word": "中国足协杯奖杯被掰断",
-      "onboard_time": 1673872590,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 93967,
@@ -40049,6 +40105,14 @@
       "onboard_time": 1673556132,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19601,
+      "num": 1171970,
+      "word": "全国特色年味地图出炉",
+      "onboard_time": 1673873428,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19534,
