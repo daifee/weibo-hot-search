@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673879624510,
+  "endTime": 1673882368337,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1211714,
+      "num": 1211714,
+      "word": "火锅店吃饭还好多问了一句",
+      "onboard_time": 1673879611,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1209086,
       "num": 514474,
       "word": "张颖颖 所有的东西都有记录别再逼我了",
@@ -211,10 +219,26 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1159976,
+      "num": 1159976,
+      "word": "never 讨厌没有边界感的帅哥",
+      "onboard_time": 1673879251,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1158812,
       "num": 1158812,
       "word": "丈夫称老家有别墅妻子看后大呼上当",
       "onboard_time": 1673834967,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1119992,
+      "num": 1119992,
+      "word": "网友吃火锅菜品中发现蓝环章鱼",
+      "onboard_time": 1673879732,
       "rank": 4,
       "category": "社会新闻"
     },
@@ -289,6 +313,14 @@
       "onboard_time": 1673847928,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 940395,
+      "num": 571384,
+      "word": "向太点赞评论",
+      "onboard_time": 1673879912,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 938115,
@@ -387,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 761402,
-      "num": 286463,
-      "word": "never 讨厌没有边界感的帅哥",
-      "onboard_time": 1673879251,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 735791,
       "num": 618054,
       "word": "去年腾讯100余人因触犯高压线被辞退",
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 668875,
-      "num": 314574,
+      "num": 513948,
       "word": "三体 原著党狂喜",
       "onboard_time": 1673876489,
       "rank": 20,
@@ -627,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585676,
+      "num": 585676,
+      "word": "动车上女儿突然出现父母一愣",
+      "onboard_time": 1673877570,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 582187,
       "num": 582187,
       "word": "这同学录挺费头发",
@@ -697,14 +729,6 @@
       "onboard_time": 1673832444,
       "rank": 16,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 518406,
-      "num": 518406,
-      "word": "动车上女儿突然出现父母一愣",
-      "onboard_time": 1673877570,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 516676,
@@ -779,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 482565,
+      "num": 244140,
+      "word": "张颖颖秒删分手微博",
+      "onboard_time": 1673882312,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464418,
       "num": 464418,
       "word": "福兔",
@@ -793,6 +825,14 @@
       "onboard_time": 1673838267,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 452134,
+      "num": 242950,
+      "word": "肖铎被步音楼亲的满嘴口红印",
+      "onboard_time": 1673879971,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 450357,
@@ -833,6 +873,14 @@
       "onboard_time": 1673850330,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 422633,
+      "num": 196465,
+      "word": "李川锤娜丽莎 恋情",
+      "onboard_time": 1673882010,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 419461,
@@ -904,6 +952,14 @@
       "word": "程耳祝王一博转型成功",
       "onboard_time": 1673859208,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 392492,
+      "num": 229429,
+      "word": "肖铎知道步音楼父亲是凶手",
+      "onboard_time": 1673881289,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -1043,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360555,
+      "num": 196330,
+      "word": "姜贞羽舞的是剧粉的夏天",
+      "onboard_time": 1673881472,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359959,
       "num": 359959,
       "word": "买8寸蛋糕直径少4厘米索赔遭怼",
@@ -1065,6 +1129,14 @@
       "onboard_time": 1673859147,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349836,
+      "num": 196281,
+      "word": "曾舜晞去有风的地方演技",
+      "onboard_time": 1673879493,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 349404,
@@ -1201,6 +1273,14 @@
       "onboard_time": 1673872590,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 319727,
+      "num": 195612,
+      "word": "刘诗诗关注王一栩",
+      "onboard_time": 1673880992,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 319725,
@@ -1360,14 +1440,6 @@
       "word": "肖铎步音楼吻戏",
       "onboard_time": 1673878109,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 285041,
-      "num": 170836,
-      "word": "曾舜晞去有风的地方演技",
-      "onboard_time": 1673879493,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -1673,6 +1745,14 @@
       "onboard_time": 1673854471,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238633,
+      "num": 238633,
+      "word": "男子吃板面碗里仅2根面剩下全是菜",
+      "onboard_time": 1673880812,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238529,
@@ -2443,6 +2523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112029,
+      "num": 195846,
+      "word": "23位手艺人花式绝活召唤兔年",
+      "onboard_time": 1673881358,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111185,
       "num": 82880,
       "word": "你如何看待假唱",
@@ -2643,14 +2731,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 90192,
-      "num": 166174,
-      "word": "火锅店吃饭还好多问了一句",
-      "onboard_time": 1673879611,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89921,
       "num": 182260,
       "word": "KPL转会期的瓜给我转懵了",
@@ -2769,6 +2849,14 @@
       "onboard_time": 1673790816,
       "rank": 45,
       "category": "其它"
+    },
+    {
+      "raw_hot": 66869,
+      "num": 194839,
+      "word": "夫妻为宝宝取8个字姓名共56画",
+      "onboard_time": 1673882312,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63916,
