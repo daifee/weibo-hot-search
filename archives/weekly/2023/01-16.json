@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673893345429,
+  "endTime": 1673894220028,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -2819,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95066,
+      "num": 95066,
+      "word": "回村的狗请摆正自己的位置",
+      "onboard_time": 1673888362,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93488,
       "num": 93488,
       "word": "千里江山图就是照着它画的吧",
@@ -2841,14 +2849,6 @@
       "onboard_time": 1673778388,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 91546,
-      "num": 91546,
-      "word": "回村的狗请摆正自己的位置",
-      "onboard_time": 1673888362,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 91301,
@@ -2947,6 +2947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77199,
+      "num": 77199,
+      "word": "山东姑娘辞职接替父亲戍边6年",
+      "onboard_time": 1673890937,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75863,
       "num": 181588,
       "word": "女子清洗4年窗帘灰色变粉色",
@@ -3025,14 +3033,6 @@
       "onboard_time": 1673878171,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 62054,
-      "num": 62054,
-      "word": "山东姑娘辞职接替父亲戍边6年",
-      "onboard_time": 1673890937,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61697,

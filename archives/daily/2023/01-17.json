@@ -1,6 +1,6 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673893345429,
+  "endTime": 1673894220028,
   "band_list": [
     {
       "raw_hot": 1803692,
@@ -363,20 +363,20 @@
       "category": "动漫,游戏"
     },
     {
+      "raw_hot": 95066,
+      "num": 95066,
+      "word": "回村的狗请摆正自己的位置",
+      "onboard_time": 1673888362,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94335,
       "num": 128103,
       "word": "歼20在我国防空识别区驱离外机",
       "onboard_time": 1673874869,
       "rank": 39,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 91546,
-      "num": 91546,
-      "word": "回村的狗请摆正自己的位置",
-      "onboard_time": 1673888362,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 83219,
@@ -393,6 +393,14 @@
       "onboard_time": 1673882191,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77199,
+      "num": 77199,
+      "word": "山东姑娘辞职接替父亲戍边6年",
+      "onboard_time": 1673890937,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73524,
@@ -433,14 +441,6 @@
       "onboard_time": 1673878049,
       "rank": 45,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 62054,
-      "num": 62054,
-      "word": "山东姑娘辞职接替父亲戍边6年",
-      "onboard_time": 1673890937,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61815,
