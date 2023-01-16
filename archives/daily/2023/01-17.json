@@ -1,6 +1,6 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673896480494,
+  "endTime": 1673897604263,
   "band_list": [
     {
       "raw_hot": 1803692,
@@ -467,20 +467,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 53293,
+      "num": 53293,
+      "word": "美国地图公司曾明确标记南沙群岛属于中国",
+      "onboard_time": 1673894593,
+      "rank": 31,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 52417,
       "num": 128059,
       "word": "2022年全国人口或出现负增长",
       "onboard_time": 1673857289,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39877,
-      "num": 34030,
-      "word": "美国地图公司曾明确标记南沙群岛属于中国",
-      "onboard_time": 1673894593,
-      "rank": 31,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 29451,

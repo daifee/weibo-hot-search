@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673896480494,
+  "endTime": 1673897604263,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -3051,6 +3051,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 53293,
+      "num": 53293,
+      "word": "美国地图公司曾明确标记南沙群岛属于中国",
+      "onboard_time": 1673894593,
+      "rank": 31,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 52487,
       "num": 81720,
       "word": "Cat LGD",
@@ -3065,14 +3073,6 @@
       "onboard_time": 1673824457,
       "rank": 44,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 39877,
-      "num": 34030,
-      "word": "美国地图公司曾明确标记南沙群岛属于中国",
-      "onboard_time": 1673894593,
-      "rank": 31,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 29451,
