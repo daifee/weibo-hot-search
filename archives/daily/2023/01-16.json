@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673865399236,
+  "endTime": 1673867734910,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -267,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 835040,
+      "num": 835040,
+      "word": "内娱舞台教科书",
+      "onboard_time": 1673864010,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 834725,
       "num": 834725,
       "word": "马嘉祺吃了宋亚轩喂给刘耀文的汤圆",
@@ -419,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 616531,
+      "num": 616531,
+      "word": "河南将投入130亿元支持双一流建设",
+      "onboard_time": 1673862990,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 608429,
       "num": 608429,
       "word": "虞书欣在微博送有爱卡",
@@ -537,22 +553,6 @@
       "onboard_time": 1673832444,
       "rank": 16,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 520398,
-      "num": 271994,
-      "word": "内娱舞台教科书",
-      "onboard_time": 1673864010,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 518423,
-      "num": 518423,
-      "word": "河南将投入130亿元支持双一流建设",
-      "onboard_time": 1673862990,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 516676,
@@ -675,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 420819,
+      "num": 420819,
+      "word": "缩短教育时间能提高生育率吗",
+      "onboard_time": 1673866169,
+      "rank": 8,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 419461,
       "num": 419461,
       "word": "本命年的兔子有多嚣张",
@@ -761,6 +769,14 @@
       "onboard_time": 1673860949,
       "rank": 33,
       "category": "其它"
+    },
+    {
+      "raw_hot": 380470,
+      "num": 205957,
+      "word": "宋亚轩给马嘉祺拜年",
+      "onboard_time": 1673867250,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 378516,
@@ -1051,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300449,
+      "num": 205775,
+      "word": "孙俪问邓超谁是一家之主",
+      "onboard_time": 1673865568,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297443,
       "num": 171239,
       "word": "文俊辉直播",
@@ -1251,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256769,
+      "num": 145228,
+      "word": "女孩称因戴弟弟帽子被妈妈殴打",
+      "onboard_time": 1673866708,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254870,
       "num": 184135,
       "word": "谢谢去有风的地方",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1673852307,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240217,
+      "num": 240217,
+      "word": "九尾清清无畏运镜合拍",
+      "onboard_time": 1673865689,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 239084,
@@ -1411,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212219,
+      "num": 126585,
+      "word": "赵丽颖春晚联排高马尾造型梦回薛杉杉",
+      "onboard_time": 1673866291,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211880,
       "num": 211880,
       "word": "在电视上无阻碍看剧要花1612元",
@@ -1433,6 +1481,14 @@
       "onboard_time": 1673793220,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205575,
+      "num": 205575,
+      "word": "分手后还会看前任动态吗",
+      "onboard_time": 1673862570,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 202403,
@@ -1465,6 +1521,14 @@
       "onboard_time": 1673801782,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194987,
+      "num": 126161,
+      "word": "周深新歌永恒孤独恢宏感",
+      "onboard_time": 1673866769,
+      "rank": 41,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 194863,
@@ -1603,14 +1667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166095,
-      "num": 166095,
-      "word": "分手后还会看前任动态吗",
-      "onboard_time": 1673862570,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165956,
       "num": 165956,
       "word": "热刺0比2阿森纳",
@@ -1649,6 +1705,14 @@
       "onboard_time": 1673791836,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157533,
+      "num": 157533,
+      "word": "现实版左牵黄右擎苍",
+      "onboard_time": 1673866111,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 156316,
@@ -1731,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144479,
+      "num": 162882,
+      "word": "这窗帘还是给猫咪抓吧",
+      "onboard_time": 1673864787,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142468,
       "num": 163971,
       "word": "春节不回家的人在做什么",
@@ -1801,6 +1873,14 @@
       "onboard_time": 1673840665,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 127699,
+      "num": 162392,
+      "word": "原来小猫咪也会发光",
+      "onboard_time": 1673864127,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 126913,
@@ -1875,14 +1955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 119997,
-      "num": 162882,
-      "word": "这窗帘还是给猫咪抓吧",
-      "onboard_time": 1673864787,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119967,
       "num": 183722,
       "word": "肚子为什么容易长肉",
@@ -1923,14 +1995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112643,
-      "num": 162392,
-      "word": "原来小猫咪也会发光",
-      "onboard_time": 1673864127,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 111185,
       "num": 82880,
       "word": "你如何看待假唱",
@@ -1945,6 +2009,14 @@
       "onboard_time": 1673845351,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109223,
+      "num": 109223,
+      "word": "黄山2023第一场壮美晚霞瀑布云海",
+      "onboard_time": 1673866950,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 109177,
@@ -2121,6 +2193,14 @@
       "onboard_time": 1673841089,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 82043,
+      "num": 93870,
+      "word": "以为是反转原来是续集",
+      "onboard_time": 1673865809,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 80220,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1673867734910,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1448605,
+        "num": 1448605,
+        "word": "向太晒全家照为郭碧婷庆生",
+        "onboard_time": 1673862390,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1375577,
+        "num": 1375577,
+        "word": "弟弟发现姐姐首饰装备库原地震惊",
+        "onboard_time": 1673861967,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23260,
+        "num": 862704,
+        "word": "脆弱人群感染后要警惕这些情况",
+        "onboard_time": 1673830166,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835040,
+        "num": 835040,
+        "word": "内娱舞台教科书",
+        "onboard_time": 1673864010,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 709026,
+        "num": 709026,
+        "word": "王者荣耀",
+        "onboard_time": 1673860287,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 616531,
+        "num": 616531,
+        "word": "河南将投入130亿元支持双一流建设",
+        "onboard_time": 1673862990,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 558159,
+        "num": 558159,
+        "word": "刘亦菲曾舜晞对手戏",
+        "onboard_time": 1673862267,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 489583,
+        "num": 489583,
+        "word": "2022年全国人口或出现负增长",
+        "onboard_time": 1673857289,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420819,
+        "num": 420819,
+        "word": "缩短教育时间能提高生育率吗",
+        "onboard_time": 1673866169,
+        "rank": 8,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 356959,
+        "num": 356959,
+        "word": "小乔山海琳琅生皮肤",
+        "onboard_time": 1673861430,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2451229,
+        "num": 350778,
+        "word": "张颖颖 我说了无数次分手",
+        "onboard_time": 1673846008,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 803145,
+        "num": 343112,
+        "word": "刘大锤曝的喜剧演员是大鹏",
+        "onboard_time": 1673844451,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469284,
+        "num": 340248,
+        "word": "制片人张萌获刑三年",
+        "onboard_time": 1673847868,
+        "rank": 12,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 333243,
+        "num": 333243,
+        "word": "公共场所的烘手器有多脏",
+        "onboard_time": 1673860949,
+        "rank": 13,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 308207,
+        "num": 308207,
+        "word": "大陆输台螺蛳粉包装现你是中国人",
+        "onboard_time": 1673844451,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269890,
+        "num": 269890,
+        "word": "第一次对烧烤失去兴趣",
+        "onboard_time": 1673854830,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240217,
+        "num": 240217,
+        "word": "九尾清清无畏运镜合拍",
+        "onboard_time": 1673865689,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230212,
+        "num": 230212,
+        "word": "马化腾称内部贪腐触目惊心",
+        "onboard_time": 1673846548,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 224286,
+        "num": 224286,
+        "word": "WE对战EDG",
+        "onboard_time": 1673863467,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206481,
+        "num": 206481,
+        "word": "好欢螺商业版图",
+        "onboard_time": 1673857709,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 399085,
+        "num": 206055,
+        "word": "沈腾你别太荒谬",
+        "onboard_time": 1673862631,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380470,
+        "num": 205957,
+        "word": "宋亚轩给马嘉祺拜年",
+        "onboard_time": 1673867250,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300449,
+        "num": 205775,
+        "word": "孙俪问邓超谁是一家之主",
+        "onboard_time": 1673865568,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205575,
+        "num": 205575,
+        "word": "分手后还会看前任动态吗",
+        "onboard_time": 1673862570,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197976,
+        "num": 197976,
+        "word": "Flandre在LPL出道八周年",
+        "onboard_time": 1673862210,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180193,
+        "num": 180193,
+        "word": "福兔",
+        "onboard_time": 1673846610,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 163397,
+        "num": 163397,
+        "word": "梅西内马尔相依为命",
+        "onboard_time": 1673850330,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157533,
+        "num": 157533,
+        "word": "现实版左牵黄右擎苍",
+        "onboard_time": 1673866111,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146550,
+        "num": 146550,
+        "word": "第一次见蝴蝶生气",
+        "onboard_time": 1673857468,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 111472,
+        "num": 146205,
+        "word": "儿媳每天接送8旬医生公公上下班",
+        "onboard_time": 1673849194,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295896,
+        "num": 145723,
+        "word": "EXO将2月后完整体回归",
+        "onboard_time": 1673858848,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281433,
+        "num": 145383,
+        "word": "张杰说明天十点来听新歌",
+        "onboard_time": 1673864670,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256769,
+        "num": 145228,
+        "word": "女孩称因戴弟弟帽子被妈妈殴打",
+        "onboard_time": 1673866708,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252787,
+        "num": 144544,
+        "word": "三体杨蓉慕星今晚上线",
+        "onboard_time": 1673862449,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144479,
+        "num": 144479,
+        "word": "这窗帘还是给猫咪抓吧",
+        "onboard_time": 1673864787,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238830,
+        "num": 142403,
+        "word": "三体制片人谈王传君演技",
+        "onboard_time": 1673855549,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138088,
+        "num": 138088,
+        "word": "这同学录挺费头发",
+        "onboard_time": 1673854650,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129105,
+        "num": 129105,
+        "word": "谁能拒绝看动漫的快乐呢",
+        "onboard_time": 1673862990,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 128375,
+        "num": 128375,
+        "word": "2023年起CATTI考试一年仅考一次",
+        "onboard_time": 1673863952,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127699,
+        "num": 127699,
+        "word": "原来小猫咪也会发光",
+        "onboard_time": 1673864127,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212219,
+        "num": 126585,
+        "word": "赵丽颖春晚联排高马尾造型梦回薛杉杉",
+        "onboard_time": 1673866291,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194987,
+        "num": 126161,
+        "word": "周深新歌永恒孤独恢宏感",
+        "onboard_time": 1673866769,
+        "rank": 41,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 124063,
+        "num": 124063,
+        "word": "恢复对涉港澳台营业性演出的受理和审批",
+        "onboard_time": 1673859330,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 123571,
+        "num": 123571,
+        "word": "内马尔踢后卫",
+        "onboard_time": 1673849852,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117785,
+        "num": 117785,
+        "word": "过年三件套",
+        "onboard_time": 1673859689,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109223,
+        "num": 109223,
+        "word": "黄山2023第一场壮美晚霞瀑布云海",
+        "onboard_time": 1673866950,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 106895,
+        "num": 106895,
+        "word": "新冠康复期正常吃好饭很重要",
+        "onboard_time": 1673858367,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101010,
+        "num": 101010,
+        "word": "蛋仔派对",
+        "onboard_time": 1673859807,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94329,
+        "num": 94329,
+        "word": "这猫像极了年底加班的我",
+        "onboard_time": 1673861308,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82043,
+        "num": 93870,
+        "word": "以为是反转原来是续集",
+        "onboard_time": 1673865809,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#被春节回家暖心瞬间戳到了#"
+    }
+  }
+}
