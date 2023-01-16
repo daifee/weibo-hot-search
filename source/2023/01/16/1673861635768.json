@@ -1,0 +1,410 @@
+{
+  "runTime": 1673861635768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1294784,
+        "num": 1294784,
+        "word": "王者荣耀",
+        "onboard_time": 1673860287,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1072528,
+        "num": 1072528,
+        "word": "制片人张萌获刑三年",
+        "onboard_time": 1673847868,
+        "rank": 1,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 49170,
+        "num": 918627,
+        "word": "脆弱人群感染后要警惕这些情况",
+        "onboard_time": 1673830166,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901787,
+        "num": 901787,
+        "word": "EXO将2月后完整体回归",
+        "onboard_time": 1673858848,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 888056,
+        "num": 888056,
+        "word": "第一次对烧烤失去兴趣",
+        "onboard_time": 1673854830,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 836148,
+        "num": 836148,
+        "word": "2022年全国人口或出现负增长",
+        "onboard_time": 1673857289,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553932,
+        "num": 553932,
+        "word": "大陆输台螺蛳粉包装现你是中国人",
+        "onboard_time": 1673844451,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532353,
+        "num": 532353,
+        "word": "第一次见蝴蝶生气",
+        "onboard_time": 1673857468,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 454510,
+        "num": 454510,
+        "word": "三体央八片头",
+        "onboard_time": 1673857468,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 448593,
+        "num": 448593,
+        "word": "好欢螺商业版图",
+        "onboard_time": 1673857709,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2427001,
+        "num": 415105,
+        "word": "张颖颖 我说了无数次分手",
+        "onboard_time": 1673846008,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1135681,
+        "num": 408838,
+        "word": "刘大锤曝的喜剧演员是大鹏",
+        "onboard_time": 1673844451,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450357,
+        "num": 384615,
+        "word": "谢之遥醋坛子说翻就翻",
+        "onboard_time": 1673859990,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346666,
+        "num": 346666,
+        "word": "蛋仔派对",
+        "onboard_time": 1673859807,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 342275,
+        "num": 342275,
+        "word": "马化腾称内部贪腐触目惊心",
+        "onboard_time": 1673846548,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 321103,
+        "num": 321103,
+        "word": "福兔",
+        "onboard_time": 1673846610,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 315616,
+        "num": 315616,
+        "word": "这同学录挺费头发",
+        "onboard_time": 1673854650,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283327,
+        "num": 283327,
+        "word": "梅西内马尔相依为命",
+        "onboard_time": 1673850330,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251169,
+        "num": 251169,
+        "word": "恢复对涉港澳台营业性演出的受理和审批",
+        "onboard_time": 1673859330,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 227092,
+        "num": 227092,
+        "word": "catti",
+        "onboard_time": 1673856929,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 342719,
+        "num": 223679,
+        "word": "岳云鹏孙越兔年央视春晚第四次大联排",
+        "onboard_time": 1673859147,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298284,
+        "num": 223255,
+        "word": "胡歌误入史上最强赘婿剧组",
+        "onboard_time": 1673860949,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291237,
+        "num": 220063,
+        "word": "程耳祝王一博转型成功",
+        "onboard_time": 1673859208,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216121,
+        "num": 216121,
+        "word": "春节摄影大赛",
+        "onboard_time": 1673859990,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215417,
+        "num": 215417,
+        "word": "烧烤摊做错了什么",
+        "onboard_time": 1673858426,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273421,
+        "num": 214698,
+        "word": "虞书欣在微博送有爱卡",
+        "onboard_time": 1673855970,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211000,
+        "num": 211000,
+        "word": "这动作是咋做到全国统一的",
+        "onboard_time": 1673855851,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191060,
+        "num": 191060,
+        "word": "儿媳每天接送8旬医生公公上下班",
+        "onboard_time": 1673849194,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188538,
+        "num": 188538,
+        "word": "新冠康复期正常吃好饭很重要",
+        "onboard_time": 1673858367,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184229,
+        "num": 184229,
+        "word": "十二生肖为什么没有小猫咪",
+        "onboard_time": 1673853508,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 270930,
+        "num": 184137,
+        "word": "郭京飞王源灿烂灿烂已过审",
+        "onboard_time": 1673860887,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263302,
+        "num": 183312,
+        "word": "蒋依依2023央视春晚第四次联排路透",
+        "onboard_time": 1673861008,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262479,
+        "num": 182768,
+        "word": "三体制片人谈王传君演技",
+        "onboard_time": 1673855549,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184912,
+        "num": 182344,
+        "word": "公共场所的烘手器有多脏",
+        "onboard_time": 1673860949,
+        "rank": 33,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 181927,
+        "num": 181927,
+        "word": "内马尔踢后卫",
+        "onboard_time": 1673849852,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174160,
+        "num": 174160,
+        "word": "在电视上无阻碍看剧要花1612元",
+        "onboard_time": 1673854229,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 168340,
+        "num": 168340,
+        "word": "过年三件套",
+        "onboard_time": 1673859689,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167254,
+        "num": 167254,
+        "word": "高铁G61为她紧急临停3分钟",
+        "onboard_time": 1673839645,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165158,
+        "num": 165158,
+        "word": "小兔子折纸教程",
+        "onboard_time": 1673861308,
+        "rank": 38,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 148356,
+        "num": 165153,
+        "word": "法考",
+        "onboard_time": 1673853868,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 249575,
+        "num": 165101,
+        "word": "时代少年团微博音乐盛典VCR",
+        "onboard_time": 1673859868,
+        "rank": 40,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 221967,
+        "num": 165066,
+        "word": "某某吴组合",
+        "onboard_time": 1673853749,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202031,
+        "num": 165008,
+        "word": "春晚主持人 龙洋",
+        "onboard_time": 1673842530,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140584,
+        "num": 164965,
+        "word": "这猫像极了年底加班的我",
+        "onboard_time": 1673861308,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135094,
+        "num": 164923,
+        "word": "年后再说",
+        "onboard_time": 1673860887,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 134172,
+        "num": 164896,
+        "word": "美国女子刺伤亚裔称以为是中国人",
+        "onboard_time": 1673839166,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128143,
+        "num": 164816,
+        "word": "平台开始反薅用户羊毛",
+        "onboard_time": 1673849434,
+        "rank": 46,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 125798,
+        "num": 164774,
+        "word": "她把雪玩得好精致啊",
+        "onboard_time": 1673857886,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120416,
+        "num": 164735,
+        "word": "尼泊尔坠毁飞机的黑匣子被发现",
+        "onboard_time": 1673850211,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117878,
+        "num": 164723,
+        "word": "小乔山海琳琅生皮肤",
+        "onboard_time": 1673861430,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#被春节回家暖心瞬间戳到了#"
+    }
+  }
+}
