@@ -1,0 +1,410 @@
+{
+  "runTime": 1673834153376,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1842200,
+        "num": 1842200,
+        "word": "N95口罩血氧仪价格大跳水",
+        "onboard_time": 1673831725,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1249268,
+        "num": 1249268,
+        "word": "假唱",
+        "onboard_time": 1673789131,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28105,
+        "num": 940672,
+        "word": "这一幕幕就是回家的意义",
+        "onboard_time": 1673750902,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834725,
+        "num": 834725,
+        "word": "马嘉祺吃了宋亚轩喂给刘耀文的汤圆",
+        "onboard_time": 1673832325,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 671895,
+        "num": 671895,
+        "word": "理想车主夜间驾车中控显示有人追车",
+        "onboard_time": 1673829984,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572703,
+        "num": 572703,
+        "word": "汪涵 多给我们家一博机会",
+        "onboard_time": 1673797468,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571865,
+        "num": 571865,
+        "word": "以为染发后会是氛围感美女",
+        "onboard_time": 1673826562,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 531070,
+        "num": 531070,
+        "word": "盘锦化工厂爆炸事故已致2人死亡12人失联",
+        "onboard_time": 1673832444,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 463226,
+        "num": 463226,
+        "word": "00后和父母买年货的代沟",
+        "onboard_time": 1673832925,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 387651,
+        "num": 387651,
+        "word": "不建议没阳过的人长途旅行",
+        "onboard_time": 1673817191,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696454,
+        "num": 386724,
+        "word": "尼泊尔客机坠毁机舱内画面曝光",
+        "onboard_time": 1673831245,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 491394,
+        "num": 382516,
+        "word": "三体赢麻了",
+        "onboard_time": 1673796212,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490405,
+        "num": 378631,
+        "word": "YG新女团新成员公开",
+        "onboard_time": 1673826683,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538397,
+        "num": 372886,
+        "word": "尼泊尔失事客机上72人全部遇难",
+        "onboard_time": 1673796453,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 431224,
+        "num": 370206,
+        "word": "释小龙郝劭文同台爷青回",
+        "onboard_time": 1673828785,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367152,
+        "num": 367152,
+        "word": "勿信新冠不是大号流感而是小号艾滋",
+        "onboard_time": 1673833043,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354542,
+        "num": 354542,
+        "word": "梅西离开后巴萨首次夺冠",
+        "onboard_time": 1673832626,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302290,
+        "num": 302290,
+        "word": "祝融号已在火星留下近4000个中字",
+        "onboard_time": 1673828123,
+        "rank": 17,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 258710,
+        "num": 258710,
+        "word": "尼泊尔飞机坠毁前或曾尝试着陆",
+        "onboard_time": 1673802083,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 219864,
+        "num": 219864,
+        "word": "男子车祸失忆流浪9年后找回家人",
+        "onboard_time": 1673819412,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380794,
+        "num": 214440,
+        "word": "刘亦菲版花木兰首播收视率第一",
+        "onboard_time": 1673827522,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355000,
+        "num": 209385,
+        "word": "何炅 嗓子",
+        "onboard_time": 1673785528,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295586,
+        "num": 206945,
+        "word": "关谷丁仪",
+        "onboard_time": 1673825600,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204301,
+        "num": 204301,
+        "word": "巴萨3比1皇马",
+        "onboard_time": 1673825662,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204155,
+        "num": 204155,
+        "word": "上海39平米的家是什么样",
+        "onboard_time": 1673793639,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190130,
+        "num": 190130,
+        "word": "买8寸蛋糕直径少4厘米索赔遭怼",
+        "onboard_time": 1673791175,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181018,
+        "num": 181018,
+        "word": "河南发现240座北魏时期皇家仓窖",
+        "onboard_time": 1673830525,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174989,
+        "num": 174989,
+        "word": "12岁女孩跳扇子舞又美又飒",
+        "onboard_time": 1673832805,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159615,
+        "num": 159615,
+        "word": "爸爸遛丢8岁女儿妈妈急得大哭",
+        "onboard_time": 1673788109,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159537,
+        "num": 159537,
+        "word": "看起来很贵其实很便宜的东西",
+        "onboard_time": 1673786254,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 290158,
+        "num": 155581,
+        "word": "七英俊打赏",
+        "onboard_time": 1673828724,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 273743,
+        "num": 153184,
+        "word": "张艺兴live实力",
+        "onboard_time": 1673833525,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254835,
+        "num": 152636,
+        "word": "三体 选角",
+        "onboard_time": 1673825719,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150038,
+        "num": 150038,
+        "word": "女子住全季酒店遇保安深夜刷卡进房",
+        "onboard_time": 1673784987,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245840,
+        "num": 146119,
+        "word": "于和伟演技",
+        "onboard_time": 1673825179,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138424,
+        "num": 138424,
+        "word": "雷恩1比0巴黎圣日耳曼",
+        "onboard_time": 1673827403,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135900,
+        "num": 135900,
+        "word": "尼泊尔当地航线为何格外凶险",
+        "onboard_time": 1673825118,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 123829,
+        "num": 123829,
+        "word": "这席非吃不可吗",
+        "onboard_time": 1673821513,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117500,
+        "num": 117500,
+        "word": "结个婚被笑话三年",
+        "onboard_time": 1673799745,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113982,
+        "num": 113982,
+        "word": "还有5天就过年了",
+        "onboard_time": 1673833227,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240912,
+        "num": 111076,
+        "word": "王一博湖南卫视春晚花絮照",
+        "onboard_time": 1673829984,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226494,
+        "num": 109597,
+        "word": "原来吴昕是真的在种草",
+        "onboard_time": 1673808133,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223050,
+        "num": 108652,
+        "word": "尹净汉将出席巴黎时装周",
+        "onboard_time": 1673834124,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 107404,
+        "num": 107404,
+        "word": "雪天户外吃席8个凉菜被冻成冰雕",
+        "onboard_time": 1673795857,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103923,
+        "num": 103923,
+        "word": "餐厅就别搞这种顶灯了吧",
+        "onboard_time": 1673794959,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103183,
+        "num": 103183,
+        "word": "多人在辽宁盘锦化工厂爆炸事故中失联",
+        "onboard_time": 1673789192,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 100283,
+        "num": 100283,
+        "word": "学到了一种很新的拒绝方式",
+        "onboard_time": 1673796031,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 98818,
+        "num": 98818,
+        "word": "TTG 不然",
+        "onboard_time": 1673827705,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91301,
+        "num": 91301,
+        "word": "2023年春运",
+        "onboard_time": 1673833884,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84508,
+        "num": 84508,
+        "word": "残疾小哥剐蹭车辆后为车主送新鲜菜",
+        "onboard_time": 1673815691,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦2023年春运#"
+    }
+  }
+}

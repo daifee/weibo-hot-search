@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673832905192,
+  "endTime": 1673834153376,
   "band_list": [
     {
       "raw_hot": 2443672,
@@ -19,6 +19,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1842200,
+      "num": 1842200,
+      "word": "N95口罩血氧仪价格大跳水",
+      "onboard_time": 1673831725,
+      "rank": 10,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1437266,
       "num": 1437266,
       "word": "汪涵 多给我们家一博机会",
@@ -27,20 +35,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1042801,
-      "num": 260849,
-      "word": "N95口罩血氧仪价格大跳水",
-      "onboard_time": 1673831725,
-      "rank": 10,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 872831,
       "num": 872831,
       "word": "上海39平米的家是什么样",
       "onboard_time": 1673793639,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 834725,
+      "num": 834725,
+      "word": "马嘉祺吃了宋亚轩喂给刘耀文的汤圆",
+      "onboard_time": 1673832325,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 701817,
@@ -59,6 +67,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 696454,
+      "num": 386724,
+      "word": "尼泊尔客机坠毁机舱内画面曝光",
+      "onboard_time": 1673831245,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 673725,
       "num": 411057,
       "word": "尼泊尔失事客机上72人全部遇难",
@@ -67,20 +83,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 671895,
+      "num": 671895,
+      "word": "理想车主夜间驾车中控显示有人追车",
+      "onboard_time": 1673829984,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 662141,
       "num": 304192,
       "word": "何炅 嗓子",
       "onboard_time": 1673785528,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 643665,
-      "num": 643665,
-      "word": "理想车主夜间驾车中控显示有人追车",
-      "onboard_time": 1673829984,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 625497,
@@ -99,20 +115,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 589070,
-      "num": 258258,
-      "word": "马嘉祺吃了宋亚轩喂给刘耀文的汤圆",
-      "onboard_time": 1673832325,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 555747,
-      "num": 255510,
-      "word": "尼泊尔客机坠毁机舱内画面曝光",
-      "onboard_time": 1673831245,
-      "rank": 14,
-      "category": "国外要闻"
+      "raw_hot": 531070,
+      "num": 531070,
+      "word": "盘锦化工厂爆炸事故已致2人死亡12人失联",
+      "onboard_time": 1673832444,
+      "rank": 16,
+      "category": "社会负面"
     },
     {
       "raw_hot": 509600,
@@ -131,8 +139,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 463226,
+      "num": 463226,
+      "word": "00后和父母买年货的代沟",
+      "onboard_time": 1673832925,
+      "rank": 8,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 446827,
-      "num": 206060,
+      "num": 370206,
       "word": "释小龙郝劭文同台爷青回",
       "onboard_time": 1673828785,
       "rank": 21,
@@ -172,11 +188,19 @@
     },
     {
       "raw_hot": 370693,
-      "num": 248967,
+      "num": 258710,
       "word": "尼泊尔飞机坠毁前或曾尝试着陆",
       "onboard_time": 1673802083,
       "rank": 39,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 367152,
+      "num": 367152,
+      "word": "勿信新冠不是大号流感而是小号艾滋",
+      "onboard_time": 1673833043,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362406,
@@ -193,6 +217,14 @@
       "onboard_time": 1673791175,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354542,
+      "num": 354542,
+      "word": "梅西离开后巴萨首次夺冠",
+      "onboard_time": 1673832626,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 340368,
@@ -251,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295586,
+      "num": 206945,
+      "word": "关谷丁仪",
+      "onboard_time": 1673825600,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294924,
       "num": 183081,
       "word": "张艺兴面纱舞台脸链造型",
@@ -259,20 +299,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287001,
-      "num": 145601,
+      "raw_hot": 290158,
+      "num": 155581,
       "word": "七英俊打赏",
       "onboard_time": 1673828724,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 284671,
-      "num": 144612,
-      "word": "关谷丁仪",
-      "onboard_time": 1673825600,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 281399,
@@ -289,6 +321,14 @@
       "onboard_time": 1673778988,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 273743,
+      "num": 153184,
+      "word": "张艺兴live实力",
+      "onboard_time": 1673833525,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 272739,
@@ -316,7 +356,7 @@
     },
     {
       "raw_hot": 264523,
-      "num": 141595,
+      "num": 146119,
       "word": "于和伟演技",
       "onboard_time": 1673825179,
       "rank": 31,
@@ -337,14 +377,6 @@
       "onboard_time": 1673797412,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252756,
-      "num": 252756,
-      "word": "盘锦化工厂爆炸事故已致2人死亡12人失联",
-      "onboard_time": 1673832444,
-      "rank": 16,
-      "category": "社会负面"
     },
     {
       "raw_hot": 249481,
@@ -369,6 +401,22 @@
       "onboard_time": 1673790873,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226494,
+      "num": 109597,
+      "word": "原来吴昕是真的在种草",
+      "onboard_time": 1673808133,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 223050,
+      "num": 108652,
+      "word": "尹净汉将出席巴黎时装周",
+      "onboard_time": 1673834124,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 217652,
@@ -459,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174989,
+      "num": 174989,
+      "word": "12岁女孩跳扇子舞又美又飒",
+      "onboard_time": 1673832805,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166819,
       "num": 116779,
       "word": "戴燕妮兑现叶若依跳舞flag",
@@ -547,6 +603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113982,
+      "num": 113982,
+      "word": "还有5天就过年了",
+      "onboard_time": 1673833227,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111185,
       "num": 82880,
       "word": "你如何看待假唱",
@@ -619,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100225,
-      "num": 100225,
-      "word": "梅西离开后巴萨首次夺冠",
-      "onboard_time": 1673832626,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98872,
       "num": 47729,
       "word": "吴莫愁对不是四转耿耿于怀",
@@ -667,11 +723,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 90823,
-      "num": 90823,
-      "word": "12岁女孩跳扇子舞又美又飒",
-      "onboard_time": 1673832805,
-      "rank": 46,
+      "raw_hot": 91301,
+      "num": 91301,
+      "word": "2023年春运",
+      "onboard_time": 1673833884,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -811,7 +867,7 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 24917,
+      "raw_hot": 28105,
       "num": 1636405,
       "word": "这一幕幕就是回家的意义",
       "onboard_time": 1673750902,
@@ -825,14 +881,6 @@
       "onboard_time": 1673820973,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 23174,
-      "num": 19359,
-      "word": "原来吴昕是真的在种草",
-      "onboard_time": 1673808133,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 19853,
