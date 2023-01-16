@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673825616482,
+  "endTime": 1673832905192,
   "band_list": [
     {
       "raw_hot": 2443672,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1042801,
+      "num": 260849,
+      "word": "N95口罩血氧仪价格大跳水",
+      "onboard_time": 1673831725,
+      "rank": 10,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 872831,
       "num": 872831,
       "word": "上海39平米的家是什么样",
@@ -43,12 +51,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 699587,
+      "num": 699587,
+      "word": "以为染发后会是氛围感美女",
+      "onboard_time": 1673826562,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 673725,
+      "num": 411057,
+      "word": "尼泊尔失事客机上72人全部遇难",
+      "onboard_time": 1673796453,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 662141,
       "num": 304192,
       "word": "何炅 嗓子",
       "onboard_time": 1673785528,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 643665,
+      "num": 643665,
+      "word": "理想车主夜间驾车中控显示有人追车",
+      "onboard_time": 1673829984,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625497,
+      "num": 625497,
+      "word": "YG新女团新成员公开",
+      "onboard_time": 1673826683,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 619148,
@@ -59,20 +99,52 @@
       "category": "影视"
     },
     {
-      "raw_hot": 561672,
-      "num": 411057,
-      "word": "尼泊尔失事客机上72人全部遇难",
-      "onboard_time": 1673796453,
-      "rank": 13,
+      "raw_hot": 589070,
+      "num": 258258,
+      "word": "马嘉祺吃了宋亚轩喂给刘耀文的汤圆",
+      "onboard_time": 1673832325,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 555747,
+      "num": 255510,
+      "word": "尼泊尔客机坠毁机舱内画面曝光",
+      "onboard_time": 1673831245,
+      "rank": 14,
       "category": "国外要闻"
     },
     {
-      "raw_hot": 413672,
-      "num": 413672,
+      "raw_hot": 509600,
+      "num": 509600,
       "word": "不建议没阳过的人长途旅行",
       "onboard_time": 1673817191,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505421,
+      "num": 252766,
+      "word": "刘亦菲版花木兰首播收视率第一",
+      "onboard_time": 1673827522,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 446827,
+      "num": 206060,
+      "word": "释小龙郝劭文同台爷青回",
+      "onboard_time": 1673828785,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 416074,
+      "num": 416074,
+      "word": "祝融号已在火星留下近4000个中字",
+      "onboard_time": 1673828123,
+      "rank": 7,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 400948,
@@ -97,6 +169,14 @@
       "onboard_time": 1673788109,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370693,
+      "num": 248967,
+      "word": "尼泊尔飞机坠毁前或曾尝试着陆",
+      "onboard_time": 1673802083,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 362406,
@@ -163,12 +243,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 300853,
+      "num": 205090,
+      "word": "三体 选角",
+      "onboard_time": 1673825719,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294924,
       "num": 183081,
       "word": "张艺兴面纱舞台脸链造型",
       "onboard_time": 1673795433,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287001,
+      "num": 145601,
+      "word": "七英俊打赏",
+      "onboard_time": 1673828724,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 284671,
+      "num": 144612,
+      "word": "关谷丁仪",
+      "onboard_time": 1673825600,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 281399,
@@ -187,6 +291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 272739,
+      "num": 143186,
+      "word": "王一博湖南卫视春晚花絮照",
+      "onboard_time": 1673829984,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272054,
       "num": 182911,
       "word": "蒋依依开场舞",
@@ -203,6 +315,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264523,
+      "num": 141595,
+      "word": "于和伟演技",
+      "onboard_time": 1673825179,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 262023,
+      "num": 262023,
+      "word": "巴萨3比1皇马",
+      "onboard_time": 1673825662,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253301,
       "num": 180550,
       "word": "面纱舞台 绝",
@@ -211,12 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249893,
-      "num": 197330,
-      "word": "尼泊尔飞机坠毁前或曾尝试着陆",
-      "onboard_time": 1673802083,
-      "rank": 39,
-      "category": "国外要闻"
+      "raw_hot": 252756,
+      "num": 252756,
+      "word": "盘锦化工厂爆炸事故已致2人死亡12人失联",
+      "onboard_time": 1673832444,
+      "rank": 16,
+      "category": "社会负面"
     },
     {
       "raw_hot": 249481,
@@ -236,7 +364,7 @@
     },
     {
       "raw_hot": 232880,
-      "num": 130381,
+      "num": 139587,
       "word": "周杰伦马来西亚演唱会",
       "onboard_time": 1673790873,
       "rank": 32,
@@ -291,6 +419,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 190857,
+      "num": 190857,
+      "word": "河南发现240座北魏时期皇家仓窖",
+      "onboard_time": 1673830525,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182546,
       "num": 182546,
       "word": "电影无名",
@@ -305,6 +441,22 @@
       "onboard_time": 1673795557,
       "rank": 24,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 180156,
+      "num": 180156,
+      "word": "尼泊尔当地航线为何格外凶险",
+      "onboard_time": 1673825118,
+      "rank": 34,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 175728,
+      "num": 175728,
+      "word": "雷恩1比0巴黎圣日耳曼",
+      "onboard_time": 1673827403,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 166819,
@@ -339,20 +491,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139260,
+      "num": 139260,
+      "word": "我们为什么一定要搞出氢弹",
+      "onboard_time": 1673831966,
+      "rank": 36,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 136833,
       "num": 184159,
       "word": "深圳男篮主帅场边昏倒",
       "onboard_time": 1673794838,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125598,
-      "num": 64105,
-      "word": "于和伟演技",
-      "onboard_time": 1673825179,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 122074,
@@ -387,6 +539,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 114798,
+      "num": 114798,
+      "word": "TTG 不然",
+      "onboard_time": 1673827705,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111185,
       "num": 82880,
       "word": "你如何看待假唱",
@@ -409,6 +569,14 @@
       "onboard_time": 1673824097,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106750,
+      "num": 106750,
+      "word": "残疾小哥剐蹭车辆后为车主送新鲜菜",
+      "onboard_time": 1673815691,
+      "rank": 19,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 104161,
@@ -441,6 +609,22 @@
       "onboard_time": 1673805437,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100733,
+      "num": 100733,
+      "word": "脆弱人群感染后要警惕这些情况",
+      "onboard_time": 1673830166,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100225,
+      "num": 100225,
+      "word": "梅西离开后巴萨首次夺冠",
+      "onboard_time": 1673832626,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 98872,
@@ -483,11 +667,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90823,
+      "num": 90823,
+      "word": "12岁女孩跳扇子舞又美又飒",
+      "onboard_time": 1673832805,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89921,
       "num": 182260,
       "word": "KPL转会期的瓜给我转懵了",
       "onboard_time": 1673790694,
       "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 89249,
+      "num": 89249,
+      "word": "光遇",
+      "onboard_time": 1673826022,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -505,14 +705,6 @@
       "onboard_time": 1673781751,
       "rank": 38,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 82457,
-      "num": 48404,
-      "word": "关谷丁仪",
-      "onboard_time": 1673825600,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 80220,
@@ -571,28 +763,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 69699,
-      "num": 69699,
-      "word": "残疾小哥剐蹭车辆后为车主送新鲜菜",
-      "onboard_time": 1673815691,
-      "rank": 19,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 68295,
       "num": 180873,
       "word": "开肩美背 仪态救星",
       "onboard_time": 1673790816,
       "rank": 45,
       "category": "其它"
-    },
-    {
-      "raw_hot": 65944,
-      "num": 63917,
-      "word": "尼泊尔当地航线为何格外凶险",
-      "onboard_time": 1673825118,
-      "rank": 34,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 63916,
@@ -635,6 +811,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 24917,
+      "num": 1636405,
+      "word": "这一幕幕就是回家的意义",
+      "onboard_time": 1673750902,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23793,
       "num": 23793,
       "word": "朴彩英抱Jennie",
@@ -657,14 +841,6 @@
       "onboard_time": 1673816711,
       "rank": 47,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 19455,
-      "num": 1636405,
-      "word": "这一幕幕就是回家的意义",
-      "onboard_time": 1673750902,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19062,
