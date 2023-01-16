@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673876241196,
+  "endTime": 1673878651609,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -33,6 +33,14 @@
       "onboard_time": 1673840248,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2546610,
+      "num": 2546610,
+      "word": "王一博抱never",
+      "onboard_time": 1673876553,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2443672,
@@ -163,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1285220,
+      "num": 1285220,
+      "word": "荣安皇后终于被肖铎抱了",
+      "onboard_time": 1673876853,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1282626,
       "num": 1282626,
       "word": "女子网购100根仙女棒收到100根铁丝",
@@ -267,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 938115,
+      "num": 938115,
+      "word": "女子回村后美甲太长被妈妈按住剪掉",
+      "onboard_time": 1673873909,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 899142,
       "num": 899142,
       "word": "内娱舞台教科书",
@@ -321,6 +345,14 @@
       "onboard_time": 1673832325,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 781667,
+      "num": 781667,
+      "word": "当地回应小马云拦车要钱",
+      "onboard_time": 1673875953,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 780988,
@@ -491,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 617198,
-      "num": 617198,
-      "word": "女子回村后美甲太长被妈妈按住剪掉",
-      "onboard_time": 1673873909,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 616531,
       "num": 616531,
       "word": "河南将投入130亿元支持双一流建设",
@@ -529,6 +553,14 @@
       "onboard_time": 1673834545,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 594413,
+      "num": 314574,
+      "word": "三体 原著党狂喜",
+      "onboard_time": 1673876489,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 589962,
@@ -609,6 +641,14 @@
       "onboard_time": 1673861430,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 570541,
+      "num": 394536,
+      "word": "蓝环章鱼",
+      "onboard_time": 1673877091,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 551144,
@@ -723,6 +763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 452809,
+      "num": 390102,
+      "word": "男子买100克金条亲手给未婚妻做手镯",
+      "onboard_time": 1673876489,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450357,
       "num": 384615,
       "word": "谢之遥醋坛子说翻就翻",
@@ -803,6 +851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 404809,
+      "num": 404809,
+      "word": "meiko 娜美",
+      "onboard_time": 1673875109,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 400948,
       "num": 185887,
       "word": "郑秀妍晒Jennie舞台",
@@ -852,7 +908,7 @@
     },
     {
       "raw_hot": 385325,
-      "num": 203746,
+      "num": 221122,
       "word": "看完三体的后遗症",
       "onboard_time": 1673873131,
       "rank": 21,
@@ -1011,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341388,
+      "num": 305961,
+      "word": "never在笑",
+      "onboard_time": 1673878411,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340368,
       "num": 340368,
       "word": "女子住全季酒店遇保安深夜刷卡进房",
@@ -1035,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333629,
+      "num": 274619,
+      "word": "谢之遥洗澡镜头",
+      "onboard_time": 1673874931,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332325,
       "num": 332325,
       "word": "原神米卡",
@@ -1049,14 +1121,6 @@
       "onboard_time": 1673799387,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 331849,
-      "num": 196255,
-      "word": "谢之遥洗澡镜头",
-      "onboard_time": 1673874931,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 327066,
@@ -1099,12 +1163,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322745,
+      "num": 266502,
+      "word": "谢之遥被许红豆提醒吊牌没摘",
+      "onboard_time": 1673874511,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 320805,
       "num": 175597,
       "word": "于冬说无名会是春节档最大黑马",
       "onboard_time": 1673843010,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 319804,
+      "num": 319804,
+      "word": "中国足协杯奖杯被掰断",
+      "onboard_time": 1673872590,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 319725,
@@ -1179,20 +1259,20 @@
       "category": "综艺,音乐"
     },
     {
-      "raw_hot": 305422,
-      "num": 157299,
-      "word": "谢之遥被许红豆提醒吊牌没摘",
-      "onboard_time": 1673874511,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 304276,
       "num": 188503,
       "word": "谢之遥是许红豆许红米的关系调和剂",
       "onboard_time": 1673839408,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 301269,
+      "num": 301269,
+      "word": "动车上女儿突然出现父母一愣",
+      "onboard_time": 1673877570,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300872,
@@ -1299,20 +1379,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280121,
-      "num": 280121,
-      "word": "meiko 娜美",
-      "onboard_time": 1673875109,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 278099,
       "num": 278099,
       "word": "十二生肖为什么没有小猫咪",
       "onboard_time": 1673853508,
       "rank": 27,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 274994,
+      "num": 274994,
+      "word": "歼20在我国防空识别区驱离外机",
+      "onboard_time": 1673874869,
+      "rank": 36,
+      "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 274041,
+      "num": 274041,
+      "word": "情侣逛街是全国统一的吧",
+      "onboard_time": 1673871808,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 273743,
@@ -1387,14 +1475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 270798,
-      "num": 270798,
-      "word": "情侣逛街是全国统一的吧",
-      "onboard_time": 1673871808,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 268484,
       "num": 182825,
       "word": "东北人对锅包肉的执念有多强",
@@ -1431,6 +1511,14 @@
       "num": 146119,
       "word": "于和伟演技",
       "onboard_time": 1673825179,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 264357,
+      "num": 264357,
+      "word": "肖铎步音楼吻戏",
+      "onboard_time": 1673878109,
       "rank": 31,
       "category": "影视"
     },
@@ -1595,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231587,
+      "num": 231587,
+      "word": "肖步活了是真地下恋",
+      "onboard_time": 1673876731,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226142,
       "num": 226142,
       "word": "一诺发催泪合照",
@@ -1609,14 +1705,6 @@
       "onboard_time": 1673867907,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223396,
-      "num": 223396,
-      "word": "中国足协杯奖杯被掰断",
-      "onboard_time": 1673872590,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 223050,
@@ -1636,7 +1724,7 @@
     },
     {
       "raw_hot": 216343,
-      "num": 216343,
+      "num": 243107,
       "word": "EDG首发全华班",
       "onboard_time": 1673871509,
       "rank": 27,
@@ -1708,7 +1796,7 @@
     },
     {
       "raw_hot": 205575,
-      "num": 205575,
+      "num": 218999,
       "word": "分手后还会看前任动态吗",
       "onboard_time": 1673862570,
       "rank": 42,
@@ -1795,14 +1883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188277,
-      "num": 188277,
-      "word": "歼20在我国防空识别区驱离外机",
-      "onboard_time": 1673874869,
-      "rank": 36,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 183508,
       "num": 183508,
       "word": "这猫怎么比狗还狗",
@@ -1876,7 +1956,7 @@
     },
     {
       "raw_hot": 174276,
-      "num": 174276,
+      "num": 221090,
       "word": "这就是一碗猫咪吗",
       "onboard_time": 1673870608,
       "rank": 28,
@@ -1884,7 +1964,7 @@
     },
     {
       "raw_hot": 173698,
-      "num": 173698,
+      "num": 238555,
       "word": "TES战胜AL",
       "onboard_time": 1673874329,
       "rank": 27,
@@ -1964,7 +2044,7 @@
     },
     {
       "raw_hot": 164975,
-      "num": 164975,
+      "num": 219611,
       "word": "外交部回应美日称中国加速核武库扩张",
       "onboard_time": 1673868090,
       "rank": 49,
@@ -2051,6 +2131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146720,
+      "num": 1215294,
+      "word": "全国特色年味地图出炉",
+      "onboard_time": 1673873428,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146452,
       "num": 163473,
       "word": "谁能拒绝看动漫的快乐呢",
@@ -2073,6 +2161,14 @@
       "onboard_time": 1673850391,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144869,
+      "num": 257442,
+      "word": "德国国防部长宣布辞职",
+      "onboard_time": 1673878049,
+      "rank": 33,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 144675,
@@ -2121,6 +2217,14 @@
       "onboard_time": 1673853267,
       "rank": 44,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 140470,
+      "num": 252101,
+      "word": "妈妈你可别说了",
+      "onboard_time": 1673875352,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 139260,
@@ -2172,7 +2276,7 @@
     },
     {
       "raw_hot": 129488,
-      "num": 133702,
+      "num": 220640,
       "word": "用逗猫的方式去逗狗",
       "onboard_time": 1673873551,
       "rank": 43,
@@ -2185,22 +2289,6 @@
       "onboard_time": 1673844152,
       "rank": 44,
       "category": "军事,科技"
-    },
-    {
-      "raw_hot": 126823,
-      "num": 1171970,
-      "word": "全国特色年味地图出炉",
-      "onboard_time": 1673873428,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124779,
-      "num": 133329,
-      "word": "妈妈你可别说了",
-      "onboard_time": 1673875352,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 124425,
@@ -2307,20 +2395,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114092,
+      "num": 239457,
+      "word": "catti一年考几次合适",
+      "onboard_time": 1673876068,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 113982,
       "num": 113982,
       "word": "还有5天就过年了",
       "onboard_time": 1673833227,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112002,
-      "num": 112002,
-      "word": "当地回应小马云拦车要钱",
-      "onboard_time": 1673875953,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111185,
@@ -2388,7 +2476,7 @@
     },
     {
       "raw_hot": 105115,
-      "num": 133247,
+      "num": 220352,
       "word": "春节要瘦不要胖",
       "onboard_time": 1673872168,
       "rank": 45,
@@ -2452,7 +2540,7 @@
     },
     {
       "raw_hot": 98345,
-      "num": 133057,
+      "num": 219936,
       "word": "吉林男篮vs辽宁男篮",
       "onboard_time": 1673873850,
       "rank": 45,
@@ -2513,14 +2601,6 @@
       "onboard_time": 1673833884,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90771,
-      "num": 90771,
-      "word": "catti一年考几次合适",
-      "onboard_time": 1673876068,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 90328,
@@ -2656,6 +2736,14 @@
       "word": "南海海域山东舰上多架歼15起飞",
       "onboard_time": 1673787990,
       "rank": 48,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 62346,
+      "num": 218646,
+      "word": "王海大队整建制列装歼20战机",
+      "onboard_time": 1673878171,
+      "rank": 49,
       "category": "军事"
     },
     {
