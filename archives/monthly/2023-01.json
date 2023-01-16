@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673901213365,
+  "endTime": 1673903754909,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -40563,6 +40563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 23161,
+      "num": 21942,
+      "word": "阿强伤透了阿欣的心",
+      "onboard_time": 1673900832,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 22817,
       "num": 30084,
       "word": "原来这就是绝对音感",
@@ -40577,6 +40585,14 @@
       "onboard_time": 1672664431,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 20032,
+      "num": 20032,
+      "word": "华晨宇加盟微博音乐盛典",
+      "onboard_time": 1673901371,
+      "rank": 36,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 19996,
