@@ -1,0 +1,410 @@
+{
+  "runTime": 1673837667008,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1560277,
+        "num": 1560277,
+        "word": "N95口罩血氧仪价格大跳水",
+        "onboard_time": 1673831725,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1099962,
+        "num": 1099962,
+        "word": "假唱",
+        "onboard_time": 1673789131,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24795,
+        "num": 1083174,
+        "word": "这一幕幕就是回家的意义",
+        "onboard_time": 1673750902,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079229,
+        "num": 1079229,
+        "word": "丈夫称老家有别墅妻子看后大呼上当",
+        "onboard_time": 1673834967,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 992882,
+        "num": 992882,
+        "word": "2023年春晚主持人阵容首次发布",
+        "onboard_time": 1673836105,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 979104,
+        "num": 979104,
+        "word": "周杰伦演唱会回应负评",
+        "onboard_time": 1673835445,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 564967,
+        "num": 564967,
+        "word": "00后和父母买年货的代沟",
+        "onboard_time": 1673832925,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 553643,
+        "num": 553643,
+        "word": "勿信新冠不是大号流感而是小号艾滋",
+        "onboard_time": 1673833043,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520299,
+        "num": 520299,
+        "word": "游客滑雪失控致女生被撞倒后抽搐",
+        "onboard_time": 1673835085,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494344,
+        "num": 494344,
+        "word": "梅西离开后巴萨首次夺冠",
+        "onboard_time": 1673832626,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 835455,
+        "num": 493688,
+        "word": "满江红易烊千玺演沈腾的舅舅",
+        "onboard_time": 1673836347,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 617144,
+        "num": 489165,
+        "word": "尼泊尔客机坠毁机舱内画面曝光",
+        "onboard_time": 1673831245,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 511072,
+        "num": 488794,
+        "word": "马嘉祺吃了宋亚轩喂给刘耀文的汤圆",
+        "onboard_time": 1673832325,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448801,
+        "num": 448801,
+        "word": "张艺兴跑着拥抱何炅",
+        "onboard_time": 1673836586,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514463,
+        "num": 447886,
+        "word": "尼泊尔客机副驾因丈夫坠机接力飞行梦",
+        "onboard_time": 1673834545,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 444439,
+        "num": 444439,
+        "word": "三体赢麻了",
+        "onboard_time": 1673796212,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407060,
+        "num": 407060,
+        "word": "成都00后十分钟帮全家人搞定年货",
+        "onboard_time": 1673836526,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403380,
+        "num": 403380,
+        "word": "本命年的兔子有多嚣张",
+        "onboard_time": 1673835024,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344245,
+        "num": 344245,
+        "word": "尼泊尔失事客机上72人全部遇难",
+        "onboard_time": 1673796453,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 302105,
+        "num": 333247,
+        "word": "爱奇艺被曝禁止HDMI连线播放",
+        "onboard_time": 1673836947,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 327422,
+        "num": 327422,
+        "word": "YG新女团新成员公开",
+        "onboard_time": 1673826683,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307091,
+        "num": 307091,
+        "word": "关谷丁仪",
+        "onboard_time": 1673825600,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301291,
+        "num": 301291,
+        "word": "以为染发后会是氛围感美女",
+        "onboard_time": 1673826562,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283688,
+        "num": 283688,
+        "word": "Cat 转会",
+        "onboard_time": 1673836226,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247155,
+        "num": 247155,
+        "word": "理想车主夜间驾车中控显示有人追车",
+        "onboard_time": 1673829984,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229859,
+        "num": 229859,
+        "word": "盘锦化工厂爆炸事故已致2人死亡12人失联",
+        "onboard_time": 1673832444,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 207528,
+        "num": 207528,
+        "word": "不建议没阳过的人长途旅行",
+        "onboard_time": 1673817191,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201519,
+        "num": 201519,
+        "word": "喝水间隔时间不要超过两小时",
+        "onboard_time": 1673835807,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149922,
+        "num": 149922,
+        "word": "12岁女孩跳扇子舞又美又飒",
+        "onboard_time": 1673832805,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137671,
+        "num": 137671,
+        "word": "祝融号已在火星留下近4000个中字",
+        "onboard_time": 1673828123,
+        "rank": 29,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 293301,
+        "num": 136286,
+        "word": "汪涵 多给我们家一博机会",
+        "onboard_time": 1673797468,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289717,
+        "num": 135391,
+        "word": "TXT演唱会官宣中国台北场",
+        "onboard_time": 1673835925,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270537,
+        "num": 133481,
+        "word": "七英俊打赏",
+        "onboard_time": 1673828724,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 260631,
+        "num": 132698,
+        "word": "刘亦菲版花木兰首播收视率第一",
+        "onboard_time": 1673827522,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131172,
+        "num": 131172,
+        "word": "尼泊尔飞机坠毁前或曾尝试着陆",
+        "onboard_time": 1673802083,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 110214,
+        "num": 110214,
+        "word": "大哥凌晨火车上为乘客献唱",
+        "onboard_time": 1673837486,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107253,
+        "num": 107253,
+        "word": "76人vs湖人",
+        "onboard_time": 1673835566,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107241,
+        "num": 107241,
+        "word": "河南发现240座北魏时期皇家仓窖",
+        "onboard_time": 1673830525,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106050,
+        "num": 106050,
+        "word": "上海39平米的家是什么样",
+        "onboard_time": 1673793639,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104194,
+        "num": 104194,
+        "word": "爸爸遛丢8岁女儿妈妈急得大哭",
+        "onboard_time": 1673788109,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255705,
+        "num": 103670,
+        "word": "原来吴昕是真的在种草",
+        "onboard_time": 1673808133,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236587,
+        "num": 103664,
+        "word": "三体 选角",
+        "onboard_time": 1673825719,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228296,
+        "num": 103386,
+        "word": "释小龙郝劭文同台爷青回",
+        "onboard_time": 1673828785,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102930,
+        "num": 102930,
+        "word": "雷恩1比0巴黎圣日耳曼",
+        "onboard_time": 1673827403,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100538,
+        "num": 100538,
+        "word": "男子车祸失忆流浪9年后找回家人",
+        "onboard_time": 1673819412,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100047,
+        "num": 100047,
+        "word": "买8寸蛋糕直径少4厘米索赔遭怼",
+        "onboard_time": 1673791175,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87614,
+        "num": 87614,
+        "word": "TTG 不然",
+        "onboard_time": 1673827705,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85882,
+        "num": 85882,
+        "word": "第一次看到下雪的猫咪",
+        "onboard_time": 1673837426,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85412,
+        "num": 85412,
+        "word": "剧团回应冒雪演出仅一位观众",
+        "onboard_time": 1673836464,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74177,
+        "num": 85378,
+        "word": "餐厅就别搞这种顶灯了吧",
+        "onboard_time": 1673794959,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦2023年春运#"
+    }
+  }
+}

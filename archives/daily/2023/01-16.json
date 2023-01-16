@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673837090185,
+  "endTime": 1673837667008,
   "band_list": [
     {
       "raw_hot": 2443672,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1079229,
+      "num": 1079229,
+      "word": "丈夫称老家有别墅妻子看后大呼上当",
+      "onboard_time": 1673834967,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1024911,
       "num": 1024911,
       "word": "周杰伦演唱会回应负评",
@@ -43,12 +51,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 952084,
-      "num": 952084,
-      "word": "丈夫称老家有别墅妻子看后大呼上当",
-      "onboard_time": 1673834967,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 992882,
+      "num": 992882,
+      "word": "2023年春晚主持人阵容首次发布",
+      "onboard_time": 1673836105,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 872831,
@@ -59,20 +67,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 835455,
+      "num": 493688,
+      "word": "满江红易烊千玺演沈腾的舅舅",
+      "onboard_time": 1673836347,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 834725,
       "num": 834725,
       "word": "马嘉祺吃了宋亚轩喂给刘耀文的汤圆",
       "onboard_time": 1673832325,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 808409,
-      "num": 808409,
-      "word": "2023年春晚主持人阵容首次发布",
-      "onboard_time": 1673836105,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 701817,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 696454,
-      "num": 418043,
+      "num": 489165,
       "word": "尼泊尔客机坠毁机舱内画面曝光",
       "onboard_time": 1673831245,
       "rank": 14,
@@ -147,14 +155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 599284,
-      "num": 394369,
-      "word": "满江红易烊千玺演沈腾的舅舅",
-      "onboard_time": 1673836347,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 585690,
       "num": 585690,
       "word": "勿信新冠不是大号流感而是小号艾滋",
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 547854,
-      "num": 381412,
+      "num": 447886,
       "word": "尼泊尔客机副驾因丈夫坠机接力飞行梦",
       "onboard_time": 1673834545,
       "rank": 13,
@@ -177,6 +177,14 @@
       "onboard_time": 1673832444,
       "rank": 16,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 520299,
+      "num": 520299,
+      "word": "游客滑雪失控致女生被撞倒后抽搐",
+      "onboard_time": 1673835085,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 516676,
@@ -203,12 +211,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 499962,
-      "num": 374218,
-      "word": "游客滑雪失控致女生被撞倒后抽搐",
-      "onboard_time": 1673835085,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 448801,
+      "num": 448801,
+      "word": "张艺兴跑着拥抱何炅",
+      "onboard_time": 1673836586,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 446827,
@@ -233,6 +241,14 @@
       "onboard_time": 1673828123,
       "rank": 7,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 407060,
+      "num": 407060,
+      "word": "成都00后十分钟帮全家人搞定年货",
+      "onboard_time": 1673836526,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400948,
@@ -283,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351384,
-      "num": 254771,
-      "word": "张艺兴跑着拥抱何炅",
-      "onboard_time": 1673836586,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 340368,
       "num": 340368,
       "word": "女子住全季酒店遇保安深夜刷卡进房",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 327066,
-      "num": 206945,
+      "num": 307091,
       "word": "关谷丁仪",
       "onboard_time": 1673825600,
       "rank": 41,
@@ -348,11 +356,19 @@
     },
     {
       "raw_hot": 311434,
-      "num": 132143,
+      "num": 135391,
       "word": "TXT演唱会官宣中国台北场",
       "onboard_time": 1673835925,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 302105,
+      "num": 333247,
+      "word": "爱奇艺被曝禁止HDMI连线播放",
+      "onboard_time": 1673836947,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 300853,
@@ -385,6 +401,14 @@
       "onboard_time": 1673828724,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 283688,
+      "num": 283688,
+      "word": "Cat 转会",
+      "onboard_time": 1673836226,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 281399,
@@ -483,14 +507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 230590,
-      "num": 230590,
-      "word": "Cat 转会",
-      "onboard_time": 1673836226,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 223050,
       "num": 108652,
       "word": "尹净汉将出席巴黎时装周",
@@ -521,6 +537,14 @@
       "onboard_time": 1673793220,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201519,
+      "num": 201519,
+      "word": "喝水间隔时间不要超过两小时",
+      "onboard_time": 1673835807,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201135,
@@ -611,28 +635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165484,
-      "num": 165484,
-      "word": "喝水间隔时间不要超过两小时",
-      "onboard_time": 1673835807,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160865,
       "num": 132355,
       "word": "三体首播口碑",
       "onboard_time": 1673791836,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 155906,
-      "num": 155906,
-      "word": "成都00后十分钟帮全家人搞定年货",
-      "onboard_time": 1673836526,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155501,
@@ -713,6 +721,14 @@
       "onboard_time": 1673802142,
       "rank": 35,
       "category": "综艺,情感"
+    },
+    {
+      "raw_hot": 110214,
+      "num": 110214,
+      "word": "大哥凌晨火车上为乘客献唱",
+      "onboard_time": 1673837486,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109849,
@@ -827,14 +843,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 91507,
-      "num": 91507,
-      "word": "爱奇艺被曝禁止HDMI连线播放",
-      "onboard_time": 1673836947,
-      "rank": 43,
-      "category": "科技"
-    },
-    {
       "raw_hot": 91301,
       "num": 91301,
       "word": "2023年春运",
@@ -875,8 +883,16 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 80673,
-      "num": 80673,
+      "raw_hot": 85882,
+      "num": 85882,
+      "word": "第一次看到下雪的猫咪",
+      "onboard_time": 1673837426,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 85412,
+      "num": 85412,
       "word": "剧团回应冒雪演出仅一位观众",
       "onboard_time": 1673836464,
       "rank": 46,
