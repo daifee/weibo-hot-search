@@ -1,0 +1,410 @@
+{
+  "runTime": 1673879624510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2496203,
+        "num": 2496203,
+        "word": "王一博抱never",
+        "onboard_time": 1673876553,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1322322,
+        "num": 1322322,
+        "word": "荣安皇后终于被肖铎抱了",
+        "onboard_time": 1673876853,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135081,
+        "num": 1126035,
+        "word": "全国特色年味地图出炉",
+        "onboard_time": 1673873428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016332,
+        "num": 1016332,
+        "word": "never在笑",
+        "onboard_time": 1673878411,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 950272,
+        "num": 950272,
+        "word": "女子网购100根仙女棒收到100根铁丝",
+        "onboard_time": 1673869590,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884436,
+        "num": 884436,
+        "word": "女子回村后美甲太长被妈妈按住剪掉",
+        "onboard_time": 1673873909,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970654,
+        "num": 884346,
+        "word": "无所谓 向太会出手",
+        "onboard_time": 1673872467,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 884232,
+        "num": 884232,
+        "word": "蓝环章鱼",
+        "onboard_time": 1673877091,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869413,
+        "num": 869413,
+        "word": "当地回应小马云拦车要钱",
+        "onboard_time": 1673875953,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850752,
+        "num": 850752,
+        "word": "明起多国来华将严查48小时核酸",
+        "onboard_time": 1673870127,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 907197,
+        "num": 823692,
+        "word": "张颖颖 我说了无数次分手",
+        "onboard_time": 1673846008,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 782067,
+        "num": 782067,
+        "word": "林永健 你们这届网友干嘛呢",
+        "onboard_time": 1673872889,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 610635,
+        "num": 610635,
+        "word": "男子买100克金条亲手给未婚妻做手镯",
+        "onboard_time": 1673876489,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536031,
+        "num": 536031,
+        "word": "弟弟发现姐姐首饰装备库原地震惊",
+        "onboard_time": 1673861967,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518406,
+        "num": 518406,
+        "word": "动车上女儿突然出现父母一愣",
+        "onboard_time": 1673877570,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382404,
+        "num": 382404,
+        "word": "meiko 娜美",
+        "onboard_time": 1673875109,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 372239,
+        "num": 372239,
+        "word": "缩短教育时间能提高生育率吗",
+        "onboard_time": 1673866169,
+        "rank": 16,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 330637,
+        "num": 330637,
+        "word": "男子新房未入住被邻居种大葱",
+        "onboard_time": 1673870789,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330425,
+        "num": 330425,
+        "word": "王者荣耀",
+        "onboard_time": 1673860287,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291927,
+        "num": 291927,
+        "word": "中国足协杯奖杯被掰断",
+        "onboard_time": 1673872590,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 761402,
+        "num": 286463,
+        "word": "never 讨厌没有边界感的帅哥",
+        "onboard_time": 1673879251,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 668875,
+        "num": 284686,
+        "word": "三体 原著党狂喜",
+        "onboard_time": 1673876489,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471811,
+        "num": 282459,
+        "word": "陈飞宇剪头发了",
+        "onboard_time": 1673875289,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274177,
+        "num": 274177,
+        "word": "女孩称因戴弟弟帽子被妈妈殴打",
+        "onboard_time": 1673866708,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261270,
+        "num": 261270,
+        "word": "歼20在我国防空识别区驱离外机",
+        "onboard_time": 1673874869,
+        "rank": 24,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 215361,
+        "num": 215361,
+        "word": "情侣逛街是全国统一的吧",
+        "onboard_time": 1673871808,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215346,
+        "num": 215346,
+        "word": "德国国防部长宣布辞职",
+        "onboard_time": 1673878049,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 172757,
+        "num": 172757,
+        "word": "2022年全国人口或出现负增长",
+        "onboard_time": 1673857289,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154530,
+        "num": 172633,
+        "word": "原神米卡",
+        "onboard_time": 1673869109,
+        "rank": 28,
+        "category": "动漫,游戏"
+      },
+      {
+        "raw_hot": 151225,
+        "num": 172230,
+        "word": "公共场所的烘手器有多脏",
+        "onboard_time": 1673860949,
+        "rank": 29,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 363725,
+        "num": 171757,
+        "word": "谢之遥被许红豆提醒吊牌没摘",
+        "onboard_time": 1673874511,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312225,
+        "num": 171582,
+        "word": "王鹤棣看了赵丽颖风吹半夏",
+        "onboard_time": 1673870608,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286254,
+        "num": 170916,
+        "word": "肖铎步音楼吻戏",
+        "onboard_time": 1673878109,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285041,
+        "num": 170836,
+        "word": "曾舜晞去有风的地方演技",
+        "onboard_time": 1673879493,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139244,
+        "num": 170277,
+        "word": "河南将投入130亿元支持双一流建设",
+        "onboard_time": 1673862990,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133757,
+        "num": 169935,
+        "word": "妈妈你可别说了",
+        "onboard_time": 1673875352,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 114166,
+        "num": 169685,
+        "word": "EDG首发全华班",
+        "onboard_time": 1673871509,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106469,
+        "num": 169215,
+        "word": "TES战胜AL",
+        "onboard_time": 1673874329,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105895,
+        "num": 168724,
+        "word": "用逗猫的方式去逗狗",
+        "onboard_time": 1673873551,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102286,
+        "num": 168268,
+        "word": "catti一年考几次合适",
+        "onboard_time": 1673876068,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 273008,
+        "num": 167867,
+        "word": "谢之遥洗澡镜头",
+        "onboard_time": 1673874931,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247411,
+        "num": 167572,
+        "word": "对我而言危险的他",
+        "onboard_time": 1673878532,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244899,
+        "num": 167316,
+        "word": "成毅希望成为打动人心的演员",
+        "onboard_time": 1673878532,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100683,
+        "num": 166837,
+        "word": "小乔山海琳琅生皮肤",
+        "onboard_time": 1673861430,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97328,
+        "num": 166438,
+        "word": "这就是一碗猫咪吗",
+        "onboard_time": 1673870608,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90192,
+        "num": 166174,
+        "word": "火锅店吃饭还好多问了一句",
+        "onboard_time": 1673879611,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84115,
+        "num": 165525,
+        "word": "春节要瘦不要胖",
+        "onboard_time": 1673872168,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81209,
+        "num": 165194,
+        "word": "分手后还会看前任动态吗",
+        "onboard_time": 1673862570,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81194,
+        "num": 164901,
+        "word": "外交部回应美日称中国加速核武库扩张",
+        "onboard_time": 1673868090,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 71561,
+        "num": 164552,
+        "word": "吉林男篮vs辽宁男篮",
+        "onboard_time": 1673873850,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#多地神还原千里江山图#"
+    }
+  }
+}

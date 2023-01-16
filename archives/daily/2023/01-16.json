@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673878651609,
+  "endTime": 1673879624510,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3655266,
-      "num": 622748,
+      "num": 823692,
       "word": "张颖颖 我说了无数次分手",
       "onboard_time": 1673846008,
       "rank": 10,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1322322,
+      "num": 1322322,
+      "word": "荣安皇后终于被肖铎抱了",
+      "onboard_time": 1673876853,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1301562,
       "num": 1301562,
       "word": "2023年春晚主持人阵容首次发布",
@@ -169,14 +177,6 @@
       "onboard_time": 1673840969,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1285220,
-      "num": 1285220,
-      "word": "荣安皇后终于被肖铎抱了",
-      "onboard_time": 1673876853,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1282626,
@@ -233,6 +233,14 @@
       "onboard_time": 1673870127,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1016332,
+      "num": 1016332,
+      "word": "never在笑",
+      "onboard_time": 1673878411,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 992249,
@@ -299,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 884232,
+      "num": 884232,
+      "word": "蓝环章鱼",
+      "onboard_time": 1673877091,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 872831,
       "num": 872831,
       "word": "上海39平米的家是什么样",
@@ -313,6 +329,14 @@
       "onboard_time": 1673875289,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 869413,
+      "num": 869413,
+      "word": "当地回应小马云拦车要钱",
+      "onboard_time": 1673875953,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 836861,
@@ -347,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 781667,
-      "num": 781667,
-      "word": "当地回应小马云拦车要钱",
-      "onboard_time": 1673875953,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 780988,
       "num": 780988,
       "word": "春晚主持人 龙洋",
@@ -369,6 +385,14 @@
       "onboard_time": 1673866708,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 761402,
+      "num": 286463,
+      "word": "never 讨厌没有边界感的帅哥",
+      "onboard_time": 1673879251,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 735791,
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 668875,
+      "num": 314574,
+      "word": "三体 原著党狂喜",
+      "onboard_time": 1673876489,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 662798,
       "num": 662798,
       "word": "马化腾称内部贪腐触目惊心",
@@ -531,6 +563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 610635,
+      "num": 610635,
+      "word": "男子买100克金条亲手给未婚妻做手镯",
+      "onboard_time": 1673876489,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608429,
       "num": 608429,
       "word": "虞书欣在微博送有爱卡",
@@ -553,14 +593,6 @@
       "onboard_time": 1673834545,
       "rank": 13,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 594413,
-      "num": 314574,
-      "word": "三体 原著党狂喜",
-      "onboard_time": 1673876489,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 589962,
@@ -643,14 +675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 570541,
-      "num": 394536,
-      "word": "蓝环章鱼",
-      "onboard_time": 1673877091,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 551144,
       "num": 551144,
       "word": "生肖卡",
@@ -673,6 +697,14 @@
       "onboard_time": 1673832444,
       "rank": 16,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 518406,
+      "num": 518406,
+      "word": "动车上女儿突然出现父母一愣",
+      "onboard_time": 1673877570,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 516676,
@@ -761,14 +793,6 @@
       "onboard_time": 1673838267,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 452809,
-      "num": 390102,
-      "word": "男子买100克金条亲手给未婚妻做手镯",
-      "onboard_time": 1673876489,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 450357,
@@ -995,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363725,
+      "num": 266502,
+      "word": "谢之遥被许红豆提醒吊牌没摘",
+      "onboard_time": 1673874511,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362406,
       "num": 184962,
       "word": "aespa镜头下的ITZY",
@@ -1064,14 +1096,6 @@
       "word": "胡歌误入史上最强赘婿剧组",
       "onboard_time": 1673860949,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 341388,
-      "num": 305961,
-      "word": "never在笑",
-      "onboard_time": 1673878411,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -1160,14 +1184,6 @@
       "word": "三体制片人谈王传君演技",
       "onboard_time": 1673855549,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 322745,
-      "num": 266502,
-      "word": "谢之遥被许红豆提醒吊牌没摘",
-      "onboard_time": 1673874511,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -1267,14 +1283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 301269,
-      "num": 301269,
-      "word": "动车上女儿突然出现父母一愣",
-      "onboard_time": 1673877570,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300872,
       "num": 190834,
       "word": "谢之遥给许红豆煮面",
@@ -1345,6 +1353,22 @@
       "onboard_time": 1673808133,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286254,
+      "num": 264357,
+      "word": "肖铎步音楼吻戏",
+      "onboard_time": 1673878109,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 285041,
+      "num": 170836,
+      "word": "曾舜晞去有风的地方演技",
+      "onboard_time": 1673879493,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 283802,
@@ -1515,14 +1539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 264357,
-      "num": 264357,
-      "word": "肖铎步音楼吻戏",
-      "onboard_time": 1673878109,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 264238,
       "num": 264238,
       "word": "威少最后一攻",
@@ -1609,6 +1625,22 @@
       "onboard_time": 1673821513,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247411,
+      "num": 167572,
+      "word": "对我而言危险的他",
+      "onboard_time": 1673878532,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 244899,
+      "num": 167316,
+      "word": "成毅希望成为打动人心的演员",
+      "onboard_time": 1673878532,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 243999,
@@ -1737,6 +1769,14 @@
       "onboard_time": 1673868870,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215346,
+      "num": 257442,
+      "word": "德国国防部长宣布辞职",
+      "onboard_time": 1673878049,
+      "rank": 33,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 214251,
@@ -2161,14 +2201,6 @@
       "onboard_time": 1673850391,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144869,
-      "num": 257442,
-      "word": "德国国防部长宣布辞职",
-      "onboard_time": 1673878049,
-      "rank": 33,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 144675,
@@ -2609,6 +2641,14 @@
       "onboard_time": 1673869828,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 90192,
+      "num": 166174,
+      "word": "火锅店吃饭还好多问了一句",
+      "onboard_time": 1673879611,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89921,

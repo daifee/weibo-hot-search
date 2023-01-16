@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673878651609,
+  "endTime": 1673879624510,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 3655266,
-      "num": 622748,
+      "num": 823692,
       "word": "张颖颖 我说了无数次分手",
       "onboard_time": 1673846008,
       "rank": 10,
@@ -2419,6 +2419,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 1322322,
+      "num": 1322322,
+      "word": "荣安皇后终于被肖铎抱了",
+      "onboard_time": 1673876853,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1313858,
       "num": 1313858,
       "word": "同村前男友结婚女孩哭成泪人",
@@ -2544,14 +2552,6 @@
       "word": "许鞍华 汤唯",
       "onboard_time": 1672833330,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1285220,
-      "num": 1285220,
-      "word": "荣安皇后终于被肖铎抱了",
-      "onboard_time": 1673876853,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -4019,6 +4019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1016332,
+      "num": 1016332,
+      "word": "never在笑",
+      "onboard_time": 1673878411,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1014824,
       "num": 1014824,
       "word": "原来穿制服真的会加分",
@@ -5083,6 +5091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 884232,
+      "num": 884232,
+      "word": "蓝环章鱼",
+      "onboard_time": 1673877091,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 884053,
       "num": 884053,
       "word": "天津一烧烤店结账只收现金",
@@ -5217,6 +5233,14 @@
       "onboard_time": 1672985789,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 869413,
+      "num": 869413,
+      "word": "当地回应小马云拦车要钱",
+      "onboard_time": 1673875953,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 868369,
@@ -6243,14 +6267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 781667,
-      "num": 781667,
-      "word": "当地回应小马云拦车要钱",
-      "onboard_time": 1673875953,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 781597,
       "num": 781597,
       "word": "女子花6000请侦探寻狗找到后抱狗痛哭",
@@ -6481,6 +6497,14 @@
       "onboard_time": 1673504609,
       "rank": 29,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 761402,
+      "num": 286463,
+      "word": "never 讨厌没有边界感的帅哥",
+      "onboard_time": 1673879251,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 761213,
@@ -7747,6 +7771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 668875,
+      "num": 314574,
+      "word": "三体 原著党狂喜",
+      "onboard_time": 1673876489,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 666793,
       "num": 666793,
       "word": "阿奶补上了陈南星的位置",
@@ -8795,6 +8827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 610635,
+      "num": 610635,
+      "word": "男子买100克金条亲手给未婚妻做手镯",
+      "onboard_time": 1673876489,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610559,
       "num": 478923,
       "word": "王俊凯灰色西装造型",
@@ -9081,14 +9121,6 @@
       "onboard_time": 1672649068,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 594413,
-      "num": 314574,
-      "word": "三体 原著党狂喜",
-      "onboard_time": 1673876489,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 593713,
@@ -9721,14 +9753,6 @@
       "onboard_time": 1672810409,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 570541,
-      "num": 394536,
-      "word": "蓝环章鱼",
-      "onboard_time": 1673877091,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 570516,
@@ -11025,6 +11049,14 @@
       "onboard_time": 1672543713,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 518406,
+      "num": 518406,
+      "word": "动车上女儿突然出现父母一愣",
+      "onboard_time": 1673877570,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518222,
@@ -13017,14 +13049,6 @@
       "onboard_time": 1672547974,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 452809,
-      "num": 390102,
-      "word": "男子买100克金条亲手给未婚妻做手镯",
-      "onboard_time": 1673876489,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 452794,
@@ -16859,6 +16883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363725,
+      "num": 266502,
+      "word": "谢之遥被许红豆提醒吊牌没摘",
+      "onboard_time": 1673874511,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 363380,
       "num": 363380,
       "word": "找到中国奇谭里的小猪妖了",
@@ -18115,14 +18147,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 341388,
-      "num": 305961,
-      "word": "never在笑",
-      "onboard_time": 1673878411,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 341145,
       "num": 326444,
       "word": "陈铭主持offer",
@@ -19249,14 +19273,6 @@
       "onboard_time": 1673001631,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 322745,
-      "num": 266502,
-      "word": "谢之遥被许红豆提醒吊牌没摘",
-      "onboard_time": 1673874511,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 322614,
@@ -20539,14 +20555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301269,
-      "num": 301269,
-      "word": "动车上女儿突然出现父母一愣",
-      "onboard_time": 1673877570,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301200,
       "num": 301200,
       "word": "电影想见你延长上映",
@@ -21587,6 +21595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286254,
+      "num": 264357,
+      "word": "肖铎步音楼吻戏",
+      "onboard_time": 1673878109,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286189,
       "num": 286189,
       "word": "eStar 运营",
@@ -21665,6 +21681,14 @@
       "onboard_time": 1673530891,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285041,
+      "num": 170836,
+      "word": "曾舜晞去有风的地方演技",
+      "onboard_time": 1673879493,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 285004,
@@ -23451,14 +23475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 264357,
-      "num": 264357,
-      "word": "肖铎步音楼吻戏",
-      "onboard_time": 1673878109,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 264248,
       "num": 264248,
       "word": "莫兰特逆天隔扣",
@@ -24819,6 +24835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247411,
+      "num": 167572,
+      "word": "对我而言危险的他",
+      "onboard_time": 1673726834,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247406,
       "num": 247406,
       "word": "东北人的社交能力有多强",
@@ -25049,6 +25073,14 @@
       "onboard_time": 1672895013,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244899,
+      "num": 167316,
+      "word": "成毅希望成为打动人心的演员",
+      "onboard_time": 1673878532,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 244873,
@@ -27321,6 +27353,14 @@
       "onboard_time": 1672873277,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215346,
+      "num": 257442,
+      "word": "德国国防部长宣布辞职",
+      "onboard_time": 1673878049,
+      "rank": 33,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 215344,
@@ -34051,14 +34091,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144869,
-      "num": 257442,
-      "word": "德国国防部长宣布辞职",
-      "onboard_time": 1673878049,
-      "rank": 33,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 144675,
       "num": 165631,
       "word": "商竣程晋级澳网第二轮",
@@ -38907,6 +38939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 90192,
+      "num": 166174,
+      "word": "火锅店吃饭还好多问了一句",
+      "onboard_time": 1673879611,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90012,
       "num": 90012,
       "word": "雪天不慎摔倒如何保护自己",
@@ -40265,14 +40305,6 @@
       "onboard_time": 1672770615,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 22340,
-      "num": 22340,
-      "word": "对我而言危险的他",
-      "onboard_time": 1673726834,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 20535,
