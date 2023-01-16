@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673903754909,
+  "endTime": 1673904823975,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -3075,6 +3075,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 31709,
+      "num": 31317,
+      "word": "阿强伤透了阿欣的心",
+      "onboard_time": 1673900832,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 29451,
       "num": 29451,
       "word": "夫妻戍边近60年回家过年2次",
@@ -3091,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26737,
+      "num": 26737,
+      "word": "男子池塘救人被冰划破双腿全是血",
+      "onboard_time": 1673903832,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23793,
       "num": 23793,
       "word": "朴彩英抱Jennie",
@@ -3099,16 +3115,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 23161,
-      "num": 21942,
-      "word": "阿强伤透了阿欣的心",
-      "onboard_time": 1673900832,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 20032,
-      "num": 20032,
+      "raw_hot": 20415,
+      "num": 20415,
       "word": "华晨宇加盟微博音乐盛典",
       "onboard_time": 1673901371,
       "rank": 36,
