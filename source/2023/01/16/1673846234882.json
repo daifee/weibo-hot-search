@@ -1,0 +1,410 @@
+{
+  "runTime": 1673846234882,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1579661,
+        "num": 1579661,
+        "word": "想周涛董卿朱迅",
+        "onboard_time": 1673843191,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1168560,
+        "num": 1168560,
+        "word": "王鹤棣首部电影定档",
+        "onboard_time": 1673842649,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124425,
+        "num": 1148223,
+        "word": "脆弱人群感染后要警惕这些情况",
+        "onboard_time": 1673830166,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1134111,
+        "num": 1134111,
+        "word": "大陆输台螺蛳粉包装现你是中国人",
+        "onboard_time": 1673844451,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743732,
+        "num": 743732,
+        "word": "N95口罩血氧仪价格大跳水",
+        "onboard_time": 1673831725,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 742435,
+        "num": 742435,
+        "word": "春晚主持人 龙洋",
+        "onboard_time": 1673842530,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 734737,
+        "num": 734737,
+        "word": "杨幂红色挑染卷发造型",
+        "onboard_time": 1673840969,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 730851,
+        "num": 730851,
+        "word": "高铁G61为她紧急临停3分钟",
+        "onboard_time": 1673839645,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722769,
+        "num": 722769,
+        "word": "美国女子刺伤亚裔称以为是中国人",
+        "onboard_time": 1673839166,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623116,
+        "num": 623116,
+        "word": "丈夫称老家有别墅妻子看后大呼上当",
+        "onboard_time": 1673834967,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2953787,
+        "num": 622748,
+        "word": "张颖颖 我说了无数次分手",
+        "onboard_time": 1673846008,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2930099,
+        "num": 620986,
+        "word": "刘大锤曝的喜剧演员是大鹏",
+        "onboard_time": 1673844451,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618054,
+        "num": 618054,
+        "word": "去年腾讯100余人因触犯高压线被辞退",
+        "onboard_time": 1673841748,
+        "rank": 12,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 469292,
+        "num": 469292,
+        "word": "梅西踢后腰",
+        "onboard_time": 1673840185,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390015,
+        "num": 390015,
+        "word": "男子首次带女友回家全家拿红包门口迎接",
+        "onboard_time": 1673843130,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362060,
+        "num": 362060,
+        "word": "尼泊尔客机副驾因丈夫坠机接力飞行梦",
+        "onboard_time": 1673834545,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 340671,
+        "num": 340671,
+        "word": "车厘子自由为什么这么难",
+        "onboard_time": 1673837727,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321818,
+        "num": 321818,
+        "word": "黑神话悟空发售时间公开",
+        "onboard_time": 1673838929,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 297947,
+        "num": 297947,
+        "word": "游客滑雪失控致女生被撞倒后抽搐",
+        "onboard_time": 1673835085,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276762,
+        "num": 276762,
+        "word": "尼泊尔客机坠毁机舱内画面曝光",
+        "onboard_time": 1673831245,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 470278,
+        "num": 253974,
+        "word": "王嘉宁 春晚主持",
+        "onboard_time": 1673839469,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465391,
+        "num": 236095,
+        "word": "周杰伦演唱会回应负评",
+        "onboard_time": 1673835445,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 385604,
+        "num": 231104,
+        "word": "春晚主持人首次迎来双90后",
+        "onboard_time": 1673842050,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216953,
+        "num": 216953,
+        "word": "本命年的兔子有多嚣张",
+        "onboard_time": 1673835024,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205098,
+        "num": 205098,
+        "word": "詹姆斯38000分里程碑",
+        "onboard_time": 1673838686,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193440,
+        "num": 193440,
+        "word": "尼泊尔失事客机上72人全部遇难",
+        "onboard_time": 1673796453,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 182929,
+        "num": 182929,
+        "word": "姐姐胳膊被机器压烂弟弟放声痛哭",
+        "onboard_time": 1673845172,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181788,
+        "num": 181788,
+        "word": "梅西离开后巴萨首次夺冠",
+        "onboard_time": 1673832626,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174413,
+        "num": 181782,
+        "word": "00后和父母买年货的代沟",
+        "onboard_time": 1673832925,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 166025,
+        "num": 181742,
+        "word": "消息人士称普京不参与明年俄大选",
+        "onboard_time": 1673839105,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 313433,
+        "num": 181701,
+        "word": "丁程鑫台下拥抱何炅",
+        "onboard_time": 1673845295,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302235,
+        "num": 181696,
+        "word": "满江红易烊千玺演沈腾的舅舅",
+        "onboard_time": 1673836347,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295494,
+        "num": 181666,
+        "word": "马凡舒再次担任春晚主持人",
+        "onboard_time": 1673841930,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271241,
+        "num": 181635,
+        "word": "这只上春晚的兔子也太可爱了",
+        "onboard_time": 1673844391,
+        "rank": 33,
+        "category": "综艺,情感"
+      },
+      {
+        "raw_hot": 259096,
+        "num": 181581,
+        "word": "2023年春晚主持人阵容首次发布",
+        "onboard_time": 1673836105,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163658,
+        "num": 181569,
+        "word": "这猫怎么比狗还狗",
+        "onboard_time": 1673844753,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161719,
+        "num": 181533,
+        "word": "Cat 转会",
+        "onboard_time": 1673836226,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158174,
+        "num": 181508,
+        "word": "以为染发后会是氛围感美女",
+        "onboard_time": 1673826562,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157976,
+        "num": 181471,
+        "word": "勿信新冠不是大号流感而是小号艾滋",
+        "onboard_time": 1673833043,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139304,
+        "num": 181425,
+        "word": "爸爸比孩子玩的开心",
+        "onboard_time": 1673842349,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239451,
+        "num": 181398,
+        "word": "朴智旻确定将2月solo出道",
+        "onboard_time": 1673842290,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137511,
+        "num": 181388,
+        "word": "第一次看到下雪的猫咪",
+        "onboard_time": 1673837426,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121585,
+        "num": 181352,
+        "word": "喝水间隔时间不要超过两小时",
+        "onboard_time": 1673835807,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114805,
+        "num": 181328,
+        "word": "76人vs湖人",
+        "onboard_time": 1673835566,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111089,
+        "num": 181303,
+        "word": "新一批大国重器亮相直播间",
+        "onboard_time": 1673844152,
+        "rank": 44,
+        "category": "军事,科技"
+      },
+      {
+        "raw_hot": 110919,
+        "num": 181247,
+        "word": "吴易昺止步澳网首轮",
+        "onboard_time": 1673845351,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110072,
+        "num": 181233,
+        "word": "留学归国去大城市还是回乡",
+        "onboard_time": 1673841208,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106933,
+        "num": 181204,
+        "word": "2023职业资格考试时间表",
+        "onboard_time": 1673840665,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 99639,
+        "num": 181163,
+        "word": "澳网",
+        "onboard_time": 1673840248,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90241,
+        "num": 181146,
+        "word": "网友为了开黑能有多拼",
+        "onboard_time": 1673841689,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#向春而行#"
+    }
+  }
+}
