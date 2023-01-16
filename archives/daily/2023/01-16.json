@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673834153376,
+  "endTime": 1673837090185,
   "band_list": [
     {
       "raw_hot": 2443672,
@@ -35,6 +35,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1024911,
+      "num": 1024911,
+      "word": "周杰伦演唱会回应负评",
+      "onboard_time": 1673835445,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 952084,
+      "num": 952084,
+      "word": "丈夫称老家有别墅妻子看后大呼上当",
+      "onboard_time": 1673834967,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 872831,
       "num": 872831,
       "word": "上海39平米的家是什么样",
@@ -49,6 +65,14 @@
       "onboard_time": 1673832325,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 808409,
+      "num": 808409,
+      "word": "2023年春晚主持人阵容首次发布",
+      "onboard_time": 1673836105,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 701817,
@@ -68,7 +92,7 @@
     },
     {
       "raw_hot": 696454,
-      "num": 386724,
+      "num": 418043,
       "word": "尼泊尔客机坠毁机舱内画面曝光",
       "onboard_time": 1673831245,
       "rank": 14,
@@ -107,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 619721,
+      "num": 619721,
+      "word": "00后和父母买年货的代沟",
+      "onboard_time": 1673832925,
+      "rank": 8,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 619148,
       "num": 298830,
       "word": "王传君演丁仪",
@@ -115,12 +147,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 599284,
+      "num": 394369,
+      "word": "满江红易烊千玺演沈腾的舅舅",
+      "onboard_time": 1673836347,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 585690,
+      "num": 585690,
+      "word": "勿信新冠不是大号流感而是小号艾滋",
+      "onboard_time": 1673833043,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547854,
+      "num": 381412,
+      "word": "尼泊尔客机副驾因丈夫坠机接力飞行梦",
+      "onboard_time": 1673834545,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 531070,
       "num": 531070,
       "word": "盘锦化工厂爆炸事故已致2人死亡12人失联",
       "onboard_time": 1673832444,
       "rank": 16,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 516676,
+      "num": 516676,
+      "word": "梅西离开后巴萨首次夺冠",
+      "onboard_time": 1673832626,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 509600,
@@ -139,12 +203,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 463226,
-      "num": 463226,
-      "word": "00后和父母买年货的代沟",
-      "onboard_time": 1673832925,
-      "rank": 8,
-      "category": "幽默,情感"
+      "raw_hot": 499962,
+      "num": 374218,
+      "word": "游客滑雪失控致女生被撞倒后抽搐",
+      "onboard_time": 1673835085,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 446827,
@@ -153,6 +217,14 @@
       "onboard_time": 1673828785,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 419461,
+      "num": 419461,
+      "word": "本命年的兔子有多嚣张",
+      "onboard_time": 1673835024,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 416074,
@@ -195,14 +267,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 367152,
-      "num": 367152,
-      "word": "勿信新冠不是大号流感而是小号艾滋",
-      "onboard_time": 1673833043,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 362406,
       "num": 184962,
       "word": "aespa镜头下的ITZY",
@@ -219,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354542,
-      "num": 354542,
-      "word": "梅西离开后巴萨首次夺冠",
-      "onboard_time": 1673832626,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 351384,
+      "num": 254771,
+      "word": "张艺兴跑着拥抱何炅",
+      "onboard_time": 1673836586,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 340368,
@@ -251,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327066,
+      "num": 206945,
+      "word": "关谷丁仪",
+      "onboard_time": 1673825600,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326723,
       "num": 326723,
       "word": "雪天户外吃席8个凉菜被冻成冰雕",
@@ -275,19 +347,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 311434,
+      "num": 132143,
+      "word": "TXT演唱会官宣中国台北场",
+      "onboard_time": 1673835925,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 300853,
       "num": 205090,
       "word": "三体 选角",
       "onboard_time": 1673825719,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 295586,
-      "num": 206945,
-      "word": "关谷丁仪",
-      "onboard_time": 1673825600,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -299,7 +371,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290158,
+      "raw_hot": 292250,
+      "num": 131440,
+      "word": "原来吴昕是真的在种草",
+      "onboard_time": 1673808133,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 291942,
       "num": 155581,
       "word": "七英俊打赏",
       "onboard_time": 1673828724,
@@ -403,12 +483,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 226494,
-      "num": 109597,
-      "word": "原来吴昕是真的在种草",
-      "onboard_time": 1673808133,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 230590,
+      "num": 230590,
+      "word": "Cat 转会",
+      "onboard_time": 1673836226,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 223050,
@@ -531,12 +611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165484,
+      "num": 165484,
+      "word": "喝水间隔时间不要超过两小时",
+      "onboard_time": 1673835807,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160865,
       "num": 132355,
       "word": "三体首播口碑",
       "onboard_time": 1673791836,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155906,
+      "num": 155906,
+      "word": "成都00后十分钟帮全家人搞定年货",
+      "onboard_time": 1673836526,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155501,
@@ -617,6 +713,14 @@
       "onboard_time": 1673802142,
       "rank": 35,
       "category": "综艺,情感"
+    },
+    {
+      "raw_hot": 109849,
+      "num": 109849,
+      "word": "76人vs湖人",
+      "onboard_time": 1673835566,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 109177,
@@ -723,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91507,
+      "num": 91507,
+      "word": "爱奇艺被曝禁止HDMI连线播放",
+      "onboard_time": 1673836947,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 91301,
       "num": 91301,
       "word": "2023年春运",
@@ -761,6 +873,14 @@
       "onboard_time": 1673781751,
       "rank": 38,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 80673,
+      "num": 80673,
+      "word": "剧团回应冒雪演出仅一位观众",
+      "onboard_time": 1673836464,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80220,
