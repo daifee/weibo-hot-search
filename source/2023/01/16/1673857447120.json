@@ -1,0 +1,410 @@
+{
+  "runTime": 1673857447120,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2392035,
+        "num": 2392035,
+        "word": "男子误戴朋友20万婚戒无奈切割取下",
+        "onboard_time": 1673853749,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1367577,
+        "num": 1367577,
+        "word": "制片人张萌获刑三年",
+        "onboard_time": 1673847868,
+        "rank": 1,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 63985,
+        "num": 943669,
+        "word": "脆弱人群感染后要警惕这些情况",
+        "onboard_time": 1673830166,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666346,
+        "num": 666346,
+        "word": "大陆输台螺蛳粉包装现你是中国人",
+        "onboard_time": 1673844451,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509462,
+        "num": 509462,
+        "word": "王一博无名发布会直播截图状态",
+        "onboard_time": 1673855247,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455331,
+        "num": 455331,
+        "word": "这同学录挺费头发",
+        "onboard_time": 1673854650,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 446480,
+        "num": 446480,
+        "word": "某某吴组合",
+        "onboard_time": 1673853749,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419126,
+        "num": 419126,
+        "word": "福兔",
+        "onboard_time": 1673846610,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 399699,
+        "num": 399699,
+        "word": "马化腾称内部贪腐触目惊心",
+        "onboard_time": 1673846548,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 387993,
+        "num": 387993,
+        "word": "法考",
+        "onboard_time": 1673853868,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1691332,
+        "num": 383631,
+        "word": "张颖颖 我说了无数次分手",
+        "onboard_time": 1673846008,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 980987,
+        "num": 380268,
+        "word": "刘大锤曝的喜剧演员是大鹏",
+        "onboard_time": 1673844451,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437430,
+        "num": 379493,
+        "word": "虞书欣在微博送有爱卡",
+        "onboard_time": 1673855970,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376726,
+        "num": 376726,
+        "word": "姐姐胳膊被机器压烂弟弟放声痛哭",
+        "onboard_time": 1673845172,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373576,
+        "num": 373576,
+        "word": "第一次对烧烤失去兴趣",
+        "onboard_time": 1673854830,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306007,
+        "num": 306007,
+        "word": "梅西内马尔相依为命",
+        "onboard_time": 1673850330,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300090,
+        "num": 300090,
+        "word": "儿媳每天接送8旬医生公公上下班",
+        "onboard_time": 1673849194,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278099,
+        "num": 278099,
+        "word": "十二生肖为什么没有小猫咪",
+        "onboard_time": 1673853508,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 262919,
+        "num": 262919,
+        "word": "内马尔踢后卫",
+        "onboard_time": 1673849852,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230413,
+        "num": 230413,
+        "word": "丈夫称老家有别墅妻子看后大呼上当",
+        "onboard_time": 1673834967,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368948,
+        "num": 230279,
+        "word": "王鹤棣过年好忙",
+        "onboard_time": 1673856929,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330963,
+        "num": 230006,
+        "word": "杨幂红色挑染卷发造型",
+        "onboard_time": 1673840969,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329351,
+        "num": 229564,
+        "word": "春晚主持人 龙洋",
+        "onboard_time": 1673842530,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322859,
+        "num": 229447,
+        "word": "三体制片人谈王传君演技",
+        "onboard_time": 1673855549,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229181,
+        "num": 229181,
+        "word": "N95口罩血氧仪价格大跳水",
+        "onboard_time": 1673831725,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 217738,
+        "num": 217738,
+        "word": "这动作是咋做到全国统一的",
+        "onboard_time": 1673855851,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207397,
+        "num": 207397,
+        "word": "平台开始反薅用户羊毛",
+        "onboard_time": 1673849434,
+        "rank": 26,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 203880,
+        "num": 203880,
+        "word": "在电视上无阻碍看剧要花1612元",
+        "onboard_time": 1673854229,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 203506,
+        "num": 203506,
+        "word": "高铁G61为她紧急临停3分钟",
+        "onboard_time": 1673839645,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201452,
+        "num": 201452,
+        "word": "姆巴佩踢飞单刀",
+        "onboard_time": 1673852307,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281003,
+        "num": 197452,
+        "word": "易烊千玺说外甥大了不由舅难办",
+        "onboard_time": 1673847928,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239084,
+        "num": 193017,
+        "word": "何润东陪老婆逛街",
+        "onboard_time": 1673854471,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238529,
+        "num": 188831,
+        "word": "金智秀韩版GQ二月号封面",
+        "onboard_time": 1673855008,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184531,
+        "num": 184531,
+        "word": "美国女子刺伤亚裔称以为是中国人",
+        "onboard_time": 1673839166,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178323,
+        "num": 178323,
+        "word": "catti",
+        "onboard_time": 1673856929,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236854,
+        "num": 175535,
+        "word": "孙怡零下二十度打工人穿搭",
+        "onboard_time": 1673847269,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165872,
+        "num": 165872,
+        "word": "车厘子自由为什么这么难",
+        "onboard_time": 1673837727,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143103,
+        "num": 143103,
+        "word": "今屿下个赛场见",
+        "onboard_time": 1673854047,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142468,
+        "num": 142468,
+        "word": "春节不回家的人在做什么",
+        "onboard_time": 1673856209,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136537,
+        "num": 136537,
+        "word": "男子7厘米壶内壁画生肖兔",
+        "onboard_time": 1673852549,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216957,
+        "num": 136406,
+        "word": "杨紫春晚联排高马尾造型路透",
+        "onboard_time": 1673849612,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136092,
+        "num": 136092,
+        "word": "理想汽车回应夜间驾车显示有人追车",
+        "onboard_time": 1673851828,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125055,
+        "num": 125055,
+        "word": "北京街头闲置核酸检测亭陆续撤场",
+        "onboard_time": 1673849011,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123940,
+        "num": 123940,
+        "word": "阳康后可以进补吗",
+        "onboard_time": 1673856027,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121575,
+        "num": 121575,
+        "word": "2022年全国人口或出现负增长",
+        "onboard_time": 1673857289,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119484,
+        "num": 119484,
+        "word": "尼泊尔坠毁飞机的黑匣子被发现",
+        "onboard_time": 1673850211,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118385,
+        "num": 118385,
+        "word": "游客滑雪失控致女生被撞倒后抽搐",
+        "onboard_time": 1673835085,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110464,
+        "num": 110464,
+        "word": "消息人士称普京不参与明年俄大选",
+        "onboard_time": 1673839105,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 110045,
+        "num": 110045,
+        "word": "2022年度法考时间",
+        "onboard_time": 1673857410,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 106653,
+        "num": 106653,
+        "word": "环保少女在德带气候人士反对开采褐煤",
+        "onboard_time": 1673850750,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#向春而行#"
+    }
+  }
+}
