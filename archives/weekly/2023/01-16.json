@@ -1,12 +1,20 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673840048728,
+  "endTime": 1673842975777,
   "band_list": [
     {
       "raw_hot": 2443672,
       "num": 2443672,
       "word": "假唱",
       "onboard_time": 1673789131,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2219611,
+      "num": 2219611,
+      "word": "李思思",
+      "onboard_time": 1673840248,
       "rank": 0,
       "category": "综艺"
     },
@@ -51,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1287239,
+      "num": 1287239,
+      "word": "杨幂红色挑染卷发造型",
+      "onboard_time": 1673840969,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1158812,
       "num": 1158812,
       "word": "丈夫称老家有别墅妻子看后大呼上当",
@@ -65,6 +81,30 @@
       "onboard_time": 1673835445,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 963073,
+      "num": 963073,
+      "word": "高铁G61为她紧急临停3分钟",
+      "onboard_time": 1673839645,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 946638,
+      "num": 507111,
+      "word": "王嘉宁 春晚主持",
+      "onboard_time": 1673839469,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 935910,
+      "num": 935910,
+      "word": "美国女子刺伤亚裔称以为是中国人",
+      "onboard_time": 1673839166,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 872831,
@@ -172,7 +212,7 @@
     },
     {
       "raw_hot": 604621,
-      "num": 447886,
+      "num": 450922,
       "word": "尼泊尔客机副驾因丈夫坠机接力飞行梦",
       "onboard_time": 1673834545,
       "rank": 13,
@@ -185,6 +225,14 @@
       "onboard_time": 1673836586,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 586513,
+      "num": 586513,
+      "word": "黑神话悟空发售时间公开",
+      "onboard_time": 1673838929,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 585690,
@@ -203,20 +251,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564117,
+      "num": 468196,
+      "word": "春晚主持人首次迎来双90后",
+      "onboard_time": 1673842050,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 558727,
+      "num": 558727,
+      "word": "梅西踢后腰",
+      "onboard_time": 1673840185,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 550332,
+      "num": 342404,
+      "word": "王鹤棣首部电影定档",
+      "onboard_time": 1673842649,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 531070,
       "num": 531070,
       "word": "盘锦化工厂爆炸事故已致2人死亡12人失联",
       "onboard_time": 1673832444,
       "rank": 16,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 519322,
-      "num": 376023,
-      "word": "王嘉宁 春晚主持",
-      "onboard_time": 1673839469,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 516676,
@@ -251,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494485,
+      "num": 297131,
+      "word": "春晚主持人 龙洋",
+      "onboard_time": 1673842530,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460292,
       "num": 364369,
       "word": "R1SE上海演唱会官摄",
@@ -265,6 +337,14 @@
       "onboard_time": 1673828785,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 435112,
+      "num": 435112,
+      "word": "去年腾讯100余人因触犯高压线被辞退",
+      "onboard_time": 1673841748,
+      "rank": 16,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 419461,
@@ -283,6 +363,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 414958,
+      "num": 165536,
+      "word": "马凡舒再次担任春晚主持人",
+      "onboard_time": 1673841930,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414289,
       "num": 351909,
       "word": "刘亦菲李现去有风的地方豆瓣开分8.1",
@@ -299,20 +387,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 400897,
-      "num": 365488,
-      "word": "黑神话悟空发售时间公开",
-      "onboard_time": 1673838929,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 388181,
       "num": 185274,
       "word": "三体首播收视率",
       "onboard_time": 1673788891,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 387492,
+      "num": 183242,
+      "word": "朴智旻确定将2月solo出道",
+      "onboard_time": 1673842290,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 378516,
@@ -352,14 +440,6 @@
       "word": "买8寸蛋糕直径少4厘米索赔遭怼",
       "onboard_time": 1673791175,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351083,
-      "num": 351083,
-      "word": "美国女子刺伤亚裔称以为是中国人",
-      "onboard_time": 1673839166,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -449,6 +529,14 @@
       "onboard_time": 1673825719,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 297443,
+      "num": 171239,
+      "word": "文俊辉直播",
+      "onboard_time": 1673841270,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 294924,
@@ -667,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198672,
+      "num": 198672,
+      "word": "消息人士称普京不参与明年俄大选",
+      "onboard_time": 1673839105,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 191373,
       "num": 191373,
       "word": "多人在辽宁盘锦化工厂爆炸事故中失联",
@@ -748,7 +844,7 @@
     },
     {
       "raw_hot": 163500,
-      "num": 163500,
+      "num": 165727,
       "word": "76人vs湖人",
       "onboard_time": 1673835566,
       "rank": 38,
@@ -779,28 +875,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 150517,
-      "num": 150517,
-      "word": "消息人士称普京不参与明年俄大选",
-      "onboard_time": 1673839105,
-      "rank": 47,
-      "category": "国外要闻"
+      "raw_hot": 155362,
+      "num": 166387,
+      "word": "摔得连电动车都嫌弃",
+      "onboard_time": 1673840007,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 151763,
+      "num": 166277,
+      "word": "爸爸比孩子玩的开心",
+      "onboard_time": 1673842349,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 144675,
-      "num": 144675,
+      "num": 165631,
       "word": "商竣程晋级澳网第二轮",
       "onboard_time": 1673839048,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139866,
-      "num": 139866,
-      "word": "高铁G61为她紧急临停3分钟",
-      "onboard_time": 1673839645,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139260,
@@ -811,6 +907,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 137643,
+      "num": 166088,
+      "word": "留学归国去大城市还是回乡",
+      "onboard_time": 1673841208,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 136833,
       "num": 184159,
       "word": "深圳男篮主帅场边昏倒",
@@ -819,12 +923,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131352,
+      "num": 165970,
+      "word": "2023职业资格考试时间表",
+      "onboard_time": 1673840665,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 123311,
+      "num": 165861,
+      "word": "网友为了开黑能有多拼",
+      "onboard_time": 1673841689,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122074,
       "num": 181800,
       "word": "曹德旺捐100亿元建世界一流名校",
       "onboard_time": 1673769988,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121474,
+      "num": 165778,
+      "word": "澳网",
+      "onboard_time": 1673840248,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 120598,
@@ -940,7 +1068,7 @@
     },
     {
       "raw_hot": 100733,
-      "num": 100733,
+      "num": 1114706,
       "word": "脆弱人群感染后要警惕这些情况",
       "onboard_time": 1673830166,
       "rank": 44,
@@ -953,14 +1081,6 @@
       "onboard_time": 1673824037,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98720,
-      "num": 138706,
-      "word": "摔得连电动车都嫌弃",
-      "onboard_time": 1673840007,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 97140,
@@ -1041,6 +1161,14 @@
       "onboard_time": 1673781751,
       "rank": 38,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 87932,
+      "num": 165619,
+      "word": "2023法考时间公布",
+      "onboard_time": 1673841089,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 80220,
