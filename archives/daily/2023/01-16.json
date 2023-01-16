@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673864464203,
+  "endTime": 1673865399236,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -83,6 +83,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1786002,
+      "num": 1786002,
+      "word": "向太晒全家照为郭碧婷庆生",
+      "onboard_time": 1673862390,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1672565,
       "num": 420609,
       "word": "大鹏 新孩子",
@@ -105,6 +113,14 @@
       "onboard_time": 1673843191,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1472156,
+      "num": 1472156,
+      "word": "弟弟发现姐姐首饰装备库原地震惊",
+      "onboard_time": 1673861967,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1437266,
@@ -153,14 +169,6 @@
       "onboard_time": 1673858848,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1200082,
-      "num": 1200082,
-      "word": "弟弟发现姐姐首饰装备库原地震惊",
-      "onboard_time": 1673861967,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1168560,
@@ -467,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 582000,
+      "num": 455494,
+      "word": "沈腾你别太荒谬",
+      "onboard_time": 1673862631,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 581311,
       "num": 468196,
       "word": "春晚主持人首次迎来双90后",
@@ -499,14 +515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 566743,
-      "num": 272906,
-      "word": "沈腾你别太荒谬",
-      "onboard_time": 1673862631,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 551144,
       "num": 551144,
       "word": "生肖卡",
@@ -529,6 +537,22 @@
       "onboard_time": 1673832444,
       "rank": 16,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 520398,
+      "num": 271994,
+      "word": "内娱舞台教科书",
+      "onboard_time": 1673864010,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 518423,
+      "num": 518423,
+      "word": "河南将投入130亿元支持双一流建设",
+      "onboard_time": 1673862990,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 516676,
@@ -683,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411617,
+      "num": 221079,
+      "word": "张杰说明天十点来听新歌",
+      "onboard_time": 1673864670,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 400948,
       "num": 185887,
       "word": "郑秀妍晒Jennie舞台",
@@ -723,12 +755,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 384463,
-      "num": 384463,
-      "word": "河南将投入130亿元支持双一流建设",
-      "onboard_time": 1673862990,
-      "rank": 13,
-      "category": "教育"
+      "raw_hot": 381901,
+      "num": 381901,
+      "word": "公共场所的烘手器有多脏",
+      "onboard_time": 1673860949,
+      "rank": 33,
+      "category": "其它"
     },
     {
       "raw_hot": 378516,
@@ -811,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358000,
-      "num": 358000,
-      "word": "公共场所的烘手器有多脏",
-      "onboard_time": 1673860949,
-      "rank": 33,
-      "category": "其它"
-    },
-    {
       "raw_hot": 353879,
       "num": 353879,
       "word": "Flandre在LPL出道八周年",
@@ -881,14 +905,6 @@
       "onboard_time": 1673819412,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338347,
-      "num": 271994,
-      "word": "内娱舞台教科书",
-      "onboard_time": 1673864010,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 336156,
@@ -1195,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264794,
+      "num": 171219,
+      "word": "三体杨蓉慕星今晚上线",
+      "onboard_time": 1673862449,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264523,
       "num": 146119,
       "word": "于和伟演技",
@@ -1289,14 +1313,6 @@
       "onboard_time": 1673846491,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243352,
-      "num": 168174,
-      "word": "三体杨蓉慕星今晚上线",
-      "onboard_time": 1673862449,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 242751,
@@ -1499,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181726,
+      "num": 181726,
+      "word": "2023年起CATTI考试一年仅考一次",
+      "onboard_time": 1673863952,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 180585,
       "num": 184306,
       "word": "尼泊尔失事飞机上无中国公民",
@@ -1571,20 +1595,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167367,
-      "num": 167367,
-      "word": "2023年起CATTI考试一年仅考一次",
-      "onboard_time": 1673863952,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 166819,
       "num": 116779,
       "word": "戴燕妮兑现叶若依跳舞flag",
       "onboard_time": 1673802201,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166095,
+      "num": 166095,
+      "word": "分手后还会看前任动态吗",
+      "onboard_time": 1673862570,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 165956,
@@ -1684,19 +1708,11 @@
     },
     {
       "raw_hot": 146452,
-      "num": 146452,
+      "num": 163473,
       "word": "谁能拒绝看动漫的快乐呢",
       "onboard_time": 1673862990,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 146014,
-      "num": 146014,
-      "word": "分手后还会看前任动态吗",
-      "onboard_time": 1673862570,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 145204,
@@ -1859,6 +1875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119997,
+      "num": 162882,
+      "word": "这窗帘还是给猫咪抓吧",
+      "onboard_time": 1673864787,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119967,
       "num": 183722,
       "word": "肚子为什么容易长肉",
@@ -1899,6 +1923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112643,
+      "num": 162392,
+      "word": "原来小猫咪也会发光",
+      "onboard_time": 1673864127,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111185,
       "num": 82880,
       "word": "你如何看待假唱",
@@ -1929,14 +1961,6 @@
       "onboard_time": 1673824097,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107588,
-      "num": 107588,
-      "word": "原来小猫咪也会发光",
-      "onboard_time": 1673864127,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 106750,

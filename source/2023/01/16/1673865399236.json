@@ -1,0 +1,410 @@
+{
+  "runTime": 1673865399236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1786002,
+        "num": 1786002,
+        "word": "向太晒全家照为郭碧婷庆生",
+        "onboard_time": 1673862390,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1472156,
+        "num": 1472156,
+        "word": "弟弟发现姐姐首饰装备库原地震惊",
+        "onboard_time": 1673861967,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21642,
+        "num": 865089,
+        "word": "脆弱人群感染后要警惕这些情况",
+        "onboard_time": 1673830166,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816251,
+        "num": 816251,
+        "word": "王者荣耀",
+        "onboard_time": 1673860287,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 681319,
+        "num": 681319,
+        "word": "2022年全国人口或出现负增长",
+        "onboard_time": 1673857289,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617969,
+        "num": 617969,
+        "word": "刘亦菲曾舜晞对手戏",
+        "onboard_time": 1673862267,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 603449,
+        "num": 603449,
+        "word": "制片人张萌获刑三年",
+        "onboard_time": 1673847868,
+        "rank": 6,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 559178,
+        "num": 559178,
+        "word": "小乔山海琳琅生皮肤",
+        "onboard_time": 1673861430,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 536744,
+        "num": 536744,
+        "word": "生肖卡",
+        "onboard_time": 1673863107,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 518423,
+        "num": 518423,
+        "word": "河南将投入130亿元支持双一流建设",
+        "onboard_time": 1673862990,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2856113,
+        "num": 498943,
+        "word": "张颖颖 我说了无数次分手",
+        "onboard_time": 1673846008,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1045552,
+        "num": 481426,
+        "word": "刘大锤曝的喜剧演员是大鹏",
+        "onboard_time": 1673844451,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582000,
+        "num": 455494,
+        "word": "沈腾你别太荒谬",
+        "onboard_time": 1673862631,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405840,
+        "num": 405840,
+        "word": "第一次对烧烤失去兴趣",
+        "onboard_time": 1673854830,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381901,
+        "num": 381901,
+        "word": "公共场所的烘手器有多脏",
+        "onboard_time": 1673860949,
+        "rank": 14,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 340459,
+        "num": 340459,
+        "word": "Flandre在LPL出道八周年",
+        "onboard_time": 1673862210,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 335592,
+        "num": 335592,
+        "word": "大陆输台螺蛳粉包装现你是中国人",
+        "onboard_time": 1673844451,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255859,
+        "num": 255859,
+        "word": "第一次见蝴蝶生气",
+        "onboard_time": 1673857468,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 254524,
+        "num": 254524,
+        "word": "好欢螺商业版图",
+        "onboard_time": 1673857709,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 221755,
+        "num": 221755,
+        "word": "马化腾称内部贪腐触目惊心",
+        "onboard_time": 1673846548,
+        "rank": 19,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 520398,
+        "num": 221674,
+        "word": "内娱舞台教科书",
+        "onboard_time": 1673864010,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 450466,
+        "num": 221125,
+        "word": "EXO将2月后完整体回归",
+        "onboard_time": 1673858848,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411617,
+        "num": 221079,
+        "word": "张杰说明天十点来听新歌",
+        "onboard_time": 1673864670,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220577,
+        "num": 220577,
+        "word": "恢复对涉港澳台营业性演出的受理和审批",
+        "onboard_time": 1673859330,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 198806,
+        "num": 198806,
+        "word": "梅西内马尔相依为命",
+        "onboard_time": 1673850330,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195435,
+        "num": 195435,
+        "word": "福兔",
+        "onboard_time": 1673846610,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 194847,
+        "num": 194847,
+        "word": "WE对战EDG",
+        "onboard_time": 1673863467,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181726,
+        "num": 181726,
+        "word": "2023年起CATTI考试一年仅考一次",
+        "onboard_time": 1673863952,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175847,
+        "num": 175847,
+        "word": "蛋仔派对",
+        "onboard_time": 1673859807,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171525,
+        "num": 171525,
+        "word": "新冠康复期正常吃好饭很重要",
+        "onboard_time": 1673858367,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264794,
+        "num": 171219,
+        "word": "三体杨蓉慕星今晚上线",
+        "onboard_time": 1673862449,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259806,
+        "num": 168873,
+        "word": "胡歌误入史上最强赘婿剧组",
+        "onboard_time": 1673860949,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212285,
+        "num": 168035,
+        "word": "GOTtheBeat新歌上线",
+        "onboard_time": 1673863829,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199237,
+        "num": 166513,
+        "word": "三体制片人谈王传君演技",
+        "onboard_time": 1673855549,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166095,
+        "num": 166095,
+        "word": "分手后还会看前任动态吗",
+        "onboard_time": 1673862570,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195066,
+        "num": 165836,
+        "word": "谢之遥醋坛子说翻就翻",
+        "onboard_time": 1673859990,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151904,
+        "num": 165692,
+        "word": "这同学录挺费头发",
+        "onboard_time": 1673854650,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141878,
+        "num": 165526,
+        "word": "内马尔踢后卫",
+        "onboard_time": 1673849852,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140369,
+        "num": 165038,
+        "word": "儿媳每天接送8旬医生公公上下班",
+        "onboard_time": 1673849194,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139579,
+        "num": 164850,
+        "word": "年后再说",
+        "onboard_time": 1673860887,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 185162,
+        "num": 164674,
+        "word": "王一博无名发布会工作室出图",
+        "onboard_time": 1673864250,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198623,
+        "num": 164277,
+        "word": "王源灿烂灿烂集数变更为30集",
+        "onboard_time": 1673862029,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136595,
+        "num": 163985,
+        "word": "过年三件套",
+        "onboard_time": 1673859689,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130801,
+        "num": 163740,
+        "word": "无畏骑士风",
+        "onboard_time": 1673864250,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129835,
+        "num": 163473,
+        "word": "谁能拒绝看动漫的快乐呢",
+        "onboard_time": 1673862990,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 121505,
+        "num": 163151,
+        "word": "这猫像极了年底加班的我",
+        "onboard_time": 1673861308,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119997,
+        "num": 162882,
+        "word": "这窗帘还是给猫咪抓吧",
+        "onboard_time": 1673864787,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118267,
+        "num": 162564,
+        "word": "十二生肖为什么没有小猫咪",
+        "onboard_time": 1673853508,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 112643,
+        "num": 162392,
+        "word": "原来小猫咪也会发光",
+        "onboard_time": 1673864127,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107917,
+        "num": 162024,
+        "word": "法考",
+        "onboard_time": 1673853868,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#向春而行#"
+    }
+  }
+}
