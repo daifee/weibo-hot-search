@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673890402114,
+  "endTime": 1673893345429,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -22011,6 +22011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283020,
+      "num": 283020,
+      "word": "儿子出国8年首次回家妈妈喜极而泣",
+      "onboard_time": 1673887643,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282982,
       "num": 174081,
       "word": "肖战台历图",
@@ -23017,14 +23025,6 @@
       "onboard_time": 1673780609,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 271870,
-      "num": 260312,
-      "word": "儿子出国8年首次回家妈妈喜极而泣",
-      "onboard_time": 1673887643,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271618,
@@ -39115,6 +39115,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 91546,
+      "num": 91546,
+      "word": "回村的狗请摆正自己的位置",
+      "onboard_time": 1673888362,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91327,
       "num": 91327,
       "word": "红袜子是本命年全国统一标配吗",
@@ -39363,6 +39371,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 83219,
+      "num": 83219,
+      "word": "DRX中单fate疑似出轨",
+      "onboard_time": 1673889440,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 82939,
       "num": 399787,
       "word": "国乒元旦祝福",
@@ -39433,14 +39449,6 @@
       "onboard_time": 1673500657,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81335,
-      "num": 81335,
-      "word": "回村的狗请摆正自己的位置",
-      "onboard_time": 1673888362,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 80948,
@@ -39667,6 +39675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73060,
+      "num": 46732,
+      "word": "于冬称电影业三年蒸发1000亿票房",
+      "onboard_time": 1673890637,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 72333,
       "num": 42712,
       "word": "孙悦爱得起唱出了放得下",
@@ -39697,14 +39713,6 @@
       "onboard_time": 1673796814,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 70603,
-      "num": 70603,
-      "word": "DRX中单fate疑似出轨",
-      "onboard_time": 1673889440,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 70515,
@@ -39888,6 +39896,14 @@
       "word": "一图速览10个发热就诊指征",
       "onboard_time": 1673668407,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62054,
+      "num": 62054,
+      "word": "山东姑娘辞职接替父亲戍边6年",
+      "onboard_time": 1673890937,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -40464,6 +40480,14 @@
       "word": "别人是来聚餐的社牛是来办席的",
       "onboard_time": 1672694351,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29451,
+      "num": 29451,
+      "word": "夫妻戍边近60年回家过年2次",
+      "onboard_time": 1673891357,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
