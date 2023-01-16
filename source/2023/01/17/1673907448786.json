@@ -1,0 +1,410 @@
+{
+  "runTime": 1673907448786,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 440505,
+        "num": 440505,
+        "word": "多平台回应刑满释放人员变励志网红",
+        "onboard_time": 1673885188,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267933,
+        "num": 267933,
+        "word": "网友吃火锅菜品中发现蓝环章鱼",
+        "onboard_time": 1673879732,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17912,
+        "num": 193553,
+        "word": "全国特色年味地图出炉",
+        "onboard_time": 1673873428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151620,
+        "num": 151620,
+        "word": "儿子出国8年首次回家妈妈喜极而泣",
+        "onboard_time": 1673887643,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150484,
+        "num": 150484,
+        "word": "无所谓 向太会出手",
+        "onboard_time": 1673872467,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127193,
+        "num": 127193,
+        "word": "全球最富1%人口赚了其余人口近两倍",
+        "onboard_time": 1673883689,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 126639,
+        "num": 126639,
+        "word": "夫妻为宝宝取8个字姓名共56画",
+        "onboard_time": 1673882312,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126407,
+        "num": 126407,
+        "word": "火锅店吃饭还好多问了一句",
+        "onboard_time": 1673879611,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115432,
+        "num": 115432,
+        "word": "车厘子打败砂糖橘成最热年货",
+        "onboard_time": 1673885427,
+        "rank": 8,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 102412,
+        "num": 102412,
+        "word": "明起多国来华将严查48小时核酸",
+        "onboard_time": 1673870127,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111269,
+        "num": 96661,
+        "word": "李川锤娜丽莎 恋情",
+        "onboard_time": 1673882010,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82529,
+        "num": 82529,
+        "word": "王一博抱never",
+        "onboard_time": 1673876553,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68472,
+        "num": 68472,
+        "word": "山东姑娘辞职接替父亲戍边6年",
+        "onboard_time": 1673890937,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64021,
+        "num": 64021,
+        "word": "张颖颖微博点赞",
+        "onboard_time": 1673884409,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58604,
+        "num": 58604,
+        "word": "缩短教育时间能提高生育率吗",
+        "onboard_time": 1673866169,
+        "rank": 14,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 57783,
+        "num": 57783,
+        "word": "林永健 你们这届网友干嘛呢",
+        "onboard_time": 1673872889,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50988,
+        "num": 50988,
+        "word": "其实结婚是自己的选择题",
+        "onboard_time": 1673884049,
+        "rank": 16,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 45873,
+        "num": 45873,
+        "word": "蓝环章鱼",
+        "onboard_time": 1673877091,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44187,
+        "num": 44187,
+        "word": "美国地图公司曾明确标记南沙群岛属于中国",
+        "onboard_time": 1673894593,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 44066,
+        "num": 44066,
+        "word": "男子拿去年澡票洗澡遭老板拒绝",
+        "onboard_time": 1673884168,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44300,
+        "num": 44048,
+        "word": "never 讨厌没有边界感的帅哥",
+        "onboard_time": 1673879251,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40907,
+        "num": 40907,
+        "word": "男子买100克金条亲手给未婚妻做手镯",
+        "onboard_time": 1673876489,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39735,
+        "num": 39735,
+        "word": "中国足协杯奖杯被掰断",
+        "onboard_time": 1673872590,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36687,
+        "num": 36687,
+        "word": "荣安皇后终于被肖铎抱了",
+        "onboard_time": 1673876853,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35114,
+        "num": 35114,
+        "word": "男子池塘救人被冰划破双腿全是血",
+        "onboard_time": 1673903832,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33278,
+        "num": 33278,
+        "word": "女孩称因戴弟弟帽子被妈妈殴打",
+        "onboard_time": 1673866708,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32615,
+        "num": 32615,
+        "word": "回村的狗请摆正自己的位置",
+        "onboard_time": 1673888362,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32127,
+        "num": 32127,
+        "word": "什么馅饺子最好吃",
+        "onboard_time": 1673884293,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 32001,
+        "num": 32001,
+        "word": "动车上女儿突然出现父母一愣",
+        "onboard_time": 1673877570,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31847,
+        "num": 31847,
+        "word": "外交部批日美合谋诋毁中国形象",
+        "onboard_time": 1673882851,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 30548,
+        "num": 30548,
+        "word": "肖铎知道步音楼父亲是凶手",
+        "onboard_time": 1673881289,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30491,
+        "num": 30491,
+        "word": "三体 原著党狂喜",
+        "onboard_time": 1673876489,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27820,
+        "num": 27820,
+        "word": "于冬称电影业三年蒸发1000亿票房",
+        "onboard_time": 1673890637,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27295,
+        "num": 27295,
+        "word": "弟弟发现姐姐首饰装备库原地震惊",
+        "onboard_time": 1673861967,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26640,
+        "num": 26640,
+        "word": "女子回村后美甲太长被妈妈按住剪掉",
+        "onboard_time": 1673873909,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25531,
+        "num": 25531,
+        "word": "男子新房未入住被邻居种大葱",
+        "onboard_time": 1673870789,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23147,
+        "num": 23147,
+        "word": "都暻秀翻唱伯贤的Unvillage",
+        "onboard_time": 1673884949,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23135,
+        "num": 23135,
+        "word": "三体罗辑背影",
+        "onboard_time": 1673887346,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22366,
+        "num": 22366,
+        "word": "男子吃板面碗里仅2根面剩下全是菜",
+        "onboard_time": 1673880812,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22183,
+        "num": 22183,
+        "word": "DRX中单fate疑似出轨",
+        "onboard_time": 1673889440,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22837,
+        "num": 22180,
+        "word": "阿强伤透了阿欣的心",
+        "onboard_time": 1673900832,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22150,
+        "num": 22150,
+        "word": "王鹤棣看了赵丽颖风吹半夏",
+        "onboard_time": 1673870608,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21835,
+        "num": 21835,
+        "word": "2022年全国人口或出现负增长",
+        "onboard_time": 1673857289,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21826,
+        "num": 21826,
+        "word": "女子网购100根仙女棒收到100根铁丝",
+        "onboard_time": 1673869590,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20605,
+        "num": 20605,
+        "word": "王者荣耀",
+        "onboard_time": 1673860287,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18455,
+        "num": 18455,
+        "word": "歼20在我国防空识别区驱离外机",
+        "onboard_time": 1673874869,
+        "rank": 45,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 14421,
+        "num": 18452,
+        "word": "夫妻戍边近60年回家过年2次",
+        "onboard_time": 1673891357,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13386,
+        "num": 18448,
+        "word": "热热闹闹寻年味",
+        "onboard_time": 1673898373,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12918,
+        "num": 18447,
+        "word": "情侣逛街是全国统一的吧",
+        "onboard_time": 1673871808,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12371,
+        "num": 18442,
+        "word": "meiko 娜美",
+        "onboard_time": 1673875109,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#被春节回家暖心瞬间戳到了#"
+    }
+  }
+}
