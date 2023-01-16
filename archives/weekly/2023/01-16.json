@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673839178356,
+  "endTime": 1673840048728,
   "band_list": [
     {
       "raw_hot": 2443672,
@@ -19,20 +19,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1956537,
+      "num": 1956537,
+      "word": "爱奇艺被曝禁止HDMI连线播放",
+      "onboard_time": 1673836947,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1842200,
       "num": 1842200,
       "word": "N95口罩血氧仪价格大跳水",
       "onboard_time": 1673831725,
       "rank": 10,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1734191,
-      "num": 1734191,
-      "word": "爱奇艺被曝禁止HDMI连线播放",
-      "onboard_time": 1673836947,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 1437266,
@@ -43,8 +43,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1294049,
-      "num": 1294049,
+      "raw_hot": 1301562,
+      "num": 1301562,
       "word": "2023年春晚主持人阵容首次发布",
       "onboard_time": 1673836105,
       "rank": 5,
@@ -115,8 +115,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 686299,
-      "num": 686299,
+      "raw_hot": 692420,
+      "num": 692420,
       "word": "游客滑雪失控致女生被撞倒后抽搐",
       "onboard_time": 1673835085,
       "rank": 14,
@@ -171,6 +171,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 604621,
+      "num": 447886,
+      "word": "尼泊尔客机副驾因丈夫坠机接力飞行梦",
+      "onboard_time": 1673834545,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 588612,
+      "num": 448801,
+      "word": "张艺兴跑着拥抱何炅",
+      "onboard_time": 1673836586,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585690,
       "num": 585690,
       "word": "勿信新冠不是大号流感而是小号艾滋",
@@ -187,28 +203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 568979,
-      "num": 448801,
-      "word": "张艺兴跑着拥抱何炅",
-      "onboard_time": 1673836586,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 561904,
-      "num": 447886,
-      "word": "尼泊尔客机副驾因丈夫坠机接力飞行梦",
-      "onboard_time": 1673834545,
-      "rank": 13,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 531070,
       "num": 531070,
       "word": "盘锦化工厂爆炸事故已致2人死亡12人失联",
       "onboard_time": 1673832444,
       "rank": 16,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 519322,
+      "num": 376023,
+      "word": "王嘉宁 春晚主持",
+      "onboard_time": 1673839469,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 516676,
@@ -235,20 +243,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 504209,
+      "num": 504209,
+      "word": "车厘子自由为什么这么难",
+      "onboard_time": 1673837727,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460292,
+      "num": 364369,
+      "word": "R1SE上海演唱会官摄",
+      "onboard_time": 1673838267,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 446827,
       "num": 370206,
       "word": "释小龙郝劭文同台爷青回",
       "onboard_time": 1673828785,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 439692,
-      "num": 364369,
-      "word": "R1SE上海演唱会官摄",
-      "onboard_time": 1673838267,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 419461,
@@ -283,12 +299,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 400897,
+      "num": 365488,
+      "word": "黑神话悟空发售时间公开",
+      "onboard_time": 1673838929,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 388181,
       "num": 185274,
       "word": "三体首播收视率",
       "onboard_time": 1673788891,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 378516,
+      "num": 378516,
+      "word": "詹姆斯38000分里程碑",
+      "onboard_time": 1673838686,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 373245,
@@ -323,12 +355,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352118,
-      "num": 352118,
-      "word": "车厘子自由为什么这么难",
-      "onboard_time": 1673837727,
-      "rank": 18,
+      "raw_hot": 351083,
+      "num": 351083,
+      "word": "美国女子刺伤亚裔称以为是中国人",
+      "onboard_time": 1673839166,
+      "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349404,
+      "num": 287454,
+      "word": "马嘉祺没站上升降台",
+      "onboard_time": 1673839828,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 340368,
@@ -393,6 +433,14 @@
       "onboard_time": 1673835925,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 304276,
+      "num": 188503,
+      "word": "谢之遥是许红豆许红米的关系调和剂",
+      "onboard_time": 1673839408,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 300853,
@@ -595,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201597,
+      "num": 201597,
+      "word": "大哥凌晨火车上为乘客献唱",
+      "onboard_time": 1673837486,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201135,
       "num": 201135,
       "word": "这小朋友的胎教是甄嬛传吧",
@@ -609,14 +665,6 @@
       "onboard_time": 1673801782,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199342,
-      "num": 199342,
-      "word": "大哥凌晨火车上为乘客献唱",
-      "onboard_time": 1673837486,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191373,
@@ -675,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169911,
+      "num": 169911,
+      "word": "时隔三年后回家是种什么体验",
+      "onboard_time": 1673838806,
+      "rank": 44,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 166819,
       "num": 116779,
       "word": "戴燕妮兑现叶若依跳舞flag",
@@ -707,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156316,
+      "num": 156316,
+      "word": "浙些瞬间值得被收藏",
+      "onboard_time": 1673839348,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155501,
       "num": 180266,
       "word": "结个婚被笑话三年",
@@ -715,12 +779,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150517,
+      "num": 150517,
+      "word": "消息人士称普京不参与明年俄大选",
+      "onboard_time": 1673839105,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 144675,
       "num": 144675,
       "word": "商竣程晋级澳网第二轮",
       "onboard_time": 1673839048,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139866,
+      "num": 139866,
+      "word": "高铁G61为她紧急临停3分钟",
+      "onboard_time": 1673839645,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139260,
@@ -736,14 +816,6 @@
       "word": "深圳男篮主帅场边昏倒",
       "onboard_time": 1673794838,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 133177,
-      "num": 133177,
-      "word": "詹姆斯38000分里程碑",
-      "onboard_time": 1673838686,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -771,14 +843,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 119076,
-      "num": 119076,
-      "word": "黑神话悟空发售时间公开",
-      "onboard_time": 1673838929,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 115070,
       "num": 98103,
       "word": "60位台湾政商及文艺界名人资料疑遭外泄",
@@ -801,14 +865,6 @@
       "onboard_time": 1673833227,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 113966,
-      "num": 113966,
-      "word": "时隔三年后回家是种什么体验",
-      "onboard_time": 1673838806,
-      "rank": 44,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 111185,
@@ -851,6 +907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103400,
+      "num": 139333,
+      "word": "电视套娃式收费究竟谁之过",
+      "onboard_time": 1673839286,
+      "rank": 47,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 103333,
       "num": 183584,
       "word": "NIP战胜UP",
@@ -891,12 +955,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97917,
-      "num": 97917,
-      "word": "消息人士称普京不参与明年俄大选",
-      "onboard_time": 1673839105,
-      "rank": 47,
-      "category": "国外要闻"
+      "raw_hot": 98720,
+      "num": 138706,
+      "word": "摔得连电动车都嫌弃",
+      "onboard_time": 1673840007,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 97140,
@@ -937,14 +1001,6 @@
       "onboard_time": 1673778388,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 91671,
-      "num": 96074,
-      "word": "美国女子刺伤亚裔称以为是中国人",
-      "onboard_time": 1673839166,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91301,
@@ -1137,6 +1193,9 @@
     },
     {
       "word": "#这份新春约定风雪无阻暖人心扉#"
+    },
+    {
+      "word": "#向春而行#"
     }
   ]
 }
