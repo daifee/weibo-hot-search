@@ -1,6 +1,6 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673939805033,
+  "endTime": 1673940827148,
   "band_list": [
     {
       "raw_hot": 2724964,
@@ -33,6 +33,14 @@
       "onboard_time": 1673921666,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2092307,
+      "num": 2092307,
+      "word": "张艺谋说易烊千玺是首选",
+      "onboard_time": 1673939487,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1978155,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1335014,
-      "num": 1055121,
+      "num": 1100066,
       "word": "相亲对象穿着棉服就来了",
       "onboard_time": 1673930968,
       "rank": 12,
@@ -147,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 939143,
+      "num": 939143,
+      "word": "不想做美甲回家过年了",
+      "onboard_time": 1673937926,
+      "rank": 6,
+      "category": "美妆,幽默"
+    },
+    {
       "raw_hot": 928686,
       "num": 928686,
       "word": "女生熬夜关灯玩手机后眼部囊肿",
@@ -161,6 +177,14 @@
       "onboard_time": 1673924367,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 895860,
+      "num": 895860,
+      "word": "刘亦菲 谢谢姐姐姐夫请喝咖啡",
+      "onboard_time": 1673938888,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 893560,
@@ -211,20 +235,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 848756,
-      "num": 848756,
+      "raw_hot": 850193,
+      "num": 850193,
       "word": "孙悟空齐天大圣皮肤",
       "onboard_time": 1673938106,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 840580,
-      "num": 840580,
-      "word": "不想做美甲回家过年了",
-      "onboard_time": 1673937926,
-      "rank": 6,
-      "category": "美妆,幽默"
     },
     {
       "raw_hot": 810282,
@@ -265,22 +281,6 @@
       "onboard_time": 1673912963,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 726802,
-      "num": 726802,
-      "word": "张艺谋说易烊千玺是首选",
-      "onboard_time": 1673939487,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 706441,
-      "num": 458904,
-      "word": "刘亦菲 谢谢姐姐姐夫请喝咖啡",
-      "onboard_time": 1673938888,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 703095,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453584,
+      "num": 453584,
+      "word": "夏奇拉通过家中果酱发现皮克出轨",
+      "onboard_time": 1673939787,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 451756,
       "num": 451756,
       "word": "张碧晨黑粉手写道歉信",
@@ -561,6 +569,14 @@
       "onboard_time": 1673869590,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410097,
+      "num": 410097,
+      "word": "院方回应59岁医生被患者捅数刀",
+      "onboard_time": 1673938528,
+      "rank": 23,
+      "category": "社会负面"
     },
     {
       "raw_hot": 408782,
@@ -651,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352753,
+      "num": 321076,
+      "word": "王一博无名首映礼状态",
+      "onboard_time": 1673940507,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 351934,
       "num": 258910,
       "word": "李光洁隋雨蒙是懂情侣穿搭的",
@@ -660,7 +684,7 @@
     },
     {
       "raw_hot": 351619,
-      "num": 288832,
+      "num": 291368,
       "word": "齐思钧官宣加盟湖南卫视华人春晚",
       "onboard_time": 1673936965,
       "rank": 20,
@@ -753,6 +777,14 @@
       "onboard_time": 1673930667,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 326599,
+      "num": 326599,
+      "word": "公安部今天起严查酒驾醉驾",
+      "onboard_time": 1673939606,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322807,
@@ -851,14 +883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279435,
-      "num": 279435,
-      "word": "院方回应59岁医生被患者捅数刀",
-      "onboard_time": 1673938528,
-      "rank": 23,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 278224,
       "num": 278224,
       "word": "利雅得全明星队公布战巴黎名单",
@@ -937,6 +961,14 @@
       "onboard_time": 1673921129,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265749,
+      "num": 193156,
+      "word": "院人最漫长的三秒",
+      "onboard_time": 1673940326,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 263451,
@@ -1041,14 +1073,6 @@
       "onboard_time": 1673937565,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238662,
-      "num": 119468,
-      "word": "夏奇拉通过家中果酱发现皮克出轨",
-      "onboard_time": 1673939787,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 234500,
@@ -1531,14 +1555,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 110326,
-      "num": 110326,
-      "word": "公安部今天起严查酒驾醉驾",
-      "onboard_time": 1673939606,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106271,
       "num": 128114,
       "word": "meiko 娜美",
@@ -1547,11 +1563,35 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105319,
+      "num": 105319,
+      "word": "2022年全国人口141175万人",
+      "onboard_time": 1673940147,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104445,
       "num": 104445,
       "word": "会翻滚的糯米团子有多可爱",
       "onboard_time": 1673915308,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104391,
+      "num": 104391,
+      "word": "威马汽车直营店和经销商大批关门",
+      "onboard_time": 1673940326,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 104028,
+      "num": 104028,
+      "word": "8个方法应对阳康后睡不好",
+      "onboard_time": 1673940385,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
