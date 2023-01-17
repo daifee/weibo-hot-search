@@ -1,7 +1,15 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673912015741,
+  "endTime": 1673919328613,
   "band_list": [
+    {
+      "raw_hot": 2724964,
+      "num": 823668,
+      "word": "有没有后代真的很重要吗",
+      "onboard_time": 1673914166,
+      "rank": 3,
+      "category": "幽默"
+    },
     {
       "raw_hot": 1803692,
       "num": 534826,
@@ -9,6 +17,22 @@
       "onboard_time": 1673882010,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1691546,
+      "num": 371618,
+      "word": "疑似被王思聪殴打者发声",
+      "onboard_time": 1673917887,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1575379,
+      "num": 370766,
+      "word": "老邵老师 分手",
+      "onboard_time": 1673916385,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1419951,
@@ -19,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1392084,
-      "num": 1392084,
+      "raw_hot": 1416011,
+      "num": 1416011,
       "word": "网友吃火锅菜品中发现蓝环章鱼",
       "onboard_time": 1673879732,
       "rank": 1,
@@ -43,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 893560,
+      "num": 893560,
+      "word": "著名武术家及演员于海去世",
+      "onboard_time": 1673913264,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 867006,
       "num": 867006,
       "word": "全球最富1%人口赚了其余人口近两倍",
@@ -51,12 +83,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 810282,
+      "num": 810282,
+      "word": "王一博把never头发摸扁了",
+      "onboard_time": 1673913324,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 780715,
       "num": 780715,
       "word": "火锅店吃饭还好多问了一句",
       "onboard_time": 1673879611,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729854,
+      "num": 729854,
+      "word": "向佐ins晒一家四口合照",
+      "onboard_time": 1673912963,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 703095,
@@ -75,12 +123,36 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 614404,
+      "num": 614404,
+      "word": "提振生育积极性还得从减负着手",
+      "onboard_time": 1673914526,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573457,
+      "num": 366769,
+      "word": "三体",
+      "onboard_time": 1673916926,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 565881,
       "num": 565881,
       "word": "明起多国来华将严查48小时核酸",
       "onboard_time": 1673870127,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 542102,
+      "num": 365741,
+      "word": "张译演技够导演唠一辈子",
+      "onboard_time": 1673914947,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 535029,
@@ -107,6 +179,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 494137,
+      "num": 494137,
+      "word": "骑手夫妻跑单7年供女儿们读博买房",
+      "onboard_time": 1673916867,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470344,
       "num": 470344,
       "word": "儿子出国8年首次回家妈妈喜极而泣",
@@ -123,12 +203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373395,
+      "num": 373395,
+      "word": "新冠病毒真的会导致失眠吗",
+      "onboard_time": 1673912721,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370533,
       "num": 370533,
       "word": "林永健 你们这届网友干嘛呢",
       "onboard_time": 1673872889,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 363942,
+      "num": 363942,
+      "word": "杭州的酸辣粉有多离谱",
+      "onboard_time": 1673913081,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 361061,
@@ -145,6 +241,14 @@
       "onboard_time": 1673876853,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 338415,
+      "num": 338415,
+      "word": "转阴后9种常见遗留症状",
+      "onboard_time": 1673916086,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334258,
@@ -171,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310083,
+      "num": 262569,
+      "word": "总台2023年春晚完成第四次彩排",
+      "onboard_time": 1673912963,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289085,
       "num": 191344,
       "word": "都暻秀翻唱伯贤的Unvillage",
@@ -180,7 +292,7 @@
     },
     {
       "raw_hot": 284901,
-      "num": 137082,
+      "num": 175712,
       "word": "never在笑",
       "onboard_time": 1673878411,
       "rank": 31,
@@ -193,6 +305,30 @@
       "onboard_time": 1673887104,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 274452,
+      "num": 183895,
+      "word": "马嘉祺喊话粉丝等了很久该见面了",
+      "onboard_time": 1673918846,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 268727,
+      "num": 268727,
+      "word": "俩小孩小区内5次放火引燃轿车",
+      "onboard_time": 1673918308,
+      "rank": 18,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 266977,
+      "num": 266977,
+      "word": "利雅得全明星队公布战巴黎名单",
+      "onboard_time": 1673917286,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 263451,
@@ -219,19 +355,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260015,
+      "num": 260015,
+      "word": "山东姑娘辞职接替父亲戍边6年",
+      "onboard_time": 1673890937,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256150,
       "num": 256150,
       "word": "女子回村后美甲太长被妈妈按住剪掉",
       "onboard_time": 1673873909,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249335,
-      "num": 249335,
-      "word": "山东姑娘辞职接替父亲戍边6年",
-      "onboard_time": 1673890937,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -243,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231368,
+      "num": 231368,
+      "word": "90后的过年噩梦",
+      "onboard_time": 1673914706,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 225114,
       "num": 129601,
       "word": "肖铎被步音楼亲的满嘴口红印",
@@ -251,12 +395,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213622,
+      "num": 213622,
+      "word": "乘务员飞机上暖心帮乘客哄宝宝",
+      "onboard_time": 1673917707,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213280,
       "num": 123098,
       "word": "姜贞羽舞的是剧粉的夏天",
       "onboard_time": 1673881472,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210351,
+      "num": 210351,
+      "word": "为什么很多人不想谈恋爱了",
+      "onboard_time": 1673918247,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 203224,
+      "num": 181298,
+      "word": "张艺兴亮相11年了",
+      "onboard_time": 1673916208,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192487,
+      "num": 178171,
+      "word": "许红豆在线求助什么是maoduoli",
+      "onboard_time": 1673911099,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 191170,
@@ -275,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184019,
+      "num": 184019,
+      "word": "阳康返乡会被二次感染吗",
+      "onboard_time": 1673913684,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180474,
       "num": 180474,
       "word": "男子买100克金条亲手给未婚妻做手镯",
@@ -283,12 +467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175705,
+      "num": 175705,
+      "word": "马可波罗兔年限定皮肤",
+      "onboard_time": 1673913324,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170246,
       "num": 170246,
       "word": "王者荣耀",
       "onboard_time": 1673860287,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167798,
+      "num": 148897,
+      "word": "宋亚轩刘耀文新歌由你榜夺冠",
+      "onboard_time": 1673916447,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 164561,
@@ -315,12 +515,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157780,
+      "num": 157780,
+      "word": "库里41分",
+      "onboard_time": 1673918187,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156487,
       "num": 128091,
       "word": "三体罗辑背影",
       "onboard_time": 1673887346,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150609,
+      "num": 150609,
+      "word": "阳康后为何会嗜睡或失眠",
+      "onboard_time": 1673916629,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147935,
+      "num": 147935,
+      "word": "中国科学家精确测定月球年龄",
+      "onboard_time": 1673919085,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 143410,
@@ -387,12 +611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103601,
-      "num": 103601,
-      "word": "许红豆在线求助什么是maoduoli",
-      "onboard_time": 1673911099,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 104445,
+      "num": 104445,
+      "word": "会翻滚的糯米团子有多可爱",
+      "onboard_time": 1673915308,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99820,
@@ -409,6 +633,22 @@
       "onboard_time": 1673869109,
       "rank": 38,
       "category": "动漫,游戏"
+    },
+    {
+      "raw_hot": 99262,
+      "num": 1107041,
+      "word": "全国特色年味地图出炉",
+      "onboard_time": 1673873428,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98554,
+      "num": 98554,
+      "word": "加满一箱油约省8元",
+      "onboard_time": 1673919085,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 95066,
@@ -457,14 +697,6 @@
       "onboard_time": 1673910317,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 73524,
-      "num": 1107041,
-      "word": "全国特色年味地图出炉",
-      "onboard_time": 1673873428,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72618,
