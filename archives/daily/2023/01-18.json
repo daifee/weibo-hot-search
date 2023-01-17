@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1673982899813,
+  "endTime": 1673984012070,
   "band_list": [
     {
       "raw_hot": 1441538,
@@ -467,20 +467,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 57299,
-      "num": 57299,
-      "word": "被零下55度运行的计算机酷到了",
-      "onboard_time": 1673981054,
-      "rank": 16,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 53828,
-      "num": 53828,
+      "raw_hot": 64389,
+      "num": 58156,
       "word": "任泽平称放开并鼓励生育刻不容缓",
       "onboard_time": 1673980755,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58792,
+      "num": 58792,
+      "word": "被零下55度运行的计算机酷到了",
+      "onboard_time": 1673981054,
+      "rank": 16,
+      "category": "科技"
     },
     {
       "raw_hot": 39782,
