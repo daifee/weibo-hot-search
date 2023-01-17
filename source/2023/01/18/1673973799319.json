@@ -1,0 +1,410 @@
+{
+  "runTime": 1673973799319,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1062916,
+        "num": 1062916,
+        "word": "西安啊那没事了",
+        "onboard_time": 1673971108,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1441538,
+        "num": 1057136,
+        "word": "老人卧床吸烟着火扑救后复燃身亡",
+        "onboard_time": 1673970928,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21473,
+        "num": 956398,
+        "word": "让春节有仪式感的小事",
+        "onboard_time": 1673912001,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 956166,
+        "num": 956166,
+        "word": "深圳一网友称在山姆买到蓝环章鱼",
+        "onboard_time": 1673964031,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596398,
+        "num": 596398,
+        "word": "突然意识到妈妈真的很好",
+        "onboard_time": 1673971348,
+        "rank": 4,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 595654,
+        "num": 595654,
+        "word": "韩总统夫人穿军装被批抢总统风头",
+        "onboard_time": 1673962290,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 568403,
+        "num": 568403,
+        "word": "漫威",
+        "onboard_time": 1673955509,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 550265,
+        "num": 550265,
+        "word": "王俊凯再秀刀妹",
+        "onboard_time": 1673969068,
+        "rank": 7,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 512704,
+        "num": 512704,
+        "word": "去有风的地方",
+        "onboard_time": 1673967152,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477423,
+        "num": 477423,
+        "word": "河南一企业年终奖堆成钱山",
+        "onboard_time": 1673967693,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 930263,
+        "num": 435026,
+        "word": "张若昀和唐艺昕是朋友聚会认识的",
+        "onboard_time": 1673965474,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489013,
+        "num": 402766,
+        "word": "文春预告KPOP爱豆恋情",
+        "onboard_time": 1673957126,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353862,
+        "num": 353862,
+        "word": "和情绪稳定的人恋爱的感觉",
+        "onboard_time": 1673962591,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344082,
+        "num": 344082,
+        "word": "三体 节奏",
+        "onboard_time": 1673969608,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332638,
+        "num": 332638,
+        "word": "想见你首曝王诠胜刘宇恒海报",
+        "onboard_time": 1673970568,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306944,
+        "num": 306944,
+        "word": "肚子容易长肉也不怕了",
+        "onboard_time": 1673969910,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302746,
+        "num": 302746,
+        "word": "许红豆谢之遥异地恋",
+        "onboard_time": 1673961809,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267562,
+        "num": 267562,
+        "word": "我国出生人口下降三大因素",
+        "onboard_time": 1673942545,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242708,
+        "num": 242708,
+        "word": "不要偷吃香菜",
+        "onboard_time": 1673955747,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241580,
+        "num": 241580,
+        "word": "男子套中3米玩具熊4人抬回家",
+        "onboard_time": 1673968590,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209973,
+        "num": 209973,
+        "word": "貂蝉幻阙歌皮肤",
+        "onboard_time": 1673958987,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210296,
+        "num": 208655,
+        "word": "陈泗旭女朋友",
+        "onboard_time": 1673957728,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204681,
+        "num": 204681,
+        "word": "张艺兴比耶怼脸自拍",
+        "onboard_time": 1673971166,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204541,
+        "num": 204541,
+        "word": "zzr 电竞保安",
+        "onboard_time": 1673966851,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195402,
+        "num": 195402,
+        "word": "易烊千玺的2022年终总结",
+        "onboard_time": 1673967152,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193985,
+        "num": 193985,
+        "word": "安徽一劳斯莱斯婚车撞上石墩受损严重",
+        "onboard_time": 1673963369,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192371,
+        "num": 192371,
+        "word": "王子文平遥国际电影展最佳女演员",
+        "onboard_time": 1673968470,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176511,
+        "num": 176511,
+        "word": "解读梅西世界杯决赛唇语",
+        "onboard_time": 1673968171,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164398,
+        "num": 164398,
+        "word": "我们的客栈是懂摸鱼的",
+        "onboard_time": 1673970148,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159413,
+        "num": 159413,
+        "word": "看到家长在的狗狗都不敢撩了",
+        "onboard_time": 1673965294,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181123,
+        "num": 158514,
+        "word": "新手司机驾车坠塘一家三口身亡",
+        "onboard_time": 1673948846,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 156881,
+        "num": 156881,
+        "word": "张杰演唱会留三十秒看清歌迷的脸",
+        "onboard_time": 1673968831,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156175,
+        "num": 156175,
+        "word": "王者荣耀",
+        "onboard_time": 1673959048,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153736,
+        "num": 153736,
+        "word": "王者三款鼠年限定返场",
+        "onboard_time": 1673965772,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151814,
+        "num": 151814,
+        "word": "女生玩仙女棒滑倒脸着地头发被烧",
+        "onboard_time": 1673958869,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151345,
+        "num": 151345,
+        "word": "如何处理和伴侣前任的关系",
+        "onboard_time": 1673972844,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143561,
+        "num": 143561,
+        "word": "许红豆给陈南星父母染了头发",
+        "onboard_time": 1673964211,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140153,
+        "num": 140153,
+        "word": "最近可以看什么剧",
+        "onboard_time": 1673963190,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134424,
+        "num": 134424,
+        "word": "蔡徐坤捐款10万给老人儿童送温暖",
+        "onboard_time": 1673955568,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132378,
+        "num": 132378,
+        "word": "深海",
+        "onboard_time": 1673964031,
+        "rank": 39,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 131894,
+        "num": 131894,
+        "word": "邓紫棋",
+        "onboard_time": 1673959349,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130672,
+        "num": 130672,
+        "word": "许红豆还会回云苗村吗",
+        "onboard_time": 1673963310,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125773,
+        "num": 125773,
+        "word": "你恨不起来的反派角色",
+        "onboard_time": 1673973263,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113521,
+        "num": 113521,
+        "word": "流浪地球2用AI修复了李雪健原声",
+        "onboard_time": 1673960128,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102732,
+        "num": 102732,
+        "word": "iG战胜RNG",
+        "onboard_time": 1673960186,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98479,
+        "num": 98479,
+        "word": "原来小孩子也有甲沟炎的烦恼",
+        "onboard_time": 1673957667,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94732,
+        "num": 94732,
+        "word": "会做饭的大学生回村被疯狂预约",
+        "onboard_time": 1673960128,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94582,
+        "num": 94582,
+        "word": "官方回应女司机开车坠塘一家三口溺亡",
+        "onboard_time": 1673957667,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 87672,
+        "num": 87672,
+        "word": "上海已度过本轮疫情感染高峰",
+        "onboard_time": 1673958567,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86257,
+        "num": 86257,
+        "word": "于冬反对百亿票房演员说法",
+        "onboard_time": 1673973743,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#出站就是团圆#"
+    }
+  }
+}

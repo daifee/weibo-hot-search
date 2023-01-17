@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/18 00:25:39
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/18 00:43:19
 </p>
 </blockquote>
 <p>
@@ -1677,6 +1677,12 @@ XBB会不会导致二次感染（热度：1469736）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8D%A7%E5%BA%8A%E5%90%B8%E7%83%9F%E7%9D%80%E7%81%AB%E6%89%91%E6%95%91%E5%90%8E%E5%A4%8D%E7%87%83%E8%BA%AB%E4%BA%A1%23" target="weibo">
+老人卧床吸烟着火扑救后复燃身亡（热度：1441538）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%23" target="weibo">
 邓紫棋（热度：1438018）
 </a>
@@ -2997,6 +3003,12 @@ iPhone15Pro机型会有6大独占功能（热度：1066029）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%95%8A%E9%82%A3%E6%B2%A1%E4%BA%8B%E4%BA%86%23" target="weibo">
+西安啊那没事了（热度：1062916）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%83%AB%E4%B8%8D%E6%AD%BB%E5%BF%83%E7%83%AB%E5%AE%8C%E5%BF%83%E6%AD%BB%E4%BA%86%23" target="weibo">
 不烫不死心烫完心死了（热度：1061604）
 </a>
@@ -3581,12 +3593,6 @@ WBG让二追三（热度：970849）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9D%99%E5%88%9D%20%E9%BB%84%E8%B0%A3%E4%B8%8D%E4%BC%9A%E6%B8%85%E8%80%85%E8%87%AA%E6%B8%85%23" target="weibo">
 张静初 黄谣不会清者自清（热度：958942）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8D%A7%E5%BA%8A%E5%90%B8%E7%83%9F%E7%9D%80%E7%81%AB%E6%89%91%E6%95%91%E5%90%8E%E5%A4%8D%E7%87%83%E8%BA%AB%E4%BA%A1%23" target="weibo">
-老人卧床吸烟着火扑救后复燃身亡（热度：958520）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ SEVENTEEN获金唱片最佳表演奖赏（热度：700849）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E7%94%B5%E8%A6%81%E6%B1%82%E5%90%91%E6%BC%94%E5%91%98%E5%BC%80%E5%B1%95%E6%B3%95%E5%BE%8B%E5%9F%B9%E8%AE%AD%23" target="weibo">
 广电要求向演员开展法律培训（热度：691949）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%8D%E5%BE%97%E6%8A%8A%E8%80%81%E4%B8%88%E4%BA%BA%E8%BF%B7%E6%AD%BB%23" target="weibo">
-这不得把老丈人迷死（热度：691747）
 </a>
 </li>
 

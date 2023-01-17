@@ -1,7 +1,15 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1673972739891,
+  "endTime": 1673973799319,
   "band_list": [
+    {
+      "raw_hot": 1441538,
+      "num": 1057136,
+      "word": "老人卧床吸烟着火扑救后复燃身亡",
+      "onboard_time": 1673970928,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1193828,
       "num": 1193828,
@@ -19,12 +27,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 958520,
-      "num": 958520,
-      "word": "老人卧床吸烟着火扑救后复燃身亡",
-      "onboard_time": 1673970928,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 1062916,
+      "num": 1062916,
+      "word": "西安啊那没事了",
+      "onboard_time": 1673971108,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 690547,
@@ -59,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 596398,
+      "num": 596398,
+      "word": "突然意识到妈妈真的很好",
+      "onboard_time": 1673971348,
+      "rank": 15,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 566246,
       "num": 463344,
       "word": "文春预告KPOP爱豆恋情",
@@ -67,16 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 524129,
-      "num": 524129,
-      "word": "西安啊那没事了",
-      "onboard_time": 1673971108,
-      "rank": 8,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 478562,
-      "num": 478562,
+      "raw_hot": 512704,
+      "num": 512704,
       "word": "去有风的地方",
       "onboard_time": 1673967152,
       "rank": 9,
@@ -115,12 +123,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 340717,
-      "num": 340717,
-      "word": "突然意识到妈妈真的很好",
-      "onboard_time": 1673971348,
-      "rank": 15,
-      "category": "情感,幽默"
+      "raw_hot": 332638,
+      "num": 332638,
+      "word": "想见你首曝王诠胜刘宇恒海报",
+      "onboard_time": 1673970568,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 303452,
@@ -177,14 +185,6 @@
       "onboard_time": 1673963369,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249917,
-      "num": 249917,
-      "word": "想见你首曝王诠胜刘宇恒海报",
-      "onboard_time": 1673970568,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 246918,
@@ -307,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151345,
+      "num": 151345,
+      "word": "如何处理和伴侣前任的关系",
+      "onboard_time": 1673972844,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146866,
       "num": 146866,
       "word": "蔡徐坤捐款10万给老人儿童送温暖",
@@ -328,6 +336,14 @@
       "word": "流浪地球2用AI修复了李雪健原声",
       "onboard_time": 1673960128,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 125773,
+      "num": 125773,
+      "word": "你恨不起来的反派角色",
+      "onboard_time": 1673973263,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -395,8 +411,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 86257,
+      "num": 86257,
+      "word": "于冬反对百亿票房演员说法",
+      "onboard_time": 1673973743,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25310,
-      "num": 721870,
+      "num": 956398,
       "word": "让春节有仪式感的小事",
       "onboard_time": 1673912001,
       "rank": 2,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#赏年俗品年味#"
+    },
+    {
+      "word": "#出站就是团圆#"
     }
   ]
 }
