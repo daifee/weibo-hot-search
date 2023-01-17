@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673948016635,
+  "endTime": 1673950792831,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -435,6 +435,14 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 1052393,
+      "num": 859188,
+      "word": "新手司机驾车坠塘一家三口身亡",
+      "onboard_time": 1673948846,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1051104,
       "num": 1051104,
       "word": "中国男比女多3237万人",
@@ -643,6 +651,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 853829,
+      "num": 853829,
+      "word": "暴雪绿茶",
+      "onboard_time": 1673946389,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 851021,
       "num": 851021,
       "word": "晋江判定藤萝为枝黑月光未抄袭",
@@ -731,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 765943,
-      "num": 765943,
-      "word": "暴雪绿茶",
-      "onboard_time": 1673946389,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 749626,
       "num": 749626,
       "word": "5000买iPhone还是安卓",
@@ -761,6 +769,14 @@
       "onboard_time": 1673912963,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 703319,
+      "num": 703319,
+      "word": "湖北襄阳3.6级地震",
+      "onboard_time": 1673947648,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 703095,
@@ -817,6 +833,14 @@
       "onboard_time": 1673835085,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 683406,
+      "num": 510637,
+      "word": "暴雪网易谈崩事发IP控制权之争",
+      "onboard_time": 1673948306,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 680705,
@@ -1203,6 +1227,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 532537,
+      "num": 532537,
+      "word": "外界预计印度人口已超越中国",
+      "onboard_time": 1673947051,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531070,
       "num": 531070,
       "word": "盘锦化工厂爆炸事故已致2人死亡12人失联",
@@ -1337,6 +1369,14 @@
       "onboard_time": 1673933307,
       "rank": 21,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 487250,
+      "num": 487250,
+      "word": "广州TTG人员变动公告",
+      "onboard_time": 1673948846,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 486093,
@@ -1547,6 +1587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 413229,
+      "num": 413229,
+      "word": "高压锅炖猪蹄爆炸窗户炸裂",
+      "onboard_time": 1673948130,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411617,
       "num": 221079,
       "word": "张杰说明天十点来听新歌",
@@ -1700,7 +1748,7 @@
     },
     {
       "raw_hot": 374254,
-      "num": 214569,
+      "num": 235350,
       "word": "李现新剧第一次穿白衬衫是去吃米线",
       "onboard_time": 1673944708,
       "rank": 32,
@@ -2380,7 +2428,7 @@
     },
     {
       "raw_hot": 286424,
-      "num": 168027,
+      "num": 186908,
       "word": "王鹤棣陈钰琪浮图缘咬嘴唇花絮",
       "onboard_time": 1673947107,
       "rank": 40,
@@ -2603,14 +2651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268910,
-      "num": 268910,
-      "word": "外界预计印度人口已超越中国",
-      "onboard_time": 1673947051,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268668,
       "num": 268668,
       "word": "火箭vs湖人",
@@ -2736,6 +2776,14 @@
       "word": "许红豆给谢之遥上药",
       "onboard_time": 1673938827,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 260788,
+      "num": 260788,
+      "word": "无名首映礼",
+      "onboard_time": 1673949446,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -3155,6 +3203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203510,
+      "num": 203510,
+      "word": "小鹏汽车官宣调整价格",
+      "onboard_time": 1673948547,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 203269,
       "num": 203269,
       "word": "带一群狗狗跳绳的主人",
@@ -3225,6 +3281,14 @@
       "onboard_time": 1673944288,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195634,
+      "num": 195634,
+      "word": "恋与制作人",
+      "onboard_time": 1673948306,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 194987,
@@ -3393,6 +3457,14 @@
       "onboard_time": 1673825118,
       "rank": 34,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 180155,
+      "num": 149848,
+      "word": "沈腾发布会现场炫醋",
+      "onboard_time": 1673949087,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 178030,
@@ -3739,6 +3811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147046,
+      "num": 147046,
+      "word": "TTG官宣阿豆加入",
+      "onboard_time": 1673950467,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146720,
       "num": 1318710,
       "word": "全国特色年味地图出炉",
@@ -4067,12 +4147,28 @@
       "category": "其它"
     },
     {
+      "raw_hot": 118612,
+      "num": 118612,
+      "word": "假如天庭职场化",
+      "onboard_time": 1673949689,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118397,
       "num": 131318,
       "word": "2022年农村居民收入增长快于城镇",
       "onboard_time": 1673923767,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 117212,
+      "num": 117212,
+      "word": "冰尘转会滔搏",
+      "onboard_time": 1673950287,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 116719,

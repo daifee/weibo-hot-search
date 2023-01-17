@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/17 17:33:36
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/17 18:19:52
 </p>
 </blockquote>
 <p>
@@ -2991,6 +2991,12 @@ N号房主犯曾调查金智秀私生活（热度：1059069）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%89%8B%E5%8F%B8%E6%9C%BA%E9%A9%BE%E8%BD%A6%E5%9D%A0%E5%A1%98%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E8%BA%AB%E4%BA%A1%23" target="weibo">
+新手司机驾车坠塘一家三口身亡（热度：1052393）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%BD%B6%E5%8F%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E7%BB%B4%E6%9D%83%23" target="weibo">
 曾轶可演唱会被维权（热度：1052339）
 </a>
@@ -4311,6 +4317,12 @@ BLACKPINK确定领衔出演科切拉音乐节（热度：863887）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E7%BB%BF%E8%8C%B6%23" target="weibo">
+暴雪绿茶（热度：853829）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%AF%B4%E6%BC%94%E5%91%98%E6%98%AF%E8%A2%AB%E9%80%89%E6%8B%A9%E7%9A%84%E8%81%8C%E4%B8%9A%23" target="weibo">
 迪丽热巴说演员是被选择的职业（热度：853742）
 </a>
@@ -5097,12 +5109,6 @@ NASA局长怕中国先登月封锁月表资源（热度：769416）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E7%BB%BF%E8%8C%B6%23" target="weibo">
-暴雪绿茶（热度：765943）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E7%90%83%E9%98%9F3%E4%BA%BF%E5%B9%B4%E8%96%AA%E6%8A%A5%E4%BB%B7%E6%A2%85%E8%A5%BF%23" target="weibo">
 沙特球队3亿年薪报价梅西（热度：765240）
 </a>
@@ -5727,6 +5733,12 @@ EXO将春天后完整体回归（热度：735031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E8%A5%84%E9%98%B33.6%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+湖北襄阳3.6级地震（热度：703319）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%94%90%E5%AB%A3%E5%B0%86%E5%86%8D%E6%BC%94%E4%BB%99%E4%BE%A0%E5%89%A7%23" target="weibo">
 网传唐嫣将再演仙侠剧（热度：703254）
 </a>
@@ -5955,6 +5967,12 @@ TVB颁奖礼（热度：686644）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E7%BD%91%E6%98%93%E8%B0%88%E5%B4%A9%E4%BA%8B%E5%8F%91IP%E6%8E%A7%E5%88%B6%E6%9D%83%E4%B9%8B%E4%BA%89%23" target="weibo">
+暴雪网易谈崩事发IP控制权之争（热度：683406）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B42022%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%23" target="weibo">
 迪丽热巴2022年终总结（热度：682653）
 </a>
@@ -5993,24 +6011,6 @@ TVB颁奖礼（热度：686644）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%88%98%E4%BA%A6%E8%8F%B2%E6%96%B0%E5%89%A7%E6%8E%80%E5%A4%A7%E7%90%86%E6%97%85%E6%B8%B8%E7%83%AD%23" target="weibo">
 李现刘亦菲新剧掀大理旅游热（热度：680129）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Lisa%E4%BB%A3%E8%A8%80%E5%B9%BF%E5%91%8A%E9%87%8C%E6%9C%89%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91%23" target="weibo">
-Lisa代言广告里有沉香如屑（热度：679948）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%818%E4%B8%AA%E6%9C%88%E7%9A%84%E5%AD%99%E5%AD%90%E5%93%AD%E7%BA%A2%E7%9C%BC%E7%9C%B6%23" target="weibo">
-爷爷第一次见8个月的孙子哭红眼眶（热度：679943）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E8%AF%B4%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E5%B1%95%E6%9C%9B%E6%9C%AA%E6%9D%A5%23" target="weibo">
-黄磊说大年初一展望未来（热度：679809）
 </a>
 </li>
 
