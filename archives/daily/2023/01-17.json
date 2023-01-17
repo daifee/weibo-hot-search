@@ -1,6 +1,6 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673959054295,
+  "endTime": 1673960108339,
   "band_list": [
     {
       "raw_hot": 2724964,
@@ -147,6 +147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1345040,
+      "num": 461447,
+      "word": "樱井孝宏被曝出轨多人",
+      "onboard_time": 1673957849,
+      "rank": 10,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 1335014,
       "num": 1100066,
       "word": "相亲对象穿着棉服就来了",
@@ -233,14 +241,6 @@
       "onboard_time": 1673923046,
       "rank": 34,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1070986,
-      "num": 461447,
-      "word": "樱井孝宏被曝出轨多人",
-      "onboard_time": 1673957849,
-      "rank": 10,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 1067294,
@@ -363,6 +363,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 850902,
+      "num": 613503,
+      "word": "不要偷吃香菜",
+      "onboard_time": 1673955747,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 850193,
       "num": 850193,
       "word": "孙悟空齐天大圣皮肤",
@@ -427,20 +435,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 740874,
-      "num": 458880,
-      "word": "不要偷吃香菜",
-      "onboard_time": 1673955747,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 729854,
       "num": 729854,
       "word": "向佐ins晒一家四口合照",
       "onboard_time": 1673912963,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 719848,
+      "num": 719848,
+      "word": "RNG对战iG",
+      "onboard_time": 1673956169,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 717532,
@@ -465,6 +473,14 @@
       "onboard_time": 1673882312,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699984,
+      "num": 699984,
+      "word": "貂蝉幻阙歌皮肤",
+      "onboard_time": 1673958987,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 672254,
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 640464,
+      "num": 640464,
+      "word": "yskm 帅",
+      "onboard_time": 1673958268,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 636619,
       "num": 636619,
       "word": "许红豆吃瓜吃到正主面前",
@@ -555,20 +579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 603297,
-      "num": 457704,
-      "word": "文春预告KPOP爱豆恋情",
-      "onboard_time": 1673957126,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 581738,
-      "num": 581738,
+      "raw_hot": 606147,
+      "num": 606147,
       "word": "IG登场",
       "onboard_time": 1673954848,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 603297,
+      "num": 572716,
+      "word": "文春预告KPOP爱豆恋情",
+      "onboard_time": 1673957126,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 579564,
@@ -667,14 +691,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 525992,
-      "num": 525992,
-      "word": "RNG对战iG",
-      "onboard_time": 1673956169,
-      "rank": 7,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 525319,
       "num": 525319,
       "word": "小兔糕",
@@ -705,6 +721,14 @@
       "onboard_time": 1673932468,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 495825,
+      "num": 495825,
+      "word": "原来小孩子也有甲沟炎的烦恼",
+      "onboard_time": 1673957667,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494137,
@@ -755,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470586,
+      "num": 470586,
+      "word": "邓紫棋",
+      "onboard_time": 1673959349,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470344,
       "num": 470344,
       "word": "儿子出国8年首次回家妈妈喜极而泣",
@@ -764,11 +796,19 @@
     },
     {
       "raw_hot": 463968,
-      "num": 463968,
+      "num": 630020,
       "word": "郑州可以放烟花了",
       "onboard_time": 1673953950,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463104,
+      "num": 364638,
+      "word": "陈泗旭女朋友",
+      "onboard_time": 1673957728,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 455341,
@@ -865,14 +905,6 @@
       "onboard_time": 1673866169,
       "rank": 15,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 422358,
-      "num": 364638,
-      "word": "陈泗旭女朋友",
-      "onboard_time": 1673957728,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 416932,
@@ -1017,14 +1049,6 @@
       "onboard_time": 1673925328,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364500,
-      "num": 364500,
-      "word": "原来小孩子也有甲沟炎的烦恼",
-      "onboard_time": 1673957667,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363942,
@@ -1195,14 +1219,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 319352,
-      "num": 319352,
-      "word": "yskm 帅",
-      "onboard_time": 1673958268,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 318902,
       "num": 198403,
       "word": "太阳黄铉辰Felix舞蹈挑战",
@@ -1225,6 +1241,14 @@
       "onboard_time": 1673912963,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307589,
+      "num": 307589,
+      "word": "浮图缘",
+      "onboard_time": 1673959170,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 306791,
@@ -1251,12 +1275,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 304367,
+      "num": 304367,
+      "word": "王者荣耀",
+      "onboard_time": 1673860287,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 301529,
       "num": 197133,
       "word": "TWICE先行曲MV预告",
       "onboard_time": 1673935047,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 293241,
+      "num": 293241,
+      "word": "女生玩仙女棒滑倒脸着地头发被烧",
+      "onboard_time": 1673958869,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292396,
@@ -1403,6 +1443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269171,
+      "num": 269171,
+      "word": "上海已度过本轮疫情感染高峰",
+      "onboard_time": 1673958567,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268668,
       "num": 268668,
       "word": "火箭vs湖人",
@@ -1411,20 +1459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268061,
-      "num": 268061,
-      "word": "王者荣耀",
-      "onboard_time": 1673860287,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 266607,
       "num": 266607,
       "word": "妻子年前大扫除将老公私房钱一锅端",
       "onboard_time": 1673921129,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265819,
+      "num": 241350,
+      "word": "浮图缘35集预告",
+      "onboard_time": 1673959708,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 265749,
@@ -1545,6 +1593,14 @@
       "onboard_time": 1673955568,
       "rank": 29,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 241930,
+      "num": 241930,
+      "word": "官方回应女司机开车坠塘一家三口溺亡",
+      "onboard_time": 1673957667,
+      "rank": 36,
+      "category": "社会负面"
     },
     {
       "raw_hot": 241236,
@@ -1729,14 +1785,6 @@
       "onboard_time": 1673954727,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208856,
-      "num": 208856,
-      "word": "官方回应女司机开车坠塘一家三口溺亡",
-      "onboard_time": 1673957667,
-      "rank": 36,
-      "category": "社会负面"
     },
     {
       "raw_hot": 206711,
@@ -2187,12 +2235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126373,
-      "num": 126373,
-      "word": "上海已度过本轮疫情感染高峰",
-      "onboard_time": 1673958567,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 128059,
+      "num": 128059,
+      "word": "LNG战胜TT",
+      "onboard_time": 1673956946,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 123750,
@@ -2243,12 +2291,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115669,
-      "num": 115669,
-      "word": "貂蝉幻阙歌皮肤",
-      "onboard_time": 1673958987,
-      "rank": 48,
-      "category": "游戏"
+      "raw_hot": 115703,
+      "num": 115703,
+      "word": "如何应对人口负增长时代",
+      "onboard_time": 1673959408,
+      "rank": 43,
+      "category": "社会议题"
     },
     {
       "raw_hot": 110861,
@@ -2313,6 +2361,14 @@
       "onboard_time": 1673873428,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95436,
+      "num": 95436,
+      "word": "餐桌保命指南",
+      "onboard_time": 1673955810,
+      "rank": 48,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 95066,
