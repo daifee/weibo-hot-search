@@ -1,0 +1,410 @@
+{
+  "runTime": 1673948016635,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1727993,
+        "num": 1727993,
+        "word": "湖北襄阳3.2级地震",
+        "onboard_time": 1673947648,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1638641,
+        "num": 1638641,
+        "word": "我国出生人口下降三大因素",
+        "onboard_time": 1673942545,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26073,
+        "num": 1310800,
+        "word": "让春节有仪式感的小事",
+        "onboard_time": 1673912001,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2445125,
+        "num": 1301211,
+        "word": "王诗龄 小号",
+        "onboard_time": 1673946869,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1281138,
+        "num": 1281138,
+        "word": "刘暖曦被采取限制消费",
+        "onboard_time": 1673945610,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1192722,
+        "num": 1192722,
+        "word": "男子出轨大17岁女子6年转账20多万元",
+        "onboard_time": 1673942967,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1150607,
+        "num": 1150607,
+        "word": "王一博一直往裤兜里塞红包",
+        "onboard_time": 1673945429,
+        "rank": 6,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 851021,
+        "num": 851021,
+        "word": "晋江判定藤萝为枝黑月光未抄袭",
+        "onboard_time": 1673944829,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 781782,
+        "num": 781782,
+        "word": "深圳DYG钎城已连接",
+        "onboard_time": 1673945310,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 765943,
+        "num": 765943,
+        "word": "暴雪绿茶",
+        "onboard_time": 1673946389,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 760386,
+        "num": 760386,
+        "word": "暴雪中国再次发文",
+        "onboard_time": 1673933549,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 690132,
+        "num": 690132,
+        "word": "丈夫给情人转账20万元原配成功追回",
+        "onboard_time": 1673941706,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577267,
+        "num": 577267,
+        "word": "网友质疑Jennie香港演唱会划水",
+        "onboard_time": 1673921548,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 528965,
+        "num": 528965,
+        "word": "张艺谋说易烊千玺是首选",
+        "onboard_time": 1673939487,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 491756,
+        "num": 491756,
+        "word": "藤萝为枝回应抄袭",
+        "onboard_time": 1673944829,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 421244,
+        "num": 421244,
+        "word": "不想做美甲回家过年了",
+        "onboard_time": 1673937926,
+        "rank": 15,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 382466,
+        "num": 382466,
+        "word": "第一次见到老虎被欺负",
+        "onboard_time": 1673945130,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 376969,
+        "num": 376969,
+        "word": "孙悟空齐天大圣皮肤",
+        "onboard_time": 1673938106,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 346020,
+        "num": 346020,
+        "word": "相亲对象穿着棉服就来了",
+        "onboard_time": 1673930968,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338411,
+        "num": 338411,
+        "word": "缩短教育时间能提高生育率吗",
+        "onboard_time": 1673942608,
+        "rank": 19,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 442207,
+        "num": 333802,
+        "word": "满江红首映口碑",
+        "onboard_time": 1673941765,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434146,
+        "num": 331829,
+        "word": "刘亦菲 谢谢姐姐姐夫请喝咖啡",
+        "onboard_time": 1673938888,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430272,
+        "num": 328997,
+        "word": "贺峻霖征文比赛获二等奖",
+        "onboard_time": 1673945488,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320247,
+        "num": 320247,
+        "word": "中方欢迎布林肯国务卿访华",
+        "onboard_time": 1673945728,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 315732,
+        "num": 315732,
+        "word": "女儿给买新衣父亲表面训斥实则炫耀",
+        "onboard_time": 1673943210,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304422,
+        "num": 304422,
+        "word": "京东疫情三年新增28万员工",
+        "onboard_time": 1673944829,
+        "rank": 25,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 268910,
+        "num": 268910,
+        "word": "外界预计印度人口已超越中国",
+        "onboard_time": 1673947051,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234520,
+        "num": 234520,
+        "word": "5000买iPhone还是安卓",
+        "onboard_time": 1673930429,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 226348,
+        "num": 226348,
+        "word": "新年战甲",
+        "onboard_time": 1673946088,
+        "rank": 28,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 219728,
+        "num": 219728,
+        "word": "汶川地震时捐11000元的卖炭翁走了",
+        "onboard_time": 1673934267,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393245,
+        "num": 215567,
+        "word": "沈腾千玺一个负责动一个负责乐",
+        "onboard_time": 1673947589,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374381,
+        "num": 212929,
+        "word": "于和伟 三体开播第三天的奇怪现象",
+        "onboard_time": 1673942007,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304113,
+        "num": 205739,
+        "word": "环球影城偶遇到丁程鑫严浩翔",
+        "onboard_time": 1673943148,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289375,
+        "num": 202853,
+        "word": "李现新剧第一次穿白衬衫是去吃米线",
+        "onboard_time": 1673944708,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199805,
+        "num": 199805,
+        "word": "小兔糕",
+        "onboard_time": 1673932289,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189999,
+        "num": 189999,
+        "word": "老板开价260妈妈一口价50",
+        "onboard_time": 1673927248,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176280,
+        "num": 176280,
+        "word": "福兔",
+        "onboard_time": 1673937687,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 173768,
+        "num": 173768,
+        "word": "考研复试",
+        "onboard_time": 1673927908,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169065,
+        "num": 169065,
+        "word": "暴雪官方旗舰店发布正常运营公告",
+        "onboard_time": 1673941407,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168031,
+        "num": 168031,
+        "word": "原神",
+        "onboard_time": 1673933847,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286424,
+        "num": 168027,
+        "word": "王鹤棣陈钰琪浮图缘咬嘴唇花絮",
+        "onboard_time": 1673947107,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260678,
+        "num": 165544,
+        "word": "张婧仪无名首映礼工作室出图",
+        "onboard_time": 1673942066,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162079,
+        "num": 162079,
+        "word": "公安部今天起严查酒驾醉驾",
+        "onboard_time": 1673939606,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145252,
+        "num": 145252,
+        "word": "院方回应59岁医生被患者捅数刀",
+        "onboard_time": 1673938528,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 135408,
+        "num": 135408,
+        "word": "别忘了我们在月球还有2只小兔子",
+        "onboard_time": 1673944229,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124037,
+        "num": 124037,
+        "word": "明日方舟",
+        "onboard_time": 1673946328,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118132,
+        "num": 118132,
+        "word": "女生熬夜关灯玩手机后眼部囊肿",
+        "onboard_time": 1673925388,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115296,
+        "num": 115296,
+        "word": "辽宁省考",
+        "onboard_time": 1673945670,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 105745,
+        "num": 105745,
+        "word": "詹姆斯48分",
+        "onboard_time": 1673936786,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102387,
+        "num": 102387,
+        "word": "6岁女童5年3次复发伤痕累累",
+        "onboard_time": 1673929467,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#多地神还原千里江山图#"
+    }
+  }
+}

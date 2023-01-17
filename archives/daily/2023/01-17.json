@@ -1,6 +1,6 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673947090850,
+  "endTime": 1673948016635,
   "band_list": [
     {
       "raw_hot": 2724964,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1727993,
+      "num": 1727993,
+      "word": "湖北襄阳3.2级地震",
+      "onboard_time": 1673947648,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1697003,
       "num": 556344,
       "word": "老邵老师 分手",
@@ -83,8 +91,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1470722,
-      "num": 1470722,
+      "raw_hot": 1638641,
+      "num": 1638641,
       "word": "我国出生人口下降三大因素",
       "onboard_time": 1673942545,
       "rank": 15,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1281138,
+      "num": 1281138,
+      "word": "刘暖曦被采取限制消费",
+      "onboard_time": 1673945610,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1266284,
       "num": 1266284,
       "word": "男子出轨大17岁女子6年转账20多万元",
@@ -139,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1228828,
-      "num": 1228828,
-      "word": "刘暖曦被采取限制消费",
-      "onboard_time": 1673945610,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1216402,
       "num": 1216402,
       "word": "多平台回应刑满释放人员变励志网红",
@@ -155,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1150607,
+      "num": 1150607,
+      "word": "王一博一直往裤兜里塞红包",
+      "onboard_time": 1673945429,
+      "rank": 5,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 1148230,
       "num": 1148230,
       "word": "老板开价260妈妈一口价50",
       "onboard_time": 1673927248,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1129566,
-      "num": 1129566,
-      "word": "王一博一直往裤兜里塞红包",
-      "onboard_time": 1673945429,
-      "rank": 5,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 1127613,
@@ -291,6 +299,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 851021,
+      "num": 851021,
+      "word": "晋江判定藤萝为枝黑月光未抄袭",
+      "onboard_time": 1673944829,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 850193,
       "num": 850193,
       "word": "孙悟空齐天大圣皮肤",
@@ -315,12 +331,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 788431,
-      "num": 788431,
-      "word": "晋江判定藤萝为枝黑月光未抄袭",
-      "onboard_time": 1673944829,
-      "rank": 8,
-      "category": "网红"
+      "raw_hot": 781782,
+      "num": 781782,
+      "word": "深圳DYG钎城已连接",
+      "onboard_time": 1673945310,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 780715,
@@ -329,6 +345,14 @@
       "onboard_time": 1673879611,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 765943,
+      "num": 765943,
+      "word": "暴雪绿茶",
+      "onboard_time": 1673946389,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 749626,
@@ -380,7 +404,7 @@
     },
     {
       "raw_hot": 654207,
-      "num": 464160,
+      "num": 491756,
       "word": "藤萝为枝回应抄袭",
       "onboard_time": 1673944829,
       "rank": 11,
@@ -683,14 +707,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 425756,
-      "num": 425756,
-      "word": "深圳DYG钎城已连接",
-      "onboard_time": 1673945310,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 416932,
       "num": 416932,
       "word": "服务员将清洁剂当饮料上桌7人误饮",
@@ -737,6 +753,14 @@
       "onboard_time": 1673932708,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393245,
+      "num": 215567,
+      "word": "沈腾千玺一个负责动一个负责乐",
+      "onboard_time": 1673947589,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 374849,
@@ -915,14 +939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 328978,
-      "num": 328978,
-      "word": "暴雪绿茶",
-      "onboard_time": 1673946389,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 328835,
       "num": 328835,
       "word": "对于女性婚育选择应少些指点江山",
@@ -955,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320247,
+      "num": 320247,
+      "word": "中方欢迎布林肯国务卿访华",
+      "onboard_time": 1673945728,
+      "rank": 34,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 318902,
       "num": 198403,
       "word": "太阳黄铉辰Felix舞蹈挑战",
@@ -977,6 +1001,14 @@
       "onboard_time": 1673923828,
       "rank": 45,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 304422,
+      "num": 304422,
+      "word": "京东疫情三年新增28万员工",
+      "onboard_time": 1673944829,
+      "rank": 23,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 301529,
@@ -1027,20 +1059,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 286424,
+      "num": 168027,
+      "word": "王鹤棣陈钰琪浮图缘咬嘴唇花絮",
+      "onboard_time": 1673947107,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284901,
       "num": 175712,
       "word": "never在笑",
       "onboard_time": 1673878411,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 284572,
-      "num": 284572,
-      "word": "京东疫情三年新增28万员工",
-      "onboard_time": 1673944829,
-      "rank": 23,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 281035,
@@ -1121,6 +1153,14 @@
       "onboard_time": 1673922988,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 268910,
+      "num": 268910,
+      "word": "外界预计印度人口已超越中国",
+      "onboard_time": 1673947051,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268668,
@@ -1315,6 +1355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226348,
+      "num": 226348,
+      "word": "新年战甲",
+      "onboard_time": 1673946088,
+      "rank": 28,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 225114,
       "num": 129601,
       "word": "肖铎被步音楼亲的满嘴口红印",
@@ -1323,28 +1371,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224786,
-      "num": 209864,
-      "word": "中方欢迎布林肯国务卿访华",
-      "onboard_time": 1673945728,
-      "rank": 34,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 223491,
       "num": 223491,
       "word": "在云南吃菌子是有底线的",
       "onboard_time": 1673930369,
       "rank": 45,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 221617,
-      "num": 221617,
-      "word": "新年战甲",
-      "onboard_time": 1673946088,
-      "rank": 28,
-      "category": "美妆,时尚"
     },
     {
       "raw_hot": 221047,
@@ -1747,6 +1779,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 135408,
+      "num": 135408,
+      "word": "别忘了我们在月球还有2只小兔子",
+      "onboard_time": 1673944229,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130603,
       "num": 130603,
       "word": "学人精猫咪坐琴凳弹琴惊呆主人",
@@ -1760,14 +1800,6 @@
       "word": "男子新房未入住被邻居种大葱",
       "onboard_time": 1673870789,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127771,
-      "num": 127771,
-      "word": "别忘了我们在月球还有2只小兔子",
-      "onboard_time": 1673944229,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1856,14 +1888,6 @@
       "word": "全国特色年味地图出炉",
       "onboard_time": 1673873428,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95115,
-      "num": 95115,
-      "word": "外界预计印度人口已超越中国",
-      "onboard_time": 1673947051,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
