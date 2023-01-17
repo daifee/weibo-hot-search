@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1673991214492,
+  "endTime": 1673993893311,
   "band_list": [
     {
       "raw_hot": 1441538,
@@ -411,12 +411,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107963,
+      "num": 62426,
+      "word": "30岁女子大弟弟妹妹20几岁",
+      "onboard_time": 1673989511,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106560,
       "num": 106560,
       "word": "官方回应女司机开车坠塘一家三口溺亡",
       "onboard_time": 1673957667,
       "rank": 45,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 105965,
+      "num": 62023,
+      "word": "任泽平称放开并鼓励生育刻不容缓",
+      "onboard_time": 1673980755,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105406,
@@ -459,14 +475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 84101,
-      "num": 58156,
-      "word": "任泽平称放开并鼓励生育刻不容缓",
-      "onboard_time": 1673980755,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80334,
       "num": 80334,
       "word": "本命年怎么穿红才不土",
@@ -481,14 +489,6 @@
       "onboard_time": 1673981054,
       "rank": 16,
       "category": "科技"
-    },
-    {
-      "raw_hot": 52422,
-      "num": 52422,
-      "word": "30岁女子大弟弟妹妹20几岁",
-      "onboard_time": 1673989511,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39782,
@@ -507,12 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18826,
-      "num": 18826,
+      "raw_hot": 22453,
+      "num": 22453,
       "word": "王子文叶文洁好贴脸",
       "onboard_time": 1673990052,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 17818,
+      "num": 17818,
+      "word": "妈妈的脾气为什么变差了",
+      "onboard_time": 1673993414,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 16217,
