@@ -1,6 +1,6 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673965023716,
+  "endTime": 1673966026942,
   "band_list": [
     {
       "raw_hot": 2724964,
@@ -115,12 +115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1606335,
+      "num": 1606335,
+      "word": "张若昀和唐艺昕是朋友聚会认识的",
+      "onboard_time": 1673965474,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1438018,
       "num": 1438018,
       "word": "邓紫棋",
       "onboard_time": 1673959349,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1423746,
+      "num": 1423746,
+      "word": "韩总统夫人穿军装被批抢总统风头",
+      "onboard_time": 1673962290,
+      "rank": 43,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1419951,
@@ -219,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1215739,
+      "num": 491481,
+      "word": "深圳一网友称在山姆买到蓝环章鱼",
+      "onboard_time": 1673964031,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1185834,
       "num": 1185834,
       "word": "新手司机驾车坠塘一家三口身亡",
@@ -275,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1048934,
+      "num": 1048934,
+      "word": "安徽一劳斯莱斯婚车撞上石墩受损严重",
+      "onboard_time": 1673963369,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1015889,
       "num": 1015889,
       "word": "梁朝伟说王一博非常专业",
@@ -289,14 +321,6 @@
       "onboard_time": 1673938888,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 955245,
-      "num": 955245,
-      "word": "韩总统夫人穿军装被批抢总统风头",
-      "onboard_time": 1673962290,
-      "rank": 43,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 952032,
@@ -411,12 +435,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 816320,
-      "num": 502733,
-      "word": "安徽一劳斯莱斯婚车撞上石墩受损严重",
-      "onboard_time": 1673963369,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 834194,
+      "num": 572716,
+      "word": "文春预告KPOP爱豆恋情",
+      "onboard_time": 1673957126,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 810282,
@@ -451,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 774779,
-      "num": 491481,
-      "word": "深圳一网友称在山姆买到蓝环章鱼",
-      "onboard_time": 1673964031,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 749891,
+      "num": 482397,
+      "word": "崔然竣",
+      "onboard_time": 1673964272,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 749840,
@@ -475,12 +499,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 745476,
-      "num": 572716,
-      "word": "文春预告KPOP爱豆恋情",
-      "onboard_time": 1673957126,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 733504,
+      "num": 733504,
+      "word": "许红豆谢之遥异地恋",
+      "onboard_time": 1673961809,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 729854,
@@ -603,14 +627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 638155,
-      "num": 480500,
-      "word": "崔然竣",
-      "onboard_time": 1673964272,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 636619,
       "num": 636619,
       "word": "许红豆吃瓜吃到正主面前",
@@ -667,12 +683,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 599594,
-      "num": 599594,
-      "word": "许红豆谢之遥异地恋",
-      "onboard_time": 1673961809,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 606035,
+      "num": 606035,
+      "word": "和情绪稳定的人恋爱的感觉",
+      "onboard_time": 1673962591,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 579564,
@@ -681,6 +697,14 @@
       "onboard_time": 1673939606,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573998,
+      "num": 573998,
+      "word": "许红豆给陈南星父母染了头发",
+      "onboard_time": 1673964211,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 573457,
@@ -915,14 +939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 449872,
-      "num": 449872,
-      "word": "和情绪稳定的人恋爱的感觉",
-      "onboard_time": 1673962591,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 448416,
       "num": 448416,
       "word": "满江红",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1673866169,
       "rank": 15,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 427833,
-      "num": 427833,
-      "word": "许红豆给陈南星父母染了头发",
-      "onboard_time": 1673964211,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 422769,
@@ -1403,6 +1411,14 @@
       "category": "游戏,幽默"
     },
     {
+      "raw_hot": 305223,
+      "num": 305223,
+      "word": "令人心动的offer",
+      "onboard_time": 1673965110,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305024,
       "num": 305024,
       "word": "腾讯回应退租朗科大厦",
@@ -1755,6 +1771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 251066,
+      "num": 251066,
+      "word": "看到家长在的狗狗都不敢撩了",
+      "onboard_time": 1673965294,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250852,
       "num": 250852,
       "word": "猪八戒钻石夺宝皮肤",
@@ -1843,6 +1867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232349,
+      "num": 232349,
+      "word": "林鹏翔陈铚研比恋综甜",
+      "onboard_time": 1673965172,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231368,
       "num": 231368,
       "word": "90后的过年噩梦",
@@ -1891,6 +1923,14 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 225856,
+      "num": 225856,
+      "word": "听到谢之遥是遗珠许红豆笑了",
+      "onboard_time": 1673965352,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225114,
       "num": 129601,
       "word": "肖铎被步音楼亲的满嘴口红印",
@@ -1923,6 +1963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220962,
+      "num": 220962,
+      "word": "深海",
+      "onboard_time": 1673964031,
+      "rank": 38,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 216154,
       "num": 165050,
       "word": "步音楼咬肖铎嘴未播花絮",
@@ -1945,14 +1993,6 @@
       "onboard_time": 1673925448,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 211306,
-      "num": 211306,
-      "word": "深海",
-      "onboard_time": 1673964031,
-      "rank": 38,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 209227,
@@ -2139,6 +2179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182625,
+      "num": 182625,
+      "word": "王者三款鼠年限定返场",
+      "onboard_time": 1673965772,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181164,
       "num": 181164,
       "word": "利雅得全明星队vs巴黎圣日耳曼",
@@ -2241,6 +2289,14 @@
       "onboard_time": 1673916447,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167324,
+      "num": 167324,
+      "word": "于和伟史强自制倒数计时",
+      "onboard_time": 1673965954,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 165229,
@@ -2667,6 +2723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 74486,
+      "num": 480690,
+      "word": "春节气氛组不能没有兔子灯",
+      "onboard_time": 1673964272,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72618,
       "num": 128081,
       "word": "EDG首发全华班",
@@ -2745,14 +2809,6 @@
       "onboard_time": 1673912001,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 37794,
-      "num": 466993,
-      "word": "春节气氛组不能没有兔子灯",
-      "onboard_time": 1673964272,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29451,
