@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673962520871,
+  "endTime": 1673965023716,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -865,6 +865,14 @@
       "onboard_time": 1673232147,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2093199,
+      "num": 2093199,
+      "word": "漫威",
+      "onboard_time": 1673955509,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 2092307,
@@ -1833,14 +1841,6 @@
       "onboard_time": 1673769988,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1557103,
-      "num": 1557103,
-      "word": "漫威",
-      "onboard_time": 1673955509,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1552755,
@@ -4747,6 +4747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 955245,
+      "num": 955245,
+      "word": "韩总统夫人穿军装被批抢总统风头",
+      "onboard_time": 1673962290,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 953736,
       "num": 953736,
       "word": "谢腾飞亲奶奶出场就砸100万",
@@ -6267,6 +6275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 816320,
+      "num": 502733,
+      "word": "安徽一劳斯莱斯婚车撞上石墩受损严重",
+      "onboard_time": 1673963369,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 816273,
       "num": 403067,
       "word": "杨紫现身央视春晚第三次大联排路透",
@@ -6771,6 +6787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 774779,
+      "num": 491481,
+      "word": "深圳一网友称在山姆买到蓝环章鱼",
+      "onboard_time": 1673964031,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 774222,
       "num": 774222,
       "word": "新冠月子",
@@ -7193,6 +7217,14 @@
       "onboard_time": 1673175692,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 745476,
+      "num": 572716,
+      "word": "文春预告KPOP爱豆恋情",
+      "onboard_time": 1673957126,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 743663,
@@ -8731,6 +8763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 647084,
+      "num": 647084,
+      "word": "沈腾提议喊易烊千玺三舅",
+      "onboard_time": 1673963252,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 646944,
       "num": 620724,
       "word": "肖战2022年度中国名人榜登顶",
@@ -8897,6 +8937,14 @@
       "onboard_time": 1673069008,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638155,
+      "num": 480500,
+      "word": "崔然竣",
+      "onboard_time": 1673964272,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 637260,
@@ -9555,14 +9603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 603297,
-      "num": 572716,
-      "word": "文春预告KPOP爱豆恋情",
-      "onboard_time": 1673957126,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 602984,
       "num": 602984,
       "word": "普通的小狗突然不普通了",
@@ -9617,6 +9657,14 @@
       "onboard_time": 1673788411,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 599594,
+      "num": 599594,
+      "word": "许红豆谢之遥异地恋",
+      "onboard_time": 1673961809,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 598943,
@@ -12187,6 +12235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 506437,
+      "num": 506437,
+      "word": "猫咪都爱挤在一个窝里",
+      "onboard_time": 1673961630,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 506360,
       "num": 506360,
       "word": "陈钰琪的方言是王鹤棣教的吗",
@@ -14027,6 +14083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449872,
+      "num": 449872,
+      "word": "和情绪稳定的人恋爱的感觉",
+      "onboard_time": 1673962591,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 449617,
       "num": 449617,
       "word": "99年小伙上海辞职回县城卖牛油果",
@@ -14323,6 +14387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 443327,
+      "num": 443327,
+      "word": "会做饭的大学生回村被疯狂预约",
+      "onboard_time": 1673960128,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443307,
       "num": 443307,
       "word": "女孩子真的是很美好很美好",
@@ -14416,6 +14488,14 @@
       "word": "王一博李沁光明之路更名金色征途",
       "onboard_time": 1673530170,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 439503,
+      "num": 439503,
+      "word": "流浪地球2用AI修复了李雪健原声",
+      "onboard_time": 1673960128,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -14833,6 +14913,14 @@
       "onboard_time": 1673064985,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427833,
+      "num": 427833,
+      "word": "许红豆给陈南星父母染了头发",
+      "onboard_time": 1673964211,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 427703,
@@ -15289,6 +15377,14 @@
       "onboard_time": 1673828123,
       "rank": 7,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 415726,
+      "num": 415726,
+      "word": "张若昀说职场恋情不要为难年轻人",
+      "onboard_time": 1673963852,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 415542,
@@ -17395,6 +17491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 373197,
+      "num": 373197,
+      "word": "许红豆还会回云苗村吗",
+      "onboard_time": 1673963310,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372679,
       "num": 372679,
       "word": "太丢老虎的脸了",
@@ -17587,14 +17691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 369274,
-      "num": 299222,
-      "word": "许红豆谢之遥异地恋",
-      "onboard_time": 1673961809,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 369155,
       "num": 214512,
       "word": "长月烬明",
@@ -17729,6 +17825,14 @@
       "onboard_time": 1673848410,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367678,
+      "num": 367678,
+      "word": "最近可以看什么剧",
+      "onboard_time": 1673963190,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 367552,
@@ -18681,14 +18785,6 @@
       "onboard_time": 1673100212,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 350141,
-      "num": 298928,
-      "word": "流浪地球2用AI修复了李雪健原声",
-      "onboard_time": 1673960128,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 349923,
@@ -22123,19 +22219,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 297880,
-      "num": 297880,
-      "word": "会做饭的大学生回村被疯狂预约",
-      "onboard_time": 1673960128,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297694,
       "num": 176285,
       "word": "程霄说任何后果我愿意承担",
       "onboard_time": 1673268090,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 297609,
+      "num": 297609,
+      "word": "三体叔圈CP",
+      "onboard_time": 1673964452,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -23627,6 +23723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278848,
+      "num": 278848,
+      "word": "英雄联盟",
+      "onboard_time": 1673962170,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278713,
       "num": 221595,
       "word": "瞬息全宇宙赢麻了",
@@ -24804,7 +24908,7 @@
     },
     {
       "raw_hot": 266327,
-      "num": 225472,
+      "num": 248642,
       "word": "2023总台春晚演员送祝福",
       "onboard_time": 1673961688,
       "rank": 42,
@@ -25897,6 +26001,14 @@
       "onboard_time": 1672999472,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253307,
+      "num": 253307,
+      "word": "想在春晚看到这个",
+      "onboard_time": 1673960309,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 253301,
@@ -28211,14 +28323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225815,
-      "num": 225815,
-      "word": "英雄联盟",
-      "onboard_time": 1673962170,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 225783,
       "num": 150738,
       "word": "Minnie唱泰语版VillainDies",
@@ -28721,14 +28825,6 @@
       "onboard_time": 1672808913,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219707,
-      "num": 214297,
-      "word": "想在春晚看到这个",
-      "onboard_time": 1673960309,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 219672,
@@ -30395,6 +30491,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 198638,
+      "num": 198638,
+      "word": "高叶 气场",
+      "onboard_time": 1673964813,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198514,
       "num": 198514,
       "word": "今年春运客流预计同比增长99.5%",
@@ -30825,14 +30929,6 @@
       "onboard_time": 1673789975,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 194437,
-      "num": 194437,
-      "word": "猫咪都爱挤在一个窝里",
-      "onboard_time": 1673961630,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 194427,
@@ -31963,6 +32059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184198,
+      "num": 184198,
+      "word": "红豆遥遥冰的两次拥抱",
+      "onboard_time": 1673964813,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184194,
       "num": 154884,
       "word": "谢之遥是懂忽悠的",
@@ -32785,6 +32889,14 @@
       "onboard_time": 1673745681,
       "rank": 37,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 177365,
+      "num": 177365,
+      "word": "超市的BGM就是春节的仪式感",
+      "onboard_time": 1673963970,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177189,
@@ -35449,14 +35561,6 @@
       "onboard_time": 1673454028,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152058,
-      "num": 152058,
-      "word": "韩总统夫人穿军装被批抢总统风头",
-      "onboard_time": 1673962290,
-      "rank": 43,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 152043,
@@ -42403,6 +42507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 37794,
+      "num": 466993,
+      "word": "春节气氛组不能没有兔子灯",
+      "onboard_time": 1673964272,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37435,
       "num": 51361,
       "word": "当老板陷入轮回",
@@ -42933,6 +43045,9 @@
     },
     {
       "word": "#赏年俗品年味#"
+    },
+    {
+      "word": "#出站就是团圆#"
     }
   ]
 }

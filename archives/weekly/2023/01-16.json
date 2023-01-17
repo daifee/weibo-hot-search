@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673962520871,
+  "endTime": 1673965023716,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -105,6 +105,14 @@
       "onboard_time": 1673921666,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2093199,
+      "num": 2093199,
+      "word": "漫威",
+      "onboard_time": 1673955509,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 2092307,
@@ -233,14 +241,6 @@
       "onboard_time": 1673843191,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1557103,
-      "num": 1557103,
-      "word": "漫威",
-      "onboard_time": 1673955509,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1508216,
@@ -579,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 955245,
+      "num": 955245,
+      "word": "韩总统夫人穿军装被批抢总统风头",
+      "onboard_time": 1673962290,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 952032,
       "num": 613503,
       "word": "不要偷吃香菜",
@@ -779,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 816320,
+      "num": 502733,
+      "word": "安徽一劳斯莱斯婚车撞上石墩受损严重",
+      "onboard_time": 1673963369,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 810282,
       "num": 810282,
       "word": "王一博把never头发摸扁了",
@@ -811,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 774779,
+      "num": 491481,
+      "word": "深圳一网友称在山姆买到蓝环章鱼",
+      "onboard_time": 1673964031,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772610,
       "num": 772610,
       "word": "女孩称因戴弟弟帽子被妈妈殴打",
@@ -833,6 +857,14 @@
       "onboard_time": 1673930429,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 745476,
+      "num": 572716,
+      "word": "文春预告KPOP爱豆恋情",
+      "onboard_time": 1673957126,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 735791,
@@ -1043,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 647084,
+      "num": 647084,
+      "word": "沈腾提议喊易烊千玺三舅",
+      "onboard_time": 1673963252,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 642512,
       "num": 642512,
       "word": "刘亦菲曾舜晞对手戏",
@@ -1065,6 +1105,14 @@
       "onboard_time": 1673958268,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 638155,
+      "num": 480500,
+      "word": "崔然竣",
+      "onboard_time": 1673964272,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 636619,
@@ -1203,12 +1251,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 603297,
-      "num": 572716,
-      "word": "文春预告KPOP爱豆恋情",
-      "onboard_time": 1673957126,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 599594,
+      "num": 599594,
+      "word": "许红豆谢之遥异地恋",
+      "onboard_time": 1673961809,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 589962,
@@ -1451,6 +1499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 506437,
+      "num": 506437,
+      "word": "猫咪都爱挤在一个窝里",
+      "onboard_time": 1673961630,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 505421,
       "num": 252766,
       "word": "刘亦菲版花木兰首播收视率第一",
@@ -1635,6 +1691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 449872,
+      "num": 449872,
+      "word": "和情绪稳定的人恋爱的感觉",
+      "onboard_time": 1673962591,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 448593,
       "num": 448593,
       "word": "好欢螺商业版图",
@@ -1683,12 +1747,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 443327,
+      "num": 443327,
+      "word": "会做饭的大学生回村被疯狂预约",
+      "onboard_time": 1673960128,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442746,
       "num": 442746,
       "word": "6岁女童5年3次复发伤痕累累",
       "onboard_time": 1673929467,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439503,
+      "num": 439503,
+      "word": "流浪地球2用AI修复了李雪健原声",
+      "onboard_time": 1673960128,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 435875,
@@ -1711,6 +1791,14 @@
       "num": 347570,
       "word": "易烊千玺说张艺谋很亲切很和蔼",
       "onboard_time": 1673961268,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 427833,
+      "num": 427833,
+      "word": "许红豆给陈南星父母染了头发",
+      "onboard_time": 1673964211,
       "rank": 20,
       "category": "影视"
     },
@@ -1761,6 +1849,14 @@
       "onboard_time": 1673828123,
       "rank": 7,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 415726,
+      "num": 415726,
+      "word": "张若昀说职场恋情不要为难年轻人",
+      "onboard_time": 1673963852,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 414958,
@@ -2011,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373197,
+      "num": 373197,
+      "word": "许红豆还会回云苗村吗",
+      "onboard_time": 1673963310,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372679,
       "num": 372679,
       "word": "太丢老虎的脸了",
@@ -2035,14 +2139,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 369274,
-      "num": 299222,
-      "word": "许红豆谢之遥异地恋",
-      "onboard_time": 1673961809,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 368948,
       "num": 230279,
       "word": "王鹤棣过年好忙",
@@ -2057,6 +2153,14 @@
       "onboard_time": 1673848410,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367678,
+      "num": 367678,
+      "word": "最近可以看什么剧",
+      "onboard_time": 1673963190,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 365001,
@@ -2161,14 +2265,6 @@
       "onboard_time": 1673936965,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 350141,
-      "num": 298928,
-      "word": "流浪地球2用AI修复了李雪健原声",
-      "onboard_time": 1673960128,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 349836,
@@ -2595,12 +2691,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 297880,
-      "num": 297880,
-      "word": "会做饭的大学生回村被疯狂预约",
-      "onboard_time": 1673960128,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 297609,
+      "num": 297609,
+      "word": "三体叔圈CP",
+      "onboard_time": 1673964452,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 297443,
@@ -2761,6 +2857,14 @@
       "onboard_time": 1673887104,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278848,
+      "num": 278848,
+      "word": "英雄联盟",
+      "onboard_time": 1673962170,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 278224,
@@ -2956,7 +3060,7 @@
     },
     {
       "raw_hot": 266327,
-      "num": 225472,
+      "num": 248642,
       "word": "2023总台春晚演员送祝福",
       "onboard_time": 1673961688,
       "rank": 42,
@@ -3121,6 +3225,14 @@
       "onboard_time": 1673858969,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253307,
+      "num": 253307,
+      "word": "想在春晚看到这个",
+      "onboard_time": 1673960309,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 253301,
@@ -3419,14 +3531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225815,
-      "num": 225815,
-      "word": "英雄联盟",
-      "onboard_time": 1673962170,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 224921,
       "num": 224921,
       "word": "巨人完结篇预告",
@@ -3457,14 +3561,6 @@
       "onboard_time": 1673936965,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 219707,
-      "num": 214297,
-      "word": "想在春晚看到这个",
-      "onboard_time": 1673960309,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 217652,
@@ -3553,6 +3649,14 @@
       "onboard_time": 1673869468,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211306,
+      "num": 211306,
+      "word": "深海",
+      "onboard_time": 1673964031,
+      "rank": 38,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 210625,
@@ -3659,6 +3763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198638,
+      "num": 198638,
+      "word": "高叶 气场",
+      "onboard_time": 1673964813,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198238,
       "num": 141651,
       "word": "刘耀文说从没想过被谁束缚",
@@ -3705,14 +3817,6 @@
       "onboard_time": 1673864250,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 194437,
-      "num": 194437,
-      "word": "猫咪都爱挤在一个窝里",
-      "onboard_time": 1673961630,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 193577,
@@ -3811,6 +3915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184198,
+      "num": 184198,
+      "word": "红豆遥遥冰的两次拥抱",
+      "onboard_time": 1673964813,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184019,
       "num": 184019,
       "word": "阳康返乡会被二次感染吗",
@@ -3897,6 +4009,14 @@
       "onboard_time": 1673931747,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177365,
+      "num": 177365,
+      "word": "超市的BGM就是春节的仪式感",
+      "onboard_time": 1673963970,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176471,
@@ -4217,14 +4337,6 @@
       "onboard_time": 1673953350,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152058,
-      "num": 152058,
-      "word": "韩总统夫人穿军装被批抢总统风头",
-      "onboard_time": 1673962290,
-      "rank": 43,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 152025,
@@ -5203,6 +5315,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 37794,
+      "num": 466993,
+      "word": "春节气氛组不能没有兔子灯",
+      "onboard_time": 1673964272,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29451,
       "num": 29451,
       "word": "夫妻戍边近60年回家过年2次",
@@ -5285,6 +5405,9 @@
     },
     {
       "word": "#赏年俗品年味#"
+    },
+    {
+      "word": "#出站就是团圆#"
     }
   ]
 }
