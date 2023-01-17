@@ -1,0 +1,410 @@
+{
+  "runTime": 1673920543336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2315678,
+        "num": 2315678,
+        "word": "疑似被王思聪殴打者发声",
+        "onboard_time": 1673917887,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1156176,
+        "num": 1156176,
+        "word": "网友吃火锅菜品中发现蓝环章鱼",
+        "onboard_time": 1673879732,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82901,
+        "num": 817127,
+        "word": "全国特色年味地图出炉",
+        "onboard_time": 1673873428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2191446,
+        "num": 812671,
+        "word": "有没有后代真的很重要吗",
+        "onboard_time": 1673914166,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 787671,
+        "num": 787671,
+        "word": "王一博把never头发摸扁了",
+        "onboard_time": 1673913324,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668277,
+        "num": 668277,
+        "word": "张译演技够导演唠一辈子",
+        "onboard_time": 1673914947,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 654131,
+        "num": 654131,
+        "word": "向佐ins晒一家四口合照",
+        "onboard_time": 1673912963,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 733895,
+        "num": 642606,
+        "word": "著名武术家及演员于海去世",
+        "onboard_time": 1673913264,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612192,
+        "num": 612192,
+        "word": "俩小孩小区内5次放火引燃轿车",
+        "onboard_time": 1673918308,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 545336,
+        "num": 545336,
+        "word": "提振生育积极性还得从减负着手",
+        "onboard_time": 1673914526,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1697003,
+        "num": 544844,
+        "word": "老邵老师 分手",
+        "onboard_time": 1673916385,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 566248,
+        "num": 525003,
+        "word": "三体",
+        "onboard_time": 1673916926,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 439896,
+        "num": 439896,
+        "word": "骑手夫妻跑单7年供女儿们读博买房",
+        "onboard_time": 1673916867,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409340,
+        "num": 409340,
+        "word": "夫妻为宝宝取8个字姓名共56画",
+        "onboard_time": 1673882312,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392603,
+        "num": 392603,
+        "word": "腾讯拟提前退租15层楼",
+        "onboard_time": 1673919566,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 329271,
+        "num": 329271,
+        "word": "为什么很多人不想谈恋爱了",
+        "onboard_time": 1673918247,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314772,
+        "num": 314772,
+        "word": "转阴后9种常见遗留症状",
+        "onboard_time": 1673916086,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300430,
+        "num": 300430,
+        "word": "儿子出国8年首次回家妈妈喜极而泣",
+        "onboard_time": 1673887643,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278224,
+        "num": 278224,
+        "word": "利雅得全明星队公布战巴黎名单",
+        "onboard_time": 1673917286,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272203,
+        "num": 272203,
+        "word": "新冠病毒真的会导致失眠吗",
+        "onboard_time": 1673912721,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392030,
+        "num": 270710,
+        "word": "never 讨厌没有边界感的帅哥",
+        "onboard_time": 1673879251,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377606,
+        "num": 269046,
+        "word": "无所谓 向太会出手",
+        "onboard_time": 1673872467,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267291,
+        "num": 267291,
+        "word": "总台2023年春晚完成第四次彩排",
+        "onboard_time": 1673912963,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258818,
+        "num": 258818,
+        "word": "杭州的酸辣粉有多离谱",
+        "onboard_time": 1673913081,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 240388,
+        "num": 240388,
+        "word": "乘务员飞机上暖心帮乘客哄宝宝",
+        "onboard_time": 1673917707,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215859,
+        "num": 215859,
+        "word": "90后的过年噩梦",
+        "onboard_time": 1673914706,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210374,
+        "num": 210374,
+        "word": "山东姑娘辞职接替父亲戍边6年",
+        "onboard_time": 1673890937,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205558,
+        "num": 205558,
+        "word": "男子吃板面碗里仅2根面剩下全是菜",
+        "onboard_time": 1673880812,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194346,
+        "num": 194346,
+        "word": "车厘子打败砂糖橘成最热年货",
+        "onboard_time": 1673885427,
+        "rank": 28,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 191199,
+        "num": 191199,
+        "word": "中国科学家精确测定月球年龄",
+        "onboard_time": 1673919085,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 257836,
+        "num": 191197,
+        "word": "马嘉祺喊话粉丝等了很久该见面了",
+        "onboard_time": 1673918846,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191179,
+        "num": 191179,
+        "word": "刑释人员可不可以当网红",
+        "onboard_time": 1673919927,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189752,
+        "num": 189752,
+        "word": "许红豆在线求助什么是maoduoli",
+        "onboard_time": 1673911099,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170530,
+        "num": 170530,
+        "word": "加满一箱油约省8元",
+        "onboard_time": 1673919085,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 161862,
+        "num": 161862,
+        "word": "张艺兴亮相11年了",
+        "onboard_time": 1673916208,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157782,
+        "num": 157782,
+        "word": "明起多国来华将严查48小时核酸",
+        "onboard_time": 1673870127,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157270,
+        "num": 157270,
+        "word": "马可波罗兔年限定皮肤",
+        "onboard_time": 1673913324,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151428,
+        "num": 151428,
+        "word": "never在笑",
+        "onboard_time": 1673878411,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145646,
+        "num": 145646,
+        "word": "阳康返乡会被二次感染吗",
+        "onboard_time": 1673913684,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145536,
+        "num": 145536,
+        "word": "库里41分",
+        "onboard_time": 1673918187,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141862,
+        "num": 141862,
+        "word": "宋亚轩刘耀文新歌由你榜夺冠",
+        "onboard_time": 1673916447,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138550,
+        "num": 138550,
+        "word": "男子拿去年澡票洗澡遭老板拒绝",
+        "onboard_time": 1673884168,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133835,
+        "num": 133835,
+        "word": "荣安皇后终于被肖铎抱了",
+        "onboard_time": 1673876853,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131368,
+        "num": 131368,
+        "word": "蓝环章鱼",
+        "onboard_time": 1673877091,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129980,
+        "num": 129980,
+        "word": "女子回村后美甲太长被妈妈按住剪掉",
+        "onboard_time": 1673873909,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126963,
+        "num": 126963,
+        "word": "男子买100克金条亲手给未婚妻做手镯",
+        "onboard_time": 1673876489,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123499,
+        "num": 123499,
+        "word": "阳康后为何会嗜睡或失眠",
+        "onboard_time": 1673916629,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123030,
+        "num": 123030,
+        "word": "火锅店吃饭还好多问了一句",
+        "onboard_time": 1673879611,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103064,
+        "num": 103064,
+        "word": "休假军人赤脚狂追3条街抓回小偷",
+        "onboard_time": 1673919864,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91625,
+        "num": 91625,
+        "word": "动车上女儿突然出现父母一愣",
+        "onboard_time": 1673877570,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#被春节回家暖心瞬间戳到了#"
+    }
+  }
+}

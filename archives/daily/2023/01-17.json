@@ -1,6 +1,6 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673919328613,
+  "endTime": 1673920543336,
   "band_list": [
     {
       "raw_hot": 2724964,
@@ -11,6 +11,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2315678,
+      "num": 2315678,
+      "word": "疑似被王思聪殴打者发声",
+      "onboard_time": 1673917887,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1803692,
       "num": 534826,
       "word": "李川锤娜丽莎 恋情",
@@ -19,16 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1691546,
-      "num": 371618,
-      "word": "疑似被王思聪殴打者发声",
-      "onboard_time": 1673917887,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1575379,
-      "num": 370766,
+      "raw_hot": 1697003,
+      "num": 544844,
       "word": "老邵老师 分手",
       "onboard_time": 1673916385,
       "rank": 11,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 668277,
+      "num": 668277,
+      "word": "张译演技够导演唠一辈子",
+      "onboard_time": 1673914947,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 632949,
       "num": 632949,
       "word": "其实结婚是自己的选择题",
@@ -131,8 +139,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 612192,
+      "num": 612192,
+      "word": "俩小孩小区内5次放火引燃轿车",
+      "onboard_time": 1673918308,
+      "rank": 18,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 573457,
-      "num": 366769,
+      "num": 525003,
       "word": "三体",
       "onboard_time": 1673916926,
       "rank": 12,
@@ -145,14 +161,6 @@
       "onboard_time": 1673870127,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 542102,
-      "num": 365741,
-      "word": "张译演技够导演唠一辈子",
-      "onboard_time": 1673914947,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 535029,
@@ -201,6 +209,14 @@
       "onboard_time": 1673869590,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392603,
+      "num": 392603,
+      "word": "腾讯拟提前退租15层楼",
+      "onboard_time": 1673919566,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 373395,
@@ -267,6 +283,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 329271,
+      "num": 329271,
+      "word": "为什么很多人不想谈恋爱了",
+      "onboard_time": 1673918247,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 322807,
       "num": 189257,
       "word": "三体 原著党狂喜",
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 310083,
-      "num": 262569,
+      "num": 267291,
       "word": "总台2023年春晚完成第四次彩排",
       "onboard_time": 1673912963,
       "rank": 22,
@@ -307,28 +331,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 274452,
-      "num": 183895,
-      "word": "马嘉祺喊话粉丝等了很久该见面了",
-      "onboard_time": 1673918846,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 268727,
-      "num": 268727,
-      "word": "俩小孩小区内5次放火引燃轿车",
-      "onboard_time": 1673918308,
-      "rank": 18,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 266977,
-      "num": 266977,
+      "raw_hot": 278224,
+      "num": 278224,
       "word": "利雅得全明星队公布战巴黎名单",
       "onboard_time": 1673917286,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274452,
+      "num": 191197,
+      "word": "马嘉祺喊话粉丝等了很久该见面了",
+      "onboard_time": 1673918846,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 263451,
@@ -379,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240388,
+      "num": 240388,
+      "word": "乘务员飞机上暖心帮乘客哄宝宝",
+      "onboard_time": 1673917707,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231368,
       "num": 231368,
       "word": "90后的过年噩梦",
@@ -395,28 +419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213622,
-      "num": 213622,
-      "word": "乘务员飞机上暖心帮乘客哄宝宝",
-      "onboard_time": 1673917707,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213280,
       "num": 123098,
       "word": "姜贞羽舞的是剧粉的夏天",
       "onboard_time": 1673881472,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210351,
-      "num": 210351,
-      "word": "为什么很多人不想谈恋爱了",
-      "onboard_time": 1673918247,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 203224,
@@ -428,11 +436,27 @@
     },
     {
       "raw_hot": 192487,
-      "num": 178171,
+      "num": 189752,
       "word": "许红豆在线求助什么是maoduoli",
       "onboard_time": 1673911099,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191199,
+      "num": 191199,
+      "word": "中国科学家精确测定月球年龄",
+      "onboard_time": 1673919085,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 191179,
+      "num": 191179,
+      "word": "刑释人员可不可以当网红",
+      "onboard_time": 1673919927,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191170,
@@ -473,6 +497,14 @@
       "onboard_time": 1673913324,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170530,
+      "num": 170530,
+      "word": "加满一箱油约省8元",
+      "onboard_time": 1673919085,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 170246,
@@ -537,14 +569,6 @@
       "onboard_time": 1673916629,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147935,
-      "num": 147935,
-      "word": "中国科学家精确测定月球年龄",
-      "onboard_time": 1673919085,
-      "rank": 42,
-      "category": "科技"
     },
     {
       "raw_hot": 143410,
@@ -619,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103064,
+      "num": 103064,
+      "word": "休假军人赤脚狂追3条街抓回小偷",
+      "onboard_time": 1673919864,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99820,
       "num": 99820,
       "word": "饭店阿姨捞垃圾桶地沟油回店",
@@ -641,14 +673,6 @@
       "onboard_time": 1673873428,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98554,
-      "num": 98554,
-      "word": "加满一箱油约省8元",
-      "onboard_time": 1673919085,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 95066,
