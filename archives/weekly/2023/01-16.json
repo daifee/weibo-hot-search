@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673960108339,
+  "endTime": 1673961866745,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -451,6 +451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1130486,
+      "num": 1130486,
+      "word": "邓紫棋",
+      "onboard_time": 1673959349,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1127613,
       "num": 1093075,
       "word": "丈夫给情人转账20万元原配成功追回",
@@ -497,6 +505,14 @@
       "onboard_time": 1673835445,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1019844,
+      "num": 1019844,
+      "word": "漫威",
+      "onboard_time": 1673955509,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1019049,
@@ -561,6 +577,14 @@
       "onboard_time": 1673839645,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 952032,
+      "num": 613503,
+      "word": "不要偷吃香菜",
+      "onboard_time": 1673955747,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 946638,
@@ -635,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 889070,
+      "num": 889070,
+      "word": "貂蝉幻阙歌皮肤",
+      "onboard_time": 1673958987,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 881769,
       "num": 881769,
       "word": "中国出生人口首次跌破1000万",
@@ -707,14 +739,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 850902,
-      "num": 613503,
-      "word": "不要偷吃香菜",
-      "onboard_time": 1673955747,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 850193,
       "num": 850193,
       "word": "孙悟空齐天大圣皮肤",
@@ -753,14 +777,6 @@
       "onboard_time": 1673832325,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 833434,
-      "num": 833434,
-      "word": "漫威",
-      "onboard_time": 1673955509,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 810282,
@@ -875,14 +891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 699984,
-      "num": 699984,
-      "word": "貂蝉幻阙歌皮肤",
-      "onboard_time": 1673958987,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 699587,
       "num": 699587,
       "word": "以为染发后会是氛围感美女",
@@ -977,6 +985,14 @@
       "onboard_time": 1673846548,
       "rank": 27,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 662679,
+      "num": 662679,
+      "word": "iG战胜RNG",
+      "onboard_time": 1673960186,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 662677,
@@ -1081,6 +1097,14 @@
       "onboard_time": 1673826683,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 620428,
+      "num": 620428,
+      "word": "原来小孩子也有甲沟炎的烦恼",
+      "onboard_time": 1673957667,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 619721,
@@ -1283,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 567880,
+      "num": 567880,
+      "word": "女生玩仙女棒滑倒脸着地头发被烧",
+      "onboard_time": 1673958869,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565723,
       "num": 244140,
       "word": "张颖颖秒删分手微博",
@@ -1443,14 +1475,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 495825,
-      "num": 495825,
-      "word": "原来小孩子也有甲沟炎的烦恼",
-      "onboard_time": 1673957667,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 494137,
       "num": 494137,
       "word": "骑手夫妻跑单7年供女儿们读博买房",
@@ -1523,14 +1547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 470586,
-      "num": 470586,
-      "word": "邓紫棋",
-      "onboard_time": 1673959349,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 470344,
       "num": 470344,
       "word": "儿子出国8年首次回家妈妈喜极而泣",
@@ -1556,7 +1572,7 @@
     },
     {
       "raw_hot": 463104,
-      "num": 364638,
+      "num": 440312,
       "word": "陈泗旭女朋友",
       "onboard_time": 1673957728,
       "rank": 20,
@@ -1688,6 +1704,14 @@
       "word": "三体 物理学不存在",
       "onboard_time": 1673927548,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 430761,
+      "num": 347570,
+      "word": "易烊千玺说张艺谋很亲切很和蔼",
+      "onboard_time": 1673961268,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -1889,6 +1913,14 @@
       "onboard_time": 1673873131,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 383098,
+      "num": 383098,
+      "word": "上海已度过本轮疫情感染高峰",
+      "onboard_time": 1673958567,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381901,
@@ -2563,6 +2595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294971,
+      "num": 294971,
+      "word": "流浪地球2用AI修复了李雪健原声",
+      "onboard_time": 1673960128,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294924,
       "num": 183081,
       "word": "张艺兴面纱舞台脸链造型",
@@ -2577,14 +2617,6 @@
       "onboard_time": 1673828724,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 293241,
-      "num": 293241,
-      "word": "女生玩仙女棒滑倒脸着地头发被烧",
-      "onboard_time": 1673958869,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292907,
@@ -2641,6 +2673,14 @@
       "onboard_time": 1673952328,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290257,
+      "num": 290257,
+      "word": "官方回应女司机开车坠塘一家三口溺亡",
+      "onboard_time": 1673957667,
+      "rank": 36,
+      "category": "社会负面"
     },
     {
       "raw_hot": 289085,
@@ -2875,14 +2915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 269171,
-      "num": 269171,
-      "word": "上海已度过本轮疫情感染高峰",
-      "onboard_time": 1673958567,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268668,
       "num": 268668,
       "word": "火箭vs湖人",
@@ -3051,6 +3083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258781,
+      "num": 175487,
+      "word": "边伯贤手写信vlog",
+      "onboard_time": 1673960546,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254870,
       "num": 184135,
       "word": "谢谢去有风的地方",
@@ -3115,6 +3155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 248055,
+      "num": 239750,
+      "word": "红豆遥遥冰海边相拥",
+      "onboard_time": 1673956889,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247411,
       "num": 167572,
       "word": "对我而言危险的他",
@@ -3163,14 +3211,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 241930,
-      "num": 241930,
-      "word": "官方回应女司机开车坠塘一家三口溺亡",
-      "onboard_time": 1673957667,
-      "rank": 36,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 241236,
       "num": 142459,
       "word": "蔡卓妍晒三亚vlog",
@@ -3201,14 +3241,6 @@
       "onboard_time": 1673865689,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239750,
-      "num": 239750,
-      "word": "红豆遥遥冰海边相拥",
-      "onboard_time": 1673956889,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 239203,
@@ -3331,6 +3363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 227731,
+      "num": 147191,
+      "word": "许红豆谢之遥异地恋",
+      "onboard_time": 1673961809,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226348,
       "num": 226348,
       "word": "新年战甲",
@@ -3379,12 +3419,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 221683,
+      "num": 145863,
+      "word": "2023总台春晚演员送祝福",
+      "onboard_time": 1673961688,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221047,
       "num": 221047,
       "word": "魔兽国服将支持玩家封存进度",
       "onboard_time": 1673936965,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219707,
+      "num": 170869,
+      "word": "想在春晚看到这个",
+      "onboard_time": 1673960309,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 217652,
@@ -3425,6 +3481,14 @@
       "onboard_time": 1673878049,
       "rank": 33,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 214948,
+      "num": 214948,
+      "word": "会做饭的大学生回村被疯狂预约",
+      "onboard_time": 1673960128,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214251,
@@ -3883,6 +3947,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 170711,
+      "num": 170711,
+      "word": "白夜极光",
+      "onboard_time": 1673961388,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170530,
       "num": 170530,
       "word": "加满一箱油约省8元",
@@ -3921,6 +3993,14 @@
       "onboard_time": 1673847029,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169545,
+      "num": 169545,
+      "word": "猪八戒钻石夺宝皮肤",
+      "onboard_time": 1673961268,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 168964,
@@ -4065,6 +4145,14 @@
       "onboard_time": 1673839348,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155732,
+      "num": 155732,
+      "word": "年夜菜一定要有的凉拌菜",
+      "onboard_time": 1673957968,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 155539,
@@ -4259,6 +4347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141075,
+      "num": 141075,
+      "word": "张帅 澳网",
+      "onboard_time": 1673960490,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140584,
       "num": 164965,
       "word": "这猫像极了年底加班的我",
@@ -4307,12 +4403,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 138787,
-      "num": 138787,
-      "word": "年夜菜一定要有的凉拌菜",
-      "onboard_time": 1673957968,
-      "rank": 38,
-      "category": "美食"
+      "raw_hot": 138987,
+      "num": 138987,
+      "word": "iG 永不加班",
+      "onboard_time": 1673961090,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 137643,
@@ -4395,6 +4491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128532,
+      "num": 128532,
+      "word": "猫咪都爱挤在一个窝里",
+      "onboard_time": 1673961630,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 128059,
       "num": 128059,
       "word": "LNG战胜TT",
@@ -4425,6 +4529,14 @@
       "onboard_time": 1673860710,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124126,
+      "num": 124126,
+      "word": "哈兰德登上GQ封面",
+      "onboard_time": 1673961028,
+      "rank": 48,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 123940,
