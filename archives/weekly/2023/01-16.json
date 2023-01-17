@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673984012070,
+  "endTime": 1673986675980,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -5491,6 +5491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73012,
+      "num": 58156,
+      "word": "任泽平称放开并鼓励生育刻不容缓",
+      "onboard_time": 1673980755,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72943,
       "num": 181442,
       "word": "狼队Fly现身米兰看秀",
@@ -5545,14 +5553,6 @@
       "onboard_time": 1673790816,
       "rank": 45,
       "category": "其它"
-    },
-    {
-      "raw_hot": 64389,
-      "num": 58156,
-      "word": "任泽平称放开并鼓励生育刻不容缓",
-      "onboard_time": 1673980755,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63916,
@@ -5689,6 +5689,14 @@
       "onboard_time": 1673813292,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 16217,
+      "num": 16217,
+      "word": "这就是前轱辘不转后轱辘转",
+      "onboard_time": 1673984113,
+      "rank": 47,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [

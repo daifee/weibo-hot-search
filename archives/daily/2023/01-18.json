@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1673984012070,
+  "endTime": 1673986675980,
   "band_list": [
     {
       "raw_hot": 1441538,
@@ -467,7 +467,7 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 64389,
+      "raw_hot": 73012,
       "num": 58156,
       "word": "任泽平称放开并鼓励生育刻不容缓",
       "onboard_time": 1673980755,
@@ -497,6 +497,14 @@
       "onboard_time": 1673912001,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16217,
+      "num": 16217,
+      "word": "这就是前轱辘不转后轱辘转",
+      "onboard_time": 1673984113,
+      "rank": 47,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
