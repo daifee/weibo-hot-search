@@ -1,6 +1,6 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673955206598,
+  "endTime": 1673959054295,
   "band_list": [
     {
       "raw_hot": 2724964,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2309703,
-      "num": 373734,
+      "num": 453106,
       "word": "敖子逸",
       "onboard_time": 1673953588,
       "rank": 12,
@@ -129,6 +129,14 @@
       "onboard_time": 1673922326,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1378858,
+      "num": 1378858,
+      "word": "蔡徐坤捐款10万给老人儿童送温暖",
+      "onboard_time": 1673955568,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1363318,
@@ -225,6 +233,14 @@
       "onboard_time": 1673923046,
       "rank": 34,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1070986,
+      "num": 461447,
+      "word": "樱井孝宏被曝出轨多人",
+      "onboard_time": 1673957849,
+      "rank": 10,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 1067294,
@@ -355,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 833434,
+      "num": 833434,
+      "word": "漫威",
+      "onboard_time": 1673955509,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 810282,
       "num": 810282,
       "word": "王一博把never头发摸扁了",
@@ -387,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 749840,
+      "num": 338393,
+      "word": "中国已逼近中度老龄化",
+      "onboard_time": 1673952629,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 749626,
       "num": 749626,
       "word": "5000买iPhone还是安卓",
       "onboard_time": 1673930429,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 740874,
+      "num": 458880,
+      "word": "不要偷吃香菜",
+      "onboard_time": 1673955747,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 729854,
@@ -441,14 +481,6 @@
       "onboard_time": 1673914947,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 663874,
-      "num": 338393,
-      "word": "中国已逼近中度老龄化",
-      "onboard_time": 1673952629,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 662677,
@@ -521,6 +553,22 @@
       "onboard_time": 1673914526,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 603297,
+      "num": 457704,
+      "word": "文春预告KPOP爱豆恋情",
+      "onboard_time": 1673957126,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 581738,
+      "num": 581738,
+      "word": "IG登场",
+      "onboard_time": 1673954848,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 579564,
@@ -619,6 +667,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 525992,
+      "num": 525992,
+      "word": "RNG对战iG",
+      "onboard_time": 1673956169,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 525319,
       "num": 525319,
       "word": "小兔糕",
@@ -707,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463968,
+      "num": 463968,
+      "word": "郑州可以放烟花了",
+      "onboard_time": 1673953950,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455341,
       "num": 455341,
       "word": "高压锅炖猪蹄爆炸窗户炸裂",
@@ -748,7 +812,7 @@
     },
     {
       "raw_hot": 448078,
-      "num": 298585,
+      "num": 313064,
       "word": "2023第一批游戏版号",
       "onboard_time": 1673954190,
       "rank": 16,
@@ -803,20 +867,20 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 422358,
+      "num": 364638,
+      "word": "陈泗旭女朋友",
+      "onboard_time": 1673957728,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416932,
       "num": 416932,
       "word": "服务员将清洁剂当饮料上桌7人误饮",
       "onboard_time": 1673931571,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416364,
-      "num": 289036,
-      "word": "IG登场",
-      "onboard_time": 1673954848,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 413146,
@@ -883,6 +947,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 379514,
+      "num": 379514,
+      "word": "泰国大使称希望迎来500万中国游客",
+      "onboard_time": 1673954190,
+      "rank": 26,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 375975,
+      "num": 364576,
+      "word": "毛不易春晚唱你好陌生人",
+      "onboard_time": 1673957609,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374849,
       "num": 374849,
       "word": "福兔",
@@ -937,6 +1017,14 @@
       "onboard_time": 1673925328,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364500,
+      "num": 364500,
+      "word": "原来小孩子也有甲沟炎的烦恼",
+      "onboard_time": 1673957667,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363942,
@@ -1105,6 +1193,14 @@
       "onboard_time": 1673945728,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 319352,
+      "num": 319352,
+      "word": "yskm 帅",
+      "onboard_time": 1673958268,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 318902,
@@ -1315,12 +1411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267644,
-      "num": 267644,
-      "word": "郑州可以放烟花了",
-      "onboard_time": 1673953950,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 268061,
+      "num": 268061,
+      "word": "王者荣耀",
+      "onboard_time": 1673860287,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 266607,
@@ -1369,6 +1465,14 @@
       "onboard_time": 1673907553,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261171,
+      "num": 261171,
+      "word": "99岁爷爷见回家孙女秒变精神",
+      "onboard_time": 1673954548,
+      "rank": 43,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 261113,
@@ -1435,6 +1539,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 242427,
+      "num": 242427,
+      "word": "河南小伙18种配菜造硬核火车泡面",
+      "onboard_time": 1673955568,
+      "rank": 29,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 241236,
       "num": 142459,
       "word": "蔡卓妍晒三亚vlog",
@@ -1467,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239750,
+      "num": 239750,
+      "word": "红豆遥遥冰海边相拥",
+      "onboard_time": 1673956889,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239203,
       "num": 120853,
       "word": "北京台春晚官宣第二波阵容",
@@ -1483,12 +1603,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 232137,
-      "num": 232137,
-      "word": "泰国大使称希望迎来500万中国游客",
-      "onboard_time": 1673954190,
-      "rank": 26,
-      "category": "旅游,社会新闻"
+      "raw_hot": 234012,
+      "num": 234012,
+      "word": "两部漫威新片内地定档",
+      "onboard_time": 1673955568,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 231368,
@@ -1611,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208856,
+      "num": 208856,
+      "word": "官方回应女司机开车坠塘一家三口溺亡",
+      "onboard_time": 1673957667,
+      "rank": 36,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 206711,
       "num": 206711,
       "word": "小鹏汽车官宣调整价格",
@@ -1731,6 +1859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186967,
+      "num": 130624,
+      "word": "无名剧组全员到齐",
+      "onboard_time": 1673958925,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185535,
       "num": 122793,
       "word": "曾舜晞去有风的地方演技",
@@ -1817,14 +1953,6 @@
       "onboard_time": 1673919085,
       "rank": 49,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 170246,
-      "num": 170246,
-      "word": "王者荣耀",
-      "onboard_time": 1673860287,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 169888,
@@ -2011,6 +2139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138787,
+      "num": 138787,
+      "word": "年夜菜一定要有的凉拌菜",
+      "onboard_time": 1673957968,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 136589,
       "num": 136589,
       "word": "过年聚会的尴尬瞬间",
@@ -2035,14 +2171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133704,
-      "num": 133704,
-      "word": "99岁爷爷见回家孙女秒变精神",
-      "onboard_time": 1673954548,
-      "rank": 43,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 130603,
       "num": 130603,
       "word": "学人精猫咪坐琴凳弹琴惊呆主人",
@@ -2056,6 +2184,14 @@
       "word": "男子新房未入住被邻居种大葱",
       "onboard_time": 1673870789,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126373,
+      "num": 126373,
+      "word": "上海已度过本轮疫情感染高峰",
+      "onboard_time": 1673958567,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2103,6 +2239,14 @@
       "num": 117212,
       "word": "冰尘转会滔搏",
       "onboard_time": 1673950287,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 115669,
+      "num": 115669,
+      "word": "貂蝉幻阙歌皮肤",
+      "onboard_time": 1673958987,
       "rank": 48,
       "category": "游戏"
     },
