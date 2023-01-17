@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1673975809381,
+  "endTime": 1673976817362,
   "band_list": [
     {
       "raw_hot": 1441538,
@@ -35,8 +35,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 711100,
-      "num": 711100,
+      "raw_hot": 747226,
+      "num": 747226,
       "word": "突然意识到妈妈真的很好",
       "onboard_time": 1673971348,
       "rank": 15,
@@ -147,6 +147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 275821,
+      "num": 275821,
+      "word": "于冬反对百亿票房演员说法",
+      "onboard_time": 1673973743,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275120,
       "num": 275120,
       "word": "易烊千玺的2022年终总结",
@@ -179,20 +187,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258295,
-      "num": 258295,
-      "word": "于冬反对百亿票房演员说法",
-      "onboard_time": 1673973743,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255497,
       "num": 255497,
       "word": "安徽一劳斯莱斯婚车撞上石墩受损严重",
       "onboard_time": 1673963369,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248095,
+      "num": 248095,
+      "word": "你恨不起来的反派角色",
+      "onboard_time": 1673973263,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 246918,
@@ -209,14 +217,6 @@
       "onboard_time": 1673957728,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225368,
-      "num": 225368,
-      "word": "你恨不起来的反派角色",
-      "onboard_time": 1673973263,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 219677,
@@ -283,6 +283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184746,
+      "num": 184746,
+      "word": "陈泗旭说我不在意你和敖子逸有什么关系",
+      "onboard_time": 1673976677,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180156,
       "num": 180156,
       "word": "女生玩仙女棒滑倒脸着地头发被烧",
@@ -296,6 +304,22 @@
       "word": "最近可以看什么剧",
       "onboard_time": 1673963190,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 176542,
+      "num": 176542,
+      "word": "全世界苹果都流淌着中国苹果血",
+      "onboard_time": 1673976019,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162767,
+      "num": 126439,
+      "word": "满江红首映礼",
+      "onboard_time": 1673976558,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -427,8 +451,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 69840,
-      "num": 69840,
+      "raw_hot": 80334,
+      "num": 80334,
       "word": "本命年怎么穿红才不土",
       "onboard_time": 1673975360,
       "rank": 48,
