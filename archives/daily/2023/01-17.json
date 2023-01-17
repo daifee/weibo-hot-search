@@ -1,6 +1,6 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673966026942,
+  "endTime": 1673968744617,
   "band_list": [
     {
       "raw_hot": 2724964,
@@ -67,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1990506,
+      "num": 1990506,
+      "word": "张若昀和唐艺昕是朋友聚会认识的",
+      "onboard_time": 1673965474,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1978155,
       "num": 1978155,
       "word": "2022中国全年出生人口956万人",
@@ -115,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1606335,
-      "num": 1606335,
-      "word": "张若昀和唐艺昕是朋友聚会认识的",
-      "onboard_time": 1673965474,
-      "rank": 1,
-      "category": "综艺"
+      "raw_hot": 1500136,
+      "num": 1500136,
+      "word": "深圳一网友称在山姆买到蓝环章鱼",
+      "onboard_time": 1673964031,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1438018,
@@ -232,14 +240,6 @@
       "word": "多平台回应刑满释放人员变励志网红",
       "onboard_time": 1673885188,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1215739,
-      "num": 491481,
-      "word": "深圳一网友称在山姆买到蓝环章鱼",
-      "onboard_time": 1673964031,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -411,6 +411,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 864406,
+      "num": 572716,
+      "word": "文春预告KPOP爱豆恋情",
+      "onboard_time": 1673957126,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 854853,
       "num": 405159,
       "word": "腾讯拟提前退租15层楼",
@@ -435,12 +443,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 834194,
-      "num": 572716,
-      "word": "文春预告KPOP爱豆恋情",
-      "onboard_time": 1673957126,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 816250,
+      "num": 816250,
+      "word": "和情绪稳定的人恋爱的感觉",
+      "onboard_time": 1673962591,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 810282,
@@ -683,14 +691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 606035,
-      "num": 606035,
-      "word": "和情绪稳定的人恋爱的感觉",
-      "onboard_time": 1673962591,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 579564,
       "num": 579564,
       "word": "公安部今天起严查酒驾醉驾",
@@ -803,6 +803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 523652,
+      "num": 523652,
+      "word": "zzr 电竞保安",
+      "onboard_time": 1673966851,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 517437,
       "num": 517437,
       "word": "为什么很多人不想谈恋爱了",
@@ -835,12 +843,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 494445,
+      "num": 494445,
+      "word": "去有风的地方",
+      "onboard_time": 1673967152,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 494137,
       "num": 494137,
       "word": "骑手夫妻跑单7年供女儿们读博买房",
       "onboard_time": 1673916867,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488610,
+      "num": 488610,
+      "word": "易烊千玺的2022年终总结",
+      "onboard_time": 1673967152,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 487609,
@@ -1195,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365435,
+      "num": 365435,
+      "word": "河南一企业年终奖堆成钱山",
+      "onboard_time": 1673967693,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365001,
       "num": 298878,
       "word": "郎朗吉娜加盟北京台春晚",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1673880812,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354570,
+      "num": 354570,
+      "word": "王者三款鼠年限定返场",
+      "onboard_time": 1673965772,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 352753,
@@ -1273,6 +1313,14 @@
       "onboard_time": 1673876853,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 345342,
+      "num": 345342,
+      "word": "令人心动的offer",
+      "onboard_time": 1673965110,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 341462,
@@ -1331,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329281,
+      "num": 329281,
+      "word": "王俊凯剪纸兔子",
+      "onboard_time": 1673966731,
+      "rank": 20,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 328835,
       "num": 328835,
       "word": "对于女性婚育选择应少些指点江山",
@@ -1345,6 +1401,14 @@
       "onboard_time": 1673930667,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 324794,
+      "num": 324794,
+      "word": "看到家长在的狗狗都不敢撩了",
+      "onboard_time": 1673965294,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 322807,
@@ -1411,14 +1475,6 @@
       "category": "游戏,幽默"
     },
     {
-      "raw_hot": 305223,
-      "num": 305223,
-      "word": "令人心动的offer",
-      "onboard_time": 1673965110,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 305024,
       "num": 305024,
       "word": "腾讯回应退租朗科大厦",
@@ -1457,6 +1513,14 @@
       "onboard_time": 1673964452,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295623,
+      "num": 295623,
+      "word": "深海",
+      "onboard_time": 1673964031,
+      "rank": 38,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 292396,
@@ -1771,14 +1835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 251066,
-      "num": 251066,
-      "word": "看到家长在的狗狗都不敢撩了",
-      "onboard_time": 1673965294,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 250852,
       "num": 250852,
       "word": "猪八戒钻石夺宝皮肤",
@@ -1963,14 +2019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 220962,
-      "num": 220962,
-      "word": "深海",
-      "onboard_time": 1673964031,
-      "rank": 38,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 216154,
       "num": 165050,
       "word": "步音楼咬肖铎嘴未播花絮",
@@ -2041,6 +2089,14 @@
       "onboard_time": 1673916208,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199481,
+      "num": 199481,
+      "word": "王子文平遥国际电影展最佳女演员",
+      "onboard_time": 1673968470,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 198638,
@@ -2179,14 +2235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182625,
-      "num": 182625,
-      "word": "王者三款鼠年限定返场",
-      "onboard_time": 1673965772,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 181164,
       "num": 181164,
       "word": "利雅得全明星队vs巴黎圣日耳曼",
@@ -2208,6 +2256,14 @@
       "word": "沈腾发布会现场炫醋",
       "onboard_time": 1673949087,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 179351,
+      "num": 163444,
+      "word": "三体剧评",
+      "onboard_time": 1673966074,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -2379,6 +2435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151879,
+      "num": 151879,
+      "word": "夫胜宽唱AlcoholFree给粉丝伴奏",
+      "onboard_time": 1673968352,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150809,
       "num": 150809,
       "word": "钎城说坚持给人力量",
@@ -2513,6 +2577,14 @@
       "onboard_time": 1673944229,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133440,
+      "num": 133440,
+      "word": "解读梅西世界杯决赛唇语",
+      "onboard_time": 1673968171,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 130603,
@@ -2858,6 +2930,9 @@
     },
     {
       "word": "#出站就是团圆#"
+    },
+    {
+      "word": "#破解时代之问引领发展之路#"
     }
   ]
 }
