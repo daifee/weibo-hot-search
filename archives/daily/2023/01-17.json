@@ -1,6 +1,6 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673929339136,
+  "endTime": 1673930242605,
   "band_list": [
     {
       "raw_hot": 2724964,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1975627,
-      "num": 1975627,
+      "raw_hot": 1978155,
+      "num": 1978155,
       "word": "2022中国全年出生人口956万人",
       "onboard_time": 1673921967,
       "rank": 5,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1118770,
+      "num": 1118770,
+      "word": "老板开价260妈妈一口价50",
+      "onboard_time": 1673927248,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1072840,
       "num": 524436,
       "word": "母亲称女儿拒绝追求被男孩泼汽油烧伤",
@@ -121,14 +129,6 @@
       "onboard_time": 1673876553,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 936430,
-      "num": 936430,
-      "word": "老板开价260妈妈一口价50",
-      "onboard_time": 1673927248,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 928686,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 795667,
+      "num": 795667,
+      "word": "考研复试",
+      "onboard_time": 1673927908,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 780715,
       "num": 780715,
       "word": "火锅店吃饭还好多问了一句",
@@ -201,14 +209,6 @@
       "onboard_time": 1673912963,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 712909,
-      "num": 712909,
-      "word": "考研复试",
-      "onboard_time": 1673927908,
-      "rank": 6,
-      "category": "教育"
     },
     {
       "raw_hot": 703095,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 475491,
+      "num": 475491,
+      "word": "羊了个羊为什么没有第三关",
+      "onboard_time": 1673926167,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 470344,
       "num": 470344,
       "word": "儿子出国8年首次回家妈妈喜极而泣",
@@ -355,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457027,
-      "num": 457027,
-      "word": "羊了个羊为什么没有第三关",
-      "onboard_time": 1673926167,
-      "rank": 40,
-      "category": "游戏"
+      "raw_hot": 447650,
+      "num": 447650,
+      "word": "提前还房贷为啥又掀高潮",
+      "onboard_time": 1673924668,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444992,
@@ -379,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 424066,
+      "num": 424066,
+      "word": "三体 物理学不存在",
+      "onboard_time": 1673927548,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 413146,
       "num": 413146,
       "word": "女子网购100根仙女棒收到100根铁丝",
@@ -395,20 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406215,
-      "num": 406215,
-      "word": "三体 物理学不存在",
-      "onboard_time": 1673927548,
-      "rank": 14,
+      "raw_hot": 373797,
+      "num": 306524,
+      "word": "张译 少年感",
+      "onboard_time": 1673928688,
+      "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 391371,
-      "num": 391371,
-      "word": "提前还房贷为啥又掀高潮",
-      "onboard_time": 1673924668,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 373395,
@@ -441,6 +449,14 @@
       "onboard_time": 1673913081,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 363320,
+      "num": 305871,
+      "word": "王一博无名发布会定妆前后发型对比",
+      "onboard_time": 1673929769,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 361061,
@@ -531,6 +547,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 304383,
+      "num": 304383,
+      "word": "低薪工作真的能带来幸福感吗",
+      "onboard_time": 1673929109,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292396,
       "num": 168029,
       "word": "丁程鑫说谁都不必任谁摆布",
@@ -547,11 +571,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290127,
-      "num": 197511,
-      "word": "张译 少年感",
-      "onboard_time": 1673928688,
-      "rank": 31,
+      "raw_hot": 290645,
+      "num": 196421,
+      "word": "李现谢之遥猫眼角色热度榜冠军",
+      "onboard_time": 1673930068,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -593,6 +617,14 @@
       "onboard_time": 1673926409,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275146,
+      "num": 196263,
+      "word": "高圆圆晒22年厦门旅游vlog",
+      "onboard_time": 1673927307,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 274804,
@@ -683,12 +715,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250671,
+      "num": 196082,
+      "word": "岳云鹏河南春晚打两份工",
+      "onboard_time": 1673929951,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246732,
       "num": 246732,
       "word": "2022年我国GDP超121万亿元",
       "onboard_time": 1673921608,
       "rank": 25,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 241059,
+      "num": 241059,
+      "word": "过年算是被年轻人整明白了",
+      "onboard_time": 1673928569,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 240941,
@@ -713,14 +761,6 @@
       "onboard_time": 1673914706,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 230496,
-      "num": 157812,
-      "word": "高圆圆晒22年厦门旅游vlog",
-      "onboard_time": 1673927307,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 230264,
@@ -763,6 +803,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208593,
+      "num": 208593,
+      "word": "6岁女童5年3次复发伤痕累累",
+      "onboard_time": 1673929467,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203269,
+      "num": 203269,
+      "word": "带一群狗狗跳绳的主人",
+      "onboard_time": 1673926527,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203224,
       "num": 181298,
       "word": "张艺兴亮相11年了",
@@ -771,19 +827,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199504,
-      "num": 199504,
-      "word": "带一群狗狗跳绳的主人",
-      "onboard_time": 1673926527,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 197834,
       "num": 197834,
       "word": "马可波罗兔年限定皮肤",
       "onboard_time": 1673913324,
       "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 196050,
+      "num": 196050,
+      "word": "2023KPL春季转会期",
+      "onboard_time": 1673928869,
+      "rank": 37,
       "category": "游戏"
     },
     {
@@ -851,28 +907,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 180474,
-      "num": 180474,
-      "word": "男子买100克金条亲手给未婚妻做手镯",
-      "onboard_time": 1673876489,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 181615,
+      "num": 181615,
+      "word": "下雪天被迫营业的狗狗",
+      "onboard_time": 1673927668,
+      "rank": 39,
+      "category": "幽默"
     },
     {
-      "raw_hot": 177993,
-      "num": 177993,
+      "raw_hot": 181164,
+      "num": 181164,
       "word": "利雅得全明星队vs巴黎圣日耳曼",
       "onboard_time": 1673925868,
       "rank": 41,
       "category": "体育"
     },
     {
-      "raw_hot": 176217,
-      "num": 176217,
-      "word": "2023KPL春季转会期",
-      "onboard_time": 1673928869,
-      "rank": 37,
-      "category": "游戏"
+      "raw_hot": 180474,
+      "num": 180474,
+      "word": "男子买100克金条亲手给未婚妻做手镯",
+      "onboard_time": 1673876489,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170859,
@@ -899,6 +955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169888,
+      "num": 169888,
+      "word": "很难拒绝一只编织小青蛙",
+      "onboard_time": 1673926948,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167798,
       "num": 148897,
       "word": "宋亚轩刘耀文新歌由你榜夺冠",
@@ -921,14 +985,6 @@
       "onboard_time": 1673884168,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162684,
-      "num": 162684,
-      "word": "下雪天被迫营业的狗狗",
-      "onboard_time": 1673927668,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 160893,
@@ -961,14 +1017,6 @@
       "onboard_time": 1673887346,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 154456,
-      "num": 154456,
-      "word": "过年算是被年轻人整明白了",
-      "onboard_time": 1673928569,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 150609,
@@ -1056,22 +1104,6 @@
       "word": "男子新房未入住被邻居种大葱",
       "onboard_time": 1673870789,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129866,
-      "num": 134814,
-      "word": "很难拒绝一只编织小青蛙",
-      "onboard_time": 1673926948,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 126026,
-      "num": 134500,
-      "word": "低薪工作真的能带来幸福感吗",
-      "onboard_time": 1673929109,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1308,6 +1340,9 @@
     },
     {
       "word": "#被春节回家暖心瞬间戳到了#"
+    },
+    {
+      "word": "#赏年俗品年味#"
     }
   ]
 }
