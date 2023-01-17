@@ -1,6 +1,6 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673925583155,
+  "endTime": 1673926434058,
   "band_list": [
     {
       "raw_hot": 2724964,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1697003,
-      "num": 544844,
+      "num": 556344,
       "word": "老邵老师 分手",
       "onboard_time": 1673916385,
       "rank": 11,
@@ -107,6 +107,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1051104,
+      "num": 1051104,
+      "word": "中国男比女多3237万人",
+      "onboard_time": 1673922866,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 950944,
       "num": 950944,
       "word": "王一博抱never",
@@ -115,12 +123,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 915449,
-      "num": 915449,
-      "word": "中国男比女多3237万人",
-      "onboard_time": 1673922866,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 927126,
+      "num": 927126,
+      "word": "羊了个羊难的原因",
+      "onboard_time": 1673924367,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 893560,
@@ -203,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 653279,
+      "num": 653279,
+      "word": "赵丽颖官宣加盟北京台春晚",
+      "onboard_time": 1673925029,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 652076,
       "num": 652076,
       "word": "如何避免已婚未育成就业劣势",
@@ -227,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 574415,
-      "num": 514584,
-      "word": "赵丽颖官宣加盟北京台春晚",
-      "onboard_time": 1673925029,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 573457,
       "num": 525003,
       "word": "三体",
@@ -251,20 +259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551542,
+      "num": 551542,
+      "word": "贺峻霖谈如果粉丝攻击队友",
+      "onboard_time": 1673925388,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 549445,
       "num": 549445,
       "word": "2022年GDP增长3%",
       "onboard_time": 1673921666,
       "rank": 16,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 548404,
-      "num": 548404,
-      "word": "羊了个羊难的原因",
-      "onboard_time": 1673924367,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 535029,
@@ -339,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397823,
-      "num": 299480,
-      "word": "贺峻霖谈如果粉丝攻击队友",
-      "onboard_time": 1673925388,
-      "rank": 20,
-      "category": "作品衍生"
+      "raw_hot": 403037,
+      "num": 403037,
+      "word": "曜兔年限定新皮肤",
+      "onboard_time": 1673925029,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 373395,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 365001,
-      "num": 295770,
+      "num": 298878,
       "word": "郎朗吉娜加盟北京台春晚",
       "onboard_time": 1673925328,
       "rank": 22,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356314,
+      "num": 356314,
+      "word": "提前还房贷为啥又掀高潮",
+      "onboard_time": 1673924668,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347176,
       "num": 317862,
       "word": "荣安皇后终于被肖铎抱了",
@@ -401,6 +417,14 @@
       "onboard_time": 1673916086,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335255,
+      "num": 189916,
+      "word": "王鹤棣白鹿以爱为营牵手对视路透",
+      "onboard_time": 1673924428,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 334258,
@@ -419,6 +443,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 326585,
+      "num": 326585,
+      "word": "女生熬夜关灯玩手机后眼部囊肿",
+      "onboard_time": 1673925388,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322807,
       "num": 189257,
       "word": "三体 原著党狂喜",
@@ -433,14 +465,6 @@
       "onboard_time": 1673912963,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309555,
-      "num": 189916,
-      "word": "王鹤棣白鹿以爱为营牵手对视路透",
-      "onboard_time": 1673924428,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 305024,
@@ -499,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275919,
+      "num": 180191,
+      "word": "张若昀说放长线钓大鱼该收网了",
+      "onboard_time": 1673926409,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274804,
       "num": 184598,
       "word": "肖铎的空少礼仪",
@@ -537,6 +569,14 @@
       "onboard_time": 1673922988,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267401,
+      "num": 267401,
+      "word": "对于女性婚育选择应少些指点江山",
+      "onboard_time": 1673923468,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266607,
@@ -584,22 +624,6 @@
       "word": "女子回村后美甲太长被妈妈按住剪掉",
       "onboard_time": 1673873909,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251517,
-      "num": 251517,
-      "word": "对于女性婚育选择应少些指点江山",
-      "onboard_time": 1673923468,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248225,
-      "num": 248225,
-      "word": "提前还房贷为啥又掀高潮",
-      "onboard_time": 1673924668,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -675,14 +699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 197149,
-      "num": 197149,
-      "word": "曜兔年限定新皮肤",
-      "onboard_time": 1673925029,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 192487,
       "num": 189752,
       "word": "许红豆在线求助什么是maoduoli",
@@ -739,12 +755,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181749,
+      "num": 181749,
+      "word": "警员下班理发帮老板挽回2万元",
+      "onboard_time": 1673925448,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 180474,
       "num": 180474,
       "word": "男子买100克金条亲手给未婚妻做手镯",
       "onboard_time": 1673876489,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176259,
+      "num": 176259,
+      "word": "原来剥瓜子可以这么省力",
+      "onboard_time": 1673925448,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 170859,
@@ -819,12 +851,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157648,
+      "num": 157648,
+      "word": "羊了个羊为什么没有第三关",
+      "onboard_time": 1673926167,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156487,
       "num": 128091,
       "word": "三体罗辑背影",
       "onboard_time": 1673887346,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154327,
+      "num": 154327,
+      "word": "利雅得全明星队vs巴黎圣日耳曼",
+      "onboard_time": 1673925868,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 150609,
@@ -835,12 +883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144599,
-      "num": 144599,
-      "word": "女生熬夜关灯玩手机后眼部囊肿",
-      "onboard_time": 1673925388,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 145540,
+      "num": 145540,
+      "word": "养儿是为了防老吗",
+      "onboard_time": 1673925088,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 143410,
@@ -857,6 +905,14 @@
       "onboard_time": 1673882851,
       "rank": 29,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 141836,
+      "num": 141836,
+      "word": "如何化好新年开运妆",
+      "onboard_time": 1673926106,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 141409,
@@ -907,20 +963,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121794,
+      "num": 1479259,
+      "word": "让春节有仪式感的小事",
+      "onboard_time": 1673912001,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120811,
       "num": 120811,
       "word": "美国地图公司曾明确标记南沙群岛属于中国",
       "onboard_time": 1673894593,
       "rank": 31,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 120221,
-      "num": 120221,
-      "word": "原来剥瓜子可以这么省力",
-      "onboard_time": 1673925448,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 118397,
@@ -931,20 +987,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 114680,
-      "num": 114680,
-      "word": "警员下班理发帮老板挽回2万元",
-      "onboard_time": 1673925448,
-      "rank": 48,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 112672,
-      "num": 112672,
-      "word": "养儿是为了防老吗",
-      "onboard_time": 1673925088,
+      "raw_hot": 112706,
+      "num": 112706,
+      "word": "新款MacBookPro或本周发布",
+      "onboard_time": 1673926348,
       "rank": 49,
-      "category": "情感"
+      "category": "科技"
     },
     {
       "raw_hot": 106271,
@@ -1033,14 +1081,6 @@
       "onboard_time": 1673910317,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 78962,
-      "num": 1479259,
-      "word": "让春节有仪式感的小事",
-      "onboard_time": 1673912001,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72618,
