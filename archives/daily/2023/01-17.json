@@ -1,6 +1,6 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673954124106,
+  "endTime": 1673955206598,
   "band_list": [
     {
       "raw_hot": 2724964,
@@ -33,6 +33,14 @@
       "onboard_time": 1673917887,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2309703,
+      "num": 373734,
+      "word": "敖子逸",
+      "onboard_time": 1673953588,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 2110607,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1363318,
+      "num": 1363318,
+      "word": "暴雪绿茶",
+      "onboard_time": 1673946389,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1335014,
       "num": 1100066,
       "word": "相亲对象穿着棉服就来了",
@@ -171,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1194146,
-      "num": 1194146,
-      "word": "暴雪绿茶",
-      "onboard_time": 1673946389,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1185834,
       "num": 1185834,
       "word": "新手司机驾车坠塘一家三口身亡",
@@ -225,14 +233,6 @@
       "onboard_time": 1673937926,
       "rank": 6,
       "category": "美妆,幽默"
-    },
-    {
-      "raw_hot": 1058741,
-      "num": 373734,
-      "word": "敖子逸",
-      "onboard_time": 1673953588,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1051104,
@@ -441,6 +441,14 @@
       "onboard_time": 1673914947,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 663874,
+      "num": 338393,
+      "word": "中国已逼近中度老龄化",
+      "onboard_time": 1673952629,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662677,
@@ -739,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 448078,
+      "num": 298585,
+      "word": "2023第一批游戏版号",
+      "onboard_time": 1673954190,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 447650,
       "num": 447650,
       "word": "提前还房贷为啥又掀高潮",
@@ -793,6 +809,14 @@
       "onboard_time": 1673931571,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416364,
+      "num": 289036,
+      "word": "IG登场",
+      "onboard_time": 1673954848,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 413146,
@@ -905,14 +929,6 @@
       "onboard_time": 1673872889,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 366722,
-      "num": 338393,
-      "word": "中国已逼近中度老龄化",
-      "onboard_time": 1673952629,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365001,
@@ -1044,7 +1060,7 @@
     },
     {
       "raw_hot": 329963,
-      "num": 166220,
+      "num": 198883,
       "word": "谭松韵年度歌手是林俊杰",
       "onboard_time": 1673951667,
       "rank": 41,
@@ -1099,6 +1115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 311055,
+      "num": 269574,
+      "word": "严浩翔给头发丝贴纸",
+      "onboard_time": 1673953828,
+      "rank": 32,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 310083,
       "num": 267291,
       "word": "总台2023年春晚完成第四次彩排",
@@ -1137,14 +1161,6 @@
       "onboard_time": 1673935047,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 292774,
-      "num": 162463,
-      "word": "严浩翔给头发丝贴纸",
-      "onboard_time": 1673953828,
-      "rank": 32,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 292396,
@@ -1297,6 +1313,14 @@
       "onboard_time": 1673935886,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267644,
+      "num": 267644,
+      "word": "郑州可以放烟花了",
+      "onboard_time": 1673953950,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266607,
@@ -1459,6 +1483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232137,
+      "num": 232137,
+      "word": "泰国大使称希望迎来500万中国游客",
+      "onboard_time": 1673954190,
+      "rank": 26,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 231368,
       "num": 231368,
       "word": "90后的过年噩梦",
@@ -1515,8 +1547,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223944,
-      "num": 223944,
+      "raw_hot": 224921,
+      "num": 224921,
       "word": "巨人完结篇预告",
       "onboard_time": 1673952208,
       "rank": 24,
@@ -1571,6 +1603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208912,
+      "num": 179126,
+      "word": "敖瑞鹏镇魂街演曹焱兵",
+      "onboard_time": 1673954727,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206711,
       "num": 206711,
       "word": "小鹏汽车官宣调整价格",
@@ -1580,7 +1620,7 @@
     },
     {
       "raw_hot": 205302,
-      "num": 135294,
+      "num": 143413,
       "word": "时代少年团不孤独小游戏视频",
       "onboard_time": 1673952927,
       "rank": 41,
@@ -1867,6 +1907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153866,
+      "num": 153866,
+      "word": "这狗怎么这么像法棍啊",
+      "onboard_time": 1673953350,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150809,
       "num": 150809,
       "word": "钎城说坚持给人力量",
@@ -1955,6 +2003,14 @@
       "category": "社会新闻,社会新闻"
     },
     {
+      "raw_hot": 138993,
+      "num": 138993,
+      "word": "Lovecd回归TTG",
+      "onboard_time": 1673953709,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136589,
       "num": 136589,
       "word": "过年聚会的尴尬瞬间",
@@ -1977,6 +2033,14 @@
       "onboard_time": 1673944229,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133704,
+      "num": 133704,
+      "word": "99岁爷爷见回家孙女秒变精神",
+      "onboard_time": 1673954548,
+      "rank": 43,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 130603,
@@ -2011,14 +2075,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 120983,
-      "num": 120983,
-      "word": "Lovecd回归TTG",
-      "onboard_time": 1673953709,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 120811,
       "num": 120811,
       "word": "美国地图公司曾明确标记南沙群岛属于中国",
@@ -2051,28 +2107,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 112575,
-      "num": 112575,
-      "word": "郑州可以放烟花了",
-      "onboard_time": 1673953950,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110861,
       "num": 110861,
       "word": "张之臻",
       "onboard_time": 1673951128,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110591,
-      "num": 110591,
-      "word": "这狗怎么这么像法棍啊",
-      "onboard_time": 1673953350,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 106271,

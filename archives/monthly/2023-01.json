@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673954124106,
+  "endTime": 1673955206598,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -689,6 +689,14 @@
       "onboard_time": 1673917887,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2309703,
+      "num": 373734,
+      "word": "敖子逸",
+      "onboard_time": 1673953588,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 2299894,
@@ -2451,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1363318,
+      "num": 1363318,
+      "word": "暴雪绿茶",
+      "onboard_time": 1673946389,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1362289,
       "num": 1362289,
       "word": "维亚利去世",
@@ -3177,14 +3193,6 @@
       "onboard_time": 1672819888,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1194146,
-      "num": 1194146,
-      "word": "暴雪绿茶",
-      "onboard_time": 1673946389,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 1193995,
@@ -3960,14 +3968,6 @@
       "word": "N号房主犯曾调查金智秀私生活",
       "onboard_time": 1672975047,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1058741,
-      "num": 373734,
-      "word": "敖子逸",
-      "onboard_time": 1673953588,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -8297,6 +8297,14 @@
       "onboard_time": 1673270911,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 663874,
+      "num": 338393,
+      "word": "中国已逼近中度老龄化",
+      "onboard_time": 1673952629,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 663766,
@@ -13979,6 +13987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448078,
+      "num": 298585,
+      "word": "2023第一批游戏版号",
+      "onboard_time": 1673954190,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 447650,
       "num": 447650,
       "word": "提前还房贷为啥又掀高潮",
@@ -15121,6 +15137,14 @@
       "onboard_time": 1673420368,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 416364,
+      "num": 289036,
+      "word": "IG登场",
+      "onboard_time": 1673954848,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 416133,
@@ -17595,14 +17619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 366722,
-      "num": 338393,
-      "word": "中国已逼近中度老龄化",
-      "onboard_time": 1673952629,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 366422,
       "num": 326953,
       "word": "2022最具影响力亚洲名人榜TOP20",
@@ -19836,7 +19852,7 @@
     },
     {
       "raw_hot": 329963,
-      "num": 166220,
+      "num": 198883,
       "word": "谭松韵年度歌手是林俊杰",
       "onboard_time": 1673951667,
       "rank": 41,
@@ -21067,6 +21083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311055,
+      "num": 269574,
+      "word": "严浩翔给头发丝贴纸",
+      "onboard_time": 1673953828,
+      "rank": 32,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 310602,
       "num": 310602,
       "word": "王凯说顾南亭会从光里走来",
@@ -22257,14 +22281,6 @@
       "onboard_time": 1672561411,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292774,
-      "num": 162463,
-      "word": "严浩翔给头发丝贴纸",
-      "onboard_time": 1673953828,
-      "rank": 32,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 292396,
@@ -24497,6 +24513,14 @@
       "onboard_time": 1673166390,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 267644,
+      "num": 267644,
+      "word": "郑州可以放烟花了",
+      "onboard_time": 1673953950,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267631,
@@ -27507,6 +27531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 232137,
+      "num": 232137,
+      "word": "泰国大使称希望迎来500万中国游客",
+      "onboard_time": 1673954190,
+      "rank": 26,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 231979,
       "num": 218546,
       "word": "纵有疾风起",
@@ -27987,6 +28019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224921,
+      "num": 224921,
+      "word": "巨人完结篇预告",
+      "onboard_time": 1673952208,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 224820,
       "num": 224820,
       "word": "韦峰",
@@ -28113,14 +28153,6 @@
       "onboard_time": 1673229266,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223944,
-      "num": 223944,
-      "word": "巨人完结篇预告",
-      "onboard_time": 1673952208,
-      "rank": 24,
-      "category": "动漫"
     },
     {
       "raw_hot": 223800,
@@ -29371,6 +29403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208912,
+      "num": 179126,
+      "word": "敖瑞鹏镇魂街演曹焱兵",
+      "onboard_time": 1673954727,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208906,
       "num": 208906,
       "word": "就没有柯佳嬿接不住的梗吧",
@@ -29580,7 +29620,7 @@
     },
     {
       "raw_hot": 205302,
-      "num": 135294,
+      "num": 143413,
       "word": "时代少年团不孤独小游戏视频",
       "onboard_time": 1673952927,
       "rank": 41,
@@ -34963,6 +35003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153866,
+      "num": 153866,
+      "word": "这狗怎么这么像法棍啊",
+      "onboard_time": 1673953350,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153792,
       "num": 153792,
       "word": "口腔种植体集采11日开标",
@@ -36475,6 +36523,14 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 138993,
+      "num": 138993,
+      "word": "Lovecd回归TTG",
+      "onboard_time": 1673953709,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138966,
       "num": 138966,
       "word": "Duke担任NIP教练",
@@ -37073,6 +37129,14 @@
       "onboard_time": 1673451036,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 133704,
+      "num": 133704,
+      "word": "99岁爷爷见回家孙女秒变精神",
+      "onboard_time": 1673954548,
+      "rank": 43,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 133598,
@@ -38227,14 +38291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 120983,
-      "num": 120983,
-      "word": "Lovecd回归TTG",
-      "onboard_time": 1673953709,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 120811,
       "num": 120811,
       "word": "美国地图公司曾明确标记南沙群岛属于中国",
@@ -39027,14 +39083,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 112575,
-      "num": 112575,
-      "word": "郑州可以放烟花了",
-      "onboard_time": 1673953950,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112543,
       "num": 112543,
       "word": "KPL社交达人",
@@ -39216,14 +39264,6 @@
       "word": "胡说八道文学的快乐",
       "onboard_time": 1672672832,
       "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 110591,
-      "num": 110591,
-      "word": "这狗怎么这么像法棍啊",
-      "onboard_time": 1673953350,
-      "rank": 46,
       "category": "幽默"
     },
     {
