@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1673973799319,
+  "endTime": 1673975809381,
   "band_list": [
     {
       "raw_hot": 1441538,
@@ -9,6 +9,14 @@
       "onboard_time": 1673970928,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1193890,
+      "num": 1193890,
+      "word": "西安啊那没事了",
+      "onboard_time": 1673971108,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 1193828,
@@ -27,12 +35,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1062916,
-      "num": 1062916,
-      "word": "西安啊那没事了",
-      "onboard_time": 1673971108,
-      "rank": 8,
-      "category": "幽默"
+      "raw_hot": 711100,
+      "num": 711100,
+      "word": "突然意识到妈妈真的很好",
+      "onboard_time": 1673971348,
+      "rank": 15,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 690547,
@@ -65,14 +73,6 @@
       "onboard_time": 1673955509,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 596398,
-      "num": 596398,
-      "word": "突然意识到妈妈真的很好",
-      "onboard_time": 1673971348,
-      "rank": 15,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 566246,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258295,
+      "num": 258295,
+      "word": "于冬反对百亿票房演员说法",
+      "onboard_time": 1673973743,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255497,
       "num": 255497,
       "word": "安徽一劳斯莱斯婚车撞上石墩受损严重",
@@ -201,6 +209,14 @@
       "onboard_time": 1673957728,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225368,
+      "num": 225368,
+      "word": "你恨不起来的反派角色",
+      "onboard_time": 1673973263,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 219677,
@@ -339,14 +355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 125773,
-      "num": 125773,
-      "word": "你恨不起来的反派角色",
-      "onboard_time": 1673973263,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 121152,
       "num": 121152,
       "word": "会做饭的大学生回村被疯狂预约",
@@ -377,6 +385,14 @@
       "onboard_time": 1673957667,
       "rank": 45,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 105406,
+      "num": 98948,
+      "word": "电影无名北京发布会",
+      "onboard_time": 1673975301,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 104983,
@@ -411,12 +427,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 86257,
-      "num": 86257,
-      "word": "于冬反对百亿票房演员说法",
-      "onboard_time": 1673973743,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 69840,
+      "num": 69840,
+      "word": "本命年怎么穿红才不土",
+      "onboard_time": 1673975360,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 25310,
