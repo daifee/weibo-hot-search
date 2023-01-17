@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673968744617,
+  "endTime": 1673969663319,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -7675,6 +7675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 712675,
+      "num": 712675,
+      "word": "王俊凯再秀刀妹",
+      "onboard_time": 1673969068,
+      "rank": 6,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 712492,
       "num": 417168,
       "word": "李现直播",
@@ -8097,6 +8105,14 @@
       "onboard_time": 1672992149,
       "rank": 17,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 682964,
+      "num": 682964,
+      "word": "河南一企业年终奖堆成钱山",
+      "onboard_time": 1673967693,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 682653,
@@ -17979,14 +17995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 365435,
-      "num": 365435,
-      "word": "河南一企业年终奖堆成钱山",
-      "onboard_time": 1673967693,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 365150,
       "num": 365150,
       "word": "熊猫毛实在太扎手",
@@ -20353,6 +20361,14 @@
       "onboard_time": 1672755633,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 326315,
+      "num": 326315,
+      "word": "王子文平遥国际电影展最佳女演员",
+      "onboard_time": 1673968470,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 326049,
@@ -28643,6 +28659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222903,
+      "num": 222903,
+      "word": "张杰演唱会留三十秒看清歌迷的脸",
+      "onboard_time": 1673968831,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222783,
       "num": 171358,
       "word": "顾南亭说我早就对你动心了",
@@ -30473,14 +30497,6 @@
       "onboard_time": 1672827513,
       "rank": 44,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 199481,
-      "num": 199481,
-      "word": "王子文平遥国际电影展最佳女演员",
-      "onboard_time": 1673968470,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 199471,
@@ -32931,6 +32947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177726,
+      "num": 177726,
+      "word": "解读梅西世界杯决赛唇语",
+      "onboard_time": 1673968171,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177706,
       "num": 150072,
       "word": "谢之遥只有时间和许红豆谈朋友",
@@ -34265,6 +34289,14 @@
       "onboard_time": 1673353291,
       "rank": 41,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 165568,
+      "num": 154720,
+      "word": "夫胜宽唱AlcoholFree给粉丝伴奏",
+      "onboard_time": 1673968352,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 165535,
@@ -35681,14 +35713,6 @@
       "onboard_time": 1673142208,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151879,
-      "num": 151879,
-      "word": "夫胜宽唱AlcoholFree给粉丝伴奏",
-      "onboard_time": 1673968352,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 151864,
@@ -37395,6 +37419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135887,
+      "num": 135887,
+      "word": "三体 节奏",
+      "onboard_time": 1673969608,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135823,
       "num": 135823,
       "word": "什么馅饺子最好吃",
@@ -37657,14 +37689,6 @@
       "onboard_time": 1673691446,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 133440,
-      "num": 133440,
-      "word": "解读梅西世界杯决赛唇语",
-      "onboard_time": 1673968171,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 133411,
