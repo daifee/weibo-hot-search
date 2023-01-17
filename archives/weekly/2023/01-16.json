@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673930242605,
+  "endTime": 1673932614837,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -331,8 +331,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1118770,
-      "num": 1118770,
+      "raw_hot": 1148230,
+      "num": 1148230,
       "word": "老板开价260妈妈一口价50",
       "onboard_time": 1673927248,
       "rank": 3,
@@ -587,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 743057,
+      "num": 743057,
+      "word": "5000买iPhone还是安卓",
+      "onboard_time": 1673930429,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 735791,
       "num": 618054,
       "word": "去年腾讯100余人因触犯高压线被辞退",
@@ -713,6 +721,14 @@
       "onboard_time": 1673846548,
       "rank": 27,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 662677,
+      "num": 304383,
+      "word": "低薪工作真的能带来幸福感吗",
+      "onboard_time": 1673929109,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662141,
@@ -1003,6 +1019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 516777,
+      "num": 516777,
+      "word": "羊了个羊为什么没有第三关",
+      "onboard_time": 1673926167,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 516676,
       "num": 516676,
       "word": "梅西离开后巴萨首次夺冠",
@@ -1091,12 +1115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 475491,
-      "num": 475491,
-      "word": "羊了个羊为什么没有第三关",
-      "onboard_time": 1673926167,
-      "rank": 40,
-      "category": "游戏"
+      "raw_hot": 479978,
+      "num": 479978,
+      "word": "吴京说刘德华冻龄是咖啡喝出来的",
+      "onboard_time": 1673932169,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 470344,
@@ -1139,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 448843,
+      "num": 448843,
+      "word": "相亲对象穿着棉服就来了",
+      "onboard_time": 1673930968,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448593,
       "num": 448593,
       "word": "好欢螺商业版图",
@@ -1171,12 +1203,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 442746,
+      "num": 442746,
+      "word": "6岁女童5年3次复发伤痕累累",
+      "onboard_time": 1673929467,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435875,
       "num": 435875,
       "word": "曜兔年限定新皮肤",
       "onboard_time": 1673925029,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 431330,
+      "num": 451324,
+      "word": "三体 物理学不存在",
+      "onboard_time": 1673927548,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 427143,
@@ -1193,14 +1241,6 @@
       "onboard_time": 1673850330,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 424066,
-      "num": 424066,
-      "word": "三体 物理学不存在",
-      "onboard_time": 1673927548,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 419461,
@@ -1635,6 +1675,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328119,
+      "num": 328119,
+      "word": "肖战工作花絮照六宫格",
+      "onboard_time": 1673932468,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 327932,
+      "num": 327932,
+      "word": "李信山海炽霜斩新皮肤",
+      "onboard_time": 1673930667,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 327066,
       "num": 307091,
       "word": "关谷丁仪",
@@ -1795,20 +1851,28 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 304383,
-      "num": 304383,
-      "word": "低薪工作真的能带来幸福感吗",
-      "onboard_time": 1673929109,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 304276,
       "num": 188503,
       "word": "谢之遥是许红豆许红米的关系调和剂",
       "onboard_time": 1673839408,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 303642,
+      "num": 303642,
+      "word": "小兔糕",
+      "onboard_time": 1673932289,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 302146,
+      "num": 297334,
+      "word": "高圆圆晒22年厦门旅游vlog",
+      "onboard_time": 1673927307,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 300872,
@@ -1985,14 +2049,6 @@
       "onboard_time": 1673926409,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 275146,
-      "num": 196263,
-      "word": "高圆圆晒22年厦门旅游vlog",
-      "onboard_time": 1673927307,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 274994,
@@ -2187,6 +2243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263044,
+      "num": 227386,
+      "word": "岳云鹏河南春晚打两份工",
+      "onboard_time": 1673929951,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262023,
       "num": 262023,
       "word": "巴萨3比1皇马",
@@ -2257,14 +2321,6 @@
       "onboard_time": 1673856929,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 250671,
-      "num": 196082,
-      "word": "岳云鹏河南春晚打两份工",
-      "onboard_time": 1673929951,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 249481,
@@ -2371,6 +2427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234500,
+      "num": 234500,
+      "word": "2023KPL春季转会期",
+      "onboard_time": 1673928869,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233563,
       "num": 233563,
       "word": "烧烤摊做错了什么",
@@ -2385,6 +2449,14 @@
       "onboard_time": 1673790873,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 232794,
+      "num": 232794,
+      "word": "服务员将清洁剂当饮料上桌7人误饮",
+      "onboard_time": 1673931571,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232380,
@@ -2417,6 +2489,22 @@
       "onboard_time": 1673926348,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 229890,
+      "num": 180358,
+      "word": "王鹤棣片场吃瓜花絮",
+      "onboard_time": 1673931026,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 228813,
+      "num": 228813,
+      "word": "中国出生人口首次跌破1000万",
+      "onboard_time": 1673931809,
+      "rank": 29,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 226142,
@@ -2547,14 +2635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208593,
-      "num": 208593,
-      "word": "6岁女童5年3次复发伤痕累累",
-      "onboard_time": 1673929467,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205575,
       "num": 222343,
       "word": "分手后还会看前任动态吗",
@@ -2616,14 +2696,6 @@
       "word": "马可波罗兔年限定皮肤",
       "onboard_time": 1673913324,
       "rank": 34,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 196050,
-      "num": 196050,
-      "word": "2023KPL春季转会期",
-      "onboard_time": 1673928869,
-      "rank": 37,
       "category": "游戏"
     },
     {
@@ -2715,6 +2787,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 187910,
+      "num": 187910,
+      "word": "下雪天被迫营业的狗狗",
+      "onboard_time": 1673927668,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184019,
       "num": 184019,
       "word": "阳康返乡会被二次感染吗",
@@ -2755,14 +2835,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 181615,
-      "num": 181615,
-      "word": "下雪天被迫营业的狗狗",
-      "onboard_time": 1673927668,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 181164,
       "num": 181164,
       "word": "利雅得全明星队vs巴黎圣日耳曼",
@@ -2785,6 +2857,14 @@
       "onboard_time": 1673825118,
       "rank": 34,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 177696,
+      "num": 177696,
+      "word": "年轻人的红包封面比红包多",
+      "onboard_time": 1673931747,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 176471,
@@ -2995,6 +3075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158525,
+      "num": 158525,
+      "word": "酷狗子公司起诉羊了个羊公司侵权",
+      "onboard_time": 1673931330,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157780,
       "num": 157780,
       "word": "库里41分",
@@ -3049,6 +3137,14 @@
       "onboard_time": 1673850750,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153651,
+      "num": 153651,
+      "word": "在云南吃菌子是有底线的",
+      "onboard_time": 1673930369,
+      "rank": 45,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 152025,
@@ -3275,6 +3371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130076,
+      "num": 130076,
+      "word": "台州市民在江南长城前跳房子跨年",
+      "onboard_time": 1673932411,
+      "rank": 49,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 129488,
       "num": 220640,
       "word": "用逗猫的方式去逗狗",
@@ -3329,6 +3433,14 @@
       "onboard_time": 1673847928,
       "rank": 43,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 122592,
+      "num": 400634,
+      "word": "田曦薇2023年第一支vlog",
+      "onboard_time": 1673931630,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 122074,

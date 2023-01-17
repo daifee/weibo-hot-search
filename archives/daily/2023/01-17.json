@@ -1,6 +1,6 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673930242605,
+  "endTime": 1673932614837,
   "band_list": [
     {
       "raw_hot": 2724964,
@@ -99,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1118770,
-      "num": 1118770,
+      "raw_hot": 1148230,
+      "num": 1148230,
       "word": "老板开价260妈妈一口价50",
       "onboard_time": 1673927248,
       "rank": 3,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 743057,
+      "num": 743057,
+      "word": "5000买iPhone还是安卓",
+      "onboard_time": 1673930429,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 729854,
       "num": 729854,
       "word": "向佐ins晒一家四口合照",
@@ -233,6 +241,14 @@
       "onboard_time": 1673914947,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 662677,
+      "num": 304383,
+      "word": "低薪工作真的能带来幸福感吗",
+      "onboard_time": 1673929109,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 653279,
@@ -331,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 516777,
+      "num": 516777,
+      "word": "羊了个羊为什么没有第三关",
+      "onboard_time": 1673926167,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 494137,
       "num": 494137,
       "word": "骑手夫妻跑单7年供女儿们读博买房",
@@ -347,12 +371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 475491,
-      "num": 475491,
-      "word": "羊了个羊为什么没有第三关",
-      "onboard_time": 1673926167,
-      "rank": 40,
-      "category": "游戏"
+      "raw_hot": 479978,
+      "num": 479978,
+      "word": "吴京说刘德华冻龄是咖啡喝出来的",
+      "onboard_time": 1673932169,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 470344,
@@ -360,6 +384,14 @@
       "word": "儿子出国8年首次回家妈妈喜极而泣",
       "onboard_time": 1673887643,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448843,
+      "num": 448843,
+      "word": "相亲对象穿着棉服就来了",
+      "onboard_time": 1673930968,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -379,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 442746,
+      "num": 442746,
+      "word": "6岁女童5年3次复发伤痕累累",
+      "onboard_time": 1673929467,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435875,
       "num": 435875,
       "word": "曜兔年限定新皮肤",
@@ -387,8 +427,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 424066,
-      "num": 424066,
+      "raw_hot": 431330,
+      "num": 451324,
       "word": "三体 物理学不存在",
       "onboard_time": 1673927548,
       "rank": 14,
@@ -515,6 +555,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328119,
+      "num": 328119,
+      "word": "肖战工作花絮照六宫格",
+      "onboard_time": 1673932468,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 327932,
+      "num": 327932,
+      "word": "李信山海炽霜斩新皮肤",
+      "onboard_time": 1673930667,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 322807,
       "num": 189257,
       "word": "三体 原著党狂喜",
@@ -547,12 +603,20 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 304383,
-      "num": 304383,
-      "word": "低薪工作真的能带来幸福感吗",
-      "onboard_time": 1673929109,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 303642,
+      "num": 303642,
+      "word": "小兔糕",
+      "onboard_time": 1673932289,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 302146,
+      "num": 297334,
+      "word": "高圆圆晒22年厦门旅游vlog",
+      "onboard_time": 1673927307,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 292396,
@@ -619,14 +683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 275146,
-      "num": 196263,
-      "word": "高圆圆晒22年厦门旅游vlog",
-      "onboard_time": 1673927307,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 274804,
       "num": 184598,
       "word": "肖铎的空少礼仪",
@@ -683,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263044,
+      "num": 227386,
+      "word": "岳云鹏河南春晚打两份工",
+      "onboard_time": 1673929951,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261955,
       "num": 261955,
       "word": "刑满释放人员可否当励志网红",
@@ -713,14 +777,6 @@
       "onboard_time": 1673873909,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250671,
-      "num": 196082,
-      "word": "岳云鹏河南春晚打两份工",
-      "onboard_time": 1673929951,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 246732,
@@ -755,6 +811,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234500,
+      "num": 234500,
+      "word": "2023KPL春季转会期",
+      "onboard_time": 1673928869,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 232794,
+      "num": 232794,
+      "word": "服务员将清洁剂当饮料上桌7人误饮",
+      "onboard_time": 1673931571,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231368,
       "num": 231368,
       "word": "90后的过年噩梦",
@@ -769,6 +841,22 @@
       "onboard_time": 1673926348,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 229890,
+      "num": 180358,
+      "word": "王鹤棣片场吃瓜花絮",
+      "onboard_time": 1673931026,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 228813,
+      "num": 228813,
+      "word": "中国出生人口首次跌破1000万",
+      "onboard_time": 1673931809,
+      "rank": 29,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 225114,
@@ -803,14 +891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208593,
-      "num": 208593,
-      "word": "6岁女童5年3次复发伤痕累累",
-      "onboard_time": 1673929467,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203269,
       "num": 203269,
       "word": "带一群狗狗跳绳的主人",
@@ -832,14 +912,6 @@
       "word": "马可波罗兔年限定皮肤",
       "onboard_time": 1673913324,
       "rank": 34,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 196050,
-      "num": 196050,
-      "word": "2023KPL春季转会期",
-      "onboard_time": 1673928869,
-      "rank": 37,
       "category": "游戏"
     },
     {
@@ -883,6 +955,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 187910,
+      "num": 187910,
+      "word": "下雪天被迫营业的狗狗",
+      "onboard_time": 1673927668,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185535,
       "num": 122793,
       "word": "曾舜晞去有风的地方演技",
@@ -907,14 +987,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181615,
-      "num": 181615,
-      "word": "下雪天被迫营业的狗狗",
-      "onboard_time": 1673927668,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 181164,
       "num": 181164,
       "word": "利雅得全明星队vs巴黎圣日耳曼",
@@ -929,6 +1001,14 @@
       "onboard_time": 1673876489,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177696,
+      "num": 177696,
+      "word": "年轻人的红包封面比红包多",
+      "onboard_time": 1673931747,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 170859,
@@ -1003,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158525,
+      "num": 158525,
+      "word": "酷狗子公司起诉羊了个羊公司侵权",
+      "onboard_time": 1673931330,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157780,
       "num": 157780,
       "word": "库里41分",
@@ -1017,6 +1105,14 @@
       "onboard_time": 1673887346,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153651,
+      "num": 153651,
+      "word": "在云南吃菌子是有底线的",
+      "onboard_time": 1673930369,
+      "rank": 45,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 150609,
@@ -1099,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130076,
+      "num": 130076,
+      "word": "台州市民在江南长城前跳房子跨年",
+      "onboard_time": 1673932411,
+      "rank": 49,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 129992,
       "num": 129992,
       "word": "男子新房未入住被邻居种大葱",
@@ -1113,6 +1217,14 @@
       "onboard_time": 1673866708,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122592,
+      "num": 400634,
+      "word": "田曦薇2023年第一支vlog",
+      "onboard_time": 1673931630,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 120811,
