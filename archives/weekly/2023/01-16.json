@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673926434058,
+  "endTime": 1673929339136,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1975627,
+      "num": 1975627,
+      "word": "2022中国全年出生人口956万人",
+      "onboard_time": 1673921967,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1956537,
       "num": 1956537,
       "word": "爱奇艺被曝禁止HDMI连线播放",
@@ -145,14 +153,6 @@
       "onboard_time": 1673862390,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1697268,
-      "num": 1697268,
-      "word": "2022中国全年出生人口956万人",
-      "onboard_time": 1673921967,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1697003,
@@ -435,6 +435,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 936430,
+      "num": 936430,
+      "word": "老板开价260妈妈一口价50",
+      "onboard_time": 1673927248,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 928686,
+      "num": 928686,
+      "word": "女生熬夜关灯玩手机后眼部囊肿",
+      "onboard_time": 1673925388,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 927126,
       "num": 927126,
       "word": "羊了个羊难的原因",
@@ -577,6 +593,14 @@
       "onboard_time": 1673912963,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 712909,
+      "num": 712909,
+      "word": "考研复试",
+      "onboard_time": 1673927908,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 703095,
@@ -1091,6 +1115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 457027,
+      "num": 457027,
+      "word": "羊了个羊为什么没有第三关",
+      "onboard_time": 1673926167,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 452134,
       "num": 242950,
       "word": "肖铎被步音楼亲的满嘴口红印",
@@ -1121,6 +1153,22 @@
       "onboard_time": 1673828785,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 444992,
+      "num": 444992,
+      "word": "玺气腾腾",
+      "onboard_time": 1673927727,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 435875,
+      "num": 435875,
+      "word": "曜兔年限定新皮肤",
+      "onboard_time": 1673925029,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 427143,
@@ -1187,19 +1235,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406215,
+      "num": 406215,
+      "word": "三体 物理学不存在",
+      "onboard_time": 1673927548,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404809,
       "num": 404809,
       "word": "meiko 娜美",
       "onboard_time": 1673875109,
       "rank": 34,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 403037,
-      "num": 403037,
-      "word": "曜兔年限定新皮肤",
-      "onboard_time": 1673925029,
-      "rank": 28,
       "category": "游戏"
     },
     {
@@ -1241,6 +1289,14 @@
       "onboard_time": 1673881289,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 391371,
+      "num": 391371,
+      "word": "提前还房贷为啥又掀高潮",
+      "onboard_time": 1673924668,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389114,
@@ -1419,14 +1475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356314,
-      "num": 356314,
-      "word": "提前还房贷为啥又掀高潮",
-      "onboard_time": 1673924668,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353879,
       "num": 353879,
       "word": "Flandre在LPL出道八周年",
@@ -1563,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328835,
+      "num": 328835,
+      "word": "对于女性婚育选择应少些指点江山",
+      "onboard_time": 1673923468,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327066,
       "num": 307091,
       "word": "关谷丁仪",
@@ -1576,14 +1632,6 @@
       "word": "雪天户外吃席8个凉菜被冻成冰雕",
       "onboard_time": 1673795857,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326585,
-      "num": 326585,
-      "word": "女生熬夜关灯玩手机后眼部囊肿",
-      "onboard_time": 1673925388,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1641,6 +1689,14 @@
       "onboard_time": 1673799327,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318902,
+      "num": 198403,
+      "word": "太阳黄铉辰Felix舞蹈挑战",
+      "onboard_time": 1673928209,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 317879,
@@ -1819,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290127,
+      "num": 197511,
+      "word": "张译 少年感",
+      "onboard_time": 1673928688,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289085,
       "num": 191344,
       "word": "都暻秀翻唱伯贤的Unvillage",
@@ -1892,7 +1956,7 @@
     },
     {
       "raw_hot": 275919,
-      "num": 180191,
+      "num": 193978,
       "word": "张若昀说放长线钓大鱼该收网了",
       "onboard_time": 1673926409,
       "rank": 32,
@@ -2033,14 +2097,6 @@
       "onboard_time": 1673796692,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 267401,
-      "num": 267401,
-      "word": "对于女性婚育选择应少些指点江山",
-      "onboard_time": 1673923468,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266607,
@@ -2307,6 +2363,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230496,
+      "num": 157812,
+      "word": "高圆圆晒22年厦门旅游vlog",
+      "onboard_time": 1673927307,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 230264,
+      "num": 230264,
+      "word": "新款MacBookPro或本周发布",
+      "onboard_time": 1673926348,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 226142,
       "num": 226142,
       "word": "一诺发催泪合照",
@@ -2377,6 +2449,14 @@
       "onboard_time": 1673837426,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212970,
+      "num": 212970,
+      "word": "原来剥瓜子可以这么省力",
+      "onboard_time": 1673925448,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 212219,
@@ -2475,6 +2555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199504,
+      "num": 199504,
+      "word": "带一群狗狗跳绳的主人",
+      "onboard_time": 1673926527,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197834,
       "num": 197834,
       "word": "马可波罗兔年限定皮肤",
@@ -2563,6 +2651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188654,
+      "num": 188654,
+      "word": "警员下班理发帮老板挽回2万元",
+      "onboard_time": 1673925448,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 184019,
       "num": 184019,
       "word": "阳康返乡会被二次感染吗",
@@ -2595,14 +2691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181749,
-      "num": 181749,
-      "word": "警员下班理发帮老板挽回2万元",
-      "onboard_time": 1673925448,
-      "rank": 48,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 181726,
       "num": 181726,
       "word": "2023年起CATTI考试一年仅考一次",
@@ -2627,6 +2715,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 177993,
+      "num": 177993,
+      "word": "利雅得全明星队vs巴黎圣日耳曼",
+      "onboard_time": 1673925868,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176471,
       "num": 176471,
       "word": "现实版左牵黄右擎苍",
@@ -2635,12 +2731,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 176259,
-      "num": 176259,
-      "word": "原来剥瓜子可以这么省力",
-      "onboard_time": 1673925448,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 176217,
+      "num": 176217,
+      "word": "2023KPL春季转会期",
+      "onboard_time": 1673928869,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 175852,
@@ -2811,6 +2907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162684,
+      "num": 162684,
+      "word": "下雪天被迫营业的狗狗",
+      "onboard_time": 1673927668,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162439,
       "num": 181425,
       "word": "爸爸比孩子玩的开心",
@@ -2841,14 +2945,6 @@
       "onboard_time": 1673918187,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157648,
-      "num": 157648,
-      "word": "羊了个羊为什么没有第三关",
-      "onboard_time": 1673926167,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 156487,
@@ -2899,12 +2995,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154327,
-      "num": 154327,
-      "word": "利雅得全明星队vs巴黎圣日耳曼",
-      "onboard_time": 1673925868,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 154456,
+      "num": 154456,
+      "word": "过年算是被年轻人整明白了",
+      "onboard_time": 1673928569,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 152025,
@@ -2945,6 +3041,14 @@
       "onboard_time": 1673862990,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 146292,
+      "num": 1479259,
+      "word": "让春节有仪式感的小事",
+      "onboard_time": 1673912001,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146274,
@@ -3123,6 +3227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129866,
+      "num": 134814,
+      "word": "很难拒绝一只编织小青蛙",
+      "onboard_time": 1673926948,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129488,
       "num": 220640,
       "word": "用逗猫的方式去逗狗",
@@ -3137,6 +3249,14 @@
       "onboard_time": 1673844152,
       "rank": 44,
       "category": "军事,科技"
+    },
+    {
+      "raw_hot": 126026,
+      "num": 134500,
+      "word": "低薪工作真的能带来幸福感吗",
+      "onboard_time": 1673929109,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124425,
@@ -3184,14 +3304,6 @@
       "word": "曹德旺捐100亿元建世界一流名校",
       "onboard_time": 1673769988,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121794,
-      "num": 1479259,
-      "word": "让春节有仪式感的小事",
-      "onboard_time": 1673912001,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3281,14 +3393,6 @@
       "onboard_time": 1673833227,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112706,
-      "num": 112706,
-      "word": "新款MacBookPro或本周发布",
-      "onboard_time": 1673926348,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 112029,

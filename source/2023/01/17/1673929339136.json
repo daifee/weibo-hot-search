@@ -1,0 +1,410 @@
+{
+  "runTime": 1673929339136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2179466,
+        "num": 2179466,
+        "word": "网友质疑Jennie香港演唱会划水",
+        "onboard_time": 1673921548,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1975627,
+        "num": 1975627,
+        "word": "2022中国全年出生人口956万人",
+        "onboard_time": 1673921967,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146292,
+        "num": 1033158,
+        "word": "让春节有仪式感的小事",
+        "onboard_time": 1673912001,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936430,
+        "num": 936430,
+        "word": "老板开价260妈妈一口价50",
+        "onboard_time": 1673927248,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 928686,
+        "num": 928686,
+        "word": "女生熬夜关灯玩手机后眼部囊肿",
+        "onboard_time": 1673925388,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895504,
+        "num": 895504,
+        "word": "羊了个羊难的原因",
+        "onboard_time": 1673924367,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 712909,
+        "num": 712909,
+        "word": "考研复试",
+        "onboard_time": 1673927908,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 699399,
+        "num": 699399,
+        "word": "中国男比女多3237万人",
+        "onboard_time": 1673922866,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509022,
+        "num": 509022,
+        "word": "赵丽颖官宣加盟北京台春晚",
+        "onboard_time": 1673925029,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457027,
+        "num": 457027,
+        "word": "羊了个羊为什么没有第三关",
+        "onboard_time": 1673926167,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1076791,
+        "num": 453268,
+        "word": "胡鑫宇失踪事件办案民警发声",
+        "onboard_time": 1673922326,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929597,
+        "num": 449505,
+        "word": "老邵老师 分手",
+        "onboard_time": 1673916385,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 444992,
+        "num": 444992,
+        "word": "玺气腾腾",
+        "onboard_time": 1673927727,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435875,
+        "num": 435875,
+        "word": "曜兔年限定新皮肤",
+        "onboard_time": 1673925029,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 406215,
+        "num": 406215,
+        "word": "三体 物理学不存在",
+        "onboard_time": 1673927548,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 443751,
+        "num": 403334,
+        "word": "贺峻霖谈如果粉丝攻击队友",
+        "onboard_time": 1673925388,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 394458,
+        "num": 394458,
+        "word": "如何避免已婚未育成就业劣势",
+        "onboard_time": 1673920707,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391371,
+        "num": 391371,
+        "word": "提前还房贷为啥又掀高潮",
+        "onboard_time": 1673924668,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383286,
+        "num": 383286,
+        "word": "为什么很多人不想谈恋爱了",
+        "onboard_time": 1673918247,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328835,
+        "num": 328835,
+        "word": "对于女性婚育选择应少些指点江山",
+        "onboard_time": 1673923468,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 894113,
+        "num": 327237,
+        "word": "中国人口近61年来首次负增长",
+        "onboard_time": 1673922866,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381864,
+        "num": 326940,
+        "word": "三体",
+        "onboard_time": 1673916926,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325176,
+        "num": 325176,
+        "word": "小王同学 想给大家一个交代",
+        "onboard_time": 1673921486,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 318970,
+        "num": 318970,
+        "word": "王一博把never头发摸扁了",
+        "onboard_time": 1673913324,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234127,
+        "num": 234127,
+        "word": "刑释人员可不可以当网红",
+        "onboard_time": 1673919927,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230264,
+        "num": 230264,
+        "word": "新款MacBookPro或本周发布",
+        "onboard_time": 1673926348,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 217957,
+        "num": 217957,
+        "word": "网友吃火锅菜品中发现蓝环章鱼",
+        "onboard_time": 1673879732,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212970,
+        "num": 212970,
+        "word": "原来剥瓜子可以这么省力",
+        "onboard_time": 1673925448,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206789,
+        "num": 206789,
+        "word": "腾讯回应退租朗科大厦",
+        "onboard_time": 1673923828,
+        "rank": 28,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 199504,
+        "num": 199504,
+        "word": "带一群狗狗跳绳的主人",
+        "onboard_time": 1673926527,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318902,
+        "num": 198403,
+        "word": "太阳黄铉辰Felix舞蹈挑战",
+        "onboard_time": 1673928209,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290127,
+        "num": 197511,
+        "word": "张译 少年感",
+        "onboard_time": 1673928688,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277740,
+        "num": 196326,
+        "word": "著名武术家及演员于海去世",
+        "onboard_time": 1673913264,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241236,
+        "num": 193978,
+        "word": "张若昀说放长线钓大鱼该收网了",
+        "onboard_time": 1673926409,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193381,
+        "num": 193381,
+        "word": "2022年GDP增长3%",
+        "onboard_time": 1673921666,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 188654,
+        "num": 188654,
+        "word": "警员下班理发帮老板挽回2万元",
+        "onboard_time": 1673925448,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 177993,
+        "num": 177993,
+        "word": "利雅得全明星队vs巴黎圣日耳曼",
+        "onboard_time": 1673925868,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176217,
+        "num": 176217,
+        "word": "2023KPL春季转会期",
+        "onboard_time": 1673928869,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171791,
+        "num": 171791,
+        "word": "买加特林需配货10种烟花",
+        "onboard_time": 1673921548,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162684,
+        "num": 162684,
+        "word": "下雪天被迫营业的狗狗",
+        "onboard_time": 1673927668,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232945,
+        "num": 160831,
+        "word": "韩版想见你首张剧照",
+        "onboard_time": 1673922988,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230496,
+        "num": 157812,
+        "word": "高圆圆晒22年厦门旅游vlog",
+        "onboard_time": 1673927307,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201884,
+        "num": 157720,
+        "word": "王鹤棣白鹿以爱为营牵手对视路透",
+        "onboard_time": 1673924428,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154750,
+        "num": 154750,
+        "word": "妻子年前大扫除将老公私房钱一锅端",
+        "onboard_time": 1673921129,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154456,
+        "num": 154456,
+        "word": "过年算是被年轻人整明白了",
+        "onboard_time": 1673928569,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144021,
+        "num": 144021,
+        "word": "俩小孩小区内5次放火引燃轿车",
+        "onboard_time": 1673918308,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 134824,
+        "num": 134824,
+        "word": "提振生育积极性还得从减负着手",
+        "onboard_time": 1673914526,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129866,
+        "num": 134814,
+        "word": "很难拒绝一只编织小青蛙",
+        "onboard_time": 1673926948,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127106,
+        "num": 134656,
+        "word": "闪耀暖暖",
+        "onboard_time": 1673922387,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126026,
+        "num": 134500,
+        "word": "低薪工作真的能带来幸福感吗",
+        "onboard_time": 1673929109,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#多地神还原千里江山图#"
+    }
+  }
+}
