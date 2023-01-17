@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1673990423472,
+  "endTime": 1673991214492,
   "band_list": [
     {
       "raw_hot": 1441538,
@@ -483,20 +483,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 52422,
+      "num": 52422,
+      "word": "30岁女子大弟弟妹妹20几岁",
+      "onboard_time": 1673989511,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39782,
       "num": 39782,
       "word": "英雄联盟",
       "onboard_time": 1673962170,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 30501,
-      "num": 21657,
-      "word": "30岁女子大弟弟妹妹20几岁",
-      "onboard_time": 1673989511,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25310,
@@ -507,20 +507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18826,
+      "num": 18826,
+      "word": "王子文叶文洁好贴脸",
+      "onboard_time": 1673990052,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 16217,
       "num": 16217,
       "word": "这就是前轱辘不转后轱辘转",
       "onboard_time": 1673984113,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14452,
-      "num": 14452,
-      "word": "王子文叶文洁好贴脸",
-      "onboard_time": 1673990052,
-      "rank": 48,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
