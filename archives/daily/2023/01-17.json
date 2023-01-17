@@ -1,6 +1,6 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673940827148,
+  "endTime": 1673943841955,
   "band_list": [
     {
       "raw_hot": 2724964,
@@ -131,12 +131,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1093075,
+      "num": 1093075,
+      "word": "丈夫给情人转账20万元原配成功追回",
+      "onboard_time": 1673941706,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1072840,
       "num": 524436,
       "word": "母亲称女儿拒绝追求被男孩泼汽油烧伤",
       "onboard_time": 1673923046,
       "rank": 34,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1067294,
+      "num": 1067294,
+      "word": "不想做美甲回家过年了",
+      "onboard_time": 1673937926,
+      "rank": 6,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 1051104,
@@ -147,20 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1015889,
+      "num": 1015889,
+      "word": "梁朝伟说王一博非常专业",
+      "onboard_time": 1673942666,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 971110,
+      "num": 971110,
+      "word": "刘亦菲 谢谢姐姐姐夫请喝咖啡",
+      "onboard_time": 1673938888,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 950944,
       "num": 950944,
       "word": "王一博抱never",
       "onboard_time": 1673876553,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 939143,
-      "num": 939143,
-      "word": "不想做美甲回家过年了",
-      "onboard_time": 1673937926,
-      "rank": 6,
-      "category": "美妆,幽默"
     },
     {
       "raw_hot": 928686,
@@ -177,14 +201,6 @@
       "onboard_time": 1673924367,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 895860,
-      "num": 895860,
-      "word": "刘亦菲 谢谢姐姐姐夫请喝咖啡",
-      "onboard_time": 1673938888,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 893560,
@@ -347,6 +363,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 617410,
+      "num": 577171,
+      "word": "张婧仪无名首映礼工作室出图",
+      "onboard_time": 1673942066,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 614404,
       "num": 614404,
       "word": "提振生育积极性还得从减负着手",
@@ -355,10 +379,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579564,
+      "num": 579564,
+      "word": "公安部今天起严查酒驾醉驾",
+      "onboard_time": 1673939606,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 573457,
       "num": 525003,
       "word": "三体",
       "onboard_time": 1673916926,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 573216,
+      "num": 573216,
+      "word": "满江红首映口碑",
+      "onboard_time": 1673941765,
       "rank": 12,
       "category": "影视"
     },
@@ -459,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490160,
+      "num": 490160,
+      "word": "男子出轨大17岁女子6年转账20多万元",
+      "onboard_time": 1673942967,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 487609,
       "num": 487609,
       "word": "刘三木 原神配音",
@@ -472,6 +520,14 @@
       "word": "吴京说刘德华冻龄是咖啡喝出来的",
       "onboard_time": 1673932169,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 486082,
+      "num": 311908,
+      "word": "于和伟 三体开播第三天的奇怪现象",
+      "onboard_time": 1673942007,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -555,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 428008,
+      "num": 428008,
+      "word": "缩短教育时间能提高生育率吗",
+      "onboard_time": 1673866169,
+      "rank": 15,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 416932,
       "num": 416932,
       "word": "服务员将清洁剂当饮料上桌7人误饮",
@@ -584,6 +648,14 @@
       "word": "刑释人员可不可以当网红",
       "onboard_time": 1673919927,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407748,
+      "num": 407748,
+      "word": "我国出生人口下降三大因素",
+      "onboard_time": 1673942545,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -641,6 +713,14 @@
       "onboard_time": 1673925328,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364374,
+      "num": 304145,
+      "word": "环球影城偶遇到丁程鑫严浩翔",
+      "onboard_time": 1673943148,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 363942,
@@ -731,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338402,
+      "num": 175134,
+      "word": "赵丽颖被朋友夸突破印象",
+      "onboard_time": 1673943089,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335255,
       "num": 189916,
       "word": "王鹤棣白鹿以爱为营牵手对视路透",
@@ -755,14 +843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 330040,
-      "num": 330040,
-      "word": "缩短教育时间能提高生育率吗",
-      "onboard_time": 1673866169,
-      "rank": 15,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 328835,
       "num": 328835,
       "word": "对于女性婚育选择应少些指点江山",
@@ -777,14 +857,6 @@
       "onboard_time": 1673930667,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 326599,
-      "num": 326599,
-      "word": "公安部今天起严查酒驾醉驾",
-      "onboard_time": 1673939606,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322807,
@@ -923,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272100,
+      "num": 175035,
+      "word": "许红豆谢之遥吃一碗面",
+      "onboard_time": 1673942846,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271445,
       "num": 184427,
       "word": "吴京 于海老师一路走好",
@@ -969,6 +1049,14 @@
       "onboard_time": 1673940326,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265545,
+      "num": 174848,
+      "word": "无名",
+      "onboard_time": 1673942666,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 263451,
@@ -1025,6 +1113,14 @@
       "onboard_time": 1673873909,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249087,
+      "num": 249087,
+      "word": "暴雪官方旗舰店发布正常运营公告",
+      "onboard_time": 1673941407,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 246732,
@@ -1307,6 +1403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175260,
+      "num": 175260,
+      "word": "2022年全国人口141175万人",
+      "onboard_time": 1673940147,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170859,
       "num": 165834,
       "word": "月球20.3亿岁了",
@@ -1459,6 +1563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143011,
+      "num": 143011,
+      "word": "女儿给买新衣父亲表面训斥实则炫耀",
+      "onboard_time": 1673943210,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142561,
       "num": 142561,
       "word": "今屿转会苏州KSG",
@@ -1561,14 +1673,6 @@
       "onboard_time": 1673875109,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105319,
-      "num": 105319,
-      "word": "2022年全国人口141175万人",
-      "onboard_time": 1673940147,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104445,
