@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/17 23:34:23
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/18 00:25:39
 </p>
 </blockquote>
 <p>
@@ -3585,6 +3585,12 @@ WBG让二追三（热度：970849）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8D%A7%E5%BA%8A%E5%90%B8%E7%83%9F%E7%9D%80%E7%81%AB%E6%89%91%E6%95%91%E5%90%8E%E5%A4%8D%E7%87%83%E8%BA%AB%E4%BA%A1%23" target="weibo">
+老人卧床吸烟着火扑救后复燃身亡（热度：958520）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%92%8C%E8%BE%89%E7%91%9E%E8%B0%88%E5%88%A44%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%23" target="weibo">
 医保局和辉瑞谈判4个多小时（热度：957242）
 </a>
@@ -6005,12 +6011,6 @@ SEVENTEEN获金唱片最佳表演奖赏（热度：700849）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%8D%E5%BE%97%E6%8A%8A%E8%80%81%E4%B8%88%E4%BA%BA%E8%BF%B7%E6%AD%BB%23" target="weibo">
 这不得把老丈人迷死（热度：691747）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%9D%A4%E5%88%98%E4%BA%A6%E8%8F%B2%E9%87%91%E7%B2%89%E4%B8%96%E5%AE%B6%E9%9F%A9%E5%9B%BD%E6%92%AD%E5%87%BA%E9%A2%84%E5%91%8A%23" target="weibo">
-陈坤刘亦菲金粉世家韩国播出预告（热度：690693）
 </a>
 </li>
 
