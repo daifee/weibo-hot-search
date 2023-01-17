@@ -1,6 +1,6 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673943841955,
+  "endTime": 1673944672427,
   "band_list": [
     {
       "raw_hot": 2724964,
@@ -131,7 +131,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1093075,
+      "raw_hot": 1127613,
       "num": 1093075,
       "word": "丈夫给情人转账20万元原配成功追回",
       "onboard_time": 1673941706,
@@ -169,6 +169,14 @@
       "onboard_time": 1673942666,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 990284,
+      "num": 531739,
+      "word": "男子出轨大17岁女子6年转账20多万元",
+      "onboard_time": 1673942967,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 971110,
@@ -297,6 +305,14 @@
       "onboard_time": 1673912963,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 727246,
+      "num": 727246,
+      "word": "我国出生人口下降三大因素",
+      "onboard_time": 1673942545,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 703095,
@@ -499,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490160,
-      "num": 490160,
-      "word": "男子出轨大17岁女子6年转账20多万元",
-      "onboard_time": 1673942967,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 487609,
       "num": 487609,
       "word": "刘三木 原神配音",
@@ -561,6 +569,14 @@
       "onboard_time": 1673937926,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451285,
+      "num": 304145,
+      "word": "环球影城偶遇到丁程鑫严浩翔",
+      "onboard_time": 1673943148,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 448416,
@@ -651,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407748,
-      "num": 407748,
-      "word": "我国出生人口下降三大因素",
-      "onboard_time": 1673942545,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 396898,
       "num": 349974,
       "word": "万茜吐槽自己游戏手法不行",
@@ -713,14 +721,6 @@
       "onboard_time": 1673925328,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364374,
-      "num": 304145,
-      "word": "环球影城偶遇到丁程鑫严浩翔",
-      "onboard_time": 1673943148,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 363942,
@@ -1115,8 +1115,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249087,
-      "num": 249087,
+      "raw_hot": 253082,
+      "num": 253082,
+      "word": "女儿给买新衣父亲表面训斥实则炫耀",
+      "onboard_time": 1673943210,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251679,
+      "num": 251679,
       "word": "暴雪官方旗舰店发布正常运营公告",
       "onboard_time": 1673941407,
       "rank": 26,
@@ -1289,6 +1297,14 @@
       "onboard_time": 1673913324,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197288,
+      "num": 119319,
+      "word": "周深新歌祈愿山海",
+      "onboard_time": 1673944288,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 193577,
@@ -1563,14 +1579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 143011,
-      "num": 143011,
-      "word": "女儿给买新衣父亲表面训斥实则炫耀",
-      "onboard_time": 1673943210,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142561,
       "num": 142561,
       "word": "今屿转会苏州KSG",
@@ -1667,6 +1675,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 115987,
+      "num": 115987,
+      "word": "别忘了我们在月球还有2只小兔子",
+      "onboard_time": 1673944229,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106271,
       "num": 128114,
       "word": "meiko 娜美",
@@ -1745,6 +1761,14 @@
       "onboard_time": 1673874869,
       "rank": 39,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 90368,
+      "num": 110283,
+      "word": "姐姐一路跟随守护首次赛马的弟弟",
+      "onboard_time": 1673943627,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 83219,
