@@ -1,0 +1,410 @@
+{
+  "runTime": 1673954124106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1318279,
+        "num": 1318279,
+        "word": "王一博一直往裤兜里塞红包",
+        "onboard_time": 1673945429,
+        "rank": 0,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 1194146,
+        "num": 1194146,
+        "word": "暴雪绿茶",
+        "onboard_time": 1673946389,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34387,
+        "num": 1187573,
+        "word": "让春节有仪式感的小事",
+        "onboard_time": 1673912001,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1185834,
+        "num": 1185834,
+        "word": "新手司机驾车坠塘一家三口身亡",
+        "onboard_time": 1673948846,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 930485,
+        "num": 930485,
+        "word": "小马云表哥致歉",
+        "onboard_time": 1673950949,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632983,
+        "num": 632983,
+        "word": "朴宝剑将签约YG娱乐",
+        "onboard_time": 1673952149,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578700,
+        "num": 578700,
+        "word": "暴雪网易谈崩事发IP控制权之争",
+        "onboard_time": 1673948306,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 461431,
+        "num": 461431,
+        "word": "刘暖曦被采取限制消费",
+        "onboard_time": 1673945610,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439752,
+        "num": 439752,
+        "word": "网友质疑Jennie香港演唱会划水",
+        "onboard_time": 1673921548,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 413414,
+        "num": 413414,
+        "word": "高压锅炖猪蹄爆炸窗户炸裂",
+        "onboard_time": 1673948130,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1344239,
+        "num": 410541,
+        "word": "王诗龄 小号",
+        "onboard_time": 1673946869,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1119766,
+        "num": 399197,
+        "word": "周扬青回应整容质疑",
+        "onboard_time": 1673950828,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1058741,
+        "num": 373734,
+        "word": "敖子逸",
+        "onboard_time": 1673953588,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 926131,
+        "num": 369341,
+        "word": "男子出轨大17岁女子6年转账20多万元",
+        "onboard_time": 1673942967,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820643,
+        "num": 344273,
+        "word": "我国出生人口下降三大因素",
+        "onboard_time": 1673942545,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343194,
+        "num": 343194,
+        "word": "深圳DYG钎城已连接",
+        "onboard_time": 1673945310,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 338528,
+        "num": 338528,
+        "word": "不想做美甲回家过年了",
+        "onboard_time": 1673937926,
+        "rank": 16,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 366722,
+        "num": 338393,
+        "word": "中国已逼近中度老龄化",
+        "onboard_time": 1673952629,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300106,
+        "num": 300106,
+        "word": "谁偷走了钎城的ID",
+        "onboard_time": 1673951369,
+        "rank": 18,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 268852,
+        "num": 268852,
+        "word": "广州TTG人员变动公告",
+        "onboard_time": 1673948846,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 395539,
+        "num": 262704,
+        "word": "江疏影和梁朝伟有对手戏",
+        "onboard_time": 1673950949,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378806,
+        "num": 250532,
+        "word": "刘亦菲 谢谢姐姐姐夫请喝咖啡",
+        "onboard_time": 1673938888,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377743,
+        "num": 236135,
+        "word": "晋江判定藤萝为枝黑月光未抄袭",
+        "onboard_time": 1673944829,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 279355,
+        "num": 226759,
+        "word": "外界预计印度人口已超越中国",
+        "onboard_time": 1673947051,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223944,
+        "num": 223944,
+        "word": "巨人完结篇预告",
+        "onboard_time": 1673952208,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 209701,
+        "num": 209701,
+        "word": "孙悟空齐天大圣皮肤",
+        "onboard_time": 1673938106,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245492,
+        "num": 204306,
+        "word": "缩短教育时间能提高生育率吗",
+        "onboard_time": 1673942608,
+        "rank": 26,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 194992,
+        "num": 194992,
+        "word": "暴雪中国再次发文",
+        "onboard_time": 1673933549,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182701,
+        "num": 182701,
+        "word": "TTG官宣阿豆加入",
+        "onboard_time": 1673950467,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168267,
+        "num": 168267,
+        "word": "湖北襄阳3.6级地震",
+        "onboard_time": 1673947648,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329963,
+        "num": 166220,
+        "word": "谭松韵年度歌手是林俊杰",
+        "onboard_time": 1673951667,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296587,
+        "num": 165187,
+        "word": "满江红首映口碑",
+        "onboard_time": 1673941765,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292774,
+        "num": 162463,
+        "word": "严浩翔给头发丝贴纸",
+        "onboard_time": 1673953828,
+        "rank": 32,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 290455,
+        "num": 161205,
+        "word": "何润东老婆在线催福王下线",
+        "onboard_time": 1673952328,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159803,
+        "num": 159803,
+        "word": "小鹏汽车官宣调整价格",
+        "onboard_time": 1673948547,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159462,
+        "num": 159462,
+        "word": "丈夫给情人转账20万元原配成功追回",
+        "onboard_time": 1673941706,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158579,
+        "num": 158579,
+        "word": "小兔糕",
+        "onboard_time": 1673932289,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139781,
+        "num": 139781,
+        "word": "恋与制作人",
+        "onboard_time": 1673948306,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137577,
+        "num": 137577,
+        "word": "中方欢迎布林肯国务卿访华",
+        "onboard_time": 1673945728,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 136344,
+        "num": 136344,
+        "word": "福兔",
+        "onboard_time": 1673937687,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 212909,
+        "num": 135693,
+        "word": "贺峻霖征文比赛获二等奖",
+        "onboard_time": 1673945488,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205302,
+        "num": 135294,
+        "word": "时代少年团不孤独小游戏视频",
+        "onboard_time": 1673952927,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122211,
+        "num": 122211,
+        "word": "京东疫情三年新增28万员工",
+        "onboard_time": 1673944829,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 120983,
+        "num": 120983,
+        "word": "Lovecd回归TTG",
+        "onboard_time": 1673953709,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118065,
+        "num": 118065,
+        "word": "汶川地震时捐11000元的卖炭翁走了",
+        "onboard_time": 1673934267,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112575,
+        "num": 112575,
+        "word": "郑州可以放烟花了",
+        "onboard_time": 1673953950,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110591,
+        "num": 110591,
+        "word": "这狗怎么这么像法棍啊",
+        "onboard_time": 1673953350,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110446,
+        "num": 110446,
+        "word": "5000买iPhone还是安卓",
+        "onboard_time": 1673930429,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 106893,
+        "num": 106893,
+        "word": "相亲对象穿着棉服就来了",
+        "onboard_time": 1673930968,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104212,
+        "num": 104212,
+        "word": "第一次见到老虎被欺负",
+        "onboard_time": 1673945130,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#赏年俗品年味#"
+    }
+  }
+}

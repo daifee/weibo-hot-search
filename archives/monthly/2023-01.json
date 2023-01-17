@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673951729396,
+  "endTime": 1673954124106,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -2555,6 +2555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1318279,
+      "num": 1318279,
+      "word": "王一博一直往裤兜里塞红包",
+      "onboard_time": 1673945429,
+      "rank": 5,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 1313858,
       "num": 1313858,
       "word": "同村前男友结婚女孩哭成泪人",
@@ -3171,12 +3179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1195059,
-      "num": 1195059,
-      "word": "王一博一直往裤兜里塞红包",
-      "onboard_time": 1673945429,
-      "rank": 5,
-      "category": "影视,幽默"
+      "raw_hot": 1194146,
+      "num": 1194146,
+      "word": "暴雪绿茶",
+      "onboard_time": 1673946389,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 1193995,
@@ -3225,6 +3233,14 @@
       "onboard_time": 1673790515,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1185834,
+      "num": 1185834,
+      "word": "新手司机驾车坠塘一家三口身亡",
+      "onboard_time": 1673948846,
+      "rank": 3,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1185162,
@@ -3313,14 +3329,6 @@
       "onboard_time": 1672645167,
       "rank": 0,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1165916,
-      "num": 859188,
-      "word": "新手司机驾车坠塘一家三口身亡",
-      "onboard_time": 1673948846,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1165059,
@@ -3601,6 +3609,14 @@
       "onboard_time": 1672931131,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1119766,
+      "num": 452756,
+      "word": "周扬青回应整容质疑",
+      "onboard_time": 1673950828,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1117376,
@@ -3944,6 +3960,14 @@
       "word": "N号房主犯曾调查金智秀私生活",
       "onboard_time": 1672975047,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1058741,
+      "num": 373734,
+      "word": "敖子逸",
+      "onboard_time": 1673953588,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -4859,6 +4883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 930485,
+      "num": 930485,
+      "word": "小马云表哥致歉",
+      "onboard_time": 1673950949,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 930412,
       "num": 446174,
       "word": "奥斯卡vlog疑似有与女生亲吻照",
@@ -5737,14 +5769,6 @@
       "onboard_time": 1673254230,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 853829,
-      "num": 853829,
-      "word": "暴雪绿茶",
-      "onboard_time": 1673946389,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 853742,
@@ -7460,7 +7484,7 @@
     },
     {
       "raw_hot": 717532,
-      "num": 510637,
+      "num": 578700,
       "word": "暴雪网易谈崩事发IP控制权之争",
       "onboard_time": 1673948306,
       "rank": 11,
@@ -8883,6 +8907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 632983,
+      "num": 632983,
+      "word": "朴宝剑将签约YG娱乐",
+      "onboard_time": 1673952149,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 632949,
       "num": 632949,
       "word": "其实结婚是自己的选择题",
@@ -9417,14 +9449,6 @@
       "onboard_time": 1672578155,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 603774,
-      "num": 452756,
-      "word": "周扬青回应整容质疑",
-      "onboard_time": 1673950828,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 602984,
@@ -17299,14 +17323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 370774,
-      "num": 206117,
-      "word": "小马云表哥致歉",
-      "onboard_time": 1673950949,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 370718,
       "num": 370718,
       "word": "网友用白敬亭的人形立牌挂菜",
@@ -17577,6 +17593,14 @@
       "onboard_time": 1673498073,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366722,
+      "num": 338393,
+      "word": "中国已逼近中度老龄化",
+      "onboard_time": 1673952629,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366422,
@@ -19809,6 +19833,14 @@
       "onboard_time": 1672995271,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329963,
+      "num": 166220,
+      "word": "谭松韵年度歌手是林俊杰",
+      "onboard_time": 1673951667,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 329815,
@@ -22227,6 +22259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292774,
+      "num": 162463,
+      "word": "严浩翔给头发丝贴纸",
+      "onboard_time": 1673953828,
+      "rank": 32,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 292396,
       "num": 168029,
       "word": "丁程鑫说谁都不必任谁摆布",
@@ -22401,6 +22441,14 @@
       "onboard_time": 1673402307,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 290455,
+      "num": 161205,
+      "word": "何润东老婆在线催福王下线",
+      "onboard_time": 1673952328,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 290291,
@@ -28067,6 +28115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223944,
+      "num": 223944,
+      "word": "巨人完结篇预告",
+      "onboard_time": 1673952208,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 223800,
       "num": 163587,
       "word": "许红豆说来这不是为了搞对象",
@@ -29521,6 +29577,14 @@
       "onboard_time": 1673151211,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 205302,
+      "num": 135294,
+      "word": "时代少年团不孤独小游戏视频",
+      "onboard_time": 1673952927,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205210,
@@ -31489,14 +31553,6 @@
       "onboard_time": 1672900169,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 184944,
-      "num": 160505,
-      "word": "谭松韵年度歌手是林俊杰",
-      "onboard_time": 1673951667,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 184865,
@@ -38171,6 +38227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120983,
+      "num": 120983,
+      "word": "Lovecd回归TTG",
+      "onboard_time": 1673953709,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120811,
       "num": 120811,
       "word": "美国地图公司曾明确标记南沙群岛属于中国",
@@ -38963,6 +39027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 112575,
+      "num": 112575,
+      "word": "郑州可以放烟花了",
+      "onboard_time": 1673953950,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112543,
       "num": 112543,
       "word": "KPL社交达人",
@@ -39144,6 +39216,14 @@
       "word": "胡说八道文学的快乐",
       "onboard_time": 1672672832,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 110591,
+      "num": 110591,
+      "word": "这狗怎么这么像法棍啊",
+      "onboard_time": 1673953350,
+      "rank": 46,
       "category": "幽默"
     },
     {
