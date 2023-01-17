@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673961866745,
+  "endTime": 1673962520871,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -235,12 +235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1557103,
+      "num": 1557103,
+      "word": "漫威",
+      "onboard_time": 1673955509,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1508216,
       "num": 1508216,
       "word": "弟弟发现姐姐首饰装备库原地震惊",
       "onboard_time": 1673861967,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1438018,
+      "num": 1438018,
+      "word": "邓紫棋",
+      "onboard_time": 1673959349,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1437266,
@@ -451,14 +467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1130486,
-      "num": 1130486,
-      "word": "邓紫棋",
-      "onboard_time": 1673959349,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1127613,
       "num": 1093075,
       "word": "丈夫给情人转账20万元原配成功追回",
@@ -505,14 +513,6 @@
       "onboard_time": 1673835445,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1019844,
-      "num": 1019844,
-      "word": "漫威",
-      "onboard_time": 1673955509,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1019049,
@@ -1011,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 657665,
+      "num": 657665,
+      "word": "原来小孩子也有甲沟炎的烦恼",
+      "onboard_time": 1673957667,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 654207,
       "num": 491756,
       "word": "藤萝为枝回应抄袭",
@@ -1083,6 +1091,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 631457,
+      "num": 631457,
+      "word": "女生玩仙女棒滑倒脸着地头发被烧",
+      "onboard_time": 1673958869,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626235,
       "num": 485820,
       "word": "杨紫春晚联排高马尾造型路透",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1673826683,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 620428,
-      "num": 620428,
-      "word": "原来小孩子也有甲沟炎的烦恼",
-      "onboard_time": 1673957667,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 619721,
@@ -1305,14 +1313,6 @@
       "onboard_time": 1673861430,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 567880,
-      "num": 567880,
-      "word": "女生玩仙女棒滑倒脸着地头发被烧",
-      "onboard_time": 1673958869,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 565723,
@@ -1731,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 422769,
+      "num": 422769,
+      "word": "上海已度过本轮疫情感染高峰",
+      "onboard_time": 1673958567,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419461,
       "num": 419461,
       "word": "本命年的兔子有多嚣张",
@@ -1915,14 +1923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 383098,
-      "num": 383098,
-      "word": "上海已度过本轮疫情感染高峰",
-      "onboard_time": 1673958567,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 381901,
       "num": 381901,
       "word": "公共场所的烘手器有多脏",
@@ -2033,6 +2033,14 @@
       "onboard_time": 1673849434,
       "rank": 37,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 369274,
+      "num": 299222,
+      "word": "许红豆谢之遥异地恋",
+      "onboard_time": 1673961809,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 368948,
@@ -2153,6 +2161,14 @@
       "onboard_time": 1673936965,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350141,
+      "num": 298928,
+      "word": "流浪地球2用AI修复了李雪健原声",
+      "onboard_time": 1673960128,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 349836,
@@ -2579,6 +2595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297880,
+      "num": 297880,
+      "word": "会做饭的大学生回村被疯狂预约",
+      "onboard_time": 1673960128,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297443,
       "num": 171239,
       "word": "文俊辉直播",
@@ -2593,14 +2617,6 @@
       "onboard_time": 1673872230,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294971,
-      "num": 294971,
-      "word": "流浪地球2用AI修复了李雪健原声",
-      "onboard_time": 1673960128,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 294924,
@@ -2939,6 +2955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266327,
+      "num": 225472,
+      "word": "2023总台春晚演员送祝福",
+      "onboard_time": 1673961688,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265994,
       "num": 265994,
       "word": "这动作是咋做到全国统一的",
@@ -3137,6 +3161,14 @@
       "onboard_time": 1673856929,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 250852,
+      "num": 250852,
+      "word": "猪八戒钻石夺宝皮肤",
+      "onboard_time": 1673961268,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 249481,
@@ -3363,14 +3395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 227731,
-      "num": 147191,
-      "word": "许红豆谢之遥异地恋",
-      "onboard_time": 1673961809,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 226348,
       "num": 226348,
       "word": "新年战甲",
@@ -3393,6 +3417,14 @@
       "onboard_time": 1673867907,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225815,
+      "num": 225815,
+      "word": "英雄联盟",
+      "onboard_time": 1673962170,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 224921,
@@ -3419,14 +3451,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 221683,
-      "num": 145863,
-      "word": "2023总台春晚演员送祝福",
-      "onboard_time": 1673961688,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 221047,
       "num": 221047,
       "word": "魔兽国服将支持玩家封存进度",
@@ -3436,7 +3460,7 @@
     },
     {
       "raw_hot": 219707,
-      "num": 170869,
+      "num": 214297,
       "word": "想在春晚看到这个",
       "onboard_time": 1673960309,
       "rank": 34,
@@ -3481,14 +3505,6 @@
       "onboard_time": 1673878049,
       "rank": 33,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 214948,
-      "num": 214948,
-      "word": "会做饭的大学生回村被疯狂预约",
-      "onboard_time": 1673960128,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214251,
@@ -3691,6 +3707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194437,
+      "num": 194437,
+      "word": "猫咪都爱挤在一个窝里",
+      "onboard_time": 1673961630,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 193577,
       "num": 436212,
       "word": "田曦薇2023年第一支vlog",
@@ -3891,6 +3915,14 @@
       "category": "动漫,幽默"
     },
     {
+      "raw_hot": 175801,
+      "num": 175801,
+      "word": "白夜极光",
+      "onboard_time": 1673961388,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175728,
       "num": 175728,
       "word": "雷恩1比0巴黎圣日耳曼",
@@ -3947,14 +3979,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 170711,
-      "num": 170711,
-      "word": "白夜极光",
-      "onboard_time": 1673961388,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 170530,
       "num": 170530,
       "word": "加满一箱油约省8元",
@@ -3993,14 +4017,6 @@
       "onboard_time": 1673847029,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169545,
-      "num": 169545,
-      "word": "猪八戒钻石夺宝皮肤",
-      "onboard_time": 1673961268,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 168964,
@@ -4049,6 +4065,14 @@
       "onboard_time": 1673824639,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165229,
+      "num": 165229,
+      "word": "iG 永不加班",
+      "onboard_time": 1673961090,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 165158,
@@ -4195,6 +4219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152058,
+      "num": 152058,
+      "word": "韩总统夫人穿军装被批抢总统风头",
+      "onboard_time": 1673962290,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 152025,
       "num": 163504,
       "word": "理想汽车回应夜间驾车显示有人追车",
@@ -4225,6 +4257,14 @@
       "onboard_time": 1673933010,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149180,
+      "num": 149180,
+      "word": "哈兰德登上GQ封面",
+      "onboard_time": 1673961028,
+      "rank": 48,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 147964,
@@ -4348,7 +4388,7 @@
     },
     {
       "raw_hot": 141075,
-      "num": 141075,
+      "num": 147662,
       "word": "张帅 澳网",
       "onboard_time": 1673960490,
       "rank": 43,
@@ -4400,14 +4440,6 @@
       "word": "Lovecd回归TTG",
       "onboard_time": 1673953709,
       "rank": 43,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 138987,
-      "num": 138987,
-      "word": "iG 永不加班",
-      "onboard_time": 1673961090,
-      "rank": 44,
       "category": "游戏"
     },
     {
@@ -4491,14 +4523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128532,
-      "num": 128532,
-      "word": "猫咪都爱挤在一个窝里",
-      "onboard_time": 1673961630,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 128059,
       "num": 128059,
       "word": "LNG战胜TT",
@@ -4529,14 +4553,6 @@
       "onboard_time": 1673860710,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124126,
-      "num": 124126,
-      "word": "哈兰德登上GQ封面",
-      "onboard_time": 1673961028,
-      "rank": 48,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 123940,

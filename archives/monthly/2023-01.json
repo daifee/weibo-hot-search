@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1673961866745,
+  "endTime": 1673962520871,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -1835,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1557103,
+      "num": 1557103,
+      "word": "漫威",
+      "onboard_time": 1673955509,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1552755,
       "num": 677508,
       "word": "新娘被要求坐主厅5小时脚不能沾地",
@@ -2193,6 +2201,14 @@
       "onboard_time": 1673434834,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1438018,
+      "num": 1438018,
+      "word": "邓紫棋",
+      "onboard_time": 1673959349,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1437942,
@@ -3595,14 +3611,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1130486,
-      "num": 1130486,
-      "word": "邓紫棋",
-      "onboard_time": 1673959349,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1128901,
       "num": 610219,
       "word": "家属办完丧事被通知人没死",
@@ -4281,14 +4289,6 @@
       "onboard_time": 1673107050,
       "rank": 1,
       "category": "音乐,时尚"
-    },
-    {
-      "raw_hot": 1019844,
-      "num": 1019844,
-      "word": "漫威",
-      "onboard_time": 1673955509,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1019049,
@@ -8523,6 +8523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 657665,
+      "num": 657665,
+      "word": "原来小孩子也有甲沟炎的烦恼",
+      "onboard_time": 1673957667,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 656302,
       "num": 656302,
       "word": "张婉婷 情绪",
@@ -9059,6 +9067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 631457,
+      "num": 631457,
+      "word": "女生玩仙女棒滑倒脸着地头发被烧",
+      "onboard_time": 1673958869,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630785,
       "num": 630785,
       "word": "阳了后警惕病毒性结膜炎",
@@ -9216,14 +9232,6 @@
       "word": "孕妇感染新冠后顺利生下元旦宝宝",
       "onboard_time": 1672566328,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 620428,
-      "num": 620428,
-      "word": "原来小孩子也有甲沟炎的烦恼",
-      "onboard_time": 1673957667,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -10497,14 +10505,6 @@
       "onboard_time": 1672759112,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 567880,
-      "num": 567880,
-      "word": "女生玩仙女棒滑倒脸着地头发被烧",
-      "onboard_time": 1673958869,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 567443,
@@ -15003,6 +15003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422769,
+      "num": 422769,
+      "word": "上海已度过本轮疫情感染高峰",
+      "onboard_time": 1673958567,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422660,
       "num": 422660,
       "word": "第一次见火车户型的房子",
@@ -16883,14 +16891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 383098,
-      "num": 383098,
-      "word": "上海已度过本轮疫情感染高峰",
-      "onboard_time": 1673958567,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 382957,
       "num": 242982,
       "word": "顾南亭提出建议被拒绝",
@@ -17584,6 +17584,14 @@
       "word": "南得霄亭开虐了",
       "onboard_time": 1672748790,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 369274,
+      "num": 299222,
+      "word": "许红豆谢之遥异地恋",
+      "onboard_time": 1673961809,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -18673,6 +18681,14 @@
       "onboard_time": 1673100212,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350141,
+      "num": 298928,
+      "word": "流浪地球2用AI修复了李雪健原声",
+      "onboard_time": 1673960128,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 349923,
@@ -22107,6 +22123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 297880,
+      "num": 297880,
+      "word": "会做饭的大学生回村被疯狂预约",
+      "onboard_time": 1673960128,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297694,
       "num": 176285,
       "word": "程霄说任何后果我愿意承担",
@@ -22249,14 +22273,6 @@
       "onboard_time": 1673750182,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 294971,
-      "num": 294971,
-      "word": "流浪地球2用AI修复了李雪健原声",
-      "onboard_time": 1673960128,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 294949,
@@ -24787,6 +24803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 266327,
+      "num": 225472,
+      "word": "2023总台春晚演员送祝福",
+      "onboard_time": 1673961688,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266133,
       "num": 266133,
       "word": "王鹤棣陈钰琪摔跤变装视频",
@@ -26097,6 +26121,14 @@
       "onboard_time": 1673740038,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250852,
+      "num": 250852,
+      "word": "猪八戒钻石夺宝皮肤",
+      "onboard_time": 1673961268,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 250779,
@@ -28043,14 +28075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227731,
-      "num": 147191,
-      "word": "许红豆谢之遥异地恋",
-      "onboard_time": 1673961809,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 227553,
       "num": 227553,
       "word": "LNG对战IGY",
@@ -28185,6 +28209,14 @@
       "onboard_time": 1673867907,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225815,
+      "num": 225815,
+      "word": "英雄联盟",
+      "onboard_time": 1673962170,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 225783,
@@ -28523,14 +28555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 221683,
-      "num": 145863,
-      "word": "2023总台春晚演员送祝福",
-      "onboard_time": 1673961688,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 221572,
       "num": 128402,
       "word": "姚晨唐嫣庄达菲联手骗赢孙坚",
@@ -28700,7 +28724,7 @@
     },
     {
       "raw_hot": 219707,
-      "num": 170869,
+      "num": 214297,
       "word": "想在春晚看到这个",
       "onboard_time": 1673960309,
       "rank": 34,
@@ -29089,14 +29113,6 @@
       "onboard_time": 1673168189,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214948,
-      "num": 214948,
-      "word": "会做饭的大学生回村被疯狂预约",
-      "onboard_time": 1673960128,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214838,
@@ -30809,6 +30825,14 @@
       "onboard_time": 1673789975,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194437,
+      "num": 194437,
+      "word": "猫咪都爱挤在一个窝里",
+      "onboard_time": 1673961630,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 194427,
@@ -32931,6 +32955,14 @@
       "category": "动漫,幽默"
     },
     {
+      "raw_hot": 175801,
+      "num": 175801,
+      "word": "白夜极光",
+      "onboard_time": 1673961388,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175799,
       "num": 175799,
       "word": "这猫有凌波微步吧",
@@ -33491,14 +33523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170711,
-      "num": 170711,
-      "word": "白夜极光",
-      "onboard_time": 1673961388,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 170683,
       "num": 170683,
       "word": "你会选择跟好朋友合租吗",
@@ -33609,14 +33633,6 @@
       "onboard_time": 1672810409,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169545,
-      "num": 169545,
-      "word": "猪八戒钻石夺宝皮肤",
-      "onboard_time": 1673961268,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 169479,
@@ -34072,6 +34088,14 @@
       "word": "V5正式官宣更名NIP",
       "onboard_time": 1673337208,
       "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 165229,
+      "num": 165229,
+      "word": "iG 永不加班",
+      "onboard_time": 1673961090,
+      "rank": 44,
       "category": "游戏"
     },
     {
@@ -35427,6 +35451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152058,
+      "num": 152058,
+      "word": "韩总统夫人穿军装被批抢总统风头",
+      "onboard_time": 1673962290,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 152043,
       "num": 152043,
       "word": "天津小伙将年货融入相声堪比春晚",
@@ -35705,6 +35737,14 @@
       "onboard_time": 1673494167,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149180,
+      "num": 149180,
+      "word": "哈兰德登上GQ封面",
+      "onboard_time": 1673961028,
+      "rank": 48,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 149141,
@@ -36540,7 +36580,7 @@
     },
     {
       "raw_hot": 141075,
-      "num": 141075,
+      "num": 147662,
       "word": "张帅 澳网",
       "onboard_time": 1673960490,
       "rank": 43,
@@ -36792,14 +36832,6 @@
       "word": "Lovecd回归TTG",
       "onboard_time": 1673953709,
       "rank": 43,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 138987,
-      "num": 138987,
-      "word": "iG 永不加班",
-      "onboard_time": 1673961090,
-      "rank": 44,
       "category": "游戏"
     },
     {
@@ -37819,14 +37851,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 128532,
-      "num": 128532,
-      "word": "猫咪都爱挤在一个窝里",
-      "onboard_time": 1673961630,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 128399,
       "num": 128399,
       "word": "原来木工可以做得这么可爱",
@@ -38201,14 +38225,6 @@
       "onboard_time": 1672824571,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124126,
-      "num": 124126,
-      "word": "哈兰德登上GQ封面",
-      "onboard_time": 1673961028,
-      "rank": 48,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 124076,
