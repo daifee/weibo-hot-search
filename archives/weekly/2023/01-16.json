@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1673923308309,
+  "endTime": 1673923897976,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -75,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2230618,
+      "num": 2230618,
+      "word": "网友质疑Jennie香港演唱会划水",
+      "onboard_time": 1673921548,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2110607,
       "num": 2110607,
       "word": "2022年中国人口减少85万人",
       "onboard_time": 1673921666,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2110205,
-      "num": 2110205,
-      "word": "网友质疑Jennie香港演唱会划水",
-      "onboard_time": 1673921548,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 2067950,
@@ -291,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1165572,
+      "num": 1165572,
+      "word": "2022中国全年出生人口956万人",
+      "onboard_time": 1673921967,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1159976,
       "num": 1159976,
       "word": "never 讨厌没有边界感的帅哥",
@@ -345,6 +353,14 @@
       "onboard_time": 1673872889,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 977341,
+      "num": 977341,
+      "word": "胡鑫宇失踪事件办案民警发声",
+      "onboard_time": 1673922326,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 967903,
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 881508,
-      "num": 499500,
+      "num": 517331,
       "word": "小王同学 想给大家一个交代",
       "onboard_time": 1673921486,
       "rank": 12,
@@ -635,14 +651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 664627,
-      "num": 664627,
-      "word": "2022中国全年出生人口956万人",
-      "onboard_time": 1673921967,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 662798,
       "num": 662798,
       "word": "马化腾称内部贪腐触目惊心",
@@ -683,8 +691,8 @@
       "category": "影视,情感"
     },
     {
-      "raw_hot": 627713,
-      "num": 627713,
+      "raw_hot": 628368,
+      "num": 628368,
       "word": "如何避免已婚未育成就业劣势",
       "onboard_time": 1673920707,
       "rank": 6,
@@ -859,14 +867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 574834,
-      "num": 490966,
-      "word": "胡鑫宇失踪事件办案民警发声",
-      "onboard_time": 1673922326,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 571089,
       "num": 571089,
       "word": "小乔山海琳琅生皮肤",
@@ -889,6 +889,14 @@
       "onboard_time": 1673863107,
       "rank": 8,
       "category": "科技"
+    },
+    {
+      "raw_hot": 549445,
+      "num": 549445,
+      "word": "2022年GDP增长3%",
+      "onboard_time": 1673921666,
+      "rank": 16,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 534084,
@@ -1011,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 483663,
-      "num": 483663,
-      "word": "2022年GDP增长3%",
-      "onboard_time": 1673921666,
-      "rank": 16,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 470344,
       "num": 470344,
       "word": "儿子出国8年首次回家妈妈喜极而泣",
@@ -1043,12 +1043,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 459170,
+      "num": 459170,
+      "word": "中国人口近61年来首次负增长",
+      "onboard_time": 1673922866,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452134,
       "num": 242950,
       "word": "肖铎被步音楼亲的满嘴口红印",
       "onboard_time": 1673879971,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 452120,
+      "num": 452120,
+      "word": "中国男比女多3237万人",
+      "onboard_time": 1673922866,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450357,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1673828785,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 446665,
+      "num": 446665,
+      "word": "母亲称女儿拒绝追求被男孩泼汽油烧伤",
+      "onboard_time": 1673923046,
+      "rank": 34,
+      "category": "社会负面"
     },
     {
       "raw_hot": 427143,
@@ -1699,12 +1723,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 292396,
+      "num": 168029,
+      "word": "丁程鑫说谁都不必任谁摆布",
+      "onboard_time": 1673923410,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 292250,
       "num": 131440,
       "word": "原来吴昕是真的在种草",
       "onboard_time": 1673808133,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290176,
+      "num": 290176,
+      "word": "买加特林需配货10种烟花",
+      "onboard_time": 1673921548,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289085,
@@ -1891,6 +1931,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270611,
+      "num": 167979,
+      "word": "浮图缘1月20日大结局",
+      "onboard_time": 1673923528,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 269284,
+      "num": 184235,
+      "word": "韩版想见你首张剧照",
+      "onboard_time": 1673922988,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 268484,
       "num": 182825,
       "word": "东北人对锅包肉的执念有多强",
@@ -1977,14 +2033,6 @@
       "onboard_time": 1673868151,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 260466,
-      "num": 260466,
-      "word": "买加特林需配货10种烟花",
-      "onboard_time": 1673921548,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260015,
@@ -2195,14 +2243,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 220259,
-      "num": 184235,
-      "word": "韩版想见你首张剧照",
-      "onboard_time": 1673922988,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 217652,
       "num": 217652,
       "word": "尼泊尔载72人坠毁客机失事瞬间",
@@ -2281,14 +2321,6 @@
       "onboard_time": 1673786254,
       "rank": 18,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 209325,
-      "num": 183989,
-      "word": "母亲称女儿拒绝追求被男孩泼汽油烧伤",
-      "onboard_time": 1673923046,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 209301,
@@ -2555,12 +2587,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170728,
-      "num": 170728,
-      "word": "中国男比女多3237万人",
-      "onboard_time": 1673922866,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 170859,
+      "num": 165834,
+      "word": "月球20.3亿岁了",
+      "onboard_time": 1673923227,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 170530,
@@ -2635,14 +2667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165834,
-      "num": 165834,
-      "word": "月球20.3亿岁了",
-      "onboard_time": 1673923227,
-      "rank": 39,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 165158,
       "num": 165158,
       "word": "小兔子折纸教程",
@@ -2689,6 +2713,14 @@
       "onboard_time": 1673842349,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160893,
+      "num": 160893,
+      "word": "腊月二十六",
+      "onboard_time": 1673923528,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160865,
@@ -2755,14 +2787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154982,
-      "num": 154982,
-      "word": "中国人口近61年来首次负增长",
-      "onboard_time": 1673922866,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152025,
       "num": 163504,
       "word": "理想汽车回应夜间驾车显示有人追车",
@@ -2809,6 +2833,14 @@
       "onboard_time": 1673864127,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146031,
+      "num": 146031,
+      "word": "腾讯回应退租朗科大厦",
+      "onboard_time": 1673923828,
+      "rank": 45,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 145204,
@@ -2889,6 +2921,14 @@
       "onboard_time": 1673875352,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 139326,
+      "num": 139326,
+      "word": "对于女性婚育选择应少些指点江山",
+      "onboard_time": 1673923468,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139260,
@@ -3049,6 +3089,14 @@
       "onboard_time": 1673785168,
       "rank": 27,
       "category": "其它"
+    },
+    {
+      "raw_hot": 118397,
+      "num": 131318,
+      "word": "2022年农村居民收入增长快于城镇",
+      "onboard_time": 1673923767,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 116719,
