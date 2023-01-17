@@ -1,0 +1,410 @@
+{
+  "runTime": 1673939805033,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1748712,
+        "num": 1748712,
+        "word": "暴雪中国再次发文",
+        "onboard_time": 1673933549,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1083502,
+        "num": 1083502,
+        "word": "网友质疑Jennie香港演唱会划水",
+        "onboard_time": 1673921548,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 63851,
+        "num": 1062932,
+        "word": "让春节有仪式感的小事",
+        "onboard_time": 1673912001,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055121,
+        "num": 1055121,
+        "word": "相亲对象穿着棉服就来了",
+        "onboard_time": 1673930968,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867491,
+        "num": 867491,
+        "word": "汶川地震时捐11000元的卖炭翁走了",
+        "onboard_time": 1673934267,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848756,
+        "num": 848756,
+        "word": "孙悟空齐天大圣皮肤",
+        "onboard_time": 1673938106,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 840580,
+        "num": 840580,
+        "word": "不想做美甲回家过年了",
+        "onboard_time": 1673937926,
+        "rank": 6,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 726802,
+        "num": 726802,
+        "word": "张艺谋说易烊千玺是首选",
+        "onboard_time": 1673939487,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585219,
+        "num": 585219,
+        "word": "老板开价260妈妈一口价50",
+        "onboard_time": 1673927248,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 465937,
+        "num": 465937,
+        "word": "刘三木 原神配音",
+        "onboard_time": 1673933307,
+        "rank": 9,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 706441,
+        "num": 458904,
+        "word": "刘亦菲 谢谢姐姐姐夫请喝咖啡",
+        "onboard_time": 1673938888,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451756,
+        "num": 451756,
+        "word": "张碧晨黑粉手写道歉信",
+        "onboard_time": 1673937926,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448416,
+        "num": 448416,
+        "word": "满江红",
+        "onboard_time": 1673938466,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389043,
+        "num": 389043,
+        "word": "5000买iPhone还是安卓",
+        "onboard_time": 1673930429,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 374849,
+        "num": 374849,
+        "word": "福兔",
+        "onboard_time": 1673937687,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 372679,
+        "num": 372679,
+        "word": "太丢老虎的脸了",
+        "onboard_time": 1673934867,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341462,
+        "num": 341462,
+        "word": "云南野生动物园虎兔交班",
+        "onboard_time": 1673936546,
+        "rank": 16,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 341205,
+        "num": 341205,
+        "word": "小兔糕",
+        "onboard_time": 1673932289,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 314865,
+        "num": 314865,
+        "word": "羊了个羊为什么没有第三关",
+        "onboard_time": 1673926167,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292377,
+        "num": 292377,
+        "word": "考研复试",
+        "onboard_time": 1673927908,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 330429,
+        "num": 291862,
+        "word": "老邵老师 分手",
+        "onboard_time": 1673916385,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 316008,
+        "num": 291144,
+        "word": "张婉婷说这次我顶替KK了",
+        "onboard_time": 1673932888,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288832,
+        "num": 288832,
+        "word": "齐思钧官宣加盟湖南卫视华人春晚",
+        "onboard_time": 1673936965,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279435,
+        "num": 279435,
+        "word": "院方回应59岁医生被患者捅数刀",
+        "onboard_time": 1673938528,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 274969,
+        "num": 274969,
+        "word": "詹姆斯48分",
+        "onboard_time": 1673936786,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268445,
+        "num": 268445,
+        "word": "网易否决暴雪顺延六个月提案",
+        "onboard_time": 1673935226,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261859,
+        "num": 261859,
+        "word": "女生熬夜关灯玩手机后眼部囊肿",
+        "onboard_time": 1673925388,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233549,
+        "num": 233549,
+        "word": "服务员将清洁剂当饮料上桌7人误饮",
+        "onboard_time": 1673931571,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208015,
+        "num": 208015,
+        "word": "原神",
+        "onboard_time": 1673933847,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198200,
+        "num": 198200,
+        "word": "对于女性婚育选择应少些指点江山",
+        "onboard_time": 1673923468,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273127,
+        "num": 197054,
+        "word": "许红豆吃瓜吃到正主面前",
+        "onboard_time": 1673932828,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265262,
+        "num": 195895,
+        "word": "王鹤棣片场扑倒陈钰琪",
+        "onboard_time": 1673935346,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261068,
+        "num": 194844,
+        "word": "许红豆给谢之遥上药",
+        "onboard_time": 1673938827,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256594,
+        "num": 193679,
+        "word": "万茜吐槽自己游戏手法不行",
+        "onboard_time": 1673932708,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193229,
+        "num": 193229,
+        "word": "6岁女童5年3次复发伤痕累累",
+        "onboard_time": 1673929467,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177425,
+        "num": 177425,
+        "word": "为什么很多人不想谈恋爱了",
+        "onboard_time": 1673918247,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171934,
+        "num": 171934,
+        "word": "魔兽国服将支持玩家封存进度",
+        "onboard_time": 1673936965,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147759,
+        "num": 147759,
+        "word": "提前还房贷为啥又掀高潮",
+        "onboard_time": 1673924668,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140970,
+        "num": 140970,
+        "word": "提振生育积极性还得从减负着手",
+        "onboard_time": 1673914526,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128796,
+        "num": 128796,
+        "word": "羊了个羊难的原因",
+        "onboard_time": 1673924367,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241236,
+        "num": 127075,
+        "word": "蔡卓妍晒三亚vlog",
+        "onboard_time": 1673937384,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461515,
+        "num": 123818,
+        "word": "中国出生人口首次跌破1000万",
+        "onboard_time": 1673931809,
+        "rank": 41,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 239203,
+        "num": 120853,
+        "word": "北京台春晚官宣第二波阵容",
+        "onboard_time": 1673937565,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238662,
+        "num": 119468,
+        "word": "夏奇拉通过家中果酱发现皮克出轨",
+        "onboard_time": 1673939787,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117827,
+        "num": 117827,
+        "word": "如何避免已婚未育成就业劣势",
+        "onboard_time": 1673920707,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115583,
+        "num": 115583,
+        "word": "在云南吃菌子是有底线的",
+        "onboard_time": 1673930369,
+        "rank": 45,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 111320,
+        "num": 111320,
+        "word": "过年算是被年轻人整明白了",
+        "onboard_time": 1673928569,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111164,
+        "num": 111164,
+        "word": "今屿转会苏州KSG",
+        "onboard_time": 1673934745,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110326,
+        "num": 110326,
+        "word": "公安部今天起严查酒驾醉驾",
+        "onboard_time": 1673939606,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100273,
+        "num": 100273,
+        "word": "腾讯回应退租朗科大厦",
+        "onboard_time": 1673923828,
+        "rank": 49,
+        "category": "财经,科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#赏年俗品年味#"
+    }
+  }
+}

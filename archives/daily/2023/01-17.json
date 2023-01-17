@@ -1,6 +1,6 @@
 {
   "startTime": 1673886335075,
-  "endTime": 1673937465515,
+  "endTime": 1673939805033,
   "band_list": [
     {
       "raw_hot": 2724964,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1335014,
-      "num": 984218,
+      "num": 1055121,
       "word": "相亲对象穿着棉服就来了",
       "onboard_time": 1673930968,
       "rank": 12,
@@ -187,6 +187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 867491,
+      "num": 867491,
+      "word": "汶川地震时捐11000元的卖炭翁走了",
+      "onboard_time": 1673934267,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 867006,
       "num": 867006,
       "word": "全球最富1%人口赚了其余人口近两倍",
@@ -201,6 +209,22 @@
       "onboard_time": 1673919566,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 848756,
+      "num": 848756,
+      "word": "孙悟空齐天大圣皮肤",
+      "onboard_time": 1673938106,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 840580,
+      "num": 840580,
+      "word": "不想做美甲回家过年了",
+      "onboard_time": 1673937926,
+      "rank": 6,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 810282,
@@ -235,20 +259,28 @@
       "category": "科技"
     },
     {
-      "raw_hot": 741040,
-      "num": 741040,
-      "word": "汶川地震时捐11000元的卖炭翁走了",
-      "onboard_time": 1673934267,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 729854,
       "num": 729854,
       "word": "向佐ins晒一家四口合照",
       "onboard_time": 1673912963,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 726802,
+      "num": 726802,
+      "word": "张艺谋说易烊千玺是首选",
+      "onboard_time": 1673939487,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 706441,
+      "num": 458904,
+      "word": "刘亦菲 谢谢姐姐姐夫请喝咖啡",
+      "onboard_time": 1673938888,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 703095,
@@ -459,6 +491,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451756,
+      "num": 451756,
+      "word": "张碧晨黑粉手写道歉信",
+      "onboard_time": 1673937926,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 448416,
+      "num": 448416,
+      "word": "满江红",
+      "onboard_time": 1673938466,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 447650,
       "num": 447650,
       "word": "提前还房贷为啥又掀高潮",
@@ -531,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374849,
+      "num": 374849,
+      "word": "福兔",
+      "onboard_time": 1673937687,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 373797,
       "num": 306524,
       "word": "张译 少年感",
@@ -545,6 +601,14 @@
       "onboard_time": 1673912721,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372679,
+      "num": 372679,
+      "word": "太丢老虎的脸了",
+      "onboard_time": 1673934867,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 370533,
@@ -596,7 +660,7 @@
     },
     {
       "raw_hot": 351619,
-      "num": 245020,
+      "num": 288832,
       "word": "齐思钧官宣加盟湖南卫视华人春晚",
       "onboard_time": 1673936965,
       "rank": 20,
@@ -625,6 +689,14 @@
       "onboard_time": 1673876853,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 341462,
+      "num": 341462,
+      "word": "云南野生动物园虎兔交班",
+      "onboard_time": 1673936546,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 338415,
@@ -779,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279435,
+      "num": 279435,
+      "word": "院方回应59岁医生被患者捅数刀",
+      "onboard_time": 1673938528,
+      "rank": 23,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 278224,
       "num": 278224,
       "word": "利雅得全明星队公布战巴黎名单",
@@ -793,6 +873,14 @@
       "onboard_time": 1673926409,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 274969,
+      "num": 274969,
+      "word": "詹姆斯48分",
+      "onboard_time": 1673936786,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 274804,
@@ -883,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261068,
+      "num": 194844,
+      "word": "许红豆给谢之遥上药",
+      "onboard_time": 1673938827,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260015,
       "num": 260015,
       "word": "山东姑娘辞职接替父亲戍边6年",
@@ -907,6 +1003,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 241236,
+      "num": 142459,
+      "word": "蔡卓妍晒三亚vlog",
+      "onboard_time": 1673937384,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241059,
       "num": 241059,
       "word": "过年算是被年轻人整明白了",
@@ -929,6 +1033,22 @@
       "onboard_time": 1673917707,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239203,
+      "num": 120853,
+      "word": "北京台春晚官宣第二波阵容",
+      "onboard_time": 1673937565,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238662,
+      "num": 119468,
+      "word": "夏奇拉通过家中果酱发现皮克出轨",
+      "onboard_time": 1673939787,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 234500,
@@ -969,14 +1089,6 @@
       "onboard_time": 1673933847,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 227445,
-      "num": 227445,
-      "word": "太丢老虎的脸了",
-      "onboard_time": 1673934867,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 225114,
@@ -1027,14 +1139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208096,
-      "num": 142459,
-      "word": "蔡卓妍晒三亚vlog",
-      "onboard_time": 1673937384,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203269,
       "num": 203269,
       "word": "带一群狗狗跳绳的主人",
@@ -1065,14 +1169,6 @@
       "onboard_time": 1673913324,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 193679,
-      "num": 193679,
-      "word": "詹姆斯48分",
-      "onboard_time": 1673936786,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 193577,
@@ -1291,14 +1387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155567,
-      "num": 155567,
-      "word": "云南野生动物园虎兔交班",
-      "onboard_time": 1673936546,
-      "rank": 49,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 150809,
       "num": 150809,
       "word": "钎城说坚持给人力量",
@@ -1441,6 +1529,14 @@
       "onboard_time": 1673923767,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 110326,
+      "num": 110326,
+      "word": "公安部今天起严查酒驾醉驾",
+      "onboard_time": 1673939606,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106271,
