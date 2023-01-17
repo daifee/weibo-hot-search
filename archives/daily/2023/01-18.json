@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1673993893311,
+  "endTime": 1673994864344,
   "band_list": [
     {
       "raw_hot": 1441538,
@@ -387,11 +387,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125804,
+      "num": 78028,
+      "word": "任泽平称放开并鼓励生育刻不容缓",
+      "onboard_time": 1673980755,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121152,
       "num": 121152,
       "word": "会做饭的大学生回村被疯狂预约",
       "onboard_time": 1673960128,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118336,
+      "num": 77693,
+      "word": "30岁女子大弟弟妹妹20几岁",
+      "onboard_time": 1673989511,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -411,28 +427,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 107963,
-      "num": 62426,
-      "word": "30岁女子大弟弟妹妹20几岁",
-      "onboard_time": 1673989511,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106560,
       "num": 106560,
       "word": "官方回应女司机开车坠塘一家三口溺亡",
       "onboard_time": 1673957667,
       "rank": 45,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 105965,
-      "num": 62023,
-      "word": "任泽平称放开并鼓励生育刻不容缓",
-      "onboard_time": 1673980755,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105406,
@@ -483,12 +483,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 58792,
-      "num": 58792,
+      "raw_hot": 65074,
+      "num": 65074,
       "word": "被零下55度运行的计算机酷到了",
       "onboard_time": 1673981054,
       "rank": 16,
       "category": "科技"
+    },
+    {
+      "raw_hot": 42276,
+      "num": 42276,
+      "word": "妈妈的脾气为什么变差了",
+      "onboard_time": 1673993414,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 39782,
@@ -499,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31269,
+      "num": 31269,
+      "word": "王子文叶文洁好贴脸",
+      "onboard_time": 1673990052,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 25310,
       "num": 956398,
       "word": "让春节有仪式感的小事",
@@ -507,20 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22453,
-      "num": 22453,
-      "word": "王子文叶文洁好贴脸",
-      "onboard_time": 1673990052,
+      "raw_hot": 20113,
+      "num": 20113,
+      "word": "刘亦菲李现去有风的地方海边剧照",
+      "onboard_time": 1673994372,
       "rank": 48,
       "category": "影视"
     },
     {
-      "raw_hot": 17818,
-      "num": 17818,
-      "word": "妈妈的脾气为什么变差了",
-      "onboard_time": 1673993414,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 16481,
+      "num": 20112,
+      "word": "阳康后你会失眠吗",
+      "onboard_time": 1673994795,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16217,
