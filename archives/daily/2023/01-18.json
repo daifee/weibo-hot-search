@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1673986675980,
+  "endTime": 1673987618240,
   "band_list": [
     {
       "raw_hot": 1441538,
@@ -459,20 +459,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 84101,
+      "num": 58156,
+      "word": "任泽平称放开并鼓励生育刻不容缓",
+      "onboard_time": 1673980755,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80334,
       "num": 80334,
       "word": "本命年怎么穿红才不土",
       "onboard_time": 1673975360,
       "rank": 48,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 73012,
-      "num": 58156,
-      "word": "任泽平称放开并鼓励生育刻不容缓",
-      "onboard_time": 1673980755,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58792,
