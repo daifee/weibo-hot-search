@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674059173079,
+  "endTime": 1674060246757,
   "band_list": [
     {
       "raw_hot": 1579432,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1303997,
-      "num": 376480,
+      "num": 376693,
       "word": "陆虎 求婚",
       "onboard_time": 1674048870,
       "rank": 11,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1287506,
-      "num": 375609,
+      "num": 376543,
       "word": "直面生育损伤",
       "onboard_time": 1674052652,
       "rank": 12,
@@ -91,6 +91,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 420248,
+      "num": 420248,
+      "word": "严浩翔 金发",
+      "onboard_time": 1674058166,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 383713,
+      "num": 383713,
+      "word": "徐杰",
+      "onboard_time": 1674057207,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 378995,
       "num": 378995,
       "word": "许红豆要创业当大老板",
@@ -99,12 +115,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 372431,
-      "num": 372431,
-      "word": "严浩翔 金发",
-      "onboard_time": 1674058166,
-      "rank": 13,
-      "category": "音乐"
+      "raw_hot": 375939,
+      "num": 375939,
+      "word": "银行员工贪污398万整容创业潜逃25年",
+      "onboard_time": 1674058586,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331990,
@@ -112,14 +128,6 @@
       "word": "阿根廷世界杯夺冠一个月",
       "onboard_time": 1674051628,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 327660,
-      "num": 327660,
-      "word": "徐杰",
-      "onboard_time": 1674057207,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -139,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300710,
+      "num": 300710,
+      "word": "张杰收到张国荣张学友的同款定制话筒",
+      "onboard_time": 1674056968,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293394,
       "num": 293394,
       "word": "狂飙第一个内鬼",
@@ -155,20 +171,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275756,
+      "num": 275756,
+      "word": "谢之遥把异地恋小把戏玩明白了",
+      "onboard_time": 1674058406,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250882,
       "num": 250882,
       "word": "WBG战胜TES",
       "onboard_time": 1674053792,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 241910,
-      "num": 241910,
-      "word": "谢之遥把异地恋小把戏玩明白了",
-      "onboard_time": 1674058406,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 241350,
@@ -217,14 +233,6 @@
       "onboard_time": 1674055949,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201334,
-      "num": 201334,
-      "word": "张杰收到张国荣张学友的同款定制话筒",
-      "onboard_time": 1674056968,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 199495,
@@ -307,11 +315,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140308,
-      "num": 140308,
-      "word": "银行员工贪污398万整容创业潜逃25年",
-      "onboard_time": 1674058586,
-      "rank": 38,
+      "raw_hot": 146190,
+      "num": 146190,
+      "word": "生肖卡",
+      "onboard_time": 1674041910,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 146189,
+      "num": 146189,
+      "word": "张杰获微博音乐盛典年度音乐人",
+      "onboard_time": 1674059363,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 143165,
+      "num": 143165,
+      "word": "老板花160分钟做生蚝美甲圆顾客梦",
+      "onboard_time": 1674059425,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -321,6 +345,14 @@
       "onboard_time": 1674051628,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135832,
+      "num": 125794,
+      "word": "王鹤棣白鹿双人手势舞",
+      "onboard_time": 1674059725,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 128325,
@@ -387,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96734,
-      "num": 96734,
-      "word": "生肖卡",
-      "onboard_time": 1674041910,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 59376,
       "num": 550526,
       "word": "大寒除夕春节喜相连",
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#温暖牵挂#"
+    },
+    {
+      "word": "#总书记的新春祝福来了#"
     }
   ]
 }
