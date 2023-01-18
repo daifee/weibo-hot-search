@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674070410619,
+  "endTime": 1674073145705,
   "band_list": [
     {
       "raw_hot": 1579432,
@@ -475,8 +475,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21319,
-      "num": 22680,
+      "raw_hot": 32553,
+      "num": 32553,
       "word": "中金公司回应十大预测错九个",
       "onboard_time": 1674068772,
       "rank": 49,
@@ -489,6 +489,22 @@
       "onboard_time": 1674036568,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 17949,
+      "num": 17949,
+      "word": "自制猫窝原来这么好看",
+      "onboard_time": 1674069793,
+      "rank": 40,
+      "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 14320,
+      "num": 14320,
+      "word": "12岁男孩6年义务为800位老人理发",
+      "onboard_time": 1674073093,
+      "rank": 48,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
