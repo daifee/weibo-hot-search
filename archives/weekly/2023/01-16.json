@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674074031170,
+  "endTime": 1674076595598,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -8155,12 +8155,28 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 36746,
+      "raw_hot": 40347,
+      "num": 20282,
+      "word": "95后男生过年回自家酒店免费帮工",
+      "onboard_time": 1674074591,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37783,
       "num": 36746,
       "word": "中金公司回应十大预测错九个",
       "onboard_time": 1674068772,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 32187,
+      "num": 32187,
+      "word": "12岁男孩6年义务为800位老人理发",
+      "onboard_time": 1674073093,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 31269,
@@ -8195,6 +8211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 22076,
+      "num": 19975,
+      "word": "韩红说比沈腾胖不了太多",
+      "onboard_time": 1674075973,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 20415,
       "num": 20415,
       "word": "华晨宇加盟微博音乐盛典",
@@ -8225,14 +8249,6 @@
       "onboard_time": 1673816291,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 18048,
-      "num": 18048,
-      "word": "12岁男孩6年义务为800位老人理发",
-      "onboard_time": 1674073093,
-      "rank": 48,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 17847,
