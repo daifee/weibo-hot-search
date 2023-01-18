@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674073145705,
+  "endTime": 1674074031170,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -8155,8 +8155,8 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 32553,
-      "num": 32553,
+      "raw_hot": 36746,
+      "num": 36746,
       "word": "中金公司回应十大预测错九个",
       "onboard_time": 1674068772,
       "rank": 49,
@@ -8203,6 +8203,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 20114,
+      "num": 20114,
+      "word": "自制猫窝原来这么好看",
+      "onboard_time": 1674069793,
+      "rank": 40,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 19853,
       "num": 19853,
       "word": "官方回应EVA终海报涉嫌抄袭",
@@ -8219,12 +8227,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 17949,
-      "num": 17949,
-      "word": "自制猫窝原来这么好看",
-      "onboard_time": 1674069793,
-      "rank": 40,
-      "category": "幽默,时尚"
+      "raw_hot": 18048,
+      "num": 18048,
+      "word": "12岁男孩6年义务为800位老人理发",
+      "onboard_time": 1674073093,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 17847,
@@ -8249,14 +8257,6 @@
       "onboard_time": 1673984113,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14320,
-      "num": 14320,
-      "word": "12岁男孩6年义务为800位老人理发",
-      "onboard_time": 1674073093,
-      "rank": 48,
-      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
