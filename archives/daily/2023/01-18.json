@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1674052434932,
+  "endTime": 1674055182571,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -129,6 +129,14 @@
       "onboard_time": 1674035189,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1313017,
+      "num": 496236,
+      "word": "直面生育损伤",
+      "onboard_time": 1674052652,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 1264141,
@@ -355,6 +363,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 766734,
+      "num": 766734,
+      "word": "WBG战胜TES",
+      "onboard_time": 1674053792,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 765838,
       "num": 765838,
       "word": "杜海涛妈妈说看完交换人生想换成雷佳音",
@@ -417,6 +433,14 @@
       "onboard_time": 1674049892,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 712933,
+      "num": 712933,
+      "word": "阿根廷世界杯夺冠一个月",
+      "onboard_time": 1674051628,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 712357,
@@ -571,12 +595,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 615757,
+      "num": 615757,
+      "word": "男子花30元中100万车门未关彩票被偷",
+      "onboard_time": 1674051993,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 597606,
       "num": 597606,
       "word": "你这人刚刚好 刚刚好是我喜欢的类型",
       "onboard_time": 1674000444,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 592544,
+      "num": 592544,
+      "word": "奶奶花6元在家给3岁孙子烫发",
+      "onboard_time": 1674050132,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 584978,
@@ -641,14 +681,6 @@
       "onboard_time": 1674036150,
       "rank": 30,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 546213,
-      "num": 546213,
-      "word": "奶奶花6元在家给3岁孙子烫发",
-      "onboard_time": 1674050132,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 544506,
@@ -1099,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343702,
+      "num": 343702,
+      "word": "男子买灌香肠起诉其为三无产品被法院驳回",
+      "onboard_time": 1674054269,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341554,
       "num": 341554,
       "word": "微博音乐盛典红毯",
@@ -1195,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319839,
+      "num": 242446,
+      "word": "浮图缘今晚好解气",
+      "onboard_time": 1674054510,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317850,
       "num": 317850,
       "word": "杨幂龚俊时尚芭莎封面",
@@ -1283,6 +1331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 299936,
+      "num": 239857,
+      "word": "谢之遥说谢谢许红豆远方寄来的礼物",
+      "onboard_time": 1674053252,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298581,
       "num": 198339,
       "word": "于和伟三体游戏刚上线就下线",
@@ -1313,14 +1369,6 @@
       "onboard_time": 1674025947,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 295318,
-      "num": 295318,
-      "word": "阿根廷世界杯夺冠一个月",
-      "onboard_time": 1674051628,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 294945,
@@ -1521,6 +1569,14 @@
       "onboard_time": 1674013649,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 260483,
+      "num": 230661,
+      "word": "陈泗旭 聊天记录",
+      "onboard_time": 1674054929,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 260314,
@@ -1731,11 +1787,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 235115,
+      "num": 191767,
+      "word": "王一博说无名的文戏也惊心动魄",
+      "onboard_time": 1674055108,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233390,
       "num": 233390,
       "word": "单依纯音色",
       "onboard_time": 1674048449,
       "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 230337,
+      "num": 186213,
+      "word": "李宇春获年度影响力音乐人",
+      "onboard_time": 1674054208,
+      "rank": 35,
       "category": "音乐"
     },
     {
@@ -2003,6 +2075,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197032,
+      "num": 156246,
+      "word": "三体游戏还原度",
+      "onboard_time": 1674054149,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196879,
+      "num": 154231,
+      "word": "三体值得",
+      "onboard_time": 1674054752,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196376,
       "num": 196376,
       "word": "红豆遥遥冰成熟的爱情",
@@ -2048,6 +2136,14 @@
       "word": "中国乒乓首映礼",
       "onboard_time": 1674026608,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192728,
+      "num": 153476,
+      "word": "史强脱水汪淼急了",
+      "onboard_time": 1674055049,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -2267,6 +2363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169194,
+      "num": 169194,
+      "word": "回家的快乐",
+      "onboard_time": 1674054989,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168893,
       "num": 168893,
       "word": "于和伟在三体跳广场舞",
@@ -2379,12 +2483,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 154868,
+      "num": 154868,
+      "word": "成年人为什么不喜欢过年了",
+      "onboard_time": 1674054510,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153582,
       "num": 152079,
       "word": "程耳问你们今天会上链接吗",
       "onboard_time": 1674028164,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153402,
+      "num": 153402,
+      "word": "homepod",
+      "onboard_time": 1674054688,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 151345,
@@ -2531,14 +2651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135778,
-      "num": 135778,
-      "word": "男子花30元中100万车门未关彩票被偷",
-      "onboard_time": 1674051993,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135112,
       "num": 135112,
       "word": "一学就会画的放烟花小白兔",
@@ -2561,6 +2673,14 @@
       "onboard_time": 1674028047,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132310,
+      "num": 132310,
+      "word": "苹果发布第二代HomePod",
+      "onboard_time": 1674054869,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 127545,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1674055182571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1514961,
+        "num": 1514961,
+        "word": "三体 脱水",
+        "onboard_time": 1674049593,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1142680,
+        "num": 1142680,
+        "word": "好欢螺",
+        "onboard_time": 1674045031,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 93962,
+        "num": 950557,
+        "word": "大寒除夕春节喜相连",
+        "onboard_time": 1674044190,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806878,
+        "num": 806878,
+        "word": "台湾禁售麻辣花生",
+        "onboard_time": 1674034407,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 766734,
+        "num": 766734,
+        "word": "WBG战胜TES",
+        "onboard_time": 1674053792,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 712933,
+        "num": 712933,
+        "word": "阿根廷世界杯夺冠一个月",
+        "onboard_time": 1674051628,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 615757,
+        "num": 615757,
+        "word": "男子花30元中100万车门未关彩票被偷",
+        "onboard_time": 1674051993,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592544,
+        "num": 592544,
+        "word": "奶奶花6元在家给3岁孙子烫发",
+        "onboard_time": 1674050132,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570504,
+        "num": 570504,
+        "word": "张艺兴舞台牵单依纯出场",
+        "onboard_time": 1674043109,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 527030,
+        "num": 527030,
+        "word": "沈梦辰说嫁给海涛嫁对了",
+        "onboard_time": 1674035189,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2245248,
+        "num": 504591,
+        "word": "陆虎 求婚",
+        "onboard_time": 1674048870,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1313017,
+        "num": 496236,
+        "word": "直面生育损伤",
+        "onboard_time": 1674052652,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 481419,
+        "num": 481419,
+        "word": "37岁离异女博士与小13岁吉他老师相恋",
+        "onboard_time": 1674034706,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459545,
+        "num": 459545,
+        "word": "狂飙第一个内鬼",
+        "onboard_time": 1674041249,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454001,
+        "num": 454001,
+        "word": "谭松韵和云南山区孩子上诗歌课",
+        "onboard_time": 1674051628,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444317,
+        "num": 444317,
+        "word": "一中国女子在韩国接受整容手术中途身亡",
+        "onboard_time": 1674032366,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423018,
+        "num": 423018,
+        "word": "刘耀文腿伤坐轮椅",
+        "onboard_time": 1674050192,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383404,
+        "num": 383404,
+        "word": "宋亚轩学生证丢了",
+        "onboard_time": 1674044908,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343702,
+        "num": 343702,
+        "word": "男子买灌香肠起诉其为三无产品被法院驳回",
+        "onboard_time": 1674054269,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351841,
+        "num": 338876,
+        "word": "宋亚轩说哀家长头发啦",
+        "onboard_time": 1674051750,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330861,
+        "num": 330861,
+        "word": "阿娇蓝色大海美人鱼造型",
+        "onboard_time": 1674039870,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 326912,
+        "num": 326912,
+        "word": "狂飙12集封神",
+        "onboard_time": 1674047908,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257740,
+        "num": 257740,
+        "word": "Karsa出场整活",
+        "onboard_time": 1674048927,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 324339,
+        "num": 248414,
+        "word": "周震南父母被恢复执行5850万",
+        "onboard_time": 1674037887,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319839,
+        "num": 242446,
+        "word": "浮图缘今晚好解气",
+        "onboard_time": 1674054510,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299936,
+        "num": 239857,
+        "word": "谢之遥说谢谢许红豆远方寄来的礼物",
+        "onboard_time": 1674053252,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234287,
+        "num": 234287,
+        "word": "女子回家过年吐槽祖孙3代一张脸",
+        "onboard_time": 1674047070,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260483,
+        "num": 230661,
+        "word": "陈泗旭 聊天记录",
+        "onboard_time": 1674054929,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224881,
+        "num": 224881,
+        "word": "医保局不会再就Paxlovid举行谈判",
+        "onboard_time": 1674046891,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194851,
+        "num": 194851,
+        "word": "天才翻译家金晓宇的父亲去世",
+        "onboard_time": 1674047009,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259514,
+        "num": 193320,
+        "word": "GAI和严浩翔打招呼",
+        "onboard_time": 1674049892,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235115,
+        "num": 191767,
+        "word": "王一博说无名的文戏也惊心动魄",
+        "onboard_time": 1674055108,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252461,
+        "num": 191283,
+        "word": "毛不易刘宇宁大喜大悲组合",
+        "onboard_time": 1674048028,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189472,
+        "num": 189472,
+        "word": "叫声很委屈的小狗",
+        "onboard_time": 1674051029,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 230541,
+        "num": 186969,
+        "word": "于和伟三体游戏刚上线就下线",
+        "onboard_time": 1674050430,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230337,
+        "num": 186213,
+        "word": "李宇春获年度影响力音乐人",
+        "onboard_time": 1674054208,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229512,
+        "num": 185709,
+        "word": "谢阿奶一直在悄悄给谢之遥存钱",
+        "onboard_time": 1674046531,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182262,
+        "num": 182262,
+        "word": "好欢螺呼吁网友理性消费",
+        "onboard_time": 1674040891,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169194,
+        "num": 169194,
+        "word": "回家的快乐",
+        "onboard_time": 1674054989,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157151,
+        "num": 157151,
+        "word": "广东男篮战胜辽宁男篮",
+        "onboard_time": 1674051391,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200358,
+        "num": 156770,
+        "word": "纽约时报盛赞刘亦菲演的许红豆",
+        "onboard_time": 1674040113,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197032,
+        "num": 156246,
+        "word": "三体游戏还原度",
+        "onboard_time": 1674054149,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154868,
+        "num": 154868,
+        "word": "成年人为什么不喜欢过年了",
+        "onboard_time": 1674054510,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196879,
+        "num": 154231,
+        "word": "三体值得",
+        "onboard_time": 1674054752,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150603,
+        "num": 153484,
+        "word": "官方通报山姆会员店销售蓝环章鱼",
+        "onboard_time": 1674038789,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192728,
+        "num": 153476,
+        "word": "史强脱水汪淼急了",
+        "onboard_time": 1674055049,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153402,
+        "num": 153402,
+        "word": "homepod",
+        "onboard_time": 1674054688,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 150677,
+        "num": 150677,
+        "word": "Rookie出场秀",
+        "onboard_time": 1674049410,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137489,
+        "num": 137489,
+        "word": "WBG对战TES",
+        "onboard_time": 1674046708,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132310,
+        "num": 132310,
+        "word": "苹果发布第二代HomePod",
+        "onboard_time": 1674054869,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春祝福来了#"
+    }
+  }
+}

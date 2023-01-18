@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674052434932,
+  "endTime": 1674055182571,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -489,6 +489,14 @@
       "onboard_time": 1673945429,
       "rank": 5,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 1313017,
+      "num": 496236,
+      "word": "直面生育损伤",
+      "onboard_time": 1674052652,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 1301562,
@@ -1195,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 766734,
+      "num": 766734,
+      "word": "WBG战胜TES",
+      "onboard_time": 1674053792,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 765838,
       "num": 765838,
       "word": "杜海涛妈妈说看完交换人生想换成雷佳音",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1673948306,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 712933,
+      "num": 712933,
+      "word": "阿根廷世界杯夺冠一个月",
+      "onboard_time": 1674051628,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 712675,
@@ -1755,6 +1779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 615757,
+      "num": 615757,
+      "word": "男子花30元中100万车门未关彩票被偷",
+      "onboard_time": 1674051993,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 614404,
       "num": 614404,
       "word": "提振生育积极性还得从减负着手",
@@ -1809,6 +1841,14 @@
       "onboard_time": 1674000444,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 592544,
+      "num": 592544,
+      "word": "奶奶花6元在家给3岁孙子烫发",
+      "onboard_time": 1674050132,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 589962,
@@ -2017,14 +2057,6 @@
       "onboard_time": 1673921666,
       "rank": 16,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 546213,
-      "num": 546213,
-      "word": "奶奶花6元在家给3岁孙子烫发",
-      "onboard_time": 1674050132,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 545185,
@@ -3379,6 +3411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343702,
+      "num": 343702,
+      "word": "男子买灌香肠起诉其为三无产品被法院驳回",
+      "onboard_time": 1674054269,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341722,
       "num": 272529,
       "word": "胡歌误入史上最强赘婿剧组",
@@ -3699,6 +3739,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 319839,
+      "num": 242446,
+      "word": "浮图缘今晚好解气",
+      "onboard_time": 1674054510,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 319804,
       "num": 319804,
       "word": "中国足协杯奖杯被掰断",
@@ -3955,6 +4003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299936,
+      "num": 239857,
+      "word": "谢之遥说谢谢许红豆远方寄来的礼物",
+      "onboard_time": 1674053252,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298581,
       "num": 198339,
       "word": "于和伟三体游戏刚上线就下线",
@@ -4017,14 +4073,6 @@
       "onboard_time": 1673964031,
       "rank": 38,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 295318,
-      "num": 295318,
-      "word": "阿根廷世界杯夺冠一个月",
-      "onboard_time": 1674051628,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 294945,
@@ -4675,6 +4723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260483,
+      "num": 230661,
+      "word": "陈泗旭 聊天记录",
+      "onboard_time": 1674054929,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260314,
       "num": 260314,
       "word": "30岁女子大弟弟妹妹20几岁",
@@ -5083,6 +5139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 235115,
+      "num": 191767,
+      "word": "王一博说无名的文戏也惊心动魄",
+      "onboard_time": 1674055108,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234500,
       "num": 234500,
       "word": "2023KPL春季转会期",
@@ -5153,6 +5217,14 @@
       "onboard_time": 1673914706,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230337,
+      "num": 186213,
+      "word": "李宇春获年度影响力音乐人",
+      "onboard_time": 1674054208,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 230264,
@@ -5715,6 +5787,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197032,
+      "num": 156246,
+      "word": "三体游戏还原度",
+      "onboard_time": 1674054149,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196879,
+      "num": 154231,
+      "word": "三体值得",
+      "onboard_time": 1674054752,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196376,
       "num": 196376,
       "word": "红豆遥遥冰成熟的爱情",
@@ -5792,6 +5880,14 @@
       "word": "中国乒乓首映礼",
       "onboard_time": 1674026608,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192728,
+      "num": 153476,
+      "word": "史强脱水汪淼急了",
+      "onboard_time": 1674055049,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -6291,6 +6387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169194,
+      "num": 169194,
+      "word": "回家的快乐",
+      "onboard_time": 1674054989,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168964,
       "num": 168964,
       "word": "年后再说",
@@ -6587,6 +6691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154868,
+      "num": 154868,
+      "word": "成年人为什么不喜欢过年了",
+      "onboard_time": 1674054510,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153866,
       "num": 153866,
       "word": "这狗怎么这么像法棍啊",
@@ -6601,6 +6713,14 @@
       "onboard_time": 1674028164,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153402,
+      "num": 153402,
+      "word": "homepod",
+      "onboard_time": 1674054688,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 152025,
@@ -6987,14 +7107,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 135778,
-      "num": 135778,
-      "word": "男子花30元中100万车门未关彩票被偷",
-      "onboard_time": 1674051993,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135408,
       "num": 135408,
       "word": "别忘了我们在月球还有2只小兔子",
@@ -7025,6 +7137,14 @@
       "onboard_time": 1674028047,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132310,
+      "num": 132310,
+      "word": "苹果发布第二代HomePod",
+      "onboard_time": 1674054869,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 131352,
