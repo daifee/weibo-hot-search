@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1674015782985,
+  "endTime": 1674016703479,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1830281,
-      "num": 494620,
+      "num": 495744,
       "word": "日本刘大锤",
       "onboard_time": 1674013708,
       "rank": 13,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1133922,
+      "num": 1133922,
+      "word": "山姆回应蓝环章鱼事件",
+      "onboard_time": 1674014369,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1021281,
       "num": 1021281,
       "word": "原来做饭真的会加速女性衰老",
@@ -107,6 +115,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 935335,
+      "num": 935335,
+      "word": "宋慧乔黑暗荣耀2定档",
+      "onboard_time": 1674014667,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 908694,
       "num": 908694,
       "word": "李现演技",
@@ -115,16 +131,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 842910,
-      "num": 842910,
-      "word": "宋慧乔黑暗荣耀2定档",
-      "onboard_time": 1674014667,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 840450,
-      "num": 840450,
+      "raw_hot": 844016,
+      "num": 844016,
       "word": "给你发钱你愿意生孩子吗",
       "onboard_time": 1674009266,
       "rank": 33,
@@ -160,14 +168,6 @@
       "word": "重庆街头巨型兔子灯被市民吐槽太丑",
       "onboard_time": 1674004825,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 780776,
-      "num": 495584,
-      "word": "山姆回应蓝环章鱼事件",
-      "onboard_time": 1674014369,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 621495,
+      "num": 621495,
+      "word": "孙俪 我问邓先生今天天气预报",
+      "onboard_time": 1674014426,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 617289,
       "num": 617289,
       "word": "网红男球员发表羞辱女性言论被禁赛",
@@ -299,14 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 514750,
-      "num": 495294,
-      "word": "孙俪 我问邓先生今天天气预报",
-      "onboard_time": 1674014426,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 512704,
       "num": 512704,
       "word": "去有风的地方",
@@ -337,6 +337,14 @@
       "onboard_time": 1674003746,
       "rank": 12,
       "category": "科技"
+    },
+    {
+      "raw_hot": 477865,
+      "num": 477865,
+      "word": "周焯华获刑18年",
+      "onboard_time": 1674015147,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 430638,
@@ -459,6 +467,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 338682,
+      "num": 338682,
+      "word": "孙怡老北京胡同过年vlog",
+      "onboard_time": 1674016167,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332638,
       "num": 332638,
       "word": "想见你首曝王诠胜刘宇恒海报",
@@ -475,20 +491,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330773,
+      "num": 330773,
+      "word": "今年春节档电影到底有多强",
+      "onboard_time": 1674014426,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326492,
       "num": 326492,
       "word": "陈泗旭后援会推荐歌曲活该",
       "onboard_time": 1674006926,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319251,
-      "num": 319251,
-      "word": "今年春节档电影到底有多强",
-      "onboard_time": 1674014426,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 317850,
@@ -537,6 +553,14 @@
       "onboard_time": 1674011970,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289620,
+      "num": 289620,
+      "word": "王鹤棣对陈钰琪说娘娘这也太隆重了吧",
+      "onboard_time": 1674015688,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 279976,
@@ -603,19 +627,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 273828,
-      "num": 273828,
-      "word": "周焯华获刑18年",
-      "onboard_time": 1674015147,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272402,
       "num": 272402,
       "word": "网易称暴雪声明蛮横不得体",
       "onboard_time": 1673997738,
       "rank": 9,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 266482,
+      "num": 266482,
+      "word": "YSKM说想超越TheShy",
+      "onboard_time": 1674015207,
+      "rank": 43,
       "category": "游戏"
     },
     {
@@ -713,6 +737,14 @@
       "onboard_time": 1673957728,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245828,
+      "num": 245828,
+      "word": "韩红说从今以后就迈入了电影音乐创作这条路",
+      "onboard_time": 1674016646,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 241930,
@@ -843,12 +875,12 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 199511,
-      "num": 199511,
-      "word": "王鹤棣对陈钰琪说娘娘这也太隆重了吧",
-      "onboard_time": 1674015688,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 199803,
+      "num": 199803,
+      "word": "大侦探8开播你会追吗",
+      "onboard_time": 1674016108,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 197239,
@@ -865,14 +897,6 @@
       "onboard_time": 1674001885,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193215,
-      "num": 193215,
-      "word": "YSKM说想超越TheShy",
-      "onboard_time": 1674015207,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 192011,
@@ -939,11 +963,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177758,
+      "num": 494705,
+      "word": "原神3.4版本更新 艾尔海森",
+      "onboard_time": 1674014426,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176818,
       "num": 176818,
       "word": "网友评选的收视率四杰",
       "onboard_time": 1673996535,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 172162,
+      "num": 172162,
+      "word": "刘昊然冬日颓废感剧照",
+      "onboard_time": 1674015867,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -1049,14 +1089,6 @@
       "onboard_time": 1673963310,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 131313,
-      "num": 494301,
-      "word": "原神3.4版本更新 艾尔海森",
-      "onboard_time": 1674014426,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 127545,

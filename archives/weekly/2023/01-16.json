@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674015782985,
+  "endTime": 1674016703479,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1830281,
-      "num": 494620,
+      "num": 495744,
       "word": "日本刘大锤",
       "onboard_time": 1674013708,
       "rank": 13,
@@ -563,6 +563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1133922,
+      "num": 1133922,
+      "word": "山姆回应蓝环章鱼事件",
+      "onboard_time": 1674014369,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1127613,
       "num": 1093075,
       "word": "丈夫给情人转账20万元原配成功追回",
@@ -739,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 935335,
+      "num": 935335,
+      "word": "宋慧乔黑暗荣耀2定档",
+      "onboard_time": 1674014667,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 930485,
       "num": 930485,
       "word": "小马云表哥致歉",
@@ -875,16 +891,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 842910,
-      "num": 842910,
-      "word": "宋慧乔黑暗荣耀2定档",
-      "onboard_time": 1674014667,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 840450,
-      "num": 840450,
+      "raw_hot": 844016,
+      "num": 844016,
       "word": "给你发钱你愿意生孩子吗",
       "onboard_time": 1674009266,
       "rank": 33,
@@ -993,14 +1001,6 @@
       "onboard_time": 1673842530,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 780776,
-      "num": 495584,
-      "word": "山姆回应蓝环章鱼事件",
-      "onboard_time": 1674014369,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 772610,
@@ -1403,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 621495,
+      "num": 621495,
+      "word": "孙俪 我问邓先生今天天气预报",
+      "onboard_time": 1674014426,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 619721,
       "num": 619721,
       "word": "00后和父母买年货的代沟",
@@ -1771,14 +1779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 514750,
-      "num": 495294,
-      "word": "孙俪 我问邓先生今天天气预报",
-      "onboard_time": 1674014426,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 512704,
       "num": 512704,
       "word": "去有风的地方",
@@ -1937,6 +1937,14 @@
       "onboard_time": 1673846610,
       "rank": 12,
       "category": "科技"
+    },
+    {
+      "raw_hot": 477865,
+      "num": 477865,
+      "word": "周焯华获刑18年",
+      "onboard_time": 1674015147,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470344,
@@ -2779,6 +2787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338682,
+      "num": 338682,
+      "word": "孙怡老北京胡同过年vlog",
+      "onboard_time": 1674016167,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338415,
       "num": 338415,
       "word": "转阴后9种常见遗留症状",
@@ -2865,6 +2881,14 @@
       "onboard_time": 1673976019,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330773,
+      "num": 330773,
+      "word": "今年春节档电影到底有多强",
+      "onboard_time": 1674014426,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 330348,
@@ -3017,14 +3041,6 @@
       "onboard_time": 1673799327,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319251,
-      "num": 319251,
-      "word": "今年春节档电影到底有多强",
-      "onboard_time": 1674014426,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 318902,
@@ -3331,6 +3347,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 289620,
+      "num": 289620,
+      "word": "王鹤棣对陈钰琪说娘娘这也太隆重了吧",
+      "onboard_time": 1674015688,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289085,
       "num": 191344,
       "word": "都暻秀翻唱伯贤的Unvillage",
@@ -3507,14 +3531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 273828,
-      "num": 273828,
-      "word": "周焯华获刑18年",
-      "onboard_time": 1674015147,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273743,
       "num": 153184,
       "word": "张艺兴live实力",
@@ -3649,6 +3665,14 @@
       "onboard_time": 1673921129,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266482,
+      "num": 266482,
+      "word": "YSKM说想超越TheShy",
+      "onboard_time": 1674015207,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 266327,
@@ -3985,6 +4009,14 @@
       "onboard_time": 1673921608,
       "rank": 25,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 245828,
+      "num": 245828,
+      "word": "韩红说从今以后就迈入了电影音乐创作这条路",
+      "onboard_time": 1674016646,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 244899,
@@ -4539,12 +4571,12 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 199511,
-      "num": 199511,
-      "word": "王鹤棣对陈钰琪说娘娘这也太隆重了吧",
-      "onboard_time": 1674015688,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 199803,
+      "num": 199803,
+      "word": "大侦探8开播你会追吗",
+      "onboard_time": 1674016108,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 198638,
@@ -4625,14 +4657,6 @@
       "onboard_time": 1673931630,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193215,
-      "num": 193215,
-      "word": "YSKM说想超越TheShy",
-      "onboard_time": 1674015207,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 192487,
@@ -4843,6 +4867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177758,
+      "num": 494705,
+      "word": "原神3.4版本更新 艾尔海森",
+      "onboard_time": 1674014426,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177696,
       "num": 177696,
       "word": "年轻人的红包封面比红包多",
@@ -4937,6 +4969,14 @@
       "onboard_time": 1673871450,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172162,
+      "num": 172162,
+      "word": "刘昊然冬日颓废感剧照",
+      "onboard_time": 1674015867,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 170859,
@@ -5537,14 +5577,6 @@
       "onboard_time": 1673840665,
       "rank": 43,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 131313,
-      "num": 494301,
-      "word": "原神3.4版本更新 艾尔海森",
-      "onboard_time": 1674014426,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 130740,

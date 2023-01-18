@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674015782985,
+  "endTime": 1674016703479,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -1324,7 +1324,7 @@
     },
     {
       "raw_hot": 1830281,
-      "num": 494620,
+      "num": 495744,
       "word": "日本刘大锤",
       "onboard_time": 1674013708,
       "rank": 13,
@@ -3675,6 +3675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1133922,
+      "num": 1133922,
+      "word": "山姆回应蓝环章鱼事件",
+      "onboard_time": 1674014369,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1133440,
       "num": 1133440,
       "word": "女子拒绝公开恋爱关系砍伤男友",
@@ -5003,6 +5011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 935335,
+      "num": 935335,
+      "word": "宋慧乔黑暗荣耀2定档",
+      "onboard_time": 1674014667,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 935248,
       "num": 935248,
       "word": "各国抢中国游客纷纷放大招",
@@ -6067,20 +6083,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 844016,
+      "num": 844016,
+      "word": "给你发钱你愿意生孩子吗",
+      "onboard_time": 1674009266,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 843389,
       "num": 843389,
       "word": "万柳书院开发商已成被执行人",
       "onboard_time": 1672816107,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 842910,
-      "num": 842910,
-      "word": "宋慧乔黑暗荣耀2定档",
-      "onboard_time": 1674014667,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 842690,
@@ -6097,14 +6113,6 @@
       "onboard_time": 1672726528,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 840450,
-      "num": 840450,
-      "word": "给你发钱你愿意生孩子吗",
-      "onboard_time": 1674009266,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 840288,
@@ -6921,14 +6929,6 @@
       "onboard_time": 1673842530,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 780776,
-      "num": 495584,
-      "word": "山姆回应蓝环章鱼事件",
-      "onboard_time": 1674014369,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 779523,
@@ -9521,6 +9521,14 @@
       "onboard_time": 1672566328,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 621495,
+      "num": 621495,
+      "word": "孙俪 我问邓先生今天天气预报",
+      "onboard_time": 1674014426,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 620256,
@@ -12243,14 +12251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 514750,
-      "num": 495294,
-      "word": "孙俪 我问邓先生今天天气预报",
-      "onboard_time": 1674014426,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 514716,
       "num": 456785,
       "word": "新郎带新娘到医院给重症父亲磕头",
@@ -13449,6 +13449,14 @@
       "onboard_time": 1673159910,
       "rank": 9,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 477865,
+      "num": 477865,
+      "word": "周焯华获刑18年",
+      "onboard_time": 1674015147,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 477864,
@@ -19971,6 +19979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 338682,
+      "num": 338682,
+      "word": "孙怡老北京胡同过年vlog",
+      "onboard_time": 1674016167,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338508,
       "num": 338508,
       "word": "男子准备20斤1元硬币送新婚好友",
@@ -20513,6 +20529,14 @@
       "onboard_time": 1673976019,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330773,
+      "num": 330773,
+      "word": "今年春节档电影到底有多强",
+      "onboard_time": 1674014426,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 330711,
@@ -21264,14 +21288,6 @@
       "word": "梁朝伟说和程耳交流不需要讲很多话",
       "onboard_time": 1673596469,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 319251,
-      "num": 319251,
-      "word": "今年春节档电影到底有多强",
-      "onboard_time": 1674014426,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -23299,6 +23315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289620,
+      "num": 289620,
+      "word": "王鹤棣对陈钰琪说娘娘这也太隆重了吧",
+      "onboard_time": 1674015688,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289470,
       "num": 205188,
       "word": "肖铎说我们成亲了",
@@ -24715,14 +24739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 273828,
-      "num": 273828,
-      "word": "周焯华获刑18年",
-      "onboard_time": 1674015147,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273811,
       "num": 273811,
       "word": "金泰妍中文新歌",
@@ -25456,6 +25472,14 @@
       "word": "WBG老板否认RNG用小虎抵债",
       "onboard_time": 1673333549,
       "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 266482,
+      "num": 266482,
+      "word": "YSKM说想超越TheShy",
+      "onboard_time": 1674015207,
+      "rank": 43,
       "category": "游戏"
     },
     {
@@ -27304,6 +27328,14 @@
       "word": "刘亦菲片场和马玩",
       "onboard_time": 1673060608,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 245828,
+      "num": 245828,
+      "word": "韩红说从今以后就迈入了电影音乐创作这条路",
+      "onboard_time": 1674016646,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -31123,6 +31155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199803,
+      "num": 199803,
+      "word": "大侦探8开播你会追吗",
+      "onboard_time": 1674016108,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199758,
       "num": 199758,
       "word": "Hero鸿兔大展新年照",
@@ -31153,14 +31193,6 @@
       "onboard_time": 1672827513,
       "rank": 44,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 199511,
-      "num": 199511,
-      "word": "王鹤棣对陈钰琪说娘娘这也太隆重了吧",
-      "onboard_time": 1674015688,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 199471,
@@ -31865,14 +31897,6 @@
       "onboard_time": 1672640548,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193215,
-      "num": 193215,
-      "word": "YSKM说想超越TheShy",
-      "onboard_time": 1674015207,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 193180,
@@ -33659,6 +33683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177758,
+      "num": 494705,
+      "word": "原神3.4版本更新 艾尔海森",
+      "onboard_time": 1674014426,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177706,
       "num": 150072,
       "word": "谢之遥只有时间和许红豆谈朋友",
@@ -34288,6 +34320,14 @@
       "word": "用冰雪还原沉香与君名场面",
       "onboard_time": 1672713147,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 172162,
+      "num": 172162,
+      "word": "刘昊然冬日颓废感剧照",
+      "onboard_time": 1674015867,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -38585,14 +38625,6 @@
       "onboard_time": 1673840665,
       "rank": 43,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 131313,
-      "num": 494301,
-      "word": "原神3.4版本更新 艾尔海森",
-      "onboard_time": 1674014426,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 131239,
