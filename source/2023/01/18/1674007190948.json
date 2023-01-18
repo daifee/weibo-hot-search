@@ -1,0 +1,410 @@
+{
+  "runTime": 1674007190948,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1787378,
+        "num": 1787378,
+        "word": "吃播账号浪胃仙被判属原公司",
+        "onboard_time": 1674001587,
+        "rank": 0,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 1446388,
+        "num": 1446388,
+        "word": "浪胃仙创始人被逮捕",
+        "onboard_time": 1674005605,
+        "rank": 1,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 25400,
+        "num": 1130368,
+        "word": "让春节有仪式感的小事",
+        "onboard_time": 1673912001,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1124991,
+        "num": 1124991,
+        "word": "网易称暴雪离婚不离身",
+        "onboard_time": 1673997798,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1004779,
+        "num": 1004779,
+        "word": "原来做饭真的会加速女性衰老",
+        "onboard_time": 1674002126,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 813420,
+        "num": 813420,
+        "word": "新生儿成白肺医生跪地抢救",
+        "onboard_time": 1674005006,
+        "rank": 5,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 793657,
+        "num": 793657,
+        "word": "重庆街头巨型兔子灯被市民吐槽太丑",
+        "onboard_time": 1674004825,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775429,
+        "num": 775429,
+        "word": "李现演技",
+        "onboard_time": 1673997677,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 748616,
+        "num": 748616,
+        "word": "妈妈买900斤橘子等女儿回家过年",
+        "onboard_time": 1674004825,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576042,
+        "num": 576042,
+        "word": "网红男球员发表羞辱女性言论被禁赛",
+        "onboard_time": 1673997858,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569113,
+        "num": 569113,
+        "word": "木子洋说拍戏时导演扔下剧组去看迪丽热巴",
+        "onboard_time": 1673999844,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 557676,
+        "num": 557676,
+        "word": "谁家丫鬟一米九",
+        "onboard_time": 1673999783,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 529725,
+        "num": 529725,
+        "word": "鼓励生育要先解决年轻人的后顾之忧",
+        "onboard_time": 1674003868,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492678,
+        "num": 492678,
+        "word": "库里南",
+        "onboard_time": 1674000745,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458496,
+        "num": 458496,
+        "word": "福兔",
+        "onboard_time": 1674003746,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 457170,
+        "num": 457170,
+        "word": "你这人刚刚好 刚刚好是我喜欢的类型",
+        "onboard_time": 1674000444,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 453238,
+        "num": 453238,
+        "word": "5岁外甥和6岁舅舅处成兄弟",
+        "onboard_time": 1673997258,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381741,
+        "num": 381741,
+        "word": "易烊千玺戳酒窝",
+        "onboard_time": 1674005487,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373245,
+        "num": 373245,
+        "word": "东方甄选半年带货48亿利润5.85亿",
+        "onboard_time": 1674005184,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 350394,
+        "num": 350394,
+        "word": "缩短教育时间",
+        "onboard_time": 1674005426,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348408,
+        "num": 348408,
+        "word": "深圳一网友称在山姆买到蓝环章鱼",
+        "onboard_time": 1673964031,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344486,
+        "num": 344486,
+        "word": "FF宣布与湖北省黄冈市签订战略协议",
+        "onboard_time": 1674005306,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 326492,
+        "num": 326492,
+        "word": "陈泗旭后援会推荐歌曲活该",
+        "onboard_time": 1674006926,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300015,
+        "num": 300015,
+        "word": "专家称不要轻言人口红利消失",
+        "onboard_time": 1673997858,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279876,
+        "num": 279876,
+        "word": "李永钦尹净汉同框",
+        "onboard_time": 1674006926,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271011,
+        "num": 271011,
+        "word": "文春预告KPOP爱豆恋情",
+        "onboard_time": 1673957126,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254543,
+        "num": 254543,
+        "word": "网易称暴雪声明蛮横不得体",
+        "onboard_time": 1673997738,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248667,
+        "num": 248667,
+        "word": "谢之遥的表白里全是爱和克制",
+        "onboard_time": 1674005727,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245559,
+        "num": 245559,
+        "word": "谁家马桶会装在衣柜里啊",
+        "onboard_time": 1673999664,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185214,
+        "num": 241663,
+        "word": "韩总统夫人穿军装被批抢总统风头",
+        "onboard_time": 1673962290,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 529580,
+        "num": 241277,
+        "word": "第一次见火车高级软卧",
+        "onboard_time": 1674006146,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240260,
+        "num": 240260,
+        "word": "王俊凯再秀刀妹",
+        "onboard_time": 1673969068,
+        "rank": 31,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 237217,
+        "num": 237217,
+        "word": "山村老人创业做猫窝1年增收万元",
+        "onboard_time": 1674005548,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218050,
+        "num": 218050,
+        "word": "王者牛魔新皮肤牛运亨通",
+        "onboard_time": 1674006087,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214033,
+        "num": 214033,
+        "word": "西安啊那没事了",
+        "onboard_time": 1673971108,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194081,
+        "num": 194081,
+        "word": "李雪琴 看完深海嚎啕大哭",
+        "onboard_time": 1674006808,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193875,
+        "num": 193875,
+        "word": "马丽说今年春晚小品题材是挑战",
+        "onboard_time": 1673977158,
+        "rank": 36,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 188190,
+        "num": 188190,
+        "word": "曝以爱为营剧组破坏小区公物",
+        "onboard_time": 1673998641,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183522,
+        "num": 183522,
+        "word": "全世界苹果都流淌着中国苹果血",
+        "onboard_time": 1673976019,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181017,
+        "num": 181017,
+        "word": "安徽一劳斯莱斯婚车撞上石墩受损严重",
+        "onboard_time": 1673963369,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174062,
+        "num": 174062,
+        "word": "河南一企业年终奖堆成钱山",
+        "onboard_time": 1673967693,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169181,
+        "num": 169181,
+        "word": "高三放假领10斤猪肉什么感觉",
+        "onboard_time": 1673998942,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 161597,
+        "num": 161597,
+        "word": "红豆遥遥冰成熟的爱情",
+        "onboard_time": 1674001885,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159587,
+        "num": 159587,
+        "word": "王一博宣传无名好拼",
+        "onboard_time": 1673999723,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151308,
+        "num": 151308,
+        "word": "深海不是它们 它就是自己",
+        "onboard_time": 1674001284,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149488,
+        "num": 149488,
+        "word": "勇士造访白宫",
+        "onboard_time": 1674005847,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149274,
+        "num": 149274,
+        "word": "上海豫园灯会复原山海经神兽",
+        "onboard_time": 1674006745,
+        "rank": 46,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 145900,
+        "num": 145900,
+        "word": "目前还没阳过是什么原因",
+        "onboard_time": 1674007168,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 144693,
+        "num": 144693,
+        "word": "现金补贴能提高生育率吗",
+        "onboard_time": 1674000085,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138251,
+        "num": 138251,
+        "word": "三体世界里的物理学家",
+        "onboard_time": 1674000985,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#赏年俗品年味#"
+    }
+  }
+}
