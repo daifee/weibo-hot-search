@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674063205545,
+  "endTime": 1674066146183,
   "band_list": [
     {
       "raw_hot": 1579432,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92707,
+      "num": 92707,
+      "word": "练书法和学美术的都沉默了",
+      "onboard_time": 1674063797,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85534,
       "num": 80354,
       "word": "刘宇红毯怼脸图",
@@ -427,20 +435,20 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 79201,
+      "num": 79201,
+      "word": "杨超越徐正溪重紫片场花絮",
+      "onboard_time": 1674062958,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 68594,
       "num": 68594,
       "word": "马嘉祺模仿干饭人表情包",
       "onboard_time": 1674060442,
       "rank": 45,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 66476,
-      "num": 66476,
-      "word": "杨超越徐正溪重紫片场花絮",
-      "onboard_time": 1674062958,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 65876,
