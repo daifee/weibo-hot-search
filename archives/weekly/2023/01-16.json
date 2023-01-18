@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674056117395,
+  "endTime": 1674059173079,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -345,6 +345,14 @@
       "onboard_time": 1673843191,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1579432,
+      "num": 499419,
+      "word": "陈泗旭 聊天记录",
+      "onboard_time": 1674054929,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 1539779,
@@ -995,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 871515,
-      "num": 499419,
-      "word": "陈泗旭 聊天记录",
-      "onboard_time": 1674054929,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 869413,
       "num": 869413,
       "word": "当地回应小马云拦车要钱",
@@ -1153,6 +1153,14 @@
       "onboard_time": 1673913324,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 808024,
+      "num": 808024,
+      "word": "男子买灌香肠起诉其为三无产品被法院驳回",
+      "onboard_time": 1674054269,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 795667,
@@ -1321,14 +1329,6 @@
       "onboard_time": 1673912963,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 723183,
-      "num": 723183,
-      "word": "男子买灌香肠起诉其为三无产品被法院驳回",
-      "onboard_time": 1674054269,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 721085,
@@ -2075,6 +2075,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 547606,
+      "num": 547606,
+      "word": "张远又来活了",
+      "onboard_time": 1674055649,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545185,
       "num": 418101,
       "word": "贺峻霖征文比赛获二等奖",
@@ -2411,6 +2419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 481214,
+      "num": 481214,
+      "word": "成年人为什么不喜欢过年了",
+      "onboard_time": 1674054510,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 477200,
       "num": 477200,
       "word": "丁程鑫向马嘉祺推销北电校服",
@@ -2713,6 +2729,14 @@
       "onboard_time": 1674011908,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420782,
+      "num": 420782,
+      "word": "全家没一个是混吃混喝的",
+      "onboard_time": 1674055529,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 419461,
@@ -3051,6 +3075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378995,
+      "num": 378995,
+      "word": "许红豆要创业当大老板",
+      "onboard_time": 1674056067,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 378516,
       "num": 378516,
       "word": "詹姆斯38000分里程碑",
@@ -3153,6 +3185,14 @@
       "onboard_time": 1673934867,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 372431,
+      "num": 372431,
+      "word": "严浩翔 金发",
+      "onboard_time": 1674058166,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 370693,
@@ -3361,14 +3401,6 @@
       "onboard_time": 1673839828,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 349090,
-      "num": 349090,
-      "word": "张远又来活了",
-      "onboard_time": 1674055649,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 349009,
@@ -3673,6 +3705,14 @@
       "onboard_time": 1673930667,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 327660,
+      "num": 327660,
+      "word": "徐杰",
+      "onboard_time": 1674057207,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 327066,
@@ -4539,14 +4579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 269567,
-      "num": 269567,
-      "word": "成年人为什么不喜欢过年了",
-      "onboard_time": 1674054510,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 269284,
       "num": 184235,
       "word": "韩版想见你首张剧照",
@@ -5059,6 +5091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 241910,
+      "num": 241910,
+      "word": "谢之遥把异地恋小把戏玩明白了",
+      "onboard_time": 1674058406,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241236,
       "num": 142459,
       "word": "蔡卓妍晒三亚vlog",
@@ -5233,6 +5273,14 @@
       "onboard_time": 1673914706,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 231167,
+      "num": 231167,
+      "word": "苹果发布第二代HomePod",
+      "onboard_time": 1674054869,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 230337,
@@ -5515,6 +5563,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 212669,
+      "num": 212669,
+      "word": "西藏林芝一隧道出口发生雪崩",
+      "onboard_time": 1674055289,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212219,
       "num": 126585,
       "word": "赵丽颖春晚联排高马尾造型梦回薛杉杉",
@@ -5576,6 +5632,14 @@
       "word": "敖瑞鹏镇魂街演曹焱兵",
       "onboard_time": 1673954727,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 208728,
+      "num": 208728,
+      "word": "看了三体才懂的梗",
+      "onboard_time": 1674055949,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -5697,6 +5761,14 @@
       "onboard_time": 1673837486,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201334,
+      "num": 201334,
+      "word": "张杰收到张国荣张学友的同款定制话筒",
+      "onboard_time": 1674056968,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 201135,
@@ -5891,14 +5963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193617,
-      "num": 187096,
-      "word": "西藏林芝一隧道出口发生雪崩",
-      "onboard_time": 1674055289,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193577,
       "num": 436212,
       "word": "田曦薇2023年第一支vlog",
@@ -6051,14 +6115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187324,
-      "num": 158835,
-      "word": "看了三体才懂的梗",
-      "onboard_time": 1674055949,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 187171,
       "num": 187171,
       "word": "肖铎步音楼船上复合吻",
@@ -6136,14 +6192,6 @@
       "word": "这猫怎么比狗还狗",
       "onboard_time": 1673844753,
       "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 183335,
-      "num": 183335,
-      "word": "全家没一个是混吃混喝的",
-      "onboard_time": 1674055529,
-      "rank": 37,
       "category": "幽默"
     },
     {
@@ -6307,6 +6355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175557,
+      "num": 175557,
+      "word": "专不专业一眼就看出来了",
+      "onboard_time": 1674056370,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175260,
       "num": 175260,
       "word": "2022年全国人口141175万人",
@@ -6371,14 +6427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 171974,
-      "num": 171974,
-      "word": "苹果发布第二代HomePod",
-      "onboard_time": 1674054869,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 171431,
       "num": 171431,
       "word": "虞书欣读小桔灯梦回童年",
@@ -6401,14 +6449,6 @@
       "onboard_time": 1673919085,
       "rank": 49,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 170210,
-      "num": 155041,
-      "word": "许红豆要创业当大老板",
-      "onboard_time": 1674056067,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 169911,
@@ -6721,6 +6761,14 @@
       "onboard_time": 1673957968,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 155616,
+      "num": 155616,
+      "word": "腿短有腿短的办法",
+      "onboard_time": 1674056009,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 155539,
@@ -7051,6 +7099,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 140308,
+      "num": 140308,
+      "word": "银行员工贪污398万整容创业潜逃25年",
+      "onboard_time": 1674058586,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140289,
       "num": 162459,
       "word": "台州市民在江南长城前跳房子跨年",
@@ -7177,14 +7233,6 @@
       "onboard_time": 1674032967,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133600,
-      "num": 133600,
-      "word": "腿短有腿短的办法",
-      "onboard_time": 1674056009,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 133438,
@@ -8151,6 +8199,9 @@
     },
     {
       "word": "#习近平祝福返乡旅客#"
+    },
+    {
+      "word": "#温暖牵挂#"
     }
   ]
 }
