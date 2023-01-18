@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1674023042572,
+  "endTime": 1674023919611,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1184733,
+      "num": 1184733,
+      "word": "台当局要下架螺蛳粉民众狂囤货",
+      "onboard_time": 1674020488,
+      "rank": 3,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1167181,
       "num": 636795,
       "word": "张若昀和唐艺昕是朋友聚会认识的",
@@ -113,14 +121,6 @@
       "onboard_time": 1674002126,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1015807,
-      "num": 1015807,
-      "word": "台当局要下架螺蛳粉民众狂囤货",
-      "onboard_time": 1674020488,
-      "rank": 3,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 981584,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 516852,
+      "num": 516852,
+      "word": "陈凯歌保密电影预告还在保密",
+      "onboard_time": 1674021986,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 512704,
       "num": 512704,
       "word": "去有风的地方",
@@ -369,14 +377,6 @@
       "onboard_time": 1674012269,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 487065,
-      "num": 487065,
-      "word": "陈凯歌保密电影预告还在保密",
-      "onboard_time": 1674021986,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 484790,
@@ -403,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 429339,
+      "num": 429339,
+      "word": "黄晓明对家人报喜不报忧",
+      "onboard_time": 1674023186,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423100,
       "num": 423100,
       "word": "撒贝宁的官宣图好熟悉",
@@ -425,6 +433,14 @@
       "onboard_time": 1673962591,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 413643,
+      "num": 413643,
+      "word": "陈飞宇逛街被偶遇",
+      "onboard_time": 1674021086,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 408802,
@@ -465,14 +481,6 @@
       "onboard_time": 1673969608,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 382331,
-      "num": 382331,
-      "word": "陈飞宇逛街被偶遇",
-      "onboard_time": 1674021086,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 381741,
@@ -521,6 +529,14 @@
       "onboard_time": 1673961809,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 352592,
+      "num": 352592,
+      "word": "云南一男子连跑三次办结婚证未果",
+      "onboard_time": 1674020845,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350394,
@@ -643,12 +659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302142,
-      "num": 302142,
-      "word": "云南一男子连跑三次办结婚证未果",
-      "onboard_time": 1674020845,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 298015,
+      "num": 298015,
+      "word": "龚俊说如果不做演员可能会开串串香店",
+      "onboard_time": 1674022766,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 292689,
@@ -681,6 +697,14 @@
       "onboard_time": 1673966851,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 277471,
+      "num": 277471,
+      "word": "蒲熠星给名学片头配旁白",
+      "onboard_time": 1674023847,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 275821,
@@ -907,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235721,
+      "num": 215127,
+      "word": "原来优雅是不分年龄的",
+      "onboard_time": 1674022286,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229879,
       "num": 229879,
       "word": "为什么中国人过年一定要回家",
@@ -1075,14 +1107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 191091,
-      "num": 191091,
-      "word": "龚俊说如果不做演员可能会开串串香店",
-      "onboard_time": 1674022766,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 191014,
       "num": 191014,
       "word": "王者三款鼠年限定返场",
@@ -1107,19 +1131,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189806,
+      "num": 188526,
+      "word": "吴昕说大侦探第八季我回来了",
+      "onboard_time": 1674023066,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189198,
+      "num": 189198,
+      "word": "何润东说福王生理心理上都崩塌了",
+      "onboard_time": 1674022946,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189110,
       "num": 189110,
       "word": "陈泗旭说我不在意你和敖子逸有什么关系",
       "onboard_time": 1673976677,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 188030,
-      "num": 188030,
-      "word": "原来优雅是不分年龄的",
-      "onboard_time": 1674022286,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1139,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185747,
+      "num": 175922,
+      "word": "梅婷催黄渤办年货",
+      "onboard_time": 1674023365,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184117,
       "num": 184117,
       "word": "2023大年初一预售票房破2亿",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1673958869,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179020,
+      "num": 175378,
+      "word": "岳云鹏 师父生日快乐爱您呦",
+      "onboard_time": 1674023727,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 178763,
@@ -1215,14 +1263,6 @@
       "num": 168893,
       "word": "于和伟在三体跳广场舞",
       "onboard_time": 1674019766,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 162876,
-      "num": 162876,
-      "word": "何润东说福王生理心理上都崩塌了",
-      "onboard_time": 1674022946,
       "rank": 45,
       "category": "影视"
     },
@@ -1300,7 +1340,7 @@
     },
     {
       "raw_hot": 148922,
-      "num": 148922,
+      "num": 156775,
       "word": "满眼都是委屈的柯基",
       "onboard_time": 1674019528,
       "rank": 46,
@@ -1392,6 +1432,14 @@
       "word": "iG战胜RNG",
       "onboard_time": 1673960186,
       "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 109040,
+      "num": 156552,
+      "word": "魔兽世界电子骨灰盒上线",
+      "onboard_time": 1674023244,
+      "rank": 49,
       "category": "游戏"
     },
     {

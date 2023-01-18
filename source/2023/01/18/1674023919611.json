@@ -1,0 +1,410 @@
+{
+  "runTime": 1674023919611,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1322560,
+        "num": 1322560,
+        "word": "山姆回应蓝环章鱼事件",
+        "onboard_time": 1674014369,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184733,
+        "num": 1184733,
+        "word": "台当局要下架螺蛳粉民众狂囤货",
+        "onboard_time": 1674020488,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 42354,
+        "num": 1061178,
+        "word": "感谢每个坚守岗位的奋斗者",
+        "onboard_time": 1674010467,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1051055,
+        "num": 1051055,
+        "word": "张子枫章子怡张颂文演绎初代外交天团",
+        "onboard_time": 1674021509,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 774963,
+        "num": 774963,
+        "word": "浪胃仙创始人被逮捕",
+        "onboard_time": 1674005605,
+        "rank": 4,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 754498,
+        "num": 754498,
+        "word": "网易称暴雪离婚不离身",
+        "onboard_time": 1673997798,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 603572,
+        "num": 603572,
+        "word": "暴雪绿茶定价13",
+        "onboard_time": 1674017006,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 529689,
+        "num": 529689,
+        "word": "文在寅退休后在村里开书店",
+        "onboard_time": 1674017786,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 526730,
+        "num": 526730,
+        "word": "吃播账号浪胃仙被判属原公司",
+        "onboard_time": 1674001587,
+        "rank": 8,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 516852,
+        "num": 516852,
+        "word": "陈凯歌保密电影预告还在保密",
+        "onboard_time": 1674021986,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522053,
+        "num": 505549,
+        "word": "金采源恋情",
+        "onboard_time": 1674011728,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429339,
+        "num": 429339,
+        "word": "黄晓明对家人报喜不报忧",
+        "onboard_time": 1674023186,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413643,
+        "num": 413643,
+        "word": "陈飞宇逛街被偶遇",
+        "onboard_time": 1674021086,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411217,
+        "num": 411217,
+        "word": "孙俪 我问邓先生今天天气预报",
+        "onboard_time": 1674014426,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384060,
+        "num": 384060,
+        "word": "重庆街头巨型兔子灯被市民吐槽太丑",
+        "onboard_time": 1674004825,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381108,
+        "num": 381108,
+        "word": "一只猫咪可以有多黑",
+        "onboard_time": 1674018807,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358304,
+        "num": 358304,
+        "word": "宁艺卓生图状态",
+        "onboard_time": 1674021745,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352592,
+        "num": 352592,
+        "word": "云南一男子连跑三次办结婚证未果",
+        "onboard_time": 1674020845,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329578,
+        "num": 329578,
+        "word": "妈妈买900斤橘子等女儿回家过年",
+        "onboard_time": 1674004825,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323410,
+        "num": 323410,
+        "word": "苏醒张远与十年前的自己对话",
+        "onboard_time": 1674021328,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306106,
+        "num": 306106,
+        "word": "日本刘大锤",
+        "onboard_time": 1674013708,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298015,
+        "num": 298015,
+        "word": "龚俊说如果不做演员可能会开串串香店",
+        "onboard_time": 1674022766,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289977,
+        "num": 289977,
+        "word": "迪奥",
+        "onboard_time": 1674009448,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285045,
+        "num": 285045,
+        "word": "新生儿成白肺医生跪地抢救",
+        "onboard_time": 1674005006,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 277471,
+        "num": 277471,
+        "word": "蒲熠星给名学片头配旁白",
+        "onboard_time": 1674023847,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272780,
+        "num": 272780,
+        "word": "鼓励生育要先解决年轻人的后顾之忧",
+        "onboard_time": 1674003868,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271725,
+        "num": 271725,
+        "word": "宋慧乔黑暗荣耀2定档",
+        "onboard_time": 1674014667,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265769,
+        "num": 265769,
+        "word": "原来做饭真的会加速女性衰老",
+        "onboard_time": 1674002126,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225316,
+        "num": 225316,
+        "word": "周焯华获刑18年",
+        "onboard_time": 1674015147,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217838,
+        "num": 217838,
+        "word": "iG选手",
+        "onboard_time": 1674021387,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235721,
+        "num": 215127,
+        "word": "原来优雅是不分年龄的",
+        "onboard_time": 1674022286,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208257,
+        "num": 208257,
+        "word": "福兔",
+        "onboard_time": 1674003746,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 204458,
+        "num": 204458,
+        "word": "名侦探学院6主题曲MV",
+        "onboard_time": 1674022524,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203865,
+        "num": 203865,
+        "word": "网易 阴阳师",
+        "onboard_time": 1674021686,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203496,
+        "num": 203496,
+        "word": "大侦探第八季定档",
+        "onboard_time": 1674009086,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189198,
+        "num": 189198,
+        "word": "何润东说福王生理心理上都崩塌了",
+        "onboard_time": 1674022946,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189806,
+        "num": 188526,
+        "word": "吴昕说大侦探第八季我回来了",
+        "onboard_time": 1674023066,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182712,
+        "num": 182712,
+        "word": "YSKM说想超越TheShy",
+        "onboard_time": 1674015207,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176645,
+        "num": 176645,
+        "word": "第一次见火车高级软卧",
+        "onboard_time": 1674006146,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176300,
+        "num": 176300,
+        "word": "樊振东和皇马梦幻联动",
+        "onboard_time": 1674018204,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185747,
+        "num": 175922,
+        "word": "梅婷催黄渤办年货",
+        "onboard_time": 1674023365,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179020,
+        "num": 175378,
+        "word": "岳云鹏 师父生日快乐爱您呦",
+        "onboard_time": 1674023727,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178678,
+        "num": 175088,
+        "word": "张婧仪无名首映礼花絮",
+        "onboard_time": 1674022405,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174679,
+        "num": 174679,
+        "word": "目前还没阳过是什么原因",
+        "onboard_time": 1674007168,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 166396,
+        "num": 166396,
+        "word": "于和伟在三体跳广场舞",
+        "onboard_time": 1674019766,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165799,
+        "num": 165799,
+        "word": "肖铎步音楼船上复合吻",
+        "onboard_time": 1674021686,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159597,
+        "num": 159597,
+        "word": "女子烧烤店内被男子持刀锁喉",
+        "onboard_time": 1674008248,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 157389,
+        "num": 157389,
+        "word": "人类幼崽为了吃的能有多会",
+        "onboard_time": 1674020786,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129559,
+        "num": 156775,
+        "word": "满眼都是委屈的柯基",
+        "onboard_time": 1674019528,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109040,
+        "num": 156552,
+        "word": "魔兽世界电子骨灰盒上线",
+        "onboard_time": 1674023244,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#出站就是团圆#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674023042572,
+  "endTime": 1674023919611,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -547,6 +547,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1184733,
+      "num": 1184733,
+      "word": "台当局要下架螺蛳粉民众狂囤货",
+      "onboard_time": 1674020488,
+      "rank": 3,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1168560,
       "num": 1168560,
       "word": "王鹤棣首部电影定档",
@@ -665,14 +673,6 @@
       "onboard_time": 1673942666,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1015807,
-      "num": 1015807,
-      "word": "台当局要下架螺蛳粉民众狂囤货",
-      "onboard_time": 1674020488,
-      "rank": 3,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 992249,
@@ -1795,6 +1795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 516852,
+      "num": 516852,
+      "word": "陈凯歌保密电影预告还在保密",
+      "onboard_time": 1674021986,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 516777,
       "num": 516777,
       "word": "羊了个羊为什么没有第三关",
@@ -1945,14 +1953,6 @@
       "onboard_time": 1673948846,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 487065,
-      "num": 487065,
-      "word": "陈凯歌保密电影预告还在保密",
-      "onboard_time": 1674021986,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 486093,
@@ -2179,6 +2179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 429339,
+      "num": 429339,
+      "word": "黄晓明对家人报喜不报忧",
+      "onboard_time": 1674023186,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427143,
       "num": 273764,
       "word": "孙怡零下二十度打工人穿搭",
@@ -2265,6 +2273,14 @@
       "onboard_time": 1673838628,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 413643,
+      "num": 413643,
+      "word": "陈飞宇逛街被偶遇",
+      "onboard_time": 1674021086,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 411617,
@@ -2449,14 +2465,6 @@
       "onboard_time": 1673873131,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 382331,
-      "num": 382331,
-      "word": "陈飞宇逛街被偶遇",
-      "onboard_time": 1674021086,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 381901,
@@ -2737,6 +2745,14 @@
       "onboard_time": 1673940507,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 352592,
+      "num": 352592,
+      "word": "云南一男子连跑三次办结婚证未果",
+      "onboard_time": 1674020845,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351934,
@@ -3291,14 +3307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302142,
-      "num": 302142,
-      "word": "云南一男子连跑三次办结婚证未果",
-      "onboard_time": 1674020845,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301529,
       "num": 197133,
       "word": "TWICE先行曲MV预告",
@@ -3329,6 +3337,14 @@
       "onboard_time": 1673865568,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298015,
+      "num": 298015,
+      "word": "龚俊说如果不做演员可能会开串串香店",
+      "onboard_time": 1674022766,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 297609,
@@ -3553,6 +3569,14 @@
       "onboard_time": 1673853508,
       "rank": 27,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 277471,
+      "num": 277471,
+      "word": "蒲熠星给名学片头配旁白",
+      "onboard_time": 1674023847,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 275919,
@@ -4275,6 +4299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235721,
+      "num": 215127,
+      "word": "原来优雅是不分年龄的",
+      "onboard_time": 1674022286,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234500,
       "num": 234500,
       "word": "2023KPL春季转会期",
@@ -4867,14 +4899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191091,
-      "num": 191091,
-      "word": "龚俊说如果不做演员可能会开串串香店",
-      "onboard_time": 1674022766,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 190857,
       "num": 190857,
       "word": "河南发现240座北魏时期皇家仓窖",
@@ -4891,12 +4915,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189806,
+      "num": 188526,
+      "word": "吴昕说大侦探第八季我回来了",
+      "onboard_time": 1674023066,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189768,
       "num": 189768,
       "word": "新冠康复期正常吃好饭很重要",
       "onboard_time": 1673858367,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189198,
+      "num": 189198,
+      "word": "何润东说福王生理心理上都崩塌了",
+      "onboard_time": 1674022946,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 189110,
@@ -4921,14 +4961,6 @@
       "onboard_time": 1673925448,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 188030,
-      "num": 188030,
-      "word": "原来优雅是不分年龄的",
-      "onboard_time": 1674022286,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 187910,
@@ -4960,6 +4992,14 @@
       "word": "王一博宣传无名好拼",
       "onboard_time": 1673999723,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185747,
+      "num": 175922,
+      "word": "梅婷催黄渤办年货",
+      "onboard_time": 1674023365,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -5057,6 +5097,14 @@
       "onboard_time": 1673966074,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179020,
+      "num": 175378,
+      "word": "岳云鹏 师父生日快乐爱您呦",
+      "onboard_time": 1674023727,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 178763,
@@ -5371,14 +5419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162876,
-      "num": 162876,
-      "word": "何润东说福王生理心理上都崩塌了",
-      "onboard_time": 1674022946,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 162767,
       "num": 126439,
       "word": "满江红首映礼",
@@ -5572,7 +5612,7 @@
     },
     {
       "raw_hot": 148922,
-      "num": 148922,
+      "num": 156775,
       "word": "满眼都是委屈的柯基",
       "onboard_time": 1674019528,
       "rank": 46,
@@ -6105,6 +6145,14 @@
       "onboard_time": 1673824097,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109040,
+      "num": 156552,
+      "word": "魔兽世界电子骨灰盒上线",
+      "onboard_time": 1674023244,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 106766,
