@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674083921532,
+  "endTime": 1674084816714,
   "band_list": [
     {
       "raw_hot": 1579432,
@@ -27,6 +27,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 863160,
+      "num": 863160,
+      "word": "高铁站大厅没插座引网友质疑",
+      "onboard_time": 1674080293,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 828024,
       "num": 828024,
       "word": "三体 脱水",
@@ -48,14 +56,6 @@
       "word": "银行员工贪污398万整容创业潜逃25年",
       "onboard_time": 1674058586,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 654700,
-      "num": 654700,
-      "word": "高铁站大厅没插座引网友质疑",
-      "onboard_time": 1674080293,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -89,6 +89,14 @@
       "onboard_time": 1674034407,
       "rank": 6,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 453864,
+      "num": 453864,
+      "word": "单亲妈妈5年没回家过年",
+      "onboard_time": 1674079873,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435999,
@@ -131,20 +139,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 353781,
-      "num": 353781,
-      "word": "单亲妈妈5年没回家过年",
-      "onboard_time": 1674079873,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343911,
       "num": 343911,
       "word": "老板花160分钟做生蚝美甲圆顾客梦",
       "onboard_time": 1674059425,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333315,
+      "num": 149838,
+      "word": "南方宝宝首次体验北方地暖",
+      "onboard_time": 1674080774,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 331990,
@@ -235,14 +243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 214446,
-      "num": 125612,
-      "word": "南方宝宝首次体验北方地暖",
-      "onboard_time": 1674080774,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 212669,
       "num": 212669,
       "word": "西藏林芝一隧道出口发生雪崩",
@@ -265,6 +265,22 @@
       "onboard_time": 1674055949,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205844,
+      "num": 205844,
+      "word": "一中国女子在韩国接受整容手术中途身亡",
+      "onboard_time": 1674032366,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200163,
+      "num": 145285,
+      "word": "张艺兴给李宇春龙丹妮张杰拍照",
+      "onboard_time": 1674083357,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 199495,
@@ -299,11 +315,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181879,
-      "num": 181879,
-      "word": "一中国女子在韩国接受整容手术中途身亡",
-      "onboard_time": 1674032366,
-      "rank": 33,
+      "raw_hot": 177522,
+      "num": 144039,
+      "word": "95后男生过年回自家酒店免费帮工",
+      "onboard_time": 1674074591,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -363,24 +379,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 145707,
-      "num": 125080,
-      "word": "95后男生过年回自家酒店免费帮工",
-      "onboard_time": 1674074591,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144451,
-      "num": 123723,
-      "word": "张艺兴给李宇春龙丹妮张杰拍照",
-      "onboard_time": 1674083357,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 141350,
-      "num": 141350,
+      "raw_hot": 143157,
+      "num": 143157,
       "word": "中金公司回应十大预测错九个",
       "onboard_time": 1674068772,
       "rank": 49,
@@ -427,6 +427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122747,
+      "num": 122747,
+      "word": "好欢螺呼吁网友理性消费",
+      "onboard_time": 1674040891,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121906,
       "num": 119146,
       "word": "纽约时报盛赞刘亦菲演的许红豆",
@@ -435,12 +443,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121252,
+      "num": 71707,
+      "word": "小S看大女儿出演苏打绿MV的reaction",
+      "onboard_time": 1674084379,
+      "rank": 30,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 119575,
       "num": 119575,
       "word": "医保局不会再就Paxlovid举行谈判",
       "onboard_time": 1674046891,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117604,
+      "num": 117604,
+      "word": "电影无名预售票房破8000万",
+      "onboard_time": 1674084559,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 116948,
@@ -467,14 +491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101746,
-      "num": 101746,
-      "word": "好欢螺呼吁网友理性消费",
-      "onboard_time": 1674040891,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85534,
       "num": 80354,
       "word": "刘宇红毯怼脸图",
@@ -483,12 +499,36 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 79589,
+      "num": 79589,
+      "word": "第一次见俯视角度的烟花",
+      "onboard_time": 1674083957,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79201,
       "num": 79201,
       "word": "杨超越徐正溪重紫片场花絮",
       "onboard_time": 1674062958,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 71980,
+      "num": 71980,
+      "word": "三体卤煮被煮了",
+      "onboard_time": 1674084678,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 69524,
+      "num": 69524,
+      "word": "水晶宫1比1曼联",
+      "onboard_time": 1674084256,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 68594,
@@ -531,20 +571,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51135,
-      "num": 51135,
+      "raw_hot": 56192,
+      "num": 56192,
       "word": "12岁男孩6年义务为800位老人理发",
       "onboard_time": 1674073093,
       "rank": 48,
       "category": "社会正能量"
     },
     {
-      "raw_hot": 49893,
-      "num": 49893,
+      "raw_hot": 52714,
+      "num": 52714,
       "word": "Minji将担任本周音银特别MC",
       "onboard_time": 1674083298,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 46615,
+      "num": 46615,
+      "word": "宋轶是懂新年仪式感的",
+      "onboard_time": 1674066855,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43842,
+      "num": 43842,
+      "word": "虞书欣晒小恶魔造型随拍",
+      "onboard_time": 1674039573,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 38773,
@@ -553,14 +609,6 @@
       "onboard_time": 1674083298,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 37858,
-      "num": 37551,
-      "word": "虞书欣晒小恶魔造型随拍",
-      "onboard_time": 1674039573,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 37573,

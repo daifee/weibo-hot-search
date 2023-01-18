@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/19 07:18:41
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/19 07:33:36
 </p>
 </blockquote>
 <p>
@@ -4521,6 +4521,12 @@ BLACKPINK确定领衔出演科切拉音乐节（热度：863887）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AB%99%E5%A4%A7%E5%8E%85%E6%B2%A1%E6%8F%92%E5%BA%A7%E5%BC%95%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%23" target="weibo">
+高铁站大厅没插座引网友质疑（热度：863160）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%94%A8%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E5%8A%A0%E9%99%8C%E7%94%9F%E5%A5%B3%E5%AD%A9%E8%81%8A%E5%A4%A9%23" target="weibo">
 儿子用电话手表加陌生女孩聊天（热度：862673）
 </a>
@@ -6005,12 +6011,6 @@ EXO将春天后完整体回归（热度：735031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23GAI%E5%92%8C%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%89%93%E6%8B%9B%E5%91%BC%23" target="weibo">
 GAI和严浩翔打招呼（热度：721085）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E9%9E%8B%E5%B8%A6%E6%95%A3%E5%BC%80%E6%B2%A1%E6%B3%95%E5%BC%AF%E8%85%B0%E4%B9%98%E5%8A%A1%E5%91%98%E8%B9%B2%E4%B8%8B%E5%B8%AE%E5%BF%99%23" target="weibo">
-孕妇鞋带散开没法弯腰乘务员蹲下帮忙（热度：721063）
 </a>
 </li>
 
