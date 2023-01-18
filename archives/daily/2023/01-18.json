@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1674009999834,
+  "endTime": 1674010579590,
   "band_list": [
     {
       "raw_hot": 1980232,
@@ -67,8 +67,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 973390,
-      "num": 973390,
+      "raw_hot": 981584,
+      "num": 981584,
       "word": "新生儿成白肺医生跪地抢救",
       "onboard_time": 1674005006,
       "rank": 17,
@@ -89,6 +89,14 @@
       "onboard_time": 1674006146,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 794500,
+      "num": 794500,
+      "word": "大侦探第八季定档",
+      "onboard_time": 1674009086,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 793657,
@@ -131,20 +139,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 681295,
+      "num": 681295,
+      "word": "迪奥",
+      "onboard_time": 1674009448,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 680484,
       "num": 680484,
       "word": "王俊凯再秀刀妹",
       "onboard_time": 1673969068,
       "rank": 4,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 677828,
-      "num": 677828,
-      "word": "大侦探第八季定档",
-      "onboard_time": 1674009086,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 654737,
@@ -187,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 611744,
+      "num": 611744,
+      "word": "女子烧烤店内被男子持刀锁喉",
+      "onboard_time": 1674008248,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 597606,
       "num": 597606,
       "word": "你这人刚刚好 刚刚好是我喜欢的类型",
@@ -227,14 +243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 508509,
-      "num": 508509,
-      "word": "女子烧烤店内被男子持刀锁喉",
-      "onboard_time": 1674008248,
-      "rank": 12,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 486015,
       "num": 486015,
       "word": "目前还没阳过是什么原因",
@@ -251,12 +259,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 430638,
+      "num": 430638,
+      "word": "年轻人的过年方式有多统一",
+      "onboard_time": 1674007767,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 417427,
       "num": 417427,
       "word": "和情绪稳定的人恋爱的感觉",
       "onboard_time": 1673962591,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 398568,
+      "num": 398568,
+      "word": "狂飙安零容",
+      "onboard_time": 1674008488,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 395001,
@@ -291,6 +315,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 370304,
+      "num": 370304,
+      "word": "给你发钱你愿意生孩子吗",
+      "onboard_time": 1674009266,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 369264,
       "num": 369264,
       "word": "肚子容易长肉也不怕了",
@@ -299,27 +331,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 364379,
-      "num": 364379,
-      "word": "迪奥",
-      "onboard_time": 1674009448,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 359602,
       "num": 359602,
       "word": "许红豆谢之遥异地恋",
       "onboard_time": 1673961809,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 351429,
-      "num": 351429,
-      "word": "狂飙安零容",
-      "onboard_time": 1674008488,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -345,14 +361,6 @@
       "onboard_time": 1674005306,
       "rank": 38,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 333130,
-      "num": 333130,
-      "word": "年轻人的过年方式有多统一",
-      "onboard_time": 1674007767,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 332638,
@@ -475,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259137,
-      "num": 259137,
-      "word": "给你发钱你愿意生孩子吗",
-      "onboard_time": 1674009266,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 259014,
       "num": 259014,
       "word": "男子套中3米玩具熊4人抬回家",
@@ -571,6 +571,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225744,
+      "num": 225744,
+      "word": "许红豆跳广场舞",
+      "onboard_time": 1674009386,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 224299,
+      "num": 224299,
+      "word": "名侦探学院ELLE脑性男大片",
+      "onboard_time": 1674010467,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223886,
       "num": 223886,
       "word": "妈妈的脾气为什么变差了",
@@ -587,20 +603,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219945,
+      "num": 219945,
+      "word": "深海不是它们 它就是自己",
+      "onboard_time": 1674001284,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219677,
       "num": 195572,
       "word": "新手司机驾车坠塘一家三口身亡",
       "onboard_time": 1673948846,
       "rank": 30,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 218149,
-      "num": 218149,
-      "word": "深海不是它们 它就是自己",
-      "onboard_time": 1674001284,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 217339,
@@ -627,16 +643,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200708,
-      "num": 200708,
-      "word": "许红豆跳广场舞",
-      "onboard_time": 1674009386,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 200372,
-      "num": 282132,
+      "raw_hot": 211088,
+      "num": 401919,
       "word": "女兵为带军犬跳伞暴增体重10斤",
       "onboard_time": 1674006745,
       "rank": 29,
@@ -809,6 +817,14 @@
       "onboard_time": 1674006745,
       "rank": 46,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 148821,
+      "num": 148821,
+      "word": "撒贝宁的官宣图好熟悉",
+      "onboard_time": 1674010527,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 146866,
@@ -993,6 +1009,14 @@
       "onboard_time": 1673984113,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 6544,
+      "num": 850494,
+      "word": "感谢每个坚守岗位的奋斗者",
+      "onboard_time": 1674010467,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

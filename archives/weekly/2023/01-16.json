@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674009999834,
+  "endTime": 1674010579590,
   "band_list": [
     {
       "raw_hot": 3963034,
@@ -635,8 +635,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 973390,
-      "num": 973390,
+      "raw_hot": 981584,
+      "num": 981584,
       "word": "新生儿成白肺医生跪地抢救",
       "onboard_time": 1674005006,
       "rank": 17,
@@ -915,6 +915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 794500,
+      "num": 794500,
+      "word": "大侦探第八季定档",
+      "onboard_time": 1674009086,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 793657,
       "num": 793657,
       "word": "重庆街头巨型兔子灯被市民吐槽太丑",
@@ -1115,20 +1123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 681295,
+      "num": 681295,
+      "word": "迪奥",
+      "onboard_time": 1674009448,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 680705,
       "num": 680705,
       "word": "男子新房未入住被邻居种大葱",
       "onboard_time": 1673870789,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 677828,
-      "num": 677828,
-      "word": "大侦探第八季定档",
-      "onboard_time": 1674009086,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 673725,
@@ -1385,6 +1393,14 @@
       "onboard_time": 1673914526,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 611744,
+      "num": 611744,
+      "word": "女子烧烤店内被男子持刀锁喉",
+      "onboard_time": 1674008248,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 610635,
@@ -1715,14 +1731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 508509,
-      "num": 508509,
-      "word": "女子烧烤店内被男子持刀锁喉",
-      "onboard_time": 1674008248,
-      "rank": 12,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 506437,
       "num": 506437,
       "word": "猫咪都爱挤在一个窝里",
@@ -2027,6 +2035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 430638,
+      "num": 430638,
+      "word": "年轻人的过年方式有多统一",
+      "onboard_time": 1674007767,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 427143,
       "num": 273764,
       "word": "孙怡零下二十度打工人穿搭",
@@ -2168,6 +2184,14 @@
       "word": "程耳祝王一博转型成功",
       "onboard_time": 1673859208,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 398568,
+      "num": 398568,
+      "word": "狂飙安零容",
+      "onboard_time": 1674008488,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -2395,6 +2419,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 370304,
+      "num": 370304,
+      "word": "给你发钱你愿意生孩子吗",
+      "onboard_time": 1674009266,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 369264,
       "num": 369264,
       "word": "肚子容易长肉也不怕了",
@@ -2433,14 +2465,6 @@
       "onboard_time": 1673925328,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364379,
-      "num": 364379,
-      "word": "迪奥",
-      "onboard_time": 1674009448,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 364016,
@@ -2545,14 +2569,6 @@
       "onboard_time": 1673936965,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 351429,
-      "num": 351429,
-      "word": "狂飙安零容",
-      "onboard_time": 1674008488,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 350394,
@@ -2713,14 +2729,6 @@
       "onboard_time": 1673874931,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 333130,
-      "num": 333130,
-      "word": "年轻人的过年方式有多统一",
-      "onboard_time": 1674007767,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 333094,
@@ -3651,14 +3659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259137,
-      "num": 259137,
-      "word": "给你发钱你愿意生孩子吗",
-      "onboard_time": 1674009266,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 259014,
       "num": 259014,
       "word": "男子套中3米玩具熊4人抬回家",
@@ -4067,12 +4067,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225744,
+      "num": 225744,
+      "word": "许红豆跳广场舞",
+      "onboard_time": 1674009386,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224921,
       "num": 224921,
       "word": "巨人完结篇预告",
       "onboard_time": 1673952208,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 224299,
+      "num": 224299,
+      "word": "名侦探学院ELLE脑性男大片",
+      "onboard_time": 1674010467,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 223886,
@@ -4123,8 +4139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218149,
-      "num": 218149,
+      "raw_hot": 219945,
+      "num": 219945,
       "word": "深海不是它们 它就是自己",
       "onboard_time": 1674001284,
       "rank": 46,
@@ -4227,6 +4243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211088,
+      "num": 401919,
+      "word": "女兵为带军犬跳伞暴增体重10斤",
+      "onboard_time": 1674006745,
+      "rank": 29,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 210625,
       "num": 210625,
       "word": "看起来很贵其实很便宜的东西",
@@ -4321,22 +4345,6 @@
       "onboard_time": 1673797291,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 200708,
-      "num": 200708,
-      "word": "许红豆跳广场舞",
-      "onboard_time": 1674009386,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 200372,
-      "num": 282132,
-      "word": "女兵为带军犬跳伞暴增体重10斤",
-      "onboard_time": 1674006745,
-      "rank": 29,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 199946,
@@ -5089,6 +5097,14 @@
       "onboard_time": 1673961028,
       "rank": 48,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 148821,
+      "num": 148821,
+      "word": "撒贝宁的官宣图好熟悉",
+      "onboard_time": 1674010527,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 147964,
@@ -6177,6 +6193,14 @@
       "onboard_time": 1673984113,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 6544,
+      "num": 850494,
+      "word": "感谢每个坚守岗位的奋斗者",
+      "onboard_time": 1674010467,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

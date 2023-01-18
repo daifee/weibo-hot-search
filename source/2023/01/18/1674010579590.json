@@ -1,0 +1,410 @@
+{
+  "runTime": 1674010579590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1716046,
+        "num": 1716046,
+        "word": "浪胃仙创始人被逮捕",
+        "onboard_time": 1674005605,
+        "rank": 0,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 981584,
+        "num": 981584,
+        "word": "新生儿成白肺医生跪地抢救",
+        "onboard_time": 1674005006,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 6544,
+        "num": 850494,
+        "word": "感谢每个坚守岗位的奋斗者",
+        "onboard_time": 1674010467,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1348167,
+        "num": 841950,
+        "word": "吃播账号浪胃仙被判属原公司",
+        "onboard_time": 1674001587,
+        "rank": 3,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 833205,
+        "num": 833205,
+        "word": "网易称暴雪离婚不离身",
+        "onboard_time": 1673997798,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 794500,
+        "num": 794500,
+        "word": "大侦探第八季定档",
+        "onboard_time": 1674009086,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 793544,
+        "num": 793544,
+        "word": "第一次见火车高级软卧",
+        "onboard_time": 1674006146,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 717932,
+        "num": 717932,
+        "word": "重庆街头巨型兔子灯被市民吐槽太丑",
+        "onboard_time": 1674004825,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681295,
+        "num": 681295,
+        "word": "迪奥",
+        "onboard_time": 1674009448,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663131,
+        "num": 663131,
+        "word": "妈妈买900斤橘子等女儿回家过年",
+        "onboard_time": 1674004825,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683335,
+        "num": 640392,
+        "word": "原来做饭真的会加速女性衰老",
+        "onboard_time": 1674002126,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 611744,
+        "num": 611744,
+        "word": "女子烧烤店内被男子持刀锁喉",
+        "onboard_time": 1674008248,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 509055,
+        "num": 509055,
+        "word": "李现演技",
+        "onboard_time": 1673997677,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477840,
+        "num": 477840,
+        "word": "目前还没阳过是什么原因",
+        "onboard_time": 1674007168,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 476274,
+        "num": 476274,
+        "word": "网红男球员发表羞辱女性言论被禁赛",
+        "onboard_time": 1673997858,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430984,
+        "num": 430984,
+        "word": "谁家丫鬟一米九",
+        "onboard_time": 1673999783,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430638,
+        "num": 430638,
+        "word": "年轻人的过年方式有多统一",
+        "onboard_time": 1674007767,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 424135,
+        "num": 424135,
+        "word": "福兔",
+        "onboard_time": 1674003746,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 401989,
+        "num": 401989,
+        "word": "鼓励生育要先解决年轻人的后顾之忧",
+        "onboard_time": 1674003868,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211088,
+        "num": 401919,
+        "word": "女兵为带军犬跳伞暴增体重10斤",
+        "onboard_time": 1674006745,
+        "rank": 19,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 401901,
+        "num": 401901,
+        "word": "木子洋说拍戏时导演扔下剧组去看迪丽热巴",
+        "onboard_time": 1673999844,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 398568,
+        "num": 398568,
+        "word": "狂飙安零容",
+        "onboard_time": 1674008488,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18285,
+        "num": 388295,
+        "word": "让春节有仪式感的小事",
+        "onboard_time": 1673912001,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387518,
+        "num": 387518,
+        "word": "文春预告KPOP爱豆恋情",
+        "onboard_time": 1673957126,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370304,
+        "num": 370304,
+        "word": "给你发钱你愿意生孩子吗",
+        "onboard_time": 1674009266,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325744,
+        "num": 325744,
+        "word": "你这人刚刚好 刚刚好是我喜欢的类型",
+        "onboard_time": 1674000444,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313775,
+        "num": 313775,
+        "word": "东方甄选半年带货48亿利润5.85亿",
+        "onboard_time": 1674005184,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 290998,
+        "num": 290998,
+        "word": "FF宣布与湖北省黄冈市签订战略协议",
+        "onboard_time": 1674005306,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 289461,
+        "num": 289461,
+        "word": "易烊千玺戳酒窝",
+        "onboard_time": 1674005487,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281090,
+        "num": 281090,
+        "word": "缩短教育时间",
+        "onboard_time": 1674005426,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274262,
+        "num": 274262,
+        "word": "董子健刘昊然我的朋友安德烈杀青",
+        "onboard_time": 1674007527,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269346,
+        "num": 269346,
+        "word": "库里南",
+        "onboard_time": 1674000745,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266279,
+        "num": 266279,
+        "word": "李雪琴 看完深海嚎啕大哭",
+        "onboard_time": 1674006808,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249767,
+        "num": 249767,
+        "word": "5岁外甥和6岁舅舅处成兄弟",
+        "onboard_time": 1673997258,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243964,
+        "num": 243964,
+        "word": "王者牛魔新皮肤牛运亨通",
+        "onboard_time": 1674006087,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241031,
+        "num": 241031,
+        "word": "陈泗旭后援会推荐歌曲活该",
+        "onboard_time": 1674006926,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226254,
+        "num": 226254,
+        "word": "樱井孝宏方回应",
+        "onboard_time": 1674008906,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225744,
+        "num": 225744,
+        "word": "许红豆跳广场舞",
+        "onboard_time": 1674009386,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224299,
+        "num": 224299,
+        "word": "名侦探学院ELLE脑性男大片",
+        "onboard_time": 1674010467,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219945,
+        "num": 219945,
+        "word": "深海不是它们 它就是自己",
+        "onboard_time": 1674001284,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177961,
+        "num": 177961,
+        "word": "专家称不要轻言人口红利消失",
+        "onboard_time": 1673997858,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177253,
+        "num": 177253,
+        "word": "深圳一网友称在山姆买到蓝环章鱼",
+        "onboard_time": 1673964031,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173899,
+        "num": 173899,
+        "word": "李永钦尹净汉同框",
+        "onboard_time": 1674006926,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166227,
+        "num": 166227,
+        "word": "山村老人创业做猫窝1年增收万元",
+        "onboard_time": 1674005548,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161746,
+        "num": 161746,
+        "word": "西安啊那没事了",
+        "onboard_time": 1673971108,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160909,
+        "num": 160909,
+        "word": "网易称暴雪声明蛮横不得体",
+        "onboard_time": 1673997738,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156935,
+        "num": 156935,
+        "word": "三体 烧脑",
+        "onboard_time": 1674001768,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148821,
+        "num": 148821,
+        "word": "撒贝宁的官宣图好熟悉",
+        "onboard_time": 1674010527,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144912,
+        "num": 144912,
+        "word": "王俊凯再秀刀妹",
+        "onboard_time": 1673969068,
+        "rank": 48,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 142627,
+        "num": 142627,
+        "word": "王一博宣传无名好拼",
+        "onboard_time": 1673999723,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#出站就是团圆#"
+    }
+  }
+}
