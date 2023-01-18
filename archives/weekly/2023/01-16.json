@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674016703479,
+  "endTime": 1674019049032,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -1083,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 721983,
+      "num": 721983,
+      "word": "暴雪绿茶定价13",
+      "onboard_time": 1674017006,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 719848,
       "num": 719848,
       "word": "RNG对战iG",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1673969068,
       "rank": 6,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 712357,
+      "num": 712357,
+      "word": "周焯华获刑18年",
+      "onboard_time": 1674015147,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 703319,
@@ -1201,6 +1217,14 @@
       "onboard_time": 1673796453,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 673009,
+      "num": 673009,
+      "word": "孙俪 我问邓先生今天天气预报",
+      "onboard_time": 1674014426,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 672254,
@@ -1401,14 +1425,6 @@
       "onboard_time": 1674012029,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 621495,
-      "num": 621495,
-      "word": "孙俪 我问邓先生今天天气预报",
-      "onboard_time": 1674014426,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 619721,
@@ -1939,12 +1955,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 477865,
-      "num": 477865,
-      "word": "周焯华获刑18年",
-      "onboard_time": 1674015147,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 476566,
+      "num": 476566,
+      "word": "文在寅退休后在村里开书店",
+      "onboard_time": 1674017786,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 470344,
@@ -2273,6 +2289,14 @@
       "onboard_time": 1673881472,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401518,
+      "num": 401518,
+      "word": "王鹤棣对陈钰琪说娘娘这也太隆重了吧",
+      "onboard_time": 1674015688,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 400948,
@@ -2875,6 +2899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331086,
+      "num": 331086,
+      "word": "蔡徐坤引用诗词给网友拜早年",
+      "onboard_time": 1674018388,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330785,
       "num": 330785,
       "word": "全世界苹果都流淌着中国苹果血",
@@ -3345,14 +3377,6 @@
       "onboard_time": 1673957667,
       "rank": 36,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 289620,
-      "num": 289620,
-      "word": "王鹤棣对陈钰琪说娘娘这也太隆重了吧",
-      "onboard_time": 1674015688,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 289085,
@@ -3883,6 +3907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256461,
+      "num": 256461,
+      "word": "黄子弘凡是懂戳肺管子的",
+      "onboard_time": 1674017907,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254870,
       "num": 184135,
       "word": "谢谢去有风的地方",
@@ -3953,6 +3985,14 @@
       "onboard_time": 1673961268,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 250848,
+      "num": 250848,
+      "word": "樊振东和皇马梦幻联动",
+      "onboard_time": 1674018204,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 249481,
@@ -4089,6 +4129,14 @@
       "onboard_time": 1673865689,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239930,
+      "num": 239930,
+      "word": "龚俊李现成毅今日大片",
+      "onboard_time": 1674017368,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 239203,
@@ -4235,6 +4283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228715,
+      "num": 228715,
+      "word": "许红豆谢之遥的感情没有狗血情节",
+      "onboard_time": 1674018025,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226348,
       "num": 226348,
       "word": "新年战甲",
@@ -4345,6 +4401,14 @@
       "onboard_time": 1674000085,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219691,
+      "num": 219691,
+      "word": "甄子丹称中国武侠片可以重振雄风",
+      "onboard_time": 1674017248,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 217652,
@@ -5375,6 +5439,14 @@
       "num": 162392,
       "word": "原来小猫咪也会发光",
       "onboard_time": 1673864127,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 145669,
+      "num": 145669,
+      "word": "一只猫咪可以有多黑",
+      "onboard_time": 1674018807,
       "rank": 48,
       "category": "幽默"
     },

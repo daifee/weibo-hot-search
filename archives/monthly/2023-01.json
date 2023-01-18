@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674016703479,
+  "endTime": 1674019049032,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -7715,6 +7715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 721983,
+      "num": 721983,
+      "word": "暴雪绿茶定价13",
+      "onboard_time": 1674017006,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 721365,
       "num": 721365,
       "word": "各地大学生出手了",
@@ -7857,6 +7865,14 @@
       "onboard_time": 1672662509,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 712357,
+      "num": 712357,
+      "word": "周焯华获刑18年",
+      "onboard_time": 1674015147,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 711718,
@@ -8457,6 +8473,14 @@
       "onboard_time": 1673600370,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 673009,
+      "num": 673009,
+      "word": "孙俪 我问邓先生今天天气预报",
+      "onboard_time": 1674014426,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 672413,
@@ -9521,14 +9545,6 @@
       "onboard_time": 1672566328,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 621495,
-      "num": 621495,
-      "word": "孙俪 我问邓先生今天天气预报",
-      "onboard_time": 1674014426,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 620256,
@@ -13451,14 +13467,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 477865,
-      "num": 477865,
-      "word": "周焯华获刑18年",
-      "onboard_time": 1674015147,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 477864,
       "num": 477864,
       "word": "大爷心疼网友吃猕猴桃酸掉牙",
@@ -13489,6 +13497,14 @@
       "onboard_time": 1672791390,
       "rank": 13,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 476566,
+      "num": 476566,
+      "word": "文在寅退休后在村里开书店",
+      "onboard_time": 1674017786,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 476323,
@@ -16328,6 +16344,14 @@
       "word": "刘亦菲李现去有风的地方吻戏",
       "onboard_time": 1672557990,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 401518,
+      "num": 401518,
+      "word": "王鹤棣对陈钰琪说娘娘这也太隆重了吧",
+      "onboard_time": 1674015688,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -20499,6 +20523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331086,
+      "num": 331086,
+      "word": "蔡徐坤引用诗词给网友拜早年",
+      "onboard_time": 1674018388,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330942,
       "num": 330942,
       "word": "得知前任结婚时是什么感受",
@@ -23313,14 +23345,6 @@
       "onboard_time": 1672557151,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289620,
-      "num": 289620,
-      "word": "王鹤棣对陈钰琪说娘娘这也太隆重了吧",
-      "onboard_time": 1674015688,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 289470,
@@ -26283,6 +26307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256461,
+      "num": 256461,
+      "word": "黄子弘凡是懂戳肺管子的",
+      "onboard_time": 1674017907,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256372,
       "num": 256372,
       "word": "狗子是懂用屁股的",
@@ -26881,6 +26913,14 @@
       "onboard_time": 1673961268,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 250848,
+      "num": 250848,
+      "word": "樊振东和皇马梦幻联动",
+      "onboard_time": 1674018204,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 250779,
@@ -27899,6 +27939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239930,
+      "num": 239930,
+      "word": "龚俊李现成毅今日大片",
+      "onboard_time": 1674017368,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 239814,
       "num": 240416,
       "word": "总要去湖南看一次烟花秀吧",
@@ -28843,6 +28891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228715,
+      "num": 228715,
+      "word": "许红豆谢之遥的感情没有狗血情节",
+      "onboard_time": 1674018025,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228488,
       "num": 228488,
       "word": "LNG对战BLG",
@@ -29585,6 +29641,14 @@
       "onboard_time": 1672808913,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219691,
+      "num": 219691,
+      "word": "甄子丹称中国武侠片可以重振雄风",
+      "onboard_time": 1674017248,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 219672,
@@ -37113,6 +37177,14 @@
       "onboard_time": 1673785708,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145669,
+      "num": 145669,
+      "word": "一只猫咪可以有多黑",
+      "onboard_time": 1674018807,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 145540,
