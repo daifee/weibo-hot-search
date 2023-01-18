@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674033489525,
+  "endTime": 1674034429122,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -585,6 +585,14 @@
       "onboard_time": 1673927248,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1129398,
+      "num": 1129398,
+      "word": "一中国女子在韩国接受整容手术中途身亡",
+      "onboard_time": 1674032366,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1127613,
@@ -2123,14 +2131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463757,
-      "num": 463757,
-      "word": "一中国女子在韩国接受整容手术中途身亡",
-      "onboard_time": 1674032366,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 463104,
       "num": 440312,
       "word": "陈泗旭女朋友",
@@ -3060,7 +3060,7 @@
     },
     {
       "raw_hot": 338522,
-      "num": 191108,
+      "num": 283712,
       "word": "EVA终延期上线",
       "onboard_time": 1674033326,
       "rank": 30,
@@ -3121,6 +3121,14 @@
       "onboard_time": 1673882555,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333032,
+      "num": 177545,
+      "word": "乌克兰内务部长坠机身亡",
+      "onboard_time": 1674033688,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 332638,
@@ -3881,6 +3889,14 @@
       "onboard_time": 1673833525,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273635,
+      "num": 273635,
+      "word": "张艺兴微博音乐盛典舞台彩排图",
+      "onboard_time": 1674034107,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 273165,
@@ -4979,6 +4995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203261,
+      "num": 203261,
+      "word": "陈晓说有条有序井井不紊开始过年了",
+      "onboard_time": 1674030927,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203224,
       "num": 181298,
       "word": "张艺兴亮相11年了",
@@ -5225,14 +5249,6 @@
       "onboard_time": 1674019405,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190013,
-      "num": 190013,
-      "word": "陈晓说有条有序井井不紊开始过年了",
-      "onboard_time": 1674030927,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 189806,
@@ -5587,6 +5603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171431,
+      "num": 171431,
+      "word": "虞书欣读小桔灯梦回童年",
+      "onboard_time": 1674033626,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170859,
       "num": 165834,
       "word": "月球20.3亿岁了",
@@ -5683,6 +5707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167777,
+      "num": 167777,
+      "word": "安徽省考",
+      "onboard_time": 1674033626,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 167324,
       "num": 167324,
       "word": "于和伟史强自制倒数计时",
@@ -5713,6 +5745,14 @@
       "onboard_time": 1673968352,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165237,
+      "num": 149031,
+      "word": "周笔畅缎面星空西装",
+      "onboard_time": 1674033923,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 165229,
@@ -5753,6 +5793,14 @@
       "onboard_time": 1673884168,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163524,
+      "num": 146529,
+      "word": "哈妹早年离谱民国神剧",
+      "onboard_time": 1674033923,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 163500,
@@ -6187,6 +6235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137960,
+      "num": 137960,
+      "word": "以后有想法先别告诉别人",
+      "onboard_time": 1674034165,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137643,
       "num": 181233,
       "word": "留学归国去大城市还是回乡",
@@ -6225,6 +6281,14 @@
       "onboard_time": 1673923947,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136139,
+      "num": 136139,
+      "word": "三亚大东海鲨鱼咬人系谣言",
+      "onboard_time": 1674034047,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135823,
@@ -6441,6 +6505,14 @@
       "onboard_time": 1673923767,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 117253,
+      "num": 117253,
+      "word": "台湾禁售麻辣花生",
+      "onboard_time": 1674034407,
+      "rank": 48,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 117212,
@@ -6795,6 +6867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91731,
+      "num": 981777,
+      "word": "沉浸式体验C919验证飞行",
+      "onboard_time": 1674031888,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 91301,
       "num": 91301,
       "word": "2023年春运",
@@ -7017,14 +7097,6 @@
       "onboard_time": 1673773647,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 60866,
-      "num": 948002,
-      "word": "沉浸式体验C919验证飞行",
-      "onboard_time": 1674031888,
-      "rank": 2,
-      "category": "科技"
     },
     {
       "raw_hot": 54908,
