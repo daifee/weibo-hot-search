@@ -1,0 +1,410 @@
+{
+  "runTime": 1674026220308,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1633902,
+        "num": 1633902,
+        "word": "台当局要下架螺蛳粉民众狂囤货",
+        "onboard_time": 1674020488,
+        "rank": 0,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1009405,
+        "num": 1009405,
+        "word": "山姆回应蓝环章鱼事件",
+        "onboard_time": 1674014369,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41557,
+        "num": 850041,
+        "word": "感谢每个坚守岗位的奋斗者",
+        "onboard_time": 1674010467,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805405,
+        "num": 805405,
+        "word": "浪胃仙创始人被逮捕",
+        "onboard_time": 1674005605,
+        "rank": 3,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 683575,
+        "num": 683575,
+        "word": "网易称暴雪离婚不离身",
+        "onboard_time": 1673997798,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 613491,
+        "num": 613491,
+        "word": "张子枫章子怡张颂文演绎初代外交天团",
+        "onboard_time": 1674021509,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 503223,
+        "num": 503223,
+        "word": "云南一男子连跑三次办结婚证未果",
+        "onboard_time": 1674020845,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472956,
+        "num": 472956,
+        "word": "暴雪绿茶定价13",
+        "onboard_time": 1674017006,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 424612,
+        "num": 424612,
+        "word": "吃播账号浪胃仙被判属原公司",
+        "onboard_time": 1674001587,
+        "rank": 8,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 421331,
+        "num": 421331,
+        "word": "王一博无名新浪直播状态",
+        "onboard_time": 1674024807,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454744,
+        "num": 415577,
+        "word": "金采源恋情",
+        "onboard_time": 1674011728,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392838,
+        "num": 392838,
+        "word": "岳云鹏 师父生日快乐爱您呦",
+        "onboard_time": 1674023727,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360229,
+        "num": 360229,
+        "word": "陈凯歌保密电影预告还在保密",
+        "onboard_time": 1674021986,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355063,
+        "num": 355063,
+        "word": "文在寅退休后在村里开书店",
+        "onboard_time": 1674017786,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 345706,
+        "num": 345706,
+        "word": "陈飞宇逛街被偶遇",
+        "onboard_time": 1674021086,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339522,
+        "num": 339522,
+        "word": "一只猫咪可以有多黑",
+        "onboard_time": 1674018807,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329874,
+        "num": 329874,
+        "word": "无名",
+        "onboard_time": 1674023965,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315822,
+        "num": 315822,
+        "word": "浙江省考",
+        "onboard_time": 1674025286,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 308779,
+        "num": 308779,
+        "word": "重庆街头巨型兔子灯被市民吐槽太丑",
+        "onboard_time": 1674004825,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305766,
+        "num": 305766,
+        "word": "黄晓明对家人报喜不报忧",
+        "onboard_time": 1674023186,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301385,
+        "num": 301385,
+        "word": "宁艺卓生图状态",
+        "onboard_time": 1674021745,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294945,
+        "num": 294945,
+        "word": "虞书欣北京春晚舞台花絮",
+        "onboard_time": 1674025106,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292230,
+        "num": 292230,
+        "word": "迪奥",
+        "onboard_time": 1674009448,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279085,
+        "num": 279085,
+        "word": "人类幼崽为了吃的能有多会",
+        "onboard_time": 1674020786,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262546,
+        "num": 262546,
+        "word": "妈妈买900斤橘子等女儿回家过年",
+        "onboard_time": 1674004825,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260477,
+        "num": 260477,
+        "word": "孙俪 我问邓先生今天天气预报",
+        "onboard_time": 1674014426,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253955,
+        "num": 253955,
+        "word": "原来优雅是不分年龄的",
+        "onboard_time": 1674022286,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237995,
+        "num": 237995,
+        "word": "福兔",
+        "onboard_time": 1674003746,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 223636,
+        "num": 223636,
+        "word": "新生儿成白肺医生跪地抢救",
+        "onboard_time": 1674005006,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 204950,
+        "num": 209291,
+        "word": "鼓励生育要先解决年轻人的后顾之忧",
+        "onboard_time": 1674003868,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234198,
+        "num": 209104,
+        "word": "龚俊说如果不做演员可能会开串串香店",
+        "onboard_time": 1674022766,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208169,
+        "num": 208169,
+        "word": "宋慧乔黑暗荣耀2定档",
+        "onboard_time": 1674014667,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205991,
+        "num": 205991,
+        "word": "日本刘大锤",
+        "onboard_time": 1674013708,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194571,
+        "num": 194571,
+        "word": "澳网纳达尔出局",
+        "onboard_time": 1674025405,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193631,
+        "num": 193631,
+        "word": "周焯华获刑18年",
+        "onboard_time": 1674015147,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192597,
+        "num": 192597,
+        "word": "原来做饭真的会加速女性衰老",
+        "onboard_time": 1674002126,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188201,
+        "num": 188201,
+        "word": "澳网",
+        "onboard_time": 1674024085,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178707,
+        "num": 178707,
+        "word": "陈都灵新剧孤舟旗袍造型",
+        "onboard_time": 1674025467,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177904,
+        "num": 177904,
+        "word": "iG选手",
+        "onboard_time": 1674021387,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175940,
+        "num": 175940,
+        "word": "网易 阴阳师",
+        "onboard_time": 1674021686,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171038,
+        "num": 171038,
+        "word": "苏醒张远与十年前的自己对话",
+        "onboard_time": 1674021328,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168245,
+        "num": 168245,
+        "word": "于和伟 这样的大史形似贴脸了",
+        "onboard_time": 1674025947,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168009,
+        "num": 168009,
+        "word": "第一次见火车高级软卧",
+        "onboard_time": 1674006146,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165492,
+        "num": 165492,
+        "word": "蒲熠星给名学片头配旁白",
+        "onboard_time": 1674023847,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164851,
+        "num": 164851,
+        "word": "大侦探第八季定档",
+        "onboard_time": 1674009086,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147031,
+        "num": 147031,
+        "word": "潮汕过年时的氛围",
+        "onboard_time": 1674024927,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151729,
+        "num": 146876,
+        "word": "吴昕说大侦探第八季我回来了",
+        "onboard_time": 1674023066,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146307,
+        "num": 146307,
+        "word": "目前还没阳过是什么原因",
+        "onboard_time": 1674007168,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 140981,
+        "num": 140981,
+        "word": "肖铎步音楼船上复合吻",
+        "onboard_time": 1674021686,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137610,
+        "num": 137610,
+        "word": "猫咪这表情似乎它听懂了",
+        "onboard_time": 1674025886,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#出站就是团圆#"
+    }
+  }
+}

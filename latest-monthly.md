@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/18 14:38:39
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/18 15:17:00
 </p>
 </blockquote>
 <p>
@@ -1335,6 +1335,12 @@ k4（热度：1673744）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%BD%93%E5%B1%80%E8%A6%81%E4%B8%8B%E6%9E%B6%E8%9E%BA%E8%9B%B3%E7%B2%89%E6%B0%91%E4%BC%97%E7%8B%82%E5%9B%A4%E8%B4%A7%23" target="weibo">
+台当局要下架螺蛳粉民众狂囤货（热度：1633902）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E6%82%A6%E6%BA%AA%E5%9B%9E%E5%BA%94%E7%8E%8B%E6%A2%93%E8%96%87%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E8%A2%AB%E6%8D%A2%E8%A7%92%23" target="weibo">
 安悦溪回应王梓薇以爱为营被换角（热度：1624302）
 </a>
@@ -2567,12 +2573,6 @@ EXO再唱初雪（热度：1193995）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%BF%E5%9B%9E%E5%BA%94%E6%8B%89%E5%AE%8F%E6%A1%91%E8%A2%AB%E9%AA%82%23" target="weibo">
 小鹿回应拉宏桑被骂（热度：1184822）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%BD%93%E5%B1%80%E8%A6%81%E4%B8%8B%E6%9E%B6%E8%9E%BA%E8%9B%B3%E7%B2%89%E6%B0%91%E4%BC%97%E7%8B%82%E5%9B%A4%E8%B4%A7%23" target="weibo">
-台当局要下架螺蛳粉民众狂囤货（热度：1184733）
 </a>
 </li>
 
