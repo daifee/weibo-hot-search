@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674041607019,
+  "endTime": 1674045304469,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1789433,
+      "num": 1789433,
+      "word": "男子年终奖太多公安送回家",
+      "onboard_time": 1674038008,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1786002,
       "num": 1786002,
       "word": "向太晒全家照为郭碧婷庆生",
@@ -273,14 +281,6 @@
       "onboard_time": 1673957126,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1680433,
-      "num": 1680433,
-      "word": "男子年终奖太多公安送回家",
-      "onboard_time": 1674038008,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1672565,
@@ -515,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1263683,
+      "num": 1263683,
+      "word": "张艺兴舞台牵单依纯出场",
+      "onboard_time": 1674043109,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1236324,
       "num": 861518,
       "word": "中国人口近61年来首次负增长",
@@ -633,6 +641,14 @@
       "onboard_time": 1673950828,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1114166,
+      "num": 1114166,
+      "word": "好欢螺呼吁网友理性消费",
+      "onboard_time": 1674040891,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1072840,
@@ -979,6 +995,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 852607,
+      "num": 852607,
+      "word": "狂飙第一个内鬼",
+      "onboard_time": 1674041249,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 851021,
       "num": 851021,
       "word": "晋江判定藤萝为枝黑月光未抄袭",
@@ -1121,6 +1145,14 @@
       "onboard_time": 1674017786,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 775049,
+      "num": 775049,
+      "word": "宋亚轩学生证丢了",
+      "onboard_time": 1674044908,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 772610,
@@ -2227,12 +2259,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 477200,
+      "num": 477200,
+      "word": "丁程鑫向马嘉祺推销北电校服",
+      "onboard_time": 1674041492,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470344,
       "num": 470344,
       "word": "儿子出国8年首次回家妈妈喜极而泣",
       "onboard_time": 1673887643,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468577,
+      "num": 468577,
+      "word": "大貔貅",
+      "onboard_time": 1674040770,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 466890,
@@ -2411,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441432,
+      "num": 415202,
+      "word": "春晚",
+      "onboard_time": 1674041190,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439503,
       "num": 439503,
       "word": "流浪地球2用AI修复了李雪健原声",
@@ -2425,6 +2481,14 @@
       "onboard_time": 1673925029,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 435681,
+      "num": 435681,
+      "word": "瑞典环保少女又被德国警察抬走了",
+      "onboard_time": 1674042208,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431330,
@@ -2528,14 +2592,6 @@
       "word": "张若昀说职场恋情不要为难年轻人",
       "onboard_time": 1673963852,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 415202,
-      "num": 415202,
-      "word": "春晚",
-      "onboard_time": 1674041190,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -2771,14 +2827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 382937,
-      "num": 382937,
-      "word": "丁程鑫向马嘉祺推销北电校服",
-      "onboard_time": 1674041492,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 381901,
       "num": 381901,
       "word": "公共场所的烘手器有多脏",
@@ -2801,6 +2849,14 @@
       "onboard_time": 1673867250,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380336,
+      "num": 311995,
+      "word": "微博音乐盛典现场",
+      "onboard_time": 1674044729,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 379514,
@@ -3049,14 +3105,6 @@
       "onboard_time": 1673791175,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358364,
-      "num": 358364,
-      "word": "大貔貅",
-      "onboard_time": 1674040770,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 354570,
@@ -3427,6 +3475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328063,
+      "num": 169049,
+      "word": "BOYSTORY开场表演",
+      "onboard_time": 1674044489,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 327932,
       "num": 327932,
       "word": "李信山海炽霜斩新皮肤",
@@ -3593,6 +3649,14 @@
       "onboard_time": 1673845295,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313129,
+      "num": 313129,
+      "word": "你期待的年终奖是多少",
+      "onboard_time": 1674043050,
+      "rank": 19,
+      "category": "财经,情感"
     },
     {
       "raw_hot": 311434,
@@ -4723,6 +4787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 240862,
+      "num": 240862,
+      "word": "广东男篮vs辽宁男篮",
+      "onboard_time": 1674043531,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240388,
       "num": 240388,
       "word": "乘务员飞机上暖心帮乘客哄宝宝",
@@ -5139,14 +5211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211248,
-      "num": 211248,
-      "word": "好欢螺呼吁网友理性消费",
-      "onboard_time": 1674040891,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211088,
       "num": 401919,
       "word": "女兵为带军犬跳伞暴增体重10斤",
@@ -5321,14 +5385,6 @@
       "onboard_time": 1674016108,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199513,
-      "num": 195869,
-      "word": "狂飙第一个内鬼",
-      "onboard_time": 1674041249,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 198995,
@@ -5955,6 +6011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169548,
+      "num": 169548,
+      "word": "疫情以来广大医务工作者作出了重大贡献",
+      "onboard_time": 1674043829,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168964,
       "num": 168964,
       "word": "年后再说",
@@ -6123,6 +6187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162121,
+      "num": 162121,
+      "word": "好欢螺",
+      "onboard_time": 1674045031,
+      "rank": 42,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 160893,
       "num": 160893,
       "word": "腊月二十六",
@@ -6153,6 +6225,14 @@
       "onboard_time": 1673918187,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157189,
+      "num": 157189,
+      "word": "浙江宣传由一颗大脑发起破壁计划",
+      "onboard_time": 1674042928,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156806,
@@ -7320,6 +7400,14 @@
       "word": "春节气氛组不能没有兔子灯",
       "onboard_time": 1673964272,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73905,
+      "num": 1120783,
+      "word": "大寒除夕春节喜相连",
+      "onboard_time": 1674044190,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1674041607019,
+  "endTime": 1674045304469,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -51,20 +51,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1789433,
+      "num": 1789433,
+      "word": "男子年终奖太多公安送回家",
+      "onboard_time": 1674038008,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1685266,
       "num": 602628,
       "word": "文春预告KPOP爱豆恋情",
       "onboard_time": 1673957126,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1680433,
-      "num": 1680433,
-      "word": "男子年终奖太多公安送回家",
-      "onboard_time": 1674038008,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1633902,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1263683,
+      "num": 1263683,
+      "word": "张艺兴舞台牵单依纯出场",
+      "onboard_time": 1674043109,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1204302,
       "num": 1204302,
       "word": "迪奥",
@@ -145,6 +153,14 @@
       "onboard_time": 1673965474,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1114166,
+      "num": 1114166,
+      "word": "好欢螺呼吁网友理性消费",
+      "onboard_time": 1674040891,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1066339,
@@ -235,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 852607,
+      "num": 852607,
+      "word": "狂飙第一个内鬼",
+      "onboard_time": 1674041249,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 845052,
       "num": 845052,
       "word": "王俊凯王一博易烊千玺直播动图",
@@ -289,6 +313,14 @@
       "onboard_time": 1674017786,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 775049,
+      "num": 775049,
+      "word": "宋亚轩学生证丢了",
+      "onboard_time": 1674044908,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 765838,
@@ -627,6 +659,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 477200,
+      "num": 477200,
+      "word": "丁程鑫向马嘉祺推销北电校服",
+      "onboard_time": 1674041492,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 468577,
+      "num": 468577,
+      "word": "大貔貅",
+      "onboard_time": 1674040770,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 466890,
       "num": 466890,
       "word": "被兔年第一个字难倒了",
@@ -667,6 +715,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 441432,
+      "num": 415202,
+      "word": "春晚",
+      "onboard_time": 1674041190,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 435681,
+      "num": 435681,
+      "word": "瑞典环保少女又被德国警察抬走了",
+      "onboard_time": 1674042208,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430638,
       "num": 430638,
       "word": "年轻人的过年方式有多统一",
@@ -705,14 +769,6 @@
       "onboard_time": 1673962591,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 415202,
-      "num": 415202,
-      "word": "春晚",
-      "onboard_time": 1674041190,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 413643,
@@ -787,20 +843,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 382937,
-      "num": 382937,
-      "word": "丁程鑫向马嘉祺推销北电校服",
-      "onboard_time": 1674041492,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 381741,
       "num": 381741,
       "word": "易烊千玺戳酒窝",
       "onboard_time": 1674005487,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 380336,
+      "num": 311995,
+      "word": "微博音乐盛典现场",
+      "onboard_time": 1674044729,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 379018,
@@ -865,14 +921,6 @@
       "onboard_time": 1673961809,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 358364,
-      "num": 358364,
-      "word": "大貔貅",
-      "onboard_time": 1674040770,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 352081,
@@ -1003,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 328063,
+      "num": 169049,
+      "word": "BOYSTORY开场表演",
+      "onboard_time": 1674044489,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 326492,
       "num": 326492,
       "word": "陈泗旭后援会推荐歌曲活该",
@@ -1017,6 +1073,14 @@
       "onboard_time": 1674012148,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 313129,
+      "num": 313129,
+      "word": "你期待的年终奖是多少",
+      "onboard_time": 1674043050,
+      "rank": 19,
+      "category": "财经,情感"
     },
     {
       "raw_hot": 308328,
@@ -1105,6 +1169,14 @@
       "onboard_time": 1674036448,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 280918,
+      "num": 280918,
+      "word": "生肖卡",
+      "onboard_time": 1674041910,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 279976,
@@ -1411,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240862,
+      "num": 240862,
+      "word": "广东男篮vs辽宁男篮",
+      "onboard_time": 1674043531,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239930,
       "num": 239930,
       "word": "龚俊李现成毅今日大片",
@@ -1555,14 +1635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211248,
-      "num": 211248,
-      "word": "好欢螺呼吁网友理性消费",
-      "onboard_time": 1674040891,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211088,
       "num": 401919,
       "word": "女兵为带军犬跳伞暴增体重10斤",
@@ -1633,14 +1705,6 @@
       "onboard_time": 1674016108,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199513,
-      "num": 195869,
-      "word": "狂飙第一个内鬼",
-      "onboard_time": 1674041249,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 198995,
@@ -1923,6 +1987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169548,
+      "num": 169548,
+      "word": "疫情以来广大医务工作者作出了重大贡献",
+      "onboard_time": 1674043829,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168893,
       "num": 168893,
       "word": "于和伟在三体跳广场舞",
@@ -1971,6 +2043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162121,
+      "num": 162121,
+      "word": "好欢螺",
+      "onboard_time": 1674045031,
+      "rank": 42,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 160236,
       "num": 160236,
       "word": "深海",
@@ -1985,6 +2065,14 @@
       "onboard_time": 1673959349,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157189,
+      "num": 157189,
+      "word": "浙江宣传由一颗大脑发起破壁计划",
+      "onboard_time": 1674042928,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157065,
@@ -2337,6 +2425,14 @@
       "onboard_time": 1673962170,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 73905,
+      "num": 1120783,
+      "word": "大寒除夕春节喜相连",
+      "onboard_time": 1674044190,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52673,
