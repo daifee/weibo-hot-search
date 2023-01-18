@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674066146183,
+  "endTime": 1674067013500,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -7595,6 +7595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107562,
+      "num": 107562,
+      "word": "练书法和学美术的都沉默了",
+      "onboard_time": 1674063797,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106766,
       "num": 132872,
       "word": "这是一只来自星星的猫",
@@ -7801,14 +7809,6 @@
       "onboard_time": 1673824037,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92707,
-      "num": 92707,
-      "word": "练书法和学美术的都沉默了",
-      "onboard_time": 1674063797,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 92529,
