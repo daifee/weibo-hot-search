@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1674045304469,
+  "endTime": 1674046411429,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -107,12 +107,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1263683,
-      "num": 1263683,
+      "raw_hot": 1264141,
+      "num": 1264141,
       "word": "张艺兴舞台牵单依纯出场",
       "onboard_time": 1674043109,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1233252,
+      "num": 1233252,
+      "word": "宋亚轩学生证丢了",
+      "onboard_time": 1674044908,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1204302,
@@ -235,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 889227,
+      "num": 889227,
+      "word": "好欢螺",
+      "onboard_time": 1674045031,
+      "rank": 42,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 878328,
       "num": 878328,
       "word": "暴雪绿茶定价13",
@@ -313,14 +329,6 @@
       "onboard_time": 1674017786,
       "rank": 11,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 775049,
-      "num": 775049,
-      "word": "宋亚轩学生证丢了",
-      "onboard_time": 1674044908,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 765838,
@@ -587,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540168,
+      "num": 540168,
+      "word": "生肖卡",
+      "onboard_time": 1674041910,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 516852,
       "num": 516852,
       "word": "陈凯歌保密电影预告还在保密",
@@ -641,6 +657,14 @@
       "onboard_time": 1674012269,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 489423,
+      "num": 489423,
+      "word": "瑞典环保少女又被德国警察抬走了",
+      "onboard_time": 1674042208,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 484790,
@@ -721,14 +745,6 @@
       "onboard_time": 1674041190,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 435681,
-      "num": 435681,
-      "word": "瑞典环保少女又被德国警察抬走了",
-      "onboard_time": 1674042208,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430638,
@@ -1107,6 +1123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 304883,
+      "num": 304883,
+      "word": "刘恋教INTO1吹卡祖笛",
+      "onboard_time": 1674045810,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 304712,
       "num": 304712,
       "word": "董子健刘昊然我的朋友安德烈杀青",
@@ -1169,14 +1193,6 @@
       "onboard_time": 1674036448,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 280918,
-      "num": 280918,
-      "word": "生肖卡",
-      "onboard_time": 1674041910,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 279976,
@@ -1867,6 +1883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186565,
+      "num": 186565,
+      "word": "疫情以来广大医务工作者作出了重大贡献",
+      "onboard_time": 1674043829,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186210,
       "num": 186210,
       "word": "DK对战DRX",
@@ -1939,6 +1963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178152,
+      "num": 178152,
+      "word": "狼队云年会",
+      "onboard_time": 1674045451,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177758,
       "num": 494705,
       "word": "原神3.4版本更新 艾尔海森",
@@ -1953,6 +1985,14 @@
       "onboard_time": 1673996535,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174609,
+      "num": 174609,
+      "word": "浙江宣传由一颗大脑发起破壁计划",
+      "onboard_time": 1674042928,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172867,
@@ -1985,14 +2025,6 @@
       "onboard_time": 1674000985,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169548,
-      "num": 169548,
-      "word": "疫情以来广大医务工作者作出了重大贡献",
-      "onboard_time": 1674043829,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168893,
@@ -2043,12 +2075,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 162121,
-      "num": 162121,
-      "word": "好欢螺",
-      "onboard_time": 1674045031,
-      "rank": 42,
-      "category": "社会新闻,美食"
+      "raw_hot": 160319,
+      "num": 160319,
+      "word": "郑钦文",
+      "onboard_time": 1674041310,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 160236,
@@ -2065,14 +2097,6 @@
       "onboard_time": 1673959349,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157189,
-      "num": 157189,
-      "word": "浙江宣传由一颗大脑发起破壁计划",
-      "onboard_time": 1674042928,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157065,
@@ -2145,6 +2169,14 @@
       "onboard_time": 1673955568,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146798,
+      "num": 146798,
+      "word": "CBA",
+      "onboard_time": 1674046110,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 146367,
@@ -2323,14 +2355,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110442,
-      "num": 110442,
-      "word": "郑钦文",
-      "onboard_time": 1674041310,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109040,
       "num": 156552,
       "word": "魔兽世界电子骨灰盒上线",
@@ -2360,6 +2384,14 @@
       "word": "上海已度过本轮疫情感染高峰",
       "onboard_time": 1673958567,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97902,
+      "num": 1235101,
+      "word": "大寒除夕春节喜相连",
+      "onboard_time": 1674044190,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2425,14 +2457,6 @@
       "onboard_time": 1673962170,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 73905,
-      "num": 1120783,
-      "word": "大寒除夕春节喜相连",
-      "onboard_time": 1674044190,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52673,

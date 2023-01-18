@@ -1,0 +1,410 @@
+{
+  "runTime": 1674046411429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1675658,
+        "num": 1675658,
+        "word": "男子年终奖太多公安送回家",
+        "onboard_time": 1674038008,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1264141,
+        "num": 1264141,
+        "word": "张艺兴舞台牵单依纯出场",
+        "onboard_time": 1674043109,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97902,
+        "num": 1235101,
+        "word": "大寒除夕春节喜相连",
+        "onboard_time": 1674044190,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1233252,
+        "num": 1233252,
+        "word": "宋亚轩学生证丢了",
+        "onboard_time": 1674044908,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 916974,
+        "num": 916974,
+        "word": "好欢螺呼吁网友理性消费",
+        "onboard_time": 1674040891,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889227,
+        "num": 889227,
+        "word": "好欢螺",
+        "onboard_time": 1674045031,
+        "rank": 5,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 845191,
+        "num": 845191,
+        "word": "沈梦辰说嫁给海涛嫁对了",
+        "onboard_time": 1674035189,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 782604,
+        "num": 782604,
+        "word": "狂飙第一个内鬼",
+        "onboard_time": 1674041249,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 702300,
+        "num": 702300,
+        "word": "一中国女子在韩国接受整容手术中途身亡",
+        "onboard_time": 1674032366,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651187,
+        "num": 651187,
+        "word": "台湾禁售麻辣花生",
+        "onboard_time": 1674034407,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 540168,
+        "num": 540168,
+        "word": "生肖卡",
+        "onboard_time": 1674041910,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 525119,
+        "num": 525119,
+        "word": "37岁离异女博士与小13岁吉他老师相恋",
+        "onboard_time": 1674034706,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489423,
+        "num": 489423,
+        "word": "瑞典环保少女又被德国警察抬走了",
+        "onboard_time": 1674042208,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472238,
+        "num": 472238,
+        "word": "时代少年团红毯签了七个名字",
+        "onboard_time": 1674041190,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 470021,
+        "num": 470021,
+        "word": "周震南父母被恢复执行5850万",
+        "onboard_time": 1674037887,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458623,
+        "num": 458623,
+        "word": "王鹤棣谈困境与爆红",
+        "onboard_time": 1674041249,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379948,
+        "num": 379948,
+        "word": "台当局要下架螺蛳粉民众狂囤货",
+        "onboard_time": 1674020488,
+        "rank": 16,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 407312,
+        "num": 375225,
+        "word": "丁程鑫向马嘉祺推销北电校服",
+        "onboard_time": 1674041492,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405957,
+        "num": 374711,
+        "word": "阿娇蓝色大海美人鱼造型",
+        "onboard_time": 1674039870,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 368067,
+        "num": 368067,
+        "word": "大貔貅",
+        "onboard_time": 1674040770,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 320060,
+        "num": 320060,
+        "word": "女子用网红罐存现金20万变死期",
+        "onboard_time": 1674028405,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304883,
+        "num": 304883,
+        "word": "刘恋教INTO1吹卡祖笛",
+        "onboard_time": 1674045810,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 299116,
+        "num": 299116,
+        "word": "纽约时报盛赞刘亦菲演的许红豆",
+        "onboard_time": 1674040113,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278898,
+        "num": 278898,
+        "word": "微博音乐盛典现场",
+        "onboard_time": 1674044729,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 272796,
+        "num": 272796,
+        "word": "官方通报山姆会员店销售蓝环章鱼",
+        "onboard_time": 1674038789,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265091,
+        "num": 265091,
+        "word": "你期待的年终奖是多少",
+        "onboard_time": 1674043050,
+        "rank": 25,
+        "category": "财经,情感"
+      },
+      {
+        "raw_hot": 239889,
+        "num": 239889,
+        "word": "王俊凯王一博易烊千玺直播动图",
+        "onboard_time": 1674026904,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239695,
+        "num": 239695,
+        "word": "严浩翔老师在早功放正轨",
+        "onboard_time": 1674040648,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222601,
+        "num": 222601,
+        "word": "乌克兰内务部长坠机身亡",
+        "onboard_time": 1674033688,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 189940,
+        "num": 189940,
+        "word": "广东男篮vs辽宁男篮",
+        "onboard_time": 1674043531,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216436,
+        "num": 189611,
+        "word": "WayV新歌内娱初舞台",
+        "onboard_time": 1674040709,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198754,
+        "num": 188909,
+        "word": "许红豆只休三个月的原因",
+        "onboard_time": 1674027027,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198212,
+        "num": 188687,
+        "word": "虞书欣晒小恶魔造型随拍",
+        "onboard_time": 1674039573,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188110,
+        "num": 188110,
+        "word": "中央军委举行晋升上将军衔仪式",
+        "onboard_time": 1674039631,
+        "rank": 33,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 186565,
+        "num": 186565,
+        "word": "疫情以来广大医务工作者作出了重大贡献",
+        "onboard_time": 1674043829,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185806,
+        "num": 185806,
+        "word": "转发赵露思微博能得平安卡",
+        "onboard_time": 1674037528,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179323,
+        "num": 179323,
+        "word": "00后是懂无痛攒钱的",
+        "onboard_time": 1674028645,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178152,
+        "num": 178152,
+        "word": "狼队云年会",
+        "onboard_time": 1674045451,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176694,
+        "num": 176694,
+        "word": "春晚",
+        "onboard_time": 1674041190,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174609,
+        "num": 174609,
+        "word": "浙江宣传由一颗大脑发起破壁计划",
+        "onboard_time": 1674042928,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171549,
+        "num": 171549,
+        "word": "周深春晚节目意想不到的温暖",
+        "onboard_time": 1674037589,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161581,
+        "num": 161581,
+        "word": "迪奥",
+        "onboard_time": 1674009448,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160319,
+        "num": 160319,
+        "word": "郑钦文",
+        "onboard_time": 1674041310,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156697,
+        "num": 156697,
+        "word": "杜海涛妈妈说看完交换人生想换成雷佳音",
+        "onboard_time": 1674035008,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155020,
+        "num": 155020,
+        "word": "英专生又多了一个就业方向",
+        "onboard_time": 1674026608,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146798,
+        "num": 146798,
+        "word": "CBA",
+        "onboard_time": 1674046110,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137912,
+        "num": 137912,
+        "word": "机场回应大厅雕塑被指有损女性形象",
+        "onboard_time": 1674027146,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137132,
+        "num": 137132,
+        "word": "乌克兰国家紧急事务局一直升机坠毁",
+        "onboard_time": 1674036150,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 124051,
+        "num": 124051,
+        "word": "鹿晗白衬衫背头造型",
+        "onboard_time": 1674036448,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119507,
+        "num": 119507,
+        "word": "原来广东人是最爱为宠物花钱的",
+        "onboard_time": 1674039930,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春祝福来了#"
+    }
+  }
+}
