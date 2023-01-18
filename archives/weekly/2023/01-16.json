@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674020016594,
+  "endTime": 1674023042572,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1466031,
+      "num": 1466031,
+      "word": "山姆回应蓝环章鱼事件",
+      "onboard_time": 1674014369,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1441538,
       "num": 1057136,
       "word": "老人卧床吸烟着火扑救后复燃身亡",
@@ -515,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1201790,
+      "num": 1201790,
+      "word": "张子枫章子怡张颂文演绎初代外交天团",
+      "onboard_time": 1674021509,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1193890,
       "num": 1193890,
       "word": "西安啊那没事了",
@@ -561,14 +577,6 @@
       "onboard_time": 1673927248,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1133922,
-      "num": 1133922,
-      "word": "山姆回应蓝环章鱼事件",
-      "onboard_time": 1674014369,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1127613,
@@ -657,6 +665,14 @@
       "onboard_time": 1673942666,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1015807,
+      "num": 1015807,
+      "word": "台当局要下架螺蛳粉民众狂囤货",
+      "onboard_time": 1674020488,
+      "rank": 3,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 992249,
@@ -1012,7 +1028,7 @@
     },
     {
       "raw_hot": 776197,
-      "num": 476566,
+      "num": 663322,
       "word": "文在寅退休后在村里开书店",
       "onboard_time": 1674017786,
       "rank": 11,
@@ -1931,6 +1947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 487065,
+      "num": 487065,
+      "word": "陈凯歌保密电影预告还在保密",
+      "onboard_time": 1674021986,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 486093,
       "num": 486093,
       "word": "吴京说刘德华冻龄是咖啡喝出来的",
@@ -2065,6 +2089,14 @@
       "onboard_time": 1673954190,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 447707,
+      "num": 447707,
+      "word": "一只猫咪可以有多黑",
+      "onboard_time": 1674018807,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 447650,
@@ -2251,6 +2283,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 408802,
+      "num": 408802,
+      "word": "苏醒张远与十年前的自己对话",
+      "onboard_time": 1674021328,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 408782,
       "num": 408782,
       "word": "刑释人员可不可以当网红",
@@ -2409,6 +2449,14 @@
       "onboard_time": 1673873131,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382331,
+      "num": 382331,
+      "word": "陈飞宇逛街被偶遇",
+      "onboard_time": 1674021086,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 381901,
@@ -2587,6 +2635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 366789,
+      "num": 366789,
+      "word": "宁艺卓生图状态",
+      "onboard_time": 1674021745,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365001,
       "num": 298878,
       "word": "郎朗吉娜加盟北京台春晚",
@@ -2641,14 +2697,6 @@
       "onboard_time": 1673857949,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 360325,
-      "num": 360325,
-      "word": "一只猫咪可以有多黑",
-      "onboard_time": 1674018807,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 359959,
@@ -3241,6 +3289,14 @@
       "onboard_time": 1673839408,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 302142,
+      "num": 302142,
+      "word": "云南一男子连跑三次办结婚证未果",
+      "onboard_time": 1674020845,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301529,
@@ -4075,6 +4131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244963,
+      "num": 244963,
+      "word": "名侦探学院6主题曲MV",
+      "onboard_time": 1674022524,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244899,
       "num": 167316,
       "word": "成毅希望成为打动人心的演员",
@@ -4097,6 +4161,14 @@
       "onboard_time": 1673852307,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242666,
+      "num": 242666,
+      "word": "iG选手",
+      "onboard_time": 1674021387,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 242427,
@@ -4579,6 +4651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 206039,
+      "num": 206039,
+      "word": "网易 阴阳师",
+      "onboard_time": 1674021686,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205575,
       "num": 222343,
       "word": "分手后还会看前任动态吗",
@@ -4787,6 +4867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191091,
+      "num": 191091,
+      "word": "龚俊说如果不做演员可能会开串串香店",
+      "onboard_time": 1674022766,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190857,
       "num": 190857,
       "word": "河南发现240座北魏时期皇家仓窖",
@@ -4835,12 +4923,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 188030,
+      "num": 188030,
+      "word": "原来优雅是不分年龄的",
+      "onboard_time": 1674022286,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187910,
       "num": 187910,
       "word": "下雪天被迫营业的狗狗",
       "onboard_time": 1673927668,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187171,
+      "num": 187171,
+      "word": "肖铎步音楼船上复合吻",
+      "onboard_time": 1674021686,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 186967,
@@ -4952,6 +5056,14 @@
       "word": "三体剧评",
       "onboard_time": 1673966074,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 178763,
+      "num": 178763,
+      "word": "张婧仪无名首映礼花絮",
+      "onboard_time": 1674022405,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -5131,12 +5243,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169114,
+      "num": 169114,
+      "word": "人类幼崽为了吃的能有多会",
+      "onboard_time": 1674020786,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168964,
       "num": 168964,
       "word": "年后再说",
       "onboard_time": 1673860887,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 168893,
+      "num": 168893,
+      "word": "于和伟在三体跳广场舞",
+      "onboard_time": 1674019766,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 168651,
@@ -5243,6 +5371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162876,
+      "num": 162876,
+      "word": "何润东说福王生理心理上都崩塌了",
+      "onboard_time": 1674022946,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162767,
       "num": 126439,
       "word": "满江红首映礼",
@@ -5289,14 +5425,6 @@
       "onboard_time": 1673931330,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158331,
-      "num": 152368,
-      "word": "于和伟在三体跳广场舞",
-      "onboard_time": 1674019766,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 157780,
@@ -5443,8 +5571,8 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 148595,
-      "num": 148595,
+      "raw_hot": 148922,
+      "num": 148922,
       "word": "满眼都是委屈的柯基",
       "onboard_time": 1674019528,
       "rank": 46,
