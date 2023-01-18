@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1674030225748,
+  "endTime": 1674031082580,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -115,8 +115,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1046229,
-      "num": 1046229,
+      "raw_hot": 1066339,
+      "num": 1066339,
       "word": "许红豆只休三个月的原因",
       "onboard_time": 1674027027,
       "rank": 45,
@@ -131,20 +131,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1007513,
+      "num": 1007513,
+      "word": "英专生又多了一个就业方向",
+      "onboard_time": 1674026608,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 981584,
       "num": 981584,
       "word": "新生儿成白肺医生跪地抢救",
       "onboard_time": 1674005006,
       "rank": 17,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 970799,
-      "num": 970799,
-      "word": "英专生又多了一个就业方向",
-      "onboard_time": 1674026608,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 935335,
@@ -161,6 +161,14 @@
       "onboard_time": 1673997677,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 879994,
+      "num": 879994,
+      "word": "女子用网红罐存现金20万变死期",
+      "onboard_time": 1674028405,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 878328,
@@ -227,14 +235,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 775327,
-      "num": 775327,
-      "word": "女子用网红罐存现金20万变死期",
-      "onboard_time": 1674028405,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 756045,
       "num": 756045,
       "word": "女子烧烤店内被男子持刀锁喉",
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 672428,
+      "num": 672428,
+      "word": "机场回应大厅雕塑被指有损女性形象",
+      "onboard_time": 1674027146,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 654737,
       "num": 654737,
       "word": "5岁外甥和6岁舅舅处成兄弟",
@@ -329,6 +337,14 @@
       "onboard_time": 1673955509,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 633446,
+      "num": 633446,
+      "word": "00后是懂无痛攒钱的",
+      "onboard_time": 1674028645,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 622874,
@@ -371,20 +387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 567040,
-      "num": 567040,
-      "word": "机场回应大厅雕塑被指有损女性形象",
-      "onboard_time": 1674027146,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 557676,
       "num": 557676,
       "word": "谁家丫鬟一米九",
       "onboard_time": 1673999783,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 547834,
+      "num": 547834,
+      "word": "乔欣自曝曾被孤立",
+      "onboard_time": 1674027928,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 544506,
@@ -443,14 +459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 492443,
-      "num": 492443,
-      "word": "乔欣自曝曾被孤立",
-      "onboard_time": 1674027928,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 484790,
       "num": 484790,
       "word": "福兔",
@@ -473,14 +481,6 @@
       "onboard_time": 1674028287,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 464224,
-      "num": 464224,
-      "word": "00后是懂无痛攒钱的",
-      "onboard_time": 1674028645,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 460566,
@@ -513,6 +513,14 @@
       "onboard_time": 1674007767,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 430232,
+      "num": 430232,
+      "word": "苏有朋首次个人身份上春晚",
+      "onboard_time": 1674030387,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 423100,
@@ -576,6 +584,14 @@
       "word": "王鹤棣对陈钰琪说娘娘这也太隆重了吧",
       "onboard_time": 1674015688,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 400448,
+      "num": 400448,
+      "word": "杨洋赵露思且试天下新京报年度最佳IP改编剧集",
+      "onboard_time": 1674030866,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -1235,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211139,
+      "num": 211139,
+      "word": "AG 五刀",
+      "onboard_time": 1674030686,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211088,
       "num": 401919,
       "word": "女兵为带军犬跳伞暴增体重10斤",
@@ -1259,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202534,
+      "num": 202534,
+      "word": "赵丽颖亮相北京台春晚现场",
+      "onboard_time": 1674030747,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199885,
       "num": 199885,
       "word": "马丽说今年春晚小品题材是挑战",
@@ -1273,6 +1305,14 @@
       "onboard_time": 1674016108,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197427,
+      "num": 197427,
+      "word": "没有一只清远鸡能活着走出广东",
+      "onboard_time": 1674030209,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197239,
@@ -1313,6 +1353,14 @@
       "onboard_time": 1674025405,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194510,
+      "num": 194510,
+      "word": "许红豆晒妈妈做的手擀面",
+      "onboard_time": 1674030506,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 192893,
@@ -1387,12 +1435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188092,
+      "num": 188092,
+      "word": "Cat加入LGD大鹅",
+      "onboard_time": 1674030327,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187171,
       "num": 187171,
       "word": "肖铎步音楼船上复合吻",
       "onboard_time": 1674021686,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186210,
+      "num": 186210,
+      "word": "DK对战DRX",
+      "onboard_time": 1674030087,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 185860,
@@ -1427,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179958,
+      "num": 179958,
+      "word": "猫咪这表情似乎它听懂了",
+      "onboard_time": 1674025886,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178763,
       "num": 178763,
       "word": "张婧仪无名首映礼花絮",
@@ -1459,12 +1531,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174744,
-      "num": 174744,
-      "word": "猫咪这表情似乎它听懂了",
-      "onboard_time": 1674025886,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 174037,
+      "num": 174037,
+      "word": "陈晓说有条有序井井不紊开始过年了",
+      "onboard_time": 1674030927,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 172867,
@@ -1513,14 +1585,6 @@
       "onboard_time": 1674001768,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 160977,
-      "num": 160977,
-      "word": "DK对战DRX",
-      "onboard_time": 1674030087,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 160236,
@@ -1611,14 +1675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143638,
-      "num": 143638,
-      "word": "没有一只清远鸡能活着走出广东",
-      "onboard_time": 1674030209,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142889,
       "num": 96984,
       "word": "这小东西量还挺大",
@@ -1633,6 +1689,14 @@
       "onboard_time": 1673963310,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 138882,
+      "num": 138882,
+      "word": "111种药品进医保",
+      "onboard_time": 1674030806,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138777,

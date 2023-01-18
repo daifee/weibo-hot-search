@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674030225748,
+  "endTime": 1674031082580,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -4059,6 +4059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1066339,
+      "num": 1066339,
+      "word": "许红豆只休三个月的原因",
+      "onboard_time": 1674027027,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1066029,
       "num": 1066029,
       "word": "iPhone15Pro机型会有6大独占功能",
@@ -4217,14 +4225,6 @@
       "onboard_time": 1672998752,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1046229,
-      "num": 1046229,
-      "word": "许红豆只休三个月的原因",
-      "onboard_time": 1674027027,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 1044524,
@@ -4571,6 +4571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1007513,
+      "num": 1007513,
+      "word": "英专生又多了一个就业方向",
+      "onboard_time": 1674026608,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1005791,
       "num": 1005791,
       "word": "王鹤棣冲过去抱何炅",
@@ -4793,14 +4801,6 @@
       "onboard_time": 1672753535,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 970799,
-      "num": 970799,
-      "word": "英专生又多了一个就业方向",
-      "onboard_time": 1674026608,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 968593,
@@ -5657,6 +5657,14 @@
       "onboard_time": 1673921486,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 879994,
+      "num": 879994,
+      "word": "女子用网红罐存现金20万变死期",
+      "onboard_time": 1674028405,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 879412,
@@ -7001,14 +7009,6 @@
       "onboard_time": 1674017786,
       "rank": 11,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 775327,
-      "num": 775327,
-      "word": "女子用网红罐存现金20万变死期",
-      "onboard_time": 1674028405,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 775169,
@@ -8539,6 +8539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 672428,
+      "num": 672428,
+      "word": "机场回应大厅雕塑被指有损女性形象",
+      "onboard_time": 1674027146,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 672413,
       "num": 672413,
       "word": "律师称达成和解王某某将免于处罚",
@@ -9345,6 +9353,14 @@
       "onboard_time": 1673180491,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 633446,
+      "num": 633446,
+      "word": "00后是懂无痛攒钱的",
+      "onboard_time": 1674028645,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 633442,
@@ -10915,14 +10931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 567040,
-      "num": 567040,
-      "word": "机场回应大厅雕塑被指有损女性形象",
-      "onboard_time": 1674027146,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 566837,
       "num": 566837,
       "word": "吴磊赵露思星汉灿烂豆瓣评分人数超50万",
@@ -11417,6 +11425,14 @@
       "onboard_time": 1672642408,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547834,
+      "num": 547834,
+      "word": "乔欣自曝曾被孤立",
+      "onboard_time": 1674027928,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 547466,
@@ -13091,14 +13107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 492443,
-      "num": 492443,
-      "word": "乔欣自曝曾被孤立",
-      "onboard_time": 1674027928,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 492383,
       "num": 492383,
       "word": "少爷和我也在追三体",
@@ -13969,14 +13977,6 @@
       "onboard_time": 1673099071,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 464224,
-      "num": 464224,
-      "word": "00后是懂无痛攒钱的",
-      "onboard_time": 1674028645,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 463968,
@@ -15363,6 +15363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 430232,
+      "num": 430232,
+      "word": "苏有朋首次个人身份上春晚",
+      "onboard_time": 1674030387,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 430231,
       "num": 430231,
       "word": "顾南亭表白连续被打断",
@@ -16545,6 +16553,14 @@
       "onboard_time": 1672980813,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400448,
+      "num": 400448,
+      "word": "杨洋赵露思且试天下新京报年度最佳IP改编剧集",
+      "onboard_time": 1674030866,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 400013,
@@ -30675,6 +30691,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 211139,
+      "num": 211139,
+      "word": "AG 五刀",
+      "onboard_time": 1674030686,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211088,
       "num": 401919,
       "word": "女兵为带军犬跳伞暴增体重10斤",
@@ -31339,6 +31363,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 202534,
+      "num": 202534,
+      "word": "赵丽颖亮相北京台春晚现场",
+      "onboard_time": 1674030747,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202465,
       "num": 202465,
       "word": "iPhone15全系将搭载灵动岛",
@@ -31771,6 +31803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197427,
+      "num": 197427,
+      "word": "没有一只清远鸡能活着走出广东",
+      "onboard_time": 1674030209,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197410,
       "num": 197410,
       "word": "少林寺穿搭",
@@ -32137,6 +32177,14 @@
       "onboard_time": 1672904430,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194510,
+      "num": 194510,
+      "word": "许红豆晒妈妈做的手擀面",
+      "onboard_time": 1674030506,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 194492,
@@ -32859,6 +32907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188092,
+      "num": 188092,
+      "word": "Cat加入LGD大鹅",
+      "onboard_time": 1674030327,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188069,
       "num": 188069,
       "word": "Hero电竞百灵鸟回归",
@@ -33113,6 +33169,14 @@
       "onboard_time": 1673170469,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186210,
+      "num": 186210,
+      "word": "DK对战DRX",
+      "onboard_time": 1674030087,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 186180,
@@ -33827,6 +33891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179958,
+      "num": 179958,
+      "word": "猫咪这表情似乎它听懂了",
+      "onboard_time": 1674025886,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179940,
       "num": 158821,
       "word": "7部新片定档大年初一",
@@ -34539,14 +34611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174744,
-      "num": 174744,
-      "word": "猫咪这表情似乎它听懂了",
-      "onboard_time": 1674025886,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 174596,
       "num": 174596,
       "word": "2022S联赛年度总决赛",
@@ -34616,6 +34680,14 @@
       "word": "严浩翔侧颜四宫格随拍",
       "onboard_time": 1672763903,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174037,
+      "num": 174037,
+      "word": "陈晓说有条有序井井不紊开始过年了",
+      "onboard_time": 1674030927,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -36113,14 +36185,6 @@
       "onboard_time": 1672796548,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160977,
-      "num": 160977,
-      "word": "DK对战DRX",
-      "onboard_time": 1674030087,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 160910,
@@ -37819,14 +37883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143638,
-      "num": 143638,
-      "word": "没有一只清远鸡能活着走出广东",
-      "onboard_time": 1674030209,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143560,
       "num": 143560,
       "word": "福王什么时候下线",
@@ -38425,6 +38481,14 @@
       "onboard_time": 1673349029,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138882,
+      "num": 138882,
+      "word": "111种药品进医保",
+      "onboard_time": 1674030806,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138832,
