@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1674019049032,
+  "endTime": 1674020016594,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -131,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 878328,
+      "num": 878328,
+      "word": "暴雪绿茶定价13",
+      "onboard_time": 1674017006,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 844016,
       "num": 844016,
       "word": "给你发钱你愿意生孩子吗",
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 776197,
+      "num": 476566,
+      "word": "文在寅退休后在村里开书店",
+      "onboard_time": 1674017786,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 756045,
       "num": 756045,
       "word": "女子烧烤店内被男子持刀锁喉",
@@ -193,14 +209,6 @@
       "onboard_time": 1673971348,
       "rank": 15,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 721983,
-      "num": 721983,
-      "word": "暴雪绿茶定价13",
-      "onboard_time": 1674017006,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 712357,
@@ -355,14 +363,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 476566,
-      "num": 476566,
-      "word": "文在寅退休后在村里开书店",
-      "onboard_time": 1674017786,
-      "rank": 11,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 430638,
       "num": 430638,
       "word": "年轻人的过年方式有多统一",
@@ -403,8 +403,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 401518,
-      "num": 401518,
+      "raw_hot": 404084,
+      "num": 404084,
       "word": "王鹤棣对陈钰琪说娘娘这也太隆重了吧",
       "onboard_time": 1674015688,
       "rank": 40,
@@ -459,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 360325,
+      "num": 360325,
+      "word": "一只猫咪可以有多黑",
+      "onboard_time": 1674018807,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 359602,
       "num": 359602,
       "word": "许红豆谢之遥异地恋",
@@ -489,6 +497,14 @@
       "onboard_time": 1674005306,
       "rank": 38,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 344344,
+      "num": 344344,
+      "word": "樊振东和皇马梦幻联动",
+      "onboard_time": 1674018204,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 338682,
@@ -667,6 +683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262196,
+      "num": 262196,
+      "word": "张歆艺回到了快乐老家资阳",
+      "onboard_time": 1674019108,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260661,
       "num": 260661,
       "word": "踩高跷的狐面书生",
@@ -737,14 +761,6 @@
       "onboard_time": 1674010588,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 250848,
-      "num": 250848,
-      "word": "樊振东和皇马梦幻联动",
-      "onboard_time": 1674018204,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 248667,
@@ -899,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216061,
+      "num": 216061,
+      "word": "伍六七第四季开播",
+      "onboard_time": 1674019644,
+      "rank": 32,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 215781,
       "num": 215781,
       "word": "解读梅西世界杯决赛唇语",
@@ -977,6 +1001,14 @@
       "onboard_time": 1673965772,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190709,
+      "num": 190709,
+      "word": "北京台春晚第三波阵容官宣",
+      "onboard_time": 1674019405,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 190354,
@@ -1083,6 +1115,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 158331,
+      "num": 152368,
+      "word": "于和伟在三体跳广场舞",
+      "onboard_time": 1674019766,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157445,
       "num": 157445,
       "word": "邓紫棋",
@@ -1131,20 +1171,20 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 148595,
+      "num": 148595,
+      "word": "满眼都是委屈的柯基",
+      "onboard_time": 1674019528,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146866,
       "num": 146866,
       "word": "蔡徐坤捐款10万给老人儿童送温暖",
       "onboard_time": 1673955568,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145669,
-      "num": 145669,
-      "word": "一只猫咪可以有多黑",
-      "onboard_time": 1674018807,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 142889,
@@ -1161,6 +1201,14 @@
       "onboard_time": 1673963310,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 138777,
+      "num": 138777,
+      "word": "小朋友也有职业素养",
+      "onboard_time": 1674019287,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 127545,
