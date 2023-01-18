@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674027237719,
+  "endTime": 1674030225748,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -635,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1046229,
+      "num": 1046229,
+      "word": "许红豆只休三个月的原因",
+      "onboard_time": 1674027027,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1024911,
       "num": 1024911,
       "word": "周杰伦演唱会回应负评",
@@ -705,6 +713,14 @@
       "onboard_time": 1673938888,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 970799,
+      "num": 970799,
+      "word": "英专生又多了一个就业方向",
+      "onboard_time": 1674026608,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 967903,
@@ -915,6 +931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 845052,
+      "num": 845052,
+      "word": "王俊凯王一博易烊千玺直播动图",
+      "onboard_time": 1674026904,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 844016,
       "num": 844016,
       "word": "给你发钱你愿意生孩子吗",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1674017786,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 775327,
+      "num": 775327,
+      "word": "女子用网红罐存现金20万变死期",
+      "onboard_time": 1674028405,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 772610,
@@ -1209,14 +1241,6 @@
       "onboard_time": 1673870608,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 693150,
-      "num": 693150,
-      "word": "王俊凯王一博易烊千玺直播动图",
-      "onboard_time": 1674026904,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 692420,
@@ -1651,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574707,
+      "num": 574707,
+      "word": "网易园区拆除暴雪魔兽斧头雕塑",
+      "onboard_time": 1674026904,
+      "rank": 37,
+      "category": "游戏,科技"
+    },
+    {
       "raw_hot": 573998,
       "num": 573998,
       "word": "许红豆给陈南星父母染了头发",
@@ -1680,6 +1712,14 @@
       "word": "鼓励生育要先解决年轻人的后顾之忧",
       "onboard_time": 1674003868,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567040,
+      "num": 567040,
+      "word": "机场回应大厅雕塑被指有损女性形象",
+      "onboard_time": 1674027146,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1744,6 +1784,14 @@
       "word": "好像偶遇张真源了",
       "onboard_time": 1674012029,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 542971,
+      "num": 542971,
+      "word": "贺峻霖班上六个同学用杨迪厌世脸头像",
+      "onboard_time": 1674027445,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -1939,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492443,
+      "num": 492443,
+      "word": "乔欣自曝曾被孤立",
+      "onboard_time": 1674027928,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 492383,
       "num": 492383,
       "word": "少爷和我也在追三体",
@@ -2017,6 +2073,22 @@
       "onboard_time": 1673887643,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 466890,
+      "num": 466890,
+      "word": "被兔年第一个字难倒了",
+      "onboard_time": 1674028287,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 464224,
+      "num": 464224,
+      "word": "00后是懂无痛攒钱的",
+      "onboard_time": 1674028645,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 463968,
@@ -2875,6 +2947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344553,
+      "num": 344553,
+      "word": "刘耀文抬下巴打招呼",
+      "onboard_time": 1674028886,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344486,
       "num": 344486,
       "word": "FF宣布与湖北省黄冈市签订战略协议",
@@ -3571,6 +3651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281542,
+      "num": 281542,
+      "word": "微博音乐盛典",
+      "onboard_time": 1674027265,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 281399,
       "num": 281399,
       "word": "银行回应三个窗口只开一个惹市民不满",
@@ -3601,6 +3689,14 @@
       "onboard_time": 1674006926,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279652,
+      "num": 279652,
+      "word": "LCK战队参加LBL被罚款",
+      "onboard_time": 1674028287,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 279085,
@@ -3923,6 +4019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264161,
+      "num": 264161,
+      "word": "蒲熠星说这调子一季比一季高",
+      "onboard_time": 1674027085,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263302,
       "num": 183312,
       "word": "蒋依依2023央视春晚第四次联排路透",
@@ -4211,6 +4315,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 246436,
+      "num": 246436,
+      "word": "阿兹夫定片正式纳入国家医保目录",
+      "onboard_time": 1674027747,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245828,
       "num": 245828,
       "word": "韩红说从今以后就迈入了电影音乐创作这条路",
@@ -4236,7 +4348,7 @@
     },
     {
       "raw_hot": 244406,
-      "num": 195986,
+      "num": 241465,
       "word": "转发王鹤棣的微博能得开心卡",
       "onboard_time": 1674026846,
       "rank": 30,
@@ -4547,6 +4659,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 223148,
+      "num": 223148,
+      "word": "九尾让Gemini投诉一下",
+      "onboard_time": 1674029424,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223050,
       "num": 108652,
       "word": "尹净汉将出席巴黎时装周",
@@ -4819,14 +4939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 200810,
-      "num": 191376,
-      "word": "英专生又多了一个就业方向",
-      "onboard_time": 1674026608,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 199946,
       "num": 116856,
       "word": "张真源湖南春晚舞台直拍",
@@ -4913,6 +5025,14 @@
       "onboard_time": 1673948306,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195455,
+      "num": 195455,
+      "word": "苹果发布新款MacBookPro和MacMini",
+      "onboard_time": 1674029607,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 194987,
@@ -5043,14 +5163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189049,
-      "num": 176730,
-      "word": "蒲熠星说这调子一季比一季高",
-      "onboard_time": 1674027085,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188678,
       "num": 164211,
       "word": "少年歌行豆瓣涨至7.5分",
@@ -5097,14 +5209,6 @@
       "onboard_time": 1673958925,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186769,
-      "num": 186769,
-      "word": "网易园区拆除暴雪魔兽斧头雕塑",
-      "onboard_time": 1674026904,
-      "rank": 37,
-      "category": "游戏,科技"
     },
     {
       "raw_hot": 185860,
@@ -5347,12 +5451,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 172771,
-      "num": 172771,
-      "word": "许红豆只休三个月的原因",
-      "onboard_time": 1674027027,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 172867,
+      "num": 172867,
+      "word": "2023LCK",
+      "onboard_time": 1674029725,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 172162,
@@ -5563,6 +5667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160977,
+      "num": 160977,
+      "word": "DK对战DRX",
+      "onboard_time": 1674030087,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160893,
       "num": 160893,
       "word": "腊月二十六",
@@ -5665,6 +5777,14 @@
       "onboard_time": 1673953350,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153582,
+      "num": 152079,
+      "word": "程耳问你们今天会上链接吗",
+      "onboard_time": 1674028164,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 152025,
@@ -5819,6 +5939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143638,
+      "num": 143638,
+      "word": "没有一只清远鸡能活着走出广东",
+      "onboard_time": 1674030209,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142889,
       "num": 96984,
       "word": "这小东西量还挺大",
@@ -5939,14 +6067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138660,
-      "num": 162202,
-      "word": "机场回应大厅雕塑被指有损女性形象",
-      "onboard_time": 1674027146,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137643,
       "num": 181233,
       "word": "留学归国去大城市还是回乡",
@@ -5971,6 +6091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136607,
+      "num": 136607,
+      "word": "孙俪说邓超真的很爱电影",
+      "onboard_time": 1674027747,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 136589,
       "num": 136589,
       "word": "过年聚会的尴尬瞬间",
@@ -5993,6 +6121,22 @@
       "onboard_time": 1673944229,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133438,
+      "num": 133438,
+      "word": "李现片场看剧本花絮照",
+      "onboard_time": 1674029007,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 132927,
+      "num": 132927,
+      "word": "EDGM爱思成功连接",
+      "onboard_time": 1674028047,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 131352,
