@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1674046411429,
+  "endTime": 1674048262429,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -105,6 +105,14 @@
       "onboard_time": 1674035189,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1315742,
+      "num": 1088503,
+      "word": "好欢螺",
+      "onboard_time": 1674045031,
+      "rank": 42,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1264141,
@@ -243,20 +251,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 889227,
-      "num": 889227,
-      "word": "好欢螺",
-      "onboard_time": 1674045031,
-      "rank": 42,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 878328,
       "num": 878328,
       "word": "暴雪绿茶定价13",
       "onboard_time": 1674017006,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 857019,
+      "num": 857019,
+      "word": "谢阿奶一直在悄悄给谢之遥存钱",
+      "onboard_time": 1674046531,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 856688,
@@ -403,6 +411,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 707936,
+      "num": 707936,
+      "word": "生肖卡",
+      "onboard_time": 1674041910,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 702335,
       "num": 702335,
       "word": "木子洋说拍戏时导演扔下剧组去看迪丽热巴",
@@ -507,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 620463,
+      "num": 620463,
+      "word": "WBG对战TES",
+      "onboard_time": 1674046708,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 617289,
       "num": 617289,
       "word": "网红男球员发表羞辱女性言论被禁赛",
@@ -593,14 +617,6 @@
       "onboard_time": 1674027445,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 540168,
-      "num": 540168,
-      "word": "生肖卡",
-      "onboard_time": 1674041910,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 516852,
@@ -1147,12 +1163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302826,
+      "num": 302826,
+      "word": "INTO1天生就要飞表演舞台",
+      "onboard_time": 1674047430,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 298015,
       "num": 298015,
       "word": "龚俊说如果不做演员可能会开串串香店",
       "onboard_time": 1674022766,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 297835,
+      "num": 297835,
+      "word": "医保局不会再就Paxlovid举行谈判",
+      "onboard_time": 1674046891,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297265,
@@ -1187,12 +1219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288461,
+      "num": 288461,
+      "word": "女子回家过年吐槽祖孙3代一张脸",
+      "onboard_time": 1674047070,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288216,
       "num": 288216,
       "word": "鹿晗白衬衫背头造型",
       "onboard_time": 1674036448,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 284267,
+      "num": 284267,
+      "word": "狂飙12集封神",
+      "onboard_time": 1674047908,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 279976,
@@ -1387,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256153,
+      "num": 256153,
+      "word": "天才翻译家金晓宇的父亲去世",
+      "onboard_time": 1674047009,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256122,
       "num": 256122,
       "word": "原来优雅是不分年龄的",
@@ -1499,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241920,
+      "num": 241920,
+      "word": "刘诗诗蓝色衬衫比耶四宫格",
+      "onboard_time": 1674047129,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240862,
       "num": 240862,
       "word": "广东男篮vs辽宁男篮",
@@ -1552,6 +1616,14 @@
       "word": "许红豆谢之遥的感情没有狗血情节",
       "onboard_time": 1674018025,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 227444,
+      "num": 227444,
+      "word": "王鹤棣肖铎双刀打戏",
+      "onboard_time": 1674047369,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1641,6 +1713,14 @@
       "onboard_time": 1673968171,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214532,
+      "num": 214532,
+      "word": "毛不易刘宇宁大喜大悲组合",
+      "onboard_time": 1674048028,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 213262,
@@ -1875,20 +1955,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187645,
+      "num": 187645,
+      "word": "疫情以来广大医务工作者作出了重大贡献",
+      "onboard_time": 1674043829,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187171,
       "num": 187171,
       "word": "肖铎步音楼船上复合吻",
       "onboard_time": 1674021686,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186565,
-      "num": 186565,
-      "word": "疫情以来广大医务工作者作出了重大贡献",
-      "onboard_time": 1674043829,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186210,
@@ -2035,6 +2115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168226,
+      "num": 168226,
+      "word": "王鹤棣要克服的弱点是原声台词",
+      "onboard_time": 1674046830,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167777,
       "num": 167777,
       "word": "安徽省考",
@@ -2113,6 +2201,14 @@
       "onboard_time": 1674002668,
       "rank": 43,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 155174,
+      "num": 163962,
+      "word": "郑钦文爆冷止步澳网次轮",
+      "onboard_time": 1674047669,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 153582,
@@ -2339,6 +2435,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 116234,
+      "num": 1235101,
+      "word": "大寒除夕春节喜相连",
+      "onboard_time": 1674044190,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115092,
       "num": 115092,
       "word": "原来小孩子也有甲沟炎的烦恼",
@@ -2384,14 +2488,6 @@
       "word": "上海已度过本轮疫情感染高峰",
       "onboard_time": 1673958567,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97902,
-      "num": 1235101,
-      "word": "大寒除夕春节喜相连",
-      "onboard_time": 1674044190,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
