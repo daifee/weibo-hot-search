@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674067013500,
+  "endTime": 1674069297562,
   "band_list": [
     {
       "raw_hot": 1579432,
@@ -473,6 +473,22 @@
       "onboard_time": 1674044190,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17806,
+      "num": 22706,
+      "word": "时代少年团红毯幕后",
+      "onboard_time": 1674036568,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 16805,
+      "num": 22680,
+      "word": "中金公司回应十大预测错九个",
+      "onboard_time": 1674068772,
+      "rank": 49,
+      "category": "财经"
     }
   ],
   "hotgov_list": [
