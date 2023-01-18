@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1674048262429,
+  "endTime": 1674048959273,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1456251,
+      "num": 1088503,
+      "word": "好欢螺",
+      "onboard_time": 1674045031,
+      "rank": 42,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1441538,
       "num": 1057136,
       "word": "老人卧床吸烟着火扑救后复燃身亡",
@@ -105,14 +113,6 @@
       "onboard_time": 1674035189,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1315742,
-      "num": 1088503,
-      "word": "好欢螺",
-      "onboard_time": 1674045031,
-      "rank": 42,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1264141,
@@ -707,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470245,
+      "num": 470245,
+      "word": "狂飙12集封神",
+      "onboard_time": 1674047908,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 468577,
       "num": 468577,
       "word": "大貔貅",
@@ -769,6 +777,14 @@
       "onboard_time": 1674007767,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 428732,
+      "num": 428732,
+      "word": "女子回家过年吐槽祖孙3代一张脸",
+      "onboard_time": 1674047070,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423100,
@@ -947,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359727,
+      "num": 359727,
+      "word": "天才翻译家金晓宇的父亲去世",
+      "onboard_time": 1674047009,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359602,
       "num": 359602,
       "word": "许红豆谢之遥异地恋",
@@ -977,6 +1001,14 @@
       "onboard_time": 1673980755,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346096,
+      "num": 346096,
+      "word": "毛不易刘宇宁大喜大悲组合",
+      "onboard_time": 1674048028,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 344553,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1674033326,
       "rank": 30,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 338377,
+      "num": 338377,
+      "word": "医保局不会再就Paxlovid举行谈判",
+      "onboard_time": 1674046891,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334114,
@@ -1095,6 +1135,14 @@
       "num": 326492,
       "word": "陈泗旭后援会推荐歌曲活该",
       "onboard_time": 1674006926,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 318543,
+      "num": 318543,
+      "word": "陆虎 求婚",
+      "onboard_time": 1674048870,
       "rank": 22,
       "category": "艺人"
     },
@@ -1179,12 +1227,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 297835,
-      "num": 297835,
-      "word": "医保局不会再就Paxlovid举行谈判",
-      "onboard_time": 1674046891,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 297773,
+      "num": 297773,
+      "word": "周深美美把动画搬上舞台",
+      "onboard_time": 1674048630,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 297265,
@@ -1219,28 +1267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288461,
-      "num": 288461,
-      "word": "女子回家过年吐槽祖孙3代一张脸",
-      "onboard_time": 1674047070,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288216,
       "num": 288216,
       "word": "鹿晗白衬衫背头造型",
       "onboard_time": 1674036448,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 284267,
-      "num": 284267,
-      "word": "狂飙12集封神",
-      "onboard_time": 1674047908,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 279976,
@@ -1435,14 +1467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256153,
-      "num": 256153,
-      "word": "天才翻译家金晓宇的父亲去世",
-      "onboard_time": 1674047009,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256122,
       "num": 256122,
       "word": "原来优雅是不分年龄的",
@@ -1603,6 +1627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233390,
+      "num": 233390,
+      "word": "单依纯音色",
+      "onboard_time": 1674048449,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 229879,
       "num": 229879,
       "word": "为什么中国人过年一定要回家",
@@ -1715,14 +1747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214532,
-      "num": 214532,
-      "word": "毛不易刘宇宁大喜大悲组合",
-      "onboard_time": 1674048028,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 213262,
       "num": 213262,
       "word": "王子文平遥国际电影展最佳女演员",
@@ -1737,6 +1761,14 @@
       "onboard_time": 1674006745,
       "rank": 29,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 207551,
+      "num": 207551,
+      "word": "疫情以来广大医务工作者作出了重大贡献",
+      "onboard_time": 1674043829,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206039,
@@ -1955,14 +1987,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187645,
-      "num": 187645,
-      "word": "疫情以来广大医务工作者作出了重大贡献",
-      "onboard_time": 1674043829,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187171,
       "num": 187171,
       "word": "肖铎步音楼船上复合吻",
@@ -1993,6 +2017,14 @@
       "onboard_time": 1674023365,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184233,
+      "num": 184233,
+      "word": "赵露思兔年兔个平安",
+      "onboard_time": 1674048870,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 184117,
@@ -2163,6 +2195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161981,
+      "num": 163962,
+      "word": "郑钦文爆冷止步澳网次轮",
+      "onboard_time": 1674047669,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160319,
       "num": 160319,
       "word": "郑钦文",
@@ -2201,14 +2241,6 @@
       "onboard_time": 1674002668,
       "rank": 43,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 155174,
-      "num": 163962,
-      "word": "郑钦文爆冷止步澳网次轮",
-      "onboard_time": 1674047669,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 153582,
@@ -2331,6 +2363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138496,
+      "num": 138496,
+      "word": "T1战胜GEN",
+      "onboard_time": 1674048568,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137960,
       "num": 137960,
       "word": "以后有想法先别告诉别人",
@@ -2367,6 +2407,14 @@
       "num": 132927,
       "word": "EDGM爱思成功连接",
       "onboard_time": 1674028047,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 129517,
+      "num": 129517,
+      "word": "Karsa出场整活",
+      "onboard_time": 1674048927,
       "rank": 49,
       "category": "游戏"
     },
@@ -2411,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120881,
+      "num": 1235101,
+      "word": "大寒除夕春节喜相连",
+      "onboard_time": 1674044190,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120544,
       "num": 120544,
       "word": "官方回应女司机开车坠塘一家三口溺亡",
@@ -2433,14 +2489,6 @@
       "onboard_time": 1673981054,
       "rank": 16,
       "category": "科技"
-    },
-    {
-      "raw_hot": 116234,
-      "num": 1235101,
-      "word": "大寒除夕春节喜相连",
-      "onboard_time": 1674044190,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115092,
@@ -2613,6 +2661,9 @@
     },
     {
       "word": "#总书记的新春祝福来了#"
+    },
+    {
+      "word": "#习近平祝福返乡旅客#"
     }
   ]
 }
