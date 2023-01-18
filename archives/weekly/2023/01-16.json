@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674048959273,
+  "endTime": 1674051433811,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -24,6 +24,14 @@
       "word": "张颖颖 我说了无数次分手",
       "onboard_time": 1673846008,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3301649,
+      "num": 529456,
+      "word": "陆虎 求婚",
+      "onboard_time": 1674048870,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -331,6 +339,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1517443,
+      "num": 1517443,
+      "word": "好欢螺",
+      "onboard_time": 1674045031,
+      "rank": 42,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1508216,
       "num": 1508216,
       "word": "弟弟发现姐姐首饰装备库原地震惊",
@@ -353,14 +369,6 @@
       "onboard_time": 1674014369,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1456251,
-      "num": 1088503,
-      "word": "好欢螺",
-      "onboard_time": 1674045031,
-      "rank": 42,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1441538,
@@ -425,6 +433,14 @@
       "onboard_time": 1673922326,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1391607,
+      "num": 1391607,
+      "word": "三体 脱水",
+      "onboard_time": 1674049593,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1378858,
@@ -1283,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 721085,
+      "num": 647532,
+      "word": "GAI和严浩翔打招呼",
+      "onboard_time": 1674049892,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 719848,
       "num": 719848,
       "word": "RNG对战iG",
@@ -1771,6 +1795,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 602482,
+      "num": 520124,
+      "word": "刘耀文腿伤坐轮椅",
+      "onboard_time": 1674050192,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 597606,
       "num": 597606,
       "word": "你这人刚刚好 刚刚好是我喜欢的类型",
@@ -2051,6 +2083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 519149,
+      "num": 494836,
+      "word": "狂飙12集封神",
+      "onboard_time": 1674047908,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 517437,
       "num": 517437,
       "word": "为什么很多人不想谈恋爱了",
@@ -2137,6 +2177,14 @@
       "onboard_time": 1673827522,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 505178,
+      "num": 505178,
+      "word": "女子回家过年吐槽祖孙3代一张脸",
+      "onboard_time": 1674047070,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 504209,
@@ -2307,14 +2355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 470245,
-      "num": 470245,
-      "word": "狂飙12集封神",
-      "onboard_time": 1674047908,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 468577,
       "num": 468577,
       "word": "大貔貅",
@@ -2385,6 +2425,14 @@
       "onboard_time": 1673948130,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454247,
+      "num": 346096,
+      "word": "毛不易刘宇宁大喜大悲组合",
+      "onboard_time": 1674048028,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 453584,
@@ -2545,14 +2593,6 @@
       "onboard_time": 1674007767,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 428732,
-      "num": 428732,
-      "word": "女子回家过年吐槽祖孙3代一张脸",
-      "onboard_time": 1674047070,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 427143,
@@ -2867,6 +2907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383256,
+      "num": 383256,
+      "word": "天才翻译家金晓宇的父亲去世",
+      "onboard_time": 1674047009,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381901,
       "num": 381901,
       "word": "公共场所的烘手器有多脏",
@@ -3147,14 +3195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359727,
-      "num": 359727,
-      "word": "天才翻译家金晓宇的父亲去世",
-      "onboard_time": 1674047009,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354570,
       "num": 354570,
       "word": "王者三款鼠年限定返场",
@@ -3251,6 +3291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348568,
+      "num": 348568,
+      "word": "医保局不会再就Paxlovid举行谈判",
+      "onboard_time": 1674046891,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347833,
       "num": 347833,
       "word": "网易否决暴雪顺延六个月提案",
@@ -3265,14 +3313,6 @@
       "onboard_time": 1673859807,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 346096,
-      "num": 346096,
-      "word": "毛不易刘宇宁大喜大悲组合",
-      "onboard_time": 1674048028,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 345342,
@@ -3395,20 +3435,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 338377,
-      "num": 338377,
-      "word": "医保局不会再就Paxlovid举行谈判",
-      "onboard_time": 1674046891,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336156,
       "num": 175840,
       "word": "确认恋爱关系前你会考虑哪些问题",
       "onboard_time": 1673847990,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336090,
+      "num": 336090,
+      "word": "奶奶花6元在家给3岁孙子烫发",
+      "onboard_time": 1674050132,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335255,
@@ -3675,14 +3715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 318543,
-      "num": 318543,
-      "word": "陆虎 求婚",
-      "onboard_time": 1674048870,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 317879,
       "num": 317879,
       "word": "餐厅就别搞这种顶灯了吧",
@@ -3827,6 +3859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 304781,
+      "num": 250077,
+      "word": "张杰微博音乐盛典花絮照",
+      "onboard_time": 1674050912,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 304712,
       "num": 304712,
       "word": "董子健刘昊然我的朋友安德烈杀青",
@@ -3847,6 +3887,14 @@
       "num": 188503,
       "word": "谢之遥是许红豆许红米的关系调和剂",
       "onboard_time": 1673839408,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 303835,
+      "num": 199775,
+      "word": "易烊千玺孙均影像",
+      "onboard_time": 1674050489,
       "rank": 30,
       "category": "影视"
     },
@@ -3945,6 +3993,14 @@
       "onboard_time": 1673964031,
       "rank": 38,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 295607,
+      "num": 198339,
+      "word": "于和伟三体游戏刚上线就下线",
+      "onboard_time": 1674050430,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 294945,
@@ -4081,6 +4137,14 @@
       "onboard_time": 1673878109,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285584,
+      "num": 285584,
+      "word": "Karsa出场整活",
+      "onboard_time": 1674048927,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 283802,
@@ -5475,6 +5539,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 201971,
+      "num": 201971,
+      "word": "Rookie出场秀",
+      "onboard_time": 1674049410,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201597,
       "num": 201597,
       "word": "大哥凌晨火车上为乘客献唱",
@@ -6083,6 +6155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 172923,
+      "num": 172923,
+      "word": "广东男篮战胜辽宁男篮",
+      "onboard_time": 1674051391,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172867,
       "num": 172867,
       "word": "2023LCK",
@@ -6411,6 +6491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155780,
+      "num": 155780,
+      "word": "江苏三地白领年终奖均值公布",
+      "onboard_time": 1674049048,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155732,
       "num": 155732,
       "word": "年夜菜一定要有的凉拌菜",
@@ -6651,6 +6739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143646,
+      "num": 143646,
+      "word": "叫声很委屈的小狗",
+      "onboard_time": 1674051029,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 142889,
       "num": 96984,
       "word": "这小东西量还挺大",
@@ -6835,6 +6931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135967,
+      "num": 135967,
+      "word": "LPL",
+      "onboard_time": 1674050489,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135823,
       "num": 135823,
       "word": "什么馅饺子最好吃",
@@ -6897,14 +7001,6 @@
       "onboard_time": 1673908754,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129517,
-      "num": 129517,
-      "word": "Karsa出场整活",
-      "onboard_time": 1674048927,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 129488,
