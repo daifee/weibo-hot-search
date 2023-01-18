@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674038194256,
+  "endTime": 1674040523142,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -627,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1083219,
+      "num": 1083219,
+      "word": "男子年终奖太多公安送回家",
+      "onboard_time": 1674038008,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1072840,
       "num": 524436,
       "word": "母亲称女儿拒绝追求被男孩泼汽油烧伤",
@@ -953,6 +961,14 @@
       "onboard_time": 1673883689,
       "rank": 5,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 856688,
+      "num": 856688,
+      "word": "周震南父母被恢复执行5850万",
+      "onboard_time": 1674037887,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 854853,
@@ -1475,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648900,
+      "num": 648900,
+      "word": "虞书欣晒小恶魔造型随拍",
+      "onboard_time": 1674039573,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 648072,
       "num": 648072,
       "word": "库里南",
@@ -1715,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584978,
+      "num": 584978,
+      "word": "李莎旻子的主持",
+      "onboard_time": 1674036869,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 582187,
       "num": 582187,
       "word": "这同学录挺费头发",
@@ -1787,14 +1819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 571279,
-      "num": 571279,
-      "word": "李莎旻子的主持",
-      "onboard_time": 1674036869,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 571089,
       "num": 571089,
       "word": "小乔山海琳琅生皮肤",
@@ -1825,6 +1849,14 @@
       "onboard_time": 1674037528,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 559462,
+      "num": 549581,
+      "word": "阿娇蓝色大海美人鱼造型",
+      "onboard_time": 1674039870,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 557676,
@@ -1865,6 +1897,14 @@
       "onboard_time": 1673863107,
       "rank": 8,
       "category": "科技"
+    },
+    {
+      "raw_hot": 550510,
+      "num": 550510,
+      "word": "乌克兰国家紧急事务局一直升机坠毁",
+      "onboard_time": 1674036150,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 549445,
@@ -2225,14 +2265,6 @@
       "onboard_time": 1674023727,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 457105,
-      "num": 457105,
-      "word": "乌克兰国家紧急事务局一直升机坠毁",
-      "onboard_time": 1674036150,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 455341,
@@ -2739,6 +2771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 378006,
+      "num": 378006,
+      "word": "微博音乐盛典",
+      "onboard_time": 1674027265,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 375975,
       "num": 364576,
       "word": "毛不易春晚唱你好陌生人",
@@ -3185,6 +3225,14 @@
       "onboard_time": 1673924428,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 334753,
+      "num": 334753,
+      "word": "官方通报山姆会员店销售蓝环章鱼",
+      "onboard_time": 1674038789,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334258,
@@ -3651,6 +3699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295843,
+      "num": 295843,
+      "word": "纽约时报盛赞刘亦菲演的许红豆",
+      "onboard_time": 1674040113,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295623,
       "num": 295623,
       "word": "深海",
@@ -3771,6 +3827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 288216,
+      "num": 288216,
+      "word": "鹿晗白衬衫背头造型",
+      "onboard_time": 1674036448,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 286424,
       "num": 186908,
       "word": "王鹤棣陈钰琪浮图缘咬嘴唇花絮",
@@ -3809,22 +3873,6 @@
       "onboard_time": 1673848591,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 282323,
-      "num": 282323,
-      "word": "鹿晗白衬衫背头造型",
-      "onboard_time": 1674036448,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 281542,
-      "num": 281542,
-      "word": "微博音乐盛典",
-      "onboard_time": 1674027265,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 281399,
@@ -3913,6 +3961,14 @@
       "onboard_time": 1674023847,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276043,
+      "num": 218448,
+      "word": "孟美岐立体花卉抹胸裙造型",
+      "onboard_time": 1674039811,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 275919,
@@ -4121,6 +4177,14 @@
       "onboard_time": 1673796692,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266805,
+      "num": 210748,
+      "word": "中央军委举行晋升上将军衔仪式",
+      "onboard_time": 1674039631,
+      "rank": 30,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 266607,
@@ -4729,14 +4793,6 @@
       "onboard_time": 1673965172,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231754,
-      "num": 231754,
-      "word": "周震南父母被恢复执行5850万",
-      "onboard_time": 1674037887,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 231587,
@@ -5739,6 +5795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173405,
+      "num": 173405,
+      "word": "原来广东人是最爱为宠物花钱的",
+      "onboard_time": 1674039930,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172867,
       "num": 172867,
       "word": "2023LCK",
@@ -6267,6 +6331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144425,
+      "num": 144425,
+      "word": "彝族人唱歌是与生俱来的吧",
+      "onboard_time": 1674039631,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142889,
       "num": 96984,
       "word": "这小东西量还挺大",
@@ -6537,6 +6609,14 @@
       "onboard_time": 1674033026,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 126114,
+      "num": 126114,
+      "word": "栓Q哥新年礼物竟是英语练习册",
+      "onboard_time": 1674040408,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124425,
@@ -6904,14 +6984,6 @@
       "word": "饭店阿姨捞垃圾桶地沟油回店",
       "onboard_time": 1673910436,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99525,
-      "num": 116124,
-      "word": "男子年终奖太多公安送回家",
-      "onboard_time": 1674038008,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -7283,6 +7355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 47754,
+      "num": 508397,
+      "word": "WBG与TES的德比对决",
+      "onboard_time": 1674039688,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 45549,
       "num": 45549,
       "word": "凯特布兰切特称赞汤唯表演",
@@ -7409,6 +7489,9 @@
     },
     {
       "word": "#回家就是春节的仪式感#"
+    },
+    {
+      "word": "#总书记的新春祝福来了#"
     }
   ]
 }
