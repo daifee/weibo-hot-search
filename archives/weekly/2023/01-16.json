@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674051433811,
+  "endTime": 1674052434932,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3301649,
-      "num": 529456,
+      "num": 542847,
       "word": "陆虎 求婚",
       "onboard_time": 1674048870,
       "rank": 22,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1674906,
+      "num": 1674906,
+      "word": "三体 脱水",
+      "onboard_time": 1674049593,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1672565,
       "num": 420609,
       "word": "大鹏 新孩子",
@@ -433,14 +441,6 @@
       "onboard_time": 1673922326,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1391607,
-      "num": 1391607,
-      "word": "三体 脱水",
-      "onboard_time": 1674049593,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1378858,
@@ -1619,6 +1619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 641528,
+      "num": 641528,
+      "word": "刘耀文腿伤坐轮椅",
+      "onboard_time": 1674050192,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 640472,
       "num": 640472,
       "word": "法考",
@@ -1795,14 +1803,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 602482,
-      "num": 520124,
-      "word": "刘耀文腿伤坐轮椅",
-      "onboard_time": 1674050192,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 597606,
       "num": 597606,
       "word": "你这人刚刚好 刚刚好是我喜欢的类型",
@@ -1881,6 +1881,14 @@
       "onboard_time": 1673842050,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 581177,
+      "num": 581177,
+      "word": "谭松韵和云南山区孩子上诗歌课",
+      "onboard_time": 1674051628,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 580475,
@@ -2009,6 +2017,14 @@
       "onboard_time": 1673921666,
       "rank": 16,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 546213,
+      "num": 546213,
+      "word": "奶奶花6元在家给3岁孙子烫发",
+      "onboard_time": 1674050132,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 545185,
@@ -2201,6 +2217,14 @@
       "onboard_time": 1674020845,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502391,
+      "num": 424261,
+      "word": "宋亚轩说哀家长头发啦",
+      "onboard_time": 1674051750,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 497796,
@@ -2707,6 +2731,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 412532,
+      "num": 412532,
+      "word": "天才翻译家金晓宇的父亲去世",
+      "onboard_time": 1674047009,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411617,
       "num": 221079,
       "word": "张杰说明天十点来听新歌",
@@ -2907,11 +2939,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 383256,
-      "num": 383256,
-      "word": "天才翻译家金晓宇的父亲去世",
-      "onboard_time": 1674047009,
-      "rank": 26,
+      "raw_hot": 384110,
+      "num": 384110,
+      "word": "医保局不会再就Paxlovid举行谈判",
+      "onboard_time": 1674046891,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -3291,14 +3323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348568,
-      "num": 348568,
-      "word": "医保局不会再就Paxlovid举行谈判",
-      "onboard_time": 1674046891,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347833,
       "num": 347833,
       "word": "网易否决暴雪顺延六个月提案",
@@ -3441,14 +3465,6 @@
       "onboard_time": 1673847990,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 336090,
-      "num": 336090,
-      "word": "奶奶花6元在家给3岁孙子烫发",
-      "onboard_time": 1674050132,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335255,
@@ -3939,6 +3955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298581,
+      "num": 198339,
+      "word": "于和伟三体游戏刚上线就下线",
+      "onboard_time": 1674050430,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298015,
       "num": 298015,
       "word": "龚俊说如果不做演员可能会开串串香店",
@@ -3995,12 +4019,12 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 295607,
-      "num": 198339,
-      "word": "于和伟三体游戏刚上线就下线",
-      "onboard_time": 1674050430,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 295318,
+      "num": 295318,
+      "word": "阿根廷世界杯夺冠一个月",
+      "onboard_time": 1674051628,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 294945,
@@ -4467,6 +4491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268248,
+      "num": 192543,
+      "word": "华晨宇微博音乐年度男歌手",
+      "onboard_time": 1674052409,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 266607,
       "num": 266607,
       "word": "妻子年前大扫除将老公私房钱一锅端",
@@ -4553,6 +4585,14 @@
       "onboard_time": 1674027085,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263894,
+      "num": 189711,
+      "word": "张艺兴金色亮片西装造型",
+      "onboard_time": 1674052112,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 263302,
@@ -5371,6 +5411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212715,
+      "num": 212715,
+      "word": "叫声很委屈的小狗",
+      "onboard_time": 1674051029,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 212219,
       "num": 126585,
       "word": "赵丽颖春晚联排高马尾造型梦回薛杉杉",
@@ -5595,6 +5643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198751,
+      "num": 198751,
+      "word": "广东男篮战胜辽宁男篮",
+      "onboard_time": 1674051391,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198638,
       "num": 198638,
       "word": "高叶 气场",
@@ -5713,6 +5769,14 @@
       "onboard_time": 1674025405,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194548,
+      "num": 184233,
+      "word": "赵露思兔年兔个平安",
+      "onboard_time": 1674048870,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 193577,
@@ -5897,14 +5961,6 @@
       "onboard_time": 1674023365,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184233,
-      "num": 184233,
-      "word": "赵露思兔年兔个平安",
-      "onboard_time": 1674048870,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 184198,
@@ -6155,14 +6211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 172923,
-      "num": 172923,
-      "word": "广东男篮战胜辽宁男篮",
-      "onboard_time": 1674051391,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172867,
       "num": 172867,
       "word": "2023LCK",
@@ -6395,6 +6443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163119,
+      "num": 163119,
+      "word": "江苏三地白领年终奖均值公布",
+      "onboard_time": 1674049048,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162767,
       "num": 126439,
       "word": "满江红首映礼",
@@ -6488,14 +6544,6 @@
       "word": "浙些瞬间值得被收藏",
       "onboard_time": 1673839348,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155780,
-      "num": 155780,
-      "word": "江苏三地白领年终奖均值公布",
-      "onboard_time": 1674049048,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -6739,14 +6787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143646,
-      "num": 143646,
-      "word": "叫声很委屈的小狗",
-      "onboard_time": 1674051029,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 142889,
       "num": 96984,
       "word": "这小东西量还挺大",
@@ -6945,6 +6985,14 @@
       "onboard_time": 1673884293,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 135778,
+      "num": 135778,
+      "word": "男子花30元中100万车门未关彩票被偷",
+      "onboard_time": 1674051993,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135408,

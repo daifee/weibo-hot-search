@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674051433811,
+  "endTime": 1674052434932,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 3301649,
-      "num": 529456,
+      "num": 542847,
       "word": "陆虎 求婚",
       "onboard_time": 1674048870,
       "rank": 22,
@@ -1707,6 +1707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1674906,
+      "num": 1674906,
+      "word": "三体 脱水",
+      "onboard_time": 1674049593,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1673744,
       "num": 1673744,
       "word": "k4",
@@ -2521,14 +2529,6 @@
       "onboard_time": 1672907493,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1391607,
-      "num": 1391607,
-      "word": "三体 脱水",
-      "onboard_time": 1674049593,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1385964,
@@ -9411,6 +9411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 641528,
+      "num": 641528,
+      "word": "刘耀文腿伤坐轮椅",
+      "onboard_time": 1674050192,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 640472,
       "num": 640472,
       "word": "法考",
@@ -10163,14 +10171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 602482,
-      "num": 520124,
-      "word": "刘耀文腿伤坐轮椅",
-      "onboard_time": 1674050192,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 602270,
       "num": 602270,
       "word": "王一博过年好忙",
@@ -10721,6 +10721,14 @@
       "onboard_time": 1673684306,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 581177,
+      "num": 581177,
+      "word": "谭松韵和云南山区孩子上诗歌课",
+      "onboard_time": 1674051628,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 581092,
@@ -11705,6 +11713,14 @@
       "onboard_time": 1673765127,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 546213,
+      "num": 546213,
+      "word": "奶奶花6元在家给3岁孙子烫发",
+      "onboard_time": 1674050132,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 546086,
@@ -13073,6 +13089,14 @@
       "onboard_time": 1673529090,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 502391,
+      "num": 424261,
+      "word": "宋亚轩说哀家长头发啦",
+      "onboard_time": 1674051750,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 502040,
@@ -16363,6 +16387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412532,
+      "num": 412532,
+      "word": "天才翻译家金晓宇的父亲去世",
+      "onboard_time": 1674047009,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412422,
       "num": 412422,
       "word": "鹅鸭杀服务器被攻击",
@@ -17835,6 +17867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 384110,
+      "num": 384110,
+      "word": "医保局不会再就Paxlovid举行谈判",
+      "onboard_time": 1674046891,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383995,
       "num": 272024,
       "word": "三体电视剧今日开播",
@@ -17865,14 +17905,6 @@
       "onboard_time": 1673678726,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 383256,
-      "num": 383256,
-      "word": "天才翻译家金晓宇的父亲去世",
-      "onboard_time": 1674047009,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382957,
@@ -19907,14 +19939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 348568,
-      "num": 348568,
-      "word": "医保局不会再就Paxlovid举行谈判",
-      "onboard_time": 1674046891,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348371,
       "num": 214654,
       "word": "杨紫说幸福是发自内心的微笑",
@@ -20777,14 +20801,6 @@
       "onboard_time": 1673847990,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 336090,
-      "num": 336090,
-      "word": "奶奶花6元在家给3岁孙子烫发",
-      "onboard_time": 1674050132,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335711,
@@ -23395,6 +23411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298581,
+      "num": 198339,
+      "word": "于和伟三体游戏刚上线就下线",
+      "onboard_time": 1674050430,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298307,
       "num": 289124,
       "word": "陈哲远回应被综艺之神眷顾",
@@ -23571,20 +23595,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 295607,
-      "num": 198339,
-      "word": "于和伟三体游戏刚上线就下线",
-      "onboard_time": 1674050430,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 295551,
       "num": 209731,
       "word": "程霄宣示主权",
       "onboard_time": 1672739609,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295318,
+      "num": 295318,
+      "word": "阿根廷世界杯夺冠一个月",
+      "onboard_time": 1674051628,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 295304,
@@ -26099,6 +26123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268248,
+      "num": 192543,
+      "word": "华晨宇微博音乐年度男歌手",
+      "onboard_time": 1674052409,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 268227,
       "num": 149753,
       "word": "IVE 新人奖",
@@ -26449,6 +26481,14 @@
       "onboard_time": 1674027085,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263894,
+      "num": 189711,
+      "word": "张艺兴金色亮片西装造型",
+      "onboard_time": 1674052112,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 263833,
@@ -31083,6 +31123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212715,
+      "num": 212715,
+      "word": "叫声很委屈的小狗",
+      "onboard_time": 1674051029,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 212549,
       "num": 212549,
       "word": "张彬彬说徐璐是最能哭的",
@@ -32291,6 +32339,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 198751,
+      "num": 198751,
+      "word": "广东男篮战胜辽宁男篮",
+      "onboard_time": 1674051391,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198638,
       "num": 198638,
       "word": "高叶 气场",
@@ -32785,6 +32841,14 @@
       "onboard_time": 1672904430,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194548,
+      "num": 184233,
+      "word": "赵露思兔年兔个平安",
+      "onboard_time": 1674048870,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 194492,
@@ -34001,14 +34065,6 @@
       "onboard_time": 1672839756,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 184233,
-      "num": 184233,
-      "word": "赵露思兔年兔个平安",
-      "onboard_time": 1674048870,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 184218,
@@ -35443,14 +35499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172923,
-      "num": 172923,
-      "word": "广东男篮战胜辽宁男篮",
-      "onboard_time": 1674051391,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172899,
       "num": 147788,
       "word": "乡村爱情15定档0112",
@@ -36611,6 +36659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163119,
+      "num": 163119,
+      "word": "江苏三地白领年终奖均值公布",
+      "onboard_time": 1674049048,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163058,
       "num": 163058,
       "word": "信长星同志任江苏省委书记",
@@ -37353,14 +37409,6 @@
       "onboard_time": 1673585070,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 155780,
-      "num": 155780,
-      "word": "江苏三地白领年终奖均值公布",
-      "onboard_time": 1674049048,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155732,
@@ -38611,14 +38659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143646,
-      "num": 143646,
-      "word": "叫声很委屈的小狗",
-      "onboard_time": 1674051029,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 143560,
       "num": 143560,
       "word": "福王什么时候下线",
@@ -39617,6 +39657,14 @@
       "onboard_time": 1673884293,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 135778,
+      "num": 135778,
+      "word": "男子花30元中100万车门未关彩票被偷",
+      "onboard_time": 1674051993,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135777,
