@@ -1,0 +1,410 @@
+{
+  "runTime": 1674080266697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 152909,
+        "num": 152909,
+        "word": "男子买灌香肠起诉其为三无产品被法院驳回",
+        "onboard_time": 1674054269,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114130,
+        "num": 114130,
+        "word": "老板花160分钟做生蚝美甲圆顾客梦",
+        "onboard_time": 1674059425,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20276,
+        "num": 103219,
+        "word": "大寒除夕春节喜相连",
+        "onboard_time": 1674044190,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95795,
+        "num": 95795,
+        "word": "一中国女子在韩国接受整容手术中途身亡",
+        "onboard_time": 1674032366,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71223,
+        "num": 71223,
+        "word": "许红豆要创业当大老板",
+        "onboard_time": 1674056067,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149307,
+        "num": 71047,
+        "word": "银行员工贪污398万整容创业潜逃25年",
+        "onboard_time": 1674058586,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70372,
+        "num": 70372,
+        "word": "男子花30元中100万车门未关彩票被偷",
+        "onboard_time": 1674051993,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62523,
+        "num": 62523,
+        "word": "张杰收到张国荣张学友的同款定制话筒",
+        "onboard_time": 1674056968,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62449,
+        "num": 62449,
+        "word": "西藏林芝一隧道出口发生雪崩",
+        "onboard_time": 1674055289,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53899,
+        "num": 53899,
+        "word": "三体 脱水",
+        "onboard_time": 1674049593,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184790,
+        "num": 52392,
+        "word": "陈泗旭 聊天记录",
+        "onboard_time": 1674054929,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165251,
+        "num": 50514,
+        "word": "直面生育损伤",
+        "onboard_time": 1674052652,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88875,
+        "num": 49354,
+        "word": "陆虎 求婚",
+        "onboard_time": 1674048870,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58435,
+        "num": 48220,
+        "word": "中金公司回应十大预测错九个",
+        "onboard_time": 1674068772,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46757,
+        "num": 46757,
+        "word": "台湾禁售麻辣花生",
+        "onboard_time": 1674034407,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 45834,
+        "num": 45834,
+        "word": "谢之遥把异地恋小把戏玩明白了",
+        "onboard_time": 1674058406,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45143,
+        "num": 45143,
+        "word": "全家没一个是混吃混喝的",
+        "onboard_time": 1674055529,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44772,
+        "num": 44772,
+        "word": "狂飙12集封神",
+        "onboard_time": 1674047908,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43921,
+        "num": 43921,
+        "word": "张远又来活了",
+        "onboard_time": 1674055649,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43361,
+        "num": 43361,
+        "word": "好欢螺",
+        "onboard_time": 1674045031,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 41821,
+        "num": 41821,
+        "word": "37岁离异女博士与小13岁吉他老师相恋",
+        "onboard_time": 1674034706,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39496,
+        "num": 39496,
+        "word": "好欢螺呼吁网友理性消费",
+        "onboard_time": 1674040891,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36053,
+        "num": 36053,
+        "word": "沈梦辰说嫁给海涛嫁对了",
+        "onboard_time": 1674035189,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34338,
+        "num": 34338,
+        "word": "周震南父母被恢复执行5850万",
+        "onboard_time": 1674037887,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34014,
+        "num": 34014,
+        "word": "练书法和学美术的都沉默了",
+        "onboard_time": 1674063797,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33561,
+        "num": 33561,
+        "word": "阿根廷世界杯夺冠一个月",
+        "onboard_time": 1674051628,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32646,
+        "num": 32646,
+        "word": "奶奶花6元在家给3岁孙子烫发",
+        "onboard_time": 1674050132,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31520,
+        "num": 31520,
+        "word": "医保局不会再就Paxlovid举行谈判",
+        "onboard_time": 1674046891,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31329,
+        "num": 31329,
+        "word": "12岁男孩6年义务为800位老人理发",
+        "onboard_time": 1674073093,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 30306,
+        "num": 30306,
+        "word": "官方通报山姆会员店销售蓝环章鱼",
+        "onboard_time": 1674038789,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88235,
+        "num": 30302,
+        "word": "95后男生过年回自家酒店免费帮工",
+        "onboard_time": 1674074591,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30222,
+        "num": 30222,
+        "word": "严浩翔 金发",
+        "onboard_time": 1674058166,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27928,
+        "num": 27928,
+        "word": "专不专业一眼就看出来了",
+        "onboard_time": 1674056370,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21893,
+        "num": 21893,
+        "word": "单亲妈妈5年没回家过年",
+        "onboard_time": 1674079873,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21317,
+        "num": 21317,
+        "word": "王一博说无名的文戏也惊心动魄",
+        "onboard_time": 1674055108,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21224,
+        "num": 21224,
+        "word": "张杰获微博音乐盛典年度音乐人",
+        "onboard_time": 1674059363,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21109,
+        "num": 21109,
+        "word": "苹果发布第二代HomePod",
+        "onboard_time": 1674054869,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 20942,
+        "num": 20942,
+        "word": "阿娇蓝色大海美人鱼造型",
+        "onboard_time": 1674039870,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20457,
+        "num": 20457,
+        "word": "Karsa出场整活",
+        "onboard_time": 1674048927,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20317,
+        "num": 20317,
+        "word": "看了三体才懂的梗",
+        "onboard_time": 1674055949,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20079,
+        "num": 20079,
+        "word": "狂飙第一个内鬼",
+        "onboard_time": 1674041249,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19686,
+        "num": 19686,
+        "word": "腿短有腿短的办法",
+        "onboard_time": 1674056009,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19381,
+        "num": 19381,
+        "word": "WBG战胜TES",
+        "onboard_time": 1674053792,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19279,
+        "num": 19279,
+        "word": "自制猫窝原来这么好看",
+        "onboard_time": 1674069793,
+        "rank": 43,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 18897,
+        "num": 18897,
+        "word": "史强脱水汪淼急了",
+        "onboard_time": 1674055049,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18648,
+        "num": 18648,
+        "word": "生肖卡",
+        "onboard_time": 1674041910,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 17603,
+        "num": 17603,
+        "word": "张艺兴舞台牵单依纯出场",
+        "onboard_time": 1674043109,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17390,
+        "num": 17390,
+        "word": "浮图缘今晚好解气",
+        "onboard_time": 1674054510,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14723,
+        "num": 14723,
+        "word": "王鹤棣白鹿双人手势舞",
+        "onboard_time": 1674059725,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14540,
+        "num": 14540,
+        "word": "徐杰",
+        "onboard_time": 1674057207,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春祝福来了#"
+    }
+  }
+}

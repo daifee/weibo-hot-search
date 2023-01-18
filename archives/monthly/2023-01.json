@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674077675400,
+  "endTime": 1674080266697,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -44099,6 +44099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88235,
+      "num": 30302,
+      "word": "95后男生过年回自家酒店免费帮工",
+      "onboard_time": 1674074591,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88093,
       "num": 315498,
       "word": "他用18年造了中国珍贵的三辆车",
@@ -44899,14 +44907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 59666,
-      "num": 21196,
-      "word": "95后男生过年回自家酒店免费帮工",
-      "onboard_time": 1674074591,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59648,
       "num": 42872,
       "word": "天娱男团1equalfive到底有多卷",
@@ -44929,6 +44929,14 @@
       "onboard_time": 1673285957,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58435,
+      "num": 48220,
+      "word": "中金公司回应十大预测错九个",
+      "onboard_time": 1674068772,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 58019,
@@ -45307,14 +45315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 37783,
-      "num": 37348,
-      "word": "中金公司回应十大预测错九个",
-      "onboard_time": 1674068772,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 37435,
       "num": 51361,
       "word": "当老板陷入轮回",
@@ -45577,6 +45577,14 @@
       "onboard_time": 1672770615,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21893,
+      "num": 21893,
+      "word": "单亲妈妈5年没回家过年",
+      "onboard_time": 1674079873,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20535,
