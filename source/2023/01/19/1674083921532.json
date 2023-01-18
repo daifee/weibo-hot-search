@@ -1,0 +1,410 @@
+{
+  "runTime": 1674083921532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 654700,
+        "num": 654700,
+        "word": "高铁站大厅没插座引网友质疑",
+        "onboard_time": 1674080293,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353781,
+        "num": 353781,
+        "word": "单亲妈妈5年没回家过年",
+        "onboard_time": 1674079873,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43772,
+        "num": 344744,
+        "word": "大寒除夕春节喜相连",
+        "onboard_time": 1674044190,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343911,
+        "num": 343911,
+        "word": "老板花160分钟做生蚝美甲圆顾客梦",
+        "onboard_time": 1674059425,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272903,
+        "num": 272903,
+        "word": "男子买灌香肠起诉其为三无产品被法院驳回",
+        "onboard_time": 1674054269,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241769,
+        "num": 241769,
+        "word": "银行员工贪污398万整容创业潜逃25年",
+        "onboard_time": 1674058586,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181879,
+        "num": 181879,
+        "word": "一中国女子在韩国接受整容手术中途身亡",
+        "onboard_time": 1674032366,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168678,
+        "num": 168678,
+        "word": "男子花30元中100万车门未关彩票被偷",
+        "onboard_time": 1674051993,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141350,
+        "num": 141350,
+        "word": "中金公司回应十大预测错九个",
+        "onboard_time": 1674068772,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127190,
+        "num": 127190,
+        "word": "狂飙12集封神",
+        "onboard_time": 1674047908,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256161,
+        "num": 126628,
+        "word": "直面生育损伤",
+        "onboard_time": 1674052652,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214446,
+        "num": 125612,
+        "word": "南方宝宝首次体验北方地暖",
+        "onboard_time": 1674080774,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145707,
+        "num": 125080,
+        "word": "95后男生过年回自家酒店免费帮工",
+        "onboard_time": 1674074591,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144451,
+        "num": 123723,
+        "word": "张艺兴给李宇春龙丹妮张杰拍照",
+        "onboard_time": 1674083357,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123536,
+        "num": 123536,
+        "word": "西藏林芝一隧道出口发生雪崩",
+        "onboard_time": 1674055289,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117108,
+        "num": 117108,
+        "word": "张杰收到张国荣张学友的同款定制话筒",
+        "onboard_time": 1674056968,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112760,
+        "num": 112760,
+        "word": "三体 脱水",
+        "onboard_time": 1674049593,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110246,
+        "num": 110246,
+        "word": "好欢螺",
+        "onboard_time": 1674045031,
+        "rank": 17,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 101746,
+        "num": 101746,
+        "word": "好欢螺呼吁网友理性消费",
+        "onboard_time": 1674040891,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89333,
+        "num": 89333,
+        "word": "台湾禁售麻辣花生",
+        "onboard_time": 1674034407,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 78282,
+        "num": 78282,
+        "word": "沈梦辰说嫁给海涛嫁对了",
+        "onboard_time": 1674035189,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76955,
+        "num": 76955,
+        "word": "阿根廷世界杯夺冠一个月",
+        "onboard_time": 1674051628,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76583,
+        "num": 76583,
+        "word": "医保局不会再就Paxlovid举行谈判",
+        "onboard_time": 1674046891,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75395,
+        "num": 75395,
+        "word": "生肖卡",
+        "onboard_time": 1674041910,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 73918,
+        "num": 73918,
+        "word": "全家没一个是混吃混喝的",
+        "onboard_time": 1674055529,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71994,
+        "num": 71994,
+        "word": "奶奶花6元在家给3岁孙子烫发",
+        "onboard_time": 1674050132,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70866,
+        "num": 70866,
+        "word": "许红豆要创业当大老板",
+        "onboard_time": 1674056067,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66691,
+        "num": 66691,
+        "word": "练书法和学美术的都沉默了",
+        "onboard_time": 1674063797,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64969,
+        "num": 64969,
+        "word": "37岁离异女博士与小13岁吉他老师相恋",
+        "onboard_time": 1674034706,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61618,
+        "num": 61618,
+        "word": "女警体系",
+        "onboard_time": 1674083116,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59903,
+        "num": 59903,
+        "word": "官方通报山姆会员店销售蓝环章鱼",
+        "onboard_time": 1674038789,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56479,
+        "num": 56479,
+        "word": "严浩翔 金发",
+        "onboard_time": 1674058166,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 56143,
+        "num": 56143,
+        "word": "王一博说无名的文戏也惊心动魄",
+        "onboard_time": 1674055108,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55136,
+        "num": 55136,
+        "word": "阿娇蓝色大海美人鱼造型",
+        "onboard_time": 1674039870,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51135,
+        "num": 51135,
+        "word": "12岁男孩6年义务为800位老人理发",
+        "onboard_time": 1674073093,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 50630,
+        "num": 50630,
+        "word": "张艺兴舞台牵单依纯出场",
+        "onboard_time": 1674043109,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 49893,
+        "num": 49893,
+        "word": "Minji将担任本周音银特别MC",
+        "onboard_time": 1674083298,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47183,
+        "num": 47183,
+        "word": "史强脱水汪淼急了",
+        "onboard_time": 1674055049,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46379,
+        "num": 46379,
+        "word": "苹果发布第二代HomePod",
+        "onboard_time": 1674054869,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 45036,
+        "num": 45036,
+        "word": "腿短有腿短的办法",
+        "onboard_time": 1674056009,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42086,
+        "num": 42086,
+        "word": "谢之遥把异地恋小把戏玩明白了",
+        "onboard_time": 1674058406,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41454,
+        "num": 41454,
+        "word": "WBG战胜TES",
+        "onboard_time": 1674053792,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41420,
+        "num": 41420,
+        "word": "周震南父母被恢复执行5850万",
+        "onboard_time": 1674037887,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40989,
+        "num": 40989,
+        "word": "狂飙第一个内鬼",
+        "onboard_time": 1674041249,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38773,
+        "num": 38773,
+        "word": "三体 游戏场景",
+        "onboard_time": 1674083298,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37573,
+        "num": 37573,
+        "word": "自制猫窝原来这么好看",
+        "onboard_time": 1674069793,
+        "rank": 45,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 37858,
+        "num": 37551,
+        "word": "虞书欣晒小恶魔造型随拍",
+        "onboard_time": 1674039573,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37176,
+        "num": 37176,
+        "word": "韩红说比沈腾胖不了太多",
+        "onboard_time": 1674075973,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36124,
+        "num": 36124,
+        "word": "杨超越徐正溪重紫片场花絮",
+        "onboard_time": 1674062958,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30945,
+        "num": 30945,
+        "word": "专不专业一眼就看出来了",
+        "onboard_time": 1674056370,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝福返乡旅客#"
+    }
+  }
+}
