@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1674040523142,
+  "endTime": 1674041607019,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -57,6 +57,14 @@
       "onboard_time": 1673957126,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1680433,
+      "num": 1680433,
+      "word": "男子年终奖太多公安送回家",
+      "onboard_time": 1674038008,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1633902,
@@ -137,14 +145,6 @@
       "onboard_time": 1673965474,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1083219,
-      "num": 1083219,
-      "word": "男子年终奖太多公安送回家",
-      "onboard_time": 1674038008,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1066339,
@@ -339,6 +339,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 740905,
+      "num": 740905,
+      "word": "阿娇蓝色大海美人鱼造型",
+      "onboard_time": 1674039870,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 712357,
       "num": 712357,
       "word": "周焯华获刑18年",
@@ -369,6 +377,14 @@
       "onboard_time": 1673962290,
       "rank": 3,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 686873,
+      "num": 557265,
+      "word": "时代少年团红毯签了七个名字",
+      "onboard_time": 1674041190,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 680484,
@@ -499,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 559462,
-      "num": 549581,
-      "word": "阿娇蓝色大海美人鱼造型",
-      "onboard_time": 1674039870,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 557676,
       "num": 557676,
       "word": "谁家丫鬟一米九",
@@ -587,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 493394,
+      "num": 493394,
+      "word": "王鹤棣谈困境与爆红",
+      "onboard_time": 1674041249,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 493272,
       "num": 493272,
       "word": "网易咖啡厅推出暴雪绿茶",
@@ -625,6 +641,14 @@
       "onboard_time": 1674025286,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 460514,
+      "num": 460514,
+      "word": "严浩翔老师在早功放正轨",
+      "onboard_time": 1674040648,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 458185,
@@ -683,12 +707,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 415202,
+      "num": 415202,
+      "word": "春晚",
+      "onboard_time": 1674041190,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413643,
       "num": 413643,
       "word": "陈飞宇逛街被偶遇",
       "onboard_time": 1674021086,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 412876,
+      "num": 255546,
+      "word": "中央军委举行晋升上将军衔仪式",
+      "onboard_time": 1674039631,
+      "rank": 30,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 408802,
@@ -739,6 +779,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393651,
+      "num": 393651,
+      "word": "纽约时报盛赞刘亦菲演的许红豆",
+      "onboard_time": 1674040113,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 382937,
+      "num": 382937,
+      "word": "丁程鑫向马嘉祺推销北电校服",
+      "onboard_time": 1674041492,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 381741,
       "num": 381741,
       "word": "易烊千玺戳酒窝",
@@ -760,6 +816,14 @@
       "word": "微博音乐盛典",
       "onboard_time": 1674027265,
       "rank": 20,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 376075,
+      "num": 376075,
+      "word": "WayV新歌内娱初舞台",
+      "onboard_time": 1674040709,
+      "rank": 22,
       "category": "音乐"
     },
     {
@@ -801,6 +865,14 @@
       "onboard_time": 1673961809,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 358364,
+      "num": 358364,
+      "word": "大貔貅",
+      "onboard_time": 1674040770,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 352081,
@@ -859,6 +931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 341125,
+      "num": 341125,
+      "word": "官方通报山姆会员店销售蓝环章鱼",
+      "onboard_time": 1674038789,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338682,
       "num": 338682,
       "word": "孙怡老北京胡同过年vlog",
@@ -875,12 +955,12 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 334753,
-      "num": 334753,
-      "word": "官方通报山姆会员店销售蓝环章鱼",
-      "onboard_time": 1674038789,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 334114,
+      "num": 229611,
+      "word": "孟美岐立体花卉抹胸裙造型",
+      "onboard_time": 1674039811,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 332638,
@@ -995,14 +1075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295843,
-      "num": 295843,
-      "word": "纽约时报盛赞刘亦菲演的许红豆",
-      "onboard_time": 1674040113,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 294945,
       "num": 294945,
       "word": "虞书欣北京春晚舞台花絮",
@@ -1091,14 +1163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 276043,
-      "num": 218448,
-      "word": "孟美岐立体花卉抹胸裙造型",
-      "onboard_time": 1674039811,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 275821,
       "num": 275821,
       "word": "于冬反对百亿票房演员说法",
@@ -1153,14 +1217,6 @@
       "onboard_time": 1673997738,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 266805,
-      "num": 210748,
-      "word": "中央军委举行晋升上将军衔仪式",
-      "onboard_time": 1674039631,
-      "rank": 30,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 266482,
@@ -1499,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211248,
+      "num": 211248,
+      "word": "好欢螺呼吁网友理性消费",
+      "onboard_time": 1674040891,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211088,
       "num": 401919,
       "word": "女兵为带军犬跳伞暴增体重10斤",
@@ -1569,6 +1633,22 @@
       "onboard_time": 1674016108,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199513,
+      "num": 195869,
+      "word": "狂飙第一个内鬼",
+      "onboard_time": 1674041249,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 198995,
+      "num": 198995,
+      "word": "原来广东人是最爱为宠物花钱的",
+      "onboard_time": 1674039930,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197427,
@@ -1809,14 +1889,6 @@
       "onboard_time": 1673996535,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173405,
-      "num": 173405,
-      "word": "原来广东人是最爱为宠物花钱的",
-      "onboard_time": 1674039930,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172867,
@@ -2163,6 +2235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110442,
+      "num": 110442,
+      "word": "郑钦文",
+      "onboard_time": 1674041310,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109040,
       "num": 156552,
       "word": "魔兽世界电子骨灰盒上线",
@@ -2267,7 +2347,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 47754,
+      "raw_hot": 48885,
       "num": 508397,
       "word": "WBG与TES的德比对决",
       "onboard_time": 1674039688,
