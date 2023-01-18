@@ -1,0 +1,410 @@
+{
+  "runTime": 1674027237719,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1592065,
+        "num": 1592065,
+        "word": "台当局要下架螺蛳粉民众狂囤货",
+        "onboard_time": 1674020488,
+        "rank": 0,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 763790,
+        "num": 763790,
+        "word": "浪胃仙创始人被逮捕",
+        "onboard_time": 1674005605,
+        "rank": 1,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 39983,
+        "num": 753609,
+        "word": "感谢每个坚守岗位的奋斗者",
+        "onboard_time": 1674010467,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748816,
+        "num": 748816,
+        "word": "山姆回应蓝环章鱼事件",
+        "onboard_time": 1674014369,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693150,
+        "num": 693150,
+        "word": "王俊凯王一博易烊千玺直播动图",
+        "onboard_time": 1674026904,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644788,
+        "num": 644788,
+        "word": "网易称暴雪离婚不离身",
+        "onboard_time": 1673997798,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 511515,
+        "num": 511515,
+        "word": "张子枫章子怡张颂文演绎初代外交天团",
+        "onboard_time": 1674021509,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 486188,
+        "num": 486188,
+        "word": "云南一男子连跑三次办结婚证未果",
+        "onboard_time": 1674020845,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483984,
+        "num": 483984,
+        "word": "黄晓明对家人报喜不报忧",
+        "onboard_time": 1674023186,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460566,
+        "num": 460566,
+        "word": "浙江省考",
+        "onboard_time": 1674025286,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 458185,
+        "num": 458185,
+        "word": "岳云鹏 师父生日快乐爱您呦",
+        "onboard_time": 1674023727,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447697,
+        "num": 447697,
+        "word": "暴雪绿茶定价13",
+        "onboard_time": 1674017006,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 403085,
+        "num": 403085,
+        "word": "金采源恋情",
+        "onboard_time": 1674011728,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382303,
+        "num": 382303,
+        "word": "吃播账号浪胃仙被判属原公司",
+        "onboard_time": 1674001587,
+        "rank": 13,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 305852,
+        "num": 305852,
+        "word": "文在寅退休后在村里开书店",
+        "onboard_time": 1674017786,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 297265,
+        "num": 297265,
+        "word": "于和伟 这样的大史形似贴脸了",
+        "onboard_time": 1674025947,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294403,
+        "num": 294403,
+        "word": "一只猫咪可以有多黑",
+        "onboard_time": 1674018807,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293399,
+        "num": 293399,
+        "word": "迪奥",
+        "onboard_time": 1674009448,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290292,
+        "num": 290292,
+        "word": "虞书欣北京春晚舞台花絮",
+        "onboard_time": 1674025106,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265143,
+        "num": 265143,
+        "word": "福兔",
+        "onboard_time": 1674003746,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 280723,
+        "num": 264817,
+        "word": "陈凯歌保密电影预告还在保密",
+        "onboard_time": 1674021986,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276605,
+        "num": 264719,
+        "word": "宁艺卓生图状态",
+        "onboard_time": 1674021745,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273227,
+        "num": 264383,
+        "word": "陈飞宇逛街被偶遇",
+        "onboard_time": 1674021086,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263645,
+        "num": 263645,
+        "word": "重庆街头巨型兔子灯被市民吐槽太丑",
+        "onboard_time": 1674004825,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259073,
+        "num": 259073,
+        "word": "无名",
+        "onboard_time": 1674023965,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256122,
+        "num": 256122,
+        "word": "原来优雅是不分年龄的",
+        "onboard_time": 1674022286,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252919,
+        "num": 252919,
+        "word": "人类幼崽为了吃的能有多会",
+        "onboard_time": 1674020786,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230009,
+        "num": 230009,
+        "word": "妈妈买900斤橘子等女儿回家过年",
+        "onboard_time": 1674004825,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206731,
+        "num": 206731,
+        "word": "新生儿成白肺医生跪地抢救",
+        "onboard_time": 1674005006,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 196266,
+        "num": 196266,
+        "word": "鼓励生育要先解决年轻人的后顾之忧",
+        "onboard_time": 1674003868,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244406,
+        "num": 195986,
+        "word": "转发王鹤棣的微博能得开心卡",
+        "onboard_time": 1674026846,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211346,
+        "num": 195646,
+        "word": "龚俊说如果不做演员可能会开串串香店",
+        "onboard_time": 1674022766,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211078,
+        "num": 195064,
+        "word": "孙俪 我问邓先生今天天气预报",
+        "onboard_time": 1674014426,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207586,
+        "num": 194447,
+        "word": "日本刘大锤",
+        "onboard_time": 1674013708,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194277,
+        "num": 194277,
+        "word": "原来做饭真的会加速女性衰老",
+        "onboard_time": 1674002126,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200810,
+        "num": 191376,
+        "word": "英专生又多了一个就业方向",
+        "onboard_time": 1674026608,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195639,
+        "num": 189933,
+        "word": "陈都灵新剧孤舟旗袍造型",
+        "onboard_time": 1674025467,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186769,
+        "num": 186769,
+        "word": "网易园区拆除暴雪魔兽斧头雕塑",
+        "onboard_time": 1674026904,
+        "rank": 37,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 180753,
+        "num": 180753,
+        "word": "iG选手",
+        "onboard_time": 1674021387,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176747,
+        "num": 176747,
+        "word": "网易 阴阳师",
+        "onboard_time": 1674021686,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192893,
+        "num": 176732,
+        "word": "中国乒乓首映礼",
+        "onboard_time": 1674026608,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189049,
+        "num": 176730,
+        "word": "蒲熠星说这调子一季比一季高",
+        "onboard_time": 1674027085,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183221,
+        "num": 176714,
+        "word": "宋慧乔黑暗荣耀2定档",
+        "onboard_time": 1674014667,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176687,
+        "num": 176687,
+        "word": "澳网纳达尔出局",
+        "onboard_time": 1674025405,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174744,
+        "num": 174744,
+        "word": "猫咪这表情似乎它听懂了",
+        "onboard_time": 1674025886,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172771,
+        "num": 172771,
+        "word": "许红豆只休三个月的原因",
+        "onboard_time": 1674027027,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170928,
+        "num": 170928,
+        "word": "苏醒张远与十年前的自己对话",
+        "onboard_time": 1674021328,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170516,
+        "num": 170516,
+        "word": "周焯华获刑18年",
+        "onboard_time": 1674015147,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162270,
+        "num": 162270,
+        "word": "澳网",
+        "onboard_time": 1674024085,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138660,
+        "num": 162202,
+        "word": "机场回应大厅雕塑被指有损女性形象",
+        "onboard_time": 1674027146,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#出站就是团圆#"
+    }
+  }
+}
