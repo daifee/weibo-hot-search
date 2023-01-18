@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674012897189,
+  "endTime": 1674015782985,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -1323,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1830281,
+      "num": 494620,
+      "word": "日本刘大锤",
+      "onboard_time": 1674013708,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1821663,
       "num": 1821663,
       "word": "网友吐槽入境韩国被挂黄牌围拍",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1673101836,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1806950,
+      "num": 1806950,
+      "word": "网易称暴雪离婚不离身",
+      "onboard_time": 1673997798,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 1803692,
@@ -2905,14 +2921,6 @@
       "onboard_time": 1673313387,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1258780,
-      "num": 1258780,
-      "word": "网易称暴雪离婚不离身",
-      "onboard_time": 1673997798,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 1258361,
@@ -6067,6 +6075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 842910,
+      "num": 842910,
+      "word": "宋慧乔黑暗荣耀2定档",
+      "onboard_time": 1674014667,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 842690,
       "num": 842690,
       "word": "阿根廷民众烧梅西雕像庆祝新年",
@@ -6113,6 +6129,14 @@
       "onboard_time": 1673266889,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 838417,
+      "num": 493553,
+      "word": "关孙彩瑛什么事",
+      "onboard_time": 1674013109,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 836861,
@@ -6897,6 +6921,14 @@
       "onboard_time": 1673842530,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 780776,
+      "num": 495584,
+      "word": "山姆回应蓝环章鱼事件",
+      "onboard_time": 1674014369,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 779523,
@@ -12211,6 +12243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 514750,
+      "num": 495294,
+      "word": "孙俪 我问邓先生今天天气预报",
+      "onboard_time": 1674014426,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 514716,
       "num": 456785,
       "word": "新郎带新娘到医院给重症父亲磕头",
@@ -12897,6 +12937,14 @@
       "onboard_time": 1673849852,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 493272,
+      "num": 493272,
+      "word": "网易咖啡厅推出暴雪绿茶",
+      "onboard_time": 1674012269,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 493032,
@@ -16153,6 +16201,14 @@
       "onboard_time": 1673945130,
       "rank": 16,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 404198,
+      "num": 395116,
+      "word": "魏晨说大侦探第八季我回来了",
+      "onboard_time": 1674013230,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 404043,
@@ -21211,6 +21267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319251,
+      "num": 319251,
+      "word": "今年春节档电影到底有多强",
+      "onboard_time": 1674014426,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 319223,
       "num": 319223,
       "word": "国际足联对大马丁启动纪律程序",
@@ -21329,6 +21393,14 @@
       "onboard_time": 1672926152,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 317850,
+      "num": 317850,
+      "word": "杨幂龚俊时尚芭莎封面",
+      "onboard_time": 1674012148,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 317735,
@@ -21505,14 +21577,6 @@
       "onboard_time": 1672993471,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 314912,
-      "num": 314912,
-      "word": "杨幂龚俊时尚芭莎封面",
-      "onboard_time": 1674012148,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 314867,
@@ -21900,7 +21964,7 @@
     },
     {
       "raw_hot": 308328,
-      "num": 290394,
+      "num": 303652,
       "word": "易烊千玺回应踹沈腾",
       "onboard_time": 1674011432,
       "rank": 30,
@@ -22745,14 +22809,6 @@
       "onboard_time": 1672552771,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 296930,
-      "num": 296930,
-      "word": "网易咖啡厅推出暴雪绿茶",
-      "onboard_time": 1674012269,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 296781,
@@ -24659,6 +24715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273828,
+      "num": 273828,
+      "word": "周焯华获刑18年",
+      "onboard_time": 1674015147,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273811,
       "num": 273811,
       "word": "金泰妍中文新歌",
@@ -25841,6 +25905,14 @@
       "onboard_time": 1672762344,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260661,
+      "num": 260661,
+      "word": "踩高跷的狐面书生",
+      "onboard_time": 1674013649,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 260658,
@@ -29075,6 +29147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224106,
+      "num": 318166,
+      "word": "张伯礼院士揭秘未阳人",
+      "onboard_time": 1674012269,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224057,
       "num": 224057,
       "word": "男子拿下科目三跪地给考试车磕头",
@@ -31075,6 +31155,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 199511,
+      "num": 199511,
+      "word": "王鹤棣对陈钰琪说娘娘这也太隆重了吧",
+      "onboard_time": 1674015688,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199471,
       "num": 199471,
       "word": "坦然 吕布",
@@ -31777,6 +31865,14 @@
       "onboard_time": 1672640548,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193215,
+      "num": 193215,
+      "word": "YSKM说想超越TheShy",
+      "onboard_time": 1674015207,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 193180,
@@ -32787,6 +32883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184117,
+      "num": 184117,
+      "word": "2023大年初一预售票房破2亿",
+      "onboard_time": 1674015271,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184050,
       "num": 184050,
       "word": "男生发现外婆家厨房墙酷似山水画",
@@ -33601,14 +33705,6 @@
       "onboard_time": 1673745681,
       "rank": 37,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 177440,
-      "num": 290822,
-      "word": "张伯礼院士揭秘未阳人",
-      "onboard_time": 1674012269,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177365,
@@ -38489,6 +38585,14 @@
       "onboard_time": 1673840665,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 131313,
+      "num": 494301,
+      "word": "原神3.4版本更新 艾尔海森",
+      "onboard_time": 1674014426,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 131239,

@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1674012897189,
+  "endTime": 1674015782985,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -27,6 +27,22 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 1830281,
+      "num": 494620,
+      "word": "日本刘大锤",
+      "onboard_time": 1674013708,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1806950,
+      "num": 1806950,
+      "word": "网易称暴雪离婚不离身",
+      "onboard_time": 1673997798,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1685266,
       "num": 602628,
       "word": "文春预告KPOP爱豆恋情",
@@ -41,14 +57,6 @@
       "onboard_time": 1673970928,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1258780,
-      "num": 1258780,
-      "word": "网易称暴雪离婚不离身",
-      "onboard_time": 1673997798,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 1204302,
@@ -107,12 +115,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 842910,
+      "num": 842910,
+      "word": "宋慧乔黑暗荣耀2定档",
+      "onboard_time": 1674014667,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 840450,
       "num": 840450,
       "word": "给你发钱你愿意生孩子吗",
       "onboard_time": 1674009266,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 838417,
+      "num": 493553,
+      "word": "关孙彩瑛什么事",
+      "onboard_time": 1674013109,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 829955,
@@ -136,6 +160,14 @@
       "word": "重庆街头巨型兔子灯被市民吐槽太丑",
       "onboard_time": 1674004825,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 780776,
+      "num": 495584,
+      "word": "山姆回应蓝环章鱼事件",
+      "onboard_time": 1674014369,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -267,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 514750,
+      "num": 495294,
+      "word": "孙俪 我问邓先生今天天气预报",
+      "onboard_time": 1674014426,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 512704,
       "num": 512704,
       "word": "去有风的地方",
@@ -281,6 +321,14 @@
       "onboard_time": 1674007168,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 493272,
+      "num": 493272,
+      "word": "网易咖啡厅推出暴雪绿茶",
+      "onboard_time": 1674012269,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 484790,
@@ -321,6 +369,14 @@
       "onboard_time": 1673962591,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 404198,
+      "num": 395116,
+      "word": "魏晨说大侦探第八季我回来了",
+      "onboard_time": 1674013230,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 398568,
@@ -427,8 +483,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 314912,
-      "num": 314912,
+      "raw_hot": 319251,
+      "num": 319251,
+      "word": "今年春节档电影到底有多强",
+      "onboard_time": 1674014426,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 317850,
+      "num": 317850,
       "word": "杨幂龚俊时尚芭莎封面",
       "onboard_time": 1674012148,
       "rank": 25,
@@ -436,7 +500,7 @@
     },
     {
       "raw_hot": 308328,
-      "num": 290394,
+      "num": 303652,
       "word": "易烊千玺回应踹沈腾",
       "onboard_time": 1674011432,
       "rank": 30,
@@ -465,14 +529,6 @@
       "onboard_time": 1673942545,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296930,
-      "num": 296930,
-      "word": "网易咖啡厅推出暴雪绿茶",
-      "onboard_time": 1674012269,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 292689,
@@ -515,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275417,
+      "num": 275417,
+      "word": "明日方舟",
+      "onboard_time": 1674015327,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 275393,
       "num": 275393,
       "word": "高三放假领10斤猪肉什么感觉",
@@ -539,12 +603,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273828,
+      "num": 273828,
+      "word": "周焯华获刑18年",
+      "onboard_time": 1674015147,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272402,
       "num": 272402,
       "word": "网易称暴雪声明蛮横不得体",
       "onboard_time": 1673997738,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 260661,
+      "num": 260661,
+      "word": "踩高跷的狐面书生",
+      "onboard_time": 1674013649,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 260314,
@@ -675,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224106,
+      "num": 318166,
+      "word": "张伯礼院士揭秘未阳人",
+      "onboard_time": 1674012269,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223886,
       "num": 223886,
       "word": "妈妈的脾气为什么变差了",
@@ -739,12 +827,28 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 205193,
+      "num": 205193,
+      "word": "大侦探",
+      "onboard_time": 1674014127,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199885,
       "num": 199885,
       "word": "马丽说今年春晚小品题材是挑战",
       "onboard_time": 1673977158,
       "rank": 9,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 199511,
+      "num": 199511,
+      "word": "王鹤棣对陈钰琪说娘娘这也太隆重了吧",
+      "onboard_time": 1674015688,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 197239,
@@ -761,6 +865,14 @@
       "onboard_time": 1674001885,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193215,
+      "num": 193215,
+      "word": "YSKM说想超越TheShy",
+      "onboard_time": 1674015207,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 192011,
@@ -803,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184117,
+      "num": 184117,
+      "word": "2023大年初一预售票房破2亿",
+      "onboard_time": 1674015271,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180156,
       "num": 180156,
       "word": "女生玩仙女棒滑倒脸着地头发被烧",
@@ -817,14 +937,6 @@
       "onboard_time": 1673963190,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 177440,
-      "num": 290822,
-      "word": "张伯礼院士揭秘未阳人",
-      "onboard_time": 1674012269,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176818,
@@ -937,6 +1049,14 @@
       "onboard_time": 1673963310,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131313,
+      "num": 494301,
+      "word": "原神3.4版本更新 艾尔海森",
+      "onboard_time": 1674014426,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 127545,
