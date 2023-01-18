@@ -1,6 +1,6 @@
 {
   "startTime": 1673972739891,
-  "endTime": 1674007190948,
+  "endTime": 1674009999834,
   "band_list": [
     {
       "raw_hot": 1980232,
@@ -11,8 +11,8 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 1446388,
-      "num": 1446388,
+      "raw_hot": 1843477,
+      "num": 1843477,
       "word": "浪胃仙创始人被逮捕",
       "onboard_time": 1674005605,
       "rank": 13,
@@ -67,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 973390,
+      "num": 973390,
+      "word": "新生儿成白肺医生跪地抢救",
+      "onboard_time": 1674005006,
+      "rank": 17,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 908694,
       "num": 908694,
       "word": "李现演技",
@@ -75,12 +83,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 813420,
-      "num": 813420,
-      "word": "新生儿成白肺医生跪地抢救",
-      "onboard_time": 1674005006,
-      "rank": 17,
-      "category": "社会正能量"
+      "raw_hot": 829955,
+      "num": 829955,
+      "word": "第一次见火车高级软卧",
+      "onboard_time": 1674006146,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 793657,
@@ -129,6 +137,14 @@
       "onboard_time": 1673969068,
       "rank": 4,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 677828,
+      "num": 677828,
+      "word": "大侦探第八季定档",
+      "onboard_time": 1674009086,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 654737,
@@ -203,20 +219,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 529580,
-      "num": 241277,
-      "word": "第一次见火车高级软卧",
-      "onboard_time": 1674006146,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 512704,
       "num": 512704,
       "word": "去有风的地方",
       "onboard_time": 1673967152,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 508509,
+      "num": 508509,
+      "word": "女子烧烤店内被男子持刀锁喉",
+      "onboard_time": 1674008248,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 486015,
+      "num": 486015,
+      "word": "目前还没阳过是什么原因",
+      "onboard_time": 1674007168,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 484790,
@@ -275,11 +299,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364379,
+      "num": 364379,
+      "word": "迪奥",
+      "onboard_time": 1674009448,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359602,
       "num": 359602,
       "word": "许红豆谢之遥异地恋",
       "onboard_time": 1673961809,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 351429,
+      "num": 351429,
+      "word": "狂飙安零容",
+      "onboard_time": 1674008488,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -305,6 +345,14 @@
       "onboard_time": 1674005306,
       "rank": 38,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 333130,
+      "num": 333130,
+      "word": "年轻人的过年方式有多统一",
+      "onboard_time": 1674007767,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 332638,
@@ -339,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 304712,
+      "num": 304712,
+      "word": "董子健刘昊然我的朋友安德烈杀青",
+      "onboard_time": 1674007527,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 303452,
       "num": 303452,
       "word": "我国出生人口下降三大因素",
@@ -361,6 +417,14 @@
       "onboard_time": 1673966851,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 276923,
+      "num": 276923,
+      "word": "李雪琴 看完深海嚎啕大哭",
+      "onboard_time": 1674006808,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 275821,
@@ -411,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259137,
+      "num": 259137,
+      "word": "给你发钱你愿意生孩子吗",
+      "onboard_time": 1674009266,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 259014,
       "num": 259014,
       "word": "男子套中3米玩具熊4人抬回家",
@@ -425,6 +497,14 @@
       "onboard_time": 1673971166,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258189,
+      "num": 258189,
+      "word": "王者牛魔新皮肤牛运亨通",
+      "onboard_time": 1674006087,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 257151,
@@ -483,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236558,
+      "num": 236558,
+      "word": "樱井孝宏方回应",
+      "onboard_time": 1674008906,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223886,
       "num": 223886,
       "word": "妈妈的脾气为什么变差了",
@@ -507,12 +595,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 218050,
-      "num": 218050,
-      "word": "王者牛魔新皮肤牛运亨通",
-      "onboard_time": 1674006087,
-      "rank": 33,
-      "category": "游戏"
+      "raw_hot": 218149,
+      "num": 218149,
+      "word": "深海不是它们 它就是自己",
+      "onboard_time": 1674001284,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 217339,
@@ -539,6 +627,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200708,
+      "num": 200708,
+      "word": "许红豆跳广场舞",
+      "onboard_time": 1674009386,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 200372,
+      "num": 282132,
+      "word": "女兵为带军犬跳伞暴增体重10斤",
+      "onboard_time": 1674006745,
+      "rank": 29,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 199885,
       "num": 199885,
       "word": "马丽说今年春晚小品题材是挑战",
@@ -560,14 +664,6 @@
       "word": "红豆遥遥冰成熟的爱情",
       "onboard_time": 1674001885,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 194081,
-      "num": 194081,
-      "word": "李雪琴 看完深海嚎啕大哭",
-      "onboard_time": 1674006808,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -651,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162712,
+      "num": 162712,
+      "word": "三体 烧脑",
+      "onboard_time": 1674001768,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160236,
       "num": 160236,
       "word": "深海",
@@ -683,14 +787,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 151812,
-      "num": 151812,
-      "word": "深海不是它们 它就是自己",
-      "onboard_time": 1674001284,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 151345,
       "num": 151345,
       "word": "如何处理和伴侣前任的关系",
@@ -721,14 +817,6 @@
       "onboard_time": 1673955568,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145900,
-      "num": 145900,
-      "word": "目前还没阳过是什么原因",
-      "onboard_time": 1674007168,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 142889,
