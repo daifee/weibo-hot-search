@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674080266697,
+  "endTime": 1674081235372,
   "band_list": [
     {
       "raw_hot": 1579432,
@@ -427,8 +427,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88235,
-      "num": 30302,
+      "raw_hot": 96002,
+      "num": 60030,
       "word": "95后男生过年回自家酒店免费帮工",
       "onboard_time": 1674074591,
       "rank": 30,
@@ -451,12 +451,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 77184,
+      "num": 59824,
+      "word": "单亲妈妈5年没回家过年",
+      "onboard_time": 1674079873,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68594,
       "num": 68594,
       "word": "马嘉祺模仿干饭人表情包",
       "onboard_time": 1674060442,
       "rank": 45,
       "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 67779,
+      "num": 59623,
+      "word": "高铁站大厅没插座引网友质疑",
+      "onboard_time": 1674080293,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65876,
@@ -475,20 +491,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 62587,
+      "num": 59516,
+      "word": "中金公司回应十大预测错九个",
+      "onboard_time": 1674068772,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 59376,
       "num": 550526,
       "word": "大寒除夕春节喜相连",
       "onboard_time": 1674044190,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58435,
-      "num": 48220,
-      "word": "中金公司回应十大预测错九个",
-      "onboard_time": 1674068772,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 36946,
@@ -499,20 +515,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 24437,
+      "num": 24437,
+      "word": "南方宝宝首次体验北方地暖",
+      "onboard_time": 1674080774,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 23200,
       "num": 21191,
       "word": "韩红说比沈腾胖不了太多",
       "onboard_time": 1674075973,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 21893,
-      "num": 21893,
-      "word": "单亲妈妈5年没回家过年",
-      "onboard_time": 1674079873,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20114,
