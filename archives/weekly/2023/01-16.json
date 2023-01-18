@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674034429122,
+  "endTime": 1674037240545,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -177,6 +177,14 @@
       "onboard_time": 1673933549,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1964956,
+      "num": 1964956,
+      "word": "一中国女子在韩国接受整容手术中途身亡",
+      "onboard_time": 1674032366,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1956537,
@@ -395,6 +403,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1364738,
+      "num": 1364738,
+      "word": "台湾禁售麻辣花生",
+      "onboard_time": 1674034407,
+      "rank": 48,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1364046,
+      "num": 1364046,
+      "word": "沈梦辰说嫁给海涛嫁对了",
+      "onboard_time": 1674035189,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1363318,
       "num": 1363318,
       "word": "暴雪绿茶",
@@ -587,14 +611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1129398,
-      "num": 1129398,
-      "word": "一中国女子在韩国接受整容手术中途身亡",
-      "onboard_time": 1674032366,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1127613,
       "num": 1093075,
       "word": "丈夫给情人转账20万元原配成功追回",
@@ -729,6 +745,14 @@
       "onboard_time": 1674005006,
       "rank": 17,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 980288,
+      "num": 980288,
+      "word": "37岁离异女博士与小13岁吉他老师相恋",
+      "onboard_time": 1674034706,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 971110,
@@ -1091,12 +1115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 765838,
+      "num": 765838,
+      "word": "杜海涛妈妈说看完交换人生想换成雷佳音",
+      "onboard_time": 1674035008,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 756045,
       "num": 756045,
       "word": "女子烧烤店内被男子持刀锁喉",
       "onboard_time": 1674008248,
       "rank": 12,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 754497,
+      "num": 754497,
+      "word": "时代少年团红毯幕后",
+      "onboard_time": 1674036568,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 753580,
@@ -1233,6 +1273,14 @@
       "onboard_time": 1673777187,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 701296,
+      "num": 701296,
+      "word": "乌克兰内务部长坠机身亡",
+      "onboard_time": 1674033688,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 699587,
@@ -2875,6 +2923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 354201,
+      "num": 354201,
+      "word": "宋轶首上2023总台春晚",
+      "onboard_time": 1674036269,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353879,
       "num": 353879,
       "word": "Flandre在LPL出道八周年",
@@ -3121,14 +3177,6 @@
       "onboard_time": 1673882555,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 333032,
-      "num": 177545,
-      "word": "乌克兰内务部长坠机身亡",
-      "onboard_time": 1674033688,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 332638,
@@ -3715,6 +3763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282323,
+      "num": 282323,
+      "word": "鹿晗白衬衫背头造型",
+      "onboard_time": 1674036448,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 281542,
       "num": 281542,
       "word": "微博音乐盛典",
@@ -3936,6 +3992,14 @@
       "word": "王一博无名战损妆剧照",
       "onboard_time": 1673867729,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 272370,
+      "num": 272370,
+      "word": "刘大锤曝相思令阵容",
+      "onboard_time": 1674036391,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -4571,6 +4635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235224,
+      "num": 235224,
+      "word": "回浪浪山",
+      "onboard_time": 1674035368,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234500,
       "num": 234500,
       "word": "2023KPL春季转会期",
@@ -4635,6 +4707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230958,
+      "num": 185365,
+      "word": "乌克兰国家紧急事务局一直升机坠毁",
+      "onboard_time": 1674036150,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 230264,
       "num": 230264,
       "word": "新款MacBookPro或本周发布",
@@ -4673,6 +4753,14 @@
       "onboard_time": 1674018025,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226413,
+      "num": 226413,
+      "word": "李莎旻子的主持",
+      "onboard_time": 1674036869,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 226348,
@@ -4963,6 +5051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205770,
+      "num": 205770,
+      "word": "王鹤棣郭仔变脸反差感",
+      "onboard_time": 1674035488,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205575,
       "num": 222343,
       "word": "分手后还会看前任动态吗",
@@ -4985,6 +5081,14 @@
       "onboard_time": 1674014127,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203433,
+      "num": 203433,
+      "word": "李现谢之遥深情表白",
+      "onboard_time": 1674036331,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 203269,
@@ -5121,6 +5225,14 @@
       "onboard_time": 1673970148,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197237,
+      "num": 185361,
+      "word": "国家级出行平台强国交通即将上线",
+      "onboard_time": 1674037108,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196376,
@@ -5401,6 +5513,14 @@
       "onboard_time": 1673844753,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182569,
+      "num": 182569,
+      "word": "三亚大东海鲨鱼咬人系谣言",
+      "onboard_time": 1674034047,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182546,
@@ -6075,6 +6195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146008,
+      "num": 146008,
+      "word": "BLG对战FPX",
+      "onboard_time": 1674036508,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145540,
       "num": 145540,
       "word": "养儿是为了防老吗",
@@ -6281,14 +6409,6 @@
       "onboard_time": 1673923947,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136139,
-      "num": 136139,
-      "word": "三亚大东海鲨鱼咬人系谣言",
-      "onboard_time": 1674034047,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135823,
@@ -6505,14 +6625,6 @@
       "onboard_time": 1673923767,
       "rank": 49,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 117253,
-      "num": 117253,
-      "word": "台湾禁售麻辣花生",
-      "onboard_time": 1674034407,
-      "rank": 48,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 117212,
@@ -6867,8 +6979,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 91731,
-      "num": 981777,
+      "raw_hot": 91788,
+      "num": 1364108,
       "word": "沉浸式体验C919验证飞行",
       "onboard_time": 1674031888,
       "rank": 2,
@@ -7254,6 +7366,9 @@
     },
     {
       "word": "#十年不变的新春牵挂#"
+    },
+    {
+      "word": "#回家就是春节的仪式感#"
     }
   ]
 }
