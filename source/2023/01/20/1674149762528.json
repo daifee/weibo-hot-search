@@ -1,0 +1,410 @@
+{
+  "runTime": 1674149762528,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 652573,
+        "num": 652573,
+        "word": "梅西",
+        "onboard_time": 1674142591,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 522733,
+        "num": 522733,
+        "word": "利雅得全明星队vs巴黎圣日耳曼",
+        "onboard_time": 1674142227,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75867,
+        "num": 418325,
+        "word": "未感染人群怎么做好个人防护",
+        "onboard_time": 1674137191,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370640,
+        "num": 370640,
+        "word": "蒲熠星 淘汰",
+        "onboard_time": 1674135089,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314397,
+        "num": 314397,
+        "word": "三部预售票房过亿的电影",
+        "onboard_time": 1674142707,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259557,
+        "num": 259557,
+        "word": "27岁女子为父母偷偷买房父亲参观时哽咽",
+        "onboard_time": 1674141630,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246127,
+        "num": 246127,
+        "word": "清华硕士称大厂2万月薪践踏学历",
+        "onboard_time": 1674127047,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 192633,
+        "num": 192633,
+        "word": "慕星 加戏",
+        "onboard_time": 1674143607,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179732,
+        "num": 179732,
+        "word": "深海",
+        "onboard_time": 1674134551,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146296,
+        "num": 146296,
+        "word": "三体集体脱水名场面",
+        "onboard_time": 1674146063,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309302,
+        "num": 146114,
+        "word": "山东多人婚闹压着新郎新娘叠罗汉",
+        "onboard_time": 1674132207,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 254942,
+        "num": 146114,
+        "word": "王嘉尔 唇环",
+        "onboard_time": 1674138633,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 191083,
+        "num": 145335,
+        "word": "王一博脸上青春痘都比你好看",
+        "onboard_time": 1674134668,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143687,
+        "num": 143687,
+        "word": "千万别帮广东人大扫除",
+        "onboard_time": 1674137671,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152428,
+        "num": 139442,
+        "word": "liz 胖了",
+        "onboard_time": 1674133707,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132594,
+        "num": 132594,
+        "word": "杨紫王冰冰同框",
+        "onboard_time": 1674138030,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117970,
+        "num": 117970,
+        "word": "这届年轻人开始报复性回家过年了",
+        "onboard_time": 1674125788,
+        "rank": 16,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 113991,
+        "num": 113991,
+        "word": "gidle 造型",
+        "onboard_time": 1674137430,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101303,
+        "num": 101303,
+        "word": "怎么有小猫生气这么可爱的",
+        "onboard_time": 1674138330,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101124,
+        "num": 101124,
+        "word": "这哪叫自建房这叫自建府",
+        "onboard_time": 1674135448,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110229,
+        "num": 100487,
+        "word": "快乐再出发",
+        "onboard_time": 1674137912,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104363,
+        "num": 100320,
+        "word": "倪萍冯巩春晚同台童年又回来了",
+        "onboard_time": 1674141871,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98628,
+        "num": 98628,
+        "word": "至今没阳过返乡过年感染风险是否更大",
+        "onboard_time": 1674144327,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97414,
+        "num": 97414,
+        "word": "文韬 逆风翻盘",
+        "onboard_time": 1674135750,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87776,
+        "num": 87776,
+        "word": "蓝环章鱼后又现毒螃蟹",
+        "onboard_time": 1674136110,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 85372,
+        "num": 85372,
+        "word": "南宁兔子意外走红成网红表情包",
+        "onboard_time": 1674134551,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77504,
+        "num": 77504,
+        "word": "郑恺说认识苗苗以后才养成的剥虾习惯",
+        "onboard_time": 1674146843,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75101,
+        "num": 75101,
+        "word": "魏晨大侦探换牌被拒绝了5次",
+        "onboard_time": 1674143489,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71967,
+        "num": 71967,
+        "word": "yuan 菠菜",
+        "onboard_time": 1674138030,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71276,
+        "num": 71276,
+        "word": "河北全面推行婚俗改革",
+        "onboard_time": 1674139052,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72411,
+        "num": 70780,
+        "word": "龚俊包场请粉丝看中国乒乓和交换人生",
+        "onboard_time": 1674148999,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69840,
+        "num": 69840,
+        "word": "许红米叫许红豆起床好真实",
+        "onboard_time": 1674144389,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68645,
+        "num": 68645,
+        "word": "BLACKPINK首尔歌谣大赏本赏",
+        "onboard_time": 1674131369,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62185,
+        "num": 62185,
+        "word": "夫妻外地旅游苦寻停车位置3小时",
+        "onboard_time": 1674148398,
+        "rank": 33,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 66017,
+        "num": 61065,
+        "word": "IVE首尔歌谣大赏开麦",
+        "onboard_time": 1674141211,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 59773,
+        "num": 59773,
+        "word": "年度路人帅哥",
+        "onboard_time": 1674135569,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59264,
+        "num": 59264,
+        "word": "电影深海口碑",
+        "onboard_time": 1674138871,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55629,
+        "num": 55629,
+        "word": "iboy送外卖",
+        "onboard_time": 1674136531,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55581,
+        "num": 55581,
+        "word": "余秀华",
+        "onboard_time": 1674133830,
+        "rank": 38,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 55159,
+        "num": 55159,
+        "word": "暴食一天能吃下多少东西",
+        "onboard_time": 1674134851,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 57350,
+        "num": 55132,
+        "word": "魏晨透露春晚会唱歌",
+        "onboard_time": 1674145405,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55088,
+        "num": 55088,
+        "word": "周深一开口就有团圆味了",
+        "onboard_time": 1674144087,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53809,
+        "num": 53809,
+        "word": "看狂飙 好想吃肠粉",
+        "onboard_time": 1674123684,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53492,
+        "num": 53492,
+        "word": "陈乔恩说刘芸公然撒谎",
+        "onboard_time": 1674128306,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51023,
+        "num": 51023,
+        "word": "近期泰国检出德尔塔克戎毒株",
+        "onboard_time": 1674119605,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48983,
+        "num": 48983,
+        "word": "许红豆说明早见久违的小锅米线",
+        "onboard_time": 1674138633,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48383,
+        "num": 48383,
+        "word": "王鹤棣白鹿微博互关",
+        "onboard_time": 1674144927,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46133,
+        "num": 46133,
+        "word": "乐华上市庆功宴路透",
+        "onboard_time": 1674138330,
+        "rank": 47,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 35266,
+        "num": 35266,
+        "word": "回家后最向往的事情",
+        "onboard_time": 1674148758,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34386,
+        "num": 34386,
+        "word": "世界杯官方晒C罗海报",
+        "onboard_time": 1674149718,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记最大的心愿就是大家欢喜过好年#"
+    }
+  }
+}
