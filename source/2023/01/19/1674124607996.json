@@ -1,0 +1,410 @@
+{
+  "runTime": 1674124607996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1133413,
+        "num": 1133413,
+        "word": "近期泰国检出德尔塔克戎毒株",
+        "onboard_time": 1674119605,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873786,
+        "num": 873786,
+        "word": "兔年央视春晚第五次联排",
+        "onboard_time": 1674120087,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48236,
+        "num": 810906,
+        "word": "人间烟火处年味渐浓时",
+        "onboard_time": 1674104428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 995114,
+        "num": 794091,
+        "word": "张元英 平底鞋",
+        "onboard_time": 1674123209,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 771208,
+        "num": 771208,
+        "word": "男子下车疑抽烟错过高铁跪地求开门",
+        "onboard_time": 1674118768,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735586,
+        "num": 735586,
+        "word": "韩国版西八区的姐妹们",
+        "onboard_time": 1674119849,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 729147,
+        "num": 729147,
+        "word": "陈乔恩结婚没有通知经纪人",
+        "onboard_time": 1674117326,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622181,
+        "num": 622181,
+        "word": "赵丽颖紫色大衣",
+        "onboard_time": 1674121827,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573064,
+        "num": 573064,
+        "word": "走亲戚会不会终止在00后",
+        "onboard_time": 1674118646,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 435153,
+        "num": 435153,
+        "word": "生肖卡",
+        "onboard_time": 1674122548,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 535675,
+        "num": 423711,
+        "word": "王一博成为乐华娱乐股东",
+        "onboard_time": 1674101965,
+        "rank": 10,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 502073,
+        "num": 412577,
+        "word": "曾黎 不要为了接送机把时间刻意花在我身上",
+        "onboard_time": 1674119309,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380065,
+        "num": 380065,
+        "word": "中国足协原秘书长刘奕被查",
+        "onboard_time": 1674120508,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360954,
+        "num": 360954,
+        "word": "于和伟 卤煮好菜",
+        "onboard_time": 1674122307,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350946,
+        "num": 350946,
+        "word": "大学生回家整顿聚餐了",
+        "onboard_time": 1674120204,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331730,
+        "num": 331730,
+        "word": "男子理发时耳朵被剪掉一块肉",
+        "onboard_time": 1674107725,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321088,
+        "num": 321088,
+        "word": "许嵩一边饮茶一边唱燕归巢",
+        "onboard_time": 1674121588,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312737,
+        "num": 312737,
+        "word": "8个月宝宝确诊溶血症全身换血6次",
+        "onboard_time": 1674114625,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306063,
+        "num": 306063,
+        "word": "这就是普通人努力的意义吧",
+        "onboard_time": 1674119966,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243103,
+        "num": 243103,
+        "word": "首尔歌谣大赏",
+        "onboard_time": 1674118947,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233375,
+        "num": 233375,
+        "word": "萧亚轩说正在偷吃麻辣花生",
+        "onboard_time": 1674110726,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231617,
+        "num": 231617,
+        "word": "严浩翔染发vlog",
+        "onboard_time": 1674122966,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223288,
+        "num": 223288,
+        "word": "马尔代夫旅游部长赴机场迎接中国游客",
+        "onboard_time": 1674121709,
+        "rank": 22,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 212114,
+        "num": 212114,
+        "word": "这么完美的冰溜子很少见",
+        "onboard_time": 1674119849,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205393,
+        "num": 205393,
+        "word": "gidle首尔歌谣大赏红毯",
+        "onboard_time": 1674123388,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199244,
+        "num": 199244,
+        "word": "为什么年轻人去KTV爱点老歌",
+        "onboard_time": 1674119728,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192397,
+        "num": 192397,
+        "word": "程潇 乐华",
+        "onboard_time": 1674101847,
+        "rank": 26,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 189158,
+        "num": 189158,
+        "word": "如何防止自己退缩",
+        "onboard_time": 1674123388,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187840,
+        "num": 187840,
+        "word": "大侦探8开播",
+        "onboard_time": 1674114328,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182354,
+        "num": 182354,
+        "word": "2023全国高考时间",
+        "onboard_time": 1674116904,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 226639,
+        "num": 182160,
+        "word": "姚润昊",
+        "onboard_time": 1674108387,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 187293,
+        "num": 182073,
+        "word": "沙溢说看完流浪地球2不再羡慕别人",
+        "onboard_time": 1674112766,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181884,
+        "num": 181884,
+        "word": "看狂飙 好想吃肠粉",
+        "onboard_time": 1674123684,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186858,
+        "num": 181613,
+        "word": "程耳谈自己划分电影的标准",
+        "onboard_time": 1674124228,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179099,
+        "num": 179099,
+        "word": "老板发年终奖能有多离谱",
+        "onboard_time": 1674119548,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182546,
+        "num": 178890,
+        "word": "谢之遥看见许红豆笑容藏不住了",
+        "onboard_time": 1674124049,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177899,
+        "num": 177899,
+        "word": "当我去猫咖摸了几十只猫以后",
+        "onboard_time": 1674124049,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172605,
+        "num": 172605,
+        "word": "步音楼为救肖铎下跪",
+        "onboard_time": 1674121409,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171823,
+        "num": 171823,
+        "word": "暴雪回应魔兽世界进度存档问题",
+        "onboard_time": 1674120267,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162575,
+        "num": 162575,
+        "word": "水果店老板发7万年终奖",
+        "onboard_time": 1674109047,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170259,
+        "num": 162285,
+        "word": "吴磊2023央视春晚第五次联排路透",
+        "onboard_time": 1674121648,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155264,
+        "num": 155264,
+        "word": "林书豪宣布已婚",
+        "onboard_time": 1674099447,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145225,
+        "num": 145225,
+        "word": "男子桌下偷梁换柱往酒瓶倒茶",
+        "onboard_time": 1674122907,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138242,
+        "num": 138242,
+        "word": "鲍蕾说跟父母住优点大过缺点",
+        "onboard_time": 1674111207,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138094,
+        "num": 138094,
+        "word": "ive首尔歌谣大赏红毯生图",
+        "onboard_time": 1674119966,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129730,
+        "num": 129730,
+        "word": "哈尔滨大雪兔换上了小红帽",
+        "onboard_time": 1674124167,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129336,
+        "num": 129336,
+        "word": "30岁男子每天入地30米做体检",
+        "onboard_time": 1674120869,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1254842,
+        "num": 127575,
+        "word": "一个人养活全公司是什么体验",
+        "onboard_time": 1674119005,
+        "rank": 47,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 125446,
+        "num": 125446,
+        "word": "易烊千玺演的满江红从头笑到尾",
+        "onboard_time": 1674112828,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124172,
+        "num": 124172,
+        "word": "杨紫春晚联排盘发造型路透",
+        "onboard_time": 1674119128,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春祝福来了#"
+    }
+  }
+}

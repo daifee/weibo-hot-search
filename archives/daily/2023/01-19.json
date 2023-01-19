@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674123635971,
+  "endTime": 1674124607996,
   "band_list": [
     {
       "raw_hot": 2832749,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1133413,
+      "num": 1133413,
+      "word": "近期泰国检出德尔塔克戎毒株",
+      "onboard_time": 1674119605,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1106140,
       "num": 1106140,
       "word": "陈钰琪说我不喜欢粉色太娘了",
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 995114,
+      "num": 794091,
+      "word": "张元英 平底鞋",
+      "onboard_time": 1674123209,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 971606,
       "num": 842372,
       "word": "13岁孩子起诉父亲还16800元压岁钱",
@@ -169,14 +185,6 @@
       "onboard_time": 1674101847,
       "rank": 22,
       "category": "艺人,财经"
-    },
-    {
-      "raw_hot": 938621,
-      "num": 938621,
-      "word": "近期泰国检出德尔塔克戎毒株",
-      "onboard_time": 1674119605,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 929262,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735586,
+      "num": 735586,
+      "word": "韩国版西八区的姐妹们",
+      "onboard_time": 1674119849,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 729629,
       "num": 729629,
       "word": "赵丽颖紫色大衣",
@@ -353,14 +369,6 @@
       "onboard_time": 1674104726,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 671025,
-      "num": 514059,
-      "word": "韩国版西八区的姐妹们",
-      "onboard_time": 1674119849,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 649839,
@@ -427,20 +435,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 581562,
-      "num": 444933,
-      "word": "张元英 平底鞋",
-      "onboard_time": 1674123209,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 574422,
       "num": 574422,
       "word": "我国尚未监测到德尔塔克戎",
       "onboard_time": 1674114865,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573064,
+      "num": 573064,
+      "word": "走亲戚会不会终止在00后",
+      "onboard_time": 1674118646,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 566147,
@@ -473,14 +481,6 @@
       "onboard_time": 1674090983,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 554512,
-      "num": 554512,
-      "word": "走亲戚会不会终止在00后",
-      "onboard_time": 1674118646,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 554154,
@@ -739,6 +739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 350946,
+      "num": 350946,
+      "word": "大学生回家整顿聚餐了",
+      "onboard_time": 1674120204,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 350318,
       "num": 350318,
       "word": "三体豆瓣评分8.0",
@@ -835,20 +843,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 314720,
-      "num": 314720,
-      "word": "大学生回家整顿聚餐了",
-      "onboard_time": 1674120204,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 306889,
       "num": 306889,
       "word": "ive首尔歌谣大赏红毯生图",
       "onboard_time": 1674119966,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 306063,
+      "num": 306063,
+      "word": "这就是普通人努力的意义吧",
+      "onboard_time": 1674119966,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 304361,
@@ -865,14 +873,6 @@
       "onboard_time": 1674035189,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 303478,
-      "num": 303478,
-      "word": "这就是普通人努力的意义吧",
-      "onboard_time": 1674119966,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 301155,
@@ -1187,6 +1187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 223288,
+      "num": 223288,
+      "word": "马尔代夫旅游部长赴机场迎接中国游客",
+      "onboard_time": 1674121709,
+      "rank": 27,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 221701,
       "num": 202699,
       "word": "贺峻霖说想看中国乒乓",
@@ -1209,14 +1217,6 @@
       "onboard_time": 1674086242,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 213866,
-      "num": 213866,
-      "word": "马尔代夫旅游部长赴机场迎接中国游客",
-      "onboard_time": 1674121709,
-      "rank": 27,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 213465,
@@ -1427,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189158,
+      "num": 189158,
+      "word": "如何防止自己退缩",
+      "onboard_time": 1674123388,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188802,
       "num": 188802,
       "word": "胡歌说闻善和他们的故事开始了",
@@ -1441,6 +1449,14 @@
       "onboard_time": 1674110128,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186858,
+      "num": 181613,
+      "word": "程耳谈自己划分电影的标准",
+      "onboard_time": 1674124228,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 186516,
@@ -1465,6 +1481,22 @@
       "onboard_time": 1674101428,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182546,
+      "num": 178890,
+      "word": "谢之遥看见许红豆笑容藏不住了",
+      "onboard_time": 1674124049,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 181884,
+      "num": 181884,
+      "word": "看狂飙 好想吃肠粉",
+      "onboard_time": 1674123684,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 180427,
@@ -1497,6 +1529,14 @@
       "onboard_time": 1674099025,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177899,
+      "num": 177899,
+      "word": "当我去猫咖摸了几十只猫以后",
+      "onboard_time": 1674124049,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 177522,
@@ -1835,6 +1875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145225,
+      "num": 145225,
+      "word": "男子桌下偷梁换柱往酒瓶倒茶",
+      "onboard_time": 1674122907,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145032,
       "num": 145032,
       "word": "铁路南京站回应候车大厅没插座",
@@ -1865,14 +1913,6 @@
       "onboard_time": 1674117928,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142831,
-      "num": 142831,
-      "word": "如何防止自己退缩",
-      "onboard_time": 1674123388,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 142517,
@@ -1985,6 +2025,14 @@
       "onboard_time": 1674113607,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129730,
+      "num": 129730,
+      "word": "哈尔滨大雪兔换上了小红帽",
+      "onboard_time": 1674124167,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128325,
@@ -2161,14 +2209,6 @@
       "onboard_time": 1674083298,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114397,
-      "num": 114397,
-      "word": "男子桌下偷梁换柱往酒瓶倒茶",
-      "onboard_time": 1674122907,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113398,
