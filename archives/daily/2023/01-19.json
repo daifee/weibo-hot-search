@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674116672463,
+  "endTime": 1674117439486,
   "band_list": [
     {
       "raw_hot": 2832749,
@@ -275,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 680495,
+      "num": 618749,
+      "word": "8个月宝宝确诊溶血症全身换血6次",
+      "onboard_time": 1674114625,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677786,
       "num": 677786,
       "word": "郑恺苗苗领证卡点1314",
@@ -305,14 +313,6 @@
       "onboard_time": 1674109707,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 618749,
-      "num": 618749,
-      "word": "8个月宝宝确诊溶血症全身换血6次",
-      "onboard_time": 1674114625,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 609569,
@@ -403,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 509450,
+      "num": 437633,
+      "word": "河南一女子被丈夫按床上暴力殴打",
+      "onboard_time": 1674116547,
+      "rank": 45,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 506153,
       "num": 506153,
       "word": "好欢螺",
@@ -475,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 450170,
+      "num": 450170,
+      "word": "李一桐开飞机吓出女高音",
+      "onboard_time": 1674115226,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450047,
       "num": 450047,
       "word": "大侦探",
@@ -489,14 +505,6 @@
       "onboard_time": 1674034706,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 433014,
-      "num": 433014,
-      "word": "李一桐开飞机吓出女高音",
-      "onboard_time": 1674115226,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 422145,
@@ -561,6 +569,14 @@
       "onboard_time": 1674056067,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 377002,
+      "num": 377002,
+      "word": "我国尚未监测到德尔塔克戎",
+      "onboard_time": 1674114865,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373554,
@@ -691,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301155,
+      "num": 274935,
+      "word": "大侦探8开播",
+      "onboard_time": 1674114328,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300710,
       "num": 300710,
       "word": "张杰收到张国荣张学友的同款定制话筒",
@@ -747,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288927,
-      "num": 288927,
-      "word": "我国尚未监测到德尔塔克戎",
-      "onboard_time": 1674114865,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284824,
       "num": 282446,
       "word": "你接受婚后和父母住在一起吗",
@@ -803,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271929,
+      "num": 271929,
+      "word": "黄铉辰染粉发",
+      "onboard_time": 1674116847,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 269169,
       "num": 269169,
       "word": "强国交通",
@@ -833,14 +857,6 @@
       "onboard_time": 1674097883,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 265902,
-      "num": 265902,
-      "word": "大侦探8开播",
-      "onboard_time": 1674114328,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 262850,
@@ -1123,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192400,
+      "num": 192400,
+      "word": "2023KPL春季赛大名单",
+      "onboard_time": 1674117326,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192016,
       "num": 192016,
       "word": "阳后嗜睡失眠怎么办",
@@ -1403,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158360,
+      "num": 158360,
+      "word": "2023全国高考时间",
+      "onboard_time": 1674116904,
+      "rank": 40,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 155616,
       "num": 155616,
       "word": "腿短有腿短的办法",
@@ -1515,14 +1547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144340,
-      "num": 144340,
-      "word": "河南一女子被丈夫按床上暴力殴打",
-      "onboard_time": 1674116547,
-      "rank": 45,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 143928,
       "num": 143928,
       "word": "张颂文角色诠释",
@@ -1561,6 +1585,14 @@
       "onboard_time": 1674113006,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 139029,
+      "num": 139029,
+      "word": "陈乔恩结婚没有通知经纪人",
+      "onboard_time": 1674117326,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 137741,
@@ -1657,6 +1689,14 @@
       "onboard_time": 1674048927,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125998,
+      "num": 125998,
+      "word": "男子阳台扔烟头点燃楼下被子",
+      "onboard_time": 1674117206,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125725,

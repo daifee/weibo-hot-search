@@ -1,0 +1,410 @@
+{
+  "runTime": 1674117439486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 589677,
+        "num": 589677,
+        "word": "水果店老板发7万年终奖",
+        "onboard_time": 1674109047,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576546,
+        "num": 576546,
+        "word": "鲍蕾说跟父母住优点大过缺点",
+        "onboard_time": 1674111207,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53456,
+        "num": 573921,
+        "word": "人间烟火处年味渐浓时",
+        "onboard_time": 1674104428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1270175,
+        "num": 565590,
+        "word": "王一博成为乐华娱乐股东",
+        "onboard_time": 1674101965,
+        "rank": 3,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 693932,
+        "num": 548340,
+        "word": "男子理发时耳朵被剪掉一块肉",
+        "onboard_time": 1674107725,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680495,
+        "num": 544593,
+        "word": "8个月宝宝确诊溶血症全身换血6次",
+        "onboard_time": 1674114625,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538557,
+        "num": 538557,
+        "word": "萧亚轩说正在偷吃麻辣花生",
+        "onboard_time": 1674110726,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536813,
+        "num": 536813,
+        "word": "林书豪宣布已婚",
+        "onboard_time": 1674099447,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450825,
+        "num": 450825,
+        "word": "叠纸",
+        "onboard_time": 1674110067,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 450170,
+        "num": 450170,
+        "word": "李一桐开飞机吓出女高音",
+        "onboard_time": 1674115226,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509450,
+        "num": 437633,
+        "word": "河南一女子被丈夫按床上暴力殴打",
+        "onboard_time": 1674116547,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 414194,
+        "num": 414194,
+        "word": "沙溢说看完流浪地球2不再羡慕别人",
+        "onboard_time": 1674112766,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394066,
+        "num": 394066,
+        "word": "程潇 乐华",
+        "onboard_time": 1674101847,
+        "rank": 12,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 377002,
+        "num": 377002,
+        "word": "我国尚未监测到德尔塔克戎",
+        "onboard_time": 1674114865,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343420,
+        "num": 343420,
+        "word": "郑恺苗苗领证卡点1314",
+        "onboard_time": 1674104726,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306459,
+        "num": 306459,
+        "word": "田曦薇回应红毯变脸",
+        "onboard_time": 1674101308,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320051,
+        "num": 300816,
+        "word": "鲍蕾说从上学的时候陆毅的钱就在我这",
+        "onboard_time": 1674107247,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288990,
+        "num": 288990,
+        "word": "千万别相信长沙的livehouse",
+        "onboard_time": 1674111565,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 305582,
+        "num": 286022,
+        "word": "陈钰琪说我不喜欢粉色太娘了",
+        "onboard_time": 1674098966,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281551,
+        "num": 281551,
+        "word": "狗狗在村里穿衣服有多丢脸",
+        "onboard_time": 1674109707,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 574921,
+        "num": 277199,
+        "word": "南京南站",
+        "onboard_time": 1674107965,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301155,
+        "num": 274935,
+        "word": "大侦探8开播",
+        "onboard_time": 1674114328,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271929,
+        "num": 271929,
+        "word": "黄铉辰染粉发",
+        "onboard_time": 1674116847,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251369,
+        "num": 251369,
+        "word": "张天爱金发",
+        "onboard_time": 1674108145,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200459,
+        "num": 200459,
+        "word": "男子去世后好友连续3年给其父母拜年",
+        "onboard_time": 1674106707,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245547,
+        "num": 200433,
+        "word": "张艺兴新歌财神到预告",
+        "onboard_time": 1674116486,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242660,
+        "num": 200400,
+        "word": "鹿晗祝大家兔young兔rich",
+        "onboard_time": 1674113725,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200284,
+        "num": 200284,
+        "word": "东北大哥8小时狂炫40斤砂糖橘",
+        "onboard_time": 1674104366,
+        "rank": 27,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 192400,
+        "num": 192400,
+        "word": "2023KPL春季赛大名单",
+        "onboard_time": 1674117326,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191010,
+        "num": 191010,
+        "word": "小朋友看电视是真不挑",
+        "onboard_time": 1674114746,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239129,
+        "num": 189797,
+        "word": "姚润昊",
+        "onboard_time": 1674108387,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 237567,
+        "num": 188394,
+        "word": "张译张颂文狂飙豆瓣8.7分",
+        "onboard_time": 1674114328,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215409,
+        "num": 188090,
+        "word": "三体豆瓣评分8.0",
+        "onboard_time": 1674111807,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209310,
+        "num": 185410,
+        "word": "易烊千玺演的满江红从头笑到尾",
+        "onboard_time": 1674112828,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185254,
+        "num": 185254,
+        "word": "国务院联防联控机制举行新闻发布会",
+        "onboard_time": 1674112944,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 196751,
+        "num": 182891,
+        "word": "大侦探",
+        "onboard_time": 1674111867,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190309,
+        "num": 181573,
+        "word": "贺峻霖说想看中国乒乓",
+        "onboard_time": 1674114087,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179808,
+        "num": 179808,
+        "word": "TheShy宁王握手",
+        "onboard_time": 1674111087,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176441,
+        "num": 176441,
+        "word": "福兔",
+        "onboard_time": 1674090204,
+        "rank": 38,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 172829,
+        "num": 172829,
+        "word": "突然明白父母为什么节俭了",
+        "onboard_time": 1674098787,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158360,
+        "num": 158360,
+        "word": "2023全国高考时间",
+        "onboard_time": 1674116904,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 157439,
+        "num": 157439,
+        "word": "Hero 大名单",
+        "onboard_time": 1674111207,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151868,
+        "num": 151868,
+        "word": "女子带婆婆注销亡夫户口痛哭不止",
+        "onboard_time": 1674092845,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148142,
+        "num": 148142,
+        "word": "无名的英文名是贾樟柯起的",
+        "onboard_time": 1674114926,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146516,
+        "num": 146516,
+        "word": "乐华上市首日涨幅扩大至50%",
+        "onboard_time": 1674104788,
+        "rank": 44,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 139029,
+        "num": 139029,
+        "word": "陈乔恩结婚没有通知经纪人",
+        "onboard_time": 1674117326,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130956,
+        "num": 130956,
+        "word": "肖战的兔卡是好运卡",
+        "onboard_time": 1674104428,
+        "rank": 46,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 137235,
+        "num": 130307,
+        "word": "你接受婚后和父母住在一起吗",
+        "onboard_time": 1674110428,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125998,
+        "num": 125998,
+        "word": "男子阳台扔烟头点燃楼下被子",
+        "onboard_time": 1674117206,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118388,
+        "num": 118388,
+        "word": "陈立农现身央视春晚第五次大联排",
+        "onboard_time": 1674115646,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记向全国各族人民致以新春美好祝福#"
+    }
+  }
+}
