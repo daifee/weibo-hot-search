@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674141660217,
+  "endTime": 1674142622945,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -940,7 +940,7 @@
     },
     {
       "raw_hot": 1013696,
-      "num": 411100,
+      "num": 438778,
       "word": "王嘉尔 唇环",
       "onboard_time": 1674138633,
       "rank": 24,
@@ -3139,6 +3139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482845,
+      "num": 482845,
+      "word": "千万别帮广东人大扫除",
+      "onboard_time": 1674137671,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 481214,
       "num": 481214,
       "word": "成年人为什么不喜欢过年了",
@@ -3552,14 +3560,6 @@
       "word": "全家没一个是混吃混喝的",
       "onboard_time": 1674055529,
       "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 420425,
-      "num": 420425,
-      "word": "千万别帮广东人大扫除",
-      "onboard_time": 1674137671,
-      "rank": 48,
       "category": "幽默"
     },
     {
@@ -6451,6 +6451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243900,
+      "num": 243900,
+      "word": "倪萍冯巩春晚同台童年又回来了",
+      "onboard_time": 1674141871,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243255,
       "num": 243255,
       "word": "许红豆晒妈妈做的手擀面",
@@ -7323,6 +7331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201150,
+      "num": 201150,
+      "word": "春晚节目单",
+      "onboard_time": 1674141269,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201135,
       "num": 201135,
       "word": "这小朋友的胎教是甄嬛传吧",
@@ -7513,6 +7529,14 @@
       "onboard_time": 1674001885,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196081,
+      "num": 194238,
+      "word": "27岁女子为父母偷偷买房父亲参观时哽咽",
+      "onboard_time": 1674141630,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196061,
@@ -7955,6 +7979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183432,
+      "num": 183432,
+      "word": "刘雨昕河南春晚状态",
+      "onboard_time": 1674142050,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182793,
       "num": 182793,
       "word": "底特律变人全球销量突破800万",
@@ -8097,6 +8129,14 @@
       "onboard_time": 1674099025,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178569,
+      "num": 176060,
+      "word": "IVE首尔歌谣大赏开麦",
+      "onboard_time": 1674141211,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 178152,
@@ -8283,14 +8323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173299,
-      "num": 173299,
-      "word": "IVE首尔歌谣大赏开麦",
-      "onboard_time": 1674141211,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 172867,
       "num": 172867,
       "word": "2023LCK",
@@ -8305,6 +8337,14 @@
       "onboard_time": 1674131908,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172587,
+      "num": 172587,
+      "word": "许红豆的商业头脑",
+      "onboard_time": 1674141091,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 172162,
@@ -8529,14 +8569,6 @@
       "onboard_time": 1674033626,
       "rank": 37,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 167343,
-      "num": 167343,
-      "word": "许红豆的商业头脑",
-      "onboard_time": 1674141091,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 167324,
@@ -9915,14 +9947,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 117805,
-      "num": 117805,
-      "word": "27岁女子为父母偷偷买房父亲参观时哽咽",
-      "onboard_time": 1674141630,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117434,
       "num": 117434,
       "word": "2023东方卫视春晚第三波阵容官宣",
@@ -10041,6 +10065,14 @@
       "onboard_time": 1673833227,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113671,
+      "num": 113671,
+      "word": "梅西",
+      "onboard_time": 1674142591,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 113398,
@@ -10747,6 +10779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 50060,
+      "num": 390235,
+      "word": "流浪地球2寻求中国式的科幻表达",
+      "onboard_time": 1674140431,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48885,
       "num": 508397,
       "word": "WBG与TES的德比对决",
@@ -10809,14 +10849,6 @@
       "onboard_time": 1674075973,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 35450,
-      "num": 390235,
-      "word": "流浪地球2寻求中国式的科幻表达",
-      "onboard_time": 1674140431,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31269,
