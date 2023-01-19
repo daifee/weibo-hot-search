@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674124607996,
+  "endTime": 1674126980392,
   "band_list": [
     {
       "raw_hot": 2832749,
@@ -451,6 +451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 569926,
+      "num": 569926,
+      "word": "当我去猫咖摸了几十只猫以后",
+      "onboard_time": 1674124049,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 566147,
       "num": 375065,
       "word": "乐华上市首日涨幅扩大至50%",
@@ -505,6 +513,14 @@
       "onboard_time": 1674118947,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 525639,
+      "num": 431459,
+      "word": "刘耀文问马嘉祺你是丁程鑫请的托吗",
+      "onboard_time": 1674125366,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 519586,
@@ -635,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427883,
+      "num": 427883,
+      "word": "江疏影把小兔子藏在指甲里",
+      "onboard_time": 1674124765,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422145,
       "num": 422145,
       "word": "近30年来日本男性越长越矮",
@@ -665,6 +689,22 @@
       "onboard_time": 1674105028,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 405234,
+      "num": 405234,
+      "word": "谢娜也在看少爷和我",
+      "onboard_time": 1674125668,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 399929,
+      "num": 399929,
+      "word": "这届年轻人开始报复性回家过年了",
+      "onboard_time": 1674125788,
+      "rank": 16,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 388901,
@@ -793,6 +833,14 @@
       "onboard_time": 1674094526,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 337600,
+      "num": 337600,
+      "word": "过年串门千万要这么穿",
+      "onboard_time": 1674124885,
+      "rank": 17,
+      "category": "时尚,美妆"
     },
     {
       "raw_hot": 333315,
@@ -995,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275235,
+      "num": 275235,
+      "word": "河南春晚官宣节目单",
+      "onboard_time": 1674124707,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271929,
       "num": 271929,
       "word": "黄铉辰染粉发",
@@ -1083,6 +1139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 251974,
+      "num": 251974,
+      "word": "哈尔滨大雪兔换上了小红帽",
+      "onboard_time": 1674124167,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251833,
       "num": 251833,
       "word": "田曦薇田耕纪杀青路透",
@@ -1131,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238072,
+      "num": 238072,
+      "word": "马尔代夫旅游部长赴机场迎接中国游客",
+      "onboard_time": 1674121709,
+      "rank": 27,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 237625,
       "num": 237625,
       "word": "女子手被铁架划伤未在意次日肿成球",
@@ -1155,6 +1227,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 236212,
+      "num": 236212,
+      "word": "看狂飙 好想吃肠粉",
+      "onboard_time": 1674123684,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235242,
       "num": 235242,
       "word": "这位曾刷屏全网的父亲走了",
@@ -1171,6 +1251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231644,
+      "num": 231644,
+      "word": "河南春晚",
+      "onboard_time": 1674126448,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231167,
       "num": 231167,
       "word": "苹果发布第二代HomePod",
@@ -1179,20 +1267,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 229756,
+      "num": 229756,
+      "word": "谢之遥看见许红豆笑容藏不住了",
+      "onboard_time": 1674124049,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228206,
       "num": 228206,
       "word": "张艺兴舞台牵单依纯出场",
       "onboard_time": 1674043109,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 223288,
-      "num": 223288,
-      "word": "马尔代夫旅游部长赴机场迎接中国游客",
-      "onboard_time": 1674121709,
-      "rank": 27,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 221701,
@@ -1209,6 +1297,14 @@
       "onboard_time": 1674100408,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219006,
+      "num": 219006,
+      "word": "什么是谢之遥",
+      "onboard_time": 1674126209,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 214699,
@@ -1233,6 +1329,14 @@
       "onboard_time": 1674112944,
       "rank": 29,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 212780,
+      "num": 222844,
+      "word": "男子桌下偷梁换柱往酒瓶倒茶",
+      "onboard_time": 1674122907,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212669,
@@ -1483,20 +1587,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182546,
-      "num": 178890,
-      "word": "谢之遥看见许红豆笑容藏不住了",
-      "onboard_time": 1674124049,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 181884,
-      "num": 181884,
-      "word": "看狂飙 好想吃肠粉",
-      "onboard_time": 1674123684,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 181712,
+      "num": 406733,
+      "word": "原神 海灯节微电影",
+      "onboard_time": 1674126029,
+      "rank": 14,
+      "category": "游戏,影视"
     },
     {
       "raw_hot": 180427,
@@ -1529,14 +1625,6 @@
       "onboard_time": 1674099025,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 177899,
-      "num": 177899,
-      "word": "当我去猫咖摸了几十只猫以后",
-      "onboard_time": 1674124049,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 177522,
@@ -1593,6 +1681,14 @@
       "onboard_time": 1674100167,
       "rank": 29,
       "category": "财经,艺人"
+    },
+    {
+      "raw_hot": 170930,
+      "num": 170930,
+      "word": "游戏里碰到情侣是什么体验",
+      "onboard_time": 1674125366,
+      "rank": 38,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 170873,
@@ -1763,6 +1859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155898,
+      "num": 155898,
+      "word": "HLE战胜KDF",
+      "onboard_time": 1674125427,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155616,
       "num": 155616,
       "word": "腿短有腿短的办法",
@@ -1875,14 +1979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145225,
-      "num": 145225,
-      "word": "男子桌下偷梁换柱往酒瓶倒茶",
-      "onboard_time": 1674122907,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145032,
       "num": 145032,
       "word": "铁路南京站回应候车大厅没插座",
@@ -1937,6 +2033,14 @@
       "onboard_time": 1674115828,
       "rank": 47,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 141459,
+      "num": 141459,
+      "word": "秦岚现身2023央视春晚第五次联排",
+      "onboard_time": 1674126865,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 141324,
@@ -2025,14 +2129,6 @@
       "onboard_time": 1674113607,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129730,
-      "num": 129730,
-      "word": "哈尔滨大雪兔换上了小红帽",
-      "onboard_time": 1674124167,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128325,
@@ -2163,6 +2259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117081,
+      "num": 117081,
+      "word": "辽宁化工厂爆炸事故已致12人死亡1人失联",
+      "onboard_time": 1674126747,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 116948,
       "num": 116948,
       "word": "官方通报山姆会员店销售蓝环章鱼",
@@ -2209,6 +2313,14 @@
       "onboard_time": 1674083298,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113723,
+      "num": 589127,
+      "word": "走那么远的路只为和你相拥",
+      "onboard_time": 1674125008,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113398,
