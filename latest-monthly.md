@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/19 10:58:04
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/19 11:21:33
 </p>
 </blockquote>
 <p>
@@ -315,6 +315,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E4%B8%8A%E5%B8%82%23" target="weibo">
+乐华上市（热度：2748791）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%B4%B9%23" target="weibo">
 电费（热度：2725119）
 </a>
@@ -383,12 +389,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%88%98%E9%91%AB%E5%AF%B9%E8%B5%94%E5%81%BF%E6%AC%BE%E5%8F%91%E8%B5%B7%E5%8B%9F%E6%8D%90%23" target="weibo">
 江歌母亲回应刘鑫对赔偿款发起募捐（热度：2613183）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E4%B8%8A%E5%B8%82%23" target="weibo">
-乐华上市（热度：2597438）
 </a>
 </li>
 
@@ -4911,6 +4911,12 @@ BLACKPINK确定领衔出演科切拉音乐节（热度：863887）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%BD%AF%E5%AE%A3%E5%B8%83%E8%A3%81%E5%91%981%E4%B8%87%E4%BA%BA%23" target="weibo">
+微软宣布裁员1万人（热度：830825）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%81%AB%E8%BD%A6%E9%AB%98%E7%BA%A7%E8%BD%AF%E5%8D%A7%23" target="weibo">
 第一次见火车高级软卧（热度：829955）
 </a>
@@ -6005,12 +6011,6 @@ EXO将春天后完整体回归（热度：735031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%9D%A0%E6%AF%81%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%90%AB10%E5%90%8D%E5%A4%96%E5%9B%BD%E4%BA%BA%23" target="weibo">
 尼泊尔坠毁飞机上含10名外国人（热度：726804）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%94%B5%E7%BD%91%E5%9B%9E%E5%BA%94%E7%94%B5%E8%B4%B9%E6%B6%A8%E4%BB%B7%23" target="weibo">
-上海电网回应电费涨价（热度：726032）
 </a>
 </li>
 

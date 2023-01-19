@@ -1,10 +1,10 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674097084756,
+  "endTime": 1674098493299,
   "band_list": [
     {
-      "raw_hot": 2597438,
-      "num": 2597438,
+      "raw_hot": 2748791,
+      "num": 2748791,
       "word": "乐华上市",
       "onboard_time": 1674092485,
       "rank": 0,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 952358,
-      "num": 543540,
+      "num": 820361,
       "word": "王一博贡献乐华六成收入",
       "onboard_time": 1674094646,
       "rank": 4,
@@ -89,6 +89,14 @@
       "onboard_time": 1674080293,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 830825,
+      "num": 830825,
+      "word": "微软宣布裁员1万人",
+      "onboard_time": 1674096503,
+      "rank": 46,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 828024,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 652977,
+      "num": 652977,
+      "word": "江西小县城相亲大会20男相1女",
+      "onboard_time": 1674095545,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628337,
       "num": 628337,
       "word": "张颜齐上台忘了撕暖宝宝",
@@ -145,6 +161,14 @@
       "onboard_time": 1674089364,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584859,
+      "num": 584859,
+      "word": "新年和肖战一起奔赴热爱",
+      "onboard_time": 1674096386,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 559910,
@@ -163,28 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 530996,
-      "num": 530996,
-      "word": "江西小县城相亲大会20男相1女",
-      "onboard_time": 1674095545,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 506153,
       "num": 506153,
       "word": "好欢螺",
       "onboard_time": 1674045031,
       "rank": 4,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 501921,
-      "num": 501921,
-      "word": "新年和肖战一起奔赴热爱",
-      "onboard_time": 1674096386,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 493314,
@@ -211,6 +219,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 474551,
+      "num": 474551,
+      "word": "强国交通APP与交通运输部无关",
+      "onboard_time": 1674096867,
+      "rank": 28,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 453864,
       "num": 453864,
       "word": "单亲妈妈5年没回家过年",
@@ -224,6 +240,14 @@
       "word": "37岁离异女博士与小13岁吉他老师相恋",
       "onboard_time": 1674034706,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422145,
+      "num": 422145,
+      "word": "近30年来日本男性越长越矮",
+      "onboard_time": 1674095184,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -257,14 +281,6 @@
       "onboard_time": 1674091824,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 388686,
-      "num": 388686,
-      "word": "近30年来日本男性越长越矮",
-      "onboard_time": 1674095184,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 383713,
@@ -411,6 +427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 265904,
+      "num": 265904,
+      "word": "流浪地球2终极预告",
+      "onboard_time": 1674097883,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251833,
       "num": 251833,
       "word": "田曦薇田耕纪杀青路透",
@@ -433,6 +457,14 @@
       "onboard_time": 1674091106,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242287,
+      "num": 242287,
+      "word": "强国交通",
+      "onboard_time": 1674097643,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 241350,
@@ -507,20 +539,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 206259,
-      "num": 206259,
-      "word": "微软宣布裁员1万人",
-      "onboard_time": 1674096503,
-      "rank": 46,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 205844,
       "num": 205844,
       "word": "一中国女子在韩国接受整容手术中途身亡",
       "onboard_time": 1674032366,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201024,
+      "num": 201024,
+      "word": "张鲁一于和伟三体观后感",
+      "onboard_time": 1674098244,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 199495,
@@ -571,14 +603,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 184904,
-      "num": 184904,
-      "word": "强国交通APP与交通运输部无关",
-      "onboard_time": 1674096867,
-      "rank": 28,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 182830,
       "num": 182830,
       "word": "王一博说无名的文戏也惊心动魄",
@@ -603,12 +627,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170873,
+      "num": 170873,
+      "word": "鹤男说王鹤棣在剧组经常请客",
+      "onboard_time": 1674093926,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170023,
       "num": 170023,
       "word": "瑶妹乔妹是灯会祈福天花板吧",
       "onboard_time": 1674096083,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168976,
+      "num": 168976,
+      "word": "西藏派墨公路雪崩失联者家属发声",
+      "onboard_time": 1674096685,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168564,
@@ -641,6 +681,14 @@
       "onboard_time": 1674089122,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163234,
+      "num": 163234,
+      "word": "物理老师结合兔年给全班出题",
+      "onboard_time": 1674097465,
+      "rank": 31,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 162768,
@@ -739,14 +787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 129865,
-      "num": 129865,
-      "word": "鹤男说王鹤棣在剧组经常请客",
-      "onboard_time": 1674093926,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 128325,
       "num": 122721,
       "word": "宋亚轩说哀家长头发啦",
@@ -763,6 +803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126427,
+      "num": 126427,
+      "word": "腊月二十八有哪些习俗",
+      "onboard_time": 1674098184,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125725,
       "num": 125725,
       "word": "这是喀喇昆仑戍边战士的青春脸庞",
@@ -777,6 +825,14 @@
       "onboard_time": 1674092666,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124132,
+      "num": 124132,
+      "word": "爱笑外卖大姐新年愿望是上大学",
+      "onboard_time": 1674097643,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123956,
@@ -859,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113398,
+      "num": 113398,
+      "word": "周雨彤晒染发自拍",
+      "onboard_time": 1674097104,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108715,
       "num": 108715,
       "word": "人类幼崽也爱听八卦",
@@ -883,20 +947,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105355,
+      "num": 105355,
+      "word": "如何评价三体第7集",
+      "onboard_time": 1674098484,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 103530,
       "num": 103530,
       "word": "当热血漫全员开始摸鱼",
       "onboard_time": 1674094706,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 101164,
-      "num": 101164,
-      "word": "西藏派墨公路雪崩失联者家属发声",
-      "onboard_time": 1674096685,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85534,
@@ -964,7 +1028,7 @@
     },
     {
       "raw_hot": 59376,
-      "num": 726998,
+      "num": 821901,
       "word": "大寒除夕春节喜相连",
       "onboard_time": 1674044190,
       "rank": 2,
