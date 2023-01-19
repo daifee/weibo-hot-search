@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674117439486,
+  "endTime": 1674119926996,
   "band_list": [
     {
       "raw_hot": 2832749,
@@ -147,6 +147,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 931137,
+      "num": 382143,
+      "word": "一个人养活全公司是什么体验",
+      "onboard_time": 1674119005,
+      "rank": 10,
+      "category": "财经,艺人"
+    },
+    {
       "raw_hot": 929262,
       "num": 161997,
       "word": "过年千万别逼90后",
@@ -163,12 +171,28 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 866822,
+      "num": 866822,
+      "word": "2023全国高考时间",
+      "onboard_time": 1674116904,
+      "rank": 40,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 863160,
       "num": 863160,
       "word": "高铁站大厅没插座引网友质疑",
       "onboard_time": 1674080293,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 844728,
+      "num": 572681,
+      "word": "陈乔恩结婚没有通知经纪人",
+      "onboard_time": 1674117326,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 844495,
@@ -275,7 +299,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 680495,
+      "raw_hot": 690967,
       "num": 618749,
       "word": "8个月宝宝确诊溶血症全身换血6次",
       "onboard_time": 1674114625,
@@ -347,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574422,
+      "num": 574422,
+      "word": "我国尚未监测到德尔塔克戎",
+      "onboard_time": 1674114865,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 566147,
       "num": 375065,
       "word": "乐华上市首日涨幅扩大至50%",
@@ -393,6 +425,22 @@
       "onboard_time": 1674055649,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 537062,
+      "num": 537062,
+      "word": "首尔歌谣大赏",
+      "onboard_time": 1674118947,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 533843,
+      "num": 248393,
+      "word": "乐华娱乐能捧出第二个王一博吗",
+      "onboard_time": 1674119067,
+      "rank": 20,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 519586,
@@ -547,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383901,
+      "num": 383901,
+      "word": "杨紫春晚联排盘发造型路透",
+      "onboard_time": 1674119128,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 383713,
       "num": 383713,
       "word": "徐杰",
@@ -571,12 +627,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 377002,
-      "num": 377002,
-      "word": "我国尚未监测到德尔塔克戎",
-      "onboard_time": 1674114865,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 374928,
+      "num": 374928,
+      "word": "走亲戚会不会终止在00后",
+      "onboard_time": 1674118646,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 373554,
@@ -625,6 +681,14 @@
       "onboard_time": 1674090688,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 344213,
+      "num": 344213,
+      "word": "男子下车疑抽烟错过高铁跪地求开门",
+      "onboard_time": 1674118768,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343911,
@@ -708,7 +772,7 @@
     },
     {
       "raw_hot": 301155,
-      "num": 274935,
+      "num": 286430,
       "word": "大侦探8开播",
       "onboard_time": 1674114328,
       "rank": 23,
@@ -857,6 +921,14 @@
       "onboard_time": 1674097883,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263309,
+      "num": 263309,
+      "word": "男子阳台扔烟头点燃楼下被子",
+      "onboard_time": 1674117206,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262850,
@@ -1035,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211566,
+      "num": 211566,
+      "word": "曾黎 不要为了接送机把时间刻意花在我身上",
+      "onboard_time": 1674119309,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211026,
       "num": 211026,
       "word": "宋亚轩学生证丢了",
@@ -1067,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205188,
+      "num": 172470,
+      "word": "严浩翔微博音乐盛典白金发色造型",
+      "onboard_time": 1674118888,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202444,
       "num": 202444,
       "word": "沈月周洁琼谈交友磁场",
@@ -1081,6 +1169,14 @@
       "onboard_time": 1674098244,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200055,
+      "num": 172242,
+      "word": "贾乃亮岳云鹏合体主持河南春晚",
+      "onboard_time": 1674118467,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 199654,
@@ -1219,6 +1315,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180427,
+      "num": 180427,
+      "word": "KDF对战HLE",
+      "onboard_time": 1674119428,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 180377,
+      "num": 171619,
+      "word": "首尔歌谣大赏红毯",
+      "onboard_time": 1674119787,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178666,
       "num": 178666,
       "word": "冯小刚新剧回响",
@@ -1241,6 +1353,14 @@
       "onboard_time": 1674111385,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176863,
+      "num": 171577,
+      "word": "近期泰国检出德尔塔克戎毒株",
+      "onboard_time": 1674119605,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176093,
@@ -1289,6 +1409,14 @@
       "onboard_time": 1674096083,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169798,
+      "num": 144193,
+      "word": "王一博说与乐华娱乐一起展望未来",
+      "onboard_time": 1674118106,
+      "rank": 40,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 169328,
@@ -1427,14 +1555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158360,
-      "num": 158360,
-      "word": "2023全国高考时间",
-      "onboard_time": 1674116904,
-      "rank": 40,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 155616,
       "num": 155616,
       "word": "腿短有腿短的办法",
@@ -1473,6 +1593,14 @@
       "onboard_time": 1674054149,
       "rank": 36,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 149942,
+      "num": 141658,
+      "word": "陈卓璇说谁发歌不想在榜单前",
+      "onboard_time": 1674118407,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 149625,
@@ -1547,6 +1675,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144227,
+      "num": 144227,
+      "word": "老板发年终奖能有多离谱",
+      "onboard_time": 1674119548,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 144041,
+      "num": 144041,
+      "word": "过年妈见夸的平价小零食",
+      "onboard_time": 1674119067,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 143928,
       "num": 143928,
       "word": "张颂文角色诠释",
@@ -1561,6 +1705,14 @@
       "onboard_time": 1674068772,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 142843,
+      "num": 142843,
+      "word": "当代人玩手机的姿势有多奇葩",
+      "onboard_time": 1674117928,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 142517,
@@ -1585,14 +1737,6 @@
       "onboard_time": 1674113006,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 139029,
-      "num": 139029,
-      "word": "陈乔恩结婚没有通知经纪人",
-      "onboard_time": 1674117326,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 137741,
@@ -1651,11 +1795,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132853,
+      "num": 132853,
+      "word": "这么完美的冰溜子很少见",
+      "onboard_time": 1674119849,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132398,
       "num": 132398,
       "word": "小朋友高速服务区给狗狗贴晕车贴",
       "onboard_time": 1674109886,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131854,
+      "num": 131854,
+      "word": "为什么年轻人去KTV爱点老歌",
+      "onboard_time": 1674119728,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1689,14 +1849,6 @@
       "onboard_time": 1674048927,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 125998,
-      "num": 125998,
-      "word": "男子阳台扔烟头点燃楼下被子",
-      "onboard_time": 1674117206,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125725,

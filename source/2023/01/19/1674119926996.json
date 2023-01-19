@@ -1,0 +1,410 @@
+{
+  "runTime": 1674119926996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 866822,
+        "num": 866822,
+        "word": "2023全国高考时间",
+        "onboard_time": 1674116904,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 574422,
+        "num": 574422,
+        "word": "我国尚未监测到德尔塔克戎",
+        "onboard_time": 1674114865,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63850,
+        "num": 574102,
+        "word": "人间烟火处年味渐浓时",
+        "onboard_time": 1674104428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1003488,
+        "num": 573140,
+        "word": "王一博成为乐华娱乐股东",
+        "onboard_time": 1674101965,
+        "rank": 3,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 844728,
+        "num": 572681,
+        "word": "陈乔恩结婚没有通知经纪人",
+        "onboard_time": 1674117326,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 690967,
+        "num": 571526,
+        "word": "8个月宝宝确诊溶血症全身换血6次",
+        "onboard_time": 1674114625,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570983,
+        "num": 570983,
+        "word": "男子理发时耳朵被剪掉一块肉",
+        "onboard_time": 1674107725,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537062,
+        "num": 537062,
+        "word": "首尔歌谣大赏",
+        "onboard_time": 1674118947,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 384110,
+        "num": 384110,
+        "word": "水果店老板发7万年终奖",
+        "onboard_time": 1674109047,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383901,
+        "num": 383901,
+        "word": "杨紫春晚联排盘发造型路透",
+        "onboard_time": 1674119128,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 931137,
+        "num": 382143,
+        "word": "一个人养活全公司是什么体验",
+        "onboard_time": 1674119005,
+        "rank": 10,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 376308,
+        "num": 376308,
+        "word": "萧亚轩说正在偷吃麻辣花生",
+        "onboard_time": 1674110726,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374928,
+        "num": 374928,
+        "word": "走亲戚会不会终止在00后",
+        "onboard_time": 1674118646,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 361767,
+        "num": 361767,
+        "word": "林书豪宣布已婚",
+        "onboard_time": 1674099447,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349133,
+        "num": 349133,
+        "word": "程潇 乐华",
+        "onboard_time": 1674101847,
+        "rank": 14,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 344213,
+        "num": 344213,
+        "word": "男子下车疑抽烟错过高铁跪地求开门",
+        "onboard_time": 1674118768,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343752,
+        "num": 343752,
+        "word": "鲍蕾说跟父母住优点大过缺点",
+        "onboard_time": 1674111207,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327491,
+        "num": 327491,
+        "word": "沙溢说看完流浪地球2不再羡慕别人",
+        "onboard_time": 1674112766,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286430,
+        "num": 286430,
+        "word": "大侦探8开播",
+        "onboard_time": 1674114328,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263309,
+        "num": 263309,
+        "word": "男子阳台扔烟头点燃楼下被子",
+        "onboard_time": 1674117206,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533843,
+        "num": 248393,
+        "word": "乐华娱乐能捧出第二个王一博吗",
+        "onboard_time": 1674119067,
+        "rank": 20,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 233240,
+        "num": 233240,
+        "word": "田曦薇回应红毯变脸",
+        "onboard_time": 1674101308,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232412,
+        "num": 232412,
+        "word": "陈钰琪说我不喜欢粉色太娘了",
+        "onboard_time": 1674098966,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224675,
+        "num": 224675,
+        "word": "狗狗在村里穿衣服有多丢脸",
+        "onboard_time": 1674109707,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212543,
+        "num": 212543,
+        "word": "李一桐开飞机吓出女高音",
+        "onboard_time": 1674115226,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211566,
+        "num": 211566,
+        "word": "曾黎 不要为了接送机把时间刻意花在我身上",
+        "onboard_time": 1674119309,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211290,
+        "num": 211290,
+        "word": "郑恺苗苗领证卡点1314",
+        "onboard_time": 1674104726,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193032,
+        "num": 193032,
+        "word": "TheShy宁王握手",
+        "onboard_time": 1674111087,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180427,
+        "num": 180427,
+        "word": "KDF对战HLE",
+        "onboard_time": 1674119428,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173047,
+        "num": 173047,
+        "word": "小朋友看电视是真不挑",
+        "onboard_time": 1674114746,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243340,
+        "num": 172746,
+        "word": "姚润昊",
+        "onboard_time": 1674108387,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 205188,
+        "num": 172470,
+        "word": "严浩翔微博音乐盛典白金发色造型",
+        "onboard_time": 1674118888,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200055,
+        "num": 172242,
+        "word": "贾乃亮岳云鹏合体主持河南春晚",
+        "onboard_time": 1674118467,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180377,
+        "num": 171619,
+        "word": "首尔歌谣大赏红毯",
+        "onboard_time": 1674119787,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176863,
+        "num": 171577,
+        "word": "近期泰国检出德尔塔克戎毒株",
+        "onboard_time": 1674119605,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171231,
+        "num": 171231,
+        "word": "鹿晗祝大家兔young兔rich",
+        "onboard_time": 1674113725,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170534,
+        "num": 170534,
+        "word": "张译张颂文狂飙豆瓣8.7分",
+        "onboard_time": 1674114328,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169432,
+        "num": 169432,
+        "word": "东北大哥8小时狂炫40斤砂糖橘",
+        "onboard_time": 1674104366,
+        "rank": 37,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 148308,
+        "num": 148308,
+        "word": "突然明白父母为什么节俭了",
+        "onboard_time": 1674098787,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144227,
+        "num": 144227,
+        "word": "老板发年终奖能有多离谱",
+        "onboard_time": 1674119548,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169798,
+        "num": 144193,
+        "word": "王一博说与乐华娱乐一起展望未来",
+        "onboard_time": 1674118106,
+        "rank": 40,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 168985,
+        "num": 144159,
+        "word": "易烊千玺演的满江红从头笑到尾",
+        "onboard_time": 1674112828,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157819,
+        "num": 144131,
+        "word": "黄铉辰染粉发",
+        "onboard_time": 1674116847,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144041,
+        "num": 144041,
+        "word": "过年妈见夸的平价小零食",
+        "onboard_time": 1674119067,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142843,
+        "num": 142843,
+        "word": "当代人玩手机的姿势有多奇葩",
+        "onboard_time": 1674117928,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150429,
+        "num": 142518,
+        "word": "三体豆瓣评分8.0",
+        "onboard_time": 1674111807,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149942,
+        "num": 141658,
+        "word": "陈卓璇说谁发歌不想在榜单前",
+        "onboard_time": 1674118407,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147352,
+        "num": 139707,
+        "word": "鲍蕾说从上学的时候陆毅的钱就在我这",
+        "onboard_time": 1674107247,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132853,
+        "num": 132853,
+        "word": "这么完美的冰溜子很少见",
+        "onboard_time": 1674119849,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131854,
+        "num": 131854,
+        "word": "为什么年轻人去KTV爱点老歌",
+        "onboard_time": 1674119728,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#温暖牵挂#"
+    }
+  }
+}
