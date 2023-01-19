@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674103147711,
+  "endTime": 1674105445849,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 2543491,
-      "num": 484594,
+      "num": 660498,
       "word": "王一博成为乐华娱乐股东",
       "onboard_time": 1674101965,
       "rank": 10,
@@ -3643,6 +3643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1161585,
+      "num": 1161585,
+      "word": "福兔",
+      "onboard_time": 1673846610,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1160725,
       "num": 1160725,
       "word": "官方回应郑州CBD燃放烟花",
@@ -5169,6 +5177,14 @@
       "onboard_time": 1673411311,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 941311,
+      "num": 627710,
+      "word": "程潇 乐华",
+      "onboard_time": 1674101847,
+      "rank": 22,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 940634,
@@ -9899,14 +9915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 627710,
-      "num": 627710,
-      "word": "程潇 乐华",
-      "onboard_time": 1674101847,
-      "rank": 22,
-      "category": "艺人,财经"
-    },
-    {
       "raw_hot": 626449,
       "num": 457874,
       "word": "杨幂丁程鑫合拍",
@@ -10385,6 +10393,14 @@
       "onboard_time": 1672726349,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 602311,
+      "num": 602311,
+      "word": "媒体夸迪丽热巴真诚可爱惹人爱",
+      "onboard_time": 1674103409,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 602270,
@@ -13443,20 +13459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 500235,
-      "num": 500235,
-      "word": "福兔",
-      "onboard_time": 1673846610,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
       "raw_hot": 500225,
       "num": 500225,
       "word": "为什么男生恋爱时会忽冷忽热",
       "onboard_time": 1672931973,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 499829,
+      "num": 281303,
+      "word": "乐华上市首日涨幅扩大至50%",
+      "onboard_time": 1674104788,
+      "rank": 19,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 499801,
@@ -13785,6 +13801,14 @@
       "onboard_time": 1673062107,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 488354,
+      "num": 488354,
+      "word": "肖战的兔卡是好运卡",
+      "onboard_time": 1674104428,
+      "rank": 7,
+      "category": "艺人,科技"
     },
     {
       "raw_hot": 487770,
@@ -14369,6 +14393,14 @@
       "onboard_time": 1672988430,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 469740,
+      "num": 469740,
+      "word": "田曦薇回应红毯变脸",
+      "onboard_time": 1674101308,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 469451,
@@ -16241,14 +16273,6 @@
       "onboard_time": 1673086230,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 421782,
-      "num": 421782,
-      "word": "田曦薇回应红毯变脸",
-      "onboard_time": 1674101308,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 421705,
@@ -22091,6 +22115,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 323277,
+      "num": 323277,
+      "word": "偷吃被发现的小猫",
+      "onboard_time": 1674100167,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 323191,
       "num": 323191,
       "word": "一天吃两顿火锅是啥体验",
@@ -23075,14 +23107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 308625,
-      "num": 308625,
-      "word": "偷吃被发现的小猫",
-      "onboard_time": 1674100167,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 308543,
       "num": 308543,
       "word": "活塞绝杀勇士",
@@ -23417,6 +23441,14 @@
       "onboard_time": 1673944829,
       "rank": 23,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 304361,
+      "num": 304361,
+      "word": "大侦探8立意片",
+      "onboard_time": 1674103468,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 304276,
@@ -24057,6 +24089,14 @@
       "onboard_time": 1673872230,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296365,
+      "num": 296365,
+      "word": "东北大哥8小时狂炫40斤砂糖橘",
+      "onboard_time": 1674104366,
+      "rank": 17,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 296364,
@@ -28499,6 +28539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248261,
+      "num": 248261,
+      "word": "流浪地球2会是中国科幻片天花板吗",
+      "onboard_time": 1674105028,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248207,
       "num": 176566,
       "word": "许红豆谢之遥有一群爱情保安",
@@ -30393,6 +30441,14 @@
       "onboard_time": 1673581410,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 228173,
+      "num": 228173,
+      "word": "郑恺苗苗领证卡点1314",
+      "onboard_time": 1674104726,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 228008,
@@ -34907,6 +34963,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 182793,
+      "num": 182793,
+      "word": "底特律变人全球销量突破800万",
+      "onboard_time": 1674101428,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182750,
       "num": 182750,
       "word": "打工人年底发疯图鉴",
@@ -37153,6 +37217,14 @@
       "onboard_time": 1673337208,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165266,
+      "num": 165266,
+      "word": "年轻人过年的真实写照",
+      "onboard_time": 1674102630,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 165237,
@@ -40379,14 +40451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137354,
-      "num": 137354,
-      "word": "底特律变人全球销量突破800万",
-      "onboard_time": 1674101428,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 137341,
       "num": 137341,
       "word": "许红豆谢之遥都喜欢孩子",
@@ -41507,6 +41571,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 125602,
+      "num": 125602,
+      "word": "科技巨头开启万人级别大裁员",
+      "onboard_time": 1674103046,
+      "rank": 48,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 125529,
       "num": 125529,
       "word": "和WB一起扭一扭",
@@ -42115,14 +42187,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 120277,
-      "num": 120277,
-      "word": "年轻人过年的真实写照",
-      "onboard_time": 1674102630,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120244,
       "num": 120244,
       "word": "王佑硕月歌行1集哭6次",
@@ -42313,14 +42377,6 @@
       "onboard_time": 1673188357,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118814,
-      "num": 118814,
-      "word": "科技巨头开启万人级别大裁员",
-      "onboard_time": 1674103046,
-      "rank": 48,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 118682,
@@ -42689,6 +42745,14 @@
       "onboard_time": 1672882948,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114911,
+      "num": 114911,
+      "word": "18极到点集合",
+      "onboard_time": 1674104605,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 114869,
@@ -44257,6 +44321,14 @@
       "onboard_time": 1673251227,
       "rank": 39,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 98454,
+      "num": 696245,
+      "word": "人间烟火处年味渐浓时",
+      "onboard_time": 1674104428,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98445,

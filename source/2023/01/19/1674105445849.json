@@ -1,0 +1,410 @@
+{
+  "runTime": 1674105445849,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1161585,
+        "num": 1161585,
+        "word": "福兔",
+        "onboard_time": 1674090204,
+        "rank": 0,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 907547,
+        "num": 907547,
+        "word": "陈钰琪说我不喜欢粉色太娘了",
+        "onboard_time": 1674098966,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98454,
+        "num": 696245,
+        "word": "人间烟火处年味渐浓时",
+        "onboard_time": 1674104428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2437155,
+        "num": 660498,
+        "word": "王一博成为乐华娱乐股东",
+        "onboard_time": 1674101965,
+        "rank": 3,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 1704602,
+        "num": 646728,
+        "word": "林书豪宣布已婚",
+        "onboard_time": 1674099447,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 602311,
+        "num": 602311,
+        "word": "媒体夸迪丽热巴真诚可爱惹人爱",
+        "onboard_time": 1674103409,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598678,
+        "num": 598678,
+        "word": "突然明白父母为什么节俭了",
+        "onboard_time": 1674098787,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 488354,
+        "num": 488354,
+        "word": "肖战的兔卡是好运卡",
+        "onboard_time": 1674104428,
+        "rank": 7,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 469740,
+        "num": 469740,
+        "word": "田曦薇回应红毯变脸",
+        "onboard_time": 1674101308,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323277,
+        "num": 323277,
+        "word": "偷吃被发现的小猫",
+        "onboard_time": 1674100167,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1728353,
+        "num": 323123,
+        "word": "杜华前半生韩庚后半生王一博",
+        "onboard_time": 1674101965,
+        "rank": 10,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 621951,
+        "num": 318912,
+        "word": "女子带婆婆注销亡夫户口痛哭不止",
+        "onboard_time": 1674092845,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304361,
+        "num": 304361,
+        "word": "大侦探8立意片",
+        "onboard_time": 1674103468,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1309343,
+        "num": 302162,
+        "word": "乐华上市",
+        "onboard_time": 1674092485,
+        "rank": 13,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 543751,
+        "num": 300892,
+        "word": "母子卧铺车早读被乘客提醒小声",
+        "onboard_time": 1674092064,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297935,
+        "num": 297935,
+        "word": "微软宣布裁员1万人",
+        "onboard_time": 1674096503,
+        "rank": 15,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 941311,
+        "num": 297668,
+        "word": "程潇 乐华",
+        "onboard_time": 1674101847,
+        "rank": 16,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 296365,
+        "num": 296365,
+        "word": "东北大哥8小时狂炫40斤砂糖橘",
+        "onboard_time": 1674104366,
+        "rank": 17,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 288054,
+        "num": 288054,
+        "word": "张真源严浩翔小时候合照",
+        "onboard_time": 1674102447,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499829,
+        "num": 281303,
+        "word": "乐华上市首日涨幅扩大至50%",
+        "onboard_time": 1674104788,
+        "rank": 19,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 256425,
+        "num": 256425,
+        "word": "无畏领到了杨幂的好运红包",
+        "onboard_time": 1674099927,
+        "rank": 20,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 248261,
+        "num": 248261,
+        "word": "流浪地球2会是中国科幻片天花板吗",
+        "onboard_time": 1674105028,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234675,
+        "num": 234675,
+        "word": "光遇复刻 红耳机",
+        "onboard_time": 1674101546,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 390314,
+        "num": 234301,
+        "word": "程耳通过黄磊认识王一博",
+        "onboard_time": 1674099147,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228173,
+        "num": 228173,
+        "word": "郑恺苗苗领证卡点1314",
+        "onboard_time": 1674104726,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206740,
+        "num": 206740,
+        "word": "张颜齐上台忘了撕暖宝宝",
+        "onboard_time": 1674085461,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194657,
+        "num": 200361,
+        "word": "女子想回娘家过年婆婆一口拒绝",
+        "onboard_time": 1674089364,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199034,
+        "num": 199034,
+        "word": "新年和肖战一起奔赴热爱",
+        "onboard_time": 1674096386,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197417,
+        "num": 197417,
+        "word": "邓超春晚彩排的社牛行为",
+        "onboard_time": 1674089185,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157435,
+        "num": 187967,
+        "word": "三亚警方通报有人打砸群众车辆",
+        "onboard_time": 1674089185,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182793,
+        "num": 182793,
+        "word": "底特律变人全球销量突破800万",
+        "onboard_time": 1674101428,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178231,
+        "num": 178231,
+        "word": "强国交通APP与交通运输部无关",
+        "onboard_time": 1674096867,
+        "rank": 31,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 171162,
+        "num": 171162,
+        "word": "快乐再出发室内音乐会节目单",
+        "onboard_time": 1674100408,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169129,
+        "num": 169129,
+        "word": "时代少年团北京台春晚男儿歌预告视频",
+        "onboard_time": 1674102087,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165266,
+        "num": 165266,
+        "word": "年轻人过年的真实写照",
+        "onboard_time": 1674102630,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162007,
+        "num": 162007,
+        "word": "东北司机穿10斤棉裤冒雪送年货",
+        "onboard_time": 1674098845,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157322,
+        "num": 157322,
+        "word": "近30年来日本男性越长越矮",
+        "onboard_time": 1674095184,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140476,
+        "num": 140476,
+        "word": "胡歌不虚此行预告",
+        "onboard_time": 1674094526,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135696,
+        "num": 135696,
+        "word": "亚马逊计划裁员1.8万人",
+        "onboard_time": 1674099447,
+        "rank": 38,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 129388,
+        "num": 129388,
+        "word": "肖铎对步音楼的称呼越来越亲密",
+        "onboard_time": 1674101788,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125602,
+        "num": 125602,
+        "word": "科技巨头开启万人级别大裁员",
+        "onboard_time": 1674103046,
+        "rank": 40,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 124753,
+        "num": 124753,
+        "word": "王者兔限山海灵兽集体拜年",
+        "onboard_time": 1674099147,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124392,
+        "num": 124392,
+        "word": "乐华娱乐港交所上市庆祝仪式",
+        "onboard_time": 1674100167,
+        "rank": 42,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 123686,
+        "num": 123686,
+        "word": "张小斐唱逆光跑调听愣雷佳音",
+        "onboard_time": 1674099205,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114916,
+        "num": 114916,
+        "word": "时代少年团忘带邀请函",
+        "onboard_time": 1674086423,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114911,
+        "num": 114911,
+        "word": "18极到点集合",
+        "onboard_time": 1674104605,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114688,
+        "num": 114688,
+        "word": "流浪地球2终极预告",
+        "onboard_time": 1674097883,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110083,
+        "num": 110083,
+        "word": "创可贴创口贴居然不一样",
+        "onboard_time": 1674090625,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97239,
+        "num": 97239,
+        "word": "国王vs湖人",
+        "onboard_time": 1674101666,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94198,
+        "num": 94198,
+        "word": "王者兔子舞",
+        "onboard_time": 1674099686,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春祝福来了#"
+    }
+  }
+}

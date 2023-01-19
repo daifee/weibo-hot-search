@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674103147711,
+  "endTime": 1674105445849,
   "band_list": [
     {
       "raw_hot": 2832749,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2543491,
-      "num": 484594,
+      "num": 660498,
       "word": "王一博成为乐华娱乐股东",
       "onboard_time": 1674101965,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1161585,
+      "num": 1161585,
+      "word": "福兔",
+      "onboard_time": 1674090204,
+      "rank": 7,
+      "category": "科技,情感"
+    },
+    {
       "raw_hot": 1143081,
       "num": 709765,
       "word": "三亚警方通报有人打砸群众车辆",
@@ -104,6 +112,14 @@
       "word": "王一博贡献乐华六成收入",
       "onboard_time": 1674094646,
       "rank": 4,
+      "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 941311,
+      "num": 627710,
+      "word": "程潇 乐华",
+      "onboard_time": 1674101847,
+      "rank": 22,
       "category": "艺人,财经"
     },
     {
@@ -195,20 +211,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 627710,
-      "num": 627710,
-      "word": "程潇 乐华",
-      "onboard_time": 1674101847,
-      "rank": 22,
-      "category": "艺人,财经"
-    },
-    {
       "raw_hot": 609569,
       "num": 573311,
       "word": "女子想回娘家过年婆婆一口拒绝",
       "onboard_time": 1674089364,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 602311,
+      "num": 602311,
+      "word": "媒体夸迪丽热巴真诚可爱惹人爱",
+      "onboard_time": 1674103409,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 584859,
@@ -267,12 +283,12 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 500235,
-      "num": 500235,
-      "word": "福兔",
-      "onboard_time": 1674090204,
-      "rank": 7,
-      "category": "科技,情感"
+      "raw_hot": 499829,
+      "num": 281303,
+      "word": "乐华上市首日涨幅扩大至50%",
+      "onboard_time": 1674104788,
+      "rank": 19,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 493314,
@@ -281,6 +297,14 @@
       "onboard_time": 1674093145,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488354,
+      "num": 488354,
+      "word": "肖战的兔卡是好运卡",
+      "onboard_time": 1674104428,
+      "rank": 7,
+      "category": "艺人,科技"
     },
     {
       "raw_hot": 481214,
@@ -297,6 +321,14 @@
       "onboard_time": 1674034407,
       "rank": 6,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 469740,
+      "num": 469740,
+      "word": "田曦薇回应红毯变脸",
+      "onboard_time": 1674101308,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 453864,
@@ -321,14 +353,6 @@
       "onboard_time": 1674095184,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421782,
-      "num": 421782,
-      "word": "田曦薇回应红毯变脸",
-      "onboard_time": 1674101308,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 420782,
@@ -451,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323277,
+      "num": 323277,
+      "word": "偷吃被发现的小猫",
+      "onboard_time": 1674100167,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 320812,
       "num": 320812,
       "word": "男子花30元中100万车门未关彩票被偷",
@@ -467,12 +499,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 308625,
-      "num": 308625,
-      "word": "偷吃被发现的小猫",
-      "onboard_time": 1674100167,
-      "rank": 16,
-      "category": "幽默"
+      "raw_hot": 304361,
+      "num": 304361,
+      "word": "大侦探8立意片",
+      "onboard_time": 1674103468,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 304328,
@@ -497,6 +529,14 @@
       "onboard_time": 1674099205,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296365,
+      "num": 296365,
+      "word": "东北大哥8小时狂炫40斤砂糖橘",
+      "onboard_time": 1674104366,
+      "rank": 17,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 293394,
@@ -603,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248261,
+      "num": 248261,
+      "word": "流浪地球2会是中国科幻片天花板吗",
+      "onboard_time": 1674105028,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241350,
       "num": 241350,
       "word": "周震南父母被恢复执行5850万",
@@ -641,6 +689,14 @@
       "onboard_time": 1674043109,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228173,
+      "num": 228173,
+      "word": "郑恺苗苗领证卡点1314",
+      "onboard_time": 1674104726,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 220410,
@@ -779,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182793,
+      "num": 182793,
+      "word": "底特律变人全球销量突破800万",
+      "onboard_time": 1674101428,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178666,
       "num": 178666,
       "word": "冯小刚新剧回响",
@@ -865,6 +929,14 @@
       "onboard_time": 1674098845,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165266,
+      "num": 165266,
+      "word": "年轻人过年的真实写照",
+      "onboard_time": 1674102630,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 165225,
@@ -995,14 +1067,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 137354,
-      "num": 137354,
-      "word": "底特律变人全球销量突破800万",
-      "onboard_time": 1674101428,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 136238,
       "num": 123592,
       "word": "谭松韵和云南山区孩子上诗歌课",
@@ -1049,6 +1113,14 @@
       "onboard_time": 1674096745,
       "rank": 42,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 125602,
+      "num": 125602,
+      "word": "科技巨头开启万人级别大裁员",
+      "onboard_time": 1674103046,
+      "rank": 48,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 124578,
@@ -1107,14 +1179,6 @@
       "category": "音乐,艺人"
     },
     {
-      "raw_hot": 120277,
-      "num": 120277,
-      "word": "年轻人过年的真实写照",
-      "onboard_time": 1674102630,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119575,
       "num": 119575,
       "word": "医保局不会再就Paxlovid举行谈判",
@@ -1129,14 +1193,6 @@
       "onboard_time": 1674085221,
       "rank": 42,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 118814,
-      "num": 118814,
-      "word": "科技巨头开启万人级别大裁员",
-      "onboard_time": 1674103046,
-      "rank": 48,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 117108,
@@ -1161,6 +1217,14 @@
       "onboard_time": 1674098484,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 114911,
+      "num": 114911,
+      "word": "18极到点集合",
+      "onboard_time": 1674104605,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 114779,
@@ -1225,6 +1289,14 @@
       "onboard_time": 1674094706,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 98454,
+      "num": 696245,
+      "word": "人间烟火处年味渐浓时",
+      "onboard_time": 1674104428,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85534,
