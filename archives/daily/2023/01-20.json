@@ -1,6 +1,6 @@
 {
   "startTime": 1674145605899,
-  "endTime": 1674166690813,
+  "endTime": 1674167645803,
   "band_list": [
     {
       "raw_hot": 1071055,
@@ -203,6 +203,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 174333,
+      "num": 174333,
+      "word": "女子晒公司年终发一箱苹果15个全坏",
+      "onboard_time": 1674161653,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171577,
       "num": 784279,
       "word": "未感染人群怎么做好个人防护",
@@ -257,14 +265,6 @@
       "onboard_time": 1674143489,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150354,
-      "num": 56571,
-      "word": "女子晒公司年终发一箱苹果15个全坏",
-      "onboard_time": 1674161653,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147320,
@@ -369,6 +369,14 @@
       "onboard_time": 1674133830,
       "rank": 38,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 106578,
+      "num": 68051,
+      "word": "2025年到2029年连续5年都没有年三十",
+      "onboard_time": 1674165852,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104507,
@@ -491,20 +499,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 46364,
-      "num": 46364,
-      "word": "2025年到2029年连续5年都没有年三十",
-      "onboard_time": 1674165852,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35266,
-      "num": 35266,
+      "raw_hot": 41363,
+      "num": 41363,
       "word": "回家后最向往的事情",
       "onboard_time": 1674148758,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31712,
+      "num": 31712,
+      "word": "官方回应红灯笼挂满街找不到红绿灯",
+      "onboard_time": 1674166872,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27627,
+      "num": 27627,
+      "word": "邓超说流浪地球2加油",
+      "onboard_time": 1674166752,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 19129,
