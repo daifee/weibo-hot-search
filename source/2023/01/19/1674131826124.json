@@ -1,0 +1,410 @@
+{
+  "runTime": 1674131826124,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1685540,
+        "num": 1685540,
+        "word": "王一博春晚分饰两角秀舞蹈",
+        "onboard_time": 1674130767,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1409256,
+        "num": 1409256,
+        "word": "清华硕士称大厂2万月薪践踏学历",
+        "onboard_time": 1674127047,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 98017,
+        "num": 1229051,
+        "word": "走那么远的路只为和你相拥",
+        "onboard_time": 1674125008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064649,
+        "num": 1064649,
+        "word": "女子提前51天订房完美避开春节涨价",
+        "onboard_time": 1674129030,
+        "rank": 3,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 788337,
+        "num": 788337,
+        "word": "陈乔恩说刘芸公然撒谎",
+        "onboard_time": 1674128306,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 712411,
+        "num": 712411,
+        "word": "河南春晚",
+        "onboard_time": 1674126448,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570715,
+        "num": 570715,
+        "word": "这届年轻人开始报复性回家过年了",
+        "onboard_time": 1674125788,
+        "rank": 6,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 535229,
+        "num": 535229,
+        "word": "当我去猫咖摸了几十只猫以后",
+        "onboard_time": 1674124049,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 499891,
+        "num": 499891,
+        "word": "爱吃砂糖橘和醋的都沉默了",
+        "onboard_time": 1674129389,
+        "rank": 8,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 461745,
+        "num": 461745,
+        "word": "辽宁化工厂爆炸事故已致12人死亡1人失联",
+        "onboard_time": 1674126747,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 452280,
+        "num": 452280,
+        "word": "邓佳鑫说未来的这几天我会尽量出现的频繁些的",
+        "onboard_time": 1674129746,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445669,
+        "num": 445669,
+        "word": "近期泰国检出德尔塔克戎毒株",
+        "onboard_time": 1674119605,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418240,
+        "num": 418240,
+        "word": "山东春晚",
+        "onboard_time": 1674129508,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366870,
+        "num": 366870,
+        "word": "BLACKPINK首尔歌谣大赏本赏",
+        "onboard_time": 1674131369,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 366214,
+        "num": 366214,
+        "word": "谢娜也在看少爷和我",
+        "onboard_time": 1674125668,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271746,
+        "num": 354650,
+        "word": "男子下车疑抽烟错过高铁跪地求开门",
+        "onboard_time": 1674118768,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353412,
+        "num": 353412,
+        "word": "河南春晚官宣节目单",
+        "onboard_time": 1674124707,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338521,
+        "num": 338521,
+        "word": "兔年央视春晚第五次联排",
+        "onboard_time": 1674120087,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308457,
+        "num": 308457,
+        "word": "韩国版西八区的姐妹们",
+        "onboard_time": 1674119849,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271290,
+        "num": 271290,
+        "word": "走亲戚会不会终止在00后",
+        "onboard_time": 1674118646,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303738,
+        "num": 271142,
+        "word": "满江红",
+        "onboard_time": 1674130589,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280549,
+        "num": 263904,
+        "word": "看狂飙 好想吃肠粉",
+        "onboard_time": 1674123684,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246458,
+        "num": 246458,
+        "word": "许红豆说云苗村是熟悉的空气的味道",
+        "onboard_time": 1674130949,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216747,
+        "num": 216747,
+        "word": "过年串门千万要这么穿",
+        "onboard_time": 1674124885,
+        "rank": 23,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 241145,
+        "num": 214828,
+        "word": "刘耀文问马嘉祺你是丁程鑫请的托吗",
+        "onboard_time": 1674125366,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205001,
+        "num": 205001,
+        "word": "原来狗子也怕挠脚心",
+        "onboard_time": 1674127946,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200603,
+        "num": 200603,
+        "word": "金泰妍StampOnIt直拍",
+        "onboard_time": 1674130889,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193122,
+        "num": 193122,
+        "word": "8个月宝宝确诊溶血症全身换血6次",
+        "onboard_time": 1674114625,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175257,
+        "num": 189855,
+        "word": "33岁农妇金嗓子狂揽40万戏迷",
+        "onboard_time": 1674130287,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148437,
+        "num": 189247,
+        "word": "哈尔滨大雪兔换上了小红帽",
+        "onboard_time": 1674124167,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189068,
+        "num": 189068,
+        "word": "欧豪现身央视春晚第五次大联排",
+        "onboard_time": 1674128608,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188775,
+        "num": 188775,
+        "word": "睡觉睡到耳朵失踪的狗狗",
+        "onboard_time": 1674131308,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182113,
+        "num": 182113,
+        "word": "许嵩一边饮茶一边唱燕归巢",
+        "onboard_time": 1674121588,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173024,
+        "num": 173024,
+        "word": "曾黎 不要为了接送机把时间刻意花在我身上",
+        "onboard_time": 1674119309,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171611,
+        "num": 171611,
+        "word": "满江红预售票房破亿",
+        "onboard_time": 1674128248,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522551,
+        "num": 168311,
+        "word": "张元英 平底鞋",
+        "onboard_time": 1674123209,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142974,
+        "num": 165383,
+        "word": "男子理发时耳朵被剪掉一块肉",
+        "onboard_time": 1674107725,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163812,
+        "num": 163812,
+        "word": "什么是谢之遥",
+        "onboard_time": 1674126209,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142282,
+        "num": 156588,
+        "word": "女子花380元买到可拆卸苹果树",
+        "onboard_time": 1674131068,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129935,
+        "num": 155694,
+        "word": "为什么年轻人去KTV爱点老歌",
+        "onboard_time": 1674119728,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154842,
+        "num": 154842,
+        "word": "纵有疾风起大结局",
+        "onboard_time": 1674131790,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154461,
+        "num": 154461,
+        "word": "首尔歌谣大赏",
+        "onboard_time": 1674118947,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135707,
+        "num": 135707,
+        "word": "张真源贺峻霖在线battle",
+        "onboard_time": 1674127407,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124015,
+        "num": 133050,
+        "word": "这就是普通人努力的意义吧",
+        "onboard_time": 1674119966,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133043,
+        "num": 133043,
+        "word": "丁勇岱演技",
+        "onboard_time": 1674129089,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132125,
+        "num": 132125,
+        "word": "GOTtheBeat新歌MCD初舞台",
+        "onboard_time": 1674127407,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109863,
+        "num": 109863,
+        "word": "大学生回家整顿聚餐了",
+        "onboard_time": 1674120204,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104507,
+        "num": 104507,
+        "word": "像极了家里来小孩的我",
+        "onboard_time": 1674130107,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100077,
+        "num": 100077,
+        "word": "游戏里碰到情侣是什么体验",
+        "onboard_time": 1674125366,
+        "rank": 48,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 98537,
+        "num": 98537,
+        "word": "余秀华称前男友直播间对其人身威胁",
+        "onboard_time": 1674131790,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平关心乡村旅游#"
+    }
+  }
+}
