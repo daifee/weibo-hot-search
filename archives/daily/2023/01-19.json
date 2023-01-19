@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674093792115,
+  "endTime": 1674096527975,
   "band_list": [
     {
       "raw_hot": 2597438,
@@ -17,6 +17,14 @@
       "onboard_time": 1674054929,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1440548,
+      "num": 467978,
+      "word": "女子带婆婆注销亡夫户口痛哭不止",
+      "onboard_time": 1674092845,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1303997,
@@ -67,6 +75,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 875413,
+      "num": 454125,
+      "word": "王一博贡献乐华六成收入",
+      "onboard_time": 1674094646,
+      "rank": 4,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 863160,
       "num": 863160,
       "word": "高铁站大厅没插座引网友质疑",
@@ -99,19 +115,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752092,
+      "num": 678813,
+      "word": "母子卧铺车早读被乘客提醒小声",
+      "onboard_time": 1674092064,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 739704,
       "num": 739704,
       "word": "银行员工贪污398万整容创业潜逃25年",
       "onboard_time": 1674058586,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 678813,
-      "num": 678813,
-      "word": "母子卧铺车早读被乘客提醒小声",
-      "onboard_time": 1674092064,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -155,14 +171,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 493388,
-      "num": 371797,
-      "word": "女子带婆婆注销亡夫户口痛哭不止",
-      "onboard_time": 1674092845,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 481214,
       "num": 481214,
       "word": "成年人为什么不喜欢过年了",
@@ -192,6 +200,14 @@
       "word": "37岁离异女博士与小13岁吉他老师相恋",
       "onboard_time": 1674034706,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428239,
+      "num": 428239,
+      "word": "90后女孩偷师自学2年成古籍修复师",
+      "onboard_time": 1674093145,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -259,6 +275,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 353091,
+      "num": 353091,
+      "word": "江西小县城相亲大会20男相1女",
+      "onboard_time": 1674095545,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348979,
       "num": 348979,
       "word": "中国男篮世预赛第六窗口期集训名单",
@@ -273,6 +297,14 @@
       "onboard_time": 1674059425,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341109,
+      "num": 341109,
+      "word": "胡歌不虚此行预告",
+      "onboard_time": 1674094526,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 333315,
@@ -323,6 +355,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298616,
+      "num": 298616,
+      "word": "近30年来日本男性越长越矮",
+      "onboard_time": 1674095184,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294206,
+      "num": 294206,
+      "word": "新年和肖战一起奔赴热爱",
+      "onboard_time": 1674096386,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293394,
       "num": 293394,
       "word": "狂飙第一个内鬼",
@@ -363,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 251833,
+      "num": 251833,
+      "word": "田曦薇田耕纪杀青路透",
+      "onboard_time": 1674094646,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250882,
       "num": 250882,
       "word": "WBG战胜TES",
@@ -387,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235242,
+      "num": 235242,
+      "word": "这位曾刷屏全网的父亲走了",
+      "onboard_time": 1674093444,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231167,
       "num": 231167,
       "word": "苹果发布第二代HomePod",
@@ -400,6 +464,14 @@
       "word": "张艺兴舞台牵单依纯出场",
       "onboard_time": 1674043109,
       "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 214699,
+      "num": 214699,
+      "word": "YG新女团舞蹈视频公开",
+      "onboard_time": 1674086242,
+      "rank": 27,
       "category": "音乐"
     },
     {
@@ -531,12 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163712,
-      "num": 163712,
-      "word": "YG新女团舞蹈视频公开",
-      "onboard_time": 1674086242,
-      "rank": 27,
-      "category": "音乐"
+      "raw_hot": 163844,
+      "num": 163844,
+      "word": "王一博叶秘上映倒计时3天海报",
+      "onboard_time": 1674094765,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 163699,
@@ -553,6 +625,14 @@
       "onboard_time": 1674089844,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159001,
+      "num": 159001,
+      "word": "原来谐音梗才是年夜饭最大赢家",
+      "onboard_time": 1674095665,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155616,
@@ -619,14 +699,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 141549,
-      "num": 141549,
-      "word": "90后女孩偷师自学2年成古籍修复师",
-      "onboard_time": 1674093145,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136238,
       "num": 123592,
       "word": "谭松韵和云南山区孩子上诗歌课",
@@ -640,6 +712,22 @@
       "word": "王鹤棣白鹿双人手势舞",
       "onboard_time": 1674059725,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 129854,
+      "num": 129854,
+      "word": "瑶妹乔妹是灯会祈福天花板吧",
+      "onboard_time": 1674096083,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 128627,
+      "num": 128627,
+      "word": "鹤男说王鹤棣在剧组经常请客",
+      "onboard_time": 1674093926,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -659,14 +747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126980,
-      "num": 126980,
-      "word": "这位曾刷屏全网的父亲走了",
-      "onboard_time": 1674093444,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124578,
       "num": 124578,
       "word": "谢之遥给许红豆发照片满脸痴笑",
@@ -681,6 +761,14 @@
       "onboard_time": 1674048028,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123950,
+      "num": 123950,
+      "word": "乔尔杰维奇回应男篮选拔标准",
+      "onboard_time": 1674095606,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 122747,
@@ -769,6 +857,22 @@
       "onboard_time": 1674063797,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103530,
+      "num": 103530,
+      "word": "当热血漫全员开始摸鱼",
+      "onboard_time": 1674094706,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 100107,
+      "num": 100107,
+      "word": "微软宣布裁员1万人",
+      "onboard_time": 1674096503,
+      "rank": 46,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 85534,

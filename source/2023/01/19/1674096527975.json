@@ -1,0 +1,410 @@
+{
+  "runTime": 1674096527975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2524347,
+        "num": 2524347,
+        "word": "乐华上市",
+        "onboard_time": 1674092485,
+        "rank": 0,
+        "category": "财经,影视"
+      },
+      {
+        "raw_hot": 654016,
+        "num": 654016,
+        "word": "邓超春晚彩排的社牛行为",
+        "onboard_time": 1674089185,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32806,
+        "num": 471017,
+        "word": "大寒除夕春节喜相连",
+        "onboard_time": 1674044190,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1440548,
+        "num": 467978,
+        "word": "女子带婆婆注销亡夫户口痛哭不止",
+        "onboard_time": 1674092845,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875413,
+        "num": 454125,
+        "word": "王一博贡献乐华六成收入",
+        "onboard_time": 1674094646,
+        "rank": 4,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 428239,
+        "num": 428239,
+        "word": "90后女孩偷师自学2年成古籍修复师",
+        "onboard_time": 1674093145,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537656,
+        "num": 416535,
+        "word": "三亚警方通报有人打砸群众车辆",
+        "onboard_time": 1674089185,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377332,
+        "num": 377332,
+        "word": "张颜齐上台忘了撕暖宝宝",
+        "onboard_time": 1674085461,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 363313,
+        "num": 363313,
+        "word": "许红豆看钻石豪门",
+        "onboard_time": 1674091824,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362722,
+        "num": 362722,
+        "word": "女子想回娘家过年婆婆一口拒绝",
+        "onboard_time": 1674089364,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522347,
+        "num": 359880,
+        "word": "王一博程耳于冬参加乐华上市仪式",
+        "onboard_time": 1674092426,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353091,
+        "num": 353091,
+        "word": "江西小县城相亲大会20男相1女",
+        "onboard_time": 1674095545,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752092,
+        "num": 351780,
+        "word": "母子卧铺车早读被乘客提醒小声",
+        "onboard_time": 1674092064,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347907,
+        "num": 347907,
+        "word": "创可贴创口贴居然不一样",
+        "onboard_time": 1674090625,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341109,
+        "num": 341109,
+        "word": "胡歌不虚此行预告",
+        "onboard_time": 1674094526,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 743946,
+        "num": 328905,
+        "word": "13岁孩子起诉父亲还16800元压岁钱",
+        "onboard_time": 1674090625,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298616,
+        "num": 298616,
+        "word": "近30年来日本男性越长越矮",
+        "onboard_time": 1674095184,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294206,
+        "num": 294206,
+        "word": "新年和肖战一起奔赴热爱",
+        "onboard_time": 1674096386,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290413,
+        "num": 290413,
+        "word": "刘亦菲许红豆发带造型",
+        "onboard_time": 1674090983,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282157,
+        "num": 282157,
+        "word": "福兔",
+        "onboard_time": 1674090204,
+        "rank": 19,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 268425,
+        "num": 268425,
+        "word": "直面生育损伤",
+        "onboard_time": 1674052652,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251833,
+        "num": 251833,
+        "word": "田曦薇田耕纪杀青路透",
+        "onboard_time": 1674094646,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235242,
+        "num": 235242,
+        "word": "这位曾刷屏全网的父亲走了",
+        "onboard_time": 1674093444,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214699,
+        "num": 214699,
+        "word": "YG新女团舞蹈视频公开",
+        "onboard_time": 1674086242,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211869,
+        "num": 211869,
+        "word": "高铁站大厅没插座引网友质疑",
+        "onboard_time": 1674080293,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202121,
+        "num": 202121,
+        "word": "时代少年团忘带邀请函",
+        "onboard_time": 1674086423,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185017,
+        "num": 185017,
+        "word": "中国男篮世预赛第六窗口期集训名单",
+        "onboard_time": 1674090688,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180649,
+        "num": 180649,
+        "word": "银行员工贪污398万整容创业潜逃25年",
+        "onboard_time": 1674058586,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174478,
+        "num": 174478,
+        "word": "福王成真宦官",
+        "onboard_time": 1674085399,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173124,
+        "num": 173124,
+        "word": "李现拍完有风想去大理开咖啡馆",
+        "onboard_time": 1674091106,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168156,
+        "num": 168156,
+        "word": "三体 脱水",
+        "onboard_time": 1674049593,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167213,
+        "num": 167213,
+        "word": "男子买灌香肠起诉其为三无产品被法院驳回",
+        "onboard_time": 1674054269,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164868,
+        "num": 164868,
+        "word": "西藏一隧道出口雪崩已致8人遇难",
+        "onboard_time": 1674085881,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 164842,
+        "num": 164842,
+        "word": "张艺兴给李宇春龙丹妮张杰拍照",
+        "onboard_time": 1674083357,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163844,
+        "num": 163844,
+        "word": "王一博叶秘上映倒计时3天海报",
+        "onboard_time": 1674094765,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159001,
+        "num": 159001,
+        "word": "原来谐音梗才是年夜饭最大赢家",
+        "onboard_time": 1674095665,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144727,
+        "num": 144727,
+        "word": "三体卤煮被煮了",
+        "onboard_time": 1674084678,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139870,
+        "num": 139870,
+        "word": "阳后嗜睡失眠怎么办",
+        "onboard_time": 1674091346,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139330,
+        "num": 139330,
+        "word": "曾凡博入选中国男篮大名单",
+        "onboard_time": 1674091765,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138185,
+        "num": 138185,
+        "word": "身高给你带来的困扰有多少",
+        "onboard_time": 1674089844,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131705,
+        "num": 131705,
+        "word": "全家没一个是混吃混喝的",
+        "onboard_time": 1674055529,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129854,
+        "num": 129854,
+        "word": "瑶妹乔妹是灯会祈福天花板吧",
+        "onboard_time": 1674096083,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128627,
+        "num": 128627,
+        "word": "鹤男说王鹤棣在剧组经常请客",
+        "onboard_time": 1674093926,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123950,
+        "num": 123950,
+        "word": "乔尔杰维奇回应男篮选拔标准",
+        "onboard_time": 1674095606,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104171,
+        "num": 104171,
+        "word": "安局是不是内鬼",
+        "onboard_time": 1674089122,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103530,
+        "num": 103530,
+        "word": "当热血漫全员开始摸鱼",
+        "onboard_time": 1674094706,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 100107,
+        "num": 100107,
+        "word": "微软宣布裁员1万人",
+        "onboard_time": 1674096503,
+        "rank": 46,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 99802,
+        "num": 99802,
+        "word": "时代少年团下班营业照",
+        "onboard_time": 1674089185,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99467,
+        "num": 99467,
+        "word": "严浩翔 金发",
+        "onboard_time": 1674058166,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97735,
+        "num": 97735,
+        "word": "电影无名预售票房破8000万",
+        "onboard_time": 1674084559,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝福返乡旅客#"
+    }
+  }
+}
