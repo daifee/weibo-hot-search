@@ -1,0 +1,410 @@
+{
+  "runTime": 1674128046997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 836871,
+        "num": 836871,
+        "word": "当我去猫咖摸了几十只猫以后",
+        "onboard_time": 1674124049,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 831187,
+        "num": 831187,
+        "word": "近期泰国检出德尔塔克戎毒株",
+        "onboard_time": 1674119605,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131977,
+        "num": 724770,
+        "word": "走那么远的路只为和你相拥",
+        "onboard_time": 1674125008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914338,
+        "num": 724547,
+        "word": "张元英 平底鞋",
+        "onboard_time": 1674123209,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 699704,
+        "num": 699704,
+        "word": "这届年轻人开始报复性回家过年了",
+        "onboard_time": 1674125788,
+        "rank": 4,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 601323,
+        "num": 601323,
+        "word": "陈乔恩结婚没有通知经纪人",
+        "onboard_time": 1674117326,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 520404,
+        "num": 520404,
+        "word": "兔年央视春晚第五次联排",
+        "onboard_time": 1674120087,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507700,
+        "num": 507700,
+        "word": "男子下车疑抽烟错过高铁跪地求开门",
+        "onboard_time": 1674118768,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499031,
+        "num": 499031,
+        "word": "谢娜也在看少爷和我",
+        "onboard_time": 1674125668,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485441,
+        "num": 485441,
+        "word": "韩国版西八区的姐妹们",
+        "onboard_time": 1674119849,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434989,
+        "num": 434989,
+        "word": "刘耀文问马嘉祺你是丁程鑫请的托吗",
+        "onboard_time": 1674125366,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415885,
+        "num": 415885,
+        "word": "生肖卡",
+        "onboard_time": 1674122548,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 429671,
+        "num": 406049,
+        "word": "王一博成为乐华娱乐股东",
+        "onboard_time": 1674101965,
+        "rank": 12,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 354799,
+        "num": 354799,
+        "word": "GOTtheBeat新歌MCD初舞台",
+        "onboard_time": 1674127407,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144914,
+        "num": 351021,
+        "word": "原神 海灯节微电影",
+        "onboard_time": 1674126029,
+        "rank": 14,
+        "category": "游戏,影视"
+      },
+      {
+        "raw_hot": 349700,
+        "num": 349700,
+        "word": "走亲戚会不会终止在00后",
+        "onboard_time": 1674118646,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329465,
+        "num": 329465,
+        "word": "过年串门千万要这么穿",
+        "onboard_time": 1674124885,
+        "rank": 16,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 310693,
+        "num": 310693,
+        "word": "什么是谢之遥",
+        "onboard_time": 1674126209,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299313,
+        "num": 299313,
+        "word": "河南春晚官宣节目单",
+        "onboard_time": 1674124707,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264392,
+        "num": 298467,
+        "word": "8个月宝宝确诊溶血症全身换血6次",
+        "onboard_time": 1674114625,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297893,
+        "num": 297893,
+        "word": "张真源贺峻霖在线battle",
+        "onboard_time": 1674127407,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272304,
+        "num": 272304,
+        "word": "江疏影把小兔子藏在指甲里",
+        "onboard_time": 1674124765,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270544,
+        "num": 270544,
+        "word": "河南春晚",
+        "onboard_time": 1674126448,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244107,
+        "num": 270034,
+        "word": "哈尔滨大雪兔换上了小红帽",
+        "onboard_time": 1674124167,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269680,
+        "num": 269680,
+        "word": "曾黎 不要为了接送机把时间刻意花在我身上",
+        "onboard_time": 1674119309,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260745,
+        "num": 260745,
+        "word": "赵丽颖紫色大衣",
+        "onboard_time": 1674121827,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221037,
+        "num": 221037,
+        "word": "大学生回家整顿聚餐了",
+        "onboard_time": 1674120204,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216301,
+        "num": 216301,
+        "word": "中国足协原秘书长刘奕被查",
+        "onboard_time": 1674120508,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215194,
+        "num": 215194,
+        "word": "男子理发时耳朵被剪掉一块肉",
+        "onboard_time": 1674107725,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197461,
+        "num": 197461,
+        "word": "男子桌下偷梁换柱往酒瓶倒茶",
+        "onboard_time": 1674122907,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391494,
+        "num": 196558,
+        "word": "清华硕士称大厂2万月薪践踏学历",
+        "onboard_time": 1674127047,
+        "rank": 30,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 342428,
+        "num": 195662,
+        "word": "辽宁化工厂爆炸事故已致12人死亡1人失联",
+        "onboard_time": 1674126747,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 255908,
+        "num": 194831,
+        "word": "看狂飙 好想吃肠粉",
+        "onboard_time": 1674123684,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239407,
+        "num": 193653,
+        "word": "许嵩一边饮茶一边唱燕归巢",
+        "onboard_time": 1674121588,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233921,
+        "num": 192843,
+        "word": "谢之遥看见许红豆笑容藏不住了",
+        "onboard_time": 1674124049,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192273,
+        "num": 192273,
+        "word": "马尔代夫旅游部长赴机场迎接中国游客",
+        "onboard_time": 1674121709,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 222828,
+        "num": 192072,
+        "word": "于和伟 卤煮好菜",
+        "onboard_time": 1674122307,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191828,
+        "num": 191828,
+        "word": "姚润昊",
+        "onboard_time": 1674108387,
+        "rank": 37,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 182501,
+        "num": 182501,
+        "word": "这就是普通人努力的意义吧",
+        "onboard_time": 1674119966,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181335,
+        "num": 181335,
+        "word": "大侦探8开播",
+        "onboard_time": 1674114328,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168342,
+        "num": 168342,
+        "word": "萧亚轩说正在偷吃麻辣花生",
+        "onboard_time": 1674110726,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165195,
+        "num": 165195,
+        "word": "沙溢说看完流浪地球2不再羡慕别人",
+        "onboard_time": 1674112766,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159654,
+        "num": 159654,
+        "word": "游戏里碰到情侣是什么体验",
+        "onboard_time": 1674125366,
+        "rank": 42,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 158390,
+        "num": 158390,
+        "word": "易烊千玺演的满江红从头笑到尾",
+        "onboard_time": 1674112828,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148371,
+        "num": 148371,
+        "word": "首尔歌谣大赏",
+        "onboard_time": 1674118947,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142060,
+        "num": 142060,
+        "word": "秦岚现身2023央视春晚第五次联排",
+        "onboard_time": 1674126865,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128930,
+        "num": 128930,
+        "word": "为什么年轻人去KTV爱点老歌",
+        "onboard_time": 1674119728,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125581,
+        "num": 125581,
+        "word": "原来狗子也怕挠脚心",
+        "onboard_time": 1674127946,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112292,
+        "num": 112292,
+        "word": "HLE战胜KDF",
+        "onboard_time": 1674125427,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106042,
+        "num": 106042,
+        "word": "暴雪回应魔兽世界进度存档问题",
+        "onboard_time": 1674120267,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记向全国各族人民致以新春美好祝福#"
+    }
+  }
+}

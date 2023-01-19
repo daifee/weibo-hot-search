@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674126980392,
+  "endTime": 1674128046997,
   "band_list": [
     {
       "raw_hot": 2832749,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 836871,
+      "num": 836871,
+      "word": "当我去猫咖摸了几十只猫以后",
+      "onboard_time": 1674124049,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 828307,
       "num": 828307,
       "word": "鲍蕾说从上学的时候陆毅的钱就在我这",
@@ -355,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 699704,
+      "num": 699704,
+      "word": "这届年轻人开始报复性回家过年了",
+      "onboard_time": 1674125788,
+      "rank": 16,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 690967,
       "num": 618749,
       "word": "8个月宝宝确诊溶血症全身换血6次",
@@ -451,14 +467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 569926,
-      "num": 569926,
-      "word": "当我去猫咖摸了几十只猫以后",
-      "onboard_time": 1674124049,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 566147,
       "num": 375065,
       "word": "乐华上市首日涨幅扩大至50%",
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 525639,
-      "num": 431459,
+      "num": 434989,
       "word": "刘耀文问马嘉祺你是丁程鑫请的托吗",
       "onboard_time": 1674125366,
       "rank": 10,
@@ -553,6 +561,14 @@
       "onboard_time": 1674110067,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 499031,
+      "num": 499031,
+      "word": "谢娜也在看少爷和我",
+      "onboard_time": 1674125668,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 493314,
@@ -691,20 +707,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 405234,
-      "num": 405234,
-      "word": "谢娜也在看少爷和我",
-      "onboard_time": 1674125668,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 399929,
-      "num": 399929,
-      "word": "这届年轻人开始报复性回家过年了",
-      "onboard_time": 1674125788,
-      "rank": 16,
-      "category": "情感,社会新闻"
+      "raw_hot": 391494,
+      "num": 196558,
+      "word": "清华硕士称大厂2万月薪践踏学历",
+      "onboard_time": 1674127047,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 388901,
@@ -771,6 +779,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 354799,
+      "num": 354799,
+      "word": "GOTtheBeat新歌MCD初舞台",
+      "onboard_time": 1674127407,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 353769,
       "num": 353769,
       "word": "偷吃被发现的小猫",
@@ -825,6 +841,14 @@
       "onboard_time": 1674059425,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342428,
+      "num": 195662,
+      "word": "辽宁化工厂爆炸事故已致12人死亡1人失联",
+      "onboard_time": 1674126747,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 341109,
@@ -891,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310693,
+      "num": 310693,
+      "word": "什么是谢之遥",
+      "onboard_time": 1674126209,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 306889,
       "num": 306889,
       "word": "ive首尔歌谣大赏红毯生图",
@@ -937,6 +969,22 @@
       "onboard_time": 1674056968,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299313,
+      "num": 299313,
+      "word": "河南春晚官宣节目单",
+      "onboard_time": 1674124707,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 297893,
+      "num": 297893,
+      "word": "张真源贺峻霖在线battle",
+      "onboard_time": 1674127407,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 297507,
@@ -1043,20 +1091,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 275235,
-      "num": 275235,
-      "word": "河南春晚官宣节目单",
-      "onboard_time": 1674124707,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271929,
       "num": 271929,
       "word": "黄铉辰染粉发",
       "onboard_time": 1674116847,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 270544,
+      "num": 270544,
+      "word": "河南春晚",
+      "onboard_time": 1674126448,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 269634,
@@ -1139,8 +1187,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 255908,
+      "num": 236212,
+      "word": "看狂飙 好想吃肠粉",
+      "onboard_time": 1674123684,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251974,
-      "num": 251974,
+      "num": 270034,
       "word": "哈尔滨大雪兔换上了小红帽",
       "onboard_time": 1674124167,
       "rank": 45,
@@ -1227,20 +1283,20 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 236212,
-      "num": 236212,
-      "word": "看狂飙 好想吃肠粉",
-      "onboard_time": 1674123684,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 235242,
       "num": 235242,
       "word": "这位曾刷屏全网的父亲走了",
       "onboard_time": 1674093444,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233921,
+      "num": 229756,
+      "word": "谢之遥看见许红豆笑容藏不住了",
+      "onboard_time": 1674124049,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 233745,
@@ -1251,28 +1307,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 231644,
-      "num": 231644,
-      "word": "河南春晚",
-      "onboard_time": 1674126448,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 231167,
       "num": 231167,
       "word": "苹果发布第二代HomePod",
       "onboard_time": 1674054869,
       "rank": 23,
       "category": "科技"
-    },
-    {
-      "raw_hot": 229756,
-      "num": 229756,
-      "word": "谢之遥看见许红豆笑容藏不住了",
-      "onboard_time": 1674124049,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 228206,
@@ -1297,14 +1337,6 @@
       "onboard_time": 1674100408,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219006,
-      "num": 219006,
-      "word": "什么是谢之遥",
-      "onboard_time": 1674126209,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 214699,
@@ -2019,6 +2051,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 142060,
+      "num": 142060,
+      "word": "秦岚现身2023央视春晚第五次联排",
+      "onboard_time": 1674126865,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141881,
       "num": 141881,
       "word": "张元英黑色鱼尾抹胸裙造型",
@@ -2033,14 +2073,6 @@
       "onboard_time": 1674115828,
       "rank": 47,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 141459,
-      "num": 141459,
-      "word": "秦岚现身2023央视春晚第五次联排",
-      "onboard_time": 1674126865,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 141324,
@@ -2115,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131977,
+      "num": 724770,
+      "word": "走那么远的路只为和你相拥",
+      "onboard_time": 1674125008,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131592,
       "num": 131592,
       "word": "今年春节档你的观影顺序",
@@ -2161,6 +2201,14 @@
       "onboard_time": 1674103046,
       "rank": 48,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 125581,
+      "num": 125581,
+      "word": "原来狗子也怕挠脚心",
+      "onboard_time": 1674127946,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 124578,
@@ -2259,14 +2307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 117081,
-      "num": 117081,
-      "word": "辽宁化工厂爆炸事故已致12人死亡1人失联",
-      "onboard_time": 1674126747,
-      "rank": 48,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 116948,
       "num": 116948,
       "word": "官方通报山姆会员店销售蓝环章鱼",
@@ -2313,14 +2353,6 @@
       "onboard_time": 1674083298,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113723,
-      "num": 589127,
-      "word": "走那么远的路只为和你相拥",
-      "onboard_time": 1674125008,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113398,
