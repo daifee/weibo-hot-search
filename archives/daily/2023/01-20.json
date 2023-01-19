@@ -1,6 +1,6 @@
 {
   "startTime": 1674145605899,
-  "endTime": 1674170386370,
+  "endTime": 1674171218035,
   "band_list": [
     {
       "raw_hot": 1071055,
@@ -25,6 +25,14 @@
       "onboard_time": 1674141630,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 717691,
+      "num": 717691,
+      "word": "C罗 梅开二度",
+      "onboard_time": 1674169637,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 652573,
@@ -59,6 +67,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 551170,
+      "num": 551170,
+      "word": "2025年到2029年连续5年都没有年三十",
+      "onboard_time": 1674165852,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483927,
       "num": 483927,
       "word": "清华硕士称大厂2万月薪践踏学历",
@@ -89,22 +105,6 @@
       "onboard_time": 1674143607,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 385915,
-      "num": 385915,
-      "word": "C罗 梅开二度",
-      "onboard_time": 1674169637,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 383031,
-      "num": 383031,
-      "word": "2025年到2029年连续5年都没有年三十",
-      "onboard_time": 1674165852,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 374935,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231944,
+      "num": 204287,
+      "word": "官方回应红灯笼挂满街找不到红绿灯",
+      "onboard_time": 1674166872,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228636,
       "num": 228636,
       "word": "这哪叫自建房这叫自建府",
@@ -179,6 +187,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 217964,
+      "num": 217964,
+      "word": "这届年轻人开始报复性回家过年了",
+      "onboard_time": 1674125788,
+      "rank": 21,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 213796,
       "num": 213796,
       "word": "gidle 造型",
@@ -193,14 +209,6 @@
       "onboard_time": 1674139052,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206373,
-      "num": 206373,
-      "word": "这届年轻人开始报复性回家过年了",
-      "onboard_time": 1674125788,
-      "rank": 21,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 188447,
@@ -225,6 +233,14 @@
       "onboard_time": 1674129030,
       "rank": 24,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 173774,
+      "num": 173774,
+      "word": "主人离家10天给猫备10碗粮17碗水",
+      "onboard_time": 1674170656,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171577,
@@ -259,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162167,
+      "num": 162167,
+      "word": "明天除夕",
+      "onboard_time": 1674170656,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161790,
       "num": 161790,
       "word": "文韬 逆风翻盘",
@@ -275,11 +299,11 @@
       "category": "财经,艺人"
     },
     {
-      "raw_hot": 153199,
-      "num": 153199,
-      "word": "官方回应红灯笼挂满街找不到红绿灯",
-      "onboard_time": 1674166872,
-      "rank": 34,
+      "raw_hot": 156645,
+      "num": 156645,
+      "word": "元气森林营销中心原负责人被刑拘",
+      "onboard_time": 1674140671,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -331,14 +355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 134622,
-      "num": 134622,
-      "word": "元气森林营销中心原负责人被刑拘",
-      "onboard_time": 1674140671,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131171,
       "num": 122596,
       "word": "看狂飙 好想吃肠粉",
@@ -355,12 +371,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126555,
+      "num": 126555,
+      "word": "原神",
+      "onboard_time": 1674169877,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123680,
       "num": 113776,
       "word": "魏晨透露春晚会唱歌",
       "onboard_time": 1674145405,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122894,
+      "num": 122894,
+      "word": "郑恺说认识苗苗以后才养成的剥虾习惯",
+      "onboard_time": 1674146843,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120990,
+      "num": 120990,
+      "word": "威海话是方言里的天花板吧",
+      "onboard_time": 1674169937,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116464,
+      "num": 116464,
+      "word": "狂飙",
+      "onboard_time": 1674170418,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 114030,
@@ -387,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112990,
+      "num": 112990,
+      "word": "男子乔迁新居客厅如同电竞房",
+      "onboard_time": 1674168254,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110209,
       "num": 110209,
       "word": "近期泰国检出德尔塔克戎毒株",
       "onboard_time": 1674119605,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107272,
+      "num": 107272,
+      "word": "曼城4比2热刺",
+      "onboard_time": 1674169577,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 107236,
@@ -419,14 +483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 96375,
-      "num": 96375,
-      "word": "曼城4比2热刺",
-      "onboard_time": 1674169577,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95856,
       "num": 91274,
       "word": "BLACKPINK首尔歌谣大赏本赏",
@@ -435,20 +491,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 92992,
-      "num": 92992,
-      "word": "男子乔迁新居客厅如同电竞房",
-      "onboard_time": 1674168254,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90844,
-      "num": 90844,
-      "word": "郑恺说认识苗苗以后才养成的剥虾习惯",
-      "onboard_time": 1674146843,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 95520,
+      "num": 95520,
+      "word": "张颂文演技",
+      "onboard_time": 1674170718,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 89822,
@@ -465,6 +513,14 @@
       "onboard_time": 1674141091,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 86710,
+      "num": 86710,
+      "word": "虎年最后一个节气",
+      "onboard_time": 1674170656,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86138,
@@ -491,14 +547,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 77933,
-      "num": 77933,
-      "word": "原神",
-      "onboard_time": 1674169877,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 75011,
       "num": 75011,
       "word": "三体王子文演技爆发力",
@@ -512,6 +560,14 @@
       "word": "宋祖儿央视春晚第五次联排双丸子头造型",
       "onboard_time": 1674151995,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 72762,
+      "num": 72762,
+      "word": "陈楚生弹唱姑娘引回忆杀",
+      "onboard_time": 1674171078,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -531,20 +587,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62062,
+      "num": 62062,
+      "word": "三体第八集",
+      "onboard_time": 1674170418,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 61192,
       "num": 61192,
       "word": "流浪地球2首波观众是科学家",
       "onboard_time": 1674132569,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 58203,
-      "num": 58203,
-      "word": "威海话是方言里的天花板吧",
-      "onboard_time": 1674169937,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48153,

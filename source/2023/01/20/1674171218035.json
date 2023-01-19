@@ -1,0 +1,410 @@
+{
+  "runTime": 1674171218035,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 717691,
+        "num": 717691,
+        "word": "C罗 梅开二度",
+        "onboard_time": 1674169637,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551170,
+        "num": 551170,
+        "word": "2025年到2029年连续5年都没有年三十",
+        "onboard_time": 1674165852,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120178,
+        "num": 468333,
+        "word": "未感染人群怎么做好个人防护",
+        "onboard_time": 1674137191,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411624,
+        "num": 411624,
+        "word": "27岁女子为父母偷偷买房父亲参观时哽咽",
+        "onboard_time": 1674141630,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314348,
+        "num": 314348,
+        "word": "女子晒公司年终发一箱苹果15个全坏",
+        "onboard_time": 1674161653,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308308,
+        "num": 308308,
+        "word": "清华硕士称大厂2万月薪践踏学历",
+        "onboard_time": 1674127047,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 262734,
+        "num": 262734,
+        "word": "利雅得全明星队vs巴黎圣日耳曼",
+        "onboard_time": 1674142227,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244816,
+        "num": 244816,
+        "word": "梅西",
+        "onboard_time": 1674142591,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239951,
+        "num": 239951,
+        "word": "三部预售票房过亿的电影",
+        "onboard_time": 1674142707,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217964,
+        "num": 217964,
+        "word": "这届年轻人开始报复性回家过年了",
+        "onboard_time": 1674125788,
+        "rank": 9,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 266876,
+        "num": 212101,
+        "word": "山东多人婚闹压着新郎新娘叠罗汉",
+        "onboard_time": 1674132207,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 231944,
+        "num": 204287,
+        "word": "官方回应红灯笼挂满街找不到红绿灯",
+        "onboard_time": 1674166872,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186774,
+        "num": 186774,
+        "word": "蓝环章鱼后又现毒螃蟹",
+        "onboard_time": 1674136110,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 184701,
+        "num": 184701,
+        "word": "蒲熠星 淘汰",
+        "onboard_time": 1674135089,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173774,
+        "num": 173774,
+        "word": "主人离家10天给猫备10碗粮17碗水",
+        "onboard_time": 1674170656,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166202,
+        "num": 166202,
+        "word": "女子提前51天订房完美避开春节涨价",
+        "onboard_time": 1674129030,
+        "rank": 15,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 162167,
+        "num": 162167,
+        "word": "明天除夕",
+        "onboard_time": 1674170656,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161263,
+        "num": 161263,
+        "word": "杨紫王冰冰同框",
+        "onboard_time": 1674138030,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156645,
+        "num": 156645,
+        "word": "元气森林营销中心原负责人被刑拘",
+        "onboard_time": 1674140671,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149131,
+        "num": 149131,
+        "word": "倪萍冯巩春晚同台童年又回来了",
+        "onboard_time": 1674141871,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147879,
+        "num": 147879,
+        "word": "王一博脸上青春痘都比你好看",
+        "onboard_time": 1674134668,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130470,
+        "num": 130470,
+        "word": "乐华上市庆功宴路透",
+        "onboard_time": 1674138330,
+        "rank": 21,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 126555,
+        "num": 126555,
+        "word": "原神",
+        "onboard_time": 1674169877,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124866,
+        "num": 124866,
+        "word": "春晚节目单",
+        "onboard_time": 1674141269,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122894,
+        "num": 122894,
+        "word": "郑恺说认识苗苗以后才养成的剥虾习惯",
+        "onboard_time": 1674146843,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120990,
+        "num": 120990,
+        "word": "威海话是方言里的天花板吧",
+        "onboard_time": 1674169937,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116464,
+        "num": 116464,
+        "word": "狂飙",
+        "onboard_time": 1674170418,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112990,
+        "num": 112990,
+        "word": "男子乔迁新居客厅如同电竞房",
+        "onboard_time": 1674168254,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107272,
+        "num": 107272,
+        "word": "曼城4比2热刺",
+        "onboard_time": 1674169577,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95520,
+        "num": 95520,
+        "word": "张颂文演技",
+        "onboard_time": 1674170718,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94265,
+        "num": 94265,
+        "word": "至今没阳过返乡过年感染风险是否更大",
+        "onboard_time": 1674144327,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92164,
+        "num": 92164,
+        "word": "这哪叫自建房这叫自建府",
+        "onboard_time": 1674135448,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86710,
+        "num": 86710,
+        "word": "虎年最后一个节气",
+        "onboard_time": 1674170656,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85769,
+        "num": 85769,
+        "word": "近期泰国检出德尔塔克戎毒株",
+        "onboard_time": 1674119605,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84625,
+        "num": 84625,
+        "word": "世界杯官方晒C罗海报",
+        "onboard_time": 1674149718,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83104,
+        "num": 83104,
+        "word": "夫妻外地旅游苦寻停车位置3小时",
+        "onboard_time": 1674148398,
+        "rank": 35,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 81932,
+        "num": 81932,
+        "word": "王嘉尔 唇环",
+        "onboard_time": 1674138633,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 80234,
+        "num": 80234,
+        "word": "陈乔恩说刘芸公然撒谎",
+        "onboard_time": 1674128306,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77906,
+        "num": 77906,
+        "word": "三体集体脱水名场面",
+        "onboard_time": 1674146063,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74929,
+        "num": 74929,
+        "word": "周深一开口就有团圆味了",
+        "onboard_time": 1674144087,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72762,
+        "num": 72762,
+        "word": "陈楚生弹唱姑娘引回忆杀",
+        "onboard_time": 1674171078,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70666,
+        "num": 70666,
+        "word": "南宁兔子意外走红成网红表情包",
+        "onboard_time": 1674134551,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69371,
+        "num": 69371,
+        "word": "怎么有小猫生气这么可爱的",
+        "onboard_time": 1674138330,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66122,
+        "num": 66122,
+        "word": "三体王子文演技爆发力",
+        "onboard_time": 1674151096,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63668,
+        "num": 63668,
+        "word": "千万别帮广东人大扫除",
+        "onboard_time": 1674137671,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63116,
+        "num": 63116,
+        "word": "深海",
+        "onboard_time": 1674134551,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63002,
+        "num": 63002,
+        "word": "liz 胖了",
+        "onboard_time": 1674133707,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62926,
+        "num": 62926,
+        "word": "快乐再出发",
+        "onboard_time": 1674137912,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62135,
+        "num": 62135,
+        "word": "河北全面推行婚俗改革",
+        "onboard_time": 1674139052,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62062,
+        "num": 62062,
+        "word": "三体第八集",
+        "onboard_time": 1674170418,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春祝福来了#"
+    }
+  }
+}
