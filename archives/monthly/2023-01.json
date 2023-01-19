@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674112613189,
+  "endTime": 1674113626977,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -6491,6 +6491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 837975,
+      "num": 837975,
+      "word": "水果店老板发7万年终奖",
+      "onboard_time": 1674109047,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 836861,
       "num": 836861,
       "word": "赵丽颖兔年央视春晚第四次大联排",
@@ -7049,6 +7057,14 @@
       "onboard_time": 1672739669,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 794558,
+      "num": 794558,
+      "word": "萧亚轩说正在偷吃麻辣花生",
+      "onboard_time": 1674110726,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 794500,
@@ -8099,6 +8115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 727999,
+      "num": 727999,
+      "word": "7岁男孩打游戏花掉妹妹3万手术费",
+      "onboard_time": 1674108927,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 726804,
       "num": 726804,
       "word": "尼泊尔坠毁飞机上含10名外国人",
@@ -8699,14 +8723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 688843,
-      "num": 523531,
-      "word": "萧亚轩说正在偷吃麻辣花生",
-      "onboard_time": 1674110726,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 687887,
       "num": 221013,
       "word": "郑秀妍去看了BLACKPINK演唱会",
@@ -8824,14 +8840,6 @@
       "word": "春节会形成群体免疫吗",
       "onboard_time": 1672574850,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 681383,
-      "num": 681383,
-      "word": "水果店老板发7万年终奖",
-      "onboard_time": 1674109047,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -9963,14 +9971,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 628382,
-      "num": 628382,
-      "word": "7岁男孩打游戏花掉妹妹3万手术费",
-      "onboard_time": 1674108927,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 628337,
       "num": 628337,
       "word": "张颜齐上台忘了撕暖宝宝",
@@ -10009,6 +10009,14 @@
       "onboard_time": 1673849612,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 626209,
+      "num": 626209,
+      "word": "狗狗在村里穿衣服有多丢脸",
+      "onboard_time": 1674109707,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 626125,
@@ -10641,6 +10649,14 @@
       "onboard_time": 1673171850,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594871,
+      "num": 594871,
+      "word": "鲍蕾说跟父母住优点大过缺点",
+      "onboard_time": 1674111207,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 594825,
@@ -11659,6 +11675,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 562625,
+      "num": 562625,
+      "word": "姚润昊",
+      "onboard_time": 1674108387,
+      "rank": 19,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 562403,
       "num": 322530,
       "word": "王鹤棣戴耳环",
@@ -12451,14 +12475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 532693,
-      "num": 532693,
-      "word": "姚润昊",
-      "onboard_time": 1674108387,
-      "rank": 19,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 531573,
       "num": 531573,
       "word": "新娘婚纱配皮草有多惊艳",
@@ -12849,14 +12865,6 @@
       "onboard_time": 1672723831,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 518176,
-      "num": 405657,
-      "word": "鲍蕾说跟父母住优点大过缺点",
-      "onboard_time": 1674111207,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 517842,
@@ -13417,14 +13425,6 @@
       "onboard_time": 1673837727,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 504205,
-      "num": 504205,
-      "word": "狗狗在村里穿衣服有多丢脸",
-      "onboard_time": 1674109707,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 504187,
@@ -15137,6 +15137,14 @@
       "onboard_time": 1673310027,
       "rank": 19,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 453050,
+      "num": 453050,
+      "word": "叠纸",
+      "onboard_time": 1674110067,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 452922,
@@ -19019,14 +19027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 372200,
-      "num": 372200,
-      "word": "叠纸",
-      "onboard_time": 1674110067,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 371534,
       "num": 242455,
       "word": "万千星辉颁奖典礼2022",
@@ -20321,6 +20321,14 @@
       "onboard_time": 1673105073,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350318,
+      "num": 350318,
+      "word": "三体豆瓣评分8.0",
+      "onboard_time": 1674111807,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 350305,
@@ -22939,6 +22947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313751,
+      "num": 254438,
+      "word": "沙溢说看完流浪地球2不再羡慕别人",
+      "onboard_time": 1674112766,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 313433,
       "num": 265642,
       "word": "丁程鑫台下拥抱何炅",
@@ -24347,14 +24363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 294430,
-      "num": 294430,
-      "word": "三体豆瓣评分8.0",
-      "onboard_time": 1674111807,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 294173,
       "num": 183574,
       "word": "许红豆人家图我大美女",
@@ -25147,6 +25155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284824,
+      "num": 282446,
+      "word": "你接受婚后和父母住在一起吗",
+      "onboard_time": 1674110428,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284706,
       "num": 284706,
       "word": "傻子瓜子创始人年广九逝世",
@@ -25345,14 +25361,6 @@
       "onboard_time": 1673098411,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 282446,
-      "num": 282446,
-      "word": "你接受婚后和父母住在一起吗",
-      "onboard_time": 1674110428,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 282395,
@@ -26920,6 +26928,14 @@
       "word": "肖铎宠妻狂魔",
       "onboard_time": 1672709185,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 267212,
+      "num": 227673,
+      "word": "易烊千玺演的满江红从头笑到尾",
+      "onboard_time": 1674112828,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -28859,6 +28875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 246948,
+      "num": 246948,
+      "word": "TheShy宁王握手",
+      "onboard_time": 1674111087,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 246906,
       "num": 206978,
       "word": "谢广坤作了17年妖了",
@@ -29081,6 +29105,14 @@
       "onboard_time": 1673326412,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244520,
+      "num": 244520,
+      "word": "千万别相信长沙的livehouse",
+      "onboard_time": 1674111565,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 244437,
@@ -32835,14 +32867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 203004,
-      "num": 203004,
-      "word": "TheShy宁王握手",
-      "onboard_time": 1674111087,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 202976,
       "num": 202976,
       "word": "当代年轻人对crush的定义",
@@ -34193,14 +34217,6 @@
       "onboard_time": 1673256747,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190927,
-      "num": 190927,
-      "word": "千万别相信长沙的livehouse",
-      "onboard_time": 1674111565,
-      "rank": 38,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 190860,
@@ -37915,6 +37931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162584,
+      "num": 162584,
+      "word": "华晨宇为新歌录了100多轨和声",
+      "onboard_time": 1674113427,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162439,
       "num": 181425,
       "word": "爸爸比孩子玩的开心",
@@ -38377,6 +38401,14 @@
       "onboard_time": 1673148150,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158533,
+      "num": 147142,
+      "word": "三体评分8.0你觉得合理吗",
+      "onboard_time": 1674113006,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 158525,
@@ -39699,6 +39731,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 146042,
+      "num": 146042,
+      "word": "东北过年时的氛围感",
+      "onboard_time": 1674113247,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146008,
       "num": 146008,
       "word": "BLG对战FPX",
@@ -39761,6 +39801,14 @@
       "onboard_time": 1673850391,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145182,
+      "num": 232495,
+      "word": "国务院联防联控机制举行新闻发布会",
+      "onboard_time": 1674112944,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 145090,
@@ -40241,6 +40289,14 @@
       "onboard_time": 1673919864,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141324,
+      "num": 141324,
+      "word": "小浣熊能有什么坏心思",
+      "onboard_time": 1674113006,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 141274,
@@ -41513,6 +41569,14 @@
       "onboard_time": 1673673507,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129734,
+      "num": 129734,
+      "word": "黄晓明给邓萌发offer",
+      "onboard_time": 1674113607,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 129712,
@@ -46404,7 +46468,7 @@
     },
     {
       "raw_hot": 46377,
-      "num": 433224,
+      "num": 471453,
       "word": "微博音乐盛典明星下车氛围感",
       "onboard_time": 1674110008,
       "rank": 14,

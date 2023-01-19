@@ -1,0 +1,410 @@
+{
+  "runTime": 1674113626977,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1503400,
+        "num": 1503400,
+        "word": "南京南站",
+        "onboard_time": 1674107965,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837975,
+        "num": 837975,
+        "word": "水果店老板发7万年终奖",
+        "onboard_time": 1674109047,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66332,
+        "num": 799274,
+        "word": "人间烟火处年味渐浓时",
+        "onboard_time": 1674104428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1507757,
+        "num": 799006,
+        "word": "王一博成为乐华娱乐股东",
+        "onboard_time": 1674101965,
+        "rank": 3,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 906630,
+        "num": 798938,
+        "word": "男子理发时耳朵被剪掉一块肉",
+        "onboard_time": 1674107725,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796767,
+        "num": 796767,
+        "word": "鲍蕾说从上学的时候陆毅的钱就在我这",
+        "onboard_time": 1674107247,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 794558,
+        "num": 794558,
+        "word": "萧亚轩说正在偷吃麻辣花生",
+        "onboard_time": 1674110726,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 727999,
+        "num": 727999,
+        "word": "7岁男孩打游戏花掉妹妹3万手术费",
+        "onboard_time": 1674108927,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692046,
+        "num": 692046,
+        "word": "林书豪宣布已婚",
+        "onboard_time": 1674099447,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 626209,
+        "num": 626209,
+        "word": "狗狗在村里穿衣服有多丢脸",
+        "onboard_time": 1674109707,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 688295,
+        "num": 620513,
+        "word": "杜华前半生韩庚后半生王一博",
+        "onboard_time": 1674101965,
+        "rank": 10,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 594871,
+        "num": 594871,
+        "word": "鲍蕾说跟父母住优点大过缺点",
+        "onboard_time": 1674111207,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 562625,
+        "num": 562625,
+        "word": "姚润昊",
+        "onboard_time": 1674108387,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 479810,
+        "num": 479810,
+        "word": "程潇 乐华",
+        "onboard_time": 1674101847,
+        "rank": 13,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 45909,
+        "num": 471453,
+        "word": "微博音乐盛典明星下车氛围感",
+        "onboard_time": 1674110008,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 470143,
+        "num": 470143,
+        "word": "张天爱金发",
+        "onboard_time": 1674108145,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 453050,
+        "num": 453050,
+        "word": "叠纸",
+        "onboard_time": 1674110067,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 461896,
+        "num": 451904,
+        "word": "郑恺苗苗领证卡点1314",
+        "onboard_time": 1674104726,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450047,
+        "num": 450047,
+        "word": "大侦探",
+        "onboard_time": 1674111867,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399004,
+        "num": 399004,
+        "word": "福兔",
+        "onboard_time": 1674090204,
+        "rank": 19,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 647836,
+        "num": 397980,
+        "word": "乐华依靠王一博还能走多久",
+        "onboard_time": 1674105869,
+        "rank": 20,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 366886,
+        "num": 366886,
+        "word": "陈钰琪说我不喜欢粉色太娘了",
+        "onboard_time": 1674098966,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350318,
+        "num": 350318,
+        "word": "三体豆瓣评分8.0",
+        "onboard_time": 1674111807,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270273,
+        "num": 270273,
+        "word": "男子去世后好友连续3年给其父母拜年",
+        "onboard_time": 1674106707,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343407,
+        "num": 258621,
+        "word": "田曦薇回应红毯变脸",
+        "onboard_time": 1674101308,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313751,
+        "num": 254438,
+        "word": "沙溢说看完流浪地球2不再羡慕别人",
+        "onboard_time": 1674112766,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246948,
+        "num": 246948,
+        "word": "TheShy宁王握手",
+        "onboard_time": 1674111087,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244520,
+        "num": 244520,
+        "word": "千万别相信长沙的livehouse",
+        "onboard_time": 1674111565,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 244441,
+        "num": 244441,
+        "word": "Hero 大名单",
+        "onboard_time": 1674111207,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145182,
+        "num": 232495,
+        "word": "国务院联防联控机制举行新闻发布会",
+        "onboard_time": 1674112944,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 284824,
+        "num": 229576,
+        "word": "你接受婚后和父母住在一起吗",
+        "onboard_time": 1674110428,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267212,
+        "num": 227673,
+        "word": "易烊千玺演的满江红从头笑到尾",
+        "onboard_time": 1674112828,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224562,
+        "num": 224562,
+        "word": "东北大哥8小时狂炫40斤砂糖橘",
+        "onboard_time": 1674104366,
+        "rank": 32,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 214725,
+        "num": 214725,
+        "word": "突然明白父母为什么节俭了",
+        "onboard_time": 1674098787,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203393,
+        "num": 203393,
+        "word": "女子带婆婆注销亡夫户口痛哭不止",
+        "onboard_time": 1674092845,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191595,
+        "num": 191595,
+        "word": "乐华上市首日涨幅扩大至50%",
+        "onboard_time": 1674104788,
+        "rank": 35,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 175442,
+        "num": 175442,
+        "word": "NCTDREAM演唱会官宣中国香港场",
+        "onboard_time": 1674108387,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172366,
+        "num": 172366,
+        "word": "肖战的兔卡是好运卡",
+        "onboard_time": 1674104428,
+        "rank": 37,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 170744,
+        "num": 170744,
+        "word": "看得出来猫咪真的很冤枉",
+        "onboard_time": 1674111385,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162584,
+        "num": 162584,
+        "word": "华晨宇为新歌录了100多轨和声",
+        "onboard_time": 1674113427,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159891,
+        "num": 159891,
+        "word": "秦霄贤说徐梦洁不是装呆是真呆",
+        "onboard_time": 1674110245,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158952,
+        "num": 158952,
+        "word": "钟欣潼谭维维于文文刘恋合照",
+        "onboard_time": 1674112165,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147827,
+        "num": 147827,
+        "word": "转发这个杜华",
+        "onboard_time": 1674107005,
+        "rank": 42,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 158533,
+        "num": 147142,
+        "word": "三体评分8.0你觉得合理吗",
+        "onboard_time": 1674113006,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153315,
+        "num": 146898,
+        "word": "沈月周洁琼谈交友磁场",
+        "onboard_time": 1674111207,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146042,
+        "num": 146042,
+        "word": "东北过年时的氛围感",
+        "onboard_time": 1674113247,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145581,
+        "num": 145581,
+        "word": "乐华上市",
+        "onboard_time": 1674092485,
+        "rank": 46,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 144678,
+        "num": 144678,
+        "word": "流浪地球2会是中国科幻片天花板吗",
+        "onboard_time": 1674105028,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141324,
+        "num": 141324,
+        "word": "小浣熊能有什么坏心思",
+        "onboard_time": 1674113006,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 129734,
+        "num": 129734,
+        "word": "黄晓明给邓萌发offer",
+        "onboard_time": 1674113607,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春祝福来了#"
+    }
+  }
+}

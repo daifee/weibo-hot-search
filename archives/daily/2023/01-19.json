@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674112613189,
+  "endTime": 1674113626977,
   "band_list": [
     {
       "raw_hot": 2832749,
@@ -179,6 +179,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 837975,
+      "num": 837975,
+      "word": "水果店老板发7万年终奖",
+      "onboard_time": 1674109047,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 828307,
       "num": 828307,
       "word": "鲍蕾说从上学的时候陆毅的钱就在我这",
@@ -209,6 +217,14 @@
       "onboard_time": 1674054269,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794558,
+      "num": 794558,
+      "word": "萧亚轩说正在偷吃麻辣花生",
+      "onboard_time": 1674110726,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 763137,
@@ -243,28 +259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727999,
+      "num": 727999,
+      "word": "7岁男孩打游戏花掉妹妹3万手术费",
+      "onboard_time": 1674108927,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 726550,
       "num": 726550,
       "word": "突然明白父母为什么节俭了",
       "onboard_time": 1674098787,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 688843,
-      "num": 523531,
-      "word": "萧亚轩说正在偷吃麻辣花生",
-      "onboard_time": 1674110726,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 681383,
-      "num": 681383,
-      "word": "水果店老板发7万年终奖",
-      "onboard_time": 1674109047,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 677786,
@@ -275,20 +283,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 628382,
-      "num": 628382,
-      "word": "7岁男孩打游戏花掉妹妹3万手术费",
-      "onboard_time": 1674108927,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 628337,
       "num": 628337,
       "word": "张颜齐上台忘了撕暖宝宝",
       "onboard_time": 1674085461,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 626209,
+      "num": 626209,
+      "word": "狗狗在村里穿衣服有多丢脸",
+      "onboard_time": 1674109707,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 609569,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 594871,
+      "num": 594871,
+      "word": "鲍蕾说跟父母住优点大过缺点",
+      "onboard_time": 1674111207,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 584859,
       "num": 584859,
       "word": "新年和肖战一起奔赴热爱",
@@ -329,6 +345,14 @@
       "onboard_time": 1674104788,
       "rank": 19,
       "category": "财经,艺人"
+    },
+    {
+      "raw_hot": 562625,
+      "num": 562625,
+      "word": "姚润昊",
+      "onboard_time": 1674108387,
+      "rank": 19,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 561549,
@@ -363,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 532693,
-      "num": 532693,
-      "word": "姚润昊",
-      "onboard_time": 1674108387,
-      "rank": 19,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 519586,
       "num": 285763,
       "word": "程耳通过黄磊认识王一博",
@@ -379,28 +395,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 518176,
-      "num": 405657,
-      "word": "鲍蕾说跟父母住优点大过缺点",
-      "onboard_time": 1674111207,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 506153,
       "num": 506153,
       "word": "好欢螺",
       "onboard_time": 1674045031,
       "rank": 4,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 504205,
-      "num": 504205,
-      "word": "狗狗在村里穿衣服有多丢脸",
-      "onboard_time": 1674109707,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 493314,
@@ -449,6 +449,22 @@
       "onboard_time": 1674079873,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453050,
+      "num": 453050,
+      "word": "叠纸",
+      "onboard_time": 1674110067,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 450047,
+      "num": 450047,
+      "word": "大侦探",
+      "onboard_time": 1674111867,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 435999,
@@ -531,14 +547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372200,
-      "num": 372200,
-      "word": "叠纸",
-      "onboard_time": 1674110067,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 355695,
       "num": 339601,
       "word": "西藏一隧道出口雪崩已致8人遇难",
@@ -553,6 +561,14 @@
       "onboard_time": 1674100167,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 350318,
+      "num": 350318,
+      "word": "三体豆瓣评分8.0",
+      "onboard_time": 1674111807,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 349615,
@@ -585,14 +601,6 @@
       "onboard_time": 1674094526,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 338260,
-      "num": 338260,
-      "word": "大侦探",
-      "onboard_time": 1674111867,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 333315,
@@ -632,6 +640,14 @@
       "word": "王一博无名换了很多条领带",
       "onboard_time": 1674099325,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 313751,
+      "num": 254438,
+      "word": "沙溢说看完流浪地球2不再羡慕别人",
+      "onboard_time": 1674112766,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -675,14 +691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 294430,
-      "num": 294430,
-      "word": "三体豆瓣评分8.0",
-      "onboard_time": 1674111807,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 293394,
       "num": 293394,
       "word": "狂飙第一个内鬼",
@@ -715,7 +723,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282446,
+      "raw_hot": 284824,
       "num": 282446,
       "word": "你接受婚后和父母住在一起吗",
       "onboard_time": 1674110428,
@@ -761,6 +769,14 @@
       "onboard_time": 1674086423,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 267212,
+      "num": 227673,
+      "word": "易烊千玺演的满江红从头笑到尾",
+      "onboard_time": 1674112828,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 265904,
@@ -825,6 +841,22 @@
       "onboard_time": 1674101788,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246948,
+      "num": 246948,
+      "word": "TheShy宁王握手",
+      "onboard_time": 1674111087,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 244520,
+      "num": 244520,
+      "word": "千万别相信长沙的livehouse",
+      "onboard_time": 1674111565,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 241350,
@@ -947,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203004,
-      "num": 203004,
-      "word": "TheShy宁王握手",
-      "onboard_time": 1674111087,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 202444,
       "num": 202444,
       "word": "沈月周洁琼谈交友磁场",
@@ -1025,14 +1049,6 @@
       "onboard_time": 1674101666,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190927,
-      "num": 190927,
-      "word": "千万别相信长沙的livehouse",
-      "onboard_time": 1674111565,
-      "rank": 38,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 189956,
@@ -1267,12 +1283,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162584,
+      "num": 162584,
+      "word": "华晨宇为新歌录了100多轨和声",
+      "onboard_time": 1674113427,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159001,
       "num": 159001,
       "word": "原来谐音梗才是年夜饭最大赢家",
       "onboard_time": 1674095665,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158533,
+      "num": 147142,
+      "word": "三体评分8.0你觉得合理吗",
+      "onboard_time": 1674113006,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 155616,
@@ -1363,6 +1395,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146042,
+      "num": 146042,
+      "word": "东北过年时的氛围感",
+      "onboard_time": 1674113247,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 145182,
+      "num": 232495,
+      "word": "国务院联防联控机制举行新闻发布会",
+      "onboard_time": 1674112944,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 145032,
       "num": 145032,
       "word": "铁路南京站回应候车大厅没插座",
@@ -1385,6 +1433,14 @@
       "onboard_time": 1674108145,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 141324,
+      "num": 141324,
+      "word": "小浣熊能有什么坏心思",
+      "onboard_time": 1674113006,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 137741,
@@ -1449,6 +1505,14 @@
       "onboard_time": 1674108987,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129734,
+      "num": 129734,
+      "word": "黄晓明给邓萌发offer",
+      "onboard_time": 1674113607,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 128325,
@@ -1788,7 +1852,7 @@
     },
     {
       "raw_hot": 46377,
-      "num": 433224,
+      "num": 471453,
       "word": "微博音乐盛典明星下车氛围感",
       "onboard_time": 1674110008,
       "rank": 14,
