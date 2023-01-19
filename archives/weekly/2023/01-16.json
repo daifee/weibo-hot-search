@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674105445849,
+  "endTime": 1674106406918,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2543491,
-      "num": 660498,
+      "num": 701498,
       "word": "王一博成为乐华娱乐股东",
       "onboard_time": 1674101965,
       "rank": 10,
@@ -683,20 +683,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1183161,
+      "num": 1183161,
+      "word": "福兔",
+      "onboard_time": 1673846610,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1168560,
       "num": 1168560,
       "word": "王鹤棣首部电影定档",
       "onboard_time": 1673842649,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1161585,
-      "num": 1161585,
-      "word": "福兔",
-      "onboard_time": 1673846610,
-      "rank": 12,
-      "category": "科技"
     },
     {
       "raw_hot": 1159976,
@@ -1491,6 +1491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 721227,
+      "num": 252289,
+      "word": "乐华依靠王一博还能走多久",
+      "onboard_time": 1674105869,
+      "rank": 20,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 721085,
       "num": 647532,
       "word": "GAI和严浩翔打招呼",
@@ -1713,6 +1721,14 @@
       "onboard_time": 1673914947,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 666405,
+      "num": 666405,
+      "word": "东北大哥8小时狂炫40斤砂糖橘",
+      "onboard_time": 1674104366,
+      "rank": 17,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 662798,
@@ -2003,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 608388,
+      "num": 608388,
+      "word": "田曦薇回应红毯变脸",
+      "onboard_time": 1674101308,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 606147,
       "num": 606147,
       "word": "IG登场",
@@ -2201,6 +2225,14 @@
       "onboard_time": 1674003868,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566147,
+      "num": 281303,
+      "word": "乐华上市首日涨幅扩大至50%",
+      "onboard_time": 1674104788,
+      "rank": 19,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 565723,
@@ -2507,14 +2539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 499829,
-      "num": 281303,
-      "word": "乐华上市首日涨幅扩大至50%",
-      "onboard_time": 1674104788,
-      "rank": 19,
-      "category": "财经,艺人"
-    },
-    {
       "raw_hot": 497796,
       "num": 497796,
       "word": "肖战工作花絮照六宫格",
@@ -2667,6 +2691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 480456,
+      "num": 480456,
+      "word": "郑恺苗苗领证卡点1314",
+      "onboard_time": 1674104726,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477200,
       "num": 477200,
       "word": "丁程鑫向马嘉祺推销北电校服",
@@ -2681,14 +2713,6 @@
       "onboard_time": 1673887643,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 469740,
-      "num": 469740,
-      "word": "田曦薇回应红毯变脸",
-      "onboard_time": 1674101308,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 468577,
@@ -3073,6 +3097,14 @@
       "onboard_time": 1674039631,
       "rank": 30,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 412803,
+      "num": 412803,
+      "word": "流浪地球2会是中国科幻片天花板吗",
+      "onboard_time": 1674105028,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 412532,
@@ -3643,6 +3675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 353769,
+      "num": 353769,
+      "word": "偷吃被发现的小猫",
+      "onboard_time": 1674100167,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 353027,
       "num": 256048,
       "word": "岳云鹏孙越兔年央视春晚第四次大联排",
@@ -4123,14 +4163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 323277,
-      "num": 323277,
-      "word": "偷吃被发现的小猫",
-      "onboard_time": 1674100167,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 322859,
       "num": 229447,
       "word": "三体制片人谈王传君演技",
@@ -4513,14 +4545,6 @@
       "onboard_time": 1673872230,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296365,
-      "num": 296365,
-      "word": "东北大哥8小时狂炫40斤砂糖橘",
-      "onboard_time": 1674104366,
-      "rank": 17,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 295623,
@@ -5435,14 +5459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 248261,
-      "num": 248261,
-      "word": "流浪地球2会是中国科幻片天花板吗",
-      "onboard_time": 1674105028,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 248095,
       "num": 248095,
       "word": "你恨不起来的反派角色",
@@ -5707,6 +5723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233745,
+      "num": 171093,
+      "word": "Viper回忆EDG",
+      "onboard_time": 1674105448,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233563,
       "num": 233563,
       "word": "烧烤摊做错了什么",
@@ -5817,14 +5841,6 @@
       "onboard_time": 1674018025,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 228173,
-      "num": 228173,
-      "word": "郑恺苗苗领证卡点1314",
-      "onboard_time": 1674104726,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 227444,
@@ -6627,6 +6643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188802,
+      "num": 188802,
+      "word": "胡歌说闻善和他们的故事开始了",
+      "onboard_time": 1674105630,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188678,
       "num": 164211,
       "word": "少年歌行豆瓣涨至7.5分",
@@ -7235,8 +7259,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165266,
-      "num": 165266,
+      "raw_hot": 165271,
+      "num": 165271,
       "word": "年轻人过年的真实写照",
       "onboard_time": 1674102630,
       "rank": 45,
@@ -7539,6 +7563,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 153039,
+      "num": 153039,
+      "word": "徐明浩滑雪初学vlog",
+      "onboard_time": 1674106287,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152025,
       "num": 163504,
       "word": "理想汽车回应夜间驾车显示有人追车",
@@ -7585,6 +7617,14 @@
       "onboard_time": 1673933010,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149625,
+      "num": 149625,
+      "word": "如何看待体育明星的隐婚",
+      "onboard_time": 1674105984,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 149488,
@@ -7657,6 +7697,14 @@
       "onboard_time": 1674099205,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146536,
+      "num": 146536,
+      "word": "谢之遥预感书店建成就有老婆了",
+      "onboard_time": 1674105566,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 146452,
@@ -8251,6 +8299,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 117434,
+      "num": 117434,
+      "word": "2023东方卫视春晚第三波阵容官宣",
+      "onboard_time": 1674105869,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117212,
       "num": 117212,
       "word": "冰尘转会滔搏",
@@ -8289,6 +8345,14 @@
       "onboard_time": 1673959408,
       "rank": 43,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 115453,
+      "num": 115453,
+      "word": "WE小新回归",
+      "onboard_time": 1674105507,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 115110,
@@ -8588,7 +8652,7 @@
     },
     {
       "raw_hot": 98454,
-      "num": 696245,
+      "num": 728685,
       "word": "人间烟火处年味渐浓时",
       "onboard_time": 1674104428,
       "rank": 2,
