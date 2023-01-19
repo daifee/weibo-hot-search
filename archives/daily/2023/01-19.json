@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674135438987,
+  "endTime": 1674137904264,
   "band_list": [
     {
       "raw_hot": 2832749,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1580370,
+      "num": 1580370,
+      "word": "蒲熠星 淘汰",
+      "onboard_time": 1674135089,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1579432,
       "num": 378198,
       "word": "陈泗旭 聊天记录",
@@ -89,6 +97,14 @@
       "onboard_time": 1674092845,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1424828,
+      "num": 523251,
+      "word": "山东多人婚闹压着新郎新娘叠罗汉",
+      "onboard_time": 1674132207,
+      "rank": 28,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1409256,
@@ -155,20 +171,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1043441,
-      "num": 523251,
-      "word": "山东多人婚闹压着新郎新娘叠罗汉",
-      "onboard_time": 1674132207,
-      "rank": 28,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1037315,
       "num": 787925,
       "word": "陈乔恩结婚没有通知经纪人",
       "onboard_time": 1674117326,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1003385,
+      "num": 1003385,
+      "word": "深海",
+      "onboard_time": 1674134551,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1002535,
@@ -323,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 812524,
-      "num": 812524,
-      "word": "深海",
-      "onboard_time": 1674134551,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 810519,
       "num": 810519,
       "word": "邓超春晚彩排的社牛行为",
@@ -385,6 +393,14 @@
       "onboard_time": 1674092064,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 748731,
+      "num": 428093,
+      "word": "这哪叫自建房这叫自建府",
+      "onboard_time": 1674135448,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 745712,
@@ -481,6 +497,14 @@
       "onboard_time": 1674111207,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 639840,
+      "num": 184726,
+      "word": "警方通报浙江平阳1男子持刀行凶致6死",
+      "onboard_time": 1674136591,
+      "rank": 33,
+      "category": "社会负面"
     },
     {
       "raw_hot": 628337,
@@ -587,6 +611,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 561875,
+      "num": 561875,
+      "word": "余秀华",
+      "onboard_time": 1674133830,
+      "rank": 16,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 561549,
       "num": 527136,
       "word": "强国交通APP与交通运输部无关",
@@ -667,14 +699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 499596,
-      "num": 499596,
-      "word": "余秀华",
-      "onboard_time": 1674133830,
-      "rank": 16,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 499031,
       "num": 499031,
       "word": "谢娜也在看少爷和我",
@@ -747,6 +771,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 454736,
+      "num": 427718,
+      "word": "蓝环章鱼后又现毒螃蟹",
+      "onboard_time": 1674136110,
+      "rank": 14,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 453864,
       "num": 453864,
       "word": "单亲妈妈5年没回家过年",
@@ -811,12 +843,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427616,
+      "num": 427616,
+      "word": "文韬 逆风翻盘",
+      "onboard_time": 1674135750,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 422145,
       "num": 422145,
       "word": "近30年来日本男性越长越矮",
       "onboard_time": 1674095184,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421317,
+      "num": 421317,
+      "word": "流浪地球2首波观众是科学家",
+      "onboard_time": 1674132569,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 420782,
@@ -851,12 +899,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 393465,
-      "num": 393465,
-      "word": "流浪地球2首波观众是科学家",
-      "onboard_time": 1674132569,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 409894,
+      "num": 409894,
+      "word": "暴食一天能吃下多少东西",
+      "onboard_time": 1674134851,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 388901,
@@ -865,14 +913,6 @@
       "onboard_time": 1674091824,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 387889,
-      "num": 387889,
-      "word": "蒲熠星 淘汰",
-      "onboard_time": 1674135089,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 383901,
@@ -1011,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340471,
+      "num": 340471,
+      "word": "gidle 造型",
+      "onboard_time": 1674137430,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 337600,
       "num": 337600,
       "word": "过年串门千万要这么穿",
@@ -1073,6 +1121,14 @@
       "onboard_time": 1674123684,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 315665,
+      "num": 250086,
+      "word": "iboy送外卖",
+      "onboard_time": 1674136531,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 314925,
@@ -1163,6 +1219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 297436,
+      "num": 297436,
+      "word": "大张伟是河南春晚气氛担当",
+      "onboard_time": 1674135448,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297124,
       "num": 297124,
       "word": "张小斐唱逆光跑调听愣雷佳音",
@@ -1177,6 +1241,14 @@
       "onboard_time": 1674041249,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292995,
+      "num": 292995,
+      "word": "南宁兔子意外走红成网红表情包",
+      "onboard_time": 1674134551,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292747,
@@ -1257,6 +1329,14 @@
       "onboard_time": 1674114328,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272926,
+      "num": 272926,
+      "word": "女子花5小时打包17只哈士奇回老家",
+      "onboard_time": 1674133590,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271929,
@@ -1347,12 +1427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260828,
+      "num": 260828,
+      "word": "许红豆回云苗村创业了",
+      "onboard_time": 1674132991,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258597,
       "num": 211404,
       "word": "张艺兴新歌财神到预告",
       "onboard_time": 1674116486,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 253362,
+      "num": 253362,
+      "word": "年度路人帅哥",
+      "onboard_time": 1674135569,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 251974,
@@ -1409,14 +1505,6 @@
       "onboard_time": 1674130949,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246129,
-      "num": 258828,
-      "word": "女子花5小时打包17只哈士奇回老家",
-      "onboard_time": 1674133590,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241350,
@@ -1617,14 +1705,6 @@
       "onboard_time": 1674111207,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 202397,
-      "num": 202397,
-      "word": "许红豆回云苗村创业了",
-      "onboard_time": 1674132991,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 201024,
@@ -1937,6 +2017,14 @@
       "onboard_time": 1674108746,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175883,
+      "num": 175883,
+      "word": "过年时有个满级长辈是什么体验",
+      "onboard_time": 1674137853,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 175557,
@@ -2323,14 +2411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 143545,
-      "num": 156034,
-      "word": "暴食一天能吃下多少东西",
-      "onboard_time": 1674134851,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 143157,
       "num": 143157,
       "word": "中金公司回应十大预测错九个",
@@ -2419,14 +2499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135736,
-      "num": 154526,
-      "word": "南宁兔子意外走红成网红表情包",
-      "onboard_time": 1674134551,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135569,
       "num": 116936,
       "word": "张若昀大侦探森林进化论剧照",
@@ -2491,12 +2563,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131081,
+      "num": 131081,
+      "word": "岳云鹏 有梗",
+      "onboard_time": 1674135811,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129734,
       "num": 129734,
       "word": "黄晓明给邓萌发offer",
       "onboard_time": 1674113607,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129093,
+      "num": 129093,
+      "word": "白敬亭新剧南来北往铲雪路透",
+      "onboard_time": 1674133229,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 128325,
@@ -2539,6 +2627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124488,
+      "num": 124488,
+      "word": "烟花",
+      "onboard_time": 1674136648,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124132,
       "num": 124132,
       "word": "爱笑外卖大姐新年愿望是上大学",
@@ -2571,12 +2667,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122714,
+      "num": 122714,
+      "word": "千万别帮广东人大扫除",
+      "onboard_time": 1674137671,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121906,
       "num": 119146,
       "word": "纽约时报盛赞刘亦菲演的许红豆",
       "onboard_time": 1674040113,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121580,
+      "num": 121580,
+      "word": "才知道四喜丸子是哪四喜",
+      "onboard_time": 1674137793,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 121252,
@@ -2737,6 +2849,14 @@
       "onboard_time": 1674094706,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 100989,
+      "num": 1051608,
+      "word": "未感染人群怎么做好个人防护",
+      "onboard_time": 1674137191,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98565,
