@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674152617434,
+  "endTime": 1674153493300,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -10723,6 +10723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74378,
+      "num": 68587,
+      "word": "三体王子文演技爆发力",
+      "onboard_time": 1674151096,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 72943,
       "num": 181442,
       "word": "狼队Fly现身米兰看秀",
@@ -10809,14 +10817,6 @@
       "onboard_time": 1674060442,
       "rank": 45,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 68587,
-      "num": 68587,
-      "word": "三体王子文演技爆发力",
-      "onboard_time": 1674151096,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 68295,
@@ -10931,7 +10931,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 47491,
+      "raw_hot": 48153,
       "num": 45108,
       "word": "小琴说谢之遥又老又黑",
       "onboard_time": 1674152295,

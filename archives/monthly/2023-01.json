@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674152617434,
+  "endTime": 1674153493300,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -47291,6 +47291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74378,
+      "num": 68587,
+      "word": "三体王子文演技爆发力",
+      "onboard_time": 1674151096,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 74111,
       "num": 194580,
       "word": "勇士战胜马刺",
@@ -47433,14 +47441,6 @@
       "onboard_time": 1674060442,
       "rank": 45,
       "category": "音乐,幽默"
-    },
-    {
-      "raw_hot": 68587,
-      "num": 68587,
-      "word": "三体王子文演技爆发力",
-      "onboard_time": 1674151096,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 68241,
@@ -47867,20 +47867,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 48153,
+      "num": 45108,
+      "word": "小琴说谢之遥又老又黑",
+      "onboard_time": 1674152295,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 48135,
       "num": 48135,
       "word": "车保罗说只要我还是演员就很骄傲",
       "onboard_time": 1673129174,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 47491,
-      "num": 45108,
-      "word": "小琴说谢之遥又老又黑",
-      "onboard_time": 1674152295,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 46615,
