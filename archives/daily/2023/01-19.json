@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674134783242,
+  "endTime": 1674135438987,
   "band_list": [
     {
       "raw_hot": 2832749,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1770166,
-      "num": 478087,
+      "num": 535785,
       "word": "王一博脸上青春痘都比你好看",
       "onboard_time": 1674134668,
       "rank": 10,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1043441,
+      "num": 523251,
+      "word": "山东多人婚闹压着新郎新娘叠罗汉",
+      "onboard_time": 1674132207,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1037315,
       "num": 787925,
       "word": "陈乔恩结婚没有通知经纪人",
@@ -211,14 +219,6 @@
       "category": "艺人,财经"
     },
     {
-      "raw_hot": 945050,
-      "num": 464715,
-      "word": "山东多人婚闹压着新郎新娘叠罗汉",
-      "onboard_time": 1674132207,
-      "rank": 28,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 941311,
       "num": 627710,
       "word": "程潇 乐华",
@@ -241,6 +241,14 @@
       "onboard_time": 1674096503,
       "rank": 46,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 898256,
+      "num": 898256,
+      "word": "liz 胖了",
+      "onboard_time": 1674133707,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 866822,
@@ -312,6 +320,14 @@
       "word": "三体 脱水",
       "onboard_time": 1674049593,
       "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 812524,
+      "num": 812524,
+      "word": "深海",
+      "onboard_time": 1674134551,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -419,14 +435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 722650,
-      "num": 722650,
-      "word": "liz 胖了",
-      "onboard_time": 1674133707,
-      "rank": 5,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 712411,
       "num": 712411,
       "word": "河南春晚",
@@ -523,6 +531,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 595229,
+      "num": 595229,
+      "word": "女子花380元买到可拆卸苹果树",
+      "onboard_time": 1674131068,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588545,
+      "num": 588545,
+      "word": "岳云鹏主持笑场",
+      "onboard_time": 1674134068,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 584859,
       "num": 584859,
       "word": "新年和肖战一起奔赴热爱",
@@ -545,22 +569,6 @@
       "onboard_time": 1674118646,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 568840,
-      "num": 568840,
-      "word": "深海",
-      "onboard_time": 1674134551,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 566731,
-      "num": 566731,
-      "word": "女子花380元买到可拆卸苹果树",
-      "onboard_time": 1674131068,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 566147,
@@ -659,6 +667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 499596,
+      "num": 499596,
+      "word": "余秀华",
+      "onboard_time": 1674133830,
+      "rank": 16,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 499031,
       "num": 499031,
       "word": "谢娜也在看少爷和我",
@@ -681,6 +697,14 @@
       "onboard_time": 1674104428,
       "rank": 7,
       "category": "艺人,科技"
+    },
+    {
+      "raw_hot": 486947,
+      "num": 486947,
+      "word": "余秀华称前男友直播间对其人身威胁",
+      "onboard_time": 1674131790,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 484545,
@@ -771,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 431374,
-      "num": 431374,
-      "word": "余秀华称前男友直播间对其人身威胁",
-      "onboard_time": 1674131790,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 428342,
       "num": 428342,
       "word": "于和伟 卤煮好菜",
@@ -835,12 +851,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393465,
+      "num": 393465,
+      "word": "流浪地球2首波观众是科学家",
+      "onboard_time": 1674132569,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388901,
       "num": 388901,
       "word": "许红豆看钻石豪门",
       "onboard_time": 1674091824,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 387889,
+      "num": 387889,
+      "word": "蒲熠星 淘汰",
+      "onboard_time": 1674135089,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 383901,
@@ -915,14 +947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 353424,
-      "num": 353424,
-      "word": "余秀华",
-      "onboard_time": 1674133830,
-      "rank": 16,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 353412,
       "num": 353412,
       "word": "河南春晚官宣节目单",
@@ -944,14 +968,6 @@
       "word": "三体豆瓣评分8.0",
       "onboard_time": 1674111807,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 349957,
-      "num": 349957,
-      "word": "流浪地球2首波观众是科学家",
-      "onboard_time": 1674132569,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -993,14 +1009,6 @@
       "onboard_time": 1674094526,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 339984,
-      "num": 339984,
-      "word": "岳云鹏主持笑场",
-      "onboard_time": 1674134068,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 337600,
@@ -1403,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246129,
+      "num": 258828,
+      "word": "女子花5小时打包17只哈士奇回老家",
+      "onboard_time": 1674133590,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241350,
       "num": 241350,
       "word": "周震南父母被恢复执行5850万",
@@ -1603,6 +1619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202397,
+      "num": 202397,
+      "word": "许红豆回云苗村创业了",
+      "onboard_time": 1674132991,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201024,
       "num": 201024,
       "word": "张鲁一于和伟三体观后感",
@@ -1707,14 +1731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193067,
-      "num": 193067,
-      "word": "许红豆回云苗村创业了",
-      "onboard_time": 1674132991,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 192400,
       "num": 192400,
       "word": "2023KPL春季赛大名单",
@@ -1795,6 +1811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188425,
+      "num": 188425,
+      "word": "欧阳娜娜大提琴版绽放舞台",
+      "onboard_time": 1674135089,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186858,
       "num": 181613,
       "word": "程耳谈自己划分电影的标准",
@@ -1809,6 +1833,14 @@
       "onboard_time": 1674089185,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185816,
+      "num": 185816,
+      "word": "福气夜上天入海拜大年",
+      "onboard_time": 1674135210,
+      "rank": 31,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 185793,
@@ -1833,6 +1865,14 @@
       "onboard_time": 1674101428,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182009,
+      "num": 182009,
+      "word": "灯火版如愿",
+      "onboard_time": 1674134790,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 181712,
@@ -2099,12 +2139,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 160903,
-      "num": 160903,
-      "word": "女子花5小时打包17只哈士奇回老家",
-      "onboard_time": 1674133590,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 161387,
+      "num": 155739,
+      "word": "春晚进行时",
+      "onboard_time": 1674135269,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 159473,
@@ -2283,6 +2323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143545,
+      "num": 156034,
+      "word": "暴食一天能吃下多少东西",
+      "onboard_time": 1674134851,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 143157,
       "num": 143157,
       "word": "中金公司回应十大预测错九个",
@@ -2369,6 +2417,14 @@
       "onboard_time": 1674107725,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135736,
+      "num": 154526,
+      "word": "南宁兔子意外走红成网红表情包",
+      "onboard_time": 1674134551,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135569,
@@ -2681,14 +2737,6 @@
       "onboard_time": 1674094706,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 102888,
-      "num": 102888,
-      "word": "南宁兔子意外走红成网红表情包",
-      "onboard_time": 1674134551,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98565,

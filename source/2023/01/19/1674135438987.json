@@ -1,0 +1,410 @@
+{
+  "runTime": 1674135438987,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1360045,
+        "num": 1360045,
+        "word": "女子提前51天订房完美避开春节涨价",
+        "onboard_time": 1674129030,
+        "rank": 0,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 980626,
+        "num": 980626,
+        "word": "清华硕士称大厂2万月薪践踏学历",
+        "onboard_time": 1674127047,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 104568,
+        "num": 937014,
+        "word": "走那么远的路只为和你相拥",
+        "onboard_time": 1674125008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 898256,
+        "num": 898256,
+        "word": "liz 胖了",
+        "onboard_time": 1674133707,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 812524,
+        "num": 812524,
+        "word": "深海",
+        "onboard_time": 1674134551,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 698089,
+        "num": 698089,
+        "word": "陈乔恩说刘芸公然撒谎",
+        "onboard_time": 1674128306,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 685138,
+        "num": 685138,
+        "word": "爱吃砂糖橘和醋的都沉默了",
+        "onboard_time": 1674129389,
+        "rank": 6,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 595229,
+        "num": 595229,
+        "word": "女子花380元买到可拆卸苹果树",
+        "onboard_time": 1674131068,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588545,
+        "num": 588545,
+        "word": "岳云鹏主持笑场",
+        "onboard_time": 1674134068,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554003,
+        "num": 554003,
+        "word": "BLACKPINK首尔歌谣大赏本赏",
+        "onboard_time": 1674131369,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1640586,
+        "num": 535785,
+        "word": "王一博脸上青春痘都比你好看",
+        "onboard_time": 1674134668,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1043441,
+        "num": 523251,
+        "word": "山东多人婚闹压着新郎新娘叠罗汉",
+        "onboard_time": 1674132207,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 499596,
+        "num": 499596,
+        "word": "余秀华",
+        "onboard_time": 1674133830,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 486947,
+        "num": 486947,
+        "word": "余秀华称前男友直播间对其人身威胁",
+        "onboard_time": 1674131790,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409314,
+        "num": 409314,
+        "word": "这届年轻人开始报复性回家过年了",
+        "onboard_time": 1674125788,
+        "rank": 14,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 408291,
+        "num": 408291,
+        "word": "近期泰国检出德尔塔克戎毒株",
+        "onboard_time": 1674119605,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393465,
+        "num": 393465,
+        "word": "流浪地球2首波观众是科学家",
+        "onboard_time": 1674132569,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387889,
+        "num": 387889,
+        "word": "蒲熠星 淘汰",
+        "onboard_time": 1674135089,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326120,
+        "num": 326120,
+        "word": "兔年央视春晚第五次联排",
+        "onboard_time": 1674120087,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260550,
+        "num": 260550,
+        "word": "睡觉睡到耳朵失踪的狗狗",
+        "onboard_time": 1674131308,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316550,
+        "num": 260549,
+        "word": "河南春晚",
+        "onboard_time": 1674126448,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274500,
+        "num": 260502,
+        "word": "看狂飙 好想吃肠粉",
+        "onboard_time": 1674123684,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260283,
+        "num": 260283,
+        "word": "谢娜也在看少爷和我",
+        "onboard_time": 1674125668,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246129,
+        "num": 258828,
+        "word": "女子花5小时打包17只哈士奇回老家",
+        "onboard_time": 1674133590,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257939,
+        "num": 257939,
+        "word": "山东春晚",
+        "onboard_time": 1674129508,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248261,
+        "num": 248261,
+        "word": "韩国版西八区的姐妹们",
+        "onboard_time": 1674119849,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239134,
+        "num": 239134,
+        "word": "生肖卡",
+        "onboard_time": 1674122548,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 202397,
+        "num": 202397,
+        "word": "许红豆回云苗村创业了",
+        "onboard_time": 1674132991,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194803,
+        "num": 194803,
+        "word": "走亲戚会不会终止在00后",
+        "onboard_time": 1674118646,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191632,
+        "num": 191632,
+        "word": "当我去猫咖摸了几十只猫以后",
+        "onboard_time": 1674124049,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188425,
+        "num": 188425,
+        "word": "欧阳娜娜大提琴版绽放舞台",
+        "onboard_time": 1674135089,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185816,
+        "num": 185816,
+        "word": "福气夜上天入海拜大年",
+        "onboard_time": 1674135210,
+        "rank": 31,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 182009,
+        "num": 182009,
+        "word": "灯火版如愿",
+        "onboard_time": 1674134790,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177740,
+        "num": 177740,
+        "word": "辽宁化工厂爆炸事故已致12人死亡1人失联",
+        "onboard_time": 1674126747,
+        "rank": 33,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 166856,
+        "num": 166856,
+        "word": "河南春晚官宣节目单",
+        "onboard_time": 1674124707,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162617,
+        "num": 162617,
+        "word": "过年串门千万要这么穿",
+        "onboard_time": 1674124885,
+        "rank": 35,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 162283,
+        "num": 162283,
+        "word": "许红豆说云苗村是熟悉的空气的味道",
+        "onboard_time": 1674130949,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162268,
+        "num": 162268,
+        "word": "浮图缘",
+        "onboard_time": 1674133830,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156647,
+        "num": 156647,
+        "word": "33岁农妇金嗓子狂揽40万戏迷",
+        "onboard_time": 1674130287,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143545,
+        "num": 156034,
+        "word": "暴食一天能吃下多少东西",
+        "onboard_time": 1674134851,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161785,
+        "num": 155895,
+        "word": "刘耀文问马嘉祺你是丁程鑫请的托吗",
+        "onboard_time": 1674125366,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161387,
+        "num": 155739,
+        "word": "春晚进行时",
+        "onboard_time": 1674135269,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155444,
+        "num": 155444,
+        "word": "许嵩一边饮茶一边唱燕归巢",
+        "onboard_time": 1674121588,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135736,
+        "num": 154526,
+        "word": "南宁兔子意外走红成网红表情包",
+        "onboard_time": 1674134551,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154465,
+        "num": 154465,
+        "word": "首尔歌谣大赏",
+        "onboard_time": 1674118947,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149974,
+        "num": 149974,
+        "word": "时代少年团新时纪录片预告",
+        "onboard_time": 1674132569,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134210,
+        "num": 134210,
+        "word": "男子下车疑抽烟错过高铁跪地求开门",
+        "onboard_time": 1674118768,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122594,
+        "num": 122594,
+        "word": "8个月宝宝确诊溶血症全身换血6次",
+        "onboard_time": 1674114625,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117145,
+        "num": 117145,
+        "word": "为什么年轻人去KTV爱点老歌",
+        "onboard_time": 1674119728,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136665,
+        "num": 115931,
+        "word": "王鹤棣喜欢在篮球场上打王者",
+        "onboard_time": 1674132447,
+        "rank": 49,
+        "category": "游戏,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#疫情以来广大医务工作者作出了重大贡献#"
+    }
+  }
+}
