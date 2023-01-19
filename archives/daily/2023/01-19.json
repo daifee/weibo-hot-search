@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674096527975,
+  "endTime": 1674097084756,
   "band_list": [
     {
       "raw_hot": 2597438,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1440548,
-      "num": 467978,
+      "num": 545719,
       "word": "女子带婆婆注销亡夫户口痛哭不止",
       "onboard_time": 1674092845,
       "rank": 12,
@@ -67,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 952358,
+      "num": 543540,
+      "word": "王一博贡献乐华六成收入",
+      "onboard_time": 1674094646,
+      "rank": 4,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 929262,
       "num": 161997,
       "word": "过年千万别逼90后",
       "onboard_time": 1674086060,
       "rank": 26,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 875413,
-      "num": 454125,
-      "word": "王一博贡献乐华六成收入",
-      "onboard_time": 1674094646,
-      "rank": 4,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 863160,
@@ -163,12 +163,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 530996,
+      "num": 530996,
+      "word": "江西小县城相亲大会20男相1女",
+      "onboard_time": 1674095545,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506153,
       "num": 506153,
       "word": "好欢螺",
       "onboard_time": 1674045031,
       "rank": 4,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 501921,
+      "num": 501921,
+      "word": "新年和肖战一起奔赴热爱",
+      "onboard_time": 1674096386,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 493314,
+      "num": 493314,
+      "word": "90后女孩偷师自学2年成古籍修复师",
+      "onboard_time": 1674093145,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 481214,
@@ -200,14 +224,6 @@
       "word": "37岁离异女博士与小13岁吉他老师相恋",
       "onboard_time": 1674034706,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428239,
-      "num": 428239,
-      "word": "90后女孩偷师自学2年成古籍修复师",
-      "onboard_time": 1674093145,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -243,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 388686,
+      "num": 388686,
+      "word": "近30年来日本男性越长越矮",
+      "onboard_time": 1674095184,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383713,
       "num": 383713,
       "word": "徐杰",
@@ -273,14 +297,6 @@
       "onboard_time": 1674085881,
       "rank": 9,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 353091,
-      "num": 353091,
-      "word": "江西小县城相亲大会20男相1女",
-      "onboard_time": 1674095545,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348979,
@@ -353,22 +369,6 @@
       "onboard_time": 1674056968,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 298616,
-      "num": 298616,
-      "word": "近30年来日本男性越长越矮",
-      "onboard_time": 1674095184,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294206,
-      "num": 294206,
-      "word": "新年和肖战一起奔赴热爱",
-      "onboard_time": 1674096386,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 293394,
@@ -507,6 +507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206259,
+      "num": 206259,
+      "word": "微软宣布裁员1万人",
+      "onboard_time": 1674096503,
+      "rank": 46,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 205844,
       "num": 205844,
       "word": "一中国女子在韩国接受整容手术中途身亡",
@@ -563,6 +571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184904,
+      "num": 184904,
+      "word": "强国交通APP与交通运输部无关",
+      "onboard_time": 1674096867,
+      "rank": 28,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 182830,
       "num": 182830,
       "word": "王一博说无名的文戏也惊心动魄",
@@ -585,6 +601,14 @@
       "onboard_time": 1674056370,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170023,
+      "num": 170023,
+      "word": "瑶妹乔妹是灯会祈福天花板吧",
+      "onboard_time": 1674096083,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 168564,
@@ -643,20 +667,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151522,
+      "num": 151522,
+      "word": "三体卤煮被煮了",
+      "onboard_time": 1674084678,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150098,
       "num": 150098,
       "word": "张真源室友在学校食堂点歌百忧戒",
       "onboard_time": 1674054149,
       "rank": 36,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 149233,
-      "num": 149233,
-      "word": "三体卤煮被煮了",
-      "onboard_time": 1674084678,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 148403,
@@ -715,16 +739,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 129854,
-      "num": 129854,
-      "word": "瑶妹乔妹是灯会祈福天花板吧",
-      "onboard_time": 1674096083,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 128627,
-      "num": 128627,
+      "raw_hot": 129865,
+      "num": 129865,
       "word": "鹤男说王鹤棣在剧组经常请客",
       "onboard_time": 1674093926,
       "rank": 42,
@@ -745,6 +761,14 @@
       "onboard_time": 1674048927,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125725,
+      "num": 125725,
+      "word": "这是喀喇昆仑戍边战士的青春脸庞",
+      "onboard_time": 1674096745,
+      "rank": 42,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 124578,
@@ -867,12 +891,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 100107,
-      "num": 100107,
-      "word": "微软宣布裁员1万人",
-      "onboard_time": 1674096503,
-      "rank": 46,
-      "category": "科技,财经"
+      "raw_hot": 101164,
+      "num": 101164,
+      "word": "西藏派墨公路雪崩失联者家属发声",
+      "onboard_time": 1674096685,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85534,
