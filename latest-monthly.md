@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/19 23:37:02
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/20 00:26:45
 </p>
 </blockquote>
 <p>
@@ -3993,6 +3993,12 @@ WBG让二追三（热度：970849）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%83%A8%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E8%BF%87%E4%BA%BF%E7%9A%84%E7%94%B5%E5%BD%B1%23" target="weibo">
+三部预售票房过亿的电影（热度：941635）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%20%E4%B9%90%E5%8D%8E%23" target="weibo">
 程潇 乐华（热度：941311）
 </a>
@@ -6005,12 +6011,6 @@ WBG战胜TES（热度：766734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%B0%E8%AF%84%E8%AE%BA%E5%BC%A0%E9%A2%96%E9%A2%96%E5%BF%83%E6%9C%BA%E5%A5%B3%23" target="weibo">
 张兰评论张颖颖心机女（热度：747970）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BA%ADTST%E5%85%AC%E5%8F%B8%E6%88%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA%23" target="weibo">
-张庭TST公司成被执行人（热度：747399）
 </a>
 </li>
 
