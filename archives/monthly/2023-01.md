@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/19 22:18:24
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/19 22:35:25
 </p>
 </blockquote>
 <p>
@@ -1407,6 +1407,12 @@ k4（热度：1673744）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%92%B2%E7%86%A0%E6%98%9F%20%E6%B7%98%E6%B1%B0%23" target="weibo">
+蒲熠星 淘汰（热度：1631139）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E6%82%A6%E6%BA%AA%E5%9B%9E%E5%BA%94%E7%8E%8B%E6%A2%93%E8%96%87%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E8%A2%AB%E6%8D%A2%E8%A7%92%23" target="weibo">
 安悦溪回应王梓薇以爱为营被换角（热度：1624302）
 </a>
@@ -1481,12 +1487,6 @@ k4（热度：1673744）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E6%96%B0%E5%89%A7%20%E5%88%80%E6%88%91%23" target="weibo">
 吴倩新剧 刀我（热度：1584440）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%92%B2%E7%86%A0%E6%98%9F%20%E6%B7%98%E6%B1%B0%23" target="weibo">
-蒲熠星 淘汰（热度：1580370）
 </a>
 </li>
 

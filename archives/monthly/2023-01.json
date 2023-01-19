@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674137904264,
+  "endTime": 1674138925373,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -1859,6 +1859,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1631139,
+      "num": 1631139,
+      "word": "蒲熠星 淘汰",
+      "onboard_time": 1674135089,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1624302,
       "num": 1219728,
       "word": "安悦溪回应王梓薇以爱为营被换角",
@@ -1961,14 +1969,6 @@
       "onboard_time": 1672752691,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1580370,
-      "num": 1580370,
-      "word": "蒲熠星 淘汰",
-      "onboard_time": 1674135089,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 1579661,
@@ -7956,7 +7956,7 @@
     },
     {
       "raw_hot": 748731,
-      "num": 428093,
+      "num": 703151,
       "word": "这哪叫自建房这叫自建府",
       "onboard_time": 1674135448,
       "rank": 12,
@@ -9833,6 +9833,14 @@
       "onboard_time": 1672750654,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 644914,
+      "num": 644914,
+      "word": "蓝环章鱼后又现毒螃蟹",
+      "onboard_time": 1674136110,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 644400,
@@ -12243,6 +12251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550626,
+      "num": 550626,
+      "word": "NCTDREAM获首尔歌谣大赏",
+      "onboard_time": 1674138212,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 550510,
       "num": 550510,
       "word": "乌克兰国家紧急事务局一直升机坠毁",
@@ -12508,7 +12524,7 @@
     },
     {
       "raw_hot": 541194,
-      "num": 377135,
+      "num": 487209,
       "word": "快乐再出发",
       "onboard_time": 1672930472,
       "rank": 20,
@@ -13137,6 +13153,14 @@
       "onboard_time": 1672723831,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517923,
+      "num": 416226,
+      "word": "gidle 造型",
+      "onboard_time": 1674137430,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 517842,
@@ -14395,6 +14419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484405,
+      "num": 413946,
+      "word": "杨紫王冰冰同框",
+      "onboard_time": 1674138030,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483984,
       "num": 483984,
       "word": "黄晓明对家人报喜不报忧",
@@ -15337,14 +15369,6 @@
       "onboard_time": 1673451334,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 454736,
-      "num": 427718,
-      "word": "蓝环章鱼后又现毒螃蟹",
-      "onboard_time": 1674136110,
-      "rank": 14,
-      "category": "社会负面"
     },
     {
       "raw_hot": 454701,
@@ -16515,6 +16539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 428031,
+      "num": 428031,
+      "word": "暴食一天能吃下多少东西",
+      "onboard_time": 1674134851,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 427883,
       "num": 427883,
       "word": "江疏影把小兔子藏在指甲里",
@@ -17369,14 +17401,6 @@
       "onboard_time": 1672962323,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 409894,
-      "num": 409894,
-      "word": "暴食一天能吃下多少东西",
-      "onboard_time": 1674134851,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 409092,
@@ -21035,6 +21059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346838,
+      "num": 324113,
+      "word": "王嘉尔 唇环",
+      "onboard_time": 1674138633,
+      "rank": 24,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 346812,
       "num": 214050,
       "word": "流浪地球2里的宇宙级高速公路",
@@ -21483,14 +21515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 340471,
-      "num": 340471,
-      "word": "gidle 造型",
-      "onboard_time": 1674137430,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 340453,
       "num": 340453,
       "word": "清融",
@@ -21537,6 +21561,14 @@
       "onboard_time": 1673446119,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 339479,
+      "num": 339479,
+      "word": "iboy送外卖",
+      "onboard_time": 1674136531,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 339390,
@@ -23297,14 +23329,6 @@
       "onboard_time": 1673425534,
       "rank": 23,
       "category": "军事"
-    },
-    {
-      "raw_hot": 315665,
-      "num": 250086,
-      "word": "iboy送外卖",
-      "onboard_time": 1674136531,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 315584,
@@ -27427,6 +27451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268157,
+      "num": 268157,
+      "word": "年度路人帅哥",
+      "onboard_time": 1674135569,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268111,
       "num": 123225,
       "word": "顾南亭终于勇敢追妻了",
@@ -28347,6 +28379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258220,
+      "num": 258220,
+      "word": "乐华上市庆功宴路透",
+      "onboard_time": 1674138330,
+      "rank": 31,
+      "category": "财经,艺人"
+    },
+    {
       "raw_hot": 258189,
       "num": 258189,
       "word": "王者牛魔新皮肤牛运亨通",
@@ -28865,14 +28905,6 @@
       "onboard_time": 1672999472,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 253362,
-      "num": 253362,
-      "word": "年度路人帅哥",
-      "onboard_time": 1674135569,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 253307,
@@ -29971,6 +30003,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 242303,
+      "num": 242303,
+      "word": "才知道四喜丸子是哪四喜",
+      "onboard_time": 1674137793,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 242210,
       "num": 169986,
       "word": "王鹤棣和镜头躲猫猫",
@@ -30547,6 +30587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235880,
+      "num": 235880,
+      "word": "yuan 菠菜",
+      "onboard_time": 1674138030,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235848,
       "num": 235848,
       "word": "陕西首次考古出土柳公权真迹",
@@ -30588,7 +30636,7 @@
     },
     {
       "raw_hot": 235268,
-      "num": 195806,
+      "num": 218295,
       "word": "流浪地球",
       "onboard_time": 1673673448,
       "rank": 33,
@@ -31891,6 +31939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221383,
+      "num": 221383,
+      "word": "深海 剧情",
+      "onboard_time": 1674137912,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221373,
       "num": 221373,
       "word": "完美诠释了狗仗人势",
@@ -31977,6 +32033,14 @@
       "onboard_time": 1673219237,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220593,
+      "num": 1051608,
+      "word": "未感染人群怎么做好个人防护",
+      "onboard_time": 1674137191,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220497,
@@ -33241,6 +33305,14 @@
       "onboard_time": 1672796186,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206192,
+      "num": 206192,
+      "word": "许红豆说明早见久违的小锅米线",
+      "onboard_time": 1674138633,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 206186,
@@ -37203,6 +37275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174736,
+      "num": 174736,
+      "word": "怎么有小猫生气这么可爱的",
+      "onboard_time": 1674138330,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174609,
       "num": 174609,
       "word": "浙江宣传由一颗大脑发起破壁计划",
@@ -37665,6 +37745,14 @@
       "onboard_time": 1672815447,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171090,
+      "num": 171090,
+      "word": "柳智敏首尔歌谣大赏饭拍",
+      "onboard_time": 1674137912,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 170930,
@@ -38489,6 +38577,14 @@
       "onboard_time": 1672591944,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164862,
+      "num": 164862,
+      "word": "电影深海口碑",
+      "onboard_time": 1674138871,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 164777,
@@ -39657,6 +39753,14 @@
       "onboard_time": 1673219838,
       "rank": 23,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 155144,
+      "num": 155144,
+      "word": "千万别帮广东人大扫除",
+      "onboard_time": 1674137671,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 155130,
@@ -43387,14 +43491,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 122714,
-      "num": 122714,
-      "word": "千万别帮广东人大扫除",
-      "onboard_time": 1674137671,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 122567,
       "num": 122567,
       "word": "原来雪是分区下的",
@@ -43513,14 +43609,6 @@
       "onboard_time": 1673573246,
       "rank": 47,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 121580,
-      "num": 121580,
-      "word": "才知道四喜丸子是哪四喜",
-      "onboard_time": 1674137793,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 121495,
@@ -45584,14 +45672,6 @@
       "word": "返乡后怎样保护未阳老人",
       "onboard_time": 1673743343,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100989,
-      "num": 1051608,
-      "word": "未感染人群怎么做好个人防护",
-      "onboard_time": 1674137191,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
