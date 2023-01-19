@@ -1,6 +1,6 @@
 {
   "startTime": 1674145605899,
-  "endTime": 1674164012744,
+  "endTime": 1674166690813,
   "band_list": [
     {
       "raw_hot": 1071055,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150354,
+      "num": 56571,
+      "word": "女子晒公司年终发一箱苹果15个全坏",
+      "onboard_time": 1674161653,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147320,
       "num": 147320,
       "word": "yuan 菠菜",
@@ -435,14 +443,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 82320,
-      "num": 23600,
-      "word": "女子晒公司年终发一箱苹果15个全坏",
-      "onboard_time": 1674161653,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77042,
       "num": 79210,
       "word": "元气森林营销中心原负责人被刑拘",
@@ -491,12 +491,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 46364,
+      "num": 46364,
+      "word": "2025年到2029年连续5年都没有年三十",
+      "onboard_time": 1674165852,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35266,
       "num": 35266,
       "word": "回家后最向往的事情",
       "onboard_time": 1674148758,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 19129,
+      "num": 17102,
+      "word": "秦海璐燕麦色羽绒大衣",
+      "onboard_time": 1674164951,
+      "rank": 47,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
