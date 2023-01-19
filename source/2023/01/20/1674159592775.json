@@ -1,0 +1,410 @@
+{
+  "runTime": 1674159592775,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 204688,
+        "num": 204688,
+        "word": "梅西",
+        "onboard_time": 1674142591,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136159,
+        "num": 136159,
+        "word": "利雅得全明星队vs巴黎圣日耳曼",
+        "onboard_time": 1674142227,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28215,
+        "num": 108568,
+        "word": "未感染人群怎么做好个人防护",
+        "onboard_time": 1674137191,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93393,
+        "num": 93393,
+        "word": "27岁女子为父母偷偷买房父亲参观时哽咽",
+        "onboard_time": 1674141630,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71044,
+        "num": 71044,
+        "word": "清华硕士称大厂2万月薪践踏学历",
+        "onboard_time": 1674127047,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 65359,
+        "num": 65359,
+        "word": "蒲熠星 淘汰",
+        "onboard_time": 1674135089,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65171,
+        "num": 65171,
+        "word": "这哪叫自建房这叫自建府",
+        "onboard_time": 1674135448,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63788,
+        "num": 63788,
+        "word": "三部预售票房过亿的电影",
+        "onboard_time": 1674142707,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56526,
+        "num": 56526,
+        "word": "世界杯官方晒C罗海报",
+        "onboard_time": 1674149718,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45999,
+        "num": 45999,
+        "word": "三体王子文演技爆发力",
+        "onboard_time": 1674151096,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64561,
+        "num": 45983,
+        "word": "山东多人婚闹压着新郎新娘叠罗汉",
+        "onboard_time": 1674132207,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 54388,
+        "num": 45837,
+        "word": "王一博脸上青春痘都比你好看",
+        "onboard_time": 1674134668,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45634,
+        "num": 45634,
+        "word": "倪萍冯巩春晚同台童年又回来了",
+        "onboard_time": 1674141871,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44969,
+        "num": 44969,
+        "word": "蓝环章鱼后又现毒螃蟹",
+        "onboard_time": 1674136110,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 44492,
+        "num": 44492,
+        "word": "女子提前51天订房完美避开春节涨价",
+        "onboard_time": 1674129030,
+        "rank": 14,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 43535,
+        "num": 43535,
+        "word": "杨紫王冰冰同框",
+        "onboard_time": 1674138030,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40863,
+        "num": 40863,
+        "word": "至今没阳过返乡过年感染风险是否更大",
+        "onboard_time": 1674144327,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35204,
+        "num": 35204,
+        "word": "许红米叫许红豆起床好真实",
+        "onboard_time": 1674144389,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34303,
+        "num": 34303,
+        "word": "王嘉尔 唇环",
+        "onboard_time": 1674138633,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 33837,
+        "num": 33837,
+        "word": "深海",
+        "onboard_time": 1674134551,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33753,
+        "num": 33753,
+        "word": "这届年轻人开始报复性回家过年了",
+        "onboard_time": 1674125788,
+        "rank": 20,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 31588,
+        "num": 31588,
+        "word": "千万别帮广东人大扫除",
+        "onboard_time": 1674137671,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30967,
+        "num": 30967,
+        "word": "liz 胖了",
+        "onboard_time": 1674133707,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29394,
+        "num": 29394,
+        "word": "怎么有小猫生气这么可爱的",
+        "onboard_time": 1674138330,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29197,
+        "num": 29197,
+        "word": "慕星 加戏",
+        "onboard_time": 1674143607,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28962,
+        "num": 28962,
+        "word": "河北全面推行婚俗改革",
+        "onboard_time": 1674139052,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28777,
+        "num": 28777,
+        "word": "文韬 逆风翻盘",
+        "onboard_time": 1674135750,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26721,
+        "num": 26721,
+        "word": "郑恺说认识苗苗以后才养成的剥虾习惯",
+        "onboard_time": 1674146843,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26404,
+        "num": 26404,
+        "word": "近期泰国检出德尔塔克戎毒株",
+        "onboard_time": 1674119605,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26347,
+        "num": 26347,
+        "word": "iboy送外卖",
+        "onboard_time": 1674136531,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26011,
+        "num": 26011,
+        "word": "年度路人帅哥",
+        "onboard_time": 1674135569,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25591,
+        "num": 25591,
+        "word": "乐华上市庆功宴路透",
+        "onboard_time": 1674138330,
+        "rank": 31,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 25471,
+        "num": 25471,
+        "word": "元气森林营销中心原负责人被刑拘",
+        "onboard_time": 1674140671,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25162,
+        "num": 25162,
+        "word": "快乐再出发",
+        "onboard_time": 1674137912,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24251,
+        "num": 24251,
+        "word": "夫妻外地旅游苦寻停车位置3小时",
+        "onboard_time": 1674148398,
+        "rank": 34,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 23830,
+        "num": 23830,
+        "word": "余秀华",
+        "onboard_time": 1674133830,
+        "rank": 35,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 23677,
+        "num": 23677,
+        "word": "gidle 造型",
+        "onboard_time": 1674137430,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21737,
+        "num": 21737,
+        "word": "陈乔恩说刘芸公然撒谎",
+        "onboard_time": 1674128306,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21708,
+        "num": 21708,
+        "word": "魏晨大侦探换牌被拒绝了5次",
+        "onboard_time": 1674143489,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21618,
+        "num": 21618,
+        "word": "yuan 菠菜",
+        "onboard_time": 1674138030,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19786,
+        "num": 19786,
+        "word": "暴食一天能吃下多少东西",
+        "onboard_time": 1674134851,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 18592,
+        "num": 18592,
+        "word": "王鹤棣白鹿微博互关",
+        "onboard_time": 1674144927,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18269,
+        "num": 18269,
+        "word": "三体集体脱水名场面",
+        "onboard_time": 1674146063,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18166,
+        "num": 18166,
+        "word": "流浪地球2首波观众是科学家",
+        "onboard_time": 1674132569,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18024,
+        "num": 18024,
+        "word": "南宁兔子意外走红成网红表情包",
+        "onboard_time": 1674134551,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18009,
+        "num": 18009,
+        "word": "电影深海口碑",
+        "onboard_time": 1674138871,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17827,
+        "num": 17827,
+        "word": "看狂飙 好想吃肠粉",
+        "onboard_time": 1674123684,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17765,
+        "num": 17765,
+        "word": "BLACKPINK首尔歌谣大赏本赏",
+        "onboard_time": 1674131369,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15941,
+        "num": 15941,
+        "word": "回家后最向往的事情",
+        "onboard_time": 1674148758,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17538,
+        "num": 15939,
+        "word": "宋祖儿央视春晚第五次联排双丸子头造型",
+        "onboard_time": 1674151995,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记最大的心愿就是大家欢喜过好年#"
+    }
+  }
+}
