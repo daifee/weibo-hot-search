@@ -1,0 +1,410 @@
+{
+  "runTime": 1674092408574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 842372,
+        "num": 842372,
+        "word": "13岁孩子起诉父亲还16800元压岁钱",
+        "onboard_time": 1674090625,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712931,
+        "num": 712931,
+        "word": "邓超春晚彩排的社牛行为",
+        "onboard_time": 1674089185,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49053,
+        "num": 648337,
+        "word": "大寒除夕春节喜相连",
+        "onboard_time": 1674044190,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1143081,
+        "num": 647014,
+        "word": "三亚警方通报有人打砸群众车辆",
+        "onboard_time": 1674089185,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628337,
+        "num": 628337,
+        "word": "张颜齐上台忘了撕暖宝宝",
+        "onboard_time": 1674085461,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 479155,
+        "num": 479155,
+        "word": "高铁站大厅没插座引网友质疑",
+        "onboard_time": 1674080293,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609569,
+        "num": 478452,
+        "word": "女子想回娘家过年婆婆一口拒绝",
+        "onboard_time": 1674089364,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416681,
+        "num": 416681,
+        "word": "福兔",
+        "onboard_time": 1674090204,
+        "rank": 7,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 348979,
+        "num": 348979,
+        "word": "中国男篮世预赛第六窗口期集训名单",
+        "onboard_time": 1674090688,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355695,
+        "num": 339601,
+        "word": "西藏一隧道出口雪崩已致8人遇难",
+        "onboard_time": 1674085881,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 559910,
+        "num": 338304,
+        "word": "刘亦菲许红豆发带造型",
+        "onboard_time": 1674090983,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425278,
+        "num": 335617,
+        "word": "直面生育损伤",
+        "onboard_time": 1674052652,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327345,
+        "num": 327345,
+        "word": "福王成真宦官",
+        "onboard_time": 1674085399,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309705,
+        "num": 309705,
+        "word": "男子买灌香肠起诉其为三无产品被法院驳回",
+        "onboard_time": 1674054269,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291262,
+        "num": 291262,
+        "word": "电影无名预售票房破8000万",
+        "onboard_time": 1674084559,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267939,
+        "num": 267939,
+        "word": "时代少年团忘带邀请函",
+        "onboard_time": 1674086423,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247319,
+        "num": 247319,
+        "word": "银行员工贪污398万整容创业潜逃25年",
+        "onboard_time": 1674058586,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242725,
+        "num": 242725,
+        "word": "李现拍完有风想去大理开咖啡馆",
+        "onboard_time": 1674091106,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222064,
+        "num": 222064,
+        "word": "创可贴创口贴居然不一样",
+        "onboard_time": 1674090625,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207672,
+        "num": 207672,
+        "word": "张艺兴给李宇春龙丹妮张杰拍照",
+        "onboard_time": 1674083357,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197580,
+        "num": 197580,
+        "word": "被电视机骗了的狗狗",
+        "onboard_time": 1674087923,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 191357,
+        "num": 191357,
+        "word": "阳后嗜睡失眠怎么办",
+        "onboard_time": 1674091346,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186516,
+        "num": 186516,
+        "word": "时代少年团下班营业照",
+        "onboard_time": 1674089185,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168564,
+        "num": 168564,
+        "word": "看望战友父母见到挂了3块功臣牌匾",
+        "onboard_time": 1674090386,
+        "rank": 23,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 163699,
+        "num": 163699,
+        "word": "安局是不是内鬼",
+        "onboard_time": 1674089122,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162768,
+        "num": 162768,
+        "word": "身高给你带来的困扰有多少",
+        "onboard_time": 1674089844,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 929262,
+        "num": 161997,
+        "word": "过年千万别逼90后",
+        "onboard_time": 1674086060,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 159361,
+        "num": 159361,
+        "word": "YG新女团舞蹈视频公开",
+        "onboard_time": 1674086242,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156272,
+        "num": 156272,
+        "word": "三体 脱水",
+        "onboard_time": 1674049593,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150042,
+        "num": 150042,
+        "word": "男子花30元中100万车门未关彩票被偷",
+        "onboard_time": 1674051993,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368000,
+        "num": 149736,
+        "word": "许红豆看钻石豪门",
+        "onboard_time": 1674091824,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156560,
+        "num": 149581,
+        "word": "单亲妈妈5年没回家过年",
+        "onboard_time": 1674079873,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149336,
+        "num": 149336,
+        "word": "母子卧铺车早读被乘客提醒小声",
+        "onboard_time": 1674092064,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149233,
+        "num": 149233,
+        "word": "三体卤煮被煮了",
+        "onboard_time": 1674084678,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136407,
+        "num": 136407,
+        "word": "95后男生过年回自家酒店免费帮工",
+        "onboard_time": 1674074591,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135947,
+        "num": 135947,
+        "word": "生肖卡",
+        "onboard_time": 1674041910,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 135463,
+        "num": 135463,
+        "word": "曾凡博入选中国男篮大名单",
+        "onboard_time": 1674091765,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134191,
+        "num": 134191,
+        "word": "张杰收到张国荣张学友的同款定制话筒",
+        "onboard_time": 1674056968,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128027,
+        "num": 128027,
+        "word": "中金公司回应十大预测错九个",
+        "onboard_time": 1674068772,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125192,
+        "num": 125192,
+        "word": "南方宝宝首次体验北方地暖",
+        "onboard_time": 1674080774,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124294,
+        "num": 124294,
+        "word": "严浩翔 金发",
+        "onboard_time": 1674058166,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119234,
+        "num": 119234,
+        "word": "全家没一个是混吃混喝的",
+        "onboard_time": 1674055529,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118932,
+        "num": 118932,
+        "word": "爸爸一直珍藏着孩子儿时玩的灯笼",
+        "onboard_time": 1674085221,
+        "rank": 42,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 117108,
+        "num": 117108,
+        "word": "LPL春晚整活大赏",
+        "onboard_time": 1674088044,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116697,
+        "num": 116697,
+        "word": "狂飙12集封神",
+        "onboard_time": 1674047908,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114061,
+        "num": 114061,
+        "word": "许红豆要创业当大老板",
+        "onboard_time": 1674056067,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113470,
+        "num": 113470,
+        "word": "Minji将担任本周音银特别MC",
+        "onboard_time": 1674083298,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108887,
+        "num": 108887,
+        "word": "阿根廷世界杯夺冠一个月",
+        "onboard_time": 1674051628,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108715,
+        "num": 108715,
+        "word": "人类幼崽也爱听八卦",
+        "onboard_time": 1674084979,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 108254,
+        "num": 108254,
+        "word": "谢之遥把异地恋小把戏玩明白了",
+        "onboard_time": 1674058406,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝福返乡旅客#"
+    }
+  }
+}

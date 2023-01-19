@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674084816714,
+  "endTime": 1674092408574,
   "band_list": [
     {
       "raw_hot": 1579432,
@@ -27,11 +27,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1143081,
+      "num": 647014,
+      "word": "三亚警方通报有人打砸群众车辆",
+      "onboard_time": 1674089185,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 929262,
+      "num": 161997,
+      "word": "过年千万别逼90后",
+      "onboard_time": 1674086060,
+      "rank": 26,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 863160,
       "num": 863160,
       "word": "高铁站大厅没插座引网友质疑",
       "onboard_time": 1674080293,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 842372,
+      "num": 842372,
+      "word": "13岁孩子起诉父亲还16800元压岁钱",
+      "onboard_time": 1674090625,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -57,6 +81,38 @@
       "onboard_time": 1674058586,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 712931,
+      "num": 712931,
+      "word": "邓超春晚彩排的社牛行为",
+      "onboard_time": 1674089185,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 628337,
+      "num": 628337,
+      "word": "张颜齐上台忘了撕暖宝宝",
+      "onboard_time": 1674085461,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 609569,
+      "num": 478452,
+      "word": "女子想回娘家过年婆婆一口拒绝",
+      "onboard_time": 1674089364,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 559910,
+      "num": 338304,
+      "word": "刘亦菲许红豆发带造型",
+      "onboard_time": 1674090983,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 547606,
@@ -123,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 416681,
+      "num": 416681,
+      "word": "福兔",
+      "onboard_time": 1674090204,
+      "rank": 7,
+      "category": "科技,情感"
+    },
+    {
       "raw_hot": 383713,
       "num": 383713,
       "word": "徐杰",
@@ -137,6 +201,30 @@
       "onboard_time": 1674056067,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 368000,
+      "num": 149736,
+      "word": "许红豆看钻石豪门",
+      "onboard_time": 1674091824,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 355695,
+      "num": 339601,
+      "word": "西藏一隧道出口雪崩已致8人遇难",
+      "onboard_time": 1674085881,
+      "rank": 9,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 348979,
+      "num": 348979,
+      "word": "中国男篮世预赛第六窗口期集训名单",
+      "onboard_time": 1674090688,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 343911,
@@ -161,6 +249,14 @@
       "onboard_time": 1674051628,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 327345,
+      "num": 327345,
+      "word": "福王成真宦官",
+      "onboard_time": 1674085399,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 320812,
@@ -195,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 291262,
+      "num": 291262,
+      "word": "电影无名预售票房破8000万",
+      "onboard_time": 1674084559,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281985,
       "num": 281985,
       "word": "浮图缘今晚好解气",
@@ -211,12 +315,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267939,
+      "num": 267939,
+      "word": "时代少年团忘带邀请函",
+      "onboard_time": 1674086423,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 250882,
       "num": 250882,
       "word": "WBG战胜TES",
       "onboard_time": 1674053792,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242725,
+      "num": 242725,
+      "word": "李现拍完有风想去大理开咖啡馆",
+      "onboard_time": 1674091106,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 241350,
@@ -243,6 +363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 222064,
+      "num": 222064,
+      "word": "创可贴创口贴居然不一样",
+      "onboard_time": 1674090625,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212669,
       "num": 212669,
       "word": "西藏林芝一隧道出口发生雪崩",
@@ -267,20 +395,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207672,
+      "num": 207672,
+      "word": "张艺兴给李宇春龙丹妮张杰拍照",
+      "onboard_time": 1674083357,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205844,
       "num": 205844,
       "word": "一中国女子在韩国接受整容手术中途身亡",
       "onboard_time": 1674032366,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200163,
-      "num": 145285,
-      "word": "张艺兴给李宇春龙丹妮张杰拍照",
-      "onboard_time": 1674083357,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 199495,
@@ -307,6 +435,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197580,
+      "num": 197580,
+      "word": "被电视机骗了的狗狗",
+      "onboard_time": 1674087923,
+      "rank": 20,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 191357,
+      "num": 191357,
+      "word": "阳后嗜睡失眠怎么办",
+      "onboard_time": 1674091346,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186516,
+      "num": 186516,
+      "word": "时代少年团下班营业照",
+      "onboard_time": 1674089185,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182830,
       "num": 182830,
       "word": "王一博说无名的文戏也惊心动魄",
@@ -331,6 +483,38 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168564,
+      "num": 168564,
+      "word": "看望战友父母见到挂了3块功臣牌匾",
+      "onboard_time": 1674090386,
+      "rank": 23,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 163699,
+      "num": 163699,
+      "word": "安局是不是内鬼",
+      "onboard_time": 1674089122,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 162768,
+      "num": 162768,
+      "word": "身高给你带来的困扰有多少",
+      "onboard_time": 1674089844,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 159361,
+      "num": 159361,
+      "word": "YG新女团舞蹈视频公开",
+      "onboard_time": 1674086242,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155616,
       "num": 155616,
       "word": "腿短有腿短的办法",
@@ -345,6 +529,22 @@
       "onboard_time": 1674054149,
       "rank": 36,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 149336,
+      "num": 149336,
+      "word": "母子卧铺车早读被乘客提醒小声",
+      "onboard_time": 1674092064,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149233,
+      "num": 149233,
+      "word": "三体卤煮被煮了",
+      "onboard_time": 1674084678,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 148403,
@@ -403,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135463,
+      "num": 135463,
+      "word": "曾凡博入选中国男篮大名单",
+      "onboard_time": 1674091765,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128325,
       "num": 122721,
       "word": "宋亚轩说哀家长头发啦",
@@ -459,12 +667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117604,
-      "num": 117604,
-      "word": "电影无名预售票房破8000万",
-      "onboard_time": 1674084559,
-      "rank": 19,
-      "category": "影视"
+      "raw_hot": 118932,
+      "num": 118932,
+      "word": "爸爸一直珍藏着孩子儿时玩的灯笼",
+      "onboard_time": 1674085221,
+      "rank": 42,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 117108,
+      "num": 117108,
+      "word": "LPL春晚整活大赏",
+      "onboard_time": 1674088044,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 116948,
@@ -473,6 +689,22 @@
       "onboard_time": 1674038789,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113470,
+      "num": 113470,
+      "word": "Minji将担任本周音银特别MC",
+      "onboard_time": 1674083298,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 108715,
+      "num": 108715,
+      "word": "人类幼崽也爱听八卦",
+      "onboard_time": 1674084979,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 108278,
@@ -512,14 +744,6 @@
       "word": "杨超越徐正溪重紫片场花絮",
       "onboard_time": 1674062958,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 71980,
-      "num": 71980,
-      "word": "三体卤煮被煮了",
-      "onboard_time": 1674084678,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -564,7 +788,7 @@
     },
     {
       "raw_hot": 59376,
-      "num": 550526,
+      "num": 648337,
       "word": "大寒除夕春节喜相连",
       "onboard_time": 1674044190,
       "rank": 2,
@@ -577,14 +801,6 @@
       "onboard_time": 1674073093,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 52714,
-      "num": 52714,
-      "word": "Minji将担任本周音银特别MC",
-      "onboard_time": 1674083298,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 46615,
