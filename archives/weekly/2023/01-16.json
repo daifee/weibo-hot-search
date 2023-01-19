@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674138925373,
+  "endTime": 1674141660217,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -939,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1013696,
+      "num": 411100,
+      "word": "王嘉尔 唇环",
+      "onboard_time": 1674138633,
+      "rank": 24,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1007513,
       "num": 1007513,
       "word": "英专生又多了一个就业方向",
@@ -1539,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 778528,
+      "num": 778528,
+      "word": "杨紫王冰冰同框",
+      "onboard_time": 1674138030,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 776197,
       "num": 663322,
       "word": "文在寅退休后在村里开书店",
@@ -1636,7 +1652,7 @@
     },
     {
       "raw_hot": 748731,
-      "num": 703151,
+      "num": 713935,
       "word": "这哪叫自建房这叫自建府",
       "onboard_time": 1674135448,
       "rank": 12,
@@ -2241,6 +2257,14 @@
       "onboard_time": 1674046708,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 620192,
+      "num": 620192,
+      "word": "快乐再出发",
+      "onboard_time": 1674137912,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 619721,
@@ -3067,14 +3091,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 487209,
-      "num": 487209,
-      "word": "快乐再出发",
-      "onboard_time": 1674137912,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 486947,
       "num": 486947,
       "word": "余秀华称前男友直播间对其人身威胁",
@@ -3113,14 +3129,6 @@
       "onboard_time": 1674106707,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 484405,
-      "num": 413946,
-      "word": "杨紫王冰冰同框",
-      "onboard_time": 1674138030,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 483984,
@@ -3547,6 +3555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 420425,
+      "num": 420425,
+      "word": "千万别帮广东人大扫除",
+      "onboard_time": 1674137671,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 420248,
       "num": 420248,
       "word": "严浩翔 金发",
@@ -3787,6 +3803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393250,
+      "num": 393250,
+      "word": "yuan 菠菜",
+      "onboard_time": 1674138030,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 393245,
       "num": 215567,
       "word": "沈腾千玺一个负责动一个负责乐",
@@ -3809,6 +3833,14 @@
       "onboard_time": 1673950467,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 390173,
+      "num": 390173,
+      "word": "河北全面推行婚俗改革",
+      "onboard_time": 1674139052,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389114,
@@ -4099,6 +4131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367773,
+      "num": 1051608,
+      "word": "未感染人群怎么做好个人防护",
+      "onboard_time": 1674137191,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367710,
       "num": 178590,
       "word": "沈月说鹿鼎记双儿就是她的舒适圈",
@@ -4363,14 +4403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 346838,
-      "num": 324113,
-      "word": "王嘉尔 唇环",
-      "onboard_time": 1674138633,
-      "rank": 24,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 346666,
       "num": 346666,
       "word": "蛋仔派对",
@@ -4483,6 +4515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339491,
+      "num": 339491,
+      "word": "许红豆说明早见久违的小锅米线",
+      "onboard_time": 1674138633,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339479,
       "num": 339479,
       "word": "iboy送外卖",
@@ -4577,6 +4617,14 @@
       "onboard_time": 1674039811,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 333754,
+      "num": 333754,
+      "word": "乐华上市庆功宴路透",
+      "onboard_time": 1674138330,
+      "rank": 31,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 333629,
@@ -4961,6 +5009,14 @@
       "onboard_time": 1674011432,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 307967,
+      "num": 307967,
+      "word": "怎么有小猫生气这么可爱的",
+      "onboard_time": 1674138330,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 306889,
@@ -5795,6 +5851,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 268783,
+      "num": 268783,
+      "word": "电影深海口碑",
+      "onboard_time": 1674138871,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 268668,
       "num": 268668,
       "word": "火箭vs湖人",
@@ -6129,14 +6193,6 @@
       "onboard_time": 1674116486,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 258220,
-      "num": 258220,
-      "word": "乐华上市庆功宴路透",
-      "onboard_time": 1674138330,
-      "rank": 31,
-      "category": "财经,艺人"
     },
     {
       "raw_hot": 258189,
@@ -6579,14 +6635,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 235880,
-      "num": 235880,
-      "word": "yuan 菠菜",
-      "onboard_time": 1674138030,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 235242,
       "num": 235242,
       "word": "这位曾刷屏全网的父亲走了",
@@ -6899,14 +6947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220593,
-      "num": 1051608,
-      "word": "未感染人群怎么做好个人防护",
-      "onboard_time": 1674137191,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220410,
       "num": 220410,
       "word": "快乐再出发室内音乐会节目单",
@@ -7153,14 +7193,6 @@
       "onboard_time": 1673948547,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 206192,
-      "num": 206192,
-      "word": "许红豆说明早见久违的小锅米线",
-      "onboard_time": 1674138633,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 206039,
@@ -7611,6 +7643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192243,
+      "num": 192243,
+      "word": "刘惜君星辰如约舞台概念是中国空间站",
+      "onboard_time": 1674141453,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192016,
       "num": 192016,
       "word": "阳后嗜睡失眠怎么办",
@@ -7803,6 +7843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187489,
+      "num": 187489,
+      "word": "消防巡山翻250余座山头是啥体验",
+      "onboard_time": 1674141091,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187171,
       "num": 187171,
       "word": "肖铎步音楼船上复合吻",
@@ -7977,6 +8025,14 @@
       "onboard_time": 1674119428,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180426,
+      "num": 180426,
+      "word": "李玉刚一张嘴就是国富民安",
+      "onboard_time": 1674139411,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 180377,
@@ -8179,14 +8235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174736,
-      "num": 174736,
-      "word": "怎么有小猫生气这么可爱的",
-      "onboard_time": 1674138330,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 174609,
       "num": 174609,
       "word": "浙江宣传由一颗大脑发起破壁计划",
@@ -8233,6 +8281,14 @@
       "onboard_time": 1673871450,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173299,
+      "num": 173299,
+      "word": "IVE首尔歌谣大赏开麦",
+      "onboard_time": 1674141211,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 172867,
@@ -8475,6 +8531,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 167343,
+      "num": 167343,
+      "word": "许红豆的商业头脑",
+      "onboard_time": 1674141091,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167324,
       "num": 167324,
       "word": "于和伟史强自制倒数计时",
@@ -8569,14 +8633,6 @@
       "onboard_time": 1673868090,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 164862,
-      "num": 164862,
-      "word": "电影深海口碑",
-      "onboard_time": 1674138871,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 164561,
@@ -8867,14 +8923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155144,
-      "num": 155144,
-      "word": "千万别帮广东人大扫除",
-      "onboard_time": 1674137671,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 155035,
       "num": 155035,
       "word": "环保少女在德带气候人士反对开采褐煤",
@@ -8961,6 +9009,14 @@
       "onboard_time": 1673916629,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150401,
+      "num": 150401,
+      "word": "三体打工人以一抵十",
+      "onboard_time": 1674140971,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 150026,
@@ -9731,6 +9787,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 123394,
+      "num": 123394,
+      "word": "深海 好哭",
+      "onboard_time": 1674140731,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123311,
       "num": 181146,
       "word": "网友为了开黑能有多拼",
@@ -9849,6 +9913,14 @@
       "onboard_time": 1673923767,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 117805,
+      "num": 117805,
+      "word": "27岁女子为父母偷偷买房父亲参观时哽咽",
+      "onboard_time": 1674141630,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117434,
@@ -10737,6 +10809,14 @@
       "onboard_time": 1674075973,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 35450,
+      "num": 390235,
+      "word": "流浪地球2寻求中国式的科幻表达",
+      "onboard_time": 1674140431,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31269,
