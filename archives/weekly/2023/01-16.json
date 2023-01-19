@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674092408574,
+  "endTime": 1674093792115,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -65,6 +65,14 @@
       "onboard_time": 1673840248,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2597438,
+      "num": 2597438,
+      "word": "乐华上市",
+      "onboard_time": 1674092485,
+      "rank": 0,
+      "category": "财经,影视"
     },
     {
       "raw_hot": 2546610,
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 1143081,
-      "num": 647014,
+      "num": 709765,
       "word": "三亚警方通报有人打砸群众车辆",
       "onboard_time": 1674089185,
       "rank": 3,
@@ -811,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1002535,
+      "num": 701270,
+      "word": "王一博程耳于冬参加乐华上市仪式",
+      "onboard_time": 1674092426,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 992249,
       "num": 992249,
       "word": "第一次对烧烤失去兴趣",
@@ -833,6 +849,14 @@
       "onboard_time": 1674005006,
       "rank": 17,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 971606,
+      "num": 842372,
+      "word": "13岁孩子起诉父亲还16800元压岁钱",
+      "onboard_time": 1674090625,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 971110,
@@ -1115,14 +1139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 842372,
-      "num": 842372,
-      "word": "13岁孩子起诉父亲还16800元压岁钱",
-      "onboard_time": 1674090625,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 838417,
       "num": 493553,
       "word": "关孙彩瑛什么事",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1673962591,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 810519,
+      "num": 810519,
+      "word": "邓超春晚彩排的社牛行为",
+      "onboard_time": 1674089185,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 810282,
@@ -1403,14 +1427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 712931,
-      "num": 712931,
-      "word": "邓超春晚彩排的社牛行为",
-      "onboard_time": 1674089185,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 712675,
       "num": 712675,
       "word": "王俊凯再秀刀妹",
@@ -1536,6 +1552,14 @@
       "word": "男子新房未入住被邻居种大葱",
       "onboard_time": 1673870789,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678813,
+      "num": 678813,
+      "word": "母子卧铺车早读被乘客提醒小声",
+      "onboard_time": 1674092064,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1876,7 +1900,7 @@
     },
     {
       "raw_hot": 609569,
-      "num": 478452,
+      "num": 573311,
       "word": "女子想回娘家过年婆婆一口拒绝",
       "onboard_time": 1674089364,
       "rank": 6,
@@ -2092,7 +2116,7 @@
     },
     {
       "raw_hot": 559910,
-      "num": 338304,
+      "num": 504850,
       "word": "刘亦菲许红豆发带造型",
       "onboard_time": 1674090983,
       "rank": 10,
@@ -2393,6 +2417,14 @@
       "onboard_time": 1674041249,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 493388,
+      "num": 371797,
+      "word": "女子带婆婆注销亡夫户口痛哭不止",
+      "onboard_time": 1674092845,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493272,
@@ -3075,6 +3107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 388901,
+      "num": 388901,
+      "word": "许红豆看钻石豪门",
+      "onboard_time": 1674091824,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388181,
       "num": 185274,
       "word": "三体首播收视率",
@@ -3153,6 +3193,14 @@
       "onboard_time": 1674044729,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 379798,
+      "num": 379798,
+      "word": "创可贴创口贴居然不一样",
+      "onboard_time": 1674090625,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 379514,
@@ -3312,14 +3360,6 @@
       "word": "王鹤棣过年好忙",
       "onboard_time": 1673856929,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 368000,
-      "num": 149736,
-      "word": "许红豆看钻石豪门",
-      "onboard_time": 1674091824,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -5099,6 +5139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 250549,
+      "num": 250549,
+      "word": "李现拍完有风想去大理开咖啡馆",
+      "onboard_time": 1674091106,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249481,
       "num": 249481,
       "word": "学到了一种很新的拒绝方式",
@@ -5217,14 +5265,6 @@
       "onboard_time": 1673852307,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242725,
-      "num": 242725,
-      "word": "李现拍完有风想去大理开咖啡馆",
-      "onboard_time": 1674091106,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 242666,
@@ -5601,14 +5641,6 @@
       "onboard_time": 1674054149,
       "rank": 32,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 222064,
-      "num": 222064,
-      "word": "创可贴创口贴居然不一样",
-      "onboard_time": 1674090625,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 222012,
@@ -6171,20 +6203,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192016,
+      "num": 192016,
+      "word": "阳后嗜睡失眠怎么办",
+      "onboard_time": 1674091346,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191373,
       "num": 191373,
       "word": "多人在辽宁盘锦化工厂爆炸事故中失联",
       "onboard_time": 1673789192,
       "rank": 23,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 191357,
-      "num": 191357,
-      "word": "阳后嗜睡失眠怎么办",
-      "onboard_time": 1674091346,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191199,
@@ -6811,6 +6843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165225,
+      "num": 165225,
+      "word": "曾凡博入选中国男篮大名单",
+      "onboard_time": 1674091765,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165158,
       "num": 165158,
       "word": "小兔子折纸教程",
@@ -6833,6 +6873,14 @@
       "onboard_time": 1673887045,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163712,
+      "num": 163712,
+      "word": "YG新女团舞蹈视频公开",
+      "onboard_time": 1674086242,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 163699,
@@ -6937,14 +6985,6 @@
       "onboard_time": 1674041310,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159361,
-      "num": 159361,
-      "word": "YG新女团舞蹈视频公开",
-      "onboard_time": 1674086242,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 158525,
@@ -7105,14 +7145,6 @@
       "onboard_time": 1674005847,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149336,
-      "num": 149336,
-      "word": "母子卧铺车早读被乘客提醒小声",
-      "onboard_time": 1674092064,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149274,
@@ -7315,6 +7347,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 141549,
+      "num": 141549,
+      "word": "90后女孩偷师自学2年成古籍修复师",
+      "onboard_time": 1674093145,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141466,
       "num": 163888,
       "word": "男子7厘米壶内壁画生肖兔",
@@ -7483,14 +7523,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 135463,
-      "num": 135463,
-      "word": "曾凡博入选中国男篮大名单",
-      "onboard_time": 1674091765,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135408,
       "num": 135408,
       "word": "别忘了我们在月球还有2只小兔子",
@@ -7563,6 +7595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126980,
+      "num": 126980,
+      "word": "这位曾刷屏全网的父亲走了",
+      "onboard_time": 1674093444,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126913,
       "num": 181303,
       "word": "新一批大国重器亮相直播间",
@@ -7585,6 +7625,14 @@
       "onboard_time": 1674040408,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124578,
+      "num": 124578,
+      "word": "谢之遥给许红豆发照片满脸痴笑",
+      "onboard_time": 1674092666,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 124425,
@@ -7787,6 +7835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114713,
+      "num": 114713,
+      "word": "Minji将担任本周音银特别MC",
+      "onboard_time": 1674083298,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114092,
       "num": 239457,
       "word": "catti一年考几次合适",
@@ -7801,14 +7857,6 @@
       "onboard_time": 1673833227,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 113470,
-      "num": 113470,
-      "word": "Minji将担任本周音银特别MC",
-      "onboard_time": 1674083298,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 112029,
