@@ -1,0 +1,410 @@
+{
+  "runTime": 1674099336664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2630415,
+        "num": 2630415,
+        "word": "乐华上市",
+        "onboard_time": 1674092485,
+        "rank": 0,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 903679,
+        "num": 903679,
+        "word": "微软宣布裁员1万人",
+        "onboard_time": 1674096503,
+        "rank": 1,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 25986,
+        "num": 802634,
+        "word": "大寒除夕春节喜相连",
+        "onboard_time": 1674044190,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 763137,
+        "num": 763137,
+        "word": "江西小县城相亲大会20男相1女",
+        "onboard_time": 1674095545,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745965,
+        "num": 745965,
+        "word": "王一博贡献乐华六成收入",
+        "onboard_time": 1674094646,
+        "rank": 4,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 530025,
+        "num": 530025,
+        "word": "新年和肖战一起奔赴热爱",
+        "onboard_time": 1674096386,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561549,
+        "num": 527136,
+        "word": "强国交通APP与交通运输部无关",
+        "onboard_time": 1674096867,
+        "rank": 6,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 473786,
+        "num": 473786,
+        "word": "邓超春晚彩排的社牛行为",
+        "onboard_time": 1674089185,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362727,
+        "num": 362727,
+        "word": "张颜齐上台忘了撕暖宝宝",
+        "onboard_time": 1674085461,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1167551,
+        "num": 362326,
+        "word": "女子带婆婆注销亡夫户口痛哭不止",
+        "onboard_time": 1674092845,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359959,
+        "num": 359959,
+        "word": "90后女孩偷师自学2年成古籍修复师",
+        "onboard_time": 1674093145,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346655,
+        "num": 346655,
+        "word": "王一博程耳于冬参加乐华上市仪式",
+        "onboard_time": 1674092426,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562486,
+        "num": 327188,
+        "word": "母子卧铺车早读被乘客提醒小声",
+        "onboard_time": 1674092064,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282756,
+        "num": 282756,
+        "word": "福兔",
+        "onboard_time": 1674090204,
+        "rank": 13,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 416811,
+        "num": 281130,
+        "word": "近30年来日本男性越长越矮",
+        "onboard_time": 1674095184,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335307,
+        "num": 278090,
+        "word": "三亚警方通报有人打砸群众车辆",
+        "onboard_time": 1674089185,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273081,
+        "num": 273081,
+        "word": "张小斐唱逆光跑调听愣雷佳音",
+        "onboard_time": 1674099205,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269169,
+        "num": 269169,
+        "word": "强国交通",
+        "onboard_time": 1674097643,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 267722,
+        "num": 267722,
+        "word": "创可贴创口贴居然不一样",
+        "onboard_time": 1674090625,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262983,
+        "num": 262983,
+        "word": "女子想回娘家过年婆婆一口拒绝",
+        "onboard_time": 1674089364,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314925,
+        "num": 255292,
+        "word": "王一博无名换了很多条领带",
+        "onboard_time": 1674099325,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237958,
+        "num": 237958,
+        "word": "流浪地球2终极预告",
+        "onboard_time": 1674097883,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225033,
+        "num": 225033,
+        "word": "时代少年团忘带邀请函",
+        "onboard_time": 1674086423,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198131,
+        "num": 224295,
+        "word": "突然明白父母为什么节俭了",
+        "onboard_time": 1674098787,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223818,
+        "num": 223818,
+        "word": "陈钰琪说我不喜欢粉色太娘了",
+        "onboard_time": 1674098966,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213979,
+        "num": 213979,
+        "word": "胡歌不虚此行预告",
+        "onboard_time": 1674094526,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189956,
+        "num": 189956,
+        "word": "西藏派墨公路雪崩失联者家属发声",
+        "onboard_time": 1674096685,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186534,
+        "num": 186534,
+        "word": "田曦薇田耕纪杀青路透",
+        "onboard_time": 1674094646,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178666,
+        "num": 178666,
+        "word": "冯小刚新剧回响",
+        "onboard_time": 1674099025,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170316,
+        "num": 170316,
+        "word": "福王成真宦官",
+        "onboard_time": 1674085399,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168907,
+        "num": 168907,
+        "word": "腊月二十八有哪些习俗",
+        "onboard_time": 1674098184,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169410,
+        "num": 165173,
+        "word": "YG新女团舞蹈视频公开",
+        "onboard_time": 1674086242,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169081,
+        "num": 164296,
+        "word": "这位曾刷屏全网的父亲走了",
+        "onboard_time": 1674093444,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160820,
+        "num": 160820,
+        "word": "许红豆看钻石豪门",
+        "onboard_time": 1674091824,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163860,
+        "num": 160480,
+        "word": "直面生育损伤",
+        "onboard_time": 1674052652,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159774,
+        "num": 159774,
+        "word": "张鲁一于和伟三体观后感",
+        "onboard_time": 1674098244,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138327,
+        "num": 138327,
+        "word": "王者兔限山海灵兽集体拜年",
+        "onboard_time": 1674099147,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138043,
+        "num": 138043,
+        "word": "东北司机穿10斤棉裤冒雪送年货",
+        "onboard_time": 1674098845,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138013,
+        "num": 138013,
+        "word": "鹤男说王鹤棣在剧组经常请客",
+        "onboard_time": 1674093926,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136695,
+        "num": 136695,
+        "word": "瑶妹乔妹是灯会祈福天花板吧",
+        "onboard_time": 1674096083,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130236,
+        "num": 130236,
+        "word": "西藏一隧道出口雪崩已致8人遇难",
+        "onboard_time": 1674085881,
+        "rank": 40,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 129383,
+        "num": 129383,
+        "word": "刘亦菲许红豆发带造型",
+        "onboard_time": 1674090983,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123285,
+        "num": 123285,
+        "word": "2022媒体眼中的艺人好感度调查",
+        "onboard_time": 1674099205,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121996,
+        "num": 121996,
+        "word": "三体 脱水",
+        "onboard_time": 1674049593,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117837,
+        "num": 117837,
+        "word": "中国男篮世预赛第六窗口期集训名单",
+        "onboard_time": 1674090688,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116943,
+        "num": 116943,
+        "word": "李现拍完有风想去大理开咖啡馆",
+        "onboard_time": 1674091106,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115780,
+        "num": 115780,
+        "word": "如何评价三体第7集",
+        "onboard_time": 1674098484,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114548,
+        "num": 114548,
+        "word": "高铁站大厅没插座引网友质疑",
+        "onboard_time": 1674080293,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111757,
+        "num": 111757,
+        "word": "安局是不是内鬼",
+        "onboard_time": 1674089122,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109798,
+        "num": 109798,
+        "word": "张艺兴给李宇春龙丹妮张杰拍照",
+        "onboard_time": 1674083357,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#温暖牵挂#"
+    }
+  }
+}

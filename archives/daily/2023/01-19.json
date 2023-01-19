@@ -1,6 +1,6 @@
 {
   "startTime": 1674059173079,
-  "endTime": 1674098493299,
+  "endTime": 1674099336664,
   "band_list": [
     {
       "raw_hot": 2748791,
@@ -83,20 +83,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 903679,
+      "num": 903679,
+      "word": "微软宣布裁员1万人",
+      "onboard_time": 1674096503,
+      "rank": 46,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 863160,
       "num": 863160,
       "word": "高铁站大厅没插座引网友质疑",
       "onboard_time": 1674080293,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 830825,
-      "num": 830825,
-      "word": "微软宣布裁员1万人",
-      "onboard_time": 1674096503,
-      "rank": 46,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 828024,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 763137,
+      "num": 763137,
+      "word": "江西小县城相亲大会20男相1女",
+      "onboard_time": 1674095545,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 752092,
       "num": 678813,
       "word": "母子卧铺车早读被乘客提醒小声",
@@ -136,14 +144,6 @@
       "word": "银行员工贪污398万整容创业潜逃25年",
       "onboard_time": 1674058586,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 652977,
-      "num": 652977,
-      "word": "江西小县城相亲大会20男相1女",
-      "onboard_time": 1674095545,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -169,6 +169,14 @@
       "onboard_time": 1674096386,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 561549,
+      "num": 527136,
+      "word": "强国交通APP与交通运输部无关",
+      "onboard_time": 1674096867,
+      "rank": 28,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 559910,
@@ -217,14 +225,6 @@
       "onboard_time": 1674034407,
       "rank": 6,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 474551,
-      "num": 474551,
-      "word": "强国交通APP与交通运输部无关",
-      "onboard_time": 1674096867,
-      "rank": 28,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 453864,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314925,
+      "num": 255292,
+      "word": "王一博无名换了很多条领带",
+      "onboard_time": 1674099325,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304328,
       "num": 304328,
       "word": "沈梦辰说嫁给海涛嫁对了",
@@ -419,6 +427,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273081,
+      "num": 273081,
+      "word": "张小斐唱逆光跑调听愣雷佳音",
+      "onboard_time": 1674099205,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 269169,
+      "num": 269169,
+      "word": "强国交通",
+      "onboard_time": 1674097643,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 267939,
       "num": 267939,
       "word": "时代少年团忘带邀请函",
@@ -459,14 +483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 242287,
-      "num": 242287,
-      "word": "强国交通",
-      "onboard_time": 1674097643,
-      "rank": 20,
-      "category": "科技"
-    },
-    {
       "raw_hot": 241350,
       "num": 241350,
       "word": "周震南父母被恢复执行5850万",
@@ -497,6 +513,14 @@
       "onboard_time": 1674043109,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 223818,
+      "num": 223818,
+      "word": "陈钰琪说我不喜欢粉色太娘了",
+      "onboard_time": 1674098966,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 214699,
@@ -571,6 +595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198131,
+      "num": 224295,
+      "word": "突然明白父母为什么节俭了",
+      "onboard_time": 1674098787,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198118,
       "num": 198118,
       "word": "狂飙12集封神",
@@ -595,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189956,
+      "num": 189956,
+      "word": "西藏派墨公路雪崩失联者家属发声",
+      "onboard_time": 1674096685,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186516,
       "num": 186516,
       "word": "时代少年团下班营业照",
@@ -608,6 +648,14 @@
       "word": "王一博说无名的文戏也惊心动魄",
       "onboard_time": 1674055108,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 178666,
+      "num": 178666,
+      "word": "冯小刚新剧回响",
+      "onboard_time": 1674099025,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -643,11 +691,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 168976,
-      "num": 168976,
-      "word": "西藏派墨公路雪崩失联者家属发声",
-      "onboard_time": 1674096685,
-      "rank": 47,
+      "raw_hot": 168907,
+      "num": 168907,
+      "word": "腊月二十八有哪些习俗",
+      "onboard_time": 1674098184,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -771,6 +819,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138327,
+      "num": 138327,
+      "word": "王者兔限山海灵兽集体拜年",
+      "onboard_time": 1674099147,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 138043,
+      "num": 138043,
+      "word": "东北司机穿10斤棉裤冒雪送年货",
+      "onboard_time": 1674098845,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136238,
       "num": 123592,
       "word": "谭松韵和云南山区孩子上诗歌课",
@@ -801,14 +865,6 @@
       "onboard_time": 1674048927,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126427,
-      "num": 126427,
-      "word": "腊月二十八有哪些习俗",
-      "onboard_time": 1674098184,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125725,
@@ -849,6 +905,14 @@
       "onboard_time": 1674095606,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123285,
+      "num": 123285,
+      "word": "2022媒体眼中的艺人好感度调查",
+      "onboard_time": 1674099205,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 122747,
@@ -907,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115780,
+      "num": 115780,
+      "word": "如何评价三体第7集",
+      "onboard_time": 1674098484,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 114713,
       "num": 114713,
       "word": "Minji将担任本周音银特别MC",
@@ -945,14 +1017,6 @@
       "onboard_time": 1674063797,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105355,
-      "num": 105355,
-      "word": "如何评价三体第7集",
-      "onboard_time": 1674098484,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 103530,
