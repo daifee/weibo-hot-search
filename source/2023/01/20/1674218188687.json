@@ -1,0 +1,410 @@
+{
+  "runTime": 1674218188687,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6068009,
+        "num": 6068009,
+        "word": "春晚节目单",
+        "onboard_time": 1674211107,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5844056,
+        "num": 5844056,
+        "word": "春晚没有贾玲张小斐",
+        "onboard_time": 1674213510,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28919,
+        "num": 2068143,
+        "word": "这就是中国年的仪式感",
+        "onboard_time": 1674176963,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1752740,
+        "num": 1752740,
+        "word": "今年春晚没有李谷一",
+        "onboard_time": 1674212489,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1171337,
+        "num": 1171337,
+        "word": "是我知道的那个吴彤吗",
+        "onboard_time": 1674215189,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1030185,
+        "num": 1030185,
+        "word": "赵晓卉出息了",
+        "onboard_time": 1674215729,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 932710,
+        "num": 932710,
+        "word": "老干妈微博微信全部断更",
+        "onboard_time": 1674209905,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 465185,
+        "num": 465185,
+        "word": "你年终奖拿得出手吗",
+        "onboard_time": 1674212005,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353894,
+        "num": 353894,
+        "word": "奇葩小舅子醉驾姐夫车几乎撞报废",
+        "onboard_time": 1674214591,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284500,
+        "num": 284500,
+        "word": "男子在山间窄溪发现上千条鱼",
+        "onboard_time": 1674215608,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836688,
+        "num": 284436,
+        "word": "辽视春晚",
+        "onboard_time": 1674214410,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 738294,
+        "num": 283807,
+        "word": "许嵩春晚solo舞台",
+        "onboard_time": 1674213150,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 654604,
+        "num": 283651,
+        "word": "过年美甲小心致癌突变",
+        "onboard_time": 1674207865,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593543,
+        "num": 283170,
+        "word": "赵丽颖春晚有两个节目",
+        "onboard_time": 1674214172,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547237,
+        "num": 283108,
+        "word": "马旭东闫佩伦上春晚了",
+        "onboard_time": 1674213992,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490761,
+        "num": 282454,
+        "word": "狂飙",
+        "onboard_time": 1674217830,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426582,
+        "num": 282330,
+        "word": "女子花9小时染发染翻车店家退400",
+        "onboard_time": 1674203365,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282077,
+        "num": 282077,
+        "word": "公公每天监控喊话媳妇引10万网友围观",
+        "onboard_time": 1674208947,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201737,
+        "num": 201737,
+        "word": "父母凌晨1点做7个菜迎接远嫁女儿回家",
+        "onboard_time": 1674207207,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198708,
+        "num": 198708,
+        "word": "阿尔维斯涉嫌性侵被捕",
+        "onboard_time": 1674216629,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469229,
+        "num": 198459,
+        "word": "肖铎步音楼私奔成功",
+        "onboard_time": 1674216329,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400992,
+        "num": 198135,
+        "word": "流浪地球2首映全场欢呼比1更好",
+        "onboard_time": 1674213992,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382319,
+        "num": 197731,
+        "word": "张元英吃披萨",
+        "onboard_time": 1674196883,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282894,
+        "num": 197628,
+        "word": "姜广涛",
+        "onboard_time": 1674179063,
+        "rank": 23,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 364602,
+        "num": 197136,
+        "word": "辽视春晚的小品",
+        "onboard_time": 1674216870,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336692,
+        "num": 196877,
+        "word": "浮图缘",
+        "onboard_time": 1674217769,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196619,
+        "num": 196619,
+        "word": "大学生开始对年夜饭下手了",
+        "onboard_time": 1674216090,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168968,
+        "num": 168968,
+        "word": "远嫁女子回婆家有客不能上桌吃饭",
+        "onboard_time": 1674206427,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155000,
+        "num": 155000,
+        "word": "过年给爸妈换手机是什么体验",
+        "onboard_time": 1674212247,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97376,
+        "num": 154808,
+        "word": "原来响铃是这么炸的",
+        "onboard_time": 1674208947,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 426950,
+        "num": 154240,
+        "word": "江歌妈妈收到首笔法院执行款50500元",
+        "onboard_time": 1674217170,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313208,
+        "num": 153845,
+        "word": "秦霄贤说的荧幕情侣演员名是王鹤棣虞书欣",
+        "onboard_time": 1674212427,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292665,
+        "num": 153557,
+        "word": "王一博说我怕你们收不到我的问候",
+        "onboard_time": 1674208405,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273736,
+        "num": 152939,
+        "word": "艾热不唱千里万里",
+        "onboard_time": 1674215189,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152816,
+        "num": 152816,
+        "word": "兔年壁纸",
+        "onboard_time": 1674216691,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233837,
+        "num": 152570,
+        "word": "周深流浪地球2首映礼现场唱人是",
+        "onboard_time": 1674212969,
+        "rank": 35,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 149366,
+        "num": 149366,
+        "word": "70岁普京按照传统进行冰浴洗礼",
+        "onboard_time": 1674207926,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233826,
+        "num": 148707,
+        "word": "流浪地球2用CG复原了吴孟达角色",
+        "onboard_time": 1674201085,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143492,
+        "num": 143492,
+        "word": "这届年轻人是懂KTV的",
+        "onboard_time": 1674208527,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135609,
+        "num": 135609,
+        "word": "西藏林芝雪崩遇难人数增至20人",
+        "onboard_time": 1674204925,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 231096,
+        "num": 134537,
+        "word": "杨紫春晚两个节目",
+        "onboard_time": 1674213268,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226846,
+        "num": 133326,
+        "word": "李响会黑化吗",
+        "onboard_time": 1674212247,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208538,
+        "num": 132611,
+        "word": "2023辽视春晚节目单",
+        "onboard_time": 1674213751,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130948,
+        "num": 130948,
+        "word": "小猫讨厌没有边界感的人类",
+        "onboard_time": 1674204205,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208105,
+        "num": 130872,
+        "word": "赵丽颖百花迎春祝福VCR视频",
+        "onboard_time": 1674216450,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175285,
+        "num": 130811,
+        "word": "东西南北贺新春",
+        "onboard_time": 1674217889,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189926,
+        "num": 130684,
+        "word": "赵丽颖孙千看深海又哭又笑",
+        "onboard_time": 1674209425,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130554,
+        "num": 130554,
+        "word": "山东51岁男媒婆送千元相亲基金",
+        "onboard_time": 1674211525,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122992,
+        "num": 122992,
+        "word": "网易暴雪客服团队与玩家道别",
+        "onboard_time": 1674202764,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119500,
+        "num": 119500,
+        "word": "提前半月在去哪儿订酒店临入住被退",
+        "onboard_time": 1674215909,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央国务院举行春节团拜会#"
+    }
+  }
+}
