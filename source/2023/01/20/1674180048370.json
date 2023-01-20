@@ -1,0 +1,410 @@
+{
+  "runTime": 1674180048370,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1681769,
+        "num": 1681769,
+        "word": "专家预测2月初可能出现疫情拐点",
+        "onboard_time": 1674175464,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691552,
+        "num": 691552,
+        "word": "真的没人管管张远陆虎吗",
+        "onboard_time": 1674172160,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132054,
+        "num": 616836,
+        "word": "未感染人群怎么做好个人防护",
+        "onboard_time": 1674137191,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1325562,
+        "num": 613862,
+        "word": "姜广涛",
+        "onboard_time": 1674179063,
+        "rank": 3,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 546536,
+        "num": 546536,
+        "word": "C罗 梅开二度",
+        "onboard_time": 1674169637,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 528183,
+        "num": 528183,
+        "word": "主人离家10天给猫备10碗粮17碗水",
+        "onboard_time": 1674170656,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433205,
+        "num": 433205,
+        "word": "27岁女子为父母偷偷买房父亲参观时哽咽",
+        "onboard_time": 1674141630,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391474,
+        "num": 391474,
+        "word": "为何低俗婚闹屡禁不了",
+        "onboard_time": 1674178105,
+        "rank": 7,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 386709,
+        "num": 386709,
+        "word": "福兔",
+        "onboard_time": 1674174684,
+        "rank": 8,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 358156,
+        "num": 358156,
+        "word": "春晚节目单",
+        "onboard_time": 1674141269,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353818,
+        "num": 353818,
+        "word": "许红豆被许红米锁喉",
+        "onboard_time": 1674178285,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350050,
+        "num": 350050,
+        "word": "兔子的最爱不是胡萝卜",
+        "onboard_time": 1674175585,
+        "rank": 11,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 331701,
+        "num": 331701,
+        "word": "许红豆家的银行卡密码是天灵灵地灵灵",
+        "onboard_time": 1674179304,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325281,
+        "num": 325281,
+        "word": "年终奖能壕成什么样",
+        "onboard_time": 1674178524,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310460,
+        "num": 310460,
+        "word": "生肖卡",
+        "onboard_time": 1674176063,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 292467,
+        "num": 292467,
+        "word": "C罗沙特首秀获评全场最佳",
+        "onboard_time": 1674171499,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279387,
+        "num": 279387,
+        "word": "清华硕士称大厂2万月薪践踏学历",
+        "onboard_time": 1674127047,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 271085,
+        "num": 271085,
+        "word": "女子晒公司年终发一箱苹果15个全坏",
+        "onboard_time": 1674161653,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264974,
+        "num": 264974,
+        "word": "河北到2025年高价彩礼等婚嫁陋俗得到有效遏制",
+        "onboard_time": 1674173241,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262083,
+        "num": 262083,
+        "word": "王嘉尔 唇环",
+        "onboard_time": 1674138633,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 240807,
+        "num": 240807,
+        "word": "蒲熠星 淘汰",
+        "onboard_time": 1674135089,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230717,
+        "num": 230717,
+        "word": "内马尔 点球",
+        "onboard_time": 1674172581,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227362,
+        "num": 227362,
+        "word": "郑恺说认识苗苗以后才养成的剥虾习惯",
+        "onboard_time": 1674146843,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205072,
+        "num": 205072,
+        "word": "这不是腰痛是骶髂关节痛",
+        "onboard_time": 1674173960,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200658,
+        "num": 200658,
+        "word": "许红米叫许红豆起床好真实",
+        "onboard_time": 1674144389,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199292,
+        "num": 199292,
+        "word": "张颂文演技",
+        "onboard_time": 1674170718,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197733,
+        "num": 197733,
+        "word": "这哪叫自建房这叫自建府",
+        "onboard_time": 1674135448,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191524,
+        "num": 191524,
+        "word": "男子在雪地踩出印刷体前程似锦",
+        "onboard_time": 1674174924,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178538,
+        "num": 178538,
+        "word": "王一博脸上青春痘都比你好看",
+        "onboard_time": 1674134668,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163377,
+        "num": 163377,
+        "word": "三部预售票房过亿的电影",
+        "onboard_time": 1674142707,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159523,
+        "num": 159523,
+        "word": "狂飙",
+        "onboard_time": 1674170418,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158123,
+        "num": 158123,
+        "word": "勇士vs凯尔特人",
+        "onboard_time": 1674178043,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155975,
+        "num": 155975,
+        "word": "杨紫王冰冰同框",
+        "onboard_time": 1674138030,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154666,
+        "num": 154666,
+        "word": "C罗说老友见面很棒",
+        "onboard_time": 1674174144,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150976,
+        "num": 150976,
+        "word": "三体集体脱水名场面",
+        "onboard_time": 1674146063,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145178,
+        "num": 145178,
+        "word": "深圳市监局称排查未发现有蓝环章鱼",
+        "onboard_time": 1674178825,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135372,
+        "num": 135372,
+        "word": "原神",
+        "onboard_time": 1674169877,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133969,
+        "num": 133969,
+        "word": "这届年轻人开始报复性回家过年了",
+        "onboard_time": 1674125788,
+        "rank": 37,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 133449,
+        "num": 133449,
+        "word": "大寒",
+        "onboard_time": 1674171618,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133125,
+        "num": 133125,
+        "word": "明天就是除夕了",
+        "onboard_time": 1674179784,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132476,
+        "num": 132476,
+        "word": "蓝环章鱼后又现毒螃蟹",
+        "onboard_time": 1674136110,
+        "rank": 40,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 130988,
+        "num": 130988,
+        "word": "倪萍冯巩春晚同台童年又回来了",
+        "onboard_time": 1674141871,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129855,
+        "num": 129855,
+        "word": "福王变成小福子",
+        "onboard_time": 1674172640,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128694,
+        "num": 128694,
+        "word": "官方回应红灯笼挂满街找不到红绿灯",
+        "onboard_time": 1674166872,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126411,
+        "num": 126411,
+        "word": "下一个虎年是2034年",
+        "onboard_time": 1674179724,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120551,
+        "num": 120551,
+        "word": "还得是梅罗对决",
+        "onboard_time": 1674173543,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115999,
+        "num": 115999,
+        "word": "梅西",
+        "onboard_time": 1674142591,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115929,
+        "num": 115929,
+        "word": "魏晨大侦探换牌被拒绝了5次",
+        "onboard_time": 1674143489,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112387,
+        "num": 112387,
+        "word": "C罗受伤",
+        "onboard_time": 1674173062,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108207,
+        "num": 108207,
+        "word": "乐华上市庆功宴路透",
+        "onboard_time": 1674138330,
+        "rank": 49,
+        "category": "财经,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记最大的心愿就是大家欢喜过好年#"
+    }
+  }
+}

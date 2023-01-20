@@ -1,14 +1,22 @@
 {
   "startTime": 1674145605899,
-  "endTime": 1674178657559,
+  "endTime": 1674180048370,
   "band_list": [
     {
-      "raw_hot": 1668901,
-      "num": 1668901,
+      "raw_hot": 1681769,
+      "num": 1681769,
       "word": "专家预测2月初可能出现疫情拐点",
       "onboard_time": 1674175464,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1325562,
+      "num": 613862,
+      "word": "姜广涛",
+      "onboard_time": 1674179063,
+      "rank": 3,
+      "category": "动漫,网红"
     },
     {
       "raw_hot": 1071055,
@@ -43,20 +51,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 691552,
+      "num": 691552,
+      "word": "真的没人管管张远陆虎吗",
+      "onboard_time": 1674172160,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 690671,
       "num": 690671,
       "word": "主人离家10天给猫备10碗粮17碗水",
       "onboard_time": 1674170656,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 672639,
-      "num": 672639,
-      "word": "真的没人管管张远陆虎吗",
-      "onboard_time": 1674172160,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 652573,
@@ -139,6 +147,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 391474,
+      "num": 391474,
+      "word": "为何低俗婚闹屡禁不了",
+      "onboard_time": 1674178105,
+      "rank": 27,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 386709,
+      "num": 386709,
+      "word": "福兔",
+      "onboard_time": 1674174684,
+      "rank": 8,
+      "category": "科技,情感"
+    },
+    {
       "raw_hot": 384425,
       "num": 384425,
       "word": "女子晒公司年终发一箱苹果15个全坏",
@@ -163,12 +187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 365162,
-      "num": 365162,
-      "word": "福兔",
-      "onboard_time": 1674174684,
-      "rank": 8,
-      "category": "科技,情感"
+      "raw_hot": 358156,
+      "num": 358156,
+      "word": "春晚节目单",
+      "onboard_time": 1674141269,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 356181,
@@ -179,12 +203,28 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 323013,
-      "num": 323013,
-      "word": "春晚节目单",
-      "onboard_time": 1674141269,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 353818,
+      "num": 353818,
+      "word": "许红豆被许红米锁喉",
+      "onboard_time": 1674178285,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 331701,
+      "num": 331701,
+      "word": "许红豆家的银行卡密码是天灵灵地灵灵",
+      "onboard_time": 1674179304,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 325281,
+      "num": 325281,
+      "word": "年终奖能壕成什么样",
+      "onboard_time": 1674178524,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312868,
@@ -267,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238445,
-      "num": 238445,
-      "word": "许红豆被许红米锁喉",
-      "onboard_time": 1674178285,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 235435,
       "num": 97948,
       "word": "世界杯官方晒C罗海报",
@@ -345,14 +377,6 @@
       "onboard_time": 1674139052,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209436,
-      "num": 209436,
-      "word": "为何低俗婚闹屡禁不了",
-      "onboard_time": 1674178105,
-      "rank": 27,
-      "category": "社会议题"
     },
     {
       "raw_hot": 207492,
@@ -523,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145178,
+      "num": 145178,
+      "word": "深圳市监局称排查未发现有蓝环章鱼",
+      "onboard_time": 1674178825,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144998,
       "num": 144998,
       "word": "大寒",
@@ -555,11 +587,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 137375,
-      "num": 137375,
-      "word": "年终奖能壕成什么样",
-      "onboard_time": 1674178524,
-      "rank": 43,
+      "raw_hot": 133125,
+      "num": 133125,
+      "word": "明天就是除夕了",
+      "onboard_time": 1674179784,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -576,6 +608,14 @@
       "word": "至今没阳过返乡过年感染风险是否更大",
       "onboard_time": 1674144327,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126411,
+      "num": 126411,
+      "word": "下一个虎年是2034年",
+      "onboard_time": 1674179724,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
