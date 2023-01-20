@@ -1,6 +1,6 @@
 {
   "startTime": 1674145605899,
-  "endTime": 1674210050456,
+  "endTime": 1674210994649,
   "band_list": [
     {
       "raw_hot": 2063772,
@@ -25,6 +25,14 @@
       "onboard_time": 1674181764,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1757893,
+      "num": 1757893,
+      "word": "过年美甲小心致癌突变",
+      "onboard_time": 1674207865,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1724649,
@@ -65,14 +73,6 @@
       "onboard_time": 1674194725,
       "rank": 6,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 1143001,
-      "num": 1143001,
-      "word": "过年美甲小心致癌突变",
-      "onboard_time": 1674207865,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1074637,
@@ -123,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 960413,
+      "num": 960413,
+      "word": "春晚",
+      "onboard_time": 1674207865,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 941635,
       "num": 941635,
       "word": "三部预售票房过亿的电影",
@@ -152,6 +160,14 @@
       "word": "婚礼上新娘发现新郎手变黑了",
       "onboard_time": 1674189148,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 745520,
+      "num": 745520,
+      "word": "父母凌晨1点做7个菜迎接远嫁女儿回家",
+      "onboard_time": 1674207207,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -195,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 686833,
-      "num": 686833,
-      "word": "春晚",
-      "onboard_time": 1674207865,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 678703,
       "num": 678703,
       "word": "王一博说我怕你们收不到我的问候",
@@ -217,14 +225,6 @@
       "onboard_time": 1674182786,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 665926,
-      "num": 665926,
-      "word": "父母凌晨1点做7个菜迎接远嫁女儿回家",
-      "onboard_time": 1674207207,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 660241,
@@ -273,6 +273,14 @@
       "onboard_time": 1674185546,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 613701,
+      "num": 613701,
+      "word": "赵丽颖孙千看深海又哭又笑",
+      "onboard_time": 1674209425,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 611900,
@@ -371,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 513073,
-      "num": 513073,
-      "word": "赵丽颖孙千看深海又哭又笑",
-      "onboard_time": 1674209425,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 505248,
+      "num": 505248,
+      "word": "70岁普京按照传统进行冰浴洗礼",
+      "onboard_time": 1674207926,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505158,
@@ -409,14 +417,6 @@
       "onboard_time": 1674127047,
       "rank": 5,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 483391,
-      "num": 483391,
-      "word": "70岁普京按照传统进行冰浴洗礼",
-      "onboard_time": 1674207926,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 476385,
@@ -473,6 +473,14 @@
       "onboard_time": 1674187285,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 445128,
+      "num": 377714,
+      "word": "公公每天监控喊话媳妇引10万网友围观",
+      "onboard_time": 1674208947,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422934,
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369212,
+      "num": 369212,
+      "word": "陈钰琪说今晚一起来见证楼姐重新出发",
+      "onboard_time": 1674209966,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 363925,
       "num": 363925,
       "word": "网易暴雪客服团队与玩家道别",
@@ -716,7 +732,7 @@
     },
     {
       "raw_hot": 350062,
-      "num": 292152,
+      "num": 293593,
       "word": "虞书欣钓鱼好像小学生春游",
       "onboard_time": 1674207266,
       "rank": 17,
@@ -827,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 304574,
+      "num": 304574,
+      "word": "赵露思最近日常vlog",
+      "onboard_time": 1674210207,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296216,
       "num": 296216,
       "word": "R1SE隔空合体拜年视频",
@@ -844,27 +868,27 @@
     },
     {
       "raw_hot": 294247,
-      "num": 203936,
+      "num": 263672,
       "word": "王俊凯百花迎春祝福VCR",
       "onboard_time": 1674209604,
       "rank": 22,
       "category": "综艺"
     },
     {
-      "raw_hot": 291114,
-      "num": 291114,
-      "word": "公公每天监控喊话媳妇引10万网友围观",
-      "onboard_time": 1674208947,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289944,
-      "num": 202807,
+      "num": 249829,
       "word": "于和伟晒洗衣机脱水",
       "onboard_time": 1674208527,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286626,
+      "num": 317885,
+      "word": "老干妈微博微信全部断更",
+      "onboard_time": 1674209905,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 283911,
@@ -881,6 +905,14 @@
       "onboard_time": 1674200725,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281519,
+      "num": 304933,
+      "word": "原来响铃是这么炸的",
+      "onboard_time": 1674208947,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 281432,
@@ -1131,14 +1163,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 224139,
-      "num": 158531,
-      "word": "陈钰琪说今晚一起来见证楼姐重新出发",
-      "onboard_time": 1674209966,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 221318,
       "num": 221318,
       "word": "大橘挨揍后有多委屈",
@@ -1267,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199484,
+      "num": 199484,
+      "word": "这届年轻人是懂KTV的",
+      "onboard_time": 1674208527,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199221,
       "num": 199221,
       "word": "新年开箱",
@@ -1289,14 +1321,6 @@
       "onboard_time": 1674205646,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195997,
-      "num": 195997,
-      "word": "原来响铃是这么炸的",
-      "onboard_time": 1674208947,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 194879,
@@ -1675,12 +1699,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 143458,
-      "num": 143458,
+      "raw_hot": 143806,
+      "num": 143806,
       "word": "小男孩偷点烟花摊爆竹瞬间燃起大火",
       "onboard_time": 1674208287,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142928,
+      "num": 127625,
+      "word": "红豆遥遥冰窗台吻来了",
+      "onboard_time": 1674210627,
+      "rank": 41,
+      "category": "影视,影视"
     },
     {
       "raw_hot": 142212,
@@ -1859,12 +1891,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116100,
-      "num": 116100,
-      "word": "老干妈微博微信全部断更",
-      "onboard_time": 1674209905,
+      "raw_hot": 114694,
+      "num": 114694,
+      "word": "2023兔年红红火火",
+      "onboard_time": 1674210746,
       "rank": 46,
-      "category": "财经"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114453,
@@ -1905,14 +1937,6 @@
       "onboard_time": 1674134551,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112320,
-      "num": 112320,
-      "word": "这届年轻人是懂KTV的",
-      "onboard_time": 1674208527,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 110209,
@@ -2068,7 +2092,7 @@
     },
     {
       "raw_hot": 35428,
-      "num": 691172,
+      "num": 1039993,
       "word": "这就是中国年的仪式感",
       "onboard_time": 1674176963,
       "rank": 2,
