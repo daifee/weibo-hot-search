@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674213347982,
+  "endTime": 1674214424000,
   "band_list": [
     {
       "raw_hot": 9337684,
@@ -35,12 +35,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3386673,
+      "num": 3386673,
+      "word": "今年春晚没有李谷一",
+      "onboard_time": 1674212489,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3301649,
       "num": 542847,
       "word": "陆虎 求婚",
       "onboard_time": 1674048870,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3141715,
+      "num": 3141715,
+      "word": "春晚没有贾玲张小斐",
+      "onboard_time": 1674213510,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2930099,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 2034937,
-      "num": 491856,
+      "num": 589465,
       "word": "张元英吃披萨",
       "onboard_time": 1674196883,
       "rank": 10,
@@ -257,14 +273,6 @@
       "onboard_time": 1673836947,
       "rank": 43,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1943325,
-      "num": 1943325,
-      "word": "今年春晚没有李谷一",
-      "onboard_time": 1674212489,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1929888,
@@ -771,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1216323,
+      "num": 1216323,
+      "word": "老干妈微博微信全部断更",
+      "onboard_time": 1674209905,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1211714,
       "num": 1211714,
       "word": "火锅店吃饭还好多问了一句",
@@ -913,14 +929,6 @@
       "onboard_time": 1674040891,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1110216,
-      "num": 1110216,
-      "word": "老干妈微博微信全部断更",
-      "onboard_time": 1674209905,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 1106140,
@@ -1224,6 +1232,14 @@
       "word": "王嘉宁 春晚主持",
       "onboard_time": 1673839469,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 943524,
+      "num": 943524,
+      "word": "许嵩春晚solo舞台",
+      "onboard_time": 1674213150,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -2739,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 590394,
+      "num": 590394,
+      "word": "杨紫春晚两个节目",
+      "onboard_time": 1674213268,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 589962,
       "num": 589962,
       "word": "儿媳每天接送8旬医生公公上下班",
@@ -3419,6 +3443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 493775,
+      "num": 493775,
+      "word": "秦霄贤说的荧幕情侣演员名是王鹤棣虞书欣",
+      "onboard_time": 1674212427,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 493394,
       "num": 493394,
       "word": "王鹤棣谈困境与爆红",
@@ -3604,7 +3636,7 @@
     },
     {
       "raw_hot": 465753,
-      "num": 429915,
+      "num": 494290,
       "word": "公公每天监控喊话媳妇引10万网友围观",
       "onboard_time": 1674208947,
       "rank": 18,
@@ -3641,14 +3673,6 @@
       "onboard_time": 1674191307,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 460802,
-      "num": 424437,
-      "word": "秦霄贤说的荧幕情侣演员名是王鹤棣虞书欣",
-      "onboard_time": 1674212427,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 460566,
@@ -4275,6 +4299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398958,
+      "num": 397964,
+      "word": "周深流浪地球2首映礼现场唱人是",
+      "onboard_time": 1674212969,
+      "rank": 14,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 398780,
       "num": 398780,
       "word": "程耳祝王一博转型成功",
@@ -4297,14 +4329,6 @@
       "onboard_time": 1674182604,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 397964,
-      "num": 397964,
-      "word": "周深流浪地球2首映礼现场唱人是",
-      "onboard_time": 1674212969,
-      "rank": 14,
-      "category": "影视,音乐"
     },
     {
       "raw_hot": 397814,
@@ -4481,6 +4505,14 @@
       "onboard_time": 1674161653,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384148,
+      "num": 214031,
+      "word": "马旭东闫佩伦上春晚了",
+      "onboard_time": 1674213992,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 384110,
@@ -4945,14 +4977,6 @@
       "onboard_time": 1674178285,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 353815,
-      "num": 353815,
-      "word": "许嵩春晚solo舞台",
-      "onboard_time": 1674213150,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 353769,
@@ -5995,6 +6019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299515,
+      "num": 207735,
+      "word": "2023辽视春晚节目单",
+      "onboard_time": 1674213751,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298581,
       "num": 198339,
       "word": "于和伟三体游戏刚上线就下线",
@@ -6041,6 +6073,14 @@
       "onboard_time": 1674108387,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 297495,
+      "num": 198624,
+      "word": "流浪地球2首映全场欢呼比1更好",
+      "onboard_time": 1674213992,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 297443,
@@ -6675,6 +6715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272056,
+      "num": 181686,
+      "word": "赵丽颖春晚有两个节目",
+      "onboard_time": 1674214172,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272054,
       "num": 182911,
       "word": "蒋依依开场舞",
@@ -6928,6 +6976,14 @@
       "word": "于和伟演技",
       "onboard_time": 1673825179,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 264394,
+      "num": 221316,
+      "word": "李响会黑化吗",
+      "onboard_time": 1674212247,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -7193,14 +7249,6 @@
       "onboard_time": 1674022286,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254873,
-      "num": 221316,
-      "word": "李响会黑化吗",
-      "onboard_time": 1674212247,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 254870,
@@ -7803,6 +7851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231603,
+      "num": 231603,
+      "word": "你年终奖拿得出手吗",
+      "onboard_time": 1674212005,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231587,
       "num": 231587,
       "word": "肖步活了是真地下恋",
@@ -7881,14 +7937,6 @@
       "onboard_time": 1674047369,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 226987,
-      "num": 226987,
-      "word": "你年终奖拿得出手吗",
-      "onboard_time": 1674212005,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 226348,
@@ -8363,12 +8411,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 206210,
+      "num": 94531,
+      "word": "辽视春晚",
+      "onboard_time": 1674214410,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206039,
       "num": 206039,
       "word": "网易 阴阳师",
       "onboard_time": 1674021686,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206027,
+      "num": 93295,
+      "word": "王宝强杨紫王宁春晚同台",
+      "onboard_time": 1674214110,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 205770,
@@ -8777,14 +8841,6 @@
       "onboard_time": 1674029607,
       "rank": 33,
       "category": "科技"
-    },
-    {
-      "raw_hot": 195432,
-      "num": 171738,
-      "word": "杨紫春晚两个节目",
-      "onboard_time": 1674213268,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 194987,
@@ -12347,6 +12403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 74839,
+      "num": 74839,
+      "word": "回村吃席有多热闹",
+      "onboard_time": 1674213390,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 74486,
       "num": 480690,
       "word": "春节气氛组不能没有兔子灯",
@@ -12636,7 +12700,7 @@
     },
     {
       "raw_hot": 35428,
-      "num": 1930950,
+      "num": 3195647,
       "word": "这就是中国年的仪式感",
       "onboard_time": 1674176963,
       "rank": 2,

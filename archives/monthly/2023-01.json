@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674213347982,
+  "endTime": 1674214424000,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -227,6 +227,14 @@
       "category": "动漫,网红"
     },
     {
+      "raw_hot": 3386673,
+      "num": 3386673,
+      "word": "今年春晚没有李谷一",
+      "onboard_time": 1674212489,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3379508,
       "num": 402303,
       "word": "刘大锤要曝全国人民都认识的喜剧演员",
@@ -305,6 +313,14 @@
       "onboard_time": 1673325569,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3141715,
+      "num": 3141715,
+      "word": "春晚没有贾玲张小斐",
+      "onboard_time": 1674213510,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 3109836,
@@ -1028,7 +1044,7 @@
     },
     {
       "raw_hot": 2034937,
-      "num": 491856,
+      "num": 589465,
       "word": "张元英吃披萨",
       "onboard_time": 1674196883,
       "rank": 10,
@@ -1224,14 +1240,6 @@
       "word": "难听",
       "onboard_time": 1672494360,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1943325,
-      "num": 1943325,
-      "word": "今年春晚没有李谷一",
-      "onboard_time": 1674212489,
-      "rank": 1,
       "category": "综艺"
     },
     {
@@ -3451,6 +3459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1216323,
+      "num": 1216323,
+      "word": "老干妈微博微信全部断更",
+      "onboard_time": 1674209905,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1215468,
       "num": 1215468,
       "word": "Angelababy去看了BLACKPINK演唱会",
@@ -4137,14 +4153,6 @@
       "onboard_time": 1673589269,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1110216,
-      "num": 1110216,
-      "word": "老干妈微博微信全部断更",
-      "onboard_time": 1674209905,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 1109980,
@@ -5432,6 +5440,14 @@
       "word": "薛凯琪想了一年的梗被佘诗曼破了",
       "onboard_time": 1673236768,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 943524,
+      "num": 943524,
+      "word": "许嵩春晚solo舞台",
+      "onboard_time": 1674213150,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -11323,6 +11339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 590394,
+      "num": 590394,
+      "word": "杨紫春晚两个节目",
+      "onboard_time": 1674213268,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 590022,
       "num": 590022,
       "word": "女子结婚在婚宴上安排前男友桌",
@@ -14467,6 +14491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 493775,
+      "num": 493775,
+      "word": "秦霄贤说的荧幕情侣演员名是王鹤棣虞书欣",
+      "onboard_time": 1674212427,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 493394,
       "num": 493394,
       "word": "王鹤棣谈困境与爆红",
@@ -15404,7 +15436,7 @@
     },
     {
       "raw_hot": 465753,
-      "num": 429915,
+      "num": 494290,
       "word": "公公每天监控喊话媳妇引10万网友围观",
       "onboard_time": 1674208947,
       "rank": 18,
@@ -15552,14 +15584,6 @@
       "word": "白鹿张凌赫加盟尖叫之夜",
       "onboard_time": 1673522908,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 460802,
-      "num": 424437,
-      "word": "秦霄贤说的荧幕情侣演员名是王鹤棣虞书欣",
-      "onboard_time": 1674212427,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -18355,6 +18379,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 398958,
+      "num": 397964,
+      "word": "周深流浪地球2首映礼现场唱人是",
+      "onboard_time": 1674212969,
+      "rank": 14,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 398943,
       "num": 398943,
       "word": "小鬼自曝去洛杉矶网吧玩",
@@ -18441,14 +18473,6 @@
       "onboard_time": 1673266650,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 397964,
-      "num": 397964,
-      "word": "周深流浪地球2首映礼现场唱人是",
-      "onboard_time": 1674212969,
-      "rank": 14,
-      "category": "影视,音乐"
     },
     {
       "raw_hot": 397963,
@@ -19377,6 +19401,14 @@
       "onboard_time": 1673597310,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384148,
+      "num": 214031,
+      "word": "马旭东闫佩伦上春晚了",
+      "onboard_time": 1674213992,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 384110,
@@ -21217,14 +21249,6 @@
       "onboard_time": 1674178285,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 353815,
-      "num": 353815,
-      "word": "许嵩春晚solo舞台",
-      "onboard_time": 1674213150,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 353769,
@@ -25355,6 +25379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299515,
+      "num": 207735,
+      "word": "2023辽视春晚节目单",
+      "onboard_time": 1674213751,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299490,
       "num": 187763,
       "word": "一念关山",
@@ -25529,6 +25561,14 @@
       "onboard_time": 1674108387,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 297495,
+      "num": 198624,
+      "word": "流浪地球2首映全场欢呼比1更好",
+      "onboard_time": 1674213992,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 297443,
@@ -27971,6 +28011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272056,
+      "num": 181686,
+      "word": "赵丽颖春晚有两个节目",
+      "onboard_time": 1674214172,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271967,
       "num": 271967,
       "word": "风月锦囊阵容官宣",
@@ -28776,6 +28824,14 @@
       "word": "于和伟演技",
       "onboard_time": 1673825179,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 264394,
+      "num": 221316,
+      "word": "李响会黑化吗",
+      "onboard_time": 1674212247,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -29736,14 +29792,6 @@
       "word": "许红豆说自己曾经是前台憋尿亚军",
       "onboard_time": 1672923211,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 254873,
-      "num": 221316,
-      "word": "李响会黑化吗",
-      "onboard_time": 1674212247,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -32163,6 +32211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231603,
+      "num": 231603,
+      "word": "你年终奖拿得出手吗",
+      "onboard_time": 1674212005,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231596,
       "num": 231596,
       "word": "狼队输了",
@@ -32529,14 +32585,6 @@
       "onboard_time": 1673062949,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 226987,
-      "num": 226987,
-      "word": "你年终奖拿得出手吗",
-      "onboard_time": 1674212005,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 226977,
@@ -34499,6 +34547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206210,
+      "num": 94531,
+      "word": "辽视春晚",
+      "onboard_time": 1674214410,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206186,
       "num": 206186,
       "word": "原神3.3版本",
@@ -34545,6 +34601,14 @@
       "onboard_time": 1674021686,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206027,
+      "num": 93295,
+      "word": "王宝强杨紫王宁春晚同台",
+      "onboard_time": 1674214110,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 205770,
@@ -35729,14 +35793,6 @@
       "onboard_time": 1674029607,
       "rank": 33,
       "category": "科技"
-    },
-    {
-      "raw_hot": 195432,
-      "num": 171738,
-      "word": "杨紫春晚两个节目",
-      "onboard_time": 1674213268,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 195425,
@@ -48859,6 +48915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 74839,
+      "num": 74839,
+      "word": "回村吃席有多热闹",
+      "onboard_time": 1674213390,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 74818,
       "num": 74818,
       "word": "微博网友的想家留言好戳心",
@@ -49788,7 +49852,7 @@
     },
     {
       "raw_hot": 35428,
-      "num": 1930950,
+      "num": 3195647,
       "word": "这就是中国年的仪式感",
       "onboard_time": 1674176963,
       "rank": 2,

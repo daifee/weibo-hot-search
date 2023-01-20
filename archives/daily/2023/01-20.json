@@ -1,6 +1,6 @@
 {
   "startTime": 1674145605899,
-  "endTime": 1674213347982,
+  "endTime": 1674214424000,
   "band_list": [
     {
       "raw_hot": 9337684,
@@ -8,6 +8,22 @@
       "word": "春晚节目单",
       "onboard_time": 1674141269,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3386673,
+      "num": 3386673,
+      "word": "今年春晚没有李谷一",
+      "onboard_time": 1674212489,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3141715,
+      "num": 3141715,
+      "word": "春晚没有贾玲张小斐",
+      "onboard_time": 1674213510,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -20,19 +36,11 @@
     },
     {
       "raw_hot": 2034937,
-      "num": 491856,
+      "num": 589465,
       "word": "张元英吃披萨",
       "onboard_time": 1674196883,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1943325,
-      "num": 1943325,
-      "word": "今年春晚没有李谷一",
-      "onboard_time": 1674212489,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1929888,
@@ -83,20 +91,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1216323,
+      "num": 1216323,
+      "word": "老干妈微博微信全部断更",
+      "onboard_time": 1674209905,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1195048,
       "num": 1195048,
       "word": "杨紫朋友圈是搞怪女",
       "onboard_time": 1674194725,
       "rank": 6,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 1110216,
-      "num": 1110216,
-      "word": "老干妈微博微信全部断更",
-      "onboard_time": 1674209905,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 1074637,
@@ -152,6 +160,14 @@
       "word": "春晚",
       "onboard_time": 1674207865,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 943524,
+      "num": 943524,
+      "word": "许嵩春晚solo舞台",
+      "onboard_time": 1674213150,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -331,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601742,
+      "num": 601742,
+      "word": "生肖卡",
+      "onboard_time": 1674176063,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 592948,
       "num": 592948,
       "word": "理科丈夫和文科妻子如何互相调侃",
       "onboard_time": 1674180925,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 590394,
+      "num": 590394,
+      "word": "杨紫春晚两个节目",
+      "onboard_time": 1674213268,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 580481,
@@ -435,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 493775,
+      "num": 493775,
+      "word": "秦霄贤说的荧幕情侣演员名是王鹤棣虞书欣",
+      "onboard_time": 1674212427,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483927,
       "num": 483927,
       "word": "清华硕士称大厂2万月薪践踏学历",
@@ -460,7 +500,7 @@
     },
     {
       "raw_hot": 465753,
-      "num": 429915,
+      "num": 494290,
       "word": "公公每天监控喊话媳妇引10万网友围观",
       "onboard_time": 1674208947,
       "rank": 18,
@@ -473,14 +513,6 @@
       "onboard_time": 1674191307,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 460802,
-      "num": 424437,
-      "word": "秦霄贤说的荧幕情侣演员名是王鹤棣虞书欣",
-      "onboard_time": 1674212427,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 458031,
@@ -587,20 +619,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398958,
+      "num": 397964,
+      "word": "周深流浪地球2首映礼现场唱人是",
+      "onboard_time": 1674212969,
+      "rank": 14,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 398482,
       "num": 398482,
       "word": "易烊千玺录制新歌MV路透",
       "onboard_time": 1674182604,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 397964,
-      "num": 397964,
-      "word": "周深流浪地球2首映礼现场唱人是",
-      "onboard_time": 1674212969,
-      "rank": 14,
-      "category": "影视,音乐"
     },
     {
       "raw_hot": 397176,
@@ -673,6 +705,14 @@
       "onboard_time": 1674161653,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384148,
+      "num": 214031,
+      "word": "马旭东闫佩伦上春晚了",
+      "onboard_time": 1674213992,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 380751,
@@ -763,14 +803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 353815,
-      "num": 353815,
-      "word": "许嵩春晚solo舞台",
-      "onboard_time": 1674213150,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 350062,
       "num": 293593,
       "word": "虞书欣钓鱼好像小学生春游",
@@ -851,14 +883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 312282,
-      "num": 312282,
-      "word": "生肖卡",
-      "onboard_time": 1674176063,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
       "raw_hot": 309426,
       "num": 309426,
       "word": "C罗沙特首秀获评全场最佳",
@@ -889,6 +913,22 @@
       "onboard_time": 1674210207,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299515,
+      "num": 207735,
+      "word": "2023辽视春晚节目单",
+      "onboard_time": 1674213751,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 297495,
+      "num": 198624,
+      "word": "流浪地球2首映全场欢呼比1更好",
+      "onboard_time": 1674213992,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 296216,
@@ -1003,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272056,
+      "num": 181686,
+      "word": "赵丽颖春晚有两个节目",
+      "onboard_time": 1674214172,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271757,
       "num": 271757,
       "word": "李现自行车载刘亦菲花絮",
@@ -1051,6 +1099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264394,
+      "num": 221316,
+      "word": "李响会黑化吗",
+      "onboard_time": 1674212247,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262300,
       "num": 262300,
       "word": "陈钰琪说选乔峰传选对了",
@@ -1081,14 +1137,6 @@
       "onboard_time": 1674207026,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 254873,
-      "num": 221316,
-      "word": "李响会黑化吗",
-      "onboard_time": 1674212247,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 253686,
@@ -1195,19 +1243,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231603,
+      "num": 231603,
+      "word": "你年终奖拿得出手吗",
+      "onboard_time": 1674212005,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228636,
       "num": 228636,
       "word": "这哪叫自建房这叫自建府",
       "onboard_time": 1674135448,
       "rank": 17,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 226987,
-      "num": 226987,
-      "word": "你年终奖拿得出手吗",
-      "onboard_time": 1674212005,
-      "rank": 19,
       "category": "幽默"
     },
     {
@@ -1323,6 +1371,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206210,
+      "num": 94531,
+      "word": "辽视春晚",
+      "onboard_time": 1674214410,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206027,
+      "num": 93295,
+      "word": "王宝强杨紫王宁春晚同台",
+      "onboard_time": 1674214110,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201644,
       "num": 201644,
       "word": "张小斐说今年春节也一起度过",
@@ -1385,14 +1449,6 @@
       "onboard_time": 1674205646,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195432,
-      "num": 171738,
-      "word": "杨紫春晚两个节目",
-      "onboard_time": 1674213268,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 194879,
@@ -2123,6 +2179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 74839,
+      "num": 74839,
+      "word": "回村吃席有多热闹",
+      "onboard_time": 1674213390,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 72875,
       "num": 66056,
       "word": "宋祖儿央视春晚第五次联排双丸子头造型",
@@ -2172,7 +2236,7 @@
     },
     {
       "raw_hot": 35428,
-      "num": 1930950,
+      "num": 3195647,
       "word": "这就是中国年的仪式感",
       "onboard_time": 1674176963,
       "rank": 2,
