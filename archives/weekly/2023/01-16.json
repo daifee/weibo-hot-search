@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674171218035,
+  "endTime": 1674178657559,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -361,6 +361,14 @@
       "onboard_time": 1673847810,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1668901,
+      "num": 1668901,
+      "word": "专家预测2月初可能出现疫情拐点",
+      "onboard_time": 1674175464,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1649980,
@@ -1939,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 690671,
+      "num": 690671,
+      "word": "主人离家10天给猫备10碗粮17碗水",
+      "onboard_time": 1674170656,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 686873,
       "num": 557265,
       "word": "时代少年团红毯签了七个名字",
@@ -2001,6 +2017,14 @@
       "onboard_time": 1674014426,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 672639,
+      "num": 672639,
+      "word": "真的没人管管张远陆虎吗",
+      "onboard_time": 1674172160,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 672428,
@@ -3715,6 +3739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 410558,
+      "num": 410558,
+      "word": "河北到2025年高价彩礼等婚嫁陋俗得到有效遏制",
+      "onboard_time": 1674173241,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410097,
       "num": 410097,
       "word": "院方回应59岁医生被患者捅数刀",
@@ -3937,6 +3969,14 @@
       "onboard_time": 1673873131,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384425,
+      "num": 384425,
+      "word": "女子晒公司年终发一箱苹果15个全坏",
+      "onboard_time": 1674161653,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384110,
@@ -4297,6 +4337,14 @@
       "onboard_time": 1673791175,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356181,
+      "num": 356181,
+      "word": "兔子的最爱不是胡萝卜",
+      "onboard_time": 1674175585,
+      "rank": 9,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 355695,
@@ -4899,6 +4947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323013,
+      "num": 323013,
+      "word": "春晚节目单",
+      "onboard_time": 1674141269,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322859,
       "num": 229447,
       "word": "三体制片人谈王传君演技",
@@ -4912,14 +4968,6 @@
       "word": "女儿给买新衣父亲表面训斥实则炫耀",
       "onboard_time": 1673943210,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320916,
-      "num": 320916,
-      "word": "女子晒公司年终发一箱苹果15个全坏",
-      "onboard_time": 1674161653,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -5073,6 +5121,14 @@
       "onboard_time": 1673857587,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309426,
+      "num": 309426,
+      "word": "C罗沙特首秀获评全场最佳",
+      "onboard_time": 1674171499,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 308328,
@@ -5657,6 +5713,14 @@
       "onboard_time": 1674031168,
       "rank": 19,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 278301,
+      "num": 278301,
+      "word": "这不是腰痛是骶髂关节痛",
+      "onboard_time": 1674173960,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 278224,
@@ -6403,12 +6467,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249825,
+      "num": 249825,
+      "word": "张颂文演技",
+      "onboard_time": 1674170718,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 249552,
+      "num": 249552,
+      "word": "郑恺说认识苗苗以后才养成的剥虾习惯",
+      "onboard_time": 1674146843,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249481,
       "num": 249481,
       "word": "学到了一种很新的拒绝方式",
       "onboard_time": 1673796031,
       "rank": 16,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 249331,
+      "num": 249331,
+      "word": "内马尔 点球",
+      "onboard_time": 1674172581,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 248667,
@@ -6603,6 +6691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241043,
+      "num": 241043,
+      "word": "男子在雪地踩出印刷体前程似锦",
+      "onboard_time": 1674174924,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240862,
       "num": 240862,
       "word": "广东男篮vs辽宁男篮",
@@ -6657,6 +6753,14 @@
       "onboard_time": 1673855008,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238445,
+      "num": 238445,
+      "word": "许红豆被许红米锁喉",
+      "onboard_time": 1674178285,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 238072,
@@ -6812,7 +6916,7 @@
     },
     {
       "raw_hot": 231944,
-      "num": 204287,
+      "num": 209621,
       "word": "官方回应红灯笼挂满街找不到红绿灯",
       "onboard_time": 1674166872,
       "rank": 34,
@@ -7027,6 +7131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221318,
+      "num": 221318,
+      "word": "大橘挨揍后有多委屈",
+      "onboard_time": 1674175346,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221047,
       "num": 221047,
       "word": "魔兽国服将支持玩家封存进度",
@@ -7081,6 +7193,14 @@
       "onboard_time": 1673871509,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216278,
+      "num": 216278,
+      "word": "许红米叫许红豆起床好真实",
+      "onboard_time": 1674144389,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 216154,
@@ -7235,6 +7355,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 209436,
+      "num": 209436,
+      "word": "为何低俗婚闹屡禁不了",
+      "onboard_time": 1674178105,
+      "rank": 27,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 209301,
       "num": 181741,
       "word": "赵丽颖哽咽朗诵致敬张桂梅",
@@ -7281,6 +7409,14 @@
       "onboard_time": 1674043829,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207492,
+      "num": 207492,
+      "word": "C罗说老友见面很棒",
+      "onboard_time": 1674174144,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 206711,
@@ -7419,12 +7555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201150,
-      "num": 201150,
-      "word": "春晚节目单",
-      "onboard_time": 1674141269,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 201350,
+      "num": 201350,
+      "word": "三体集体脱水名场面",
+      "onboard_time": 1674146063,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 201135,
@@ -8379,14 +8515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173774,
-      "num": 173774,
-      "word": "主人离家10天给猫备10碗粮17碗水",
-      "onboard_time": 1674170656,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173698,
       "num": 238555,
       "word": "TES战胜AL",
@@ -8473,6 +8601,14 @@
       "onboard_time": 1674137912,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171004,
+      "num": 171004,
+      "word": "勇士vs凯尔特人",
+      "onboard_time": 1674178043,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 170930,
@@ -8683,14 +8819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165909,
-      "num": 165909,
-      "word": "三体集体脱水名场面",
-      "onboard_time": 1674146063,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 165808,
       "num": 165808,
       "word": "王者兔子舞",
@@ -8713,6 +8841,14 @@
       "onboard_time": 1673968352,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165404,
+      "num": 165404,
+      "word": "还得是梅罗对决",
+      "onboard_time": 1674173543,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 165271,
@@ -9003,6 +9139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156012,
+      "num": 156012,
+      "word": "C罗受伤",
+      "onboard_time": 1674173062,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155898,
       "num": 155898,
       "word": "HLE战胜KDF",
@@ -9083,6 +9227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154176,
+      "num": 154176,
+      "word": "威海话是方言里的天花板吧",
+      "onboard_time": 1674169937,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153866,
       "num": 153866,
       "word": "这狗怎么这么像法棍啊",
@@ -9121,6 +9273,14 @@
       "onboard_time": 1674143489,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152061,
+      "num": 152061,
+      "word": "福王变成小福子",
+      "onboard_time": 1674172640,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 152025,
@@ -9360,6 +9520,14 @@
       "word": "铁路南京站回应候车大厅没插座",
       "onboard_time": 1674112586,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144998,
+      "num": 144998,
+      "word": "大寒",
+      "onboard_time": 1674171618,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -9617,6 +9785,14 @@
       "onboard_time": 1673841208,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 137375,
+      "num": 137375,
+      "word": "年终奖能壕成什么样",
+      "onboard_time": 1674178524,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137150,
@@ -9891,6 +10067,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 125420,
+      "num": 125420,
+      "word": "苏醒现场给坚果乐队拉了单活",
+      "onboard_time": 1674172220,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124578,
       "num": 124578,
       "word": "谢之遥给许红豆发照片满脸痴笑",
@@ -9947,6 +10131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123712,
+      "num": 123712,
+      "word": "三体第八集",
+      "onboard_time": 1674170418,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123680,
       "num": 113776,
       "word": "魏晨透露春晚会唱歌",
@@ -9987,14 +10179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122894,
-      "num": 122894,
-      "word": "郑恺说认识苗苗以后才养成的剥虾习惯",
-      "onboard_time": 1674146843,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122825,
       "num": 160400,
       "word": "智能电视到底挣了多少会员费",
@@ -10017,14 +10201,6 @@
       "onboard_time": 1674084379,
       "rank": 30,
       "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 120990,
-      "num": 120990,
-      "word": "威海话是方言里的天花板吧",
-      "onboard_time": 1674169937,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120881,
@@ -10227,6 +10403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113827,
+      "num": 113827,
+      "word": "男子乔迁新居客厅如同电竞房",
+      "onboard_time": 1674168254,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113398,
       "num": 113398,
       "word": "周雨彤晒染发自拍",
@@ -10241,14 +10425,6 @@
       "onboard_time": 1674101485,
       "rank": 48,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 112990,
-      "num": 112990,
-      "word": "男子乔迁新居客厅如同电竞房",
-      "onboard_time": 1674168254,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112029,
@@ -10385,14 +10561,6 @@
       "onboard_time": 1674130107,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 104507,
-      "num": 92911,
-      "word": "许红米叫许红豆起床好真实",
-      "onboard_time": 1674144389,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 104445,
@@ -10545,14 +10713,6 @@
       "onboard_time": 1673836464,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95520,
-      "num": 95520,
-      "word": "张颂文演技",
-      "onboard_time": 1674170718,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 95436,
@@ -10961,14 +11121,6 @@
       "onboard_time": 1673878171,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 62062,
-      "num": 62062,
-      "word": "三体第八集",
-      "onboard_time": 1674170418,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 61697,
