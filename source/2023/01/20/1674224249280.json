@@ -1,0 +1,410 @@
+{
+  "runTime": 1674224249280,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2421624,
+        "num": 2421624,
+        "word": "春晚节目单",
+        "onboard_time": 1674211107,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1969575,
+        "num": 1969575,
+        "word": "春晚没有贾玲张小斐",
+        "onboard_time": 1674213510,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109445,
+        "num": 1929921,
+        "word": "春节前疫情热点十问十答",
+        "onboard_time": 1674220408,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1922989,
+        "num": 1922989,
+        "word": "王鹤棣说浴桶吻小孩别看",
+        "onboard_time": 1674222507,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1217122,
+        "num": 1217122,
+        "word": "今年春晚没有李谷一",
+        "onboard_time": 1674212489,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1150719,
+        "num": 1150719,
+        "word": "王宝强春晚三个节目",
+        "onboard_time": 1674218670,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371178,
+        "num": 371178,
+        "word": "男子在山间窄溪发现上千条鱼",
+        "onboard_time": 1674215608,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357997,
+        "num": 357997,
+        "word": "大学生开始对年夜饭下手了",
+        "onboard_time": 1674216090,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 302178,
+        "num": 357978,
+        "word": "川渝人过年有多热闹",
+        "onboard_time": 1674218851,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266057,
+        "num": 357787,
+        "word": "生肖卡",
+        "onboard_time": 1674213632,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 968620,
+        "num": 357671,
+        "word": "奶奶怕孙女干活不便帮剪400元美甲",
+        "onboard_time": 1674218851,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744375,
+        "num": 357558,
+        "word": "赵丽颖唐诗逸 双厨狂喜",
+        "onboard_time": 1674218610,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 700990,
+        "num": 357514,
+        "word": "为什么没有蒋龙张弛",
+        "onboard_time": 1674220888,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 696726,
+        "num": 357326,
+        "word": "赵晓卉出息了",
+        "onboard_time": 1674215729,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582760,
+        "num": 357280,
+        "word": "小伙网恋见家长竟遇假岳父",
+        "onboard_time": 1674220948,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553021,
+        "num": 357165,
+        "word": "是我知道的那个吴彤吗",
+        "onboard_time": 1674215189,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528489,
+        "num": 356950,
+        "word": "王一博王传君学飞扑克花絮",
+        "onboard_time": 1674223768,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391416,
+        "num": 356839,
+        "word": "女记者年前被裁去海底捞打工",
+        "onboard_time": 1674217889,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377594,
+        "num": 356774,
+        "word": "年底清扫妈妈将5年未清黄吊顶洗白",
+        "onboard_time": 1674220769,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274416,
+        "num": 356614,
+        "word": "你年终奖拿得出手吗",
+        "onboard_time": 1674212005,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 462905,
+        "num": 356502,
+        "word": "许嵩春晚solo舞台",
+        "onboard_time": 1674213150,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442767,
+        "num": 356431,
+        "word": "辽视春晚的小品",
+        "onboard_time": 1674216870,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406996,
+        "num": 356321,
+        "word": "唐嫣重新定义了不爱唱歌",
+        "onboard_time": 1674223947,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262541,
+        "num": 356198,
+        "word": "阿尔维斯涉嫌性侵被捕",
+        "onboard_time": 1674216629,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399307,
+        "num": 356093,
+        "word": "倪萍希望张新成今年能接到满意的好戏",
+        "onboard_time": 1674220408,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380450,
+        "num": 355929,
+        "word": "狂飙",
+        "onboard_time": 1674217830,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186344,
+        "num": 355826,
+        "word": "兔年头像",
+        "onboard_time": 1674222809,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177473,
+        "num": 355723,
+        "word": "奇葩小舅子醉驾姐夫车几乎撞报废",
+        "onboard_time": 1674214591,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165780,
+        "num": 355603,
+        "word": "小猫讨厌没有边界感的人类",
+        "onboard_time": 1674204205,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161111,
+        "num": 355448,
+        "word": "从拒绝到享受的狗狗",
+        "onboard_time": 1674223291,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 355421,
+        "num": 355421,
+        "word": "流浪地球2首映全场欢呼比1更好",
+        "onboard_time": 1674213992,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338554,
+        "num": 338554,
+        "word": "辽视春晚",
+        "onboard_time": 1674214410,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320514,
+        "num": 320514,
+        "word": "张杰宋小宝跳复古双人舞",
+        "onboard_time": 1674223048,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152654,
+        "num": 310509,
+        "word": "姜广涛",
+        "onboard_time": 1674179063,
+        "rank": 33,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 151272,
+        "num": 310132,
+        "word": "三航母官兵拜年视频太硬核",
+        "onboard_time": 1674218729,
+        "rank": 34,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 309896,
+        "num": 309896,
+        "word": "马旭东闫佩伦上春晚了",
+        "onboard_time": 1674213992,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301868,
+        "num": 301868,
+        "word": "肖铎步音楼私奔成功",
+        "onboard_time": 1674216329,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152072,
+        "num": 301664,
+        "word": "父母凌晨1点做7个菜迎接远嫁女儿回家",
+        "onboard_time": 1674207207,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147128,
+        "num": 301471,
+        "word": "远嫁女子回婆家有客不能上桌吃饭",
+        "onboard_time": 1674206427,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138445,
+        "num": 301468,
+        "word": "澳网",
+        "onboard_time": 1674221550,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301468,
+        "num": 301467,
+        "word": "三体学霸vs学渣",
+        "onboard_time": 1674223588,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288384,
+        "num": 288384,
+        "word": "最强大脑",
+        "onboard_time": 1674223711,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280598,
+        "num": 280598,
+        "word": "赵丽颖春晚有两个节目",
+        "onboard_time": 1674214172,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136812,
+        "num": 274490,
+        "word": "这年过的也太有氛围了",
+        "onboard_time": 1674223349,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 273818,
+        "num": 273818,
+        "word": "周深把好春光中国风唱出爵士味",
+        "onboard_time": 1674222630,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261724,
+        "num": 261724,
+        "word": "宋小宝周柯宇身高差",
+        "onboard_time": 1674220948,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135989,
+        "num": 261475,
+        "word": "兔年壁纸",
+        "onboard_time": 1674216691,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134215,
+        "num": 260799,
+        "word": "一诺手写福字",
+        "onboard_time": 1674221971,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129089,
+        "num": 260332,
+        "word": "70岁普京按照传统进行冰浴洗礼",
+        "onboard_time": 1674207926,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83504,
+        "num": 259297,
+        "word": "新年文案",
+        "onboard_time": 1674219810,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央国务院举行春节团拜会#"
+    }
+  }
+}
