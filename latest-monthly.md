@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/21 01:17:23
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/21 01:33:31
 </p>
 </blockquote>
 <p>
@@ -4941,6 +4941,12 @@ BLACKPINK确定领衔出演科切拉音乐节（热度：863887）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E8%87%AA%E5%B7%B1%E5%9C%A8%E5%AE%B6%E5%89%AA%E5%A4%B4%E5%8F%91%23" target="weibo">
+不建议自己在家剪头发（热度：856380）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5%E7%8E%B2%E5%A8%9C%E8%B4%9D%E5%84%BF%E5%A4%B4%E9%83%A8%E8%A2%AB%E6%8B%8D%E6%89%93%23" target="weibo">
 上海警方调查玲娜贝儿头部被拍打（热度：856006）
 </a>
@@ -6005,12 +6011,6 @@ WBG战胜TES（热度：766734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%A6%96%E9%83%A8%E7%8E%B0%E4%BB%A3%E5%89%A7%E4%BB%8A%E6%99%9A%E8%A7%81%23" target="weibo">
 刘亦菲首部现代剧今晚见（热度：757644）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%8B%E9%9B%AA%23" target="weibo">
-上海下雪（热度：756645）
 </a>
 </li>
 

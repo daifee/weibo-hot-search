@@ -1,6 +1,6 @@
 {
   "startTime": 1674231983947,
-  "endTime": 1674235043729,
+  "endTime": 1674236011193,
   "band_list": [
     {
       "raw_hot": 1134438,
@@ -19,6 +19,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 856380,
+      "num": 856380,
+      "word": "不建议自己在家剪头发",
+      "onboard_time": 1674231562,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 826535,
       "num": 221678,
       "word": "春晚没有贾玲张小斐",
@@ -33,14 +41,6 @@
       "onboard_time": 1674229705,
       "rank": 11,
       "category": "科技"
-    },
-    {
-      "raw_hot": 707798,
-      "num": 707798,
-      "word": "不建议自己在家剪头发",
-      "onboard_time": 1674231562,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 528007,
@@ -65,6 +65,14 @@
       "onboard_time": 1674218851,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471181,
+      "num": 471181,
+      "word": "多地已阶段性取消首套房贷款利率下限",
+      "onboard_time": 1674232463,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 433506,
@@ -97,14 +105,6 @@
       "onboard_time": 1674215729,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 385980,
-      "num": 219026,
-      "word": "多地已阶段性取消首套房贷款利率下限",
-      "onboard_time": 1674232463,
-      "rank": 39,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 368736,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181208,
+      "num": 181208,
+      "word": "戴燕妮RunIntoYou荆棘玫瑰舞台",
+      "onboard_time": 1674235698,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179336,
       "num": 135704,
       "word": "谭维维第6次上央视春晚",
@@ -361,6 +369,14 @@
       "onboard_time": 1674233961,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155557,
+      "num": 155557,
+      "word": "屈楚萧现身流浪地球2首映",
+      "onboard_time": 1674235818,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 138521,
@@ -451,6 +467,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 90343,
+      "num": 71116,
+      "word": "许嵩春晚solo舞台",
+      "onboard_time": 1674213150,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89141,
       "num": 89141,
       "word": "姜广涛",
@@ -465,14 +489,6 @@
       "onboard_time": 1674214591,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83341,
-      "num": 57535,
-      "word": "许嵩春晚solo舞台",
-      "onboard_time": 1674213150,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 75338,
