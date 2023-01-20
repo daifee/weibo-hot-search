@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674183479085,
+  "endTime": 1674184931284,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -419,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1591166,
+      "num": 1591166,
+      "word": "暴雪禁止中国玩家参加炉石赛事",
+      "onboard_time": 1674181764,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1579661,
       "num": 1579661,
       "word": "想周涛董卿朱迅",
@@ -665,14 +673,6 @@
       "onboard_time": 1673945610,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1281117,
-      "num": 1281117,
-      "word": "暴雪禁止中国玩家参加炉石赛事",
-      "onboard_time": 1674181764,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 1266284,
@@ -1035,6 +1035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 992428,
+      "num": 992428,
+      "word": "河南春晚 毛戈平",
+      "onboard_time": 1674181943,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 992249,
       "num": 992249,
       "word": "第一次对烧烤失去兴趣",
@@ -1265,14 +1273,6 @@
       "onboard_time": 1673921486,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 881213,
-      "num": 881213,
-      "word": "河南春晚 毛戈平",
-      "onboard_time": 1674181943,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 878328,
@@ -2523,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 590072,
+      "num": 590072,
+      "word": "理科丈夫和文科妻子如何互相调侃",
+      "onboard_time": 1674180925,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 589962,
       "num": 589962,
       "word": "儿媳每天接送8旬医生公公上下班",
@@ -2705,6 +2713,14 @@
       "onboard_time": 1674104788,
       "rank": 19,
       "category": "财经,艺人"
+    },
+    {
+      "raw_hot": 565975,
+      "num": 565975,
+      "word": "韩国演员尹静姬去世",
+      "onboard_time": 1674182786,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 565723,
@@ -2987,8 +3003,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 514261,
-      "num": 514261,
+      "raw_hot": 514674,
+      "num": 514674,
       "word": "外卖小哥为妻子连点10天外卖",
       "onboard_time": 1674180264,
       "rank": 8,
@@ -3257,14 +3273,6 @@
       "onboard_time": 1674023186,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 483081,
-      "num": 387370,
-      "word": "理科丈夫和文科妻子如何互相调侃",
-      "onboard_time": 1674180925,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 482845,
@@ -3915,6 +3923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398482,
+      "num": 398482,
+      "word": "易烊千玺录制新歌MV路透",
+      "onboard_time": 1674182604,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 397814,
       "num": 397814,
       "word": "江疏影和梁朝伟有对手戏",
@@ -4187,6 +4203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374472,
+      "num": 374472,
+      "word": "LWX与Crisp在LPL登场六周年",
+      "onboard_time": 1674183867,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 374254,
       "num": 235350,
       "word": "李现新剧第一次穿白衬衫是去吃米线",
@@ -4387,11 +4411,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 362582,
-      "num": 362582,
-      "word": "易烊千玺录制新歌MV路透",
-      "onboard_time": 1674182604,
-      "rank": 17,
+      "raw_hot": 362615,
+      "num": 362615,
+      "word": "柳智敏转头瞬间",
+      "onboard_time": 1674183747,
+      "rank": 13,
       "category": "音乐"
     },
     {
@@ -5059,6 +5083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322764,
+      "num": 322764,
+      "word": "今天是安陵容吃息肌丸的日子",
+      "onboard_time": 1674181886,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 322282,
       "num": 322282,
       "word": "女儿给买新衣父亲表面训斥实则炫耀",
@@ -5160,14 +5192,6 @@
       "word": "王一博无名换了很多条领带",
       "onboard_time": 1674099325,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 314808,
-      "num": 314808,
-      "word": "今天是安陵容吃息肌丸的日子",
-      "onboard_time": 1674181886,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -5923,14 +5947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 274812,
-      "num": 274812,
-      "word": "韩国演员尹静姬去世",
-      "onboard_time": 1674182786,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 274804,
       "num": 184598,
       "word": "肖铎的空少礼仪",
@@ -6171,6 +6187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266659,
+      "num": 266659,
+      "word": "狂飙 真实",
+      "onboard_time": 1674182185,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266607,
       "num": 266607,
       "word": "妻子年前大扫除将老公私房钱一锅端",
@@ -6313,6 +6337,14 @@
       "onboard_time": 1674102868,
       "rank": 21,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 262523,
+      "num": 262523,
+      "word": "梅西C罗互晒合影",
+      "onboard_time": 1674181886,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 262210,
@@ -6465,6 +6497,14 @@
       "onboard_time": 1673998641,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256895,
+      "num": 256895,
+      "word": "王者荣耀摇心愿",
+      "onboard_time": 1674182125,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 256461,
@@ -6723,6 +6763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244483,
+      "num": 244483,
+      "word": "电影无名仔细看预告",
+      "onboard_time": 1674184406,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244406,
       "num": 241465,
       "word": "转发王鹤棣的微博能得开心卡",
@@ -6969,14 +7017,6 @@
       "onboard_time": 1674035368,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 234998,
-      "num": 234998,
-      "word": "梅西C罗互晒合影",
-      "onboard_time": 1674181886,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 234500,
@@ -7299,14 +7339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219884,
-      "num": 219884,
-      "word": "狂飙 真实",
-      "onboard_time": 1674182185,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 219691,
       "num": 219691,
       "word": "甄子丹称中国武侠片可以重振雄风",
@@ -7473,14 +7505,6 @@
       "onboard_time": 1673854229,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 211516,
-      "num": 211516,
-      "word": "王者荣耀摇心愿",
-      "onboard_time": 1674182125,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 211463,
@@ -7793,6 +7817,14 @@
       "onboard_time": 1674121409,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199221,
+      "num": 199221,
+      "word": "新年开箱",
+      "onboard_time": 1674184823,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 198995,
@@ -8283,6 +8315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186169,
+      "num": 186169,
+      "word": "29岁男子怕老妈催婚过年不回家",
+      "onboard_time": 1674183686,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185860,
       "num": 185860,
       "word": "王一博宣传无名好拼",
@@ -8625,6 +8665,14 @@
       "onboard_time": 1674056370,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175308,
+      "num": 175308,
+      "word": "满江红从它开始预告",
+      "onboard_time": 1674184045,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 175260,
@@ -10043,6 +10091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135306,
+      "num": 135306,
+      "word": "儿子选离去世父亲最近的路去婚礼",
+      "onboard_time": 1674184586,
+      "rank": 39,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 135112,
       "num": 135112,
       "word": "一学就会画的放烟花小白兔",
@@ -10161,6 +10217,14 @@
       "onboard_time": 1673908754,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130265,
+      "num": 130265,
+      "word": "母亲抚摸儿子军功章满是心疼与骄傲",
+      "onboard_time": 1674182604,
+      "rank": 47,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 129734,
@@ -10305,14 +10369,6 @@
       "onboard_time": 1673856027,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123933,
-      "num": 123933,
-      "word": "母亲抚摸儿子军功章满是心疼与骄傲",
-      "onboard_time": 1674182604,
-      "rank": 47,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 123712,
