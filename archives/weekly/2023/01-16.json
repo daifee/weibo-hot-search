@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674227997625,
+  "endTime": 1674228924732,
   "band_list": [
     {
       "raw_hot": 9337684,
@@ -2163,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 700355,
+      "num": 700355,
+      "word": "朱琳晋级",
+      "onboard_time": 1674228089,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 699704,
       "num": 699704,
       "word": "这届年轻人开始报复性回家过年了",
@@ -3528,6 +3536,14 @@
       "word": "姚晨说谢娜MV张杰敢不熟吗",
       "onboard_time": 1674225150,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 502941,
+      "num": 290347,
+      "word": "周深怎么什么歌都能唱",
+      "onboard_time": 1674227427,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -5163,14 +5179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 356769,
-      "num": 210643,
-      "word": "周深怎么什么歌都能唱",
-      "onboard_time": 1674227427,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 356181,
       "num": 356181,
       "word": "兔子的最爱不是胡萝卜",
@@ -5305,6 +5313,14 @@
       "onboard_time": 1674207266,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349929,
+      "num": 248813,
+      "word": "许红豆说谢之遥主要是帅",
+      "onboard_time": 1674227846,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 349836,
@@ -5801,14 +5817,6 @@
       "onboard_time": 1673795857,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326524,
-      "num": 188412,
-      "word": "许红豆说谢之遥主要是帅",
-      "onboard_time": 1674227846,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 326492,
@@ -6723,6 +6731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283541,
+      "num": 174759,
+      "word": "浮图缘全员缘满收官",
+      "onboard_time": 1674228568,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 282710,
       "num": 282710,
       "word": "B站更新鹅鸭杀直播规范",
@@ -6763,6 +6779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281294,
+      "num": 170456,
+      "word": "10后小学生打败名校学霸",
+      "onboard_time": 1674227368,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281126,
       "num": 281126,
       "word": "林高远",
@@ -6785,6 +6809,14 @@
       "onboard_time": 1674109765,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280192,
+      "num": 280192,
+      "word": "Doinb刘青松组排直播",
+      "onboard_time": 1674227248,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 279976,
@@ -6865,14 +6897,6 @@
       "onboard_time": 1673853508,
       "rank": 27,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 277813,
-      "num": 138196,
-      "word": "10后小学生打败名校学霸",
-      "onboard_time": 1674227368,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 277471,
@@ -7009,6 +7033,14 @@
       "onboard_time": 1674034107,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 273285,
+      "num": 168541,
+      "word": "唐嫣说周柯宇好可爱",
+      "onboard_time": 1674228148,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 273165,
@@ -7691,6 +7723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 251188,
+      "num": 251188,
+      "word": "一次吃了三种主食",
+      "onboard_time": 1674227548,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250852,
       "num": 250852,
       "word": "猪八戒钻石夺宝皮肤",
@@ -7825,6 +7865,14 @@
       "onboard_time": 1674027747,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245940,
+      "num": 121505,
+      "word": "欣响事成",
+      "onboard_time": 1674228446,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 245828,
@@ -10731,14 +10779,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 159278,
-      "num": 159278,
-      "word": "Doinb刘青松组排直播",
-      "onboard_time": 1674227248,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 159001,
       "num": 159001,
       "word": "原来谐音梗才是年夜饭最大赢家",
@@ -11627,14 +11667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135657,
-      "num": 135657,
-      "word": "一次吃了三种主食",
-      "onboard_time": 1674227548,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 135569,
       "num": 116936,
       "word": "张若昀大侦探森林进化论剧照",
@@ -12417,6 +12449,14 @@
       "onboard_time": 1674169577,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107104,
+      "num": 107104,
+      "word": "西藏林芝派墨公路雪崩已致28人遇难",
+      "onboard_time": 1674228868,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 106766,
