@@ -1,6 +1,6 @@
 {
   "startTime": 1674231983947,
-  "endTime": 1674239864511,
+  "endTime": 1674242096244,
   "band_list": [
     {
       "raw_hot": 1134438,
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124231,
+      "num": 65213,
+      "word": "36岁女子带3个孩子嫁带2娃丈夫",
+      "onboard_time": 1674238696,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100539,
       "num": 85656,
       "word": "赵丽颖春晚有两个节目",
@@ -531,19 +539,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52401,
-      "num": 52401,
-      "word": "36岁女子带3个孩子嫁带2娃丈夫",
-      "onboard_time": 1674238696,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45210,
       "num": 567569,
       "word": "春节前疫情热点十问十答",
       "onboard_time": 1674220408,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30857,
+      "num": 28913,
+      "word": "王鹤棣片场走螃蟹步",
+      "onboard_time": 1674240253,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 28574,
+      "num": 28574,
+      "word": "女子化妆品被熊孩子弄坏上门理论",
+      "onboard_time": 1674240674,
+      "rank": 36,
       "category": "社会新闻"
     }
   ],
