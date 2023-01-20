@@ -1,6 +1,6 @@
 {
   "startTime": 1674145605899,
-  "endTime": 1674224249280,
+  "endTime": 1674225227888,
   "band_list": [
     {
       "raw_hot": 9337684,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 722613,
+      "num": 356950,
+      "word": "王一博王传君学飞扑克花絮",
+      "onboard_time": 1674223768,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 717691,
       "num": 717691,
       "word": "C罗 梅开二度",
@@ -347,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 659906,
+      "num": 356321,
+      "word": "唐嫣重新定义了不爱唱歌",
+      "onboard_time": 1674223947,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 652573,
       "num": 652573,
       "word": "梅西",
@@ -377,6 +393,14 @@
       "onboard_time": 1674134551,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 625258,
+      "num": 357280,
+      "word": "小伙网恋见家长竟遇假岳父",
+      "onboard_time": 1674220948,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 623352,
@@ -459,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 582760,
-      "num": 357280,
-      "word": "小伙网恋见家长竟遇假岳父",
-      "onboard_time": 1674220948,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 580481,
       "num": 580481,
       "word": "王栎鑫说妈妈亮哥带我上春晚啦",
@@ -499,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 555025,
+      "num": 211350,
+      "word": "王铮亮春晚唱自己的歌",
+      "onboard_time": 1674224548,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 551170,
       "num": 551170,
       "word": "2025年到2029年连续5年都没有年三十",
@@ -529,14 +553,6 @@
       "onboard_time": 1674203484,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 528489,
-      "num": 356950,
-      "word": "王一博王传君学飞扑克花絮",
-      "onboard_time": 1674223768,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 522985,
@@ -715,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436735,
+      "num": 436735,
+      "word": "年底清扫妈妈将5年未清黄吊顶洗白",
+      "onboard_time": 1674220769,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422934,
       "num": 422934,
       "word": "妈妈和婆婆多年闺蜜撮合孩子变亲家",
@@ -752,14 +776,6 @@
       "word": "沈梦辰说过日子性格比长相重要",
       "onboard_time": 1674205464,
       "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 406996,
-      "num": 356321,
-      "word": "唐嫣重新定义了不爱唱歌",
-      "onboard_time": 1674223947,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -883,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 388245,
+      "num": 388245,
+      "word": "男子在山间窄溪发现上千条鱼",
+      "onboard_time": 1674215608,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386709,
       "num": 386709,
       "word": "福兔",
@@ -907,14 +931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 377594,
-      "num": 356774,
-      "word": "年底清扫妈妈将5年未清黄吊顶洗白",
-      "onboard_time": 1674220769,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 374935,
       "num": 275110,
       "word": "周深一开口就有团圆味了",
@@ -936,14 +952,6 @@
       "word": "年终奖能壕成什么样",
       "onboard_time": 1674178524,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371178,
-      "num": 371178,
-      "word": "男子在山间窄溪发现上千条鱼",
-      "onboard_time": 1674215608,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1043,6 +1051,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 333700,
+      "num": 187613,
+      "word": "孙悦说周深身体里藏着好几个周深",
+      "onboard_time": 1674224548,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333400,
       "num": 333400,
       "word": "邓超贺峻霖微博互关",
@@ -1107,12 +1123,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 318166,
+      "num": 288384,
+      "word": "最强大脑",
+      "onboard_time": 1674223711,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 314709,
+      "num": 186707,
+      "word": "岳云鹏说现场观众是李宇春的托儿",
+      "onboard_time": 1674224849,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312868,
       "num": 312868,
       "word": "千万别帮广东人大扫除",
       "onboard_time": 1674137671,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 309947,
+      "num": 186044,
+      "word": "姚晨说谢娜MV张杰敢不熟吗",
+      "onboard_time": 1674225150,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 309426,
@@ -1209,14 +1249,6 @@
       "onboard_time": 1674208527,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 288384,
-      "num": 288384,
-      "word": "最强大脑",
-      "onboard_time": 1674223711,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 283911,
@@ -1611,6 +1643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211732,
+      "num": 355448,
+      "word": "从拒绝到享受的狗狗",
+      "onboard_time": 1674223291,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 211391,
       "num": 211391,
       "word": "周星驰和五月天阿信要合作了吗",
@@ -1689,6 +1729,14 @@
       "onboard_time": 1674192266,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201615,
+      "num": 355826,
+      "word": "兔年头像",
+      "onboard_time": 1674222809,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 201350,
@@ -1793,14 +1841,6 @@
       "onboard_time": 1674191364,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186344,
-      "num": 355826,
-      "word": "兔年头像",
-      "onboard_time": 1674222809,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 185376,
@@ -2009,14 +2049,6 @@
       "onboard_time": 1674135750,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161111,
-      "num": 355448,
-      "word": "从拒绝到享受的狗狗",
-      "onboard_time": 1674223291,
-      "rank": 29,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 160910,
@@ -2411,6 +2443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114186,
+      "num": 2376081,
+      "word": "春节前疫情热点十问十答",
+      "onboard_time": 1674220408,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114030,
       "num": 114030,
       "word": "暴食一天能吃下多少东西",
@@ -2443,19 +2483,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110840,
+      "num": 185448,
+      "word": "KPL福字大比拼",
+      "onboard_time": 1674225031,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110209,
       "num": 110209,
       "word": "近期泰国检出德尔塔克戎毒株",
       "onboard_time": 1674119605,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109445,
-      "num": 2376081,
-      "word": "春节前疫情热点十问十答",
-      "onboard_time": 1674220408,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2481,6 +2521,14 @@
       "onboard_time": 1674189385,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 98297,
+      "num": 259297,
+      "word": "新年文案",
+      "onboard_time": 1674219810,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 96831,
@@ -2537,14 +2585,6 @@
       "onboard_time": 1674128306,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 83504,
-      "num": 259297,
-      "word": "新年文案",
-      "onboard_time": 1674219810,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 82874,
