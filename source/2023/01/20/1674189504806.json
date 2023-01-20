@@ -1,0 +1,410 @@
+{
+  "runTime": 1674189504806,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1773993,
+        "num": 1773993,
+        "word": "暴雪禁止中国玩家参加炉石赛事",
+        "onboard_time": 1674181764,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1014093,
+        "num": 1014093,
+        "word": "王一博张婧仪电影无名对手戏",
+        "onboard_time": 1674185125,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60676,
+        "num": 932785,
+        "word": "未感染人群怎么做好个人防护",
+        "onboard_time": 1674137191,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 909934,
+        "num": 909934,
+        "word": "儿子选离去世父亲最近的路去婚礼",
+        "onboard_time": 1674184586,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 822267,
+        "num": 822267,
+        "word": "王铮亮带五个没上春晚兄弟胸牌彩排",
+        "onboard_time": 1674180623,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 623352,
+        "num": 623352,
+        "word": "撅着嘴生闷气的猫咪",
+        "onboard_time": 1674185546,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1274261,
+        "num": 620647,
+        "word": "姜广涛",
+        "onboard_time": 1674179063,
+        "rank": 6,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 608571,
+        "num": 608571,
+        "word": "专家预测2月初可能出现疫情拐点",
+        "onboard_time": 1674175464,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561941,
+        "num": 561941,
+        "word": "韩国演员尹静姬去世",
+        "onboard_time": 1674182786,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546078,
+        "num": 546078,
+        "word": "张婧仪说听到无名后天就上映",
+        "onboard_time": 1674188483,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419505,
+        "num": 419505,
+        "word": "河南春晚 毛戈平",
+        "onboard_time": 1674181943,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406350,
+        "num": 406350,
+        "word": "LWX与Crisp在LPL登场六周年",
+        "onboard_time": 1674183867,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 388685,
+        "num": 388685,
+        "word": "外地人对山东人拜年误解有多深",
+        "onboard_time": 1674185784,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 378723,
+        "num": 378723,
+        "word": "今天是安陵容吃息肌丸的日子",
+        "onboard_time": 1674181886,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360177,
+        "num": 360177,
+        "word": "春晚节目单",
+        "onboard_time": 1674141269,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352653,
+        "num": 352653,
+        "word": "谷爱凌2023年首个冠军",
+        "onboard_time": 1674184946,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330004,
+        "num": 330004,
+        "word": "许红豆主动吻谢之遥",
+        "onboard_time": 1674187404,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328589,
+        "num": 328589,
+        "word": "梅西C罗互晒合影",
+        "onboard_time": 1674181886,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324656,
+        "num": 324656,
+        "word": "无畏收到杨幂谐音梗祝福",
+        "onboard_time": 1674187646,
+        "rank": 18,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 317395,
+        "num": 317395,
+        "word": "谷爱凌第20金",
+        "onboard_time": 1674187285,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302857,
+        "num": 302857,
+        "word": "南方婆婆给北方准儿媳买11件保暖品",
+        "onboard_time": 1674185667,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286191,
+        "num": 286191,
+        "word": "王者荣耀摇心愿",
+        "onboard_time": 1674182125,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261262,
+        "num": 261262,
+        "word": "兔年吃全兔火锅",
+        "onboard_time": 1674186864,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 261060,
+        "num": 261060,
+        "word": "咽喉是健康的第一道防线",
+        "onboard_time": 1674187164,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255957,
+        "num": 255957,
+        "word": "柳智敏转头瞬间",
+        "onboard_time": 1674183747,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 254494,
+        "num": 254494,
+        "word": "理科丈夫和文科妻子如何互相调侃",
+        "onboard_time": 1674180925,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243840,
+        "num": 243840,
+        "word": "赵今麦 妆造",
+        "onboard_time": 1674183206,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239506,
+        "num": 239506,
+        "word": "许红豆家的银行卡密码是天灵灵地灵灵",
+        "onboard_time": 1674179304,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211105,
+        "num": 211105,
+        "word": "29岁男子怕老妈催婚过年不回家",
+        "onboard_time": 1674183686,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210910,
+        "num": 210910,
+        "word": "狂飙 真实",
+        "onboard_time": 1674182185,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204872,
+        "num": 204872,
+        "word": "谢腾飞亲奶奶上线",
+        "onboard_time": 1674185063,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192588,
+        "num": 192588,
+        "word": "易烊千玺录制新歌MV路透",
+        "onboard_time": 1674182604,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185232,
+        "num": 185232,
+        "word": "这届年轻人是懂许愿的",
+        "onboard_time": 1674186684,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185124,
+        "num": 185124,
+        "word": "妈妈和婆婆多年闺蜜撮合孩子变亲家",
+        "onboard_time": 1674188185,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182682,
+        "num": 182682,
+        "word": "福兔",
+        "onboard_time": 1674174684,
+        "rank": 34,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 167600,
+        "num": 167600,
+        "word": "生肖卡",
+        "onboard_time": 1674176063,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 161556,
+        "num": 161556,
+        "word": "外卖小哥为妻子连点10天外卖",
+        "onboard_time": 1674180264,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155476,
+        "num": 155476,
+        "word": "主人离家10天给猫备10碗粮17碗水",
+        "onboard_time": 1674170656,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148043,
+        "num": 148043,
+        "word": "婚礼上新娘发现新郎手变黑了",
+        "onboard_time": 1674189148,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144861,
+        "num": 144861,
+        "word": "狂飙",
+        "onboard_time": 1674170418,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124443,
+        "num": 124443,
+        "word": "李现谢之遥情绪转变瞬间耳朵变化",
+        "onboard_time": 1674185245,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124231,
+        "num": 124231,
+        "word": "年终奖能壕成什么样",
+        "onboard_time": 1674178524,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120506,
+        "num": 120506,
+        "word": "27岁女子为父母偷偷买房父亲参观时哽咽",
+        "onboard_time": 1674141630,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116104,
+        "num": 116104,
+        "word": "周星驰和五月天阿信要合作了吗",
+        "onboard_time": 1674180623,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116031,
+        "num": 116031,
+        "word": "谢之遥说来阿奶比个心",
+        "onboard_time": 1674188245,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115782,
+        "num": 115782,
+        "word": "三体游戏推广达人申玉菲",
+        "onboard_time": 1674187524,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107719,
+        "num": 107719,
+        "word": "C罗沙特首秀获评全场最佳",
+        "onboard_time": 1674171499,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102763,
+        "num": 102763,
+        "word": "C罗 梅开二度",
+        "onboard_time": 1674169637,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98503,
+        "num": 98503,
+        "word": "兔年谐音梗祝福",
+        "onboard_time": 1674189385,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 98261,
+        "num": 98261,
+        "word": "男人应该如何处理婆媳关系",
+        "onboard_time": 1674187404,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记最大的心愿就是大家欢喜过好年#"
+    }
+  }
+}
