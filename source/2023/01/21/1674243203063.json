@@ -1,0 +1,410 @@
+{
+  "runTime": 1674243203063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 220455,
+        "num": 220455,
+        "word": "多地已阶段性取消首套房贷款利率下限",
+        "onboard_time": 1674232463,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 155838,
+        "num": 155838,
+        "word": "春晚节目单",
+        "onboard_time": 1674211107,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13327,
+        "num": 126894,
+        "word": "春节前疫情热点十问十答",
+        "onboard_time": 1674220408,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121957,
+        "num": 121957,
+        "word": "杨幂公主头蓝色抹胸长裙造型",
+        "onboard_time": 1674230125,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102436,
+        "num": 102436,
+        "word": "不建议自己在家剪头发",
+        "onboard_time": 1674231562,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77959,
+        "num": 77959,
+        "word": "屈楚萧现身流浪地球2首映",
+        "onboard_time": 1674235818,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69448,
+        "num": 69448,
+        "word": "王宝强春晚三个节目",
+        "onboard_time": 1674218670,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69369,
+        "num": 69369,
+        "word": "西藏林芝派墨公路雪崩已致28人遇难",
+        "onboard_time": 1674228868,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 57651,
+        "num": 57651,
+        "word": "王鹤棣说浴桶吻小孩别看",
+        "onboard_time": 1674222507,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42055,
+        "num": 57503,
+        "word": "年底清扫妈妈将5年未清黄吊顶洗白",
+        "onboard_time": 1674220769,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135060,
+        "num": 56780,
+        "word": "36岁女子带3个孩子嫁带2娃丈夫",
+        "onboard_time": 1674238696,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133648,
+        "num": 56644,
+        "word": "张一鸣退出抖音有限公司股东",
+        "onboard_time": 1674229705,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 102885,
+        "num": 55924,
+        "word": "春晚没有贾玲张小斐",
+        "onboard_time": 1674213510,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89973,
+        "num": 55518,
+        "word": "奶奶怕孙女干活不便帮剪400元美甲",
+        "onboard_time": 1674218851,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55332,
+        "num": 55332,
+        "word": "是我知道的那个吴彤吗",
+        "onboard_time": 1674215189,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52473,
+        "num": 52473,
+        "word": "女子化妆品被熊孩子弄坏上门理论",
+        "onboard_time": 1674240674,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51433,
+        "num": 51433,
+        "word": "狂飙",
+        "onboard_time": 1674217830,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48772,
+        "num": 48772,
+        "word": "女记者年前被裁去海底捞打工",
+        "onboard_time": 1674217889,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46240,
+        "num": 46240,
+        "word": "妈妈让买年货俩男孩买回几大袋零食",
+        "onboard_time": 1674236897,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43214,
+        "num": 43214,
+        "word": "周深怎么什么歌都能唱",
+        "onboard_time": 1674227427,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41900,
+        "num": 41900,
+        "word": "许嵩春晚solo舞台",
+        "onboard_time": 1674213150,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39776,
+        "num": 39776,
+        "word": "父母凌晨1点做7个菜迎接远嫁女儿回家",
+        "onboard_time": 1674207207,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38423,
+        "num": 38423,
+        "word": "赵晓卉出息了",
+        "onboard_time": 1674215729,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37665,
+        "num": 37665,
+        "word": "赵丽颖春晚有两个节目",
+        "onboard_time": 1674214172,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37419,
+        "num": 37419,
+        "word": "刘亦菲李现窗台吻戏花絮",
+        "onboard_time": 1674243193,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34855,
+        "num": 34855,
+        "word": "你们是懂应对催婚的",
+        "onboard_time": 1674225927,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 36148,
+        "num": 34666,
+        "word": "唐艺昕新剧看到孩子的反应好真实",
+        "onboard_time": 1674232524,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35696,
+        "num": 33796,
+        "word": "浮图缘全员缘满收官",
+        "onboard_time": 1674228568,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29118,
+        "num": 29118,
+        "word": "男子在山间窄溪发现上千条鱼",
+        "onboard_time": 1674215608,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28065,
+        "num": 28065,
+        "word": "朱琳晋级",
+        "onboard_time": 1674228089,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34101,
+        "num": 27883,
+        "word": "赵丽颖唐诗逸 双厨狂喜",
+        "onboard_time": 1674218610,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32140,
+        "num": 27159,
+        "word": "王铮亮春晚唱自己的歌",
+        "onboard_time": 1674224548,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28733,
+        "num": 26614,
+        "word": "姚晨说谢娜MV张杰敢不熟吗",
+        "onboard_time": 1674225150,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26069,
+        "num": 26069,
+        "word": "一次吃了三种主食",
+        "onboard_time": 1674227548,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31077,
+        "num": 26038,
+        "word": "王铮亮说张远29岁在看自己上春晚",
+        "onboard_time": 1674230905,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27570,
+        "num": 25769,
+        "word": "王鹤棣片场走螃蟹步",
+        "onboard_time": 1674240253,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24230,
+        "num": 24230,
+        "word": "Doinb刘青松组排直播",
+        "onboard_time": 1674227248,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23350,
+        "num": 23350,
+        "word": "外国人看中国土味视频后惊呆了",
+        "onboard_time": 1674229407,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22805,
+        "num": 22805,
+        "word": "兔年头像",
+        "onboard_time": 1674222809,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18213,
+        "num": 18213,
+        "word": "姜广涛",
+        "onboard_time": 1674179063,
+        "rank": 39,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 24857,
+        "num": 18027,
+        "word": "春节期间的电子榨菜有了",
+        "onboard_time": 1674238515,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25215,
+        "num": 17900,
+        "word": "徐志胜担心在春晚嘴瓢每天练绕口令",
+        "onboard_time": 1674242832,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21879,
+        "num": 17830,
+        "word": "严浩翔孤独怪物录音室版rap",
+        "onboard_time": 1674234681,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17740,
+        "num": 17740,
+        "word": "大学生开始对年夜饭下手了",
+        "onboard_time": 1674216090,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 20896,
+        "num": 17674,
+        "word": "唐嫣重新定义了不爱唱歌",
+        "onboard_time": 1674223947,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19375,
+        "num": 17622,
+        "word": "宋晓峰小品好搞笑",
+        "onboard_time": 1674233122,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19176,
+        "num": 17377,
+        "word": "戴燕妮RunIntoYou荆棘玫瑰舞台",
+        "onboard_time": 1674235698,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16818,
+        "num": 16818,
+        "word": "从拒绝到享受的狗狗",
+        "onboard_time": 1674223291,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 16473,
+        "num": 16473,
+        "word": "马尔康加盟沙特球队",
+        "onboard_time": 1674233840,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16372,
+        "num": 16372,
+        "word": "新年文案",
+        "onboard_time": 1674219810,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央国务院举行春节团拜会#"
+    }
+  }
+}
