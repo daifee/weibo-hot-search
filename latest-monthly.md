@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/20 11:22:11
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/20 11:35:52
 </p>
 </blockquote>
 <p>
@@ -1029,6 +1029,12 @@ YG新女团（热度：2181843）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E7%8E%A9%E5%AE%B6%E5%8F%82%E5%8A%A0%E7%82%89%E7%9F%B3%E8%B5%9B%E4%BA%8B%23" target="weibo">
+暴雪禁止中国玩家参加炉石赛事（热度：1843629）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E8%83%83%E4%BB%99%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%A2%AB%E9%80%AE%E6%8D%95%23" target="weibo">
 浪胃仙创始人被逮捕（热度：1843477）
 </a>
@@ -1475,12 +1481,6 @@ k4（热度：1673744）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E7%B2%BE%E5%87%86%E5%90%90%E6%A7%BD%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
 李雪琴精准吐槽王鹤棣（热度：1595228）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E7%8E%A9%E5%AE%B6%E5%8F%82%E5%8A%A0%E7%82%89%E7%9F%B3%E8%B5%9B%E4%BA%8B%23" target="weibo">
-暴雪禁止中国玩家参加炉石赛事（热度：1591166）
 </a>
 </li>
 
