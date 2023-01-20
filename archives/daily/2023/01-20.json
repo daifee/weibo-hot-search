@@ -1,10 +1,10 @@
 {
   "startTime": 1674145605899,
-  "endTime": 1674182902743,
+  "endTime": 1674183479085,
   "band_list": [
     {
-      "raw_hot": 1800715,
-      "num": 927184,
+      "raw_hot": 2063772,
+      "num": 2063772,
       "word": "姜广涛",
       "onboard_time": 1674179063,
       "rank": 3,
@@ -17,6 +17,14 @@
       "onboard_time": 1674175464,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1281117,
+      "num": 1281117,
+      "word": "暴雪禁止中国玩家参加炉石赛事",
+      "onboard_time": 1674181764,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 1074637,
@@ -43,16 +51,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 897739,
-      "num": 897739,
-      "word": "暴雪禁止中国玩家参加炉石赛事",
-      "onboard_time": 1674181764,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 820680,
-      "num": 820680,
+      "raw_hot": 881213,
+      "num": 881213,
       "word": "河南春晚 毛戈平",
       "onboard_time": 1674181943,
       "rank": 5,
@@ -115,8 +115,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 595363,
-      "num": 595363,
+      "raw_hot": 611038,
+      "num": 611038,
       "word": "许红豆家的银行卡密码是天灵灵地灵灵",
       "onboard_time": 1674179304,
       "rank": 12,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514261,
+      "num": 514261,
+      "word": "外卖小哥为妻子连点10天外卖",
+      "onboard_time": 1674180264,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483927,
       "num": 483927,
       "word": "清华硕士称大厂2万月薪践踏学历",
@@ -147,15 +155,7 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 476385,
-      "num": 317429,
-      "word": "王一博脸上青春痘都比你好看",
-      "onboard_time": 1674134668,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 467017,
+      "raw_hot": 483081,
       "num": 387370,
       "word": "理科丈夫和文科妻子如何互相调侃",
       "onboard_time": 1674180925,
@@ -163,12 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 432490,
-      "num": 432490,
-      "word": "外卖小哥为妻子连点10天外卖",
-      "onboard_time": 1674180264,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 476385,
+      "num": 317429,
+      "word": "王一博脸上青春痘都比你好看",
+      "onboard_time": 1674134668,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 410558,
@@ -243,11 +243,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362582,
+      "num": 362582,
+      "word": "易烊千玺录制新歌MV路透",
+      "onboard_time": 1674182604,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 358156,
       "num": 358156,
       "word": "春晚节目单",
       "onboard_time": 1674141269,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 357371,
+      "num": 357371,
+      "word": "赵今麦 妆造",
+      "onboard_time": 1674183206,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -264,6 +280,14 @@
       "word": "许红豆被许红米锁喉",
       "onboard_time": 1674178285,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 314808,
+      "num": 314808,
+      "word": "今天是安陵容吃息肌丸的日子",
+      "onboard_time": 1674181886,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -299,20 +323,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280382,
-      "num": 171716,
-      "word": "今天是安陵容吃息肌丸的日子",
-      "onboard_time": 1674181886,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 278301,
       "num": 278301,
       "word": "这不是腰痛是骶髂关节痛",
       "onboard_time": 1674173960,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274812,
+      "num": 274812,
+      "word": "韩国演员尹静姬去世",
+      "onboard_time": 1674182786,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 269659,
@@ -331,20 +355,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 261029,
-      "num": 261029,
-      "word": "易烊千玺录制新歌MV路透",
-      "onboard_time": 1674182604,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 249825,
       "num": 249825,
       "word": "张颂文演技",
       "onboard_time": 1674170718,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249585,
+      "num": 249585,
+      "word": "下一个虎年是2034年",
+      "onboard_time": 1674179724,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249552,
@@ -361,6 +385,14 @@
       "onboard_time": 1674172581,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247799,
+      "num": 247799,
+      "word": "狂飙",
+      "onboard_time": 1674170418,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 241043,
@@ -387,12 +419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234786,
-      "num": 234786,
-      "word": "下一个虎年是2034年",
-      "onboard_time": 1674179724,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 234998,
+      "num": 234998,
+      "word": "梅西C罗互晒合影",
+      "onboard_time": 1674181886,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 231944,
@@ -419,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219884,
+      "num": 219884,
+      "word": "狂飙 真实",
+      "onboard_time": 1674182185,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218298,
       "num": 218298,
       "word": "蓝环章鱼后又现毒螃蟹",
@@ -435,14 +475,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 216993,
-      "num": 216993,
-      "word": "狂飙",
-      "onboard_time": 1674170418,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216278,
       "num": 216278,
       "word": "许红米叫许红豆起床好真实",
@@ -457,6 +489,14 @@
       "onboard_time": 1674137430,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 211516,
+      "num": 211516,
+      "word": "王者荣耀摇心愿",
+      "onboard_time": 1674182125,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 211391,
@@ -491,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185376,
+      "num": 185376,
+      "word": "库里抢断超远三分",
+      "onboard_time": 1674181044,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184690,
       "num": 184690,
       "word": "怎么有小猫生气这么可爱的",
@@ -507,16 +555,8 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 171810,
-      "num": 171810,
-      "word": "梅西C罗互晒合影",
-      "onboard_time": 1674181886,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 171577,
-      "num": 947432,
+      "num": 1180883,
       "word": "未感染人群怎么做好个人防护",
       "onboard_time": 1674137191,
       "rank": 2,
@@ -539,14 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169278,
-      "num": 169278,
-      "word": "库里抢断超远三分",
-      "onboard_time": 1674181044,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166209,
       "num": 166209,
       "word": "倪萍冯巩春晚同台童年又回来了",
@@ -561,14 +593,6 @@
       "onboard_time": 1674173543,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164713,
-      "num": 164713,
-      "word": "韩国演员尹静姬去世",
-      "onboard_time": 1674182786,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 162167,
@@ -587,28 +611,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161483,
-      "num": 161483,
-      "word": "狂飙 真实",
-      "onboard_time": 1674182185,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 159392,
       "num": 159392,
       "word": "乐华上市庆功宴路透",
       "onboard_time": 1674138330,
       "rank": 27,
       "category": "财经,艺人"
-    },
-    {
-      "raw_hot": 158178,
-      "num": 158178,
-      "word": "王者荣耀摇心愿",
-      "onboard_time": 1674182125,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 156645,
@@ -755,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123933,
+      "num": 123933,
+      "word": "母亲抚摸儿子军功章满是心疼与骄傲",
+      "onboard_time": 1674182604,
+      "rank": 47,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 123712,
       "num": 123712,
       "word": "三体第八集",
@@ -769,14 +785,6 @@
       "onboard_time": 1674145405,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119056,
-      "num": 119056,
-      "word": "母亲抚摸儿子军功章满是心疼与骄傲",
-      "onboard_time": 1674182604,
-      "rank": 47,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 114030,
