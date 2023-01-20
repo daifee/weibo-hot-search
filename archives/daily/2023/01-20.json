@@ -1,6 +1,6 @@
 {
   "startTime": 1674145605899,
-  "endTime": 1674185752999,
+  "endTime": 1674188589761,
   "band_list": [
     {
       "raw_hot": 2063772,
@@ -11,8 +11,8 @@
       "category": "动漫,网红"
     },
     {
-      "raw_hot": 1843629,
-      "num": 1843629,
+      "raw_hot": 1929053,
+      "num": 1929053,
       "word": "暴雪禁止中国玩家参加炉石赛事",
       "onboard_time": 1674181764,
       "rank": 4,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1064648,
+      "num": 1064648,
+      "word": "王一博张婧仪电影无名对手戏",
+      "onboard_time": 1674185125,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 992428,
       "num": 992428,
       "word": "河南春晚 毛戈平",
@@ -57,6 +65,14 @@
       "onboard_time": 1674142707,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 827860,
+      "num": 827860,
+      "word": "儿子选离去世父亲最近的路去婚礼",
+      "onboard_time": 1674184586,
+      "rank": 39,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 723520,
@@ -89,14 +105,6 @@
       "onboard_time": 1674170656,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 681460,
-      "num": 681460,
-      "word": "王一博张婧仪电影无名对手戏",
-      "onboard_time": 1674185125,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 667121,
@@ -163,6 +171,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 559434,
+      "num": 559434,
+      "word": "撅着嘴生闷气的猫咪",
+      "onboard_time": 1674185546,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 551170,
       "num": 551170,
       "word": "2025年到2029年连续5年都没有年三十",
@@ -195,12 +211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 475888,
+      "num": 475888,
+      "word": "外地人对山东人拜年误解有多深",
+      "onboard_time": 1674185784,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 458031,
       "num": 458031,
       "word": "LWX与Crisp在LPL登场六周年",
       "onboard_time": 1674183867,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 412060,
+      "num": 412060,
+      "word": "无畏收到杨幂谐音梗祝福",
+      "onboard_time": 1674187646,
+      "rank": 12,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 410558,
@@ -243,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 393727,
+      "num": 393727,
+      "word": "今天是安陵容吃息肌丸的日子",
+      "onboard_time": 1674181886,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391474,
       "num": 391474,
       "word": "为何低俗婚闹屡禁不了",
@@ -265,6 +305,14 @@
       "onboard_time": 1674161653,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380751,
+      "num": 380751,
+      "word": "谷爱凌2023年首个冠军",
+      "onboard_time": 1674184946,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 374935,
@@ -323,24 +371,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 338421,
-      "num": 322764,
-      "word": "今天是安陵容吃息肌丸的日子",
-      "onboard_time": 1674181886,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 327270,
-      "num": 327270,
+      "raw_hot": 343867,
+      "num": 343867,
       "word": "梅西C罗互晒合影",
       "onboard_time": 1674181886,
       "rank": 29,
       "category": "体育"
     },
     {
-      "raw_hot": 316079,
-      "num": 316079,
+      "raw_hot": 318925,
+      "num": 318925,
       "word": "王者荣耀摇心愿",
       "onboard_time": 1674182125,
       "rank": 37,
@@ -371,12 +411,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 298802,
-      "num": 298802,
-      "word": "谷爱凌2023年首个冠军",
-      "onboard_time": 1674184946,
-      "rank": 21,
-      "category": "体育"
+      "raw_hot": 308051,
+      "num": 308051,
+      "word": "南方婆婆给北方准儿媳买11件保暖品",
+      "onboard_time": 1674185667,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294037,
+      "num": 294037,
+      "word": "许红豆主动吻谢之遥",
+      "onboard_time": 1674187404,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 283911,
@@ -419,20 +467,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 268514,
+      "num": 268514,
+      "word": "张婧仪说听到无名后天就上映",
+      "onboard_time": 1674188483,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266659,
       "num": 266659,
       "word": "狂飙 真实",
       "onboard_time": 1674182185,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 253859,
-      "num": 253859,
-      "word": "儿子选离去世父亲最近的路去婚礼",
-      "onboard_time": 1674184586,
-      "rank": 39,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 249825,
@@ -523,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231505,
+      "num": 269891,
+      "word": "兔年吃全兔火锅",
+      "onboard_time": 1674186864,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 228636,
       "num": 228636,
       "word": "这哪叫自建房这叫自建府",
@@ -563,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216277,
+      "num": 216277,
+      "word": "咽喉是健康的第一道防线",
+      "onboard_time": 1674187164,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213796,
       "num": 213796,
       "word": "gidle 造型",
@@ -585,6 +649,14 @@
       "onboard_time": 1674139052,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211024,
+      "num": 211024,
+      "word": "谷爱凌第20金",
+      "onboard_time": 1674187285,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 208665,
@@ -633,6 +705,14 @@
       "onboard_time": 1674138330,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183114,
+      "num": 183114,
+      "word": "这届年轻人是懂许愿的",
+      "onboard_time": 1674186684,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 176223,
@@ -827,14 +907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144346,
-      "num": 144346,
-      "word": "撅着嘴生闷气的猫咪",
-      "onboard_time": 1674185546,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 141685,
       "num": 141685,
       "word": "IVE首尔歌谣大赏开麦",
@@ -867,20 +939,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133494,
-      "num": 133494,
-      "word": "南方婆婆给北方准儿媳买11件保暖品",
-      "onboard_time": 1674185667,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133125,
       "num": 133125,
       "word": "明天就是除夕了",
       "onboard_time": 1674179784,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132876,
+      "num": 132876,
+      "word": "男人应该如何处理婆媳关系",
+      "onboard_time": 1674187404,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 131171,
@@ -915,6 +987,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124365,
+      "num": 124365,
+      "word": "三体游戏推广达人申玉菲",
+      "onboard_time": 1674187524,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 123974,
+      "num": 123974,
+      "word": "谢之遥说来阿奶比个心",
+      "onboard_time": 1674188245,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123712,
       "num": 123712,
       "word": "三体第八集",
@@ -928,6 +1016,14 @@
       "word": "魏晨透露春晚会唱歌",
       "onboard_time": 1674145405,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 119775,
+      "num": 119775,
+      "word": "张若昀唱孤勇者预告",
+      "onboard_time": 1674187524,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -985,6 +1081,14 @@
       "onboard_time": 1674133830,
       "rank": 38,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 101547,
+      "num": 101547,
+      "word": "妈妈和婆婆多年闺蜜撮合孩子变亲家",
+      "onboard_time": 1674188185,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96831,
