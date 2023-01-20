@@ -1,6 +1,6 @@
 {
   "startTime": 1674231983947,
-  "endTime": 1674231983947,
+  "endTime": 1674233052332,
   "band_list": [
     {
       "raw_hot": 1134438,
@@ -27,7 +27,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 603462,
+      "raw_hot": 775592,
       "num": 216393,
       "word": "张一鸣退出抖音有限公司股东",
       "onboard_time": 1674229705,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 419936,
-      "num": 213069,
+      "num": 415810,
       "word": "西藏林芝派墨公路雪崩已致28人遇难",
       "onboard_time": 1674228868,
       "rank": 13,
@@ -83,20 +83,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382969,
+      "num": 382969,
+      "word": "杨幂公主头蓝色抹胸长裙造型",
+      "onboard_time": 1674230125,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 368736,
       "num": 368736,
       "word": "一次吃了三种主食",
       "onboard_time": 1674227548,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 349352,
-      "num": 210365,
-      "word": "杨幂公主头蓝色抹胸长裙造型",
-      "onboard_time": 1674230125,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 324991,
@@ -171,6 +171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 218989,
+      "num": 172734,
+      "word": "王铮亮说张远29岁在看自己上春晚",
+      "onboard_time": 1674230905,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217274,
       "num": 187917,
       "word": "赵丽颖唐诗逸 双厨狂喜",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 200060,
-      "num": 133724,
+      "num": 160085,
       "word": "是我知道的那个吴彤吗",
       "onboard_time": 1674215189,
       "rank": 30,
@@ -235,20 +243,44 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186055,
-      "num": 132585,
-      "word": "王铮亮说张远29岁在看自己上春晚",
-      "onboard_time": 1674230905,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184609,
       "num": 184609,
       "word": "你们是懂应对催婚的",
       "onboard_time": 1674225927,
       "rank": 26,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 182075,
+      "num": 160038,
+      "word": "郭俊辰首登春晚",
+      "onboard_time": 1674232702,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176527,
+      "num": 135971,
+      "word": "一起看春晚过大年",
+      "onboard_time": 1674232343,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175555,
+      "num": 175555,
+      "word": "外国人看中国土味视频后惊呆了",
+      "onboard_time": 1674229407,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 175171,
+      "num": 175171,
+      "word": "不建议自己在家剪头发",
+      "onboard_time": 1674231562,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 170920,
@@ -299,19 +331,19 @@
       "category": "美食"
     },
     {
-      "raw_hot": 151264,
-      "num": 132992,
-      "word": "外国人看中国土味视频后惊呆了",
-      "onboard_time": 1674229407,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138521,
       "num": 88804,
       "word": "唐嫣说周柯宇好可爱",
       "onboard_time": 1674228148,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 136734,
+      "num": 82898,
+      "word": "希林娜依高首登央视春晚",
+      "onboard_time": 1674232343,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -331,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130358,
+      "num": 77429,
+      "word": "唐艺昕新剧看到孩子的反应好真实",
+      "onboard_time": 1674232524,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 95357,
       "num": 95357,
       "word": "都快不认识这些字了",
@@ -347,12 +387,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 93696,
+      "num": 93696,
+      "word": "新年文案",
+      "onboard_time": 1674219810,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92775,
       "num": 92775,
       "word": "从拒绝到享受的狗狗",
       "onboard_time": 1674223291,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 90237,
+      "num": 90237,
+      "word": "多地已阶段性取消首套房贷款利率下限",
+      "onboard_time": 1674232463,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 89141,
@@ -363,28 +419,12 @@
       "category": "动漫,网红"
     },
     {
-      "raw_hot": 87881,
-      "num": 87881,
-      "word": "新年文案",
-      "onboard_time": 1674219810,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 84819,
       "num": 84819,
       "word": "奇葩小舅子醉驾姐夫车几乎撞报废",
       "onboard_time": 1674214591,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78891,
-      "num": 78891,
-      "word": "不建议自己在家剪头发",
-      "onboard_time": 1674231562,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 74566,
@@ -406,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#中共中央国务院举行春节团拜会#"
+    },
+    {
+      "word": "#温暖牵挂#"
     }
   ]
 }
