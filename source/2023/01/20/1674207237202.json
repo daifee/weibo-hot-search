@@ -1,0 +1,410 @@
+{
+  "runTime": 1674207237202,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1724649,
+        "num": 1724649,
+        "word": "女子花9小时染发染翻车店家退400",
+        "onboard_time": 1674203365,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766396,
+        "num": 766396,
+        "word": "流浪地球2用CG复原了吴孟达角色",
+        "onboard_time": 1674201085,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18807,
+        "num": 578201,
+        "word": "这就是中国年的仪式感",
+        "onboard_time": 1674176963,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558967,
+        "num": 558967,
+        "word": "迪丽热巴任嘉伦与君初相识日本将播出",
+        "onboard_time": 1674204326,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534197,
+        "num": 534197,
+        "word": "吴磊脱衣服",
+        "onboard_time": 1674203484,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 501108,
+        "num": 501108,
+        "word": "西藏林芝雪崩遇难人数增至20人",
+        "onboard_time": 1674204925,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 474912,
+        "num": 474912,
+        "word": "杨紫朋友圈是搞怪女",
+        "onboard_time": 1674194725,
+        "rank": 6,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 407413,
+        "num": 407413,
+        "word": "沈梦辰说过日子性格比长相重要",
+        "onboard_time": 1674205464,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363925,
+        "num": 363925,
+        "word": "网易暴雪客服团队与玩家道别",
+        "onboard_time": 1674202764,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 351873,
+        "num": 351873,
+        "word": "婚礼上新娘发现新郎手变黑了",
+        "onboard_time": 1674189148,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1087382,
+        "num": 345348,
+        "word": "张元英吃披萨",
+        "onboard_time": 1674196883,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320563,
+        "num": 320563,
+        "word": "怀念达叔",
+        "onboard_time": 1674205346,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306152,
+        "num": 306152,
+        "word": "暴雪禁止中国玩家参加炉石赛事",
+        "onboard_time": 1674181764,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281059,
+        "num": 281059,
+        "word": "男子13次偷走医护人员外卖",
+        "onboard_time": 1674196824,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274168,
+        "num": 274168,
+        "word": "林高远",
+        "onboard_time": 1674203844,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266959,
+        "num": 266959,
+        "word": "零下50度有多冷",
+        "onboard_time": 1674200783,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264086,
+        "num": 264086,
+        "word": "西湖边现快递山惊呆快递小哥",
+        "onboard_time": 1674200606,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255780,
+        "num": 255780,
+        "word": "蓝猫因太胖卡洞里脸都变形了",
+        "onboard_time": 1674196045,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224667,
+        "num": 224667,
+        "word": "MINJI音银特别MC视频",
+        "onboard_time": 1674207026,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210573,
+        "num": 210573,
+        "word": "王冰冰说见到孙茜好想叫一声姑姑",
+        "onboard_time": 1674201923,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597652,
+        "num": 208622,
+        "word": "姜广涛",
+        "onboard_time": 1674179063,
+        "rank": 20,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 333777,
+        "num": 207848,
+        "word": "张婧仪短发",
+        "onboard_time": 1674195682,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205989,
+        "num": 205989,
+        "word": "黄旭东曝暴雪拒绝网易续约一年",
+        "onboard_time": 1674192206,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191204,
+        "num": 191204,
+        "word": "外婆养2只天竺鼠1年后变一族群",
+        "onboard_time": 1674194426,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188494,
+        "num": 188494,
+        "word": "小猫讨厌没有边界感的人类",
+        "onboard_time": 1674204205,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179628,
+        "num": 179628,
+        "word": "王栎鑫说妈妈亮哥带我上春晚啦",
+        "onboard_time": 1674196406,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179463,
+        "num": 179463,
+        "word": "狂飙全员恶人",
+        "onboard_time": 1674194305,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176320,
+        "num": 176320,
+        "word": "回家的路",
+        "onboard_time": 1674206784,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172291,
+        "num": 172291,
+        "word": "王楚钦",
+        "onboard_time": 1674190526,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169624,
+        "num": 169624,
+        "word": "距五条悟解封还有997年",
+        "onboard_time": 1674193586,
+        "rank": 29,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 262238,
+        "num": 167587,
+        "word": "远嫁女子回婆家有客不能上桌吃饭",
+        "onboard_time": 1674206427,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164552,
+        "num": 164552,
+        "word": "昭君灯",
+        "onboard_time": 1674199644,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160836,
+        "num": 160836,
+        "word": "两岸同胞拜大年",
+        "onboard_time": 1674206784,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152202,
+        "num": 152202,
+        "word": "刘恒",
+        "onboard_time": 1674195565,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152170,
+        "num": 152170,
+        "word": "邓超贺峻霖微博互关",
+        "onboard_time": 1674202283,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132277,
+        "num": 132277,
+        "word": "陈钰琪说选乔峰传选对了",
+        "onboard_time": 1674201324,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131014,
+        "num": 131014,
+        "word": "北京台春晚官宣全阵容",
+        "onboard_time": 1674193226,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124522,
+        "num": 124522,
+        "word": "小猫也要有过年的仪式感",
+        "onboard_time": 1674203605,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128680,
+        "num": 124242,
+        "word": "王一博无名宣传VCR",
+        "onboard_time": 1674203545,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127602,
+        "num": 124161,
+        "word": "少年歌行",
+        "onboard_time": 1674190649,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127514,
+        "num": 123967,
+        "word": "毛不易开始运动的原因是年龄",
+        "onboard_time": 1674205464,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122976,
+        "num": 122976,
+        "word": "妈妈和婆婆多年闺蜜撮合孩子变亲家",
+        "onboard_time": 1674188185,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125276,
+        "num": 122620,
+        "word": "TWICE新歌",
+        "onboard_time": 1674190046,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120590,
+        "num": 120590,
+        "word": "央视2023东西南北贺新春官宣",
+        "onboard_time": 1674200725,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119130,
+        "num": 119130,
+        "word": "何洁给苏醒推制作人要中介费",
+        "onboard_time": 1674200184,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118507,
+        "num": 118507,
+        "word": "漠河极寒",
+        "onboard_time": 1674197846,
+        "rank": 45,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 117307,
+        "num": 117307,
+        "word": "当社牛与社恐同时上班",
+        "onboard_time": 1674196165,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 112747,
+        "num": 112747,
+        "word": "姜广涛名下仅1家企业存续",
+        "onboard_time": 1674192684,
+        "rank": 47,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 111594,
+        "num": 111594,
+        "word": "aespa演唱会海报",
+        "onboard_time": 1674198626,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105989,
+        "num": 105989,
+        "word": "父母凌晨1点做7个菜迎接远嫁女儿回家",
+        "onboard_time": 1674207207,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记最大的心愿就是大家欢喜过好年#"
+    }
+  }
+}

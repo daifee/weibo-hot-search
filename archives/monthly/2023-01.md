@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/20 17:18:39
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/20 17:33:57
 </p>
 </blockquote>
 <p>
@@ -1251,6 +1251,12 @@ NASA局长称别让中国打着科研幌子登月（热度：1734698）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B19%E5%B0%8F%E6%97%B6%E6%9F%93%E5%8F%91%E6%9F%93%E7%BF%BB%E8%BD%A6%E5%BA%97%E5%AE%B6%E9%80%80400%23" target="weibo">
+女子花9小时染发染翻车店家退400（热度：1724649）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%B7%E6%91%B8%E6%9C%AA%E6%88%90%E5%B9%B4%E8%A2%AB%E5%A5%B3%E5%AD%A9%E5%A6%88%E5%A6%88%E5%BD%93%E8%A1%97%E6%8E%8C%E6%8E%B4%23" target="weibo">
 男子偷摸未成年被女孩妈妈当街掌掴（热度：1715996）
 </a>
@@ -1493,12 +1499,6 @@ k4（热度：1673744）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E7%B2%BE%E5%87%86%E5%90%90%E6%A7%BD%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
 李雪琴精准吐槽王鹤棣（热度：1595228）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B19%E5%B0%8F%E6%97%B6%E6%9F%93%E5%8F%91%E6%9F%93%E7%BF%BB%E8%BD%A6%E5%BA%97%E5%AE%B6%E9%80%80400%23" target="weibo">
-女子花9小时染发染翻车店家退400（热度：1588994）
 </a>
 </li>
 

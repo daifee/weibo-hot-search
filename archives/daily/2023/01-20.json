@@ -1,6 +1,6 @@
 {
   "startTime": 1674145605899,
-  "endTime": 1674206319141,
+  "endTime": 1674207237202,
   "band_list": [
     {
       "raw_hot": 2063772,
@@ -27,6 +27,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1724649,
+      "num": 1724649,
+      "word": "女子花9小时染发染翻车店家退400",
+      "onboard_time": 1674203365,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1681769,
       "num": 1681769,
       "word": "专家预测2月初可能出现疫情拐点",
@@ -40,14 +48,6 @@
       "word": "女子自曝被家暴9次报警4次",
       "onboard_time": 1674189688,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1588994,
-      "num": 1588994,
-      "word": "女子花9小时染发染翻车店家退400",
-      "onboard_time": 1674203365,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -291,6 +291,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 558967,
+      "num": 558967,
+      "word": "迪丽热巴任嘉伦与君初相识日本将播出",
+      "onboard_time": 1674204326,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 551170,
       "num": 551170,
       "word": "2025年到2029年连续5年都没有年三十",
@@ -307,12 +315,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 533693,
-      "num": 533693,
-      "word": "迪丽热巴任嘉伦与君初相识日本将播出",
-      "onboard_time": 1674204326,
-      "rank": 3,
-      "category": "影视"
+      "raw_hot": 534197,
+      "num": 534197,
+      "word": "吴磊脱衣服",
+      "onboard_time": 1674203484,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 514674,
@@ -323,20 +331,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 506528,
-      "num": 506528,
-      "word": "吴磊脱衣服",
-      "onboard_time": 1674203484,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 505158,
       "num": 505158,
       "word": "郑秀妍被姐姐们的惊喜感动哭",
       "onboard_time": 1674194606,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 501108,
+      "num": 501108,
+      "word": "西藏林芝雪崩遇难人数增至20人",
+      "onboard_time": 1674204925,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 498673,
@@ -443,6 +451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 407413,
+      "num": 407413,
+      "word": "沈梦辰说过日子性格比长相重要",
+      "onboard_time": 1674205464,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406511,
       "num": 315606,
       "word": "山东多人婚闹压着新郎新娘叠罗汉",
@@ -547,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 380285,
-      "num": 344427,
-      "word": "西藏林芝雪崩遇难人数增至20人",
-      "onboard_time": 1674204925,
-      "rank": 11,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 374935,
       "num": 275110,
       "word": "周深一开口就有团圆味了",
@@ -577,6 +585,14 @@
       "onboard_time": 1674178524,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363925,
+      "num": 363925,
+      "word": "网易暴雪客服团队与玩家道别",
+      "onboard_time": 1674202764,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 363795,
@@ -627,28 +643,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 345710,
-      "num": 345710,
-      "word": "沈梦辰说过日子性格比长相重要",
-      "onboard_time": 1674205464,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 343867,
       "num": 343867,
       "word": "梅西C罗互晒合影",
       "onboard_time": 1674181886,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 340631,
-      "num": 340631,
-      "word": "网易暴雪客服团队与玩家道别",
-      "onboard_time": 1674202764,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 334036,
@@ -680,6 +680,14 @@
       "word": "易烊千玺说这密信很复杂谁能置身局外",
       "onboard_time": 1674197185,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 320563,
+      "num": 320563,
+      "word": "怀念达叔",
+      "onboard_time": 1674205346,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -752,14 +760,6 @@
       "word": "少年歌行",
       "onboard_time": 1674190649,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 290187,
-      "num": 290187,
-      "word": "怀念达叔",
-      "onboard_time": 1674205346,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -881,6 +881,14 @@
       "onboard_time": 1674201324,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 262238,
+      "num": 167587,
+      "word": "远嫁女子回婆家有客不能上桌吃饭",
+      "onboard_time": 1674206427,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261262,
@@ -1017,6 +1025,14 @@
       "onboard_time": 1674198445,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 224667,
+      "num": 224667,
+      "word": "MINJI音银特别MC视频",
+      "onboard_time": 1674207026,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 221318,
@@ -1195,6 +1211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 188494,
+      "num": 188494,
+      "word": "小猫讨厌没有边界感的人类",
+      "onboard_time": 1674204205,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187952,
       "num": 187952,
       "word": "为什么国风舞台越来越受欢迎",
@@ -1243,12 +1267,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 177395,
-      "num": 177395,
-      "word": "小猫讨厌没有边界感的人类",
-      "onboard_time": 1674204205,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 176320,
+      "num": 176320,
+      "word": "回家的路",
+      "onboard_time": 1674206784,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 176223,
@@ -1385,6 +1409,14 @@
       "onboard_time": 1674203605,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160836,
+      "num": 160836,
+      "word": "两岸同胞拜大年",
+      "onboard_time": 1674206784,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159392,
@@ -1763,6 +1795,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 105989,
+      "num": 105989,
+      "word": "父母凌晨1点做7个菜迎接远嫁女儿回家",
+      "onboard_time": 1674207207,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98503,
       "num": 98503,
       "word": "兔年谐音梗祝福",
@@ -1905,6 +1945,14 @@
       "onboard_time": 1674164951,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18807,
+      "num": 578201,
+      "word": "这就是中国年的仪式感",
+      "onboard_time": 1674176963,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15709,
