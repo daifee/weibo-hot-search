@@ -1,6 +1,6 @@
 {
   "startTime": 1674145605899,
-  "endTime": 1674191848204,
+  "endTime": 1674192818471,
   "band_list": [
     {
       "raw_hot": 2063772,
@@ -27,12 +27,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1482723,
+      "raw_hot": 1622524,
       "num": 427660,
       "word": "女子自曝被家暴9次报警4次",
       "onboard_time": 1674189688,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1287566,
+      "num": 1287566,
+      "word": "王楚钦",
+      "onboard_time": 1674190526,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1074637,
@@ -89,14 +97,6 @@
       "onboard_time": 1674190046,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 766496,
-      "num": 766496,
-      "word": "王楚钦",
-      "onboard_time": 1674190526,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 723520,
@@ -171,6 +171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 612186,
+      "num": 612186,
+      "word": "婚礼上新娘发现新郎手变黑了",
+      "onboard_time": 1674189148,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611038,
       "num": 611038,
       "word": "许红豆家的银行卡密码是天灵灵地灵灵",
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498673,
+      "num": 447826,
+      "word": "张婧仪千禧叛逆辣妹妆",
+      "onboard_time": 1674192085,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 483927,
       "num": 483927,
       "word": "清华硕士称大厂2万月薪践踏学历",
@@ -251,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 461433,
+      "num": 461433,
+      "word": "肖战2023年拜年视频",
+      "onboard_time": 1674191307,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458031,
       "num": 458031,
       "word": "LWX与Crisp在LPL登场六周年",
@@ -267,20 +291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 428069,
-      "num": 428069,
-      "word": "婚礼上新娘发现新郎手变黑了",
-      "onboard_time": 1674189148,
-      "rank": 38,
+      "raw_hot": 422934,
+      "num": 422934,
+      "word": "妈妈和婆婆多年闺蜜撮合孩子变亲家",
+      "onboard_time": 1674188185,
+      "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 427076,
-      "num": 427076,
-      "word": "肖战2023年拜年视频",
-      "onboard_time": 1674191307,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 412060,
@@ -427,14 +443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 352280,
-      "num": 352280,
-      "word": "妈妈和婆婆多年闺蜜撮合孩子变亲家",
-      "onboard_time": 1674188185,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343867,
       "num": 343867,
       "word": "梅西C罗互晒合影",
@@ -475,6 +483,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 309630,
+      "num": 200296,
+      "word": "黄旭东曝暴雪拒绝网易续约一年",
+      "onboard_time": 1674192206,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 309426,
       "num": 309426,
       "word": "C罗沙特首秀获评全场最佳",
@@ -491,8 +507,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292772,
-      "num": 292772,
+      "raw_hot": 294896,
+      "num": 294896,
       "word": "少年歌行",
       "onboard_time": 1674190649,
       "rank": 19,
@@ -691,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216004,
+      "num": 216004,
+      "word": "三体真香",
+      "onboard_time": 1674190586,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213796,
       "num": 213796,
       "word": "gidle 造型",
@@ -713,6 +737,14 @@
       "onboard_time": 1674139052,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209948,
+      "num": 209948,
+      "word": "红包封面",
+      "onboard_time": 1674191245,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 208665,
@@ -739,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201347,
+      "num": 201347,
+      "word": "于文文计划为前任4写歌",
+      "onboard_time": 1674191966,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199221,
       "num": 199221,
       "word": "新年开箱",
@@ -747,12 +787,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198544,
-      "num": 198544,
-      "word": "红包封面",
-      "onboard_time": 1674191245,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 194406,
+      "num": 194406,
+      "word": "姜广涛名下仅1家企业存续",
+      "onboard_time": 1674192684,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187952,
+      "num": 187952,
+      "word": "为什么国风舞台越来越受欢迎",
+      "onboard_time": 1674192446,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 186777,
@@ -851,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169311,
+      "num": 169311,
+      "word": "新年壁纸",
+      "onboard_time": 1674192325,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168508,
       "num": 168508,
       "word": "刘欢再唱流浪地球主题歌",
@@ -881,6 +937,14 @@
       "onboard_time": 1674185006,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164589,
+      "num": 164589,
+      "word": "张小斐说今年春节也一起度过",
+      "onboard_time": 1674192266,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 162167,
@@ -1019,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138709,
+      "num": 138709,
+      "word": "纵有疾风起全员有声告别",
+      "onboard_time": 1674192684,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138266,
       "num": 138266,
       "word": "毛不易深海微笑曲小丑",
@@ -1075,20 +1147,20 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 130053,
+      "num": 126122,
+      "word": "白敬亭请剧组群演喝奶茶",
+      "onboard_time": 1674192807,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129337,
       "num": 129337,
       "word": "至今没阳过返乡过年感染风险是否更大",
       "onboard_time": 1674144327,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126395,
-      "num": 122374,
-      "word": "三体真香",
-      "onboard_time": 1674190586,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 125420,

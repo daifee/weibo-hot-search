@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/20 13:17:28
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/20 13:33:38
 </p>
 </blockquote>
 <p>
@@ -1443,6 +1443,12 @@ k4（热度：1673744）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%87%AA%E6%9B%9D%E8%A2%AB%E5%AE%B6%E6%9A%B49%E6%AC%A1%E6%8A%A5%E8%AD%A64%E6%AC%A1%23" target="weibo">
+女子自曝被家暴9次报警4次（热度：1622524）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%23" target="weibo">
 春晚（热度：1622142）
 </a>
@@ -1679,12 +1685,6 @@ IVE假唱被KBS点名批评（热度：1570145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E8%BF%9194%25%E5%8E%BF%E5%9F%8E%E6%88%BF%E4%BB%B7%E4%B8%8D%E8%BF%87%E4%B8%87%E5%85%83%23" target="weibo">
 全国近94%县城房价不过万元（热度：1493427）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%87%AA%E6%9B%9D%E8%A2%AB%E5%AE%B6%E6%9A%B49%E6%AC%A1%E6%8A%A5%E8%AD%A64%E6%AC%A1%23" target="weibo">
-女子自曝被家暴9次报警4次（热度：1482723）
 </a>
 </li>
 
@@ -2279,6 +2279,12 @@ YG确认金智秀今年将发行solo专辑（热度：1379525）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E4%B8%8D%E5%BB%BA%E8%AE%AE%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E6%8E%A2%E8%AE%BF%E6%9C%AA%E9%98%B3%E8%80%81%E4%BA%BA%23" target="weibo">
 专家不建议春节期间探访未阳老人（热度：1288209）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
+王楚钦（热度：1287566）
 </a>
 </li>
 
@@ -4121,12 +4127,6 @@ WBG让二追三（热度：970849）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E4%BD%95%E8%93%9D%E9%80%97%E5%90%8C%E6%B8%B8%E8%BF%AA%E5%A3%AB%E5%B0%BC%23" target="weibo">
 刘诗诗何蓝逗同游迪士尼（热度：931900）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
-王楚钦（热度：931452）
 </a>
 </li>
 

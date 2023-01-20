@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674191848204,
+  "endTime": 1674192818471,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1622524,
+      "num": 427660,
+      "word": "女子自曝被家暴9次报警4次",
+      "onboard_time": 1674189688,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1598801,
       "num": 500695,
       "word": "直面生育损伤",
@@ -481,14 +489,6 @@
       "onboard_time": 1674119005,
       "rank": 10,
       "category": "财经,艺人"
-    },
-    {
-      "raw_hot": 1482723,
-      "num": 427660,
-      "word": "女子自曝被家暴9次报警4次",
-      "onboard_time": 1674189688,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1466031,
@@ -657,6 +657,14 @@
       "onboard_time": 1673778988,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1287566,
+      "num": 1287566,
+      "word": "王楚钦",
+      "onboard_time": 1674190526,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1287239,
@@ -1659,14 +1667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 766496,
-      "num": 766496,
-      "word": "王楚钦",
-      "onboard_time": 1674190526,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 765838,
       "num": 765838,
       "word": "杜海涛妈妈说看完交换人生想换成雷佳音",
@@ -2483,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 612186,
+      "num": 612186,
+      "word": "婚礼上新娘发现新郎手变黑了",
+      "onboard_time": 1674189148,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611038,
       "num": 611038,
       "word": "许红豆家的银行卡密码是天灵灵地灵灵",
@@ -3179,6 +3187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498673,
+      "num": 447826,
+      "word": "张婧仪千禧叛逆辣妹妆",
+      "onboard_time": 1674192085,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 497796,
       "num": 497796,
       "word": "肖战工作花絮照六宫格",
@@ -3417,6 +3433,14 @@
       "onboard_time": 1674126747,
       "rank": 48,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 461433,
+      "num": 461433,
+      "word": "肖战2023年拜年视频",
+      "onboard_time": 1674191307,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 460566,
@@ -3691,14 +3715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 428069,
-      "num": 428069,
-      "word": "婚礼上新娘发现新郎手变黑了",
-      "onboard_time": 1674189148,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 428031,
       "num": 428031,
       "word": "暴食一天能吃下多少东西",
@@ -3731,14 +3747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 427076,
-      "num": 427076,
-      "word": "肖战2023年拜年视频",
-      "onboard_time": 1674191307,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 425206,
       "num": 425206,
       "word": "梅西内马尔相依为命",
@@ -3753,6 +3761,14 @@
       "onboard_time": 1674010527,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 422934,
+      "num": 422934,
+      "word": "妈妈和婆婆多年闺蜜撮合孩子变亲家",
+      "onboard_time": 1674188185,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422769,
@@ -4659,14 +4675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 352280,
-      "num": 352280,
-      "word": "妈妈和婆婆多年闺蜜撮合孩子变亲家",
-      "onboard_time": 1674188185,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352081,
       "num": 352081,
       "word": "刘大锤曝相思令阵容",
@@ -5387,6 +5395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309630,
+      "num": 200296,
+      "word": "黄旭东曝暴雪拒绝网易续约一年",
+      "onboard_time": 1674192206,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 309452,
       "num": 183755,
       "word": "周深2023央视春晚第四次大联排",
@@ -5715,6 +5731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294896,
+      "num": 294896,
+      "word": "少年歌行",
+      "onboard_time": 1674190649,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293351,
       "num": 164283,
       "word": "七英俊打赏",
@@ -5737,14 +5761,6 @@
       "onboard_time": 1673863829,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 292772,
-      "num": 292772,
-      "word": "少年歌行",
-      "onboard_time": 1674190649,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 292747,
@@ -7579,6 +7595,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 216004,
+      "num": 216004,
+      "word": "三体真香",
+      "onboard_time": 1674190586,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215781,
       "num": 215781,
       "word": "解读梅西世界杯决赛唇语",
@@ -7713,6 +7737,14 @@
       "onboard_time": 1673786254,
       "rank": 18,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 209948,
+      "num": 209948,
+      "word": "红包封面",
+      "onboard_time": 1674191245,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 209301,
@@ -7923,6 +7955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201347,
+      "num": 201347,
+      "word": "于文文计划为前任4写歌",
+      "onboard_time": 1674191966,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201135,
       "num": 201135,
       "word": "这小朋友的胎教是甄嬛传吧",
@@ -8033,14 +8073,6 @@
       "onboard_time": 1673964813,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198544,
-      "num": 198544,
-      "word": "红包封面",
-      "onboard_time": 1674191245,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 198238,
@@ -8201,6 +8233,14 @@
       "onboard_time": 1674048870,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194406,
+      "num": 194406,
+      "word": "姜广涛名下仅1家企业存续",
+      "onboard_time": 1674192684,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193577,
@@ -8449,6 +8489,14 @@
       "onboard_time": 1674030327,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187952,
+      "num": 187952,
+      "word": "为什么国风舞台越来越受欢迎",
+      "onboard_time": 1674192446,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 187910,
@@ -9139,6 +9187,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 169311,
+      "num": 169311,
+      "word": "新年壁纸",
+      "onboard_time": 1674192325,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169194,
       "num": 169194,
       "word": "回家的快乐",
@@ -9345,6 +9401,14 @@
       "onboard_time": 1673868090,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 164589,
+      "num": 164589,
+      "word": "张小斐说今年春节也一起度过",
+      "onboard_time": 1674192266,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 164561,
@@ -10219,6 +10283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138709,
+      "num": 138709,
+      "word": "纵有疾风起全员有声告别",
+      "onboard_time": 1674192684,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138496,
       "num": 138496,
       "word": "T1战胜GEN",
@@ -10491,6 +10563,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 130053,
+      "num": 126122,
+      "word": "白敬亭请剧组群演喝奶茶",
+      "onboard_time": 1674192807,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129734,
       "num": 129734,
       "word": "黄晓明给邓萌发offer",
@@ -10544,14 +10624,6 @@
       "word": "雷霆沙赞2确认引进",
       "onboard_time": 1674033026,
       "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 126395,
-      "num": 122374,
-      "word": "三体真香",
-      "onboard_time": 1674190586,
-      "rank": 48,
       "category": "影视"
     },
     {
