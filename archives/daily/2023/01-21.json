@@ -1,6 +1,6 @@
 {
   "startTime": 1674231983947,
-  "endTime": 1674256698926,
+  "endTime": 1674257616364,
   "band_list": [
     {
       "raw_hot": 1134438,
@@ -43,6 +43,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 555264,
+      "num": 555264,
+      "word": "多地已阶段性取消首套房贷款利率下限",
+      "onboard_time": 1674232463,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 528007,
       "num": 528007,
       "word": "朱琳晋级",
@@ -57,14 +65,6 @@
       "onboard_time": 1674218670,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 523342,
-      "num": 523342,
-      "word": "多地已阶段性取消首套房贷款利率下限",
-      "onboard_time": 1674232463,
-      "rank": 39,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 520408,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302824,
+      "num": 302824,
+      "word": "王者荣耀",
+      "onboard_time": 1674256336,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295440,
       "num": 205716,
       "word": "狂飙",
@@ -139,12 +147,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272892,
+      "num": 272892,
+      "word": "阿信说内地演唱会不止一场",
+      "onboard_time": 1674255795,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 268152,
+      "num": 268152,
+      "word": "除夕",
+      "onboard_time": 1674256395,
+      "rank": 15,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 258614,
       "num": 201923,
       "word": "欣响事成",
       "onboard_time": 1674228446,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251446,
+      "num": 189828,
+      "word": "提前还房贷缩期缩额哪个更合适",
+      "onboard_time": 1674256516,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 239774,
@@ -160,6 +192,14 @@
       "word": "年底清扫妈妈将5年未清黄吊顶洗白",
       "onboard_time": 1674220769,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233395,
+      "num": 189054,
+      "word": "36岁女子带3个孩子嫁带2娃丈夫",
+      "onboard_time": 1674238696,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -203,19 +243,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216866,
+      "num": 216866,
+      "word": "专家称化湿败毒颗粒与辉瑞药疗效相当",
+      "onboard_time": 1674251531,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205375,
       "num": 205375,
       "word": "女记者年前被裁去海底捞打工",
       "onboard_time": 1674217889,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204737,
-      "num": 204737,
-      "word": "专家称化湿败毒颗粒与辉瑞药疗效相当",
-      "onboard_time": 1674251531,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -251,22 +291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196353,
-      "num": 196353,
-      "word": "阿信说内地演唱会不止一场",
-      "onboard_time": 1674255795,
-      "rank": 5,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 194976,
-      "num": 194976,
-      "word": "王者荣耀",
-      "onboard_time": 1674256336,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 194833,
       "num": 194833,
       "word": "回家的快乐",
@@ -297,6 +321,14 @@
       "onboard_time": 1674231503,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187951,
+      "num": 187951,
+      "word": "男子点3小杯果汁饭店上3大桶饮料",
+      "onboard_time": 1674243014,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186665,
@@ -331,20 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180953,
-      "num": 129195,
-      "word": "36岁女子带3个孩子嫁带2娃丈夫",
-      "onboard_time": 1674238696,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179336,
       "num": 135704,
       "word": "谭维维第6次上央视春晚",
       "onboard_time": 1674234140,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177918,
+      "num": 177918,
+      "word": "你家乡拥有小汽车的家庭有多少",
+      "onboard_time": 1674254953,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176527,
@@ -356,7 +388,7 @@
     },
     {
       "raw_hot": 170920,
-      "num": 103311,
+      "num": 129601,
       "word": "辽视春晚的小品",
       "onboard_time": 1674216870,
       "rank": 40,
@@ -411,16 +443,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150992,
-      "num": 125835,
-      "word": "男子点3小杯果汁饭店上3大桶饮料",
-      "onboard_time": 1674243014,
-      "rank": 30,
+      "raw_hot": 155507,
+      "num": 155507,
+      "word": "一人一句兔年祝福语",
+      "onboard_time": 1674256516,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148652,
+      "num": 148652,
+      "word": "女子化妆品被熊孩子弄坏上门理论",
+      "onboard_time": 1674240674,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139109,
-      "num": 139109,
+      "raw_hot": 145541,
+      "num": 145541,
       "word": "父母凌晨1点做7个菜迎接远嫁女儿回家",
       "onboard_time": 1674207207,
       "rank": 36,
@@ -467,28 +507,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125579,
-      "num": 125579,
-      "word": "女子化妆品被熊孩子弄坏上门理论",
-      "onboard_time": 1674240674,
-      "rank": 36,
+      "raw_hot": 112946,
+      "num": 112946,
+      "word": "妈妈让买年货俩男孩买回几大袋零食",
+      "onboard_time": 1674236897,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122671,
-      "num": 122671,
-      "word": "除夕",
-      "onboard_time": 1674256395,
-      "rank": 15,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 116275,
-      "num": 116275,
-      "word": "你家乡拥有小汽车的家庭有多少",
-      "onboard_time": 1674254953,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 106807,
+      "num": 106807,
+      "word": "李宗恒小品好笑",
+      "onboard_time": 1674256756,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 100539,
@@ -523,14 +555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 93370,
-      "num": 93370,
-      "word": "妈妈让买年货俩男孩买回几大袋零食",
-      "onboard_time": 1674236897,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92775,
       "num": 92775,
       "word": "从拒绝到享受的狗狗",
@@ -555,12 +579,12 @@
       "category": "动漫,网红"
     },
     {
-      "raw_hot": 87926,
-      "num": 87926,
-      "word": "提前还房贷缩期缩额哪个更合适",
-      "onboard_time": 1674256516,
-      "rank": 25,
-      "category": "财经"
+      "raw_hot": 88903,
+      "num": 88903,
+      "word": "徐志胜担心在春晚嘴瓢每天练绕口令",
+      "onboard_time": 1674242832,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 84819,
@@ -569,14 +593,6 @@
       "onboard_time": 1674214591,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82235,
-      "num": 82235,
-      "word": "一人一句兔年祝福语",
-      "onboard_time": 1674256516,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 75338,
@@ -603,12 +619,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 67992,
-      "num": 79252,
-      "word": "徐志胜担心在春晚嘴瓢每天练绕口令",
-      "onboard_time": 1674242832,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 61667,
+      "num": 61667,
+      "word": "刘亦菲李现窗台吻戏花絮",
+      "onboard_time": 1674243193,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 57556,
@@ -627,19 +643,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38850,
-      "num": 38850,
+      "raw_hot": 40664,
+      "num": 40664,
       "word": "去有风的地方",
       "onboard_time": 1674248171,
       "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 38081,
-      "num": 37419,
-      "word": "刘亦菲李现窗台吻戏花絮",
-      "onboard_time": 1674243193,
-      "rank": 24,
       "category": "影视"
     },
     {
