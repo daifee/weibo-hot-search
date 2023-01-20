@@ -1,6 +1,6 @@
 {
   "startTime": 1674145605899,
-  "endTime": 1674207237202,
+  "endTime": 1674210050456,
   "band_list": [
     {
       "raw_hot": 2063772,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2034937,
-      "num": 440189,
+      "num": 491856,
       "word": "张元英吃披萨",
       "onboard_time": 1674196883,
       "rank": 10,
@@ -65,6 +65,14 @@
       "onboard_time": 1674194725,
       "rank": 6,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 1143001,
+      "num": 1143001,
+      "word": "过年美甲小心致癌突变",
+      "onboard_time": 1674207865,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1074637,
@@ -187,12 +195,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 686833,
+      "num": 686833,
+      "word": "春晚",
+      "onboard_time": 1674207865,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 678703,
+      "num": 678703,
+      "word": "王一博说我怕你们收不到我的问候",
+      "onboard_time": 1674208405,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 667121,
       "num": 667121,
       "word": "韩国演员尹静姬去世",
       "onboard_time": 1674182786,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 665926,
+      "num": 665926,
+      "word": "父母凌晨1点做7个菜迎接远嫁女儿回家",
+      "onboard_time": 1674207207,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 660241,
@@ -241,6 +273,14 @@
       "onboard_time": 1674185546,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 611900,
+      "num": 489116,
+      "word": "远嫁女子回婆家有客不能上桌吃饭",
+      "onboard_time": 1674206427,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 611038,
@@ -331,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513073,
+      "num": 513073,
+      "word": "赵丽颖孙千看深海又哭又笑",
+      "onboard_time": 1674209425,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 505158,
       "num": 505158,
       "word": "郑秀妍被姐姐们的惊喜感动哭",
@@ -361,6 +409,14 @@
       "onboard_time": 1674127047,
       "rank": 5,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 483391,
+      "num": 483391,
+      "word": "70岁普京按照传统进行冰浴洗礼",
+      "onboard_time": 1674207926,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476385,
@@ -475,6 +531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 401611,
+      "num": 401611,
+      "word": "欧豪吴磊春晚将同台表演",
+      "onboard_time": 1674207563,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399769,
       "num": 399769,
       "word": "慕星 加戏",
@@ -537,6 +601,14 @@
       "onboard_time": 1674178105,
       "rank": 27,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 389855,
+      "num": 389855,
+      "word": "王宝强时隔15年再现春晚",
+      "onboard_time": 1674208164,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 386709,
@@ -641,6 +713,14 @@
       "onboard_time": 1674178285,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350062,
+      "num": 292152,
+      "word": "虞书欣钓鱼好像小学生春游",
+      "onboard_time": 1674207266,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 343867,
@@ -760,6 +840,30 @@
       "word": "少年歌行",
       "onboard_time": 1674190649,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 294247,
+      "num": 203936,
+      "word": "王俊凯百花迎春祝福VCR",
+      "onboard_time": 1674209604,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 291114,
+      "num": 291114,
+      "word": "公公每天监控喊话媳妇引10万网友围观",
+      "onboard_time": 1674208947,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289944,
+      "num": 202807,
+      "word": "于和伟晒洗衣机脱水",
+      "onboard_time": 1674208527,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -883,14 +987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 262238,
-      "num": 167587,
-      "word": "远嫁女子回婆家有客不能上桌吃饭",
-      "onboard_time": 1674206427,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261262,
       "num": 269891,
       "word": "兔年吃全兔火锅",
@@ -904,6 +1000,14 @@
       "word": "aespa演唱会海报",
       "onboard_time": 1674198626,
       "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 258846,
+      "num": 224667,
+      "word": "MINJI音银特别MC视频",
+      "onboard_time": 1674207026,
+      "rank": 18,
       "category": "音乐"
     },
     {
@@ -1027,12 +1131,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 224667,
-      "num": 224667,
-      "word": "MINJI音银特别MC视频",
-      "onboard_time": 1674207026,
-      "rank": 18,
-      "category": "音乐"
+      "raw_hot": 224139,
+      "num": 158531,
+      "word": "陈钰琪说今晚一起来见证楼姐重新出发",
+      "onboard_time": 1674209966,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 221318,
@@ -1185,6 +1289,14 @@
       "onboard_time": 1674205646,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195997,
+      "num": 195997,
+      "word": "原来响铃是这么炸的",
+      "onboard_time": 1674208947,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 194879,
@@ -1345,6 +1457,14 @@
       "onboard_time": 1674178043,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169787,
+      "num": 154648,
+      "word": "流浪地球2",
+      "onboard_time": 1674209067,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 169311,
@@ -1555,6 +1675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143458,
+      "num": 143458,
+      "word": "小男孩偷点烟花摊爆竹瞬间燃起大火",
+      "onboard_time": 1674208287,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142212,
       "num": 142212,
       "word": "非遗文化里的年味有多浓",
@@ -1731,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116100,
+      "num": 116100,
+      "word": "老干妈微博微信全部断更",
+      "onboard_time": 1674209905,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114453,
       "num": 114453,
       "word": "王一博叶秘上映倒计时两天海报",
@@ -1771,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112320,
+      "num": 112320,
+      "word": "这届年轻人是懂KTV的",
+      "onboard_time": 1674208527,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110209,
       "num": 110209,
       "word": "近期泰国检出德尔塔克戎毒株",
@@ -1793,14 +1937,6 @@
       "onboard_time": 1674133830,
       "rank": 38,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 105989,
-      "num": 105989,
-      "word": "父母凌晨1点做7个菜迎接远嫁女儿回家",
-      "onboard_time": 1674207207,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98503,
@@ -1931,6 +2067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 35428,
+      "num": 691172,
+      "word": "这就是中国年的仪式感",
+      "onboard_time": 1674176963,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27627,
       "num": 27627,
       "word": "邓超说流浪地球2加油",
@@ -1945,14 +2089,6 @@
       "onboard_time": 1674164951,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18807,
-      "num": 578201,
-      "word": "这就是中国年的仪式感",
-      "onboard_time": 1674176963,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15709,

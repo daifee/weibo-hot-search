@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674207237202,
+  "endTime": 1674210050456,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 2034937,
-      "num": 440189,
+      "num": 491856,
       "word": "张元英吃披萨",
       "onboard_time": 1674196883,
       "rank": 10,
@@ -856,6 +856,14 @@
       "word": "三亚警方通报有人打砸群众车辆",
       "onboard_time": 1674089185,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1143001,
+      "num": 1143001,
+      "word": "过年美甲小心致癌突变",
+      "onboard_time": 1674207865,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2099,6 +2107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 686833,
+      "num": 686833,
+      "word": "春晚",
+      "onboard_time": 1674041190,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 682964,
       "num": 682964,
       "word": "河南一企业年终奖堆成钱山",
@@ -2113,6 +2129,14 @@
       "onboard_time": 1673870789,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678703,
+      "num": 678703,
+      "word": "王一博说我怕你们收不到我的问候",
+      "onboard_time": 1674208405,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 677786,
@@ -2201,6 +2225,14 @@
       "onboard_time": 1674182786,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 665926,
+      "num": 665926,
+      "word": "父母凌晨1点做7个菜迎接远嫁女儿回家",
+      "onboard_time": 1674207207,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662798,
@@ -2552,6 +2584,14 @@
       "word": "提振生育积极性还得从减负着手",
       "onboard_time": 1673914526,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 611900,
+      "num": 489116,
+      "word": "远嫁女子回婆家有客不能上桌吃饭",
+      "onboard_time": 1674206427,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3179,6 +3219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513073,
+      "num": 513073,
+      "word": "赵丽颖孙千看深海又哭又笑",
+      "onboard_time": 1674209425,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 512704,
       "num": 512704,
       "word": "去有风的地方",
@@ -3465,6 +3513,14 @@
       "onboard_time": 1674023186,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 483391,
+      "num": 483391,
+      "word": "70岁普京按照传统进行冰浴洗礼",
+      "onboard_time": 1674207926,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 482845,
@@ -3785,14 +3841,6 @@
       "onboard_time": 1673929467,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 441432,
-      "num": 415202,
-      "word": "春晚",
-      "onboard_time": 1674041190,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 439503,
@@ -4155,6 +4203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401611,
+      "num": 401611,
+      "word": "欧豪吴磊春晚将同台表演",
+      "onboard_time": 1674207563,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400948,
       "num": 185887,
       "word": "郑秀妍晒Jennie舞台",
@@ -4321,6 +4377,14 @@
       "onboard_time": 1674139052,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389855,
+      "num": 389855,
+      "word": "王宝强时隔15年再现春晚",
+      "onboard_time": 1674208164,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 389114,
@@ -4913,6 +4977,14 @@
       "onboard_time": 1674111807,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 350062,
+      "num": 292152,
+      "word": "虞书欣钓鱼好像小学生春游",
+      "onboard_time": 1674207266,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 349836,
@@ -5979,6 +6051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 294247,
+      "num": 203936,
+      "word": "王俊凯百花迎春祝福VCR",
+      "onboard_time": 1674209604,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293351,
       "num": 164283,
       "word": "七英俊打赏",
@@ -6051,6 +6131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 291114,
+      "num": 291114,
+      "word": "公公每天监控喊话媳妇引10万网友围观",
+      "onboard_time": 1674208947,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290794,
       "num": 290794,
       "word": "周深春晚节目意想不到的温暖",
@@ -6097,6 +6185,14 @@
       "onboard_time": 1673957667,
       "rank": 36,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 289944,
+      "num": 202807,
+      "word": "于和伟晒洗衣机脱水",
+      "onboard_time": 1674208527,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 289085,
@@ -6835,14 +6931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 262238,
-      "num": 167587,
-      "word": "远嫁女子回婆家有客不能上桌吃饭",
-      "onboard_time": 1674206427,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262210,
       "num": 262210,
       "word": "邓超鹿晗兔年祝福VCR",
@@ -6969,6 +7057,14 @@
       "onboard_time": 1673951068,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258846,
+      "num": 224667,
+      "word": "MINJI音银特别MC视频",
+      "onboard_time": 1674207026,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 258781,
@@ -7763,12 +7859,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 224667,
-      "num": 224667,
-      "word": "MINJI音银特别MC视频",
-      "onboard_time": 1674207026,
-      "rank": 18,
-      "category": "音乐"
+      "raw_hot": 224139,
+      "num": 158531,
+      "word": "陈钰琪说今晚一起来见证楼姐重新出发",
+      "onboard_time": 1674209966,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 224106,
@@ -8561,6 +8657,14 @@
       "onboard_time": 1674114746,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195997,
+      "num": 195997,
+      "word": "原来响铃是这么炸的",
+      "onboard_time": 1674208947,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 195639,
@@ -9611,6 +9715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169787,
+      "num": 154648,
+      "word": "流浪地球2",
+      "onboard_time": 1674209067,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169691,
       "num": 169691,
       "word": "三体世界里的物理学家",
@@ -10579,6 +10691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143458,
+      "num": 143458,
+      "word": "小男孩偷点烟花摊爆竹瞬间燃起大火",
+      "onboard_time": 1674208287,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143157,
       "num": 143157,
       "word": "中金公司回应十大预测错九个",
@@ -11435,6 +11555,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 116100,
+      "num": 116100,
+      "word": "老干妈微博微信全部断更",
+      "onboard_time": 1674209905,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 115780,
       "num": 115780,
       "word": "如何评价三体第7集",
@@ -11555,6 +11683,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 112320,
+      "num": 112320,
+      "word": "这届年轻人是懂KTV的",
+      "onboard_time": 1674208527,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112029,
       "num": 223075,
       "word": "23位手艺人花式绝活召唤兔年",
@@ -11657,14 +11793,6 @@
       "onboard_time": 1673815691,
       "rank": 19,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 105989,
-      "num": 105989,
-      "word": "父母凌晨1点做7个菜迎接远嫁女儿回家",
-      "onboard_time": 1674207207,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105406,
@@ -12403,6 +12531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 35428,
+      "num": 691172,
+      "word": "这就是中国年的仪式感",
+      "onboard_time": 1674176963,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31269,
       "num": 31269,
       "word": "王子文叶文洁好贴脸",
@@ -12473,14 +12609,6 @@
       "onboard_time": 1673816291,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 18807,
-      "num": 578201,
-      "word": "这就是中国年的仪式感",
-      "onboard_time": 1674176963,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17847,
