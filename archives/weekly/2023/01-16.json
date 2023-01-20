@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674192818471,
+  "endTime": 1674195836542,
   "band_list": [
     {
       "raw_hot": 6535493,
@@ -1691,6 +1691,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 754652,
+      "num": 754652,
+      "word": "婚礼上新娘发现新郎手变黑了",
+      "onboard_time": 1674189148,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 754497,
       "num": 754497,
       "word": "时代少年团红毯幕后",
@@ -2001,6 +2009,14 @@
       "onboard_time": 1673870608,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 693350,
+      "num": 693350,
+      "word": "黄旭东曝暴雪拒绝网易续约一年",
+      "onboard_time": 1674192206,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 692420,
@@ -2483,14 +2499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 612186,
-      "num": 612186,
-      "word": "婚礼上新娘发现新郎手变黑了",
-      "onboard_time": 1674189148,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 611038,
       "num": 611038,
       "word": "许红豆家的银行卡密码是天灵灵地灵灵",
@@ -2963,6 +2971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 535491,
+      "num": 535491,
+      "word": "杨紫朋友圈是搞怪女",
+      "onboard_time": 1674194725,
+      "rank": 6,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 534084,
       "num": 534084,
       "word": "第一次见蝴蝶生气",
@@ -3145,6 +3161,14 @@
       "onboard_time": 1674047070,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505158,
+      "num": 505158,
+      "word": "郑秀妍被姐姐们的惊喜感动哭",
+      "onboard_time": 1674194606,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 504209,
@@ -3379,6 +3403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476642,
+      "num": 424414,
+      "word": "外婆养2只天竺鼠1年后变一族群",
+      "onboard_time": 1674194426,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 475888,
       "num": 475888,
       "word": "外地人对山东人拜年误解有多深",
@@ -3577,6 +3609,14 @@
       "onboard_time": 1674014127,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 449051,
+      "num": 449051,
+      "word": "王曼昱教练",
+      "onboard_time": 1674193467,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 448593,
@@ -4083,6 +4123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 395986,
+      "num": 395986,
+      "word": "邓超贺峻霖后台聊天视频",
+      "onboard_time": 1674194606,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395001,
       "num": 395001,
       "word": "三体 节奏",
@@ -4233,6 +4281,14 @@
       "onboard_time": 1674054510,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382139,
+      "num": 382139,
+      "word": "北京台春晚官宣全阵容",
+      "onboard_time": 1674193226,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 381901,
@@ -4899,6 +4955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339730,
+      "num": 339730,
+      "word": "距五条悟解封还有997年",
+      "onboard_time": 1674193586,
+      "rank": 17,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 339491,
       "num": 339491,
       "word": "许红豆说明早见久违的小锅米线",
@@ -5395,14 +5459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 309630,
-      "num": 200296,
-      "word": "黄旭东曝暴雪拒绝网易续约一年",
-      "onboard_time": 1674192206,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 309452,
       "num": 183755,
       "word": "周深2023央视春晚第四次大联排",
@@ -5712,6 +5768,14 @@
       "word": "宋亚轩庆祝胜利的方式",
       "onboard_time": 1673872230,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 296216,
+      "num": 296216,
+      "word": "R1SE隔空合体拜年视频",
+      "onboard_time": 1674194845,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -6795,6 +6859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 250749,
+      "num": 273695,
+      "word": "姜广涛名下仅1家企业存续",
+      "onboard_time": 1674192684,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250549,
       "num": 250549,
       "word": "李现拍完有风想去大理开咖啡馆",
@@ -6984,6 +7056,14 @@
       "word": "许红豆晒妈妈做的手擀面",
       "onboard_time": 1674030506,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 243085,
+      "num": 243085,
+      "word": "狂飙全员恶人",
+      "onboard_time": 1674194305,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -7411,6 +7491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225358,
+      "num": 225358,
+      "word": "张婧仪短发",
+      "onboard_time": 1674195682,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 224921,
       "num": 224921,
       "word": "巨人完结篇预告",
@@ -7739,6 +7827,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 210146,
+      "num": 210146,
+      "word": "白敬亭请剧组群演喝奶茶",
+      "onboard_time": 1674192807,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209948,
       "num": 209948,
       "word": "红包封面",
@@ -7937,6 +8033,14 @@
       "onboard_time": 1674049410,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201644,
+      "num": 201644,
+      "word": "张小斐说今年春节也一起度过",
+      "onboard_time": 1674192266,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 201597,
@@ -8235,14 +8339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194406,
-      "num": 194406,
-      "word": "姜广涛名下仅1家企业存续",
-      "onboard_time": 1674192684,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193577,
       "num": 436212,
       "word": "田曦薇2023年第一支vlog",
@@ -8265,6 +8361,14 @@
       "onboard_time": 1674026608,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192730,
+      "num": 192730,
+      "word": "滑雪场回应游客乘坐缆车时坠落",
+      "onboard_time": 1674193103,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192728,
@@ -9331,6 +9435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165629,
+      "num": 165629,
+      "word": "刘恒",
+      "onboard_time": 1674195565,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165568,
       "num": 154720,
       "word": "夫胜宽唱AlcoholFree给粉丝伴奏",
@@ -9401,14 +9513,6 @@
       "onboard_time": 1673868090,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 164589,
-      "num": 164589,
-      "word": "张小斐说今年春节也一起度过",
-      "onboard_time": 1674192266,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 164561,
@@ -9641,6 +9745,14 @@
       "onboard_time": 1673887346,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156355,
+      "num": 156355,
+      "word": "上海春考",
+      "onboard_time": 1674195447,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 156316,
@@ -10515,6 +10627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131871,
+      "num": 131871,
+      "word": "这盛世如谢之遥所愿",
+      "onboard_time": 1674194545,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131592,
       "num": 131592,
       "word": "今年春节档你的观影顺序",
@@ -10561,14 +10681,6 @@
       "onboard_time": 1674182604,
       "rank": 47,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 130053,
-      "num": 126122,
-      "word": "白敬亭请剧组群演喝奶茶",
-      "onboard_time": 1674192807,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 129734,
