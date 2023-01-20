@@ -1,0 +1,410 @@
+{
+  "runTime": 1674221114479,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4955127,
+        "num": 4955127,
+        "word": "春晚没有贾玲张小斐",
+        "onboard_time": 1674213510,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3281363,
+        "num": 3281363,
+        "word": "春晚节目单",
+        "onboard_time": 1674211107,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68964,
+        "num": 2376081,
+        "word": "春节前疫情热点十问十答",
+        "onboard_time": 1674220408,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1551639,
+        "num": 1551639,
+        "word": "今年春晚没有李谷一",
+        "onboard_time": 1674212489,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1049313,
+        "num": 1049313,
+        "word": "是我知道的那个吴彤吗",
+        "onboard_time": 1674215189,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1044665,
+        "num": 1044665,
+        "word": "江歌妈妈收到首笔法院执行款50500元",
+        "onboard_time": 1674217170,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997970,
+        "num": 997970,
+        "word": "赵晓卉出息了",
+        "onboard_time": 1674215729,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 734001,
+        "num": 734001,
+        "word": "奶奶怕孙女干活不便帮剪400元美甲",
+        "onboard_time": 1674218851,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745014,
+        "num": 702424,
+        "word": "老干妈微博微信全部断更",
+        "onboard_time": 1674209905,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 527178,
+        "num": 527178,
+        "word": "生肖卡",
+        "onboard_time": 1674213632,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 821404,
+        "num": 507137,
+        "word": "王宝强春晚三个节目",
+        "onboard_time": 1674218670,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 728193,
+        "num": 462705,
+        "word": "赵丽颖唐诗逸 双厨狂喜",
+        "onboard_time": 1674218610,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543657,
+        "num": 440497,
+        "word": "许嵩春晚solo舞台",
+        "onboard_time": 1674213150,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417809,
+        "num": 417809,
+        "word": "大学生开始对年夜饭下手了",
+        "onboard_time": 1674216090,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 646400,
+        "num": 410965,
+        "word": "过年美甲小心致癌突变",
+        "onboard_time": 1674207865,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511186,
+        "num": 383476,
+        "word": "辽视春晚的小品",
+        "onboard_time": 1674216870,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467004,
+        "num": 374155,
+        "word": "狂飙",
+        "onboard_time": 1674217830,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331344,
+        "num": 331344,
+        "word": "阿尔维斯涉嫌性侵被捕",
+        "onboard_time": 1674216629,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280460,
+        "num": 280460,
+        "word": "奇葩小舅子醉驾姐夫车几乎撞报废",
+        "onboard_time": 1674214591,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273331,
+        "num": 273331,
+        "word": "男子在山间窄溪发现上千条鱼",
+        "onboard_time": 1674215608,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391453,
+        "num": 271488,
+        "word": "女子花9小时染发染翻车店家退400",
+        "onboard_time": 1674203365,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456278,
+        "num": 269367,
+        "word": "辽视春晚",
+        "onboard_time": 1674214410,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438795,
+        "num": 267832,
+        "word": "马旭东闫佩伦上春晚了",
+        "onboard_time": 1674213992,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407254,
+        "num": 266092,
+        "word": "肖铎步音楼私奔成功",
+        "onboard_time": 1674216329,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318940,
+        "num": 262348,
+        "word": "姜广涛",
+        "onboard_time": 1674179063,
+        "rank": 24,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 390032,
+        "num": 261586,
+        "word": "流浪地球2首映全场欢呼比1更好",
+        "onboard_time": 1674213992,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381761,
+        "num": 258844,
+        "word": "宋小宝周柯宇身高差",
+        "onboard_time": 1674220948,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280134,
+        "num": 256779,
+        "word": "公公每天监控喊话媳妇引10万网友围观",
+        "onboard_time": 1674208947,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255317,
+        "num": 255317,
+        "word": "你年终奖拿得出手吗",
+        "onboard_time": 1674212005,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161412,
+        "num": 255130,
+        "word": "三航母官兵拜年视频太硬核",
+        "onboard_time": 1674218729,
+        "rank": 29,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 378211,
+        "num": 253959,
+        "word": "倪萍希望张新成今年能接到满意的好戏",
+        "onboard_time": 1674220408,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341624,
+        "num": 252759,
+        "word": "赵丽颖春晚有两个节目",
+        "onboard_time": 1674214172,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316878,
+        "num": 252254,
+        "word": "张杰吉他伴唱难忘今宵",
+        "onboard_time": 1674220650,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251863,
+        "num": 251863,
+        "word": "女记者年前被裁去海底捞打工",
+        "onboard_time": 1674217889,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290888,
+        "num": 228726,
+        "word": "白宇春晚有三个节目",
+        "onboard_time": 1674219271,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285562,
+        "num": 220324,
+        "word": "张元英吃披萨",
+        "onboard_time": 1674196883,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205182,
+        "num": 205182,
+        "word": "兔年壁纸",
+        "onboard_time": 1674216691,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196764,
+        "num": 196764,
+        "word": "父母凌晨1点做7个菜迎接远嫁女儿回家",
+        "onboard_time": 1674207207,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165196,
+        "num": 165196,
+        "word": "小猫讨厌没有边界感的人类",
+        "onboard_time": 1674204205,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158166,
+        "num": 158166,
+        "word": "西藏林芝雪崩遇难人数增至20人",
+        "onboard_time": 1674204925,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 284687,
+        "num": 156098,
+        "word": "王一博说我怕你们收不到我的问候",
+        "onboard_time": 1674208405,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243049,
+        "num": 155819,
+        "word": "流浪地球2用CG复原了吴孟达角色",
+        "onboard_time": 1674201085,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242933,
+        "num": 155748,
+        "word": "TF家族兔年瞬间",
+        "onboard_time": 1674219449,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152085,
+        "num": 152085,
+        "word": "远嫁女子回婆家有客不能上桌吃饭",
+        "onboard_time": 1674206427,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214991,
+        "num": 150133,
+        "word": "为什么没有蒋龙张弛",
+        "onboard_time": 1674220888,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211860,
+        "num": 148519,
+        "word": "浮图缘今日大结局",
+        "onboard_time": 1674219210,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206810,
+        "num": 147737,
+        "word": "春晚",
+        "onboard_time": 1674207865,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145526,
+        "num": 145526,
+        "word": "小伙网恋见家长竟遇假岳父",
+        "onboard_time": 1674220948,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141066,
+        "num": 141066,
+        "word": "川渝人过年有多热闹",
+        "onboard_time": 1674218851,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139407,
+        "num": 139407,
+        "word": "70岁普京按照传统进行冰浴洗礼",
+        "onboard_time": 1674207926,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#温暖牵挂#"
+    }
+  }
+}
