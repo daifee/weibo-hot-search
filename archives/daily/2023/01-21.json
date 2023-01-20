@@ -1,6 +1,6 @@
 {
   "startTime": 1674231983947,
-  "endTime": 1674246798702,
+  "endTime": 1674249371166,
   "band_list": [
     {
       "raw_hot": 1134438,
@@ -563,8 +563,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 36989,
-      "num": 19912,
+      "raw_hot": 37131,
+      "num": 21267,
       "word": "男子点3小杯果汁饭店上3大桶饮料",
       "onboard_time": 1674243014,
       "rank": 30,
@@ -585,6 +585,14 @@
       "onboard_time": 1674242832,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15714,
+      "num": 15714,
+      "word": "去有风的地方",
+      "onboard_time": 1674248171,
+      "rank": 45,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
