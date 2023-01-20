@@ -1,6 +1,6 @@
 {
   "startTime": 1674231983947,
-  "endTime": 1674238992260,
+  "endTime": 1674239864511,
   "band_list": [
     {
       "raw_hot": 1134438,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80125,
+      "num": 80125,
+      "word": "妈妈让买年货俩男孩买回几大袋零食",
+      "onboard_time": 1674236897,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75338,
       "num": 55934,
       "word": "刘耀文说想写首歌叫happynewyear",
@@ -515,14 +523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 63327,
-      "num": 78337,
-      "word": "妈妈让买年货俩男孩买回几大袋零食",
-      "onboard_time": 1674236897,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57556,
       "num": 57556,
       "word": "马尔康加盟沙特球队",
@@ -531,19 +531,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52401,
+      "num": 52401,
+      "word": "36岁女子带3个孩子嫁带2娃丈夫",
+      "onboard_time": 1674238696,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45210,
       "num": 567569,
       "word": "春节前疫情热点十问十答",
       "onboard_time": 1674220408,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24146,
-      "num": 24146,
-      "word": "36岁女子带3个孩子嫁带2娃丈夫",
-      "onboard_time": 1674238696,
-      "rank": 48,
       "category": "社会新闻"
     }
   ],
