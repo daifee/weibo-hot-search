@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/20 16:38:17
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/20 17:18:39
 </p>
 </blockquote>
 <p>
@@ -1493,6 +1493,12 @@ k4（热度：1673744）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E7%B2%BE%E5%87%86%E5%90%90%E6%A7%BD%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
 李雪琴精准吐槽王鹤棣（热度：1595228）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B19%E5%B0%8F%E6%97%B6%E6%9F%93%E5%8F%91%E6%9F%93%E7%BF%BB%E8%BD%A6%E5%BA%97%E5%AE%B6%E9%80%80400%23" target="weibo">
+女子花9小时染发染翻车店家退400（热度：1588994）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ WBG战胜TES（热度：766734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%B0%8F%E8%92%99%E5%9C%A8%E7%94%84%E5%AC%9B%E4%BC%A0%E4%B9%9F%E6%98%AF%E5%A4%A7%E5%A5%B3%E4%B8%BB%23" target="weibo">
 王小蒙在甄嬛传也是大女主（热度：751968）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E7%BA%B3%E5%B0%94%E5%A4%9A%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F%23" target="weibo">
-罗纳尔多求婚成功（热度：751580）
 </a>
 </li>
 

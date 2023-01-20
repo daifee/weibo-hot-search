@@ -1,0 +1,410 @@
+{
+  "runTime": 1674206319141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1588994,
+        "num": 1588994,
+        "word": "女子花9小时染发染翻车店家退400",
+        "onboard_time": 1674203365,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827355,
+        "num": 827355,
+        "word": "流浪地球2用CG复原了吴孟达角色",
+        "onboard_time": 1674201085,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17881,
+        "num": 606344,
+        "word": "未感染人群怎么做好个人防护",
+        "onboard_time": 1674137191,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533693,
+        "num": 533693,
+        "word": "迪丽热巴任嘉伦与君初相识日本将播出",
+        "onboard_time": 1674204326,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 511175,
+        "num": 511175,
+        "word": "杨紫朋友圈是搞怪女",
+        "onboard_time": 1674194725,
+        "rank": 4,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 506528,
+        "num": 506528,
+        "word": "吴磊脱衣服",
+        "onboard_time": 1674203484,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 411601,
+        "num": 411601,
+        "word": "婚礼上新娘发现新郎手变黑了",
+        "onboard_time": 1674189148,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379195,
+        "num": 379195,
+        "word": "暴雪禁止中国玩家参加炉石赛事",
+        "onboard_time": 1674181764,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 363795,
+        "num": 363795,
+        "word": "零下50度有多冷",
+        "onboard_time": 1674200783,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345710,
+        "num": 345710,
+        "word": "沈梦辰说过日子性格比长相重要",
+        "onboard_time": 1674205464,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1300410,
+        "num": 345144,
+        "word": "张元英吃披萨",
+        "onboard_time": 1674196883,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380285,
+        "num": 344427,
+        "word": "西藏林芝雪崩遇难人数增至20人",
+        "onboard_time": 1674204925,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 386200,
+        "num": 344238,
+        "word": "张婧仪短发",
+        "onboard_time": 1674195682,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343396,
+        "num": 343396,
+        "word": "男子13次偷走医护人员外卖",
+        "onboard_time": 1674196824,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340631,
+        "num": 340631,
+        "word": "网易暴雪客服团队与玩家道别",
+        "onboard_time": 1674202764,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290187,
+        "num": 290187,
+        "word": "怀念达叔",
+        "onboard_time": 1674205346,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288401,
+        "num": 288401,
+        "word": "西湖边现快递山惊呆快递小哥",
+        "onboard_time": 1674200606,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281126,
+        "num": 281126,
+        "word": "林高远",
+        "onboard_time": 1674203844,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253288,
+        "num": 253288,
+        "word": "蓝猫因太胖卡洞里脸都变形了",
+        "onboard_time": 1674196045,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244582,
+        "num": 244582,
+        "word": "王冰冰说见到孙茜好想叫一声姑姑",
+        "onboard_time": 1674201923,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 625183,
+        "num": 242212,
+        "word": "姜广涛",
+        "onboard_time": 1674179063,
+        "rank": 20,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 232284,
+        "num": 232284,
+        "word": "黄旭东曝暴雪拒绝网易续约一年",
+        "onboard_time": 1674192206,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221096,
+        "num": 221096,
+        "word": "中共中央国务院举行春节团拜会",
+        "onboard_time": 1674202344,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216474,
+        "num": 216474,
+        "word": "昭君灯",
+        "onboard_time": 1674199644,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200553,
+        "num": 200553,
+        "word": "王栎鑫说妈妈亮哥带我上春晚啦",
+        "onboard_time": 1674196406,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199010,
+        "num": 199010,
+        "word": "外婆养2只天竺鼠1年后变一族群",
+        "onboard_time": 1674194426,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196984,
+        "num": 196984,
+        "word": "交换人生片尾曲是孙燕姿的绿光",
+        "onboard_time": 1674205646,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177715,
+        "num": 177715,
+        "word": "王楚钦",
+        "onboard_time": 1674190526,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177395,
+        "num": 177395,
+        "word": "小猫讨厌没有边界感的人类",
+        "onboard_time": 1674204205,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170033,
+        "num": 170033,
+        "word": "邓超贺峻霖微博互关",
+        "onboard_time": 1674202283,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167045,
+        "num": 167045,
+        "word": "狂飙全员恶人",
+        "onboard_time": 1674194305,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165042,
+        "num": 165042,
+        "word": "距五条悟解封还有997年",
+        "onboard_time": 1674193586,
+        "rank": 31,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 158778,
+        "num": 158778,
+        "word": "刘恒",
+        "onboard_time": 1674195565,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155127,
+        "num": 155127,
+        "word": "毛不易开始运动的原因是年龄",
+        "onboard_time": 1674205464,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155115,
+        "num": 155115,
+        "word": "漠河极寒",
+        "onboard_time": 1674197846,
+        "rank": 34,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 152459,
+        "num": 152459,
+        "word": "央视2023东西南北贺新春官宣",
+        "onboard_time": 1674200725,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151102,
+        "num": 151102,
+        "word": "陈钰琪说选乔峰传选对了",
+        "onboard_time": 1674201324,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148121,
+        "num": 148121,
+        "word": "虎年最后一个工作日",
+        "onboard_time": 1674205045,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146929,
+        "num": 146929,
+        "word": "杨迪单曲跨明天中午上线",
+        "onboard_time": 1674205944,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143338,
+        "num": 143338,
+        "word": "王一博无名宣传VCR",
+        "onboard_time": 1674203545,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139514,
+        "num": 139514,
+        "word": "何洁给苏醒推制作人要中介费",
+        "onboard_time": 1674200184,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139424,
+        "num": 139424,
+        "word": "妈妈和婆婆多年闺蜜撮合孩子变亲家",
+        "onboard_time": 1674188185,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132349,
+        "num": 132349,
+        "word": "小猫也要有过年的仪式感",
+        "onboard_time": 1674203605,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132198,
+        "num": 132198,
+        "word": "TWICE新歌",
+        "onboard_time": 1674190046,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126837,
+        "num": 126837,
+        "word": "少年歌行",
+        "onboard_time": 1674190649,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126400,
+        "num": 126400,
+        "word": "姜广涛名下仅1家企业存续",
+        "onboard_time": 1674192684,
+        "rank": 45,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 125069,
+        "num": 125069,
+        "word": "aespa演唱会海报",
+        "onboard_time": 1674198626,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120183,
+        "num": 120183,
+        "word": "当社牛与社恐同时上班",
+        "onboard_time": 1674196165,
+        "rank": 47,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 119175,
+        "num": 119175,
+        "word": "北京台春晚官宣全阵容",
+        "onboard_time": 1674193226,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115501,
+        "num": 115501,
+        "word": "杨洋包场交换人生满江红中国乒乓",
+        "onboard_time": 1674200006,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#温暖牵挂#"
+    }
+  }
+}
