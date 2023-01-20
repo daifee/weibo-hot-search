@@ -1,0 +1,410 @@
+{
+  "runTime": 1674182902743,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1242886,
+        "num": 1242886,
+        "word": "专家预测2月初可能出现疫情拐点",
+        "onboard_time": 1674175464,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1074637,
+        "num": 1074637,
+        "word": "王铮亮带五个没上春晚兄弟胸牌彩排",
+        "onboard_time": 1674180623,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103064,
+        "num": 947432,
+        "word": "未感染人群怎么做好个人防护",
+        "onboard_time": 1674137191,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1800715,
+        "num": 927184,
+        "word": "姜广涛",
+        "onboard_time": 1674179063,
+        "rank": 3,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 897739,
+        "num": 897739,
+        "word": "暴雪禁止中国玩家参加炉石赛事",
+        "onboard_time": 1674181764,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 820680,
+        "num": 820680,
+        "word": "河南春晚 毛戈平",
+        "onboard_time": 1674181943,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595363,
+        "num": 595363,
+        "word": "许红豆家的银行卡密码是天灵灵地灵灵",
+        "onboard_time": 1674179304,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 555062,
+        "num": 555062,
+        "word": "真的没人管管张远陆虎吗",
+        "onboard_time": 1674172160,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432490,
+        "num": 432490,
+        "word": "外卖小哥为妻子连点10天外卖",
+        "onboard_time": 1674180264,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388949,
+        "num": 388949,
+        "word": "主人离家10天给猫备10碗粮17碗水",
+        "onboard_time": 1674170656,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467017,
+        "num": 387370,
+        "word": "理科丈夫和文科妻子如何互相调侃",
+        "onboard_time": 1674180925,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385431,
+        "num": 385431,
+        "word": "C罗 梅开二度",
+        "onboard_time": 1674169637,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373896,
+        "num": 373896,
+        "word": "年终奖能壕成什么样",
+        "onboard_time": 1674178524,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317976,
+        "num": 317976,
+        "word": "福兔",
+        "onboard_time": 1674174684,
+        "rank": 13,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 311726,
+        "num": 311726,
+        "word": "27岁女子为父母偷偷买房父亲参观时哽咽",
+        "onboard_time": 1674141630,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300519,
+        "num": 300519,
+        "word": "春晚节目单",
+        "onboard_time": 1674141269,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283911,
+        "num": 283911,
+        "word": "黄渤梅婷cp名叫黄梅戏",
+        "onboard_time": 1674181102,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261029,
+        "num": 261029,
+        "word": "易烊千玺录制新歌MV路透",
+        "onboard_time": 1674182604,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257144,
+        "num": 257144,
+        "word": "C罗沙特首秀获评全场最佳",
+        "onboard_time": 1674171499,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236853,
+        "num": 236853,
+        "word": "蔡徐坤说新的一年坚定脚步与目光",
+        "onboard_time": 1674182365,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234786,
+        "num": 234786,
+        "word": "下一个虎年是2034年",
+        "onboard_time": 1674179724,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228762,
+        "num": 228762,
+        "word": "生肖卡",
+        "onboard_time": 1674176063,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 228307,
+        "num": 228307,
+        "word": "为何低俗婚闹屡禁不了",
+        "onboard_time": 1674178105,
+        "rank": 22,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 216993,
+        "num": 216993,
+        "word": "狂飙",
+        "onboard_time": 1674170418,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216392,
+        "num": 216392,
+        "word": "王嘉尔 唇环",
+        "onboard_time": 1674138633,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 211391,
+        "num": 211391,
+        "word": "周星驰和五月天阿信要合作了吗",
+        "onboard_time": 1674180623,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204009,
+        "num": 204009,
+        "word": "兔子的最爱不是胡萝卜",
+        "onboard_time": 1674175585,
+        "rank": 26,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 179362,
+        "num": 179362,
+        "word": "女子晒公司年终发一箱苹果15个全坏",
+        "onboard_time": 1674161653,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174018,
+        "num": 174018,
+        "word": "许红豆被许红米锁喉",
+        "onboard_time": 1674178285,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171810,
+        "num": 171810,
+        "word": "梅西C罗互晒合影",
+        "onboard_time": 1674181886,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280382,
+        "num": 171716,
+        "word": "今天是安陵容吃息肌丸的日子",
+        "onboard_time": 1674181886,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169278,
+        "num": 169278,
+        "word": "库里抢断超远三分",
+        "onboard_time": 1674181044,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168815,
+        "num": 168815,
+        "word": "张颂文演技",
+        "onboard_time": 1674170718,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165005,
+        "num": 167225,
+        "word": "郑恺说认识苗苗以后才养成的剥虾习惯",
+        "onboard_time": 1674146843,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166019,
+        "num": 166019,
+        "word": "内马尔 点球",
+        "onboard_time": 1674172581,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164713,
+        "num": 164713,
+        "word": "韩国演员尹静姬去世",
+        "onboard_time": 1674182786,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161483,
+        "num": 161483,
+        "word": "狂飙 真实",
+        "onboard_time": 1674182185,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158178,
+        "num": 158178,
+        "word": "王者荣耀摇心愿",
+        "onboard_time": 1674182125,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156825,
+        "num": 156825,
+        "word": "清华硕士称大厂2万月薪践踏学历",
+        "onboard_time": 1674127047,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 155893,
+        "num": 155893,
+        "word": "深圳市监局称排查未发现有蓝环章鱼",
+        "onboard_time": 1674178825,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151656,
+        "num": 151656,
+        "word": "蒲熠星 淘汰",
+        "onboard_time": 1674135089,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148877,
+        "num": 148877,
+        "word": "王一博脸上青春痘都比你好看",
+        "onboard_time": 1674134668,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138266,
+        "num": 138266,
+        "word": "毛不易深海微笑曲小丑",
+        "onboard_time": 1674181524,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132932,
+        "num": 132932,
+        "word": "这哪叫自建房这叫自建府",
+        "onboard_time": 1674135448,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123652,
+        "num": 123652,
+        "word": "三部预售票房过亿的电影",
+        "onboard_time": 1674142707,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123526,
+        "num": 123526,
+        "word": "河北到2025年高价彩礼等婚嫁陋俗得到有效遏制",
+        "onboard_time": 1674173241,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121176,
+        "num": 121176,
+        "word": "许红米叫许红豆起床好真实",
+        "onboard_time": 1674144389,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119056,
+        "num": 119056,
+        "word": "母亲抚摸儿子军功章满是心疼与骄傲",
+        "onboard_time": 1674182604,
+        "rank": 47,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 112499,
+        "num": 112499,
+        "word": "原神",
+        "onboard_time": 1674169877,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109327,
+        "num": 109327,
+        "word": "勇士vs凯尔特人",
+        "onboard_time": 1674178043,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记最大的心愿就是大家欢喜过好年#"
+    }
+  }
+}
