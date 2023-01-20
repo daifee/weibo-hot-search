@@ -1,6 +1,6 @@
 {
   "startTime": 1674145605899,
-  "endTime": 1674189504806,
+  "endTime": 1674191848204,
   "band_list": [
     {
       "raw_hot": 2063772,
@@ -24,6 +24,14 @@
       "word": "专家预测2月初可能出现疫情拐点",
       "onboard_time": 1674175464,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1482723,
+      "num": 427660,
+      "word": "女子自曝被家暴9次报警4次",
+      "onboard_time": 1674189688,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -73,6 +81,22 @@
       "onboard_time": 1674184586,
       "rank": 39,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 875227,
+      "num": 875227,
+      "word": "TWICE新歌",
+      "onboard_time": 1674190046,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 766496,
+      "num": 766496,
+      "word": "王楚钦",
+      "onboard_time": 1674190526,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 723520,
@@ -235,6 +259,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 446450,
+      "num": 446450,
+      "word": "谷爱凌第20金",
+      "onboard_time": 1674187285,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 428069,
+      "num": 428069,
+      "word": "婚礼上新娘发现新郎手变黑了",
+      "onboard_time": 1674189148,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427076,
+      "num": 427076,
+      "word": "肖战2023年拜年视频",
+      "onboard_time": 1674191307,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412060,
       "num": 412060,
       "word": "无畏收到杨幂谐音梗祝福",
@@ -379,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 352280,
+      "num": 352280,
+      "word": "妈妈和婆婆多年闺蜜撮合孩子变亲家",
+      "onboard_time": 1674188185,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343867,
       "num": 343867,
       "word": "梅西C罗互晒合影",
@@ -401,14 +457,6 @@
       "onboard_time": 1674182125,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 317395,
-      "num": 317395,
-      "word": "谷爱凌第20金",
-      "onboard_time": 1674187285,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 312868,
@@ -443,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292772,
+      "num": 292772,
+      "word": "少年歌行",
+      "onboard_time": 1674190649,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 283911,
       "num": 283911,
       "word": "黄渤梅婷cp名叫黄梅戏",
@@ -457,6 +513,14 @@
       "onboard_time": 1674173960,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272856,
+      "num": 272856,
+      "word": "咽喉是健康的第一道防线",
+      "onboard_time": 1674187164,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271490,
@@ -497,14 +561,6 @@
       "onboard_time": 1674186864,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 261060,
-      "num": 261060,
-      "word": "咽喉是健康的第一道防线",
-      "onboard_time": 1674187164,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249825,
@@ -691,6 +747,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198544,
+      "num": 198544,
+      "word": "红包封面",
+      "onboard_time": 1674191245,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 186777,
+      "num": 181774,
+      "word": "刘美含去有风的地方演主播",
+      "onboard_time": 1674191364,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185376,
       "num": 185376,
       "word": "库里抢断超远三分",
@@ -705,14 +777,6 @@
       "onboard_time": 1674186684,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 185124,
-      "num": 185124,
-      "word": "妈妈和婆婆多年闺蜜撮合孩子变亲家",
-      "onboard_time": 1674188185,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184690,
@@ -745,6 +809,22 @@
       "onboard_time": 1674185427,
       "rank": 34,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 174037,
+      "num": 174037,
+      "word": "2023江苏卫视春晚全阵容",
+      "onboard_time": 1674191245,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173320,
+      "num": 173320,
+      "word": "张小斐再唱萱草花",
+      "onboard_time": 1674190046,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 171577,
@@ -875,14 +955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148043,
-      "num": 148043,
-      "word": "婚礼上新娘发现新郎手变黑了",
-      "onboard_time": 1674189148,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147320,
       "num": 147320,
       "word": "yuan 菠菜",
@@ -904,6 +976,14 @@
       "word": "王鹤棣白鹿微博互关",
       "onboard_time": 1674144927,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 145405,
+      "num": 145405,
+      "word": "肖铎说出手前放松一下",
+      "onboard_time": 1674189504,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -944,6 +1024,14 @@
       "word": "毛不易深海微笑曲小丑",
       "onboard_time": 1674181524,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 135555,
+      "num": 135555,
+      "word": "谢之遥说只对许红豆有感觉",
+      "onboard_time": 1674190826,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -993,6 +1081,14 @@
       "onboard_time": 1674144327,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126395,
+      "num": 122374,
+      "word": "三体真香",
+      "onboard_time": 1674190586,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 125420,

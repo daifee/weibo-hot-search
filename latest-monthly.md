@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/20 12:38:24
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/20 13:17:28
 </p>
 </blockquote>
 <p>
@@ -1679,6 +1679,12 @@ IVE假唱被KBS点名批评（热度：1570145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E8%BF%9194%25%E5%8E%BF%E5%9F%8E%E6%88%BF%E4%BB%B7%E4%B8%8D%E8%BF%87%E4%B8%87%E5%85%83%23" target="weibo">
 全国近94%县城房价不过万元（热度：1493427）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%87%AA%E6%9B%9D%E8%A2%AB%E5%AE%B6%E6%9A%B49%E6%AC%A1%E6%8A%A5%E8%AD%A64%E6%AC%A1%23" target="weibo">
+女子自曝被家暴9次报警4次（热度：1482723）
 </a>
 </li>
 
@@ -4617,6 +4623,12 @@ WBG 阵容（热度：876890）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TWICE%E6%96%B0%E6%AD%8C%23" target="weibo">
+TWICE新歌（热度：875227）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F6%E4%B8%AA%E6%9C%88%E5%87%8F%E8%82%A573%E6%96%A4%E7%A7%B0%E9%87%8D%E5%A1%91%E4%BA%BA%E7%94%9F%23" target="weibo">
 女生6个月减肥73斤称重塑人生（热度：875005）
 </a>
@@ -5999,18 +6011,6 @@ WBG战胜TES（热度：766734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E8%8B%B1%E4%BF%8A%E5%86%8D%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23" target="weibo">
 七英俊再发文道歉（热度：751034）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%B6%E7%89%87%E4%BA%BA%E5%9B%9E%E5%BA%94%E9%99%88%E9%A3%9E%E5%AE%87%E5%BC%A0%E5%A9%A7%E4%BB%AA%E4%BA%8C%E6%90%AD%23" target="weibo">
-制片人回应陈飞宇张婧仪二搭（热度：750174）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9B%AA%E5%B3%B0%E8%A2%AB%E6%9F%A5%23" target="weibo">
-王雪峰被查（热度：750042）
 </a>
 </li>
 
