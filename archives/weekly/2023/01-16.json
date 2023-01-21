@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674297214251,
+  "endTime": 1674299654010,
   "band_list": [
     {
       "raw_hot": 9337684,
@@ -192,6 +192,14 @@
       "word": "李谷一回应缺席春晚",
       "onboard_time": 1674269662,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2197936,
+      "num": 2197936,
+      "word": "春晚几点",
+      "onboard_time": 1674295287,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -875,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1208964,
+      "num": 1208964,
+      "word": "拜年短信",
+      "onboard_time": 1674295046,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1205766,
       "num": 1205766,
       "word": "EXO将2月后完整体回归",
@@ -1003,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1129476,
-      "num": 1129476,
-      "word": "春晚几点",
-      "onboard_time": 1674295287,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1127613,
       "num": 1093075,
       "word": "丈夫给情人转账20万元原配成功追回",
@@ -1116,7 +1124,7 @@
     },
     {
       "raw_hot": 1051129,
-      "num": 343497,
+      "num": 346624,
       "word": "田小娟 广告",
       "onboard_time": 1674286284,
       "rank": 35,
@@ -1771,14 +1779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 843081,
-      "num": 843081,
-      "word": "拜年短信",
-      "onboard_time": 1674295046,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 838417,
       "num": 493553,
       "word": "关孙彩瑛什么事",
@@ -1825,6 +1825,14 @@
       "onboard_time": 1674129389,
       "rank": 8,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 836227,
+      "num": 836227,
+      "word": "云南大理官方给去有风的地方剧组感谢信",
+      "onboard_time": 1674296906,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 836148,
@@ -1913,6 +1921,22 @@
       "onboard_time": 1674119067,
       "rank": 20,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 804180,
+      "num": 804180,
+      "word": "红包封面",
+      "onboard_time": 1674191245,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 800958,
+      "num": 800958,
+      "word": "孙茜一边化妆一边吃春晚盒饭",
+      "onboard_time": 1674296906,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 795667,
@@ -2491,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 689910,
+      "num": 689910,
+      "word": "烟花",
+      "onboard_time": 1674136648,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 686873,
       "num": 557265,
       "word": "时代少年团红毯签了七个名字",
@@ -3003,6 +3035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 612280,
+      "num": 612280,
+      "word": "过年文案",
+      "onboard_time": 1674283943,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 611900,
       "num": 489116,
       "word": "远嫁女子回婆家有客不能上桌吃饭",
@@ -3073,6 +3113,14 @@
       "onboard_time": 1673834545,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 604529,
+      "num": 604529,
+      "word": "爱奇艺",
+      "onboard_time": 1674297387,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 604143,
@@ -3465,14 +3513,6 @@
       "onboard_time": 1674101546,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 554114,
-      "num": 554114,
-      "word": "红包封面",
-      "onboard_time": 1674191245,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 553712,
@@ -3915,6 +3955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502745,
+      "num": 502745,
+      "word": "马嘉祺刘耀文奶奶真漂亮舞台",
+      "onboard_time": 1674298348,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 502391,
       "num": 424261,
       "word": "宋亚轩说哀家长头发啦",
@@ -3929,6 +3977,14 @@
       "onboard_time": 1674204925,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 501005,
+      "num": 501005,
+      "word": "如何评价女性不能上桌吃饭",
+      "onboard_time": 1674293904,
+      "rank": 25,
+      "category": "社会议题"
     },
     {
       "raw_hot": 500421,
@@ -3969,6 +4025,14 @@
       "onboard_time": 1674294986,
       "rank": 16,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 497375,
+      "num": 497375,
+      "word": "红包",
+      "onboard_time": 1674297987,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 497362,
@@ -4169,14 +4233,6 @@
       "onboard_time": 1674041492,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 476427,
-      "num": 476427,
-      "word": "过年文案",
-      "onboard_time": 1674283943,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 475888,
@@ -4585,14 +4641,6 @@
       "onboard_time": 1674230125,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 431650,
-      "num": 431650,
-      "word": "烟花",
-      "onboard_time": 1674136648,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 431330,
@@ -5515,6 +5563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 372365,
+      "num": 372365,
+      "word": "过年表情包",
+      "onboard_time": 1674294565,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 370693,
       "num": 258710,
       "word": "尼泊尔飞机坠毁前或曾尝试着陆",
@@ -5619,6 +5675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364744,
+      "num": 364744,
+      "word": "丁程鑫宋亚轩严浩翔改编男儿歌",
+      "onboard_time": 1674297084,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 364016,
       "num": 198060,
       "word": "王一博猜上海方言",
@@ -5665,6 +5729,14 @@
       "onboard_time": 1673929769,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 363057,
+      "num": 363057,
+      "word": "女生起床收到20条除夕群发祝福",
+      "onboard_time": 1674297024,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362975,
@@ -5931,14 +6003,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 347528,
-      "num": 347528,
-      "word": "如何评价女性不能上桌吃饭",
-      "onboard_time": 1674293904,
-      "rank": 25,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 346666,
       "num": 346666,
       "word": "蛋仔派对",
@@ -6091,14 +6155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339317,
-      "num": 339317,
-      "word": "丁程鑫宋亚轩严浩翔改编男儿歌",
-      "onboard_time": 1674297084,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 338682,
       "num": 338682,
       "word": "孙怡老北京胡同过年vlog",
@@ -6153,6 +6209,14 @@
       "onboard_time": 1673847990,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335569,
+      "num": 335569,
+      "word": "新年祝福语",
+      "onboard_time": 1674292046,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 335283,
@@ -6651,6 +6715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 316607,
+      "num": 316607,
+      "word": "杨迪妈妈为杨迪跨伴舞",
+      "onboard_time": 1674298167,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 314925,
       "num": 255292,
       "word": "王一博无名换了很多条领带",
@@ -7027,14 +7099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298545,
-      "num": 298545,
-      "word": "新年祝福语",
-      "onboard_time": 1674292046,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 298015,
       "num": 298015,
       "word": "龚俊说如果不做演员可能会开串串香店",
@@ -7347,6 +7411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289811,
+      "num": 289811,
+      "word": "满江红预售票房破2亿",
+      "onboard_time": 1674297445,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289085,
       "num": 191344,
       "word": "都暻秀翻唱伯贤的Unvillage",
@@ -7384,14 +7456,6 @@
       "word": "电影无名将开启路演",
       "onboard_time": 1674296665,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 286759,
-      "num": 213287,
-      "word": "云南大理官方给去有风的地方剧组感谢信",
-      "onboard_time": 1674296906,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -8457,14 +8521,6 @@
       "onboard_time": 1674277344,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255049,
-      "num": 255049,
-      "word": "过年表情包",
-      "onboard_time": 1674294565,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 254870,
@@ -9579,6 +9635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214449,
+      "num": 214449,
+      "word": "宣璐汉服马面裙大片",
+      "onboard_time": 1674298526,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214279,
       "num": 152259,
       "word": "魏晨春晚红色大衣造型",
@@ -9793,14 +9857,6 @@
       "onboard_time": 1674185245,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208588,
-      "num": 208588,
-      "word": "孙茜一边化妆一边吃春晚盒饭",
-      "onboard_time": 1674296906,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 208105,
@@ -11595,6 +11651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169060,
+      "num": 181426,
+      "word": "兔年文案",
+      "onboard_time": 1674276445,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168964,
       "num": 168964,
       "word": "年后再说",
@@ -12081,14 +12145,6 @@
       "onboard_time": 1674113006,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158533,
-      "num": 181426,
-      "word": "兔年文案",
-      "onboard_time": 1674276445,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 158525,
@@ -12995,6 +13051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137120,
+      "num": 117216,
+      "word": "央视镜头下的明星",
+      "onboard_time": 1674299606,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136833,
       "num": 184159,
       "word": "深圳男篮主帅场边昏倒",
@@ -13425,14 +13489,6 @@
       "onboard_time": 1674092666,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 124443,
-      "num": 124443,
-      "word": "女生起床收到20条除夕群发祝福",
-      "onboard_time": 1674297024,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124425,
@@ -13931,6 +13987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109668,
+      "num": 109668,
+      "word": "年夜饭文案",
+      "onboard_time": 1674293666,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109223,
       "num": 109223,
       "word": "黄山2023第一场壮美晚霞瀑布云海",
@@ -14049,14 +14113,6 @@
       "onboard_time": 1674243193,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 105461,
-      "num": 105461,
-      "word": "年夜饭文案",
-      "onboard_time": 1674293666,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 105406,
@@ -14876,7 +14932,7 @@
     },
     {
       "raw_hot": 38334,
-      "num": 1182597,
+      "num": 1429951,
       "word": "新时代 我在中国",
       "onboard_time": 1674279563,
       "rank": 2,

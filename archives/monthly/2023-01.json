@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674297214251,
+  "endTime": 1674299654010,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -857,6 +857,14 @@
       "onboard_time": 1672924531,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2197936,
+      "num": 2197936,
+      "word": "春晚几点",
+      "onboard_time": 1674295287,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2190922,
@@ -3595,6 +3603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1208964,
+      "num": 1208964,
+      "word": "拜年短信",
+      "onboard_time": 1674295046,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1206520,
       "num": 941645,
       "word": "王俊凯台风",
@@ -4147,14 +4163,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1129476,
-      "num": 1129476,
-      "word": "春晚几点",
-      "onboard_time": 1674295287,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1128901,
       "num": 610219,
       "word": "家属办完丧事被通知人没死",
@@ -4668,7 +4676,7 @@
     },
     {
       "raw_hot": 1051129,
-      "num": 343497,
+      "num": 346624,
       "word": "田小娟 广告",
       "onboard_time": 1674286284,
       "rank": 35,
@@ -6955,14 +6963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 843081,
-      "num": 843081,
-      "word": "拜年短信",
-      "onboard_time": 1674295046,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 842690,
       "num": 842690,
       "word": "阿根廷民众烧梅西雕像庆祝新年",
@@ -7065,6 +7065,14 @@
       "onboard_time": 1674129389,
       "rank": 8,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 836227,
+      "num": 836227,
+      "word": "云南大理官方给去有风的地方剧组感谢信",
+      "onboard_time": 1674296906,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 836148,
@@ -7523,6 +7531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 804180,
+      "num": 804180,
+      "word": "红包封面",
+      "onboard_time": 1674191245,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 803874,
       "num": 803874,
       "word": "31岁小伙相亲恋爱差点当爷爷",
@@ -7561,6 +7577,14 @@
       "onboard_time": 1672718608,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 800958,
+      "num": 800958,
+      "word": "孙茜一边化妆一边吃春晚盒饭",
+      "onboard_time": 1674296906,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 800009,
@@ -11187,6 +11211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 612280,
+      "num": 612280,
+      "word": "过年文案",
+      "onboard_time": 1674283943,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 612199,
       "num": 502313,
       "word": "LESSERAFIM今日金唱片舞台",
@@ -11393,6 +11425,14 @@
       "onboard_time": 1673834545,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 604529,
+      "num": 604529,
+      "word": "爱奇艺",
+      "onboard_time": 1674297387,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 604143,
@@ -12961,14 +13001,6 @@
       "onboard_time": 1674101546,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 554114,
-      "num": 554114,
-      "word": "红包封面",
-      "onboard_time": 1674191245,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 553844,
@@ -14739,6 +14771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502745,
+      "num": 502745,
+      "word": "马嘉祺刘耀文奶奶真漂亮舞台",
+      "onboard_time": 1674298348,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 502646,
       "num": 502646,
       "word": "王一博说试飞员是非常危险的职业",
@@ -14817,6 +14857,14 @@
       "onboard_time": 1672562191,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 501005,
+      "num": 501005,
+      "word": "如何评价女性不能上桌吃饭",
+      "onboard_time": 1674293904,
+      "rank": 25,
+      "category": "社会议题"
     },
     {
       "raw_hot": 500940,
@@ -14969,6 +15017,14 @@
       "onboard_time": 1672737570,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 497375,
+      "num": 714132,
+      "word": "红包",
+      "onboard_time": 1672505375,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 497362,
@@ -15681,14 +15737,6 @@
       "onboard_time": 1672791390,
       "rank": 13,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 476427,
-      "num": 476427,
-      "word": "过年文案",
-      "onboard_time": 1674283943,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 476323,
@@ -20571,14 +20619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376824,
-      "num": 714132,
-      "word": "红包",
-      "onboard_time": 1672505375,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 376797,
       "num": 306687,
       "word": "易烊千玺VOGUE京剧风封面",
@@ -20857,6 +20897,14 @@
       "onboard_time": 1673589749,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372365,
+      "num": 372365,
+      "word": "过年表情包",
+      "onboard_time": 1674294565,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 372346,
@@ -21363,6 +21411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 364744,
+      "num": 364744,
+      "word": "丁程鑫宋亚轩严浩翔改编男儿歌",
+      "onboard_time": 1674297084,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 364385,
       "num": 364385,
       "word": "中方代表在联合国安理会上点名美国",
@@ -21497,6 +21553,14 @@
       "onboard_time": 1673247328,
       "rank": 17,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 363057,
+      "num": 363057,
+      "word": "女生起床收到20条除夕群发祝福",
+      "onboard_time": 1674297024,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362975,
@@ -22571,14 +22635,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 347528,
-      "num": 347528,
-      "word": "如何评价女性不能上桌吃饭",
-      "onboard_time": 1674293904,
-      "rank": 25,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 347439,
       "num": 347439,
       "word": "王嘉尔两次科切拉地位变化",
@@ -23155,14 +23211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 339317,
-      "num": 339317,
-      "word": "丁程鑫宋亚轩严浩翔改编男儿歌",
-      "onboard_time": 1674297084,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 339307,
       "num": 184646,
       "word": "王凯理解的两根手指",
@@ -23449,6 +23497,14 @@
       "onboard_time": 1673610568,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 335569,
+      "num": 335569,
+      "word": "新年祝福语",
+      "onboard_time": 1674292046,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 335524,
@@ -25003,6 +25059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 316607,
+      "num": 316607,
+      "word": "杨迪妈妈为杨迪跨伴舞",
+      "onboard_time": 1674298167,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 316432,
       "num": 202315,
       "word": "王一博说大年初一静候各位",
@@ -26427,14 +26491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298545,
-      "num": 298545,
-      "word": "新年祝福语",
-      "onboard_time": 1674292046,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 298307,
       "num": 289124,
       "word": "陈哲远回应被综艺之神眷顾",
@@ -27235,6 +27291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289811,
+      "num": 289811,
+      "word": "满江红预售票房破2亿",
+      "onboard_time": 1674297445,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289710,
       "num": 183332,
       "word": "四大名著连连看",
@@ -27457,14 +27521,6 @@
       "onboard_time": 1673168250,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 286759,
-      "num": 213287,
-      "word": "云南大理官方给去有风的地方剧组感谢信",
-      "onboard_time": 1674296906,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 286643,
@@ -30961,14 +31017,6 @@
       "onboard_time": 1673501792,
       "rank": 33,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 255049,
-      "num": 255049,
-      "word": "过年表情包",
-      "onboard_time": 1674294565,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 255031,
@@ -35123,6 +35171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214449,
+      "num": 214449,
+      "word": "宣璐汉服马面裙大片",
+      "onboard_time": 1674298526,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214279,
       "num": 152259,
       "word": "魏晨春晚红色大衣造型",
@@ -35785,14 +35841,6 @@
       "onboard_time": 1674185245,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208588,
-      "num": 208588,
-      "word": "孙茜一边化妆一边吃春晚盒饭",
-      "onboard_time": 1674296906,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 208399,
@@ -41179,6 +41227,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 169060,
+      "num": 181426,
+      "word": "兔年文案",
+      "onboard_time": 1674276445,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168964,
       "num": 168964,
       "word": "年后再说",
@@ -42705,14 +42761,6 @@
       "onboard_time": 1674113006,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158533,
-      "num": 181426,
-      "word": "兔年文案",
-      "onboard_time": 1674276445,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 158525,
@@ -45507,6 +45555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137120,
+      "num": 117216,
+      "word": "央视镜头下的明星",
+      "onboard_time": 1674299606,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136943,
       "num": 136943,
       "word": "山东又要变成山冻",
@@ -46921,14 +46977,6 @@
       "onboard_time": 1674092666,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 124443,
-      "num": 124443,
-      "word": "女生起床收到20条除夕群发祝福",
-      "onboard_time": 1674297024,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124425,
@@ -48683,6 +48731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109668,
+      "num": 109668,
+      "word": "年夜饭文案",
+      "onboard_time": 1674293666,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109514,
       "num": 1387849,
       "word": "哪些年货坐火车要限量携带",
@@ -49136,14 +49192,6 @@
       "word": "烟花放出了打仗的感觉",
       "onboard_time": 1672551871,
       "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 105461,
-      "num": 105461,
-      "word": "年夜饭文案",
-      "onboard_time": 1674293666,
-      "rank": 49,
       "category": "情感"
     },
     {
@@ -51948,7 +51996,7 @@
     },
     {
       "raw_hot": 38334,
-      "num": 1182597,
+      "num": 1429951,
       "word": "新时代 我在中国",
       "onboard_time": 1674279563,
       "rank": 2,

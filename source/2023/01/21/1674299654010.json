@@ -1,0 +1,410 @@
+{
+  "runTime": 1674299654010,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2293004,
+        "num": 2293004,
+        "word": "兔子",
+        "onboard_time": 1674280763,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2197936,
+        "num": 2197936,
+        "word": "春晚几点",
+        "onboard_time": 1674295287,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29521,
+        "num": 1429951,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674279563,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1208964,
+        "num": 1208964,
+        "word": "拜年短信",
+        "onboard_time": 1674295046,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 836227,
+        "num": 836227,
+        "word": "云南大理官方给去有风的地方剧组感谢信",
+        "onboard_time": 1674296906,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 804180,
+        "num": 804180,
+        "word": "红包封面",
+        "onboard_time": 1674294084,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 800958,
+        "num": 800958,
+        "word": "孙茜一边化妆一边吃春晚盒饭",
+        "onboard_time": 1674296906,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689910,
+        "num": 689910,
+        "word": "烟花",
+        "onboard_time": 1674296486,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612280,
+        "num": 612280,
+        "word": "过年文案",
+        "onboard_time": 1674283943,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 604529,
+        "num": 604529,
+        "word": "爱奇艺",
+        "onboard_time": 1674297387,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 581983,
+        "num": 581983,
+        "word": "春晚节目单",
+        "onboard_time": 1674211107,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 560677,
+        "num": 560677,
+        "word": "肖战说要捍卫中国乒乓的荣耀与光荣",
+        "onboard_time": 1674295706,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 502745,
+        "num": 502745,
+        "word": "马嘉祺刘耀文奶奶真漂亮舞台",
+        "onboard_time": 1674298348,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 501005,
+        "num": 501005,
+        "word": "如何评价女性不能上桌吃饭",
+        "onboard_time": 1674293904,
+        "rank": 13,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 497375,
+        "num": 497375,
+        "word": "红包",
+        "onboard_time": 1674297987,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 485615,
+        "num": 485615,
+        "word": "女子过年赖床不起爸爸情绪逐渐失控",
+        "onboard_time": 1674290724,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440794,
+        "num": 440794,
+        "word": "秦岚春晚开场人鱼姬造型",
+        "onboard_time": 1674294986,
+        "rank": 16,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 372365,
+        "num": 372365,
+        "word": "过年表情包",
+        "onboard_time": 1674294565,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 364744,
+        "num": 364744,
+        "word": "丁程鑫宋亚轩严浩翔改编男儿歌",
+        "onboard_time": 1674297084,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 363057,
+        "num": 363057,
+        "word": "女生起床收到20条除夕群发祝福",
+        "onboard_time": 1674297024,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 894979,
+        "num": 353366,
+        "word": "Danielle道歉",
+        "onboard_time": 1674283524,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416536,
+        "num": 346624,
+        "word": "田小娟 广告",
+        "onboard_time": 1674286284,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339445,
+        "num": 339445,
+        "word": "爷奶给12个孙子女发红包每人5000多",
+        "onboard_time": 1674289823,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335569,
+        "num": 335569,
+        "word": "新年祝福语",
+        "onboard_time": 1674292046,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316607,
+        "num": 316607,
+        "word": "杨迪妈妈为杨迪跨伴舞",
+        "onboard_time": 1674298167,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 296933,
+        "num": 296933,
+        "word": "女子25元买福字兔子下面印着虎",
+        "onboard_time": 1674293305,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296519,
+        "num": 296519,
+        "word": "杨紫碧蓝抹胸纱裙造型",
+        "onboard_time": 1674291504,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 827676,
+        "num": 295522,
+        "word": "女子杀猪14年被指虐待动物",
+        "onboard_time": 1674291084,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294088,
+        "num": 294088,
+        "word": "日本驻华大使馆签证业务已恢复正常",
+        "onboard_time": 1674294084,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289811,
+        "num": 289811,
+        "word": "满江红预售票房破2亿",
+        "onboard_time": 1674297445,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279471,
+        "num": 279471,
+        "word": "赵今麦造型",
+        "onboard_time": 1674290004,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256029,
+        "num": 256029,
+        "word": "鹿晗金发黑西装造型",
+        "onboard_time": 1674291144,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216478,
+        "num": 216478,
+        "word": "虚岁最大受害者",
+        "onboard_time": 1674287783,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252072,
+        "num": 216429,
+        "word": "如何看待明星都想上春晚",
+        "onboard_time": 1674292885,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214449,
+        "num": 214449,
+        "word": "宣璐汉服马面裙大片",
+        "onboard_time": 1674298526,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213448,
+        "num": 213448,
+        "word": "除夕夜",
+        "onboard_time": 1674294684,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202846,
+        "num": 202846,
+        "word": "三体 脱水浸泡",
+        "onboard_time": 1674295586,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180871,
+        "num": 180871,
+        "word": "苏醒 继续对全国人民保留我的才艺",
+        "onboard_time": 1674288084,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175187,
+        "num": 175187,
+        "word": "KPL选手年夜饭的仪式感",
+        "onboard_time": 1674294806,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169431,
+        "num": 169431,
+        "word": "杨幂祝大家阖家美满大展宏兔",
+        "onboard_time": 1674295525,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169060,
+        "num": 169060,
+        "word": "兔年文案",
+        "onboard_time": 1674276445,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168516,
+        "num": 168516,
+        "word": "许嵩说过年就是要团圆和家的感觉",
+        "onboard_time": 1674292225,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165272,
+        "num": 165272,
+        "word": "魏晨透露未来我来唱各行各业",
+        "onboard_time": 1674295886,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159668,
+        "num": 159668,
+        "word": "沈腾 是吧",
+        "onboard_time": 1674278724,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120673,
+        "num": 120673,
+        "word": "兔年祝福",
+        "onboard_time": 1674266902,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156525,
+        "num": 120068,
+        "word": "李谷一回应缺席春晚",
+        "onboard_time": 1674269662,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137120,
+        "num": 117216,
+        "word": "央视镜头下的明星",
+        "onboard_time": 1674299606,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113801,
+        "num": 113801,
+        "word": "原来这就是爸爸过年的仪式感",
+        "onboard_time": 1674293004,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109668,
+        "num": 109668,
+        "word": "年夜饭文案",
+        "onboard_time": 1674293666,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106414,
+        "num": 106414,
+        "word": "兔年图片",
+        "onboard_time": 1674295646,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们要靠实干开创更加美好的未来#"
+    }
+  }
+}
