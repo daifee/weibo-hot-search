@@ -1,7 +1,31 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674304333984,
+  "endTime": 1674305402151,
   "band_list": [
+    {
+      "raw_hot": 13422473,
+      "num": 13422473,
+      "word": "岳云鹏变烧鸡",
+      "onboard_time": 1674304469,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 9667960,
+      "num": 9667960,
+      "word": "春晚",
+      "onboard_time": 1674041190,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 9365231,
+      "num": 9365231,
+      "word": "春晚舞台",
+      "onboard_time": 1674303522,
+      "rank": 3,
+      "category": "综艺"
+    },
     {
       "raw_hot": 9337684,
       "num": 9337684,
@@ -11,11 +35,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 7344769,
-      "num": 7344769,
-      "word": "春晚",
-      "onboard_time": 1674041190,
-      "rank": 19,
+      "raw_hot": 8746355,
+      "num": 6046048,
+      "word": "张若昀好帅",
+      "onboard_time": 1674303762,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 8227761,
+      "num": 1320655,
+      "word": "邓超笑死我了",
+      "onboard_time": 1674305152,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 7420684,
+      "num": 712147,
+      "word": "动如脱兔的邓超",
+      "onboard_time": 1674304933,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -35,27 +75,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 6046048,
-      "num": 6046048,
-      "word": "张若昀好帅",
-      "onboard_time": 1674303762,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 4648140,
-      "num": 4648140,
-      "word": "春晚舞台",
-      "onboard_time": 1674303522,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 4150114,
+      "raw_hot": 5198680,
       "num": 4150114,
       "word": "赵丽颖真可爱",
       "onboard_time": 1674303287,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4903561,
+      "num": 664907,
+      "word": "孙越的捧哏不如一只烧鸡",
+      "onboard_time": 1674304469,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -91,12 +123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3312677,
+      "num": 650859,
+      "word": "张若昀吃烧鸡的样子很帅",
+      "onboard_time": 1674304511,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3301649,
       "num": 542847,
       "word": "陆虎 求婚",
       "onboard_time": 1674048870,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2998392,
+      "num": 521242,
+      "word": "岳云鹏 老梗",
+      "onboard_time": 1674304339,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 2930099,
@@ -203,12 +251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2430773,
+      "num": 738531,
+      "word": "马凡舒漂亮",
+      "onboard_time": 1674303583,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2392035,
       "num": 2392035,
       "word": "男子误戴朋友20万婚戒无奈切割取下",
       "onboard_time": 1673853749,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2372918,
+      "num": 480813,
+      "word": "邓超还是这么激动",
+      "onboard_time": 1674304804,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 2315678,
@@ -475,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1729943,
-      "num": 738531,
-      "word": "马凡舒漂亮",
-      "onboard_time": 1674303583,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1727993,
       "num": 1727993,
       "word": "湖北襄阳3.2级地震",
@@ -659,6 +715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1467890,
+      "num": 247680,
+      "word": "杨紫C位",
+      "onboard_time": 1674304072,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1466031,
       "num": 1466031,
       "word": "山姆回应蓝环章鱼事件",
@@ -779,6 +843,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1374243,
+      "num": 247672,
+      "word": "岳云鹏严重超时导致春晚演到大年初二",
+      "onboard_time": 1674305050,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1368328,
+      "num": 253584,
+      "word": "大张伟适合开场",
+      "onboard_time": 1674303639,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1363318,
       "num": 1363318,
       "word": "暴雪绿茶",
@@ -883,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1280197,
+      "num": 402101,
+      "word": "春晚直播",
+      "onboard_time": 1674301048,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1276119,
       "num": 1044665,
       "word": "江歌妈妈收到首笔法院执行款50500元",
@@ -912,14 +1000,6 @@
       "word": "赵丽颖春晚造型路透",
       "onboard_time": 1674303287,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1240280,
-      "num": 402101,
-      "word": "春晚直播",
-      "onboard_time": 1674301048,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -1435,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 981758,
+      "num": 196408,
+      "word": "白敬亭2022年终总结",
+      "onboard_time": 1674304339,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 981584,
       "num": 981584,
       "word": "新生儿成白肺医生跪地抢救",
@@ -1465,6 +1553,14 @@
       "onboard_time": 1674218851,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 968243,
+      "num": 192940,
+      "word": "龙洋主持",
+      "onboard_time": 1674305002,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 967903,
@@ -1553,14 +1649,6 @@
       "onboard_time": 1674142707,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 941592,
-      "num": 253584,
-      "word": "大张伟适合开场",
-      "onboard_time": 1674303639,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 941311,
@@ -1913,6 +2001,14 @@
       "onboard_time": 1674104366,
       "rank": 17,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 844098,
+      "num": 179730,
+      "word": "春晚观众不戴口罩了",
+      "onboard_time": 1674305334,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 844016,
@@ -2849,14 +2945,6 @@
       "onboard_time": 1673957667,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 654761,
-      "num": 217809,
-      "word": "杨紫C位",
-      "onboard_time": 1674304072,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 654737,
@@ -4787,6 +4875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441800,
+      "num": 441800,
+      "word": "过年表情包",
+      "onboard_time": 1674294565,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 439503,
       "num": 439503,
       "word": "流浪地球2用AI修复了李雪健原声",
@@ -4796,7 +4892,7 @@
     },
     {
       "raw_hot": 438470,
-      "num": 438470,
+      "num": 748197,
       "word": "女生起床收到20条除夕群发祝福",
       "onboard_time": 1674297024,
       "rank": 43,
@@ -5409,14 +5505,6 @@
       "onboard_time": 1674217889,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390286,
-      "num": 390286,
-      "word": "过年表情包",
-      "onboard_time": 1674294565,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 390173,
@@ -7075,6 +7163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305130,
+      "num": 729585,
+      "word": "故宫吉祥兔文物",
+      "onboard_time": 1674303998,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 305087,
       "num": 305087,
       "word": "张艺兴发的摩斯密码是什么",
@@ -8715,6 +8811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254267,
+      "num": 254267,
+      "word": "利物浦vs切尔西",
+      "onboard_time": 1674301409,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253700,
       "num": 253700,
       "word": "原神3.4",
@@ -8905,6 +9009,22 @@
       "onboard_time": 1673956889,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247680,
+      "num": 254618,
+      "word": "康辉郑丽拜年",
+      "onboard_time": 1674302731,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247632,
+      "num": 247632,
+      "word": "压岁钱",
+      "onboard_time": 1674300689,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 247411,
@@ -9363,14 +9483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 232927,
-      "num": 232927,
-      "word": "压岁钱",
-      "onboard_time": 1674300689,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 232880,
       "num": 139587,
       "word": "周杰伦马来西亚演唱会",
@@ -9449,14 +9561,6 @@
       "onboard_time": 1673926348,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 230235,
-      "num": 254618,
-      "word": "康辉郑丽拜年",
-      "onboard_time": 1674302731,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229890,
@@ -9753,14 +9857,6 @@
       "onboard_time": 1674138450,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 217847,
-      "num": 217847,
-      "word": "利物浦vs切尔西",
-      "onboard_time": 1674301409,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 217652,
@@ -10363,6 +10459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199985,
+      "num": 217839,
+      "word": "除夕夜文案",
+      "onboard_time": 1674302010,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199946,
       "num": 116856,
       "word": "张真源湖南春晚舞台直拍",
@@ -10393,6 +10497,14 @@
       "onboard_time": 1674016108,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199711,
+      "num": 199711,
+      "word": "瑞兔呈祥中国年",
+      "onboard_time": 1674305334,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199660,
@@ -10473,14 +10585,6 @@
       "onboard_time": 1673937028,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198232,
-      "num": 217839,
-      "word": "除夕夜文案",
-      "onboard_time": 1674302010,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 197945,
@@ -11395,6 +11499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178523,
+      "num": 178523,
+      "word": "微博红包",
+      "onboard_time": 1674305334,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 178268,
       "num": 141322,
       "word": "周深说也要挑战下语言类节目",
@@ -11545,14 +11657,6 @@
       "onboard_time": 1673961388,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175783,
-      "num": 217776,
-      "word": "故宫吉祥兔文物",
-      "onboard_time": 1674303998,
-      "rank": 43,
-      "category": "旅游"
     },
     {
       "raw_hot": 175728,
