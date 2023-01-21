@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674311608814,
+  "endTime": 1674314242266,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -9,6 +9,14 @@
       "onboard_time": 1673436935,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13632162,
+      "num": 13632162,
+      "word": "沈腾吃药",
+      "onboard_time": 1674311981,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 13473900,
@@ -43,12 +51,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 11446163,
+      "num": 11446163,
+      "word": "沈腾马丽 一出来就笑",
+      "onboard_time": 1674308929,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 11081869,
       "num": 11081869,
       "word": "新年快乐",
       "onboard_time": 1672501434,
       "rank": 0,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 10960128,
+      "num": 10960128,
+      "word": "马丽 羽绒服满天飞毛",
+      "onboard_time": 1674313324,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 10821549,
+      "num": 10821549,
+      "word": "谢谢沈腾马丽",
+      "onboard_time": 1674313083,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 9667960,
@@ -115,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 7607978,
+      "num": 7607978,
+      "word": "是谁在唱歌 for you",
+      "onboard_time": 1674309417,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 7420684,
       "num": 2162913,
       "word": "动如脱兔的邓超",
@@ -163,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 5467407,
+      "num": 5467407,
+      "word": "是妈妈是女儿听哭了",
+      "onboard_time": 1674313442,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 5371167,
       "num": 5371167,
       "word": "鞠婧祎胎毛刘海",
@@ -203,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4689162,
+      "num": 4689162,
+      "word": "上热搜了",
+      "onboard_time": 1674313674,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4568769,
       "num": 428719,
       "word": "刘心悠承认已婚",
@@ -225,14 +281,6 @@
       "onboard_time": 1673500476,
       "rank": 10,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 4523312,
-      "num": 4523312,
-      "word": "沈腾马丽 一出来就笑",
-      "onboard_time": 1674308929,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 3963034,
@@ -419,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3299573,
+      "num": 3299573,
+      "word": "镜头扫到秦岚好美",
+      "onboard_time": 1674306886,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3290860,
       "num": 1026315,
       "word": "张艺兴 压轴",
@@ -480,14 +536,6 @@
       "word": "看黄渤以为穿越了",
       "onboard_time": 1674310803,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 3125321,
-      "num": 3125321,
-      "word": "是谁在唱歌 for you",
-      "onboard_time": 1674309417,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -577,6 +625,14 @@
       "onboard_time": 1673844451,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2906075,
+      "num": 5525823,
+      "word": "五福开奖",
+      "onboard_time": 1674312237,
+      "rank": 8,
+      "category": "科技"
     },
     {
       "raw_hot": 2832749,
@@ -940,7 +996,7 @@
     },
     {
       "raw_hot": 2421267,
-      "num": 5246706,
+      "num": 5486109,
       "word": "微博红包",
       "onboard_time": 1674305334,
       "rank": 46,
@@ -2227,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1641283,
+      "num": 1641283,
+      "word": "穿皮衣不告诉吴磊",
+      "onboard_time": 1674314217,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1638641,
       "num": 1638641,
       "word": "我国出生人口下降三大因素",
@@ -3172,7 +3236,7 @@
     },
     {
       "raw_hot": 1374243,
-      "num": 433730,
+      "num": 609514,
       "word": "岳云鹏严重超时导致春晚演到大年初二",
       "onboard_time": 1674305050,
       "rank": 31,
@@ -3552,14 +3616,6 @@
       "word": "春晚直播",
       "onboard_time": 1674301048,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1279874,
-      "num": 444524,
-      "word": "镜头扫到秦岚好美",
-      "onboard_time": 1674306886,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -4593,6 +4649,14 @@
       "onboard_time": 1673950828,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1118933,
+      "num": 1118933,
+      "word": "周深改词版花开忘忧更温暖",
+      "onboard_time": 1674311804,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 1117376,
@@ -11651,6 +11715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 616351,
+      "num": 616351,
+      "word": "嘶哈嘶哈 哦ferferfer",
+      "onboard_time": 1674313142,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 615792,
       "num": 615792,
       "word": "向风而行收视率破2",
@@ -16883,6 +16955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 459164,
+      "num": 615543,
+      "word": "张远说我们没有感情全是红包",
+      "onboard_time": 1674312620,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458991,
       "num": 458991,
       "word": "男子向前女友索还15万恋爱支出被驳回",
@@ -17753,6 +17833,14 @@
       "onboard_time": 1673665525,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 443356,
+      "num": 615024,
+      "word": "今年终于通知吴磊穿黑裤子了",
+      "onboard_time": 1674313852,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 443327,
@@ -25411,6 +25499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319548,
+      "num": 613333,
+      "word": "谁给撒贝宁涂的高光",
+      "onboard_time": 1674313732,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319520,
       "num": 187471,
       "word": "梁朝伟说和程耳交流不需要讲很多话",
@@ -25504,6 +25600,14 @@
       "word": "时代少年团新年祝福手势",
       "onboard_time": 1672542514,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 318823,
+      "num": 612669,
+      "word": "明侦DNA动了",
+      "onboard_time": 1674312169,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -29355,6 +29459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275511,
+      "num": 1874203,
+      "word": "杀猪女屠夫月入3万买房买奔驰",
+      "onboard_time": 1674309898,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275497,
       "num": 183312,
       "word": "张真源想参股时代峰峻",
@@ -32428,7 +32540,7 @@
     },
     {
       "raw_hot": 247680,
-      "num": 568806,
+      "num": 844870,
       "word": "康辉郑丽拜年",
       "onboard_time": 1674302731,
       "rank": 29,
@@ -41883,6 +41995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169248,
+      "num": 611857,
+      "word": "加特林",
+      "onboard_time": 1674313617,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169221,
       "num": 169221,
       "word": "王栎鑫 我不选大美女难道选苏醒吗",
@@ -43155,14 +43275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160762,
-      "num": 591951,
-      "word": "杀猪女屠夫月入3万买房买奔驰",
-      "onboard_time": 1674309898,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160733,
       "num": 160733,
       "word": "这狗怎么欺负狗啊",
@@ -43177,6 +43289,14 @@
       "onboard_time": 1673051906,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160675,
+      "num": 610250,
+      "word": "3个月大宝宝不愿喂水突然急眼说不喝",
+      "onboard_time": 1674313911,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160421,
