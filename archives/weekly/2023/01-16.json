@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674336812338,
+  "endTime": 1674339384355,
   "band_list": [
     {
       "raw_hot": 13632162,
@@ -16121,6 +16121,14 @@
       "onboard_time": 1674066855,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46473,
+      "num": 34159,
+      "word": "白宇帆张佳宁 情侣装",
+      "onboard_time": 1674337754,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 46377,
