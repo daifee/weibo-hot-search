@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674310518665,
+  "endTime": 1674311608814,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -35,20 +35,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12127005,
+      "num": 12127005,
+      "word": "赵丽颖真可爱",
+      "onboard_time": 1674303287,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 11081869,
       "num": 11081869,
       "word": "新年快乐",
       "onboard_time": 1672501434,
       "rank": 0,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 10368115,
-      "num": 10368115,
-      "word": "赵丽颖真可爱",
-      "onboard_time": 1674303287,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 9667960,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 8638477,
+      "num": 8638477,
+      "word": "赵丽颖端庄大气",
+      "onboard_time": 1674310985,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 7773657,
       "num": 7773657,
       "word": "朱洁静不愧是首席",
@@ -121,6 +129,14 @@
       "onboard_time": 1674011728,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6352125,
+      "num": 6352125,
+      "word": "唐诗逸好美",
+      "onboard_time": 1674310322,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 6207481,
@@ -211,6 +227,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 4523312,
+      "num": 4523312,
+      "word": "沈腾马丽 一出来就笑",
+      "onboard_time": 1674308929,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3963034,
       "num": 3963034,
       "word": "制片人张萌获刑三年",
@@ -233,14 +257,6 @@
       "onboard_time": 1674302252,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3874840,
-      "num": 3874840,
-      "word": "唐诗逸好美",
-      "onboard_time": 1674310322,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 3727850,
@@ -355,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 3389111,
-      "num": 3389111,
-      "word": "沈腾马丽 一出来就笑",
-      "onboard_time": 1674308929,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 3386673,
       "num": 3386673,
       "word": "今年春晚没有李谷一",
@@ -465,6 +473,22 @@
       "onboard_time": 1673325569,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3156015,
+      "num": 3156015,
+      "word": "看黄渤以为穿越了",
+      "onboard_time": 1674310803,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3125321,
+      "num": 3125321,
+      "word": "是谁在唱歌 for you",
+      "onboard_time": 1674309417,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 3109836,
@@ -899,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2425382,
+      "num": 2425382,
+      "word": "刘星姥姥和三大爷",
+      "onboard_time": 1674311507,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2421301,
       "num": 2421301,
       "word": "跨年文案",
@@ -908,7 +940,7 @@
     },
     {
       "raw_hot": 2421267,
-      "num": 3950916,
+      "num": 5246706,
       "word": "微博红包",
       "onboard_time": 1674305334,
       "rank": 46,
@@ -1073,6 +1105,14 @@
       "onboard_time": 1672545814,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2206359,
+      "num": 2206359,
+      "word": "就等沈腾马丽了",
+      "onboard_time": 1674307313,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 2203680,
@@ -2251,14 +2291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1618674,
-      "num": 1618674,
-      "word": "是谁在唱歌 for you",
-      "onboard_time": 1674309417,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1617979,
       "num": 1617979,
       "word": "2040元买30斤牛肉切开肉内有纸",
@@ -2353,14 +2385,6 @@
       "onboard_time": 1672752691,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1584190,
-      "num": 1584190,
-      "word": "就等沈腾马丽了",
-      "onboard_time": 1674307313,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 1581431,
@@ -3513,6 +3537,14 @@
       "onboard_time": 1673945610,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1281022,
+      "num": 1281022,
+      "word": "还得是沈腾马丽",
+      "onboard_time": 1674309841,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1280197,
@@ -4851,6 +4883,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1072619,
+      "num": 1072619,
+      "word": "王宝强台词",
+      "onboard_time": 1674311276,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1070938,
       "num": 1070938,
       "word": "尼泊尔载72人坠毁客机失事瞬间",
@@ -5748,7 +5788,7 @@
     },
     {
       "raw_hot": 979920,
-      "num": 3885256,
+      "num": 5174877,
       "word": "红包封面",
       "onboard_time": 1674191245,
       "rank": 30,
@@ -6020,7 +6060,7 @@
     },
     {
       "raw_hot": 948247,
-      "num": 1040123,
+      "num": 1071563,
       "word": "女子过年赖床不起爸爸情绪逐渐失控",
       "onboard_time": 1674290724,
       "rank": 8,
@@ -13675,12 +13715,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 549086,
+      "num": 549086,
+      "word": "马凡舒眼睛",
+      "onboard_time": 1674311219,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 548547,
       "num": 548547,
       "word": "eStar开除运营",
       "onboard_time": 1673362837,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 548423,
+      "num": 548423,
+      "word": "杨紫春晚风衣会成爆款吗",
+      "onboard_time": 1674311329,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 548182,
@@ -17427,6 +17483,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 448428,
+      "num": 448428,
+      "word": "早安隆回",
+      "onboard_time": 1674311388,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448124,
       "num": 448124,
       "word": "蓝猫因太胖卡洞里脸都变形了",
@@ -18832,6 +18896,14 @@
       "word": "孙怡郭采洁再见爱人感动哭",
       "onboard_time": 1673327730,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 416128,
+      "num": 416128,
+      "word": "张建国",
+      "onboard_time": 1674311574,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -52371,6 +52443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 49019,
+      "num": 3126652,
+      "word": "寻找春晚彩蛋",
+      "onboard_time": 1674309609,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48885,
       "num": 508397,
       "word": "WBG与TES的德比对决",
@@ -52612,7 +52692,7 @@
     },
     {
       "raw_hot": 38334,
-      "num": 5926865,
+      "num": 5993169,
       "word": "新时代 我在中国",
       "onboard_time": 1674279563,
       "rank": 2,
@@ -52625,14 +52705,6 @@
       "onboard_time": 1673385971,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 37914,
-      "num": 2937566,
-      "word": "寻找春晚彩蛋",
-      "onboard_time": 1674309609,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 37573,
@@ -53298,6 +53370,9 @@
     },
     {
       "word": "#我们要靠实干开创更加美好的未来#"
+    },
+    {
+      "word": "#这是我们的中国年#"
     }
   ]
 }

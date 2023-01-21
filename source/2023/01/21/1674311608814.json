@@ -1,0 +1,410 @@
+{
+  "runTime": 1674311608814,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12127005,
+        "num": 12127005,
+        "word": "赵丽颖真可爱",
+        "onboard_time": 1674303287,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10496029,
+        "num": 10496029,
+        "word": "春晚舞台",
+        "onboard_time": 1674303522,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16585,
+        "num": 5993169,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674279563,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 8638477,
+        "num": 8638477,
+        "word": "赵丽颖端庄大气",
+        "onboard_time": 1674310985,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8405907,
+        "num": 8405907,
+        "word": "黄渤又上跑步机",
+        "onboard_time": 1674309954,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6931152,
+        "num": 6931152,
+        "word": "朱洁静不愧是首席",
+        "onboard_time": 1674308208,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6352125,
+        "num": 6352125,
+        "word": "唐诗逸好美",
+        "onboard_time": 1674310322,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6238670,
+        "num": 5372166,
+        "word": "邓超笑死我了",
+        "onboard_time": 1674305152,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1892403,
+        "num": 5246706,
+        "word": "微博红包",
+        "onboard_time": 1674305334,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 546910,
+        "num": 5174877,
+        "word": "红包封面",
+        "onboard_time": 1674294084,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 5135293,
+        "num": 5135293,
+        "word": "春晚",
+        "onboard_time": 1674299907,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4523312,
+        "num": 4523312,
+        "word": "沈腾马丽 一出来就笑",
+        "onboard_time": 1674308929,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3184061,
+        "num": 3184061,
+        "word": "撒贝宁和苏有朋谁的鞋跟高",
+        "onboard_time": 1674308088,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3156015,
+        "num": 3156015,
+        "word": "看黄渤以为穿越了",
+        "onboard_time": 1674310803,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49019,
+        "num": 3126652,
+        "word": "寻找春晚彩蛋",
+        "onboard_time": 1674309609,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3125321,
+        "num": 3125321,
+        "word": "是谁在唱歌 for you",
+        "onboard_time": 1674309417,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2425382,
+        "num": 2425382,
+        "word": "刘星姥姥和三大爷",
+        "onboard_time": 1674311507,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2324757,
+        "num": 2324757,
+        "word": "杨紫红色大衣",
+        "onboard_time": 1674309672,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521671,
+        "num": 2264952,
+        "word": "烟花",
+        "onboard_time": 1674296486,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307964,
+        "num": 2218187,
+        "word": "利物浦vs切尔西",
+        "onboard_time": 1674301409,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2206359,
+        "num": 2206359,
+        "word": "就等沈腾马丽了",
+        "onboard_time": 1674307313,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2184058,
+        "num": 2184058,
+        "word": "王铮亮的暗号",
+        "onboard_time": 1674309543,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2176136,
+        "num": 2176136,
+        "word": "脱口秀",
+        "onboard_time": 1674308208,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2069927,
+        "num": 2069927,
+        "word": "春晚节目单",
+        "onboard_time": 1674211107,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1732569,
+        "num": 1732569,
+        "word": "我和我的春晚 全场最佳",
+        "onboard_time": 1674308809,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1301339,
+        "num": 1301339,
+        "word": "朱洁静 牛哇",
+        "onboard_time": 1674308446,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491085,
+        "num": 1298101,
+        "word": "兔年第一只小兔子",
+        "onboard_time": 1674301110,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 485053,
+        "num": 1291900,
+        "word": "新年快乐",
+        "onboard_time": 1674306002,
+        "rank": 27,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 401495,
+        "num": 1286820,
+        "word": "新年祝福语",
+        "onboard_time": 1674292046,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204400,
+        "num": 1283205,
+        "word": "日本驻华大使馆签证业务已恢复正常",
+        "onboard_time": 1674294084,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1281022,
+        "num": 1281022,
+        "word": "还得是沈腾马丽",
+        "onboard_time": 1674309841,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1163039,
+        "num": 1163039,
+        "word": "谢谢毛不易",
+        "onboard_time": 1674307313,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1094323,
+        "num": 1094323,
+        "word": "陈哲远发红包",
+        "onboard_time": 1674302252,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1072619,
+        "num": 1072619,
+        "word": "王宝强台词",
+        "onboard_time": 1674311276,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196115,
+        "num": 1071563,
+        "word": "女子过年赖床不起爸爸情绪逐渐失控",
+        "onboard_time": 1674290724,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184956,
+        "num": 1071072,
+        "word": "女生起床收到20条除夕群发祝福",
+        "onboard_time": 1674297024,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070990,
+        "num": 1070990,
+        "word": "动如脱兔的邓超",
+        "onboard_time": 1674304933,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1059995,
+        "num": 1059995,
+        "word": "苏有朋太年轻了吧",
+        "onboard_time": 1674308208,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324897,
+        "num": 1035118,
+        "word": "红包",
+        "onboard_time": 1674297987,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95117,
+        "num": 1033716,
+        "word": "故宫吉祥兔文物",
+        "onboard_time": 1674303998,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1033196,
+        "num": 1033196,
+        "word": "岳云鹏变烧鸡",
+        "onboard_time": 1674304469,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549086,
+        "num": 549086,
+        "word": "马凡舒眼睛",
+        "onboard_time": 1674311219,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548423,
+        "num": 548423,
+        "word": "杨紫春晚风衣会成爆款吗",
+        "onboard_time": 1674311329,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 519798,
+        "num": 519798,
+        "word": "王俊凯王源易烊千玺TF家族官网新春VCR",
+        "onboard_time": 1674300629,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448428,
+        "num": 448428,
+        "word": "早安隆回",
+        "onboard_time": 1674311388,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90969,
+        "num": 429783,
+        "word": "康辉郑丽拜年",
+        "onboard_time": 1674302731,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015501,
+        "num": 425919,
+        "word": "杨紫C位",
+        "onboard_time": 1674304072,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416128,
+        "num": 416128,
+        "word": "张建国",
+        "onboard_time": 1674311574,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124957,
+        "num": 409444,
+        "word": "杀猪女屠夫月入3万买房买奔驰",
+        "onboard_time": 1674309898,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323818,
+        "num": 406620,
+        "word": "过年文案",
+        "onboard_time": 1674283943,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是我们的中国年#"
+    }
+  }
+}
