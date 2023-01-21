@@ -1,0 +1,411 @@
+{
+  "startTime": 1674318242996,
+  "endTime": 1674318242996,
+  "band_list": [
+    {
+      "raw_hot": 9908054,
+      "num": 9908054,
+      "word": "过年好",
+      "onboard_time": 1674316434,
+      "rank": 0,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 7026073,
+      "num": 7026073,
+      "word": "沈腾吃药",
+      "onboard_time": 1674311981,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3906763,
+      "num": 3906763,
+      "word": "马丽 羽绒服满天飞毛",
+      "onboard_time": 1674313324,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3902080,
+      "num": 3902080,
+      "word": "春晚舞台",
+      "onboard_time": 1674303522,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3367151,
+      "num": 3367151,
+      "word": "秦岚嗓子",
+      "onboard_time": 1674314398,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2789418,
+      "num": 2789418,
+      "word": "春晚",
+      "onboard_time": 1674299907,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2662524,
+      "num": 2662524,
+      "word": "穿皮衣不告诉吴磊",
+      "onboard_time": 1674314217,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2064320,
+      "num": 2064320,
+      "word": "沈腾马丽 一出来就笑",
+      "onboard_time": 1674308929,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1832492,
+      "num": 1832492,
+      "word": "朱洁静不愧是首席",
+      "onboard_time": 1674308208,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1748108,
+      "num": 1748108,
+      "word": "秦岚亲孙涛",
+      "onboard_time": 1674314278,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1711209,
+      "num": 2161072,
+      "word": "五福开奖",
+      "onboard_time": 1674312237,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1617327,
+      "num": 1617327,
+      "word": "邓超笑死我了",
+      "onboard_time": 1674305152,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1593399,
+      "num": 1593399,
+      "word": "是谁在唱歌 for you",
+      "onboard_time": 1674309417,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1571209,
+      "num": 1571209,
+      "word": "坑",
+      "onboard_time": 1674314932,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1545332,
+      "num": 1545332,
+      "word": "谢谢沈腾马丽",
+      "onboard_time": 1674313083,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1493196,
+      "num": 1493196,
+      "word": "阿兰的裙子快被踩掉了",
+      "onboard_time": 1674317018,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1465049,
+      "num": 1465049,
+      "word": "艾热rap",
+      "onboard_time": 1674316434,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1457538,
+      "num": 1457538,
+      "word": "撒贝宁和苏有朋谁的鞋跟高",
+      "onboard_time": 1674308088,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1346900,
+      "num": 1346900,
+      "word": "赵丽颖真可爱",
+      "onboard_time": 1674303287,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1302663,
+      "num": 1302663,
+      "word": "唐诗逸好美",
+      "onboard_time": 1674310322,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1252662,
+      "num": 1252662,
+      "word": "春晚节目单",
+      "onboard_time": 1674211107,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1181917,
+      "num": 1181917,
+      "word": "上热搜了",
+      "onboard_time": 1674313674,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1128451,
+      "num": 1128451,
+      "word": "刘星姥姥和三大爷",
+      "onboard_time": 1674311507,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1098200,
+      "num": 1458506,
+      "word": "微博红包",
+      "onboard_time": 1674305334,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 998403,
+      "num": 794748,
+      "word": "黄绮珊希林娜依高感染力",
+      "onboard_time": 1674315652,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 883686,
+      "num": 883686,
+      "word": "加特林",
+      "onboard_time": 1674313617,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 849048,
+      "num": 849048,
+      "word": "烟花",
+      "onboard_time": 1674296486,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794420,
+      "num": 794420,
+      "word": "王铮亮的暗号",
+      "onboard_time": 1674309543,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 792247,
+      "num": 792247,
+      "word": "镜头扫到秦岚好美",
+      "onboard_time": 1674306886,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 744561,
+      "num": 744561,
+      "word": "是妈妈是女儿听哭了",
+      "onboard_time": 1674313442,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 682605,
+      "num": 788954,
+      "word": "陈哲远发红包",
+      "onboard_time": 1674302252,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 458050,
+      "num": 740320,
+      "word": "春晚舞蹈",
+      "onboard_time": 1674312974,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 349406,
+      "num": 743502,
+      "word": "谁给撒贝宁涂的高光",
+      "onboard_time": 1674313732,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 329868,
+      "num": 773302,
+      "word": "王俊凯王源易烊千玺TF家族官网新春VCR",
+      "onboard_time": 1674300629,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 322839,
+      "num": 821383,
+      "word": "新年祝福语",
+      "onboard_time": 1674292046,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 277581,
+      "num": 772516,
+      "word": "过年表情包",
+      "onboard_time": 1674294565,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 276470,
+      "num": 760818,
+      "word": "兔年第一只小兔子",
+      "onboard_time": 1674301110,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 241436,
+      "num": 746544,
+      "word": "过年文案",
+      "onboard_time": 1674283943,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 231407,
+      "num": 742183,
+      "word": "当神兽遇见神兽",
+      "onboard_time": 1674317805,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213585,
+      "num": 736479,
+      "word": "万茜观众席镜头",
+      "onboard_time": 1674312109,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205723,
+      "num": 741731,
+      "word": "尼格买提胸针",
+      "onboard_time": 1674317865,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188736,
+      "num": 794927,
+      "word": "红包封面",
+      "onboard_time": 1674294084,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 181991,
+      "num": 739719,
+      "word": "谢谢毛不易",
+      "onboard_time": 1674307313,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138005,
+      "num": 744377,
+      "word": "3个月大宝宝不愿喂水突然急眼说不喝",
+      "onboard_time": 1674313911,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136351,
+      "num": 738078,
+      "word": "兔年表情包",
+      "onboard_time": 1674317993,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 130328,
+      "num": 737201,
+      "word": "红包",
+      "onboard_time": 1674297987,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 117472,
+      "num": 735599,
+      "word": "杀猪女屠夫月入3万买房买奔驰",
+      "onboard_time": 1674309898,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105799,
+      "num": 734354,
+      "word": "利物浦vs切尔西",
+      "onboard_time": 1674301409,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16332,
+      "num": 1580719,
+      "word": "沈腾躺在那就很好笑",
+      "onboard_time": 1674317929,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14912,
+      "num": 4645339,
+      "word": "新时代 我在中国",
+      "onboard_time": 1674279563,
+      "rank": 2,
+      "category": "国内要闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#过年#"
+    }
+  ]
+}
