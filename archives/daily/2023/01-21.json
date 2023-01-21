@@ -1,6 +1,6 @@
 {
   "startTime": 1674231983947,
-  "endTime": 1674314242266,
+  "endTime": 1674315222640,
   "band_list": [
     {
       "raw_hot": 13632162,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 5270566,
+      "num": 5270566,
+      "word": "秦岚嗓子",
+      "onboard_time": 1674314398,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4996518,
       "num": 4996518,
       "word": "初见照相馆 尴尬",
@@ -171,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4305456,
+      "num": 4305456,
+      "word": "秦岚亲孙涛",
+      "onboard_time": 1674314278,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3938677,
       "num": 3938677,
       "word": "脱口秀",
@@ -185,6 +201,22 @@
       "onboard_time": 1674302252,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3535008,
+      "num": 3535008,
+      "word": "坑",
+      "onboard_time": 1674314932,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3502112,
+      "num": 3502112,
+      "word": "镜头扫到秦岚好美",
+      "onboard_time": 1674306886,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 3393312,
@@ -203,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 3299573,
-      "num": 3299573,
-      "word": "镜头扫到秦岚好美",
-      "onboard_time": 1674306886,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 3209048,
       "num": 3209048,
       "word": "宋祖儿宋轶好美",
@@ -224,6 +248,14 @@
       "word": "看黄渤以为穿越了",
       "onboard_time": 1674310803,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3080772,
+      "num": 3080772,
+      "word": "穿皮衣不告诉吴磊",
+      "onboard_time": 1674314217,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -387,14 +419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1641283,
-      "num": 1641283,
-      "word": "穿皮衣不告诉吴磊",
-      "onboard_time": 1674314217,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1619939,
       "num": 1623606,
       "word": "新年快乐",
@@ -520,6 +544,14 @@
       "word": "赵丽颖春晚造型路透",
       "onboard_time": 1674303287,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1231212,
+      "num": 1231212,
+      "word": "沈马组合yyds",
+      "onboard_time": 1674314932,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -747,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 855568,
+      "num": 509745,
+      "word": "阿云嘎好帅",
+      "onboard_time": 1674314639,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 841090,
       "num": 434791,
       "word": "撒贝宁眼妆",
@@ -768,6 +808,14 @@
       "word": "春晚没有贾玲张小斐",
       "onboard_time": 1674213510,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 808004,
+      "num": 469292,
+      "word": "脱口秀一整年的素材",
+      "onboard_time": 1674314456,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -945,6 +993,14 @@
       "onboard_time": 1674303165,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 591041,
+      "num": 611857,
+      "word": "加特林",
+      "onboard_time": 1674313617,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 590805,
@@ -1179,6 +1235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 475032,
+      "num": 475032,
+      "word": "未来我来 四个帅哥",
+      "onboard_time": 1674314695,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460938,
       "num": 460938,
       "word": "赵丽颖写的财源滚滚",
@@ -1305,6 +1369,14 @@
       "onboard_time": 1674282322,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 404957,
+      "num": 404957,
+      "word": "开心麻花 牛",
+      "onboard_time": 1674314695,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 404262,
@@ -1668,7 +1740,7 @@
     },
     {
       "raw_hot": 275511,
-      "num": 1874203,
+      "num": 2907358,
       "word": "杀猪女屠夫月入3万买房买奔驰",
       "onboard_time": 1674309898,
       "rank": 48,
@@ -2323,14 +2395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169248,
-      "num": 611857,
-      "word": "加特林",
-      "onboard_time": 1674313617,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 167421,
       "num": 167421,
       "word": "勇士23记三分",
@@ -2913,6 +2977,14 @@
       "onboard_time": 1674221550,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67542,
+      "num": 389732,
+      "word": "爸爸花3小时给女儿做本命年美甲",
+      "onboard_time": 1674315115,
+      "rank": 47,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 57556,

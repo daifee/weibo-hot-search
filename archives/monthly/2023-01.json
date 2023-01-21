@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674314242266,
+  "endTime": 1674315222640,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 5270566,
+      "num": 5270566,
+      "word": "秦岚嗓子",
+      "onboard_time": 1674314398,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 5149861,
       "num": 536128,
       "word": "正佳",
@@ -281,6 +289,14 @@
       "onboard_time": 1673500476,
       "rank": 10,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 4305456,
+      "num": 4305456,
+      "word": "秦岚亲孙涛",
+      "onboard_time": 1674314278,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 3963034,
@@ -379,6 +395,22 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 3535008,
+      "num": 3535008,
+      "word": "坑",
+      "onboard_time": 1674314932,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3502112,
+      "num": 3502112,
+      "word": "镜头扫到秦岚好美",
+      "onboard_time": 1674306886,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3498294,
       "num": 3498294,
       "word": "21岁网红庄慕卿车祸身亡",
@@ -467,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3299573,
-      "num": 3299573,
-      "word": "镜头扫到秦岚好美",
-      "onboard_time": 1674306886,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 3290860,
       "num": 1026315,
       "word": "张艺兴 压轴",
@@ -561,6 +585,14 @@
       "onboard_time": 1673439099,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3080772,
+      "num": 3080772,
+      "word": "穿皮衣不告诉吴磊",
+      "onboard_time": 1674314217,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 3077266,
@@ -2283,14 +2315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1641283,
-      "num": 1641283,
-      "word": "穿皮衣不告诉吴磊",
-      "onboard_time": 1674314217,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1638641,
       "num": 1638641,
       "word": "我国出生人口下降三大因素",
@@ -3889,6 +3913,14 @@
       "onboard_time": 1672631249,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1231212,
+      "num": 1231212,
+      "word": "沈马组合yyds",
+      "onboard_time": 1674314932,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1231085,
@@ -7291,6 +7323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 855568,
+      "num": 509745,
+      "word": "阿云嘎好帅",
+      "onboard_time": 1674314639,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 854853,
       "num": 405159,
       "word": "腾讯拟提前退租15层楼",
@@ -8033,6 +8073,14 @@
       "onboard_time": 1674054269,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 808004,
+      "num": 469292,
+      "word": "脱口秀一整年的素材",
+      "onboard_time": 1674314456,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 807322,
@@ -12331,6 +12379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 591041,
+      "num": 611857,
+      "word": "加特林",
+      "onboard_time": 1674313617,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 590917,
       "num": 590917,
       "word": "妻子吐槽老公在病房和女患者嗨聊",
@@ -16451,6 +16507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 475032,
+      "num": 475032,
+      "word": "未来我来 四个帅哥",
+      "onboard_time": 1674314695,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474645,
       "num": 474645,
       "word": "Faker认为LCK整体比LPL强",
@@ -19537,6 +19601,14 @@
       "onboard_time": 1673678305,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404957,
+      "num": 404957,
+      "word": "开心麻花 牛",
+      "onboard_time": 1674314695,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 404865,
@@ -29460,7 +29532,7 @@
     },
     {
       "raw_hot": 275511,
-      "num": 1874203,
+      "num": 2907358,
       "word": "杀猪女屠夫月入3万买房买奔驰",
       "onboard_time": 1674309898,
       "rank": 48,
@@ -41995,14 +42067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169248,
-      "num": 611857,
-      "word": "加特林",
-      "onboard_time": 1674313617,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 169221,
       "num": 169221,
       "word": "王栎鑫 我不选大美女难道选苏醒吗",
@@ -52161,6 +52225,14 @@
       "onboard_time": 1673246248,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67542,
+      "num": 389732,
+      "word": "爸爸花3小时给女儿做本命年美甲",
+      "onboard_time": 1674315115,
+      "rank": 47,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 67192,
