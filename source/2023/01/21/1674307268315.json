@@ -1,0 +1,410 @@
+{
+  "runTime": 1674307268315,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13473900,
+        "num": 13473900,
+        "word": "邓超笑死我了",
+        "onboard_time": 1674305152,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8522018,
+        "num": 8522018,
+        "word": "岳云鹏变烧鸡",
+        "onboard_time": 1674304469,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14001,
+        "num": 5878400,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674279563,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 8190457,
+        "num": 8190457,
+        "word": "春晚舞台",
+        "onboard_time": 1674303522,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7238955,
+        "num": 7238955,
+        "word": "春晚",
+        "onboard_time": 1674299907,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5875774,
+        "num": 5875774,
+        "word": "张若昀好帅",
+        "onboard_time": 1674303762,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3209048,
+        "num": 3209048,
+        "word": "宋祖儿宋轶好美",
+        "onboard_time": 1674305818,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2827091,
+        "num": 2827091,
+        "word": "春晚节目单",
+        "onboard_time": 1674211107,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2421267,
+        "num": 2421267,
+        "word": "微博红包",
+        "onboard_time": 1674305334,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 979920,
+        "num": 2162953,
+        "word": "红包封面",
+        "onboard_time": 1674294084,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2465648,
+        "num": 2162913,
+        "word": "动如脱兔的邓超",
+        "onboard_time": 1674304933,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2162678,
+        "num": 2162678,
+        "word": "初见照相馆 尴尬",
+        "onboard_time": 1674306470,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2066075,
+        "num": 2066075,
+        "word": "赵丽颖真可爱",
+        "onboard_time": 1674303287,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1910801,
+        "num": 1910801,
+        "word": "孙越的捧哏不如一只烧鸡",
+        "onboard_time": 1674304469,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322866,
+        "num": 1393383,
+        "word": "春晚镜头下的女明星",
+        "onboard_time": 1674306772,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1062629,
+        "num": 1062629,
+        "word": "红包",
+        "onboard_time": 1674297987,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 571513,
+        "num": 571513,
+        "word": "烟花",
+        "onboard_time": 1674296486,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535863,
+        "num": 535863,
+        "word": "新年祝福语",
+        "onboard_time": 1674292046,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 469335,
+        "num": 469335,
+        "word": "过年文案",
+        "onboard_time": 1674283943,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 459948,
+        "num": 459948,
+        "word": "兔年第一只小兔子",
+        "onboard_time": 1674301110,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1851017,
+        "num": 455034,
+        "word": "陈哲远发红包",
+        "onboard_time": 1674302252,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1539505,
+        "num": 452407,
+        "word": "岳云鹏 老梗",
+        "onboard_time": 1674304339,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1369141,
+        "num": 446264,
+        "word": "邓超还是这么激动",
+        "onboard_time": 1674304804,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1306609,
+        "num": 441990,
+        "word": "初见照相馆 初见民政局",
+        "onboard_time": 1674306470,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242033,
+        "num": 434026,
+        "word": "利物浦vs切尔西",
+        "onboard_time": 1674301409,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237980,
+        "num": 431513,
+        "word": "女生起床收到20条除夕群发祝福",
+        "onboard_time": 1674297024,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1264361,
+        "num": 423693,
+        "word": "孙茜 吵",
+        "onboard_time": 1674306590,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1184574,
+        "num": 417595,
+        "word": "毛不易摸兔子",
+        "onboard_time": 1674306772,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225751,
+        "num": 414002,
+        "word": "故宫吉祥兔文物",
+        "onboard_time": 1674303998,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 193240,
+        "num": 407910,
+        "word": "康辉郑丽拜年",
+        "onboard_time": 1674302731,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131065,
+        "num": 403670,
+        "word": "张若昀吃烧鸡的样子很帅",
+        "onboard_time": 1674304511,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1119859,
+        "num": 394629,
+        "word": "王俊凯王源易烊千玺TF家族官网新春VCR",
+        "onboard_time": 1674300629,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1042090,
+        "num": 389962,
+        "word": "岳云鹏严重超时导致春晚演到大年初二",
+        "onboard_time": 1674305050,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1019317,
+        "num": 382261,
+        "word": "马凡舒漂亮",
+        "onboard_time": 1674303583,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 996942,
+        "num": 379653,
+        "word": "春晚观众不戴口罩了",
+        "onboard_time": 1674305334,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 868556,
+        "num": 371425,
+        "word": "杨紫C位",
+        "onboard_time": 1674304072,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370942,
+        "num": 370942,
+        "word": "过年表情包",
+        "onboard_time": 1674294565,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269145,
+        "num": 370855,
+        "word": "拜年短信",
+        "onboard_time": 1674295046,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182802,
+        "num": 370791,
+        "word": "爷奶给12个孙子女发红包每人5000多",
+        "onboard_time": 1674289823,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1619939,
+        "num": 370718,
+        "word": "新年快乐",
+        "onboard_time": 1674306002,
+        "rank": 39,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 850361,
+        "num": 370625,
+        "word": "镜头扫到秦岚好美",
+        "onboard_time": 1674306886,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 801542,
+        "num": 370528,
+        "word": "春晚直播",
+        "onboard_time": 1674301048,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 781779,
+        "num": 370444,
+        "word": "谭维维 大气",
+        "onboard_time": 1674306829,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 767845,
+        "num": 370345,
+        "word": "撒贝宁眼妆",
+        "onboard_time": 1674306413,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593674,
+        "num": 370209,
+        "word": "张小斐兔耳朵毛衣",
+        "onboard_time": 1674303165,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 581886,
+        "num": 370181,
+        "word": "白敬亭2022年终总结",
+        "onboard_time": 1674304339,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247622,
+        "num": 370103,
+        "word": "兔子",
+        "onboard_time": 1674280763,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220044,
+        "num": 369973,
+        "word": "福兔",
+        "onboard_time": 1674304867,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172172,
+        "num": 369928,
+        "word": "女子过年赖床不起爸爸情绪逐渐失控",
+        "onboard_time": 1674290724,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164033,
+        "num": 369757,
+        "word": "日本驻华大使馆签证业务已恢复正常",
+        "onboard_time": 1674294084,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#回家的路#"
+    }
+  }
+}
