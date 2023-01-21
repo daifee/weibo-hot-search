@@ -1,6 +1,6 @@
 {
   "startTime": 1674318242996,
-  "endTime": 1674321316041,
+  "endTime": 1674322417109,
   "band_list": [
     {
       "raw_hot": 9908054,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690892,
+      "num": 690892,
+      "word": "岳云鹏严重超时导致春晚演到大年初二",
+      "onboard_time": 1674305050,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 682605,
       "num": 788954,
       "word": "陈哲远发红包",
@@ -467,6 +475,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229826,
+      "num": 567440,
+      "word": "女子花20元买创意春联拼2小时",
+      "onboard_time": 1674316671,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216003,
+      "num": 411366,
+      "word": "大英博物馆庆祝韩国春节被骂到删帖",
+      "onboard_time": 1674321036,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214463,
+      "num": 194756,
+      "word": "杨紫红色大衣",
+      "onboard_time": 1674309672,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213585,
       "num": 736479,
       "word": "万茜观众席镜头",
@@ -475,10 +507,26 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212559,
+      "num": 503547,
+      "word": "重庆新年氛围感拉满",
+      "onboard_time": 1674319067,
+      "rank": 39,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 205723,
       "num": 741731,
       "word": "尼格买提胸针",
       "onboard_time": 1674317865,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194991,
+      "num": 194991,
+      "word": "青春向太阳",
+      "onboard_time": 1674321929,
       "rank": 42,
       "category": "综艺"
     },
@@ -497,22 +545,6 @@
       "onboard_time": 1674307313,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174083,
-      "num": 503547,
-      "word": "重庆新年氛围感拉满",
-      "onboard_time": 1674319067,
-      "rank": 39,
-      "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 173653,
-      "num": 567440,
-      "word": "女子花20元买创意春联拼2小时",
-      "onboard_time": 1674316671,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138005,
@@ -563,12 +595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81130,
-      "num": 411366,
-      "word": "大英博物馆庆祝韩国春节被骂到删帖",
-      "onboard_time": 1674321036,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 88812,
+      "num": 194786,
+      "word": "让红包飞",
+      "onboard_time": 1674321696,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 65420,
