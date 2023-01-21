@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674322417109,
+  "endTime": 1674325257022,
   "band_list": [
     {
       "raw_hot": 13632162,
@@ -1212,7 +1212,7 @@
     },
     {
       "raw_hot": 1374243,
-      "num": 690892,
+      "num": 1285963,
       "word": "岳云鹏严重超时导致春晚演到大年初二",
       "onboard_time": 1674305050,
       "rank": 31,
@@ -2361,6 +2361,14 @@
       "onboard_time": 1674307626,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 864146,
+      "num": 864146,
+      "word": "大英博物馆庆祝韩国春节被骂到删帖",
+      "onboard_time": 1674321036,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 863160,
@@ -3633,6 +3641,14 @@
       "onboard_time": 1674085461,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 627032,
+      "num": 595728,
+      "word": "孙俪说就不能给邓超近镜",
+      "onboard_time": 1674319723,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 626914,
@@ -6699,6 +6715,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 355863,
+      "num": 428003,
+      "word": "不是我要等的王凯",
+      "onboard_time": 1674320856,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355695,
       "num": 339601,
       "word": "西藏一隧道出口雪崩已致8人遇难",
@@ -7555,6 +7579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319432,
+      "num": 319432,
+      "word": "赵丽颖唱了42个颜色名",
+      "onboard_time": 1674323903,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319188,
       "num": 319188,
       "word": "看狂飙 好想吃肠粉",
@@ -7929,6 +7961,14 @@
       "onboard_time": 1674047430,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 302528,
+      "num": 302528,
+      "word": "王勉reaction",
+      "onboard_time": 1674324321,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 302178,
@@ -9699,14 +9739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 247042,
-      "num": 428003,
-      "word": "不是我要等的王凯",
-      "onboard_time": 1674320856,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246948,
       "num": 246948,
       "word": "TheShy宁王握手",
@@ -10617,14 +10649,6 @@
       "onboard_time": 1674190586,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 216003,
-      "num": 411366,
-      "word": "大英博物馆庆祝韩国春节被骂到删帖",
-      "onboard_time": 1674321036,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215781,
@@ -16057,6 +16081,14 @@
       "onboard_time": 1673824457,
       "rank": 44,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 43564,
+      "num": 272395,
+      "word": "妈妈的心里话你听懂了吗",
+      "onboard_time": 1674324981,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38773,
