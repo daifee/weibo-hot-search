@@ -1,0 +1,410 @@
+{
+  "runTime": 1674286384689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1134875,
+        "num": 1134875,
+        "word": "沈腾 是吧",
+        "onboard_time": 1674278724,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 856885,
+        "num": 856885,
+        "word": "兔子",
+        "onboard_time": 1674280763,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38334,
+        "num": 569182,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674279563,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 460938,
+        "num": 460938,
+        "word": "赵丽颖写的财源滚滚",
+        "onboard_time": 1674285443,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456570,
+        "num": 456570,
+        "word": "亲戚串门时还在睡的我",
+        "onboard_time": 1674282322,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 434304,
+        "num": 434304,
+        "word": "超前的审美 简直是降维打击",
+        "onboard_time": 1674278662,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411883,
+        "num": 411883,
+        "word": "春节档3部影片预售票房破亿",
+        "onboard_time": 1674282322,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349638,
+        "num": 349638,
+        "word": "明天起就要辛苦你啦小兔子",
+        "onboard_time": 1674278603,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270975,
+        "num": 347462,
+        "word": "动物园虎兔交接仪式兔子险成年夜饭",
+        "onboard_time": 1674272844,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169072,
+        "num": 344897,
+        "word": "湖人终结灰熊11连胜",
+        "onboard_time": 1674281302,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2132716,
+        "num": 340931,
+        "word": "Danielle道歉",
+        "onboard_time": 1674283524,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 959323,
+        "num": 336058,
+        "word": "肖战是不怕冷的南方人",
+        "onboard_time": 1674284904,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332473,
+        "num": 332473,
+        "word": "杨紫兔年春晚造型",
+        "onboard_time": 1674284364,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283158,
+        "num": 283158,
+        "word": "女孩走亲戚被催婚全程蒙头捂耳",
+        "onboard_time": 1674267502,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292523,
+        "num": 282363,
+        "word": "步音楼怀孕",
+        "onboard_time": 1674271404,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280534,
+        "num": 280534,
+        "word": "泰国警察全程接机中国游客",
+        "onboard_time": 1674273625,
+        "rank": 15,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 280160,
+        "num": 280160,
+        "word": "女子回娘家过年24人睡一屋",
+        "onboard_time": 1674267082,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277436,
+        "num": 277436,
+        "word": "杨迪粉发",
+        "onboard_time": 1674276322,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275768,
+        "num": 275768,
+        "word": "易烊千玺被彩带吓到的反应",
+        "onboard_time": 1674276261,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204452,
+        "num": 266511,
+        "word": "姜广涛",
+        "onboard_time": 1674264322,
+        "rank": 19,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 726604,
+        "num": 266446,
+        "word": "李谷一回应缺席春晚",
+        "onboard_time": 1674269662,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266218,
+        "num": 266218,
+        "word": "毛不易说春晚曾是他难以企及的舞台",
+        "onboard_time": 1674285083,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252650,
+        "num": 252650,
+        "word": "你好星期六好6团全员写福字拜年",
+        "onboard_time": 1674284244,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189584,
+        "num": 252232,
+        "word": "妈妈用万元韩币换女儿一沓百元大钞",
+        "onboard_time": 1674271883,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252124,
+        "num": 252124,
+        "word": "汪苏泷徐志胜聊天被春晚听到了",
+        "onboard_time": 1674285684,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237254,
+        "num": 237254,
+        "word": "张艺兴把小小大爱唱给回家的你",
+        "onboard_time": 1674284783,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170668,
+        "num": 170668,
+        "word": "过年文案",
+        "onboard_time": 1674283943,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163430,
+        "num": 163430,
+        "word": "男童捉迷藏躲集装箱意外被送出国",
+        "onboard_time": 1674270443,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162554,
+        "num": 162554,
+        "word": "烟花不是只属于夜晚的",
+        "onboard_time": 1674285023,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157567,
+        "num": 157567,
+        "word": "除夕文案",
+        "onboard_time": 1674264443,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226920,
+        "num": 153639,
+        "word": "迪丽热巴抱兔子花絮视频",
+        "onboard_time": 1674281064,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215138,
+        "num": 152916,
+        "word": "赵丽颖国风墨竹白色长裙",
+        "onboard_time": 1674279263,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214258,
+        "num": 151331,
+        "word": "秦海璐兔年春晚穿了一身紫",
+        "onboard_time": 1674282023,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148865,
+        "num": 148865,
+        "word": "对联怎么区分上下联",
+        "onboard_time": 1674285263,
+        "rank": 33,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 209807,
+        "num": 144462,
+        "word": "辽视春晚观众席 兵马俑",
+        "onboard_time": 1674275425,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197942,
+        "num": 133438,
+        "word": "田小娟 广告",
+        "onboard_time": 1674286284,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118963,
+        "num": 118963,
+        "word": "提前还贷究竟可以省多少钱",
+        "onboard_time": 1674263843,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 117284,
+        "num": 117284,
+        "word": "谁教你这么贴对联的",
+        "onboard_time": 1674274342,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107182,
+        "num": 107182,
+        "word": "兔年祝福",
+        "onboard_time": 1674266902,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98925,
+        "num": 98925,
+        "word": "除夕",
+        "onboard_time": 1674256395,
+        "rank": 39,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 192182,
+        "num": 98621,
+        "word": "张杰说基本上是家里吃完了我再吃",
+        "onboard_time": 1674275244,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175850,
+        "num": 97674,
+        "word": "万茜兔年春晚造型从头红到脚",
+        "onboard_time": 1674284783,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171226,
+        "num": 97366,
+        "word": "鞠婧祎的2022年终总结",
+        "onboard_time": 1674282863,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96512,
+        "num": 96512,
+        "word": "我家年夜饭申请参赛",
+        "onboard_time": 1674281843,
+        "rank": 43,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 163415,
+        "num": 94292,
+        "word": "春节档电影",
+        "onboard_time": 1674285684,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161244,
+        "num": 93138,
+        "word": "田震宋亚轩时隔7年再同框",
+        "onboard_time": 1674272243,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159618,
+        "num": 92260,
+        "word": "清澈脆亮的少年眼睛的单眼皮演员 张译",
+        "onboard_time": 1674283223,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89093,
+        "num": 89093,
+        "word": "过年一定要去男方家吗",
+        "onboard_time": 1674258739,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87127,
+        "num": 87127,
+        "word": "兔年文案",
+        "onboard_time": 1674276445,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83182,
+        "num": 83182,
+        "word": "施罗德准绝杀",
+        "onboard_time": 1674282744,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们要靠实干开创更加美好的未来#"
+    }
+  }
+}
