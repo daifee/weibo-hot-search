@@ -1,6 +1,6 @@
 {
   "startTime": 1674318242996,
-  "endTime": 1674339384355,
+  "endTime": 1674340392085,
   "band_list": [
     {
       "raw_hot": 9908054,
@@ -683,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104270,
+      "num": 104270,
+      "word": "脱口秀一整年的素材",
+      "onboard_time": 1674314456,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99421,
       "num": 296388,
       "word": "女生起床收到20条除夕群发祝福",
@@ -705,14 +713,6 @@
       "onboard_time": 1674321696,
       "rank": 46,
       "category": "科技"
-    },
-    {
-      "raw_hot": 82138,
-      "num": 82138,
-      "word": "脱口秀一整年的素材",
-      "onboard_time": 1674314456,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 80342,
