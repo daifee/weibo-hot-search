@@ -1,6 +1,6 @@
 {
   "startTime": 1674231983947,
-  "endTime": 1674293607668,
+  "endTime": 1674296284235,
   "band_list": [
     {
       "raw_hot": 2803275,
@@ -43,7 +43,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1179419,
+      "raw_hot": 1285374,
       "num": 1179419,
       "word": "女子杀猪14年被指虐待动物",
       "onboard_time": 1674291084,
@@ -131,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 948247,
+      "num": 948247,
+      "word": "女子过年赖床不起爸爸情绪逐渐失控",
+      "onboard_time": 1674290724,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 908214,
       "num": 908214,
       "word": "易烊千玺被彩带吓到的反应",
@@ -176,6 +184,14 @@
       "word": "春晚没有贾玲张小斐",
       "onboard_time": 1674213510,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 789709,
+      "num": 789709,
+      "word": "春晚几点",
+      "onboard_time": 1674295287,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -243,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 690625,
+      "num": 690625,
+      "word": "肖战说要捍卫中国乒乓的荣耀与光荣",
+      "onboard_time": 1674295706,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 676401,
       "num": 472348,
       "word": "肖战除夕雪景随拍",
@@ -257,14 +281,6 @@
       "onboard_time": 1674259880,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 623158,
-      "num": 623158,
-      "word": "女子过年赖床不起爸爸情绪逐渐失控",
-      "onboard_time": 1674290724,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 590791,
@@ -337,6 +353,14 @@
       "onboard_time": 1674272243,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 541402,
+      "num": 541402,
+      "word": "红包封面",
+      "onboard_time": 1674294084,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 528007,
@@ -451,12 +475,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 426324,
+      "num": 426324,
+      "word": "过年文案",
+      "onboard_time": 1674283943,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 419936,
       "num": 415810,
       "word": "西藏林芝派墨公路雪崩已致28人遇难",
       "onboard_time": 1674228868,
       "rank": 13,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 416219,
+      "num": 416219,
+      "word": "女子25元买福字兔子下面印着虎",
+      "onboard_time": 1674293305,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414890,
@@ -491,6 +531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 397472,
+      "num": 397472,
+      "word": "拜年短信",
+      "onboard_time": 1674295046,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 385400,
       "num": 385400,
       "word": "吴磊说本命年能参加春晚是个好兆头",
@@ -513,6 +561,22 @@
       "onboard_time": 1674259339,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 381254,
+      "num": 381254,
+      "word": "如何看待明星都想上春晚",
+      "onboard_time": 1674292885,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 370846,
+      "num": 370846,
+      "word": "秦岚春晚开场人鱼姬造型",
+      "onboard_time": 1674294986,
+      "rank": 16,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 370038,
@@ -545,6 +609,14 @@
       "onboard_time": 1674281064,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345525,
+      "num": 345525,
+      "word": "日本驻华大使馆签证业务已恢复正常",
+      "onboard_time": 1674294084,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336972,
@@ -692,7 +764,7 @@
     },
     {
       "raw_hot": 292237,
-      "num": 203591,
+      "num": 252155,
       "word": "周深说今年春晚歌曲演唱是个很大挑战",
       "onboard_time": 1674291626,
       "rank": 23,
@@ -811,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255049,
+      "num": 255049,
+      "word": "过年表情包",
+      "onboard_time": 1674294565,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 252124,
       "num": 252124,
       "word": "汪苏泷徐志胜聊天被春晚听到了",
@@ -833,6 +913,14 @@
       "onboard_time": 1674238515,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 245474,
+      "num": 245474,
+      "word": "如何评价女性不能上桌吃饭",
+      "onboard_time": 1674293904,
+      "rank": 25,
+      "category": "社会议题"
     },
     {
       "raw_hot": 245064,
@@ -883,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227716,
+      "num": 227716,
+      "word": "除夕夜",
+      "onboard_time": 1674294684,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225458,
       "num": 190008,
       "word": "浮图缘全员缘满收官",
@@ -923,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219768,
-      "num": 219768,
-      "word": "过年文案",
-      "onboard_time": 1674283943,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 219357,
       "num": 219357,
       "word": "Doinb刘青松组排直播",
@@ -945,6 +1033,14 @@
       "onboard_time": 1674230905,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218517,
+      "num": 218517,
+      "word": "原来这就是爸爸过年的仪式感",
+      "onboard_time": 1674293004,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 218504,
@@ -1059,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200153,
+      "num": 200153,
+      "word": "KPL选手年夜饭的仪式感",
+      "onboard_time": 1674294806,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200060,
       "num": 160085,
       "word": "是我知道的那个吴彤吗",
@@ -1089,6 +1193,14 @@
       "onboard_time": 1674259519,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195468,
+      "num": 195468,
+      "word": "杨幂祝大家阖家美满大展宏兔",
+      "onboard_time": 1674295525,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 194833,
@@ -1187,6 +1299,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 184003,
+      "num": 184003,
+      "word": "三体 脱水浸泡",
+      "onboard_time": 1674295586,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182610,
       "num": 182610,
       "word": "除夕快乐",
@@ -1267,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175456,
+      "num": 175456,
+      "word": "魏晨透露未来我来唱各行各业",
+      "onboard_time": 1674295886,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170920,
       "num": 129601,
       "word": "辽视春晚的小品",
@@ -1289,14 +1417,6 @@
       "onboard_time": 1674232524,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167609,
-      "num": 130883,
-      "word": "如何看待明星都想上春晚",
-      "onboard_time": 1674292885,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 167421,
@@ -1499,14 +1619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142812,
-      "num": 142812,
-      "word": "原来这就是爸爸过年的仪式感",
-      "onboard_time": 1674293004,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 141902,
       "num": 120778,
       "word": "兔年春晚节目海报",
@@ -1587,6 +1699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130481,
+      "num": 130481,
+      "word": "兔年图片",
+      "onboard_time": 1674295646,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130038,
       "num": 130038,
       "word": "为什么除夕要吃年夜饭",
@@ -1627,6 +1747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119191,
+      "num": 119191,
+      "word": "朱一龙2022年终总结",
+      "onboard_time": 1674295046,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115607,
       "num": 113468,
       "word": "沈腾春晚新作一口气排练十五遍",
@@ -1657,14 +1785,6 @@
       "onboard_time": 1674271823,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113357,
-      "num": 113357,
-      "word": "女子25元买福字兔子下面印着虎",
-      "onboard_time": 1674293305,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112946,
@@ -1721,6 +1841,14 @@
       "onboard_time": 1674243193,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 105461,
+      "num": 105461,
+      "word": "年夜饭文案",
+      "onboard_time": 1674293666,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 102554,
