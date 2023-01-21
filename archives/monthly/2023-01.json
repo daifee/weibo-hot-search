@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674326095563,
+  "endTime": 1674328422972,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -30625,6 +30625,14 @@
       "onboard_time": 1673738596,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 268310,
+      "num": 268310,
+      "word": "这首歌是写给冯禧的吗",
+      "onboard_time": 1674324861,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 268263,

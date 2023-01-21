@@ -1,6 +1,6 @@
 {
   "startTime": 1674318242996,
-  "endTime": 1674326095563,
+  "endTime": 1674328422972,
   "band_list": [
     {
       "raw_hot": 9908054,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268310,
+      "num": 268310,
+      "word": "这首歌是写给冯禧的吗",
+      "onboard_time": 1674324861,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253978,
       "num": 509676,
       "word": "兔子",
@@ -689,6 +697,14 @@
       "onboard_time": 1674320200,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60499,
+      "num": 132013,
+      "word": "岳云鹏变烧鸡",
+      "onboard_time": 1674304469,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 43564,
