@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/21 07:33:36
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/21 09:35:24
 </p>
 </blockquote>
 <p>
@@ -3297,6 +3297,12 @@ never 讨厌没有边界感的帅哥（热度：1159976）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%88%E5%88%B0%E4%BA%86%E6%BD%AE%E6%B1%95%E4%BA%BA%E6%9C%80%E5%AE%B3%E6%80%95%E7%9A%84%E7%8E%AF%E8%8A%82%23" target="weibo">
+又到了潮汕人最害怕的环节（热度：1076975）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%8B%E6%84%8F%E5%AF%B9%E8%B1%A1%E8%B0%88%E8%BF%87%E5%BE%88%E4%B9%85%E7%9A%84%E5%89%8D%E4%BB%BB%E5%90%97%23" target="weibo">
 你介意对象谈过很久的前任吗（热度：1076349）
 </a>
@@ -6005,12 +6011,6 @@ WBG战胜TES（热度：766734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%BD%A9%E7%A5%A8%E5%A4%B4%E5%A5%96%E5%BC%80%E5%87%BA13.5%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
 美国一彩票头奖开出13.5亿美元（热度：758038）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%A6%96%E9%83%A8%E7%8E%B0%E4%BB%A3%E5%89%A7%E4%BB%8A%E6%99%9A%E8%A7%81%23" target="weibo">
-刘亦菲首部现代剧今晚见（热度：757644）
 </a>
 </li>
 
