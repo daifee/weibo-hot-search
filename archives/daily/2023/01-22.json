@@ -1,6 +1,6 @@
 {
   "startTime": 1674318242996,
-  "endTime": 1674328422972,
+  "endTime": 1674329604177,
   "band_list": [
     {
       "raw_hot": 9908054,
@@ -491,8 +491,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268310,
-      "num": 268310,
+      "raw_hot": 269421,
+      "num": 269421,
       "word": "这首歌是写给冯禧的吗",
       "onboard_time": 1674324861,
       "rank": 12,
@@ -595,6 +595,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 187157,
+      "num": 234086,
+      "word": "兔年第一条微博",
+      "onboard_time": 1674329172,
+      "rank": 9,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 181991,
       "num": 739719,
       "word": "谢谢毛不易",
@@ -675,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91695,
+      "num": 91695,
+      "word": "杨紫C位",
+      "onboard_time": 1674304072,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88812,
       "num": 194786,
       "word": "让红包飞",
@@ -707,12 +723,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54944,
+      "num": 91261,
+      "word": "黄绮珊 歌唱最佳",
+      "onboard_time": 1674326357,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43564,
       "num": 272395,
       "word": "妈妈的心里话你听懂了吗",
       "onboard_time": 1674324981,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39903,
+      "num": 90634,
+      "word": "赵文卓转身腾空回马枪",
+      "onboard_time": 1674329414,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 16332,

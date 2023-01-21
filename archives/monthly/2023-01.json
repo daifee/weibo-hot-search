@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674328422972,
+  "endTime": 1674329604177,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -30499,6 +30499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 269421,
+      "num": 269421,
+      "word": "这首歌是写给冯禧的吗",
+      "onboard_time": 1674324861,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269395,
       "num": 269395,
       "word": "Gemini年度十大主播",
@@ -30625,14 +30633,6 @@
       "onboard_time": 1673738596,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 268310,
-      "num": 268310,
-      "word": "这首歌是写给冯禧的吗",
-      "onboard_time": 1674324861,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 268263,
@@ -39625,6 +39625,14 @@
       "onboard_time": 1674021686,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187157,
+      "num": 234086,
+      "word": "兔年第一条微博",
+      "onboard_time": 1674329172,
+      "rank": 9,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 187114,
@@ -52803,6 +52811,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 54944,
+      "num": 91261,
+      "word": "黄绮珊 歌唱最佳",
+      "onboard_time": 1674326357,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54908,
       "num": 54908,
       "word": "红军穿单衣草鞋爬雪山脚上都是血口",
@@ -53113,6 +53129,14 @@
       "onboard_time": 1672731209,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 39903,
+      "num": 90634,
+      "word": "赵文卓转身腾空回马枪",
+      "onboard_time": 1674329414,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 39529,
