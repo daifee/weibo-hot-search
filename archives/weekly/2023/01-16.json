@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674278180202,
+  "endTime": 1674279190637,
   "band_list": [
     {
       "raw_hot": 9337684,
@@ -1051,20 +1051,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1065266,
+      "num": 712551,
+      "word": "杨迪粉发",
+      "onboard_time": 1674276322,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1064648,
       "num": 1064648,
       "word": "王一博张婧仪电影无名对手戏",
       "onboard_time": 1674185125,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1055680,
-      "num": 712551,
-      "word": "杨迪粉发",
-      "onboard_time": 1674276322,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 1051104,
@@ -1292,7 +1292,7 @@
     },
     {
       "raw_hot": 963931,
-      "num": 324309,
+      "num": 385144,
       "word": "女孩走亲戚被催婚全程蒙头捂耳",
       "onboard_time": 1674267502,
       "rank": 11,
@@ -1529,6 +1529,14 @@
       "onboard_time": 1674190046,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 874147,
+      "num": 874147,
+      "word": "泰国警察全程接机中国游客",
+      "onboard_time": 1674273625,
+      "rank": 14,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 872831,
@@ -1801,14 +1809,6 @@
       "onboard_time": 1673913324,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 809525,
-      "num": 809525,
-      "word": "泰国警察全程接机中国游客",
-      "onboard_time": 1674273625,
-      "rank": 14,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 808024,
@@ -2172,7 +2172,7 @@
     },
     {
       "raw_hot": 716840,
-      "num": 320206,
+      "num": 344692,
       "word": "女子回娘家过年24人睡一屋",
       "onboard_time": 1674267082,
       "rank": 10,
@@ -3395,6 +3395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547563,
+      "num": 547563,
+      "word": "辽视春晚观众席 兵马俑",
+      "onboard_time": 1674275425,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547237,
       "num": 315687,
       "word": "马旭东闫佩伦上春晚了",
@@ -3532,7 +3540,7 @@
     },
     {
       "raw_hot": 519745,
-      "num": 287987,
+      "num": 363304,
       "word": "迪丽热巴雀斑妆容",
       "onboard_time": 1674272543,
       "rank": 12,
@@ -3545,6 +3553,14 @@
       "onboard_time": 1674099147,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 519355,
+      "num": 519355,
+      "word": "张杰说基本上是家里吃完了我再吃",
+      "onboard_time": 1674275244,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 519149,
@@ -4067,14 +4083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 461137,
-      "num": 461137,
-      "word": "张杰说基本上是家里吃完了我再吃",
-      "onboard_time": 1674275244,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 460566,
       "num": 460566,
       "word": "浙江省考",
@@ -4265,14 +4273,6 @@
       "onboard_time": 1673954190,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 447723,
-      "num": 282244,
-      "word": "辽视春晚观众席 兵马俑",
-      "onboard_time": 1674275425,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 447707,
@@ -4713,6 +4713,14 @@
       "onboard_time": 1674015688,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 403306,
+      "num": 403306,
+      "word": "谁教你这么贴对联的",
+      "onboard_time": 1674274342,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 402773,
@@ -6027,6 +6035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329955,
+      "num": 329955,
+      "word": "超前的审美 简直是降维打击",
+      "onboard_time": 1674278662,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329874,
       "num": 329874,
       "word": "无名",
@@ -6755,14 +6771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 297508,
-      "num": 297508,
-      "word": "谁教你这么贴对联的",
-      "onboard_time": 1674274342,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 297507,
       "num": 297507,
       "word": "NCTDREAM演唱会官宣中国香港场",
@@ -7376,6 +7384,14 @@
       "word": "肖铎的空少礼仪",
       "onboard_time": 1673921366,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 274642,
+      "num": 215856,
+      "word": "刘诗诗刘宇宁一念关山除夕海报",
+      "onboard_time": 1674277585,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -8185,14 +8201,6 @@
       "onboard_time": 1674146843,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249531,
-      "num": 193326,
-      "word": "刘诗诗刘宇宁一念关山除夕海报",
-      "onboard_time": 1674277585,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 249481,
@@ -11667,6 +11675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154056,
+      "num": 140322,
+      "word": "沈腾 是吧",
+      "onboard_time": 1674278724,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153866,
       "num": 153866,
       "word": "这狗怎么这么像法棍啊",
@@ -12145,6 +12161,14 @@
       "onboard_time": 1674126865,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142001,
+      "num": 142001,
+      "word": "明天起就要辛苦你啦小兔子",
+      "onboard_time": 1674278603,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 141902,
