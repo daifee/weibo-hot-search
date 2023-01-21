@@ -1,7 +1,15 @@
 {
   "startTime": 1674231983947,
-  "endTime": 1674269396233,
+  "endTime": 1674271179938,
   "band_list": [
+    {
+      "raw_hot": 2283394,
+      "num": 672241,
+      "word": "李谷一回应缺席春晚",
+      "onboard_time": 1674269662,
+      "rank": 1,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1348776,
       "num": 1348776,
@@ -35,8 +43,8 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 882949,
-      "num": 269660,
+      "raw_hot": 963931,
+      "num": 308124,
       "word": "女孩走亲戚被催婚全程蒙头捂耳",
       "onboard_time": 1674267502,
       "rank": 11,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 716840,
-      "num": 269796,
+      "num": 307309,
       "word": "女子回娘家过年24人睡一屋",
       "onboard_time": 1674267082,
       "rank": 10,
@@ -153,6 +161,22 @@
       "onboard_time": 1674262822,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 486090,
+      "num": 486090,
+      "word": "最适合大学生出手的年夜饭菜",
+      "onboard_time": 1674268462,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 461754,
+      "num": 461754,
+      "word": "罗云熙白鹿长月烬明除夕海报",
+      "onboard_time": 1674270502,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 433506,
@@ -243,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308241,
+      "num": 308241,
+      "word": "宋亚轩跳popping",
+      "onboard_time": 1674266902,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 304924,
       "num": 304924,
       "word": "尤文图斯11名高管被禁足",
@@ -257,6 +289,14 @@
       "onboard_time": 1674256336,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 297447,
+      "num": 297447,
+      "word": "春晚总导演如何看春晚",
+      "onboard_time": 1674268582,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 295440,
@@ -291,14 +331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 287525,
-      "num": 260172,
-      "word": "宋亚轩跳popping",
-      "onboard_time": 1674266902,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 285368,
       "num": 205012,
       "word": "姚晨说谢娜MV张杰敢不熟吗",
@@ -323,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260939,
+      "num": 260939,
+      "word": "老人忘记所有人独记得年幼丧母孙子",
+      "onboard_time": 1674269122,
+      "rank": 45,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 258614,
       "num": 201923,
       "word": "欣响事成",
@@ -337,14 +377,6 @@
       "onboard_time": 1674258317,
       "rank": 21,
       "category": "军事"
-    },
-    {
-      "raw_hot": 251281,
-      "num": 251281,
-      "word": "春晚总导演如何看春晚",
-      "onboard_time": 1674268582,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 246017,
@@ -459,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201914,
+      "num": 201914,
+      "word": "倪萍说庄达菲是客栈家族的小树芽",
+      "onboard_time": 1674269844,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200060,
       "num": 160085,
       "word": "是我知道的那个吴彤吗",
@@ -504,6 +544,14 @@
       "word": "许红豆说谢之遥主要是帅",
       "onboard_time": 1674227846,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188230,
+      "num": 188230,
+      "word": "我要逆风去",
+      "onboard_time": 1674270684,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -579,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177650,
-      "num": 177650,
-      "word": "最适合大学生出手的年夜饭菜",
-      "onboard_time": 1674268462,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 176527,
       "num": 135971,
       "word": "一起看春晚过大年",
@@ -625,6 +665,14 @@
       "onboard_time": 1674231144,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160204,
+      "num": 160204,
+      "word": "时代少年团北京春晚舞台花絮",
+      "onboard_time": 1674269061,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 159918,
@@ -683,12 +731,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146068,
-      "num": 146068,
-      "word": "时代少年团北京春晚舞台花絮",
-      "onboard_time": 1674269061,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 149415,
+      "num": 149415,
+      "word": "男童捉迷藏躲集装箱意外被送出国",
+      "onboard_time": 1674270443,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145541,
@@ -811,12 +859,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 103637,
-      "num": 103637,
-      "word": "老人忘记所有人独记得年幼丧母孙子",
-      "onboard_time": 1674269122,
-      "rank": 45,
-      "category": "社会新闻,情感"
+      "raw_hot": 105315,
+      "num": 105315,
+      "word": "李沁新春瑞雪古风大片",
+      "onboard_time": 1674271042,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 102554,
+      "num": 102554,
+      "word": "警嫂跨万里从黑龙江赴西藏团圆",
+      "onboard_time": 1674269422,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100539,
@@ -865,6 +921,14 @@
       "onboard_time": 1674213150,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87478,
+      "num": 87478,
+      "word": "许红豆双肩包式背后抱",
+      "onboard_time": 1674271162,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 84819,
