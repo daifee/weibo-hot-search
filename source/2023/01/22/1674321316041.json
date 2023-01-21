@@ -1,0 +1,410 @@
+{
+  "runTime": 1674321316041,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5908911,
+        "num": 5908911,
+        "word": "终于等到许嵩",
+        "onboard_time": 1674318647,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3279753,
+        "num": 3279753,
+        "word": "过年好",
+        "onboard_time": 1674316434,
+        "rank": 1,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 10803,
+        "num": 2641365,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674279563,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2376913,
+        "num": 2376913,
+        "word": "沈腾吃药",
+        "onboard_time": 1674311981,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1914600,
+        "num": 1914600,
+        "word": "许嵩好甜",
+        "onboard_time": 1674318647,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1909974,
+        "num": 1909974,
+        "word": "马丽 羽绒服满天飞毛",
+        "onboard_time": 1674313324,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1810596,
+        "num": 1810596,
+        "word": "阿兰的裙子快被踩掉了",
+        "onboard_time": 1674317018,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1745230,
+        "num": 1745230,
+        "word": "邓超笑死我了",
+        "onboard_time": 1674305152,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1582328,
+        "num": 1582328,
+        "word": "金靖毛衣",
+        "onboard_time": 1674319007,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1249959,
+        "num": 1563312,
+        "word": "五福开奖",
+        "onboard_time": 1674312237,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1552125,
+        "num": 1552125,
+        "word": "马丽鞋跟掉了",
+        "onboard_time": 1674312497,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1545579,
+        "num": 1545579,
+        "word": "秦岚嗓子",
+        "onboard_time": 1674314398,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1512491,
+        "num": 1512491,
+        "word": "许嵩合拍",
+        "onboard_time": 1674319365,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1502447,
+        "num": 1502447,
+        "word": "难忘今宵",
+        "onboard_time": 1674319007,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1448610,
+        "num": 1448610,
+        "word": "谢谢沈腾马丽",
+        "onboard_time": 1674313083,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1385781,
+        "num": 1385781,
+        "word": "成龙头发不duang了",
+        "onboard_time": 1674318706,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1360283,
+        "num": 1360283,
+        "word": "是谁在唱歌 for you",
+        "onboard_time": 1674309417,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1200676,
+        "num": 1200676,
+        "word": "穿皮衣不告诉吴磊",
+        "onboard_time": 1674314217,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 693716,
+        "num": 1197638,
+        "word": "微博红包",
+        "onboard_time": 1674305334,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 355504,
+        "num": 1196309,
+        "word": "烟花",
+        "onboard_time": 1674296486,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1195113,
+        "num": 1195113,
+        "word": "春晚舞台",
+        "onboard_time": 1674303522,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1059579,
+        "num": 1059579,
+        "word": "朱洁静不愧是首席",
+        "onboard_time": 1674308208,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1058996,
+        "num": 1058996,
+        "word": "坑",
+        "onboard_time": 1674314932,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1021763,
+        "num": 1021763,
+        "word": "邓超王二妮更新超市神曲",
+        "onboard_time": 1674317138,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 881342,
+        "num": 881342,
+        "word": "艾热rap",
+        "onboard_time": 1674316434,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 870374,
+        "num": 870374,
+        "word": "赵丽颖真可爱",
+        "onboard_time": 1674303287,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462954,
+        "num": 462954,
+        "word": "加特林",
+        "onboard_time": 1674313617,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272523,
+        "num": 461935,
+        "word": "兔年第一只小兔子",
+        "onboard_time": 1674301110,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174083,
+        "num": 460288,
+        "word": "重庆新年氛围感拉满",
+        "onboard_time": 1674319067,
+        "rank": 28,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 173653,
+        "num": 457377,
+        "word": "女子花20元买创意春联拼2小时",
+        "onboard_time": 1674316671,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848144,
+        "num": 453730,
+        "word": "春晚",
+        "onboard_time": 1674299907,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718363,
+        "num": 451686,
+        "word": "闫佩伦出息了",
+        "onboard_time": 1674319365,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 679099,
+        "num": 450424,
+        "word": "唐诗逸好美",
+        "onboard_time": 1674310322,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484922,
+        "num": 447302,
+        "word": "陈哲远发红包",
+        "onboard_time": 1674302252,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250068,
+        "num": 446115,
+        "word": "对视50秒",
+        "onboard_time": 1674320797,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223251,
+        "num": 442196,
+        "word": "兔年",
+        "onboard_time": 1674318647,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176070,
+        "num": 439837,
+        "word": "新年图片",
+        "onboard_time": 1674319007,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 622204,
+        "num": 437913,
+        "word": "秦岚亲孙涛",
+        "onboard_time": 1674314278,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165586,
+        "num": 435259,
+        "word": "兔子",
+        "onboard_time": 1674319127,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151067,
+        "num": 432475,
+        "word": "红包封面",
+        "onboard_time": 1674294084,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 244287,
+        "num": 431397,
+        "word": "王俊凯王源易烊千玺TF家族官网新春VCR",
+        "onboard_time": 1674300629,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247042,
+        "num": 428003,
+        "word": "不是我要等的王凯",
+        "onboard_time": 1674320856,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240773,
+        "num": 426418,
+        "word": "春晚节目单",
+        "onboard_time": 1674211107,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149335,
+        "num": 423311,
+        "word": "当神兽遇见神兽",
+        "onboard_time": 1674317805,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120603,
+        "num": 421771,
+        "word": "过年表情包",
+        "onboard_time": 1674294565,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144646,
+        "num": 419282,
+        "word": "万茜观众席镜头",
+        "onboard_time": 1674312109,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110462,
+        "num": 416241,
+        "word": "马上就会好的",
+        "onboard_time": 1674316196,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96569,
+        "num": 413699,
+        "word": "过年文案",
+        "onboard_time": 1674283943,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81130,
+        "num": 411366,
+        "word": "大英博物馆庆祝韩国春节被骂到删帖",
+        "onboard_time": 1674321036,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65420,
+        "num": 409486,
+        "word": "重庆除夕光影无人机焰火表演",
+        "onboard_time": 1674320200,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#过年#"
+    }
+  }
+}
