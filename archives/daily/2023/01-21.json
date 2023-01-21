@@ -1,6 +1,6 @@
 {
   "startTime": 1674231983947,
-  "endTime": 1674296284235,
+  "endTime": 1674297214251,
   "band_list": [
     {
       "raw_hot": 2803275,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1129476,
+      "num": 1129476,
+      "word": "春晚几点",
+      "onboard_time": 1674295287,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1076975,
       "num": 1076975,
       "word": "又到了潮汕人最害怕的环节",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1051129,
-      "num": 301483,
+      "num": 343497,
       "word": "田小娟 广告",
       "onboard_time": 1674286284,
       "rank": 35,
@@ -179,19 +187,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 843081,
+      "num": 843081,
+      "word": "拜年短信",
+      "onboard_time": 1674295046,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 826535,
       "num": 257127,
       "word": "春晚没有贾玲张小斐",
       "onboard_time": 1674213510,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 789709,
-      "num": 789709,
-      "word": "春晚几点",
-      "onboard_time": 1674295287,
-      "rank": 3,
       "category": "综艺"
     },
     {
@@ -227,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 722379,
+      "num": 722379,
+      "word": "肖战说要捍卫中国乒乓的荣耀与光荣",
+      "onboard_time": 1674295706,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 716840,
       "num": 344692,
       "word": "女子回娘家过年24人睡一屋",
@@ -257,14 +273,6 @@
       "onboard_time": 1674258739,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 690625,
-      "num": 690625,
-      "word": "肖战说要捍卫中国乒乓的荣耀与光荣",
-      "onboard_time": 1674295706,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 676401,
@@ -323,6 +331,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 554114,
+      "num": 554114,
+      "word": "红包封面",
+      "onboard_time": 1674294084,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 550308,
       "num": 550308,
       "word": "宋祖儿中国娃娃造型",
@@ -353,14 +369,6 @@
       "onboard_time": 1674272243,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 541402,
-      "num": 541402,
-      "word": "红包封面",
-      "onboard_time": 1674294084,
-      "rank": 6,
-      "category": "科技"
     },
     {
       "raw_hot": 528007,
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 497623,
+      "num": 497623,
+      "word": "秦岚春晚开场人鱼姬造型",
+      "onboard_time": 1674294986,
+      "rank": 16,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 496360,
       "num": 496360,
       "word": "鹿晗金发黑西装造型",
@@ -433,6 +449,14 @@
       "onboard_time": 1674268462,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 476427,
+      "num": 476427,
+      "word": "过年文案",
+      "onboard_time": 1674283943,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 460938,
@@ -475,12 +499,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 426324,
-      "num": 426324,
-      "word": "过年文案",
-      "onboard_time": 1674283943,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 431650,
+      "num": 431650,
+      "word": "烟花",
+      "onboard_time": 1674296486,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419936,
@@ -531,14 +555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 397472,
-      "num": 397472,
-      "word": "拜年短信",
-      "onboard_time": 1674295046,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 385400,
       "num": 385400,
       "word": "吴磊说本命年能参加春晚是个好兆头",
@@ -569,14 +585,6 @@
       "onboard_time": 1674292885,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 370846,
-      "num": 370846,
-      "word": "秦岚春晚开场人鱼姬造型",
-      "onboard_time": 1674294986,
-      "rank": 16,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 370038,
@@ -611,12 +619,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 345525,
-      "num": 345525,
+      "raw_hot": 350036,
+      "num": 350036,
       "word": "日本驻华大使馆签证业务已恢复正常",
       "onboard_time": 1674294084,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347528,
+      "num": 347528,
+      "word": "如何评价女性不能上桌吃饭",
+      "onboard_time": 1674293904,
+      "rank": 25,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 339317,
+      "num": 339317,
+      "word": "丁程鑫宋亚轩严浩翔改编男儿歌",
+      "onboard_time": 1674297084,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 336972,
@@ -707,6 +731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 298545,
+      "num": 298545,
+      "word": "新年祝福语",
+      "onboard_time": 1674292046,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 297447,
       "num": 297447,
       "word": "春晚总导演如何看春晚",
@@ -779,6 +811,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287169,
+      "num": 287169,
+      "word": "电影无名将开启路演",
+      "onboard_time": 1674296665,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 286759,
+      "num": 213287,
+      "word": "云南大理官方给去有风的地方剧组感谢信",
+      "onboard_time": 1674296906,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286204,
       "num": 286204,
       "word": "你好星期六好6团全员写福字拜年",
@@ -833,6 +881,14 @@
       "onboard_time": 1674277585,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272946,
+      "num": 216810,
+      "word": "魏晨透露未来我来唱各行各业",
+      "onboard_time": 1674295886,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 269839,
@@ -915,14 +971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245474,
-      "num": 245474,
-      "word": "如何评价女性不能上桌吃饭",
-      "onboard_time": 1674293904,
-      "rank": 25,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 245064,
       "num": 213579,
       "word": "晒出你的年夜饭",
@@ -1003,12 +1051,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222395,
-      "num": 222395,
-      "word": "新年祝福语",
-      "onboard_time": 1674292046,
-      "rank": 16,
-      "category": "情感"
+      "raw_hot": 222463,
+      "num": 209761,
+      "word": "三体 脱水浸泡",
+      "onboard_time": 1674295586,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 220310,
@@ -1107,6 +1155,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208588,
+      "num": 208588,
+      "word": "孙茜一边化妆一边吃春晚盒饭",
+      "onboard_time": 1674296906,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207628,
+      "num": 207628,
+      "word": "KPL选手年夜饭的仪式感",
+      "onboard_time": 1674294806,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206934,
       "num": 206934,
       "word": "我家年夜饭申请参赛",
@@ -1153,14 +1217,6 @@
       "onboard_time": 1674269844,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200153,
-      "num": 200153,
-      "word": "KPL选手年夜饭的仪式感",
-      "onboard_time": 1674294806,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 200060,
@@ -1299,14 +1355,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 184003,
-      "num": 184003,
-      "word": "三体 脱水浸泡",
-      "onboard_time": 1674295586,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 182610,
       "num": 182610,
       "word": "除夕快乐",
@@ -1384,14 +1432,6 @@
       "word": "万茜兔年春晚造型从头红到脚",
       "onboard_time": 1674284783,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 175456,
-      "num": 175456,
-      "word": "魏晨透露未来我来唱各行各业",
-      "onboard_time": 1674295886,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1507,6 +1547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158533,
+      "num": 181426,
+      "word": "兔年文案",
+      "onboard_time": 1674276445,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158164,
       "num": 158164,
       "word": "大学生开始对年夜饭下手了",
@@ -1521,14 +1569,6 @@
       "onboard_time": 1674291383,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 155817,
-      "num": 181426,
-      "word": "兔年文案",
-      "onboard_time": 1674276445,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 155691,
@@ -1731,6 +1771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124443,
+      "num": 124443,
+      "word": "女生起床收到20条除夕群发祝福",
+      "onboard_time": 1674297024,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123264,
       "num": 123264,
       "word": "戍边军人带孩子描红界碑",
@@ -1849,6 +1897,14 @@
       "onboard_time": 1674293666,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103655,
+      "num": 103655,
+      "word": "除夕年夜饭",
+      "onboard_time": 1674297205,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 102554,

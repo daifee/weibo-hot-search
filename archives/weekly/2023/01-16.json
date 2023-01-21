@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674296284235,
+  "endTime": 1674297214251,
   "band_list": [
     {
       "raw_hot": 9337684,
@@ -1003,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1129476,
+      "num": 1129476,
+      "word": "春晚几点",
+      "onboard_time": 1674295287,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1127613,
       "num": 1093075,
       "word": "丈夫给情人转账20万元原配成功追回",
@@ -1108,7 +1116,7 @@
     },
     {
       "raw_hot": 1051129,
-      "num": 301483,
+      "num": 343497,
       "word": "田小娟 广告",
       "onboard_time": 1674286284,
       "rank": 35,
@@ -1763,6 +1771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 843081,
+      "num": 843081,
+      "word": "拜年短信",
+      "onboard_time": 1674295046,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 838417,
       "num": 493553,
       "word": "关孙彩瑛什么事",
@@ -1929,14 +1945,6 @@
       "onboard_time": 1674004825,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 789709,
-      "num": 789709,
-      "word": "春晚几点",
-      "onboard_time": 1674295287,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 788337,
@@ -2235,6 +2243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 722379,
+      "num": 722379,
+      "word": "肖战说要捍卫中国乒乓的荣耀与光荣",
+      "onboard_time": 1674295706,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 721085,
       "num": 647532,
       "word": "GAI和严浩翔打招呼",
@@ -2473,14 +2489,6 @@
       "onboard_time": 1674170656,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 690625,
-      "num": 690625,
-      "word": "肖战说要捍卫中国乒乓的荣耀与光荣",
-      "onboard_time": 1674295706,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 686873,
@@ -3459,6 +3467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 554114,
+      "num": 554114,
+      "word": "红包封面",
+      "onboard_time": 1674191245,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 553712,
       "num": 553712,
       "word": "张婉婷说这次我顶替KK了",
@@ -3601,14 +3617,6 @@
       "onboard_time": 1673947051,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541402,
-      "num": 541402,
-      "word": "红包封面",
-      "onboard_time": 1674191245,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 537062,
@@ -3955,6 +3963,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 497623,
+      "num": 497623,
+      "word": "秦岚春晚开场人鱼姬造型",
+      "onboard_time": 1674294986,
+      "rank": 16,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 497362,
       "num": 497362,
       "word": "苏有朋首次个人身份上春晚",
@@ -4153,6 +4169,14 @@
       "onboard_time": 1674041492,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 476427,
+      "num": 476427,
+      "word": "过年文案",
+      "onboard_time": 1674283943,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 475888,
@@ -4563,6 +4587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 431650,
+      "num": 431650,
+      "word": "烟花",
+      "onboard_time": 1674136648,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431330,
       "num": 451324,
       "word": "三体 物理学不存在",
@@ -4625,14 +4657,6 @@
       "onboard_time": 1673847269,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 426324,
-      "num": 426324,
-      "word": "过年文案",
-      "onboard_time": 1674283943,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 425206,
@@ -5025,14 +5049,6 @@
       "onboard_time": 1673950949,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 397472,
-      "num": 397472,
-      "word": "拜年短信",
-      "onboard_time": 1674295046,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 397176,
@@ -5499,14 +5515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 370846,
-      "num": 370846,
-      "word": "秦岚春晚开场人鱼姬造型",
-      "onboard_time": 1674294986,
-      "rank": 16,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 370693,
       "num": 258710,
       "word": "尼泊尔飞机坠毁前或曾尝试着陆",
@@ -5851,6 +5859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350036,
+      "num": 350036,
+      "word": "日本驻华大使馆签证业务已恢复正常",
+      "onboard_time": 1674294084,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349929,
       "num": 248813,
       "word": "许红豆说谢之遥主要是帅",
@@ -5915,6 +5931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 347528,
+      "num": 347528,
+      "word": "如何评价女性不能上桌吃饭",
+      "onboard_time": 1674293904,
+      "rank": 25,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 346666,
       "num": 346666,
       "word": "蛋仔派对",
@@ -5929,14 +5953,6 @@
       "onboard_time": 1674216629,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 345525,
-      "num": 345525,
-      "word": "日本驻华大使馆签证业务已恢复正常",
-      "onboard_time": 1674294084,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345373,
@@ -6073,6 +6089,14 @@
       "onboard_time": 1673819412,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339317,
+      "num": 339317,
+      "word": "丁程鑫宋亚轩严浩翔改编男儿歌",
+      "onboard_time": 1674297084,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 338682,
@@ -7003,6 +7027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298545,
+      "num": 298545,
+      "word": "新年祝福语",
+      "onboard_time": 1674292046,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 298015,
       "num": 298015,
       "word": "龚俊说如果不做演员可能会开串串香店",
@@ -7345,6 +7377,22 @@
       "onboard_time": 1674036448,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 287169,
+      "num": 287169,
+      "word": "电影无名将开启路演",
+      "onboard_time": 1674296665,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 286759,
+      "num": 213287,
+      "word": "云南大理官方给去有风的地方剧组感谢信",
+      "onboard_time": 1674296906,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 286424,
@@ -7777,6 +7825,14 @@
       "onboard_time": 1673873610,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272946,
+      "num": 216810,
+      "word": "魏晨透露未来我来唱各行各业",
+      "onboard_time": 1674295886,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 272926,
@@ -8667,14 +8723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245474,
-      "num": 245474,
-      "word": "如何评价女性不能上桌吃饭",
-      "onboard_time": 1674293904,
-      "rank": 25,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 245064,
       "num": 213579,
       "word": "晒出你的年夜饭",
@@ -9323,12 +9371,12 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 222395,
-      "num": 222395,
-      "word": "新年祝福语",
-      "onboard_time": 1674292046,
-      "rank": 16,
-      "category": "情感"
+      "raw_hot": 222463,
+      "num": 209761,
+      "word": "三体 脱水浸泡",
+      "onboard_time": 1674295586,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 222012,
@@ -9747,6 +9795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208588,
+      "num": 208588,
+      "word": "孙茜一边化妆一边吃春晚盒饭",
+      "onboard_time": 1674296906,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208105,
       "num": 130872,
       "word": "赵丽颖百花迎春祝福VCR视频",
@@ -9769,6 +9825,14 @@
       "onboard_time": 1674083357,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207628,
+      "num": 207628,
+      "word": "KPL选手年夜饭的仪式感",
+      "onboard_time": 1674294806,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 207551,
@@ -10017,14 +10081,6 @@
       "onboard_time": 1674130889,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 200153,
-      "num": 200153,
-      "word": "KPL选手年夜饭的仪式感",
-      "onboard_time": 1674294806,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 200055,
@@ -10819,14 +10875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184003,
-      "num": 184003,
-      "word": "三体 脱水浸泡",
-      "onboard_time": 1674295586,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 183893,
       "num": 183893,
       "word": "闪耀暖暖",
@@ -11225,14 +11273,6 @@
       "onboard_time": 1674056370,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175456,
-      "num": 175456,
-      "word": "魏晨透露未来我来唱各行各业",
-      "onboard_time": 1674295886,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 175308,
@@ -12043,6 +12083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158533,
+      "num": 181426,
+      "word": "兔年文案",
+      "onboard_time": 1674276445,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158525,
       "num": 163006,
       "word": "酷狗子公司起诉羊了个羊公司侵权",
@@ -12129,14 +12177,6 @@
       "onboard_time": 1674178825,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155817,
-      "num": 181426,
-      "word": "兔年文案",
-      "onboard_time": 1674276445,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 155732,
@@ -13387,11 +13427,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 124488,
-      "num": 124488,
-      "word": "烟花",
-      "onboard_time": 1674136648,
-      "rank": 47,
+      "raw_hot": 124443,
+      "num": 124443,
+      "word": "女生起床收到20条除夕群发祝福",
+      "onboard_time": 1674297024,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -14089,6 +14129,14 @@
       "onboard_time": 1673940385,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103655,
+      "num": 103655,
+      "word": "除夕年夜饭",
+      "onboard_time": 1674297205,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 103530,
