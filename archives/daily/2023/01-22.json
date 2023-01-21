@@ -1,6 +1,6 @@
 {
   "startTime": 1674318242996,
-  "endTime": 1674333204719,
+  "endTime": 1674335698870,
   "band_list": [
     {
       "raw_hot": 9908054,
@@ -792,6 +792,14 @@
       "word": "周深一开口时光美满",
       "onboard_time": 1674323247,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17800,
+      "num": 20735,
+      "word": "苏有朋一镜到底",
+      "onboard_time": 1674328634,
+      "rank": 47,
       "category": "综艺"
     },
     {
