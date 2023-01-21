@@ -1,0 +1,410 @@
+{
+  "runTime": 1674304333984,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7344769,
+        "num": 7344769,
+        "word": "春晚",
+        "onboard_time": 1674299907,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6046048,
+        "num": 6046048,
+        "word": "张若昀好帅",
+        "onboard_time": 1674303762,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34948,
+        "num": 4771211,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674279563,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 4648140,
+        "num": 4648140,
+        "word": "春晚舞台",
+        "onboard_time": 1674303522,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4150114,
+        "num": 4150114,
+        "word": "赵丽颖真可爱",
+        "onboard_time": 1674303287,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3931871,
+        "num": 3931871,
+        "word": "陈哲远发红包",
+        "onboard_time": 1674302252,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1695830,
+        "num": 1695830,
+        "word": "红包",
+        "onboard_time": 1674297987,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 945706,
+        "num": 945706,
+        "word": "兔子",
+        "onboard_time": 1674280763,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 903811,
+        "num": 903811,
+        "word": "红包封面",
+        "onboard_time": 1674294084,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 720046,
+        "num": 867278,
+        "word": "烟花",
+        "onboard_time": 1674296486,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3450252,
+        "num": 840504,
+        "word": "春晚节目单",
+        "onboard_time": 1674211107,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2583958,
+        "num": 815133,
+        "word": "王俊凯王源易烊千玺TF家族官网新春VCR",
+        "onboard_time": 1674300629,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1922801,
+        "num": 785993,
+        "word": "央视镜头下的明星",
+        "onboard_time": 1674299606,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 750867,
+        "num": 750867,
+        "word": "过年文案",
+        "onboard_time": 1674283943,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1729943,
+        "num": 738531,
+        "word": "马凡舒漂亮",
+        "onboard_time": 1674303583,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1431563,
+        "num": 724848,
+        "word": "百鸟归巢",
+        "onboard_time": 1674303881,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576753,
+        "num": 576753,
+        "word": "新年祝福语",
+        "onboard_time": 1674292046,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 557629,
+        "num": 557629,
+        "word": "兔年第一只小兔子",
+        "onboard_time": 1674301110,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414192,
+        "num": 414192,
+        "word": "女生起床收到20条除夕群发祝福",
+        "onboard_time": 1674297024,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345236,
+        "num": 413212,
+        "word": "女子过年赖床不起爸爸情绪逐渐失控",
+        "onboard_time": 1674290724,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1251867,
+        "num": 407648,
+        "word": "赵丽颖春晚造型路透",
+        "onboard_time": 1674303287,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1240280,
+        "num": 402101,
+        "word": "春晚直播",
+        "onboard_time": 1674301048,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1033447,
+        "num": 394544,
+        "word": "孙茜一边化妆一边吃春晚盒饭",
+        "onboard_time": 1674296906,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390286,
+        "num": 390286,
+        "word": "过年表情包",
+        "onboard_time": 1674294565,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1023011,
+        "num": 388961,
+        "word": "赵丽颖欧豪春晚后台同框路透",
+        "onboard_time": 1674303583,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1000998,
+        "num": 388861,
+        "word": "花开种花家",
+        "onboard_time": 1674303466,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341517,
+        "num": 341517,
+        "word": "拜年短信",
+        "onboard_time": 1674295046,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308716,
+        "num": 308716,
+        "word": "爷奶给12个孙子女发红包每人5000多",
+        "onboard_time": 1674289823,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258835,
+        "num": 258835,
+        "word": "如何评价女性不能上桌吃饭",
+        "onboard_time": 1674293904,
+        "rank": 28,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 230235,
+        "num": 254618,
+        "word": "康辉郑丽拜年",
+        "onboard_time": 1674302731,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941592,
+        "num": 253584,
+        "word": "大张伟适合开场",
+        "onboard_time": 1674303639,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 868107,
+        "num": 246470,
+        "word": "林俊杰权志龙比耶合照",
+        "onboard_time": 1674300327,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 735021,
+        "num": 240298,
+        "word": "大张伟好喜庆",
+        "onboard_time": 1674303881,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239111,
+        "num": 239111,
+        "word": "德约科维奇",
+        "onboard_time": 1674301769,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 713393,
+        "num": 238212,
+        "word": "Danielle道歉",
+        "onboard_time": 1674283524,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688895,
+        "num": 238148,
+        "word": "六公主在播你好李焕英",
+        "onboard_time": 1674302731,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232927,
+        "num": 232927,
+        "word": "压岁钱",
+        "onboard_time": 1674300689,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217847,
+        "num": 217847,
+        "word": "利物浦vs切尔西",
+        "onboard_time": 1674301409,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198232,
+        "num": 217839,
+        "word": "除夕夜文案",
+        "onboard_time": 1674302010,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183652,
+        "num": 217826,
+        "word": "除夕夜",
+        "onboard_time": 1674294684,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 654761,
+        "num": 217809,
+        "word": "杨紫C位",
+        "onboard_time": 1674304072,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594721,
+        "num": 217792,
+        "word": "肖战说携兔队长前来拜年",
+        "onboard_time": 1674299308,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534052,
+        "num": 217792,
+        "word": "张小斐兔耳朵毛衣",
+        "onboard_time": 1674303165,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175783,
+        "num": 217776,
+        "word": "故宫吉祥兔文物",
+        "onboard_time": 1674303998,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 528283,
+        "num": 217755,
+        "word": "刘耀文分享家庭版鞭炮",
+        "onboard_time": 1674303583,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511703,
+        "num": 217749,
+        "word": "春晚押题小品",
+        "onboard_time": 1674297505,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160802,
+        "num": 217733,
+        "word": "日本驻华大使馆签证业务已恢复正常",
+        "onboard_time": 1674294084,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131924,
+        "num": 217724,
+        "word": "兔年祝福",
+        "onboard_time": 1674266902,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127785,
+        "num": 217698,
+        "word": "兔年文案",
+        "onboard_time": 1674276445,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117082,
+        "num": 217692,
+        "word": "女子25元买福字兔子下面印着虎",
+        "onboard_time": 1674293305,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#过年#"
+    }
+  }
+}
