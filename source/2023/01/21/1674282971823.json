@@ -1,0 +1,410 @@
+{
+  "runTime": 1674282971823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1010804,
+        "num": 1010804,
+        "word": "超前的审美 简直是降维打击",
+        "onboard_time": 1674278662,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 637282,
+        "num": 637282,
+        "word": "兔子",
+        "onboard_time": 1674280763,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9475,
+        "num": 583998,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674279563,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 859094,
+        "num": 583922,
+        "word": "沈腾 是吧",
+        "onboard_time": 1674278724,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651333,
+        "num": 581483,
+        "word": "杨迪粉发",
+        "onboard_time": 1674276322,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 575832,
+        "num": 575832,
+        "word": "明天起就要辛苦你啦小兔子",
+        "onboard_time": 1674278603,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 540469,
+        "num": 540469,
+        "word": "易烊千玺被彩带吓到的反应",
+        "onboard_time": 1674276261,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440012,
+        "num": 440012,
+        "word": "辽视春晚观众席 兵马俑",
+        "onboard_time": 1674275425,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362652,
+        "num": 432180,
+        "word": "动物园虎兔交接仪式兔子险成年夜饭",
+        "onboard_time": 1674272844,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336972,
+        "num": 429868,
+        "word": "湖人终结灰熊11连胜",
+        "onboard_time": 1674281302,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428556,
+        "num": 428556,
+        "word": "赵丽颖国风墨竹白色长裙",
+        "onboard_time": 1674279263,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387289,
+        "num": 387289,
+        "word": "泰国警察全程接机中国游客",
+        "onboard_time": 1674273625,
+        "rank": 11,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 6997,
+        "num": 381647,
+        "word": "春节前疫情热点十问十答",
+        "onboard_time": 1674220408,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 378688,
+        "num": 378688,
+        "word": "女孩走亲戚被催婚全程蒙头捂耳",
+        "onboard_time": 1674267502,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370137,
+        "num": 370137,
+        "word": "步音楼怀孕",
+        "onboard_time": 1674271404,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339779,
+        "num": 339779,
+        "word": "张杰说基本上是家里吃完了我再吃",
+        "onboard_time": 1674275244,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335558,
+        "num": 335558,
+        "word": "迪丽热巴抱兔子花絮视频",
+        "onboard_time": 1674281064,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288877,
+        "num": 288877,
+        "word": "女子回娘家过年24人睡一屋",
+        "onboard_time": 1674267082,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296636,
+        "num": 284018,
+        "word": "姚晨看到自己旧照片的反应",
+        "onboard_time": 1674282083,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273977,
+        "num": 273977,
+        "word": "妈妈用万元韩币换女儿一沓百元大钞",
+        "onboard_time": 1674271883,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778641,
+        "num": 271440,
+        "word": "李谷一回应缺席春晚",
+        "onboard_time": 1674269662,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267578,
+        "num": 267578,
+        "word": "鞠婧祎的2022年终总结",
+        "onboard_time": 1674282863,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255490,
+        "num": 255490,
+        "word": "姜广涛",
+        "onboard_time": 1674264322,
+        "rank": 22,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 255436,
+        "num": 255436,
+        "word": "沈腾回复网友说自己被吊打",
+        "onboard_time": 1674277344,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253385,
+        "num": 253385,
+        "word": "春节档3部影片预售票房破亿",
+        "onboard_time": 1674282322,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221734,
+        "num": 221734,
+        "word": "杨超越丁禹兮七时吉祥新春剧照",
+        "onboard_time": 1674279804,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192947,
+        "num": 192947,
+        "word": "我家年夜饭申请参赛",
+        "onboard_time": 1674281843,
+        "rank": 26,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 176425,
+        "num": 176425,
+        "word": "谁教你这么贴对联的",
+        "onboard_time": 1674274342,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171964,
+        "num": 171964,
+        "word": "提前还贷究竟可以省多少钱",
+        "onboard_time": 1674263843,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 166139,
+        "num": 166139,
+        "word": "除夕文案",
+        "onboard_time": 1674264443,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216125,
+        "num": 165943,
+        "word": "宋轶新年兔子头造型",
+        "onboard_time": 1674281784,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211409,
+        "num": 162343,
+        "word": "秦海璐兔年春晚穿了一身紫",
+        "onboard_time": 1674282023,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208293,
+        "num": 158443,
+        "word": "田震宋亚轩时隔7年再同框",
+        "onboard_time": 1674272243,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190519,
+        "num": 155971,
+        "word": "亲戚串门时还在睡的我",
+        "onboard_time": 1674282322,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155717,
+        "num": 155717,
+        "word": "男童捉迷藏躲集装箱意外被送出国",
+        "onboard_time": 1674270443,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204324,
+        "num": 150938,
+        "word": "迪丽热巴雀斑妆容",
+        "onboard_time": 1674272543,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173224,
+        "num": 148627,
+        "word": "肖战除夕雪景随拍",
+        "onboard_time": 1674271404,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125939,
+        "num": 125939,
+        "word": "除夕",
+        "onboard_time": 1674256395,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 125373,
+        "num": 125373,
+        "word": "过年一定要去男方家吗",
+        "onboard_time": 1674258739,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11368,
+        "num": 124858,
+        "word": "微博大拜年",
+        "onboard_time": 1674282203,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171160,
+        "num": 123150,
+        "word": "张艺兴新歌歌词全是吉祥话",
+        "onboard_time": 1674276623,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158149,
+        "num": 121533,
+        "word": "王一博大鹏王传君张婧仪无名观影提示",
+        "onboard_time": 1674274462,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135130,
+        "num": 120319,
+        "word": "迪丽热巴带着兔朋友送春节祝福",
+        "onboard_time": 1674272304,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110569,
+        "num": 119271,
+        "word": "春节休闲去哪玩",
+        "onboard_time": 1674281903,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 137667,
+        "num": 117568,
+        "word": "电影无名真全阵容海报",
+        "onboard_time": 1674280703,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133811,
+        "num": 116320,
+        "word": "刘诗诗刘宇宁一念关山除夕海报",
+        "onboard_time": 1674277585,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116085,
+        "num": 116085,
+        "word": "灰熊vs湖人",
+        "onboard_time": 1674280404,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114155,
+        "num": 114155,
+        "word": "又到了潮汕人最害怕的环节",
+        "onboard_time": 1674258138,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 113013,
+        "num": 113013,
+        "word": "兔年文案",
+        "onboard_time": 1674276445,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107165,
+        "num": 107165,
+        "word": "施罗德准绝杀",
+        "onboard_time": 1674282744,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们要靠实干开创更加美好的未来#"
+    }
+  }
+}
