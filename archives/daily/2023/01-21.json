@@ -1,6 +1,6 @@
 {
   "startTime": 1674231983947,
-  "endTime": 1674268808811,
+  "endTime": 1674269396233,
   "band_list": [
     {
       "raw_hot": 1348776,
@@ -33,6 +33,14 @@
       "onboard_time": 1674263843,
       "rank": 12,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 882949,
+      "num": 269660,
+      "word": "女孩走亲戚被催婚全程蒙头捂耳",
+      "onboard_time": 1674267502,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 881892,
@@ -75,6 +83,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 716840,
+      "num": 269796,
+      "word": "女子回娘家过年24人睡一屋",
+      "onboard_time": 1674267082,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 702403,
       "num": 702403,
       "word": "除夕",
@@ -89,22 +105,6 @@
       "onboard_time": 1674258739,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 674079,
-      "num": 269796,
-      "word": "女子回娘家过年24人睡一屋",
-      "onboard_time": 1674267082,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 644385,
-      "num": 269660,
-      "word": "女孩走亲戚被催婚全程蒙头捂耳",
-      "onboard_time": 1674267502,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 630803,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385400,
+      "num": 385400,
+      "word": "吴磊说本命年能参加春晚是个好兆头",
+      "onboard_time": 1674268282,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381331,
       "num": 381331,
       "word": "恋爱中没了新鲜感怎么办",
@@ -209,6 +217,14 @@
       "onboard_time": 1674227548,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 328691,
+      "num": 280809,
+      "word": "贺峻霖追着宋亚轩打",
+      "onboard_time": 1674267202,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 324991,
@@ -275,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287525,
+      "num": 260172,
+      "word": "宋亚轩跳popping",
+      "onboard_time": 1674266902,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 285368,
       "num": 205012,
       "word": "姚晨说谢娜MV张杰敢不熟吗",
@@ -291,36 +315,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 280809,
-      "num": 280809,
-      "word": "贺峻霖追着宋亚轩打",
-      "onboard_time": 1674267202,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 280457,
       "num": 280457,
       "word": "福兔",
       "onboard_time": 1674260301,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 279429,
-      "num": 270002,
-      "word": "吴磊说本命年能参加春晚是个好兆头",
-      "onboard_time": 1674268282,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 260172,
-      "num": 260172,
-      "word": "宋亚轩跳popping",
-      "onboard_time": 1674266902,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 258614,
@@ -337,6 +337,14 @@
       "onboard_time": 1674258317,
       "rank": 21,
       "category": "军事"
+    },
+    {
+      "raw_hot": 251281,
+      "num": 251281,
+      "word": "春晚总导演如何看春晚",
+      "onboard_time": 1674268582,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 246017,
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 213521,
-      "num": 151236,
+      "num": 197415,
       "word": "阿奶得知许红豆谢之遥在一起后的反应",
       "onboard_time": 1674267743,
       "rank": 30,
@@ -571,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177650,
+      "num": 177650,
+      "word": "最适合大学生出手的年夜饭菜",
+      "onboard_time": 1674268462,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 176527,
       "num": 135971,
       "word": "一起看春晚过大年",
@@ -659,20 +675,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152372,
-      "num": 152372,
-      "word": "春晚总导演如何看春晚",
-      "onboard_time": 1674268582,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150653,
       "num": 150653,
       "word": "女子化妆品被熊孩子弄坏上门理论",
       "onboard_time": 1674240674,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146068,
+      "num": 146068,
+      "word": "时代少年团北京春晚舞台花絮",
+      "onboard_time": 1674269061,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 145541,
@@ -747,12 +763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122870,
-      "num": 122870,
-      "word": "最适合大学生出手的年夜饭菜",
-      "onboard_time": 1674268462,
-      "rank": 41,
-      "category": "美食"
+      "raw_hot": 123264,
+      "num": 123264,
+      "word": "戍边军人带孩子描红界碑",
+      "onboard_time": 1674268103,
+      "rank": 45,
+      "category": "社会正能量,军事"
     },
     {
       "raw_hot": 115025,
@@ -771,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108645,
+      "num": 108645,
+      "word": "壬寅虎要交棒给癸卯兔了",
+      "onboard_time": 1674268943,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107246,
       "num": 107246,
       "word": "新年文案",
@@ -787,12 +811,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 105107,
-      "num": 105107,
-      "word": "戍边军人带孩子描红界碑",
-      "onboard_time": 1674268103,
+      "raw_hot": 103637,
+      "num": 103637,
+      "word": "老人忘记所有人独记得年幼丧母孙子",
+      "onboard_time": 1674269122,
       "rank": 45,
-      "category": "社会正能量,军事"
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 100539,
