@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674340392085,
+  "endTime": 1674343050066,
   "band_list": [
     {
       "raw_hot": 13632162,
@@ -1011,6 +1011,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1517721,
+      "num": 1517721,
+      "word": "岳云鹏严重超时导致春晚演到大年初二",
+      "onboard_time": 1674305050,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1517443,
       "num": 1517443,
       "word": "好欢螺",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1674127047,
       "rank": 30,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1392446,
-      "num": 1392446,
-      "word": "岳云鹏严重超时导致春晚演到大年初二",
-      "onboard_time": 1674305050,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 1385781,
@@ -6595,6 +6595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365911,
+      "num": 365911,
+      "word": "这首歌是写给冯禧的吗",
+      "onboard_time": 1674324861,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365001,
       "num": 298878,
       "word": "郎朗吉娜加盟北京台春晚",
@@ -7169,6 +7177,14 @@
       "onboard_time": 1673924428,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 334908,
+      "num": 334908,
+      "word": "秦岚绿色毛衣",
+      "onboard_time": 1674339436,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 334258,
@@ -9033,14 +9049,6 @@
       "onboard_time": 1674123388,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 269421,
-      "num": 269421,
-      "word": "这首歌是写给冯禧的吗",
-      "onboard_time": 1674324861,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 269284,
@@ -12643,6 +12651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171401,
+      "num": 171401,
+      "word": "魏晨首登春晚好有范",
+      "onboard_time": 1674342256,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171090,
       "num": 171090,
       "word": "柳智敏首尔歌谣大赏饭拍",
@@ -14243,6 +14259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135922,
+      "num": 172102,
+      "word": "10个外甥扎堆拜年舅舅挨个扫码",
+      "onboard_time": 1674340455,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135832,
       "num": 125794,
       "word": "王鹤棣白鹿双人手势舞",
@@ -15099,6 +15123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111272,
+      "num": 111272,
+      "word": "观众大喊张小斐太美了",
+      "onboard_time": 1674330913,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 111185,
       "num": 82880,
       "word": "你如何看待假唱",
@@ -15193,6 +15225,14 @@
       "onboard_time": 1674268943,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107606,
+      "num": 146082,
+      "word": "正月初一",
+      "onboard_time": 1674342617,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107562,
@@ -15539,6 +15579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 93803,
+      "num": 93803,
+      "word": "压岁钱的南北差异",
+      "onboard_time": 1674341416,
+      "rank": 35,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 93488,
       "num": 93488,
       "word": "千里江山图就是照着它画的吧",
@@ -15835,14 +15883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73115,
-      "num": 73115,
-      "word": "观众大喊张小斐太美了",
-      "onboard_time": 1674330913,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 72943,
       "num": 181442,
       "word": "狼队Fly现身米兰看秀",
@@ -15947,12 +15987,28 @@
       "category": "其它"
     },
     {
+      "raw_hot": 67553,
+      "num": 65718,
+      "word": "白宇帆张佳宁 情侣装",
+      "onboard_time": 1674337754,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67542,
       "num": 389732,
       "word": "爸爸花3小时给女儿做本命年美甲",
       "onboard_time": 1674315115,
       "rank": 47,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 67525,
+      "num": 67525,
+      "word": "大年初一",
+      "onboard_time": 1674342438,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66706,
@@ -16121,14 +16177,6 @@
       "onboard_time": 1674066855,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46473,
-      "num": 34159,
-      "word": "白宇帆张佳宁 情侣装",
-      "onboard_time": 1674337754,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 46377,

@@ -1,6 +1,6 @@
 {
   "startTime": 1674318242996,
-  "endTime": 1674340392085,
+  "endTime": 1674343050066,
   "band_list": [
     {
       "raw_hot": 9908054,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1517721,
+      "num": 1517721,
+      "word": "岳云鹏严重超时导致春晚演到大年初二",
+      "onboard_time": 1674305050,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1512491,
       "num": 1512491,
       "word": "许嵩合拍",
@@ -192,14 +200,6 @@
       "word": "撒贝宁和苏有朋谁的鞋跟高",
       "onboard_time": 1674308088,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1392446,
-      "num": 1392446,
-      "word": "岳云鹏严重超时导致春晚演到大年初二",
-      "onboard_time": 1674305050,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365911,
+      "num": 365911,
+      "word": "这首歌是写给冯禧的吗",
+      "onboard_time": 1674324861,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363810,
       "num": 363810,
       "word": "王勉reaction",
@@ -424,6 +432,14 @@
       "word": "周深改词版花开忘忧更温暖",
       "onboard_time": 1674311804,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 334908,
+      "num": 334908,
+      "word": "秦岚绿色毛衣",
+      "onboard_time": 1674339436,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -488,14 +504,6 @@
       "word": "脱口秀",
       "onboard_time": 1674308208,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 269421,
-      "num": 269421,
-      "word": "这首歌是写给冯禧的吗",
-      "onboard_time": 1674324861,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -627,6 +635,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171401,
+      "num": 171401,
+      "word": "魏晨首登春晚好有范",
+      "onboard_time": 1674342256,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157794,
+      "num": 157794,
+      "word": "脱口秀一整年的素材",
+      "onboard_time": 1674314456,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138005,
       "num": 744377,
       "word": "3个月大宝宝不愿喂水突然急眼说不喝",
@@ -643,12 +667,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135922,
+      "num": 172102,
+      "word": "10个外甥扎堆拜年舅舅挨个扫码",
+      "onboard_time": 1674340455,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130328,
       "num": 737201,
       "word": "红包",
       "onboard_time": 1674297987,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129079,
+      "num": 296388,
+      "word": "女生起床收到20条除夕群发祝福",
+      "onboard_time": 1674297024,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128690,
@@ -667,12 +707,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111272,
+      "num": 111272,
+      "word": "观众大喊张小斐太美了",
+      "onboard_time": 1674330913,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 110462,
       "num": 416241,
       "word": "马上就会好的",
       "onboard_time": 1674316196,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107606,
+      "num": 146082,
+      "word": "正月初一",
+      "onboard_time": 1674342617,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105799,
@@ -683,20 +739,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104270,
-      "num": 104270,
-      "word": "脱口秀一整年的素材",
-      "onboard_time": 1674314456,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 99421,
-      "num": 296388,
-      "word": "女生起床收到20条除夕群发祝福",
-      "onboard_time": 1674297024,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 93803,
+      "num": 93803,
+      "word": "压岁钱的南北差异",
+      "onboard_time": 1674341416,
+      "rank": 35,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 91695,
@@ -731,12 +779,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 73115,
-      "num": 73115,
-      "word": "观众大喊张小斐太美了",
-      "onboard_time": 1674330913,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 67553,
+      "num": 65718,
+      "word": "白宇帆张佳宁 情侣装",
+      "onboard_time": 1674337754,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 67525,
+      "num": 67525,
+      "word": "大年初一",
+      "onboard_time": 1674342438,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65420,
@@ -768,14 +824,6 @@
       "word": "黄绮珊 歌唱最佳",
       "onboard_time": 1674326357,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 46473,
-      "num": 34159,
-      "word": "白宇帆张佳宁 情侣装",
-      "onboard_time": 1674337754,
-      "rank": 38,
       "category": "综艺"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1674343050066,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1517721,
+        "num": 1517721,
+        "word": "岳云鹏严重超时导致春晚演到大年初二",
+        "onboard_time": 1674305050,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 604136,
+        "num": 604136,
+        "word": "孙俪说就不能给邓超近镜",
+        "onboard_time": 1674319723,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4777,
+        "num": 547794,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674279563,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 526446,
+        "num": 526446,
+        "word": "马丽 羽绒服满天飞毛",
+        "onboard_time": 1674313324,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474178,
+        "num": 474178,
+        "word": "大英博物馆庆祝韩国春节被骂到删帖",
+        "onboard_time": 1674321036,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444180,
+        "num": 444180,
+        "word": "马丽鞋跟掉了",
+        "onboard_time": 1674312497,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427066,
+        "num": 427066,
+        "word": "邓超笑死我了",
+        "onboard_time": 1674305152,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384843,
+        "num": 384843,
+        "word": "过年好",
+        "onboard_time": 1674316434,
+        "rank": 7,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 365911,
+        "num": 365911,
+        "word": "这首歌是写给冯禧的吗",
+        "onboard_time": 1674324861,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361408,
+        "num": 361408,
+        "word": "王勉reaction",
+        "onboard_time": 1674324321,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334908,
+        "num": 334908,
+        "word": "秦岚绿色毛衣",
+        "onboard_time": 1674339436,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310803,
+        "num": 310803,
+        "word": "赵丽颖唱了42个颜色名",
+        "onboard_time": 1674323903,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301794,
+        "num": 301794,
+        "word": "秦岚嗓子",
+        "onboard_time": 1674314398,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258306,
+        "num": 258306,
+        "word": "终于等到许嵩",
+        "onboard_time": 1674318647,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249834,
+        "num": 249834,
+        "word": "沈腾吃药",
+        "onboard_time": 1674311981,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233997,
+        "num": 233997,
+        "word": "谢谢沈腾马丽",
+        "onboard_time": 1674313083,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230368,
+        "num": 230368,
+        "word": "许嵩谈恋爱以后更甜了",
+        "onboard_time": 1674323724,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206391,
+        "num": 206391,
+        "word": "穿皮衣不告诉吴磊",
+        "onboard_time": 1674314217,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175166,
+        "num": 175166,
+        "word": "五福开奖",
+        "onboard_time": 1674312237,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 135922,
+        "num": 172102,
+        "word": "10个外甥扎堆拜年舅舅挨个扫码",
+        "onboard_time": 1674340455,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171401,
+        "num": 171401,
+        "word": "魏晨首登春晚好有范",
+        "onboard_time": 1674342256,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159920,
+        "num": 159920,
+        "word": "是谁在唱歌 for you",
+        "onboard_time": 1674309417,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157794,
+        "num": 157794,
+        "word": "脱口秀一整年的素材",
+        "onboard_time": 1674314456,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155707,
+        "num": 155707,
+        "word": "春晚舞台",
+        "onboard_time": 1674303522,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150719,
+        "num": 150719,
+        "word": "邓超王二妮更新超市神曲",
+        "onboard_time": 1674317138,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150340,
+        "num": 150340,
+        "word": "春晚",
+        "onboard_time": 1674299907,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149412,
+        "num": 149412,
+        "word": "坑",
+        "onboard_time": 1674314932,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129079,
+        "num": 146718,
+        "word": "女生起床收到20条除夕群发祝福",
+        "onboard_time": 1674297024,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110730,
+        "num": 146257,
+        "word": "3个月大宝宝不愿喂水突然急眼说不喝",
+        "onboard_time": 1674313911,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107606,
+        "num": 146082,
+        "word": "正月初一",
+        "onboard_time": 1674342617,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146020,
+        "num": 146020,
+        "word": "朱洁静不愧是首席",
+        "onboard_time": 1674308208,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129314,
+        "num": 129314,
+        "word": "许嵩好甜",
+        "onboard_time": 1674318647,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126339,
+        "num": 126339,
+        "word": "成龙头发不duang了",
+        "onboard_time": 1674318706,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111272,
+        "num": 111272,
+        "word": "观众大喊张小斐太美了",
+        "onboard_time": 1674330913,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94928,
+        "num": 94928,
+        "word": "兔年第一只小兔子",
+        "onboard_time": 1674301110,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93803,
+        "num": 93803,
+        "word": "压岁钱的南北差异",
+        "onboard_time": 1674341416,
+        "rank": 35,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 81332,
+        "num": 81332,
+        "word": "杀猪女屠夫月入3万买房买奔驰",
+        "onboard_time": 1674309898,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80121,
+        "num": 80121,
+        "word": "满江红",
+        "onboard_time": 1674322646,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67525,
+        "num": 67525,
+        "word": "大年初一",
+        "onboard_time": 1674342438,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65837,
+        "num": 65837,
+        "word": "兔年",
+        "onboard_time": 1674318647,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77249,
+        "num": 65820,
+        "word": "金靖毛衣",
+        "onboard_time": 1674319007,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67553,
+        "num": 65718,
+        "word": "白宇帆张佳宁 情侣装",
+        "onboard_time": 1674337754,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65436,
+        "num": 65436,
+        "word": "女子花20元买创意春联拼2小时",
+        "onboard_time": 1674316671,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57259,
+        "num": 65435,
+        "word": "加特林",
+        "onboard_time": 1674313617,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52344,
+        "num": 65428,
+        "word": "陈哲远发红包",
+        "onboard_time": 1674302252,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51068,
+        "num": 65424,
+        "word": "微博红包",
+        "onboard_time": 1674305334,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 42241,
+        "num": 65416,
+        "word": "新年图片",
+        "onboard_time": 1674319007,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69824,
+        "num": 65415,
+        "word": "杨紫红色大衣",
+        "onboard_time": 1674309672,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41013,
+        "num": 65407,
+        "word": "兔子",
+        "onboard_time": 1674319127,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30226,
+        "num": 65404,
+        "word": "烟花",
+        "onboard_time": 1674296486,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#过年#"
+    }
+  }
+}
