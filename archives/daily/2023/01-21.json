@@ -1,7 +1,15 @@
 {
   "startTime": 1674231983947,
-  "endTime": 1674289330902,
+  "endTime": 1674290156657,
   "band_list": [
+    {
+      "raw_hot": 2761885,
+      "num": 2761885,
+      "word": "兔子",
+      "onboard_time": 1674280763,
+      "rank": 11,
+      "category": "情感"
+    },
     {
       "raw_hot": 2436826,
       "num": 356573,
@@ -17,14 +25,6 @@
       "onboard_time": 1674269662,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2108653,
-      "num": 2108653,
-      "word": "兔子",
-      "onboard_time": 1674280763,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 1348776,
@@ -75,12 +75,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1040638,
-      "num": 268286,
+      "raw_hot": 1051129,
+      "num": 301483,
       "word": "田小娟 广告",
       "onboard_time": 1674286284,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1012058,
+      "num": 1012058,
+      "word": "虚岁最大受害者",
+      "onboard_time": 1674287783,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 1010804,
@@ -243,12 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563080,
+      "num": 563080,
+      "word": "苏醒 继续对全国人民保留我的才艺",
+      "onboard_time": 1674288084,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555264,
       "num": 555264,
       "word": "多地已阶段性取消首套房贷款利率下限",
       "onboard_time": 1674232463,
       "rank": 39,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 550308,
+      "num": 550308,
+      "word": "宋祖儿中国娃娃造型",
+      "onboard_time": 1674288442,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 547563,
@@ -331,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 494358,
-      "num": 494358,
-      "word": "虚岁最大受害者",
-      "onboard_time": 1674287783,
-      "rank": 4,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 486090,
       "num": 486090,
       "word": "最适合大学生出手的年夜饭菜",
@@ -411,28 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 403709,
-      "num": 239854,
-      "word": "苏醒 继续对全国人民保留我的才艺",
-      "onboard_time": 1674288084,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 403306,
       "num": 403306,
       "word": "谁教你这么贴对联的",
       "onboard_time": 1674274342,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 398406,
-      "num": 398406,
-      "word": "宋祖儿中国娃娃造型",
-      "onboard_time": 1674288442,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 385400,
@@ -612,7 +612,7 @@
     },
     {
       "raw_hot": 293794,
-      "num": 266218,
+      "num": 293548,
       "word": "毛不易说春晚曾是他难以企及的舞台",
       "onboard_time": 1674285083,
       "rank": 31,
@@ -683,12 +683,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276615,
+      "num": 295445,
+      "word": "63位家人给90岁老人磕头贺寿",
+      "onboard_time": 1674287665,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274642,
       "num": 215856,
       "word": "刘诗诗刘宇宁一念关山除夕海报",
       "onboard_time": 1674277585,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269839,
+      "num": 269839,
+      "word": "彭小苒红色抹胸长裙造型",
+      "onboard_time": 1674288864,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 267578,
@@ -907,14 +923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 206952,
-      "num": 206952,
-      "word": "63位家人给90岁老人磕头贺寿",
-      "onboard_time": 1674287665,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206934,
       "num": 206934,
       "word": "我家年夜饭申请参赛",
@@ -979,11 +987,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198115,
-      "num": 141349,
-      "word": "彭小苒红色抹胸长裙造型",
-      "onboard_time": 1674288864,
-      "rank": 34,
+      "raw_hot": 197041,
+      "num": 137031,
+      "word": "魏晨春晚红色大衣造型",
+      "onboard_time": 1674290063,
+      "rank": 31,
       "category": "作品衍生"
     },
     {
@@ -1185,6 +1193,14 @@
       "onboard_time": 1674273982,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166881,
+      "num": 108228,
+      "word": "赵今麦造型",
+      "onboard_time": 1674290004,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166606,
@@ -1411,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130038,
+      "num": 130038,
+      "word": "为什么除夕要吃年夜饭",
+      "onboard_time": 1674288743,
+      "rank": 39,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 127749,
       "num": 90071,
       "word": "宋晓峰小品好搞笑",
@@ -1467,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109158,
+      "num": 109158,
+      "word": "爷奶给12个孙子女发红包每人5000多",
+      "onboard_time": 1674289823,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108645,
       "num": 108645,
       "word": "壬寅虎要交棒给癸卯兔了",
@@ -1513,14 +1545,6 @@
       "onboard_time": 1674243193,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 104079,
-      "num": 104079,
-      "word": "为什么除夕要吃年夜饭",
-      "onboard_time": 1674288743,
-      "rank": 39,
-      "category": "美食,情感"
     },
     {
       "raw_hot": 102554,
@@ -1627,8 +1651,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80509,
-      "num": 80509,
+      "raw_hot": 84671,
+      "num": 106775,
       "word": "春节文案",
       "onboard_time": 1674286765,
       "rank": 48,
@@ -1676,7 +1700,7 @@
     },
     {
       "raw_hot": 38334,
-      "num": 640017,
+      "num": 759980,
       "word": "新时代 我在中国",
       "onboard_time": 1674279563,
       "rank": 2,
