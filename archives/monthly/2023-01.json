@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674343050066,
+  "endTime": 1674344015176,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -1947,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1788022,
+      "num": 1788022,
+      "word": "岳云鹏严重超时导致春晚演到大年初二",
+      "onboard_time": 1674305050,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1786002,
       "num": 1786002,
       "word": "向太晒全家照为郭碧婷庆生",
@@ -2681,14 +2689,6 @@
       "onboard_time": 1673698349,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1517721,
-      "num": 1517721,
-      "word": "岳云鹏严重超时导致春晚演到大年初二",
-      "onboard_time": 1674305050,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 1517443,
@@ -15243,6 +15243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510111,
+      "num": 510111,
+      "word": "秦岚绿色毛衣",
+      "onboard_time": 1674339436,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 510044,
       "num": 390556,
       "word": "隔玻璃亲吻的印痕女护士有宝宝了",
@@ -19419,6 +19427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 412325,
+      "num": 412325,
+      "word": "王宝强嘴瓢了",
+      "onboard_time": 1674343701,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412085,
       "num": 412085,
       "word": "专家回应阳康之后多久可以备孕",
@@ -20657,6 +20673,14 @@
       "onboard_time": 1672737086,
       "rank": 47,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 390925,
+      "num": 390925,
+      "word": "这首歌是写给冯禧的吗",
+      "onboard_time": 1674324861,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 390821,
@@ -22283,14 +22307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 365911,
-      "num": 365911,
-      "word": "这首歌是写给冯禧的吗",
-      "onboard_time": 1674324861,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 365789,
       "num": 204787,
       "word": "王一博无名湿发侧颜海报",
@@ -22321,6 +22337,14 @@
       "onboard_time": 1673505148,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365105,
+      "num": 365105,
+      "word": "王勉reaction",
+      "onboard_time": 1674324321,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 365001,
@@ -22417,14 +22441,6 @@
       "onboard_time": 1674202764,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 363810,
-      "num": 363810,
-      "word": "王勉reaction",
-      "onboard_time": 1674324321,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 363795,
@@ -24497,14 +24513,6 @@
       "onboard_time": 1672993951,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334908,
-      "num": 334908,
-      "word": "秦岚绿色毛衣",
-      "onboard_time": 1674339436,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 334871,
@@ -28505,6 +28513,14 @@
       "onboard_time": 1673168250,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 286653,
+      "num": 286653,
+      "word": "魏晨首登春晚好有范",
+      "onboard_time": 1674342256,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 286643,
@@ -35971,6 +35987,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 216377,
+      "num": 253398,
+      "word": "压岁钱的南北差异",
+      "onboard_time": 1674341416,
+      "rank": 35,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 216368,
       "num": 216368,
       "word": "鹅鸭杀 快乐源泉",
@@ -39155,6 +39179,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 190222,
+      "num": 190222,
+      "word": "10个外甥扎堆拜年舅舅挨个扫码",
+      "onboard_time": 1674340455,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190078,
       "num": 190078,
       "word": "为什么不那么热衷恋爱了",
@@ -42016,14 +42048,6 @@
       "word": "虞书欣读小桔灯梦回童年",
       "onboard_time": 1674033626,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 171401,
-      "num": 171401,
-      "word": "魏晨首登春晚好有范",
-      "onboard_time": 1674342256,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -46843,14 +46867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135922,
-      "num": 172102,
-      "word": "10个外甥扎堆拜年舅舅挨个扫码",
-      "onboard_time": 1674340455,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135832,
       "num": 125794,
       "word": "王鹤棣白鹿双人手势舞",
@@ -46889,6 +46905,14 @@
       "onboard_time": 1674107725,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135686,
+      "num": 118876,
+      "word": "观众大喊张小斐太美了",
+      "onboard_time": 1674330913,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 135569,
@@ -46976,6 +47000,14 @@
       "word": "历届春晚明星造型图鉴",
       "onboard_time": 1674133410,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134992,
+      "num": 87323,
+      "word": "沈腾的麦掉了",
+      "onboard_time": 1674343520,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -47545,6 +47577,14 @@
       "onboard_time": 1673164110,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130045,
+      "num": 146082,
+      "word": "正月初一",
+      "onboard_time": 1674342617,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130038,
@@ -49163,6 +49203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116345,
+      "num": 116345,
+      "word": "新春祝福",
+      "onboard_time": 1674343580,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116325,
       "num": 116325,
       "word": "重庆人嘿耿直",
@@ -49779,14 +49827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111272,
-      "num": 111272,
-      "word": "观众大喊张小斐太美了",
-      "onboard_time": 1674330913,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 111249,
       "num": 1088311,
       "word": "2023年哪些新规开始实施",
@@ -50153,14 +50193,6 @@
       "onboard_time": 1672939879,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107606,
-      "num": 146082,
-      "word": "正月初一",
-      "onboard_time": 1674342617,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107562,
@@ -51531,14 +51563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93803,
-      "num": 93803,
-      "word": "压岁钱的南北差异",
-      "onboard_time": 1674341416,
-      "rank": 35,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 93780,
       "num": 209290,
       "word": "广东男篮vs浙江男篮",
@@ -52283,6 +52307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76412,
+      "num": 76412,
+      "word": "大年初一",
+      "onboard_time": 1674342438,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76396,
       "num": 1805633,
       "word": "守护你回家的路",
@@ -52393,6 +52425,14 @@
       "onboard_time": 1673669727,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73514,
+      "num": 73514,
+      "word": "周深一开口时光美满",
+      "onboard_time": 1674323247,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 73198,
@@ -52577,14 +52617,6 @@
       "onboard_time": 1674315115,
       "rank": 47,
       "category": "社会新闻,美妆"
-    },
-    {
-      "raw_hot": 67525,
-      "num": 67525,
-      "word": "大年初一",
-      "onboard_time": 1674342438,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67192,
@@ -53537,14 +53569,6 @@
       "onboard_time": 1673635756,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 25993,
-      "num": 51620,
-      "word": "周深一开口时光美满",
-      "onboard_time": 1674323247,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 25772,

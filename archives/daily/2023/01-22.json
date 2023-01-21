@@ -1,6 +1,6 @@
 {
   "startTime": 1674318242996,
-  "endTime": 1674343050066,
+  "endTime": 1674344015176,
   "band_list": [
     {
       "raw_hot": 9908054,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1788022,
+      "num": 1788022,
+      "word": "岳云鹏严重超时导致春晚演到大年初二",
+      "onboard_time": 1674305050,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1748108,
       "num": 1748108,
       "word": "秦岚亲孙涛",
@@ -160,14 +168,6 @@
       "word": "马丽鞋跟掉了",
       "onboard_time": 1674312497,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1517721,
-      "num": 1517721,
-      "word": "岳云鹏严重超时导致春晚演到大年初二",
-      "onboard_time": 1674305050,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -363,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 510111,
+      "num": 510111,
+      "word": "秦岚绿色毛衣",
+      "onboard_time": 1674339436,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 458050,
       "num": 740320,
       "word": "春晚舞蹈",
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412325,
+      "num": 412325,
+      "word": "王宝强嘴瓢了",
+      "onboard_time": 1674343701,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398235,
       "num": 398235,
       "word": "赵丽颖唱了42个颜色名",
@@ -387,16 +403,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 365911,
-      "num": 365911,
+      "raw_hot": 390925,
+      "num": 390925,
       "word": "这首歌是写给冯禧的吗",
       "onboard_time": 1674324861,
       "rank": 12,
       "category": "综艺"
     },
     {
-      "raw_hot": 363810,
-      "num": 363810,
+      "raw_hot": 365105,
+      "num": 365105,
       "word": "王勉reaction",
       "onboard_time": 1674324321,
       "rank": 33,
@@ -435,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 334908,
-      "num": 334908,
-      "word": "秦岚绿色毛衣",
-      "onboard_time": 1674339436,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 329868,
       "num": 773302,
       "word": "王俊凯王源易烊千玺TF家族官网新春VCR",
@@ -464,6 +472,14 @@
       "word": "许嵩谈恋爱以后更甜了",
       "onboard_time": 1674323724,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 286653,
+      "num": 286653,
+      "word": "魏晨首登春晚好有范",
+      "onboard_time": 1674342256,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -547,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216377,
+      "num": 253398,
+      "word": "压岁钱的南北差异",
+      "onboard_time": 1674341416,
+      "rank": 35,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 214463,
       "num": 194756,
       "word": "杨紫红色大衣",
@@ -587,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195628,
+      "num": 195628,
+      "word": "脱口秀一整年的素材",
+      "onboard_time": 1674314456,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194991,
       "num": 194991,
       "word": "青春向太阳",
@@ -601,6 +633,22 @@
       "onboard_time": 1674332531,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190222,
+      "num": 190222,
+      "word": "10个外甥扎堆拜年舅舅挨个扫码",
+      "onboard_time": 1674340455,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188804,
+      "num": 188804,
+      "word": "动如脱兔的邓超",
+      "onboard_time": 1674304933,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 188736,
@@ -635,23 +683,23 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171401,
-      "num": 171401,
-      "word": "魏晨首登春晚好有范",
-      "onboard_time": 1674342256,
-      "rank": 20,
+      "raw_hot": 174242,
+      "num": 124761,
+      "word": "今年终于通知吴磊穿黑裤子了",
+      "onboard_time": 1674313852,
+      "rank": 34,
       "category": "综艺"
     },
     {
-      "raw_hot": 157794,
-      "num": 157794,
-      "word": "脱口秀一整年的素材",
-      "onboard_time": 1674314456,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 146677,
+      "num": 296388,
+      "word": "女生起床收到20条除夕群发祝福",
+      "onboard_time": 1674297024,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 138005,
+      "raw_hot": 138825,
       "num": 744377,
       "word": "3个月大宝宝不愿喂水突然急眼说不喝",
       "onboard_time": 1674313911,
@@ -667,12 +715,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135922,
-      "num": 172102,
-      "word": "10个外甥扎堆拜年舅舅挨个扫码",
-      "onboard_time": 1674340455,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 135686,
+      "num": 118876,
+      "word": "观众大喊张小斐太美了",
+      "onboard_time": 1674330913,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 134992,
+      "num": 87323,
+      "word": "沈腾的麦掉了",
+      "onboard_time": 1674343520,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 130328,
@@ -683,11 +739,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129079,
-      "num": 296388,
-      "word": "女生起床收到20条除夕群发祝福",
-      "onboard_time": 1674297024,
-      "rank": 38,
+      "raw_hot": 130045,
+      "num": 146082,
+      "word": "正月初一",
+      "onboard_time": 1674342617,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -707,12 +763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111272,
-      "num": 111272,
-      "word": "观众大喊张小斐太美了",
-      "onboard_time": 1674330913,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 116345,
+      "num": 116345,
+      "word": "新春祝福",
+      "onboard_time": 1674343580,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110462,
@@ -723,28 +779,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107606,
-      "num": 146082,
-      "word": "正月初一",
-      "onboard_time": 1674342617,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105799,
       "num": 734354,
       "word": "利物浦vs切尔西",
       "onboard_time": 1674301409,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93803,
-      "num": 93803,
-      "word": "压岁钱的南北差异",
-      "onboard_time": 1674341416,
-      "rank": 35,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 91695,
@@ -779,20 +819,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76412,
+      "num": 76412,
+      "word": "大年初一",
+      "onboard_time": 1674342438,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73514,
+      "num": 73514,
+      "word": "周深一开口时光美满",
+      "onboard_time": 1674323247,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67553,
       "num": 65718,
       "word": "白宇帆张佳宁 情侣装",
       "onboard_time": 1674337754,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67525,
-      "num": 67525,
-      "word": "大年初一",
-      "onboard_time": 1674342438,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65420,
@@ -835,14 +883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 45142,
-      "num": 45142,
-      "word": "今年终于通知吴磊穿黑裤子了",
-      "onboard_time": 1674313852,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 43564,
       "num": 272395,
       "word": "妈妈的心里话你听懂了吗",
@@ -855,14 +895,6 @@
       "num": 90634,
       "word": "赵文卓转身腾空回马枪",
       "onboard_time": 1674329414,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 25993,
-      "num": 51620,
-      "word": "周深一开口时光美满",
-      "onboard_time": 1674323247,
       "rank": 43,
       "category": "综艺"
     },
