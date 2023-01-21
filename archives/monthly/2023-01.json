@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674299654010,
+  "endTime": 1674300795747,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -129,6 +129,14 @@
       "onboard_time": 1673847868,
       "rank": 0,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 3844218,
+      "num": 3844218,
+      "word": "春晚",
+      "onboard_time": 1672723229,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 3727850,
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 2436826,
-      "num": 356573,
+      "num": 391202,
       "word": "Danielle道歉",
       "onboard_time": 1674283524,
       "rank": 10,
@@ -2001,14 +2009,6 @@
       "onboard_time": 1674189688,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1622142,
-      "num": 1622142,
-      "word": "春晚",
-      "onboard_time": 1672723229,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1617979,
@@ -4323,6 +4323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1104411,
+      "num": 1104411,
+      "word": "孙茜一边化妆一边吃春晚盒饭",
+      "onboard_time": 1674296906,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1102833,
       "num": 1102833,
       "word": "兔年央视春晚第五次联排",
@@ -4676,7 +4684,7 @@
     },
     {
       "raw_hot": 1051129,
-      "num": 346624,
+      "num": 391004,
       "word": "田小娟 广告",
       "onboard_time": 1674286284,
       "rank": 35,
@@ -6595,6 +6603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 866096,
+      "num": 866096,
+      "word": "云南大理官方给去有风的地方剧组感谢信",
+      "onboard_time": 1674296906,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 865670,
       "num": 695829,
       "word": "权志龙确定与YG续约",
@@ -7065,14 +7081,6 @@
       "onboard_time": 1674129389,
       "rank": 8,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 836227,
-      "num": 836227,
-      "word": "云南大理官方给去有风的地方剧组感谢信",
-      "onboard_time": 1674296906,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 836148,
@@ -7577,14 +7585,6 @@
       "onboard_time": 1672718608,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 800958,
-      "num": 800958,
-      "word": "孙茜一边化妆一边吃春晚盒饭",
-      "onboard_time": 1674296906,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 800009,
@@ -8699,6 +8699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 730916,
+      "num": 1035742,
+      "word": "烟花",
+      "onboard_time": 1672497717,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 730324,
       "num": 730324,
       "word": "中国游客实拍仁川机场入境流程",
@@ -9193,14 +9201,6 @@
       "onboard_time": 1673276371,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 703720,
-      "num": 1035742,
-      "word": "烟花",
-      "onboard_time": 1672497717,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 703319,
@@ -10105,6 +10105,14 @@
       "onboard_time": 1672758752,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 660731,
+      "num": 660731,
+      "word": "过年文案",
+      "onboard_time": 1674283943,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 660577,
@@ -11211,14 +11219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 612280,
-      "num": 612280,
-      "word": "过年文案",
-      "onboard_time": 1674283943,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 612199,
       "num": 502313,
       "word": "LESSERAFIM今日金唱片舞台",
@@ -11993,6 +11993,14 @@
       "onboard_time": 1673581770,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 585022,
+      "num": 585022,
+      "word": "央视镜头下的明星",
+      "onboard_time": 1674299606,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 584978,
@@ -13659,6 +13667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 532128,
+      "num": 532128,
+      "word": "马嘉祺刘耀文奶奶真漂亮舞台",
+      "onboard_time": 1674298348,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 531573,
       "num": 531573,
       "word": "新娘婚纱配皮草有多惊艳",
@@ -14771,20 +14787,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 502745,
-      "num": 502745,
-      "word": "马嘉祺刘耀文奶奶真漂亮舞台",
-      "onboard_time": 1674298348,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 502646,
       "num": 502646,
       "word": "王一博说试飞员是非常危险的职业",
       "onboard_time": 1672912349,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 502437,
+      "num": 502437,
+      "word": "如何评价女性不能上桌吃饭",
+      "onboard_time": 1674293904,
+      "rank": 25,
+      "category": "社会议题"
     },
     {
       "raw_hot": 502436,
@@ -14857,14 +14873,6 @@
       "onboard_time": 1672562191,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 501005,
-      "num": 501005,
-      "word": "如何评价女性不能上桌吃饭",
-      "onboard_time": 1674293904,
-      "rank": 25,
-      "category": "社会议题"
     },
     {
       "raw_hot": 500940,
@@ -17307,6 +17315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 438470,
+      "num": 438470,
+      "word": "女生起床收到20条除夕群发祝福",
+      "onboard_time": 1674297024,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438240,
       "num": 428556,
       "word": "赵丽颖国风墨竹白色长裙",
@@ -19603,6 +19619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 392806,
+      "num": 392806,
+      "word": "新年祝福语",
+      "onboard_time": 1674292046,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 392492,
       "num": 229429,
       "word": "肖铎知道步音楼父亲是凶手",
@@ -19713,6 +19737,14 @@
       "onboard_time": 1673165128,
       "rank": 27,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 391324,
+      "num": 391324,
+      "word": "王俊凯王源易烊千玺TF家族官网新春VCR",
+      "onboard_time": 1674300629,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 391294,
@@ -20065,6 +20097,14 @@
       "onboard_time": 1672753952,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 385279,
+      "num": 347999,
+      "word": "林俊杰权志龙比耶合照",
+      "onboard_time": 1674300327,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 385229,
@@ -21553,14 +21593,6 @@
       "onboard_time": 1673247328,
       "rank": 17,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 363057,
-      "num": 363057,
-      "word": "女生起床收到20条除夕群发祝福",
-      "onboard_time": 1674297024,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 362975,
@@ -23497,14 +23529,6 @@
       "onboard_time": 1673610568,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 335569,
-      "num": 335569,
-      "word": "新年祝福语",
-      "onboard_time": 1674292046,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 335524,
@@ -27425,6 +27449,14 @@
       "onboard_time": 1673404887,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287654,
+      "num": 287654,
+      "word": "时代少年团2023楼晚节目单",
+      "onboard_time": 1674299907,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 287452,
@@ -31915,6 +31947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246829,
+      "num": 230362,
+      "word": "宣璐汉服马面裙大片",
+      "onboard_time": 1674298526,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246732,
       "num": 246732,
       "word": "2022年我国GDP超121万亿元",
@@ -35169,14 +35209,6 @@
       "onboard_time": 1673065888,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 214449,
-      "num": 214449,
-      "word": "宣璐汉服马面裙大片",
-      "onboard_time": 1674298526,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 214279,
@@ -39227,6 +39259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181939,
+      "num": 147087,
+      "word": "春晚押题小品",
+      "onboard_time": 1674297505,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181905,
       "num": 261089,
       "word": "小狗狗自己坐雪圈滑雪",
@@ -39849,6 +39889,14 @@
       "onboard_time": 1673264967,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178268,
+      "num": 141322,
+      "word": "周深说也要挑战下语言类节目",
+      "onboard_time": 1674300027,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 178249,
@@ -41123,6 +41171,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 169724,
+      "num": 181426,
+      "word": "兔年文案",
+      "onboard_time": 1674276445,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169691,
       "num": 169691,
       "word": "三体世界里的物理学家",
@@ -41225,14 +41281,6 @@
       "onboard_time": 1673244087,
       "rank": 29,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 169060,
-      "num": 181426,
-      "word": "兔年文案",
-      "onboard_time": 1674276445,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 168964,
@@ -43659,6 +43707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151283,
+      "num": 151283,
+      "word": "压岁钱",
+      "onboard_time": 1674300689,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151268,
       "num": 151268,
       "word": "成都GG夺冠",
@@ -45553,14 +45609,6 @@
       "onboard_time": 1673857886,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 137120,
-      "num": 117216,
-      "word": "央视镜头下的明星",
-      "onboard_time": 1674299606,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 136943,
@@ -50075,6 +50123,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 97300,
+      "num": 97300,
+      "word": "AG人的年夜饭",
+      "onboard_time": 1674300148,
+      "rank": 49,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 97217,
       "num": 178357,
       "word": "在迪拜跨年是什么体验",
@@ -51996,7 +52052,7 @@
     },
     {
       "raw_hot": 38334,
-      "num": 1429951,
+      "num": 2060097,
       "word": "新时代 我在中国",
       "onboard_time": 1674279563,
       "rank": 2,

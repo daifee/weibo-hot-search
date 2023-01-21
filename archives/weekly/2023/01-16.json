@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674299654010,
+  "endTime": 1674300795747,
   "band_list": [
     {
       "raw_hot": 9337684,
@@ -33,6 +33,14 @@
       "onboard_time": 1673847868,
       "rank": 0,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 3844218,
+      "num": 3844218,
+      "word": "春晚",
+      "onboard_time": 1674041190,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 3655266,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 2436826,
-      "num": 356573,
+      "num": 391202,
       "word": "Danielle道歉",
       "onboard_time": 1674283524,
       "rank": 10,
@@ -1051,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1104411,
+      "num": 1104411,
+      "word": "孙茜一边化妆一边吃春晚盒饭",
+      "onboard_time": 1674296906,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1102833,
       "num": 1102833,
       "word": "兔年央视春晚第五次联排",
@@ -1124,7 +1140,7 @@
     },
     {
       "raw_hot": 1051129,
-      "num": 346624,
+      "num": 391004,
       "word": "田小娟 广告",
       "onboard_time": 1674286284,
       "rank": 35,
@@ -1377,14 +1393,6 @@
       "onboard_time": 1673839645,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 960413,
-      "num": 960413,
-      "word": "春晚",
-      "onboard_time": 1674041190,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 959323,
@@ -1675,6 +1683,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 866096,
+      "num": 866096,
+      "word": "云南大理官方给去有风的地方剧组感谢信",
+      "onboard_time": 1674296906,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 863160,
       "num": 863160,
       "word": "高铁站大厅没插座引网友质疑",
@@ -1827,14 +1843,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 836227,
-      "num": 836227,
-      "word": "云南大理官方给去有风的地方剧组感谢信",
-      "onboard_time": 1674296906,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 836148,
       "num": 836148,
       "word": "2022年全国人口或出现负增长",
@@ -1929,14 +1937,6 @@
       "onboard_time": 1674191245,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 800958,
-      "num": 800958,
-      "word": "孙茜一边化妆一边吃春晚盒饭",
-      "onboard_time": 1674296906,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 795667,
@@ -2217,6 +2217,14 @@
       "onboard_time": 1673961809,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 730916,
+      "num": 730916,
+      "word": "烟花",
+      "onboard_time": 1674136648,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 729854,
@@ -2515,14 +2523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 689910,
-      "num": 689910,
-      "word": "烟花",
-      "onboard_time": 1674136648,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 686873,
       "num": 557265,
       "word": "时代少年团红毯签了七个名字",
@@ -2681,6 +2681,14 @@
       "onboard_time": 1673785528,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 660731,
+      "num": 660731,
+      "word": "过年文案",
+      "onboard_time": 1674283943,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 660241,
@@ -3035,14 +3043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 612280,
-      "num": 612280,
-      "word": "过年文案",
-      "onboard_time": 1674283943,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 611900,
       "num": 489116,
       "word": "远嫁女子回婆家有客不能上桌吃饭",
@@ -3257,6 +3257,14 @@
       "onboard_time": 1673877570,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 585022,
+      "num": 585022,
+      "word": "央视镜头下的明星",
+      "onboard_time": 1674299606,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 584978,
@@ -3683,6 +3691,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 532128,
+      "num": 532128,
+      "word": "马嘉祺刘耀文奶奶真漂亮舞台",
+      "onboard_time": 1674298348,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 531070,
       "num": 531070,
       "word": "盘锦化工厂爆炸事故已致2人死亡12人失联",
@@ -3955,12 +3971,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 502745,
-      "num": 502745,
-      "word": "马嘉祺刘耀文奶奶真漂亮舞台",
-      "onboard_time": 1674298348,
-      "rank": 12,
-      "category": "音乐"
+      "raw_hot": 502437,
+      "num": 502437,
+      "word": "如何评价女性不能上桌吃饭",
+      "onboard_time": 1674293904,
+      "rank": 25,
+      "category": "社会议题"
     },
     {
       "raw_hot": 502391,
@@ -3977,14 +3993,6 @@
       "onboard_time": 1674204925,
       "rank": 11,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 501005,
-      "num": 501005,
-      "word": "如何评价女性不能上桌吃饭",
-      "onboard_time": 1674293904,
-      "rank": 25,
-      "category": "社会议题"
     },
     {
       "raw_hot": 500421,
@@ -4611,6 +4619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 438470,
+      "num": 438470,
+      "word": "女生起床收到20条除夕群发祝福",
+      "onboard_time": 1674297024,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438240,
       "num": 428556,
       "word": "赵丽颖国风墨竹白色长裙",
@@ -5179,6 +5195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392806,
+      "num": 392806,
+      "word": "新年祝福语",
+      "onboard_time": 1674292046,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 392492,
       "num": 229429,
       "word": "肖铎知道步音楼父亲是凶手",
@@ -5217,6 +5241,14 @@
       "onboard_time": 1674217889,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391324,
+      "num": 391324,
+      "word": "王俊凯王源易烊千玺TF家族官网新春VCR",
+      "onboard_time": 1674300629,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 390173,
@@ -5289,6 +5321,14 @@
       "onboard_time": 1673873131,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 385279,
+      "num": 347999,
+      "word": "林俊杰权志龙比耶合照",
+      "onboard_time": 1674300327,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 384425,
@@ -5729,14 +5769,6 @@
       "onboard_time": 1673929769,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 363057,
-      "num": 363057,
-      "word": "女生起床收到20条除夕群发祝福",
-      "onboard_time": 1674297024,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 362975,
@@ -6209,14 +6241,6 @@
       "onboard_time": 1673847990,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 335569,
-      "num": 335569,
-      "word": "新年祝福语",
-      "onboard_time": 1674292046,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 335283,
@@ -7449,6 +7473,14 @@
       "onboard_time": 1674036448,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 287654,
+      "num": 287654,
+      "word": "时代少年团2023楼晚节目单",
+      "onboard_time": 1674299907,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 287169,
@@ -8739,6 +8771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 246829,
+      "num": 230362,
+      "word": "宣璐汉服马面裙大片",
+      "onboard_time": 1674298526,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246732,
       "num": 246732,
       "word": "2022年我国GDP超121万亿元",
@@ -9633,14 +9673,6 @@
       "onboard_time": 1674086242,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 214449,
-      "num": 214449,
-      "word": "宣璐汉服马面裙大片",
-      "onboard_time": 1674298526,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 214279,
@@ -11011,6 +11043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 181939,
+      "num": 147087,
+      "word": "春晚押题小品",
+      "onboard_time": 1674297505,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181726,
       "num": 181726,
       "word": "2023年起CATTI考试一年仅考一次",
@@ -11169,6 +11209,14 @@
       "onboard_time": 1674141211,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178268,
+      "num": 141322,
+      "word": "周深说也要挑战下语言类节目",
+      "onboard_time": 1674300027,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 178152,
@@ -11619,6 +11667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169724,
+      "num": 181426,
+      "word": "兔年文案",
+      "onboard_time": 1674276445,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169691,
       "num": 169691,
       "word": "三体世界里的物理学家",
@@ -11648,14 +11704,6 @@
       "word": "新年壁纸",
       "onboard_time": 1674192325,
       "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 169060,
-      "num": 181426,
-      "word": "兔年文案",
-      "onboard_time": 1674276445,
-      "rank": 29,
       "category": "情感"
     },
     {
@@ -12443,6 +12491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151283,
+      "num": 151283,
+      "word": "压岁钱",
+      "onboard_time": 1674300689,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150809,
       "num": 150809,
       "word": "钎城说坚持给人力量",
@@ -13049,14 +13105,6 @@
       "onboard_time": 1673857886,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 137120,
-      "num": 117216,
-      "word": "央视镜头下的明星",
-      "onboard_time": 1674299606,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 136833,
@@ -14323,6 +14371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97300,
+      "num": 97300,
+      "word": "AG人的年夜饭",
+      "onboard_time": 1674300148,
+      "rank": 49,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 97140,
       "num": 182671,
       "word": "尼泊尔客机坠毁前最后画面",
@@ -14932,7 +14988,7 @@
     },
     {
       "raw_hot": 38334,
-      "num": 1429951,
+      "num": 2060097,
       "word": "新时代 我在中国",
       "onboard_time": 1674279563,
       "rank": 2,

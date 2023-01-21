@@ -1,7 +1,15 @@
 {
   "startTime": 1674231983947,
-  "endTime": 1674299654010,
+  "endTime": 1674300795747,
   "band_list": [
+    {
+      "raw_hot": 3844218,
+      "num": 3844218,
+      "word": "春晚",
+      "onboard_time": 1674299907,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2803275,
       "num": 2803275,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 2436826,
-      "num": 356573,
+      "num": 391202,
       "word": "Danielle道歉",
       "onboard_time": 1674283524,
       "rank": 10,
@@ -83,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1104411,
+      "num": 1104411,
+      "word": "孙茜一边化妆一边吃春晚盒饭",
+      "onboard_time": 1674296906,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1076975,
       "num": 1076975,
       "word": "又到了潮汕人最害怕的环节",
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 1051129,
-      "num": 346624,
+      "num": 391004,
       "word": "田小娟 广告",
       "onboard_time": 1674286284,
       "rank": 35,
@@ -179,6 +195,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 866096,
+      "num": 866096,
+      "word": "云南大理官方给去有风的地方剧组感谢信",
+      "onboard_time": 1674296906,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 857073,
       "num": 857073,
       "word": "妈妈用万元韩币换女儿一沓百元大钞",
@@ -195,14 +219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 836227,
-      "num": 836227,
-      "word": "云南大理官方给去有风的地方剧组感谢信",
-      "onboard_time": 1674296906,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 826535,
       "num": 257127,
       "word": "春晚没有贾玲张小斐",
@@ -217,14 +233,6 @@
       "onboard_time": 1674294084,
       "rank": 6,
       "category": "科技"
-    },
-    {
-      "raw_hot": 800958,
-      "num": 800958,
-      "word": "孙茜一边化妆一边吃春晚盒饭",
-      "onboard_time": 1674296906,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 782262,
@@ -257,6 +265,14 @@
       "onboard_time": 1674291504,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 730916,
+      "num": 730916,
+      "word": "烟花",
+      "onboard_time": 1674296486,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 722379,
@@ -299,14 +315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 689910,
-      "num": 689910,
-      "word": "烟花",
-      "onboard_time": 1674296486,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 676401,
       "num": 472348,
       "word": "肖战除夕雪景随拍",
@@ -315,20 +323,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 660731,
+      "num": 660731,
+      "word": "过年文案",
+      "onboard_time": 1674283943,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 630803,
       "num": 630803,
       "word": "上一个兔年春晚",
       "onboard_time": 1674259880,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 612280,
-      "num": 612280,
-      "word": "过年文案",
-      "onboard_time": 1674283943,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 604529,
@@ -353,6 +361,14 @@
       "onboard_time": 1674288084,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 585022,
+      "num": 585022,
+      "word": "央视镜头下的明星",
+      "onboard_time": 1674299606,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 575832,
@@ -411,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532128,
+      "num": 532128,
+      "word": "马嘉祺刘耀文奶奶真漂亮舞台",
+      "onboard_time": 1674298348,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 528007,
       "num": 528007,
       "word": "朱琳晋级",
@@ -467,16 +491,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 502745,
-      "num": 502745,
-      "word": "马嘉祺刘耀文奶奶真漂亮舞台",
-      "onboard_time": 1674298348,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 501005,
-      "num": 501005,
+      "raw_hot": 502437,
+      "num": 502437,
       "word": "如何评价女性不能上桌吃饭",
       "onboard_time": 1674293904,
       "rank": 25,
@@ -537,6 +553,14 @@
       "onboard_time": 1674282322,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 438470,
+      "num": 438470,
+      "word": "女生起床收到20条除夕群发祝福",
+      "onboard_time": 1674297024,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438240,
@@ -603,12 +627,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 392806,
+      "num": 392806,
+      "word": "新年祝福语",
+      "onboard_time": 1674292046,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 391324,
+      "num": 391324,
+      "word": "王俊凯王源易烊千玺TF家族官网新春VCR",
+      "onboard_time": 1674300629,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385400,
       "num": 385400,
       "word": "吴磊说本命年能参加春晚是个好兆头",
       "onboard_time": 1674268282,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 385279,
+      "num": 347999,
+      "word": "林俊杰权志龙比耶合照",
+      "onboard_time": 1674300327,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 383977,
@@ -667,14 +715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 363057,
-      "num": 363057,
-      "word": "女生起床收到20条除夕群发祝福",
-      "onboard_time": 1674297024,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 362975,
       "num": 255748,
       "word": "张艺兴新歌歌词全是吉祥话",
@@ -705,14 +745,6 @@
       "onboard_time": 1674281302,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 335569,
-      "num": 335569,
-      "word": "新年祝福语",
-      "onboard_time": 1674292046,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 328691,
@@ -883,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287654,
+      "num": 287654,
+      "word": "时代少年团2023楼晚节目单",
+      "onboard_time": 1674299907,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287169,
       "num": 287169,
       "word": "电影无名将开启路演",
@@ -1017,6 +1057,14 @@
       "onboard_time": 1674258317,
       "rank": 21,
       "category": "军事"
+    },
+    {
+      "raw_hot": 246829,
+      "num": 230362,
+      "word": "宣璐汉服马面裙大片",
+      "onboard_time": 1674298526,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 246017,
@@ -1176,14 +1224,6 @@
       "word": "宋轶新年兔子头造型",
       "onboard_time": 1674281784,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 214449,
-      "num": 214449,
-      "word": "宣璐汉服马面裙大片",
-      "onboard_time": 1674298526,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1435,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181939,
+      "num": 147087,
+      "word": "春晚押题小品",
+      "onboard_time": 1674297505,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181208,
       "num": 181208,
       "word": "戴燕妮RunIntoYou荆棘玫瑰舞台",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1674293365,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178268,
+      "num": 141322,
+      "word": "周深说也要挑战下语言类节目",
+      "onboard_time": 1674300027,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 177918,
@@ -1507,20 +1563,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169724,
+      "num": 181426,
+      "word": "兔年文案",
+      "onboard_time": 1674276445,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169363,
       "num": 169363,
       "word": "唐艺昕新剧看到孩子的反应好真实",
       "onboard_time": 1674232524,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169060,
-      "num": 181426,
-      "word": "兔年文案",
-      "onboard_time": 1674276445,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 167421,
@@ -1659,6 +1715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151283,
+      "num": 151283,
+      "word": "压岁钱",
+      "onboard_time": 1674300689,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150653,
       "num": 150653,
       "word": "女子化妆品被熊孩子弄坏上门理论",
@@ -1737,14 +1801,6 @@
       "onboard_time": 1674263304,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 137120,
-      "num": 117216,
-      "word": "央视镜头下的明星",
-      "onboard_time": 1674299606,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 136734,
@@ -2003,6 +2059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97300,
+      "num": 97300,
+      "word": "AG人的年夜饭",
+      "onboard_time": 1674300148,
+      "rank": 49,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 95357,
       "num": 95357,
       "word": "都快不认识这些字了",
@@ -2116,7 +2180,7 @@
     },
     {
       "raw_hot": 38334,
-      "num": 1429951,
+      "num": 2060097,
       "word": "新时代 我在中国",
       "onboard_time": 1674279563,
       "rank": 2,
