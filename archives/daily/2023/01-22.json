@@ -1,6 +1,6 @@
 {
   "startTime": 1674318242996,
-  "endTime": 1674325257022,
+  "endTime": 1674326095563,
   "band_list": [
     {
       "raw_hot": 9908054,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1392446,
+      "num": 1392446,
+      "word": "岳云鹏严重超时导致春晚演到大年初二",
+      "onboard_time": 1674305050,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1385781,
       "num": 1385781,
       "word": "成龙头发不duang了",
@@ -216,14 +224,6 @@
       "word": "唐诗逸好美",
       "onboard_time": 1674310322,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1285963,
-      "num": 1285963,
-      "word": "岳云鹏严重超时导致春晚演到大年初二",
-      "onboard_time": 1674305050,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -347,8 +347,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 627032,
-      "num": 595728,
+      "raw_hot": 654169,
+      "num": 654169,
       "word": "孙俪说就不能给邓超近镜",
       "onboard_time": 1674319723,
       "rank": 10,
@@ -376,6 +376,22 @@
       "word": "秦岚腿长",
       "onboard_time": 1674318647,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 398235,
+      "num": 398235,
+      "word": "赵丽颖唱了42个颜色名",
+      "onboard_time": 1674323903,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 363810,
+      "num": 363810,
+      "word": "王勉reaction",
+      "onboard_time": 1674324321,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -427,19 +443,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 319432,
-      "num": 319432,
-      "word": "赵丽颖唱了42个颜色名",
-      "onboard_time": 1674323903,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 302528,
-      "num": 302528,
-      "word": "王勉reaction",
-      "onboard_time": 1674324321,
-      "rank": 33,
+      "raw_hot": 306201,
+      "num": 306201,
+      "word": "许嵩谈恋爱以后更甜了",
+      "onboard_time": 1674323724,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -651,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99421,
+      "num": 296388,
+      "word": "女生起床收到20条除夕群发祝福",
+      "onboard_time": 1674297024,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88812,
       "num": 194786,
       "word": "让红包飞",
@@ -659,12 +675,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 74926,
-      "num": 296388,
-      "word": "女生起床收到20条除夕群发祝福",
-      "onboard_time": 1674297024,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 80342,
+      "num": 241341,
+      "word": "岳云鹏问撒贝宁你是疯了吗",
+      "onboard_time": 1674325459,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 65420,

@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674325257022,
+  "endTime": 1674326095563,
   "band_list": [
     {
       "raw_hot": 13632162,
@@ -1195,6 +1195,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1392446,
+      "num": 1392446,
+      "word": "岳云鹏严重超时导致春晚演到大年初二",
+      "onboard_time": 1674305050,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1385781,
       "num": 1385781,
       "word": "成龙头发不duang了",
@@ -1209,14 +1217,6 @@
       "onboard_time": 1673955568,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1374243,
-      "num": 1285963,
-      "word": "岳云鹏严重超时导致春晚演到大年初二",
-      "onboard_time": 1674305050,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 1368328,
@@ -3475,6 +3475,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 654169,
+      "num": 654169,
+      "word": "孙俪说就不能给邓超近镜",
+      "onboard_time": 1674319723,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 653279,
       "num": 653279,
       "word": "赵丽颖官宣加盟北京台春晚",
@@ -3641,14 +3649,6 @@
       "onboard_time": 1674085461,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 627032,
-      "num": 595728,
-      "word": "孙俪说就不能给邓超近镜",
-      "onboard_time": 1674319723,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 626914,
@@ -6019,6 +6019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 398235,
+      "num": 398235,
+      "word": "赵丽颖唱了42个颜色名",
+      "onboard_time": 1674323903,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 397814,
       "num": 397814,
       "word": "江疏影和梁朝伟有对手戏",
@@ -6625,6 +6633,14 @@
       "onboard_time": 1674202764,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 363810,
+      "num": 363810,
+      "word": "王勉reaction",
+      "onboard_time": 1674324321,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 363795,
@@ -7579,14 +7595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 319432,
-      "num": 319432,
-      "word": "赵丽颖唱了42个颜色名",
-      "onboard_time": 1674323903,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 319188,
       "num": 319188,
       "word": "看狂飙 好想吃肠粉",
@@ -7811,6 +7819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306201,
+      "num": 306201,
+      "word": "许嵩谈恋爱以后更甜了",
+      "onboard_time": 1674323724,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306063,
       "num": 306063,
       "word": "这就是普通人努力的意义吧",
@@ -7961,14 +7977,6 @@
       "onboard_time": 1674047430,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 302528,
-      "num": 302528,
-      "word": "王勉reaction",
-      "onboard_time": 1674324321,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 302178,
@@ -15721,6 +15729,14 @@
       "onboard_time": 1673875829,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 80342,
+      "num": 241341,
+      "word": "岳云鹏问撒贝宁你是疯了吗",
+      "onboard_time": 1674325459,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 80334,
