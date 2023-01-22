@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674411671853,
+  "endTime": 1674412512042,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -55137,6 +55137,14 @@
       "onboard_time": 1672513516,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33860,
+      "num": 33860,
+      "word": "流浪地球 人工智能",
+      "onboard_time": 1674412215,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 33653,
