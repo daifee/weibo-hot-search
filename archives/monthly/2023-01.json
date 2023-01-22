@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674355586664,
+  "endTime": 1674356164295,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -14091,6 +14091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 548683,
+      "num": 486185,
+      "word": "沈腾易烊千玺翻唱今夜无眠",
+      "onboard_time": 1674356069,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 548547,
       "num": 548547,
       "word": "eStar开除运营",
@@ -15217,6 +15225,14 @@
       "onboard_time": 1674180264,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 514421,
+      "num": 514421,
+      "word": "C罗卡点为中国球迷拜年",
+      "onboard_time": 1674354030,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 514417,
@@ -19707,14 +19723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 409112,
-      "num": 468333,
-      "word": "C罗卡点为中国球迷拜年",
-      "onboard_time": 1674354030,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 409092,
       "num": 409092,
       "word": "王一博说一往无前五一佳节见",
@@ -21361,6 +21369,14 @@
       "onboard_time": 1673234007,
       "rank": 46,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 382692,
+      "num": 382692,
+      "word": "电影无名终极海报",
+      "onboard_time": 1674352652,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 382433,
@@ -23264,14 +23280,6 @@
       "word": "王一博无名首映礼状态",
       "onboard_time": 1673940507,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 352669,
-      "num": 352669,
-      "word": "电影无名终极海报",
-      "onboard_time": 1674352652,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -27907,6 +27915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 295010,
+      "num": 287019,
+      "word": "gidle红白舞台",
+      "onboard_time": 1674354209,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 294949,
       "num": 182737,
       "word": "蚁人3正式预告",
@@ -28649,14 +28665,6 @@
       "onboard_time": 1673429072,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 287019,
-      "num": 287019,
-      "word": "gidle红白舞台",
-      "onboard_time": 1674354209,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 287011,
@@ -36139,6 +36147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216667,
+      "num": 263730,
+      "word": "流浪地球2今日上映",
+      "onboard_time": 1674355529,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216626,
       "num": 216626,
       "word": "6旬父亲摔倒睡觉儿子飞奔护住头",
@@ -36441,14 +36457,6 @@
       "onboard_time": 1673845952,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214203,
-      "num": 263730,
-      "word": "流浪地球2今日上映",
-      "onboard_time": 1674355529,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 214029,
@@ -46396,7 +46404,7 @@
     },
     {
       "raw_hot": 140494,
-      "num": 140494,
+      "num": 210070,
       "word": "拜年文案",
       "onboard_time": 1674350790,
       "rank": 37,

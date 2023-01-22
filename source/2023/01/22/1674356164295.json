@@ -1,0 +1,410 @@
+{
+  "runTime": 1674356164295,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1748612,
+        "num": 1748612,
+        "word": "孙俪 就不能给邓超近镜",
+        "onboard_time": 1674347730,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1522948,
+        "num": 1522948,
+        "word": "偷袭邓超",
+        "onboard_time": 1674352353,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7107,
+        "num": 1417102,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674279563,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1316862,
+        "num": 1316862,
+        "word": "周深被门夹了",
+        "onboard_time": 1674345205,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1070740,
+        "num": 1070740,
+        "word": "马丽 羽绒服满天飞毛",
+        "onboard_time": 1674313324,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 846461,
+        "num": 846461,
+        "word": "满江红",
+        "onboard_time": 1674322646,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 824145,
+        "num": 824145,
+        "word": "赵丽颖央视春晚怼脸镜头",
+        "onboard_time": 1674344845,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 801943,
+        "num": 801943,
+        "word": "杨紫苏有朋春晚后台聊天",
+        "onboard_time": 1674352952,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 769489,
+        "num": 769489,
+        "word": "过年好",
+        "onboard_time": 1674316434,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 682440,
+        "num": 736829,
+        "word": "正月初一几点起",
+        "onboard_time": 1674350309,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1790218,
+        "num": 736511,
+        "word": "董卿周涛",
+        "onboard_time": 1674349351,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 736017,
+        "num": 736017,
+        "word": "谢谢沈腾马丽",
+        "onboard_time": 1674313083,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 705528,
+        "num": 705528,
+        "word": "无名",
+        "onboard_time": 1674352652,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 663902,
+        "num": 663902,
+        "word": "27岁女生回家被集体催婚",
+        "onboard_time": 1674348570,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647568,
+        "num": 647568,
+        "word": "邓超 我控制的怎么样",
+        "onboard_time": 1674354330,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 631135,
+        "num": 631135,
+        "word": "兔子要被白宇摇晕了",
+        "onboard_time": 1674353670,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 627849,
+        "num": 627849,
+        "word": "王鹤棣抽到大奖的反应",
+        "onboard_time": 1674351449,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626087,
+        "num": 626087,
+        "word": "沈腾吃药",
+        "onboard_time": 1674311981,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573183,
+        "num": 573183,
+        "word": "李诞reaction",
+        "onboard_time": 1674351390,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514421,
+        "num": 514421,
+        "word": "C罗卡点为中国球迷拜年",
+        "onboard_time": 1674354030,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 548683,
+        "num": 486185,
+        "word": "沈腾易烊千玺翻唱今夜无眠",
+        "onboard_time": 1674356069,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447646,
+        "num": 447646,
+        "word": "是谁在唱歌 for you",
+        "onboard_time": 1674309417,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434776,
+        "num": 434776,
+        "word": "马丽鞋跟掉了",
+        "onboard_time": 1674312497,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382692,
+        "num": 382692,
+        "word": "电影无名终极海报",
+        "onboard_time": 1674352652,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375578,
+        "num": 375578,
+        "word": "脱口秀一整年的素材",
+        "onboard_time": 1674314456,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373354,
+        "num": 373354,
+        "word": "这首歌是写给冯禧的吗",
+        "onboard_time": 1674324861,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372652,
+        "num": 372652,
+        "word": "电影无名今日上映",
+        "onboard_time": 1674349830,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335031,
+        "num": 335031,
+        "word": "不能让躺平式干部再坑人了",
+        "onboard_time": 1674351269,
+        "rank": 27,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 315060,
+        "num": 315060,
+        "word": "大英博物馆庆祝韩国春节被骂到删帖",
+        "onboard_time": 1674321036,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225478,
+        "num": 225478,
+        "word": "终于见到了课本上的五彩大公鸡",
+        "onboard_time": 1674346587,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436934,
+        "num": 225149,
+        "word": "坑",
+        "onboard_time": 1674314932,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349613,
+        "num": 224583,
+        "word": "许嵩谈恋爱以后更甜了",
+        "onboard_time": 1674323724,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336986,
+        "num": 224052,
+        "word": "流浪地球",
+        "onboard_time": 1674351390,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313551,
+        "num": 223566,
+        "word": "岳云鹏严重超时导致春晚演到大年初二",
+        "onboard_time": 1674305050,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307912,
+        "num": 222573,
+        "word": "今年终于通知吴磊穿黑裤子了",
+        "onboard_time": 1674313852,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159113,
+        "num": 222098,
+        "word": "新年祝福",
+        "onboard_time": 1674347430,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121510,
+        "num": 221754,
+        "word": "压岁钱的南北差异",
+        "onboard_time": 1674341416,
+        "rank": 36,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 102827,
+        "num": 220826,
+        "word": "大年初一",
+        "onboard_time": 1674342438,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97993,
+        "num": 220207,
+        "word": "兔年",
+        "onboard_time": 1674318647,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97817,
+        "num": 220036,
+        "word": "五福开奖",
+        "onboard_time": 1674312237,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 282372,
+        "num": 219088,
+        "word": "赵丽颖唱了42个颜色名",
+        "onboard_time": 1674323903,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295010,
+        "num": 218939,
+        "word": "gidle红白舞台",
+        "onboard_time": 1674354209,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275255,
+        "num": 217867,
+        "word": "深海",
+        "onboard_time": 1674353248,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230305,
+        "num": 217706,
+        "word": "春晚舞台",
+        "onboard_time": 1674303522,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228793,
+        "num": 217077,
+        "word": "王勉reaction",
+        "onboard_time": 1674324321,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216667,
+        "num": 216667,
+        "word": "流浪地球2今日上映",
+        "onboard_time": 1674355529,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94102,
+        "num": 212488,
+        "word": "论中国留学生宿舍辨识度",
+        "onboard_time": 1674346166,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83261,
+        "num": 210758,
+        "word": "微博红包",
+        "onboard_time": 1674305334,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 79901,
+        "num": 210070,
+        "word": "拜年文案",
+        "onboard_time": 1674350790,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210016,
+        "num": 210016,
+        "word": "秦岚 阳康后嗓子一直时好时坏",
+        "onboard_time": 1674349531,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#回家的路#"
+    }
+  }
+}
