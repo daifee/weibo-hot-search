@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674382689573,
+  "endTime": 1674383619090,
   "band_list": [
     {
       "raw_hot": 13632162,
@@ -1323,6 +1323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1357271,
+      "num": 1357271,
+      "word": "无名票房",
+      "onboard_time": 1674377728,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1348776,
       "num": 1348776,
       "word": "网友吃席偶遇幼年版白敬亭",
@@ -1473,14 +1481,6 @@
       "onboard_time": 1674043109,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1256165,
-      "num": 1256165,
-      "word": "无名票房",
-      "onboard_time": 1674377728,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1251867,
@@ -2579,6 +2579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 853807,
+      "num": 772170,
+      "word": "张译演反派",
+      "onboard_time": 1674381506,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 852607,
       "num": 852607,
       "word": "狂飙第一个内鬼",
@@ -3169,14 +3177,6 @@
       "onboard_time": 1674098787,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 725959,
-      "num": 721448,
-      "word": "张译演反派",
-      "onboard_time": 1674381506,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 723520,
@@ -5411,6 +5411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 483966,
+      "num": 483966,
+      "word": "除夕夜男子为吃上硬币饺子用上神器",
+      "onboard_time": 1674379645,
+      "rank": 48,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 482845,
       "num": 482845,
       "word": "千万别帮广东人大扫除",
@@ -6531,6 +6539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393251,
+      "num": 393251,
+      "word": "张艺谋谈易烊千玺成长",
+      "onboard_time": 1674379466,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 393250,
       "num": 393250,
       "word": "yuan 菠菜",
@@ -7147,14 +7163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 360207,
-      "num": 360207,
-      "word": "除夕夜男子为吃上硬币饺子用上神器",
-      "onboard_time": 1674379645,
-      "rank": 48,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 359959,
       "num": 359959,
       "word": "买8寸蛋糕直径少4厘米索赔遭怼",
@@ -7177,14 +7185,6 @@
       "onboard_time": 1674175585,
       "rank": 9,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 356027,
-      "num": 356027,
-      "word": "张艺谋谈易烊千玺成长",
-      "onboard_time": 1674379466,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 355863,
@@ -8923,6 +8923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286841,
+      "num": 272331,
+      "word": "刘德华角色",
+      "onboard_time": 1674378507,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286653,
       "num": 286653,
       "word": "魏晨首登春晚好有范",
@@ -9451,14 +9459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 272331,
-      "num": 272331,
-      "word": "刘德华角色",
-      "onboard_time": 1674378507,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 272100,
       "num": 175035,
       "word": "许红豆谢之遥吃一碗面",
@@ -9545,6 +9545,14 @@
       "onboard_time": 1673923528,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269876,
+      "num": 269876,
+      "word": "现在小孩穿搭也太洋气了",
+      "onboard_time": 1674381865,
+      "rank": 36,
+      "category": "时尚"
     },
     {
       "raw_hot": 269839,
@@ -10755,6 +10763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233331,
+      "num": 132948,
+      "word": "流浪地球2票房破4亿",
+      "onboard_time": 1674380367,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233058,
       "num": 282979,
       "word": "男子过年包饺子放金戒指",
@@ -11209,6 +11225,14 @@
       "onboard_time": 1673773526,
       "rank": 17,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 217412,
+      "num": 123016,
+      "word": "流浪地球1",
+      "onboard_time": 1674382948,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 216994,
@@ -13211,14 +13235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175391,
-      "num": 116084,
-      "word": "流浪地球2票房破4亿",
-      "onboard_time": 1674380367,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 175308,
       "num": 175308,
       "word": "满江红从它开始预告",
@@ -13865,14 +13881,6 @@
       "onboard_time": 1674099147,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 162906,
-      "num": 116153,
-      "word": "现在小孩穿搭也太洋气了",
-      "onboard_time": 1674381865,
-      "rank": 36,
-      "category": "时尚"
     },
     {
       "raw_hot": 162768,
@@ -15427,6 +15435,14 @@
       "category": "军事,科技"
     },
     {
+      "raw_hot": 126665,
+      "num": 122935,
+      "word": "单身姐姐回家不让进门被妹妹嘲笑",
+      "onboard_time": 1674382646,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126433,
       "num": 126433,
       "word": "雷霆沙赞2确认引进",
@@ -15627,6 +15643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121426,
+      "num": 121426,
+      "word": "雷佳音张小斐体力都用来笑了",
+      "onboard_time": 1674383485,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 121252,
       "num": 71707,
       "word": "小S看大女儿出演苏打绿MV的reaction",
@@ -15745,6 +15769,14 @@
       "onboard_time": 1673923767,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 118357,
+      "num": 118357,
+      "word": "满江红微博开分9.5",
+      "onboard_time": 1674383605,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 118092,
@@ -17043,19 +17075,19 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 54403,
-      "num": 111039,
-      "word": "单身姐姐回家不让进门被妹妹嘲笑",
-      "onboard_time": 1674382646,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54160,
       "num": 54160,
       "word": "男子池塘救人被冰划破双腿全是血",
       "onboard_time": 1673903832,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53690,
+      "num": 118340,
+      "word": "春节过度饮酒易引发胰腺疾病",
+      "onboard_time": 1674382586,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
