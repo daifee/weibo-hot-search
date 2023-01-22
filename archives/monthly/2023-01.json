@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674418696762,
+  "endTime": 1674419608481,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -55529,6 +55529,14 @@
       "onboard_time": 1672570832,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11858,
+      "num": 18010,
+      "word": "杨迪演见钱眼开好像我本人",
+      "onboard_time": 1674416833,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 11368,
