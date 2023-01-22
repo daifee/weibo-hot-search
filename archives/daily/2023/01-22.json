@@ -1,6 +1,6 @@
 {
   "startTime": 1674318242996,
-  "endTime": 1674379007463,
+  "endTime": 1674380005059,
   "band_list": [
     {
       "raw_hot": 9908054,
@@ -379,6 +379,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1049157,
+      "num": 1049157,
+      "word": "无名票房",
+      "onboard_time": 1674377728,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1034901,
       "num": 1034901,
       "word": "赵丽颖央视春晚怼脸镜头",
@@ -401,6 +409,14 @@
       "onboard_time": 1674371125,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 930279,
+      "num": 930279,
+      "word": "流浪地球2口碑",
+      "onboard_time": 1674375207,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 924700,
@@ -433,14 +449,6 @@
       "onboard_time": 1674321036,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 851968,
-      "num": 851968,
-      "word": "流浪地球2口碑",
-      "onboard_time": 1674375207,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 849048,
@@ -521,14 +529,6 @@
       "onboard_time": 1674313442,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 736841,
-      "num": 736841,
-      "word": "无名票房",
-      "onboard_time": 1674377728,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 718363,
@@ -707,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504466,
+      "num": 471702,
+      "word": "无名上映首日打破2项纪录",
+      "onboard_time": 1674364227,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 484080,
       "num": 739414,
       "word": "侄女从台阶跌落女子飞扑接住",
@@ -729,14 +737,6 @@
       "onboard_time": 1674372926,
       "rank": 10,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 471702,
-      "num": 471702,
-      "word": "无名上映首日打破2项纪录",
-      "onboard_time": 1674364227,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 458050,
@@ -1019,6 +1019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272331,
+      "num": 272331,
+      "word": "刘德华角色",
+      "onboard_time": 1674378507,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270941,
       "num": 500814,
       "word": "脱口秀",
@@ -1075,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242769,
+      "num": 522011,
+      "word": "89岁奶奶给儿孙抓鸡一抓一箩筐",
+      "onboard_time": 1674375864,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241633,
       "num": 241633,
       "word": "店主请吃500天早餐环卫工现场赋诗",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1674359189,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231709,
+      "num": 231709,
+      "word": "满江红彩蛋",
+      "onboard_time": 1674377846,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 231407,
@@ -1152,14 +1176,6 @@
       "word": "交换人生像春节档的可乐",
       "onboard_time": 1674367107,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 220807,
-      "num": 220807,
-      "word": "满江红彩蛋",
-      "onboard_time": 1674377846,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -1267,20 +1283,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205531,
-      "num": 522011,
-      "word": "89岁奶奶给儿孙抓鸡一抓一箩筐",
-      "onboard_time": 1674375864,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195818,
       "num": 272266,
       "word": "韩旭吴磊最萌身高差",
       "onboard_time": 1674359126,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195690,
+      "num": 195690,
+      "word": "张艺谋谈易烊千玺成长",
+      "onboard_time": 1674379466,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 194991,
@@ -1329,14 +1345,6 @@
       "onboard_time": 1674294084,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 187368,
-      "num": 187368,
-      "word": "刘德华角色",
-      "onboard_time": 1674378507,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 187157,
@@ -1401,6 +1409,14 @@
       "onboard_time": 1674365667,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169133,
+      "num": 169133,
+      "word": "电影深海好看吗",
+      "onboard_time": 1674379406,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 168903,
@@ -1489,6 +1505,14 @@
       "onboard_time": 1674330913,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135428,
+      "num": 272855,
+      "word": "用盛世美颜征服人类艺术的兔兔",
+      "onboard_time": 1674378089,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130328,
@@ -1619,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100847,
-      "num": 263910,
-      "word": "用盛世美颜征服人类艺术的兔兔",
-      "onboard_time": 1674378089,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95769,
       "num": 264209,
       "word": "市民大年初一连夜排队抢雍和宫头香",
@@ -1683,8 +1699,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 77221,
-      "num": 143864,
+      "raw_hot": 78004,
+      "num": 177692,
       "word": "2023年印度羽毛球公开赛",
       "onboard_time": 1674374606,
       "rank": 46,
@@ -1723,12 +1739,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60018,
+      "num": 127848,
+      "word": "除夕夜男子为吃上硬币饺子用上神器",
+      "onboard_time": 1674379645,
+      "rank": 48,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 59053,
       "num": 59053,
       "word": "一条微博晒年味",
       "onboard_time": 1674330372,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 58544,
+      "num": 127769,
+      "word": "简单易学的新年气质发型",
+      "onboard_time": 1674379106,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 54944,
