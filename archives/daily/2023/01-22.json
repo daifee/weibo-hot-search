@@ -1,6 +1,6 @@
 {
   "startTime": 1674318242996,
-  "endTime": 1674361326854,
+  "endTime": 1674362232530,
   "band_list": [
     {
       "raw_hot": 9908054,
@@ -57,6 +57,14 @@
       "onboard_time": 1674314398,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3266840,
+      "num": 3266840,
+      "word": "难看",
+      "onboard_time": 1674360748,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 3084123,
@@ -179,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1615145,
+      "num": 1615145,
+      "word": "吴磊偷笑",
+      "onboard_time": 1674360148,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1593399,
       "num": 1593399,
       "word": "是谁在唱歌 for you",
@@ -275,14 +291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1333819,
-      "num": 1333819,
-      "word": "吴磊偷笑",
-      "onboard_time": 1674360148,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1302663,
       "num": 1302663,
       "word": "唐诗逸好美",
@@ -323,20 +331,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1153383,
+      "num": 1153383,
+      "word": "流浪地球2",
+      "onboard_time": 1674358405,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1128451,
       "num": 1128451,
       "word": "刘星姥姥和三大爷",
       "onboard_time": 1674311507,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1122822,
-      "num": 1122822,
-      "word": "难看",
-      "onboard_time": 1674360748,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1098669,
@@ -379,14 +387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 869784,
-      "num": 578784,
-      "word": "流浪地球2",
-      "onboard_time": 1674358405,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 866841,
       "num": 728169,
       "word": "脱口秀一整年的素材",
@@ -409,6 +409,14 @@
       "onboard_time": 1674296486,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 847081,
+      "num": 586945,
+      "word": "深海",
+      "onboard_time": 1674353248,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 842490,
@@ -457,14 +465,6 @@
       "onboard_time": 1674313442,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 726972,
-      "num": 581823,
-      "word": "深海",
-      "onboard_time": 1674353248,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 718363,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 633746,
-      "num": 520267,
+      "num": 544624,
       "word": "票房",
       "onboard_time": 1674359487,
       "rank": 16,
@@ -563,8 +563,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 513672,
-      "num": 513672,
+      "raw_hot": 545425,
+      "num": 545425,
       "word": "雍和宫",
       "onboard_time": 1674357629,
       "rank": 28,
@@ -723,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331215,
+      "num": 588420,
+      "word": "谷爱凌兔年首冠",
+      "onboard_time": 1674360388,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329868,
       "num": 773302,
       "word": "王俊凯王源易烊千玺TF家族官网新春VCR",
@@ -780,10 +788,18 @@
     },
     {
       "raw_hot": 284333,
-      "num": 125344,
+      "num": 182359,
       "word": "欧豪用九张图记录春晚全过程",
       "onboard_time": 1674358229,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 283961,
+      "num": 201983,
+      "word": "是妈妈是女儿",
+      "onboard_time": 1674359967,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -828,11 +844,19 @@
     },
     {
       "raw_hot": 257515,
-      "num": 125336,
+      "num": 185388,
       "word": "王鹤棣说北京话",
       "onboard_time": 1674359126,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256966,
+      "num": 256966,
+      "word": "36岁安徽男子娶22岁白俄罗斯模特",
+      "onboard_time": 1674360568,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253978,
@@ -851,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246344,
-      "num": 125324,
-      "word": "是妈妈是女儿",
-      "onboard_time": 1674359967,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 241633,
       "num": 241633,
       "word": "店主请吃500天早餐环卫工现场赋诗",
@@ -873,6 +889,14 @@
       "onboard_time": 1674283943,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 233058,
+      "num": 233058,
+      "word": "男子过年包饺子放金戒指",
+      "onboard_time": 1674359189,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231407,
@@ -899,12 +923,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 218379,
-      "num": 218379,
-      "word": "谷爱凌兔年首冠",
-      "onboard_time": 1674360388,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 225165,
+      "num": 225165,
+      "word": "烟花真的会给人带来幸福感",
+      "onboard_time": 1674360507,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 216994,
@@ -921,6 +945,14 @@
       "onboard_time": 1674355529,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216660,
+      "num": 179887,
+      "word": "宋祖儿小兔子发型细节",
+      "onboard_time": 1674361470,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 216106,
@@ -955,14 +987,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 211994,
-      "num": 211994,
-      "word": "男子过年包饺子放金戒指",
-      "onboard_time": 1674359189,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211487,
       "num": 269994,
       "word": "沈马组合yyds",
@@ -993,6 +1017,14 @@
       "onboard_time": 1674317865,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195818,
+      "num": 195818,
+      "word": "韩旭吴磊最萌身高差",
+      "onboard_time": 1674359126,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 194991,
@@ -1049,22 +1081,6 @@
       "onboard_time": 1674307313,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177975,
-      "num": 177975,
-      "word": "韩旭吴磊最萌身高差",
-      "onboard_time": 1674359126,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 171790,
-      "num": 171790,
-      "word": "36岁安徽男子娶22岁白俄罗斯模特",
-      "onboard_time": 1674360568,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146677,
@@ -1155,16 +1171,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115710,
-      "num": 125289,
-      "word": "烟花真的会给人带来幸福感",
-      "onboard_time": 1674360507,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 110541,
-      "num": 125280,
+      "num": 172496,
       "word": "中国队夺得大冬会女子冰壶金牌",
       "onboard_time": 1674360927,
       "rank": 47,
@@ -1188,7 +1196,7 @@
     },
     {
       "raw_hot": 95769,
-      "num": 125251,
+      "num": 175067,
       "word": "市民大年初一连夜排队抢雍和宫头香",
       "onboard_time": 1674358830,
       "rank": 49,
@@ -1209,6 +1217,14 @@
       "onboard_time": 1674321696,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 86011,
+      "num": 167676,
+      "word": "提前20天订房酒店称超售无法入住",
+      "onboard_time": 1674359728,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 80342,
@@ -1332,7 +1348,7 @@
     },
     {
       "raw_hot": 5252,
-      "num": 540102,
+      "num": 578998,
       "word": "兔年开运装备",
       "onboard_time": 1674360029,
       "rank": 14,
