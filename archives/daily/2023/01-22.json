@@ -1,6 +1,6 @@
 {
   "startTime": 1674318242996,
-  "endTime": 1674400658337,
+  "endTime": 1674401613554,
   "band_list": [
     {
       "raw_hot": 9908054,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1030408,
+      "num": 292364,
+      "word": "臭蛋",
+      "onboard_time": 1674398371,
+      "rank": 8,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1009174,
       "num": 1009174,
       "word": "实时票房",
@@ -715,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 668923,
+      "num": 668923,
+      "word": "虚拟邓丽君",
+      "onboard_time": 1674400469,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 654169,
       "num": 654169,
       "word": "孙俪说就不能给邓超近镜",
@@ -811,12 +827,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 619465,
-      "num": 292364,
-      "word": "臭蛋",
-      "onboard_time": 1674398371,
-      "rank": 8,
-      "category": "社会新闻,网红"
+      "raw_hot": 610913,
+      "num": 284572,
+      "word": "冯巩 我想死你们了",
+      "onboard_time": 1674398908,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 610301,
@@ -915,12 +931,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 530509,
+      "num": 284501,
+      "word": "毛不易给工作人员发完红包被踢出群",
+      "onboard_time": 1674396211,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 529481,
       "num": 529481,
       "word": "何冰韩童生 真的不错",
       "onboard_time": 1674389309,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 526650,
+      "num": 284468,
+      "word": "徐明浩直播",
+      "onboard_time": 1674399810,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 525695,
@@ -937,14 +969,6 @@
       "onboard_time": 1674396449,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 514563,
-      "num": 281959,
-      "word": "毛不易给工作人员发完红包被踢出群",
-      "onboard_time": 1674396211,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 512533,
@@ -969,14 +993,6 @@
       "onboard_time": 1674364227,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 503092,
-      "num": 275430,
-      "word": "冯巩 我想死你们了",
-      "onboard_time": 1674398908,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 497664,
@@ -1115,16 +1131,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 431718,
-      "num": 274556,
-      "word": "徐明浩直播",
-      "onboard_time": 1674399810,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 421340,
-      "num": 274356,
+      "num": 284071,
       "word": "张凌赫水牛报菜名",
       "onboard_time": 1674398728,
       "rank": 22,
@@ -1147,12 +1155,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411321,
+      "num": 284118,
+      "word": "满江红实时票房破4亿",
+      "onboard_time": 1674399512,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 409156,
       "num": 409156,
       "word": "2023江苏春晚节目单",
       "onboard_time": 1674357509,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400481,
+      "num": 400481,
+      "word": "朱琳 澳网",
+      "onboard_time": 1674385828,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 398235,
@@ -1192,14 +1216,6 @@
       "word": "流浪地球2票房破4亿",
       "onboard_time": 1674380367,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 385469,
-      "num": 273981,
-      "word": "满江红实时票房破4亿",
-      "onboard_time": 1674399512,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -1244,7 +1260,7 @@
     },
     {
       "raw_hot": 357192,
-      "num": 274190,
+      "num": 283783,
       "word": "张颂文演技",
       "onboard_time": 1674398493,
       "rank": 24,
@@ -1379,14 +1395,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 314964,
-      "num": 273157,
-      "word": "虚拟邓丽君",
-      "onboard_time": 1674400469,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 313403,
       "num": 313403,
       "word": "华晨宇向阳而生唱出希望感",
@@ -1451,20 +1459,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 295823,
-      "num": 355160,
-      "word": "朱琳 澳网",
-      "onboard_time": 1674385828,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 295010,
       "num": 287019,
       "word": "gidle红白舞台",
       "onboard_time": 1674354209,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 294638,
+      "num": 283757,
+      "word": "流浪地球2一部顶两部",
+      "onboard_time": 1674401188,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 293396,
@@ -1675,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247824,
+      "num": 307782,
+      "word": "澳网",
+      "onboard_time": 1674395852,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247320,
       "num": 282856,
       "word": "喜欢赖在床上的狗狗",
@@ -1756,7 +1772,7 @@
     },
     {
       "raw_hot": 228223,
-      "num": 275575,
+      "num": 283876,
       "word": "当你陪父母去看电影后",
       "onboard_time": 1674387631,
       "rank": 19,
@@ -1833,6 +1849,14 @@
       "onboard_time": 1674341416,
       "rank": 35,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 216916,
+      "num": 284333,
+      "word": "曼城vs狼队",
+      "onboard_time": 1674399632,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 216667,
@@ -1923,14 +1947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206894,
-      "num": 307782,
-      "word": "澳网",
-      "onboard_time": 1674395852,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205723,
       "num": 741731,
       "word": "尼格买提胸针",
@@ -1985,14 +2001,6 @@
       "onboard_time": 1674340455,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190176,
-      "num": 274934,
-      "word": "曼城vs狼队",
-      "onboard_time": 1674399632,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 189415,
@@ -2315,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114519,
+      "num": 283925,
+      "word": "小男孩滑跪式拜年太绝了",
+      "onboard_time": 1674399150,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114246,
       "num": 216783,
       "word": "古人怎么解鸡兔同笼问题",
@@ -2368,14 +2384,6 @@
       "word": "消防员版4分钟高效燃脂训练",
       "onboard_time": 1674368667,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101529,
-      "num": 273691,
-      "word": "小男孩滑跪式拜年太绝了",
-      "onboard_time": 1674399150,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2467,12 +2475,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77366,
+      "num": 245309,
+      "word": "巴啦啦能量隐藏技能出现",
+      "onboard_time": 1674401008,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73514,
       "num": 73514,
       "word": "周深一开口时光美满",
       "onboard_time": 1674323247,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71986,
+      "num": 214153,
+      "word": "这鹅可算是遇到对手了",
+      "onboard_time": 1674400529,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 67553,
@@ -2569,14 +2593,6 @@
       "onboard_time": 1674324981,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41786,
-      "num": 208758,
-      "word": "这鹅可算是遇到对手了",
-      "onboard_time": 1674400529,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 39903,
