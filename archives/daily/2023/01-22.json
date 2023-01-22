@@ -1,6 +1,6 @@
 {
   "startTime": 1674318242996,
-  "endTime": 1674380005059,
+  "endTime": 1674382689573,
   "band_list": [
     {
       "raw_hot": 9908054,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1256165,
+      "num": 1256165,
+      "word": "无名票房",
+      "onboard_time": 1674377728,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1252662,
       "num": 1252662,
       "word": "春晚节目单",
@@ -377,14 +385,6 @@
       "onboard_time": 1674305334,
       "rank": 19,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1049157,
-      "num": 1049157,
-      "word": "无名票房",
-      "onboard_time": 1674377728,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1034901,
@@ -529,6 +529,14 @@
       "onboard_time": 1674313442,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 725959,
+      "num": 721448,
+      "word": "张译演反派",
+      "onboard_time": 1674381506,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 718363,
@@ -771,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 443102,
+      "num": 357132,
+      "word": "赵丽颖希望用歌曲带大家了解传统文化",
+      "onboard_time": 1674376947,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 443094,
       "num": 443094,
       "word": "终于见到了课本上的五彩大公鸡",
@@ -851,12 +867,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360207,
+      "num": 360207,
+      "word": "除夕夜男子为吃上硬币饺子用上神器",
+      "onboard_time": 1674379645,
+      "rank": 48,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 358295,
       "num": 358295,
       "word": "马凡舒眼睛",
       "onboard_time": 1674311219,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356027,
+      "num": 356027,
+      "word": "张艺谋谈易烊千玺成长",
+      "onboard_time": 1674379466,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 355863,
@@ -1059,12 +1091,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 250536,
-      "num": 250536,
-      "word": "赵丽颖希望用歌曲带大家了解传统文化",
-      "onboard_time": 1674376947,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 250977,
+      "num": 250977,
+      "word": "张艺兴说过年了",
+      "onboard_time": 1674381445,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 250155,
@@ -1291,14 +1323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195690,
-      "num": 195690,
-      "word": "张艺谋谈易烊千玺成长",
-      "onboard_time": 1674379466,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 194991,
       "num": 194991,
       "word": "青春向太阳",
@@ -1363,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184905,
+      "num": 169133,
+      "word": "电影深海好看吗",
+      "onboard_time": 1674379406,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182549,
       "num": 182549,
       "word": "谭维维发长文谈百鸟归巢",
@@ -1403,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175391,
+      "num": 116084,
+      "word": "流浪地球2票房破4亿",
+      "onboard_time": 1674380367,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169170,
       "num": 381055,
       "word": "呼啸山庄以前被翻译为咆哮山庄",
@@ -1411,20 +1451,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169133,
-      "num": 169133,
-      "word": "电影深海好看吗",
-      "onboard_time": 1674379406,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 168903,
       "num": 168903,
       "word": "电影无名观后感",
       "onboard_time": 1674372266,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162906,
+      "num": 116153,
+      "word": "现在小孩穿搭也太洋气了",
+      "onboard_time": 1674381865,
+      "rank": 36,
+      "category": "时尚"
     },
     {
       "raw_hot": 161829,
@@ -1441,6 +1481,14 @@
       "onboard_time": 1674376047,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154139,
+      "num": 290937,
+      "word": "孙子给奶奶拜年把不锈钢盆磕出坑",
+      "onboard_time": 1674381325,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151092,
@@ -1508,7 +1556,7 @@
     },
     {
       "raw_hot": 135428,
-      "num": 272855,
+      "num": 275409,
       "word": "用盛世美颜征服人类艺术的兔兔",
       "onboard_time": 1674378089,
       "rank": 27,
@@ -1585,6 +1633,14 @@
       "onboard_time": 1674343580,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116010,
+      "num": 116010,
+      "word": "王佳怡演技",
+      "onboard_time": 1674382586,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 114246,
@@ -1739,14 +1795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60018,
-      "num": 127848,
-      "word": "除夕夜男子为吃上硬币饺子用上神器",
-      "onboard_time": 1674379645,
-      "rank": 48,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 59053,
       "num": 59053,
       "word": "一条微博晒年味",
@@ -1769,6 +1817,14 @@
       "onboard_time": 1674326357,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54403,
+      "num": 111039,
+      "word": "单身姐姐回家不让进门被妹妹嘲笑",
+      "onboard_time": 1674382646,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52757,
@@ -1879,6 +1935,9 @@
     },
     {
       "word": "#兔年到好运来#"
+    },
+    {
+      "word": "#全家人的笑脸就是春节的意义#"
     }
   ]
 }
