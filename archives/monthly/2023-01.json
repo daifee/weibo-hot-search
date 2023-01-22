@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674401613554,
+  "endTime": 1674404621584,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -713,6 +713,14 @@
       "onboard_time": 1674312237,
       "rank": 8,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2851314,
+      "num": 2851314,
+      "word": "虞书欣美呆",
+      "onboard_time": 1674402147,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2832749,
@@ -2689,6 +2697,14 @@
       "onboard_time": 1672916552,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1552389,
+      "num": 1552389,
+      "word": "流浪地球2一部顶两部",
+      "onboard_time": 1674401188,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 1552125,
@@ -20347,6 +20363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408702,
+      "num": 234361,
+      "word": "龚俊唱歌好听",
+      "onboard_time": 1674403107,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408234,
       "num": 408234,
       "word": "突发心慌心悸警惕病毒性心肌炎",
@@ -21993,6 +22017,14 @@
       "onboard_time": 1673234007,
       "rank": 46,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 382715,
+      "num": 224131,
+      "word": "王心凌好甜",
+      "onboard_time": 1674401786,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 382692,
@@ -24411,6 +24443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 347235,
+      "num": 201594,
+      "word": "这个叫五粮液的女主持还挺好看",
+      "onboard_time": 1674402746,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347047,
       "num": 347047,
       "word": "Jennie曼谷演唱会上的颜值",
@@ -25576,6 +25616,14 @@
       "word": "想见你首曝王诠胜刘宇恒海报",
       "onboard_time": 1673970568,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 332575,
+      "num": 185061,
+      "word": "电影票房",
+      "onboard_time": 1674403226,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -28728,14 +28776,6 @@
       "word": "顾南亭给程霄妈妈的初印象",
       "onboard_time": 1673325994,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 294638,
-      "num": 283757,
-      "word": "流浪地球2一部顶两部",
-      "onboard_time": 1674401188,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -32633,6 +32673,14 @@
       "onboard_time": 1672838733,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259499,
+      "num": 259499,
+      "word": "这鹅可算是遇到对手了",
+      "onboard_time": 1674400529,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 259435,
@@ -47659,6 +47707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139991,
+      "num": 139991,
+      "word": "去有风的地方拜年礼",
+      "onboard_time": 1674401908,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139983,
       "num": 83947,
       "word": "张真源2023元旦vlog",
@@ -53707,6 +53763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80525,
+      "num": 245309,
+      "word": "巴啦啦能量隐藏技能出现",
+      "onboard_time": 1674401008,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80342,
       "num": 241341,
       "word": "岳云鹏问撒贝宁你是疯了吗",
@@ -53833,14 +53897,6 @@
       "onboard_time": 1672561411,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 77366,
-      "num": 245309,
-      "word": "巴啦啦能量隐藏技能出现",
-      "onboard_time": 1674401008,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 76907,
@@ -54033,14 +54089,6 @@
       "onboard_time": 1673632517,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71986,
-      "num": 214153,
-      "word": "这鹅可算是遇到对手了",
-      "onboard_time": 1674400529,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 71816,
@@ -54913,6 +54961,14 @@
       "onboard_time": 1672679779,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38431,
+      "num": 139153,
+      "word": "孩子们挨家祝福获赠零食压岁钱",
+      "onboard_time": 1674402629,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38334,
