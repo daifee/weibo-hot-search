@@ -1,6 +1,6 @@
 {
   "startTime": 1674318242996,
-  "endTime": 1674394396801,
+  "endTime": 1674396918862,
   "band_list": [
     {
       "raw_hot": 9908054,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1403673,
+      "num": 1403673,
+      "word": "张若昀 帅颠了",
+      "onboard_time": 1674393210,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1385781,
       "num": 1385781,
       "word": "成龙头发不duang了",
@@ -384,6 +392,22 @@
       "word": "上热搜了",
       "onboard_time": 1674313674,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1146718,
+      "num": 1146718,
+      "word": "泰国通报中国人在泰订到警车接机",
+      "onboard_time": 1674393210,
+      "rank": 36,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1143724,
+      "num": 1143724,
+      "word": "谭松韵美",
+      "onboard_time": 1674395311,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -537,14 +561,6 @@
       "onboard_time": 1674385525,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 795855,
-      "num": 795855,
-      "word": "张若昀 帅颠了",
-      "onboard_time": 1674393210,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 794420,
@@ -779,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 603564,
+      "num": 488866,
+      "word": "易烊千玺满江红好稳",
+      "onboard_time": 1674391649,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 591960,
       "num": 364628,
       "word": "邓超说批评是非常好的良药",
@@ -835,6 +859,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 533974,
+      "num": 382301,
+      "word": "王一博语言天赋",
+      "onboard_time": 1674395434,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 531252,
       "num": 531252,
       "word": "马丽 切尔西",
@@ -883,12 +915,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 488866,
-      "num": 488866,
-      "word": "易烊千玺满江红好稳",
-      "onboard_time": 1674391649,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 487699,
+      "num": 380212,
+      "word": "姑姑188",
+      "onboard_time": 1674392370,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 484080,
@@ -948,7 +980,7 @@
     },
     {
       "raw_hot": 452362,
-      "num": 283063,
+      "num": 291299,
       "word": "反诈银行",
       "onboard_time": 1674392968,
       "rank": 23,
@@ -996,7 +1028,7 @@
     },
     {
       "raw_hot": 435732,
-      "num": 282642,
+      "num": 339599,
       "word": "你们去电影院接生去了",
       "onboard_time": 1674391530,
       "rank": 32,
@@ -1027,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 409267,
-      "num": 281702,
-      "word": "姑姑188",
-      "onboard_time": 1674392370,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 409156,
       "num": 409156,
       "word": "2023江苏春晚节目单",
@@ -1043,20 +1067,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 408777,
-      "num": 408777,
-      "word": "泰国通报中国人在泰订到警车接机",
-      "onboard_time": 1674393210,
-      "rank": 36,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 398235,
       "num": 398235,
       "word": "赵丽颖唱了42个颜色名",
       "onboard_time": 1674323903,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 396119,
+      "num": 396119,
+      "word": "你家宠物对放炮有什么反应",
+      "onboard_time": 1674390988,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 394835,
@@ -1107,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 377601,
+      "num": 377601,
+      "word": "无名路演",
+      "onboard_time": 1674395732,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 358295,
       "num": 358295,
       "word": "马凡舒眼睛",
@@ -1131,8 +1163,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348325,
+      "num": 348325,
+      "word": "王濛和宋小宝在一起好好笑",
+      "onboard_time": 1674396273,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 348300,
-      "num": 278038,
+      "num": 320267,
       "word": "满江红结局",
       "onboard_time": 1674390690,
       "rank": 43,
@@ -1188,7 +1228,7 @@
     },
     {
       "raw_hot": 332127,
-      "num": 278307,
+      "num": 307668,
       "word": "北京春晚节目单",
       "onboard_time": 1674393991,
       "rank": 31,
@@ -1235,6 +1275,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 313403,
+      "num": 313403,
+      "word": "华晨宇向阳而生唱出希望感",
+      "onboard_time": 1674396633,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 312882,
+      "num": 312882,
+      "word": "周深说想念就去相见吧",
+      "onboard_time": 1674394413,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309053,
       "num": 224399,
       "word": "百花迎春",
@@ -1272,6 +1328,14 @@
       "word": "秦岚 阳康后嗓子一直时好时坏",
       "onboard_time": 1674349531,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 299949,
+      "num": 299949,
+      "word": "周也主持",
+      "onboard_time": 1674396449,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -1331,12 +1395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283260,
-      "num": 283260,
-      "word": "你家宠物对放炮有什么反应",
-      "onboard_time": 1674390988,
-      "rank": 37,
-      "category": "幽默,情感"
+      "raw_hot": 281959,
+      "num": 281959,
+      "word": "毛不易给工作人员发完红包被踢出群",
+      "onboard_time": 1674396211,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 280211,
@@ -1364,7 +1428,7 @@
     },
     {
       "raw_hot": 274091,
-      "num": 275929,
+      "num": 283034,
       "word": "狗子讨要压岁钱只要红色票子",
       "onboard_time": 1674384868,
       "rank": 18,
@@ -1377,6 +1441,14 @@
       "onboard_time": 1674319007,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 272214,
+      "num": 272214,
+      "word": "贾冰 煽情小品",
+      "onboard_time": 1674396273,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 271513,
@@ -1435,12 +1507,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254359,
+      "num": 254359,
+      "word": "魏大勋rap",
+      "onboard_time": 1674394652,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253978,
       "num": 509676,
       "word": "兔子",
       "onboard_time": 1674319127,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251381,
+      "num": 251381,
+      "word": "希林娜依高唱三体战歌",
+      "onboard_time": 1674395852,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 250977,
@@ -1468,7 +1556,7 @@
     },
     {
       "raw_hot": 247320,
-      "num": 279902,
+      "num": 282856,
       "word": "喜欢赖在床上的狗狗",
       "onboard_time": 1674387566,
       "rank": 18,
@@ -1572,7 +1660,7 @@
     },
     {
       "raw_hot": 225779,
-      "num": 280702,
+      "num": 355160,
       "word": "朱琳 澳网",
       "onboard_time": 1674385828,
       "rank": 37,
@@ -1771,6 +1859,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 186637,
+      "num": 309907,
+      "word": "厦门金门同时绽放焰火庆祝新年",
+      "onboard_time": 1674392968,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185588,
       "num": 185588,
       "word": "抬头见喜",
@@ -1820,7 +1916,7 @@
     },
     {
       "raw_hot": 179160,
-      "num": 280162,
+      "num": 283720,
       "word": "今年会遇上心软的财神爷吗",
       "onboard_time": 1674392370,
       "rank": 27,
@@ -1881,6 +1977,14 @@
       "onboard_time": 1674378507,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162892,
+      "num": 307782,
+      "word": "澳网",
+      "onboard_time": 1674395852,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 161829,
@@ -2139,14 +2243,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 94080,
-      "num": 233800,
-      "word": "厦门金门同时绽放焰火庆祝新年",
-      "onboard_time": 1674392968,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91695,
       "num": 91695,
       "word": "杨紫C位",
@@ -2184,6 +2280,14 @@
       "word": "春节过度饮酒易引发胰腺疾病",
       "onboard_time": 1674382586,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82332,
+      "num": 282197,
+      "word": "两岸同胞拜大年",
+      "onboard_time": 1674395369,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
