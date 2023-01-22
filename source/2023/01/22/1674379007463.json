@@ -1,0 +1,410 @@
+{
+  "runTime": 1674379007463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1564946,
+        "num": 1564946,
+        "word": "流浪地球2",
+        "onboard_time": 1674358405,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1349820,
+        "num": 1349820,
+        "word": "满江红",
+        "onboard_time": 1674322646,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77459,
+        "num": 1032710,
+        "word": "兔年第一个愿望",
+        "onboard_time": 1674370464,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016039,
+        "num": 1016039,
+        "word": "无名",
+        "onboard_time": 1674352652,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 851968,
+        "num": 851968,
+        "word": "流浪地球2口碑",
+        "onboard_time": 1674375207,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 736841,
+        "num": 736841,
+        "word": "无名票房",
+        "onboard_time": 1674377728,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 682003,
+        "num": 682003,
+        "word": "沈腾临场改词艾伦直接愣住了",
+        "onboard_time": 1674371125,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543827,
+        "num": 543827,
+        "word": "我承认小看这个烟花了",
+        "onboard_time": 1674372207,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254045,
+        "num": 536029,
+        "word": "谷爱凌过年3天2金",
+        "onboard_time": 1674367707,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205531,
+        "num": 522011,
+        "word": "89岁奶奶给儿孙抓鸡一抓一箩筐",
+        "onboard_time": 1674375864,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662983,
+        "num": 511944,
+        "word": "深海",
+        "onboard_time": 1674353248,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 639217,
+        "num": 495742,
+        "word": "王一博演技",
+        "onboard_time": 1674369746,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556163,
+        "num": 478341,
+        "word": "唐诗逸舞蹈袖子2米长",
+        "onboard_time": 1674374483,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471702,
+        "num": 471702,
+        "word": "无名上映首日打破2项纪录",
+        "onboard_time": 1674364227,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379468,
+        "num": 379468,
+        "word": "36岁安徽男子娶22岁白俄罗斯模特",
+        "onboard_time": 1674360568,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353855,
+        "num": 353855,
+        "word": "华晨宇秒猜易烊千玺角色名",
+        "onboard_time": 1674372926,
+        "rank": 15,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 313808,
+        "num": 313808,
+        "word": "周深大学老师曾非常反对他唱流行",
+        "onboard_time": 1674365967,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142703,
+        "num": 293426,
+        "word": "侄女从台阶跌落女子飞扑接住",
+        "onboard_time": 1674365608,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142110,
+        "num": 292620,
+        "word": "一不小心开了天窗和你共白头",
+        "onboard_time": 1674371725,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129547,
+        "num": 292355,
+        "word": "阴阳师",
+        "onboard_time": 1674366386,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292282,
+        "num": 292282,
+        "word": "吴磊偷笑",
+        "onboard_time": 1674360148,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289825,
+        "num": 289825,
+        "word": "马丽鞋跟断掉是意外",
+        "onboard_time": 1674367227,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283583,
+        "num": 283583,
+        "word": "交换人生",
+        "onboard_time": 1674357567,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281337,
+        "num": 281337,
+        "word": "孙俪 就不能给邓超近镜",
+        "onboard_time": 1674347730,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278102,
+        "num": 278102,
+        "word": "张婧仪演技",
+        "onboard_time": 1674365967,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274225,
+        "num": 274225,
+        "word": "票房",
+        "onboard_time": 1674359487,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111765,
+        "num": 270513,
+        "word": "呼啸山庄以前被翻译为咆哮山庄",
+        "onboard_time": 1674365667,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100847,
+        "num": 263910,
+        "word": "用盛世美颜征服人类艺术的兔兔",
+        "onboard_time": 1674378089,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98813,
+        "num": 257605,
+        "word": "大熊猫身上的功夫藏不住了",
+        "onboard_time": 1674373464,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91793,
+        "num": 251608,
+        "word": "成都兔年兔含量超标",
+        "onboard_time": 1674370285,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250536,
+        "num": 250536,
+        "word": "赵丽颖希望用歌曲带大家了解传统文化",
+        "onboard_time": 1674376947,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220807,
+        "num": 220807,
+        "word": "满江红彩蛋",
+        "onboard_time": 1674377846,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216512,
+        "num": 216512,
+        "word": "邓超不出画挑战 春晚导播版",
+        "onboard_time": 1674367348,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211173,
+        "num": 211173,
+        "word": "沈腾可能要请很多人吃饭了",
+        "onboard_time": 1674364287,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200289,
+        "num": 200289,
+        "word": "马丽 羽绒服满天飞毛",
+        "onboard_time": 1674313324,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187368,
+        "num": 187368,
+        "word": "刘德华角色",
+        "onboard_time": 1674378507,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106967,
+        "num": 186943,
+        "word": "炉石年夜饭",
+        "onboard_time": 1674373346,
+        "rank": 36,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 75671,
+        "num": 184344,
+        "word": "过年好",
+        "onboard_time": 1674316434,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 73989,
+        "num": 181699,
+        "word": "蛋仔派对",
+        "onboard_time": 1674356848,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69755,
+        "num": 181035,
+        "word": "雍和宫",
+        "onboard_time": 1674357629,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 179412,
+        "num": 179412,
+        "word": "吴彤嗓音",
+        "onboard_time": 1674373946,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161829,
+        "num": 161829,
+        "word": "流浪地球2彩蛋",
+        "onboard_time": 1674377364,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157115,
+        "num": 157115,
+        "word": "偷袭邓超",
+        "onboard_time": 1674352353,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160830,
+        "num": 156340,
+        "word": "流浪地球",
+        "onboard_time": 1674351390,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146310,
+        "num": 146310,
+        "word": "满江红配乐",
+        "onboard_time": 1674375207,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141481,
+        "num": 141481,
+        "word": "兔年大年初一电影票房破7亿元",
+        "onboard_time": 1674378507,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65512,
+        "num": 141164,
+        "word": "27岁女生回家被集体催婚",
+        "onboard_time": 1674348570,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61248,
+        "num": 140514,
+        "word": "2023年印度羽毛球公开赛",
+        "onboard_time": 1674374606,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43920,
+        "num": 139431,
+        "word": "烟花真的会给人带来幸福感",
+        "onboard_time": 1674360507,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36996,
+        "num": 138808,
+        "word": "百名萌娃用戏曲拜年太可爱",
+        "onboard_time": 1674375565,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#过年#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1674318242996,
-  "endTime": 1674376563660,
+  "endTime": 1674379007463,
   "band_list": [
     {
       "raw_hot": 9908054,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 851968,
+      "num": 851968,
+      "word": "流浪地球2口碑",
+      "onboard_time": 1674375207,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 849048,
       "num": 1221023,
       "word": "烟花",
@@ -513,6 +521,14 @@
       "onboard_time": 1674313442,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 736841,
+      "num": 736841,
+      "word": "无名票房",
+      "onboard_time": 1674377728,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 718363,
@@ -643,20 +659,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 580762,
-      "num": 580762,
-      "word": "流浪地球2口碑",
-      "onboard_time": 1674375207,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 564766,
       "num": 564766,
       "word": "兔年",
       "onboard_time": 1674318647,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 556163,
+      "num": 478341,
+      "word": "唐诗逸舞蹈袖子2米长",
+      "onboard_time": 1674374483,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 552881,
@@ -713,6 +729,14 @@
       "onboard_time": 1674372926,
       "rank": 10,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 471702,
+      "num": 471702,
+      "word": "无名上映首日打破2项纪录",
+      "onboard_time": 1674364227,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 458050,
@@ -795,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 402432,
-      "num": 402432,
-      "word": "唐诗逸舞蹈袖子2米长",
-      "onboard_time": 1674374483,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 398235,
       "num": 398235,
       "word": "赵丽颖唱了42个颜色名",
@@ -849,14 +865,6 @@
       "onboard_time": 1674320856,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 355297,
-      "num": 355297,
-      "word": "无名上映首日打破2项纪录",
-      "onboard_time": 1674364227,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 349406,
@@ -1043,6 +1051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 250536,
+      "num": 250536,
+      "word": "赵丽颖希望用歌曲带大家了解传统文化",
+      "onboard_time": 1674376947,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250155,
       "num": 250155,
       "word": "满江红配乐",
@@ -1136,6 +1152,14 @@
       "word": "交换人生像春节档的可乐",
       "onboard_time": 1674367107,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220807,
+      "num": 220807,
+      "word": "满江红彩蛋",
+      "onboard_time": 1674377846,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1243,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205531,
+      "num": 522011,
+      "word": "89岁奶奶给儿孙抓鸡一抓一箩筐",
+      "onboard_time": 1674375864,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195818,
       "num": 272266,
       "word": "韩旭吴磊最萌身高差",
@@ -1299,6 +1331,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 187368,
+      "num": 187368,
+      "word": "刘德华角色",
+      "onboard_time": 1674378507,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187157,
       "num": 234086,
       "word": "兔年第一条微博",
@@ -1339,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179412,
+      "num": 179412,
+      "word": "吴彤嗓音",
+      "onboard_time": 1674373946,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177508,
       "num": 177508,
       "word": "再就业男团收到了王铮亮的暗号",
@@ -1360,6 +1408,14 @@
       "word": "电影无名观后感",
       "onboard_time": 1674372266,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 161829,
+      "num": 161829,
+      "word": "流浪地球2彩蛋",
+      "onboard_time": 1674377364,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1387,12 +1443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145534,
-      "num": 145534,
-      "word": "吴彤嗓音",
-      "onboard_time": 1674373946,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 141481,
+      "num": 141481,
+      "word": "兔年大年初一电影票房破7亿元",
+      "onboard_time": 1674378507,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 140494,
@@ -1531,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106967,
+      "num": 190643,
+      "word": "炉石年夜饭",
+      "onboard_time": 1674373346,
+      "rank": 38,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 105799,
       "num": 734354,
       "word": "利物浦vs切尔西",
@@ -1555,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100847,
+      "num": 263910,
+      "word": "用盛世美颜征服人类艺术的兔兔",
+      "onboard_time": 1674378089,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95769,
       "num": 264209,
       "word": "市民大年初一连夜排队抢雍和宫头香",
@@ -1569,14 +1641,6 @@
       "onboard_time": 1674304072,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89348,
-      "num": 190643,
-      "word": "炉石年夜饭",
-      "onboard_time": 1674373346,
-      "rank": 38,
-      "category": "游戏,美食"
     },
     {
       "raw_hot": 88812,
@@ -1633,14 +1697,6 @@
       "onboard_time": 1674323247,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 68146,
-      "num": 145321,
-      "word": "89岁奶奶给儿孙抓鸡一抓一箩筐",
-      "onboard_time": 1674375864,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67553,
