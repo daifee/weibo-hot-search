@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674405652139,
+  "endTime": 1674407729402,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -136,6 +136,14 @@
       "word": "赵丽颖 笑得好开心",
       "onboard_time": 1674397351,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 287340,
+      "num": 124098,
+      "word": "蒋勤勤惊艳扮相",
+      "onboard_time": 1674405503,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156295,
+      "num": 156295,
+      "word": "2023新年快乐",
+      "onboard_time": 1674406821,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143335,
       "num": 242429,
       "word": "朱琳 澳网",
@@ -299,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129481,
+      "num": 236554,
+      "word": "单身姐姐回家不让进门被妹妹嘲笑",
+      "onboard_time": 1674382646,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126021,
       "num": 126021,
       "word": "你们去电影院接生去了",
@@ -307,20 +331,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 120492,
-      "num": 236554,
-      "word": "单身姐姐回家不让进门被妹妹嘲笑",
-      "onboard_time": 1674382646,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114362,
-      "num": 114362,
-      "word": "蒋勤勤惊艳扮相",
-      "onboard_time": 1674405503,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 122507,
+      "num": 83063,
+      "word": "满江红结局",
+      "onboard_time": 1674390690,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 104114,
@@ -337,6 +353,14 @@
       "onboard_time": 1674392968,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96690,
+      "num": 80198,
+      "word": "流浪地球 MOSS",
+      "onboard_time": 1674386669,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 83205,
@@ -363,12 +387,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78833,
+      "num": 78833,
+      "word": "王一博语言天赋",
+      "onboard_time": 1674395434,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76696,
       "num": 192454,
       "word": "喜欢赖在床上的狗狗",
       "onboard_time": 1674387566,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72813,
+      "num": 165776,
+      "word": "父母有权保管使用孩子压岁钱吗",
+      "onboard_time": 1674386787,
+      "rank": 47,
+      "category": "社会议题"
     },
     {
       "raw_hot": 70802,
@@ -385,14 +425,6 @@
       "onboard_time": 1674385166,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63499,
-      "num": 165776,
-      "word": "父母有权保管使用孩子压岁钱吗",
-      "onboard_time": 1674386787,
-      "rank": 47,
-      "category": "社会议题"
     },
     {
       "raw_hot": 60214,
