@@ -1,6 +1,6 @@
 {
   "startTime": 1674318242996,
-  "endTime": 1674393663921,
+  "endTime": 1674394396801,
   "band_list": [
     {
       "raw_hot": 9908054,
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1009174,
+      "num": 1009174,
+      "word": "实时票房",
+      "onboard_time": 1674390630,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 998403,
       "num": 794748,
       "word": "黄绮珊希林娜依高感染力",
@@ -441,14 +449,6 @@
       "onboard_time": 1674371125,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 974055,
-      "num": 974055,
-      "word": "实时票房",
-      "onboard_time": 1674390630,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 933064,
@@ -537,6 +537,14 @@
       "onboard_time": 1674385525,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 795855,
+      "num": 795855,
+      "word": "张若昀 帅颠了",
+      "onboard_time": 1674393210,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 794420,
@@ -651,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 677718,
+      "num": 677718,
+      "word": "乐山一热气球爆炸坠落有人受伤",
+      "onboard_time": 1674391766,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 672219,
       "num": 672219,
       "word": "李诞reaction",
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 620393,
-      "num": 721974,
+      "num": 778483,
       "word": "现在小孩穿搭也太洋气了",
       "onboard_time": 1674381865,
       "rank": 36,
@@ -867,12 +883,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 486371,
-      "num": 486371,
-      "word": "乐山一热气球爆炸坠落有人受伤",
-      "onboard_time": 1674391766,
-      "rank": 48,
-      "category": "社会负面"
+      "raw_hot": 488866,
+      "num": 488866,
+      "word": "易烊千玺满江红好稳",
+      "onboard_time": 1674391649,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 484080,
@@ -931,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 452362,
+      "num": 283063,
+      "word": "反诈银行",
+      "onboard_time": 1674392968,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451244,
       "num": 679687,
       "word": "谷爱凌过年3天2金",
@@ -971,8 +995,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 435197,
-      "num": 195726,
+      "raw_hot": 435732,
+      "num": 282642,
       "word": "你们去电影院接生去了",
       "onboard_time": 1674391530,
       "rank": 32,
@@ -985,14 +1009,6 @@
       "onboard_time": 1674324321,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 423321,
-      "num": 192369,
-      "word": "易烊千玺满江红好稳",
-      "onboard_time": 1674391649,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 416356,
@@ -1011,12 +1027,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409267,
+      "num": 281702,
+      "word": "姑姑188",
+      "onboard_time": 1674392370,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 409156,
       "num": 409156,
       "word": "2023江苏春晚节目单",
       "onboard_time": 1674357509,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 408777,
+      "num": 408777,
+      "word": "泰国通报中国人在泰订到警车接机",
+      "onboard_time": 1674393210,
+      "rank": 36,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 398235,
@@ -1051,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 384958,
+      "num": 281296,
+      "word": "深海票房",
+      "onboard_time": 1674393931,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 382692,
       "num": 382692,
       "word": "电影无名终极海报",
@@ -1065,22 +1105,6 @@
       "onboard_time": 1674364946,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 374398,
-      "num": 191635,
-      "word": "反诈银行",
-      "onboard_time": 1674392968,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 363769,
-      "num": 190258,
-      "word": "张若昀 帅颠了",
-      "onboard_time": 1674393210,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 358295,
@@ -1108,7 +1132,7 @@
     },
     {
       "raw_hot": 348300,
-      "num": 217073,
+      "num": 278038,
       "word": "满江红结局",
       "onboard_time": 1674390690,
       "rank": 43,
@@ -1160,6 +1184,14 @@
       "word": "周深改词版花开忘忧更温暖",
       "onboard_time": 1674311804,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 332127,
+      "num": 278307,
+      "word": "北京春晚节目单",
+      "onboard_time": 1674393991,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -1251,6 +1283,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 293396,
+      "num": 277389,
+      "word": "李玲玉再现西游记玉兔",
+      "onboard_time": 1674392609,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 289654,
+      "num": 276903,
+      "word": "张若昀 孤勇者",
+      "onboard_time": 1674393029,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286841,
       "num": 272331,
       "word": "刘德华角色",
@@ -1264,14 +1312,6 @@
       "word": "魏晨首登春晚好有范",
       "onboard_time": 1674342256,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 285858,
-      "num": 158969,
-      "word": "张若昀 孤勇者",
-      "onboard_time": 1674393029,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1289,6 +1329,14 @@
       "onboard_time": 1674358229,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283260,
+      "num": 283260,
+      "word": "你家宠物对放炮有什么反应",
+      "onboard_time": 1674390988,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 280211,
@@ -1315,16 +1363,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 275279,
-      "num": 157206,
-      "word": "李玲玉再现西游记玉兔",
-      "onboard_time": 1674392609,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 274091,
-      "num": 274091,
+      "num": 275929,
       "word": "狗子讨要压岁钱只要红色票子",
       "onboard_time": 1674384868,
       "rank": 18,
@@ -1340,7 +1380,7 @@
     },
     {
       "raw_hot": 271513,
-      "num": 156458,
+      "num": 242564,
       "word": "潘长江再现春晚绝活",
       "onboard_time": 1674392190,
       "rank": 40,
@@ -1428,7 +1468,7 @@
     },
     {
       "raw_hot": 247320,
-      "num": 247320,
+      "num": 279902,
       "word": "喜欢赖在床上的狗狗",
       "onboard_time": 1674387566,
       "rank": 18,
@@ -1460,7 +1500,7 @@
     },
     {
       "raw_hot": 236736,
-      "num": 236736,
+      "num": 279144,
       "word": "父母有权保管使用孩子压岁钱吗",
       "onboard_time": 1674386787,
       "rank": 26,
@@ -1500,7 +1540,7 @@
     },
     {
       "raw_hot": 228223,
-      "num": 228223,
+      "num": 275575,
       "word": "当你陪父母去看电影后",
       "onboard_time": 1674387631,
       "rank": 19,
@@ -1529,6 +1569,14 @@
       "onboard_time": 1674370705,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225779,
+      "num": 280702,
+      "word": "朱琳 澳网",
+      "onboard_time": 1674385828,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 225551,
@@ -1659,14 +1707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196932,
-      "num": 197812,
-      "word": "朱琳 澳网",
-      "onboard_time": 1674385828,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195818,
       "num": 272266,
       "word": "韩旭吴磊最萌身高差",
@@ -1721,14 +1761,6 @@
       "onboard_time": 1674294084,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 188010,
-      "num": 188010,
-      "word": "你家宠物对放炮有什么反应",
-      "onboard_time": 1674390988,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 187157,
@@ -1788,7 +1820,7 @@
     },
     {
       "raw_hot": 179160,
-      "num": 179160,
+      "num": 280162,
       "word": "今年会遇上心软的财神爷吗",
       "onboard_time": 1674392370,
       "rank": 27,
@@ -1812,7 +1844,7 @@
     },
     {
       "raw_hot": 170263,
-      "num": 183959,
+      "num": 227485,
       "word": "游客排百米长龙摸霍去病雕塑",
       "onboard_time": 1674384147,
       "rank": 19,
@@ -1836,7 +1868,7 @@
     },
     {
       "raw_hot": 163944,
-      "num": 182680,
+      "num": 225988,
       "word": "大妈算把这烟花玩明白了",
       "onboard_time": 1674383725,
       "rank": 27,
@@ -1865,14 +1897,6 @@
       "onboard_time": 1674376047,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156587,
-      "num": 156587,
-      "word": "泰国通报中国人在泰订到警车接机",
-      "onboard_time": 1674393210,
-      "rank": 36,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 154139,
@@ -2115,6 +2139,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 94080,
+      "num": 233800,
+      "word": "厦门金门同时绽放焰火庆祝新年",
+      "onboard_time": 1674392968,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91695,
       "num": 91695,
       "word": "杨紫C位",
@@ -2185,14 +2217,6 @@
       "onboard_time": 1674323247,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71449,
-      "num": 156148,
-      "word": "厦门金门同时绽放焰火庆祝新年",
-      "onboard_time": 1674392968,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67553,
