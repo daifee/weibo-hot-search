@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674356164295,
+  "endTime": 1674357566377,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -3513,6 +3513,14 @@
       "onboard_time": 1672974568,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1336075,
+      "num": 1336075,
+      "word": "沈腾易烊千玺翻唱今夜无眠",
+      "onboard_time": 1674356069,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 1335773,
@@ -8363,6 +8371,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 799295,
+      "num": 799295,
+      "word": "无名",
+      "onboard_time": 1672516574,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 798035,
       "num": 798035,
       "word": "主持人把谭松韵叫成程松韵",
@@ -9116,7 +9132,7 @@
     },
     {
       "raw_hot": 751921,
-      "num": 751921,
+      "num": 799515,
       "word": "正月初一几点起",
       "onboard_time": 1674350309,
       "rank": 17,
@@ -9153,14 +9169,6 @@
       "onboard_time": 1673795197,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 751143,
-      "num": 751143,
-      "word": "无名",
-      "onboard_time": 1672516574,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 751034,
@@ -14091,14 +14099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 548683,
-      "num": 486185,
-      "word": "沈腾易烊千玺翻唱今夜无眠",
-      "onboard_time": 1674356069,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 548547,
       "num": 548547,
       "word": "eStar开除运营",
@@ -14675,6 +14675,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 528661,
+      "num": 528661,
+      "word": "C罗卡点为中国球迷拜年",
+      "onboard_time": 1674354030,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 528623,
       "num": 528623,
       "word": "男子在滚烫红糖锅内徒手抓糖",
@@ -15225,14 +15233,6 @@
       "onboard_time": 1674180264,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 514421,
-      "num": 514421,
-      "word": "C罗卡点为中国球迷拜年",
-      "onboard_time": 1674354030,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 514417,
@@ -21267,6 +21267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 384136,
+      "num": 384136,
+      "word": "2023江苏春晚节目单",
+      "onboard_time": 1674357509,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384110,
       "num": 384110,
       "word": "医保局不会再就Paxlovid举行谈判",
@@ -21488,6 +21496,14 @@
       "word": "刘亦菲陈晓梦华录入选2022中国电视剧选集",
       "onboard_time": 1673081491,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 380841,
+      "num": 380841,
+      "word": "流浪地球",
+      "onboard_time": 1673673448,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -23035,6 +23051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356722,
+      "num": 923736,
+      "word": "蛋仔派对",
+      "onboard_time": 1672495856,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 356553,
       "num": 356553,
       "word": "哥哥太爱我了怎么办cp成真",
@@ -23153,6 +23177,14 @@
       "onboard_time": 1673965772,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 354034,
+      "num": 354034,
+      "word": "许嵩谈恋爱以后更甜了",
+      "onboard_time": 1674323724,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 353928,
@@ -23377,14 +23409,6 @@
       "onboard_time": 1672964607,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 351261,
-      "num": 341957,
-      "word": "许嵩谈恋爱以后更甜了",
-      "onboard_time": 1674323724,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 351163,
@@ -23801,14 +23825,6 @@
       "onboard_time": 1672608132,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 346666,
-      "num": 923736,
-      "word": "蛋仔派对",
-      "onboard_time": 1672495856,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 346548,
@@ -24256,14 +24272,6 @@
       "word": "梁朝伟王一博电影无名预售战报",
       "onboard_time": 1673687845,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 340160,
-      "num": 340160,
-      "word": "流浪地球",
-      "onboard_time": 1673673448,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -29963,6 +29971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275149,
+      "num": 275149,
+      "word": "北京台春晚节目单",
+      "onboard_time": 1674357509,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275141,
       "num": 275141,
       "word": "汤普森54分",
@@ -33729,6 +33745,14 @@
       "onboard_time": 1673741901,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 241633,
+      "num": 241633,
+      "word": "店主请吃500天早餐环卫工现场赋诗",
+      "onboard_time": 1674356189,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 241563,
