@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674387197661,
+  "endTime": 1674390751910,
   "band_list": [
     {
       "raw_hot": 13632162,
@@ -433,6 +433,14 @@
       "onboard_time": 1673840248,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2588375,
+      "num": 1377594,
+      "word": "爱奇艺崩了",
+      "onboard_time": 1674388288,
+      "rank": 1,
+      "category": "科技,影视"
     },
     {
       "raw_hot": 2583958,
@@ -1771,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1079930,
+      "num": 1079930,
+      "word": "刘培强出生了",
+      "onboard_time": 1674384568,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1076975,
       "num": 1076975,
       "word": "又到了潮汕人最害怕的环节",
@@ -1833,6 +1849,14 @@
       "onboard_time": 1674276322,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1064819,
+      "num": 1064819,
+      "word": "北京台春晚",
+      "onboard_time": 1674388229,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1064648,
@@ -2355,14 +2379,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 902868,
-      "num": 902868,
-      "word": "刘培强出生了",
-      "onboard_time": 1674384568,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 899142,
       "num": 899142,
       "word": "内娱舞台教科书",
@@ -2801,6 +2817,14 @@
       "onboard_time": 1673913324,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 809784,
+      "num": 809784,
+      "word": "狂飙",
+      "onboard_time": 1673837727,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 808024,
@@ -3523,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 679991,
+      "num": 679991,
+      "word": "东方卫视春晚",
+      "onboard_time": 1674385828,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 678703,
       "num": 678703,
       "word": "王一博说我怕你们收不到我的问候",
@@ -3689,6 +3721,14 @@
       "onboard_time": 1673957667,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 655740,
+      "num": 655740,
+      "word": "如何评价王一博无名表现",
+      "onboard_time": 1674389369,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 654737,
@@ -4339,6 +4379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 587991,
+      "num": 562940,
+      "word": "满江红实时票房破3亿",
+      "onboard_time": 1674388350,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 586718,
       "num": 586718,
       "word": "苏醒 继续对全国人民保留我的才艺",
@@ -4448,6 +4496,14 @@
       "word": "公安部今天起严查酒驾醉驾",
       "onboard_time": 1673939606,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578786,
+      "num": 578786,
+      "word": "男孩面对帝王蟹年夜饭掏出了泡面",
+      "onboard_time": 1674385166,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -4627,6 +4683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 558934,
+      "num": 558934,
+      "word": "北京台春晚 好看",
+      "onboard_time": 1674390568,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 557676,
       "num": 557676,
       "word": "谁家丫鬟一米九",
@@ -4763,14 +4827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 547356,
-      "num": 547356,
-      "word": "东方卫视春晚",
-      "onboard_time": 1674385828,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 547237,
       "num": 315687,
       "word": "马旭东闫佩伦上春晚了",
@@ -4889,6 +4945,14 @@
       "onboard_time": 1673832444,
       "rank": 16,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 529481,
+      "num": 529481,
+      "word": "何冰韩童生 真的不错",
+      "onboard_time": 1674389309,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 528283,
@@ -5121,14 +5185,6 @@
       "onboard_time": 1673961630,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 505424,
-      "num": 374155,
-      "word": "狂飙",
-      "onboard_time": 1673837727,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 505421,
@@ -5393,6 +5449,14 @@
       "onboard_time": 1674131790,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486506,
+      "num": 486506,
+      "word": "岳云鹏贾乃亮说相声",
+      "onboard_time": 1674389431,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 486093,
@@ -7539,6 +7603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 341846,
+      "num": 341846,
+      "word": "卫视春晚节目单",
+      "onboard_time": 1674388288,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341722,
       "num": 272529,
       "word": "胡歌误入史上最强赘婿剧组",
@@ -8211,14 +8283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 316613,
-      "num": 316613,
-      "word": "男孩面对帝王蟹年夜饭掏出了泡面",
-      "onboard_time": 1674385166,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316607,
       "num": 316607,
       "word": "杨迪妈妈为杨迪跨伴舞",
@@ -8313,6 +8377,14 @@
       "onboard_time": 1674171499,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 309053,
+      "num": 224399,
+      "word": "百花迎春",
+      "onboard_time": 1674389908,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 308328,
@@ -9419,6 +9491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274091,
+      "num": 274091,
+      "word": "狗子讨要压岁钱只要红色票子",
+      "onboard_time": 1674384868,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274041,
       "num": 274041,
       "word": "情侣逛街是全国统一的吧",
@@ -9723,6 +9803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267541,
+      "num": 124296,
+      "word": "电影抬头见喜",
+      "onboard_time": 1674390209,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267212,
       "num": 227673,
       "word": "易烊千玺演的满江红从头笑到尾",
@@ -9761,6 +9849,14 @@
       "onboard_time": 1674015207,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 266435,
+      "num": 123313,
+      "word": "流浪地球 MOSS",
+      "onboard_time": 1674386669,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 266327,
@@ -10539,6 +10635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242725,
+      "num": 242725,
+      "word": "喜欢赖在床上的狗狗",
+      "onboard_time": 1674387566,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242666,
       "num": 242666,
       "word": "iG选手",
@@ -10987,6 +11091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228223,
+      "num": 228223,
+      "word": "当你陪父母去看电影后",
+      "onboard_time": 1674387631,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227716,
       "num": 227716,
       "word": "除夕夜",
@@ -11121,6 +11233,14 @@
       "onboard_time": 1674367107,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224176,
+      "num": 224176,
+      "word": "父母有权保管使用孩子压岁钱吗",
+      "onboard_time": 1674386787,
+      "rank": 26,
+      "category": "社会议题"
     },
     {
       "raw_hot": 224106,
@@ -11267,6 +11387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219080,
+      "num": 120241,
+      "word": "江苏卫视春晚",
+      "onboard_time": 1674387508,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218989,
       "num": 191671,
       "word": "王铮亮说张远29岁在看自己上春晚",
@@ -11297,6 +11425,14 @@
       "onboard_time": 1673773526,
       "rank": 17,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 217198,
+      "num": 119270,
+      "word": "北京卫视让沈腾马丽常远艾伦唱歌",
+      "onboard_time": 1674390268,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 216994,
@@ -12195,6 +12331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196932,
+      "num": 196932,
+      "word": "朱琳 澳网",
+      "onboard_time": 1674385828,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196879,
       "num": 154231,
       "word": "三体值得",
@@ -12931,6 +13075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182319,
+      "num": 119138,
+      "word": "满江红结局",
+      "onboard_time": 1674390690,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182075,
       "num": 160038,
       "word": "郭俊辰首登春晚",
@@ -13035,14 +13187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180201,
-      "num": 119608,
-      "word": "流浪地球 MOSS",
-      "onboard_time": 1674386669,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 180156,
       "num": 180156,
       "word": "尼泊尔当地航线为何格外凶险",
@@ -13057,14 +13201,6 @@
       "onboard_time": 1673949087,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 179970,
-      "num": 179970,
-      "word": "狗子讨要压岁钱只要红色票子",
-      "onboard_time": 1674384868,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179958,
@@ -13313,6 +13449,14 @@
       "onboard_time": 1674056370,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175330,
+      "num": 118540,
+      "word": "湖南卫视华人春晚",
+      "onboard_time": 1674387389,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 175308,
@@ -15859,14 +16003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 118610,
-      "num": 118610,
-      "word": "朱琳 澳网",
-      "onboard_time": 1674385828,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118397,
       "num": 131318,
       "word": "2022年农村居民收入增长快于城镇",
@@ -17155,6 +17291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56813,
+      "num": 1226724,
+      "word": "激活中华文化生命力",
+      "onboard_time": 1674388409,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 56192,
       "num": 56192,
       "word": "12岁男孩6年义务为800位老人理发",
@@ -17185,6 +17329,14 @@
       "onboard_time": 1673903832,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53453,
+      "num": 116950,
+      "word": "过年的打工人",
+      "onboard_time": 1674390088,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 52757,
@@ -17507,6 +17659,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 11682,
+      "num": 120446,
+      "word": "我家的春节餐桌",
+      "onboard_time": 1674390388,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 11368,
       "num": 124858,
       "word": "微博大拜年",
@@ -17595,6 +17755,9 @@
     },
     {
       "word": "#全家人的笑脸就是春节的意义#"
+    },
+    {
+      "word": "#2023北京台春晚#"
     }
   ]
 }
