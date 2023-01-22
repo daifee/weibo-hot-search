@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674429512122,
+  "endTime": 1674430428048,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322041,
+      "num": 322041,
+      "word": "毛不易给工作人员发完红包被踢出群",
+      "onboard_time": 1674396211,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 320549,
       "num": 227664,
       "word": "徐明浩直播",
@@ -187,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243753,
-      "num": 228162,
-      "word": "毛不易给工作人员发完红包被踢出群",
-      "onboard_time": 1674396211,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 238045,
       "num": 171342,
       "word": "张颂文演技",
@@ -209,6 +209,14 @@
       "onboard_time": 1674391649,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214077,
+      "num": 183866,
+      "word": "男子进厕所不出来老婆一看在灭火",
+      "onboard_time": 1674429736,
+      "rank": 10,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 213684,
@@ -243,6 +251,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194819,
+      "num": 194819,
+      "word": "男孩面对帝王蟹年夜饭掏出了泡面",
+      "onboard_time": 1674385166,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190855,
+      "num": 190855,
+      "word": "热热闹闹寻年味",
+      "onboard_time": 1674429795,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187720,
       "num": 165939,
       "word": "谭松韵美",
@@ -259,12 +283,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184292,
+      "num": 184292,
+      "word": "关晓彤亮片裙",
+      "onboard_time": 1674430156,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183524,
       "num": 244010,
       "word": "你家宠物对放炮有什么反应",
       "onboard_time": 1674390988,
       "rank": 16,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 173228,
+      "num": 173228,
+      "word": "222个账号因炫耀服刑等被处置",
+      "onboard_time": 1674429674,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165168,
@@ -307,14 +347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154403,
-      "num": 167545,
-      "word": "男孩面对帝王蟹年夜饭掏出了泡面",
-      "onboard_time": 1674385166,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143335,
       "num": 242429,
       "word": "朱琳 澳网",
@@ -339,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138054,
+      "num": 138054,
+      "word": "段奥娟早安唱了多少篇课文",
+      "onboard_time": 1674429254,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129481,
       "num": 263661,
       "word": "单身姐姐回家不让进门被妹妹嘲笑",
@@ -355,12 +395,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125813,
+      "num": 125813,
+      "word": "电影无名猫眼开分9.1分",
+      "onboard_time": 1674428653,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115557,
       "num": 115557,
       "word": "春晚是懂电脑的",
       "onboard_time": 1674407840,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109195,
+      "num": 81872,
+      "word": "无名 隐喻",
+      "onboard_time": 1674429133,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 104114,
@@ -387,20 +443,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 95057,
+      "num": 95057,
+      "word": "央视专访周深",
+      "onboard_time": 1674429674,
+      "rank": 17,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 92043,
+      "num": 67171,
+      "word": "北京卫视让沈腾马丽常远艾伦唱歌",
+      "onboard_time": 1674390268,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83205,
       "num": 230726,
       "word": "当你陪父母去看电影后",
       "onboard_time": 1674387631,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 81184,
-      "num": 55134,
-      "word": "电影无名猫眼开分9.1分",
-      "onboard_time": 1674428653,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 80713,
@@ -451,19 +515,11 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 69405,
-      "num": 54131,
-      "word": "无名 隐喻",
-      "onboard_time": 1674429133,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 69218,
-      "num": 53698,
-      "word": "段奥娟早安唱了多少篇课文",
-      "onboard_time": 1674429254,
-      "rank": 15,
+      "raw_hot": 65654,
+      "num": 65654,
+      "word": "沈腾临场改词艾伦直接愣住了",
+      "onboard_time": 1674371125,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -475,12 +531,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 58606,
-      "num": 39970,
-      "word": "北京卫视让沈腾马丽常远艾伦唱歌",
-      "onboard_time": 1674390268,
-      "rank": 21,
+      "raw_hot": 57869,
+      "num": 45849,
+      "word": "毛晓彤好漂亮",
+      "onboard_time": 1674430217,
+      "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55680,
+      "num": 55680,
+      "word": "大英博物馆里有多少中国文物",
+      "onboard_time": 1674429977,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53089,
@@ -491,20 +555,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43044,
-      "num": 27066,
-      "word": "沈腾临场改词艾伦直接愣住了",
-      "onboard_time": 1674371125,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 49228,
+      "num": 44756,
+      "word": "张译演反派",
+      "onboard_time": 1674381506,
+      "rank": 40,
+      "category": "影视"
     },
     {
-      "raw_hot": 40783,
+      "raw_hot": 48563,
       "num": 56847,
       "word": "狗子讨要压岁钱只要红色票子",
       "onboard_time": 1674384868,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38922,
+      "num": 38922,
+      "word": "沈腾 硬唱也能唱",
+      "onboard_time": 1674390329,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 33860,
