@@ -1,6 +1,6 @@
 {
   "startTime": 1674318242996,
-  "endTime": 1674352776412,
+  "endTime": 1674355586664,
   "band_list": [
     {
       "raw_hot": 9908054,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 1222228,
-      "num": 699400,
+      "num": 747924,
       "word": "王鹤棣抽到大奖的反应",
       "onboard_time": 1674351449,
       "rank": 21,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 842490,
+      "num": 842490,
+      "word": "杨紫苏有朋春晚后台聊天",
+      "onboard_time": 1674352952,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 794420,
       "num": 794420,
       "word": "王铮亮的暗号",
@@ -377,6 +385,30 @@
       "onboard_time": 1674306886,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 751921,
+      "num": 751921,
+      "word": "正月初一几点起",
+      "onboard_time": 1674350309,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 748533,
+      "num": 748533,
+      "word": "邓超 我控制的怎么样",
+      "onboard_time": 1674354330,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 746073,
+      "num": 746073,
+      "word": "满江红",
+      "onboard_time": 1674322646,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 744561,
@@ -395,11 +427,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 704823,
-      "num": 704823,
-      "word": "正月初一几点起",
-      "onboard_time": 1674350309,
-      "rank": 17,
+      "raw_hot": 684245,
+      "num": 684245,
+      "word": "27岁女生回家被集体催婚",
+      "onboard_time": 1674348570,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -411,11 +443,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 672219,
+      "num": 672219,
+      "word": "李诞reaction",
+      "onboard_time": 1674351390,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 654169,
       "num": 654169,
       "word": "孙俪说就不能给邓超近镜",
       "onboard_time": 1674319723,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 640845,
+      "num": 640845,
+      "word": "无名",
+      "onboard_time": 1674324802,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 639670,
+      "num": 639670,
+      "word": "兔子要被白宇摇晕了",
+      "onboard_time": 1674353670,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -427,36 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 614048,
-      "num": 614048,
-      "word": "李诞reaction",
-      "onboard_time": 1674351390,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 600305,
-      "num": 600305,
-      "word": "27岁女生回家被集体催婚",
-      "onboard_time": 1674348570,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 564766,
       "num": 564766,
       "word": "兔年",
       "onboard_time": 1674318647,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 511830,
-      "num": 511830,
-      "word": "无名",
-      "onboard_time": 1674324802,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 510111,
@@ -473,14 +505,6 @@
       "onboard_time": 1674312974,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 456454,
-      "num": 456454,
-      "word": "满江红",
-      "onboard_time": 1674322646,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 454328,
@@ -523,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409112,
+      "num": 468333,
+      "word": "C罗卡点为中国球迷拜年",
+      "onboard_time": 1674354030,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 398235,
       "num": 398235,
       "word": "赵丽颖唱了42个颜色名",
@@ -555,6 +587,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352669,
+      "num": 352669,
+      "word": "电影无名终极海报",
+      "onboard_time": 1674352652,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 351261,
+      "num": 341957,
+      "word": "许嵩谈恋爱以后更甜了",
+      "onboard_time": 1674323724,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349406,
       "num": 743502,
       "word": "谁给撒贝宁涂的高光",
@@ -563,8 +611,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 337529,
-      "num": 337529,
+      "raw_hot": 346979,
+      "num": 346979,
+      "word": "不能让躺平式干部再坑人了",
+      "onboard_time": 1674351269,
+      "rank": 44,
+      "category": "社会新闻,综艺"
+    },
+    {
+      "raw_hot": 340160,
+      "num": 340160,
       "word": "流浪地球",
       "onboard_time": 1674351390,
       "rank": 40,
@@ -595,20 +651,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 306201,
-      "num": 306201,
-      "word": "许嵩谈恋爱以后更甜了",
-      "onboard_time": 1674323724,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 293778,
-      "num": 170583,
+      "raw_hot": 304152,
+      "num": 304152,
       "word": "秦岚 阳康后嗓子一直时好时坏",
       "onboard_time": 1674349531,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287019,
+      "num": 287019,
+      "word": "gidle红白舞台",
+      "onboard_time": 1674354209,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 286653,
@@ -667,12 +723,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 262150,
-      "num": 262150,
-      "word": "不能让躺平式干部再坑人了",
-      "onboard_time": 1674351269,
-      "rank": 44,
-      "category": "社会新闻,综艺"
+      "raw_hot": 270024,
+      "num": 270024,
+      "word": "深海",
+      "onboard_time": 1674353248,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 260614,
+      "num": 260614,
+      "word": "今年终于通知吴磊穿黑裤子了",
+      "onboard_time": 1674313852,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 253978,
@@ -716,23 +780,15 @@
     },
     {
       "raw_hot": 225551,
-      "num": 225551,
+      "num": 344580,
       "word": "新年祝福",
       "onboard_time": 1674347430,
       "rank": 27,
       "category": "情感"
     },
     {
-      "raw_hot": 218967,
-      "num": 124293,
-      "word": "电影无名终极海报",
-      "onboard_time": 1674352652,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216994,
-      "num": 253398,
+      "num": 299990,
       "word": "压岁钱的南北差异",
       "onboard_time": 1674341416,
       "rank": 35,
@@ -740,7 +796,7 @@
     },
     {
       "raw_hot": 216106,
-      "num": 216106,
+      "num": 227193,
       "word": "论中国留学生宿舍辨识度",
       "onboard_time": 1674346166,
       "rank": 29,
@@ -753,6 +809,14 @@
       "onboard_time": 1674309672,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214203,
+      "num": 263730,
+      "word": "流浪地球2今日上映",
+      "onboard_time": 1674355529,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 213585,
@@ -843,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174242,
-      "num": 124761,
-      "word": "今年终于通知吴磊穿黑裤子了",
-      "onboard_time": 1674313852,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146677,
       "num": 296388,
       "word": "女生起床收到20条除夕群发祝福",
@@ -908,7 +964,7 @@
     },
     {
       "raw_hot": 126339,
-      "num": 126339,
+      "num": 292922,
       "word": "大年初一",
       "onboard_time": 1674342438,
       "rank": 38,
@@ -940,7 +996,7 @@
     },
     {
       "raw_hot": 107510,
-      "num": 107510,
+      "num": 226772,
       "word": "乙类乙管后的首个春运有何变化",
       "onboard_time": 1674352051,
       "rank": 48,
