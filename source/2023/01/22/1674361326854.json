@@ -1,0 +1,410 @@
+{
+  "runTime": 1674361326854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3084123,
+        "num": 3084123,
+        "word": "无名",
+        "onboard_time": 1674352652,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2024411,
+        "num": 2024411,
+        "word": "满江红",
+        "onboard_time": 1674322646,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9583,
+        "num": 1514704,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674279563,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1436031,
+        "num": 1436031,
+        "word": "孙俪 就不能给邓超近镜",
+        "onboard_time": 1674347730,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1333819,
+        "num": 1333819,
+        "word": "吴磊偷笑",
+        "onboard_time": 1674360148,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1122822,
+        "num": 1122822,
+        "word": "难看",
+        "onboard_time": 1674360748,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 870231,
+        "num": 870231,
+        "word": "偷袭邓超",
+        "onboard_time": 1674352353,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607246,
+        "num": 607246,
+        "word": "蛋仔派对",
+        "onboard_time": 1674356848,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 509458,
+        "num": 602957,
+        "word": "过年好",
+        "onboard_time": 1674316434,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 302121,
+        "num": 587090,
+        "word": "C罗卡点为中国球迷拜年",
+        "onboard_time": 1674354030,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 869784,
+        "num": 578784,
+        "word": "流浪地球2",
+        "onboard_time": 1674358405,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 734971,
+        "num": 570704,
+        "word": "沈腾易烊千玺翻唱今夜无眠",
+        "onboard_time": 1674356069,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 726972,
+        "num": 557649,
+        "word": "深海",
+        "onboard_time": 1674353248,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 680054,
+        "num": 555187,
+        "word": "赵丽颖央视春晚怼脸镜头",
+        "onboard_time": 1674344845,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5252,
+        "num": 540102,
+        "word": "兔年开运装备",
+        "onboard_time": 1674360029,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656213,
+        "num": 529783,
+        "word": "周深被门夹了",
+        "onboard_time": 1674345205,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 633746,
+        "num": 520267,
+        "word": "票房",
+        "onboard_time": 1674359487,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 513672,
+        "num": 513672,
+        "word": "雍和宫",
+        "onboard_time": 1674357629,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 390922,
+        "num": 390922,
+        "word": "27岁女生回家被集体催婚",
+        "onboard_time": 1674348570,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229857,
+        "num": 229857,
+        "word": "正月初一几点起",
+        "onboard_time": 1674350309,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602631,
+        "num": 229451,
+        "word": "马丽 羽绒服满天飞毛",
+        "onboard_time": 1674313324,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469968,
+        "num": 226071,
+        "word": "谢谢沈腾马丽",
+        "onboard_time": 1674313083,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444419,
+        "num": 225761,
+        "word": "沈腾吃药",
+        "onboard_time": 1674311981,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424312,
+        "num": 223637,
+        "word": "交换人生",
+        "onboard_time": 1674357567,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339195,
+        "num": 221220,
+        "word": "流浪地球",
+        "onboard_time": 1674351390,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327889,
+        "num": 218610,
+        "word": "电影无名今日上映",
+        "onboard_time": 1674349830,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218379,
+        "num": 218379,
+        "word": "谷爱凌兔年首冠",
+        "onboard_time": 1674360388,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211994,
+        "num": 211994,
+        "word": "男子过年包饺子放金戒指",
+        "onboard_time": 1674359189,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177975,
+        "num": 177975,
+        "word": "韩旭吴磊最萌身高差",
+        "onboard_time": 1674359126,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171790,
+        "num": 171790,
+        "word": "36岁安徽男子娶22岁白俄罗斯模特",
+        "onboard_time": 1674360568,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326926,
+        "num": 170977,
+        "word": "杨紫苏有朋春晚后台聊天",
+        "onboard_time": 1674352952,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326467,
+        "num": 168860,
+        "word": "2023江苏春晚节目单",
+        "onboard_time": 1674357509,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306090,
+        "num": 164097,
+        "word": "邓超笑死我了",
+        "onboard_time": 1674305152,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296902,
+        "num": 160639,
+        "word": "是谁在唱歌 for you",
+        "onboard_time": 1674309417,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291385,
+        "num": 160001,
+        "word": "许嵩谈恋爱以后更甜了",
+        "onboard_time": 1674323724,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287431,
+        "num": 155926,
+        "word": "坑",
+        "onboard_time": 1674314932,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154774,
+        "num": 154774,
+        "word": "不能让躺平式干部再坑人了",
+        "onboard_time": 1674351269,
+        "rank": 36,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 138192,
+        "num": 138192,
+        "word": "大英博物馆庆祝韩国春节被骂到删帖",
+        "onboard_time": 1674321036,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137676,
+        "num": 137676,
+        "word": "终于见到了课本上的五彩大公鸡",
+        "onboard_time": 1674346587,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125355,
+        "num": 125355,
+        "word": "店主请吃500天早餐环卫工现场赋诗",
+        "onboard_time": 1674356189,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 284333,
+        "num": 125344,
+        "word": "欧豪用九张图记录春晚全过程",
+        "onboard_time": 1674358229,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257515,
+        "num": 125336,
+        "word": "王鹤棣说北京话",
+        "onboard_time": 1674359126,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246344,
+        "num": 125324,
+        "word": "是妈妈是女儿",
+        "onboard_time": 1674359967,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240927,
+        "num": 125315,
+        "word": "王宝强嘴瓢了",
+        "onboard_time": 1674343701,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223477,
+        "num": 125310,
+        "word": "这首歌是写给冯禧的吗",
+        "onboard_time": 1674324861,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201079,
+        "num": 125293,
+        "word": "gidle红白舞台",
+        "onboard_time": 1674354209,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115710,
+        "num": 125289,
+        "word": "烟花真的会给人带来幸福感",
+        "onboard_time": 1674360507,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110541,
+        "num": 125280,
+        "word": "中国队夺得大冬会女子冰壶金牌",
+        "onboard_time": 1674360927,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108724,
+        "num": 125269,
+        "word": "春节太适合拍氛围感照片",
+        "onboard_time": 1674357748,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95769,
+        "num": 125251,
+        "word": "市民大年初一连夜排队抢雍和宫头香",
+        "onboard_time": 1674358830,
+        "rank": 49,
+        "category": "社会新闻,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是我们的中国年#"
+    }
+  }
+}
