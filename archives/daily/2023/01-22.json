@@ -1,6 +1,6 @@
 {
   "startTime": 1674318242996,
-  "endTime": 1674391812339,
+  "endTime": 1674393663921,
   "band_list": [
     {
       "raw_hot": 9908054,
@@ -24,6 +24,14 @@
       "word": "沈腾吃药",
       "onboard_time": 1674311981,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4675733,
+      "num": 4675733,
+      "word": "北京台春晚 好看",
+      "onboard_time": 1674390568,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -209,14 +217,6 @@
       "onboard_time": 1674312237,
       "rank": 8,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1690190,
-      "num": 1690190,
-      "word": "北京台春晚 好看",
-      "onboard_time": 1674390568,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1641426,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 974055,
+      "num": 974055,
+      "word": "实时票房",
+      "onboard_time": 1674390630,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 933064,
       "num": 826587,
       "word": "单身姐姐回家不让进门被妹妹嘲笑",
@@ -505,6 +513,14 @@
       "onboard_time": 1674296486,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 848543,
+      "num": 848543,
+      "word": "沈腾 硬唱也能唱",
+      "onboard_time": 1674390329,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 842490,
@@ -652,7 +668,7 @@
     },
     {
       "raw_hot": 650440,
-      "num": 289179,
+      "num": 566810,
       "word": "北京卫视让沈腾马丽常远艾伦唱歌",
       "onboard_time": 1674390268,
       "rank": 42,
@@ -660,7 +676,7 @@
     },
     {
       "raw_hot": 647794,
-      "num": 562940,
+      "num": 577634,
       "word": "满江红实时票房破3亿",
       "onboard_time": 1674388350,
       "rank": 10,
@@ -732,19 +748,11 @@
     },
     {
       "raw_hot": 620393,
-      "num": 620393,
+      "num": 721974,
       "word": "现在小孩穿搭也太洋气了",
       "onboard_time": 1674381865,
       "rank": 36,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 615349,
-      "num": 273414,
-      "word": "实时票房",
-      "onboard_time": 1674390630,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 610301,
@@ -764,7 +772,7 @@
     },
     {
       "raw_hot": 578786,
-      "num": 578786,
+      "num": 760809,
       "word": "男孩面对帝王蟹年夜饭掏出了泡面",
       "onboard_time": 1674385166,
       "rank": 17,
@@ -793,6 +801,14 @@
       "onboard_time": 1674354030,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 547369,
+      "num": 547369,
+      "word": "周深好忙",
+      "onboard_time": 1674391589,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 545425,
@@ -849,6 +865,14 @@
       "onboard_time": 1674364227,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 486371,
+      "num": 486371,
+      "word": "乐山一热气球爆炸坠落有人受伤",
+      "onboard_time": 1674391766,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 484080,
@@ -915,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 443499,
+      "num": 443499,
+      "word": "陈立农尤长靖同台",
+      "onboard_time": 1674392370,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 443102,
       "num": 357132,
       "word": "赵丽颖希望用歌曲带大家了解传统文化",
@@ -939,12 +971,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 435197,
+      "num": 195726,
+      "word": "你们去电影院接生去了",
+      "onboard_time": 1674391530,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 433924,
       "num": 433924,
       "word": "王勉reaction",
       "onboard_time": 1674324321,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423321,
+      "num": 192369,
+      "word": "易烊千玺满江红好稳",
+      "onboard_time": 1674391649,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 416356,
@@ -1017,6 +1065,22 @@
       "onboard_time": 1674364946,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 374398,
+      "num": 191635,
+      "word": "反诈银行",
+      "onboard_time": 1674392968,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 363769,
+      "num": 190258,
+      "word": "张若昀 帅颠了",
+      "onboard_time": 1674393210,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 358295,
@@ -1139,14 +1203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 319616,
-      "num": 216298,
-      "word": "周深好忙",
-      "onboard_time": 1674391589,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 309053,
       "num": 224399,
       "word": "百花迎春",
@@ -1187,14 +1243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 302273,
-      "num": 215815,
-      "word": "沈腾 硬唱也能唱",
-      "onboard_time": 1674390329,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 295010,
       "num": 287019,
       "word": "gidle红白舞台",
@@ -1216,6 +1264,14 @@
       "word": "魏晨首登春晚好有范",
       "onboard_time": 1674342256,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 285858,
+      "num": 158969,
+      "word": "张若昀 孤勇者",
+      "onboard_time": 1674393029,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1259,6 +1315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 275279,
+      "num": 157206,
+      "word": "李玲玉再现西游记玉兔",
+      "onboard_time": 1674392609,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274091,
       "num": 274091,
       "word": "狗子讨要压岁钱只要红色票子",
@@ -1273,6 +1337,14 @@
       "onboard_time": 1674319007,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 271513,
+      "num": 156458,
+      "word": "潘长江再现春晚绝活",
+      "onboard_time": 1674392190,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 270941,
@@ -1295,14 +1367,6 @@
       "num": 124296,
       "word": "电影抬头见喜",
       "onboard_time": 1674390209,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 266565,
-      "num": 187539,
-      "word": "你们去电影院接生去了",
-      "onboard_time": 1674391530,
       "rank": 32,
       "category": "影视"
     },
@@ -1571,14 +1635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209620,
-      "num": 175995,
-      "word": "易烊千玺满江红好稳",
-      "onboard_time": 1674391649,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 209406,
       "num": 124171,
       "word": "黄明昊打游戏",
@@ -1604,7 +1660,7 @@
     },
     {
       "raw_hot": 196932,
-      "num": 196932,
+      "num": 197812,
       "word": "朱琳 澳网",
       "onboard_time": 1674385828,
       "rank": 37,
@@ -1667,6 +1723,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 188010,
+      "num": 188010,
+      "word": "你家宠物对放炮有什么反应",
+      "onboard_time": 1674390988,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 187157,
       "num": 234086,
       "word": "兔年第一条微博",
@@ -1721,6 +1785,14 @@
       "onboard_time": 1674373946,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179160,
+      "num": 179160,
+      "word": "今年会遇上心软的财神爷吗",
+      "onboard_time": 1674392370,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 177508,
@@ -1793,6 +1865,14 @@
       "onboard_time": 1674376047,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156587,
+      "num": 156587,
+      "word": "泰国通报中国人在泰订到警车接机",
+      "onboard_time": 1674393210,
+      "rank": 36,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 154139,
@@ -2059,14 +2139,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 85827,
-      "num": 183528,
-      "word": "你家宠物对放炮有什么反应",
-      "onboard_time": 1674390988,
-      "rank": 37,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 84816,
       "num": 1303812,
       "word": "兔年第一个愿望",
@@ -2107,20 +2179,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76938,
-      "num": 174445,
-      "word": "乐山一热气球爆炸坠落有人受伤",
-      "onboard_time": 1674391766,
-      "rank": 48,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 73514,
       "num": 73514,
       "word": "周深一开口时光美满",
       "onboard_time": 1674323247,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71449,
+      "num": 156148,
+      "word": "厦门金门同时绽放焰火庆祝新年",
+      "onboard_time": 1674392968,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67553,
