@@ -1,6 +1,6 @@
 {
   "startTime": 1673799882537,
-  "endTime": 1674362232530,
+  "endTime": 1674364580737,
   "band_list": [
     {
       "raw_hot": 13632162,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3779775,
+      "num": 3266840,
+      "word": "难看",
+      "onboard_time": 1674360748,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3655266,
       "num": 823692,
       "word": "张颖颖 我说了无数次分手",
@@ -305,14 +313,6 @@
       "onboard_time": 1674048870,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3266840,
-      "num": 3266840,
-      "word": "难看",
-      "onboard_time": 1674360748,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 3209048,
@@ -595,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2230002,
+      "num": 2230002,
+      "word": "满江红",
+      "onboard_time": 1673938466,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2206359,
       "num": 2206359,
       "word": "就等沈腾马丽了",
@@ -681,14 +689,6 @@
       "onboard_time": 1673872467,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2024411,
-      "num": 2024411,
-      "word": "满江红",
-      "onboard_time": 1673938466,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 1990506,
@@ -1515,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1213517,
+      "num": 1213517,
+      "word": "流浪地球2",
+      "onboard_time": 1674209067,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1211714,
       "num": 1211714,
       "word": "火锅店吃饭还好多问了一句",
@@ -1625,14 +1633,6 @@
       "onboard_time": 1673834967,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1153383,
-      "num": 1153383,
-      "word": "流浪地球2",
-      "onboard_time": 1674209067,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 1151112,
@@ -3099,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727864,
+      "num": 390550,
+      "word": "36岁安徽男子娶22岁白俄罗斯模特",
+      "onboard_time": 1674360568,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 726550,
       "num": 726550,
       "word": "突然明白父母为什么节俭了",
@@ -3321,6 +3329,14 @@
       "onboard_time": 1673853989,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 694574,
+      "num": 694574,
+      "word": "谷爱凌兔年首冠",
+      "onboard_time": 1674360388,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 693367,
@@ -4147,6 +4163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591960,
+      "num": 364628,
+      "word": "邓超说批评是非常好的良药",
+      "onboard_time": 1674363210,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 590805,
       "num": 433582,
       "word": "孙茜的台词",
@@ -4907,6 +4931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 509818,
+      "num": 351053,
+      "word": "沈腾可能要请很多人吃饭了",
+      "onboard_time": 1674364287,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 509600,
       "num": 509600,
       "word": "不建议没阳过的人长途旅行",
@@ -5041,6 +5073,14 @@
       "onboard_time": 1674204925,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 500551,
+      "num": 338751,
+      "word": "脱口秀 对着全班再讲一次",
+      "onboard_time": 1674363151,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 500421,
@@ -7531,14 +7571,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 331215,
-      "num": 588420,
-      "word": "谷爱凌兔年首冠",
-      "onboard_time": 1674360388,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 331086,
       "num": 331086,
       "word": "蔡徐坤引用诗词给网友拜早年",
@@ -7995,6 +8027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310357,
+      "num": 275674,
+      "word": "是妈妈是女儿",
+      "onboard_time": 1674359967,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310083,
       "num": 267291,
       "word": "总台2023年春晚完成第四次彩排",
@@ -8049,6 +8089,14 @@
       "onboard_time": 1674138330,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 306970,
+      "num": 273036,
+      "word": "胡夏 我不是明星我就一唱歌的",
+      "onboard_time": 1674363691,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 306889,
@@ -8771,14 +8819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283961,
-      "num": 201983,
-      "word": "是妈妈是女儿",
-      "onboard_time": 1674359967,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 283911,
       "num": 283911,
       "word": "黄渤梅婷cp名叫黄梅戏",
@@ -8889,6 +8929,14 @@
       "onboard_time": 1674109765,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280211,
+      "num": 280211,
+      "word": "烟花真的会给人带来幸福感",
+      "onboard_time": 1674360507,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 280192,
@@ -9795,14 +9843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 256966,
-      "num": 256966,
-      "word": "36岁安徽男子娶22岁白俄罗斯模特",
-      "onboard_time": 1674360568,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256461,
       "num": 256461,
       "word": "黄子弘凡是懂戳肺管子的",
@@ -10508,7 +10548,7 @@
     },
     {
       "raw_hot": 233058,
-      "num": 233058,
+      "num": 277419,
       "word": "男子过年包饺子放金戒指",
       "onboard_time": 1674359189,
       "rank": 27,
@@ -10659,6 +10699,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226773,
+      "num": 226773,
+      "word": "熊出没",
+      "onboard_time": 1674363868,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 226453,
+      "num": 226453,
+      "word": "吴磊剧透2023爱情而已一定会上",
+      "onboard_time": 1674362728,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226348,
       "num": 226348,
       "word": "新年战甲",
@@ -10715,20 +10771,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225260,
+      "num": 225260,
+      "word": "无名上映首日打破2项纪录",
+      "onboard_time": 1674364227,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225202,
       "num": 225202,
       "word": "对联怎么区分上下联",
       "onboard_time": 1674285263,
       "rank": 49,
       "category": "其它"
-    },
-    {
-      "raw_hot": 225165,
-      "num": 225165,
-      "word": "烟花真的会给人带来幸福感",
-      "onboard_time": 1674360507,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 224921,
@@ -11836,7 +11892,7 @@
     },
     {
       "raw_hot": 195818,
-      "num": 195818,
+      "num": 252992,
       "word": "韩旭吴磊最萌身高差",
       "onboard_time": 1674359126,
       "rank": 28,
@@ -12409,6 +12465,14 @@
       "onboard_time": 1674275244,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185588,
+      "num": 185588,
+      "word": "抬头见喜",
+      "onboard_time": 1674363691,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 185376,
@@ -14947,6 +15011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128198,
+      "num": 249201,
+      "word": "中国队夺得大冬会女子冰壶金牌",
+      "onboard_time": 1674360927,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128059,
       "num": 128059,
       "word": "LNG战胜TT",
@@ -15553,14 +15625,6 @@
       "onboard_time": 1674225031,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 110541,
-      "num": 172496,
-      "word": "中国队夺得大冬会女子冰壶金牌",
-      "onboard_time": 1674360927,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 110462,
@@ -16289,6 +16353,14 @@
       "onboard_time": 1674323247,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73300,
+      "num": 161074,
+      "word": "樊振东写福字",
+      "onboard_time": 1674363868,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 72943,

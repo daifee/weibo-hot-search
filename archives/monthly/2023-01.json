@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674362232530,
+  "endTime": 1674364580737,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3779775,
+      "num": 3266840,
+      "word": "难看",
+      "onboard_time": 1674360748,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3727850,
       "num": 1632352,
       "word": "刘暖曦微博永久禁言",
@@ -537,14 +545,6 @@
       "onboard_time": 1672529298,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3266840,
-      "num": 3266840,
-      "word": "难看",
-      "onboard_time": 1674360748,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 3263499,
@@ -1251,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2230002,
+      "num": 2230002,
+      "word": "满江红",
+      "onboard_time": 1672591225,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2206359,
       "num": 2206359,
       "word": "就等沈腾马丽了",
@@ -1529,14 +1537,6 @@
       "onboard_time": 1673515168,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2024411,
-      "num": 2024411,
-      "word": "满江红",
-      "onboard_time": 1672591225,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 2022277,
@@ -4187,6 +4187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1213517,
+      "num": 1213517,
+      "word": "流浪地球2",
+      "onboard_time": 1674209067,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1213413,
       "num": 1213413,
       "word": "赵樱子回应被夺舍了",
@@ -4593,14 +4601,6 @@
       "onboard_time": 1672531162,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1153383,
-      "num": 1153383,
-      "word": "流浪地球2",
-      "onboard_time": 1674209067,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 1152681,
@@ -9627,6 +9627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727864,
+      "num": 390550,
+      "word": "36岁安徽男子娶22岁白俄罗斯模特",
+      "onboard_time": 1674360568,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 726804,
       "num": 726804,
       "word": "尼泊尔坠毁飞机上含10名外国人",
@@ -10233,6 +10241,14 @@
       "onboard_time": 1673073027,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 694574,
+      "num": 694574,
+      "word": "谷爱凌兔年首冠",
+      "onboard_time": 1674360388,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 693504,
@@ -12649,6 +12665,14 @@
       "onboard_time": 1673698229,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 591960,
+      "num": 364628,
+      "word": "邓超说批评是非常好的良药",
+      "onboard_time": 1674363210,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 591899,
@@ -15451,6 +15475,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 509818,
+      "num": 351053,
+      "word": "沈腾可能要请很多人吃饭了",
+      "onboard_time": 1674364287,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 509813,
       "num": 509813,
       "word": "周杰伦最伟大的作品年度专辑",
@@ -15921,6 +15953,14 @@
       "onboard_time": 1673192792,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 500551,
+      "num": 338751,
+      "word": "脱口秀 对着全班再讲一次",
+      "onboard_time": 1674363151,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 500421,
@@ -25051,14 +25091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 331215,
-      "num": 588420,
-      "word": "谷爱凌兔年首冠",
-      "onboard_time": 1674360388,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 331126,
       "num": 167258,
       "word": "蔡亨源BeautifulLiar直拍",
@@ -26659,6 +26691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310357,
+      "num": 275674,
+      "word": "是妈妈是女儿",
+      "onboard_time": 1674359967,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310293,
       "num": 293160,
       "word": "谢之遥的爸也是个作爹",
@@ -26889,6 +26929,14 @@
       "onboard_time": 1673587291,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 306970,
+      "num": 273036,
+      "word": "胡夏 我不是明星我就一唱歌的",
+      "onboard_time": 1674363691,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 306889,
@@ -29027,14 +29075,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 283961,
-      "num": 201983,
-      "word": "是妈妈是女儿",
-      "onboard_time": 1674359967,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 283911,
       "num": 283911,
       "word": "黄渤梅婷cp名叫黄梅戏",
@@ -29529,6 +29569,14 @@
       "onboard_time": 1672564829,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280211,
+      "num": 280211,
+      "word": "烟花真的会给人带来幸福感",
+      "onboard_time": 1674360507,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 280192,
@@ -32081,14 +32129,6 @@
       "onboard_time": 1672799306,
       "rank": 28,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 256966,
-      "num": 256966,
-      "word": "36岁安徽男子娶22岁白俄罗斯模特",
-      "onboard_time": 1674360568,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256773,
@@ -34732,7 +34772,7 @@
     },
     {
       "raw_hot": 233058,
-      "num": 233058,
+      "num": 277419,
       "word": "男子过年包饺子放金戒指",
       "onboard_time": 1674359189,
       "rank": 27,
@@ -35283,12 +35323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226773,
+      "num": 226773,
+      "word": "熊出没",
+      "onboard_time": 1674363868,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226676,
       "num": 226676,
       "word": "rita新年cos",
       "onboard_time": 1672645768,
       "rank": 23,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 226453,
+      "num": 226453,
+      "word": "吴磊剧透2023爱情而已一定会上",
+      "onboard_time": 1674362728,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 226417,
@@ -35419,20 +35475,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225260,
+      "num": 225260,
+      "word": "无名上映首日打破2项纪录",
+      "onboard_time": 1674364227,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225202,
       "num": 225202,
       "word": "对联怎么区分上下联",
       "onboard_time": 1674285263,
       "rank": 49,
       "category": "其它"
-    },
-    {
-      "raw_hot": 225165,
-      "num": 225165,
-      "word": "烟花真的会给人带来幸福感",
-      "onboard_time": 1674360507,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 224921,
@@ -38708,7 +38764,7 @@
     },
     {
       "raw_hot": 195818,
-      "num": 195818,
+      "num": 252992,
       "word": "韩旭吴磊最萌身高差",
       "onboard_time": 1674359126,
       "rank": 28,
@@ -40257,6 +40313,14 @@
       "onboard_time": 1674275244,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185588,
+      "num": 185588,
+      "word": "抬头见喜",
+      "onboard_time": 1674363691,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 185530,
@@ -48147,6 +48211,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 128198,
+      "num": 249201,
+      "word": "中国队夺得大冬会女子冰壶金牌",
+      "onboard_time": 1674360927,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128165,
       "num": 128165,
       "word": "李润祺哭了",
@@ -50241,14 +50313,6 @@
       "onboard_time": 1672672832,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110541,
-      "num": 172496,
-      "word": "中国队夺得大冬会女子冰壶金牌",
-      "onboard_time": 1674360927,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 110462,
@@ -52793,6 +52857,14 @@
       "onboard_time": 1674323247,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73300,
+      "num": 161074,
+      "word": "樊振东写福字",
+      "onboard_time": 1674363868,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 73198,
