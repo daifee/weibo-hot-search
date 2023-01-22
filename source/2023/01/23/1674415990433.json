@@ -1,0 +1,410 @@
+{
+  "runTime": 1674415990433,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 197264,
+        "num": 197264,
+        "word": "虞书欣美呆",
+        "onboard_time": 1674402147,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175589,
+        "num": 175589,
+        "word": "流浪地球2一部顶两部",
+        "onboard_time": 1674401188,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2211,
+        "num": 140897,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674279563,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 110209,
+        "num": 110209,
+        "word": "北京台春晚 好看",
+        "onboard_time": 1674390568,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76006,
+        "num": 76006,
+        "word": "电影票房",
+        "onboard_time": 1674403226,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69922,
+        "num": 69922,
+        "word": "知否 春晚篇",
+        "onboard_time": 1674398493,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62481,
+        "num": 62481,
+        "word": "狂飙",
+        "onboard_time": 1674385525,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40825,
+        "num": 40825,
+        "word": "单身姐姐回家不让进门被妹妹嘲笑",
+        "onboard_time": 1674382646,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34731,
+        "num": 34731,
+        "word": "父母有权保管使用孩子压岁钱吗",
+        "onboard_time": 1674386787,
+        "rank": 8,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 30070,
+        "num": 30070,
+        "word": "曼城vs狼队",
+        "onboard_time": 1674399632,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53135,
+        "num": 29597,
+        "word": "实时票房",
+        "onboard_time": 1674390630,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47220,
+        "num": 28943,
+        "word": "满江红结局",
+        "onboard_time": 1674390690,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42106,
+        "num": 28617,
+        "word": "张若昀 帅颠了",
+        "onboard_time": 1674393210,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45188,
+        "num": 27536,
+        "word": "易烊千玺满江红好稳",
+        "onboard_time": 1674391649,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40559,
+        "num": 27290,
+        "word": "蒋勤勤惊艳扮相",
+        "onboard_time": 1674405503,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35010,
+        "num": 26369,
+        "word": "张颂文演技",
+        "onboard_time": 1674398493,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25999,
+        "num": 25999,
+        "word": "你家宠物对放炮有什么反应",
+        "onboard_time": 1674390988,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 24212,
+        "num": 25961,
+        "word": "英超春节大戏",
+        "onboard_time": 1674411496,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22115,
+        "num": 25915,
+        "word": "这鹅可算是遇到对手了",
+        "onboard_time": 1674400529,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18854,
+        "num": 25884,
+        "word": "厦门金门同时绽放焰火庆祝新年",
+        "onboard_time": 1674392968,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32212,
+        "num": 25815,
+        "word": "赵丽颖 笑得好开心",
+        "onboard_time": 1674397351,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33448,
+        "num": 25770,
+        "word": "无名票房",
+        "onboard_time": 1674377728,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33084,
+        "num": 25754,
+        "word": "郭帆你怎么睡得着",
+        "onboard_time": 1674398128,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27578,
+        "num": 25677,
+        "word": "徐明浩直播",
+        "onboard_time": 1674399810,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32822,
+        "num": 25636,
+        "word": "流浪地球 MOSS",
+        "onboard_time": 1674386669,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26467,
+        "num": 25615,
+        "word": "刘培强出生了",
+        "onboard_time": 1674384568,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17551,
+        "num": 25556,
+        "word": "孩子们挨家祝福获赠零食压岁钱",
+        "onboard_time": 1674402629,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17367,
+        "num": 25518,
+        "word": "现在小孩穿搭也太洋气了",
+        "onboard_time": 1674381865,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 17187,
+        "num": 25456,
+        "word": "今年会遇上心软的财神爷吗",
+        "onboard_time": 1674392370,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17165,
+        "num": 25412,
+        "word": "当你陪父母去看电影后",
+        "onboard_time": 1674387631,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26104,
+        "num": 25394,
+        "word": "想嗑高启强安欣",
+        "onboard_time": 1674399930,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73049,
+        "num": 25324,
+        "word": "泰国通报中国人在泰订到警车接机",
+        "onboard_time": 1674393210,
+        "rank": 31,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 72568,
+        "num": 25306,
+        "word": "臭蛋",
+        "onboard_time": 1674398371,
+        "rank": 32,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 25261,
+        "num": 25261,
+        "word": "虚拟邓丽君",
+        "onboard_time": 1674400469,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24860,
+        "num": 24860,
+        "word": "谭松韵美",
+        "onboard_time": 1674395311,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24379,
+        "num": 24379,
+        "word": "冯巩 我想死你们了",
+        "onboard_time": 1674398908,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24317,
+        "num": 24317,
+        "word": "龚俊唱歌好听",
+        "onboard_time": 1674403107,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22986,
+        "num": 22986,
+        "word": "满江红",
+        "onboard_time": 1674322646,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15081,
+        "num": 22831,
+        "word": "喜欢赖在床上的狗狗",
+        "onboard_time": 1674387566,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14740,
+        "num": 22756,
+        "word": "小男孩滑跪式拜年太绝了",
+        "onboard_time": 1674399150,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22695,
+        "num": 22695,
+        "word": "流浪地球 人工智能",
+        "onboard_time": 1674412215,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22654,
+        "num": 22654,
+        "word": "时代少年团男儿歌火焰舞台",
+        "onboard_time": 1674399632,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20897,
+        "num": 20897,
+        "word": "王一博语言天赋",
+        "onboard_time": 1674395434,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20237,
+        "num": 20237,
+        "word": "王心凌好甜",
+        "onboard_time": 1674401786,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20172,
+        "num": 20172,
+        "word": "周也主持",
+        "onboard_time": 1674396449,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18031,
+        "num": 20166,
+        "word": "毛不易给工作人员发完红包被踢出群",
+        "onboard_time": 1674396211,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14368,
+        "num": 20144,
+        "word": "狗子讨要压岁钱只要红色票子",
+        "onboard_time": 1674384868,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13833,
+        "num": 20127,
+        "word": "2023新年快乐",
+        "onboard_time": 1674406821,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11788,
+        "num": 20122,
+        "word": "巴啦啦能量隐藏技能出现",
+        "onboard_time": 1674401008,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 8831,
+        "num": 20107,
+        "word": "朱琳 澳网",
+        "onboard_time": 1674385828,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#过年#"
+    }
+  }
+}
