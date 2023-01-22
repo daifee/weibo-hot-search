@@ -1,0 +1,410 @@
+{
+  "runTime": 1674365612223,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2117062,
+        "num": 2117062,
+        "word": "满江红",
+        "onboard_time": 1674322646,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1500578,
+        "num": 1500578,
+        "word": "无名",
+        "onboard_time": 1674352652,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 8924,
+        "num": 1428605,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674279563,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1384138,
+        "num": 1384138,
+        "word": "孙俪 就不能给邓超近镜",
+        "onboard_time": 1674347730,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1170917,
+        "num": 1170917,
+        "word": "流浪地球2",
+        "onboard_time": 1674358405,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1006091,
+        "num": 1006091,
+        "word": "吴磊偷笑",
+        "onboard_time": 1674360148,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 895449,
+        "num": 895449,
+        "word": "深海",
+        "onboard_time": 1674353248,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 567735,
+        "num": 567735,
+        "word": "谷爱凌兔年首冠",
+        "onboard_time": 1674360388,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374811,
+        "num": 374811,
+        "word": "过年好",
+        "onboard_time": 1674316434,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 323567,
+        "num": 323567,
+        "word": "蛋仔派对",
+        "onboard_time": 1674356848,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 785314,
+        "num": 323473,
+        "word": "36岁安徽男子娶22岁白俄罗斯模特",
+        "onboard_time": 1674360568,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775144,
+        "num": 323369,
+        "word": "偷袭邓超",
+        "onboard_time": 1674352353,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 730903,
+        "num": 323314,
+        "word": "沈腾可能要请很多人吃饭了",
+        "onboard_time": 1674364287,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 692577,
+        "num": 323230,
+        "word": "马丽 羽绒服满天飞毛",
+        "onboard_time": 1674313324,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619584,
+        "num": 323138,
+        "word": "脱口秀 对着全班再讲一次",
+        "onboard_time": 1674363151,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484925,
+        "num": 323002,
+        "word": "邓超说批评是非常好的良药",
+        "onboard_time": 1674363210,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423506,
+        "num": 322882,
+        "word": "沈腾易烊千玺翻唱今夜无眠",
+        "onboard_time": 1674356069,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350371,
+        "num": 322810,
+        "word": "27岁女生回家被集体催婚",
+        "onboard_time": 1674348570,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228002,
+        "num": 322739,
+        "word": "烟花真的会给人带来幸福感",
+        "onboard_time": 1674360507,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223009,
+        "num": 322610,
+        "word": "雍和宫",
+        "onboard_time": 1674357629,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 440624,
+        "num": 322493,
+        "word": "谢谢沈腾马丽",
+        "onboard_time": 1674313083,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417476,
+        "num": 322373,
+        "word": "周深被门夹了",
+        "onboard_time": 1674345205,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377732,
+        "num": 322288,
+        "word": "如何评价王一博演的叶秘",
+        "onboard_time": 1674364946,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364104,
+        "num": 322228,
+        "word": "交换人生",
+        "onboard_time": 1674357567,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337711,
+        "num": 322094,
+        "word": "马丽 切尔西",
+        "onboard_time": 1674365549,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330524,
+        "num": 321990,
+        "word": "是妈妈是女儿",
+        "onboard_time": 1674359967,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325480,
+        "num": 321853,
+        "word": "赵丽颖央视春晚怼脸镜头",
+        "onboard_time": 1674344845,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169673,
+        "num": 321804,
+        "word": "C罗卡点为中国球迷拜年",
+        "onboard_time": 1674354030,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151995,
+        "num": 321687,
+        "word": "正月初一几点起",
+        "onboard_time": 1674350309,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130650,
+        "num": 321537,
+        "word": "大英博物馆庆祝韩国春节被骂到删帖",
+        "onboard_time": 1674321036,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324852,
+        "num": 321464,
+        "word": "胡夏 我不是明星我就一唱歌的",
+        "onboard_time": 1674363691,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323878,
+        "num": 321323,
+        "word": "杨紫苏有朋春晚后台聊天",
+        "onboard_time": 1674352952,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321307,
+        "num": 321307,
+        "word": "票房",
+        "onboard_time": 1674359487,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299168,
+        "num": 299168,
+        "word": "坑",
+        "onboard_time": 1674314932,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291545,
+        "num": 291545,
+        "word": "流浪地球",
+        "onboard_time": 1674351390,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120195,
+        "num": 289254,
+        "word": "谷爱凌新春祝福",
+        "onboard_time": 1674365010,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119437,
+        "num": 282979,
+        "word": "男子过年包饺子放金戒指",
+        "onboard_time": 1674359189,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114855,
+        "num": 280943,
+        "word": "中国队夺得大冬会女子冰壶金牌",
+        "onboard_time": 1674360927,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100207,
+        "num": 272266,
+        "word": "韩旭吴磊最萌身高差",
+        "onboard_time": 1674359126,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98814,
+        "num": 269333,
+        "word": "不能让躺平式干部再坑人了",
+        "onboard_time": 1674351269,
+        "rank": 39,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 266792,
+        "num": 266792,
+        "word": "无名上映首日打破2项纪录",
+        "onboard_time": 1674364227,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236998,
+        "num": 264309,
+        "word": "是谁在唱歌 for you",
+        "onboard_time": 1674309417,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264277,
+        "num": 264277,
+        "word": "电影无名今日上映",
+        "onboard_time": 1674349830,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177769,
+        "num": 264268,
+        "word": "2023江苏春晚节目单",
+        "onboard_time": 1674357509,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167387,
+        "num": 264256,
+        "word": "熊出没",
+        "onboard_time": 1674363868,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150593,
+        "num": 264247,
+        "word": "流浪地球2今日上映",
+        "onboard_time": 1674355529,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95509,
+        "num": 264240,
+        "word": "终于见到了课本上的五彩大公鸡",
+        "onboard_time": 1674346587,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86862,
+        "num": 264233,
+        "word": "樊振东写福字",
+        "onboard_time": 1674363868,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69614,
+        "num": 264217,
+        "word": "侄女从台阶跌落女子飞扑接住",
+        "onboard_time": 1674365608,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66358,
+        "num": 264209,
+        "word": "市民大年初一连夜排队抢雍和宫头香",
+        "onboard_time": 1674358830,
+        "rank": 49,
+        "category": "社会新闻,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是我们的中国年#"
+    }
+  }
+}
