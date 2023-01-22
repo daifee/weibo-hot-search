@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/16 00:24:42 ~ 2023/01/22 14:21:48
+本榜单时间：2023/01/16 00:24:42 ~ 2023/01/22 14:36:13
 </p>
 </blockquote>
 <p>
@@ -2817,6 +2817,12 @@ iG战胜RNG（热度：662679）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E6%9B%BE%E9%9D%9E%E5%B8%B8%E5%8F%8D%E5%AF%B9%E4%BB%96%E5%94%B1%E6%B5%81%E8%A1%8C%23" target="weibo">
+周深大学老师曾非常反对他唱流行（热度：642436）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%85%BF%E4%BC%A4%E5%9D%90%E8%BD%AE%E6%A4%85%23" target="weibo">
 刘耀文腿伤坐轮椅（热度：641528）
 </a>
@@ -2855,12 +2861,6 @@ yskm 帅（热度：640464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%A6%96%E6%AD%8C%E6%98%AF%E5%86%99%E7%BB%99%E5%86%AF%E7%A6%A7%E7%9A%84%E5%90%97%23" target="weibo">
 这首歌是写给冯禧的吗（热度：639118）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E6%9B%BE%E9%9D%9E%E5%B8%B8%E5%8F%8D%E5%AF%B9%E4%BB%96%E5%94%B1%E6%B5%81%E8%A1%8C%23" target="weibo">
-周深大学老师曾非常反对他唱流行（热度：638094）
 </a>
 </li>
 
@@ -4007,6 +4007,12 @@ gidle 造型（热度：517923）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8E%BB%E4%B8%96%E5%90%8E%E5%A5%BD%E5%8F%8B%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E7%BB%99%E5%85%B6%E7%88%B6%E6%AF%8D%E6%8B%9C%E5%B9%B4%23" target="weibo">
 男子去世后好友连续3年给其父母拜年（热度：484545）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%84%E5%A5%B3%E4%BB%8E%E5%8F%B0%E9%98%B6%E8%B7%8C%E8%90%BD%E5%A5%B3%E5%AD%90%E9%A3%9E%E6%89%91%E6%8E%A5%E4%BD%8F%23" target="weibo">
+侄女从台阶跌落女子飞扑接住（热度：484080）
 </a>
 </li>
 
@@ -5913,12 +5919,6 @@ BOYSTORY开场表演（热度：328063）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BE%84%E5%A5%B3%E4%BB%8E%E5%8F%B0%E9%98%B6%E8%B7%8C%E8%90%BD%E5%A5%B3%E5%AD%90%E9%A3%9E%E6%89%91%E6%8E%A5%E4%BD%8F%23" target="weibo">
-侄女从台阶跌落女子飞扑接住（热度：322321）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E7%BB%99%E4%B9%B0%E6%96%B0%E8%A1%A3%E7%88%B6%E4%BA%B2%E8%A1%A8%E9%9D%A2%E8%AE%AD%E6%96%A5%E5%AE%9E%E5%88%99%E7%82%AB%E8%80%80%23" target="weibo">
 女儿给买新衣父亲表面训斥实则炫耀（热度：322282）
 </a>
@@ -7469,6 +7469,12 @@ MINJI音银特别MC视频（热度：258846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E5%8E%BB%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9%23" target="weibo">
 谢谢去有风的地方（热度：254870）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%BF%87%E5%B9%B43%E5%A4%A92%E9%87%91%23" target="weibo">
+谷爱凌过年3天2金（热度：254730）
 </a>
 </li>
 
@@ -10005,6 +10011,12 @@ TES对战AL（热度：173526）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%95%B8%E5%B1%B1%E5%BA%84%E4%BB%A5%E5%89%8D%E8%A2%AB%E7%BF%BB%E8%AF%91%E4%B8%BA%E5%92%86%E5%93%AE%E5%B1%B1%E5%BA%84%23" target="weibo">
+呼啸山庄以前被翻译为咆哮山庄（热度：169170）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%90%8E%E5%86%8D%E8%AF%B4%23" target="weibo">
 年后再说（热度：168964）
 </a>
@@ -10521,12 +10533,6 @@ HLE战胜KDF（热度：155898）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%BF%87%E5%B9%B43%E5%A4%A92%E9%87%91%23" target="weibo">
-谷爱凌过年3天2金（热度：154082）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%8B%97%E6%80%8E%E4%B9%88%E8%BF%99%E4%B9%88%E5%83%8F%E6%B3%95%E6%A3%8D%E5%95%8A%23" target="weibo">
 这狗怎么这么像法棍啊（热度：153866）
 </a>
@@ -10805,12 +10811,6 @@ BLG对战FPX（热度：146008）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AF%92%23" target="weibo">
 大寒（热度：144998）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%95%B8%E5%B1%B1%E5%BA%84%E4%BB%A5%E5%89%8D%E8%A2%AB%E7%BF%BB%E8%AF%91%E4%B8%BA%E5%92%86%E5%93%AE%E5%B1%B1%E5%BA%84%23" target="weibo">
-呼啸山庄以前被翻译为咆哮山庄（热度：144875）
 </a>
 </li>
 
@@ -12027,6 +12027,12 @@ NIP战胜UP（热度：103333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E7%89%884%E5%88%86%E9%92%9F%E9%AB%98%E6%95%88%E7%87%83%E8%84%82%E8%AE%AD%E7%BB%83%23" target="weibo">
+消防员版4分钟高效燃脂训练（热度：101887）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%83%8F%E6%9E%81%E4%BA%86%E6%88%91%E5%81%9A%E5%AE%8C%E5%BD%A2%E5%A1%AB%E7%A9%BA%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
 像极了我做完形填空的样子（热度：101231）
 </a>
@@ -12645,6 +12651,12 @@ WBG与TES的德比对决（热度：48885）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8%23" target="weibo">
+和平精英大话西游（热度：36961）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%B9%B4%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F%23" target="weibo">
 这就是中国年的仪式感（热度：35428）
 </a>
@@ -12659,12 +12671,6 @@ WBG与TES的德比对决（热度：48885）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%89%87%E5%9C%BA%E8%B5%B0%E8%9E%83%E8%9F%B9%E6%AD%A5%23" target="weibo">
 王鹤棣片场走螃蟹步（热度：30857）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8%23" target="weibo">
-和平精英大话西游（热度：30645）
 </a>
 </li>
 
