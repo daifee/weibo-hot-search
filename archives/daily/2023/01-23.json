@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674466415452,
+  "endTime": 1674469221438,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -107,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 778705,
+      "num": 778705,
+      "word": "离异家庭的孩子最怕过年了",
+      "onboard_time": 1674466465,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 754005,
       "num": 754005,
       "word": "黑暗荣耀",
@@ -145,6 +153,14 @@
       "onboard_time": 1674462203,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 721711,
+      "num": 721711,
+      "word": "高叶 老有人说我有佛缘",
+      "onboard_time": 1674465503,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 717634,
@@ -203,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569272,
+      "num": 569272,
+      "word": "流浪地球票房",
+      "onboard_time": 1674462923,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 569131,
       "num": 191541,
       "word": "泰国通报中国人在泰订到警车接机",
@@ -219,11 +243,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 550999,
-      "num": 550999,
-      "word": "高叶 老有人说我有佛缘",
-      "onboard_time": 1674465503,
-      "rank": 49,
+      "raw_hot": 556807,
+      "num": 556807,
+      "word": "张译口音怪怪的",
+      "onboard_time": 1674463345,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -243,14 +267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 519850,
-      "num": 519850,
-      "word": "流浪地球票房",
-      "onboard_time": 1674462923,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 511363,
       "num": 511363,
       "word": "大年初一总票房突破16亿",
@@ -265,14 +281,6 @@
       "onboard_time": 1674438747,
       "rank": 44,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 508075,
-      "num": 508075,
-      "word": "张译口音怪怪的",
-      "onboard_time": 1674463345,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 506710,
@@ -331,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 461613,
+      "num": 461613,
+      "word": "于正评价王一博易烊千玺演技",
+      "onboard_time": 1674467304,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 424639,
       "num": 424639,
       "word": "第一次见这么内向的鞭炮",
@@ -369,6 +385,14 @@
       "onboard_time": 1674402746,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 398913,
+      "num": 529948,
+      "word": "华西肿瘤教授回家过年又义务看病",
+      "onboard_time": 1674465265,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396359,
@@ -553,6 +577,14 @@
       "onboard_time": 1674449125,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 313995,
+      "num": 313995,
+      "word": "再见守望先锋",
+      "onboard_time": 1674466045,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 302821,
@@ -771,6 +803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214167,
+      "num": 214167,
+      "word": "回村的狗子们有多开心",
+      "onboard_time": 1674467486,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213684,
       "num": 181932,
       "word": "想嗑高启强安欣",
@@ -808,6 +848,14 @@
       "word": "满江红影评",
       "onboard_time": 1674433584,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 201163,
+      "num": 201163,
+      "word": "电影深海告别曲听哭了",
+      "onboard_time": 1674453504,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -915,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186147,
+      "num": 214917,
+      "word": "外甥女跷二郎腿给舅舅发红包",
+      "onboard_time": 1674465804,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184841,
       "num": 184841,
       "word": "55岁周慧敏状态",
@@ -963,8 +1019,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169840,
-      "num": 169840,
+      "raw_hot": 176125,
+      "num": 176125,
       "word": "流浪地球彩蛋",
       "onboard_time": 1674464965,
       "rank": 31,
@@ -1025,14 +1081,6 @@
       "onboard_time": 1674441626,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166388,
-      "num": 166388,
-      "word": "电影深海告别曲听哭了",
-      "onboard_time": 1674453504,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 165168,
@@ -1115,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149313,
+      "num": 149313,
+      "word": "秦岚说2022年度友谊是谭松韵",
+      "onboard_time": 1674467185,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148781,
       "num": 148781,
       "word": "周深祝大家兔年想睡就睡失眠后退",
@@ -1136,6 +1192,14 @@
       "word": "黑暗荣耀2特别预告",
       "onboard_time": 1674460762,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 144560,
+      "num": 144560,
+      "word": "东北恋哥2今日上线",
+      "onboard_time": 1674468025,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1235,12 +1299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134837,
+      "num": 134837,
+      "word": "沈腾和岳云鹏对戏有多难",
+      "onboard_time": 1674467964,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134630,
       "num": 134630,
       "word": "湖人vs开拓者",
       "onboard_time": 1674449607,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134419,
+      "num": 134419,
+      "word": "郭虎",
+      "onboard_time": 1674467125,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 133463,
@@ -1315,14 +1395,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 122950,
-      "num": 122950,
-      "word": "外甥女跷二郎腿给舅舅发红包",
-      "onboard_time": 1674465804,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121280,
       "num": 121280,
       "word": "毛晓彤好漂亮",
@@ -1353,14 +1425,6 @@
       "onboard_time": 1674453504,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 118955,
-      "num": 118955,
-      "word": "华西肿瘤教授回家过年又义务看病",
-      "onboard_time": 1674465265,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118351,
@@ -1435,12 +1499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104069,
-      "num": 104069,
-      "word": "再见守望先锋",
-      "onboard_time": 1674466045,
-      "rank": 37,
-      "category": "游戏"
+      "raw_hot": 103690,
+      "num": 103690,
+      "word": "朋友齐刷刷跪地替消防员给父母拜年",
+      "onboard_time": 1674468205,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103383,
@@ -1537,6 +1601,14 @@
       "onboard_time": 1674387631,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82051,
+      "num": 82051,
+      "word": "医生除夕夜接诊36例卡喉患者",
+      "onboard_time": 1674469046,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80713,
