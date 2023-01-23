@@ -1,0 +1,410 @@
+{
+  "runTime": 1674448660031,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1653011,
+        "num": 1653011,
+        "word": "建议查查张颂文 不像演的",
+        "onboard_time": 1674434245,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1144034,
+        "num": 1144034,
+        "word": "满江红",
+        "onboard_time": 1674435447,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199064,
+        "num": 777204,
+        "word": "长大后妈妈最爱说的那些话",
+        "onboard_time": 1674439226,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768953,
+        "num": 768953,
+        "word": "无名",
+        "onboard_time": 1674436287,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 615181,
+        "num": 615181,
+        "word": "流浪地球3",
+        "onboard_time": 1674431659,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534215,
+        "num": 534215,
+        "word": "YG新女团泰国成员公开",
+        "onboard_time": 1674438686,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511363,
+        "num": 511363,
+        "word": "大年初一总票房突破16亿",
+        "onboard_time": 1674445404,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 424639,
+        "num": 424639,
+        "word": "第一次见这么内向的鞭炮",
+        "onboard_time": 1674444145,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 401493,
+        "num": 401493,
+        "word": "男子发压岁钱200发出2000的气势",
+        "onboard_time": 1674438927,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348902,
+        "num": 348902,
+        "word": "俄罗斯宇航员太空拍中国除夕夜",
+        "onboard_time": 1674442528,
+        "rank": 9,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 499839,
+        "num": 346805,
+        "word": "深海",
+        "onboard_time": 1674438087,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339863,
+        "num": 339863,
+        "word": "虞书欣美呆",
+        "onboard_time": 1674402147,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325340,
+        "num": 325340,
+        "word": "龙洋春晚后主持诗词大会",
+        "onboard_time": 1674447983,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315464,
+        "num": 315464,
+        "word": "泰国普吉岛为迎接中国游客采购大象",
+        "onboard_time": 1674446006,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297829,
+        "num": 297829,
+        "word": "张小斐不跑调唱逆光好好听",
+        "onboard_time": 1674445165,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284681,
+        "num": 284681,
+        "word": "飞人博尔特遭诈骗损失千万美元",
+        "onboard_time": 1674441326,
+        "rank": 15,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 276462,
+        "num": 276462,
+        "word": "关晓彤亮片裙",
+        "onboard_time": 1674430156,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248995,
+        "num": 248995,
+        "word": "暴雪游戏停服倒计时",
+        "onboard_time": 1674444684,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220349,
+        "num": 220349,
+        "word": "熊大熊二妈妈带娃太好笑了",
+        "onboard_time": 1674446305,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194550,
+        "num": 194550,
+        "word": "美国枪击案发地正举行兔年春节活动",
+        "onboard_time": 1674446546,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209275,
+        "num": 194452,
+        "word": "郭帆",
+        "onboard_time": 1674445404,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194265,
+        "num": 194265,
+        "word": "漠河现零下53℃极端低温",
+        "onboard_time": 1674435504,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193594,
+        "num": 193594,
+        "word": "王一博无名票房破2亿剧照",
+        "onboard_time": 1674435806,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166689,
+        "num": 166689,
+        "word": "篮网vs勇士",
+        "onboard_time": 1674441626,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141218,
+        "num": 141218,
+        "word": "222个账号因炫耀服刑等被处置",
+        "onboard_time": 1674429674,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140546,
+        "num": 140546,
+        "word": "眼睛疲劳试试这3个动作",
+        "onboard_time": 1674447446,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136748,
+        "num": 136748,
+        "word": "洛杉矶枪击事件已致10死10伤",
+        "onboard_time": 1674438747,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 133773,
+        "num": 133773,
+        "word": "辉瑞CEO被记者围堵质问",
+        "onboard_time": 1674431720,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132629,
+        "num": 132629,
+        "word": "韩红谈为满江红配乐的契机",
+        "onboard_time": 1674444506,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131863,
+        "num": 131863,
+        "word": "萌娃看春晚高呼要和宋轶结婚",
+        "onboard_time": 1674443665,
+        "rank": 29,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 128139,
+        "num": 128139,
+        "word": "三体王子文演技",
+        "onboard_time": 1674441386,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126411,
+        "num": 126411,
+        "word": "宋亚轩被扇子砸到头",
+        "onboard_time": 1674431478,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123922,
+        "num": 123922,
+        "word": "男子进厕所不出来老婆一看在灭火",
+        "onboard_time": 1674429736,
+        "rank": 32,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 116310,
+        "num": 116310,
+        "word": "兔耳朵",
+        "onboard_time": 1674443186,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115886,
+        "num": 115886,
+        "word": "周深曾在被窝里录歌曲大鱼",
+        "onboard_time": 1674439406,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112233,
+        "num": 112233,
+        "word": "邓超明年春晚节目有了",
+        "onboard_time": 1674432682,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102548,
+        "num": 102548,
+        "word": "电影满江红观后感",
+        "onboard_time": 1674431841,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99207,
+        "num": 99207,
+        "word": "张颂文演技",
+        "onboard_time": 1674398493,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95579,
+        "num": 95579,
+        "word": "冯巩说关晓彤像昌平的草莓",
+        "onboard_time": 1674433403,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94946,
+        "num": 94946,
+        "word": "知否 春晚篇",
+        "onboard_time": 1674398493,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93936,
+        "num": 93936,
+        "word": "臭蛋",
+        "onboard_time": 1674398371,
+        "rank": 40,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 89038,
+        "num": 89038,
+        "word": "王一博用上海话喊大家去看无名",
+        "onboard_time": 1674438927,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86584,
+        "num": 86584,
+        "word": "74岁老人用属相备注家人微信",
+        "onboard_time": 1674436588,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83162,
+        "num": 83162,
+        "word": "爷爷送13米长现金红包给4岁孙女",
+        "onboard_time": 1674431960,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82506,
+        "num": 82506,
+        "word": "大年初二",
+        "onboard_time": 1674435745,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80896,
+        "num": 80896,
+        "word": "三体第十集",
+        "onboard_time": 1674442528,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76834,
+        "num": 76834,
+        "word": "广东卫视春晚",
+        "onboard_time": 1674438986,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74754,
+        "num": 74754,
+        "word": "大英博物馆里有多少中国文物",
+        "onboard_time": 1674429977,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73605,
+        "num": 73605,
+        "word": "王鹤棣说和老戏骨合作不能喊累",
+        "onboard_time": 1674431236,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67683,
+        "num": 67683,
+        "word": "女子捏瘪结婚时戴的4个金镯子",
+        "onboard_time": 1674431720,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全家人的笑脸就是春节的意义#"
+    }
+  }
+}

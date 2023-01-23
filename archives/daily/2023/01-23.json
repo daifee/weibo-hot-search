@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674447752790,
+  "endTime": 1674448660031,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -131,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 511363,
+      "num": 511363,
+      "word": "大年初一总票房突破16亿",
+      "onboard_time": 1674445404,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 508075,
       "num": 508075,
       "word": "洛杉矶枪击事件已致10死10伤",
@@ -163,14 +171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 471434,
-      "num": 357891,
-      "word": "大年初一总票房突破16亿",
-      "onboard_time": 1674445404,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 468742,
       "num": 468742,
       "word": "虚拟邓丽君",
@@ -185,6 +185,14 @@
       "onboard_time": 1674442528,
       "rank": 21,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 424639,
+      "num": 424639,
+      "word": "第一次见这么内向的鞭炮",
+      "onboard_time": 1674444145,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 424633,
@@ -267,14 +275,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 365856,
-      "num": 365856,
-      "word": "第一次见这么内向的鞭炮",
-      "onboard_time": 1674444145,
-      "rank": 31,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 362355,
       "num": 229286,
       "word": "张若昀 帅颠了",
@@ -315,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 325340,
+      "num": 325340,
+      "word": "龙洋春晚后主持诗词大会",
+      "onboard_time": 1674447983,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322041,
       "num": 322041,
       "word": "毛不易给工作人员发完红包被踢出群",
@@ -329,6 +337,14 @@
       "onboard_time": 1674399810,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315464,
+      "num": 315464,
+      "word": "泰国普吉岛为迎接中国游客采购大象",
+      "onboard_time": 1674446006,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302821,
@@ -467,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238809,
-      "num": 238809,
-      "word": "泰国普吉岛为迎接中国游客采购大象",
-      "onboard_time": 1674446006,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238045,
       "num": 184767,
       "word": "张颂文演技",
@@ -507,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220349,
+      "num": 220349,
+      "word": "熊大熊二妈妈带娃太好笑了",
+      "onboard_time": 1674446305,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215117,
       "num": 215117,
       "word": "电影满江红观后感",
@@ -520,14 +536,6 @@
       "word": "想嗑高启强安欣",
       "onboard_time": 1674399930,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 207853,
-      "num": 207853,
-      "word": "熊大熊二妈妈带娃太好笑了",
-      "onboard_time": 1674446305,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -579,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199064,
+      "num": 890629,
+      "word": "长大后妈妈最爱说的那些话",
+      "onboard_time": 1674439226,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198116,
       "num": 198116,
       "word": "春节电影",
@@ -592,6 +608,14 @@
       "word": "男孩面对帝王蟹年夜饭掏出了泡面",
       "onboard_time": 1674385166,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194550,
+      "num": 194550,
+      "word": "美国枪击案发地正举行兔年春节活动",
+      "onboard_time": 1674446546,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -633,14 +657,6 @@
       "onboard_time": 1674390988,
       "rank": 16,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 181198,
-      "num": 890629,
-      "word": "长大后妈妈最爱说的那些话",
-      "onboard_time": 1674439226,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 178251,
@@ -689,6 +705,14 @@
       "onboard_time": 1674429133,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166689,
+      "num": 166689,
+      "word": "篮网vs勇士",
+      "onboard_time": 1674441626,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 165168,
@@ -755,28 +779,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154001,
-      "num": 154001,
-      "word": "美国枪击案发地正举行兔年春节活动",
-      "onboard_time": 1674446546,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147794,
       "num": 147794,
       "word": "三体第十集",
       "onboard_time": 1674442528,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144533,
-      "num": 144533,
-      "word": "篮网vs勇士",
-      "onboard_time": 1674441626,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 143827,
@@ -793,6 +801,14 @@
       "onboard_time": 1674385828,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140546,
+      "num": 140546,
+      "word": "眼睛疲劳试试这3个动作",
+      "onboard_time": 1674447446,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139991,
@@ -944,14 +960,6 @@
       "word": "兔年第一场雪",
       "onboard_time": 1674441927,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98156,
-      "num": 98156,
-      "word": "眼睛疲劳试试这3个动作",
-      "onboard_time": 1674447446,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
