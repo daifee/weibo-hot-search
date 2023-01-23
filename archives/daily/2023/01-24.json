@@ -1,6 +1,6 @@
 {
   "startTime": 1674491158294,
-  "endTime": 1674491158294,
+  "endTime": 1674492229276,
   "band_list": [
     {
       "raw_hot": 1314173,
@@ -9,6 +9,14 @@
       "onboard_time": 1674486151,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 929590,
+      "num": 929590,
+      "word": "导演付宁去世",
+      "onboard_time": 1674482967,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 815357,
@@ -35,14 +43,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 450213,
-      "num": 450213,
-      "word": "导演付宁去世",
-      "onboard_time": 1674482967,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 447492,
       "num": 447492,
       "word": "王冰冰演戏",
@@ -64,6 +64,22 @@
       "word": "汕头烟花",
       "onboard_time": 1674478827,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387218,
+      "num": 387218,
+      "word": "韩国拟投资67亿发展旅游",
+      "onboard_time": 1674490167,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358477,
+      "num": 358477,
+      "word": "大兴安岭女子回家发现单元门冻成冰窖",
+      "onboard_time": 1674489685,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -147,14 +163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212268,
-      "num": 212268,
-      "word": "大兴安岭女子回家发现单元门冻成冰窖",
-      "onboard_time": 1674489685,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210776,
       "num": 210776,
       "word": "流浪地球2现实版太空电梯原来在莽山",
@@ -211,14 +219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167627,
-      "num": 167627,
-      "word": "韩国拟投资67亿发展旅游",
-      "onboard_time": 1674490167,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163586,
       "num": 163586,
       "word": "2老人不顾烟花燃放抢烟花箱卖钱",
@@ -235,8 +235,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 142834,
-      "num": 579082,
+      "raw_hot": 145337,
+      "num": 656792,
       "word": "被彩云之南的七彩祥云美到了",
       "onboard_time": 1674481228,
       "rank": 2,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 91807,
-      "num": 71138,
+      "num": 82291,
       "word": "易烊千玺孙均李必对比",
       "onboard_time": 1674474326,
       "rank": 42,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76539,
+      "num": 76539,
+      "word": "90岁老人过大寿家人挨家挨户送蛋糕",
+      "onboard_time": 1674489205,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73057,
       "num": 69248,
       "word": "满江红里的沈腾",
@@ -371,20 +379,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 64814,
+      "num": 64814,
+      "word": "外国科学家奶奶说很想看流浪地球2",
+      "onboard_time": 1674485969,
+      "rank": 43,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 59085,
       "num": 59085,
       "word": "哈尔滨的冰雕太雄伟了",
       "onboard_time": 1674472404,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 56409,
-      "num": 56409,
-      "word": "90岁老人过大寿家人挨家挨户送蛋糕",
-      "onboard_time": 1674489205,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52078,
@@ -401,11 +409,22 @@
       "onboard_time": 1674476006,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38674,
+      "num": 38674,
+      "word": "过年才能吃到的甜烧白",
+      "onboard_time": 1674489148,
+      "rank": 49,
+      "category": "美食"
     }
   ],
   "hotgov_list": [
     {
       "word": "#热热闹闹寻年味#"
+    },
+    {
+      "word": "#兔年吉祥#"
     }
   ]
 }

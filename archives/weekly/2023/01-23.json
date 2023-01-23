@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674491158294,
+  "endTime": 1674492229276,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -129,6 +129,14 @@
       "onboard_time": 1674481947,
       "rank": 5,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 929590,
+      "num": 929590,
+      "word": "导演付宁去世",
+      "onboard_time": 1674482967,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 915244,
@@ -281,14 +289,6 @@
       "onboard_time": 1674439285,
       "rank": 8,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 640141,
-      "num": 640141,
-      "word": "导演付宁去世",
-      "onboard_time": 1674482967,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 615842,
@@ -659,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387218,
+      "num": 387218,
+      "word": "韩国拟投资67亿发展旅游",
+      "onboard_time": 1674490167,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385801,
       "num": 385801,
       "word": "再见守望先锋",
@@ -761,6 +769,14 @@
       "onboard_time": 1674459263,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 358477,
+      "num": 358477,
+      "word": "大兴安岭女子回家发现单元门冻成冰窖",
+      "onboard_time": 1674489685,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349945,
@@ -1203,14 +1219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212268,
-      "num": 212268,
-      "word": "大兴安岭女子回家发现单元门冻成冰窖",
-      "onboard_time": 1674489685,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208355,
       "num": 208355,
       "word": "李克勤说毛不易是非常勤劳的人",
@@ -1569,14 +1577,6 @@
       "onboard_time": 1674449305,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167627,
-      "num": 167627,
-      "word": "韩国拟投资67亿发展旅游",
-      "onboard_time": 1674490167,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167459,
@@ -2283,6 +2283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 76539,
+      "num": 76539,
+      "word": "90岁老人过大寿家人挨家挨户送蛋糕",
+      "onboard_time": 1674489205,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72813,
       "num": 241992,
       "word": "父母有权保管使用孩子压岁钱吗",
@@ -2315,6 +2323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64814,
+      "num": 64814,
+      "word": "外国科学家奶奶说很想看流浪地球2",
+      "onboard_time": 1674485969,
+      "rank": 43,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 63503,
       "num": 63503,
       "word": "今起上演五星同框天象",
@@ -2329,14 +2345,6 @@
       "onboard_time": 1674392370,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 56409,
-      "num": 56409,
-      "word": "90岁老人过大寿家人挨家挨户送蛋糕",
-      "onboard_time": 1674489205,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53089,
@@ -2369,6 +2377,14 @@
       "onboard_time": 1674390329,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38674,
+      "num": 38674,
+      "word": "过年才能吃到的甜烧白",
+      "onboard_time": 1674489148,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 33860,
