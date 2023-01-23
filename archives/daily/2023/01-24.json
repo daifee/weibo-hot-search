@@ -1,6 +1,6 @@
 {
   "startTime": 1674491158294,
-  "endTime": 1674515905318,
+  "endTime": 1674516813573,
   "band_list": [
     {
       "raw_hot": 1314173,
@@ -51,6 +51,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 498528,
+      "num": 498528,
+      "word": "暴雪",
+      "onboard_time": 1674513493,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 447492,
       "num": 447492,
       "word": "王冰冰演戏",
@@ -73,14 +81,6 @@
       "onboard_time": 1674478827,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 386812,
-      "num": 386812,
-      "word": "暴雪",
-      "onboard_time": 1674513493,
-      "rank": 1,
-      "category": "游戏"
     },
     {
       "raw_hot": 358477,
@@ -107,6 +107,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300416,
+      "num": 300416,
+      "word": "水母烟花",
+      "onboard_time": 1674514634,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 275099,
+      "num": 275099,
+      "word": "张艺兴公司新公开三位练习生",
+      "onboard_time": 1674514573,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267342,
       "num": 267342,
       "word": "佟丽娅友情出演流浪地球2",
@@ -128,6 +144,14 @@
       "word": "网易发布致暴雪国服玩家告别信",
       "onboard_time": 1674462203,
       "rank": 12,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 241789,
+      "num": 58608,
+      "word": "网易发布暴雪游戏退款公告",
+      "onboard_time": 1674515534,
+      "rank": 30,
       "category": "游戏"
     },
     {
@@ -179,14 +203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208073,
-      "num": 208073,
-      "word": "张艺兴公司新公开三位练习生",
-      "onboard_time": 1674514573,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206274,
       "num": 176313,
       "word": "三体11集又上一分",
@@ -195,12 +211,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195409,
+      "num": 195409,
+      "word": "魔兽世界停服",
+      "onboard_time": 1674515896,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190506,
       "num": 175578,
       "word": "张继科跟爸爸的相处方式",
       "onboard_time": 1674487828,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180009,
+      "num": 180009,
+      "word": "儿子不回家过年母亲仍守在路口张望",
+      "onboard_time": 1674509052,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179320,
@@ -251,22 +283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 150892,
-      "num": 150892,
-      "word": "儿子不回家过年母亲仍守在路口张望",
-      "onboard_time": 1674509052,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146178,
-      "num": 146178,
-      "word": "水母烟花",
-      "onboard_time": 1674514634,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 145337,
       "num": 762811,
       "word": "被彩云之南的七彩祥云美到了",
@@ -299,12 +315,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 133315,
-      "num": 46539,
-      "word": "网易发布暴雪游戏退款公告",
-      "onboard_time": 1674515534,
-      "rank": 30,
-      "category": "游戏"
+      "raw_hot": 123854,
+      "num": 123854,
+      "word": "九旬爷奶花21万买17个金镯子送晚辈",
+      "onboard_time": 1674483208,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121950,
@@ -323,12 +339,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120930,
+      "num": 120930,
+      "word": "暴雪国服游戏停服",
+      "onboard_time": 1674515835,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108650,
       "num": 108650,
       "word": "张若昀年度突破男演员",
       "onboard_time": 1674486630,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 107305,
+      "num": 107305,
+      "word": "大年初三",
+      "onboard_time": 1674516556,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 106424,
@@ -343,14 +375,6 @@
       "num": 101790,
       "word": "40岁男子给8岁小孩磕头拜年",
       "onboard_time": 1674492562,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100153,
-      "num": 100153,
-      "word": "九旬爷奶花21万买17个金镯子送晚辈",
-      "onboard_time": 1674483208,
       "rank": 39,
       "category": "社会新闻"
     },
@@ -411,6 +435,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80867,
+      "num": 80867,
+      "word": "女子庙里祈福时遇兔子带路",
+      "onboard_time": 1674495138,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80466,
+      "num": 80466,
+      "word": "妈妈这个词只是叫一叫便喉间哽咽",
+      "onboard_time": 1674496517,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76958,
       "num": 69921,
       "word": "何广智回老家",
@@ -435,36 +475,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 70955,
-      "num": 70955,
-      "word": "魔兽世界停服",
-      "onboard_time": 1674515896,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 69022,
-      "num": 69022,
-      "word": "女子庙里祈福时遇兔子带路",
-      "onboard_time": 1674495138,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68600,
       "num": 68600,
       "word": "成果王冰冰同框双厨狂喜",
       "onboard_time": 1674486987,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 65553,
-      "num": 65553,
-      "word": "妈妈这个词只是叫一叫便喉间哽咽",
-      "onboard_time": 1674496517,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64814,
@@ -475,12 +491,28 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 64569,
+      "num": 64569,
+      "word": "满江红是怎么创作出来的",
+      "onboard_time": 1674516436,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 59085,
       "num": 59085,
       "word": "哈尔滨的冰雕太雄伟了",
       "onboard_time": 1674472404,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 52484,
+      "num": 52484,
+      "word": "云南洱源现七彩祥云",
+      "onboard_time": 1674473727,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52107,
@@ -499,12 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48248,
-      "num": 48248,
+      "raw_hot": 51865,
+      "num": 51865,
       "word": "广智一年的素材都有了",
       "onboard_time": 1674475347,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45516,
+      "num": 45516,
+      "word": "宋佳年度女演员",
+      "onboard_time": 1674483988,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 44307,
@@ -515,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38901,
-      "num": 38901,
-      "word": "暴雪国服游戏停服",
-      "onboard_time": 1674515835,
+      "raw_hot": 39691,
+      "num": 39691,
+      "word": "今年的压岁钱分配也太合理了",
+      "onboard_time": 1674474986,
       "rank": 38,
-      "category": "游戏"
+      "category": "幽默"
     },
     {
       "raw_hot": 38674,
@@ -531,28 +571,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 37258,
-      "num": 37258,
-      "word": "宋佳年度女演员",
-      "onboard_time": 1674483988,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 33686,
-      "num": 33686,
-      "word": "云南洱源现七彩祥云",
-      "onboard_time": 1674473727,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28945,
-      "num": 28945,
-      "word": "今年的压岁钱分配也太合理了",
-      "onboard_time": 1674474986,
-      "rank": 38,
-      "category": "幽默"
+      "raw_hot": 37324,
+      "num": 37324,
+      "word": "再见炉石传说",
+      "onboard_time": 1674516674,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 14482,

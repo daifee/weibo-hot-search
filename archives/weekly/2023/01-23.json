@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674515905318,
+  "endTime": 1674516813573,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -459,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 498528,
+      "num": 498528,
+      "word": "暴雪",
+      "onboard_time": 1674440786,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 495773,
       "num": 495773,
       "word": "过年才知道自己辈分这么小",
@@ -665,14 +673,6 @@
       "onboard_time": 1674398908,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 386812,
-      "num": 386812,
-      "word": "暴雪",
-      "onboard_time": 1674440786,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 385801,
@@ -923,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300416,
+      "num": 300416,
+      "word": "水母烟花",
+      "onboard_time": 1674514634,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 296492,
       "num": 1001385,
       "word": "被彩云之南的七彩祥云美到了",
@@ -960,6 +968,14 @@
       "word": "刘宇宁直播",
       "onboard_time": 1674477567,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 275099,
+      "num": 275099,
+      "word": "张艺兴公司新公开三位练习生",
+      "onboard_time": 1674514573,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -1131,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241789,
+      "num": 58608,
+      "word": "网易发布暴雪游戏退款公告",
+      "onboard_time": 1674515534,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238564,
       "num": 238564,
       "word": "兔年的第一杯奶茶",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1674472706,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 208073,
-      "num": 208073,
-      "word": "张艺兴公司新公开三位练习生",
-      "onboard_time": 1674514573,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 206630,
@@ -1387,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195409,
+      "num": 195409,
+      "word": "魔兽世界停服",
+      "onboard_time": 1674515896,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194819,
       "num": 194819,
       "word": "男孩面对帝王蟹年夜饭掏出了泡面",
@@ -1513,6 +1537,14 @@
       "onboard_time": 1674464965,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180009,
+      "num": 180009,
+      "word": "儿子不回家过年母亲仍守在路口张望",
+      "onboard_time": 1674509052,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179320,
@@ -1739,14 +1771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 150892,
-      "num": 150892,
-      "word": "儿子不回家过年母亲仍守在路口张望",
-      "onboard_time": 1674509052,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149912,
       "num": 149912,
       "word": "阿凡达2全球票房破20亿美元",
@@ -1769,14 +1793,6 @@
       "onboard_time": 1674442528,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146178,
-      "num": 146178,
-      "word": "水母烟花",
-      "onboard_time": 1674514634,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 144954,
@@ -1955,14 +1971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 133315,
-      "num": 46539,
-      "word": "网易发布暴雪游戏退款公告",
-      "onboard_time": 1674515534,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 132896,
       "num": 132896,
       "word": "去春晚工作是什么体验",
@@ -2049,6 +2057,14 @@
       "onboard_time": 1674450861,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120930,
+      "num": 120930,
+      "word": "暴雪国服游戏停服",
+      "onboard_time": 1674515835,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 120737,
@@ -2145,6 +2161,14 @@
       "onboard_time": 1674456563,
       "rank": 31,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 107305,
+      "num": 107305,
+      "word": "大年初三",
+      "onboard_time": 1674516556,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 104359,
@@ -2299,12 +2323,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80867,
+      "num": 80867,
+      "word": "女子庙里祈福时遇兔子带路",
+      "onboard_time": 1674495138,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80713,
       "num": 193806,
       "word": "巴啦啦能量隐藏技能出现",
       "onboard_time": 1674401008,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80466,
+      "num": 80466,
+      "word": "妈妈这个词只是叫一叫便喉间哽咽",
+      "onboard_time": 1674496517,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79084,
@@ -2355,28 +2395,12 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 70955,
-      "num": 70955,
-      "word": "魔兽世界停服",
-      "onboard_time": 1674515896,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 70802,
       "num": 174474,
       "word": "现在小孩穿搭也太洋气了",
       "onboard_time": 1674381865,
       "rank": 29,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 69022,
-      "num": 69022,
-      "word": "女子庙里祈福时遇兔子带路",
-      "onboard_time": 1674495138,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65820,
@@ -2395,20 +2419,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65553,
-      "num": 65553,
-      "word": "妈妈这个词只是叫一叫便喉间哽咽",
-      "onboard_time": 1674496517,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64814,
       "num": 64814,
       "word": "外国科学家奶奶说很想看流浪地球2",
       "onboard_time": 1674485969,
       "rank": 43,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 64569,
+      "num": 64569,
+      "word": "满江红是怎么创作出来的",
+      "onboard_time": 1674516436,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 63503,
@@ -2459,20 +2483,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38901,
-      "num": 38901,
-      "word": "暴雪国服游戏停服",
-      "onboard_time": 1674515835,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 38674,
       "num": 38674,
       "word": "过年才能吃到的甜烧白",
       "onboard_time": 1674489148,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 37324,
+      "num": 37324,
+      "word": "再见炉石传说",
+      "onboard_time": 1674516674,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 33860,
