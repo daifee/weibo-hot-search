@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674478493690,
+  "endTime": 1674480322437,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -107,11 +107,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 893901,
-      "num": 893901,
+      "raw_hot": 905358,
+      "num": 905358,
       "word": "狂飙",
       "onboard_time": 1674385525,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 903364,
+      "num": 903364,
+      "word": "谭松韵年度突破女演员",
+      "onboard_time": 1674477807,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -233,6 +241,14 @@
       "onboard_time": 1674439285,
       "rank": 8,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 622555,
+      "num": 622555,
+      "word": "汕头烟花",
+      "onboard_time": 1674478827,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 615842,
@@ -427,12 +443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 448912,
-      "num": 448912,
-      "word": "谭松韵年度突破女演员",
-      "onboard_time": 1674477807,
-      "rank": 7,
-      "category": "影视"
+      "raw_hot": 461850,
+      "num": 461850,
+      "word": "女子初二回娘家返程被塞300斤年货",
+      "onboard_time": 1674476006,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424639,
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 413672,
-      "num": 355093,
+      "num": 361399,
       "word": "朱颜曼滋流浪地球2演李一一的妈",
       "onboard_time": 1674474568,
       "rank": 12,
@@ -564,7 +580,7 @@
     },
     {
       "raw_hot": 376853,
-      "num": 321639,
+      "num": 338846,
       "word": "天津卫视相声春晚",
       "onboard_time": 1674476368,
       "rank": 20,
@@ -731,14 +747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291401,
-      "num": 326222,
-      "word": "女子初二回娘家返程被塞300斤年货",
-      "onboard_time": 1674476006,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291308,
       "num": 925318,
       "word": "过年一定要和妈妈拍张照",
@@ -764,7 +772,7 @@
     },
     {
       "raw_hot": 278848,
-      "num": 210450,
+      "num": 230869,
       "word": "刘宇宁直播",
       "onboard_time": 1674477567,
       "rank": 21,
@@ -835,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255946,
+      "num": 255946,
+      "word": "今年的压岁钱分配也太合理了",
+      "onboard_time": 1674474986,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 255497,
       "num": 196498,
       "word": "周也主持",
@@ -891,12 +907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241753,
-      "num": 241753,
-      "word": "今年的压岁钱分配也太合理了",
-      "onboard_time": 1674474986,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 238564,
+      "num": 238564,
+      "word": "兔年的第一杯奶茶",
+      "onboard_time": 1674475286,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 238045,
@@ -913,6 +929,22 @@
       "onboard_time": 1674433403,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231443,
+      "num": 231443,
+      "word": "安欣是狂飙的灵魂",
+      "onboard_time": 1674479247,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 229760,
+      "num": 229760,
+      "word": "满江红里的沈腾",
+      "onboard_time": 1674478827,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 228539,
@@ -987,12 +1019,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205563,
+      "num": 205563,
+      "word": "食堂阿姨吃到民警为她做的年夜饭",
+      "onboard_time": 1674477028,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204182,
       "num": 204182,
       "word": "邓超明年春晚节目有了",
       "onboard_time": 1674432682,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203622,
+      "num": 203622,
+      "word": "CMG中国电视剧年度盛典",
+      "onboard_time": 1674478887,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 203305,
@@ -1171,14 +1219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184420,
-      "num": 184420,
-      "word": "兔年的第一杯奶茶",
-      "onboard_time": 1674475286,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 183524,
       "num": 244010,
       "word": "你家宠物对放炮有什么反应",
@@ -1339,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160656,
-      "num": 205254,
-      "word": "食堂阿姨吃到民警为她做的年夜饭",
-      "onboard_time": 1674477028,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159512,
       "num": 159512,
       "word": "刘雨昕slay全场",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1674455005,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 150918,
+      "num": 171050,
+      "word": "男子去澡堂搓澡膝盖被搓到反光",
+      "onboard_time": 1674479488,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149912,
@@ -1921,6 +1961,14 @@
       "onboard_time": 1674371125,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64596,
+      "num": 64596,
+      "word": "放烟花最开心的是狗狗",
+      "onboard_time": 1674480208,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 63503,
