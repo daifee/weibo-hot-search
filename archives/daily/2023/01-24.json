@@ -1,6 +1,6 @@
 {
   "startTime": 1674491158294,
-  "endTime": 1674498989882,
+  "endTime": 1674501297125,
   "band_list": [
     {
       "raw_hot": 1314173,
@@ -435,18 +435,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44307,
-      "num": 51995,
-      "word": "女子初二回娘家返程被塞300斤年货",
-      "onboard_time": 1674476006,
+      "raw_hot": 44422,
+      "num": 44422,
+      "word": "女子庙里祈福时遇兔子带路",
+      "onboard_time": 1674495138,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41112,
-      "num": 41112,
-      "word": "女子庙里祈福时遇兔子带路",
-      "onboard_time": 1674495138,
+      "raw_hot": 44307,
+      "num": 51995,
+      "word": "女子初二回娘家返程被塞300斤年货",
+      "onboard_time": 1674476006,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -459,6 +459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 33887,
+      "num": 33887,
+      "word": "妈妈这个词只是叫一叫便喉间哽咽",
+      "onboard_time": 1674496517,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32050,
       "num": 32050,
       "word": "广智一年的素材都有了",
@@ -467,12 +475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31296,
-      "num": 31296,
-      "word": "妈妈这个词只是叫一叫便喉间哽咽",
-      "onboard_time": 1674496517,
+      "raw_hot": 19178,
+      "num": 19178,
+      "word": "今年的压岁钱分配也太合理了",
+      "onboard_time": 1674474986,
       "rank": 38,
-      "category": "社会新闻"
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
