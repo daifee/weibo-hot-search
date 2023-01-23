@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674448660031,
+  "endTime": 1674451025283,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -27,8 +27,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1164169,
-      "num": 1164169,
+      "raw_hot": 1219212,
+      "num": 1219212,
       "word": "满江红",
       "onboard_time": 1674322646,
       "rank": 42,
@@ -41,6 +41,14 @@
       "onboard_time": 1674438686,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 902656,
+      "num": 902656,
+      "word": "满江红实时票房破6亿",
+      "onboard_time": 1674449785,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 880655,
@@ -107,6 +115,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 615842,
+      "num": 615842,
+      "word": "泰国普吉岛为迎接中国游客采购大象",
+      "onboard_time": 1674446006,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 569131,
       "num": 191541,
       "word": "泰国通报中国人在泰订到警车接机",
@@ -129,6 +145,14 @@
       "onboard_time": 1674438087,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 537376,
+      "num": 537376,
+      "word": "龙洋春晚后主持诗词大会",
+      "onboard_time": 1674447983,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 511363,
@@ -235,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393384,
+      "num": 129631,
+      "word": "电影无名正序时间线",
+      "onboard_time": 1674450688,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 387549,
       "num": 239663,
       "word": "冯巩 我想死你们了",
@@ -315,14 +347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 325340,
-      "num": 325340,
-      "word": "龙洋春晚后主持诗词大会",
-      "onboard_time": 1674447983,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 322041,
       "num": 322041,
       "word": "毛不易给工作人员发完红包被踢出群",
@@ -339,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315464,
-      "num": 315464,
-      "word": "泰国普吉岛为迎接中国游客采购大象",
-      "onboard_time": 1674446006,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 316104,
+      "num": 316104,
+      "word": "周深新歌MV有七部开年电影",
+      "onboard_time": 1674449125,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 302821,
@@ -369,6 +393,14 @@
       "onboard_time": 1674405503,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291308,
+      "num": 291308,
+      "word": "过年一定要和妈妈拍张照",
+      "onboard_time": 1674448887,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282737,
@@ -539,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207257,
+      "num": 179667,
+      "word": "苏有朋说2023是自己的新歌手元年",
+      "onboard_time": 1674450504,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204182,
       "num": 204182,
       "word": "邓超明年春晚节目有了",
@@ -588,7 +628,7 @@
     },
     {
       "raw_hot": 199064,
-      "num": 890629,
+      "num": 1032536,
       "word": "长大后妈妈最爱说的那些话",
       "onboard_time": 1674439226,
       "rank": 47,
@@ -665,6 +705,22 @@
       "onboard_time": 1674443665,
       "rank": 40,
       "category": "社会新闻,综艺"
+    },
+    {
+      "raw_hot": 177627,
+      "num": 177627,
+      "word": "眼睛疲劳试试这3个动作",
+      "onboard_time": 1674447446,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177106,
+      "num": 177106,
+      "word": "湖人赢了",
+      "onboard_time": 1674450806,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 169067,
@@ -803,14 +859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140546,
-      "num": 140546,
-      "word": "眼睛疲劳试试这3个动作",
-      "onboard_time": 1674447446,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139991,
       "num": 139991,
       "word": "去有风的地方拜年礼",
@@ -849,6 +897,14 @@
       "onboard_time": 1674441747,
       "rank": 45,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 134630,
+      "num": 134630,
+      "word": "湖人vs开拓者",
+      "onboard_time": 1674449607,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 132896,
@@ -1003,12 +1059,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89595,
+      "num": 89595,
+      "word": "魔兽世界",
+      "onboard_time": 1674450446,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 88864,
+      "num": 88864,
+      "word": "永远折服于民俗文化的浪漫",
+      "onboard_time": 1674450986,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 87810,
+      "num": 88417,
+      "word": "郭帆说流浪地球2科技含量超第一部",
+      "onboard_time": 1674449305,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 85845,
       "num": 85845,
       "word": "梅里雪山仿佛身披金光",
       "onboard_time": 1674439046,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 84774,
+      "num": 84774,
+      "word": "郭帆感谢观众种下的科幻种子",
+      "onboard_time": 1674450504,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 83205,
@@ -1019,12 +1107,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81829,
+      "num": 81829,
+      "word": "春节档电影总票房已超20亿",
+      "onboard_time": 1674450147,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80713,
       "num": 193806,
       "word": "巴啦啦能量隐藏技能出现",
       "onboard_time": 1674401008,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80450,
+      "num": 80450,
+      "word": "玖月奇迹王小玮跨界演小品",
+      "onboard_time": 1674450861,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 79084,
