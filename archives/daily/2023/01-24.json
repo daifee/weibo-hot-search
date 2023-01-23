@@ -1,6 +1,6 @@
 {
   "startTime": 1674491158294,
-  "endTime": 1674492229276,
+  "endTime": 1674494254112,
   "band_list": [
     {
       "raw_hot": 1314173,
@@ -25,6 +25,14 @@
       "onboard_time": 1674474807,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 726353,
+      "num": 726353,
+      "word": "韩国拟投资67亿发展旅游",
+      "onboard_time": 1674490167,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 570358,
@@ -64,14 +72,6 @@
       "word": "汕头烟花",
       "onboard_time": 1674478827,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387218,
-      "num": 387218,
-      "word": "韩国拟投资67亿发展旅游",
-      "onboard_time": 1674490167,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 145337,
-      "num": 656792,
+      "num": 762811,
       "word": "被彩云之南的七彩祥云美到了",
       "onboard_time": 1674481228,
       "rank": 2,
@@ -273,6 +273,14 @@
       "onboard_time": 1674487289,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120870,
+      "num": 120870,
+      "word": "深海讲了什么故事",
+      "onboard_time": 1674493281,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 108650,
@@ -321,6 +329,14 @@
       "onboard_time": 1674474326,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 86205,
+      "num": 86205,
+      "word": "岳云鹏被孙越一秒哄好",
+      "onboard_time": 1674492262,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 83765,
@@ -395,6 +411,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 58470,
+      "num": 60588,
+      "word": "40岁男子给8岁小孩磕头拜年",
+      "onboard_time": 1674492562,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52107,
+      "num": 52107,
+      "word": "张译口音怪怪的",
+      "onboard_time": 1674463345,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 52078,
       "num": 52078,
       "word": "医生除夕夜接诊36例卡喉患者",
@@ -425,6 +457,9 @@
     },
     {
       "word": "#兔年吉祥#"
+    },
+    {
+      "word": "#两岸同胞拜大年#"
     }
   ]
 }
