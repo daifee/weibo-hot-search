@@ -1,6 +1,6 @@
 {
   "startTime": 1674491158294,
-  "endTime": 1674495217039,
+  "endTime": 1674498089245,
   "band_list": [
     {
       "raw_hot": 1314173,
@@ -451,11 +451,27 @@
       "category": "美食"
     },
     {
-      "raw_hot": 22778,
-      "num": 22778,
+      "raw_hot": 37827,
+      "num": 37827,
       "word": "女子庙里祈福时遇兔子带路",
       "onboard_time": 1674495138,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32050,
+      "num": 32050,
+      "word": "广智一年的素材都有了",
+      "onboard_time": 1674475347,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28067,
+      "num": 28067,
+      "word": "妈妈这个词只是叫一叫便喉间哽咽",
+      "onboard_time": 1674496517,
+      "rank": 38,
       "category": "社会新闻"
     }
   ],
