@@ -1,0 +1,410 @@
+{
+  "runTime": 1674477345135,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1038617,
+        "num": 1038617,
+        "word": "何广智回老家",
+        "onboard_time": 1674470068,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 995175,
+        "num": 995175,
+        "word": "王冰冰演戏",
+        "onboard_time": 1674474867,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128306,
+        "num": 925318,
+        "word": "过年一定要和妈妈拍张照",
+        "onboard_time": 1674448887,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 893901,
+        "num": 893901,
+        "word": "狂飙",
+        "onboard_time": 1674474807,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 694089,
+        "num": 694089,
+        "word": "满江红",
+        "onboard_time": 1674435447,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 544005,
+        "num": 544005,
+        "word": "广智一年的素材都有了",
+        "onboard_time": 1674475347,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504295,
+        "num": 504295,
+        "word": "张颂文说华语电影肯定不会把奖给我的",
+        "onboard_time": 1674469526,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361218,
+        "num": 361218,
+        "word": "因太脏而放弃劝架的狗妈妈",
+        "onboard_time": 1674453684,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315234,
+        "num": 360111,
+        "word": "医生除夕夜接诊36例卡喉患者",
+        "onboard_time": 1674469046,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289222,
+        "num": 359718,
+        "word": "男子喝醉被抱出强行营业发红包",
+        "onboard_time": 1674474986,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580687,
+        "num": 357775,
+        "word": "王一博无名广州路演状态",
+        "onboard_time": 1674476608,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 494671,
+        "num": 356215,
+        "word": "易烊千玺孙均李必对比",
+        "onboard_time": 1674474326,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386012,
+        "num": 355093,
+        "word": "朱颜曼滋流浪地球2演李一一的妈",
+        "onboard_time": 1674474568,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375552,
+        "num": 353261,
+        "word": "刘雨昕麦架上的钻是自己贴的",
+        "onboard_time": 1674474448,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 707670,
+        "num": 351429,
+        "word": "离异家庭的孩子最怕过年了",
+        "onboard_time": 1674466465,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351130,
+        "num": 351130,
+        "word": "流浪地球票房",
+        "onboard_time": 1674462923,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346848,
+        "num": 346848,
+        "word": "哈尔滨的冰雕太雄伟了",
+        "onboard_time": 1674472404,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331600,
+        "num": 331600,
+        "word": "潘长江说给大家带来快乐是我的荣幸",
+        "onboard_time": 1674473128,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202717,
+        "num": 326222,
+        "word": "女子初二回娘家返程被塞300斤年货",
+        "onboard_time": 1674476006,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173894,
+        "num": 321809,
+        "word": "孙子拜年磕头用力过猛心疼坏奶奶",
+        "onboard_time": 1674474087,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321639,
+        "num": 321639,
+        "word": "天津卫视相声春晚",
+        "onboard_time": 1674476368,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300810,
+        "num": 300810,
+        "word": "建议查查张颂文 不像演的",
+        "onboard_time": 1674434245,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226617,
+        "num": 226617,
+        "word": "今年的压岁钱分配也太合理了",
+        "onboard_time": 1674474986,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236594,
+        "num": 224505,
+        "word": "张译口音怪怪的",
+        "onboard_time": 1674463345,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215634,
+        "num": 215634,
+        "word": "网易发布致暴雪国服玩家告别信",
+        "onboard_time": 1674462203,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190660,
+        "num": 190660,
+        "word": "会逗人玩的狗子",
+        "onboard_time": 1674471806,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188113,
+        "num": 188113,
+        "word": "无名",
+        "onboard_time": 1674436287,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186434,
+        "num": 186434,
+        "word": "收到红包的狗子有多得意",
+        "onboard_time": 1674469766,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151978,
+        "num": 186150,
+        "word": "用砂糖桔制作兔年小桔灯",
+        "onboard_time": 1674464065,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144561,
+        "num": 185983,
+        "word": "云南洱源现七彩祥云",
+        "onboard_time": 1674473727,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185920,
+        "num": 185920,
+        "word": "一个人在外地过年是什么体验",
+        "onboard_time": 1674474025,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175772,
+        "num": 175772,
+        "word": "李克勤说毛不易是非常勤劳的人",
+        "onboard_time": 1674472706,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172287,
+        "num": 172287,
+        "word": "兔年的第一杯奶茶",
+        "onboard_time": 1674475286,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160061,
+        "num": 160061,
+        "word": "再见守望先锋",
+        "onboard_time": 1674466045,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148803,
+        "num": 148803,
+        "word": "易烊千玺主演电影票房破150亿",
+        "onboard_time": 1674452124,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139144,
+        "num": 139144,
+        "word": "深海",
+        "onboard_time": 1674438087,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128511,
+        "num": 128511,
+        "word": "张颂文 真诚",
+        "onboard_time": 1674462203,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124232,
+        "num": 124232,
+        "word": "流浪地球彩蛋",
+        "onboard_time": 1674464965,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121985,
+        "num": 121985,
+        "word": "华西肿瘤教授回家过年又义务看病",
+        "onboard_time": 1674465265,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105689,
+        "num": 105689,
+        "word": "沈腾和岳云鹏对戏有多难",
+        "onboard_time": 1674467964,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98500,
+        "num": 98500,
+        "word": "黑暗荣耀",
+        "onboard_time": 1674456923,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95098,
+        "num": 95098,
+        "word": "回村的狗子们有多开心",
+        "onboard_time": 1674467486,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90101,
+        "num": 90101,
+        "word": "她是懂磕头不磕头的",
+        "onboard_time": 1674463103,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85577,
+        "num": 85577,
+        "word": "网易回顾暴雪国服十四年",
+        "onboard_time": 1674469226,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84139,
+        "num": 84139,
+        "word": "王鹤棣郭仔飙四川话合集",
+        "onboard_time": 1674473547,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83383,
+        "num": 83383,
+        "word": "电影深海告别曲听哭了",
+        "onboard_time": 1674453504,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80080,
+        "num": 80080,
+        "word": "满江红实时票房破6亿",
+        "onboard_time": 1674449785,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79867,
+        "num": 79867,
+        "word": "食堂阿姨吃到民警为她做的年夜饭",
+        "onboard_time": 1674477028,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79149,
+        "num": 79149,
+        "word": "男子除夕开车200公里为女友放烟花",
+        "onboard_time": 1674460944,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78739,
+        "num": 78739,
+        "word": "万精油型 放在哪里都能用",
+        "onboard_time": 1674470308,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#大年初二年俗#"
+    }
+  }
+}

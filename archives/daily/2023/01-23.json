@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674473623476,
+  "endTime": 1674477345135,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -83,12 +83,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 995175,
+      "num": 995175,
+      "word": "王冰冰演戏",
+      "onboard_time": 1674474867,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 915244,
       "num": 915244,
       "word": "YG新女团泰国成员公开",
       "onboard_time": 1674438686,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 893901,
+      "num": 893901,
+      "word": "狂飙",
+      "onboard_time": 1674385525,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 880655,
@@ -219,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580687,
+      "num": 357775,
+      "word": "王一博无名广州路演状态",
+      "onboard_time": 1674476608,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 570561,
       "num": 570561,
       "word": "英国多家博物馆停止用木乃伊一词",
@@ -265,6 +289,14 @@
       "onboard_time": 1674438087,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 544005,
+      "num": 544005,
+      "word": "广智一年的素材都有了",
+      "onboard_time": 1674475347,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 537376,
@@ -345,6 +377,14 @@
       "onboard_time": 1674459866,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 494671,
+      "num": 356215,
+      "word": "易烊千玺孙均李必对比",
+      "onboard_time": 1674474326,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 471842,
@@ -467,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386012,
+      "num": 355093,
+      "word": "朱颜曼滋流浪地球2演李一一的妈",
+      "onboard_time": 1674474568,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385801,
       "num": 385801,
       "word": "再见守望先锋",
@@ -497,6 +545,14 @@
       "onboard_time": 1674434303,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 375552,
+      "num": 353261,
+      "word": "刘雨昕麦架上的钻是自己贴的",
+      "onboard_time": 1674474448,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 372817,
@@ -547,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346848,
+      "num": 346848,
+      "word": "哈尔滨的冰雕太雄伟了",
+      "onboard_time": 1674472404,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 346033,
       "num": 346033,
       "word": "张小斐不跑调唱逆光好好听",
@@ -569,6 +633,14 @@
       "onboard_time": 1674450806,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 331600,
+      "num": 331600,
+      "word": "潘长江说给大家带来快乐是我的荣幸",
+      "onboard_time": 1674473128,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 330221,
@@ -595,6 +667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 321639,
+      "num": 321639,
+      "word": "天津卫视相声春晚",
+      "onboard_time": 1674476368,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320549,
       "num": 227664,
       "word": "徐明浩直播",
@@ -619,14 +699,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 302821,
-      "num": 241981,
-      "word": "狂飙",
-      "onboard_time": 1674385525,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 302051,
       "num": 227222,
       "word": "赵丽颖 笑得好开心",
@@ -644,10 +716,18 @@
     },
     {
       "raw_hot": 291308,
-      "num": 866093,
+      "num": 925318,
       "word": "过年一定要和妈妈拍张照",
       "onboard_time": 1674448887,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289222,
+      "num": 359718,
+      "word": "男子喝醉被抱出强行营业发红包",
+      "onboard_time": 1674474986,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -689,14 +769,6 @@
       "onboard_time": 1674435745,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268114,
-      "num": 268114,
-      "word": "哈尔滨的冰雕太雄伟了",
-      "onboard_time": 1674472404,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 262833,
@@ -819,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226617,
+      "num": 226617,
+      "word": "今年的压岁钱分配也太合理了",
+      "onboard_time": 1674474986,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 223428,
       "num": 223428,
       "word": "周慧敏腿好长",
@@ -913,6 +993,14 @@
       "onboard_time": 1674433584,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202717,
+      "num": 326222,
+      "word": "女子初二回娘家返程被塞300斤年货",
+      "onboard_time": 1674476006,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201163,
@@ -1051,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185920,
+      "num": 185920,
+      "word": "一个人在外地过年是什么体验",
+      "onboard_time": 1674474025,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184841,
       "num": 184841,
       "word": "55岁周慧敏状态",
@@ -1065,14 +1161,6 @@
       "onboard_time": 1674390988,
       "rank": 16,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 182103,
-      "num": 182103,
-      "word": "潘长江说给大家带来快乐是我的荣幸",
-      "onboard_time": 1674473128,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 180985,
@@ -1113,6 +1201,22 @@
       "onboard_time": 1674457044,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173894,
+      "num": 321809,
+      "word": "孙子拜年磕头用力过猛心疼坏奶奶",
+      "onboard_time": 1674474087,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172287,
+      "num": 172287,
+      "word": "兔年的第一杯奶茶",
+      "onboard_time": 1674475286,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 169067,
@@ -1297,6 +1401,14 @@
       "onboard_time": 1674460762,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144561,
+      "num": 185983,
+      "word": "云南洱源现七彩祥云",
+      "onboard_time": 1674473727,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144560,
@@ -1721,6 +1833,14 @@
       "onboard_time": 1674401008,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79867,
+      "num": 79867,
+      "word": "食堂阿姨吃到民警为她做的年夜饭",
+      "onboard_time": 1674477028,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79084,
