@@ -1,6 +1,6 @@
 {
   "startTime": 1674491158294,
-  "endTime": 1674508573139,
+  "endTime": 1674509617874,
   "band_list": [
     {
       "raw_hot": 1314173,
@@ -481,6 +481,14 @@
       "onboard_time": 1674474986,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 17486,
+      "num": 17486,
+      "word": "儿子不回家过年母亲仍守在路口张望",
+      "onboard_time": 1674509052,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14482,
