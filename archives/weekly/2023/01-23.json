@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674438928123,
+  "endTime": 1674441707859,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -27,6 +27,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 956754,
+      "num": 956754,
+      "word": "满江红",
+      "onboard_time": 1674322646,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 915244,
+      "num": 915244,
+      "word": "YG新女团泰国成员公开",
+      "onboard_time": 1674438686,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 880655,
       "num": 191614,
       "word": "臭蛋",
@@ -43,12 +59,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 747467,
-      "num": 747467,
-      "word": "满江红",
-      "onboard_time": 1674322646,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 768066,
+      "num": 768066,
+      "word": "男子发压岁钱200发出2000的气势",
+      "onboard_time": 1674438927,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 732068,
@@ -115,6 +131,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 497373,
+      "num": 497373,
+      "word": "洛杉矶枪击事件已致10死10伤",
+      "onboard_time": 1674438747,
+      "rank": 44,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 481152,
+      "num": 454794,
+      "word": "三门峡大坝附近多人被水冲走",
+      "onboard_time": 1674439285,
+      "rank": 8,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 471842,
       "num": 471842,
       "word": "电影票房",
@@ -147,20 +179,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403812,
+      "num": 441486,
+      "word": "漠河现零下53℃极端低温",
+      "onboard_time": 1674435504,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401977,
       "num": 241607,
       "word": "这个叫五粮液的女主持还挺好看",
       "onboard_time": 1674402746,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 388779,
-      "num": 388779,
-      "word": "漠河现零下53℃极端低温",
-      "onboard_time": 1674435504,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 387549,
@@ -235,6 +267,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315828,
+      "num": 315828,
+      "word": "周深曾在被窝里录歌曲大鱼",
+      "onboard_time": 1674439406,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 304955,
+      "num": 304955,
+      "word": "大年初二年俗",
+      "onboard_time": 1674439646,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302821,
       "num": 241981,
       "word": "狂飙",
@@ -265,6 +313,14 @@
       "onboard_time": 1674399512,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272175,
+      "num": 272175,
+      "word": "三门峡",
+      "onboard_time": 1674437787,
+      "rank": 23,
+      "category": "社会负面"
     },
     {
       "raw_hot": 268880,
@@ -323,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248868,
+      "num": 248868,
+      "word": "74岁老人用属相备注家人微信",
+      "onboard_time": 1674436588,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248705,
       "num": 182019,
       "word": "时代少年团男儿歌火焰舞台",
@@ -353,14 +417,6 @@
       "onboard_time": 1674433403,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231805,
-      "num": 231805,
-      "word": "74岁老人用属相备注家人微信",
-      "onboard_time": 1674436588,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228539,
@@ -443,14 +499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198628,
-      "num": 198628,
-      "word": "三门峡",
-      "onboard_time": 1674437787,
-      "rank": 23,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 198116,
       "num": 198116,
       "word": "春节电影",
@@ -483,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187702,
+      "num": 187702,
+      "word": "流浪地球 吴孟达",
+      "onboard_time": 1674434126,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184841,
       "num": 184841,
       "word": "55岁周慧敏状态",
@@ -499,12 +555,36 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 183135,
+      "num": 183135,
+      "word": "三体王子文演技",
+      "onboard_time": 1674441386,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169062,
       "num": 166344,
       "word": "王鹤棣说和老戏骨合作不能喊累",
       "onboard_time": 1674431236,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168507,
+      "num": 168507,
+      "word": "暴雪",
+      "onboard_time": 1674440786,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 167361,
+      "num": 167361,
+      "word": "宋亚轩被扇子砸到头",
+      "onboard_time": 1674431478,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 167020,
@@ -539,14 +619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164459,
-      "num": 164459,
-      "word": "宋亚轩被扇子砸到头",
-      "onboard_time": 1674431478,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161261,
       "num": 161261,
       "word": "哈兰德帽子戏法",
@@ -577,14 +649,6 @@
       "onboard_time": 1674406821,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 156187,
-      "num": 156187,
-      "word": "YG新女团泰国成员公开",
-      "onboard_time": 1674438686,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 143827,
@@ -643,12 +707,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131543,
-      "num": 117761,
-      "word": "流浪地球 吴孟达",
-      "onboard_time": 1674434126,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 130535,
+      "num": 130535,
+      "word": "广东卫视春晚",
+      "onboard_time": 1674438986,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 129481,
@@ -657,6 +721,14 @@
       "onboard_time": 1674382646,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128594,
+      "num": 128594,
+      "word": "飞人博尔特遭诈骗损失千万美元",
+      "onboard_time": 1674441326,
+      "rank": 41,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 126021,
@@ -707,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114950,
-      "num": 114950,
-      "word": "洛杉矶枪击事件已致10死10伤",
-      "onboard_time": 1674438747,
-      "rank": 44,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 104359,
       "num": 104359,
       "word": "雷佳音演技",
@@ -723,12 +787,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 104137,
+      "num": 104137,
+      "word": "长大后妈妈最爱说的那些话",
+      "onboard_time": 1674439226,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104114,
       "num": 193981,
       "word": "小男孩滑跪式拜年太绝了",
       "onboard_time": 1674399150,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98815,
+      "num": 98815,
+      "word": "篮网vs勇士",
+      "onboard_time": 1674441626,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 97869,
@@ -931,7 +1011,7 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 7426,
+      "raw_hot": 9857,
       "num": 994610,
       "word": "新时代 我在中国",
       "onboard_time": 1674279563,
