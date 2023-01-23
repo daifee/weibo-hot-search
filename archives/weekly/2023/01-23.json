@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674452007340,
+  "endTime": 1674454986045,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -32,6 +32,14 @@
       "word": "满江红",
       "onboard_time": 1674322646,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1135859,
+      "num": 1135859,
+      "word": "易烊千玺主演电影票房破150亿",
+      "onboard_time": 1674452124,
+      "rank": 0,
       "category": "影视"
     },
     {
@@ -97,6 +105,14 @@
       "onboard_time": 1674390630,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 717634,
+      "num": 717634,
+      "word": "再也不怕过年喊错亲戚了",
+      "onboard_time": 1674451105,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 704277,
@@ -212,11 +228,19 @@
     },
     {
       "raw_hot": 462766,
-      "num": 330004,
+      "num": 362549,
       "word": "电影无名正序时间线",
       "onboard_time": 1674450688,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 462435,
+      "num": 462435,
+      "word": "因太脏而放弃劝架的狗妈妈",
+      "onboard_time": 1674453684,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 424639,
@@ -379,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 309791,
+      "num": 471763,
+      "word": "英国多家博物馆停止用木乃伊一词",
+      "onboard_time": 1674452785,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302821,
       "num": 241981,
       "word": "狂飙",
@@ -403,20 +435,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300529,
+      "num": 466914,
+      "word": "男子168元买氛围灯颜色诡异似鬼片",
+      "onboard_time": 1674451704,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291308,
       "num": 291308,
       "word": "过年一定要和妈妈拍张照",
       "onboard_time": 1674448887,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288286,
-      "num": 288286,
-      "word": "再也不怕过年喊错亲戚了",
-      "onboard_time": 1674451105,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 282737,
@@ -699,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186127,
+      "num": 186127,
+      "word": "深海里小海獭的原型",
+      "onboard_time": 1674451823,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184841,
       "num": 184841,
       "word": "55岁周慧敏状态",
@@ -715,12 +755,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 183230,
-      "num": 183230,
-      "word": "深海里小海獭的原型",
-      "onboard_time": 1674451823,
-      "rank": 23,
-      "category": "影视"
+      "raw_hot": 179039,
+      "num": 179039,
+      "word": "光与夜之恋",
+      "onboard_time": 1674454824,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 178680,
@@ -761,6 +801,14 @@
       "onboard_time": 1674440786,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167656,
+      "num": 167656,
+      "word": "郭帆说流浪地球2科技含量超第一部",
+      "onboard_time": 1674449305,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 167361,
@@ -891,6 +939,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138395,
+      "num": 138395,
+      "word": "魔兽世界",
+      "onboard_time": 1674450446,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 138375,
+      "num": 138375,
+      "word": "湖人是懂拜年的",
+      "onboard_time": 1674451887,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138054,
       "num": 138054,
       "word": "段奥娟早安唱了多少篇课文",
@@ -921,14 +985,6 @@
       "onboard_time": 1674449607,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133283,
-      "num": 133283,
-      "word": "郭帆说流浪地球2科技含量超第一部",
-      "onboard_time": 1674449305,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 132896,
@@ -1011,6 +1067,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120957,
+      "num": 120957,
+      "word": "电影深海告别曲听哭了",
+      "onboard_time": 1674453504,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 119138,
+      "num": 119138,
+      "word": "中国乒乓终极预告",
+      "onboard_time": 1674453504,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118351,
       "num": 118351,
       "word": "合拍是许嵩为春晚写的第十首歌",
@@ -1019,12 +1091,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116270,
-      "num": 116270,
-      "word": "魔兽世界",
-      "onboard_time": 1674450446,
-      "rank": 36,
-      "category": "游戏"
+      "raw_hot": 115784,
+      "num": 115784,
+      "word": "95后宠托师春节保底收入过万",
+      "onboard_time": 1674451404,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115557,
@@ -1033,6 +1105,14 @@
       "onboard_time": 1674407840,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114460,
+      "num": 114460,
+      "word": "马宁",
+      "onboard_time": 1674454225,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 104359,
@@ -1099,14 +1179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95852,
-      "num": 95852,
-      "word": "95后宠托师春节保底收入过万",
-      "onboard_time": 1674451404,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92043,
       "num": 67171,
       "word": "北京卫视让沈腾马丽常远艾伦唱歌",
@@ -1121,6 +1193,14 @@
       "onboard_time": 1674450986,
       "rank": 38,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 86324,
+      "num": 86324,
+      "word": "流浪地球2加倍震撼",
+      "onboard_time": 1674452364,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 85845,
@@ -1147,28 +1227,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 83174,
-      "num": 83174,
-      "word": "男子168元买氛围灯颜色诡异似鬼片",
-      "onboard_time": 1674451704,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80713,
       "num": 193806,
       "word": "巴啦啦能量隐藏技能出现",
       "onboard_time": 1674401008,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 80202,
-      "num": 80202,
-      "word": "湖人是懂拜年的",
-      "onboard_time": 1674451887,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 79084,
@@ -1341,6 +1405,9 @@
     },
     {
       "word": "#兔年吉祥#"
+    },
+    {
+      "word": "#大年初二年俗#"
     }
   ]
 }

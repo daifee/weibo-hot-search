@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674452007340,
+  "endTime": 1674454986045,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -4865,6 +4865,14 @@
       "onboard_time": 1673356114,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1135859,
+      "num": 1135859,
+      "word": "易烊千玺主演电影票房破150亿",
+      "onboard_time": 1674452124,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1133440,
@@ -10065,6 +10073,14 @@
       "onboard_time": 1674169637,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 717634,
+      "num": 717634,
+      "word": "再也不怕过年喊错亲戚了",
+      "onboard_time": 1674451105,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 717532,
@@ -17796,7 +17812,7 @@
     },
     {
       "raw_hot": 462766,
-      "num": 330004,
+      "num": 362549,
       "word": "电影无名正序时间线",
       "onboard_time": 1674450688,
       "rank": 30,
@@ -17817,6 +17833,14 @@
       "onboard_time": 1673492545,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462435,
+      "num": 462435,
+      "word": "因太脏而放弃劝架的狗妈妈",
+      "onboard_time": 1674453684,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 461974,
@@ -27627,6 +27651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309791,
+      "num": 471763,
+      "word": "英国多家博物馆停止用木乃伊一词",
+      "onboard_time": 1674452785,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309689,
       "num": 200611,
       "word": "择君记",
@@ -28481,6 +28513,14 @@
       "onboard_time": 1673623715,
       "rank": 33,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 300529,
+      "num": 466914,
+      "word": "男子168元买氛围灯颜色诡异似鬼片",
+      "onboard_time": 1674451704,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300449,
@@ -29601,14 +29641,6 @@
       "onboard_time": 1673661325,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 288286,
-      "num": 288286,
-      "word": "再也不怕过年喊错亲戚了",
-      "onboard_time": 1674451105,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 288216,
@@ -41571,6 +41603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186127,
+      "num": 186127,
+      "word": "深海里小海獭的原型",
+      "onboard_time": 1674451823,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186126,
       "num": 181031,
       "word": "杨迪新歌跨",
@@ -41985,14 +42025,6 @@
       "onboard_time": 1672974511,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183230,
-      "num": 183230,
-      "word": "深海里小海獭的原型",
-      "onboard_time": 1674451823,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 183111,
@@ -42657,6 +42689,14 @@
       "onboard_time": 1672594699,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179039,
+      "num": 179039,
+      "word": "光与夜之恋",
+      "onboard_time": 1672858334,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 179033,
@@ -44457,6 +44497,14 @@
       "onboard_time": 1672589608,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167656,
+      "num": 167656,
+      "word": "郭帆说流浪地球2科技含量超第一部",
+      "onboard_time": 1674449305,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 167596,
@@ -48515,12 +48563,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138395,
+      "num": 138395,
+      "word": "魔兽世界",
+      "onboard_time": 1674450446,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138377,
       "num": 138377,
       "word": "2023年军队文职人员公开招考",
       "onboard_time": 1673428173,
       "rank": 49,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 138375,
+      "num": 138375,
+      "word": "湖人是懂拜年的",
+      "onboard_time": 1674451887,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 138359,
@@ -49297,14 +49361,6 @@
       "onboard_time": 1673712986,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133283,
-      "num": 133283,
-      "word": "郭帆说流浪地球2科技含量超第一部",
-      "onboard_time": 1674449305,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 133222,
@@ -50827,6 +50883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120957,
+      "num": 120957,
+      "word": "电影深海告别曲听哭了",
+      "onboard_time": 1674453504,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 120881,
       "num": 1235101,
       "word": "大寒除夕春节喜相连",
@@ -51105,6 +51169,14 @@
       "onboard_time": 1674295046,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119138,
+      "num": 119138,
+      "word": "中国乒乓终极预告",
+      "onboard_time": 1674453504,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 118932,
@@ -51403,14 +51475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116270,
-      "num": 116270,
-      "word": "魔兽世界",
-      "onboard_time": 1674450446,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 116186,
       "num": 116186,
       "word": "武林外传首播17周年",
@@ -51449,6 +51513,14 @@
       "onboard_time": 1673512529,
       "rank": 49,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 115784,
+      "num": 115784,
+      "word": "95后宠托师春节保底收入过万",
+      "onboard_time": 1674451404,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115780,
@@ -51705,6 +51777,14 @@
       "onboard_time": 1673485471,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 114460,
+      "num": 114460,
+      "word": "马宁",
+      "onboard_time": 1674454225,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 114453,
@@ -53675,14 +53755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95852,
-      "num": 95852,
-      "word": "95后宠托师春节保底收入过万",
-      "onboard_time": 1674451404,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95769,
       "num": 264209,
       "word": "市民大年初一连夜排队抢雍和宫头香",
@@ -54291,6 +54363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86324,
+      "num": 86324,
+      "word": "流浪地球2加倍震撼",
+      "onboard_time": 1674452364,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 86026,
       "num": 70873,
       "word": "过年前在家的你和你妈",
@@ -54401,14 +54481,6 @@
       "onboard_time": 1673889440,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 83174,
-      "num": 83174,
-      "word": "男子168元买氛围灯颜色诡异似鬼片",
-      "onboard_time": 1674451704,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82939,
@@ -54545,14 +54617,6 @@
       "onboard_time": 1673800763,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 80202,
-      "num": 80202,
-      "word": "湖人是懂拜年的",
-      "onboard_time": 1674451887,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 80186,
@@ -55337,14 +55401,6 @@
       "onboard_time": 1673627726,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54226,
-      "num": 54226,
-      "word": "光与夜之恋",
-      "onboard_time": 1672858334,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 54215,
@@ -56519,6 +56575,9 @@
     },
     {
       "word": "#兔年吉祥#"
+    },
+    {
+      "word": "#大年初二年俗#"
     }
   ]
 }
