@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674487189335,
+  "endTime": 1674488102506,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 454596,
-      "num": 256153,
+      "num": 358863,
       "word": "流浪地球2",
       "onboard_time": 1674485130,
       "rank": 10,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421511,
+      "num": 421511,
+      "word": "告五人爱人错过舞台",
+      "onboard_time": 1674485850,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 419433,
       "num": 529948,
       "word": "华西肿瘤教授回家过年又义务看病",
@@ -547,8 +555,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419392,
+      "num": 374458,
+      "word": "叶文洁被害",
+      "onboard_time": 1674486029,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 417982,
-      "num": 253230,
+      "num": 365593,
       "word": "安欣孟钰是不是官配",
       "onboard_time": 1674484709,
       "rank": 11,
@@ -683,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375076,
+      "num": 375076,
+      "word": "女子拨到已故父亲电话后偷偷抹泪",
+      "onboard_time": 1674484651,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372817,
       "num": 372817,
       "word": "飞人博尔特遭诈骗损失千万美元",
@@ -723,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359082,
-      "num": 250524,
-      "word": "叶文洁被害",
-      "onboard_time": 1674486029,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 358521,
       "num": 329202,
       "word": "满江红够悬疑真好笑",
@@ -739,12 +755,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 355161,
-      "num": 247639,
-      "word": "告五人爱人错过舞台",
-      "onboard_time": 1674485850,
-      "rank": 13,
-      "category": "音乐"
+      "raw_hot": 352341,
+      "num": 352341,
+      "word": "炉石传说",
+      "onboard_time": 1674486151,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 349945,
@@ -804,7 +820,7 @@
     },
     {
       "raw_hot": 328182,
-      "num": 245848,
+      "num": 327966,
       "word": "红豆遥遥冰正式官宣恋情",
       "onboard_time": 1674483870,
       "rank": 23,
@@ -817,6 +833,14 @@
       "onboard_time": 1674456443,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324783,
+      "num": 324783,
+      "word": "佟丽娅友情出演流浪地球2",
+      "onboard_time": 1674483690,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 323164,
@@ -891,14 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 291118,
-      "num": 227800,
-      "word": "佟丽娅友情出演流浪地球2",
-      "onboard_time": 1674483690,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 282737,
       "num": 282737,
       "word": "暴雪游戏停服倒计时",
@@ -923,20 +939,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 277745,
-      "num": 237538,
-      "word": "女子拨到已故父亲电话后偷偷抹泪",
-      "onboard_time": 1674484651,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274593,
       "num": 274593,
       "word": "三门峡",
       "onboard_time": 1674437787,
       "rank": 23,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 271560,
+      "num": 182069,
+      "word": "刘宇宁个人EP将与五位朋友合作五首歌",
+      "onboard_time": 1674487289,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 270953,
@@ -953,6 +969,14 @@
       "onboard_time": 1674467486,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 269691,
+      "num": 179794,
+      "word": "三体11集又上一分",
+      "onboard_time": 1674486927,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 268880,
@@ -1059,6 +1083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247182,
+      "num": 247182,
+      "word": "2老人不顾烟花燃放抢烟花箱卖钱",
+      "onboard_time": 1674485429,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245518,
       "num": 245518,
       "word": "郭帆",
@@ -1113,14 +1145,6 @@
       "onboard_time": 1674391649,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 228096,
-      "num": 228096,
-      "word": "炉石传说",
-      "onboard_time": 1674486151,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 224641,
@@ -1185,14 +1209,6 @@
       "onboard_time": 1674472706,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207149,
-      "num": 207149,
-      "word": "2老人不顾烟花燃放抢烟花箱卖钱",
-      "onboard_time": 1674485429,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206630,
@@ -1603,14 +1619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163401,
-      "num": 122596,
-      "word": "三体11集又上一分",
-      "onboard_time": 1674486927,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 161261,
       "num": 161261,
       "word": "哈兰德帽子戏法",
@@ -1675,6 +1683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154080,
+      "num": 107878,
+      "word": "张若昀年度突破男演员",
+      "onboard_time": 1674486630,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153307,
       "num": 153307,
       "word": "一支MV混剪7部春节档影片",
@@ -1683,19 +1699,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150906,
+      "num": 97579,
+      "word": "张继科跟爸爸的相处方式",
+      "onboard_time": 1674487828,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149912,
       "num": 149912,
       "word": "阿凡达2全球票房破20亿美元",
       "onboard_time": 1674456685,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 149899,
-      "num": 107878,
-      "word": "张若昀年度突破男演员",
-      "onboard_time": 1674486630,
-      "rank": 42,
       "category": "影视"
     },
     {
