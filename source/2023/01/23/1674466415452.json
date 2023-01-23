@@ -1,0 +1,410 @@
+{
+  "runTime": 1674466415452,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1482209,
+        "num": 1482209,
+        "word": "于正 无名和满江红本质上是一个故事",
+        "onboard_time": 1674461665,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 815424,
+        "num": 815424,
+        "word": "因太脏而放弃劝架的狗妈妈",
+        "onboard_time": 1674453684,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216732,
+        "num": 795843,
+        "word": "过年一定要和妈妈拍张照",
+        "onboard_time": 1674448887,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792493,
+        "num": 792493,
+        "word": "满江红",
+        "onboard_time": 1674435447,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 752222,
+        "num": 752222,
+        "word": "建议查查张颂文 不像演的",
+        "onboard_time": 1674434245,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 724714,
+        "num": 724714,
+        "word": "网易发布致暴雪国服玩家告别信",
+        "onboard_time": 1674462203,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 662592,
+        "num": 662592,
+        "word": "她是懂磕头不磕头的",
+        "onboard_time": 1674463103,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 630931,
+        "num": 630931,
+        "word": "张颂文 真诚",
+        "onboard_time": 1674462203,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395460,
+        "num": 575184,
+        "word": "男子除夕开车200公里为女友放烟花",
+        "onboard_time": 1674460944,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364819,
+        "num": 555550,
+        "word": "用砂糖桔制作兔年小桔灯",
+        "onboard_time": 1674464065,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550999,
+        "num": 550999,
+        "word": "高叶 老有人说我有佛缘",
+        "onboard_time": 1674465503,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 519850,
+        "num": 519850,
+        "word": "流浪地球票房",
+        "onboard_time": 1674462923,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 508075,
+        "num": 508075,
+        "word": "张译口音怪怪的",
+        "onboard_time": 1674463345,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416083,
+        "num": 416083,
+        "word": "易烊千玺主演电影票房破150亿",
+        "onboard_time": 1674452124,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335354,
+        "num": 335354,
+        "word": "无名",
+        "onboard_time": 1674436287,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317332,
+        "num": 317332,
+        "word": "妻子的浪漫旅行衍生综艺定档",
+        "onboard_time": 1674460944,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299107,
+        "num": 299107,
+        "word": "深海",
+        "onboard_time": 1674438087,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295597,
+        "num": 295597,
+        "word": "过年才知道自己辈分这么小",
+        "onboard_time": 1674459866,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255789,
+        "num": 255789,
+        "word": "主人回家过年猫咪成小哭包",
+        "onboard_time": 1674459203,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188361,
+        "num": 247529,
+        "word": "移民火星可能是50年后",
+        "onboard_time": 1674457764,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 242985,
+        "num": 242985,
+        "word": "黑暗荣耀",
+        "onboard_time": 1674456923,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219609,
+        "num": 219609,
+        "word": "电影无名正序时间线",
+        "onboard_time": 1674450688,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219052,
+        "num": 219052,
+        "word": "满江红实时票房破6亿",
+        "onboard_time": 1674449785,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187310,
+        "num": 187310,
+        "word": "流浪地球3",
+        "onboard_time": 1674431659,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180985,
+        "num": 180985,
+        "word": "兔子急了还会游泳",
+        "onboard_time": 1674462743,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173226,
+        "num": 173226,
+        "word": "英国多家博物馆停止用木乃伊一词",
+        "onboard_time": 1674452785,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169840,
+        "num": 169840,
+        "word": "流浪地球彩蛋",
+        "onboard_time": 1674464965,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157972,
+        "num": 157972,
+        "word": "光与夜之恋",
+        "onboard_time": 1674454824,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155418,
+        "num": 155418,
+        "word": "暴雪",
+        "onboard_time": 1674440786,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154408,
+        "num": 154408,
+        "word": "电影深海告别曲听哭了",
+        "onboard_time": 1674453504,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149160,
+        "num": 149160,
+        "word": "阿云嘎说参加音综能为音乐剧做积累",
+        "onboard_time": 1674464904,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139264,
+        "num": 139264,
+        "word": "再也不怕过年喊错亲戚了",
+        "onboard_time": 1674451105,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127940,
+        "num": 127940,
+        "word": "黑暗荣耀2特别预告",
+        "onboard_time": 1674460762,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122950,
+        "num": 122950,
+        "word": "外甥女跷二郎腿给舅舅发红包",
+        "onboard_time": 1674465804,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121690,
+        "num": 121690,
+        "word": "正月初二回娘家啦",
+        "onboard_time": 1674462084,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118955,
+        "num": 118955,
+        "word": "华西肿瘤教授回家过年又义务看病",
+        "onboard_time": 1674465265,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108071,
+        "num": 108071,
+        "word": "过年刷剧推荐",
+        "onboard_time": 1674461064,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104069,
+        "num": 104069,
+        "word": "再见守望先锋",
+        "onboard_time": 1674466045,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102180,
+        "num": 102180,
+        "word": "这狗有种辈分比我大的感觉",
+        "onboard_time": 1674460464,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99970,
+        "num": 99970,
+        "word": "流浪地球2加倍震撼",
+        "onboard_time": 1674452364,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99558,
+        "num": 99558,
+        "word": "满江红够悬疑真好笑",
+        "onboard_time": 1674459263,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94676,
+        "num": 94676,
+        "word": "看流浪地球2想到三体",
+        "onboard_time": 1674459323,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92233,
+        "num": 92233,
+        "word": "交警除夕当天路边捡到走失儿童",
+        "onboard_time": 1674459802,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87370,
+        "num": 87370,
+        "word": "虞书欣美呆",
+        "onboard_time": 1674402147,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85612,
+        "num": 85612,
+        "word": "泰国普吉岛为迎接中国游客采购大象",
+        "onboard_time": 1674446006,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84195,
+        "num": 84195,
+        "word": "YG新女团泰国成员公开",
+        "onboard_time": 1674438686,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80385,
+        "num": 80385,
+        "word": "兔子洞里什么样",
+        "onboard_time": 1674456443,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76118,
+        "num": 76118,
+        "word": "周深新歌MV有七部开年电影",
+        "onboard_time": 1674449125,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 65820,
+        "num": 65820,
+        "word": "满江红实时票房破5亿",
+        "onboard_time": 1674466344,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60080,
+        "num": 60080,
+        "word": "暴雪游戏停服倒计时",
+        "onboard_time": 1674444684,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#大年初二年俗#"
+    }
+  }
+}
