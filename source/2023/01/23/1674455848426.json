@@ -1,0 +1,410 @@
+{
+  "runTime": 1674455848426,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1234985,
+        "num": 1234985,
+        "word": "易烊千玺主演电影票房破150亿",
+        "onboard_time": 1674452124,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1004897,
+        "num": 1004897,
+        "word": "建议查查张颂文 不像演的",
+        "onboard_time": 1674434245,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112026,
+        "num": 924529,
+        "word": "长大后妈妈最爱说的那些话",
+        "onboard_time": 1674439226,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 864968,
+        "num": 864968,
+        "word": "满江红",
+        "onboard_time": 1674435447,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 742722,
+        "num": 742722,
+        "word": "因太脏而放弃劝架的狗妈妈",
+        "onboard_time": 1674453684,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 710594,
+        "num": 710594,
+        "word": "再也不怕过年喊错亲戚了",
+        "onboard_time": 1674451105,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 619830,
+        "num": 619830,
+        "word": "无名",
+        "onboard_time": 1674436287,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 501576,
+        "num": 501576,
+        "word": "流浪地球3",
+        "onboard_time": 1674431659,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391417,
+        "num": 499357,
+        "word": "男子168元买氛围灯颜色诡异似鬼片",
+        "onboard_time": 1674451704,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351530,
+        "num": 497606,
+        "word": "英国多家博物馆停止用木乃伊一词",
+        "onboard_time": 1674452785,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497393,
+        "num": 497393,
+        "word": "满江红实时票房破6亿",
+        "onboard_time": 1674449785,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389542,
+        "num": 389542,
+        "word": "深海",
+        "onboard_time": 1674438087,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341513,
+        "num": 341513,
+        "word": "第一次见这么内向的鞭炮",
+        "onboard_time": 1674444145,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 332828,
+        "num": 332828,
+        "word": "光与夜之恋",
+        "onboard_time": 1674454824,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305502,
+        "num": 305502,
+        "word": "电影无名正序时间线",
+        "onboard_time": 1674450688,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246853,
+        "num": 246853,
+        "word": "YG新女团泰国成员公开",
+        "onboard_time": 1674438686,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227919,
+        "num": 227919,
+        "word": "泰国普吉岛为迎接中国游客采购大象",
+        "onboard_time": 1674446006,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191214,
+        "num": 191214,
+        "word": "张小斐不跑调唱逆光好好听",
+        "onboard_time": 1674445165,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188792,
+        "num": 188792,
+        "word": "深海里小海獭的原型",
+        "onboard_time": 1674451823,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177181,
+        "num": 177181,
+        "word": "湖人赢了",
+        "onboard_time": 1674450806,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166743,
+        "num": 166743,
+        "word": "男子发压岁钱200发出2000的气势",
+        "onboard_time": 1674438927,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163905,
+        "num": 163905,
+        "word": "暴雪游戏停服倒计时",
+        "onboard_time": 1674444684,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156886,
+        "num": 156886,
+        "word": "关晓彤亮片裙",
+        "onboard_time": 1674430156,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153307,
+        "num": 153307,
+        "word": "一支MV混剪7部春节档影片",
+        "onboard_time": 1674455005,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153120,
+        "num": 153120,
+        "word": "过年一定要和妈妈拍张照",
+        "onboard_time": 1674448887,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149609,
+        "num": 149609,
+        "word": "龙洋春晚后主持诗词大会",
+        "onboard_time": 1674447983,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148781,
+        "num": 148781,
+        "word": "周深祝大家兔年想睡就睡失眠后退",
+        "onboard_time": 1674455424,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136269,
+        "num": 136269,
+        "word": "虞书欣美呆",
+        "onboard_time": 1674402147,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135701,
+        "num": 135701,
+        "word": "95后宠托师春节保底收入过万",
+        "onboard_time": 1674451404,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129826,
+        "num": 129826,
+        "word": "郭帆说流浪地球2科技含量超第一部",
+        "onboard_time": 1674449305,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122390,
+        "num": 122390,
+        "word": "苏有朋说2023是自己的新歌手元年",
+        "onboard_time": 1674450504,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121911,
+        "num": 121911,
+        "word": "周深新歌MV有七部开年电影",
+        "onboard_time": 1674449125,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119545,
+        "num": 119545,
+        "word": "魔兽世界",
+        "onboard_time": 1674450446,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111482,
+        "num": 111482,
+        "word": "湖人是懂拜年的",
+        "onboard_time": 1674451887,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108876,
+        "num": 108876,
+        "word": "熊大熊二妈妈带娃太好笑了",
+        "onboard_time": 1674446305,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98672,
+        "num": 98672,
+        "word": "王一博无名票房破2亿剧照",
+        "onboard_time": 1674435806,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95442,
+        "num": 95442,
+        "word": "眼睛疲劳试试这3个动作",
+        "onboard_time": 1674447446,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95408,
+        "num": 95408,
+        "word": "大过年的给它吃一口吧",
+        "onboard_time": 1674455124,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95226,
+        "num": 95226,
+        "word": "漠河现零下53℃极端低温",
+        "onboard_time": 1674435504,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94445,
+        "num": 94445,
+        "word": "玖月奇迹王小玮跨界演小品",
+        "onboard_time": 1674450861,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92530,
+        "num": 92530,
+        "word": "电影深海告别曲听哭了",
+        "onboard_time": 1674453504,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84558,
+        "num": 84558,
+        "word": "大年初一总票房突破16亿",
+        "onboard_time": 1674445404,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82417,
+        "num": 82417,
+        "word": "马宁",
+        "onboard_time": 1674454225,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82011,
+        "num": 82011,
+        "word": "永远折服于民俗文化的浪漫",
+        "onboard_time": 1674450986,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 81162,
+        "num": 81162,
+        "word": "流浪地球2加倍震撼",
+        "onboard_time": 1674452364,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72451,
+        "num": 72451,
+        "word": "俄罗斯宇航员太空拍中国除夕夜",
+        "onboard_time": 1674442528,
+        "rank": 45,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 71072,
+        "num": 71072,
+        "word": "奥尼尔关键三分",
+        "onboard_time": 1674455603,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69464,
+        "num": 69464,
+        "word": "流浪地球 吴孟达",
+        "onboard_time": 1674434126,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69405,
+        "num": 69405,
+        "word": "电影满江红观后感",
+        "onboard_time": 1674431841,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69052,
+        "num": 69052,
+        "word": "春节档电影总票房已超20亿",
+        "onboard_time": 1674450147,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全家人的笑脸就是春节的意义#"
+    }
+  }
+}
