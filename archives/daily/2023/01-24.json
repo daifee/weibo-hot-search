@@ -1,6 +1,6 @@
 {
   "startTime": 1674491158294,
-  "endTime": 1674506029468,
+  "endTime": 1674508573139,
   "band_list": [
     {
       "raw_hot": 1314173,
@@ -481,6 +481,14 @@
       "onboard_time": 1674474986,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 14482,
+      "num": 14482,
+      "word": "周深改词版花开忘忧更温暖",
+      "onboard_time": 1674311804,
+      "rank": 45,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
