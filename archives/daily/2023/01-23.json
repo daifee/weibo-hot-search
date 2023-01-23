@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674437684217,
+  "endTime": 1674438928123,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2032969,
-      "num": 2032969,
+      "raw_hot": 2650955,
+      "num": 2650955,
       "word": "建议查查张颂文 不像演的",
       "onboard_time": 1674434245,
       "rank": 0,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 747467,
+      "num": 747467,
+      "word": "满江红",
+      "onboard_time": 1674322646,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 732068,
       "num": 732068,
       "word": "北京台春晚 好看",
@@ -65,14 +73,6 @@
       "onboard_time": 1674398493,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 685451,
-      "num": 685451,
-      "word": "满江红",
-      "onboard_time": 1674322646,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 569131,
@@ -99,20 +99,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 506710,
+      "num": 506710,
+      "word": "男子进厕所不出来老婆一看在灭火",
+      "onboard_time": 1674429736,
+      "rank": 10,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 503328,
       "num": 503328,
       "word": "关晓彤亮片裙",
       "onboard_time": 1674430156,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 499638,
-      "num": 499638,
-      "word": "男子进厕所不出来老婆一看在灭火",
-      "onboard_time": 1674429736,
-      "rank": 10,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 471842,
@@ -153,6 +153,14 @@
       "onboard_time": 1674402746,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388779,
+      "num": 388779,
+      "word": "漠河现零下53℃极端低温",
+      "onboard_time": 1674435504,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387549,
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326620,
+      "num": 326620,
+      "word": "深海",
+      "onboard_time": 1674438087,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 322041,
       "num": 322041,
       "word": "毛不易给工作人员发完红包被踢出群",
@@ -217,14 +233,6 @@
       "onboard_time": 1674399810,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302884,
-      "num": 302884,
-      "word": "漠河现零下53℃极端低温",
-      "onboard_time": 1674435504,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302821,
@@ -291,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257527,
+      "num": 257527,
+      "word": "王一博无名票房破2亿剧照",
+      "onboard_time": 1674435806,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257078,
       "num": 188783,
       "word": "刘培强出生了",
@@ -339,12 +355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231630,
-      "num": 231630,
-      "word": "王一博无名票房破2亿剧照",
-      "onboard_time": 1674435806,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 231805,
+      "num": 231805,
+      "word": "74岁老人用属相备注家人微信",
+      "onboard_time": 1674436588,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228539,
@@ -363,19 +379,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215117,
+      "num": 215117,
+      "word": "电影满江红观后感",
+      "onboard_time": 1674431841,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213684,
       "num": 181932,
       "word": "想嗑高启强安欣",
       "onboard_time": 1674399930,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 209486,
-      "num": 209486,
-      "word": "电影满江红观后感",
-      "onboard_time": 1674431841,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -392,6 +408,14 @@
       "word": "张小斐说好几年没回家过年了",
       "onboard_time": 1674431358,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 202871,
+      "num": 202871,
+      "word": "满江红影评",
+      "onboard_time": 1674433584,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -417,6 +441,14 @@
       "onboard_time": 1674377728,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198628,
+      "num": 198628,
+      "word": "三门峡",
+      "onboard_time": 1674437787,
+      "rank": 23,
+      "category": "社会负面"
     },
     {
       "raw_hot": 198116,
@@ -451,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184841,
+      "num": 184841,
+      "word": "55岁周慧敏状态",
+      "onboard_time": 1674436346,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183524,
       "num": 244010,
       "word": "你家宠物对放炮有什么反应",
@@ -459,16 +499,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 181906,
-      "num": 158653,
-      "word": "55岁周慧敏状态",
-      "onboard_time": 1674436346,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169062,
-      "num": 157607,
+      "num": 166344,
       "word": "王鹤棣说和老戏骨合作不能喊累",
       "onboard_time": 1674431236,
       "rank": 33,
@@ -507,8 +539,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163401,
-      "num": 155087,
+      "raw_hot": 164459,
+      "num": 164459,
       "word": "宋亚轩被扇子砸到头",
       "onboard_time": 1674431478,
       "rank": 35,
@@ -547,12 +579,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149830,
-      "num": 149830,
-      "word": "74岁老人用属相备注家人微信",
-      "onboard_time": 1674436588,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 156187,
+      "num": 156187,
+      "word": "YG新女团泰国成员公开",
+      "onboard_time": 1674438686,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 143827,
@@ -595,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132896,
+      "num": 132896,
+      "word": "去春晚工作是什么体验",
+      "onboard_time": 1674437548,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132130,
       "num": 132130,
       "word": "歌舞团回应春晚小哥足足微笑19秒",
@@ -603,20 +643,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131543,
+      "num": 117761,
+      "word": "流浪地球 吴孟达",
+      "onboard_time": 1674434126,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129481,
       "num": 263661,
       "word": "单身姐姐回家不让进门被妹妹嘲笑",
       "onboard_time": 1674382646,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128767,
-      "num": 128767,
-      "word": "满江红影评",
-      "onboard_time": 1674433584,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 126021,
@@ -667,12 +707,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112721,
-      "num": 112721,
-      "word": "去春晚工作是什么体验",
-      "onboard_time": 1674437548,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 114950,
+      "num": 114950,
+      "word": "洛杉矶枪击事件已致10死10伤",
+      "onboard_time": 1674438747,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 104359,
@@ -715,20 +755,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 96432,
+      "num": 97299,
+      "word": "这座位非坐不可吗",
+      "onboard_time": 1674432323,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92043,
       "num": 67171,
       "word": "北京卫视让沈腾马丽常远艾伦唱歌",
       "onboard_time": 1674390268,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 91334,
-      "num": 97299,
-      "word": "这座位非坐不可吗",
-      "onboard_time": 1674432323,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 83205,

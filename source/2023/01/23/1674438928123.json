@@ -1,0 +1,410 @@
+{
+  "runTime": 1674438928123,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2650955,
+        "num": 2650955,
+        "word": "建议查查张颂文 不像演的",
+        "onboard_time": 1674434245,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 803339,
+        "num": 803339,
+        "word": "流浪地球3",
+        "onboard_time": 1674431659,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 6564,
+        "num": 749600,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674279563,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 747467,
+        "num": 747467,
+        "word": "满江红",
+        "onboard_time": 1674435447,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 506710,
+        "num": 506710,
+        "word": "男子进厕所不出来老婆一看在灭火",
+        "onboard_time": 1674429736,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 501938,
+        "num": 501938,
+        "word": "关晓彤亮片裙",
+        "onboard_time": 1674430156,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 487823,
+        "num": 487823,
+        "word": "无名",
+        "onboard_time": 1674436287,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447076,
+        "num": 447076,
+        "word": "辉瑞CEO被记者围堵质问",
+        "onboard_time": 1674431720,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388779,
+        "num": 388779,
+        "word": "漠河现零下53℃极端低温",
+        "onboard_time": 1674435504,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364902,
+        "num": 364902,
+        "word": "虞书欣美呆",
+        "onboard_time": 1674402147,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364106,
+        "num": 364106,
+        "word": "女子捏瘪结婚时戴的4个金镯子",
+        "onboard_time": 1674431720,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363953,
+        "num": 363953,
+        "word": "电影无名有观看门槛吗",
+        "onboard_time": 1674434303,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351532,
+        "num": 351532,
+        "word": "222个账号因炫耀服刑等被处置",
+        "onboard_time": 1674429674,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326620,
+        "num": 326620,
+        "word": "深海",
+        "onboard_time": 1674438087,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299219,
+        "num": 299219,
+        "word": "知否 春晚篇",
+        "onboard_time": 1674398493,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262352,
+        "num": 262352,
+        "word": "爷爷送13米长现金红包给4岁孙女",
+        "onboard_time": 1674431960,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257527,
+        "num": 257527,
+        "word": "王一博无名票房破2亿剧照",
+        "onboard_time": 1674435806,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232380,
+        "num": 232380,
+        "word": "流浪地球2一部顶两部",
+        "onboard_time": 1674401188,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231805,
+        "num": 231805,
+        "word": "74岁老人用属相备注家人微信",
+        "onboard_time": 1674436588,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220944,
+        "num": 220944,
+        "word": "大英博物馆里有多少中国文物",
+        "onboard_time": 1674429977,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215117,
+        "num": 215117,
+        "word": "电影满江红观后感",
+        "onboard_time": 1674431841,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209271,
+        "num": 209271,
+        "word": "北京下雪",
+        "onboard_time": 1674435086,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202871,
+        "num": 202871,
+        "word": "满江红影评",
+        "onboard_time": 1674433584,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198628,
+        "num": 198628,
+        "word": "三门峡",
+        "onboard_time": 1674437787,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 195658,
+        "num": 195658,
+        "word": "大年初二",
+        "onboard_time": 1674435745,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191419,
+        "num": 191419,
+        "word": "易烊千玺张译岳云鹏现场还原满江红角色",
+        "onboard_time": 1674432804,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190410,
+        "num": 190410,
+        "word": "王一博东方卫视春晚版无名MV",
+        "onboard_time": 1674431900,
+        "rank": 26,
+        "category": "综艺,影视"
+      },
+      {
+        "raw_hot": 184841,
+        "num": 184841,
+        "word": "55岁周慧敏状态",
+        "onboard_time": 1674436346,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184361,
+        "num": 184361,
+        "word": "邓超明年春晚节目有了",
+        "onboard_time": 1674432682,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171692,
+        "num": 171692,
+        "word": "张颂文演技",
+        "onboard_time": 1674398493,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208487,
+        "num": 171177,
+        "word": "泰国通报中国人在泰订到警车接机",
+        "onboard_time": 1674393210,
+        "rank": 30,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 166344,
+        "num": 166344,
+        "word": "王鹤棣说和老戏骨合作不能喊累",
+        "onboard_time": 1674431236,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164459,
+        "num": 164459,
+        "word": "宋亚轩被扇子砸到头",
+        "onboard_time": 1674431478,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158219,
+        "num": 158219,
+        "word": "冯巩说关晓彤像昌平的草莓",
+        "onboard_time": 1674433403,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156187,
+        "num": 156187,
+        "word": "YG新女团泰国成员公开",
+        "onboard_time": 1674438686,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153590,
+        "num": 153590,
+        "word": "臭蛋",
+        "onboard_time": 1674398371,
+        "rank": 35,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 144871,
+        "num": 144871,
+        "word": "无名 隐喻",
+        "onboard_time": 1674429133,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132896,
+        "num": 132896,
+        "word": "去春晚工作是什么体验",
+        "onboard_time": 1674437548,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131091,
+        "num": 131091,
+        "word": "哈兰德帽子戏法",
+        "onboard_time": 1674432200,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120553,
+        "num": 120553,
+        "word": "央视专访周深",
+        "onboard_time": 1674429674,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 132271,
+        "num": 120275,
+        "word": "狂飙",
+        "onboard_time": 1674385525,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131543,
+        "num": 117761,
+        "word": "流浪地球 吴孟达",
+        "onboard_time": 1674434126,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130096,
+        "num": 117583,
+        "word": "周慧敏腿好长",
+        "onboard_time": 1674433403,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123094,
+        "num": 115359,
+        "word": "蒋勤勤惊艳扮相",
+        "onboard_time": 1674405503,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114950,
+        "num": 114950,
+        "word": "洛杉矶枪击事件已致10死10伤",
+        "onboard_time": 1674438747,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 111860,
+        "num": 111860,
+        "word": "实时票房",
+        "onboard_time": 1674390630,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108796,
+        "num": 108796,
+        "word": "歌舞团回应春晚小哥足足微笑19秒",
+        "onboard_time": 1674432200,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104138,
+        "num": 104138,
+        "word": "沉浸式看兔兔吃小番茄",
+        "onboard_time": 1674431358,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 96432,
+        "num": 96432,
+        "word": "这座位非坐不可吗",
+        "onboard_time": 1674432323,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96413,
+        "num": 96413,
+        "word": "春节摄影大赛",
+        "onboard_time": 1674437305,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#团团圆圆中国年#"
+    }
+  }
+}
