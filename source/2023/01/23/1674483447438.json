@@ -1,0 +1,410 @@
+{
+  "runTime": 1674483447438,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1322509,
+        "num": 1322509,
+        "word": "狂飙",
+        "onboard_time": 1674474807,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1034167,
+        "num": 1034167,
+        "word": "王冰冰演戏",
+        "onboard_time": 1674474867,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296492,
+        "num": 1001385,
+        "word": "被彩云之南的七彩祥云美到了",
+        "onboard_time": 1674481228,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 996485,
+        "num": 996485,
+        "word": "张译李一桐吻戏",
+        "onboard_time": 1674481048,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 881567,
+        "num": 881567,
+        "word": "汕头烟花",
+        "onboard_time": 1674478827,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652519,
+        "num": 652519,
+        "word": "网红烟花加特林价格暴涨",
+        "onboard_time": 1674481947,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 633452,
+        "num": 633452,
+        "word": "王一博无名广州路演状态",
+        "onboard_time": 1674476608,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 542373,
+        "num": 542373,
+        "word": "胡歌年度男演员",
+        "onboard_time": 1674482368,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522759,
+        "num": 522759,
+        "word": "男子去澡堂搓澡膝盖被搓到反光",
+        "onboard_time": 1674479488,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459248,
+        "num": 459248,
+        "word": "李一桐配音小师妹吴镇宇连夸九次很好",
+        "onboard_time": 1674481767,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442474,
+        "num": 442474,
+        "word": "张艺谋曾设想满江红全片一镜到底",
+        "onboard_time": 1674481589,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364743,
+        "num": 364743,
+        "word": "导演付宁去世",
+        "onboard_time": 1674482967,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399748,
+        "num": 363093,
+        "word": "满江红里的沈腾",
+        "onboard_time": 1674478827,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361174,
+        "num": 361174,
+        "word": "谭松韵年度突破女演员",
+        "onboard_time": 1674477807,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306037,
+        "num": 306037,
+        "word": "女子初二回娘家返程被塞300斤年货",
+        "onboard_time": 1674476006,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298836,
+        "num": 298836,
+        "word": "流浪地球票房",
+        "onboard_time": 1674462923,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261908,
+        "num": 261908,
+        "word": "何广智回老家",
+        "onboard_time": 1674470068,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204105,
+        "num": 204105,
+        "word": "医生除夕夜接诊36例卡喉患者",
+        "onboard_time": 1674469046,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182998,
+        "num": 182998,
+        "word": "男子喝醉被抱出强行营业发红包",
+        "onboard_time": 1674474986,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173072,
+        "num": 173072,
+        "word": "今年的压岁钱分配也太合理了",
+        "onboard_time": 1674474986,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261237,
+        "num": 172874,
+        "word": "流浪地球2现实版太空电梯原来在莽山",
+        "onboard_time": 1674480507,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248165,
+        "num": 171441,
+        "word": "满江红",
+        "onboard_time": 1674435447,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225969,
+        "num": 171136,
+        "word": "安欣是狂飙的灵魂",
+        "onboard_time": 1674479247,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214675,
+        "num": 170300,
+        "word": "天津卫视相声春晚",
+        "onboard_time": 1674476368,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199766,
+        "num": 169168,
+        "word": "朱颜曼滋流浪地球2演李一一的妈",
+        "onboard_time": 1674474568,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184438,
+        "num": 168412,
+        "word": "你好春节档",
+        "onboard_time": 1674482967,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167966,
+        "num": 167966,
+        "word": "网易发布致暴雪国服玩家告别信",
+        "onboard_time": 1674462203,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165856,
+        "num": 165856,
+        "word": "汕头市2023年迎春焰火晚会",
+        "onboard_time": 1674482306,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153333,
+        "num": 153333,
+        "word": "食堂阿姨吃到民警为她做的年夜饭",
+        "onboard_time": 1674477028,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141664,
+        "num": 141664,
+        "word": "一个人在外地过年是什么体验",
+        "onboard_time": 1674474025,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 577343,
+        "num": 141531,
+        "word": "离异家庭的孩子最怕过年了",
+        "onboard_time": 1674466465,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176914,
+        "num": 141172,
+        "word": "张艺谋希望满江红能让观众笑30次",
+        "onboard_time": 1674481048,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154015,
+        "num": 140737,
+        "word": "张译口音怪怪的",
+        "onboard_time": 1674463345,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161219,
+        "num": 140480,
+        "word": "易烊千玺孙均李必对比",
+        "onboard_time": 1674474326,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154013,
+        "num": 139840,
+        "word": "刘雨昕麦架上的钻是自己贴的",
+        "onboard_time": 1674474448,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149208,
+        "num": 139495,
+        "word": "广智一年的素材都有了",
+        "onboard_time": 1674475347,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139295,
+        "num": 139295,
+        "word": "CMG中国电视剧年度盛典",
+        "onboard_time": 1674478887,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138557,
+        "num": 138557,
+        "word": "再见守望先锋",
+        "onboard_time": 1674466045,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132987,
+        "num": 132987,
+        "word": "哈尔滨的冰雕太雄伟了",
+        "onboard_time": 1674472404,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121288,
+        "num": 121288,
+        "word": "兔年的第一杯奶茶",
+        "onboard_time": 1674475286,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137909,
+        "num": 120018,
+        "word": "刘宇宁直播",
+        "onboard_time": 1674477567,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136489,
+        "num": 118617,
+        "word": "张颂文说华语电影肯定不会把奖给我的",
+        "onboard_time": 1674469526,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134462,
+        "num": 116575,
+        "word": "白宇年度突破男演员",
+        "onboard_time": 1674482249,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126232,
+        "num": 115025,
+        "word": "流浪地球彩蛋",
+        "onboard_time": 1674464965,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113845,
+        "num": 113845,
+        "word": "游客去有风的地方取景地遭拦路要钱",
+        "onboard_time": 1674483150,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 103428,
+        "num": 103428,
+        "word": "狂飙豆瓣评分涨至8.9",
+        "onboard_time": 1674483390,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102129,
+        "num": 102129,
+        "word": "因太脏而放弃劝架的狗妈妈",
+        "onboard_time": 1674453684,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98945,
+        "num": 98945,
+        "word": "无名",
+        "onboard_time": 1674436287,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98456,
+        "num": 98456,
+        "word": "这是在演我职场假笑",
+        "onboard_time": 1674482729,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98353,
+        "num": 98353,
+        "word": "九旬爷奶花21万买17个金镯子送晚辈",
+        "onboard_time": 1674483208,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#两岸同胞拜大年#"
+    }
+  }
+}
