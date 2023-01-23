@@ -1,0 +1,410 @@
+{
+  "runTime": 1674506029468,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 179563,
+        "num": 179563,
+        "word": "导演付宁去世",
+        "onboard_time": 1674482967,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90375,
+        "num": 90375,
+        "word": "张艺谋曾设想满江红全片一镜到底",
+        "onboard_time": 1674481589,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17149,
+        "num": 82164,
+        "word": "被彩云之南的七彩祥云美到了",
+        "onboard_time": 1674481228,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75238,
+        "num": 75238,
+        "word": "狂飙",
+        "onboard_time": 1674474807,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73507,
+        "num": 73507,
+        "word": "网红烟花加特林价格暴涨",
+        "onboard_time": 1674481947,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 71660,
+        "num": 71660,
+        "word": "炉石传说",
+        "onboard_time": 1674486151,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 70606,
+        "num": 70606,
+        "word": "韩国拟投资67亿发展旅游",
+        "onboard_time": 1674490167,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66122,
+        "num": 66122,
+        "word": "大兴安岭女子回家发现单元门冻成冰窖",
+        "onboard_time": 1674489685,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51838,
+        "num": 51838,
+        "word": "王冰冰演戏",
+        "onboard_time": 1674474867,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49544,
+        "num": 49544,
+        "word": "王一博无名广州路演状态",
+        "onboard_time": 1674476608,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46475,
+        "num": 46475,
+        "word": "女子拨到已故父亲电话后偷偷抹泪",
+        "onboard_time": 1674484651,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46153,
+        "num": 46153,
+        "word": "张译李一桐吻戏",
+        "onboard_time": 1674481048,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41764,
+        "num": 41764,
+        "word": "40岁男子给8岁小孩磕头拜年",
+        "onboard_time": 1674492562,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34927,
+        "num": 34927,
+        "word": "2老人不顾烟花燃放抢烟花箱卖钱",
+        "onboard_time": 1674485429,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34426,
+        "num": 34426,
+        "word": "流浪地球2",
+        "onboard_time": 1674485130,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34347,
+        "num": 34347,
+        "word": "九旬爷奶花21万买17个金镯子送晚辈",
+        "onboard_time": 1674483208,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34303,
+        "num": 34303,
+        "word": "汕头烟花",
+        "onboard_time": 1674478827,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28538,
+        "num": 28538,
+        "word": "男子去澡堂搓澡膝盖被搓到反光",
+        "onboard_time": 1674479488,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27384,
+        "num": 27384,
+        "word": "佟丽娅友情出演流浪地球2",
+        "onboard_time": 1674483690,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25511,
+        "num": 25511,
+        "word": "网易发布致暴雪国服玩家告别信",
+        "onboard_time": 1674462203,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30994,
+        "num": 25474,
+        "word": "你满意王一博在无名里的表现吗",
+        "onboard_time": 1674484651,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24184,
+        "num": 24184,
+        "word": "母亲半夜想给儿子盖被子一下摔倒",
+        "onboard_time": 1674486151,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24089,
+        "num": 24089,
+        "word": "深海讲了什么故事",
+        "onboard_time": 1674493281,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23941,
+        "num": 23941,
+        "word": "安欣孟钰是不是官配",
+        "onboard_time": 1674484709,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22152,
+        "num": 22152,
+        "word": "广智一年的素材都有了",
+        "onboard_time": 1674475347,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21362,
+        "num": 21362,
+        "word": "一个人在外地过年是什么体验",
+        "onboard_time": 1674474025,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20169,
+        "num": 20169,
+        "word": "妈妈这个词只是叫一叫便喉间哽咽",
+        "onboard_time": 1674496517,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19855,
+        "num": 19855,
+        "word": "流浪地球票房",
+        "onboard_time": 1674462923,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19469,
+        "num": 19469,
+        "word": "三体11集又上一分",
+        "onboard_time": 1674486927,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19291,
+        "num": 19291,
+        "word": "满江红里的沈腾",
+        "onboard_time": 1674478827,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34025,
+        "num": 19162,
+        "word": "离异家庭的孩子最怕过年了",
+        "onboard_time": 1674466465,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18943,
+        "num": 18943,
+        "word": "叶文洁被害",
+        "onboard_time": 1674486029,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18477,
+        "num": 18477,
+        "word": "告五人爱人错过舞台",
+        "onboard_time": 1674485850,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18401,
+        "num": 18401,
+        "word": "红豆遥遥冰正式官宣恋情",
+        "onboard_time": 1674483870,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17413,
+        "num": 17413,
+        "word": "胡歌年度男演员",
+        "onboard_time": 1674482368,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17377,
+        "num": 17377,
+        "word": "狂飙豆瓣评分涨至8.9",
+        "onboard_time": 1674483390,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17370,
+        "num": 17370,
+        "word": "李一桐配音小师妹吴镇宇连夸九次很好",
+        "onboard_time": 1674481767,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17351,
+        "num": 17351,
+        "word": "程耳无名路演随笔",
+        "onboard_time": 1674485249,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16653,
+        "num": 16653,
+        "word": "今年的压岁钱分配也太合理了",
+        "onboard_time": 1674474986,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16297,
+        "num": 16297,
+        "word": "再见守望先锋",
+        "onboard_time": 1674466045,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16201,
+        "num": 16201,
+        "word": "宋轶在春晚后台给赵今麦送小饼干",
+        "onboard_time": 1674487168,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16178,
+        "num": 16178,
+        "word": "女子庙里祈福时遇兔子带路",
+        "onboard_time": 1674495138,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16136,
+        "num": 16136,
+        "word": "医生除夕夜接诊36例卡喉患者",
+        "onboard_time": 1674469046,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15987,
+        "num": 15987,
+        "word": "流浪地球2现实版太空电梯原来在莽山",
+        "onboard_time": 1674480507,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14647,
+        "num": 14647,
+        "word": "张继科跟爸爸的相处方式",
+        "onboard_time": 1674487828,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14984,
+        "num": 14639,
+        "word": "外国科学家奶奶说很想看流浪地球2",
+        "onboard_time": 1674485969,
+        "rank": 45,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 14452,
+        "num": 14452,
+        "word": "何广智回老家",
+        "onboard_time": 1674470068,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14146,
+        "num": 14146,
+        "word": "刘宇宁个人EP将与五位朋友合作五首歌",
+        "onboard_time": 1674487289,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12582,
+        "num": 12582,
+        "word": "岳云鹏被孙越一秒哄好",
+        "onboard_time": 1674492262,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12467,
+        "num": 12467,
+        "word": "张译口音怪怪的",
+        "onboard_time": 1674463345,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#热热闹闹寻年味#"
+    }
+  }
+}
