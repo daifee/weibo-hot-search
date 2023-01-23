@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674513206963,
+  "endTime": 1674515905318,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -667,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386812,
+      "num": 386812,
+      "word": "暴雪",
+      "onboard_time": 1674440786,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 385801,
       "num": 385801,
       "word": "再见守望先锋",
@@ -1227,6 +1235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208073,
+      "num": 208073,
+      "word": "张艺兴公司新公开三位练习生",
+      "onboard_time": 1674514573,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206630,
       "num": 206630,
       "word": "会逗人玩的狗子",
@@ -1393,14 +1409,6 @@
       "onboard_time": 1674464904,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 190910,
-      "num": 190910,
-      "word": "暴雪",
-      "onboard_time": 1674440786,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 190855,
@@ -1731,6 +1739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150892,
+      "num": 150892,
+      "word": "儿子不回家过年母亲仍守在路口张望",
+      "onboard_time": 1674509052,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149912,
       "num": 149912,
       "word": "阿凡达2全球票房破20亿美元",
@@ -1753,6 +1769,14 @@
       "onboard_time": 1674442528,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146178,
+      "num": 146178,
+      "word": "水母烟花",
+      "onboard_time": 1674514634,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 144954,
@@ -1931,6 +1955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133315,
+      "num": 46539,
+      "word": "网易发布暴雪游戏退款公告",
+      "onboard_time": 1674515534,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132896,
       "num": 132896,
       "word": "去春晚工作是什么体验",
@@ -2064,14 +2096,6 @@
       "word": "戏曲演员是有真功夫在身上的",
       "onboard_time": 1674471928,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115751,
-      "num": 51550,
-      "word": "儿子不回家过年母亲仍守在路口张望",
-      "onboard_time": 1674509052,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2331,12 +2355,28 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 70955,
+      "num": 70955,
+      "word": "魔兽世界停服",
+      "onboard_time": 1674515896,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 70802,
       "num": 174474,
       "word": "现在小孩穿搭也太洋气了",
       "onboard_time": 1674381865,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 69022,
+      "num": 69022,
+      "word": "女子庙里祈福时遇兔子带路",
+      "onboard_time": 1674495138,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65820,
@@ -2353,6 +2393,14 @@
       "onboard_time": 1674371125,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65553,
+      "num": 65553,
+      "word": "妈妈这个词只是叫一叫便喉间哽咽",
+      "onboard_time": 1674496517,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64814,
@@ -2403,14 +2451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44422,
-      "num": 44422,
-      "word": "女子庙里祈福时遇兔子带路",
-      "onboard_time": 1674495138,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38922,
       "num": 38922,
       "word": "沈腾 硬唱也能唱",
@@ -2419,20 +2459,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38901,
+      "num": 38901,
+      "word": "暴雪国服游戏停服",
+      "onboard_time": 1674515835,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 38674,
       "num": 38674,
       "word": "过年才能吃到的甜烧白",
       "onboard_time": 1674489148,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 33887,
-      "num": 33887,
-      "word": "妈妈这个词只是叫一叫便喉间哽咽",
-      "onboard_time": 1674496517,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33860,
