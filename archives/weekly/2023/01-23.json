@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674470168221,
+  "endTime": 1674472543741,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -19,6 +19,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1865596,
+      "num": 1500326,
+      "word": "离异家庭的孩子最怕过年了",
+      "onboard_time": 1674466465,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1751692,
       "num": 1751692,
       "word": "因太脏而放弃劝架的狗妈妈",
@@ -33,14 +41,6 @@
       "onboard_time": 1674401188,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1500326,
-      "num": 1500326,
-      "word": "离异家庭的孩子最怕过年了",
-      "onboard_time": 1674466465,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 1482209,
@@ -89,6 +89,14 @@
       "onboard_time": 1674398371,
       "rank": 30,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 846841,
+      "num": 846841,
+      "word": "何广智回老家",
+      "onboard_time": 1674470068,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 833101,
@@ -275,6 +283,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 509915,
+      "num": 474206,
+      "word": "于正评价王一博易烊千玺演技",
+      "onboard_time": 1674467304,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 508747,
+      "num": 508747,
+      "word": "收到红包的狗子有多得意",
+      "onboard_time": 1674469766,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 508075,
       "num": 508075,
       "word": "洛杉矶枪击事件已致10死10伤",
@@ -305,14 +329,6 @@
       "onboard_time": 1674459866,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 474206,
-      "num": 474206,
-      "word": "于正评价王一博易烊千玺演技",
-      "onboard_time": 1674467304,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 471842,
@@ -443,6 +459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 384252,
+      "num": 333695,
+      "word": "张颂文说华语电影肯定不会把奖给我的",
+      "onboard_time": 1674469526,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 382715,
       "num": 239058,
       "word": "王心凌好甜",
@@ -521,6 +545,14 @@
       "onboard_time": 1674445165,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 342987,
+      "num": 451129,
+      "word": "医生除夕夜接诊36例卡喉患者",
+      "onboard_time": 1674469046,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332828,
@@ -612,7 +644,7 @@
     },
     {
       "raw_hot": 291308,
-      "num": 826578,
+      "num": 866093,
       "word": "过年一定要和妈妈拍张照",
       "onboard_time": 1674448887,
       "rank": 14,
@@ -747,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241807,
+      "num": 241807,
+      "word": "沈腾和岳云鹏对戏有多难",
+      "onboard_time": 1674467964,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238045,
       "num": 184767,
       "word": "张颂文演技",
@@ -768,14 +808,6 @@
       "word": "易烊千玺满江红好稳",
       "onboard_time": 1674391649,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 225536,
-      "num": 153212,
-      "word": "张颂文说华语电影肯定不会把奖给我的",
-      "onboard_time": 1674469526,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -817,14 +849,6 @@
       "onboard_time": 1674455124,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 213828,
-      "num": 213828,
-      "word": "沈腾和岳云鹏对戏有多难",
-      "onboard_time": 1674467964,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 213684,
@@ -1099,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166924,
+      "num": 240709,
+      "word": "朋友齐刷刷跪地替消防员给父母拜年",
+      "onboard_time": 1674468205,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166689,
       "num": 166689,
       "word": "篮网vs勇士",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1674438986,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155206,
+      "num": 155206,
+      "word": "网易回顾暴雪国服十四年",
+      "onboard_time": 1674469226,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 154160,
@@ -1243,12 +1283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140842,
-      "num": 140842,
-      "word": "收到红包的狗子有多得意",
-      "onboard_time": 1674469766,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 141094,
+      "num": 141094,
+      "word": "万精油型 放在哪里都能用",
+      "onboard_time": 1674470308,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 139991,
@@ -1315,14 +1355,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 135983,
-      "num": 179406,
-      "word": "医生除夕夜接诊36例卡喉患者",
-      "onboard_time": 1674469046,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135911,
       "num": 135911,
       "word": "正月初二回娘家啦",
@@ -1335,14 +1367,6 @@
       "num": 135701,
       "word": "95后宠托师春节保底收入过万",
       "onboard_time": 1674451404,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135040,
-      "num": 140694,
-      "word": "朋友齐刷刷跪地替消防员给父母拜年",
-      "onboard_time": 1674468205,
       "rank": 40,
       "category": "社会新闻"
     },
@@ -1427,6 +1451,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 122133,
+      "num": 122133,
+      "word": "会逗人玩的狗子",
+      "onboard_time": 1674471806,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121280,
       "num": 121280,
       "word": "毛晓彤好漂亮",
@@ -1459,14 +1491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 118861,
-      "num": 118861,
-      "word": "何广智回老家",
-      "onboard_time": 1674470068,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118351,
       "num": 118351,
       "word": "合拍是许嵩为春晚写的第十首歌",
@@ -1481,6 +1505,14 @@
       "onboard_time": 1674458004,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115811,
+      "num": 158383,
+      "word": "戏曲演员是有真功夫在身上的",
+      "onboard_time": 1674471928,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115557,
@@ -1507,6 +1539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108306,
+      "num": 105229,
+      "word": "春晚微电影的主演是普通农民",
+      "onboard_time": 1674470967,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108071,
       "num": 108071,
       "word": "过年刷剧推荐",
@@ -1521,14 +1561,6 @@
       "onboard_time": 1674456563,
       "rank": 31,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 105841,
-      "num": 105841,
-      "word": "网易回顾暴雪国服十四年",
-      "onboard_time": 1674469226,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 104359,
@@ -1643,6 +1675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82260,
+      "num": 82260,
+      "word": "哈尔滨的冰雕太雄伟了",
+      "onboard_time": 1674472404,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80713,
       "num": 193806,
       "word": "巴啦啦能量隐藏技能出现",
@@ -1673,6 +1713,14 @@
       "onboard_time": 1674387566,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76678,
+      "num": 76678,
+      "word": "科学家奶爸手绘讲解流浪地球",
+      "onboard_time": 1674470788,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 72813,
