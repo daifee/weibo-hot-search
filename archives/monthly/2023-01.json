@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674441707859,
+  "endTime": 1674442307186,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -8203,6 +8203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 829784,
+      "num": 829784,
+      "word": "男子发压岁钱200发出2000的气势",
+      "onboard_time": 1674438927,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 828763,
       "num": 828763,
       "word": "BLACKPINK演唱会",
@@ -9089,14 +9097,6 @@
       "onboard_time": 1674372207,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 768066,
-      "num": 768066,
-      "word": "男子发压岁钱200发出2000的气势",
-      "onboard_time": 1674438927,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 766882,
@@ -15547,6 +15547,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 518557,
+      "num": 454794,
+      "word": "三门峡大坝附近多人被水冲走",
+      "onboard_time": 1674439285,
+      "rank": 8,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 518471,
       "num": 452980,
       "word": "SMTOWN线上演唱会",
@@ -16009,6 +16017,14 @@
       "onboard_time": 1672884749,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 508075,
+      "num": 508075,
+      "word": "洛杉矶枪击事件已致10死10伤",
+      "onboard_time": 1674438747,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 507935,
@@ -16537,14 +16553,6 @@
       "onboard_time": 1672737570,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 497373,
-      "num": 497373,
-      "word": "洛杉矶枪击事件已致10死10伤",
-      "onboard_time": 1674438747,
-      "rank": 44,
-      "category": "社会负面"
     },
     {
       "raw_hot": 497362,
@@ -17153,14 +17161,6 @@
       "onboard_time": 1674054510,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 481152,
-      "num": 454794,
-      "word": "三门峡大坝附近多人被水冲走",
-      "onboard_time": 1674439285,
-      "rank": 8,
-      "category": "社会负面"
     },
     {
       "raw_hot": 480520,
@@ -26955,6 +26955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 318240,
+      "num": 318240,
+      "word": "大年初二年俗",
+      "onboard_time": 1674439646,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317850,
       "num": 317850,
       "word": "杨幂龚俊时尚芭莎封面",
@@ -27027,6 +27035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317368,
+      "num": 317368,
+      "word": "周深曾在被窝里录歌曲大鱼",
+      "onboard_time": 1674439406,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 317361,
       "num": 178461,
       "word": "赵露思神隐路透梦回李乐嫣",
@@ -27089,14 +27105,6 @@
       "onboard_time": 1672649430,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315828,
-      "num": 315828,
-      "word": "周深曾在被窝里录歌曲大鱼",
-      "onboard_time": 1674439406,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 315801,
@@ -27953,14 +27961,6 @@
       "onboard_time": 1673923828,
       "rank": 45,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 304955,
-      "num": 304955,
-      "word": "大年初二年俗",
-      "onboard_time": 1674439646,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304924,
@@ -29057,6 +29057,14 @@
       "onboard_time": 1673236290,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 293022,
+      "num": 293022,
+      "word": "三体王子文演技",
+      "onboard_time": 1674441386,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 292995,
@@ -31067,6 +31075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274593,
+      "num": 274593,
+      "word": "三门峡",
+      "onboard_time": 1674437787,
+      "rank": 23,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 274589,
       "num": 274589,
       "word": "专家称没必要囤蒙脱石散",
@@ -31385,14 +31401,6 @@
       "onboard_time": 1672559609,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 272175,
-      "num": 272175,
-      "word": "三门峡",
-      "onboard_time": 1674437787,
-      "rank": 23,
-      "category": "社会负面"
     },
     {
       "raw_hot": 272146,
@@ -41827,14 +41835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183135,
-      "num": 183135,
-      "word": "三体王子文演技",
-      "onboard_time": 1674441386,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 183111,
       "num": 190538,
       "word": "火力少年王还是过于保守了",
@@ -46155,6 +46155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154282,
+      "num": 154282,
+      "word": "飞人博尔特遭诈骗损失千万美元",
+      "onboard_time": 1674441326,
+      "rank": 41,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 154257,
       "num": 181429,
       "word": "TTG西装大片",
@@ -48371,6 +48379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137761,
+      "num": 137761,
+      "word": "兔年的第一张电影票",
+      "onboard_time": 1674441986,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137743,
       "num": 185819,
       "word": "司机车内挂满糖果免费送乘客",
@@ -48513,6 +48529,14 @@
       "onboard_time": 1673857886,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137001,
+      "num": 137001,
+      "word": "篮网vs勇士",
+      "onboard_time": 1674441626,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 136943,
@@ -49617,14 +49641,6 @@
       "onboard_time": 1673000732,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128594,
-      "num": 128594,
-      "word": "飞人博尔特遭诈骗损失千万美元",
-      "onboard_time": 1674441326,
-      "rank": 41,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 128584,
@@ -52019,6 +52035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108453,
+      "num": 108453,
+      "word": "武大靖央视小品首秀",
+      "onboard_time": 1674441747,
+      "rank": 45,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 108442,
       "num": 73128,
       "word": "阿杜说周深把Andy唱出三个故事",
@@ -53083,6 +53107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99740,
+      "num": 99740,
+      "word": "兔年第一场雪",
+      "onboard_time": 1674441927,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99562,
       "num": 99562,
       "word": "春节返乡图鉴",
@@ -53129,14 +53161,6 @@
       "onboard_time": 1674277344,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 98815,
-      "num": 98815,
-      "word": "篮网vs勇士",
-      "onboard_time": 1674441626,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 98565,
@@ -56209,6 +56233,9 @@
     },
     {
       "word": "#团团圆圆中国年#"
+    },
+    {
+      "word": "#两岸同胞拜大年#"
     }
   ]
 }
