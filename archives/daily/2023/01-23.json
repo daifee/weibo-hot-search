@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674463062079,
+  "endTime": 1674465512608,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -32,6 +32,14 @@
       "word": "流浪地球2一部顶两部",
       "onboard_time": 1674401188,
       "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1472448,
+      "num": 1472448,
+      "word": "于正 无名和满江红本质上是一个故事",
+      "onboard_time": 1674461665,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -107,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 735243,
+      "num": 684268,
+      "word": "张颂文 真诚",
+      "onboard_time": 1674462203,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 732068,
       "num": 732068,
       "word": "北京台春晚 好看",
@@ -139,12 +155,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 696173,
-      "num": 696173,
-      "word": "于正 无名和满江红本质上是一个故事",
-      "onboard_time": 1674461665,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 695635,
+      "num": 695635,
+      "word": "网易发布致暴雪国服玩家告别信",
+      "onboard_time": 1674462203,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 657708,
@@ -203,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 539811,
+      "num": 539811,
+      "word": "她是懂磕头不磕头的",
+      "onboard_time": 1674463103,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 537376,
       "num": 537376,
       "word": "龙洋春晚后主持诗词大会",
@@ -251,11 +275,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 487089,
-      "num": 354729,
-      "word": "张颂文 真诚",
-      "onboard_time": 1674462203,
-      "rank": 30,
+      "raw_hot": 481642,
+      "num": 481642,
+      "word": "流浪地球票房",
+      "onboard_time": 1674462923,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 396325,
-      "num": 396325,
+      "num": 503630,
       "word": "主人回家过年猫咪成小哭包",
       "onboard_time": 1674459203,
       "rank": 49,
@@ -401,6 +425,14 @@
       "onboard_time": 1674393210,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360989,
+      "num": 360989,
+      "word": "张译口音怪怪的",
+      "onboard_time": 1674463345,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 360341,
@@ -491,6 +523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 312261,
+      "num": 312261,
+      "word": "妻子的浪漫旅行衍生综艺定档",
+      "onboard_time": 1674460944,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302821,
       "num": 241981,
       "word": "狂飙",
@@ -516,10 +556,18 @@
     },
     {
       "raw_hot": 291308,
-      "num": 753651,
+      "num": 826578,
       "word": "过年一定要和妈妈拍张照",
       "onboard_time": 1674448887,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285647,
+      "num": 482463,
+      "word": "用砂糖桔制作兔年小桔灯",
+      "onboard_time": 1674464065,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -536,14 +584,6 @@
       "word": "暴雪游戏停服倒计时",
       "onboard_time": 1674444684,
       "rank": 44,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 279765,
-      "num": 131349,
-      "word": "网易发布致暴雪国服玩家告别信",
-      "onboard_time": 1674462203,
-      "rank": 39,
       "category": "游戏"
     },
     {
@@ -672,14 +712,6 @@
       "word": "冯巩说关晓彤像昌平的草莓",
       "onboard_time": 1674433403,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 229464,
-      "num": 229464,
-      "word": "妻子的浪漫旅行衍生综艺定档",
-      "onboard_time": 1674460944,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -827,6 +859,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193408,
+      "num": 193408,
+      "word": "阿云嘎说参加音综能为音乐剧做积累",
+      "onboard_time": 1674464904,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190910,
+      "num": 190910,
+      "word": "暴雪",
+      "onboard_time": 1674440786,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190855,
       "num": 190855,
       "word": "热热闹闹寻年味",
@@ -915,14 +963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168507,
-      "num": 168507,
-      "word": "暴雪",
-      "onboard_time": 1674440786,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 167656,
       "num": 167656,
       "word": "郭帆说流浪地球2科技含量超第一部",
@@ -963,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166388,
+      "num": 166388,
+      "word": "电影深海告别曲听哭了",
+      "onboard_time": 1674453504,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165168,
       "num": 165168,
       "word": "张凌赫水牛报菜名",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1674396273,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160851,
+      "num": 160851,
+      "word": "兔子急了还会游泳",
+      "onboard_time": 1674462743,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159512,
@@ -1083,11 +1139,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141035,
-      "num": 141035,
-      "word": "流浪地球票房",
-      "onboard_time": 1674462923,
-      "rank": 25,
+      "raw_hot": 142365,
+      "num": 142365,
+      "word": "流浪地球彩蛋",
+      "onboard_time": 1674464965,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1105,14 +1161,6 @@
       "onboard_time": 1674459802,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139316,
-      "num": 139316,
-      "word": "电影深海告别曲听哭了",
-      "onboard_time": 1674453504,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 138930,
@@ -1161,6 +1209,14 @@
       "onboard_time": 1674441747,
       "rank": 45,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 135911,
+      "num": 135911,
+      "word": "正月初二回娘家啦",
+      "onboard_time": 1674462084,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135701,
@@ -1315,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112985,
+      "num": 112985,
+      "word": "流浪地球2加倍震撼",
+      "onboard_time": 1674452364,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 107847,
       "num": 107847,
       "word": "航拍看西安火树银花不夜城",
@@ -1347,20 +1411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102540,
+      "num": 102540,
+      "word": "过年刷剧推荐",
+      "onboard_time": 1674461064,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 102066,
       "num": 102066,
       "word": "奥尼尔关键三分",
       "onboard_time": 1674455603,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102006,
-      "num": 102006,
-      "word": "流浪地球2加倍震撼",
-      "onboard_time": 1674452364,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 99740,
@@ -1411,28 +1475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91089,
-      "num": 91089,
-      "word": "正月初二回娘家啦",
-      "onboard_time": 1674462084,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88864,
       "num": 88864,
       "word": "永远折服于民俗文化的浪漫",
       "onboard_time": 1674450986,
       "rank": 38,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 86046,
-      "num": 86046,
-      "word": "兔子急了还会游泳",
-      "onboard_time": 1674462743,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85845,
@@ -1457,14 +1505,6 @@
       "onboard_time": 1674387631,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 81640,
-      "num": 81640,
-      "word": "过年刷剧推荐",
-      "onboard_time": 1674461064,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 80713,
@@ -1515,6 +1555,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 70410,
+      "num": 70410,
+      "word": "华西肿瘤教授回家过年又义务看病",
+      "onboard_time": 1674465265,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65654,
       "num": 65654,
       "word": "沈腾临场改词艾伦直接愣住了",
@@ -1537,6 +1585,14 @@
       "onboard_time": 1674392370,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 58537,
+      "num": 58537,
+      "word": "高叶 老有人说我有佛缘",
+      "onboard_time": 1674465503,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 53089,
