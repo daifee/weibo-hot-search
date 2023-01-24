@@ -1,6 +1,6 @@
 {
   "startTime": 1674491158294,
-  "endTime": 1674564859328,
+  "endTime": 1674566620276,
   "band_list": [
     {
       "raw_hot": 2261726,
@@ -65,6 +65,14 @@
       "onboard_time": 1674522862,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1361705,
+      "num": 1361705,
+      "word": "狂飙",
+      "onboard_time": 1674474807,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1320387,
@@ -163,14 +171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 983458,
-      "num": 983458,
-      "word": "狂飙",
-      "onboard_time": 1674474807,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
       "raw_hot": 948889,
       "num": 580889,
       "word": "94年女生被催婚不要彩礼倒贴2万",
@@ -257,6 +257,14 @@
       "onboard_time": 1674517037,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 730447,
+      "num": 730447,
+      "word": "流浪地球2票房",
+      "onboard_time": 1674563488,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 728027,
@@ -379,6 +387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 560057,
+      "num": 560057,
+      "word": "原味肥肠",
+      "onboard_time": 1674561567,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 559745,
       "num": 559745,
       "word": "女生喊一声哥16个哥哥齐声回应",
@@ -441,6 +457,14 @@
       "onboard_time": 1674521364,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 495128,
+      "num": 495128,
+      "word": "安欣 轴",
+      "onboard_time": 1674563667,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 490238,
@@ -555,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427843,
+      "num": 427843,
+      "word": "五十岁以上的 出列",
+      "onboard_time": 1674562405,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 424603,
       "num": 424603,
       "word": "外地女婿回村的统一姿势",
@@ -627,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 386541,
+      "num": 498507,
+      "word": "今年为啥有两个二月",
+      "onboard_time": 1674561927,
+      "rank": 37,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 383136,
       "num": 314921,
       "word": "王智短发好A",
@@ -644,7 +684,7 @@
     },
     {
       "raw_hot": 375382,
-      "num": 437852,
+      "num": 496419,
       "word": "离家的全国统一仪式是拔充电器",
       "onboard_time": 1674556947,
       "rank": 26,
@@ -665,6 +705,14 @@
       "onboard_time": 1674526825,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363393,
+      "num": 363393,
+      "word": "曹可凡吃大肠",
+      "onboard_time": 1674565467,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 358814,
@@ -739,19 +787,19 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 348968,
+      "num": 348968,
+      "word": "张艺兴说渤哥新剧大年初三一起开始",
+      "onboard_time": 1674564268,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336450,
       "num": 336450,
       "word": "龚俊刘宇宁黄景瑜为黄渤新剧打call",
       "onboard_time": 1674543144,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 335091,
-      "num": 281193,
-      "word": "五十岁以上的 出列",
-      "onboard_time": 1674562405,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -833,14 +881,6 @@
       "onboard_time": 1674555866,
       "rank": 44,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 303590,
-      "num": 196478,
-      "word": "流浪地球2票房",
-      "onboard_time": 1674563488,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 300416,
@@ -931,14 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280726,
-      "num": 280726,
-      "word": "原味肥肠",
-      "onboard_time": 1674561567,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 275662,
       "num": 275662,
       "word": "moss 大boss",
@@ -953,14 +985,6 @@
       "onboard_time": 1674535766,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 267458,
-      "num": 267458,
-      "word": "今年为啥有两个二月",
-      "onboard_time": 1674561927,
-      "rank": 37,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 267403,
@@ -987,12 +1011,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 266995,
-      "num": 191960,
-      "word": "张艺兴说渤哥新剧大年初三一起开始",
-      "onboard_time": 1674564268,
-      "rank": 24,
-      "category": "影视"
+      "raw_hot": 265726,
+      "num": 265726,
+      "word": "妈妈为省事用旧床单当厨房地垫",
+      "onboard_time": 1674562948,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264348,
@@ -1115,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238087,
+      "num": 196582,
+      "word": "深海后劲好大",
+      "onboard_time": 1674561027,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236253,
       "num": 236253,
       "word": "张艺谋说沈腾是一颗珍珠",
@@ -1144,14 +1176,6 @@
       "word": "安欣孟钰是不是官配",
       "onboard_time": 1674484709,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 226986,
-      "num": 196582,
-      "word": "深海后劲好大",
-      "onboard_time": 1674561027,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -1371,6 +1395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176569,
+      "num": 176569,
+      "word": "和以前最好的朋友还有联系吗",
+      "onboard_time": 1674564867,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174557,
       "num": 174557,
       "word": "红豆遥遥冰正式官宣恋情",
@@ -1403,11 +1435,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172902,
-      "num": 172902,
-      "word": "妈妈为省事用旧床单当厨房地垫",
-      "onboard_time": 1674562948,
-      "rank": 32,
+      "raw_hot": 170367,
+      "num": 170367,
+      "word": "婆婆言传身教吵架绝招俩儿媳看呆",
+      "onboard_time": 1674565105,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1451,11 +1483,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162417,
-      "num": 158210,
-      "word": "安欣 轴",
-      "onboard_time": 1674563667,
-      "rank": 46,
+      "raw_hot": 160976,
+      "num": 152849,
+      "word": "沈腾还在上面",
+      "onboard_time": 1674566187,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -1545,6 +1577,14 @@
       "onboard_time": 1674541522,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146898,
+      "num": 146898,
+      "word": "张婉婷宋宁峰对视60秒后哭了",
+      "onboard_time": 1674566548,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 145999,
@@ -1761,6 +1801,14 @@
       "onboard_time": 1674519021,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100390,
+      "num": 100390,
+      "word": "小伙开后备箱送女友榴莲被当求婚",
+      "onboard_time": 1674566308,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99538,
