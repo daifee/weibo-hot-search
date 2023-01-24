@@ -1,6 +1,6 @@
 {
   "startTime": 1674577564806,
-  "endTime": 1674602290270,
+  "endTime": 1674603218884,
   "band_list": [
     {
       "raw_hot": 2034303,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364550,
+      "num": 364550,
+      "word": "初四",
+      "onboard_time": 1674601874,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 333588,
       "num": 333588,
       "word": "满江红剧组最大的开销",
@@ -121,6 +129,14 @@
       "onboard_time": 1674573629,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296031,
+      "num": 296031,
+      "word": "网红烟花加特林威力有多大",
+      "onboard_time": 1674594072,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295136,
@@ -291,14 +307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211243,
-      "num": 211243,
-      "word": "网红烟花加特林威力有多大",
-      "onboard_time": 1674594072,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208480,
       "num": 194240,
       "word": "瞬息全宇宙获奥斯卡11项提名",
@@ -347,12 +355,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167677,
+      "num": 167677,
+      "word": "婆婆言传身教吵架绝招俩儿媳看呆",
+      "onboard_time": 1674565105,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166008,
       "num": 102535,
       "word": "李雪健 定海神针",
       "onboard_time": 1674560488,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145342,
+      "num": 145342,
+      "word": "大年初四接灶王",
+      "onboard_time": 1674602115,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 144426,
@@ -379,27 +403,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129322,
+      "num": 129322,
+      "word": "张译演的何立",
+      "onboard_time": 1674601874,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128398,
       "num": 128398,
       "word": "走丢狗狗突然回家一家人激动庆祝",
       "onboard_time": 1674569849,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126921,
-      "num": 126921,
-      "word": "初四",
-      "onboard_time": 1674601874,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 122689,
-      "num": 122689,
-      "word": "婆婆言传身教吵架绝招俩儿媳看呆",
-      "onboard_time": 1674565105,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -427,12 +443,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107377,
+      "num": 107377,
+      "word": "初四迎灶神",
+      "onboard_time": 1674602415,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103064,
       "num": 103064,
       "word": "和以前最好的朋友还有联系吗",
       "onboard_time": 1674564867,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100891,
+      "num": 100891,
+      "word": "满江红影评",
+      "onboard_time": 1674602474,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 98630,
@@ -451,20 +483,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67757,
-      "num": 48866,
-      "word": "大年初四接灶王",
-      "onboard_time": 1674602115,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 65747,
-      "num": 65747,
-      "word": "张译演的何立",
-      "onboard_time": 1674601874,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 72264,
+      "num": 72264,
+      "word": "10个月宝宝跌下台阶大姨飞身接住",
+      "onboard_time": 1674589451,
+      "rank": 18,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 61621,
@@ -475,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 59026,
+      "num": 59026,
+      "word": "门框上的身高标线是爱和成长的记号",
+      "onboard_time": 1674602175,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58681,
       "num": 1254469,
       "word": "他们为万家灯火坚守一线",
@@ -483,27 +515,43 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 48295,
-      "num": 48295,
-      "word": "10个月宝宝跌下台阶大姨飞身接住",
-      "onboard_time": 1674589451,
-      "rank": 18,
-      "category": "社会正能量"
+      "raw_hot": 54554,
+      "num": 54554,
+      "word": "王佳怡饰演的瑶琴",
+      "onboard_time": 1674602955,
+      "rank": 37,
+      "category": "影视"
     },
     {
-      "raw_hot": 47676,
-      "num": 47676,
+      "raw_hot": 53535,
+      "num": 53535,
+      "word": "江疏影无名红旗袍造型",
+      "onboard_time": 1674595510,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 51148,
+      "num": 51148,
+      "word": "大年初二男子拔掉充电器离家",
+      "onboard_time": 1674603077,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51118,
+      "num": 51118,
       "word": "张小斐说让杨迪把她设计成跨的封面",
       "onboard_time": 1674588973,
       "rank": 48,
       "category": "影视"
     },
     {
-      "raw_hot": 46044,
-      "num": 46044,
-      "word": "江疏影无名红旗袍造型",
-      "onboard_time": 1674595510,
-      "rank": 44,
+      "raw_hot": 49959,
+      "num": 49959,
+      "word": "心疼胡冰卿演的娜娜",
+      "onboard_time": 1674571830,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -521,14 +569,6 @@
       "onboard_time": 1674567809,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 32407,
-      "num": 32407,
-      "word": "门框上的身高标线是爱和成长的记号",
-      "onboard_time": 1674602175,
-      "rank": 48,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

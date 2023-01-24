@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674602290270,
+  "endTime": 1674603218884,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -1603,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364550,
+      "num": 364550,
+      "word": "初四",
+      "onboard_time": 1674601874,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 362355,
       "num": 229286,
       "word": "张若昀 帅颠了",
@@ -2024,6 +2032,14 @@
       "word": "被彩云之南的七彩祥云美到了",
       "onboard_time": 1674481228,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296031,
+      "num": 296031,
+      "word": "网红烟花加特林威力有多大",
+      "onboard_time": 1674594072,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2649,14 +2665,6 @@
       "onboard_time": 1674399930,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211243,
-      "num": 211243,
-      "word": "网红烟花加特林威力有多大",
-      "onboard_time": 1674594072,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210904,
@@ -3507,6 +3515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145342,
+      "num": 145342,
+      "word": "大年初四接灶王",
+      "onboard_time": 1674602115,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144954,
       "num": 144954,
       "word": "黑暗荣耀2特别预告",
@@ -3747,6 +3763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129322,
+      "num": 129322,
+      "word": "张译演的何立",
+      "onboard_time": 1674601874,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128373,
       "num": 128373,
       "word": "过年期间吃多了怎么办",
@@ -3777,14 +3801,6 @@
       "onboard_time": 1674545784,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126921,
-      "num": 126921,
-      "word": "初四",
-      "onboard_time": 1674601874,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 126021,
@@ -4009,6 +4025,14 @@
       "onboard_time": 1674456563,
       "rank": 31,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 107377,
+      "num": 107377,
+      "word": "初四迎灶神",
+      "onboard_time": 1674602415,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 107238,
@@ -4275,6 +4299,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 72264,
+      "num": 72264,
+      "word": "10个月宝宝跌下台阶大姨飞身接住",
+      "onboard_time": 1674589451,
+      "rank": 18,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 72094,
       "num": 1264342,
       "word": "他们为万家灯火坚守一线",
@@ -4291,27 +4323,11 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 67757,
-      "num": 48866,
-      "word": "大年初四接灶王",
-      "onboard_time": 1674602115,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 65820,
       "num": 65820,
       "word": "满江红实时票房破5亿",
       "onboard_time": 1674466344,
       "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 65747,
-      "num": 65747,
-      "word": "张译演的何立",
-      "onboard_time": 1674601874,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -4363,12 +4379,52 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59026,
+      "num": 59026,
+      "word": "门框上的身高标线是爱和成长的记号",
+      "onboard_time": 1674602175,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54554,
+      "num": 54554,
+      "word": "王佳怡饰演的瑶琴",
+      "onboard_time": 1674602955,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 53535,
+      "num": 53535,
+      "word": "江疏影无名红旗袍造型",
+      "onboard_time": 1674595510,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 53089,
       "num": 139153,
       "word": "孩子们挨家祝福获赠零食压岁钱",
       "onboard_time": 1674402629,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51148,
+      "num": 51148,
+      "word": "大年初二男子拔掉充电器离家",
+      "onboard_time": 1674603077,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51118,
+      "num": 51118,
+      "word": "张小斐说让杨迪把她设计成跨的封面",
+      "onboard_time": 1674588973,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 49634,
@@ -4393,30 +4449,6 @@
       "onboard_time": 1674384868,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48295,
-      "num": 48295,
-      "word": "10个月宝宝跌下台阶大姨飞身接住",
-      "onboard_time": 1674589451,
-      "rank": 18,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 47676,
-      "num": 47676,
-      "word": "张小斐说让杨迪把她设计成跨的封面",
-      "onboard_time": 1674588973,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 46044,
-      "num": 46044,
-      "word": "江疏影无名红旗袍造型",
-      "onboard_time": 1674595510,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 38922,
@@ -4457,14 +4489,6 @@
       "onboard_time": 1674587474,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 32407,
-      "num": 32407,
-      "word": "门框上的身高标线是爱和成长的记号",
-      "onboard_time": 1674602175,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27755,
