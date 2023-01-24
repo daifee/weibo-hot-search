@@ -1,6 +1,6 @@
 {
   "startTime": 1674491158294,
-  "endTime": 1674530393053,
+  "endTime": 1674531219217,
   "band_list": [
     {
       "raw_hot": 1383955,
@@ -51,12 +51,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 863559,
+      "raw_hot": 948889,
       "num": 580889,
       "word": "94年女生被催婚不要彩礼倒贴2万",
       "onboard_time": 1674528865,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 895496,
+      "num": 895496,
+      "word": "宋轶看到张若昀吃鸡腿的反应",
+      "onboard_time": 1674528985,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 852335,
@@ -83,12 +91,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 808943,
-      "num": 808943,
-      "word": "宋轶看到张若昀吃鸡腿的反应",
-      "onboard_time": 1674528985,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 772858,
+      "num": 772858,
+      "word": "流浪地球2票房破10亿",
+      "onboard_time": 1674528505,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 743551,
@@ -115,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 719261,
-      "num": 719261,
-      "word": "流浪地球2票房破10亿",
-      "onboard_time": 1674528505,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 716222,
       "num": 716222,
       "word": "满江红我和我的塑料同事特辑",
@@ -145,6 +145,14 @@
       "onboard_time": 1674514573,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 582891,
+      "num": 952560,
+      "word": "正月初三睡到饱",
+      "onboard_time": 1674529226,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 570358,
@@ -195,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 480068,
-      "num": 952560,
-      "word": "正月初三睡到饱",
-      "onboard_time": 1674529226,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 450055,
       "num": 450055,
       "word": "网易发布暴雪游戏退款公告",
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 424088,
-      "num": 315155,
+      "num": 324870,
       "word": "无名梁朝伟王一博王传君花絮",
       "onboard_time": 1674529165,
       "rank": 20,
@@ -259,12 +259,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 404641,
+      "num": 404641,
+      "word": "满江红票房超过流浪地球2",
+      "onboard_time": 1674530546,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391839,
       "num": 391839,
       "word": "你已断开连接",
       "onboard_time": 1674519141,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 391649,
+      "num": 391649,
+      "word": "小伙8条内裤被偷现金1分没少",
+      "onboard_time": 1674530185,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388706,
@@ -323,20 +339,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350299,
+      "num": 350299,
+      "word": "为什么我们不愿意走亲戚了",
+      "onboard_time": 1674527905,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 334997,
       "num": 334997,
       "word": "卡塞勒0比7巴黎圣日耳曼",
       "onboard_time": 1674524547,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 334247,
-      "num": 334247,
-      "word": "为什么我们不愿意走亲戚了",
-      "onboard_time": 1674527905,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 321602,
@@ -395,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 294304,
+      "num": 294304,
+      "word": "9岁男孩瓶内放炮被扎30多块玻璃渣",
+      "onboard_time": 1674529764,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285705,
       "num": 285705,
       "word": "姥爷开吊车为孙女摘飞走的气球",
@@ -403,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285675,
+      "num": 285675,
+      "word": "男版许红豆照进现实",
+      "onboard_time": 1674530904,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275662,
       "num": 275662,
       "word": "moss 大boss",
       "onboard_time": 1674517276,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267403,
+      "num": 267403,
+      "word": "原来古巨基KTV也点情歌王",
+      "onboard_time": 1674530305,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 267342,
@@ -433,6 +473,14 @@
       "onboard_time": 1674526945,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259871,
+      "num": 259871,
+      "word": "女子带仙女棒进站被罚300",
+      "onboard_time": 1674530364,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251419,
@@ -619,12 +667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181587,
-      "num": 181587,
-      "word": "9岁男孩瓶内放炮被扎30多块玻璃渣",
-      "onboard_time": 1674529764,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 180171,
+      "num": 180171,
+      "word": "大年初三为什么要睡懒觉",
+      "onboard_time": 1674530785,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 180009,
@@ -657,14 +705,6 @@
       "onboard_time": 1674483870,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173866,
-      "num": 173866,
-      "word": "原来古巨基KTV也点情歌王",
-      "onboard_time": 1674530305,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 163586,
@@ -763,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123389,
-      "num": 123389,
-      "word": "小伙8条内裤被偷现金1分没少",
-      "onboard_time": 1674530185,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122889,
       "num": 122889,
       "word": "再见艾泽拉斯",
@@ -795,11 +827,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 118589,
-      "num": 118589,
-      "word": "女子带仙女棒进站被罚300",
-      "onboard_time": 1674530364,
-      "rank": 48,
+      "raw_hot": 117325,
+      "num": 117325,
+      "word": "守株待兔的兔可能是因视野盲区才撞树",
+      "onboard_time": 1674531085,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1061,6 +1093,9 @@
     },
     {
       "word": "#初三年俗活动指南#"
+    },
+    {
+      "word": "#寻找家乡年味#"
     }
   ]
 }
