@@ -1,6 +1,6 @@
 {
   "startTime": 1674577564806,
-  "endTime": 1674598639972,
+  "endTime": 1674599599329,
   "band_list": [
     {
       "raw_hot": 2034303,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139896,
+      "num": 53554,
+      "word": "网红烟花加特林威力有多大",
+      "onboard_time": 1674594072,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136017,
       "num": 136017,
       "word": "女儿回应父亲倒贴2万催婚",
@@ -393,14 +401,6 @@
       "onboard_time": 1674570989,
       "rank": 38,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 113659,
-      "num": 50927,
-      "word": "网红烟花加特林威力有多大",
-      "onboard_time": 1674594072,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110759,
@@ -443,20 +443,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61621,
+      "num": 61621,
+      "word": "沙溢演技",
+      "onboard_time": 1674593530,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 58681,
       "num": 1254469,
       "word": "他们为万家灯火坚守一线",
       "onboard_time": 1674570749,
       "rank": 2,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 57776,
-      "num": 57776,
-      "word": "沙溢演技",
-      "onboard_time": 1674593530,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 39389,
@@ -467,6 +467,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 37825,
+      "num": 37825,
+      "word": "江疏影无名红旗袍造型",
+      "onboard_time": 1674595510,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 33457,
       "num": 33457,
       "word": "俞灏明说中国乒乓飒飞了",
@@ -475,19 +483,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 25237,
-      "num": 25237,
+      "raw_hot": 26004,
+      "num": 26004,
       "word": "张小斐说让杨迪把她设计成跨的封面",
       "onboard_time": 1674588973,
       "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 22837,
-      "num": 22837,
-      "word": "江疏影无名红旗袍造型",
-      "onboard_time": 1674595510,
-      "rank": 44,
       "category": "影视"
     }
   ],
