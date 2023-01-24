@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674587679755,
+  "endTime": 1674588805211,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -58939,6 +58939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 33457,
+      "num": 33457,
+      "word": "俞灏明说中国乒乓飒飞了",
+      "onboard_time": 1674587474,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 33233,
       "num": 24952,
       "word": "严浩翔说马哥捡到了你的纸飞机",
@@ -58953,14 +58961,6 @@
       "onboard_time": 1672516874,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 31542,
-      "num": 25878,
-      "word": "俞灏明说中国乒乓飒飞了",
-      "onboard_time": 1674587474,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 31336,

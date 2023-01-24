@@ -1,0 +1,410 @@
+{
+  "runTime": 1674588805211,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 304655,
+        "num": 304655,
+        "word": "满江红票房逆跌",
+        "onboard_time": 1674571409,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200459,
+        "num": 200459,
+        "word": "再过二十年就没人走亲戚了",
+        "onboard_time": 1674573568,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9282,
+        "num": 155160,
+        "word": "他们为万家灯火坚守一线",
+        "onboard_time": 1674570749,
+        "rank": 2,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 152790,
+        "num": 152790,
+        "word": "狂飙",
+        "onboard_time": 1674560607,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147702,
+        "num": 147702,
+        "word": "王一博无名一镜到底打戏拍了一个礼拜",
+        "onboard_time": 1674575848,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111627,
+        "num": 111627,
+        "word": "流浪地球2票房",
+        "onboard_time": 1674563488,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101809,
+        "num": 101809,
+        "word": "大年初三不外出",
+        "onboard_time": 1674580160,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94589,
+        "num": 94589,
+        "word": "棣欣引力",
+        "onboard_time": 1674573926,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92972,
+        "num": 92972,
+        "word": "女子吐槽波司登羽绒服到东北变嘎嘣脆",
+        "onboard_time": 1674568048,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84677,
+        "num": 84677,
+        "word": "单身舅舅过年被6个外甥围着催婚",
+        "onboard_time": 1674576566,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 57681,
+        "num": 57681,
+        "word": "相差几个月小朋友的体格差",
+        "onboard_time": 1674578063,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57339,
+        "num": 57339,
+        "word": "权志龙巴黎时装周生图",
+        "onboard_time": 1674574168,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 55637,
+        "num": 55637,
+        "word": "杨紫琼提名奥斯卡最佳女主角",
+        "onboard_time": 1674572910,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51993,
+        "num": 51993,
+        "word": "妈妈为省事用旧床单当厨房地垫",
+        "onboard_time": 1674562948,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50747,
+        "num": 50747,
+        "word": "吴磊 芬兰",
+        "onboard_time": 1674560906,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49804,
+        "num": 49804,
+        "word": "刘耀文摸宋亚轩脸",
+        "onboard_time": 1674576147,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47256,
+        "num": 47256,
+        "word": "外交部提醒在美中国公民加强安全防范",
+        "onboard_time": 1674571409,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 44460,
+        "num": 44460,
+        "word": "男子陪老人买肉谎称20元",
+        "onboard_time": 1674569307,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 41784,
+        "num": 41784,
+        "word": "流浪地球 数字生命",
+        "onboard_time": 1674561389,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40672,
+        "num": 40672,
+        "word": "江西东乡发布组织核酸检测情况说明",
+        "onboard_time": 1674568648,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39375,
+        "num": 39375,
+        "word": "李响不会要下线了吧",
+        "onboard_time": 1674567208,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38425,
+        "num": 38425,
+        "word": "满江红剧组最大的开销",
+        "onboard_time": 1674568350,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37131,
+        "num": 37131,
+        "word": "瞬息全宇宙获奥斯卡11项提名",
+        "onboard_time": 1674575008,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36906,
+        "num": 36906,
+        "word": "女儿回应父亲倒贴2万催婚",
+        "onboard_time": 1674571708,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35569,
+        "num": 35569,
+        "word": "李雪健 定海神针",
+        "onboard_time": 1674560488,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34971,
+        "num": 34971,
+        "word": "满江红结局",
+        "onboard_time": 1674572790,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33942,
+        "num": 33942,
+        "word": "五十岁以上的 出列",
+        "onboard_time": 1674562405,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33479,
+        "num": 33479,
+        "word": "胡兵妈妈去世",
+        "onboard_time": 1674568407,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33457,
+        "num": 33457,
+        "word": "俞灏明说中国乒乓飒飞了",
+        "onboard_time": 1674587474,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30654,
+        "num": 30654,
+        "word": "和以前最好的朋友还有联系吗",
+        "onboard_time": 1674564867,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33201,
+        "num": 30566,
+        "word": "胖虎晒易烊千玺给女儿的to签",
+        "onboard_time": 1674559526,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32071,
+        "num": 30485,
+        "word": "高启盛什么时候下线",
+        "onboard_time": 1674568948,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31603,
+        "num": 30419,
+        "word": "赵丽颖黄澄澄合唱风吹半夏",
+        "onboard_time": 1674573989,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31188,
+        "num": 30317,
+        "word": "吴磊赵今麦 进组",
+        "onboard_time": 1674562048,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31185,
+        "num": 30209,
+        "word": "王一博最怕导演说来监视器看一下",
+        "onboard_time": 1674571226,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30169,
+        "num": 30169,
+        "word": "王鹤棣寻一个你直拍",
+        "onboard_time": 1674569790,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27113,
+        "num": 27113,
+        "word": "小伙开后备箱送女友榴莲被当求婚",
+        "onboard_time": 1674566308,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25010,
+        "num": 25010,
+        "word": "成家之前还是得先搞钱",
+        "onboard_time": 1674566966,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23977,
+        "num": 23977,
+        "word": "火炕不够长1米86男生枕4个凳子入睡",
+        "onboard_time": 1674575426,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23495,
+        "num": 23495,
+        "word": "婆婆言传身教吵架绝招俩儿媳看呆",
+        "onboard_time": 1674565105,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28910,
+        "num": 23340,
+        "word": "TF家族四代陈浚铭汪浚熙开通微博",
+        "onboard_time": 1674572369,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28022,
+        "num": 23245,
+        "word": "黄渤新剧1集水逆了6次",
+        "onboard_time": 1674570571,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27342,
+        "num": 23102,
+        "word": "水云天第一歌姬小兰花",
+        "onboard_time": 1674570090,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26632,
+        "num": 22862,
+        "word": "狂飙预告",
+        "onboard_time": 1674575246,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26091,
+        "num": 22709,
+        "word": "offer4全员是我嗑陈林尽染的脸替",
+        "onboard_time": 1674573629,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22584,
+        "num": 22584,
+        "word": "走丢狗狗突然回家一家人激动庆祝",
+        "onboard_time": 1674569849,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24531,
+        "num": 21867,
+        "word": "张若昀调侃大张伟35岁后人老了会变保守",
+        "onboard_time": 1674577943,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21052,
+        "num": 21052,
+        "word": "谁能拒绝这样的电视",
+        "onboard_time": 1674573509,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20053,
+        "num": 20053,
+        "word": "年味真的越来越淡了吗",
+        "onboard_time": 1674571890,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15882,
+        "num": 15882,
+        "word": "过年回村做发型是什么体验",
+        "onboard_time": 1674570989,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#寻找家乡年味#"
+    }
+  }
+}
