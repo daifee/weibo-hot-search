@@ -1,0 +1,410 @@
+{
+  "runTime": 1674528011218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1383955,
+        "num": 1383955,
+        "word": "江西为天价彩礼降温",
+        "onboard_time": 1674522862,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812045,
+        "num": 812045,
+        "word": "王一博回应无名卡车上的笑",
+        "onboard_time": 1674527005,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119808,
+        "num": 755521,
+        "word": "被彩云之南的七彩祥云美到了",
+        "onboard_time": 1674481228,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733574,
+        "num": 733574,
+        "word": "满江红",
+        "onboard_time": 1674522085,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 728027,
+        "num": 728027,
+        "word": "兔系艺人图鉴",
+        "onboard_time": 1674521965,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 727464,
+        "num": 727464,
+        "word": "暴雪",
+        "onboard_time": 1674513493,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 656796,
+        "num": 656796,
+        "word": "高启盛 疯批",
+        "onboard_time": 1674517998,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604506,
+        "num": 604506,
+        "word": "喝不上酒的交警女婿开始上班了",
+        "onboard_time": 1674526105,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 570288,
+        "num": 570288,
+        "word": "满江红我和我的塑料同事特辑",
+        "onboard_time": 1674527065,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463889,
+        "num": 558145,
+        "word": "奶奶为3岁孙女缝出5个朝代汉服",
+        "onboard_time": 1674525445,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557913,
+        "num": 557913,
+        "word": "导演付宁去世",
+        "onboard_time": 1674482967,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473458,
+        "num": 473458,
+        "word": "金智秀刘海",
+        "onboard_time": 1674522504,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 457062,
+        "num": 457062,
+        "word": "外国女婿回村过年被烟花吵醒",
+        "onboard_time": 1674517037,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426689,
+        "num": 426689,
+        "word": "网易发布暴雪游戏退款公告",
+        "onboard_time": 1674515534,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 423745,
+        "num": 423745,
+        "word": "撒贝宁魏大勋是懂盛典互动的",
+        "onboard_time": 1674517037,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414008,
+        "num": 414008,
+        "word": "张艺兴公司新公开三位练习生",
+        "onboard_time": 1674514573,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388706,
+        "num": 388706,
+        "word": "无名",
+        "onboard_time": 1674525147,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344493,
+        "num": 344493,
+        "word": "正月初三有哪些年俗",
+        "onboard_time": 1674521364,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334997,
+        "num": 334997,
+        "word": "卡塞勒0比7巴黎圣日耳曼",
+        "onboard_time": 1674524547,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316561,
+        "num": 316561,
+        "word": "陈哲远怕挤到粉丝把手撑到车窗上",
+        "onboard_time": 1674522321,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298680,
+        "num": 298680,
+        "word": "流浪地球",
+        "onboard_time": 1674525925,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297805,
+        "num": 297805,
+        "word": "春节假期最冷的一天",
+        "onboard_time": 1674525983,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297772,
+        "num": 297772,
+        "word": "金智秀公主风造型",
+        "onboard_time": 1674520944,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289346,
+        "num": 289346,
+        "word": "梅西无意与巴黎续约",
+        "onboard_time": 1674518298,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289109,
+        "num": 289109,
+        "word": "张译称演得好坏未来由观众去评说",
+        "onboard_time": 1674526464,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280265,
+        "num": 280265,
+        "word": "王一博说拍无名是人生压力最大时刻",
+        "onboard_time": 1674527005,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278096,
+        "num": 278096,
+        "word": "你已断开连接",
+        "onboard_time": 1674519141,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277300,
+        "num": 277300,
+        "word": "张颂文 角色魅力",
+        "onboard_time": 1674527905,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273322,
+        "num": 273322,
+        "word": "你今天睡饱了吗",
+        "onboard_time": 1674526464,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242855,
+        "num": 242855,
+        "word": "满江红实时票房破9亿",
+        "onboard_time": 1674526945,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242721,
+        "num": 242721,
+        "word": "moss 大boss",
+        "onboard_time": 1674517276,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241644,
+        "num": 241644,
+        "word": "瑶琴",
+        "onboard_time": 1674519261,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238616,
+        "num": 238616,
+        "word": "春节档电影票房破30亿元",
+        "onboard_time": 1674526347,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236253,
+        "num": 236253,
+        "word": "张艺谋说沈腾是一颗珍珠",
+        "onboard_time": 1674517639,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207000,
+        "num": 207000,
+        "word": "北京玉渊潭2株早樱绽放",
+        "onboard_time": 1674523345,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186658,
+        "num": 186658,
+        "word": "八村垒被交易到湖人",
+        "onboard_time": 1674516857,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180622,
+        "num": 180622,
+        "word": "男孩偷用压岁钱给母亲买金项链",
+        "onboard_time": 1674526825,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162308,
+        "num": 162308,
+        "word": "姥爷开吊车为孙女摘飞走的气球",
+        "onboard_time": 1674521125,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161172,
+        "num": 161172,
+        "word": "水母烟花",
+        "onboard_time": 1674514634,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158417,
+        "num": 158417,
+        "word": "沈月何与合唱初恋",
+        "onboard_time": 1674525204,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146319,
+        "num": 146319,
+        "word": "狂飙",
+        "onboard_time": 1674474807,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139049,
+        "num": 139049,
+        "word": "大年初三",
+        "onboard_time": 1674516556,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131152,
+        "num": 131152,
+        "word": "山东一村2000人合拍全家福",
+        "onboard_time": 1674527725,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130066,
+        "num": 130066,
+        "word": "韩国拟投资67亿发展旅游",
+        "onboard_time": 1674490167,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128308,
+        "num": 128308,
+        "word": "医生除夕夜驱车200公里返院救人",
+        "onboard_time": 1674523765,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 128221,
+        "num": 128221,
+        "word": "暴雪国服游戏停服",
+        "onboard_time": 1674515835,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122889,
+        "num": 122889,
+        "word": "再见艾泽拉斯",
+        "onboard_time": 1674524966,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110384,
+        "num": 110384,
+        "word": "金晨主持状态",
+        "onboard_time": 1674518539,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106929,
+        "num": 106929,
+        "word": "40岁男子给8岁小孩磕头拜年",
+        "onboard_time": 1674492562,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106822,
+        "num": 106822,
+        "word": "为什么我们不愿意走亲戚了",
+        "onboard_time": 1674527905,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#热热闹闹寻年味#"
+    }
+  }
+}
