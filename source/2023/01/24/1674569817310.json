@@ -1,0 +1,410 @@
+{
+  "runTime": 1674569817310,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1816739,
+        "num": 1816739,
+        "word": "狂飙",
+        "onboard_time": 1674560607,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1323108,
+        "num": 1323108,
+        "word": "流浪地球2票房",
+        "onboard_time": 1674563488,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128186,
+        "num": 1129491,
+        "word": "压岁钱有哪些好寓意",
+        "onboard_time": 1674555987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1061227,
+        "num": 1061227,
+        "word": "吴磊 芬兰",
+        "onboard_time": 1674560906,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 807572,
+        "num": 807572,
+        "word": "胖虎晒易烊千玺给女儿的to签",
+        "onboard_time": 1674559526,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 687823,
+        "num": 687823,
+        "word": "妈妈为省事用旧床单当厨房地垫",
+        "onboard_time": 1674562948,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672504,
+        "num": 672504,
+        "word": "沈腾还在上面",
+        "onboard_time": 1674566187,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576388,
+        "num": 576388,
+        "word": "吴磊赵今麦 进组",
+        "onboard_time": 1674562048,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462853,
+        "num": 462853,
+        "word": "小伙开后备箱送女友榴莲被当求婚",
+        "onboard_time": 1674566308,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462526,
+        "num": 462526,
+        "word": "婆婆言传身教吵架绝招俩儿媳看呆",
+        "onboard_time": 1674565105,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778591,
+        "num": 462034,
+        "word": "女子吐槽波司登羽绒服到东北变嘎嘣脆",
+        "onboard_time": 1674568048,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531320,
+        "num": 461178,
+        "word": "李响不会要下线了吧",
+        "onboard_time": 1674567208,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 527909,
+        "num": 460176,
+        "word": "胡兵妈妈去世",
+        "onboard_time": 1674568407,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520076,
+        "num": 459281,
+        "word": "曹可凡吃大肠",
+        "onboard_time": 1674565467,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506777,
+        "num": 459024,
+        "word": "王一博无名实时票房破3亿剧照",
+        "onboard_time": 1674568169,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 458415,
+        "num": 458415,
+        "word": "满江红剧组最大的开销",
+        "onboard_time": 1674568350,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441137,
+        "num": 441137,
+        "word": "江西东乡发布组织核酸检测情况说明",
+        "onboard_time": 1674568648,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419904,
+        "num": 419904,
+        "word": "蔡徐坤默片国风舞台",
+        "onboard_time": 1674569011,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308600,
+        "num": 308600,
+        "word": "离家的全国统一仪式是拔充电器",
+        "onboard_time": 1674556947,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303223,
+        "num": 303223,
+        "word": "和以前最好的朋友还有联系吗",
+        "onboard_time": 1674564867,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 383434,
+        "num": 297421,
+        "word": "无名票房",
+        "onboard_time": 1674551244,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382846,
+        "num": 296096,
+        "word": "安欣 轴",
+        "onboard_time": 1674563667,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366432,
+        "num": 285602,
+        "word": "张婉婷宋宁峰对视60秒后哭了",
+        "onboard_time": 1674566548,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346042,
+        "num": 284411,
+        "word": "五十岁以上的 出列",
+        "onboard_time": 1674562405,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342967,
+        "num": 278187,
+        "word": "王宝强回村过年对求合影村民来者不拒",
+        "onboard_time": 1674551064,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337314,
+        "num": 268720,
+        "word": "2023奥斯卡提名",
+        "onboard_time": 1674569487,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267182,
+        "num": 267182,
+        "word": "女生喊一声哥16个哥哥齐声回应",
+        "onboard_time": 1674555387,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237809,
+        "num": 237809,
+        "word": "原味肥肠",
+        "onboard_time": 1674561567,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 218546,
+        "num": 237734,
+        "word": "成家之前还是得先搞钱",
+        "onboard_time": 1674566966,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125347,
+        "num": 236629,
+        "word": "世界上唯一女性文字",
+        "onboard_time": 1674548245,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329350,
+        "num": 236329,
+        "word": "流浪地球 数字生命",
+        "onboard_time": 1674561389,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296827,
+        "num": 235338,
+        "word": "王鹤棣寻一个你直拍",
+        "onboard_time": 1674569790,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290491,
+        "num": 235009,
+        "word": "狂飙李一桐眼神戏",
+        "onboard_time": 1674567809,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234624,
+        "num": 234624,
+        "word": "李雪健 定海神针",
+        "onboard_time": 1674560488,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251519,
+        "num": 229907,
+        "word": "高启盛什么时候下线",
+        "onboard_time": 1674568948,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223186,
+        "num": 223186,
+        "word": "张艺兴说渤哥新剧大年初三一起开始",
+        "onboard_time": 1674564268,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187272,
+        "num": 187272,
+        "word": "今年为啥有两个二月",
+        "onboard_time": 1674561927,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 169968,
+        "num": 169968,
+        "word": "男子陪老人买肉谎称20元",
+        "onboard_time": 1674569307,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 154385,
+        "num": 154385,
+        "word": "韩国阴历新年引争议",
+        "onboard_time": 1674546204,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147839,
+        "num": 147839,
+        "word": "西安市民喊话把景点让给外地游客",
+        "onboard_time": 1674553766,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 191297,
+        "num": 146226,
+        "word": "满江红",
+        "onboard_time": 1674522085,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159031,
+        "num": 144579,
+        "word": "深海后劲好大",
+        "onboard_time": 1674561027,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194919,
+        "num": 143098,
+        "word": "满江红票房",
+        "onboard_time": 1674559886,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154139,
+        "num": 140926,
+        "word": "盗摄",
+        "onboard_time": 1674553944,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175487,
+        "num": 138208,
+        "word": "满江红实时票房破12亿",
+        "onboard_time": 1674567208,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136409,
+        "num": 136409,
+        "word": "无法拒绝金毛的撒娇",
+        "onboard_time": 1674562350,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 133957,
+        "num": 133957,
+        "word": "网络视听盛典明星工作室出图",
+        "onboard_time": 1674562827,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120469,
+        "num": 120469,
+        "word": "今年的春节档质量真的可以",
+        "onboard_time": 1674567988,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119976,
+        "num": 119976,
+        "word": "doja cat",
+        "onboard_time": 1674552984,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 118629,
+        "num": 118629,
+        "word": "诗经里哪句话最让你心动",
+        "onboard_time": 1674569129,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同一个世界同一个春节#"
+    }
+  }
+}
