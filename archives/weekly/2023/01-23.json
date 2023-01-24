@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674534139221,
+  "endTime": 1674535030967,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -19,20 +19,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2090023,
+      "num": 2090023,
+      "word": "满江红票房超过流浪地球2",
+      "onboard_time": 1674530546,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1865596,
       "num": 1500326,
       "word": "离异家庭的孩子最怕过年了",
       "onboard_time": 1674466465,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1772434,
-      "num": 1772434,
-      "word": "满江红票房超过流浪地球2",
-      "onboard_time": 1674530546,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 1751692,
@@ -59,6 +59,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1407591,
+      "num": 1407591,
+      "word": "大年初三为什么要睡懒觉",
+      "onboard_time": 1674530785,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1383955,
       "num": 1383955,
       "word": "江西为天价彩礼降温",
@@ -73,14 +81,6 @@
       "onboard_time": 1674385525,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1350451,
-      "num": 1350451,
-      "word": "大年初三为什么要睡懒觉",
-      "onboard_time": 1674530785,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 1319344,
@@ -99,7 +99,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1275926,
+      "raw_hot": 1277741,
       "num": 649090,
       "word": "小伙8条内裤被偷现金1分没少",
       "onboard_time": 1674530185,
@@ -136,6 +136,14 @@
       "word": "导演付宁去世",
       "onboard_time": 1674482967,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1192793,
+      "num": 1192793,
+      "word": "于正 先跟大家道个歉",
+      "onboard_time": 1674531805,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -185,14 +193,6 @@
       "onboard_time": 1674449785,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1007977,
-      "num": 1007977,
-      "word": "于正 先跟大家道个歉",
-      "onboard_time": 1674531805,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 996485,
@@ -411,6 +411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 666806,
+      "num": 666806,
+      "word": "女子带仙女棒进站被罚300",
+      "onboard_time": 1674530364,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 662592,
       "num": 662592,
       "word": "她是懂磕头不磕头的",
@@ -451,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 592124,
-      "num": 658521,
-      "word": "女子带仙女棒进站被罚300",
-      "onboard_time": 1674530364,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 589118,
       "num": 589118,
       "word": "张艺兴公司新公开三位练习生",
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 582891,
-      "num": 1247715,
+      "num": 1294140,
       "word": "正月初三睡到饱",
       "onboard_time": 1674529226,
       "rank": 2,
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 439459,
-      "num": 254915,
+      "num": 254952,
       "word": "湖南一94年女生被父亲酒桌催婚",
       "onboard_time": 1674531864,
       "rank": 21,
@@ -971,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374793,
+      "num": 374793,
+      "word": "9岁男孩瓶内放炮被扎30多块玻璃渣",
+      "onboard_time": 1674529764,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372971,
       "num": 372971,
       "word": "男孩偷用压岁钱给母亲买金项链",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1674445165,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 337792,
-      "num": 337792,
-      "word": "9岁男孩瓶内放炮被扎30多块玻璃渣",
-      "onboard_time": 1674529764,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 334997,
@@ -1537,6 +1537,14 @@
       "onboard_time": 1674435086,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241618,
+      "num": 241618,
+      "word": "路人镜头下的田曦薇",
+      "onboard_time": 1674534625,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 238616,
@@ -2011,6 +2019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180366,
+      "num": 180366,
+      "word": "深海 参宿的梦",
+      "onboard_time": 1674532350,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180009,
       "num": 180009,
       "word": "儿子不回家过年母亲仍守在路口张望",
@@ -2227,6 +2243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154668,
+      "num": 154668,
+      "word": "今年过年你去相亲了吗",
+      "onboard_time": 1674531926,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154450,
       "num": 154450,
       "word": "讨红包一定要找对人",
@@ -2257,14 +2281,6 @@
       "onboard_time": 1674455005,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 152061,
-      "num": 152061,
-      "word": "深海 参宿的梦",
-      "onboard_time": 1674532350,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 149912,
@@ -2387,12 +2403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139202,
-      "num": 139202,
-      "word": "今年过年你去相亲了吗",
-      "onboard_time": 1674531926,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 139081,
+      "num": 139081,
+      "word": "电影无名名场面",
+      "onboard_time": 1674534867,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 138930,
@@ -2569,6 +2585,14 @@
       "onboard_time": 1674428653,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125672,
+      "num": 125672,
+      "word": "3岁娃春节玩太欢趴碗里睡着",
+      "onboard_time": 1674534565,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125108,
