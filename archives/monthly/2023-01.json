@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674585402924,
+  "endTime": 1674587679755,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -58953,6 +58953,14 @@
       "onboard_time": 1672516874,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 31542,
+      "num": 25878,
+      "word": "俞灏明说中国乒乓飒飞了",
+      "onboard_time": 1674587474,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 31336,
