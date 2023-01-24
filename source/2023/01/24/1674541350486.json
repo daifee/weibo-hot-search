@@ -1,0 +1,410 @@
+{
+  "runTime": 1674541350486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1335332,
+        "num": 1335332,
+        "word": "满江红票房超过流浪地球2",
+        "onboard_time": 1674530546,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1168041,
+        "num": 1168041,
+        "word": "邓超陈赫鹿晗换头像为中国乒乓打call",
+        "onboard_time": 1674538464,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221703,
+        "num": 1020254,
+        "word": "正月初三睡到饱",
+        "onboard_time": 1674529226,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884172,
+        "num": 884172,
+        "word": "于正 先跟大家道个歉",
+        "onboard_time": 1674531805,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639002,
+        "num": 639002,
+        "word": "大年初三为什么要睡懒觉",
+        "onboard_time": 1674530785,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 588853,
+        "num": 588853,
+        "word": "满江红",
+        "onboard_time": 1674522085,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576634,
+        "num": 576634,
+        "word": "年初三被快递封门是什么体验",
+        "onboard_time": 1674537925,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 523351,
+        "num": 523351,
+        "word": "道枝骏佑韩国机场图",
+        "onboard_time": 1674532285,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338477,
+        "num": 498390,
+        "word": "女子带仙女棒进站被罚300",
+        "onboard_time": 1674530364,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318749,
+        "num": 467188,
+        "word": "男子争吵后徒步300公里回家走反了",
+        "onboard_time": 1674536365,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891147,
+        "num": 431045,
+        "word": "小伙8条内裤被偷现金1分没少",
+        "onboard_time": 1674530185,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669552,
+        "num": 409375,
+        "word": "网友坐高铁偶遇白敬亭",
+        "onboard_time": 1674539245,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377863,
+        "num": 377863,
+        "word": "电影无名名场面",
+        "onboard_time": 1674534867,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366888,
+        "num": 366888,
+        "word": "流浪地球2票房破10亿",
+        "onboard_time": 1674528505,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348928,
+        "num": 348928,
+        "word": "路人镜头下的田曦薇",
+        "onboard_time": 1674534625,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330582,
+        "num": 330582,
+        "word": "王一博回应无名卡车上的笑",
+        "onboard_time": 1674527005,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323601,
+        "num": 323601,
+        "word": "宋祖儿说白宇春晚后台背词最大声",
+        "onboard_time": 1674538464,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286402,
+        "num": 286402,
+        "word": "这群兔子是在开会吗",
+        "onboard_time": 1674538946,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278405,
+        "num": 278405,
+        "word": "最不该存在的游戏功能",
+        "onboard_time": 1674538285,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224883,
+        "num": 272760,
+        "word": "9岁男孩瓶内放炮被扎30多块玻璃渣",
+        "onboard_time": 1674529764,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428633,
+        "num": 272240,
+        "word": "94年女生被催婚不要彩礼倒贴2万",
+        "onboard_time": 1674528865,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267774,
+        "num": 267774,
+        "word": "宋轶看到张若昀吃鸡腿的反应",
+        "onboard_time": 1674528985,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264348,
+        "num": 264348,
+        "word": "王一博无名路演说以真心换真心",
+        "onboard_time": 1674541044,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245718,
+        "num": 245718,
+        "word": "外地女婿回村的统一姿势",
+        "onboard_time": 1674539664,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257019,
+        "num": 245156,
+        "word": "无名",
+        "onboard_time": 1674525147,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237242,
+        "num": 237242,
+        "word": "湖南一94年女生被父亲酒桌催婚",
+        "onboard_time": 1674531864,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251429,
+        "num": 234965,
+        "word": "无名官微称网传豆瓣分数为谣言",
+        "onboard_time": 1674540262,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228041,
+        "num": 228041,
+        "word": "流浪地球",
+        "onboard_time": 1674525925,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227484,
+        "num": 227484,
+        "word": "中国乒乓",
+        "onboard_time": 1674539783,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214473,
+        "num": 214473,
+        "word": "高启盛 疯批",
+        "onboard_time": 1674517998,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195636,
+        "num": 195636,
+        "word": "金智秀刘海",
+        "onboard_time": 1674522504,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197066,
+        "num": 195284,
+        "word": "张颂文 角色魅力",
+        "onboard_time": 1674527905,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190305,
+        "num": 190305,
+        "word": "梅西C罗姆巴佩内马尔看了都沉默了",
+        "onboard_time": 1674540563,
+        "rank": 32,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 186438,
+        "num": 186438,
+        "word": "邓超导戏自己演自己喊cut",
+        "onboard_time": 1674540024,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184053,
+        "num": 184053,
+        "word": "太空电梯",
+        "onboard_time": 1674540504,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171291,
+        "num": 171291,
+        "word": "满江红我和我的塑料同事特辑",
+        "onboard_time": 1674527065,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167320,
+        "num": 167320,
+        "word": "笨笨你是条军犬",
+        "onboard_time": 1674541222,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165928,
+        "num": 165928,
+        "word": "奶奶为3岁孙女缝出5个朝代汉服",
+        "onboard_time": 1674525445,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163394,
+        "num": 163394,
+        "word": "为什么我们不愿意走亲戚了",
+        "onboard_time": 1674527905,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135654,
+        "num": 135654,
+        "word": "江西为天价彩礼降温",
+        "onboard_time": 1674522862,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156268,
+        "num": 135575,
+        "word": "深海 参宿的梦",
+        "onboard_time": 1674532350,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152827,
+        "num": 135487,
+        "word": "流浪地球2是对人类命运共同体的思考",
+        "onboard_time": 1674539783,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152447,
+        "num": 135410,
+        "word": "秦岚说朴彩英很可爱",
+        "onboard_time": 1674540924,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145472,
+        "num": 135331,
+        "word": "赵丽颖新年祝家家户户富流油",
+        "onboard_time": 1674539123,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140077,
+        "num": 135214,
+        "word": "兔系艺人图鉴",
+        "onboard_time": 1674521965,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136875,
+        "num": 135157,
+        "word": "满江红局中局芭莎大片",
+        "onboard_time": 1674537806,
+        "rank": 45,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 135098,
+        "num": 135098,
+        "word": "90年代明星唱跳实力有多强",
+        "onboard_time": 1674539426,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132399,
+        "num": 132399,
+        "word": "喝不上酒的交警女婿开始上班了",
+        "onboard_time": 1674526105,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111323,
+        "num": 111323,
+        "word": "网易发布暴雪游戏退款公告",
+        "onboard_time": 1674515534,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104532,
+        "num": 104532,
+        "word": "3岁娃春节玩太欢趴碗里睡着",
+        "onboard_time": 1674534565,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#寻找家乡年味#"
+    }
+  }
+}
