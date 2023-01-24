@@ -1,6 +1,6 @@
 {
   "startTime": 1674491158294,
-  "endTime": 1674558923724,
+  "endTime": 1674560001675,
   "band_list": [
     {
       "raw_hot": 2261726,
@@ -32,6 +32,14 @@
       "word": "盗摄",
       "onboard_time": 1674553944,
       "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1504388,
+      "num": 1504388,
+      "word": "无名票房",
+      "onboard_time": 1674551244,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -131,20 +139,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 982901,
-      "num": 982901,
-      "word": "无名票房",
-      "onboard_time": 1674551244,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 948889,
       "num": 580889,
       "word": "94年女生被催婚不要彩礼倒贴2万",
       "onboard_time": 1674528865,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 938943,
+      "num": 458029,
+      "word": "胖虎晒易烊千玺给女儿的to签",
+      "onboard_time": 1674559526,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 895496,
@@ -331,6 +339,22 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 566294,
+      "num": 566294,
+      "word": "希林娜依高在逃公主红毯造型",
+      "onboard_time": 1674559408,
+      "rank": 5,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 559745,
+      "num": 559745,
+      "word": "女生喊一声哥16个哥哥齐声回应",
+      "onboard_time": 1674555387,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558165,
       "num": 558165,
       "word": "张艺谋曾设想满江红全片一镜到底",
@@ -411,8 +435,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 472290,
-      "num": 472290,
+      "raw_hot": 484354,
+      "num": 484354,
       "word": "王宝强回村过年对求合影村民来者不拒",
       "onboard_time": 1674551064,
       "rank": 25,
@@ -523,14 +547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 393385,
-      "num": 393385,
-      "word": "女生喊一声哥16个哥哥齐声回应",
-      "onboard_time": 1674555387,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 391839,
       "num": 391839,
       "word": "你已断开连接",
@@ -585,6 +601,14 @@
       "onboard_time": 1674526825,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358814,
+      "num": 358814,
+      "word": "麻辣兔头销量飙升",
+      "onboard_time": 1674554965,
+      "rank": 36,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 358477,
@@ -731,6 +755,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 305585,
+      "num": 305585,
+      "word": "媒婆的嘴有多敢说",
+      "onboard_time": 1674555866,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 300416,
       "num": 300416,
       "word": "水母烟花",
@@ -753,14 +785,6 @@
       "onboard_time": 1674525983,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296242,
-      "num": 296242,
-      "word": "麻辣兔头销量飙升",
-      "onboard_time": 1674554965,
-      "rank": 36,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 295951,
@@ -867,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255053,
+      "num": 152778,
+      "word": "地球2大概是这样",
+      "onboard_time": 1674556765,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255011,
       "num": 255011,
       "word": "太空电梯",
@@ -907,20 +939,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 248573,
-      "num": 248573,
-      "word": "媒婆的嘴有多敢说",
-      "onboard_time": 1674555866,
-      "rank": 44,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 246938,
       "num": 246938,
       "word": "北京玉渊潭2株早樱绽放",
       "onboard_time": 1674523345,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246581,
+      "num": 246581,
+      "word": "离家的全国统一仪式是拔充电器",
+      "onboard_time": 1674556947,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242180,
+      "num": 242180,
+      "word": "流浪地球2票房破11亿",
+      "onboard_time": 1674555624,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 240414,
@@ -952,14 +992,6 @@
       "word": "春节档电影票房破30亿元",
       "onboard_time": 1674526347,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 237271,
-      "num": 149032,
-      "word": "地球2大概是这样",
-      "onboard_time": 1674556765,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -1107,14 +1139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 192120,
-      "num": 192120,
-      "word": "流浪地球2票房破11亿",
-      "onboard_time": 1674555624,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190628,
       "num": 190628,
       "word": "2023网络视听盛典就在爱奇艺",
@@ -1251,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169147,
+      "num": 1169293,
+      "word": "压岁钱有哪些好寓意",
+      "onboard_time": 1674555987,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166939,
       "num": 166939,
       "word": "用纸杯做一只会奔跑小兔子",
@@ -1264,14 +1296,6 @@
       "word": "3岁娃春节玩太欢趴碗里睡着",
       "onboard_time": 1674534565,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164984,
-      "num": 164984,
-      "word": "离家的全国统一仪式是拔充电器",
-      "onboard_time": 1674556947,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1323,12 +1347,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151950,
+      "num": 151950,
+      "word": "打铁花是属于中式的浪漫",
+      "onboard_time": 1674559886,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151801,
       "num": 151801,
       "word": "再见守望先锋",
       "onboard_time": 1674466045,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149995,
+      "num": 149995,
+      "word": "5旬匠人1600度铁水赤膊打铁花",
+      "onboard_time": 1674558209,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149862,
@@ -1353,14 +1393,6 @@
       "onboard_time": 1674552925,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 149085,
-      "num": 1169293,
-      "word": "压岁钱有哪些好寓意",
-      "onboard_time": 1674555987,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148023,
@@ -1483,6 +1515,14 @@
       "category": "综艺,音乐"
     },
     {
+      "raw_hot": 124784,
+      "num": 124784,
+      "word": "成都SKP收银系统疑出错多刷顾客几万元",
+      "onboard_time": 1674556886,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123854,
       "num": 123854,
       "word": "九旬爷奶花21万买17个金镯子送晚辈",
@@ -1521,14 +1561,6 @@
       "onboard_time": 1674487289,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 119848,
-      "num": 119848,
-      "word": "成都SKP收银系统疑出错多刷顾客几万元",
-      "onboard_time": 1674556886,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117325,
@@ -1577,6 +1609,14 @@
       "onboard_time": 1674519021,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101509,
+      "num": 101509,
+      "word": "满江红票房",
+      "onboard_time": 1674559886,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 99538,
@@ -1641,14 +1681,6 @@
       "onboard_time": 1674552506,
       "rank": 45,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 85824,
-      "num": 85824,
-      "word": "5旬匠人1600度铁水赤膊打铁花",
-      "onboard_time": 1674558209,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83765,
@@ -1849,6 +1881,9 @@
     },
     {
       "word": "#2023网络视听年度盛典#"
+    },
+    {
+      "word": "#同一个世界同一个春节#"
     }
   ]
 }

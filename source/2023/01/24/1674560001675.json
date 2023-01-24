@@ -1,0 +1,410 @@
+{
+  "runTime": 1674560001675,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1504388,
+        "num": 1504388,
+        "word": "无名票房",
+        "onboard_time": 1674551244,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1561637,
+        "num": 1499457,
+        "word": "江西一地连续两天开展全员核酸检测",
+        "onboard_time": 1674551964,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169147,
+        "num": 645668,
+        "word": "压岁钱有哪些好寓意",
+        "onboard_time": 1674555987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602386,
+        "num": 602386,
+        "word": "满江红票房超过流浪地球2",
+        "onboard_time": 1674530546,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1031774,
+        "num": 587370,
+        "word": "盗摄",
+        "onboard_time": 1674553944,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 566294,
+        "num": 566294,
+        "word": "希林娜依高在逃公主红毯造型",
+        "onboard_time": 1674559408,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 562931,
+        "num": 562931,
+        "word": "满江红",
+        "onboard_time": 1674522085,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 559745,
+        "num": 559745,
+        "word": "女生喊一声哥16个哥哥齐声回应",
+        "onboard_time": 1674555387,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484354,
+        "num": 484354,
+        "word": "王宝强回村过年对求合影村民来者不拒",
+        "onboard_time": 1674551064,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361555,
+        "num": 460030,
+        "word": "世界上唯一女性文字",
+        "onboard_time": 1674548245,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 938943,
+        "num": 458029,
+        "word": "胖虎晒易烊千玺给女儿的to签",
+        "onboard_time": 1674559526,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 453724,
+        "num": 453724,
+        "word": "杨幂蓝色短发",
+        "onboard_time": 1674541763,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376480,
+        "num": 376480,
+        "word": "doja cat",
+        "onboard_time": 1674552984,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 358814,
+        "num": 358814,
+        "word": "麻辣兔头销量飙升",
+        "onboard_time": 1674554965,
+        "rank": 13,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 341650,
+        "num": 341650,
+        "word": "过年砂糖橘吃不完怎么办",
+        "onboard_time": 1674552385,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 305585,
+        "num": 305585,
+        "word": "媒婆的嘴有多敢说",
+        "onboard_time": 1674555866,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 293605,
+        "num": 293605,
+        "word": "西安市民喊话把景点让给外地游客",
+        "onboard_time": 1674553766,
+        "rank": 16,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 267664,
+        "num": 267664,
+        "word": "看完流浪地球2的我",
+        "onboard_time": 1674552324,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263920,
+        "num": 263920,
+        "word": "全军复诵",
+        "onboard_time": 1674551483,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246581,
+        "num": 246581,
+        "word": "离家的全国统一仪式是拔充电器",
+        "onboard_time": 1674556947,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250781,
+        "num": 246547,
+        "word": "王一博说对比梁朝伟有了很大压力",
+        "onboard_time": 1674551483,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246514,
+        "num": 246514,
+        "word": "高启强妹妹去哪了",
+        "onboard_time": 1674549084,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242180,
+        "num": 242180,
+        "word": "流浪地球2票房破11亿",
+        "onboard_time": 1674555624,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233810,
+        "num": 233810,
+        "word": "韩国阴历新年引争议",
+        "onboard_time": 1674546204,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206323,
+        "num": 206323,
+        "word": "小男孩套圈套中女娃妈妈开心坏了",
+        "onboard_time": 1674553944,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190240,
+        "num": 190240,
+        "word": "王鹤棣国风黑金西装造型",
+        "onboard_time": 1674551365,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179659,
+        "num": 179659,
+        "word": "山东一私家车贴日本军旗被举报",
+        "onboard_time": 1674543084,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173573,
+        "num": 173573,
+        "word": "不要轻易点开李荣浩的微博",
+        "onboard_time": 1674548663,
+        "rank": 27,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 166340,
+        "num": 166340,
+        "word": "易烊千玺满江红最新剧照",
+        "onboard_time": 1674550646,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165085,
+        "num": 165085,
+        "word": "笨笨你是条军犬",
+        "onboard_time": 1674541222,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152821,
+        "num": 152821,
+        "word": "大年初三为什么要睡懒觉",
+        "onboard_time": 1674530785,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255053,
+        "num": 152778,
+        "word": "地球2大概是这样",
+        "onboard_time": 1674556765,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152575,
+        "num": 152575,
+        "word": "中国乒乓",
+        "onboard_time": 1674539783,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151950,
+        "num": 151950,
+        "word": "打铁花是属于中式的浪漫",
+        "onboard_time": 1674559886,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149995,
+        "num": 149995,
+        "word": "5旬匠人1600度铁水赤膊打铁花",
+        "onboard_time": 1674558209,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136353,
+        "num": 136353,
+        "word": "Angelababy说渤哥贺岁大剧追起",
+        "onboard_time": 1674553227,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127911,
+        "num": 127911,
+        "word": "邓超陈赫鹿晗换头像为中国乒乓打call",
+        "onboard_time": 1674538464,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124784,
+        "num": 124784,
+        "word": "成都SKP收银系统疑出错多刷顾客几万元",
+        "onboard_time": 1674556886,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117184,
+        "num": 117184,
+        "word": "网友晒杨幂古早海报",
+        "onboard_time": 1674544764,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116644,
+        "num": 116644,
+        "word": "网友坐高铁偶遇白敬亭",
+        "onboard_time": 1674539245,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108885,
+        "num": 108885,
+        "word": "流浪地球和三体的隐藏联动",
+        "onboard_time": 1674552925,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101509,
+        "num": 101509,
+        "word": "满江红票房",
+        "onboard_time": 1674559886,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98511,
+        "num": 98511,
+        "word": "旅客飞抵哈尔滨机舱门被冻住",
+        "onboard_time": 1674541463,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 96086,
+        "num": 96086,
+        "word": "春节档电影联合倡议书",
+        "onboard_time": 1674555447,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91853,
+        "num": 91853,
+        "word": "龚俊刘宇宁黄景瑜为黄渤新剧打call",
+        "onboard_time": 1674543144,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87923,
+        "num": 87923,
+        "word": "用纸杯做一只会奔跑小兔子",
+        "onboard_time": 1674551785,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84947,
+        "num": 84947,
+        "word": "无名",
+        "onboard_time": 1674525147,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82901,
+        "num": 82901,
+        "word": "鹅鸭杀送暴雪主播新年礼物",
+        "onboard_time": 1674557547,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76726,
+        "num": 76726,
+        "word": "道枝骏佑韩国机场图",
+        "onboard_time": 1674532285,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75393,
+        "num": 75393,
+        "word": "深海 参宿的梦",
+        "onboard_time": 1674532350,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#同一个世界同一个春节#"
+    }
+  }
+}
