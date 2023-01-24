@@ -1,0 +1,410 @@
+{
+  "runTime": 1674525360750,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1169861,
+        "num": 1169861,
+        "word": "江西为天价彩礼降温",
+        "onboard_time": 1674522862,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1056650,
+        "num": 1056650,
+        "word": "暴雪",
+        "onboard_time": 1674513493,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149319,
+        "num": 904672,
+        "word": "被彩云之南的七彩祥云美到了",
+        "onboard_time": 1674481228,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828218,
+        "num": 828218,
+        "word": "高启盛 疯批",
+        "onboard_time": 1674517998,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 725422,
+        "num": 725422,
+        "word": "满江红",
+        "onboard_time": 1674522085,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 855887,
+        "num": 719816,
+        "word": "导演付宁去世",
+        "onboard_time": 1674482967,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675056,
+        "num": 675056,
+        "word": "外国女婿回村过年被烟花吵醒",
+        "onboard_time": 1674517037,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663868,
+        "num": 663868,
+        "word": "兔系艺人图鉴",
+        "onboard_time": 1674521965,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544086,
+        "num": 544086,
+        "word": "撒贝宁魏大勋是懂盛典互动的",
+        "onboard_time": 1674517037,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542283,
+        "num": 542283,
+        "word": "张艺兴公司新公开三位练习生",
+        "onboard_time": 1674514573,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501846,
+        "num": 501846,
+        "word": "正月初三有哪些年俗",
+        "onboard_time": 1674521364,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 474107,
+        "num": 474107,
+        "word": "金智秀公主风造型",
+        "onboard_time": 1674520944,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 441191,
+        "num": 441191,
+        "word": "网易发布暴雪游戏退款公告",
+        "onboard_time": 1674515534,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 420559,
+        "num": 420559,
+        "word": "金智秀刘海",
+        "onboard_time": 1674522504,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387760,
+        "num": 387760,
+        "word": "你已断开连接",
+        "onboard_time": 1674519141,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 376158,
+        "num": 376158,
+        "word": "梅西无意与巴黎续约",
+        "onboard_time": 1674518298,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355873,
+        "num": 355873,
+        "word": "陈哲远怕挤到粉丝把手撑到车窗上",
+        "onboard_time": 1674522321,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335486,
+        "num": 335486,
+        "word": "瑶琴",
+        "onboard_time": 1674519261,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305297,
+        "num": 305297,
+        "word": "无名",
+        "onboard_time": 1674525147,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281507,
+        "num": 281507,
+        "word": "姥爷开吊车为孙女摘飞走的气球",
+        "onboard_time": 1674521125,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294024,
+        "num": 281390,
+        "word": "张艺谋曾设想满江红全片一镜到底",
+        "onboard_time": 1674481589,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271178,
+        "num": 271178,
+        "word": "moss 大boss",
+        "onboard_time": 1674517276,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246938,
+        "num": 246938,
+        "word": "北京玉渊潭2株早樱绽放",
+        "onboard_time": 1674523345,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244232,
+        "num": 244232,
+        "word": "水母烟花",
+        "onboard_time": 1674514634,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221997,
+        "num": 221997,
+        "word": "卡塞勒0比7巴黎圣日耳曼",
+        "onboard_time": 1674524547,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216842,
+        "num": 216842,
+        "word": "金晨主持状态",
+        "onboard_time": 1674518539,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199759,
+        "num": 199759,
+        "word": "八村垒被交易到湖人",
+        "onboard_time": 1674516857,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196169,
+        "num": 196169,
+        "word": "医生除夕夜驱车200公里返院救人",
+        "onboard_time": 1674523765,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 190846,
+        "num": 190846,
+        "word": "张艺谋说沈腾是一颗珍珠",
+        "onboard_time": 1674517639,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177980,
+        "num": 177980,
+        "word": "大年初三",
+        "onboard_time": 1674516556,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176281,
+        "num": 176281,
+        "word": "韩国拟投资67亿发展旅游",
+        "onboard_time": 1674490167,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168065,
+        "num": 168065,
+        "word": "张译李一桐吻戏",
+        "onboard_time": 1674481048,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167801,
+        "num": 167801,
+        "word": "为何拜年反成一种负担",
+        "onboard_time": 1674520102,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167295,
+        "num": 167295,
+        "word": "女子拨到已故父亲电话后偷偷抹泪",
+        "onboard_time": 1674484651,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165787,
+        "num": 165787,
+        "word": "佟丽娅友情出演流浪地球2",
+        "onboard_time": 1674483690,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163191,
+        "num": 163191,
+        "word": "漠河究竟有多冷",
+        "onboard_time": 1674517639,
+        "rank": 35,
+        "category": "旅游,自然"
+      },
+      {
+        "raw_hot": 154428,
+        "num": 154428,
+        "word": "他们从未想过结局会是如此",
+        "onboard_time": 1674520041,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152033,
+        "num": 152033,
+        "word": "暴雪国服游戏停服",
+        "onboard_time": 1674515835,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146879,
+        "num": 146879,
+        "word": "狂飙",
+        "onboard_time": 1674474807,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145999,
+        "num": 145999,
+        "word": "相亲只为遇见你",
+        "onboard_time": 1674525024,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144521,
+        "num": 144521,
+        "word": "满江红人均800个心眼子",
+        "onboard_time": 1674518179,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141190,
+        "num": 141190,
+        "word": "40岁男子给8岁小孩磕头拜年",
+        "onboard_time": 1674492562,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123089,
+        "num": 123089,
+        "word": "王冰冰演戏",
+        "onboard_time": 1674474867,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120617,
+        "num": 120617,
+        "word": "你满意王一博在无名里的表现吗",
+        "onboard_time": 1674484651,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118437,
+        "num": 118437,
+        "word": "再见艾泽拉斯",
+        "onboard_time": 1674524966,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115805,
+        "num": 115805,
+        "word": "炉石传说",
+        "onboard_time": 1674486151,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113570,
+        "num": 113570,
+        "word": "刘耀文唱的Monica",
+        "onboard_time": 1674517457,
+        "rank": 46,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 109183,
+        "num": 109183,
+        "word": "沈月何与合唱初恋",
+        "onboard_time": 1674525204,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108358,
+        "num": 108358,
+        "word": "流浪地球2现实版太空电梯原来在莽山",
+        "onboard_time": 1674480507,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105177,
+        "num": 105177,
+        "word": "魔兽世界停服",
+        "onboard_time": 1674515896,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#热热闹闹寻年味#"
+    }
+  }
+}
