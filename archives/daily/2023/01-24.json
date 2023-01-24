@@ -1,7 +1,15 @@
 {
   "startTime": 1674491158294,
-  "endTime": 1674531219217,
+  "endTime": 1674534139221,
   "band_list": [
+    {
+      "raw_hot": 1772434,
+      "num": 1772434,
+      "word": "满江红票房超过流浪地球2",
+      "onboard_time": 1674530546,
+      "rank": 13,
+      "category": "影视"
+    },
     {
       "raw_hot": 1383955,
       "num": 1383955,
@@ -9,6 +17,14 @@
       "onboard_time": 1674522862,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1350451,
+      "num": 1350451,
+      "word": "大年初三为什么要睡懒觉",
+      "onboard_time": 1674530785,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 1319344,
@@ -27,11 +43,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1275926,
+      "num": 649090,
+      "word": "小伙8条内裤被偷现金1分没少",
+      "onboard_time": 1674530185,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1196285,
       "num": 1196285,
       "word": "导演付宁去世",
       "onboard_time": 1674482967,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1167535,
+      "num": 1167535,
+      "word": "道枝骏佑韩国机场图",
+      "onboard_time": 1674532285,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -49,6 +81,14 @@
       "onboard_time": 1674513493,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1007977,
+      "num": 1007977,
+      "word": "于正 先跟大家道个歉",
+      "onboard_time": 1674531805,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 948889,
@@ -131,12 +171,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 692443,
+      "num": 692443,
+      "word": "光遇",
+      "onboard_time": 1674533185,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 655714,
       "num": 655714,
       "word": "撒贝宁魏大勋是懂盛典互动的",
       "onboard_time": 1674517037,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 592124,
+      "num": 658521,
+      "word": "女子带仙女棒进站被罚300",
+      "onboard_time": 1674530364,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 589118,
@@ -148,7 +204,7 @@
     },
     {
       "raw_hot": 582891,
-      "num": 952560,
+      "num": 1247715,
       "word": "正月初三睡到饱",
       "onboard_time": 1674529226,
       "rank": 2,
@@ -235,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 439459,
+      "num": 254915,
+      "word": "湖南一94年女生被父亲酒桌催婚",
+      "onboard_time": 1674531864,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424088,
       "num": 324870,
       "word": "无名梁朝伟王一博王传君花絮",
@@ -259,28 +323,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 404641,
-      "num": 404641,
-      "word": "满江红票房超过流浪地球2",
-      "onboard_time": 1674530546,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 391839,
       "num": 391839,
       "word": "你已断开连接",
       "onboard_time": 1674519141,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 391649,
-      "num": 391649,
-      "word": "小伙8条内裤被偷现金1分没少",
-      "onboard_time": 1674530185,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 388706,
@@ -347,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 337792,
+      "num": 337792,
+      "word": "9岁男孩瓶内放炮被扎30多块玻璃渣",
+      "onboard_time": 1674529764,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334997,
       "num": 334997,
       "word": "卡塞勒0比7巴黎圣日耳曼",
@@ -411,14 +467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 294304,
-      "num": 294304,
-      "word": "9岁男孩瓶内放炮被扎30多块玻璃渣",
-      "onboard_time": 1674529764,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285705,
       "num": 285705,
       "word": "姥爷开吊车为孙女摘飞走的气球",
@@ -475,12 +523,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 259871,
-      "num": 259871,
-      "word": "女子带仙女棒进站被罚300",
-      "onboard_time": 1674530364,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 254286,
+      "num": 254286,
+      "word": "刘筱亭掰折宋木子合文俊的红缨枪",
+      "onboard_time": 1674533185,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 251419,
@@ -667,12 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180171,
-      "num": 180171,
-      "word": "大年初三为什么要睡懒觉",
-      "onboard_time": 1674530785,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 180888,
+      "num": 180888,
+      "word": "tangoz看交换人生的原因",
+      "onboard_time": 1674532587,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 180009,
@@ -731,12 +779,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152061,
+      "num": 152061,
+      "word": "深海 参宿的梦",
+      "onboard_time": 1674532350,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151801,
       "num": 151801,
       "word": "再见守望先锋",
       "onboard_time": 1674466045,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149370,
+      "num": 149370,
+      "word": "东北人有多爱旋酒",
+      "onboard_time": 1674532887,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 148023,
@@ -761,6 +825,14 @@
       "onboard_time": 1674518179,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139202,
+      "num": 139202,
+      "word": "今年过年你去相亲了吗",
+      "onboard_time": 1674531926,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 137379,
@@ -1096,6 +1168,9 @@
     },
     {
       "word": "#寻找家乡年味#"
+    },
+    {
+      "word": "#文化和旅游部再次提醒游客平安出游#"
     }
   ]
 }

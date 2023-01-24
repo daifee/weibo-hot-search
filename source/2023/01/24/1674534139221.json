@@ -1,0 +1,410 @@
+{
+  "runTime": 1674534139221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1772434,
+        "num": 1772434,
+        "word": "满江红票房超过流浪地球2",
+        "onboard_time": 1674530546,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1350451,
+        "num": 1350451,
+        "word": "大年初三为什么要睡懒觉",
+        "onboard_time": 1674530785,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 326876,
+        "num": 1247715,
+        "word": "正月初三睡到饱",
+        "onboard_time": 1674529226,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167535,
+        "num": 1167535,
+        "word": "道枝骏佑韩国机场图",
+        "onboard_time": 1674532285,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1007977,
+        "num": 1007977,
+        "word": "于正 先跟大家道个歉",
+        "onboard_time": 1674531805,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1007780,
+        "num": 1007780,
+        "word": "王一博回应无名卡车上的笑",
+        "onboard_time": 1674527005,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 692443,
+        "num": 692443,
+        "word": "光遇",
+        "onboard_time": 1674533185,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 681624,
+        "num": 681624,
+        "word": "流浪地球2票房破10亿",
+        "onboard_time": 1674528505,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 592124,
+        "num": 658521,
+        "word": "女子带仙女棒进站被罚300",
+        "onboard_time": 1674530364,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321691,
+        "num": 650538,
+        "word": "江西为天价彩礼降温",
+        "onboard_time": 1674522862,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1275926,
+        "num": 649090,
+        "word": "小伙8条内裤被偷现金1分没少",
+        "onboard_time": 1674530185,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645377,
+        "num": 645377,
+        "word": "宋轶看到张若昀吃鸡腿的反应",
+        "onboard_time": 1674528985,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607515,
+        "num": 607515,
+        "word": "满江红",
+        "onboard_time": 1674522085,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510548,
+        "num": 510548,
+        "word": "高启盛 疯批",
+        "onboard_time": 1674517998,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373556,
+        "num": 373556,
+        "word": "喝不上酒的交警女婿开始上班了",
+        "onboard_time": 1674526105,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347111,
+        "num": 347111,
+        "word": "兔系艺人图鉴",
+        "onboard_time": 1674521965,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337792,
+        "num": 337792,
+        "word": "9岁男孩瓶内放炮被扎30多块玻璃渣",
+        "onboard_time": 1674529764,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321566,
+        "num": 321566,
+        "word": "金智秀刘海",
+        "onboard_time": 1674522504,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 307335,
+        "num": 307335,
+        "word": "满江红我和我的塑料同事特辑",
+        "onboard_time": 1674527065,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256621,
+        "num": 256621,
+        "word": "为什么我们不愿意走亲戚了",
+        "onboard_time": 1674527905,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 827468,
+        "num": 255534,
+        "word": "94年女生被催婚不要彩礼倒贴2万",
+        "onboard_time": 1674528865,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439459,
+        "num": 254915,
+        "word": "湖南一94年女生被父亲酒桌催婚",
+        "onboard_time": 1674531864,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265242,
+        "num": 254674,
+        "word": "无名梁朝伟王一博王传君花絮",
+        "onboard_time": 1674529165,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254286,
+        "num": 254286,
+        "word": "刘筱亭掰折宋木子合文俊的红缨枪",
+        "onboard_time": 1674533185,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250617,
+        "num": 250617,
+        "word": "张颂文 角色魅力",
+        "onboard_time": 1674527905,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248284,
+        "num": 248284,
+        "word": "网易发布暴雪游戏退款公告",
+        "onboard_time": 1674515534,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231268,
+        "num": 231268,
+        "word": "张译称演得好坏未来由观众去评说",
+        "onboard_time": 1674526464,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227908,
+        "num": 227908,
+        "word": "男版许红豆照进现实",
+        "onboard_time": 1674530904,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216818,
+        "num": 216818,
+        "word": "原来古巨基KTV也点情歌王",
+        "onboard_time": 1674530305,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210401,
+        "num": 210401,
+        "word": "奶奶为3岁孙女缝出5个朝代汉服",
+        "onboard_time": 1674525445,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204027,
+        "num": 204027,
+        "word": "流浪地球",
+        "onboard_time": 1674525925,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201983,
+        "num": 201983,
+        "word": "山东一村2000人合拍全家福",
+        "onboard_time": 1674527725,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180888,
+        "num": 180888,
+        "word": "tangoz看交换人生的原因",
+        "onboard_time": 1674532587,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180259,
+        "num": 180259,
+        "word": "无名",
+        "onboard_time": 1674525147,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158260,
+        "num": 158260,
+        "word": "梅西无意与巴黎续约",
+        "onboard_time": 1674518298,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158080,
+        "num": 158080,
+        "word": "满江红实时票房破9亿",
+        "onboard_time": 1674526945,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156561,
+        "num": 156561,
+        "word": "moss 大boss",
+        "onboard_time": 1674517276,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152061,
+        "num": 152061,
+        "word": "深海 参宿的梦",
+        "onboard_time": 1674532350,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149370,
+        "num": 149370,
+        "word": "东北人有多爱旋酒",
+        "onboard_time": 1674532887,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143135,
+        "num": 143135,
+        "word": "你已断开连接",
+        "onboard_time": 1674519141,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145098,
+        "num": 142690,
+        "word": "张艺兴公司新公开三位练习生",
+        "onboard_time": 1674514573,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140943,
+        "num": 140943,
+        "word": "撒贝宁魏大勋是懂盛典互动的",
+        "onboard_time": 1674517037,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140421,
+        "num": 140421,
+        "word": "暴雪",
+        "onboard_time": 1674513493,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139202,
+        "num": 139202,
+        "word": "今年过年你去相亲了吗",
+        "onboard_time": 1674531926,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133096,
+        "num": 133096,
+        "word": "男子回家过年发现新房装了一套半",
+        "onboard_time": 1674528805,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128320,
+        "num": 128320,
+        "word": "金智秀公主风造型",
+        "onboard_time": 1674520944,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124067,
+        "num": 124067,
+        "word": "男孩偷用压岁钱给母亲买金项链",
+        "onboard_time": 1674526825,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121434,
+        "num": 121434,
+        "word": "春节假期最冷的一天",
+        "onboard_time": 1674525983,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120977,
+        "num": 120977,
+        "word": "谢之遥给许红豆写的道歉信",
+        "onboard_time": 1674529403,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109206,
+        "num": 109206,
+        "word": "八村垒被交易到湖人",
+        "onboard_time": 1674516857,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化和旅游部再次提醒游客平安出游#"
+    }
+  }
+}
