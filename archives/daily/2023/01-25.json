@@ -1,6 +1,6 @@
 {
   "startTime": 1674577564806,
-  "endTime": 1674596014767,
+  "endTime": 1674598639972,
   "band_list": [
     {
       "raw_hot": 2034303,
@@ -395,6 +395,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 113659,
+      "num": 50927,
+      "word": "网红烟花加特林威力有多大",
+      "onboard_time": 1674594072,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110759,
       "num": 110759,
       "word": "成家之前还是得先搞钱",
@@ -443,12 +451,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 45176,
-      "num": 44129,
-      "word": "网红烟花加特林威力有多大",
-      "onboard_time": 1674594072,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 57776,
+      "num": 57776,
+      "word": "沙溢演技",
+      "onboard_time": 1674593530,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 39389,
@@ -457,14 +465,6 @@
       "onboard_time": 1674589451,
       "rank": 18,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 36227,
-      "num": 36227,
-      "word": "沙溢演技",
-      "onboard_time": 1674593530,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 33457,
@@ -483,8 +483,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 16041,
-      "num": 16041,
+      "raw_hot": 22837,
+      "num": 22837,
       "word": "江疏影无名红旗袍造型",
       "onboard_time": 1674595510,
       "rank": 44,
