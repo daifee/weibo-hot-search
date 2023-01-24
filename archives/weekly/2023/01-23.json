@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674537396655,
+  "endTime": 1674538413409,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -91,20 +91,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1317521,
+      "num": 1192793,
+      "word": "于正 先跟大家道个歉",
+      "onboard_time": 1674531805,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1314173,
       "num": 1314173,
       "word": "炉石传说",
       "onboard_time": 1674486151,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1295136,
-      "num": 1192793,
-      "word": "于正 先跟大家道个歉",
-      "onboard_time": 1674531805,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1277741,
@@ -619,6 +619,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 506098,
+      "num": 473675,
+      "word": "路人镜头下的田曦薇",
+      "onboard_time": 1674534625,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504847,
       "num": 504847,
       "word": "金智秀公主风造型",
@@ -673,14 +681,6 @@
       "onboard_time": 1674525445,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 473675,
-      "num": 473675,
-      "word": "路人镜头下的田曦薇",
-      "onboard_time": 1674534625,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 473631,
@@ -760,6 +760,14 @@
       "word": "张译称演得好坏未来由观众去评说",
       "onboard_time": 1674526464,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 439727,
+      "num": 439727,
+      "word": "电影无名名场面",
+      "onboard_time": 1674534867,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1091,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349245,
+      "num": 349245,
+      "word": "满江红局中局芭莎大片",
+      "onboard_time": 1674537806,
+      "rank": 16,
+      "category": "影视,时尚"
+    },
+    {
       "raw_hot": 346848,
       "num": 346848,
       "word": "哈尔滨的冰雕太雄伟了",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1674456443,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325512,
-      "num": 325512,
-      "word": "电影无名名场面",
-      "onboard_time": 1674534867,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 324783,
@@ -2115,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172191,
+      "num": 172191,
+      "word": "男子争吵后徒步300公里回家走反了",
+      "onboard_time": 1674536365,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169067,
       "num": 169067,
       "word": "韩红谈为满江红配乐的契机",
@@ -2307,6 +2323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153403,
+      "num": 370605,
+      "word": "仙舟罗浮",
+      "onboard_time": 1674536426,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153307,
       "num": 153307,
       "word": "一支MV混剪7部春节档影片",
@@ -2369,6 +2393,14 @@
       "onboard_time": 1674525024,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145425,
+      "num": 145425,
+      "word": "年初三被快递封门是什么体验",
+      "onboard_time": 1674537925,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 144954,
@@ -2515,14 +2547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135229,
-      "num": 339999,
-      "word": "仙舟罗浮",
-      "onboard_time": 1674536426,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 134630,
       "num": 134630,
       "word": "湖人vs开拓者",
@@ -2595,6 +2619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128373,
+      "num": 128373,
+      "word": "过年期间吃多了怎么办",
+      "onboard_time": 1674538106,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127953,
       "num": 127953,
       "word": "兔耳朵",
@@ -2627,6 +2659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125810,
+      "num": 125810,
+      "word": "林家川刀哥出狱",
+      "onboard_time": 1674535346,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125108,
       "num": 125108,
       "word": "刘耀文唱的Monica",
@@ -2649,14 +2689,6 @@
       "onboard_time": 1674524966,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 121565,
-      "num": 121565,
-      "word": "林家川刀哥出狱",
-      "onboard_time": 1674535346,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 121280,
@@ -2753,6 +2785,14 @@
       "onboard_time": 1674452364,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 111970,
+      "num": 111970,
+      "word": "最不该存在的游戏功能",
+      "onboard_time": 1674538285,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 108306,
