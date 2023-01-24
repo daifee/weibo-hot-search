@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674594957216,
+  "endTime": 1674596014767,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -4355,6 +4355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45176,
+      "num": 44129,
+      "word": "网红烟花加特林威力有多大",
+      "onboard_time": 1674594072,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39389,
       "num": 39389,
       "word": "10个月宝宝跌下台阶大姨飞身接住",
@@ -4387,6 +4395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 36227,
+      "num": 36227,
+      "word": "沙溢演技",
+      "onboard_time": 1674593530,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 33860,
       "num": 33860,
       "word": "流浪地球 人工智能",
@@ -4409,14 +4425,6 @@
       "onboard_time": 1674391589,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26369,
-      "num": 26369,
-      "word": "沙溢演技",
-      "onboard_time": 1674593530,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 25803,
@@ -4443,20 +4451,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22602,
-      "num": 22602,
-      "word": "网红烟花加特林威力有多大",
-      "onboard_time": 1674594072,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18253,
       "num": 18757,
       "word": "杨迪演见钱眼开好像我本人",
       "onboard_time": 1674416833,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16041,
+      "num": 16041,
+      "word": "江疏影无名红旗袍造型",
+      "onboard_time": 1674595510,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 14482,
