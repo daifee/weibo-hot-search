@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674581614324,
+  "endTime": 1674584539786,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -1201,6 +1201,14 @@
       "onboard_time": 1674548663,
       "rank": 30,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 441393,
+      "num": 441393,
+      "word": "大年初三不外出",
+      "onboard_time": 1674580160,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439727,
@@ -3401,14 +3409,6 @@
       "onboard_time": 1674539783,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 150826,
-      "num": 150826,
-      "word": "大年初三不外出",
-      "onboard_time": 1674580160,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149912,
