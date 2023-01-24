@@ -1,0 +1,410 @@
+{
+  "runTime": 1674564859328,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1978904,
+        "num": 1978904,
+        "word": "吴磊 芬兰",
+        "onboard_time": 1674560906,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1309949,
+        "num": 1309949,
+        "word": "无名票房",
+        "onboard_time": 1674551244,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124863,
+        "num": 1013823,
+        "word": "压岁钱有哪些好寓意",
+        "onboard_time": 1674555987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1320387,
+        "num": 1008274,
+        "word": "吴磊赵今麦 进组",
+        "onboard_time": 1674562048,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 998583,
+        "num": 998583,
+        "word": "胖虎晒易烊千玺给女儿的to签",
+        "onboard_time": 1674559526,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 983458,
+        "num": 983458,
+        "word": "狂飙",
+        "onboard_time": 1674560607,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 546093,
+        "num": 546093,
+        "word": "李雪健 定海神针",
+        "onboard_time": 1674560488,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353029,
+        "num": 353029,
+        "word": "女生喊一声哥16个哥哥齐声回应",
+        "onboard_time": 1674555387,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303636,
+        "num": 303636,
+        "word": "离家的全国统一仪式是拔充电器",
+        "onboard_time": 1674556947,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292441,
+        "num": 292441,
+        "word": "打铁花是属于中式的浪漫",
+        "onboard_time": 1674559886,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 446883,
+        "num": 292176,
+        "word": "流浪地球 数字生命",
+        "onboard_time": 1674561389,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403591,
+        "num": 288663,
+        "word": "满江红",
+        "onboard_time": 1674522085,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402506,
+        "num": 287219,
+        "word": "刘德华演技",
+        "onboard_time": 1674560607,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386192,
+        "num": 284867,
+        "word": "满江红票房",
+        "onboard_time": 1674559886,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352181,
+        "num": 283284,
+        "word": "希林娜依高在逃公主红毯造型",
+        "onboard_time": 1674559408,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 335091,
+        "num": 281193,
+        "word": "五十岁以上的 出列",
+        "onboard_time": 1674562405,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280726,
+        "num": 280726,
+        "word": "原味肥肠",
+        "onboard_time": 1674561567,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 267458,
+        "num": 267458,
+        "word": "今年为啥有两个二月",
+        "onboard_time": 1674561927,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 254790,
+        "num": 254790,
+        "word": "无法拒绝金毛的撒娇",
+        "onboard_time": 1674562350,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 198365,
+        "num": 198365,
+        "word": "世界上唯一女性文字",
+        "onboard_time": 1674548245,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317372,
+        "num": 198137,
+        "word": "王宝强回村过年对求合影村民来者不拒",
+        "onboard_time": 1674551064,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303590,
+        "num": 196478,
+        "word": "流浪地球2票房",
+        "onboard_time": 1674563488,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285396,
+        "num": 195064,
+        "word": "网络视听盛典明星工作室出图",
+        "onboard_time": 1674562827,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281285,
+        "num": 192679,
+        "word": "杨幂蓝色短发",
+        "onboard_time": 1674541763,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266995,
+        "num": 191960,
+        "word": "张艺兴说渤哥新剧大年初三一起开始",
+        "onboard_time": 1674564268,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256087,
+        "num": 189276,
+        "word": "盗摄",
+        "onboard_time": 1674553944,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 787994,
+        "num": 188245,
+        "word": "江西东乡全员核酸为统计阳性感染率",
+        "onboard_time": 1674561806,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187163,
+        "num": 187163,
+        "word": "韩国阴历新年引争议",
+        "onboard_time": 1674546204,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160361,
+        "num": 160361,
+        "word": "妈妈为省事用旧床单当厨房地垫",
+        "onboard_time": 1674562948,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159169,
+        "num": 159169,
+        "word": "过年砂糖橘吃不完怎么办",
+        "onboard_time": 1674552385,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 226986,
+        "num": 158584,
+        "word": "深海后劲好大",
+        "onboard_time": 1674561027,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162417,
+        "num": 158210,
+        "word": "安欣 轴",
+        "onboard_time": 1674563667,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162340,
+        "num": 158120,
+        "word": "王一博说对比梁朝伟有了很大压力",
+        "onboard_time": 1674551483,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157051,
+        "num": 157051,
+        "word": "西安市民喊话把景点让给外地游客",
+        "onboard_time": 1674553766,
+        "rank": 33,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 156667,
+        "num": 156667,
+        "word": "媒婆的嘴有多敢说",
+        "onboard_time": 1674555866,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 155213,
+        "num": 155213,
+        "word": "全军复诵",
+        "onboard_time": 1674551483,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137560,
+        "num": 137560,
+        "word": "王鹤棣国风黑金西装造型",
+        "onboard_time": 1674551365,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132987,
+        "num": 132987,
+        "word": "如何评价无名中王一博的演技",
+        "onboard_time": 1674560785,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129801,
+        "num": 129801,
+        "word": "麻辣兔头销量飙升",
+        "onboard_time": 1674554965,
+        "rank": 38,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 128006,
+        "num": 128006,
+        "word": "5旬匠人1600度铁水赤膊打铁花",
+        "onboard_time": 1674558209,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127721,
+        "num": 127721,
+        "word": "doja cat",
+        "onboard_time": 1674552984,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 124177,
+        "num": 124177,
+        "word": "不要轻易点开李荣浩的微博",
+        "onboard_time": 1674548663,
+        "rank": 41,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 113554,
+        "num": 113554,
+        "word": "山东一私家车贴日本军旗被举报",
+        "onboard_time": 1674543084,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111704,
+        "num": 111704,
+        "word": "当小朋友有了压岁钱",
+        "onboard_time": 1674563128,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 105519,
+        "num": 105519,
+        "word": "大年初三为什么要睡懒觉",
+        "onboard_time": 1674530785,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97189,
+        "num": 97189,
+        "word": "高启强妹妹去哪了",
+        "onboard_time": 1674549084,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95152,
+        "num": 95152,
+        "word": "Angelababy说渤哥贺岁大剧追起",
+        "onboard_time": 1674553227,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84861,
+        "num": 84861,
+        "word": "中国乒乓",
+        "onboard_time": 1674539783,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82141,
+        "num": 82141,
+        "word": "小男孩套圈套中女娃妈妈开心坏了",
+        "onboard_time": 1674553944,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75266,
+        "num": 75266,
+        "word": "网友晒杨幂古早海报",
+        "onboard_time": 1674544764,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#初三年俗活动指南#"
+    }
+  }
+}
