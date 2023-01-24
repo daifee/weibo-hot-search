@@ -1,0 +1,410 @@
+{
+  "runTime": 1674530393053,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1319344,
+        "num": 1319344,
+        "word": "王一博回应无名卡车上的笑",
+        "onboard_time": 1674527005,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1075990,
+        "num": 1075990,
+        "word": "喝不上酒的交警女婿开始上班了",
+        "onboard_time": 1674526105,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 480068,
+        "num": 952560,
+        "word": "正月初三睡到饱",
+        "onboard_time": 1674529226,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844567,
+        "num": 844567,
+        "word": "满江红",
+        "onboard_time": 1674522085,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 808943,
+        "num": 808943,
+        "word": "宋轶看到张若昀吃鸡腿的反应",
+        "onboard_time": 1674528985,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 743584,
+        "num": 743584,
+        "word": "江西为天价彩礼降温",
+        "onboard_time": 1674522862,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719261,
+        "num": 719261,
+        "word": "流浪地球2票房破10亿",
+        "onboard_time": 1674528505,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 644261,
+        "num": 644261,
+        "word": "暴雪",
+        "onboard_time": 1674513493,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 612580,
+        "num": 612580,
+        "word": "满江红我和我的塑料同事特辑",
+        "onboard_time": 1674527065,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477047,
+        "num": 583588,
+        "word": "奶奶为3岁孙女缝出5个朝代汉服",
+        "onboard_time": 1674525445,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863559,
+        "num": 580889,
+        "word": "94年女生被催婚不要彩礼倒贴2万",
+        "onboard_time": 1674528865,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569316,
+        "num": 569316,
+        "word": "高启盛 疯批",
+        "onboard_time": 1674517998,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483291,
+        "num": 483291,
+        "word": "兔系艺人图鉴",
+        "onboard_time": 1674521965,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449135,
+        "num": 449135,
+        "word": "张译称演得好坏未来由观众去评说",
+        "onboard_time": 1674526464,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401210,
+        "num": 401210,
+        "word": "金智秀刘海",
+        "onboard_time": 1674522504,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372971,
+        "num": 372971,
+        "word": "男孩偷用压岁钱给母亲买金项链",
+        "onboard_time": 1674526825,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372451,
+        "num": 372451,
+        "word": "网易发布暴雪游戏退款公告",
+        "onboard_time": 1674515534,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 353632,
+        "num": 353632,
+        "word": "张颂文 角色魅力",
+        "onboard_time": 1674527905,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334247,
+        "num": 334247,
+        "word": "为什么我们不愿意走亲戚了",
+        "onboard_time": 1674527905,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321602,
+        "num": 321602,
+        "word": "山东一村2000人合拍全家福",
+        "onboard_time": 1674527725,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424088,
+        "num": 315155,
+        "word": "无名梁朝伟王一博王传君花絮",
+        "onboard_time": 1674529165,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296023,
+        "num": 296023,
+        "word": "张艺兴公司新公开三位练习生",
+        "onboard_time": 1674514573,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263798,
+        "num": 263798,
+        "word": "撒贝宁魏大勋是懂盛典互动的",
+        "onboard_time": 1674517037,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257719,
+        "num": 257719,
+        "word": "无名",
+        "onboard_time": 1674525147,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248488,
+        "num": 248488,
+        "word": "满江红实时票房破9亿",
+        "onboard_time": 1674526945,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247415,
+        "num": 247415,
+        "word": "你今天睡饱了吗",
+        "onboard_time": 1674526464,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242680,
+        "num": 242680,
+        "word": "外国女婿回村过年被烟花吵醒",
+        "onboard_time": 1674517037,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214721,
+        "num": 214721,
+        "word": "卡塞勒0比7巴黎圣日耳曼",
+        "onboard_time": 1674524547,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210483,
+        "num": 210483,
+        "word": "梅西无意与巴黎续约",
+        "onboard_time": 1674518298,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206549,
+        "num": 206549,
+        "word": "春节假期最冷的一天",
+        "onboard_time": 1674525983,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204842,
+        "num": 204842,
+        "word": "金智秀公主风造型",
+        "onboard_time": 1674520944,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202862,
+        "num": 202862,
+        "word": "正月初三有哪些年俗",
+        "onboard_time": 1674521364,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199585,
+        "num": 199585,
+        "word": "谢之遥给许红豆写的道歉信",
+        "onboard_time": 1674529403,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195713,
+        "num": 195713,
+        "word": "男子回家过年发现新房装了一套半",
+        "onboard_time": 1674528805,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195111,
+        "num": 195111,
+        "word": "你已断开连接",
+        "onboard_time": 1674519141,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193954,
+        "num": 193954,
+        "word": "张艺谋说沈腾是一颗珍珠",
+        "onboard_time": 1674517639,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189568,
+        "num": 189568,
+        "word": "陈哲远怕挤到粉丝把手撑到车窗上",
+        "onboard_time": 1674522321,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187547,
+        "num": 187547,
+        "word": "流浪地球",
+        "onboard_time": 1674525925,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186277,
+        "num": 186277,
+        "word": "导演付宁去世",
+        "onboard_time": 1674482967,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181587,
+        "num": 181587,
+        "word": "9岁男孩瓶内放炮被扎30多块玻璃渣",
+        "onboard_time": 1674529764,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179400,
+        "num": 179400,
+        "word": "moss 大boss",
+        "onboard_time": 1674517276,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173866,
+        "num": 173866,
+        "word": "原来古巨基KTV也点情歌王",
+        "onboard_time": 1674530305,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169723,
+        "num": 169723,
+        "word": "八村垒被交易到湖人",
+        "onboard_time": 1674516857,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163916,
+        "num": 163916,
+        "word": "王一博说拍无名是人生压力最大时刻",
+        "onboard_time": 1674527005,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155771,
+        "num": 155771,
+        "word": "春节档电影票房破30亿元",
+        "onboard_time": 1674526347,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137877,
+        "num": 137877,
+        "word": "水母烟花",
+        "onboard_time": 1674514634,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123389,
+        "num": 123389,
+        "word": "小伙8条内裤被偷现金1分没少",
+        "onboard_time": 1674530185,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120629,
+        "num": 120629,
+        "word": "北京玉渊潭2株早樱绽放",
+        "onboard_time": 1674523345,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118589,
+        "num": 118589,
+        "word": "女子带仙女棒进站被罚300",
+        "onboard_time": 1674530364,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116657,
+        "num": 116657,
+        "word": "暴雪国服游戏停服",
+        "onboard_time": 1674515835,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#初三年俗活动指南#"
+    }
+  }
+}

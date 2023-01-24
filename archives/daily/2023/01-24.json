@@ -1,6 +1,6 @@
 {
   "startTime": 1674491158294,
-  "endTime": 1674528614138,
+  "endTime": 1674530393053,
   "band_list": [
     {
       "raw_hot": 1383955,
@@ -9,6 +9,14 @@
       "onboard_time": 1674522862,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1319344,
+      "num": 1319344,
+      "word": "王一博回应无名卡车上的笑",
+      "onboard_time": 1674527005,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1314173,
@@ -27,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1075990,
+      "num": 1075990,
+      "word": "喝不上酒的交警女婿开始上班了",
+      "onboard_time": 1674526105,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1056650,
       "num": 1056650,
       "word": "暴雪",
@@ -35,12 +51,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 930195,
-      "num": 930195,
-      "word": "王一博回应无名卡车上的笑",
-      "onboard_time": 1674527005,
-      "rank": 1,
-      "category": "影视"
+      "raw_hot": 863559,
+      "num": 580889,
+      "word": "94年女生被催婚不要彩礼倒贴2万",
+      "onboard_time": 1674528865,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 852335,
@@ -48,6 +64,14 @@
       "word": "高启盛 疯批",
       "onboard_time": 1674517998,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 844567,
+      "num": 844567,
+      "word": "满江红",
+      "onboard_time": 1674435447,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -59,20 +83,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 780141,
-      "num": 780141,
-      "word": "满江红",
-      "onboard_time": 1674435447,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 760839,
-      "num": 760839,
-      "word": "喝不上酒的交警女婿开始上班了",
-      "onboard_time": 1674526105,
-      "rank": 7,
-      "category": "情感"
+      "raw_hot": 808943,
+      "num": 808943,
+      "word": "宋轶看到张若昀吃鸡腿的反应",
+      "onboard_time": 1674528985,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 743551,
@@ -97,6 +113,14 @@
       "onboard_time": 1674490167,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 719261,
+      "num": 719261,
+      "word": "流浪地球2票房破10亿",
+      "onboard_time": 1674528505,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 716222,
@@ -164,10 +188,18 @@
     },
     {
       "raw_hot": 487044,
-      "num": 558145,
+      "num": 583588,
       "word": "奶奶为3岁孙女缝出5个朝代汉服",
       "onboard_time": 1674525445,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480068,
+      "num": 952560,
+      "word": "正月初三睡到饱",
+      "onboard_time": 1674529226,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -177,6 +209,14 @@
       "onboard_time": 1674515534,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 449135,
+      "num": 449135,
+      "word": "张译称演得好坏未来由观众去评说",
+      "onboard_time": 1674526464,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 447492,
@@ -192,6 +232,14 @@
       "word": "张译李一桐吻戏",
       "onboard_time": 1674481048,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 424088,
+      "num": 315155,
+      "word": "无名梁朝伟王一博王传君花絮",
+      "onboard_time": 1674529165,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -227,12 +275,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 387687,
-      "num": 387687,
-      "word": "张译称演得好坏未来由观众去评说",
-      "onboard_time": 1674526464,
-      "rank": 24,
-      "category": "影视"
+      "raw_hot": 372971,
+      "num": 372971,
+      "word": "男孩偷用压岁钱给母亲买金项链",
+      "onboard_time": 1674526825,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358477,
@@ -259,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 353632,
+      "num": 353632,
+      "word": "张颂文 角色魅力",
+      "onboard_time": 1674527905,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 353429,
       "num": 353429,
       "word": "瑶琴",
@@ -275,12 +331,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 320651,
-      "num": 320651,
-      "word": "张颂文 角色魅力",
+      "raw_hot": 334247,
+      "num": 334247,
+      "word": "为什么我们不愿意走亲戚了",
       "onboard_time": 1674527905,
-      "rank": 27,
-      "category": "影视"
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 321602,
+      "num": 321602,
+      "word": "山东一村2000人合拍全家福",
+      "onboard_time": 1674527725,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316293,
@@ -331,27 +395,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 286888,
-      "num": 286888,
-      "word": "流浪地球2票房破10亿",
-      "onboard_time": 1674528505,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 285705,
       "num": 285705,
       "word": "姥爷开吊车为孙女摘飞走的气球",
       "onboard_time": 1674521125,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284904,
-      "num": 284904,
-      "word": "男孩偷用压岁钱给母亲买金项链",
-      "onboard_time": 1674526825,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -467,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214950,
-      "num": 214950,
-      "word": "山东一村2000人合拍全家福",
-      "onboard_time": 1674527725,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213184,
       "num": 176743,
       "word": "王一博无名广州路演状态",
@@ -499,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199585,
+      "num": 199585,
+      "word": "谢之遥给许红豆写的道歉信",
+      "onboard_time": 1674529403,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198432,
       "num": 198432,
       "word": "大年初三",
@@ -513,6 +561,14 @@
       "onboard_time": 1674523765,
       "rank": 37,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 195713,
+      "num": 195713,
+      "word": "男子回家过年发现新房装了一套半",
+      "onboard_time": 1674528805,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195409,
@@ -563,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181587,
+      "num": 181587,
+      "word": "9岁男孩瓶内放炮被扎30多块玻璃渣",
+      "onboard_time": 1674529764,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180009,
       "num": 180009,
       "word": "儿子不回家过年母亲仍守在路口张望",
@@ -595,20 +659,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173866,
+      "num": 173866,
+      "word": "原来古巨基KTV也点情歌王",
+      "onboard_time": 1674530305,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163586,
       "num": 163586,
       "word": "2老人不顾烟花燃放抢烟花箱卖钱",
       "onboard_time": 1674485429,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161939,
-      "num": 161939,
-      "word": "为什么我们不愿意走亲戚了",
-      "onboard_time": 1674527905,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 158551,
@@ -699,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123389,
+      "num": 123389,
+      "word": "小伙8条内裤被偷现金1分没少",
+      "onboard_time": 1674530185,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122889,
       "num": 122889,
       "word": "再见艾泽拉斯",
@@ -721,6 +793,14 @@
       "onboard_time": 1674487289,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118589,
+      "num": 118589,
+      "word": "女子带仙女棒进站被罚300",
+      "onboard_time": 1674530364,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108650,
@@ -978,6 +1058,9 @@
     },
     {
       "word": "#2023网络视听年度盛典节目单#"
+    },
+    {
+      "word": "#初三年俗活动指南#"
     }
   ]
 }
