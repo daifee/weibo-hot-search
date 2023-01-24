@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674516813573,
+  "endTime": 1674524207418,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -4515,6 +4515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1196285,
+      "num": 1196285,
+      "word": "导演付宁去世",
+      "onboard_time": 1674482967,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1195048,
       "num": 1195048,
       "word": "杨紫朋友圈是搞怪女",
@@ -5955,6 +5963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1010943,
+      "num": 1010943,
+      "word": "暴雪",
+      "onboard_time": 1674440786,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1010804,
       "num": 1010804,
       "word": "超前的审美 简直是降维打击",
@@ -6777,14 +6793,6 @@
       "onboard_time": 1673270972,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 929590,
-      "num": 929590,
-      "word": "导演付宁去世",
-      "onboard_time": 1674482967,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 929262,
@@ -7912,6 +7920,14 @@
       "word": "狂飙第一个内鬼",
       "onboard_time": 1674041249,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 852335,
+      "num": 852335,
+      "word": "高启盛 疯批",
+      "onboard_time": 1674517998,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -9715,6 +9731,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 743551,
+      "num": 743551,
+      "word": "外国女婿回村过年被烟花吵醒",
+      "onboard_time": 1674517037,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 742013,
       "num": 649313,
       "word": "网传肖战任敏玉骨遥暂定Q1播出",
@@ -10987,6 +11011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 679438,
+      "num": 679438,
+      "word": "江西为天价彩礼降温",
+      "onboard_time": 1674522862,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 679434,
       "num": 679434,
       "word": "北京下雪",
@@ -11528,6 +11560,14 @@
       "word": "张婉婷 情绪",
       "onboard_time": 1672752691,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 655714,
+      "num": 655714,
+      "word": "撒贝宁魏大勋是懂盛典互动的",
+      "onboard_time": 1674517037,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -13331,6 +13371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 589118,
+      "num": 589118,
+      "word": "张艺兴公司新公开三位练习生",
+      "onboard_time": 1674514573,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 588931,
       "num": 588931,
       "word": "重庆6元一份的洋芋凉面",
@@ -14017,6 +14065,14 @@
       "onboard_time": 1673329110,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 569798,
+      "num": 569798,
+      "word": "兔系艺人图鉴",
+      "onboard_time": 1674521965,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 569606,
@@ -16499,6 +16555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 504847,
+      "num": 504847,
+      "word": "金智秀公主风造型",
+      "onboard_time": 1674520944,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 504466,
       "num": 471702,
       "word": "无名上映首日打破2项纪录",
@@ -16777,14 +16841,6 @@
       "onboard_time": 1674192085,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 498528,
-      "num": 498528,
-      "word": "暴雪",
-      "onboard_time": 1674440786,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 498292,
@@ -17793,6 +17849,14 @@
       "onboard_time": 1674403226,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 471288,
+      "num": 471288,
+      "word": "正月初三有哪些年俗",
+      "onboard_time": 1674521364,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 471284,
@@ -18819,6 +18883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 450055,
+      "num": 450055,
+      "word": "网易发布暴雪游戏退款公告",
+      "onboard_time": 1674515534,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 449959,
       "num": 238909,
       "word": "刘耀文对你爱不完舞台预告",
@@ -19561,6 +19633,14 @@
       "onboard_time": 1672919012,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 433607,
+      "num": 433607,
+      "word": "金智秀刘海",
+      "onboard_time": 1674522504,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 433506,
@@ -20529,6 +20609,14 @@
       "onboard_time": 1672543053,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 413833,
+      "num": 413833,
+      "word": "梅西无意与巴黎续约",
+      "onboard_time": 1674518298,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 413754,
@@ -21928,6 +22016,14 @@
       "word": "TTG官宣阿豆加入",
       "onboard_time": 1673950467,
       "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 391839,
+      "num": 391839,
+      "word": "你已断开连接",
+      "onboard_time": 1674519141,
+      "rank": 15,
       "category": "游戏"
     },
     {
@@ -24537,6 +24633,14 @@
       "onboard_time": 1673438858,
       "rank": 17,
       "category": "幽默,网红"
+    },
+    {
+      "raw_hot": 353429,
+      "num": 353429,
+      "word": "瑶琴",
+      "onboard_time": 1674519261,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 353425,
@@ -30411,6 +30515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 285705,
+      "num": 285705,
+      "word": "姥爷开吊车为孙女摘飞走的气球",
+      "onboard_time": 1674521125,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285696,
       "num": 136390,
       "word": "中国电视剧年度盛典",
@@ -31523,6 +31635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275662,
+      "num": 275662,
+      "word": "moss 大boss",
+      "onboard_time": 1674517276,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275612,
       "num": 275612,
       "word": "张译张颂文狂飙豆瓣8.7分",
@@ -31617,14 +31737,6 @@
       "onboard_time": 1673419949,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 275099,
-      "num": 275099,
-      "word": "张艺兴公司新公开三位练习生",
-      "onboard_time": 1674514573,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 275098,
@@ -32489,6 +32601,14 @@
       "onboard_time": 1672840593,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 269013,
+      "num": 269013,
+      "word": "陈哲远怕挤到粉丝把手撑到车窗上",
+      "onboard_time": 1674522321,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 268880,
@@ -34427,6 +34547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251419,
+      "num": 251419,
+      "word": "金晨主持状态",
+      "onboard_time": 1674518539,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251381,
       "num": 251381,
       "word": "希林娜依高唱三体战歌",
@@ -35585,14 +35713,6 @@
       "onboard_time": 1674047129,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 241789,
-      "num": 58608,
-      "word": "网易发布暴雪游戏退款公告",
-      "onboard_time": 1674515534,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 241733,
@@ -38115,6 +38235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217284,
+      "num": 217284,
+      "word": "八村垒被交易到湖人",
+      "onboard_time": 1674516857,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217172,
       "num": 217172,
       "word": "詹姆斯全明星第2轮票王",
@@ -40411,6 +40539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198432,
+      "num": 198432,
+      "word": "大年初三",
+      "onboard_time": 1674516556,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198335,
       "num": 198335,
       "word": "过年给爸妈换手机是什么体验",
@@ -40568,6 +40704,14 @@
       "word": "戴燕妮说叶若依是事业粉",
       "onboard_time": 1673369245,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197347,
+      "num": 197347,
+      "word": "张艺谋说沈腾是一颗珍珠",
+      "onboard_time": 1674517639,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -41611,6 +41755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190433,
+      "num": 190433,
+      "word": "为何拜年反成一种负担",
+      "onboard_time": 1674520102,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190423,
       "num": 190423,
       "word": "寒潮蓝色预警今日继续发布",
@@ -41883,6 +42035,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 188649,
+      "num": 188649,
+      "word": "暴雪国服游戏停服",
+      "onboard_time": 1674515835,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188605,
       "num": 166895,
       "word": "戴燕妮叶若依人设",
@@ -42105,6 +42265,14 @@
       "onboard_time": 1673311889,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 187673,
+      "num": 187673,
+      "word": "漠河究竟有多冷",
+      "onboard_time": 1674517639,
+      "rank": 30,
+      "category": "旅游,自然"
     },
     {
       "raw_hot": 187567,
@@ -46707,6 +46875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158551,
+      "num": 158551,
+      "word": "他们从未想过结局会是如此",
+      "onboard_time": 1674520041,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158533,
       "num": 147142,
       "word": "三体评分8.0你觉得合理吗",
@@ -48043,6 +48219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148023,
+      "num": 148023,
+      "word": "40岁男子给8岁小孩磕头拜年",
+      "onboard_time": 1674492562,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147964,
       "num": 160386,
       "word": "这样的老丈人要不要拜把子",
@@ -48827,6 +49011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142305,
+      "num": 142305,
+      "word": "北京玉渊潭2株早樱绽放",
+      "onboard_time": 1674523345,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142303,
       "num": 133335,
       "word": "去有风的地方演网文作者现状",
@@ -49347,6 +49539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139109,
+      "num": 139109,
+      "word": "满江红人均800个心眼子",
+      "onboard_time": 1674518179,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138996,
       "num": 138996,
       "word": "做过最享受的美甲",
@@ -49409,6 +49609,14 @@
       "onboard_time": 1673027118,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138734,
+      "num": 138734,
+      "word": "医生除夕夜驱车200公里返院救人",
+      "onboard_time": 1674523765,
+      "rank": 37,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 138731,
@@ -51259,6 +51467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125108,
+      "num": 125108,
+      "word": "刘耀文唱的Monica",
+      "onboard_time": 1674517457,
+      "rank": 38,
+      "category": "综艺,音乐"
+    },
+    {
       "raw_hot": 125071,
       "num": 125071,
       "word": "用数字3画一只小兔子",
@@ -51857,14 +52073,6 @@
       "onboard_time": 1673196502,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 120930,
-      "num": 120930,
-      "word": "暴雪国服游戏停服",
-      "onboard_time": 1674515835,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 120881,
@@ -53539,14 +53747,6 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 107305,
-      "num": 107305,
-      "word": "大年初三",
-      "onboard_time": 1674516556,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 107272,
       "num": 107272,
       "word": "曼城4比2热刺",
@@ -53649,6 +53849,14 @@
       "onboard_time": 1673237429,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106776,
+      "num": 106776,
+      "word": "动画师为深海付出了太多",
+      "onboard_time": 1674524066,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 106766,
@@ -54011,6 +54219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103318,
+      "num": 103318,
+      "word": "守望先锋停服",
+      "onboard_time": 1674519021,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103286,
       "num": 187333,
       "word": "兔年有哪些好用的祝福词",
@@ -54201,14 +54417,6 @@
       "onboard_time": 1673786971,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 101790,
-      "num": 101790,
-      "word": "40岁男子给8岁小孩磕头拜年",
-      "onboard_time": 1674492562,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101767,
