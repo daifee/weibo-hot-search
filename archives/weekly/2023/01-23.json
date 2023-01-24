@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674599599329,
+  "endTime": 1674602290270,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -2651,6 +2651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211243,
+      "num": 211243,
+      "word": "网红烟花加特林威力有多大",
+      "onboard_time": 1674594072,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210904,
       "num": 210904,
       "word": "小朋友领压岁钱名场面",
@@ -3587,14 +3595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139896,
-      "num": 53554,
-      "word": "网红烟花加特林威力有多大",
-      "onboard_time": 1674594072,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139769,
       "num": 139769,
       "word": "如何评价无名中王一博的演技",
@@ -3777,6 +3777,14 @@
       "onboard_time": 1674545784,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126921,
+      "num": 126921,
+      "word": "初四",
+      "onboard_time": 1674601874,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 126021,
@@ -4283,11 +4291,27 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 67757,
+      "num": 48866,
+      "word": "大年初四接灶王",
+      "onboard_time": 1674602115,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 65820,
       "num": 65820,
       "word": "满江红实时票房破5亿",
       "onboard_time": 1674466344,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 65747,
+      "num": 65747,
+      "word": "张译演的何立",
+      "onboard_time": 1674601874,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -4371,12 +4395,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39389,
-      "num": 39389,
+      "raw_hot": 48295,
+      "num": 48295,
       "word": "10个月宝宝跌下台阶大姨飞身接住",
       "onboard_time": 1674589451,
       "rank": 18,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 47676,
+      "num": 47676,
+      "word": "张小斐说让杨迪把她设计成跨的封面",
+      "onboard_time": 1674588973,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 46044,
+      "num": 46044,
+      "word": "江疏影无名红旗袍造型",
+      "onboard_time": 1674595510,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 38922,
@@ -4393,14 +4433,6 @@
       "onboard_time": 1674489148,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 37825,
-      "num": 37825,
-      "word": "江疏影无名红旗袍造型",
-      "onboard_time": 1674595510,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 37324,
@@ -4427,20 +4459,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 32407,
+      "num": 32407,
+      "word": "门框上的身高标线是爱和成长的记号",
+      "onboard_time": 1674602175,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27755,
       "num": 24969,
       "word": "周深好忙",
       "onboard_time": 1674391589,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26004,
-      "num": 26004,
-      "word": "张小斐说让杨迪把她设计成跨的封面",
-      "onboard_time": 1674588973,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 25803,

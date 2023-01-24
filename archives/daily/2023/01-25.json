@@ -1,6 +1,6 @@
 {
   "startTime": 1674577564806,
-  "endTime": 1674599599329,
+  "endTime": 1674602290270,
   "band_list": [
     {
       "raw_hot": 2034303,
@@ -291,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211243,
+      "num": 211243,
+      "word": "网红烟花加特林威力有多大",
+      "onboard_time": 1674594072,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208480,
       "num": 194240,
       "word": "瞬息全宇宙获奥斯卡11项提名",
@@ -363,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139896,
-      "num": 53554,
-      "word": "网红烟花加特林威力有多大",
-      "onboard_time": 1674594072,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136017,
       "num": 136017,
       "word": "女儿回应父亲倒贴2万催婚",
@@ -384,6 +384,22 @@
       "word": "走丢狗狗突然回家一家人激动庆祝",
       "onboard_time": 1674569849,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126921,
+      "num": 126921,
+      "word": "初四",
+      "onboard_time": 1674601874,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 122689,
+      "num": 122689,
+      "word": "婆婆言传身教吵架绝招俩儿媳看呆",
+      "onboard_time": 1674565105,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -411,14 +427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 104882,
-      "num": 104882,
-      "word": "婆婆言传身教吵架绝招俩儿媳看呆",
-      "onboard_time": 1674565105,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103064,
       "num": 103064,
       "word": "和以前最好的朋友还有联系吗",
@@ -443,6 +451,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67757,
+      "num": 48866,
+      "word": "大年初四接灶王",
+      "onboard_time": 1674602115,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 65747,
+      "num": 65747,
+      "word": "张译演的何立",
+      "onboard_time": 1674601874,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 61621,
       "num": 61621,
       "word": "沙溢演技",
@@ -459,16 +483,24 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 39389,
-      "num": 39389,
+      "raw_hot": 48295,
+      "num": 48295,
       "word": "10个月宝宝跌下台阶大姨飞身接住",
       "onboard_time": 1674589451,
       "rank": 18,
       "category": "社会正能量"
     },
     {
-      "raw_hot": 37825,
-      "num": 37825,
+      "raw_hot": 47676,
+      "num": 47676,
+      "word": "张小斐说让杨迪把她设计成跨的封面",
+      "onboard_time": 1674588973,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 46044,
+      "num": 46044,
       "word": "江疏影无名红旗袍造型",
       "onboard_time": 1674595510,
       "rank": 44,
@@ -483,12 +515,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 26004,
-      "num": 26004,
-      "word": "张小斐说让杨迪把她设计成跨的封面",
-      "onboard_time": 1674588973,
-      "rank": 48,
+      "raw_hot": 33380,
+      "num": 33380,
+      "word": "狂飙李一桐眼神戏",
+      "onboard_time": 1674567809,
+      "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 32407,
+      "num": 32407,
+      "word": "门框上的身高标线是爱和成长的记号",
+      "onboard_time": 1674602175,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
