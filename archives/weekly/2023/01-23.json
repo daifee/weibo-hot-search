@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674555563651,
+  "endTime": 1674556485612,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -59,18 +59,18 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1552389,
-      "num": 1552389,
-      "word": "流浪地球2一部顶两部",
-      "onboard_time": 1674401188,
+      "raw_hot": 1646635,
+      "num": 1646635,
+      "word": "盗摄",
+      "onboard_time": 1674553944,
       "rank": 1,
       "category": "影视"
     },
     {
-      "raw_hot": 1488554,
-      "num": 1488554,
-      "word": "盗摄",
-      "onboard_time": 1674553944,
+      "raw_hot": 1552389,
+      "num": 1552389,
+      "word": "流浪地球2一部顶两部",
+      "onboard_time": 1674401188,
       "rank": 1,
       "category": "影视"
     },
@@ -379,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 752826,
+      "num": 752826,
+      "word": "过年砂糖橘吃不完怎么办",
+      "onboard_time": 1674552385,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 743551,
       "num": 743551,
       "word": "外国女婿回村过年被烟花吵醒",
@@ -449,14 +457,6 @@
       "onboard_time": 1674451105,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 717504,
-      "num": 717504,
-      "word": "过年砂糖橘吃不完怎么办",
-      "onboard_time": 1674552385,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 716222,
@@ -641,6 +641,14 @@
       "onboard_time": 1674438087,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 544832,
+      "num": 544832,
+      "word": "doja cat",
+      "onboard_time": 1674552984,
+      "rank": 13,
+      "category": "时尚"
     },
     {
       "raw_hot": 544005,
@@ -1171,14 +1179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 376282,
-      "num": 376282,
-      "word": "doja cat",
-      "onboard_time": 1674552984,
-      "rank": 13,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 375552,
       "num": 353261,
       "word": "刘雨昕麦架上的钻是自己贴的",
@@ -1403,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325549,
+      "num": 325549,
+      "word": "小男孩套圈套中女娃妈妈开心坏了",
+      "onboard_time": 1674553944,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324783,
       "num": 324783,
       "word": "佟丽娅友情出演流浪地球2",
@@ -1619,6 +1627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275162,
+      "num": 275162,
+      "word": "看完流浪地球2的我",
+      "onboard_time": 1674552324,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274593,
       "num": 274593,
       "word": "三门峡",
@@ -1803,27 +1819,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249688,
-      "num": 246979,
-      "word": "看完流浪地球2的我",
-      "onboard_time": 1674552324,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 248868,
       "num": 248868,
       "word": "74岁老人用属相备注家人微信",
       "onboard_time": 1674436588,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248851,
-      "num": 248851,
-      "word": "小男孩套圈套中女娃妈妈开心坏了",
-      "onboard_time": 1674553944,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1865,6 +1865,14 @@
       "onboard_time": 1674445404,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 243058,
+      "num": 243058,
+      "word": "西安市民喊话把景点让给外地游客",
+      "onboard_time": 1674553766,
+      "rank": 22,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 242947,
@@ -2041,14 +2049,6 @@
       "onboard_time": 1674535286,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209952,
-      "num": 209952,
-      "word": "西安市民喊话把景点让给外地游客",
-      "onboard_time": 1674553766,
-      "rank": 22,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 208355,
@@ -2265,6 +2265,14 @@
       "onboard_time": 1674464904,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191377,
+      "num": 191377,
+      "word": "麻辣兔头销量飙升",
+      "onboard_time": 1674554965,
+      "rank": 36,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 190855,
@@ -2491,12 +2499,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173943,
+      "num": 173943,
+      "word": "春节档电影联合倡议书",
+      "onboard_time": 1674555447,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173894,
       "num": 321809,
       "word": "孙子拜年磕头用力过猛心疼坏奶奶",
       "onboard_time": 1674474087,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171787,
+      "num": 171787,
+      "word": "流浪地球2票房破11亿",
+      "onboard_time": 1674555624,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 170328,
@@ -2520,14 +2544,6 @@
       "word": "王鹤棣说和老戏骨合作不能喊累",
       "onboard_time": 1674431236,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 168427,
-      "num": 138871,
-      "word": "春节档电影联合倡议书",
-      "onboard_time": 1674555447,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -3187,6 +3203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117162,
+      "num": 117162,
+      "word": "女生喊一声哥16个哥哥齐声回应",
+      "onboard_time": 1674555387,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116082,
       "num": 116082,
       "word": "王鹤棣郭仔飙四川话合集",
@@ -3235,6 +3259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 112218,
+      "num": 105425,
+      "word": "众星给黄渤新剧打开生活的正确方式打call",
+      "onboard_time": 1674555747,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 108306,
       "num": 105229,
       "word": "春晚微电影的主演是普通农民",
@@ -3259,20 +3291,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 106984,
-      "num": 106984,
-      "word": "麻辣兔头销量飙升",
-      "onboard_time": 1674554965,
-      "rank": 36,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 106776,
       "num": 106776,
       "word": "动画师为深海付出了太多",
       "onboard_time": 1674524066,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 105405,
+      "num": 105404,
+      "word": "媒婆的嘴有多敢说",
+      "onboard_time": 1674555866,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 104359,
@@ -3377,6 +3409,14 @@
       "onboard_time": 1674539724,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93376,
+      "num": 93376,
+      "word": "流浪地球和三体的隐藏联动",
+      "onboard_time": 1674552925,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 92043,
@@ -3515,14 +3555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76044,
-      "num": 76044,
-      "word": "女生喊一声哥16个哥哥齐声回应",
-      "onboard_time": 1674555387,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72813,
       "num": 241992,
       "word": "父母有权保管使用孩子压岁钱吗",
@@ -3625,6 +3657,14 @@
       "onboard_time": 1674489148,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 38231,
+      "num": 1042757,
+      "word": "压岁钱有哪些好寓意",
+      "onboard_time": 1674555987,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37324,
