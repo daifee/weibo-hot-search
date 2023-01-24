@@ -1,0 +1,410 @@
+{
+  "runTime": 1674570809032,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1803479,
+        "num": 1803479,
+        "word": "狂飙",
+        "onboard_time": 1674560607,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1466029,
+        "num": 1466029,
+        "word": "流浪地球2票房",
+        "onboard_time": 1674563488,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 6602,
+        "num": 1093988,
+        "word": "他们为万家灯火坚守一线",
+        "onboard_time": 1674570749,
+        "rank": 2,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 899837,
+        "num": 899837,
+        "word": "吴磊 芬兰",
+        "onboard_time": 1674560906,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 821992,
+        "num": 821992,
+        "word": "王鹤棣寻一个你直拍",
+        "onboard_time": 1674569790,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 809582,
+        "num": 809582,
+        "word": "胖虎晒易烊千玺给女儿的to签",
+        "onboard_time": 1674559526,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 659144,
+        "num": 659144,
+        "word": "胡兵妈妈去世",
+        "onboard_time": 1674568407,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631754,
+        "num": 631754,
+        "word": "妈妈为省事用旧床单当厨房地垫",
+        "onboard_time": 1674562948,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529487,
+        "num": 631741,
+        "word": "江西东乡发布组织核酸检测情况说明",
+        "onboard_time": 1674568648,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467429,
+        "num": 631689,
+        "word": "小伙开后备箱送女友榴莲被当求婚",
+        "onboard_time": 1674566308,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1130895,
+        "num": 631622,
+        "word": "女子吐槽波司登羽绒服到东北变嘎嘣脆",
+        "onboard_time": 1674568048,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653771,
+        "num": 631555,
+        "word": "满江红剧组最大的开销",
+        "onboard_time": 1674568350,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107702,
+        "num": 631536,
+        "word": "压岁钱有哪些好寓意",
+        "onboard_time": 1674555987,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631497,
+        "num": 631497,
+        "word": "2023奥斯卡提名",
+        "onboard_time": 1674569487,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 625696,
+        "num": 625696,
+        "word": "沈腾还在上面",
+        "onboard_time": 1674566187,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 572141,
+        "num": 572141,
+        "word": "李响不会要下线了吧",
+        "onboard_time": 1674567208,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 494339,
+        "num": 494339,
+        "word": "吴磊赵今麦 进组",
+        "onboard_time": 1674562048,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 464014,
+        "num": 464014,
+        "word": "王一博无名实时票房破3亿剧照",
+        "onboard_time": 1674568169,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415099,
+        "num": 415099,
+        "word": "男子陪老人买肉谎称20元",
+        "onboard_time": 1674569307,
+        "rank": 18,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 388972,
+        "num": 388972,
+        "word": "婆婆言传身教吵架绝招俩儿媳看呆",
+        "onboard_time": 1674565105,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452372,
+        "num": 380448,
+        "word": "曹可凡吃大肠",
+        "onboard_time": 1674565467,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419397,
+        "num": 377938,
+        "word": "水云天第一歌姬小兰花",
+        "onboard_time": 1674570090,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404483,
+        "num": 373368,
+        "word": "时代少年团发文呼吁理智追星",
+        "onboard_time": 1674570505,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368192,
+        "num": 368192,
+        "word": "高启盛什么时候下线",
+        "onboard_time": 1674568948,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277171,
+        "num": 362061,
+        "word": "离家的全国统一仪式是拔充电器",
+        "onboard_time": 1674556947,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358774,
+        "num": 358774,
+        "word": "张婉婷宋宁峰对视60秒后哭了",
+        "onboard_time": 1674566548,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326142,
+        "num": 326142,
+        "word": "蔡徐坤默片国风舞台",
+        "onboard_time": 1674569011,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266773,
+        "num": 266773,
+        "word": "和以前最好的朋友还有联系吗",
+        "onboard_time": 1674564867,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222707,
+        "num": 222707,
+        "word": "女生喊一声哥16个哥哥齐声回应",
+        "onboard_time": 1674555387,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184892,
+        "num": 184892,
+        "word": "走丢狗狗突然回家一家人激动庆祝",
+        "onboard_time": 1674569849,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308333,
+        "num": 184191,
+        "word": "王宝强回村过年对求合影村民来者不拒",
+        "onboard_time": 1674551064,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303463,
+        "num": 182813,
+        "word": "五十岁以上的 出列",
+        "onboard_time": 1674562405,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286572,
+        "num": 181672,
+        "word": "安欣 轴",
+        "onboard_time": 1674563667,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208816,
+        "num": 181020,
+        "word": "成家之前还是得先搞钱",
+        "onboard_time": 1674566966,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302511,
+        "num": 179511,
+        "word": "流浪地球 数字生命",
+        "onboard_time": 1674561389,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274886,
+        "num": 178557,
+        "word": "狂飙李一桐眼神戏",
+        "onboard_time": 1674567809,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233276,
+        "num": 177345,
+        "word": "李雪健 定海神针",
+        "onboard_time": 1674560488,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176228,
+        "num": 176228,
+        "word": "原味肥肠",
+        "onboard_time": 1674561567,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152294,
+        "num": 152294,
+        "word": "今年为啥有两个二月",
+        "onboard_time": 1674561927,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 132423,
+        "num": 132423,
+        "word": "韩国阴历新年引争议",
+        "onboard_time": 1674546204,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210005,
+        "num": 132008,
+        "word": "无名票房",
+        "onboard_time": 1674551244,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201404,
+        "num": 130526,
+        "word": "满江红",
+        "onboard_time": 1674522085,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200143,
+        "num": 130063,
+        "word": "张艺兴说渤哥新剧大年初三一起开始",
+        "onboard_time": 1674564268,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114693,
+        "num": 128582,
+        "word": "诗经里哪句话最让你心动",
+        "onboard_time": 1674569129,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194056,
+        "num": 127589,
+        "word": "熊出没",
+        "onboard_time": 1674570210,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177424,
+        "num": 126687,
+        "word": "黄渤新剧1集水逆了6次",
+        "onboard_time": 1674570571,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168313,
+        "num": 125635,
+        "word": "深海后劲好大",
+        "onboard_time": 1674561027,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125518,
+        "num": 125518,
+        "word": "西安市民喊话把景点让给外地游客",
+        "onboard_time": 1674553766,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 112602,
+        "num": 112602,
+        "word": "舅舅准备一盆硬币让外甥自己抓红包",
+        "onboard_time": 1674570571,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111268,
+        "num": 111268,
+        "word": "doja cat",
+        "onboard_time": 1674552984,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#初三年俗活动指南#"
+    }
+  }
+}
