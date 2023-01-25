@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/23 00:23:41 ~ 2023/01/26 06:18:12
+本榜单时间：2023/01/23 00:23:41 ~ 2023/01/26 06:34:03
 </p>
 </blockquote>
 <p>
@@ -4713,6 +4713,12 @@ TXT新专主打曲MV预告公开（热度：126146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E8%A2%AB%E7%8B%97%E8%B8%A9%E6%89%B3%E6%9C%BA%E5%B0%84%E6%9D%80%23" target="weibo">
+美国一男子被狗踩扳机射杀（热度：49231）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E6%BC%94%E5%8F%8D%E6%B4%BE%23" target="weibo">
 张译演反派（热度：49228）
 </a>
@@ -4721,6 +4727,12 @@ TXT新专主打曲MV预告公开（热度：126146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%AD%90%E8%AE%A8%E8%A6%81%E5%8E%8B%E5%B2%81%E9%92%B1%E5%8F%AA%E8%A6%81%E7%BA%A2%E8%89%B2%E7%A5%A8%E5%AD%90%23" target="weibo">
 狗子讨要压岁钱只要红色票子（热度：48563）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E5%8F%98%E8%B4%A8%E5%89%A9%E9%A5%AD%E8%8F%9C%E5%BC%95%E5%8F%91%E6%B6%88%E5%8C%96%E9%81%93%E5%87%BA%E5%A4%A7%E8%A1%80%23" target="weibo">
+男子吃变质剩饭菜引发消化道出大血（热度：43615）
 </a>
 </li>
 
@@ -4755,12 +4767,6 @@ TXT新专主打曲MV预告公开（热度：126146）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E8%A2%AB%E7%8B%97%E8%B8%A9%E6%89%B3%E6%9C%BA%E5%B0%84%E6%9D%80%23" target="weibo">
-美国一男子被狗踩扳机射杀（热度：28958）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%A5%BD%E5%BF%99%23" target="weibo">
 周深好忙（热度：27755）
 </a>
@@ -4787,12 +4793,6 @@ TXT新专主打曲MV预告公开（热度：126146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E6%BC%94%E8%A7%81%E9%92%B1%E7%9C%BC%E5%BC%80%E5%A5%BD%E5%83%8F%E6%88%91%E6%9C%AC%E4%BA%BA%23" target="weibo">
 杨迪演见钱眼开好像我本人（热度：18253）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E5%8F%98%E8%B4%A8%E5%89%A9%E9%A5%AD%E8%8F%9C%E5%BC%95%E5%8F%91%E6%B6%88%E5%8C%96%E9%81%93%E5%87%BA%E5%A4%A7%E8%A1%80%23" target="weibo">
-男子吃变质剩饭菜引发消化道出大血（热度：16945）
 </a>
 </li>
 
