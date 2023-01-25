@@ -1,0 +1,410 @@
+{
+  "runTime": 1674641968847,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1775599,
+        "num": 1775599,
+        "word": "为什么不建议去男友家过年",
+        "onboard_time": 1674638426,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1277002,
+        "num": 1277002,
+        "word": "女子将2000块压岁钱存了10年",
+        "onboard_time": 1674634523,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96335,
+        "num": 775819,
+        "word": "兔子在中国古代有多少美好寓意",
+        "onboard_time": 1674635487,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693799,
+        "num": 693799,
+        "word": "XBB和BQ.1毒株上半年流行可能性比较小",
+        "onboard_time": 1674637466,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671994,
+        "num": 671994,
+        "word": "初婚人数首次跌破1200万人",
+        "onboard_time": 1674630503,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640275,
+        "num": 640275,
+        "word": "印收到90亿光年外星系无线电信号",
+        "onboard_time": 1674636628,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 521006,
+        "num": 521006,
+        "word": "黄锐看了满江红",
+        "onboard_time": 1674639327,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471043,
+        "num": 471043,
+        "word": "郭帆说拍流浪地球2太空电梯是噩梦",
+        "onboard_time": 1674636927,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420613,
+        "num": 420613,
+        "word": "BLACKPINK与法国第一夫人合照",
+        "onboard_time": 1674632064,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395293,
+        "num": 395293,
+        "word": "陆虎和女朋友好甜",
+        "onboard_time": 1674637767,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367709,
+        "num": 367709,
+        "word": "18岁女生过年拒相亲被赶出门和狗睡",
+        "onboard_time": 1674628643,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308983,
+        "num": 308983,
+        "word": "邓超直播",
+        "onboard_time": 1674638484,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297048,
+        "num": 297048,
+        "word": "黄山游客称遇降雪滞留5小时",
+        "onboard_time": 1674635305,
+        "rank": 12,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 289393,
+        "num": 289393,
+        "word": "导演解释流浪地球2炸月球像摆饺子",
+        "onboard_time": 1674640408,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41779,
+        "num": 283513,
+        "word": "网络辟谣标签",
+        "onboard_time": 1674639807,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280874,
+        "num": 280874,
+        "word": "中国乒乓豆瓣开分7.0",
+        "onboard_time": 1674641307,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280498,
+        "num": 280498,
+        "word": "原来浙江人天生会说日语",
+        "onboard_time": 1674623064,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275386,
+        "num": 275386,
+        "word": "高叶谈陈书婷和高启强分手的原因",
+        "onboard_time": 1674634226,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269456,
+        "num": 269456,
+        "word": "收手吧外面全是吴京",
+        "onboard_time": 1674639327,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268329,
+        "num": 268329,
+        "word": "俄媒发布俄乌前线战斗视频",
+        "onboard_time": 1674639628,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 243194,
+        "num": 243194,
+        "word": "Lisa创5项吉尼斯世界纪录",
+        "onboard_time": 1674632903,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236076,
+        "num": 236076,
+        "word": "王一博是无名首个确定下来的演员",
+        "onboard_time": 1674634286,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235722,
+        "num": 235722,
+        "word": "刘惜君穿19年前礼服裙",
+        "onboard_time": 1674630864,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230558,
+        "num": 230558,
+        "word": "虞书欣王鹤棣没同框但又同框了",
+        "onboard_time": 1674626065,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222735,
+        "num": 222735,
+        "word": "蔚来车主占三个车位充电引争议",
+        "onboard_time": 1674639205,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194463,
+        "num": 194463,
+        "word": "无名导演说王一博眼神杀绝了",
+        "onboard_time": 1674640106,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189403,
+        "num": 189403,
+        "word": "男子去江苏买菜回浙江做饭",
+        "onboard_time": 1674635846,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171915,
+        "num": 171915,
+        "word": "邓超把护夫听成了护肤",
+        "onboard_time": 1674641307,
+        "rank": 27,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 168875,
+        "num": 168875,
+        "word": "过年一万块羽绒服被撕吧坏了",
+        "onboard_time": 1674619943,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162193,
+        "num": 162193,
+        "word": "熊猫幼崽连睡觉都不忘展示可爱",
+        "onboard_time": 1674640286,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163643,
+        "num": 161743,
+        "word": "日本计划将核污染土埋入花坛",
+        "onboard_time": 1674640827,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160742,
+        "num": 160742,
+        "word": "曝刘少林刘少昂兄弟已入籍中国",
+        "onboard_time": 1674621384,
+        "rank": 31,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 149878,
+        "num": 149878,
+        "word": "流浪地球2不用睡觉的角色海报",
+        "onboard_time": 1674636148,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148226,
+        "num": 148226,
+        "word": "满江红",
+        "onboard_time": 1674522085,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145698,
+        "num": 145698,
+        "word": "压岁钱刺客",
+        "onboard_time": 1674635065,
+        "rank": 34,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 141244,
+        "num": 141244,
+        "word": "张艺谋为什么放弃整部满江红一镜到底",
+        "onboard_time": 1674614962,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137420,
+        "num": 137420,
+        "word": "黄山",
+        "onboard_time": 1674629663,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 126490,
+        "num": 126490,
+        "word": "王一博叶秘领带的含义",
+        "onboard_time": 1674640465,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123290,
+        "num": 123290,
+        "word": "别试图给老人灌输年轻人思想",
+        "onboard_time": 1674627864,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121246,
+        "num": 121246,
+        "word": "王鸥魏晨大侦探8双人舞",
+        "onboard_time": 1674629483,
+        "rank": 39,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 120236,
+        "num": 120236,
+        "word": "HYBE辟谣与朴宝剑签约",
+        "onboard_time": 1674635546,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119492,
+        "num": 119492,
+        "word": "高启盛坑哥",
+        "onboard_time": 1674635366,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112146,
+        "num": 112146,
+        "word": "郭帆 球3拍了吗",
+        "onboard_time": 1674619641,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119390,
+        "num": 109865,
+        "word": "高叶被低估的女演员",
+        "onboard_time": 1674634226,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107348,
+        "num": 107348,
+        "word": "全村帮找人不料男孩在榻榻米下睡觉",
+        "onboard_time": 1674627983,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101398,
+        "num": 101398,
+        "word": "詹姆斯创个人单场三分纪录",
+        "onboard_time": 1674625584,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100728,
+        "num": 100728,
+        "word": "易烊千玺讲满江红背后的故事",
+        "onboard_time": 1674627023,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96484,
+        "num": 96484,
+        "word": "无名细思极恐的细节",
+        "onboard_time": 1674641848,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94987,
+        "num": 94987,
+        "word": "林允车内素颜自拍",
+        "onboard_time": 1674640707,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94972,
+        "num": 94972,
+        "word": "女子掉进洱海男子以腿为梯救人",
+        "onboard_time": 1674641909,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#用中国传统色打开锦绣山河#"
+    }
+  }
+}
