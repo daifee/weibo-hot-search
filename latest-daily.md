@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/26 00:25:33 ~ 2023/01/26 05:33:29
+本榜单时间：2023/01/26 00:25:33 ~ 2023/01/26 06:18:12
 </p>
 </blockquote>
 <p>
@@ -363,8 +363,20 @@ by2三年没回家与妈妈相拥泪目（热度：54409）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E8%A2%AB%E7%8B%97%E8%B8%A9%E6%89%B3%E6%9C%BA%E5%B0%84%E6%9D%80%23" target="weibo">
+美国一男子被狗踩扳机射杀（热度：28958）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8A%AC%E5%A4%B4%E8%A7%81%E5%96%9C%E7%BB%86%E8%8A%82%23" target="weibo">
 王鹤棣抬头见喜细节（热度：20468）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%B0%E6%98%A5%E6%99%9A%20%E5%A5%BD%E7%9C%8B%23" target="weibo">
+北京台春晚 好看（热度：18347）
 </a>
 </li>
 
@@ -375,8 +387,8 @@ by2三年没回家与妈妈相拥泪目（热度：54409）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%B0%E6%98%A5%E6%99%9A%20%E5%A5%BD%E7%9C%8B%23" target="weibo">
-北京台春晚 好看（热度：17433）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E5%8F%98%E8%B4%A8%E5%89%A9%E9%A5%AD%E8%8F%9C%E5%BC%95%E5%8F%91%E6%B6%88%E5%8C%96%E9%81%93%E5%87%BA%E5%A4%A7%E8%A1%80%23" target="weibo">
+男子吃变质剩饭菜引发消化道出大血（热度：16945）
 </a>
 </li>
 

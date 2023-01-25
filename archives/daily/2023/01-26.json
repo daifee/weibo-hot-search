@@ -1,6 +1,6 @@
 {
   "startTime": 1674663933880,
-  "endTime": 1674682409371,
+  "endTime": 1674685092375,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 63881,
-      "num": 41982,
+      "num": 43765,
       "word": "中国钓王邓刚开宾利回村过年",
       "onboard_time": 1674675853,
       "rank": 30,
@@ -467,12 +467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28958,
+      "num": 23956,
+      "word": "美国一男子被狗踩扳机射杀",
+      "onboard_time": 1674684371,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20468,
       "num": 20468,
       "word": "王鹤棣抬头见喜细节",
       "onboard_time": 1674676695,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 18347,
+      "num": 18347,
+      "word": "北京台春晚 好看",
+      "onboard_time": 1674390568,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 17732,
@@ -483,12 +499,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 17433,
-      "num": 17348,
-      "word": "北京台春晚 好看",
-      "onboard_time": 1674390568,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 16945,
+      "num": 16945,
+      "word": "男子吃变质剩饭菜引发消化道出大血",
+      "onboard_time": 1674684792,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14765,
