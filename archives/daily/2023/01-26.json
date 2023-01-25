@@ -1,6 +1,6 @@
 {
   "startTime": 1674663933880,
-  "endTime": 1674666993211,
+  "endTime": 1674667997371,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322441,
+      "num": 322441,
+      "word": "真诚才是必杀技",
+      "onboard_time": 1674665301,
+      "rank": 8,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 307521,
       "num": 307521,
       "word": "男子跳冰河救落水儿童不幸双双遇难",
@@ -153,14 +161,6 @@
       "onboard_time": 1674660930,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 239214,
-      "num": 239214,
-      "word": "真诚才是必杀技",
-      "onboard_time": 1674665301,
-      "rank": 8,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 229465,
@@ -409,6 +409,14 @@
       "onboard_time": 1674648751,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 54409,
+      "num": 54409,
+      "word": "by2三年没回家与妈妈相拥泪目",
+      "onboard_time": 1674650072,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 48630,

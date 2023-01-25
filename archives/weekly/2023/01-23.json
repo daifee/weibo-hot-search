@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674666993211,
+  "endTime": 1674667997371,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -2739,6 +2739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322441,
+      "num": 322441,
+      "word": "真诚才是必杀技",
+      "onboard_time": 1674665301,
+      "rank": 8,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 322041,
       "num": 322041,
       "word": "毛不易给工作人员发完红包被踢出群",
@@ -3633,14 +3641,6 @@
       "onboard_time": 1674547943,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239214,
-      "num": 239214,
-      "word": "真诚才是必杀技",
-      "onboard_time": 1674665301,
-      "rank": 8,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 238616,
