@@ -1,0 +1,410 @@
+{
+  "runTime": 1674616783060,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1662064,
+        "num": 1662064,
+        "word": "满江红票房逆跌",
+        "onboard_time": 1674571409,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 835099,
+        "num": 835099,
+        "word": "入选的小朋友估计能吹一辈子",
+        "onboard_time": 1674608242,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42391,
+        "num": 764532,
+        "word": "他们为万家灯火坚守一线",
+        "onboard_time": 1674570749,
+        "rank": 2,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1103349,
+        "num": 763417,
+        "word": "张艺谋为什么放弃整部满江红一镜到底",
+        "onboard_time": 1674614962,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 762098,
+        "num": 762098,
+        "word": "加特林烟花原创者回应",
+        "onboard_time": 1674611843,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702737,
+        "num": 702737,
+        "word": "流浪地球格局",
+        "onboard_time": 1674612143,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 655657,
+        "num": 655657,
+        "word": "儿子醉酒女友发信息妈妈着急问密码",
+        "onboard_time": 1674611482,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610101,
+        "num": 610101,
+        "word": "初四",
+        "onboard_time": 1674601874,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 560219,
+        "num": 560219,
+        "word": "无名豆瓣开分6.8",
+        "onboard_time": 1674616284,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255654,
+        "num": 499944,
+        "word": "女子吐槽波司登羽绒服到东北变嘎嘣脆",
+        "onboard_time": 1674568048,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1471529,
+        "num": 494887,
+        "word": "网友泰国偶遇杨洋",
+        "onboard_time": 1674614782,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489638,
+        "num": 489638,
+        "word": "无名体",
+        "onboard_time": 1674614844,
+        "rank": 11,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 410946,
+        "num": 410946,
+        "word": "骗子被抓屋里撩汉秘籍与床齐高",
+        "onboard_time": 1674614543,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391282,
+        "num": 391282,
+        "word": "再过二十年就没人走亲戚了",
+        "onboard_time": 1674573568,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 356754,
+        "num": 356754,
+        "word": "绿袖细腰夺命小妖",
+        "onboard_time": 1674615325,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345986,
+        "num": 345986,
+        "word": "NCT日本队今年夏天出道",
+        "onboard_time": 1674616643,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346443,
+        "num": 340691,
+        "word": "满江红 反转",
+        "onboard_time": 1674603976,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333503,
+        "num": 333503,
+        "word": "狗狗听到有人夸它后的反应",
+        "onboard_time": 1674613343,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319376,
+        "num": 319376,
+        "word": "twice日本小分队misamo新歌公开",
+        "onboard_time": 1674609622,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207617,
+        "num": 319206,
+        "word": "兔子吃多胡萝卜有死亡风险",
+        "onboard_time": 1674615205,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319124,
+        "num": 319124,
+        "word": "肖战祝大家大展鸿兔",
+        "onboard_time": 1674616763,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314429,
+        "num": 314429,
+        "word": "我是一个软弱的人",
+        "onboard_time": 1674615142,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265128,
+        "num": 265128,
+        "word": "张小斐收到糖纸戒指的反应",
+        "onboard_time": 1674615803,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263836,
+        "num": 263836,
+        "word": "李一桐狂飙哭戏破碎感",
+        "onboard_time": 1674615325,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242587,
+        "num": 242587,
+        "word": "瑶琴杀",
+        "onboard_time": 1674610463,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235423,
+        "num": 235423,
+        "word": "原来小狗也会接朋友去玩",
+        "onboard_time": 1674606261,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 209682,
+        "num": 209682,
+        "word": "噶了之后重生为数字生命继续拍",
+        "onboard_time": 1674610162,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195727,
+        "num": 195727,
+        "word": "大年初二男子拔掉充电器离家",
+        "onboard_time": 1674603077,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195652,
+        "num": 195652,
+        "word": "女儿晒妈妈27岁时颜值不输明星",
+        "onboard_time": 1674616225,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187275,
+        "num": 187275,
+        "word": "网红烟花加特林威力有多大",
+        "onboard_time": 1674594072,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165322,
+        "num": 165322,
+        "word": "彭斯私宅发现十几份机密文件",
+        "onboard_time": 1674609923,
+        "rank": 30,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 161528,
+        "num": 161528,
+        "word": "你觉得和前任相处的界限在哪",
+        "onboard_time": 1674604697,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161463,
+        "num": 161463,
+        "word": "棣欣引力",
+        "onboard_time": 1674573926,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154567,
+        "num": 154567,
+        "word": "第一视角看吃面条有多离谱",
+        "onboard_time": 1674605657,
+        "rank": 33,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 150503,
+        "num": 150503,
+        "word": "徐明浩直播",
+        "onboard_time": 1674603436,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141498,
+        "num": 141498,
+        "word": "江疏影无名红旗袍造型",
+        "onboard_time": 1674595510,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137920,
+        "num": 137920,
+        "word": "狂飙",
+        "onboard_time": 1674560607,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133320,
+        "num": 133320,
+        "word": "苏醒时长最长的一期老歌手日常",
+        "onboard_time": 1674609803,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128135,
+        "num": 128135,
+        "word": "流浪地球2票房",
+        "onboard_time": 1674563488,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116544,
+        "num": 116544,
+        "word": "快船vs湖人",
+        "onboard_time": 1674616225,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114375,
+        "num": 114375,
+        "word": "流浪地球世界观",
+        "onboard_time": 1674613404,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114330,
+        "num": 114330,
+        "word": "杨紫琼提名奥斯卡最佳女主角",
+        "onboard_time": 1674572910,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114149,
+        "num": 114149,
+        "word": "单身舅舅过年被6个外甥围着催婚",
+        "onboard_time": 1674576566,
+        "rank": 42,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 107644,
+        "num": 107644,
+        "word": "用手机拍全家福教程",
+        "onboard_time": 1674615142,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94238,
+        "num": 94238,
+        "word": "张若昀愿八里河的温暖一直延续",
+        "onboard_time": 1674614904,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92552,
+        "num": 92552,
+        "word": "女儿回应父亲倒贴2万催婚",
+        "onboard_time": 1674571708,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92014,
+        "num": 92014,
+        "word": "给黄渤边亮点一首香水有毒",
+        "onboard_time": 1674613043,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91249,
+        "num": 91249,
+        "word": "王一博最怕导演说来监视器看一下",
+        "onboard_time": 1674571226,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90411,
+        "num": 90411,
+        "word": "消防员零下35度灭火浇成冰雕连",
+        "onboard_time": 1674616704,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89415,
+        "num": 89415,
+        "word": "沙溢演技",
+        "onboard_time": 1674593530,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国空间站过境经典瞬间#"
+    }
+  }
+}

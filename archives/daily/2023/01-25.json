@@ -1,6 +1,6 @@
 {
   "startTime": 1674577564806,
-  "endTime": 1674615050260,
+  "endTime": 1674616783060,
   "band_list": [
     {
       "raw_hot": 2034303,
@@ -27,11 +27,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1471529,
+      "num": 494887,
+      "word": "网友泰国偶遇杨洋",
+      "onboard_time": 1674614782,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1130945,
       "num": 1130945,
       "word": "棣欣引力",
       "onboard_time": 1674573926,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1103349,
+      "num": 763417,
+      "word": "张艺谋为什么放弃整部满江红一镜到底",
+      "onboard_time": 1674614962,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -67,12 +83,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 718619,
-      "num": 718619,
+      "raw_hot": 762098,
+      "num": 762098,
       "word": "加特林烟花原创者回应",
       "onboard_time": 1674611843,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 702737,
+      "num": 702737,
+      "word": "流浪地球格局",
+      "onboard_time": 1674612143,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 684632,
@@ -89,14 +113,6 @@
       "onboard_time": 1674606261,
       "rank": 4,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 669344,
-      "num": 412078,
-      "word": "网友泰国偶遇杨洋",
-      "onboard_time": 1674614782,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 633024,
@@ -131,11 +147,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 588235,
-      "num": 588235,
-      "word": "流浪地球格局",
-      "onboard_time": 1674612143,
-      "rank": 6,
+      "raw_hot": 560219,
+      "num": 560219,
+      "word": "无名豆瓣开分6.8",
+      "onboard_time": 1674616284,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -161,6 +177,14 @@
       "onboard_time": 1674576566,
       "rank": 27,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 489638,
+      "num": 489638,
+      "word": "无名体",
+      "onboard_time": 1674614844,
+      "rank": 18,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 481619,
@@ -203,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410946,
+      "num": 410946,
+      "word": "骗子被抓屋里撩汉秘籍与床齐高",
+      "onboard_time": 1674614543,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386333,
       "num": 386333,
       "word": "赵丽颖黄澄澄合唱风吹半夏",
@@ -227,6 +259,22 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 356754,
+      "num": 356754,
+      "word": "绿袖细腰夺命小妖",
+      "onboard_time": 1674615325,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 345986,
+      "num": 345986,
+      "word": "NCT日本队今年夏天出道",
+      "onboard_time": 1674616643,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335786,
       "num": 335786,
       "word": "张译演的何立",
@@ -241,6 +289,14 @@
       "onboard_time": 1674568350,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333503,
+      "num": 333503,
+      "word": "狗狗听到有人夸它后的反应",
+      "onboard_time": 1674613343,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 331919,
@@ -267,14 +323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 325575,
-      "num": 172123,
-      "word": "张艺谋为什么放弃整部满江红一镜到底",
-      "onboard_time": 1674614962,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 321987,
       "num": 321987,
       "word": "噶了之后重生为数字生命继续拍",
@@ -291,6 +339,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319124,
+      "num": 319124,
+      "word": "肖战祝大家大展鸿兔",
+      "onboard_time": 1674616763,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 314429,
+      "num": 314429,
+      "word": "我是一个软弱的人",
+      "onboard_time": 1674615142,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301339,
       "num": 301339,
       "word": "大鹏说无名剧组太内卷",
@@ -305,14 +369,6 @@
       "onboard_time": 1674576147,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294481,
-      "num": 294481,
-      "word": "无名体",
-      "onboard_time": 1674614844,
-      "rank": 18,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 280886,
@@ -339,19 +395,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 268672,
-      "num": 268672,
-      "word": "狗狗听到有人夸它后的反应",
-      "onboard_time": 1674613343,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 268342,
       "num": 226462,
       "word": "满江红结局",
       "onboard_time": 1674572790,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 265128,
+      "num": 265128,
+      "word": "张小斐收到糖纸戒指的反应",
+      "onboard_time": 1674615803,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 263836,
+      "num": 263836,
+      "word": "李一桐狂飙哭戏破碎感",
+      "onboard_time": 1674615325,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -531,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207617,
+      "num": 319206,
+      "word": "兔子吃多胡萝卜有死亡风险",
+      "onboard_time": 1674615205,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206161,
       "num": 206161,
       "word": "年味真的越来越淡了吗",
@@ -545,6 +617,14 @@
       "onboard_time": 1674568948,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195652,
+      "num": 195652,
+      "word": "女儿晒妈妈27岁时颜值不输明星",
+      "onboard_time": 1674616225,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194803,
@@ -691,14 +771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 120274,
-      "num": 120274,
-      "word": "骗子被抓屋里撩汉秘籍与床齐高",
-      "onboard_time": 1674614543,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118566,
       "num": 118566,
       "word": "张小斐清唱逆光",
@@ -713,6 +785,14 @@
       "onboard_time": 1674556947,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116544,
+      "num": 116544,
+      "word": "快船vs湖人",
+      "onboard_time": 1674616225,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 114062,
@@ -737,6 +817,14 @@
       "onboard_time": 1674571830,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 107644,
+      "num": 107644,
+      "word": "用手机拍全家福教程",
+      "onboard_time": 1674615142,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107377,
@@ -769,6 +857,14 @@
       "onboard_time": 1674614904,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90411,
+      "num": 90411,
+      "word": "消防员零下35度灭火浇成冰雕连",
+      "onboard_time": 1674616704,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75176,
