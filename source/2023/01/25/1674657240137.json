@@ -1,0 +1,410 @@
+{
+  "runTime": 1674657240137,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2047203,
+        "num": 2047203,
+        "word": "狂飙",
+        "onboard_time": 1674646769,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 880444,
+        "num": 880444,
+        "word": "女子零下7度户外吃席凉菜成硬菜",
+        "onboard_time": 1674652232,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95847,
+        "num": 736739,
+        "word": "4个春节期间防疫热点问答",
+        "onboard_time": 1674652649,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030936,
+        "num": 701828,
+        "word": "老默怎么死的",
+        "onboard_time": 1674653072,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 662088,
+        "num": 662088,
+        "word": "折腰",
+        "onboard_time": 1674656248,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 953025,
+        "num": 659378,
+        "word": "杀我别用李响刀",
+        "onboard_time": 1674654872,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 656668,
+        "num": 656668,
+        "word": "中国乒乓",
+        "onboard_time": 1674657151,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 619095,
+        "num": 619095,
+        "word": "陈立农公开最近一条朋友圈",
+        "onboard_time": 1674654567,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 587824,
+        "num": 587824,
+        "word": "武汉长江宣布解散",
+        "onboard_time": 1674643410,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515756,
+        "num": 515756,
+        "word": "女子将2000块压岁钱存了10年",
+        "onboard_time": 1674634523,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569594,
+        "num": 496076,
+        "word": "深海票房逆跌",
+        "onboard_time": 1674656131,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 554671,
+        "num": 485100,
+        "word": "狂飙预告好虐",
+        "onboard_time": 1674656190,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 464079,
+        "num": 464079,
+        "word": "李铁执教国足还拿武汉长江3000万工资",
+        "onboard_time": 1674654510,
+        "rank": 12,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 525099,
+        "num": 455772,
+        "word": "心疼安欣",
+        "onboard_time": 1674653908,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441093,
+        "num": 441093,
+        "word": "影院回应设备故障流浪地球2改播满江红",
+        "onboard_time": 1674656909,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415130,
+        "num": 415130,
+        "word": "吴京赞过",
+        "onboard_time": 1674656248,
+        "rank": 15,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 404678,
+        "num": 404678,
+        "word": "女子零下14度观影被冻到扶墙退场",
+        "onboard_time": 1674646952,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356875,
+        "num": 356875,
+        "word": "收手吧外面全是吴京",
+        "onboard_time": 1674639327,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291338,
+        "num": 291338,
+        "word": "初婚人数首次跌破1200万人",
+        "onboard_time": 1674630503,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262804,
+        "num": 262804,
+        "word": "印收到90亿光年外星系无线电信号",
+        "onboard_time": 1674636628,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 311428,
+        "num": 261997,
+        "word": "令人心动的offer",
+        "onboard_time": 1674653253,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283161,
+        "num": 261573,
+        "word": "黄晓明说自己某种程度上是烂好人",
+        "onboard_time": 1674649891,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258223,
+        "num": 258223,
+        "word": "流浪地球2票房破15亿",
+        "onboard_time": 1674646413,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251337,
+        "num": 251337,
+        "word": "许红豆谢之遥讨论生意都在秀恩爱",
+        "onboard_time": 1674653671,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242826,
+        "num": 242826,
+        "word": "满江红",
+        "onboard_time": 1674522085,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227248,
+        "num": 227248,
+        "word": "给身体去油的4个食方",
+        "onboard_time": 1674655711,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 217913,
+        "num": 217913,
+        "word": "李现的童年一定没少看猫和老鼠",
+        "onboard_time": 1674648751,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206999,
+        "num": 206999,
+        "word": "XBB和BQ.1毒株上半年流行可能性比较小",
+        "onboard_time": 1674637466,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203451,
+        "num": 203451,
+        "word": "小猫已经放弃挣扎了",
+        "onboard_time": 1674647732,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185864,
+        "num": 185864,
+        "word": "好像男友第一次上门都这样",
+        "onboard_time": 1674649052,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 294661,
+        "num": 185316,
+        "word": "吴京 看见各种摄像头就想和它聊天",
+        "onboard_time": 1674656490,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186981,
+        "num": 184888,
+        "word": "by2三年没回家与妈妈相拥泪目",
+        "onboard_time": 1674650072,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197974,
+        "num": 184813,
+        "word": "导演解释流浪地球2炸月球像摆饺子",
+        "onboard_time": 1674640408,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183687,
+        "num": 183687,
+        "word": "沟通在恋爱中的重要性",
+        "onboard_time": 1674651451,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 183298,
+        "num": 183298,
+        "word": "女子走亲戚姑姑在大棚里招待吃饭",
+        "onboard_time": 1674648512,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165276,
+        "num": 165276,
+        "word": "孙子违规操作帮奶奶赢取百元大钞",
+        "onboard_time": 1674644010,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157388,
+        "num": 157388,
+        "word": "Naevis将于3月出道",
+        "onboard_time": 1674642629,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145422,
+        "num": 145422,
+        "word": "测试市面上能买到的5种烟花",
+        "onboard_time": 1674650189,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134496,
+        "num": 134496,
+        "word": "陆虎和女朋友好甜",
+        "onboard_time": 1674637767,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134148,
+        "num": 134148,
+        "word": "狗狗找到了自己的靠山",
+        "onboard_time": 1674647672,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 132219,
+        "num": 132219,
+        "word": "米勒参演中国乒乓",
+        "onboard_time": 1674649710,
+        "rank": 40,
+        "category": "游戏,影视"
+      },
+      {
+        "raw_hot": 129018,
+        "num": 129018,
+        "word": "俄媒发布俄乌前线战斗视频",
+        "onboard_time": 1674639628,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 127359,
+        "num": 127359,
+        "word": "程耳说王一博是个沉稳的小伙子",
+        "onboard_time": 1674651211,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124222,
+        "num": 124222,
+        "word": "严浩翔饰演太上老君",
+        "onboard_time": 1674648691,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122137,
+        "num": 122137,
+        "word": "黄锐看了满江红",
+        "onboard_time": 1674639327,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120191,
+        "num": 120191,
+        "word": "男子去女友家拜年被山东煎饼难住",
+        "onboard_time": 1674646592,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120018,
+        "num": 120018,
+        "word": "郭帆说拍流浪地球2太空电梯是噩梦",
+        "onboard_time": 1674636927,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113412,
+        "num": 113412,
+        "word": "马嘉祺宋亚轩演的还珠格格",
+        "onboard_time": 1674648032,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102695,
+        "num": 102695,
+        "word": "王一博是无名首个确定下来的演员",
+        "onboard_time": 1674634286,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97088,
+        "num": 97088,
+        "word": "女子掉进洱海男子以腿为梯救人",
+        "onboard_time": 1674641909,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是中国人的春节浪漫#"
+    }
+  }
+}
