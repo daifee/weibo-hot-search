@@ -1,6 +1,6 @@
 {
   "startTime": 1674577564806,
-  "endTime": 1674603218884,
+  "endTime": 1674610034719,
   "band_list": [
     {
       "raw_hot": 2034303,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623156,
+      "num": 149523,
+      "word": "入选的小朋友估计能吹一辈子",
+      "onboard_time": 1674608242,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 619704,
       "num": 619704,
       "word": "流浪地球2票房",
@@ -59,6 +67,38 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 605231,
+      "num": 605231,
+      "word": "你觉得和前任相处的界限在哪",
+      "onboard_time": 1674604697,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 594586,
+      "num": 594586,
+      "word": "原来小狗也会接朋友去玩",
+      "onboard_time": 1674606261,
+      "rank": 4,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 541400,
+      "num": 541400,
+      "word": "网红烟花加特林威力有多大",
+      "onboard_time": 1674594072,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539607,
+      "num": 539607,
+      "word": "大年初二男子拔掉充电器离家",
+      "onboard_time": 1674603077,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496950,
       "num": 496950,
       "word": "单身舅舅过年被6个外甥围着催婚",
@@ -67,12 +107,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 459396,
+      "num": 459396,
+      "word": "初四",
+      "onboard_time": 1674601874,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 441393,
       "num": 441393,
       "word": "大年初三不外出",
       "onboard_time": 1674580160,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431560,
+      "num": 431560,
+      "word": "满江红 反转",
+      "onboard_time": 1674603976,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 426863,
@@ -99,12 +155,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 364550,
-      "num": 364550,
-      "word": "初四",
-      "onboard_time": 1674601874,
-      "rank": 8,
-      "category": "情感"
+      "raw_hot": 382866,
+      "num": 382866,
+      "word": "第一视角看吃面条有多离谱",
+      "onboard_time": 1674605657,
+      "rank": 10,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 333588,
@@ -131,12 +187,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 296031,
-      "num": 296031,
-      "word": "网红烟花加特林威力有多大",
-      "onboard_time": 1674594072,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 312858,
+      "num": 312858,
+      "word": "张译演的何立",
+      "onboard_time": 1674601874,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 301339,
+      "num": 301339,
+      "word": "大鹏说无名剧组太内卷",
+      "onboard_time": 1674604035,
+      "rank": 12,
+      "category": "作品衍生,影视"
     },
     {
       "raw_hot": 295136,
@@ -196,7 +260,7 @@
     },
     {
       "raw_hot": 253359,
-      "num": 211293,
+      "num": 236626,
       "word": "杨紫琼提名奥斯卡最佳女主角",
       "onboard_time": 1674572910,
       "rank": 24,
@@ -235,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239159,
+      "num": 239159,
+      "word": "徐明浩直播",
+      "onboard_time": 1674603436,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236768,
       "num": 236768,
       "word": "妈妈为省事用旧床单当厨房地垫",
@@ -256,6 +328,14 @@
       "word": "江西东乡发布组织核酸检测情况说明",
       "onboard_time": 1674568648,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225763,
+      "num": 225763,
+      "word": "休息日如何补觉更有效",
+      "onboard_time": 1674607823,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -292,11 +372,19 @@
     },
     {
       "raw_hot": 215410,
-      "num": 110609,
+      "num": 141651,
       "word": "黄渤新剧1集水逆了6次",
       "onboard_time": 1674570571,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214960,
+      "num": 214960,
+      "word": "女儿回应父亲倒贴2万催婚",
+      "onboard_time": 1674571708,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213285,
@@ -305,6 +393,14 @@
       "onboard_time": 1674562048,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211783,
+      "num": 211783,
+      "word": "twice日本小分队misamo新歌公开",
+      "onboard_time": 1674609622,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 208480,
@@ -324,10 +420,26 @@
     },
     {
       "raw_hot": 195885,
-      "num": 107448,
+      "num": 141660,
       "word": "高启盛什么时候下线",
       "onboard_time": 1674568948,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 194803,
+      "num": 194803,
+      "word": "过年期间狗子玩疯了不想回家",
+      "onboard_time": 1674604458,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 194282,
+      "num": 194282,
+      "word": "沙溢演技",
+      "onboard_time": 1674593530,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -347,8 +459,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183806,
+      "num": 183806,
+      "word": "10个月宝宝跌下台阶大姨飞身接住",
+      "onboard_time": 1674589451,
+      "rank": 18,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 174249,
-      "num": 105375,
+      "num": 126771,
       "word": "沈腾还在上面",
       "onboard_time": 1674566187,
       "rank": 45,
@@ -387,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143032,
+      "num": 143032,
+      "word": "苏醒时长最长的一期老歌手日常",
+      "onboard_time": 1674609803,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140124,
       "num": 140124,
       "word": "小伙开后备箱送女友榴莲被当求婚",
@@ -395,19 +523,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136017,
-      "num": 136017,
-      "word": "女儿回应父亲倒贴2万催婚",
-      "onboard_time": 1674571708,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129322,
-      "num": 129322,
-      "word": "张译演的何立",
-      "onboard_time": 1674601874,
-      "rank": 21,
+      "raw_hot": 137639,
+      "num": 137639,
+      "word": "满江红影评",
+      "onboard_time": 1674602474,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -419,12 +539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122099,
+      "num": 122099,
+      "word": "张小斐说让杨迪把她设计成跨的封面",
+      "onboard_time": 1674588973,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 116761,
       "num": 116761,
       "word": "离家的全国统一仪式是拔充电器",
       "onboard_time": 1674556947,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115317,
+      "num": 115317,
+      "word": "江疏影无名红旗袍造型",
+      "onboard_time": 1674595510,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 114062,
@@ -443,12 +579,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110077,
+      "num": 110077,
+      "word": "心疼胡冰卿演的娜娜",
+      "onboard_time": 1674571830,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 107377,
       "num": 107377,
       "word": "初四迎灶神",
       "onboard_time": 1674602415,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106328,
+      "num": 106328,
+      "word": "狂飙李一桐眼神戏",
+      "onboard_time": 1674567809,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 103064,
@@ -459,12 +611,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100891,
-      "num": 100891,
-      "word": "满江红影评",
-      "onboard_time": 1674602474,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 100137,
+      "num": 100137,
+      "word": "彭斯私宅发现十几份机密文件",
+      "onboard_time": 1674609923,
+      "rank": 48,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 98630,
@@ -481,22 +633,6 @@
       "onboard_time": 1674573509,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 72264,
-      "num": 72264,
-      "word": "10个月宝宝跌下台阶大姨飞身接住",
-      "onboard_time": 1674589451,
-      "rank": 18,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 61621,
-      "num": 61621,
-      "word": "沙溢演技",
-      "onboard_time": 1674593530,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 59026,
@@ -523,51 +659,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 53535,
-      "num": 53535,
-      "word": "江疏影无名红旗袍造型",
-      "onboard_time": 1674595510,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 51148,
-      "num": 51148,
-      "word": "大年初二男子拔掉充电器离家",
-      "onboard_time": 1674603077,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51118,
-      "num": 51118,
-      "word": "张小斐说让杨迪把她设计成跨的封面",
-      "onboard_time": 1674588973,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 49959,
-      "num": 49959,
-      "word": "心疼胡冰卿演的娜娜",
-      "onboard_time": 1674571830,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 33457,
       "num": 33457,
       "word": "俞灏明说中国乒乓飒飞了",
       "onboard_time": 1674587474,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 33380,
-      "num": 33380,
-      "word": "狂飙李一桐眼神戏",
-      "onboard_time": 1674567809,
-      "rank": 44,
       "category": "影视"
     }
   ],
