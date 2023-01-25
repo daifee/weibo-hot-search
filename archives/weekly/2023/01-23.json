@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674663933880,
+  "endTime": 1674664980735,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -1811,8 +1811,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438717,
+      "num": 438717,
+      "word": "初五迎财神",
+      "onboard_time": 1674663385,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438014,
-      "num": 286281,
+      "num": 327713,
       "word": "黄明昊无名观后感",
       "onboard_time": 1674659070,
       "rank": 25,
@@ -2339,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362594,
+      "num": 362594,
+      "word": "山西太有过年氛围感了",
+      "onboard_time": 1674662008,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 362355,
       "num": 229286,
       "word": "张若昀 帅颠了",
@@ -2652,7 +2668,7 @@
     },
     {
       "raw_hot": 329828,
-      "num": 273642,
+      "num": 298278,
       "word": "程程下线了吗",
       "onboard_time": 1674660031,
       "rank": 47,
@@ -3068,7 +3084,7 @@
     },
     {
       "raw_hot": 291297,
-      "num": 189139,
+      "num": 222259,
       "word": "冯兵说老默背后中枪死的",
       "onboard_time": 1674660271,
       "rank": 30,
@@ -3243,14 +3259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267850,
-      "num": 267850,
-      "word": "初五迎财神",
-      "onboard_time": 1674663385,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267403,
       "num": 267403,
       "word": "原来古巨基KTV也点情歌王",
@@ -3376,14 +3384,6 @@
       "word": "这鹅可算是遇到对手了",
       "onboard_time": 1674400529,
       "rank": 7,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 258781,
-      "num": 258781,
-      "word": "山西太有过年氛围感了",
-      "onboard_time": 1674662008,
-      "rank": 18,
       "category": "幽默"
     },
     {
@@ -3792,6 +3792,14 @@
       "word": "无名里的大鹏",
       "onboard_time": 1674637645,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221903,
+      "num": 221903,
+      "word": "刘德华图恒宇亦正亦邪",
+      "onboard_time": 1674663206,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -4459,6 +4467,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 182800,
+      "num": 80208,
+      "word": "高叶太美了",
+      "onboard_time": 1674661109,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182710,
       "num": 133357,
       "word": "程耳无名路演随笔",
@@ -4504,14 +4520,6 @@
       "word": "流浪地球彩蛋",
       "onboard_time": 1674464965,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 180368,
-      "num": 144428,
-      "word": "刘德华图恒宇亦正亦邪",
-      "onboard_time": 1674663206,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -4609,6 +4617,14 @@
       "onboard_time": 1674627383,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174467,
+      "num": 126606,
+      "word": "王子文三体眼神从清澈到绝望",
+      "onboard_time": 1674662308,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 174442,
@@ -5569,14 +5585,6 @@
       "onboard_time": 1674431117,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117968,
-      "num": 117968,
-      "word": "王子文三体眼神从清澈到绝望",
-      "onboard_time": 1674662308,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 117325,
