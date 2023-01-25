@@ -1,6 +1,6 @@
 {
   "startTime": 1674577564806,
-  "endTime": 1674631160920,
+  "endTime": 1674632015197,
   "band_list": [
     {
       "raw_hot": 2034303,
@@ -75,20 +75,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1106852,
+      "num": 1106852,
+      "word": "原来浙江人天生会说日语",
+      "onboard_time": 1674623064,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1091341,
       "num": 1091341,
       "word": "朱珠产后三个月演女神角色不自信",
       "onboard_time": 1674619641,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1028104,
-      "num": 1028104,
-      "word": "原来浙江人天生会说日语",
-      "onboard_time": 1674623064,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 1025125,
@@ -219,6 +219,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 596792,
+      "num": 596792,
+      "word": "黄山",
+      "onboard_time": 1674629663,
+      "rank": 7,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 575783,
+      "num": 575783,
+      "word": "初婚人数首次跌破1200万人",
+      "onboard_time": 1674630503,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 566045,
       "num": 566045,
       "word": "蒲熠星演蒲鱼儿子",
@@ -233,6 +249,14 @@
       "onboard_time": 1674616763,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 546629,
+      "num": 379310,
+      "word": "18岁女生过年拒相亲被赶出门和狗睡",
+      "onboard_time": 1674628643,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 541400,
@@ -289,14 +313,6 @@
       "onboard_time": 1674603976,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 464875,
-      "num": 333343,
-      "word": "18岁女生过年拒相亲被赶出门和狗睡",
-      "onboard_time": 1674628643,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 441393,
@@ -363,20 +379,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 407060,
-      "num": 407060,
-      "word": "黄山",
-      "onboard_time": 1674629663,
-      "rank": 7,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 398826,
       "num": 398826,
       "word": "NCT日本队今年夏天出道",
       "onboard_time": 1674616643,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397021,
+      "num": 397021,
+      "word": "刘惜君穿19年前礼服裙",
+      "onboard_time": 1674630864,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 386333,
@@ -403,6 +419,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 374934,
+      "num": 374934,
+      "word": "95后实习生对CEO喊臭宝",
+      "onboard_time": 1674628944,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371357,
       "num": 371357,
       "word": "我不同意你脱下这身军装",
@@ -419,20 +443,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 359384,
+      "num": 359384,
+      "word": "别试图给老人灌输年轻人思想",
+      "onboard_time": 1674627864,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 357855,
       "num": 357855,
       "word": "彭斯私宅发现十几份机密文件",
       "onboard_time": 1674609923,
       "rank": 48,
       "category": "国外要闻,社会新闻"
-    },
-    {
-      "raw_hot": 357419,
-      "num": 357419,
-      "word": "95后实习生对CEO喊臭宝",
-      "onboard_time": 1674628944,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 355706,
@@ -491,14 +515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 324810,
-      "num": 324810,
-      "word": "别试图给老人灌输年轻人思想",
-      "onboard_time": 1674627864,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 321987,
       "num": 321987,
       "word": "噶了之后重生为数字生命继续拍",
@@ -531,8 +547,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 310730,
-      "num": 310730,
+      "raw_hot": 312472,
+      "num": 312472,
       "word": "虞书欣王鹤棣没同框但又同框了",
       "onboard_time": 1674626065,
       "rank": 19,
@@ -705,14 +721,6 @@
       "onboard_time": 1674618384,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 244605,
-      "num": 244605,
-      "word": "刘惜君穿19年前礼服裙",
-      "onboard_time": 1674630864,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 241205,
@@ -931,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204626,
+      "num": 145913,
+      "word": "迪士尼情侣的真实年龄",
+      "onboard_time": 1674631043,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201391,
       "num": 201391,
       "word": "当你不让狗狗进厨房",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1674589451,
       "rank": 18,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 183288,
-      "num": 183288,
-      "word": "初婚人数首次跌破1200万人",
-      "onboard_time": 1674630503,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177669,
@@ -1307,14 +1315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97483,
-      "num": 97483,
-      "word": "迪士尼情侣的真实年龄",
-      "onboard_time": 1674631043,
-      "rank": 46,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 96030,
       "num": 96030,
       "word": "张若昀愿八里河的温暖一直延续",
@@ -1329,6 +1329,22 @@
       "onboard_time": 1674624805,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85113,
+      "num": 85113,
+      "word": "26岁靠自学为国攻克原子弹关键技术",
+      "onboard_time": 1674631824,
+      "rank": 48,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 83201,
+      "num": 83201,
+      "word": "满江红",
+      "onboard_time": 1674522085,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 77578,
