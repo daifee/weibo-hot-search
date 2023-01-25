@@ -1,6 +1,6 @@
 {
   "startTime": 1674577564806,
-  "endTime": 1674610034719,
+  "endTime": 1674611675262,
   "band_list": [
     {
       "raw_hot": 2034303,
@@ -19,6 +19,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1313465,
+      "num": 435360,
+      "word": "儿子儿媳除夕夜对83岁母亲拳打脚踢",
+      "onboard_time": 1674610162,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1130945,
       "num": 1130945,
       "word": "棣欣引力",
@@ -35,20 +43,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 728739,
+      "num": 419080,
+      "word": "家属回应老人除夕夜遭儿媳棍打",
+      "onboard_time": 1674610101,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 691615,
+      "num": 434541,
+      "word": "入选的小朋友估计能吹一辈子",
+      "onboard_time": 1674608242,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 684451,
+      "num": 684451,
+      "word": "原来小狗也会接朋友去玩",
+      "onboard_time": 1674606261,
+      "rank": 4,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 633024,
       "num": 633024,
       "word": "女子吐槽波司登羽绒服到东北变嘎嘣脆",
       "onboard_time": 1674568048,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 623156,
-      "num": 149523,
-      "word": "入选的小朋友估计能吹一辈子",
-      "onboard_time": 1674608242,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 619704,
@@ -75,14 +99,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 594586,
-      "num": 594586,
-      "word": "原来小狗也会接朋友去玩",
-      "onboard_time": 1674606261,
-      "rank": 4,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 541400,
       "num": 541400,
       "word": "网红烟花加特林威力有多大",
@@ -99,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512376,
+      "num": 512376,
+      "word": "初四",
+      "onboard_time": 1674601874,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 496950,
       "num": 496950,
       "word": "单身舅舅过年被6个外甥围着催婚",
@@ -107,12 +131,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 459396,
-      "num": 459396,
-      "word": "初四",
-      "onboard_time": 1674601874,
-      "rank": 8,
-      "category": "情感"
+      "raw_hot": 446321,
+      "num": 446321,
+      "word": "满江红 反转",
+      "onboard_time": 1674603976,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 441393,
@@ -123,20 +147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 431560,
-      "num": 431560,
-      "word": "满江红 反转",
-      "onboard_time": 1674603976,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 426863,
       "num": 426863,
       "word": "王一博无名一镜到底打戏拍了一个礼拜",
       "onboard_time": 1674575848,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 426434,
+      "num": 426434,
+      "word": "twice日本小分队misamo新歌公开",
+      "onboard_time": 1674609622,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 425426,
@@ -163,11 +187,35 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 357855,
+      "num": 357855,
+      "word": "彭斯私宅发现十几份机密文件",
+      "onboard_time": 1674609923,
+      "rank": 48,
+      "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 335786,
+      "num": 335786,
+      "word": "张译演的何立",
+      "onboard_time": 1674601874,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 333588,
       "num": 333588,
       "word": "满江红剧组最大的开销",
       "onboard_time": 1674568350,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 331919,
+      "num": 309671,
+      "word": "瑶琴杀",
+      "onboard_time": 1674610463,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -179,20 +227,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321987,
+      "num": 321987,
+      "word": "噶了之后重生为数字生命继续拍",
+      "onboard_time": 1674610162,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 320653,
       "num": 320653,
       "word": "offer4全员是我嗑陈林尽染的脸替",
       "onboard_time": 1674573629,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312858,
-      "num": 312858,
-      "word": "张译演的何立",
-      "onboard_time": 1674601874,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 301339,
@@ -260,7 +308,7 @@
     },
     {
       "raw_hot": 253359,
-      "num": 236626,
+      "num": 247567,
       "word": "杨紫琼提名奥斯卡最佳女主角",
       "onboard_time": 1674572910,
       "rank": 24,
@@ -339,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221557,
+      "num": 221557,
+      "word": "苏醒时长最长的一期老歌手日常",
+      "onboard_time": 1674609803,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220658,
       "num": 131760,
       "word": "王鹤棣寻一个你直拍",
       "onboard_time": 1674569790,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220251,
+      "num": 258556,
+      "word": "女儿回应父亲倒贴2万催婚",
+      "onboard_time": 1674571708,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219067,
@@ -379,28 +443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214960,
-      "num": 214960,
-      "word": "女儿回应父亲倒贴2万催婚",
-      "onboard_time": 1674571708,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213285,
       "num": 109282,
       "word": "吴磊赵今麦 进组",
       "onboard_time": 1674562048,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211783,
-      "num": 211783,
-      "word": "twice日本小分队misamo新歌公开",
-      "onboard_time": 1674609622,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 208480,
@@ -491,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154821,
+      "num": 154821,
+      "word": "过年不适合换新发型",
+      "onboard_time": 1674610762,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145342,
       "num": 145342,
       "word": "大年初四接灶王",
@@ -503,14 +559,6 @@
       "num": 96832,
       "word": "周深向光而行舞台点亮火树银花",
       "onboard_time": 1674579500,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 143032,
-      "num": 143032,
-      "word": "苏醒时长最长的一期老歌手日常",
-      "onboard_time": 1674609803,
       "rank": 31,
       "category": "综艺"
     },
@@ -531,11 +579,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137499,
+      "num": 137499,
+      "word": "狂飙李一桐眼神戏",
+      "onboard_time": 1674567809,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128398,
       "num": 128398,
       "word": "走丢狗狗突然回家一家人激动庆祝",
       "onboard_time": 1674569849,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125572,
+      "num": 125572,
+      "word": "江疏影无名红旗袍造型",
+      "onboard_time": 1674595510,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 122234,
+      "num": 122234,
+      "word": "儿子醉酒女友发信息妈妈着急问密码",
+      "onboard_time": 1674611482,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -547,20 +619,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118566,
+      "num": 118566,
+      "word": "张小斐清唱逆光",
+      "onboard_time": 1674611243,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 116761,
       "num": 116761,
       "word": "离家的全国统一仪式是拔充电器",
       "onboard_time": 1674556947,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115317,
-      "num": 115317,
-      "word": "江疏影无名红旗袍造型",
-      "onboard_time": 1674595510,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 114062,
@@ -595,28 +667,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 106328,
-      "num": 106328,
-      "word": "狂飙李一桐眼神戏",
-      "onboard_time": 1674567809,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 103064,
       "num": 103064,
       "word": "和以前最好的朋友还有联系吗",
       "onboard_time": 1674564867,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 100137,
-      "num": 100137,
-      "word": "彭斯私宅发现十几份机密文件",
-      "onboard_time": 1674609923,
-      "rank": 48,
-      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 98630,
