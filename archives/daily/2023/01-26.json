@@ -1,6 +1,6 @@
 {
   "startTime": 1674663933880,
-  "endTime": 1674671772022,
+  "endTime": 1674674077938,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -419,12 +419,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 71727,
+      "num": 71727,
+      "word": "气球大叔一开口城管哭了",
+      "onboard_time": 1674669975,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63383,
-      "num": 54751,
+      "num": 55534,
       "word": "武林外传是懂爱情的",
       "onboard_time": 1674671235,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 55662,
+      "num": 55662,
+      "word": "福建和两广跌破冰点",
+      "onboard_time": 1674671714,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54409,
@@ -435,27 +451,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52032,
-      "num": 52032,
-      "word": "气球大叔一开口城管哭了",
-      "onboard_time": 1674669975,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48630,
       "num": 1383241,
       "word": "4个春节期间防疫热点问答",
       "onboard_time": 1674652649,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25742,
-      "num": 25742,
-      "word": "福建和两广跌破冰点",
-      "onboard_time": 1674671714,
-      "rank": 49,
       "category": "社会新闻"
     }
   ],
