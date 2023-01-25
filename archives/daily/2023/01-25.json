@@ -1,6 +1,6 @@
 {
   "startTime": 1674577564806,
-  "endTime": 1674614457785,
+  "endTime": 1674615050260,
   "band_list": [
     {
       "raw_hot": 2034303,
@@ -35,8 +35,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 987810,
-      "num": 987810,
+      "raw_hot": 1025125,
+      "num": 1025125,
       "word": "入选的小朋友估计能吹一辈子",
       "onboard_time": 1674608242,
       "rank": 30,
@@ -51,20 +51,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 782470,
+      "num": 782470,
+      "word": "儿子醉酒女友发信息妈妈着急问密码",
+      "onboard_time": 1674611482,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 771385,
-      "num": 419080,
+      "num": 421650,
       "word": "家属回应老人除夕夜遭儿媳棍打",
       "onboard_time": 1674610101,
       "rank": 13,
       "category": "社会负面"
     },
     {
-      "raw_hot": 754354,
-      "num": 754354,
-      "word": "儿子醉酒女友发信息妈妈着急问密码",
-      "onboard_time": 1674611482,
-      "rank": 43,
+      "raw_hot": 718619,
+      "num": 718619,
+      "word": "加特林烟花原创者回应",
+      "onboard_time": 1674611843,
+      "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 684632,
+      "num": 684632,
+      "word": "初四",
+      "onboard_time": 1674601874,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 684451,
@@ -75,20 +91,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 668701,
-      "num": 415083,
-      "word": "加特林烟花原创者回应",
-      "onboard_time": 1674611843,
+      "raw_hot": 669344,
+      "num": 412078,
+      "word": "网友泰国偶遇杨洋",
+      "onboard_time": 1674614782,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 659364,
-      "num": 659364,
-      "word": "初四",
-      "onboard_time": 1674601874,
-      "rank": 8,
-      "category": "情感"
+      "category": "艺人"
     },
     {
       "raw_hot": 633024,
@@ -123,8 +131,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 553064,
-      "num": 553064,
+      "raw_hot": 588235,
+      "num": 588235,
       "word": "流浪地球格局",
       "onboard_time": 1674612143,
       "rank": 6,
@@ -259,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325575,
+      "num": 172123,
+      "word": "张艺谋为什么放弃整部满江红一镜到底",
+      "onboard_time": 1674614962,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321987,
       "num": 321987,
       "word": "噶了之后重生为数字生命继续拍",
@@ -291,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294481,
+      "num": 294481,
+      "word": "无名体",
+      "onboard_time": 1674614844,
+      "rank": 18,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 280886,
       "num": 299896,
       "word": "火炕不够长1米86男生枕4个凳子入睡",
@@ -313,6 +337,14 @@
       "onboard_time": 1674572369,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268672,
+      "num": 268672,
+      "word": "狗狗听到有人夸它后的反应",
+      "onboard_time": 1674613343,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 268342,
@@ -507,14 +539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202284,
-      "num": 153197,
-      "word": "狗狗听到有人夸它后的反应",
-      "onboard_time": 1674613343,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 195885,
       "num": 141660,
       "word": "高启盛什么时候下线",
@@ -563,6 +587,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 177669,
+      "num": 177669,
+      "word": "江疏影无名红旗袍造型",
+      "onboard_time": 1674595510,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174249,
       "num": 126771,
       "word": "沈腾还在上面",
@@ -577,14 +609,6 @@
       "onboard_time": 1674565105,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167056,
-      "num": 152297,
-      "word": "江疏影无名红旗袍造型",
-      "onboard_time": 1674595510,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 166008,
@@ -659,6 +683,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120669,
+      "num": 119671,
+      "word": "流浪地球世界观",
+      "onboard_time": 1674613404,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 120274,
+      "num": 120274,
+      "word": "骗子被抓屋里撩汉秘籍与床齐高",
+      "onboard_time": 1674614543,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118566,
       "num": 118566,
       "word": "张小斐清唱逆光",
@@ -707,14 +747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 106276,
-      "num": 106276,
-      "word": "流浪地球世界观",
-      "onboard_time": 1674613404,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 103064,
       "num": 103064,
       "word": "和以前最好的朋友还有联系吗",
@@ -729,6 +761,14 @@
       "onboard_time": 1674570571,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96030,
+      "num": 96030,
+      "word": "张若昀愿八里河的温暖一直延续",
+      "onboard_time": 1674614904,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 75176,
