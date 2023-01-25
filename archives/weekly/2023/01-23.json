@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674632015197,
+  "endTime": 1674634983513,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -160,6 +160,14 @@
       "word": "江西为天价彩礼降温",
       "onboard_time": 1674522862,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1372204,
+      "num": 1372204,
+      "word": "初婚人数首次跌破1200万人",
+      "onboard_time": 1674630503,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -425,6 +433,14 @@
       "onboard_time": 1674561806,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 937551,
+      "num": 937551,
+      "word": "BLACKPINK与法国第一夫人合照",
+      "onboard_time": 1674632064,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 915244,
@@ -739,6 +755,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 676598,
+      "num": 676598,
+      "word": "黄山",
+      "onboard_time": 1674629663,
+      "rank": 7,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 676153,
       "num": 489143,
       "word": "山东一私家车贴日本军旗被举报",
@@ -859,12 +883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 596792,
-      "num": 596792,
-      "word": "黄山",
-      "onboard_time": 1674629663,
-      "rank": 7,
-      "category": "旅游"
+      "raw_hot": 598773,
+      "num": 447663,
+      "word": "18岁女生过年拒相亲被赶出门和狗睡",
+      "onboard_time": 1674628643,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 596781,
@@ -899,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578444,
+      "num": 578444,
+      "word": "高叶被低估的女演员",
+      "onboard_time": 1674634226,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 577994,
       "num": 577994,
       "word": "TF家族四代陈浚铭汪浚熙开通微博",
@@ -913,14 +945,6 @@
       "onboard_time": 1674571226,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 575783,
-      "num": 575783,
-      "word": "初婚人数首次跌破1200万人",
-      "onboard_time": 1674630503,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 572141,
@@ -1035,14 +1059,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 546629,
-      "num": 379310,
-      "word": "18岁女生过年拒相亲被赶出门和狗睡",
-      "onboard_time": 1674628643,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 544832,
       "num": 544832,
       "word": "doja cat",
@@ -1131,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522657,
+      "num": 522657,
+      "word": "Lisa创5项吉尼斯世界纪录",
+      "onboard_time": 1674632903,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 520076,
       "num": 459281,
       "word": "曹可凡吃大肠",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1674534625,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 505202,
+      "num": 505202,
+      "word": "刘惜君穿19年前礼服裙",
+      "onboard_time": 1674630864,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 504847,
@@ -1705,14 +1737,6 @@
       "onboard_time": 1674616643,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 397021,
-      "num": 397021,
-      "word": "刘惜君穿19年前礼服裙",
-      "onboard_time": 1674630864,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 396359,
@@ -2683,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267688,
+      "num": 267688,
+      "word": "王一博是无名首个确定下来的演员",
+      "onboard_time": 1674634286,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267403,
       "num": 267403,
       "word": "原来古巨基KTV也点情歌王",
@@ -3163,6 +3195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220088,
+      "num": 220088,
+      "word": "天梯烟花",
+      "onboard_time": 1674632183,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220019,
       "num": 220019,
       "word": "林鹏翔陈铚研比恋综甜",
@@ -3233,6 +3273,14 @@
       "onboard_time": 1674626483,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211300,
+      "num": 154614,
+      "word": "高叶谈陈书婷和高启强分手的原因",
+      "onboard_time": 1674634226,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 210904,
@@ -3324,7 +3372,7 @@
     },
     {
       "raw_hot": 204626,
-      "num": 145913,
+      "num": 152087,
       "word": "迪士尼情侣的真实年龄",
       "onboard_time": 1674631043,
       "rank": 46,
@@ -3763,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179598,
+      "num": 179598,
+      "word": "春节档电影打分人数",
+      "onboard_time": 1674634463,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179320,
       "num": 175191,
       "word": "宋轶在春晚后台给赵今麦送小饼干",
@@ -3865,6 +3921,14 @@
       "onboard_time": 1674558209,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172399,
+      "num": 172399,
+      "word": "26岁靠自学为国攻克原子弹关键技术",
+      "onboard_time": 1674631824,
+      "rank": 48,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 171660,
@@ -4291,6 +4355,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 143723,
+      "num": 143723,
+      "word": "景区回应黄山降雪游客称滞留5小时",
+      "onboard_time": 1674633325,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143718,
       "num": 121057,
       "word": "满江红 家国情怀",
@@ -4369,6 +4441,14 @@
       "onboard_time": 1674429254,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137808,
+      "num": 137808,
+      "word": "女子将2000块压岁钱存了10年",
+      "onboard_time": 1674634523,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137761,
@@ -4851,6 +4931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 106059,
+      "num": 106059,
+      "word": "按压一个穴位缓解腰痛",
+      "onboard_time": 1674634584,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104359,
       "num": 104359,
       "word": "雷佳音演技",
@@ -4897,6 +4985,14 @@
       "onboard_time": 1674626242,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101296,
+      "num": 101296,
+      "word": "流浪地球2台词",
+      "onboard_time": 1674633803,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 99740,
@@ -5041,14 +5137,6 @@
       "onboard_time": 1674450504,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 85113,
-      "num": 85113,
-      "word": "26岁靠自学为国攻克原子弹关键技术",
-      "onboard_time": 1674631824,
-      "rank": 48,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 83205,
