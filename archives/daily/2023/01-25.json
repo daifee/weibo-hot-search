@@ -1,6 +1,6 @@
 {
   "startTime": 1674577564806,
-  "endTime": 1674624815176,
+  "endTime": 1674627766764,
   "band_list": [
     {
       "raw_hot": 2034303,
@@ -32,6 +32,14 @@
       "word": "网友泰国偶遇杨洋",
       "onboard_time": 1674614782,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1263715,
+      "num": 416165,
+      "word": "田曦薇多个粉丝站暂停运营",
+      "onboard_time": 1674626725,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 761597,
+      "num": 761597,
+      "word": "原来浙江人天生会说日语",
+      "onboard_time": 1674623064,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 702737,
       "num": 702737,
       "word": "流浪地球格局",
@@ -203,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 566045,
+      "num": 566045,
+      "word": "蒲熠星演蒲鱼儿子",
+      "onboard_time": 1674625702,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 563692,
       "num": 563692,
       "word": "肖战祝大家大展鸿兔",
@@ -249,6 +273,14 @@
       "onboard_time": 1674614844,
       "rank": 18,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 482062,
+      "num": 482062,
+      "word": "王一博王传君神同步看表是即兴发挥",
+      "onboard_time": 1674626483,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 481619,
@@ -307,20 +339,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 413642,
-      "num": 413642,
-      "word": "原来浙江人天生会说日语",
-      "onboard_time": 1674623064,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 412030,
       "num": 412030,
       "word": "爸爸首次喝奶茶上秒期待下秒嫌弃",
       "onboard_time": 1674618983,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409096,
+      "num": 409096,
+      "word": "詹姆斯创个人单场三分纪录",
+      "onboard_time": 1674625584,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 398826,
@@ -339,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 386227,
+      "num": 386227,
+      "word": "女儿拒绝收钱搞卫生说有铜臭味",
+      "onboard_time": 1674621745,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382866,
       "num": 382866,
       "word": "第一视角看吃面条有多离谱",
@@ -353,6 +393,14 @@
       "onboard_time": 1674624085,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 363630,
+      "num": 363630,
+      "word": "我不同意你脱下这身军装",
+      "onboard_time": 1674625944,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 357855,
@@ -377,14 +425,6 @@
       "onboard_time": 1674613343,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 337025,
-      "num": 337025,
-      "word": "女儿拒绝收钱搞卫生说有铜臭味",
-      "onboard_time": 1674621745,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335786,
@@ -467,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287556,
+      "num": 287556,
+      "word": "虞书欣王鹤棣没同框但又同框了",
+      "onboard_time": 1674626065,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280886,
       "num": 299896,
       "word": "火炕不够长1米86男生枕4个凳子入睡",
@@ -505,6 +553,14 @@
       "onboard_time": 1674617005,
       "rank": 30,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 266049,
+      "num": 240117,
+      "word": "易烊千玺讲满江红背后的故事",
+      "onboard_time": 1674627023,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 265466,
@@ -843,12 +899,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188725,
+      "num": 188725,
+      "word": "用无名的方式讲话",
+      "onboard_time": 1674625824,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188108,
       "num": 106070,
       "word": "宁艺卓录音室高音",
       "onboard_time": 1674573211,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187420,
+      "num": 187420,
+      "word": "詹姆斯46分",
+      "onboard_time": 1674627083,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 183806,
@@ -859,8 +931,16 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 181941,
+      "num": 176274,
+      "word": "浓眉嫌弃詹姆斯抛镁粉",
+      "onboard_time": 1674626483,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180166,
-      "num": 173144,
+      "num": 177975,
       "word": "当你不让狗狗进厨房",
       "onboard_time": 1674623424,
       "rank": 38,
@@ -881,6 +961,14 @@
       "onboard_time": 1674621563,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176734,
+      "num": 176734,
+      "word": "我的新年欢乐祈愿",
+      "onboard_time": 1674627383,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 174249,
@@ -995,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126146,
+      "num": 126146,
+      "word": "TXT新专主打曲MV预告公开",
+      "onboard_time": 1674625045,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 122099,
       "num": 122099,
       "word": "张小斐说让杨迪把她设计成跨的封面",
@@ -1081,6 +1177,14 @@
       "onboard_time": 1674564867,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101380,
+      "num": 101380,
+      "word": "手工匠人用翻糖蛋糕神还原李白诗句",
+      "onboard_time": 1674626242,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98630,

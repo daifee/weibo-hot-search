@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674624815176,
+  "endTime": 1674627766764,
   "band_list": [
     {
       "raw_hot": 2851314,
@@ -201,6 +201,14 @@
       "onboard_time": 1674530185,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1263715,
+      "num": 416165,
+      "word": "田曦薇多个粉丝站暂停运营",
+      "onboard_time": 1674626725,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1260359,
@@ -553,6 +561,14 @@
       "onboard_time": 1674611843,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 761597,
+      "num": 761597,
+      "word": "原来浙江人天生会说日语",
+      "onboard_time": 1674623064,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 754005,
@@ -939,6 +955,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 566045,
+      "num": 566045,
+      "word": "蒲熠星演蒲鱼儿子",
+      "onboard_time": 1674625702,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 563692,
       "num": 563692,
       "word": "肖战祝大家大展鸿兔",
@@ -1267,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 482062,
+      "num": 482062,
+      "word": "王一博王传君神同步看表是即兴发挥",
+      "onboard_time": 1674626483,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 481619,
       "num": 481619,
       "word": "满江红 反转",
@@ -1555,14 +1587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 413642,
-      "num": 413642,
-      "word": "原来浙江人天生会说日语",
-      "onboard_time": 1674623064,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 412272,
       "num": 412272,
       "word": "满江红票房",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1674556947,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409096,
+      "num": 409096,
+      "word": "詹姆斯创个人单场三分纪录",
+      "onboard_time": 1674625584,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 408702,
@@ -1713,6 +1745,14 @@
       "onboard_time": 1674398908,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386227,
+      "num": 386227,
+      "word": "女儿拒绝收钱搞卫生说有铜臭味",
+      "onboard_time": 1674621745,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385801,
@@ -1857,6 +1897,14 @@
       "onboard_time": 1674464065,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363630,
+      "num": 363630,
+      "word": "我不同意你脱下这身军装",
+      "onboard_time": 1674625944,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 362355,
@@ -2041,14 +2089,6 @@
       "onboard_time": 1674572910,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 337025,
-      "num": 337025,
-      "word": "女儿拒绝收钱搞卫生说有铜臭味",
-      "onboard_time": 1674621745,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336450,
@@ -2427,6 +2467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287556,
+      "num": 287556,
+      "word": "虞书欣王鹤棣没同框但又同框了",
+      "onboard_time": 1674626065,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286402,
       "num": 286402,
       "word": "这群兔子是在开会吗",
@@ -2577,6 +2625,14 @@
       "onboard_time": 1674617005,
       "rank": 30,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 266049,
+      "num": 240117,
+      "word": "易烊千玺讲满江红背后的故事",
+      "onboard_time": 1674627023,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 265466,
@@ -3459,6 +3515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188725,
+      "num": 188725,
+      "word": "用无名的方式讲话",
+      "onboard_time": 1674625824,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188649,
       "num": 188649,
       "word": "暴雪国服游戏停服",
@@ -3489,6 +3553,14 @@
       "onboard_time": 1674517639,
       "rank": 30,
       "category": "旅游,自然"
+    },
+    {
+      "raw_hot": 187420,
+      "num": 187420,
+      "word": "詹姆斯46分",
+      "onboard_time": 1674627083,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 186438,
@@ -3555,6 +3627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181941,
+      "num": 176274,
+      "word": "浓眉嫌弃詹姆斯抛镁粉",
+      "onboard_time": 1674626483,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180985,
       "num": 180985,
       "word": "兔子急了还会游泳",
@@ -3588,7 +3668,7 @@
     },
     {
       "raw_hot": 180166,
-      "num": 173144,
+      "num": 177975,
       "word": "当你不让狗狗进厨房",
       "onboard_time": 1674623424,
       "rank": 38,
@@ -3665,6 +3745,14 @@
       "onboard_time": 1674457044,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176734,
+      "num": 176734,
+      "word": "我的新年欢乐祈愿",
+      "onboard_time": 1674627383,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 174442,
@@ -4355,6 +4443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126146,
+      "num": 126146,
+      "word": "TXT新专主打曲MV预告公开",
+      "onboard_time": 1674625045,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 126021,
       "num": 126021,
       "word": "你们去电影院接生去了",
@@ -4681,6 +4777,14 @@
       "onboard_time": 1674455603,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101380,
+      "num": 101380,
+      "word": "手工匠人用翻糖蛋糕神还原李白诗句",
+      "onboard_time": 1674626242,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99740,
