@@ -1,6 +1,6 @@
 {
   "startTime": 1674577564806,
-  "endTime": 1674617633045,
+  "endTime": 1674620553681,
   "band_list": [
     {
       "raw_hot": 2034303,
@@ -67,12 +67,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 950046,
+      "num": 950046,
+      "word": "女儿晒妈妈27岁时颜值不输明星",
+      "onboard_time": 1674616225,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 927035,
       "num": 927035,
       "word": "狂飙",
       "onboard_time": 1674560607,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 873274,
+      "num": 873274,
+      "word": "朱珠产后三个月演女神角色不自信",
+      "onboard_time": 1674619641,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 782470,
@@ -123,6 +139,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 658920,
+      "num": 658920,
+      "word": "郭帆 球3拍了吗",
+      "onboard_time": 1674619641,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 633024,
       "num": 633024,
       "word": "女子吐槽波司登羽绒服到东北变嘎嘣脆",
@@ -147,20 +171,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 605520,
+      "num": 605520,
+      "word": "绿袖细腰夺命小妖",
+      "onboard_time": 1674615325,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 605231,
       "num": 605231,
       "word": "你觉得和前任相处的界限在哪",
       "onboard_time": 1674604697,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 592449,
-      "num": 592449,
-      "word": "绿袖细腰夺命小妖",
-      "onboard_time": 1674615325,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 563692,
@@ -251,20 +275,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 411188,
-      "num": 411188,
-      "word": "女儿晒妈妈27岁时颜值不输明星",
-      "onboard_time": 1674616225,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 398826,
       "num": 398826,
       "word": "NCT日本队今年夏天出道",
       "onboard_time": 1674616643,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 395337,
+      "num": 395337,
+      "word": "爸爸首次喝奶茶上秒期待下秒嫌弃",
+      "onboard_time": 1674618983,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386333,
@@ -379,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293482,
+      "num": 293482,
+      "word": "王鹤棣回头瞬间梦回东方青苍",
+      "onboard_time": 1674618923,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280886,
       "num": 299896,
       "word": "火炕不够长1米86男生枕4个凳子入睡",
@@ -411,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267013,
+      "num": 267013,
+      "word": "重庆封桥封路宠粉",
+      "onboard_time": 1674617005,
+      "rank": 30,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 265128,
       "num": 265128,
       "word": "张小斐收到糖纸戒指的反应",
@@ -425,6 +465,14 @@
       "onboard_time": 1674615325,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260779,
+      "num": 260779,
+      "word": "消防员零下35度灭火浇成冰雕连",
+      "onboard_time": 1674616704,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254838,
@@ -457,6 +505,14 @@
       "onboard_time": 1674571409,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 245218,
+      "num": 245218,
+      "word": "徐冬冬秀马甲线",
+      "onboard_time": 1674618384,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 241205,
@@ -497,6 +553,14 @@
       "onboard_time": 1674562948,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235425,
+      "num": 235425,
+      "word": "人还没进门礼就先进去了",
+      "onboard_time": 1674618504,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 231113,
@@ -547,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220019,
+      "num": 220019,
+      "word": "林鹏翔陈铚研比恋综甜",
+      "onboard_time": 1674618263,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219067,
       "num": 219067,
       "word": "相差几个月小朋友的体格差",
@@ -585,6 +657,14 @@
       "onboard_time": 1674562048,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208682,
+      "num": 208682,
+      "word": "梅西计划下届美洲杯前继续为国效力",
+      "onboard_time": 1674617603,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 208615,
@@ -683,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171660,
+      "num": 171660,
+      "word": "怕冷猫咪与主人争烤火炉",
+      "onboard_time": 1674617244,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167677,
       "num": 167677,
       "word": "婆婆言传身教吵架绝招俩儿媳看呆",
@@ -699,12 +787,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164877,
-      "num": 164877,
-      "word": "消防员零下35度灭火浇成冰雕连",
-      "onboard_time": 1674616704,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 160475,
+      "num": 160475,
+      "word": "过年一万块羽绒服被撕吧坏了",
+      "onboard_time": 1674619943,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 154821,
@@ -731,12 +819,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142299,
-      "num": 142299,
-      "word": "重庆封桥封路宠粉",
-      "onboard_time": 1674617005,
-      "rank": 30,
-      "category": "社会新闻,旅游"
+      "raw_hot": 141450,
+      "num": 141450,
+      "word": "中国乒乓之绝地反击",
+      "onboard_time": 1674618324,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 140124,
@@ -760,6 +848,14 @@
       "word": "狂飙李一桐眼神戏",
       "onboard_time": 1674567809,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 134881,
+      "num": 134881,
+      "word": "春节档电影总票房破40亿",
+      "onboard_time": 1674619223,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -883,20 +979,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95562,
-      "num": 95562,
-      "word": "怕冷猫咪与主人争烤火炉",
-      "onboard_time": 1674617244,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 80418,
-      "num": 80418,
-      "word": "梅西计划下届美洲杯前继续为国效力",
-      "onboard_time": 1674617603,
+      "raw_hot": 77578,
+      "num": 77578,
+      "word": "杨迪带妈妈看交换人生",
+      "onboard_time": 1674619284,
       "rank": 49,
-      "category": "体育"
+      "category": "影视"
     },
     {
       "raw_hot": 75176,
@@ -931,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 51788,
+      "num": 957538,
+      "word": "春节温暖你我的烟火气",
+      "onboard_time": 1674618743,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33457,
       "num": 33457,
       "word": "俞灏明说中国乒乓飒飞了",
@@ -951,6 +1047,9 @@
     },
     {
       "word": "#向春而行#"
+    },
+    {
+      "word": "#大年初四接灶王#"
     }
   ]
 }

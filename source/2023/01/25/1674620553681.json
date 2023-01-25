@@ -1,0 +1,410 @@
+{
+  "runTime": 1674620553681,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1276462,
+        "num": 1276462,
+        "word": "满江红票房逆跌",
+        "onboard_time": 1674571409,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1016671,
+        "num": 1016671,
+        "word": "无名豆瓣开分6.8",
+        "onboard_time": 1674616284,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51788,
+        "num": 957538,
+        "word": "春节温暖你我的烟火气",
+        "onboard_time": 1674618743,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1074380,
+        "num": 957162,
+        "word": "张艺谋为什么放弃整部满江红一镜到底",
+        "onboard_time": 1674614962,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 950046,
+        "num": 950046,
+        "word": "女儿晒妈妈27岁时颜值不输明星",
+        "onboard_time": 1674616225,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873274,
+        "num": 873274,
+        "word": "朱珠产后三个月演女神角色不自信",
+        "onboard_time": 1674619641,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 658920,
+        "num": 658920,
+        "word": "郭帆 球3拍了吗",
+        "onboard_time": 1674619641,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 605520,
+        "num": 605520,
+        "word": "绿袖细腰夺命小妖",
+        "onboard_time": 1674615325,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 592276,
+        "num": 592276,
+        "word": "入选的小朋友估计能吹一辈子",
+        "onboard_time": 1674608242,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 464749,
+        "num": 464749,
+        "word": "加特林烟花原创者回应",
+        "onboard_time": 1674611843,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986037,
+        "num": 451975,
+        "word": "网友泰国偶遇杨洋",
+        "onboard_time": 1674614782,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395337,
+        "num": 395337,
+        "word": "爸爸首次喝奶茶上秒期待下秒嫌弃",
+        "onboard_time": 1674618983,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372128,
+        "num": 372128,
+        "word": "骗子被抓屋里撩汉秘籍与床齐高",
+        "onboard_time": 1674614543,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353261,
+        "num": 353261,
+        "word": "肖战祝大家大展鸿兔",
+        "onboard_time": 1674616763,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331162,
+        "num": 331162,
+        "word": "流浪地球格局",
+        "onboard_time": 1674612143,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330787,
+        "num": 330787,
+        "word": "儿子醉酒女友发信息妈妈着急问密码",
+        "onboard_time": 1674611482,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293482,
+        "num": 293482,
+        "word": "王鹤棣回头瞬间梦回东方青苍",
+        "onboard_time": 1674618923,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267013,
+        "num": 267013,
+        "word": "重庆封桥封路宠粉",
+        "onboard_time": 1674617005,
+        "rank": 17,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 264027,
+        "num": 264027,
+        "word": "NCT日本队今年夏天出道",
+        "onboard_time": 1674616643,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260779,
+        "num": 260779,
+        "word": "消防员零下35度灭火浇成冰雕连",
+        "onboard_time": 1674616704,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245218,
+        "num": 245218,
+        "word": "徐冬冬秀马甲线",
+        "onboard_time": 1674618384,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235425,
+        "num": 235425,
+        "word": "人还没进门礼就先进去了",
+        "onboard_time": 1674618504,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221365,
+        "num": 221365,
+        "word": "无名体",
+        "onboard_time": 1674614844,
+        "rank": 22,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 221302,
+        "num": 221302,
+        "word": "twice日本小分队misamo新歌公开",
+        "onboard_time": 1674609622,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220019,
+        "num": 220019,
+        "word": "林鹏翔陈铚研比恋综甜",
+        "onboard_time": 1674618263,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217712,
+        "num": 217712,
+        "word": "狗狗听到有人夸它后的反应",
+        "onboard_time": 1674613343,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216245,
+        "num": 216245,
+        "word": "我是一个软弱的人",
+        "onboard_time": 1674615142,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209144,
+        "num": 209144,
+        "word": "满江红 反转",
+        "onboard_time": 1674603976,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208682,
+        "num": 208682,
+        "word": "梅西计划下届美洲杯前继续为国效力",
+        "onboard_time": 1674617603,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195289,
+        "num": 195289,
+        "word": "再过二十年就没人走亲戚了",
+        "onboard_time": 1674573568,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189400,
+        "num": 189400,
+        "word": "李一桐狂飙哭戏破碎感",
+        "onboard_time": 1674615325,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171660,
+        "num": 171660,
+        "word": "怕冷猫咪与主人争烤火炉",
+        "onboard_time": 1674617244,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160475,
+        "num": 160475,
+        "word": "过年一万块羽绒服被撕吧坏了",
+        "onboard_time": 1674619943,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150295,
+        "num": 150295,
+        "word": "原来小狗也会接朋友去玩",
+        "onboard_time": 1674606261,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 141450,
+        "num": 141450,
+        "word": "中国乒乓之绝地反击",
+        "onboard_time": 1674618324,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141074,
+        "num": 141074,
+        "word": "大年初二男子拔掉充电器离家",
+        "onboard_time": 1674603077,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134881,
+        "num": 134881,
+        "word": "春节档电影总票房破40亿",
+        "onboard_time": 1674619223,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134521,
+        "num": 134521,
+        "word": "初四",
+        "onboard_time": 1674601874,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131177,
+        "num": 131177,
+        "word": "兔子吃多胡萝卜有死亡风险",
+        "onboard_time": 1674615205,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123480,
+        "num": 123480,
+        "word": "瑶琴杀",
+        "onboard_time": 1674610463,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114194,
+        "num": 114194,
+        "word": "快船vs湖人",
+        "onboard_time": 1674616225,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113276,
+        "num": 113276,
+        "word": "狂飙",
+        "onboard_time": 1674560607,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107494,
+        "num": 107494,
+        "word": "女子吐槽波司登羽绒服到东北变嘎嘣脆",
+        "onboard_time": 1674568048,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100090,
+        "num": 100090,
+        "word": "徐明浩直播",
+        "onboard_time": 1674603436,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94542,
+        "num": 94542,
+        "word": "第一视角看吃面条有多离谱",
+        "onboard_time": 1674605657,
+        "rank": 44,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 92905,
+        "num": 92905,
+        "word": "张小斐收到糖纸戒指的反应",
+        "onboard_time": 1674615803,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91104,
+        "num": 91104,
+        "word": "苏醒时长最长的一期老歌手日常",
+        "onboard_time": 1674609803,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89159,
+        "num": 89159,
+        "word": "噶了之后重生为数字生命继续拍",
+        "onboard_time": 1674610162,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81835,
+        "num": 81835,
+        "word": "你觉得和前任相处的界限在哪",
+        "onboard_time": 1674604697,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77578,
+        "num": 77578,
+        "word": "杨迪带妈妈看交换人生",
+        "onboard_time": 1674619284,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#大年初四接灶王#"
+    }
+  }
+}
