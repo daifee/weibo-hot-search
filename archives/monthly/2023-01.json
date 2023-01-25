@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674611675262,
+  "endTime": 1674614457785,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -2939,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1508159,
+      "num": 435360,
+      "word": "儿子儿媳除夕夜对83岁母亲拳打脚踢",
+      "onboard_time": 1674610162,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1508107,
       "num": 1508107,
       "word": "新冠感染确实会有呕吐腹泻",
@@ -3849,14 +3857,6 @@
       "onboard_time": 1673653940,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1313465,
-      "num": 435360,
-      "word": "儿子儿媳除夕夜对83岁母亲拳打脚踢",
-      "onboard_time": 1674610162,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1310698,
@@ -6401,6 +6401,14 @@
       "onboard_time": 1674263843,
       "rank": 12,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 987810,
+      "num": 987810,
+      "word": "入选的小朋友估计能吹一辈子",
+      "onboard_time": 1674608242,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 986542,
@@ -9419,6 +9427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 771385,
+      "num": 419080,
+      "word": "家属回应老人除夕夜遭儿媳棍打",
+      "onboard_time": 1674610101,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 770887,
       "num": 523130,
       "word": "何润东麒麟臂原来是真的",
@@ -9665,6 +9681,14 @@
       "onboard_time": 1674036568,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 754354,
+      "num": 754354,
+      "word": "儿子醉酒女友发信息妈妈着急问密码",
+      "onboard_time": 1674611482,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 754284,
@@ -10241,14 +10265,6 @@
       "onboard_time": 1672656871,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 728739,
-      "num": 419080,
-      "word": "家属回应老人除夕夜遭儿媳棍打",
-      "onboard_time": 1674610101,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 728429,
@@ -11027,14 +11043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 691615,
-      "num": 434541,
-      "word": "入选的小朋友估计能吹一辈子",
-      "onboard_time": 1674608242,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 691552,
       "num": 691552,
       "word": "真的没人管管张远陆虎吗",
@@ -11563,6 +11571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 668701,
+      "num": 415083,
+      "word": "加特林烟花原创者回应",
+      "onboard_time": 1674611843,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 668277,
       "num": 668277,
       "word": "张译演技够导演唠一辈子",
@@ -11825,6 +11841,14 @@
       "onboard_time": 1672975888,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 659364,
+      "num": 659364,
+      "word": "初四",
+      "onboard_time": 1674601874,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 659153,
@@ -15131,6 +15155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 553064,
+      "num": 553064,
+      "word": "流浪地球格局",
+      "onboard_time": 1674612143,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 552881,
       "num": 657935,
       "word": "C罗卡点为中国球迷拜年",
@@ -16675,14 +16707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 512376,
-      "num": 512376,
-      "word": "初四",
-      "onboard_time": 1674601874,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 512326,
       "num": 465483,
       "word": "朴宰范田小娟徐东贤合作舞台",
@@ -18105,6 +18129,14 @@
       "onboard_time": 1672828231,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 481619,
+      "num": 481619,
+      "word": "满江红 反转",
+      "onboard_time": 1674603976,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 481227,
@@ -19681,14 +19713,6 @@
       "onboard_time": 1674187285,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 446321,
-      "num": 446321,
-      "word": "满江红 反转",
-      "onboard_time": 1674603976,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 446105,
@@ -27513,6 +27537,14 @@
       "onboard_time": 1673576907,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 330607,
+      "num": 330607,
+      "word": "满江红票房破14亿",
+      "onboard_time": 1674613522,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 330592,
@@ -40715,6 +40747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208615,
+      "num": 208615,
+      "word": "给黄渤边亮点一首香水有毒",
+      "onboard_time": 1674613043,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208480,
       "num": 194240,
       "word": "瞬息全宇宙获奥斯卡11项提名",
@@ -41393,6 +41433,14 @@
       "onboard_time": 1673839105,
       "rank": 47,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 202284,
+      "num": 153197,
+      "word": "狗狗听到有人夸它后的反应",
+      "onboard_time": 1674613343,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 202120,
@@ -47113,6 +47161,14 @@
       "onboard_time": 1673684726,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167056,
+      "num": 152297,
+      "word": "江疏影无名红旗袍造型",
+      "onboard_time": 1674595510,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 167031,
@@ -53131,14 +53187,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 125572,
-      "num": 125572,
-      "word": "江疏影无名红旗袍造型",
-      "onboard_time": 1674595510,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 125529,
       "num": 125529,
       "word": "和WB一起扭一扭",
@@ -53625,14 +53673,6 @@
       "onboard_time": 1673749764,
       "rank": 43,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 122234,
-      "num": 122234,
-      "word": "儿子醉酒女友发信息妈妈着急问密码",
-      "onboard_time": 1674611482,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122173,
@@ -55721,6 +55761,14 @@
       "onboard_time": 1674280943,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106276,
+      "num": 106276,
+      "word": "流浪地球世界观",
+      "onboard_time": 1674613404,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 106008,

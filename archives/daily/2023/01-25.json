@@ -1,6 +1,6 @@
 {
   "startTime": 1674577564806,
-  "endTime": 1674611675262,
+  "endTime": 1674614457785,
   "band_list": [
     {
       "raw_hot": 2034303,
@@ -11,20 +11,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1508159,
+      "num": 435360,
+      "word": "儿子儿媳除夕夜对83岁母亲拳打脚踢",
+      "onboard_time": 1674610162,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1503413,
       "num": 1503413,
       "word": "再过二十年就没人走亲戚了",
       "onboard_time": 1674573568,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1313465,
-      "num": 435360,
-      "word": "儿子儿媳除夕夜对83岁母亲拳打脚踢",
-      "onboard_time": 1674610162,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1130945,
@@ -35,6 +35,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 987810,
+      "num": 987810,
+      "word": "入选的小朋友估计能吹一辈子",
+      "onboard_time": 1674608242,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 927035,
       "num": 927035,
       "word": "狂飙",
@@ -43,7 +51,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 728739,
+      "raw_hot": 771385,
       "num": 419080,
       "word": "家属回应老人除夕夜遭儿媳棍打",
       "onboard_time": 1674610101,
@@ -51,12 +59,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 691615,
-      "num": 434541,
-      "word": "入选的小朋友估计能吹一辈子",
-      "onboard_time": 1674608242,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 754354,
+      "num": 754354,
+      "word": "儿子醉酒女友发信息妈妈着急问密码",
+      "onboard_time": 1674611482,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 684451,
@@ -65,6 +73,22 @@
       "onboard_time": 1674606261,
       "rank": 4,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 668701,
+      "num": 415083,
+      "word": "加特林烟花原创者回应",
+      "onboard_time": 1674611843,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 659364,
+      "num": 659364,
+      "word": "初四",
+      "onboard_time": 1674601874,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 633024,
@@ -99,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 553064,
+      "num": 553064,
+      "word": "流浪地球格局",
+      "onboard_time": 1674612143,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 541400,
       "num": 541400,
       "word": "网红烟花加特林威力有多大",
@@ -115,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 512376,
-      "num": 512376,
-      "word": "初四",
-      "onboard_time": 1674601874,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 496950,
       "num": 496950,
       "word": "单身舅舅过年被6个外甥围着催婚",
@@ -131,8 +155,8 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 446321,
-      "num": 446321,
+      "raw_hot": 481619,
+      "num": 481619,
       "word": "满江红 反转",
       "onboard_time": 1674603976,
       "rank": 9,
@@ -224,6 +248,14 @@
       "word": "吴磊 芬兰",
       "onboard_time": 1674560906,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 330607,
+      "num": 330607,
+      "word": "满江红票房破14亿",
+      "onboard_time": 1674613522,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -451,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208615,
+      "num": 208615,
+      "word": "给黄渤边亮点一首香水有毒",
+      "onboard_time": 1674613043,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208480,
       "num": 194240,
       "word": "瞬息全宇宙获奥斯卡11项提名",
@@ -465,6 +505,14 @@
       "onboard_time": 1674571890,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202284,
+      "num": 153197,
+      "word": "狗狗听到有人夸它后的反应",
+      "onboard_time": 1674613343,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 195885,
@@ -531,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167056,
+      "num": 152297,
+      "word": "江疏影无名红旗袍造型",
+      "onboard_time": 1674595510,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166008,
       "num": 102535,
       "word": "李雪健 定海神针",
@@ -595,22 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125572,
-      "num": 125572,
-      "word": "江疏影无名红旗袍造型",
-      "onboard_time": 1674595510,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 122234,
-      "num": 122234,
-      "word": "儿子醉酒女友发信息妈妈着急问密码",
-      "onboard_time": 1674611482,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122099,
       "num": 122099,
       "word": "张小斐说让杨迪把她设计成跨的封面",
@@ -665,6 +705,14 @@
       "onboard_time": 1674602415,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106276,
+      "num": 106276,
+      "word": "流浪地球世界观",
+      "onboard_time": 1674613404,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 103064,
