@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674675203669,
+  "endTime": 1674677952990,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -59739,6 +59739,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 70793,
+      "num": 70793,
+      "word": "福建和两广跌破冰点",
+      "onboard_time": 1674671714,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70515,
       "num": 114145,
       "word": "我的小年仪式感",
@@ -60032,14 +60040,6 @@
       "word": "一图速览10个发热就诊指征",
       "onboard_time": 1673668407,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62072,
-      "num": 62072,
-      "word": "福建和两广跌破冰点",
-      "onboard_time": 1674671714,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -60441,6 +60441,14 @@
       "onboard_time": 1674066855,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46440,
+      "num": 28484,
+      "word": "中国钓王邓刚开宾利回村过年",
+      "onboard_time": 1674675853,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46377,
@@ -61057,6 +61065,14 @@
       "onboard_time": 1672664431,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 20468,
+      "num": 20468,
+      "word": "王鹤棣抬头见喜细节",
+      "onboard_time": 1674676695,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 20415,

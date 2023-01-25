@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674675203669,
+  "endTime": 1674677952990,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -6147,6 +6147,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 70793,
+      "num": 70793,
+      "word": "福建和两广跌破冰点",
+      "onboard_time": 1674671714,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65820,
       "num": 65820,
       "word": "满江红实时票房破5亿",
@@ -6193,14 +6201,6 @@
       "onboard_time": 1674671235,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 62072,
-      "num": 62072,
-      "word": "福建和两广跌破冰点",
-      "onboard_time": 1674671714,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60214,
@@ -6275,6 +6275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46440,
+      "num": 28484,
+      "word": "中国钓王邓刚开宾利回村过年",
+      "onboard_time": 1674675853,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38922,
       "num": 38922,
       "word": "沈腾 硬唱也能唱",
@@ -6337,6 +6345,14 @@
       "onboard_time": 1674411496,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20468,
+      "num": 20468,
+      "word": "王鹤棣抬头见喜细节",
+      "onboard_time": 1674676695,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 18253,
