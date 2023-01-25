@@ -1,0 +1,410 @@
+{
+  "runTime": 1674653022288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2512977,
+        "num": 2512977,
+        "word": "狂飙",
+        "onboard_time": 1674646769,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 810996,
+        "num": 810996,
+        "word": "武汉长江宣布解散",
+        "onboard_time": 1674643410,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30352,
+        "num": 701413,
+        "word": "4个春节期间防疫热点问答",
+        "onboard_time": 1674652649,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669242,
+        "num": 669242,
+        "word": "女子零下14度观影被冻到扶墙退场",
+        "onboard_time": 1674646952,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651620,
+        "num": 651620,
+        "word": "李响终于安心安欣忠于理想",
+        "onboard_time": 1674651092,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 588830,
+        "num": 588830,
+        "word": "流浪地球2票房破15亿",
+        "onboard_time": 1674646413,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556822,
+        "num": 556822,
+        "word": "女子将2000块压岁钱存了10年",
+        "onboard_time": 1674634523,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518282,
+        "num": 518282,
+        "word": "黄晓明说自己某种程度上是烂好人",
+        "onboard_time": 1674649891,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409353,
+        "num": 409353,
+        "word": "李现的童年一定没少看猫和老鼠",
+        "onboard_time": 1674648751,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379824,
+        "num": 379824,
+        "word": "狂飙太上头了",
+        "onboard_time": 1674652766,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372822,
+        "num": 372822,
+        "word": "张栋梁21年前后唱数来宝对比",
+        "onboard_time": 1674649413,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367793,
+        "num": 367793,
+        "word": "收手吧外面全是吴京",
+        "onboard_time": 1674639327,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366819,
+        "num": 366819,
+        "word": "初婚人数首次跌破1200万人",
+        "onboard_time": 1674630503,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353496,
+        "num": 353496,
+        "word": "by2三年没回家与妈妈相拥泪目",
+        "onboard_time": 1674650072,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346300,
+        "num": 346300,
+        "word": "女子走亲戚姑姑在大棚里招待吃饭",
+        "onboard_time": 1674648512,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295628,
+        "num": 295628,
+        "word": "孙子违规操作帮奶奶赢取百元大钞",
+        "onboard_time": 1674644010,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292914,
+        "num": 292914,
+        "word": "小猫已经放弃挣扎了",
+        "onboard_time": 1674647732,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284446,
+        "num": 284446,
+        "word": "印收到90亿光年外星系无线电信号",
+        "onboard_time": 1674636628,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 269445,
+        "num": 269445,
+        "word": "程耳说王一博是个沉稳的小伙子",
+        "onboard_time": 1674651211,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246437,
+        "num": 246437,
+        "word": "好像男友第一次上门都这样",
+        "onboard_time": 1674649052,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 244323,
+        "num": 244323,
+        "word": "米勒参演中国乒乓",
+        "onboard_time": 1674649710,
+        "rank": 20,
+        "category": "游戏,影视"
+      },
+      {
+        "raw_hot": 225668,
+        "num": 225668,
+        "word": "马嘉祺宋亚轩演的还珠格格",
+        "onboard_time": 1674648032,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213780,
+        "num": 213780,
+        "word": "严浩翔饰演太上老君",
+        "onboard_time": 1674648691,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212702,
+        "num": 212702,
+        "word": "满江红",
+        "onboard_time": 1674522085,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202225,
+        "num": 202225,
+        "word": "Naevis将于3月出道",
+        "onboard_time": 1674642629,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198613,
+        "num": 198613,
+        "word": "XBB和BQ.1毒株上半年流行可能性比较小",
+        "onboard_time": 1674637466,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187950,
+        "num": 187950,
+        "word": "导演解释流浪地球2炸月球像摆饺子",
+        "onboard_time": 1674640408,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183746,
+        "num": 183746,
+        "word": "测试市面上能买到的5种烟花",
+        "onboard_time": 1674650189,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183100,
+        "num": 183100,
+        "word": "黄锐看了满江红",
+        "onboard_time": 1674639327,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174131,
+        "num": 174131,
+        "word": "陆虎和女朋友好甜",
+        "onboard_time": 1674637767,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171372,
+        "num": 171372,
+        "word": "沟通在恋爱中的重要性",
+        "onboard_time": 1674651451,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 167358,
+        "num": 167358,
+        "word": "狗狗找到了自己的靠山",
+        "onboard_time": 1674647672,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 154379,
+        "num": 154379,
+        "word": "王一博是无名首个确定下来的演员",
+        "onboard_time": 1674634286,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153710,
+        "num": 153710,
+        "word": "俄媒发布俄乌前线战斗视频",
+        "onboard_time": 1674639628,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 148605,
+        "num": 148605,
+        "word": "朱颜曼滋气质",
+        "onboard_time": 1674645633,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148242,
+        "num": 148242,
+        "word": "KPL选手收假了",
+        "onboard_time": 1674649591,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148020,
+        "num": 148020,
+        "word": "这是成龙家的猫吧",
+        "onboard_time": 1674646234,
+        "rank": 36,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 142338,
+        "num": 142338,
+        "word": "男子去女友家拜年被山东煎饼难住",
+        "onboard_time": 1674646592,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141022,
+        "num": 141022,
+        "word": "高启盛坑哥",
+        "onboard_time": 1674635366,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138112,
+        "num": 138112,
+        "word": "18岁女生过年拒相亲被赶出门和狗睡",
+        "onboard_time": 1674628643,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137731,
+        "num": 137731,
+        "word": "梅西一家去滑雪",
+        "onboard_time": 1674648269,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133694,
+        "num": 133694,
+        "word": "郭帆说拍流浪地球2太空电梯是噩梦",
+        "onboard_time": 1674636927,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131564,
+        "num": 131564,
+        "word": "女子零下7度户外吃席凉菜成硬菜",
+        "onboard_time": 1674652232,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130549,
+        "num": 130549,
+        "word": "人民网对话邓超俞白眉",
+        "onboard_time": 1674649109,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125501,
+        "num": 125501,
+        "word": "马嘉祺演绎瞳孔地震",
+        "onboard_time": 1674649769,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123690,
+        "num": 123690,
+        "word": "BLACKPINK与法国第一夫人合照",
+        "onboard_time": 1674632064,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122965,
+        "num": 122965,
+        "word": "女子掉进洱海男子以腿为梯救人",
+        "onboard_time": 1674641909,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 74370,
+        "num": 112227,
+        "word": "兔子在中国古代有多少美好寓意",
+        "onboard_time": 1674635487,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111330,
+        "num": 111330,
+        "word": "蔚来车主占三个车位充电引争议",
+        "onboard_time": 1674639205,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101782,
+        "num": 101782,
+        "word": "黄山游客称遇降雪滞留5小时",
+        "onboard_time": 1674635305,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#用中国传统色打开锦绣山河#"
+    }
+  }
+}
