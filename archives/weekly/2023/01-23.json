@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674686043207,
+  "endTime": 1674688743197,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -2537,6 +2537,14 @@
       "onboard_time": 1674537806,
       "rank": 16,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 349215,
+      "num": 349215,
+      "word": "四川泸定5.6级地震",
+      "onboard_time": 1674688153,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348968,
@@ -5691,6 +5699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 111973,
+      "num": 111973,
+      "word": "男子吃变质剩饭菜引发消化道出大血",
+      "onboard_time": 1674684792,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111704,
       "num": 111704,
       "word": "当小朋友有了压岁钱",
@@ -5843,6 +5859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103334,
+      "num": 103334,
+      "word": "男子大年初三喝醉摔下4米高桥",
+      "onboard_time": 1674685632,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103318,
       "num": 103318,
       "word": "守望先锋停服",
@@ -5939,6 +5963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94930,
+      "num": 94930,
+      "word": "春节剩菜剩饭不宜在冰箱存放过久",
+      "onboard_time": 1674687313,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 93602,
       "num": 93602,
       "word": "爷爷用饱经沧桑的手为孙女写下祝福",
@@ -5961,6 +5993,14 @@
       "onboard_time": 1674539724,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92796,
+      "num": 92796,
+      "word": "icon对天灰灰维权成功",
+      "onboard_time": 1674688153,
+      "rank": 13,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 92043,
@@ -6041,6 +6081,14 @@
       "onboard_time": 1674480208,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81437,
+      "num": 81437,
+      "word": "中国钓王邓刚开宾利回村过年",
+      "onboard_time": 1674675853,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80867,
@@ -6155,6 +6203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67731,
+      "num": 46143,
+      "word": "美国一男子被狗踩扳机射杀",
+      "onboard_time": 1674684371,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65820,
       "num": 65820,
       "word": "满江红实时票房破5亿",
@@ -6185,14 +6241,6 @@
       "onboard_time": 1674516436,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 63881,
-      "num": 51675,
-      "word": "中国钓王邓刚开宾利回村过年",
-      "onboard_time": 1674675853,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63503,
@@ -6267,14 +6315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49231,
-      "num": 26021,
-      "word": "美国一男子被狗踩扳机射杀",
-      "onboard_time": 1674684371,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49228,
       "num": 44756,
       "word": "张译演反派",
@@ -6288,14 +6328,6 @@
       "word": "狗子讨要压岁钱只要红色票子",
       "onboard_time": 1674384868,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43615,
-      "num": 43615,
-      "word": "男子吃变质剩饭菜引发消化道出大血",
-      "onboard_time": 1674684792,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -6353,6 +6385,14 @@
       "onboard_time": 1674397834,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25171,
+      "num": 25171,
+      "word": "隧道尽头终有光",
+      "onboard_time": 1674687733,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 24212,
