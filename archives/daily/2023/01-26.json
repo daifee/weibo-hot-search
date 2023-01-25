@@ -1,6 +1,6 @@
 {
   "startTime": 1674663933880,
-  "endTime": 1674678809424,
+  "endTime": 1674681270741,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 63881,
-      "num": 28484,
+      "num": 41982,
       "word": "中国钓王邓刚开宾利回村过年",
       "onboard_time": 1674675853,
       "rank": 30,
@@ -472,6 +472,14 @@
       "word": "王鹤棣抬头见喜细节",
       "onboard_time": 1674676695,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 17732,
+      "num": 17732,
+      "word": "流浪地球",
+      "onboard_time": 1674525925,
+      "rank": 39,
       "category": "影视"
     },
     {
