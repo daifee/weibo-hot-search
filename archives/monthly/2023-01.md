@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/25 18:34:55
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/25 19:15:07
 </p>
 </blockquote>
 <p>
@@ -4767,6 +4767,12 @@ never在笑（热度：1016332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E9%95%BF%E6%B1%9F%E5%AE%A3%E5%B8%83%E8%A7%A3%E6%95%A3%23" target="weibo">
+武汉长江宣布解散（热度：1002706）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A8%8B%E8%80%B3%E4%BA%8E%E5%86%AC%E5%8F%82%E5%8A%A0%E4%B9%90%E5%8D%8E%E4%B8%8A%E5%B8%82%E4%BB%AA%E5%BC%8F%23" target="weibo">
 王一博程耳于冬参加乐华上市仪式（热度：1002535）
 </a>
@@ -6005,12 +6011,6 @@ YG新女团成员正面生图（热度：872101）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E4%B8%A4%E5%A5%97%E9%80%A0%E5%9E%8B%E5%8F%8D%E5%B7%AE%E6%84%9F%23" target="weibo">
 宋祖儿两套造型反差感（热度：865124）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23XBB%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E6%88%91%E5%9B%BD%E4%B8%BB%E8%A6%81%E6%B5%81%E8%A1%8C%E6%A0%AA%23" target="weibo">
-XBB会不会成为我国主要流行株（热度：864597）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1674577564806,
-  "endTime": 1674642895239,
+  "endTime": 1674645307796,
   "band_list": [
     {
       "raw_hot": 2034303,
@@ -131,6 +131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1002706,
+      "num": 1002706,
+      "word": "武汉长江宣布解散",
+      "onboard_time": 1674643410,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 950046,
       "num": 950046,
       "word": "女儿晒妈妈27岁时颜值不输明星",
@@ -153,6 +161,14 @@
       "onboard_time": 1674560607,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 790017,
+      "num": 790017,
+      "word": "天灰灰",
+      "onboard_time": 1674643110,
+      "rank": 4,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 787272,
@@ -315,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 556117,
+      "num": 556117,
+      "word": "收手吧外面全是吴京",
+      "onboard_time": 1674639327,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 541400,
       "num": 541400,
       "word": "网红烟花加特林威力有多大",
@@ -427,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440364,
+      "num": 440364,
+      "word": "导演解释流浪地球2炸月球像摆饺子",
+      "onboard_time": 1674640408,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 431424,
       "num": 431424,
       "word": "骗子被抓屋里撩汉秘籍与床齐高",
@@ -491,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401133,
+      "num": 399424,
+      "word": "女子过年收到4箱礼品3箱是山寨货",
+      "onboard_time": 1674643227,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398826,
       "num": 398826,
       "word": "NCT日本队今年夏天出道",
@@ -499,12 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 395111,
-      "num": 395111,
-      "word": "收手吧外面全是吴京",
-      "onboard_time": 1674639327,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 398633,
+      "num": 398633,
+      "word": "女子掉进洱海男子以腿为梯救人",
+      "onboard_time": 1674641909,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 388111,
@@ -635,19 +675,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331558,
+      "num": 331558,
+      "word": "中疾控发布全国新冠感染情况",
+      "onboard_time": 1674644071,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330607,
       "num": 330607,
       "word": "满江红票房破14亿",
       "onboard_time": 1674613522,
       "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 328577,
-      "num": 328577,
-      "word": "导演解释流浪地球2炸月球像摆饺子",
-      "onboard_time": 1674640408,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -705,6 +745,14 @@
       "onboard_time": 1674626065,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306859,
+      "num": 306859,
+      "word": "被流浪地球2OST剧透了",
+      "onboard_time": 1674644730,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 301339,
@@ -1171,20 +1219,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 197434,
-      "num": 197434,
-      "word": "女子掉进洱海男子以腿为梯救人",
-      "onboard_time": 1674641909,
-      "rank": 49,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 196867,
       "num": 196867,
       "word": "HYBE辟谣与朴宝剑签约",
       "onboard_time": 1674635546,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196109,
+      "num": 196109,
+      "word": "孙子违规操作帮奶奶赢取百元大钞",
+      "onboard_time": 1674644010,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195885,
@@ -1257,6 +1305,14 @@
       "onboard_time": 1674627083,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184748,
+      "num": 184748,
+      "word": "流浪地球2许多大国重器来自这家企业",
+      "onboard_time": 1674643347,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 183806,
@@ -1347,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163532,
+      "num": 163532,
+      "word": "满江红",
+      "onboard_time": 1674522085,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162055,
       "num": 162055,
       "word": "无名细思极恐的细节",
@@ -1369,14 +1433,6 @@
       "onboard_time": 1674610762,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152368,
-      "num": 152368,
-      "word": "满江红",
-      "onboard_time": 1674522085,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 150007,
@@ -1465,6 +1521,30 @@
       "onboard_time": 1674619223,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 133847,
+      "num": 133847,
+      "word": "林允车内素颜自拍",
+      "onboard_time": 1674640707,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130801,
+      "num": 130801,
+      "word": "雷佳音演啥像啥",
+      "onboard_time": 1674642988,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 129666,
+      "num": 129666,
+      "word": "才知道计算器自带隐藏空间",
+      "onboard_time": 1674644549,
+      "rank": 41,
+      "category": "幽默,科技"
     },
     {
       "raw_hot": 128398,
@@ -1579,14 +1659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 108214,
-      "num": 108214,
-      "word": "林允车内素颜自拍",
-      "onboard_time": 1674640707,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107644,
       "num": 107644,
       "word": "用手机拍全家福教程",
@@ -1604,7 +1676,7 @@
     },
     {
       "raw_hot": 106589,
-      "num": 901077,
+      "num": 936179,
       "word": "兔子在中国古代有多少美好寓意",
       "onboard_time": 1674635487,
       "rank": 2,
@@ -1617,6 +1689,14 @@
       "onboard_time": 1674634584,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104025,
+      "num": 104025,
+      "word": "中国留学生宿舍的辨识度",
+      "onboard_time": 1674644671,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 103064,

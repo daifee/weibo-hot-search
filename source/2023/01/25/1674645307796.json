@@ -1,0 +1,410 @@
+{
+  "runTime": 1674645307796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1666953,
+        "num": 1666953,
+        "word": "为什么不建议去男友家过年",
+        "onboard_time": 1674638426,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1002706,
+        "num": 1002706,
+        "word": "武汉长江宣布解散",
+        "onboard_time": 1674643410,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89322,
+        "num": 936179,
+        "word": "兔子在中国古代有多少美好寓意",
+        "onboard_time": 1674635487,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883383,
+        "num": 883383,
+        "word": "女子将2000块压岁钱存了10年",
+        "onboard_time": 1674634523,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790017,
+        "num": 790017,
+        "word": "天灰灰",
+        "onboard_time": 1674643110,
+        "rank": 4,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 556117,
+        "num": 556117,
+        "word": "收手吧外面全是吴京",
+        "onboard_time": 1674639327,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544007,
+        "num": 544007,
+        "word": "初婚人数首次跌破1200万人",
+        "onboard_time": 1674630503,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536670,
+        "num": 536670,
+        "word": "Naevis将于3月出道",
+        "onboard_time": 1674642629,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440364,
+        "num": 440364,
+        "word": "导演解释流浪地球2炸月球像摆饺子",
+        "onboard_time": 1674640408,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399693,
+        "num": 399693,
+        "word": "中国乒乓豆瓣开分7.0",
+        "onboard_time": 1674641307,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401133,
+        "num": 399424,
+        "word": "女子过年收到4箱礼品3箱是山寨货",
+        "onboard_time": 1674643227,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398633,
+        "num": 398633,
+        "word": "女子掉进洱海男子以腿为梯救人",
+        "onboard_time": 1674641909,
+        "rank": 11,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 358606,
+        "num": 358606,
+        "word": "印收到90亿光年外星系无线电信号",
+        "onboard_time": 1674636628,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 355710,
+        "num": 355710,
+        "word": "俄媒发布俄乌前线战斗视频",
+        "onboard_time": 1674639628,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 339957,
+        "num": 339957,
+        "word": "BLACKPINK与法国第一夫人合照",
+        "onboard_time": 1674632064,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331558,
+        "num": 331558,
+        "word": "中疾控发布全国新冠感染情况",
+        "onboard_time": 1674644071,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327864,
+        "num": 327864,
+        "word": "黄锐看了满江红",
+        "onboard_time": 1674639327,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320433,
+        "num": 320433,
+        "word": "18岁女生过年拒相亲被赶出门和狗睡",
+        "onboard_time": 1674628643,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306859,
+        "num": 306859,
+        "word": "被流浪地球2OST剧透了",
+        "onboard_time": 1674644730,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292551,
+        "num": 292551,
+        "word": "XBB和BQ.1毒株上半年流行可能性比较小",
+        "onboard_time": 1674637466,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270640,
+        "num": 270640,
+        "word": "陆虎和女朋友好甜",
+        "onboard_time": 1674637767,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268925,
+        "num": 268925,
+        "word": "郭帆说拍流浪地球2太空电梯是噩梦",
+        "onboard_time": 1674636927,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233371,
+        "num": 233371,
+        "word": "刘惜君穿19年前礼服裙",
+        "onboard_time": 1674630864,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215673,
+        "num": 215673,
+        "word": "王一博是无名首个确定下来的演员",
+        "onboard_time": 1674634286,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196109,
+        "num": 196109,
+        "word": "孙子违规操作帮奶奶赢取百元大钞",
+        "onboard_time": 1674644010,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194371,
+        "num": 194371,
+        "word": "蔚来车主占三个车位充电引争议",
+        "onboard_time": 1674639205,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191029,
+        "num": 191029,
+        "word": "高叶谈陈书婷和高启强分手的原因",
+        "onboard_time": 1674634226,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184748,
+        "num": 184748,
+        "word": "流浪地球2许多大国重器来自这家企业",
+        "onboard_time": 1674643347,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184197,
+        "num": 184197,
+        "word": "Lisa创5项吉尼斯世界纪录",
+        "onboard_time": 1674632903,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170741,
+        "num": 170741,
+        "word": "邓超把护夫听成了护肤",
+        "onboard_time": 1674641307,
+        "rank": 29,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 169473,
+        "num": 169473,
+        "word": "黄山游客称遇降雪滞留5小时",
+        "onboard_time": 1674635305,
+        "rank": 30,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 169354,
+        "num": 169354,
+        "word": "日本计划将核污染土埋入花坛",
+        "onboard_time": 1674640827,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163532,
+        "num": 163532,
+        "word": "满江红",
+        "onboard_time": 1674522085,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158212,
+        "num": 158212,
+        "word": "虞书欣王鹤棣没同框但又同框了",
+        "onboard_time": 1674626065,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157987,
+        "num": 157987,
+        "word": "熊猫幼崽连睡觉都不忘展示可爱",
+        "onboard_time": 1674640286,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154992,
+        "num": 154992,
+        "word": "无名细思极恐的细节",
+        "onboard_time": 1674641848,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148277,
+        "num": 148277,
+        "word": "原来浙江人天生会说日语",
+        "onboard_time": 1674623064,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140504,
+        "num": 140504,
+        "word": "无名导演说王一博眼神杀绝了",
+        "onboard_time": 1674640106,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138168,
+        "num": 138168,
+        "word": "男子去江苏买菜回浙江做饭",
+        "onboard_time": 1674635846,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133847,
+        "num": 133847,
+        "word": "林允车内素颜自拍",
+        "onboard_time": 1674640707,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130801,
+        "num": 130801,
+        "word": "雷佳音演啥像啥",
+        "onboard_time": 1674642988,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129666,
+        "num": 129666,
+        "word": "才知道计算器自带隐藏空间",
+        "onboard_time": 1674644549,
+        "rank": 41,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 126191,
+        "num": 126191,
+        "word": "曝刘少林刘少昂兄弟已入籍中国",
+        "onboard_time": 1674621384,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 115895,
+        "num": 115895,
+        "word": "别试图给老人灌输年轻人思想",
+        "onboard_time": 1674627864,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113215,
+        "num": 113215,
+        "word": "邓超直播",
+        "onboard_time": 1674638484,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109238,
+        "num": 109238,
+        "word": "高启盛坑哥",
+        "onboard_time": 1674635366,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104155,
+        "num": 104155,
+        "word": "流浪地球2不用睡觉的角色海报",
+        "onboard_time": 1674636148,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104025,
+        "num": 104025,
+        "word": "中国留学生宿舍的辨识度",
+        "onboard_time": 1674644671,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88927,
+        "num": 88927,
+        "word": "黄山",
+        "onboard_time": 1674629663,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 86579,
+        "num": 86579,
+        "word": "过年一万块羽绒服被撕吧坏了",
+        "onboard_time": 1674619943,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#兔年春晚致敬最可爱的人#"
+    }
+  }
+}
