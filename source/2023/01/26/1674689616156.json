@@ -1,0 +1,410 @@
+{
+  "runTime": 1674689616156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1006132,
+        "num": 1006132,
+        "word": "四川泸定5.6级地震",
+        "onboard_time": 1674688153,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859017,
+        "num": 859017,
+        "word": "中国乒乓撤档",
+        "onboard_time": 1674660689,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31179,
+        "num": 542150,
+        "word": "4个春节期间防疫热点问答",
+        "onboard_time": 1674652649,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285624,
+        "num": 285624,
+        "word": "初五迎财神",
+        "onboard_time": 1674663385,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239166,
+        "num": 239166,
+        "word": "为什么只有中国医生擅长拔鱼刺",
+        "onboard_time": 1674668597,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205288,
+        "num": 205288,
+        "word": "影院回应设备故障流浪地球2改播满江红",
+        "onboard_time": 1674656909,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195791,
+        "num": 195791,
+        "word": "吴京赞过",
+        "onboard_time": 1674656248,
+        "rank": 6,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 172338,
+        "num": 172338,
+        "word": "狂飙",
+        "onboard_time": 1674646769,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167742,
+        "num": 167742,
+        "word": "中国乒乓初五起调整为小规模放映",
+        "onboard_time": 1674659491,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148951,
+        "num": 148951,
+        "word": "男子吃变质剩饭菜引发消化道出大血",
+        "onboard_time": 1674684792,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174551,
+        "num": 139737,
+        "word": "春节剩菜剩饭不宜在冰箱存放过久",
+        "onboard_time": 1674687313,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167919,
+        "num": 138731,
+        "word": "男子大年初三喝醉摔下4米高桥",
+        "onboard_time": 1674685632,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124585,
+        "num": 124585,
+        "word": "icon对天灰灰维权成功",
+        "onboard_time": 1674688153,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 108799,
+        "num": 108799,
+        "word": "冯兵说老默背后中枪死的",
+        "onboard_time": 1674660271,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107133,
+        "num": 107133,
+        "word": "女子零下7度户外吃席凉菜成硬菜",
+        "onboard_time": 1674652232,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93859,
+        "num": 93859,
+        "word": "杀我别用李响刀",
+        "onboard_time": 1674654872,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91747,
+        "num": 91747,
+        "word": "中国钓王邓刚开宾利回村过年",
+        "onboard_time": 1674675853,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82673,
+        "num": 82673,
+        "word": "李铁执教国足还拿武汉长江3000万工资",
+        "onboard_time": 1674654510,
+        "rank": 17,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 81281,
+        "num": 81281,
+        "word": "中国乒乓2月17日恢复正常上映",
+        "onboard_time": 1674659012,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80194,
+        "num": 80194,
+        "word": "女子零下14度观影被冻到扶墙退场",
+        "onboard_time": 1674646952,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76109,
+        "num": 76109,
+        "word": "程程下线了吗",
+        "onboard_time": 1674660031,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75393,
+        "num": 75393,
+        "word": "武汉长江宣布解散",
+        "onboard_time": 1674643410,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68844,
+        "num": 68844,
+        "word": "山西太有过年氛围感了",
+        "onboard_time": 1674662008,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65827,
+        "num": 65827,
+        "word": "中国乒乓",
+        "onboard_time": 1674657151,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63526,
+        "num": 63526,
+        "word": "黄晓明说自己某种程度上是烂好人",
+        "onboard_time": 1674649891,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62599,
+        "num": 62599,
+        "word": "真诚才是必杀技",
+        "onboard_time": 1674665301,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 62344,
+        "num": 62344,
+        "word": "福建和两广跌破冰点",
+        "onboard_time": 1674671714,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60708,
+        "num": 60708,
+        "word": "by2三年没回家与妈妈相拥泪目",
+        "onboard_time": 1674650072,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60599,
+        "num": 60599,
+        "word": "2023春节档票房破50亿",
+        "onboard_time": 1674658290,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55672,
+        "num": 55672,
+        "word": "黄明昊无名观后感",
+        "onboard_time": 1674659070,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65624,
+        "num": 55626,
+        "word": "美国一男子被狗踩扳机射杀",
+        "onboard_time": 1674684371,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55504,
+        "num": 55504,
+        "word": "老默怎么死的",
+        "onboard_time": 1674653072,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55410,
+        "num": 55410,
+        "word": "小猫已经放弃挣扎了",
+        "onboard_time": 1674647732,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54374,
+        "num": 54374,
+        "word": "扬名立万",
+        "onboard_time": 1674657451,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53439,
+        "num": 53439,
+        "word": "印收到90亿光年外星系无线电信号",
+        "onboard_time": 1674636628,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 52180,
+        "num": 52180,
+        "word": "折腰",
+        "onboard_time": 1674656248,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51353,
+        "num": 51353,
+        "word": "王子文三体眼神从清澈到绝望",
+        "onboard_time": 1674662308,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50756,
+        "num": 50756,
+        "word": "收手吧外面全是吴京",
+        "onboard_time": 1674639327,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50315,
+        "num": 50315,
+        "word": "男子跳冰河救落水儿童不幸双双遇难",
+        "onboard_time": 1674657752,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47000,
+        "num": 47000,
+        "word": "吴京 看见各种摄像头就想和它聊天",
+        "onboard_time": 1674656490,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46656,
+        "num": 46656,
+        "word": "气球大叔一开口城管哭了",
+        "onboard_time": 1674669975,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43676,
+        "num": 43676,
+        "word": "初婚人数首次跌破1200万人",
+        "onboard_time": 1674630503,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42873,
+        "num": 42873,
+        "word": "程耳解释梁朝伟王一博反复擦衣服含义",
+        "onboard_time": 1674657991,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38412,
+        "num": 38412,
+        "word": "深海票房逆跌",
+        "onboard_time": 1674656131,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36200,
+        "num": 36200,
+        "word": "导演解释流浪地球2炸月球像摆饺子",
+        "onboard_time": 1674640408,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35379,
+        "num": 35379,
+        "word": "主人返程小狗不舍跳进后备箱",
+        "onboard_time": 1674658471,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35005,
+        "num": 35005,
+        "word": "隧道尽头终有光",
+        "onboard_time": 1674687733,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31417,
+        "num": 31417,
+        "word": "XBB和BQ.1毒株上半年流行可能性比较小",
+        "onboard_time": 1674637466,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31179,
+        "num": 31179,
+        "word": "叶舒华晒黑发随拍",
+        "onboard_time": 1674657991,
+        "rank": 48,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 25686,
+        "num": 25686,
+        "word": "米勒参演中国乒乓",
+        "onboard_time": 1674649710,
+        "rank": 49,
+        "category": "游戏,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#兔年春晚致敬最可爱的人#"
+    }
+  }
+}
