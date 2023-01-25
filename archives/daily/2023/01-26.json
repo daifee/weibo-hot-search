@@ -1,6 +1,6 @@
 {
   "startTime": 1674663933880,
-  "endTime": 1674670888983,
+  "endTime": 1674671772022,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -203,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206090,
+      "num": 206090,
+      "word": "为什么只有中国医生擅长拔鱼刺",
+      "onboard_time": 1674668597,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199091,
       "num": 188383,
       "word": "黄晓明说自己某种程度上是烂好人",
@@ -281,14 +289,6 @@
       "onboard_time": 1674656490,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 156378,
-      "num": 129345,
-      "word": "为什么只有中国医生擅长拔鱼刺",
-      "onboard_time": 1674668597,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154066,
@@ -419,12 +419,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 63383,
+      "num": 54751,
+      "word": "武林外传是懂爱情的",
+      "onboard_time": 1674671235,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 54409,
       "num": 54409,
       "word": "by2三年没回家与妈妈相拥泪目",
       "onboard_time": 1674650072,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52032,
+      "num": 52032,
+      "word": "气球大叔一开口城管哭了",
+      "onboard_time": 1674669975,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48630,
@@ -435,11 +451,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35585,
-      "num": 35585,
-      "word": "气球大叔一开口城管哭了",
-      "onboard_time": 1674669975,
-      "rank": 45,
+      "raw_hot": 25742,
+      "num": 25742,
+      "word": "福建和两广跌破冰点",
+      "onboard_time": 1674671714,
+      "rank": 49,
       "category": "社会新闻"
     }
   ],
