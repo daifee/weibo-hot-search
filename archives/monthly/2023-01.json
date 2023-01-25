@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674646397912,
+  "endTime": 1674650208385,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -12731,6 +12731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 633004,
+      "num": 633004,
+      "word": "流浪地球2票房破15亿",
+      "onboard_time": 1674646413,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 632983,
       "num": 632983,
       "word": "朴宝剑将签约YG娱乐",
@@ -15843,6 +15851,14 @@
       "category": "社会议题,艺人"
     },
     {
+      "raw_hot": 540495,
+      "num": 540495,
+      "word": "李现的童年一定没少看猫和老鼠",
+      "onboard_time": 1674648751,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 539607,
       "num": 539607,
       "word": "大年初二男子拔掉充电器离家",
@@ -16353,6 +16369,14 @@
       "onboard_time": 1674125366,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 525327,
+      "num": 525327,
+      "word": "孙子违规操作帮奶奶赢取百元大钞",
+      "onboard_time": 1674644010,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 525319,
@@ -17521,6 +17545,14 @@
       "onboard_time": 1673608408,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 501873,
+      "num": 501873,
+      "word": "女子零下14度观影被冻到扶墙退场",
+      "onboard_time": 1674646952,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 501846,
@@ -25811,6 +25843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 355761,
+      "num": 355761,
+      "word": "这是成龙家的猫吧",
+      "onboard_time": 1674646234,
+      "rank": 37,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 355706,
       "num": 355706,
       "word": "王鹤棣回头瞬间梦回东方青苍",
@@ -25897,6 +25937,14 @@
       "onboard_time": 1673965772,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 354096,
+      "num": 354096,
+      "word": "马嘉祺宋亚轩演的还珠格格",
+      "onboard_time": 1674648032,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 353928,
@@ -26953,6 +27001,14 @@
       "onboard_time": 1673670508,
       "rank": 39,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 342200,
+      "num": 342200,
+      "word": "张栋梁21年前后唱数来宝对比",
+      "onboard_time": 1674649413,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 342147,
@@ -29651,6 +29707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311835,
+      "num": 311835,
+      "word": "严浩翔饰演太上老君",
+      "onboard_time": 1674648691,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311631,
       "num": 311631,
       "word": "2023LPL",
@@ -29985,6 +30049,14 @@
       "onboard_time": 1674573211,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 307102,
+      "num": 307102,
+      "word": "马嘉祺演绎瞳孔地震",
+      "onboard_time": 1674649769,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 307088,
@@ -30649,6 +30721,14 @@
       "onboard_time": 1673583210,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300798,
+      "num": 300798,
+      "word": "小猫已经放弃挣扎了",
+      "onboard_time": 1674647732,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 300784,
@@ -31385,14 +31465,6 @@
       "onboard_time": 1673828724,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 293210,
-      "num": 293210,
-      "word": "孙子违规操作帮奶奶赢取百元大钞",
-      "onboard_time": 1674644010,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293199,
@@ -39179,6 +39251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227700,
+      "num": 227700,
+      "word": "人民网对话邓超俞白眉",
+      "onboard_time": 1674649109,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 227553,
       "num": 227553,
       "word": "LNG对战IGY",
@@ -40177,6 +40257,14 @@
       "onboard_time": 1672898012,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218866,
+      "num": 218866,
+      "word": "黄晓明说自己某种程度上是烂好人",
+      "onboard_time": 1674649891,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 218777,
@@ -41891,6 +41979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204595,
+      "num": 204595,
+      "word": "男子去女友家拜年被山东煎饼难住",
+      "onboard_time": 1674646592,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204567,
       "num": 204567,
       "word": "张大仙最具影响力主播",
@@ -41984,6 +42080,14 @@
       "word": "女孩坐地铁花半小时帮邻座抢车票",
       "onboard_time": 1673417009,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203474,
+      "num": 203474,
+      "word": "女子走亲戚姑姑在大棚里招待吃饭",
+      "onboard_time": 1674648512,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -44523,6 +44627,14 @@
       "category": "旅游,自然"
     },
     {
+      "raw_hot": 187607,
+      "num": 187607,
+      "word": "梅西一家去滑雪",
+      "onboard_time": 1674648269,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187567,
       "num": 187567,
       "word": "詹姆斯米切尔当选周最佳",
@@ -45179,6 +45291,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 183586,
+      "num": 183586,
+      "word": "好像男友第一次上门都这样",
+      "onboard_time": 1674649052,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 183508,
       "num": 183508,
       "word": "这猫怎么比狗还狗",
@@ -45379,6 +45499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 181979,
+      "num": 183832,
+      "word": "by2三年没回家与妈妈相拥泪目",
+      "onboard_time": 1674650072,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181959,
       "num": 181959,
       "word": "打工人哪有想不开的",
@@ -45473,6 +45601,14 @@
       "onboard_time": 1673153368,
       "rank": 42,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 181500,
+      "num": 181500,
+      "word": "狗狗找到了自己的靠山",
+      "onboard_time": 1674647672,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 181488,
@@ -48571,6 +48707,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 163434,
+      "num": 163434,
+      "word": "测试市面上能买到的5种烟花",
+      "onboard_time": 1674650189,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163415,
       "num": 94292,
       "word": "春节档电影",
@@ -49201,6 +49345,14 @@
       "onboard_time": 1673270249,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159558,
+      "num": 159558,
+      "word": "米勒参演中国乒乓",
+      "onboard_time": 1674649710,
+      "rank": 38,
+      "category": "游戏,影视"
     },
     {
       "raw_hot": 159525,
@@ -51555,6 +51707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142539,
+      "num": 142539,
+      "word": "中国留学生宿舍的辨识度",
+      "onboard_time": 1674644671,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142522,
       "num": 208503,
       "word": "就要这个新年味",
@@ -52241,14 +52401,6 @@
       "onboard_time": 1672988489,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138502,
-      "num": 138502,
-      "word": "这是成龙家的猫吧",
-      "onboard_time": 1674646234,
-      "rank": 37,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 138496,
@@ -53377,14 +53529,6 @@
       "onboard_time": 1674196585,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 131175,
-      "num": 131175,
-      "word": "中国留学生宿舍的辨识度",
-      "onboard_time": 1674644671,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 131168,
@@ -54827,6 +54971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120680,
+      "num": 120680,
+      "word": "KPL选手收假了",
+      "onboard_time": 1674649591,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120669,
       "num": 70818,
       "word": "杨超越情景喜剧适配度",
@@ -56251,12 +56403,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109681,
+      "num": 109681,
+      "word": "德约科维奇晋级澳网四强",
+      "onboard_time": 1674646533,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109668,
       "num": 109668,
       "word": "年夜饭文案",
       "onboard_time": 1674293666,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109570,
+      "num": 936179,
+      "word": "兔子在中国古代有多少美好寓意",
+      "onboard_time": 1674635487,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109514,
@@ -56729,14 +56897,6 @@
       "onboard_time": 1673016692,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 106589,
-      "num": 936179,
-      "word": "兔子在中国古代有多少美好寓意",
-      "onboard_time": 1674635487,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106543,
