@@ -1,6 +1,6 @@
 {
   "startTime": 1674577564806,
-  "endTime": 1674638250465,
+  "endTime": 1674639220087,
   "band_list": [
     {
       "raw_hot": 2034303,
@@ -25,6 +25,14 @@
       "onboard_time": 1674573568,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1475895,
+      "num": 1475895,
+      "word": "女子将2000块压岁钱存了10年",
+      "onboard_time": 1674634523,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1471529,
@@ -65,14 +73,6 @@
       "onboard_time": 1674621384,
       "rank": 49,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 1194131,
-      "num": 1194131,
-      "word": "女子将2000块压岁钱存了10年",
-      "onboard_time": 1674634523,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1130945,
@@ -171,6 +171,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 769071,
+      "num": 769071,
+      "word": "印收到90亿光年外星系无线电信号",
+      "onboard_time": 1674636628,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 762098,
       "num": 762098,
       "word": "加特林烟花原创者回应",
@@ -251,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 602489,
+      "num": 602489,
+      "word": "XBB和BQ.1毒株上半年流行可能性比较小",
+      "onboard_time": 1674637466,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598773,
       "num": 447663,
       "word": "18岁女生过年拒相亲被赶出门和狗睡",
@@ -307,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 511396,
+      "num": 511396,
+      "word": "陆虎和女朋友好甜",
+      "onboard_time": 1674637767,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 511265,
       "num": 511265,
       "word": "泰山景区一天三发提示",
@@ -339,14 +363,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 484334,
-      "num": 345274,
-      "word": "印收到90亿光年外星系无线电信号",
-      "onboard_time": 1674636628,
-      "rank": 10,
-      "category": "科技"
-    },
-    {
       "raw_hot": 482062,
       "num": 482062,
       "word": "王一博王传君神同步看表是即兴发挥",
@@ -361,6 +377,14 @@
       "onboard_time": 1674603976,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 446475,
+      "num": 446475,
+      "word": "黄山游客称遇降雪滞留5小时",
+      "onboard_time": 1674635305,
+      "rank": 8,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 441393,
@@ -483,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367352,
+      "num": 367352,
+      "word": "郭帆说拍流浪地球2太空电梯是噩梦",
+      "onboard_time": 1674636927,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 366271,
       "num": 366271,
       "word": "吴磊芬兰到达路透",
@@ -515,28 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 354869,
-      "num": 354869,
-      "word": "黄山游客称遇降雪滞留5小时",
-      "onboard_time": 1674635305,
-      "rank": 8,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 354631,
       "num": 354631,
       "word": "狗狗听到有人夸它后的反应",
       "onboard_time": 1674613343,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 339829,
-      "num": 339829,
-      "word": "XBB和BQ.1毒株上半年流行可能性比较小",
-      "onboard_time": 1674637466,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335786,
@@ -595,12 +611,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315557,
+      "num": 315557,
+      "word": "邓超直播",
+      "onboard_time": 1674638484,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314429,
       "num": 314429,
       "word": "我是一个软弱的人",
       "onboard_time": 1674615142,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313935,
+      "num": 313935,
+      "word": "男子去江苏买菜回浙江做饭",
+      "onboard_time": 1674635846,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313309,
@@ -617,6 +649,14 @@
       "onboard_time": 1674626065,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312334,
+      "num": 312334,
+      "word": "为什么不建议去男友家过年",
+      "onboard_time": 1674638426,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 301339,
@@ -675,28 +715,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 274540,
-      "num": 274540,
-      "word": "陆虎和女朋友好甜",
-      "onboard_time": 1674637767,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 272301,
       "num": 493845,
       "word": "男子陪老人买肉谎称20元",
       "onboard_time": 1674569307,
       "rank": 8,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 272115,
-      "num": 272115,
-      "word": "男子去江苏买菜回浙江做饭",
-      "onboard_time": 1674635846,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269035,
@@ -753,14 +777,6 @@
       "onboard_time": 1674616704,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256651,
-      "num": 256651,
-      "word": "郭帆说拍流浪地球2太空电梯是噩梦",
-      "onboard_time": 1674636927,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 254838,
@@ -1059,6 +1075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205646,
+      "num": 205646,
+      "word": "压岁钱刺客",
+      "onboard_time": 1674635065,
+      "rank": 28,
+      "category": "游戏,幽默"
+    },
+    {
       "raw_hot": 204626,
       "num": 152087,
       "word": "迪士尼情侣的真实年龄",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1674623424,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196867,
+      "num": 196867,
+      "word": "HYBE辟谣与朴宝剑签约",
+      "onboard_time": 1674635546,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 195885,
@@ -1147,22 +1179,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 182958,
-      "num": 182958,
-      "word": "HYBE辟谣与朴宝剑签约",
-      "onboard_time": 1674635546,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 181677,
-      "num": 181677,
-      "word": "压岁钱刺客",
-      "onboard_time": 1674635065,
-      "rank": 28,
-      "category": "游戏,幽默"
-    },
-    {
       "raw_hot": 179598,
       "num": 179598,
       "word": "春节档电影打分人数",
@@ -1235,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156059,
+      "num": 156059,
+      "word": "高启盛坑哥",
+      "onboard_time": 1674635366,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154821,
       "num": 154821,
       "word": "过年不适合换新发型",
@@ -1299,14 +1323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139405,
-      "num": 139405,
-      "word": "高启盛坑哥",
-      "onboard_time": 1674635366,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 137639,
       "num": 137639,
       "word": "满江红影评",
@@ -1339,8 +1355,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 132792,
-      "num": 132792,
+      "raw_hot": 132940,
+      "num": 132940,
       "word": "满江红",
       "onboard_time": 1674522085,
       "rank": 49,
@@ -1376,6 +1392,14 @@
       "word": "流浪地球世界观",
       "onboard_time": 1674613404,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 118990,
+      "num": 118990,
+      "word": "流浪地球2台词",
+      "onboard_time": 1674633803,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -1443,14 +1467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 109202,
-      "num": 109202,
-      "word": "流浪地球2台词",
-      "onboard_time": 1674633803,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 107644,
       "num": 107644,
       "word": "用手机拍全家福教程",
@@ -1467,19 +1483,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106589,
+      "num": 833482,
+      "word": "兔子在中国古代有多少美好寓意",
+      "onboard_time": 1674635487,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106059,
       "num": 106059,
       "word": "按压一个穴位缓解腰痛",
       "onboard_time": 1674634584,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105783,
-      "num": 833153,
-      "word": "兔子在中国古代有多少美好寓意",
-      "onboard_time": 1674635487,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1531,12 +1547,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91466,
-      "num": 91466,
+      "raw_hot": 93475,
+      "num": 93475,
+      "word": "光是听声音都觉得冷了",
+      "onboard_time": 1674638903,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 91811,
+      "num": 91811,
       "word": "当歼20遇到国风BGM",
       "onboard_time": 1674638185,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 84861,
+      "num": 84861,
+      "word": "蔚来车主占三个车位充电引争议",
+      "onboard_time": 1674639205,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77578,
@@ -1613,6 +1645,9 @@
     },
     {
       "word": "#用中国传统色打开锦绣山河#"
+    },
+    {
+      "word": "#兔年春晚致敬最可爱的人#"
     }
   ]
 }
