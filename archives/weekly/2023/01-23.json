@@ -1,7 +1,15 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674660847237,
+  "endTime": 1674663933880,
   "band_list": [
+    {
+      "raw_hot": 3490357,
+      "num": 3490357,
+      "word": "中国乒乓撤档",
+      "onboard_time": 1674660689,
+      "rank": 33,
+      "category": "影视"
+    },
     {
       "raw_hot": 2851314,
       "num": 2851314,
@@ -107,8 +115,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1560280,
-      "num": 1560280,
+      "raw_hot": 1619600,
+      "num": 1619600,
       "word": "吴京赞过",
       "onboard_time": 1674656248,
       "rank": 15,
@@ -1804,7 +1812,7 @@
     },
     {
       "raw_hot": 438014,
-      "num": 218106,
+      "num": 286281,
       "word": "黄明昊无名观后感",
       "onboard_time": 1674659070,
       "rank": 25,
@@ -2643,6 +2651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 329828,
+      "num": 273642,
+      "word": "程程下线了吗",
+      "onboard_time": 1674660031,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 328182,
       "num": 327966,
       "word": "红豆遥遥冰正式官宣恋情",
@@ -3051,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291297,
+      "num": 189139,
+      "word": "冯兵说老默背后中枪死的",
+      "onboard_time": 1674660271,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290491,
       "num": 235009,
       "word": "狂飙李一桐眼神戏",
@@ -3219,6 +3243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267850,
+      "num": 267850,
+      "word": "初五迎财神",
+      "onboard_time": 1674663385,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267403,
       "num": 267403,
       "word": "原来古巨基KTV也点情歌王",
@@ -3291,6 +3323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261807,
+      "num": 261807,
+      "word": "一只中华田园犬最后的故事",
+      "onboard_time": 1674660930,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261306,
       "num": 261306,
       "word": "安欣是狂飙的灵魂",
@@ -3339,12 +3379,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 258917,
-      "num": 169454,
-      "word": "冯兵说老默背后中枪死的",
-      "onboard_time": 1674660271,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 258781,
+      "num": 258781,
+      "word": "山西太有过年氛围感了",
+      "onboard_time": 1674662008,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 257527,
@@ -3731,24 +3771,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224529,
-      "num": 121248,
-      "word": "程程下线了吗",
-      "onboard_time": 1674660031,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 224427,
-      "num": 163290,
-      "word": "中国乒乓撤档",
-      "onboard_time": 1674660689,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 223442,
-      "num": 177418,
+      "num": 185076,
       "word": "2023春节档票房破50亿",
       "onboard_time": 1674658290,
       "rank": 32,
@@ -4219,6 +4243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192671,
+      "num": 146211,
+      "word": "时代少年团的表情戏",
+      "onboard_time": 1674661589,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192626,
       "num": 182648,
       "word": "张若昀调侃大张伟35岁后人老了会变保守",
@@ -4273,6 +4305,14 @@
       "onboard_time": 1674467125,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189337,
+      "num": 189337,
+      "word": "主人返程小狗不舍跳进后备箱",
+      "onboard_time": 1674658471,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188792,
@@ -4464,6 +4504,14 @@
       "word": "流浪地球彩蛋",
       "onboard_time": 1674464965,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 180368,
+      "num": 144428,
+      "word": "刘德华图恒宇亦正亦邪",
+      "onboard_time": 1674663206,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -5107,14 +5155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140865,
-      "num": 140865,
-      "word": "主人返程小狗不舍跳进后备箱",
-      "onboard_time": 1674658471,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139991,
       "num": 139991,
       "word": "去有风的地方拜年礼",
@@ -5305,6 +5345,14 @@
       "onboard_time": 1674484111,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129838,
+      "num": 129838,
+      "word": "8个建议让你拥有好心态",
+      "onboard_time": 1674660448,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 129481,
@@ -5521,6 +5569,14 @@
       "onboard_time": 1674431117,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117968,
+      "num": 117968,
+      "word": "王子文三体眼神从清澈到绝望",
+      "onboard_time": 1674662308,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 117325,
@@ -5777,14 +5833,6 @@
       "onboard_time": 1674455603,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101439,
-      "num": 101439,
-      "word": "8个建议让你拥有好心态",
-      "onboard_time": 1674660448,
-      "rank": 49,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 101380,
