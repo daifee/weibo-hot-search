@@ -1,6 +1,6 @@
 {
   "startTime": 1674663933880,
-  "endTime": 1674681270741,
+  "endTime": 1674682409371,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -481,6 +481,14 @@
       "onboard_time": 1674525925,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 17433,
+      "num": 17348,
+      "word": "北京台春晚 好看",
+      "onboard_time": 1674390568,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 14765,
