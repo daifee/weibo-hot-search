@@ -1,6 +1,6 @@
 {
   "startTime": 1674663933880,
-  "endTime": 1674677952990,
+  "endTime": 1674678809424,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63881,
+      "num": 28484,
+      "word": "中国钓王邓刚开宾利回村过年",
+      "onboard_time": 1674675853,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63383,
       "num": 55534,
       "word": "武林外传是懂爱情的",
@@ -459,20 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46440,
-      "num": 28484,
-      "word": "中国钓王邓刚开宾利回村过年",
-      "onboard_time": 1674675853,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 20468,
       "num": 20468,
       "word": "王鹤棣抬头见喜细节",
       "onboard_time": 1674676695,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 14765,
+      "num": 14765,
+      "word": "舞龙不要站第二个位置",
+      "onboard_time": 1674678372,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [

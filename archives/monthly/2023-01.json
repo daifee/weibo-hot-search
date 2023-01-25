@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674677952990,
+  "endTime": 1674678809424,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -59971,6 +59971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 63881,
+      "num": 28484,
+      "word": "中国钓王邓刚开宾利回村过年",
+      "onboard_time": 1674675853,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63809,
       "num": 165589,
       "word": "手艺人做的翻糖",
@@ -60441,14 +60449,6 @@
       "onboard_time": 1674066855,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46440,
-      "num": 28484,
-      "word": "中国钓王邓刚开宾利回村过年",
-      "onboard_time": 1674675853,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46377,
@@ -61233,6 +61233,14 @@
       "onboard_time": 1672570832,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14765,
+      "num": 14765,
+      "word": "舞龙不要站第二个位置",
+      "onboard_time": 1674678372,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 11368,
