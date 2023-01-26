@@ -1,0 +1,410 @@
+{
+  "runTime": 1674696962397,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2632752,
+        "num": 2632752,
+        "word": "满江红 龙门镖局",
+        "onboard_time": 1674691519,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1603726,
+        "num": 1603726,
+        "word": "吴京 手滑了",
+        "onboard_time": 1674691701,
+        "rank": 1,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 51744,
+        "num": 1408706,
+        "word": "4个春节期间防疫热点问答",
+        "onboard_time": 1674652649,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1384804,
+        "num": 1384804,
+        "word": "初五迎财神",
+        "onboard_time": 1674663385,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1376264,
+        "num": 1376264,
+        "word": "邓超俞白眉回应中国乒乓排片少",
+        "onboard_time": 1674690858,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1283132,
+        "num": 1283132,
+        "word": "四川泸定5.6级地震",
+        "onboard_time": 1674688153,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1213331,
+        "num": 1213331,
+        "word": "中国乒乓撤档",
+        "onboard_time": 1674660689,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1142903,
+        "num": 1142903,
+        "word": "正月初五为什么叫破五",
+        "onboard_time": 1674692361,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607818,
+        "num": 607818,
+        "word": "Lisa和内马尔同框照",
+        "onboard_time": 1674696383,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 554446,
+        "num": 554446,
+        "word": "满江红连续2天票房逆跌",
+        "onboard_time": 1674690496,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1091249,
+        "num": 543101,
+        "word": "西南大学回应教授与博士生关系不当",
+        "onboard_time": 1674695123,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 442615,
+        "num": 442615,
+        "word": "四个舅舅哄外甥女睡觉",
+        "onboard_time": 1674690437,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 294064,
+        "num": 294064,
+        "word": "为什么只有中国医生擅长拔鱼刺",
+        "onboard_time": 1674668597,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274555,
+        "num": 274555,
+        "word": "影院回应设备故障流浪地球2改播满江红",
+        "onboard_time": 1674656909,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254647,
+        "num": 254647,
+        "word": "中国钓王邓刚开宾利回村过年",
+        "onboard_time": 1674675853,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244674,
+        "num": 244674,
+        "word": "男子大年初三喝醉摔下4米高桥",
+        "onboard_time": 1674685632,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237795,
+        "num": 237795,
+        "word": "icon对天灰灰维权成功",
+        "onboard_time": 1674688153,
+        "rank": 16,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 233440,
+        "num": 233440,
+        "word": "肩周炎有可能自愈",
+        "onboard_time": 1674695066,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223325,
+        "num": 223325,
+        "word": "杀我别用李响刀",
+        "onboard_time": 1674654872,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221579,
+        "num": 221579,
+        "word": "初五",
+        "onboard_time": 1674689657,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218154,
+        "num": 218154,
+        "word": "为什么是深海而不是大圣归来2",
+        "onboard_time": 1674691400,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212264,
+        "num": 212264,
+        "word": "四川泸定凌晨发生多次地震",
+        "onboard_time": 1674689898,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208331,
+        "num": 208331,
+        "word": "五路财神",
+        "onboard_time": 1674691279,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200404,
+        "num": 200404,
+        "word": "狂飙",
+        "onboard_time": 1674646769,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188063,
+        "num": 188063,
+        "word": "气球大叔一开口城管哭了",
+        "onboard_time": 1674669975,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179665,
+        "num": 179665,
+        "word": "黄明昊无名观后感",
+        "onboard_time": 1674659070,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172912,
+        "num": 172912,
+        "word": "春节剩菜剩饭不宜在冰箱存放过久",
+        "onboard_time": 1674687313,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172702,
+        "num": 172702,
+        "word": "扬名立万",
+        "onboard_time": 1674657451,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161273,
+        "num": 161273,
+        "word": "持续关注四川泸定地震",
+        "onboard_time": 1674695604,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157877,
+        "num": 157877,
+        "word": "过年果盘的神仙摆法",
+        "onboard_time": 1674695725,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156214,
+        "num": 156214,
+        "word": "山西太有过年氛围感了",
+        "onboard_time": 1674662008,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146287,
+        "num": 146287,
+        "word": "男子跳冰河救落水儿童不幸双双遇难",
+        "onboard_time": 1674657752,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146107,
+        "num": 146107,
+        "word": "程程下线了吗",
+        "onboard_time": 1674660031,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138860,
+        "num": 138860,
+        "word": "成都消防地震救援紧急集结",
+        "onboard_time": 1674696084,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139555,
+        "num": 137577,
+        "word": "老默怎么死的",
+        "onboard_time": 1674653072,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132185,
+        "num": 132185,
+        "word": "中国乒乓2月17日恢复正常上映",
+        "onboard_time": 1674659012,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128509,
+        "num": 128509,
+        "word": "吴京赞过",
+        "onboard_time": 1674656248,
+        "rank": 36,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 127696,
+        "num": 127696,
+        "word": "叶舒华晒黑发随拍",
+        "onboard_time": 1674657991,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 126514,
+        "num": 126514,
+        "word": "这新年礼物也太欺负小孩了",
+        "onboard_time": 1674695663,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 117862,
+        "num": 117862,
+        "word": "美国一男子被狗踩扳机射杀",
+        "onboard_time": 1674684371,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116274,
+        "num": 116274,
+        "word": "女子零下7度户外吃席凉菜成硬菜",
+        "onboard_time": 1674652232,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114198,
+        "num": 114198,
+        "word": "冯兵说老默背后中枪死的",
+        "onboard_time": 1674660271,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113434,
+        "num": 113434,
+        "word": "官方回应游客打架致三星堆文物翻倒",
+        "onboard_time": 1674696806,
+        "rank": 42,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 112708,
+        "num": 112708,
+        "word": "谢之遥一个脑瓜崩换许红豆一个吻",
+        "onboard_time": 1674690256,
+        "rank": 43,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 106339,
+        "num": 106339,
+        "word": "篮网vs76人",
+        "onboard_time": 1674695305,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105006,
+        "num": 105006,
+        "word": "折腰",
+        "onboard_time": 1674656248,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100871,
+        "num": 100871,
+        "word": "吴京 看见各种摄像头就想和它聊天",
+        "onboard_time": 1674656490,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100698,
+        "num": 100698,
+        "word": "黄晓明说自己某种程度上是烂好人",
+        "onboard_time": 1674649891,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97977,
+        "num": 97977,
+        "word": "林鹏翔说最美妙的事是有一个人因你改变初心",
+        "onboard_time": 1674696864,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97805,
+        "num": 97805,
+        "word": "大年初五恭喜发财",
+        "onboard_time": 1674696923,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#兔年春晚致敬最可爱的人#"
+    }
+  }
+}
