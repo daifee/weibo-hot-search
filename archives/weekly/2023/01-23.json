@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674732799915,
+  "endTime": 1674736645249,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -153,6 +153,14 @@
       "onboard_time": 1674656248,
       "rank": 15,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1603595,
+      "num": 1603595,
+      "word": "LWX",
+      "onboard_time": 1674730768,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 1552389,
@@ -353,14 +361,6 @@
       "onboard_time": 1674530185,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1261935,
-      "num": 1261935,
-      "word": "LWX",
-      "onboard_time": 1674730768,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 1260359,
@@ -715,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 910987,
+      "num": 910987,
+      "word": "长沙游客吐槽网红店排队4538桌",
+      "onboard_time": 1674732748,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 908479,
       "num": 480871,
       "word": "西南大学取消赵某研究生导师资格",
@@ -793,6 +801,14 @@
       "onboard_time": 1674730587,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 838687,
+      "num": 616098,
+      "word": "冰岛往事",
+      "onboard_time": 1674731549,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 833101,
@@ -1227,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 668693,
+      "num": 668693,
+      "word": "李响下线",
+      "onboard_time": 1674735331,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 666806,
       "num": 666806,
       "word": "女子带仙女棒进站被罚300",
@@ -1345,14 +1369,6 @@
       "onboard_time": 1674569487,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 629371,
-      "num": 616098,
-      "word": "冰岛往事",
-      "onboard_time": 1674731549,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 619095,
@@ -1553,6 +1569,14 @@
       "onboard_time": 1674625702,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 564651,
+      "num": 564651,
+      "word": "安欣孟钰be",
+      "onboard_time": 1674735928,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 563692,
@@ -2467,6 +2491,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 415219,
+      "num": 415219,
+      "word": "高启盛疯子",
+      "onboard_time": 1674735868,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 414981,
+      "num": 414981,
+      "word": "金秋天粉色露腰套装造型",
+      "onboard_time": 1674735689,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 413893,
       "num": 413893,
       "word": "六部春节档电影豆瓣开分",
@@ -2833,6 +2873,14 @@
       "onboard_time": 1674529764,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374021,
+      "num": 374021,
+      "word": "这麻将打完不得瘦两斤",
+      "onboard_time": 1674732028,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 372971,
@@ -3227,6 +3275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333658,
+      "num": 333658,
+      "word": "安欣孤勇者",
+      "onboard_time": 1674731846,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332828,
       "num": 332828,
       "word": "光与夜之恋",
@@ -3409,6 +3465,30 @@
       "onboard_time": 1674399810,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319022,
+      "num": 319022,
+      "word": "孙子锡纸烫凌乱八旬奶奶用手捋顺",
+      "onboard_time": 1674732988,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318831,
+      "num": 318831,
+      "word": "王一博说无名打戏都是真打",
+      "onboard_time": 1674733291,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 317835,
+      "num": 317835,
+      "word": "郑业成养小龙虾",
+      "onboard_time": 1674731968,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 317332,
@@ -3617,6 +3697,14 @@
       "onboard_time": 1674647732,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300618,
+      "num": 300618,
+      "word": "谢之遥要喝许红豆嘴里的啤酒",
+      "onboard_time": 1674734129,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 300416,
@@ -3841,6 +3929,14 @@
       "onboard_time": 1674627983,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281097,
+      "num": 281097,
+      "word": "圆明园重现古代冰嬉运动",
+      "onboard_time": 1674732269,
+      "rank": 41,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 280886,
@@ -4259,6 +4355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250377,
+      "num": 250377,
+      "word": "时代少年团楼晚道具",
+      "onboard_time": 1674735448,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249957,
       "num": 249957,
       "word": "文韬变魔术没有技巧全是感情",
@@ -4297,6 +4401,14 @@
       "onboard_time": 1674623185,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247846,
+      "num": 247846,
+      "word": "宋亚轩生气的小表情",
+      "onboard_time": 1674733291,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 247701,
@@ -4369,14 +4481,6 @@
       "onboard_time": 1674649710,
       "rank": 38,
       "category": "游戏,影视"
-    },
-    {
-      "raw_hot": 244060,
-      "num": 244060,
-      "word": "安欣孤勇者",
-      "onboard_time": 1674731846,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 242947,
@@ -4643,6 +4747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225247,
+      "num": 225247,
+      "word": "杨紫请199爱剧组工作人员吃汉堡",
+      "onboard_time": 1674732810,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224641,
       "num": 134256,
       "word": "孟鹤堂秦霄贤4分钟唱15首歌",
@@ -4729,6 +4841,14 @@
       "onboard_time": 1674725908,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 221011,
+      "num": 221011,
+      "word": "沈腾醋刑戏花絮",
+      "onboard_time": 1674733470,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 220349,
@@ -4865,14 +4985,6 @@
       "onboard_time": 1674535286,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210505,
-      "num": 210505,
-      "word": "郑业成养小龙虾",
-      "onboard_time": 1674731968,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 210425,
@@ -5299,14 +5411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 193155,
-      "num": 193155,
-      "word": "这麻将打完不得瘦两斤",
-      "onboard_time": 1674732028,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 192671,
       "num": 146211,
       "word": "时代少年团的表情戏",
@@ -5481,6 +5585,14 @@
       "onboard_time": 1674650189,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187242,
+      "num": 187242,
+      "word": "云南大理多地出现七彩祥云",
+      "onboard_time": 1674735629,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 186438,
@@ -6203,6 +6315,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 149669,
+      "num": 149669,
+      "word": "年轻人是懂求好运的",
+      "onboard_time": 1674735088,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149370,
       "num": 149370,
       "word": "东北人有多爱旋酒",
@@ -6505,14 +6625,6 @@
       "onboard_time": 1674462084,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135854,
-      "num": 135854,
-      "word": "圆明园重现古代冰嬉运动",
-      "onboard_time": 1674732269,
-      "rank": 41,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 135799,
@@ -7155,14 +7267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104426,
-      "num": 104426,
-      "word": "长沙游客吐槽网红店排队4538桌",
-      "onboard_time": 1674732748,
-      "rank": 48,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 104359,
       "num": 104359,
       "word": "雷佳音演技",
@@ -7628,7 +7732,7 @@
     },
     {
       "raw_hot": 42266,
-      "num": 1334165,
+      "num": 1614144,
       "word": "新时代 我在中国",
       "onboard_time": 1674279563,
       "rank": 2,

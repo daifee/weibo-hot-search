@@ -1,6 +1,6 @@
 {
   "startTime": 1674663933880,
-  "endTime": 1674732799915,
+  "endTime": 1674736645249,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -43,12 +43,28 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1650993,
+      "num": 1650993,
+      "word": "狂飙",
+      "onboard_time": 1674646769,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1619600,
       "num": 1619600,
       "word": "吴京赞过",
       "onboard_time": 1674656248,
       "rank": 1,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1603595,
+      "num": 1603595,
+      "word": "LWX",
+      "onboard_time": 1674730768,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 1535365,
@@ -105,22 +121,6 @@
       "onboard_time": 1674688153,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1261935,
-      "num": 1261935,
-      "word": "LWX",
-      "onboard_time": 1674730768,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 1201112,
-      "num": 1201112,
-      "word": "狂飙",
-      "onboard_time": 1674646769,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1195002,
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 910987,
+      "num": 910987,
+      "word": "长沙游客吐槽网红店排队4538桌",
+      "onboard_time": 1674732748,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 908479,
       "num": 480871,
       "word": "西南大学取消赵某研究生导师资格",
@@ -257,6 +265,14 @@
       "onboard_time": 1674730587,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 838687,
+      "num": 616098,
+      "word": "冰岛往事",
+      "onboard_time": 1674731549,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 814519,
@@ -347,6 +363,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 668693,
+      "num": 668693,
+      "word": "李响下线",
+      "onboard_time": 1674735331,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 646585,
       "num": 646585,
       "word": "狂飙最后人物结局",
@@ -361,14 +385,6 @@
       "onboard_time": 1674726268,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 629371,
-      "num": 616098,
-      "word": "冰岛往事",
-      "onboard_time": 1674731549,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 616683,
@@ -400,6 +416,14 @@
       "word": "杀我别用李响刀",
       "onboard_time": 1674654872,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 564651,
+      "num": 564651,
+      "word": "安欣孟钰be",
+      "onboard_time": 1674735928,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -587,6 +611,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 415219,
+      "num": 415219,
+      "word": "高启盛疯子",
+      "onboard_time": 1674735868,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 414981,
+      "num": 414981,
+      "word": "金秋天粉色露腰套装造型",
+      "onboard_time": 1674735689,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 403199,
       "num": 403199,
       "word": "男子称餐厅点海鲜葱姜费占菜价60%",
@@ -633,6 +673,14 @@
       "onboard_time": 1674657991,
       "rank": 12,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 374021,
+      "num": 374021,
+      "word": "这麻将打完不得瘦两斤",
+      "onboard_time": 1674732028,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 372214,
@@ -715,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333658,
+      "num": 333658,
+      "word": "安欣孤勇者",
+      "onboard_time": 1674731846,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332126,
       "num": 325300,
       "word": "王一博无名实时票房破4亿剧照",
@@ -763,6 +819,30 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 319022,
+      "num": 319022,
+      "word": "孙子锡纸烫凌乱八旬奶奶用手捋顺",
+      "onboard_time": 1674732988,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318831,
+      "num": 318831,
+      "word": "王一博说无名打戏都是真打",
+      "onboard_time": 1674733291,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 317835,
+      "num": 317835,
+      "word": "郑业成养小龙虾",
+      "onboard_time": 1674731968,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308074,
       "num": 308074,
       "word": "无双成为剑仙",
@@ -784,6 +864,14 @@
       "word": "高启强没有心",
       "onboard_time": 1674712347,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 300618,
+      "num": 300618,
+      "word": "谢之遥要喝许红豆嘴里的啤酒",
+      "onboard_time": 1674734129,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -849,6 +937,14 @@
       "onboard_time": 1674703406,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281097,
+      "num": 281097,
+      "word": "圆明园重现古代冰嬉运动",
+      "onboard_time": 1674732269,
+      "rank": 41,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 279035,
@@ -931,20 +1027,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250377,
+      "num": 250377,
+      "word": "时代少年团楼晚道具",
+      "onboard_time": 1674735448,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 247846,
+      "num": 247846,
+      "word": "宋亚轩生气的小表情",
+      "onboard_time": 1674733291,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244674,
       "num": 244674,
       "word": "男子大年初三喝醉摔下4米高桥",
       "onboard_time": 1674685632,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244060,
-      "num": 244060,
-      "word": "安欣孤勇者",
-      "onboard_time": 1674731846,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 242844,
@@ -1043,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225247,
+      "num": 225247,
+      "word": "杨紫请199爱剧组工作人员吃汉堡",
+      "onboard_time": 1674732810,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224350,
       "num": 224350,
       "word": "张艺谋用满江红圆了儿时一个梦想",
@@ -1107,6 +1219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221011,
+      "num": 221011,
+      "word": "沈腾醋刑戏花絮",
+      "onboard_time": 1674733470,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216827,
       "num": 216827,
       "word": "是我心中财神的形象了",
@@ -1129,14 +1249,6 @@
       "onboard_time": 1674689898,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210505,
-      "num": 210505,
-      "word": "郑业成养小龙虾",
-      "onboard_time": 1674731968,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 210425,
@@ -1267,14 +1379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193155,
-      "num": 193155,
-      "word": "这麻将打完不得瘦两斤",
-      "onboard_time": 1674732028,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 192671,
       "num": 146211,
       "word": "时代少年团的表情戏",
@@ -1313,6 +1417,14 @@
       "onboard_time": 1674669975,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187242,
+      "num": 187242,
+      "word": "云南大理多地出现七彩祥云",
+      "onboard_time": 1674735629,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 185983,
@@ -1523,6 +1635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 149669,
+      "num": 149669,
+      "word": "年轻人是懂求好运的",
+      "onboard_time": 1674735088,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148951,
       "num": 148951,
       "word": "男子吃变质剩饭菜引发消化道出大血",
@@ -1593,14 +1713,6 @@
       "onboard_time": 1674710068,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135854,
-      "num": 135854,
-      "word": "圆明园重现古代冰嬉运动",
-      "onboard_time": 1674732269,
-      "rank": 41,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 134763,
@@ -1763,14 +1875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104426,
-      "num": 104426,
-      "word": "长沙游客吐槽网红店排队4538桌",
-      "onboard_time": 1674732748,
-      "rank": 48,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 100684,
       "num": 100684,
       "word": "运20潜力无限未来可期",
@@ -1828,7 +1932,7 @@
     },
     {
       "raw_hot": 42266,
-      "num": 1334165,
+      "num": 1614144,
       "word": "新时代 我在中国",
       "onboard_time": 1674702987,
       "rank": 2,

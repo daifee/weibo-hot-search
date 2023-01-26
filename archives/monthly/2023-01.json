@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674732799915,
+  "endTime": 1674736645249,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -2699,6 +2699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1603595,
+      "num": 1603595,
+      "word": "LWX",
+      "onboard_time": 1674730768,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1600030,
       "num": 451635,
       "word": "孙茜 吵",
@@ -4297,14 +4305,6 @@
       "onboard_time": 1673075970,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1261935,
-      "num": 1261935,
-      "word": "LWX",
-      "onboard_time": 1674730768,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 1260359,
@@ -7547,6 +7547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 910987,
+      "num": 910987,
+      "word": "长沙游客吐槽网红店排队4538桌",
+      "onboard_time": 1674732748,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 910607,
       "num": 910607,
       "word": "范丞丞说猪都有双眼皮他没有",
@@ -8729,6 +8737,14 @@
       "onboard_time": 1673266889,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 838687,
+      "num": 616098,
+      "word": "冰岛往事",
+      "onboard_time": 1674731549,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 838417,
@@ -12147,6 +12163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 668693,
+      "num": 668693,
+      "word": "李响下线",
+      "onboard_time": 1674735331,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 668277,
       "num": 668277,
       "word": "张译演技够导演唠一辈子",
@@ -13280,14 +13304,6 @@
       "word": "TheShy多个韩服号被永封",
       "onboard_time": 1673536535,
       "rank": 16,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 629371,
-      "num": 616098,
-      "word": "冰岛往事",
-      "onboard_time": 1674731549,
-      "rank": 30,
       "category": "游戏"
     },
     {
@@ -15440,6 +15456,14 @@
       "word": "王嘉尔最近在追的TVB剧集",
       "onboard_time": 1672809033,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 564651,
+      "num": 564651,
+      "word": "安欣孟钰be",
+      "onboard_time": 1674735928,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -22307,6 +22331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415219,
+      "num": 415219,
+      "word": "高启盛疯子",
+      "onboard_time": 1674735868,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415132,
       "num": 358800,
       "word": "陈奕迅演唱会唱孤勇者的反应",
@@ -22321,6 +22353,14 @@
       "onboard_time": 1673760086,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 414981,
+      "num": 414981,
+      "word": "金秋天粉色露腰套装造型",
+      "onboard_time": 1674735689,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 414958,
@@ -25209,6 +25249,14 @@
       "onboard_time": 1673944708,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 374021,
+      "num": 374021,
+      "word": "这麻将打完不得瘦两斤",
+      "onboard_time": 1674732028,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 373993,
@@ -28523,6 +28571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333658,
+      "num": 333658,
+      "word": "安欣孤勇者",
+      "onboard_time": 1674731846,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 333629,
       "num": 274619,
       "word": "谢之遥洗澡镜头",
@@ -29931,6 +29987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319022,
+      "num": 319022,
+      "word": "孙子锡纸烫凌乱八旬奶奶用手捋顺",
+      "onboard_time": 1674732988,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318945,
       "num": 318945,
       "word": "WBG对战BLG",
@@ -29977,6 +30041,14 @@
       "onboard_time": 1672542514,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318831,
+      "num": 318831,
+      "word": "王一博说无名打戏都是真打",
+      "onboard_time": 1674733291,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 318823,
@@ -30041,6 +30113,14 @@
       "onboard_time": 1674012148,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 317835,
+      "num": 317835,
+      "word": "郑业成养小龙虾",
+      "onboard_time": 1674731968,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 317735,
@@ -31641,6 +31721,14 @@
       "onboard_time": 1673623715,
       "rank": 33,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 300618,
+      "num": 300618,
+      "word": "谢之遥要喝许红豆嘴里的啤酒",
+      "onboard_time": 1674734129,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 300449,
@@ -33801,6 +33889,14 @@
       "onboard_time": 1674203844,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281097,
+      "num": 281097,
+      "word": "圆明园重现古代冰嬉运动",
+      "onboard_time": 1674732269,
+      "rank": 41,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 281070,
@@ -37643,6 +37739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250377,
+      "num": 250377,
+      "word": "时代少年团楼晚道具",
+      "onboard_time": 1674735448,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250332,
       "num": 202241,
       "word": "鹅鹅鹅 解析",
@@ -37945,6 +38049,14 @@
       "onboard_time": 1672663651,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247846,
+      "num": 247846,
+      "word": "宋亚轩生气的小表情",
+      "onboard_time": 1674733291,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 247779,
@@ -38457,14 +38569,6 @@
       "onboard_time": 1673490750,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244060,
-      "num": 244060,
-      "word": "安欣孤勇者",
-      "onboard_time": 1674731846,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 243999,
@@ -40667,6 +40771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225247,
+      "num": 225247,
+      "word": "杨紫请199爱剧组工作人员吃汉堡",
+      "onboard_time": 1674732810,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225202,
       "num": 225202,
       "word": "对联怎么区分上下联",
@@ -41241,6 +41353,14 @@
       "onboard_time": 1673226087,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221011,
+      "num": 221011,
+      "word": "沈腾醋刑戏花絮",
+      "onboard_time": 1674733470,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 220948,
@@ -42537,14 +42657,6 @@
       "onboard_time": 1673278889,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210505,
-      "num": 210505,
-      "word": "郑业成养小龙虾",
-      "onboard_time": 1674731968,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 210425,
@@ -45043,14 +45155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193155,
-      "num": 193155,
-      "word": "这麻将打完不得瘦两斤",
-      "onboard_time": 1674732028,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 193107,
       "num": 193107,
       "word": "字节辟谣被裁员工与HR互殴",
@@ -46089,6 +46193,14 @@
       "onboard_time": 1673348191,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187242,
+      "num": 187242,
+      "word": "云南大理多地出现七彩祥云",
+      "onboard_time": 1674735629,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 187179,
@@ -52235,6 +52347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149669,
+      "num": 149669,
+      "word": "年轻人是懂求好运的",
+      "onboard_time": 1674735088,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149625,
       "num": 149625,
       "word": "如何看待体育明星的隐婚",
@@ -54401,14 +54521,6 @@
       "onboard_time": 1674462084,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135854,
-      "num": 135854,
-      "word": "圆明园重现古代冰嬉运动",
-      "onboard_time": 1674732269,
-      "rank": 41,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 135832,
@@ -58785,14 +58897,6 @@
       "onboard_time": 1673915308,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104426,
-      "num": 104426,
-      "word": "长沙游客吐槽网红店排队4538桌",
-      "onboard_time": 1674732748,
-      "rank": 48,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 104391,
