@@ -1,0 +1,410 @@
+{
+  "runTime": 1674704041816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2803331,
+        "num": 2803331,
+        "word": "满江红 龙门镖局",
+        "onboard_time": 1674691519,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1457357,
+        "num": 1457357,
+        "word": "吴京 手滑了",
+        "onboard_time": 1674691701,
+        "rank": 1,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 31981,
+        "num": 1330432,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674702987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1303926,
+        "num": 1303926,
+        "word": "白鹿张凌赫宁安如梦官宣海报",
+        "onboard_time": 1674703406,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1147892,
+        "num": 1147892,
+        "word": "初五迎财神",
+        "onboard_time": 1674663385,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830538,
+        "num": 830538,
+        "word": "Lisa和内马尔同框照",
+        "onboard_time": 1674696383,
+        "rank": 5,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 781413,
+        "num": 781413,
+        "word": "正月初五为什么叫破五",
+        "onboard_time": 1674692361,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719068,
+        "num": 719068,
+        "word": "财神",
+        "onboard_time": 1674700885,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 701946,
+        "num": 701946,
+        "word": "王一博说和叶先生不会见面",
+        "onboard_time": 1674699328,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 695662,
+        "num": 695662,
+        "word": "小破球",
+        "onboard_time": 1674700166,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 605576,
+        "num": 605576,
+        "word": "邓超俞白眉回应中国乒乓排片少",
+        "onboard_time": 1674690858,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 603316,
+        "num": 603316,
+        "word": "四川泸定5.6级地震",
+        "onboard_time": 1674688153,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581790,
+        "num": 581790,
+        "word": "中国乒乓撤档",
+        "onboard_time": 1674660689,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 530013,
+        "num": 530013,
+        "word": "00后女生10分钟解决铁路通信故障",
+        "onboard_time": 1674698547,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514639,
+        "num": 514639,
+        "word": "一个人养活全家是什么体验",
+        "onboard_time": 1674701006,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 511107,
+        "num": 511107,
+        "word": "高启强陈书婷be了吗",
+        "onboard_time": 1674697766,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440283,
+        "num": 440283,
+        "word": "四川地震后已有游客连夜离开",
+        "onboard_time": 1674702447,
+        "rank": 16,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 438014,
+        "num": 438014,
+        "word": "官方回应游客打架致三星堆文物翻倒",
+        "onboard_time": 1674696806,
+        "rank": 17,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 402265,
+        "num": 402265,
+        "word": "美国将向乌克兰提供31辆主战坦克",
+        "onboard_time": 1674699745,
+        "rank": 18,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 395982,
+        "num": 395982,
+        "word": "满江红连续2天票房逆跌",
+        "onboard_time": 1674690496,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374419,
+        "num": 374419,
+        "word": "高叶蔡文静徐冬冬演的大嫂对比",
+        "onboard_time": 1674700828,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317849,
+        "num": 317849,
+        "word": "YG新女团新成员ASA公开",
+        "onboard_time": 1674696985,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296379,
+        "num": 296379,
+        "word": "TF家族三代唱TFBOYS我们的时光",
+        "onboard_time": 1674698726,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285369,
+        "num": 285369,
+        "word": "刘亦菲片场萌宠收割机",
+        "onboard_time": 1674703406,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282366,
+        "num": 282366,
+        "word": "这就是脱单困难的原因吧",
+        "onboard_time": 1674701486,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267473,
+        "num": 267473,
+        "word": "流浪地球 彩蛋",
+        "onboard_time": 1674703406,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259620,
+        "num": 259620,
+        "word": "男子称餐厅点海鲜葱姜费占菜价60%",
+        "onboard_time": 1674702805,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257431,
+        "num": 257431,
+        "word": "看完狂飙后遗症",
+        "onboard_time": 1674697766,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251638,
+        "num": 251638,
+        "word": "四个舅舅哄外甥女睡觉",
+        "onboard_time": 1674690437,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 234337,
+        "num": 234337,
+        "word": "满江红片尾曲",
+        "onboard_time": 1674700646,
+        "rank": 29,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 221045,
+        "num": 221045,
+        "word": "无名票房破4亿",
+        "onboard_time": 1674699864,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213120,
+        "num": 213120,
+        "word": "财神爷壁纸",
+        "onboard_time": 1674697046,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210425,
+        "num": 210425,
+        "word": "白鹿说姜雪宁不辜负",
+        "onboard_time": 1674703885,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193736,
+        "num": 193736,
+        "word": "邓佳鑫唱歌",
+        "onboard_time": 1674701006,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189859,
+        "num": 189859,
+        "word": "九岁小朋友看完满江红的观后感",
+        "onboard_time": 1674702327,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169671,
+        "num": 169671,
+        "word": "王楚钦写福字",
+        "onboard_time": 1674702384,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167676,
+        "num": 167676,
+        "word": "狂飙",
+        "onboard_time": 1674646769,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146623,
+        "num": 146623,
+        "word": "折腰",
+        "onboard_time": 1674656248,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145996,
+        "num": 145996,
+        "word": "3个萌娃见到穿制服长辈瞬间乖巧",
+        "onboard_time": 1674697526,
+        "rank": 38,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 145368,
+        "num": 145368,
+        "word": "为什么只有中国医生擅长拔鱼刺",
+        "onboard_time": 1674668597,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136128,
+        "num": 136128,
+        "word": "初五",
+        "onboard_time": 1674689657,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133982,
+        "num": 133982,
+        "word": "为什么是深海而不是大圣归来2",
+        "onboard_time": 1674691400,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499094,
+        "num": 133493,
+        "word": "西南大学回应教授与博士生关系不当",
+        "onboard_time": 1674695123,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 128032,
+        "num": 128032,
+        "word": "icon对天灰灰维权成功",
+        "onboard_time": 1674688153,
+        "rank": 43,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 120514,
+        "num": 120514,
+        "word": "陈小春说我这个女婿还行",
+        "onboard_time": 1674699568,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113395,
+        "num": 113395,
+        "word": "辈份低是种什么体验",
+        "onboard_time": 1674697345,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 110418,
+        "num": 110418,
+        "word": "空间站视角看我们的蔚蓝星球",
+        "onboard_time": 1674703647,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 102372,
+        "num": 102372,
+        "word": "中国钓王邓刚开宾利回村过年",
+        "onboard_time": 1674675853,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98560,
+        "num": 98560,
+        "word": "肩周炎有可能自愈",
+        "onboard_time": 1674695066,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92123,
+        "num": 92123,
+        "word": "唯泉雪声228",
+        "onboard_time": 1674700345,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#兔年春晚致敬最可爱的人#"
+    }
+  }
+}
