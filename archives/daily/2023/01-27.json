@@ -1,6 +1,6 @@
 {
   "startTime": 1674750270610,
-  "endTime": 1674772409751,
+  "endTime": 1674775145546,
   "band_list": [
     {
       "raw_hot": 1361875,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245914,
+      "num": 245914,
+      "word": "张译好有魅力",
+      "onboard_time": 1674774135,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245543,
       "num": 245543,
       "word": "热闹后的冷清才最孤独",
@@ -185,6 +193,14 @@
       "onboard_time": 1674742949,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228278,
+      "num": 228278,
+      "word": "安欣太惨了",
+      "onboard_time": 1674748768,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 224320,
@@ -259,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161953,
+      "num": 140497,
+      "word": "大年初六送穷",
+      "onboard_time": 1674774675,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152629,
       "num": 152629,
       "word": "Doinb直播",
@@ -289,14 +313,6 @@
       "onboard_time": 1674723628,
       "rank": 32,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 138975,
-      "num": 54586,
-      "word": "安欣太惨了",
-      "onboard_time": 1674748768,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 136342,
@@ -347,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122682,
+      "num": 122682,
+      "word": "酒店推出火锅浴温泉池漂满白菜茄子",
+      "onboard_time": 1674756497,
+      "rank": 44,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 107402,
       "num": 107402,
       "word": "快失传的奶奶针线包",
@@ -361,6 +385,14 @@
       "onboard_time": 1674753079,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103125,
+      "num": 103125,
+      "word": "大年初六",
+      "onboard_time": 1674774795,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 99966,
@@ -403,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 93069,
+      "num": 93069,
+      "word": "王子异被秦昊开车半路抛下",
+      "onboard_time": 1674767111,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92470,
       "num": 92470,
       "word": "苗苗好黏郑恺",
@@ -425,14 +465,6 @@
       "onboard_time": 1674733291,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 88940,
-      "num": 88940,
-      "word": "酒店推出火锅浴温泉池漂满白菜茄子",
-      "onboard_time": 1674756497,
-      "rank": 44,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 72350,
@@ -459,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63435,
-      "num": 63435,
-      "word": "王子异被秦昊开车半路抛下",
-      "onboard_time": 1674767111,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 60051,
+      "num": 60051,
+      "word": "86岁老人返乡与亲人告别哭成泪人",
+      "onboard_time": 1674773292,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42368,
@@ -473,6 +505,14 @@
       "onboard_time": 1674757754,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32088,
+      "num": 32088,
+      "word": "这一走又是明年见了",
+      "onboard_time": 1674774916,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 18553,
