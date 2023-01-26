@@ -1,0 +1,410 @@
+{
+  "runTime": 1674717432561,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 881744,
+        "num": 881744,
+        "word": "吴京 手滑了",
+        "onboard_time": 1674691701,
+        "rank": 0,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 818720,
+        "num": 818720,
+        "word": "迪丽热巴国外网站评为2023全球最美女演员",
+        "onboard_time": 1674713068,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29475,
+        "num": 570411,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674702987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567335,
+        "num": 567335,
+        "word": "库里被驱逐",
+        "onboard_time": 1674713730,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 525270,
+        "num": 525270,
+        "word": "折腰官宣宋祖儿刘宇宁",
+        "onboard_time": 1674709706,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 504644,
+        "num": 504644,
+        "word": "郑恺苗苗一胎是一顿剁椒鱼头辣出来的",
+        "onboard_time": 1674712766,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417395,
+        "num": 417395,
+        "word": "奶奶不识字误把狗粮当特产招待街坊",
+        "onboard_time": 1674708506,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396617,
+        "num": 396617,
+        "word": "许光汉柯佳嬿韩国机场图",
+        "onboard_time": 1674712886,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313061,
+        "num": 313061,
+        "word": "墨子",
+        "onboard_time": 1674706767,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1069025,
+        "num": 313015,
+        "word": "满江红 龙门镖局",
+        "onboard_time": 1674691519,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 500876,
+        "num": 312158,
+        "word": "西南大学",
+        "onboard_time": 1674704186,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 368931,
+        "num": 310674,
+        "word": "王一博转发说蒸排骨味道不错",
+        "onboard_time": 1674713425,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344297,
+        "num": 310220,
+        "word": "流浪地球2群演cut后不放下敬礼的手",
+        "onboard_time": 1674716008,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309710,
+        "num": 309710,
+        "word": "西南大学取消赵某研究生导师资格",
+        "onboard_time": 1674704186,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 294923,
+        "num": 294923,
+        "word": "吴磊抽中杨紫送的广告位",
+        "onboard_time": 1674705324,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286010,
+        "num": 286010,
+        "word": "一家5人花100块去看时空隧道",
+        "onboard_time": 1674716067,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278231,
+        "num": 278231,
+        "word": "Tian",
+        "onboard_time": 1674706167,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268098,
+        "num": 268098,
+        "word": "鲍蕾谈恋爱时因为太想陆毅长疱疹",
+        "onboard_time": 1674714630,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262284,
+        "num": 262284,
+        "word": "李现的鞋带到底是怎么系的",
+        "onboard_time": 1674711688,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245180,
+        "num": 245180,
+        "word": "流浪地球2让吴京重返20岁",
+        "onboard_time": 1674714387,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242241,
+        "num": 242241,
+        "word": "高启强没有心",
+        "onboard_time": 1674712347,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237588,
+        "num": 237588,
+        "word": "杨紫黄色毛线帽造型",
+        "onboard_time": 1674716008,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230078,
+        "num": 230078,
+        "word": "原汤化原食算被你玩明白了",
+        "onboard_time": 1674715168,
+        "rank": 22,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 229243,
+        "num": 229243,
+        "word": "大侦探",
+        "onboard_time": 1674710187,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207909,
+        "num": 207909,
+        "word": "王鹤棣为角色减掉10斤肌肉",
+        "onboard_time": 1674706767,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206435,
+        "num": 206435,
+        "word": "财神",
+        "onboard_time": 1674700885,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200306,
+        "num": 200306,
+        "word": "东北大酱放室外被冻成冰淇淋",
+        "onboard_time": 1674711204,
+        "rank": 26,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 196027,
+        "num": 196027,
+        "word": "陈乔恩艾伦最长视频通话800多分钟",
+        "onboard_time": 1674709587,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192706,
+        "num": 192706,
+        "word": "Lisa和内马尔同框照",
+        "onboard_time": 1674696383,
+        "rank": 28,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 188317,
+        "num": 188317,
+        "word": "张艺谋用满江红圆了儿时一个梦想",
+        "onboard_time": 1674713967,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186212,
+        "num": 186212,
+        "word": "三体颅内取景",
+        "onboard_time": 1674712226,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179853,
+        "num": 179853,
+        "word": "是我心中财神的形象了",
+        "onboard_time": 1674716368,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178304,
+        "num": 178304,
+        "word": "刘亦菲李现片场拥抱花絮",
+        "onboard_time": 1674715766,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177178,
+        "num": 177178,
+        "word": "普尔绝杀",
+        "onboard_time": 1674714929,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175596,
+        "num": 175596,
+        "word": "四川地震后已有游客连夜离开",
+        "onboard_time": 1674702447,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 167011,
+        "num": 167011,
+        "word": "蒲熠星说一枪在手探案我有",
+        "onboard_time": 1674716308,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160550,
+        "num": 160550,
+        "word": "流浪地球 排片",
+        "onboard_time": 1674716967,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160203,
+        "num": 160203,
+        "word": "初五迎财神",
+        "onboard_time": 1674663385,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153356,
+        "num": 153356,
+        "word": "王一博说和叶先生不会见面",
+        "onboard_time": 1674699328,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151147,
+        "num": 151147,
+        "word": "流浪地球 imax",
+        "onboard_time": 1674716906,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138120,
+        "num": 138120,
+        "word": "林书豪加盟中国台湾联赛",
+        "onboard_time": 1674709824,
+        "rank": 40,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 135685,
+        "num": 135685,
+        "word": "男子过年看电影买到无座票",
+        "onboard_time": 1674706584,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132220,
+        "num": 132220,
+        "word": "宁安如梦",
+        "onboard_time": 1674709406,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124191,
+        "num": 124191,
+        "word": "嫁出去的谢之遥泼出去的水",
+        "onboard_time": 1674708866,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118025,
+        "num": 118025,
+        "word": "勇士战胜灰熊",
+        "onboard_time": 1674714447,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112218,
+        "num": 112218,
+        "word": "利拉德60分",
+        "onboard_time": 1674715588,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109751,
+        "num": 109751,
+        "word": "白鹿张凌赫宁安如梦官宣海报",
+        "onboard_time": 1674703406,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108921,
+        "num": 108921,
+        "word": "流浪地球 彩蛋",
+        "onboard_time": 1674703406,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108189,
+        "num": 108189,
+        "word": "春晚是妈妈是女儿网友版MV",
+        "onboard_time": 1674710905,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105274,
+        "num": 105274,
+        "word": "我越来越有钱",
+        "onboard_time": 1674717387,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国年让世界相知相连#"
+    }
+  }
+}
