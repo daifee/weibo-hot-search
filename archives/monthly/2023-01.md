@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/26 15:17:12
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/26 15:33:41
 </p>
 </blockquote>
 <p>
@@ -4785,6 +4785,12 @@ never在笑（热度：1016332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9B%BD%E5%A4%96%E7%BD%91%E7%AB%99%E8%AF%84%E4%B8%BA2023%E5%85%A8%E7%90%83%E6%9C%80%E7%BE%8E%E5%A5%B3%E6%BC%94%E5%91%98%23" target="weibo">
+迪丽热巴国外网站评为2023全球最美女演员（热度：1012781）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%AE%B9%E6%98%93%E7%B4%A7%E7%BB%B7%E7%9A%84%E4%BA%BA%23" target="weibo">
 刘亦菲说自己是容易紧绷的人（热度：1012710）
 </a>
@@ -6005,12 +6011,6 @@ WBG 阵容（热度：876890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TWICE%E6%96%B0%E6%AD%8C%23" target="weibo">
 TWICE新歌（热度：875227）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F6%E4%B8%AA%E6%9C%88%E5%87%8F%E8%82%A573%E6%96%A4%E7%A7%B0%E9%87%8D%E5%A1%91%E4%BA%BA%E7%94%9F%23" target="weibo">
-女生6个月减肥73斤称重塑人生（热度：875005）
 </a>
 </li>
 
