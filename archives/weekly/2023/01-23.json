@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674760489631,
+  "endTime": 1674761594094,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -7851,20 +7851,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 88940,
+      "num": 88940,
+      "word": "酒店推出火锅浴温泉池漂满白菜茄子",
+      "onboard_time": 1674756497,
+      "rank": 44,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 88864,
       "num": 88864,
       "word": "永远折服于民俗文化的浪漫",
       "onboard_time": 1674450986,
       "rank": 38,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 87443,
-      "num": 87443,
-      "word": "酒店推出火锅浴温泉池漂满白菜茄子",
-      "onboard_time": 1674756497,
-      "rank": 44,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 86544,
@@ -8123,20 +8123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42368,
+      "num": 42368,
+      "word": "爸爸吃麻团5个月萌娃望眼欲穿",
+      "onboard_time": 1674757754,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42266,
       "num": 1614144,
       "word": "新时代 我在中国",
       "onboard_time": 1674279563,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 40361,
-      "num": 40361,
-      "word": "爸爸吃麻团5个月萌娃望眼欲穿",
-      "onboard_time": 1674757754,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38922,
@@ -8241,6 +8241,14 @@
       "onboard_time": 1674311804,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14139,
+      "num": 21393,
+      "word": "10岁女孩自学烘焙成品令人垂涎",
+      "onboard_time": 1674761533,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12958,
