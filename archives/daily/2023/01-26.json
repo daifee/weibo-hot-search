@@ -1,6 +1,6 @@
 {
   "startTime": 1674663933880,
-  "endTime": 1674710234484,
+  "endTime": 1674711197119,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -163,20 +163,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 886239,
+      "num": 886239,
+      "word": "陈乔恩艾伦最长视频通话800多分钟",
+      "onboard_time": 1674709587,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 814519,
+      "num": 814519,
+      "word": "奶奶不识字误把狗粮当特产招待街坊",
+      "onboard_time": 1674708506,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787534,
       "num": 787534,
       "word": "王一博说和叶先生不会见面",
       "onboard_time": 1674699328,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 761504,
-      "num": 448000,
-      "word": "陈乔恩艾伦最长视频通话800多分钟",
-      "onboard_time": 1674709587,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 700840,
@@ -201,14 +209,6 @@
       "onboard_time": 1674696806,
       "rank": 42,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 653816,
-      "num": 445498,
-      "word": "奶奶不识字误把狗粮当特产招待街坊",
-      "onboard_time": 1674708506,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 586926,
@@ -251,12 +251,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 542852,
+      "num": 542852,
+      "word": "折腰官宣宋祖儿刘宇宁",
+      "onboard_time": 1674709706,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 534827,
       "num": 534827,
       "word": "扬名立万",
       "onboard_time": 1674657451,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 530490,
+      "num": 530490,
+      "word": "大侦探",
+      "onboard_time": 1674710187,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 511107,
@@ -371,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 360054,
+      "num": 360054,
+      "word": "林书豪加盟中国台湾联赛",
+      "onboard_time": 1674709824,
+      "rank": 41,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 358360,
       "num": 358360,
       "word": "财神爷壁纸",
@@ -443,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297239,
+      "num": 297239,
+      "word": "宁安如梦",
+      "onboard_time": 1674709406,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295001,
       "num": 295001,
       "word": "这就是脱单困难的原因吧",
@@ -499,27 +531,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 271256,
-      "num": 271256,
-      "word": "宁安如梦",
-      "onboard_time": 1674709406,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 267473,
       "num": 267473,
       "word": "流浪地球 彩蛋",
       "onboard_time": 1674703406,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 267424,
-      "num": 267424,
-      "word": "折腰官宣宋祖儿刘宇宁",
-      "onboard_time": 1674709706,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -875,14 +891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167107,
-      "num": 167107,
-      "word": "林书豪加盟中国台湾联赛",
-      "onboard_time": 1674709824,
-      "rank": 41,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 165072,
       "num": 165072,
       "word": "陈小春说我这个女婿还行",
@@ -929,14 +937,6 @@
       "onboard_time": 1674651451,
       "rank": 27,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 153131,
-      "num": 153131,
-      "word": "大侦探",
-      "onboard_time": 1674710187,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 149929,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1674697584,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131930,
+      "num": 131930,
+      "word": "春晚是妈妈是女儿网友版MV",
+      "onboard_time": 1674710905,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 129838,
@@ -1129,6 +1137,14 @@
       "onboard_time": 1674695305,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100684,
+      "num": 100684,
+      "word": "运20潜力无限未来可期",
+      "onboard_time": 1674710846,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 97977,
