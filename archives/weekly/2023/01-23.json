@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674722219888,
+  "endTime": 1674724684530,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -153,6 +153,14 @@
       "onboard_time": 1674401188,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1535365,
+      "num": 611434,
+      "word": "不婚主义的小姨过年给孩子发红包",
+      "onboard_time": 1674720327,
+      "rank": 12,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1508159,
@@ -345,14 +353,6 @@
       "onboard_time": 1674616284,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1259941,
-      "num": 611434,
-      "word": "不婚主义的小姨过年给孩子发红包",
-      "onboard_time": 1674720327,
-      "rank": 12,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1255911,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 948919,
+      "num": 948919,
+      "word": "流浪地球 排片",
+      "onboard_time": 1674716967,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 948889,
       "num": 580889,
       "word": "94年女生被催婚不要彩礼倒贴2万",
@@ -641,14 +649,6 @@
       "onboard_time": 1674561806,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 939374,
-      "num": 939374,
-      "word": "流浪地球 排片",
-      "onboard_time": 1674716967,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 937551,
@@ -923,12 +923,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 745218,
+      "num": 745218,
+      "word": "我越来越有钱",
+      "onboard_time": 1674717387,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 743551,
       "num": 743551,
       "word": "外国女婿回村过年被烟花吵醒",
       "onboard_time": 1674517037,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 741332,
+      "num": 741332,
+      "word": "易烊千玺孙均最新剧照",
+      "onboard_time": 1674723387,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 735243,
@@ -1009,6 +1025,14 @@
       "onboard_time": 1674451105,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 717586,
+      "num": 717586,
+      "word": "女生拒绝相亲被围着做思想工作",
+      "onboard_time": 1674721167,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 716222,
@@ -1363,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581513,
+      "num": 581513,
+      "word": "官方回应西安回民街6根面20元",
+      "onboard_time": 1674722969,
+      "rank": 6,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 578444,
       "num": 578444,
       "word": "高叶被低估的女演员",
@@ -1715,6 +1747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 512977,
+      "num": 512977,
+      "word": "SMTOWN将选拔NCT新成员",
+      "onboard_time": 1674721886,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 511396,
       "num": 511396,
       "word": "陆虎和女朋友好甜",
@@ -1825,14 +1865,6 @@
       "onboard_time": 1674540563,
       "rank": 32,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 503823,
-      "num": 503823,
-      "word": "我越来越有钱",
-      "onboard_time": 1674717387,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 503328,
@@ -1959,6 +1991,22 @@
       "num": 481619,
       "word": "满江红 反转",
       "onboard_time": 1674603976,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 477622,
+      "num": 477622,
+      "word": "殷桃连续三年五部剧开年上星",
+      "onboard_time": 1674721947,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 477452,
+      "num": 477452,
+      "word": "张婧仪替方小姐说她现在知道了",
+      "onboard_time": 1674724168,
       "rank": 9,
       "category": "影视"
     },
@@ -2963,14 +3011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 351021,
-      "num": 351021,
-      "word": "SMTOWN将选拔NCT新成员",
-      "onboard_time": 1674721886,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 350299,
       "num": 350299,
       "word": "为什么我们不愿意走亲戚了",
@@ -3073,6 +3113,14 @@
       "onboard_time": 1674524547,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334476,
+      "num": 334476,
+      "word": "男子ATM机存钱时被满地红包惊呆",
+      "onboard_time": 1674723327,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334466,
@@ -3635,6 +3683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 285818,
+      "num": 285818,
+      "word": "70后聚餐只有一个人接到老婆电话",
+      "onboard_time": 1674723628,
+      "rank": 18,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 285705,
       "num": 285705,
       "word": "姥爷开吊车为孙女摘飞走的气球",
@@ -3715,14 +3771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279003,
-      "num": 279003,
-      "word": "女生拒绝相亲被围着做思想工作",
-      "onboard_time": 1674721167,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278848,
       "num": 230869,
       "word": "刘宇宁直播",
@@ -3777,6 +3825,14 @@
       "onboard_time": 1674487289,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 271197,
+      "num": 271197,
+      "word": "王一博感谢武行老师",
+      "onboard_time": 1674722486,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 270953,
@@ -4235,12 +4291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242164,
-      "num": 242164,
-      "word": "殷桃连续三年五部剧开年上星",
-      "onboard_time": 1674721947,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 241567,
+      "num": 241567,
+      "word": "兔子的上门牙其实有4颗",
+      "onboard_time": 1674721587,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241332,
@@ -4739,6 +4795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207687,
+      "num": 207687,
+      "word": "王一博无名宁波路演饭拍",
+      "onboard_time": 1674723867,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207617,
       "num": 319206,
       "word": "兔子吃多胡萝卜有死亡风险",
@@ -4953,6 +5017,14 @@
       "onboard_time": 1674709706,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 196192,
+      "num": 196192,
+      "word": "朱颜曼滋流浪地球2年龄跨度",
+      "onboard_time": 1674723988,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 196169,
@@ -5835,6 +5907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155376,
+      "num": 155376,
+      "word": "流浪地球2路演开启",
+      "onboard_time": 1674722308,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155206,
       "num": 155206,
       "word": "网易回顾暴雪国服十四年",
@@ -6267,6 +6347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134763,
+      "num": 134763,
+      "word": "苏绣中国嫁衣有多美",
+      "onboard_time": 1674723927,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134630,
       "num": 134630,
       "word": "湖人vs开拓者",
@@ -6481,14 +6569,6 @@
       "onboard_time": 1674431358,
       "rank": 41,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 124492,
-      "num": 124492,
-      "word": "兔子的上门牙其实有4颗",
-      "onboard_time": 1674721587,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123510,
@@ -6737,6 +6817,14 @@
       "onboard_time": 1674652649,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110476,
+      "num": 110476,
+      "word": "充电器一拔我和浪浪山道别了",
+      "onboard_time": 1674724105,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 110418,

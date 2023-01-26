@@ -1,0 +1,410 @@
+{
+  "runTime": 1674724684530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1466497,
+        "num": 1466497,
+        "word": "apop",
+        "onboard_time": 1674717747,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 948919,
+        "num": 948919,
+        "word": "流浪地球 排片",
+        "onboard_time": 1674716967,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21408,
+        "num": 802690,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674702987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745218,
+        "num": 745218,
+        "word": "我越来越有钱",
+        "onboard_time": 1674717387,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 741332,
+        "num": 741332,
+        "word": "易烊千玺孙均最新剧照",
+        "onboard_time": 1674723387,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 717586,
+        "num": 717586,
+        "word": "女生拒绝相亲被围着做思想工作",
+        "onboard_time": 1674721167,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581513,
+        "num": 581513,
+        "word": "官方回应西安回民街6根面20元",
+        "onboard_time": 1674722969,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 512977,
+        "num": 512977,
+        "word": "SMTOWN将选拔NCT新成员",
+        "onboard_time": 1674721886,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477622,
+        "num": 477622,
+        "word": "殷桃连续三年五部剧开年上星",
+        "onboard_time": 1674721947,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477452,
+        "num": 477452,
+        "word": "张婧仪替方小姐说她现在知道了",
+        "onboard_time": 1674724168,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1535365,
+        "num": 468423,
+        "word": "不婚主义的小姨过年给孩子发红包",
+        "onboard_time": 1674720327,
+        "rank": 10,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 795155,
+        "num": 463010,
+        "word": "满江红 龙门镖局",
+        "onboard_time": 1674691519,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430874,
+        "num": 430874,
+        "word": "中国乒乓宣布撤出春节档",
+        "onboard_time": 1674717989,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399649,
+        "num": 399649,
+        "word": "郑恺苗苗一胎是一顿剁椒鱼头辣出来的",
+        "onboard_time": 1674712766,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341016,
+        "num": 341016,
+        "word": "一家5人花100块去看时空隧道",
+        "onboard_time": 1674716067,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334476,
+        "num": 334476,
+        "word": "男子ATM机存钱时被满地红包惊呆",
+        "onboard_time": 1674723327,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328565,
+        "num": 328565,
+        "word": "迪丽热巴国外网站评为2023全球最美女演员",
+        "onboard_time": 1674713068,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315539,
+        "num": 315539,
+        "word": "吴京 手滑了",
+        "onboard_time": 1674691701,
+        "rank": 17,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 285818,
+        "num": 285818,
+        "word": "70后聚餐只有一个人接到老婆电话",
+        "onboard_time": 1674723628,
+        "rank": 18,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 284074,
+        "num": 284074,
+        "word": "大批游客涌入青岛栈桥喂海鸥",
+        "onboard_time": 1674718048,
+        "rank": 19,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 271197,
+        "num": 271197,
+        "word": "王一博感谢武行老师",
+        "onboard_time": 1674722486,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269047,
+        "num": 269047,
+        "word": "西南大学",
+        "onboard_time": 1674704186,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 254598,
+        "num": 254598,
+        "word": "流浪地球 imax",
+        "onboard_time": 1674716906,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248677,
+        "num": 248677,
+        "word": "折腰官宣宋祖儿刘宇宁",
+        "onboard_time": 1674709706,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241567,
+        "num": 241567,
+        "word": "兔子的上门牙其实有4颗",
+        "onboard_time": 1674721587,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217306,
+        "num": 217306,
+        "word": "库里被驱逐",
+        "onboard_time": 1674713730,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207687,
+        "num": 207687,
+        "word": "王一博无名宁波路演饭拍",
+        "onboard_time": 1674723867,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205861,
+        "num": 205861,
+        "word": "奶奶不识字误把狗粮当特产招待街坊",
+        "onboard_time": 1674708506,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198577,
+        "num": 198577,
+        "word": "Tian",
+        "onboard_time": 1674706167,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196192,
+        "num": 196192,
+        "word": "朱颜曼滋流浪地球2年龄跨度",
+        "onboard_time": 1674723988,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194069,
+        "num": 194069,
+        "word": "吴磊抽中杨紫送的广告位",
+        "onboard_time": 1674705324,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191180,
+        "num": 191180,
+        "word": "鲍蕾谈生孩子经历",
+        "onboard_time": 1674720867,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186055,
+        "num": 186055,
+        "word": "张若昀说没想到自己的名字越来越长",
+        "onboard_time": 1674719247,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182890,
+        "num": 182890,
+        "word": "墨子",
+        "onboard_time": 1674706767,
+        "rank": 33,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 178467,
+        "num": 178467,
+        "word": "流浪地球2群演cut后不放下敬礼的手",
+        "onboard_time": 1674716008,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168700,
+        "num": 168700,
+        "word": "许光汉柯佳嬿韩国机场图",
+        "onboard_time": 1674712886,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158811,
+        "num": 158811,
+        "word": "王一博叶先生的最后一个工作日",
+        "onboard_time": 1674720688,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157749,
+        "num": 157749,
+        "word": "西南大学取消赵某研究生导师资格",
+        "onboard_time": 1674704186,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 155376,
+        "num": 155376,
+        "word": "流浪地球2路演开启",
+        "onboard_time": 1674722308,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154667,
+        "num": 154667,
+        "word": "王鹤棣为角色减掉10斤肌肉",
+        "onboard_time": 1674706767,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148627,
+        "num": 148627,
+        "word": "大侦探",
+        "onboard_time": 1674710187,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138226,
+        "num": 138226,
+        "word": "杨紫黄色毛线帽造型",
+        "onboard_time": 1674716008,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136771,
+        "num": 136771,
+        "word": "财神",
+        "onboard_time": 1674700885,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134763,
+        "num": 134763,
+        "word": "苏绣中国嫁衣有多美",
+        "onboard_time": 1674723927,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117505,
+        "num": 117505,
+        "word": "李现的鞋带到底是怎么系的",
+        "onboard_time": 1674711688,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113993,
+        "num": 113993,
+        "word": "钱芳转发满江红龙门镖局剧情讨论",
+        "onboard_time": 1674719429,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113739,
+        "num": 113739,
+        "word": "三体颅内取景",
+        "onboard_time": 1674712226,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110476,
+        "num": 110476,
+        "word": "充电器一拔我和浪浪山道别了",
+        "onboard_time": 1674724105,
+        "rank": 47,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 102650,
+        "num": 102650,
+        "word": "林书豪加盟中国台湾联赛",
+        "onboard_time": 1674709824,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 96381,
+        "num": 96381,
+        "word": "是我心中财神的形象了",
+        "onboard_time": 1674716368,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是中国人的春节浪漫#"
+    }
+  }
+}
