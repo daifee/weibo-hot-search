@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674761594094,
+  "endTime": 1674764304308,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -8059,6 +8059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59142,
+      "num": 59142,
+      "word": "10岁女孩自学烘焙成品令人垂涎",
+      "onboard_time": 1674761533,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59026,
       "num": 59026,
       "word": "门框上的身高标线是爱和成长的记号",
@@ -8243,20 +8251,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14139,
-      "num": 21393,
-      "word": "10岁女孩自学烘焙成品令人垂涎",
-      "onboard_time": 1674761533,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12958,
       "num": 18010,
       "word": "新年快乐",
       "onboard_time": 1674306002,
       "rank": 48,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 12233,
+      "num": 15432,
+      "word": "一直被妈妈念叨的狗狗",
+      "onboard_time": 1674761953,
+      "rank": 48,
+      "category": "幽默,情感"
     }
   ],
   "hotgov_list": [
