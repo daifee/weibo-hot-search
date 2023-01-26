@@ -1,6 +1,6 @@
 {
   "startTime": 1674663933880,
-  "endTime": 1674700915826,
+  "endTime": 1674701532064,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -99,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 745443,
-      "num": 745443,
+      "raw_hot": 1126062,
+      "num": 1126062,
       "word": "财神",
       "onboard_time": 1674700885,
       "rank": 9,
@@ -115,6 +115,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 648165,
+      "num": 648165,
+      "word": "王一博说和叶先生不会见面",
+      "onboard_time": 1674699328,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 586926,
       "num": 586926,
       "word": "杀我别用李响刀",
@@ -123,11 +131,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 574737,
-      "num": 574737,
-      "word": "王一博说和叶先生不会见面",
-      "onboard_time": 1674699328,
-      "rank": 12,
+      "raw_hot": 573289,
+      "num": 573289,
+      "word": "小破球",
+      "onboard_time": 1674700166,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -147,20 +155,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 532729,
+      "num": 532729,
+      "word": "00后女生10分钟解决铁路通信故障",
+      "onboard_time": 1674698547,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508021,
       "num": 508021,
       "word": "高启强陈书婷be了吗",
       "onboard_time": 1674697766,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 507037,
-      "num": 507037,
-      "word": "00后女生10分钟解决铁路通信故障",
-      "onboard_time": 1674698547,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 504716,
@@ -195,12 +203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415159,
-      "num": 415159,
-      "word": "小破球",
-      "onboard_time": 1674700166,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 422530,
+      "num": 422530,
+      "word": "美国将向乌克兰提供31辆主战坦克",
+      "onboard_time": 1674699745,
+      "rank": 21,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 388159,
@@ -251,20 +259,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 346853,
-      "num": 346853,
-      "word": "美国将向乌克兰提供31辆主战坦克",
-      "onboard_time": 1674699745,
-      "rank": 21,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 335671,
       "num": 293604,
       "word": "深海票房逆跌",
       "onboard_time": 1674656131,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330130,
+      "num": 330130,
+      "word": "邓佳鑫唱歌",
+      "onboard_time": 1674701006,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 329828,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251175,
+      "num": 251175,
+      "word": "一个人养活全家是什么体验",
+      "onboard_time": 1674701006,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244674,
       "num": 244674,
       "word": "男子大年初三喝醉摔下4米高桥",
@@ -361,6 +377,14 @@
       "onboard_time": 1674697526,
       "rank": 35,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 240972,
+      "num": 240972,
+      "word": "高叶蔡文静徐冬冬演的大嫂对比",
+      "onboard_time": 1674700828,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 237795,
@@ -579,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167815,
+      "num": 167815,
+      "word": "满江红片尾曲",
+      "onboard_time": 1674700646,
+      "rank": 40,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 161273,
       "num": 161273,
       "word": "持续关注四川泸定地震",
@@ -675,14 +707,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 139764,
-      "num": 139764,
-      "word": "满江红片尾曲",
-      "onboard_time": 1674700646,
-      "rank": 40,
-      "category": "影视,音乐"
-    },
-    {
       "raw_hot": 132811,
       "num": 132811,
       "word": "小猫已经放弃挣扎了",
@@ -731,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123012,
-      "num": 123012,
-      "word": "高叶蔡文静徐冬冬演的大嫂对比",
-      "onboard_time": 1674700828,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 119651,
       "num": 119651,
       "word": "令人心动的offer",
@@ -769,6 +785,14 @@
       "onboard_time": 1674636628,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 113600,
+      "num": 113600,
+      "word": "这就是脱单困难的原因吧",
+      "onboard_time": 1674701486,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 111897,
