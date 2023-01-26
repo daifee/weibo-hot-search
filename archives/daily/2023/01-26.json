@@ -1,6 +1,6 @@
 {
   "startTime": 1674663933880,
-  "endTime": 1674729321831,
+  "endTime": 1674731719253,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -203,6 +203,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 931028,
+      "num": 931028,
+      "word": "Doinb直播",
+      "onboard_time": 1674728189,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 918712,
       "num": 918712,
       "word": "库里被驱逐",
@@ -275,14 +283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 734804,
-      "num": 417170,
-      "word": "Doinb直播",
-      "onboard_time": 1674728189,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 717586,
       "num": 717586,
       "word": "女生拒绝相亲被围着做思想工作",
@@ -331,8 +331,24 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 628250,
-      "num": 628250,
+      "raw_hot": 653242,
+      "num": 653242,
+      "word": "陈妍希带儿子去看流浪地球2",
+      "onboard_time": 1674730587,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 646585,
+      "num": 646585,
+      "word": "狂飙最后人物结局",
+      "onboard_time": 1674727827,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 632013,
+      "num": 632013,
       "word": "宋祖儿让吴磊转账拿手机",
       "onboard_time": 1674726268,
       "rank": 8,
@@ -403,12 +419,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 530855,
+      "num": 530855,
+      "word": "LWX",
+      "onboard_time": 1674730768,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 530490,
       "num": 530490,
       "word": "大侦探",
       "onboard_time": 1674710187,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 529772,
+      "num": 529772,
+      "word": "沈阳的洗浴也太高雅了",
+      "onboard_time": 1674728788,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 516990,
+      "num": 516990,
+      "word": "交换人生疑似被恶意评分",
+      "onboard_time": 1674725248,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 512977,
@@ -424,14 +464,6 @@
       "word": "高启强陈书婷be了吗",
       "onboard_time": 1674697766,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 511070,
-      "num": 511070,
-      "word": "交换人生疑似被恶意评分",
-      "onboard_time": 1674725248,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -456,14 +488,6 @@
       "word": "中国乒乓宣布撤出春节档",
       "onboard_time": 1674717989,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 484303,
-      "num": 379627,
-      "word": "狂飙最后人物结局",
-      "onboard_time": 1674727827,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -505,6 +529,14 @@
       "onboard_time": 1674690437,
       "rank": 11,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 432803,
+      "num": 432803,
+      "word": "苗苗好黏郑恺",
+      "onboard_time": 1674731068,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 431523,
@@ -1163,6 +1195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195406,
+      "num": 195406,
+      "word": "这是小羊的幼儿园吗",
+      "onboard_time": 1674730587,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195026,
       "num": 195026,
       "word": "张雨绮说听张碧晨唱歌有心动的感觉",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1674662308,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172714,
+      "num": 172714,
+      "word": "冰岛往事",
+      "onboard_time": 1674731549,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 169671,
@@ -1555,14 +1603,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 126143,
-      "num": 126143,
-      "word": "沈阳的洗浴也太高雅了",
-      "onboard_time": 1674728788,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 124848,
       "num": 124848,
       "word": "好像男友第一次上门都这样",
@@ -1609,6 +1649,14 @@
       "onboard_time": 1674636628,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 116122,
+      "num": 116122,
+      "word": "莱巴金娜晋级澳网决赛",
+      "onboard_time": 1674730348,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 112552,
