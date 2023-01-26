@@ -1,0 +1,410 @@
+{
+  "runTime": 1674715041832,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1327468,
+        "num": 1327468,
+        "word": "满江红 龙门镖局",
+        "onboard_time": 1674691519,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1043309,
+        "num": 1043309,
+        "word": "吴京 手滑了",
+        "onboard_time": 1674691701,
+        "rank": 1,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 22987,
+        "num": 922833,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674702987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918712,
+        "num": 918712,
+        "word": "库里被驱逐",
+        "onboard_time": 1674713730,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 808648,
+        "num": 808648,
+        "word": "迪丽热巴国外网站评为2023全球最美女演员",
+        "onboard_time": 1674713068,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 689914,
+        "num": 689914,
+        "word": "郑恺苗苗一胎是一顿剁椒鱼头辣出来的",
+        "onboard_time": 1674712766,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580124,
+        "num": 580124,
+        "word": "折腰官宣宋祖儿刘宇宁",
+        "onboard_time": 1674709706,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 575306,
+        "num": 575306,
+        "word": "奶奶不识字误把狗粮当特产招待街坊",
+        "onboard_time": 1674708506,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476658,
+        "num": 476658,
+        "word": "许光汉柯佳嬿韩国机场图",
+        "onboard_time": 1674712886,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387875,
+        "num": 387875,
+        "word": "墨子",
+        "onboard_time": 1674706767,
+        "rank": 9,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 589382,
+        "num": 387430,
+        "word": "西南大学",
+        "onboard_time": 1674704186,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 451563,
+        "num": 381104,
+        "word": "王一博转发说蒸排骨味道不错",
+        "onboard_time": 1674713425,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 446238,
+        "num": 379603,
+        "word": "吴磊抽中杨紫送的广告位",
+        "onboard_time": 1674705324,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372214,
+        "num": 372214,
+        "word": "流浪地球2让吴京重返20岁",
+        "onboard_time": 1674714387,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369668,
+        "num": 369668,
+        "word": "陈乔恩艾伦最长视频通话800多分钟",
+        "onboard_time": 1674709587,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368871,
+        "num": 368871,
+        "word": "西南大学取消赵某研究生导师资格",
+        "onboard_time": 1674704186,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 363844,
+        "num": 363844,
+        "word": "Tian",
+        "onboard_time": 1674706167,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 351102,
+        "num": 351102,
+        "word": "李现的鞋带到底是怎么系的",
+        "onboard_time": 1674711688,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338493,
+        "num": 338493,
+        "word": "大侦探",
+        "onboard_time": 1674710187,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268292,
+        "num": 268292,
+        "word": "林书豪加盟中国台湾联赛",
+        "onboard_time": 1674709824,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 254308,
+        "num": 254308,
+        "word": "三体颅内取景",
+        "onboard_time": 1674712226,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251752,
+        "num": 251752,
+        "word": "王鹤棣为角色减掉10斤肌肉",
+        "onboard_time": 1674706767,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249055,
+        "num": 249055,
+        "word": "高启强没有心",
+        "onboard_time": 1674712347,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243191,
+        "num": 243191,
+        "word": "初五迎财神",
+        "onboard_time": 1674663385,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237136,
+        "num": 237136,
+        "word": "财神",
+        "onboard_time": 1674700885,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234138,
+        "num": 234138,
+        "word": "Lisa和内马尔同框照",
+        "onboard_time": 1674696383,
+        "rank": 25,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 224350,
+        "num": 224350,
+        "word": "张艺谋用满江红圆了儿时一个梦想",
+        "onboard_time": 1674713967,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216390,
+        "num": 216390,
+        "word": "四川地震后已有游客连夜离开",
+        "onboard_time": 1674702447,
+        "rank": 27,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 212275,
+        "num": 212275,
+        "word": "东北大酱放室外被冻成冰淇淋",
+        "onboard_time": 1674711204,
+        "rank": 28,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 203678,
+        "num": 203678,
+        "word": "男子过年看电影买到无座票",
+        "onboard_time": 1674706584,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202082,
+        "num": 202082,
+        "word": "宁安如梦",
+        "onboard_time": 1674709406,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196039,
+        "num": 196039,
+        "word": "王一博说和叶先生不会见面",
+        "onboard_time": 1674699328,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191120,
+        "num": 191120,
+        "word": "嫁出去的谢之遥泼出去的水",
+        "onboard_time": 1674708866,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176928,
+        "num": 176928,
+        "word": "流浪地球 彩蛋",
+        "onboard_time": 1674703406,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163218,
+        "num": 163218,
+        "word": "鲍蕾谈恋爱时因为太想陆毅长疱疹",
+        "onboard_time": 1674714630,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157998,
+        "num": 157998,
+        "word": "春晚是妈妈是女儿网友版MV",
+        "onboard_time": 1674710905,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145454,
+        "num": 145454,
+        "word": "王一博无名实时票房破4亿剧照",
+        "onboard_time": 1674705085,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143581,
+        "num": 143581,
+        "word": "李克勤想和周深再合作",
+        "onboard_time": 1674708987,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131631,
+        "num": 142638,
+        "word": "普尔绝杀",
+        "onboard_time": 1674714929,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129777,
+        "num": 142252,
+        "word": "勇士战胜灰熊",
+        "onboard_time": 1674714447,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142219,
+        "num": 142219,
+        "word": "白鹿张凌赫宁安如梦官宣海报",
+        "onboard_time": 1674703406,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134341,
+        "num": 134341,
+        "word": "看完狂飙后遗症",
+        "onboard_time": 1674697766,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130415,
+        "num": 130415,
+        "word": "张函瑞全开麦",
+        "onboard_time": 1674711505,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121839,
+        "num": 121839,
+        "word": "灰熊vs勇士",
+        "onboard_time": 1674712827,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118726,
+        "num": 118726,
+        "word": "因腿短而够不到香肠的猫咪",
+        "onboard_time": 1674705627,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118294,
+        "num": 118294,
+        "word": "男子称餐厅点海鲜葱姜费占菜价60%",
+        "onboard_time": 1674702805,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117722,
+        "num": 117722,
+        "word": "满江红连续2天票房逆跌",
+        "onboard_time": 1674690496,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117142,
+        "num": 117142,
+        "word": "YG新女团新成员ASA公开",
+        "onboard_time": 1674696985,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112297,
+        "num": 112297,
+        "word": "浓眉复出",
+        "onboard_time": 1674713608,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105769,
+        "num": 105769,
+        "word": "张极张泽禹合唱流浪记",
+        "onboard_time": 1674712588,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是中国人的春节浪漫#"
+    }
+  }
+}

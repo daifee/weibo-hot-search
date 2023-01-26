@@ -1,6 +1,6 @@
 {
   "startTime": 1674663933880,
-  "endTime": 1674714166519,
+  "endTime": 1674715041832,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -155,6 +155,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 918712,
+      "num": 918712,
+      "word": "库里被驱逐",
+      "onboard_time": 1674713730,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 908479,
       "num": 480871,
       "word": "西南大学取消赵某研究生导师资格",
@@ -177,6 +185,14 @@
       "onboard_time": 1674708506,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 808648,
+      "num": 808648,
+      "word": "迪丽热巴国外网站评为2023全球最美女演员",
+      "onboard_time": 1674713068,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 787534,
@@ -203,20 +219,20 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 689914,
+      "num": 689914,
+      "word": "郑恺苗苗一胎是一顿剁椒鱼头辣出来的",
+      "onboard_time": 1674712766,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 678873,
       "num": 678873,
       "word": "官方回应游客打架致三星堆文物翻倒",
       "onboard_time": 1674696806,
       "rank": 42,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 617838,
-      "num": 617838,
-      "word": "郑恺苗苗一胎是一顿剁椒鱼头辣出来的",
-      "onboard_time": 1674712766,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 611773,
@@ -267,14 +283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 540259,
-      "num": 540259,
-      "word": "迪丽热巴国外网站评为2023全球最美女演员",
-      "onboard_time": 1674713068,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 534827,
       "num": 534827,
       "word": "扬名立万",
@@ -291,14 +299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 511124,
-      "num": 511124,
-      "word": "库里被驱逐",
-      "onboard_time": 1674713730,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 511107,
       "num": 511107,
       "word": "高启强陈书婷be了吗",
@@ -313,6 +313,22 @@
       "onboard_time": 1674698726,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 476658,
+      "num": 476658,
+      "word": "许光汉柯佳嬿韩国机场图",
+      "onboard_time": 1674712886,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 451563,
+      "num": 381104,
+      "word": "王一博转发说蒸排骨味道不错",
+      "onboard_time": 1674713425,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 449182,
@@ -337,14 +353,6 @@
       "onboard_time": 1674706584,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429850,
-      "num": 429850,
-      "word": "许光汉柯佳嬿韩国机场图",
-      "onboard_time": 1674712886,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 428712,
@@ -411,6 +419,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 372214,
+      "num": 372214,
+      "word": "流浪地球2让吴京重返20岁",
+      "onboard_time": 1674714387,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364018,
       "num": 364018,
       "word": "看完狂飙后遗症",
@@ -443,16 +459,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 356403,
-      "num": 356403,
-      "word": "王一博转发说蒸排骨味道不错",
-      "onboard_time": 1674713425,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 344208,
-      "num": 344208,
+      "raw_hot": 351102,
+      "num": 351102,
       "word": "李现的鞋带到底是怎么系的",
       "onboard_time": 1674711688,
       "rank": 18,
@@ -707,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224350,
+      "num": 224350,
+      "word": "张艺谋用满江红圆了儿时一个梦想",
+      "onboard_time": 1674713967,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224091,
       "num": 224091,
       "word": "春节档 精彩",
@@ -753,6 +769,14 @@
       "onboard_time": 1674689657,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212275,
+      "num": 212275,
+      "word": "东北大酱放室外被冻成冰淇淋",
+      "onboard_time": 1674711204,
+      "rank": 31,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 212264,
@@ -915,14 +939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 178890,
-      "num": 178890,
-      "word": "东北大酱放室外被冻成冰淇淋",
-      "onboard_time": 1674711204,
-      "rank": 31,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 176872,
       "num": 176872,
       "word": "许红豆谢之遥正式见家长",
@@ -979,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163218,
+      "num": 163218,
+      "word": "鲍蕾谈恋爱时因为太想陆毅长疱疹",
+      "onboard_time": 1674714630,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161273,
       "num": 161273,
       "word": "持续关注四川泸定地震",
@@ -993,14 +1017,6 @@
       "onboard_time": 1674711505,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 160237,
-      "num": 160237,
-      "word": "张艺谋用满江红圆了儿时一个梦想",
-      "onboard_time": 1674713967,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 157566,
@@ -1139,12 +1155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131631,
+      "num": 142638,
+      "word": "普尔绝杀",
+      "onboard_time": 1674714929,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129838,
       "num": 129838,
       "word": "8个建议让你拥有好心态",
       "onboard_time": 1674660448,
       "rank": 41,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 129777,
+      "num": 142252,
+      "word": "勇士战胜灰熊",
+      "onboard_time": 1674714447,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 126514,
