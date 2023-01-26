@@ -1,6 +1,6 @@
 {
   "startTime": 1674663933880,
-  "endTime": 1674696962397,
+  "endTime": 1674698183502,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -11,12 +11,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2632752,
-      "num": 2632752,
+      "raw_hot": 2998605,
+      "num": 2998605,
       "word": "满江红 龙门镖局",
       "onboard_time": 1674691519,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1689451,
+      "num": 1689451,
+      "word": "吴京 手滑了",
+      "onboard_time": 1674691701,
+      "rank": 1,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1619600,
@@ -27,16 +35,8 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 1603726,
-      "num": 1603726,
-      "word": "吴京 手滑了",
-      "onboard_time": 1674691701,
-      "rank": 1,
-      "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1384804,
-      "num": 1384804,
+      "raw_hot": 1405316,
+      "num": 1405316,
       "word": "初五迎财神",
       "onboard_time": 1674663385,
       "rank": 16,
@@ -75,15 +75,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1142903,
-      "num": 1142903,
-      "word": "正月初五为什么叫破五",
-      "onboard_time": 1674692361,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 1192102,
+      "num": 1192102,
+      "word": "Lisa和内马尔同框照",
+      "onboard_time": 1674696383,
+      "rank": 8,
+      "category": "体育,艺人"
     },
     {
-      "raw_hot": 1091249,
+      "raw_hot": 1158047,
       "num": 543101,
       "word": "西南大学回应教授与博士生关系不当",
       "onboard_time": 1674695123,
@@ -91,12 +91,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 607818,
-      "num": 607818,
-      "word": "Lisa和内马尔同框照",
-      "onboard_time": 1674696383,
-      "rank": 8,
-      "category": "体育,艺人"
+      "raw_hot": 1142903,
+      "num": 1142903,
+      "word": "正月初五为什么叫破五",
+      "onboard_time": 1674692361,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 586926,
@@ -131,12 +131,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 444967,
+      "num": 444967,
+      "word": "官方回应游客打架致三星堆文物翻倒",
+      "onboard_time": 1674696806,
+      "rank": 42,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 442615,
       "num": 442615,
       "word": "四个舅舅哄外甥女睡觉",
       "onboard_time": 1674690437,
       "rank": 11,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 428712,
+      "num": 428712,
+      "word": "YG新女团新成员ASA公开",
+      "onboard_time": 1674696985,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 385027,
@@ -163,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 358360,
+      "num": 358360,
+      "word": "财神爷壁纸",
+      "onboard_time": 1674697046,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 335671,
       "num": 293604,
       "word": "深海票房逆跌",
@@ -177,6 +201,14 @@
       "onboard_time": 1674660031,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325004,
+      "num": 325004,
+      "word": "为什么只有中国医生擅长拔鱼刺",
+      "onboard_time": 1674668597,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323200,
@@ -200,14 +232,6 @@
       "word": "男子跳冰河救落水儿童不幸双双遇难",
       "onboard_time": 1674657752,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294064,
-      "num": 294064,
-      "word": "为什么只有中国医生擅长拔鱼刺",
-      "onboard_time": 1674668597,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -275,11 +299,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231854,
+      "num": 231854,
+      "word": "为什么是深海而不是大圣归来2",
+      "onboard_time": 1674691400,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229465,
       "num": 229465,
       "word": "高叶太美了",
       "onboard_time": 1674661109,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 224091,
+      "num": 224091,
+      "word": "春节档 精彩",
+      "onboard_time": 1674698125,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -313,14 +353,6 @@
       "onboard_time": 1674689657,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218154,
-      "num": 218154,
-      "word": "为什么是深海而不是大圣归来2",
-      "onboard_time": 1674691400,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 212264,
@@ -371,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194042,
+      "num": 194042,
+      "word": "过年果盘的神仙摆法",
+      "onboard_time": 1674695725,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 192671,
       "num": 146211,
       "word": "时代少年团的表情戏",
@@ -411,6 +451,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 184506,
+      "num": 160110,
+      "word": "看完狂飙后遗症",
+      "onboard_time": 1674697766,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181251,
       "num": 144733,
       "word": "程耳解释梁朝伟王一博反复擦衣服含义",
@@ -443,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157877,
-      "num": 157877,
-      "word": "过年果盘的神仙摆法",
-      "onboard_time": 1674695725,
-      "rank": 29,
-      "category": "美食"
+      "raw_hot": 157566,
+      "num": 157566,
+      "word": "成都消防地震救援紧急集结",
+      "onboard_time": 1674696084,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156570,
@@ -456,6 +504,14 @@
       "word": "吴京 看见各种摄像头就想和它聊天",
       "onboard_time": 1674656490,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 154169,
+      "num": 154169,
+      "word": "高启强陈书婷be了吗",
+      "onboard_time": 1674697766,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -499,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144883,
+      "num": 144883,
+      "word": "3个萌娃见到穿制服长辈瞬间乖巧",
+      "onboard_time": 1674697526,
+      "rank": 35,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 144177,
       "num": 144177,
       "word": "米勒参演中国乒乓",
@@ -523,12 +587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138860,
-      "num": 138860,
-      "word": "成都消防地震救援紧急集结",
-      "onboard_time": 1674696084,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 137323,
+      "num": 137323,
+      "word": "辈份低是种什么体验",
+      "onboard_time": 1674697345,
+      "rank": 37,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 132811,
@@ -539,12 +603,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132241,
+      "num": 132241,
+      "word": "四川多地有震感",
+      "onboard_time": 1674697584,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129838,
       "num": 129838,
       "word": "8个建议让你拥有好心态",
       "onboard_time": 1674660448,
       "rank": 41,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 126848,
+      "num": 126848,
+      "word": "谢之遥一个脑瓜崩换许红豆一个吻",
+      "onboard_time": 1674690256,
+      "rank": 43,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 126514,
@@ -563,20 +643,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 123510,
+      "num": 123510,
+      "word": "美国一男子被狗踩扳机射杀",
+      "onboard_time": 1674684371,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119651,
       "num": 119651,
       "word": "令人心动的offer",
       "onboard_time": 1674653253,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117862,
-      "num": 117862,
-      "word": "美国一男子被狗踩扳机射杀",
-      "onboard_time": 1674684371,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116628,
@@ -601,22 +681,6 @@
       "onboard_time": 1674636628,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 113434,
-      "num": 113434,
-      "word": "官方回应游客打架致三星堆文物翻倒",
-      "onboard_time": 1674696806,
-      "rank": 42,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 112708,
-      "num": 112708,
-      "word": "谢之遥一个脑瓜崩换许红豆一个吻",
-      "onboard_time": 1674690256,
-      "rank": 43,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 111777,
@@ -684,7 +748,7 @@
     },
     {
       "raw_hot": 51744,
-      "num": 1408706,
+      "num": 1437662,
       "word": "4个春节期间防疫热点问答",
       "onboard_time": 1674652649,
       "rank": 2,
