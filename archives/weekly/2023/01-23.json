@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674775145546,
+  "endTime": 1674776007724,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -2227,6 +2227,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 488140,
+      "num": 488140,
+      "word": "大年初六送穷",
+      "onboard_time": 1674774675,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 487170,
       "num": 487170,
       "word": "金智秀刘海",
@@ -3088,6 +3096,14 @@
       "word": "我不同意你脱下这身军装",
       "onboard_time": 1674625944,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 369427,
+      "num": 369427,
+      "word": "张译好有魅力",
+      "onboard_time": 1674774135,
+      "rank": 1,
       "category": "影视"
     },
     {
@@ -4267,6 +4283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270175,
+      "num": 270175,
+      "word": "安欣太惨了",
+      "onboard_time": 1674748768,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269702,
       "num": 269702,
       "word": "这是小羊的幼儿园吗",
@@ -4667,14 +4691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245914,
-      "num": 245914,
-      "word": "张译好有魅力",
-      "onboard_time": 1674774135,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
       "raw_hot": 245518,
       "num": 245518,
       "word": "郭帆",
@@ -4968,14 +4984,6 @@
       "word": "易烊千玺满江红好稳",
       "onboard_time": 1674391649,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 228278,
-      "num": 228278,
-      "word": "安欣太惨了",
-      "onboard_time": 1674748768,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -6443,14 +6451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 161953,
-      "num": 140497,
-      "word": "大年初六送穷",
-      "onboard_time": 1674774675,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161424,
       "num": 161424,
       "word": "KPL选手收假了",
@@ -6819,6 +6819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144291,
+      "num": 144291,
+      "word": "酒店推出火锅浴温泉池漂满白菜茄子",
+      "onboard_time": 1674756497,
+      "rank": 44,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 143827,
       "num": 143827,
       "word": "央视专访周深",
@@ -7033,6 +7041,14 @@
       "onboard_time": 1674449607,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134473,
+      "num": 134473,
+      "word": "大年初六",
+      "onboard_time": 1674774795,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 134462,
@@ -7283,6 +7299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123051,
+      "num": 123051,
+      "word": "王子异被秦昊开车半路抛下",
+      "onboard_time": 1674767111,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122889,
       "num": 122889,
       "word": "再见艾泽拉斯",
@@ -7297,14 +7321,6 @@
       "onboard_time": 1674646112,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122682,
-      "num": 122682,
-      "word": "酒店推出火锅浴温泉池漂满白菜茄子",
-      "onboard_time": 1674756497,
-      "rank": 44,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 122099,
@@ -7483,6 +7499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113272,
+      "num": 113272,
+      "word": "带三胞胎爬五指山三大三小全被困",
+      "onboard_time": 1674753079,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112985,
       "num": 112985,
       "word": "流浪地球2加倍震撼",
@@ -7521,6 +7545,14 @@
       "onboard_time": 1674698666,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111731,
+      "num": 111731,
+      "word": "这一走又是明年见了",
+      "onboard_time": 1674774916,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 111704,
@@ -7627,14 +7659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 106397,
-      "num": 106397,
-      "word": "带三胞胎爬五指山三大三小全被困",
-      "onboard_time": 1674753079,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106339,
       "num": 106339,
       "word": "篮网vs76人",
@@ -7705,14 +7729,6 @@
       "onboard_time": 1674519021,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 103125,
-      "num": 103125,
-      "word": "大年初六",
-      "onboard_time": 1674774795,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 102066,
@@ -7851,14 +7867,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 93069,
-      "num": 93069,
-      "word": "王子异被秦昊开车半路抛下",
-      "onboard_time": 1674767111,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 92043,
       "num": 67171,
       "word": "北京卫视让沈腾马丽常远艾伦唱歌",
@@ -7891,12 +7899,28 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 89143,
+      "num": 89143,
+      "word": "张颂文的角色塑造",
+      "onboard_time": 1674775816,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 88864,
       "num": 88864,
       "word": "永远折服于民俗文化的浪漫",
       "onboard_time": 1674450986,
       "rank": 38,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 88329,
+      "num": 88329,
+      "word": "86岁老人返乡与亲人告别哭成泪人",
+      "onboard_time": 1674773292,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86544,
@@ -8003,6 +8027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73821,
+      "num": 73821,
+      "word": "10岁女孩自学烘焙成品令人垂涎",
+      "onboard_time": 1674761533,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72813,
       "num": 241992,
       "word": "父母有权保管使用孩子压岁钱吗",
@@ -8032,14 +8064,6 @@
       "word": "福建和两广跌破冰点",
       "onboard_time": 1674671714,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67021,
-      "num": 67021,
-      "word": "10岁女孩自学烘焙成品令人垂涎",
-      "onboard_time": 1674761533,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -8099,14 +8123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 60051,
-      "num": 60051,
-      "word": "86岁老人返乡与亲人告别哭成泪人",
-      "onboard_time": 1674773292,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59026,
       "num": 59026,
       "word": "门框上的身高标线是爱和成长的记号",
@@ -8145,6 +8161,14 @@
       "onboard_time": 1674402629,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49781,
+      "num": 49781,
+      "word": "谢谢财神爷帮帮穷人",
+      "onboard_time": 1674775515,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 49634,
@@ -8233,14 +8257,6 @@
       "onboard_time": 1674587474,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 32088,
-      "num": 32088,
-      "word": "这一走又是明年见了",
-      "onboard_time": 1674774916,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 27755,

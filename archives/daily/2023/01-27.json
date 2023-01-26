@@ -1,6 +1,6 @@
 {
   "startTime": 1674750270610,
-  "endTime": 1674775145546,
+  "endTime": 1674776007724,
   "band_list": [
     {
       "raw_hot": 1361875,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488140,
+      "num": 488140,
+      "word": "大年初六送穷",
+      "onboard_time": 1674774675,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386309,
       "num": 386309,
       "word": "李现说过年不要随便逗孩子",
@@ -139,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 369427,
+      "num": 369427,
+      "word": "张译好有魅力",
+      "onboard_time": 1674774135,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336145,
       "num": 336145,
       "word": "CCTV6春节首播万里归途",
@@ -153,6 +169,14 @@
       "onboard_time": 1674741810,
       "rank": 20,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 270175,
+      "num": 270175,
+      "word": "安欣太惨了",
+      "onboard_time": 1674748768,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 267510,
@@ -171,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245914,
-      "num": 245914,
-      "word": "张译好有魅力",
-      "onboard_time": 1674774135,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
       "raw_hot": 245543,
       "num": 245543,
       "word": "热闹后的冷清才最孤独",
@@ -193,14 +209,6 @@
       "onboard_time": 1674742949,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 228278,
-      "num": 228278,
-      "word": "安欣太惨了",
-      "onboard_time": 1674748768,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 224320,
@@ -275,14 +283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 161953,
-      "num": 140497,
-      "word": "大年初六送穷",
-      "onboard_time": 1674774675,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152629,
       "num": 152629,
       "word": "Doinb直播",
@@ -307,6 +307,14 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 144291,
+      "num": 144291,
+      "word": "酒店推出火锅浴温泉池漂满白菜茄子",
+      "onboard_time": 1674756497,
+      "rank": 44,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 140690,
       "num": 140690,
       "word": "70后聚餐只有一个人接到老婆电话",
@@ -329,6 +337,14 @@
       "onboard_time": 1674737488,
       "rank": 34,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 134473,
+      "num": 134473,
+      "word": "大年初六",
+      "onboard_time": 1674774795,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 132264,
@@ -363,12 +379,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122682,
-      "num": 122682,
-      "word": "酒店推出火锅浴温泉池漂满白菜茄子",
-      "onboard_time": 1674756497,
-      "rank": 44,
-      "category": "社会新闻,旅游"
+      "raw_hot": 123051,
+      "num": 123051,
+      "word": "王子异被秦昊开车半路抛下",
+      "onboard_time": 1674767111,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113272,
+      "num": 113272,
+      "word": "带三胞胎爬五指山三大三小全被困",
+      "onboard_time": 1674753079,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111731,
+      "num": 111731,
+      "word": "这一走又是明年见了",
+      "onboard_time": 1674774916,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 107402,
@@ -376,22 +408,6 @@
       "word": "快失传的奶奶针线包",
       "onboard_time": 1674739049,
       "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 106397,
-      "num": 106397,
-      "word": "带三胞胎爬五指山三大三小全被困",
-      "onboard_time": 1674753079,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103125,
-      "num": 103125,
-      "word": "大年初六",
-      "onboard_time": 1674774795,
-      "rank": 14,
       "category": "情感"
     },
     {
@@ -435,14 +451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 93069,
-      "num": 93069,
-      "word": "王子异被秦昊开车半路抛下",
-      "onboard_time": 1674767111,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 92470,
       "num": 92470,
       "word": "苗苗好黏郑恺",
@@ -467,6 +475,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 89143,
+      "num": 89143,
+      "word": "张颂文的角色塑造",
+      "onboard_time": 1674775816,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 88329,
+      "num": 88329,
+      "word": "86岁老人返乡与亲人告别哭成泪人",
+      "onboard_time": 1674773292,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73821,
+      "num": 73821,
+      "word": "10岁女孩自学烘焙成品令人垂涎",
+      "onboard_time": 1674761533,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72350,
       "num": 72350,
       "word": "红豆遥遥冰冷战",
@@ -483,20 +515,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 67021,
-      "num": 67021,
-      "word": "10岁女孩自学烘焙成品令人垂涎",
-      "onboard_time": 1674761533,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60051,
-      "num": 60051,
-      "word": "86岁老人返乡与亲人告别哭成泪人",
-      "onboard_time": 1674773292,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 49781,
+      "num": 49781,
+      "word": "谢谢财神爷帮帮穷人",
+      "onboard_time": 1674775515,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 42368,
@@ -505,14 +529,6 @@
       "onboard_time": 1674757754,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32088,
-      "num": 32088,
-      "word": "这一走又是明年见了",
-      "onboard_time": 1674774916,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 18553,
