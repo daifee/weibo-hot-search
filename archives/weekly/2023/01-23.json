@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674704041816,
+  "endTime": 1674706952175,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1338987,
+      "num": 553565,
+      "word": "西南大学",
+      "onboard_time": 1674704186,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1330601,
       "num": 416165,
       "word": "田曦薇多个粉丝站暂停运营",
@@ -297,6 +305,14 @@
       "onboard_time": 1674703406,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1285042,
+      "num": 1285042,
+      "word": "吴磊抽中杨紫送的广告位",
+      "onboard_time": 1674705324,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1283132,
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 869726,
+      "num": 480871,
+      "word": "西南大学取消赵某研究生导师资格",
+      "onboard_time": 1674704186,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 852335,
       "num": 852335,
       "word": "高启盛 疯批",
@@ -657,6 +681,14 @@
       "onboard_time": 1674431659,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 830248,
+      "num": 830248,
+      "word": "Tian",
+      "onboard_time": 1674706167,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 829784,
@@ -1001,6 +1033,14 @@
       "onboard_time": 1674543084,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673140,
+      "num": 673140,
+      "word": "四川地震后已有游客连夜离开",
+      "onboard_time": 1674702447,
+      "rank": 23,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 672504,
@@ -1947,14 +1987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 440283,
-      "num": 440283,
-      "word": "四川地震后已有游客连夜离开",
-      "onboard_time": 1674702447,
-      "rank": 23,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 439727,
       "num": 439727,
       "word": "电影无名名场面",
@@ -2227,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403199,
+      "num": 403199,
+      "word": "男子称餐厅点海鲜葱姜费占菜价60%",
+      "onboard_time": 1674702805,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401977,
       "num": 241607,
       "word": "这个叫五粮液的女主持还挺好看",
@@ -2265,6 +2305,14 @@
       "onboard_time": 1674641909,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 397292,
+      "num": 397292,
+      "word": "安欣一步错步步错",
+      "onboard_time": 1674705864,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 396359,
@@ -2835,6 +2883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332126,
+      "num": 325300,
+      "word": "王一博无名实时票房破4亿剧照",
+      "onboard_time": 1674705085,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331919,
       "num": 309671,
       "word": "瑶琴杀",
@@ -3137,6 +3193,14 @@
       "onboard_time": 1674555866,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 303578,
+      "num": 303578,
+      "word": "王鹤棣为角色减掉10斤肌肉",
+      "onboard_time": 1674706767,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 303223,
@@ -3627,14 +3691,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 259620,
-      "num": 259620,
-      "word": "男子称餐厅点海鲜葱姜费占菜价60%",
-      "onboard_time": 1674702805,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259499,
       "num": 259499,
       "word": "这鹅可算是遇到对手了",
@@ -3673,6 +3729,14 @@
       "onboard_time": 1674474986,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 255637,
+      "num": 255637,
+      "word": "满江红瑶琴名字的由来",
+      "onboard_time": 1674705387,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 255497,
@@ -3963,6 +4027,22 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 237343,
+      "num": 237343,
+      "word": "庞博的段子照进电视剧",
+      "onboard_time": 1674706047,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 237181,
+      "num": 237181,
+      "word": "墨子",
+      "onboard_time": 1674706767,
+      "rank": 31,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 237123,
       "num": 237123,
       "word": "九旬爷奶花21万买17个金镯子送晚辈",
@@ -4115,12 +4195,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222741,
+      "num": 222741,
+      "word": "程耳说王一博是他愿意打交道的人",
+      "onboard_time": 1674705147,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222396,
       "num": 222396,
       "word": "无名里的大鹏",
       "onboard_time": 1674637645,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222290,
+      "num": 222290,
+      "word": "因腿短而够不到香肠的猫咪",
+      "onboard_time": 1674705627,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 221903,
@@ -4659,6 +4755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191937,
+      "num": 191937,
+      "word": "九岁小朋友看完满江红的观后感",
+      "onboard_time": 1674702327,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190855,
       "num": 190855,
       "word": "热热闹闹寻年味",
@@ -4697,14 +4801,6 @@
       "onboard_time": 1674467125,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189859,
-      "num": 189859,
-      "word": "九岁小朋友看完满江红的观后感",
-      "onboard_time": 1674702327,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 189337,
@@ -5011,6 +5107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175938,
+      "num": 175938,
+      "word": "许红豆谢之遥正式见家长",
+      "onboard_time": 1674705324,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174551,
       "num": 172912,
       "word": "春节剩菜剩饭不宜在冰箱存放过久",
@@ -5065,6 +5169,14 @@
       "onboard_time": 1674558209,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173180,
+      "num": 173180,
+      "word": "江疏影上海话问看无名了吗",
+      "onboard_time": 1674706706,
+      "rank": 42,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 172399,
@@ -5651,6 +5763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139761,
+      "num": 139761,
+      "word": "因游客起冲突翻倒青铜人像未损坏",
+      "onboard_time": 1674704066,
+      "rank": 46,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 138395,
       "num": 138395,
       "word": "魔兽世界",
@@ -5809,6 +5929,14 @@
       "onboard_time": 1674432200,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131470,
+      "num": 131470,
+      "word": "男子过年看电影买到无座票",
+      "onboard_time": 1674706584,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130801,
@@ -6771,6 +6899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40767,
+      "num": 1334165,
+      "word": "新时代 我在中国",
+      "onboard_time": 1674279563,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 38922,
       "num": 38922,
       "word": "沈腾 硬唱也能唱",
@@ -6817,14 +6953,6 @@
       "onboard_time": 1674587474,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 31981,
-      "num": 1334165,
-      "word": "新时代 我在中国",
-      "onboard_time": 1674279563,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 27755,
