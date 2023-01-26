@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674750270610,
+  "endTime": 1674751336575,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -427,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1235219,
+      "num": 1235219,
+      "word": "金贡",
+      "onboard_time": 1674747866,
+      "rank": 4,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1234985,
       "num": 1234985,
       "word": "易烊千玺主演电影票房破150亿",
@@ -641,14 +649,6 @@
       "onboard_time": 1674722969,
       "rank": 6,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 1038926,
-      "num": 1038926,
-      "word": "金贡",
-      "onboard_time": 1674747866,
-      "rank": 4,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 1025125,
@@ -923,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795942,
+      "num": 795942,
+      "word": "黄瑶高晓晨 好嗑",
+      "onboard_time": 1674748287,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 794171,
       "num": 499618,
       "word": "网友坐高铁偶遇白敬亭",
@@ -1192,6 +1200,14 @@
       "word": "女生拒绝相亲被围着做思想工作",
       "onboard_time": 1674721167,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716863,
+      "num": 716863,
+      "word": "充电器一拔再见又是新一年",
+      "onboard_time": 1674746608,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1467,28 +1483,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 631814,
+      "num": 631814,
+      "word": "狗狗走失一个月回家狂撞门",
+      "onboard_time": 1674748227,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 631497,
       "num": 631497,
       "word": "2023奥斯卡提名",
       "onboard_time": 1674569487,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 625129,
-      "num": 597785,
-      "word": "黄瑶高晓晨 好嗑",
-      "onboard_time": 1674748287,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 620080,
-      "num": 620080,
-      "word": "充电器一拔再见又是新一年",
-      "onboard_time": 1674746608,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 619095,
@@ -2747,14 +2755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 406884,
-      "num": 406884,
-      "word": "狗狗走失一个月回家狂撞门",
-      "onboard_time": 1674748227,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 404669,
       "num": 498507,
       "word": "今年为啥有两个二月",
@@ -3435,6 +3435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336145,
+      "num": 336145,
+      "word": "CCTV6春节首播万里归途",
+      "onboard_time": 1674748946,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335786,
       "num": 335786,
       "word": "张译演的何立",
@@ -3664,14 +3672,6 @@
       "word": "王一博说无名打戏都是真打",
       "onboard_time": 1674733291,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 318042,
-      "num": 318042,
-      "word": "CCTV6春节首播万里归途",
-      "onboard_time": 1674748946,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -5739,6 +5739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190568,
+      "num": 190568,
+      "word": "黄渤新剧折腾5集一键归0",
+      "onboard_time": 1674750084,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190506,
       "num": 175578,
       "word": "张继科跟爸爸的相处方式",
@@ -6123,6 +6131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174649,
+      "num": 174649,
+      "word": "就给小猫吃一口吧",
+      "onboard_time": 1674747927,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174551,
       "num": 172912,
       "word": "春节剩菜剩饭不宜在冰箱存放过久",
@@ -6241,14 +6257,6 @@
       "onboard_time": 1674431236,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168600,
-      "num": 168600,
-      "word": "就给小猫吃一口吧",
-      "onboard_time": 1674747927,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 167656,
@@ -7747,14 +7755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95924,
-      "num": 95924,
-      "word": "黄渤新剧折腾5集一键归0",
-      "onboard_time": 1674750084,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 93602,
       "num": 93602,
       "word": "爷爷用饱经沧桑的手为孙女写下祝福",
@@ -7921,6 +7921,14 @@
       "onboard_time": 1674386787,
       "rank": 47,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 72741,
+      "num": 72741,
+      "word": "女子将松鼠囤的板栗一锅端最终归还",
+      "onboard_time": 1674750923,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72094,
