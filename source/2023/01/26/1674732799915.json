@@ -1,0 +1,410 @@
+{
+  "runTime": 1674732799915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3190030,
+        "num": 3190030,
+        "word": "满江红发声明",
+        "onboard_time": 1674725425,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1261935,
+        "num": 1261935,
+        "word": "LWX",
+        "onboard_time": 1674730768,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 8832,
+        "num": 977783,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674702987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850278,
+        "num": 850278,
+        "word": "陈妍希带儿子去看流浪地球2",
+        "onboard_time": 1674730587,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 746510,
+        "num": 746510,
+        "word": "Doinb直播",
+        "onboard_time": 1674728189,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 631993,
+        "num": 631993,
+        "word": "宋祖儿让吴磊转账拿手机",
+        "onboard_time": 1674726268,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 616683,
+        "num": 616683,
+        "word": "沈阳的洗浴也太高雅了",
+        "onboard_time": 1674728788,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 629371,
+        "num": 616098,
+        "word": "冰岛往事",
+        "onboard_time": 1674731549,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 550345,
+        "num": 614721,
+        "word": "官方回应西安回民街6根面20元",
+        "onboard_time": 1674722969,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 437311,
+        "num": 613594,
+        "word": "70后聚餐只有一个人接到老婆电话",
+        "onboard_time": 1674723628,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 696708,
+        "num": 612715,
+        "word": "不婚主义的小姨过年给孩子发红包",
+        "onboard_time": 1674720327,
+        "rank": 10,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 608508,
+        "num": 611901,
+        "word": "狂飙最后人物结局",
+        "onboard_time": 1674727827,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 611150,
+        "num": 611150,
+        "word": "我越来越有钱",
+        "onboard_time": 1674717387,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 548240,
+        "num": 548240,
+        "word": "苗苗好黏郑恺",
+        "onboard_time": 1674731068,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425579,
+        "num": 425579,
+        "word": "流浪地球 排片",
+        "onboard_time": 1674716967,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371788,
+        "num": 371788,
+        "word": "交换人生疑似被恶意评分",
+        "onboard_time": 1674725248,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360788,
+        "num": 360788,
+        "word": "流浪地球票房",
+        "onboard_time": 1674727588,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336342,
+        "num": 336342,
+        "word": "apop",
+        "onboard_time": 1674717747,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313394,
+        "num": 313394,
+        "word": "男子ATM机存钱时被满地红包惊呆",
+        "onboard_time": 1674723327,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308074,
+        "num": 308074,
+        "word": "无双成为剑仙",
+        "onboard_time": 1674732389,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269702,
+        "num": 269702,
+        "word": "这是小羊的幼儿园吗",
+        "onboard_time": 1674730587,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244060,
+        "num": 244060,
+        "word": "安欣孤勇者",
+        "onboard_time": 1674731846,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216753,
+        "num": 216753,
+        "word": "充电器一拔我和浪浪山道别了",
+        "onboard_time": 1674724105,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 212252,
+        "num": 212252,
+        "word": "郑恺苗苗一胎是一顿剁椒鱼头辣出来的",
+        "onboard_time": 1674712766,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211279,
+        "num": 211279,
+        "word": "张婧仪替方小姐说她现在知道了",
+        "onboard_time": 1674724168,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210505,
+        "num": 210505,
+        "word": "郑业成养小龙虾",
+        "onboard_time": 1674731968,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209994,
+        "num": 209994,
+        "word": "SMTOWN将选拔NCT新成员",
+        "onboard_time": 1674721886,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194900,
+        "num": 194900,
+        "word": "迪丽热巴国外网站评为2023全球最美女演员",
+        "onboard_time": 1674713068,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185530,
+        "num": 193985,
+        "word": "女生拒绝相亲被围着做思想工作",
+        "onboard_time": 1674721167,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177310,
+        "num": 193443,
+        "word": "兔子的上门牙其实有4颗",
+        "onboard_time": 1674721587,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193155,
+        "num": 193155,
+        "word": "这麻将打完不得瘦两斤",
+        "onboard_time": 1674732028,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188870,
+        "num": 188870,
+        "word": "狂飙孟钰被揍名场面",
+        "onboard_time": 1674731787,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178530,
+        "num": 178530,
+        "word": "易烊千玺孙均最新剧照",
+        "onboard_time": 1674723387,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173343,
+        "num": 173343,
+        "word": "一家5人花100块去看时空隧道",
+        "onboard_time": 1674716067,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159729,
+        "num": 159729,
+        "word": "Tian",
+        "onboard_time": 1674706167,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147566,
+        "num": 147566,
+        "word": "流浪地球 imax",
+        "onboard_time": 1674716906,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 529554,
+        "num": 146408,
+        "word": "满江红 龙门镖局",
+        "onboard_time": 1674691519,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142237,
+        "num": 142237,
+        "word": "王一博叶先生的最后一个工作日",
+        "onboard_time": 1674720688,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139350,
+        "num": 139350,
+        "word": "中国乒乓宣布撤出春节档",
+        "onboard_time": 1674717989,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137571,
+        "num": 137571,
+        "word": "大年初五冰墩墩来拜年了",
+        "onboard_time": 1674726687,
+        "rank": 39,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 136501,
+        "num": 136501,
+        "word": "你能接受对象善意的谎言吗",
+        "onboard_time": 1674729027,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135854,
+        "num": 135854,
+        "word": "圆明园重现古代冰嬉运动",
+        "onboard_time": 1674732269,
+        "rank": 41,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 134020,
+        "num": 134020,
+        "word": "看完雷佳音看雷佳音",
+        "onboard_time": 1674725968,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123417,
+        "num": 123417,
+        "word": "这模特真的很接地气了",
+        "onboard_time": 1674725908,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120265,
+        "num": 120265,
+        "word": "殷桃连续三年五部剧开年上星",
+        "onboard_time": 1674721947,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114966,
+        "num": 114966,
+        "word": "库里被驱逐",
+        "onboard_time": 1674713730,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112109,
+        "num": 112109,
+        "word": "吴京拍流浪地球2大腿青了7天",
+        "onboard_time": 1674726328,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109552,
+        "num": 109552,
+        "word": "大侦探",
+        "onboard_time": 1674710187,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104426,
+        "num": 104426,
+        "word": "长沙游客吐槽网红店排队4538桌",
+        "onboard_time": 1674732748,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 103799,
+        "num": 103799,
+        "word": "杨紫黄色毛线帽造型",
+        "onboard_time": 1674716008,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国年让世界相知相连#"
+    }
+  }
+}
