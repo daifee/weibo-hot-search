@@ -1,0 +1,410 @@
+{
+  "runTime": 1674765208718,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 171057,
+        "num": 171057,
+        "word": "狂飙全员be",
+        "onboard_time": 1674737607,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130051,
+        "num": 130051,
+        "word": "满江红发声明",
+        "onboard_time": 1674725425,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1750,
+        "num": 109720,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674702987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100737,
+        "num": 100737,
+        "word": "金贡",
+        "onboard_time": 1674747866,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 87109,
+        "num": 87109,
+        "word": "陈书婷怎么死的",
+        "onboard_time": 1674742350,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86893,
+        "num": 86893,
+        "word": "电影无名票房逆跌",
+        "onboard_time": 1674743970,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85770,
+        "num": 85770,
+        "word": "狂飙",
+        "onboard_time": 1674734491,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74007,
+        "num": 74007,
+        "word": "LWX",
+        "onboard_time": 1674730768,
+        "rank": 7,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 59842,
+        "num": 68074,
+        "word": "女子将松鼠囤的板栗一锅端最终归还",
+        "onboard_time": 1674750923,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54638,
+        "num": 67129,
+        "word": "狗狗走失一个月回家狂撞门",
+        "onboard_time": 1674748227,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67021,
+        "num": 67021,
+        "word": "10岁女孩自学烘焙成品令人垂涎",
+        "onboard_time": 1674761533,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63323,
+        "num": 63323,
+        "word": "Tian回应",
+        "onboard_time": 1674741810,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 56868,
+        "num": 56868,
+        "word": "金泰亨被选为全球最帅男性",
+        "onboard_time": 1674743610,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52620,
+        "num": 52620,
+        "word": "黄瑶高晓晨 好嗑",
+        "onboard_time": 1674748287,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43553,
+        "num": 43553,
+        "word": "酒店推出火锅浴温泉池漂满白菜茄子",
+        "onboard_time": 1674756497,
+        "rank": 14,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 46446,
+        "num": 42402,
+        "word": "谭思言",
+        "onboard_time": 1674747748,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41182,
+        "num": 41182,
+        "word": "流浪地球票房",
+        "onboard_time": 1674727588,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39835,
+        "num": 39835,
+        "word": "带三胞胎爬五指山三大三小全被困",
+        "onboard_time": 1674753079,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38372,
+        "num": 38372,
+        "word": "过年千万不要吃太多坚果",
+        "onboard_time": 1674744030,
+        "rank": 18,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 36417,
+        "num": 36417,
+        "word": "冰岛往事",
+        "onboard_time": 1674731549,
+        "rank": 19,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 35619,
+        "num": 35619,
+        "word": "充电器一拔再见又是新一年",
+        "onboard_time": 1674746608,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30262,
+        "num": 30262,
+        "word": "云南大理多地出现七彩祥云",
+        "onboard_time": 1674735629,
+        "rank": 21,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 29449,
+        "num": 29449,
+        "word": "周杰伦欢迎林书豪加盟中国台湾联赛",
+        "onboard_time": 1674754398,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 26485,
+        "num": 26485,
+        "word": "许光汉韩国见面会生图",
+        "onboard_time": 1674754398,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26314,
+        "num": 26314,
+        "word": "五台山广化寺晚上不开门游客踹门而入",
+        "onboard_time": 1674737488,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 23921,
+        "num": 23921,
+        "word": "俄罗斯获邀参加亚运会",
+        "onboard_time": 1674742949,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23885,
+        "num": 23885,
+        "word": "黄渤新剧折腾5集一键归0",
+        "onboard_time": 1674750084,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23234,
+        "num": 23234,
+        "word": "CCTV6春节首播万里归途",
+        "onboard_time": 1674748946,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22401,
+        "num": 22401,
+        "word": "顾客排队买特产顺手帮店员折包装盒",
+        "onboard_time": 1674744152,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21292,
+        "num": 21292,
+        "word": "热闹后的冷清才最孤独",
+        "onboard_time": 1674743190,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21273,
+        "num": 21273,
+        "word": "就给小猫吃一口吧",
+        "onboard_time": 1674747927,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20848,
+        "num": 20848,
+        "word": "快失传的奶奶针线包",
+        "onboard_time": 1674739049,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20631,
+        "num": 20631,
+        "word": "Doinb直播",
+        "onboard_time": 1674728189,
+        "rank": 32,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 20124,
+        "num": 20124,
+        "word": "官方回应西安回民街6根面20元",
+        "onboard_time": 1674722969,
+        "rank": 33,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 18777,
+        "num": 18777,
+        "word": "有人在室内抽烟怎么办",
+        "onboard_time": 1674740550,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 18616,
+        "num": 18616,
+        "word": "爸爸吃麻团5个月萌娃望眼欲穿",
+        "onboard_time": 1674757754,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18459,
+        "num": 18459,
+        "word": "白敬亭是懂转场的",
+        "onboard_time": 1674745292,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17833,
+        "num": 17833,
+        "word": "吴京拍流浪地球2大腿青了7天",
+        "onboard_time": 1674726328,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17113,
+        "num": 17113,
+        "word": "方言里一听就懂的万能词",
+        "onboard_time": 1674747149,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17080,
+        "num": 17080,
+        "word": "闫妮包场电影无名",
+        "onboard_time": 1674738389,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16910,
+        "num": 16910,
+        "word": "70后聚餐只有一个人接到老婆电话",
+        "onboard_time": 1674723628,
+        "rank": 40,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 16871,
+        "num": 16871,
+        "word": "不婚主义的小姨过年给孩子发红包",
+        "onboard_time": 1674720327,
+        "rank": 41,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 16758,
+        "num": 16758,
+        "word": "李现说过年不要随便逗孩子",
+        "onboard_time": 1674738869,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15253,
+        "num": 15253,
+        "word": "长沙游客吐槽网红店排队4538桌",
+        "onboard_time": 1674732748,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 14355,
+        "num": 14355,
+        "word": "李现谢之遥是个好大哥",
+        "onboard_time": 1674748826,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13646,
+        "num": 14208,
+        "word": "一直被妈妈念叨的狗狗",
+        "onboard_time": 1674761953,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 14178,
+        "num": 14178,
+        "word": "谢之遥要喝许红豆嘴里的啤酒",
+        "onboard_time": 1674734129,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12315,
+        "num": 14174,
+        "word": "苗苗好黏郑恺",
+        "onboard_time": 1674731068,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12283,
+        "num": 14172,
+        "word": "红豆遥遥冰冷战",
+        "onboard_time": 1674741450,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12147,
+        "num": 14167,
+        "word": "张远王栎鑫陆虎跳宋木子之歌",
+        "onboard_time": 1674748647,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国年让世界相知相连#"
+    }
+  }
+}
