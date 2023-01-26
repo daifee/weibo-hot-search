@@ -1,6 +1,6 @@
 {
   "startTime": 1674663933880,
-  "endTime": 1674701532064,
+  "endTime": 1674703212604,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -107,20 +107,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 787534,
+      "num": 787534,
+      "word": "王一博说和叶先生不会见面",
+      "onboard_time": 1674699328,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 700840,
+      "num": 700840,
+      "word": "小破球",
+      "onboard_time": 1674700166,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 678873,
       "num": 678873,
       "word": "官方回应游客打架致三星堆文物翻倒",
       "onboard_time": 1674696806,
       "rank": 42,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 648165,
-      "num": 648165,
-      "word": "王一博说和叶先生不会见面",
-      "onboard_time": 1674699328,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 586926,
@@ -131,12 +139,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 573289,
-      "num": 573289,
-      "word": "小破球",
-      "onboard_time": 1674700166,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 554797,
+      "num": 554797,
+      "word": "00后女生10分钟解决铁路通信故障",
+      "onboard_time": 1674698547,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 554446,
@@ -147,20 +155,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 553757,
+      "num": 553757,
+      "word": "一个人养活全家是什么体验",
+      "onboard_time": 1674701006,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 534827,
       "num": 534827,
       "word": "扬名立万",
       "onboard_time": 1674657451,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 532729,
-      "num": 532729,
-      "word": "00后女生10分钟解决铁路通信故障",
-      "onboard_time": 1674698547,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 508021,
@@ -203,12 +211,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 422530,
-      "num": 422530,
+      "raw_hot": 427841,
+      "num": 427841,
       "word": "美国将向乌克兰提供31辆主战坦克",
       "onboard_time": 1674699745,
       "rank": 21,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 400013,
+      "num": 400013,
+      "word": "高叶蔡文静徐冬冬演的大嫂对比",
+      "onboard_time": 1674700828,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 388159,
@@ -315,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295001,
+      "num": 295001,
+      "word": "这就是脱单困难的原因吧",
+      "onboard_time": 1674701486,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294026,
       "num": 294026,
       "word": "女子零下7度户外吃席凉菜成硬菜",
@@ -347,20 +371,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 255649,
+      "num": 255649,
+      "word": "四川地震后已有游客连夜离开",
+      "onboard_time": 1674702447,
+      "rank": 23,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 254647,
       "num": 254647,
       "word": "中国钓王邓刚开宾利回村过年",
       "onboard_time": 1674675853,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251175,
-      "num": 251175,
-      "word": "一个人养活全家是什么体验",
-      "onboard_time": 1674701006,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 244674,
@@ -379,12 +403,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 240972,
-      "num": 240972,
-      "word": "高叶蔡文静徐冬冬演的大嫂对比",
-      "onboard_time": 1674700828,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 238808,
+      "num": 238808,
+      "word": "满江红片尾曲",
+      "onboard_time": 1674700646,
+      "rank": 40,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 237795,
@@ -603,12 +627,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167815,
-      "num": 167815,
-      "word": "满江红片尾曲",
-      "onboard_time": 1674700646,
-      "rank": 40,
-      "category": "影视,音乐"
+      "raw_hot": 165072,
+      "num": 165072,
+      "word": "陈小春说我这个女婿还行",
+      "onboard_time": 1674699568,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 161273,
@@ -649,6 +673,14 @@
       "onboard_time": 1674651451,
       "rank": 27,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 152336,
+      "num": 152336,
+      "word": "九岁小朋友看完满江红的观后感",
+      "onboard_time": 1674702327,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 149929,
@@ -705,6 +737,14 @@
       "onboard_time": 1674690256,
       "rank": 43,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 138661,
+      "num": 138661,
+      "word": "王楚钦写福字",
+      "onboard_time": 1674702384,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 132811,
@@ -787,14 +827,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 113600,
-      "num": 113600,
-      "word": "这就是脱单困难的原因吧",
-      "onboard_time": 1674701486,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 111897,
       "num": 111897,
       "word": "龚俊晒九宫格财神壁纸",
@@ -808,6 +840,14 @@
       "word": "XBB和BQ.1毒株上半年流行可能性比较小",
       "onboard_time": 1674637466,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111537,
+      "num": 111537,
+      "word": "男子称餐厅点海鲜葱姜费占菜价60%",
+      "onboard_time": 1674702805,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -913,6 +953,14 @@
       "onboard_time": 1674678372,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10582,
+      "num": 1334165,
+      "word": "新时代 我在中国",
+      "onboard_time": 1674702987,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
