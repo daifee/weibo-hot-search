@@ -1,6 +1,6 @@
 {
   "startTime": 1674663933880,
-  "endTime": 1674706952175,
+  "endTime": 1674707863641,
   "band_list": [
     {
       "raw_hot": 3490357,
@@ -51,8 +51,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1338987,
-      "num": 553565,
+      "raw_hot": 1364776,
+      "num": 616825,
       "word": "西南大学",
       "onboard_time": 1674704186,
       "rank": 10,
@@ -107,6 +107,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1190385,
+      "num": 1190385,
+      "word": "Tian",
+      "onboard_time": 1674706167,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1158047,
       "num": 730638,
       "word": "西南大学回应教授与博士生关系不当",
@@ -131,20 +139,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 869726,
+      "raw_hot": 908479,
       "num": 480871,
       "word": "西南大学取消赵某研究生导师资格",
       "onboard_time": 1674704186,
       "rank": 13,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 830248,
-      "num": 830248,
-      "word": "Tian",
-      "onboard_time": 1674706167,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 787534,
@@ -155,6 +155,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 752749,
+      "num": 752749,
+      "word": "安欣一步错步步错",
+      "onboard_time": 1674705864,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 729059,
+      "num": 729059,
+      "word": "墨子",
+      "onboard_time": 1674706767,
+      "rank": 31,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 700840,
       "num": 700840,
       "word": "小破球",
@@ -163,19 +179,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 698798,
+      "num": 698798,
+      "word": "四川地震后已有游客连夜离开",
+      "onboard_time": 1674702447,
+      "rank": 23,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 678873,
       "num": 678873,
       "word": "官方回应游客打架致三星堆文物翻倒",
       "onboard_time": 1674696806,
       "rank": 42,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 673140,
-      "num": 673140,
-      "word": "四川地震后已有游客连夜离开",
-      "onboard_time": 1674702447,
-      "rank": 23,
       "category": "旅游,社会新闻"
     },
     {
@@ -235,6 +251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 456953,
+      "num": 456953,
+      "word": "王鹤棣为角色减掉10斤肌肉",
+      "onboard_time": 1674706767,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 449182,
       "num": 329841,
       "word": "老默怎么死的",
@@ -280,14 +304,6 @@
       "word": "高叶蔡文静徐冬冬演的大嫂对比",
       "onboard_time": 1674700828,
       "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 397292,
-      "num": 397292,
-      "word": "安欣一步错步步错",
-      "onboard_time": 1674705864,
-      "rank": 16,
       "category": "影视"
     },
     {
@@ -403,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303578,
-      "num": 303578,
-      "word": "王鹤棣为角色减掉10斤肌肉",
-      "onboard_time": 1674706767,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 295001,
       "num": 295001,
       "word": "这就是脱单困难的原因吧",
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245035,
+      "num": 245035,
+      "word": "男子过年看电影买到无座票",
+      "onboard_time": 1674706584,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244674,
       "num": 244674,
       "word": "男子大年初三喝醉摔下4米高桥",
@@ -497,6 +513,14 @@
       "onboard_time": 1674697526,
       "rank": 35,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 239864,
+      "num": 239864,
+      "word": "因腿短而够不到香肠的猫咪",
+      "onboard_time": 1674705627,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 238808,
@@ -521,14 +545,6 @@
       "onboard_time": 1674706047,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 237181,
-      "num": 237181,
-      "word": "墨子",
-      "onboard_time": 1674706767,
-      "rank": 31,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 233440,
@@ -585,14 +601,6 @@
       "onboard_time": 1674705147,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222290,
-      "num": 222290,
-      "word": "因腿短而够不到香肠的猫咪",
-      "onboard_time": 1674705627,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 221903,
@@ -731,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185794,
+      "num": 185794,
+      "word": "江疏影上海话问看无名了吗",
+      "onboard_time": 1674706706,
+      "rank": 42,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 184636,
       "num": 222326,
       "word": "李铁执教国足还拿武汉长江3000万工资",
@@ -747,8 +763,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175938,
-      "num": 175938,
+      "raw_hot": 176872,
+      "num": 176872,
       "word": "许红豆谢之遥正式见家长",
       "onboard_time": 1674705324,
       "rank": 41,
@@ -777,14 +793,6 @@
       "onboard_time": 1674662308,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173180,
-      "num": 173180,
-      "word": "江疏影上海话问看无名了吗",
-      "onboard_time": 1674706706,
-      "rank": 42,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 169671,
@@ -920,14 +928,6 @@
       "word": "四川多地有震感",
       "onboard_time": 1674697584,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131470,
-      "num": 131470,
-      "word": "男子过年看电影买到无座票",
-      "onboard_time": 1674706584,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1083,7 +1083,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40767,
+      "raw_hot": 42266,
       "num": 1334165,
       "word": "新时代 我在中国",
       "onboard_time": 1674702987,
