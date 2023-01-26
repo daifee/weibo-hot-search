@@ -1,6 +1,6 @@
 {
   "startTime": 1674663933880,
-  "endTime": 1674736645249,
+  "endTime": 1674737851433,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1733759,
+      "num": 1733759,
+      "word": "LWX",
+      "onboard_time": 1674730768,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1693788,
       "num": 1693788,
       "word": "吴京 手滑了",
@@ -57,14 +65,6 @@
       "onboard_time": 1674656248,
       "rank": 1,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1603595,
-      "num": 1603595,
-      "word": "LWX",
-      "onboard_time": 1674730768,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 1535365,
@@ -97,6 +97,14 @@
       "onboard_time": 1674704186,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1346722,
+      "num": 1346722,
+      "word": "安欣孟钰be",
+      "onboard_time": 1674735928,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1303926,
@@ -179,6 +187,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1056240,
+      "num": 1056240,
+      "word": "长沙游客吐槽网红店排队4538桌",
+      "onboard_time": 1674732748,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 1052166,
+      "num": 668693,
+      "word": "李响下线",
+      "onboard_time": 1674735331,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1043270,
       "num": 1043270,
       "word": "官方回应西安回民街6根面20元",
@@ -225,14 +249,6 @@
       "onboard_time": 1674713730,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 910987,
-      "num": 910987,
-      "word": "长沙游客吐槽网红店排队4538桌",
-      "onboard_time": 1674732748,
-      "rank": 48,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 908479,
@@ -315,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 723482,
+      "num": 415219,
+      "word": "高启盛疯子",
+      "onboard_time": 1674735868,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 717586,
       "num": 717586,
       "word": "女生拒绝相亲被围着做思想工作",
@@ -363,14 +387,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 668693,
-      "num": 668693,
-      "word": "李响下线",
-      "onboard_time": 1674735331,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 646585,
       "num": 646585,
       "word": "狂飙最后人物结局",
@@ -416,14 +432,6 @@
       "word": "杀我别用李响刀",
       "onboard_time": 1674654872,
       "rank": 5,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 564651,
-      "num": 564651,
-      "word": "安欣孟钰be",
-      "onboard_time": 1674735928,
-      "rank": 7,
       "category": "影视"
     },
     {
@@ -611,14 +619,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 415219,
-      "num": 415219,
-      "word": "高启盛疯子",
-      "onboard_time": 1674735868,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 414981,
       "num": 414981,
       "word": "金秋天粉色露腰套装造型",
@@ -665,6 +665,14 @@
       "onboard_time": 1674659070,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382649,
+      "num": 382649,
+      "word": "云南大理多地出现七彩祥云",
+      "onboard_time": 1674735629,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 379517,
@@ -1419,14 +1427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187242,
-      "num": 187242,
-      "word": "云南大理多地出现七彩祥云",
-      "onboard_time": 1674735629,
-      "rank": 36,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 185983,
       "num": 174773,
       "word": "满江红",
@@ -1537,6 +1537,14 @@
       "onboard_time": 1674716308,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165538,
+      "num": 165538,
+      "word": "狂飙全员be",
+      "onboard_time": 1674737607,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 165072,
@@ -1715,6 +1723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134793,
+      "num": 134793,
+      "word": "五台山广化寺晚上不开门游客踹门而入",
+      "onboard_time": 1674737488,
+      "rank": 40,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 134763,
       "num": 134763,
       "word": "苏绣中国嫁衣有多美",
@@ -1881,6 +1897,14 @@
       "onboard_time": 1674710846,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 98256,
+      "num": 98256,
+      "word": "李宏毅说萧瑟其实是个八卦王",
+      "onboard_time": 1674737188,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 97977,

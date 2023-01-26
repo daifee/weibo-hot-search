@@ -1,0 +1,410 @@
+{
+  "runTime": 1674737851433,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2411142,
+        "num": 2411142,
+        "word": "满江红发声明",
+        "onboard_time": 1674725425,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1733759,
+        "num": 1733759,
+        "word": "LWX",
+        "onboard_time": 1674730768,
+        "rank": 1,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 7449,
+        "num": 1406260,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674702987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1346722,
+        "num": 1346722,
+        "word": "安欣孟钰be",
+        "onboard_time": 1674735928,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1056240,
+        "num": 1056240,
+        "word": "长沙游客吐槽网红店排队4538桌",
+        "onboard_time": 1674732748,
+        "rank": 4,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1181851,
+        "num": 984403,
+        "word": "狂飙",
+        "onboard_time": 1674734491,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455884,
+        "num": 455884,
+        "word": "陈妍希带儿子去看流浪地球2",
+        "onboard_time": 1674730587,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1052166,
+        "num": 427770,
+        "word": "李响下线",
+        "onboard_time": 1674735331,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399507,
+        "num": 399507,
+        "word": "官方回应西安回民街6根面20元",
+        "onboard_time": 1674722969,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 358687,
+        "num": 397317,
+        "word": "70后聚餐只有一个人接到老婆电话",
+        "onboard_time": 1674723628,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 723482,
+        "num": 391896,
+        "word": "高启盛疯子",
+        "onboard_time": 1674735868,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 595202,
+        "num": 388056,
+        "word": "冰岛往事",
+        "onboard_time": 1674731549,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 570899,
+        "num": 384265,
+        "word": "不婚主义的小姨过年给孩子发红包",
+        "onboard_time": 1674720327,
+        "rank": 12,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 382649,
+        "num": 382649,
+        "word": "云南大理多地出现七彩祥云",
+        "onboard_time": 1674735629,
+        "rank": 13,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 358348,
+        "num": 358348,
+        "word": "Doinb直播",
+        "onboard_time": 1674728189,
+        "rank": 14,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 340080,
+        "num": 340080,
+        "word": "金秋天粉色露腰套装造型",
+        "onboard_time": 1674735689,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333777,
+        "num": 333777,
+        "word": "沈阳的洗浴也太高雅了",
+        "onboard_time": 1674728788,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325181,
+        "num": 325181,
+        "word": "这麻将打完不得瘦两斤",
+        "onboard_time": 1674732028,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316070,
+        "num": 316070,
+        "word": "流浪地球 排片",
+        "onboard_time": 1674716967,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304862,
+        "num": 304862,
+        "word": "孙子锡纸烫凌乱八旬奶奶用手捋顺",
+        "onboard_time": 1674732988,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315881,
+        "num": 301539,
+        "word": "王一博说无名打戏都是真打",
+        "onboard_time": 1674733291,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297271,
+        "num": 297271,
+        "word": "狂飙最后人物结局",
+        "onboard_time": 1674727827,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273632,
+        "num": 273632,
+        "word": "郑业成养小龙虾",
+        "onboard_time": 1674731968,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272827,
+        "num": 272827,
+        "word": "苗苗好黏郑恺",
+        "onboard_time": 1674731068,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265568,
+        "num": 265568,
+        "word": "圆明园重现古代冰嬉运动",
+        "onboard_time": 1674732269,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 253466,
+        "num": 253466,
+        "word": "谢之遥要喝许红豆嘴里的啤酒",
+        "onboard_time": 1674734129,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227326,
+        "num": 227326,
+        "word": "宋祖儿让吴磊转账拿手机",
+        "onboard_time": 1674726268,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225644,
+        "num": 225644,
+        "word": "男子ATM机存钱时被满地红包惊呆",
+        "onboard_time": 1674723327,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204710,
+        "num": 204710,
+        "word": "宋亚轩生气的小表情",
+        "onboard_time": 1674733291,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195835,
+        "num": 195835,
+        "word": "充电器一拔我和浪浪山道别了",
+        "onboard_time": 1674724105,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 195225,
+        "num": 195225,
+        "word": "沈腾醋刑戏花絮",
+        "onboard_time": 1674733470,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191862,
+        "num": 191862,
+        "word": "apop",
+        "onboard_time": 1674717747,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191503,
+        "num": 191503,
+        "word": "流浪地球票房",
+        "onboard_time": 1674727588,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184862,
+        "num": 184862,
+        "word": "时代少年团楼晚道具",
+        "onboard_time": 1674735448,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172273,
+        "num": 172273,
+        "word": "Tian",
+        "onboard_time": 1674706167,
+        "rank": 34,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 171205,
+        "num": 171205,
+        "word": "杨紫请199爱剧组工作人员吃汉堡",
+        "onboard_time": 1674732810,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165538,
+        "num": 165538,
+        "word": "狂飙全员be",
+        "onboard_time": 1674737607,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138308,
+        "num": 138308,
+        "word": "这是小羊的幼儿园吗",
+        "onboard_time": 1674730587,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136883,
+        "num": 136883,
+        "word": "年轻人是懂求好运的",
+        "onboard_time": 1674735088,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136538,
+        "num": 136538,
+        "word": "女生拒绝相亲被围着做思想工作",
+        "onboard_time": 1674721167,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134793,
+        "num": 134793,
+        "word": "五台山广化寺晚上不开门游客踹门而入",
+        "onboard_time": 1674737488,
+        "rank": 40,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 133465,
+        "num": 133465,
+        "word": "SMTOWN将选拔NCT新成员",
+        "onboard_time": 1674721886,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131899,
+        "num": 131899,
+        "word": "张婧仪替方小姐说她现在知道了",
+        "onboard_time": 1674724168,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129814,
+        "num": 129814,
+        "word": "兔子的上门牙其实有4颗",
+        "onboard_time": 1674721587,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123356,
+        "num": 123356,
+        "word": "易烊千玺孙均最新剧照",
+        "onboard_time": 1674723387,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121201,
+        "num": 121201,
+        "word": "迪丽热巴国外网站评为2023全球最美女演员",
+        "onboard_time": 1674713068,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118355,
+        "num": 118355,
+        "word": "我越来越有钱",
+        "onboard_time": 1674717387,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112281,
+        "num": 112281,
+        "word": "流浪地球 imax",
+        "onboard_time": 1674716906,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98256,
+        "num": 98256,
+        "word": "李宏毅说萧瑟其实是个八卦王",
+        "onboard_time": 1674737188,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92198,
+        "num": 92198,
+        "word": "一家5人花100块去看时空隧道",
+        "onboard_time": 1674716067,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国年让世界相知相连#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674736645249,
+  "endTime": 1674737851433,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -2307,6 +2307,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 1733759,
+      "num": 1733759,
+      "word": "LWX",
+      "onboard_time": 1674730768,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1729493,
       "num": 1729493,
       "word": "广州撞人致5死司机被批捕",
@@ -2697,14 +2705,6 @@
       "onboard_time": 1672726646,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1603595,
-      "num": 1603595,
-      "word": "LWX",
-      "onboard_time": 1674730768,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 1600030,
@@ -3856,6 +3856,14 @@
       "word": "程霄当众承认喜欢顾南亭",
       "onboard_time": 1672912111,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1346722,
+      "num": 1346722,
+      "word": "安欣孟钰be",
+      "onboard_time": 1674735928,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -5939,6 +5947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1056240,
+      "num": 1056240,
+      "word": "长沙游客吐槽网红店排队4538桌",
+      "onboard_time": 1674732748,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 1056133,
       "num": 947259,
       "word": "尖叫之夜",
@@ -5976,6 +5992,14 @@
       "word": "易烊千玺演的孙均有点狠",
       "onboard_time": 1672974150,
       "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1052166,
+      "num": 668693,
+      "word": "李响下线",
+      "onboard_time": 1674735331,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -7545,14 +7569,6 @@
       "onboard_time": 1673231549,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 910987,
-      "num": 910987,
-      "word": "长沙游客吐槽网红店排队4538桌",
-      "onboard_time": 1674732748,
-      "rank": 48,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 910607,
@@ -10867,6 +10883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 723482,
+      "num": 415219,
+      "word": "高启盛疯子",
+      "onboard_time": 1674735868,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 723398,
       "num": 723398,
       "word": "女子用紫外线灯消毒灼伤全家眼睛",
@@ -12160,14 +12184,6 @@
       "word": "三体 原著党狂喜",
       "onboard_time": 1673876489,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 668693,
-      "num": 668693,
-      "word": "李响下线",
-      "onboard_time": 1674735331,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -15456,14 +15472,6 @@
       "word": "王嘉尔最近在追的TVB剧集",
       "onboard_time": 1672809033,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 564651,
-      "num": 564651,
-      "word": "安欣孟钰be",
-      "onboard_time": 1674735928,
-      "rank": 7,
       "category": "影视"
     },
     {
@@ -22331,14 +22339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 415219,
-      "num": 415219,
-      "word": "高启盛疯子",
-      "onboard_time": 1674735868,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 415132,
       "num": 358800,
       "word": "陈奕迅演唱会唱孤勇者的反应",
@@ -24673,6 +24673,14 @@
       "onboard_time": 1674352652,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382649,
+      "num": 382649,
+      "word": "云南大理多地出现七彩祥云",
+      "onboard_time": 1674735629,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 382433,
@@ -46195,14 +46203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187242,
-      "num": 187242,
-      "word": "云南大理多地出现七彩祥云",
-      "onboard_time": 1674735629,
-      "rank": 36,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 187179,
       "num": 209512,
       "word": "被中国非遗打铁花惊艳到了",
@@ -49937,6 +49937,14 @@
       "onboard_time": 1673968352,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165538,
+      "num": 165538,
+      "word": "狂飙全员be",
+      "onboard_time": 1674737607,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 165535,
@@ -54729,6 +54737,14 @@
       "onboard_time": 1673582610,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134793,
+      "num": 134793,
+      "word": "五台山广化寺晚上不开门游客踹门而入",
+      "onboard_time": 1674737488,
+      "rank": 40,
+      "category": "社会负面"
     },
     {
       "raw_hot": 134763,
@@ -59657,6 +59673,14 @@
       "onboard_time": 1674617183,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98256,
+      "num": 98256,
+      "word": "李宏毅说萧瑟其实是个八卦王",
+      "onboard_time": 1674737188,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 98225,
