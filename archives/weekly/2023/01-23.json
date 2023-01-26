@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674771453048,
+  "endTime": 1674772409751,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -8051,6 +8051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63435,
+      "num": 63435,
+      "word": "王子异被秦昊开车半路抛下",
+      "onboard_time": 1674767111,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63383,
       "num": 55534,
       "word": "武林外传是懂爱情的",
@@ -8105,14 +8113,6 @@
       "onboard_time": 1674402629,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51389,
-      "num": 51389,
-      "word": "王子异被秦昊开车半路抛下",
-      "onboard_time": 1674767111,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 49634,
