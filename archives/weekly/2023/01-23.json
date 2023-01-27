@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674822863188,
+  "endTime": 1674823949178,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -1443,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 722499,
+      "num": 722499,
+      "word": "王一博拍完无名最后一场戏恋恋不舍",
+      "onboard_time": 1674822325,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 721711,
       "num": 721711,
       "word": "高叶 老有人说我有佛缘",
@@ -2587,14 +2595,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 503565,
-      "num": 503565,
-      "word": "王一博拍完无名最后一场戏恋恋不舍",
-      "onboard_time": 1674822325,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 503328,
       "num": 503328,
       "word": "关晓彤亮片裙",
@@ -2697,6 +2697,22 @@
       "onboard_time": 1674614844,
       "rank": 18,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 488938,
+      "num": 488938,
+      "word": "安欣成为专案组副组长",
+      "onboard_time": 1674822388,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 487874,
+      "num": 470033,
+      "word": "安欣是扫黑的决心与初心",
+      "onboard_time": 1674822628,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 487170,
@@ -2897,6 +2913,14 @@
       "onboard_time": 1674777862,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451214,
+      "num": 451214,
+      "word": "去有风的地方全员告别角色",
+      "onboard_time": 1674823167,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 450055,
@@ -3603,6 +3627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 376603,
+      "num": 376603,
+      "word": "看完流浪地球杭二中师生沸腾了",
+      "onboard_time": 1674822570,
+      "rank": 21,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 375552,
       "num": 353261,
       "word": "刘雨昕麦架上的钻是自己贴的",
@@ -3899,14 +3931,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 354942,
-      "num": 354942,
-      "word": "安欣成为专案组副组长",
-      "onboard_time": 1674822388,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 354631,
       "num": 354631,
       "word": "狗狗听到有人夸它后的反应",
@@ -4179,6 +4203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 332419,
+      "num": 332419,
+      "word": "宋亚轩贺峻霖的私人恩怨",
+      "onboard_time": 1674820527,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332385,
       "num": 332385,
       "word": "湖人赢了",
@@ -4267,14 +4299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 326973,
-      "num": 326973,
-      "word": "宋亚轩贺峻霖的私人恩怨",
-      "onboard_time": 1674820527,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 325645,
       "num": 325645,
       "word": "兔子洞里什么样",
@@ -4305,6 +4329,14 @@
       "onboard_time": 1674483690,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 324416,
+      "num": 324416,
+      "word": "SEVENTEEN 奖杯",
+      "onboard_time": 1674823828,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 324050,
@@ -4603,6 +4635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305127,
+      "num": 305127,
+      "word": "戴燕妮古装",
+      "onboard_time": 1674821788,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304885,
       "num": 197502,
       "word": "李响 安欣",
@@ -4689,6 +4729,14 @@
       "onboard_time": 1674804506,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 299364,
+      "num": 299364,
+      "word": "突然告诉父母下周要领证",
+      "onboard_time": 1674820887,
+      "rank": 29,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 298819,
@@ -5035,16 +5083,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 276928,
-      "num": 276928,
-      "word": "看完流浪地球杭二中师生沸腾了",
-      "onboard_time": 1674822570,
-      "rank": 21,
-      "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 276497,
-      "num": 276497,
+      "raw_hot": 276677,
+      "num": 276677,
       "word": "程耳祝王一博演艺事业再攀高峰",
       "onboard_time": 1674822144,
       "rank": 22,
@@ -5441,6 +5481,14 @@
       "onboard_time": 1674658771,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256089,
+      "num": 256089,
+      "word": "胡彦斌再唱16岁时创作的歌",
+      "onboard_time": 1674822207,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 255946,
@@ -5907,6 +5955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235994,
+      "num": 235994,
+      "word": "狗狗也要和小伙伴分别了",
+      "onboard_time": 1674822268,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 235425,
       "num": 235425,
       "word": "人还没进门礼就先进去了",
@@ -6281,14 +6337,6 @@
       "onboard_time": 1674804926,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 213768,
-      "num": 213768,
-      "word": "突然告诉父母下周要领证",
-      "onboard_time": 1674820887,
-      "rank": 29,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 213684,
@@ -6915,22 +6963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191646,
-      "num": 191646,
-      "word": "安欣是扫黑的决心与初心",
-      "onboard_time": 1674822628,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 191492,
-      "num": 191492,
-      "word": "胡彦斌再唱16岁时创作的歌",
-      "onboard_time": 1674822207,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 190916,
       "num": 190916,
       "word": "女子自学十几种方言帮300家庭寻亲",
@@ -7475,14 +7507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173807,
-      "num": 173807,
-      "word": "戴燕妮古装",
-      "onboard_time": 1674821788,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 173499,
       "num": 173499,
       "word": "5旬匠人1600度铁水赤膊打铁花",
@@ -7513,6 +7537,22 @@
       "onboard_time": 1674617244,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170670,
+      "num": 170670,
+      "word": "小扶摇长大了",
+      "onboard_time": 1674822207,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 170463,
+      "num": 170463,
+      "word": "高叶 拍边境风云差点窒息",
+      "onboard_time": 1674823708,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 170328,
@@ -7665,14 +7705,6 @@
       "onboard_time": 1674534565,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166120,
-      "num": 166120,
-      "word": "狗狗也要和小伙伴分别了",
-      "onboard_time": 1674822268,
-      "rank": 44,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 165856,
@@ -8179,6 +8211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145427,
+      "num": 145427,
+      "word": "喝酒喝多的人都能干出啥事",
+      "onboard_time": 1674823408,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145342,
       "num": 145342,
       "word": "大年初四接灶王",
@@ -8481,14 +8521,6 @@
       "onboard_time": 1674723927,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134731,
-      "num": 134731,
-      "word": "小扶摇长大了",
-      "onboard_time": 1674822207,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 134630,

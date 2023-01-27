@@ -1,0 +1,410 @@
+{
+  "runTime": 1674823949178,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1447292,
+        "num": 1447292,
+        "word": "狂飙",
+        "onboard_time": 1674819748,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1084451,
+        "num": 1084451,
+        "word": "原来刘德华早就有数字生命了",
+        "onboard_time": 1674818247,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305274,
+        "num": 915295,
+        "word": "离别是为了更好的重逢",
+        "onboard_time": 1674818369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805057,
+        "num": 805057,
+        "word": "丹东站几乎每人都拎着泡沫箱子",
+        "onboard_time": 1674803486,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722499,
+        "num": 722499,
+        "word": "王一博拍完无名最后一场戏恋恋不舍",
+        "onboard_time": 1674822325,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 650513,
+        "num": 650513,
+        "word": "一份椒麻鸡里有23块鸡屁股",
+        "onboard_time": 1674808348,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605703,
+        "num": 605703,
+        "word": "赵丽颖给唐艺昕新剧打call",
+        "onboard_time": 1674820349,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 594744,
+        "num": 594744,
+        "word": "北海市监局回应4个菜1500元",
+        "onboard_time": 1674815486,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 524895,
+        "num": 524895,
+        "word": "心疼李响",
+        "onboard_time": 1674816027,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510290,
+        "num": 510290,
+        "word": "辱母案当事人于欢升级当爸",
+        "onboard_time": 1674817287,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488938,
+        "num": 488938,
+        "word": "安欣成为专案组副组长",
+        "onboard_time": 1674822388,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 482909,
+        "num": 482909,
+        "word": "3个同龄表哥过年走亲戚互不讲话",
+        "onboard_time": 1674813807,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487874,
+        "num": 470033,
+        "word": "安欣是扫黑的决心与初心",
+        "onboard_time": 1674822628,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451214,
+        "num": 451214,
+        "word": "去有风的地方全员告别角色",
+        "onboard_time": 1674823167,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429300,
+        "num": 429300,
+        "word": "你了解许嵩吗",
+        "onboard_time": 1674817587,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416672,
+        "num": 416672,
+        "word": "叶知秋",
+        "onboard_time": 1674812786,
+        "rank": 15,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 376603,
+        "num": 376603,
+        "word": "看完流浪地球杭二中师生沸腾了",
+        "onboard_time": 1674822570,
+        "rank": 16,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 366749,
+        "num": 366749,
+        "word": "男子与女友吵完架开车2分钟扣分22",
+        "onboard_time": 1674814407,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338425,
+        "num": 338425,
+        "word": "张若昀给唐艺昕新剧打call",
+        "onboard_time": 1674814464,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332419,
+        "num": 332419,
+        "word": "宋亚轩贺峻霖的私人恩怨",
+        "onboard_time": 1674820527,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324416,
+        "num": 324416,
+        "word": "SEVENTEEN 奖杯",
+        "onboard_time": 1674823828,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305127,
+        "num": 305127,
+        "word": "戴燕妮古装",
+        "onboard_time": 1674821788,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302558,
+        "num": 302558,
+        "word": "今年过年被催婚了吗",
+        "onboard_time": 1674822027,
+        "rank": 22,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 299364,
+        "num": 299364,
+        "word": "突然告诉父母下周要领证",
+        "onboard_time": 1674820887,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 276677,
+        "num": 276677,
+        "word": "程耳祝王一博演艺事业再攀高峰",
+        "onboard_time": 1674822144,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256089,
+        "num": 256089,
+        "word": "胡彦斌再唱16岁时创作的歌",
+        "onboard_time": 1674822207,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235994,
+        "num": 235994,
+        "word": "狗狗也要和小伙伴分别了",
+        "onboard_time": 1674822268,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 228327,
+        "num": 228327,
+        "word": "谢楠潦草推荐流浪地球2",
+        "onboard_time": 1674805705,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224830,
+        "num": 224830,
+        "word": "狗狗成长中最可爱的阶段",
+        "onboard_time": 1674820828,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 222461,
+        "num": 222461,
+        "word": "吴京 恨嫁糙男",
+        "onboard_time": 1674801265,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214105,
+        "num": 214105,
+        "word": "宋亚轩靠在马嘉祺肩膀上撒娇",
+        "onboard_time": 1674819147,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206964,
+        "num": 206964,
+        "word": "李现去有风的地方大结局特辑",
+        "onboard_time": 1674818307,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197232,
+        "num": 197232,
+        "word": "姆巴佩想买C罗的私人飞机",
+        "onboard_time": 1674811227,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196642,
+        "num": 196642,
+        "word": "马嘉祺回快乐星球就指望丁程鑫了",
+        "onboard_time": 1674821546,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194721,
+        "num": 194721,
+        "word": "四川自贡26米巨型兔子灯",
+        "onboard_time": 1674816626,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194289,
+        "num": 194289,
+        "word": "昆明地震",
+        "onboard_time": 1674808046,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190156,
+        "num": 190156,
+        "word": "男子砍柴时手机掉落秒变折叠屏",
+        "onboard_time": 1674810626,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179860,
+        "num": 179860,
+        "word": "崔然竣崔秀彬新歌舞蹈挑战",
+        "onboard_time": 1674821788,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175102,
+        "num": 175102,
+        "word": "女子回家过年14人睡同1屋",
+        "onboard_time": 1674808585,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173045,
+        "num": 173045,
+        "word": "爷爷保护孙子不慎滑倒把娃铲飞",
+        "onboard_time": 1674808046,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172541,
+        "num": 172541,
+        "word": "李一桐天桥夜色大片",
+        "onboard_time": 1674821426,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170670,
+        "num": 170670,
+        "word": "小扶摇长大了",
+        "onboard_time": 1674822207,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170463,
+        "num": 170463,
+        "word": "高叶 拍边境风云差点窒息",
+        "onboard_time": 1674823708,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167712,
+        "num": 167712,
+        "word": "环卫工打扫鞭炮垃圾被炸聋左耳",
+        "onboard_time": 1674821245,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 167443,
+        "num": 167443,
+        "word": "今年春节档后劲最大的电影",
+        "onboard_time": 1674810865,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163876,
+        "num": 163876,
+        "word": "原来婚礼还可以这么办",
+        "onboard_time": 1674816146,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 159475,
+        "num": 159475,
+        "word": "国航航班颠簸下坠乘客录视频防不测",
+        "onboard_time": 1674800967,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149949,
+        "num": 149949,
+        "word": "店家回应游客点四个菜1500元",
+        "onboard_time": 1674813807,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145427,
+        "num": 145427,
+        "word": "喝酒喝多的人都能干出啥事",
+        "onboard_time": 1674823408,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140703,
+        "num": 140703,
+        "word": "德约科维奇澳网27连胜",
+        "onboard_time": 1674820349,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#向春而行#"
+    }
+  }
+}
