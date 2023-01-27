@@ -1,6 +1,6 @@
 {
   "startTime": 1674750270610,
-  "endTime": 1674790422431,
+  "endTime": 1674793341432,
   "band_list": [
     {
       "raw_hot": 2118812,
@@ -56,6 +56,14 @@
       "word": "满江红发声明",
       "onboard_time": 1674725425,
       "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1138035,
+      "num": 1138035,
+      "word": "岳将军的满江红已经名扬天下了",
+      "onboard_time": 1674788906,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -235,14 +243,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 577848,
-      "num": 577848,
-      "word": "岳将军的满江红已经名扬天下了",
-      "onboard_time": 1674788906,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 543414,
       "num": 534278,
       "word": "王一博说路演可能是为无名做的最后一件事了",
@@ -251,12 +251,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 538060,
+      "num": 538060,
+      "word": "5名中国公民在半月湾枪击事件中遇难",
+      "onboard_time": 1674789808,
+      "rank": 39,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 504393,
       "num": 504393,
       "word": "谭思言",
       "onboard_time": 1674747748,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 503568,
+      "num": 577676,
+      "word": "正月初六对生意人意味着什么",
+      "onboard_time": 1674787645,
+      "rank": 36,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 499164,
@@ -281,14 +297,6 @@
       "onboard_time": 1674777862,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 420913,
-      "num": 577676,
-      "word": "正月初六对生意人意味着什么",
-      "onboard_time": 1674787645,
-      "rank": 36,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 403124,
@@ -379,12 +387,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318669,
+      "num": 318669,
+      "word": "高启兰",
+      "onboard_time": 1674788547,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316365,
       "num": 316365,
       "word": "Tian回应",
       "onboard_time": 1674741810,
       "rank": 20,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 292622,
+      "num": 292622,
+      "word": "孙红雷曾为高叶鸣不平",
+      "onboard_time": 1674792565,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 290773,
@@ -427,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272104,
+      "num": 272104,
+      "word": "C罗被铲伤",
+      "onboard_time": 1674789388,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270175,
       "num": 270175,
       "word": "安欣太惨了",
@@ -449,6 +481,14 @@
       "onboard_time": 1674783986,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267025,
+      "num": 267025,
+      "word": "流浪地球2口碑",
+      "onboard_time": 1674789927,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 263409,
@@ -483,14 +523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255953,
-      "num": 253283,
-      "word": "高启兰",
-      "onboard_time": 1674788547,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 252645,
       "num": 252645,
       "word": "白敬亭是懂转场的",
@@ -499,20 +531,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249076,
+      "num": 202665,
+      "word": "沈腾在西虹市首富里背过满江红",
+      "onboard_time": 1674792866,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 247078,
+      "num": 247078,
+      "word": "王一栩说龚俊会唱两部新剧的OST",
+      "onboard_time": 1674792565,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247005,
       "num": 247005,
       "word": "许红豆谢之遥吻戏名场面",
       "onboard_time": 1674776356,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246376,
-      "num": 246376,
-      "word": "C罗被铲伤",
-      "onboard_time": 1674789388,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 245543,
@@ -715,12 +755,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155029,
-      "num": 162617,
-      "word": "5名中国公民在半月湾枪击事件中遇难",
-      "onboard_time": 1674789808,
-      "rank": 39,
-      "category": "社会负面"
+      "raw_hot": 156082,
+      "num": 156082,
+      "word": "风再起时提档2月5日元宵节上映",
+      "onboard_time": 1674791966,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 154584,
+      "num": 154584,
+      "word": "王濛自荐出演流浪地球3",
+      "onboard_time": 1674789089,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 153403,
@@ -745,14 +793,6 @@
       "onboard_time": 1674732748,
       "rank": 30,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 151960,
-      "num": 151960,
-      "word": "王濛自荐出演流浪地球3",
-      "onboard_time": 1674789089,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 150584,
@@ -835,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132339,
+      "num": 132339,
+      "word": "谢之遥喊许红豆红豆豆",
+      "onboard_time": 1674792925,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132264,
       "num": 132264,
       "word": "官方回应西安回民街6根面20元",
@@ -857,6 +905,14 @@
       "onboard_time": 1674786747,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129838,
+      "num": 129838,
+      "word": "中国驻旧金山总领馆发言人答记者问",
+      "onboard_time": 1674793044,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126853,
@@ -899,20 +955,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 118188,
-      "num": 118188,
-      "word": "流浪地球2口碑",
-      "onboard_time": 1674789927,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 116514,
       "num": 116514,
       "word": "时团抢张真源纳的千层底布鞋",
       "onboard_time": 1674780625,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115523,
+      "num": 115523,
+      "word": "谢怀兰送许红豆家传嫁妆",
+      "onboard_time": 1674792388,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 109415,
@@ -1035,6 +1091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 57526,
+      "num": 922599,
+      "word": "品味浓浓的年味",
+      "onboard_time": 1674790344,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49781,
       "num": 49781,
       "word": "谢谢财神爷帮帮穷人",
@@ -1067,14 +1131,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 8520,
-      "num": 922599,
-      "word": "品味浓浓的年味",
-      "onboard_time": 1674790344,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 7215,
       "num": 1110119,
       "word": "新时代 我在中国",
@@ -1095,6 +1151,9 @@
     },
     {
       "word": "#正月里的锦绣山河#"
+    },
+    {
+      "word": "#大年初六顺顺利利#"
     }
   ]
 }
