@@ -1,0 +1,410 @@
+{
+  "runTime": 1674804809347,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1186147,
+        "num": 1186147,
+        "word": "国航航班颠簸下坠乘客录视频防不测",
+        "onboard_time": 1674800967,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005590,
+        "num": 1005590,
+        "word": "这年 又过完了",
+        "onboard_time": 1674800605,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56234,
+        "num": 975262,
+        "word": "品味浓浓的年味",
+        "onboard_time": 1674790344,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953960,
+        "num": 953960,
+        "word": "吴京 恨嫁糙男",
+        "onboard_time": 1674801265,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 928236,
+        "num": 928236,
+        "word": "momoland解散",
+        "onboard_time": 1674803607,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628321,
+        "num": 628321,
+        "word": "男孩逛景区被鹈鹕灌顶",
+        "onboard_time": 1674799644,
+        "rank": 5,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 493174,
+        "num": 493174,
+        "word": "35岁单身女子时隔三年回家被问生子",
+        "onboard_time": 1674802287,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488262,
+        "num": 488262,
+        "word": "弟弟攒5年压岁钱给姐姐买万元金镯",
+        "onboard_time": 1674795687,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448280,
+        "num": 448280,
+        "word": "狂飙豆瓣评分涨至9.0分",
+        "onboard_time": 1674798087,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405736,
+        "num": 405736,
+        "word": "苏有朋邀请王俊凯参加项目被拒绝",
+        "onboard_time": 1674794065,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 545868,
+        "num": 399624,
+        "word": "吴京恳请大家不要再宣传300亿票房",
+        "onboard_time": 1674776836,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 501783,
+        "num": 398955,
+        "word": "丹东站几乎每人都拎着泡沫箱子",
+        "onboard_time": 1674803486,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393430,
+        "num": 393430,
+        "word": "爱奇艺2023待播剧片单",
+        "onboard_time": 1674797486,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344800,
+        "num": 344800,
+        "word": "贺峻霖在六公主镜头前后反差感",
+        "onboard_time": 1674803846,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318855,
+        "num": 318855,
+        "word": "王一栩说杨幂会唱狐妖小红娘月红篇OST",
+        "onboard_time": 1674802586,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314217,
+        "num": 314217,
+        "word": "贺峻霖说采访中国乒乓是圆梦",
+        "onboard_time": 1674803066,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312158,
+        "num": 312158,
+        "word": "黄渤说荣梓杉抱上EDG大腿了",
+        "onboard_time": 1674804506,
+        "rank": 16,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 279849,
+        "num": 279849,
+        "word": "沈腾在西虹市首富里背过满江红",
+        "onboard_time": 1674792866,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265439,
+        "num": 265439,
+        "word": "宋祖儿折腰进组视频",
+        "onboard_time": 1674801205,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255514,
+        "num": 255514,
+        "word": "TXT 回归",
+        "onboard_time": 1674789988,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 254002,
+        "num": 254002,
+        "word": "孙红雷曾为高叶鸣不平",
+        "onboard_time": 1674792565,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230820,
+        "num": 230820,
+        "word": "流浪地球2票房破20亿",
+        "onboard_time": 1674795626,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224487,
+        "num": 224487,
+        "word": "岳将军的满江红已经名扬天下了",
+        "onboard_time": 1674788906,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218479,
+        "num": 218479,
+        "word": "吴京改了韩朵朵的人物设定",
+        "onboard_time": 1674787586,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217321,
+        "num": 217321,
+        "word": "百万保时捷停斗香上被烧毁",
+        "onboard_time": 1674785546,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191612,
+        "num": 191612,
+        "word": "把香菜做成了吃不起的样子",
+        "onboard_time": 1674803966,
+        "rank": 25,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 186736,
+        "num": 186736,
+        "word": "正月初六对生意人意味着什么",
+        "onboard_time": 1674787645,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 183165,
+        "num": 183165,
+        "word": "这个牛魔王还穿着尿不湿",
+        "onboard_time": 1674803366,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182463,
+        "num": 182463,
+        "word": "王一博无名吐烟圈是现场发挥的",
+        "onboard_time": 1674781826,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168082,
+        "num": 168082,
+        "word": "郭帆帮吴京找21岁的状态",
+        "onboard_time": 1674804506,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167056,
+        "num": 167056,
+        "word": "霉霉新歌LavenderHaze",
+        "onboard_time": 1674798565,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165477,
+        "num": 165477,
+        "word": "外地游客首次体验东北鸳鸯锅澡堂",
+        "onboard_time": 1674798565,
+        "rank": 31,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 163999,
+        "num": 163999,
+        "word": "东北忘关单元门楼道冻成冰溶洞",
+        "onboard_time": 1674787225,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157879,
+        "num": 157879,
+        "word": "这猫咪看起来也太成熟了吧",
+        "onboard_time": 1674797425,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155433,
+        "num": 155433,
+        "word": "5名中国公民在半月湾枪击事件中遇难",
+        "onboard_time": 1674789808,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 155183,
+        "num": 155183,
+        "word": "0713年度述职报告会",
+        "onboard_time": 1674801385,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149743,
+        "num": 149743,
+        "word": "高启强还是对泰叔动手了",
+        "onboard_time": 1674794843,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147524,
+        "num": 147524,
+        "word": "崔然竣新歌MV镜头",
+        "onboard_time": 1674803425,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149399,
+        "num": 145558,
+        "word": "孟钰求婚被拒一秒含泪",
+        "onboard_time": 1674784345,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130010,
+        "num": 130010,
+        "word": "墨子 lwx",
+        "onboard_time": 1674778042,
+        "rank": 39,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 128558,
+        "num": 128558,
+        "word": "TXT新歌上线",
+        "onboard_time": 1674799225,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126393,
+        "num": 126393,
+        "word": "背诵满江红可免费游岳飞庙",
+        "onboard_time": 1674795806,
+        "rank": 41,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 125042,
+        "num": 125042,
+        "word": "光与夜之恋萧逸",
+        "onboard_time": 1674794486,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123971,
+        "num": 123971,
+        "word": "女儿返程点千元外卖塞满父母冰箱",
+        "onboard_time": 1674788187,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122522,
+        "num": 122522,
+        "word": "崔秀彬新歌MV镜头",
+        "onboard_time": 1674802586,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119689,
+        "num": 119689,
+        "word": "德云社节目单",
+        "onboard_time": 1674788906,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111526,
+        "num": 111526,
+        "word": "高启兰",
+        "onboard_time": 1674788547,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105875,
+        "num": 105875,
+        "word": "崔杋圭新歌MV镜头",
+        "onboard_time": 1674802884,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104439,
+        "num": 104439,
+        "word": "去有风的地方杀青照拍摄花絮",
+        "onboard_time": 1674796105,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103900,
+        "num": 103900,
+        "word": "流浪地球2用真诚换观众真心",
+        "onboard_time": 1674804506,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#新的一年新的出发#"
+    }
+  }
+}
