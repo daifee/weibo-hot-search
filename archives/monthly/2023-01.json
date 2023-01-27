@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674839802425,
+  "endTime": 1674840816779,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -63233,6 +63233,14 @@
       "onboard_time": 1673500657,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81502,
+      "num": 81502,
+      "word": "吴京说如果可以会选择数字生命",
+      "onboard_time": 1674839839,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 81445,
