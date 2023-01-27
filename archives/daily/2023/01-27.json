@@ -1,6 +1,6 @@
 {
   "startTime": 1674750270610,
-  "endTime": 1674788112383,
+  "endTime": 1674789576463,
   "band_list": [
     {
       "raw_hot": 2118812,
@@ -16,6 +16,14 @@
       "word": "狂飙全员be",
       "onboard_time": 1674737607,
       "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1280293,
+      "num": 979764,
+      "word": "吴京改了韩朵朵的人物设定",
+      "onboard_time": 1674787586,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -67,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 971301,
+      "num": 971301,
+      "word": "百万保时捷停斗香上被烧毁",
+      "onboard_time": 1674785546,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 940464,
       "num": 940464,
       "word": "女子发现初中时收到的礼物暗藏情书",
@@ -107,14 +123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 817941,
-      "num": 817941,
-      "word": "百万保时捷停斗香上被烧毁",
-      "onboard_time": 1674785546,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 795942,
       "num": 795942,
       "word": "黄瑶高晓晨 好嗑",
@@ -136,6 +144,14 @@
       "word": "王一博无名吐烟圈是现场发挥的",
       "onboard_time": 1674781826,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 719920,
+      "num": 719920,
+      "word": "吴京说中国乒乓是打不死的小强",
+      "onboard_time": 1674788666,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -168,6 +184,14 @@
       "word": "大年初六送穷",
       "onboard_time": 1674774675,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 644221,
+      "num": 644221,
+      "word": "东北忘关单元门楼道冻成冰溶洞",
+      "onboard_time": 1674787225,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -243,6 +267,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398169,
+      "num": 398169,
+      "word": "正月初六对生意人意味着什么",
+      "onboard_time": 1674787645,
+      "rank": 36,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 397621,
+      "num": 397621,
+      "word": "女儿返程点千元外卖塞满父母冰箱",
+      "onboard_time": 1674788187,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394318,
       "num": 394318,
       "word": "张译好有魅力",
@@ -283,11 +323,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 364112,
-      "num": 197514,
-      "word": "吴京改了韩朵朵的人物设定",
-      "onboard_time": 1674787586,
-      "rank": 30,
+      "raw_hot": 350046,
+      "num": 350046,
+      "word": "满江红编剧采访说原本设定是科幻片",
+      "onboard_time": 1674787765,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -331,12 +371,28 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 315757,
+      "num": 288909,
+      "word": "岳将军的满江红已经名扬天下了",
+      "onboard_time": 1674788906,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290773,
       "num": 290773,
       "word": "俄方称将派出战斗机器人应对西方坦克",
       "onboard_time": 1674784646,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 289455,
+      "num": 261931,
+      "word": "瑶琴就是满江红里的那颗樱桃",
+      "onboard_time": 1674788966,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 289400,
@@ -387,20 +443,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265124,
-      "num": 265124,
-      "word": "东北忘关单元门楼道冻成冰溶洞",
-      "onboard_time": 1674787225,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263409,
       "num": 263409,
       "word": "无名还有王一博跳舞逗狗花絮",
       "onboard_time": 1674787345,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 262242,
+      "num": 262242,
+      "word": "春节凭这道菜胖了3斤",
+      "onboard_time": 1674782666,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 260262,
@@ -427,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249032,
-      "num": 249032,
-      "word": "满江红编剧采访说原本设定是科幻片",
-      "onboard_time": 1674787765,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 247005,
       "num": 247005,
       "word": "许红豆谢之遥吻戏名场面",
@@ -457,6 +505,14 @@
       "onboard_time": 1674774916,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237602,
+      "num": 237602,
+      "word": "涵艺爆料",
+      "onboard_time": 1674787645,
+      "rank": 31,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 235147,
@@ -483,12 +539,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 215932,
-      "num": 192494,
-      "word": "涵艺爆料",
-      "onboard_time": 1674787645,
-      "rank": 31,
-      "category": "游戏,网红"
+      "raw_hot": 211038,
+      "num": 211038,
+      "word": "高启兰",
+      "onboard_time": 1674788547,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 208622,
@@ -571,20 +627,20 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 181498,
-      "num": 181498,
-      "word": "春节凭这道菜胖了3斤",
-      "onboard_time": 1674782666,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 180909,
       "num": 180909,
       "word": "云南大理多地出现七彩祥云",
       "onboard_time": 1674735629,
       "rank": 26,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 177278,
+      "num": 177278,
+      "word": "德云社节目单",
+      "onboard_time": 1674788906,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 174649,
@@ -601,6 +657,14 @@
       "onboard_time": 1674783145,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168282,
+      "num": 168282,
+      "word": "杨超越连人带行李被扔下车",
+      "onboard_time": 1674787765,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 167075,
@@ -651,12 +715,12 @@
       "category": "美妆,幽默"
     },
     {
-      "raw_hot": 148376,
-      "num": 148376,
-      "word": "正月初六对生意人意味着什么",
-      "onboard_time": 1674787645,
-      "rank": 36,
-      "category": "社会新闻,财经"
+      "raw_hot": 149755,
+      "num": 149755,
+      "word": "又要和家乡说再见了",
+      "onboard_time": 1674788308,
+      "rank": 41,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 147250,
@@ -675,14 +739,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 142505,
-      "num": 142505,
-      "word": "杨超越连人带行李被扔下车",
-      "onboard_time": 1674787765,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141758,
       "num": 141758,
       "word": "在云南排骨独一无二的吃法",
@@ -691,12 +747,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 140704,
+      "num": 140704,
+      "word": "景区工作人员提前下班禁止游客进入",
+      "onboard_time": 1674788846,
+      "rank": 43,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 140690,
       "num": 140690,
       "word": "70后聚餐只有一个人接到老婆电话",
       "onboard_time": 1674723628,
       "rank": 32,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 136823,
+      "num": 136823,
+      "word": "王濛自荐出演流浪地球3",
+      "onboard_time": 1674789089,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 136342,
@@ -745,6 +817,14 @@
       "onboard_time": 1674786747,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127820,
+      "num": 127820,
+      "word": "C罗被铲伤",
+      "onboard_time": 1674789388,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 126853,
@@ -947,7 +1027,7 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 6451,
+      "raw_hot": 7215,
       "num": 1110119,
       "word": "新时代 我在中国",
       "onboard_time": 1674702987,
