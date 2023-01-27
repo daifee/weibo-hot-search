@@ -1,6 +1,6 @@
 {
   "startTime": 1674750270610,
-  "endTime": 1674830022388,
+  "endTime": 1674832760364,
   "band_list": [
     {
       "raw_hot": 2118812,
@@ -160,6 +160,14 @@
       "word": "弟弟攒5年压岁钱给姐姐买万元金镯",
       "onboard_time": 1674795687,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1071051,
+      "num": 1071051,
+      "word": "女子路遇大老鼠不慎摔倒砸死老鼠",
+      "onboard_time": 1674827847,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -483,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 650847,
-      "num": 650847,
-      "word": "女子路遇大老鼠不慎摔倒砸死老鼠",
-      "onboard_time": 1674827847,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 644221,
       "num": 644221,
       "word": "东北忘关单元门楼道冻成冰溶洞",
@@ -603,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 575710,
+      "num": 575710,
+      "word": "安欣高启强饭搭子Be",
+      "onboard_time": 1674828205,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 543414,
       "num": 534278,
       "word": "王一博说路演可能是为无名做的最后一件事了",
@@ -625,6 +633,14 @@
       "onboard_time": 1674817048,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 527573,
+      "num": 409206,
+      "word": "男子花20多万到三亚度假遭遇节约型爸妈",
+      "onboard_time": 1674831030,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 526088,
@@ -675,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 498712,
-      "num": 498712,
-      "word": "安欣高启强饭搭子Be",
-      "onboard_time": 1674828205,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 493539,
       "num": 493539,
       "word": "流浪地球2票房破20亿",
@@ -696,6 +704,14 @@
       "word": "安欣成为专案组副组长",
       "onboard_time": 1674822388,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 479456,
+      "num": 479456,
+      "word": "三体 还原的嘞",
+      "onboard_time": 1674831750,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -721,6 +737,14 @@
       "onboard_time": 1674817768,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 443474,
+      "num": 407808,
+      "word": "秦始皇说方言",
+      "onboard_time": 1674831388,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 437832,
@@ -761,6 +785,14 @@
       "onboard_time": 1674816986,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405910,
+      "num": 405910,
+      "word": "流浪地球2为后人开路",
+      "onboard_time": 1674830490,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 404087,
@@ -1131,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297073,
+      "num": 297073,
+      "word": "王鹤棣在机场被粉丝怼脸拍",
+      "onboard_time": 1674828031,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290773,
       "num": 290773,
       "word": "俄方称将派出战斗机器人应对西方坦克",
@@ -1152,6 +1192,14 @@
       "word": "陈楚生没有坐过硬卧",
       "onboard_time": 1674781524,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 288286,
+      "num": 288286,
+      "word": "最强大脑",
+      "onboard_time": 1674830190,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -1227,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270518,
+      "num": 270518,
+      "word": "2023年春节档票房破67亿元",
+      "onboard_time": 1674830548,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270175,
       "num": 270175,
       "word": "安欣太惨了",
@@ -1299,14 +1355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 260046,
-      "num": 260046,
-      "word": "王鹤棣在机场被粉丝怼脸拍",
-      "onboard_time": 1674828031,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 258092,
       "num": 258092,
       "word": "崔然竣崔秀彬新歌舞蹈挑战",
@@ -1331,12 +1379,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 253612,
+      "num": 253612,
+      "word": "0713有多羡慕王铮亮上春晚",
+      "onboard_time": 1674828568,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252645,
       "num": 252645,
       "word": "白敬亭是懂转场的",
       "onboard_time": 1674745292,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251650,
+      "num": 195365,
+      "word": "陈楚生脱口秀节奏太好了",
+      "onboard_time": 1674832531,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 247416,
@@ -1401,6 +1465,14 @@
       "onboard_time": 1674820828,
       "rank": 26,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 242278,
+      "num": 194412,
+      "word": "狂飙大结局那天是李响头七",
+      "onboard_time": 1674832229,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 240986,
@@ -1499,14 +1571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218834,
-      "num": 218834,
-      "word": "0713有多羡慕王铮亮上春晚",
-      "onboard_time": 1674828568,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218416,
       "num": 218416,
       "word": "外地游客首次体验东北鸳鸯锅澡堂",
@@ -1539,12 +1603,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215592,
+      "num": 193649,
+      "word": "郭麒麟庞博阎鹤祥同台",
+      "onboard_time": 1674831632,
+      "rank": 32,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 214226,
       "num": 214226,
       "word": "二手玫瑰音乐节现场连唱8首歌",
       "onboard_time": 1674804926,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 213678,
+      "num": 192909,
+      "word": "这违停都抄不到牌",
+      "onboard_time": 1674831508,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 212739,
@@ -1656,6 +1736,14 @@
       "word": "王一博谈无名杀青感受",
       "onboard_time": 1674829949,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192106,
+      "num": 192106,
+      "word": "人列计算机 秦腔",
+      "onboard_time": 1674831750,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -2091,6 +2179,14 @@
       "category": "旅游,自然"
     },
     {
+      "raw_hot": 134478,
+      "num": 946292,
+      "word": "离家的行囊满是爱和牵挂",
+      "onboard_time": 1674828749,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133002,
       "num": 133002,
       "word": "王栎鑫一个动作暴露坐火车经验",
@@ -2139,12 +2235,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128188,
+      "num": 128188,
+      "word": "一声过年好瞬间没脾气",
+      "onboard_time": 1674830908,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 126853,
       "num": 126853,
       "word": "瞬间想起了8090后的快乐",
       "onboard_time": 1674747208,
       "rank": 37,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 125898,
+      "num": 125898,
+      "word": "仙女棒在橘子里不会灭",
+      "onboard_time": 1674832650,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 125632,
@@ -2344,14 +2456,6 @@
       "word": "86岁老人返乡与亲人告别哭成泪人",
       "onboard_time": 1674773292,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83773,
-      "num": 946292,
-      "word": "离家的行囊满是爱和牵挂",
-      "onboard_time": 1674828749,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
