@@ -1,0 +1,410 @@
+{
+  "runTime": 1674794241673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1268648,
+        "num": 1268648,
+        "word": "吴京恳请大家不要再宣传300亿票房",
+        "onboard_time": 1674776836,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1145440,
+        "num": 1145440,
+        "word": "岳将军的满江红已经名扬天下了",
+        "onboard_time": 1674788906,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58030,
+        "num": 678078,
+        "word": "品味浓浓的年味",
+        "onboard_time": 1674790344,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625497,
+        "num": 625497,
+        "word": "百万保时捷停斗香上被烧毁",
+        "onboard_time": 1674785546,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623803,
+        "num": 623803,
+        "word": "5名中国公民在半月湾枪击事件中遇难",
+        "onboard_time": 1674789808,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 518909,
+        "num": 518909,
+        "word": "孙红雷曾为高叶鸣不平",
+        "onboard_time": 1674792565,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441781,
+        "num": 441781,
+        "word": "正月初六对生意人意味着什么",
+        "onboard_time": 1674787645,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 441763,
+        "num": 441763,
+        "word": "东北忘关单元门楼道冻成冰溶洞",
+        "onboard_time": 1674787225,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426589,
+        "num": 426589,
+        "word": "孟钰求婚被拒一秒含泪",
+        "onboard_time": 1674784345,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425756,
+        "num": 425756,
+        "word": "TXT 回归",
+        "onboard_time": 1674789988,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 734880,
+        "num": 425202,
+        "word": "吴京改了韩朵朵的人物设定",
+        "onboard_time": 1674787586,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 661295,
+        "num": 420625,
+        "word": "沈腾在西虹市首富里背过满江红",
+        "onboard_time": 1674792866,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413507,
+        "num": 413507,
+        "word": "墨子 lwx",
+        "onboard_time": 1674778042,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 461964,
+        "num": 411894,
+        "word": "吴京说中国乒乓是打不死的小强",
+        "onboard_time": 1674788666,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403273,
+        "num": 403273,
+        "word": "苏有朋邀请王俊凯参加项目被拒绝",
+        "onboard_time": 1674794065,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342264,
+        "num": 342264,
+        "word": "流浪地球2口碑",
+        "onboard_time": 1674789927,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332969,
+        "num": 332969,
+        "word": "假期剩5天作业剩7本女孩崩溃大哭",
+        "onboard_time": 1674783265,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 331938,
+        "num": 331938,
+        "word": "王一博无名吐烟圈是现场发挥的",
+        "onboard_time": 1674781826,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324324,
+        "num": 324324,
+        "word": "女儿返程点千元外卖塞满父母冰箱",
+        "onboard_time": 1674788187,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315359,
+        "num": 315359,
+        "word": "1米85大长腿交警回应走红",
+        "onboard_time": 1674776418,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305987,
+        "num": 305987,
+        "word": "高启兰",
+        "onboard_time": 1674788547,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295965,
+        "num": 295965,
+        "word": "游客爆料北海用餐4个菜1500元",
+        "onboard_time": 1674777138,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246848,
+        "num": 246848,
+        "word": "C罗被铲伤",
+        "onboard_time": 1674789388,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246812,
+        "num": 246812,
+        "word": "高明远高启强什么关系",
+        "onboard_time": 1674784286,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219929,
+        "num": 219929,
+        "word": "鹿晗翻唱周杰伦安静视频",
+        "onboard_time": 1674785245,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215219,
+        "num": 215219,
+        "word": "万元戒指被亲戚家孩子扔进农田",
+        "onboard_time": 1674782005,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212645,
+        "num": 212645,
+        "word": "王一栩说龚俊会唱两部新剧的OST",
+        "onboard_time": 1674792565,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206956,
+        "num": 206956,
+        "word": "春节凭这道菜胖了3斤",
+        "onboard_time": 1674782666,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197128,
+        "num": 197128,
+        "word": "墨子回应Tian传闻",
+        "onboard_time": 1674778162,
+        "rank": 28,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 196573,
+        "num": 196573,
+        "word": "德云社节目单",
+        "onboard_time": 1674788906,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187459,
+        "num": 187459,
+        "word": "女子发现初中时收到的礼物暗藏情书",
+        "onboard_time": 1674781524,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184789,
+        "num": 184789,
+        "word": "瑶琴就是满江红里的那颗樱桃",
+        "onboard_time": 1674788966,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183994,
+        "num": 183994,
+        "word": "狂飙导演点赞原定主演是杨洋的微博",
+        "onboard_time": 1674776537,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169033,
+        "num": 169033,
+        "word": "王濛自荐出演流浪地球3",
+        "onboard_time": 1674789089,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172837,
+        "num": 166606,
+        "word": "陈书婷怎么死的",
+        "onboard_time": 1674742350,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161426,
+        "num": 161426,
+        "word": "涵艺爆料",
+        "onboard_time": 1674787645,
+        "rank": 35,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 151307,
+        "num": 151307,
+        "word": "鱼刺卡喉该去挂哪个科",
+        "onboard_time": 1674777862,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150902,
+        "num": 150902,
+        "word": "风再起时提档2月5日元宵节上映",
+        "onboard_time": 1674791966,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149142,
+        "num": 149142,
+        "word": "俄方称将派出战斗机器人应对西方坦克",
+        "onboard_time": 1674784646,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 146281,
+        "num": 146281,
+        "word": "景区工作人员提前下班禁止游客进入",
+        "onboard_time": 1674788846,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 146037,
+        "num": 146037,
+        "word": "中国驻旧金山总领馆发言人答记者问",
+        "onboard_time": 1674793044,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144324,
+        "num": 144324,
+        "word": "无名还有王一博跳舞逗狗花絮",
+        "onboard_time": 1674787345,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129748,
+        "num": 129748,
+        "word": "为什么深海的口碑两极分化严重",
+        "onboard_time": 1674785485,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141715,
+        "num": 129419,
+        "word": "王一博说路演可能是为无名做的最后一件事了",
+        "onboard_time": 1674776657,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126604,
+        "num": 126604,
+        "word": "满江红编剧采访说原本设定是科幻片",
+        "onboard_time": 1674787765,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126464,
+        "num": 126464,
+        "word": "女子为逃避催婚去泰国过年",
+        "onboard_time": 1674782787,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120367,
+        "num": 120367,
+        "word": "杨超越连人带行李被扔下车",
+        "onboard_time": 1674787765,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117956,
+        "num": 117956,
+        "word": "刘亦菲李现去有风的地方今晚大结局",
+        "onboard_time": 1674780987,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116154,
+        "num": 116154,
+        "word": "2023NBA全明星首发名单",
+        "onboard_time": 1674780625,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116472,
+        "num": 111245,
+        "word": "谢之遥喊许红豆红豆豆",
+        "onboard_time": 1674792925,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#大年初六顺顺利利#"
+    }
+  }
+}
