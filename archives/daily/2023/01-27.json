@@ -1,6 +1,6 @@
 {
   "startTime": 1674750270610,
-  "endTime": 1674807779433,
+  "endTime": 1674808610517,
   "band_list": [
     {
       "raw_hot": 2118812,
@@ -9,6 +9,14 @@
       "onboard_time": 1674776836,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1983967,
+      "num": 1983967,
+      "word": "昆明地震",
+      "onboard_time": 1674808046,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1361875,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1049250,
+      "num": 1049250,
+      "word": "吴京 恨嫁糙男",
+      "onboard_time": 1674801265,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1040209,
       "num": 1040209,
       "word": "这年 又过完了",
@@ -120,14 +136,6 @@
       "word": "狂飙导演点赞原定主演是杨洋的微博",
       "onboard_time": 1674776537,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 977670,
-      "num": 977670,
-      "word": "吴京 恨嫁糙男",
-      "onboard_time": 1674801265,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -291,6 +299,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 659232,
+      "num": 447164,
+      "word": "吴京 同意的转",
+      "onboard_time": 1674807386,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644221,
       "num": 644221,
       "word": "东北忘关单元门楼道冻成冰溶洞",
@@ -411,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 473097,
+      "num": 473097,
+      "word": "明星大侦探",
+      "onboard_time": 1674806426,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451281,
       "num": 451281,
       "word": "鱼刺卡喉该去挂哪个科",
@@ -419,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 440131,
-      "num": 440131,
-      "word": "明星大侦探",
-      "onboard_time": 1674806426,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 430859,
+      "num": 430859,
+      "word": "谢楠潦草推荐流浪地球2",
+      "onboard_time": 1674805705,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 424639,
@@ -515,14 +539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 351312,
-      "num": 335637,
-      "word": "吴京 同意的转",
-      "onboard_time": 1674807386,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 350046,
       "num": 350046,
       "word": "满江红编剧采访说原本设定是科幻片",
@@ -537,14 +553,6 @@
       "onboard_time": 1674803846,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343065,
-      "num": 343065,
-      "word": "谢楠潦草推荐流浪地球2",
-      "onboard_time": 1674805705,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 342264,
@@ -651,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300030,
+      "num": 300030,
+      "word": "流浪地球2用真诚换观众真心",
+      "onboard_time": 1674804506,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290773,
       "num": 290773,
       "word": "俄方称将派出战斗机器人应对西方坦克",
@@ -689,14 +705,6 @@
       "onboard_time": 1674780987,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 277301,
-      "num": 277301,
-      "word": "流浪地球2用真诚换观众真心",
-      "onboard_time": 1674804506,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 272104,
@@ -753,6 +761,14 @@
       "onboard_time": 1674782666,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 260471,
+      "num": 260471,
+      "word": "So TM true",
+      "onboard_time": 1674807925,
+      "rank": 19,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 260262,
@@ -867,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221755,
+      "num": 221755,
+      "word": "岳云鹏问满江红看了吗",
+      "onboard_time": 1674808406,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221371,
       "num": 221371,
       "word": "高启强还是对泰叔动手了",
@@ -939,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204357,
+      "num": 204357,
+      "word": "张天爱粉色格子造型",
+      "onboard_time": 1674807925,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202992,
       "num": 202992,
       "word": "狗子走得好有规律",
@@ -969,6 +1001,14 @@
       "onboard_time": 1674789988,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190916,
+      "num": 190916,
+      "word": "女子自学十几种方言帮300家庭寻亲",
+      "onboard_time": 1674806126,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 190568,
@@ -1067,20 +1107,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169092,
+      "num": 169092,
+      "word": "苏翊鸣请大家用诗词为新动作命名",
+      "onboard_time": 1674807267,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168282,
       "num": 168282,
       "word": "杨超越连人带行李被扔下车",
       "onboard_time": 1674787765,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167428,
-      "num": 167428,
-      "word": "女子自学十几种方言帮300家庭寻亲",
-      "onboard_time": 1674806126,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 167075,
@@ -1097,6 +1137,14 @@
       "onboard_time": 1674801385,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163941,
+      "num": 163941,
+      "word": "爷爷保护孙子不慎滑倒把娃铲飞",
+      "onboard_time": 1674808046,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163360,
@@ -1121,6 +1169,14 @@
       "onboard_time": 1674754398,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156858,
+      "num": 156858,
+      "word": "假期结束你想上班吗",
+      "onboard_time": 1674804446,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 156082,
@@ -1153,14 +1209,6 @@
       "onboard_time": 1674732748,
       "rank": 30,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 151126,
-      "num": 151126,
-      "word": "假期结束你想上班吗",
-      "onboard_time": 1674804446,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 150584,
@@ -1259,14 +1307,6 @@
       "category": "旅游,自然"
     },
     {
-      "raw_hot": 133560,
-      "num": 133560,
-      "word": "苏翊鸣请大家用诗词为新动作命名",
-      "onboard_time": 1674807267,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133002,
       "num": 133002,
       "word": "王栎鑫一个动作暴露坐火车经验",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1674752060,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123450,
+      "num": 123450,
+      "word": "一份椒麻鸡里有23块鸡屁股",
+      "onboard_time": 1674808348,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123051,
@@ -1379,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113067,
+      "num": 113067,
+      "word": "西西帕斯 澳网决赛",
+      "onboard_time": 1674808465,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109415,
       "num": 109415,
       "word": "吉达联合3比1利雅得胜利",
@@ -1401,6 +1457,14 @@
       "onboard_time": 1674739049,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105102,
+      "num": 105102,
+      "word": "女子回家过年14人睡同1屋",
+      "onboard_time": 1674808585,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99966,
@@ -1507,8 +1571,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 58030,
-      "num": 1017199,
+      "raw_hot": 59864,
+      "num": 1071738,
       "word": "品味浓浓的年味",
       "onboard_time": 1674790344,
       "rank": 2,

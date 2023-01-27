@@ -1,0 +1,410 @@
+{
+  "runTime": 1674808610517,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1983967,
+        "num": 1983967,
+        "word": "昆明地震",
+        "onboard_time": 1674808046,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1224204,
+        "num": 1224204,
+        "word": "丹东站几乎每人都拎着泡沫箱子",
+        "onboard_time": 1674803486,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59864,
+        "num": 1071738,
+        "word": "品味浓浓的年味",
+        "onboard_time": 1674790344,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1049250,
+        "num": 1049250,
+        "word": "吴京 恨嫁糙男",
+        "onboard_time": 1674801265,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1032769,
+        "num": 1032769,
+        "word": "这年 又过完了",
+        "onboard_time": 1674800605,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 589069,
+        "num": 589069,
+        "word": "momoland解散",
+        "onboard_time": 1674803607,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 730545,
+        "num": 578497,
+        "word": "国航航班颠簸下坠乘客录视频防不测",
+        "onboard_time": 1674800967,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516468,
+        "num": 516468,
+        "word": "阿里辟谣新加坡建全球总部",
+        "onboard_time": 1674805587,
+        "rank": 7,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 473097,
+        "num": 473097,
+        "word": "明星大侦探",
+        "onboard_time": 1674806426,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458969,
+        "num": 458969,
+        "word": "35岁单身女子时隔三年回家被问生子",
+        "onboard_time": 1674802287,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659232,
+        "num": 447164,
+        "word": "吴京 同意的转",
+        "onboard_time": 1674807386,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430859,
+        "num": 430859,
+        "word": "谢楠潦草推荐流浪地球2",
+        "onboard_time": 1674805705,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383946,
+        "num": 383946,
+        "word": "把香菜做成了吃不起的样子",
+        "onboard_time": 1674803966,
+        "rank": 12,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 472095,
+        "num": 377783,
+        "word": "吴京恳请大家不要再宣传300亿票房",
+        "onboard_time": 1674776836,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326938,
+        "num": 326938,
+        "word": "弟弟攒5年压岁钱给姐姐买万元金镯",
+        "onboard_time": 1674795687,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302742,
+        "num": 302742,
+        "word": "男孩逛景区被鹈鹕灌顶",
+        "onboard_time": 1674799644,
+        "rank": 15,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 300030,
+        "num": 300030,
+        "word": "流浪地球2用真诚换观众真心",
+        "onboard_time": 1674804506,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283754,
+        "num": 283754,
+        "word": "狂飙豆瓣评分涨至9.0分",
+        "onboard_time": 1674798087,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275372,
+        "num": 275372,
+        "word": "汪海林说许魏洲可塑性很强",
+        "onboard_time": 1674807445,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260471,
+        "num": 260471,
+        "word": "So TM true",
+        "onboard_time": 1674807925,
+        "rank": 19,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 245741,
+        "num": 245741,
+        "word": "爱奇艺2023待播剧片单",
+        "onboard_time": 1674797486,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221755,
+        "num": 221755,
+        "word": "岳云鹏问满江红看了吗",
+        "onboard_time": 1674808406,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213083,
+        "num": 213083,
+        "word": "苏有朋邀请王俊凯参加项目被拒绝",
+        "onboard_time": 1674794065,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211203,
+        "num": 211203,
+        "word": "二手玫瑰音乐节现场连唱8首歌",
+        "onboard_time": 1674804926,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204357,
+        "num": 204357,
+        "word": "张天爱粉色格子造型",
+        "onboard_time": 1674807925,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200930,
+        "num": 200930,
+        "word": "岳将军的满江红已经名扬天下了",
+        "onboard_time": 1674788906,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190916,
+        "num": 190916,
+        "word": "女子自学十几种方言帮300家庭寻亲",
+        "onboard_time": 1674806126,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 187721,
+        "num": 187721,
+        "word": "贺峻霖在六公主镜头前后反差感",
+        "onboard_time": 1674803846,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182186,
+        "num": 182186,
+        "word": "王一栩说杨幂会唱狐妖小红娘月红篇OST",
+        "onboard_time": 1674802586,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176944,
+        "num": 176944,
+        "word": "孙红雷曾为高叶鸣不平",
+        "onboard_time": 1674792565,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171327,
+        "num": 171327,
+        "word": "沈腾在西虹市首富里背过满江红",
+        "onboard_time": 1674792866,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169092,
+        "num": 169092,
+        "word": "苏翊鸣请大家用诗词为新动作命名",
+        "onboard_time": 1674807267,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167622,
+        "num": 167622,
+        "word": "这个牛魔王还穿着尿不湿",
+        "onboard_time": 1674803366,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163941,
+        "num": 163941,
+        "word": "爷爷保护孙子不慎滑倒把娃铲飞",
+        "onboard_time": 1674808046,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156858,
+        "num": 156858,
+        "word": "假期结束你想上班吗",
+        "onboard_time": 1674804446,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152057,
+        "num": 152057,
+        "word": "黄渤说荣梓杉抱上EDG大腿了",
+        "onboard_time": 1674804506,
+        "rank": 35,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 150227,
+        "num": 150227,
+        "word": "流浪地球2票房破20亿",
+        "onboard_time": 1674795626,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147063,
+        "num": 147063,
+        "word": "宋祖儿折腰进组视频",
+        "onboard_time": 1674801205,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140580,
+        "num": 140580,
+        "word": "百万保时捷停斗香上被烧毁",
+        "onboard_time": 1674785546,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139728,
+        "num": 139728,
+        "word": "贺峻霖说采访中国乒乓是圆梦",
+        "onboard_time": 1674803066,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128041,
+        "num": 128041,
+        "word": "正月初六对生意人意味着什么",
+        "onboard_time": 1674787645,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 123450,
+        "num": 123450,
+        "word": "一份椒麻鸡里有23块鸡屁股",
+        "onboard_time": 1674808348,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121073,
+        "num": 121073,
+        "word": "这猫咪看起来也太成熟了吧",
+        "onboard_time": 1674797425,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119887,
+        "num": 119887,
+        "word": "东北忘关单元门楼道冻成冰溶洞",
+        "onboard_time": 1674787225,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117986,
+        "num": 117986,
+        "word": "王一博无名吐烟圈是现场发挥的",
+        "onboard_time": 1674781826,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113093,
+        "num": 113093,
+        "word": "霉霉新歌LavenderHaze",
+        "onboard_time": 1674798565,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113067,
+        "num": 113067,
+        "word": "西西帕斯 澳网决赛",
+        "onboard_time": 1674808465,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110450,
+        "num": 110450,
+        "word": "5名中国公民在半月湾枪击事件中遇难",
+        "onboard_time": 1674789808,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 107749,
+        "num": 107749,
+        "word": "去有风的地方杀青照拍摄花絮",
+        "onboard_time": 1674796105,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105102,
+        "num": 105102,
+        "word": "女子回家过年14人睡同1屋",
+        "onboard_time": 1674808585,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大年初六顺顺利利#"
+    }
+  }
+}
