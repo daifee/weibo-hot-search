@@ -1,0 +1,410 @@
+{
+  "runTime": 1674803794054,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1048763,
+        "num": 1048763,
+        "word": "国航航班颠簸下坠乘客录视频防不测",
+        "onboard_time": 1674800967,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1040209,
+        "num": 1040209,
+        "word": "这年 又过完了",
+        "onboard_time": 1674800605,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47287,
+        "num": 887179,
+        "word": "品味浓浓的年味",
+        "onboard_time": 1674790344,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876051,
+        "num": 876051,
+        "word": "吴京 恨嫁糙男",
+        "onboard_time": 1674801265,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 620494,
+        "num": 620494,
+        "word": "男孩逛景区被鹈鹕灌顶",
+        "onboard_time": 1674799644,
+        "rank": 4,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 573311,
+        "num": 573311,
+        "word": "弟弟攒5年压岁钱给姐姐买万元金镯",
+        "onboard_time": 1674795687,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559438,
+        "num": 559438,
+        "word": "momoland解散",
+        "onboard_time": 1674803607,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534743,
+        "num": 534743,
+        "word": "狂飙豆瓣评分涨至9.0分",
+        "onboard_time": 1674798087,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 511465,
+        "num": 511465,
+        "word": "苏有朋邀请王俊凯参加项目被拒绝",
+        "onboard_time": 1674794065,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 445629,
+        "num": 445629,
+        "word": "爱奇艺2023待播剧片单",
+        "onboard_time": 1674797486,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 560043,
+        "num": 438933,
+        "word": "吴京恳请大家不要再宣传300亿票房",
+        "onboard_time": 1674776836,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427187,
+        "num": 427187,
+        "word": "35岁单身女子时隔三年回家被问生子",
+        "onboard_time": 1674802287,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378760,
+        "num": 378760,
+        "word": "贺峻霖说采访中国乒乓是圆梦",
+        "onboard_time": 1674803066,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365965,
+        "num": 365965,
+        "word": "沈腾在西虹市首富里背过满江红",
+        "onboard_time": 1674792866,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290170,
+        "num": 290170,
+        "word": "王一栩说杨幂会唱狐妖小红娘月红篇OST",
+        "onboard_time": 1674802586,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288958,
+        "num": 288958,
+        "word": "TXT 回归",
+        "onboard_time": 1674789988,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263987,
+        "num": 263987,
+        "word": "流浪地球2票房破20亿",
+        "onboard_time": 1674795626,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263095,
+        "num": 263095,
+        "word": "孙红雷曾为高叶鸣不平",
+        "onboard_time": 1674792565,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239776,
+        "num": 239776,
+        "word": "百万保时捷停斗香上被烧毁",
+        "onboard_time": 1674785546,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193358,
+        "num": 193358,
+        "word": "外地游客首次体验东北鸳鸯锅澡堂",
+        "onboard_time": 1674798565,
+        "rank": 19,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 250232,
+        "num": 192707,
+        "word": "吴京改了韩朵朵的人物设定",
+        "onboard_time": 1674787586,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245953,
+        "num": 192356,
+        "word": "宋祖儿折腰进组视频",
+        "onboard_time": 1674801205,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239852,
+        "num": 191283,
+        "word": "岳将军的满江红已经名扬天下了",
+        "onboard_time": 1674788906,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230181,
+        "num": 189841,
+        "word": "崔然竣新歌MV镜头",
+        "onboard_time": 1674803425,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209575,
+        "num": 189085,
+        "word": "霉霉新歌LavenderHaze",
+        "onboard_time": 1674798565,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188775,
+        "num": 188775,
+        "word": "高启强还是对泰叔动手了",
+        "onboard_time": 1674794843,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181480,
+        "num": 181480,
+        "word": "这猫咪看起来也太成熟了吧",
+        "onboard_time": 1674797425,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180023,
+        "num": 180023,
+        "word": "正月初六对生意人意味着什么",
+        "onboard_time": 1674787645,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 163239,
+        "num": 163239,
+        "word": "背诵满江红可免费游岳飞庙",
+        "onboard_time": 1674795806,
+        "rank": 28,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 161279,
+        "num": 161279,
+        "word": "5名中国公民在半月湾枪击事件中遇难",
+        "onboard_time": 1674789808,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 179042,
+        "num": 160797,
+        "word": "崔秀彬新歌MV镜头",
+        "onboard_time": 1674802586,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173959,
+        "num": 160213,
+        "word": "王一博无名吐烟圈是现场发挥的",
+        "onboard_time": 1674781826,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166736,
+        "num": 159635,
+        "word": "0713年度述职报告会",
+        "onboard_time": 1674801385,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163360,
+        "num": 159169,
+        "word": "崔杋圭新歌MV镜头",
+        "onboard_time": 1674802884,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158471,
+        "num": 158471,
+        "word": "孟钰求婚被拒一秒含泪",
+        "onboard_time": 1674784345,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155271,
+        "num": 155271,
+        "word": "东北忘关单元门楼道冻成冰溶洞",
+        "onboard_time": 1674787225,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153475,
+        "num": 153475,
+        "word": "TXT新歌上线",
+        "onboard_time": 1674799225,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142055,
+        "num": 142055,
+        "word": "墨子 lwx",
+        "onboard_time": 1674778042,
+        "rank": 37,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 139517,
+        "num": 139517,
+        "word": "光与夜之恋萧逸",
+        "onboard_time": 1674794486,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130707,
+        "num": 130707,
+        "word": "女儿返程点千元外卖塞满父母冰箱",
+        "onboard_time": 1674788187,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126708,
+        "num": 126708,
+        "word": "德云社节目单",
+        "onboard_time": 1674788906,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120250,
+        "num": 120250,
+        "word": "丹东站几乎每人都拎着泡沫箱子",
+        "onboard_time": 1674803486,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115900,
+        "num": 115900,
+        "word": "去有风的地方杀青照拍摄花絮",
+        "onboard_time": 1674796105,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115135,
+        "num": 115135,
+        "word": "高启兰",
+        "onboard_time": 1674788547,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108343,
+        "num": 108343,
+        "word": "假期剩5天作业剩7本女孩崩溃大哭",
+        "onboard_time": 1674783265,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 106390,
+        "num": 106390,
+        "word": "C罗被铲伤",
+        "onboard_time": 1674789388,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104740,
+        "num": 104740,
+        "word": "安欣什么都没有了",
+        "onboard_time": 1674794787,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104069,
+        "num": 104069,
+        "word": "熊猫宝宝睡觉每一根毛都是可爱",
+        "onboard_time": 1674800426,
+        "rank": 47,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 103254,
+        "num": 103254,
+        "word": "这个牛魔王还穿着尿不湿",
+        "onboard_time": 1674803366,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103078,
+        "num": 103078,
+        "word": "1米85大长腿交警回应走红",
+        "onboard_time": 1674776418,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大年初六顺顺利利#"
+    }
+  }
+}
