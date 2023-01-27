@@ -1,6 +1,6 @@
 {
   "startTime": 1674750270610,
-  "endTime": 1674818155173,
+  "endTime": 1674819210313,
   "band_list": [
     {
       "raw_hot": 2118812,
@@ -227,8 +227,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 872277,
-      "num": 872277,
+      "raw_hot": 903405,
+      "num": 903405,
+      "word": "你了解许嵩吗",
+      "onboard_time": 1674817587,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 874803,
+      "num": 874803,
       "word": "3个同龄表哥过年走亲戚互不讲话",
       "onboard_time": 1674813807,
       "rank": 17,
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 833314,
+      "num": 833314,
+      "word": "男子与女友吵完架开车2分钟扣分22",
+      "onboard_time": 1674814407,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 828878,
       "num": 828878,
       "word": "爱奇艺2023待播剧片单",
@@ -265,14 +281,6 @@
       "onboard_time": 1674748287,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 788196,
-      "num": 788196,
-      "word": "男子与女友吵完架开车2分钟扣分22",
-      "onboard_time": 1674814407,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 771742,
@@ -353,6 +361,14 @@
       "onboard_time": 1674778042,
       "rank": 6,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 681350,
+      "num": 681350,
+      "word": "北海市监局回应4个菜1500元",
+      "onboard_time": 1674815486,
+      "rank": 42,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 678268,
@@ -515,20 +531,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 500458,
-      "num": 500458,
-      "word": "北海市监局回应4个菜1500元",
-      "onboard_time": 1674815486,
-      "rank": 42,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 499164,
       "num": 499164,
       "word": "张远王栎鑫陆虎跳宋木子之歌",
       "onboard_time": 1674748647,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 498028,
+      "num": 498028,
+      "word": "心疼李响",
+      "onboard_time": 1674816027,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 493539,
@@ -555,12 +571,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449408,
+      "num": 449408,
+      "word": "原来刘德华早就有数字生命了",
+      "onboard_time": 1674818247,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 447330,
+      "num": 447330,
+      "word": "宋亚轩倒走红毯",
+      "onboard_time": 1674817768,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437832,
       "num": 437832,
       "word": "女子回家过年14人睡同1屋",
       "onboard_time": 1674808585,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427085,
+      "num": 427085,
+      "word": "李现去有风的地方大结局特辑",
+      "onboard_time": 1674818307,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 424639,
@@ -595,14 +635,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 399758,
-      "num": 399758,
-      "word": "你了解许嵩吗",
-      "onboard_time": 1674817587,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 394318,
       "num": 394318,
       "word": "张译好有魅力",
@@ -632,6 +664,14 @@
       "word": "顾客排队买特产顺手帮店员折包装盒",
       "onboard_time": 1674744152,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381452,
+      "num": 381452,
+      "word": "辱母案当事人于欢升级当爸",
+      "onboard_time": 1674817287,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -667,20 +707,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 374958,
+      "num": 374958,
+      "word": "原来婚礼还可以这么办",
+      "onboard_time": 1674816146,
+      "rank": 17,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 367476,
       "num": 367476,
       "word": "流浪地球2票房破18亿",
       "onboard_time": 1674777560,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 366831,
-      "num": 366831,
-      "word": "宋亚轩倒走红毯",
-      "onboard_time": 1674817768,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 354974,
@@ -713,14 +753,6 @@
       "onboard_time": 1674812666,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 345165,
-      "num": 345165,
-      "word": "原来婚礼还可以这么办",
-      "onboard_time": 1674816146,
-      "rank": 17,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 344800,
@@ -835,12 +867,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300372,
+      "num": 300372,
+      "word": "宋亚轩靠在马嘉祺肩膀上撒娇",
+      "onboard_time": 1674819147,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300030,
       "num": 300030,
       "word": "流浪地球2用真诚换观众真心",
       "onboard_time": 1674804506,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298189,
+      "num": 298189,
+      "word": "四川自贡26米巨型兔子灯",
+      "onboard_time": 1674816626,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290773,
@@ -865,6 +913,14 @@
       "onboard_time": 1674781524,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284291,
+      "num": 284291,
+      "word": "时代少年团式签名",
+      "onboard_time": 1674819028,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 279481,
@@ -947,14 +1003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 263866,
-      "num": 263866,
-      "word": "四川自贡26米巨型兔子灯",
-      "onboard_time": 1674816626,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263409,
       "num": 263409,
       "word": "无名还有王一博跳舞逗狗花絮",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1674745292,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247416,
+      "num": 247416,
+      "word": "李宏毅说既然天选我那我就应天",
+      "onboard_time": 1674818967,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 247078,
@@ -1115,14 +1171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218931,
-      "num": 218931,
-      "word": "心疼李响",
-      "onboard_time": 1674816027,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 218416,
       "num": 218416,
       "word": "外地游客首次体验东北鸳鸯锅澡堂",
@@ -1163,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207305,
+      "num": 207305,
+      "word": "国航回应西安飞温州航班剧烈颠簸",
+      "onboard_time": 1674815847,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205892,
       "num": 205892,
       "word": "刘亦菲李现去有风的地方今晚大结局",
@@ -1179,14 +1235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205726,
-      "num": 205726,
-      "word": "辱母案当事人于欢升级当爸",
-      "onboard_time": 1674817287,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204357,
       "num": 204357,
       "word": "张天爱粉色格子造型",
@@ -1200,14 +1248,6 @@
       "word": "一句话形容包邮区有多冷",
       "onboard_time": 1674811887,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203890,
-      "num": 203890,
-      "word": "国航回应西安飞温州航班剧烈颠簸",
-      "onboard_time": 1674815847,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1451,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153032,
+      "num": 153032,
+      "word": "牛骏峰说期待胡有鱼的北漂之旅",
+      "onboard_time": 1674818247,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152629,
       "num": 152629,
       "word": "Doinb直播",
@@ -1625,6 +1673,14 @@
       "onboard_time": 1674738389,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130498,
+      "num": 941370,
+      "word": "离别是为了更好的重逢",
+      "onboard_time": 1674818369,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130142,
