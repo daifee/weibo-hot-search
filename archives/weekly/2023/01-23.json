@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674844563716,
+  "endTime": 1674846879661,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -9923,6 +9923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94136,
+      "num": 94136,
+      "word": "友情怎样写最刀",
+      "onboard_time": 1674843195,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93602,
       "num": 93602,
       "word": "爷爷用饱经沧桑的手为孙女写下祝福",
@@ -10289,14 +10297,6 @@
       "onboard_time": 1674279563,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 41780,
-      "num": 41780,
-      "word": "友情怎样写最刀",
-      "onboard_time": 1674843195,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 38922,

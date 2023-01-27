@@ -1,6 +1,6 @@
 {
   "startTime": 1674836705003,
-  "endTime": 1674844563716,
+  "endTime": 1674846879661,
   "band_list": [
     {
       "raw_hot": 1059429,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94136,
+      "num": 94136,
+      "word": "友情怎样写最刀",
+      "onboard_time": 1674843195,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93337,
       "num": 93337,
       "word": "喝酒喝多的人都能干出啥事",
@@ -441,14 +449,6 @@
       "onboard_time": 1674824188,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 41780,
-      "num": 41780,
-      "word": "友情怎样写最刀",
-      "onboard_time": 1674843195,
-      "rank": 49,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
