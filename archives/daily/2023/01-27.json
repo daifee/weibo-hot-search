@@ -1,6 +1,6 @@
 {
   "startTime": 1674750270610,
-  "endTime": 1674783501954,
+  "endTime": 1674784705703,
   "band_list": [
     {
       "raw_hot": 2118812,
@@ -51,12 +51,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 951143,
-      "num": 951143,
+      "raw_hot": 1015486,
+      "num": 1015486,
       "word": "狂飙导演点赞原定主演是杨洋的微博",
       "onboard_time": 1674776537,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 940464,
+      "num": 940464,
+      "word": "女子发现初中时收到的礼物暗藏情书",
+      "onboard_time": 1674781524,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 924194,
@@ -72,14 +80,6 @@
       "word": "1米85大长腿交警回应走红",
       "onboard_time": 1674776418,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 885767,
-      "num": 885767,
-      "word": "女子发现初中时收到的礼物暗藏情书",
-      "onboard_time": 1674781524,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -115,6 +115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713216,
+      "num": 713216,
+      "word": "万元戒指被亲戚家孩子扔进农田",
+      "onboard_time": 1674782005,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 705362,
+      "num": 705362,
+      "word": "王一博无名吐烟圈是现场发挥的",
+      "onboard_time": 1674781826,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 688583,
       "num": 688583,
       "word": "墨子 lwx",
@@ -145,14 +161,6 @@
       "onboard_time": 1674730768,
       "rank": 11,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 588972,
-      "num": 588972,
-      "word": "王一博无名吐烟圈是现场发挥的",
-      "onboard_time": 1674781826,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 584020,
@@ -187,20 +195,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 498553,
-      "num": 498553,
-      "word": "万元戒指被亲戚家孩子扔进农田",
-      "onboard_time": 1674782005,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 451281,
       "num": 451281,
       "word": "鱼刺卡喉该去挂哪个科",
       "onboard_time": 1674777862,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437514,
+      "num": 437514,
+      "word": "假期剩5天作业剩7本女孩崩溃大哭",
+      "onboard_time": 1674783265,
+      "rank": 40,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 394318,
@@ -243,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342066,
+      "num": 342066,
+      "word": "女子为逃避催婚去泰国过年",
+      "onboard_time": 1674782787,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336145,
       "num": 336145,
       "word": "CCTV6春节首播万里归途",
@@ -283,8 +299,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272631,
-      "num": 272631,
+      "raw_hot": 278639,
+      "num": 278639,
       "word": "C罗无缘沙超杯决赛",
       "onboard_time": 1674780987,
       "rank": 20,
@@ -305,6 +321,14 @@
       "onboard_time": 1674750923,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267272,
+      "num": 267272,
+      "word": "王鹤棣给粉丝拜年",
+      "onboard_time": 1674783986,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 260262,
@@ -347,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 245348,
+      "num": 201076,
+      "word": "高明远高启强什么关系",
+      "onboard_time": 1674784286,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244454,
       "num": 244454,
       "word": "这一走又是明年见了",
@@ -379,11 +411,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222291,
-      "num": 222291,
-      "word": "女子为逃避催婚去泰国过年",
-      "onboard_time": 1674782787,
-      "rank": 26,
+      "raw_hot": 208622,
+      "num": 208622,
+      "word": "孩子年后返程八旬母亲悄悄抹泪",
+      "onboard_time": 1674782305,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -409,6 +441,14 @@
       "onboard_time": 1674779002,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201726,
+      "num": 201726,
+      "word": "杨超越说微博上有很多能人异士",
+      "onboard_time": 1674783565,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 190568,
@@ -475,20 +515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162520,
+      "num": 162520,
+      "word": "孟钰求婚被拒一秒含泪",
+      "onboard_time": 1674784345,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162259,
       "num": 162259,
       "word": "许光汉韩国见面会生图",
       "onboard_time": 1674754398,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158900,
-      "num": 158900,
-      "word": "孩子年后返程八旬母亲悄悄抹泪",
-      "onboard_time": 1674782305,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153403,
@@ -523,20 +563,20 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 147250,
+      "num": 147250,
+      "word": "大年初六",
+      "onboard_time": 1674774795,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145590,
       "num": 145590,
       "word": "春节凭这道菜胖了3斤",
       "onboard_time": 1674782666,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 144511,
-      "num": 144511,
-      "word": "大年初六",
-      "onboard_time": 1674774795,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 144291,
@@ -569,14 +609,6 @@
       "onboard_time": 1674744030,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 136308,
-      "num": 136308,
-      "word": "假期剩5天作业剩7本女孩崩溃大哭",
-      "onboard_time": 1674783265,
-      "rank": 40,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 135407,
@@ -651,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116514,
+      "num": 116514,
+      "word": "时团抢张真源纳的千层底布鞋",
+      "onboard_time": 1674780625,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109415,
       "num": 109415,
       "word": "吉达联合3比1利雅得胜利",
@@ -667,12 +707,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104462,
-      "num": 104462,
-      "word": "时团抢张真源纳的千层底布鞋",
-      "onboard_time": 1674780625,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 107038,
+      "num": 107038,
+      "word": "俄方称将派出战斗机器人应对西方坦克",
+      "onboard_time": 1674784646,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 99966,

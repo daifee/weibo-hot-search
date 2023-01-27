@@ -1,0 +1,410 @@
+{
+  "runTime": 1674784705703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2058692,
+        "num": 2058692,
+        "word": "吴京恳请大家不要再宣传300亿票房",
+        "onboard_time": 1674776836,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1053997,
+        "num": 1053997,
+        "word": "游客爆料北海用餐4个菜1500元",
+        "onboard_time": 1674777138,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4663,
+        "num": 1030965,
+        "word": "新时代 我在中国",
+        "onboard_time": 1674702987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015486,
+        "num": 1015486,
+        "word": "狂飙导演点赞原定主演是杨洋的微博",
+        "onboard_time": 1674776537,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 940464,
+        "num": 940464,
+        "word": "女子发现初中时收到的礼物暗藏情书",
+        "onboard_time": 1674781524,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869892,
+        "num": 869892,
+        "word": "1米85大长腿交警回应走红",
+        "onboard_time": 1674776418,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713216,
+        "num": 713216,
+        "word": "万元戒指被亲戚家孩子扔进农田",
+        "onboard_time": 1674782005,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705362,
+        "num": 705362,
+        "word": "王一博无名吐烟圈是现场发挥的",
+        "onboard_time": 1674781826,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 629479,
+        "num": 629479,
+        "word": "墨子 lwx",
+        "onboard_time": 1674778042,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 553351,
+        "num": 553351,
+        "word": "狂飙全员be",
+        "onboard_time": 1674737607,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499286,
+        "num": 499286,
+        "word": "大年初六送穷",
+        "onboard_time": 1674774675,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437514,
+        "num": 437514,
+        "word": "假期剩5天作业剩7本女孩崩溃大哭",
+        "onboard_time": 1674783265,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 388328,
+        "num": 388328,
+        "word": "王一博说路演可能是为无名做的最后一件事了",
+        "onboard_time": 1674776657,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357658,
+        "num": 357658,
+        "word": "陈书婷怎么死的",
+        "onboard_time": 1674742350,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342066,
+        "num": 342066,
+        "word": "女子为逃避催婚去泰国过年",
+        "onboard_time": 1674782787,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340944,
+        "num": 340944,
+        "word": "张译好有魅力",
+        "onboard_time": 1674774135,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336227,
+        "num": 336227,
+        "word": "鱼刺卡喉该去挂哪个科",
+        "onboard_time": 1674777862,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315976,
+        "num": 315976,
+        "word": "狂飙 下刀子",
+        "onboard_time": 1674778402,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302993,
+        "num": 302993,
+        "word": "2023NBA全明星首发名单",
+        "onboard_time": 1674780625,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301345,
+        "num": 301345,
+        "word": "流浪地球2票房破18亿",
+        "onboard_time": 1674777560,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288632,
+        "num": 288632,
+        "word": "满江红发声明",
+        "onboard_time": 1674725425,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278639,
+        "num": 278639,
+        "word": "C罗无缘沙超杯决赛",
+        "onboard_time": 1674780987,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267272,
+        "num": 267272,
+        "word": "王鹤棣给粉丝拜年",
+        "onboard_time": 1674783986,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249591,
+        "num": 249591,
+        "word": "张译演技",
+        "onboard_time": 1674778162,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247722,
+        "num": 247722,
+        "word": "墨子回应Tian传闻",
+        "onboard_time": 1674778162,
+        "rank": 24,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 222527,
+        "num": 222527,
+        "word": "这一走又是明年见了",
+        "onboard_time": 1674774916,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220794,
+        "num": 220794,
+        "word": "陈楚生没有坐过硬卧",
+        "onboard_time": 1674781524,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208622,
+        "num": 208622,
+        "word": "孩子年后返程八旬母亲悄悄抹泪",
+        "onboard_time": 1674782305,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206581,
+        "num": 206581,
+        "word": "金泰亨被选为全球最帅男性",
+        "onboard_time": 1674743610,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201726,
+        "num": 201726,
+        "word": "杨超越说微博上有很多能人异士",
+        "onboard_time": 1674783565,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245348,
+        "num": 201076,
+        "word": "高明远高启强什么关系",
+        "onboard_time": 1674784286,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199679,
+        "num": 199679,
+        "word": "刘亦菲李现去有风的地方今晚大结局",
+        "onboard_time": 1674780987,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190142,
+        "num": 190142,
+        "word": "喝粥真能养胃吗",
+        "onboard_time": 1674780142,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189310,
+        "num": 189310,
+        "word": "许红豆谢之遥吻戏名场面",
+        "onboard_time": 1674776356,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180428,
+        "num": 180428,
+        "word": "科比去世3周年",
+        "onboard_time": 1674779183,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166703,
+        "num": 166703,
+        "word": "电影无名票房逆跌",
+        "onboard_time": 1674743970,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162520,
+        "num": 162520,
+        "word": "孟钰求婚被拒一秒含泪",
+        "onboard_time": 1674784345,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159811,
+        "num": 159811,
+        "word": "狗子走得好有规律",
+        "onboard_time": 1674779002,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150372,
+        "num": 150372,
+        "word": "充电器一拔再见又是新一年",
+        "onboard_time": 1674746608,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147250,
+        "num": 147250,
+        "word": "大年初六",
+        "onboard_time": 1674774795,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134326,
+        "num": 134326,
+        "word": "金贡",
+        "onboard_time": 1674747866,
+        "rank": 40,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 133728,
+        "num": 133728,
+        "word": "狗狗走失一个月回家狂撞门",
+        "onboard_time": 1674748227,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131080,
+        "num": 131080,
+        "word": "带三胞胎爬五指山三大三小全被困",
+        "onboard_time": 1674753079,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116514,
+        "num": 116514,
+        "word": "时团抢张真源纳的千层底布鞋",
+        "onboard_time": 1674780625,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111875,
+        "num": 111875,
+        "word": "在云南排骨独一无二的吃法",
+        "onboard_time": 1674779363,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111262,
+        "num": 111262,
+        "word": "无名 镜头美学",
+        "onboard_time": 1674783145,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107316,
+        "num": 107316,
+        "word": "Tian回应",
+        "onboard_time": 1674741810,
+        "rank": 46,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 107038,
+        "num": 107038,
+        "word": "俄方称将派出战斗机器人应对西方坦克",
+        "onboard_time": 1674784646,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 106240,
+        "num": 106240,
+        "word": "李现说过年不要随便逗孩子",
+        "onboard_time": 1674738869,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105956,
+        "num": 105956,
+        "word": "这就是疑是银河落九天吧",
+        "onboard_time": 1674779903,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#正月里的锦绣山河#"
+    }
+  }
+}
