@@ -1,0 +1,410 @@
+{
+  "runTime": 1674843740192,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 356842,
+        "num": 356842,
+        "word": "狂飙",
+        "onboard_time": 1674819748,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277233,
+        "num": 277233,
+        "word": "流浪地球2周边众筹已超3200万",
+        "onboard_time": 1674834746,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24592,
+        "num": 230131,
+        "word": "离家的行囊满是爱和牵挂",
+        "onboard_time": 1674828749,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192548,
+        "num": 192548,
+        "word": "张朝阳建议流浪地球3加入拉格朗日点",
+        "onboard_time": 1674833906,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190306,
+        "num": 190306,
+        "word": "狂飙大结局那天是李响头七",
+        "onboard_time": 1674832229,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161470,
+        "num": 161470,
+        "word": "男子花20多万到三亚度假遭遇节约型爸妈",
+        "onboard_time": 1674831030,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158660,
+        "num": 158660,
+        "word": "俞灏明回应拿快男第六的原因",
+        "onboard_time": 1674835825,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121999,
+        "num": 121999,
+        "word": "奶奶将女孩的小狗低价卖掉",
+        "onboard_time": 1674824487,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118181,
+        "num": 118181,
+        "word": "SEVENTEEN 奖杯",
+        "onboard_time": 1674823828,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110301,
+        "num": 110301,
+        "word": "女子路遇大老鼠不慎摔倒砸死老鼠",
+        "onboard_time": 1674827847,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127897,
+        "num": 109049,
+        "word": "张译张颂文对手戏好有张力",
+        "onboard_time": 1674842174,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117997,
+        "num": 105197,
+        "word": "易烊千玺满江红镜头感",
+        "onboard_time": 1674835407,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115326,
+        "num": 101616,
+        "word": "吴京说如果可以会选择数字生命",
+        "onboard_time": 1674839839,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115827,
+        "num": 96687,
+        "word": "何立的腰",
+        "onboard_time": 1674832889,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93308,
+        "num": 93308,
+        "word": "三体 还原的嘞",
+        "onboard_time": 1674831750,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92734,
+        "num": 92734,
+        "word": "女子帮妈妈烧锅把美甲烧化了",
+        "onboard_time": 1674840857,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83035,
+        "num": 83035,
+        "word": "仙女棒在橘子里不会灭",
+        "onboard_time": 1674832650,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77814,
+        "num": 77814,
+        "word": "原来刘德华早就有数字生命了",
+        "onboard_time": 1674818247,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68478,
+        "num": 68478,
+        "word": "北海市监局回应4个菜1500元",
+        "onboard_time": 1674815486,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 68017,
+        "num": 68017,
+        "word": "转眼间三个女儿都长大了",
+        "onboard_time": 1674835705,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 72736,
+        "num": 63722,
+        "word": "高叶 拍边境风云差点窒息",
+        "onboard_time": 1674823708,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68575,
+        "num": 62519,
+        "word": "去有风的地方大结局是HE",
+        "onboard_time": 1674825387,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58873,
+        "num": 58873,
+        "word": "这违停都抄不到牌",
+        "onboard_time": 1674831508,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57287,
+        "num": 57287,
+        "word": "王鹤棣在机场被粉丝怼脸拍",
+        "onboard_time": 1674828031,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57177,
+        "num": 57177,
+        "word": "王一博拍完无名最后一场戏恋恋不舍",
+        "onboard_time": 1674822325,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56815,
+        "num": 56815,
+        "word": "安欣高启强饭搭子Be",
+        "onboard_time": 1674828205,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55067,
+        "num": 55067,
+        "word": "世上从此有了满江红",
+        "onboard_time": 1674833009,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53037,
+        "num": 53037,
+        "word": "辱母案当事人于欢升级当爸",
+        "onboard_time": 1674817287,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50234,
+        "num": 50234,
+        "word": "金渐层是可以这样撸的吗",
+        "onboard_time": 1674833368,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 48555,
+        "num": 48555,
+        "word": "这孩子演技太厉害不像演的",
+        "onboard_time": 1674834988,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48079,
+        "num": 48079,
+        "word": "流浪地球2为后人开路",
+        "onboard_time": 1674830490,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46453,
+        "num": 46453,
+        "word": "看完流浪地球杭二中师生沸腾了",
+        "onboard_time": 1674822570,
+        "rank": 31,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 45420,
+        "num": 45420,
+        "word": "喝酒喝多的人都能干出啥事",
+        "onboard_time": 1674823408,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44706,
+        "num": 44706,
+        "word": "高叶从此大嫂有了脸",
+        "onboard_time": 1674826288,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43258,
+        "num": 43258,
+        "word": "明天上班",
+        "onboard_time": 1674826946,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 39716,
+        "num": 39716,
+        "word": "丹东站几乎每人都拎着泡沫箱子",
+        "onboard_time": 1674803486,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37940,
+        "num": 37940,
+        "word": "叶知秋",
+        "onboard_time": 1674812786,
+        "rank": 36,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 37434,
+        "num": 37434,
+        "word": "秦始皇说方言",
+        "onboard_time": 1674831388,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36504,
+        "num": 36504,
+        "word": "2023年春节档票房破67亿元",
+        "onboard_time": 1674830548,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35611,
+        "num": 35611,
+        "word": "沙溢到底杀青了多少回",
+        "onboard_time": 1674825865,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35533,
+        "num": 35533,
+        "word": "赵丽颖给唐艺昕新剧打call",
+        "onboard_time": 1674820349,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34206,
+        "num": 34206,
+        "word": "陈楚生脱口秀节奏太好了",
+        "onboard_time": 1674832531,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33915,
+        "num": 33915,
+        "word": "许红豆说风会带着我们的故事飞去远方",
+        "onboard_time": 1674836003,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32399,
+        "num": 32399,
+        "word": "宋亚轩贺峻霖的私人恩怨",
+        "onboard_time": 1674820527,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32138,
+        "num": 32138,
+        "word": "红豆遥遥冰一吻定格",
+        "onboard_time": 1674825808,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32099,
+        "num": 32099,
+        "word": "万里归途首播收视破1",
+        "onboard_time": 1674826348,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28872,
+        "num": 28872,
+        "word": "三体人列计算机梦回奥运开幕式",
+        "onboard_time": 1674828270,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28866,
+        "num": 28866,
+        "word": "3个同龄表哥过年走亲戚互不讲话",
+        "onboard_time": 1674813807,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26772,
+        "num": 26772,
+        "word": "男子与女友吵完架开车2分钟扣分22",
+        "onboard_time": 1674814407,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25819,
+        "num": 25819,
+        "word": "友情怎样写最刀",
+        "onboard_time": 1674843195,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#向春而行#"
+    }
+  }
+}

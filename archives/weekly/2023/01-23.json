@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674840816779,
+  "endTime": 1674843740192,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -9155,6 +9155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127897,
+      "num": 109049,
+      "word": "张译张颂文对手戏好有张力",
+      "onboard_time": 1674842174,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127714,
       "num": 127714,
       "word": "春节剩饭处理指南",
@@ -9504,6 +9512,14 @@
       "word": "谢怀兰送许红豆家传嫁妆",
       "onboard_time": 1674792388,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 115326,
+      "num": 101616,
+      "word": "吴京说如果可以会选择数字生命",
+      "onboard_time": 1674839839,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -9915,6 +9931,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 92734,
+      "num": 92734,
+      "word": "女子帮妈妈烧锅把美甲烧化了",
+      "onboard_time": 1674840857,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92043,
       "num": 67171,
       "word": "北京卫视让沈腾马丽常远艾伦唱歌",
@@ -10009,14 +10033,6 @@
       "onboard_time": 1674480208,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 81502,
-      "num": 81502,
-      "word": "吴京说如果可以会选择数字生命",
-      "onboard_time": 1674839839,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 80867,
@@ -10329,6 +10345,14 @@
       "onboard_time": 1674391589,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25819,
+      "num": 25819,
+      "word": "友情怎样写最刀",
+      "onboard_time": 1674843195,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 25803,

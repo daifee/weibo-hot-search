@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674840816779,
+  "endTime": 1674843740192,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -58027,6 +58027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127897,
+      "num": 109049,
+      "word": "张译张颂文对手戏好有张力",
+      "onboard_time": 1674842174,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127804,
       "num": 161490,
       "word": "一诺初雪大片",
@@ -59889,6 +59897,14 @@
       "onboard_time": 1673393602,
       "rank": 26,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 115326,
+      "num": 101616,
+      "word": "吴京说如果可以会选择数字生命",
+      "onboard_time": 1674839839,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 115320,
@@ -62643,6 +62659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92734,
+      "num": 92734,
+      "word": "女子帮妈妈烧锅把美甲烧化了",
+      "onboard_time": 1674840857,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92716,
       "num": 92716,
       "word": "一听到这首歌就知道过年了",
@@ -63233,14 +63257,6 @@
       "onboard_time": 1673500657,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81502,
-      "num": 81502,
-      "word": "吴京说如果可以会选择数字生命",
-      "onboard_time": 1674839839,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 81445,
@@ -64953,6 +64969,14 @@
       "onboard_time": 1673635756,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 25819,
+      "num": 25819,
+      "word": "友情怎样写最刀",
+      "onboard_time": 1674843195,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 25772,
