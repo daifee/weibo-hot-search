@@ -1,6 +1,6 @@
 {
   "startTime": 1674836705003,
-  "endTime": 1674846879661,
+  "endTime": 1674848013005,
   "band_list": [
     {
       "raw_hot": 1059429,
@@ -449,6 +449,14 @@
       "onboard_time": 1674824188,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 16541,
+      "num": 16541,
+      "word": "男子春节逆向旅游深圳承包整片沙滩",
+      "onboard_time": 1674847332,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
