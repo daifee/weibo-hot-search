@@ -1,6 +1,6 @@
 {
   "startTime": 1674750270610,
-  "endTime": 1674815736577,
+  "endTime": 1674818155173,
   "band_list": [
     {
       "raw_hot": 2118812,
@@ -25,6 +25,14 @@
       "onboard_time": 1674812427,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1573654,
+      "num": 1573654,
+      "word": "叶知秋",
+      "onboard_time": 1674812786,
+      "rank": 3,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1470807,
@@ -123,14 +131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1137466,
-      "num": 1137466,
-      "word": "叶知秋",
-      "onboard_time": 1674812786,
-      "rank": 3,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 1126723,
       "num": 1126723,
       "word": "游客爆料北海用餐4个菜1500元",
@@ -145,6 +145,14 @@
       "onboard_time": 1674795687,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1070659,
+      "num": 1070659,
+      "word": "张若昀给唐艺昕新剧打call",
+      "onboard_time": 1674814464,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 1040209,
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872277,
+      "num": 872277,
+      "word": "3个同龄表哥过年走亲戚互不讲话",
+      "onboard_time": 1674813807,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 853711,
       "num": 853711,
       "word": "假期剩5天作业剩7本女孩崩溃大哭",
@@ -249,6 +265,14 @@
       "onboard_time": 1674748287,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 788196,
+      "num": 788196,
+      "word": "男子与女友吵完架开车2分钟扣分22",
+      "onboard_time": 1674814407,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 771742,
@@ -288,14 +312,6 @@
       "word": "谢楠潦草推荐流浪地球2",
       "onboard_time": 1674805705,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 728876,
-      "num": 388490,
-      "word": "张若昀给唐艺昕新剧打call",
-      "onboard_time": 1674814464,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -443,14 +459,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 563140,
-      "num": 387073,
-      "word": "3个同龄表哥过年走亲戚互不讲话",
-      "onboard_time": 1674813807,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 543414,
       "num": 534278,
       "word": "王一博说路演可能是为无名做的最后一件事了",
@@ -467,12 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528563,
+      "num": 528563,
+      "word": "孙坚说自己是穷孩子出身却老演霸总",
+      "onboard_time": 1674817048,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 526088,
       "num": 526088,
       "word": "孙红雷曾为高叶鸣不平",
       "onboard_time": 1674792565,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 511109,
+      "num": 511109,
+      "word": "店家回应游客点四个菜1500元",
+      "onboard_time": 1674813807,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 504393,
@@ -488,6 +512,14 @@
       "word": "正月初六对生意人意味着什么",
       "onboard_time": 1674787645,
       "rank": 36,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 500458,
+      "num": 500458,
+      "word": "北海市监局回应4个菜1500元",
+      "onboard_time": 1674815486,
+      "rank": 42,
       "category": "社会新闻,财经"
     },
     {
@@ -531,20 +563,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428640,
-      "num": 386547,
-      "word": "店家回应游客点四个菜1500元",
-      "onboard_time": 1674813807,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 424639,
       "num": 424639,
       "word": "把香菜做成了吃不起的样子",
       "onboard_time": 1674803966,
       "rank": 25,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 414230,
+      "num": 414230,
+      "word": "严浩翔获楼斯卡最佳哔吉爱萌奖",
+      "onboard_time": 1674816986,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 403124,
@@ -561,6 +593,14 @@
       "onboard_time": 1674795806,
       "rank": 35,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 399758,
+      "num": 399758,
+      "word": "你了解许嵩吗",
+      "onboard_time": 1674817587,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 394318,
@@ -627,20 +667,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 372791,
-      "num": 372791,
-      "word": "男子与女友吵完架开车2分钟扣分22",
-      "onboard_time": 1674814407,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 367476,
       "num": 367476,
       "word": "流浪地球2票房破18亿",
       "onboard_time": 1674777560,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366831,
+      "num": 366831,
+      "word": "宋亚轩倒走红毯",
+      "onboard_time": 1674817768,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 354974,
@@ -673,6 +713,14 @@
       "onboard_time": 1674812666,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345165,
+      "num": 345165,
+      "word": "原来婚礼还可以这么办",
+      "onboard_time": 1674816146,
+      "rank": 17,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 344800,
@@ -843,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272880,
+      "num": 272880,
+      "word": "今生也是第一次今晚开播",
+      "onboard_time": 1674816208,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272749,
       "num": 272749,
       "word": "今年春节档后劲最大的电影",
@@ -891,12 +947,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263866,
+      "num": 263866,
+      "word": "四川自贡26米巨型兔子灯",
+      "onboard_time": 1674816626,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263409,
       "num": 263409,
       "word": "无名还有王一博跳舞逗狗花絮",
       "onboard_time": 1674787345,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 262269,
+      "num": 262269,
+      "word": "德约科维奇 澳网",
+      "onboard_time": 1674814827,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 262242,
@@ -1043,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218931,
+      "num": 218931,
+      "word": "心疼李响",
+      "onboard_time": 1674816027,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218416,
       "num": 218416,
       "word": "外地游客首次体验东北鸳鸯锅澡堂",
@@ -1099,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205726,
+      "num": 205726,
+      "word": "辱母案当事人于欢升级当爸",
+      "onboard_time": 1674817287,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204357,
       "num": 204357,
       "word": "张天爱粉色格子造型",
@@ -1112,6 +1200,14 @@
       "word": "一句话形容包邮区有多冷",
       "onboard_time": 1674811887,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203890,
+      "num": 203890,
+      "word": "国航回应西安飞温州航班剧烈颠簸",
+      "onboard_time": 1674815847,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1145,14 +1241,6 @@
       "onboard_time": 1674789988,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198052,
-      "num": 198052,
-      "word": "德约科维奇 澳网",
-      "onboard_time": 1674814827,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 190916,
@@ -1435,6 +1523,14 @@
       "category": "情感,影视"
     },
     {
+      "raw_hot": 142340,
+      "num": 142340,
+      "word": "一句歌词表达周五心情",
+      "onboard_time": 1674818129,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141758,
       "num": 141758,
       "word": "在云南排骨独一无二的吃法",
@@ -1547,6 +1643,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 125632,
+      "num": 125632,
+      "word": "浪漫无关年龄",
+      "onboard_time": 1674816387,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 125474,
       "num": 125474,
       "word": "张艺兴跳红包舞迎财神",
@@ -1601,14 +1705,6 @@
       "onboard_time": 1674795146,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116714,
-      "num": 116714,
-      "word": "北海市监局回应4个菜1500元",
-      "onboard_time": 1674815486,
-      "rank": 42,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 116514,

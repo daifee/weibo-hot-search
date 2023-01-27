@@ -1,0 +1,410 @@
+{
+  "runTime": 1674818155173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1573654,
+        "num": 1573654,
+        "word": "叶知秋",
+        "onboard_time": 1674812786,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1070659,
+        "num": 1070659,
+        "word": "张若昀给唐艺昕新剧打call",
+        "onboard_time": 1674814464,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25010,
+        "num": 934451,
+        "word": "品味浓浓的年味",
+        "onboard_time": 1674790344,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872277,
+        "num": 872277,
+        "word": "3个同龄表哥过年走亲戚互不讲话",
+        "onboard_time": 1674813807,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 824217,
+        "num": 824217,
+        "word": "吴京 恨嫁糙男",
+        "onboard_time": 1674801265,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 788196,
+        "num": 788196,
+        "word": "男子与女友吵完架开车2分钟扣分22",
+        "onboard_time": 1674814407,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778318,
+        "num": 778318,
+        "word": "一份椒麻鸡里有23块鸡屁股",
+        "onboard_time": 1674808348,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599199,
+        "num": 599199,
+        "word": "丹东站几乎每人都拎着泡沫箱子",
+        "onboard_time": 1674803486,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528563,
+        "num": 528563,
+        "word": "孙坚说自己是穷孩子出身却老演霸总",
+        "onboard_time": 1674817048,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 524236,
+        "num": 524236,
+        "word": "男子砍柴时手机掉落秒变折叠屏",
+        "onboard_time": 1674810626,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511109,
+        "num": 511109,
+        "word": "店家回应游客点四个菜1500元",
+        "onboard_time": 1674813807,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500458,
+        "num": 500458,
+        "word": "北海市监局回应4个菜1500元",
+        "onboard_time": 1674815486,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 476900,
+        "num": 476900,
+        "word": "谢楠潦草推荐流浪地球2",
+        "onboard_time": 1674805705,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437119,
+        "num": 437119,
+        "word": "姆巴佩想买C罗的私人飞机",
+        "onboard_time": 1674811227,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414230,
+        "num": 414230,
+        "word": "严浩翔获楼斯卡最佳哔吉爱萌奖",
+        "onboard_time": 1674816986,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399758,
+        "num": 399758,
+        "word": "你了解许嵩吗",
+        "onboard_time": 1674817587,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366831,
+        "num": 366831,
+        "word": "宋亚轩倒走红毯",
+        "onboard_time": 1674817768,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345165,
+        "num": 345165,
+        "word": "原来婚礼还可以这么办",
+        "onboard_time": 1674816146,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 327842,
+        "num": 327842,
+        "word": "国航航班颠簸下坠乘客录视频防不测",
+        "onboard_time": 1674800967,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312702,
+        "num": 312702,
+        "word": "张弛回应演满江红掏上了",
+        "onboard_time": 1674814407,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292757,
+        "num": 292757,
+        "word": "大侦探首案关注舆论控制",
+        "onboard_time": 1674812666,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276571,
+        "num": 276571,
+        "word": "爷爷保护孙子不慎滑倒把娃铲飞",
+        "onboard_time": 1674808046,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272880,
+        "num": 272880,
+        "word": "今生也是第一次今晚开播",
+        "onboard_time": 1674816208,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263866,
+        "num": 263866,
+        "word": "四川自贡26米巨型兔子灯",
+        "onboard_time": 1674816626,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262269,
+        "num": 262269,
+        "word": "德约科维奇 澳网",
+        "onboard_time": 1674814827,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254861,
+        "num": 254861,
+        "word": "今年春节档后劲最大的电影",
+        "onboard_time": 1674810865,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241842,
+        "num": 241842,
+        "word": "流浪地球2用真诚换观众真心",
+        "onboard_time": 1674804506,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231112,
+        "num": 231112,
+        "word": "女子回家过年14人睡同1屋",
+        "onboard_time": 1674808585,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240708,
+        "num": 230879,
+        "word": "吴京恳请大家不要再宣传300亿票房",
+        "onboard_time": 1674776836,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230619,
+        "num": 230619,
+        "word": "昆明地震",
+        "onboard_time": 1674808046,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220133,
+        "num": 220133,
+        "word": "momoland解散",
+        "onboard_time": 1674803607,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218931,
+        "num": 218931,
+        "word": "心疼李响",
+        "onboard_time": 1674816027,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211198,
+        "num": 211198,
+        "word": "崔然竣听到男粉应援的反应",
+        "onboard_time": 1674813324,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205726,
+        "num": 205726,
+        "word": "辱母案当事人于欢升级当爸",
+        "onboard_time": 1674817287,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203890,
+        "num": 203890,
+        "word": "国航回应西安飞温州航班剧烈颠簸",
+        "onboard_time": 1674815847,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200985,
+        "num": 200985,
+        "word": "这年 又过完了",
+        "onboard_time": 1674800605,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189299,
+        "num": 189299,
+        "word": "虞书欣豹纹外套长靴上班路透",
+        "onboard_time": 1674813867,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169231,
+        "num": 169231,
+        "word": "吴京 同意的转",
+        "onboard_time": 1674807386,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157767,
+        "num": 157767,
+        "word": "见过掉毛最好笑的博美",
+        "onboard_time": 1674810746,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150037,
+        "num": 150037,
+        "word": "一句话形容包邮区有多冷",
+        "onboard_time": 1674811887,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143932,
+        "num": 143932,
+        "word": "明星大侦探",
+        "onboard_time": 1674806426,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142340,
+        "num": 142340,
+        "word": "一句歌词表达周五心情",
+        "onboard_time": 1674818129,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137907,
+        "num": 137907,
+        "word": "35岁单身女子时隔三年回家被问生子",
+        "onboard_time": 1674802287,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136952,
+        "num": 136952,
+        "word": "岳云鹏问满江红看了吗",
+        "onboard_time": 1674808406,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130885,
+        "num": 130885,
+        "word": "狂飙豆瓣评分涨至9.0分",
+        "onboard_time": 1674798087,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125632,
+        "num": 125632,
+        "word": "浪漫无关年龄",
+        "onboard_time": 1674816387,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 121373,
+        "num": 121373,
+        "word": "许红豆谢之遥相拥看日出",
+        "onboard_time": 1674813566,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118223,
+        "num": 118223,
+        "word": "爱奇艺2023待播剧片单",
+        "onboard_time": 1674797486,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112520,
+        "num": 112520,
+        "word": "So TM true",
+        "onboard_time": 1674807925,
+        "rank": 48,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 106108,
+        "num": 106108,
+        "word": "把香菜做成了吃不起的样子",
+        "onboard_time": 1674803966,
+        "rank": 49,
+        "category": "美食,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#大年初六顺顺利利#"
+    }
+  }
+}
