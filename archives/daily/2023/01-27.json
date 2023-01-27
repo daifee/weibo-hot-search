@@ -1,7 +1,15 @@
 {
   "startTime": 1674750270610,
-  "endTime": 1674776007724,
+  "endTime": 1674783501954,
   "band_list": [
+    {
+      "raw_hot": 2118812,
+      "num": 2118812,
+      "word": "吴京恳请大家不要再宣传300亿票房",
+      "onboard_time": 1674776836,
+      "rank": 0,
+      "category": "影视"
+    },
     {
       "raw_hot": 1361875,
       "num": 1361875,
@@ -35,12 +43,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1126723,
+      "num": 1126723,
+      "word": "游客爆料北海用餐4个菜1500元",
+      "onboard_time": 1674777138,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 951143,
+      "num": 951143,
+      "word": "狂飙导演点赞原定主演是杨洋的微博",
+      "onboard_time": 1674776537,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 924194,
       "num": 924194,
       "word": "电影无名票房逆跌",
       "onboard_time": 1674743970,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 907287,
+      "num": 907287,
+      "word": "1米85大长腿交警回应走红",
+      "onboard_time": 1674776418,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 885767,
+      "num": 885767,
+      "word": "女子发现初中时收到的礼物暗藏情书",
+      "onboard_time": 1674781524,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 843759,
@@ -75,6 +115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 688583,
+      "num": 688583,
+      "word": "墨子 lwx",
+      "onboard_time": 1674778042,
+      "rank": 6,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 678268,
+      "num": 678268,
+      "word": "大年初六送穷",
+      "onboard_time": 1674774675,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632987,
       "num": 632987,
       "word": "狗狗走失一个月回家狂撞门",
@@ -91,12 +147,28 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 588972,
+      "num": 588972,
+      "word": "王一博无名吐烟圈是现场发挥的",
+      "onboard_time": 1674781826,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 584020,
       "num": 584020,
       "word": "过年千万不要吃太多坚果",
       "onboard_time": 1674744030,
       "rank": 12,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 543414,
+      "num": 534278,
+      "word": "王一博说路演可能是为无名做的最后一件事了",
+      "onboard_time": 1674776657,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 504393,
@@ -115,12 +187,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 488140,
-      "num": 488140,
-      "word": "大年初六送穷",
-      "onboard_time": 1674774675,
-      "rank": 10,
+      "raw_hot": 498553,
+      "num": 498553,
+      "word": "万元戒指被亲戚家孩子扔进农田",
+      "onboard_time": 1674782005,
+      "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451281,
+      "num": 451281,
+      "word": "鱼刺卡喉该去挂哪个科",
+      "onboard_time": 1674777862,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394318,
+      "num": 394318,
+      "word": "张译好有魅力",
+      "onboard_time": 1674774135,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 386309,
@@ -147,11 +235,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 369427,
-      "num": 369427,
-      "word": "张译好有魅力",
-      "onboard_time": 1674774135,
-      "rank": 1,
+      "raw_hot": 367476,
+      "num": 367476,
+      "word": "流浪地球2票房破18亿",
+      "onboard_time": 1674777560,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -163,12 +251,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335682,
+      "num": 335682,
+      "word": "2023NBA全明星首发名单",
+      "onboard_time": 1674780625,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 331577,
+      "num": 331577,
+      "word": "狂飙 下刀子",
+      "onboard_time": 1674778402,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316365,
       "num": 316365,
       "word": "Tian回应",
       "onboard_time": 1674741810,
       "rank": 20,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 289400,
+      "num": 289400,
+      "word": "陈楚生没有坐过硬卧",
+      "onboard_time": 1674781524,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 272631,
+      "num": 272631,
+      "word": "C罗无缘沙超杯决赛",
+      "onboard_time": 1674780987,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 270175,
@@ -187,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260262,
+      "num": 260262,
+      "word": "墨子回应Tian传闻",
+      "onboard_time": 1674778162,
+      "rank": 21,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 260203,
+      "num": 260203,
+      "word": "张译演技",
+      "onboard_time": 1674778162,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252645,
       "num": 252645,
       "word": "白敬亭是懂转场的",
@@ -195,11 +331,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247005,
+      "num": 247005,
+      "word": "许红豆谢之遥吻戏名场面",
+      "onboard_time": 1674776356,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245543,
       "num": 245543,
       "word": "热闹后的冷清才最孤独",
       "onboard_time": 1674743190,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 244454,
+      "num": 244454,
+      "word": "这一走又是明年见了",
+      "onboard_time": 1674774916,
+      "rank": 45,
       "category": "情感"
     },
     {
@@ -211,12 +363,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232084,
+      "num": 232084,
+      "word": "喝粥真能养胃吗",
+      "onboard_time": 1674780142,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 224320,
       "num": 224320,
       "word": "李现谢之遥是个好大哥",
       "onboard_time": 1674748826,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222291,
+      "num": 222291,
+      "word": "女子为逃避催婚去泰国过年",
+      "onboard_time": 1674782787,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205892,
+      "num": 205892,
+      "word": "刘亦菲李现去有风的地方今晚大结局",
+      "onboard_time": 1674780987,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205792,
+      "num": 205792,
+      "word": "科比去世3周年",
+      "onboard_time": 1674779183,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202992,
+      "num": 202992,
+      "word": "狗子走得好有规律",
+      "onboard_time": 1674779002,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 190568,
@@ -267,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169859,
+      "num": 162433,
+      "word": "无名 镜头美学",
+      "onboard_time": 1674783145,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167075,
       "num": 167075,
       "word": "方言里一听就懂的万能词",
@@ -281,6 +481,22 @@
       "onboard_time": 1674754398,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158900,
+      "num": 158900,
+      "word": "孩子年后返程八旬母亲悄悄抹泪",
+      "onboard_time": 1674782305,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153403,
+      "num": 153403,
+      "word": "带三胞胎爬五指山三大三小全被困",
+      "onboard_time": 1674753079,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152629,
@@ -307,12 +523,36 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 145590,
+      "num": 145590,
+      "word": "春节凭这道菜胖了3斤",
+      "onboard_time": 1674782666,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 144511,
+      "num": 144511,
+      "word": "大年初六",
+      "onboard_time": 1674774795,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144291,
       "num": 144291,
       "word": "酒店推出火锅浴温泉池漂满白菜茄子",
       "onboard_time": 1674756497,
       "rank": 44,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 141758,
+      "num": 141758,
+      "word": "在云南排骨独一无二的吃法",
+      "onboard_time": 1674779363,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 140690,
@@ -331,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136308,
+      "num": 136308,
+      "word": "假期剩5天作业剩7本女孩崩溃大哭",
+      "onboard_time": 1674783265,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 135407,
       "num": 135407,
       "word": "五台山广化寺晚上不开门游客踹门而入",
@@ -339,12 +587,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 134473,
-      "num": 134473,
-      "word": "大年初六",
-      "onboard_time": 1674774795,
-      "rank": 14,
-      "category": "情感"
+      "raw_hot": 133002,
+      "num": 133002,
+      "word": "王栎鑫一个动作暴露坐火车经验",
+      "onboard_time": 1674777680,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 132264,
@@ -387,20 +635,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113272,
-      "num": 113272,
-      "word": "带三胞胎爬五指山三大三小全被困",
-      "onboard_time": 1674753079,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 122885,
+      "num": 122885,
+      "word": "这就是疑是银河落九天吧",
+      "onboard_time": 1674779903,
+      "rank": 44,
+      "category": "情感"
     },
     {
-      "raw_hot": 111731,
-      "num": 111731,
-      "word": "这一走又是明年见了",
-      "onboard_time": 1674774916,
+      "raw_hot": 122833,
+      "num": 122833,
+      "word": "不去影院也能看的春节好电影",
+      "onboard_time": 1674780084,
       "rank": 45,
-      "category": "情感"
+      "category": "影视"
+    },
+    {
+      "raw_hot": 109415,
+      "num": 109415,
+      "word": "吉达联合3比1利雅得胜利",
+      "onboard_time": 1674782485,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 107402,
@@ -409,6 +665,14 @@
       "onboard_time": 1674739049,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104462,
+      "num": 104462,
+      "word": "时团抢张真源纳的千层底布鞋",
+      "onboard_time": 1674780625,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 99966,
