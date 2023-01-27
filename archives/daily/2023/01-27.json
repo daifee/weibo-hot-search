@@ -1,6 +1,6 @@
 {
   "startTime": 1674750270610,
-  "endTime": 1674804809347,
+  "endTime": 1674807779433,
   "band_list": [
     {
       "raw_hot": 2118812,
@@ -17,6 +17,14 @@
       "onboard_time": 1674737607,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1331174,
+      "num": 1331174,
+      "word": "丹东站几乎每人都拎着泡沫箱子",
+      "onboard_time": 1674803486,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1280293,
@@ -115,20 +123,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 977670,
+      "num": 977670,
+      "word": "吴京 恨嫁糙男",
+      "onboard_time": 1674801265,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 971301,
       "num": 971301,
       "word": "百万保时捷停斗香上被烧毁",
       "onboard_time": 1674785546,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 953960,
-      "num": 953960,
-      "word": "吴京 恨嫁糙男",
-      "onboard_time": 1674801265,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 940464,
@@ -275,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 662073,
+      "num": 662073,
+      "word": "阿里辟谣新加坡建全球总部",
+      "onboard_time": 1674805587,
+      "rank": 5,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 644221,
       "num": 644221,
       "word": "东北忘关单元门楼道冻成冰溶洞",
@@ -347,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 539925,
+      "num": 539925,
+      "word": "35岁单身女子时隔三年回家被问生子",
+      "onboard_time": 1674802287,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 526088,
       "num": 526088,
       "word": "孙红雷曾为高叶鸣不平",
@@ -371,14 +395,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 501783,
-      "num": 398955,
-      "word": "丹东站几乎每人都拎着泡沫箱子",
-      "onboard_time": 1674803486,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 499164,
       "num": 499164,
       "word": "张远王栎鑫陆虎跳宋木子之歌",
@@ -395,20 +411,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 493174,
-      "num": 493174,
-      "word": "35岁单身女子时隔三年回家被问生子",
-      "onboard_time": 1674802287,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 451281,
       "num": 451281,
       "word": "鱼刺卡喉该去挂哪个科",
       "onboard_time": 1674777862,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440131,
+      "num": 440131,
+      "word": "明星大侦探",
+      "onboard_time": 1674806426,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 424639,
+      "num": 424639,
+      "word": "把香菜做成了吃不起的样子",
+      "onboard_time": 1674803966,
+      "rank": 25,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 403124,
@@ -491,6 +515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 351312,
+      "num": 335637,
+      "word": "吴京 同意的转",
+      "onboard_time": 1674807386,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350046,
       "num": 350046,
       "word": "满江红编剧采访说原本设定是科幻片",
@@ -505,6 +537,14 @@
       "onboard_time": 1674803846,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343065,
+      "num": 343065,
+      "word": "谢楠潦草推荐流浪地球2",
+      "onboard_time": 1674805705,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 342264,
@@ -563,6 +603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 319904,
+      "num": 319904,
+      "word": "汪海林说许魏洲可塑性很强",
+      "onboard_time": 1674807445,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318855,
       "num": 318855,
       "word": "王一栩说杨幂会唱狐妖小红娘月红篇OST",
@@ -593,6 +641,14 @@
       "onboard_time": 1674804506,
       "rank": 16,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 309813,
+      "num": 309813,
+      "word": "郭帆帮吴京找21岁的状态",
+      "onboard_time": 1674804506,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 290773,
@@ -633,6 +689,14 @@
       "onboard_time": 1674780987,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277301,
+      "num": 277301,
+      "word": "流浪地球2用真诚换观众真心",
+      "onboard_time": 1674804506,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 272104,
@@ -835,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214226,
+      "num": 214226,
+      "word": "二手玫瑰音乐节现场连唱8首歌",
+      "onboard_time": 1674804926,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 212739,
       "num": 212739,
       "word": "王濛自荐出演流浪地球3",
@@ -899,14 +971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191612,
-      "num": 191612,
-      "word": "把香菜做成了吃不起的样子",
-      "onboard_time": 1674803966,
-      "rank": 25,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 190568,
       "num": 190568,
       "word": "黄渤新剧折腾5集一键归0",
@@ -955,8 +1019,8 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 183165,
-      "num": 183165,
+      "raw_hot": 184092,
+      "num": 184092,
       "word": "这个牛魔王还穿着尿不湿",
       "onboard_time": 1674803366,
       "rank": 48,
@@ -1011,12 +1075,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168082,
-      "num": 168082,
-      "word": "郭帆帮吴京找21岁的状态",
-      "onboard_time": 1674804506,
+      "raw_hot": 167428,
+      "num": 167428,
+      "word": "女子自学十几种方言帮300家庭寻亲",
+      "onboard_time": 1674806126,
       "rank": 29,
-      "category": "影视"
+      "category": "社会正能量"
     },
     {
       "raw_hot": 167075,
@@ -1089,6 +1153,14 @@
       "onboard_time": 1674732748,
       "rank": 30,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 151126,
+      "num": 151126,
+      "word": "假期结束你想上班吗",
+      "onboard_time": 1674804446,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 150584,
@@ -1185,6 +1257,14 @@
       "onboard_time": 1674790168,
       "rank": 47,
       "category": "旅游,自然"
+    },
+    {
+      "raw_hot": 133560,
+      "num": 133560,
+      "word": "苏翊鸣请大家用诗词为新动作命名",
+      "onboard_time": 1674807267,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 133002,
@@ -1321,14 +1401,6 @@
       "onboard_time": 1674739049,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103900,
-      "num": 103900,
-      "word": "流浪地球2用真诚换观众真心",
-      "onboard_time": 1674804506,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 99966,
