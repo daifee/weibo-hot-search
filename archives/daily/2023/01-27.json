@@ -1,6 +1,6 @@
 {
   "startTime": 1674750270610,
-  "endTime": 1674784705703,
+  "endTime": 1674787543420,
   "band_list": [
     {
       "raw_hot": 2118812,
@@ -32,6 +32,14 @@
       "word": "陈书婷怎么死的",
       "onboard_time": 1674742350,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1156148,
+      "num": 1156148,
+      "word": "孟钰求婚被拒一秒含泪",
+      "onboard_time": 1674784345,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 809195,
+      "num": 809195,
+      "word": "假期剩5天作业剩7本女孩崩溃大哭",
+      "onboard_time": 1674783265,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 795942,
       "num": 795942,
       "word": "黄瑶高晓晨 好嗑",
@@ -105,6 +121,22 @@
       "onboard_time": 1674734491,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 749984,
+      "num": 749984,
+      "word": "王一博无名吐烟圈是现场发挥的",
+      "onboard_time": 1674781826,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 731904,
+      "num": 635018,
+      "word": "百万保时捷停斗香上被烧毁",
+      "onboard_time": 1674785546,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 716863,
@@ -123,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 705362,
-      "num": 705362,
-      "word": "王一博无名吐烟圈是现场发挥的",
-      "onboard_time": 1674781826,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 688583,
       "num": 688583,
       "word": "墨子 lwx",
@@ -147,12 +171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 637643,
+      "num": 637643,
+      "word": "鹿晗翻唱周杰伦安静视频",
+      "onboard_time": 1674785245,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 632987,
       "num": 632987,
       "word": "狗狗走失一个月回家狂撞门",
       "onboard_time": 1674748227,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 626387,
+      "num": 626387,
+      "word": "高明远高启强什么关系",
+      "onboard_time": 1674784286,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 594917,
@@ -201,14 +241,6 @@
       "onboard_time": 1674777862,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 437514,
-      "num": 437514,
-      "word": "假期剩5天作业剩7本女孩崩溃大哭",
-      "onboard_time": 1674783265,
-      "rank": 40,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 394318,
@@ -291,6 +323,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 290773,
+      "num": 290773,
+      "word": "俄方称将派出战斗机器人应对西方坦克",
+      "onboard_time": 1674784646,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 289400,
       "num": 289400,
       "word": "陈楚生没有坐过硬卧",
@@ -305,6 +345,14 @@
       "onboard_time": 1674780987,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271740,
+      "num": 271740,
+      "word": "为什么深海的口碑两极分化严重",
+      "onboard_time": 1674785485,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 270175,
@@ -369,14 +417,6 @@
       "onboard_time": 1674743190,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 245348,
-      "num": 201076,
-      "word": "高明远高启强什么关系",
-      "onboard_time": 1674784286,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 244454,
@@ -459,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188871,
+      "num": 163489,
+      "word": "景区回应游客在神像手里放满香烟",
+      "onboard_time": 1674786267,
+      "rank": 30,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 188448,
       "num": 188448,
       "word": "不婚主义的小姨过年给孩子发红包",
@@ -481,6 +529,14 @@
       "onboard_time": 1674754398,
       "rank": 16,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 184446,
+      "num": 184446,
+      "word": "无名还有王一博跳舞逗狗花絮",
+      "onboard_time": 1674787345,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 180909,
@@ -513,14 +569,6 @@
       "onboard_time": 1674747149,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162520,
-      "num": 162520,
-      "word": "孟钰求婚被拒一秒含泪",
-      "onboard_time": 1674784345,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 162259,
@@ -563,20 +611,20 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 149340,
+      "num": 149340,
+      "word": "春节凭这道菜胖了3斤",
+      "onboard_time": 1674782666,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 147250,
       "num": 147250,
       "word": "大年初六",
       "onboard_time": 1674774795,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 145590,
-      "num": 145590,
-      "word": "春节凭这道菜胖了3斤",
-      "onboard_time": 1674782666,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 144291,
@@ -643,6 +691,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130142,
+      "num": 128513,
+      "word": "谢之遥被许红豆锁喉",
+      "onboard_time": 1674786747,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 129831,
+      "num": 129831,
+      "word": "东北忘关单元门楼道冻成冰溶洞",
+      "onboard_time": 1674787225,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126853,
       "num": 126853,
       "word": "瞬间想起了8090后的快乐",
@@ -705,14 +769,6 @@
       "onboard_time": 1674739049,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107038,
-      "num": 107038,
-      "word": "俄方称将派出战斗机器人应对西方坦克",
-      "onboard_time": 1674784646,
-      "rank": 47,
-      "category": "军事"
     },
     {
       "raw_hot": 99966,
