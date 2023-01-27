@@ -1,6 +1,6 @@
 {
   "startTime": 1674750270610,
-  "endTime": 1674826512154,
+  "endTime": 1674829017909,
   "band_list": [
     {
       "raw_hot": 2118812,
@@ -179,11 +179,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1018604,
+      "num": 835117,
+      "word": "奶奶将女孩的小狗低价卖掉",
+      "onboard_time": 1674824487,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1015486,
       "num": 1015486,
       "word": "狂飙导演点赞原定主演是杨洋的微博",
       "onboard_time": 1674776537,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1015149,
+      "num": 1015149,
+      "word": "万里归途首播收视破1",
+      "onboard_time": 1674826348,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -299,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 824409,
+      "num": 824409,
+      "word": "明天上班",
+      "onboard_time": 1674826946,
+      "rank": 4,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 795942,
       "num": 795942,
       "word": "黄瑶高晓晨 好嗑",
@@ -336,6 +360,14 @@
       "word": "谢楠潦草推荐流浪地球2",
       "onboard_time": 1674805705,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 726631,
+      "num": 726631,
+      "word": "高叶 拍边境风云差点窒息",
+      "onboard_time": 1674823708,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -459,14 +491,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 633499,
-      "num": 633499,
-      "word": "奶奶将女孩的小狗低价卖掉",
-      "onboard_time": 1674824487,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 632987,
       "num": 632987,
       "word": "狗狗走失一个月回家狂撞门",
@@ -507,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 619665,
+      "num": 619665,
+      "word": "去有风的地方大结局是HE",
+      "onboard_time": 1674825387,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 611984,
       "num": 611984,
       "word": "姆巴佩想买C罗的私人飞机",
@@ -529,14 +561,6 @@
       "onboard_time": 1674820887,
       "rank": 29,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 595810,
-      "num": 595810,
-      "word": "高叶 拍边境风云差点窒息",
-      "onboard_time": 1674823708,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 594917,
@@ -667,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443915,
+      "num": 443915,
+      "word": "沙溢到底杀青了多少回",
+      "onboard_time": 1674825865,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 437832,
       "num": 437832,
       "word": "女子回家过年14人睡同1屋",
@@ -771,6 +803,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385268,
+      "num": 385268,
+      "word": "高叶从此大嫂有了脸",
+      "onboard_time": 1674826288,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 383364,
+      "num": 383364,
+      "word": "女子路遇大老鼠不慎摔倒砸死老鼠",
+      "onboard_time": 1674827847,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381650,
+      "num": 381650,
+      "word": "时光音乐会下期庄主是周深",
+      "onboard_time": 1674826528,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379409,
       "num": 379409,
       "word": "崔然竣听到男粉应援的反应",
@@ -811,6 +867,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 369693,
+      "num": 369693,
+      "word": "三体人列计算机梦回奥运开幕式",
+      "onboard_time": 1674828270,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 367476,
       "num": 367476,
       "word": "流浪地球2票房破18亿",
@@ -825,6 +889,14 @@
       "onboard_time": 1674794486,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 353250,
+      "num": 353250,
+      "word": "谢楠晒刘培强证件照",
+      "onboard_time": 1674826888,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 351054,
@@ -931,11 +1003,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 327782,
-      "num": 327782,
-      "word": "去有风的地方大结局是HE",
-      "onboard_time": 1674825387,
-      "rank": 28,
+      "raw_hot": 330921,
+      "num": 330921,
+      "word": "狂飙站内热度破11000",
+      "onboard_time": 1674825865,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -1083,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282539,
+      "num": 282539,
+      "word": "定闹钟",
+      "onboard_time": 1674826769,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 279481,
       "num": 279481,
       "word": "为什么深海的口碑两极分化严重",
@@ -1137,6 +1217,14 @@
       "onboard_time": 1674789388,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271564,
+      "num": 271564,
+      "word": "安欣高启强饭搭子Be",
+      "onboard_time": 1674828205,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 270175,
@@ -1233,14 +1321,6 @@
       "onboard_time": 1674822207,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 253237,
-      "num": 244590,
-      "word": "狂飙站内热度破11000",
-      "onboard_time": 1674825865,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 252645,
@@ -1347,6 +1427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 232035,
+      "num": 232035,
+      "word": "前有掌柜赵盼儿后有民宿老板许红豆",
+      "onboard_time": 1674826050,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231989,
       "num": 231989,
       "word": "鸭子大摇大摆走出六亲不认气势",
@@ -1409,6 +1497,14 @@
       "onboard_time": 1674794787,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215836,
+      "num": 215836,
+      "word": "KT战胜HLE",
+      "onboard_time": 1674826588,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 215763,
@@ -1489,14 +1585,6 @@
       "onboard_time": 1674779002,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 202567,
-      "num": 202567,
-      "word": "前有掌柜赵盼儿后有民宿老板许红豆",
-      "onboard_time": 1674826050,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 202129,
@@ -1619,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183352,
+      "num": 183352,
+      "word": "0713有多羡慕王铮亮上春晚",
+      "onboard_time": 1674828568,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182534,
       "num": 182534,
       "word": "环卫工打扫鞭炮垃圾被炸聋左耳",
@@ -1643,11 +1739,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 177789,
-      "num": 156179,
-      "word": "高叶从此大嫂有了脸",
-      "onboard_time": 1674826288,
-      "rank": 41,
+      "raw_hot": 177865,
+      "num": 177865,
+      "word": "有风小院全员再聚首",
+      "onboard_time": 1674827186,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -1683,28 +1779,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169018,
-      "num": 155136,
-      "word": "沙溢到底杀青了多少回",
-      "onboard_time": 1674825865,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 168282,
       "num": 168282,
       "word": "杨超越连人带行李被扔下车",
       "onboard_time": 1674787765,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168222,
-      "num": 154625,
-      "word": "万里归途首播收视破1",
-      "onboard_time": 1674826348,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 167075,
@@ -1729,6 +1809,14 @@
       "onboard_time": 1674802884,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162553,
+      "num": 162553,
+      "word": "庄达菲丢火车合作舞台",
+      "onboard_time": 1674828690,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 162539,
@@ -2272,6 +2360,14 @@
       "word": "爸爸吃麻团5个月萌娃望眼欲穿",
       "onboard_time": 1674757754,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20139,
+      "num": 845478,
+      "word": "离家的行囊满是爱和牵挂",
+      "onboard_time": 1674828749,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
