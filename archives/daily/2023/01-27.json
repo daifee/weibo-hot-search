@@ -1,6 +1,6 @@
 {
   "startTime": 1674750270610,
-  "endTime": 1674797613580,
+  "endTime": 1674800593889,
   "band_list": [
     {
       "raw_hot": 2118812,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1124154,
+      "num": 1124154,
+      "word": "弟弟攒5年压岁钱给姐姐买万元金镯",
+      "onboard_time": 1674795687,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1015486,
       "num": 1015486,
       "word": "狂飙导演点赞原定主演是杨洋的微博",
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 828878,
+      "num": 828878,
+      "word": "爱奇艺2023待播剧片单",
+      "onboard_time": 1674797486,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 795942,
       "num": 795942,
       "word": "黄瑶高晓晨 好嗑",
@@ -177,14 +193,6 @@
       "onboard_time": 1674781826,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 734819,
-      "num": 734819,
-      "word": "弟弟攒5年压岁钱给姐姐买万元金镯",
-      "onboard_time": 1674795687,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 716863,
@@ -219,20 +227,20 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 687874,
-      "num": 687874,
-      "word": "爱奇艺2023待播剧片单",
-      "onboard_time": 1674797486,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 678268,
       "num": 678268,
       "word": "大年初六送穷",
       "onboard_time": 1674774675,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673796,
+      "num": 673796,
+      "word": "狂飙豆瓣评分涨至9.0分",
+      "onboard_time": 1674798087,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 644221,
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400419,
+      "num": 400419,
+      "word": "背诵满江红可免费游岳飞庙",
+      "onboard_time": 1674795806,
+      "rank": 35,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 394318,
       "num": 394318,
       "word": "张译好有魅力",
@@ -387,20 +403,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376604,
+      "num": 294067,
+      "word": "霉霉新歌LavenderHaze",
+      "onboard_time": 1674798565,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 367476,
       "num": 367476,
       "word": "流浪地球2票房破18亿",
       "onboard_time": 1674777560,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 362900,
-      "num": 362900,
-      "word": "背诵满江红可免费游岳飞庙",
-      "onboard_time": 1674795806,
-      "rank": 35,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 354974,
@@ -465,6 +481,14 @@
       "onboard_time": 1674778402,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 323877,
+      "num": 277609,
+      "word": "TXT新歌上线",
+      "onboard_time": 1674799225,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 318669,
@@ -635,6 +659,22 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 237337,
+      "num": 237337,
+      "word": "这猫咪看起来也太成熟了吧",
+      "onboard_time": 1674797425,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 235830,
+      "num": 235830,
+      "word": "男孩逛景区被鹈鹕灌顶",
+      "onboard_time": 1674799644,
+      "rank": 19,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 235147,
       "num": 316578,
       "word": "俄罗斯获邀参加亚运会",
@@ -664,6 +704,14 @@
       "word": "李现谢之遥是个好大哥",
       "onboard_time": 1674748826,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221371,
+      "num": 221371,
+      "word": "高启强还是对泰叔动手了",
+      "onboard_time": 1674794843,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -747,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193892,
+      "num": 193892,
+      "word": "外地游客首次体验东北鸳鸯锅澡堂",
+      "onboard_time": 1674798565,
+      "rank": 27,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 190568,
       "num": 190568,
       "word": "黄渤新剧折腾5集一键归0",
@@ -777,6 +833,14 @@
       "onboard_time": 1674794546,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186985,
+      "num": 186985,
+      "word": "武义淳的共享单刀",
+      "onboard_time": 1674798206,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 184942,
@@ -848,14 +912,6 @@
       "word": "许光汉韩国见面会生图",
       "onboard_time": 1674754398,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 160854,
-      "num": 160854,
-      "word": "高启强还是对泰叔动手了",
-      "onboard_time": 1674794843,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -945,6 +1001,14 @@
       "onboard_time": 1674723628,
       "rank": 32,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 140478,
+      "num": 140478,
+      "word": "流浪地球2细节",
+      "onboard_time": 1674798686,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 136342,
@@ -1091,14 +1155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 101373,
-      "num": 101373,
-      "word": "这猫咪看起来也太成熟了吧",
-      "onboard_time": 1674797425,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 99966,
       "num": 99966,
       "word": "流浪地球编剧曾参加快男",
@@ -1177,6 +1233,14 @@
       "onboard_time": 1674773292,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87475,
+      "num": 87475,
+      "word": "熊猫宝宝睡觉每一根毛都是可爱",
+      "onboard_time": 1674800426,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 73821,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1674800593889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1124154,
+        "num": 1124154,
+        "word": "弟弟攒5年压岁钱给姐姐买万元金镯",
+        "onboard_time": 1674795687,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866470,
+        "num": 866470,
+        "word": "苏有朋邀请王俊凯参加项目被拒绝",
+        "onboard_time": 1674794065,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38752,
+        "num": 843021,
+        "word": "品味浓浓的年味",
+        "onboard_time": 1674790344,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828878,
+        "num": 828878,
+        "word": "爱奇艺2023待播剧片单",
+        "onboard_time": 1674797486,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 744503,
+        "num": 744503,
+        "word": "吴京恳请大家不要再宣传300亿票房",
+        "onboard_time": 1674776836,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 673796,
+        "num": 673796,
+        "word": "狂飙豆瓣评分涨至9.0分",
+        "onboard_time": 1674798087,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 593548,
+        "num": 593548,
+        "word": "沈腾在西虹市首富里背过满江红",
+        "onboard_time": 1674792866,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428632,
+        "num": 428632,
+        "word": "流浪地球2票房破20亿",
+        "onboard_time": 1674795626,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400419,
+        "num": 400419,
+        "word": "背诵满江红可免费游岳飞庙",
+        "onboard_time": 1674795806,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 309507,
+        "num": 309507,
+        "word": "百万保时捷停斗香上被烧毁",
+        "onboard_time": 1674785546,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432138,
+        "num": 306436,
+        "word": "TXT 回归",
+        "onboard_time": 1674789988,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 392124,
+        "num": 298782,
+        "word": "吴京改了韩朵朵的人物设定",
+        "onboard_time": 1674787586,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376604,
+        "num": 294067,
+        "word": "霉霉新歌LavenderHaze",
+        "onboard_time": 1674798565,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 360359,
+        "num": 288966,
+        "word": "岳将军的满江红已经名扬天下了",
+        "onboard_time": 1674788906,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329236,
+        "num": 283779,
+        "word": "孙红雷曾为高叶鸣不平",
+        "onboard_time": 1674792565,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323877,
+        "num": 277609,
+        "word": "TXT新歌上线",
+        "onboard_time": 1674799225,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273763,
+        "num": 273763,
+        "word": "5名中国公民在半月湾枪击事件中遇难",
+        "onboard_time": 1674789808,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 237337,
+        "num": 237337,
+        "word": "这猫咪看起来也太成熟了吧",
+        "onboard_time": 1674797425,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236794,
+        "num": 236794,
+        "word": "墨子 lwx",
+        "onboard_time": 1674778042,
+        "rank": 18,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 235830,
+        "num": 235830,
+        "word": "男孩逛景区被鹈鹕灌顶",
+        "onboard_time": 1674799644,
+        "rank": 19,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 258745,
+        "num": 234341,
+        "word": "王一博无名吐烟圈是现场发挥的",
+        "onboard_time": 1674781826,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232331,
+        "num": 232331,
+        "word": "光与夜之恋萧逸",
+        "onboard_time": 1674794486,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225813,
+        "num": 225813,
+        "word": "孟钰求婚被拒一秒含泪",
+        "onboard_time": 1674784345,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224179,
+        "num": 224179,
+        "word": "1米85大长腿交警回应走红",
+        "onboard_time": 1674776418,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221371,
+        "num": 221371,
+        "word": "高启强还是对泰叔动手了",
+        "onboard_time": 1674794843,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208418,
+        "num": 208418,
+        "word": "正月初六对生意人意味着什么",
+        "onboard_time": 1674787645,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 204465,
+        "num": 204465,
+        "word": "东北忘关单元门楼道冻成冰溶洞",
+        "onboard_time": 1674787225,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193892,
+        "num": 193892,
+        "word": "外地游客首次体验东北鸳鸯锅澡堂",
+        "onboard_time": 1674798565,
+        "rank": 27,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 192836,
+        "num": 192836,
+        "word": "去有风的地方杀青照拍摄花絮",
+        "onboard_time": 1674796105,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186985,
+        "num": 186985,
+        "word": "武义淳的共享单刀",
+        "onboard_time": 1674798206,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185748,
+        "num": 185748,
+        "word": "女儿返程点千元外卖塞满父母冰箱",
+        "onboard_time": 1674788187,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166466,
+        "num": 166466,
+        "word": "安欣什么都没有了",
+        "onboard_time": 1674794787,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166015,
+        "num": 166015,
+        "word": "德云社节目单",
+        "onboard_time": 1674788906,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159580,
+        "num": 159580,
+        "word": "游客爆料北海用餐4个菜1500元",
+        "onboard_time": 1674777138,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153600,
+        "num": 153600,
+        "word": "高启兰",
+        "onboard_time": 1674788547,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148396,
+        "num": 148396,
+        "word": "假期剩5天作业剩7本女孩崩溃大哭",
+        "onboard_time": 1674783265,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 140478,
+        "num": 140478,
+        "word": "流浪地球2细节",
+        "onboard_time": 1674798686,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134688,
+        "num": 134688,
+        "word": "C罗被铲伤",
+        "onboard_time": 1674789388,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134161,
+        "num": 134161,
+        "word": "鸭子大摇大摆走出六亲不认气势",
+        "onboard_time": 1674794245,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124418,
+        "num": 124418,
+        "word": "鹿晗翻唱周杰伦安静视频",
+        "onboard_time": 1674785245,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124221,
+        "num": 124221,
+        "word": "万元戒指被亲戚家孩子扔进农田",
+        "onboard_time": 1674782005,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121625,
+        "num": 121625,
+        "word": "王濛自荐出演流浪地球3",
+        "onboard_time": 1674789089,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116879,
+        "num": 116879,
+        "word": "女子发现初中时收到的礼物暗藏情书",
+        "onboard_time": 1674781524,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109256,
+        "num": 109256,
+        "word": "吴京说中国乒乓是打不死的小强",
+        "onboard_time": 1674788666,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107411,
+        "num": 107411,
+        "word": "男子过年连聚4天致急性胰腺炎",
+        "onboard_time": 1674794546,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106155,
+        "num": 106155,
+        "word": "无名还有王一博跳舞逗狗花絮",
+        "onboard_time": 1674787345,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97569,
+        "num": 97569,
+        "word": "墨子回应Tian传闻",
+        "onboard_time": 1674778162,
+        "rank": 46,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 88718,
+        "num": 88718,
+        "word": "瑶琴就是满江红里的那颗樱桃",
+        "onboard_time": 1674788966,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87475,
+        "num": 87475,
+        "word": "熊猫宝宝睡觉每一根毛都是可爱",
+        "onboard_time": 1674800426,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 82633,
+        "num": 82633,
+        "word": "流浪地球2口碑",
+        "onboard_time": 1674789927,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#大年初六顺顺利利#"
+    }
+  }
+}
