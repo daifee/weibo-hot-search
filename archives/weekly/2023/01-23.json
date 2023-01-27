@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674836705003,
+  "endTime": 1674837760742,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -2411,6 +2411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 540189,
+      "num": 540189,
+      "word": "流浪地球2周边众筹已超3200万",
+      "onboard_time": 1674834746,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 539925,
       "num": 539925,
       "word": "35岁单身女子时隔三年回家被问生子",
@@ -3195,14 +3203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 429450,
-      "num": 429450,
-      "word": "流浪地球2周边众筹已超3200万",
-      "onboard_time": 1674834746,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 428712,
       "num": 428712,
       "word": "YG新女团新成员ASA公开",
@@ -3336,6 +3336,14 @@
       "word": "叶文洁被害",
       "onboard_time": 1674486029,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 418533,
+      "num": 418533,
+      "word": "易烊千玺满江红镜头感",
+      "onboard_time": 1674835407,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -5179,14 +5187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288452,
-      "num": 288452,
-      "word": "易烊千玺满江红镜头感",
-      "onboard_time": 1674835407,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 288286,
       "num": 288286,
       "word": "最强大脑",
@@ -5337,6 +5337,14 @@
       "onboard_time": 1674780987,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278525,
+      "num": 278525,
+      "word": "俞灏明回应拿快男第六的原因",
+      "onboard_time": 1674835825,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 277969,
@@ -6411,12 +6419,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224815,
+      "num": 224815,
+      "word": "这孩子演技太厉害不像演的",
+      "onboard_time": 1674834988,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224641,
       "num": 134256,
       "word": "孟鹤堂秦霄贤4分钟唱15首歌",
       "onboard_time": 1674485791,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224362,
+      "num": 224362,
+      "word": "转眼间三个女儿都长大了",
+      "onboard_time": 1674835705,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 224350,
@@ -7291,14 +7315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193688,
-      "num": 193688,
-      "word": "俞灏明回应拿快男第六的原因",
-      "onboard_time": 1674835825,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193408,
       "num": 193408,
       "word": "阿云嘎说参加音综能为音乐剧做积累",
@@ -7929,14 +7945,6 @@
       "onboard_time": 1674631824,
       "rank": 48,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 172268,
-      "num": 172268,
-      "word": "这孩子演技太厉害不像演的",
-      "onboard_time": 1674834988,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 171660,
@@ -9321,14 +9329,6 @@
       "onboard_time": 1674588973,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 121538,
-      "num": 121538,
-      "word": "转眼间三个女儿都长大了",
-      "onboard_time": 1674835705,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 121280,
