@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/28 00:25:05 ~ 2023/01/28 02:22:20
+本榜单时间：2023/01/28 00:25:05 ~ 2023/01/28 02:36:03
 </p>
 </blockquote>
 <p>
@@ -232,7 +232,7 @@ SEVENTEEN 奖杯（热度：391642）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E5%BC%A0%E9%A2%82%E6%96%87%E5%AF%B9%E6%89%8B%E6%88%8F%E5%A5%BD%E6%9C%89%E5%BC%A0%E5%8A%9B%23" target="weibo">
-张译张颂文对手戏好有张力（热度：127897）
+张译张颂文对手戏好有张力（热度：129318）
 </a>
 </li>
 
@@ -273,6 +273,12 @@ SEVENTEEN 奖杯（热度：391642）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%AE%E5%A6%88%E5%A6%88%E7%83%A7%E9%94%85%E6%8A%8A%E7%BE%8E%E7%94%B2%E7%83%A7%E5%8C%96%E4%BA%86%23" target="weibo">
+女子帮妈妈烧锅把美甲烧化了（热度：110020）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A3%B0%E8%BF%87%E5%B9%B4%E5%A5%BD%E7%9E%AC%E9%97%B4%E6%B2%A1%E8%84%BE%E6%B0%94%23" target="weibo">
 一声过年好瞬间没脾气（热度：105300）
 </a>
@@ -309,12 +315,6 @@ SEVENTEEN 奖杯（热度：391642）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%AE%E5%A6%88%E5%A6%88%E7%83%A7%E9%94%85%E6%8A%8A%E7%BE%8E%E7%94%B2%E7%83%A7%E5%8C%96%E4%BA%86%23" target="weibo">
-女子帮妈妈烧锅把美甲烧化了（热度：92734）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%B4%BA%E5%B3%BB%E9%9C%96%E7%9A%84%E7%A7%81%E4%BA%BA%E6%81%A9%E6%80%A8%23" target="weibo">
 宋亚轩贺峻霖的私人恩怨（热度：90355）
 </a>
@@ -346,7 +346,7 @@ SEVENTEEN 奖杯（热度：391642）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8B%E6%83%85%E6%80%8E%E6%A0%B7%E5%86%99%E6%9C%80%E5%88%80%23" target="weibo">
-友情怎样写最刀（热度：25819）
+友情怎样写最刀（热度：41780）
 </a>
 </li>
 

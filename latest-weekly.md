@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/23 00:23:41 ~ 2023/01/28 02:22:20
+本榜单时间：2023/01/23 00:23:41 ~ 2023/01/28 02:36:03
 </p>
 </blockquote>
 <p>
@@ -6861,6 +6861,12 @@ TXT新专辑预售量突破216万张（热度：146627）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E5%BC%A0%E9%A2%82%E6%96%87%E5%AF%B9%E6%89%8B%E6%88%8F%E5%A5%BD%E6%9C%89%E5%BC%A0%E5%8A%9B%23" target="weibo">
+张译张颂文对手戏好有张力（热度：129318）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E6%9C%9F%E9%97%B4%E5%90%83%E5%A4%9A%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%23" target="weibo">
 过年期间吃多了怎么办（热度：128373）
 </a>
@@ -6875,12 +6881,6 @@ TXT新专辑预售量突破216万张（热度：146627）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%94%A8%E4%B8%8A%E6%B5%B7%E8%AF%9D%E5%96%8A%E5%A4%A7%E5%AE%B6%E5%8E%BB%E7%9C%8B%E6%97%A0%E5%90%8D%23" target="weibo">
 王一博用上海话喊大家去看无名（热度：127920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E5%BC%A0%E9%A2%82%E6%96%87%E5%AF%B9%E6%89%8B%E6%88%8F%E5%A5%BD%E6%9C%89%E5%BC%A0%E5%8A%9B%23" target="weibo">
-张译张颂文对手戏好有张力（热度：127897）
 </a>
 </li>
 
@@ -7233,6 +7233,12 @@ TXT新专主打曲MV预告公开（热度：126146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%AE%E5%A6%88%E5%A6%88%E7%83%A7%E9%94%85%E6%8A%8A%E7%BE%8E%E7%94%B2%E7%83%A7%E5%8C%96%E4%BA%86%23" target="weibo">
+女子帮妈妈烧锅把美甲烧化了（热度：110020）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E6%99%8B%E7%BA%A7%E6%BE%B3%E7%BD%91%E5%9B%9B%E5%BC%BA%23" target="weibo">
 德约科维奇晋级澳网四强（热度：109681）
 </a>
@@ -7457,12 +7463,6 @@ TXT新专主打曲MV预告公开（热度：126146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E6%98%AF%E5%90%AC%E5%A3%B0%E9%9F%B3%E9%83%BD%E8%A7%89%E5%BE%97%E5%86%B7%E4%BA%86%23" target="weibo">
 光是听声音都觉得冷了（热度：93475）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%AE%E5%A6%88%E5%A6%88%E7%83%A7%E9%94%85%E6%8A%8A%E7%BE%8E%E7%94%B2%E7%83%A7%E5%8C%96%E4%BA%86%23" target="weibo">
-女子帮妈妈烧锅把美甲烧化了（热度：92734）
 </a>
 </li>
 
@@ -7731,6 +7731,12 @@ TXT新专主打曲MV预告公开（热度：126146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8B%E6%83%85%E6%80%8E%E6%A0%B7%E5%86%99%E6%9C%80%E5%88%80%23" target="weibo">
+友情怎样写最刀（热度：41780）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%20%E7%A1%AC%E5%94%B1%E4%B9%9F%E8%83%BD%E5%94%B1%23" target="weibo">
 沈腾 硬唱也能唱（热度：38922）
 </a>
@@ -7769,12 +7775,6 @@ TXT新专主打曲MV预告公开（热度：126146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%A5%BD%E5%BF%99%23" target="weibo">
 周深好忙（热度：27755）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8B%E6%83%85%E6%80%8E%E6%A0%B7%E5%86%99%E6%9C%80%E5%88%80%23" target="weibo">
-友情怎样写最刀（热度：25819）
 </a>
 </li>
 
