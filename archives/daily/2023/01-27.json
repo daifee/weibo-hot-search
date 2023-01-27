@@ -1,6 +1,6 @@
 {
   "startTime": 1674750270610,
-  "endTime": 1674808610517,
+  "endTime": 1674811070406,
   "band_list": [
     {
       "raw_hot": 2118812,
@@ -49,6 +49,14 @@
       "onboard_time": 1674747866,
       "rank": 4,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1232947,
+      "num": 1232947,
+      "word": "吴京 恨嫁糙男",
+      "onboard_time": 1674801265,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 1228816,
@@ -115,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1049250,
-      "num": 1049250,
-      "word": "吴京 恨嫁糙男",
-      "onboard_time": 1674801265,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 1072796,
+      "num": 1072796,
+      "word": "一份椒麻鸡里有23块鸡屁股",
+      "onboard_time": 1674808348,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1040209,
@@ -235,11 +243,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 753180,
+      "num": 753180,
+      "word": "So TM true",
+      "onboard_time": 1674807925,
+      "rank": 19,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 749984,
       "num": 749984,
       "word": "王一博无名吐烟圈是现场发挥的",
       "onboard_time": 1674781826,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 739116,
+      "num": 739116,
+      "word": "谢楠潦草推荐流浪地球2",
+      "onboard_time": 1674805705,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -305,6 +329,14 @@
       "onboard_time": 1674807386,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 653754,
+      "num": 653754,
+      "word": "爷爷保护孙子不慎滑倒把娃铲飞",
+      "onboard_time": 1674808046,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 644221,
@@ -443,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 430859,
-      "num": 430859,
-      "word": "谢楠潦草推荐流浪地球2",
-      "onboard_time": 1674805705,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 424639,
       "num": 424639,
       "word": "把香菜做成了吃不起的样子",
@@ -523,6 +547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 373213,
+      "num": 373213,
+      "word": "女子回家过年14人睡同1屋",
+      "onboard_time": 1674808585,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367476,
       "num": 367476,
       "word": "流浪地球2票房破18亿",
@@ -537,6 +569,14 @@
       "onboard_time": 1674794486,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 351054,
+      "num": 351054,
+      "word": "岳云鹏问满江红看了吗",
+      "onboard_time": 1674808406,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 350046,
@@ -763,14 +803,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 260471,
-      "num": 260471,
-      "word": "So TM true",
-      "onboard_time": 1674807925,
-      "rank": 19,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 260262,
       "num": 260262,
       "word": "墨子回应Tian传闻",
@@ -880,14 +912,6 @@
       "word": "李现谢之遥是个好大哥",
       "onboard_time": 1674748826,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 221755,
-      "num": 221755,
-      "word": "岳云鹏问满江红看了吗",
-      "onboard_time": 1674808406,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -1011,6 +1035,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 190781,
+      "num": 190781,
+      "word": "苏翊鸣请大家用诗词为新动作命名",
+      "onboard_time": 1674807267,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190568,
       "num": 190568,
       "word": "黄渤新剧折腾5集一键归0",
@@ -1091,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174775,
+      "num": 174775,
+      "word": "今年春节档后劲最大的电影",
+      "onboard_time": 1674810865,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174649,
       "num": 174649,
       "word": "就给小猫吃一口吧",
@@ -1099,20 +1139,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172936,
+      "num": 172936,
+      "word": "有种爱叫爸妈觉得后备箱还能塞",
+      "onboard_time": 1674809426,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169859,
       "num": 162433,
       "word": "无名 镜头美学",
       "onboard_time": 1674783145,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169092,
-      "num": 169092,
-      "word": "苏翊鸣请大家用诗词为新动作命名",
-      "onboard_time": 1674807267,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 168282,
@@ -1137,14 +1177,6 @@
       "onboard_time": 1674801385,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163941,
-      "num": 163941,
-      "word": "爷爷保护孙子不慎滑倒把娃铲飞",
-      "onboard_time": 1674808046,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163360,
@@ -1235,6 +1267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146440,
+      "num": 146440,
+      "word": "男子砍柴时手机掉落秒变折叠屏",
+      "onboard_time": 1674810626,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146037,
       "num": 146037,
       "word": "中国驻旧金山总领馆发言人答记者问",
@@ -1315,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132346,
+      "num": 132346,
+      "word": "休宁凯新歌SugarRushRide镜头",
+      "onboard_time": 1674810325,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 132339,
       "num": 132339,
       "word": "谢之遥喊许红豆红豆豆",
@@ -1363,14 +1411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123450,
-      "num": 123450,
-      "word": "一份椒麻鸡里有23块鸡屁股",
-      "onboard_time": 1674808348,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123051,
       "num": 123051,
       "word": "王子异被秦昊开车半路抛下",
@@ -1393,6 +1433,14 @@
       "onboard_time": 1674780084,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121702,
+      "num": 121702,
+      "word": "20个月大宝宝扮西游记经典角色",
+      "onboard_time": 1674809605,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119547,
@@ -1459,12 +1507,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 105102,
-      "num": 105102,
-      "word": "女子回家过年14人睡同1屋",
-      "onboard_time": 1674808585,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 102680,
+      "num": 102680,
+      "word": "见过掉毛最好笑的博美",
+      "onboard_time": 1674810746,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 99966,
@@ -1572,7 +1620,7 @@
     },
     {
       "raw_hot": 59864,
-      "num": 1071738,
+      "num": 1108546,
       "word": "品味浓浓的年味",
       "onboard_time": 1674790344,
       "rank": 2,
