@@ -1,0 +1,410 @@
+{
+  "runTime": 1674815736577,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1137466,
+        "num": 1137466,
+        "word": "叶知秋",
+        "onboard_time": 1674812786,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1092995,
+        "num": 1092995,
+        "word": "吴京 恨嫁糙男",
+        "onboard_time": 1674801265,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33887,
+        "num": 841220,
+        "word": "品味浓浓的年味",
+        "onboard_time": 1674790344,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786352,
+        "num": 786352,
+        "word": "男子砍柴时手机掉落秒变折叠屏",
+        "onboard_time": 1674810626,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656225,
+        "num": 656225,
+        "word": "丹东站几乎每人都拎着泡沫箱子",
+        "onboard_time": 1674803486,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015472,
+        "num": 639069,
+        "word": "一份椒麻鸡里有23块鸡屁股",
+        "onboard_time": 1674808348,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611984,
+        "num": 611984,
+        "word": "姆巴佩想买C罗的私人飞机",
+        "onboard_time": 1674811227,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 465429,
+        "num": 465429,
+        "word": "谢楠潦草推荐流浪地球2",
+        "onboard_time": 1674805705,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418720,
+        "num": 418720,
+        "word": "爷爷保护孙子不慎滑倒把娃铲飞",
+        "onboard_time": 1674808046,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391454,
+        "num": 391454,
+        "word": "张弛回应演满江红掏上了",
+        "onboard_time": 1674814407,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 728876,
+        "num": 388490,
+        "word": "张若昀给唐艺昕新剧打call",
+        "onboard_time": 1674814464,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 563140,
+        "num": 387073,
+        "word": "3个同龄表哥过年走亲戚互不讲话",
+        "onboard_time": 1674813807,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428640,
+        "num": 386547,
+        "word": "店家回应游客点四个菜1500元",
+        "onboard_time": 1674813807,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385061,
+        "num": 385061,
+        "word": "国航航班颠簸下坠乘客录视频防不测",
+        "onboard_time": 1674800967,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372791,
+        "num": 372791,
+        "word": "男子与女友吵完架开车2分钟扣分22",
+        "onboard_time": 1674814407,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332508,
+        "num": 332508,
+        "word": "大侦探首案关注舆论控制",
+        "onboard_time": 1674812666,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325190,
+        "num": 325190,
+        "word": "崔然竣听到男粉应援的反应",
+        "onboard_time": 1674813324,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324801,
+        "num": 324801,
+        "word": "昆明地震",
+        "onboard_time": 1674808046,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315031,
+        "num": 315031,
+        "word": "女子回家过年14人睡同1屋",
+        "onboard_time": 1674808585,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300520,
+        "num": 300520,
+        "word": "吴京恳请大家不要再宣传300亿票房",
+        "onboard_time": 1674776836,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1664288,
+        "num": 300287,
+        "word": "易烊千玺粉丝送礼求好评",
+        "onboard_time": 1674812427,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268879,
+        "num": 268879,
+        "word": "虞书欣豹纹外套长靴上班路透",
+        "onboard_time": 1674813867,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260365,
+        "num": 260365,
+        "word": "今年春节档后劲最大的电影",
+        "onboard_time": 1674810865,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235540,
+        "num": 235540,
+        "word": "这年 又过完了",
+        "onboard_time": 1674800605,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221448,
+        "num": 221448,
+        "word": "流浪地球2用真诚换观众真心",
+        "onboard_time": 1674804506,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217536,
+        "num": 217536,
+        "word": "momoland解散",
+        "onboard_time": 1674803607,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214651,
+        "num": 214651,
+        "word": "岳云鹏问满江红看了吗",
+        "onboard_time": 1674808406,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204817,
+        "num": 204817,
+        "word": "吴京 同意的转",
+        "onboard_time": 1674807386,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200135,
+        "num": 200135,
+        "word": "见过掉毛最好笑的博美",
+        "onboard_time": 1674810746,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198052,
+        "num": 198052,
+        "word": "德约科维奇 澳网",
+        "onboard_time": 1674814827,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191520,
+        "num": 191520,
+        "word": "So TM true",
+        "onboard_time": 1674807925,
+        "rank": 30,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 187874,
+        "num": 187874,
+        "word": "一句话形容包邮区有多冷",
+        "onboard_time": 1674811887,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182370,
+        "num": 182370,
+        "word": "狂飙豆瓣评分涨至9.0分",
+        "onboard_time": 1674798087,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170713,
+        "num": 170713,
+        "word": "爱奇艺2023待播剧片单",
+        "onboard_time": 1674797486,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170257,
+        "num": 170257,
+        "word": "35岁单身女子时隔三年回家被问生子",
+        "onboard_time": 1674802287,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166965,
+        "num": 166965,
+        "word": "明星大侦探",
+        "onboard_time": 1674806426,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158728,
+        "num": 158728,
+        "word": "许红豆谢之遥相拥看日出",
+        "onboard_time": 1674813566,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145742,
+        "num": 145742,
+        "word": "把香菜做成了吃不起的样子",
+        "onboard_time": 1674803966,
+        "rank": 37,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 127353,
+        "num": 127353,
+        "word": "少年歌行无心获救",
+        "onboard_time": 1674814226,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123565,
+        "num": 123565,
+        "word": "昆明市西山区发生2.1级地震",
+        "onboard_time": 1674812247,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122748,
+        "num": 122748,
+        "word": "苏有朋邀请王俊凯参加项目被拒绝",
+        "onboard_time": 1674794065,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121747,
+        "num": 121747,
+        "word": "弟弟攒5年压岁钱给姐姐买万元金镯",
+        "onboard_time": 1674795687,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116714,
+        "num": 116714,
+        "word": "北海市监局回应4个菜1500元",
+        "onboard_time": 1674815486,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 108486,
+        "num": 108486,
+        "word": "20个月大宝宝扮西游记经典角色",
+        "onboard_time": 1674809605,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104176,
+        "num": 104176,
+        "word": "男孩逛景区被鹈鹕灌顶",
+        "onboard_time": 1674799644,
+        "rank": 44,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 99410,
+        "num": 99410,
+        "word": "春节假期全国国内旅游出游3.08亿人次",
+        "onboard_time": 1674815727,
+        "rank": 45,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 99114,
+        "num": 99114,
+        "word": "流浪地球2票房破20亿",
+        "onboard_time": 1674795626,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97073,
+        "num": 97073,
+        "word": "孙红雷曾为高叶鸣不平",
+        "onboard_time": 1674792565,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95289,
+        "num": 95289,
+        "word": "沈腾在西虹市首富里背过满江红",
+        "onboard_time": 1674792866,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94259,
+        "num": 94259,
+        "word": "有种爱叫爸妈觉得后备箱还能塞",
+        "onboard_time": 1674809426,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#大年初六顺顺利利#"
+    }
+  }
+}
