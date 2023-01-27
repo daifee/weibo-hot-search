@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/27 17:17:50
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/27 17:33:45
 </p>
 </blockquote>
 <p>
@@ -2427,6 +2427,12 @@ IVE假唱被KBS点名批评（热度：1570145）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BB%BD%E6%A4%92%E9%BA%BB%E9%B8%A1%E9%87%8C%E6%9C%8923%E5%9D%97%E9%B8%A1%E5%B1%81%E8%82%A1%23" target="weibo">
+一份椒麻鸡里有23块鸡屁股（热度：1470807）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%A5%BD%E4%BC%9A%E4%BA%B2%23" target="weibo">
 李现好会亲（热度：1470443）
 </a>
@@ -4445,12 +4451,6 @@ never 讨厌没有边界感的帅哥（热度：1159976）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%A5%B3%E5%84%BF%E6%8B%92%E7%BB%9D%E8%BF%BD%E6%B1%82%E8%A2%AB%E7%94%B7%E5%AD%A9%E6%B3%BC%E6%B1%BD%E6%B2%B9%E7%83%A7%E4%BC%A4%23" target="weibo">
 母亲称女儿拒绝追求被男孩泼汽油烧伤（热度：1072840）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BB%BD%E6%A4%92%E9%BA%BB%E9%B8%A1%E9%87%8C%E6%9C%8923%E5%9D%97%E9%B8%A1%E5%B1%81%E8%82%A1%23" target="weibo">
-一份椒麻鸡里有23块鸡屁股（热度：1072796）
 </a>
 </li>
 
