@@ -1,6 +1,6 @@
 {
   "startTime": 1674750270610,
-  "endTime": 1674825812779,
+  "endTime": 1674826512154,
   "band_list": [
     {
       "raw_hot": 2118812,
@@ -459,6 +459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 633499,
+      "num": 633499,
+      "word": "奶奶将女孩的小狗低价卖掉",
+      "onboard_time": 1674824487,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632987,
       "num": 632987,
       "word": "狗狗走失一个月回家狂撞门",
@@ -515,6 +523,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 601704,
+      "num": 601704,
+      "word": "突然告诉父母下周要领证",
+      "onboard_time": 1674820887,
+      "rank": 29,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 595810,
+      "num": 595810,
+      "word": "高叶 拍边境风云差点窒息",
+      "onboard_time": 1674823708,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 594917,
       "num": 594917,
       "word": "LWX",
@@ -531,19 +555,11 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 556452,
-      "num": 556452,
+      "raw_hot": 583328,
+      "num": 583328,
       "word": "安欣是扫黑的决心与初心",
       "onboard_time": 1674822628,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 546135,
-      "num": 546135,
-      "word": "高叶 拍边境风云差点窒息",
-      "onboard_time": 1674823708,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -577,14 +593,6 @@
       "onboard_time": 1674792565,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 522082,
-      "num": 522082,
-      "word": "突然告诉父母下周要领证",
-      "onboard_time": 1674820887,
-      "rank": 29,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 511109,
@@ -659,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 438104,
-      "num": 438104,
-      "word": "奶奶将女孩的小狗低价卖掉",
-      "onboard_time": 1674824487,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 437832,
       "num": 437832,
       "word": "女子回家过年14人睡同1屋",
@@ -689,6 +689,14 @@
       "onboard_time": 1674803966,
       "rank": 25,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 418020,
+      "num": 418020,
+      "word": "看完流浪地球杭二中师生沸腾了",
+      "onboard_time": 1674822570,
+      "rank": 21,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 414230,
@@ -721,14 +729,6 @@
       "onboard_time": 1674795806,
       "rank": 35,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 399531,
-      "num": 399531,
-      "word": "看完流浪地球杭二中师生沸腾了",
-      "onboard_time": 1674822570,
-      "rank": 21,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 394318,
@@ -931,12 +931,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327782,
+      "num": 327782,
+      "word": "去有风的地方大结局是HE",
+      "onboard_time": 1674825387,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323877,
       "num": 277609,
       "word": "TXT新歌上线",
       "onboard_time": 1674799225,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 321215,
+      "num": 321215,
+      "word": "喝酒喝多的人都能干出啥事",
+      "onboard_time": 1674823408,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 319904,
@@ -995,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301983,
+      "num": 301983,
+      "word": "周深方言猜歌领唱好魔性",
+      "onboard_time": 1674826108,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300372,
       "num": 300372,
       "word": "宋亚轩靠在马嘉祺肩膀上撒娇",
@@ -1017,14 +1041,6 @@
       "onboard_time": 1674816626,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290905,
-      "num": 290905,
-      "word": "喝酒喝多的人都能干出啥事",
-      "onboard_time": 1674823408,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 290773,
@@ -1203,12 +1219,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 257878,
+      "num": 238031,
+      "word": "红豆遥遥冰一吻定格",
+      "onboard_time": 1674825808,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256089,
       "num": 256089,
       "word": "胡彦斌再唱16岁时创作的歌",
       "onboard_time": 1674822207,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 253237,
+      "num": 244590,
+      "word": "狂飙站内热度破11000",
+      "onboard_time": 1674825865,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 252645,
@@ -1243,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246139,
+      "num": 246139,
+      "word": "狗狗也要和小伙伴分别了",
+      "onboard_time": 1674822268,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 245543,
       "num": 245543,
       "word": "热闹后的冷清才最孤独",
@@ -1265,14 +1305,6 @@
       "onboard_time": 1674820828,
       "rank": 26,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 243037,
-      "num": 243037,
-      "word": "狗狗也要和小伙伴分别了",
-      "onboard_time": 1674822268,
-      "rank": 44,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 240986,
@@ -1331,11 +1363,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 228863,
-      "num": 228863,
-      "word": "去有风的地方大结局是HE",
-      "onboard_time": 1674825387,
-      "rank": 28,
+      "raw_hot": 227519,
+      "num": 221939,
+      "word": "刘亦菲说风吹过带来改变的力量",
+      "onboard_time": 1674826348,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1376,6 +1408,14 @@
       "word": "安欣什么都没有了",
       "onboard_time": 1674794787,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 215763,
+      "num": 215763,
+      "word": "小扶摇长大了",
+      "onboard_time": 1674822207,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -1451,6 +1491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202567,
+      "num": 202567,
+      "word": "前有掌柜赵盼儿后有民宿老板许红豆",
+      "onboard_time": 1674826050,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202129,
       "num": 202129,
       "word": "景区回应游客在神像手里放满香烟",
@@ -1464,6 +1512,14 @@
       "word": "杨超越说微博上有很多能人异士",
       "onboard_time": 1674783565,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199232,
+      "num": 199232,
+      "word": "周云蓬叶蓓演绎红楼梦名曲",
+      "onboard_time": 1674826168,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1513,14 +1569,6 @@
       "onboard_time": 1674720327,
       "rank": 24,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 187422,
-      "num": 187422,
-      "word": "红豆遥遥冰一吻定格",
-      "onboard_time": 1674825808,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 187413,
@@ -1595,6 +1643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177789,
+      "num": 156179,
+      "word": "高叶从此大嫂有了脸",
+      "onboard_time": 1674826288,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175118,
       "num": 175118,
       "word": "朱珠演的冬晓",
@@ -1619,19 +1675,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 170670,
-      "num": 170670,
-      "word": "小扶摇长大了",
-      "onboard_time": 1674822207,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 169859,
       "num": 162433,
       "word": "无名 镜头美学",
       "onboard_time": 1674783145,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 169018,
+      "num": 155136,
+      "word": "沙溢到底杀青了多少回",
+      "onboard_time": 1674825865,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -1641,6 +1697,14 @@
       "onboard_time": 1674787765,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168222,
+      "num": 154625,
+      "word": "万里归途首播收视破1",
+      "onboard_time": 1674826348,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 167075,
@@ -1793,6 +1857,14 @@
       "onboard_time": 1674774795,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147215,
+      "num": 147215,
+      "word": "HLE对战KT",
+      "onboard_time": 1674826229,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 146037,
