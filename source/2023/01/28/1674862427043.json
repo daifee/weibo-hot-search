@@ -1,0 +1,410 @@
+{
+  "runTime": 1674862427043,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 653572,
+        "num": 653572,
+        "word": "男子花20多万到三亚度假遭遇节约型爸妈",
+        "onboard_time": 1674831030,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257131,
+        "num": 257131,
+        "word": "高启兰喜欢安欣",
+        "onboard_time": 1674860595,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66725,
+        "num": 253035,
+        "word": "离家的行囊满是爱和牵挂",
+        "onboard_time": 1674828749,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248993,
+        "num": 248993,
+        "word": "景区回应5人花100元看时空隧道",
+        "onboard_time": 1674853990,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 240656,
+        "num": 240656,
+        "word": "狂飙大结局那天是李响头七",
+        "onboard_time": 1674832229,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215958,
+        "num": 215958,
+        "word": "3个同龄表哥过年走亲戚互不讲话",
+        "onboard_time": 1674813807,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209228,
+        "num": 209228,
+        "word": "今天上班",
+        "onboard_time": 1674826946,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 203824,
+        "num": 203824,
+        "word": "狂飙",
+        "onboard_time": 1674819748,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187515,
+        "num": 187515,
+        "word": "何立的腰",
+        "onboard_time": 1674832889,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186280,
+        "num": 186280,
+        "word": "流浪地球2周边众筹已超3200万",
+        "onboard_time": 1674834746,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269075,
+        "num": 183515,
+        "word": "男子春节逆向旅游深圳承包整片沙滩",
+        "onboard_time": 1674847332,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180323,
+        "num": 180323,
+        "word": "动物园小老虎奶豆上班摆烂",
+        "onboard_time": 1674859933,
+        "rank": 11,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 157732,
+        "num": 157732,
+        "word": "流浪地球周边",
+        "onboard_time": 1674861316,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149906,
+        "num": 149906,
+        "word": "4个菜1500元饭店多年前已有宰客投诉",
+        "onboard_time": 1674857832,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 140748,
+        "num": 140748,
+        "word": "张朝阳建议流浪地球3加入拉格朗日点",
+        "onboard_time": 1674833906,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128240,
+        "num": 128240,
+        "word": "大年初七开工大吉",
+        "onboard_time": 1674861374,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117864,
+        "num": 117864,
+        "word": "俞灏明回应拿快男第六的原因",
+        "onboard_time": 1674835825,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116805,
+        "num": 116805,
+        "word": "草莓怎么洗才干净",
+        "onboard_time": 1674861797,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109588,
+        "num": 109588,
+        "word": "LV老板因中国游客回归看好奢侈品市场",
+        "onboard_time": 1674861136,
+        "rank": 18,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 107235,
+        "num": 107235,
+        "word": "奶奶将女孩的小狗低价卖掉",
+        "onboard_time": 1674824487,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97586,
+        "num": 97586,
+        "word": "去有风的地方大结局是HE",
+        "onboard_time": 1674825387,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91261,
+        "num": 91261,
+        "word": "丹东站几乎每人都拎着泡沫箱子",
+        "onboard_time": 1674803486,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87832,
+        "num": 87832,
+        "word": "女子路遇大老鼠不慎摔倒砸死老鼠",
+        "onboard_time": 1674827847,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84973,
+        "num": 84973,
+        "word": "看完流浪地球杭二中师生沸腾了",
+        "onboard_time": 1674822570,
+        "rank": 23,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 83134,
+        "num": 83134,
+        "word": "北海市监局回应4个菜1500元",
+        "onboard_time": 1674815486,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 78753,
+        "num": 78753,
+        "word": "这孩子演技太厉害不像演的",
+        "onboard_time": 1674834988,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76486,
+        "num": 76486,
+        "word": "男子与女友吵完架开车2分钟扣分22",
+        "onboard_time": 1674814407,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75085,
+        "num": 75085,
+        "word": "王鹤棣在机场被粉丝怼脸拍",
+        "onboard_time": 1674828031,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73233,
+        "num": 73233,
+        "word": "转眼间三个女儿都长大了",
+        "onboard_time": 1674835705,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 68392,
+        "num": 68392,
+        "word": "易烊千玺满江红镜头感",
+        "onboard_time": 1674835407,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273240,
+        "num": 68344,
+        "word": "王鹤棣去炸串店和粉丝打招呼",
+        "onboard_time": 1674861857,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67477,
+        "num": 67477,
+        "word": "世上从此有了满江红",
+        "onboard_time": 1674833009,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66421,
+        "num": 66421,
+        "word": "沙溢到底杀青了多少回",
+        "onboard_time": 1674825865,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65283,
+        "num": 65283,
+        "word": "SEVENTEEN 奖杯",
+        "onboard_time": 1674823828,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63889,
+        "num": 63889,
+        "word": "辱母案当事人于欢升级当爸",
+        "onboard_time": 1674817287,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63859,
+        "num": 63859,
+        "word": "三体 还原的嘞",
+        "onboard_time": 1674831750,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63192,
+        "num": 63192,
+        "word": "安欣高启强饭搭子Be",
+        "onboard_time": 1674828205,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62568,
+        "num": 62568,
+        "word": "红豆遥遥冰一吻定格",
+        "onboard_time": 1674825808,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61998,
+        "num": 61998,
+        "word": "仙女棒在橘子里不会灭",
+        "onboard_time": 1674832650,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55892,
+        "num": 55892,
+        "word": "2023年春节档票房破67亿元",
+        "onboard_time": 1674830548,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53093,
+        "num": 53093,
+        "word": "高叶 拍边境风云差点窒息",
+        "onboard_time": 1674823708,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50598,
+        "num": 50598,
+        "word": "友情怎样写最刀",
+        "onboard_time": 1674843195,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49114,
+        "num": 49114,
+        "word": "叶知秋",
+        "onboard_time": 1674812786,
+        "rank": 42,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 48276,
+        "num": 48276,
+        "word": "熊妈也是第一次当妈",
+        "onboard_time": 1674862157,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43754,
+        "num": 43754,
+        "word": "喝酒喝多的人都能干出啥事",
+        "onboard_time": 1674823408,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43412,
+        "num": 43412,
+        "word": "这违停都抄不到牌",
+        "onboard_time": 1674831508,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42888,
+        "num": 42888,
+        "word": "突然告诉父母下周要领证",
+        "onboard_time": 1674820887,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 41081,
+        "num": 41081,
+        "word": "原来刘德华早就有数字生命了",
+        "onboard_time": 1674818247,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40848,
+        "num": 40848,
+        "word": "演员李健直播",
+        "onboard_time": 1674862399,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38939,
+        "num": 38939,
+        "word": "赵丽颖给唐艺昕新剧打call",
+        "onboard_time": 1674820349,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力弘扬家国情怀#"
+    }
+  }
+}
