@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674789576463,
+  "endTime": 1674790422431,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -1067,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 771742,
+      "num": 771742,
+      "word": "吴京说中国乒乓是打不死的小强",
+      "onboard_time": 1674788666,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 771385,
       "num": 421650,
       "word": "家属回应老人除夕夜遭儿媳棍打",
@@ -1256,14 +1264,6 @@
       "word": "高叶 老有人说我有佛缘",
       "onboard_time": 1674465503,
       "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 719920,
-      "num": 719920,
-      "word": "吴京说中国乒乓是打不死的小强",
-      "onboard_time": 1674788666,
-      "rank": 6,
       "category": "影视"
     },
     {
@@ -1769,6 +1769,14 @@
       "onboard_time": 1674572369,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 577848,
+      "num": 577848,
+      "word": "岳将军的满江红已经名扬天下了",
+      "onboard_time": 1674788906,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 576821,
@@ -2539,6 +2547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455795,
+      "num": 455795,
+      "word": "TXT 回归",
+      "onboard_time": 1674789988,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 454596,
       "num": 358863,
       "word": "流浪地球2",
@@ -2771,6 +2787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 420913,
+      "num": 577676,
+      "word": "正月初六对生意人意味着什么",
+      "onboard_time": 1674787645,
+      "rank": 36,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 419904,
       "num": 419904,
       "word": "蔡徐坤默片国风舞台",
@@ -2947,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403124,
+      "num": 403124,
+      "word": "女儿返程点千元外卖塞满父母冰箱",
+      "onboard_time": 1674788187,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402480,
       "num": 402480,
       "word": "三体颅内取景",
@@ -2993,22 +3025,6 @@
       "onboard_time": 1674641909,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 398169,
-      "num": 398169,
-      "word": "正月初六对生意人意味着什么",
-      "onboard_time": 1674787645,
-      "rank": 36,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 397621,
-      "num": 397621,
-      "word": "女儿返程点千元外卖塞满父母冰箱",
-      "onboard_time": 1674788187,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 397307,
@@ -3931,14 +3947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315757,
-      "num": 288909,
-      "word": "岳将军的满江红已经名扬天下了",
-      "onboard_time": 1674788906,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 315629,
       "num": 315629,
       "word": "王一博说拍无名是人生压力最大时刻",
@@ -4795,6 +4803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255953,
+      "num": 253283,
+      "word": "高启兰",
+      "onboard_time": 1674788547,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255946,
       "num": 255946,
       "word": "今年的压岁钱分配也太合理了",
@@ -4985,6 +5001,14 @@
       "onboard_time": 1674523345,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246376,
+      "num": 246376,
+      "word": "C罗被铲伤",
+      "onboard_time": 1674789388,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 245518,
@@ -5491,6 +5515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217154,
+      "num": 217154,
+      "word": "德云社节目单",
+      "onboard_time": 1674788906,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216827,
       "num": 216827,
       "word": "是我心中财神的形象了",
@@ -5577,14 +5609,6 @@
       "onboard_time": 1674626483,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211038,
-      "num": 211038,
-      "word": "高启兰",
-      "onboard_time": 1674788547,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 210985,
@@ -5904,6 +5928,14 @@
       "word": "谢之遥给许红豆写的道歉信",
       "onboard_time": 1674529403,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 199098,
+      "num": 199098,
+      "word": "打开生活里的中年真实",
+      "onboard_time": 1674789988,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -6483,14 +6515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177278,
-      "num": 177278,
-      "word": "德云社节目单",
-      "onboard_time": 1674788906,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177178,
       "num": 177178,
       "word": "普尔绝杀",
@@ -6843,6 +6867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162539,
+      "num": 162539,
+      "word": "景区工作人员提前下班禁止游客进入",
+      "onboard_time": 1674788846,
+      "rank": 43,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 162259,
       "num": 162259,
       "word": "许光汉韩国见面会生图",
@@ -6979,6 +7011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155029,
+      "num": 162617,
+      "word": "5名中国公民在半月湾枪击事件中遇难",
+      "onboard_time": 1674789808,
+      "rank": 39,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 154821,
       "num": 154821,
       "word": "过年不适合换新发型",
@@ -7040,6 +7080,14 @@
       "word": "流浪地球2是对人类命运共同体的思考",
       "onboard_time": 1674539783,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 151960,
+      "num": 151960,
+      "word": "王濛自荐出演流浪地球3",
+      "onboard_time": 1674789089,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -7323,14 +7371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140704,
-      "num": 140704,
-      "word": "景区工作人员提前下班禁止游客进入",
-      "onboard_time": 1674788846,
-      "rank": 43,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 140164,
       "num": 140164,
       "word": "谢之遥一个脑瓜崩换许红豆一个吻",
@@ -7419,14 +7459,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 136823,
-      "num": 136823,
-      "word": "王濛自荐出演流浪地球3",
-      "onboard_time": 1674789089,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 136758,
       "num": 136758,
       "word": "快船vs湖人",
@@ -7489,6 +7521,14 @@
       "onboard_time": 1674449607,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134516,
+      "num": 134516,
+      "word": "新年珠峰上空的绝美彩云",
+      "onboard_time": 1674790168,
+      "rank": 47,
+      "category": "旅游,自然"
     },
     {
       "raw_hot": 134462,
@@ -7641,14 +7681,6 @@
       "onboard_time": 1674438927,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 127820,
-      "num": 127820,
-      "word": "C罗被铲伤",
-      "onboard_time": 1674789388,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 127714,
@@ -7889,6 +7921,14 @@
       "onboard_time": 1674431117,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118188,
+      "num": 118188,
+      "word": "流浪地球2口碑",
+      "onboard_time": 1674789927,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 117325,
@@ -8809,6 +8849,14 @@
       "onboard_time": 1674306002,
       "rank": 48,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 8520,
+      "num": 922599,
+      "word": "品味浓浓的年味",
+      "onboard_time": 1674790344,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
