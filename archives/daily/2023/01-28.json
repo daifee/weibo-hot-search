@@ -1,6 +1,6 @@
 {
   "startTime": 1674836705003,
-  "endTime": 1674854154938,
+  "endTime": 1674855219143,
   "band_list": [
     {
       "raw_hot": 1059429,
@@ -457,6 +457,14 @@
       "onboard_time": 1674824188,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 13949,
+      "num": 13949,
+      "word": "景区回应5人花100元看时空隧道",
+      "onboard_time": 1674853990,
+      "rank": 45,
+      "category": "旅游,社会新闻"
     }
   ],
   "hotgov_list": [
