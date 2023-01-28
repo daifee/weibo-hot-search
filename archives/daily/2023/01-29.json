@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674924030406,
+  "endTime": 1674926133062,
   "band_list": [
     {
       "raw_hot": 1679916,
@@ -75,20 +75,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 615042,
+      "num": 615042,
+      "word": "杨迪回应委屈传闻",
+      "onboard_time": 1674920728,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 603052,
       "num": 603052,
       "word": "男子捡黑太岁养4年增重14斤8两",
       "onboard_time": 1674917609,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 599103,
-      "num": 599103,
-      "word": "杨迪回应委屈传闻",
-      "onboard_time": 1674920728,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 587764,
@@ -171,12 +171,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330613,
+      "num": 330613,
+      "word": "女子点外卖偷放钢丝16次敲诈商家",
+      "onboard_time": 1674923125,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278597,
       "num": 278597,
       "word": "网友反映福建莆田彩礼最多达200万",
       "onboard_time": 1674918511,
       "rank": 17,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 245924,
+      "num": 187486,
+      "word": "沈月自曝多次大难不死",
+      "onboard_time": 1674922586,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 234447,
+      "num": 182752,
+      "word": "流浪地球2自来水送票",
+      "onboard_time": 1674925820,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 232614,
@@ -219,12 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182675,
-      "num": 168503,
-      "word": "沈月自曝多次大难不死",
-      "onboard_time": 1674922586,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 198305,
+      "num": 198305,
+      "word": "像极了烂尾楼要开始赶工期",
+      "onboard_time": 1674921028,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 178060,
@@ -233,14 +257,6 @@
       "onboard_time": 1674908248,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177152,
-      "num": 177152,
-      "word": "像极了烂尾楼要开始赶工期",
-      "onboard_time": 1674921028,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 169711,
@@ -363,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99839,
-      "num": 99839,
-      "word": "女子点外卖偷放钢丝16次敲诈商家",
-      "onboard_time": 1674923125,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94005,
       "num": 1162654,
       "word": "带着思念期待着下次相见",
@@ -392,6 +400,14 @@
       "word": "流浪地球3刘培强该如何复活",
       "onboard_time": 1674898706,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 80238,
+      "num": 80238,
+      "word": "来自剧中的开工祝福",
+      "onboard_time": 1674924861,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -417,6 +433,14 @@
       "onboard_time": 1674919768,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 50883,
+      "num": 50883,
+      "word": "监管部门回应58元烩菜事件处理进展",
+      "onboard_time": 1674925639,
+      "rank": 48,
+      "category": "社会新闻,财经"
     }
   ],
   "hotgov_list": [
@@ -425,6 +449,9 @@
     },
     {
       "word": "#新年开工寄语#"
+    },
+    {
+      "word": "#流动的中国释放发展动力#"
     }
   ]
 }
