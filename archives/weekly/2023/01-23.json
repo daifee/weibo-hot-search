@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674937080037,
+  "endTime": 1674938023159,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -12611,6 +12611,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 41395,
+      "num": 41395,
+      "word": "大妈用鞋底暴抽秦桧跪像",
+      "onboard_time": 1674932053,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38922,
       "num": 38922,
       "word": "沈腾 硬唱也能唱",
@@ -12665,14 +12673,6 @@
       "onboard_time": 1674587474,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 27939,
-      "num": 27939,
-      "word": "大妈用鞋底暴抽秦桧跪像",
-      "onboard_time": 1674932053,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27755,
