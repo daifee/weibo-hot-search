@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674940502561,
+  "endTime": 1674941608168,
   "band_list": [
     {
       "raw_hot": 1679916,
@@ -497,6 +497,14 @@
       "onboard_time": 1674932053,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12582,
+      "num": 12582,
+      "word": "张颂文微博 认真分享生活",
+      "onboard_time": 1674898646,
+      "rank": 49,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
