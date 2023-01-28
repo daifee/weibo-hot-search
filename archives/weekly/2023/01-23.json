@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674873815227,
+  "endTime": 1674874403320,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -684,7 +684,7 @@
     },
     {
       "raw_hot": 1131143,
-      "num": 468272,
+      "num": 472541,
       "word": "王鹤棣去炸串店和粉丝打招呼",
       "onboard_time": 1674861857,
       "rank": 30,
@@ -753,6 +753,14 @@
       "onboard_time": 1674619641,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1087197,
+      "num": 1087197,
+      "word": "58元烩菜没肉爆料者称被辱骂近崩溃",
+      "onboard_time": 1674870924,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1075990,
@@ -841,14 +849,6 @@
       "onboard_time": 1674559526,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1021079,
-      "num": 1021079,
-      "word": "58元烩菜没肉爆料者称被辱骂近崩溃",
-      "onboard_time": 1674870924,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1018604,
@@ -1827,6 +1827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 671182,
+      "num": 671182,
+      "word": "流浪地球",
+      "onboard_time": 1674525925,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 669500,
       "num": 669500,
       "word": "女子零下14度观影被冻到扶墙退场",
@@ -2019,14 +2027,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 633497,
-      "num": 633497,
-      "word": "流浪地球",
-      "onboard_time": 1674525925,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 632987,
       "num": 632987,
       "word": "狗狗走失一个月回家狂撞门",
@@ -2163,6 +2163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 605495,
+      "num": 471476,
+      "word": "佩洛西丈夫遭袭视频公布",
+      "onboard_time": 1674872305,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 605231,
       "num": 605231,
       "word": "你觉得和前任相处的界限在哪",
@@ -2177,6 +2185,14 @@
       "onboard_time": 1674820887,
       "rank": 29,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 600288,
+      "num": 600288,
+      "word": "寺庙内设电子扫码烧金",
+      "onboard_time": 1674870146,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 598773,
@@ -2248,14 +2264,6 @@
       "word": "正月初三睡到饱",
       "onboard_time": 1674529226,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 579654,
-      "num": 579654,
-      "word": "寺庙内设电子扫码烧金",
-      "onboard_time": 1674870146,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -3003,6 +3011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483331,
+      "num": 483331,
+      "word": "听说你喜欢我定档0210",
+      "onboard_time": 1674873985,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 482062,
       "num": 482062,
       "word": "王一博王传君神同步看表是即兴发挥",
@@ -3147,12 +3163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460593,
+      "num": 460593,
+      "word": "喜欢下班的朋友有福了",
+      "onboard_time": 1674871647,
+      "rank": 12,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 459248,
       "num": 459248,
       "word": "李一桐配音小师妹吴镇宇连夸九次很好",
       "onboard_time": 1674481767,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 456416,
+      "num": 456416,
+      "word": "乔杉范丞丞马丽张婧仪新片定档五一",
+      "onboard_time": 1674873564,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 454596,
@@ -3177,14 +3209,6 @@
       "onboard_time": 1674777862,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 450858,
-      "num": 402366,
-      "word": "佩洛西丈夫遭袭视频公布",
-      "onboard_time": 1674872305,
-      "rank": 11,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 450055,
@@ -3297,6 +3321,14 @@
       "onboard_time": 1674649413,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436423,
+      "num": 436423,
+      "word": "狂飙后遗症",
+      "onboard_time": 1674869304,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 434285,
@@ -3571,14 +3603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410402,
-      "num": 410402,
-      "word": "狂飙后遗症",
-      "onboard_time": 1674869304,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 409096,
       "num": 409096,
       "word": "詹姆斯创个人单场三分纪录",
@@ -3779,14 +3803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 393317,
-      "num": 393317,
-      "word": "喜欢下班的朋友有福了",
-      "onboard_time": 1674871647,
-      "rank": 12,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 391839,
       "num": 391839,
       "word": "你已断开连接",
@@ -3800,14 +3816,6 @@
       "word": "高启强妹妹去哪了",
       "onboard_time": 1674549084,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 391482,
-      "num": 391482,
-      "word": "乔杉范丞丞马丽张婧仪新片定档五一",
-      "onboard_time": 1674873564,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -3857,6 +3865,14 @@
       "onboard_time": 1674398908,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387152,
+      "num": 387152,
+      "word": "鹿晗银灰发侧颜照",
+      "onboard_time": 1674872425,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 387060,
@@ -4089,14 +4105,6 @@
       "onboard_time": 1674835825,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371824,
-      "num": 371824,
-      "word": "鹿晗银灰发侧颜照",
-      "onboard_time": 1674872425,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 371357,
@@ -4368,6 +4376,14 @@
       "word": "谢楠晒刘培强证件照",
       "onboard_time": 1674826888,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 351794,
+      "num": 351794,
+      "word": "赵露思神隐蓝裙造型饭拍路透",
+      "onboard_time": 1674873805,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -6075,6 +6091,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 254786,
+      "num": 254786,
+      "word": "特斯拉本周暴涨33%",
+      "onboard_time": 1674872845,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 254762,
       "num": 220454,
       "word": "狂飙预告",
@@ -6553,14 +6577,6 @@
       "onboard_time": 1674628044,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 234360,
-      "num": 234360,
-      "word": "赵露思神隐蓝裙造型饭拍路透",
-      "onboard_time": 1674873805,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 234125,
@@ -7273,14 +7289,6 @@
       "onboard_time": 1674431358,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203223,
-      "num": 203223,
-      "word": "特斯拉本周暴涨33%",
-      "onboard_time": 1674872845,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 203160,
@@ -8467,6 +8475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165364,
+      "num": 165364,
+      "word": "安欣是真的想拯救每个人",
+      "onboard_time": 1674874104,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165168,
       "num": 165168,
       "word": "张凌赫水牛报菜名",
@@ -8939,6 +8955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148096,
+      "num": 148096,
+      "word": "又有神秘天外来客到访地球",
+      "onboard_time": 1674871407,
+      "rank": 41,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 148023,
       "num": 148023,
       "word": "40岁男子给8岁小孩磕头拜年",
@@ -8979,20 +9003,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146732,
+      "num": 146732,
+      "word": "高启强开会摸鱼演我",
+      "onboard_time": 1674873926,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146627,
       "num": 146627,
       "word": "TXT新专辑预售量突破216万张",
       "onboard_time": 1674629123,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 146208,
-      "num": 146208,
-      "word": "又有神秘天外来客到访地球",
-      "onboard_time": 1674871407,
-      "rank": 41,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 146037,
@@ -9091,6 +9115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144425,
+      "num": 151983,
+      "word": "人工智能会取代人类吗",
+      "onboard_time": 1674873625,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 144291,
       "num": 144291,
       "word": "酒店推出火锅浴温泉池漂满白菜茄子",
@@ -9129,6 +9161,14 @@
       "onboard_time": 1674542725,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143652,
+      "num": 143652,
+      "word": "推到年后的工作开始袭击我",
+      "onboard_time": 1674871764,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 143335,
@@ -9361,14 +9401,6 @@
       "onboard_time": 1674619223,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 134775,
-      "num": 134775,
-      "word": "推到年后的工作开始袭击我",
-      "onboard_time": 1674871764,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 134763,
@@ -9665,6 +9697,14 @@
       "onboard_time": 1674517457,
       "rank": 38,
       "category": "综艺,音乐"
+    },
+    {
+      "raw_hot": 124862,
+      "num": 124862,
+      "word": "王嘉尔世巡官宣南美",
+      "onboard_time": 1674874226,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 124784,
@@ -9969,14 +10009,6 @@
       "onboard_time": 1674630623,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 113585,
-      "num": 124708,
-      "word": "人工智能会取代人类吗",
-      "onboard_time": 1674873625,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 113067,
