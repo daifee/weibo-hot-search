@@ -1,0 +1,410 @@
+{
+  "runTime": 1674884019094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1757647,
+        "num": 1757647,
+        "word": "专家称新冠病毒有点传不动了",
+        "onboard_time": 1674880946,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1156700,
+        "num": 1156700,
+        "word": "肖战任敏玉骨遥同框视频",
+        "onboard_time": 1674881485,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194965,
+        "num": 1101631,
+        "word": "X光安检机下的返程行囊",
+        "onboard_time": 1674866903,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1050657,
+        "num": 1050657,
+        "word": "高启兰是不是吴昕演的",
+        "onboard_time": 1674880165,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 906757,
+        "num": 906757,
+        "word": "特斯拉市值一夜大涨3800亿",
+        "onboard_time": 1674878966,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 858479,
+        "num": 858479,
+        "word": "迪丽热巴杨紫最新开工营业照",
+        "onboard_time": 1674875125,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1038661,
+        "num": 857504,
+        "word": "上班后对秦桧的怨气更重了",
+        "onboard_time": 1674880227,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 856107,
+        "num": 856107,
+        "word": "女子回老家过年忘关火锅被连烧7天",
+        "onboard_time": 1674879146,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780292,
+        "num": 780292,
+        "word": "张颂文评论区",
+        "onboard_time": 1674867746,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 759432,
+        "num": 759432,
+        "word": "14岁初中生保送清华本硕博连读",
+        "onboard_time": 1674863720,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 715062,
+        "num": 715062,
+        "word": "90后开始整顿娃圈了",
+        "onboard_time": 1674879927,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 491556,
+        "num": 491556,
+        "word": "今年可以打工384天",
+        "onboard_time": 1674877886,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 483057,
+        "num": 483057,
+        "word": "王鹤棣去炸串店和粉丝打招呼",
+        "onboard_time": 1674861857,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474136,
+        "num": 474136,
+        "word": "流浪地球2周边商家呼吁理性消费",
+        "onboard_time": 1674876684,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471093,
+        "num": 471093,
+        "word": "高家不养闲人",
+        "onboard_time": 1674883047,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418646,
+        "num": 418646,
+        "word": "Uzi61万股权被冻结",
+        "onboard_time": 1674878844,
+        "rank": 15,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 377128,
+        "num": 377128,
+        "word": "流浪地球2海外上映获好评",
+        "onboard_time": 1674883168,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336812,
+        "num": 336812,
+        "word": "张婧仪无名破五亿海报",
+        "onboard_time": 1674882986,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333132,
+        "num": 333132,
+        "word": "满江红后劲有多大",
+        "onboard_time": 1674876147,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331149,
+        "num": 331149,
+        "word": "刘耀文杨迪cos步惊云聂风",
+        "onboard_time": 1674881186,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330605,
+        "num": 330605,
+        "word": "王一博黑色皮衣开工六宫格",
+        "onboard_time": 1674882625,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298663,
+        "num": 298663,
+        "word": "上班苦还是上学苦呢",
+        "onboard_time": 1674879805,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284028,
+        "num": 284028,
+        "word": "狂飙后遗症",
+        "onboard_time": 1674869304,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275766,
+        "num": 275766,
+        "word": "兄弟这班是非上不可吗",
+        "onboard_time": 1674878605,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275034,
+        "num": 275034,
+        "word": "满江红成2023春节档票房冠军",
+        "onboard_time": 1674882207,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270162,
+        "num": 270162,
+        "word": "2023五一档电影阵容",
+        "onboard_time": 1674875726,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253041,
+        "num": 253041,
+        "word": "易烊千玺满江红黑白剧照",
+        "onboard_time": 1674878665,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235993,
+        "num": 235993,
+        "word": "赵丽颖上城士2023开年刊",
+        "onboard_time": 1674880227,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177793,
+        "num": 230020,
+        "word": "佩洛西丈夫遭袭视频公布",
+        "onboard_time": 1674872305,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 173804,
+        "num": 227442,
+        "word": "32岁排雷英雄杜富国升级当爸",
+        "onboard_time": 1674876386,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336692,
+        "num": 227318,
+        "word": "高晓晨扮演者是吴刚儿子",
+        "onboard_time": 1674882625,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226738,
+        "num": 226738,
+        "word": "流浪地球",
+        "onboard_time": 1674866604,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211948,
+        "num": 211948,
+        "word": "肖战开工随拍",
+        "onboard_time": 1674874705,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209619,
+        "num": 209619,
+        "word": "春节电影总票房67.58亿元影史第二",
+        "onboard_time": 1674882447,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182638,
+        "num": 182638,
+        "word": "范丞丞说今年五一欢乐发车",
+        "onboard_time": 1674880707,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208010,
+        "num": 180173,
+        "word": "春节像是做了一场热闹的梦",
+        "onboard_time": 1674878665,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176700,
+        "num": 176700,
+        "word": "刚上班就已经开始困了",
+        "onboard_time": 1674878905,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176522,
+        "num": 176522,
+        "word": "高叶李奕臻胡冰卿女二人设",
+        "onboard_time": 1674879444,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175494,
+        "num": 175494,
+        "word": "过完年后有什么打算",
+        "onboard_time": 1674883288,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159753,
+        "num": 169781,
+        "word": "玩具店主春节忘锁门8天未丢一物",
+        "onboard_time": 1674882568,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164208,
+        "num": 164208,
+        "word": "沈腾1场戏1个字3种情绪",
+        "onboard_time": 1674871466,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162156,
+        "num": 162156,
+        "word": "张译曾被熊猫袭胸",
+        "onboard_time": 1674864320,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156453,
+        "num": 156453,
+        "word": "听说你喜欢我定档0210",
+        "onboard_time": 1674873985,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155213,
+        "num": 155213,
+        "word": "华晨宇方晒应援棒外观设计专利证书",
+        "onboard_time": 1674865644,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140190,
+        "num": 140190,
+        "word": "三亚建议各类珍稀海产品加价率50%以内",
+        "onboard_time": 1674876626,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139553,
+        "num": 139553,
+        "word": "杨紫黄色大衣随拍",
+        "onboard_time": 1674877285,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 132614,
+        "num": 132614,
+        "word": "彭冠英王楚然新剧吻戏",
+        "onboard_time": 1674879086,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129444,
+        "num": 129444,
+        "word": "喜欢下班的朋友有福了",
+        "onboard_time": 1674871647,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 128061,
+        "num": 128061,
+        "word": "热舞的安妮海瑟薇",
+        "onboard_time": 1674868524,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116871,
+        "num": 116871,
+        "word": "寺庙内设电子扫码烧金",
+        "onboard_time": 1674870146,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#兔年第一个开工日#"
+    }
+  }
+}
