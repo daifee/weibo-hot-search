@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674930058650,
+  "endTime": 1674930881682,
   "band_list": [
     {
       "raw_hot": 1679916,
@@ -379,20 +379,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 105966,
+      "num": 105966,
+      "word": "监管部门回应58元烩菜事件处理进展",
+      "onboard_time": 1674925639,
+      "rank": 48,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 104580,
       "num": 104580,
       "word": "荣梓杉听不懂粤语怀疑人生",
       "onboard_time": 1674913652,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104255,
-      "num": 104255,
-      "word": "监管部门回应58元烩菜事件处理进展",
-      "onboard_time": 1674925639,
-      "rank": 48,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 94005,
@@ -467,20 +467,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 56354,
+      "num": 56354,
+      "word": "热恋期跟对象打电话的样子",
+      "onboard_time": 1674929176,
+      "rank": 48,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 54488,
       "num": 54488,
       "word": "原来MOSS的电话真的能打通",
       "onboard_time": 1674901826,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 30994,
-      "num": 32345,
-      "word": "热恋期跟对象打电话的样子",
-      "onboard_time": 1674929176,
-      "rank": 48,
-      "category": "情感,幽默"
     }
   ],
   "hotgov_list": [

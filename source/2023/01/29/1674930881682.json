@@ -1,0 +1,410 @@
+{
+  "runTime": 1674930881682,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 382521,
+        "num": 382521,
+        "word": "满江红",
+        "onboard_time": 1674909809,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305824,
+        "num": 305824,
+        "word": "陈书婷假死",
+        "onboard_time": 1674912512,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27665,
+        "num": 278387,
+        "word": "带着思念期待着下次相见",
+        "onboard_time": 1674911189,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254254,
+        "num": 254254,
+        "word": "世卫更新应对辐射和核紧急情况关键药物清单",
+        "onboard_time": 1674912813,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240363,
+        "num": 240363,
+        "word": "杨迪回应委屈传闻",
+        "onboard_time": 1674920728,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211331,
+        "num": 211331,
+        "word": "流浪地球2自来水送票",
+        "onboard_time": 1674925820,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196040,
+        "num": 196040,
+        "word": "狂飙",
+        "onboard_time": 1674905787,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187673,
+        "num": 187673,
+        "word": "女子点外卖偷放钢丝16次敲诈商家",
+        "onboard_time": 1674923125,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168586,
+        "num": 168586,
+        "word": "长辈认为晚辈不结婚的原因",
+        "onboard_time": 1674911011,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136346,
+        "num": 136346,
+        "word": "张颂文被拒800次",
+        "onboard_time": 1674921028,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282676,
+        "num": 133980,
+        "word": "满江红片方起诉造谣者",
+        "onboard_time": 1674912270,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119664,
+        "num": 119664,
+        "word": "张彪是狂飙第二个内鬼",
+        "onboard_time": 1674910289,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244084,
+        "num": 118356,
+        "word": "沈逸回应满江红官博起诉",
+        "onboard_time": 1674914550,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116672,
+        "num": 116672,
+        "word": "男子捡黑太岁养4年增重14斤8两",
+        "onboard_time": 1674917609,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115299,
+        "num": 115299,
+        "word": "沈月自曝多次大难不死",
+        "onboard_time": 1674922586,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113911,
+        "num": 113911,
+        "word": "赵露思虞书欣同款齐刘海造型",
+        "onboard_time": 1674920310,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113216,
+        "num": 113216,
+        "word": "莫须有 秦桧",
+        "onboard_time": 1674904828,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105966,
+        "num": 105966,
+        "word": "监管部门回应58元烩菜事件处理进展",
+        "onboard_time": 1674925639,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 89362,
+        "num": 89362,
+        "word": "国道警示下坡已死亡37人引质疑",
+        "onboard_time": 1674902247,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64985,
+        "num": 64985,
+        "word": "14岁女孩寒假自律生活令人赞叹",
+        "onboard_time": 1674920787,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111910,
+        "num": 64404,
+        "word": "李一桐说赵樱子本人和听说的完全不一样",
+        "onboard_time": 1674910167,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110403,
+        "num": 63134,
+        "word": "孟钰嫁给了杨健",
+        "onboard_time": 1674914670,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93626,
+        "num": 62391,
+        "word": "gidle翻跳Abracadabra",
+        "onboard_time": 1674927017,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85879,
+        "num": 61796,
+        "word": "春节返程高铁清一色狂飙",
+        "onboard_time": 1674915872,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78810,
+        "num": 60171,
+        "word": "满江红官博连发数条回应争议",
+        "onboard_time": 1674902726,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76700,
+        "num": 59420,
+        "word": "阿凡达2登影史票房榜第四",
+        "onboard_time": 1674928098,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58639,
+        "num": 58639,
+        "word": "兵马俑景区旁一碗面38元仅3根面条",
+        "onboard_time": 1674908427,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 56354,
+        "num": 56354,
+        "word": "热恋期跟对象打电话的样子",
+        "onboard_time": 1674929176,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 48994,
+        "num": 48994,
+        "word": "恋爱长久的秘诀就是要多表达",
+        "onboard_time": 1674918090,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48482,
+        "num": 48482,
+        "word": "21岁男子撞车后向27岁车主说叔叔对不起",
+        "onboard_time": 1674904465,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63190,
+        "num": 48341,
+        "word": "熊出没闷声发大财",
+        "onboard_time": 1674918273,
+        "rank": 30,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 59986,
+        "num": 48017,
+        "word": "王鹤棣给杨洋撕过腿毛",
+        "onboard_time": 1674918152,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59636,
+        "num": 47814,
+        "word": "流浪地球票房",
+        "onboard_time": 1674912389,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56382,
+        "num": 47354,
+        "word": "央六报道无名逆跌",
+        "onboard_time": 1674918930,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49692,
+        "num": 47229,
+        "word": "周喆直 moss",
+        "onboard_time": 1674905488,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46915,
+        "num": 46915,
+        "word": "像极了烂尾楼要开始赶工期",
+        "onboard_time": 1674921028,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44528,
+        "num": 44528,
+        "word": "网友反映福建莆田彩礼最多达200万",
+        "onboard_time": 1674918511,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 44061,
+        "num": 44061,
+        "word": "失去分寸感的情侣是怎样的",
+        "onboard_time": 1674905908,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43347,
+        "num": 43347,
+        "word": "BLACKPINK法国慈善晚会预告",
+        "onboard_time": 1674909268,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 37139,
+        "num": 37139,
+        "word": "女子拆8件旧羽绒服改成羽绒被",
+        "onboard_time": 1674903265,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38908,
+        "num": 37097,
+        "word": "李一桐跟猴子一起洗过澡",
+        "onboard_time": 1674916649,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38150,
+        "num": 36872,
+        "word": "想去弄乱张译的手机桌面",
+        "onboard_time": 1674908248,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36173,
+        "num": 36173,
+        "word": "初七",
+        "onboard_time": 1674928216,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36012,
+        "num": 36012,
+        "word": "火锅店员工给顾客跪下道歉",
+        "onboard_time": 1674909869,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34031,
+        "num": 34031,
+        "word": "流浪地球3刘培强该如何复活",
+        "onboard_time": 1674898706,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33943,
+        "num": 33943,
+        "word": "这种奶茶杯实为三无电子烟",
+        "onboard_time": 1674912931,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32305,
+        "num": 32305,
+        "word": "荣梓杉听不懂粤语怀疑人生",
+        "onboard_time": 1674913652,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29773,
+        "num": 29773,
+        "word": "沈月问刘耀文到底是学什么的",
+        "onboard_time": 1674914372,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29753,
+        "num": 29753,
+        "word": "原来MOSS的电话真的能打通",
+        "onboard_time": 1674901826,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23530,
+        "num": 23530,
+        "word": "这孩子小名是不是叫年兽",
+        "onboard_time": 1674919649,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年开工寄语#"
+    }
+  }
+}
