@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/28 16:36:09
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/28 17:17:04
 </p>
 </blockquote>
 <p>
@@ -4773,6 +4773,12 @@ N号房主犯曾调查金智秀私生活（热度：1059069）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A6%B9%E5%A6%B9%E5%AF%92%E5%81%87%E8%B6%85%E8%87%AA%E5%BE%8B%E6%83%8A%E5%91%86%E5%A7%90%E5%A7%90%23" target="weibo">
+14岁妹妹寒假超自律惊呆姐姐（热度：1048265）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%87%E5%96%9C%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23" target="weibo">
 李文喜被判死缓（热度：1046661）
 </a>
@@ -6005,12 +6011,6 @@ YG新女团泰国成员公开（热度：915244）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%AC%A3%E8%8B%91%E8%AF%B4%E5%92%8CLisa%E4%BA%92%E5%8A%A8%E7%9A%84%E4%B8%8D%E6%98%AF%E5%A5%B9%23" target="weibo">
 黄欣苑说和Lisa互动的不是她（热度：911643）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%AF%B4%E7%8C%AA%E9%83%BD%E6%9C%89%E5%8F%8C%E7%9C%BC%E7%9A%AE%E4%BB%96%E6%B2%A1%E6%9C%89%23" target="weibo">
-范丞丞说猪都有双眼皮他没有（热度：910607）
 </a>
 </li>
 
