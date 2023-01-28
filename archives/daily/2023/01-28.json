@@ -1,6 +1,6 @@
 {
   "startTime": 1674836705003,
-  "endTime": 1674880622214,
+  "endTime": 1674882977958,
   "band_list": [
     {
       "raw_hot": 1767022,
@@ -27,6 +27,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1533784,
+      "num": 1533784,
+      "word": "专家称新冠病毒有点传不动了",
+      "onboard_time": 1674880946,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1457144,
       "num": 1457144,
       "word": "58元烩菜没肉爆料者称被辱骂近崩溃",
@@ -43,12 +51,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1257794,
+      "num": 1257794,
+      "word": "肖战任敏玉骨遥同框视频",
+      "onboard_time": 1674881485,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1131143,
-      "num": 501852,
+      "num": 566552,
       "word": "王鹤棣去炸串店和粉丝打招呼",
       "onboard_time": 1674861857,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1081067,
+      "num": 1081067,
+      "word": "上班后对秦桧的怨气更重了",
+      "onboard_time": 1674880227,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 1059429,
@@ -57,6 +81,14 @@
       "onboard_time": 1674819748,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 989332,
+      "num": 989332,
+      "word": "女子回老家过年忘关火锅被连烧7天",
+      "onboard_time": 1674879146,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 983646,
@@ -91,6 +123,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 863067,
+      "num": 863067,
+      "word": "特斯拉市值一夜大涨3800亿",
+      "onboard_time": 1674878966,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 849214,
+      "num": 849214,
+      "word": "高启兰是不是吴昕演的",
+      "onboard_time": 1674880165,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 819352,
       "num": 819352,
       "word": "今年可以打工384天",
@@ -113,14 +161,6 @@
       "onboard_time": 1674876684,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 731513,
-      "num": 486581,
-      "word": "女子回老家过年忘关火锅被连烧7天",
-      "onboard_time": 1674879146,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 728595,
@@ -203,6 +243,14 @@
       "category": "游戏,财经"
     },
     {
+      "raw_hot": 577923,
+      "num": 577923,
+      "word": "90后开始整顿娃圈了",
+      "onboard_time": 1674879927,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 577031,
       "num": 577031,
       "word": "听说你喜欢我定档0210",
@@ -283,14 +331,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 483278,
-      "num": 483278,
-      "word": "特斯拉市值一夜大涨3800亿",
-      "onboard_time": 1674878966,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 470784,
       "num": 470784,
       "word": "喜欢下班的朋友有福了",
@@ -369,6 +409,14 @@
       "onboard_time": 1674875366,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 389199,
+      "num": 389199,
+      "word": "王一博黑色皮衣开工六宫格",
+      "onboard_time": 1674882625,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 387152,
@@ -467,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 328588,
+      "num": 328588,
+      "word": "刘耀文杨迪cos步惊云聂风",
+      "onboard_time": 1674881186,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324034,
       "num": 324034,
       "word": "央视评宰客事件",
@@ -531,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299599,
+      "num": 299599,
+      "word": "上班苦还是上学苦呢",
+      "onboard_time": 1674879805,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 292000,
       "num": 292000,
       "word": "去有风的地方大结局是HE",
@@ -553,6 +617,14 @@
       "onboard_time": 1674832531,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284818,
+      "num": 223121,
+      "word": "安欣抓捕失败疑似有人泄密",
+      "onboard_time": 1674881428,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 283889,
@@ -643,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238987,
+      "num": 221268,
+      "word": "高晓晨扮演者是吴刚儿子",
+      "onboard_time": 1674882625,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235887,
       "num": 235887,
       "word": "被妈塞特产嘴上不要但接得很快",
@@ -675,14 +755,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 231175,
-      "num": 231175,
-      "word": "90后开始整顿娃圈了",
-      "onboard_time": 1674879927,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 228065,
       "num": 228065,
       "word": "这违停都抄不到牌",
@@ -697,6 +769,14 @@
       "onboard_time": 1674826946,
       "rank": 36,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 226012,
+      "num": 226012,
+      "word": "满江红成2023春节档票房冠军",
+      "onboard_time": 1674882207,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 224815,
@@ -715,12 +795,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221949,
+      "num": 221949,
+      "word": "高叶李奕臻胡冰卿女二人设",
+      "onboard_time": 1674879444,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215958,
       "num": 215958,
       "word": "3个同龄表哥过年走亲戚互不讲话",
       "onboard_time": 1674813807,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210343,
+      "num": 210343,
+      "word": "范丞丞说今年五一欢乐发车",
+      "onboard_time": 1674880707,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 209437,
@@ -747,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201318,
+      "num": 201318,
+      "word": "春节电影总票房67.58亿元影史第二",
+      "onboard_time": 1674882447,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199528,
       "num": 199528,
       "word": "著名翻译家杨苡逝世",
@@ -761,22 +865,6 @@
       "onboard_time": 1674876744,
       "rank": 27,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 197478,
-      "num": 197478,
-      "word": "上班苦还是上学苦呢",
-      "onboard_time": 1674879805,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 197266,
-      "num": 197266,
-      "word": "高叶李奕臻胡冰卿女二人设",
-      "onboard_time": 1674879444,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 194310,
@@ -803,28 +891,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 190054,
-      "num": 190054,
-      "word": "高启兰是不是吴昕演的",
-      "onboard_time": 1674880165,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189389,
       "num": 189389,
       "word": "不想上班",
       "onboard_time": 1674862819,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 188213,
-      "num": 188213,
-      "word": "上班后对秦桧的怨气更重了",
-      "onboard_time": 1674880227,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 184253,
@@ -857,6 +929,14 @@
       "onboard_time": 1674836003,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174211,
+      "num": 174211,
+      "word": "春节像是做了一场热闹的梦",
+      "onboard_time": 1674878665,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 173821,
@@ -977,14 +1057,6 @@
       "onboard_time": 1674873625,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 141674,
-      "num": 141674,
-      "word": "春节像是做了一场热闹的梦",
-      "onboard_time": 1674878665,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 140604,
@@ -1145,6 +1217,14 @@
       "onboard_time": 1674825808,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 101168,
+      "num": 136333,
+      "word": "玩具店主春节忘锁门8天未丢一物",
+      "onboard_time": 1674882568,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100009,
