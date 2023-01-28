@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674944176346,
+  "endTime": 1674945199989,
   "band_list": [
     {
       "raw_hot": 1679916,
@@ -459,6 +459,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 66254,
+      "num": 66254,
+      "word": "小老虎从上班直接睡到下班",
+      "onboard_time": 1674940512,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65603,
       "num": 65603,
       "word": "初七",
@@ -481,14 +489,6 @@
       "onboard_time": 1674901826,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 51899,
-      "num": 51899,
-      "word": "小老虎从上班直接睡到下班",
-      "onboard_time": 1674940512,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45304,
