@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/23 00:23:41 ~ 2023/01/29 03:13:39
+本榜单时间：2023/01/23 00:23:41 ~ 2023/01/29 03:33:19
 </p>
 </blockquote>
 <p>
@@ -9453,6 +9453,12 @@ TXT新专主打曲MV预告公开（热度：126146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%A7%B058%E5%85%83%E4%B8%80%E7%A2%97%E7%9A%84%E7%83%A9%E8%8F%9C%E5%86%85%E6%B2%A1%E6%9C%89%E8%82%89%23" target="weibo">
+游客称58元一碗的烩菜内没有肉（热度：45304）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%90%83%E9%BA%BB%E5%9B%A25%E4%B8%AA%E6%9C%88%E8%90%8C%E5%A8%83%E6%9C%9B%E7%9C%BC%E6%AC%B2%E7%A9%BF%23" target="weibo">
 爸爸吃麻团5个月萌娃望眼欲穿（热度：42368）
 </a>
@@ -9515,12 +9521,6 @@ TXT新专主打曲MV预告公开（热度：126146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%A4%E6%BC%94%E5%B0%8F%E5%93%A5%E5%9D%9A%E6%8C%81%E5%BE%AE%E7%AC%9119%E7%A7%92%23" target="weibo">
 群演小哥坚持微笑19秒（热度：25803）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%A7%B058%E5%85%83%E4%B8%80%E7%A2%97%E7%9A%84%E7%83%A9%E8%8F%9C%E5%86%85%E6%B2%A1%E6%9C%89%E8%82%89%23" target="weibo">
-游客称58元一碗的烩菜内没有肉（热度：25356）
 </a>
 </li>
 
