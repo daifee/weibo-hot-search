@@ -1,6 +1,6 @@
 {
   "startTime": 1674836705003,
-  "endTime": 1674901113660,
+  "endTime": 1674902019467,
   "band_list": [
     {
       "raw_hot": 2044366,
@@ -81,6 +81,14 @@
       "onboard_time": 1674881485,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1186447,
+      "num": 1186447,
+      "word": "女子投简历被回不招豫籍",
+      "onboard_time": 1674898947,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1131143,
@@ -219,14 +227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 800540,
-      "num": 800540,
-      "word": "女子投简历被回不招豫籍",
-      "onboard_time": 1674898947,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 776923,
       "num": 776923,
       "word": "流浪地球3刘培强该如何复活",
@@ -313,6 +313,14 @@
       "onboard_time": 1674885627,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 671827,
+      "num": 671827,
+      "word": "张颂文微博 认真分享生活",
+      "onboard_time": 1674898646,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 671182,
@@ -427,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 571151,
+      "num": 571151,
+      "word": "张凌赫在片场给虞书欣当平板支架",
+      "onboard_time": 1674899427,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 565741,
       "num": 565741,
       "word": "LV老板因中国游客回归看好奢侈品市场",
@@ -451,28 +467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 547992,
-      "num": 547992,
-      "word": "张凌赫在片场给虞书欣当平板支架",
-      "onboard_time": 1674899427,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 545503,
       "num": 545503,
       "word": "杨紫用特效妆骗爸妈自己在剧组打架",
       "onboard_time": 1674885206,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 530087,
-      "num": 530087,
-      "word": "张颂文微博 认真分享生活",
-      "onboard_time": 1674898646,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 525175,
@@ -521,6 +521,22 @@
       "onboard_time": 1674878605,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 493110,
+      "num": 493110,
+      "word": "第一次见坐高铁超员报警无法行驶",
+      "onboard_time": 1674900448,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487841,
+      "num": 487841,
+      "word": "网友偶遇叶舒华泰国逛街",
+      "onboard_time": 1674900565,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 485217,
@@ -723,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379529,
+      "num": 379529,
+      "word": "当小猫得知自己身价后",
+      "onboard_time": 1674897986,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 378814,
       "num": 378814,
       "word": "何与摘面具后沈月的反应",
@@ -825,14 +849,6 @@
       "onboard_time": 1674864081,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 324955,
-      "num": 324955,
-      "word": "当小猫得知自己身价后",
-      "onboard_time": 1674897986,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 324034,
@@ -1131,14 +1147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233188,
-      "num": 233188,
-      "word": "网友偶遇叶舒华泰国逛街",
-      "onboard_time": 1674900565,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 232877,
       "num": 232877,
       "word": "转眼间三个女儿都长大了",
@@ -1355,14 +1363,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 189585,
-      "num": 180679,
-      "word": "第一次见坐高铁超员报警无法行驶",
-      "onboard_time": 1674900448,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189389,
       "num": 189389,
       "word": "不想上班",
@@ -1371,19 +1371,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188224,
+      "num": 188224,
+      "word": "河南雅圣思",
+      "onboard_time": 1674899906,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185750,
+      "num": 185750,
+      "word": "如何看待狂飙豆瓣评分涨至9.1分",
+      "onboard_time": 1674898164,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184253,
       "num": 184253,
       "word": "原来刘德华早就有数字生命了",
       "onboard_time": 1674818247,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 184241,
-      "num": 184241,
-      "word": "如何看待狂飙豆瓣评分涨至9.1分",
-      "onboard_time": 1674898164,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -1497,6 +1505,14 @@
       "onboard_time": 1674868826,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165057,
+      "num": 165057,
+      "word": "猫咪喝醉后是什么反应",
+      "onboard_time": 1674900927,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 163787,
@@ -1643,14 +1659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 139936,
-      "num": 139936,
-      "word": "河南雅圣思",
-      "onboard_time": 1674899906,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138554,
       "num": 138554,
       "word": "万里归途首播收视破1",
@@ -1715,6 +1723,14 @@
       "category": "影视,财经"
     },
     {
+      "raw_hot": 130226,
+      "num": 130226,
+      "word": "原来MOSS的电话真的能打通",
+      "onboard_time": 1674901826,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129320,
       "num": 129320,
       "word": "满江红 龙门镖局",
@@ -1737,14 +1753,6 @@
       "onboard_time": 1674828270,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 124373,
-      "num": 124373,
-      "word": "猫咪喝醉后是什么反应",
-      "onboard_time": 1674900927,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 123385,
@@ -1948,7 +1956,7 @@
     },
     {
       "raw_hot": 37536,
-      "num": 816851,
+      "num": 915393,
       "word": "怎么克服节后综合征",
       "onboard_time": 1674866543,
       "rank": 2,
