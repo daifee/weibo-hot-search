@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674923009000,
+  "endTime": 1674924030406,
   "band_list": [
     {
       "raw_hot": 1679916,
@@ -59,8 +59,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 640962,
-      "num": 640962,
+      "raw_hot": 649327,
+      "num": 649327,
       "word": "赵露思虞书欣同款齐刘海造型",
       "onboard_time": 1674920310,
       "rank": 8,
@@ -81,6 +81,14 @@
       "onboard_time": 1674917609,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599103,
+      "num": 599103,
+      "word": "杨迪回应委屈传闻",
+      "onboard_time": 1674920728,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 587764,
@@ -107,6 +115,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 457189,
+      "num": 457189,
+      "word": "张颂文被拒800次",
+      "onboard_time": 1674921028,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 440912,
       "num": 440912,
       "word": "王鹤棣给杨洋撕过腿毛",
@@ -121,14 +137,6 @@
       "onboard_time": 1674904828,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 409940,
-      "num": 228116,
-      "word": "杨迪回应委屈传闻",
-      "onboard_time": 1674920728,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 405349,
@@ -163,20 +171,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 291555,
-      "num": 215270,
-      "word": "张颂文被拒800次",
-      "onboard_time": 1674921028,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278597,
       "num": 278597,
       "word": "网友反映福建莆田彩礼最多达200万",
       "onboard_time": 1674918511,
       "rank": 17,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 232614,
+      "num": 232614,
+      "word": "14岁女孩寒假自律生活令人赞叹",
+      "onboard_time": 1674920787,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231442,
@@ -211,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195899,
-      "num": 195899,
-      "word": "14岁女孩寒假自律生活令人赞叹",
-      "onboard_time": 1674920787,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182675,
       "num": 168503,
       "word": "沈月自曝多次大难不死",
@@ -233,6 +233,14 @@
       "onboard_time": 1674908248,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177152,
+      "num": 177152,
+      "word": "像极了烂尾楼要开始赶工期",
+      "onboard_time": 1674921028,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 169711,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 137924,
-      "num": 128890,
+      "num": 129958,
       "word": "今年春节票房获影史春节档票房第二成绩",
       "onboard_time": 1674920966,
       "rank": 40,
@@ -313,14 +321,6 @@
       "onboard_time": 1674909869,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129096,
-      "num": 129096,
-      "word": "像极了烂尾楼要开始赶工期",
-      "onboard_time": 1674921028,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 128574,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99839,
+      "num": 99839,
+      "word": "女子点外卖偷放钢丝16次敲诈商家",
+      "onboard_time": 1674923125,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94005,
       "num": 1162654,
       "word": "带着思念期待着下次相见",
@@ -377,6 +385,14 @@
       "onboard_time": 1674918930,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87529,
+      "num": 87529,
+      "word": "流浪地球3刘培强该如何复活",
+      "onboard_time": 1674898706,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 78368,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#向春而行#"
+    },
+    {
+      "word": "#新年开工寄语#"
     }
   ]
 }
