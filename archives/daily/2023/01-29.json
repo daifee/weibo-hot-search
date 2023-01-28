@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674934399339,
+  "endTime": 1674937080037,
   "band_list": [
     {
       "raw_hot": 1679916,
@@ -489,6 +489,14 @@
       "onboard_time": 1674932474,
       "rank": 39,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 27939,
+      "num": 27939,
+      "word": "大妈用鞋底暴抽秦桧跪像",
+      "onboard_time": 1674932053,
+      "rank": 26,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
