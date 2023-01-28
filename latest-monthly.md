@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/28 17:17:04
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/28 17:33:37
 </p>
 </blockquote>
 <p>
@@ -5325,6 +5325,12 @@ never在笑（热度：1016332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%9F%BA%E5%9C%B0%E8%A2%AB%E6%9B%9D%E4%B8%A5%E9%87%8D%E4%BD%93%E7%BD%9A%E5%AD%A6%E7%94%9F%23" target="weibo">
+河南一基地被曝严重体罚学生（热度：988772）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E5%89%8D%E8%BF%98%E8%B4%B7%E7%A9%B6%E7%AB%9F%E5%8F%AF%E4%BB%A5%E7%9C%81%E5%A4%9A%E5%B0%91%E9%92%B1%23" target="weibo">
 提前还贷究竟可以省多少钱（热度：988444）
 </a>
@@ -6005,12 +6011,6 @@ YG新女团泰国成员公开（热度：915244）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9D%8E%E6%B2%81%E9%95%BF%E9%A3%8E%E7%A0%B4%E6%B5%AA1%E6%9C%88%E5%88%9D%E5%BC%80%E6%9C%BA%23" target="weibo">
 网传王一博李沁长风破浪1月初开机（热度：911704）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%AC%A3%E8%8B%91%E8%AF%B4%E5%92%8CLisa%E4%BA%92%E5%8A%A8%E7%9A%84%E4%B8%8D%E6%98%AF%E5%A5%B9%23" target="weibo">
-黄欣苑说和Lisa互动的不是她（热度：911643）
 </a>
 </li>
 

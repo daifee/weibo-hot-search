@@ -1,6 +1,6 @@
 {
   "startTime": 1674836705003,
-  "endTime": 1674897424737,
+  "endTime": 1674898417034,
   "band_list": [
     {
       "raw_hot": 2044366,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1571213,
-      "num": 911279,
+      "num": 915784,
       "word": "林心如晒与霍建华的合照",
       "onboard_time": 1674892285,
       "rank": 3,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 988772,
+      "num": 988772,
+      "word": "河南一基地被曝严重体罚学生",
+      "onboard_time": 1674896067,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 983646,
       "num": 983646,
       "word": "迟到",
@@ -211,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 758383,
+      "num": 758383,
+      "word": "瞬间想回去上班了",
+      "onboard_time": 1674892948,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 752269,
       "num": 752269,
       "word": "佩洛西丈夫遭袭视频公布",
@@ -243,14 +259,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 716954,
-      "num": 716954,
-      "word": "瞬间想回去上班了",
-      "onboard_time": 1674892948,
-      "rank": 23,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 715062,
       "num": 715062,
       "word": "90后开始整顿娃圈了",
@@ -259,19 +267,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 712943,
+      "num": 712943,
+      "word": "三体第15集 封神",
+      "onboard_time": 1674895466,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 697389,
       "num": 697389,
       "word": "王一博无名票房破5亿剧照",
       "onboard_time": 1674869966,
       "rank": 6,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 682633,
-      "num": 682633,
-      "word": "三体第15集 封神",
-      "onboard_time": 1674895466,
-      "rank": 7,
       "category": "影视"
     },
     {
@@ -411,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 550303,
-      "num": 550303,
-      "word": "河南一基地被曝严重体罚学生",
-      "onboard_time": 1674896067,
-      "rank": 11,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 549551,
       "num": 549551,
       "word": "李一桐cos十三姨",
@@ -441,6 +441,14 @@
       "onboard_time": 1674874104,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 521430,
+      "num": 521430,
+      "word": "返程车厢只有一种声音",
+      "onboard_time": 1674894923,
+      "rank": 47,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 518330,
@@ -537,14 +545,6 @@
       "onboard_time": 1674891504,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 418942,
-      "num": 418942,
-      "word": "返程车厢只有一种声音",
-      "onboard_time": 1674894923,
-      "rank": 47,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 418533,
@@ -691,8 +691,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 363846,
-      "num": 363846,
+      "raw_hot": 370633,
+      "num": 370633,
       "word": "原来流浪地球2是在青岛流浪",
       "onboard_time": 1674893125,
       "rank": 21,
@@ -835,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301626,
+      "num": 301626,
+      "word": "再也不敢不好好卸妆了",
+      "onboard_time": 1674895827,
+      "rank": 21,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 299599,
       "num": 299599,
       "word": "上班苦还是上学苦呢",
@@ -873,14 +881,6 @@
       "onboard_time": 1674832531,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286037,
-      "num": 286037,
-      "word": "再也不敢不好好卸妆了",
-      "onboard_time": 1674895827,
-      "rank": 21,
-      "category": "美妆"
     },
     {
       "raw_hot": 284818,
@@ -939,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269268,
+      "num": 269268,
+      "word": "张颂文曾为震区提供保暖方法",
+      "onboard_time": 1674898227,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269075,
       "num": 183515,
       "word": "男子春节逆向旅游深圳承包整片沙滩",
@@ -947,12 +955,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261935,
+      "num": 261935,
+      "word": "T1战胜DK",
+      "onboard_time": 1674897986,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 261774,
       "num": 261774,
       "word": "张婧仪说掌握自己人生的方向盘非常重要",
       "onboard_time": 1674876867,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260604,
+      "num": 260604,
+      "word": "陈乔恩穿棉睡衣像打麻将赢了",
+      "onboard_time": 1674896787,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 257075,
@@ -1065,14 +1089,6 @@
       "onboard_time": 1674831508,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 227957,
-      "num": 227957,
-      "word": "陈乔恩穿棉睡衣像打麻将赢了",
-      "onboard_time": 1674896787,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 226744,
@@ -1259,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191849,
+      "num": 191849,
+      "word": "2023LCK",
+      "onboard_time": 1674898227,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190403,
       "num": 214431,
       "word": "北海市监局回应4个菜1500元",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1674888327,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182043,
+      "num": 182043,
+      "word": "男孩动物园内将孔雀摔打拔毛",
+      "onboard_time": 1674897507,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180323,
@@ -1344,6 +1376,14 @@
       "word": "推到年后的工作开始袭击我",
       "onboard_time": 1674871764,
       "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 169593,
+      "num": 169593,
+      "word": "真有人在天上吃饭啊",
+      "onboard_time": 1674896546,
+      "rank": 48,
       "category": "情感"
     },
     {
@@ -1403,11 +1443,27 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 161178,
+      "num": 161178,
+      "word": "如何看待狂飙豆瓣评分涨至9.1分",
+      "onboard_time": 1674898164,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159490,
       "num": 159490,
       "word": "不太讲武德的小奶狗",
       "onboard_time": 1674884967,
       "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 159437,
+      "num": 159437,
+      "word": "当小猫得知自己身价后",
+      "onboard_time": 1674897986,
+      "rank": 40,
       "category": "幽默"
     },
     {
@@ -1441,6 +1497,14 @@
       "onboard_time": 1674877645,
       "rank": 45,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 153232,
+      "num": 153232,
+      "word": "上班第一天有哪些节后表现",
+      "onboard_time": 1674897326,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 152700,
@@ -1523,14 +1587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138379,
-      "num": 138379,
-      "word": "上班第一天有哪些节后表现",
-      "onboard_time": 1674897326,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 137463,
       "num": 137463,
       "word": "大年初七开工大吉",
@@ -1569,14 +1625,6 @@
       "onboard_time": 1674822325,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133111,
-      "num": 133111,
-      "word": "真有人在天上吃饭啊",
-      "onboard_time": 1674896546,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 131982,
@@ -1812,7 +1860,7 @@
     },
     {
       "raw_hot": 12366,
-      "num": 394252,
+      "num": 397205,
       "word": "人类幼崽能有多浪漫",
       "onboard_time": 1674896427,
       "rank": 14,

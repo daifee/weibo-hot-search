@@ -1,0 +1,410 @@
+{
+  "runTime": 1674898417034,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1449459,
+        "num": 1449459,
+        "word": "强盛集团回应法人为孙红雷",
+        "onboard_time": 1674890666,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 988772,
+        "num": 988772,
+        "word": "河南一基地被曝严重体罚学生",
+        "onboard_time": 1674896067,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 64549,
+        "num": 917999,
+        "word": "X光安检机下的返程行囊",
+        "onboard_time": 1674866903,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1087627,
+        "num": 915784,
+        "word": "林心如晒与霍建华的合照",
+        "onboard_time": 1674892285,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 849128,
+        "num": 849128,
+        "word": "14岁妹妹寒假超自律惊呆姐姐",
+        "onboard_time": 1674891925,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798983,
+        "num": 798983,
+        "word": "纽约时报给流浪地球2打30分",
+        "onboard_time": 1674893788,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 758383,
+        "num": 758383,
+        "word": "瞬间想回去上班了",
+        "onboard_time": 1674892948,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 745659,
+        "num": 745659,
+        "word": "秦桧 满江红",
+        "onboard_time": 1674890846,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 712943,
+        "num": 712943,
+        "word": "三体第15集 封神",
+        "onboard_time": 1674895466,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 579833,
+        "num": 579833,
+        "word": "B站与晋江签订合作协议",
+        "onboard_time": 1674887904,
+        "rank": 9,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 765627,
+        "num": 577821,
+        "word": "专家称新冠病毒有点传不动了",
+        "onboard_time": 1674880946,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573432,
+        "num": 573432,
+        "word": "周震南的近照",
+        "onboard_time": 1674895165,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521430,
+        "num": 521430,
+        "word": "返程车厢只有一种声音",
+        "onboard_time": 1674894923,
+        "rank": 12,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 445815,
+        "num": 445815,
+        "word": "沈月好灵",
+        "onboard_time": 1674895647,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2767,
+        "num": 397205,
+        "word": "人类幼崽能有多浪漫",
+        "onboard_time": 1674896427,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 370633,
+        "num": 370633,
+        "word": "原来流浪地球2是在青岛流浪",
+        "onboard_time": 1674893125,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322804,
+        "num": 322804,
+        "word": "李一桐cos十三姨",
+        "onboard_time": 1674894147,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313844,
+        "num": 313844,
+        "word": "满江红最大受益方",
+        "onboard_time": 1674887008,
+        "rank": 17,
+        "category": "影视,财经"
+      },
+      {
+        "raw_hot": 301626,
+        "num": 301626,
+        "word": "再也不敢不好好卸妆了",
+        "onboard_time": 1674895827,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 280232,
+        "num": 280232,
+        "word": "新娘将婚鞋藏进娃娃机",
+        "onboard_time": 1674889706,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279691,
+        "num": 279691,
+        "word": "流浪地球2海外上映获好评",
+        "onboard_time": 1674883168,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278279,
+        "num": 278279,
+        "word": "女子回老家过年忘关火锅被连烧7天",
+        "onboard_time": 1674879146,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269268,
+        "num": 269268,
+        "word": "张颂文曾为震区提供保暖方法",
+        "onboard_time": 1674898227,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261935,
+        "num": 261935,
+        "word": "T1战胜DK",
+        "onboard_time": 1674897986,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260604,
+        "num": 260604,
+        "word": "陈乔恩穿棉睡衣像打麻将赢了",
+        "onboard_time": 1674896787,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235714,
+        "num": 235714,
+        "word": "女儿说长大要结婚爸爸称没必要",
+        "onboard_time": 1674885327,
+        "rank": 25,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 226687,
+        "num": 226687,
+        "word": "电影局发布春节档观众满意度调查",
+        "onboard_time": 1674896485,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212952,
+        "num": 212952,
+        "word": "华强买瓜 启强卖鱼",
+        "onboard_time": 1674893307,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211590,
+        "num": 211590,
+        "word": "六公主在播流浪地球",
+        "onboard_time": 1674891504,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205796,
+        "num": 205796,
+        "word": "赵丽颖周深陈立农用神兽祝福新年",
+        "onboard_time": 1674895165,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204184,
+        "num": 204184,
+        "word": "肖战任敏玉骨遥同框视频",
+        "onboard_time": 1674881485,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194473,
+        "num": 194473,
+        "word": "刘耀文杨迪cos步惊云聂风",
+        "onboard_time": 1674881186,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191849,
+        "num": 191849,
+        "word": "2023LCK",
+        "onboard_time": 1674898227,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189778,
+        "num": 189778,
+        "word": "谷爱凌训练受伤退出XGAMES",
+        "onboard_time": 1674885627,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183910,
+        "num": 183910,
+        "word": "张颂文评论区",
+        "onboard_time": 1674867746,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182043,
+        "num": 182043,
+        "word": "男孩动物园内将孔雀摔打拔毛",
+        "onboard_time": 1674897507,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180628,
+        "num": 180628,
+        "word": "杨紫用特效妆骗爸妈自己在剧组打架",
+        "onboard_time": 1674885206,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178036,
+        "num": 178036,
+        "word": "高启兰是不是吴昕演的",
+        "onboard_time": 1674880165,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169593,
+        "num": 169593,
+        "word": "真有人在天上吃饭啊",
+        "onboard_time": 1674896546,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161178,
+        "num": 161178,
+        "word": "如何看待狂飙豆瓣评分涨至9.1分",
+        "onboard_time": 1674898164,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159437,
+        "num": 159437,
+        "word": "当小猫得知自己身价后",
+        "onboard_time": 1674897986,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153232,
+        "num": 153232,
+        "word": "上班第一天有哪些节后表现",
+        "onboard_time": 1674897326,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147815,
+        "num": 147815,
+        "word": "迪丽热巴杨紫最新开工营业照",
+        "onboard_time": 1674875125,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145500,
+        "num": 145500,
+        "word": "特斯拉市值一夜大涨3800亿",
+        "onboard_time": 1674878966,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141646,
+        "num": 141646,
+        "word": "你是从哪一刻喜欢上对方的",
+        "onboard_time": 1674890907,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141503,
+        "num": 141503,
+        "word": "刘亦菲去有风的地方云苗村游客照",
+        "onboard_time": 1674891747,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128330,
+        "num": 128330,
+        "word": "王一博无名路演现场提问视频",
+        "onboard_time": 1674889404,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128132,
+        "num": 128132,
+        "word": "雷佳音在满江红片场被玩坏",
+        "onboard_time": 1674892527,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120558,
+        "num": 120558,
+        "word": "三体秦腔口令",
+        "onboard_time": 1674897208,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119910,
+        "num": 119910,
+        "word": "T1对战DK",
+        "onboard_time": 1674888506,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#兔年开局火热数据见证中国活力#"
+    }
+  }
+}
