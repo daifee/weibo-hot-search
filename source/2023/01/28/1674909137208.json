@@ -1,0 +1,410 @@
+{
+  "runTime": 1674909137208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3098583,
+        "num": 3098583,
+        "word": "满江红官博连发数条回应争议",
+        "onboard_time": 1674902726,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2132594,
+        "num": 2132594,
+        "word": "延迟开学",
+        "onboard_time": 1674907348,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 28218,
+        "num": 1419950,
+        "word": "怎么克服节后综合征",
+        "onboard_time": 1674866543,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1365584,
+        "num": 1365584,
+        "word": "国道警示下坡已死亡37人引质疑",
+        "onboard_time": 1674902247,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1250105,
+        "num": 1250105,
+        "word": "狂飙",
+        "onboard_time": 1674905787,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1179800,
+        "num": 1179800,
+        "word": "莫须有 秦桧",
+        "onboard_time": 1674904828,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 863344,
+        "num": 863344,
+        "word": "21岁男子撞车后向27岁车主说叔叔对不起",
+        "onboard_time": 1674904465,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677135,
+        "num": 677135,
+        "word": "女子拆8件旧羽绒服改成羽绒被",
+        "onboard_time": 1674903265,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622486,
+        "num": 622486,
+        "word": "林心如晒与霍建华的合照",
+        "onboard_time": 1674892285,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592340,
+        "num": 592340,
+        "word": "失去分寸感的情侣是怎样的",
+        "onboard_time": 1674905908,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 561592,
+        "num": 561592,
+        "word": "女子投简历被回不招豫籍",
+        "onboard_time": 1674898947,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549809,
+        "num": 549809,
+        "word": "狂飙名场面",
+        "onboard_time": 1674904048,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483917,
+        "num": 483917,
+        "word": "周喆直 moss",
+        "onboard_time": 1674905488,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467438,
+        "num": 467438,
+        "word": "侃爷 扔手机",
+        "onboard_time": 1674904887,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418961,
+        "num": 418961,
+        "word": "强盛集团回应法人为孙红雷",
+        "onboard_time": 1674890666,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 396582,
+        "num": 396582,
+        "word": "秦桧 满江红",
+        "onboard_time": 1674890846,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375578,
+        "num": 375578,
+        "word": "周喆直 执剑人",
+        "onboard_time": 1674906386,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347976,
+        "num": 347976,
+        "word": "原来MOSS的电话真的能打通",
+        "onboard_time": 1674901826,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324508,
+        "num": 324508,
+        "word": "流浪地球3刘培强该如何复活",
+        "onboard_time": 1674898706,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300504,
+        "num": 300504,
+        "word": "张颂文微博 认真分享生活",
+        "onboard_time": 1674898646,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279934,
+        "num": 279934,
+        "word": "金钟仁日本演唱会饭拍",
+        "onboard_time": 1674904706,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 272958,
+        "num": 272958,
+        "word": "狂飙 警戒线",
+        "onboard_time": 1674907948,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262135,
+        "num": 262135,
+        "word": "纽约时报给流浪地球2打30分",
+        "onboard_time": 1674893788,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259992,
+        "num": 259992,
+        "word": "张凌赫在片场给虞书欣当平板支架",
+        "onboard_time": 1674899427,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242040,
+        "num": 242040,
+        "word": "流浪地球2值不值得看",
+        "onboard_time": 1674908908,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238337,
+        "num": 238337,
+        "word": "孙怡分享长白山漂流四宫格",
+        "onboard_time": 1674905368,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234518,
+        "num": 234518,
+        "word": "河北省考",
+        "onboard_time": 1674907707,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 225777,
+        "num": 225777,
+        "word": "专家称新冠病毒有点传不动了",
+        "onboard_time": 1674880946,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221710,
+        "num": 221710,
+        "word": "B站与晋江签订合作协议",
+        "onboard_time": 1674887904,
+        "rank": 28,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 220010,
+        "num": 220010,
+        "word": "女子生娃后弟弟心疼落泪",
+        "onboard_time": 1674902906,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219875,
+        "num": 219875,
+        "word": "再也不敢不好好卸妆了",
+        "onboard_time": 1674895827,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 195929,
+        "num": 195929,
+        "word": "兵马俑景区旁一碗面38元仅3根面条",
+        "onboard_time": 1674908427,
+        "rank": 31,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 193929,
+        "num": 193929,
+        "word": "男孩动物园内将孔雀摔打拔毛",
+        "onboard_time": 1674897507,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192555,
+        "num": 192555,
+        "word": "网友偶遇叶舒华泰国逛街",
+        "onboard_time": 1674900565,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187124,
+        "num": 187124,
+        "word": "小智遗弃比比鸟24周年",
+        "onboard_time": 1674903327,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 184723,
+        "num": 184723,
+        "word": "三体第15集 封神",
+        "onboard_time": 1674895466,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182452,
+        "num": 182452,
+        "word": "刘耀文沉浸式追剧",
+        "onboard_time": 1674904048,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159637,
+        "num": 159637,
+        "word": "想去弄乱张译的手机桌面",
+        "onboard_time": 1674908248,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156355,
+        "num": 156355,
+        "word": "澳网",
+        "onboard_time": 1674905968,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149710,
+        "num": 149710,
+        "word": "build直播",
+        "onboard_time": 1674900505,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148846,
+        "num": 148846,
+        "word": "流浪地球 道具",
+        "onboard_time": 1674908068,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139696,
+        "num": 139696,
+        "word": "张译手把手教小演员演戏",
+        "onboard_time": 1674902666,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236926,
+        "num": 139621,
+        "word": "河南一基地被曝严重体罚学生",
+        "onboard_time": 1674896067,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 137951,
+        "num": 137951,
+        "word": "开学",
+        "onboard_time": 1674906807,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 135859,
+        "num": 135859,
+        "word": "14岁妹妹寒假超自律惊呆姐姐",
+        "onboard_time": 1674891925,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133699,
+        "num": 133699,
+        "word": "郭帆说周喆直彩蛋是他心目中的罗辑",
+        "onboard_time": 1674907826,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130393,
+        "num": 130393,
+        "word": "沈月好灵",
+        "onboard_time": 1674895647,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123960,
+        "num": 123960,
+        "word": "哈卷在演唱会把皮裤崩开了",
+        "onboard_time": 1674905007,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 258987,
+        "num": 123888,
+        "word": "第一次见坐高铁超员报警无法行驶",
+        "onboard_time": 1674900448,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122080,
+        "num": 122080,
+        "word": "陈乔恩穿棉睡衣像打麻将赢了",
+        "onboard_time": 1674896787,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#兔年开局火热数据见证中国活力#"
+    }
+  }
+}

@@ -1,14 +1,22 @@
 {
   "startTime": 1674836705003,
-  "endTime": 1674905598553,
+  "endTime": 1674909137208,
   "band_list": [
     {
-      "raw_hot": 2796033,
-      "num": 2796033,
+      "raw_hot": 3098583,
+      "num": 3098583,
       "word": "满江红官博连发数条回应争议",
       "onboard_time": 1674902726,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2132594,
+      "num": 2132594,
+      "word": "延迟开学",
+      "onboard_time": 1674907348,
+      "rank": 1,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2044366,
@@ -107,6 +115,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1250105,
+      "num": 1250105,
+      "word": "狂飙",
+      "onboard_time": 1674819748,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1179800,
+      "num": 1179800,
+      "word": "莫须有 秦桧",
+      "onboard_time": 1674904828,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1131143,
       "num": 566552,
       "word": "王鹤棣去炸串店和粉丝打招呼",
@@ -129,14 +153,6 @@
       "onboard_time": 1674887904,
       "rank": 3,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 1059429,
-      "num": 1059429,
-      "word": "狂飙",
-      "onboard_time": 1674819748,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 1050657,
@@ -225,6 +241,14 @@
       "onboard_time": 1674832889,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 863344,
+      "num": 863344,
+      "word": "21岁男子撞车后向27岁车主说叔叔对不起",
+      "onboard_time": 1674904465,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 836715,
@@ -347,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 677135,
+      "num": 677135,
+      "word": "女子拆8件旧羽绒服改成羽绒被",
+      "onboard_time": 1674903265,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 671182,
       "num": 671182,
       "word": "流浪地球",
@@ -435,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592340,
+      "num": 592340,
+      "word": "失去分寸感的情侣是怎样的",
+      "onboard_time": 1674905908,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 590598,
       "num": 1166294,
       "word": "X光安检机下的返程行囊",
@@ -483,19 +523,19 @@
       "category": "时尚,社会新闻"
     },
     {
-      "raw_hot": 559010,
-      "num": 559010,
-      "word": "女子拆8件旧羽绒服改成羽绒被",
-      "onboard_time": 1674903265,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 555102,
       "num": 555102,
       "word": "流浪地球2周边众筹已超3200万",
       "onboard_time": 1674834746,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 549809,
+      "num": 549809,
+      "word": "狂飙名场面",
+      "onboard_time": 1674904048,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -563,14 +603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 495423,
-      "num": 495423,
-      "word": "狂飙名场面",
-      "onboard_time": 1674904048,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 495142,
       "num": 495142,
       "word": "兄弟这班是非上不可吗",
@@ -595,12 +627,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 483917,
+      "num": 483917,
+      "word": "周喆直 moss",
+      "onboard_time": 1674905488,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 470784,
       "num": 470784,
       "word": "喜欢下班的朋友有福了",
       "onboard_time": 1674871647,
       "rank": 12,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 467438,
+      "num": 467438,
+      "word": "侃爷 扔手机",
+      "onboard_time": 1674904887,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 459819,
@@ -803,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375578,
+      "num": 375578,
+      "word": "周喆直 执剑人",
+      "onboard_time": 1674906386,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 375300,
       "num": 375300,
       "word": "刘耀文杨迪cos步惊云聂风",
@@ -904,14 +960,6 @@
       "word": "央视评宰客事件",
       "onboard_time": 1674868765,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 322142,
-      "num": 322142,
-      "word": "21岁男子撞车后向27岁车主说叔叔对不起",
-      "onboard_time": 1674904465,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1091,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272958,
+      "num": 272958,
+      "word": "狂飙 警戒线",
+      "onboard_time": 1674907948,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269075,
       "num": 183515,
       "word": "男子春节逆向旅游深圳承包整片沙滩",
@@ -1195,6 +1251,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242040,
+      "num": 242040,
+      "word": "流浪地球2值不值得看",
+      "onboard_time": 1674908908,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 238337,
+      "num": 238337,
+      "word": "孙怡分享长白山漂流四宫格",
+      "onboard_time": 1674905368,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237144,
       "num": 237144,
       "word": "刘亦菲去有风的地方云苗村游客照",
@@ -1209,6 +1281,14 @@
       "onboard_time": 1674870025,
       "rank": 28,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 234518,
+      "num": 234518,
+      "word": "河北省考",
+      "onboard_time": 1674907707,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 234125,
@@ -1249,14 +1329,6 @@
       "onboard_time": 1674831508,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 227249,
-      "num": 227249,
-      "word": "莫须有 秦桧",
-      "onboard_time": 1674904828,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 226744,
@@ -1427,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195929,
+      "num": 195929,
+      "word": "兵马俑景区旁一碗面38元仅3根面条",
+      "onboard_time": 1674908427,
+      "rank": 31,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 194905,
       "num": 194905,
       "word": "孙均回眸",
@@ -1483,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187124,
+      "num": 187124,
+      "word": "小智遗弃比比鸟24周年",
+      "onboard_time": 1674903327,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 185750,
       "num": 185750,
       "word": "如何看待狂飙豆瓣评分涨至9.1分",
@@ -1499,28 +1587,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183287,
-      "num": 183287,
-      "word": "侃爷 扔手机",
-      "onboard_time": 1674904887,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183111,
       "num": 183111,
       "word": "不愧是双胞胎的默契",
       "onboard_time": 1674888327,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181070,
-      "num": 181070,
-      "word": "小智遗弃比比鸟24周年",
-      "onboard_time": 1674903327,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 180323,
@@ -1683,6 +1755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159637,
+      "num": 159637,
+      "word": "想去弄乱张译的手机桌面",
+      "onboard_time": 1674908248,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159490,
       "num": 159490,
       "word": "不太讲武德的小奶狗",
@@ -1697,14 +1777,6 @@
       "onboard_time": 1674863480,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 159174,
-      "num": 159174,
-      "word": "孙怡分享长白山漂流四宫格",
-      "onboard_time": 1674905368,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 158694,
@@ -1737,6 +1809,14 @@
       "onboard_time": 1674905247,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156355,
+      "num": 156355,
+      "word": "澳网",
+      "onboard_time": 1674905968,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 155559,
@@ -1779,6 +1859,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 148846,
+      "num": 148846,
+      "word": "流浪地球 道具",
+      "onboard_time": 1674908068,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148686,
       "num": 148686,
       "word": "云南多地现七彩祥云日照金山",
@@ -1819,14 +1907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 143795,
-      "num": 143795,
-      "word": "周喆直 moss",
-      "onboard_time": 1674905488,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 140604,
       "num": 140604,
       "word": "2023年春节档票房破67亿元",
@@ -1841,6 +1921,14 @@
       "onboard_time": 1674826348,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 137951,
+      "num": 137951,
+      "word": "开学",
+      "onboard_time": 1674906807,
+      "rank": 43,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 137463,
@@ -1872,6 +1960,14 @@
       "word": "王一博谈感受说更多的是独处和安静",
       "onboard_time": 1674891747,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 133699,
+      "num": 133699,
+      "word": "郭帆说周喆直彩蛋是他心目中的罗辑",
+      "onboard_time": 1674907826,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -2132,7 +2228,7 @@
     },
     {
       "raw_hot": 37536,
-      "num": 1295468,
+      "num": 1419950,
       "word": "怎么克服节后综合征",
       "onboard_time": 1674866543,
       "rank": 2,
