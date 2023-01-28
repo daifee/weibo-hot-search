@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/23 00:23:41 ~ 2023/01/29 06:33:19
+本榜单时间：2023/01/23 00:23:41 ~ 2023/01/29 07:17:30
 </p>
 </blockquote>
 <p>
@@ -5907,6 +5907,12 @@ SANA新歌舞蹈表现力（热度：235312）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%80%81%E8%99%8E%E4%BB%8E%E4%B8%8A%E7%8F%AD%E7%9B%B4%E6%8E%A5%E7%9D%A1%E5%88%B0%E4%B8%8B%E7%8F%AD%23" target="weibo">
+小老虎从上班直接睡到下班（热度：229754）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E5%A4%AA%E7%BE%8E%E4%BA%86%23" target="weibo">
 高叶太美了（热度：229465）
 </a>
@@ -8487,6 +8493,12 @@ TXT新专辑预售量突破216万张（热度：146627）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%9458%E5%85%83%E7%83%A9%E8%8F%9C%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E8%BF%9B%E5%B1%95%23" target="weibo">
+监管部门回应58元烩菜事件处理进展（热度：127784）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E5%89%A9%E9%A5%AD%E5%A4%84%E7%90%86%E6%8C%87%E5%8D%97%23" target="weibo">
 春节剩饭处理指南（热度：127714）
 </a>
@@ -8979,12 +8991,6 @@ TXT新专主打曲MV预告公开（热度：126146）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%9458%E5%85%83%E7%83%A9%E8%8F%9C%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E8%BF%9B%E5%B1%95%23" target="weibo">
-监管部门回应58元烩菜事件处理进展（热度：105966）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E4%BB%A3%E5%AE%AB%E5%BB%B7%E8%BF%87%E6%96%B0%E5%B9%B4%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%9C%89%E5%A4%9A%E5%BC%BA%23" target="weibo">
 古代宫廷过新年仪式感有多强（热度：105840）
 </a>
@@ -9041,6 +9047,12 @@ TXT新专主打曲MV预告公开（热度：126146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E5%B7%A5%E5%8C%A0%E4%BA%BA%E7%94%A8%E7%BF%BB%E7%B3%96%E8%9B%8B%E7%B3%95%E7%A5%9E%E8%BF%98%E5%8E%9F%E6%9D%8E%E7%99%BD%E8%AF%97%E5%8F%A5%23" target="weibo">
 手工匠人用翻糖蛋糕神还原李白诗句（热度：101380）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E7%94%A8%E9%9E%8B%E5%BA%95%E6%9A%B4%E6%8A%BD%E7%A7%A6%E6%A1%A7%E8%B7%AA%E5%83%8F%23" target="weibo">
+大妈用鞋底暴抽秦桧跪像（热度：100773）
 </a>
 </li>
 
@@ -9333,12 +9345,6 @@ TXT新专主打曲MV预告公开（热度：126146）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%80%81%E8%99%8E%E4%BB%8E%E4%B8%8A%E7%8F%AD%E7%9B%B4%E6%8E%A5%E7%9D%A1%E5%88%B0%E4%B8%8B%E7%8F%AD%23" target="weibo">
-小老虎从上班直接睡到下班（热度：66254）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BB%A1%E6%B1%9F%E7%BA%A2%E5%AE%9E%E6%97%B6%E7%A5%A8%E6%88%BF%E7%A0%B45%E4%BA%BF%23" target="weibo">
 满江红实时票房破5亿（热度：65820）
 </a>
@@ -9473,12 +9479,6 @@ TXT新专主打曲MV预告公开（热度：126146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%20%E6%88%91%E5%9C%A8%E4%B8%AD%E5%9B%BD%23" target="weibo">
 新时代 我在中国（热度：42266）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E7%94%A8%E9%9E%8B%E5%BA%95%E6%9A%B4%E6%8A%BD%E7%A7%A6%E6%A1%A7%E8%B7%AA%E5%83%8F%23" target="weibo">
-大妈用鞋底暴抽秦桧跪像（热度：41395）
 </a>
 </li>
 
