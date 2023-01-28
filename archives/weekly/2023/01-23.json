@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674879718919,
+  "endTime": 1674880622214,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -1267,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 819352,
+      "num": 819352,
+      "word": "今年可以打工384天",
+      "onboard_time": 1674877886,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 814519,
       "num": 814519,
       "word": "奶奶不识字误把狗粮当特产招待街坊",
@@ -1523,12 +1531,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 732632,
+      "num": 732632,
+      "word": "流浪地球2周边商家呼吁理性消费",
+      "onboard_time": 1674876684,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 732068,
       "num": 732068,
       "word": "北京台春晚 好看",
       "onboard_time": 1674390568,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 731513,
+      "num": 486581,
+      "word": "女子回老家过年忘关火锅被连烧7天",
+      "onboard_time": 1674879146,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 728595,
@@ -1771,14 +1795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 686754,
-      "num": 686754,
-      "word": "流浪地球2周边商家呼吁理性消费",
-      "onboard_time": 1674876684,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 684632,
       "num": 684632,
       "word": "初四",
@@ -1817,14 +1833,6 @@
       "onboard_time": 1674774675,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 677377,
-      "num": 677377,
-      "word": "今年可以打工384天",
-      "onboard_time": 1674877886,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 676598,
@@ -2291,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 584048,
+      "num": 490444,
+      "word": "Uzi61万股权被冻结",
+      "onboard_time": 1674878844,
+      "rank": 11,
+      "category": "游戏,财经"
+    },
+    {
       "raw_hot": 583328,
       "num": 583328,
       "word": "安欣是扫黑的决心与初心",
@@ -2344,6 +2360,14 @@
       "word": "安欣高启强饭搭子Be",
       "onboard_time": 1674828205,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 574467,
+      "num": 574467,
+      "word": "满江红后劲有多大",
+      "onboard_time": 1674876147,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -2723,14 +2747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 520239,
-      "num": 490444,
-      "word": "Uzi61万股权被冻结",
-      "onboard_time": 1674878844,
-      "rank": 11,
-      "category": "游戏,财经"
-    },
-    {
       "raw_hot": 520076,
       "num": 459281,
       "word": "曹可凡吃大肠",
@@ -2907,14 +2923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 503986,
-      "num": 503986,
-      "word": "满江红后劲有多大",
-      "onboard_time": 1674876147,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 503971,
       "num": 503971,
       "word": "梅西C罗姆巴佩内马尔看了都沉默了",
@@ -3011,6 +3019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 495142,
+      "num": 495142,
+      "word": "兄弟这班是非上不可吗",
+      "onboard_time": 1674878605,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 494671,
       "num": 356215,
       "word": "易烊千玺孙均李必对比",
@@ -3089,6 +3105,14 @@
       "onboard_time": 1674551064,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 483278,
+      "num": 483278,
+      "word": "特斯拉市值一夜大涨3800亿",
+      "onboard_time": 1674878966,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 482062,
@@ -3851,6 +3875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 396649,
+      "num": 396649,
+      "word": "胡鑫宇家人春节收到线索搜寻未果",
+      "onboard_time": 1674878066,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396359,
       "num": 396359,
       "word": "大年初二年俗",
@@ -4579,6 +4611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 346714,
+      "num": 346714,
+      "word": "赵丽颖上城士2023开年刊",
+      "onboard_time": 1674880227,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 346500,
       "num": 941370,
       "word": "离别是为了更好的重逢",
@@ -5179,14 +5219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311818,
-      "num": 311818,
-      "word": "胡鑫宇家人春节收到线索搜寻未果",
-      "onboard_time": 1674878066,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309813,
       "num": 309813,
       "word": "郭帆帮吴京找21岁的状态",
@@ -5425,14 +5457,6 @@
       "onboard_time": 1674526464,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 295159,
-      "num": 295159,
-      "word": "兄弟这班是非上不可吗",
-      "onboard_time": 1674878605,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 295136,
@@ -5763,6 +5787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276664,
+      "num": 276664,
+      "word": "三亚建议各类珍稀海产品加价率50%以内",
+      "onboard_time": 1674876626,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275662,
       "num": 275662,
       "word": "moss 大boss",
@@ -5833,14 +5865,6 @@
       "onboard_time": 1674487289,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 271309,
-      "num": 271309,
-      "word": "三亚建议各类珍稀海产品加价率50%以内",
-      "onboard_time": 1674876626,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271197,
@@ -6251,6 +6275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254937,
+      "num": 254937,
+      "word": "刚上班就已经开始困了",
+      "onboard_time": 1674878905,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254790,
       "num": 254790,
       "word": "无法拒绝金毛的撒娇",
@@ -6329,14 +6361,6 @@
       "onboard_time": 1674624382,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249749,
-      "num": 249749,
-      "word": "女子回老家过年忘关火锅被连烧7天",
-      "onboard_time": 1674879146,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249259,
@@ -6811,6 +6835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231175,
+      "num": 231175,
+      "word": "90后开始整顿娃圈了",
+      "onboard_time": 1674879927,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230220,
       "num": 230220,
       "word": "制片人说交换人生绝不是一部烂片",
@@ -7169,14 +7201,6 @@
       "onboard_time": 1674455124,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 214650,
-      "num": 214650,
-      "word": "特斯拉市值一夜大涨3800亿",
-      "onboard_time": 1674878966,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 214285,
@@ -7691,6 +7715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197478,
+      "num": 197478,
+      "word": "上班苦还是上学苦呢",
+      "onboard_time": 1674879805,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197266,
       "num": 197266,
       "word": "高叶李奕臻胡冰卿女二人设",
@@ -7955,6 +7987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190054,
+      "num": 190054,
+      "word": "高启兰是不是吴昕演的",
+      "onboard_time": 1674880165,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189875,
       "num": 189875,
       "word": "郭虎",
@@ -8009,6 +8049,14 @@
       "onboard_time": 1674515835,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188213,
+      "num": 188213,
+      "word": "上班后对秦桧的怨气更重了",
+      "onboard_time": 1674880227,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 188164,
@@ -9435,20 +9483,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141838,
-      "num": 141838,
-      "word": "刚上班就已经开始困了",
-      "onboard_time": 1674878905,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 141758,
       "num": 141758,
       "word": "在云南排骨独一无二的吃法",
       "onboard_time": 1674779363,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 141674,
+      "num": 141674,
+      "word": "春节像是做了一场热闹的梦",
+      "onboard_time": 1674878665,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 141450,

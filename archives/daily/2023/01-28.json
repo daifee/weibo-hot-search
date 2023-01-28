@@ -1,6 +1,6 @@
 {
   "startTime": 1674836705003,
-  "endTime": 1674879718919,
+  "endTime": 1674880622214,
   "band_list": [
     {
       "raw_hot": 1767022,
@@ -91,12 +91,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 819352,
+      "num": 819352,
+      "word": "今年可以打工384天",
+      "onboard_time": 1674877886,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 752269,
       "num": 752269,
       "word": "佩洛西丈夫遭袭视频公布",
       "onboard_time": 1674872305,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 732632,
+      "num": 732632,
+      "word": "流浪地球2周边商家呼吁理性消费",
+      "onboard_time": 1674876684,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 731513,
+      "num": 486581,
+      "word": "女子回老家过年忘关火锅被连烧7天",
+      "onboard_time": 1674879146,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 728595,
@@ -113,22 +137,6 @@
       "onboard_time": 1674869966,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 686754,
-      "num": 686754,
-      "word": "流浪地球2周边商家呼吁理性消费",
-      "onboard_time": 1674876684,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 677377,
-      "num": 677377,
-      "word": "今年可以打工384天",
-      "onboard_time": 1674877886,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 671182,
@@ -187,11 +195,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584048,
+      "num": 490444,
+      "word": "Uzi61万股权被冻结",
+      "onboard_time": 1674878844,
+      "rank": 11,
+      "category": "游戏,财经"
+    },
+    {
       "raw_hot": 577031,
       "num": 577031,
       "word": "听说你喜欢我定档0210",
       "onboard_time": 1674873985,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 574467,
+      "num": 574467,
+      "word": "满江红后劲有多大",
+      "onboard_time": 1674876147,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -219,14 +243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 520239,
-      "num": 490444,
-      "word": "Uzi61万股权被冻结",
-      "onboard_time": 1674878844,
-      "rank": 11,
-      "category": "游戏,财经"
-    },
-    {
       "raw_hot": 518330,
       "num": 518330,
       "word": "仙女棒在橘子里不会灭",
@@ -243,14 +259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 503986,
-      "num": 503986,
-      "word": "满江红后劲有多大",
-      "onboard_time": 1674876147,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 501724,
       "num": 501724,
       "word": "高启兰喜欢安欣",
@@ -259,12 +267,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 495142,
+      "num": 495142,
+      "word": "兄弟这班是非上不可吗",
+      "onboard_time": 1674878605,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 485217,
       "num": 485217,
       "word": "迪丽热巴开工六宫格",
       "onboard_time": 1674875425,
       "rank": 11,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 483278,
+      "num": 483278,
+      "word": "特斯拉市值一夜大涨3800亿",
+      "onboard_time": 1674878966,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 470784,
@@ -313,6 +337,14 @@
       "onboard_time": 1674835407,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 396649,
+      "num": 396649,
+      "word": "胡鑫宇家人春节收到线索搜寻未果",
+      "onboard_time": 1674878066,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395292,
@@ -403,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346714,
+      "num": 346714,
+      "word": "赵丽颖上城士2023开年刊",
+      "onboard_time": 1674880227,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 345048,
       "num": 345048,
       "word": "32岁排雷英雄杜富国升级当爸",
@@ -483,28 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311818,
-      "num": 311818,
-      "word": "胡鑫宇家人春节收到线索搜寻未果",
-      "onboard_time": 1674878066,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303320,
       "num": 303320,
       "word": "市监局通报4个菜1500块调查处理情况",
       "onboard_time": 1674864622,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295159,
-      "num": 295159,
-      "word": "兄弟这班是非上不可吗",
-      "onboard_time": 1674878605,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 292000,
@@ -547,8 +571,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271309,
-      "num": 271309,
+      "raw_hot": 276664,
+      "num": 276664,
       "word": "三亚建议各类珍稀海产品加价率50%以内",
       "onboard_time": 1674876626,
       "rank": 24,
@@ -579,20 +603,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254937,
+      "num": 254937,
+      "word": "刚上班就已经开始困了",
+      "onboard_time": 1674878905,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250496,
       "num": 250496,
       "word": "安欣高启强饭搭子Be",
       "onboard_time": 1674828205,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 249749,
-      "num": 249749,
-      "word": "女子回老家过年忘关火锅被连烧7天",
-      "onboard_time": 1674879146,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248993,
@@ -651,6 +675,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 231175,
+      "num": 231175,
+      "word": "90后开始整顿娃圈了",
+      "onboard_time": 1674879927,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228065,
       "num": 228065,
       "word": "这违停都抄不到牌",
@@ -689,14 +721,6 @@
       "onboard_time": 1674813807,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214650,
-      "num": 214650,
-      "word": "特斯拉市值一夜大涨3800亿",
-      "onboard_time": 1674878966,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 209437,
@@ -739,6 +763,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 197478,
+      "num": 197478,
+      "word": "上班苦还是上学苦呢",
+      "onboard_time": 1674879805,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197266,
       "num": 197266,
       "word": "高叶李奕臻胡冰卿女二人设",
@@ -771,12 +803,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 190054,
+      "num": 190054,
+      "word": "高启兰是不是吴昕演的",
+      "onboard_time": 1674880165,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189389,
       "num": 189389,
       "word": "不想上班",
       "onboard_time": 1674862819,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188213,
+      "num": 188213,
+      "word": "上班后对秦桧的怨气更重了",
+      "onboard_time": 1674880227,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 184253,
@@ -931,12 +979,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 141838,
-      "num": 141838,
-      "word": "刚上班就已经开始困了",
-      "onboard_time": 1674878905,
+      "raw_hot": 141674,
+      "num": 141674,
+      "word": "春节像是做了一场热闹的梦",
+      "onboard_time": 1674878665,
       "rank": 49,
-      "category": "幽默"
+      "category": "情感"
     },
     {
       "raw_hot": 140604,
