@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674874403320,
+  "endTime": 1674875980803,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -305,6 +305,14 @@
       "onboard_time": 1674563488,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1457144,
+      "num": 1457144,
+      "word": "58元烩菜没肉爆料者称被辱骂近崩溃",
+      "onboard_time": 1674870924,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1430126,
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 1131143,
-      "num": 472541,
+      "num": 501852,
       "word": "王鹤棣去炸串店和粉丝打招呼",
       "onboard_time": 1674861857,
       "rank": 30,
@@ -705,6 +713,14 @@
       "onboard_time": 1674568048,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1130569,
+      "num": 1130569,
+      "word": "迪丽热巴杨紫最新开工营业照",
+      "onboard_time": 1674875125,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1126723,
@@ -753,14 +769,6 @@
       "onboard_time": 1674619641,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1087197,
-      "num": 1087197,
-      "word": "58元烩菜没肉爆料者称被辱骂近崩溃",
-      "onboard_time": 1674870924,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1075990,
@@ -1523,6 +1531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 728246,
+      "num": 728246,
+      "word": "佩洛西丈夫遭袭视频公布",
+      "onboard_time": 1674872305,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 728027,
       "num": 728027,
       "word": "兔系艺人图鉴",
@@ -2147,6 +2163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 608612,
+      "num": 608612,
+      "word": "肖战开工随拍",
+      "onboard_time": 1674874705,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 608380,
       "num": 608380,
       "word": "权志龙巴黎时装周生图",
@@ -2161,14 +2185,6 @@
       "onboard_time": 1674615325,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 605495,
-      "num": 471476,
-      "word": "佩洛西丈夫遭袭视频公布",
-      "onboard_time": 1674872305,
-      "rank": 11,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 605231,
@@ -2236,7 +2252,7 @@
     },
     {
       "raw_hot": 590598,
-      "num": 590598,
+      "num": 1144870,
       "word": "X光安检机下的返程行囊",
       "onboard_time": 1674866903,
       "rank": 8,
@@ -2281,6 +2297,14 @@
       "onboard_time": 1674572369,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 577031,
+      "num": 577031,
+      "word": "听说你喜欢我定档0210",
+      "onboard_time": 1674873985,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 576821,
@@ -3003,20 +3027,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485217,
+      "num": 485217,
+      "word": "迪丽热巴开工六宫格",
+      "onboard_time": 1674875425,
+      "rank": 11,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 484354,
       "num": 484354,
       "word": "王宝强回村过年对求合影村民来者不拒",
       "onboard_time": 1674551064,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483331,
-      "num": 483331,
-      "word": "听说你喜欢我定档0210",
-      "onboard_time": 1674873985,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 482062,
@@ -3091,6 +3115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470784,
+      "num": 470784,
+      "word": "喜欢下班的朋友有福了",
+      "onboard_time": 1674871647,
+      "rank": 12,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 470560,
       "num": 470560,
       "word": "王鹤棣国风黑金西装造型",
@@ -3161,14 +3193,6 @@
       "onboard_time": 1674476006,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460593,
-      "num": 460593,
-      "word": "喜欢下班的朋友有福了",
-      "onboard_time": 1674871647,
-      "rank": 12,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 459248,
@@ -3603,6 +3627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409239,
+      "num": 409239,
+      "word": "安欣是真的想拯救每个人",
+      "onboard_time": 1674874104,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 409096,
       "num": 409096,
       "word": "詹姆斯创个人单场三分纪录",
@@ -3793,6 +3825,14 @@
       "onboard_time": 1674571409,
       "rank": 18,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 395292,
+      "num": 273215,
+      "word": "高启强开会摸鱼演我",
+      "onboard_time": 1674873926,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 394318,
@@ -4163,6 +4203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364532,
+      "num": 267597,
+      "word": "满江红中走路时的BGM",
+      "onboard_time": 1674875366,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364018,
       "num": 364018,
       "word": "看完狂飙后遗症",
@@ -4376,6 +4424,14 @@
       "word": "谢楠晒刘培强证件照",
       "onboard_time": 1674826888,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 353128,
+      "num": 269233,
+      "word": "那英唱的狂飙片尾曲也在下刀子",
+      "onboard_time": 1674875366,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -5635,6 +5691,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 273321,
+      "num": 273321,
+      "word": "特斯拉本周暴涨33%",
+      "onboard_time": 1674872845,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 273212,
       "num": 237637,
       "word": "50岁以上的出列",
@@ -5697,6 +5761,14 @@
       "onboard_time": 1674483150,
       "rank": 44,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 270632,
+      "num": 197590,
+      "word": "2023五一档电影阵容",
+      "onboard_time": 1674875726,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 270525,
@@ -6091,14 +6163,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 254786,
-      "num": 254786,
-      "word": "特斯拉本周暴涨33%",
-      "onboard_time": 1674872845,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 254762,
       "num": 220454,
       "word": "狂飙预告",
@@ -6201,6 +6265,14 @@
       "onboard_time": 1674399632,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248386,
+      "num": 197052,
+      "word": "王鹤棣陈钰琪浮图缘在香港播出",
+      "onboard_time": 1674875245,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 248156,
@@ -7611,6 +7683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194310,
+      "num": 183383,
+      "word": "你还能在现代感受到诗意吗",
+      "onboard_time": 1674875847,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194282,
       "num": 194282,
       "word": "沙溢演技",
@@ -8475,14 +8555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165364,
-      "num": 165364,
-      "word": "安欣是真的想拯救每个人",
-      "onboard_time": 1674874104,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 165168,
       "num": 165168,
       "word": "张凌赫水牛报菜名",
@@ -8633,6 +8705,14 @@
       "onboard_time": 1674813566,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158694,
+      "num": 158694,
+      "word": "王嘉尔世巡官宣南美",
+      "onboard_time": 1674874226,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 158551,
@@ -8851,6 +8931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150814,
+      "num": 150814,
+      "word": "推到年后的工作开始袭击我",
+      "onboard_time": 1674871764,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150350,
       "num": 150350,
       "word": "灰熊vs勇士",
@@ -9003,14 +9091,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 146732,
-      "num": 146732,
-      "word": "高启强开会摸鱼演我",
-      "onboard_time": 1674873926,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 146627,
       "num": 146627,
       "word": "TXT新专辑预售量突破216万张",
@@ -9161,14 +9241,6 @@
       "onboard_time": 1674542725,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 143652,
-      "num": 143652,
-      "word": "推到年后的工作开始袭击我",
-      "onboard_time": 1674871764,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 143335,
@@ -9361,6 +9433,14 @@
       "onboard_time": 1674616225,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136454,
+      "num": 136454,
+      "word": "节后如何应对上班焦虑感",
+      "onboard_time": 1674875066,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135911,
@@ -9697,14 +9777,6 @@
       "onboard_time": 1674517457,
       "rank": 38,
       "category": "综艺,音乐"
-    },
-    {
-      "raw_hot": 124862,
-      "num": 124862,
-      "word": "王嘉尔世巡官宣南美",
-      "onboard_time": 1674874226,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 124784,
@@ -10801,6 +10873,14 @@
       "onboard_time": 1674516674,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 36639,
+      "num": 411093,
+      "word": "开年投资必懂的十个问题",
+      "onboard_time": 1674874827,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 35005,
