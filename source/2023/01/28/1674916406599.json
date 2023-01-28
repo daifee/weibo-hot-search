@@ -1,0 +1,410 @@
+{
+  "runTime": 1674916406599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3022546,
+        "num": 3022546,
+        "word": "沈逸回应满江红官博起诉",
+        "onboard_time": 1674914550,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2337604,
+        "num": 2337604,
+        "word": "陈书婷假死",
+        "onboard_time": 1674912512,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163779,
+        "num": 1932431,
+        "word": "带着思念期待着下次相见",
+        "onboard_time": 1674911189,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1895058,
+        "num": 1895058,
+        "word": "张彪是狂飙第二个内鬼",
+        "onboard_time": 1674910289,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1555170,
+        "num": 1555170,
+        "word": "满江红片方起诉造谣者",
+        "onboard_time": 1674912270,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1495355,
+        "num": 1495355,
+        "word": "长辈认为晚辈不结婚的原因",
+        "onboard_time": 1674911011,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1485686,
+        "num": 1485686,
+        "word": "世卫更新应对辐射和核紧急情况关键药物清单",
+        "onboard_time": 1674912813,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1383433,
+        "num": 1383433,
+        "word": "满江红",
+        "onboard_time": 1674909809,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1018313,
+        "num": 1018313,
+        "word": "孟钰嫁给了杨建",
+        "onboard_time": 1674914670,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 802515,
+        "num": 1016033,
+        "word": "国道警示下坡已死亡37人引质疑",
+        "onboard_time": 1674902247,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1314422,
+        "num": 1015989,
+        "word": "杨洋腿毛",
+        "onboard_time": 1674911070,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1015791,
+        "num": 1015791,
+        "word": "狂飙",
+        "onboard_time": 1674905787,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 961948,
+        "num": 961948,
+        "word": "满江红官博连发数条回应争议",
+        "onboard_time": 1674902726,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 941546,
+        "num": 941546,
+        "word": "李一桐说赵樱子本人和听说的完全不一样",
+        "onboard_time": 1674910167,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 754258,
+        "num": 754258,
+        "word": "高启强好爱陈书婷",
+        "onboard_time": 1674912091,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510528,
+        "num": 510528,
+        "word": "莫须有 秦桧",
+        "onboard_time": 1674904828,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484750,
+        "num": 484750,
+        "word": "火锅店员工给顾客跪下道歉",
+        "onboard_time": 1674909869,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423140,
+        "num": 423140,
+        "word": "21岁男子撞车后向27岁车主说叔叔对不起",
+        "onboard_time": 1674904465,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406023,
+        "num": 406023,
+        "word": "这种奶茶杯实为三无电子烟",
+        "onboard_time": 1674912931,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348804,
+        "num": 348804,
+        "word": "女子拆8件旧羽绒服改成羽绒被",
+        "onboard_time": 1674903265,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430008,
+        "num": 346026,
+        "word": "沈月问刘耀文到底是学什么的",
+        "onboard_time": 1674914372,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341072,
+        "num": 341072,
+        "word": "流浪地球票房",
+        "onboard_time": 1674912389,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339849,
+        "num": 339849,
+        "word": "兵马俑景区旁一碗面38元仅3根面条",
+        "onboard_time": 1674908427,
+        "rank": 22,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 332122,
+        "num": 332122,
+        "word": "失去分寸感的情侣是怎样的",
+        "onboard_time": 1674905908,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303973,
+        "num": 303973,
+        "word": "想去弄乱张译的手机桌面",
+        "onboard_time": 1674908248,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301921,
+        "num": 301921,
+        "word": "BLACKPINK法国慈善晚会预告",
+        "onboard_time": 1674909268,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290569,
+        "num": 290569,
+        "word": "丁程鑫说时代少年团长得太像了",
+        "onboard_time": 1674913167,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287426,
+        "num": 287426,
+        "word": "梁家辉女儿出生三年没见过爸爸",
+        "onboard_time": 1674912993,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178028,
+        "num": 178028,
+        "word": "尾巴超蓬松的狗狗",
+        "onboard_time": 1674911728,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 177147,
+        "num": 177147,
+        "word": "女子投简历被回不招豫籍",
+        "onboard_time": 1674898947,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271736,
+        "num": 175090,
+        "word": "林心如晒与霍建华的合照",
+        "onboard_time": 1674892285,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271547,
+        "num": 172073,
+        "word": "荣梓杉听不懂粤语怀疑人生",
+        "onboard_time": 1674913652,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246979,
+        "num": 168870,
+        "word": "急需一本孙子兵法",
+        "onboard_time": 1674915989,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245214,
+        "num": 167180,
+        "word": "周深流浪地球2主题曲唱出硬核科幻感",
+        "onboard_time": 1674913167,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243547,
+        "num": 164064,
+        "word": "你好星期六",
+        "onboard_time": 1674910466,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200981,
+        "num": 161907,
+        "word": "贺峻霖白发侧颜",
+        "onboard_time": 1674915453,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159964,
+        "num": 159964,
+        "word": "河北省考",
+        "onboard_time": 1674907707,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148767,
+        "num": 148767,
+        "word": "再也不敢不好好卸妆了",
+        "onboard_time": 1674895827,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 129658,
+        "num": 129658,
+        "word": "强盛集团回应法人为孙红雷",
+        "onboard_time": 1674890666,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 126866,
+        "num": 126866,
+        "word": "男孩动物园内将孔雀摔打拔毛",
+        "onboard_time": 1674897507,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193179,
+        "num": 124872,
+        "word": "春节返程高铁清一色狂飙",
+        "onboard_time": 1674915872,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191957,
+        "num": 123294,
+        "word": "当年小偷光顾吴京家",
+        "onboard_time": 1674909568,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191782,
+        "num": 121676,
+        "word": "周喆直 moss",
+        "onboard_time": 1674905488,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183357,
+        "num": 119059,
+        "word": "虞书欣被鞭炮吓到的反应",
+        "onboard_time": 1674916351,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190918,
+        "num": 116771,
+        "word": "流浪地球3刘培强该如何复活",
+        "onboard_time": 1674898706,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116009,
+        "num": 116009,
+        "word": "女子生娃后弟弟心疼落泪",
+        "onboard_time": 1674902906,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103871,
+        "num": 115861,
+        "word": "过完年小肚腩也返岗了",
+        "onboard_time": 1674914493,
+        "rank": 46,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 100427,
+        "num": 115635,
+        "word": "小时候的朋友还有联系吗",
+        "onboard_time": 1674913350,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96693,
+        "num": 115393,
+        "word": "B站与晋江签订合作协议",
+        "onboard_time": 1674887904,
+        "rank": 48,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 247312,
+        "num": 115265,
+        "word": "张彪你为什么啊",
+        "onboard_time": 1674915571,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#向着美好生活再出发#"
+    }
+  }
+}
