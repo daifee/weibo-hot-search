@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674926133062,
+  "endTime": 1674927203149,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -26851,6 +26851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 378876,
+      "num": 378876,
+      "word": "女子点外卖偷放钢丝16次敲诈商家",
+      "onboard_time": 1674923125,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378859,
       "num": 268728,
       "word": "朴彩英上台前开嗓",
@@ -31145,14 +31153,6 @@
       "onboard_time": 1673576907,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 330613,
-      "num": 330613,
-      "word": "女子点外卖偷放钢丝16次敲诈商家",
-      "onboard_time": 1674923125,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330607,
@@ -39699,6 +39699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257107,
+      "num": 257107,
+      "word": "沈月自曝多次大难不死",
+      "onboard_time": 1674922586,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257105,
       "num": 257105,
       "word": "小兔枕着胡萝卜悠闲吃草",
@@ -39880,6 +39888,14 @@
       "word": "满江红瑶琴名字的由来",
       "onboard_time": 1674705387,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 255562,
+      "num": 255562,
+      "word": "流浪地球2自来水送票",
+      "onboard_time": 1674925820,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -41297,14 +41313,6 @@
       "onboard_time": 1674238515,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 245924,
-      "num": 187486,
-      "word": "沈月自曝多次大难不死",
-      "onboard_time": 1674922586,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 245836,
@@ -42872,14 +42880,6 @@
       "word": "王一博说希望常因光影相聚",
       "onboard_time": 1673654543,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 234447,
-      "num": 182752,
-      "word": "流浪地球2自来水送票",
-      "onboard_time": 1674925820,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -50377,6 +50377,14 @@
       "onboard_time": 1672839756,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184225,
+      "num": 133633,
+      "word": "gidle翻跳Abracadabra",
+      "onboard_time": 1674927017,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184218,
@@ -65947,6 +65955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70578,
+      "num": 70578,
+      "word": "监管部门回应58元烩菜事件处理进展",
+      "onboard_time": 1674925639,
+      "rank": 48,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 70515,
       "num": 114145,
       "word": "我的小年仪式感",
@@ -66561,14 +66577,6 @@
       "onboard_time": 1672516574,
       "rank": 37,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 50883,
-      "num": 50883,
-      "word": "监管部门回应58元烩菜事件处理进展",
-      "onboard_time": 1674925639,
-      "rank": 48,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 50806,
