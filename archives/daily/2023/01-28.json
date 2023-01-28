@@ -1,6 +1,6 @@
 {
   "startTime": 1674836705003,
-  "endTime": 1674912081819,
+  "endTime": 1674912797033,
   "band_list": [
     {
       "raw_hot": 3098583,
@@ -11,8 +11,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2605760,
-      "num": 2605760,
+      "raw_hot": 2972921,
+      "num": 2972921,
       "word": "张彪是狂飙第二个内鬼",
       "onboard_time": 1674910289,
       "rank": 1,
@@ -33,6 +33,14 @@
       "onboard_time": 1674890666,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1949308,
+      "num": 630483,
+      "word": "杨洋腿毛",
+      "onboard_time": 1674911070,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1895830,
@@ -153,14 +161,6 @@
       "onboard_time": 1674904828,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1133969,
-      "num": 630483,
-      "word": "杨洋腿毛",
-      "onboard_time": 1674911070,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1131143,
@@ -507,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 600370,
+      "num": 600370,
+      "word": "长辈认为晚辈不结婚的原因",
+      "onboard_time": 1674911011,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 600288,
       "num": 600288,
       "word": "寺庙内设电子扫码烧金",
@@ -529,6 +537,14 @@
       "onboard_time": 1674878844,
       "rank": 11,
       "category": "游戏,财经"
+    },
+    {
+      "raw_hot": 580547,
+      "num": 580547,
+      "word": "火锅店员工给顾客跪下道歉",
+      "onboard_time": 1674909869,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 577031,
@@ -603,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 529986,
+      "num": 529986,
+      "word": "你好星期六",
+      "onboard_time": 1674910466,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 525175,
       "num": 525175,
       "word": "安欣是真的想拯救每个人",
@@ -657,14 +681,6 @@
       "onboard_time": 1674860595,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 501561,
-      "num": 501561,
-      "word": "你好星期六",
-      "onboard_time": 1674910466,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 495142,
@@ -771,14 +787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 423318,
-      "num": 423318,
-      "word": "火锅店员工给顾客跪下道歉",
-      "onboard_time": 1674909869,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 418533,
       "num": 418533,
       "word": "易烊千玺满江红镜头感",
@@ -851,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387709,
+      "num": 387709,
+      "word": "安欣登门拜访杨健",
+      "onboard_time": 1674911670,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 387152,
       "num": 387152,
       "word": "鹿晗银灰发侧颜照",
@@ -907,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382355,
+      "num": 350366,
+      "word": "狂飙编剧",
+      "onboard_time": 1674911969,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 379529,
       "num": 379529,
       "word": "当小猫得知自己身价后",
@@ -928,6 +952,14 @@
       "word": "周喆直 执剑人",
       "onboard_time": 1674906386,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 375333,
+      "num": 223004,
+      "word": "陈书婷假死",
+      "onboard_time": 1674912512,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -987,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350569,
+      "num": 350569,
+      "word": "流浪地球2值不值得看",
+      "onboard_time": 1674908908,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 346714,
       "num": 346714,
       "word": "赵丽颖上城士2023开年刊",
@@ -1024,14 +1064,6 @@
       "word": "我还想再睡一会儿",
       "onboard_time": 1674864081,
       "rank": 15,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 329888,
-      "num": 329888,
-      "word": "长辈认为晚辈不结婚的原因",
-      "onboard_time": 1674911011,
-      "rank": 19,
       "category": "情感"
     },
     {
@@ -1075,20 +1107,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316479,
-      "num": 316479,
-      "word": "流浪地球2值不值得看",
-      "onboard_time": 1674908908,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 315089,
       "num": 315089,
       "word": "被欺负到摆烂的小猫咪",
       "onboard_time": 1674864263,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 315009,
+      "num": 315009,
+      "word": "满江红片方起诉造谣者",
+      "onboard_time": 1674912270,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 313015,
@@ -1171,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285621,
+      "num": 114124,
+      "word": "高启强好爱陈书婷",
+      "onboard_time": 1674912091,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284818,
       "num": 223121,
       "word": "安欣抓捕失败疑似有人泄密",
@@ -1201,14 +1241,6 @@
       "onboard_time": 1674885806,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281363,
-      "num": 259682,
-      "word": "安欣登门拜访杨健",
-      "onboard_time": 1674911670,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 278947,
@@ -1249,6 +1281,14 @@
       "onboard_time": 1674847332,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265778,
+      "num": 265778,
+      "word": "当年小偷光顾吴京家",
+      "onboard_time": 1674909568,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 261935,
@@ -1339,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243394,
+      "num": 243394,
+      "word": "河北省考",
+      "onboard_time": 1674907707,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 243026,
       "num": 243026,
       "word": "女子生娃后弟弟心疼落泪",
@@ -1353,14 +1401,6 @@
       "onboard_time": 1674905368,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239469,
-      "num": 239469,
-      "word": "河北省考",
-      "onboard_time": 1674907707,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 237144,
@@ -1491,14 +1531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213496,
-      "num": 213496,
-      "word": "当年小偷光顾吴京家",
-      "onboard_time": 1674909568,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213269,
       "num": 213269,
       "word": "玩具店主春节忘锁门8天未丢一物",
@@ -1593,6 +1625,14 @@
       "onboard_time": 1674876744,
       "rank": 27,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 197430,
+      "num": 197430,
+      "word": "流浪地球票房",
+      "onboard_time": 1674912389,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 197074,
@@ -1841,14 +1881,6 @@
       "onboard_time": 1674869183,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 161982,
-      "num": 123422,
-      "word": "狂飙编剧",
-      "onboard_time": 1674911969,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 161347,
@@ -2139,6 +2171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124556,
+      "num": 1804032,
+      "word": "带着思念期待着下次相见",
+      "onboard_time": 1674911189,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123666,
       "num": 123666,
       "word": "严浩翔转呼啦圈",
@@ -2187,6 +2227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115435,
+      "num": 115435,
+      "word": "尾巴超蓬松的狗狗",
+      "onboard_time": 1674911728,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 112451,
       "num": 112451,
       "word": "辱母案当事人于欢升级当爸",
@@ -2217,14 +2265,6 @@
       "onboard_time": 1674840857,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109739,
-      "num": 109739,
-      "word": "尾巴超蓬松的狗狗",
-      "onboard_time": 1674911728,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 109335,
@@ -2291,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97577,
+      "num": 97577,
+      "word": "瞬间又想去旅游了",
+      "onboard_time": 1674912330,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 94136,
       "num": 94136,
       "word": "友情怎样写最刀",
@@ -2335,14 +2383,6 @@
       "num": 1271091,
       "word": "离家的行囊满是爱和牵挂",
       "onboard_time": 1674828749,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86203,
-      "num": 1804032,
-      "word": "带着思念期待着下次相见",
-      "onboard_time": 1674911189,
       "rank": 2,
       "category": "社会新闻"
     },
