@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674947850185,
+  "endTime": 1674948831036,
   "band_list": [
     {
       "raw_hot": 1679916,
@@ -49,6 +49,14 @@
       "onboard_time": 1674911011,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 819502,
+      "num": 819502,
+      "word": "辉瑞",
+      "onboard_time": 1674948138,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686324,
@@ -179,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333293,
+      "num": 333293,
+      "word": "小老虎从上班直接睡到下班",
+      "onboard_time": 1674940512,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278597,
       "num": 278597,
       "word": "网友反映福建莆田彩礼最多达200万",
@@ -225,14 +241,6 @@
       "onboard_time": 1674918090,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 229754,
-      "num": 229754,
-      "word": "小老虎从上班直接睡到下班",
-      "onboard_time": 1674940512,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229432,
@@ -315,6 +323,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 156098,
+      "num": 156098,
+      "word": "大妈用鞋底暴抽秦桧跪像",
+      "onboard_time": 1674932053,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150926,
       "num": 150926,
       "word": "重庆九宫格火锅有哪些讲究",
@@ -387,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 117998,
+      "num": 1162654,
+      "word": "带着思念期待着下次相见",
+      "onboard_time": 1674911189,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112830,
       "num": 112830,
       "word": "朴志晟李帝努舞蹈挑战",
@@ -403,28 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100773,
-      "num": 100773,
-      "word": "大妈用鞋底暴抽秦桧跪像",
-      "onboard_time": 1674932053,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94924,
       "num": 94924,
       "word": "热恋期跟对象打电话的样子",
       "onboard_time": 1674929176,
       "rank": 48,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 94005,
-      "num": 1162654,
-      "word": "带着思念期待着下次相见",
-      "onboard_time": 1674911189,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88170,
@@ -491,6 +499,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 54881,
+      "num": 54881,
+      "word": "纽约时报给流浪地球2打30分",
+      "onboard_time": 1674893788,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 54488,
       "num": 54488,
       "word": "原来MOSS的电话真的能打通",
@@ -507,12 +523,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 39407,
-      "num": 39407,
-      "word": "纽约时报给流浪地球2打30分",
-      "onboard_time": 1674893788,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 41056,
+      "num": 41056,
+      "word": "云南冬樱绽放满眼都是粉色",
+      "onboard_time": 1674948617,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 12582,
