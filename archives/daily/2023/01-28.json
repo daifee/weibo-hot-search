@@ -1,6 +1,6 @@
 {
   "startTime": 1674836705003,
-  "endTime": 1674871083842,
+  "endTime": 1674873815227,
   "band_list": [
     {
       "raw_hot": 1620276,
@@ -19,8 +19,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1221295,
-      "num": 1221295,
+      "raw_hot": 1321330,
+      "num": 1321330,
       "word": "张颂文评论区",
       "onboard_time": 1674867746,
       "rank": 3,
@@ -41,6 +41,14 @@
       "onboard_time": 1674819748,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1021079,
+      "num": 1021079,
+      "word": "58元烩菜没肉爆料者称被辱骂近崩溃",
+      "onboard_time": 1674870924,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 983646,
@@ -83,8 +91,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 686188,
-      "num": 686188,
+      "raw_hot": 697389,
+      "num": 697389,
       "word": "王一博无名票房破5亿剧照",
       "onboard_time": 1674869966,
       "rank": 6,
@@ -107,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 616871,
+      "num": 616871,
+      "word": "热舞的安妮海瑟薇",
+      "onboard_time": 1674868524,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 590598,
       "num": 590598,
       "word": "X光安检机下的返程行囊",
@@ -115,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 566294,
-      "num": 467541,
-      "word": "热舞的安妮海瑟薇",
-      "onboard_time": 1674868524,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 579654,
+      "num": 579654,
+      "word": "寺庙内设电子扫码烧金",
+      "onboard_time": 1674870146,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 565741,
@@ -163,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 450858,
+      "num": 402366,
+      "word": "佩洛西丈夫遭袭视频公布",
+      "onboard_time": 1674872305,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 418533,
       "num": 418533,
       "word": "易烊千玺满江红镜头感",
@@ -171,12 +195,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410402,
+      "num": 410402,
+      "word": "狂飙后遗症",
+      "onboard_time": 1674869304,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 393317,
+      "num": 393317,
+      "word": "喜欢下班的朋友有福了",
+      "onboard_time": 1674871647,
+      "rank": 12,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 391642,
       "num": 377589,
       "word": "SEVENTEEN 奖杯",
       "onboard_time": 1674823828,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 391482,
+      "num": 391482,
+      "word": "乔杉范丞丞马丽张婧仪新片定档五一",
+      "onboard_time": 1674873564,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 387060,
+      "num": 387060,
+      "word": "沈腾1场戏1个字3种情绪",
+      "onboard_time": 1674871466,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 386465,
@@ -209,6 +265,14 @@
       "onboard_time": 1674835825,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371824,
+      "num": 371824,
+      "word": "鹿晗银灰发侧颜照",
+      "onboard_time": 1674872425,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 363607,
@@ -307,28 +371,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269075,
-      "num": 183515,
-      "word": "男子春节逆向旅游深圳承包整片沙滩",
-      "onboard_time": 1674847332,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266213,
-      "num": 225477,
+      "raw_hot": 278947,
+      "num": 278947,
       "word": "去有风的地方以家人之名梦幻联动",
       "onboard_time": 1674870205,
       "rank": 30,
       "category": "影视"
     },
     {
-      "raw_hot": 260769,
-      "num": 260769,
-      "word": "狂飙后遗症",
-      "onboard_time": 1674869304,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 269075,
+      "num": 183515,
+      "word": "男子春节逆向旅游深圳承包整片沙滩",
+      "onboard_time": 1674847332,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257075,
@@ -369,6 +425,22 @@
       "onboard_time": 1674870025,
       "rank": 28,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 234360,
+      "num": 234360,
+      "word": "赵露思神隐蓝裙造型饭拍路透",
+      "onboard_time": 1674873805,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 234125,
+      "num": 234125,
+      "word": "儿子年后返程妈妈把特产塞满车",
+      "onboard_time": 1674869426,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233751,
@@ -427,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210724,
-      "num": 210724,
-      "word": "儿子年后返程妈妈把特产塞满车",
-      "onboard_time": 1674869426,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209437,
       "num": 209437,
       "word": "世上从此有了满江红",
@@ -459,12 +523,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205686,
-      "num": 205686,
-      "word": "寺庙内设电子扫码烧金",
-      "onboard_time": 1674870146,
+      "raw_hot": 203223,
+      "num": 203223,
+      "word": "特斯拉本周暴涨33%",
+      "onboard_time": 1674872845,
       "rank": 34,
-      "category": "社会新闻"
+      "category": "财经"
     },
     {
       "raw_hot": 199528,
@@ -587,6 +651,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 146208,
+      "num": 146208,
+      "word": "又有神秘天外来客到访地球",
+      "onboard_time": 1674871407,
+      "rank": 41,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 140604,
       "num": 140604,
       "word": "2023年春节档票房破67亿元",
@@ -609,6 +681,14 @@
       "onboard_time": 1674861374,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134775,
+      "num": 134775,
+      "word": "推到年后的工作开始袭击我",
+      "onboard_time": 1674871764,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 134463,
@@ -635,14 +715,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 129719,
-      "num": 129719,
-      "word": "58元烩菜没肉爆料者称被辱骂近崩溃",
-      "onboard_time": 1674870924,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129320,
       "num": 129320,
       "word": "满江红 龙门镖局",
@@ -667,12 +739,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122709,
+      "num": 122709,
+      "word": "流浪地球 脑洞",
+      "onboard_time": 1674873206,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119513,
       "num": 119513,
       "word": "吴京说如果可以会选择数字生命",
       "onboard_time": 1674839839,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113585,
+      "num": 124708,
+      "word": "人工智能会取代人类吗",
+      "onboard_time": 1674873625,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 112451,
