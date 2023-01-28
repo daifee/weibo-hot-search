@@ -1,6 +1,6 @@
 {
   "startTime": 1674836705003,
-  "endTime": 1674869862731,
+  "endTime": 1674871083842,
   "band_list": [
     {
       "raw_hot": 1620276,
@@ -19,8 +19,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1172983,
-      "num": 1172983,
+      "raw_hot": 1221295,
+      "num": 1221295,
       "word": "张颂文评论区",
       "onboard_time": 1674867746,
       "rank": 3,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1131143,
-      "num": 445600,
+      "num": 468272,
       "word": "王鹤棣去炸串店和粉丝打招呼",
       "onboard_time": 1674861857,
       "rank": 30,
@@ -75,12 +75,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 681946,
-      "num": 681946,
+      "raw_hot": 728595,
+      "num": 728595,
       "word": "华晨宇方晒应援棒外观设计专利证书",
       "onboard_time": 1674865644,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 686188,
+      "num": 686188,
+      "word": "王一博无名票房破5亿剧照",
+      "onboard_time": 1674869966,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 636535,
@@ -91,12 +99,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 614238,
-      "num": 614238,
+      "raw_hot": 633497,
+      "num": 633497,
       "word": "流浪地球",
       "onboard_time": 1674866604,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 590598,
+      "num": 590598,
+      "word": "X光安检机下的返程行囊",
+      "onboard_time": 1674866903,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566294,
+      "num": 467541,
+      "word": "热舞的安妮海瑟薇",
+      "onboard_time": 1674868524,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 565741,
@@ -113,14 +137,6 @@
       "onboard_time": 1674834746,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 531430,
-      "num": 531430,
-      "word": "X光安检机下的返程行囊",
-      "onboard_time": 1674866903,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 518330,
@@ -145,14 +161,6 @@
       "onboard_time": 1674860595,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 482781,
-      "num": 202068,
-      "word": "热舞的安妮海瑟薇",
-      "onboard_time": 1674868524,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 418533,
@@ -227,12 +235,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 324034,
+      "num": 324034,
+      "word": "央视评宰客事件",
+      "onboard_time": 1674868765,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317395,
       "num": 317395,
       "word": "岳云鹏被0713盘到退场",
       "onboard_time": 1674865282,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316830,
+      "num": 316830,
+      "word": "景区设免费抓鸡活动抓到可带走",
+      "onboard_time": 1674867985,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315089,
@@ -256,14 +280,6 @@
       "word": "市监局通报4个菜1500块调查处理情况",
       "onboard_time": 1674864622,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297001,
-      "num": 297001,
-      "word": "景区设免费抓鸡活动抓到可带走",
-      "onboard_time": 1674867985,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -299,6 +315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266213,
+      "num": 225477,
+      "word": "去有风的地方以家人之名梦幻联动",
+      "onboard_time": 1674870205,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 260769,
+      "num": 260769,
+      "word": "狂飙后遗症",
+      "onboard_time": 1674869304,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257075,
       "num": 257075,
       "word": "满江红实时票房破26亿",
@@ -329,6 +361,14 @@
       "onboard_time": 1674828031,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235887,
+      "num": 235887,
+      "word": "被妈塞特产嘴上不要但接得很快",
+      "onboard_time": 1674870025,
+      "rank": 28,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 233751,
@@ -387,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210724,
+      "num": 210724,
+      "word": "儿子年后返程妈妈把特产塞满车",
+      "onboard_time": 1674869426,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209437,
       "num": 209437,
       "word": "世上从此有了满江红",
@@ -411,11 +459,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203199,
-      "num": 203199,
-      "word": "央视评宰客事件",
-      "onboard_time": 1674868765,
-      "rank": 29,
+      "raw_hot": 205686,
+      "num": 205686,
+      "word": "寺庙内设电子扫码烧金",
+      "onboard_time": 1674870146,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -425,14 +473,6 @@
       "onboard_time": 1674867264,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199187,
-      "num": 199187,
-      "word": "狂飙后遗症",
-      "onboard_time": 1674869304,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 193807,
@@ -499,6 +539,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166513,
+      "num": 166513,
+      "word": "黑龙江百米宽瀑布被冻成冰山",
+      "onboard_time": 1674868826,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162896,
+      "num": 162896,
+      "word": "上班第一天真的好困",
+      "onboard_time": 1674869183,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 159299,
       "num": 159299,
       "word": "过年的八个相亲小技巧",
@@ -529,14 +585,6 @@
       "onboard_time": 1674857832,
       "rank": 49,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 144299,
-      "num": 144299,
-      "word": "黑龙江百米宽瀑布被冻成冰山",
-      "onboard_time": 1674868826,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140604,
@@ -587,6 +635,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 129719,
+      "num": 129719,
+      "word": "58元烩菜没肉爆料者称被辱骂近崩溃",
+      "onboard_time": 1674870924,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129320,
       "num": 129320,
       "word": "满江红 龙门镖局",
@@ -617,14 +673,6 @@
       "onboard_time": 1674839839,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 119121,
-      "num": 119121,
-      "word": "上班第一天真的好困",
-      "onboard_time": 1674869183,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 112451,
@@ -689,14 +737,6 @@
       "onboard_time": 1674825808,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 101327,
-      "num": 101327,
-      "word": "儿子年后返程妈妈把特产塞满车",
-      "onboard_time": 1674869426,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100009,

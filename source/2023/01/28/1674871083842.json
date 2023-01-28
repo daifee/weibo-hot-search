@@ -1,0 +1,410 @@
+{
+  "runTime": 1674871083842,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1595754,
+        "num": 1595754,
+        "word": "14岁初中生保送清华本硕博连读",
+        "onboard_time": 1674863720,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1221295,
+        "num": 1221295,
+        "word": "张颂文评论区",
+        "onboard_time": 1674867746,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83417,
+        "num": 1114888,
+        "word": "离家的行囊满是爱和牵挂",
+        "onboard_time": 1674828749,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1024098,
+        "num": 1024098,
+        "word": "开始7天渡劫",
+        "onboard_time": 1674864141,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 979807,
+        "num": 979807,
+        "word": "迟到",
+        "onboard_time": 1674867083,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 728595,
+        "num": 728595,
+        "word": "华晨宇方晒应援棒外观设计专利证书",
+        "onboard_time": 1674865644,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 686188,
+        "num": 686188,
+        "word": "王一博无名票房破5亿剧照",
+        "onboard_time": 1674869966,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 633497,
+        "num": 633497,
+        "word": "流浪地球",
+        "onboard_time": 1674866604,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 590598,
+        "num": 590598,
+        "word": "X光安检机下的返程行囊",
+        "onboard_time": 1674866903,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468717,
+        "num": 468717,
+        "word": "LV老板因中国游客回归看好奢侈品市场",
+        "onboard_time": 1674861136,
+        "rank": 9,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 1111875,
+        "num": 468272,
+        "word": "王鹤棣去炸串店和粉丝打招呼",
+        "onboard_time": 1674861857,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566294,
+        "num": 467541,
+        "word": "热舞的安妮海瑟薇",
+        "onboard_time": 1674868524,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466718,
+        "num": 466718,
+        "word": "高启兰喜欢安欣",
+        "onboard_time": 1674860595,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348569,
+        "num": 348569,
+        "word": "草莓怎么洗才干净",
+        "onboard_time": 1674861797,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 358624,
+        "num": 347387,
+        "word": "狂飙大结局那天是李响头七",
+        "onboard_time": 1674832229,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331212,
+        "num": 331212,
+        "word": "开工大吉",
+        "onboard_time": 1674865044,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329550,
+        "num": 329550,
+        "word": "张译曾被熊猫袭胸",
+        "onboard_time": 1674864320,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324034,
+        "num": 324034,
+        "word": "央视评宰客事件",
+        "onboard_time": 1674868765,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316830,
+        "num": 316830,
+        "word": "景区设免费抓鸡活动抓到可带走",
+        "onboard_time": 1674867985,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279406,
+        "num": 279406,
+        "word": "张朝阳建议流浪地球3加入拉格朗日点",
+        "onboard_time": 1674833906,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277505,
+        "num": 277505,
+        "word": "男子花20多万到三亚度假遭遇节约型爸妈",
+        "onboard_time": 1674831030,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276607,
+        "num": 276607,
+        "word": "何立的腰",
+        "onboard_time": 1674832889,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274398,
+        "num": 274398,
+        "word": "流浪地球2周边众筹已超3200万",
+        "onboard_time": 1674834746,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260769,
+        "num": 260769,
+        "word": "狂飙后遗症",
+        "onboard_time": 1674869304,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259770,
+        "num": 259770,
+        "word": "我还想再睡一会儿",
+        "onboard_time": 1674864081,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253502,
+        "num": 253502,
+        "word": "市监局通报4个菜1500块调查处理情况",
+        "onboard_time": 1674864622,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242164,
+        "num": 242164,
+        "word": "被欺负到摆烂的小猫咪",
+        "onboard_time": 1674864263,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238226,
+        "num": 238226,
+        "word": "满江红实时票房破26亿",
+        "onboard_time": 1674863540,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235887,
+        "num": 235887,
+        "word": "被妈塞特产嘴上不要但接得很快",
+        "onboard_time": 1674870025,
+        "rank": 28,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 229891,
+        "num": 229891,
+        "word": "狂飙",
+        "onboard_time": 1674819748,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266213,
+        "num": 225477,
+        "word": "去有风的地方以家人之名梦幻联动",
+        "onboard_time": 1674870205,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219282,
+        "num": 219282,
+        "word": "景区回应5人花100元看时空隧道",
+        "onboard_time": 1674853990,
+        "rank": 31,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 216913,
+        "num": 216913,
+        "word": "岳云鹏被0713盘到退场",
+        "onboard_time": 1674865282,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210724,
+        "num": 210724,
+        "word": "儿子年后返程妈妈把特产塞满车",
+        "onboard_time": 1674869426,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205686,
+        "num": 205686,
+        "word": "寺庙内设电子扫码烧金",
+        "onboard_time": 1674870146,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176100,
+        "num": 176100,
+        "word": "女子路遇大老鼠不慎摔倒砸死老鼠",
+        "onboard_time": 1674827847,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173622,
+        "num": 173622,
+        "word": "著名翻译家杨苡逝世",
+        "onboard_time": 1674867264,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166513,
+        "num": 166513,
+        "word": "黑龙江百米宽瀑布被冻成冰山",
+        "onboard_time": 1674868826,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162896,
+        "num": 162896,
+        "word": "上班第一天真的好困",
+        "onboard_time": 1674869183,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 153646,
+        "num": 153646,
+        "word": "困困困",
+        "onboard_time": 1674865344,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151181,
+        "num": 151181,
+        "word": "这违停都抄不到牌",
+        "onboard_time": 1674831508,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140759,
+        "num": 140759,
+        "word": "电影无名票房破5亿",
+        "onboard_time": 1674862878,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137719,
+        "num": 137719,
+        "word": "三体 还原的嘞",
+        "onboard_time": 1674831750,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132621,
+        "num": 132621,
+        "word": "过年的八个相亲小技巧",
+        "onboard_time": 1674863480,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129719,
+        "num": 129719,
+        "word": "58元烩菜没肉爆料者称被辱骂近崩溃",
+        "onboard_time": 1674870924,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114679,
+        "num": 114679,
+        "word": "SEVENTEEN 奖杯",
+        "onboard_time": 1674823828,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113853,
+        "num": 113853,
+        "word": "不想上班",
+        "onboard_time": 1674862819,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111839,
+        "num": 111839,
+        "word": "吴京说如果可以会选择数字生命",
+        "onboard_time": 1674839839,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107516,
+        "num": 107516,
+        "word": "易烊千玺满江红镜头感",
+        "onboard_time": 1674835407,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106669,
+        "num": 106669,
+        "word": "男子春节逆向旅游深圳承包整片沙滩",
+        "onboard_time": 1674847332,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#向春而行#"
+    }
+  }
+}
