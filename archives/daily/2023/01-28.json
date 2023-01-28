@@ -1,6 +1,6 @@
 {
   "startTime": 1674836705003,
-  "endTime": 1674904461402,
+  "endTime": 1674905598553,
   "band_list": [
     {
       "raw_hot": 2796033,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1432825,
+      "num": 1432825,
+      "word": "国道警示下坡已死亡37人引质疑",
+      "onboard_time": 1674902247,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1321330,
       "num": 1321330,
       "word": "张颂文评论区",
@@ -105,14 +113,6 @@
       "onboard_time": 1674861857,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1109638,
-      "num": 1109638,
-      "word": "国道警示下坡已死亡37人引质疑",
-      "onboard_time": 1674902247,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1081067,
@@ -403,6 +403,14 @@
       "category": "影视,财经"
     },
     {
+      "raw_hot": 622739,
+      "num": 622739,
+      "word": "原来MOSS的电话真的能打通",
+      "onboard_time": 1674901826,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 616871,
       "num": 616871,
       "word": "热舞的安妮海瑟薇",
@@ -475,12 +483,12 @@
       "category": "时尚,社会新闻"
     },
     {
-      "raw_hot": 556487,
-      "num": 556487,
-      "word": "原来MOSS的电话真的能打通",
-      "onboard_time": 1674901826,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 559010,
+      "num": 559010,
+      "word": "女子拆8件旧羽绒服改成羽绒被",
+      "onboard_time": 1674903265,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 555102,
@@ -531,6 +539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 515489,
+      "num": 515489,
+      "word": "网友偶遇叶舒华泰国逛街",
+      "onboard_time": 1674900565,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 507184,
       "num": 507184,
       "word": "三体 还原的嘞",
@@ -539,19 +555,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 505578,
-      "num": 505578,
-      "word": "网友偶遇叶舒华泰国逛街",
-      "onboard_time": 1674900565,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 501724,
       "num": 501724,
       "word": "高启兰喜欢安欣",
       "onboard_time": 1674860595,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 495423,
+      "num": 495423,
+      "word": "狂飙名场面",
+      "onboard_time": 1674904048,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -747,6 +763,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 384939,
+      "num": 384939,
+      "word": "金钟仁日本演唱会饭拍",
+      "onboard_time": 1674904706,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 384066,
       "num": 384066,
       "word": "再也不敢不好好卸妆了",
@@ -883,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322142,
+      "num": 322142,
+      "word": "21岁男子撞车后向27岁车主说叔叔对不起",
+      "onboard_time": 1674904465,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321501,
       "num": 321501,
       "word": "特斯拉本周暴涨33%",
@@ -945,14 +977,6 @@
       "onboard_time": 1674903208,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 305514,
-      "num": 305514,
-      "word": "女子拆8件旧羽绒服改成羽绒被",
-      "onboard_time": 1674903265,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303320,
@@ -1163,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243026,
+      "num": 243026,
+      "word": "女子生娃后弟弟心疼落泪",
+      "onboard_time": 1674902906,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237144,
       "num": 237144,
       "word": "刘亦菲去有风的地方云苗村游客照",
@@ -1177,14 +1209,6 @@
       "onboard_time": 1674870025,
       "rank": 28,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 235224,
-      "num": 235224,
-      "word": "女子生娃后弟弟心疼落泪",
-      "onboard_time": 1674902906,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234125,
@@ -1203,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233135,
+      "num": 233135,
+      "word": "刘耀文沉浸式追剧",
+      "onboard_time": 1674904048,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232877,
       "num": 232877,
       "word": "转眼间三个女儿都长大了",
@@ -1217,6 +1249,14 @@
       "onboard_time": 1674831508,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227249,
+      "num": 227249,
+      "word": "莫须有 秦桧",
+      "onboard_time": 1674904828,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 226744,
@@ -1265,14 +1305,6 @@
       "onboard_time": 1674886108,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 218113,
-      "num": 218113,
-      "word": "狂飙名场面",
-      "onboard_time": 1674904048,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 217443,
@@ -1361,6 +1393,14 @@
       "onboard_time": 1674862399,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207563,
+      "num": 207563,
+      "word": "哈卷在演唱会把皮裤崩开了",
+      "onboard_time": 1674905007,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 199528,
@@ -1459,12 +1499,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183287,
+      "num": 183287,
+      "word": "侃爷 扔手机",
+      "onboard_time": 1674904887,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183111,
       "num": 183111,
       "word": "不愧是双胞胎的默契",
       "onboard_time": 1674888327,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181070,
+      "num": 181070,
+      "word": "小智遗弃比比鸟24周年",
+      "onboard_time": 1674903327,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 180323,
@@ -1579,14 +1635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 167693,
-      "num": 167693,
-      "word": "刘耀文沉浸式追剧",
-      "onboard_time": 1674904048,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167421,
       "num": 167421,
       "word": "猫咪喝醉后是什么反应",
@@ -1619,6 +1667,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 161347,
+      "num": 161347,
+      "word": "马嘉祺抓人的气势",
+      "onboard_time": 1674905067,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160719,
+      "num": 160719,
+      "word": "流浪地球 细节",
+      "onboard_time": 1674905247,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159490,
       "num": 159490,
       "word": "不太讲武德的小奶狗",
@@ -1633,6 +1697,14 @@
       "onboard_time": 1674863480,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159174,
+      "num": 159174,
+      "word": "孙怡分享长白山漂流四宫格",
+      "onboard_time": 1674905368,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 158694,
@@ -1657,6 +1729,14 @@
       "onboard_time": 1674877645,
       "rank": 45,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 156383,
+      "num": 156383,
+      "word": "起底河南被曝体罚学生背后公司",
+      "onboard_time": 1674905247,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155559,
@@ -1736,6 +1816,14 @@
       "word": "当流浪地球2医保哥的医保通过了",
       "onboard_time": 1674896185,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 143795,
+      "num": 143795,
+      "word": "周喆直 moss",
+      "onboard_time": 1674905488,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -1849,14 +1937,6 @@
       "onboard_time": 1674873206,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 121080,
-      "num": 121080,
-      "word": "小智遗弃比比鸟24周年",
-      "onboard_time": 1674903327,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 121066,
@@ -2052,7 +2132,7 @@
     },
     {
       "raw_hot": 37536,
-      "num": 1246730,
+      "num": 1295468,
       "word": "怎么克服节后综合征",
       "onboard_time": 1674866543,
       "rank": 2,
