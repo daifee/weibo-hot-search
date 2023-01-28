@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674912797033,
+  "endTime": 1674915333133,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -83,6 +83,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2412149,
+      "num": 2412149,
+      "word": "陈书婷假死",
+      "onboard_time": 1674912512,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2309508,
+      "num": 2309508,
+      "word": "沈逸回应满江红官博起诉",
+      "onboard_time": 1674914550,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2261726,
       "num": 2261726,
       "word": "江西一地连续两天开展全员核酸检测",
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 1949308,
-      "num": 630483,
+      "num": 1172904,
       "word": "杨洋腿毛",
       "onboard_time": 1674911070,
       "rank": 10,
@@ -419,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1406827,
+      "num": 1310774,
+      "word": "满江红片方起诉造谣者",
+      "onboard_time": 1674912270,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1383955,
       "num": 1383955,
       "word": "江西为天价彩礼降温",
@@ -449,6 +473,14 @@
       "onboard_time": 1674743970,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1366197,
+      "num": 1366197,
+      "word": "长辈认为晚辈不结婚的原因",
+      "onboard_time": 1674911011,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 1364776,
@@ -1043,6 +1075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1004076,
+      "num": 1252557,
+      "word": "世卫更新应对辐射和核紧急情况关键药物清单",
+      "onboard_time": 1674912813,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 996485,
       "num": 996485,
       "word": "张译李一桐吻戏",
@@ -1465,6 +1505,14 @@
       "onboard_time": 1674877886,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 814598,
+      "num": 814598,
+      "word": "高启强好爱陈书婷",
+      "onboard_time": 1674912091,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 814519,
@@ -2555,14 +2603,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 600370,
-      "num": 600370,
-      "word": "长辈认为晚辈不结婚的原因",
-      "onboard_time": 1674911011,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 600288,
       "num": 600288,
       "word": "寺庙内设电子扫码烧金",
@@ -2595,11 +2635,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 595061,
+      "num": 595061,
+      "word": "火锅店员工给顾客跪下道歉",
+      "onboard_time": 1674909869,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594487,
       "num": 594487,
       "word": "李雪健 定海神针",
       "onboard_time": 1674560488,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 592168,
+      "num": 592168,
+      "word": "狂飙编剧",
+      "onboard_time": 1674911969,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -2648,14 +2704,6 @@
       "word": "正月初三睡到饱",
       "onboard_time": 1674529226,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 580547,
-      "num": 580547,
-      "word": "火锅店员工给顾客跪下道歉",
-      "onboard_time": 1674909869,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -4011,6 +4059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422632,
+      "num": 383576,
+      "word": "丁程鑫说时代少年团长得太像了",
+      "onboard_time": 1674913167,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421649,
       "num": 421649,
       "word": "流浪地球2群演cut后不放下敬礼的手",
@@ -4163,6 +4219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410002,
+      "num": 378520,
+      "word": "梁家辉女儿出生三年没见过爸爸",
+      "onboard_time": 1674912993,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409096,
       "num": 409096,
       "word": "詹姆斯创个人单场三分纪录",
@@ -4209,6 +4273,14 @@
       "onboard_time": 1674561927,
       "rank": 37,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 404531,
+      "num": 371861,
+      "word": "沈月问刘耀文到底是学什么的",
+      "onboard_time": 1674914372,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 404483,
@@ -4547,6 +4619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 384908,
+      "num": 384908,
+      "word": "这种奶茶杯实为三无电子烟",
+      "onboard_time": 1674912931,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384066,
       "num": 384066,
       "word": "再也不敢不好好卸妆了",
@@ -4593,14 +4673,6 @@
       "onboard_time": 1674401786,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382355,
-      "num": 350366,
-      "word": "狂飙编剧",
-      "onboard_time": 1674911969,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 381650,
@@ -4705,14 +4777,6 @@
       "onboard_time": 1674474448,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 375333,
-      "num": 223004,
-      "word": "陈书婷假死",
-      "onboard_time": 1674912512,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 375300,
@@ -5659,6 +5723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318411,
+      "num": 162895,
+      "word": "孟钰嫁给了杨建",
+      "onboard_time": 1674914670,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317835,
       "num": 317835,
       "word": "郑业成养小龙虾",
@@ -5747,14 +5819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 315009,
-      "num": 315009,
-      "word": "满江红片方起诉造谣者",
-      "onboard_time": 1674912270,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 314429,
       "num": 314429,
       "word": "我是一个软弱的人",
@@ -5808,6 +5872,14 @@
       "word": "虞书欣王鹤棣没同框但又同框了",
       "onboard_time": 1674626065,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 312396,
+      "num": 169777,
+      "word": "荣梓杉听不懂粤语怀疑人生",
+      "onboard_time": 1674913652,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -6280,14 +6352,6 @@
       "word": "男版许红豆照进现实",
       "onboard_time": 1674530904,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 285621,
-      "num": 114124,
-      "word": "高启强好爱陈书婷",
-      "onboard_time": 1674912091,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -7376,6 +7440,14 @@
       "word": "张艺谋谈满江红为何放弃全片一镜到底",
       "onboard_time": 1674542304,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 240234,
+      "num": 166495,
+      "word": "周深流浪地球2主题曲唱出硬核科幻感",
+      "onboard_time": 1674913167,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -9459,6 +9531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172797,
+      "num": 2282109,
+      "word": "带着思念期待着下次相见",
+      "onboard_time": 1674911189,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172399,
       "num": 172399,
       "word": "26岁靠自学为国攻克原子弹关键技术",
@@ -9753,6 +9833,14 @@
       "onboard_time": 1674887426,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163629,
+      "num": 163629,
+      "word": "尾巴超蓬松的狗狗",
+      "onboard_time": 1674911728,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 163504,
@@ -10089,6 +10177,14 @@
       "onboard_time": 1674824605,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153768,
+      "num": 143660,
+      "word": "安欣与高启强警戒线对峙是张译设计的",
+      "onboard_time": 1674915271,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 153403,
@@ -11091,14 +11187,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 124556,
-      "num": 1804032,
-      "word": "带着思念期待着下次相见",
-      "onboard_time": 1674911189,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123666,
       "num": 123666,
       "word": "严浩翔转呼啦圈",
@@ -11395,14 +11483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 115435,
-      "num": 115435,
-      "word": "尾巴超蓬松的狗狗",
-      "onboard_time": 1674911728,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 114584,
       "num": 114584,
       "word": "快船战胜湖人",
@@ -11545,6 +11625,14 @@
       "onboard_time": 1674899546,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108838,
+      "num": 142806,
+      "word": "小时候的朋友还有联系吗",
+      "onboard_time": 1674913350,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 108710,
@@ -11873,6 +11961,14 @@
       "onboard_time": 1674638185,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 91702,
+      "num": 141074,
+      "word": "过完年小肚腩也返岗了",
+      "onboard_time": 1674914493,
+      "rank": 49,
+      "category": "其它"
     },
     {
       "raw_hot": 91246,
