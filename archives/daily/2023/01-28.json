@@ -1,6 +1,6 @@
 {
   "startTime": 1674836705003,
-  "endTime": 1674876813380,
+  "endTime": 1674879718919,
   "band_list": [
     {
       "raw_hot": 1767022,
@@ -115,11 +115,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 686754,
+      "num": 686754,
+      "word": "流浪地球2周边商家呼吁理性消费",
+      "onboard_time": 1674876684,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 677377,
+      "num": 677377,
+      "word": "今年可以打工384天",
+      "onboard_time": 1674877886,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 671182,
       "num": 671182,
       "word": "流浪地球",
       "onboard_time": 1674866604,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 649773,
+      "num": 649773,
+      "word": "2023五一档电影阵容",
+      "onboard_time": 1674875726,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -187,6 +211,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 525175,
+      "num": 525175,
+      "word": "安欣是真的想拯救每个人",
+      "onboard_time": 1674874104,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 520239,
+      "num": 490444,
+      "word": "Uzi61万股权被冻结",
+      "onboard_time": 1674878844,
+      "rank": 11,
+      "category": "游戏,财经"
+    },
+    {
       "raw_hot": 518330,
       "num": 518330,
       "word": "仙女棒在橘子里不会灭",
@@ -203,19 +243,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 503986,
+      "num": 503986,
+      "word": "满江红后劲有多大",
+      "onboard_time": 1674876147,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 501724,
       "num": 501724,
       "word": "高启兰喜欢安欣",
       "onboard_time": 1674860595,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 499343,
-      "num": 451323,
-      "word": "安欣是真的想拯救每个人",
-      "onboard_time": 1674874104,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -243,11 +283,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 440317,
-      "num": 440317,
-      "word": "2023五一档电影阵容",
-      "onboard_time": 1674875726,
-      "rank": 30,
+      "raw_hot": 449715,
+      "num": 449715,
+      "word": "易烊千玺满江红黑白剧照",
+      "onboard_time": 1674878665,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -276,7 +316,7 @@
     },
     {
       "raw_hot": 395292,
-      "num": 320863,
+      "num": 363466,
       "word": "高启强开会摸鱼演我",
       "onboard_time": 1674873926,
       "rank": 43,
@@ -289,6 +329,14 @@
       "onboard_time": 1674823828,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390923,
+      "num": 390923,
+      "word": "那英唱的狂飙片尾曲也在下刀子",
+      "onboard_time": 1674875366,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 387152,
@@ -304,14 +352,6 @@
       "word": "沈腾1场戏1个字3种情绪",
       "onboard_time": 1674871466,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 387016,
-      "num": 387016,
-      "word": "那英唱的狂飙片尾曲也在下刀子",
-      "onboard_time": 1674875366,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -363,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 345048,
+      "num": 345048,
+      "word": "32岁排雷英雄杜富国升级当爸",
+      "onboard_time": 1674876386,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335167,
       "num": 335167,
       "word": "金渐层是可以这样撸的吗",
@@ -377,14 +425,6 @@
       "onboard_time": 1674864081,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 330176,
-      "num": 315895,
-      "word": "满江红后劲有多大",
-      "onboard_time": 1674876147,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 324034,
@@ -411,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317018,
+      "num": 311486,
+      "word": "彭冠英王楚然新剧吻戏",
+      "onboard_time": 1674879086,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316830,
       "num": 316830,
       "word": "景区设免费抓鸡活动抓到可带走",
@@ -435,12 +483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311818,
+      "num": 311818,
+      "word": "胡鑫宇家人春节收到线索搜寻未果",
+      "onboard_time": 1674878066,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303320,
       "num": 303320,
       "word": "市监局通报4个菜1500块调查处理情况",
       "onboard_time": 1674864622,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295159,
+      "num": 295159,
+      "word": "兄弟这班是非上不可吗",
+      "onboard_time": 1674878605,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 292000,
@@ -467,12 +531,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283889,
+      "num": 283889,
+      "word": "杨紫黄色大衣随拍",
+      "onboard_time": 1674877285,
+      "rank": 23,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 278947,
       "num": 278947,
       "word": "去有风的地方以家人之名梦幻联动",
       "onboard_time": 1674870205,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271309,
+      "num": 271309,
+      "word": "三亚建议各类珍稀海产品加价率50%以内",
+      "onboard_time": 1674876626,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269075,
@@ -483,11 +563,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265724,
-      "num": 180497,
-      "word": "流浪地球2周边商家呼吁理性消费",
-      "onboard_time": 1674876684,
-      "rank": 31,
+      "raw_hot": 261774,
+      "num": 261774,
+      "word": "张婧仪说掌握自己人生的方向盘非常重要",
+      "onboard_time": 1674876867,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -505,6 +585,14 @@
       "onboard_time": 1674828205,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249749,
+      "num": 249749,
+      "word": "女子回老家过年忘关火锅被连烧7天",
+      "onboard_time": 1674879146,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248993,
@@ -603,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214650,
+      "num": 214650,
+      "word": "特斯拉市值一夜大涨3800亿",
+      "onboard_time": 1674878966,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 209437,
       "num": 209437,
       "word": "世上从此有了满江红",
@@ -641,6 +737,14 @@
       "onboard_time": 1674876744,
       "rank": 27,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 197266,
+      "num": 197266,
+      "word": "高叶李奕臻胡冰卿女二人设",
+      "onboard_time": 1674879444,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 194310,
@@ -707,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173821,
+      "num": 173821,
+      "word": "张小斐新剧好事成双开工剧照",
+      "onboard_time": 1674878605,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172258,
       "num": 172258,
       "word": "推到年后的工作开始袭击我",
@@ -721,6 +833,14 @@
       "onboard_time": 1674865344,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168308,
+      "num": 168308,
+      "word": "三亚市海鲜餐饮协会发出倡议",
+      "onboard_time": 1674876205,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166513,
@@ -763,20 +883,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 151594,
-      "num": 151594,
+      "raw_hot": 156997,
+      "num": 156997,
+      "word": "兔年第一个工作日",
+      "onboard_time": 1674877645,
+      "rank": 45,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 152700,
+      "num": 152700,
       "word": "马丽张婧仪人生路不熟演母女",
       "onboard_time": 1674876744,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 151518,
-      "num": 151518,
-      "word": "三亚市海鲜餐饮协会发出倡议",
-      "onboard_time": 1674876205,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151501,
@@ -811,6 +931,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 141838,
+      "num": 141838,
+      "word": "刚上班就已经开始困了",
+      "onboard_time": 1674878905,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140604,
       "num": 140604,
       "word": "2023年春节档票房破67亿元",
@@ -839,14 +967,6 @@
       "num": 136454,
       "word": "节后如何应对上班焦虑感",
       "onboard_time": 1674875066,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135679,
-      "num": 135679,
-      "word": "32岁排雷英雄杜富国升级当爸",
-      "onboard_time": 1674876386,
       "rank": 49,
       "category": "社会新闻"
     },
