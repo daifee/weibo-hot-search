@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674977606567,
+  "endTime": 1674980505557,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2714209,
+      "num": 2714209,
+      "word": "张颂文称中国99.5%的演员收入极低",
+      "onboard_time": 1674975272,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2676564,
       "num": 2676564,
       "word": "性暴力的展示在电影中不是必需的",
@@ -65,14 +73,6 @@
       "onboard_time": 1674952706,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2326467,
-      "num": 2326467,
-      "word": "张颂文称中国99.5%的演员收入极低",
-      "onboard_time": 1674975272,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1792218,
@@ -331,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 734734,
+      "num": 734734,
+      "word": "李一桐和符龙飞曾在相亲节目牵手成功",
+      "onboard_time": 1674978691,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 715023,
       "num": 715023,
       "word": "湖人",
@@ -361,6 +369,22 @@
       "onboard_time": 1674975692,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 679647,
+      "num": 679647,
+      "word": "张颂文本人还没有看狂飙",
+      "onboard_time": 1674978271,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 678404,
+      "num": 678404,
+      "word": "胡鑫宇家属决定尸检",
+      "onboard_time": 1674977012,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 669387,
@@ -409,6 +433,14 @@
       "onboard_time": 1674905787,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 619577,
+      "num": 619577,
+      "word": "女生练车把男友家撞出大洞",
+      "onboard_time": 1674978572,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 615042,
@@ -539,6 +571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 479579,
+      "num": 479579,
+      "word": "沈腾易烊千玺对戏没站稳",
+      "onboard_time": 1674977793,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 460594,
       "num": 460594,
       "word": "神隐",
@@ -635,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 404458,
-      "num": 404458,
-      "word": "胡鑫宇家属决定尸检",
-      "onboard_time": 1674977012,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 404260,
       "num": 404260,
       "word": "人社部辟谣退休人员不认证停发养老金",
@@ -675,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379469,
+      "num": 379469,
+      "word": "满江红实时票房破30亿",
+      "onboard_time": 1674975454,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 378876,
       "num": 378876,
       "word": "女子点外卖偷放钢丝16次敲诈商家",
@@ -683,11 +723,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 370993,
-      "num": 370993,
-      "word": "满江红实时票房破30亿",
-      "onboard_time": 1674975454,
-      "rank": 31,
+      "raw_hot": 363363,
+      "num": 363363,
+      "word": "崔秀彬哭了",
+      "onboard_time": 1674978812,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 362595,
+      "num": 362595,
+      "word": "杨笠直播回应推荐满江红",
+      "onboard_time": 1674980191,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -705,6 +753,14 @@
       "onboard_time": 1674966585,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 360365,
+      "num": 2521140,
+      "word": "爸妈硬塞行李的操作防不胜防",
+      "onboard_time": 1674977071,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348736,
@@ -857,6 +913,14 @@
       "onboard_time": 1674953184,
       "rank": 25,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 285171,
+      "num": 285171,
+      "word": "春节过后的00后有多想搞钱",
+      "onboard_time": 1674978034,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 282752,
@@ -1115,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184755,
+      "num": 184755,
+      "word": "年后第一天上班民政局人山人海",
+      "onboard_time": 1674980012,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184225,
       "num": 133633,
       "word": "gidle翻跳Abracadabra",
@@ -1219,11 +1291,11 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 158960,
-      "num": 2521140,
-      "word": "爸妈硬塞行李的操作防不胜防",
-      "onboard_time": 1674977071,
-      "rank": 2,
+      "raw_hot": 163259,
+      "num": 163259,
+      "word": "胡鑫宇失踪案最新消息",
+      "onboard_time": 1674979172,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1265,6 +1337,14 @@
       "onboard_time": 1674918030,
       "rank": 35,
       "category": "综艺,美食"
+    },
+    {
+      "raw_hot": 150630,
+      "num": 150630,
+      "word": "李现谢之遥获联合国教科文组织点赞",
+      "onboard_time": 1674980493,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 150611,
