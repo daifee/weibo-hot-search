@@ -1,0 +1,410 @@
+{
+  "runTime": 1674995550312,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5968356,
+        "num": 5968356,
+        "word": "胡鑫宇尸检已完成",
+        "onboard_time": 1674988052,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1299368,
+        "num": 1299368,
+        "word": "安欣准备卧底当大嫂",
+        "onboard_time": 1674992672,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121509,
+        "num": 1073565,
+        "word": "爸妈硬塞行李的操作防不胜防",
+        "onboard_time": 1674977071,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1842595,
+        "num": 988705,
+        "word": "村民回忆发现胡鑫宇遗体状况",
+        "onboard_time": 1674991174,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868952,
+        "num": 868952,
+        "word": "满江红官博更换微博背景字体",
+        "onboard_time": 1674985049,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 867030,
+        "num": 867030,
+        "word": "刘銮雄拍卖77只奢侈品包估价超1600万",
+        "onboard_time": 1674991711,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 792960,
+        "num": 792960,
+        "word": "2个月没摘隐形眼镜镜片长在眼球上",
+        "onboard_time": 1674989553,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766776,
+        "num": 766776,
+        "word": "妈妈嫌狗脏影响女儿生娃偷偷送走",
+        "onboard_time": 1674989492,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684867,
+        "num": 684867,
+        "word": "为什么年轻人开始接受相亲了",
+        "onboard_time": 1674990633,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 578675,
+        "num": 578675,
+        "word": "张颂文称中国99.5%的演员收入极低",
+        "onboard_time": 1674975272,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1059634,
+        "num": 573752,
+        "word": "女生期待薪资7千到1万被HR怒怼",
+        "onboard_time": 1674993811,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705422,
+        "num": 572434,
+        "word": "胡鑫宇家属正申请异地公安侦查",
+        "onboard_time": 1674991470,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700257,
+        "num": 565847,
+        "word": "胡鑫宇母亲发文",
+        "onboard_time": 1674970293,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542866,
+        "num": 542866,
+        "word": "建议实现一户一笨",
+        "onboard_time": 1674987271,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 541485,
+        "num": 541485,
+        "word": "李一桐和符龙飞曾在相亲节目牵手成功",
+        "onboard_time": 1674978691,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511068,
+        "num": 511068,
+        "word": "狂飙下线21个人了",
+        "onboard_time": 1674986370,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490382,
+        "num": 490382,
+        "word": "德约科维奇夺大满贯第22冠",
+        "onboard_time": 1674992854,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414047,
+        "num": 414047,
+        "word": "张译年轻时颜值",
+        "onboard_time": 1674986190,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404607,
+        "num": 404607,
+        "word": "女生要多漂亮才算漂亮",
+        "onboard_time": 1674970656,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 397492,
+        "num": 397492,
+        "word": "刘耀文踩了宋亚轩一脚",
+        "onboard_time": 1674990874,
+        "rank": 19,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 396474,
+        "num": 396474,
+        "word": "郑秀晶杂志拍摄花絮",
+        "onboard_time": 1674993692,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378303,
+        "num": 378303,
+        "word": "胡鑫宇遗体被发现",
+        "onboard_time": 1674961170,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372028,
+        "num": 372028,
+        "word": "图丫丫的房间壁纸是条形码",
+        "onboard_time": 1674992612,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331127,
+        "num": 331127,
+        "word": "吴磊赵今麦芬兰开机路透",
+        "onboard_time": 1674988352,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320952,
+        "num": 320952,
+        "word": "德约科维奇澳网十冠王",
+        "onboard_time": 1674994048,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284742,
+        "num": 284742,
+        "word": "张颂文说希望大家不要写他很惨",
+        "onboard_time": 1674992975,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265053,
+        "num": 265053,
+        "word": "实地探访胡鑫宇被发现地",
+        "onboard_time": 1674984091,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269469,
+        "num": 264629,
+        "word": "狂飙导演说张颂文让他非常惊喜",
+        "onboard_time": 1674987089,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255444,
+        "num": 255444,
+        "word": "树林中一缢吊尸体经检验系胡鑫宇",
+        "onboard_time": 1674962562,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247958,
+        "num": 247958,
+        "word": "万达电影制作满江红海报出现错别字",
+        "onboard_time": 1674984987,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337133,
+        "num": 245305,
+        "word": "狂飙演员演出前才知道自己真实身份",
+        "onboard_time": 1674994652,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266598,
+        "num": 240293,
+        "word": "殡仪馆称胡鑫宇已不是原来样貌",
+        "onboard_time": 1674995071,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235255,
+        "num": 235255,
+        "word": "流浪地球2超90%场景在青岛拍摄",
+        "onboard_time": 1674992314,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227468,
+        "num": 227468,
+        "word": "胡鑫宇衣物口袋内找到10元现金",
+        "onboard_time": 1674993154,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216845,
+        "num": 216845,
+        "word": "遇到优秀的男生你会主动吗",
+        "onboard_time": 1674991711,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210321,
+        "num": 210321,
+        "word": "年后第一天上班民政局人山人海",
+        "onboard_time": 1674980012,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201556,
+        "num": 201556,
+        "word": "王力宏说人生中总是有摔倒的时候",
+        "onboard_time": 1674975692,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200866,
+        "num": 200866,
+        "word": "恢复签发日本公民来华口岸签证",
+        "onboard_time": 1674993330,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196064,
+        "num": 196064,
+        "word": "县长回应胡鑫宇被找到",
+        "onboard_time": 1674974553,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185229,
+        "num": 185229,
+        "word": "德约科维奇 决赛",
+        "onboard_time": 1674985650,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180685,
+        "num": 180685,
+        "word": "狂飙",
+        "onboard_time": 1674955109,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179333,
+        "num": 179333,
+        "word": "如何看待胡鑫宇案",
+        "onboard_time": 1674992251,
+        "rank": 41,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 169764,
+        "num": 169764,
+        "word": "詹姆斯 裁判",
+        "onboard_time": 1674989976,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167793,
+        "num": 167793,
+        "word": "吴昕40岁生日照",
+        "onboard_time": 1674973230,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161963,
+        "num": 161963,
+        "word": "中国奇谭",
+        "onboard_time": 1674985290,
+        "rank": 44,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 150543,
+        "num": 150543,
+        "word": "丫丫衣服上的图案",
+        "onboard_time": 1674974191,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150494,
+        "num": 150494,
+        "word": "安欣出手了",
+        "onboard_time": 1674995430,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146328,
+        "num": 146328,
+        "word": "塞满行李箱的反向暴击",
+        "onboard_time": 1674994591,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137561,
+        "num": 137561,
+        "word": "王一博王传君一口吃完拿破仑",
+        "onboard_time": 1674972032,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136897,
+        "num": 136897,
+        "word": "范世錡参加哥哥前生病瘦了16斤",
+        "onboard_time": 1674988951,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进高质量共建一带一路#"
+    }
+  }
+}

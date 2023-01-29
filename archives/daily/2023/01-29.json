@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674991999818,
+  "endTime": 1674995550312,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -81,6 +81,14 @@
       "onboard_time": 1674952706,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1842595,
+      "num": 988705,
+      "word": "村民回忆发现胡鑫宇遗体状况",
+      "onboard_time": 1674991174,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1792218,
@@ -227,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1299368,
+      "num": 1299368,
+      "word": "安欣准备卧底当大嫂",
+      "onboard_time": 1674992672,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1213710,
       "num": 1213710,
       "word": "专家回应教材删除岳飞满江红",
@@ -265,6 +281,14 @@
       "onboard_time": 1674970175,
       "rank": 43,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 1059634,
+      "num": 573752,
+      "word": "女生期待薪资7千到1万被HR怒怼",
+      "onboard_time": 1674993811,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1036106,
@@ -347,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 867030,
+      "num": 867030,
+      "word": "刘銮雄拍卖77只奢侈品包估价超1600万",
+      "onboard_time": 1674991711,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 830381,
       "num": 830381,
       "word": "长辈认为晚辈不结婚的原因",
@@ -393,6 +425,14 @@
       "onboard_time": 1674986190,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 792960,
+      "num": 792960,
+      "word": "2个月没摘隐形眼镜镜片长在眼球上",
+      "onboard_time": 1674989553,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 788584,
@@ -451,11 +491,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 699793,
-      "num": 699793,
-      "word": "2个月没摘隐形眼镜镜片长在眼球上",
-      "onboard_time": 1674989553,
-      "rank": 17,
+      "raw_hot": 705422,
+      "num": 572434,
+      "word": "胡鑫宇家属正申请异地公安侦查",
+      "onboard_time": 1674991470,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -699,6 +739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 490382,
+      "num": 490382,
+      "word": "德约科维奇夺大满贯第22冠",
+      "onboard_time": 1674992854,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 487631,
       "num": 487631,
       "word": "郭帆 化缘大师",
@@ -729,14 +777,6 @@
       "onboard_time": 1674961960,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 458767,
-      "num": 244908,
-      "word": "村民回忆发现胡鑫宇遗体状况",
-      "onboard_time": 1674991174,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 458231,
@@ -777,14 +817,6 @@
       "onboard_time": 1674974674,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 445085,
-      "num": 445085,
-      "word": "胡鑫宇家属正申请异地公安侦查",
-      "onboard_time": 1674991470,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 440912,
@@ -875,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 396474,
+      "num": 396474,
+      "word": "郑秀晶杂志拍摄花絮",
+      "onboard_time": 1674993692,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 389371,
       "num": 389371,
       "word": "SuperJunior的小卡",
@@ -897,6 +937,14 @@
       "onboard_time": 1674923125,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372028,
+      "num": 372028,
+      "word": "图丫丫的房间壁纸是条形码",
+      "onboard_time": 1674992612,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 371323,
@@ -995,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337133,
+      "num": 245305,
+      "word": "狂飙演员演出前才知道自己真实身份",
+      "onboard_time": 1674994652,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334063,
       "num": 217438,
       "word": "央六报道无名逆跌",
@@ -1025,6 +1081,14 @@
       "onboard_time": 1674961536,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320952,
+      "num": 320952,
+      "word": "德约科维奇澳网十冠王",
+      "onboard_time": 1674994048,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 318068,
@@ -1147,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 284742,
+      "num": 284742,
+      "word": "张颂文说希望大家不要写他很惨",
+      "onboard_time": 1674992975,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 282752,
       "num": 282752,
       "word": "妈妈给儿子包饺子并画出馅料区分",
@@ -1225,6 +1297,14 @@
       "onboard_time": 1674962921,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 266598,
+      "num": 240293,
+      "word": "殡仪馆称胡鑫宇已不是原来样貌",
+      "onboard_time": 1674995071,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266389,
@@ -1323,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235255,
+      "num": 235255,
+      "word": "流浪地球2超90%场景在青岛拍摄",
+      "onboard_time": 1674992314,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232614,
       "num": 232614,
       "word": "14岁女孩寒假自律生活令人赞叹",
@@ -1363,6 +1451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227468,
+      "num": 227468,
+      "word": "胡鑫宇衣物口袋内找到10元现金",
+      "onboard_time": 1674993154,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219960,
       "num": 219960,
       "word": "苏翊鸣XGames夺铜",
@@ -1377,6 +1473,14 @@
       "onboard_time": 1674966046,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216845,
+      "num": 216845,
+      "word": "遇到优秀的男生你会主动吗",
+      "onboard_time": 1674991711,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 215970,
@@ -1432,6 +1536,14 @@
       "word": "胡鑫宇失踪案最新消息",
       "onboard_time": 1674979172,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200866,
+      "num": 200866,
+      "word": "恢复签发日本公民来华口岸签证",
+      "onboard_time": 1674993330,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1555,6 +1667,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 179333,
+      "num": 179333,
+      "word": "如何看待胡鑫宇案",
+      "onboard_time": 1674992251,
+      "rank": 41,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 178060,
       "num": 168439,
       "word": "想去弄乱张译的手机桌面",
@@ -1659,28 +1779,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 162020,
-      "num": 162020,
-      "word": "遇到优秀的男生你会主动吗",
-      "onboard_time": 1674991711,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 156899,
       "num": 156899,
       "word": "兵马俑景区旁一碗面38元仅3根面条",
       "onboard_time": 1674908427,
       "rank": 34,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 156226,
-      "num": 156226,
-      "word": "刘銮雄拍卖77只奢侈品包估价超1600万",
-      "onboard_time": 1674991711,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 156098,
@@ -1731,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150494,
+      "num": 150494,
+      "word": "安欣出手了",
+      "onboard_time": 1674995430,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148914,
       "num": 148914,
       "word": "女子拆8件旧羽绒服改成羽绒被",
@@ -1753,6 +1865,14 @@
       "onboard_time": 1674960688,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 146328,
+      "num": 146328,
+      "word": "塞满行李箱的反向暴击",
+      "onboard_time": 1674994591,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 143975,
