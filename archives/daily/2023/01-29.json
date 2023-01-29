@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1675002810820,
+  "endTime": 1675005446548,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -41,6 +41,14 @@
       "onboard_time": 1674948138,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3230560,
+      "num": 3230560,
+      "word": "都美竹开始拍戏了",
+      "onboard_time": 1675003713,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 3102897,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1740556,
+      "num": 666195,
+      "word": "胡鑫宇所在学校宿舍墙外就是金鸡山脚下",
+      "onboard_time": 1675000052,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1686741,
       "num": 1686741,
       "word": "满江红官博更换微博背景字体",
@@ -153,14 +169,6 @@
       "onboard_time": 1674970656,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1668968,
-      "num": 666195,
-      "word": "胡鑫宇所在学校宿舍墙外就是金鸡山脚下",
-      "onboard_time": 1675000052,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1658132,
@@ -579,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695087,
+      "num": 531565,
+      "word": "胡鑫宇亲属对发现地表示不可思议",
+      "onboard_time": 1675000352,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694918,
       "num": 694918,
       "word": "万达电影制作满江红海报出现错别字",
@@ -617,14 +633,6 @@
       "onboard_time": 1674968440,
       "rank": 25,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 663164,
-      "num": 531565,
-      "word": "胡鑫宇亲属对发现地表示不可思议",
-      "onboard_time": 1675000352,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 652685,
@@ -697,6 +705,14 @@
       "onboard_time": 1674920728,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 613017,
+      "num": 430842,
+      "word": "长相思",
+      "onboard_time": 1675002456,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 603052,
@@ -851,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 489662,
+      "num": 430354,
+      "word": "吴京问你老大是不是MOSS",
+      "onboard_time": 1675002156,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487631,
       "num": 487631,
       "word": "郭帆 化缘大师",
@@ -963,6 +987,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 430048,
+      "num": 430048,
+      "word": "杨紫长相思兔年专属花絮",
+      "onboard_time": 1675004974,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 425745,
+      "num": 425745,
+      "word": "福建的流水席",
+      "onboard_time": 1675002510,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 422428,
       "num": 422428,
       "word": "主人不起床饿的就是小猫了",
@@ -984,14 +1024,6 @@
       "word": "赵露思王安宇神隐单人海报",
       "onboard_time": 1674966286,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 406265,
-      "num": 406265,
-      "word": "长相思",
-      "onboard_time": 1675002456,
-      "rank": 20,
       "category": "影视"
     },
     {
@@ -1035,6 +1067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 391569,
+      "num": 391569,
+      "word": "没想到还有舔狗玩具",
+      "onboard_time": 1675001014,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 391568,
       "num": 391568,
       "word": "王一博无名漫画版叶先生",
@@ -1049,14 +1089,6 @@
       "onboard_time": 1674958827,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 384153,
-      "num": 384153,
-      "word": "没想到还有舔狗玩具",
-      "onboard_time": 1675001014,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 379469,
@@ -1131,6 +1163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 359527,
+      "num": 359527,
+      "word": "刘海宽包场电影无名",
+      "onboard_time": 1675004076,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 351275,
       "num": 351275,
       "word": "网友荆州偶遇李现",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1674902247,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348509,
+      "num": 348509,
+      "word": "李硕珉吃煎饺",
+      "onboard_time": 1675003473,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 348152,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1674974252,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336188,
+      "num": 336188,
+      "word": "连褶子都一模一样",
+      "onboard_time": 1675004076,
+      "rank": 26,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 334063,
@@ -1651,6 +1707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229247,
+      "num": 229247,
+      "word": "29岁的张译28岁的沈腾",
+      "onboard_time": 1675004676,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226390,
       "num": 226390,
       "word": "杨健爱孟钰吗",
@@ -1737,6 +1801,14 @@
       "onboard_time": 1674958047,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203521,
+      "num": 193366,
+      "word": "如何判断胡鑫宇是自杀还是他杀",
+      "onboard_time": 1675004855,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201577,
@@ -1841,14 +1913,6 @@
       "onboard_time": 1674927017,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 183595,
-      "num": 183595,
-      "word": "吴京问你老大是不是MOSS",
-      "onboard_time": 1675002156,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 181979,
@@ -2027,14 +2091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157094,
-      "num": 157094,
-      "word": "福建的流水席",
-      "onboard_time": 1675002510,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 156899,
       "num": 156899,
       "word": "兵马俑景区旁一碗面38元仅3根面条",
@@ -2193,6 +2249,14 @@
       "onboard_time": 1674920966,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 137842,
+      "num": 137842,
+      "word": "价值600的尾波冲浪初级教学",
+      "onboard_time": 1675005395,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 132661,
