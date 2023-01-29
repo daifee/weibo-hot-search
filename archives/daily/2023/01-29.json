@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674963244357,
+  "endTime": 1674966105483,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -11,11 +11,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7222279,
-      "num": 8472279,
+      "raw_hot": 11146412,
+      "num": 11559192,
       "word": "树林中一缢吊尸体经检验系胡鑫宇",
       "onboard_time": 1674962562,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7293745,
+      "num": 7293745,
+      "word": "胡鑫宇遗体现场发现一支录音笔",
+      "onboard_time": 1674964246,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -51,6 +59,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1779134,
+      "num": 1779134,
+      "word": "故意推倒摩托车的老人已去世",
+      "onboard_time": 1674953787,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1679916,
       "num": 1679916,
       "word": "满江红",
@@ -75,11 +91,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1593707,
-      "num": 1593707,
-      "word": "故意推倒摩托车的老人已去世",
-      "onboard_time": 1674953787,
-      "rank": 6,
+      "raw_hot": 1528411,
+      "num": 1202338,
+      "word": "胡鑫宇被发现时处于缢吊状态",
+      "onboard_time": 1674965204,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -104,6 +120,14 @@
       "word": "瘦金体",
       "onboard_time": 1674958827,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1354029,
+      "num": 1354029,
+      "word": "西虹市首富里的徐冬冬",
+      "onboard_time": 1674963587,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -179,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 707307,
+      "num": 707307,
+      "word": "61岁小伙子刘德华",
+      "onboard_time": 1674952766,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 686324,
       "num": 686324,
       "word": "张彪是狂飙第二个内鬼",
@@ -187,11 +219,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 675300,
-      "num": 675300,
-      "word": "61岁小伙子刘德华",
-      "onboard_time": 1674952766,
-      "rank": 12,
+      "raw_hot": 662599,
+      "num": 648995,
+      "word": "万达影城回应流浪地球线下票价300元",
+      "onboard_time": 1674963587,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -251,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 577823,
+      "num": 577823,
+      "word": "胡鑫宇家属委托律师将申请查阅案件材料",
+      "onboard_time": 1674963285,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571020,
       "num": 571020,
       "word": "肖战蝉联泰国wetv最佳演员",
@@ -275,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 538208,
+      "num": 438379,
+      "word": "李健的裤子好短",
+      "onboard_time": 1674965627,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 508442,
       "num": 508442,
       "word": "熊出没闷声发大财",
@@ -289,6 +337,14 @@
       "onboard_time": 1674961355,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 505960,
+      "num": 505960,
+      "word": "湖人",
+      "onboard_time": 1674965264,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 498716,
@@ -395,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396805,
+      "num": 396805,
+      "word": "陈乔恩说湖南睡衣你值得拥有",
+      "onboard_time": 1674963163,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389371,
       "num": 389371,
       "word": "SuperJunior的小卡",
@@ -417,6 +481,22 @@
       "onboard_time": 1674959848,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359880,
+      "num": 359880,
+      "word": "于正说张颂文的表演是男演员天花板",
+      "onboard_time": 1674964966,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 357294,
+      "num": 357294,
+      "word": "流浪地球2破亿海报是小朋友的画",
+      "onboard_time": 1674964905,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 348736,
@@ -451,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325364,
+      "num": 325364,
+      "word": "90后爸妈培养2岁儿子学做饭",
+      "onboard_time": 1674961536,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318068,
       "num": 318068,
       "word": "申鹏",
@@ -475,12 +563,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302376,
+      "num": 302376,
+      "word": "46岁退伍父亲扮小熊卖气球救女",
+      "onboard_time": 1674962682,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293858,
+      "num": 293858,
+      "word": "女子饭桌上试图劝亲友理性催婚",
+      "onboard_time": 1674962260,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293034,
+      "num": 293034,
+      "word": "伊朗",
+      "onboard_time": 1674963041,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290079,
       "num": 290079,
       "word": "过年结束后才明白的道理",
       "onboard_time": 1674952227,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 289330,
+      "num": 289330,
+      "word": "胡鑫宇失踪案时间线",
+      "onboard_time": 1674965867,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288390,
@@ -531,12 +651,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 269041,
-      "num": 269041,
-      "word": "90后爸妈培养2岁儿子学做饭",
-      "onboard_time": 1674961536,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 269934,
+      "num": 269934,
+      "word": "陈飞宇珍珠毛衣造型",
+      "onboard_time": 1674962921,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 257107,
@@ -553,6 +673,14 @@
       "onboard_time": 1674960688,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234420,
+      "num": 234420,
+      "word": "中学统编教材从未选编过满江红",
+      "onboard_time": 1674961355,
+      "rank": 47,
+      "category": "教育,影视"
     },
     {
       "raw_hot": 232614,
@@ -587,20 +715,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 217251,
-      "num": 196280,
-      "word": "陈飞宇珍珠毛衣造型",
-      "onboard_time": 1674962921,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 215328,
       "num": 215328,
       "word": "初八",
       "onboard_time": 1674950724,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215203,
+      "num": 215203,
+      "word": "于正也在看狂飙",
+      "onboard_time": 1674965569,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 208670,
@@ -625,22 +753,6 @@
       "onboard_time": 1674921028,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 197412,
-      "num": 197412,
-      "word": "女子饭桌上试图劝亲友理性催婚",
-      "onboard_time": 1674962260,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195967,
-      "num": 195967,
-      "word": "46岁退伍父亲扮小熊卖气球救女",
-      "onboard_time": 1674962682,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193032,
@@ -699,28 +811,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173470,
-      "num": 173470,
-      "word": "伊朗",
-      "onboard_time": 1674963041,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169711,
       "num": 169711,
       "word": "这孩子小名是不是叫年兽",
       "onboard_time": 1674919649,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169250,
-      "num": 169250,
-      "word": "陈乔恩说湖南睡衣你值得拥有",
-      "onboard_time": 1674963163,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 168086,
@@ -1057,6 +1153,14 @@
       "onboard_time": 1674898646,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9333,
+      "num": 3511483,
+      "word": "带着满格电量拼出收获满满的一年",
+      "onboard_time": 1674966046,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
