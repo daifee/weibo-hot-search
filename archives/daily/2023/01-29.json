@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674967003012,
+  "endTime": 1674969375128,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1418893,
+      "num": 1418893,
+      "word": "李健的裤子好短",
+      "onboard_time": 1674965627,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1401197,
       "num": 1401197,
       "word": "瘦金体",
@@ -155,12 +163,12 @@
       "category": "教育,影视"
     },
     {
-      "raw_hot": 1207916,
-      "num": 888099,
-      "word": "李健的裤子好短",
-      "onboard_time": 1674965627,
-      "rank": 30,
-      "category": "作品衍生"
+      "raw_hot": 1037073,
+      "num": 1037073,
+      "word": "肖战片场看任敏的眼神",
+      "onboard_time": 1674967184,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 1036106,
@@ -169,6 +177,14 @@
       "onboard_time": 1674912813,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1014907,
+      "num": 1014907,
+      "word": "苏翊鸣",
+      "onboard_time": 1674966167,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 971082,
@@ -291,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588533,
+      "num": 588533,
+      "word": "流浪地球2破亿海报是小朋友的画",
+      "onboard_time": 1674964905,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 587764,
       "num": 587764,
       "word": "春节返程高铁清一色狂飙",
@@ -315,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 564423,
-      "num": 564423,
-      "word": "苏翊鸣",
-      "onboard_time": 1674966167,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 570954,
+      "num": 570954,
+      "word": "王嘉尔印度人气",
+      "onboard_time": 1674966766,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 562412,
@@ -337,14 +361,6 @@
       "onboard_time": 1674957927,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 554586,
-      "num": 554586,
-      "word": "王嘉尔印度人气",
-      "onboard_time": 1674966766,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 553501,
@@ -395,20 +411,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 483416,
-      "num": 483416,
-      "word": "流浪地球2破亿海报是小朋友的画",
-      "onboard_time": 1674964905,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 482452,
       "num": 482452,
       "word": "BLACKPINK今日舞台",
       "onboard_time": 1674961840,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 481878,
+      "num": 481878,
+      "word": "高启强拉拢关系失败",
+      "onboard_time": 1674967962,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 460594,
@@ -425,6 +441,14 @@
       "onboard_time": 1674958947,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 457912,
+      "num": 457912,
+      "word": "詹姆斯给裁判跪了",
+      "onboard_time": 1674968440,
+      "rank": 25,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 457189,
@@ -491,12 +515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399302,
-      "num": 399302,
+      "raw_hot": 401388,
+      "num": 401388,
       "word": "于正说张颂文的表演是男演员天花板",
       "onboard_time": 1674964966,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 398814,
+      "num": 398814,
+      "word": "主人不起床饿的就是小猫了",
+      "onboard_time": 1674967184,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 396805,
@@ -523,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376577,
+      "num": 376577,
+      "word": "黄梦莹签约新公司",
+      "onboard_time": 1674969219,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362417,
       "num": 362417,
       "word": "刘耀文说自己是假期风景博主",
@@ -531,12 +571,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359466,
+      "num": 359466,
+      "word": "辉瑞中国资本版图盘点",
+      "onboard_time": 1674966585,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 348736,
       "num": 348736,
       "word": "国道警示下坡已死亡37人引质疑",
       "onboard_time": 1674902247,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347881,
+      "num": 347881,
+      "word": "种地吧官宣定档",
+      "onboard_time": 1674967006,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 339910,
@@ -561,6 +617,14 @@
       "onboard_time": 1674940512,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331563,
+      "num": 331563,
+      "word": "中学统编教材从未选编过满江红",
+      "onboard_time": 1674961355,
+      "rank": 47,
+      "category": "教育,影视"
     },
     {
       "raw_hot": 325364,
@@ -611,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301383,
-      "num": 301383,
-      "word": "中学统编教材从未选编过满江红",
-      "onboard_time": 1674961355,
-      "rank": 47,
-      "category": "教育,影视"
-    },
-    {
       "raw_hot": 293034,
       "num": 293034,
       "word": "伊朗",
@@ -659,6 +715,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 278080,
+      "num": 278080,
+      "word": "詹姆斯被犯规",
+      "onboard_time": 1674968862,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277089,
       "num": 277089,
       "word": "tangoz拒绝私联",
@@ -691,20 +755,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 258951,
-      "num": 258951,
-      "word": "辉瑞中国资本版图盘点",
-      "onboard_time": 1674966585,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 257107,
       "num": 257107,
       "word": "沈月自曝多次大难不死",
       "onboard_time": 1674922586,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249804,
+      "num": 249804,
+      "word": "NBA",
+      "onboard_time": 1674969160,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 246359,
@@ -721,6 +785,14 @@
       "onboard_time": 1674966706,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233285,
+      "num": 233285,
+      "word": "警方曾搜胡鑫宇学校南侧树林山岗589亩",
+      "onboard_time": 1674969219,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232614,
@@ -753,6 +825,14 @@
       "onboard_time": 1674905908,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 217063,
+      "num": 4965395,
+      "word": "带着满格电量拼出收获满满的一年",
+      "onboard_time": 1674966046,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215328,
@@ -1041,14 +1121,6 @@
       "onboard_time": 1674913167,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120059,
-      "num": 4797025,
-      "word": "带着满格电量拼出收获满满的一年",
-      "onboard_time": 1674966046,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118556,
