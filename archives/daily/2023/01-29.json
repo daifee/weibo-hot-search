@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674983793049,
+  "endTime": 1674984813725,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 868007,
+      "num": 868007,
+      "word": "年后第一天上班民政局人山人海",
+      "onboard_time": 1674980012,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 830381,
       "num": 830381,
       "word": "长辈认为晚辈不结婚的原因",
@@ -328,14 +336,6 @@
       "word": "游客拍到摊贩偷换车厘子全过程",
       "onboard_time": 1674956966,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 792786,
-      "num": 792786,
-      "word": "年后第一天上班民政局人山人海",
-      "onboard_time": 1674980012,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -635,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 451039,
+      "num": 451039,
+      "word": "一批新冠感染治疗药获批上市",
+      "onboard_time": 1674981809,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446054,
       "num": 446054,
       "word": "导演点赞王鹤棣田曦薇主演大奉打更人",
@@ -691,14 +699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 418070,
-      "num": 418070,
-      "word": "一批新冠感染治疗药获批上市",
-      "onboard_time": 1674981809,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 405349,
       "num": 223754,
       "word": "李一桐说赵樱子本人和听说的完全不一样",
@@ -729,6 +729,14 @@
       "onboard_time": 1674963163,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389634,
+      "num": 245744,
+      "word": "实地探访胡鑫宇被发现地",
+      "onboard_time": 1674984091,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389371,
@@ -915,11 +923,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303208,
+      "num": 303208,
+      "word": "陈哲远横店探班张颂文",
+      "onboard_time": 1674984030,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 302821,
+      "num": 302821,
+      "word": "于和伟发文祝贺自己获得一级演员",
+      "onboard_time": 1674981386,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302376,
       "num": 302376,
       "word": "46岁退伍父亲扮小熊卖气球救女",
       "onboard_time": 1674962682,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298948,
+      "num": 298948,
+      "word": "福建女生离乡返程妈妈含泪道别",
+      "onboard_time": 1674982950,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1035,12 +1067,12 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 257609,
-      "num": 257609,
-      "word": "于和伟发文祝贺自己获得一级演员",
-      "onboard_time": 1674981386,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 265722,
+      "num": 265722,
+      "word": "感觉被鱼瞪了一眼",
+      "onboard_time": 1674982950,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 257107,
@@ -1059,8 +1091,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 250623,
-      "num": 250623,
+      "raw_hot": 251673,
+      "num": 251673,
       "word": "Danielle人歌ending",
       "onboard_time": 1674982771,
       "rank": 28,
@@ -1123,6 +1155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230313,
+      "num": 230313,
+      "word": "他们把红色官服穿出了少年的意气风发",
+      "onboard_time": 1674983548,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229432,
       "num": 229432,
       "word": "失去分寸感的情侣是怎样的",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1674966046,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215970,
+      "num": 215970,
+      "word": "张译的柔韧度",
+      "onboard_time": 1674982890,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 215328,
@@ -1235,14 +1283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185103,
-      "num": 185103,
-      "word": "张译的柔韧度",
-      "onboard_time": 1674982890,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 184225,
       "num": 133633,
       "word": "gidle翻跳Abracadabra",
@@ -1299,27 +1339,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177779,
-      "num": 177779,
-      "word": "感觉被鱼瞪了一眼",
-      "onboard_time": 1674982950,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 175108,
-      "num": 175108,
-      "word": "福建女生离乡返程妈妈含泪道别",
-      "onboard_time": 1674982950,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173964,
       "num": 173964,
       "word": "这种奶茶杯实为三无电子烟",
       "onboard_time": 1674912931,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170142,
+      "num": 170142,
+      "word": "春节拍了能做壁纸的照片",
+      "onboard_time": 1674984631,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1345,14 +1377,6 @@
       "onboard_time": 1674958708,
       "rank": 39,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 168034,
-      "num": 168034,
-      "word": "他们把红色官服穿出了少年的意气风发",
-      "onboard_time": 1674983548,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 166465,

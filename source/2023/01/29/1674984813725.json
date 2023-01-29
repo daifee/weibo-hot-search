@@ -1,0 +1,410 @@
+{
+  "runTime": 1674984813725,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2256810,
+        "num": 2256810,
+        "word": "张颂文称中国99.5%的演员收入极低",
+        "onboard_time": 1674975272,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1936967,
+        "num": 1936967,
+        "word": "胡鑫宇母亲发文",
+        "onboard_time": 1674970293,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216199,
+        "num": 1571589,
+        "word": "爸妈硬塞行李的操作防不胜防",
+        "onboard_time": 1674977071,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1356905,
+        "num": 1356905,
+        "word": "李一桐和符龙飞曾在相亲节目牵手成功",
+        "onboard_time": 1674978691,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1222426,
+        "num": 1222426,
+        "word": "县长回应胡鑫宇被找到",
+        "onboard_time": 1674974553,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1206171,
+        "num": 1206171,
+        "word": "胡鑫宇遗体被发现",
+        "onboard_time": 1674961170,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 980066,
+        "num": 980066,
+        "word": "女生要多漂亮才算漂亮",
+        "onboard_time": 1674970656,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 868007,
+        "num": 868007,
+        "word": "年后第一天上班民政局人山人海",
+        "onboard_time": 1674980012,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796591,
+        "num": 796591,
+        "word": "树林中一缢吊尸体经检验系胡鑫宇",
+        "onboard_time": 1674962562,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791140,
+        "num": 791140,
+        "word": "女生练车把男友家撞出大洞",
+        "onboard_time": 1674978572,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600532,
+        "num": 600532,
+        "word": "张颂文本人还没有看狂飙",
+        "onboard_time": 1674978271,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 580003,
+        "num": 580003,
+        "word": "杨笠直播回应推荐满江红",
+        "onboard_time": 1674980191,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553162,
+        "num": 553162,
+        "word": "胡鑫宇遗体现场发现一支录音笔",
+        "onboard_time": 1674964246,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543886,
+        "num": 543886,
+        "word": "吴昕40岁生日照",
+        "onboard_time": 1674973230,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 463583,
+        "num": 463583,
+        "word": "丫丫衣服上的图案",
+        "onboard_time": 1674974191,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462212,
+        "num": 462212,
+        "word": "田曦薇新上错花轿嫁对郎舞剑路透",
+        "onboard_time": 1674980732,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 461858,
+        "num": 461858,
+        "word": "韩国宣布出土20枚中国宋代钱币",
+        "onboard_time": 1674971133,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451039,
+        "num": 451039,
+        "word": "一批新冠感染治疗药获批上市",
+        "onboard_time": 1674981809,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436595,
+        "num": 436595,
+        "word": "胡鑫宇家属决定尸检",
+        "onboard_time": 1674977012,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399931,
+        "num": 399931,
+        "word": "王一博王传君一口吃完拿破仑",
+        "onboard_time": 1674972032,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362693,
+        "num": 362693,
+        "word": "王力宏说人生中总是有摔倒的时候",
+        "onboard_time": 1674975692,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303208,
+        "num": 303208,
+        "word": "陈哲远横店探班张颂文",
+        "onboard_time": 1674984030,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302821,
+        "num": 302821,
+        "word": "于和伟发文祝贺自己获得一级演员",
+        "onboard_time": 1674981386,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298948,
+        "num": 298948,
+        "word": "福建女生离乡返程妈妈含泪道别",
+        "onboard_time": 1674982950,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291804,
+        "num": 291804,
+        "word": "春运多名女子为哺乳妈妈围人墙",
+        "onboard_time": 1674970175,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 265722,
+        "num": 265722,
+        "word": "感觉被鱼瞪了一眼",
+        "onboard_time": 1674982950,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264528,
+        "num": 264528,
+        "word": "沈腾易烊千玺对戏没站稳",
+        "onboard_time": 1674977793,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264445,
+        "num": 264445,
+        "word": "李现谢之遥获联合国教科文组织点赞",
+        "onboard_time": 1674980493,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251673,
+        "num": 251673,
+        "word": "Danielle人歌ending",
+        "onboard_time": 1674982771,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248776,
+        "num": 248776,
+        "word": "网友成都偶遇张杰",
+        "onboard_time": 1674973354,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389634,
+        "num": 245744,
+        "word": "实地探访胡鑫宇被发现地",
+        "onboard_time": 1674984091,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230313,
+        "num": 230313,
+        "word": "他们把红色官服穿出了少年的意气风发",
+        "onboard_time": 1674983548,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216802,
+        "num": 216802,
+        "word": "肖战片场看任敏的眼神",
+        "onboard_time": 1674967184,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215970,
+        "num": 215970,
+        "word": "张译的柔韧度",
+        "onboard_time": 1674982890,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205100,
+        "num": 205100,
+        "word": "流浪地球2破亿海报是小朋友的画",
+        "onboard_time": 1674964905,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210046,
+        "num": 204894,
+        "word": "李健的裤子好短",
+        "onboard_time": 1674965627,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204502,
+        "num": 204502,
+        "word": "刘慈欣说流浪地球团队是永动机",
+        "onboard_time": 1674977313,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207729,
+        "num": 202963,
+        "word": "狂飙",
+        "onboard_time": 1674955109,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199989,
+        "num": 199989,
+        "word": "BLACKPINK与法国总统合照",
+        "onboard_time": 1674973832,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199472,
+        "num": 199472,
+        "word": "警方曾搜胡鑫宇学校南侧树林山岗589亩",
+        "onboard_time": 1674969219,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199322,
+        "num": 199322,
+        "word": "胡鑫宇失踪案最新消息",
+        "onboard_time": 1674979172,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196249,
+        "num": 196249,
+        "word": "崔秀彬哭了",
+        "onboard_time": 1674978812,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194719,
+        "num": 194719,
+        "word": "春节过后的00后有多想搞钱",
+        "onboard_time": 1674978034,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194261,
+        "num": 194261,
+        "word": "4位大V回应被满江红片方起诉",
+        "onboard_time": 1674952706,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170142,
+        "num": 170142,
+        "word": "春节拍了能做壁纸的照片",
+        "onboard_time": 1674984631,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176413,
+        "num": 168662,
+        "word": "满江红实时票房破30亿",
+        "onboard_time": 1674975454,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165357,
+        "num": 165357,
+        "word": "胡鑫宇被发现时处于缢吊状态",
+        "onboard_time": 1674965204,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161996,
+        "num": 161996,
+        "word": "詹姆斯给裁判跪了",
+        "onboard_time": 1674968440,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 161781,
+        "num": 161781,
+        "word": "HLE对战GEN",
+        "onboard_time": 1674981030,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155760,
+        "num": 155760,
+        "word": "这就是我不敢看中医的原因",
+        "onboard_time": 1674971855,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进高质量共建一带一路#"
+    }
+  }
+}
