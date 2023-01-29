@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1675001730249,
+  "endTime": 1675002810820,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -99,7 +99,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2897285,
+      "raw_hot": 2903154,
       "num": 1446625,
       "word": "殡仪馆称胡鑫宇已不是原来样貌",
       "onboard_time": 1674995071,
@@ -417,6 +417,14 @@
       "onboard_time": 1674970656,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1668968,
+      "num": 666195,
+      "word": "胡鑫宇所在学校宿舍墙外就是金鸡山脚下",
+      "onboard_time": 1675000052,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1658132,
@@ -881,14 +889,6 @@
       "onboard_time": 1674616284,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1259242,
-      "num": 666195,
-      "word": "胡鑫宇所在学校宿舍墙外就是金鸡山脚下",
-      "onboard_time": 1675000052,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1259208,
@@ -1403,6 +1403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1004807,
+      "num": 659956,
+      "word": "地毯式搜索为何没找到胡鑫宇",
+      "onboard_time": 1674998255,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 996485,
       "num": 996485,
       "word": "张译李一桐吻戏",
@@ -1643,14 +1651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 914794,
-      "num": 659956,
-      "word": "地毯式搜索为何没找到胡鑫宇",
-      "onboard_time": 1674998255,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 908479,
       "num": 480871,
       "word": "西南大学取消赵某研究生导师资格",
@@ -1728,6 +1728,14 @@
       "word": "何立的腰",
       "onboard_time": 1674832889,
       "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 889002,
+      "num": 714687,
+      "word": "狂飙演员演出前才知道自己真实身份",
+      "onboard_time": 1674994652,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1809,6 +1817,14 @@
       "onboard_time": 1674717387,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 860427,
+      "num": 860427,
+      "word": "女子晒老家镇上25万买的108平房子",
+      "onboard_time": 1674999634,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 853711,
@@ -2089,14 +2105,6 @@
       "onboard_time": 1674528505,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 772827,
-      "num": 772827,
-      "word": "女子晒老家镇上25万买的108平房子",
-      "onboard_time": 1674999634,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 771742,
@@ -2579,14 +2587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 700605,
-      "num": 664900,
-      "word": "狂飙演员演出前才知道自己真实身份",
-      "onboard_time": 1674994652,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 699522,
       "num": 699522,
       "word": "闫妮包场电影无名",
@@ -2809,6 +2809,14 @@
       "onboard_time": 1674659491,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 663164,
+      "num": 531565,
+      "word": "胡鑫宇亲属对发现地表示不可思议",
+      "onboard_time": 1675000352,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662845,
@@ -4379,14 +4387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 483243,
-      "num": 483243,
-      "word": "胡鑫宇亲属对发现地表示不可思议",
-      "onboard_time": 1675000352,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 482452,
       "num": 482452,
       "word": "BLACKPINK今日舞台",
@@ -4569,6 +4569,14 @@
       "onboard_time": 1674961960,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 460082,
+      "num": 460082,
+      "word": "WB发文抵制私生",
+      "onboard_time": 1675000533,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 459819,
@@ -5171,6 +5179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 406265,
+      "num": 406265,
+      "word": "长相思",
+      "onboard_time": 1675002456,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 406023,
       "num": 406023,
       "word": "这种奶茶杯实为三无电子烟",
@@ -5577,6 +5593,14 @@
       "onboard_time": 1674904706,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 384153,
+      "num": 384153,
+      "word": "没想到还有舔狗玩具",
+      "onboard_time": 1675001014,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 384066,
@@ -6753,14 +6777,6 @@
       "onboard_time": 1674665301,
       "rank": 8,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 322045,
-      "num": 322045,
-      "word": "WB发文抵制私生",
-      "onboard_time": 1675000533,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 322041,
@@ -8563,6 +8579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252169,
+      "num": 252169,
+      "word": "运气这么非的孩子不多见",
+      "onboard_time": 1675000714,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 251704,
       "num": 251704,
       "word": "沈腾和岳云鹏对戏有多难",
@@ -9435,14 +9459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221513,
-      "num": 221513,
-      "word": "没想到还有舔狗玩具",
-      "onboard_time": 1675001014,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 221371,
       "num": 221371,
       "word": "高启强还是对泰叔动手了",
@@ -9488,6 +9504,14 @@
       "word": "熊大熊二妈妈带娃太好笑了",
       "onboard_time": 1674446305,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220232,
+      "num": 220232,
+      "word": "心疼陈兰青",
+      "onboard_time": 1675001796,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -10931,6 +10955,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 183595,
+      "num": 183595,
+      "word": "吴京问你老大是不是MOSS",
+      "onboard_time": 1675002156,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183524,
       "num": 244010,
       "word": "你家宠物对放炮有什么反应",
@@ -11353,14 +11385,6 @@
       "onboard_time": 1674997893,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 172881,
-      "num": 172881,
-      "word": "运气这么非的孩子不多见",
-      "onboard_time": 1675000714,
-      "rank": 40,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 172797,
@@ -11937,6 +11961,14 @@
       "onboard_time": 1674726687,
       "rank": 40,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 157094,
+      "num": 157094,
+      "word": "福建的流水席",
+      "onboard_time": 1675002510,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 156997,
