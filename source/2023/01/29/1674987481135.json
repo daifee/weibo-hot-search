@@ -1,0 +1,410 @@
+{
+  "runTime": 1674987481135,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1884869,
+        "num": 1884869,
+        "word": "张颂文称中国99.5%的演员收入极低",
+        "onboard_time": 1674975272,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1877781,
+        "num": 1877781,
+        "word": "胡鑫宇母亲发文",
+        "onboard_time": 1674970293,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183887,
+        "num": 1640326,
+        "word": "爸妈硬塞行李的操作防不胜防",
+        "onboard_time": 1674977071,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1587596,
+        "num": 1587596,
+        "word": "满江红官博更换微博背景字体",
+        "onboard_time": 1674985049,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1141967,
+        "num": 1141967,
+        "word": "李一桐和符龙飞曾在相亲节目牵手成功",
+        "onboard_time": 1674978691,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1140783,
+        "num": 1140783,
+        "word": "县长回应胡鑫宇被找到",
+        "onboard_time": 1674974553,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1082334,
+        "num": 1082334,
+        "word": "胡鑫宇遗体被发现",
+        "onboard_time": 1674961170,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924107,
+        "num": 924107,
+        "word": "女生要多漂亮才算漂亮",
+        "onboard_time": 1674970656,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 729855,
+        "num": 729855,
+        "word": "树林中一缢吊尸体经检验系胡鑫宇",
+        "onboard_time": 1674962562,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725092,
+        "num": 725092,
+        "word": "年后第一天上班民政局人山人海",
+        "onboard_time": 1674980012,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849068,
+        "num": 710149,
+        "word": "狂飙下线21个人了",
+        "onboard_time": 1674986370,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 625648,
+        "num": 625648,
+        "word": "万达电影制作满江红海报出现错别字",
+        "onboard_time": 1674984987,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 583652,
+        "num": 583652,
+        "word": "实地探访胡鑫宇被发现地",
+        "onboard_time": 1674984091,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547641,
+        "num": 547641,
+        "word": "中国奇谭",
+        "onboard_time": 1674985290,
+        "rank": 13,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 506594,
+        "num": 506594,
+        "word": "女生练车把男友家撞出大洞",
+        "onboard_time": 1674978572,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469964,
+        "num": 469964,
+        "word": "张译年轻时颜值",
+        "onboard_time": 1674986190,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468177,
+        "num": 468177,
+        "word": "胡鑫宇遗体现场发现一支录音笔",
+        "onboard_time": 1674964246,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427374,
+        "num": 427374,
+        "word": "张颂文本人还没有看狂飙",
+        "onboard_time": 1674978271,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419586,
+        "num": 419586,
+        "word": "吴昕40岁生日照",
+        "onboard_time": 1674973230,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 418862,
+        "num": 418862,
+        "word": "丫丫衣服上的图案",
+        "onboard_time": 1674974191,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387539,
+        "num": 387539,
+        "word": "一批新冠感染治疗药获批上市",
+        "onboard_time": 1674981809,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384739,
+        "num": 384739,
+        "word": "韩国宣布出土20枚中国宋代钱币",
+        "onboard_time": 1674971133,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378495,
+        "num": 378495,
+        "word": "王力宏说人生中总是有摔倒的时候",
+        "onboard_time": 1674975692,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 367939,
+        "num": 367939,
+        "word": "狂飙导演说张颂文让他非常惊喜",
+        "onboard_time": 1674987089,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334183,
+        "num": 334183,
+        "word": "杨笠直播回应推荐满江红",
+        "onboard_time": 1674980191,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309258,
+        "num": 309258,
+        "word": "宋亚轩又去潜水了",
+        "onboard_time": 1674987330,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291172,
+        "num": 291172,
+        "word": "王一博王传君一口吃完拿破仑",
+        "onboard_time": 1674972032,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262254,
+        "num": 262254,
+        "word": "胡鑫宇家属决定尸检",
+        "onboard_time": 1674977012,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261247,
+        "num": 261247,
+        "word": "感觉被鱼瞪了一眼",
+        "onboard_time": 1674982950,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255552,
+        "num": 255552,
+        "word": "德约科维奇 决赛",
+        "onboard_time": 1674985650,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246397,
+        "num": 246397,
+        "word": "NCT127新歌MV预告视频",
+        "onboard_time": 1674987151,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241403,
+        "num": 241403,
+        "word": "于和伟发文祝贺自己获得一级演员",
+        "onboard_time": 1674981386,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227212,
+        "num": 227212,
+        "word": "他们把红色官服穿出了少年的意气风发",
+        "onboard_time": 1674983548,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222766,
+        "num": 222766,
+        "word": "田曦薇新上错花轿嫁对郎舞剑路透",
+        "onboard_time": 1674980732,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221193,
+        "num": 221193,
+        "word": "流浪地球2破亿海报是小朋友的画",
+        "onboard_time": 1674964905,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216208,
+        "num": 216208,
+        "word": "福建女生离乡返程妈妈含泪道别",
+        "onboard_time": 1674982950,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205214,
+        "num": 205214,
+        "word": "网友成都偶遇张杰",
+        "onboard_time": 1674973354,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196550,
+        "num": 196550,
+        "word": "国产首款3CL靶点抗新冠药获批上市",
+        "onboard_time": 1674987208,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196219,
+        "num": 196219,
+        "word": "李现谢之遥获联合国教科文组织点赞",
+        "onboard_time": 1674980493,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191150,
+        "num": 191150,
+        "word": "建议实现一户一笨",
+        "onboard_time": 1674987271,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185096,
+        "num": 185096,
+        "word": "沈腾易烊千玺对戏没站稳",
+        "onboard_time": 1674977793,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182281,
+        "num": 182281,
+        "word": "肖战片场看任敏的眼神",
+        "onboard_time": 1674967184,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173703,
+        "num": 173703,
+        "word": "狂飙",
+        "onboard_time": 1674955109,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172250,
+        "num": 172250,
+        "word": "如何正确看待上班摸鱼",
+        "onboard_time": 1674986670,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165749,
+        "num": 165749,
+        "word": "Danielle人歌ending",
+        "onboard_time": 1674982771,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162437,
+        "num": 162437,
+        "word": "张译的柔韧度",
+        "onboard_time": 1674982890,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147630,
+        "num": 147630,
+        "word": "GEN战胜HLE",
+        "onboard_time": 1674985709,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147408,
+        "num": 147408,
+        "word": "BLACKPINK与法国总统合照",
+        "onboard_time": 1674973832,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141871,
+        "num": 141871,
+        "word": "崔秀彬哭了",
+        "onboard_time": 1674978812,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139959,
+        "num": 139959,
+        "word": "山东非遗火狮子太震撼了",
+        "onboard_time": 1674986908,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进高质量共建一带一路#"
+    }
+  }
+}
