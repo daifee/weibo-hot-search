@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674987481135,
+  "endTime": 1674988384990,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -2699,6 +2699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1686741,
+      "num": 1686741,
+      "word": "满江红官博更换微博背景字体",
+      "onboard_time": 1674985049,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1685266,
       "num": 602628,
       "word": "文春预告KPOP爱豆恋情",
@@ -2999,14 +3007,6 @@
       "num": 1049507,
       "word": "刘亦菲齐刘海",
       "onboard_time": 1673244148,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1587596,
-      "num": 1587596,
-      "word": "满江红官博更换微博背景字体",
-      "onboard_time": 1674985049,
       "rank": 3,
       "category": "影视"
     },
@@ -4345,6 +4345,14 @@
       "onboard_time": 1673176531,
       "rank": 12,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 1328105,
+      "num": 239382,
+      "word": "胡鑫宇尸检已完成",
+      "onboard_time": 1674988052,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1322322,
@@ -7531,6 +7539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 981683,
+      "num": 981683,
+      "word": "狂飙下线21个人了",
+      "onboard_time": 1674986370,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 981584,
       "num": 981584,
       "word": "新生儿成白肺医生跪地抢救",
@@ -9491,14 +9507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 849068,
-      "num": 710149,
-      "word": "狂飙下线21个人了",
-      "onboard_time": 1674986370,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 849048,
       "num": 3789199,
       "word": "烟花",
@@ -10611,6 +10619,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 786002,
+      "num": 786002,
+      "word": "建议实现一户一笨",
+      "onboard_time": 1674987271,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 785502,
       "num": 785502,
       "word": "张若昀大侦探8银发造型",
@@ -10937,6 +10953,14 @@
       "onboard_time": 1672817250,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 770309,
+      "num": 673536,
+      "word": "实地探访胡鑫宇被发现地",
+      "onboard_time": 1674984091,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 770027,
@@ -12339,6 +12363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 714466,
+      "num": 714466,
+      "word": "张译年轻时颜值",
+      "onboard_time": 1674986190,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 714420,
       "num": 438720,
       "word": "张若昀说没想到自己的名字越来越长",
@@ -12785,6 +12817,14 @@
       "onboard_time": 1672768156,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 694918,
+      "num": 694918,
+      "word": "万达电影制作满江红海报出现错别字",
+      "onboard_time": 1674984987,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 694784,
@@ -14923,14 +14963,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 625648,
-      "num": 625648,
-      "word": "万达电影制作满江红海报出现错别字",
-      "onboard_time": 1674984987,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 625497,
       "num": 625497,
       "word": "YG新女团新成员公开",
@@ -16353,14 +16385,6 @@
       "onboard_time": 1674878844,
       "rank": 11,
       "category": "游戏,财经"
-    },
-    {
-      "raw_hot": 583652,
-      "num": 583652,
-      "word": "实地探访胡鑫宇被发现地",
-      "onboard_time": 1674984091,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 583603,
@@ -21531,14 +21555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 469964,
-      "num": 469964,
-      "word": "张译年轻时颜值",
-      "onboard_time": 1674986190,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 469831,
       "num": 273876,
       "word": "张艺兴晒李荣浩的新专辑to签",
@@ -23353,6 +23369,14 @@
       "onboard_time": 1673434533,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437664,
+      "num": 437664,
+      "word": "宋亚轩又去潜水了",
+      "onboard_time": 1674987330,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 437583,
@@ -33953,14 +33977,6 @@
       "onboard_time": 1673531252,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 309258,
-      "num": 309258,
-      "word": "宋亚轩又去潜水了",
-      "onboard_time": 1674987330,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 309053,
@@ -48699,6 +48715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198916,
+      "num": 198916,
+      "word": "钟嘉欣晒三胎女儿正面照",
+      "onboard_time": 1674987751,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198905,
       "num": 198905,
       "word": "这段红军过草地的经历让人心碎",
@@ -50081,14 +50105,6 @@
       "onboard_time": 1673519070,
       "rank": 47,
       "category": "情感,动漫"
-    },
-    {
-      "raw_hot": 191150,
-      "num": 191150,
-      "word": "建议实现一户一笨",
-      "onboard_time": 1674987271,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 191132,
@@ -59651,6 +59667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138522,
+      "num": 138522,
+      "word": "手机实体静音键有用吗",
+      "onboard_time": 1674987573,
+      "rank": 47,
+      "category": "科技,社会议题"
+    },
+    {
       "raw_hot": 138496,
       "num": 138496,
       "word": "T1战胜GEN",
@@ -61177,6 +61201,14 @@
       "onboard_time": 1673044994,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129445,
+      "num": 129445,
+      "word": "吴磊赵今麦芬兰开机路透",
+      "onboard_time": 1674988352,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129384,

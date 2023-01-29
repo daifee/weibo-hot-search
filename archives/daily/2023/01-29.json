@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674987481135,
+  "endTime": 1674988384990,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1686741,
+      "num": 1686741,
+      "word": "满江红官博更换微博背景字体",
+      "onboard_time": 1674985049,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1679916,
       "num": 1679916,
       "word": "满江红",
@@ -121,14 +129,6 @@
       "onboard_time": 1674954987,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1587596,
-      "num": 1587596,
-      "word": "满江红官博更换微博背景字体",
-      "onboard_time": 1674985049,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1555119,
@@ -201,6 +201,14 @@
       "onboard_time": 1674963587,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1328105,
+      "num": 239382,
+      "word": "胡鑫宇尸检已完成",
+      "onboard_time": 1674988052,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1326044,
@@ -283,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 981683,
+      "num": 981683,
+      "word": "狂飙下线21个人了",
+      "onboard_time": 1674986370,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 971082,
       "num": 971082,
       "word": "辉瑞发文回应",
@@ -323,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 849068,
-      "num": 710149,
-      "word": "狂飙下线21个人了",
-      "onboard_time": 1674986370,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 830381,
       "num": 830381,
       "word": "长辈认为晚辈不结婚的原因",
@@ -363,6 +371,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 786002,
+      "num": 786002,
+      "word": "建议实现一户一笨",
+      "onboard_time": 1674987271,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 770309,
+      "num": 673536,
+      "word": "实地探访胡鑫宇被发现地",
+      "onboard_time": 1674984091,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 764103,
       "num": 690223,
       "word": "胡鑫宇家属决定尸检",
@@ -387,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 714466,
+      "num": 714466,
+      "word": "张译年轻时颜值",
+      "onboard_time": 1674986190,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 710583,
       "num": 710583,
       "word": "张颂文本人还没有看狂飙",
@@ -400,6 +432,14 @@
       "word": "61岁小伙子刘德华",
       "onboard_time": 1674952766,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 694918,
+      "num": 694918,
+      "word": "万达电影制作满江红海报出现错别字",
+      "onboard_time": 1674984987,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -451,14 +491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 625648,
-      "num": 625648,
-      "word": "万达电影制作满江红海报出现错别字",
-      "onboard_time": 1674984987,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 622563,
       "num": 622563,
       "word": "网友成都偶遇张杰",
@@ -505,14 +537,6 @@
       "onboard_time": 1674980191,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 583652,
-      "num": 583652,
-      "word": "实地探访胡鑫宇被发现地",
-      "onboard_time": 1674984091,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 577823,
@@ -643,14 +667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 469964,
-      "num": 469964,
-      "word": "张译年轻时颜值",
-      "onboard_time": 1674986190,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 460594,
       "num": 460594,
       "word": "神隐",
@@ -705,6 +721,14 @@
       "onboard_time": 1674918152,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 437664,
+      "num": 437664,
+      "word": "宋亚轩又去潜水了",
+      "onboard_time": 1674987330,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 432865,
@@ -944,14 +968,6 @@
       "word": "张颂文冲浪名言",
       "onboard_time": 1674956309,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 309258,
-      "num": 309258,
-      "word": "宋亚轩又去潜水了",
-      "onboard_time": 1674987330,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -1323,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198916,
+      "num": 198916,
+      "word": "钟嘉欣晒三胎女儿正面照",
+      "onboard_time": 1674987751,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198305,
       "num": 198305,
       "word": "像极了烂尾楼要开始赶工期",
@@ -1353,14 +1377,6 @@
       "onboard_time": 1674974073,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191150,
-      "num": 191150,
-      "word": "建议实现一户一笨",
-      "onboard_time": 1674987271,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 187994,
@@ -1611,6 +1627,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 138522,
+      "num": 138522,
+      "word": "手机实体静音键有用吗",
+      "onboard_time": 1674987573,
+      "rank": 47,
+      "category": "科技,社会议题"
+    },
+    {
       "raw_hot": 138203,
       "num": 138203,
       "word": "沈月问刘耀文到底是学什么的",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1674909869,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129445,
+      "num": 129445,
+      "word": "吴磊赵今麦芬兰开机路透",
+      "onboard_time": 1674988352,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129091,
