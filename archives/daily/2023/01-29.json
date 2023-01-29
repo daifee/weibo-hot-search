@@ -1,13 +1,21 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674962408432,
+  "endTime": 1674963244357,
   "band_list": [
     {
-      "raw_hot": 12418676,
-      "num": 12418676,
+      "raw_hot": 17279176,
+      "num": 17279176,
       "word": "胡鑫宇遗体被发现",
       "onboard_time": 1674961170,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7222279,
+      "num": 8472279,
+      "word": "树林中一缢吊尸体经检验系胡鑫宇",
+      "onboard_time": 1674962562,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -115,8 +123,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1189919,
-      "num": 1189919,
+      "raw_hot": 1213710,
+      "num": 1213710,
       "word": "专家回应教材删除岳飞满江红",
       "onboard_time": 1674959550,
       "rank": 16,
@@ -128,6 +136,14 @@
       "word": "世卫更新应对辐射和核紧急情况关键药物清单",
       "onboard_time": 1674912813,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 971082,
+      "num": 971082,
+      "word": "辉瑞发文回应",
+      "onboard_time": 1674961294,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -243,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 567133,
-      "num": 567133,
-      "word": "辉瑞发文回应",
-      "onboard_time": 1674961294,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 561158,
       "num": 561158,
       "word": "外卖小哥过年3天赚2695元",
@@ -299,6 +307,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 487631,
+      "num": 487631,
+      "word": "郭帆 化缘大师",
+      "onboard_time": 1674961114,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 482452,
       "num": 482452,
       "word": "BLACKPINK今日舞台",
@@ -307,11 +323,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 463281,
-      "num": 463281,
-      "word": "郭帆 化缘大师",
-      "onboard_time": 1674961114,
-      "rank": 23,
+      "raw_hot": 460594,
+      "num": 460594,
+      "word": "神隐",
+      "onboard_time": 1674961960,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -435,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326270,
-      "num": 326270,
-      "word": "神隐",
-      "onboard_time": 1674961960,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 318068,
       "num": 318068,
       "word": "申鹏",
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 315781,
-      "num": 266600,
+      "num": 279267,
       "word": "张颂文冲浪名言",
       "onboard_time": 1674956309,
       "rank": 32,
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276800,
+      "num": 276800,
+      "word": "神隐首发全阵容剧照",
+      "onboard_time": 1674962802,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275496,
       "num": 275496,
       "word": "流浪地球2自来水送票",
@@ -515,12 +531,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269041,
+      "num": 269041,
+      "word": "90后爸妈培养2岁儿子学做饭",
+      "onboard_time": 1674961536,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257107,
       "num": 257107,
       "word": "沈月自曝多次大难不死",
       "onboard_time": 1674922586,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246359,
+      "num": 196745,
+      "word": "叶舒华送礼物给坐轮椅粉丝",
+      "onboard_time": 1674960688,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 232614,
@@ -555,6 +587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 217251,
+      "num": 196280,
+      "word": "陈飞宇珍珠毛衣造型",
+      "onboard_time": 1674962921,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 215328,
       "num": 215328,
       "word": "初八",
@@ -587,11 +627,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195502,
-      "num": 195502,
-      "word": "90后爸妈培养2岁儿子学做饭",
-      "onboard_time": 1674961536,
-      "rank": 38,
+      "raw_hot": 197412,
+      "num": 197412,
+      "word": "女子饭桌上试图劝亲友理性催婚",
+      "onboard_time": 1674962260,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195967,
+      "num": 195967,
+      "word": "46岁退伍父亲扮小熊卖气球救女",
+      "onboard_time": 1674962682,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -601,14 +649,6 @@
       "onboard_time": 1674962079,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189643,
-      "num": 189643,
-      "word": "叶舒华送礼物给坐轮椅粉丝",
-      "onboard_time": 1674960688,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 187994,
@@ -659,12 +699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173470,
+      "num": 173470,
+      "word": "伊朗",
+      "onboard_time": 1674963041,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169711,
       "num": 169711,
       "word": "这孩子小名是不是叫年兽",
       "onboard_time": 1674919649,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169250,
+      "num": 169250,
+      "word": "陈乔恩说湖南睡衣你值得拥有",
+      "onboard_time": 1674963163,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 168086,
@@ -705,14 +761,6 @@
       "onboard_time": 1674908427,
       "rank": 34,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 156311,
-      "num": 156311,
-      "word": "女子饭桌上试图劝亲友理性催婚",
-      "onboard_time": 1674962260,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156098,
@@ -779,8 +827,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142541,
+      "num": 154620,
+      "word": "上海市延续实施新能源车置换补贴",
+      "onboard_time": 1674963163,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 141725,
-      "num": 2748124,
+      "num": 4222278,
       "word": "带着思念期待着下次相见",
       "onboard_time": 1674911189,
       "rank": 2,
