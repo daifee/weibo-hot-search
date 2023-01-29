@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674957707087,
+  "endTime": 1674960482470,
   "band_list": [
     {
       "raw_hot": 3829316,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2420445,
-      "num": 2420445,
+      "raw_hot": 2428347,
+      "num": 2428347,
       "word": "性暴力的展示在电影中不是必需的",
       "onboard_time": 1674953184,
       "rank": 1,
@@ -27,8 +27,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1725735,
-      "num": 1725735,
+      "raw_hot": 1792218,
+      "num": 1792218,
       "word": "以前票房反超了会画海报恭喜对方",
       "onboard_time": 1674953126,
       "rank": 3,
@@ -67,20 +67,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1353570,
+      "num": 1327350,
+      "word": "瘦金体",
+      "onboard_time": 1674958827,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1338182,
+      "num": 1338182,
+      "word": "辉瑞考虑自行研发COVID病毒变种",
+      "onboard_time": 1674954150,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1326044,
       "num": 983509,
       "word": "满江红片方起诉造谣者",
       "onboard_time": 1674912270,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1325280,
-      "num": 1325280,
-      "word": "辉瑞考虑自行研发COVID病毒变种",
-      "onboard_time": 1674954150,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1319403,
@@ -97,6 +105,14 @@
       "onboard_time": 1674912813,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1003023,
+      "num": 1003023,
+      "word": "王力宏演唱会",
+      "onboard_time": 1674959488,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 937131,
@@ -129,6 +145,14 @@
       "onboard_time": 1674910289,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 666842,
+      "num": 666842,
+      "word": "游客拍到摊贩偷换车厘子全过程",
+      "onboard_time": 1674956966,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 649327,
@@ -203,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 518784,
+      "num": 518784,
+      "word": "专家回应教材删除岳飞满江红",
+      "onboard_time": 1674959550,
+      "rank": 16,
+      "category": "教育,影视"
+    },
+    {
       "raw_hot": 508442,
       "num": 508442,
       "word": "熊出没闷声发大财",
@@ -235,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452784,
+      "num": 452784,
+      "word": "外卖小哥过年3天赚2695元",
+      "onboard_time": 1674957927,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440912,
       "num": 440912,
       "word": "王鹤棣给杨洋撕过腿毛",
@@ -259,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 430283,
+      "num": 430283,
+      "word": "山东省考",
+      "onboard_time": 1674959789,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 405349,
       "num": 223754,
       "word": "李一桐说赵樱子本人和听说的完全不一样",
@@ -275,12 +323,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389371,
+      "num": 389371,
+      "word": "SuperJunior的小卡",
+      "onboard_time": 1674958827,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378876,
       "num": 378876,
       "word": "女子点外卖偷放钢丝16次敲诈商家",
       "onboard_time": 1674923125,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362417,
+      "num": 362417,
+      "word": "刘耀文说自己是假期风景博主",
+      "onboard_time": 1674959848,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 362387,
+      "num": 362387,
+      "word": "三体恭喜于老师喜提一级演员",
+      "onboard_time": 1674958947,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 348736,
@@ -332,7 +404,7 @@
     },
     {
       "raw_hot": 315781,
-      "num": 218136,
+      "num": 251387,
       "word": "张颂文冲浪名言",
       "onboard_time": 1674956309,
       "rank": 32,
@@ -411,20 +483,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 230336,
-      "num": 230336,
-      "word": "游客拍到摊贩偷换车厘子全过程",
-      "onboard_time": 1674956966,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229432,
       "num": 229432,
       "word": "失去分寸感的情侣是怎样的",
       "onboard_time": 1674905908,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 221865,
+      "num": 246980,
+      "word": "tangoz拒绝私联",
+      "onboard_time": 1674959728,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 215328,
@@ -443,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205735,
+      "num": 205735,
+      "word": "边伯贤退伍倒计时最后一周",
+      "onboard_time": 1674958047,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198305,
       "num": 198305,
       "word": "像极了烂尾楼要开始赶工期",
@@ -457,6 +537,14 @@
       "onboard_time": 1674927017,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181275,
+      "num": 181275,
+      "word": "神隐仙灵神韵版海报",
+      "onboard_time": 1674959130,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 180235,
@@ -489,6 +577,14 @@
       "onboard_time": 1674919649,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168086,
+      "num": 168086,
+      "word": "苏醒说第四节欧文",
+      "onboard_time": 1674958708,
+      "rank": 39,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 166465,
@@ -547,12 +643,36 @@
       "category": "综艺,美食"
     },
     {
+      "raw_hot": 150611,
+      "num": 150611,
+      "word": "沈月cos功夫龅牙妹",
+      "onboard_time": 1674958167,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148914,
       "num": 148914,
       "word": "女子拆8件旧羽绒服改成羽绒被",
       "onboard_time": 1674903265,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144801,
+      "num": 144801,
+      "word": "结婚仪式感很重要吗",
+      "onboard_time": 1674959070,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 143038,
+      "num": 143038,
+      "word": "开工大吉",
+      "onboard_time": 1674958289,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 141725,

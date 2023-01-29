@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674957707087,
+  "endTime": 1674960482470,
   "band_list": [
     {
       "raw_hot": 15690756,
@@ -1163,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2428347,
+      "num": 2428347,
+      "word": "性暴力的展示在电影中不是必需的",
+      "onboard_time": 1674953184,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2427795,
       "num": 2427795,
       "word": "建议将春节假期延长至9天",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1674305334,
       "rank": 46,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2420445,
-      "num": 2420445,
-      "word": "性暴力的展示在电影中不是必需的",
-      "onboard_time": 1674953184,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 2418783,
@@ -2275,6 +2275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1792218,
+      "num": 1792218,
+      "word": "以前票房反超了会画海报恭喜对方",
+      "onboard_time": 1674953126,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1789433,
       "num": 1789433,
       "word": "男子年终奖太多公安送回家",
@@ -2489,14 +2497,6 @@
       "onboard_time": 1673496449,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1725735,
-      "num": 1725735,
-      "word": "以前票房反超了会画海报恭喜对方",
-      "onboard_time": 1674953126,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1725522,
@@ -4091,6 +4091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1353570,
+      "num": 1327350,
+      "word": "瘦金体",
+      "onboard_time": 1674958827,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1351757,
       "num": 1351757,
       "word": "黑莲花",
@@ -4155,6 +4163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1338182,
+      "num": 1338182,
+      "word": "辉瑞考虑自行研发COVID病毒变种",
+      "onboard_time": 1674954150,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1336075,
       "num": 1336075,
       "word": "沈腾易烊千玺翻唱今夜无眠",
@@ -4209,14 +4225,6 @@
       "onboard_time": 1673176531,
       "rank": 12,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 1325280,
-      "num": 1325280,
-      "word": "辉瑞考虑自行研发COVID病毒变种",
-      "onboard_time": 1674954150,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1322322,
@@ -7073,6 +7081,14 @@
       "onboard_time": 1672713084,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1003023,
+      "num": 1003023,
+      "word": "王力宏演唱会",
+      "onboard_time": 1674959488,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 1002535,
@@ -13243,6 +13259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 666842,
+      "num": 666842,
+      "word": "游客拍到摊贩偷换车厘子全过程",
+      "onboard_time": 1674956966,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666806,
       "num": 666806,
       "word": "女子带仙女棒进站被罚300",
@@ -18707,6 +18731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518784,
+      "num": 518784,
+      "word": "专家回应教材删除岳飞满江红",
+      "onboard_time": 1674959550,
+      "rank": 16,
+      "category": "教育,影视"
+    },
+    {
       "raw_hot": 518718,
       "num": 518718,
       "word": "卢姨",
@@ -21995,6 +22027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452784,
+      "num": 452784,
+      "word": "外卖小哥过年3天赚2695元",
+      "onboard_time": 1674957927,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452772,
       "num": 452772,
       "word": "李诞说不要再造新词制造焦虑",
@@ -23273,6 +23313,14 @@
       "onboard_time": 1673607870,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 430283,
+      "num": 430283,
+      "word": "山东省考",
+      "onboard_time": 1674959789,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 430271,
@@ -26091,6 +26139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 389371,
+      "num": 389371,
+      "word": "SuperJunior的小卡",
+      "onboard_time": 1674958827,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389306,
       "num": 389306,
       "word": "高晓晨扮演者是吴刚儿子",
@@ -28291,12 +28347,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 362417,
+      "num": 362417,
+      "word": "刘耀文说自己是假期风景博主",
+      "onboard_time": 1674959848,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362406,
       "num": 184962,
       "word": "aespa镜头下的ITZY",
       "onboard_time": 1673798669,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362387,
+      "num": 362387,
+      "word": "三体恭喜于老师喜提一级演员",
+      "onboard_time": 1674958947,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 362127,
@@ -32756,7 +32828,7 @@
     },
     {
       "raw_hot": 315781,
-      "num": 218136,
+      "num": 251387,
       "word": "张颂文冲浪名言",
       "onboard_time": 1674956309,
       "rank": 32,
@@ -43595,14 +43667,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 230336,
-      "num": 230336,
-      "word": "游客拍到摊贩偷换车厘子全过程",
-      "onboard_time": 1674956966,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230264,
       "num": 230264,
       "word": "新款MacBookPro或本周发布",
@@ -44593,6 +44657,14 @@
       "onboard_time": 1674663206,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221865,
+      "num": 246980,
+      "word": "tangoz拒绝私联",
+      "onboard_time": 1674959728,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 221773,
@@ -46801,6 +46873,14 @@
       "onboard_time": 1674035488,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205735,
+      "num": 205735,
+      "word": "边伯贤退伍倒计时最后一周",
+      "onboard_time": 1674958047,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 205723,
@@ -51019,6 +51099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181275,
+      "num": 181275,
+      "word": "神隐仙灵神韵版海报",
+      "onboard_time": 1674959130,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181237,
       "num": 181237,
       "word": "5位退役也未曾飞天的航天员",
@@ -53577,6 +53665,14 @@
       "onboard_time": 1674046830,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168086,
+      "num": 168086,
+      "word": "苏醒说第四节欧文",
+      "onboard_time": 1674958708,
+      "rank": 39,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 168040,
@@ -56555,6 +56651,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 150611,
+      "num": 150611,
+      "word": "沈月cos功夫龅牙妹",
+      "onboard_time": 1674958167,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150609,
       "num": 150609,
       "word": "阳康后为何会嗜睡或失眠",
@@ -57521,6 +57625,14 @@
       "onboard_time": 1674460762,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144801,
+      "num": 144801,
+      "word": "结婚仪式感很重要吗",
+      "onboard_time": 1674959070,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 144675,

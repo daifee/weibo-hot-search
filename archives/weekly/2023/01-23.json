@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674957707087,
+  "endTime": 1674960482470,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -99,8 +99,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2420445,
-      "num": 2420445,
+      "raw_hot": 2428347,
+      "num": 2428347,
       "word": "性暴力的展示在电影中不是必需的",
       "onboard_time": 1674953184,
       "rank": 1,
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1792218,
+      "num": 1792218,
+      "word": "以前票房反超了会画海报恭喜对方",
+      "onboard_time": 1674953126,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1767022,
       "num": 1767022,
       "word": "迪丽热巴杨紫最新开工营业照",
@@ -281,14 +289,6 @@
       "onboard_time": 1674730768,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1725735,
-      "num": 1725735,
-      "word": "以前票房反超了会画海报恭喜对方",
-      "onboard_time": 1674953126,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1703527,
@@ -547,12 +547,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1353570,
+      "num": 1327350,
+      "word": "瘦金体",
+      "onboard_time": 1674958827,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1346722,
       "num": 1346722,
       "word": "安欣孟钰be",
       "onboard_time": 1674735928,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1338182,
+      "num": 1338182,
+      "word": "辉瑞考虑自行研发COVID病毒变种",
+      "onboard_time": 1674954150,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1331174,
@@ -569,14 +585,6 @@
       "onboard_time": 1674626725,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1325280,
-      "num": 1325280,
-      "word": "辉瑞考虑自行研发COVID病毒变种",
-      "onboard_time": 1674954150,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1321330,
@@ -1145,6 +1153,14 @@
       "onboard_time": 1674619943,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1003023,
+      "num": 1003023,
+      "word": "王力宏演唱会",
+      "onboard_time": 1674959488,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 996485,
@@ -2307,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666842,
+      "num": 666842,
+      "word": "游客拍到摊贩偷换车厘子全过程",
+      "onboard_time": 1674956966,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666806,
       "num": 666806,
       "word": "女子带仙女棒进站被罚300",
@@ -3355,6 +3379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 518784,
+      "num": 518784,
+      "word": "专家回应教材删除岳飞满江红",
+      "onboard_time": 1674959550,
+      "rank": 16,
+      "category": "教育,影视"
+    },
+    {
       "raw_hot": 518330,
       "num": 518330,
       "word": "仙女棒在橘子里不会灭",
@@ -3963,6 +3995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452784,
+      "num": 452784,
+      "word": "外卖小哥过年3天赚2695元",
+      "onboard_time": 1674957927,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451563,
       "num": 381104,
       "word": "王一博转发说蒸排骨味道不错",
@@ -4137,6 +4177,14 @@
       "onboard_time": 1674614543,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430283,
+      "num": 430283,
+      "word": "山东省考",
+      "onboard_time": 1674959789,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 430008,
@@ -4715,6 +4763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389371,
+      "num": 389371,
+      "word": "SuperJunior的小卡",
+      "onboard_time": 1674958827,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389306,
       "num": 389306,
       "word": "高晓晨扮演者是吴刚儿子",
@@ -5161,6 +5217,22 @@
       "onboard_time": 1674662008,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 362417,
+      "num": 362417,
+      "word": "刘耀文说自己是假期风景博主",
+      "onboard_time": 1674959848,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 362387,
+      "num": 362387,
+      "word": "三体恭喜于老师喜提一级演员",
+      "onboard_time": 1674958947,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 362355,
@@ -6020,7 +6092,7 @@
     },
     {
       "raw_hot": 315781,
-      "num": 218136,
+      "num": 251387,
       "word": "张颂文冲浪名言",
       "onboard_time": 1674956309,
       "rank": 32,
@@ -8011,14 +8083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 230336,
-      "num": 230336,
-      "word": "游客拍到摊贩偷换车厘子全过程",
-      "onboard_time": 1674956966,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230220,
       "num": 230220,
       "word": "制片人说交换人生绝不是一部烂片",
@@ -8209,6 +8273,14 @@
       "onboard_time": 1674663206,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221865,
+      "num": 246980,
+      "word": "tangoz拒绝私联",
+      "onboard_time": 1674959728,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 221579,
@@ -8713,6 +8785,14 @@
       "onboard_time": 1674779183,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205735,
+      "num": 205735,
+      "word": "边伯贤退伍倒计时最后一周",
+      "onboard_time": 1674958047,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 205646,
@@ -9611,6 +9691,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 181275,
+      "num": 181275,
+      "word": "神隐仙灵神韵版海报",
+      "onboard_time": 1674959130,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180996,
       "num": 180996,
       "word": "才知道计算器自带隐藏空间",
@@ -10081,6 +10169,14 @@
       "onboard_time": 1674787765,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168086,
+      "num": 168086,
+      "word": "苏醒说第四节欧文",
+      "onboard_time": 1674958708,
+      "rank": 39,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 167920,
@@ -10691,6 +10787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150611,
+      "num": 150611,
+      "word": "沈月cos功夫龅牙妹",
+      "onboard_time": 1674958167,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150350,
       "num": 150350,
       "word": "灰熊vs勇士",
@@ -10937,6 +11041,14 @@
       "onboard_time": 1674460762,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144801,
+      "num": 144801,
+      "word": "结婚仪式感很重要吗",
+      "onboard_time": 1674959070,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 144561,
