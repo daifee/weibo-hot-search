@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674974143410,
+  "endTime": 1674976542971,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -49,6 +49,14 @@
       "onboard_time": 1674660689,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3102897,
+      "num": 3102897,
+      "word": "胡鑫宇母亲发文",
+      "onboard_time": 1674970293,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3098583,
@@ -105,14 +113,6 @@
       "onboard_time": 1674571409,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2692790,
-      "num": 2692790,
-      "word": "胡鑫宇母亲发文",
-      "onboard_time": 1674970293,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2676564,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1936198,
+      "num": 1936198,
+      "word": "张颂文称中国99.5%的演员收入极低",
+      "onboard_time": 1674975272,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1895830,
       "num": 1895830,
       "word": "专家称新冠病毒有点传不动了",
@@ -353,6 +361,14 @@
       "onboard_time": 1674691701,
       "rank": 1,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1669377,
+      "num": 1669377,
+      "word": "女生要多漂亮才算漂亮",
+      "onboard_time": 1674970656,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 1658132,
@@ -480,14 +496,6 @@
       "word": "再过二十年就没人走亲戚了",
       "onboard_time": 1674573568,
       "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1500971,
-      "num": 1500971,
-      "word": "女生要多漂亮才算漂亮",
-      "onboard_time": 1674970656,
-      "rank": 5,
       "category": "情感"
     },
     {
@@ -673,6 +681,14 @@
       "onboard_time": 1674626725,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1328006,
+      "num": 905276,
+      "word": "县长回应胡鑫宇被找到",
+      "onboard_time": 1674974553,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1321330,
@@ -873,6 +889,14 @@
       "onboard_time": 1674959550,
       "rank": 16,
       "category": "教育,影视"
+    },
+    {
+      "raw_hot": 1202309,
+      "num": 1202309,
+      "word": "韩国宣布出土20枚中国宋代钱币",
+      "onboard_time": 1674971133,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1196285,
@@ -1139,14 +1163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1062227,
-      "num": 1062227,
-      "word": "韩国宣布出土20枚中国宋代钱币",
-      "onboard_time": 1674971133,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1060727,
       "num": 1060727,
       "word": "B站与晋江签订合作协议",
@@ -1209,6 +1225,14 @@
       "onboard_time": 1674800605,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1030331,
+      "num": 1030331,
+      "word": "吴昕40岁生日照",
+      "onboard_time": 1674973230,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1025125,
@@ -1483,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 918671,
+      "num": 918671,
+      "word": "丫丫衣服上的图案",
+      "onboard_time": 1674974191,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 916845,
       "num": 916845,
       "word": "沈腾在西虹市首富里背过满江红",
@@ -1753,14 +1785,6 @@
       "onboard_time": 1674708506,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 806939,
-      "num": 806939,
-      "word": "吴昕40岁生日照",
-      "onboard_time": 1674973230,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 806641,
@@ -2835,6 +2859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 622563,
+      "num": 622563,
+      "word": "网友成都偶遇张杰",
+      "onboard_time": 1674973354,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 620575,
       "num": 620575,
       "word": "心疼李响",
@@ -3065,14 +3097,6 @@
       "onboard_time": 1674529226,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 582697,
-      "num": 582697,
-      "word": "网友成都偶遇张杰",
-      "onboard_time": 1674973354,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 578444,
@@ -4331,6 +4355,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 446054,
+      "num": 446054,
+      "word": "导演点赞王鹤棣田曦薇主演大奉打更人",
+      "onboard_time": 1674974674,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443474,
       "num": 407808,
       "word": "秦始皇说方言",
@@ -4609,6 +4641,14 @@
       "onboard_time": 1674569011,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 419608,
+      "num": 419608,
+      "word": "王力宏说人生中总是有摔倒的时候",
+      "onboard_time": 1674975692,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 419433,
@@ -5939,6 +5979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337891,
+      "num": 337891,
+      "word": "胡鑫宇母亲称不会停止寻找真相",
+      "onboard_time": 1674974252,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336812,
       "num": 336812,
       "word": "张婧仪无名破五亿海报",
@@ -6097,6 +6145,14 @@
       "onboard_time": 1674961355,
       "rank": 47,
       "category": "教育,影视"
+    },
+    {
+      "raw_hot": 331528,
+      "num": 331528,
+      "word": "满江红实时票房破30亿",
+      "onboard_time": 1674975454,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 330921,
@@ -6577,6 +6633,14 @@
       "onboard_time": 1674573211,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 307136,
+      "num": 307136,
+      "word": "BLACKPINK与法国总统合照",
+      "onboard_time": 1674973832,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 307102,
@@ -7307,6 +7371,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 274562,
+      "num": 274562,
+      "word": "你会二刷无名吗",
+      "onboard_time": 1674975991,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273212,
       "num": 237637,
       "word": "50岁以上的出列",
@@ -7784,6 +7856,14 @@
       "word": "三体红岸基地电影质感",
       "onboard_time": 1674658771,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 256399,
+      "num": 256399,
+      "word": "赵露思王安宇新剧神隐的cp感",
+      "onboard_time": 1674971794,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -8587,14 +8667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226870,
-      "num": 226870,
-      "word": "BLACKPINK与法国总统合照",
-      "onboard_time": 1674973832,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225978,
       "num": 225978,
       "word": "我年后上班的工作状态",
@@ -8673,14 +8745,6 @@
       "onboard_time": 1674433403,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223295,
-      "num": 223295,
-      "word": "赵露思王安宇新剧神隐的cp感",
-      "onboard_time": 1674971794,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 222741,
@@ -10192,6 +10256,14 @@
       "word": "神隐仙灵神韵版海报",
       "onboard_time": 1674959130,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 181126,
+      "num": 181126,
+      "word": "你期待赵露思王安宇神隐吗",
+      "onboard_time": 1674975752,
+      "rank": 46,
       "category": "影视"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674974143410,
+  "endTime": 1674976542971,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -35,19 +35,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3102897,
+      "num": 3102897,
+      "word": "胡鑫宇母亲发文",
+      "onboard_time": 1674970293,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2832635,
       "num": 2832635,
       "word": "胡鑫宇被发现时处于缢吊状态",
       "onboard_time": 1674965204,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2692790,
-      "num": 2692790,
-      "word": "胡鑫宇母亲发文",
-      "onboard_time": 1674970293,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -65,6 +65,14 @@
       "onboard_time": 1674952706,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1936198,
+      "num": 1936198,
+      "word": "张颂文称中国99.5%的演员收入极低",
+      "onboard_time": 1674975272,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1792218,
@@ -91,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1669377,
+      "num": 1669377,
+      "word": "女生要多漂亮才算漂亮",
+      "onboard_time": 1674970656,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1658132,
       "num": 1658132,
       "word": "王力宏演唱会",
@@ -113,14 +129,6 @@
       "onboard_time": 1674954150,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1500971,
-      "num": 1500971,
-      "word": "女生要多漂亮才算漂亮",
-      "onboard_time": 1674970656,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 1439545,
@@ -171,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1328006,
+      "num": 905276,
+      "word": "县长回应胡鑫宇被找到",
+      "onboard_time": 1674974553,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1326044,
       "num": 983509,
       "word": "满江红片方起诉造谣者",
@@ -195,6 +211,14 @@
       "category": "教育,影视"
     },
     {
+      "raw_hot": 1202309,
+      "num": 1202309,
+      "word": "韩国宣布出土20枚中国宋代钱币",
+      "onboard_time": 1674971133,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1115723,
       "num": 1115723,
       "word": "肖战片场看任敏的眼神",
@@ -211,20 +235,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 1062227,
-      "num": 1062227,
-      "word": "韩国宣布出土20枚中国宋代钱币",
-      "onboard_time": 1674971133,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1036106,
       "num": 1036106,
       "word": "世卫更新应对辐射和核紧急情况关键药物清单",
       "onboard_time": 1674912813,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1030331,
+      "num": 1030331,
+      "word": "吴昕40岁生日照",
+      "onboard_time": 1674973230,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1014907,
@@ -251,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 918671,
+      "num": 918671,
+      "word": "丫丫衣服上的图案",
+      "onboard_time": 1674974191,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 868227,
       "num": 868227,
       "word": "黄梦莹签约新公司",
@@ -265,14 +297,6 @@
       "onboard_time": 1674911011,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 806939,
-      "num": 806939,
-      "word": "吴昕40岁生日照",
-      "onboard_time": 1674973230,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 806641,
@@ -363,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 622563,
+      "num": 622563,
+      "word": "网友成都偶遇张杰",
+      "onboard_time": 1674973354,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 622098,
       "num": 601998,
       "word": "狂飙",
@@ -393,14 +425,6 @@
       "onboard_time": 1674915872,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 582697,
-      "num": 582697,
-      "word": "网友成都偶遇张杰",
-      "onboard_time": 1674973354,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 577823,
@@ -539,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 446054,
+      "num": 446054,
+      "word": "导演点赞王鹤棣田曦薇主演大奉打更人",
+      "onboard_time": 1674974674,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 440912,
       "num": 440912,
       "word": "王鹤棣给杨洋撕过腿毛",
@@ -585,6 +617,14 @@
       "onboard_time": 1674966286,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 419608,
+      "num": 419608,
+      "word": "王力宏说人生中总是有摔倒的时候",
+      "onboard_time": 1674975692,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 405349,
@@ -675,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337891,
+      "num": 337891,
+      "word": "胡鑫宇母亲称不会停止寻找真相",
+      "onboard_time": 1674974252,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334063,
       "num": 217438,
       "word": "央六报道无名逆跌",
@@ -697,6 +745,14 @@
       "onboard_time": 1674961355,
       "rank": 47,
       "category": "教育,影视"
+    },
+    {
+      "raw_hot": 331528,
+      "num": 331528,
+      "word": "满江红实时票房破30亿",
+      "onboard_time": 1674975454,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 325364,
@@ -737,6 +793,14 @@
       "onboard_time": 1674971855,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 307136,
+      "num": 307136,
+      "word": "BLACKPINK与法国总统合照",
+      "onboard_time": 1674973832,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 303613,
@@ -835,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274562,
+      "num": 274562,
+      "word": "你会二刷无名吗",
+      "onboard_time": 1674975991,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269934,
       "num": 269934,
       "word": "陈飞宇珍珠毛衣造型",
@@ -857,6 +929,14 @@
       "onboard_time": 1674922586,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256399,
+      "num": 256399,
+      "word": "赵露思王安宇新剧神隐的cp感",
+      "onboard_time": 1674971794,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 249804,
@@ -921,22 +1001,6 @@
       "onboard_time": 1674905908,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226870,
-      "num": 226870,
-      "word": "BLACKPINK与法国总统合照",
-      "onboard_time": 1674973832,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 223295,
-      "num": 223295,
-      "word": "赵露思王安宇新剧神隐的cp感",
-      "onboard_time": 1674971794,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 219960,
@@ -1040,6 +1104,14 @@
       "word": "神隐仙灵神韵版海报",
       "onboard_time": 1674959130,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 181126,
+      "num": 181126,
+      "word": "你期待赵露思王安宇神隐吗",
+      "onboard_time": 1674975752,
+      "rank": 46,
       "category": "影视"
     },
     {

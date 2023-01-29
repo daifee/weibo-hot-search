@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1674974143410,
+  "endTime": 1674976542971,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -659,6 +659,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 3102897,
+      "num": 3102897,
+      "word": "胡鑫宇母亲发文",
+      "onboard_time": 1674970293,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3101539,
       "num": 3101539,
       "word": "国考",
@@ -921,14 +929,6 @@
       "onboard_time": 1672667073,
       "rank": 0,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 2692790,
-      "num": 2692790,
-      "word": "胡鑫宇母亲发文",
-      "onboard_time": 1674970293,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2687261,
@@ -2011,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1936198,
+      "num": 1936198,
+      "word": "张颂文称中国99.5%的演员收入极低",
+      "onboard_time": 1674975272,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1934352,
       "num": 971201,
       "word": "周深跨年好忙",
@@ -2755,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1669377,
+      "num": 1669377,
+      "word": "女生要多漂亮才算漂亮",
+      "onboard_time": 1674970656,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1658132,
       "num": 1658132,
       "word": "王力宏演唱会",
@@ -3337,14 +3353,6 @@
       "onboard_time": 1674319007,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1500971,
-      "num": 1500971,
-      "word": "女生要多漂亮才算漂亮",
-      "onboard_time": 1674970656,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 1500136,
@@ -4315,6 +4323,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 1328006,
+      "num": 905276,
+      "word": "县长回应胡鑫宇被找到",
+      "onboard_time": 1674974553,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1322322,
       "num": 1322322,
       "word": "荣安皇后终于被肖铎抱了",
@@ -5241,6 +5257,14 @@
       "onboard_time": 1672497654,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1202309,
+      "num": 1202309,
+      "word": "韩国宣布出土20枚中国宋代钱币",
+      "onboard_time": 1674971133,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1201790,
@@ -6451,14 +6475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1062227,
-      "num": 1062227,
-      "word": "韩国宣布出土20枚中国宋代钱币",
-      "onboard_time": 1674971133,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1061604,
       "num": 1061604,
       "word": "不烫不死心烫完心死了",
@@ -6809,6 +6825,14 @@
       "onboard_time": 1674398371,
       "rank": 8,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1030331,
+      "num": 1030331,
+      "word": "吴昕40岁生日照",
+      "onboard_time": 1674973230,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1029029,
@@ -8233,6 +8257,14 @@
       "onboard_time": 1674713730,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 918671,
+      "num": 918671,
+      "word": "丫丫衣服上的图案",
+      "onboard_time": 1674974191,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 918011,
@@ -10185,14 +10217,6 @@
       "onboard_time": 1673007390,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 806939,
-      "num": 806939,
-      "word": "吴昕40岁生日照",
-      "onboard_time": 1674973230,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 806641,
@@ -14971,6 +14995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 622563,
+      "num": 622563,
+      "word": "网友成都偶遇张杰",
+      "onboard_time": 1674973354,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 620575,
       "num": 620575,
       "word": "心疼李响",
@@ -16289,14 +16321,6 @@
       "onboard_time": 1674529226,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 582697,
-      "num": 582697,
-      "word": "网友成都偶遇张杰",
-      "onboard_time": 1674973354,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 582416,
@@ -22747,6 +22771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 446054,
+      "num": 446054,
+      "word": "导演点赞王鹤棣田曦薇主演大奉打更人",
+      "onboard_time": 1674974674,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 445650,
       "num": 353636,
       "word": "武大拟对10研究生退学处理",
@@ -24201,6 +24233,14 @@
       "onboard_time": 1672656994,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 419608,
+      "num": 419608,
+      "word": "王力宏说人生中总是有摔倒的时候",
+      "onboard_time": 1674975692,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 419580,
@@ -30891,6 +30931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337891,
+      "num": 337891,
+      "word": "胡鑫宇母亲称不会停止寻找真相",
+      "onboard_time": 1674974252,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337846,
       "num": 183380,
       "word": "时代少年团元宇宙盛典互送祝福",
@@ -31561,6 +31609,14 @@
       "onboard_time": 1674961355,
       "rank": 47,
       "category": "教育,影视"
+    },
+    {
+      "raw_hot": 331528,
+      "num": 331528,
+      "word": "满江红实时票房破30亿",
+      "onboard_time": 1674975454,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 331523,
@@ -33921,6 +33977,14 @@
       "onboard_time": 1674573211,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 307136,
+      "num": 307136,
+      "word": "BLACKPINK与法国总统合照",
+      "onboard_time": 1674973832,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 307102,
@@ -37963,6 +38027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274562,
+      "num": 274562,
+      "word": "你会二刷无名吗",
+      "onboard_time": 1674975991,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274463,
       "num": 274463,
       "word": "樊振东孙颖莎世界第一开启2023",
@@ -40424,6 +40496,14 @@
       "word": "三体红岸基地电影质感",
       "onboard_time": 1674658771,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 256399,
+      "num": 256399,
+      "word": "赵露思王安宇新剧神隐的cp感",
+      "onboard_time": 1674971794,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -44411,14 +44491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226870,
-      "num": 226870,
-      "word": "BLACKPINK与法国总统合照",
-      "onboard_time": 1674973832,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 226828,
       "num": 226828,
       "word": "男子鱼刺卡喉反复按压致脑梗",
@@ -44897,14 +44969,6 @@
       "onboard_time": 1674433403,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223295,
-      "num": 223295,
-      "word": "赵露思王安宇新剧神隐的cp感",
-      "onboard_time": 1674971794,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 223182,
@@ -51633,6 +51697,14 @@
       "onboard_time": 1673529748,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 181126,
+      "num": 181126,
+      "word": "你期待赵露思王安宇神隐吗",
+      "onboard_time": 1674975752,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 181120,
