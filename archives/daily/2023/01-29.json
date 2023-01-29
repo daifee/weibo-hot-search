@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674966105483,
+  "endTime": 1674967003012,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -32,6 +32,14 @@
       "word": "辉瑞",
       "onboard_time": 1674948138,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2832635,
+      "num": 2832635,
+      "word": "胡鑫宇被发现时处于缢吊状态",
+      "onboard_time": 1674965204,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -91,14 +99,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1528411,
-      "num": 1202338,
-      "word": "胡鑫宇被发现时处于缢吊状态",
-      "onboard_time": 1674965204,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1519277,
       "num": 1519277,
       "word": "辉瑞考虑自行研发COVID病毒变种",
@@ -155,6 +155,14 @@
       "category": "教育,影视"
     },
     {
+      "raw_hot": 1207916,
+      "num": 888099,
+      "word": "李健的裤子好短",
+      "onboard_time": 1674965627,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1036106,
       "num": 1036106,
       "word": "世卫更新应对辐射和核紧急情况关键药物清单",
@@ -203,6 +211,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 762153,
+      "num": 762153,
+      "word": "万达影城回应流浪地球线下票价300元",
+      "onboard_time": 1674963587,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 715023,
+      "num": 715023,
+      "word": "湖人",
+      "onboard_time": 1674965264,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 707307,
       "num": 707307,
       "word": "61岁小伙子刘德华",
@@ -216,14 +240,6 @@
       "word": "张彪是狂飙第二个内鬼",
       "onboard_time": 1674910289,
       "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 662599,
-      "num": 648995,
-      "word": "万达影城回应流浪地球线下票价300元",
-      "onboard_time": 1674963587,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -299,6 +315,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564423,
+      "num": 564423,
+      "word": "苏翊鸣",
+      "onboard_time": 1674966167,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 562412,
+      "num": 562412,
+      "word": "胡鑫宇失踪案时间线",
+      "onboard_time": 1674965867,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 561158,
       "num": 561158,
       "word": "外卖小哥过年3天赚2695元",
@@ -307,20 +339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554586,
+      "num": 554586,
+      "word": "王嘉尔印度人气",
+      "onboard_time": 1674966766,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553501,
       "num": 553501,
       "word": "孟钰嫁给了杨健",
       "onboard_time": 1674914670,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 538208,
-      "num": 438379,
-      "word": "李健的裤子好短",
-      "onboard_time": 1674965627,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 508442,
@@ -337,14 +369,6 @@
       "onboard_time": 1674961355,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 505960,
-      "num": 505960,
-      "word": "湖人",
-      "onboard_time": 1674965264,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 498716,
@@ -368,6 +392,14 @@
       "word": "郭帆 化缘大师",
       "onboard_time": 1674961114,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 483416,
+      "num": 483416,
+      "word": "流浪地球2破亿海报是小朋友的画",
+      "onboard_time": 1674964905,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -435,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 421161,
+      "num": 421161,
+      "word": "赵露思王安宇神隐单人海报",
+      "onboard_time": 1674966286,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405349,
       "num": 223754,
       "word": "李一桐说赵樱子本人和听说的完全不一样",
@@ -449,6 +489,14 @@
       "onboard_time": 1674952107,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399302,
+      "num": 399302,
+      "word": "于正说张颂文的表演是男演员天花板",
+      "onboard_time": 1674964966,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 396805,
@@ -481,22 +529,6 @@
       "onboard_time": 1674959848,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 359880,
-      "num": 359880,
-      "word": "于正说张颂文的表演是男演员天花板",
-      "onboard_time": 1674964966,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 357294,
-      "num": 357294,
-      "word": "流浪地球2破亿海报是小朋友的画",
-      "onboard_time": 1674964905,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 348736,
@@ -563,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303613,
+      "num": 303613,
+      "word": "女子饭桌上试图劝亲友理性催婚",
+      "onboard_time": 1674962260,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302376,
       "num": 302376,
       "word": "46岁退伍父亲扮小熊卖气球救女",
@@ -571,12 +611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293858,
-      "num": 293858,
-      "word": "女子饭桌上试图劝亲友理性催婚",
-      "onboard_time": 1674962260,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 301383,
+      "num": 301383,
+      "word": "中学统编教材从未选编过满江红",
+      "onboard_time": 1674961355,
+      "rank": 47,
+      "category": "教育,影视"
     },
     {
       "raw_hot": 293034,
@@ -593,14 +633,6 @@
       "onboard_time": 1674952227,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 289330,
-      "num": 289330,
-      "word": "胡鑫宇失踪案时间线",
-      "onboard_time": 1674965867,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288390,
@@ -659,6 +691,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 258951,
+      "num": 258951,
+      "word": "辉瑞中国资本版图盘点",
+      "onboard_time": 1674966585,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 257107,
       "num": 257107,
       "word": "沈月自曝多次大难不死",
@@ -675,12 +715,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234420,
-      "num": 234420,
-      "word": "中学统编教材从未选编过满江红",
-      "onboard_time": 1674961355,
-      "rank": 47,
-      "category": "教育,影视"
+      "raw_hot": 239388,
+      "num": 239388,
+      "word": "那些无法用普通话翻译的方言",
+      "onboard_time": 1674966706,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 232614,
@@ -1003,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120059,
+      "num": 4797025,
+      "word": "带着满格电量拼出收获满满的一年",
+      "onboard_time": 1674966046,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118556,
       "num": 118556,
       "word": "BLACKPINK法国慈善晚会预告",
@@ -1153,14 +1201,6 @@
       "onboard_time": 1674898646,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 9333,
-      "num": 3511483,
-      "word": "带着满格电量拼出收获满满的一年",
-      "onboard_time": 1674966046,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
