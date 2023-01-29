@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674990864163,
+  "endTime": 1674991999818,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -19,19 +19,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 7387402,
+      "num": 7387402,
+      "word": "胡鑫宇尸检已完成",
+      "onboard_time": 1674988052,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7293745,
       "num": 7293745,
       "word": "胡鑫宇遗体现场发现一支录音笔",
       "onboard_time": 1674964246,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6269677,
-      "num": 6269677,
-      "word": "胡鑫宇尸检已完成",
-      "onboard_time": 1674988052,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 970705,
+      "num": 274404,
+      "word": "胡鑫宇家属在殡仪馆放鞭炮送行",
+      "onboard_time": 1674989253,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 937131,
       "num": 937131,
       "word": "狂飙原型",
@@ -320,14 +328,6 @@
       "word": "女生练车把男友家撞出大洞",
       "onboard_time": 1674978572,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 886338,
-      "num": 274404,
-      "word": "胡鑫宇家属在殡仪馆放鞭炮送行",
-      "onboard_time": 1674989253,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -353,6 +353,14 @@
       "onboard_time": 1674911011,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 819281,
+      "num": 819281,
+      "word": "妈妈嫌狗脏影响女儿生娃偷偷送走",
+      "onboard_time": 1674989492,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 811746,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 777966,
-      "num": 673536,
+      "num": 687112,
       "word": "实地探访胡鑫宇被发现地",
       "onboard_time": 1674984091,
       "rank": 30,
@@ -443,12 +451,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 699793,
+      "num": 699793,
+      "word": "2个月没摘隐形眼镜镜片长在眼球上",
+      "onboard_time": 1674989553,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694918,
       "num": 694918,
       "word": "万达电影制作满江红海报出现错别字",
       "onboard_time": 1674984987,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 694703,
+      "num": 694703,
+      "word": "为什么年轻人开始接受相亲了",
+      "onboard_time": 1674990633,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 686324,
@@ -499,12 +523,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 627610,
+      "num": 627610,
+      "word": "吴磊赵今麦芬兰开机路透",
+      "onboard_time": 1674988352,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 622563,
       "num": 622563,
       "word": "网友成都偶遇张杰",
       "onboard_time": 1674973354,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 622248,
+      "num": 622248,
+      "word": "刘耀文踩了宋亚轩一脚",
+      "onboard_time": 1674990874,
+      "rank": 13,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 622098,
@@ -521,14 +561,6 @@
       "onboard_time": 1674920728,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 613341,
-      "num": 613341,
-      "word": "吴磊赵今麦芬兰开机路透",
-      "onboard_time": 1674988352,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 603052,
@@ -619,14 +651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 515173,
-      "num": 515173,
-      "word": "妈妈嫌狗脏影响女儿生娃偷偷送走",
-      "onboard_time": 1674989492,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 515071,
       "num": 515071,
       "word": "范世錡参加哥哥前生病瘦了16斤",
@@ -699,20 +723,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 474691,
-      "num": 474691,
-      "word": "2个月没摘隐形眼镜镜片长在眼球上",
-      "onboard_time": 1674989553,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 460594,
       "num": 460594,
       "word": "神隐",
       "onboard_time": 1674961960,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 458767,
+      "num": 244908,
+      "word": "村民回忆发现胡鑫宇遗体状况",
+      "onboard_time": 1674991174,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 458231,
@@ -753,6 +777,14 @@
       "onboard_time": 1674974674,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 445085,
+      "num": 445085,
+      "word": "胡鑫宇家属正申请异地公安侦查",
+      "onboard_time": 1674991470,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440912,
@@ -913,14 +945,6 @@
       "onboard_time": 1674966585,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 354859,
-      "num": 354859,
-      "word": "为什么年轻人开始接受相亲了",
-      "onboard_time": 1674990633,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 348736,
@@ -1187,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272852,
+      "num": 272852,
+      "word": "詹姆斯 裁判",
+      "onboard_time": 1674989976,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269934,
       "num": 269934,
       "word": "陈飞宇珍珠毛衣造型",
@@ -1232,14 +1264,6 @@
       "word": "德约科维奇 决赛",
       "onboard_time": 1674985650,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 252501,
-      "num": 252501,
-      "word": "詹姆斯 裁判",
-      "onboard_time": 1674989976,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -1419,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199277,
+      "num": 199277,
+      "word": "山东小伙扮女装踩高跷娇媚无比",
+      "onboard_time": 1674988951,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198916,
       "num": 198916,
       "word": "钟嘉欣晒三胎女儿正面照",
@@ -1457,6 +1489,14 @@
       "onboard_time": 1674974073,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190999,
+      "num": 190999,
+      "word": "张颂文角色反差感",
+      "onboard_time": 1674991831,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 187994,
@@ -1603,6 +1643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164418,
+      "num": 164418,
+      "word": "星穹铁道预约破千万",
+      "onboard_time": 1674991951,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163751,
       "num": 163751,
       "word": "民警救援途中被风吹成不倒翁",
@@ -1611,12 +1659,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 159967,
-      "num": 159967,
-      "word": "山东小伙扮女装踩高跷娇媚无比",
-      "onboard_time": 1674988951,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 162020,
+      "num": 162020,
+      "word": "遇到优秀的男生你会主动吗",
+      "onboard_time": 1674991711,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 156899,
@@ -1625,6 +1673,14 @@
       "onboard_time": 1674908427,
       "rank": 34,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 156226,
+      "num": 156226,
+      "word": "刘銮雄拍卖77只奢侈品包估价超1600万",
+      "onboard_time": 1674991711,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 156098,

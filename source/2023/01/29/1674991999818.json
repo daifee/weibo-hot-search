@@ -1,0 +1,410 @@
+{
+  "runTime": 1674991999818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7387402,
+        "num": 7387402,
+        "word": "胡鑫宇尸检已完成",
+        "onboard_time": 1674988052,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1339932,
+        "num": 1339932,
+        "word": "满江红官博更换微博背景字体",
+        "onboard_time": 1674985049,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161646,
+        "num": 949883,
+        "word": "爸妈硬塞行李的操作防不胜防",
+        "onboard_time": 1674977071,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825027,
+        "num": 825027,
+        "word": "张颂文称中国99.5%的演员收入极低",
+        "onboard_time": 1674975272,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 819281,
+        "num": 819281,
+        "word": "妈妈嫌狗脏影响女儿生娃偷偷送走",
+        "onboard_time": 1674989492,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1261783,
+        "num": 814161,
+        "word": "胡鑫宇母亲发文",
+        "onboard_time": 1674970293,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790031,
+        "num": 790031,
+        "word": "李一桐和符龙飞曾在相亲节目牵手成功",
+        "onboard_time": 1674978691,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 775839,
+        "num": 775839,
+        "word": "狂飙下线21个人了",
+        "onboard_time": 1674986370,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 701105,
+        "num": 701105,
+        "word": "张译年轻时颜值",
+        "onboard_time": 1674986190,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 699793,
+        "num": 699793,
+        "word": "2个月没摘隐形眼镜镜片长在眼球上",
+        "onboard_time": 1674989553,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694703,
+        "num": 694703,
+        "word": "为什么年轻人开始接受相亲了",
+        "onboard_time": 1674990633,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 687112,
+        "num": 687112,
+        "word": "实地探访胡鑫宇被发现地",
+        "onboard_time": 1674984091,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627610,
+        "num": 627610,
+        "word": "吴磊赵今麦芬兰开机路透",
+        "onboard_time": 1674988352,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 622248,
+        "num": 622248,
+        "word": "刘耀文踩了宋亚轩一脚",
+        "onboard_time": 1674990874,
+        "rank": 13,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 597352,
+        "num": 597352,
+        "word": "女生要多漂亮才算漂亮",
+        "onboard_time": 1674970656,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 571667,
+        "num": 571667,
+        "word": "建议实现一户一笨",
+        "onboard_time": 1674987271,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 554307,
+        "num": 554307,
+        "word": "胡鑫宇遗体被发现",
+        "onboard_time": 1674961170,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488141,
+        "num": 488141,
+        "word": "县长回应胡鑫宇被找到",
+        "onboard_time": 1674974553,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455638,
+        "num": 455638,
+        "word": "树林中一缢吊尸体经检验系胡鑫宇",
+        "onboard_time": 1674962562,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445085,
+        "num": 445085,
+        "word": "胡鑫宇家属正申请异地公安侦查",
+        "onboard_time": 1674991470,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371163,
+        "num": 371163,
+        "word": "万达电影制作满江红海报出现错别字",
+        "onboard_time": 1674984987,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339301,
+        "num": 339301,
+        "word": "范世錡参加哥哥前生病瘦了16斤",
+        "onboard_time": 1674988951,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331502,
+        "num": 331502,
+        "word": "年后第一天上班民政局人山人海",
+        "onboard_time": 1674980012,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330599,
+        "num": 330599,
+        "word": "狂飙导演说张颂文让他非常惊喜",
+        "onboard_time": 1674987089,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315184,
+        "num": 315184,
+        "word": "中国奇谭",
+        "onboard_time": 1674985290,
+        "rank": 24,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 308070,
+        "num": 308070,
+        "word": "王力宏说人生中总是有摔倒的时候",
+        "onboard_time": 1674975692,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 272852,
+        "num": 272852,
+        "word": "詹姆斯 裁判",
+        "onboard_time": 1674989976,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265757,
+        "num": 265757,
+        "word": "丫丫衣服上的图案",
+        "onboard_time": 1674974191,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264047,
+        "num": 264047,
+        "word": "MOSS是你吗",
+        "onboard_time": 1674989253,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253587,
+        "num": 253587,
+        "word": "韩国宣布出土20枚中国宋代钱币",
+        "onboard_time": 1674971133,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970705,
+        "num": 249843,
+        "word": "胡鑫宇家属在殡仪馆放鞭炮送行",
+        "onboard_time": 1674989253,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458767,
+        "num": 244908,
+        "word": "村民回忆发现胡鑫宇遗体状况",
+        "onboard_time": 1674991174,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237172,
+        "num": 237172,
+        "word": "李光洁说我是全家天选做饭人",
+        "onboard_time": 1674990213,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231724,
+        "num": 231724,
+        "word": "德约科维奇 决赛",
+        "onboard_time": 1674985650,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228121,
+        "num": 228121,
+        "word": "吴昕40岁生日照",
+        "onboard_time": 1674973230,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215523,
+        "num": 215523,
+        "word": "女生练车把男友家撞出大洞",
+        "onboard_time": 1674978572,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207146,
+        "num": 207146,
+        "word": "胡鑫宇遗体现场发现一支录音笔",
+        "onboard_time": 1674964246,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204142,
+        "num": 204142,
+        "word": "王一博王传君一口吃完拿破仑",
+        "onboard_time": 1674972032,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199277,
+        "num": 199277,
+        "word": "山东小伙扮女装踩高跷娇媚无比",
+        "onboard_time": 1674988951,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190999,
+        "num": 190999,
+        "word": "张颂文角色反差感",
+        "onboard_time": 1674991831,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168283,
+        "num": 168283,
+        "word": "别给女生下定义",
+        "onboard_time": 1674988650,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170285,
+        "num": 168070,
+        "word": "狂飙",
+        "onboard_time": 1674955109,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164418,
+        "num": 164418,
+        "word": "星穹铁道预约破千万",
+        "onboard_time": 1674991951,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163108,
+        "num": 163108,
+        "word": "宋亚轩又去潜水了",
+        "onboard_time": 1674987330,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162020,
+        "num": 162020,
+        "word": "遇到优秀的男生你会主动吗",
+        "onboard_time": 1674991711,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156226,
+        "num": 156226,
+        "word": "刘銮雄拍卖77只奢侈品包估价超1600万",
+        "onboard_time": 1674991711,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155869,
+        "num": 155869,
+        "word": "杨笠直播回应推荐满江红",
+        "onboard_time": 1674980191,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139834,
+        "num": 139834,
+        "word": "宋亚轩刘耀文新歌舞台版MV",
+        "onboard_time": 1674988410,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152289,
+        "num": 139748,
+        "word": "沈腾易烊千玺对戏没站稳",
+        "onboard_time": 1674977793,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137391,
+        "num": 137391,
+        "word": "网友成都偶遇张杰",
+        "onboard_time": 1674973354,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进高质量共建一带一路#"
+    }
+  }
+}
