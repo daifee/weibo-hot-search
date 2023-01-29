@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674976542971,
+  "endTime": 1674977606567,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -67,8 +67,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1936198,
-      "num": 1936198,
+      "raw_hot": 2326467,
+      "num": 2326467,
       "word": "张颂文称中国99.5%的演员收入极低",
       "onboard_time": 1674975272,
       "rank": 3,
@@ -121,6 +121,14 @@
       "onboard_time": 1674954987,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1555119,
+      "num": 1555119,
+      "word": "县长回应胡鑫宇被找到",
+      "onboard_time": 1674974553,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1519277,
@@ -179,14 +187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1328006,
-      "num": 905276,
-      "word": "县长回应胡鑫宇被找到",
-      "onboard_time": 1674974553,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1326044,
       "num": 983509,
       "word": "满江红片方起诉造谣者",
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1128910,
+      "num": 1128910,
+      "word": "吴昕40岁生日照",
+      "onboard_time": 1674973230,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1115723,
       "num": 1115723,
       "word": "肖战片场看任敏的眼神",
@@ -243,20 +251,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1030331,
-      "num": 1030331,
-      "word": "吴昕40岁生日照",
-      "onboard_time": 1674973230,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1014907,
       "num": 1014907,
       "word": "苏翊鸣",
       "onboard_time": 1674966167,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 995104,
+      "num": 995104,
+      "word": "丫丫衣服上的图案",
+      "onboard_time": 1674974191,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 971082,
@@ -272,14 +280,6 @@
       "word": "狂飙原型",
       "onboard_time": 1674955767,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 918671,
-      "num": 918671,
-      "word": "丫丫衣服上的图案",
-      "onboard_time": 1674974191,
-      "rank": 9,
       "category": "影视"
     },
     {
@@ -353,6 +353,14 @@
       "onboard_time": 1674910289,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 681065,
+      "num": 681065,
+      "word": "王力宏说人生中总是有摔倒的时候",
+      "onboard_time": 1674975692,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 669387,
@@ -619,20 +627,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 419608,
-      "num": 419608,
-      "word": "王力宏说人生中总是有摔倒的时候",
-      "onboard_time": 1674975692,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 405349,
       "num": 223754,
       "word": "李一桐说赵樱子本人和听说的完全不一样",
       "onboard_time": 1674910167,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404458,
+      "num": 404458,
+      "word": "胡鑫宇家属决定尸检",
+      "onboard_time": 1674977012,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404260,
@@ -675,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370993,
+      "num": 370993,
+      "word": "满江红实时票房破30亿",
+      "onboard_time": 1674975454,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362417,
       "num": 362417,
       "word": "刘耀文说自己是假期风景博主",
@@ -705,6 +721,14 @@
       "onboard_time": 1674967006,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347507,
+      "num": 347507,
+      "word": "刘慈欣说流浪地球团队是永动机",
+      "onboard_time": 1674977313,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 339910,
@@ -745,14 +769,6 @@
       "onboard_time": 1674961355,
       "rank": 47,
       "category": "教育,影视"
-    },
-    {
-      "raw_hot": 331528,
-      "num": 331528,
-      "word": "满江红实时票房破30亿",
-      "onboard_time": 1674975454,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 325364,
@@ -1059,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199966,
+      "num": 199966,
+      "word": "警方通报胡某宇遗体已找到",
+      "onboard_time": 1674976833,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198305,
       "num": 198305,
       "word": "像极了烂尾楼要开始赶工期",
@@ -1097,6 +1121,22 @@
       "onboard_time": 1674927017,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181979,
+      "num": 181979,
+      "word": "安欣李响好像图图爸妈",
+      "onboard_time": 1674977071,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 181559,
+      "num": 181559,
+      "word": "李一桐一字马花絮",
+      "onboard_time": 1674976774,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 181275,
@@ -1177,6 +1217,14 @@
       "onboard_time": 1674956187,
       "rank": 37,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 158960,
+      "num": 2521140,
+      "word": "爸妈硬塞行李的操作防不胜防",
+      "onboard_time": 1674977071,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156899,
