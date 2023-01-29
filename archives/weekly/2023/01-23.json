@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674960482470,
+  "endTime": 1674961061387,
   "band_list": [
     {
       "raw_hot": 4493529,
@@ -11,8 +11,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 3829316,
-      "num": 3829316,
+      "raw_hot": 4007276,
+      "num": 4007276,
       "word": "辉瑞",
       "onboard_time": 1674948138,
       "rank": 0,
@@ -75,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2676564,
+      "num": 2676564,
+      "word": "性暴力的展示在电影中不是必需的",
+      "onboard_time": 1674953184,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2650955,
       "num": 2650955,
       "word": "建议查查张颂文 不像演的",
@@ -96,14 +104,6 @@
       "word": "狂飙",
       "onboard_time": 1674385525,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 2428347,
-      "num": 2428347,
-      "word": "性暴力的展示在电影中不是必需的",
-      "onboard_time": 1674953184,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1519277,
+      "num": 1519277,
+      "word": "辉瑞考虑自行研发COVID病毒变种",
+      "onboard_time": 1674954150,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1508159,
       "num": 435360,
       "word": "儿子儿媳除夕夜对83岁母亲拳打脚踢",
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1447532,
+      "num": 1447532,
+      "word": "王力宏演唱会",
+      "onboard_time": 1674959488,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1432825,
       "num": 1432825,
       "word": "国道警示下坡已死亡37人引质疑",
@@ -505,6 +521,14 @@
       "onboard_time": 1674530785,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1401197,
+      "num": 1401197,
+      "word": "瘦金体",
+      "onboard_time": 1674958827,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1383955,
@@ -547,28 +571,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1353570,
-      "num": 1327350,
-      "word": "瘦金体",
-      "onboard_time": 1674958827,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1346722,
       "num": 1346722,
       "word": "安欣孟钰be",
       "onboard_time": 1674735928,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1338182,
-      "num": 1338182,
-      "word": "辉瑞考虑自行研发COVID病毒变种",
-      "onboard_time": 1674954150,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1331174,
@@ -1155,14 +1163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1003023,
-      "num": 1003023,
-      "word": "王力宏演唱会",
-      "onboard_time": 1674959488,
-      "rank": 9,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 996485,
       "num": 996485,
       "word": "张译李一桐吻戏",
@@ -1433,6 +1433,14 @@
       "onboard_time": 1674823828,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 889341,
+      "num": 889341,
+      "word": "专家回应教材删除岳飞满江红",
+      "onboard_time": 1674959550,
+      "rank": 16,
+      "category": "教育,影视"
     },
     {
       "raw_hot": 889042,
@@ -1883,6 +1891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 744065,
+      "num": 744065,
+      "word": "游客拍到摊贩偷换车厘子全过程",
+      "onboard_time": 1674956966,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 743551,
       "num": 743551,
       "word": "外国女婿回村过年被烟花吵醒",
@@ -2320,14 +2336,6 @@
       "word": "女子零下14度观影被冻到扶墙退场",
       "onboard_time": 1674646952,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 666842,
-      "num": 666842,
-      "word": "游客拍到摊贩偷换车厘子全过程",
-      "onboard_time": 1674956966,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -3011,6 +3019,14 @@
       "category": "时尚,社会新闻"
     },
     {
+      "raw_hot": 565507,
+      "num": 565507,
+      "word": "肖战蝉联泰国wetv最佳演员",
+      "onboard_time": 1674960808,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 563692,
       "num": 563692,
       "word": "肖战祝大家大展鸿兔",
@@ -3379,14 +3395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 518784,
-      "num": 518784,
-      "word": "专家回应教材删除岳飞满江红",
-      "onboard_time": 1674959550,
-      "rank": 16,
-      "category": "教育,影视"
-    },
-    {
       "raw_hot": 518330,
       "num": 518330,
       "word": "仙女棒在橘子里不会灭",
@@ -3667,6 +3675,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 496698,
+      "num": 496698,
+      "word": "山东省考",
+      "onboard_time": 1674959789,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 495773,
       "num": 495773,
       "word": "过年才知道自己辈分这么小",
@@ -3696,6 +3712,14 @@
       "word": "中疾控发布全国新冠感染情况",
       "onboard_time": 1674644071,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 493704,
+      "num": 493704,
+      "word": "外卖小哥过年3天赚2695元",
+      "onboard_time": 1674957927,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -3955,6 +3979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 458231,
+      "num": 458231,
+      "word": "三体恭喜于老师喜提一级演员",
+      "onboard_time": 1674958947,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 457279,
       "num": 457279,
       "word": "张颂文曾为震区提供保暖方法",
@@ -3993,14 +4025,6 @@
       "onboard_time": 1674485130,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 452784,
-      "num": 452784,
-      "word": "外卖小哥过年3天赚2695元",
-      "onboard_time": 1674957927,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 451563,
@@ -4177,14 +4201,6 @@
       "onboard_time": 1674614543,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 430283,
-      "num": 430283,
-      "word": "山东省考",
-      "onboard_time": 1674959789,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 430008,
@@ -5225,14 +5241,6 @@
       "onboard_time": 1674959848,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 362387,
-      "num": 362387,
-      "word": "三体恭喜于老师喜提一级演员",
-      "onboard_time": 1674958947,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 362355,
@@ -9395,6 +9403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189643,
+      "num": 189643,
+      "word": "叶舒华送礼物给坐轮椅粉丝",
+      "onboard_time": 1674960688,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189389,
       "num": 189389,
       "word": "不想上班",
@@ -10651,6 +10667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154991,
+      "num": 154991,
+      "word": "结婚仪式感很重要吗",
+      "onboard_time": 1674959070,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154821,
       "num": 154821,
       "word": "过年不适合换新发型",
@@ -10971,6 +10995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146655,
+      "num": 146655,
+      "word": "你的学习计划开始实施了吗",
+      "onboard_time": 1674960688,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 146627,
       "num": 146627,
       "word": "TXT新专辑预售量突破216万张",
@@ -11041,14 +11073,6 @@
       "onboard_time": 1674460762,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144801,
-      "num": 144801,
-      "word": "结婚仪式感很重要吗",
-      "onboard_time": 1674959070,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 144561,

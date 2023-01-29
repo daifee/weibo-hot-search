@@ -1,0 +1,410 @@
+{
+  "runTime": 1674961061387,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4007276,
+        "num": 4007276,
+        "word": "辉瑞",
+        "onboard_time": 1674948138,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2676564,
+        "num": 2676564,
+        "word": "性暴力的展示在电影中不是必需的",
+        "onboard_time": 1674953184,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93289,
+        "num": 2070646,
+        "word": "带着思念期待着下次相见",
+        "onboard_time": 1674911189,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1749752,
+        "num": 1749752,
+        "word": "以前票房反超了会画海报恭喜对方",
+        "onboard_time": 1674953126,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1519277,
+        "num": 1519277,
+        "word": "辉瑞考虑自行研发COVID病毒变种",
+        "onboard_time": 1674954150,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1447532,
+        "num": 1447532,
+        "word": "王力宏演唱会",
+        "onboard_time": 1674959488,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1431698,
+        "num": 1431698,
+        "word": "故意推倒摩托车的老人已去世",
+        "onboard_time": 1674953787,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1401197,
+        "num": 1401197,
+        "word": "瘦金体",
+        "onboard_time": 1674958827,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 889341,
+        "num": 889341,
+        "word": "专家回应教材删除岳飞满江红",
+        "onboard_time": 1674959550,
+        "rank": 8,
+        "category": "教育,影视"
+      },
+      {
+        "raw_hot": 1336374,
+        "num": 887867,
+        "word": "满江红",
+        "onboard_time": 1674909809,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 881812,
+        "num": 881812,
+        "word": "网友酒吧偶遇鹿晗",
+        "onboard_time": 1674954987,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1832767,
+        "num": 869689,
+        "word": "4位大V回应被满江红片方起诉",
+        "onboard_time": 1674952706,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 828869,
+        "num": 828869,
+        "word": "狂飙原型",
+        "onboard_time": 1674955767,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 975604,
+        "num": 803475,
+        "word": "满江红片方起诉造谣者",
+        "onboard_time": 1674912270,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 744065,
+        "num": 744065,
+        "word": "游客拍到摊贩偷换车厘子全过程",
+        "onboard_time": 1674956966,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617645,
+        "num": 617645,
+        "word": "王鹤棣在炸串店做饭",
+        "onboard_time": 1674955949,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565507,
+        "num": 565507,
+        "word": "肖战蝉联泰国wetv最佳演员",
+        "onboard_time": 1674960808,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561114,
+        "num": 561114,
+        "word": "这个省凭什么春节游客量全国第一",
+        "onboard_time": 1674954209,
+        "rank": 17,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 509827,
+        "num": 509827,
+        "word": "61岁小伙子刘德华",
+        "onboard_time": 1674952766,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 496698,
+        "num": 496698,
+        "word": "山东省考",
+        "onboard_time": 1674959789,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 493704,
+        "num": 493704,
+        "word": "外卖小哥过年3天赚2695元",
+        "onboard_time": 1674957927,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461573,
+        "num": 461573,
+        "word": "陈书婷假死",
+        "onboard_time": 1674912512,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 458231,
+        "num": 458231,
+        "word": "三体恭喜于老师喜提一级演员",
+        "onboard_time": 1674958947,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396322,
+        "num": 396322,
+        "word": "沈逸回应满江红官博起诉",
+        "onboard_time": 1674914550,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380718,
+        "num": 380718,
+        "word": "SuperJunior的小卡",
+        "onboard_time": 1674958827,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376342,
+        "num": 376342,
+        "word": "年轻人在结一种很新的婚",
+        "onboard_time": 1674948980,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 369501,
+        "num": 369501,
+        "word": "流浪地球",
+        "onboard_time": 1674957328,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343452,
+        "num": 343452,
+        "word": "狂飙",
+        "onboard_time": 1674955109,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258132,
+        "num": 258132,
+        "word": "长辈认为晚辈不结婚的原因",
+        "onboard_time": 1674911011,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224682,
+        "num": 224682,
+        "word": "多个考试公布全年计划",
+        "onboard_time": 1674950004,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 281787,
+        "num": 221767,
+        "word": "刘耀文说自己是假期风景博主",
+        "onboard_time": 1674959848,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261224,
+        "num": 220633,
+        "word": "张颂文冲浪名言",
+        "onboard_time": 1674956309,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218455,
+        "num": 218455,
+        "word": "tangoz拒绝私联",
+        "onboard_time": 1674959728,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236827,
+        "num": 217660,
+        "word": "孟钰嫁给了杨健",
+        "onboard_time": 1674914670,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202413,
+        "num": 202413,
+        "word": "边伯贤退伍倒计时最后一周",
+        "onboard_time": 1674958047,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189643,
+        "num": 189643,
+        "word": "叶舒华送礼物给坐轮椅粉丝",
+        "onboard_time": 1674960688,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168493,
+        "num": 168493,
+        "word": "人社部辟谣退休人员不认证停发养老金",
+        "onboard_time": 1674952107,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161312,
+        "num": 161312,
+        "word": "BLACKPINK和费德勒同框合照",
+        "onboard_time": 1674953184,
+        "rank": 37,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 160653,
+        "num": 160653,
+        "word": "男子捡黑太岁养4年增重14斤8两",
+        "onboard_time": 1674917609,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154991,
+        "num": 154991,
+        "word": "结婚仪式感很重要吗",
+        "onboard_time": 1674959070,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231890,
+        "num": 154803,
+        "word": "高晓晨声音",
+        "onboard_time": 1674950663,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187704,
+        "num": 154646,
+        "word": "张颂文被拒800次",
+        "onboard_time": 1674921028,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153511,
+        "num": 153511,
+        "word": "神隐仙灵神韵版海报",
+        "onboard_time": 1674959130,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152047,
+        "num": 152047,
+        "word": "过年结束后才明白的道理",
+        "onboard_time": 1674952227,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149650,
+        "num": 149650,
+        "word": "女子点外卖偷放钢丝16次敲诈商家",
+        "onboard_time": 1674923125,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146665,
+        "num": 146665,
+        "word": "沈月自曝多次大难不死",
+        "onboard_time": 1674922586,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146655,
+        "num": 146655,
+        "word": "你的学习计划开始实施了吗",
+        "onboard_time": 1674960688,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144888,
+        "num": 144888,
+        "word": "申鹏",
+        "onboard_time": 1674955048,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144483,
+        "num": 144483,
+        "word": "杨迪回应委屈传闻",
+        "onboard_time": 1674920728,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142947,
+        "num": 142947,
+        "word": "开工大吉",
+        "onboard_time": 1674958289,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#向着美好生活再出发#"
+    }
+  }
+}

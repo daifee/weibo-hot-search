@@ -1,18 +1,18 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674960482470,
+  "endTime": 1674961061387,
   "band_list": [
     {
-      "raw_hot": 3829316,
-      "num": 3829316,
+      "raw_hot": 4007276,
+      "num": 4007276,
       "word": "辉瑞",
       "onboard_time": 1674948138,
       "rank": 0,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2428347,
-      "num": 2428347,
+      "raw_hot": 2676564,
+      "num": 2676564,
       "word": "性暴力的展示在电影中不是必需的",
       "onboard_time": 1674953184,
       "rank": 1,
@@ -59,6 +59,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1519277,
+      "num": 1519277,
+      "word": "辉瑞考虑自行研发COVID病毒变种",
+      "onboard_time": 1674954150,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1447532,
+      "num": 1447532,
+      "word": "王力宏演唱会",
+      "onboard_time": 1674959488,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1439545,
       "num": 1129361,
       "word": "沈逸回应满江红官博起诉",
@@ -67,20 +83,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1353570,
-      "num": 1327350,
+      "raw_hot": 1401197,
+      "num": 1401197,
       "word": "瘦金体",
       "onboard_time": 1674958827,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1338182,
-      "num": 1338182,
-      "word": "辉瑞考虑自行研发COVID病毒变种",
-      "onboard_time": 1674954150,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1326044,
@@ -107,20 +115,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1003023,
-      "num": 1003023,
-      "word": "王力宏演唱会",
-      "onboard_time": 1674959488,
-      "rank": 9,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 937131,
       "num": 937131,
       "word": "狂飙原型",
       "onboard_time": 1674955767,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 889341,
+      "num": 889341,
+      "word": "专家回应教材删除岳飞满江红",
+      "onboard_time": 1674959550,
+      "rank": 16,
+      "category": "教育,影视"
     },
     {
       "raw_hot": 830381,
@@ -139,20 +147,20 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 744065,
+      "num": 744065,
+      "word": "游客拍到摊贩偷换车厘子全过程",
+      "onboard_time": 1674956966,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 686324,
       "num": 686324,
       "word": "张彪是狂飙第二个内鬼",
       "onboard_time": 1674910289,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 666842,
-      "num": 666842,
-      "word": "游客拍到摊贩偷换车厘子全过程",
-      "onboard_time": 1674956966,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 649327,
@@ -219,20 +227,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 565507,
+      "num": 565507,
+      "word": "肖战蝉联泰国wetv最佳演员",
+      "onboard_time": 1674960808,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553501,
       "num": 553501,
       "word": "孟钰嫁给了杨健",
       "onboard_time": 1674914670,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 518784,
-      "num": 518784,
-      "word": "专家回应教材删除岳飞满江红",
-      "onboard_time": 1674959550,
-      "rank": 16,
-      "category": "教育,影视"
     },
     {
       "raw_hot": 508442,
@@ -251,6 +259,30 @@
       "category": "教育"
     },
     {
+      "raw_hot": 496698,
+      "num": 496698,
+      "word": "山东省考",
+      "onboard_time": 1674959789,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 493704,
+      "num": 493704,
+      "word": "外卖小哥过年3天赚2695元",
+      "onboard_time": 1674957927,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458231,
+      "num": 458231,
+      "word": "三体恭喜于老师喜提一级演员",
+      "onboard_time": 1674958947,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 457189,
       "num": 457189,
       "word": "张颂文被拒800次",
@@ -265,14 +297,6 @@
       "onboard_time": 1674950663,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 452784,
-      "num": 452784,
-      "word": "外卖小哥过年3天赚2695元",
-      "onboard_time": 1674957927,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 440912,
@@ -297,14 +321,6 @@
       "onboard_time": 1674904828,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 430283,
-      "num": 430283,
-      "word": "山东省考",
-      "onboard_time": 1674959789,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 405349,
@@ -345,14 +361,6 @@
       "onboard_time": 1674959848,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 362387,
-      "num": 362387,
-      "word": "三体恭喜于老师喜提一级演员",
-      "onboard_time": 1674958947,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 348736,
@@ -531,6 +539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189643,
+      "num": 189643,
+      "word": "叶舒华送礼物给坐轮椅粉丝",
+      "onboard_time": 1674960688,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184225,
       "num": 133633,
       "word": "gidle翻跳Abracadabra",
@@ -627,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154991,
+      "num": 154991,
+      "word": "结婚仪式感很重要吗",
+      "onboard_time": 1674959070,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152874,
       "num": 152874,
       "word": "小车侧翻20多人蜂拥而上救援",
@@ -659,12 +683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144801,
-      "num": 144801,
-      "word": "结婚仪式感很重要吗",
-      "onboard_time": 1674959070,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 146655,
+      "num": 146655,
+      "word": "你的学习计划开始实施了吗",
+      "onboard_time": 1674960688,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 143038,
@@ -676,7 +700,7 @@
     },
     {
       "raw_hot": 141725,
-      "num": 1895318,
+      "num": 2070646,
       "word": "带着思念期待着下次相见",
       "onboard_time": 1674911189,
       "rank": 2,
