@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675024414193,
+  "endTime": 1675026893371,
   "band_list": [
     {
       "raw_hot": 2192090,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69090,
+      "num": 21385,
+      "word": "胡鑫宇寻人启事曾提及录音笔",
+      "onboard_time": 1675022353,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65117,
       "num": 65117,
       "word": "李一桐和符龙飞曾在相亲节目牵手成功",
@@ -459,20 +467,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53546,
-      "num": 21385,
-      "word": "胡鑫宇寻人启事曾提及录音笔",
-      "onboard_time": 1675022353,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50982,
       "num": 50982,
       "word": "女孩旅游前全屋铺满猫砂吓坏小猫",
       "onboard_time": 1675017674,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33031,
+      "num": 33031,
+      "word": "你觉得叶文洁值得被同情吗",
+      "onboard_time": 1675019833,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 32492,
@@ -499,12 +507,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 25911,
-      "num": 25911,
-      "word": "你觉得叶文洁值得被同情吗",
-      "onboard_time": 1675019833,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 18225,
+      "num": 18225,
+      "word": "不想上班",
+      "onboard_time": 1674862819,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 17039,
@@ -512,6 +520,14 @@
       "word": "困困困",
       "onboard_time": 1674865344,
       "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 13142,
+      "num": 13142,
+      "word": "开始7天渡劫",
+      "onboard_time": 1674864141,
+      "rank": 48,
       "category": "情感"
     }
   ],
