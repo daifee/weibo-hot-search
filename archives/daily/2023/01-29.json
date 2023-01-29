@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674988384990,
+  "endTime": 1674990864163,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -24,6 +24,14 @@
       "word": "胡鑫宇遗体现场发现一支录音笔",
       "onboard_time": 1674964246,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6269677,
+      "num": 6269677,
+      "word": "胡鑫宇尸检已完成",
+      "onboard_time": 1674988052,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -203,14 +211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1328105,
-      "num": 239382,
-      "word": "胡鑫宇尸检已完成",
-      "onboard_time": 1674988052,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1326044,
       "num": 983509,
       "word": "满江红片方起诉造谣者",
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 886338,
+      "num": 274404,
+      "word": "胡鑫宇家属在殡仪馆放鞭炮送行",
+      "onboard_time": 1674989253,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 868227,
       "num": 868227,
       "word": "黄梦莹签约新公司",
@@ -347,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 811746,
+      "num": 811746,
+      "word": "建议实现一户一笨",
+      "onboard_time": 1674987271,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 806641,
       "num": 806641,
       "word": "这个省凭什么春节游客量全国第一",
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795523,
+      "num": 795523,
+      "word": "张译年轻时颜值",
+      "onboard_time": 1674986190,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 788584,
       "num": 788584,
       "word": "流浪地球2破亿海报是小朋友的画",
@@ -371,15 +395,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 786002,
-      "num": 786002,
-      "word": "建议实现一户一笨",
-      "onboard_time": 1674987271,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 770309,
+      "raw_hot": 777966,
       "num": 673536,
       "word": "实地探访胡鑫宇被发现地",
       "onboard_time": 1674984091,
@@ -409,14 +425,6 @@
       "onboard_time": 1674965264,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 714466,
-      "num": 714466,
-      "word": "张译年轻时颜值",
-      "onboard_time": 1674986190,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 710583,
@@ -515,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 613341,
+      "num": 613341,
+      "word": "吴磊赵今麦芬兰开机路透",
+      "onboard_time": 1674988352,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 603052,
       "num": 603052,
       "word": "男子捡黑太岁养4年增重14斤8两",
@@ -603,6 +619,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 515173,
+      "num": 515173,
+      "word": "妈妈嫌狗脏影响女儿生娃偷偷送走",
+      "onboard_time": 1674989492,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515071,
+      "num": 515071,
+      "word": "范世錡参加哥哥前生病瘦了16斤",
+      "onboard_time": 1674988951,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 508442,
       "num": 508442,
       "word": "熊出没闷声发大财",
@@ -665,6 +697,14 @@
       "onboard_time": 1674977793,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 474691,
+      "num": 474691,
+      "word": "2个月没摘隐形眼镜镜片长在眼球上",
+      "onboard_time": 1674989553,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460594,
@@ -827,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371323,
+      "num": 371323,
+      "word": "MOSS是你吗",
+      "onboard_time": 1674989253,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 367939,
       "num": 367939,
       "word": "狂飙导演说张颂文让他非常惊喜",
@@ -865,6 +913,14 @@
       "onboard_time": 1674966585,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 354859,
+      "num": 354859,
+      "word": "为什么年轻人开始接受相亲了",
+      "onboard_time": 1674990633,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 348736,
@@ -977,6 +1033,14 @@
       "onboard_time": 1674971855,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 308581,
+      "num": 308581,
+      "word": "李光洁说我是全家天选做饭人",
+      "onboard_time": 1674990213,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 307136,
@@ -1171,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252501,
+      "num": 252501,
+      "word": "詹姆斯 裁判",
+      "onboard_time": 1674989976,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251673,
       "num": 251673,
       "word": "Danielle人歌ending",
@@ -1185,6 +1257,14 @@
       "onboard_time": 1674969160,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247577,
+      "num": 247577,
+      "word": "宋亚轩刘耀文新歌舞台版MV",
+      "onboard_time": 1674988410,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 246397,
@@ -1459,6 +1539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171792,
+      "num": 171792,
+      "word": "别给女生下定义",
+      "onboard_time": 1674988650,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170142,
       "num": 170142,
       "word": "春节拍了能做壁纸的照片",
@@ -1481,6 +1569,14 @@
       "onboard_time": 1674981030,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169596,
+      "num": 169596,
+      "word": "狂飙出品方商业版图",
+      "onboard_time": 1674989735,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 168086,
@@ -1515,6 +1611,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 159967,
+      "num": 159967,
+      "word": "山东小伙扮女装踩高跷娇媚无比",
+      "onboard_time": 1674988951,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156899,
       "num": 156899,
       "word": "兵马俑景区旁一碗面38元仅3根面条",
@@ -1545,6 +1649,14 @@
       "onboard_time": 1674956550,
       "rank": 41,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 152283,
+      "num": 152283,
+      "word": "刘耀文飞牌镜头",
+      "onboard_time": 1674990453,
+      "rank": 46,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 150926,
@@ -1657,14 +1769,6 @@
       "onboard_time": 1674909869,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129445,
-      "num": 129445,
-      "word": "吴磊赵今麦芬兰开机路透",
-      "onboard_time": 1674988352,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 129091,
