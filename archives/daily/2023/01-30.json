@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675028008416,
+  "endTime": 1675030593770,
   "band_list": [
     {
       "raw_hot": 2192090,
@@ -363,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134070,
+      "num": 48514,
+      "word": "胡鑫宇遗体发现地与其学校仅一墙之隔",
+      "onboard_time": 1675028652,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125884,
       "num": 125884,
       "word": "王俊凯牛仔外套机场路透",
@@ -427,12 +435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95478,
+      "num": 45751,
+      "word": "男子误把绿色动车当绿皮车抽烟被拘",
+      "onboard_time": 1675027091,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85337,
       "num": 85337,
       "word": "万达电影制作满江红海报出现错别字",
       "onboard_time": 1674984987,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 80278,
+      "num": 22071,
+      "word": "胡鑫宇寻人启事曾提及录音笔",
+      "onboard_time": 1675022353,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71823,
@@ -451,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69090,
-      "num": 21385,
-      "word": "胡鑫宇寻人启事曾提及录音笔",
-      "onboard_time": 1675022353,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65117,
       "num": 65117,
       "word": "李一桐和符龙飞曾在相亲节目牵手成功",
@@ -467,7 +483,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 50982,
+      "raw_hot": 51671,
       "num": 50982,
       "word": "女孩旅游前全屋铺满猫砂吓坏小猫",
       "onboard_time": 1675017674,
@@ -507,12 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22083,
-      "num": 22083,
-      "word": "男子误把绿色动车当绿皮车抽烟被拘",
-      "onboard_time": 1675027091,
-      "rank": 29,
+      "raw_hot": 25633,
+      "num": 22188,
+      "word": "河南矿山回应3名员工各领500万奖金",
+      "onboard_time": 1675029852,
+      "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18877,
+      "num": 18877,
+      "word": "困困困",
+      "onboard_time": 1674865344,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 18225,
@@ -520,14 +544,6 @@
       "word": "不想上班",
       "onboard_time": 1674862819,
       "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 17039,
-      "num": 17039,
-      "word": "困困困",
-      "onboard_time": 1674865344,
-      "rank": 44,
       "category": "情感"
     },
     {
