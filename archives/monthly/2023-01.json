@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1675012541576,
+  "endTime": 1675013601791,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -67969,6 +67969,14 @@
       "onboard_time": 1673900832,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 71022,
+      "num": 71022,
+      "word": "王鹤棣在篮筐下做引体向上",
+      "onboard_time": 1675012698,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 70831,
