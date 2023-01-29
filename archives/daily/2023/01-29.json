@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674995550312,
+  "endTime": 1674996612779,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -104,6 +104,14 @@
       "word": "故意推倒摩托车的老人已去世",
       "onboard_time": 1674953787,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1764173,
+      "num": 1764173,
+      "word": "女生期待薪资7千到1万被HR怒怼",
+      "onboard_time": 1674993811,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -235,8 +243,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1299368,
-      "num": 1299368,
+      "raw_hot": 1306599,
+      "num": 1306599,
       "word": "安欣准备卧底当大嫂",
       "onboard_time": 1674992672,
       "rank": 1,
@@ -257,6 +265,22 @@
       "onboard_time": 1674971133,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1188901,
+      "num": 583148,
+      "word": "殡仪馆称胡鑫宇已不是原来样貌",
+      "onboard_time": 1674995071,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1161461,
+      "num": 801600,
+      "word": "狂飙第三个内鬼",
+      "onboard_time": 1674995554,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1128910,
@@ -281,14 +305,6 @@
       "onboard_time": 1674970175,
       "rank": 43,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 1059634,
-      "num": 573752,
-      "word": "女生期待薪资7千到1万被HR怒怼",
-      "onboard_time": 1674993811,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1036106,
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 705422,
-      "num": 572434,
+      "num": 576358,
       "word": "胡鑫宇家属正申请异地公安侦查",
       "onboard_time": 1674991470,
       "rank": 19,
@@ -712,6 +728,14 @@
       "word": "赵露思说缘起劫落凤仪难隐",
       "onboard_time": 1674961355,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 503610,
+      "num": 503610,
+      "word": "狂飙演员演出前才知道自己真实身份",
+      "onboard_time": 1674994652,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -995,12 +1019,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 351275,
+      "num": 351275,
+      "word": "网友荆州偶遇李现",
+      "onboard_time": 1674995914,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348736,
       "num": 348736,
       "word": "国道警示下坡已死亡37人引质疑",
       "onboard_time": 1674902247,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348152,
+      "num": 348152,
+      "word": "安欣出手了",
+      "onboard_time": 1674995430,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 347881,
@@ -1041,14 +1081,6 @@
       "onboard_time": 1674974252,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337133,
-      "num": 245305,
-      "word": "狂飙演员演出前才知道自己真实身份",
-      "onboard_time": 1674994652,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 334063,
@@ -1291,20 +1323,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272449,
+      "num": 272449,
+      "word": "流浪地球2超90%场景在青岛拍摄",
+      "onboard_time": 1674992314,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269934,
       "num": 269934,
       "word": "陈飞宇珍珠毛衣造型",
       "onboard_time": 1674962921,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 266598,
-      "num": 240293,
-      "word": "殡仪馆称胡鑫宇已不是原来样貌",
-      "onboard_time": 1674995071,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266389,
@@ -1387,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242203,
+      "num": 242203,
+      "word": "周也的生图",
+      "onboard_time": 1674996453,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 240527,
       "num": 240527,
       "word": "苏翊鸣1980太帅了",
@@ -1401,14 +1441,6 @@
       "onboard_time": 1674966706,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235255,
-      "num": 235255,
-      "word": "流浪地球2超90%场景在青岛拍摄",
-      "onboard_time": 1674992314,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 232614,
@@ -1457,6 +1489,14 @@
       "onboard_time": 1674993154,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226390,
+      "num": 226390,
+      "word": "杨健爱孟钰吗",
+      "onboard_time": 1674996210,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 219960,
@@ -1683,6 +1723,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175578,
+      "num": 175578,
+      "word": "郭帆回应化缘大师热搜",
+      "onboard_time": 1674995613,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 174357,
+      "num": 174357,
+      "word": "中小学生可以参加哪些全国性竞赛",
+      "onboard_time": 1674995791,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 173964,
       "num": 173964,
       "word": "这种奶茶杯实为三无电子烟",
@@ -1708,7 +1764,7 @@
     },
     {
       "raw_hot": 170142,
-      "num": 170142,
+      "num": 1494298,
       "word": "春节拍了能做壁纸的照片",
       "onboard_time": 1674984631,
       "rank": 44,
@@ -1736,6 +1792,14 @@
       "word": "狂飙出品方商业版图",
       "onboard_time": 1674989735,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 168161,
+      "num": 168161,
+      "word": "狂飙35集预告",
+      "onboard_time": 1674996093,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -1833,14 +1897,6 @@
       "onboard_time": 1674958167,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150494,
-      "num": 150494,
-      "word": "安欣出手了",
-      "onboard_time": 1674995430,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 148914,
@@ -1961,6 +2017,14 @@
       "onboard_time": 1674916351,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128360,
+      "num": 128360,
+      "word": "心疼安欣",
+      "onboard_time": 1674995973,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 127784,

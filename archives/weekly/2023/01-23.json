@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674995550312,
+  "endTime": 1674996612779,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -345,6 +345,14 @@
       "onboard_time": 1674875125,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1764173,
+      "num": 1764173,
+      "word": "女生期待薪资7千到1万被HR怒怼",
+      "onboard_time": 1674993811,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1751692,
@@ -779,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1306599,
+      "num": 1306599,
+      "word": "安欣准备卧底当大嫂",
+      "onboard_time": 1674992672,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1305656,
       "num": 1305656,
       "word": "武汉长江宣布解散",
@@ -792,14 +808,6 @@
       "word": "白鹿张凌赫宁安如梦官宣海报",
       "onboard_time": 1674703406,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1299368,
-      "num": 1299368,
-      "word": "安欣准备卧底当大嫂",
-      "onboard_time": 1674992672,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -971,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1188901,
+      "num": 583148,
+      "word": "殡仪馆称胡鑫宇已不是原来样貌",
+      "onboard_time": 1674995071,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1188854,
       "num": 1188854,
       "word": "孟钰求婚被拒一秒含泪",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1674532285,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1161461,
+      "num": 801600,
+      "word": "狂飙第三个内鬼",
+      "onboard_time": 1674995554,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1158047,
@@ -1217,14 +1241,6 @@
       "onboard_time": 1674887904,
       "rank": 3,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 1059634,
-      "num": 573752,
-      "word": "女生期待薪资7千到1万被HR怒怼",
-      "onboard_time": 1674993811,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1058099,
@@ -2476,7 +2492,7 @@
     },
     {
       "raw_hot": 705422,
-      "num": 572434,
+      "num": 576358,
       "word": "胡鑫宇家属正申请异地公安侦查",
       "onboard_time": 1674991470,
       "rank": 19,
@@ -4049,6 +4065,14 @@
       "onboard_time": 1674540563,
       "rank": 32,
       "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 503610,
+      "num": 503610,
+      "word": "狂飙演员演出前才知道自己真实身份",
+      "onboard_time": 1674994652,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 503568,
@@ -6083,6 +6107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351275,
+      "num": 351275,
+      "word": "网友荆州偶遇李现",
+      "onboard_time": 1674995914,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351102,
       "num": 351102,
       "word": "李现的鞋带到底是怎么系的",
@@ -6160,6 +6192,14 @@
       "word": "张艺兴说渤哥新剧大年初三一起开始",
       "onboard_time": 1674564268,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 348152,
+      "num": 348152,
+      "word": "安欣出手了",
+      "onboard_time": 1674995430,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -6305,14 +6345,6 @@
       "onboard_time": 1674974252,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337133,
-      "num": 245305,
-      "word": "狂飙演员演出前才知道自己真实身份",
-      "onboard_time": 1674994652,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 336812,
@@ -7811,6 +7843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272449,
+      "num": 272449,
+      "word": "流浪地球2超90%场景在青岛拍摄",
+      "onboard_time": 1674992314,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272104,
       "num": 272104,
       "word": "C罗被铲伤",
@@ -7977,14 +8017,6 @@
       "onboard_time": 1674617005,
       "rank": 30,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 266598,
-      "num": 240293,
-      "word": "殡仪馆称胡鑫宇已不是原来样貌",
-      "onboard_time": 1674995071,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266389,
@@ -8715,6 +8747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242203,
+      "num": 242203,
+      "word": "周也的生图",
+      "onboard_time": 1674996453,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 242180,
       "num": 242180,
       "word": "流浪地球2票房破11亿",
@@ -8955,14 +8995,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 235255,
-      "num": 235255,
-      "word": "流浪地球2超90%场景在青岛拍摄",
-      "onboard_time": 1674992314,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234125,
       "num": 234125,
       "word": "儿子年后返程妈妈把特产塞满车",
@@ -9121,6 +9153,14 @@
       "onboard_time": 1674993154,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226390,
+      "num": 226390,
+      "word": "杨健爱孟钰吗",
+      "onboard_time": 1674996210,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 225978,
@@ -11043,6 +11083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175578,
+      "num": 175578,
+      "word": "郭帆回应化缘大师热搜",
+      "onboard_time": 1674995613,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175549,
       "num": 175549,
       "word": "春晚是妈妈是女儿网友版MV",
@@ -11105,6 +11153,14 @@
       "onboard_time": 1674531926,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174357,
+      "num": 174357,
+      "word": "中小学生可以参加哪些全国性竞赛",
+      "onboard_time": 1674995791,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 173943,
@@ -11212,7 +11268,7 @@
     },
     {
       "raw_hot": 170142,
-      "num": 170142,
+      "num": 1494298,
       "word": "春节拍了能做壁纸的照片",
       "onboard_time": 1674984631,
       "rank": 44,
@@ -11329,6 +11385,14 @@
       "onboard_time": 1674787765,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168161,
+      "num": 168161,
+      "word": "狂飙35集预告",
+      "onboard_time": 1674996093,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 168086,
@@ -11977,14 +12041,6 @@
       "onboard_time": 1674958167,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150494,
-      "num": 150494,
-      "word": "安欣出手了",
-      "onboard_time": 1674995430,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 150350,
