@@ -1,7 +1,15 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674961061387,
+  "endTime": 1674962408432,
   "band_list": [
+    {
+      "raw_hot": 12418676,
+      "num": 12418676,
+      "word": "胡鑫宇遗体被发现",
+      "onboard_time": 1674961170,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 4007276,
       "num": 4007276,
@@ -43,6 +51,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1658132,
+      "num": 1658132,
+      "word": "王力宏演唱会",
+      "onboard_time": 1674959488,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1609562,
       "num": 1609562,
       "word": "网友酒吧偶遇鹿晗",
@@ -65,14 +81,6 @@
       "onboard_time": 1674954150,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1447532,
-      "num": 1447532,
-      "word": "王力宏演唱会",
-      "onboard_time": 1674959488,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 1439545,
@@ -107,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1189919,
+      "num": 1189919,
+      "word": "专家回应教材删除岳飞满江红",
+      "onboard_time": 1674959550,
+      "rank": 16,
+      "category": "教育,影视"
+    },
+    {
       "raw_hot": 1036106,
       "num": 1036106,
       "word": "世卫更新应对辐射和核紧急情况关键药物清单",
@@ -121,14 +137,6 @@
       "onboard_time": 1674955767,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 889341,
-      "num": 889341,
-      "word": "专家回应教材删除岳飞满江红",
-      "onboard_time": 1674959550,
-      "rank": 16,
-      "category": "教育,影视"
     },
     {
       "raw_hot": 830381,
@@ -147,8 +155,8 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 744065,
-      "num": 744065,
+      "raw_hot": 796795,
+      "num": 796795,
       "word": "游客拍到摊贩偷换车厘子全过程",
       "onboard_time": 1674956966,
       "rank": 28,
@@ -160,6 +168,14 @@
       "word": "张彪是狂飙第二个内鬼",
       "onboard_time": 1674910289,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 675300,
+      "num": 675300,
+      "word": "61岁小伙子刘德华",
+      "onboard_time": 1674952766,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -185,14 +201,6 @@
       "onboard_time": 1674948980,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 632763,
-      "num": 632763,
-      "word": "61岁小伙子刘德华",
-      "onboard_time": 1674952766,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 622098,
@@ -227,12 +235,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 565507,
-      "num": 565507,
+      "raw_hot": 571020,
+      "num": 571020,
       "word": "肖战蝉联泰国wetv最佳演员",
       "onboard_time": 1674960808,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 567133,
+      "num": 567133,
+      "word": "辉瑞发文回应",
+      "onboard_time": 1674961294,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561158,
+      "num": 561158,
+      "word": "外卖小哥过年3天赚2695元",
+      "onboard_time": 1674957927,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553501,
@@ -251,6 +275,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 507994,
+      "num": 507994,
+      "word": "赵露思说缘起劫落凤仪难隐",
+      "onboard_time": 1674961355,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 498716,
       "num": 498716,
       "word": "多个考试公布全年计划",
@@ -267,12 +299,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 493704,
-      "num": 493704,
-      "word": "外卖小哥过年3天赚2695元",
-      "onboard_time": 1674957927,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 482452,
+      "num": 482452,
+      "word": "BLACKPINK今日舞台",
+      "onboard_time": 1674961840,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 463281,
+      "num": 463281,
+      "word": "郭帆 化缘大师",
+      "onboard_time": 1674961114,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 458231,
@@ -395,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326270,
+      "num": 326270,
+      "word": "神隐",
+      "onboard_time": 1674961960,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318068,
       "num": 318068,
       "word": "申鹏",
@@ -412,7 +460,7 @@
     },
     {
       "raw_hot": 315781,
-      "num": 251387,
+      "num": 266600,
       "word": "张颂文冲浪名言",
       "onboard_time": 1674956309,
       "rank": 32,
@@ -449,6 +497,14 @@
       "onboard_time": 1674918511,
       "rank": 17,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 277089,
+      "num": 277089,
+      "word": "tangoz拒绝私联",
+      "onboard_time": 1674959728,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 275496,
@@ -499,14 +555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 221865,
-      "num": 246980,
-      "word": "tangoz拒绝私联",
-      "onboard_time": 1674959728,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215328,
       "num": 215328,
       "word": "初八",
@@ -539,12 +587,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195502,
+      "num": 195502,
+      "word": "90后爸妈培养2岁儿子学做饭",
+      "onboard_time": 1674961536,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193032,
+      "num": 184455,
+      "word": "黄明昊说自己是好六街最靓的冷少",
+      "onboard_time": 1674962079,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189643,
       "num": 189643,
       "word": "叶舒华送礼物给坐轮椅粉丝",
       "onboard_time": 1674960688,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187994,
+      "num": 187994,
+      "word": "胡鑫宇失踪已超过百天",
+      "onboard_time": 1674961657,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184225,
@@ -635,6 +707,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 156311,
+      "num": 156311,
+      "word": "女子饭桌上试图劝亲友理性催婚",
+      "onboard_time": 1674962260,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156098,
       "num": 156098,
       "word": "大妈用鞋底暴抽秦桧跪像",
@@ -700,7 +780,7 @@
     },
     {
       "raw_hot": 141725,
-      "num": 2070646,
+      "num": 2748124,
       "word": "带着思念期待着下次相见",
       "onboard_time": 1674911189,
       "rank": 2,

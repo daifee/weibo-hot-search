@@ -1,7 +1,15 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674961061387,
+  "endTime": 1674962408432,
   "band_list": [
+    {
+      "raw_hot": 12418676,
+      "num": 12418676,
+      "word": "胡鑫宇遗体被发现",
+      "onboard_time": 1674961170,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 4493529,
       "num": 4493529,
@@ -307,6 +315,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1658132,
+      "num": 1658132,
+      "word": "王力宏演唱会",
+      "onboard_time": 1674959488,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1646635,
       "num": 1646635,
       "word": "盗摄",
@@ -489,14 +505,6 @@
       "onboard_time": 1674870924,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1447532,
-      "num": 1447532,
-      "word": "王力宏演唱会",
-      "onboard_time": 1674959488,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 1432825,
@@ -817,6 +825,14 @@
       "onboard_time": 1674738869,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1189919,
+      "num": 1189919,
+      "word": "专家回应教材删除岳飞满江红",
+      "onboard_time": 1674959550,
+      "rank": 16,
+      "category": "教育,影视"
     },
     {
       "raw_hot": 1188854,
@@ -1435,14 +1451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 889341,
-      "num": 889341,
-      "word": "专家回应教材删除岳飞满江红",
-      "onboard_time": 1674959550,
-      "rank": 16,
-      "category": "教育,影视"
-    },
-    {
       "raw_hot": 889042,
       "num": 889042,
       "word": "何立的腰",
@@ -1633,6 +1641,14 @@
       "onboard_time": 1674954209,
       "rank": 9,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 796795,
+      "num": 796795,
+      "word": "游客拍到摊贩偷换车厘子全过程",
+      "onboard_time": 1674956966,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 795942,
@@ -1889,14 +1905,6 @@
       "onboard_time": 1674905908,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 744065,
-      "num": 744065,
-      "word": "游客拍到摊贩偷换车厘子全过程",
-      "onboard_time": 1674956966,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 743551,
@@ -2307,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675300,
+      "num": 675300,
+      "word": "61岁小伙子刘德华",
+      "onboard_time": 1674952766,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 673796,
       "num": 673796,
       "word": "狂飙豆瓣评分涨至9.0分",
@@ -2585,14 +2601,6 @@
       "onboard_time": 1674908427,
       "rank": 31,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 632763,
-      "num": 632763,
-      "word": "61岁小伙子刘德华",
-      "onboard_time": 1674952766,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 632013,
@@ -2963,6 +2971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 571020,
+      "num": 571020,
+      "word": "肖战蝉联泰国wetv最佳演员",
+      "onboard_time": 1674960808,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 570561,
       "num": 570561,
       "word": "英国多家博物馆停止用木乃伊一词",
@@ -2995,6 +3011,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 567133,
+      "num": 567133,
+      "word": "辉瑞发文回应",
+      "onboard_time": 1674961294,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 566294,
       "num": 566294,
       "word": "希林娜依高在逃公主红毯造型",
@@ -3019,20 +3043,20 @@
       "category": "时尚,社会新闻"
     },
     {
-      "raw_hot": 565507,
-      "num": 565507,
-      "word": "肖战蝉联泰国wetv最佳演员",
-      "onboard_time": 1674960808,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 563692,
       "num": 563692,
       "word": "肖战祝大家大展鸿兔",
       "onboard_time": 1674616763,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 561158,
+      "num": 561158,
+      "word": "外卖小哥过年3天赚2695元",
+      "onboard_time": 1674957927,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560057,
@@ -3523,6 +3547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 507994,
+      "num": 507994,
+      "word": "赵露思说缘起劫落凤仪难隐",
+      "onboard_time": 1674961355,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 506777,
       "num": 464014,
       "word": "王一博无名实时票房破3亿剧照",
@@ -3715,14 +3747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 493704,
-      "num": 493704,
-      "word": "外卖小哥过年3天赚2695元",
-      "onboard_time": 1674957927,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 493539,
       "num": 493539,
       "word": "流浪地球2票房破20亿",
@@ -3801,6 +3825,14 @@
       "onboard_time": 1674905488,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 482452,
+      "num": 482452,
+      "word": "BLACKPINK今日舞台",
+      "onboard_time": 1674961840,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 482062,
@@ -3937,6 +3969,14 @@
       "onboard_time": 1674745292,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463281,
+      "num": 463281,
+      "word": "郭帆 化缘大师",
+      "onboard_time": 1674961114,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 462766,
@@ -5851,6 +5891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326270,
+      "num": 326270,
+      "word": "神隐",
+      "onboard_time": 1674961960,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325645,
       "num": 325645,
       "word": "兔子洞里什么样",
@@ -6100,7 +6148,7 @@
     },
     {
       "raw_hot": 315781,
-      "num": 251387,
+      "num": 266600,
       "word": "张颂文冲浪名言",
       "onboard_time": 1674956309,
       "rank": 32,
@@ -6881,6 +6929,14 @@
       "onboard_time": 1674705627,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 277089,
+      "num": 277089,
+      "word": "tangoz拒绝私联",
+      "onboard_time": 1674959728,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 276677,
@@ -8283,14 +8339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221865,
-      "num": 246980,
-      "word": "tangoz拒绝私联",
-      "onboard_time": 1674959728,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221579,
       "num": 221579,
       "word": "初五",
@@ -9171,6 +9219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195502,
+      "num": 195502,
+      "word": "90后爸妈培养2岁儿子学做饭",
+      "onboard_time": 1674961536,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195409,
       "num": 195409,
       "word": "魔兽世界停服",
@@ -9289,6 +9345,14 @@
       "onboard_time": 1674464904,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193032,
+      "num": 184455,
+      "word": "黄明昊说自己是好六街最靓的冷少",
+      "onboard_time": 1674962079,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 192671,
@@ -9480,6 +9544,14 @@
       "word": "气球大叔一开口城管哭了",
       "onboard_time": 1674669975,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187994,
+      "num": 187994,
+      "word": "胡鑫宇失踪已超过百天",
+      "onboard_time": 1674961657,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -10044,7 +10116,7 @@
     },
     {
       "raw_hot": 172797,
-      "num": 2282109,
+      "num": 2748124,
       "word": "带着思念期待着下次相见",
       "onboard_time": 1674911189,
       "rank": 2,
@@ -10584,6 +10656,14 @@
       "word": "起底河南被曝体罚学生背后公司",
       "onboard_time": 1674905247,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156311,
+      "num": 156311,
+      "word": "女子饭桌上试图劝亲友理性催婚",
+      "onboard_time": 1674962260,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
