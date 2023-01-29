@@ -1,0 +1,410 @@
+{
+  "runTime": 1675012541576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 921988,
+        "num": 921988,
+        "word": "女子不顾父母反对嫁人感叹赌对了",
+        "onboard_time": 1675007670,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739760,
+        "num": 739760,
+        "word": "胡鑫宇尸检已完成",
+        "onboard_time": 1674988052,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63033,
+        "num": 613297,
+        "word": "春节拍了能做壁纸的照片",
+        "onboard_time": 1674984631,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519677,
+        "num": 519677,
+        "word": "29岁的张译28岁的沈腾",
+        "onboard_time": 1675004676,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 508265,
+        "num": 508265,
+        "word": "狂飙第三个内鬼",
+        "onboard_time": 1674995554,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1001443,
+        "num": 497715,
+        "word": "殡仪馆称胡鑫宇已不是原来样貌",
+        "onboard_time": 1674995071,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454316,
+        "num": 454316,
+        "word": "女子惊叹邻居为生儿子连生7女",
+        "onboard_time": 1675008448,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374335,
+        "num": 374335,
+        "word": "女生期待薪资7千到1万被HR怒怼",
+        "onboard_time": 1674993811,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320595,
+        "num": 320595,
+        "word": "大嫂嫁给谁 谁就是大哥",
+        "onboard_time": 1674999513,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288226,
+        "num": 288226,
+        "word": "满江红官博更换微博背景字体",
+        "onboard_time": 1674985049,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 629571,
+        "num": 288129,
+        "word": "胡鑫宇所在学校宿舍墙外就是金鸡山脚下",
+        "onboard_time": 1675000052,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292458,
+        "num": 282360,
+        "word": "孙子兵法登顶淘宝热搜",
+        "onboard_time": 1675007911,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267971,
+        "num": 267971,
+        "word": "狂飙演员演出前才知道自己真实身份",
+        "onboard_time": 1674994652,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262682,
+        "num": 262682,
+        "word": "宋雨琦粉丝见面会上哭了",
+        "onboard_time": 1675008089,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240957,
+        "num": 240957,
+        "word": "胡鑫宇亲属对发现地表示不可思议",
+        "onboard_time": 1675000352,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230019,
+        "num": 230019,
+        "word": "安欣孟钰彻底be",
+        "onboard_time": 1674997952,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195884,
+        "num": 195884,
+        "word": "女子晒老家镇上25万买的108平房子",
+        "onboard_time": 1674999634,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213090,
+        "num": 188844,
+        "word": "安欣准备卧底当大嫂",
+        "onboard_time": 1674992672,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200526,
+        "num": 177922,
+        "word": "地毯式搜索为何没找到胡鑫宇",
+        "onboard_time": 1674998255,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162445,
+        "num": 162445,
+        "word": "早年上过相亲节目的明星",
+        "onboard_time": 1675007309,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339846,
+        "num": 158765,
+        "word": "代理律师称真相很可能藏在录音笔里",
+        "onboard_time": 1675008326,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188092,
+        "num": 158206,
+        "word": "村民回忆发现胡鑫宇遗体状况",
+        "onboard_time": 1674991174,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155041,
+        "num": 155041,
+        "word": "刘銮雄拍卖77只奢侈品包估价超1600万",
+        "onboard_time": 1674991711,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153458,
+        "num": 153458,
+        "word": "为什么年轻人开始接受相亲了",
+        "onboard_time": 1674990633,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151970,
+        "num": 151970,
+        "word": "图丫丫的房间壁纸是条形码",
+        "onboard_time": 1674992612,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147684,
+        "num": 147684,
+        "word": "如何判断胡鑫宇是自杀还是他杀",
+        "onboard_time": 1675004855,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900986,
+        "num": 147521,
+        "word": "都美竹开始拍戏了",
+        "onboard_time": 1675003713,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147303,
+        "num": 147303,
+        "word": "严浩翔灰发花絮照",
+        "onboard_time": 1675011560,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134561,
+        "num": 134561,
+        "word": "连褶子都一模一样",
+        "onboard_time": 1675004076,
+        "rank": 28,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 131110,
+        "num": 131110,
+        "word": "2个月没摘隐形眼镜镜片长在眼球上",
+        "onboard_time": 1674989553,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113212,
+        "num": 113212,
+        "word": "妈妈嫌狗脏影响女儿生娃偷偷送走",
+        "onboard_time": 1674989492,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110658,
+        "num": 110658,
+        "word": "周也的生图",
+        "onboard_time": 1674996453,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 108617,
+        "num": 108617,
+        "word": "张颂文说希望大家不要写他很惨",
+        "onboard_time": 1674992975,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103746,
+        "num": 103746,
+        "word": "建议实现一户一笨",
+        "onboard_time": 1674987271,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102544,
+        "num": 102544,
+        "word": "谢兴阳离谱又好笑的一生",
+        "onboard_time": 1675007848,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98100,
+        "num": 98100,
+        "word": "吴京问你老大是不是MOSS",
+        "onboard_time": 1675002156,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96893,
+        "num": 96893,
+        "word": "王嘉尔Lollapalooza音乐节舞台",
+        "onboard_time": 1675006232,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88847,
+        "num": 88847,
+        "word": "刘海宽包场电影无名",
+        "onboard_time": 1675004076,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85337,
+        "num": 85337,
+        "word": "万达电影制作满江红海报出现错别字",
+        "onboard_time": 1674984987,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83955,
+        "num": 83955,
+        "word": "李硕珉吃煎饺",
+        "onboard_time": 1675003473,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81571,
+        "num": 81571,
+        "word": "张颂文称中国99.5%的演员收入极低",
+        "onboard_time": 1674975272,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80944,
+        "num": 80944,
+        "word": "WB发文抵制私生",
+        "onboard_time": 1675000533,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77805,
+        "num": 77805,
+        "word": "流浪地球2里那句出列不只是台词",
+        "onboard_time": 1674998193,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75896,
+        "num": 75896,
+        "word": "没想到还有舔狗玩具",
+        "onboard_time": 1675001014,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73363,
+        "num": 73363,
+        "word": "福建的流水席",
+        "onboard_time": 1675002510,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 71823,
+        "num": 71823,
+        "word": "时代少年团舞台怼脸镜头",
+        "onboard_time": 1675010603,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71817,
+        "num": 71817,
+        "word": "王俊凯牛仔外套机场路透",
+        "onboard_time": 1675001014,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70133,
+        "num": 70133,
+        "word": "胡鑫宇家属正申请异地公安侦查",
+        "onboard_time": 1674991470,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70036,
+        "num": 70036,
+        "word": "歼16飞行员说我们这些老家伙先上",
+        "onboard_time": 1675005752,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 65117,
+        "num": 65117,
+        "word": "李一桐和符龙飞曾在相亲节目牵手成功",
+        "onboard_time": 1674978691,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国活力#"
+    }
+  }
+}
