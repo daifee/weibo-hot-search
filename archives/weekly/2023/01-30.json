@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675016454426,
+  "endTime": 1675017270968,
   "band_list": [
     {
       "raw_hot": 2192090,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160592,
+      "num": 121920,
+      "word": "民政局开工离婚队伍排到门外",
+      "onboard_time": 1675015635,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158304,
       "num": 158304,
       "word": "长相思",
@@ -449,14 +457,6 @@
       "onboard_time": 1674978691,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 64023,
-      "num": 64023,
-      "word": "民政局开工离婚队伍排到门外",
-      "onboard_time": 1675015635,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31566,
