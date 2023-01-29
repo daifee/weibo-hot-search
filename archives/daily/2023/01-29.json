@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674981334204,
+  "endTime": 1674983793049,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -147,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1428140,
+      "num": 1428140,
+      "word": "李一桐和符龙飞曾在相亲节目牵手成功",
+      "onboard_time": 1674978691,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1418893,
       "num": 1418893,
       "word": "李健的裤子好短",
@@ -227,14 +235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1125109,
-      "num": 1125109,
-      "word": "李一桐和符龙飞曾在相亲节目牵手成功",
-      "onboard_time": 1674978691,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1115723,
       "num": 1115723,
       "word": "肖战片场看任敏的眼神",
@@ -291,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 903232,
+      "num": 903232,
+      "word": "女生练车把男友家撞出大洞",
+      "onboard_time": 1674978572,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 868227,
       "num": 868227,
       "word": "黄梦莹签约新公司",
@@ -320,6 +328,14 @@
       "word": "游客拍到摊贩偷换车厘子全过程",
       "onboard_time": 1674956966,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 792786,
+      "num": 792786,
+      "word": "年后第一天上班民政局人山人海",
+      "onboard_time": 1674980012,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -355,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 710583,
+      "num": 710583,
+      "word": "张颂文本人还没有看狂飙",
+      "onboard_time": 1674978271,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 707307,
       "num": 707307,
       "word": "61岁小伙子刘德华",
@@ -379,28 +403,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 679647,
-      "num": 679647,
-      "word": "张颂文本人还没有看狂飙",
-      "onboard_time": 1674978271,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 669387,
       "num": 669387,
       "word": "詹姆斯给裁判跪了",
       "onboard_time": 1674968440,
       "rank": 25,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 660842,
-      "num": 660842,
-      "word": "女生练车把男友家撞出大洞",
-      "onboard_time": 1674978572,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 649327,
@@ -467,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 587086,
+      "num": 587086,
+      "word": "杨笠直播回应推荐满江红",
+      "onboard_time": 1674980191,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 577823,
       "num": 577823,
       "word": "胡鑫宇家属委托律师将申请查阅案件材料",
@@ -512,6 +528,14 @@
       "word": "孟钰嫁给了杨健",
       "onboard_time": 1674914670,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 521152,
+      "num": 521152,
+      "word": "田曦薇新上错花轿嫁对郎舞剑路透",
+      "onboard_time": 1674980732,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -576,14 +600,6 @@
       "word": "沈腾易烊千玺对戏没站稳",
       "onboard_time": 1674977793,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 460637,
-      "num": 457159,
-      "word": "杨笠直播回应推荐满江红",
-      "onboard_time": 1674980191,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -675,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418070,
+      "num": 418070,
+      "word": "一批新冠感染治疗药获批上市",
+      "onboard_time": 1674981809,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405349,
       "num": 223754,
       "word": "李一桐说赵樱子本人和听说的完全不一样",
@@ -755,28 +779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361098,
-      "num": 361098,
-      "word": "年后第一天上班民政局人山人海",
-      "onboard_time": 1674980012,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360529,
       "num": 360529,
       "word": "辉瑞中国资本版图盘点",
       "onboard_time": 1674966585,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 356581,
-      "num": 356581,
-      "word": "田曦薇新上错花轿嫁对郎舞剑路透",
-      "onboard_time": 1674980732,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 348736,
@@ -1027,6 +1035,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 257609,
+      "num": 257609,
+      "word": "于和伟发文祝贺自己获得一级演员",
+      "onboard_time": 1674981386,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257107,
       "num": 257107,
       "word": "沈月自曝多次大难不死",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1674971794,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 250623,
+      "num": 250623,
+      "word": "Danielle人歌ending",
+      "onboard_time": 1674982771,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 249804,
@@ -1211,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185103,
+      "num": 185103,
+      "word": "张译的柔韧度",
+      "onboard_time": 1674982890,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184225,
       "num": 133633,
       "word": "gidle翻跳Abracadabra",
@@ -1267,6 +1299,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177779,
+      "num": 177779,
+      "word": "感觉被鱼瞪了一眼",
+      "onboard_time": 1674982950,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 175108,
+      "num": 175108,
+      "word": "福建女生离乡返程妈妈含泪道别",
+      "onboard_time": 1674982950,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173964,
       "num": 173964,
       "word": "这种奶茶杯实为三无电子烟",
@@ -1283,12 +1331,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169629,
+      "num": 169629,
+      "word": "HLE对战GEN",
+      "onboard_time": 1674981030,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168086,
       "num": 168086,
       "word": "苏醒说第四节欧文",
       "onboard_time": 1674958708,
       "rank": 39,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 168034,
+      "num": 168034,
+      "word": "他们把红色官服穿出了少年的意气风发",
+      "onboard_time": 1674983548,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 166465,
@@ -1305,14 +1369,6 @@
       "onboard_time": 1674905488,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 164373,
-      "num": 164373,
-      "word": "HLE对战GEN",
-      "onboard_time": 1674981030,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 163751,
@@ -1385,6 +1441,14 @@
       "onboard_time": 1674960688,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 143975,
+      "num": 143975,
+      "word": "檀健次你好星期六花絮吃到停不下来",
+      "onboard_time": 1674982771,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 143038,
