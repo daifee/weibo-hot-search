@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674956506354,
+  "endTime": 1674957707087,
   "band_list": [
     {
       "raw_hot": 3829316,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2354380,
-      "num": 2354380,
+      "raw_hot": 2420445,
+      "num": 2420445,
       "word": "性暴力的展示在电影中不是必需的",
       "onboard_time": 1674953184,
       "rank": 1,
@@ -51,8 +51,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1472770,
-      "num": 1472770,
+      "raw_hot": 1593707,
+      "num": 1593707,
       "word": "故意推倒摩托车的老人已去世",
       "onboard_time": 1674953787,
       "rank": 6,
@@ -75,20 +75,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1325280,
+      "num": 1325280,
+      "word": "辉瑞考虑自行研发COVID病毒变种",
+      "onboard_time": 1674954150,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1319403,
       "num": 1319403,
       "word": "陈书婷假死",
       "onboard_time": 1674912512,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1269306,
-      "num": 1269306,
-      "word": "辉瑞考虑自行研发COVID病毒变种",
-      "onboard_time": 1674954150,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1036106,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 937131,
+      "num": 937131,
+      "word": "狂飙原型",
+      "onboard_time": 1674955767,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 830381,
       "num": 830381,
       "word": "长辈认为晚辈不结婚的原因",
@@ -107,8 +115,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 787711,
-      "num": 787711,
+      "raw_hot": 806641,
+      "num": 806641,
       "word": "这个省凭什么春节游客量全国第一",
       "onboard_time": 1674954209,
       "rank": 9,
@@ -131,12 +139,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 647332,
+      "num": 647332,
+      "word": "王鹤棣在炸串店做饭",
+      "onboard_time": 1674955949,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 639369,
       "num": 639369,
       "word": "年轻人在结一种很新的婚",
       "onboard_time": 1674948980,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 632763,
+      "num": 632763,
+      "word": "61岁小伙子刘德华",
+      "onboard_time": 1674952766,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 622098,
@@ -153,14 +177,6 @@
       "onboard_time": 1674920728,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 604650,
-      "num": 604650,
-      "word": "61岁小伙子刘德华",
-      "onboard_time": 1674952766,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 603052,
@@ -203,14 +219,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 473667,
-      "num": 473667,
-      "word": "王鹤棣在炸串店做饭",
-      "onboard_time": 1674955949,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 457189,
       "num": 457189,
       "word": "张颂文被拒800次",
@@ -235,11 +243,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 439401,
-      "num": 391150,
-      "word": "狂飙原型",
-      "onboard_time": 1674955767,
-      "rank": 20,
+      "raw_hot": 432865,
+      "num": 432865,
+      "word": "流浪地球",
+      "onboard_time": 1674957328,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -323,6 +331,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315781,
+      "num": 218136,
+      "word": "张颂文冲浪名言",
+      "onboard_time": 1674956309,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 290079,
+      "num": 290079,
+      "word": "过年结束后才明白的道理",
+      "onboard_time": 1674952227,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 288390,
       "num": 288390,
       "word": "BLACKPINK和费德勒同框合照",
@@ -363,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254593,
-      "num": 254593,
-      "word": "过年结束后才明白的道理",
-      "onboard_time": 1674952227,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 232614,
       "num": 232614,
       "word": "14岁女孩寒假自律生活令人赞叹",
@@ -393,6 +409,14 @@
       "onboard_time": 1674918090,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230336,
+      "num": 230336,
+      "word": "游客拍到摊贩偷换车厘子全过程",
+      "onboard_time": 1674956966,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229432,
@@ -419,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205764,
-      "num": 205764,
-      "word": "张颂文冲浪名言",
-      "onboard_time": 1674956309,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198305,
       "num": 198305,
       "word": "像极了烂尾楼要开始赶工期",
@@ -441,6 +457,14 @@
       "onboard_time": 1674927017,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180235,
+      "num": 180235,
+      "word": "西交大学子做16台机器人演流浪地球2",
+      "onboard_time": 1674951144,
+      "rank": 38,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 178060,
@@ -491,14 +515,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 162348,
-      "num": 162348,
-      "word": "西交大学子做16台机器人演流浪地球2",
-      "onboard_time": 1674951144,
-      "rank": 38,
-      "category": "影视,社会新闻"
-    },
-    {
       "raw_hot": 156899,
       "num": 156899,
       "word": "兵马俑景区旁一碗面38元仅3根面条",
@@ -513,6 +529,14 @@
       "onboard_time": 1674932053,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152874,
+      "num": 152874,
+      "word": "小车侧翻20多人蜂拥而上救援",
+      "onboard_time": 1674956550,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 150926,
@@ -532,7 +556,7 @@
     },
     {
       "raw_hot": 141725,
-      "num": 1796129,
+      "num": 1895318,
       "word": "带着思念期待着下次相见",
       "onboard_time": 1674911189,
       "rank": 2,
@@ -587,8 +611,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 123744,
-      "num": 123744,
+      "raw_hot": 123952,
+      "num": 123952,
       "word": "2023年考试日历",
       "onboard_time": 1674952766,
       "rank": 45,
@@ -633,6 +657,14 @@
       "onboard_time": 1674913652,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99086,
+      "num": 99086,
+      "word": "吴京被刘德华的京哥吓了一跳",
+      "onboard_time": 1674953848,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 94924,
