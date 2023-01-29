@@ -1,6 +1,6 @@
 {
   "startTime": 1674404621584,
-  "endTime": 1674998443261,
+  "endTime": 1674999199994,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2784099,
+      "num": 1446625,
+      "word": "殡仪馆称胡鑫宇已不是原来样貌",
+      "onboard_time": 1674995071,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2734356,
       "num": 2734356,
       "word": "张颂文称中国99.5%的演员收入极低",
@@ -169,14 +177,6 @@
       "onboard_time": 1674912512,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2394067,
-      "num": 1446625,
-      "word": "殡仪馆称胡鑫宇已不是原来样貌",
-      "onboard_time": 1674995071,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2327013,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1947243,
+      "num": 1947243,
+      "word": "狂飙第三个内鬼",
+      "onboard_time": 1674995554,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1895830,
       "num": 1895830,
       "word": "专家称新冠病毒有点传不动了",
@@ -361,14 +369,6 @@
       "onboard_time": 1674875125,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1754158,
-      "num": 1754158,
-      "word": "狂飙第三个内鬼",
-      "onboard_time": 1674995554,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 1751692,
@@ -1177,6 +1177,14 @@
       "onboard_time": 1674623064,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1092097,
+      "num": 750831,
+      "word": "杀我别用陆寒刀",
+      "onboard_time": 1674997232,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1091341,
@@ -2171,14 +2179,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 750831,
-      "num": 750831,
-      "word": "杀我别用陆寒刀",
-      "onboard_time": 1674997232,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 750697,
       "num": 750697,
       "word": "中国乒乓",
@@ -2355,6 +2355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 723550,
+      "num": 723550,
+      "word": "李一桐狂飙和三生三世司命联姻了",
+      "onboard_time": 1674997173,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 722816,
       "num": 722816,
       "word": "Naevis将于3月出道",
@@ -2488,6 +2496,14 @@
       "word": "张颂文本人还没有看狂飙",
       "onboard_time": 1674978271,
       "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 709402,
+      "num": 490778,
+      "word": "安欣孟钰彻底be",
+      "onboard_time": 1674997952,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -2635,6 +2651,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 683802,
+      "num": 664900,
+      "word": "狂飙演员演出前才知道自己真实身份",
+      "onboard_time": 1674994652,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 681350,
       "num": 681350,
       "word": "北海市监局回应4个菜1500元",
@@ -2745,14 +2769,6 @@
       "onboard_time": 1674530364,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 664900,
-      "num": 664900,
-      "word": "狂飙演员演出前才知道自己真实身份",
-      "onboard_time": 1674994652,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 664425,
@@ -2953,14 +2969,6 @@
       "onboard_time": 1674948980,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 638954,
-      "num": 638954,
-      "word": "李一桐狂飙和三生三世司命联姻了",
-      "onboard_time": 1674997173,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 638333,
@@ -6227,6 +6235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348788,
+      "num": 318146,
+      "word": "乱飙",
+      "onboard_time": 1674998552,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 348152,
       "num": 348152,
       "word": "安欣出手了",
@@ -6475,6 +6491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 332597,
+      "num": 332597,
+      "word": "三体世界被三日连珠毁灭",
+      "onboard_time": 1674998975,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332419,
       "num": 332419,
       "word": "宋亚轩贺峻霖的私人恩怨",
@@ -6672,14 +6696,6 @@
       "word": "狂飙豆瓣评分涨至8.9",
       "onboard_time": 1674483390,
       "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 322891,
-      "num": 322891,
-      "word": "安欣孟钰彻底be",
-      "onboard_time": 1674997952,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -7899,6 +7915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271750,
+      "num": 271750,
+      "word": "周深说创作流浪地球2主题曲时不知所措",
+      "onboard_time": 1674997052,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271560,
       "num": 182069,
       "word": "刘宇宁个人EP将与五位朋友合作五首歌",
@@ -8161,6 +8185,14 @@
       "onboard_time": 1674782666,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 261970,
+      "num": 237791,
+      "word": "流浪地球2里那句出列不只是台词",
+      "onboard_time": 1674998193,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 261935,
@@ -8449,14 +8481,6 @@
       "onboard_time": 1674828568,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252362,
-      "num": 241217,
-      "word": "周深说创作流浪地球2主题曲时不知所措",
-      "onboard_time": 1674997052,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 252237,
@@ -9027,6 +9051,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 235748,
+      "num": 1991034,
+      "word": "春节拍了能做壁纸的照片",
+      "onboard_time": 1674984631,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235425,
       "num": 235425,
       "word": "人还没进门礼就先进去了",
@@ -9113,6 +9145,14 @@
       "onboard_time": 1674691400,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 230505,
+      "num": 271784,
+      "word": "地毯式搜索为何没找到胡鑫宇",
+      "onboard_time": 1674998255,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230313,
@@ -9697,14 +9737,6 @@
       "onboard_time": 1674880707,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209801,
-      "num": 1762927,
-      "word": "春节拍了能做壁纸的照片",
-      "onboard_time": 1674984631,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209788,
@@ -10563,14 +10595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189766,
-      "num": 189766,
-      "word": "流浪地球2里那句出列不只是台词",
-      "onboard_time": 1674998193,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189389,
       "num": 189389,
       "word": "不想上班",
@@ -10744,14 +10768,6 @@
       "word": "外甥女跷二郎腿给舅舅发红包",
       "onboard_time": 1674465804,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186064,
-      "num": 186064,
-      "word": "地毯式搜索为何没找到胡鑫宇",
-      "onboard_time": 1674998255,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -11675,6 +11691,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 162790,
+      "num": 162790,
+      "word": "赵露思王安宇神隐吊威亚拥抱路透",
+      "onboard_time": 1674998133,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162679,
       "num": 89661,
       "word": "狂飙 看哭了",
@@ -11785,14 +11809,6 @@
       "onboard_time": 1674863480,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 158931,
-      "num": 158931,
-      "word": "赵露思王安宇神隐吊威亚拥抱路透",
-      "onboard_time": 1674998133,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 158728,
@@ -12345,6 +12361,14 @@
       "onboard_time": 1674820349,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145962,
+      "num": 145962,
+      "word": "怎么没看到沈腾",
+      "onboard_time": 1674998794,
+      "rank": 49,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 145632,
