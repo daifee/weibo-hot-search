@@ -1,0 +1,410 @@
+{
+  "runTime": 1674973299264,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5573315,
+        "num": 5573315,
+        "word": "胡鑫宇遗体被发现",
+        "onboard_time": 1674961170,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2608252,
+        "num": 2608252,
+        "word": "胡鑫宇母亲发文",
+        "onboard_time": 1674970293,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124294,
+        "num": 2582207,
+        "word": "带着满格电量拼出收获满满的一年",
+        "onboard_time": 1674966046,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2572804,
+        "num": 2572804,
+        "word": "树林中一缢吊尸体经检验系胡鑫宇",
+        "onboard_time": 1674962562,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1407768,
+        "num": 1407768,
+        "word": "警方曾搜胡鑫宇学校南侧树林山岗589亩",
+        "onboard_time": 1674969219,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1356570,
+        "num": 1356570,
+        "word": "女生要多漂亮才算漂亮",
+        "onboard_time": 1674970656,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1266812,
+        "num": 1266812,
+        "word": "王一博王传君一口吃完拿破仑",
+        "onboard_time": 1674972032,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1060968,
+        "num": 1060968,
+        "word": "春运多名女子为哺乳妈妈围人墙",
+        "onboard_time": 1674970175,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 901791,
+        "num": 901791,
+        "word": "韩国宣布出土20枚中国宋代钱币",
+        "onboard_time": 1674971133,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868565,
+        "num": 868565,
+        "word": "性暴力的展示在电影中不是必需的",
+        "onboard_time": 1674953184,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1383115,
+        "num": 816450,
+        "word": "胡鑫宇遗体现场发现一支录音笔",
+        "onboard_time": 1674964246,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942095,
+        "num": 787010,
+        "word": "4位大V回应被满江红片方起诉",
+        "onboard_time": 1674952706,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 696674,
+        "num": 696674,
+        "word": "胡鑫宇被发现时处于缢吊状态",
+        "onboard_time": 1674965204,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672974,
+        "num": 672974,
+        "word": "黄梦莹签约新公司",
+        "onboard_time": 1674969219,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663324,
+        "num": 663324,
+        "word": "肖战片场看任敏的眼神",
+        "onboard_time": 1674967184,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 662843,
+        "num": 662843,
+        "word": "辉瑞",
+        "onboard_time": 1674948138,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656251,
+        "num": 656251,
+        "word": "故意推倒摩托车的老人已去世",
+        "onboard_time": 1674953787,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612860,
+        "num": 612860,
+        "word": "李健的裤子好短",
+        "onboard_time": 1674965627,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 590465,
+        "num": 590465,
+        "word": "流浪地球2破亿海报是小朋友的画",
+        "onboard_time": 1674964905,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 512751,
+        "num": 512751,
+        "word": "詹姆斯给裁判跪了",
+        "onboard_time": 1674968440,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 459988,
+        "num": 459988,
+        "word": "西虹市首富里的徐冬冬",
+        "onboard_time": 1674963587,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440224,
+        "num": 440224,
+        "word": "苏翊鸣",
+        "onboard_time": 1674966167,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422618,
+        "num": 422618,
+        "word": "狂飙",
+        "onboard_time": 1674955109,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405579,
+        "num": 405579,
+        "word": "王力宏演唱会",
+        "onboard_time": 1674959488,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 404086,
+        "num": 404086,
+        "word": "BIGBANG太阳大声合体",
+        "onboard_time": 1674969873,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366393,
+        "num": 366393,
+        "word": "万达影城回应流浪地球线下票价300元",
+        "onboard_time": 1674963587,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353028,
+        "num": 353028,
+        "word": "吴昕40岁生日照",
+        "onboard_time": 1674973230,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298730,
+        "num": 298730,
+        "word": "这就是我不敢看中医的原因",
+        "onboard_time": 1674971855,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295869,
+        "num": 295869,
+        "word": "王嘉尔印度人气",
+        "onboard_time": 1674966766,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294663,
+        "num": 294663,
+        "word": "辉瑞发文回应",
+        "onboard_time": 1674961294,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293185,
+        "num": 293185,
+        "word": "以前票房反超了会画海报恭喜对方",
+        "onboard_time": 1674953126,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283989,
+        "num": 283989,
+        "word": "中学统编教材从未选编过满江红",
+        "onboard_time": 1674961355,
+        "rank": 31,
+        "category": "教育,影视"
+      },
+      {
+        "raw_hot": 275057,
+        "num": 275057,
+        "word": "三体神预言",
+        "onboard_time": 1674970534,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271908,
+        "num": 271908,
+        "word": "61岁小伙子刘德华",
+        "onboard_time": 1674952766,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260446,
+        "num": 260446,
+        "word": "高启强拉拢关系失败",
+        "onboard_time": 1674967962,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252648,
+        "num": 252648,
+        "word": "瘦金体",
+        "onboard_time": 1674958827,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233582,
+        "num": 233582,
+        "word": "苏翊鸣1980太帅了",
+        "onboard_time": 1674969758,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226766,
+        "num": 226766,
+        "word": "流浪地球",
+        "onboard_time": 1674957328,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226036,
+        "num": 226036,
+        "word": "外卖小哥过年3天赚2695元",
+        "onboard_time": 1674957927,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224020,
+        "num": 224020,
+        "word": "主人不起床饿的就是小猫了",
+        "onboard_time": 1674967184,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223420,
+        "num": 223420,
+        "word": "满江红片方起诉造谣者",
+        "onboard_time": 1674912270,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214396,
+        "num": 214396,
+        "word": "凯尔特人战胜湖人",
+        "onboard_time": 1674972691,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210052,
+        "num": 210052,
+        "word": "种地吧官宣定档",
+        "onboard_time": 1674967006,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206798,
+        "num": 206798,
+        "word": "满江红",
+        "onboard_time": 1674909809,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205176,
+        "num": 205176,
+        "word": "辉瑞中国资本版图盘点",
+        "onboard_time": 1674966585,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201876,
+        "num": 201876,
+        "word": "狂飙原型",
+        "onboard_time": 1674955767,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178328,
+        "num": 178328,
+        "word": "郭帆 化缘大师",
+        "onboard_time": 1674961114,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186022,
+        "num": 178185,
+        "word": "于正说张颂文的表演是男演员天花板",
+        "onboard_time": 1674964966,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176228,
+        "num": 176228,
+        "word": "赵露思王安宇新剧神隐的cp感",
+        "onboard_time": 1674971794,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166027,
+        "num": 166027,
+        "word": "这个省凭什么春节游客量全国第一",
+        "onboard_time": 1674954209,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国释放发展动力#"
+    }
+  }
+}
