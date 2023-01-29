@@ -1,6 +1,6 @@
 {
   "startTime": 1674923009000,
-  "endTime": 1674969375128,
+  "endTime": 1674970411738,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -163,8 +163,8 @@
       "category": "教育,影视"
     },
     {
-      "raw_hot": 1037073,
-      "num": 1037073,
+      "raw_hot": 1115723,
+      "num": 1115723,
       "word": "肖战片场看任敏的眼神",
       "onboard_time": 1674967184,
       "rank": 9,
@@ -203,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 868227,
+      "num": 868227,
+      "word": "黄梦莹签约新公司",
+      "onboard_time": 1674969219,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 830381,
       "num": 830381,
       "word": "长辈认为晚辈不结婚的原因",
@@ -224,6 +232,22 @@
       "word": "游客拍到摊贩偷换车厘子全过程",
       "onboard_time": 1674956966,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 788584,
+      "num": 788584,
+      "word": "流浪地球2破亿海报是小朋友的画",
+      "onboard_time": 1674964905,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 762823,
+      "num": 762823,
+      "word": "警方曾搜胡鑫宇学校南侧树林山岗589亩",
+      "onboard_time": 1674969219,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -257,6 +281,14 @@
       "onboard_time": 1674910289,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 669387,
+      "num": 669387,
+      "word": "詹姆斯给裁判跪了",
+      "onboard_time": 1674968440,
+      "rank": 25,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 649327,
@@ -307,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 588533,
-      "num": 588533,
-      "word": "流浪地球2破亿海报是小朋友的画",
-      "onboard_time": 1674964905,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 587764,
       "num": 587764,
       "word": "春节返程高铁清一色狂飙",
@@ -345,6 +369,14 @@
       "onboard_time": 1674966766,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 569441,
+      "num": 569441,
+      "word": "胡鑫宇母亲发文",
+      "onboard_time": 1674970293,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562412,
@@ -395,6 +427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 497732,
+      "num": 497732,
+      "word": "高启强拉拢关系失败",
+      "onboard_time": 1674967962,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 496698,
       "num": 496698,
       "word": "山东省考",
@@ -419,14 +459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 481878,
-      "num": 481878,
-      "word": "高启强拉拢关系失败",
-      "onboard_time": 1674967962,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 460594,
       "num": 460594,
       "word": "神隐",
@@ -441,14 +473,6 @@
       "onboard_time": 1674958947,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 457912,
-      "num": 457912,
-      "word": "詹姆斯给裁判跪了",
-      "onboard_time": 1674968440,
-      "rank": 25,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 457189,
@@ -491,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422428,
+      "num": 422428,
+      "word": "主人不起床饿的就是小猫了",
+      "onboard_time": 1674967184,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 421161,
       "num": 421161,
       "word": "赵露思王安宇神隐单人海报",
@@ -523,14 +555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 398814,
-      "num": 398814,
-      "word": "主人不起床饿的就是小猫了",
-      "onboard_time": 1674967184,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 396805,
       "num": 396805,
       "word": "陈乔恩说湖南睡衣你值得拥有",
@@ -547,20 +571,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379465,
+      "num": 379465,
+      "word": "BIGBANG太阳大声合体",
+      "onboard_time": 1674969873,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378876,
       "num": 378876,
       "word": "女子点外卖偷放钢丝16次敲诈商家",
       "onboard_time": 1674923125,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376577,
-      "num": 376577,
-      "word": "黄梦莹签约新公司",
-      "onboard_time": 1674969219,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 362417,
@@ -571,8 +595,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 359466,
-      "num": 359466,
+      "raw_hot": 360529,
+      "num": 360529,
       "word": "辉瑞中国资本版图盘点",
       "onboard_time": 1674966585,
       "rank": 44,
@@ -755,6 +779,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 266523,
+      "num": 266523,
+      "word": "春运多名女子为哺乳妈妈围人墙",
+      "onboard_time": 1674970175,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 257107,
       "num": 257107,
       "word": "沈月自曝多次大难不死",
@@ -779,20 +811,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240527,
+      "num": 240527,
+      "word": "苏翊鸣1980太帅了",
+      "onboard_time": 1674969758,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239388,
       "num": 239388,
       "word": "那些无法用普通话翻译的方言",
       "onboard_time": 1674966706,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233285,
-      "num": 233285,
-      "word": "警方曾搜胡鑫宇学校南侧树林山岗589亩",
-      "onboard_time": 1674969219,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232614,
@@ -825,6 +857,14 @@
       "onboard_time": 1674905908,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219960,
+      "num": 219960,
+      "word": "苏翊鸣XGames夺铜",
+      "onboard_time": 1674969819,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 217063,
@@ -1287,6 +1327,9 @@
     },
     {
       "word": "#向着美好生活再出发#"
+    },
+    {
+      "word": "#推进高质量共建一带一路#"
     }
   ]
 }
