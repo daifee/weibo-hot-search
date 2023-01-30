@@ -1,0 +1,410 @@
+{
+  "runTime": 1675091976463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1717522,
+        "num": 1717522,
+        "word": "孟德海 嘴型",
+        "onboard_time": 1675085430,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1616167,
+        "num": 1616167,
+        "word": "虞书欣易梦玲同框",
+        "onboard_time": 1675090055,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114074,
+        "num": 1418802,
+        "word": "原来中国科幻的背后是中国制造",
+        "onboard_time": 1675068812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1378702,
+        "num": 1378702,
+        "word": "女大学生寒假捡6天烟花纸壳卖不掉",
+        "onboard_time": 1675086332,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167851,
+        "num": 1167851,
+        "word": "杨幂戴假发没被人认出来",
+        "onboard_time": 1675087231,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1078258,
+        "num": 1078258,
+        "word": "高启强被刺杀",
+        "onboard_time": 1675083631,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1054833,
+        "num": 1054833,
+        "word": "北京三里屯酒吧街关停倒计时",
+        "onboard_time": 1675090115,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 960344,
+        "num": 960344,
+        "word": "胡鑫宇家属称尚不清楚录音笔内容",
+        "onboard_time": 1675087411,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802739,
+        "num": 802739,
+        "word": "网友泰国偶遇蔡徐坤",
+        "onboard_time": 1675087714,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 738785,
+        "num": 738785,
+        "word": "男子打球6天后发现头顶卡对手2颗牙",
+        "onboard_time": 1675083153,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 987852,
+        "num": 723651,
+        "word": "狂飙反派云道歉会",
+        "onboard_time": 1675090835,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 628353,
+        "num": 628353,
+        "word": "流浪地球杀疯了",
+        "onboard_time": 1675078653,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 599629,
+        "num": 599629,
+        "word": "吉林警方回应高三女孩失踪87天",
+        "onboard_time": 1675090353,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572601,
+        "num": 572601,
+        "word": "高启兰好美啊",
+        "onboard_time": 1675085911,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477414,
+        "num": 477414,
+        "word": "原来真的会有人爱你像宠小孩",
+        "onboard_time": 1675085970,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 567298,
+        "num": 475603,
+        "word": "孟钰给自己下毒",
+        "onboard_time": 1675083032,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468392,
+        "num": 468392,
+        "word": "刘慈欣说流浪地球2是电影团队原创",
+        "onboard_time": 1675086694,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 458611,
+        "num": 458611,
+        "word": "杭州岳庙秦桧像被砸烂9次",
+        "onboard_time": 1675076614,
+        "rank": 17,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 411668,
+        "num": 411668,
+        "word": "才知道最牛的软件是12306",
+        "onboard_time": 1675081230,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 388463,
+        "num": 388463,
+        "word": "怎么看田亮女儿女承父业",
+        "onboard_time": 1675069170,
+        "rank": 19,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 369765,
+        "num": 369765,
+        "word": "流浪地球票房",
+        "onboard_time": 1675086273,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368164,
+        "num": 368164,
+        "word": "尸检能否查明死亡原因",
+        "onboard_time": 1675084353,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332747,
+        "num": 332747,
+        "word": "突然觉得结婚不可怕了",
+        "onboard_time": 1675091314,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330884,
+        "num": 330884,
+        "word": "女孩寒假摆摊卖玩具半月赚万元",
+        "onboard_time": 1675085495,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311576,
+        "num": 311576,
+        "word": "胡鑫宇遗体在学校后山仓库被找到",
+        "onboard_time": 1675053514,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309565,
+        "num": 309565,
+        "word": "广东人家里都会有的东西",
+        "onboard_time": 1675084353,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275042,
+        "num": 275042,
+        "word": "网友喊话山东强盛集团自首",
+        "onboard_time": 1675081051,
+        "rank": 26,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 267857,
+        "num": 267857,
+        "word": "流浪地球2跻身北美周末票房前十",
+        "onboard_time": 1675074988,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258509,
+        "num": 258509,
+        "word": "为什么男生分手时都那么狠心",
+        "onboard_time": 1675069591,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254042,
+        "num": 254042,
+        "word": "原来笨笨是被踹下去的",
+        "onboard_time": 1675082971,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1377912,
+        "num": 253916,
+        "word": "官方回应发现胡鑫宇尸体通报只写金鸡山",
+        "onboard_time": 1675090475,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231899,
+        "num": 231899,
+        "word": "刘慈欣谈太空电梯和数字永生",
+        "onboard_time": 1675089933,
+        "rank": 31,
+        "category": "科技,影视"
+      },
+      {
+        "raw_hot": 229741,
+        "num": 229741,
+        "word": "四川回应生育登记取消结婚限制",
+        "onboard_time": 1675071750,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226641,
+        "num": 226641,
+        "word": "当你有个很会做衣服的妈妈",
+        "onboard_time": 1675087956,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218369,
+        "num": 218369,
+        "word": "张颂文修改全民K歌个性签名",
+        "onboard_time": 1675072351,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203395,
+        "num": 203395,
+        "word": "宋威龙演技",
+        "onboard_time": 1675078410,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201153,
+        "num": 201153,
+        "word": "卫星视角速览胡鑫宇案",
+        "onboard_time": 1675085254,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200902,
+        "num": 200902,
+        "word": "会走路和不会走路的都沉默了",
+        "onboard_time": 1675085854,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197846,
+        "num": 197846,
+        "word": "三体第17集好刺激",
+        "onboard_time": 1675083813,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192354,
+        "num": 192354,
+        "word": "中核集团力挺流浪地球",
+        "onboard_time": 1675082248,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190758,
+        "num": 190758,
+        "word": "金采源FEARLESS舞蹈挑战",
+        "onboard_time": 1675089393,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181902,
+        "num": 181902,
+        "word": "胡鑫宇案律师称准备申请刑事立案",
+        "onboard_time": 1675090714,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180967,
+        "num": 180967,
+        "word": "刚出道时的王力宏",
+        "onboard_time": 1675079851,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157420,
+        "num": 157420,
+        "word": "第一次想用油腻形容猫",
+        "onboard_time": 1675078828,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155189,
+        "num": 155189,
+        "word": "井柏然台词",
+        "onboard_time": 1675081768,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155034,
+        "num": 155034,
+        "word": "狂飙 泪目",
+        "onboard_time": 1675086514,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150541,
+        "num": 150541,
+        "word": "梅西世界杯后首度接受采访",
+        "onboard_time": 1675091673,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150399,
+        "num": 150399,
+        "word": "难听",
+        "onboard_time": 1675072829,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149731,
+        "num": 149731,
+        "word": "日本船只非法进入我钓鱼岛领海",
+        "onboard_time": 1675079670,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 143018,
+        "num": 143018,
+        "word": "白敬亭十二宫格随拍",
+        "onboard_time": 1675089035,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#回味中国年喜迎开门红#"
+    }
+  }
+}

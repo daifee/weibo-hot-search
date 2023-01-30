@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675089224980,
+  "endTime": 1675091976463,
   "band_list": [
     {
       "raw_hot": 4592639,
@@ -107,12 +107,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1717522,
+      "num": 1717522,
+      "word": "孟德海 嘴型",
+      "onboard_time": 1675085430,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1638821,
       "num": 1638821,
       "word": "航拍胡鑫宇遗体发现地全貌",
       "onboard_time": 1675045586,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1616167,
+      "num": 1616167,
+      "word": "虞书欣易梦玲同框",
+      "onboard_time": 1675090055,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1594568,
@@ -129,14 +145,6 @@
       "onboard_time": 1675050752,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1565718,
-      "num": 1210495,
-      "word": "孟德海 嘴型",
-      "onboard_time": 1675085430,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 1531325,
@@ -185,6 +193,14 @@
       "onboard_time": 1675054836,
       "rank": 14,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 1377912,
+      "num": 253916,
+      "word": "官方回应发现胡鑫宇尸体通报只写金鸡山",
+      "onboard_time": 1675090475,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1369292,
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1167851,
+      "num": 1167851,
+      "word": "杨幂戴假发没被人认出来",
+      "onboard_time": 1675087231,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1137613,
       "num": 821082,
       "word": "胡鑫宇遗体发现地树林丛生",
@@ -299,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1054833,
+      "num": 1054833,
+      "word": "北京三里屯酒吧街关停倒计时",
+      "onboard_time": 1675090115,
+      "rank": 6,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 1049066,
       "num": 1049066,
       "word": "民政局开工离婚队伍排到门外",
@@ -331,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 987852,
+      "num": 723651,
+      "word": "狂飙反派云道歉会",
+      "onboard_time": 1675090835,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 987325,
       "num": 531418,
       "word": "胡鑫宇所在学校宿舍墙外就是金鸡山脚下",
@@ -352,6 +392,14 @@
       "word": "妹妹把哥哥的寒假作业写完了",
       "onboard_time": 1675045525,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 960344,
+      "num": 960344,
+      "word": "胡鑫宇家属称尚不清楚录音笔内容",
+      "onboard_time": 1675087411,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -459,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 802739,
+      "num": 802739,
+      "word": "网友泰国偶遇蔡徐坤",
+      "onboard_time": 1675087714,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 787259,
       "num": 787259,
       "word": "孟川 高启盛",
@@ -497,14 +553,6 @@
       "onboard_time": 1675041987,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 756774,
-      "num": 756774,
-      "word": "网友泰国偶遇蔡徐坤",
-      "onboard_time": 1675087714,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 730783,
@@ -603,14 +651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 642551,
-      "num": 642551,
-      "word": "胡鑫宇家属称尚不清楚录音笔内容",
-      "onboard_time": 1675087411,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 640528,
       "num": 597673,
       "word": "夫妻过年捡烟花纸壳7天捡5000斤",
@@ -675,12 +715,12 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 595597,
-      "num": 595597,
-      "word": "杨幂戴假发没被人认出来",
-      "onboard_time": 1675087231,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 599629,
+      "num": 599629,
+      "word": "吉林警方回应高三女孩失踪87天",
+      "onboard_time": 1675090353,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 583180,
@@ -713,6 +753,14 @@
       "onboard_time": 1675027091,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572601,
+      "num": 572601,
+      "word": "高启兰好美啊",
+      "onboard_time": 1675085911,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 570535,
@@ -1299,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332747,
+      "num": 332747,
+      "word": "突然觉得结婚不可怕了",
+      "onboard_time": 1675091314,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 331808,
       "num": 331808,
       "word": "南宁动物园猩猩扔水瓶砸伤游客",
@@ -1691,6 +1747,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231899,
+      "num": 231899,
+      "word": "刘慈欣谈太空电梯和数字永生",
+      "onboard_time": 1675089933,
+      "rank": 31,
+      "category": "科技,影视"
+    },
+    {
+      "raw_hot": 226641,
+      "num": 226641,
+      "word": "当你有个很会做衣服的妈妈",
+      "onboard_time": 1675087956,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226488,
       "num": 226488,
       "word": "你是我的永恒星辰定档0203",
@@ -1915,6 +1987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190758,
+      "num": 190758,
+      "word": "金采源FEARLESS舞蹈挑战",
+      "onboard_time": 1675089393,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186702,
       "num": 186702,
       "word": "如何看待影视剧开放式结局",
@@ -1977,6 +2057,14 @@
       "onboard_time": 1675002510,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 181902,
+      "num": 181902,
+      "word": "胡鑫宇案律师称准备申请刑事立案",
+      "onboard_time": 1675090714,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181349,
@@ -2171,6 +2259,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155034,
+      "num": 155034,
+      "word": "狂飙 泪目",
+      "onboard_time": 1675086514,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 150541,
+      "num": 150541,
+      "word": "梅西世界杯后首度接受采访",
+      "onboard_time": 1675091673,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149863,
       "num": 149863,
       "word": "许凯开工自拍照",
@@ -2241,14 +2345,6 @@
       "onboard_time": 1675080269,
       "rank": 48,
       "category": "旅游,影视"
-    },
-    {
-      "raw_hot": 146520,
-      "num": 146520,
-      "word": "当你有个很会做衣服的妈妈",
-      "onboard_time": 1675087956,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 145066,
