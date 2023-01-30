@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675063022616,
+  "endTime": 1675064015784,
   "band_list": [
     {
       "raw_hot": 4592639,
@@ -57,6 +57,14 @@
       "onboard_time": 1675028652,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1818859,
+      "num": 1818859,
+      "word": "乐华娱乐股价暴跌",
+      "onboard_time": 1675062092,
+      "rank": 5,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 1638821,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1135020,
-      "num": 997913,
+      "num": 1019240,
       "word": "胡鑫宇家属透露遗体发现细节",
       "onboard_time": 1675057055,
       "rank": 10,
@@ -187,8 +195,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1011668,
-      "num": 1011668,
+      "raw_hot": 1014904,
+      "num": 1014904,
       "word": "陈妍希恋综首秀",
       "onboard_time": 1675061792,
       "rank": 1,
@@ -251,12 +259,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 885308,
-      "num": 885308,
-      "word": "乐华娱乐股价暴跌",
-      "onboard_time": 1675062092,
-      "rank": 5,
-      "category": "财经,艺人"
+      "raw_hot": 880077,
+      "num": 880077,
+      "word": "10岁女孩疑食用售卖面包中毒身亡",
+      "onboard_time": 1675061672,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 852873,
@@ -403,6 +411,14 @@
       "category": "财经,影视"
     },
     {
+      "raw_hot": 591063,
+      "num": 591063,
+      "word": "连农村的厕所都这么卷了",
+      "onboard_time": 1675062754,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 573556,
       "num": 573556,
       "word": "男子误把绿色动车当绿皮车抽烟被拘",
@@ -449,14 +465,6 @@
       "onboard_time": 1675050988,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 506760,
-      "num": 506760,
-      "word": "10岁女孩疑食用售卖面包中毒身亡",
-      "onboard_time": 1675061672,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 501441,
@@ -555,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 448386,
+      "num": 448386,
+      "word": "强盛集团孙红雷也是卖鱼出身",
+      "onboard_time": 1675063473,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 447227,
       "num": 447227,
       "word": "张译奇怪的出圈方式",
@@ -611,6 +627,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 400575,
+      "num": 400575,
+      "word": "法医称警方通报暂未指明胡鑫宇死亡原因",
+      "onboard_time": 1675060951,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398988,
       "num": 398988,
       "word": "女子晒老家镇上25万买的108平房子",
@@ -619,20 +643,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397445,
+      "num": 397445,
+      "word": "邓超孙俪云包场春节档六部电影",
+      "onboard_time": 1675060531,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394764,
       "num": 394764,
       "word": "YG新女团成员李茶仁公开",
       "onboard_time": 1675036467,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 393934,
-      "num": 393934,
-      "word": "邓超孙俪云包场春节档六部电影",
-      "onboard_time": 1675060531,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 385754,
@@ -819,12 +843,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 313253,
-      "num": 313253,
-      "word": "法医称警方通报暂未指明胡鑫宇死亡原因",
-      "onboard_time": 1675060951,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 315428,
+      "num": 315428,
+      "word": "杨紫范丞丞199爱校服路透",
+      "onboard_time": 1675063054,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 312179,
+      "num": 312179,
+      "word": "周翊然银发",
+      "onboard_time": 1675062929,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 305704,
@@ -891,6 +923,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 270525,
+      "num": 270525,
+      "word": "高启盛疯批兄控",
+      "onboard_time": 1675062929,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269802,
       "num": 269802,
       "word": "周深为啥什么音域都能唱",
@@ -955,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248412,
+      "num": 248412,
+      "word": "赵立冬拉黑高启强",
+      "onboard_time": 1675060893,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244842,
       "num": 244842,
       "word": "流浪地球2周边淘宝销售破亿",
@@ -1003,12 +1051,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225224,
-      "num": 225224,
-      "word": "赵立冬拉黑高启强",
-      "onboard_time": 1675060893,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 219599,
+      "num": 219599,
+      "word": "村民称找鸡时发现胡鑫宇",
+      "onboard_time": 1675063591,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219133,
@@ -1033,6 +1081,14 @@
       "onboard_time": 1675006232,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209819,
+      "num": 209819,
+      "word": "父亲教10岁儿子理财1年挣1570元",
+      "onboard_time": 1675063351,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209805,
@@ -1107,20 +1163,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193066,
-      "num": 193066,
-      "word": "连农村的厕所都这么卷了",
-      "onboard_time": 1675062754,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191635,
       "num": 191635,
       "word": "非遗徽墨遇上古诗词有多浪漫",
       "onboard_time": 1675062691,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188001,
+      "num": 188001,
+      "word": "儿子火锅店做兼职父亲心疼落泪",
+      "onboard_time": 1675063235,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186702,
@@ -1259,22 +1315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167903,
-      "num": 167903,
-      "word": "高启盛疯批兄控",
-      "onboard_time": 1675062929,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 164793,
-      "num": 164793,
-      "word": "周翊然银发",
-      "onboard_time": 1675062929,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 163785,
       "num": 163785,
       "word": "宋威龙张屏三句话让你不想再聊天",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1675060234,
       "rank": 44,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 156544,
+      "num": 156544,
+      "word": "君子盟符合你的期待吗",
+      "onboard_time": 1675063713,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 149331,
