@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1675109967501,
+  "endTime": 1675110823388,
   "band_list": [
     {
       "raw_hot": 17279176,
@@ -71587,6 +71587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25093,
+      "num": 25093,
+      "word": "中方在乌克兰问题上不接受讹诈",
+      "onboard_time": 1675109832,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 24978,
       "num": 20607,
       "word": "许红豆不想放下心里的事",
@@ -71617,6 +71625,14 @@
       "onboard_time": 1674411496,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24197,
+      "num": 24197,
+      "word": "专家称年轻时不应为钱去选择工作",
+      "onboard_time": 1675110072,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23793,
@@ -71849,14 +71865,6 @@
       "onboard_time": 1674678372,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14591,
-      "num": 16500,
-      "word": "中方在乌克兰问题上不接受讹诈",
-      "onboard_time": 1675109832,
-      "rank": 48,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 12366,
