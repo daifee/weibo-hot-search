@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675082206054,
+  "endTime": 1675083552486,
   "band_list": [
     {
       "raw_hot": 4592639,
@@ -113,6 +113,14 @@
       "onboard_time": 1675050752,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1574782,
+      "num": 1574782,
+      "word": "杨健你糊涂啊",
+      "onboard_time": 1675081471,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1512936,
@@ -251,20 +259,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1050898,
-      "num": 1050898,
-      "word": "杨健你糊涂啊",
-      "onboard_time": 1675081471,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1049066,
       "num": 1049066,
       "word": "民政局开工离婚队伍排到门外",
       "onboard_time": 1675015635,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1031759,
+      "num": 1031759,
+      "word": "安欣赌孟钰不会害自己",
+      "onboard_time": 1675082131,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 1014955,
@@ -355,8 +363,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 853239,
-      "num": 853239,
+      "raw_hot": 858594,
+      "num": 858594,
       "word": "流浪地球杀疯了",
       "onboard_time": 1675078653,
       "rank": 4,
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687228,
+      "num": 687228,
+      "word": "胡鑫宇案导致其学校部分学生退学系谣言",
+      "onboard_time": 1675077452,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 667238,
       "num": 667238,
       "word": "女生期待薪资7千到1万被HR怒怼",
@@ -504,6 +520,14 @@
       "word": "北师大教授评无名尊重观众遵从内心",
       "onboard_time": 1675037127,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 653703,
+      "num": 653703,
+      "word": "孟钰给自己下毒",
+      "onboard_time": 1675083032,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -571,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 608723,
-      "num": 533349,
-      "word": "胡鑫宇案导致其学校部分学生退学系谣言",
-      "onboard_time": 1675077452,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 606324,
       "num": 606324,
       "word": "徐冬冬说高叶演的大嫂太好了",
@@ -643,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 555386,
+      "num": 555386,
+      "word": "日本船只非法进入我钓鱼岛领海",
+      "onboard_time": 1675079670,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 548589,
       "num": 548589,
       "word": "没想到真能一刀砍到手机",
@@ -675,12 +699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514829,
+      "num": 514829,
+      "word": "网友喊话山东强盛集团自首",
+      "onboard_time": 1675081051,
+      "rank": 21,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 511284,
       "num": 511284,
       "word": "半熟恋人第二季官宣",
       "onboard_time": 1675050988,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 501883,
+      "num": 501883,
+      "word": "佟丽娅分享视频为儿子庆生",
+      "onboard_time": 1675080932,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 501441,
@@ -721,14 +761,6 @@
       "onboard_time": 1675055195,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 483330,
-      "num": 483330,
-      "word": "日本船只非法进入我钓鱼岛领海",
-      "onboard_time": 1675079670,
-      "rank": 12,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 479620,
@@ -835,6 +867,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 434862,
+      "num": 434862,
+      "word": "才知道最牛的软件是12306",
+      "onboard_time": 1675081230,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 432244,
+      "num": 432244,
+      "word": "中核集团力挺流浪地球",
+      "onboard_time": 1675082248,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 428153,
       "num": 428153,
       "word": "满江红官博称追究到底",
@@ -923,19 +971,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395417,
+      "num": 356529,
+      "word": "井柏然台词",
+      "onboard_time": 1675081768,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394764,
       "num": 394764,
       "word": "YG新女团成员李茶仁公开",
       "onboard_time": 1675036467,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 389325,
-      "num": 389325,
-      "word": "佟丽娅分享视频为儿子庆生",
-      "onboard_time": 1675080932,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -1003,14 +1051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376389,
-      "num": 376389,
-      "word": "安欣赌孟钰不会害自己",
-      "onboard_time": 1675082131,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 376342,
       "num": 376342,
       "word": "满江红官博更换微博背景字体",
@@ -1065,6 +1105,14 @@
       "onboard_time": 1675066649,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 348700,
+      "num": 348700,
+      "word": "原来笨笨是被踹下去的",
+      "onboard_time": 1675082971,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 347205,
@@ -1153,14 +1201,6 @@
       "onboard_time": 1674991174,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328938,
-      "num": 328938,
-      "word": "网友喊话山东强盛集团自首",
-      "onboard_time": 1675081051,
-      "rank": 21,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 326078,
@@ -1491,20 +1531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230708,
-      "num": 230708,
-      "word": "才知道最牛的软件是12306",
-      "onboard_time": 1675081230,
-      "rank": 29,
-      "category": "科技"
-    },
-    {
       "raw_hot": 226488,
       "num": 226488,
       "word": "你是我的永恒星辰定档0203",
       "onboard_time": 1675047809,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225982,
+      "num": 225982,
+      "word": "生育登记并非上户口",
+      "onboard_time": 1675079549,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225260,
@@ -1521,14 +1561,6 @@
       "onboard_time": 1674992612,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218054,
-      "num": 218054,
-      "word": "生育登记并非上户口",
-      "onboard_time": 1675079549,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217489,
@@ -1561,14 +1593,6 @@
       "onboard_time": 1675072410,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 212284,
-      "num": 212284,
-      "word": "井柏然台词",
-      "onboard_time": 1675081768,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 209805,
@@ -1737,6 +1761,14 @@
       "onboard_time": 1674987271,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185396,
+      "num": 185396,
+      "word": "男子打球6天后发现头顶卡对手2颗牙",
+      "onboard_time": 1675083153,
+      "rank": 36,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 183832,
@@ -1963,6 +1995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149863,
+      "num": 149863,
+      "word": "许凯开工自拍照",
+      "onboard_time": 1675082310,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149331,
       "num": 149331,
       "word": "谢兴阳离谱又好笑的一生",
@@ -2097,6 +2137,14 @@
       "onboard_time": 1675001014,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124816,
+      "num": 124816,
+      "word": "坎塞洛将租借加盟拜仁",
+      "onboard_time": 1675082971,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 124401,
