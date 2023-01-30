@@ -1,0 +1,410 @@
+{
+  "runTime": 1675059840736,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2626381,
+        "num": 2626381,
+        "word": "胡鑫宇遗体在学校后山仓库被找到",
+        "onboard_time": 1675053514,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1334241,
+        "num": 1334241,
+        "word": "田亮女儿参加职业网球比赛",
+        "onboard_time": 1675054836,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 71255,
+        "num": 1289688,
+        "word": "多地发力拼经济新春开门稳",
+        "onboard_time": 1675048106,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1279048,
+        "num": 1279048,
+        "word": "胡鑫宇遗体所处区域有明显搜索痕迹",
+        "onboard_time": 1675045948,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1132653,
+        "num": 1132653,
+        "word": "全国各省离婚人数排名",
+        "onboard_time": 1675054655,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916529,
+        "num": 916529,
+        "word": "张公案",
+        "onboard_time": 1675047031,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 889043,
+        "num": 889043,
+        "word": "私信张译",
+        "onboard_time": 1675049130,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 580805,
+        "num": 580805,
+        "word": "为什么年后会是离婚高发期",
+        "onboard_time": 1675045525,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 576984,
+        "num": 576984,
+        "word": "孟川 高启盛",
+        "onboard_time": 1675058013,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510024,
+        "num": 510024,
+        "word": "流浪地球2周边众筹已超9515万元",
+        "onboard_time": 1675052374,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1104455,
+        "num": 506689,
+        "word": "胡鑫宇家属透露遗体发现细节",
+        "onboard_time": 1675057055,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547448,
+        "num": 506207,
+        "word": "LV老板放话坚决打击代购",
+        "onboard_time": 1675055552,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 496997,
+        "num": 496997,
+        "word": "没想到真能一刀砍到手机",
+        "onboard_time": 1675055850,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1073011,
+        "num": 494563,
+        "word": "什么是缢吊",
+        "onboard_time": 1675050752,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467247,
+        "num": 467247,
+        "word": "骨癌男童左腿截肢劝妈妈再生个妹妹",
+        "onboard_time": 1675055195,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400403,
+        "num": 400403,
+        "word": "狂飙",
+        "onboard_time": 1675038450,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 750751,
+        "num": 398755,
+        "word": "航拍胡鑫宇遗体发现地全貌",
+        "onboard_time": 1675045586,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396508,
+        "num": 396508,
+        "word": "女子熬夜躺玩3天手机后眩晕就医",
+        "onboard_time": 1675049370,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385788,
+        "num": 385788,
+        "word": "迪士尼星黛露被男性游客拍打头部",
+        "onboard_time": 1675050510,
+        "rank": 18,
+        "category": "动漫,社会新闻"
+      },
+      {
+        "raw_hot": 369232,
+        "num": 369232,
+        "word": "迪丽热巴说会从饰演过的角色身上获得力量",
+        "onboard_time": 1675057655,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 570535,
+        "num": 369096,
+        "word": "胡鑫宇遗体被找到时衣服疑似反穿",
+        "onboard_time": 1675057894,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364263,
+        "num": 364263,
+        "word": "成龙新片两个徒弟是郭麒麟和马",
+        "onboard_time": 1675047868,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334218,
+        "num": 334218,
+        "word": "满江红官博称追究到底",
+        "onboard_time": 1675054894,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 446690,
+        "num": 332449,
+        "word": "救援队称胡鑫宇遗体发现地没搜过",
+        "onboard_time": 1675052556,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326078,
+        "num": 326078,
+        "word": "宋威龙台词",
+        "onboard_time": 1675056874,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317206,
+        "num": 317206,
+        "word": "宋亚轩转花",
+        "onboard_time": 1675058732,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 308725,
+        "num": 308725,
+        "word": "杨紫张晚意长相思演兄妹",
+        "onboard_time": 1675053155,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293157,
+        "num": 293157,
+        "word": "张译开自动回复吧",
+        "onboard_time": 1675053455,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287572,
+        "num": 287572,
+        "word": "赛凡",
+        "onboard_time": 1675059398,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249803,
+        "num": 249803,
+        "word": "为什么有人不胖也显得虎背熊腰",
+        "onboard_time": 1675058614,
+        "rank": 29,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 394879,
+        "num": 249099,
+        "word": "学生表示学校不允许在外谈论胡鑫宇事件",
+        "onboard_time": 1675053095,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244842,
+        "num": 244842,
+        "word": "流浪地球2周边淘宝销售破亿",
+        "onboard_time": 1675058013,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242144,
+        "num": 242144,
+        "word": "吉林高三女孩跳桥失踪已87天",
+        "onboard_time": 1675049308,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237652,
+        "num": 237652,
+        "word": "被爸爸的松弛感整破防了",
+        "onboard_time": 1675056212,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230264,
+        "num": 230264,
+        "word": "大V称满江红制作成本不会超过一千万",
+        "onboard_time": 1675038093,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209509,
+        "num": 209509,
+        "word": "晚睡的人熬的是什么",
+        "onboard_time": 1675051653,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 229134,
+        "num": 206191,
+        "word": "被起诉大V称未收到满江红起诉函",
+        "onboard_time": 1675041389,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200785,
+        "num": 200785,
+        "word": "半熟恋人第二季官宣",
+        "onboard_time": 1675050988,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197654,
+        "num": 197654,
+        "word": "迪丽热巴黑白西装大片",
+        "onboard_time": 1675057295,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196877,
+        "num": 196877,
+        "word": "井柏然宋威龙张公案改名君子盟空降",
+        "onboard_time": 1675047088,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171014,
+        "num": 171014,
+        "word": "王一博无名票房破6亿剧照",
+        "onboard_time": 1675051352,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169434,
+        "num": 169434,
+        "word": "胡先煦王彦霖凭本事二搭",
+        "onboard_time": 1675056631,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165382,
+        "num": 165382,
+        "word": "成龙刘浩存新片演父女",
+        "onboard_time": 1675050871,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163785,
+        "num": 163785,
+        "word": "宋威龙张屏三句话让你不想再聊天",
+        "onboard_time": 1675058973,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153359,
+        "num": 153359,
+        "word": "妹妹把哥哥的寒假作业写完了",
+        "onboard_time": 1675045525,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150337,
+        "num": 150337,
+        "word": "小陆说不了话了",
+        "onboard_time": 1675045468,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144243,
+        "num": 144243,
+        "word": "NBA裁判道歉",
+        "onboard_time": 1675045285,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142838,
+        "num": 142838,
+        "word": "胡鑫宇尸检已完成",
+        "onboard_time": 1674988052,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137864,
+        "num": 137864,
+        "word": "张朝阳称流浪地球引力弹弓真实存在",
+        "onboard_time": 1675049250,
+        "rank": 48,
+        "category": "影视,科技"
+      },
+      {
+        "raw_hot": 135176,
+        "num": 135176,
+        "word": "为何票房火爆影视股却开门黑",
+        "onboard_time": 1675056570,
+        "rank": 49,
+        "category": "财经,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#这个春节告诉你什么是中国活力#"
+    }
+  }
+}

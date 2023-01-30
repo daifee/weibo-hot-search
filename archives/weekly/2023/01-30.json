@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675056816902,
+  "endTime": 1675059840736,
   "band_list": [
     {
       "raw_hot": 4592639,
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1204612,
-      "num": 1204612,
+      "raw_hot": 1334241,
+      "num": 1334241,
       "word": "田亮女儿参加职业网球比赛",
       "onboard_time": 1675054836,
       "rank": 14,
@@ -131,12 +131,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1132653,
+      "num": 1132653,
+      "word": "全国各省离婚人数排名",
+      "onboard_time": 1675054655,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1107724,
       "num": 1107724,
       "word": "为什么年后会是离婚高发期",
       "onboard_time": 1675045525,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1104455,
+      "num": 506689,
+      "word": "胡鑫宇家属透露遗体发现细节",
+      "onboard_time": 1675057055,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1099738,
@@ -192,14 +208,6 @@
       "word": "妹妹把哥哥的寒假作业写完了",
       "onboard_time": 1675045525,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 946039,
-      "num": 946039,
-      "word": "全国各省离婚人数排名",
-      "onboard_time": 1675054655,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -363,11 +371,27 @@
       "category": "财经,影视"
     },
     {
+      "raw_hot": 576984,
+      "num": 576984,
+      "word": "孟川 高启盛",
+      "onboard_time": 1675058013,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 573556,
       "num": 573556,
       "word": "男子误把绿色动车当绿皮车抽烟被拘",
       "onboard_time": 1675027091,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570535,
+      "num": 369096,
+      "word": "胡鑫宇遗体被找到时衣服疑似反穿",
+      "onboard_time": 1675057894,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -377,6 +401,14 @@
       "onboard_time": 1674999513,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 547448,
+      "num": 506207,
+      "word": "LV老板放话坚决打击代购",
+      "onboard_time": 1675055552,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 511284,
@@ -393,6 +425,14 @@
       "onboard_time": 1675037430,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496997,
+      "num": 496997,
+      "word": "没想到真能一刀砍到手机",
+      "onboard_time": 1675055850,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 485229,
@@ -587,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 369232,
+      "num": 369232,
+      "word": "迪丽热巴说会从饰演过的角色身上获得力量",
+      "onboard_time": 1675057655,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 363389,
       "num": 363389,
       "word": "胡鑫宇亲属对发现地表示不可思议",
@@ -601,14 +649,6 @@
       "onboard_time": 1674998255,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347508,
-      "num": 347508,
-      "word": "LV老板放话坚决打击代购",
-      "onboard_time": 1675055552,
-      "rank": 47,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 347205,
@@ -667,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326078,
+      "num": 326078,
+      "word": "宋威龙台词",
+      "onboard_time": 1675056874,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323768,
       "num": 323768,
       "word": "亲历者讲述胡鑫宇搜救过程",
@@ -689,6 +737,14 @@
       "onboard_time": 1675008089,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317206,
+      "num": 317206,
+      "word": "宋亚轩转花",
+      "onboard_time": 1675058732,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 305704,
@@ -729,6 +785,14 @@
       "onboard_time": 1675022353,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287572,
+      "num": 287572,
+      "word": "赛凡",
+      "onboard_time": 1675059398,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 279288,
@@ -803,12 +867,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249803,
+      "num": 249803,
+      "word": "为什么有人不胖也显得虎背熊腰",
+      "onboard_time": 1675058614,
+      "rank": 29,
+      "category": "其它"
+    },
+    {
       "raw_hot": 249448,
       "num": 249448,
       "word": "王源任敏灿烂灿烂取得发行许可证",
       "onboard_time": 1675055850,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244842,
+      "num": 244842,
+      "word": "流浪地球2周边淘宝销售破亿",
+      "onboard_time": 1675058013,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 243109,
@@ -827,6 +907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237652,
+      "num": 237652,
+      "word": "被爸爸的松弛感整破防了",
+      "onboard_time": 1675056212,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233600,
       "num": 233600,
       "word": "四川简化生育登记要求",
@@ -841,14 +929,6 @@
       "onboard_time": 1675047809,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224621,
-      "num": 224621,
-      "word": "没想到真能一刀砍到手机",
-      "onboard_time": 1675055850,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 219133,
@@ -921,6 +1001,14 @@
       "onboard_time": 1675029852,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197654,
+      "num": 197654,
+      "word": "迪丽热巴黑白西装大片",
+      "onboard_time": 1675057295,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197532,
@@ -1041,6 +1129,14 @@
       "onboard_time": 1675043908,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163785,
+      "num": 163785,
+      "word": "宋威龙张屏三句话让你不想再聊天",
+      "onboard_time": 1675058973,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 161243,
