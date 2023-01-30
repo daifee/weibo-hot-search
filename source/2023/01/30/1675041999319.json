@@ -1,0 +1,410 @@
+{
+  "runTime": 1675041999319,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2392079,
+        "num": 2392079,
+        "word": "大V称满江红制作成本不会超过一千万",
+        "onboard_time": 1675038093,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2180274,
+        "num": 2180274,
+        "word": "胡鑫宇遗体发现地与其学校仅一墙之隔",
+        "onboard_time": 1675028652,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104532,
+        "num": 1379706,
+        "word": "春节拍了能做壁纸的照片",
+        "onboard_time": 1674984631,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1049066,
+        "num": 1049066,
+        "word": "民政局开工离婚队伍排到门外",
+        "onboard_time": 1675015635,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979160,
+        "num": 979160,
+        "word": "才知道吃辣流鼻涕是一种病",
+        "onboard_time": 1675036345,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1156944,
+        "num": 934213,
+        "word": "殡仪馆称胡鑫宇已不是原来样貌",
+        "onboard_time": 1674995071,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657067,
+        "num": 657067,
+        "word": "北师大教授评无名尊重观众遵从内心",
+        "onboard_time": 1675037127,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 621255,
+        "num": 621255,
+        "word": "女生期待薪资7千到1万被HR怒怼",
+        "onboard_time": 1674993811,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592771,
+        "num": 592771,
+        "word": "29岁的张译28岁的沈腾",
+        "onboard_time": 1675004676,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 573556,
+        "num": 573556,
+        "word": "男子误把绿色动车当绿皮车抽烟被拘",
+        "onboard_time": 1675027091,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1137613,
+        "num": 571501,
+        "word": "胡鑫宇遗体发现地树林丛生",
+        "onboard_time": 1675038450,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725535,
+        "num": 567753,
+        "word": "被起诉大V称未收到满江红起诉函",
+        "onboard_time": 1675041389,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 541849,
+        "num": 541849,
+        "word": "狂飙安欣不是虚构的",
+        "onboard_time": 1675036225,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 586874,
+        "num": 531418,
+        "word": "胡鑫宇所在学校宿舍墙外就是金鸡山脚下",
+        "onboard_time": 1675000052,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501441,
+        "num": 501441,
+        "word": "新疆沙雅6.1级地震",
+        "onboard_time": 1675037430,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477829,
+        "num": 477829,
+        "word": "满江红",
+        "onboard_time": 1675037430,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 544866,
+        "num": 475737,
+        "word": "胡鑫宇尸检已完成",
+        "onboard_time": 1674988052,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472013,
+        "num": 472013,
+        "word": "大嫂嫁给谁 谁就是大哥",
+        "onboard_time": 1674999513,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421688,
+        "num": 421688,
+        "word": "中国哪个省的酒席最好",
+        "onboard_time": 1675039469,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 430027,
+        "num": 410133,
+        "word": "狂飙",
+        "onboard_time": 1675038450,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394764,
+        "num": 394764,
+        "word": "YG新女团成员李茶仁公开",
+        "onboard_time": 1675036467,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385754,
+        "num": 385754,
+        "word": "三生三世十里桃花开播六周年",
+        "onboard_time": 1675040251,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352677,
+        "num": 352677,
+        "word": "狂飙第三个内鬼",
+        "onboard_time": 1674995554,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339701,
+        "num": 339701,
+        "word": "女子不顾父母反对嫁人感叹赌对了",
+        "onboard_time": 1675007670,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305704,
+        "num": 305704,
+        "word": "会做饭的大学生返乡被村民争相预约",
+        "onboard_time": 1675038872,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295241,
+        "num": 295241,
+        "word": "在大城租房还是小城买房",
+        "onboard_time": 1675040907,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292886,
+        "num": 292886,
+        "word": "3小孩坠冰窟男子徒手砸冰全救起",
+        "onboard_time": 1675037606,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 288713,
+        "num": 288713,
+        "word": "胡鑫宇寻人启事曾提及录音笔",
+        "onboard_time": 1675022353,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262434,
+        "num": 262434,
+        "word": "女子惊叹邻居为生儿子连生7女",
+        "onboard_time": 1675008448,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259269,
+        "num": 259269,
+        "word": "西安旅游高价乱象为何屡屡发生",
+        "onboard_time": 1675037368,
+        "rank": 29,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 261142,
+        "num": 252181,
+        "word": "胡鑫宇亲属对发现地表示不可思议",
+        "onboard_time": 1675000352,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228469,
+        "num": 228469,
+        "word": "妈妈追狂飙问儿子唐小龙结局",
+        "onboard_time": 1675038810,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225217,
+        "num": 225217,
+        "word": "为什么年轻人开始接受相亲了",
+        "onboard_time": 1674990633,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238632,
+        "num": 223615,
+        "word": "地毯式搜索为何没找到胡鑫宇",
+        "onboard_time": 1674998255,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211603,
+        "num": 211603,
+        "word": "三成离婚与一方沉迷手机有关",
+        "onboard_time": 1675041449,
+        "rank": 34,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 203714,
+        "num": 203714,
+        "word": "三笘薰绝杀",
+        "onboard_time": 1675036705,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199870,
+        "num": 199870,
+        "word": "刘銮雄拍卖77只奢侈品包估价超1600万",
+        "onboard_time": 1674991711,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197532,
+        "num": 197532,
+        "word": "新疆地震",
+        "onboard_time": 1675037066,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191720,
+        "num": 191720,
+        "word": "如何判断胡鑫宇是自杀还是他杀",
+        "onboard_time": 1675004855,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181349,
+        "num": 181349,
+        "word": "巴黎身穿中文球衣出战",
+        "onboard_time": 1675039411,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170077,
+        "num": 170077,
+        "word": "女子晒老家镇上25万买的108平房子",
+        "onboard_time": 1674999634,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160857,
+        "num": 160857,
+        "word": "9图带你摆脱节后emo",
+        "onboard_time": 1675040667,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158651,
+        "num": 158651,
+        "word": "巴黎圣日耳曼1比1兰斯",
+        "onboard_time": 1675034840,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147059,
+        "num": 147059,
+        "word": "歼16飞行员说我们这些老家伙先上",
+        "onboard_time": 1675005752,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 142422,
+        "num": 142422,
+        "word": "流浪地球2里那句出列不只是台词",
+        "onboard_time": 1674998193,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135741,
+        "num": 135741,
+        "word": "狗子回村谈了场恋爱返程难舍难分",
+        "onboard_time": 1675021392,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132886,
+        "num": 132886,
+        "word": "吴京问你老大是不是MOSS",
+        "onboard_time": 1675002156,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125246,
+        "num": 125246,
+        "word": "早年上过相亲节目的明星",
+        "onboard_time": 1675007309,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121894,
+        "num": 121894,
+        "word": "女子吐槽小城市电影票价远超北上广",
+        "onboard_time": 1675041987,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121665,
+        "num": 121665,
+        "word": "新疆地震多地震感强烈",
+        "onboard_time": 1675037788,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进高质量共建一带一路#"
+    }
+  }
+}

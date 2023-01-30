@@ -1,7 +1,15 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675035205674,
+  "endTime": 1675041999319,
   "band_list": [
+    {
+      "raw_hot": 2392079,
+      "num": 2392079,
+      "word": "大V称满江红制作成本不会超过一千万",
+      "onboard_time": 1675038093,
+      "rank": 0,
+      "category": "影视"
+    },
     {
       "raw_hot": 2192090,
       "num": 404287,
@@ -11,8 +19,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2180274,
+      "num": 2180274,
+      "word": "胡鑫宇遗体发现地与其学校仅一墙之隔",
+      "onboard_time": 1675028652,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1512936,
-      "num": 740717,
+      "num": 934213,
       "word": "殡仪馆称胡鑫宇已不是原来样貌",
       "onboard_time": 1674995071,
       "rank": 5,
@@ -27,10 +43,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1279471,
-      "num": 1279471,
-      "word": "胡鑫宇遗体发现地与其学校仅一墙之隔",
-      "onboard_time": 1675028652,
+      "raw_hot": 1137613,
+      "num": 571501,
+      "word": "胡鑫宇遗体发现地树林丛生",
+      "onboard_time": 1675038450,
       "rank": 10,
       "category": "社会新闻"
     },
@@ -43,8 +59,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1004022,
-      "num": 1004022,
+      "raw_hot": 1049066,
+      "num": 1049066,
       "word": "民政局开工离婚队伍排到门外",
       "onboard_time": 1675015635,
       "rank": 26,
@@ -52,11 +68,19 @@
     },
     {
       "raw_hot": 987325,
-      "num": 402416,
+      "num": 531418,
       "word": "胡鑫宇所在学校宿舍墙外就是金鸡山脚下",
       "onboard_time": 1675000052,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 979160,
+      "num": 979160,
+      "word": "才知道吃辣流鼻涕是一种病",
+      "onboard_time": 1675036345,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 921988,
@@ -75,11 +99,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 725535,
+      "num": 567753,
+      "word": "被起诉大V称未收到满江红起诉函",
+      "onboard_time": 1675041389,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 667238,
       "num": 667238,
       "word": "女生期待薪资7千到1万被HR怒怼",
       "onboard_time": 1674993811,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 657067,
+      "num": 657067,
+      "word": "北师大教授评无名尊重观众遵从内心",
+      "onboard_time": 1675037127,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 573556,
+      "num": 573556,
+      "word": "男子误把绿色动车当绿皮车抽烟被拘",
+      "onboard_time": 1675027091,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -91,20 +139,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 541849,
+      "num": 541849,
+      "word": "狂飙安欣不是虚构的",
+      "onboard_time": 1675036225,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 501441,
+      "num": 501441,
+      "word": "新疆沙雅6.1级地震",
+      "onboard_time": 1675037430,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477829,
+      "num": 477829,
+      "word": "满江红",
+      "onboard_time": 1675037430,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 463424,
       "num": 406432,
       "word": "狂飙演员演出前才知道自己真实身份",
       "onboard_time": 1674994652,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 458635,
-      "num": 458635,
-      "word": "男子误把绿色动车当绿皮车抽烟被拘",
-      "onboard_time": 1675027091,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 455442,
@@ -123,6 +187,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430027,
+      "num": 410133,
+      "word": "狂飙",
+      "onboard_time": 1675038450,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 421688,
+      "num": 421688,
+      "word": "中国哪个省的酒席最好",
+      "onboard_time": 1675039469,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 407228,
       "num": 407228,
       "word": "连褶子都一模一样",
@@ -137,6 +217,22 @@
       "onboard_time": 1674999634,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394764,
+      "num": 394764,
+      "word": "YG新女团成员李茶仁公开",
+      "onboard_time": 1675036467,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 385754,
+      "num": 385754,
+      "word": "三生三世十里桃花开播六周年",
+      "onboard_time": 1675040251,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 385695,
@@ -211,12 +307,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305704,
+      "num": 305704,
+      "word": "会做饭的大学生返乡被村民争相预约",
+      "onboard_time": 1675038872,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299249,
       "num": 299249,
       "word": "刘銮雄拍卖77只奢侈品包估价超1600万",
       "onboard_time": 1674991711,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295241,
+      "num": 295241,
+      "word": "在大城租房还是小城买房",
+      "onboard_time": 1675040907,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292886,
+      "num": 292886,
+      "word": "3小孩坠冰窟男子徒手砸冰全救起",
+      "onboard_time": 1675037606,
+      "rank": 26,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 288713,
+      "num": 288713,
+      "word": "胡鑫宇寻人启事曾提及录音笔",
+      "onboard_time": 1675022353,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260560,
@@ -227,12 +355,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259269,
+      "num": 259269,
+      "word": "西安旅游高价乱象为何屡屡发生",
+      "onboard_time": 1675037368,
+      "rank": 29,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 243109,
       "num": 243109,
       "word": "早年上过相亲节目的明星",
       "onboard_time": 1675007309,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228469,
+      "num": 228469,
+      "word": "妈妈追狂飙问儿子唐小龙结局",
+      "onboard_time": 1675038810,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 219133,
@@ -259,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211603,
+      "num": 211603,
+      "word": "三成离婚与一方沉迷手机有关",
+      "onboard_time": 1675041449,
+      "rank": 34,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 209805,
       "num": 209805,
       "word": "吴京问你老大是不是MOSS",
@@ -275,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203714,
+      "num": 203714,
+      "word": "三笘薰绝杀",
+      "onboard_time": 1675036705,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198599,
       "num": 198599,
       "word": "河南矿山回应3名员工各领500万奖金",
@@ -283,11 +443,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191832,
-      "num": 95458,
-      "word": "胡鑫宇寻人启事曾提及录音笔",
-      "onboard_time": 1675022353,
-      "rank": 30,
+      "raw_hot": 197532,
+      "num": 197532,
+      "word": "新疆地震",
+      "onboard_time": 1675037066,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -313,6 +473,14 @@
       "onboard_time": 1675002510,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 181349,
+      "num": 181349,
+      "word": "巴黎身穿中文球衣出战",
+      "onboard_time": 1675039411,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 180511,
@@ -355,6 +523,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160857,
+      "num": 160857,
+      "word": "9图带你摆脱节后emo",
+      "onboard_time": 1675040667,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158651,
+      "num": 158651,
+      "word": "巴黎圣日耳曼1比1兰斯",
+      "onboard_time": 1675034840,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158304,
       "num": 158304,
       "word": "长相思",
@@ -387,8 +571,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 144958,
-      "num": 144958,
+      "raw_hot": 147059,
+      "num": 147059,
       "word": "歼16飞行员说我们这些老家伙先上",
       "onboard_time": 1675005752,
       "rank": 40,
@@ -400,6 +584,14 @@
       "word": "长相思预约破150万",
       "onboard_time": 1675008089,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 142422,
+      "num": 142422,
+      "word": "流浪地球2里那句出列不只是台词",
+      "onboard_time": 1674998193,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -419,20 +611,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135741,
+      "num": 135741,
+      "word": "狗子回村谈了场恋爱返程难舍难分",
+      "onboard_time": 1675021392,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125884,
       "num": 125884,
       "word": "王俊凯牛仔外套机场路透",
       "onboard_time": 1675001014,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 124442,
-      "num": 124442,
-      "word": "流浪地球2里那句出列不只是台词",
-      "onboard_time": 1674998193,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 124401,
@@ -451,12 +643,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121622,
-      "num": 121622,
-      "word": "狗子回村谈了场恋爱返程难舍难分",
-      "onboard_time": 1675021392,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 121894,
+      "num": 121894,
+      "word": "女子吐槽小城市电影票价远超北上广",
+      "onboard_time": 1675041987,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121665,
+      "num": 121665,
+      "word": "新疆地震多地震感强烈",
+      "onboard_time": 1675037788,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121365,
@@ -468,7 +668,7 @@
     },
     {
       "raw_hot": 121139,
-      "num": 926320,
+      "num": 1379706,
       "word": "春节拍了能做壁纸的照片",
       "onboard_time": 1674984631,
       "rank": 2,
@@ -513,14 +713,6 @@
       "onboard_time": 1674984987,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 84823,
-      "num": 84823,
-      "word": "巴黎圣日耳曼1比1兰斯",
-      "onboard_time": 1675034840,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 71823,
