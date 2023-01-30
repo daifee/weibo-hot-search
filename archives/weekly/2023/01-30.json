@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675059840736,
+  "endTime": 1675060695647,
   "band_list": [
     {
       "raw_hot": 4592639,
@@ -99,20 +99,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1415739,
+      "num": 1415739,
+      "word": "田亮女儿参加职业网球比赛",
+      "onboard_time": 1675054836,
+      "rank": 14,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1369292,
       "num": 1369292,
       "word": "胡鑫宇尸检已完成",
       "onboard_time": 1674988052,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1334241,
-      "num": 1334241,
-      "word": "田亮女儿参加职业网球比赛",
-      "onboard_time": 1675054836,
-      "rank": 14,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1173498,
@@ -139,20 +139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1124235,
+      "num": 547203,
+      "word": "胡鑫宇家属透露遗体发现细节",
+      "onboard_time": 1675057055,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1107724,
       "num": 1107724,
       "word": "为什么年后会是离婚高发期",
       "onboard_time": 1675045525,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1104455,
-      "num": 506689,
-      "word": "胡鑫宇家属透露遗体发现细节",
-      "onboard_time": 1675057055,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1099738,
@@ -257,6 +257,14 @@
       "onboard_time": 1675049370,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 787259,
+      "num": 787259,
+      "word": "孟川 高启盛",
+      "onboard_time": 1675058013,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 770705,
@@ -371,14 +379,6 @@
       "category": "财经,影视"
     },
     {
-      "raw_hot": 576984,
-      "num": 576984,
-      "word": "孟川 高启盛",
-      "onboard_time": 1675058013,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 573556,
       "num": 573556,
       "word": "男子误把绿色动车当绿皮车抽烟被拘",
@@ -403,8 +403,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 548589,
+      "num": 548589,
+      "word": "没想到真能一刀砍到手机",
+      "onboard_time": 1675055850,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 547448,
-      "num": 506207,
+      "num": 519752,
       "word": "LV老板放话坚决打击代购",
       "onboard_time": 1675055552,
       "rank": 47,
@@ -425,14 +433,6 @@
       "onboard_time": 1675037430,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 496997,
-      "num": 496997,
-      "word": "没想到真能一刀砍到手机",
-      "onboard_time": 1675055850,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 485229,
@@ -611,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379916,
+      "num": 379916,
+      "word": "王鹤棣机场随拍四宫格",
+      "onboard_time": 1675059932,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376845,
       "num": 376845,
       "word": "朴宝剑签约YG旗下厂牌",
@@ -673,6 +681,14 @@
       "onboard_time": 1675008326,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339603,
+      "num": 339603,
+      "word": "赵丽颖白色皮草大衣造型",
+      "onboard_time": 1675059932,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 334978,
@@ -779,6 +795,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 290211,
+      "num": 290211,
+      "word": "邓超孙俪云包场春节档六部电影",
+      "onboard_time": 1675060531,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288713,
       "num": 288713,
       "word": "胡鑫宇寻人启事曾提及录音笔",
@@ -809,6 +833,14 @@
       "onboard_time": 1675054415,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 275577,
+      "num": 275577,
+      "word": "为什么有人不胖也显得虎背熊腰",
+      "onboard_time": 1675058614,
+      "rank": 29,
+      "category": "其它"
     },
     {
       "raw_hot": 269802,
@@ -867,14 +899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249803,
-      "num": 249803,
-      "word": "为什么有人不胖也显得虎背熊腰",
-      "onboard_time": 1675058614,
-      "rank": 29,
-      "category": "其它"
-    },
-    {
       "raw_hot": 249448,
       "num": 249448,
       "word": "王源任敏灿烂灿烂取得发行许可证",
@@ -907,8 +931,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 237652,
-      "num": 237652,
+      "raw_hot": 240586,
+      "num": 240586,
       "word": "被爸爸的松弛感整破防了",
       "onboard_time": 1675056212,
       "rank": 33,
@@ -1043,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184103,
+      "num": 184103,
+      "word": "流浪地球2动物隐喻",
+      "onboard_time": 1675060591,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183832,
       "num": 183832,
       "word": "君子盟连更十集",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1675002456,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157389,
+      "num": 157389,
+      "word": "延时摄影看绿梅优雅绽放",
+      "onboard_time": 1675060234,
+      "rank": 44,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 149331,
