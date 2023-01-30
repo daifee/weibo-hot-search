@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675074044262,
+  "endTime": 1675074996652,
   "band_list": [
     {
       "raw_hot": 4592639,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1427669,
+      "num": 1427669,
+      "word": "难听",
+      "onboard_time": 1675072829,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1415739,
       "num": 1415739,
       "word": "田亮女儿参加职业网球比赛",
@@ -145,14 +153,6 @@
       "onboard_time": 1674988052,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1253483,
-      "num": 1253483,
-      "word": "难听",
-      "onboard_time": 1675072829,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 1184118,
@@ -587,20 +587,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 516628,
+      "num": 516628,
+      "word": "男子检查车胎发现卡住一枚戒指",
+      "onboard_time": 1675070668,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511284,
       "num": 511284,
       "word": "半熟恋人第二季官宣",
       "onboard_time": 1675050988,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 505065,
-      "num": 505065,
-      "word": "男子检查车胎发现卡住一枚戒指",
-      "onboard_time": 1675070668,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 501441,
@@ -747,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425385,
+      "num": 220878,
+      "word": "胡鑫宇录音笔解析结果今日将出",
+      "onboard_time": 1675074510,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422339,
       "num": 422339,
       "word": "NCT127今日新专回归",
@@ -859,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382017,
+      "num": 382017,
+      "word": "这猫怎么是扁平足啊",
+      "onboard_time": 1675073131,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 381575,
       "num": 381575,
       "word": "贪官傅国平老家查抄现场曝光",
@@ -873,6 +889,14 @@
       "onboard_time": 1675059932,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 377217,
+      "num": 377217,
+      "word": "强盛集团开通微博关注张颂文",
+      "onboard_time": 1675073009,
+      "rank": 21,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 376845,
@@ -1099,14 +1123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302814,
-      "num": 302814,
-      "word": "强盛集团开通微博关注张颂文",
-      "onboard_time": 1675073009,
-      "rank": 21,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 301502,
       "num": 301502,
       "word": "君子盟",
@@ -1275,14 +1291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248055,
-      "num": 248055,
-      "word": "这猫怎么是扁平足啊",
-      "onboard_time": 1675073131,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 244842,
       "num": 244842,
       "word": "流浪地球2周边淘宝销售破亿",
@@ -1315,8 +1323,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 238143,
-      "num": 238143,
+      "raw_hot": 240512,
+      "num": 240512,
+      "word": "相思令",
+      "onboard_time": 1675074151,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 239703,
+      "num": 239703,
       "word": "好羡慕头发不会出油的人",
       "onboard_time": 1675072470,
       "rank": 30,
@@ -1792,6 +1808,14 @@
       "word": "流浪地球2里那句出列不只是台词",
       "onboard_time": 1674998193,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 140480,
+      "num": 140480,
+      "word": "流浪地球2跻身北美周末票房前十",
+      "onboard_time": 1675074988,
+      "rank": 46,
       "category": "影视"
     },
     {
