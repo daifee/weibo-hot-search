@@ -1,6 +1,6 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675120777421,
+  "endTime": 1675121615996,
   "band_list": [
     {
       "raw_hot": 1891519,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1003510,
+      "num": 1003510,
+      "word": "专家称年轻时不应为钱去选择工作",
+      "onboard_time": 1675110072,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 866583,
       "num": 866583,
       "word": "狂飙反派云道歉会",
@@ -41,14 +49,6 @@
       "onboard_time": 1675085430,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 820099,
-      "num": 820099,
-      "word": "专家称年轻时不应为钱去选择工作",
-      "onboard_time": 1675110072,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 642390,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415624,
+      "num": 91363,
+      "word": "安欣陪孟德海一起去自首",
+      "onboard_time": 1675120880,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 361165,
       "num": 361165,
       "word": "中戏教授点赞朱一龙人生大事眼神戏",
@@ -145,6 +153,14 @@
       "onboard_time": 1675081230,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 303684,
+      "num": 303684,
+      "word": "网友喊话山东强盛集团自首",
+      "onboard_time": 1675081051,
+      "rank": 26,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 291752,
@@ -179,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259758,
+      "num": 259758,
+      "word": "胡鑫宇父亲称未到达遗体发现点",
+      "onboard_time": 1675120880,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254037,
       "num": 254037,
       "word": "原来真的会有人爱你像宠小孩",
@@ -187,12 +211,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248938,
+      "num": 248938,
+      "word": "母亲为救2个落水儿子不幸遇难",
+      "onboard_time": 1675105632,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244873,
       "num": 244873,
       "word": "张大大说杨幂进组肯定很快乐",
       "onboard_time": 1675096704,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244798,
+      "num": 153742,
+      "word": "胡鑫宇案律师称准备申请刑事立案",
+      "onboard_time": 1675090714,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242279,
@@ -209,14 +249,6 @@
       "onboard_time": 1675094071,
       "rank": 20,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 229229,
-      "num": 153742,
-      "word": "胡鑫宇案律师称准备申请刑事立案",
-      "onboard_time": 1675090714,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227701,
@@ -243,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210113,
+      "num": 210113,
+      "word": "流浪小狐狸投奔看守所1年胖成球",
+      "onboard_time": 1675115232,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208873,
       "num": 206513,
       "word": "流浪地球2跻身北美周末票房前十",
@@ -257,22 +297,6 @@
       "onboard_time": 1675069170,
       "rank": 24,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 196278,
-      "num": 196278,
-      "word": "流浪小狐狸投奔看守所1年胖成球",
-      "onboard_time": 1675115232,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195712,
-      "num": 195712,
-      "word": "网友喊话山东强盛集团自首",
-      "onboard_time": 1675081051,
-      "rank": 26,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 194719,
@@ -291,19 +315,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177485,
+      "num": 177485,
+      "word": "中方在乌克兰问题上不接受讹诈",
+      "onboard_time": 1675109832,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 176483,
       "num": 176483,
       "word": "女孩寒假摆摊卖玩具半月赚万元",
       "onboard_time": 1675085495,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176141,
-      "num": 176141,
-      "word": "母亲为救2个落水儿子不幸遇难",
-      "onboard_time": 1675105632,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -329,6 +353,14 @@
       "onboard_time": 1675086273,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164824,
+      "num": 164824,
+      "word": "一句话总结2023第1个月",
+      "onboard_time": 1675120698,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 162168,
@@ -379,20 +411,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145643,
-      "num": 145643,
-      "word": "中方在乌克兰问题上不接受讹诈",
-      "onboard_time": 1675109832,
-      "rank": 48,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 134783,
       "num": 134783,
       "word": "刘慈欣谈太空电梯和数字永生",
       "onboard_time": 1675089933,
       "rank": 37,
       "category": "科技,影视"
+    },
+    {
+      "raw_hot": 133197,
+      "num": 123809,
+      "word": "尸检能否查明死亡原因",
+      "onboard_time": 1675084353,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131164,
@@ -417,22 +449,6 @@
       "onboard_time": 1675098561,
       "rank": 35,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 124222,
-      "num": 103772,
-      "word": "尸检能否查明死亡原因",
-      "onboard_time": 1675084353,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122048,
-      "num": 70317,
-      "word": "一句话总结2023第1个月",
-      "onboard_time": 1675120698,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 118472,
@@ -465,6 +481,14 @@
       "onboard_time": 1675079851,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109327,
+      "num": 109327,
+      "word": "这是要抓高启强了吗",
+      "onboard_time": 1675115892,
+      "rank": 27,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 106074,
@@ -523,12 +547,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 85881,
-      "num": 85881,
-      "word": "这是要抓高启强了吗",
-      "onboard_time": 1675115892,
-      "rank": 27,
-      "category": "社会新闻,影视"
+      "raw_hot": 87296,
+      "num": 87296,
+      "word": "网友东北偶遇孙怡",
+      "onboard_time": 1675116912,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 83929,
@@ -539,20 +563,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 73544,
+      "num": 73544,
+      "word": "狂飙 台词",
+      "onboard_time": 1675121362,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 67667,
       "num": 959977,
       "word": "原来中国科幻的背后是中国制造",
       "onboard_time": 1675068812,
       "rank": 2,
       "category": "影视"
-    },
-    {
-      "raw_hot": 52674,
-      "num": 52674,
-      "word": "网友东北偶遇孙怡",
-      "onboard_time": 1675116912,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 33746,
