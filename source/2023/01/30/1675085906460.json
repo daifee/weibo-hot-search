@@ -1,0 +1,410 @@
+{
+  "runTime": 1675085906460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2064101,
+        "num": 2064101,
+        "word": "高启强被刺杀",
+        "onboard_time": 1675083631,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1246190,
+        "num": 1246190,
+        "word": "男子打球6天后发现头顶卡对手2颗牙",
+        "onboard_time": 1675083153,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 159458,
+        "num": 852695,
+        "word": "原来中国科幻的背后是中国制造",
+        "onboard_time": 1675068812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1641868,
+        "num": 852004,
+        "word": "杨健你糊涂啊",
+        "onboard_time": 1675081471,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 846364,
+        "num": 846364,
+        "word": "怎么看田亮女儿女承父业",
+        "onboard_time": 1675069170,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1214016,
+        "num": 841766,
+        "word": "孟钰给自己下毒",
+        "onboard_time": 1675083032,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 821275,
+        "num": 821275,
+        "word": "杭州岳庙秦桧像被砸烂9次",
+        "onboard_time": 1675076614,
+        "rank": 6,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 698411,
+        "num": 698411,
+        "word": "流浪地球杀疯了",
+        "onboard_time": 1675078653,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 663245,
+        "num": 663245,
+        "word": "安欣赌孟钰不会害自己",
+        "onboard_time": 1675082131,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 644137,
+        "num": 644137,
+        "word": "原来笨笨是被踹下去的",
+        "onboard_time": 1675082971,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 600924,
+        "num": 600924,
+        "word": "网友喊话山东强盛集团自首",
+        "onboard_time": 1675081051,
+        "rank": 10,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 545755,
+        "num": 545755,
+        "word": "才知道最牛的软件是12306",
+        "onboard_time": 1675081230,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 503438,
+        "num": 503438,
+        "word": "胡鑫宇遗体在学校后山仓库被找到",
+        "onboard_time": 1675053514,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492400,
+        "num": 492400,
+        "word": "中核集团力挺流浪地球",
+        "onboard_time": 1675082248,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 472816,
+        "num": 472816,
+        "word": "井柏然台词",
+        "onboard_time": 1675081768,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432602,
+        "num": 432602,
+        "word": "高启兰高晓晨被绑架",
+        "onboard_time": 1675084713,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401149,
+        "num": 401149,
+        "word": "第一次想用油腻形容猫",
+        "onboard_time": 1675078828,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366742,
+        "num": 366742,
+        "word": "胡鑫宇案导致其学校部分学生退学系谣言",
+        "onboard_time": 1675077452,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363784,
+        "num": 363784,
+        "word": "为什么男生分手时都那么狠心",
+        "onboard_time": 1675069591,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 352228,
+        "num": 352228,
+        "word": "孟德海 嘴型",
+        "onboard_time": 1675085430,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350877,
+        "num": 350877,
+        "word": "流浪地球2跻身北美周末票房前十",
+        "onboard_time": 1675074988,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349276,
+        "num": 349276,
+        "word": "日本船只非法进入我钓鱼岛领海",
+        "onboard_time": 1675079670,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 294512,
+        "num": 294512,
+        "word": "四川回应生育登记取消结婚限制",
+        "onboard_time": 1675071750,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284546,
+        "num": 284546,
+        "word": "三体第17集好刺激",
+        "onboard_time": 1675083813,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276066,
+        "num": 276066,
+        "word": "狂飙预告",
+        "onboard_time": 1675085373,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274613,
+        "num": 274613,
+        "word": "宋威龙演技",
+        "onboard_time": 1675078410,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271393,
+        "num": 271393,
+        "word": "强盛集团孙红雷也是卖鱼出身",
+        "onboard_time": 1675063473,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 264755,
+        "num": 264755,
+        "word": "张颂文修改全民K歌个性签名",
+        "onboard_time": 1675072351,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248810,
+        "num": 248810,
+        "word": "刚出道时的王力宏",
+        "onboard_time": 1675079851,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233467,
+        "num": 233467,
+        "word": "许凯说不是买彩票是自助付款机",
+        "onboard_time": 1675084775,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429207,
+        "num": 233449,
+        "word": "尸检能否查明死亡原因",
+        "onboard_time": 1675084353,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233399,
+        "num": 233399,
+        "word": "乐华娱乐股价暴跌",
+        "onboard_time": 1675062092,
+        "rank": 31,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 213802,
+        "num": 213802,
+        "word": "难听",
+        "onboard_time": 1675072829,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239168,
+        "num": 213802,
+        "word": "卫星视角速览胡鑫宇案",
+        "onboard_time": 1675085254,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211983,
+        "num": 211983,
+        "word": "广东人家里都会有的东西",
+        "onboard_time": 1675084353,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179120,
+        "num": 179120,
+        "word": "业内人士赞王一博无名表现优秀",
+        "onboard_time": 1675075411,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230344,
+        "num": 179100,
+        "word": "村民称找鸡时发现胡鑫宇",
+        "onboard_time": 1675063591,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179076,
+        "num": 179076,
+        "word": "小猫咪可以有多妖娆",
+        "onboard_time": 1675084834,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290003,
+        "num": 178847,
+        "word": "狂飙安欣的真实原型之一",
+        "onboard_time": 1675085133,
+        "rank": 38,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 178084,
+        "num": 178084,
+        "word": "男子检查车胎发现卡住一枚戒指",
+        "onboard_time": 1675070668,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165728,
+        "num": 165728,
+        "word": "小熊猫连睡觉都很可爱",
+        "onboard_time": 1675085555,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163734,
+        "num": 163734,
+        "word": "生育登记并非上户口",
+        "onboard_time": 1675079549,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153684,
+        "num": 153684,
+        "word": "坐火车不要把手搭在下面",
+        "onboard_time": 1675071571,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144876,
+        "num": 144876,
+        "word": "李飞对时代少年团成员的评价",
+        "onboard_time": 1675073070,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139402,
+        "num": 139402,
+        "word": "宋亚轩刘耀文嘟嘴",
+        "onboard_time": 1675079190,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136387,
+        "num": 136387,
+        "word": "女孩寒假摆摊卖玩具半月赚万元",
+        "onboard_time": 1675085495,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133276,
+        "num": 133276,
+        "word": "北京重点商圈将开展外摆试点",
+        "onboard_time": 1675078050,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132415,
+        "num": 132415,
+        "word": "孟钰没有陷害安欣",
+        "onboard_time": 1675085673,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132148,
+        "num": 132148,
+        "word": "会走路和不会走路的都沉默了",
+        "onboard_time": 1675085854,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129590,
+        "num": 129590,
+        "word": "这螃蟹怎么虾里虾气的",
+        "onboard_time": 1675067849,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#回味中国年喜迎开门红#"
+    }
+  }
+}
