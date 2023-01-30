@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675048824868,
+  "endTime": 1675049681581,
   "band_list": [
     {
       "raw_hot": 4592639,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1777421,
+      "num": 1777421,
+      "word": "胡鑫宇遗体所处区域有明显搜索痕迹",
+      "onboard_time": 1675045948,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1512936,
       "num": 934213,
       "word": "殡仪馆称胡鑫宇已不是原来样貌",
@@ -49,14 +57,6 @@
       "onboard_time": 1675047088,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1371682,
-      "num": 1371682,
-      "word": "胡鑫宇遗体所处区域有明显搜索痕迹",
-      "onboard_time": 1675045948,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1369292,
@@ -107,6 +107,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1029698,
+      "num": 1029698,
+      "word": "航拍胡鑫宇遗体发现地全貌",
+      "onboard_time": 1675045586,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1014955,
+      "num": 1014955,
+      "word": "成龙新片两个徒弟是郭麒麟和马",
+      "onboard_time": 1675047868,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 987325,
       "num": 531418,
       "word": "胡鑫宇所在学校宿舍墙外就是金鸡山脚下",
@@ -123,20 +139,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 967860,
+      "num": 967860,
+      "word": "妹妹把哥哥的寒假作业写完了",
+      "onboard_time": 1675045525,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 939683,
       "num": 939683,
       "word": "被起诉大V称未收到满江红起诉函",
       "onboard_time": 1675041389,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 935679,
-      "num": 935679,
-      "word": "妹妹把哥哥的寒假作业写完了",
-      "onboard_time": 1675045525,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 921988,
@@ -147,27 +163,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 891992,
-      "num": 891992,
-      "word": "航拍胡鑫宇遗体发现地全貌",
-      "onboard_time": 1675045586,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 888145,
       "num": 888145,
       "word": "狂飙第三个内鬼",
       "onboard_time": 1674995554,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 876206,
-      "num": 876206,
-      "word": "成龙新片两个徒弟是郭麒麟和马",
-      "onboard_time": 1675047868,
-      "rank": 8,
       "category": "影视"
     },
     {
@@ -185,6 +185,14 @@
       "onboard_time": 1675041987,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 732320,
+      "num": 732320,
+      "word": "私信张译",
+      "onboard_time": 1675049130,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 727791,
@@ -227,12 +235,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 650133,
+      "num": 650133,
+      "word": "李昌钰辟谣网传胡鑫宇案论断",
+      "onboard_time": 1675046428,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 640528,
       "num": 597673,
       "word": "夫妻过年捡烟花纸壳7天捡5000斤",
       "onboard_time": 1675044388,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576531,
+      "num": 576531,
+      "word": "光线传媒股价暴跌",
+      "onboard_time": 1675047928,
+      "rank": 16,
+      "category": "财经,影视"
     },
     {
       "raw_hot": 573556,
@@ -243,28 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 570843,
-      "num": 452543,
-      "word": "李昌钰辟谣网传胡鑫宇案论断",
-      "onboard_time": 1675046428,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 567093,
       "num": 567093,
       "word": "大嫂嫁给谁 谁就是大哥",
       "onboard_time": 1674999513,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 512594,
-      "num": 512594,
-      "word": "光线传媒股价暴跌",
-      "onboard_time": 1675047928,
-      "rank": 16,
-      "category": "财经,影视"
     },
     {
       "raw_hot": 501441,
@@ -347,20 +355,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 420843,
+      "num": 420843,
+      "word": "你觉得毕业生多少起薪合适",
+      "onboard_time": 1675046967,
+      "rank": 39,
+      "category": "情感,教育"
+    },
+    {
+      "raw_hot": 407666,
+      "num": 407666,
+      "word": "满江红背后谁是最大赢家",
+      "onboard_time": 1675047928,
+      "rank": 27,
+      "category": "影视,财经"
+    },
+    {
       "raw_hot": 407228,
       "num": 407228,
       "word": "连褶子都一模一样",
       "onboard_time": 1675004076,
       "rank": 8,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 405419,
-      "num": 405419,
-      "word": "你觉得毕业生多少起薪合适",
-      "onboard_time": 1675046967,
-      "rank": 39,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 398988,
@@ -499,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 319890,
-      "num": 319890,
-      "word": "满江红背后谁是最大赢家",
-      "onboard_time": 1675047928,
-      "rank": 27,
-      "category": "影视,财经"
-    },
-    {
       "raw_hot": 305704,
       "num": 305704,
       "word": "会做饭的大学生返乡被村民争相预约",
@@ -547,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269802,
+      "num": 269802,
+      "word": "周深为啥什么音域都能唱",
+      "onboard_time": 1675048648,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 260560,
       "num": 260560,
       "word": "为什么年轻人开始接受相亲了",
@@ -563,6 +579,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 252612,
+      "num": 252612,
+      "word": "南宁动物园猩猩扔水瓶砸伤游客",
+      "onboard_time": 1675048589,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243109,
       "num": 243109,
       "word": "早年上过相亲节目的明星",
@@ -571,12 +595,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228687,
+      "num": 228687,
+      "word": "四川简化生育登记要求",
+      "onboard_time": 1675048350,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227146,
+      "num": 227146,
+      "word": "张朝阳称流浪地球引力弹弓真实存在",
+      "onboard_time": 1675049250,
+      "rank": 37,
+      "category": "影视,科技"
+    },
+    {
       "raw_hot": 226488,
       "num": 226488,
       "word": "你是我的永恒星辰定档0203",
       "onboard_time": 1675047809,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222795,
+      "num": 222795,
+      "word": "吉林高三女孩跳桥失踪已87天",
+      "onboard_time": 1675049308,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219133,
@@ -667,6 +715,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 182621,
+      "num": 182621,
+      "word": "女子熬夜躺玩3天手机后眩晕就医",
+      "onboard_time": 1675049370,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181349,
       "num": 181349,
       "word": "巴黎身穿中文球衣出战",
@@ -697,14 +753,6 @@
       "onboard_time": 1675034960,
       "rank": 17,
       "category": "影视,社会新闻"
-    },
-    {
-      "raw_hot": 176185,
-      "num": 176185,
-      "word": "周深为啥什么音域都能唱",
-      "onboard_time": 1675048648,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 174100,
@@ -787,14 +835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 147345,
-      "num": 147345,
-      "word": "四川简化生育登记要求",
-      "onboard_time": 1675048350,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147303,
       "num": 147303,
       "word": "严浩翔灰发花絮照",
@@ -817,14 +857,6 @@
       "onboard_time": 1675042887,
       "rank": 45,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 145466,
-      "num": 145466,
-      "word": "南宁动物园猩猩扔水瓶砸伤游客",
-      "onboard_time": 1675048589,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145066,
@@ -1011,20 +1043,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64362,
+      "num": 1521838,
+      "word": "多地发力拼经济新春开门稳",
+      "onboard_time": 1675048106,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58683,
       "num": 58683,
       "word": "孙子兵法被高启强带火",
       "onboard_time": 1675035081,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 47505,
-      "num": 1372432,
-      "word": "多地发力拼经济新春开门稳",
-      "onboard_time": 1675048106,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40657,
