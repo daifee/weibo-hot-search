@@ -1,6 +1,6 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675113366973,
+  "endTime": 1675114536883,
   "band_list": [
     {
       "raw_hot": 1891519,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198309,
+      "num": 198309,
+      "word": "专家称年轻时不应为钱去选择工作",
+      "onboard_time": 1675110072,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194719,
       "num": 194719,
       "word": "一条plog告别一月",
@@ -321,14 +329,6 @@
       "onboard_time": 1675078410,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 155301,
-      "num": 155301,
-      "word": "专家称年轻时不应为钱去选择工作",
-      "onboard_time": 1675110072,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151011,
@@ -515,8 +515,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39856,
-      "num": 39856,
+      "raw_hot": 45200,
+      "num": 41780,
       "word": "中方在乌克兰问题上不接受讹诈",
       "onboard_time": 1675109832,
       "rank": 48,

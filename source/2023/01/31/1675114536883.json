@@ -1,0 +1,410 @@
+{
+  "runTime": 1675114536883,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 198309,
+        "num": 198309,
+        "word": "专家称年轻时不应为钱去选择工作",
+        "onboard_time": 1675110072,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99694,
+        "num": 99694,
+        "word": "突然觉得结婚不可怕了",
+        "onboard_time": 1675091314,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9390,
+        "num": 84630,
+        "word": "原来中国科幻的背后是中国制造",
+        "onboard_time": 1675068812,
+        "rank": 2,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79108,
+        "num": 79108,
+        "word": "三胞胎天使离世父母做出伟大决定",
+        "onboard_time": 1675092452,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60660,
+        "num": 60660,
+        "word": "孟德海 嘴型",
+        "onboard_time": 1675085430,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50001,
+        "num": 50001,
+        "word": "流浪地球杀疯了",
+        "onboard_time": 1675078653,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49784,
+        "num": 49784,
+        "word": "女大学生寒假捡6天烟花纸壳卖不掉",
+        "onboard_time": 1675086332,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45794,
+        "num": 45794,
+        "word": "人民文娱评春节档要拒绝饭圈化",
+        "onboard_time": 1675099578,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43211,
+        "num": 43211,
+        "word": "狂飙反派云道歉会",
+        "onboard_time": 1675090835,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41841,
+        "num": 41841,
+        "word": "男子偷2万元刮刮乐刮出9000元",
+        "onboard_time": 1675094607,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45200,
+        "num": 41780,
+        "word": "中方在乌克兰问题上不接受讹诈",
+        "onboard_time": 1675109832,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 40777,
+        "num": 40777,
+        "word": "弟弟玩迷你刀不慎扎伤姐姐大腿",
+        "onboard_time": 1675093592,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37623,
+        "num": 37623,
+        "word": "男子打球6天后发现头顶卡对手2颗牙",
+        "onboard_time": 1675083153,
+        "rank": 12,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 37209,
+        "num": 37209,
+        "word": "高启强被刺杀",
+        "onboard_time": 1675083631,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33586,
+        "num": 33586,
+        "word": "卫星视角速览胡鑫宇案",
+        "onboard_time": 1675085254,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32940,
+        "num": 32940,
+        "word": "泰山300多岁腊梅盛放满眼鹅黄",
+        "onboard_time": 1675094071,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 32848,
+        "num": 32848,
+        "word": "母亲为救2个落水儿子不幸遇难",
+        "onboard_time": 1675105632,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31209,
+        "num": 31209,
+        "word": "市监局回应小城市电影票价贵",
+        "onboard_time": 1675096346,
+        "rank": 17,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 30380,
+        "num": 30380,
+        "word": "才知道最牛的软件是12306",
+        "onboard_time": 1675081230,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 28578,
+        "num": 28578,
+        "word": "杭州岳庙秦桧像被砸烂9次",
+        "onboard_time": 1675076614,
+        "rank": 19,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 27190,
+        "num": 27190,
+        "word": "高启兰好美啊",
+        "onboard_time": 1675085911,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25761,
+        "num": 25761,
+        "word": "强盛集团孙红雷直播被买鱼刷屏",
+        "onboard_time": 1675098561,
+        "rank": 21,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 25728,
+        "num": 25728,
+        "word": "熬夜后怎么快速恢复精神",
+        "onboard_time": 1675102214,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25268,
+        "num": 25268,
+        "word": "广东人家里都会有的东西",
+        "onboard_time": 1675084353,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22579,
+        "num": 22579,
+        "word": "流浪地球票房",
+        "onboard_time": 1675086273,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21501,
+        "num": 21501,
+        "word": "原来真的会有人爱你像宠小孩",
+        "onboard_time": 1675085970,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21295,
+        "num": 21295,
+        "word": "王力宏晒与粉丝演唱会合照",
+        "onboard_time": 1675093231,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21290,
+        "num": 21290,
+        "word": "为什么男生分手时都那么狠心",
+        "onboard_time": 1675069591,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21257,
+        "num": 21257,
+        "word": "中核集团力挺流浪地球",
+        "onboard_time": 1675082248,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20678,
+        "num": 20678,
+        "word": "流浪地球2跻身北美周末票房前十",
+        "onboard_time": 1675074988,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120888,
+        "num": 20652,
+        "word": "官方回应发现胡鑫宇尸体通报只写金鸡山",
+        "onboard_time": 1675090475,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20391,
+        "num": 20391,
+        "word": "张译的文笔",
+        "onboard_time": 1675098140,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19849,
+        "num": 19849,
+        "word": "张大大说杨幂进组肯定很快乐",
+        "onboard_time": 1675096704,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43480,
+        "num": 19849,
+        "word": "胡鑫宇案律师称准备申请刑事立案",
+        "onboard_time": 1675090714,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19845,
+        "num": 19845,
+        "word": "刘慈欣说流浪地球2是电影团队原创",
+        "onboard_time": 1675086694,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19783,
+        "num": 19783,
+        "word": "孟钰给自己下毒",
+        "onboard_time": 1675083032,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38320,
+        "num": 19770,
+        "word": "工作人员称粮仓一直正常运行",
+        "onboard_time": 1675094668,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19753,
+        "num": 19753,
+        "word": "福建人有多重视拜天公",
+        "onboard_time": 1675097543,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19733,
+        "num": 19733,
+        "word": "梅西世界杯后首度接受采访",
+        "onboard_time": 1675091673,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19387,
+        "num": 19387,
+        "word": "杜海涛说我是来半熟恋人学习的",
+        "onboard_time": 1675105813,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18928,
+        "num": 18928,
+        "word": "张颂文修改全民K歌个性签名",
+        "onboard_time": 1675072351,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18796,
+        "num": 18796,
+        "word": "交警用高启强教育女子骑车戴头盔",
+        "onboard_time": 1675102695,
+        "rank": 41,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 18657,
+        "num": 18657,
+        "word": "怎么看田亮女儿女承父业",
+        "onboard_time": 1675069170,
+        "rank": 42,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 18339,
+        "num": 18339,
+        "word": "胡鑫宇遗体在学校后山仓库被找到",
+        "onboard_time": 1675053514,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17782,
+        "num": 17782,
+        "word": "女孩寒假摆摊卖玩具半月赚万元",
+        "onboard_time": 1675085495,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16484,
+        "num": 16484,
+        "word": "中戏教授点赞朱一龙人生大事眼神戏",
+        "onboard_time": 1675095506,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16080,
+        "num": 16080,
+        "word": "宋威龙演技",
+        "onboard_time": 1675078410,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15734,
+        "num": 15734,
+        "word": "打得对手满地找牙原来是真的",
+        "onboard_time": 1675095447,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14993,
+        "num": 14993,
+        "word": "你们尽管想象我们负责实现",
+        "onboard_time": 1675104733,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14564,
+        "num": 14564,
+        "word": "难听",
+        "onboard_time": 1675072829,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#回味中国年喜迎开门红#"
+    }
+  }
+}
