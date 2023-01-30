@@ -1,6 +1,6 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675095955597,
+  "endTime": 1675097029223,
   "band_list": [
     {
       "raw_hot": 1891519,
@@ -51,8 +51,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 614374,
-      "num": 614374,
+      "raw_hot": 621969,
+      "num": 621969,
       "word": "流浪地球杀疯了",
       "onboard_time": 1675078653,
       "rank": 4,
@@ -83,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 436760,
-      "num": 436760,
+      "raw_hot": 441867,
+      "num": 441867,
       "word": "弟弟玩迷你刀不慎扎伤姐姐大腿",
       "onboard_time": 1675093592,
       "rank": 11,
@@ -105,6 +105,14 @@
       "onboard_time": 1675083153,
       "rank": 8,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 416517,
+      "num": 358640,
+      "word": "男子偷2万元刮刮乐刮出9000元",
+      "onboard_time": 1675094607,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361165,
@@ -155,19 +163,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277945,
-      "num": 277945,
-      "word": "男子偷2万元刮刮乐刮出9000元",
-      "onboard_time": 1675094607,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254037,
       "num": 254037,
       "word": "原来真的会有人爱你像宠小孩",
       "onboard_time": 1675085970,
       "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 242279,
+      "num": 242279,
+      "word": "广东人家里都会有的东西",
+      "onboard_time": 1675084353,
+      "rank": 21,
       "category": "情感"
     },
     {
@@ -177,14 +185,6 @@
       "onboard_time": 1675094071,
       "rank": 20,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 240559,
-      "num": 240559,
-      "word": "广东人家里都会有的东西",
-      "onboard_time": 1675084353,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 227701,
@@ -201,6 +201,14 @@
       "onboard_time": 1675086694,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213229,
+      "num": 139252,
+      "word": "工作人员称粮仓一直正常运行",
+      "onboard_time": 1675094668,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208873,
@@ -275,11 +283,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151152,
+      "num": 151152,
+      "word": "张大大说杨幂进组肯定很快乐",
+      "onboard_time": 1675096704,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151011,
       "num": 151011,
       "word": "四川回应生育登记取消结婚限制",
       "onboard_time": 1675071750,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150696,
+      "num": 150696,
+      "word": "卫星视角速览胡鑫宇案",
+      "onboard_time": 1675085254,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -297,14 +321,6 @@
       "onboard_time": 1675069591,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 148394,
-      "num": 132123,
-      "word": "卫星视角速览胡鑫宇案",
-      "onboard_time": 1675085254,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134783,
@@ -347,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110392,
-      "num": 110392,
-      "word": "工作人员称粮仓一直正常运行",
-      "onboard_time": 1675094668,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 112084,
+      "num": 112084,
+      "word": "市监局回应小城市电影票价贵",
+      "onboard_time": 1675096346,
+      "rank": 41,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 104159,
@@ -371,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102980,
+      "num": 102980,
+      "word": "难听",
+      "onboard_time": 1675072829,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 96036,
       "num": 96036,
       "word": "白敬亭十二宫格随拍",
@@ -385,6 +409,14 @@
       "onboard_time": 1675087956,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90145,
+      "num": 90145,
+      "word": "高启兰高晓晨被绑架",
+      "onboard_time": 1675084713,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 83929,
