@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675041999319,
+  "endTime": 1675043606313,
   "band_list": [
     {
       "raw_hot": 2392079,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1137613,
-      "num": 571501,
+      "num": 821082,
       "word": "胡鑫宇遗体发现地树林丛生",
       "onboard_time": 1675038450,
       "rank": 10,
@@ -83,6 +83,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 939683,
+      "num": 939683,
+      "word": "被起诉大V称未收到满江红起诉函",
+      "onboard_time": 1675041389,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 921988,
       "num": 921988,
       "word": "女子不顾父母反对嫁人感叹赌对了",
@@ -99,12 +107,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 725535,
-      "num": 567753,
-      "word": "被起诉大V称未收到满江红起诉函",
-      "onboard_time": 1675041389,
-      "rank": 11,
+      "raw_hot": 722013,
+      "num": 722013,
+      "word": "狂飙安欣不是虚构的",
+      "onboard_time": 1675036225,
+      "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 685527,
+      "num": 685527,
+      "word": "三成离婚与一方沉迷手机有关",
+      "onboard_time": 1675041449,
+      "rank": 34,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 667238,
@@ -139,19 +155,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 541849,
-      "num": 541849,
-      "word": "狂飙安欣不是虚构的",
-      "onboard_time": 1675036225,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 501441,
       "num": 501441,
       "word": "新疆沙雅6.1级地震",
       "onboard_time": 1675037430,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479620,
+      "num": 479620,
+      "word": "在大城租房还是小城买房",
+      "onboard_time": 1675040907,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -163,12 +179,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470579,
+      "num": 470579,
+      "word": "狂飙",
+      "onboard_time": 1675038450,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 463424,
       "num": 406432,
       "word": "狂飙演员演出前才知道自己真实身份",
       "onboard_time": 1674994652,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 459254,
+      "num": 459254,
+      "word": "女子吐槽小城市电影票价远超北上广",
+      "onboard_time": 1675041987,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455442,
@@ -185,14 +217,6 @@
       "onboard_time": 1675008448,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 430027,
-      "num": 410133,
-      "word": "狂飙",
-      "onboard_time": 1675038450,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 421688,
@@ -243,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376845,
+      "num": 376845,
+      "word": "朴宝剑签约YG旗下厂牌",
+      "onboard_time": 1675042707,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376342,
       "num": 376342,
       "word": "满江红官博更换微博背景字体",
@@ -257,6 +289,14 @@
       "onboard_time": 1675000352,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355222,
+      "num": 331115,
+      "word": "满江红7天为光线传媒贡献7000万营收",
+      "onboard_time": 1675042527,
+      "rank": 23,
+      "category": "影视,财经"
     },
     {
       "raw_hot": 352306,
@@ -323,10 +363,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295241,
-      "num": 295241,
-      "word": "在大城租房还是小城买房",
-      "onboard_time": 1675040907,
+      "raw_hot": 294120,
+      "num": 294120,
+      "word": "贪官傅国平老家查抄现场曝光",
+      "onboard_time": 1675042108,
       "rank": 25,
       "category": "社会新闻"
     },
@@ -345,6 +385,14 @@
       "onboard_time": 1675022353,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273584,
+      "num": 264149,
+      "word": "妈妈追狂飙问儿子唐小龙结局",
+      "onboard_time": 1675038810,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 260560,
@@ -371,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228469,
-      "num": 228469,
-      "word": "妈妈追狂飙问儿子唐小龙结局",
-      "onboard_time": 1675038810,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 219133,
       "num": 219133,
       "word": "图丫丫的房间壁纸是条形码",
@@ -401,14 +441,6 @@
       "onboard_time": 1675006232,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 211603,
-      "num": 211603,
-      "word": "三成离婚与一方沉迷手机有关",
-      "onboard_time": 1675041449,
-      "rank": 34,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 209805,
@@ -507,6 +539,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 177615,
+      "num": 177615,
+      "word": "法医解读胡鑫宇案件",
+      "onboard_time": 1675043307,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171099,
       "num": 171099,
       "word": "周也的生图",
@@ -579,6 +619,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 147003,
+      "num": 147003,
+      "word": "离家时妈妈塞的饺子里还有画",
+      "onboard_time": 1675042887,
+      "rank": 45,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 142944,
       "num": 142944,
       "word": "长相思预约破150万",
@@ -640,14 +688,6 @@
       "word": "胡鑫宇家属正申请异地公安侦查",
       "onboard_time": 1674991470,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121894,
-      "num": 121894,
-      "word": "女子吐槽小城市电影票价远超北上广",
-      "onboard_time": 1675041987,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
