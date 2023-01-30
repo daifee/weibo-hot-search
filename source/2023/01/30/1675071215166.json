@@ -1,0 +1,410 @@
+{
+  "runTime": 1675071215166,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2588038,
+        "num": 2588038,
+        "word": "四川生育登记取消结婚限制",
+        "onboard_time": 1675064792,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1683994,
+        "num": 1683994,
+        "word": "胡鑫宇遗体在学校后山仓库被找到",
+        "onboard_time": 1675053514,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196742,
+        "num": 1552076,
+        "word": "原来中国科幻的背后是中国制造",
+        "onboard_time": 1675068812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1533477,
+        "num": 1533477,
+        "word": "怎么看田亮女儿女承父业",
+        "onboard_time": 1675069170,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1217917,
+        "num": 1217917,
+        "word": "强盛集团孙红雷也是卖鱼出身",
+        "onboard_time": 1675063473,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1086490,
+        "num": 1086490,
+        "word": "乐华娱乐股价暴跌",
+        "onboard_time": 1675062092,
+        "rank": 5,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 802144,
+        "num": 802144,
+        "word": "村民称找鸡时发现胡鑫宇",
+        "onboard_time": 1675063591,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726675,
+        "num": 726675,
+        "word": "狂飙一下子变仙飙",
+        "onboard_time": 1675065873,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 638143,
+        "num": 638143,
+        "word": "为什么男生分手时都那么狠心",
+        "onboard_time": 1675069591,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 619840,
+        "num": 619840,
+        "word": "这螃蟹怎么虾里虾气的",
+        "onboard_time": 1675067849,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 565654,
+        "num": 565654,
+        "word": "不要对头发做的五件事",
+        "onboard_time": 1675066591,
+        "rank": 10,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 537026,
+        "num": 537026,
+        "word": "徐冬冬说高叶演的大嫂太好了",
+        "onboard_time": 1675065569,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534276,
+        "num": 534276,
+        "word": "王栎鑫带孩子游玩vlog",
+        "onboard_time": 1675069770,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497753,
+        "num": 497753,
+        "word": "胡鑫宇家属透露遗体发现细节",
+        "onboard_time": 1675057055,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422339,
+        "num": 422339,
+        "word": "NCT127今日新专回归",
+        "onboard_time": 1675070969,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 399689,
+        "num": 399689,
+        "word": "折腰",
+        "onboard_time": 1675067672,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412163,
+        "num": 397076,
+        "word": "胡鑫宇遗体所处区域有明显搜索痕迹",
+        "onboard_time": 1675045948,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392547,
+        "num": 392547,
+        "word": "陈妍希恋综首秀",
+        "onboard_time": 1675061792,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386082,
+        "num": 386082,
+        "word": "连农村的厕所都这么卷了",
+        "onboard_time": 1675062754,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 382850,
+        "num": 382850,
+        "word": "程耳联系王一博的过程",
+        "onboard_time": 1675070911,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350405,
+        "num": 350405,
+        "word": "张颂文说唱歌一直是我的恐惧",
+        "onboard_time": 1675065992,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342063,
+        "num": 342063,
+        "word": "三胎概念股突然大涨",
+        "onboard_time": 1675069530,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 340660,
+        "num": 340660,
+        "word": "10岁女孩疑食用售卖面包中毒身亡",
+        "onboard_time": 1675061672,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334916,
+        "num": 334916,
+        "word": "张根硕模仿黑暗荣耀里的空姐",
+        "onboard_time": 1675069409,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319302,
+        "num": 319302,
+        "word": "什么是缢吊",
+        "onboard_time": 1675050752,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289830,
+        "num": 289830,
+        "word": "浙江的服务区能有多豪华",
+        "onboard_time": 1675065992,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275838,
+        "num": 275838,
+        "word": "田亮女儿参加职业网球比赛",
+        "onboard_time": 1675054836,
+        "rank": 26,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 274046,
+        "num": 274046,
+        "word": "父亲教10岁儿子理财1年挣1570元",
+        "onboard_time": 1675063351,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260834,
+        "num": 260834,
+        "word": "全国各省离婚人数排名",
+        "onboard_time": 1675054655,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252733,
+        "num": 252733,
+        "word": "沙溢说自己是小破球最幸运的粉丝",
+        "onboard_time": 1675070308,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228743,
+        "num": 228743,
+        "word": "儿子火锅店做兼职父亲心疼落泪",
+        "onboard_time": 1675063235,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228436,
+        "num": 228436,
+        "word": "猫猫肉眼可见的心虚",
+        "onboard_time": 1675065152,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211574,
+        "num": 211574,
+        "word": "祝绪丹白开水妆开工照",
+        "onboard_time": 1675066649,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209803,
+        "num": 209803,
+        "word": "你会选择不喜欢的人结婚吗",
+        "onboard_time": 1675070128,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193405,
+        "num": 193405,
+        "word": "第一次感受到娃娃机的真诚",
+        "onboard_time": 1675070008,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191598,
+        "num": 191598,
+        "word": "PCL全球合作俱乐部官宣",
+        "onboard_time": 1675070850,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187635,
+        "num": 187635,
+        "word": "胡鑫宇遗体被找到时衣服疑似反穿",
+        "onboard_time": 1675057894,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180168,
+        "num": 180168,
+        "word": "梁朝伟王一博王传君见面好好笑",
+        "onboard_time": 1675061312,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171962,
+        "num": 171962,
+        "word": "半熟恋人2艺人阵容",
+        "onboard_time": 1675065751,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167222,
+        "num": 167222,
+        "word": "男子检查车胎发现卡住一枚戒指",
+        "onboard_time": 1675070668,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166098,
+        "num": 166098,
+        "word": "流浪地球2动物隐喻",
+        "onboard_time": 1675060591,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164574,
+        "num": 164574,
+        "word": "周翊然银发",
+        "onboard_time": 1675062929,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160972,
+        "num": 160972,
+        "word": "LV老板放话坚决打击代购",
+        "onboard_time": 1675055552,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 160268,
+        "num": 160268,
+        "word": "女子熬夜躺玩3天手机后眩晕就医",
+        "onboard_time": 1675049370,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153488,
+        "num": 153488,
+        "word": "张公案",
+        "onboard_time": 1675047031,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150992,
+        "num": 150992,
+        "word": "私信张译",
+        "onboard_time": 1675049130,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149590,
+        "num": 149590,
+        "word": "王鹤棣宁波到达路透",
+        "onboard_time": 1675065272,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147136,
+        "num": 147136,
+        "word": "狂飙",
+        "onboard_time": 1675038450,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146978,
+        "num": 146978,
+        "word": "张真源湖南卫视时光音乐会2路透",
+        "onboard_time": 1675064310,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146821,
+        "num": 146821,
+        "word": "陶渊明才是把生活过成了诗吧",
+        "onboard_time": 1675070969,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年共奋进#"
+    }
+  }
+}

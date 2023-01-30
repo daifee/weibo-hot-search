@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675070317790,
+  "endTime": 1675071215166,
   "band_list": [
     {
       "raw_hot": 4592639,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2588038,
+      "num": 2588038,
+      "word": "四川生育登记取消结婚限制",
+      "onboard_time": 1675064792,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2392079,
       "num": 2392079,
       "word": "大V称满江红制作成本不会超过一千万",
@@ -56,14 +64,6 @@
       "word": "胡鑫宇遗体发现地与其学校仅一墙之隔",
       "onboard_time": 1675028652,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2162359,
-      "num": 2162359,
-      "word": "四川生育登记取消结婚限制",
-      "onboard_time": 1675064792,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -97,6 +97,14 @@
       "onboard_time": 1675050752,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1533477,
+      "num": 1533477,
+      "word": "怎么看田亮女儿女承父业",
+      "onboard_time": 1675069170,
+      "rank": 5,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1512936,
@@ -225,14 +233,6 @@
       "onboard_time": 1675061792,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1007315,
-      "num": 1007315,
-      "word": "怎么看田亮女儿女承父业",
-      "onboard_time": 1675069170,
-      "rank": 5,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 987325,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638143,
+      "num": 638143,
+      "word": "为什么男生分手时都那么狠心",
+      "onboard_time": 1675069591,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 637328,
       "num": 637328,
       "word": "这螃蟹怎么虾里虾气的",
@@ -529,6 +537,14 @@
       "onboard_time": 1675055552,
       "rank": 47,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 534276,
+      "num": 534276,
+      "word": "王栎鑫带孩子游玩vlog",
+      "onboard_time": 1675069770,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 511284,
@@ -667,12 +683,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 428076,
-      "num": 428076,
-      "word": "王栎鑫带孩子游玩vlog",
-      "onboard_time": 1675069770,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 422339,
+      "num": 422339,
+      "word": "NCT127今日新专回归",
+      "onboard_time": 1675070969,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 421688,
@@ -715,20 +731,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399689,
+      "num": 399689,
+      "word": "折腰",
+      "onboard_time": 1675067672,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 398988,
       "num": 398988,
       "word": "女子晒老家镇上25万买的108平房子",
       "onboard_time": 1674999634,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398631,
-      "num": 398631,
-      "word": "折腰",
-      "onboard_time": 1675067672,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 398099,
@@ -768,6 +784,14 @@
       "word": "安欣准备卧底当大嫂",
       "onboard_time": 1674992672,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 382850,
+      "num": 382850,
+      "word": "程耳联系王一博的过程",
+      "onboard_time": 1675070911,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -891,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342063,
+      "num": 342063,
+      "word": "三胎概念股突然大涨",
+      "onboard_time": 1675069530,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 336620,
       "num": 336620,
       "word": "为什么有人不胖也显得虎背熊腰",
@@ -905,6 +937,14 @@
       "onboard_time": 1675049250,
       "rank": 37,
       "category": "影视,科技"
+    },
+    {
+      "raw_hot": 334916,
+      "num": 334916,
+      "word": "张根硕模仿黑暗荣耀里的空姐",
+      "onboard_time": 1675069409,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 332936,
@@ -1043,14 +1083,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 282044,
-      "num": 282044,
-      "word": "张根硕模仿黑暗荣耀里的空姐",
-      "onboard_time": 1675069409,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 279288,
       "num": 279288,
       "word": "民政局辟谣离婚队伍排到门外",
@@ -1147,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252733,
+      "num": 252733,
+      "word": "沙溢说自己是小破球最幸运的粉丝",
+      "onboard_time": 1675070308,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249448,
       "num": 249448,
       "word": "王源任敏灿烂灿烂取得发行许可证",
@@ -1169,14 +1209,6 @@
       "onboard_time": 1675058013,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 243650,
-      "num": 243650,
-      "word": "为什么男生分手时都那么狠心",
-      "onboard_time": 1675069591,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 243109,
@@ -1251,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209803,
+      "num": 209803,
+      "word": "你会选择不喜欢的人结婚吗",
+      "onboard_time": 1675070128,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208081,
       "num": 208081,
       "word": "2个月没摘隐形眼镜镜片长在眼球上",
@@ -1315,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196742,
+      "num": 1552076,
+      "word": "原来中国科幻的背后是中国制造",
+      "onboard_time": 1675068812,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195984,
       "num": 195984,
       "word": "丁程鑫亲亲爱舞蹈挑战",
@@ -1331,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193405,
+      "num": 193405,
+      "word": "第一次感受到娃娃机的真诚",
+      "onboard_time": 1675070008,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192380,
       "num": 192380,
       "word": "郭麒麟练功练到表情管理失败",
@@ -1345,6 +1401,14 @@
       "onboard_time": 1675062691,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191598,
+      "num": 191598,
+      "word": "PCL全球合作俱乐部官宣",
+      "onboard_time": 1675070850,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 186702,
@@ -1507,6 +1571,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 167222,
+      "num": 167222,
+      "word": "男子检查车胎发现卡住一枚戒指",
+      "onboard_time": 1675070668,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163785,
       "num": 163785,
       "word": "宋威龙张屏三句话让你不想再聊天",
@@ -1523,28 +1595,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 161131,
-      "num": 1509685,
-      "word": "原来中国科幻的背后是中国制造",
-      "onboard_time": 1675068812,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160857,
       "num": 160857,
       "word": "9图带你摆脱节后emo",
       "onboard_time": 1675040667,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159691,
-      "num": 159691,
-      "word": "三胎概念股突然大涨",
-      "onboard_time": 1675069530,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 158651,
@@ -1571,14 +1627,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 156590,
-      "num": 156590,
-      "word": "第一次感受到娃娃机的真诚",
-      "onboard_time": 1675070008,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156544,
       "num": 156544,
       "word": "君子盟符合你的期待吗",
@@ -1587,28 +1635,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153221,
-      "num": 153221,
-      "word": "你会选择不喜欢的人结婚吗",
-      "onboard_time": 1675070128,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 149331,
       "num": 149331,
       "word": "谢兴阳离谱又好笑的一生",
       "onboard_time": 1675007848,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148962,
-      "num": 148962,
-      "word": "沙溢说自己是小破球最幸运的粉丝",
-      "onboard_time": 1675070308,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 147813,
@@ -1641,6 +1673,14 @@
       "onboard_time": 1675042887,
       "rank": 45,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 146821,
+      "num": 146821,
+      "word": "陶渊明才是把生活过成了诗吧",
+      "onboard_time": 1675070969,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 145066,
@@ -1895,6 +1935,9 @@
     },
     {
       "word": "#回味中国年喜迎开门红#"
+    },
+    {
+      "word": "#开局之年共奋进#"
     }
   ]
 }
