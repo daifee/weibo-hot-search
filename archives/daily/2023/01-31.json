@@ -1,6 +1,6 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675106090580,
+  "endTime": 1675107203282,
   "band_list": [
     {
       "raw_hot": 1891519,
@@ -307,20 +307,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162168,
+      "num": 162168,
+      "word": "熬夜后怎么快速恢复精神",
+      "onboard_time": 1675102214,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155527,
       "num": 155527,
       "word": "宋威龙演技",
       "onboard_time": 1675078410,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 154616,
-      "num": 154616,
-      "word": "熬夜后怎么快速恢复精神",
-      "onboard_time": 1675102214,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 151011,
@@ -499,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 33746,
+      "num": 29597,
+      "word": "杜海涛说我是来半熟恋人学习的",
+      "onboard_time": 1675105813,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31360,
       "num": 31360,
       "word": "交警用高启强教育女子骑车戴头盔",
@@ -507,12 +515,12 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 26627,
-      "num": 26627,
-      "word": "杜海涛说我是来半熟恋人学习的",
-      "onboard_time": 1675105813,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 29269,
+      "num": 29269,
+      "word": "母亲为救2个落水儿子不幸遇难",
+      "onboard_time": 1675105632,
+      "rank": 32,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
