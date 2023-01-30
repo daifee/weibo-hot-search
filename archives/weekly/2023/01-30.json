@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675083552486,
+  "endTime": 1675085256813,
   "band_list": [
     {
       "raw_hot": 4592639,
@@ -91,12 +91,28 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 1822580,
+      "num": 1822580,
+      "word": "杨健你糊涂啊",
+      "onboard_time": 1675081471,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1638821,
       "num": 1638821,
       "word": "航拍胡鑫宇遗体发现地全貌",
       "onboard_time": 1675045586,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1606222,
+      "num": 942333,
+      "word": "高启强被刺杀",
+      "onboard_time": 1675083631,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1594568,
@@ -113,14 +129,6 @@
       "onboard_time": 1675050752,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1574782,
-      "num": 1574782,
-      "word": "杨健你糊涂啊",
-      "onboard_time": 1675081471,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1512936,
@@ -185,6 +193,14 @@
       "onboard_time": 1675075770,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1185903,
+      "num": 899882,
+      "word": "孟钰给自己下毒",
+      "onboard_time": 1675083032,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1184118,
@@ -321,6 +337,14 @@
       "onboard_time": 1675041389,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 939137,
+      "num": 939137,
+      "word": "男子打球6天后发现头顶卡对手2颗牙",
+      "onboard_time": 1675083153,
+      "rank": 36,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 935635,
@@ -523,14 +547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 653703,
-      "num": 653703,
-      "word": "孟钰给自己下毒",
-      "onboard_time": 1675083032,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 653507,
       "num": 653507,
       "word": "狂飙",
@@ -571,6 +587,14 @@
       "category": "财经,影视"
     },
     {
+      "raw_hot": 631008,
+      "num": 573650,
+      "word": "原来笨笨是被踹下去的",
+      "onboard_time": 1675082971,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 620710,
       "num": 620710,
       "word": "坐火车不要把手搭在下面",
@@ -601,6 +625,14 @@
       "onboard_time": 1675065569,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 583889,
+      "num": 583889,
+      "word": "网友喊话山东强盛集团自首",
+      "onboard_time": 1675081051,
+      "rank": 21,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 583180,
@@ -691,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 532287,
+      "num": 532287,
+      "word": "才知道最牛的软件是12306",
+      "onboard_time": 1675081230,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 516628,
       "num": 516628,
       "word": "男子检查车胎发现卡住一枚戒指",
@@ -699,20 +739,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514829,
-      "num": 514829,
-      "word": "网友喊话山东强盛集团自首",
-      "onboard_time": 1675081051,
-      "rank": 21,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 511284,
       "num": 511284,
       "word": "半熟恋人第二季官宣",
       "onboard_time": 1675050988,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 505710,
+      "num": 505710,
+      "word": "中核集团力挺流浪地球",
+      "onboard_time": 1675082248,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 501883,
@@ -867,27 +907,19 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 434862,
-      "num": 434862,
-      "word": "才知道最牛的软件是12306",
-      "onboard_time": 1675081230,
-      "rank": 29,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 432244,
-      "num": 432244,
-      "word": "中核集团力挺流浪地球",
-      "onboard_time": 1675082248,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 428153,
       "num": 428153,
       "word": "满江红官博称追究到底",
       "onboard_time": 1675054894,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 425154,
+      "num": 425154,
+      "word": "井柏然台词",
+      "onboard_time": 1675081768,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -968,14 +1000,6 @@
       "word": "邓超孙俪云包场春节档六部电影",
       "onboard_time": 1675060531,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 395417,
-      "num": 356529,
-      "word": "井柏然台词",
-      "onboard_time": 1675081768,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -1105,14 +1129,6 @@
       "onboard_time": 1675066649,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 348700,
-      "num": 348700,
-      "word": "原来笨笨是被踹下去的",
-      "onboard_time": 1675082971,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 347205,
@@ -1264,6 +1280,14 @@
       "word": "杨紫范丞丞199爱校服路透",
       "onboard_time": 1675063054,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 312652,
+      "num": 312652,
+      "word": "三体第17集好刺激",
+      "onboard_time": 1675083813,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -1443,6 +1467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255179,
+      "num": 203065,
+      "word": "高启兰高晓晨被绑架",
+      "onboard_time": 1675084713,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252733,
       "num": 252733,
       "word": "沙溢说自己是小破球最幸运的粉丝",
@@ -1553,6 +1585,14 @@
       "onboard_time": 1675080269,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222709,
+      "num": 199558,
+      "word": "尸检能否查明死亡原因",
+      "onboard_time": 1675084353,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219133,
@@ -1723,6 +1763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192904,
+      "num": 192904,
+      "word": "许凯说不是买彩票是自助付款机",
+      "onboard_time": 1675084775,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192380,
       "num": 192380,
       "word": "郭麒麟练功练到表情管理失败",
@@ -1761,14 +1809,6 @@
       "onboard_time": 1674987271,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 185396,
-      "num": 185396,
-      "word": "男子打球6天后发现头顶卡对手2颗牙",
-      "onboard_time": 1675083153,
-      "rank": 36,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 183832,
@@ -1849,6 +1889,14 @@
       "onboard_time": 1675061971,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178277,
+      "num": 178277,
+      "word": "孟钰杨健吵架",
+      "onboard_time": 1675083572,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 177813,
@@ -2003,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149594,
+      "num": 149594,
+      "word": "小猫咪可以有多妖娆",
+      "onboard_time": 1675084834,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149331,
       "num": 149331,
       "word": "谢兴阳离谱又好笑的一生",
@@ -2075,6 +2131,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 144817,
+      "num": 144817,
+      "word": "广东人家里都会有的东西",
+      "onboard_time": 1675084353,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142944,
       "num": 142944,
       "word": "长相思预约破150万",
@@ -2091,12 +2155,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140536,
+      "num": 140536,
+      "word": "向白云深处跑去",
+      "onboard_time": 1675084170,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140229,
       "num": 140229,
       "word": "女孩旅游前全屋铺满猫砂吓坏小猫",
       "onboard_time": 1675017674,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139979,
+      "num": 139979,
+      "word": "狂飙安欣的真实原型之一",
+      "onboard_time": 1675085133,
+      "rank": 45,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 139007,
