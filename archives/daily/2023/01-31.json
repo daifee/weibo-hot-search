@@ -1,6 +1,6 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675099061523,
+  "endTime": 1675100015651,
   "band_list": [
     {
       "raw_hot": 1891519,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195634,
+      "num": 195634,
+      "word": "人民文娱评春节档要拒绝饭圈化",
+      "onboard_time": 1675099578,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192047,
       "num": 192047,
       "word": "网友喊话山东强盛集团自首",
@@ -355,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118440,
+      "num": 118440,
+      "word": "张译的文笔",
+      "onboard_time": 1675098140,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113927,
       "num": 113927,
       "word": "打得对手满地找牙原来是真的",
@@ -369,6 +385,14 @@
       "onboard_time": 1675079851,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110560,
+      "num": 99540,
+      "word": "强盛集团孙红雷直播被买鱼刷屏",
+      "onboard_time": 1675098561,
+      "rank": 35,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 106074,
@@ -403,14 +427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 99540,
-      "num": 99540,
-      "word": "强盛集团孙红雷直播被买鱼刷屏",
-      "onboard_time": 1675098561,
-      "rank": 35,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 96036,
       "num": 96036,
       "word": "白敬亭十二宫格随拍",
@@ -425,14 +441,6 @@
       "onboard_time": 1675087956,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 93919,
-      "num": 93919,
-      "word": "张译的文笔",
-      "onboard_time": 1675098140,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 90145,
