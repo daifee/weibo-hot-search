@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675078407042,
+  "endTime": 1675082206054,
   "band_list": [
     {
       "raw_hot": 4592639,
@@ -163,6 +163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1321953,
+      "num": 1321953,
+      "word": "杭州岳庙秦桧像被砸烂9次",
+      "onboard_time": 1675076614,
+      "rank": 14,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 1228153,
+      "num": 1016987,
+      "word": "胡鑫宇母亲称曾去粮库寻找过",
+      "onboard_time": 1675075770,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1184118,
       "num": 1184118,
       "word": "村民称找鸡时发现胡鑫宇",
@@ -235,19 +251,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1050898,
+      "num": 1050898,
+      "word": "杨健你糊涂啊",
+      "onboard_time": 1675081471,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1049066,
       "num": 1049066,
       "word": "民政局开工离婚队伍排到门外",
       "onboard_time": 1675015635,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1016987,
-      "num": 1016987,
-      "word": "胡鑫宇母亲称曾去粮库寻找过",
-      "onboard_time": 1675075770,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -307,14 +323,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 924455,
-      "num": 481982,
-      "word": "杭州岳庙秦桧像被砸烂9次",
-      "onboard_time": 1675076614,
-      "rank": 14,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 921988,
       "num": 921988,
       "word": "女子不顾父母反对嫁人感叹赌对了",
@@ -345,6 +353,14 @@
       "onboard_time": 1675061672,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 853239,
+      "num": 853239,
+      "word": "流浪地球杀疯了",
+      "onboard_time": 1675078653,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 852873,
@@ -539,12 +555,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 618286,
+      "num": 618286,
+      "word": "第一次想用油腻形容猫",
+      "onboard_time": 1675078828,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 611197,
       "num": 611197,
       "word": "李飞对时代少年团成员的评价",
       "onboard_time": 1675073070,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 608723,
+      "num": 533349,
+      "word": "胡鑫宇案导致其学校部分学生退学系谣言",
+      "onboard_time": 1675077452,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 606324,
@@ -603,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557763,
+      "num": 557763,
+      "word": "李健穿长裤",
+      "onboard_time": 1675079489,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 548589,
       "num": 548589,
       "word": "没想到真能一刀砍到手机",
@@ -659,6 +699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 488566,
+      "num": 488566,
+      "word": "宋威龙演技",
+      "onboard_time": 1675078410,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 485229,
       "num": 485229,
       "word": "NBA裁判道歉",
@@ -673,6 +721,14 @@
       "onboard_time": 1675055195,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483330,
+      "num": 483330,
+      "word": "日本船只非法进入我钓鱼岛领海",
+      "onboard_time": 1675079670,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 479620,
@@ -827,14 +883,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 403452,
-      "num": 375681,
-      "word": "胡鑫宇案导致其学校部分学生退学系谣言",
-      "onboard_time": 1675077452,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 400575,
       "num": 400575,
       "word": "法医称警方通报暂未指明胡鑫宇死亡原因",
@@ -880,6 +928,14 @@
       "word": "YG新女团成员李茶仁公开",
       "onboard_time": 1675036467,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 389325,
+      "num": 389325,
+      "word": "佟丽娅分享视频为儿子庆生",
+      "onboard_time": 1675080932,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -945,6 +1001,14 @@
       "onboard_time": 1675042707,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376389,
+      "num": 376389,
+      "word": "安欣赌孟钰不会害自己",
+      "onboard_time": 1675082131,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 376342,
@@ -1091,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328938,
+      "num": 328938,
+      "word": "网友喊话山东强盛集团自首",
+      "onboard_time": 1675081051,
+      "rank": 21,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 326078,
       "num": 326078,
       "word": "宋威龙台词",
@@ -1233,6 +1305,14 @@
       "onboard_time": 1675054415,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 275421,
+      "num": 275421,
+      "word": "刚出道时的王力宏",
+      "onboard_time": 1675079851,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 270525,
@@ -1411,11 +1491,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230708,
+      "num": 230708,
+      "word": "才知道最牛的软件是12306",
+      "onboard_time": 1675081230,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 226488,
       "num": 226488,
       "word": "你是我的永恒星辰定档0203",
       "onboard_time": 1675047809,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 225260,
+      "num": 225260,
+      "word": "你在流浪地球2里多少岁",
+      "onboard_time": 1675080269,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1427,12 +1523,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218054,
+      "num": 218054,
+      "word": "生育登记并非上户口",
+      "onboard_time": 1675079549,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217489,
       "num": 217489,
       "word": "刘海宽包场电影无名",
       "onboard_time": 1675004076,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216900,
+      "num": 216900,
+      "word": "宋亚轩刘耀文嘟嘴",
+      "onboard_time": 1675079190,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 213797,
@@ -1449,6 +1561,14 @@
       "onboard_time": 1675072410,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212284,
+      "num": 212284,
+      "word": "井柏然台词",
+      "onboard_time": 1675081768,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 209805,
@@ -1483,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203096,
+      "num": 203096,
+      "word": "电影满江红出品方商业版图",
+      "onboard_time": 1675077691,
+      "rank": 32,
+      "category": "影视,财经"
+    },
+    {
       "raw_hot": 200491,
       "num": 200491,
       "word": "胡先煦王彦霖凭本事二搭",
@@ -1497,6 +1625,14 @@
       "onboard_time": 1675056152,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198833,
+      "num": 198833,
+      "word": "北京重点商圈将开展外摆试点",
+      "onboard_time": 1675078050,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198599,
@@ -1585,14 +1721,6 @@
       "onboard_time": 1675070850,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 186987,
-      "num": 186987,
-      "word": "电影满江红出品方商业版图",
-      "onboard_time": 1675077691,
-      "rank": 32,
-      "category": "影视,财经"
     },
     {
       "raw_hot": 186702,
@@ -1835,20 +1963,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 152750,
-      "num": 152750,
-      "word": "北京重点商圈将开展外摆试点",
-      "onboard_time": 1675078050,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149331,
       "num": 149331,
       "word": "谢兴阳离谱又好笑的一生",
       "onboard_time": 1675007848,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149001,
+      "num": 149001,
+      "word": "鞠婧祎九宫格营业照",
+      "onboard_time": 1675080631,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 147813,
@@ -1889,6 +2017,14 @@
       "onboard_time": 1675070969,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146547,
+      "num": 146547,
+      "word": "安阳岳飞庙游客爆满",
+      "onboard_time": 1675080269,
+      "rank": 48,
+      "category": "旅游,影视"
     },
     {
       "raw_hot": 145066,
