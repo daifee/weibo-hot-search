@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675085906460,
+  "endTime": 1675088224994,
   "band_list": [
     {
       "raw_hot": 4592639,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1532737,
+      "num": 1210495,
+      "word": "孟德海 嘴型",
+      "onboard_time": 1675085430,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1512936,
       "num": 934213,
       "word": "殡仪馆称胡鑫宇已不是原来样貌",
@@ -179,20 +187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1353196,
+      "num": 1353196,
+      "word": "男子打球6天后发现头顶卡对手2颗牙",
+      "onboard_time": 1675083153,
+      "rank": 36,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1321953,
       "num": 1321953,
       "word": "杭州岳庙秦桧像被砸烂9次",
       "onboard_time": 1675076614,
       "rank": 14,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 1246190,
-      "num": 1246190,
-      "word": "男子打球6天后发现头顶卡对手2颗牙",
-      "onboard_time": 1675083153,
-      "rank": 36,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1228153,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 1214016,
-      "num": 899882,
+      "num": 1071111,
       "word": "孟钰给自己下毒",
       "onboard_time": 1675083032,
       "rank": 7,
@@ -216,6 +224,14 @@
       "word": "村民称找鸡时发现胡鑫宇",
       "onboard_time": 1675063591,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1178087,
+      "num": 1178087,
+      "word": "女大学生寒假捡6天烟花纸壳卖不掉",
+      "onboard_time": 1675086332,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -369,6 +385,14 @@
       "onboard_time": 1675072351,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 898988,
+      "num": 898988,
+      "word": "尸检能否查明死亡原因",
+      "onboard_time": 1675084353,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 888145,
@@ -731,6 +755,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520825,
+      "num": 520825,
+      "word": "高启兰高晓晨被绑架",
+      "onboard_time": 1675084713,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 519973,
+      "num": 519973,
+      "word": "刘慈欣说流浪地球2是电影团队原创",
+      "onboard_time": 1675086694,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 516628,
       "num": 516628,
       "word": "男子检查车胎发现卡住一枚戒指",
@@ -745,6 +785,14 @@
       "onboard_time": 1675050988,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 509843,
+      "num": 509843,
+      "word": "原来真的会有人爱你像宠小孩",
+      "onboard_time": 1675085970,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 505710,
@@ -769,6 +817,14 @@
       "onboard_time": 1675037430,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500288,
+      "num": 500288,
+      "word": "流浪地球票房",
+      "onboard_time": 1675086273,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 497424,
@@ -899,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 447365,
+      "num": 447365,
+      "word": "女孩寒假摆摊卖玩具半月赚万元",
+      "onboard_time": 1675085495,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447227,
       "num": 447227,
       "word": "张译奇怪的出圈方式",
@@ -913,22 +977,6 @@
       "onboard_time": 1675051653,
       "rank": 35,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 432602,
-      "num": 432602,
-      "word": "高启兰高晓晨被绑架",
-      "onboard_time": 1675084713,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 429207,
-      "num": 233449,
-      "word": "尸检能否查明死亡原因",
-      "onboard_time": 1675084353,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 428153,
@@ -1131,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353311,
+      "num": 353311,
+      "word": "网友泰国偶遇蔡徐坤",
+      "onboard_time": 1675087714,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352306,
       "num": 299901,
       "word": "地毯式搜索为何没找到胡鑫宇",
@@ -1145,14 +1201,6 @@
       "onboard_time": 1675066649,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 352228,
-      "num": 352228,
-      "word": "孟德海 嘴型",
-      "onboard_time": 1675085430,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 347205,
@@ -1241,6 +1289,14 @@
       "onboard_time": 1674991174,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327688,
+      "num": 327688,
+      "word": "广东人家里都会有的东西",
+      "onboard_time": 1675084353,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 326078,
@@ -1347,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297970,
+      "num": 297970,
+      "word": "卫星视角速览胡鑫宇案",
+      "onboard_time": 1675085254,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292886,
       "num": 292886,
       "word": "3小孩坠冰窟男子徒手砸冰全救起",
@@ -1417,6 +1481,14 @@
       "onboard_time": 1675079851,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272335,
+      "num": 272335,
+      "word": "会走路和不会走路的都沉默了",
+      "onboard_time": 1675085854,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 270525,
@@ -1579,12 +1651,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 239168,
-      "num": 213802,
-      "word": "卫星视角速览胡鑫宇案",
-      "onboard_time": 1675085254,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 236200,
+      "num": 236200,
+      "word": "杨幂戴假发没被人认出来",
+      "onboard_time": 1675087231,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 233600,
@@ -1675,20 +1747,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 211983,
-      "num": 211983,
-      "word": "广东人家里都会有的东西",
-      "onboard_time": 1675084353,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 209805,
       "num": 209805,
       "word": "吴京问你老大是不是MOSS",
       "onboard_time": 1675002156,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209195,
+      "num": 209195,
+      "word": "小猫咪可以有多妖娆",
+      "onboard_time": 1675084834,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 208457,
@@ -1923,14 +1995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179076,
-      "num": 179076,
-      "word": "小猫咪可以有多妖娆",
-      "onboard_time": 1675084834,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 178897,
       "num": 178897,
       "word": "它甚至连节奏都对上了",
@@ -2009,6 +2073,14 @@
       "onboard_time": 1675062214,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168763,
+      "num": 162347,
+      "word": "胡鑫宇家属称尚不清楚录音笔内容",
+      "onboard_time": 1675087411,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168132,
@@ -2171,6 +2243,14 @@
       "category": "旅游,影视"
     },
     {
+      "raw_hot": 146099,
+      "num": 146099,
+      "word": "当你有个很会做衣服的妈妈",
+      "onboard_time": 1675087956,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145066,
       "num": 145066,
       "word": "返乡买房是好主意吗",
@@ -2219,14 +2299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 136387,
-      "num": 136387,
-      "word": "女孩寒假摆摊卖玩具半月赚万元",
-      "onboard_time": 1675085495,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135741,
       "num": 135741,
       "word": "狗子回村谈了场恋爱返程难舍难分",
@@ -2241,14 +2313,6 @@
       "onboard_time": 1675085673,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 132148,
-      "num": 132148,
-      "word": "会走路和不会走路的都沉默了",
-      "onboard_time": 1675085854,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 130442,
@@ -2337,6 +2401,14 @@
       "onboard_time": 1675033638,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117420,
+      "num": 117420,
+      "word": "小狗闻人闻得好仔细",
+      "onboard_time": 1675088134,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 116862,
