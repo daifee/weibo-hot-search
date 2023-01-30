@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675046409224,
+  "endTime": 1675046987961,
   "band_list": [
     {
       "raw_hot": 2392079,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1173498,
-      "num": 229058,
+      "num": 280572,
       "word": "法医解读胡鑫宇案件",
       "onboard_time": 1675043307,
       "rank": 37,
@@ -65,6 +65,14 @@
       "onboard_time": 1675004676,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1090025,
+      "num": 1090025,
+      "word": "为什么年后会是离婚高发期",
+      "onboard_time": 1675045525,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1049066,
@@ -115,12 +123,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 766858,
-      "num": 766858,
-      "word": "为什么年后会是离婚高发期",
-      "onboard_time": 1675045525,
-      "rank": 4,
-      "category": "情感"
+      "raw_hot": 770705,
+      "num": 770705,
+      "word": "小陆说不了话了",
+      "onboard_time": 1675045468,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 756886,
@@ -163,19 +171,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 642690,
-      "num": 587124,
-      "word": "小陆说不了话了",
-      "onboard_time": 1675045468,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 640528,
-      "num": 584876,
+      "num": 597673,
       "word": "夫妻过年捡烟花纸壳7天捡5000斤",
       "onboard_time": 1675044388,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 633416,
+      "num": 587304,
+      "word": "航拍胡鑫宇遗体发现地全貌",
+      "onboard_time": 1675045586,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569583,
+      "num": 499391,
+      "word": "胡鑫宇遗体所处区域有明显搜索痕迹",
+      "onboard_time": 1675045948,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 567093,
       "num": 567093,
       "word": "大嫂嫁给谁 谁就是大哥",
@@ -195,12 +211,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 560891,
+      "num": 560891,
+      "word": "妹妹把哥哥的寒假作业写完了",
+      "onboard_time": 1675045525,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501441,
       "num": 501441,
       "word": "新疆沙雅6.1级地震",
       "onboard_time": 1675037430,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485229,
+      "num": 485229,
+      "word": "NBA裁判道歉",
+      "onboard_time": 1675045285,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 479620,
@@ -259,20 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448802,
-      "num": 448802,
-      "word": "NBA裁判道歉",
-      "onboard_time": 1675045285,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 438648,
-      "num": 402509,
-      "word": "航拍胡鑫宇遗体发现地全貌",
-      "onboard_time": 1675045586,
+      "raw_hot": 444345,
+      "num": 444345,
+      "word": "网剧飞驰人生全阵容官宣",
+      "onboard_time": 1675046788,
       "rank": 19,
-      "category": "社会新闻"
+      "category": "影视"
     },
     {
       "raw_hot": 421688,
@@ -355,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356053,
-      "num": 356053,
-      "word": "妹妹把哥哥的寒假作业写完了",
-      "onboard_time": 1675045525,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352306,
       "num": 299901,
       "word": "地毯式搜索为何没找到胡鑫宇",
@@ -409,6 +425,22 @@
       "onboard_time": 1674991174,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323768,
+      "num": 323768,
+      "word": "亲历者讲述胡鑫宇搜救过程",
+      "onboard_time": 1675045468,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323202,
+      "num": 323202,
+      "word": "王鹤棣黑色飞行夹克机场出发路透",
+      "onboard_time": 1675046788,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 321533,
@@ -475,22 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230027,
-      "num": 230027,
-      "word": "亲历者讲述胡鑫宇搜救过程",
-      "onboard_time": 1675045468,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222056,
-      "num": 222056,
-      "word": "胡鑫宇遗体所处区域有明显搜索痕迹",
-      "onboard_time": 1675045948,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219133,
       "num": 219133,
       "word": "图丫丫的房间壁纸是条形码",
@@ -537,6 +553,14 @@
       "onboard_time": 1675036705,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200557,
+      "num": 200557,
+      "word": "李昌钰辟谣网传胡鑫宇案论断",
+      "onboard_time": 1675046428,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198599,
@@ -611,6 +635,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 172604,
+      "num": 172604,
+      "word": "你觉得毕业生多少起薪合适",
+      "onboard_time": 1675046967,
+      "rank": 39,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 171099,
       "num": 171099,
       "word": "周也的生图",
@@ -649,6 +681,14 @@
       "onboard_time": 1675040667,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160429,
+      "num": 160429,
+      "word": "詹姆斯浓眉缺席对阵篮网",
+      "onboard_time": 1675046188,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 158651,
@@ -723,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141468,
+      "num": 141468,
+      "word": "返乡买房是好主意吗",
+      "onboard_time": 1675046126,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 140229,
       "num": 140229,
       "word": "女孩旅游前全屋铺满猫砂吓坏小猫",
@@ -739,14 +787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138037,
-      "num": 138037,
-      "word": "詹姆斯浓眉缺席对阵篮网",
-      "onboard_time": 1675046188,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135741,
       "num": 135741,
       "word": "狗子回村谈了场恋爱返程难舍难分",
@@ -755,12 +795,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128326,
-      "num": 128326,
-      "word": "返乡买房是好主意吗",
-      "onboard_time": 1675046126,
-      "rank": 44,
-      "category": "财经,社会新闻"
+      "raw_hot": 127849,
+      "num": 127849,
+      "word": "林高远写福字",
+      "onboard_time": 1675045525,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 125884,
@@ -833,14 +873,6 @@
       "onboard_time": 1674975272,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 109528,
-      "num": 109528,
-      "word": "林高远写福字",
-      "onboard_time": 1675045525,
-      "rank": 49,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 107104,
