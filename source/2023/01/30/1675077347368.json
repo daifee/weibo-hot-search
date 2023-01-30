@@ -1,0 +1,410 @@
+{
+  "runTime": 1675077347368,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2636769,
+        "num": 2636769,
+        "word": "胡鑫宇录音笔解析结果今日将出",
+        "onboard_time": 1675074510,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1644704,
+        "num": 1644704,
+        "word": "怎么看田亮女儿女承父业",
+        "onboard_time": 1675069170,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 180446,
+        "num": 1138149,
+        "word": "原来中国科幻的背后是中国制造",
+        "onboard_time": 1675068812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1132812,
+        "num": 1132812,
+        "word": "胡鑫宇遗体在学校后山仓库被找到",
+        "onboard_time": 1675053514,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070596,
+        "num": 1070596,
+        "word": "难听",
+        "onboard_time": 1675072829,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 800079,
+        "num": 800079,
+        "word": "流浪地球2跻身北美周末票房前十",
+        "onboard_time": 1675074988,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 751503,
+        "num": 751503,
+        "word": "强盛集团孙红雷也是卖鱼出身",
+        "onboard_time": 1675063473,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 589856,
+        "num": 589856,
+        "word": "为什么男生分手时都那么狠心",
+        "onboard_time": 1675069591,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 581626,
+        "num": 581626,
+        "word": "四川回应生育登记取消结婚限制",
+        "onboard_time": 1675071750,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576957,
+        "num": 576957,
+        "word": "业内人士赞王一博无名表现优秀",
+        "onboard_time": 1675075411,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 678853,
+        "num": 576625,
+        "word": "胡鑫宇母亲称曾去粮库寻找过",
+        "onboard_time": 1675075770,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576215,
+        "num": 576215,
+        "word": "乐华娱乐股价暴跌",
+        "onboard_time": 1675062092,
+        "rank": 11,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 550236,
+        "num": 550236,
+        "word": "四川生育登记取消结婚限制",
+        "onboard_time": 1675064792,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528616,
+        "num": 528616,
+        "word": "张颂文修改全民K歌个性签名",
+        "onboard_time": 1675072351,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 479877,
+        "num": 479877,
+        "word": "杭州岳庙秦桧像被砸烂9次",
+        "onboard_time": 1675076614,
+        "rank": 14,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 462499,
+        "num": 462499,
+        "word": "村民称找鸡时发现胡鑫宇",
+        "onboard_time": 1675063591,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462127,
+        "num": 462127,
+        "word": "狂飙一下子变仙飙",
+        "onboard_time": 1675065873,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415057,
+        "num": 415057,
+        "word": "李飞对时代少年团成员的评价",
+        "onboard_time": 1675073070,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412630,
+        "num": 412630,
+        "word": "坐火车不要把手搭在下面",
+        "onboard_time": 1675071571,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 351904,
+        "num": 351904,
+        "word": "男子检查车胎发现卡住一枚戒指",
+        "onboard_time": 1675070668,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338250,
+        "num": 338250,
+        "word": "这螃蟹怎么虾里虾气的",
+        "onboard_time": 1675067849,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331552,
+        "num": 331552,
+        "word": "这猫怎么是扁平足啊",
+        "onboard_time": 1675073131,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321300,
+        "num": 321300,
+        "word": "李现逛超市和路人互道新年快乐",
+        "onboard_time": 1675075232,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321299,
+        "num": 321299,
+        "word": "三胎概念股突然大涨",
+        "onboard_time": 1675069530,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 318719,
+        "num": 318719,
+        "word": "胡鑫宇家属透露遗体发现细节",
+        "onboard_time": 1675057055,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304003,
+        "num": 304003,
+        "word": "强盛集团开通微博关注张颂文",
+        "onboard_time": 1675073009,
+        "rank": 25,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 293620,
+        "num": 293620,
+        "word": "蔡徐坤雾霾蓝发色度假随拍",
+        "onboard_time": 1675071689,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268052,
+        "num": 268052,
+        "word": "时代少年团新歌纯享版舞台",
+        "onboard_time": 1675076312,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242626,
+        "num": 242626,
+        "word": "10岁女孩疑食用售卖面包中毒身亡",
+        "onboard_time": 1675061672,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237833,
+        "num": 237833,
+        "word": "相思令",
+        "onboard_time": 1675074151,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235576,
+        "num": 235576,
+        "word": "好羡慕头发不会出油的人",
+        "onboard_time": 1675072470,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185062,
+        "num": 185062,
+        "word": "陈妍希恋综首秀",
+        "onboard_time": 1675061792,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183420,
+        "num": 183420,
+        "word": "王栎鑫带孩子游玩vlog",
+        "onboard_time": 1675069770,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183364,
+        "num": 183364,
+        "word": "节后减脂就靠它了",
+        "onboard_time": 1675075289,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181510,
+        "num": 181510,
+        "word": "不要对头发做的五件事",
+        "onboard_time": 1675066591,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 181397,
+        "num": 181397,
+        "word": "父亲教10岁儿子理财1年挣1570元",
+        "onboard_time": 1675063351,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174759,
+        "num": 174759,
+        "word": "2023LPL春季赛",
+        "onboard_time": 1675072410,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174433,
+        "num": 174433,
+        "word": "一句话证明看过狂飙",
+        "onboard_time": 1675077212,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169775,
+        "num": 169775,
+        "word": "沙溢说自己是小破球最幸运的粉丝",
+        "onboard_time": 1675070308,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168989,
+        "num": 168989,
+        "word": "折腰",
+        "onboard_time": 1675067672,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167993,
+        "num": 167993,
+        "word": "张颂文说唱歌一直是我的恐惧",
+        "onboard_time": 1675065992,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159783,
+        "num": 159783,
+        "word": "如何看待乐华娱乐股价暴跌",
+        "onboard_time": 1675076430,
+        "rank": 41,
+        "category": "财经,影视"
+      },
+      {
+        "raw_hot": 158475,
+        "num": 158475,
+        "word": "你会选择不喜欢的人结婚吗",
+        "onboard_time": 1675070128,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154491,
+        "num": 154491,
+        "word": "连农村的厕所都这么卷了",
+        "onboard_time": 1675062754,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153337,
+        "num": 153337,
+        "word": "张根硕模仿黑暗荣耀里的空姐",
+        "onboard_time": 1675069409,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151766,
+        "num": 151766,
+        "word": "狂飙",
+        "onboard_time": 1675038450,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150475,
+        "num": 150475,
+        "word": "程耳联系王一博的过程",
+        "onboard_time": 1675070911,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148660,
+        "num": 148660,
+        "word": "狂飙的驴哥是有些技能在身上的",
+        "onboard_time": 1675076012,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142466,
+        "num": 142466,
+        "word": "NCT127今日新专回归",
+        "onboard_time": 1675070969,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147381,
+        "num": 138552,
+        "word": "徐冬冬说高叶演的大嫂太好了",
+        "onboard_time": 1675065569,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#回味中国年喜迎开门红#"
+    }
+  }
+}
