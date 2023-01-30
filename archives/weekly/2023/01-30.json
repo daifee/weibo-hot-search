@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675067050479,
+  "endTime": 1675067870142,
   "band_list": [
     {
       "raw_hot": 4592639,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1499294,
+      "num": 1499294,
+      "word": "四川生育登记取消结婚限制",
+      "onboard_time": 1675064792,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1473843,
       "num": 1372227,
       "word": "井柏然宋威龙张公案改名君子盟空降",
@@ -128,14 +136,6 @@
       "word": "胡鑫宇尸检已完成",
       "onboard_time": 1674988052,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1343950,
-      "num": 1343950,
-      "word": "四川生育登记取消结婚限制",
-      "onboard_time": 1675064792,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -443,6 +443,14 @@
       "category": "财经,影视"
     },
     {
+      "raw_hot": 601399,
+      "num": 601399,
+      "word": "徐冬冬说高叶演的大嫂太好了",
+      "onboard_time": 1675065569,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 573556,
       "num": 573556,
       "word": "男子误把绿色动车当绿皮车抽烟被拘",
@@ -491,20 +499,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 531500,
+      "num": 531500,
+      "word": "狂飙一下子变仙飙",
+      "onboard_time": 1675065873,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 511284,
       "num": 511284,
       "word": "半熟恋人第二季官宣",
       "onboard_time": 1675050988,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 505250,
-      "num": 505250,
-      "word": "徐冬冬说高叶演的大嫂太好了",
-      "onboard_time": 1675065569,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 501441,
@@ -595,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451870,
+      "num": 451870,
+      "word": "儿子火锅店做兼职父亲心疼落泪",
+      "onboard_time": 1675063235,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449630,
       "num": 449630,
       "word": "成龙刘浩存新片演父女",
@@ -625,14 +641,6 @@
       "onboard_time": 1675054894,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 427092,
-      "num": 427092,
-      "word": "儿子火锅店做兼职父亲心疼落泪",
-      "onboard_time": 1675063235,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 421688,
@@ -681,6 +689,14 @@
       "onboard_time": 1674999634,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398099,
+      "num": 398099,
+      "word": "浙江的服务区能有多豪华",
+      "onboard_time": 1675065992,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 397445,
@@ -777,6 +793,22 @@
       "onboard_time": 1674998255,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352253,
+      "num": 352253,
+      "word": "祝绪丹白开水妆开工照",
+      "onboard_time": 1675066649,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 350361,
+      "num": 350361,
+      "word": "张颂文说唱歌一直是我的恐惧",
+      "onboard_time": 1675065992,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 347205,
@@ -915,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 312244,
+      "num": 312244,
+      "word": "不要对头发做的五件事",
+      "onboard_time": 1675066591,
+      "rank": 44,
+      "category": "其它"
+    },
+    {
       "raw_hot": 312179,
       "num": 312179,
       "word": "周翊然银发",
@@ -947,14 +987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 296053,
-      "num": 296053,
-      "word": "狂飙一下子变仙飙",
-      "onboard_time": 1675065873,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 292886,
       "num": 292886,
       "word": "3小孩坠冰窟男子徒手砸冰全救起",
@@ -985,14 +1017,6 @@
       "onboard_time": 1675015635,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277998,
-      "num": 277998,
-      "word": "祝绪丹白开水妆开工照",
-      "onboard_time": 1675066649,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 277755,
@@ -1033,6 +1057,14 @@
       "onboard_time": 1675064310,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267683,
+      "num": 267683,
+      "word": "折腰",
+      "onboard_time": 1675067672,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 265371,
@@ -1083,28 +1115,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 254621,
-      "num": 254621,
-      "word": "浙江的服务区能有多豪华",
-      "onboard_time": 1675065992,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 249448,
       "num": 249448,
       "word": "王源任敏灿烂灿烂取得发行许可证",
       "onboard_time": 1675055850,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 249336,
-      "num": 249336,
-      "word": "张颂文说唱歌一直是我的恐惧",
-      "onboard_time": 1675065992,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 248412,
@@ -1273,14 +1289,6 @@
       "onboard_time": 1675066649,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191908,
-      "num": 191908,
-      "word": "不要对头发做的五件事",
-      "onboard_time": 1675066591,
-      "rank": 44,
-      "category": "其它"
     },
     {
       "raw_hot": 191635,
@@ -1489,6 +1497,14 @@
       "onboard_time": 1675060234,
       "rank": 44,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 157240,
+      "num": 157240,
+      "word": "这螃蟹怎么虾里虾气的",
+      "onboard_time": 1675067849,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 156544,
