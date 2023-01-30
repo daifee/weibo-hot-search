@@ -1,0 +1,410 @@
+{
+  "runTime": 1675067050479,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2046868,
+        "num": 2046868,
+        "word": "胡鑫宇遗体在学校后山仓库被找到",
+        "onboard_time": 1675053514,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1928397,
+        "num": 1928397,
+        "word": "乐华娱乐股价暴跌",
+        "onboard_time": 1675062092,
+        "rank": 1,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 53356,
+        "num": 1715911,
+        "word": "多地发力拼经济新春开门稳",
+        "onboard_time": 1675048106,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1594568,
+        "num": 1594568,
+        "word": "强盛集团孙红雷也是卖鱼出身",
+        "onboard_time": 1675063473,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1343950,
+        "num": 1343950,
+        "word": "四川生育登记取消结婚限制",
+        "onboard_time": 1675064792,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184118,
+        "num": 1184118,
+        "word": "村民称找鸡时发现胡鑫宇",
+        "onboard_time": 1675063591,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809037,
+        "num": 809037,
+        "word": "连农村的厕所都这么卷了",
+        "onboard_time": 1675062754,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 732602,
+        "num": 732602,
+        "word": "陈妍希恋综首秀",
+        "onboard_time": 1675061792,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 719823,
+        "num": 719823,
+        "word": "10岁女孩疑食用售卖面包中毒身亡",
+        "onboard_time": 1675061672,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563454,
+        "num": 563454,
+        "word": "父亲教10岁儿子理财1年挣1570元",
+        "onboard_time": 1675063351,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665304,
+        "num": 561009,
+        "word": "胡鑫宇遗体所处区域有明显搜索痕迹",
+        "onboard_time": 1675045948,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521576,
+        "num": 521576,
+        "word": "田亮女儿参加职业网球比赛",
+        "onboard_time": 1675054836,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 505250,
+        "num": 505250,
+        "word": "徐冬冬说高叶演的大嫂太好了",
+        "onboard_time": 1675065569,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 562777,
+        "num": 476133,
+        "word": "胡鑫宇家属透露遗体发现细节",
+        "onboard_time": 1675057055,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427092,
+        "num": 427092,
+        "word": "儿子火锅店做兼职父亲心疼落泪",
+        "onboard_time": 1675063235,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423465,
+        "num": 423465,
+        "word": "全国各省离婚人数排名",
+        "onboard_time": 1675054655,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513896,
+        "num": 415832,
+        "word": "什么是缢吊",
+        "onboard_time": 1675050752,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394765,
+        "num": 394765,
+        "word": "梁朝伟王一博王传君见面好好笑",
+        "onboard_time": 1675061312,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345554,
+        "num": 345554,
+        "word": "王鹤棣宁波到达路透",
+        "onboard_time": 1675065272,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343247,
+        "num": 343247,
+        "word": "猫猫肉眼可见的心虚",
+        "onboard_time": 1675065152,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 336000,
+        "num": 336000,
+        "word": "孟川 高启盛",
+        "onboard_time": 1675058013,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335600,
+        "num": 335600,
+        "word": "LV老板放话坚决打击代购",
+        "onboard_time": 1675055552,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 325815,
+        "num": 325815,
+        "word": "为什么年后会是离婚高发期",
+        "onboard_time": 1675045525,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317795,
+        "num": 317795,
+        "word": "如何看待生育登记取消结婚限制",
+        "onboard_time": 1675065152,
+        "rank": 23,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 303109,
+        "num": 303109,
+        "word": "周翊然银发",
+        "onboard_time": 1675062929,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296053,
+        "num": 296053,
+        "word": "狂飙一下子变仙飙",
+        "onboard_time": 1675065873,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277998,
+        "num": 277998,
+        "word": "祝绪丹白开水妆开工照",
+        "onboard_time": 1675066649,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277755,
+        "num": 277755,
+        "word": "半熟恋人2艺人阵容",
+        "onboard_time": 1675065751,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277274,
+        "num": 277274,
+        "word": "私信张译",
+        "onboard_time": 1675049130,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269576,
+        "num": 269576,
+        "word": "张真源湖南卫视时光音乐会2路透",
+        "onboard_time": 1675064310,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261926,
+        "num": 261926,
+        "word": "法医称警方通报暂未指明胡鑫宇死亡原因",
+        "onboard_time": 1675060951,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254621,
+        "num": 254621,
+        "word": "浙江的服务区能有多豪华",
+        "onboard_time": 1675065992,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249336,
+        "num": 249336,
+        "word": "张颂文说唱歌一直是我的恐惧",
+        "onboard_time": 1675065992,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242578,
+        "num": 242578,
+        "word": "赵丽颖白色皮草大衣造型",
+        "onboard_time": 1675059932,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241657,
+        "num": 241657,
+        "word": "流浪地球2动物隐喻",
+        "onboard_time": 1675060591,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232483,
+        "num": 232483,
+        "word": "张公案",
+        "onboard_time": 1675047031,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230646,
+        "num": 230646,
+        "word": "胡鑫宇遗体被找到时衣服疑似反穿",
+        "onboard_time": 1675057894,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222075,
+        "num": 222075,
+        "word": "女子熬夜躺玩3天手机后眩晕就医",
+        "onboard_time": 1675049370,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215102,
+        "num": 215102,
+        "word": "狂飙",
+        "onboard_time": 1675038450,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205868,
+        "num": 205868,
+        "word": "杨紫范丞丞199爱校服路透",
+        "onboard_time": 1675063054,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202337,
+        "num": 202337,
+        "word": "邓超孙俪云包场春节档六部电影",
+        "onboard_time": 1675060531,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199375,
+        "num": 199375,
+        "word": "没想到真能一刀砍到手机",
+        "onboard_time": 1675055850,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198073,
+        "num": 198073,
+        "word": "半熟恋人",
+        "onboard_time": 1675064436,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192380,
+        "num": 192380,
+        "word": "郭麒麟练功练到表情管理失败",
+        "onboard_time": 1675066649,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191908,
+        "num": 191908,
+        "word": "不要对头发做的五件事",
+        "onboard_time": 1675066591,
+        "rank": 44,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 190542,
+        "num": 190542,
+        "word": "航拍胡鑫宇遗体发现地全貌",
+        "onboard_time": 1675045586,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183710,
+        "num": 183710,
+        "word": "张公案是祈福用的",
+        "onboard_time": 1675065929,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173730,
+        "num": 173730,
+        "word": "迪士尼星黛露被男性游客拍打头部",
+        "onboard_time": 1675050510,
+        "rank": 47,
+        "category": "动漫,社会新闻"
+      },
+      {
+        "raw_hot": 172307,
+        "num": 172307,
+        "word": "王一博叶秘佛堂泪",
+        "onboard_time": 1675064732,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171642,
+        "num": 171642,
+        "word": "流浪地球2周边众筹已超9515万元",
+        "onboard_time": 1675052374,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#回味中国年喜迎开门红#"
+    }
+  }
+}

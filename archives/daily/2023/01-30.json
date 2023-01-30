@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675064015784,
+  "endTime": 1675067050479,
   "band_list": [
     {
       "raw_hot": 4592639,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1818859,
-      "num": 1818859,
+      "raw_hot": 1928397,
+      "num": 1928397,
       "word": "乐华娱乐股价暴跌",
       "onboard_time": 1675062092,
       "rank": 5,
@@ -73,6 +73,14 @@
       "onboard_time": 1675045586,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1594568,
+      "num": 1594568,
+      "word": "强盛集团孙红雷也是卖鱼出身",
+      "onboard_time": 1675063473,
+      "rank": 14,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1590068,
@@ -120,6 +128,22 @@
       "word": "胡鑫宇尸检已完成",
       "onboard_time": 1674988052,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1343950,
+      "num": 1343950,
+      "word": "四川生育登记取消结婚限制",
+      "onboard_time": 1675064792,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1184118,
+      "num": 1184118,
+      "word": "村民称找鸡时发现胡鑫宇",
+      "onboard_time": 1675063591,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -283,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 809037,
+      "num": 809037,
+      "word": "连农村的厕所都这么卷了",
+      "onboard_time": 1675062754,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 807575,
       "num": 807575,
       "word": "梁朝伟王一博王传君见面好好笑",
@@ -411,14 +443,6 @@
       "category": "财经,影视"
     },
     {
-      "raw_hot": 591063,
-      "num": 591063,
-      "word": "连农村的厕所都这么卷了",
-      "onboard_time": 1675062754,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 573556,
       "num": 573556,
       "word": "男子误把绿色动车当绿皮车抽烟被拘",
@@ -443,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 563454,
+      "num": 563454,
+      "word": "父亲教10岁儿子理财1年挣1570元",
+      "onboard_time": 1675063351,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 548589,
       "num": 548589,
       "word": "没想到真能一刀砍到手机",
@@ -465,6 +497,14 @@
       "onboard_time": 1675050988,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 505250,
+      "num": 505250,
+      "word": "徐冬冬说高叶演的大嫂太好了",
+      "onboard_time": 1675065569,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 501441,
@@ -563,14 +603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 448386,
-      "num": 448386,
-      "word": "强盛集团孙红雷也是卖鱼出身",
-      "onboard_time": 1675063473,
-      "rank": 14,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 447227,
       "num": 447227,
       "word": "张译奇怪的出圈方式",
@@ -593,6 +625,14 @@
       "onboard_time": 1675054894,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 427092,
+      "num": 427092,
+      "word": "儿子火锅店做兼职父亲心疼落泪",
+      "onboard_time": 1675063235,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421688,
@@ -747,12 +787,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 345554,
+      "num": 345554,
+      "word": "王鹤棣宁波到达路透",
+      "onboard_time": 1675065272,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344017,
       "num": 344017,
       "word": "孙子兵法登顶淘宝热搜",
       "onboard_time": 1675007911,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 343247,
+      "num": 343247,
+      "word": "猫猫肉眼可见的心虚",
+      "onboard_time": 1675065152,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 343176,
@@ -835,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317795,
+      "num": 317795,
+      "word": "如何看待生育登记取消结婚限制",
+      "onboard_time": 1675065152,
+      "rank": 23,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 317206,
       "num": 317206,
       "word": "宋亚轩转花",
@@ -883,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296053,
+      "num": 296053,
+      "word": "狂飙一下子变仙飙",
+      "onboard_time": 1675065873,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292886,
       "num": 292886,
       "word": "3小孩坠冰窟男子徒手砸冰全救起",
@@ -915,6 +987,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277998,
+      "num": 277998,
+      "word": "祝绪丹白开水妆开工照",
+      "onboard_time": 1675066649,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 277755,
+      "num": 277755,
+      "word": "半熟恋人2艺人阵容",
+      "onboard_time": 1675065751,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277715,
       "num": 277715,
       "word": "手机直屏好还是曲屏好",
@@ -937,6 +1025,14 @@
       "onboard_time": 1675048648,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 269576,
+      "num": 269576,
+      "word": "张真源湖南卫视时光音乐会2路透",
+      "onboard_time": 1675064310,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 265371,
@@ -987,12 +1083,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254621,
+      "num": 254621,
+      "word": "浙江的服务区能有多豪华",
+      "onboard_time": 1675065992,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249448,
       "num": 249448,
       "word": "王源任敏灿烂灿烂取得发行许可证",
       "onboard_time": 1675055850,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249336,
+      "num": 249336,
+      "word": "张颂文说唱歌一直是我的恐惧",
+      "onboard_time": 1675065992,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 248412,
@@ -1051,14 +1163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219599,
-      "num": 219599,
-      "word": "村民称找鸡时发现胡鑫宇",
-      "onboard_time": 1675063591,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219133,
       "num": 219133,
       "word": "图丫丫的房间壁纸是条形码",
@@ -1081,14 +1185,6 @@
       "onboard_time": 1675006232,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 209819,
-      "num": 209819,
-      "word": "父亲教10岁儿子理财1年挣1570元",
-      "onboard_time": 1675063351,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209805,
@@ -1139,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198073,
+      "num": 198073,
+      "word": "半熟恋人",
+      "onboard_time": 1675064436,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197654,
       "num": 197654,
       "word": "迪丽热巴黑白西装大片",
@@ -1163,20 +1267,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192380,
+      "num": 192380,
+      "word": "郭麒麟练功练到表情管理失败",
+      "onboard_time": 1675066649,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 191908,
+      "num": 191908,
+      "word": "不要对头发做的五件事",
+      "onboard_time": 1675066591,
+      "rank": 44,
+      "category": "其它"
+    },
+    {
       "raw_hot": 191635,
       "num": 191635,
       "word": "非遗徽墨遇上古诗词有多浪漫",
       "onboard_time": 1675062691,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188001,
-      "num": 188001,
-      "word": "儿子火锅店做兼职父亲心疼落泪",
-      "onboard_time": 1675063235,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186702,
@@ -1209,6 +1321,14 @@
       "onboard_time": 1675010364,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183710,
+      "num": 183710,
+      "word": "张公案是祈福用的",
+      "onboard_time": 1675065929,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 182748,
@@ -1273,6 +1393,14 @@
       "onboard_time": 1675062636,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172307,
+      "num": 172307,
+      "word": "王一博叶秘佛堂泪",
+      "onboard_time": 1675064732,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 171146,
