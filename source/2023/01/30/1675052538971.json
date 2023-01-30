@@ -1,0 +1,410 @@
+{
+  "runTime": 1675052538971,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2753363,
+        "num": 2753363,
+        "word": "私信张译",
+        "onboard_time": 1675049130,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2635709,
+        "num": 2635709,
+        "word": "胡鑫宇遗体所处区域有明显搜索痕迹",
+        "onboard_time": 1675045948,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99784,
+        "num": 2199036,
+        "word": "多地发力拼经济新春开门稳",
+        "onboard_time": 1675048106,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2049004,
+        "num": 2049004,
+        "word": "张公案",
+        "onboard_time": 1675047031,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1532688,
+        "num": 1532688,
+        "word": "航拍胡鑫宇遗体发现地全貌",
+        "onboard_time": 1675045586,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1351615,
+        "num": 1351615,
+        "word": "吉林高三女孩跳桥失踪已87天",
+        "onboard_time": 1675049308,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1019316,
+        "num": 1019316,
+        "word": "为什么年后会是离婚高发期",
+        "onboard_time": 1675045525,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 856516,
+        "num": 856516,
+        "word": "成龙新片两个徒弟是郭麒麟和马",
+        "onboard_time": 1675047868,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 839696,
+        "num": 839696,
+        "word": "大V称满江红制作成本不会超过一千万",
+        "onboard_time": 1675038093,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 837985,
+        "num": 837985,
+        "word": "井柏然宋威龙张公案改名君子盟空降",
+        "onboard_time": 1675047088,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 784085,
+        "num": 784085,
+        "word": "女子熬夜躺玩3天手机后眩晕就医",
+        "onboard_time": 1675049370,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777807,
+        "num": 777807,
+        "word": "迪士尼星黛露被男性游客拍打头部",
+        "onboard_time": 1675050510,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760618,
+        "num": 760618,
+        "word": "王一博无名票房破6亿剧照",
+        "onboard_time": 1675051352,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 634240,
+        "num": 634240,
+        "word": "妹妹把哥哥的寒假作业写完了",
+        "onboard_time": 1675045525,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609229,
+        "num": 609229,
+        "word": "光线传媒股价暴跌",
+        "onboard_time": 1675047928,
+        "rank": 14,
+        "category": "财经,影视"
+      },
+      {
+        "raw_hot": 608557,
+        "num": 608557,
+        "word": "狂飙",
+        "onboard_time": 1675038450,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 542677,
+        "num": 542677,
+        "word": "胡鑫宇尸检已完成",
+        "onboard_time": 1674988052,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511284,
+        "num": 511284,
+        "word": "半熟恋人第二季官宣",
+        "onboard_time": 1675050988,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 503730,
+        "num": 503730,
+        "word": "被起诉大V称未收到满江红起诉函",
+        "onboard_time": 1675041389,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449630,
+        "num": 449630,
+        "word": "成龙刘浩存新片演父女",
+        "onboard_time": 1675050871,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432303,
+        "num": 432303,
+        "word": "小陆说不了话了",
+        "onboard_time": 1675045468,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420821,
+        "num": 420821,
+        "word": "你觉得毕业生多少起薪合适",
+        "onboard_time": 1675046967,
+        "rank": 21,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 400569,
+        "num": 400569,
+        "word": "民政局开工离婚队伍排到门外",
+        "onboard_time": 1675015635,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388300,
+        "num": 388300,
+        "word": "李昌钰辟谣网传胡鑫宇案论断",
+        "onboard_time": 1675046428,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356847,
+        "num": 356847,
+        "word": "NBA裁判道歉",
+        "onboard_time": 1675045285,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355620,
+        "num": 355620,
+        "word": "流浪地球2周边众筹已超9515万元",
+        "onboard_time": 1675052374,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 367083,
+        "num": 352219,
+        "word": "殡仪馆称胡鑫宇已不是原来样貌",
+        "onboard_time": 1674995071,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334978,
+        "num": 334978,
+        "word": "张朝阳称流浪地球引力弹弓真实存在",
+        "onboard_time": 1675049250,
+        "rank": 27,
+        "category": "影视,科技"
+      },
+      {
+        "raw_hot": 317362,
+        "num": 317362,
+        "word": "南宁动物园猩猩扔水瓶砸伤游客",
+        "onboard_time": 1675048589,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316655,
+        "num": 316655,
+        "word": "网剧飞驰人生全阵容官宣",
+        "onboard_time": 1675046788,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1240549,
+        "num": 313905,
+        "word": "什么是缢吊",
+        "onboard_time": 1675050752,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436494,
+        "num": 311698,
+        "word": "法医解读胡鑫宇案件",
+        "onboard_time": 1675043307,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304305,
+        "num": 304305,
+        "word": "夫妻过年捡烟花纸壳7天捡5000斤",
+        "onboard_time": 1675044388,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294320,
+        "num": 294320,
+        "word": "三成离婚与一方沉迷手机有关",
+        "onboard_time": 1675041449,
+        "rank": 33,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 273459,
+        "num": 273459,
+        "word": "满江红背后谁是最大赢家",
+        "onboard_time": 1675047928,
+        "rank": 34,
+        "category": "影视,财经"
+      },
+      {
+        "raw_hot": 266992,
+        "num": 266992,
+        "word": "晚睡的人熬的是什么",
+        "onboard_time": 1675051653,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 260342,
+        "num": 260342,
+        "word": "吉林高三女孩郑春梅",
+        "onboard_time": 1675049789,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256914,
+        "num": 256914,
+        "word": "如果安欣没有拒绝孟钰",
+        "onboard_time": 1675050088,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252325,
+        "num": 252325,
+        "word": "才知道吃辣流鼻涕是一种病",
+        "onboard_time": 1675036345,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243056,
+        "num": 243056,
+        "word": "看到这个就离中奖不远了吧",
+        "onboard_time": 1675050149,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233600,
+        "num": 233600,
+        "word": "四川简化生育登记要求",
+        "onboard_time": 1675048350,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222051,
+        "num": 222051,
+        "word": "狂飙安欣不是虚构的",
+        "onboard_time": 1675036225,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219592,
+        "num": 219592,
+        "word": "张译奇怪的出圈方式",
+        "onboard_time": 1675052014,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218435,
+        "num": 218435,
+        "word": "胡鑫宇遗体发现地树林丛生",
+        "onboard_time": 1675038450,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217290,
+        "num": 217290,
+        "word": "周深为啥什么音域都能唱",
+        "onboard_time": 1675048648,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209645,
+        "num": 209645,
+        "word": "YG新女团成员李茶仁公开",
+        "onboard_time": 1675036467,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182865,
+        "num": 182865,
+        "word": "亲历者讲述胡鑫宇搜救过程",
+        "onboard_time": 1675045468,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180483,
+        "num": 180483,
+        "word": "29岁的张译28岁的沈腾",
+        "onboard_time": 1675004676,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173405,
+        "num": 173405,
+        "word": "朴宝剑签约YG旗下厂牌",
+        "onboard_time": 1675042707,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162318,
+        "num": 162318,
+        "word": "君子盟",
+        "onboard_time": 1675048048,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国活力#"
+    }
+  }
+}
