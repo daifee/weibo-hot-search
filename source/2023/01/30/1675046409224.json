@@ -1,0 +1,410 @@
+{
+  "runTime": 1675046409224,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1627238,
+        "num": 1627238,
+        "word": "大V称满江红制作成本不会超过一千万",
+        "onboard_time": 1675038093,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1310514,
+        "num": 1310514,
+        "word": "胡鑫宇遗体发现地与其学校仅一墙之隔",
+        "onboard_time": 1675028652,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52547,
+        "num": 1042344,
+        "word": "春节拍了能做壁纸的照片",
+        "onboard_time": 1674984631,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1000701,
+        "num": 1000701,
+        "word": "民政局开工离婚队伍排到门外",
+        "onboard_time": 1675015635,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766858,
+        "num": 766858,
+        "word": "为什么年后会是离婚高发期",
+        "onboard_time": 1675045525,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 792411,
+        "num": 763521,
+        "word": "胡鑫宇遗体发现地树林丛生",
+        "onboard_time": 1675038450,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758416,
+        "num": 758416,
+        "word": "被起诉大V称未收到满江红起诉函",
+        "onboard_time": 1675041389,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 756886,
+        "num": 756886,
+        "word": "女子吐槽小城市电影票价远超北上广",
+        "onboard_time": 1675041987,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727791,
+        "num": 727791,
+        "word": "三成离婚与一方沉迷手机有关",
+        "onboard_time": 1675041449,
+        "rank": 8,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 597233,
+        "num": 597233,
+        "word": "29岁的张译28岁的沈腾",
+        "onboard_time": 1675004676,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 715717,
+        "num": 590816,
+        "word": "殡仪馆称胡鑫宇已不是原来样貌",
+        "onboard_time": 1674995071,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642690,
+        "num": 587124,
+        "word": "小陆说不了话了",
+        "onboard_time": 1675045468,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 640528,
+        "num": 584876,
+        "word": "夫妻过年捡烟花纸壳7天捡5000斤",
+        "onboard_time": 1675044388,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582419,
+        "num": 582419,
+        "word": "狂飙安欣不是虚构的",
+        "onboard_time": 1675036225,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 543718,
+        "num": 543718,
+        "word": "才知道吃辣流鼻涕是一种病",
+        "onboard_time": 1675036345,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 475165,
+        "num": 475165,
+        "word": "满江红7天为光线传媒贡献7000万营收",
+        "onboard_time": 1675042527,
+        "rank": 15,
+        "category": "影视,财经"
+      },
+      {
+        "raw_hot": 460426,
+        "num": 460426,
+        "word": "胡鑫宇尸检已完成",
+        "onboard_time": 1674988052,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448802,
+        "num": 448802,
+        "word": "NBA裁判道歉",
+        "onboard_time": 1675045285,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404085,
+        "num": 404085,
+        "word": "在大城租房还是小城买房",
+        "onboard_time": 1675040907,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438648,
+        "num": 402509,
+        "word": "航拍胡鑫宇遗体发现地全貌",
+        "onboard_time": 1675045586,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393256,
+        "num": 393256,
+        "word": "狂飙",
+        "onboard_time": 1675038450,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381575,
+        "num": 381575,
+        "word": "贪官傅国平老家查抄现场曝光",
+        "onboard_time": 1675042108,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356053,
+        "num": 356053,
+        "word": "妹妹把哥哥的寒假作业写完了",
+        "onboard_time": 1675045525,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347205,
+        "num": 347205,
+        "word": "妈妈追狂飙问儿子唐小龙结局",
+        "onboard_time": 1675038810,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335810,
+        "num": 335810,
+        "word": "胡鑫宇所在学校宿舍墙外就是金鸡山脚下",
+        "onboard_time": 1675000052,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323436,
+        "num": 323436,
+        "word": "朴宝剑签约YG旗下厂牌",
+        "onboard_time": 1675042707,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289909,
+        "num": 289909,
+        "word": "YG新女团成员李茶仁公开",
+        "onboard_time": 1675036467,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277951,
+        "num": 277951,
+        "word": "大嫂嫁给谁 谁就是大哥",
+        "onboard_time": 1674999513,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272751,
+        "num": 272751,
+        "word": "北师大教授评无名尊重观众遵从内心",
+        "onboard_time": 1675037127,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230027,
+        "num": 230027,
+        "word": "亲历者讲述胡鑫宇搜救过程",
+        "onboard_time": 1675045468,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1173498,
+        "num": 229058,
+        "word": "法医解读胡鑫宇案件",
+        "onboard_time": 1675043307,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227699,
+        "num": 227699,
+        "word": "三生三世十里桃花开播六周年",
+        "onboard_time": 1675040251,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223096,
+        "num": 223096,
+        "word": "女生期待薪资7千到1万被HR怒怼",
+        "onboard_time": 1674993811,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222056,
+        "num": 222056,
+        "word": "胡鑫宇遗体所处区域有明显搜索痕迹",
+        "onboard_time": 1675045948,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205929,
+        "num": 205929,
+        "word": "男子误把绿色动车当绿皮车抽烟被拘",
+        "onboard_time": 1675027091,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197198,
+        "num": 197198,
+        "word": "女子惊叹邻居为生儿子连生7女",
+        "onboard_time": 1675008448,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185696,
+        "num": 185696,
+        "word": "中国哪个省的酒席最好",
+        "onboard_time": 1675039469,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168132,
+        "num": 168132,
+        "word": "专家回应新冠变异病毒能否人工合成",
+        "onboard_time": 1675043908,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167976,
+        "num": 167976,
+        "word": "女子不顾父母反对嫁人感叹赌对了",
+        "onboard_time": 1675007670,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161243,
+        "num": 161243,
+        "word": "张远说粤语版嘉宾是为了打入大湾区",
+        "onboard_time": 1675044268,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155148,
+        "num": 155148,
+        "word": "新疆沙雅6.1级地震",
+        "onboard_time": 1675037430,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146183,
+        "num": 146183,
+        "word": "离家时妈妈塞的饺子里还有画",
+        "onboard_time": 1675042887,
+        "rank": 41,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 141542,
+        "num": 141542,
+        "word": "胡鑫宇寻人启事曾提及录音笔",
+        "onboard_time": 1675022353,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138037,
+        "num": 138037,
+        "word": "詹姆斯浓眉缺席对阵篮网",
+        "onboard_time": 1675046188,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128326,
+        "num": 128326,
+        "word": "返乡买房是好主意吗",
+        "onboard_time": 1675046126,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 126576,
+        "num": 126576,
+        "word": "3小孩坠冰窟男子徒手砸冰全救起",
+        "onboard_time": 1675037606,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 126368,
+        "num": 126368,
+        "word": "会做饭的大学生返乡被村民争相预约",
+        "onboard_time": 1675038872,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124149,
+        "num": 124149,
+        "word": "地毯式搜索为何没找到胡鑫宇",
+        "onboard_time": 1674998255,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109609,
+        "num": 109609,
+        "word": "西安旅游高价乱象为何屡屡发生",
+        "onboard_time": 1675037368,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 109528,
+        "num": 109528,
+        "word": "林高远写福字",
+        "onboard_time": 1675045525,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国活力#"
+    }
+  }
+}
