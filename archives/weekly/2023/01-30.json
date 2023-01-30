@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675055865147,
+  "endTime": 1675056816902,
   "band_list": [
     {
       "raw_hot": 4592639,
@@ -11,8 +11,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2972198,
-      "num": 2972198,
+      "raw_hot": 3552714,
+      "num": 3552714,
       "word": "胡鑫宇遗体在学校后山仓库被找到",
       "onboard_time": 1675053514,
       "rank": 0,
@@ -67,7 +67,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1582492,
+      "raw_hot": 1590068,
       "num": 803269,
       "word": "什么是缢吊",
       "onboard_time": 1675050752,
@@ -105,6 +105,14 @@
       "onboard_time": 1674988052,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1204612,
+      "num": 1204612,
+      "word": "田亮女儿参加职业网球比赛",
+      "onboard_time": 1675054836,
+      "rank": 14,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1173498,
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 946039,
+      "num": 946039,
+      "word": "全国各省离婚人数排名",
+      "onboard_time": 1675054655,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 939683,
       "num": 939683,
       "word": "被起诉大V称未收到满江红起诉函",
@@ -195,20 +211,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 935635,
+      "num": 935635,
+      "word": "流浪地球2周边众筹已超9515万元",
+      "onboard_time": 1675052374,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 921988,
       "num": 921988,
       "word": "女子不顾父母反对嫁人感叹赌对了",
       "onboard_time": 1675007670,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 913052,
-      "num": 913052,
-      "word": "流浪地球2周边众筹已超9515万元",
-      "onboard_time": 1675052374,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 888145,
@@ -347,14 +363,6 @@
       "category": "财经,影视"
     },
     {
-      "raw_hot": 632919,
-      "num": 632919,
-      "word": "田亮女儿参加职业网球比赛",
-      "onboard_time": 1675054836,
-      "rank": 14,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 573556,
       "num": 573556,
       "word": "男子误把绿色动车当绿皮车抽烟被拘",
@@ -393,6 +401,14 @@
       "onboard_time": 1675045285,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 484794,
+      "num": 484794,
+      "word": "骨癌男童左腿截肢劝妈妈再生个妹妹",
+      "onboard_time": 1675055195,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479620,
@@ -481,14 +497,6 @@
       "onboard_time": 1675054894,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 422938,
-      "num": 422938,
-      "word": "全国各省离婚人数排名",
-      "onboard_time": 1675054655,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 421688,
@@ -593,6 +601,14 @@
       "onboard_time": 1674998255,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347508,
+      "num": 347508,
+      "word": "LV老板放话坚决打击代购",
+      "onboard_time": 1675055552,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 347205,
@@ -739,6 +755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 265371,
+      "num": 265371,
+      "word": "为何票房火爆影视股却开门黑",
+      "onboard_time": 1675056570,
+      "rank": 31,
+      "category": "财经,影视"
+    },
+    {
       "raw_hot": 260560,
       "num": 260560,
       "word": "为什么年轻人开始接受相亲了",
@@ -779,16 +803,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255066,
-      "num": 255066,
-      "word": "骨癌男童左腿截肢劝妈妈再生个妹妹",
-      "onboard_time": 1675055195,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247899,
-      "num": 247899,
+      "raw_hot": 249448,
+      "num": 249448,
       "word": "王源任敏灿烂灿烂取得发行许可证",
       "onboard_time": 1675055850,
       "rank": 40,
@@ -825,6 +841,14 @@
       "onboard_time": 1675047809,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224621,
+      "num": 224621,
+      "word": "没想到真能一刀砍到手机",
+      "onboard_time": 1675055850,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 219133,
@@ -875,6 +899,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200491,
+      "num": 200491,
+      "word": "胡先煦王彦霖凭本事二搭",
+      "onboard_time": 1675056631,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 199700,
+      "num": 199700,
+      "word": "为什么三体适合反复观看",
+      "onboard_time": 1675056152,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198599,
       "num": 198599,
       "word": "河南矿山回应3名员工各领500万奖金",
@@ -891,22 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196454,
-      "num": 196454,
-      "word": "没想到真能一刀砍到手机",
-      "onboard_time": 1675055850,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 195229,
-      "num": 195229,
-      "word": "LV老板放话坚决打击代购",
-      "onboard_time": 1675055552,
-      "rank": 47,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 193625,
       "num": 193625,
       "word": "漫威电影回归预告",
@@ -915,11 +939,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186702,
+      "num": 186702,
+      "word": "如何看待影视剧开放式结局",
+      "onboard_time": 1675056510,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185948,
       "num": 185948,
       "word": "建议实现一户一笨",
       "onboard_time": 1674987271,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 183832,
+      "num": 183832,
+      "word": "君子盟连更十集",
+      "onboard_time": 1675056631,
+      "rank": 48,
       "category": "影视"
     },
     {
