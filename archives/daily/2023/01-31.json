@@ -1,6 +1,6 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675102970559,
+  "endTime": 1675103826722,
   "band_list": [
     {
       "raw_hot": 1891519,
@@ -475,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 69477,
+      "num": 69477,
+      "word": "熬夜后怎么快速恢复精神",
+      "onboard_time": 1675102214,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67667,
       "num": 959977,
       "word": "原来中国科幻的背后是中国制造",
@@ -483,12 +491,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 37471,
-      "num": 37471,
-      "word": "熬夜后怎么快速恢复精神",
-      "onboard_time": 1675102214,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 31360,
+      "num": 31360,
+      "word": "交警用高启强教育女子骑车戴头盔",
+      "onboard_time": 1675102695,
+      "rank": 48,
+      "category": "社会新闻,影视"
     }
   ],
   "hotgov_list": [

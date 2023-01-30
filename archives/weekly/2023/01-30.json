@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675102970559,
+  "endTime": 1675103826722,
   "band_list": [
     {
       "raw_hot": 4592639,
@@ -2699,6 +2699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69477,
+      "num": 69477,
+      "word": "熬夜后怎么快速恢复精神",
+      "onboard_time": 1675102214,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67252,
       "num": 67252,
       "word": "布莱顿2比1利物浦",
@@ -2739,20 +2747,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 37471,
-      "num": 37471,
-      "word": "熬夜后怎么快速恢复精神",
-      "onboard_time": 1675102214,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 31566,
       "num": 31566,
       "word": "女儿离家父亲抹泪进屋不敢回头",
       "onboard_time": 1675016353,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31360,
+      "num": 31360,
+      "word": "交警用高启强教育女子骑车戴头盔",
+      "onboard_time": 1675102695,
+      "rank": 48,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 18877,
