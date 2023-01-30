@@ -1,6 +1,6 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675117046003,
+  "endTime": 1675118008042,
   "band_list": [
     {
       "raw_hot": 1891519,
@@ -179,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253040,
+      "num": 253040,
+      "word": "专家称年轻时不应为钱去选择工作",
+      "onboard_time": 1675110072,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244873,
       "num": 244873,
       "word": "张大大说杨幂进组肯定很快乐",
@@ -241,14 +249,6 @@
       "onboard_time": 1675069170,
       "rank": 24,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 206347,
-      "num": 206347,
-      "word": "专家称年轻时不应为钱去选择工作",
-      "onboard_time": 1675110072,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201113,
@@ -507,28 +507,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 56488,
-      "num": 54499,
+      "raw_hot": 65861,
+      "num": 31193,
+      "word": "流浪小狐狸投奔看守所1年胖成球",
+      "onboard_time": 1675115232,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64062,
+      "num": 64062,
       "word": "中方在乌克兰问题上不接受讹诈",
       "onboard_time": 1675109832,
       "rank": 48,
       "category": "国内要闻"
     },
     {
-      "raw_hot": 47208,
-      "num": 47208,
+      "raw_hot": 52589,
+      "num": 52589,
       "word": "母亲为救2个落水儿子不幸遇难",
       "onboard_time": 1675105632,
       "rank": 32,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45986,
-      "num": 26394,
-      "word": "流浪小狐狸投奔看守所1年胖成球",
-      "onboard_time": 1675115232,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 37376,
+      "num": 37376,
+      "word": "网友东北偶遇孙怡",
+      "onboard_time": 1675116912,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 33746,
@@ -547,20 +555,20 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 28081,
-      "num": 28081,
+      "raw_hot": 30662,
+      "num": 30662,
       "word": "这是要抓高启强了吗",
       "onboard_time": 1675115892,
       "rank": 27,
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 17103,
-      "num": 17103,
-      "word": "网友东北偶遇孙怡",
-      "onboard_time": 1675116912,
+      "raw_hot": 19031,
+      "num": 19031,
+      "word": "树林中一缢吊尸体经检验系胡鑫宇",
+      "onboard_time": 1674962562,
       "rank": 49,
-      "category": "艺人"
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
