@@ -1,6 +1,6 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675133867033,
+  "endTime": 1675135254548,
   "band_list": [
     {
       "raw_hot": 1891519,
@@ -27,8 +27,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1749570,
-      "num": 1749570,
+      "raw_hot": 1776306,
+      "num": 1776306,
       "word": "校方曾派老师和胡鑫宇家属共同进粮库找人",
       "onboard_time": 1675129167,
       "rank": 49,
@@ -65,6 +65,14 @@
       "onboard_time": 1675090475,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1197682,
+      "num": 1197682,
+      "word": "张颂文曾给赵露思颁奖",
+      "onboard_time": 1675133249,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 1035461,
@@ -131,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 659427,
+      "num": 659427,
+      "word": "折腰演员阵容官宣",
+      "onboard_time": 1675134629,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 652341,
       "num": 652341,
       "word": "老太严重失眠看医生诊前坐凳上睡着",
@@ -145,6 +161,14 @@
       "onboard_time": 1675083631,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 634941,
+      "num": 634941,
+      "word": "强盛集团旗下公司年终奖现金堆成山",
+      "onboard_time": 1675133727,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 621969,
@@ -163,20 +187,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 580599,
-      "num": 580599,
-      "word": "张颂文曾给赵露思颁奖",
-      "onboard_time": 1675133249,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 580518,
       "num": 580518,
       "word": "光与夜之恋",
       "onboard_time": 1675128986,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 577629,
+      "num": 577629,
+      "word": "小米集团全球副总裁辞职",
+      "onboard_time": 1675133009,
+      "rank": 34,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 574954,
@@ -209,6 +233,22 @@
       "onboard_time": 1675127669,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 529874,
+      "num": 529874,
+      "word": "女子抗癌9年离世留下一对清澈角膜",
+      "onboard_time": 1675133367,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507480,
+      "num": 507480,
+      "word": "周冬雨说我们新疆好地方",
+      "onboard_time": 1675134388,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 502825,
@@ -259,8 +299,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 421392,
-      "num": 421392,
+      "raw_hot": 422864,
+      "num": 422864,
       "word": "换个狂飙情头吧",
       "onboard_time": 1675130307,
       "rank": 38,
@@ -275,6 +315,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 417186,
+      "num": 374185,
+      "word": "高启兰是隆妮演的",
+      "onboard_time": 1675129766,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 416517,
       "num": 397650,
       "word": "男子偷2万元刮刮乐刮出9000元",
@@ -283,20 +331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375025,
+      "num": 350553,
+      "word": "高启兰等了安欣20年",
+      "onboard_time": 1675134209,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 366643,
       "num": 366643,
       "word": "以为是剧情需要没想到是人间真实",
       "onboard_time": 1675124008,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 361461,
-      "num": 361461,
-      "word": "小米集团全球副总裁辞职",
-      "onboard_time": 1675133009,
-      "rank": 34,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 361165,
@@ -385,6 +433,14 @@
       "onboard_time": 1675091673,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285969,
+      "num": 285969,
+      "word": "胡鑫宇案三大疑问与公众的盲人摸象",
+      "onboard_time": 1675132887,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276240,
@@ -507,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214679,
-      "num": 204861,
-      "word": "胡鑫宇案三大疑问与公众的盲人摸象",
-      "onboard_time": 1675132887,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213229,
       "num": 160056,
       "word": "工作人员称粮仓一直正常运行",
@@ -547,22 +595,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 205061,
-      "num": 205061,
-      "word": "高启兰是隆妮演的",
-      "onboard_time": 1675129766,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 202977,
-      "num": 202977,
-      "word": "女子抗癌9年离世留下一对清澈角膜",
-      "onboard_time": 1675133367,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200331,
       "num": 200331,
       "word": "男子质疑下高速收费被四舍五入",
@@ -593,6 +625,30 @@
       "onboard_time": 1675102934,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187665,
+      "num": 187665,
+      "word": "中核喊话流浪地球",
+      "onboard_time": 1675134568,
+      "rank": 33,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 187377,
+      "num": 187377,
+      "word": "狂飙高叶演过猎罪图鉴",
+      "onboard_time": 1675134749,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185634,
+      "num": 174703,
+      "word": "狂飙一下子变乱飙",
+      "onboard_time": 1675134867,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 182931,
@@ -635,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175132,
+      "num": 175132,
+      "word": "认识2周的前同事向女生借钱买房",
+      "onboard_time": 1675134808,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174394,
       "num": 174394,
       "word": "市监局回应小城市电影票价贵",
@@ -659,7 +723,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164824,
+      "raw_hot": 166788,
       "num": 1248079,
       "word": "一句话总结2023第1个月",
       "onboard_time": 1675120698,
@@ -747,12 +811,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145080,
+      "num": 145080,
+      "word": "宋祖儿刘宇宁新剧开机",
+      "onboard_time": 1675134148,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144474,
       "num": 144474,
       "word": "湖人vs篮网",
       "onboard_time": 1675128388,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143929,
+      "num": 143929,
+      "word": "只有中国人才能理解这种心情",
+      "onboard_time": 1675134688,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 141751,
@@ -771,19 +851,19 @@
       "category": "科技,影视"
     },
     {
-      "raw_hot": 134378,
-      "num": 134378,
-      "word": "强盛集团旗下公司年终奖现金堆成山",
-      "onboard_time": 1675133727,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133197,
       "num": 123809,
       "word": "尸检能否查明死亡原因",
       "onboard_time": 1675084353,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132839,
+      "num": 132839,
+      "word": "刘慈欣常散步几小时什么都想不出来",
+      "onboard_time": 1675135049,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
