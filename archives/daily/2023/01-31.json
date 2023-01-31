@@ -1,6 +1,6 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675153414447,
+  "endTime": 1675154235632,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2441898,
+      "num": 2441898,
+      "word": "胡鑫宇购买录音笔数据删除后无法恢复",
+      "onboard_time": 1675150696,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2352046,
       "num": 748897,
       "word": "仙剑3主演都有孩子了",
@@ -83,8 +91,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1996098,
-      "num": 1996098,
+      "raw_hot": 2080351,
+      "num": 2080351,
       "word": "保时捷官网12.4万元帕纳梅拉遭抢购",
       "onboard_time": 1675146149,
       "rank": 12,
@@ -153,14 +161,6 @@
       "onboard_time": 1675149230,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1592345,
-      "num": 1592345,
-      "word": "胡鑫宇购买录音笔数据删除后无法恢复",
-      "onboard_time": 1675150696,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1514556,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1008011,
+      "num": 1008011,
+      "word": "初四相亲初八订婚算闪婚吗",
+      "onboard_time": 1675150924,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 954061,
       "num": 954061,
       "word": "认识2周的前同事向女生借钱买房",
@@ -281,14 +289,6 @@
       "onboard_time": 1675141650,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 874857,
-      "num": 874857,
-      "word": "初四相亲初八订婚算闪婚吗",
-      "onboard_time": 1675150924,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 871763,
@@ -369,6 +369,14 @@
       "onboard_time": 1675137869,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 758149,
+      "num": 758149,
+      "word": "陈飞宇片场帮张婧仪戴口罩",
+      "onboard_time": 1675152413,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 745489,
@@ -491,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 595884,
-      "num": 595884,
-      "word": "陈飞宇片场帮张婧仪戴口罩",
-      "onboard_time": 1675152413,
-      "rank": 14,
-      "category": "影视"
+      "raw_hot": 591299,
+      "num": 591299,
+      "word": "强盛集团旗下公司因未缴社保被罚",
+      "onboard_time": 1675149702,
+      "rank": 24,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 581231,
@@ -539,7 +547,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 562703,
+      "raw_hot": 564483,
       "num": 399152,
       "word": "太突然了",
       "onboard_time": 1675149879,
@@ -561,14 +569,6 @@
       "onboard_time": 1675151522,
       "rank": 20,
       "category": "影视,艺人"
-    },
-    {
-      "raw_hot": 552651,
-      "num": 552651,
-      "word": "强盛集团旗下公司因未缴社保被罚",
-      "onboard_time": 1675149702,
-      "rank": 24,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 542098,
@@ -603,6 +603,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 502693,
+      "num": 502693,
+      "word": "母子围炉煮茶一氧化碳中毒身亡",
+      "onboard_time": 1675152118,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 495576,
       "num": 495576,
       "word": "吉林警方回应高三女孩失踪87天",
@@ -633,6 +641,14 @@
       "onboard_time": 1675126406,
       "rank": 11,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 472395,
+      "num": 395064,
+      "word": "杜华说王一博无法被复制",
+      "onboard_time": 1675153485,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 468989,
@@ -681,6 +697,14 @@
       "onboard_time": 1675130307,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 418328,
+      "num": 318811,
+      "word": "没人忍得住不暗戳戳的秀",
+      "onboard_time": 1675152775,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 417647,
@@ -755,14 +779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 364359,
-      "num": 318811,
-      "word": "没人忍得住不暗戳戳的秀",
-      "onboard_time": 1675152775,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 361165,
       "num": 361165,
       "word": "中戏教授点赞朱一龙人生大事眼神戏",
@@ -777,14 +793,6 @@
       "onboard_time": 1675087411,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 352074,
-      "num": 352074,
-      "word": "母子围炉煮茶一氧化碳中毒身亡",
-      "onboard_time": 1675152118,
-      "rank": 29,
-      "category": "社会负面"
     },
     {
       "raw_hot": 346956,
@@ -955,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284633,
+      "num": 284633,
+      "word": "胡鑫宇",
+      "onboard_time": 1675135469,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277265,
       "num": 277265,
       "word": "安欣成功卧底当大嫂",
@@ -977,14 +993,6 @@
       "onboard_time": 1675128088,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 271450,
-      "num": 271450,
-      "word": "胡鑫宇",
-      "onboard_time": 1675135469,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270005,
@@ -1179,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214339,
+      "num": 214339,
+      "word": "李健早期微博",
+      "onboard_time": 1675151822,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213229,
       "num": 160056,
       "word": "工作人员称粮仓一直正常运行",
@@ -1243,6 +1259,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203901,
+      "num": 203901,
+      "word": "海军万吨大驱第一视角太震撼",
+      "onboard_time": 1675154023,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 203824,
+      "num": 203824,
+      "word": "这猫咪是被点穴了吗",
+      "onboard_time": 1675153069,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203355,
       "num": 203355,
       "word": "齐司礼新卡",
@@ -1259,12 +1291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199016,
-      "num": 199016,
-      "word": "这猫咪是被点穴了吗",
-      "onboard_time": 1675153069,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 199682,
+      "num": 199682,
+      "word": "父母该不该带孩子进异性厕所",
+      "onboard_time": 1675153009,
+      "rank": 46,
+      "category": "社会议题"
     },
     {
       "raw_hot": 198229,
@@ -1307,28 +1339,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193532,
-      "num": 193532,
-      "word": "李健早期微博",
-      "onboard_time": 1675151822,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 193166,
-      "num": 193166,
-      "word": "父母该不该带孩子进异性厕所",
-      "onboard_time": 1675153009,
-      "rank": 46,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 192808,
       "num": 192808,
       "word": "保时捷回应12.4万保时捷遭抢购",
       "onboard_time": 1675151589,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189997,
+      "num": 189997,
+      "word": "狂飙爆火谁是最大赢家",
+      "onboard_time": 1675153609,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 189010,
@@ -1777,6 +1801,14 @@
       "onboard_time": 1675102695,
       "rank": 48,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 25627,
+      "num": 2152636,
+      "word": "一批新规2月开始施行",
+      "onboard_time": 1675154085,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19031,

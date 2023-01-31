@@ -1,0 +1,410 @@
+{
+  "runTime": 1675154235632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 21366172,
+        "num": 21366172,
+        "word": "胡歌 我当爸爸啦",
+        "onboard_time": 1675148478,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2441898,
+        "num": 2441898,
+        "word": "胡鑫宇购买录音笔数据删除后无法恢复",
+        "onboard_time": 1675150696,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25627,
+        "num": 2152636,
+        "word": "一批新规2月开始施行",
+        "onboard_time": 1675154085,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2080351,
+        "num": 2080351,
+        "word": "保时捷官网12.4万元帕纳梅拉遭抢购",
+        "onboard_time": 1675146149,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1240854,
+        "num": 1240854,
+        "word": "胡彦斌 满江红制作成本1000万重要吗",
+        "onboard_time": 1675140512,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1008011,
+        "num": 1008011,
+        "word": "初四相亲初八订婚算闪婚吗",
+        "onboard_time": 1675150924,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 881778,
+        "num": 881778,
+        "word": "一家人在耳聋爷爷面前商量买墓地",
+        "onboard_time": 1675143990,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859807,
+        "num": 859807,
+        "word": "张婉婷说没怀孕不会跟宋宁峰在一起",
+        "onboard_time": 1675147623,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 758149,
+        "num": 758149,
+        "word": "陈飞宇片场帮张婧仪戴口罩",
+        "onboard_time": 1675152413,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 687167,
+        "num": 687167,
+        "word": "李一桐曾被韩国星探选中两次",
+        "onboard_time": 1675148415,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 8834446,
+        "num": 674164,
+        "word": "压力给到彭于晏",
+        "onboard_time": 1675149175,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602380,
+        "num": 602380,
+        "word": "男生和女生初四相亲初八直接订婚",
+        "onboard_time": 1675140811,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591299,
+        "num": 591299,
+        "word": "强盛集团旗下公司因未缴社保被罚",
+        "onboard_time": 1675149702,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 4824632,
+        "num": 585564,
+        "word": "唐嫣说小姐姐可以陪妹妹玩啦",
+        "onboard_time": 1675150813,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541591,
+        "num": 541591,
+        "word": "胡鑫宇家人决定暂不火化遗体",
+        "onboard_time": 1675141829,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502693,
+        "num": 502693,
+        "word": "母子围炉煮茶一氧化碳中毒身亡",
+        "onboard_time": 1675152118,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1991904,
+        "num": 498130,
+        "word": "记汪峰旷工一天",
+        "onboard_time": 1675149759,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487578,
+        "num": 487578,
+        "word": "王一博王传君无名未曝光跳舞片段",
+        "onboard_time": 1675151522,
+        "rank": 17,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 427984,
+        "num": 427984,
+        "word": "女子回应制止男童上女厕所被骂",
+        "onboard_time": 1675142071,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1465470,
+        "num": 422866,
+        "word": "仙剑3主演都有孩子了",
+        "onboard_time": 1675149398,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481801,
+        "num": 408239,
+        "word": "狂飙一下子变乱飙",
+        "onboard_time": 1675134867,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 472395,
+        "num": 395064,
+        "word": "杜华说王一博无法被复制",
+        "onboard_time": 1675153485,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97300,
+        "num": 379610,
+        "word": "一句话总结2023第1个月",
+        "onboard_time": 1675120698,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3061111,
+        "num": 373695,
+        "word": "彭于晏你着急吗",
+        "onboard_time": 1675149175,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366052,
+        "num": 366052,
+        "word": "薛之谦的第一场线上演唱会",
+        "onboard_time": 1675150638,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 346793,
+        "num": 346793,
+        "word": "美国将禁止供应商向华为提供产品",
+        "onboard_time": 1675144590,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1009907,
+        "num": 345500,
+        "word": "仙剑留守儿童",
+        "onboard_time": 1675149230,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339715,
+        "num": 339715,
+        "word": "杨幂张大大什刹海滑冰合照",
+        "onboard_time": 1675141650,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289665,
+        "num": 289665,
+        "word": "南京大屠杀幸存者周湘萍去世",
+        "onboard_time": 1675147963,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564483,
+        "num": 288619,
+        "word": "太突然了",
+        "onboard_time": 1675149879,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284633,
+        "num": 284633,
+        "word": "胡鑫宇",
+        "onboard_time": 1675135469,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253201,
+        "num": 253201,
+        "word": "导演说狂飙的结局是惨胜",
+        "onboard_time": 1675146569,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418328,
+        "num": 251651,
+        "word": "没人忍得住不暗戳戳的秀",
+        "onboard_time": 1675152775,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237628,
+        "num": 237628,
+        "word": "张颂文旧照",
+        "onboard_time": 1675149995,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236525,
+        "num": 236525,
+        "word": "5岁男童抗癌3年体重仅剩10公斤",
+        "onboard_time": 1675143868,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231803,
+        "num": 231803,
+        "word": "当我养了四只社恐猫咪",
+        "onboard_time": 1675143390,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231443,
+        "num": 231443,
+        "word": "这鱼是我的打工嘴替吧",
+        "onboard_time": 1675148101,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215997,
+        "num": 215997,
+        "word": "强盛集团旗下公司年终奖现金堆成山",
+        "onboard_time": 1675133727,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214339,
+        "num": 214339,
+        "word": "李健早期微博",
+        "onboard_time": 1675151822,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208971,
+        "num": 208971,
+        "word": "世界上最大的百年古堂灯亮了",
+        "onboard_time": 1675150169,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 786382,
+        "num": 208905,
+        "word": "人民日报评刘亦菲李现去有风的地方",
+        "onboard_time": 1675146087,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208334,
+        "num": 208334,
+        "word": "节后为了搞钱能有多拼",
+        "onboard_time": 1675152775,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203913,
+        "num": 203913,
+        "word": "狂飙 正面人物",
+        "onboard_time": 1675142490,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203901,
+        "num": 203901,
+        "word": "海军万吨大驱第一视角太震撼",
+        "onboard_time": 1675154023,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 203824,
+        "num": 203824,
+        "word": "这猫咪是被点穴了吗",
+        "onboard_time": 1675153069,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199682,
+        "num": 199682,
+        "word": "父母该不该带孩子进异性厕所",
+        "onboard_time": 1675153009,
+        "rank": 45,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 199522,
+        "num": 199522,
+        "word": "田亮女儿网球职业赛首秀告捷",
+        "onboard_time": 1675144408,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189997,
+        "num": 189997,
+        "word": "狂飙爆火谁是最大赢家",
+        "onboard_time": 1675153609,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186690,
+        "num": 186690,
+        "word": "别小看骑电动车冲你笑的大叔",
+        "onboard_time": 1675153378,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186611,
+        "num": 186611,
+        "word": "Angelababy相思令开机造型",
+        "onboard_time": 1675137869,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年共奋进#"
+    }
+  }
+}
