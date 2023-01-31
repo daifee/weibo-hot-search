@@ -1,0 +1,410 @@
+{
+  "runTime": 1675142206507,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2157023,
+        "num": 2157023,
+        "word": "狂飙指导组被实名举报受贿",
+        "onboard_time": 1675137809,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1722237,
+        "num": 1722237,
+        "word": "胡彦斌 满江红制作成本1000万重要吗",
+        "onboard_time": 1675140512,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159542,
+        "num": 1381872,
+        "word": "一句话总结2023第1个月",
+        "onboard_time": 1675120698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1347246,
+        "num": 1347246,
+        "word": "校方曾派老师和胡鑫宇家属共同进粮库找人",
+        "onboard_time": 1675129167,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1143664,
+        "num": 1143664,
+        "word": "女子不让6岁男童上女厕所遭痛骂",
+        "onboard_time": 1675129529,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1085410,
+        "num": 1085410,
+        "word": "狂飙一下子变乱飙",
+        "onboard_time": 1675134867,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 885023,
+        "num": 885023,
+        "word": "胡鑫宇父亲称未到达遗体发现点",
+        "onboard_time": 1675120880,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834634,
+        "num": 834634,
+        "word": "男生和女生初四相亲初八直接订婚",
+        "onboard_time": 1675140811,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816278,
+        "num": 816278,
+        "word": "强盛集团旗下公司年终奖现金堆成山",
+        "onboard_time": 1675133727,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741548,
+        "num": 741548,
+        "word": "录音笔在胡鑫宇遗体旁边墙洞",
+        "onboard_time": 1675131147,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1514556,
+        "num": 740978,
+        "word": "于正 男人涂脂抹粉最恶心",
+        "onboard_time": 1675138711,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686863,
+        "num": 686863,
+        "word": "建议不因钱选工作专家实控多家公司",
+        "onboard_time": 1675136187,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623477,
+        "num": 623477,
+        "word": "杨幂张大大什刹海滑冰合照",
+        "onboard_time": 1675141650,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613218,
+        "num": 613218,
+        "word": "张颂文曾给赵露思颁奖",
+        "onboard_time": 1675133249,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610324,
+        "num": 610324,
+        "word": "今天有两部古偶开机",
+        "onboard_time": 1675137989,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 600029,
+        "num": 600029,
+        "word": "2023春晚收视率",
+        "onboard_time": 1675137869,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561277,
+        "num": 561277,
+        "word": "认识2周的前同事向女生借钱买房",
+        "onboard_time": 1675134808,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514609,
+        "num": 514609,
+        "word": "Angelababy相思令开机造型",
+        "onboard_time": 1675137869,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 497586,
+        "num": 497586,
+        "word": "高启兰等了安欣20年",
+        "onboard_time": 1675134209,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 481756,
+        "num": 481756,
+        "word": "医院回应女子取牙模时被呛身亡传言",
+        "onboard_time": 1675136066,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451481,
+        "num": 451481,
+        "word": "澳大利亚一枚恐致癌放射性胶囊丢失",
+        "onboard_time": 1675127549,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391583,
+        "num": 391583,
+        "word": "终于知道女生买衣服好看的定律了",
+        "onboard_time": 1675127549,
+        "rank": 21,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 372380,
+        "num": 372380,
+        "word": "敖子逸折腰演宋祖儿弟弟",
+        "onboard_time": 1675139850,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339683,
+        "num": 339683,
+        "word": "曾舜晞田曦薇田耕纪cp感",
+        "onboard_time": 1675139012,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320626,
+        "num": 320626,
+        "word": "郭敬明回复吐槽虞书欣云为衫发饰评论",
+        "onboard_time": 1675141711,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311669,
+        "num": 311669,
+        "word": "干娘是石头是什么体验",
+        "onboard_time": 1675139312,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306752,
+        "num": 306752,
+        "word": "一千万能拍出满江红吗",
+        "onboard_time": 1675122862,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295923,
+        "num": 295923,
+        "word": "道明寺今天46岁了",
+        "onboard_time": 1675135291,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278880,
+        "num": 278880,
+        "word": "周冬雨说我们新疆好地方",
+        "onboard_time": 1675134388,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270005,
+        "num": 270005,
+        "word": "湖南卫视元宵喜乐会相逢是圆官宣",
+        "onboard_time": 1675140992,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293646,
+        "num": 268764,
+        "word": "揭秘满江红出品方羊踯躅传媒公司",
+        "onboard_time": 1675136488,
+        "rank": 30,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 260650,
+        "num": 260650,
+        "word": "女子抗癌9年离世留下一对清澈角膜",
+        "onboard_time": 1675133367,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242320,
+        "num": 242320,
+        "word": "安欣陪孟德海一起去自首",
+        "onboard_time": 1675120880,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240111,
+        "num": 240111,
+        "word": "小米集团全球副总裁辞职",
+        "onboard_time": 1675133009,
+        "rank": 33,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 233556,
+        "num": 233556,
+        "word": "周冬雨31岁实绩图",
+        "onboard_time": 1675135708,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232848,
+        "num": 232848,
+        "word": "tangoz梦见高启强被抓",
+        "onboard_time": 1675139073,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218337,
+        "num": 218337,
+        "word": "光与夜之恋",
+        "onboard_time": 1675128986,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216064,
+        "num": 216064,
+        "word": "中核喊话流浪地球",
+        "onboard_time": 1675134568,
+        "rank": 37,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 210525,
+        "num": 210525,
+        "word": "大侦探落日惊魂2高清剧照",
+        "onboard_time": 1675136308,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201381,
+        "num": 201381,
+        "word": "谭松韵许凯你比星光美丽开通官博",
+        "onboard_time": 1675138231,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199204,
+        "num": 199204,
+        "word": "胡鑫宇家人决定暂不火化遗体",
+        "onboard_time": 1675141829,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198968,
+        "num": 198968,
+        "word": "戴琳直播时被曝涉赌",
+        "onboard_time": 1675129707,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195814,
+        "num": 195814,
+        "word": "流浪地球2独属中国式的浪漫",
+        "onboard_time": 1675136431,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193625,
+        "num": 193625,
+        "word": "第三卫生间",
+        "onboard_time": 1675141473,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192312,
+        "num": 192312,
+        "word": "胡鑫宇遗体在粮库废弃区域无监控",
+        "onboard_time": 1675141951,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191519,
+        "num": 191519,
+        "word": "老太严重失眠看医生诊前坐凳上睡着",
+        "onboard_time": 1675130428,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184043,
+        "num": 184043,
+        "word": "突然觉得结婚不可怕了",
+        "onboard_time": 1675091314,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179948,
+        "num": 179948,
+        "word": "沙溢片场打赌输了请全剧组喝饮料",
+        "onboard_time": 1675141591,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175201,
+        "num": 175201,
+        "word": "女子回应制止男童上女厕所被骂",
+        "onboard_time": 1675142071,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175122,
+        "num": 175122,
+        "word": "刘慈欣常散步几小时什么都想不出来",
+        "onboard_time": 1675135049,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的兔年奋斗寄语#"
+    }
+  }
+}

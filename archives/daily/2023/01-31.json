@@ -1,7 +1,15 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675139843549,
+  "endTime": 1675142206507,
   "band_list": [
+    {
+      "raw_hot": 2157023,
+      "num": 2157023,
+      "word": "狂飙指导组被实名举报受贿",
+      "onboard_time": 1675137809,
+      "rank": 10,
+      "category": "影视"
+    },
     {
       "raw_hot": 1891519,
       "num": 1891519,
@@ -33,6 +41,22 @@
       "onboard_time": 1675129167,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1722237,
+      "num": 1722237,
+      "word": "胡彦斌 满江红制作成本1000万重要吗",
+      "onboard_time": 1675140512,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1514556,
+      "num": 867959,
+      "word": "于正 男人涂脂抹粉最恶心",
+      "onboard_time": 1675138711,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 1476949,
@@ -91,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1109291,
-      "num": 1109291,
-      "word": "狂飙指导组被实名举报受贿",
-      "onboard_time": 1675137809,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1035461,
       "num": 1035461,
       "word": "专家称年轻时不应为钱去选择工作",
@@ -113,14 +129,6 @@
       "onboard_time": 1675134808,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 872537,
-      "num": 867959,
-      "word": "于正 男人涂脂抹粉最恶心",
-      "onboard_time": 1675138711,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 871763,
@@ -169,6 +177,14 @@
       "onboard_time": 1675125751,
       "rank": 6,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 834634,
+      "num": 834634,
+      "word": "男生和女生初四相亲初八直接订婚",
+      "onboard_time": 1675140811,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 834056,
@@ -265,6 +281,14 @@
       "onboard_time": 1675133009,
       "rank": 34,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 623477,
+      "num": 623477,
+      "word": "杨幂张大大什刹海滑冰合照",
+      "onboard_time": 1675141650,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 621969,
@@ -419,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 372380,
+      "num": 372380,
+      "word": "敖子逸折腰演宋祖儿弟弟",
+      "onboard_time": 1675139850,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 370820,
       "num": 370820,
       "word": "曾舜晞田曦薇田耕纪cp感",
@@ -467,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320626,
+      "num": 320626,
+      "word": "郭敬明回复吐槽虞书欣云为衫发饰评论",
+      "onboard_time": 1675141711,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318113,
       "num": 318113,
       "word": "才知道最牛的软件是12306",
@@ -481,6 +521,14 @@
       "onboard_time": 1675125031,
       "rank": 21,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 311669,
+      "num": 311669,
+      "word": "干娘是石头是什么体验",
+      "onboard_time": 1675139312,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311542,
@@ -609,6 +657,14 @@
       "onboard_time": 1675128088,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270005,
+      "num": 270005,
+      "word": "湖南卫视元宵喜乐会相逢是圆官宣",
+      "onboard_time": 1675140992,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 265216,
@@ -748,7 +804,7 @@
     },
     {
       "raw_hot": 219686,
-      "num": 1320890,
+      "num": 1381872,
       "word": "一句话总结2023第1个月",
       "onboard_time": 1675120698,
       "rank": 31,
@@ -819,12 +875,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199204,
+      "num": 199204,
+      "word": "胡鑫宇家人决定暂不火化遗体",
+      "onboard_time": 1675141829,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198229,
       "num": 198229,
       "word": "强盛集团孙红雷直播被买鱼刷屏",
       "onboard_time": 1675098561,
       "rank": 35,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 195814,
+      "num": 195814,
+      "word": "流浪地球2独属中国式的浪漫",
+      "onboard_time": 1675136431,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 195784,
@@ -843,12 +915,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192019,
-      "num": 182787,
-      "word": "流浪地球2独属中国式的浪漫",
-      "onboard_time": 1675136431,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 193625,
+      "num": 193625,
+      "word": "第三卫生间",
+      "onboard_time": 1675141473,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192312,
+      "num": 192312,
+      "word": "胡鑫宇遗体在粮库废弃区域无监控",
+      "onboard_time": 1675141951,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187377,
@@ -875,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182423,
-      "num": 182423,
-      "word": "干娘是石头是什么体验",
-      "onboard_time": 1675139312,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181658,
       "num": 181658,
       "word": "拍电影的钱都花在哪",
@@ -896,6 +968,14 @@
       "word": "原来笨笨是被踹下去的",
       "onboard_time": 1675082971,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 179948,
+      "num": 179948,
+      "word": "沙溢片场打赌输了请全剧组喝饮料",
+      "onboard_time": 1675141591,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -921,6 +1001,14 @@
       "onboard_time": 1675072351,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 175201,
+      "num": 175201,
+      "word": "女子回应制止男童上女厕所被骂",
+      "onboard_time": 1675142071,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174394,
