@@ -1,0 +1,410 @@
+{
+  "runTime": 1675183418787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1135320,
+        "num": 1135320,
+        "word": "男孩撸猫后发烧12天腋下长鸡蛋大肿块",
+        "onboard_time": 1675176996,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925582,
+        "num": 925582,
+        "word": "黄瑶 卧底",
+        "onboard_time": 1675169197,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47631,
+        "num": 860463,
+        "word": "1月份制造业PMI升至50.1%",
+        "onboard_time": 1675170759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801923,
+        "num": 801923,
+        "word": "遭辱骂女子被对方举报要求视频下架",
+        "onboard_time": 1675176760,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680021,
+        "num": 680021,
+        "word": "情侣婚前是否有必要同居",
+        "onboard_time": 1675177776,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 564233,
+        "num": 564233,
+        "word": "杭州电梯坠亡案女童姥姥去世",
+        "onboard_time": 1675169317,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538475,
+        "num": 538475,
+        "word": "狂飙口型对不上",
+        "onboard_time": 1675175735,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522014,
+        "num": 522014,
+        "word": "金希澈续约",
+        "onboard_time": 1675178376,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484483,
+        "num": 484483,
+        "word": "刘德华说嗑到了",
+        "onboard_time": 1675172560,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483007,
+        "num": 483007,
+        "word": "安欣熊猫血",
+        "onboard_time": 1675176217,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 833973,
+        "num": 476928,
+        "word": "胡歌 我当爸爸啦",
+        "onboard_time": 1675148478,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469341,
+        "num": 469341,
+        "word": "妈妈先抱弟弟引女儿委屈质问",
+        "onboard_time": 1675180951,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468665,
+        "num": 468665,
+        "word": "狂飙",
+        "onboard_time": 1675167215,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420234,
+        "num": 420234,
+        "word": "糜花",
+        "onboard_time": 1675180171,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 389568,
+        "num": 389568,
+        "word": "京海唯一纯白的茉莉花",
+        "onboard_time": 1675175377,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358721,
+        "num": 358721,
+        "word": "杜海涛撑起了吴昕的朋友圈",
+        "onboard_time": 1675168834,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327019,
+        "num": 327019,
+        "word": "胡鑫宇购买录音笔数据删除后无法恢复",
+        "onboard_time": 1675150696,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295868,
+        "num": 295868,
+        "word": "胡鑫宇哥哥正在北京全程见证录音笔的鉴定",
+        "onboard_time": 1675158638,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265068,
+        "num": 265068,
+        "word": "想减肥的有福了",
+        "onboard_time": 1675173996,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216789,
+        "num": 216789,
+        "word": "猫咪慢性呕吐2个月胃中塞满线绳",
+        "onboard_time": 1675181966,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215245,
+        "num": 215245,
+        "word": "这些戏都是张译设计的",
+        "onboard_time": 1675179335,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214727,
+        "num": 214727,
+        "word": "狂飙全体喊到名场面有现实原型",
+        "onboard_time": 1675178736,
+        "rank": 21,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 212070,
+        "num": 212070,
+        "word": "郭帆证实流浪地球3会有图恒宇",
+        "onboard_time": 1675169915,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205720,
+        "num": 205720,
+        "word": "压力给到彭于晏",
+        "onboard_time": 1675149175,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193601,
+        "num": 193601,
+        "word": "结婚该不该考虑另一半的家境",
+        "onboard_time": 1675164762,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179506,
+        "num": 179506,
+        "word": "律师谈12.4万保时捷遭抢购后下架",
+        "onboard_time": 1675175316,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170545,
+        "num": 170545,
+        "word": "父母帮小男孩抓海鸥强行塞进塑料瓶",
+        "onboard_time": 1675178018,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168467,
+        "num": 168467,
+        "word": "恋与制作人",
+        "onboard_time": 1675180052,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166781,
+        "num": 166781,
+        "word": "如何看待脱口秀春晚收视率第一",
+        "onboard_time": 1675174716,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63064,
+        "num": 146993,
+        "word": "突然看到漫天风筝以为进了动画片",
+        "onboard_time": 1675182628,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264576,
+        "num": 145745,
+        "word": "胡鑫宇外婆是从老伴手机上得知噩耗",
+        "onboard_time": 1675166317,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144105,
+        "num": 144105,
+        "word": "唐嫣说小姐姐可以陪妹妹玩啦",
+        "onboard_time": 1675150813,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138275,
+        "num": 138275,
+        "word": "秦霄贤新发色",
+        "onboard_time": 1675169559,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131686,
+        "num": 131686,
+        "word": "张云雷开箱",
+        "onboard_time": 1675172079,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119790,
+        "num": 119790,
+        "word": "变成电子宠物有多可怕",
+        "onboard_time": 1675176105,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119159,
+        "num": 119159,
+        "word": "肖战任敏玉骨遥暂定43集",
+        "onboard_time": 1675166076,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115718,
+        "num": 115718,
+        "word": "fgo",
+        "onboard_time": 1675177297,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105823,
+        "num": 105823,
+        "word": "任嘉伦找兜",
+        "onboard_time": 1675175978,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105143,
+        "num": 105143,
+        "word": "原来小狗喝多了是这样的",
+        "onboard_time": 1675173939,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98920,
+        "num": 98920,
+        "word": "武林外传预言流浪地球2",
+        "onboard_time": 1675158039,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88160,
+        "num": 88160,
+        "word": "自动续费忘记关闭怎么办",
+        "onboard_time": 1675165713,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 82863,
+        "num": 82863,
+        "word": "赵露思神隐捂嘴笑路透",
+        "onboard_time": 1675171834,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78453,
+        "num": 78453,
+        "word": "张译竟然这么会亲",
+        "onboard_time": 1675156961,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77628,
+        "num": 77628,
+        "word": "苏州坐地铁可直达上海",
+        "onboard_time": 1675159298,
+        "rank": 43,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 74880,
+        "num": 74880,
+        "word": "女生过年回家一开门来了十几个相亲",
+        "onboard_time": 1675166376,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72643,
+        "num": 72643,
+        "word": "运气比努力重要吗",
+        "onboard_time": 1675172797,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67678,
+        "num": 67678,
+        "word": "闪耀暖暖",
+        "onboard_time": 1675176934,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65179,
+        "num": 65179,
+        "word": "彭于晏你着急吗",
+        "onboard_time": 1675149175,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61361,
+        "num": 61361,
+        "word": "要和腰间赘肉说拜拜了",
+        "onboard_time": 1675161102,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57822,
+        "num": 57822,
+        "word": "三体叶文洁被PUA",
+        "onboard_time": 1675173454,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的兔年奋斗寄语#"
+    }
+  }
+}
