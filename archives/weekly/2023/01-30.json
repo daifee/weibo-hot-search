@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675192492695,
+  "endTime": 1675193623011,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -4841,6 +4841,14 @@
       "onboard_time": 1675097543,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96522,
+      "num": 96522,
+      "word": "诗词大会选手有点东西",
+      "onboard_time": 1675193233,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 96384,
