@@ -1,0 +1,410 @@
+{
+  "runTime": 1675190228725,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 325065,
+        "num": 325065,
+        "word": "遭辱骂女子被对方举报要求视频下架",
+        "onboard_time": 1675176760,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255504,
+        "num": 255504,
+        "word": "厦门举报此人奖励10万元",
+        "onboard_time": 1675184540,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16321,
+        "num": 242934,
+        "word": "1月份制造业PMI升至50.1%",
+        "onboard_time": 1675170759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241340,
+        "num": 241340,
+        "word": "黄瑶 卧底",
+        "onboard_time": 1675169197,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231119,
+        "num": 231119,
+        "word": "答非所问的明星采访",
+        "onboard_time": 1675186996,
+        "rank": 4,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 163903,
+        "num": 163903,
+        "word": "狂飙",
+        "onboard_time": 1675167215,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152140,
+        "num": 152140,
+        "word": "妈妈先抱弟弟引女儿委屈质问",
+        "onboard_time": 1675180951,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136609,
+        "num": 136609,
+        "word": "杭州电梯坠亡案女童姥姥去世",
+        "onboard_time": 1675169317,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128379,
+        "num": 128379,
+        "word": "猫咪慢性呕吐2个月胃中塞满线绳",
+        "onboard_time": 1675181966,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127450,
+        "num": 127450,
+        "word": "刘德华说嗑到了",
+        "onboard_time": 1675172560,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249022,
+        "num": 126471,
+        "word": "胡歌 我当爸爸啦",
+        "onboard_time": 1675148478,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125244,
+        "num": 125244,
+        "word": "胡鑫宇购买录音笔数据删除后无法恢复",
+        "onboard_time": 1675150696,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123956,
+        "num": 123956,
+        "word": "男孩撸猫后发烧12天腋下长鸡蛋大肿块",
+        "onboard_time": 1675176996,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108236,
+        "num": 108236,
+        "word": "情侣婚前是否有必要同居",
+        "onboard_time": 1675177776,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107133,
+        "num": 107133,
+        "word": "狂飙口型对不上",
+        "onboard_time": 1675175735,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101006,
+        "num": 101006,
+        "word": "金希澈续约",
+        "onboard_time": 1675178376,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91821,
+        "num": 91821,
+        "word": "福建广东多个沿海大省开启抢人模式",
+        "onboard_time": 1675187476,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86340,
+        "num": 86340,
+        "word": "安欣熊猫血",
+        "onboard_time": 1675176217,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83468,
+        "num": 83468,
+        "word": "杜海涛撑起了吴昕的朋友圈",
+        "onboard_time": 1675168834,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81887,
+        "num": 81887,
+        "word": "京海唯一纯白的茉莉花",
+        "onboard_time": 1675175377,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194068,
+        "num": 81599,
+        "word": "胡鑫宇遗体所在粮库一般人进不去",
+        "onboard_time": 1675187777,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66479,
+        "num": 66479,
+        "word": "压力给到彭于晏",
+        "onboard_time": 1675149175,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64087,
+        "num": 64087,
+        "word": "郭帆证实流浪地球3会有图恒宇",
+        "onboard_time": 1675169915,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57799,
+        "num": 57799,
+        "word": "想减肥的有福了",
+        "onboard_time": 1675173996,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56571,
+        "num": 56571,
+        "word": "结婚该不该考虑另一半的家境",
+        "onboard_time": 1675164762,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50478,
+        "num": 50478,
+        "word": "律师谈12.4万保时捷遭抢购后下架",
+        "onboard_time": 1675175316,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48307,
+        "num": 48307,
+        "word": "如何看待脱口秀春晚收视率第一",
+        "onboard_time": 1675174716,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43418,
+        "num": 43418,
+        "word": "张译rap",
+        "onboard_time": 1675187837,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43391,
+        "num": 43391,
+        "word": "恋与制作人",
+        "onboard_time": 1675180052,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36120,
+        "num": 42865,
+        "word": "突然看到漫天风筝以为进了动画片",
+        "onboard_time": 1675182628,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51806,
+        "num": 42835,
+        "word": "想象中的毛毛外套和现实中的毛毛外套",
+        "onboard_time": 1675186278,
+        "rank": 30,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 42725,
+        "num": 42725,
+        "word": "安欣你这件衣服是哪来的",
+        "onboard_time": 1675169976,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41294,
+        "num": 41294,
+        "word": "变成电子宠物有多可怕",
+        "onboard_time": 1675176105,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41236,
+        "num": 41236,
+        "word": "张云雷开箱",
+        "onboard_time": 1675172079,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40947,
+        "num": 40947,
+        "word": "胡鑫宇哥哥正在北京全程见证录音笔的鉴定",
+        "onboard_time": 1675158638,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40632,
+        "num": 40632,
+        "word": "秦霄贤新发色",
+        "onboard_time": 1675169559,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40478,
+        "num": 40478,
+        "word": "fgo",
+        "onboard_time": 1675177297,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38499,
+        "num": 38499,
+        "word": "自动续费忘记关闭怎么办",
+        "onboard_time": 1675165713,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 38040,
+        "num": 38040,
+        "word": "狂飙全体喊到名场面有现实原型",
+        "onboard_time": 1675178736,
+        "rank": 38,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 36279,
+        "num": 36279,
+        "word": "父母帮小男孩抓海鸥强行塞进塑料瓶",
+        "onboard_time": 1675178018,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34556,
+        "num": 34556,
+        "word": "肖战任敏玉骨遥暂定43集",
+        "onboard_time": 1675166076,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31978,
+        "num": 31978,
+        "word": "唐嫣说小姐姐可以陪妹妹玩啦",
+        "onboard_time": 1675150813,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57519,
+        "num": 31797,
+        "word": "湖南一网吧凌晨变狂飙专场",
+        "onboard_time": 1675163257,
+        "rank": 42,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 31193,
+        "num": 31193,
+        "word": "原来小狗喝多了是这样的",
+        "onboard_time": 1675173939,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29393,
+        "num": 29393,
+        "word": "张译竟然这么会亲",
+        "onboard_time": 1675156961,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26939,
+        "num": 26939,
+        "word": "宋亚轩晒乌托邦乐园花絮照",
+        "onboard_time": 1675186698,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26248,
+        "num": 26248,
+        "word": "赵露思神隐捂嘴笑路透",
+        "onboard_time": 1675171834,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25853,
+        "num": 25853,
+        "word": "运气比努力重要吗",
+        "onboard_time": 1675172797,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25692,
+        "num": 25692,
+        "word": "这些戏都是张译设计的",
+        "onboard_time": 1675179335,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22963,
+        "num": 22963,
+        "word": "彭于晏你着急吗",
+        "onboard_time": 1675149175,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#原来有这么多诗词描写祖国大好河山#"
+    }
+  }
+}
