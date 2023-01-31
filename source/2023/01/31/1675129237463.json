@@ -1,0 +1,410 @@
+{
+  "runTime": 1675129237463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1890656,
+        "num": 1890656,
+        "word": "胡鑫宇父亲称未到达遗体发现点",
+        "onboard_time": 1675120880,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1095452,
+        "num": 1095452,
+        "word": "澳大利亚一枚恐致癌放射性胶囊丢失",
+        "onboard_time": 1675127549,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27659,
+        "num": 1039870,
+        "word": "原来中国科幻的背后是中国制造",
+        "onboard_time": 1675068812,
+        "rank": 2,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1035461,
+        "num": 1035461,
+        "word": "专家称年轻时不应为钱去选择工作",
+        "onboard_time": 1675110072,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928967,
+        "num": 928967,
+        "word": "突然觉得结婚不可怕了",
+        "onboard_time": 1675091314,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 870981,
+        "num": 870981,
+        "word": "安欣陪孟德海一起去自首",
+        "onboard_time": 1675120880,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 850400,
+        "num": 850400,
+        "word": "河北一滑雪场禁止游客教亲友滑雪",
+        "onboard_time": 1675125751,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 825973,
+        "num": 825973,
+        "word": "一千万能拍出满江红吗",
+        "onboard_time": 1675122862,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 581231,
+        "num": 581231,
+        "word": "高启兰好美啊",
+        "onboard_time": 1675085911,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 559673,
+        "num": 559673,
+        "word": "虞书欣王鹤棣苍兰诀豆瓣涨至8.1分",
+        "onboard_time": 1675123827,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 540549,
+        "num": 540549,
+        "word": "张译脸盆一盆多用",
+        "onboard_time": 1675127669,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 485808,
+        "num": 485808,
+        "word": "没阳的人注意这6件事",
+        "onboard_time": 1675126406,
+        "rank": 11,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 475161,
+        "num": 475161,
+        "word": "三胞胎天使离世父母做出伟大决定",
+        "onboard_time": 1675092452,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468989,
+        "num": 468989,
+        "word": "张颂文马嘉祺唱的听海",
+        "onboard_time": 1675124668,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 427915,
+        "num": 427915,
+        "word": "终于知道女生买衣服好看的定律了",
+        "onboard_time": 1675127549,
+        "rank": 14,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 411515,
+        "num": 411515,
+        "word": "光与夜之恋",
+        "onboard_time": 1675128986,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 403607,
+        "num": 403607,
+        "word": "三亚通报村民拦截游客车辆收10元",
+        "onboard_time": 1675127309,
+        "rank": 16,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 372640,
+        "num": 372640,
+        "word": "孟德海 嘴型",
+        "onboard_time": 1675085430,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366643,
+        "num": 366643,
+        "word": "以为是剧情需要没想到是人间真实",
+        "onboard_time": 1675124008,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350494,
+        "num": 350494,
+        "word": "狂飙反派云道歉会",
+        "onboard_time": 1675090835,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332953,
+        "num": 332953,
+        "word": "女大学生寒假捡6天烟花纸壳卖不掉",
+        "onboard_time": 1675086332,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317989,
+        "num": 317989,
+        "word": "郭帆人民日报撰文",
+        "onboard_time": 1675125031,
+        "rank": 21,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 307195,
+        "num": 307195,
+        "word": "众人在轿车爆燃前救出车主",
+        "onboard_time": 1675126528,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 306098,
+        "num": 306098,
+        "word": "男子偷2万元刮刮乐刮出9000元",
+        "onboard_time": 1675094607,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276240,
+        "num": 276240,
+        "word": "建水实验中学多次违法被查处",
+        "onboard_time": 1675122142,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 262615,
+        "num": 262615,
+        "word": "强盛集团孙红雷呼吁理性吃瓜",
+        "onboard_time": 1675128568,
+        "rank": 25,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 259165,
+        "num": 259165,
+        "word": "Angelababy开工随拍",
+        "onboard_time": 1675124008,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242902,
+        "num": 242902,
+        "word": "原来咖啡也可以这么可爱",
+        "onboard_time": 1675123105,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 229426,
+        "num": 229426,
+        "word": "2023第一批心急的小花已经开了",
+        "onboard_time": 1675128447,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221815,
+        "num": 221815,
+        "word": "戴琳",
+        "onboard_time": 1675123527,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518693,
+        "num": 221472,
+        "word": "官方回应发现胡鑫宇尸体通报只写金鸡山",
+        "onboard_time": 1675090475,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219523,
+        "num": 219523,
+        "word": "网友喊话山东强盛集团自首",
+        "onboard_time": 1675081051,
+        "rank": 31,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 209429,
+        "num": 209429,
+        "word": "母亲为救2个落水儿子不幸遇难",
+        "onboard_time": 1675105632,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200331,
+        "num": 200331,
+        "word": "男子质疑下高速收费被四舍五入",
+        "onboard_time": 1675126467,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198229,
+        "num": 198229,
+        "word": "强盛集团孙红雷直播被买鱼刷屏",
+        "onboard_time": 1675098561,
+        "rank": 34,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 197626,
+        "num": 197626,
+        "word": "流浪小狐狸投奔看守所1年胖成球",
+        "onboard_time": 1675115232,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195784,
+        "num": 195784,
+        "word": "山东种植的西红柿可以订制味道了",
+        "onboard_time": 1675122444,
+        "rank": 36,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 193581,
+        "num": 193581,
+        "word": "张大大说杨幂进组肯定很快乐",
+        "onboard_time": 1675096704,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182931,
+        "num": 182931,
+        "word": "狂飙安欣的真实原型之一",
+        "onboard_time": 1675085133,
+        "rank": 38,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 182771,
+        "num": 182771,
+        "word": "女孩寒假摆摊卖玩具半月赚万元",
+        "onboard_time": 1675085495,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175101,
+        "num": 175101,
+        "word": "塔图姆",
+        "onboard_time": 1675128088,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170492,
+        "num": 170492,
+        "word": "胡鑫宇案律师称准备申请刑事立案",
+        "onboard_time": 1675090714,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162577,
+        "num": 162577,
+        "word": "流浪地球杀疯了",
+        "onboard_time": 1675078653,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160941,
+        "num": 160941,
+        "word": "男子打球6天后发现头顶卡对手2颗牙",
+        "onboard_time": 1675083153,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 160056,
+        "num": 160056,
+        "word": "工作人员称粮仓一直正常运行",
+        "onboard_time": 1675094668,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157058,
+        "num": 157058,
+        "word": "卫星视角速览胡鑫宇案",
+        "onboard_time": 1675085254,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148254,
+        "num": 148254,
+        "word": "徐忠喊话",
+        "onboard_time": 1675128805,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142192,
+        "num": 142192,
+        "word": "湖人vs篮网",
+        "onboard_time": 1675128388,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140441,
+        "num": 140441,
+        "word": "弟弟玩迷你刀不慎扎伤姐姐大腿",
+        "onboard_time": 1675093592,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138522,
+        "num": 138522,
+        "word": "校方曾派老师和胡鑫宇家属共同进粮库找人",
+        "onboard_time": 1675129167,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#回味中国年喜迎开门红#"
+    }
+  }
+}
