@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/01/31 18:35:42
+本榜单时间：2023/01/01 00:23:37 ~ 2023/01/31 19:15:28
 </p>
 </blockquote>
 <p>
@@ -4683,6 +4683,12 @@ never 讨厌没有边界感的帅哥（热度：1159976）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%91%AB%E5%AE%87%E5%93%A5%E5%93%A5%E6%AD%A3%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%85%A8%E7%A8%8B%E8%A7%81%E8%AF%81%E5%BD%95%E9%9F%B3%E7%AC%94%E7%9A%84%E9%89%B4%E5%AE%9A%23" target="weibo">
+胡鑫宇哥哥正在北京全程见证录音笔的鉴定（热度：1156552）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E6%88%91%E5%88%AB%E7%94%A8%E6%9D%8E%E5%93%8D%E5%88%80%23" target="weibo">
 杀我别用李响刀（热度：1156367）
 </a>
@@ -6005,12 +6011,6 @@ never在笑（热度：1016332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%BC%80%E7%A7%8D%E8%8A%B1%E5%AE%B6%23" target="weibo">
 花开种花家（热度：1000998）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%90%86%E5%8F%91%E6%97%B6%E8%80%B3%E6%9C%B5%E8%A2%AB%E5%89%AA%E6%8E%89%E4%B8%80%E5%9D%97%E8%82%89%23" target="weibo">
-男子理发时耳朵被剪掉一块肉（热度：998831）
 </a>
 </li>
 
