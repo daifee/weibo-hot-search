@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675200827886,
+  "endTime": 1675203457762,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -4820,7 +4820,7 @@
     },
     {
       "raw_hot": 109665,
-      "num": 55913,
+      "num": 59190,
       "word": "知情人称胡鑫宇饭卡仍在搜寻",
       "onboard_time": 1675195571,
       "rank": 15,
@@ -4865,6 +4865,14 @@
       "onboard_time": 1675100657,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94433,
+      "num": 35360,
+      "word": "胡鑫宇录音笔已送深圳恢复数据",
+      "onboard_time": 1675197312,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91821,
@@ -4931,14 +4939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67317,
-      "num": 29959,
-      "word": "胡鑫宇录音笔已送深圳恢复数据",
-      "onboard_time": 1675197312,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67252,
       "num": 67252,
       "word": "布莱顿2比1利物浦",
@@ -4993,6 +4993,14 @@
       "onboard_time": 1675187837,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41581,
+      "num": 45093,
+      "word": "小朋友对痛感总是慢半拍",
+      "onboard_time": 1675198332,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 40657,
@@ -5059,12 +5067,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 26894,
-      "num": 26894,
-      "word": "小朋友对痛感总是慢半拍",
-      "onboard_time": 1675198332,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 21210,
+      "num": 21210,
+      "word": "男子醉酒后哭诉心疼妻子想让娃断奶",
+      "onboard_time": 1675202773,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19031,
