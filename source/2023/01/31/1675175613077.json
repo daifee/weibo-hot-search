@@ -1,0 +1,410 @@
+{
+  "runTime": 1675175613077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2535118,
+        "num": 2535118,
+        "word": "黄瑶 卧底",
+        "onboard_time": 1675169197,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1163388,
+        "num": 1163388,
+        "word": "刘德华说嗑到了",
+        "onboard_time": 1675172560,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115995,
+        "num": 1132216,
+        "word": "1月份制造业PMI升至50.1%",
+        "onboard_time": 1675170759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1441837,
+        "num": 1121692,
+        "word": "杭州电梯坠亡案女童姥姥去世",
+        "onboard_time": 1675169317,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1104568,
+        "num": 1104568,
+        "word": "狂飙",
+        "onboard_time": 1675167215,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1073734,
+        "num": 1073734,
+        "word": "胡鑫宇购买录音笔数据删除后无法恢复",
+        "onboard_time": 1675150696,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941320,
+        "num": 941320,
+        "word": "狂飙大结局预告",
+        "onboard_time": 1675169797,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 770696,
+        "num": 770696,
+        "word": "杜海涛撑起了吴昕的朋友圈",
+        "onboard_time": 1675168834,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 668730,
+        "num": 668730,
+        "word": "唐小虎下线",
+        "onboard_time": 1675171596,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 666774,
+        "num": 666774,
+        "word": "结婚该不该考虑另一半的家境",
+        "onboard_time": 1675164762,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2386297,
+        "num": 663767,
+        "word": "胡歌 我当爸爸啦",
+        "onboard_time": 1675148478,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660569,
+        "num": 660569,
+        "word": "高启强女儿被绑架",
+        "onboard_time": 1675167817,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449657,
+        "num": 449657,
+        "word": "张云雷开箱",
+        "onboard_time": 1675172079,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720121,
+        "num": 449579,
+        "word": "唐嫣说小姐姐可以陪妹妹玩啦",
+        "onboard_time": 1675150813,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440701,
+        "num": 440701,
+        "word": "肖战任敏玉骨遥暂定43集",
+        "onboard_time": 1675166076,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376076,
+        "num": 376076,
+        "word": "原来小狗喝多了是这样的",
+        "onboard_time": 1675173939,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 684113,
+        "num": 373219,
+        "word": "压力给到彭于晏",
+        "onboard_time": 1675149175,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354729,
+        "num": 354729,
+        "word": "胡鑫宇哥哥正在北京全程见证录音笔的鉴定",
+        "onboard_time": 1675158638,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272653,
+        "num": 272653,
+        "word": "想减肥的有福了",
+        "onboard_time": 1675173996,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266018,
+        "num": 266018,
+        "word": "保时捷官网12.4万元帕纳梅拉遭抢购",
+        "onboard_time": 1675146149,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573718,
+        "num": 265040,
+        "word": "胡鑫宇外婆是从老伴手机上得知噩耗",
+        "onboard_time": 1675166317,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419902,
+        "num": 263422,
+        "word": "京海唯一纯白的茉莉花",
+        "onboard_time": 1675175377,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358219,
+        "num": 261925,
+        "word": "郭帆证实流浪地球3会有图恒宇",
+        "onboard_time": 1675169915,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344055,
+        "num": 260375,
+        "word": "彭于晏你着急吗",
+        "onboard_time": 1675149175,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324879,
+        "num": 257814,
+        "word": "秦霄贤新发色",
+        "onboard_time": 1675169559,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316846,
+        "num": 256143,
+        "word": "赵露思神隐捂嘴笑路透",
+        "onboard_time": 1675171834,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288582,
+        "num": 254185,
+        "word": "张译竟然这么会亲",
+        "onboard_time": 1675156961,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253795,
+        "num": 253795,
+        "word": "狗狗的小碎步有多可爱",
+        "onboard_time": 1675172915,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240415,
+        "num": 240415,
+        "word": "要和腰间赘肉说拜拜了",
+        "onboard_time": 1675161102,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218079,
+        "num": 218079,
+        "word": "母子围炉煮茶一氧化碳中毒身亡",
+        "onboard_time": 1675152118,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 271015,
+        "num": 213550,
+        "word": "如何看待脱口秀春晚收视率第一",
+        "onboard_time": 1675174716,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208038,
+        "num": 208038,
+        "word": "自动续费忘记关闭怎么办",
+        "onboard_time": 1675165713,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 194602,
+        "num": 194602,
+        "word": "苏州坐地铁可直达上海",
+        "onboard_time": 1675159298,
+        "rank": 32,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 193107,
+        "num": 193107,
+        "word": "武林外传预言流浪地球2",
+        "onboard_time": 1675158039,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180203,
+        "num": 180203,
+        "word": "女生过年回家一开门来了十几个相亲",
+        "onboard_time": 1675166376,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178973,
+        "num": 178973,
+        "word": "原来红岸是研究外星文明的",
+        "onboard_time": 1675171236,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175429,
+        "num": 175429,
+        "word": "运气比努力重要吗",
+        "onboard_time": 1675172797,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173357,
+        "num": 173357,
+        "word": "LNG海报",
+        "onboard_time": 1675167697,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170468,
+        "num": 170468,
+        "word": "丁程鑫点脸",
+        "onboard_time": 1675166797,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165530,
+        "num": 165530,
+        "word": "相亲到什么程度可以结婚",
+        "onboard_time": 1675157858,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157622,
+        "num": 157622,
+        "word": "安欣你这件衣服是哪来的",
+        "onboard_time": 1675169976,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150711,
+        "num": 150711,
+        "word": "李现回母校被偶遇",
+        "onboard_time": 1675168292,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142993,
+        "num": 142993,
+        "word": "介意对象有很好的异性朋友吗",
+        "onboard_time": 1675168356,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142621,
+        "num": 142621,
+        "word": "杭州中考取消外籍华人的子女加分",
+        "onboard_time": 1675158221,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 139095,
+        "num": 139095,
+        "word": "Doggo 泽丽",
+        "onboard_time": 1675175197,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148627,
+        "num": 139016,
+        "word": "高启兰为什么当骨科医生",
+        "onboard_time": 1675169559,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138478,
+        "num": 138478,
+        "word": "三体叶文洁被PUA",
+        "onboard_time": 1675173454,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130759,
+        "num": 130759,
+        "word": "律师谈12.4万保时捷遭抢购后下架",
+        "onboard_time": 1675175316,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129652,
+        "num": 129652,
+        "word": "女生和离异带娃男相亲被其前妻劝退",
+        "onboard_time": 1675154805,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126007,
+        "num": 126007,
+        "word": "原来黎族服饰也能很时尚",
+        "onboard_time": 1675172797,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#强信心开新局#"
+    }
+  }
+}
