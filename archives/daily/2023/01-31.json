@@ -1,6 +1,6 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675175613077,
+  "endTime": 1675178370765,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -296,6 +296,14 @@
       "word": "肖战任敏玉骨遥暂定43集",
       "onboard_time": 1675166076,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1115736,
+      "num": 908714,
+      "word": "京海唯一纯白的茉莉花",
+      "onboard_time": 1675175377,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -651,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 612960,
+      "num": 554436,
+      "word": "男孩撸猫后发烧12天腋下长鸡蛋大肿块",
+      "onboard_time": 1675176996,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609776,
       "num": 609776,
       "word": "南京大屠杀幸存者周湘萍去世",
@@ -755,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 550234,
+      "num": 550234,
+      "word": "想减肥的有福了",
+      "onboard_time": 1675173996,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 542098,
       "num": 113160,
       "word": "北京三里屯酒吧街关停倒计时",
@@ -771,11 +795,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 530899,
+      "num": 530899,
+      "word": "遭辱骂女子被对方举报要求视频下架",
+      "onboard_time": 1675176760,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524447,
       "num": 524447,
       "word": "医院回应女子取牙模时被呛身亡传言",
       "onboard_time": 1675136066,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524176,
+      "num": 524176,
+      "word": "律师谈12.4万保时捷遭抢购后下架",
+      "onboard_time": 1675175316,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -923,12 +963,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 419902,
-      "num": 263422,
-      "word": "京海唯一纯白的茉莉花",
-      "onboard_time": 1675175377,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 420906,
+      "num": 420906,
+      "word": "如何看待脱口秀春晚收视率第一",
+      "onboard_time": 1675174716,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 418328,
@@ -971,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 409152,
+      "num": 409152,
+      "word": "原来小狗喝多了是这样的",
+      "onboard_time": 1675173939,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 403803,
       "num": 389191,
       "word": "秦霄贤新发色",
@@ -1003,20 +1051,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 376076,
-      "num": 376076,
-      "word": "原来小狗喝多了是这样的",
-      "onboard_time": 1675173939,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 375871,
       "num": 375871,
       "word": "张颂文旧照",
       "onboard_time": 1675149995,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374719,
+      "num": 374719,
+      "word": "安欣熊猫血",
+      "onboard_time": 1675176217,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 374006,
@@ -1083,6 +1131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 349373,
+      "num": 349373,
+      "word": "任嘉伦找兜",
+      "onboard_time": 1675175978,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347211,
       "num": 256143,
       "word": "赵露思神隐捂嘴笑路透",
@@ -1097,6 +1153,14 @@
       "onboard_time": 1675136488,
       "rank": 29,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 341801,
+      "num": 341801,
+      "word": "闪耀暖暖",
+      "onboard_time": 1675176934,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 338503,
@@ -1347,20 +1411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 272653,
-      "num": 272653,
-      "word": "想减肥的有福了",
-      "onboard_time": 1675173996,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 271015,
-      "num": 213550,
-      "word": "如何看待脱口秀春晚收视率第一",
-      "onboard_time": 1675174716,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 272476,
+      "num": 272476,
+      "word": "三体叶文洁被PUA",
+      "onboard_time": 1675173454,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 270060,
@@ -1587,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231892,
+      "num": 231892,
+      "word": "变成电子宠物有多可怕",
+      "onboard_time": 1675176105,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227701,
       "num": 227701,
       "word": "王力宏晒与粉丝演唱会合照",
@@ -1611,6 +1675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225094,
+      "num": 225094,
+      "word": "fgo",
+      "onboard_time": 1675177297,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 222572,
       "num": 222572,
       "word": "杨紫199爱穿校服做广播体操路透",
@@ -1633,6 +1705,14 @@
       "onboard_time": 1675169016,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219724,
+      "num": 219724,
+      "word": "情侣婚前是否有必要同居",
+      "onboard_time": 1675177776,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 218940,
@@ -2019,6 +2099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181231,
+      "num": 181231,
+      "word": "高晓晨输血桥段",
+      "onboard_time": 1675173160,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180758,
       "num": 180758,
       "word": "宋亚轩新歌舞台个人直拍",
@@ -2073,6 +2161,14 @@
       "onboard_time": 1675096346,
       "rank": 41,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 173707,
+      "num": 173707,
+      "word": "Doggo 泽丽",
+      "onboard_time": 1675175197,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 173112,
@@ -2139,6 +2235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160793,
+      "num": 160793,
+      "word": "宋祖儿小乔开机照两宫格",
+      "onboard_time": 1675175618,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160269,
       "num": 160269,
       "word": "原来黎族服饰也能很时尚",
@@ -2169,14 +2273,6 @@
       "onboard_time": 1675132407,
       "rank": 37,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 157428,
-      "num": 157428,
-      "word": "三体叶文洁被PUA",
-      "onboard_time": 1675173454,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 157058,
@@ -2307,14 +2403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 139095,
-      "num": 139095,
-      "word": "Doggo 泽丽",
-      "onboard_time": 1675175197,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 137572,
       "num": 137572,
       "word": "3到6岁是孩子性别角色确认关键期",
@@ -2345,14 +2433,6 @@
       "onboard_time": 1675104733,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130759,
-      "num": 130759,
-      "word": "律师谈12.4万保时捷遭抢购后下架",
-      "onboard_time": 1675175316,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129871,
@@ -2393,6 +2473,14 @@
       "onboard_time": 1675098140,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116255,
+      "num": 116255,
+      "word": "父母帮小男孩抓海鸥强行塞进塑料瓶",
+      "onboard_time": 1675178018,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115995,
