@@ -1,6 +1,6 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675143208593,
+  "endTime": 1675146254586,
   "band_list": [
     {
       "raw_hot": 2157023,
@@ -11,8 +11,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2028160,
-      "num": 2028160,
+      "raw_hot": 2048429,
+      "num": 2048429,
       "word": "胡彦斌 满江红制作成本1000万重要吗",
       "onboard_time": 1675140512,
       "rank": 1,
@@ -40,6 +40,14 @@
       "word": "胡鑫宇父亲称未到达遗体发现点",
       "onboard_time": 1675120880,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1878398,
+      "num": 1878398,
+      "word": "男生和女生初四相亲初八直接订婚",
+      "onboard_time": 1675140811,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -73,14 +81,6 @@
       "onboard_time": 1675134867,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1389671,
-      "num": 1389671,
-      "word": "男生和女生初四相亲初八直接订婚",
-      "onboard_time": 1675140811,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1335222,
@@ -131,11 +131,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1053254,
+      "num": 1053254,
+      "word": "胡鑫宇家人决定暂不火化遗体",
+      "onboard_time": 1675141829,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1050947,
+      "num": 1050947,
+      "word": "郭敬明回复吐槽虞书欣云为衫发饰评论",
+      "onboard_time": 1675141711,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1035461,
       "num": 1035461,
       "word": "专家称年轻时不应为钱去选择工作",
       "onboard_time": 1675110072,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 992797,
+      "num": 992797,
+      "word": "女子回应制止男童上女厕所被骂",
+      "onboard_time": 1675142071,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -217,6 +241,14 @@
       "onboard_time": 1675122862,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 821986,
+      "num": 821986,
+      "word": "一家人在耳聋爷爷面前商量买墓地",
+      "onboard_time": 1675143990,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 765452,
@@ -307,6 +339,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 603318,
+      "num": 603318,
+      "word": "第三卫生间",
+      "onboard_time": 1675141473,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597173,
+      "num": 597173,
+      "word": "美国将禁止供应商向华为提供产品",
+      "onboard_time": 1675144590,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 581231,
       "num": 581231,
       "word": "高启兰好美啊",
@@ -337,22 +385,6 @@
       "onboard_time": 1675123827,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 553357,
-      "num": 553357,
-      "word": "郭敬明回复吐槽虞书欣云为衫发饰评论",
-      "onboard_time": 1675141711,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 550471,
-      "num": 550471,
-      "word": "胡鑫宇家人决定暂不火化遗体",
-      "onboard_time": 1675141829,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 542098,
@@ -419,12 +451,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 445141,
-      "num": 445141,
-      "word": "女子回应制止男童上女厕所被骂",
-      "onboard_time": 1675142071,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 465268,
+      "num": 465268,
+      "word": "当我养了四只社恐猫咪",
+      "onboard_time": 1675143390,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 441867,
@@ -475,11 +507,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 374700,
-      "num": 374700,
-      "word": "第三卫生间",
-      "onboard_time": 1675141473,
-      "rank": 43,
+      "raw_hot": 407600,
+      "num": 407600,
+      "word": "狂飙 正面人物",
+      "onboard_time": 1675142490,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 383339,
+      "num": 383339,
+      "word": "5岁男童抗癌3年体重仅剩10公斤",
+      "onboard_time": 1675143868,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -531,11 +571,27 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 336494,
+      "num": 336494,
+      "word": "公子贵姓开播",
+      "onboard_time": 1675144948,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331587,
       "num": 331587,
       "word": "2023第一批心急的小花已经开了",
       "onboard_time": 1675128447,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325880,
+      "num": 325880,
+      "word": "胡鑫宇遗体在粮库废弃区域无监控",
+      "onboard_time": 1675141951,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -585,14 +641,6 @@
       "onboard_time": 1675126528,
       "rank": 22,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 305101,
-      "num": 305101,
-      "word": "胡鑫宇遗体在粮库废弃区域无监控",
-      "onboard_time": 1675141951,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303684,
@@ -883,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212816,
+      "num": 212816,
+      "word": "田亮女儿网球职业赛首秀告捷",
+      "onboard_time": 1675144408,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210113,
       "num": 210113,
       "word": "流浪小狐狸投奔看守所1年胖成球",
@@ -923,20 +979,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198241,
-      "num": 187229,
-      "word": "狂飙 正面人物",
-      "onboard_time": 1675142490,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 198229,
       "num": 198229,
       "word": "强盛集团孙红雷直播被买鱼刷屏",
       "onboard_time": 1675098561,
       "rank": 35,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 196544,
+      "num": 196544,
+      "word": "高启强狂飙倒放镜头",
+      "onboard_time": 1675145549,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 195814,
@@ -968,6 +1024,14 @@
       "word": "狂飙高叶演过猎罪图鉴",
       "onboard_time": 1675134749,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187124,
+      "num": 187124,
+      "word": "宋祖儿乔家女小乔这厢有礼",
+      "onboard_time": 1675146210,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -1051,12 +1115,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167927,
+      "num": 167927,
+      "word": "人民日报评刘亦菲李现去有风的地方",
+      "onboard_time": 1675146087,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 167071,
+      "num": 167071,
+      "word": "小狗吵架要有距离感",
+      "onboard_time": 1675145728,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 164122,
       "num": 164122,
       "word": "戴琳声明从未涉赌",
       "onboard_time": 1675132167,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163974,
+      "num": 163974,
+      "word": "梦泪阿楠携手甜蜜cos",
+      "onboard_time": 1675146029,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 162168,
@@ -1107,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155297,
+      "num": 155297,
+      "word": "专家称应增设更多家庭厕所",
+      "onboard_time": 1675144110,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152159,
       "num": 152159,
       "word": "为海上丝绸之路保驾护航的英雄",
@@ -1128,6 +1224,14 @@
       "word": "四川回应生育登记取消结婚限制",
       "onboard_time": 1675071750,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150891,
+      "num": 150891,
+      "word": "地铁回应女子不让男童上女厕所遭骂",
+      "onboard_time": 1675145969,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1169,6 +1273,14 @@
       "onboard_time": 1675134148,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144970,
+      "num": 144970,
+      "word": "顾客偶遇卖鱼老板研读孙子兵法",
+      "onboard_time": 1675144531,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144474,
