@@ -1,13 +1,21 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1675149387496,
+  "endTime": 1675150418423,
   "band_list": [
     {
       "raw_hot": 68242336,
-      "num": 2201740,
+      "num": 39916953,
       "word": "胡歌 我当爸爸啦",
       "onboard_time": 1675148478,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21490407,
+      "num": 1161593,
+      "word": "压力给到彭于晏",
+      "onboard_time": 1675149175,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -17,14 +25,6 @@
       "onboard_time": 1674961170,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16230006,
-      "num": 1161593,
-      "word": "压力给到彭于晏",
-      "onboard_time": 1675149175,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 15690756,
@@ -57,6 +57,14 @@
       "onboard_time": 1674304469,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12479739,
+      "num": 1145478,
+      "word": "彭于晏你着急吗",
+      "onboard_time": 1675149175,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 12415200,
@@ -225,14 +233,6 @@
       "onboard_time": 1674964246,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6843160,
-      "num": 1145478,
-      "word": "彭于晏你着急吗",
-      "onboard_time": 1675149175,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 6535493,
@@ -1435,6 +1435,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2352046,
+      "num": 748897,
+      "word": "仙剑3主演都有孩子了",
+      "onboard_time": 1675149398,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2343195,
       "num": 2343195,
       "word": "王一博无名舞台",
@@ -2017,6 +2025,14 @@
       "onboard_time": 1673180910,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1996098,
+      "num": 1996098,
+      "word": "保时捷官网12.4万元帕纳梅拉遭抢购",
+      "onboard_time": 1675146149,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1990506,
@@ -3083,14 +3099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1648310,
-      "num": 1648310,
-      "word": "保时捷官网12.4万元帕纳梅拉遭抢购",
-      "onboard_time": 1675146149,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1646635,
       "num": 1646635,
       "word": "盗摄",
@@ -3257,6 +3265,14 @@
       "onboard_time": 1674954987,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1607673,
+      "num": 562098,
+      "word": "仙剑留守儿童",
+      "onboard_time": 1675149230,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 1600030,
@@ -4593,6 +4609,14 @@
       "onboard_time": 1673253690,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1356300,
+      "num": 1356300,
+      "word": "张婉婷说没怀孕不会跟宋宁峰在一起",
+      "onboard_time": 1675147623,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 1354029,
@@ -6043,14 +6067,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1171420,
-      "num": 1171420,
-      "word": "张婉婷说没怀孕不会跟宋宁峰在一起",
-      "onboard_time": 1675147623,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1170280,
       "num": 1170280,
       "word": "孩子误将摔炮当成糖果放嘴里咬",
@@ -7201,6 +7217,14 @@
       "onboard_time": 1675090115,
       "rank": 6,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1054621,
+      "num": 1054621,
+      "word": "李一桐曾被韩国星探选中两次",
+      "onboard_time": 1675148415,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1052339,
@@ -12435,14 +12459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 749958,
-      "num": 749958,
-      "word": "李一桐曾被韩国星探选中两次",
-      "onboard_time": 1675148415,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 749891,
       "num": 482397,
       "word": "崔然竣",
@@ -14011,6 +14027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 689776,
+      "num": 431379,
+      "word": "随时随地发现新孩子",
+      "onboard_time": 1675149578,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 689632,
       "num": 689632,
       "word": "官方调查雷丁汽车举报县委书记",
@@ -14449,6 +14473,14 @@
       "onboard_time": 1673151211,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 674579,
+      "num": 674579,
+      "word": "记汪峰旷工一天",
+      "onboard_time": 1675149759,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 673892,
@@ -16715,6 +16747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 609776,
+      "num": 609776,
+      "word": "南京大屠杀幸存者周湘萍去世",
+      "onboard_time": 1675147963,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609754,
       "num": 609754,
       "word": "西安大唐不夜城跨年夜人山人海",
@@ -18419,6 +18459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 566793,
+      "num": 566793,
+      "word": "这鱼是我的打工嘴替吧",
+      "onboard_time": 1675148101,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 566712,
       "num": 566712,
       "word": "多家快递公司春节高薪留人",
@@ -19105,6 +19153,14 @@
       "onboard_time": 1673925388,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 551535,
+      "num": 399152,
+      "word": "太突然了",
+      "onboard_time": 1675149879,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 551170,
@@ -25267,6 +25323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 432335,
+      "num": 432335,
+      "word": "导演说狂飙的结局是惨胜",
+      "onboard_time": 1675146569,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432237,
       "num": 432237,
       "word": "鞠婧祎花棉袄造型",
@@ -26691,14 +26755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 411708,
-      "num": 411708,
-      "word": "这鱼是我的打工嘴替吧",
-      "onboard_time": 1675148101,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 411656,
       "num": 411656,
       "word": "张兰称一定会和茅台合作的",
@@ -26841,14 +26897,6 @@
       "onboard_time": 1674357509,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 409135,
-      "num": 409135,
-      "word": "导演说狂飙的结局是惨胜",
-      "onboard_time": 1675146569,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 409096,
@@ -27281,6 +27329,14 @@
       "onboard_time": 1674788187,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403053,
+      "num": 403053,
+      "word": "强盛集团旗下公司因未缴社保被罚",
+      "onboard_time": 1675149702,
+      "rank": 24,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 402888,
@@ -28841,14 +28897,6 @@
       "onboard_time": 1673068109,
       "rank": 37,
       "category": "动漫,幽默"
-    },
-    {
-      "raw_hot": 385046,
-      "num": 385046,
-      "word": "南京大屠杀幸存者周湘萍去世",
-      "onboard_time": 1675147963,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384973,
@@ -41851,6 +41899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 267921,
+      "num": 267921,
+      "word": "彭于晏不急我也不急",
+      "onboard_time": 1675150051,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267792,
       "num": 267792,
       "word": "QQ糖角标 根据软硬程度区分",
@@ -49179,6 +49235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215682,
+      "num": 215682,
+      "word": "世界上最大的百年古堂灯亮了",
+      "onboard_time": 1675150169,
+      "rank": 44,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 215652,
       "num": 215652,
       "word": "医院用麻袋装活鸡送职工当年货",
@@ -49272,14 +49336,6 @@
       "word": "许红豆希望和谢之遥一起扛所有事",
       "onboard_time": 1674738330,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 215208,
-      "num": 215208,
-      "word": "仙剑留守儿童",
-      "onboard_time": 1675149230,
-      "rank": 43,
       "category": "影视"
     },
     {
@@ -52433,6 +52489,14 @@
       "onboard_time": 1675136431,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195792,
+      "num": 195792,
+      "word": "张颂文旧照",
+      "onboard_time": 1675149995,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 195784,

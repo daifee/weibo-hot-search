@@ -1,17 +1,17 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675149387496,
+  "endTime": 1675150418423,
   "band_list": [
     {
       "raw_hot": 68242336,
-      "num": 2201740,
+      "num": 39916953,
       "word": "胡歌 我当爸爸啦",
       "onboard_time": 1675148478,
       "rank": 3,
       "category": "艺人"
     },
     {
-      "raw_hot": 16230006,
+      "raw_hot": 21490407,
       "num": 1161593,
       "word": "压力给到彭于晏",
       "onboard_time": 1675149175,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6843160,
+      "raw_hot": 12479739,
       "num": 1145478,
       "word": "彭于晏你着急吗",
       "onboard_time": 1675149175,
@@ -91,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2352046,
+      "num": 748897,
+      "word": "仙剑3主演都有孩子了",
+      "onboard_time": 1675149398,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2228547,
       "num": 2228547,
       "word": "人民日报评刘亦菲李现去有风的地方",
@@ -145,6 +153,14 @@
       "onboard_time": 1675083631,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1996098,
+      "num": 1996098,
+      "word": "保时捷官网12.4万元帕纳梅拉遭抢购",
+      "onboard_time": 1675146149,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1928397,
@@ -219,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1648310,
-      "num": 1648310,
-      "word": "保时捷官网12.4万元帕纳梅拉遭抢购",
-      "onboard_time": 1675146149,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1638821,
       "num": 1638821,
       "word": "航拍胡鑫宇遗体发现地全貌",
@@ -249,6 +257,14 @@
       "onboard_time": 1675090055,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1607673,
+      "num": 562098,
+      "word": "仙剑留守儿童",
+      "onboard_time": 1675149230,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 1594568,
@@ -345,6 +361,14 @@
       "onboard_time": 1674988052,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1356300,
+      "num": 1356300,
+      "word": "张婉婷说没怀孕不会跟宋宁峰在一起",
+      "onboard_time": 1675147623,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 1353196,
@@ -451,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1171420,
-      "num": 1171420,
-      "word": "张婉婷说没怀孕不会跟宋宁峰在一起",
-      "onboard_time": 1675147623,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1167851,
       "num": 1167851,
       "word": "杨幂戴假发没被人认出来",
@@ -537,6 +553,14 @@
       "onboard_time": 1675090115,
       "rank": 6,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1054621,
+      "num": 1054621,
+      "word": "李一桐曾被韩国星探选中两次",
+      "onboard_time": 1675148415,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1049066,
@@ -843,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 749958,
-      "num": 749958,
-      "word": "李一桐曾被韩国星探选中两次",
-      "onboard_time": 1675148415,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 745489,
       "num": 745489,
       "word": "今天有两部古偶开机",
@@ -923,12 +939,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 689776,
+      "num": 431379,
+      "word": "随时随地发现新孩子",
+      "onboard_time": 1675149578,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 687228,
       "num": 687228,
       "word": "胡鑫宇案导致其学校部分学生退学系谣言",
       "onboard_time": 1675077452,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 674579,
+      "num": 674579,
+      "word": "记汪峰旷工一天",
+      "onboard_time": 1675149759,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 670504,
@@ -1075,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 609776,
+      "num": 609776,
+      "word": "南京大屠杀幸存者周湘萍去世",
+      "onboard_time": 1675147963,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606324,
       "num": 606324,
       "word": "徐冬冬说高叶演的大嫂太好了",
@@ -1171,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 566793,
+      "num": 566793,
+      "word": "这鱼是我的打工嘴替吧",
+      "onboard_time": 1675148101,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 565063,
       "num": 565063,
       "word": "狂飙 正面人物",
@@ -1209,6 +1257,14 @@
       "onboard_time": 1675079670,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 551535,
+      "num": 399152,
+      "word": "太突然了",
+      "onboard_time": 1675149879,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 548589,
@@ -1523,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432335,
+      "num": 432335,
+      "word": "导演说狂飙的结局是惨胜",
+      "onboard_time": 1675146569,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 428494,
       "num": 428494,
       "word": "宋祖儿乔家女小乔这厢有礼",
@@ -1595,22 +1659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 411708,
-      "num": 411708,
-      "word": "这鱼是我的打工嘴替吧",
-      "onboard_time": 1675148101,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 409135,
-      "num": 409135,
-      "word": "导演说狂飙的结局是惨胜",
-      "onboard_time": 1675146569,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 407666,
       "num": 407666,
       "word": "满江红背后谁是最大赢家",
@@ -1625,6 +1673,14 @@
       "onboard_time": 1675004076,
       "rank": 8,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 403053,
+      "num": 403053,
+      "word": "强盛集团旗下公司因未缴社保被罚",
+      "onboard_time": 1675149702,
+      "rank": 24,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 400575,
@@ -1697,14 +1753,6 @@
       "onboard_time": 1674992672,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 385046,
-      "num": 385046,
-      "word": "南京大屠杀幸存者周湘萍去世",
-      "onboard_time": 1675147963,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382850,
@@ -2339,6 +2387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 267921,
+      "num": 267921,
+      "word": "彭于晏不急我也不急",
+      "onboard_time": 1675150051,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266090,
       "num": 266090,
       "word": "你会选择不喜欢的人结婚吗",
@@ -2691,12 +2747,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 215208,
-      "num": 215208,
-      "word": "仙剑留守儿童",
-      "onboard_time": 1675149230,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 215682,
+      "num": 215682,
+      "word": "世界上最大的百年古堂灯亮了",
+      "onboard_time": 1675150169,
+      "rank": 44,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 214610,
@@ -2905,6 +2961,14 @@
       "onboard_time": 1675136431,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195792,
+      "num": 195792,
+      "word": "张颂文旧照",
+      "onboard_time": 1675149995,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 195784,
