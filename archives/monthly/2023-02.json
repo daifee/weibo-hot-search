@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675204419562,
+  "endTime": 1675207140319,
   "band_list": [
     {
       "raw_hot": 1249649,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341515,
+      "num": 112495,
+      "word": "胡鑫宇遗体所在粮库一般人进不去",
+      "onboard_time": 1675187777,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326098,
       "num": 326098,
       "word": "胡鑫宇哥哥正在北京全程见证录音笔的鉴定",
@@ -152,6 +160,14 @@
       "word": "胡鑫宇外婆是从老伴手机上得知噩耗",
       "onboard_time": 1675166317,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291686,
+      "num": 291686,
+      "word": "男子醉酒后哭诉心疼妻子想让娃断奶",
+      "onboard_time": 1675202773,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -211,12 +227,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242550,
+      "num": 242550,
+      "word": "知情人称胡鑫宇饭卡仍在搜寻",
+      "onboard_time": 1675195571,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240275,
       "num": 240275,
       "word": "结婚该不该考虑另一半的家境",
       "onboard_time": 1675164762,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229641,
+      "num": 102657,
+      "word": "胡鑫宇录音笔已送深圳恢复数据",
+      "onboard_time": 1675197312,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223541,
@@ -249,14 +281,6 @@
       "onboard_time": 1675174716,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194068,
-      "num": 81599,
-      "word": "胡鑫宇遗体所在粮库一般人进不去",
-      "onboard_time": 1675187777,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189688,
@@ -331,11 +355,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 109665,
-      "num": 68943,
-      "word": "知情人称胡鑫宇饭卡仍在搜寻",
-      "onboard_time": 1675195571,
-      "rank": 15,
+      "raw_hot": 108997,
+      "num": 108997,
+      "word": "福建广东多个沿海大省开启抢人模式",
+      "onboard_time": 1675187476,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -345,6 +369,14 @@
       "onboard_time": 1675165713,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 105730,
+      "num": 77187,
+      "word": "赵美延黑发造型",
+      "onboard_time": 1675206617,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 101766,
@@ -379,14 +411,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 97398,
-      "num": 43015,
-      "word": "胡鑫宇录音笔已送深圳恢复数据",
-      "onboard_time": 1675197312,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96522,
       "num": 96522,
       "word": "诗词大会选手有点东西",
@@ -401,14 +425,6 @@
       "onboard_time": 1675161102,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91821,
-      "num": 91821,
-      "word": "福建广东多个沿海大省开启抢人模式",
-      "onboard_time": 1675187476,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90116,
@@ -467,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 69654,
+      "num": 69654,
+      "word": "赵露思看到粉丝镜头的反应",
+      "onboard_time": 1675206617,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 68944,
       "num": 68944,
       "word": "丁程鑫点脸",
@@ -481,14 +505,6 @@
       "onboard_time": 1675184242,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59160,
-      "num": 36365,
-      "word": "男子醉酒后哭诉心疼妻子想让娃断奶",
-      "onboard_time": 1675202773,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58383,
@@ -555,12 +571,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 39566,
+      "num": 39566,
+      "word": "从没见过这么富有的狗狗",
+      "onboard_time": 1675194614,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 38581,
+      "num": 38581,
+      "word": "苹果1月新品怎么选",
+      "onboard_time": 1675206919,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 37010,
       "num": 37010,
       "word": "女子给自行车架套袋丝滑度拉满",
       "onboard_time": 1675186099,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34722,
+      "num": 34722,
+      "word": "2月的第1天",
+      "onboard_time": 1675206016,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 34399,
@@ -577,14 +617,6 @@
       "onboard_time": 1675186698,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27614,
-      "num": 27614,
-      "word": "从没见过这么富有的狗狗",
-      "onboard_time": 1675194614,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 16380,
