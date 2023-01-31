@@ -1,6 +1,6 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675163728928,
+  "endTime": 1675164820811,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1275526,
+      "num": 1275526,
+      "word": "胡鑫宇哥哥正在北京全程见证录音笔的鉴定",
+      "onboard_time": 1675158638,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1274358,
       "num": 1274358,
       "word": "张颂文曾给赵露思颁奖",
@@ -240,14 +248,6 @@
       "word": "官方回应发现胡鑫宇尸体通报只写金鸡山",
       "onboard_time": 1675090475,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1156552,
-      "num": 1156552,
-      "word": "胡鑫宇哥哥正在北京全程见证录音笔的鉴定",
-      "onboard_time": 1675158638,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -819,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392958,
+      "num": 392958,
+      "word": "初三男生打水漂画面犹如特效",
+      "onboard_time": 1675160619,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386507,
       "num": 386507,
       "word": "顾客偶遇卖鱼老板研读孙子兵法",
@@ -873,14 +881,6 @@
       "onboard_time": 1675124008,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 362248,
-      "num": 362248,
-      "word": "初三男生打水漂画面犹如特效",
-      "onboard_time": 1675160619,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361165,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1675126528,
       "rank": 22,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 306492,
+      "num": 306492,
+      "word": "湖南一网吧凌晨变狂飙专场",
+      "onboard_time": 1675163257,
+      "rank": 35,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 303684,
@@ -1155,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264551,
+      "num": 264551,
+      "word": "中国人对喝热水有多执着",
+      "onboard_time": 1675160138,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 259165,
       "num": 259165,
       "word": "Angelababy开工随拍",
@@ -1193,14 +1209,6 @@
       "onboard_time": 1675131088,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249288,
-      "num": 249288,
-      "word": "中国人对喝热水有多执着",
-      "onboard_time": 1675160138,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 248938,
@@ -1331,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224965,
+      "num": 224965,
+      "word": "要和腰间赘肉说拜拜了",
+      "onboard_time": 1675161102,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221815,
       "num": 221815,
       "word": "戴琳",
@@ -1369,14 +1385,6 @@
       "onboard_time": 1675094668,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212780,
-      "num": 212780,
-      "word": "要和腰间赘肉说拜拜了",
-      "onboard_time": 1675161102,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 210113,
@@ -1499,14 +1507,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 196922,
-      "num": 196922,
-      "word": "湖南一网吧凌晨变狂飙专场",
-      "onboard_time": 1675163257,
-      "rank": 35,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 196544,
       "num": 196544,
       "word": "高启强狂飙倒放镜头",
@@ -1529,6 +1529,14 @@
       "onboard_time": 1675122444,
       "rank": 36,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 195243,
+      "num": 195243,
+      "word": "半熟入住前",
+      "onboard_time": 1675164218,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 194761,
@@ -1585,6 +1593,14 @@
       "onboard_time": 1675161763,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189344,
+      "num": 189344,
+      "word": "安欣的原型找到了",
+      "onboard_time": 1675164039,
+      "rank": 36,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 189010,
@@ -1953,6 +1969,14 @@
       "onboard_time": 1675085854,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125084,
+      "num": 125084,
+      "word": "结婚该不该考虑另一半的家境",
+      "onboard_time": 1675164762,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 118472,
