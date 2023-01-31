@@ -1,0 +1,410 @@
+{
+  "runTime": 1675179278779,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1816781,
+        "num": 1816781,
+        "word": "黄瑶 卧底",
+        "onboard_time": 1675169197,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1221785,
+        "num": 1221785,
+        "word": "金希澈续约",
+        "onboard_time": 1675178376,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86255,
+        "num": 1153970,
+        "word": "1月份制造业PMI升至50.1%",
+        "onboard_time": 1675170759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1123669,
+        "num": 1123669,
+        "word": "杭州电梯坠亡案女童姥姥去世",
+        "onboard_time": 1675169317,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035134,
+        "num": 1035134,
+        "word": "男孩撸猫后发烧12天腋下长鸡蛋大肿块",
+        "onboard_time": 1675176996,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986446,
+        "num": 986446,
+        "word": "京海唯一纯白的茉莉花",
+        "onboard_time": 1675175377,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 793349,
+        "num": 793349,
+        "word": "刘德华说嗑到了",
+        "onboard_time": 1675172560,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 901342,
+        "num": 791389,
+        "word": "狂飙",
+        "onboard_time": 1675167215,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 751325,
+        "num": 751325,
+        "word": "杜海涛撑起了吴昕的朋友圈",
+        "onboard_time": 1675168834,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 725285,
+        "num": 725285,
+        "word": "遭辱骂女子被对方举报要求视频下架",
+        "onboard_time": 1675176760,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1623765,
+        "num": 723182,
+        "word": "胡歌 我当爸爸啦",
+        "onboard_time": 1675148478,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 739807,
+        "num": 722499,
+        "word": "狂飙口型对不上",
+        "onboard_time": 1675175735,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 717825,
+        "num": 717825,
+        "word": "胡鑫宇购买录音笔数据删除后无法恢复",
+        "onboard_time": 1675150696,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620836,
+        "num": 620836,
+        "word": "狂飙大结局预告",
+        "onboard_time": 1675169797,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 537354,
+        "num": 537354,
+        "word": "唐嫣说小姐姐可以陪妹妹玩啦",
+        "onboard_time": 1675150813,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534208,
+        "num": 534208,
+        "word": "情侣婚前是否有必要同居",
+        "onboard_time": 1675177776,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 502890,
+        "num": 502890,
+        "word": "结婚该不该考虑另一半的家境",
+        "onboard_time": 1675164762,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 496697,
+        "num": 496697,
+        "word": "想减肥的有福了",
+        "onboard_time": 1675173996,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485685,
+        "num": 485685,
+        "word": "律师谈12.4万保时捷遭抢购后下架",
+        "onboard_time": 1675175316,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406904,
+        "num": 406904,
+        "word": "压力给到彭于晏",
+        "onboard_time": 1675149175,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401328,
+        "num": 401328,
+        "word": "胡鑫宇外婆是从老伴手机上得知噩耗",
+        "onboard_time": 1675166317,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386472,
+        "num": 386472,
+        "word": "如何看待脱口秀春晚收视率第一",
+        "onboard_time": 1675174716,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360516,
+        "num": 360516,
+        "word": "胡鑫宇哥哥正在北京全程见证录音笔的鉴定",
+        "onboard_time": 1675158638,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316780,
+        "num": 316780,
+        "word": "原来小狗喝多了是这样的",
+        "onboard_time": 1675173939,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313000,
+        "num": 313000,
+        "word": "张译竟然这么会亲",
+        "onboard_time": 1675156961,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275823,
+        "num": 275823,
+        "word": "任嘉伦找兜",
+        "onboard_time": 1675175978,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267761,
+        "num": 267761,
+        "word": "张云雷开箱",
+        "onboard_time": 1675172079,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263648,
+        "num": 263648,
+        "word": "肖战任敏玉骨遥暂定43集",
+        "onboard_time": 1675166076,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261073,
+        "num": 261073,
+        "word": "郭帆证实流浪地球3会有图恒宇",
+        "onboard_time": 1675169915,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119843,
+        "num": 255138,
+        "word": "母子围炉煮茶一氧化碳中毒身亡",
+        "onboard_time": 1675152118,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 252737,
+        "num": 252737,
+        "word": "闪耀暖暖",
+        "onboard_time": 1675176934,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249803,
+        "num": 249803,
+        "word": "三体叶文洁被PUA",
+        "onboard_time": 1675173454,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210116,
+        "num": 210116,
+        "word": "变成电子宠物有多可怕",
+        "onboard_time": 1675176105,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208355,
+        "num": 208355,
+        "word": "秦霄贤新发色",
+        "onboard_time": 1675169559,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203444,
+        "num": 203444,
+        "word": "fgo",
+        "onboard_time": 1675177297,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190552,
+        "num": 190552,
+        "word": "狂飙全体喊到名场面有现实原型",
+        "onboard_time": 1675178736,
+        "rank": 35,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 162853,
+        "num": 162853,
+        "word": "赵露思神隐捂嘴笑路透",
+        "onboard_time": 1675171834,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153582,
+        "num": 153582,
+        "word": "武林外传预言流浪地球2",
+        "onboard_time": 1675158039,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144418,
+        "num": 144418,
+        "word": "Doggo 泽丽",
+        "onboard_time": 1675175197,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143500,
+        "num": 143500,
+        "word": "要和腰间赘肉说拜拜了",
+        "onboard_time": 1675161102,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139690,
+        "num": 139690,
+        "word": "父母帮小男孩抓海鸥强行塞进塑料瓶",
+        "onboard_time": 1675178018,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138922,
+        "num": 138922,
+        "word": "运气比努力重要吗",
+        "onboard_time": 1675172797,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138253,
+        "num": 138253,
+        "word": "苏州坐地铁可直达上海",
+        "onboard_time": 1675159298,
+        "rank": 42,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 132561,
+        "num": 132561,
+        "word": "彭于晏你着急吗",
+        "onboard_time": 1675149175,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123390,
+        "num": 123390,
+        "word": "自动续费忘记关闭怎么办",
+        "onboard_time": 1675165713,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 161427,
+        "num": 122325,
+        "word": "一九七五九六 你生日",
+        "onboard_time": 1675171476,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120949,
+        "num": 120949,
+        "word": "狗狗的小碎步有多可爱",
+        "onboard_time": 1675172915,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119150,
+        "num": 119150,
+        "word": "女生过年回家一开门来了十几个相亲",
+        "onboard_time": 1675166376,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119066,
+        "num": 119066,
+        "word": "宋祖儿小乔开机照两宫格",
+        "onboard_time": 1675175618,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109140,
+        "num": 109140,
+        "word": "丁程鑫点脸",
+        "onboard_time": 1675166797,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#原来有这么多诗词描写祖国大好河山#"
+    }
+  }
+}
