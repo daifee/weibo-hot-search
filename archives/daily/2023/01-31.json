@@ -1,21 +1,61 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675147084567,
+  "endTime": 1675149387496,
   "band_list": [
+    {
+      "raw_hot": 68242336,
+      "num": 2201740,
+      "word": "胡歌 我当爸爸啦",
+      "onboard_time": 1675148478,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16230006,
+      "num": 1161593,
+      "word": "压力给到彭于晏",
+      "onboard_time": 1675149175,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6843160,
+      "num": 1145478,
+      "word": "彭于晏你着急吗",
+      "onboard_time": 1675149175,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4690695,
+      "num": 4690695,
+      "word": "胡彦斌 满江红制作成本1000万重要吗",
+      "onboard_time": 1675140512,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2228547,
+      "num": 2228547,
+      "word": "人民日报评刘亦菲李现去有风的地方",
+      "onboard_time": 1675146087,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2200587,
+      "num": 2200587,
+      "word": "男生和女生初四相亲初八直接订婚",
+      "onboard_time": 1675140811,
+      "rank": 7,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2157023,
       "num": 2157023,
       "word": "狂飙指导组被实名举报受贿",
       "onboard_time": 1675137809,
       "rank": 10,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 2048429,
-      "num": 2048429,
-      "word": "胡彦斌 满江红制作成本1000万重要吗",
-      "onboard_time": 1675140512,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -43,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1878398,
-      "num": 1878398,
-      "word": "男生和女生初四相亲初八直接订婚",
-      "onboard_time": 1675140811,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1864741,
       "num": 1277694,
       "word": "女子不让6岁男童上女厕所遭痛骂",
@@ -67,8 +99,32 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1693560,
+      "num": 1693560,
+      "word": "一家人在耳聋爷爷面前商量买墓地",
+      "onboard_time": 1675143990,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1648310,
+      "num": 1648310,
+      "word": "保时捷官网12.4万元帕纳梅拉遭抢购",
+      "onboard_time": 1675146149,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1635369,
+      "num": 1635369,
+      "word": "郭敬明回复吐槽虞书欣云为衫发饰评论",
+      "onboard_time": 1675141711,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1514556,
-      "num": 867959,
+      "num": 1148307,
       "word": "于正 男人涂脂抹粉最恶心",
       "onboard_time": 1675138711,
       "rank": 37,
@@ -97,6 +153,14 @@
       "onboard_time": 1675133249,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1255698,
+      "num": 1255698,
+      "word": "胡鑫宇家人决定暂不火化遗体",
+      "onboard_time": 1675141829,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1245164,
@@ -131,20 +195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1053254,
-      "num": 1053254,
-      "word": "胡鑫宇家人决定暂不火化遗体",
-      "onboard_time": 1675141829,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 1171420,
+      "num": 1171420,
+      "word": "张婉婷说没怀孕不会跟宋宁峰在一起",
+      "onboard_time": 1675147623,
+      "rank": 9,
+      "category": "综艺"
     },
     {
-      "raw_hot": 1050947,
-      "num": 1050947,
-      "word": "郭敬明回复吐槽虞书欣云为衫发饰评论",
-      "onboard_time": 1675141711,
-      "rank": 24,
-      "category": "影视"
+      "raw_hot": 1063759,
+      "num": 1063759,
+      "word": "女子回应制止男童上女厕所被骂",
+      "onboard_time": 1675142071,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1035461,
@@ -152,14 +216,6 @@
       "word": "专家称年轻时不应为钱去选择工作",
       "onboard_time": 1675110072,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 992797,
-      "num": 992797,
-      "word": "女子回应制止男童上女厕所被骂",
-      "onboard_time": 1675142071,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -177,14 +233,6 @@
       "onboard_time": 1675141650,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 887591,
-      "num": 887591,
-      "word": "一家人在耳聋爷爷面前商量买墓地",
-      "onboard_time": 1675143990,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 871763,
@@ -251,12 +299,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 771511,
+      "num": 771511,
+      "word": "美国将禁止供应商向华为提供产品",
+      "onboard_time": 1675144590,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 765452,
       "num": 765452,
       "word": "2023春晚收视率",
       "onboard_time": 1675137869,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 749958,
+      "num": 749958,
+      "word": "李一桐曾被韩国星探选中两次",
+      "onboard_time": 1675148415,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 745489,
@@ -267,20 +331,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 697873,
+      "num": 697873,
+      "word": "公子贵姓开播",
+      "onboard_time": 1675144948,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 694461,
       "num": 694461,
       "word": "建议不因钱选工作专家实控多家公司",
       "onboard_time": 1675136187,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 691115,
-      "num": 691115,
-      "word": "美国将禁止供应商向华为提供产品",
-      "onboard_time": 1675144590,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 670504,
@@ -331,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 628835,
-      "num": 628835,
-      "word": "人民日报评刘亦菲李现去有风的地方",
-      "onboard_time": 1675146087,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 628457,
       "num": 628457,
       "word": "小米集团全球副总裁辞职",
@@ -387,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565063,
+      "num": 565063,
+      "word": "狂飙 正面人物",
+      "onboard_time": 1675142490,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 559673,
       "num": 559673,
       "word": "虞书欣王鹤棣苍兰诀豆瓣涨至8.1分",
@@ -419,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514942,
-      "num": 514942,
-      "word": "保时捷官网12.4万元帕纳梅拉遭抢购",
-      "onboard_time": 1675146149,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 502825,
       "num": 502825,
       "word": "三亚通报村民拦截游客车辆收10元",
@@ -441,6 +497,14 @@
       "onboard_time": 1675090353,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495189,
+      "num": 495189,
+      "word": "当我养了四只社恐猫咪",
+      "onboard_time": 1675143390,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 488800,
@@ -467,20 +531,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 465268,
-      "num": 465268,
-      "word": "当我养了四只社恐猫咪",
-      "onboard_time": 1675143390,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 460004,
-      "num": 460004,
-      "word": "公子贵姓开播",
-      "onboard_time": 1675144948,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 443431,
+      "num": 443431,
+      "word": "5岁男童抗癌3年体重仅剩10公斤",
+      "onboard_time": 1675143868,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441867,
@@ -491,11 +547,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 440185,
-      "num": 440185,
-      "word": "狂飙 正面人物",
-      "onboard_time": 1675142490,
-      "rank": 42,
+      "raw_hot": 428494,
+      "num": 428494,
+      "word": "宋祖儿乔家女小乔这厢有礼",
+      "onboard_time": 1675146210,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -539,11 +595,35 @@
       "category": "影视"
     },
     {
-      "raw_hot": 383339,
-      "num": 383339,
-      "word": "5岁男童抗癌3年体重仅剩10公斤",
-      "onboard_time": 1675143868,
-      "rank": 20,
+      "raw_hot": 411708,
+      "num": 411708,
+      "word": "这鱼是我的打工嘴替吧",
+      "onboard_time": 1675148101,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 409135,
+      "num": 409135,
+      "word": "导演说狂飙的结局是惨胜",
+      "onboard_time": 1675146569,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 386507,
+      "num": 386507,
+      "word": "顾客偶遇卖鱼老板研读孙子兵法",
+      "onboard_time": 1675144531,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385046,
+      "num": 385046,
+      "word": "南京大屠杀幸存者周湘萍去世",
+      "onboard_time": 1675147963,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -609,6 +689,14 @@
       "onboard_time": 1675128447,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330698,
+      "num": 2202573,
+      "word": "一句话总结2023第1个月",
+      "onboard_time": 1675120698,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 325880,
@@ -761,14 +849,6 @@
       "onboard_time": 1675122142,
       "rank": 24,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 273337,
-      "num": 273337,
-      "word": "宋祖儿乔家女小乔这厢有礼",
-      "onboard_time": 1675146210,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 273102,
@@ -947,20 +1027,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219686,
-      "num": 1570333,
-      "word": "一句话总结2023第1个月",
-      "onboard_time": 1675120698,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 218940,
       "num": 218940,
       "word": "刘慈欣常散步几小时什么都想不出来",
       "onboard_time": 1675135049,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215208,
+      "num": 215208,
+      "word": "仙剑留守儿童",
+      "onboard_time": 1675149230,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 214610,
@@ -1003,6 +1083,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 206671,
+      "num": 206671,
+      "word": "小狗吵架要有距离感",
+      "onboard_time": 1675145728,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 203355,
       "num": 203355,
       "word": "齐司礼新卡",
@@ -1025,14 +1113,6 @@
       "onboard_time": 1675098561,
       "rank": 35,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 197554,
-      "num": 197554,
-      "word": "顾客偶遇卖鱼老板研读孙子兵法",
-      "onboard_time": 1675144531,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196544,
@@ -1139,14 +1219,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 173568,
-      "num": 173568,
-      "word": "导演说狂飙的结局是惨胜",
-      "onboard_time": 1675146569,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 173112,
       "num": 173112,
       "word": "流浪地球票房",
@@ -1161,14 +1233,6 @@
       "onboard_time": 1675130190,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167071,
-      "num": 167071,
-      "word": "小狗吵架要有距离感",
-      "onboard_time": 1675145728,
-      "rank": 39,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 164122,
