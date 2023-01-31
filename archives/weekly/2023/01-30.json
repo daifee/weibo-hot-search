@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675190228725,
+  "endTime": 1675192492695,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -5041,6 +5041,14 @@
       "onboard_time": 1674862819,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16380,
+      "num": 16380,
+      "word": "五世同堂排排坐接龙喊妈妈",
+      "onboard_time": 1675190774,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13142,
