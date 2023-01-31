@@ -1,6 +1,6 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675138939091,
+  "endTime": 1675139843549,
   "band_list": [
     {
       "raw_hot": 1891519,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1381662,
-      "num": 1381662,
+      "raw_hot": 1476949,
+      "num": 1476949,
       "word": "狂飙一下子变乱飙",
       "onboard_time": 1675134867,
       "rank": 36,
@@ -91,12 +91,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1109291,
+      "num": 1109291,
+      "word": "狂飙指导组被实名举报受贿",
+      "onboard_time": 1675137809,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1035461,
       "num": 1035461,
       "word": "专家称年轻时不应为钱去选择工作",
       "onboard_time": 1675110072,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 954061,
+      "num": 954061,
+      "word": "认识2周的前同事向女生借钱买房",
+      "onboard_time": 1675134808,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 872537,
+      "num": 867959,
+      "word": "于正 男人涂脂抹粉最恶心",
+      "onboard_time": 1675138711,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 871763,
@@ -155,14 +179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 829920,
-      "num": 829920,
-      "word": "认识2周的前同事向女生借钱买房",
-      "onboard_time": 1675134808,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 825973,
       "num": 825973,
       "word": "一千万能拍出满江红吗",
@@ -171,11 +187,35 @@
       "category": "影视"
     },
     {
-      "raw_hot": 677622,
-      "num": 677622,
-      "word": "狂飙指导组被实名举报受贿",
-      "onboard_time": 1675137809,
-      "rank": 10,
+      "raw_hot": 765452,
+      "num": 765452,
+      "word": "2023春晚收视率",
+      "onboard_time": 1675137869,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 745489,
+      "num": 745489,
+      "word": "今天有两部古偶开机",
+      "onboard_time": 1675137989,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 694461,
+      "num": 694461,
+      "word": "建议不因钱选工作专家实控多家公司",
+      "onboard_time": 1675136187,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 670504,
+      "num": 670504,
+      "word": "Angelababy相思令开机造型",
+      "onboard_time": 1675137869,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -203,28 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 646996,
-      "num": 646996,
-      "word": "今天有两部古偶开机",
-      "onboard_time": 1675137989,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 642390,
       "num": 544261,
       "word": "高启强被刺杀",
       "onboard_time": 1675083631,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 635984,
-      "num": 635984,
-      "word": "建议不因钱选工作专家实控多家公司",
-      "onboard_time": 1675136187,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 629884,
@@ -249,14 +273,6 @@
       "onboard_time": 1675078653,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 594475,
-      "num": 594475,
-      "word": "2023春晚收视率",
-      "onboard_time": 1675137869,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 581231,
@@ -307,12 +323,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 507135,
-      "num": 507135,
-      "word": "Angelababy相思令开机造型",
-      "onboard_time": 1675137869,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 524447,
+      "num": 524447,
+      "word": "医院回应女子取牙模时被呛身亡传言",
+      "onboard_time": 1675136066,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502825,
@@ -345,14 +361,6 @@
       "onboard_time": 1675126406,
       "rank": 11,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 481789,
-      "num": 481789,
-      "word": "医院回应女子取牙模时被呛身亡传言",
-      "onboard_time": 1675136066,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 468989,
@@ -403,11 +411,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 405737,
-      "num": 405737,
+      "raw_hot": 412861,
+      "num": 412861,
       "word": "道明寺今天46岁了",
       "onboard_time": 1675135291,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 370820,
+      "num": 370820,
+      "word": "曾舜晞田曦薇田耕纪cp感",
+      "onboard_time": 1675139012,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -435,8 +451,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335743,
-      "num": 288845,
+      "raw_hot": 346956,
+      "num": 301911,
       "word": "揭秘满江红出品方羊踯躅传媒公司",
       "onboard_time": 1675136488,
       "rank": 29,
@@ -475,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309797,
+      "num": 309797,
+      "word": "tangoz梦见高启强被抓",
+      "onboard_time": 1675139073,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307195,
       "num": 307195,
       "word": "众人在轿车爆燃前救出车主",
@@ -491,6 +515,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 303054,
+      "num": 303054,
+      "word": "周冬雨31岁实绩图",
+      "onboard_time": 1675135708,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301423,
       "num": 301423,
       "word": "郭帆说流浪地球2剧本写了7万字",
@@ -499,12 +531,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 292340,
-      "num": 292340,
-      "word": "周冬雨31岁实绩图",
-      "onboard_time": 1675135708,
+      "raw_hot": 295453,
+      "num": 295453,
+      "word": "王一博叶先生打戏剧照",
+      "onboard_time": 1675138955,
       "rank": 32,
-      "category": "艺人"
+      "category": "影视"
+    },
+    {
+      "raw_hot": 292872,
+      "num": 292872,
+      "word": "谭松韵许凯你比星光美丽开通官博",
+      "onboard_time": 1675138231,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 292172,
@@ -576,14 +616,6 @@
       "word": "人民文娱评春节档要拒绝饭圈化",
       "onboard_time": 1675099578,
       "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 260649,
-      "num": 260649,
-      "word": "谭松韵许凯你比星光美丽开通官博",
-      "onboard_time": 1675138231,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -675,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236353,
+      "num": 236353,
+      "word": "高启兰 金丝眼镜",
+      "onboard_time": 1675139372,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230310,
       "num": 230310,
       "word": "胡鑫宇",
@@ -707,12 +747,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220588,
-      "num": 220588,
-      "word": "于正 男人涂脂抹粉最恶心",
-      "onboard_time": 1675138711,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 219686,
+      "num": 1320890,
+      "word": "一句话总结2023第1个月",
+      "onboard_time": 1675120698,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 218940,
+      "num": 218940,
+      "word": "刘慈欣常散步几小时什么都想不出来",
+      "onboard_time": 1675135049,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214610,
@@ -739,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209318,
-      "num": 1301576,
-      "word": "一句话总结2023第1个月",
-      "onboard_time": 1675120698,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 208873,
       "num": 206513,
       "word": "流浪地球2跻身北美周末票房前十",
@@ -763,12 +803,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 204515,
-      "num": 204515,
-      "word": "刘慈欣常散步几小时什么都想不出来",
-      "onboard_time": 1675135049,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 203355,
+      "num": 203355,
+      "word": "齐司礼新卡",
+      "onboard_time": 1675138831,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 200331,
@@ -803,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192019,
+      "num": 182787,
+      "word": "流浪地球2独属中国式的浪漫",
+      "onboard_time": 1675136431,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187377,
       "num": 187377,
       "word": "狂飙高叶演过猎罪图鉴",
@@ -827,6 +875,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182423,
+      "num": 182423,
+      "word": "干娘是石头是什么体验",
+      "onboard_time": 1675139312,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181658,
+      "num": 181658,
+      "word": "拍电影的钱都花在哪",
+      "onboard_time": 1675139191,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180058,
       "num": 180058,
       "word": "原来笨笨是被踹下去的",
@@ -849,14 +913,6 @@
       "onboard_time": 1675109832,
       "rank": 48,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 176062,
-      "num": 160020,
-      "word": "流浪地球2独属中国式的浪漫",
-      "onboard_time": 1675136431,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 175565,
@@ -937,14 +993,6 @@
       "onboard_time": 1675085254,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156160,
-      "num": 156160,
-      "word": "齐司礼新卡",
-      "onboard_time": 1675138831,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 155527,
