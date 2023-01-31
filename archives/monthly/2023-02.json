@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675199780543,
+  "endTime": 1675200827886,
   "band_list": [
     {
       "raw_hot": 1249649,
@@ -467,20 +467,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 67317,
+      "num": 29959,
+      "word": "胡鑫宇录音笔已送深圳恢复数据",
+      "onboard_time": 1675197312,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60974,
       "num": 60974,
       "word": "1EqualFive花式刹车",
       "onboard_time": 1675184242,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59407,
-      "num": 20477,
-      "word": "胡鑫宇录音笔已送深圳恢复数据",
-      "onboard_time": 1675197312,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58383,
@@ -571,8 +571,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 19376,
-      "num": 19376,
+      "raw_hot": 26894,
+      "num": 26894,
       "word": "小朋友对痛感总是慢半拍",
       "onboard_time": 1675198332,
       "rank": 33,
