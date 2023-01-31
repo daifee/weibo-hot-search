@@ -1,6 +1,6 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675150418423,
+  "endTime": 1675153414447,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5177292,
+      "num": 633414,
+      "word": "唐嫣说小姐姐可以陪妹妹玩啦",
+      "onboard_time": 1675150813,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4690695,
       "num": 4690695,
       "word": "胡彦斌 满江红制作成本1000万重要吗",
@@ -49,6 +57,14 @@
       "onboard_time": 1675146087,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2220786,
+      "num": 674579,
+      "word": "记汪峰旷工一天",
+      "onboard_time": 1675149759,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 2200587,
@@ -137,6 +153,14 @@
       "onboard_time": 1675149230,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1592345,
+      "num": 1592345,
+      "word": "胡鑫宇购买录音笔数据删除后无法恢复",
+      "onboard_time": 1675150696,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1514556,
@@ -259,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 874857,
+      "num": 874857,
+      "word": "初四相亲初八订婚算闪婚吗",
+      "onboard_time": 1675150924,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 871763,
       "num": 871763,
       "word": "高启兰等了安欣20年",
@@ -371,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 674579,
-      "num": 674579,
-      "word": "记汪峰旷工一天",
-      "onboard_time": 1675149759,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 670504,
       "num": 670504,
       "word": "Angelababy相思令开机造型",
@@ -393,6 +417,14 @@
       "onboard_time": 1675134629,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 654014,
+      "num": 654014,
+      "word": "薛之谦的第一场线上演唱会",
+      "onboard_time": 1675150638,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 652341,
@@ -459,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595884,
+      "num": 595884,
+      "word": "陈飞宇片场帮张婧仪戴口罩",
+      "onboard_time": 1675152413,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 581231,
       "num": 581231,
       "word": "高启兰好美啊",
@@ -499,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 562703,
+      "num": 399152,
+      "word": "太突然了",
+      "onboard_time": 1675149879,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 559673,
       "num": 559673,
       "word": "虞书欣王鹤棣苍兰诀豆瓣涨至8.1分",
@@ -507,12 +555,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 551535,
-      "num": 399152,
-      "word": "太突然了",
-      "onboard_time": 1675149879,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 556603,
+      "num": 521120,
+      "word": "王一博王传君无名未曝光跳舞片段",
+      "onboard_time": 1675151522,
+      "rank": 20,
+      "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 552651,
+      "num": 552651,
+      "word": "强盛集团旗下公司因未缴社保被罚",
+      "onboard_time": 1675149702,
+      "rank": 24,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 542098,
@@ -659,20 +715,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 403053,
-      "num": 403053,
-      "word": "强盛集团旗下公司因未缴社保被罚",
-      "onboard_time": 1675149702,
-      "rank": 24,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 386507,
       "num": 386507,
       "word": "顾客偶遇卖鱼老板研读孙子兵法",
       "onboard_time": 1675144531,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375871,
+      "num": 375871,
+      "word": "张颂文旧照",
+      "onboard_time": 1675149995,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 372380,
@@ -699,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364359,
+      "num": 318811,
+      "word": "没人忍得住不暗戳戳的秀",
+      "onboard_time": 1675152775,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361165,
       "num": 361165,
       "word": "中戏教授点赞朱一龙人生大事眼神戏",
@@ -713,6 +777,14 @@
       "onboard_time": 1675087411,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352074,
+      "num": 352074,
+      "word": "母子围炉煮茶一氧化碳中毒身亡",
+      "onboard_time": 1675152118,
+      "rank": 29,
+      "category": "社会负面"
     },
     {
       "raw_hot": 346956,
@@ -907,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271450,
+      "num": 271450,
+      "word": "胡鑫宇",
+      "onboard_time": 1675135469,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270005,
       "num": 270005,
       "word": "湖南卫视元宵喜乐会相逢是圆官宣",
@@ -1035,20 +1115,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235900,
+      "num": 235900,
+      "word": "世界上最大的百年古堂灯亮了",
+      "onboard_time": 1675150169,
+      "rank": 44,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 234893,
       "num": 234893,
       "word": "再见爱人这一期是36问",
       "onboard_time": 1675146511,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230310,
-      "num": 230310,
-      "word": "胡鑫宇",
-      "onboard_time": 1675135469,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227701,
@@ -1091,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215682,
-      "num": 215682,
-      "word": "世界上最大的百年古堂灯亮了",
-      "onboard_time": 1675150169,
-      "rank": 44,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 214610,
       "num": 214610,
       "word": "你们尽管想象 我们负责实现",
@@ -1120,6 +1192,14 @@
       "word": "流浪小狐狸投奔看守所1年胖成球",
       "onboard_time": 1675115232,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208915,
+      "num": 208915,
+      "word": "节后为了搞钱能有多拼",
+      "onboard_time": 1675152775,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1147,6 +1227,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 204632,
+      "num": 204632,
+      "word": "地铁回应女子不让男童上女厕所遭骂",
+      "onboard_time": 1675145969,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203994,
+      "num": 203994,
+      "word": "狂飙高启强表情包",
+      "onboard_time": 1675153009,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203355,
       "num": 203355,
       "word": "齐司礼新卡",
@@ -1161,6 +1257,14 @@
       "onboard_time": 1675126467,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199016,
+      "num": 199016,
+      "word": "这猫咪是被点穴了吗",
+      "onboard_time": 1675153069,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 198229,
@@ -1187,14 +1291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195792,
-      "num": 195792,
-      "word": "张颂文旧照",
-      "onboard_time": 1675149995,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195784,
       "num": 195784,
       "word": "山东种植的西红柿可以订制味道了",
@@ -1209,6 +1305,38 @@
       "onboard_time": 1675102934,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193532,
+      "num": 193532,
+      "word": "李健早期微博",
+      "onboard_time": 1675151822,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193166,
+      "num": 193166,
+      "word": "父母该不该带孩子进异性厕所",
+      "onboard_time": 1675153009,
+      "rank": 46,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 192808,
+      "num": 192808,
+      "word": "保时捷回应12.4万保时捷遭抢购",
+      "onboard_time": 1675151589,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189010,
+      "num": 189010,
+      "word": "别小看骑电动车冲你笑的大叔",
+      "onboard_time": 1675153378,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187377,
@@ -1392,14 +1520,6 @@
       "word": "四川回应生育登记取消结婚限制",
       "onboard_time": 1675071750,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150891,
-      "num": 150891,
-      "word": "地铁回应女子不让男童上女厕所遭骂",
-      "onboard_time": 1675145969,
-      "rank": 44,
       "category": "社会新闻"
     },
     {

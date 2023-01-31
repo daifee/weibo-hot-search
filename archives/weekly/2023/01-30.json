@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675150418423,
+  "endTime": 1675153414447,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -24,6 +24,14 @@
       "word": "彭于晏你着急吗",
       "onboard_time": 1675149175,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5177292,
+      "num": 633414,
+      "word": "唐嫣说小姐姐可以陪妹妹玩啦",
+      "onboard_time": 1675150813,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -105,6 +113,14 @@
       "onboard_time": 1675146087,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2220786,
+      "num": 674579,
+      "word": "记汪峰旷工一天",
+      "onboard_time": 1675149759,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 2200587,
@@ -273,6 +289,14 @@
       "onboard_time": 1675063473,
       "rank": 14,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1592345,
+      "num": 1592345,
+      "word": "胡鑫宇购买录音笔数据删除后无法恢复",
+      "onboard_time": 1675150696,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1590068,
@@ -707,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 874857,
+      "num": 874857,
+      "word": "初四相亲初八订婚算闪婚吗",
+      "onboard_time": 1675150924,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 871763,
       "num": 871763,
       "word": "高启兰等了安欣20年",
@@ -955,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 674579,
-      "num": 674579,
-      "word": "记汪峰旷工一天",
-      "onboard_time": 1675149759,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 670504,
       "num": 670504,
       "word": "Angelababy相思令开机造型",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1675037127,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 654014,
+      "num": 654014,
+      "word": "薛之谦的第一场线上演唱会",
+      "onboard_time": 1675150638,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 653507,
@@ -1147,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 595884,
+      "num": 595884,
+      "word": "陈飞宇片场帮张婧仪戴口罩",
+      "onboard_time": 1675152413,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 583180,
       "num": 583180,
       "word": "不要对头发做的五件事",
@@ -1235,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562703,
+      "num": 399152,
+      "word": "太突然了",
+      "onboard_time": 1675149879,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 559673,
       "num": 559673,
       "word": "虞书欣王鹤棣苍兰诀豆瓣涨至8.1分",
@@ -1251,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 556603,
+      "num": 521120,
+      "word": "王一博王传君无名未曝光跳舞片段",
+      "onboard_time": 1675151522,
+      "rank": 20,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 555386,
       "num": 555386,
       "word": "日本船只非法进入我钓鱼岛领海",
@@ -1259,12 +1315,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 551535,
-      "num": 399152,
-      "word": "太突然了",
-      "onboard_time": 1675149879,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 552651,
+      "num": 552651,
+      "word": "强盛集团旗下公司因未缴社保被罚",
+      "onboard_time": 1675149702,
+      "rank": 24,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 548589,
@@ -1675,14 +1731,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 403053,
-      "num": 403053,
-      "word": "强盛集团旗下公司因未缴社保被罚",
-      "onboard_time": 1675149702,
-      "rank": 24,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 400575,
       "num": 400575,
       "word": "法医称警方通报暂未指明胡鑫宇死亡原因",
@@ -1811,6 +1859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 375871,
+      "num": 375871,
+      "word": "张颂文旧照",
+      "onboard_time": 1675149995,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372380,
       "num": 372380,
       "word": "敖子逸折腰演宋祖儿弟弟",
@@ -1841,6 +1897,14 @@
       "onboard_time": 1675124008,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 364359,
+      "num": 318811,
+      "word": "没人忍得住不暗戳戳的秀",
+      "onboard_time": 1675152775,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 363389,
@@ -1889,6 +1953,14 @@
       "onboard_time": 1675066649,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 352074,
+      "num": 352074,
+      "word": "母子围炉煮茶一氧化碳中毒身亡",
+      "onboard_time": 1675152118,
+      "rank": 29,
+      "category": "社会负面"
     },
     {
       "raw_hot": 347205,
@@ -2347,6 +2419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271450,
+      "num": 271450,
+      "word": "胡鑫宇",
+      "onboard_time": 1675135469,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270525,
       "num": 270525,
       "word": "高启盛疯批兄控",
@@ -2611,6 +2691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235900,
+      "num": 235900,
+      "word": "世界上最大的百年古堂灯亮了",
+      "onboard_time": 1675150169,
+      "rank": 44,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 234893,
       "num": 234893,
       "word": "再见爱人这一期是36问",
@@ -2649,14 +2737,6 @@
       "onboard_time": 1675089933,
       "rank": 31,
       "category": "科技,影视"
-    },
-    {
-      "raw_hot": 230310,
-      "num": 230310,
-      "word": "胡鑫宇",
-      "onboard_time": 1675135469,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227701,
@@ -2747,14 +2827,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 215682,
-      "num": 215682,
-      "word": "世界上最大的百年古堂灯亮了",
-      "onboard_time": 1675150169,
-      "rank": 44,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 214610,
       "num": 214610,
       "word": "你们尽管想象 我们负责实现",
@@ -2819,6 +2891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208915,
+      "num": 208915,
+      "word": "节后为了搞钱能有多拼",
+      "onboard_time": 1675152775,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208457,
       "num": 208457,
       "word": "李楷灿MV镜头",
@@ -2841,6 +2921,22 @@
       "onboard_time": 1675145728,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 204632,
+      "num": 204632,
+      "word": "地铁回应女子不让男童上女厕所遭骂",
+      "onboard_time": 1675145969,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203994,
+      "num": 203994,
+      "word": "狂飙高启强表情包",
+      "onboard_time": 1675153009,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 203714,
@@ -2889,6 +2985,14 @@
       "onboard_time": 1675056152,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199016,
+      "num": 199016,
+      "word": "这猫咪是被点穴了吗",
+      "onboard_time": 1675153069,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 198833,
@@ -2963,14 +3067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195792,
-      "num": 195792,
-      "word": "张颂文旧照",
-      "onboard_time": 1675149995,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195784,
       "num": 195784,
       "word": "山东种植的西红柿可以订制味道了",
@@ -3003,12 +3099,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193532,
+      "num": 193532,
+      "word": "李健早期微博",
+      "onboard_time": 1675151822,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193405,
       "num": 193405,
       "word": "第一次感受到娃娃机的真诚",
       "onboard_time": 1675070008,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193166,
+      "num": 193166,
+      "word": "父母该不该带孩子进异性厕所",
+      "onboard_time": 1675153009,
+      "rank": 46,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 192808,
+      "num": 192808,
+      "word": "保时捷回应12.4万保时捷遭抢购",
+      "onboard_time": 1675151589,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192380,
@@ -3040,6 +3160,14 @@
       "word": "金采源FEARLESS舞蹈挑战",
       "onboard_time": 1675089393,
       "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189010,
+      "num": 189010,
+      "word": "别小看骑电动车冲你笑的大叔",
+      "onboard_time": 1675153378,
+      "rank": 49,
       "category": "作品衍生"
     },
     {
@@ -3425,14 +3553,6 @@
       "onboard_time": 1675128929,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150891,
-      "num": 150891,
-      "word": "地铁回应女子不让男童上女厕所遭骂",
-      "onboard_time": 1675145969,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149863,
