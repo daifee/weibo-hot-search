@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1675172309983,
+  "endTime": 1675174618977,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -3563,6 +3563,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 1540628,
+      "num": 1158968,
+      "word": "杭州电梯坠亡案女童姥姥去世",
+      "onboard_time": 1675169317,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1540395,
       "num": 447899,
       "word": "毛不易摸兔子",
@@ -5187,6 +5195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1268404,
+      "num": 1268404,
+      "word": "刘德华说嗑到了",
+      "onboard_time": 1675172560,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1267862,
       "num": 1267862,
       "word": "朱洁静太美了吧",
@@ -6400,14 +6416,6 @@
       "word": "正月初五为什么叫破五",
       "onboard_time": 1674692361,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1141724,
-      "num": 1141724,
-      "word": "杭州电梯坠亡案女童姥姥去世",
-      "onboard_time": 1675169317,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -8065,6 +8073,14 @@
       "onboard_time": 1674305334,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 996488,
+      "num": 996488,
+      "word": "狂飙大结局预告",
+      "onboard_time": 1675169797,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 996485,
@@ -11433,14 +11449,6 @@
       "onboard_time": 1674986190,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 794891,
-      "num": 794891,
-      "word": "狂飙大结局预告",
-      "onboard_time": 1675169797,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 794572,
@@ -18923,6 +18931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 562360,
+      "num": 562360,
+      "word": "唐小虎下线",
+      "onboard_time": 1675171596,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 561875,
       "num": 561875,
       "word": "余秀华",
@@ -22985,6 +23001,14 @@
       "onboard_time": 1674603976,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 481424,
+      "num": 481424,
+      "word": "张云雷开箱",
+      "onboard_time": 1675172079,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 481227,
@@ -27555,6 +27579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403803,
+      "num": 389191,
+      "word": "秦霄贤新发色",
+      "onboard_time": 1675169559,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403576,
       "num": 403576,
       "word": "Newjeans主打曲OMG",
@@ -28800,14 +28832,6 @@
       "word": "王一博黑色皮衣开工六宫格",
       "onboard_time": 1674882625,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 389191,
-      "num": 389191,
-      "word": "秦霄贤新发色",
-      "onboard_time": 1675169559,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -32673,6 +32697,14 @@
       "onboard_time": 1673482529,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 347211,
+      "num": 236052,
+      "word": "赵露思神隐捂嘴笑路透",
+      "onboard_time": 1675171834,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 347205,
@@ -42179,22 +42211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268630,
-      "num": 268630,
-      "word": "张云雷开箱",
-      "onboard_time": 1675172079,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 268547,
-      "num": 172599,
-      "word": "唐小虎下线",
-      "onboard_time": 1675171596,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 268504,
       "num": 252008,
       "word": "赵丽颖新年手机壁纸大片",
@@ -43025,6 +43041,14 @@
       "onboard_time": 1673173949,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 262062,
+      "num": 262062,
+      "word": "狗狗的小碎步有多可爱",
+      "onboard_time": 1675172915,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 262023,
@@ -46971,14 +46995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 236052,
-      "num": 236052,
-      "word": "赵露思神隐捂嘴笑路透",
-      "onboard_time": 1675171834,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 236029,
       "num": 236029,
       "word": "29岁男子怕老妈催婚过年不回家",
@@ -47995,6 +48011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228327,
+      "num": 228327,
+      "word": "要和腰间赘肉说拜拜了",
+      "onboard_time": 1675161102,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228324,
       "num": 228324,
       "word": "苹果正开发iPhone16Pro",
@@ -48377,14 +48401,6 @@
       "onboard_time": 1674285263,
       "rank": 49,
       "category": "其它"
-    },
-    {
-      "raw_hot": 224965,
-      "num": 224965,
-      "word": "要和腰间赘肉说拜拜了",
-      "onboard_time": 1675161102,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 224921,
@@ -49809,6 +49825,14 @@
       "onboard_time": 1673746044,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 215340,
+      "num": 215340,
+      "word": "原来小狗喝多了是这样的",
+      "onboard_time": 1675173939,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 215328,
@@ -53947,6 +53971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191693,
+      "num": 191693,
+      "word": "运气比努力重要吗",
+      "onboard_time": 1675172797,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191635,
       "num": 191635,
       "word": "非遗徽墨遇上古诗词有多浪漫",
@@ -54627,6 +54659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188262,
+      "num": 188262,
+      "word": "安欣没提挽留但处处都在挽留",
+      "onboard_time": 1675174234,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188235,
       "num": 207908,
       "word": "穿汉服滑雪有多惊艳",
@@ -55259,6 +55299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185532,
+      "num": 185532,
+      "word": "雅丹民警20年救回26条生命",
+      "onboard_time": 1675174535,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185530,
       "num": 119885,
       "word": "步音楼慕容婉婉都找到真爱了",
@@ -55272,6 +55320,14 @@
       "word": "库里抢断超远三分",
       "onboard_time": 1674181044,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185374,
+      "num": 185374,
+      "word": "想减肥的有福了",
+      "onboard_time": 1675173996,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -59395,6 +59451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165058,
+      "num": 160308,
+      "word": "高启兰为什么当骨科医生",
+      "onboard_time": 1675169559,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165027,
       "num": 165027,
       "word": "152.5万人实际参加国考",
@@ -60371,6 +60435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160269,
+      "num": 160269,
+      "word": "原来黎族服饰也能很时尚",
+      "onboard_time": 1675172797,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 160230,
       "num": 160230,
       "word": "国内首个文旅沉浸式数字化云平台发布",
@@ -60785,6 +60857,14 @@
       "onboard_time": 1674208287,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157428,
+      "num": 157428,
+      "word": "三体叶文洁被PUA",
+      "onboard_time": 1675173454,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 157389,
@@ -61896,14 +61976,6 @@
       "word": "肖步活了婚后生活",
       "onboard_time": 1672710146,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 151361,
-      "num": 145482,
-      "word": "高启兰为什么当骨科医生",
-      "onboard_time": 1675169559,
-      "rank": 48,
       "category": "影视"
     },
     {
@@ -68123,6 +68195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115253,
+      "num": 1182642,
+      "word": "1月份制造业PMI升至50.1%",
+      "onboard_time": 1675170759,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115110,
       "num": 115110,
       "word": "高端广告的精髓我悟了",
@@ -68377,14 +68457,6 @@
       "onboard_time": 1673876068,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 114057,
-      "num": 1182642,
-      "word": "1月份制造业PMI升至50.1%",
-      "onboard_time": 1675170759,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114048,

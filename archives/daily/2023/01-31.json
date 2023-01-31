@@ -1,6 +1,6 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675172309983,
+  "endTime": 1675174618977,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -179,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1540628,
+      "num": 1158968,
+      "word": "杭州电梯坠亡案女童姥姥去世",
+      "onboard_time": 1675169317,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1514556,
       "num": 1148307,
       "word": "于正 男人涂脂抹粉最恶心",
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1268404,
+      "num": 1268404,
+      "word": "刘德华说嗑到了",
+      "onboard_time": 1675172560,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1255698,
       "num": 1255698,
       "word": "胡鑫宇家人决定暂不火化遗体",
@@ -272,14 +288,6 @@
       "word": "胡鑫宇外婆是从老伴手机上得知噩耗",
       "onboard_time": 1675166317,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1141724,
-      "num": 1141724,
-      "word": "杭州电梯坠亡案女童姥姥去世",
-      "onboard_time": 1675169317,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -345,6 +353,14 @@
       "onboard_time": 1675150924,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 996488,
+      "num": 996488,
+      "word": "狂飙大结局预告",
+      "onboard_time": 1675169797,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 954061,
@@ -448,14 +464,6 @@
       "word": "一千万能拍出满江红吗",
       "onboard_time": 1675122862,
       "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 794891,
-      "num": 794891,
-      "word": "狂飙大结局预告",
-      "onboard_time": 1675169797,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -707,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 562360,
+      "num": 562360,
+      "word": "唐小虎下线",
+      "onboard_time": 1675171596,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 559673,
       "num": 559673,
       "word": "虞书欣王鹤棣苍兰诀豆瓣涨至8.1分",
@@ -843,6 +859,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 481424,
+      "num": 481424,
+      "word": "张云雷开箱",
+      "onboard_time": 1675172079,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468989,
       "num": 468989,
       "word": "张颂文马嘉祺唱的听海",
@@ -939,20 +963,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 403803,
+      "num": 389191,
+      "word": "秦霄贤新发色",
+      "onboard_time": 1675169559,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392958,
       "num": 392958,
       "word": "初三男生打水漂画面犹如特效",
       "onboard_time": 1675160619,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 389191,
-      "num": 389191,
-      "word": "秦霄贤新发色",
-      "onboard_time": 1675169559,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 386507,
@@ -1041,6 +1065,14 @@
       "onboard_time": 1675167697,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 347211,
+      "num": 236052,
+      "word": "赵露思神隐捂嘴笑路透",
+      "onboard_time": 1675171834,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 346956,
@@ -1315,22 +1347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268630,
-      "num": 268630,
-      "word": "张云雷开箱",
-      "onboard_time": 1675172079,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 268547,
-      "num": 172599,
-      "word": "唐小虎下线",
-      "onboard_time": 1675171596,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 267921,
       "num": 267921,
       "word": "彭于晏不急我也不急",
@@ -1352,6 +1368,14 @@
       "word": "中国人对喝热水有多执着",
       "onboard_time": 1675160138,
       "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 262062,
+      "num": 262062,
+      "word": "狗狗的小碎步有多可爱",
+      "onboard_time": 1675172915,
+      "rank": 18,
       "category": "幽默"
     },
     {
@@ -1507,14 +1531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 236052,
-      "num": 236052,
-      "word": "赵露思神隐捂嘴笑路透",
-      "onboard_time": 1675171834,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 235900,
       "num": 235900,
       "word": "世界上最大的百年古堂灯亮了",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1675146511,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228327,
+      "num": 228327,
+      "word": "要和腰间赘肉说拜拜了",
+      "onboard_time": 1675161102,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 227701,
@@ -1553,14 +1577,6 @@
       "onboard_time": 1675086694,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224965,
-      "num": 224965,
-      "word": "要和腰间赘肉说拜拜了",
-      "onboard_time": 1675161102,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 222572,
@@ -1593,6 +1609,14 @@
       "onboard_time": 1675135049,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215340,
+      "num": 215340,
+      "word": "原来小狗喝多了是这样的",
+      "onboard_time": 1675173939,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 214610,
@@ -1859,6 +1883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191693,
+      "num": 191693,
+      "word": "运气比努力重要吗",
+      "onboard_time": 1675172797,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189474,
       "num": 189474,
       "word": "当代年轻人的厨房现状",
@@ -1883,6 +1915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188262,
+      "num": 188262,
+      "word": "安欣没提挽留但处处都在挽留",
+      "onboard_time": 1675174234,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188032,
       "num": 188032,
       "word": "张颂文眼技",
@@ -1905,6 +1945,22 @@
       "onboard_time": 1675134749,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185532,
+      "num": 185532,
+      "word": "雅丹民警20年救回26条生命",
+      "onboard_time": 1675174535,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185374,
+      "num": 185374,
+      "word": "想减肥的有福了",
+      "onboard_time": 1675173996,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 184529,
@@ -2027,6 +2083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165058,
+      "num": 160308,
+      "word": "高启兰为什么当骨科医生",
+      "onboard_time": 1675169559,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164122,
       "num": 164122,
       "word": "戴琳声明从未涉赌",
@@ -2059,6 +2123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160269,
+      "num": 160269,
+      "word": "原来黎族服饰也能很时尚",
+      "onboard_time": 1675172797,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 160073,
       "num": 160073,
       "word": "深海 治愈",
@@ -2081,6 +2153,14 @@
       "onboard_time": 1675132407,
       "rank": 37,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 157428,
+      "num": 157428,
+      "word": "三体叶文洁被PUA",
+      "onboard_time": 1675173454,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 157058,
@@ -2129,14 +2209,6 @@
       "onboard_time": 1675128929,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151361,
-      "num": 145482,
-      "word": "高启兰为什么当骨科医生",
-      "onboard_time": 1675169559,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 151011,
@@ -2291,7 +2363,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114057,
+      "raw_hot": 115253,
       "num": 1182642,
       "word": "1月份制造业PMI升至50.1%",
       "onboard_time": 1675170759,
