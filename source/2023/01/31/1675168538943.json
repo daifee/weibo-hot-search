@@ -1,0 +1,410 @@
+{
+  "runTime": 1675168538943,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2008885,
+        "num": 2008885,
+        "word": "狂飙",
+        "onboard_time": 1675167215,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1701094,
+        "num": 1701094,
+        "word": "胡鑫宇购买录音笔数据删除后无法恢复",
+        "onboard_time": 1675150696,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112196,
+        "num": 1294769,
+        "word": "一批新规2月开始施行",
+        "onboard_time": 1675154085,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1120202,
+        "num": 1120202,
+        "word": "肖战任敏玉骨遥暂定43集",
+        "onboard_time": 1675166076,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 860615,
+        "num": 860615,
+        "word": "胡鑫宇哥哥正在北京全程见证录音笔的鉴定",
+        "onboard_time": 1675158638,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791991,
+        "num": 791991,
+        "word": "结婚该不该考虑另一半的家境",
+        "onboard_time": 1675164762,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 699926,
+        "num": 699926,
+        "word": "湖南一网吧凌晨变狂飙专场",
+        "onboard_time": 1675163257,
+        "rank": 6,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 551569,
+        "num": 551569,
+        "word": "Angelababy说君绮罗今日启程",
+        "onboard_time": 1675167697,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523965,
+        "num": 523965,
+        "word": "蔡徐坤徐江同款穿搭",
+        "onboard_time": 1675165836,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 518202,
+        "num": 518202,
+        "word": "丁程鑫点脸",
+        "onboard_time": 1675166797,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 3648378,
+        "num": 513953,
+        "word": "胡歌 我当爸爸啦",
+        "onboard_time": 1675148478,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 632612,
+        "num": 510634,
+        "word": "胡鑫宇外婆是从老伴手机上得知噩耗",
+        "onboard_time": 1675166317,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499686,
+        "num": 499686,
+        "word": "武林外传预言流浪地球2",
+        "onboard_time": 1675158039,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1683878,
+        "num": 488922,
+        "word": "唐嫣说小姐姐可以陪妹妹玩啦",
+        "onboard_time": 1675150813,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463944,
+        "num": 463944,
+        "word": "保时捷官网12.4万元帕纳梅拉遭抢购",
+        "onboard_time": 1675146149,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430388,
+        "num": 430388,
+        "word": "张译竟然这么会亲",
+        "onboard_time": 1675156961,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1164817,
+        "num": 425847,
+        "word": "压力给到彭于晏",
+        "onboard_time": 1675149175,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414885,
+        "num": 414885,
+        "word": "高启强女儿被绑架",
+        "onboard_time": 1675167817,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400789,
+        "num": 400789,
+        "word": "自动续费忘记关闭怎么办",
+        "onboard_time": 1675165713,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 358613,
+        "num": 358613,
+        "word": "母子围炉煮茶一氧化碳中毒身亡",
+        "onboard_time": 1675152118,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 745386,
+        "num": 353264,
+        "word": "彭于晏你着急吗",
+        "onboard_time": 1675149175,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341746,
+        "num": 341746,
+        "word": "苏州坐地铁可直达上海",
+        "onboard_time": 1675159298,
+        "rank": 21,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 330828,
+        "num": 330828,
+        "word": "王鹤棣手电筒亮了变装视频",
+        "onboard_time": 1675165537,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298756,
+        "num": 298756,
+        "word": "仙剑留守儿童",
+        "onboard_time": 1675149230,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279218,
+        "num": 279218,
+        "word": "女生过年回家一开门来了十几个相亲",
+        "onboard_time": 1675166376,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270060,
+        "num": 270060,
+        "word": "相思令阵容官宣",
+        "onboard_time": 1675167034,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256206,
+        "num": 256206,
+        "word": "记汪峰旷工一天",
+        "onboard_time": 1675149759,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250140,
+        "num": 250140,
+        "word": "女生和离异带娃男相亲被其前妻劝退",
+        "onboard_time": 1675154805,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243681,
+        "num": 243681,
+        "word": "台湾2月7日起取消大陆赴台旅客核酸检测",
+        "onboard_time": 1675159657,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233824,
+        "num": 233824,
+        "word": "李一桐曾被韩国星探选中两次",
+        "onboard_time": 1675148415,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222572,
+        "num": 222572,
+        "word": "杨紫199爱穿校服做广播体操路透",
+        "onboard_time": 1675166494,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219308,
+        "num": 219308,
+        "word": "LNG海报",
+        "onboard_time": 1675167697,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216835,
+        "num": 216835,
+        "word": "初四相亲初八订婚算闪婚吗",
+        "onboard_time": 1675150924,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213015,
+        "num": 213015,
+        "word": "李现回母校被偶遇",
+        "onboard_time": 1675168292,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207333,
+        "num": 207333,
+        "word": "相亲到什么程度可以结婚",
+        "onboard_time": 1675157858,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190689,
+        "num": 190689,
+        "word": "初三男生打水漂画面犹如特效",
+        "onboard_time": 1675160619,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188032,
+        "num": 188032,
+        "word": "张颂文眼技",
+        "onboard_time": 1675166674,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177359,
+        "num": 177359,
+        "word": "南柱赫确定3月20日入伍",
+        "onboard_time": 1675159482,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173492,
+        "num": 173492,
+        "word": "吴京战狼系列收视登顶",
+        "onboard_time": 1675168416,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172523,
+        "num": 172523,
+        "word": "杭州中考取消外籍华人的子女加分",
+        "onboard_time": 1675158221,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 167298,
+        "num": 167298,
+        "word": "强盛集团旗下公司因未缴社保被罚",
+        "onboard_time": 1675149702,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 167262,
+        "num": 167262,
+        "word": "要和腰间赘肉说拜拜了",
+        "onboard_time": 1675161102,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163163,
+        "num": 163163,
+        "word": "介意对象有很好的异性朋友吗",
+        "onboard_time": 1675168356,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150026,
+        "num": 150026,
+        "word": "陈飞宇片场帮张婧仪戴口罩",
+        "onboard_time": 1675152413,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149034,
+        "num": 149034,
+        "word": "优酷回应1元会员取消续费被扣24元",
+        "onboard_time": 1675156778,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 138206,
+        "num": 138206,
+        "word": "中国人对喝热水有多执着",
+        "onboard_time": 1675160138,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131863,
+        "num": 131863,
+        "word": "中方回应美将禁止向华为提供任何产品",
+        "onboard_time": 1675155043,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131351,
+        "num": 131351,
+        "word": "宫脇咲良说因为我们是世界巨星",
+        "onboard_time": 1675156300,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127965,
+        "num": 127965,
+        "word": "杜华说王一博无法被复制",
+        "onboard_time": 1675153485,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121145,
+        "num": 121145,
+        "word": "半熟入住前",
+        "onboard_time": 1675164218,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#强信心开新局#"
+    }
+  }
+}
