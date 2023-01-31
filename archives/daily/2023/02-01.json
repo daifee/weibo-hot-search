@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675183418787,
+  "endTime": 1675185428978,
   "band_list": [
     {
       "raw_hot": 1249649,
@@ -99,8 +99,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 469341,
-      "num": 469341,
+      "raw_hot": 478526,
+      "num": 478526,
       "word": "妈妈先抱弟弟引女儿委屈质问",
       "onboard_time": 1675180951,
       "rank": 17,
@@ -121,6 +121,14 @@
       "onboard_time": 1675168834,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390228,
+      "num": 300370,
+      "word": "猫咪慢性呕吐2个月胃中塞满线绳",
+      "onboard_time": 1675181966,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378914,
@@ -219,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216789,
-      "num": 216789,
-      "word": "猫咪慢性呕吐2个月胃中塞满线绳",
-      "onboard_time": 1675181966,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205360,
       "num": 205360,
       "word": "如何看待脱口秀春晚收视率第一",
@@ -299,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130126,
+      "num": 130126,
+      "word": "厦门举报此人奖励10万元",
+      "onboard_time": 1675184540,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112817,
       "num": 112817,
       "word": "武林外传预言流浪地球2",
@@ -355,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90116,
+      "num": 70838,
+      "word": "湖南一网吧凌晨变狂飙专场",
+      "onboard_time": 1675163257,
+      "rank": 38,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 86658,
       "num": 86658,
       "word": "女生过年回家一开门来了十几个相亲",
@@ -371,12 +387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79961,
+      "num": 146993,
+      "word": "突然看到漫天风筝以为进了动画片",
+      "onboard_time": 1675182628,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75438,
       "num": 75438,
       "word": "彭于晏你着急吗",
       "onboard_time": 1675149175,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71881,
+      "num": 71881,
+      "word": "宋威龙玄烈今日启程",
+      "onboard_time": 1675183762,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 68944,
@@ -387,12 +419,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 63064,
-      "num": 146993,
-      "word": "突然看到漫天风筝以为进了动画片",
-      "onboard_time": 1675182628,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 60974,
+      "num": 60974,
+      "word": "1EqualFive花式刹车",
+      "onboard_time": 1675184242,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 58383,
