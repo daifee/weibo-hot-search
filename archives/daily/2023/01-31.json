@@ -1,6 +1,6 @@
 {
   "startTime": 1675095955597,
-  "endTime": 1675136071412,
+  "endTime": 1675138939091,
   "band_list": [
     {
       "raw_hot": 1891519,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1864741,
-      "num": 1249662,
+      "num": 1277694,
       "word": "女子不让6岁男童上女厕所遭痛骂",
       "onboard_time": 1675129529,
       "rank": 6,
@@ -33,6 +33,14 @@
       "onboard_time": 1675129167,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1381662,
+      "num": 1381662,
+      "word": "狂飙一下子变乱飙",
+      "onboard_time": 1675134867,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 1335222,
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1206729,
+      "num": 1206729,
+      "word": "强盛集团旗下公司年终奖现金堆成山",
+      "onboard_time": 1675133727,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1206690,
       "num": 279905,
       "word": "官方回应发现胡鑫宇尸体通报只写金鸡山",
@@ -83,12 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 944183,
-      "num": 640033,
-      "word": "强盛集团旗下公司年终奖现金堆成山",
-      "onboard_time": 1675133727,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 871763,
+      "num": 871763,
+      "word": "高启兰等了安欣20年",
+      "onboard_time": 1675134209,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 871583,
@@ -139,11 +155,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 829920,
+      "num": 829920,
+      "word": "认识2周的前同事向女生借钱买房",
+      "onboard_time": 1675134808,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 825973,
       "num": 825973,
       "word": "一千万能拍出满江红吗",
       "onboard_time": 1675122862,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 677622,
+      "num": 677622,
+      "word": "狂飙指导组被实名举报受贿",
+      "onboard_time": 1675137809,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -171,12 +203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 646996,
+      "num": 646996,
+      "word": "今天有两部古偶开机",
+      "onboard_time": 1675137989,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 642390,
       "num": 544261,
       "word": "高启强被刺杀",
       "onboard_time": 1675083631,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 635984,
+      "num": 635984,
+      "word": "建议不因钱选工作专家实控多家公司",
+      "onboard_time": 1675136187,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 629884,
@@ -203,12 +251,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 593744,
-      "num": 593744,
-      "word": "高启兰等了安欣20年",
-      "onboard_time": 1675134209,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 594475,
+      "num": 594475,
+      "word": "2023春晚收视率",
+      "onboard_time": 1675137869,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 581231,
@@ -259,6 +307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 507135,
+      "num": 507135,
+      "word": "Angelababy相思令开机造型",
+      "onboard_time": 1675137869,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 502825,
       "num": 502825,
       "word": "三亚通报村民拦截游客车辆收10元",
@@ -291,20 +347,20 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 481789,
+      "num": 481789,
+      "word": "医院回应女子取牙模时被呛身亡传言",
+      "onboard_time": 1675136066,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468989,
       "num": 468989,
       "word": "张颂文马嘉祺唱的听海",
       "onboard_time": 1675124668,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 452873,
-      "num": 452873,
-      "word": "狂飙一下子变乱飙",
-      "onboard_time": 1675134867,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 441867,
@@ -347,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 409746,
-      "num": 409746,
-      "word": "认识2周的前同事向女生借钱买房",
-      "onboard_time": 1675134808,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 405737,
+      "num": 405737,
+      "word": "道明寺今天46岁了",
+      "onboard_time": 1675135291,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 366643,
@@ -379,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335743,
+      "num": 288845,
+      "word": "揭秘满江红出品方羊踯躅传媒公司",
+      "onboard_time": 1675136488,
+      "rank": 29,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 331587,
       "num": 331587,
       "word": "2023第一批心急的小花已经开了",
@@ -403,6 +467,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 311542,
+      "num": 311542,
+      "word": "大侦探落日惊魂2高清剧照",
+      "onboard_time": 1675136308,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307195,
       "num": 307195,
       "word": "众人在轿车爆燃前救出车主",
@@ -425,6 +497,14 @@
       "onboard_time": 1675133307,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292340,
+      "num": 292340,
+      "word": "周冬雨31岁实绩图",
+      "onboard_time": 1675135708,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 292172,
@@ -467,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277265,
+      "num": 277265,
+      "word": "安欣成功卧底当大嫂",
+      "onboard_time": 1675136247,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276240,
       "num": 276240,
       "word": "建水实验中学多次违法被查处",
@@ -488,6 +576,14 @@
       "word": "人民文娱评春节档要拒绝饭圈化",
       "onboard_time": 1675099578,
       "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 260649,
+      "num": 260649,
+      "word": "谭松韵许凯你比星光美丽开通官博",
+      "onboard_time": 1675138231,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -571,6 +667,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 240166,
+      "num": 240166,
+      "word": "男子翻进火锅店与狗狗搏斗",
+      "onboard_time": 1675135648,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230310,
       "num": 230310,
       "word": "胡鑫宇",
@@ -595,20 +699,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223356,
-      "num": 223356,
-      "word": "道明寺今天46岁了",
-      "onboard_time": 1675135291,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 221815,
       "num": 221815,
       "word": "戴琳",
       "onboard_time": 1675123527,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220588,
+      "num": 220588,
+      "word": "于正 男人涂脂抹粉最恶心",
+      "onboard_time": 1675138711,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 214610,
+      "num": 214610,
+      "word": "你们尽管想象 我们负责实现",
+      "onboard_time": 1675137989,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 213229,
@@ -627,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209318,
+      "num": 1301576,
+      "word": "一句话总结2023第1个月",
+      "onboard_time": 1675120698,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208873,
       "num": 206513,
       "word": "流浪地球2跻身北美周末票房前十",
@@ -643,12 +763,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 203541,
-      "num": 203541,
-      "word": "周冬雨31岁实绩图",
-      "onboard_time": 1675135708,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 204515,
+      "num": 204515,
+      "word": "刘慈欣常散步几小时什么都想不出来",
+      "onboard_time": 1675135049,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200331,
@@ -715,12 +835,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178140,
+      "num": 178140,
+      "word": "不联系的前同事突然发在吗",
+      "onboard_time": 1675136667,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177485,
       "num": 177485,
       "word": "中方在乌克兰问题上不接受讹诈",
       "onboard_time": 1675109832,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 176062,
+      "num": 160020,
+      "word": "流浪地球2独属中国式的浪漫",
+      "onboard_time": 1675136431,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 175565,
@@ -747,28 +883,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172304,
-      "num": 1255225,
-      "word": "一句话总结2023第1个月",
-      "onboard_time": 1675120698,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 167983,
       "num": 167983,
       "word": "狂飙女性角色",
       "onboard_time": 1675130190,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167474,
-      "num": 167474,
-      "word": "刘慈欣常散步几小时什么都想不出来",
-      "onboard_time": 1675135049,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164122,
@@ -787,6 +907,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160073,
+      "num": 160073,
+      "word": "深海 治愈",
+      "onboard_time": 1675136969,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 159683,
+      "num": 159683,
+      "word": "海贼王真人版今年播出",
+      "onboard_time": 1675137029,
+      "rank": 46,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 159106,
       "num": 159106,
       "word": "游客岳飞观高喊还我河山砸打秦桧像",
@@ -803,20 +939,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156160,
+      "num": 156160,
+      "word": "齐司礼新卡",
+      "onboard_time": 1675138831,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155527,
       "num": 155527,
       "word": "宋威龙演技",
       "onboard_time": 1675078410,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153125,
-      "num": 153125,
-      "word": "男子翻进火锅店与狗狗搏斗",
-      "onboard_time": 1675135648,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152159,
@@ -865,6 +1001,14 @@
       "onboard_time": 1675128805,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 147430,
+      "num": 147430,
+      "word": "篮网战胜湖人",
+      "onboard_time": 1675137631,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 145080,
@@ -937,14 +1081,6 @@
       "onboard_time": 1675085854,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125598,
-      "num": 125598,
-      "word": "医院回应女子取牙模时被呛身亡传言",
-      "onboard_time": 1675136066,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118472,

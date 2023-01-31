@@ -1,0 +1,410 @@
+{
+  "runTime": 1675138939091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1701247,
+        "num": 1701247,
+        "word": "校方曾派老师和胡鑫宇家属共同进粮库找人",
+        "onboard_time": 1675129167,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1381662,
+        "num": 1381662,
+        "word": "狂飙一下子变乱飙",
+        "onboard_time": 1675134867,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209318,
+        "num": 1301576,
+        "word": "一句话总结2023第1个月",
+        "onboard_time": 1675120698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1277694,
+        "num": 1277694,
+        "word": "女子不让6岁男童上女厕所遭痛骂",
+        "onboard_time": 1675129529,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1206729,
+        "num": 1206729,
+        "word": "强盛集团旗下公司年终奖现金堆成山",
+        "onboard_time": 1675133727,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1106177,
+        "num": 1106177,
+        "word": "胡鑫宇父亲称未到达遗体发现点",
+        "onboard_time": 1675120880,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026924,
+        "num": 1026924,
+        "word": "张颂文曾给赵露思颁奖",
+        "onboard_time": 1675133249,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 926354,
+        "num": 926354,
+        "word": "录音笔在胡鑫宇遗体旁边墙洞",
+        "onboard_time": 1675131147,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 871763,
+        "num": 871763,
+        "word": "高启兰等了安欣20年",
+        "onboard_time": 1675134209,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 829920,
+        "num": 829920,
+        "word": "认识2周的前同事向女生借钱买房",
+        "onboard_time": 1675134808,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677622,
+        "num": 677622,
+        "word": "狂飙指导组被实名举报受贿",
+        "onboard_time": 1675137809,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 654444,
+        "num": 654444,
+        "word": "澳大利亚一枚恐致癌放射性胶囊丢失",
+        "onboard_time": 1675127549,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646996,
+        "num": 646996,
+        "word": "今天有两部古偶开机",
+        "onboard_time": 1675137989,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 635984,
+        "num": 635984,
+        "word": "建议不因钱选工作专家实控多家公司",
+        "onboard_time": 1675136187,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594475,
+        "num": 594475,
+        "word": "2023春晚收视率",
+        "onboard_time": 1675137869,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540243,
+        "num": 540243,
+        "word": "周冬雨说我们新疆好地方",
+        "onboard_time": 1675134388,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524011,
+        "num": 524011,
+        "word": "小米集团全球副总裁辞职",
+        "onboard_time": 1675133009,
+        "rank": 16,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 507135,
+        "num": 507135,
+        "word": "Angelababy相思令开机造型",
+        "onboard_time": 1675137869,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 500932,
+        "num": 500932,
+        "word": "突然觉得结婚不可怕了",
+        "onboard_time": 1675091314,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 499301,
+        "num": 499301,
+        "word": "终于知道女生买衣服好看的定律了",
+        "onboard_time": 1675127549,
+        "rank": 19,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 481789,
+        "num": 481789,
+        "word": "医院回应女子取牙模时被呛身亡传言",
+        "onboard_time": 1675136066,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460641,
+        "num": 460641,
+        "word": "女子抗癌9年离世留下一对清澈角膜",
+        "onboard_time": 1675133367,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429473,
+        "num": 429473,
+        "word": "安欣陪孟德海一起去自首",
+        "onboard_time": 1675120880,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405737,
+        "num": 405737,
+        "word": "道明寺今天46岁了",
+        "onboard_time": 1675135291,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390947,
+        "num": 390947,
+        "word": "一千万能拍出满江红吗",
+        "onboard_time": 1675122862,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323992,
+        "num": 323992,
+        "word": "戴琳直播时被曝涉赌",
+        "onboard_time": 1675129707,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311542,
+        "num": 311542,
+        "word": "大侦探落日惊魂2高清剧照",
+        "onboard_time": 1675136308,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292340,
+        "num": 292340,
+        "word": "周冬雨31岁实绩图",
+        "onboard_time": 1675135708,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289670,
+        "num": 289670,
+        "word": "光与夜之恋",
+        "onboard_time": 1675128986,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 335743,
+        "num": 288845,
+        "word": "揭秘满江红出品方羊踯躅传媒公司",
+        "onboard_time": 1675136488,
+        "rank": 29,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 283685,
+        "num": 283685,
+        "word": "中核喊话流浪地球",
+        "onboard_time": 1675134568,
+        "rank": 30,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 283281,
+        "num": 283281,
+        "word": "折腰演员阵容官宣",
+        "onboard_time": 1675134629,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277265,
+        "num": 277265,
+        "word": "安欣成功卧底当大嫂",
+        "onboard_time": 1675136247,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260649,
+        "num": 260649,
+        "word": "谭松韵许凯你比星光美丽开通官博",
+        "onboard_time": 1675138231,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253200,
+        "num": 253200,
+        "word": "老太严重失眠看医生诊前坐凳上睡着",
+        "onboard_time": 1675130428,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240166,
+        "num": 240166,
+        "word": "男子翻进火锅店与狗狗搏斗",
+        "onboard_time": 1675135648,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236212,
+        "num": 236212,
+        "word": "只有中国人才能理解这种心情",
+        "onboard_time": 1675134688,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220588,
+        "num": 220588,
+        "word": "于正 男人涂脂抹粉最恶心",
+        "onboard_time": 1675138711,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218250,
+        "num": 218250,
+        "word": "胡鑫宇案三大疑问与公众的盲人摸象",
+        "onboard_time": 1675132887,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214610,
+        "num": 214610,
+        "word": "你们尽管想象 我们负责实现",
+        "onboard_time": 1675137989,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204515,
+        "num": 204515,
+        "word": "刘慈欣常散步几小时什么都想不出来",
+        "onboard_time": 1675135049,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186177,
+        "num": 186177,
+        "word": "虞书欣王鹤棣苍兰诀豆瓣涨至8.1分",
+        "onboard_time": 1675123827,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178140,
+        "num": 178140,
+        "word": "不联系的前同事突然发在吗",
+        "onboard_time": 1675136667,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177731,
+        "num": 177731,
+        "word": "郭帆说流浪地球2剧本写了7万字",
+        "onboard_time": 1675133307,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160073,
+        "num": 160073,
+        "word": "深海 治愈",
+        "onboard_time": 1675136969,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176062,
+        "num": 160020,
+        "word": "流浪地球2独属中国式的浪漫",
+        "onboard_time": 1675136431,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159683,
+        "num": 159683,
+        "word": "海贼王真人版今年播出",
+        "onboard_time": 1675137029,
+        "rank": 46,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 157562,
+        "num": 157562,
+        "word": "河北一滑雪场禁止游客教亲友滑雪",
+        "onboard_time": 1675125751,
+        "rank": 47,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 156160,
+        "num": 156160,
+        "word": "齐司礼新卡",
+        "onboard_time": 1675138831,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147430,
+        "num": 147430,
+        "word": "篮网战胜湖人",
+        "onboard_time": 1675137631,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年共奋进#"
+    }
+  }
+}
