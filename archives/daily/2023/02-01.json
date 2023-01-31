@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675185428978,
+  "endTime": 1675186408599,
   "band_list": [
     {
       "raw_hot": 1249649,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210442,
+      "num": 210442,
+      "word": "厦门举报此人奖励10万元",
+      "onboard_time": 1675184540,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205360,
       "num": 205360,
       "word": "如何看待脱口秀春晚收视率第一",
@@ -299,14 +307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130126,
-      "num": 130126,
-      "word": "厦门举报此人奖励10万元",
-      "onboard_time": 1675184540,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112817,
       "num": 112817,
       "word": "武林外传预言流浪地球2",
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 90116,
-      "num": 70838,
+      "num": 78427,
       "word": "湖南一网吧凌晨变狂飙专场",
       "onboard_time": 1675163257,
       "rank": 38,
@@ -377,6 +377,14 @@
       "onboard_time": 1675166376,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86068,
+      "num": 74075,
+      "word": "狂飙大结局预告",
+      "onboard_time": 1675169797,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 84717,
@@ -449,6 +457,14 @@
       "onboard_time": 1675152118,
       "rank": 29,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 37010,
+      "num": 37010,
+      "word": "女子给自行车架套袋丝滑度拉满",
+      "onboard_time": 1675186099,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
