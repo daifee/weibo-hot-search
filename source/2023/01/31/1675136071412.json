@@ -1,0 +1,410 @@
+{
+  "runTime": 1675136071412,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1643439,
+        "num": 1643439,
+        "word": "校方曾派老师和胡鑫宇家属共同进粮库找人",
+        "onboard_time": 1675129167,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1274358,
+        "num": 1274358,
+        "word": "张颂文曾给赵露思颁奖",
+        "onboard_time": 1675133249,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172304,
+        "num": 1255225,
+        "word": "一句话总结2023第1个月",
+        "onboard_time": 1675120698,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1653046,
+        "num": 1249662,
+        "word": "女子不让6岁男童上女厕所遭痛骂",
+        "onboard_time": 1675129529,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1242993,
+        "num": 1242993,
+        "word": "胡鑫宇父亲称未到达遗体发现点",
+        "onboard_time": 1675120880,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1108880,
+        "num": 1108880,
+        "word": "录音笔在胡鑫宇遗体旁边墙洞",
+        "onboard_time": 1675131147,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853174,
+        "num": 853174,
+        "word": "突然觉得结婚不可怕了",
+        "onboard_time": 1675091314,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 814703,
+        "num": 814703,
+        "word": "澳大利亚一枚恐致癌放射性胶囊丢失",
+        "onboard_time": 1675127549,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652022,
+        "num": 652022,
+        "word": "周冬雨说我们新疆好地方",
+        "onboard_time": 1675134388,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 643004,
+        "num": 643004,
+        "word": "安欣陪孟德海一起去自首",
+        "onboard_time": 1675120880,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 944183,
+        "num": 640033,
+        "word": "强盛集团旗下公司年终奖现金堆成山",
+        "onboard_time": 1675133727,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629884,
+        "num": 629884,
+        "word": "女子抗癌9年离世留下一对清澈角膜",
+        "onboard_time": 1675133367,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628457,
+        "num": 628457,
+        "word": "小米集团全球副总裁辞职",
+        "onboard_time": 1675133009,
+        "rank": 12,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 619660,
+        "num": 619660,
+        "word": "终于知道女生买衣服好看的定律了",
+        "onboard_time": 1675127549,
+        "rank": 13,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 593744,
+        "num": 593744,
+        "word": "高启兰等了安欣20年",
+        "onboard_time": 1675134209,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534910,
+        "num": 534910,
+        "word": "戴琳直播时被曝涉赌",
+        "onboard_time": 1675129707,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533137,
+        "num": 533137,
+        "word": "折腰演员阵容官宣",
+        "onboard_time": 1675134629,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 481553,
+        "num": 481553,
+        "word": "老太严重失眠看医生诊前坐凳上睡着",
+        "onboard_time": 1675130428,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452873,
+        "num": 452873,
+        "word": "狂飙一下子变乱飙",
+        "onboard_time": 1675134867,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419237,
+        "num": 419237,
+        "word": "一千万能拍出满江红吗",
+        "onboard_time": 1675122862,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 409746,
+        "num": 409746,
+        "word": "认识2周的前同事向女生借钱买房",
+        "onboard_time": 1675134808,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364554,
+        "num": 364554,
+        "word": "高启兰是隆妮演的",
+        "onboard_time": 1675129766,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336073,
+        "num": 336073,
+        "word": "光与夜之恋",
+        "onboard_time": 1675128986,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 351394,
+        "num": 330393,
+        "word": "换个狂飙情头吧",
+        "onboard_time": 1675130307,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312808,
+        "num": 312808,
+        "word": "强盛集团孙红雷呼吁理性吃瓜",
+        "onboard_time": 1675128568,
+        "rank": 24,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 292172,
+        "num": 292172,
+        "word": "中核喊话流浪地球",
+        "onboard_time": 1675134568,
+        "rank": 25,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 265380,
+        "num": 265380,
+        "word": "胡鑫宇案三大疑问与公众的盲人摸象",
+        "onboard_time": 1675132887,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253992,
+        "num": 253992,
+        "word": "只有中国人才能理解这种心情",
+        "onboard_time": 1675134688,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231932,
+        "num": 231932,
+        "word": "郭帆说流浪地球2剧本写了7万字",
+        "onboard_time": 1675133307,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230310,
+        "num": 230310,
+        "word": "胡鑫宇",
+        "onboard_time": 1675135469,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223356,
+        "num": 223356,
+        "word": "道明寺今天46岁了",
+        "onboard_time": 1675135291,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208424,
+        "num": 208424,
+        "word": "虞书欣王鹤棣苍兰诀豆瓣涨至8.1分",
+        "onboard_time": 1675123827,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203541,
+        "num": 203541,
+        "word": "周冬雨31岁实绩图",
+        "onboard_time": 1675135708,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188637,
+        "num": 188637,
+        "word": "专家称年轻时不应为钱去选择工作",
+        "onboard_time": 1675110072,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174792,
+        "num": 174792,
+        "word": "2023第一批心急的小花已经开了",
+        "onboard_time": 1675128447,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169252,
+        "num": 169252,
+        "word": "张译脸盆一盆多用",
+        "onboard_time": 1675127669,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167474,
+        "num": 167474,
+        "word": "刘慈欣常散步几小时什么都想不出来",
+        "onboard_time": 1675135049,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166530,
+        "num": 166530,
+        "word": "三亚通报村民拦截游客车辆收10元",
+        "onboard_time": 1675127309,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 164371,
+        "num": 164371,
+        "word": "河北一滑雪场禁止游客教亲友滑雪",
+        "onboard_time": 1675125751,
+        "rank": 38,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 159968,
+        "num": 159968,
+        "word": "男子偷2万元刮刮乐刮出9000元",
+        "onboard_time": 1675094607,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159568,
+        "num": 159568,
+        "word": "官方回应发现胡鑫宇尸体通报只写金鸡山",
+        "onboard_time": 1675090475,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153125,
+        "num": 153125,
+        "word": "男子翻进火锅店与狗狗搏斗",
+        "onboard_time": 1675135648,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152159,
+        "num": 152159,
+        "word": "为海上丝绸之路保驾护航的英雄",
+        "onboard_time": 1675135948,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 150272,
+        "num": 150272,
+        "word": "张颂文马嘉祺唱的听海",
+        "onboard_time": 1675124668,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133110,
+        "num": 133110,
+        "word": "塔图姆",
+        "onboard_time": 1675128088,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131013,
+        "num": 131013,
+        "word": "宋祖儿刘宇宁新剧开机",
+        "onboard_time": 1675134148,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130890,
+        "num": 130890,
+        "word": "三胞胎天使离世父母做出伟大决定",
+        "onboard_time": 1675092452,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130782,
+        "num": 130782,
+        "word": "医院春联横批写活过来了引好评",
+        "onboard_time": 1675131088,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127356,
+        "num": 127356,
+        "word": "没阳的人注意这6件事",
+        "onboard_time": 1675126406,
+        "rank": 48,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 125598,
+        "num": 125598,
+        "word": "医院回应女子取牙模时被呛身亡传言",
+        "onboard_time": 1675136066,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的兔年奋斗寄语#"
+    }
+  }
+}
