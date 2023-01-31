@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675207140319,
+  "endTime": 1675208019552,
   "band_list": [
     {
       "raw_hot": 1249649,
@@ -99,8 +99,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 478526,
-      "num": 478526,
+      "raw_hot": 507034,
+      "num": 507034,
       "word": "妈妈先抱弟弟引女儿委屈质问",
       "onboard_time": 1675180951,
       "rank": 17,
@@ -113,6 +113,30 @@
       "onboard_time": 1675180171,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 429827,
+      "num": 145525,
+      "word": "胡鑫宇遗体所在粮库一般人进不去",
+      "onboard_time": 1675187777,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418724,
+      "num": 418724,
+      "word": "男子醉酒后哭诉心疼妻子想让娃断奶",
+      "onboard_time": 1675202773,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415345,
+      "num": 398232,
+      "word": "胡鑫宇购买录音笔数据删除后无法恢复",
+      "onboard_time": 1675150696,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398815,
@@ -131,19 +155,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378914,
-      "num": 378914,
-      "word": "胡鑫宇购买录音笔数据删除后无法恢复",
-      "onboard_time": 1675150696,
+      "raw_hot": 352527,
+      "num": 352527,
+      "word": "知情人称胡鑫宇饭卡仍在搜寻",
+      "onboard_time": 1675195571,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341515,
-      "num": 112495,
-      "word": "胡鑫宇遗体所在粮库一般人进不去",
-      "onboard_time": 1675187777,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -155,19 +171,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307405,
+      "num": 135652,
+      "word": "胡鑫宇录音笔已送深圳恢复数据",
+      "onboard_time": 1675197312,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304844,
       "num": 184914,
       "word": "胡鑫宇外婆是从老伴手机上得知噩耗",
       "onboard_time": 1675166317,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291686,
-      "num": 291686,
-      "word": "男子醉酒后哭诉心疼妻子想让娃断奶",
-      "onboard_time": 1675202773,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -179,20 +195,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285127,
+      "num": 285127,
+      "word": "答非所问的明星采访",
+      "onboard_time": 1675186996,
+      "rank": 4,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 261895,
       "num": 261895,
       "word": "厦门举报此人奖励10万元",
       "onboard_time": 1675184540,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249767,
-      "num": 249767,
-      "word": "答非所问的明星采访",
-      "onboard_time": 1675186996,
-      "rank": 4,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 247993,
@@ -227,28 +243,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242550,
-      "num": 242550,
-      "word": "知情人称胡鑫宇饭卡仍在搜寻",
-      "onboard_time": 1675195571,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240275,
       "num": 240275,
       "word": "结婚该不该考虑另一半的家境",
       "onboard_time": 1675164762,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 229641,
-      "num": 102657,
-      "word": "胡鑫宇录音笔已送深圳恢复数据",
-      "onboard_time": 1675197312,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223541,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156364,
+      "num": 156364,
+      "word": "福建广东多个沿海大省开启抢人模式",
+      "onboard_time": 1675187476,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153915,
       "num": 153915,
       "word": "变成电子宠物有多可怕",
@@ -347,20 +355,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135732,
+      "num": 135732,
+      "word": "苹果1月新品怎么选",
+      "onboard_time": 1675206919,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 123827,
+      "num": 146993,
+      "word": "突然看到漫天风筝以为进了动画片",
+      "onboard_time": 1675182628,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112817,
       "num": 112817,
       "word": "武林外传预言流浪地球2",
       "onboard_time": 1675158039,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 108997,
-      "num": 108997,
-      "word": "福建广东多个沿海大省开启抢人模式",
-      "onboard_time": 1675187476,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107157,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 105730,
-      "num": 77187,
+      "num": 91330,
       "word": "赵美延黑发造型",
       "onboard_time": 1675206617,
       "rank": 30,
@@ -459,12 +475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79961,
-      "num": 146993,
-      "word": "突然看到漫天风筝以为进了动画片",
-      "onboard_time": 1675182628,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 84220,
+      "num": 84220,
+      "word": "陆寒牺牲",
+      "onboard_time": 1675207942,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 75438,
@@ -499,20 +515,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 67745,
+      "num": 969352,
+      "word": "1月份制造业PMI升至50.1%",
+      "onboard_time": 1675170759,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63772,
+      "num": 63772,
+      "word": "煎饼大爷出租屋创作绝美国画",
+      "onboard_time": 1675207401,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60974,
       "num": 60974,
       "word": "1EqualFive花式刹车",
       "onboard_time": 1675184242,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58383,
-      "num": 969352,
-      "word": "1月份制造业PMI升至50.1%",
-      "onboard_time": 1675170759,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57822,
@@ -547,6 +571,14 @@
       "category": "时尚,幽默"
     },
     {
+      "raw_hot": 49666,
+      "num": 49666,
+      "word": "如何建设推广第三卫生间",
+      "onboard_time": 1675207761,
+      "rank": 49,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 48813,
       "num": 42725,
       "word": "安欣你这件衣服是哪来的",
@@ -577,14 +609,6 @@
       "onboard_time": 1675194614,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 38581,
-      "num": 38581,
-      "word": "苹果1月新品怎么选",
-      "onboard_time": 1675206919,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 37010,

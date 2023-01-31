@@ -1,0 +1,410 @@
+{
+  "runTime": 1675208019552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 656174,
+        "num": 656174,
+        "word": "遭辱骂女子被对方举报要求视频下架",
+        "onboard_time": 1675176760,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507034,
+        "num": 507034,
+        "word": "妈妈先抱弟弟引女儿委屈质问",
+        "onboard_time": 1675180951,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67745,
+        "num": 446087,
+        "word": "1月份制造业PMI升至50.1%",
+        "onboard_time": 1675170759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418724,
+        "num": 418724,
+        "word": "男子醉酒后哭诉心疼妻子想让娃断奶",
+        "onboard_time": 1675202773,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408688,
+        "num": 408688,
+        "word": "黄瑶 卧底",
+        "onboard_time": 1675169197,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415345,
+        "num": 398232,
+        "word": "胡鑫宇购买录音笔数据删除后无法恢复",
+        "onboard_time": 1675150696,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382873,
+        "num": 382873,
+        "word": "情侣婚前是否有必要同居",
+        "onboard_time": 1675177776,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 352527,
+        "num": 352527,
+        "word": "知情人称胡鑫宇饭卡仍在搜寻",
+        "onboard_time": 1675195571,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305788,
+        "num": 305788,
+        "word": "男孩撸猫后发烧12天腋下长鸡蛋大肿块",
+        "onboard_time": 1675176996,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296870,
+        "num": 296870,
+        "word": "杜海涛撑起了吴昕的朋友圈",
+        "onboard_time": 1675168834,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342455,
+        "num": 293731,
+        "word": "胡歌 我当爸爸啦",
+        "onboard_time": 1675148478,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285127,
+        "num": 285127,
+        "word": "答非所问的明星采访",
+        "onboard_time": 1675186996,
+        "rank": 11,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 215515,
+        "num": 215515,
+        "word": "京海唯一纯白的茉莉花",
+        "onboard_time": 1675175377,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203709,
+        "num": 203709,
+        "word": "猫咪慢性呕吐2个月胃中塞满线绳",
+        "onboard_time": 1675181966,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211627,
+        "num": 203300,
+        "word": "安欣熊猫血",
+        "onboard_time": 1675176217,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192209,
+        "num": 192209,
+        "word": "结婚该不该考虑另一半的家境",
+        "onboard_time": 1675164762,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176380,
+        "num": 176380,
+        "word": "杭州电梯坠亡案女童姥姥去世",
+        "onboard_time": 1675169317,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161073,
+        "num": 161073,
+        "word": "律师谈12.4万保时捷遭抢购后下架",
+        "onboard_time": 1675175316,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156364,
+        "num": 156364,
+        "word": "福建广东多个沿海大省开启抢人模式",
+        "onboard_time": 1675187476,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145975,
+        "num": 145975,
+        "word": "张云雷开箱",
+        "onboard_time": 1675172079,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429827,
+        "num": 145525,
+        "word": "胡鑫宇遗体所在粮库一般人进不去",
+        "onboard_time": 1675187777,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143989,
+        "num": 143989,
+        "word": "金希澈续约",
+        "onboard_time": 1675178376,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135732,
+        "num": 135732,
+        "word": "苹果1月新品怎么选",
+        "onboard_time": 1675206919,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 307405,
+        "num": 135652,
+        "word": "胡鑫宇录音笔已送深圳恢复数据",
+        "onboard_time": 1675197312,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135337,
+        "num": 135337,
+        "word": "狂飙口型对不上",
+        "onboard_time": 1675175735,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130995,
+        "num": 130995,
+        "word": "想减肥的有福了",
+        "onboard_time": 1675173996,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130786,
+        "num": 130786,
+        "word": "狂飙",
+        "onboard_time": 1675167215,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125379,
+        "num": 125379,
+        "word": "厦门举报此人奖励10万元",
+        "onboard_time": 1675184540,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123827,
+        "num": 123827,
+        "word": "突然看到漫天风筝以为进了动画片",
+        "onboard_time": 1675182628,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116996,
+        "num": 116996,
+        "word": "刘德华说嗑到了",
+        "onboard_time": 1675172560,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113314,
+        "num": 113314,
+        "word": "胡鑫宇哥哥正在北京全程见证录音笔的鉴定",
+        "onboard_time": 1675158638,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91330,
+        "num": 91330,
+        "word": "赵美延黑发造型",
+        "onboard_time": 1675206617,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85217,
+        "num": 85217,
+        "word": "张译竟然这么会亲",
+        "onboard_time": 1675156961,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84419,
+        "num": 84419,
+        "word": "运气比努力重要吗",
+        "onboard_time": 1675172797,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84220,
+        "num": 84220,
+        "word": "陆寒牺牲",
+        "onboard_time": 1675207942,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83833,
+        "num": 83833,
+        "word": "如何看待脱口秀春晚收视率第一",
+        "onboard_time": 1675174716,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81377,
+        "num": 81377,
+        "word": "肖战任敏玉骨遥暂定43集",
+        "onboard_time": 1675166076,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79351,
+        "num": 79351,
+        "word": "秦霄贤新发色",
+        "onboard_time": 1675169559,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73591,
+        "num": 73591,
+        "word": "郭帆证实流浪地球3会有图恒宇",
+        "onboard_time": 1675169915,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68461,
+        "num": 68461,
+        "word": "赵露思看到粉丝镜头的反应",
+        "onboard_time": 1675206617,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64224,
+        "num": 64224,
+        "word": "唐嫣说小姐姐可以陪妹妹玩啦",
+        "onboard_time": 1675150813,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63772,
+        "num": 63772,
+        "word": "煎饼大爷出租屋创作绝美国画",
+        "onboard_time": 1675207401,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61690,
+        "num": 61690,
+        "word": "狂飙全体喊到名场面有现实原型",
+        "onboard_time": 1675178736,
+        "rank": 42,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 61632,
+        "num": 61632,
+        "word": "压力给到彭于晏",
+        "onboard_time": 1675149175,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57040,
+        "num": 57040,
+        "word": "变成电子宠物有多可怕",
+        "onboard_time": 1675176105,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56438,
+        "num": 56438,
+        "word": "父母帮小男孩抓海鸥强行塞进塑料瓶",
+        "onboard_time": 1675178018,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51334,
+        "num": 51334,
+        "word": "诗词大会选手有点东西",
+        "onboard_time": 1675193233,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50763,
+        "num": 50763,
+        "word": "自动续费忘记关闭怎么办",
+        "onboard_time": 1675165713,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 49853,
+        "num": 49853,
+        "word": "fgo",
+        "onboard_time": 1675177297,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49666,
+        "num": 49666,
+        "word": "如何建设推广第三卫生间",
+        "onboard_time": 1675207761,
+        "rank": 49,
+        "category": "社会议题"
+      }
+    ],
+    "hotgov": {
+      "word": "#强信心开新局#"
+    }
+  }
+}
