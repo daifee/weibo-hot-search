@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675250154732,
+  "endTime": 1675251210935,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -48,6 +48,14 @@
       "word": "张公案",
       "onboard_time": 1675047031,
       "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 3584403,
+      "num": 3584403,
+      "word": "狂飙大结局",
+      "onboard_time": 1675249470,
+      "rank": 1,
       "category": "影视"
     },
     {
@@ -224,14 +232,6 @@
       "word": "狂飙指导组被实名举报受贿",
       "onboard_time": 1675137809,
       "rank": 10,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 2153862,
-      "num": 2153862,
-      "word": "狂飙大结局",
-      "onboard_time": 1675249470,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -803,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1127567,
+      "num": 1127567,
+      "word": "上海阿姨地铁抢座说不欢迎外地人",
+      "onboard_time": 1675246173,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1121848,
       "num": 1121848,
       "word": "杨洋被网友错认成女演员",
@@ -947,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1040158,
+      "num": 1040158,
+      "word": "吴京说易烊千玺王俊凯很努力不骄傲",
+      "onboard_time": 1675246834,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1035461,
       "num": 1035461,
       "word": "专家称年轻时不应为钱去选择工作",
@@ -1001,14 +1017,6 @@
       "onboard_time": 1675169797,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 989030,
-      "num": 989030,
-      "word": "上海阿姨地铁抢座说不欢迎外地人",
-      "onboard_time": 1675246173,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 987325,
@@ -1107,12 +1115,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 925329,
-      "num": 925329,
-      "word": "吴京说易烊千玺王俊凯很努力不骄傲",
-      "onboard_time": 1675246834,
-      "rank": 15,
-      "category": "影视"
+      "raw_hot": 923359,
+      "num": 923359,
+      "word": "谢楠 见刘德华我怎么也得化个全妆",
+      "onboard_time": 1675246532,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 921988,
@@ -1193,6 +1201,14 @@
       "onboard_time": 1675061672,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 878534,
+      "num": 878534,
+      "word": "iG战胜EDG",
+      "onboard_time": 1675250131,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 871763,
@@ -1377,14 +1393,6 @@
       "onboard_time": 1675159657,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 772724,
-      "num": 772724,
-      "word": "谢楠 见刘德华我怎么也得化个全妆",
-      "onboard_time": 1675246532,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 771511,
@@ -2043,8 +2051,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 560769,
-      "num": 560769,
+      "raw_hot": 561664,
+      "num": 561664,
       "word": "撒娇对男生到底好不好用",
       "onboard_time": 1675245393,
       "rank": 25,
@@ -2385,14 +2393,6 @@
       "onboard_time": 1675086273,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 499027,
-      "num": 318075,
-      "word": "iG战胜EDG",
-      "onboard_time": 1675250131,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 498518,
@@ -3427,6 +3427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334255,
+      "num": 334255,
+      "word": "黄子弘凡 欧皇壁纸",
+      "onboard_time": 1675250731,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332936,
       "num": 251210,
       "word": "如何判断胡鑫宇是自杀还是他杀",
@@ -3555,6 +3563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318821,
+      "num": 318821,
+      "word": "狂飙演员谈和张译合作感受",
+      "onboard_time": 1675248633,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317989,
       "num": 317989,
       "word": "郭帆人民日报撰文",
@@ -3585,14 +3601,6 @@
       "onboard_time": 1675058732,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 317180,
-      "num": 317180,
-      "word": "狂飙演员谈和张译合作感受",
-      "onboard_time": 1675248633,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 315428,
@@ -3857,6 +3865,14 @@
       "onboard_time": 1675186996,
       "rank": 4,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 283934,
+      "num": 283934,
+      "word": "王者伽罗新皮肤",
+      "onboard_time": 1675247913,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 281107,
@@ -4131,6 +4147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 261186,
+      "num": 261186,
+      "word": "杨紫二月开工照",
+      "onboard_time": 1675248090,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260560,
       "num": 260560,
       "word": "为什么年轻人开始接受相亲了",
@@ -4139,28 +4163,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260522,
-      "num": 260522,
-      "word": "杨紫二月开工照",
-      "onboard_time": 1675248090,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 260403,
       "num": 265984,
       "word": "长沙望城发现3头长江江豚",
       "onboard_time": 1675227516,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260345,
-      "num": 260345,
-      "word": "王者伽罗新皮肤",
-      "onboard_time": 1675247913,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 260342,
