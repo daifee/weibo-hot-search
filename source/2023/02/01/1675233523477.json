@@ -1,0 +1,410 @@
+{
+  "runTime": 1675233523477,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1952364,
+        "num": 1952364,
+        "word": "高叶 浪姐4",
+        "onboard_time": 1675227576,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1856412,
+        "num": 1856412,
+        "word": "韩国女子在驻韩美军基地被性侵",
+        "onboard_time": 1675229553,
+        "rank": 1,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 121381,
+        "num": 1676391,
+        "word": "各地灯会直拍",
+        "onboard_time": 1675230447,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1497413,
+        "num": 1497413,
+        "word": "Lisa购买75亿韩元住宅",
+        "onboard_time": 1675232370,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 966208,
+        "num": 966208,
+        "word": "女子找熟人25万装房子成精简风",
+        "onboard_time": 1675220790,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890972,
+        "num": 890972,
+        "word": "吴京半年没怎么吃碳水",
+        "onboard_time": 1675229910,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 778707,
+        "num": 778707,
+        "word": "刘强东得子后立即回国工作",
+        "onboard_time": 1675221032,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 737664,
+        "num": 737664,
+        "word": "男子连喝2场酒死亡6酒友赔27万",
+        "onboard_time": 1675223793,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 682401,
+        "num": 682401,
+        "word": "沙溢拍流浪地球2一天吃六七顿",
+        "onboard_time": 1675228953,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 634459,
+        "num": 634459,
+        "word": "夫妻连续两胎均性别难辨",
+        "onboard_time": 1675216106,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623222,
+        "num": 623222,
+        "word": "电影无名票房超过媒体预测",
+        "onboard_time": 1675228650,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 600722,
+        "num": 600722,
+        "word": "王鹤棣白鹿背后拥抱看剧本路透",
+        "onboard_time": 1675231349,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 537278,
+        "num": 537278,
+        "word": "龙凤胎的颜值差距有多大",
+        "onboard_time": 1675231530,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 460525,
+        "num": 460525,
+        "word": "唐嫣终于进组拍戏了",
+        "onboard_time": 1675225115,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423998,
+        "num": 423998,
+        "word": "85花都进组拍戏了",
+        "onboard_time": 1675231170,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383316,
+        "num": 383316,
+        "word": "昆山一男医生社交平台发女患者私密照",
+        "onboard_time": 1675221451,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381663,
+        "num": 381663,
+        "word": "9岁患癌男童体内取出柚子般大肿瘤",
+        "onboard_time": 1675226495,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380911,
+        "num": 380911,
+        "word": "韩素希车银优合体拍画报",
+        "onboard_time": 1675233211,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351733,
+        "num": 351733,
+        "word": "快把猫给高启强撸",
+        "onboard_time": 1675232189,
+        "rank": 18,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 347076,
+        "num": 347076,
+        "word": "张艺谋说满江红是正能量的传承",
+        "onboard_time": 1675232131,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350515,
+        "num": 344089,
+        "word": "孟钰的包15万",
+        "onboard_time": 1675223014,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289367,
+        "num": 289367,
+        "word": "赵丽颖将进组新戏",
+        "onboard_time": 1675223915,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284817,
+        "num": 284817,
+        "word": "鱼跃医疗被罚270万元",
+        "onboard_time": 1675232668,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 283302,
+        "num": 283302,
+        "word": "伊朗情侣公开场合跳舞被判10年",
+        "onboard_time": 1675220609,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282279,
+        "num": 282279,
+        "word": "黄晓明说同事之间出现矛盾要好好沟通",
+        "onboard_time": 1675229070,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277229,
+        "num": 277229,
+        "word": "黄子弘凡的嘴好像开过光",
+        "onboard_time": 1675229312,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269167,
+        "num": 269167,
+        "word": "脱口秀演员的饭局好有梗",
+        "onboard_time": 1675231530,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269123,
+        "num": 269123,
+        "word": "文草草和已婚男领导用情侣水杯",
+        "onboard_time": 1675228953,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249439,
+        "num": 249439,
+        "word": "女子在婆家被打娘家齐上阵",
+        "onboard_time": 1675223132,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245637,
+        "num": 245637,
+        "word": "孟德海到底是不是保护伞",
+        "onboard_time": 1675222111,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231252,
+        "num": 231252,
+        "word": "流浪地球2单日票房反超满江红",
+        "onboard_time": 1675232911,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229204,
+        "num": 229204,
+        "word": "长沙望城发现3头长江江豚",
+        "onboard_time": 1675227516,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226046,
+        "num": 226046,
+        "word": "今天是李响头七",
+        "onboard_time": 1675220849,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224350,
+        "num": 224350,
+        "word": "女生大学四年攒钱给妈妈买房",
+        "onboard_time": 1675221751,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204494,
+        "num": 204494,
+        "word": "张雨绮请半熟恋人全组喝奶茶",
+        "onboard_time": 1675229373,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202708,
+        "num": 202708,
+        "word": "iPhone16或仅最高端机型配潜望式镜头",
+        "onboard_time": 1675217367,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 198857,
+        "num": 198857,
+        "word": "网易发布暴雪游戏开放退款说明",
+        "onboard_time": 1675225897,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193040,
+        "num": 193040,
+        "word": "主人护食比小猫还可怕",
+        "onboard_time": 1675228834,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191391,
+        "num": 191391,
+        "word": "王嘉晨",
+        "onboard_time": 1675216467,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188522,
+        "num": 188522,
+        "word": "当事人回应初四相亲初八结婚",
+        "onboard_time": 1675223615,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187269,
+        "num": 187269,
+        "word": "女子擅坐警车拍照还对交警撒娇",
+        "onboard_time": 1675224636,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186036,
+        "num": 186036,
+        "word": "女子恋爱6年被分手报警讨说法",
+        "onboard_time": 1675215628,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176716,
+        "num": 176716,
+        "word": "赵露思下班后和助理散步遛狗",
+        "onboard_time": 1675225296,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176307,
+        "num": 176307,
+        "word": "天冷后变得敷衍的狗狗",
+        "onboard_time": 1675232370,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 175198,
+        "num": 175198,
+        "word": "内娱那些一眼万年的舞台",
+        "onboard_time": 1675225054,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149662,
+        "num": 149662,
+        "word": "赵丽颖2023年的目标和心愿",
+        "onboard_time": 1675224817,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149036,
+        "num": 149036,
+        "word": "去有风的地方豆瓣评分涨至8.4分",
+        "onboard_time": 1675232071,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144834,
+        "num": 144834,
+        "word": "微念退出李子柒公司",
+        "onboard_time": 1675222774,
+        "rank": 47,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 139787,
+        "num": 139787,
+        "word": "年轻人的暴富心谁能懂",
+        "onboard_time": 1675233211,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134483,
+        "num": 134483,
+        "word": "刘慈欣称太空电梯最难是材料",
+        "onboard_time": 1675218452,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#脚踏实地埋头苦干积跬步以至千里#"
+    }
+  }
+}
