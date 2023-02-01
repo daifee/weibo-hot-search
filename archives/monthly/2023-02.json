@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675258598104,
+  "endTime": 1675261040837,
   "band_list": [
     {
       "raw_hot": 10722665,
@@ -131,12 +131,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1738489,
+      "num": 1643874,
+      "word": "李成洙晒与黄旭熙合照",
+      "onboard_time": 1675257395,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1735687,
       "num": 1735687,
       "word": "人民网评6岁男童进女厕事件",
       "onboard_time": 1675240232,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1725413,
+      "num": 1725413,
+      "word": "张颂文 演技封神",
+      "onboard_time": 1675257213,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 1719004,
@@ -171,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1643874,
-      "num": 1643874,
-      "word": "李成洙晒与黄旭熙合照",
-      "onboard_time": 1675257395,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1497413,
       "num": 1497413,
       "word": "Lisa购买75亿韩元住宅",
@@ -203,11 +211,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1382241,
-      "num": 950867,
-      "word": "张颂文 演技封神",
-      "onboard_time": 1675257213,
-      "rank": 16,
+      "raw_hot": 1410040,
+      "num": 1410040,
+      "word": "狂飙最大保护伞",
+      "onboard_time": 1675257996,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -419,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 975446,
+      "num": 747848,
+      "word": "赵立冬死刑",
+      "onboard_time": 1675257575,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 952480,
       "num": 952480,
       "word": "遭辱骂女子被对方举报要求视频下架",
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 803880,
+      "num": 803880,
+      "word": "女子花100万在农村建120平3层房",
+      "onboard_time": 1675258356,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 802581,
       "num": 802581,
       "word": "龙凤胎的颜值差距有多大",
@@ -540,7 +564,7 @@
     },
     {
       "raw_hot": 759931,
-      "num": 545451,
+      "num": 731619,
       "word": "程耳王一博半夜去看无名",
       "onboard_time": 1675257814,
       "rank": 24,
@@ -595,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 715054,
+      "num": 535075,
+      "word": "高启兰陈书婷 梦中情姐",
+      "onboard_time": 1675259137,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 712969,
       "num": 712969,
       "word": "咒术回战",
@@ -611,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 702069,
-      "num": 543699,
-      "word": "赵立冬死刑",
-      "onboard_time": 1675257575,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 701967,
       "num": 701967,
       "word": "沙溢拍流浪地球2一天吃六七顿",
@@ -633,6 +657,14 @@
       "onboard_time": 1675178376,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 695981,
+      "num": 695981,
+      "word": "主人推门发现6只布偶猫挂在墙上",
+      "onboard_time": 1675256132,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 695940,
@@ -699,14 +731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 637645,
-      "num": 534575,
-      "word": "狂飙最大保护伞",
-      "onboard_time": 1675257996,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 623553,
       "num": 623553,
       "word": "唐嫣接孙坚用跑的",
@@ -747,6 +771,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 592008,
+      "num": 534674,
+      "word": "陈国恩offer4现场拒绝offer",
+      "onboard_time": 1675259376,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 590817,
       "num": 590817,
       "word": "狂飙",
@@ -768,14 +800,6 @@
       "word": "9岁患癌男童体内取出柚子般大肿瘤",
       "onboard_time": 1675226495,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 584771,
-      "num": 584771,
-      "word": "主人推门发现6只布偶猫挂在墙上",
-      "onboard_time": 1675256132,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -875,12 +899,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 535579,
+      "num": 535579,
+      "word": "著名乳腺外科专家黄汉源去世",
+      "onboard_time": 1675259494,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534711,
       "num": 534711,
       "word": "快把猫给高启强撸",
       "onboard_time": 1675232189,
       "rank": 42,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 534202,
+      "num": 534202,
+      "word": "边牧吃醋将主人养了5年金毛拐跑",
+      "onboard_time": 1675258537,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533679,
@@ -939,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509103,
+      "num": 509103,
+      "word": "王一博演热烈是街舞工作者集体推荐",
+      "onboard_time": 1675260876,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 508857,
       "num": 508857,
       "word": "父子身陷泥潭父亲舍命托举儿子",
@@ -953,6 +1001,14 @@
       "onboard_time": 1675180951,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506936,
+      "num": 382758,
+      "word": "三体19集看点过于密集",
+      "onboard_time": 1675260456,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 498518,
@@ -1227,6 +1283,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 386551,
+      "num": 386551,
+      "word": "我都想跟你女朋友谈恋爱了",
+      "onboard_time": 1675255352,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 375486,
       "num": 375486,
       "word": "高叶旧照",
@@ -1281,14 +1345,6 @@
       "onboard_time": 1675215986,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353567,
-      "num": 353567,
-      "word": "我都想跟你女朋友谈恋爱了",
-      "onboard_time": 1675255352,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 352527,
@@ -1619,12 +1675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250796,
+      "num": 250796,
+      "word": "王一博无名卡车笑拍摄幕后",
+      "onboard_time": 1675260096,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247993,
       "num": 247993,
       "word": "郭帆证实流浪地球3会有图恒宇",
       "onboard_time": 1675169915,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247541,
+      "num": 2722179,
+      "word": "春天的脚步越来越近了",
+      "onboard_time": 1675256253,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245774,
@@ -1891,14 +1963,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 193537,
-      "num": 2722179,
-      "word": "春天的脚步越来越近了",
-      "onboard_time": 1675256253,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190006,
       "num": 190006,
       "word": "二刷流浪地球2才看懂的细节",
@@ -2035,6 +2099,14 @@
       "category": "科技,游戏"
     },
     {
+      "raw_hot": 175400,
+      "num": 175400,
+      "word": "高中的友谊会是一辈子的友谊",
+      "onboard_time": 1675260213,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172486,
       "num": 193897,
       "word": "律师谈爱奇艺限制投屏被起诉",
@@ -2083,28 +2155,20 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 166328,
-      "num": 166328,
-      "word": "这就是中华功夫猫吧",
-      "onboard_time": 1675236811,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 166295,
-      "num": 166295,
+      "raw_hot": 167399,
+      "num": 167399,
       "word": "LNG战胜RNG",
       "onboard_time": 1675258116,
       "rank": 45,
       "category": "游戏"
     },
     {
-      "raw_hot": 166161,
-      "num": 166161,
-      "word": "女子花100万在农村建120平3层房",
-      "onboard_time": 1675258356,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 166328,
+      "num": 166328,
+      "word": "这就是中华功夫猫吧",
+      "onboard_time": 1675236811,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 164205,
@@ -2163,12 +2227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157708,
-      "num": 157708,
-      "word": "边牧吃醋将主人养了5年金毛拐跑",
-      "onboard_time": 1675258537,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 156287,
+      "num": 156287,
+      "word": "ming",
+      "onboard_time": 1675260935,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 153915,
