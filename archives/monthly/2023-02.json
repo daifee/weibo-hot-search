@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675269802089,
+  "endTime": 1675271818714,
   "band_list": [
     {
       "raw_hot": 10722665,
@@ -1539,8 +1539,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 322317,
-      "num": 239386,
+      "raw_hot": 325422,
+      "num": 325422,
       "word": "流浪地球3刘德华演笨笨吴京演MOSS",
       "onboard_time": 1675266451,
       "rank": 40,
@@ -1881,6 +1881,14 @@
       "onboard_time": 1675179335,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242630,
+      "num": 242630,
+      "word": "特朗普受讯视频曝光",
+      "onboard_time": 1675268785,
+      "rank": 27,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 240461,
@@ -2233,14 +2241,6 @@
       "onboard_time": 1675238190,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 180210,
-      "num": 180210,
-      "word": "特朗普受讯视频曝光",
-      "onboard_time": 1675268785,
-      "rank": 27,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 180194,
@@ -2689,6 +2689,14 @@
       "onboard_time": 1675172797,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76680,
+      "num": 76680,
+      "word": "大鹅在曲水亭街快乐游玩",
+      "onboard_time": 1675270703,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75438,
