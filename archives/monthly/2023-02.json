@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675283609268,
+  "endTime": 1675286200646,
   "band_list": [
     {
       "raw_hot": 10722665,
@@ -2923,16 +2923,24 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 18610,
-      "num": 18610,
+      "raw_hot": 28145,
+      "num": 19022,
       "word": "36平老破小改造后的样子",
       "onboard_time": 1675282152,
       "rank": 49,
       "category": "情感"
     },
     {
-      "raw_hot": 16530,
-      "num": 16530,
+      "raw_hot": 26846,
+      "num": 18995,
+      "word": "饺子皮薯片",
+      "onboard_time": 1675283951,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 25047,
+      "num": 25047,
       "word": "狂飙导演回应吃肠粉不加酱油",
       "onboard_time": 1675280232,
       "rank": 45,
