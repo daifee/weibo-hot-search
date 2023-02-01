@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675236840307,
+  "endTime": 1675239831631,
   "band_list": [
     {
       "raw_hot": 3530109,
@@ -59,20 +59,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1949008,
+      "num": 1949008,
+      "word": "嗯哼长青春痘了",
+      "onboard_time": 1675235371,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1917277,
       "num": 1917277,
       "word": "韩国女子在驻韩美军基地被性侵",
       "onboard_time": 1675229553,
       "rank": 47,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 1759553,
-      "num": 1759553,
-      "word": "嗯哼长青春痘了",
-      "onboard_time": 1675235371,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1709231,
@@ -89,6 +89,14 @@
       "onboard_time": 1675232370,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1309026,
+      "num": 1309026,
+      "word": "情侣刚分手为何不要马上删除",
+      "onboard_time": 1675234887,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 1284222,
@@ -115,6 +123,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1170146,
+      "num": 1170146,
+      "word": "爱奇艺因限制投屏被起诉已立案",
+      "onboard_time": 1675237951,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1144650,
+      "num": 1144650,
+      "word": "全员加速中确认重启",
+      "onboard_time": 1675238310,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1139087,
       "num": 1139087,
       "word": "女子恋爱6年被分手报警讨说法",
@@ -137,6 +161,14 @@
       "onboard_time": 1675233812,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1112010,
+      "num": 1112010,
+      "word": "高启强有多恨高晓晨",
+      "onboard_time": 1675236330,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 1107860,
@@ -371,12 +403,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 613070,
-      "num": 613070,
-      "word": "情侣刚分手为何不要马上删除",
-      "onboard_time": 1675234887,
-      "rank": 27,
-      "category": "情感"
+      "raw_hot": 609063,
+      "num": 609063,
+      "word": "8岁女童雪场缆车坠落大小便不能自理",
+      "onboard_time": 1675237049,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 607402,
@@ -441,6 +473,22 @@
       "onboard_time": 1675225054,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 539862,
+      "num": 539862,
+      "word": "邓先生 这次表现还不够完美",
+      "onboard_time": 1675237591,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 538211,
+      "num": 538211,
+      "word": "伽罗新皮肤炽翼辉光",
+      "onboard_time": 1675236269,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 538055,
@@ -515,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497540,
+      "num": 497540,
+      "word": "无名是王一博转型电影演员的第一步",
+      "onboard_time": 1675237108,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 478606,
       "num": 478606,
       "word": "当事人回应初四相亲初八结婚",
@@ -529,6 +585,14 @@
       "onboard_time": 1675233812,
       "rank": 16,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 446794,
+      "num": 446794,
+      "word": "周柯宇机场被小朋友问名字",
+      "onboard_time": 1675238071,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 442046,
@@ -803,14 +867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306167,
-      "num": 220779,
-      "word": "高启强有多恨高晓晨",
-      "onboard_time": 1675236330,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 304844,
       "num": 184914,
       "word": "胡鑫宇外婆是从老伴手机上得知噩耗",
@@ -971,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242767,
+      "num": 242767,
+      "word": "狂飙大嫂海报细节",
+      "onboard_time": 1675237230,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240275,
       "num": 240275,
       "word": "结婚该不该考虑另一半的家境",
@@ -1051,14 +1115,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 220947,
-      "num": 220947,
-      "word": "伽罗新皮肤炽翼辉光",
-      "onboard_time": 1675236269,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 220110,
       "num": 220110,
       "word": "唐嫣说小姐姐可以陪妹妹玩啦",
@@ -1073,6 +1129,14 @@
       "onboard_time": 1675218693,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212923,
+      "num": 212923,
+      "word": "郭帆拍流浪地球2最爱看科学家吵架",
+      "onboard_time": 1675239088,
+      "rank": 33,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 212039,
@@ -1123,6 +1187,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 198134,
+      "num": 198134,
+      "word": "这猫咪怎么狗模狗样的",
+      "onboard_time": 1675239212,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197639,
       "num": 197639,
       "word": "苹果或2025年推出可折叠笔记本",
@@ -1153,6 +1225,14 @@
       "onboard_time": 1675217730,
       "rank": 32,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 190006,
+      "num": 190006,
+      "word": "二刷流浪地球2才看懂的细节",
+      "onboard_time": 1675238431,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 189688,
@@ -1203,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181765,
+      "num": 181765,
+      "word": "小狗犯错后的表情",
+      "onboard_time": 1675238190,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180194,
       "num": 180194,
       "word": "越级汇报是职场大忌吗",
@@ -1217,6 +1305,38 @@
       "onboard_time": 1675217969,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 179904,
+      "num": 179904,
+      "word": "王一博拍无名时的路透",
+      "onboard_time": 1675238012,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 179742,
+      "num": 179742,
+      "word": "1岁萌娃躺地耍赖父母转身离开",
+      "onboard_time": 1675238852,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178826,
+      "num": 178826,
+      "word": "没鼻梁的人有福了",
+      "onboard_time": 1675239510,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 172403,
+      "num": 172403,
+      "word": "麻将在东北的各种叫法",
+      "onboard_time": 1675236632,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 172343,
@@ -1259,14 +1379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 161866,
-      "num": 161866,
-      "word": "麻将在东北的各种叫法",
-      "onboard_time": 1675236632,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 160724,
       "num": 160724,
       "word": "任嘉伦找兜",
@@ -1297,6 +1409,14 @@
       "onboard_time": 1675187476,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158898,
+      "num": 158898,
+      "word": "雷军称喜欢并推崇任天堂",
+      "onboard_time": 1675238672,
+      "rank": 48,
+      "category": "科技,游戏"
     },
     {
       "raw_hot": 153915,
