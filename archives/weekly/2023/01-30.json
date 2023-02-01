@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675287224880,
+  "endTime": 1675289888675,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -4939,6 +4939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238720,
+      "num": 79375,
+      "word": "大润发回应女员工因照顾病危父亲请假遭开除",
+      "onboard_time": 1675286351,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238422,
       "num": 238422,
       "word": "外交部回应对韩国旅客全员核酸传言",
@@ -7331,14 +7339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37138,
-      "num": 37138,
-      "word": "大润发回应女员工因照顾病危父亲请假遭开除",
-      "onboard_time": 1675286351,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37010,
       "num": 37010,
       "word": "女子给自行车架套袋丝滑度拉满",
@@ -7355,10 +7355,26 @@
       "category": "影视"
     },
     {
+      "raw_hot": 35447,
+      "num": 35447,
+      "word": "狂飙导演回应吃肠粉不加酱油",
+      "onboard_time": 1675280232,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 34722,
       "num": 34722,
       "word": "2月的第1天",
       "onboard_time": 1675206016,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 34683,
+      "num": 26826,
+      "word": "36平老破小改造后的样子",
+      "onboard_time": 1675282152,
       "rank": 49,
       "category": "情感"
     },
@@ -7401,22 +7417,6 @@
       "onboard_time": 1675186698,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29597,
-      "num": 29597,
-      "word": "狂飙导演回应吃肠粉不加酱油",
-      "onboard_time": 1675280232,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 29323,
-      "num": 22334,
-      "word": "36平老破小改造后的样子",
-      "onboard_time": 1675282152,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 29058,
@@ -7473,6 +7473,14 @@
       "onboard_time": 1675190774,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14681,
+      "num": 14681,
+      "word": "2022年全国城市GDP十强全部出炉",
+      "onboard_time": 1675289772,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 13142,
