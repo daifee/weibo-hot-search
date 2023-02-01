@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675220230353,
+  "endTime": 1675220798347,
   "band_list": [
     {
       "raw_hot": 3530109,
@@ -11,6 +11,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1991022,
+      "num": 1991022,
+      "word": "夫妻连续两胎均性别难辨",
+      "onboard_time": 1675216106,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1971252,
       "num": 1971252,
       "word": "王嘉晨",
@@ -19,20 +27,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1820362,
-      "num": 1820362,
-      "word": "夫妻连续两胎均性别难辨",
-      "onboard_time": 1675216106,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1249649,
       "num": 1249649,
       "word": "男孩撸猫后发烧12天腋下长鸡蛋大肿块",
       "onboard_time": 1675176996,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1200428,
+      "num": 1200428,
+      "word": "网传浪姐4最终拟邀名单",
+      "onboard_time": 1675218988,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1139087,
@@ -51,8 +59,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1026684,
-      "num": 1026684,
+      "raw_hot": 1096497,
+      "num": 1096497,
       "word": "iPhone16或仅最高端机型配潜望式镜头",
       "onboard_time": 1675217367,
       "rank": 34,
@@ -65,14 +73,6 @@
       "onboard_time": 1675148478,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 981732,
-      "num": 981732,
-      "word": "网传浪姐4最终拟邀名单",
-      "onboard_time": 1675218988,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 952480,
@@ -91,19 +91,19 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 907785,
+      "num": 483431,
+      "word": "王嘉晨回应狂飙拍了100集是玩笑",
+      "onboard_time": 1675219949,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 907306,
       "num": 673153,
       "word": "京海唯一纯白的茉莉花",
       "onboard_time": 1675175377,
       "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 869857,
-      "num": 219977,
-      "word": "王嘉晨回应狂飙拍了100集是玩笑",
-      "onboard_time": 1675219949,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 533679,
+      "num": 533679,
+      "word": "哥哥用打火机把弟弟寒假作业烤没",
+      "onboard_time": 1675217428,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 518209,
       "num": 518209,
       "word": "安欣熊猫血",
@@ -251,12 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 493576,
-      "num": 493576,
-      "word": "哥哥用打火机把弟弟寒假作业烤没",
-      "onboard_time": 1675217428,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 442046,
+      "num": 442046,
+      "word": "近三年房贷成本累计减少16%",
+      "onboard_time": 1675218568,
+      "rank": 11,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 440228,
@@ -267,12 +275,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 432384,
-      "num": 432384,
-      "word": "近三年房贷成本累计减少16%",
-      "onboard_time": 1675218568,
-      "rank": 11,
-      "category": "财经,社会新闻"
+      "raw_hot": 431923,
+      "num": 431923,
+      "word": "刘诗诗2月库存小街拍",
+      "onboard_time": 1675219590,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 429827,
@@ -281,6 +289,14 @@
       "onboard_time": 1675187777,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423300,
+      "num": 423300,
+      "word": "刘慈欣称太空电梯最难是材料",
+      "onboard_time": 1675218452,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 418724,
@@ -307,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 396481,
-      "num": 354888,
-      "word": "刘慈欣称太空电梯最难是材料",
-      "onboard_time": 1675218452,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 390228,
       "num": 352003,
       "word": "猫咪慢性呕吐2个月胃中塞满线绳",
@@ -329,14 +337,6 @@
       "onboard_time": 1675208545,
       "rank": 15,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 370779,
-      "num": 370779,
-      "word": "刘诗诗2月库存小街拍",
-      "onboard_time": 1675219590,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 353660,
@@ -377,6 +377,14 @@
       "onboard_time": 1675158638,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319648,
+      "num": 319648,
+      "word": "颖儿赵露思合照",
+      "onboard_time": 1675219647,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 304844,
@@ -425,6 +433,14 @@
       "onboard_time": 1675217969,
       "rank": 23,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 266177,
+      "num": 266177,
+      "word": "谭松韵二月在剧组拍戏",
+      "onboard_time": 1675220130,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 247993,
@@ -499,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223224,
-      "num": 223224,
-      "word": "颖儿赵露思合照",
-      "onboard_time": 1675219647,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 222688,
+      "num": 207143,
+      "word": "狂飙全员rapper",
+      "onboard_time": 1675220490,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 221164,
@@ -563,6 +579,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 193469,
+      "num": 193469,
+      "word": "伊朗情侣公开场合跳舞被判10年",
+      "onboard_time": 1675220609,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189688,
       "num": 189688,
       "word": "恋与制作人",
@@ -579,8 +603,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182528,
-      "num": 182528,
+      "raw_hot": 185946,
+      "num": 185946,
       "word": "特斯拉2022年在华营收181亿美元",
       "onboard_time": 1675217011,
       "rank": 40,
@@ -603,12 +627,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 176046,
-      "num": 176046,
-      "word": "谭松韵二月在剧组拍戏",
-      "onboard_time": 1675220130,
+      "raw_hot": 162184,
+      "num": 162184,
+      "word": "安徽的非遗鱼灯可以有多美",
+      "onboard_time": 1675220250,
       "rank": 39,
-      "category": "艺人"
+      "category": "综艺"
     },
     {
       "raw_hot": 160724,
@@ -643,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155775,
+      "num": 155775,
+      "word": "Apex手游5月停运",
+      "onboard_time": 1675220369,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153915,
       "num": 153915,
       "word": "变成电子宠物有多可怕",
@@ -665,6 +697,22 @@
       "onboard_time": 1675177297,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148438,
+      "num": 148438,
+      "word": "以为是安欣和高启强",
+      "onboard_time": 1675220729,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 147421,
+      "num": 147421,
+      "word": "利刃出鞘翻车",
+      "onboard_time": 1675220431,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 145156,
@@ -697,6 +745,14 @@
       "onboard_time": 1675217247,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139872,
+      "num": 139872,
+      "word": "女子找熟人25万装房子成精简风",
+      "onboard_time": 1675220790,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135421,
@@ -860,7 +916,7 @@
     },
     {
       "raw_hot": 71290,
-      "num": 1196693,
+      "num": 1289678,
       "word": "1月份制造业PMI升至50.1%",
       "onboard_time": 1675170759,
       "rank": 2,

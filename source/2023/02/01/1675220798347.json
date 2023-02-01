@@ -1,0 +1,410 @@
+{
+  "runTime": 1675220798347,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1991022,
+        "num": 1991022,
+        "word": "夫妻连续两胎均性别难辨",
+        "onboard_time": 1675216106,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1569185,
+        "num": 1569185,
+        "word": "王嘉晨",
+        "onboard_time": 1675216467,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41285,
+        "num": 1289678,
+        "word": "1月份制造业PMI升至50.1%",
+        "onboard_time": 1675170759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1200428,
+        "num": 1200428,
+        "word": "网传浪姐4最终拟邀名单",
+        "onboard_time": 1675218988,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1119542,
+        "num": 1119542,
+        "word": "女子恋爱6年被分手报警讨说法",
+        "onboard_time": 1675215628,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1096497,
+        "num": 1096497,
+        "word": "iPhone16或仅最高端机型配潜望式镜头",
+        "onboard_time": 1675217367,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 749473,
+        "num": 749473,
+        "word": "扎堆提前还房贷并不可取",
+        "onboard_time": 1675214610,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 576646,
+        "num": 576646,
+        "word": "张译张颂文狂飙今日大结局",
+        "onboard_time": 1675212389,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 533679,
+        "num": 533679,
+        "word": "哥哥用打火机把弟弟寒假作业烤没",
+        "onboard_time": 1675217428,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483486,
+        "num": 483486,
+        "word": "第一次见这么帅的鸡",
+        "onboard_time": 1675213529,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 907785,
+        "num": 483431,
+        "word": "王嘉晨回应狂飙拍了100集是玩笑",
+        "onboard_time": 1675219949,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483055,
+        "num": 483055,
+        "word": "电影无名2月17日北美上映",
+        "onboard_time": 1675216831,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442046,
+        "num": 442046,
+        "word": "近三年房贷成本累计减少16%",
+        "onboard_time": 1675218568,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 431923,
+        "num": 431923,
+        "word": "刘诗诗2月库存小街拍",
+        "onboard_time": 1675219590,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423300,
+        "num": 423300,
+        "word": "刘慈欣称太空电梯最难是材料",
+        "onboard_time": 1675218452,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319648,
+        "num": 319648,
+        "word": "颖儿赵露思合照",
+        "onboard_time": 1675219647,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388811,
+        "num": 319450,
+        "word": "流浪地球2里的机甲不是特效",
+        "onboard_time": 1675212449,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317415,
+        "num": 317415,
+        "word": "杨晓培晒与赵露思合影",
+        "onboard_time": 1675219109,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301141,
+        "num": 301141,
+        "word": "遭辱骂女子被对方举报要求视频下架",
+        "onboard_time": 1675176760,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299086,
+        "num": 299086,
+        "word": "陆寒牺牲",
+        "onboard_time": 1675207942,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294144,
+        "num": 294144,
+        "word": "缉毒警说头发已熬白还怕熬不过毒贩吗",
+        "onboard_time": 1675215986,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290099,
+        "num": 290099,
+        "word": "切尔西1.2亿欧签下恩佐",
+        "onboard_time": 1675209445,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275430,
+        "num": 275430,
+        "word": "京海唯一纯白的茉莉花",
+        "onboard_time": 1675175377,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271046,
+        "num": 271046,
+        "word": "妻子陪丈夫义务打捞垃圾36年",
+        "onboard_time": 1675217969,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 267467,
+        "num": 267467,
+        "word": "情侣婚前是否有必要同居",
+        "onboard_time": 1675177776,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266177,
+        "num": 266177,
+        "word": "谭松韵二月在剧组拍戏",
+        "onboard_time": 1675220130,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255673,
+        "num": 255673,
+        "word": "北京明白真明白了没有",
+        "onboard_time": 1675214909,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238665,
+        "num": 238665,
+        "word": "猫咪慢性呕吐2个月胃中塞满线绳",
+        "onboard_time": 1675181966,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211604,
+        "num": 211604,
+        "word": "流浪地球2引入全程预拍摄",
+        "onboard_time": 1675219647,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208417,
+        "num": 208417,
+        "word": "中疾控科普CH.1.1变异株",
+        "onboard_time": 1675209927,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222688,
+        "num": 207143,
+        "word": "狂飙全员rapper",
+        "onboard_time": 1675220490,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203321,
+        "num": 203321,
+        "word": "父子身陷泥潭父亲舍命托举儿子",
+        "onboard_time": 1675212748,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193469,
+        "num": 193469,
+        "word": "伊朗情侣公开场合跳舞被判10年",
+        "onboard_time": 1675220609,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191134,
+        "num": 191134,
+        "word": "张真源绿色西装造型下班路透",
+        "onboard_time": 1675219530,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187378,
+        "num": 187378,
+        "word": "妈妈先抱弟弟引女儿委屈质问",
+        "onboard_time": 1675180951,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186787,
+        "num": 186787,
+        "word": "金希澈续约",
+        "onboard_time": 1675178376,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185946,
+        "num": 185946,
+        "word": "特斯拉2022年在华营收181亿美元",
+        "onboard_time": 1675217011,
+        "rank": 36,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 182332,
+        "num": 182332,
+        "word": "河南新设立九所高校",
+        "onboard_time": 1675208545,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 176320,
+        "num": 176320,
+        "word": "江苏卫视元宵晚会全阵容官宣",
+        "onboard_time": 1675218693,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162184,
+        "num": 162184,
+        "word": "安徽的非遗鱼灯可以有多美",
+        "onboard_time": 1675220250,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161583,
+        "num": 161583,
+        "word": "新海诚铃芽之旅确认引进",
+        "onboard_time": 1675217730,
+        "rank": 40,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 158196,
+        "num": 158196,
+        "word": "速度与激情10海报",
+        "onboard_time": 1675215508,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155775,
+        "num": 155775,
+        "word": "Apex手游5月停运",
+        "onboard_time": 1675220369,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152464,
+        "num": 152464,
+        "word": "河南省投资教育事业有多拼",
+        "onboard_time": 1675217969,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148438,
+        "num": 148438,
+        "word": "以为是安欣和高启强",
+        "onboard_time": 1675220729,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147421,
+        "num": 147421,
+        "word": "利刃出鞘翻车",
+        "onboard_time": 1675220431,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145195,
+        "num": 145195,
+        "word": "厦门举报此人奖励10万元",
+        "onboard_time": 1675184540,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140982,
+        "num": 140982,
+        "word": "男孩撸猫后发烧12天腋下长鸡蛋大肿块",
+        "onboard_time": 1675176996,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139872,
+        "num": 139872,
+        "word": "女子找熟人25万装房子成精简风",
+        "onboard_time": 1675220790,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138400,
+        "num": 138400,
+        "word": "电锯人",
+        "onboard_time": 1675208122,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#原来有这么多诗词描写祖国大好河山#"
+    }
+  }
+}
