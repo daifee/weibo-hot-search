@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675255026581,
+  "endTime": 1675256128869,
   "band_list": [
     {
       "raw_hot": 4508656,
@@ -123,6 +123,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1699079,
+      "num": 1699079,
+      "word": "教师侵害15名未成年女学生获刑13年",
+      "onboard_time": 1675243532,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1663677,
+      "num": 1663677,
+      "word": "大张伟当着王鸥的面喊杨幂",
+      "onboard_time": 1675253610,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1656576,
       "num": 1656576,
       "word": "胡鑫宇事件新闻发布会明天召开",
@@ -131,20 +147,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1597095,
-      "num": 1597095,
-      "word": "教师侵害15名未成年女学生获刑13年",
-      "onboard_time": 1675243532,
-      "rank": 26,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1497413,
       "num": 1497413,
       "word": "Lisa购买75亿韩元住宅",
       "onboard_time": 1675232370,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1488071,
+      "num": 1488071,
+      "word": "安欣 小五",
+      "onboard_time": 1675254808,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1428865,
+      "num": 1428865,
+      "word": "胡鑫宇事件最新情况",
+      "onboard_time": 1675252528,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1337654,
@@ -171,12 +195,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1303528,
-      "num": 1303528,
-      "word": "胡鑫宇事件最新情况",
-      "onboard_time": 1675252528,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 1307591,
+      "num": 1307591,
+      "word": "高叶也不知道大嫂怎么死的",
+      "onboard_time": 1675252407,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1284222,
@@ -195,28 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1248750,
-      "num": 1248750,
-      "word": "大张伟当着王鸥的面喊杨幂",
-      "onboard_time": 1675253610,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1245488,
       "num": 1245488,
       "word": "网传浪姐4最终拟邀名单",
       "onboard_time": 1675218988,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1203800,
-      "num": 1203800,
-      "word": "高叶也不知道大嫂怎么死的",
-      "onboard_time": 1675252407,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 1180868,
@@ -233,6 +241,14 @@
       "onboard_time": 1675246953,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1162148,
+      "num": 1162148,
+      "word": "高晓晨车祸怎么一点事都没有",
+      "onboard_time": 1675254691,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 1144650,
@@ -307,6 +323,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1062909,
+      "num": 1062909,
+      "word": "黄瑶写给安欣的信",
+      "onboard_time": 1675254151,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1040158,
       "num": 1040158,
       "word": "吴京说易烊千玺王俊凯很努力不骄傲",
@@ -321,6 +345,14 @@
       "onboard_time": 1675223915,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1030275,
+      "num": 1030275,
+      "word": "好烦高晓晨",
+      "onboard_time": 1675254209,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 1018795,
@@ -344,14 +376,6 @@
       "word": "孟钰的包15万",
       "onboard_time": 1675223014,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 953509,
-      "num": 953509,
-      "word": "好烦高晓晨",
-      "onboard_time": 1675254209,
-      "rank": 9,
       "category": "影视"
     },
     {
@@ -411,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 880777,
+      "num": 880777,
+      "word": "黄瑶没有一天不恨高启强",
+      "onboard_time": 1675255473,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 878534,
       "num": 878534,
       "word": "iG战胜EDG",
@@ -424,14 +456,6 @@
       "word": "电影无名票房超过媒体预测",
       "onboard_time": 1675228650,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 849042,
-      "num": 849042,
-      "word": "黄瑶写给安欣的信",
-      "onboard_time": 1675254151,
-      "rank": 10,
       "category": "影视"
     },
     {
@@ -497,6 +521,14 @@
       "onboard_time": 1675242389,
       "rank": 12,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 731023,
+      "num": 731023,
+      "word": "刘亦菲分享第一次插花plog",
+      "onboard_time": 1675255531,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 722699,
@@ -795,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 521818,
+      "num": 521818,
+      "word": "成毅躲镜头",
+      "onboard_time": 1675253850,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 518209,
       "num": 518209,
       "word": "安欣熊猫血",
@@ -891,8 +931,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 448609,
-      "num": 448609,
+      "raw_hot": 450653,
+      "num": 450653,
       "word": "满江红实时票房破35亿",
       "onboard_time": 1675251870,
       "rank": 19,
@@ -1027,19 +1067,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410362,
-      "num": 410362,
-      "word": "成毅躲镜头",
-      "onboard_time": 1675253850,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 407633,
       "num": 407633,
       "word": "流浪地球2单日票房反超满江红",
       "onboard_time": 1675232911,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 407285,
+      "num": 407285,
+      "word": "网传观鹤笔记主演李一桐",
+      "onboard_time": 1675254209,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -1057,6 +1097,22 @@
       "onboard_time": 1675226432,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 395426,
+      "num": 302669,
+      "word": "张杰为马琪芮落选意难平",
+      "onboard_time": 1675255112,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 390542,
+      "num": 390542,
+      "word": "RNG阵容",
+      "onboard_time": 1675254389,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 390228,
@@ -1083,14 +1139,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 385337,
-      "num": 385337,
-      "word": "高晓晨车祸怎么一点事都没有",
-      "onboard_time": 1675254691,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 375486,
       "num": 375486,
       "word": "高叶旧照",
@@ -1105,14 +1153,6 @@
       "onboard_time": 1675245152,
       "rank": 29,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 372999,
-      "num": 372999,
-      "word": "网传观鹤笔记主演李一桐",
-      "onboard_time": 1675254209,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 372011,
@@ -1179,14 +1219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 341451,
-      "num": 341451,
-      "word": "安欣 小五",
-      "onboard_time": 1675254808,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 340335,
       "num": 340335,
       "word": "网易发布暴雪游戏开放退款说明",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1675219109,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329366,
+      "num": 279777,
+      "word": "如果倒退二十年会给高启强饺子吗",
+      "onboard_time": 1675255052,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 326098,
@@ -1435,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260373,
+      "num": 220340,
+      "word": "你会的 还是会的",
+      "onboard_time": 1675255773,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259151,
       "num": 259151,
       "word": "丁程鑫张真源贺峻霖亲亲爱幕后花絮",
@@ -1449,14 +1497,6 @@
       "onboard_time": 1675239088,
       "rank": 33,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 254043,
-      "num": 254043,
-      "word": "RNG阵容",
-      "onboard_time": 1675254389,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 252876,
@@ -1627,6 +1667,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 217354,
+      "num": 217354,
+      "word": "我都想跟你女朋友谈恋爱了",
+      "onboard_time": 1675255352,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214003,
       "num": 214003,
       "word": "江苏卫视元宵晚会全阵容官宣",
@@ -1721,6 +1769,14 @@
       "onboard_time": 1675235789,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197477,
+      "num": 197477,
+      "word": "LNG对战RNG",
+      "onboard_time": 1675251748,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 197283,
@@ -1867,20 +1923,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 178067,
-      "num": 178067,
-      "word": "LNG对战RNG",
-      "onboard_time": 1675251748,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 176253,
       "num": 176253,
       "word": "雷军称喜欢并推崇任天堂",
       "onboard_time": 1675238672,
       "rank": 48,
       "category": "科技,游戏"
+    },
+    {
+      "raw_hot": 172486,
+      "num": 193897,
+      "word": "律师谈爱奇艺限制投屏被起诉",
+      "onboard_time": 1675255590,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 172403,
@@ -2445,6 +2501,9 @@
     },
     {
       "word": "#不断增加高质量产品和服务供给#"
+    },
+    {
+      "word": "#2023全国两会调查#"
     }
   ]
 }
