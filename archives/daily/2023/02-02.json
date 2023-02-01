@@ -1,6 +1,6 @@
 {
   "startTime": 1675268708656,
-  "endTime": 1675271818714,
+  "endTime": 1675272821828,
   "band_list": [
     {
       "raw_hot": 4269276,
@@ -363,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136834,
+      "num": 136834,
+      "word": "GEN战胜DK",
+      "onboard_time": 1675271959,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129407,
       "num": 129407,
       "word": "胡鑫宇事件新闻发布会明天召开",
@@ -417,6 +425,14 @@
       "onboard_time": 1675270703,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67721,
+      "num": 67721,
+      "word": "郭帆回应图恒宇的车祸是否由MOSS造成",
+      "onboard_time": 1675261657,
+      "rank": 46,
+      "category": "影视"
     }
   ],
   "hotgov_list": [

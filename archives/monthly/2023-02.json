@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675271818714,
+  "endTime": 1675272821828,
   "band_list": [
     {
       "raw_hot": 10722665,
@@ -2529,6 +2529,14 @@
       "onboard_time": 1675227276,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136834,
+      "num": 136834,
+      "word": "GEN战胜DK",
+      "onboard_time": 1675271959,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 135421,

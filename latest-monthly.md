@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/01 00:26:13 ~ 2023/02/02 01:16:58
+本榜单时间：2023/02/01 00:26:13 ~ 2023/02/02 01:33:41
 </p>
 </blockquote>
 <p>
@@ -1907,6 +1907,12 @@ Hero团建栖霞山爬山pk（热度：148302）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2%E5%AD%A6%E9%99%A2%E5%90%8D%E5%8E%A8%E6%AF%94%E6%8B%BC%23" target="weibo">
 名侦探学院名厨比拼（热度：139069）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23GEN%E6%88%98%E8%83%9CDK%23" target="weibo">
+GEN战胜DK（热度：136834）
 </a>
 </li>
 
