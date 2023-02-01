@@ -1,10 +1,10 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675257943036,
+  "endTime": 1675258598104,
   "band_list": [
     {
-      "raw_hot": 9151814,
-      "num": 9151814,
+      "raw_hot": 10722665,
+      "num": 10722665,
       "word": "安欣再送饺子 高启强再举杯",
       "onboard_time": 1675256253,
       "rank": 0,
@@ -27,6 +27,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2748285,
+      "num": 2748285,
+      "word": "安欣 小五",
+      "onboard_time": 1675254808,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2743909,
       "num": 2743909,
       "word": "刘强东生子后立即回国工作",
@@ -41,14 +49,6 @@
       "onboard_time": 1675237951,
       "rank": 4,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2713488,
-      "num": 2713488,
-      "word": "安欣 小五",
-      "onboard_time": 1675254808,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 2598630,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1643874,
+      "num": 1643874,
+      "word": "李成洙晒与黄旭熙合照",
+      "onboard_time": 1675257395,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1497413,
       "num": 1497413,
       "word": "Lisa购买75亿韩元住宅",
@@ -192,6 +200,14 @@
       "word": "黄瑶没有一天不恨高启强",
       "onboard_time": 1675255473,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1382241,
+      "num": 950867,
+      "word": "张颂文 演技封神",
+      "onboard_time": 1675257213,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -403,28 +419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 962865,
-      "num": 962865,
-      "word": "李成洙晒与黄旭熙合照",
-      "onboard_time": 1675257395,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 952480,
       "num": 952480,
       "word": "遭辱骂女子被对方举报要求视频下架",
       "onboard_time": 1675176760,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 950867,
-      "num": 950867,
-      "word": "张颂文 演技封神",
-      "onboard_time": 1675257213,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 939879,
@@ -539,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 759931,
+      "num": 545451,
+      "word": "程耳王一博半夜去看无名",
+      "onboard_time": 1675257814,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 739889,
       "num": 739889,
       "word": "女子在婆家被打娘家齐上阵",
@@ -601,6 +609,14 @@
       "onboard_time": 1675221149,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 702069,
+      "num": 543699,
+      "word": "赵立冬死刑",
+      "onboard_time": 1675257575,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 701967,
@@ -676,10 +692,18 @@
     },
     {
       "raw_hot": 638550,
-      "num": 457020,
+      "num": 520494,
       "word": "你会的 还是会的",
       "onboard_time": 1675255773,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 637645,
+      "num": 534575,
+      "word": "狂飙最大保护伞",
+      "onboard_time": 1675257996,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -747,12 +771,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584771,
+      "num": 584771,
+      "word": "主人推门发现6只布偶猫挂在墙上",
+      "onboard_time": 1675256132,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584102,
       "num": 584102,
       "word": "全员加速中",
       "onboard_time": 1675245214,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 583717,
+      "num": 529847,
+      "word": "安警官 新年快乐",
+      "onboard_time": 1675257753,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 577672,
@@ -963,22 +1003,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 468455,
-      "num": 448013,
-      "word": "程耳王一博半夜去看无名",
-      "onboard_time": 1675257814,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 461290,
-      "num": 461290,
-      "word": "主人推门发现6只布偶猫挂在墙上",
-      "onboard_time": 1675256132,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 460903,
       "num": 460903,
       "word": "张译张颂文老来得粉",
@@ -1041,14 +1065,6 @@
       "onboard_time": 1675254389,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 440768,
-      "num": 340443,
-      "word": "安警官 新年快乐",
-      "onboard_time": 1675257753,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 440228,
@@ -1163,14 +1179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 404098,
-      "num": 337698,
-      "word": "赵立冬死刑",
-      "onboard_time": 1675257575,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 398815,
       "num": 398815,
       "word": "杜海涛撑起了吴昕的朋友圈",
@@ -1275,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353567,
+      "num": 353567,
+      "word": "我都想跟你女朋友谈恋爱了",
+      "onboard_time": 1675255352,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 352527,
       "num": 352527,
       "word": "知情人称胡鑫宇饭卡仍在搜寻",
@@ -1329,14 +1345,6 @@
       "onboard_time": 1675223915,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334794,
-      "num": 334794,
-      "word": "我都想跟你女朋友谈恋爱了",
-      "onboard_time": 1675255352,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 331459,
@@ -1409,6 +1417,14 @@
       "onboard_time": 1675220130,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291371,
+      "num": 217568,
+      "word": "我的眼泪狂飙",
+      "onboard_time": 1675258299,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 288018,
@@ -1875,6 +1891,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 193537,
+      "num": 2722179,
+      "word": "春天的脚步越来越近了",
+      "onboard_time": 1675256253,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190006,
       "num": 190006,
       "word": "二刷流浪地球2才看懂的细节",
@@ -2067,20 +2091,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166295,
+      "num": 166295,
+      "word": "LNG战胜RNG",
+      "onboard_time": 1675258116,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 166161,
+      "num": 166161,
+      "word": "女子花100万在农村建120平3层房",
+      "onboard_time": 1675258356,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164205,
       "num": 164205,
       "word": "猫咪教会我的那些小事",
       "onboard_time": 1675240591,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 163360,
-      "num": 2722179,
-      "word": "春天的脚步越来越近了",
-      "onboard_time": 1675256253,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161901,
@@ -2128,6 +2160,14 @@
       "word": "福建广东多个沿海大省开启抢人模式",
       "onboard_time": 1675187476,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157708,
+      "num": 157708,
+      "word": "边牧吃醋将主人养了5年金毛拐跑",
+      "onboard_time": 1675258537,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2459,6 +2499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59488,
+      "num": 964970,
+      "word": "2023年了这些谣言你还在信吗",
+      "onboard_time": 1675256974,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57822,
       "num": 57822,
       "word": "三体叶文洁被PUA",
@@ -2536,14 +2584,6 @@
       "word": "女子给自行车架套袋丝滑度拉满",
       "onboard_time": 1675186099,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36271,
-      "num": 964970,
-      "word": "2023年了这些谣言你还在信吗",
-      "onboard_time": 1675256974,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
