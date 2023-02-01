@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675247775280,
+  "endTime": 1675250154732,
   "band_list": [
     {
       "raw_hot": 3530109,
@@ -49,6 +49,14 @@
       "onboard_time": 1675220609,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2153862,
+      "num": 2153862,
+      "word": "狂飙大结局",
+      "onboard_time": 1675249470,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 2048472,
@@ -104,6 +112,14 @@
       "word": "女子找熟人25万装房子成精简风",
       "onboard_time": 1675220790,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1656576,
+      "num": 1656576,
+      "word": "胡鑫宇事件新闻发布会明天召开",
+      "onboard_time": 1675246953,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -267,6 +283,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 989030,
+      "num": 989030,
+      "word": "上海阿姨地铁抢座说不欢迎外地人",
+      "onboard_time": 1675246173,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 980061,
+      "num": 980061,
+      "word": "iG正统在iG",
+      "onboard_time": 1675247254,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 975836,
       "num": 975836,
       "word": "孟钰的包15万",
@@ -289,6 +321,14 @@
       "onboard_time": 1675214610,
       "rank": 4,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 925329,
+      "num": 925329,
+      "word": "吴京说易烊千玺王俊凯很努力不骄傲",
+      "onboard_time": 1675246834,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 907785,
@@ -369,6 +409,14 @@
       "onboard_time": 1675221751,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 772724,
+      "num": 772724,
+      "word": "谢楠 见刘德华我怎么也得化个全妆",
+      "onboard_time": 1675246532,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 764998,
@@ -515,14 +563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 612376,
-      "num": 612376,
-      "word": "吴京说易烊千玺王俊凯很努力不骄傲",
-      "onboard_time": 1675246834,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 607402,
       "num": 607402,
       "word": "第一次见这么帅的鸡",
@@ -595,12 +635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 563611,
-      "num": 563611,
-      "word": "上海阿姨地铁抢座说不欢迎外地人",
-      "onboard_time": 1675246173,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 560769,
+      "num": 560769,
+      "word": "撒娇对男生到底好不好用",
+      "onboard_time": 1675245393,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 556822,
@@ -675,20 +715,20 @@
       "category": "幽默,影视"
     },
     {
-      "raw_hot": 528816,
-      "num": 528816,
-      "word": "谢楠 见刘德华我怎么也得化个全妆",
-      "onboard_time": 1675246532,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 526468,
       "num": 526468,
       "word": "迪丽热巴安乐传蓝色纱裙路透",
       "onboard_time": 1675244732,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 522342,
+      "num": 522342,
+      "word": "iG对战EDG",
+      "onboard_time": 1675243351,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 518209,
@@ -723,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499027,
+      "num": 318075,
+      "word": "iG战胜EDG",
+      "onboard_time": 1675250131,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 498518,
       "num": 294108,
       "word": "疑似胡鑫宇生前笔记披露",
@@ -739,20 +787,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 489781,
+      "num": 489781,
+      "word": "YSKM好帅",
+      "onboard_time": 1675248512,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 488673,
       "num": 488673,
       "word": "狂飙大嫂海报细节",
       "onboard_time": 1675237230,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 485812,
-      "num": 485812,
-      "word": "撒娇对男生到底好不好用",
-      "onboard_time": 1675245393,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 478606,
@@ -817,6 +865,14 @@
       "onboard_time": 1675180171,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 439632,
+      "num": 439632,
+      "word": "王一博王传君无名逗狗反被吓",
+      "onboard_time": 1675248931,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 435341,
@@ -929,14 +985,6 @@
       "onboard_time": 1675181966,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 388541,
-      "num": 388541,
-      "word": "iG对战EDG",
-      "onboard_time": 1675243351,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 387711,
@@ -1059,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334589,
-      "num": 334589,
-      "word": "iG正统在iG",
-      "onboard_time": 1675247254,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 330936,
       "num": 342217,
       "word": "国家队团建式喊话流浪地球",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1675229070,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317180,
+      "num": 317180,
+      "word": "狂飙演员谈和张译合作感受",
+      "onboard_time": 1675248633,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 304844,
@@ -1227,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267999,
+      "num": 267999,
+      "word": "iG青春风暴",
+      "onboard_time": 1675248333,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 266994,
       "num": 266994,
       "word": "1岁萌娃躺地耍赖父母转身离开",
@@ -1235,12 +1291,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266240,
+      "num": 266240,
+      "word": "邢菲武庚纪路透",
+      "onboard_time": 1675248814,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 260522,
+      "num": 260522,
+      "word": "杨紫二月开工照",
+      "onboard_time": 1675248090,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260403,
       "num": 265984,
       "word": "长沙望城发现3头长江江豚",
       "onboard_time": 1675227516,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260345,
+      "num": 260345,
+      "word": "王者伽罗新皮肤",
+      "onboard_time": 1675247913,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 259151,
@@ -1305,6 +1385,14 @@
       "onboard_time": 1675164762,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 235859,
+      "num": 235859,
+      "word": "王嘉尔EPIKHIGH合作曲",
+      "onboard_time": 1675249649,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 235834,
