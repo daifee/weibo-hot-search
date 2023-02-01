@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675243121628,
+  "endTime": 1675244029805,
   "band_list": [
     {
       "raw_hot": 3530109,
@@ -35,8 +35,8 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 2399590,
-      "num": 2399590,
+      "raw_hot": 2482707,
+      "num": 2482707,
       "word": "没鼻梁的人有福了",
       "onboard_time": 1675239510,
       "rank": 44,
@@ -91,19 +91,19 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 1735687,
+      "num": 1735687,
+      "word": "人民网评6岁男童进女厕事件",
+      "onboard_time": 1675240232,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1709231,
       "num": 1709231,
       "word": "女子找熟人25万装房子成精简风",
       "onboard_time": 1675220790,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1536863,
-      "num": 1536863,
-      "word": "人民网评6岁男童进女厕事件",
-      "onboard_time": 1675240232,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 734647,
+      "num": 734647,
+      "word": "网传肖战将参加米兰时装周",
+      "onboard_time": 1675242389,
+      "rank": 12,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 719649,
       "num": 719649,
       "word": "狂飙口型对不上",
@@ -353,6 +361,14 @@
       "onboard_time": 1675222111,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 712969,
+      "num": 712969,
+      "word": "咒术回战",
+      "onboard_time": 1675241852,
+      "rank": 20,
+      "category": "动漫"
     },
     {
       "raw_hot": 705822,
@@ -377,6 +393,14 @@
       "onboard_time": 1675178376,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 698136,
+      "num": 698136,
+      "word": "游客偷带食物喂兔子致大批死亡",
+      "onboard_time": 1675241491,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 695940,
@@ -427,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 631160,
-      "num": 631160,
-      "word": "游客偷带食物喂兔子致大批死亡",
-      "onboard_time": 1675241491,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 607402,
       "num": 607402,
       "word": "第一次见这么帅的鸡",
@@ -449,14 +465,6 @@
       "onboard_time": 1675231349,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 592011,
-      "num": 592011,
-      "word": "网传肖战将参加米兰时装周",
-      "onboard_time": 1675242389,
-      "rank": 12,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 590817,
@@ -619,12 +627,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477099,
+      "num": 477099,
+      "word": "唐嫣接孙坚用跑的",
+      "onboard_time": 1675242389,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 476113,
       "num": 476113,
       "word": "网传蔡徐坤将参加米兰时装周",
       "onboard_time": 1675233812,
       "rank": 16,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 460903,
+      "num": 460903,
+      "word": "张译张颂文老来得粉",
+      "onboard_time": 1675242150,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 452293,
+      "num": 452293,
+      "word": "爱奇艺发文回应",
+      "onboard_time": 1675243053,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 450850,
+      "num": 450850,
+      "word": "东北担担面的含糖量有多高",
+      "onboard_time": 1675241671,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 446794,
@@ -779,14 +819,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 384414,
-      "num": 384414,
-      "word": "张译张颂文老来得粉",
-      "onboard_time": 1675242150,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 375486,
       "num": 375486,
       "word": "高叶旧照",
@@ -859,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342521,
-      "num": 342521,
-      "word": "东北担担面的含糖量有多高",
-      "onboard_time": 1675241671,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 340335,
       "num": 340335,
       "word": "网易发布暴雪游戏开放退款说明",
@@ -881,14 +905,6 @@
       "onboard_time": 1675234231,
       "rank": 22,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 336501,
-      "num": 336501,
-      "word": "咒术回战",
-      "onboard_time": 1675241852,
-      "rank": 20,
-      "category": "动漫"
     },
     {
       "raw_hot": 334993,
@@ -945,14 +961,6 @@
       "onboard_time": 1675214909,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297099,
-      "num": 297099,
-      "word": "唐嫣接孙坚用跑的",
-      "onboard_time": 1675242389,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 295220,
@@ -1067,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257309,
+      "num": 257309,
+      "word": "教师侵害15名未成年女学生获刑13年",
+      "onboard_time": 1675243532,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 255774,
       "num": 255774,
       "word": "郭帆拍流浪地球2最爱看科学家吵架",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1675164762,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 235997,
+      "num": 235997,
+      "word": "iG对战EDG",
+      "onboard_time": 1675243351,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 235834,
@@ -1219,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210950,
+      "num": 210950,
+      "word": "高启强被馋哭了",
+      "onboard_time": 1675242329,
+      "rank": 41,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 208045,
       "num": 208045,
       "word": "春节档电影联合感谢观众",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1675232370,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 198796,
+      "num": 198796,
+      "word": "古代人一封手写信可以包含多少情感",
+      "onboard_time": 1675244010,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 198664,
@@ -1313,6 +1353,14 @@
       "onboard_time": 1675238431,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189946,
+      "num": 189946,
+      "word": "网友偶遇沈腾桂林游玩",
+      "onboard_time": 1675243831,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 189688,
@@ -1419,6 +1467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179716,
+      "num": 179716,
+      "word": "福建特产二选一你会选哪个",
+      "onboard_time": 1675243470,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 176253,
       "num": 176253,
       "word": "雷军称喜欢并推崇任天堂",
@@ -1467,14 +1523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164302,
-      "num": 164302,
-      "word": "高启强被馋哭了",
-      "onboard_time": 1675242329,
-      "rank": 41,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 164205,
       "num": 164205,
       "word": "猫咪教会我的那些小事",
@@ -1507,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160211,
+      "num": 160211,
+      "word": "原来狗子玩游戏也会上头",
+      "onboard_time": 1675243169,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159053,
       "num": 159053,
       "word": "电锯人",
@@ -1521,6 +1577,14 @@
       "onboard_time": 1675187476,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156897,
+      "num": 156897,
+      "word": "小说里的大嫂从此有脸了",
+      "onboard_time": 1675243710,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 153915,
@@ -1649,14 +1713,6 @@
       "onboard_time": 1675227276,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138370,
-      "num": 138370,
-      "word": "爱奇艺发文回应",
-      "onboard_time": 1675243053,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 135421,
@@ -1803,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78108,
+      "num": 2043644,
+      "word": "花海为祖国山河开启温柔滤镜",
+      "onboard_time": 1675241852,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75438,
       "num": 75438,
       "word": "彭于晏你着急吗",
@@ -1857,14 +1921,6 @@
       "onboard_time": 1675173454,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 57149,
-      "num": 1669587,
-      "word": "花海为祖国山河开启温柔滤镜",
-      "onboard_time": 1675241852,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55997,
