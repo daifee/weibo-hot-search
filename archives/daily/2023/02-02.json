@@ -1,6 +1,6 @@
 {
   "startTime": 1675268708656,
-  "endTime": 1675290880817,
+  "endTime": 1675293538824,
   "band_list": [
     {
       "raw_hot": 4269276,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 866464,
+      "num": 866464,
+      "word": "大润发回应女员工因照顾病危父亲请假遭开除",
+      "onboard_time": 1675286351,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 829006,
       "num": 829006,
       "word": "90后丁克夫妻被双方父母轮番催生",
@@ -99,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 655259,
-      "num": 655259,
+      "raw_hot": 656134,
+      "num": 656134,
       "word": "男子7楼打开门却是13楼邻居家",
       "onboard_time": 1675267110,
       "rank": 15,
@@ -161,14 +169,6 @@
       "onboard_time": 1675262316,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 333552,
-      "num": 88167,
-      "word": "大润发回应女员工因照顾病危父亲请假遭开除",
-      "onboard_time": 1675286351,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325422,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258453,
+      "num": 219723,
+      "word": "2022年全国城市GDP十强全部出炉",
+      "onboard_time": 1675289772,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 256517,
       "num": 168029,
       "word": "陈铚研林鹏翔官宣",
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210420,
+      "num": 210420,
+      "word": "阻止男童进女厕当事人称希望对方道歉",
+      "onboard_time": 1675279512,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203551,
       "num": 128573,
       "word": "程耳王一博半夜去看无名",
@@ -321,6 +337,14 @@
       "onboard_time": 1675278193,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179855,
+      "num": 179855,
+      "word": "女子到男友舅舅家拜年盗走5万元",
+      "onboard_time": 1675280892,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177448,
@@ -371,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152802,
-      "num": 152802,
-      "word": "阻止男童进女厕当事人称希望对方道歉",
-      "onboard_time": 1675279512,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150880,
       "num": 118813,
       "word": "教师侵害15名未成年女学生获刑13年",
@@ -393,6 +409,14 @@
       "onboard_time": 1675260876,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145486,
+      "num": 145486,
+      "word": "庄达菲张艺凡挽手路透",
+      "onboard_time": 1675292416,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 136834,
@@ -443,12 +467,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110639,
+      "num": 110639,
+      "word": "6岁萌娃耍大蛇奶凶奶凶跳英歌舞",
+      "onboard_time": 1675291155,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95709,
+      "num": 95709,
+      "word": "狂飙导演回应吃肠粉不加酱油",
+      "onboard_time": 1675280232,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 88610,
       "num": 1872251,
       "word": "春天的脚步越来越近了",
       "onboard_time": 1675256253,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85739,
+      "num": 84399,
+      "word": "鱼跃医疗被罚后消费者能否退差价",
+      "onboard_time": 1675291934,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81737,
+      "num": 81737,
+      "word": "刘宇宁折腰喉结鲨路透视频",
+      "onboard_time": 1675293078,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 76680,
@@ -459,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73802,
-      "num": 73802,
-      "word": "女子到男友舅舅家拜年盗走5万元",
-      "onboard_time": 1675280892,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 76251,
+      "num": 76251,
+      "word": "舍不得张译安欣",
+      "onboard_time": 1675293378,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 67721,
@@ -472,22 +528,6 @@
       "word": "郭帆回应图恒宇的车祸是否由MOSS造成",
       "onboard_time": 1675261657,
       "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 49223,
-      "num": 49223,
-      "word": "2022年全国城市GDP十强全部出炉",
-      "onboard_time": 1675289772,
-      "rank": 48,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 42311,
-      "num": 42311,
-      "word": "狂飙导演回应吃肠粉不加酱油",
-      "onboard_time": 1675280232,
-      "rank": 45,
       "category": "影视"
     },
     {
