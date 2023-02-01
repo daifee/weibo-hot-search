@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675256128869,
+  "endTime": 1675257943036,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -25,6 +25,14 @@
       "onboard_time": 1675149175,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9151814,
+      "num": 9151814,
+      "word": "安欣再送饺子 高启强再举杯",
+      "onboard_time": 1675256253,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 5177292,
@@ -121,6 +129,14 @@
       "onboard_time": 1675237951,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2713488,
+      "num": 2713488,
+      "word": "安欣 小五",
+      "onboard_time": 1675254808,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 2703419,
@@ -347,6 +363,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1828166,
+      "num": 1828166,
+      "word": "高晓晨车祸怎么一点事都没有",
+      "onboard_time": 1675254691,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1822580,
       "num": 1822580,
       "word": "杨健你糊涂啊",
@@ -369,6 +393,14 @@
       "onboard_time": 1675240232,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1719004,
+      "num": 1719004,
+      "word": "大张伟当着王鸥的面喊杨幂",
+      "onboard_time": 1675253610,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1717522,
@@ -401,14 +433,6 @@
       "onboard_time": 1675143990,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1663677,
-      "num": 1663677,
-      "word": "大张伟当着王鸥的面喊杨幂",
-      "onboard_time": 1675253610,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1656576,
@@ -515,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1488071,
-      "num": 1488071,
-      "word": "安欣 小五",
-      "onboard_time": 1675254808,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1476949,
       "num": 1476949,
       "word": "狂飙一下子变乱飙",
@@ -547,12 +563,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1428865,
-      "num": 1428865,
+      "raw_hot": 1441443,
+      "num": 1441443,
       "word": "胡鑫宇事件最新情况",
       "onboard_time": 1675252528,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1428357,
+      "num": 1428357,
+      "word": "黄瑶没有一天不恨高启强",
+      "onboard_time": 1675255473,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 1427669,
@@ -801,14 +825,6 @@
       "onboard_time": 1675246953,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1162148,
-      "num": 1162148,
-      "word": "高晓晨车祸怎么一点事都没有",
-      "onboard_time": 1675254691,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 1144650,
@@ -1083,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 992891,
+      "num": 968384,
+      "word": "高启强被执行死刑",
+      "onboard_time": 1675256253,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 987325,
       "num": 531418,
       "word": "胡鑫宇所在学校宿舍墙外就是金鸡山脚下",
@@ -1123,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 962865,
+      "num": 962865,
+      "word": "李成洙晒与黄旭熙合照",
+      "onboard_time": 1675257395,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 960344,
       "num": 960344,
       "word": "胡鑫宇家属称尚不清楚录音笔内容",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1675176760,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 950867,
+      "num": 950867,
+      "word": "张颂文 演技封神",
+      "onboard_time": 1675257213,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 939879,
@@ -1256,14 +1296,6 @@
       "word": "狂飙第三个内鬼",
       "onboard_time": 1674995554,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 880777,
-      "num": 880777,
-      "word": "黄瑶没有一天不恨高启强",
-      "onboard_time": 1675255473,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -1859,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638550,
+      "num": 457020,
+      "word": "你会的 还是会的",
+      "onboard_time": 1675255773,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 637328,
       "num": 637328,
       "word": "这螃蟹怎么虾里虾气的",
@@ -2249,6 +2289,14 @@
       "onboard_time": 1675225054,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 541367,
+      "num": 450324,
+      "word": "黄瑶向安欣举报高启强",
+      "onboard_time": 1675256193,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 540549,
@@ -2651,6 +2699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 468455,
+      "num": 448013,
+      "word": "程耳王一博半夜去看无名",
+      "onboard_time": 1675257814,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 467214,
       "num": 467214,
       "word": "张译开自动回复吧",
@@ -2673,6 +2729,14 @@
       "onboard_time": 1674994652,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 461290,
+      "num": 461290,
+      "word": "主人推门发现6只布偶猫挂在墙上",
+      "onboard_time": 1675256132,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460903,
@@ -2809,6 +2873,22 @@
       "onboard_time": 1675093592,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441549,
+      "num": 441549,
+      "word": "RNG阵容",
+      "onboard_time": 1675254389,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 440768,
+      "num": 340443,
+      "word": "安警官 新年快乐",
+      "onboard_time": 1675257753,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 440228,
@@ -3035,6 +3115,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 404098,
+      "num": 337698,
+      "word": "赵立冬死刑",
+      "onboard_time": 1675257575,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 403803,
       "num": 389191,
       "word": "秦霄贤新发色",
@@ -3113,14 +3201,6 @@
       "onboard_time": 1675160619,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390542,
-      "num": 390542,
-      "word": "RNG阵容",
-      "onboard_time": 1675254389,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 390228,
@@ -3569,6 +3649,14 @@
       "onboard_time": 1675069409,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 334794,
+      "num": 334794,
+      "word": "我都想跟你女朋友谈恋爱了",
+      "onboard_time": 1675255352,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 332936,
@@ -4059,6 +4147,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 277397,
+      "num": 277397,
+      "word": "LNG对战RNG",
+      "onboard_time": 1675251748,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 277265,
       "num": 277265,
       "word": "安欣成功卧底当大嫂",
@@ -4315,14 +4411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260373,
-      "num": 220340,
-      "word": "你会的 还是会的",
-      "onboard_time": 1675255773,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 260342,
       "num": 260342,
       "word": "吉林高三女孩郑春梅",
@@ -4376,6 +4464,14 @@
       "word": "如果安欣没有拒绝孟钰",
       "onboard_time": 1675050088,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 256588,
+      "num": 256588,
+      "word": "狂飙 boss",
+      "onboard_time": 1675257877,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -4867,14 +4963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217354,
-      "num": 217354,
-      "word": "我都想跟你女朋友谈恋爱了",
-      "onboard_time": 1675255352,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 216900,
       "num": 216900,
       "word": "宋亚轩刘耀文嘟嘴",
@@ -5249,14 +5337,6 @@
       "onboard_time": 1675235789,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197477,
-      "num": 197477,
-      "word": "LNG对战RNG",
-      "onboard_time": 1675251748,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 197283,
@@ -6025,6 +6105,14 @@
       "onboard_time": 1675058973,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163360,
+      "num": 2722179,
+      "word": "春天的脚步越来越近了",
+      "onboard_time": 1675256253,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162168,
@@ -6912,6 +7000,14 @@
       "word": "女子给自行车架套袋丝滑度拉满",
       "onboard_time": 1675186099,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36271,
+      "num": 964970,
+      "word": "2023年了这些谣言你还在信吗",
+      "onboard_time": 1675256974,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
