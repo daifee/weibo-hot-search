@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675220798347,
+  "endTime": 1675222140120,
   "band_list": [
     {
       "raw_hot": 3530109,
@@ -27,6 +27,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1784307,
+      "num": 480874,
+      "word": "刘强东生子后立即回国工作",
+      "onboard_time": 1675221032,
+      "rank": 10,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1249649,
       "num": 1249649,
       "word": "男孩撸猫后发烧12天腋下长鸡蛋大肿块",
@@ -35,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1200428,
-      "num": 1200428,
+      "raw_hot": 1215927,
+      "num": 1215927,
       "word": "网传浪姐4最终拟邀名单",
       "onboard_time": 1675218988,
       "rank": 5,
@@ -75,6 +83,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1016922,
+      "num": 473153,
+      "word": "伊朗情侣公开场合跳舞被判10年",
+      "onboard_time": 1675220609,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1000148,
+      "num": 447825,
+      "word": "女子找熟人25万装房子成精简风",
+      "onboard_time": 1675220790,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 952480,
       "num": 952480,
       "word": "遭辱骂女子被对方举报要求视频下架",
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 907785,
-      "num": 483431,
+      "num": 640926,
       "word": "王嘉晨回应狂飙拍了100集是玩笑",
       "onboard_time": 1675219949,
       "rank": 30,
@@ -211,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 544437,
+      "num": 434333,
+      "word": "今天是李响头七",
+      "onboard_time": 1675220849,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 533679,
       "num": 533679,
       "word": "哥哥用打火机把弟弟寒假作业烤没",
@@ -292,7 +324,7 @@
     },
     {
       "raw_hot": 423300,
-      "num": 423300,
+      "num": 501196,
       "word": "刘慈欣称太空电梯最难是材料",
       "onboard_time": 1675218452,
       "rank": 14,
@@ -312,6 +344,14 @@
       "word": "胡鑫宇购买录音笔数据删除后无法恢复",
       "onboard_time": 1675150696,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413100,
+      "num": 413100,
+      "word": "昆山一男医生社交平台发女患者私密照",
+      "onboard_time": 1675221451,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -337,6 +377,14 @@
       "onboard_time": 1675208545,
       "rank": 15,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 379698,
+      "num": 379698,
+      "word": "颖儿赵露思合照",
+      "onboard_time": 1675219647,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 353660,
@@ -371,20 +419,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330213,
+      "num": 330213,
+      "word": "张颂文和巩俐走红毯",
+      "onboard_time": 1675221149,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326098,
       "num": 326098,
       "word": "胡鑫宇哥哥正在北京全程见证录音笔的鉴定",
       "onboard_time": 1675158638,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319648,
-      "num": 319648,
-      "word": "颖儿赵露思合照",
-      "onboard_time": 1675219647,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 304844,
@@ -401,6 +449,22 @@
       "onboard_time": 1675214909,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295220,
+      "num": 295220,
+      "word": "谭松韵二月在剧组拍戏",
+      "onboard_time": 1675220130,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 286538,
+      "num": 286538,
+      "word": "狂飙全员rapper",
+      "onboard_time": 1675220490,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 285449,
@@ -435,14 +499,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 266177,
-      "num": 266177,
-      "word": "谭松韵二月在剧组拍戏",
-      "onboard_time": 1675220130,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247993,
       "num": 247993,
       "word": "郭帆证实流浪地球3会有图恒宇",
@@ -472,6 +528,14 @@
       "word": "这些戏都是张译设计的",
       "onboard_time": 1675179335,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 242765,
+      "num": 242765,
+      "word": "利刃出鞘翻车",
+      "onboard_time": 1675220431,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -515,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222688,
-      "num": 207143,
-      "word": "狂飙全员rapper",
-      "onboard_time": 1675220490,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 221164,
       "num": 221164,
       "word": "狂飙全体喊到名场面有现实原型",
@@ -563,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197639,
+      "num": 197639,
+      "word": "苹果或2025年推出可折叠笔记本",
+      "onboard_time": 1675221451,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 197283,
       "num": 197283,
       "word": "几代民警接力找到被拐32年男孩",
@@ -579,20 +643,28 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 193469,
-      "num": 193469,
-      "word": "伊朗情侣公开场合跳舞被判10年",
-      "onboard_time": 1675220609,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189688,
       "num": 189688,
       "word": "恋与制作人",
       "onboard_time": 1675180052,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188740,
+      "num": 188740,
+      "word": "女生大学四年攒钱给妈妈买房",
+      "onboard_time": 1675221751,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188096,
+      "num": 188096,
+      "word": "国家队团建式喊话流浪地球",
+      "onboard_time": 1675221933,
+      "rank": 35,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 186200,
@@ -627,12 +699,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 162184,
-      "num": 162184,
+      "raw_hot": 171076,
+      "num": 171076,
       "word": "安徽的非遗鱼灯可以有多美",
       "onboard_time": 1675220250,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161901,
+      "num": 161901,
+      "word": "Apex手游5月停运",
+      "onboard_time": 1675220369,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 160724,
@@ -667,12 +747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155775,
-      "num": 155775,
-      "word": "Apex手游5月停运",
-      "onboard_time": 1675220369,
+      "raw_hot": 154967,
+      "num": 154967,
+      "word": "湖人vs尼克斯",
+      "onboard_time": 1675220970,
       "rank": 42,
-      "category": "游戏"
+      "category": "体育"
     },
     {
       "raw_hot": 153915,
@@ -681,6 +761,14 @@
       "onboard_time": 1675176105,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151665,
+      "num": 151665,
+      "word": "日本考虑放宽对中国旅客入境管控",
+      "onboard_time": 1675221389,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149883,
@@ -707,11 +795,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147421,
-      "num": 147421,
-      "word": "利刃出鞘翻车",
-      "onboard_time": 1675220431,
-      "rank": 45,
+      "raw_hot": 145921,
+      "num": 145921,
+      "word": "孟德海到底是不是保护伞",
+      "onboard_time": 1675222111,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -745,14 +833,6 @@
       "onboard_time": 1675217247,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139872,
-      "num": 139872,
-      "word": "女子找熟人25万装房子成精简风",
-      "onboard_time": 1675220790,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135421,

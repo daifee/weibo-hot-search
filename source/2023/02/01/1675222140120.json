@@ -1,0 +1,410 @@
+{
+  "runTime": 1675222140120,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1932714,
+        "num": 1932714,
+        "word": "夫妻连续两胎均性别难辨",
+        "onboard_time": 1675216106,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1215927,
+        "num": 1215927,
+        "word": "网传浪姐4最终拟邀名单",
+        "onboard_time": 1675218988,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33596,
+        "num": 1179762,
+        "word": "1月份制造业PMI升至50.1%",
+        "onboard_time": 1675170759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167428,
+        "num": 1167428,
+        "word": "王嘉晨",
+        "onboard_time": 1675216467,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 994269,
+        "num": 994269,
+        "word": "iPhone16或仅最高端机型配潜望式镜头",
+        "onboard_time": 1675217367,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 932048,
+        "num": 932048,
+        "word": "女子恋爱6年被分手报警讨说法",
+        "onboard_time": 1675215628,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647776,
+        "num": 647776,
+        "word": "扎堆提前还房贷并不可取",
+        "onboard_time": 1675214610,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 640926,
+        "num": 640926,
+        "word": "王嘉晨回应狂飙拍了100集是玩笑",
+        "onboard_time": 1675219949,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 505512,
+        "num": 505512,
+        "word": "哥哥用打火机把弟弟寒假作业烤没",
+        "onboard_time": 1675217428,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423049,
+        "num": 501196,
+        "word": "刘慈欣称太空电梯最难是材料",
+        "onboard_time": 1675218452,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1784307,
+        "num": 480874,
+        "word": "刘强东生子后立即回国工作",
+        "onboard_time": 1675221032,
+        "rank": 10,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1016922,
+        "num": 473153,
+        "word": "伊朗情侣公开场合跳舞被判10年",
+        "onboard_time": 1675220609,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1000148,
+        "num": 447825,
+        "word": "女子找熟人25万装房子成精简风",
+        "onboard_time": 1675220790,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544437,
+        "num": 434333,
+        "word": "今天是李响头七",
+        "onboard_time": 1675220849,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 433140,
+        "num": 433140,
+        "word": "近三年房贷成本累计减少16%",
+        "onboard_time": 1675218568,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 498777,
+        "num": 429860,
+        "word": "张译张颂文狂飙今日大结局",
+        "onboard_time": 1675212389,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413100,
+        "num": 413100,
+        "word": "昆山一男医生社交平台发女患者私密照",
+        "onboard_time": 1675221451,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379698,
+        "num": 379698,
+        "word": "颖儿赵露思合照",
+        "onboard_time": 1675219647,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357169,
+        "num": 357169,
+        "word": "第一次见这么帅的鸡",
+        "onboard_time": 1675213529,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 346758,
+        "num": 346758,
+        "word": "电影无名2月17日北美上映",
+        "onboard_time": 1675216831,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336671,
+        "num": 336671,
+        "word": "流浪地球2里的机甲不是特效",
+        "onboard_time": 1675212449,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330213,
+        "num": 330213,
+        "word": "张颂文和巩俐走红毯",
+        "onboard_time": 1675221149,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295220,
+        "num": 295220,
+        "word": "谭松韵二月在剧组拍戏",
+        "onboard_time": 1675220130,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286538,
+        "num": 286538,
+        "word": "狂飙全员rapper",
+        "onboard_time": 1675220490,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272449,
+        "num": 272449,
+        "word": "刘诗诗2月库存小街拍",
+        "onboard_time": 1675219590,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266894,
+        "num": 266894,
+        "word": "遭辱骂女子被对方举报要求视频下架",
+        "onboard_time": 1675176760,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255377,
+        "num": 255377,
+        "word": "切尔西1.2亿欧签下恩佐",
+        "onboard_time": 1675209445,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242765,
+        "num": 242765,
+        "word": "利刃出鞘翻车",
+        "onboard_time": 1675220431,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220285,
+        "num": 220285,
+        "word": "妻子陪丈夫义务打捞垃圾36年",
+        "onboard_time": 1675217969,
+        "rank": 28,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 217044,
+        "num": 217044,
+        "word": "情侣婚前是否有必要同居",
+        "onboard_time": 1675177776,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215146,
+        "num": 215146,
+        "word": "缉毒警说头发已熬白还怕熬不过毒贩吗",
+        "onboard_time": 1675215986,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209578,
+        "num": 209578,
+        "word": "杨晓培晒与赵露思合影",
+        "onboard_time": 1675219109,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200017,
+        "num": 200017,
+        "word": "北京明白真明白了没有",
+        "onboard_time": 1675214909,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197639,
+        "num": 197639,
+        "word": "苹果或2025年推出可折叠笔记本",
+        "onboard_time": 1675221451,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 188740,
+        "num": 188740,
+        "word": "女生大学四年攒钱给妈妈买房",
+        "onboard_time": 1675221751,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188096,
+        "num": 188096,
+        "word": "国家队团建式喊话流浪地球",
+        "onboard_time": 1675221933,
+        "rank": 35,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 186543,
+        "num": 186543,
+        "word": "猫咪慢性呕吐2个月胃中塞满线绳",
+        "onboard_time": 1675181966,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179570,
+        "num": 179570,
+        "word": "流浪地球2引入全程预拍摄",
+        "onboard_time": 1675219647,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171076,
+        "num": 171076,
+        "word": "安徽的非遗鱼灯可以有多美",
+        "onboard_time": 1675220250,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170060,
+        "num": 170060,
+        "word": "金希澈续约",
+        "onboard_time": 1675178376,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161901,
+        "num": 161901,
+        "word": "Apex手游5月停运",
+        "onboard_time": 1675220369,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156058,
+        "num": 156058,
+        "word": "中疾控科普CH.1.1变异株",
+        "onboard_time": 1675209927,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154967,
+        "num": 154967,
+        "word": "湖人vs尼克斯",
+        "onboard_time": 1675220970,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154199,
+        "num": 154199,
+        "word": "特斯拉2022年在华营收181亿美元",
+        "onboard_time": 1675217011,
+        "rank": 43,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 153042,
+        "num": 153042,
+        "word": "父子身陷泥潭父亲舍命托举儿子",
+        "onboard_time": 1675212748,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152089,
+        "num": 152089,
+        "word": "妈妈先抱弟弟引女儿委屈质问",
+        "onboard_time": 1675180951,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151665,
+        "num": 151665,
+        "word": "日本考虑放宽对中国旅客入境管控",
+        "onboard_time": 1675221389,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148043,
+        "num": 148043,
+        "word": "河南新设立九所高校",
+        "onboard_time": 1675208545,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 145921,
+        "num": 145921,
+        "word": "孟德海到底是不是保护伞",
+        "onboard_time": 1675222111,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144995,
+        "num": 144995,
+        "word": "京海唯一纯白的茉莉花",
+        "onboard_time": 1675175377,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#原来有这么多诗词描写祖国大好河山#"
+    }
+  }
+}
