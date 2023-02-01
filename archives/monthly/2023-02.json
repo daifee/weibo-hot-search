@@ -1,13 +1,21 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675216112775,
+  "endTime": 1675217594711,
   "band_list": [
     {
-      "raw_hot": 2707410,
-      "num": 2707410,
+      "raw_hot": 3530109,
+      "num": 3530109,
       "word": "狂飙拍了100集",
       "onboard_time": 1675215150,
       "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1928641,
+      "num": 949008,
+      "word": "王嘉晨",
+      "onboard_time": 1675216467,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -27,6 +35,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1065978,
+      "num": 1065978,
+      "word": "女子恋爱6年被分手报警讨说法",
+      "onboard_time": 1675215628,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1018795,
       "num": 556762,
       "word": "胡歌 我当爸爸啦",
@@ -41,6 +57,22 @@
       "onboard_time": 1675176760,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 943929,
+      "num": 523802,
+      "word": "夫妻连续两胎均性别难辨",
+      "onboard_time": 1675216106,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 939879,
+      "num": 939879,
+      "word": "扎堆提前还房贷并不可取",
+      "onboard_time": 1675214610,
+      "rank": 4,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 907306,
@@ -68,7 +100,7 @@
     },
     {
       "raw_hot": 764998,
-      "num": 617177,
+      "num": 688999,
       "word": "张译张颂文狂飙今日大结局",
       "onboard_time": 1675212389,
       "rank": 7,
@@ -107,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 663733,
-      "num": 663733,
-      "word": "扎堆提前还房贷并不可取",
-      "onboard_time": 1675214610,
-      "rank": 4,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 656396,
       "num": 656396,
       "word": "流浪地球2里的机甲不是特效",
@@ -131,11 +155,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 607402,
+      "num": 607402,
+      "word": "第一次见这么帅的鸡",
+      "onboard_time": 1675213529,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 590817,
       "num": 590817,
       "word": "狂飙",
       "onboard_time": 1675167215,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 556822,
+      "num": 556822,
+      "word": "电影无名2月17日北美上映",
+      "onboard_time": 1675216831,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -153,14 +193,6 @@
       "onboard_time": 1675176217,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 514555,
-      "num": 514555,
-      "word": "第一次见这么帅的鸡",
-      "onboard_time": 1675213529,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 510429,
@@ -184,6 +216,14 @@
       "word": "妈妈先抱弟弟引女儿委屈质问",
       "onboard_time": 1675180951,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498518,
+      "num": 294108,
+      "word": "疑似胡鑫宇生前笔记披露",
+      "onboard_time": 1675216831,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -243,6 +283,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 353660,
+      "num": 353660,
+      "word": "缉毒警说头发已熬白还怕熬不过毒贩吗",
+      "onboard_time": 1675215986,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352527,
       "num": 352527,
       "word": "知情人称胡鑫宇饭卡仍在搜寻",
@@ -275,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303306,
+      "num": 303306,
+      "word": "北京明白真明白了没有",
+      "onboard_time": 1675214909,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285449,
       "num": 285449,
       "word": "想减肥的有福了",
@@ -289,14 +345,6 @@
       "onboard_time": 1675186996,
       "rank": 4,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 280730,
-      "num": 280730,
-      "word": "北京明白真明白了没有",
-      "onboard_time": 1675214909,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247993,
@@ -339,20 +387,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 233956,
-      "num": 233956,
-      "word": "沈腾曾吐槽张译自拍",
-      "onboard_time": 1675212090,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 233905,
-      "num": 233905,
+      "raw_hot": 235834,
+      "num": 235834,
       "word": "速度与激情10海报",
       "onboard_time": 1675215508,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 234203,
+      "num": 234203,
+      "word": "沈腾曾吐槽张译自拍",
+      "onboard_time": 1675212090,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 223541,
@@ -377,14 +425,6 @@
       "onboard_time": 1675150813,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209158,
-      "num": 209158,
-      "word": "女子恋爱6年被分手报警讨说法",
-      "onboard_time": 1675215628,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205360,
@@ -433,6 +473,14 @@
       "onboard_time": 1675169559,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162075,
+      "num": 162075,
+      "word": "iPhone16或仅最高端机型配潜望式镜头",
+      "onboard_time": 1675217367,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 160724,
@@ -515,12 +563,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 137972,
-      "num": 137972,
-      "word": "缉毒警说头发已熬白还怕熬不过毒贩吗",
-      "onboard_time": 1675215986,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 140348,
+      "num": 140348,
+      "word": "张译狂飙片场带动吵架气氛",
+      "onboard_time": 1675217247,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 135807,
+      "num": 135807,
+      "word": "特斯拉2022年在华营收181亿美元",
+      "onboard_time": 1675217011,
+      "rank": 40,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 133947,
@@ -555,19 +611,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124004,
+      "num": 124004,
+      "word": "哥哥用打火机把弟弟寒假作业烤没",
+      "onboard_time": 1675217428,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123827,
       "num": 146993,
       "word": "突然看到漫天风筝以为进了动画片",
       "onboard_time": 1675182628,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114012,
-      "num": 114012,
-      "word": "夫妻连续两胎均性别难辨",
-      "onboard_time": 1675216106,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
