@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675262007149,
+  "endTime": 1675264781529,
   "band_list": [
     {
       "raw_hot": 10722665,
@@ -99,11 +99,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1990679,
+      "num": 1990679,
+      "word": "张颂文 演技封神",
+      "onboard_time": 1675257213,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1971252,
       "num": 1971252,
       "word": "王嘉晨",
       "onboard_time": 1675216467,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1952548,
+      "num": 1952548,
+      "word": "狂飙最大保护伞",
+      "onboard_time": 1675257996,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -147,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1725413,
-      "num": 1725413,
-      "word": "张颂文 演技封神",
-      "onboard_time": 1675257213,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1719004,
       "num": 1719004,
       "word": "大张伟当着王鸥的面喊杨幂",
@@ -179,11 +187,11 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1683530,
-      "num": 1683530,
-      "word": "狂飙最大保护伞",
-      "onboard_time": 1675257996,
-      "rank": 22,
+      "raw_hot": 1673816,
+      "num": 1673816,
+      "word": "狂飙全员发博告别角色",
+      "onboard_time": 1675262258,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -249,6 +257,14 @@
       "onboard_time": 1675252407,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1295983,
+      "num": 1295983,
+      "word": "丈夫出轨提离婚分家产妻子霸气回怼",
+      "onboard_time": 1675262258,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1284222,
@@ -739,8 +755,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 633811,
-      "num": 633811,
+      "raw_hot": 634372,
+      "num": 634372,
       "word": "著名乳腺外科专家黄汉源去世",
       "onboard_time": 1675259494,
       "rank": 19,
@@ -752,6 +768,14 @@
       "word": "唐嫣接孙坚用跑的",
       "onboard_time": 1675242389,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 619026,
+      "num": 619026,
+      "word": "陈铚研林鹏翔官宣",
+      "onboard_time": 1675261896,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -811,6 +835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 585099,
+      "num": 392560,
+      "word": "张杰自曝曾被质疑假唱",
+      "onboard_time": 1675264054,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 584948,
       "num": 584948,
       "word": "9岁患癌男童体内取出柚子般大肿瘤",
@@ -849,6 +881,14 @@
       "onboard_time": 1675237591,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566174,
+      "num": 388634,
+      "word": "烂片能离谱到什么程度",
+      "onboard_time": 1675262316,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 561664,
@@ -1339,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 359548,
-      "num": 282107,
-      "word": "陈铚研林鹏翔官宣",
-      "onboard_time": 1675261896,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 353660,
       "num": 353660,
       "word": "缉毒警说头发已熬白还怕熬不过毒贩吗",
@@ -1361,6 +1393,14 @@
       "onboard_time": 1675195571,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348547,
+      "num": 260823,
+      "word": "谢天华因少买咖啡被同组女演员排挤",
+      "onboard_time": 1675264414,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 347076,
@@ -1491,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293743,
+      "num": 293743,
+      "word": "高中的友谊会是一辈子的友谊",
+      "onboard_time": 1675260213,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 291371,
       "num": 217568,
       "word": "我的眼泪狂飙",
@@ -1611,6 +1659,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 271054,
+      "num": 271054,
+      "word": "妈妈很会谈恋爱是种什么体验",
+      "onboard_time": 1675261532,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269123,
       "num": 269123,
       "word": "文草草和已婚男领导用情侣水杯",
@@ -1707,14 +1763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 250013,
-      "num": 250013,
-      "word": "高中的友谊会是一辈子的友谊",
-      "onboard_time": 1675260213,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 247993,
       "num": 247993,
       "word": "郭帆证实流浪地球3会有图恒宇",
@@ -1729,6 +1777,14 @@
       "onboard_time": 1675256253,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247329,
+      "num": 247329,
+      "word": "汤姆布雷迪再次宣布退役",
+      "onboard_time": 1675261477,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 245774,
@@ -1769,6 +1825,14 @@
       "onboard_time": 1675164762,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237788,
+      "num": 220448,
+      "word": "陈林尽染",
+      "onboard_time": 1675264355,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 235859,
@@ -1993,14 +2057,6 @@
       "onboard_time": 1675217730,
       "rank": 32,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 194690,
-      "num": 194690,
-      "word": "汤姆布雷迪再次宣布退役",
-      "onboard_time": 1675261477,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 190066,
