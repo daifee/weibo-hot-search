@@ -1,0 +1,410 @@
+{
+  "runTime": 1675243121628,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2743799,
+        "num": 2743799,
+        "word": "爱奇艺因限制投屏被起诉已立案",
+        "onboard_time": 1675237951,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2399590,
+        "num": 2399590,
+        "word": "没鼻梁的人有福了",
+        "onboard_time": 1675239510,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57149,
+        "num": 1669587,
+        "word": "花海为祖国山河开启温柔滤镜",
+        "onboard_time": 1675241852,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1536863,
+        "num": 1536863,
+        "word": "人民网评6岁男童进女厕事件",
+        "onboard_time": 1675240232,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1327026,
+        "num": 1327026,
+        "word": "高启强有多恨高晓晨",
+        "onboard_time": 1675236330,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1232249,
+        "num": 1232249,
+        "word": "嗯哼长青春痘了",
+        "onboard_time": 1675235371,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 959868,
+        "num": 959868,
+        "word": "全员加速中确认重启",
+        "onboard_time": 1675238310,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 945624,
+        "num": 945624,
+        "word": "情侣刚分手为何不要马上删除",
+        "onboard_time": 1675234887,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 791484,
+        "num": 791484,
+        "word": "韩国女子在驻韩美军基地被性侵",
+        "onboard_time": 1675229553,
+        "rank": 8,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 735440,
+        "num": 735440,
+        "word": "高叶 浪姐4",
+        "onboard_time": 1675227576,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 702199,
+        "num": 702199,
+        "word": "Lisa购买75亿韩元住宅",
+        "onboard_time": 1675232370,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631160,
+        "num": 631160,
+        "word": "游客偷带食物喂兔子致大批死亡",
+        "onboard_time": 1675241491,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592011,
+        "num": 592011,
+        "word": "网传肖战将参加米兰时装周",
+        "onboard_time": 1675242389,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 571129,
+        "num": 571129,
+        "word": "邓先生 这次表现还不够完美",
+        "onboard_time": 1675237591,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492876,
+        "num": 492876,
+        "word": "8岁女童雪场缆车坠落大小便不能自理",
+        "onboard_time": 1675237049,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488673,
+        "num": 488673,
+        "word": "狂飙大嫂海报细节",
+        "onboard_time": 1675237230,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459196,
+        "num": 459196,
+        "word": "女子找熟人25万装房子成精简风",
+        "onboard_time": 1675220790,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384414,
+        "num": 384414,
+        "word": "张译张颂文老来得粉",
+        "onboard_time": 1675242150,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373218,
+        "num": 373218,
+        "word": "伽罗新皮肤炽翼辉光",
+        "onboard_time": 1675236269,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 342521,
+        "num": 342521,
+        "word": "东北担担面的含糖量有多高",
+        "onboard_time": 1675241671,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 336501,
+        "num": 336501,
+        "word": "咒术回战",
+        "onboard_time": 1675241852,
+        "rank": 20,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 315284,
+        "num": 315284,
+        "word": "男子连喝2场酒死亡6酒友赔27万",
+        "onboard_time": 1675223793,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 301178,
+        "num": 301178,
+        "word": "鱼跃医疗被罚270万元",
+        "onboard_time": 1675232668,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 297099,
+        "num": 297099,
+        "word": "唐嫣接孙坚用跑的",
+        "onboard_time": 1675242389,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290715,
+        "num": 290715,
+        "word": "流浪地球2单日票房反超满江红",
+        "onboard_time": 1675232911,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287932,
+        "num": 287932,
+        "word": "无名是王一博转型电影演员的第一步",
+        "onboard_time": 1675237108,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261617,
+        "num": 261617,
+        "word": "周柯宇机场被小朋友问名字",
+        "onboard_time": 1675238071,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260244,
+        "num": 260244,
+        "word": "吴京半年没怎么吃碳水",
+        "onboard_time": 1675229910,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259500,
+        "num": 259500,
+        "word": "刘强东得子后立即回国工作",
+        "onboard_time": 1675221032,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 257393,
+        "num": 257393,
+        "word": "1岁萌娃躺地耍赖父母转身离开",
+        "onboard_time": 1675238852,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235323,
+        "num": 235323,
+        "word": "郭帆拍流浪地球2最爱看科学家吵架",
+        "onboard_time": 1675239088,
+        "rank": 30,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 228571,
+        "num": 228571,
+        "word": "龙凤胎的颜值差距有多大",
+        "onboard_time": 1675231530,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 203009,
+        "num": 203009,
+        "word": "沙溢拍流浪地球2一天吃六七顿",
+        "onboard_time": 1675228953,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196320,
+        "num": 196320,
+        "word": "唐嫣终于进组拍戏了",
+        "onboard_time": 1675225115,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191211,
+        "num": 191211,
+        "word": "女性分娩阵痛到底有多痛",
+        "onboard_time": 1675235431,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187723,
+        "num": 187723,
+        "word": "微博表白计划",
+        "onboard_time": 1675242451,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183650,
+        "num": 183650,
+        "word": "找熟人办事真的会更好吗",
+        "onboard_time": 1675242213,
+        "rank": 36,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 177294,
+        "num": 177294,
+        "word": "二刷流浪地球2才看懂的细节",
+        "onboard_time": 1675238431,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176253,
+        "num": 176253,
+        "word": "雷军称喜欢并推崇任天堂",
+        "onboard_time": 1675238672,
+        "rank": 38,
+        "category": "科技,游戏"
+      },
+      {
+        "raw_hot": 169835,
+        "num": 169835,
+        "word": "王鹤棣白鹿背后拥抱看剧本路透",
+        "onboard_time": 1675231349,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418728,
+        "num": 168417,
+        "word": "杨洋被网友错认成女演员",
+        "onboard_time": 1675233812,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164302,
+        "num": 164302,
+        "word": "高启强被馋哭了",
+        "onboard_time": 1675242329,
+        "rank": 41,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 163247,
+        "num": 163247,
+        "word": "张艺谋说满江红是正能量的传承",
+        "onboard_time": 1675232131,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161246,
+        "num": 161246,
+        "word": "高启强为何让人恨不起来",
+        "onboard_time": 1675240169,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156958,
+        "num": 156958,
+        "word": "高叶旧照",
+        "onboard_time": 1675235190,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154656,
+        "num": 154656,
+        "word": "9岁患癌男童体内取出柚子般大肿瘤",
+        "onboard_time": 1675226495,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149581,
+        "num": 149581,
+        "word": "高叶跳舞",
+        "onboard_time": 1675233812,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143259,
+        "num": 143259,
+        "word": "这猫咪怎么狗模狗样的",
+        "onboard_time": 1675239212,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139872,
+        "num": 139872,
+        "word": "陆虎体验分娩阵痛被痛哭",
+        "onboard_time": 1675236330,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138370,
+        "num": 138370,
+        "word": "爱奇艺发文回应",
+        "onboard_time": 1675243053,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断增加高质量产品和服务供给#"
+    }
+  }
+}
