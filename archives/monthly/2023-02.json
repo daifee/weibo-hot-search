@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675282793384,
+  "endTime": 1675283609268,
   "band_list": [
     {
       "raw_hot": 10722665,
@@ -2435,6 +2435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152802,
+      "num": 152802,
+      "word": "阻止男童进女厕当事人称希望对方道歉",
+      "onboard_time": 1675279512,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151985,
       "num": 1676391,
       "word": "各地灯会直拍",
@@ -2529,14 +2537,6 @@
       "onboard_time": 1675217247,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140000,
-      "num": 140000,
-      "word": "阻止男童进女厕当事人称希望对方道歉",
-      "onboard_time": 1675279512,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139787,
@@ -2739,6 +2739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73802,
+      "num": 73802,
+      "word": "女子到男友舅舅家拜年盗走5万元",
+      "onboard_time": 1675280892,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71881,
       "num": 71881,
       "word": "宋威龙玄烈今日启程",
@@ -2777,14 +2785,6 @@
       "onboard_time": 1675184242,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60010,
-      "num": 60010,
-      "word": "女子到男友舅舅家拜年盗走5万元",
-      "onboard_time": 1675280892,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59488,
@@ -2915,20 +2915,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28810,
+      "num": 28810,
+      "word": "UP战胜AL",
+      "onboard_time": 1675283531,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 18610,
+      "num": 18610,
+      "word": "36平老破小改造后的样子",
+      "onboard_time": 1675282152,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 16530,
+      "num": 16530,
+      "word": "狂飙导演回应吃肠粉不加酱油",
+      "onboard_time": 1675280232,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 16380,
       "num": 16380,
       "word": "五世同堂排排坐接龙喊妈妈",
       "onboard_time": 1675190774,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14953,
-      "num": 15360,
-      "word": "36平老破小改造后的样子",
-      "onboard_time": 1675282152,
-      "rank": 49,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
