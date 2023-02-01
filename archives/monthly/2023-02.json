@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675286200646,
+  "endTime": 1675287224880,
   "band_list": [
     {
       "raw_hot": 10722665,
@@ -2867,6 +2867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37138,
+      "num": 37138,
+      "word": "大润发回应女员工因照顾病危父亲请假遭开除",
+      "onboard_time": 1675286351,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37010,
       "num": 37010,
       "word": "女子给自行车架套袋丝滑度拉满",
@@ -2907,6 +2915,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29597,
+      "num": 29597,
+      "word": "狂飙导演回应吃肠粉不加酱油",
+      "onboard_time": 1675280232,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 29323,
+      "num": 22334,
+      "word": "36平老破小改造后的样子",
+      "onboard_time": 1675282152,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 29058,
       "num": 29058,
       "word": "这个挑食是情有可原的",
@@ -2923,28 +2947,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 28145,
-      "num": 19022,
-      "word": "36平老破小改造后的样子",
-      "onboard_time": 1675282152,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 26846,
-      "num": 18995,
+      "num": 21901,
       "word": "饺子皮薯片",
       "onboard_time": 1675283951,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 25047,
-      "num": 25047,
-      "word": "狂飙导演回应吃肠粉不加酱油",
-      "onboard_time": 1675280232,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 16380,
