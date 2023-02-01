@@ -1,0 +1,410 @@
+{
+  "runTime": 1675236840307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1759553,
+        "num": 1759553,
+        "word": "嗯哼长青春痘了",
+        "onboard_time": 1675235371,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1748783,
+        "num": 1748783,
+        "word": "韩国女子在驻韩美军基地被性侵",
+        "onboard_time": 1675229553,
+        "rank": 1,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 135633,
+        "num": 1412105,
+        "word": "各地灯会直拍",
+        "onboard_time": 1675230447,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1373633,
+        "num": 1373633,
+        "word": "高叶 浪姐4",
+        "onboard_time": 1675227576,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1333294,
+        "num": 1333294,
+        "word": "Lisa购买75亿韩元住宅",
+        "onboard_time": 1675232370,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1111177,
+        "num": 1111177,
+        "word": "杨洋被网友错认成女演员",
+        "onboard_time": 1675233812,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1075759,
+        "num": 1075759,
+        "word": "鱼跃医疗被罚270万元",
+        "onboard_time": 1675232668,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 837295,
+        "num": 837295,
+        "word": "女子找熟人25万装房子成精简风",
+        "onboard_time": 1675220790,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698371,
+        "num": 698371,
+        "word": "龙凤胎的颜值差距有多大",
+        "onboard_time": 1675231530,
+        "rank": 8,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 613070,
+        "num": 613070,
+        "word": "情侣刚分手为何不要马上删除",
+        "onboard_time": 1675234887,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 611528,
+        "num": 611528,
+        "word": "刘强东得子后立即回国工作",
+        "onboard_time": 1675221032,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 592718,
+        "num": 592718,
+        "word": "吴京半年没怎么吃碳水",
+        "onboard_time": 1675229910,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 568693,
+        "num": 568693,
+        "word": "男子连喝2场酒死亡6酒友赔27万",
+        "onboard_time": 1675223793,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 479711,
+        "num": 479711,
+        "word": "高叶跳舞",
+        "onboard_time": 1675233812,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 452431,
+        "num": 452431,
+        "word": "王鹤棣白鹿背后拥抱看剧本路透",
+        "onboard_time": 1675231349,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435460,
+        "num": 435460,
+        "word": "夫妻连续两胎均性别难辨",
+        "onboard_time": 1675216106,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435341,
+        "num": 435341,
+        "word": "女性分娩阵痛到底有多痛",
+        "onboard_time": 1675235431,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434844,
+        "num": 434844,
+        "word": "快把猫给高启强撸",
+        "onboard_time": 1675232189,
+        "rank": 17,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 422184,
+        "num": 422184,
+        "word": "陆虎体验分娩阵痛被痛哭",
+        "onboard_time": 1675236330,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407633,
+        "num": 407633,
+        "word": "流浪地球2单日票房反超满江红",
+        "onboard_time": 1675232911,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398392,
+        "num": 398392,
+        "word": "网传蔡徐坤将参加米兰时装周",
+        "onboard_time": 1675233812,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 376069,
+        "num": 376069,
+        "word": "沙溢拍流浪地球2一天吃六七顿",
+        "onboard_time": 1675228953,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375486,
+        "num": 375486,
+        "word": "高叶旧照",
+        "onboard_time": 1675235190,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337586,
+        "num": 337586,
+        "word": "唐嫣终于进组拍戏了",
+        "onboard_time": 1675225115,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315499,
+        "num": 315499,
+        "word": "张艺谋说满江红是正能量的传承",
+        "onboard_time": 1675232131,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304281,
+        "num": 304281,
+        "word": "韩素希车银优合体拍画报",
+        "onboard_time": 1675233211,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277965,
+        "num": 277965,
+        "word": "刘强东实控企业超300家",
+        "onboard_time": 1675234231,
+        "rank": 26,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 266161,
+        "num": 266161,
+        "word": "电影无名票房超过媒体预测",
+        "onboard_time": 1675228650,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260314,
+        "num": 260314,
+        "word": "昆山一男医生社交平台发女患者私密照",
+        "onboard_time": 1675221451,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220947,
+        "num": 220947,
+        "word": "伽罗新皮肤炽翼辉光",
+        "onboard_time": 1675236269,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 306167,
+        "num": 220779,
+        "word": "高启强有多恨高晓晨",
+        "onboard_time": 1675236330,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217732,
+        "num": 217732,
+        "word": "文韬记忆大师",
+        "onboard_time": 1675234291,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232089,
+        "num": 216517,
+        "word": "以为下班遇到了安欣",
+        "onboard_time": 1675235309,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214621,
+        "num": 214621,
+        "word": "9岁患癌男童体内取出柚子般大肿瘤",
+        "onboard_time": 1675226495,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214367,
+        "num": 214367,
+        "word": "85花都进组拍戏了",
+        "onboard_time": 1675231170,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207615,
+        "num": 207615,
+        "word": "隆妮说大概率是我高攀了高启兰",
+        "onboard_time": 1675235910,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197516,
+        "num": 197516,
+        "word": "女子在婆家被打娘家齐上阵",
+        "onboard_time": 1675223132,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206025,
+        "num": 191261,
+        "word": "孟钰的包15万",
+        "onboard_time": 1675223014,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184869,
+        "num": 184869,
+        "word": "伊朗情侣公开场合跳舞被判10年",
+        "onboard_time": 1675220609,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184771,
+        "num": 184771,
+        "word": "这猫打架咋还谈判呢",
+        "onboard_time": 1675235550,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205057,
+        "num": 183408,
+        "word": "赵丽颖将进组新戏",
+        "onboard_time": 1675223915,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177809,
+        "num": 177809,
+        "word": "天冷后变得敷衍的狗狗",
+        "onboard_time": 1675232370,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 177177,
+        "num": 177177,
+        "word": "女生大学四年攒钱给妈妈买房",
+        "onboard_time": 1675221751,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166328,
+        "num": 166328,
+        "word": "这就是中华功夫猫吧",
+        "onboard_time": 1675236811,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203398,
+        "num": 166012,
+        "word": "孟德海到底是不是保护伞",
+        "onboard_time": 1675222111,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165655,
+        "num": 165655,
+        "word": "当事人回应初四相亲初八结婚",
+        "onboard_time": 1675223615,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163230,
+        "num": 163230,
+        "word": "长沙望城发现3头长江江豚",
+        "onboard_time": 1675227516,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161866,
+        "num": 161866,
+        "word": "麻将在东北的各种叫法",
+        "onboard_time": 1675236632,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142470,
+        "num": 142470,
+        "word": "网易发布暴雪游戏开放退款说明",
+        "onboard_time": 1675225897,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142394,
+        "num": 142394,
+        "word": "王鹤棣黑色蒙脸帽",
+        "onboard_time": 1675236811,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#强信心开新局#"
+    }
+  }
+}
