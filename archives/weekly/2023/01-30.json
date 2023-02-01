@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675208019552,
+  "endTime": 1675216112775,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -89,6 +89,14 @@
       "onboard_time": 1675049130,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2707410,
+      "num": 2707410,
+      "word": "狂飙拍了100集",
+      "onboard_time": 1675215150,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2703419,
@@ -939,6 +947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 848462,
+      "num": 661986,
+      "word": "陆寒牺牲",
+      "onboard_time": 1675207942,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 834540,
       "num": 834540,
       "word": "情侣婚前是否有必要同居",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1675137869,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 764998,
+      "num": 617177,
+      "word": "张译张颂文狂飙今日大结局",
+      "onboard_time": 1675212389,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 760618,
@@ -1155,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 695940,
+      "num": 695940,
+      "word": "中疾控科普CH.1.1变异株",
+      "onboard_time": 1675209927,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694461,
       "num": 694461,
       "word": "建议不因钱选工作专家实控多家公司",
@@ -1219,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 663733,
+      "num": 663733,
+      "word": "扎堆提前还房贷并不可取",
+      "onboard_time": 1675214610,
+      "rank": 4,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 660341,
       "num": 660341,
       "word": "网剧飞驰人生全阵容官宣",
@@ -1247,6 +1287,14 @@
       "num": 657067,
       "word": "北师大教授评无名尊重观众遵从内心",
       "onboard_time": 1675037127,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 656396,
+      "num": 656396,
+      "word": "流浪地球2里的机甲不是特效",
+      "onboard_time": 1675212449,
       "rank": 6,
       "category": "影视"
     },
@@ -1539,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 552405,
+      "num": 552405,
+      "word": "切尔西1.2亿欧签下恩佐",
+      "onboard_time": 1675209445,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 551569,
       "num": 551569,
       "word": "Angelababy说君绮罗今日启程",
@@ -1659,12 +1715,36 @@
       "category": "科技"
     },
     {
+      "raw_hot": 514555,
+      "num": 514555,
+      "word": "第一次见这么帅的鸡",
+      "onboard_time": 1675213529,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 511284,
       "num": 511284,
       "word": "半熟恋人第二季官宣",
       "onboard_time": 1675050988,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 510429,
+      "num": 197042,
+      "word": "胡鑫宇录音笔已送深圳恢复数据",
+      "onboard_time": 1675197312,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508857,
+      "num": 508857,
+      "word": "父子身陷泥潭父亲舍命托举儿子",
+      "onboard_time": 1675212748,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507034,
@@ -2156,11 +2236,19 @@
     },
     {
       "raw_hot": 390228,
-      "num": 300370,
+      "num": 352003,
       "word": "猫咪慢性呕吐2个月胃中塞满线绳",
       "onboard_time": 1675181966,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386579,
+      "num": 386579,
+      "word": "河南新设立九所高校",
+      "onboard_time": 1675208545,
+      "rank": 15,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 386507,
@@ -2419,6 +2507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 343339,
+      "num": 343339,
+      "word": "厦门举报此人奖励10万元",
+      "onboard_time": 1675184540,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343247,
       "num": 343247,
       "word": "猫猫肉眼可见的心虚",
@@ -2675,14 +2771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 307405,
-      "num": 135652,
-      "word": "胡鑫宇录音笔已送深圳恢复数据",
-      "onboard_time": 1675197312,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 307195,
       "num": 307195,
       "word": "众人在轿车爆燃前救出车主",
@@ -2849,6 +2937,14 @@
       "onboard_time": 1675186996,
       "rank": 4,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 280730,
+      "num": 280730,
+      "word": "北京明白真明白了没有",
+      "onboard_time": 1675214909,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279288,
@@ -3033,14 +3129,6 @@
       "onboard_time": 1675172915,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 261895,
-      "num": 261895,
-      "word": "厦门举报此人奖励10万元",
-      "onboard_time": 1675184540,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260560,
@@ -3315,6 +3403,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233956,
+      "num": 233956,
+      "word": "沈腾曾吐槽张译自拍",
+      "onboard_time": 1675212090,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 233905,
+      "num": 233905,
+      "word": "速度与激情10海报",
+      "onboard_time": 1675215508,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233600,
       "num": 233600,
       "word": "四川简化生育登记要求",
@@ -3563,6 +3667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209158,
+      "num": 209158,
+      "word": "女子恋爱6年被分手报警讨说法",
+      "onboard_time": 1675215628,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208915,
       "num": 208915,
       "word": "节后为了搞钱能有多拼",
@@ -3608,6 +3720,14 @@
       "word": "吴京战狼系列收视登顶",
       "onboard_time": 1675168416,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205279,
+      "num": 205279,
+      "word": "赵露思看到粉丝镜头的反应",
+      "onboard_time": 1675206617,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -3760,6 +3880,14 @@
       "word": "新疆地震",
       "onboard_time": 1675037066,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197283,
+      "num": 197283,
+      "word": "几代民警接力找到被拐32年男孩",
+      "onboard_time": 1675213168,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -4000,6 +4128,14 @@
       "word": "如何看待影视剧开放式结局",
       "onboard_time": 1675056510,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 186200,
+      "num": 186200,
+      "word": "DC宣布多部新片",
+      "onboard_time": 1675214849,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -4403,6 +4539,22 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 159053,
+      "num": 159053,
+      "word": "电锯人",
+      "onboard_time": 1675208122,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 158918,
+      "num": 158918,
+      "word": "福建广东多个沿海大省开启抢人模式",
+      "onboard_time": 1675187476,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158651,
       "num": 158651,
       "word": "巴黎圣日耳曼1比1兰斯",
@@ -4433,14 +4585,6 @@
       "onboard_time": 1675063713,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 156364,
-      "num": 156364,
-      "word": "福建广东多个沿海大省开启抢人模式",
-      "onboard_time": 1675187476,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155297,
@@ -4619,6 +4763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142760,
+      "num": 142760,
+      "word": "72岁赤脚医生坚守弹丸小岛56年",
+      "onboard_time": 1675214788,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142422,
       "num": 142422,
       "word": "流浪地球2里那句出列不只是台词",
@@ -4641,6 +4793,14 @@
       "onboard_time": 1675084170,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140519,
+      "num": 140519,
+      "word": "苹果1月新品怎么选",
+      "onboard_time": 1675206919,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 140229,
@@ -4667,6 +4827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137972,
+      "num": 137972,
+      "word": "缉毒警说头发已熬白还怕熬不过毒贩吗",
+      "onboard_time": 1675215986,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137572,
       "num": 137572,
       "word": "3到6岁是孩子性别角色确认关键期",
@@ -4683,12 +4851,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135732,
-      "num": 135732,
-      "word": "苹果1月新品怎么选",
-      "onboard_time": 1675206919,
-      "rank": 47,
-      "category": "科技"
+      "raw_hot": 133947,
+      "num": 133947,
+      "word": "李一桐英雄志最新造型营业视频",
+      "onboard_time": 1675212031,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 132415,
@@ -4737,6 +4905,30 @@
       "onboard_time": 1675045525,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 127780,
+      "num": 127780,
+      "word": "赵美延黑发造型",
+      "onboard_time": 1675206617,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127056,
+      "num": 127056,
+      "word": "流浪地球2图恒宇写4的官方解读",
+      "onboard_time": 1675208602,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 126688,
+      "num": 126688,
+      "word": "齐耶赫转会巴黎告吹",
+      "onboard_time": 1675213228,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 125884,
@@ -4851,6 +5043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114012,
+      "num": 114012,
+      "word": "夫妻连续两胎均性别难辨",
+      "onboard_time": 1675216106,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113927,
       "num": 113927,
       "word": "打得对手满地找牙原来是真的",
@@ -4891,14 +5091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 105730,
-      "num": 91330,
-      "word": "赵美延黑发造型",
-      "onboard_time": 1675206617,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96522,
       "num": 96522,
       "word": "诗词大会选手有点东西",
@@ -4928,14 +5120,6 @@
       "word": "万达电影制作满江红海报出现错别字",
       "onboard_time": 1674984987,
       "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 84220,
-      "num": 84220,
-      "word": "陆寒牺牲",
-      "onboard_time": 1675207942,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -4969,14 +5153,6 @@
       "onboard_time": 1675012698,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 69654,
-      "num": 69654,
-      "word": "赵露思看到粉丝镜头的反应",
-      "onboard_time": 1675206617,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 67252,
