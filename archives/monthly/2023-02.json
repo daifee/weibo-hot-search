@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675278910845,
+  "endTime": 1675280020910,
   "band_list": [
     {
       "raw_hot": 10722665,
@@ -2889,6 +2889,14 @@
       "onboard_time": 1675277294,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 26883,
+      "num": 26883,
+      "word": "阻止男童进女厕当事人称希望对方道歉",
+      "onboard_time": 1675279512,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16380,
