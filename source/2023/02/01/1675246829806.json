@@ -1,0 +1,410 @@
+{
+  "runTime": 1675246829806,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2122590,
+        "num": 2122590,
+        "word": "没鼻梁的人有福了",
+        "onboard_time": 1675239510,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1727475,
+        "num": 1727475,
+        "word": "爱奇艺因限制投屏被起诉已立案",
+        "onboard_time": 1675237951,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 102873,
+        "num": 1630643,
+        "word": "花海为祖国山河开启温柔滤镜",
+        "onboard_time": 1675241852,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1630190,
+        "num": 1630190,
+        "word": "人民网评6岁男童进女厕事件",
+        "onboard_time": 1675240232,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1337654,
+        "num": 1337654,
+        "word": "谢娜晒背影照为跳跳俏俏庆生",
+        "onboard_time": 1675244311,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1230774,
+        "num": 1230774,
+        "word": "教师侵害15名未成年女学生获刑13年",
+        "onboard_time": 1675243532,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1180868,
+        "num": 1180868,
+        "word": "注册制",
+        "onboard_time": 1675244492,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1169774,
+        "num": 1169774,
+        "word": "高启强有多恨高晓晨",
+        "onboard_time": 1675236330,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 908938,
+        "num": 908938,
+        "word": "嗯哼长青春痘了",
+        "onboard_time": 1675235371,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 829301,
+        "num": 829301,
+        "word": "游客偷带食物喂兔子致大批死亡",
+        "onboard_time": 1675241491,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752872,
+        "num": 752872,
+        "word": "狂飙的艺术总监是张译",
+        "onboard_time": 1675244612,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 723523,
+        "num": 723523,
+        "word": "网传肖战将参加米兰时装周",
+        "onboard_time": 1675242389,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 692231,
+        "num": 692231,
+        "word": "Lisa购买75亿韩元住宅",
+        "onboard_time": 1675232370,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 681841,
+        "num": 681841,
+        "word": "刘亦菲参加巴黎时装周",
+        "onboard_time": 1675245813,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 666917,
+        "num": 666917,
+        "word": "情侣刚分手为何不要马上删除",
+        "onboard_time": 1675234887,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 623553,
+        "num": 623553,
+        "word": "唐嫣接孙坚用跑的",
+        "onboard_time": 1675242389,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618731,
+        "num": 618731,
+        "word": "EDG整活还得是看淀粉",
+        "onboard_time": 1675244369,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 611655,
+        "num": 611655,
+        "word": "咒术回战",
+        "onboard_time": 1675241852,
+        "rank": 17,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 596234,
+        "num": 596234,
+        "word": "爱奇艺发文回应",
+        "onboard_time": 1675243053,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 589620,
+        "num": 589620,
+        "word": "全面实行股票发行注册制改革正式启动",
+        "onboard_time": 1675244311,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 584102,
+        "num": 584102,
+        "word": "全员加速中",
+        "onboard_time": 1675245214,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 546564,
+        "num": 546564,
+        "word": "韩国女子在驻韩美军基地被性侵",
+        "onboard_time": 1675229553,
+        "rank": 21,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 528906,
+        "num": 528906,
+        "word": "P图可以冷门但不可以邪门",
+        "onboard_time": 1675244612,
+        "rank": 22,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 526468,
+        "num": 526468,
+        "word": "迪丽热巴安乐传蓝色纱裙路透",
+        "onboard_time": 1675244732,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 494945,
+        "num": 494945,
+        "word": "高叶 浪姐4",
+        "onboard_time": 1675227576,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435351,
+        "num": 435351,
+        "word": "撒娇对男生到底好不好用",
+        "onboard_time": 1675245393,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 420926,
+        "num": 420926,
+        "word": "张译张颂文老来得粉",
+        "onboard_time": 1675242150,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414979,
+        "num": 414979,
+        "word": "全员加速中确认重启",
+        "onboard_time": 1675238310,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388541,
+        "num": 388541,
+        "word": "iG对战EDG",
+        "onboard_time": 1675243351,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 373200,
+        "num": 373200,
+        "word": "名侦探学院第九期预告",
+        "onboard_time": 1675245152,
+        "rank": 29,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 361513,
+        "num": 361513,
+        "word": "狂飙大嫂海报细节",
+        "onboard_time": 1675237230,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350339,
+        "num": 350339,
+        "word": "东北担担面的含糖量有多高",
+        "onboard_time": 1675241671,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 319313,
+        "num": 319313,
+        "word": "伽罗新皮肤炽翼辉光",
+        "onboard_time": 1675236269,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 309818,
+        "num": 309818,
+        "word": "8岁女童雪场缆车坠落大小便不能自理",
+        "onboard_time": 1675237049,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293618,
+        "num": 293618,
+        "word": "邓先生 这次表现还不够完美",
+        "onboard_time": 1675237591,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280622,
+        "num": 280622,
+        "word": "网友偶遇沈腾桂林游玩",
+        "onboard_time": 1675243831,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272063,
+        "num": 272063,
+        "word": "小说里的大嫂从此有脸了",
+        "onboard_time": 1675243710,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252671,
+        "num": 252671,
+        "word": "谢楠 见刘德华我怎么也得化个全妆",
+        "onboard_time": 1675246532,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231633,
+        "num": 231633,
+        "word": "流浪地球2单日票房反超满江红",
+        "onboard_time": 1675232911,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230346,
+        "num": 230346,
+        "word": "福建特产二选一你会选哪个",
+        "onboard_time": 1675243470,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 225860,
+        "num": 225860,
+        "word": "女子找熟人25万装房子成精简风",
+        "onboard_time": 1675220790,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225046,
+        "num": 225046,
+        "word": "上海阿姨地铁抢座说不欢迎外地人",
+        "onboard_time": 1675246173,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223287,
+        "num": 223287,
+        "word": "强盛集团孙红雷也在看狂飙",
+        "onboard_time": 1675245571,
+        "rank": 42,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 218437,
+        "num": 218437,
+        "word": "高启强被馋哭了",
+        "onboard_time": 1675242329,
+        "rank": 43,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 206676,
+        "num": 206676,
+        "word": "鱼跃医疗被罚270万元",
+        "onboard_time": 1675232668,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 193814,
+        "num": 193814,
+        "word": "男子连喝2场酒死亡6酒友赔27万",
+        "onboard_time": 1675223793,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 170289,
+        "num": 170289,
+        "word": "中纪委列狂飙里不能踩的纪律红线",
+        "onboard_time": 1675244550,
+        "rank": 46,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 166641,
+        "num": 166641,
+        "word": "吴京半年没怎么吃碳水",
+        "onboard_time": 1675229910,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163220,
+        "num": 163220,
+        "word": "无名是王一博转型电影演员的第一步",
+        "onboard_time": 1675237108,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161762,
+        "num": 161762,
+        "word": "郭帆拍流浪地球2最爱看科学家吵架",
+        "onboard_time": 1675239088,
+        "rank": 49,
+        "category": "社会新闻,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#多地发力拼经济新春开门稳#"
+    }
+  }
+}

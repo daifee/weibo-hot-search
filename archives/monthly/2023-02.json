@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675244029805,
+  "endTime": 1675246829806,
   "band_list": [
     {
       "raw_hot": 3530109,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1337654,
+      "num": 1337654,
+      "word": "谢娜晒背影照为跳跳俏俏庆生",
+      "onboard_time": 1675244311,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1327026,
       "num": 1327026,
       "word": "高启强有多恨高晓晨",
@@ -153,6 +161,22 @@
       "onboard_time": 1675218988,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1230774,
+      "num": 1230774,
+      "word": "教师侵害15名未成年女学生获刑13年",
+      "onboard_time": 1675243532,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1180868,
+      "num": 1180868,
+      "word": "注册制",
+      "onboard_time": 1675244492,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 1144650,
@@ -307,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 829301,
+      "num": 829301,
+      "word": "游客偷带食物喂兔子致大批死亡",
+      "onboard_time": 1675241491,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 802581,
       "num": 802581,
       "word": "龙凤胎的颜值差距有多大",
@@ -328,6 +360,14 @@
       "word": "张译张颂文狂飙今日大结局",
       "onboard_time": 1675212389,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 752872,
+      "num": 752872,
+      "word": "狂飙的艺术总监是张译",
+      "onboard_time": 1675244612,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -395,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 698136,
-      "num": 698136,
-      "word": "游客偷带食物喂兔子致大批死亡",
-      "onboard_time": 1675241491,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 695940,
       "num": 695940,
       "word": "中疾控科普CH.1.1变异株",
@@ -417,6 +449,14 @@
       "onboard_time": 1675169317,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 681841,
+      "num": 681841,
+      "word": "刘亦菲参加巴黎时装周",
+      "onboard_time": 1675245813,
+      "rank": 13,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 662426,
@@ -451,6 +491,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623553,
+      "num": 623553,
+      "word": "唐嫣接孙坚用跑的",
+      "onboard_time": 1675242389,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 618731,
+      "num": 618731,
+      "word": "EDG整活还得是看淀粉",
+      "onboard_time": 1675244369,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 607402,
       "num": 607402,
       "word": "第一次见这么帅的鸡",
@@ -467,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 596234,
+      "num": 596234,
+      "word": "爱奇艺发文回应",
+      "onboard_time": 1675243053,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 590817,
       "num": 590817,
       "word": "狂飙",
@@ -475,12 +539,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 589620,
+      "num": 589620,
+      "word": "全面实行股票发行注册制改革正式启动",
+      "onboard_time": 1675244311,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 584948,
       "num": 584948,
       "word": "9岁患癌男童体内取出柚子般大肿瘤",
       "onboard_time": 1675226495,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584102,
+      "num": 584102,
+      "word": "全员加速中",
+      "onboard_time": 1675245214,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 577672,
@@ -563,6 +643,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528906,
+      "num": 528906,
+      "word": "P图可以冷门但不可以邪门",
+      "onboard_time": 1675244612,
+      "rank": 22,
+      "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 526468,
+      "num": 526468,
+      "word": "迪丽热巴安乐传蓝色纱裙路透",
+      "onboard_time": 1675244732,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 518209,
       "num": 518209,
       "word": "安欣熊猫血",
@@ -627,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 477099,
-      "num": 477099,
-      "word": "唐嫣接孙坚用跑的",
-      "onboard_time": 1675242389,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 476113,
       "num": 476113,
       "word": "网传蔡徐坤将参加米兰时装周",
@@ -649,14 +737,6 @@
       "onboard_time": 1675242150,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 452293,
-      "num": 452293,
-      "word": "爱奇艺发文回应",
-      "onboard_time": 1675243053,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 450850,
@@ -689,6 +769,14 @@
       "onboard_time": 1675180171,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 435351,
+      "num": 435351,
+      "word": "撒娇对男生到底好不好用",
+      "onboard_time": 1675245393,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 435341,
@@ -803,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388541,
+      "num": 388541,
+      "word": "iG对战EDG",
+      "onboard_time": 1675243351,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 387711,
       "num": 387711,
       "word": "韩素希车银优合体拍画报",
@@ -825,6 +921,14 @@
       "onboard_time": 1675235190,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373200,
+      "num": 373200,
+      "word": "名侦探学院第九期预告",
+      "onboard_time": 1675245152,
+      "rank": 29,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 372011,
@@ -1019,6 +1123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280622,
+      "num": 280622,
+      "word": "网友偶遇沈腾桂林游玩",
+      "onboard_time": 1675243831,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274468,
       "num": 274468,
       "word": "利刃出鞘翻车",
@@ -1041,6 +1153,14 @@
       "onboard_time": 1675223313,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 272063,
+      "num": 272063,
+      "word": "小说里的大嫂从此有脸了",
+      "onboard_time": 1675243710,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 271437,
@@ -1075,14 +1195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257309,
-      "num": 257309,
-      "word": "教师侵害15名未成年女学生获刑13年",
-      "onboard_time": 1675243532,
-      "rank": 26,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 255774,
       "num": 255774,
       "word": "郭帆拍流浪地球2最爱看科学家吵架",
@@ -1097,6 +1209,14 @@
       "onboard_time": 1675229373,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252671,
+      "num": 252671,
+      "word": "谢楠 见刘德华我怎么也得化个全妆",
+      "onboard_time": 1675246532,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 247993,
@@ -1139,14 +1259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 235997,
-      "num": 235997,
-      "word": "iG对战EDG",
-      "onboard_time": 1675243351,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 235834,
       "num": 235834,
       "word": "速度与激情10海报",
@@ -1187,12 +1299,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 230346,
+      "num": 230346,
+      "word": "福建特产二选一你会选哪个",
+      "onboard_time": 1675243470,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 227120,
       "num": 227120,
       "word": "鞠婧祎新歌剧透",
       "onboard_time": 1675222953,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 225046,
+      "num": 225046,
+      "word": "上海阿姨地铁抢座说不欢迎外地人",
+      "onboard_time": 1675246173,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224406,
@@ -1211,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223287,
+      "num": 223287,
+      "word": "强盛集团孙红雷也在看狂飙",
+      "onboard_time": 1675245571,
+      "rank": 42,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 221164,
       "num": 221164,
       "word": "狂飙全体喊到名场面有现实原型",
@@ -1227,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218437,
+      "num": 218437,
+      "word": "高启强被馋哭了",
+      "onboard_time": 1675242329,
+      "rank": 41,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 214003,
       "num": 214003,
       "word": "江苏卫视元宵晚会全阵容官宣",
@@ -1241,14 +1385,6 @@
       "onboard_time": 1675223672,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210950,
-      "num": 210950,
-      "word": "高启强被馋哭了",
-      "onboard_time": 1675242329,
-      "rank": 41,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 208045,
@@ -1355,14 +1491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 189946,
-      "num": 189946,
-      "word": "网友偶遇沈腾桂林游玩",
-      "onboard_time": 1675243831,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189688,
       "num": 189688,
       "word": "恋与制作人",
@@ -1467,14 +1595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 179716,
-      "num": 179716,
-      "word": "福建特产二选一你会选哪个",
-      "onboard_time": 1675243470,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 176253,
       "num": 176253,
       "word": "雷军称喜欢并推崇任天堂",
@@ -1513,6 +1633,14 @@
       "onboard_time": 1675220250,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170289,
+      "num": 170289,
+      "word": "中纪委列狂飙里不能踩的纪律红线",
+      "onboard_time": 1675244550,
+      "rank": 46,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 166328,
@@ -1577,14 +1705,6 @@
       "onboard_time": 1675187476,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156897,
-      "num": 156897,
-      "word": "小说里的大嫂从此有脸了",
-      "onboard_time": 1675243710,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 153915,
@@ -1779,6 +1899,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 102873,
+      "num": 2043644,
+      "word": "花海为祖国山河开启温柔滤镜",
+      "onboard_time": 1675241852,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101766,
       "num": 101766,
       "word": "闪耀暖暖",
@@ -1857,14 +1985,6 @@
       "onboard_time": 1675172797,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78108,
-      "num": 2043644,
-      "word": "花海为祖国山河开启温柔滤镜",
-      "onboard_time": 1675241852,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75438,
