@@ -1,0 +1,410 @@
+{
+  "runTime": 1675268708656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4269276,
+        "num": 4269276,
+        "word": "安欣再送饺子 高启强再举杯",
+        "onboard_time": 1675256253,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2374980,
+        "num": 2374980,
+        "word": "张颂文 我永远难忘这个春节",
+        "onboard_time": 1675266870,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88610,
+        "num": 1872251,
+        "word": "春天的脚步越来越近了",
+        "onboard_time": 1675256253,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1387265,
+        "num": 1387265,
+        "word": "狂飙全员发博告别角色",
+        "onboard_time": 1675262258,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1199899,
+        "num": 1199899,
+        "word": "张颂文 演技封神",
+        "onboard_time": 1675257213,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1152022,
+        "num": 1152022,
+        "word": "狂飙最大保护伞",
+        "onboard_time": 1675257996,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1126874,
+        "num": 1126874,
+        "word": "狂飙大结局",
+        "onboard_time": 1675249470,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 966181,
+        "num": 966181,
+        "word": "丈夫出轨提离婚分家产妻子霸气回怼",
+        "onboard_time": 1675262258,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829006,
+        "num": 829006,
+        "word": "90后丁克夫妻被双方父母轮番催生",
+        "onboard_time": 1675264958,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693176,
+        "num": 693176,
+        "word": "胡鑫宇事件最新情况",
+        "onboard_time": 1675252528,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812373,
+        "num": 625889,
+        "word": "大嫂怎么死的",
+        "onboard_time": 1675253190,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 718874,
+        "num": 586059,
+        "word": "安欣 小五",
+        "onboard_time": 1675254808,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 710732,
+        "num": 559772,
+        "word": "黄旭熙更新练习室舞蹈视频",
+        "onboard_time": 1675265493,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 527245,
+        "num": 527245,
+        "word": "大张伟当着王鸥的面喊杨幂",
+        "onboard_time": 1675253610,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502143,
+        "num": 502143,
+        "word": "张杰自曝曾被质疑假唱",
+        "onboard_time": 1675264054,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497736,
+        "num": 497736,
+        "word": "男子7楼打开门却是13楼邻居家",
+        "onboard_time": 1675267110,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368181,
+        "num": 368181,
+        "word": "谢天华因少买咖啡被同组女演员排挤",
+        "onboard_time": 1675264414,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295810,
+        "num": 295810,
+        "word": "女子花100万在农村建120平3层房",
+        "onboard_time": 1675258356,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284607,
+        "num": 284607,
+        "word": "人民网评6岁男童进女厕事件",
+        "onboard_time": 1675240232,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282773,
+        "num": 282773,
+        "word": "妈妈终于认可了这个衣柜",
+        "onboard_time": 1675266390,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 362524,
+        "num": 282324,
+        "word": "高晓晨车祸怎么一点事都没有",
+        "onboard_time": 1675254691,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338800,
+        "num": 281565,
+        "word": "烂片能离谱到什么程度",
+        "onboard_time": 1675262316,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333392,
+        "num": 281290,
+        "word": "虞书欣粉色抹胸碎花裙",
+        "onboard_time": 1675267291,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317492,
+        "num": 280512,
+        "word": "高启兰陈书婷 梦中情姐",
+        "onboard_time": 1675259137,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315891,
+        "num": 279769,
+        "word": "高叶也不知道大嫂怎么死的",
+        "onboard_time": 1675252407,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307709,
+        "num": 279027,
+        "word": "黄瑶没有一天不恨高启强",
+        "onboard_time": 1675255473,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278412,
+        "num": 278412,
+        "word": "边牧吃醋将主人养了5年金毛拐跑",
+        "onboard_time": 1675258537,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224006,
+        "num": 224006,
+        "word": "著名乳腺外科专家黄汉源去世",
+        "onboard_time": 1675259494,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217995,
+        "num": 217995,
+        "word": "主人推门发现6只布偶猫挂在墙上",
+        "onboard_time": 1675256132,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173170,
+        "num": 173170,
+        "word": "妈妈很会谈恋爱是种什么体验",
+        "onboard_time": 1675261532,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297769,
+        "num": 171750,
+        "word": "赵立冬死刑",
+        "onboard_time": 1675257575,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289711,
+        "num": 171435,
+        "word": "流浪地球2票房破29亿",
+        "onboard_time": 1675265374,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271113,
+        "num": 169601,
+        "word": "李成洙晒与黄旭熙合照",
+        "onboard_time": 1675257395,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256517,
+        "num": 168029,
+        "word": "陈铚研林鹏翔官宣",
+        "onboard_time": 1675261896,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253766,
+        "num": 167132,
+        "word": "黄瑶写给安欣的信",
+        "onboard_time": 1675254151,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247787,
+        "num": 164777,
+        "word": "安警官 新年快乐",
+        "onboard_time": 1675257753,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164391,
+        "num": 164391,
+        "word": "iG正统在iG",
+        "onboard_time": 1675247254,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158894,
+        "num": 158894,
+        "word": "高中的友谊会是一辈子的友谊",
+        "onboard_time": 1675260213,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129407,
+        "num": 129407,
+        "word": "胡鑫宇事件新闻发布会明天召开",
+        "onboard_time": 1675246953,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122760,
+        "num": 122760,
+        "word": "我都想跟你女朋友谈恋爱了",
+        "onboard_time": 1675255352,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231140,
+        "num": 122397,
+        "word": "流浪地球3刘德华演笨笨吴京演MOSS",
+        "onboard_time": 1675266451,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203551,
+        "num": 122126,
+        "word": "程耳王一博半夜去看无名",
+        "onboard_time": 1675257814,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196219,
+        "num": 121880,
+        "word": "陈国恩offer4现场拒绝offer",
+        "onboard_time": 1675259376,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173210,
+        "num": 121152,
+        "word": "陈林尽染",
+        "onboard_time": 1675264355,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154829,
+        "num": 121101,
+        "word": "刘亦菲分享第一次插花plog",
+        "onboard_time": 1675255531,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150072,
+        "num": 120574,
+        "word": "王一博演热烈是街舞工作者集体推荐",
+        "onboard_time": 1675260876,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120319,
+        "num": 120319,
+        "word": "汤姆布雷迪再次宣布退役",
+        "onboard_time": 1675261477,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150880,
+        "num": 118813,
+        "word": "教师侵害15名未成年女学生获刑13年",
+        "onboard_time": 1675243532,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 115886,
+        "num": 115886,
+        "word": "没鼻梁的人有福了",
+        "onboard_time": 1675239510,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109935,
+        "num": 109935,
+        "word": "为什么一定要选择正规医疗机构",
+        "onboard_time": 1675268186,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023全国两会调查#"
+    }
+  }
+}
