@@ -1,0 +1,410 @@
+{
+  "runTime": 1675225355790,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2225066,
+        "num": 2225066,
+        "word": "伊朗情侣公开场合跳舞被判10年",
+        "onboard_time": 1675220609,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1692828,
+        "num": 1692828,
+        "word": "女子找熟人25万装房子成精简风",
+        "onboard_time": 1675220790,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17101,
+        "num": 1380528,
+        "word": "1月份制造业PMI升至50.1%",
+        "onboard_time": 1675170759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1272530,
+        "num": 1272530,
+        "word": "夫妻连续两胎均性别难辨",
+        "onboard_time": 1675216106,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030820,
+        "num": 1030820,
+        "word": "赵丽颖将进组新戏",
+        "onboard_time": 1675223915,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 939340,
+        "num": 939340,
+        "word": "男子连喝2场酒死亡6酒友赔27万",
+        "onboard_time": 1675223793,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 802055,
+        "num": 802055,
+        "word": "女生大学四年攒钱给妈妈买房",
+        "onboard_time": 1675221751,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 763024,
+        "num": 763024,
+        "word": "网传浪姐4最终拟邀名单",
+        "onboard_time": 1675218988,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 705822,
+        "num": 705822,
+        "word": "张颂文和巩俐走红毯",
+        "onboard_time": 1675221149,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662426,
+        "num": 662426,
+        "word": "今天是李响头七",
+        "onboard_time": 1675220849,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2670270,
+        "num": 654893,
+        "word": "刘强东生子后立即回国工作",
+        "onboard_time": 1675221032,
+        "rank": 10,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1073589,
+        "num": 650630,
+        "word": "昆山一男医生社交平台发女患者私密照",
+        "onboard_time": 1675221451,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637421,
+        "num": 637421,
+        "word": "孟德海到底是不是保护伞",
+        "onboard_time": 1675222111,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 632466,
+        "num": 632466,
+        "word": "iPhone16或仅最高端机型配潜望式镜头",
+        "onboard_time": 1675217367,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 590058,
+        "num": 590058,
+        "word": "女子在婆家被打娘家齐上阵",
+        "onboard_time": 1675223132,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577672,
+        "num": 577672,
+        "word": "赵丽颖2023年的目标和心愿",
+        "onboard_time": 1675224817,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 538055,
+        "num": 538055,
+        "word": "微念退出李子柒公司",
+        "onboard_time": 1675222774,
+        "rank": 16,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 531694,
+        "num": 531694,
+        "word": "女子恋爱6年被分手报警讨说法",
+        "onboard_time": 1675215628,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525716,
+        "num": 525716,
+        "word": "王嘉晨",
+        "onboard_time": 1675216467,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398993,
+        "num": 398993,
+        "word": "颖儿赵露思合照",
+        "onboard_time": 1675219647,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432625,
+        "num": 398044,
+        "word": "王嘉晨回应狂飙拍了100集是玩笑",
+        "onboard_time": 1675219949,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387688,
+        "num": 387688,
+        "word": "当事人回应初四相亲初八结婚",
+        "onboard_time": 1675223615,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369536,
+        "num": 369536,
+        "word": "扎堆提前还房贷并不可取",
+        "onboard_time": 1675214610,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 330936,
+        "num": 330936,
+        "word": "国家队团建式喊话流浪地球",
+        "onboard_time": 1675221933,
+        "rank": 23,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 324452,
+        "num": 324452,
+        "word": "孟钰的包15万",
+        "onboard_time": 1675223014,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310701,
+        "num": 310701,
+        "word": "流浪地球2里的机甲不是特效",
+        "onboard_time": 1675212449,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301307,
+        "num": 301307,
+        "word": "女生爱啃鸭脖甘蔗门牙3次被硌断",
+        "onboard_time": 1675223915,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305328,
+        "num": 296181,
+        "word": "刘慈欣称太空电梯最难是材料",
+        "onboard_time": 1675218452,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288018,
+        "num": 288018,
+        "word": "日本考虑放宽对中国旅客入境管控",
+        "onboard_time": 1675221389,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280610,
+        "num": 280610,
+        "word": "内娱那些一眼万年的舞台",
+        "onboard_time": 1675225054,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273295,
+        "num": 273295,
+        "word": "唐嫣终于进组拍戏了",
+        "onboard_time": 1675225115,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272988,
+        "num": 272988,
+        "word": "杨幂黑西服侧颜随拍",
+        "onboard_time": 1675223313,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268871,
+        "num": 268871,
+        "word": "近三年房贷成本累计减少16%",
+        "onboard_time": 1675218568,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 308483,
+        "num": 268140,
+        "word": "张译张颂文狂飙今日大结局",
+        "onboard_time": 1675212389,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266038,
+        "num": 266038,
+        "word": "第一次见这么帅的鸡",
+        "onboard_time": 1675213529,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227120,
+        "num": 227120,
+        "word": "鞠婧祎新歌剧透",
+        "onboard_time": 1675222953,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219166,
+        "num": 219166,
+        "word": "哥哥用打火机把弟弟寒假作业烤没",
+        "onboard_time": 1675217428,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212039,
+        "num": 212039,
+        "word": "詹姆斯28分三双",
+        "onboard_time": 1675223672,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209121,
+        "num": 209121,
+        "word": "切尔西1.2亿欧签下恩佐",
+        "onboard_time": 1675209445,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206447,
+        "num": 206447,
+        "word": "利刃出鞘翻车",
+        "onboard_time": 1675220431,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200040,
+        "num": 200040,
+        "word": "赵露思下班后和助理散步遛狗",
+        "onboard_time": 1675225296,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183512,
+        "num": 183512,
+        "word": "女子擅坐警车拍照还对交警撒娇",
+        "onboard_time": 1675224636,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178933,
+        "num": 178933,
+        "word": "福建人是都会飞吗",
+        "onboard_time": 1675224636,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172343,
+        "num": 172343,
+        "word": "满江红苦与甜版剧情海报",
+        "onboard_time": 1675225054,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172125,
+        "num": 172125,
+        "word": "谭松韵二月在剧组拍戏",
+        "onboard_time": 1675220130,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168528,
+        "num": 168528,
+        "word": "遭辱骂女子被对方举报要求视频下架",
+        "onboard_time": 1675176760,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160839,
+        "num": 160839,
+        "word": "Apex手游5月停运",
+        "onboard_time": 1675220369,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146879,
+        "num": 146879,
+        "word": "苹果或2025年推出可折叠笔记本",
+        "onboard_time": 1675221451,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 144099,
+        "num": 144099,
+        "word": "Hero团建栖霞山爬山pk",
+        "onboard_time": 1675225296,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143044,
+        "num": 143044,
+        "word": "猫咪慢性呕吐2个月胃中塞满线绳",
+        "onboard_time": 1675181966,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#强信心开新局#"
+    }
+  }
+}
