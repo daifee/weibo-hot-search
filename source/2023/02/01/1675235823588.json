@@ -1,0 +1,410 @@
+{
+  "runTime": 1675235823588,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1917277,
+        "num": 1917277,
+        "word": "韩国女子在驻韩美军基地被性侵",
+        "onboard_time": 1675229553,
+        "rank": 0,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 1578607,
+        "num": 1578607,
+        "word": "高叶 浪姐4",
+        "onboard_time": 1675227576,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151985,
+        "num": 1476690,
+        "word": "各地灯会直拍",
+        "onboard_time": 1675230447,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1444415,
+        "num": 1444415,
+        "word": "Lisa购买75亿韩元住宅",
+        "onboard_time": 1675232370,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1121848,
+        "num": 1121848,
+        "word": "杨洋被网友错认成女演员",
+        "onboard_time": 1675233812,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1084203,
+        "num": 1084203,
+        "word": "鱼跃医疗被罚270万元",
+        "onboard_time": 1675232668,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 871506,
+        "num": 871506,
+        "word": "女子找熟人25万装房子成精简风",
+        "onboard_time": 1675220790,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810468,
+        "num": 810468,
+        "word": "吴京半年没怎么吃碳水",
+        "onboard_time": 1675229910,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 802581,
+        "num": 802581,
+        "word": "龙凤胎的颜值差距有多大",
+        "onboard_time": 1675231530,
+        "rank": 8,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 731205,
+        "num": 731205,
+        "word": "刘强东得子后立即回国工作",
+        "onboard_time": 1675221032,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 723592,
+        "num": 723592,
+        "word": "嗯哼长青春痘了",
+        "onboard_time": 1675235371,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605955,
+        "num": 605955,
+        "word": "男子连喝2场酒死亡6酒友赔27万",
+        "onboard_time": 1675223793,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 535922,
+        "num": 535922,
+        "word": "高叶跳舞",
+        "onboard_time": 1675233812,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 534711,
+        "num": 534711,
+        "word": "快把猫给高启强撸",
+        "onboard_time": 1675232189,
+        "rank": 13,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 511458,
+        "num": 511458,
+        "word": "王鹤棣白鹿背后拥抱看剧本路透",
+        "onboard_time": 1675231349,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 494698,
+        "num": 494698,
+        "word": "夫妻连续两胎均性别难辨",
+        "onboard_time": 1675216106,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476113,
+        "num": 476113,
+        "word": "网传蔡徐坤将参加米兰时装周",
+        "onboard_time": 1675233812,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 445610,
+        "num": 445610,
+        "word": "沙溢拍流浪地球2一天吃六七顿",
+        "onboard_time": 1675228953,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387711,
+        "num": 387711,
+        "word": "韩素希车银优合体拍画报",
+        "onboard_time": 1675233211,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 373909,
+        "num": 373909,
+        "word": "流浪地球2单日票房反超满江红",
+        "onboard_time": 1675232911,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372861,
+        "num": 372861,
+        "word": "电影无名票房超过媒体预测",
+        "onboard_time": 1675228650,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363729,
+        "num": 363729,
+        "word": "唐嫣终于进组拍戏了",
+        "onboard_time": 1675225115,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339024,
+        "num": 339024,
+        "word": "刘强东实控企业超300家",
+        "onboard_time": 1675234231,
+        "rank": 22,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 335859,
+        "num": 335859,
+        "word": "高叶旧照",
+        "onboard_time": 1675235190,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328158,
+        "num": 328158,
+        "word": "张艺谋说满江红是正能量的传承",
+        "onboard_time": 1675232131,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306495,
+        "num": 306495,
+        "word": "昆山一男医生社交平台发女患者私密照",
+        "onboard_time": 1675221451,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303321,
+        "num": 303321,
+        "word": "女性分娩阵痛到底有多痛",
+        "onboard_time": 1675235431,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296361,
+        "num": 296361,
+        "word": "情侣刚分手为何不要马上删除",
+        "onboard_time": 1675234887,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288010,
+        "num": 288010,
+        "word": "文韬记忆大师",
+        "onboard_time": 1675234291,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254762,
+        "num": 254762,
+        "word": "9岁患癌男童体内取出柚子般大肿瘤",
+        "onboard_time": 1675226495,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269515,
+        "num": 253038,
+        "word": "85花都进组拍戏了",
+        "onboard_time": 1675231170,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258024,
+        "num": 245739,
+        "word": "孟钰的包15万",
+        "onboard_time": 1675223014,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232464,
+        "num": 232464,
+        "word": "女子在婆家被打娘家齐上阵",
+        "onboard_time": 1675223132,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226090,
+        "num": 226090,
+        "word": "赵丽颖将进组新戏",
+        "onboard_time": 1675223915,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212774,
+        "num": 212774,
+        "word": "孟德海到底是不是保护伞",
+        "onboard_time": 1675222111,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201106,
+        "num": 201106,
+        "word": "伊朗情侣公开场合跳舞被判10年",
+        "onboard_time": 1675220609,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200267,
+        "num": 200267,
+        "word": "天冷后变得敷衍的狗狗",
+        "onboard_time": 1675232370,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 197519,
+        "num": 197519,
+        "word": "薛之谦线上演唱会倒计时",
+        "onboard_time": 1675235789,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187192,
+        "num": 187192,
+        "word": "女生大学四年攒钱给妈妈买房",
+        "onboard_time": 1675221751,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180194,
+        "num": 180194,
+        "word": "越级汇报是职场大忌吗",
+        "onboard_time": 1675235431,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178989,
+        "num": 178989,
+        "word": "文草草和已婚男领导用情侣水杯",
+        "onboard_time": 1675228953,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175269,
+        "num": 175269,
+        "word": "当事人回应初四相亲初八结婚",
+        "onboard_time": 1675223615,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174755,
+        "num": 174755,
+        "word": "以为下班遇到了安欣",
+        "onboard_time": 1675235309,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162795,
+        "num": 162795,
+        "word": "这猫打架咋还谈判呢",
+        "onboard_time": 1675235550,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158155,
+        "num": 158155,
+        "word": "黄子弘凡的嘴好像开过光",
+        "onboard_time": 1675229312,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151121,
+        "num": 151121,
+        "word": "网易发布暴雪游戏开放退款说明",
+        "onboard_time": 1675225897,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150545,
+        "num": 150545,
+        "word": "女子擅坐警车拍照还对交警撒娇",
+        "onboard_time": 1675224636,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149253,
+        "num": 149253,
+        "word": "长沙望城发现3头长江江豚",
+        "onboard_time": 1675227516,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145461,
+        "num": 145461,
+        "word": "女子恋爱6年被分手报警讨说法",
+        "onboard_time": 1675215628,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144174,
+        "num": 144174,
+        "word": "黄晓明说同事之间出现矛盾要好好沟通",
+        "onboard_time": 1675229070,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#原来有这么多诗词描写祖国大好河山#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675233523477,
+  "endTime": 1675235823588,
   "band_list": [
     {
       "raw_hot": 3530109,
@@ -59,8 +59,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1856412,
-      "num": 1856412,
+      "raw_hot": 1917277,
+      "num": 1917277,
       "word": "韩国女子在驻韩美军基地被性侵",
       "onboard_time": 1675229553,
       "rank": 47,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1121848,
+      "num": 1121848,
+      "word": "杨洋被网友错认成女演员",
+      "onboard_time": 1675233812,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1107860,
       "num": 733839,
       "word": "昆山一男医生社交平台发女患者私密照",
@@ -145,6 +153,14 @@
       "onboard_time": 1675225115,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1084203,
+      "num": 1084203,
+      "word": "鱼跃医疗被罚270万元",
+      "onboard_time": 1675232668,
+      "rank": 22,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1030820,
@@ -235,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 802581,
+      "num": 802581,
+      "word": "龙凤胎的颜值差距有多大",
+      "onboard_time": 1675231530,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 802055,
       "num": 802055,
       "word": "女生大学四年攒钱给妈妈买房",
@@ -257,6 +281,14 @@
       "onboard_time": 1675223132,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723592,
+      "num": 723592,
+      "word": "嗯哼长青春痘了",
+      "onboard_time": 1675235371,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 719649,
@@ -411,12 +443,20 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 537278,
-      "num": 537278,
-      "word": "龙凤胎的颜值差距有多大",
-      "onboard_time": 1675231530,
-      "rank": 23,
-      "category": "情感,幽默"
+      "raw_hot": 535922,
+      "num": 535922,
+      "word": "高叶跳舞",
+      "onboard_time": 1675233812,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 534711,
+      "num": 534711,
+      "word": "快把猫给高启强撸",
+      "onboard_time": 1675232189,
+      "rank": 42,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 533679,
@@ -473,6 +513,14 @@
       "onboard_time": 1675223615,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476113,
+      "num": 476113,
+      "word": "网传蔡徐坤将参加米兰时装周",
+      "onboard_time": 1675233812,
+      "rank": 16,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 442046,
@@ -579,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387711,
+      "num": 387711,
+      "word": "韩素希车银优合体拍画报",
+      "onboard_time": 1675233211,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 386579,
       "num": 386579,
       "word": "河南新设立九所高校",
@@ -587,12 +643,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 380911,
-      "num": 380911,
-      "word": "韩素希车银优合体拍画报",
-      "onboard_time": 1675233211,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 373909,
+      "num": 373909,
+      "word": "流浪地球2单日票房反超满江红",
+      "onboard_time": 1675232911,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 372011,
@@ -643,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351733,
-      "num": 351733,
-      "word": "快把猫给高启强撸",
-      "onboard_time": 1675232189,
-      "rank": 42,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 347076,
       "num": 347076,
       "word": "张艺谋说满江红是正能量的传承",
@@ -673,6 +721,22 @@
       "onboard_time": 1675225897,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 339024,
+      "num": 339024,
+      "word": "刘强东实控企业超300家",
+      "onboard_time": 1675234231,
+      "rank": 22,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 335859,
+      "num": 335859,
+      "word": "高叶旧照",
+      "onboard_time": 1675235190,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 334993,
@@ -723,12 +787,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303321,
+      "num": 303321,
+      "word": "女性分娩阵痛到底有多痛",
+      "onboard_time": 1675235431,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303306,
       "num": 303306,
       "word": "北京明白真明白了没有",
       "onboard_time": 1675214909,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296361,
+      "num": 296361,
+      "word": "情侣刚分手为何不要马上删除",
+      "onboard_time": 1675234887,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 295220,
@@ -745,6 +825,14 @@
       "onboard_time": 1675221389,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288010,
+      "num": 288010,
+      "word": "文韬记忆大师",
+      "onboard_time": 1675234291,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 286538,
@@ -769,14 +857,6 @@
       "onboard_time": 1675186996,
       "rank": 4,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 284817,
-      "num": 284817,
-      "word": "鱼跃医疗被罚270万元",
-      "onboard_time": 1675232668,
-      "rank": 22,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 281107,
@@ -915,14 +995,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 231252,
-      "num": 231252,
-      "word": "流浪地球2单日票房反超满江红",
-      "onboard_time": 1675232911,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 227120,
       "num": 227120,
       "word": "鞠婧祎新歌剧透",
@@ -1003,12 +1075,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200267,
+      "num": 200267,
+      "word": "天冷后变得敷衍的狗狗",
+      "onboard_time": 1675232370,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 197639,
       "num": 197639,
       "word": "苹果或2025年推出可折叠笔记本",
       "onboard_time": 1675221451,
       "rank": 33,
       "category": "科技"
+    },
+    {
+      "raw_hot": 197519,
+      "num": 197519,
+      "word": "薛之谦线上演唱会倒计时",
+      "onboard_time": 1675235789,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 197283,
@@ -1067,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180194,
+      "num": 180194,
+      "word": "越级汇报是职场大忌吗",
+      "onboard_time": 1675235431,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179986,
       "num": 179986,
       "word": "河南省投资教育事业有多拼",
@@ -1075,12 +1171,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 176307,
-      "num": 176307,
-      "word": "天冷后变得敷衍的狗狗",
-      "onboard_time": 1675232370,
-      "rank": 46,
-      "category": "幽默,情感"
+      "raw_hot": 174755,
+      "num": 174755,
+      "word": "以为下班遇到了安欣",
+      "onboard_time": 1675235309,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172343,
@@ -1105,6 +1201,14 @@
       "onboard_time": 1675220250,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162795,
+      "num": 162795,
+      "word": "这猫打架咋还谈判呢",
+      "onboard_time": 1675235550,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 161901,
@@ -1161,6 +1265,14 @@
       "onboard_time": 1675232071,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151985,
+      "num": 1676391,
+      "word": "各地灯会直拍",
+      "onboard_time": 1675230447,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151897,
@@ -1304,14 +1416,6 @@
       "word": "突然看到漫天风筝以为进了动画片",
       "onboard_time": 1675182628,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121381,
-      "num": 1676391,
-      "word": "各地灯会直拍",
-      "onboard_time": 1675230447,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
