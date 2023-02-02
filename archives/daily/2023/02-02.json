@@ -1,6 +1,6 @@
 {
   "startTime": 1675268708656,
-  "endTime": 1675342580474,
+  "endTime": 1675344563097,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2749245,
+      "num": 687981,
+      "word": "男孩膀胱塞入19粒磁珠1年后取出",
+      "onboard_time": 1675341752,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2554161,
       "num": 2554161,
       "word": "谭卓 建议查查张译",
@@ -107,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2178886,
+      "num": 2178886,
+      "word": "专家称年轻人工资低可能是能力不够",
+      "onboard_time": 1675333654,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2102309,
       "num": 2102309,
       "word": "胡鑫宇尸体发现地系原始第一现场",
@@ -121,14 +137,6 @@
       "onboard_time": 1675324770,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1960257,
-      "num": 1960257,
-      "word": "专家称年轻人工资低可能是能力不够",
-      "onboard_time": 1675333654,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1907992,
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 898660,
+      "num": 660513,
+      "word": "爱奇艺已下线会员权益转赠功能",
+      "onboard_time": 1675341752,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 864086,
       "num": 864086,
       "word": "安长林 好人",
@@ -448,6 +464,22 @@
       "word": "狂飙删减",
       "onboard_time": 1675298128,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 837230,
+      "num": 837230,
+      "word": "王鹤棣点赞男生腹肌视频",
+      "onboard_time": 1675339831,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 830623,
+      "num": 830623,
+      "word": "老默 我想吃鱼了",
+      "onboard_time": 1675342595,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -539,11 +571,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 730775,
-      "num": 730775,
-      "word": "王鹤棣点赞男生腹肌视频",
-      "onboard_time": 1675339831,
-      "rank": 10,
+      "raw_hot": 725829,
+      "num": 649567,
+      "word": "张颂文与他的经纪人赵玉德",
+      "onboard_time": 1675342052,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -577,14 +609,6 @@
       "onboard_time": 1675316371,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 714187,
-      "num": 687981,
-      "word": "男孩膀胱塞入19粒磁珠1年后取出",
-      "onboard_time": 1675341752,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 710732,
@@ -675,6 +699,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 635655,
+      "num": 635655,
+      "word": "对存款50万以上的征税合理吗",
+      "onboard_time": 1675341332,
+      "rank": 43,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 630616,
       "num": 630616,
       "word": "王一博开心可以摸到梁朝伟的脸",
@@ -699,6 +731,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 616210,
+      "num": 616210,
+      "word": "得了抑郁症身体会发出信号",
+      "onboard_time": 1675343075,
+      "rank": 14,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 586879,
       "num": 586879,
       "word": "蒋依依新剧人设",
@@ -720,6 +760,14 @@
       "word": "金巧巧 关于电影无名聊三句",
       "onboard_time": 1675305646,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 577951,
+      "num": 577951,
+      "word": "狂飙小说 陈书婷",
+      "onboard_time": 1675343497,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -931,14 +979,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 432019,
-      "num": 432019,
-      "word": "爱奇艺已下线会员权益转赠功能",
-      "onboard_time": 1675341752,
-      "rank": 20,
-      "category": "科技"
-    },
-    {
       "raw_hot": 426254,
       "num": 426254,
       "word": "女子落入流浪地球投资骗局被骗11万",
@@ -1009,6 +1049,14 @@
       "onboard_time": 1675335033,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391513,
+      "num": 391513,
+      "word": "去有风的地方",
+      "onboard_time": 1675341992,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 391179,
@@ -1107,6 +1155,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 362175,
+      "num": 362175,
+      "word": "Qingtian诺手1V3三杀",
+      "onboard_time": 1675343376,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 361369,
+      "num": 361369,
+      "word": "T1 BP",
+      "onboard_time": 1675343436,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 358151,
       "num": 358151,
       "word": "王一博晒苏翊鸣送的亲签滑雪板",
@@ -1203,14 +1267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330423,
-      "num": 330423,
-      "word": "去有风的地方",
-      "onboard_time": 1675341992,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 328564,
       "num": 328564,
       "word": "当代年轻人的统一衣柜",
@@ -1219,12 +1275,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 328112,
-      "num": 328112,
-      "word": "对存款50万以上的征税合理吗",
-      "onboard_time": 1675341332,
-      "rank": 43,
-      "category": "社会议题"
+      "raw_hot": 327428,
+      "num": 327428,
+      "word": "马兆海鸥",
+      "onboard_time": 1675342475,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 326109,
@@ -1257,14 +1313,6 @@
       "onboard_time": 1675322791,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320241,
-      "num": 320241,
-      "word": "张颂文与他的经纪人赵玉德",
-      "onboard_time": 1675342052,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 317492,
@@ -1305,6 +1353,22 @@
       "onboard_time": 1675289772,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 313106,
+      "num": 313106,
+      "word": "BOYSPLANET直播",
+      "onboard_time": 1675343614,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 312481,
+      "num": 312481,
+      "word": "胡鑫宇事件发布会汇总",
+      "onboard_time": 1675340493,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308181,
@@ -1467,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268706,
+      "num": 268706,
+      "word": "三体",
+      "onboard_time": 1675343975,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264850,
       "num": 264850,
       "word": "何运晨一语惊醒机器人",
@@ -1547,19 +1619,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254829,
+      "num": 254829,
+      "word": "爱奇艺回应3台设备同时登账号被封",
+      "onboard_time": 1675343436,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 253766,
       "num": 167132,
       "word": "黄瑶写给安欣的信",
       "onboard_time": 1675254151,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 252746,
-      "num": 252746,
-      "word": "马兆海鸥",
-      "onboard_time": 1675342475,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -1688,14 +1760,6 @@
       "word": "主人推门发现6只布偶猫挂在墙上",
       "onboard_time": 1675256132,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217460,
-      "num": 217460,
-      "word": "胡鑫宇事件发布会汇总",
-      "onboard_time": 1675340493,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2330,6 +2394,9 @@
     },
     {
       "word": "#兔年开工第一周总书记作出重要部署#"
+    },
+    {
+      "word": "#强信心开新局#"
     }
   ]
 }
