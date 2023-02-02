@@ -1,0 +1,410 @@
+{
+  "runTime": 1675347435787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2454247,
+        "num": 2454247,
+        "word": "专家称年轻人工资低可能是能力不够",
+        "onboard_time": 1675333654,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1222838,
+        "num": 1222838,
+        "word": "3台设备同时登爱奇艺账号被封",
+        "onboard_time": 1675332754,
+        "rank": 1,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 179639,
+        "num": 1144892,
+        "word": "立春过后是元宵",
+        "onboard_time": 1675344816,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1894680,
+        "num": 1135345,
+        "word": "网友泰国街头偶遇蔡徐坤",
+        "onboard_time": 1675345837,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1113981,
+        "num": 1113981,
+        "word": "狂飙小说 陈书婷",
+        "onboard_time": 1675343497,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1095847,
+        "num": 1095847,
+        "word": "黄瑶扮演者直播间被骂白眼狼",
+        "onboard_time": 1675335513,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 991061,
+        "num": 991061,
+        "word": "得了抑郁症身体会发出信号",
+        "onboard_time": 1675343075,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 880334,
+        "num": 880334,
+        "word": "胡鑫宇曾向母亲哭诉不想读书",
+        "onboard_time": 1675323749,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860879,
+        "num": 860879,
+        "word": "张颂文与他的经纪人赵玉德",
+        "onboard_time": 1675342052,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741840,
+        "num": 741840,
+        "word": "专家怒批50万以上存款征税",
+        "onboard_time": 1675326811,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 2581783,
+        "num": 724805,
+        "word": "男孩膀胱塞入19粒磁珠1年后取出",
+        "onboard_time": 1675341752,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767142,
+        "num": 708015,
+        "word": "爱奇艺已下线会员权益转赠功能",
+        "onboard_time": 1675341752,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 677841,
+        "num": 677841,
+        "word": "对存款50万以上的征税合理吗",
+        "onboard_time": 1675341332,
+        "rank": 12,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 644722,
+        "num": 644722,
+        "word": "王一博 苏翊鸣",
+        "onboard_time": 1675329634,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 640407,
+        "num": 640407,
+        "word": "老默 我想吃鱼了",
+        "onboard_time": 1675342595,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585530,
+        "num": 585530,
+        "word": "渐进式延迟退休方案或于2023年公布",
+        "onboard_time": 1675346679,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581842,
+        "num": 581842,
+        "word": "刘诗诗告黑",
+        "onboard_time": 1675345657,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508048,
+        "num": 508048,
+        "word": "对我而言危险的他",
+        "onboard_time": 1675346316,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 476267,
+        "num": 476267,
+        "word": "孟美岐空降百分百开麦",
+        "onboard_time": 1675346679,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453020,
+        "num": 453020,
+        "word": "王鹤棣点赞男生腹肌视频",
+        "onboard_time": 1675339831,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450255,
+        "num": 450255,
+        "word": "欧盟将禁止航天员登中国天宫",
+        "onboard_time": 1675338989,
+        "rank": 20,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 427604,
+        "num": 427604,
+        "word": "乐华boysplanet英雄舞台",
+        "onboard_time": 1675345357,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420129,
+        "num": 420129,
+        "word": "李一桐说拍狂飙像进入顶级叔圈",
+        "onboard_time": 1675336292,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385717,
+        "num": 385717,
+        "word": "刘德华逗吴京儿子",
+        "onboard_time": 1675345777,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380384,
+        "num": 380384,
+        "word": "千斤棺木压手戴10年尾戒保住男子手指",
+        "onboard_time": 1675330173,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379088,
+        "num": 379088,
+        "word": "T1 BP",
+        "onboard_time": 1675343436,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 371556,
+        "num": 371556,
+        "word": "辽宁袭击医生嫌疑人被抓获",
+        "onboard_time": 1675346795,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369081,
+        "num": 369081,
+        "word": "谭卓 建议查查张译",
+        "onboard_time": 1675326872,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366064,
+        "num": 366064,
+        "word": "王俊凯方发布严正声明",
+        "onboard_time": 1675335993,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355480,
+        "num": 355480,
+        "word": "红豆遥遥冰的爱还在继续",
+        "onboard_time": 1675346557,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353823,
+        "num": 353823,
+        "word": "黄子欧皇",
+        "onboard_time": 1675344757,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317779,
+        "num": 317779,
+        "word": "张颂文 天tian",
+        "onboard_time": 1675325614,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312943,
+        "num": 312943,
+        "word": "爱奇艺回应3台设备登录账号被封",
+        "onboard_time": 1675334315,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 307218,
+        "num": 307218,
+        "word": "李一桐说和张译合作很过瘾",
+        "onboard_time": 1675346978,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302540,
+        "num": 302540,
+        "word": "去有风的地方",
+        "onboard_time": 1675341992,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301397,
+        "num": 301397,
+        "word": "张译 狂飙微博",
+        "onboard_time": 1675311036,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297944,
+        "num": 297944,
+        "word": "王一博电影无名破7亿海报",
+        "onboard_time": 1675335934,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289392,
+        "num": 289392,
+        "word": "30岁女子买70万平小岛成岛主",
+        "onboard_time": 1675327233,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279280,
+        "num": 279280,
+        "word": "安欣再送饺子 高启强再举杯",
+        "onboard_time": 1675256253,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278244,
+        "num": 278244,
+        "word": "张杰IU唱的marryyou",
+        "onboard_time": 1675334555,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260690,
+        "num": 260690,
+        "word": "王鸥说没有人会相信我",
+        "onboard_time": 1675330113,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249565,
+        "num": 249565,
+        "word": "Qingtian诺手1V3三杀",
+        "onboard_time": 1675343376,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247547,
+        "num": 247547,
+        "word": "内娱ending的神",
+        "onboard_time": 1675337314,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238562,
+        "num": 238562,
+        "word": "动物园23天后才找到溺亡小老虎",
+        "onboard_time": 1675335033,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237968,
+        "num": 237968,
+        "word": "专家称今年楼市必回暖甚至缺房",
+        "onboard_time": 1675328315,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 230348,
+        "num": 230348,
+        "word": "苏新皓二刷了满江红",
+        "onboard_time": 1675345176,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230010,
+        "num": 230010,
+        "word": "樊治欣直播",
+        "onboard_time": 1675346498,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221089,
+        "num": 221089,
+        "word": "马兆海鸥",
+        "onboard_time": 1675342475,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218027,
+        "num": 218027,
+        "word": "胡鑫宇事件发布会汇总",
+        "onboard_time": 1675340493,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213726,
+        "num": 213726,
+        "word": "狂飙大结局",
+        "onboard_time": 1675249470,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#强信心开新局#"
+    }
+  }
+}
