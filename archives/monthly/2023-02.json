@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675352110667,
+  "endTime": 1675355180251,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -1339,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 683508,
+      "num": 683508,
+      "word": "当广东人看完狂飙",
+      "onboard_time": 1675350695,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 683171,
       "num": 683171,
       "word": "张杰IU唱的marryyou",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1675313019,
       "rank": 12,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 671300,
+      "num": 671300,
+      "word": "房东曾让张颂文给李宇春投票",
+      "onboard_time": 1675350695,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 662426,
@@ -1643,14 +1659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 569469,
-      "num": 569469,
-      "word": "房东曾让张颂文给李宇春投票",
-      "onboard_time": 1675350695,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 566174,
       "num": 543858,
       "word": "烂片能离谱到什么程度",
@@ -1731,6 +1739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 539525,
+      "num": 539525,
+      "word": "声生不息宝岛季你最期待谁",
+      "onboard_time": 1675353511,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 538211,
       "num": 538211,
       "word": "伽罗新皮肤炽翼辉光",
@@ -1771,6 +1787,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 533993,
+      "num": 533993,
+      "word": "女子承认邻居连生7女1男为造假",
+      "onboard_time": 1675352910,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 533679,
       "num": 533679,
       "word": "哥哥用打火机把弟弟寒假作业烤没",
@@ -1801,6 +1825,14 @@
       "onboard_time": 1675244732,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 525925,
+      "num": 525925,
+      "word": "人民日报评胡鑫宇事件",
+      "onboard_time": 1675351774,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 524311,
@@ -1945,6 +1977,14 @@
       "onboard_time": 1675237108,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 495976,
+      "num": 495976,
+      "word": "唐嫣孙坚扶摔倒的工作人员",
+      "onboard_time": 1675352610,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 492667,
@@ -2281,14 +2321,6 @@
       "onboard_time": 1675310316,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 411535,
-      "num": 411535,
-      "word": "当广东人看完狂飙",
-      "onboard_time": 1675350695,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 409520,
@@ -2961,6 +2993,14 @@
       "onboard_time": 1675294760,
       "rank": 26,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 295787,
+      "num": 295787,
+      "word": "高叶原来是少帅张首芳",
+      "onboard_time": 1675352493,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 295220,
@@ -3915,6 +3955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193014,
+      "num": 193014,
+      "word": "没有锁的门有多窒息",
+      "onboard_time": 1675354469,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192822,
       "num": 192822,
       "word": "用起风了打开狂飙",
@@ -4331,14 +4379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 170458,
-      "num": 170458,
-      "word": "人民日报评胡鑫宇事件",
-      "onboard_time": 1675351774,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170289,
       "num": 170289,
       "word": "中纪委列狂飙里不能踩的纪律红线",
@@ -4641,6 +4681,14 @@
       "onboard_time": 1675218268,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134247,
+      "num": 134247,
+      "word": "酷云认证赵丽颖85花收视TOP",
+      "onboard_time": 1675355005,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 133947,
