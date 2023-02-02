@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675362200181,
+  "endTime": 1675363046797,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -9299,20 +9299,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106494,
+      "num": 106494,
+      "word": "夫妻回村建40座大棚种草莓销全国",
+      "onboard_time": 1675359676,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106074,
       "num": 106074,
       "word": "福建人有多重视拜天公",
       "onboard_time": 1675097543,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103570,
-      "num": 103570,
-      "word": "夫妻回村建40座大棚种草莓销全国",
-      "onboard_time": 1675359676,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102873,
