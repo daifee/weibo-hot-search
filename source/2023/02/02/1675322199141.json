@@ -1,0 +1,410 @@
+{
+  "runTime": 1675322199141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2431908,
+        "num": 2431908,
+        "word": "胡鑫宇遗体脚掌与地面平行不实",
+        "onboard_time": 1675313916,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2070364,
+        "num": 2070364,
+        "word": "胡鑫宇录音笔内容",
+        "onboard_time": 1675307681,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81130,
+        "num": 1896049,
+        "word": "一起感受中国湿地之美",
+        "onboard_time": 1675309597,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1746338,
+        "num": 1746338,
+        "word": "上百盒布洛芬被扔垃圾桶",
+        "onboard_time": 1675318592,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1430426,
+        "num": 1430426,
+        "word": "央视采访发现胡鑫宇尸体的粮库员工",
+        "onboard_time": 1675314515,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1312225,
+        "num": 1312225,
+        "word": "苗苗谈恋爱前把郑恺所有采访都看了一遍",
+        "onboard_time": 1675317511,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1288375,
+        "num": 1288375,
+        "word": "张译 狂飙微博",
+        "onboard_time": 1675311036,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1187676,
+        "num": 1187676,
+        "word": "张艺兴起诉造型师徐峰立侵权",
+        "onboard_time": 1675317332,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1055402,
+        "num": 1055402,
+        "word": "苏翊鸣叫王一博一博哥",
+        "onboard_time": 1675319191,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1037756,
+        "num": 1037756,
+        "word": "胡鑫宇生前社交软件留言",
+        "onboard_time": 1675315772,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792235,
+        "num": 792235,
+        "word": "大妈插队女生手机外放回击",
+        "onboard_time": 1675317271,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718266,
+        "num": 718266,
+        "word": "胡鑫宇系自缢死亡",
+        "onboard_time": 1675303653,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673334,
+        "num": 673334,
+        "word": "狂飙豆瓣评分降了",
+        "onboard_time": 1675316371,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 594560,
+        "num": 594560,
+        "word": "张颂文已经有站姐了",
+        "onboard_time": 1675307976,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585956,
+        "num": 585956,
+        "word": "胡鑫宇曾试图在宿舍5楼阳台上跳楼",
+        "onboard_time": 1675313916,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507221,
+        "num": 507221,
+        "word": "张译新剧又是悬疑风",
+        "onboard_time": 1675318648,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 492085,
+        "num": 492085,
+        "word": "Angelababy绿色露背缎面裙造型",
+        "onboard_time": 1675321050,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 475668,
+        "num": 475668,
+        "word": "男子中奖1000万瞒着妻子给前妻70万",
+        "onboard_time": 1675299629,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373890,
+        "num": 373890,
+        "word": "陈某贵假冒胡鑫宇光头老师被逮捕",
+        "onboard_time": 1675312359,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350329,
+        "num": 350329,
+        "word": "小米汽车设计泄密供应商被处罚100万",
+        "onboard_time": 1675319550,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 342022,
+        "num": 342022,
+        "word": "安欣再送饺子 高启强再举杯",
+        "onboard_time": 1675256253,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341462,
+        "num": 341462,
+        "word": "大侦探",
+        "onboard_time": 1675318113,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315044,
+        "num": 315044,
+        "word": "张颂文和朱珠拍过吻戏",
+        "onboard_time": 1675317091,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302819,
+        "num": 302819,
+        "word": "狂飙",
+        "onboard_time": 1675314393,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295522,
+        "num": 295522,
+        "word": "至少四地取消生育结婚限制",
+        "onboard_time": 1675305584,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280682,
+        "num": 280682,
+        "word": "胡鑫宇缢吊地点为何成搜索盲区",
+        "onboard_time": 1675316190,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276461,
+        "num": 276461,
+        "word": "平采娜点赞迪丽热巴视频",
+        "onboard_time": 1675315654,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267408,
+        "num": 267408,
+        "word": "艾伦在认识陈乔恩之前不接受姐弟恋",
+        "onboard_time": 1675319730,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449472,
+        "num": 261388,
+        "word": "张译工作室",
+        "onboard_time": 1675314452,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248719,
+        "num": 248719,
+        "word": "蔚来开启降价促销",
+        "onboard_time": 1675318344,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 344808,
+        "num": 247572,
+        "word": "张颂文仅关联一家影视公司",
+        "onboard_time": 1675321169,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232717,
+        "num": 232717,
+        "word": "胡鑫宇尸检情况公布",
+        "onboard_time": 1675304079,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227437,
+        "num": 227437,
+        "word": "网友囤1000片退烧药全砸手里了",
+        "onboard_time": 1675298248,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218830,
+        "num": 218830,
+        "word": "王一博晒苏翊鸣送的亲签滑雪板",
+        "onboard_time": 1675319434,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 210691,
+        "num": 210691,
+        "word": "高叶 承蒙抬爱何其有幸",
+        "onboard_time": 1675309776,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206947,
+        "num": 206947,
+        "word": "少年儿童抑郁症的六大先兆",
+        "onboard_time": 1675310917,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207588,
+        "num": 204865,
+        "word": "高叶拍狂飙整整痛苦了两三个月",
+        "onboard_time": 1675304864,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188343,
+        "num": 188343,
+        "word": "王一博开心可以摸到梁朝伟的脸",
+        "onboard_time": 1675314215,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176772,
+        "num": 176772,
+        "word": "魏晨王鸥大侦探双人舞",
+        "onboard_time": 1675321953,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176488,
+        "num": 176488,
+        "word": "小猫也懂重色轻友",
+        "onboard_time": 1675316672,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 170953,
+        "num": 170953,
+        "word": "薄可透光狗嘴一张",
+        "onboard_time": 1675321108,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168356,
+        "num": 168356,
+        "word": "高启强老是问一些恋爱问题",
+        "onboard_time": 1675313019,
+        "rank": 41,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 167567,
+        "num": 167567,
+        "word": "胡鑫宇录音笔中音频表达自杀意愿",
+        "onboard_time": 1675304683,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162090,
+        "num": 162090,
+        "word": "蔚来回应降价促销",
+        "onboard_time": 1675321468,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151005,
+        "num": 151005,
+        "word": "TizzyT巡演来之不易",
+        "onboard_time": 1675322191,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145828,
+        "num": 145828,
+        "word": "这猫像极了连上七天班的我",
+        "onboard_time": 1675321592,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144445,
+        "num": 144445,
+        "word": "高叶机场饭拍路透",
+        "onboard_time": 1675316612,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142518,
+        "num": 142518,
+        "word": "原来小五一直都在",
+        "onboard_time": 1675316132,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140655,
+        "num": 140655,
+        "word": "宁波一商场禁3周岁以上男童进女厕",
+        "onboard_time": 1675298672,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137074,
+        "num": 137074,
+        "word": "青少年抑郁最常见的求救方式",
+        "onboard_time": 1675321891,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#增强发展的安全性主动权#"
+    }
+  }
+}
