@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675312684889,
+  "endTime": 1675315028619,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -51,6 +51,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3479354,
+      "num": 3479354,
+      "word": "张译 狂飙微博",
+      "onboard_time": 1675311036,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3278426,
       "num": 3278426,
       "word": "胡鑫宇尸检情况公布",
@@ -73,14 +81,6 @@
       "onboard_time": 1675299629,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2866965,
-      "num": 2866965,
-      "word": "张译 狂飙微博",
-      "onboard_time": 1675311036,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 2748285,
@@ -312,6 +312,14 @@
       "word": "网友囤1000片退烧药全砸手里了",
       "onboard_time": 1675298248,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1453291,
+      "num": 1453291,
+      "word": "陈某贵假冒胡鑫宇光头老师被逮捕",
+      "onboard_time": 1675312359,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -715,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 860587,
+      "num": 860587,
+      "word": "女子拒绝底薪1000工作被HR怼",
+      "onboard_time": 1675312598,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 859956,
       "num": 859956,
       "word": "电影无名票房超过媒体预测",
@@ -955,12 +971,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 689192,
+      "num": 689192,
+      "word": "狂飙",
+      "onboard_time": 1675167215,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 677385,
       "num": 677385,
       "word": "男子7楼打开门却是13楼邻居家",
       "onboard_time": 1675267110,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 671453,
+      "num": 671453,
+      "word": "高启强老是问一些恋爱问题",
+      "onboard_time": 1675313019,
+      "rank": 12,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 662426,
@@ -1027,12 +1059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630616,
+      "num": 630616,
+      "word": "王一博开心可以摸到梁朝伟的脸",
+      "onboard_time": 1675314215,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 625435,
       "num": 625435,
       "word": "女子吐槽烧烤店一盘香菜108元",
       "onboard_time": 1675305469,
       "rank": 44,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 624738,
+      "num": 350203,
+      "word": "胡鑫宇遗体脚掌与地面平行不实",
+      "onboard_time": 1675313916,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 623553,
@@ -1089,14 +1137,6 @@
       "onboard_time": 1675259376,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 590817,
-      "num": 590817,
-      "word": "狂飙",
-      "onboard_time": 1675167215,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 589620,
@@ -1819,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357903,
+      "num": 357903,
+      "word": "警方通报胡鑫宇两段录音部分内容",
+      "onboard_time": 1675312117,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355618,
       "num": 355618,
       "word": "王一博看到程耳烟拿反了的反应",
@@ -1929,6 +1977,14 @@
       "onboard_time": 1675248633,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331301,
+      "num": 331301,
+      "word": "胡鑫宇曾试图在宿舍5楼阳台上跳楼",
+      "onboard_time": 1675313916,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330936,
@@ -2059,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302199,
+      "num": 302199,
+      "word": "这是在用显微镜看狂飙吧",
+      "onboard_time": 1675313197,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 296411,
       "num": 296411,
       "word": "FBI搜查拜登别墅",
@@ -2169,6 +2233,14 @@
       "onboard_time": 1675243831,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277549,
+      "num": 277549,
+      "word": "导演称狂飙也曾想叫70后",
+      "onboard_time": 1675311579,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 277397,
@@ -2291,14 +2363,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 262998,
-      "num": 262998,
-      "word": "陈某贵假冒胡鑫宇光头老师被逮捕",
-      "onboard_time": 1675312359,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262731,
       "num": 262731,
       "word": "阻止男童进女厕当事人称希望对方道歉",
@@ -2313,14 +2377,6 @@
       "onboard_time": 1675302209,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 262010,
-      "num": 262010,
-      "word": "警方通报胡鑫宇两段录音部分内容",
-      "onboard_time": 1675312117,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261186,
@@ -2417,6 +2473,14 @@
       "onboard_time": 1675261477,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247106,
+      "num": 247106,
+      "word": "孙茜给朱洁静粉丝送暖宝宝",
+      "onboard_time": 1675314695,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 245774,
@@ -2539,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228818,
+      "num": 228818,
+      "word": "张译工作室",
+      "onboard_time": 1675314452,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227215,
       "num": 227215,
       "word": "梅西单刀破门",
@@ -2553,14 +2625,6 @@
       "onboard_time": 1675222953,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 225999,
-      "num": 225999,
-      "word": "导演称狂飙也曾想叫70后",
-      "onboard_time": 1675311579,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 224406,
@@ -2611,12 +2675,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219625,
+      "num": 219625,
+      "word": "央视采访发现胡鑫宇尸体的粮库员工",
+      "onboard_time": 1675314515,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218437,
       "num": 218437,
       "word": "高启强被馋哭了",
       "onboard_time": 1675242329,
       "rank": 41,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 214290,
+      "num": 214290,
+      "word": "胡鑫宇生前青春期心理状态失衡",
+      "onboard_time": 1675314634,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214003,
