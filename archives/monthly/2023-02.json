@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675294419406,
+  "endTime": 1675301966440,
   "band_list": [
     {
       "raw_hot": 10722665,
@@ -49,6 +49,14 @@
       "onboard_time": 1675237951,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2679425,
+      "num": 2679425,
+      "word": "男子中奖1000万瞒着妻子给前妻70万",
+      "onboard_time": 1675299629,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2598630,
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1483227,
+      "num": 1483227,
+      "word": "网友囤1000片退烧药全砸手里了",
+      "onboard_time": 1675298248,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1441443,
       "num": 1441443,
       "word": "胡鑫宇事件最新情况",
@@ -283,6 +299,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1255137,
+      "num": 1255137,
+      "word": "大润发回应女员工因照顾病危父亲请假遭开除",
+      "onboard_time": 1675286351,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1249649,
       "num": 1249649,
       "word": "男孩撸猫后发烧12天腋下长鸡蛋大肿块",
@@ -313,6 +337,14 @@
       "onboard_time": 1675246953,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1166626,
+      "num": 1166626,
+      "word": "无性别卫生间能破除尴尬吗",
+      "onboard_time": 1675297646,
+      "rank": 6,
+      "category": "社会议题"
     },
     {
       "raw_hot": 1144650,
@@ -379,14 +411,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1087708,
-      "num": 1087708,
-      "word": "大润发回应女员工因照顾病危父亲请假遭开除",
-      "onboard_time": 1675286351,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1086072,
       "num": 1086072,
       "word": "唐嫣终于进组拍戏了",
@@ -435,12 +459,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1028602,
+      "num": 1028602,
+      "word": "高启兰结局",
+      "onboard_time": 1675294882,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1018795,
       "num": 556762,
       "word": "胡歌 我当爸爸啦",
       "onboard_time": 1675148478,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1006830,
+      "num": 1006830,
+      "word": "男子结婚7年体重暴增颜值不再",
+      "onboard_time": 1675298672,
+      "rank": 8,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 992891,
@@ -555,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 841413,
+      "num": 841413,
+      "word": "狂飙删减",
+      "onboard_time": 1675298128,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 834540,
       "num": 834540,
       "word": "情侣婚前是否有必要同居",
@@ -600,6 +648,14 @@
       "word": "张译张颂文狂飙今日大结局",
       "onboard_time": 1675212389,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 763558,
+      "num": 763558,
+      "word": "张颂文说这个胖头鱼是谁",
+      "onboard_time": 1675296145,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -745,6 +801,22 @@
       "onboard_time": 1675267110,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 671841,
+      "num": 671841,
+      "word": "宁波一商场禁3周岁以上男童进女厕",
+      "onboard_time": 1675298672,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 668664,
+      "num": 668664,
+      "word": "安长林 好人",
+      "onboard_time": 1675299271,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 662426,
@@ -921,6 +993,14 @@
       "onboard_time": 1675237591,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 571087,
+      "num": 571087,
+      "word": "刘德华也要辅导孩子作业",
+      "onboard_time": 1675295483,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 566174,
@@ -1347,12 +1427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391179,
+      "num": 391179,
+      "word": "宋茜36岁生日海报",
+      "onboard_time": 1675299271,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390228,
       "num": 352003,
       "word": "猫咪慢性呕吐2个月胃中塞满线绳",
       "onboard_time": 1675181966,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388466,
+      "num": 388466,
+      "word": "新Mac值不值得买",
+      "onboard_time": 1675296085,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 387711,
@@ -1409,6 +1505,14 @@
       "onboard_time": 1675231530,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371755,
+      "num": 371755,
+      "word": "唯五得欣",
+      "onboard_time": 1675298789,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 364472,
@@ -1523,6 +1627,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 330922,
+      "num": 330922,
+      "word": "YG新女团第二位泰国成员公开",
+      "onboard_time": 1675296567,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330587,
       "num": 330587,
       "word": "杨晓培晒与赵露思合影",
@@ -1603,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296411,
+      "num": 296411,
+      "word": "FBI搜查拜登别墅",
+      "onboard_time": 1675294760,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 295220,
       "num": 295220,
       "word": "谭松韵二月在剧组拍戏",
@@ -1632,6 +1752,30 @@
       "word": "流浪地球2票房破29亿",
       "onboard_time": 1675265374,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 289454,
+      "num": 289454,
+      "word": "姆巴佩连续两次点球踢丢",
+      "onboard_time": 1675300592,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 288776,
+      "num": 288776,
+      "word": "当代年轻人的统一衣柜",
+      "onboard_time": 1675295722,
+      "rank": 28,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 288698,
+      "num": 288698,
+      "word": "林家川 唐小龙告辞了江湖再见",
+      "onboard_time": 1675293981,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -1771,6 +1915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 267734,
+      "num": 267734,
+      "word": "女子落入流浪地球投资骗局被骗11万",
+      "onboard_time": 1675301430,
+      "rank": 30,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 267699,
       "num": 248475,
       "word": "宋亚轩刘耀文烟花升停在星夜幕后花絮",
@@ -1795,6 +1947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264615,
+      "num": 264615,
+      "word": "农村建房还是城里买房",
+      "onboard_time": 1675294701,
+      "rank": 31,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 262731,
       "num": 262731,
       "word": "阻止男童进女厕当事人称希望对方道歉",
@@ -1817,6 +1977,14 @@
       "onboard_time": 1675227516,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260195,
+      "num": 260195,
+      "word": "解放军舰机在台海周边活动",
+      "onboard_time": 1675295303,
+      "rank": 32,
+      "category": "军事"
     },
     {
       "raw_hot": 259151,
@@ -1857,6 +2025,14 @@
       "onboard_time": 1675260096,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 248809,
+      "num": 248809,
+      "word": "父母患阿尔茨海默病儿子假装邻居陪护",
+      "onboard_time": 1675301010,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247993,
@@ -2227,14 +2403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185962,
-      "num": 185962,
-      "word": "林家川 唐小龙告辞了江湖再见",
-      "onboard_time": 1675293981,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 185946,
       "num": 185946,
       "word": "特斯拉2022年在华营收181亿美元",
@@ -2355,6 +2523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171511,
+      "num": 171511,
+      "word": "刘宇宁折腰喉结鲨路透视频",
+      "onboard_time": 1675293078,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171400,
       "num": 171400,
       "word": "湖人vs尼克斯",
@@ -2401,6 +2577,14 @@
       "onboard_time": 1675236811,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164918,
+      "num": 164918,
+      "word": "狂的是黑恶势力的风 飙的是正义的魂",
+      "onboard_time": 1675301489,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 164205,
@@ -2507,14 +2691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150068,
-      "num": 150068,
-      "word": "刘宇宁折腰喉结鲨路透视频",
-      "onboard_time": 1675293078,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 149883,
       "num": 149883,
       "word": "肖战任敏玉骨遥暂定43集",
@@ -2585,6 +2761,14 @@
       "onboard_time": 1675236811,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140680,
+      "num": 140680,
+      "word": "梅西单刀破门",
+      "onboard_time": 1675301909,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 140519,

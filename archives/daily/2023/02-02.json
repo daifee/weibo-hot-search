@@ -1,6 +1,6 @@
 {
   "startTime": 1675268708656,
-  "endTime": 1675294419406,
+  "endTime": 1675301966440,
   "band_list": [
     {
       "raw_hot": 4269276,
@@ -11,12 +11,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2679425,
+      "num": 2679425,
+      "word": "男子中奖1000万瞒着妻子给前妻70万",
+      "onboard_time": 1675299629,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2374980,
       "num": 2374980,
       "word": "张颂文 我永远难忘这个春节",
       "onboard_time": 1675266870,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1483227,
+      "num": 1483227,
+      "word": "网友囤1000片退烧药全砸手里了",
+      "onboard_time": 1675298248,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1387265,
@@ -27,12 +43,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1255137,
+      "num": 1255137,
+      "word": "大润发回应女员工因照顾病危父亲请假遭开除",
+      "onboard_time": 1675286351,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1199899,
       "num": 1199899,
       "word": "张颂文 演技封神",
       "onboard_time": 1675257213,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1166626,
+      "num": 1166626,
+      "word": "无性别卫生间能破除尴尬吗",
+      "onboard_time": 1675297646,
+      "rank": 6,
+      "category": "社会议题"
     },
     {
       "raw_hot": 1152022,
@@ -51,12 +83,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1087708,
-      "num": 1087708,
-      "word": "大润发回应女员工因照顾病危父亲请假遭开除",
-      "onboard_time": 1675286351,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 1028602,
+      "num": 1028602,
+      "word": "高启兰结局",
+      "onboard_time": 1675294882,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1006830,
+      "num": 1006830,
+      "word": "男子结婚7年体重暴增颜值不再",
+      "onboard_time": 1675298672,
+      "rank": 8,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 966181,
@@ -65,6 +105,14 @@
       "onboard_time": 1675262258,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 841413,
+      "num": 841413,
+      "word": "狂飙删减",
+      "onboard_time": 1675298128,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 829006,
@@ -79,6 +127,14 @@
       "num": 648108,
       "word": "大嫂怎么死的",
       "onboard_time": 1675253190,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 763558,
+      "num": 763558,
+      "word": "张颂文说这个胖头鱼是谁",
+      "onboard_time": 1675296145,
       "rank": 10,
       "category": "影视"
     },
@@ -115,6 +171,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 671841,
+      "num": 671841,
+      "word": "宁波一商场禁3周岁以上男童进女厕",
+      "onboard_time": 1675298672,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 668664,
+      "num": 668664,
+      "word": "安长林 好人",
+      "onboard_time": 1675299271,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 571087,
+      "num": 571087,
+      "word": "刘德华也要辅导孩子作业",
+      "onboard_time": 1675295483,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 527245,
       "num": 527245,
       "word": "大张伟当着王鸥的面喊杨幂",
@@ -131,12 +211,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391179,
+      "num": 391179,
+      "word": "宋茜36岁生日海报",
+      "onboard_time": 1675299271,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 388466,
+      "num": 388466,
+      "word": "新Mac值不值得买",
+      "onboard_time": 1675296085,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 378792,
       "num": 378792,
       "word": "妈妈终于认可了这个衣柜",
       "onboard_time": 1675266390,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 371755,
+      "num": 371755,
+      "word": "唯五得欣",
+      "onboard_time": 1675298789,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 368181,
@@ -169,6 +273,14 @@
       "onboard_time": 1675262316,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330922,
+      "num": 330922,
+      "word": "YG新女团第二位泰国成员公开",
+      "onboard_time": 1675296567,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 325422,
@@ -219,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296411,
+      "num": 296411,
+      "word": "FBI搜查拜登别墅",
+      "onboard_time": 1675294760,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 295810,
       "num": 295810,
       "word": "女子花100万在农村建120平3层房",
@@ -232,6 +352,30 @@
       "word": "流浪地球2票房破29亿",
       "onboard_time": 1675265374,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 289454,
+      "num": 289454,
+      "word": "姆巴佩连续两次点球踢丢",
+      "onboard_time": 1675300592,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 288776,
+      "num": 288776,
+      "word": "当代年轻人的统一衣柜",
+      "onboard_time": 1675295722,
+      "rank": 28,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 288698,
+      "num": 288698,
+      "word": "林家川 唐小龙告辞了江湖再见",
+      "onboard_time": 1675293981,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -259,12 +403,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267734,
+      "num": 267734,
+      "word": "女子落入流浪地球投资骗局被骗11万",
+      "onboard_time": 1675301430,
+      "rank": 30,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 264615,
+      "num": 264615,
+      "word": "农村建房还是城里买房",
+      "onboard_time": 1675294701,
+      "rank": 31,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 262731,
       "num": 262731,
       "word": "阻止男童进女厕当事人称希望对方道歉",
       "onboard_time": 1675279512,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260195,
+      "num": 260195,
+      "word": "解放军舰机在台海周边活动",
+      "onboard_time": 1675295303,
+      "rank": 32,
+      "category": "军事"
     },
     {
       "raw_hot": 256517,
@@ -281,6 +449,14 @@
       "onboard_time": 1675254151,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 248809,
+      "num": 248809,
+      "word": "父母患阿尔茨海默病儿子假装邻居陪护",
+      "onboard_time": 1675301010,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247787,
@@ -323,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212138,
+      "num": 212138,
+      "word": "胡鑫宇事件新闻发布会明天召开",
+      "onboard_time": 1675246953,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203551,
       "num": 128573,
       "word": "程耳王一博半夜去看无名",
@@ -344,14 +528,6 @@
       "word": "谢谢狂飙",
       "onboard_time": 1675278193,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 185962,
-      "num": 185962,
-      "word": "林家川 唐小龙告辞了江湖再见",
-      "onboard_time": 1675293981,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -379,12 +555,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171511,
+      "num": 171511,
+      "word": "刘宇宁折腰喉结鲨路透视频",
+      "onboard_time": 1675293078,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171160,
       "num": 118771,
       "word": "鱼跃医疗被罚后消费者能否退差价",
       "onboard_time": 1675291934,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164918,
+      "num": 164918,
+      "word": "狂的是黑恶势力的风 飙的是正义的魂",
+      "onboard_time": 1675301489,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 164391,
@@ -435,20 +627,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150068,
-      "num": 150068,
-      "word": "刘宇宁折腰喉结鲨路透视频",
-      "onboard_time": 1675293078,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 145486,
       "num": 145486,
       "word": "庄达菲张艺凡挽手路透",
       "onboard_time": 1675292416,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140680,
+      "num": 140680,
+      "word": "梅西单刀破门",
+      "onboard_time": 1675301909,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 136834,
@@ -465,14 +657,6 @@
       "onboard_time": 1675280232,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 129407,
-      "num": 129407,
-      "word": "胡鑫宇事件新闻发布会明天召开",
-      "onboard_time": 1675246953,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122760,

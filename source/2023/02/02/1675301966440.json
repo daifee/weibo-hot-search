@@ -1,0 +1,410 @@
+{
+  "runTime": 1675301966440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2679425,
+        "num": 2679425,
+        "word": "男子中奖1000万瞒着妻子给前妻70万",
+        "onboard_time": 1675299629,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1483227,
+        "num": 1483227,
+        "word": "网友囤1000片退烧药全砸手里了",
+        "onboard_time": 1675298248,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86994,
+        "num": 1475752,
+        "word": "春天的脚步越来越近了",
+        "onboard_time": 1675256253,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1472751,
+        "num": 1472751,
+        "word": "张颂文 我永远难忘这个春节",
+        "onboard_time": 1675266870,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1295820,
+        "num": 1295820,
+        "word": "安欣再送饺子 高启强再举杯",
+        "onboard_time": 1675256253,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1255137,
+        "num": 1255137,
+        "word": "大润发回应女员工因照顾病危父亲请假遭开除",
+        "onboard_time": 1675286351,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1166626,
+        "num": 1166626,
+        "word": "无性别卫生间能破除尴尬吗",
+        "onboard_time": 1675297646,
+        "rank": 6,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1028602,
+        "num": 1028602,
+        "word": "高启兰结局",
+        "onboard_time": 1675294882,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1006830,
+        "num": 1006830,
+        "word": "男子结婚7年体重暴增颜值不再",
+        "onboard_time": 1675298672,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 841413,
+        "num": 841413,
+        "word": "狂飙删减",
+        "onboard_time": 1675298128,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 763558,
+        "num": 763558,
+        "word": "张颂文说这个胖头鱼是谁",
+        "onboard_time": 1675296145,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 706918,
+        "num": 706918,
+        "word": "狂飙最大保护伞",
+        "onboard_time": 1675257996,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 671841,
+        "num": 671841,
+        "word": "宁波一商场禁3周岁以上男童进女厕",
+        "onboard_time": 1675298672,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668664,
+        "num": 668664,
+        "word": "安长林 好人",
+        "onboard_time": 1675299271,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571087,
+        "num": 571087,
+        "word": "刘德华也要辅导孩子作业",
+        "onboard_time": 1675295483,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 519056,
+        "num": 519056,
+        "word": "90后丁克夫妻被双方父母轮番催生",
+        "onboard_time": 1675264958,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440973,
+        "num": 440973,
+        "word": "张颂文 演技封神",
+        "onboard_time": 1675257213,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420286,
+        "num": 420286,
+        "word": "丈夫出轨提离婚分家产妻子霸气回怼",
+        "onboard_time": 1675262258,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417435,
+        "num": 417435,
+        "word": "胡鑫宇事件最新情况",
+        "onboard_time": 1675252528,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391179,
+        "num": 391179,
+        "word": "宋茜36岁生日海报",
+        "onboard_time": 1675299271,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388466,
+        "num": 388466,
+        "word": "新Mac值不值得买",
+        "onboard_time": 1675296085,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 371755,
+        "num": 371755,
+        "word": "唯五得欣",
+        "onboard_time": 1675298789,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358035,
+        "num": 358035,
+        "word": "狂飙大结局",
+        "onboard_time": 1675249470,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347959,
+        "num": 347959,
+        "word": "大嫂怎么死的",
+        "onboard_time": 1675253190,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330922,
+        "num": 330922,
+        "word": "YG新女团第二位泰国成员公开",
+        "onboard_time": 1675296567,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326866,
+        "num": 326866,
+        "word": "狂飙全员发博告别角色",
+        "onboard_time": 1675262258,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296411,
+        "num": 296411,
+        "word": "FBI搜查拜登别墅",
+        "onboard_time": 1675294760,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 289454,
+        "num": 289454,
+        "word": "姆巴佩连续两次点球踢丢",
+        "onboard_time": 1675300592,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288776,
+        "num": 288776,
+        "word": "当代年轻人的统一衣柜",
+        "onboard_time": 1675295722,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 288698,
+        "num": 288698,
+        "word": "林家川 唐小龙告辞了江湖再见",
+        "onboard_time": 1675293981,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267734,
+        "num": 267734,
+        "word": "女子落入流浪地球投资骗局被骗11万",
+        "onboard_time": 1675301430,
+        "rank": 30,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 264615,
+        "num": 264615,
+        "word": "农村建房还是城里买房",
+        "onboard_time": 1675294701,
+        "rank": 31,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 260195,
+        "num": 260195,
+        "word": "解放军舰机在台海周边活动",
+        "onboard_time": 1675295303,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 248809,
+        "num": 248809,
+        "word": "父母患阿尔茨海默病儿子假装邻居陪护",
+        "onboard_time": 1675301010,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234536,
+        "num": 234536,
+        "word": "边牧吃醋将主人养了5年金毛拐跑",
+        "onboard_time": 1675258537,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229489,
+        "num": 229489,
+        "word": "高晓晨车祸怎么一点事都没有",
+        "onboard_time": 1675254691,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212138,
+        "num": 212138,
+        "word": "胡鑫宇事件新闻发布会明天召开",
+        "onboard_time": 1675246953,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199958,
+        "num": 199958,
+        "word": "女子到男友舅舅家拜年盗走5万元",
+        "onboard_time": 1675280892,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199807,
+        "num": 199807,
+        "word": "赵立冬死刑",
+        "onboard_time": 1675257575,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198981,
+        "num": 198981,
+        "word": "男子7楼打开门却是13楼邻居家",
+        "onboard_time": 1675267110,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192111,
+        "num": 192111,
+        "word": "流浪地球3刘德华演笨笨吴京演MOSS",
+        "onboard_time": 1675266451,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179077,
+        "num": 179077,
+        "word": "谢天华因少买咖啡被同组女演员排挤",
+        "onboard_time": 1675264414,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171511,
+        "num": 171511,
+        "word": "刘宇宁折腰喉结鲨路透视频",
+        "onboard_time": 1675293078,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164918,
+        "num": 164918,
+        "word": "狂的是黑恶势力的风 飙的是正义的魂",
+        "onboard_time": 1675301489,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164552,
+        "num": 164552,
+        "word": "虞书欣粉色抹胸碎花裙",
+        "onboard_time": 1675267291,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156033,
+        "num": 156033,
+        "word": "阻止男童进女厕当事人称希望对方道歉",
+        "onboard_time": 1675279512,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152721,
+        "num": 152721,
+        "word": "黄旭熙更新练习室舞蹈视频",
+        "onboard_time": 1675265493,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148463,
+        "num": 148463,
+        "word": "大张伟当着王鸥的面喊杨幂",
+        "onboard_time": 1675253610,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140680,
+        "num": 140680,
+        "word": "梅西单刀破门",
+        "onboard_time": 1675301909,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140615,
+        "num": 140615,
+        "word": "女子花100万在农村建120平3层房",
+        "onboard_time": 1675258356,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断增加高质量产品和服务供给#"
+    }
+  }
+}
