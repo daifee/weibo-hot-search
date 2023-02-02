@@ -1,7 +1,23 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675303281036,
+  "endTime": 1675306008082,
   "band_list": [
+    {
+      "raw_hot": 13846203,
+      "num": 15004546,
+      "word": "胡鑫宇事件调查情况发布会",
+      "onboard_time": 1675303048,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11532668,
+      "num": 12782668,
+      "word": "胡鑫宇系自缢死亡",
+      "onboard_time": 1675303653,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 10722665,
       "num": 10722665,
@@ -9,6 +25,14 @@
       "onboard_time": 1675256253,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 7035440,
+      "num": 7035440,
+      "word": "胡鑫宇录音笔中音频表达自杀意愿",
+      "onboard_time": 1675304683,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4508656,
@@ -25,6 +49,14 @@
       "onboard_time": 1675215150,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3278426,
+      "num": 3278426,
+      "word": "胡鑫宇尸检情况公布",
+      "onboard_time": 1675304079,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3084302,
@@ -113,6 +145,14 @@
       "onboard_time": 1675227576,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2014666,
+      "num": 2014666,
+      "word": "胡鑫宇尸体发现地系原始第一现场",
+      "onboard_time": 1675304501,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1991022,
@@ -371,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1132405,
+      "num": 1132405,
+      "word": "安欣和高启强说了同一句谎话",
+      "onboard_time": 1675301969,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1127567,
       "num": 1127567,
       "word": "上海阿姨地铁抢座说不欢迎外地人",
@@ -504,14 +552,6 @@
       "word": "孟钰的包15万",
       "onboard_time": 1675223014,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 957272,
-      "num": 861764,
-      "word": "安欣和高启强说了同一句谎话",
-      "onboard_time": 1675301969,
-      "rank": 10,
       "category": "影视"
     },
     {
@@ -883,14 +923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 636124,
-      "num": 636124,
-      "word": "胡鑫宇事件调查情况发布会",
-      "onboard_time": 1675303048,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 634372,
       "num": 634372,
       "word": "著名乳腺外科专家黄汉源去世",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1675224817,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 573718,
+      "num": 573718,
+      "word": "胡鑫宇尸体发现地无打斗拖拽痕迹",
+      "onboard_time": 1675305164,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 571129,
@@ -1187,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 499033,
+      "num": 499033,
+      "word": "胡鑫宇下落为何100多天后才发现",
+      "onboard_time": 1675305646,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498518,
       "num": 294108,
       "word": "疑似胡鑫宇生前笔记披露",
@@ -1233,6 +1281,14 @@
       "onboard_time": 1675233812,
       "rank": 16,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 466911,
+      "num": 304273,
+      "word": "张颂文回复与高启强重名网友评论",
+      "onboard_time": 1675304561,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 460903,
@@ -1459,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391859,
+      "num": 391859,
+      "word": "女子收老板万元红包拆开后崩溃",
+      "onboard_time": 1675304319,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391179,
       "num": 391179,
       "word": "宋茜36岁生日海报",
@@ -1472,6 +1536,14 @@
       "word": "猫咪慢性呕吐2个月胃中塞满线绳",
       "onboard_time": 1675181966,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389875,
+      "num": 389875,
+      "word": "胡鑫宇录音笔内容无合成和篡改情况",
+      "onboard_time": 1675305765,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1513,6 +1585,14 @@
       "onboard_time": 1675266390,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 377760,
+      "num": 377760,
+      "word": "年轻人说恭喜发财是认真的",
+      "onboard_time": 1675304259,
+      "rank": 23,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 375486,
@@ -1587,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348678,
+      "num": 348678,
+      "word": "广东省考",
+      "onboard_time": 1675303167,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 347076,
       "num": 347076,
       "word": "张艺谋说满江红是正能量的传承",
@@ -1657,6 +1745,14 @@
       "onboard_time": 1675248633,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331039,
+      "num": 331039,
+      "word": "英国迎2011年以来最大规模罢工",
+      "onboard_time": 1675302869,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 330936,
@@ -1763,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299628,
+      "num": 299628,
+      "word": "高叶拍狂飙整整痛苦了两三个月",
+      "onboard_time": 1675304864,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 296411,
       "num": 296411,
       "word": "FBI搜查拜登别墅",
@@ -1777,6 +1881,14 @@
       "onboard_time": 1675220130,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294468,
+      "num": 294468,
+      "word": "金巧巧 关于电影无名聊三句",
+      "onboard_time": 1675305646,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 293743,
@@ -1857,6 +1969,14 @@
       "onboard_time": 1675247913,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 283562,
+      "num": 283562,
+      "word": "胡鑫宇尸体符合长期暴露在室外的特征",
+      "onboard_time": 1675305704,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281107,
@@ -2068,7 +2188,7 @@
     },
     {
       "raw_hot": 247541,
-      "num": 2722179,
+      "num": 5052528,
       "word": "春天的脚步越来越近了",
       "onboard_time": 1675256253,
       "rank": 2,
@@ -2227,20 +2347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223444,
-      "num": 223444,
-      "word": "广东省考",
-      "onboard_time": 1675303167,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 223287,
       "num": 223287,
       "word": "强盛集团孙红雷也在看狂飙",
       "onboard_time": 1675245571,
       "rank": 42,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 221277,
+      "num": 221277,
+      "word": "女子吐槽烧烤店一盘香菜108元",
+      "onboard_time": 1675305469,
+      "rank": 44,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 221164,
@@ -2475,6 +2595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183910,
+      "num": 183910,
+      "word": "至少四地取消生育结婚限制",
+      "onboard_time": 1675305584,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183650,
       "num": 183650,
       "word": "找熟人办事真的会更好吗",
@@ -2521,6 +2649,14 @@
       "onboard_time": 1675217969,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 179915,
+      "num": 179915,
+      "word": "offer4两公司录制现场公开挖人",
+      "onboard_time": 1675296807,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 179904,
@@ -2689,14 +2825,6 @@
       "onboard_time": 1675187476,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157423,
-      "num": 157423,
-      "word": "英国迎2011年以来最大规模罢工",
-      "onboard_time": 1675302869,
-      "rank": 46,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 156287,
