@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675366393934,
+  "endTime": 1675369190345,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -9497,6 +9497,14 @@
       "onboard_time": 1675187837,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45845,
+      "num": 45845,
+      "word": "抑郁的孩子为什么会有这么多",
+      "onboard_time": 1675367832,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43062,
