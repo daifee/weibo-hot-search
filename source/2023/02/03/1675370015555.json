@@ -1,0 +1,410 @@
+{
+  "runTime": 1675370015555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 117488,
+        "num": 117488,
+        "word": "没有锁的门有多窒息",
+        "onboard_time": 1675354469,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94965,
+        "num": 94965,
+        "word": "专家称年轻人工资低可能是能力不够",
+        "onboard_time": 1675333654,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14290,
+        "num": 87530,
+        "word": "立春过后是元宵",
+        "onboard_time": 1675344816,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85483,
+        "num": 85483,
+        "word": "我们抱怨工资低有错吗",
+        "onboard_time": 1675348295,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79536,
+        "num": 79536,
+        "word": "女子承认邻居连生7女1男为造假",
+        "onboard_time": 1675352910,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74003,
+        "num": 74003,
+        "word": "丈夫去世前给前女同事转账100万",
+        "onboard_time": 1675349198,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66762,
+        "num": 66762,
+        "word": "胡鑫宇曾向母亲哭诉不想读书",
+        "onboard_time": 1675323749,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64603,
+        "num": 64603,
+        "word": "抑郁的孩子为什么会有这么多",
+        "onboard_time": 1675367832,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60937,
+        "num": 60937,
+        "word": "得了抑郁症身体会发出信号",
+        "onboard_time": 1675343075,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 54950,
+        "num": 54950,
+        "word": "谁能拒绝这一桶小猫",
+        "onboard_time": 1675357102,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52758,
+        "num": 52758,
+        "word": "黄瑶扮演者直播间被骂白眼狼",
+        "onboard_time": 1675335513,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51755,
+        "num": 51755,
+        "word": "当广东人看完狂飙",
+        "onboard_time": 1675350695,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51644,
+        "num": 51644,
+        "word": "人民日报评胡鑫宇事件",
+        "onboard_time": 1675351774,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49925,
+        "num": 49925,
+        "word": "专家怒批50万以上存款征税",
+        "onboard_time": 1675326811,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 49510,
+        "num": 49510,
+        "word": "有个通透的妈妈是什么体验",
+        "onboard_time": 1675356442,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46508,
+        "num": 46508,
+        "word": "狂飙小说 陈书婷",
+        "onboard_time": 1675343497,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43938,
+        "num": 43938,
+        "word": "男子路边解手意外发现被困37小时老人",
+        "onboard_time": 1675363335,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 42062,
+        "num": 42062,
+        "word": "渐进式延迟退休方案或于2023年公布",
+        "onboard_time": 1675346679,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37013,
+        "num": 37013,
+        "word": "辽宁袭击医生嫌疑人被抓获",
+        "onboard_time": 1675346795,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36134,
+        "num": 36134,
+        "word": "夫妻回村建40座大棚种草莓销全国",
+        "onboard_time": 1675359676,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32877,
+        "num": 32877,
+        "word": "声生不息宝岛季你最期待谁",
+        "onboard_time": 1675353511,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32545,
+        "num": 32545,
+        "word": "老默 我想吃鱼了",
+        "onboard_time": 1675342595,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31780,
+        "num": 31780,
+        "word": "张颂文与他的经纪人赵玉德",
+        "onboard_time": 1675342052,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30751,
+        "num": 30751,
+        "word": "酷云认证赵丽颖85花收视TOP",
+        "onboard_time": 1675355005,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29826,
+        "num": 29826,
+        "word": "王俊凯方发布严正声明",
+        "onboard_time": 1675335993,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29422,
+        "num": 29422,
+        "word": "爱奇艺回应3台设备登录账号被封",
+        "onboard_time": 1675334315,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 26781,
+        "num": 26781,
+        "word": "欧盟将禁止航天员登中国天宫",
+        "onboard_time": 1675338989,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 25837,
+        "num": 25837,
+        "word": "不想带娃的狗妈妈",
+        "onboard_time": 1675359557,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25611,
+        "num": 25611,
+        "word": "爱奇艺已下线会员权益转赠功能",
+        "onboard_time": 1675341752,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 24892,
+        "num": 24892,
+        "word": "网友泰国街头偶遇蔡徐坤",
+        "onboard_time": 1675345837,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24706,
+        "num": 24706,
+        "word": "房东曾让张颂文给李宇春投票",
+        "onboard_time": 1675350695,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24270,
+        "num": 24270,
+        "word": "王宝强说黄渤演的打开生活的正确方式好看",
+        "onboard_time": 1675369332,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24167,
+        "num": 24167,
+        "word": "李一桐说和张译合作很过瘾",
+        "onboard_time": 1675346978,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23936,
+        "num": 23936,
+        "word": "王鹤棣点赞男生腹肌视频",
+        "onboard_time": 1675339831,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23841,
+        "num": 23841,
+        "word": "对存款50万以上的征税合理吗",
+        "onboard_time": 1675341332,
+        "rank": 34,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 22996,
+        "num": 22996,
+        "word": "安欣再送饺子 高启强再举杯",
+        "onboard_time": 1675256253,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22412,
+        "num": 22412,
+        "word": "BoysPlanet练习生HOT舞台",
+        "onboard_time": 1675347519,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22159,
+        "num": 22159,
+        "word": "二刷流浪地球2还是满江红",
+        "onboard_time": 1675356383,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20562,
+        "num": 20562,
+        "word": "王鸥说没有人会相信我",
+        "onboard_time": 1675330113,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19936,
+        "num": 19936,
+        "word": "李一桐说拍狂飙像进入顶级叔圈",
+        "onboard_time": 1675336292,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19670,
+        "num": 19670,
+        "word": "权顺荣再上酒综",
+        "onboard_time": 1675349257,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19243,
+        "num": 19243,
+        "word": "张译 狂飙微博",
+        "onboard_time": 1675311036,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17194,
+        "num": 17194,
+        "word": "红豆遥遥冰的爱还在继续",
+        "onboard_time": 1675346557,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16517,
+        "num": 16517,
+        "word": "对我而言危险的他",
+        "onboard_time": 1675346316,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16459,
+        "num": 16459,
+        "word": "王一博 苏翊鸣",
+        "onboard_time": 1675329634,
+        "rank": 44,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 16213,
+        "num": 16213,
+        "word": "狂飙大结局",
+        "onboard_time": 1675249470,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16092,
+        "num": 16092,
+        "word": "刘德华逗吴京儿子",
+        "onboard_time": 1675345777,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16061,
+        "num": 16061,
+        "word": "T1 BP",
+        "onboard_time": 1675343436,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15906,
+        "num": 15906,
+        "word": "谭卓 建议查查张译",
+        "onboard_time": 1675326872,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15356,
+        "num": 15356,
+        "word": "内娱ending的神",
+        "onboard_time": 1675337314,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#强信心开新局#"
+    }
+  }
+}

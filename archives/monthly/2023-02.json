@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675369190345,
+  "endTime": 1675370015555,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -4955,6 +4955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 64603,
+      "num": 64603,
+      "word": "抑郁的孩子为什么会有这么多",
+      "onboard_time": 1675367832,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64595,
       "num": 64595,
       "word": "不想带娃的狗妈妈",
@@ -5049,14 +5057,6 @@
       "onboard_time": 1675187837,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45845,
-      "num": 45845,
-      "word": "抑郁的孩子为什么会有这么多",
-      "onboard_time": 1675367832,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43062,
@@ -5161,6 +5161,14 @@
       "onboard_time": 1675365912,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24270,
+      "num": 24270,
+      "word": "王宝强说黄渤演的打开生活的正确方式好看",
+      "onboard_time": 1675369332,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 16380,
