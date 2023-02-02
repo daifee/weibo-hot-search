@@ -1,0 +1,410 @@
+{
+  "runTime": 1675319872304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2690047,
+        "num": 2690047,
+        "word": "胡鑫宇录音笔内容",
+        "onboard_time": 1675307681,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2248141,
+        "num": 2248141,
+        "word": "胡鑫宇遗体脚掌与地面平行不实",
+        "onboard_time": 1675313916,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73874,
+        "num": 1925765,
+        "word": "一起感受中国湿地之美",
+        "onboard_time": 1675309597,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1695139,
+        "num": 1695139,
+        "word": "张译 狂飙微博",
+        "onboard_time": 1675311036,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1578244,
+        "num": 1578244,
+        "word": "央视采访发现胡鑫宇尸体的粮库员工",
+        "onboard_time": 1675314515,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1285564,
+        "num": 1285564,
+        "word": "张艺兴起诉造型师徐峰立侵权",
+        "onboard_time": 1675317332,
+        "rank": 5,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1129721,
+        "num": 1129721,
+        "word": "苗苗谈恋爱前把郑恺所有采访都看了一遍",
+        "onboard_time": 1675317511,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1114043,
+        "num": 1114043,
+        "word": "胡鑫宇生前社交软件留言",
+        "onboard_time": 1675315772,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 893662,
+        "num": 893662,
+        "word": "胡鑫宇系自缢死亡",
+        "onboard_time": 1675303653,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875901,
+        "num": 875901,
+        "word": "张译工作室",
+        "onboard_time": 1675314452,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 770210,
+        "num": 770210,
+        "word": "张颂文已经有站姐了",
+        "onboard_time": 1675307976,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 769939,
+        "num": 769939,
+        "word": "大妈插队女生手机外放回击",
+        "onboard_time": 1675317271,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720501,
+        "num": 720501,
+        "word": "陈某贵假冒胡鑫宇光头老师被逮捕",
+        "onboard_time": 1675312359,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708121,
+        "num": 708121,
+        "word": "狂飙豆瓣评分降了",
+        "onboard_time": 1675316371,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 679199,
+        "num": 679199,
+        "word": "上百盒布洛芬被扔垃圾桶",
+        "onboard_time": 1675318592,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598878,
+        "num": 598878,
+        "word": "胡鑫宇曾试图在宿舍5楼阳台上跳楼",
+        "onboard_time": 1675313916,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565098,
+        "num": 565098,
+        "word": "男子中奖1000万瞒着妻子给前妻70万",
+        "onboard_time": 1675299629,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542117,
+        "num": 542117,
+        "word": "张译新剧又是悬疑风",
+        "onboard_time": 1675318648,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468162,
+        "num": 468162,
+        "word": "苏翊鸣叫王一博一博哥",
+        "onboard_time": 1675319191,
+        "rank": 18,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 459669,
+        "num": 459669,
+        "word": "张颂文和朱珠拍过吻戏",
+        "onboard_time": 1675317091,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447592,
+        "num": 447592,
+        "word": "平采娜点赞迪丽热巴视频",
+        "onboard_time": 1675315654,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392814,
+        "num": 392814,
+        "word": "安欣再送饺子 高启强再举杯",
+        "onboard_time": 1675256253,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359690,
+        "num": 359690,
+        "word": "网友囤1000片退烧药全砸手里了",
+        "onboard_time": 1675298248,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358151,
+        "num": 358151,
+        "word": "王一博晒苏翊鸣送的亲签滑雪板",
+        "onboard_time": 1675319434,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 356265,
+        "num": 356265,
+        "word": "胡鑫宇录音笔中音频表达自杀意愿",
+        "onboard_time": 1675304683,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355838,
+        "num": 355838,
+        "word": "大侦探",
+        "onboard_time": 1675318113,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314050,
+        "num": 314050,
+        "word": "王一博开心可以摸到梁朝伟的脸",
+        "onboard_time": 1675314215,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312575,
+        "num": 312575,
+        "word": "狂飙",
+        "onboard_time": 1675314393,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299834,
+        "num": 299834,
+        "word": "胡鑫宇缢吊地点为何成搜索盲区",
+        "onboard_time": 1675316190,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288155,
+        "num": 288155,
+        "word": "蔚来开启降价促销",
+        "onboard_time": 1675318344,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 282520,
+        "num": 282520,
+        "word": "至少四地取消生育结婚限制",
+        "onboard_time": 1675305584,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270973,
+        "num": 270973,
+        "word": "胡鑫宇尸检情况公布",
+        "onboard_time": 1675304079,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250247,
+        "num": 250247,
+        "word": "高启强老是问一些恋爱问题",
+        "onboard_time": 1675313019,
+        "rank": 32,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 233438,
+        "num": 233438,
+        "word": "高叶拍狂飙整整痛苦了两三个月",
+        "onboard_time": 1675304864,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225803,
+        "num": 225803,
+        "word": "艾伦在认识陈乔恩之前不接受姐弟恋",
+        "onboard_time": 1675319730,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201081,
+        "num": 201081,
+        "word": "高叶 承蒙抬爱何其有幸",
+        "onboard_time": 1675309776,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199321,
+        "num": 199321,
+        "word": "小猫也懂重色轻友",
+        "onboard_time": 1675316672,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 192852,
+        "num": 192852,
+        "word": "小米汽车设计泄密供应商被处罚100万",
+        "onboard_time": 1675319550,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 192043,
+        "num": 192043,
+        "word": "张颂文 我永远难忘这个春节",
+        "onboard_time": 1675266870,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185432,
+        "num": 185432,
+        "word": "金智羽刘海麻花辫造型",
+        "onboard_time": 1675319191,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180665,
+        "num": 180665,
+        "word": "少年儿童抑郁症的六大先兆",
+        "onboard_time": 1675310917,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178563,
+        "num": 178563,
+        "word": "用起风了打开狂飙",
+        "onboard_time": 1675318949,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175563,
+        "num": 175563,
+        "word": "宁波一商场禁3周岁以上男童进女厕",
+        "onboard_time": 1675298672,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172086,
+        "num": 172086,
+        "word": "胡鑫宇失踪案时间线",
+        "onboard_time": 1675319434,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168630,
+        "num": 168630,
+        "word": "上海动物园回应幼虎疑似溺亡",
+        "onboard_time": 1675309356,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166248,
+        "num": 166248,
+        "word": "两根鞋带是否能承载胡鑫宇缢吊重量",
+        "onboard_time": 1675307738,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166147,
+        "num": 166147,
+        "word": "高叶机场饭拍路透",
+        "onboard_time": 1675316612,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165434,
+        "num": 165434,
+        "word": "狂飙删减",
+        "onboard_time": 1675298128,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162886,
+        "num": 162886,
+        "word": "张靓颖是薛之谦演唱会的明牌嘉宾",
+        "onboard_time": 1675316973,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159603,
+        "num": 159603,
+        "word": "胡鑫宇下落为何100多天后才发现",
+        "onboard_time": 1675305646,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#兔年开工第一周总书记作出重要部署#"
+    }
+  }
+}

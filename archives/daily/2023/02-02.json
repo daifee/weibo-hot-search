@@ -1,6 +1,6 @@
 {
   "startTime": 1675268708656,
-  "endTime": 1675318998318,
+  "endTime": 1675319872304,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -83,19 +83,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2248141,
+      "num": 2248141,
+      "word": "胡鑫宇遗体脚掌与地面平行不实",
+      "onboard_time": 1675313916,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2102309,
       "num": 2102309,
       "word": "胡鑫宇尸体发现地系原始第一现场",
       "onboard_time": 1675304501,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1821249,
-      "num": 1821249,
-      "word": "胡鑫宇遗体脚掌与地面平行不实",
-      "onboard_time": 1675313916,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -107,19 +107,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1578244,
+      "num": 1578244,
+      "word": "央视采访发现胡鑫宇尸体的粮库员工",
+      "onboard_time": 1675314515,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1575295,
       "num": 1575295,
       "word": "胡鑫宇全部器官在位无缺失",
       "onboard_time": 1675309297,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1568665,
-      "num": 1568665,
-      "word": "央视采访发现胡鑫宇尸体的粮库员工",
-      "onboard_time": 1675314515,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -227,20 +227,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1114043,
+      "num": 1114043,
+      "word": "胡鑫宇生前社交软件留言",
+      "onboard_time": 1675315772,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1085771,
       "num": 1085771,
       "word": "张译工作室",
       "onboard_time": 1675314452,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1083990,
-      "num": 1083990,
-      "word": "胡鑫宇生前社交软件留言",
-      "onboard_time": 1675315772,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1081919,
@@ -347,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 769939,
+      "num": 769939,
+      "word": "大妈插队女生手机外放回击",
+      "onboard_time": 1675317271,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 769855,
       "num": 769855,
       "word": "胡鑫宇曾试图在宿舍5楼阳台上跳楼",
@@ -411,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 679199,
+      "num": 679199,
+      "word": "上百盒布洛芬被扔垃圾桶",
+      "onboard_time": 1675318592,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677385,
       "num": 677385,
       "word": "男子7楼打开门却是13楼邻居家",
@@ -433,14 +449,6 @@
       "onboard_time": 1675313019,
       "rank": 12,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 660358,
-      "num": 660358,
-      "word": "大妈插队女生手机外放回击",
-      "onboard_time": 1675317271,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 630616,
@@ -472,6 +480,14 @@
       "word": "刘德华也要辅导孩子作业",
       "onboard_time": 1675295483,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 542117,
+      "num": 542117,
+      "word": "张译新剧又是悬疑风",
+      "onboard_time": 1675318648,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -547,11 +563,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 468162,
+      "num": 468162,
+      "word": "苏翊鸣叫王一博一博哥",
+      "onboard_time": 1675319191,
+      "rank": 18,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 466911,
       "num": 344509,
       "word": "张颂文回复与高启强重名网友评论",
       "onboard_time": 1675304561,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 459669,
+      "num": 459669,
+      "word": "张颂文和朱珠拍过吻戏",
+      "onboard_time": 1675317091,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -561,22 +593,6 @@
       "onboard_time": 1675306185,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 433068,
-      "num": 433068,
-      "word": "张颂文和朱珠拍过吻戏",
-      "onboard_time": 1675317091,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 429090,
-      "num": 429090,
-      "word": "张译新剧又是悬疑风",
-      "onboard_time": 1675318648,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 426254,
@@ -683,12 +699,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 358151,
+      "num": 358151,
+      "word": "王一博晒苏翊鸣送的亲签滑雪板",
+      "onboard_time": 1675319434,
+      "rank": 23,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 357903,
       "num": 357903,
       "word": "警方通报胡鑫宇两段录音部分内容",
       "onboard_time": 1675312117,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355838,
+      "num": 355838,
+      "word": "大侦探",
+      "onboard_time": 1675318113,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 355618,
@@ -883,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288155,
+      "num": 288155,
+      "word": "蔚来开启降价促销",
+      "onboard_time": 1675318344,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 284607,
       "num": 284607,
       "word": "人民网评6岁男童进女厕事件",
@@ -937,14 +977,6 @@
       "onboard_time": 1675294701,
       "rank": 31,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 264389,
-      "num": 264389,
-      "word": "蔚来开启降价促销",
-      "onboard_time": 1675318344,
-      "rank": 29,
-      "category": "科技"
     },
     {
       "raw_hot": 262931,
@@ -1043,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225803,
+      "num": 225803,
+      "word": "艾伦在认识陈乔恩之前不接受姐弟恋",
+      "onboard_time": 1675319730,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224155,
       "num": 224155,
       "word": "左手上篮动画开播",
@@ -1065,14 +1105,6 @@
       "onboard_time": 1675316973,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 221281,
-      "num": 221281,
-      "word": "大侦探",
-      "onboard_time": 1675318113,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 217995,
@@ -1155,20 +1187,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192852,
+      "num": 192852,
+      "word": "小米汽车设计泄密供应商被处罚100万",
+      "onboard_time": 1675319550,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 192822,
       "num": 192822,
       "word": "用起风了打开狂飙",
       "onboard_time": 1675318949,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192533,
-      "num": 192533,
-      "word": "上百盒布洛芬被扔垃圾桶",
-      "onboard_time": 1675318592,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192228,
@@ -1185,6 +1217,14 @@
       "onboard_time": 1675278193,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185432,
+      "num": 185432,
+      "word": "金智羽刘海麻花辫造型",
+      "onboard_time": 1675319191,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183675,
@@ -1249,6 +1289,14 @@
       "onboard_time": 1675261532,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172086,
+      "num": 172086,
+      "word": "胡鑫宇失踪案时间线",
+      "onboard_time": 1675319434,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171511,
@@ -1479,6 +1527,9 @@
     },
     {
       "word": "#增强发展的安全性主动权#"
+    },
+    {
+      "word": "#兔年开工第一周总书记作出重要部署#"
     }
   ]
 }
