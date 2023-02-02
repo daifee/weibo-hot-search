@@ -1,6 +1,6 @@
 {
   "startTime": 1675268708656,
-  "endTime": 1675330442418,
+  "endTime": 1675333193190,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -115,8 +115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1808404,
-      "num": 1808404,
+      "raw_hot": 1907992,
+      "num": 1907992,
       "word": "专家怒批50万以上存款征税",
       "onboard_time": 1675326811,
       "rank": 45,
@@ -169,6 +169,14 @@
       "onboard_time": 1675312359,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1537650,
+      "num": 1537650,
+      "word": "杨幂工作室公章",
+      "onboard_time": 1675329692,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1487733,
@@ -241,14 +249,6 @@
       "onboard_time": 1675257213,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1184130,
-      "num": 1184130,
-      "word": "杨幂工作室公章",
-      "onboard_time": 1675329692,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1184022,
@@ -347,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1004604,
+      "num": 1004604,
+      "word": "王鸥说没有人会相信我",
+      "onboard_time": 1675330113,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 971771,
       "num": 971771,
       "word": "女子拒绝底薪1000工作被HR怼",
@@ -376,6 +384,14 @@
       "word": "胡某宇遗体全身完整",
       "onboard_time": 1675306663,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 899695,
+      "num": 899695,
+      "word": "千斤棺木压手戴10年尾戒保住男子手指",
+      "onboard_time": 1675330173,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -435,6 +451,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 793504,
+      "num": 793504,
+      "word": "王一博 苏翊鸣",
+      "onboard_time": 1675329634,
+      "rank": 11,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 792235,
       "num": 792235,
       "word": "大妈插队女生手机外放回击",
@@ -449,14 +473,6 @@
       "onboard_time": 1675313916,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 767571,
-      "num": 767571,
-      "word": "王一博 苏翊鸣",
-      "onboard_time": 1675329634,
-      "rank": 11,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 763558,
@@ -547,6 +563,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 645307,
+      "num": 645307,
+      "word": "香港将派发50万张免费机票",
+      "onboard_time": 1675329035,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 630616,
       "num": 630616,
       "word": "王一博开心可以摸到梁朝伟的脸",
@@ -617,6 +641,14 @@
       "onboard_time": 1675328315,
       "rank": 21,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 537327,
+      "num": 537327,
+      "word": "高叶跟站姐说你们这样我很尴尬",
+      "onboard_time": 1675329273,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 527245,
@@ -707,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 471012,
+      "num": 471012,
+      "word": "蒋依依新剧人设",
+      "onboard_time": 1675332513,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 466911,
       "num": 344509,
       "word": "张颂文回复与高启强重名网友评论",
@@ -739,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444545,
+      "num": 444545,
+      "word": "第一个看到狂飙大结局的人",
+      "onboard_time": 1675327954,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 437542,
       "num": 437542,
       "word": "虞书欣绿色吊带造型上班路透",
@@ -753,14 +801,6 @@
       "onboard_time": 1675301430,
       "rank": 30,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 419515,
-      "num": 419515,
-      "word": "香港将派发50万张免费机票",
-      "onboard_time": 1675329035,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 414476,
@@ -784,6 +824,14 @@
       "word": "高价彩礼是对婚姻的考验还是束缚",
       "onboard_time": 1675308756,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405380,
+      "num": 405380,
+      "word": "动物园通报小老虎意外溺亡",
+      "onboard_time": 1675328974,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -811,14 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 389250,
-      "num": 389250,
-      "word": "第一个看到狂飙大结局的人",
-      "onboard_time": 1675327954,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 388466,
       "num": 388466,
       "word": "新Mac值不值得买",
@@ -832,14 +872,6 @@
       "word": "少年儿童抑郁症的六大先兆",
       "onboard_time": 1675310917,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 385230,
-      "num": 385230,
-      "word": "动物园通报小老虎意外溺亡",
-      "onboard_time": 1675328974,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -873,6 +905,14 @@
       "onboard_time": 1675321169,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373810,
+      "num": 373810,
+      "word": "YSKM女友曝光",
+      "onboard_time": 1675329935,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 371184,
@@ -1083,8 +1123,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302452,
-      "num": 302452,
+      "raw_hot": 305023,
+      "num": 305023,
       "word": "谢楠表白刘德华吴京说不回家了",
       "onboard_time": 1675328194,
       "rank": 27,
@@ -1195,14 +1235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 272086,
-      "num": 272086,
-      "word": "王鸥说没有人会相信我",
-      "onboard_time": 1675330113,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271113,
       "num": 169601,
       "word": "李成洙晒与黄旭熙合照",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1675294701,
       "rank": 31,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 263308,
+      "num": 263308,
+      "word": "沈月沈阳vlog",
+      "onboard_time": 1675331254,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 262931,
@@ -1315,12 +1355,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 234535,
-      "num": 234535,
-      "word": "YSKM女友曝光",
-      "onboard_time": 1675329935,
-      "rank": 32,
-      "category": "游戏"
+      "raw_hot": 238310,
+      "num": 238310,
+      "word": "周深大喊回应粉丝换衣服啦",
+      "onboard_time": 1675332754,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 232032,
+      "num": 232032,
+      "word": "3台设备同时登爱奇艺账号被封",
+      "onboard_time": 1675332754,
+      "rank": 36,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 229581,
@@ -1379,20 +1427,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220159,
+      "num": 220159,
+      "word": "你知道皮蛋有多美吗",
+      "onboard_time": 1675329514,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 218863,
+      "num": 218863,
+      "word": "体面地说分手是种什么体验",
+      "onboard_time": 1675330833,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217995,
       "num": 217995,
       "word": "主人推门发现6只布偶猫挂在墙上",
       "onboard_time": 1675256132,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217819,
-      "num": 217819,
-      "word": "高叶跟站姐说你们这样我很尴尬",
-      "onboard_time": 1675329273,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 214290,
@@ -1435,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203739,
+      "num": 203739,
+      "word": "张若昀没躲过密逃也没躲过大侦探",
+      "onboard_time": 1675328256,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203551,
       "num": 128573,
       "word": "程耳王一博半夜去看无名",
@@ -1457,14 +1521,6 @@
       "onboard_time": 1675317812,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199525,
-      "num": 199525,
-      "word": "张若昀没躲过密逃也没躲过大侦探",
-      "onboard_time": 1675328256,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 198698,
@@ -1571,6 +1627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183987,
+      "num": 183987,
+      "word": "魏晨央视元宵晚会录制路透",
+      "onboard_time": 1675332993,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183675,
       "num": 183675,
       "word": "你是因为什么看了狂飙",
@@ -1585,6 +1649,22 @@
       "onboard_time": 1675306425,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182461,
+      "num": 182461,
+      "word": "2023LPL春季赛",
+      "onboard_time": 1675333172,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 181164,
+      "num": 181164,
+      "word": "周深央视元宵晚会录制路透",
+      "onboard_time": 1675332038,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 180901,
@@ -1633,6 +1713,14 @@
       "onboard_time": 1675321953,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175832,
+      "num": 175832,
+      "word": "苏小玎 今年的京海可真冷啊",
+      "onboard_time": 1675332873,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 173992,
@@ -1699,6 +1787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170919,
+      "num": 170919,
+      "word": "兔里兔气的柯基",
+      "onboard_time": 1675331793,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166113,
       "num": 166113,
       "word": "高叶童年照",
@@ -1737,14 +1833,6 @@
       "onboard_time": 1675322970,
       "rank": 47,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 160479,
-      "num": 160479,
-      "word": "千斤棺木压手戴10年尾戒保住男子手指",
-      "onboard_time": 1675330173,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158894,
@@ -1793,14 +1881,6 @@
       "onboard_time": 1675260876,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 147804,
-      "num": 147804,
-      "word": "你知道皮蛋有多美吗",
-      "onboard_time": 1675329514,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 145486,
