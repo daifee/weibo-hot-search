@@ -1,6 +1,6 @@
 {
   "startTime": 1675268708656,
-  "endTime": 1675308001769,
+  "endTime": 1675308853205,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -48,6 +48,14 @@
       "word": "男子中奖1000万瞒着妻子给前妻70万",
       "onboard_time": 1675299629,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2419997,
+      "num": 2419997,
+      "word": "胡鑫宇录音笔内容",
+      "onboard_time": 1675307681,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -155,11 +163,27 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1033175,
+      "num": 1033175,
+      "word": "胡鑫宇有明确厌世表现轻生倾向",
+      "onboard_time": 1675306783,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1028602,
       "num": 1028602,
       "word": "高启兰结局",
       "onboard_time": 1675294882,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1016503,
+      "num": 914911,
+      "word": "张颂文已经有站姐了",
+      "onboard_time": 1675307976,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -219,14 +243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 775391,
-      "num": 775391,
-      "word": "胡鑫宇录音笔内容",
-      "onboard_time": 1675307681,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 763558,
       "num": 763558,
       "word": "张颂文说这个胖头鱼是谁",
@@ -240,14 +256,6 @@
       "word": "胡鑫宇尸体发现地无打斗拖拽痕迹",
       "onboard_time": 1675305164,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 750353,
-      "num": 750353,
-      "word": "胡鑫宇有明确厌世表现轻生倾向",
-      "onboard_time": 1675306783,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -291,6 +299,22 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 607156,
+      "num": 607156,
+      "word": "两根鞋带是否能承载胡鑫宇缢吊重量",
+      "onboard_time": 1675307738,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582811,
+      "num": 582811,
+      "word": "金巧巧 关于电影无名聊三句",
+      "onboard_time": 1675305646,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 571087,
       "num": 571087,
       "word": "刘德华也要辅导孩子作业",
@@ -307,12 +331,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 542124,
-      "num": 542124,
-      "word": "金巧巧 关于电影无名聊三句",
-      "onboard_time": 1675305646,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 538934,
+      "num": 538934,
+      "word": "至少四地取消生育结婚限制",
+      "onboard_time": 1675305584,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 527245,
@@ -321,6 +345,14 @@
       "onboard_time": 1675253610,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 509509,
+      "num": 509509,
+      "word": "张译安欣名字镜像",
+      "onboard_time": 1675307141,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 503566,
@@ -339,12 +371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 501507,
+      "num": 501507,
+      "word": "陈星旭李兰迪新剧预告",
+      "onboard_time": 1675307976,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 483611,
       "num": 483611,
       "word": "女子收老板万元红包拆开后崩溃",
       "onboard_time": 1675304319,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483148,
+      "num": 387562,
+      "word": "狂飙张彪演员真当过警察",
+      "onboard_time": 1675307437,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 466911,
@@ -371,27 +419,11 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 418975,
-      "num": 418975,
-      "word": "至少四地取消生育结婚限制",
-      "onboard_time": 1675305584,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 409520,
       "num": 409520,
       "word": "唯五得欣",
       "onboard_time": 1675298789,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 392978,
-      "num": 392978,
-      "word": "张译安欣名字镜像",
-      "onboard_time": 1675307141,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -401,14 +433,6 @@
       "onboard_time": 1675299271,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 388663,
-      "num": 388663,
-      "word": "陈星旭李兰迪新剧预告",
-      "onboard_time": 1675307976,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 388466,
@@ -464,14 +488,6 @@
       "word": "高晓晨车祸怎么一点事都没有",
       "onboard_time": 1675254691,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 361956,
-      "num": 361956,
-      "word": "狂飙张彪演员真当过警察",
-      "onboard_time": 1675307437,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -539,19 +555,19 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 326109,
+      "num": 326109,
+      "word": "杨颖宋威龙任豪剧组聚餐",
+      "onboard_time": 1675308635,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 325422,
       "num": 325422,
       "word": "流浪地球3刘德华演笨笨吴京演MOSS",
       "onboard_time": 1675266451,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 318770,
-      "num": 318770,
-      "word": "张颂文已经有站姐了",
-      "onboard_time": 1675307976,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -577,6 +593,14 @@
       "onboard_time": 1675289772,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 308181,
+      "num": 308181,
+      "word": "警方回应胡鑫宇事件相关谣言",
+      "onboard_time": 1675307560,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307709,
@@ -627,27 +651,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 286727,
-      "num": 286727,
-      "word": "警方回应胡鑫宇事件相关谣言",
-      "onboard_time": 1675307560,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284607,
       "num": 284607,
       "word": "人民网评6岁男童进女厕事件",
       "onboard_time": 1675240232,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280243,
-      "num": 280243,
-      "word": "两根鞋带是否能承载胡鑫宇缢吊重量",
-      "onboard_time": 1675307738,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -665,6 +673,14 @@
       "onboard_time": 1675257395,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269699,
+      "num": 269699,
+      "word": "江西警方回应100多天才找到胡鑫宇",
+      "onboard_time": 1675307083,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264615,
@@ -707,11 +723,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254388,
-      "num": 254388,
-      "word": "江西警方回应100多天才找到胡鑫宇",
-      "onboard_time": 1675307083,
-      "rank": 41,
+      "raw_hot": 255309,
+      "num": 255309,
+      "word": "警方辟谣胡鑫宇为熊猫血",
+      "onboard_time": 1675307857,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -720,6 +736,14 @@
       "word": "黄瑶写给安欣的信",
       "onboard_time": 1675254151,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 248037,
+      "num": 248037,
+      "word": "檀健次张婧仪电影最新路透",
+      "onboard_time": 1675308159,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -763,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220147,
-      "num": 220147,
-      "word": "警方辟谣胡鑫宇为熊猫血",
-      "onboard_time": 1675307857,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217995,
       "num": 217995,
       "word": "主人推门发现6只布偶猫挂在墙上",
@@ -801,6 +817,14 @@
       "onboard_time": 1675307618,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198603,
+      "num": 198603,
+      "word": "高价彩礼是对婚姻的考验还是束缚",
+      "onboard_time": 1675308756,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196219,
