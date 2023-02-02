@@ -1,6 +1,6 @@
 {
   "startTime": 1675268708656,
-  "endTime": 1675301966440,
+  "endTime": 1675303281036,
   "band_list": [
     {
       "raw_hot": 4269276,
@@ -11,8 +11,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2679425,
-      "num": 2679425,
+      "raw_hot": 3084302,
+      "num": 3084302,
       "word": "男子中奖1000万瞒着妻子给前妻70万",
       "onboard_time": 1675299629,
       "rank": 0,
@@ -59,8 +59,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1166626,
-      "num": 1166626,
+      "raw_hot": 1177902,
+      "num": 1177902,
       "word": "无性别卫生间能破除尴尬吗",
       "onboard_time": 1675297646,
       "rank": 6,
@@ -83,6 +83,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1081919,
+      "num": 1081919,
+      "word": "男子结婚7年体重暴增颜值不再",
+      "onboard_time": 1675298672,
+      "rank": 8,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1028602,
       "num": 1028602,
       "word": "高启兰结局",
@@ -91,20 +99,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1006830,
-      "num": 1006830,
-      "word": "男子结婚7年体重暴增颜值不再",
-      "onboard_time": 1675298672,
-      "rank": 8,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 966181,
       "num": 966181,
       "word": "丈夫出轨提离婚分家产妻子霸气回怼",
       "onboard_time": 1675262258,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 957272,
+      "num": 861764,
+      "word": "安欣和高启强说了同一句谎话",
+      "onboard_time": 1675301969,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 864086,
+      "num": 864086,
+      "word": "安长林 好人",
+      "onboard_time": 1675299271,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 841413,
@@ -120,6 +136,14 @@
       "word": "90后丁克夫妻被双方父母轮番催生",
       "onboard_time": 1675264958,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 815216,
+      "num": 815216,
+      "word": "宁波一商场禁3周岁以上男童进女厕",
+      "onboard_time": 1675298672,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -171,20 +195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 671841,
-      "num": 671841,
-      "word": "宁波一商场禁3周岁以上男童进女厕",
-      "onboard_time": 1675298672,
-      "rank": 12,
+      "raw_hot": 636124,
+      "num": 636124,
+      "word": "胡鑫宇事件调查情况发布会",
+      "onboard_time": 1675303048,
+      "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 668664,
-      "num": 668664,
-      "word": "安长林 好人",
-      "onboard_time": 1675299271,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 571087,
@@ -211,6 +227,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426254,
+      "num": 426254,
+      "word": "女子落入流浪地球投资骗局被骗11万",
+      "onboard_time": 1675301430,
+      "rank": 30,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 409520,
+      "num": 409520,
+      "word": "唯五得欣",
+      "onboard_time": 1675298789,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391179,
       "num": 391179,
       "word": "宋茜36岁生日海报",
@@ -235,12 +267,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 371755,
-      "num": 371755,
-      "word": "唯五得欣",
-      "onboard_time": 1675298789,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 378732,
+      "num": 262343,
+      "word": "胡鑫宇事件新闻发布会明天召开",
+      "onboard_time": 1675246953,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368181,
@@ -259,12 +291,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354135,
+      "num": 354135,
+      "word": "姆巴佩连续两次点球踢丢",
+      "onboard_time": 1675300592,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345642,
       "num": 345642,
       "word": "虞书欣粉色抹胸碎花裙",
       "onboard_time": 1675267291,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 340396,
+      "num": 340396,
+      "word": "父母患阿尔茨海默病儿子假装邻居陪护",
+      "onboard_time": 1675301010,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338800,
@@ -281,6 +329,14 @@
       "onboard_time": 1675296567,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 328564,
+      "num": 328564,
+      "word": "当代年轻人的统一衣柜",
+      "onboard_time": 1675295722,
+      "rank": 28,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 325422,
@@ -355,22 +411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289454,
-      "num": 289454,
-      "word": "姆巴佩连续两次点球踢丢",
-      "onboard_time": 1675300592,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 288776,
-      "num": 288776,
-      "word": "当代年轻人的统一衣柜",
-      "onboard_time": 1675295722,
-      "rank": 28,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 288698,
       "num": 288698,
       "word": "林家川 唐小龙告辞了江湖再见",
@@ -403,14 +443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267734,
-      "num": 267734,
-      "word": "女子落入流浪地球投资骗局被骗11万",
-      "onboard_time": 1675301430,
-      "rank": 30,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 264615,
       "num": 264615,
       "word": "农村建房还是城里买房",
@@ -425,6 +457,14 @@
       "onboard_time": 1675279512,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262714,
+      "num": 262714,
+      "word": "高启强的走马灯",
+      "onboard_time": 1675302209,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 260195,
@@ -451,14 +491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248809,
-      "num": 248809,
-      "word": "父母患阿尔茨海默病儿子假装邻居陪护",
-      "onboard_time": 1675301010,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247787,
       "num": 164777,
       "word": "安警官 新年快乐",
@@ -483,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227215,
+      "num": 227215,
+      "word": "梅西单刀破门",
+      "onboard_time": 1675301909,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224006,
       "num": 224006,
       "word": "著名乳腺外科专家黄汉源去世",
@@ -491,19 +531,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223444,
+      "num": 223444,
+      "word": "广东省考",
+      "onboard_time": 1675303167,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 217995,
       "num": 217995,
       "word": "主人推门发现6只布偶猫挂在墙上",
       "onboard_time": 1675256132,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212138,
-      "num": 212138,
-      "word": "胡鑫宇事件新闻发布会明天召开",
-      "onboard_time": 1675246953,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -528,6 +568,14 @@
       "word": "谢谢狂飙",
       "onboard_time": 1675278193,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 180901,
+      "num": 180901,
+      "word": "流浪地球2在现实中埋了好多彩蛋",
+      "onboard_time": 1675302629,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -595,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157423,
+      "num": 157423,
+      "word": "英国迎2011年以来最大规模罢工",
+      "onboard_time": 1675302869,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 154829,
       "num": 125646,
       "word": "刘亦菲分享第一次插花plog",
@@ -633,14 +689,6 @@
       "onboard_time": 1675292416,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140680,
-      "num": 140680,
-      "word": "梅西单刀破门",
-      "onboard_time": 1675301909,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 136834,
