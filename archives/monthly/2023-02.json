@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675376274360,
+  "endTime": 1675377238863,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -4419,6 +4419,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 168155,
+      "num": 91945,
+      "word": "女子带老公回娘家半夜被赶出门",
+      "onboard_time": 1675373231,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167399,
       "num": 167399,
       "word": "LNG战胜RNG",
@@ -4649,14 +4657,6 @@
       "onboard_time": 1675173939,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 143235,
-      "num": 71588,
-      "word": "女子带老公回娘家半夜被赶出门",
-      "onboard_time": 1675373231,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142760,
@@ -5011,6 +5011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 56903,
+      "num": 56903,
+      "word": "奶奶因帕金森抖腿给女子道歉",
+      "onboard_time": 1675376474,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55997,
       "num": 45506,
       "word": "唐小虎下线",
@@ -5171,19 +5179,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25258,
+      "num": 25258,
+      "word": "流浪地球2",
+      "onboard_time": 1675370592,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 24270,
       "num": 24270,
       "word": "王宝强说黄渤演的打开生活的正确方式好看",
       "onboard_time": 1675369332,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 23412,
-      "num": 23412,
-      "word": "流浪地球2",
-      "onboard_time": 1675370592,
-      "rank": 45,
       "category": "影视"
     },
     {
