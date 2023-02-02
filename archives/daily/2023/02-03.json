@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675363046797,
+  "endTime": 1675365218955,
   "band_list": [
     {
       "raw_hot": 1287236,
@@ -457,6 +457,14 @@
       "onboard_time": 1675359557,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63336,
+      "num": 63336,
+      "word": "男子路边解手意外发现被困37小时老人",
+      "onboard_time": 1675363335,
+      "rank": 14,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 62769,
