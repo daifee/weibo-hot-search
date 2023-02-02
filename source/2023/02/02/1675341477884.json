@@ -1,0 +1,410 @@
+{
+  "runTime": 1675341477884,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2865322,
+        "num": 2865322,
+        "word": "3台设备同时登爱奇艺账号被封",
+        "onboard_time": 1675332754,
+        "rank": 0,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1835190,
+        "num": 1835190,
+        "word": "专家称年轻人工资低可能是能力不够",
+        "onboard_time": 1675333654,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14267,
+        "num": 1566391,
+        "word": "一起感受中国湿地之美",
+        "onboard_time": 1675309597,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1508449,
+        "num": 1508449,
+        "word": "黄瑶扮演者直播间被骂白眼狼",
+        "onboard_time": 1675335513,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1070709,
+        "num": 1070709,
+        "word": "专家怒批50万以上存款征税",
+        "onboard_time": 1675326811,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1066663,
+        "num": 1066663,
+        "word": "胡鑫宇曾向母亲哭诉不想读书",
+        "onboard_time": 1675323749,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 949688,
+        "num": 949688,
+        "word": "王一博 苏翊鸣",
+        "onboard_time": 1675329634,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 903694,
+        "num": 903694,
+        "word": "张颂文 天tian",
+        "onboard_time": 1675325614,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785029,
+        "num": 785029,
+        "word": "李一桐说拍狂飙像进入顶级叔圈",
+        "onboard_time": 1675336292,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 758898,
+        "num": 758898,
+        "word": "爱奇艺回应3台设备登录账号被封",
+        "onboard_time": 1675334315,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 730775,
+        "num": 730775,
+        "word": "王鹤棣点赞男生腹肌视频",
+        "onboard_time": 1675339831,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723774,
+        "num": 723774,
+        "word": "内娱ending的神",
+        "onboard_time": 1675337314,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 721561,
+        "num": 721561,
+        "word": "辽宁中医",
+        "onboard_time": 1675338453,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 705635,
+        "num": 705635,
+        "word": "王俊凯方发布严正声明",
+        "onboard_time": 1675335993,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619518,
+        "num": 619518,
+        "word": "欧盟将禁止航天员登中国天宫",
+        "onboard_time": 1675338989,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 594159,
+        "num": 594159,
+        "word": "谭卓 建议查查张译",
+        "onboard_time": 1675326872,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 560615,
+        "num": 560615,
+        "word": "安欣再送饺子 高启强再举杯",
+        "onboard_time": 1675256253,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 519165,
+        "num": 519165,
+        "word": "王一博电影无名破7亿海报",
+        "onboard_time": 1675335934,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510499,
+        "num": 510499,
+        "word": "千斤棺木压手戴10年尾戒保住男子手指",
+        "onboard_time": 1675330173,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481324,
+        "num": 481324,
+        "word": "张译 狂飙微博",
+        "onboard_time": 1675311036,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462820,
+        "num": 462820,
+        "word": "辽宁省中医医院一名医生遇袭",
+        "onboard_time": 1675339713,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442669,
+        "num": 442669,
+        "word": "王鸥说没有人会相信我",
+        "onboard_time": 1675330113,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415604,
+        "num": 415604,
+        "word": "张杰IU唱的marryyou",
+        "onboard_time": 1675334555,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397137,
+        "num": 397137,
+        "word": "狂飙大结局",
+        "onboard_time": 1675249470,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375806,
+        "num": 375806,
+        "word": "动物园23天后才找到溺亡小老虎",
+        "onboard_time": 1675335033,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370963,
+        "num": 370963,
+        "word": "30岁女子买70万平小岛成岛主",
+        "onboard_time": 1675327233,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358209,
+        "num": 358209,
+        "word": "刘亦菲晒杀青九宫格感谢大家",
+        "onboard_time": 1675334434,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315410,
+        "num": 315410,
+        "word": "年轻时的安欣和疯驴子",
+        "onboard_time": 1675335873,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302364,
+        "num": 302364,
+        "word": "上百盒布洛芬被扔垃圾桶",
+        "onboard_time": 1675318592,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299994,
+        "num": 299994,
+        "word": "胡鑫宇录音笔内容",
+        "onboard_time": 1675307681,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294269,
+        "num": 294269,
+        "word": "不同类型的婚后生活",
+        "onboard_time": 1675336593,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287414,
+        "num": 287414,
+        "word": "专家称今年楼市必回暖甚至缺房",
+        "onboard_time": 1675328315,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 269401,
+        "num": 269401,
+        "word": "胡鑫宇生前社交软件留言",
+        "onboard_time": 1675315772,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261354,
+        "num": 261354,
+        "word": "专家称改善经济不能靠催年轻人生娃",
+        "onboard_time": 1675337974,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 248384,
+        "num": 248384,
+        "word": "狂飙",
+        "onboard_time": 1675314393,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245349,
+        "num": 245349,
+        "word": "三小孩放鞭炮将井盖炸碎1死2伤",
+        "onboard_time": 1675325553,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 233025,
+        "num": 233025,
+        "word": "香港将派发50万张免费机票",
+        "onboard_time": 1675329035,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 222614,
+        "num": 222614,
+        "word": "沈月沈阳vlog",
+        "onboard_time": 1675331254,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216535,
+        "num": 216535,
+        "word": "肖战马来西亚wetv最佳男主",
+        "onboard_time": 1675322670,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215089,
+        "num": 215089,
+        "word": "张颂文 演技封神",
+        "onboard_time": 1675257213,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388502,
+        "num": 214957,
+        "word": "00后搞钱方式有多野",
+        "onboard_time": 1675334555,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214351,
+        "num": 214351,
+        "word": "林家川的文笔",
+        "onboard_time": 1675340493,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206193,
+        "num": 206193,
+        "word": "TES对战RA",
+        "onboard_time": 1675339112,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198574,
+        "num": 198574,
+        "word": "对存款50万以上的征税合理吗",
+        "onboard_time": 1675341332,
+        "rank": 43,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 191685,
+        "num": 191685,
+        "word": "苏小玎 今年的京海可真冷啊",
+        "onboard_time": 1675332873,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190405,
+        "num": 190405,
+        "word": "张远录制央视元宵晚会",
+        "onboard_time": 1675336173,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186292,
+        "num": 186292,
+        "word": "第一个看到狂飙大结局的人",
+        "onboard_time": 1675327954,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184713,
+        "num": 184713,
+        "word": "胡鑫宇事件发布会汇总",
+        "onboard_time": 1675340493,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183477,
+        "num": 183477,
+        "word": "张颂文仅关联一家影视公司",
+        "onboard_time": 1675321169,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177698,
+        "num": 177698,
+        "word": "胡鑫宇遗体脚掌与地面平行不实",
+        "onboard_time": 1675313916,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023全国两会调查#"
+    }
+  }
+}
