@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675373632375,
+  "endTime": 1675376274360,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -8891,6 +8891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143235,
+      "num": 71588,
+      "word": "女子带老公回娘家半夜被赶出门",
+      "onboard_time": 1675373231,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143228,
       "num": 143228,
       "word": "女子应对亲戚催婚舌战群儒",
@@ -9651,6 +9659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 23412,
+      "num": 23412,
+      "word": "流浪地球2",
+      "onboard_time": 1675370592,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 19031,
       "num": 19031,
       "word": "树林中一缢吊尸体经检验系胡鑫宇",
@@ -9673,22 +9689,6 @@
       "onboard_time": 1674862819,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 17281,
-      "num": 17281,
-      "word": "女子带老公回娘家半夜被赶出门",
-      "onboard_time": 1675373231,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16948,
-      "num": 16948,
-      "word": "流浪地球2",
-      "onboard_time": 1675370592,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 16380,
