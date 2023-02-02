@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675344563097,
+  "endTime": 1675345183340,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -91,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2749245,
-      "num": 687981,
+      "raw_hot": 2840239,
+      "num": 756459,
       "word": "男孩膀胱塞入19粒磁珠1年后取出",
       "onboard_time": 1675341752,
       "rank": 10,
@@ -137,6 +137,14 @@
       "onboard_time": 1675326872,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2544394,
+      "num": 2544394,
+      "word": "专家称年轻人工资低可能是能力不够",
+      "onboard_time": 1675333654,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2482707,
@@ -192,14 +200,6 @@
       "word": "伊朗情侣公开场合跳舞被判10年",
       "onboard_time": 1675220609,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2178886,
-      "num": 2178886,
-      "word": "专家称年轻人工资低可能是能力不够",
-      "onboard_time": 1675333654,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -892,7 +892,7 @@
     },
     {
       "raw_hot": 898660,
-      "num": 660513,
+      "num": 752334,
       "word": "爱奇艺已下线会员权益转赠功能",
       "onboard_time": 1675341752,
       "rank": 20,
@@ -969,6 +969,14 @@
       "onboard_time": 1675177776,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 830844,
+      "num": 830844,
+      "word": "狂飙小说 陈书婷",
+      "onboard_time": 1675343497,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 830623,
@@ -1059,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 779402,
+      "num": 779402,
+      "word": "得了抑郁症身体会发出信号",
+      "onboard_time": 1675343075,
+      "rank": 14,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 769855,
       "num": 769855,
       "word": "胡鑫宇曾试图在宿舍5楼阳台上跳楼",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1675257814,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 759492,
+      "num": 759492,
+      "word": "张颂文与他的经纪人赵玉德",
+      "onboard_time": 1675342052,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 758293,
@@ -1128,14 +1152,6 @@
       "word": "刘亦菲分享第一次插花plog",
       "onboard_time": 1675255531,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 725829,
-      "num": 649567,
-      "word": "张颂文与他的经纪人赵玉德",
-      "onboard_time": 1675342052,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1307,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 674389,
+      "num": 674389,
+      "word": "对存款50万以上的征税合理吗",
+      "onboard_time": 1675341332,
+      "rank": 43,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 671453,
       "num": 671453,
       "word": "高启强老是问一些恋爱问题",
@@ -1387,14 +1411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 635655,
-      "num": 635655,
-      "word": "对存款50万以上的征税合理吗",
-      "onboard_time": 1675341332,
-      "rank": 43,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 634372,
       "num": 634372,
       "word": "著名乳腺外科专家黄汉源去世",
@@ -1449,14 +1465,6 @@
       "onboard_time": 1675244369,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 616210,
-      "num": 616210,
-      "word": "得了抑郁症身体会发出信号",
-      "onboard_time": 1675343075,
-      "rank": 14,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 607402,
@@ -1544,14 +1552,6 @@
       "word": "金巧巧 关于电影无名聊三句",
       "onboard_time": 1675305646,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 577951,
-      "num": 577951,
-      "word": "狂飙小说 陈书婷",
-      "onboard_time": 1675343497,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -2259,6 +2259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394532,
+      "num": 394532,
+      "word": "张泽禹把洗面奶当牙膏",
+      "onboard_time": 1675344636,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391513,
       "num": 391513,
       "word": "去有风的地方",
@@ -2321,6 +2329,14 @@
       "onboard_time": 1675255352,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 379292,
+      "num": 379292,
+      "word": "Qingtian诺手1V3三杀",
+      "onboard_time": 1675343376,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 378792,
@@ -2401,14 +2417,6 @@
       "onboard_time": 1675225296,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 362175,
-      "num": 362175,
-      "word": "Qingtian诺手1V3三杀",
-      "onboard_time": 1675343376,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 361702,
@@ -3259,6 +3267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242936,
+      "num": 242936,
+      "word": "黄子欧皇",
+      "onboard_time": 1675344757,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242630,
       "num": 242630,
       "word": "特朗普受讯视频曝光",
@@ -3705,6 +3721,14 @@
       "onboard_time": 1675316612,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192858,
+      "num": 192858,
+      "word": "苏新皓二刷了满江红",
+      "onboard_time": 1675345176,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 192822,
@@ -4721,6 +4745,14 @@
       "onboard_time": 1675198332,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 40449,
+      "num": 1307756,
+      "word": "立春过后是元宵",
+      "onboard_time": 1675344816,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39566,

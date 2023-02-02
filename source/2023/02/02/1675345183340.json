@@ -1,0 +1,410 @@
+{
+  "runTime": 1675345183340,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2544394,
+        "num": 2544394,
+        "word": "专家称年轻人工资低可能是能力不够",
+        "onboard_time": 1675333654,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1573879,
+        "num": 1573879,
+        "word": "3台设备同时登爱奇艺账号被封",
+        "onboard_time": 1675332754,
+        "rank": 1,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 40449,
+        "num": 1307756,
+        "word": "立春过后是元宵",
+        "onboard_time": 1675344816,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1220678,
+        "num": 1220678,
+        "word": "黄瑶扮演者直播间被骂白眼狼",
+        "onboard_time": 1675335513,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 898454,
+        "num": 898454,
+        "word": "胡鑫宇曾向母亲哭诉不想读书",
+        "onboard_time": 1675323749,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852851,
+        "num": 852851,
+        "word": "专家怒批50万以上存款征税",
+        "onboard_time": 1675326811,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 830844,
+        "num": 830844,
+        "word": "狂飙小说 陈书婷",
+        "onboard_time": 1675343497,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 785218,
+        "num": 785218,
+        "word": "王一博 苏翊鸣",
+        "onboard_time": 1675329634,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 779402,
+        "num": 779402,
+        "word": "得了抑郁症身体会发出信号",
+        "onboard_time": 1675343075,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 759492,
+        "num": 759492,
+        "word": "张颂文与他的经纪人赵玉德",
+        "onboard_time": 1675342052,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2840239,
+        "num": 756459,
+        "word": "男孩膀胱塞入19粒磁珠1年后取出",
+        "onboard_time": 1675341752,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878450,
+        "num": 752334,
+        "word": "爱奇艺已下线会员权益转赠功能",
+        "onboard_time": 1675341752,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 748004,
+        "num": 748004,
+        "word": "王鹤棣点赞男生腹肌视频",
+        "onboard_time": 1675339831,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 742083,
+        "num": 742083,
+        "word": "老默 我想吃鱼了",
+        "onboard_time": 1675342595,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 674389,
+        "num": 674389,
+        "word": "对存款50万以上的征税合理吗",
+        "onboard_time": 1675341332,
+        "rank": 14,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 559203,
+        "num": 559203,
+        "word": "欧盟将禁止航天员登中国天宫",
+        "onboard_time": 1675338989,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 467676,
+        "num": 467676,
+        "word": "李一桐说拍狂飙像进入顶级叔圈",
+        "onboard_time": 1675336292,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435477,
+        "num": 435477,
+        "word": "谭卓 建议查查张译",
+        "onboard_time": 1675326872,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 431556,
+        "num": 431556,
+        "word": "千斤棺木压手戴10年尾戒保住男子手指",
+        "onboard_time": 1675330173,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401211,
+        "num": 401211,
+        "word": "爱奇艺回应3台设备登录账号被封",
+        "onboard_time": 1675334315,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 394532,
+        "num": 394532,
+        "word": "张泽禹把洗面奶当牙膏",
+        "onboard_time": 1675344636,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387649,
+        "num": 387649,
+        "word": "张颂文 天tian",
+        "onboard_time": 1675325614,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379292,
+        "num": 379292,
+        "word": "Qingtian诺手1V3三杀",
+        "onboard_time": 1675343376,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 378627,
+        "num": 378627,
+        "word": "王俊凯方发布严正声明",
+        "onboard_time": 1675335993,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371291,
+        "num": 371291,
+        "word": "去有风的地方",
+        "onboard_time": 1675341992,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356078,
+        "num": 356078,
+        "word": "内娱ending的神",
+        "onboard_time": 1675337314,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 347433,
+        "num": 347433,
+        "word": "T1 BP",
+        "onboard_time": 1675343436,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 321941,
+        "num": 321941,
+        "word": "王鸥说没有人会相信我",
+        "onboard_time": 1675330113,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317258,
+        "num": 317258,
+        "word": "张杰IU唱的marryyou",
+        "onboard_time": 1675334555,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304346,
+        "num": 304346,
+        "word": "张译 狂飙微博",
+        "onboard_time": 1675311036,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303610,
+        "num": 303610,
+        "word": "胡鑫宇事件发布会汇总",
+        "onboard_time": 1675340493,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302631,
+        "num": 302631,
+        "word": "马兆海鸥",
+        "onboard_time": 1675342475,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297786,
+        "num": 297786,
+        "word": "30岁女子买70万平小岛成岛主",
+        "onboard_time": 1675327233,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273641,
+        "num": 273641,
+        "word": "王一博电影无名破7亿海报",
+        "onboard_time": 1675335934,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260786,
+        "num": 260786,
+        "word": "安欣再送饺子 高启强再举杯",
+        "onboard_time": 1675256253,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258292,
+        "num": 258292,
+        "word": "林家川的文笔",
+        "onboard_time": 1675340493,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252912,
+        "num": 252912,
+        "word": "专家称今年楼市必回暖甚至缺房",
+        "onboard_time": 1675328315,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 250566,
+        "num": 250566,
+        "word": "动物园23天后才找到溺亡小老虎",
+        "onboard_time": 1675335033,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249963,
+        "num": 249963,
+        "word": "爱奇艺回应3台设备同时登账号被封",
+        "onboard_time": 1675343436,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 242936,
+        "num": 242936,
+        "word": "黄子欧皇",
+        "onboard_time": 1675344757,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241594,
+        "num": 241594,
+        "word": "三体",
+        "onboard_time": 1675343975,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240421,
+        "num": 240421,
+        "word": "BOYSPLANET直播",
+        "onboard_time": 1675343614,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218273,
+        "num": 218273,
+        "word": "年轻时的安欣和疯驴子",
+        "onboard_time": 1675335873,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213639,
+        "num": 213639,
+        "word": "专家称改善经济不能靠催年轻人生娃",
+        "onboard_time": 1675337974,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 201161,
+        "num": 201161,
+        "word": "不同类型的婚后生活",
+        "onboard_time": 1675336593,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192858,
+        "num": 192858,
+        "word": "苏新皓二刷了满江红",
+        "onboard_time": 1675345176,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189317,
+        "num": 189317,
+        "word": "狂飙大结局",
+        "onboard_time": 1675249470,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180231,
+        "num": 180231,
+        "word": "三小孩放鞭炮将井盖炸碎1死2伤",
+        "onboard_time": 1675325553,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 178748,
+        "num": 178748,
+        "word": "狂飙",
+        "onboard_time": 1675314393,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171831,
+        "num": 171831,
+        "word": "刘亦菲晒杀青九宫格感谢大家",
+        "onboard_time": 1675334434,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#强信心开新局#"
+    }
+  }
+}
