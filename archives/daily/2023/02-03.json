@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675358247428,
+  "endTime": 1675359203938,
   "band_list": [
     {
       "raw_hot": 1287236,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233282,
+      "num": 233282,
+      "word": "谁能拒绝这一桶小猫",
+      "onboard_time": 1675357102,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227706,
       "num": 227706,
       "word": "对我而言危险的他",
@@ -241,6 +249,22 @@
       "onboard_time": 1675346978,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199836,
+      "num": 199836,
+      "word": "有个通透的妈妈是什么体验",
+      "onboard_time": 1675356442,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 198230,
+      "num": 198230,
+      "word": "严浩翔说假期结束",
+      "onboard_time": 1675358598,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 196381,
@@ -283,22 +307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 175779,
-      "num": 175779,
-      "word": "谁能拒绝这一桶小猫",
-      "onboard_time": 1675357102,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 172920,
-      "num": 172920,
-      "word": "有个通透的妈妈是什么体验",
-      "onboard_time": 1675356442,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 167998,
       "num": 167998,
       "word": "辽宁袭击医生嫌疑人被抓获",
@@ -307,8 +315,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163953,
-      "num": 163953,
+      "raw_hot": 164495,
+      "num": 164495,
       "word": "二刷流浪地球2还是满江红",
       "onboard_time": 1675356383,
       "rank": 23,
