@@ -1,6 +1,6 @@
 {
   "startTime": 1675268708656,
-  "endTime": 1675329505296,
+  "endTime": 1675330442418,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1808404,
+      "num": 1808404,
+      "word": "专家怒批50万以上存款征税",
+      "onboard_time": 1675326811,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1798545,
       "num": 1798545,
       "word": "上百盒布洛芬被扔垃圾桶",
@@ -179,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1401146,
-      "num": 1401146,
-      "word": "专家怒批50万以上存款征税",
-      "onboard_time": 1675326811,
-      "rank": 45,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 1387265,
       "num": 1387265,
       "word": "狂飙全员发博告别角色",
@@ -241,6 +241,22 @@
       "onboard_time": 1675257213,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1184130,
+      "num": 1184130,
+      "word": "杨幂工作室公章",
+      "onboard_time": 1675329692,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1184022,
+      "num": 1184022,
+      "word": "30岁女子买70万平小岛成岛主",
+      "onboard_time": 1675327233,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1177902,
@@ -313,14 +329,6 @@
       "onboard_time": 1675319191,
       "rank": 18,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 1043805,
-      "num": 1043805,
-      "word": "30岁女子买70万平小岛成岛主",
-      "onboard_time": 1675327233,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1033175,
@@ -441,6 +449,14 @@
       "onboard_time": 1675313916,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 767571,
+      "num": 767571,
+      "word": "王一博 苏翊鸣",
+      "onboard_time": 1675329634,
+      "rank": 11,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 763558,
@@ -595,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 541390,
+      "num": 541390,
+      "word": "专家称今年楼市必回暖甚至缺房",
+      "onboard_time": 1675328315,
+      "rank": 21,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 527245,
       "num": 527245,
       "word": "大张伟当着王鸥的面喊杨幂",
@@ -731,6 +755,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 419515,
+      "num": 419515,
+      "word": "香港将派发50万张免费机票",
+      "onboard_time": 1675329035,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 414476,
       "num": 414476,
       "word": "员工只能请十天事假合理吗",
@@ -779,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389250,
+      "num": 389250,
+      "word": "第一个看到狂飙大结局的人",
+      "onboard_time": 1675327954,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388466,
       "num": 388466,
       "word": "新Mac值不值得买",
@@ -792,6 +832,14 @@
       "word": "少年儿童抑郁症的六大先兆",
       "onboard_time": 1675310917,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385230,
+      "num": 385230,
+      "word": "动物园通报小老虎意外溺亡",
+      "onboard_time": 1675328974,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -849,14 +897,6 @@
       "onboard_time": 1675264414,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 366335,
-      "num": 366335,
-      "word": "第一个看到狂飙大结局的人",
-      "onboard_time": 1675327954,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 362524,
@@ -937,14 +977,6 @@
       "onboard_time": 1675301010,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339321,
-      "num": 339321,
-      "word": "专家称今年楼市必回暖甚至缺房",
-      "onboard_time": 1675328315,
-      "rank": 21,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 338800,
@@ -1051,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302452,
+      "num": 302452,
+      "word": "谢楠表白刘德华吴京说不回家了",
+      "onboard_time": 1675328194,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302199,
       "num": 302199,
       "word": "这是在用显微镜看狂飙吧",
@@ -1089,14 +1129,6 @@
       "onboard_time": 1675258356,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290852,
-      "num": 290852,
-      "word": "谢楠表白刘德华吴京说不回家了",
-      "onboard_time": 1675328194,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 289711,
@@ -1161,6 +1193,14 @@
       "onboard_time": 1675322309,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272086,
+      "num": 272086,
+      "word": "王鸥说没有人会相信我",
+      "onboard_time": 1675330113,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 271113,
@@ -1275,6 +1315,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 234535,
+      "num": 234535,
+      "word": "YSKM女友曝光",
+      "onboard_time": 1675329935,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 229581,
       "num": 229581,
       "word": "女子到男友舅舅家拜年盗走5万元",
@@ -1339,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217819,
+      "num": 217819,
+      "word": "高叶跟站姐说你们这样我很尴尬",
+      "onboard_time": 1675329273,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214290,
       "num": 214290,
       "word": "胡鑫宇生前青春期心理状态失衡",
@@ -1387,12 +1443,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201977,
+      "num": 201977,
+      "word": "百年仅6次的立春连元宵",
+      "onboard_time": 1675327174,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199896,
       "num": 199896,
       "word": "囤药太多怎么办",
       "onboard_time": 1675317812,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199525,
+      "num": 199525,
+      "word": "张若昀没躲过密逃也没躲过大侦探",
+      "onboard_time": 1675328256,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 198698,
@@ -1419,20 +1491,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195239,
+      "num": 195239,
+      "word": "狂飙编剧夸张颂文演技超出预期",
+      "onboard_time": 1675329814,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 194549,
+      "num": 194549,
+      "word": "TTG发文抵制私生",
+      "onboard_time": 1675329756,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194362,
       "num": 194362,
       "word": "高叶机场饭拍路透",
       "onboard_time": 1675316612,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193912,
-      "num": 193912,
-      "word": "百年仅6次的立春连元宵",
-      "onboard_time": 1675327174,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192822,
@@ -1465,14 +1545,6 @@
       "onboard_time": 1675278193,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188413,
-      "num": 188413,
-      "word": "动物园通报小老虎意外溺亡",
-      "onboard_time": 1675328974,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186706,
@@ -1545,14 +1617,6 @@
       "onboard_time": 1675318113,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 178126,
-      "num": 178126,
-      "word": "张若昀没躲过密逃也没躲过大侦探",
-      "onboard_time": 1675328256,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 177448,
@@ -1667,20 +1731,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 162084,
-      "num": 162084,
-      "word": "高叶跟站姐说你们这样我很尴尬",
-      "onboard_time": 1675329273,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160881,
       "num": 160881,
       "word": "这猫是跟王耀庆学舞蹈的吧",
       "onboard_time": 1675322970,
       "rank": 47,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 160479,
+      "num": 160479,
+      "word": "千斤棺木压手戴10年尾戒保住男子手指",
+      "onboard_time": 1675330173,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158894,
@@ -1731,20 +1795,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147804,
+      "num": 147804,
+      "word": "你知道皮蛋有多美吗",
+      "onboard_time": 1675329514,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 145486,
       "num": 145486,
       "word": "庄达菲张艺凡挽手路透",
       "onboard_time": 1675292416,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140666,
-      "num": 140666,
-      "word": "香港将派发50万张免费机票",
-      "onboard_time": 1675329035,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 137074,

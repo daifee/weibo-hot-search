@@ -1,0 +1,410 @@
+{
+  "runTime": 1675330442418,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2031843,
+        "num": 2031843,
+        "word": "谭卓 建议查查张译",
+        "onboard_time": 1675326872,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1808404,
+        "num": 1808404,
+        "word": "专家怒批50万以上存款征税",
+        "onboard_time": 1675326811,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 53630,
+        "num": 1572635,
+        "word": "一起感受中国湿地之美",
+        "onboard_time": 1675309597,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1363247,
+        "num": 1363247,
+        "word": "胡鑫宇曾向母亲哭诉不想读书",
+        "onboard_time": 1675323749,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1196653,
+        "num": 1196653,
+        "word": "胡鑫宇遗体脚掌与地面平行不实",
+        "onboard_time": 1675313916,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184130,
+        "num": 1184130,
+        "word": "杨幂工作室公章",
+        "onboard_time": 1675329692,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1184022,
+        "num": 1184022,
+        "word": "30岁女子买70万平小岛成岛主",
+        "onboard_time": 1675327233,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1108224,
+        "num": 1108224,
+        "word": "胡鑫宇录音笔内容",
+        "onboard_time": 1675307681,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1104032,
+        "num": 1104032,
+        "word": "张颂文 天tian",
+        "onboard_time": 1675325614,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 915252,
+        "num": 915252,
+        "word": "杨幂工作室回应广告被下刊传言",
+        "onboard_time": 1675327835,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 874772,
+        "num": 874772,
+        "word": "上百盒布洛芬被扔垃圾桶",
+        "onboard_time": 1675318592,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767571,
+        "num": 767571,
+        "word": "王一博 苏翊鸣",
+        "onboard_time": 1675329634,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 753662,
+        "num": 753662,
+        "word": "张译 狂飙微博",
+        "onboard_time": 1675311036,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 736137,
+        "num": 736137,
+        "word": "央视采访发现胡鑫宇尸体的粮库员工",
+        "onboard_time": 1675314515,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679906,
+        "num": 679906,
+        "word": "三小孩放鞭炮将井盖炸碎1死2伤",
+        "onboard_time": 1675325553,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 566656,
+        "num": 566656,
+        "word": "第一次见可以剥皮的西瓜",
+        "onboard_time": 1675325434,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 541390,
+        "num": 541390,
+        "word": "专家称今年楼市必回暖甚至缺房",
+        "onboard_time": 1675328315,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 529179,
+        "num": 529179,
+        "word": "胡鑫宇生前社交软件留言",
+        "onboard_time": 1675315772,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465611,
+        "num": 465611,
+        "word": "苗苗谈恋爱前把郑恺所有采访都看了一遍",
+        "onboard_time": 1675317511,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450083,
+        "num": 450083,
+        "word": "张艺兴起诉造型师徐峰立侵权",
+        "onboard_time": 1675317332,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 419515,
+        "num": 419515,
+        "word": "香港将派发50万张免费机票",
+        "onboard_time": 1675329035,
+        "rank": 20,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 389250,
+        "num": 389250,
+        "word": "第一个看到狂飙大结局的人",
+        "onboard_time": 1675327954,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385230,
+        "num": 385230,
+        "word": "动物园通报小老虎意外溺亡",
+        "onboard_time": 1675328974,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339592,
+        "num": 339592,
+        "word": "大妈插队女生手机外放回击",
+        "onboard_time": 1675317271,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316739,
+        "num": 316739,
+        "word": "狂飙豆瓣评分降了",
+        "onboard_time": 1675316371,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302452,
+        "num": 302452,
+        "word": "谢楠表白刘德华吴京说不回家了",
+        "onboard_time": 1675328194,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290113,
+        "num": 290113,
+        "word": "肖战马来西亚wetv最佳男主",
+        "onboard_time": 1675322670,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289544,
+        "num": 289544,
+        "word": "田柾国清唱ditto片段",
+        "onboard_time": 1675326754,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289099,
+        "num": 289099,
+        "word": "胡鑫宇曾试图在宿舍5楼阳台上跳楼",
+        "onboard_time": 1675313916,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277951,
+        "num": 277951,
+        "word": "胡鑫宇系自缢死亡",
+        "onboard_time": 1675303653,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272086,
+        "num": 272086,
+        "word": "王鸥说没有人会相信我",
+        "onboard_time": 1675330113,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266355,
+        "num": 266355,
+        "word": "狂飙",
+        "onboard_time": 1675314393,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234535,
+        "num": 234535,
+        "word": "YSKM女友曝光",
+        "onboard_time": 1675329935,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217819,
+        "num": 217819,
+        "word": "高叶跟站姐说你们这样我很尴尬",
+        "onboard_time": 1675329273,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209386,
+        "num": 209386,
+        "word": "川陕粤闽非婚小孩可落户",
+        "onboard_time": 1675322610,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208559,
+        "num": 208559,
+        "word": "张译商业版图",
+        "onboard_time": 1675328495,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201977,
+        "num": 201977,
+        "word": "百年仅6次的立春连元宵",
+        "onboard_time": 1675327174,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199525,
+        "num": 199525,
+        "word": "张若昀没躲过密逃也没躲过大侦探",
+        "onboard_time": 1675328256,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195239,
+        "num": 195239,
+        "word": "狂飙编剧夸张颂文演技超出预期",
+        "onboard_time": 1675329814,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194549,
+        "num": 194549,
+        "word": "TTG发文抵制私生",
+        "onboard_time": 1675329756,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192626,
+        "num": 192626,
+        "word": "安欣再送饺子 高启强再举杯",
+        "onboard_time": 1675256253,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180373,
+        "num": 180373,
+        "word": "小米汽车设计泄密供应商被处罚100万",
+        "onboard_time": 1675319550,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172298,
+        "num": 172298,
+        "word": "香港将送50万张机票吸引旅客",
+        "onboard_time": 1675326700,
+        "rank": 42,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 160479,
+        "num": 160479,
+        "word": "千斤棺木压手戴10年尾戒保住男子手指",
+        "onboard_time": 1675330173,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158551,
+        "num": 158551,
+        "word": "张颂文仅关联一家影视公司",
+        "onboard_time": 1675321169,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155588,
+        "num": 155588,
+        "word": "Angelababy绿色露背缎面裙造型",
+        "onboard_time": 1675321050,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155571,
+        "num": 155571,
+        "word": "男子养鹅为怕冷老婆自制羽绒服",
+        "onboard_time": 1675322791,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153430,
+        "num": 153430,
+        "word": "胡鑫宇缢吊地点为何成搜索盲区",
+        "onboard_time": 1675316190,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148547,
+        "num": 148547,
+        "word": "大侦探",
+        "onboard_time": 1675318113,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147804,
+        "num": 147804,
+        "word": "你知道皮蛋有多美吗",
+        "onboard_time": 1675329514,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#兔年开工第一周总书记作出重要部署#"
+    }
+  }
+}
