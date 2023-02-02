@@ -1,6 +1,6 @@
 {
   "startTime": 1675268708656,
-  "endTime": 1675326236920,
+  "endTime": 1675327084392,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2066004,
+      "num": 1354392,
+      "word": "杨幂劳拉",
+      "onboard_time": 1675324770,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1798545,
       "num": 1798545,
       "word": "上百盒布洛芬被扔垃圾桶",
@@ -129,6 +137,14 @@
       "onboard_time": 1675309297,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1560480,
+      "num": 1560480,
+      "word": "张颂文 天tian",
+      "onboard_time": 1675325614,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1540817,
@@ -171,14 +187,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 1350211,
-      "num": 1350211,
-      "word": "杨幂劳拉",
-      "onboard_time": 1675324770,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1312225,
       "num": 1312225,
       "word": "苗苗谈恋爱前把郑恺所有采访都看了一遍",
@@ -192,6 +200,14 @@
       "word": "大润发回应女员工因照顾病危父亲请假遭开除",
       "onboard_time": 1675286351,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1247597,
+      "num": 1247597,
+      "word": "胡鑫宇曾向母亲哭诉不想读书",
+      "onboard_time": 1675323749,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -283,28 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1029183,
-      "num": 1029183,
-      "word": "胡鑫宇曾向母亲哭诉不想读书",
-      "onboard_time": 1675323749,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1028602,
       "num": 1028602,
       "word": "高启兰结局",
       "onboard_time": 1675294882,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 992378,
-      "num": 992378,
-      "word": "张颂文 天tian",
-      "onboard_time": 1675325614,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 971771,
@@ -337,6 +337,14 @@
       "onboard_time": 1675306663,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 913332,
+      "num": 913332,
+      "word": "谭卓 建议查查张译",
+      "onboard_time": 1675326872,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 864086,
@@ -507,6 +515,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 585616,
+      "num": 585616,
+      "word": "第一次见可以剥皮的西瓜",
+      "onboard_time": 1675325434,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 582811,
       "num": 582811,
       "word": "金巧巧 关于电影无名聊三句",
@@ -521,6 +537,14 @@
       "onboard_time": 1675295483,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 556139,
+      "num": 556139,
+      "word": "取消生育结婚限制有何利弊",
+      "onboard_time": 1675325014,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 554447,
@@ -553,6 +577,14 @@
       "onboard_time": 1675309776,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 520478,
+      "num": 520478,
+      "word": "三小孩放鞭炮将井盖炸碎1死2伤",
+      "onboard_time": 1675325553,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 509509,
@@ -635,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 462629,
+      "num": 462629,
+      "word": "王传君说会跳舞是王一博带得好",
+      "onboard_time": 1675325493,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 459669,
       "num": 459669,
       "word": "张颂文和朱珠拍过吻戏",
@@ -649,14 +689,6 @@
       "onboard_time": 1675306185,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 427933,
-      "num": 427933,
-      "word": "王传君说会跳舞是王一博带得好",
-      "onboard_time": 1675325493,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 426254,
@@ -731,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380286,
-      "num": 380286,
-      "word": "取消生育结婚限制有何利弊",
-      "onboard_time": 1675325014,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378792,
       "num": 378792,
       "word": "妈妈终于认可了这个衣柜",
@@ -769,6 +793,14 @@
       "onboard_time": 1675321169,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371184,
+      "num": 371184,
+      "word": "田柾国清唱ditto片段",
+      "onboard_time": 1675326754,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 369779,
@@ -873,14 +905,6 @@
       "onboard_time": 1675262316,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 331711,
-      "num": 331711,
-      "word": "第一次见可以剥皮的西瓜",
-      "onboard_time": 1675325434,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 330922,
@@ -1033,14 +1057,6 @@
       "onboard_time": 1675318344,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 286055,
-      "num": 286055,
-      "word": "三小孩放鞭炮将井盖炸碎1死2伤",
-      "onboard_time": 1675325553,
-      "rank": 31,
-      "category": "社会负面"
     },
     {
       "raw_hot": 284607,
@@ -1211,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225335,
+      "num": 225335,
+      "word": "心理专家解读胡鑫宇事件",
+      "onboard_time": 1675322491,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224155,
       "num": 224155,
       "word": "左手上篮动画开播",
@@ -1243,14 +1267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 221503,
-      "num": 221503,
-      "word": "心理专家解读胡鑫宇事件",
-      "onboard_time": 1675322491,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217995,
       "num": 217995,
       "word": "主人推门发现6只布偶猫挂在墙上",
@@ -1281,6 +1297,14 @@
       "onboard_time": 1675321592,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207479,
+      "num": 207479,
+      "word": "白敬亭金晨吃鸡腿路透",
+      "onboard_time": 1675323510,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 205281,
@@ -1329,14 +1353,6 @@
       "onboard_time": 1675259376,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195281,
-      "num": 195281,
-      "word": "白敬亭金晨吃鸡腿路透",
-      "onboard_time": 1675323510,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 194362,
@@ -1547,12 +1563,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 162455,
+      "num": 162455,
+      "word": "香港将送50万张机票吸引旅客",
+      "onboard_time": 1675326700,
+      "rank": 44,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 160881,
       "num": 160881,
       "word": "这猫是跟王耀庆学舞蹈的吧",
       "onboard_time": 1675322970,
       "rank": 47,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 160826,
+      "num": 160826,
+      "word": "专家怒批50万以上存款征税",
+      "onboard_time": 1675326811,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 158894,

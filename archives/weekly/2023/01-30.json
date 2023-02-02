@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675326236920,
+  "endTime": 1675327084392,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2066004,
+      "num": 1354392,
+      "word": "杨幂劳拉",
+      "onboard_time": 1675324770,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2064101,
       "num": 2064101,
       "word": "高启强被刺杀",
@@ -643,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1560480,
+      "num": 1560480,
+      "word": "张颂文 天tian",
+      "onboard_time": 1675325614,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1554785,
       "num": 279905,
       "word": "官方回应发现胡鑫宇尸体通报只写金鸡山",
@@ -803,14 +819,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 1350211,
-      "num": 1350211,
-      "word": "杨幂劳拉",
-      "onboard_time": 1675324770,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1337654,
       "num": 1337654,
       "word": "谢娜晒背影照为跳跳俏俏庆生",
@@ -928,6 +936,14 @@
       "word": "男孩撸猫后发烧12天腋下长鸡蛋大肿块",
       "onboard_time": 1675176996,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1247597,
+      "num": 1247597,
+      "word": "胡鑫宇曾向母亲哭诉不想读书",
+      "onboard_time": 1675323749,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1355,14 +1371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1029183,
-      "num": 1029183,
-      "word": "胡鑫宇曾向母亲哭诉不想读书",
-      "onboard_time": 1675323749,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1028602,
       "num": 1028602,
       "word": "高启兰结局",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1675256253,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 992378,
-      "num": 992378,
-      "word": "张颂文 天tian",
-      "onboard_time": 1675325614,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 987325,
@@ -1577,6 +1577,14 @@
       "onboard_time": 1675141650,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 913332,
+      "num": 913332,
+      "word": "谭卓 建议查查张译",
+      "onboard_time": 1675326872,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 907785,
@@ -2579,6 +2587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 585616,
+      "num": 585616,
+      "word": "第一次见可以剥皮的西瓜",
+      "onboard_time": 1675325434,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 584948,
       "num": 584948,
       "word": "9岁患癌男童体内取出柚子般大肿瘤",
@@ -2777,6 +2793,14 @@
       "onboard_time": 1675151522,
       "rank": 20,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 556139,
+      "num": 556139,
+      "word": "取消生育结婚限制有何利弊",
+      "onboard_time": 1675325014,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 555386,
@@ -3001,6 +3025,14 @@
       "onboard_time": 1675084713,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 520478,
+      "num": 520478,
+      "word": "三小孩放鞭炮将井盖炸碎1死2伤",
+      "onboard_time": 1675325553,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 518209,
@@ -3395,6 +3427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 462629,
+      "num": 462629,
+      "word": "王传君说会跳舞是王一博带得好",
+      "onboard_time": 1675325493,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 460903,
       "num": 460903,
       "word": "张译张颂文老来得粉",
@@ -3624,14 +3664,6 @@
       "word": "满江红官博称追究到底",
       "onboard_time": 1675054894,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 427933,
-      "num": 427933,
-      "word": "王传君说会跳舞是王一博带得好",
-      "onboard_time": 1675325493,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -4027,14 +4059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380286,
-      "num": 380286,
-      "word": "取消生育结婚限制有何利弊",
-      "onboard_time": 1675325014,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379916,
       "num": 379916,
       "word": "王鹤棣机场随拍四宫格",
@@ -4145,6 +4169,14 @@
       "onboard_time": 1675231530,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371184,
+      "num": 371184,
+      "word": "田柾国清唱ditto片段",
+      "onboard_time": 1675326754,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 370820,
@@ -4529,14 +4561,6 @@
       "onboard_time": 1675048589,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331711,
-      "num": 331711,
-      "word": "第一次见可以剥皮的西瓜",
-      "onboard_time": 1675325434,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 331587,
@@ -5081,14 +5105,6 @@
       "onboard_time": 1675220490,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 286055,
-      "num": 286055,
-      "word": "三小孩放鞭炮将井盖炸碎1死2伤",
-      "onboard_time": 1675325553,
-      "rank": 31,
-      "category": "社会负面"
     },
     {
       "raw_hot": 286011,
@@ -6035,6 +6051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225335,
+      "num": 225335,
+      "word": "心理专家解读胡鑫宇事件",
+      "onboard_time": 1675322491,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225260,
       "num": 225260,
       "word": "你在流浪地球2里多少岁",
@@ -6113,14 +6137,6 @@
       "onboard_time": 1675123527,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221503,
-      "num": 221503,
-      "word": "心理专家解读胡鑫宇事件",
-      "onboard_time": 1675322491,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221231,
@@ -6344,6 +6360,14 @@
       "word": "隆妮说大概率是我高攀了高启兰",
       "onboard_time": 1675235910,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 207479,
+      "num": 207479,
+      "word": "白敬亭金晨吃鸡腿路透",
+      "onboard_time": 1675323510,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -6649,14 +6673,6 @@
       "onboard_time": 1675122444,
       "rank": 36,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 195281,
-      "num": 195281,
-      "word": "白敬亭金晨吃鸡腿路透",
-      "onboard_time": 1675323510,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 195243,
@@ -7579,6 +7595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 162455,
+      "num": 162455,
+      "word": "香港将送50万张机票吸引旅客",
+      "onboard_time": 1675326700,
+      "rank": 44,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 162168,
       "num": 162168,
       "word": "熬夜后怎么快速恢复精神",
@@ -7617,6 +7641,14 @@
       "onboard_time": 1675040667,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160826,
+      "num": 160826,
+      "word": "专家怒批50万以上存款征税",
+      "onboard_time": 1675326811,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 160793,
