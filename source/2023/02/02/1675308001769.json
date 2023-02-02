@@ -1,0 +1,410 @@
+{
+  "runTime": 1675308001769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10334300,
+        "num": 10334300,
+        "word": "胡鑫宇系自缢死亡",
+        "onboard_time": 1675303653,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9016564,
+        "num": 10266564,
+        "word": "胡鑫宇录音笔中音频表达自杀意愿",
+        "onboard_time": 1675304683,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4275938,
+        "num": 4275938,
+        "word": "胡鑫宇事件调查情况发布会",
+        "onboard_time": 1675303048,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2388576,
+        "num": 2388576,
+        "word": "胡鑫宇尸检情况公布",
+        "onboard_time": 1675304079,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1718655,
+        "num": 1718655,
+        "word": "男子中奖1000万瞒着妻子给前妻70万",
+        "onboard_time": 1675299629,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1692590,
+        "num": 1692590,
+        "word": "胡鑫宇下落为何100多天后才发现",
+        "onboard_time": 1675305646,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1306004,
+        "num": 1306004,
+        "word": "胡鑫宇尸体发现地系原始第一现场",
+        "onboard_time": 1675304501,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1144748,
+        "num": 1144748,
+        "word": "胡鑫宇尸体符合长期暴露在室外的特征",
+        "onboard_time": 1675305704,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064933,
+        "num": 1064933,
+        "word": "安欣和高启强说了同一句谎话",
+        "onboard_time": 1675301969,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 962613,
+        "num": 962613,
+        "word": "网友囤1000片退烧药全砸手里了",
+        "onboard_time": 1675298248,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918716,
+        "num": 918716,
+        "word": "胡某宇遗体全身完整",
+        "onboard_time": 1675306663,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845225,
+        "num": 845225,
+        "word": "安欣再送饺子 高启强再举杯",
+        "onboard_time": 1675256253,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 775391,
+        "num": 775391,
+        "word": "胡鑫宇录音笔内容",
+        "onboard_time": 1675307681,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 750353,
+        "num": 750353,
+        "word": "胡鑫宇有明确厌世表现轻生倾向",
+        "onboard_time": 1675306783,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656843,
+        "num": 656843,
+        "word": "张颂文 我永远难忘这个春节",
+        "onboard_time": 1675266870,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 625435,
+        "num": 625435,
+        "word": "女子吐槽烧烤店一盘香菜108元",
+        "onboard_time": 1675305469,
+        "rank": 15,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 549395,
+        "num": 549395,
+        "word": "高叶拍狂飙整整痛苦了两三个月",
+        "onboard_time": 1675304864,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 542124,
+        "num": 542124,
+        "word": "金巧巧 关于电影无名聊三句",
+        "onboard_time": 1675305646,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 531881,
+        "num": 531881,
+        "word": "狂飙删减",
+        "onboard_time": 1675298128,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 529237,
+        "num": 529237,
+        "word": "安长林 好人",
+        "onboard_time": 1675299271,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523059,
+        "num": 523059,
+        "word": "宁波一商场禁3周岁以上男童进女厕",
+        "onboard_time": 1675298672,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504011,
+        "num": 504011,
+        "word": "男子结婚7年体重暴增颜值不再",
+        "onboard_time": 1675298672,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 483611,
+        "num": 483611,
+        "word": "女子收老板万元红包拆开后崩溃",
+        "onboard_time": 1675304319,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437542,
+        "num": 437542,
+        "word": "虞书欣绿色吊带造型上班路透",
+        "onboard_time": 1675306185,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 437114,
+        "num": 437114,
+        "word": "高启兰结局",
+        "onboard_time": 1675294882,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420451,
+        "num": 420451,
+        "word": "胡鑫宇录音笔内容无合成和篡改情况",
+        "onboard_time": 1675305765,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418975,
+        "num": 418975,
+        "word": "至少四地取消生育结婚限制",
+        "onboard_time": 1675305584,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397751,
+        "num": 397751,
+        "word": "胡鑫宇尸体发现地无打斗拖拽痕迹",
+        "onboard_time": 1675305164,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392978,
+        "num": 392978,
+        "word": "张译安欣名字镜像",
+        "onboard_time": 1675307141,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388663,
+        "num": 388663,
+        "word": "陈星旭李兰迪新剧预告",
+        "onboard_time": 1675307976,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372739,
+        "num": 372739,
+        "word": "无性别卫生间能破除尴尬吗",
+        "onboard_time": 1675297646,
+        "rank": 30,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 363238,
+        "num": 363238,
+        "word": "刘德华也要辅导孩子作业",
+        "onboard_time": 1675295483,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361956,
+        "num": 361956,
+        "word": "狂飙张彪演员真当过警察",
+        "onboard_time": 1675307437,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355618,
+        "num": 355618,
+        "word": "王一博看到程耳烟拿反了的反应",
+        "onboard_time": 1675306961,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329149,
+        "num": 329149,
+        "word": "英国迎2011年以来最大规模罢工",
+        "onboard_time": 1675302869,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 318770,
+        "num": 318770,
+        "word": "张颂文已经有站姐了",
+        "onboard_time": 1675307976,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286727,
+        "num": 286727,
+        "word": "警方回应胡鑫宇事件相关谣言",
+        "onboard_time": 1675307560,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310823,
+        "num": 284311,
+        "word": "张颂文回复与高启强重名网友评论",
+        "onboard_time": 1675304561,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280243,
+        "num": 280243,
+        "word": "两根鞋带是否能承载胡鑫宇缢吊重量",
+        "onboard_time": 1675307738,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275069,
+        "num": 275069,
+        "word": "唯五得欣",
+        "onboard_time": 1675298789,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258200,
+        "num": 258200,
+        "word": "林家川 唐小龙告辞了江湖再见",
+        "onboard_time": 1675293981,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254388,
+        "num": 254388,
+        "word": "江西警方回应100多天才找到胡鑫宇",
+        "onboard_time": 1675307083,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230343,
+        "num": 230343,
+        "word": "YG新女团第二位泰国成员公开",
+        "onboard_time": 1675296567,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227109,
+        "num": 227109,
+        "word": "大润发回应女员工因照顾病危父亲请假遭开除",
+        "onboard_time": 1675286351,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225473,
+        "num": 225473,
+        "word": "狂飙最大保护伞",
+        "onboard_time": 1675257996,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220147,
+        "num": 220147,
+        "word": "警方辟谣胡鑫宇为熊猫血",
+        "onboard_time": 1675307857,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219969,
+        "num": 219969,
+        "word": "广东省考",
+        "onboard_time": 1675303167,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214540,
+        "num": 214540,
+        "word": "90后丁克夫妻被双方父母轮番催生",
+        "onboard_time": 1675264958,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201957,
+        "num": 201957,
+        "word": "女子落入流浪地球投资骗局被骗11万",
+        "onboard_time": 1675301430,
+        "rank": 48,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 198698,
+        "num": 198698,
+        "word": "安欣搀扶高启强",
+        "onboard_time": 1675307618,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断增加高质量产品和服务供给#"
+    }
+  }
+}
