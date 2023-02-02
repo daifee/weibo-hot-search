@@ -1,6 +1,6 @@
 {
   "startTime": 1675268708656,
-  "endTime": 1675315028619,
+  "endTime": 1675316017008,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -107,19 +107,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1540817,
+      "num": 1540817,
+      "word": "陈某贵假冒胡鑫宇光头老师被逮捕",
+      "onboard_time": 1675312359,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1483227,
       "num": 1483227,
       "word": "网友囤1000片退烧药全砸手里了",
       "onboard_time": 1675298248,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1453291,
-      "num": 1453291,
-      "word": "陈某贵假冒胡鑫宇光头老师被逮捕",
-      "onboard_time": 1675312359,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -171,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1153866,
+      "num": 929769,
+      "word": "胡鑫宇遗体脚掌与地面平行不实",
+      "onboard_time": 1675313916,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1152022,
       "num": 1152022,
       "word": "狂飙最大保护伞",
@@ -192,6 +200,14 @@
       "word": "狂飙大结局",
       "onboard_time": 1675249470,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1085771,
+      "num": 1085771,
+      "word": "张译工作室",
+      "onboard_time": 1675314452,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -217,6 +233,14 @@
       "onboard_time": 1675294882,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 971771,
+      "num": 971771,
+      "word": "女子拒绝底薪1000工作被HR怼",
+      "onboard_time": 1675312598,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 966181,
@@ -251,11 +275,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 860587,
-      "num": 860587,
-      "word": "女子拒绝底薪1000工作被HR怼",
-      "onboard_time": 1675312598,
-      "rank": 8,
+      "raw_hot": 852455,
+      "num": 852455,
+      "word": "央视采访发现胡鑫宇尸体的粮库员工",
+      "onboard_time": 1675314515,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -297,6 +321,14 @@
       "onboard_time": 1675304864,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 769855,
+      "num": 769855,
+      "word": "胡鑫宇曾试图在宿舍5楼阳台上跳楼",
+      "onboard_time": 1675313916,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 763558,
@@ -377,14 +409,6 @@
       "onboard_time": 1675305469,
       "rank": 44,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 624738,
-      "num": 350203,
-      "word": "胡鑫宇遗体脚掌与地面平行不实",
-      "onboard_time": 1675313916,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 582811,
@@ -489,6 +513,14 @@
       "onboard_time": 1675306185,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 428504,
+      "num": 428504,
+      "word": "平采娜点赞迪丽热巴视频",
+      "onboard_time": 1675315654,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 426254,
@@ -635,6 +667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 345390,
+      "num": 345390,
+      "word": "张译写的书名叫不靠谱的演员都爱说如果",
+      "onboard_time": 1675315352,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340396,
       "num": 340396,
       "word": "父母患阿尔茨海默病儿子假装邻居陪护",
@@ -649,14 +689,6 @@
       "onboard_time": 1675262316,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 331301,
-      "num": 331301,
-      "word": "胡鑫宇曾试图在宿舍5楼阳台上跳楼",
-      "onboard_time": 1675313916,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330922,
@@ -843,6 +875,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 262931,
+      "num": 262931,
+      "word": "孙茜给朱洁静粉丝送暖宝宝",
+      "onboard_time": 1675314695,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262731,
       "num": 262731,
       "word": "阻止男童进女厕当事人称希望对方道歉",
@@ -899,14 +939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 247106,
-      "num": 247106,
-      "word": "孙茜给朱洁静粉丝送暖宝宝",
-      "onboard_time": 1675314695,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243529,
       "num": 243529,
       "word": "警方回应鞋带承重问题",
@@ -929,14 +961,6 @@
       "onboard_time": 1675280892,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228818,
-      "num": 228818,
-      "word": "张译工作室",
-      "onboard_time": 1675314452,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 227215,
@@ -963,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219625,
-      "num": 219625,
-      "word": "央视采访发现胡鑫宇尸体的粮库员工",
-      "onboard_time": 1675314515,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217995,
       "num": 217995,
       "word": "主人推门发现6只布偶猫挂在墙上",
@@ -984,6 +1000,14 @@
       "word": "胡鑫宇生前青春期心理状态失衡",
       "onboard_time": 1675314634,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210022,
+      "num": 210022,
+      "word": "胡鑫宇生前社交软件留言",
+      "onboard_time": 1675315772,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1017,6 +1041,14 @@
       "onboard_time": 1675259376,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192228,
+      "num": 192228,
+      "word": "李兰迪新剧星落凝成糖人设",
+      "onboard_time": 1675315712,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 190955,
