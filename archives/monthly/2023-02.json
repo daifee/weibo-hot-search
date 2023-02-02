@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675336541177,
+  "endTime": 1675337615728,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -51,6 +51,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3523761,
+      "num": 3523761,
+      "word": "3台设备同时登爱奇艺账号被封",
+      "onboard_time": 1675332754,
+      "rank": 36,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 3479354,
       "num": 3479354,
       "word": "张译 狂飙微博",
@@ -81,14 +89,6 @@
       "onboard_time": 1675299629,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2934099,
-      "num": 2934099,
-      "word": "3台设备同时登爱奇艺账号被封",
-      "onboard_time": 1675332754,
-      "rank": 36,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 2748285,
@@ -225,6 +225,14 @@
       "onboard_time": 1675216467,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1960257,
+      "num": 1960257,
+      "word": "专家称年轻人工资低可能是能力不够",
+      "onboard_time": 1675333654,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1952548,
@@ -403,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1456354,
-      "num": 1456354,
-      "word": "专家称年轻人工资低可能是能力不够",
-      "onboard_time": 1675333654,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1441443,
       "num": 1441443,
       "word": "胡鑫宇事件最新情况",
@@ -487,6 +487,14 @@
       "num": 1307591,
       "word": "高叶也不知道大嫂怎么死的",
       "onboard_time": 1675252407,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1285717,
+      "num": 1285717,
+      "word": "黄瑶扮演者直播间被骂白眼狼",
+      "onboard_time": 1675335513,
       "rank": 7,
       "category": "影视"
     },
@@ -835,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 920542,
+      "num": 920542,
+      "word": "爱奇艺回应3台设备登录账号被封",
+      "onboard_time": 1675334315,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 918716,
       "num": 918716,
       "word": "胡某宇遗体全身完整",
@@ -888,14 +904,6 @@
       "word": "安长林 好人",
       "onboard_time": 1675299271,
       "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 860482,
-      "num": 860482,
-      "word": "黄瑶扮演者直播间被骂白眼狼",
-      "onboard_time": 1675335513,
-      "rank": 7,
       "category": "影视"
     },
     {
@@ -995,6 +1003,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 792385,
+      "num": 792385,
+      "word": "王俊凯方发布严正声明",
+      "onboard_time": 1675335993,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 792235,
       "num": 792235,
       "word": "大妈插队女生手机外放回击",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1675175735,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 718234,
-      "num": 718234,
-      "word": "爱奇艺回应3台设备登录账号被封",
-      "onboard_time": 1675334315,
-      "rank": 8,
-      "category": "科技"
     },
     {
       "raw_hot": 716435,
@@ -1203,8 +1211,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 681364,
-      "num": 681364,
+      "raw_hot": 683171,
+      "num": 683171,
       "word": "张杰IU唱的marryyou",
       "onboard_time": 1675334555,
       "rank": 11,
@@ -1241,6 +1249,14 @@
       "onboard_time": 1675220849,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 659438,
+      "num": 603906,
+      "word": "陈赫工作室开在张颂文公司楼上",
+      "onboard_time": 1675333414,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 656396,
@@ -1363,14 +1379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 603906,
-      "num": 603906,
-      "word": "陈赫工作室开在张颂文公司楼上",
-      "onboard_time": 1675333414,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 600722,
       "num": 600722,
       "word": "王鹤棣白鹿背后拥抱看剧本路透",
@@ -1435,20 +1443,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 583632,
+      "num": 583632,
+      "word": "00后搞钱方式有多野",
+      "onboard_time": 1675334555,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 582811,
       "num": 582811,
       "word": "金巧巧 关于电影无名聊三句",
       "onboard_time": 1675305646,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 581014,
-      "num": 581014,
-      "word": "00后搞钱方式有多野",
-      "onboard_time": 1675334555,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 577672,
@@ -1611,6 +1619,14 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 526933,
+      "num": 526933,
+      "word": "刘亦菲晒杀青九宫格感谢大家",
+      "onboard_time": 1675334434,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 526468,
       "num": 526468,
       "word": "迪丽热巴安乐传蓝色纱裙路透",
@@ -1641,22 +1657,6 @@
       "onboard_time": 1675253850,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 520618,
-      "num": 520618,
-      "word": "刘亦菲晒杀青九宫格感谢大家",
-      "onboard_time": 1675334434,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 519643,
-      "num": 519643,
-      "word": "王俊凯方发布严正声明",
-      "onboard_time": 1675335993,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 518209,
@@ -1795,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483565,
+      "num": 483565,
+      "word": "内娱ending的神",
+      "onboard_time": 1675337314,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 483148,
       "num": 433794,
       "word": "狂飙张彪演员真当过警察",
@@ -1817,6 +1825,14 @@
       "onboard_time": 1675233812,
       "rank": 16,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 470407,
+      "num": 470407,
+      "word": "李一桐说拍狂飙像进入顶级叔圈",
+      "onboard_time": 1675336292,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 466911,
@@ -2104,6 +2120,14 @@
       "word": "川陕粤闽非婚小孩可落户",
       "onboard_time": 1675322610,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403078,
+      "num": 403078,
+      "word": "动物园23天后才找到溺亡小老虎",
+      "onboard_time": 1675335033,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2555,14 +2579,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 309308,
-      "num": 309308,
-      "word": "动物园23天后才找到溺亡小老虎",
-      "onboard_time": 1675335033,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308181,
       "num": 308181,
       "word": "警方回应胡鑫宇事件相关谣言",
@@ -2745,6 +2761,14 @@
       "onboard_time": 1675243831,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280086,
+      "num": 280086,
+      "word": "年轻时的安欣和疯驴子",
+      "onboard_time": 1675335873,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 277549,
@@ -3275,14 +3299,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 216242,
-      "num": 216242,
-      "word": "年轻时的安欣和疯驴子",
-      "onboard_time": 1675335873,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 214290,
       "num": 214290,
       "word": "胡鑫宇生前青春期心理状态失衡",
@@ -3531,6 +3547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191963,
+      "num": 191963,
+      "word": "不同类型的婚后生活",
+      "onboard_time": 1675336593,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190955,
       "num": 190955,
       "word": "谢谢狂飙",
@@ -3713,6 +3737,14 @@
       "onboard_time": 1675332038,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181024,
+      "num": 181024,
+      "word": "如何挽救有想要轻生的人",
+      "onboard_time": 1675337075,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180901,
