@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675356241890,
+  "endTime": 1675358247428,
   "band_list": [
     {
       "raw_hot": 1287236,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 560773,
+      "num": 560773,
+      "word": "没有锁的门有多窒息",
+      "onboard_time": 1675354469,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 539525,
       "num": 539525,
       "word": "声生不息宝岛季你最期待谁",
@@ -105,14 +113,6 @@
       "onboard_time": 1675334315,
       "rank": 13,
       "category": "科技"
-    },
-    {
-      "raw_hot": 418060,
-      "num": 418060,
-      "word": "没有锁的门有多窒息",
-      "onboard_time": 1675354469,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 376523,
@@ -195,19 +195,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256330,
+      "num": 256330,
+      "word": "酷云认证赵丽颖85花收视TOP",
+      "onboard_time": 1675355005,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253323,
       "num": 253323,
       "word": "张颂文与他的经纪人赵玉德",
       "onboard_time": 1675342052,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 252469,
-      "num": 252469,
-      "word": "酷云认证赵丽颖85花收视TOP",
-      "onboard_time": 1675355005,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -283,12 +283,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175779,
+      "num": 175779,
+      "word": "谁能拒绝这一桶小猫",
+      "onboard_time": 1675357102,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 172920,
+      "num": 172920,
+      "word": "有个通透的妈妈是什么体验",
+      "onboard_time": 1675356442,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167998,
       "num": 167998,
       "word": "辽宁袭击医生嫌疑人被抓获",
       "onboard_time": 1675346795,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163953,
+      "num": 163953,
+      "word": "二刷流浪地球2还是满江红",
+      "onboard_time": 1675356383,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 163090,
@@ -401,6 +425,14 @@
       "onboard_time": 1675330173,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73049,
+      "num": 73049,
+      "word": "谭卓 建议查查张译",
+      "onboard_time": 1675326872,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 62769,

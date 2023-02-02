@@ -1,0 +1,410 @@
+{
+  "runTime": 1675358247428,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 712519,
+        "num": 712519,
+        "word": "专家称年轻人工资低可能是能力不够",
+        "onboard_time": 1675333654,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560773,
+        "num": 560773,
+        "word": "没有锁的门有多窒息",
+        "onboard_time": 1675354469,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49073,
+        "num": 511806,
+        "word": "立春过后是元宵",
+        "onboard_time": 1675344816,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483028,
+        "num": 483028,
+        "word": "丈夫去世前给前女同事转账100万",
+        "onboard_time": 1675349198,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468019,
+        "num": 468019,
+        "word": "女子承认邻居连生7女1男为造假",
+        "onboard_time": 1675352910,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385126,
+        "num": 385126,
+        "word": "我们抱怨工资低有错吗",
+        "onboard_time": 1675348295,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365009,
+        "num": 365009,
+        "word": "唐嫣孙坚扶摔倒的工作人员",
+        "onboard_time": 1675352610,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361161,
+        "num": 361161,
+        "word": "当广东人看完狂飙",
+        "onboard_time": 1675350695,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340231,
+        "num": 340231,
+        "word": "声生不息宝岛季你最期待谁",
+        "onboard_time": 1675353511,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291244,
+        "num": 291244,
+        "word": "房东曾让张颂文给李宇春投票",
+        "onboard_time": 1675350695,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290563,
+        "num": 290563,
+        "word": "黄瑶扮演者直播间被骂白眼狼",
+        "onboard_time": 1675335513,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269176,
+        "num": 269176,
+        "word": "爱奇艺回应3台设备登录账号被封",
+        "onboard_time": 1675334315,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 256330,
+        "num": 256330,
+        "word": "酷云认证赵丽颖85花收视TOP",
+        "onboard_time": 1675355005,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256055,
+        "num": 256055,
+        "word": "人民日报评胡鑫宇事件",
+        "onboard_time": 1675351774,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255179,
+        "num": 255179,
+        "word": "狂飙小说 陈书婷",
+        "onboard_time": 1675343497,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240238,
+        "num": 240238,
+        "word": "胡鑫宇曾向母亲哭诉不想读书",
+        "onboard_time": 1675323749,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211639,
+        "num": 211639,
+        "word": "得了抑郁症身体会发出信号",
+        "onboard_time": 1675343075,
+        "rank": 16,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 206512,
+        "num": 206512,
+        "word": "网友泰国街头偶遇蔡徐坤",
+        "onboard_time": 1675345837,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195534,
+        "num": 195534,
+        "word": "对存款50万以上的征税合理吗",
+        "onboard_time": 1675341332,
+        "rank": 18,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 175779,
+        "num": 175779,
+        "word": "谁能拒绝这一桶小猫",
+        "onboard_time": 1675357102,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173880,
+        "num": 173880,
+        "word": "老默 我想吃鱼了",
+        "onboard_time": 1675342595,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172920,
+        "num": 172920,
+        "word": "有个通透的妈妈是什么体验",
+        "onboard_time": 1675356442,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165613,
+        "num": 165613,
+        "word": "渐进式延迟退休方案或于2023年公布",
+        "onboard_time": 1675346679,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163953,
+        "num": 163953,
+        "word": "二刷流浪地球2还是满江红",
+        "onboard_time": 1675356383,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159067,
+        "num": 159067,
+        "word": "爱奇艺已下线会员权益转赠功能",
+        "onboard_time": 1675341752,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 157542,
+        "num": 157542,
+        "word": "欧盟将禁止航天员登中国天宫",
+        "onboard_time": 1675338989,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 141843,
+        "num": 141843,
+        "word": "王俊凯方发布严正声明",
+        "onboard_time": 1675335993,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132879,
+        "num": 132879,
+        "word": "安欣再送饺子 高启强再举杯",
+        "onboard_time": 1675256253,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129458,
+        "num": 129458,
+        "word": "王鹤棣点赞男生腹肌视频",
+        "onboard_time": 1675339831,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122327,
+        "num": 122327,
+        "word": "魏晨为什么不笑",
+        "onboard_time": 1675348117,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119998,
+        "num": 119998,
+        "word": "对我而言危险的他",
+        "onboard_time": 1675346316,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108524,
+        "num": 108524,
+        "word": "刘德华逗吴京儿子",
+        "onboard_time": 1675345777,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104290,
+        "num": 104290,
+        "word": "张译 狂飙微博",
+        "onboard_time": 1675311036,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98600,
+        "num": 98600,
+        "word": "辽宁袭击医生嫌疑人被抓获",
+        "onboard_time": 1675346795,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97137,
+        "num": 97137,
+        "word": "高叶原来是少帅张首芳",
+        "onboard_time": 1675352493,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95842,
+        "num": 95842,
+        "word": "BoysPlanet练习生HOT舞台",
+        "onboard_time": 1675347519,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95558,
+        "num": 95558,
+        "word": "狂飙大结局",
+        "onboard_time": 1675249470,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95465,
+        "num": 95465,
+        "word": "男孩膀胱塞入19粒磁珠1年后取出",
+        "onboard_time": 1675341752,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94144,
+        "num": 94144,
+        "word": "李一桐说拍狂飙像进入顶级叔圈",
+        "onboard_time": 1675336292,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91659,
+        "num": 91659,
+        "word": "专家怒批50万以上存款征税",
+        "onboard_time": 1675326811,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 93773,
+        "num": 91602,
+        "word": "李一桐说和张译合作很过瘾",
+        "onboard_time": 1675346978,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91270,
+        "num": 91270,
+        "word": "王一博 苏翊鸣",
+        "onboard_time": 1675329634,
+        "rank": 41,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 90566,
+        "num": 90566,
+        "word": "权顺荣再上酒综",
+        "onboard_time": 1675349257,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88126,
+        "num": 88126,
+        "word": "内娱ending的神",
+        "onboard_time": 1675337314,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83705,
+        "num": 83705,
+        "word": "T1 BP",
+        "onboard_time": 1675343436,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83495,
+        "num": 83495,
+        "word": "红豆遥遥冰的爱还在继续",
+        "onboard_time": 1675346557,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78735,
+        "num": 78735,
+        "word": "王鸥说没有人会相信我",
+        "onboard_time": 1675330113,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77713,
+        "num": 77713,
+        "word": "刘诗诗告黑",
+        "onboard_time": 1675345657,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73177,
+        "num": 73177,
+        "word": "李现祝大家人生如风轻轻松松",
+        "onboard_time": 1675351953,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73049,
+        "num": 73049,
+        "word": "谭卓 建议查查张译",
+        "onboard_time": 1675326872,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#兔年开工第一周总书记作出重要部署#"
+    }
+  }
+}
