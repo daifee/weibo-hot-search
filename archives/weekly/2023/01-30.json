@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675334163055,
+  "endTime": 1675336541177,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -153,6 +153,14 @@
       "onboard_time": 1675169197,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2934099,
+      "num": 2934099,
+      "word": "3台设备同时登爱奇艺账号被封",
+      "onboard_time": 1675332754,
+      "rank": 36,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 2832056,
@@ -776,6 +784,14 @@
       "word": "吉林高三女孩跳桥失踪已87天",
       "onboard_time": 1675049308,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1456354,
+      "num": 1456354,
+      "word": "专家称年轻人工资低可能是能力不够",
+      "onboard_time": 1675333654,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1499,14 +1515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 972302,
-      "num": 972302,
-      "word": "3台设备同时登爱奇艺账号被封",
-      "onboard_time": 1675332754,
-      "rank": 36,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 971771,
       "num": 971771,
       "word": "女子拒绝底薪1000工作被HR怼",
@@ -1736,6 +1744,14 @@
       "word": "安长林 好人",
       "onboard_time": 1675299271,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 860482,
+      "num": 860482,
+      "word": "黄瑶扮演者直播间被骂白眼狼",
+      "onboard_time": 1675335513,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -2131,6 +2147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 718234,
+      "num": 718234,
+      "word": "爱奇艺回应3台设备登录账号被封",
+      "onboard_time": 1675334315,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 716435,
       "num": 716435,
       "word": "孟德海到底是不是保护伞",
@@ -2281,6 +2305,14 @@
       "onboard_time": 1675153485,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 681364,
+      "num": 681364,
+      "word": "张杰IU唱的marryyou",
+      "onboard_time": 1675334555,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 677385,
@@ -2611,6 +2643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 603906,
+      "num": 603906,
+      "word": "陈赫工作室开在张颂文公司楼上",
+      "onboard_time": 1675333414,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 603318,
       "num": 603318,
       "word": "第三卫生间",
@@ -2721,6 +2761,14 @@
       "onboard_time": 1675305646,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 581014,
+      "num": 581014,
+      "word": "00后搞钱方式有多野",
+      "onboard_time": 1675334555,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 580848,
@@ -3129,6 +3177,22 @@
       "onboard_time": 1675084713,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 520618,
+      "num": 520618,
+      "word": "刘亦菲晒杀青九宫格感谢大家",
+      "onboard_time": 1675334434,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 519643,
+      "num": 519643,
+      "word": "王俊凯方发布严正声明",
+      "onboard_time": 1675335993,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 518209,
@@ -3915,14 +3979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 411241,
-      "num": 275018,
-      "word": "陈赫工作室开在张颂文公司楼上",
-      "onboard_time": 1675333414,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 409520,
       "num": 409520,
       "word": "唯五得欣",
@@ -4347,6 +4403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365344,
+      "num": 365344,
+      "word": "王一博电影无名破7亿海报",
+      "onboard_time": 1675335934,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364472,
       "num": 364472,
       "word": "赵露思下班后和助理散步遛狗",
@@ -4657,6 +4721,14 @@
       "onboard_time": 1675058614,
       "rank": 29,
       "category": "其它"
+    },
+    {
+      "raw_hot": 336326,
+      "num": 336326,
+      "word": "苏小玎 今年的京海可真冷啊",
+      "onboard_time": 1675332873,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 334993,
@@ -4987,6 +5059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 309308,
+      "num": 309308,
+      "word": "动物园23天后才找到溺亡小老虎",
+      "onboard_time": 1675335033,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308181,
       "num": 308181,
       "word": "警方回应胡鑫宇事件相关谣言",
@@ -5275,6 +5355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285243,
+      "num": 285243,
+      "word": "时代少年团北京台春晚幕后花絮",
+      "onboard_time": 1675334795,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285127,
       "num": 285127,
       "word": "答非所问的明星采访",
@@ -5353,14 +5441,6 @@
       "onboard_time": 1675136247,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 277147,
-      "num": 277147,
-      "word": "专家称年轻人工资低可能是能力不够",
-      "onboard_time": 1675333654,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276675,
@@ -5635,6 +5715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264168,
+      "num": 264168,
+      "word": "张远录制央视元宵晚会",
+      "onboard_time": 1675336173,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263308,
       "num": 263308,
       "word": "沈月沈阳vlog",
@@ -5856,14 +5944,6 @@
       "word": "檀健次张婧仪电影最新路透",
       "onboard_time": 1675308159,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 247984,
-      "num": 247984,
-      "word": "苏小玎 今年的京海可真冷啊",
-      "onboard_time": 1675332873,
-      "rank": 48,
       "category": "影视"
     },
     {
@@ -6259,6 +6339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224911,
+      "num": 224911,
+      "word": "这猫咪尾巴是拼接的吧",
+      "onboard_time": 1675334012,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224406,
       "num": 224406,
       "word": "主人护食比小猫还可怕",
@@ -6393,6 +6481,14 @@
       "onboard_time": 1675079190,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216242,
+      "num": 216242,
+      "word": "年轻时的安欣和疯驴子",
+      "onboard_time": 1675335873,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 214610,
@@ -6657,6 +6753,14 @@
       "onboard_time": 1675036705,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203414,
+      "num": 203414,
+      "word": "JDG战胜NIP",
+      "onboard_time": 1675335993,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 203355,
@@ -7720,14 +7824,6 @@
       "word": "兔里兔气的柯基",
       "onboard_time": 1675331793,
       "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 170463,
-      "num": 170463,
-      "word": "这猫咪尾巴是拼接的吧",
-      "onboard_time": 1675334012,
-      "rank": 47,
       "category": "幽默"
     },
     {

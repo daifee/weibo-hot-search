@@ -1,0 +1,410 @@
+{
+  "runTime": 1675336541177,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2934099,
+        "num": 2934099,
+        "word": "3台设备同时登爱奇艺账号被封",
+        "onboard_time": 1675332754,
+        "rank": 0,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1456354,
+        "num": 1456354,
+        "word": "专家称年轻人工资低可能是能力不够",
+        "onboard_time": 1675333654,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27278,
+        "num": 1394928,
+        "word": "一起感受中国湿地之美",
+        "onboard_time": 1675309597,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1346644,
+        "num": 1346644,
+        "word": "专家怒批50万以上存款征税",
+        "onboard_time": 1675326811,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1051559,
+        "num": 1051559,
+        "word": "胡鑫宇曾向母亲哭诉不想读书",
+        "onboard_time": 1675323749,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004380,
+        "num": 1004380,
+        "word": "王鸥说没有人会相信我",
+        "onboard_time": 1675330113,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 945931,
+        "num": 945931,
+        "word": "胡鑫宇录音笔内容",
+        "onboard_time": 1675307681,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860482,
+        "num": 860482,
+        "word": "黄瑶扮演者直播间被骂白眼狼",
+        "onboard_time": 1675335513,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 718234,
+        "num": 718234,
+        "word": "爱奇艺回应3台设备登录账号被封",
+        "onboard_time": 1675334315,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 710934,
+        "num": 710934,
+        "word": "谭卓 建议查查张译",
+        "onboard_time": 1675326872,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 694352,
+        "num": 694352,
+        "word": "千斤棺木压手戴10年尾戒保住男子手指",
+        "onboard_time": 1675330173,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681364,
+        "num": 681364,
+        "word": "张杰IU唱的marryyou",
+        "onboard_time": 1675334555,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606491,
+        "num": 606491,
+        "word": "王一博 苏翊鸣",
+        "onboard_time": 1675329634,
+        "rank": 12,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 603906,
+        "num": 603906,
+        "word": "陈赫工作室开在张颂文公司楼上",
+        "onboard_time": 1675333414,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581014,
+        "num": 581014,
+        "word": "00后搞钱方式有多野",
+        "onboard_time": 1675334555,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 578133,
+        "num": 578133,
+        "word": "张译 狂飙微博",
+        "onboard_time": 1675311036,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547002,
+        "num": 547002,
+        "word": "30岁女子买70万平小岛成岛主",
+        "onboard_time": 1675327233,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520618,
+        "num": 520618,
+        "word": "刘亦菲晒杀青九宫格感谢大家",
+        "onboard_time": 1675334434,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 519643,
+        "num": 519643,
+        "word": "王俊凯方发布严正声明",
+        "onboard_time": 1675335993,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445459,
+        "num": 445459,
+        "word": "上百盒布洛芬被扔垃圾桶",
+        "onboard_time": 1675318592,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434809,
+        "num": 434809,
+        "word": "胡鑫宇遗体脚掌与地面平行不实",
+        "onboard_time": 1675313916,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390781,
+        "num": 390781,
+        "word": "张颂文 天tian",
+        "onboard_time": 1675325614,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368192,
+        "num": 368192,
+        "word": "央视采访发现胡鑫宇尸体的粮库员工",
+        "onboard_time": 1675314515,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365344,
+        "num": 365344,
+        "word": "王一博电影无名破7亿海报",
+        "onboard_time": 1675335934,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347989,
+        "num": 347989,
+        "word": "香港将派发50万张免费机票",
+        "onboard_time": 1675329035,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 336326,
+        "num": 336326,
+        "word": "苏小玎 今年的京海可真冷啊",
+        "onboard_time": 1675332873,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321053,
+        "num": 321053,
+        "word": "三小孩放鞭炮将井盖炸碎1死2伤",
+        "onboard_time": 1675325553,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 315484,
+        "num": 315484,
+        "word": "胡鑫宇生前社交软件留言",
+        "onboard_time": 1675315772,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309308,
+        "num": 309308,
+        "word": "动物园23天后才找到溺亡小老虎",
+        "onboard_time": 1675335033,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829074,
+        "num": 308769,
+        "word": "杨幂工作室公章",
+        "onboard_time": 1675329692,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306740,
+        "num": 306740,
+        "word": "张艺兴起诉造型师徐峰立侵权",
+        "onboard_time": 1675317332,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 306725,
+        "num": 306725,
+        "word": "第一个看到狂飙大结局的人",
+        "onboard_time": 1675327954,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303990,
+        "num": 303990,
+        "word": "狂飙",
+        "onboard_time": 1675314393,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295761,
+        "num": 295761,
+        "word": "专家称今年楼市必回暖甚至缺房",
+        "onboard_time": 1675328315,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 286988,
+        "num": 286988,
+        "word": "高叶跟站姐说你们这样我很尴尬",
+        "onboard_time": 1675329273,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285243,
+        "num": 285243,
+        "word": "时代少年团北京台春晚幕后花絮",
+        "onboard_time": 1675334795,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270153,
+        "num": 270153,
+        "word": "张颂文仅关联一家影视公司",
+        "onboard_time": 1675321169,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267869,
+        "num": 267869,
+        "word": "蒋依依新剧人设",
+        "onboard_time": 1675332513,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264168,
+        "num": 264168,
+        "word": "张远录制央视元宵晚会",
+        "onboard_time": 1675336173,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248136,
+        "num": 248136,
+        "word": "动物园通报小老虎意外溺亡",
+        "onboard_time": 1675328974,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231954,
+        "num": 231954,
+        "word": "谢楠表白刘德华吴京说不回家了",
+        "onboard_time": 1675328194,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224911,
+        "num": 224911,
+        "word": "这猫咪尾巴是拼接的吧",
+        "onboard_time": 1675334012,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224072,
+        "num": 224072,
+        "word": "安欣再送饺子 高启强再举杯",
+        "onboard_time": 1675256253,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216242,
+        "num": 216242,
+        "word": "年轻时的安欣和疯驴子",
+        "onboard_time": 1675335873,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203414,
+        "num": 203414,
+        "word": "JDG战胜NIP",
+        "onboard_time": 1675335993,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189473,
+        "num": 189473,
+        "word": "肖战马来西亚wetv最佳男主",
+        "onboard_time": 1675322670,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175559,
+        "num": 175559,
+        "word": "艾伦在认识陈乔恩之前不接受姐弟恋",
+        "onboard_time": 1675319730,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174990,
+        "num": 174990,
+        "word": "沈月沈阳vlog",
+        "onboard_time": 1675331254,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172572,
+        "num": 172572,
+        "word": "苗苗谈恋爱前把郑恺所有采访都看了一遍",
+        "onboard_time": 1675317511,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166478,
+        "num": 166478,
+        "word": "狂飙大结局",
+        "onboard_time": 1675249470,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#兔年开工第一周总书记作出重要部署#"
+    }
+  }
+}
