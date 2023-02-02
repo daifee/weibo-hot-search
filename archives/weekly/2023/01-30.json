@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675365218955,
+  "endTime": 1675366393934,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -9355,6 +9355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 82839,
+      "num": 72093,
+      "word": "男子路边解手意外发现被困37小时老人",
+      "onboard_time": 1675363335,
+      "rank": 14,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 76680,
       "num": 76680,
       "word": "大鹅在曲水亭街快乐游玩",
@@ -9433,14 +9441,6 @@
       "onboard_time": 1675207401,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63336,
-      "num": 63336,
-      "word": "男子路边解手意外发现被困37小时老人",
-      "onboard_time": 1675363335,
-      "rank": 14,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 60974,
@@ -9625,6 +9625,14 @@
       "onboard_time": 1675283951,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 26802,
+      "num": 26802,
+      "word": "大张伟说战有战相跪有跪相",
+      "onboard_time": 1675365912,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 19031,
