@@ -1,6 +1,6 @@
 {
   "startTime": 1675268708656,
-  "endTime": 1675327084392,
+  "endTime": 1675329505296,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -65,6 +65,14 @@
       "onboard_time": 1675299629,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2554161,
+      "num": 2554161,
+      "word": "谭卓 建议查查张译",
+      "onboard_time": 1675326872,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 2431908,
@@ -155,12 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1487733,
+      "num": 1487733,
+      "word": "胡鑫宇曾向母亲哭诉不想读书",
+      "onboard_time": 1675323749,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1483227,
       "num": 1483227,
       "word": "网友囤1000片退烧药全砸手里了",
       "onboard_time": 1675298248,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1401146,
+      "num": 1401146,
+      "word": "专家怒批50万以上存款征税",
+      "onboard_time": 1675326811,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1387265,
@@ -203,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1247597,
-      "num": 1247597,
-      "word": "胡鑫宇曾向母亲哭诉不想读书",
-      "onboard_time": 1675323749,
+      "raw_hot": 1232329,
+      "num": 1232329,
+      "word": "杨幂工作室回应广告被下刊传言",
+      "onboard_time": 1675327835,
       "rank": 6,
-      "category": "社会新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 1199899,
@@ -291,6 +315,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1043805,
+      "num": 1043805,
+      "word": "30岁女子买70万平小岛成岛主",
+      "onboard_time": 1675327233,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1033175,
       "num": 1033175,
       "word": "胡鑫宇有明确厌世表现轻生倾向",
@@ -339,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 913332,
-      "num": 913332,
-      "word": "谭卓 建议查查张译",
-      "onboard_time": 1675326872,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 864086,
       "num": 864086,
       "word": "安长林 好人",
@@ -393,6 +417,14 @@
       "onboard_time": 1675304864,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 804932,
+      "num": 804932,
+      "word": "三小孩放鞭炮将井盖炸碎1死2伤",
+      "onboard_time": 1675325553,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 792235,
@@ -459,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 692600,
+      "num": 692600,
+      "word": "第一次见可以剥皮的西瓜",
+      "onboard_time": 1675325434,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 689192,
       "num": 689192,
       "word": "狂飙",
@@ -515,14 +555,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 585616,
-      "num": 585616,
-      "word": "第一次见可以剥皮的西瓜",
-      "onboard_time": 1675325434,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 582811,
       "num": 582811,
       "word": "金巧巧 关于电影无名聊三句",
@@ -531,20 +563,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 575015,
+      "num": 556139,
+      "word": "取消生育结婚限制有何利弊",
+      "onboard_time": 1675325014,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571087,
       "num": 571087,
       "word": "刘德华也要辅导孩子作业",
       "onboard_time": 1675295483,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 556139,
-      "num": 556139,
-      "word": "取消生育结婚限制有何利弊",
-      "onboard_time": 1675325014,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 554447,
@@ -577,14 +609,6 @@
       "onboard_time": 1675309776,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 520478,
-      "num": 520478,
-      "word": "三小孩放鞭炮将井盖炸碎1死2伤",
-      "onboard_time": 1675325553,
-      "rank": 31,
-      "category": "社会负面"
     },
     {
       "raw_hot": 509509,
@@ -681,6 +705,14 @@
       "onboard_time": 1675317091,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 449659,
+      "num": 449659,
+      "word": "张译商业版图",
+      "onboard_time": 1675328495,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 437542,
@@ -819,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366335,
+      "num": 366335,
+      "word": "第一个看到狂飙大结局的人",
+      "onboard_time": 1675327954,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362524,
       "num": 287286,
       "word": "高晓晨车祸怎么一点事都没有",
@@ -897,6 +937,14 @@
       "onboard_time": 1675301010,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339321,
+      "num": 339321,
+      "word": "专家称今年楼市必回暖甚至缺房",
+      "onboard_time": 1675328315,
+      "rank": 21,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 338800,
@@ -1011,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300696,
+      "num": 300696,
+      "word": "香港将送50万张机票吸引旅客",
+      "onboard_time": 1675326700,
+      "rank": 44,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 297769,
       "num": 233581,
       "word": "赵立冬死刑",
@@ -1033,6 +1089,14 @@
       "onboard_time": 1675258356,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290852,
+      "num": 290852,
+      "word": "谢楠表白刘德华吴京说不回家了",
+      "onboard_time": 1675328194,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 289711,
@@ -1363,12 +1427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193912,
+      "num": 193912,
+      "word": "百年仅6次的立春连元宵",
+      "onboard_time": 1675327174,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192822,
       "num": 192822,
       "word": "用起风了打开狂飙",
       "onboard_time": 1675318949,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192268,
+      "num": 192268,
+      "word": "你有过被插队的经历吗",
+      "onboard_time": 1675329154,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 192228,
@@ -1384,6 +1464,22 @@
       "word": "谢谢狂飙",
       "onboard_time": 1675278193,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188413,
+      "num": 188413,
+      "word": "动物园通报小老虎意外溺亡",
+      "onboard_time": 1675328974,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186706,
+      "num": 186706,
+      "word": "狂飙月考题",
+      "onboard_time": 1675328376,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -1449,6 +1545,14 @@
       "onboard_time": 1675318113,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178126,
+      "num": 178126,
+      "word": "张若昀没躲过密逃也没躲过大侦探",
+      "onboard_time": 1675328256,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 177448,
@@ -1563,12 +1667,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 162455,
-      "num": 162455,
-      "word": "香港将送50万张机票吸引旅客",
-      "onboard_time": 1675326700,
-      "rank": 44,
-      "category": "旅游,社会新闻"
+      "raw_hot": 162084,
+      "num": 162084,
+      "word": "高叶跟站姐说你们这样我很尴尬",
+      "onboard_time": 1675329273,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 160881,
@@ -1577,14 +1681,6 @@
       "onboard_time": 1675322970,
       "rank": 47,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 160826,
-      "num": 160826,
-      "word": "专家怒批50万以上存款征税",
-      "onboard_time": 1675326811,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 158894,
@@ -1641,6 +1737,14 @@
       "onboard_time": 1675292416,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140666,
+      "num": 140666,
+      "word": "香港将派发50万张免费机票",
+      "onboard_time": 1675329035,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 137074,
