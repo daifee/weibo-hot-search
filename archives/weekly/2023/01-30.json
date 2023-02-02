@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675377238863,
+  "endTime": 1675379968747,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -3875,6 +3875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 458203,
+      "num": 458203,
+      "word": "奶奶因帕金森抖腿给女子道歉",
+      "onboard_time": 1675376474,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458089,
       "num": 458089,
       "word": "魏晨为什么不笑",
@@ -4512,6 +4520,14 @@
       "word": "顾客偶遇卖鱼老板研读孙子兵法",
       "onboard_time": 1675144531,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385767,
+      "num": 385767,
+      "word": "女子带老公回娘家半夜被赶出门",
+      "onboard_time": 1675373231,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -5529,6 +5545,14 @@
       "onboard_time": 1675326700,
       "rank": 44,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 299834,
+      "num": 299834,
+      "word": "谁能拒绝这一桶小猫",
+      "onboard_time": 1675357102,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 299249,
@@ -6651,14 +6675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233282,
-      "num": 233282,
-      "word": "谁能拒绝这一桶小猫",
-      "onboard_time": 1675357102,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 233212,
       "num": 233212,
       "word": "流浪地球2引入全程预拍摄",
@@ -7249,6 +7265,14 @@
       "onboard_time": 1675327174,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201792,
+      "num": 201792,
+      "word": "网传TFBOYS十周年演唱会备案",
+      "onboard_time": 1675379178,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 200491,
@@ -8347,6 +8371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170639,
+      "num": 170639,
+      "word": "夫妻回村建40座大棚种草莓销全国",
+      "onboard_time": 1675359676,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170289,
       "num": 170289,
       "word": "中纪委列狂飙里不能踩的纪律红线",
@@ -8369,14 +8401,6 @@
       "onboard_time": 1675062214,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168155,
-      "num": 91945,
-      "word": "女子带老公回娘家半夜被赶出门",
-      "onboard_time": 1675373231,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168132,
@@ -9283,6 +9307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 109852,
+      "num": 109852,
+      "word": "抑郁的孩子为什么会有这么多",
+      "onboard_time": 1675367832,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109334,
       "num": 4109278,
       "word": "一起感受中国湿地之美",
@@ -9307,14 +9339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106494,
-      "num": 106494,
-      "word": "夫妻回村建40座大棚种草莓销全国",
-      "onboard_time": 1675359676,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106074,
       "num": 106074,
       "word": "福建人有多重视拜天公",
@@ -9331,6 +9355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102081,
+      "num": 102081,
+      "word": "不想带娃的狗妈妈",
+      "onboard_time": 1675359557,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96522,
       "num": 96522,
       "word": "诗词大会选手有点东西",
@@ -9345,14 +9377,6 @@
       "onboard_time": 1675100657,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88715,
-      "num": 88715,
-      "word": "抑郁的孩子为什么会有这么多",
-      "onboard_time": 1675367832,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87296,
@@ -9372,11 +9396,19 @@
     },
     {
       "raw_hot": 82839,
-      "num": 72093,
+      "num": 72168,
       "word": "男子路边解手意外发现被困37小时老人",
       "onboard_time": 1675363335,
       "rank": 14,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 78798,
+      "num": 78798,
+      "word": "陆虎爱心版泼水成冰",
+      "onboard_time": 1675379057,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 76680,
@@ -9443,14 +9475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64595,
-      "num": 64595,
-      "word": "不想带娃的狗妈妈",
-      "onboard_time": 1675359557,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 63772,
       "num": 63772,
       "word": "煎饼大爷出租屋创作绝美国画",
@@ -9483,14 +9507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 56903,
-      "num": 56903,
-      "word": "奶奶因帕金森抖腿给女子道歉",
-      "onboard_time": 1675376474,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52513,
       "num": 49096,
       "word": "想象中的毛毛外套和现实中的毛毛外套",
@@ -9515,12 +9531,28 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 46490,
+      "num": 46490,
+      "word": "养一个爱好需要花多少钱",
+      "onboard_time": 1675379717,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 46450,
       "num": 46450,
       "word": "张译rap",
       "onboard_time": 1675187837,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44628,
+      "num": 44628,
+      "word": "流浪地球2",
+      "onboard_time": 1675370592,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 43062,
@@ -9657,14 +9689,6 @@
       "onboard_time": 1675365912,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25258,
-      "num": 25258,
-      "word": "流浪地球2",
-      "onboard_time": 1675370592,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 24270,
