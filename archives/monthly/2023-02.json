@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675341477884,
+  "endTime": 1675342580474,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -1163,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 714187,
+      "num": 687981,
+      "word": "男孩膀胱塞入19粒磁珠1年后取出",
+      "onboard_time": 1675341752,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712969,
       "num": 712969,
       "word": "咒术回战",
@@ -1201,6 +1209,14 @@
       "onboard_time": 1675178376,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 699944,
+      "num": 699944,
+      "word": "欧盟将禁止航天员登中国天宫",
+      "onboard_time": 1675338989,
+      "rank": 14,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 695981,
@@ -1385,14 +1401,6 @@
       "onboard_time": 1675242389,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 619518,
-      "num": 619518,
-      "word": "欧盟将禁止航天员登中国天宫",
-      "onboard_time": 1675338989,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 619026,
@@ -2019,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432019,
+      "num": 432019,
+      "word": "爱奇艺已下线会员权益转赠功能",
+      "onboard_time": 1675341752,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 431923,
       "num": 431923,
       "word": "刘诗诗2月库存小街拍",
@@ -2041,6 +2057,14 @@
       "onboard_time": 1675301430,
       "rank": 30,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 424675,
+      "num": 424675,
+      "word": "林家川的文笔",
+      "onboard_time": 1675340493,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 423998,
@@ -2523,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330423,
+      "num": 330423,
+      "word": "去有风的地方",
+      "onboard_time": 1675341992,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 329366,
       "num": 279777,
       "word": "如果倒退二十年会给高启强饺子吗",
@@ -2537,6 +2569,14 @@
       "onboard_time": 1675295722,
       "rank": 28,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 328112,
+      "num": 328112,
+      "word": "对存款50万以上的征税合理吗",
+      "onboard_time": 1675341332,
+      "rank": 43,
+      "category": "社会议题"
     },
     {
       "raw_hot": 326109,
@@ -2593,6 +2633,14 @@
       "onboard_time": 1675229070,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 320241,
+      "num": 320241,
+      "word": "张颂文与他的经纪人赵玉德",
+      "onboard_time": 1675342052,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 316116,
@@ -3059,6 +3107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252746,
+      "num": 252746,
+      "word": "马兆海鸥",
+      "onboard_time": 1675342475,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250796,
       "num": 250796,
       "word": "王一博无名卡车笑拍摄幕后",
@@ -3347,12 +3403,12 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 214351,
-      "num": 214351,
-      "word": "林家川的文笔",
+      "raw_hot": 217460,
+      "num": 217460,
+      "word": "胡鑫宇事件发布会汇总",
       "onboard_time": 1675340493,
-      "rank": 41,
-      "category": "影视"
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214290,
@@ -3515,14 +3571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198574,
-      "num": 198574,
-      "word": "对存款50万以上的征税合理吗",
-      "onboard_time": 1675341332,
-      "rank": 43,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 198134,
       "num": 198134,
       "word": "这猫咪怎么狗模狗样的",
@@ -3659,6 +3707,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 188685,
+      "num": 188685,
+      "word": "年轻人应该回县城买房吗",
+      "onboard_time": 1675342535,
+      "rank": 48,
+      "category": "社会议题,情感"
+    },
+    {
       "raw_hot": 187723,
       "num": 187723,
       "word": "微博表白计划",
@@ -3729,14 +3785,6 @@
       "onboard_time": 1675235550,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 184713,
-      "num": 184713,
-      "word": "胡鑫宇事件发布会汇总",
-      "onboard_time": 1675340493,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183987,
