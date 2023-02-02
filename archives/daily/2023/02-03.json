@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675355180251,
+  "endTime": 1675356241890,
   "band_list": [
     {
       "raw_hot": 1287236,
@@ -43,20 +43,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 625402,
+      "num": 625402,
+      "word": "唐嫣孙坚扶摔倒的工作人员",
+      "onboard_time": 1675352610,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 598186,
+      "num": 598186,
+      "word": "女子承认邻居连生7女1男为造假",
+      "onboard_time": 1675352910,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539525,
       "num": 539525,
       "word": "声生不息宝岛季你最期待谁",
       "onboard_time": 1675353511,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 533993,
-      "num": 533993,
-      "word": "女子承认邻居连生7女1男为造假",
-      "onboard_time": 1675352910,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 525925,
@@ -83,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495976,
-      "num": 495976,
-      "word": "唐嫣孙坚扶摔倒的工作人员",
-      "onboard_time": 1675352610,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 446274,
       "num": 446274,
       "word": "狂飙小说 陈书婷",
@@ -105,6 +105,14 @@
       "onboard_time": 1675334315,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 418060,
+      "num": 418060,
+      "word": "没有锁的门有多窒息",
+      "onboard_time": 1675354469,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 376523,
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252469,
+      "num": 252469,
+      "word": "酷云认证赵丽颖85花收视TOP",
+      "onboard_time": 1675355005,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227706,
       "num": 227706,
       "word": "对我而言危险的他",
@@ -233,14 +249,6 @@
       "onboard_time": 1675326811,
       "rank": 29,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 193014,
-      "num": 193014,
-      "word": "没有锁的门有多窒息",
-      "onboard_time": 1675354469,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 192488,
@@ -379,12 +387,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 134247,
-      "num": 134247,
-      "word": "酷云认证赵丽颖85花收视TOP",
-      "onboard_time": 1675355005,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 122621,
+      "num": 122621,
+      "word": "王鸥说没有人会相信我",
+      "onboard_time": 1675330113,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 121308,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#兔年开工第一周总书记作出重要部署#"
+    },
+    {
+      "word": "#强信心开新局#"
     }
   ]
 }
