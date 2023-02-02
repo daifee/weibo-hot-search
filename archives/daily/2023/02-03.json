@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675370015555,
+  "endTime": 1675372494255,
   "band_list": [
     {
       "raw_hot": 1287236,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88715,
+      "num": 88715,
+      "word": "抑郁的孩子为什么会有这么多",
+      "onboard_time": 1675367832,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82839,
       "num": 72093,
       "word": "男子路边解手意外发现被困37小时老人",
@@ -457,14 +465,6 @@
       "onboard_time": 1675326872,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 64603,
-      "num": 64603,
-      "word": "抑郁的孩子为什么会有这么多",
-      "onboard_time": 1675367832,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64595,
@@ -504,6 +504,14 @@
       "word": "王宝强说黄渤演的打开生活的正确方式好看",
       "onboard_time": 1675369332,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 15661,
+      "num": 15661,
+      "word": "流浪地球2",
+      "onboard_time": 1675370592,
+      "rank": 45,
       "category": "影视"
     }
   ],

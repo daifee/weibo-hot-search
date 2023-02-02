@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675370015555,
+  "endTime": 1675372494255,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -4883,6 +4883,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 88715,
+      "num": 88715,
+      "word": "抑郁的孩子为什么会有这么多",
+      "onboard_time": 1675367832,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86658,
       "num": 86658,
       "word": "女生过年回家一开门来了十几个相亲",
@@ -4953,14 +4961,6 @@
       "onboard_time": 1675166797,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 64603,
-      "num": 64603,
-      "word": "抑郁的孩子为什么会有这么多",
-      "onboard_time": 1675367832,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64595,
@@ -5177,6 +5177,14 @@
       "onboard_time": 1675190774,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15661,
+      "num": 15661,
+      "word": "流浪地球2",
+      "onboard_time": 1675370592,
+      "rank": 45,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
