@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675372494255,
+  "endTime": 1675373632375,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -5171,20 +5171,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 17281,
+      "num": 17281,
+      "word": "女子带老公回娘家半夜被赶出门",
+      "onboard_time": 1675373231,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16948,
+      "num": 16948,
+      "word": "流浪地球2",
+      "onboard_time": 1675370592,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 16380,
       "num": 16380,
       "word": "五世同堂排排坐接龙喊妈妈",
       "onboard_time": 1675190774,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15661,
-      "num": 15661,
-      "word": "流浪地球2",
-      "onboard_time": 1675370592,
-      "rank": 45,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
