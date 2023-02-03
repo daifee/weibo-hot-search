@@ -1,0 +1,410 @@
+{
+  "runTime": 1675462663927,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 202471,
+        "num": 202471,
+        "word": "中国无人飞艇因不可抗力误入美国领空",
+        "onboard_time": 1675432652,
+        "rank": 0,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 164760,
+        "num": 164760,
+        "word": "胡鑫宇请给心理指导师五分钟",
+        "onboard_time": 1675430250,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17984,
+        "num": 135817,
+        "word": "花好灯好月圆人圆",
+        "onboard_time": 1675429711,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129447,
+        "num": 129447,
+        "word": "为什么感觉工资过万很普遍了",
+        "onboard_time": 1675435172,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103498,
+        "num": 103498,
+        "word": "男子套圈3000元套中2辆小汽车",
+        "onboard_time": 1675437451,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85298,
+        "num": 85298,
+        "word": "王子文微博评论区",
+        "onboard_time": 1675438769,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76077,
+        "num": 76077,
+        "word": "狂飙演员因好友演警察前期不说话",
+        "onboard_time": 1675432893,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71960,
+        "num": 71960,
+        "word": "杭州一商场女店员遭安保无故砍伤",
+        "onboard_time": 1675441167,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 52795,
+        "num": 52795,
+        "word": "美国被曝将用乌两成领土换和平",
+        "onboard_time": 1675450454,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 50401,
+        "num": 50401,
+        "word": "历史学博士后称满江红不是岳飞写的",
+        "onboard_time": 1675429170,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139657,
+        "num": 50219,
+        "word": "中国人在西班牙卖糖葫芦1串30元",
+        "onboard_time": 1675460172,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86063,
+        "num": 49470,
+        "word": "女子独自生娃婆家无人陪同",
+        "onboard_time": 1675456752,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76494,
+        "num": 48619,
+        "word": "3月大宝宝发量惊人撞脸蒙奇奇",
+        "onboard_time": 1675458492,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45890,
+        "num": 45890,
+        "word": "女子回应泰国旅游警察全程接机",
+        "onboard_time": 1675439791,
+        "rank": 13,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 43343,
+        "num": 43343,
+        "word": "狂飙未播片段",
+        "onboard_time": 1675418370,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43068,
+        "num": 43068,
+        "word": "父亲回应6岁儿子做饭致全身烧伤",
+        "onboard_time": 1675437331,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41616,
+        "num": 41616,
+        "word": "客人泡茶放近50根藏红花吓坏主人",
+        "onboard_time": 1675425090,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41004,
+        "num": 41004,
+        "word": "医院免去100元男子50年后还10万",
+        "onboard_time": 1675436671,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40616,
+        "num": 40616,
+        "word": "杨紫腿部受伤",
+        "onboard_time": 1675438169,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39351,
+        "num": 39351,
+        "word": "王一博16岁时和姚晨演过大学情侣",
+        "onboard_time": 1675433612,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60238,
+        "num": 38804,
+        "word": "上海一小区发生命案致3死1伤",
+        "onboard_time": 1675426467,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 37856,
+        "num": 37856,
+        "word": "狂飙同款猪脚面原来那么香",
+        "onboard_time": 1675446079,
+        "rank": 21,
+        "category": "美食,影视"
+      },
+      {
+        "raw_hot": 37663,
+        "num": 37663,
+        "word": "三体",
+        "onboard_time": 1675434274,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37186,
+        "num": 37186,
+        "word": "流浪地球是在哈尔滨拍的吧",
+        "onboard_time": 1675440390,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34934,
+        "num": 34934,
+        "word": "张颂文大学毕业照",
+        "onboard_time": 1675438232,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32499,
+        "num": 32499,
+        "word": "狂飙官方声明",
+        "onboard_time": 1675416092,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32055,
+        "num": 32055,
+        "word": "6岁男童乳牙未掉长新牙变双排牙",
+        "onboard_time": 1675428210,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29692,
+        "num": 29692,
+        "word": "第一次见赛博鱼缸",
+        "onboard_time": 1675443743,
+        "rank": 27,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 29039,
+        "num": 29039,
+        "word": "夫妻沪漂22年捡废品打零工在沪买房",
+        "onboard_time": 1675431394,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 27994,
+        "num": 27994,
+        "word": "熬夜多但工资不高的工作",
+        "onboard_time": 1675427129,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57426,
+        "num": 27769,
+        "word": "胡鑫宇为何成短视频流量密码",
+        "onboard_time": 1675460413,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27113,
+        "num": 27113,
+        "word": "满江红实时票房破37亿",
+        "onboard_time": 1675441108,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26718,
+        "num": 26718,
+        "word": "那些绘画神童后来如何了",
+        "onboard_time": 1675439190,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25954,
+        "num": 25954,
+        "word": "唐嫣听到罗晋名字心率升高",
+        "onboard_time": 1675432652,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25757,
+        "num": 25757,
+        "word": "张颂文狂飙播完后如约回复网友",
+        "onboard_time": 1675430732,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24969,
+        "num": 24969,
+        "word": "吴京收到谢楠1999年写的科幻文章",
+        "onboard_time": 1675428748,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24504,
+        "num": 24504,
+        "word": "历史学者称岳飞长的像岳云鹏",
+        "onboard_time": 1675427729,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 23936,
+        "num": 23936,
+        "word": "真的害怕深海回不了本",
+        "onboard_time": 1675435532,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22157,
+        "num": 22157,
+        "word": "李宇春翻唱阿珍爱上了阿强",
+        "onboard_time": 1675431451,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21731,
+        "num": 21731,
+        "word": "女生寺庙祈福遇crush",
+        "onboard_time": 1675441706,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21704,
+        "num": 21704,
+        "word": "华裔女孩被美国养父母锁地牢奴役十余年",
+        "onboard_time": 1675413509,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20877,
+        "num": 20877,
+        "word": "这小孩长得好像安欣",
+        "onboard_time": 1675439312,
+        "rank": 41,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 19811,
+        "num": 19811,
+        "word": "网友泰国偶遇周震南姚琛",
+        "onboard_time": 1675441588,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19768,
+        "num": 19768,
+        "word": "流浪地球2登顶单日票房榜",
+        "onboard_time": 1675434154,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19467,
+        "num": 19467,
+        "word": "龚俊看词猜东北话意思",
+        "onboard_time": 1675447038,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18930,
+        "num": 18930,
+        "word": "声生不息2长沙录制",
+        "onboard_time": 1675428931,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18290,
+        "num": 18290,
+        "word": "这两只狗好像安欣李响",
+        "onboard_time": 1675424727,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17532,
+        "num": 17532,
+        "word": "张柏芝把杨迪错认成张杰",
+        "onboard_time": 1675435111,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17326,
+        "num": 17326,
+        "word": "媳妇帮婆婆化妆美貌还原儿子惊呆",
+        "onboard_time": 1675436671,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17229,
+        "num": 17229,
+        "word": "田柾国凌晨直播实时观看人数1630万",
+        "onboard_time": 1675432712,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#元宵赏月指南#"
+    }
+  }
+}
