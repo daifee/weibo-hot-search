@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675402422068,
+  "endTime": 1675405418457,
   "band_list": [
     {
       "raw_hot": 3324868,
@@ -51,12 +51,28 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 1359454,
+      "num": 1359454,
+      "word": "李荣浩要说的大事儿是巡演",
+      "onboard_time": 1675401509,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1287236,
       "num": 1287236,
       "word": "专家称年轻人工资低可能是能力不够",
       "onboard_time": 1675333654,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1259476,
+      "num": 1259476,
+      "word": "狂飙拍的还是太保守了",
+      "onboard_time": 1675401871,
+      "rank": 40,
+      "category": "幽默,影视"
     },
     {
       "raw_hot": 1251189,
@@ -73,6 +89,14 @@
       "onboard_time": 1675392689,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1166843,
+      "num": 1166843,
+      "word": "李秀满与公司制作人合约终止",
+      "onboard_time": 1675402589,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1112411,
@@ -97,14 +121,6 @@
       "onboard_time": 1675392147,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1032521,
-      "num": 1032521,
-      "word": "李荣浩要说的大事儿是巡演",
-      "onboard_time": 1675401509,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 941578,
@@ -299,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 616959,
+      "num": 616959,
+      "word": "刘耀文叫王鹤棣棣哥",
+      "onboard_time": 1675403130,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 616739,
       "num": 616739,
       "word": "朱一龙感谢上学四年做了两个选择",
@@ -387,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 495699,
+      "num": 495699,
+      "word": "台历后续",
+      "onboard_time": 1675401631,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 488916,
       "num": 488916,
       "word": "高启盛占卜后流泪的原因",
@@ -435,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434886,
+      "num": 434886,
+      "word": "王一博为邓超新片打call",
+      "onboard_time": 1675403791,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 434425,
       "num": 434425,
       "word": "网传TFBOYS十周年演唱会备案",
@@ -475,14 +515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 412107,
-      "num": 412107,
-      "word": "台历后续",
-      "onboard_time": 1675401631,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 402269,
       "num": 402269,
       "word": "张雪峰称白酒应多一点国际专利",
@@ -497,6 +529,14 @@
       "onboard_time": 1675399295,
       "rank": 23,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 393638,
+      "num": 393638,
+      "word": "蒲熠星大侦探绝杀",
+      "onboard_time": 1675404749,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 376523,
@@ -571,6 +611,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 342976,
+      "num": 342976,
+      "word": "关晓彤被恐龙吓到的反应",
+      "onboard_time": 1675402049,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336292,
       "num": 336292,
       "word": "杨颖相思令男装",
@@ -635,6 +683,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 303012,
+      "num": 303012,
+      "word": "大爷一听就是老杰伦了",
+      "onboard_time": 1675404150,
+      "rank": 25,
+      "category": "幽默,音乐"
+    },
+    {
       "raw_hot": 297510,
       "num": 297510,
       "word": "爱奇艺已下线会员权益转赠功能",
@@ -681,6 +737,14 @@
       "onboard_time": 1675394188,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280256,
+      "num": 280256,
+      "word": "大侦探第一次触发阵营战",
+      "onboard_time": 1675403791,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 278072,
@@ -867,22 +931,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 239671,
-      "num": 239671,
-      "word": "关晓彤被恐龙吓到的反应",
-      "onboard_time": 1675402049,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 234931,
-      "num": 234931,
-      "word": "狂飙拍的还是太保守了",
-      "onboard_time": 1675401871,
-      "rank": 40,
-      "category": "幽默,影视"
-    },
-    {
       "raw_hot": 231150,
       "num": 231150,
       "word": "流浪地球2为何如此受欢迎",
@@ -913,6 +961,14 @@
       "onboard_time": 1675392328,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214872,
+      "num": 214872,
+      "word": "高叶晒陈书婷画像",
+      "onboard_time": 1675405046,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 209579,
@@ -1011,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193111,
+      "num": 193111,
+      "word": "郭帆曾想把角色信息码换成自己的收款码",
+      "onboard_time": 1675404390,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192588,
       "num": 192588,
       "word": "电影断网定档3月3日",
@@ -1035,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189499,
+      "num": 189499,
+      "word": "王栎鑫泼水成冰泼陆虎脸上了",
+      "onboard_time": 1675401031,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188861,
       "num": 188861,
       "word": "张若昀魏晨极限拉扯",
@@ -1057,6 +1129,14 @@
       "onboard_time": 1675398452,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187410,
+      "num": 187410,
+      "word": "狼队全员萌狼自拍",
+      "onboard_time": 1675404868,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 184973,
@@ -1105,6 +1185,14 @@
       "onboard_time": 1675382847,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170406,
+      "num": 170406,
+      "word": "鹿晗晒举杯氛围感随拍",
+      "onboard_time": 1675403011,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 168065,
@@ -1267,6 +1355,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 130092,
+      "num": 179938,
+      "word": "用瓶盖做好看的红灯笼",
+      "onboard_time": 1675405046,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122621,
       "num": 122621,
       "word": "王鸥说没有人会相信我",
@@ -1353,6 +1449,14 @@
       "onboard_time": 1675369332,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 16620,
+      "num": 1268600,
+      "word": "太空视角看中国湿地之美",
+      "onboard_time": 1675405166,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1361,6 +1465,9 @@
     },
     {
       "word": "#强信心开新局#"
+    },
+    {
+      "word": "#强信心加油干#"
     }
   ]
 }
