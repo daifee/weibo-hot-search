@@ -1,0 +1,410 @@
+{
+  "runTime": 1675406297608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2084646,
+        "num": 2084646,
+        "word": "微信一手机号可注册两账号",
+        "onboard_time": 1675399174,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1509984,
+        "num": 1509984,
+        "word": "李荣浩要说的大事儿是巡演",
+        "onboard_time": 1675401509,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 58363,
+        "num": 1364066,
+        "word": "太空视角看中国湿地之美",
+        "onboard_time": 1675405166,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1359195,
+        "num": 1359195,
+        "word": "狂飙拍的还是太保守了",
+        "onboard_time": 1675401871,
+        "rank": 3,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 1016302,
+        "num": 1016302,
+        "word": "李秀满与公司制作人合约终止",
+        "onboard_time": 1675402589,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 961363,
+        "num": 961363,
+        "word": "女孩打车到墓地司机察觉不对报警救回",
+        "onboard_time": 1675388427,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855583,
+        "num": 855583,
+        "word": "很体面但工资不高的工作",
+        "onboard_time": 1675391308,
+        "rank": 6,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 767572,
+        "num": 767572,
+        "word": "在中国月收入1万是个什么样的水平",
+        "onboard_time": 1675385610,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 634310,
+        "num": 634310,
+        "word": "蒲熠星大侦探绝杀",
+        "onboard_time": 1675404749,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593452,
+        "num": 593452,
+        "word": "中国乒乓正式定档2月17日",
+        "onboard_time": 1675395689,
+        "rank": 9,
+        "category": "影视,体育"
+      },
+      {
+        "raw_hot": 502027,
+        "num": 502027,
+        "word": "刘耀文叫王鹤棣棣哥",
+        "onboard_time": 1675403130,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485358,
+        "num": 485358,
+        "word": "妈妈误用八千元一斤茶叶煮茶叶蛋",
+        "onboard_time": 1675387647,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446755,
+        "num": 446755,
+        "word": "台历后续",
+        "onboard_time": 1675401631,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416462,
+        "num": 416462,
+        "word": "大爷一听就是老杰伦了",
+        "onboard_time": 1675404150,
+        "rank": 13,
+        "category": "幽默,音乐"
+      },
+      {
+        "raw_hot": 413515,
+        "num": 413515,
+        "word": "张天爱跳伞在手臂上写阿麦从军",
+        "onboard_time": 1675406008,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405175,
+        "num": 405175,
+        "word": "男子囤7冰柜养死的名贵鱼价值百万",
+        "onboard_time": 1675390585,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 391476,
+        "num": 391476,
+        "word": "SMTOWN新女团将第二季度出道",
+        "onboard_time": 1675398571,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372870,
+        "num": 372870,
+        "word": "王一博为邓超新片打call",
+        "onboard_time": 1675403791,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338782,
+        "num": 338782,
+        "word": "年轻人真实薪资水平到底如何",
+        "onboard_time": 1675396168,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331922,
+        "num": 331922,
+        "word": "离异夫妻过年带娃碰面后决定复婚",
+        "onboard_time": 1675393410,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 326481,
+        "num": 326481,
+        "word": "普京称80年后俄再受德坦克威胁",
+        "onboard_time": 1675399295,
+        "rank": 20,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 321823,
+        "num": 321823,
+        "word": "不是已经上了六天班了吗",
+        "onboard_time": 1675393349,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311129,
+        "num": 311129,
+        "word": "关晓彤被恐龙吓到的反应",
+        "onboard_time": 1675402049,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308320,
+        "num": 308320,
+        "word": "朱一龙感谢上学四年做了两个选择",
+        "onboard_time": 1675401212,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297728,
+        "num": 297728,
+        "word": "于文文唱体面跟自己和解",
+        "onboard_time": 1675406008,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295755,
+        "num": 295755,
+        "word": "躲春",
+        "onboard_time": 1675392147,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290198,
+        "num": 290198,
+        "word": "高叶晒陈书婷画像",
+        "onboard_time": 1675405046,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283858,
+        "num": 283858,
+        "word": "高启盛占卜后流泪的原因",
+        "onboard_time": 1675394309,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278996,
+        "num": 278996,
+        "word": "大侦探第一次触发阵营战",
+        "onboard_time": 1675403791,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272692,
+        "num": 272692,
+        "word": "郭帆曾想把角色信息码换成自己的收款码",
+        "onboard_time": 1675404390,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261852,
+        "num": 261852,
+        "word": "贝克街的亡灵内地定档",
+        "onboard_time": 1675392746,
+        "rank": 30,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 217110,
+        "num": 217110,
+        "word": "妹妹骑车冲下楼梯妈妈问责姐姐",
+        "onboard_time": 1675400015,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213598,
+        "num": 213598,
+        "word": "收入成了年轻人跳槽唯一的衡量",
+        "onboard_time": 1675393707,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210792,
+        "num": 210792,
+        "word": "理发前是大帅哥烫后秒变壮壮妈",
+        "onboard_time": 1675398094,
+        "rank": 33,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 207791,
+        "num": 207791,
+        "word": "高学历夫妻现实版去有风的地方",
+        "onboard_time": 1675399055,
+        "rank": 34,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 201787,
+        "num": 201787,
+        "word": "杨颖相思令男装",
+        "onboard_time": 1675398755,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200076,
+        "num": 200076,
+        "word": "梁朝伟社懒",
+        "onboard_time": 1675405528,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198032,
+        "num": 198032,
+        "word": "直面生育损伤",
+        "onboard_time": 1675405767,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194099,
+        "num": 194099,
+        "word": "山东强盛集团的保安大爷有多硬核",
+        "onboard_time": 1675405829,
+        "rank": 38,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 186792,
+        "num": 186792,
+        "word": "开心麻花发文纪念夏洛特烦恼10周年",
+        "onboard_time": 1675406008,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183194,
+        "num": 183194,
+        "word": "男童溺水无呼吸被大叔坚持救回",
+        "onboard_time": 1675396530,
+        "rank": 40,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 180836,
+        "num": 180836,
+        "word": "张译新剧再演警察",
+        "onboard_time": 1675392689,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174525,
+        "num": 174525,
+        "word": "苏炳添6秒59",
+        "onboard_time": 1675382485,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172221,
+        "num": 172221,
+        "word": "鹿晗晒举杯氛围感随拍",
+        "onboard_time": 1675403011,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167245,
+        "num": 167245,
+        "word": "王栎鑫泼水成冰泼陆虎脸上了",
+        "onboard_time": 1675401031,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165321,
+        "num": 165321,
+        "word": "中科院团队创制出无刺喜头鱼",
+        "onboard_time": 1675395510,
+        "rank": 45,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 161480,
+        "num": 161480,
+        "word": "2023KPL春季赛售票开启",
+        "onboard_time": 1675405465,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159353,
+        "num": 159353,
+        "word": "狼队全员萌狼自拍",
+        "onboard_time": 1675404868,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160607,
+        "num": 157288,
+        "word": "田柾国翻唱NewJeans的ditto",
+        "onboard_time": 1675400491,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147636,
+        "num": 147636,
+        "word": "狂飙的唇语解读",
+        "onboard_time": 1675385791,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#强信心开新局#"
+    }
+  }
+}

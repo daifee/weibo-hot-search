@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675405418457,
+  "endTime": 1675406297608,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -803,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1509984,
+      "num": 1509984,
+      "word": "李荣浩要说的大事儿是巡演",
+      "onboard_time": 1675401509,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1508449,
       "num": 1508449,
       "word": "黄瑶扮演者直播间被骂白眼狼",
@@ -915,12 +923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1359454,
-      "num": 1359454,
-      "word": "李荣浩要说的大事儿是巡演",
-      "onboard_time": 1675401509,
-      "rank": 5,
-      "category": "音乐"
+      "raw_hot": 1359195,
+      "num": 1359195,
+      "word": "狂飙拍的还是太保守了",
+      "onboard_time": 1675401871,
+      "rank": 40,
+      "category": "幽默,影视"
     },
     {
       "raw_hot": 1356300,
@@ -1049,14 +1057,6 @@
       "onboard_time": 1675172560,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1259476,
-      "num": 1259476,
-      "word": "狂飙拍的还是太保守了",
-      "onboard_time": 1675401871,
-      "rank": 40,
-      "category": "幽默,影视"
     },
     {
       "raw_hot": 1255698,
@@ -2947,6 +2947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634310,
+      "num": 634310,
+      "word": "蒲熠星大侦探绝杀",
+      "onboard_time": 1675404749,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 630616,
       "num": 630616,
       "word": "王一博开心可以摸到梁朝伟的脸",
@@ -4635,12 +4643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416462,
+      "num": 416462,
+      "word": "大爷一听就是老杰伦了",
+      "onboard_time": 1675404150,
+      "rank": 25,
+      "category": "幽默,音乐"
+    },
+    {
       "raw_hot": 414476,
       "num": 414476,
       "word": "员工只能请十天事假合理吗",
       "onboard_time": 1675310316,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413515,
+      "num": 413515,
+      "word": "张天爱跳伞在手臂上写阿麦从军",
+      "onboard_time": 1675406008,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 412861,
@@ -4833,14 +4857,6 @@
       "onboard_time": 1675344636,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 393638,
-      "num": 393638,
-      "word": "蒲熠星大侦探绝杀",
-      "onboard_time": 1675404749,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 392958,
@@ -6027,14 +6043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303012,
-      "num": 303012,
-      "word": "大爷一听就是老杰伦了",
-      "onboard_time": 1675404150,
-      "rank": 25,
-      "category": "幽默,音乐"
-    },
-    {
       "raw_hot": 302199,
       "num": 302199,
       "word": "这是在用显微镜看狂飙吧",
@@ -6081,6 +6089,14 @@
       "onboard_time": 1675085254,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297728,
+      "num": 297728,
+      "word": "于文文唱体面跟自己和解",
+      "onboard_time": 1675406008,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 297516,
@@ -6200,6 +6216,14 @@
       "word": "我的眼泪狂飙",
       "onboard_time": 1675258299,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 290198,
+      "num": 290198,
+      "word": "高叶晒陈书婷画像",
+      "onboard_time": 1675405046,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -6529,6 +6553,14 @@
       "onboard_time": 1675223313,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 272692,
+      "num": 272692,
+      "word": "郭帆曾想把角色信息码换成自己的收款码",
+      "onboard_time": 1675404390,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 272476,
@@ -7659,14 +7691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214872,
-      "num": 214872,
-      "word": "高叶晒陈书婷画像",
-      "onboard_time": 1675405046,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 214610,
       "num": 214610,
       "word": "你们尽管想象 我们负责实现",
@@ -8027,6 +8051,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 200076,
+      "num": 200076,
+      "word": "梁朝伟社懒",
+      "onboard_time": 1675405528,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199896,
       "num": 199896,
       "word": "囤药太多怎么办",
@@ -8129,6 +8161,14 @@
       "onboard_time": 1675064436,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198032,
+      "num": 198032,
+      "word": "直面生育损伤",
+      "onboard_time": 1675405767,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 197654,
@@ -8299,6 +8339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194099,
+      "num": 194099,
+      "word": "山东强盛集团的保安大爷有多硬核",
+      "onboard_time": 1675405829,
+      "rank": 38,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 194088,
       "num": 195928,
       "word": "WE战胜TT",
@@ -8345,14 +8393,6 @@
       "onboard_time": 1675350272,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193111,
-      "num": 193111,
-      "word": "郭帆曾想把角色信息码换成自己的收款码",
-      "onboard_time": 1675404390,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 192822,
@@ -8600,6 +8640,14 @@
       "word": "狂飙高叶演过猎罪图鉴",
       "onboard_time": 1675134749,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 186792,
+      "num": 186792,
+      "word": "开心麻花发文纪念夏洛特烦恼10周年",
+      "onboard_time": 1675406008,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -9131,6 +9179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172221,
+      "num": 172221,
+      "word": "鹿晗晒举杯氛围感随拍",
+      "onboard_time": 1675403011,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172086,
       "num": 172086,
       "word": "胡鑫宇失踪案时间线",
@@ -9209,14 +9265,6 @@
       "onboard_time": 1675331793,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 170406,
-      "num": 170406,
-      "word": "鹿晗晒举杯氛围感随拍",
-      "onboard_time": 1675403011,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 170289,
@@ -9424,6 +9472,14 @@
       "word": "LOL手游元气计划",
       "onboard_time": 1675398872,
       "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 161480,
+      "num": 161480,
+      "word": "2023KPL春季赛售票开启",
+      "onboard_time": 1675405465,
+      "rank": 46,
       "category": "游戏"
     },
     {
@@ -10403,6 +10459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 58363,
+      "num": 1364066,
+      "word": "太空视角看中国湿地之美",
+      "onboard_time": 1675405166,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52513,
       "num": 49096,
       "word": "想象中的毛毛外套和现实中的毛毛外套",
@@ -10609,14 +10673,6 @@
       "onboard_time": 1674862819,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 16620,
-      "num": 1268600,
-      "word": "太空视角看中国湿地之美",
-      "onboard_time": 1675405166,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16380,
