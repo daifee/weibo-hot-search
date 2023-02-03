@@ -1,14 +1,22 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675388503579,
+  "endTime": 1675389914315,
   "band_list": [
     {
-      "raw_hot": 3014611,
-      "num": 3014611,
+      "raw_hot": 3324868,
+      "num": 3324868,
       "word": "在中国月收入1万是个什么样的水平",
       "onboard_time": 1675385610,
       "rank": 0,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1714825,
+      "num": 1714825,
+      "word": "妈妈误用八千元一斤茶叶煮茶叶蛋",
+      "onboard_time": 1675387647,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1287236,
@@ -16,6 +24,14 @@
       "word": "专家称年轻人工资低可能是能力不够",
       "onboard_time": 1675333654,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1170923,
+      "num": 594606,
+      "word": "女孩打车到墓地司机察觉不对报警救回",
+      "onboard_time": 1675388427,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -43,8 +59,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 841073,
-      "num": 841073,
+      "raw_hot": 866934,
+      "num": 866934,
       "word": "狂飙的唇语解读",
       "onboard_time": 1675385791,
       "rank": 5,
@@ -99,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 643983,
-      "num": 643983,
-      "word": "妈妈误用八千元一斤茶叶煮茶叶蛋",
-      "onboard_time": 1675387647,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 636083,
       "num": 636083,
       "word": "酒驾遇查夫妻换驾萌娃大喊我爸喝啦",
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564538,
+      "num": 564538,
+      "word": "吴磊赵今麦芬兰拍摄同框路透",
+      "onboard_time": 1675387948,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 560773,
       "num": 560773,
       "word": "没有锁的门有多窒息",
@@ -153,14 +169,6 @@
       "onboard_time": 1675353511,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 529433,
-      "num": 529433,
-      "word": "吴磊赵今麦芬兰拍摄同框路透",
-      "onboard_time": 1675387948,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 525925,
@@ -217,6 +225,14 @@
       "onboard_time": 1675379178,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 425260,
+      "num": 425260,
+      "word": "女生用苍耳做自然小清新胸针",
+      "onboard_time": 1675388607,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421949,
@@ -363,6 +379,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265989,
+      "num": 265989,
+      "word": "王铮亮骗陈楚生有苦是真能忍",
+      "onboard_time": 1675384767,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264929,
+      "num": 264929,
+      "word": "内地与港澳人员往来全面恢复",
+      "onboard_time": 1675389088,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261471,
       "num": 261471,
       "word": "王鹤棣点赞男生腹肌视频",
@@ -411,12 +443,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 236557,
-      "num": 236557,
-      "word": "王铮亮骗陈楚生有苦是真能忍",
-      "onboard_time": 1675384767,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 239732,
+      "num": 239732,
+      "word": "想在敖瑞鹏的嘴里下哑药",
+      "onboard_time": 1675388488,
+      "rank": 43,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 230995,
+      "num": 230995,
+      "word": "商场回应女厕设无遮挡男童便池",
+      "onboard_time": 1675389388,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227706,
@@ -433,6 +473,14 @@
       "onboard_time": 1675380380,
       "rank": 32,
       "category": "社会议题,财经"
+    },
+    {
+      "raw_hot": 209579,
+      "num": 209579,
+      "word": "苹果iPhone业务收入下降8%",
+      "onboard_time": 1675387108,
+      "rank": 47,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 208903,
@@ -523,12 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173491,
-      "num": 173491,
-      "word": "想在敖瑞鹏的嘴里下哑药",
-      "onboard_time": 1675388488,
-      "rank": 43,
-      "category": "艺人,幽默"
+      "raw_hot": 175096,
+      "num": 175096,
+      "word": "没有薯条的码头毫无意义",
+      "onboard_time": 1675389566,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 171607,
@@ -553,6 +601,14 @@
       "onboard_time": 1675356383,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164247,
+      "num": 164247,
+      "word": "活在热爱里的女孩子是怎样的",
+      "onboard_time": 1675389447,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 163899,
@@ -603,28 +659,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 156944,
-      "num": 156944,
-      "word": "苹果iPhone业务收入下降8%",
-      "onboard_time": 1675387108,
-      "rank": 47,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 155976,
       "num": 155976,
       "word": "内娱ending的神",
       "onboard_time": 1675337314,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 154270,
-      "num": 154270,
-      "word": "女孩打车到墓地司机察觉不对报警救回",
-      "onboard_time": 1675388427,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153156,
