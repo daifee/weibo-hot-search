@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675419597107,
+  "endTime": 1675420483496,
   "band_list": [
     {
       "raw_hot": 3324868,
@@ -83,6 +83,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1573200,
+      "num": 1573200,
+      "word": "狂飙未播片段",
+      "onboard_time": 1675418370,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1509984,
       "num": 1509984,
       "word": "李荣浩要说的大事儿是巡演",
@@ -129,14 +137,6 @@
       "onboard_time": 1675333654,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1278460,
-      "num": 1278460,
-      "word": "狂飙未播片段",
-      "onboard_time": 1675418370,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1251189,
@@ -475,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 607962,
+      "num": 607962,
+      "word": "广西一服刑人员在监狱遭犯人殴打致死",
+      "onboard_time": 1675416210,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599131,
       "num": 599131,
       "word": "关晓彤晒环球影城九宫格plog",
@@ -488,14 +496,6 @@
       "word": "女子承认邻居连生7女1男为造假",
       "onboard_time": 1675352910,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572884,
-      "num": 572884,
-      "word": "广西一服刑人员在监狱遭犯人殴打致死",
-      "onboard_time": 1675416210,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -795,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375068,
+      "num": 375068,
+      "word": "发工资时间看公司状态",
+      "onboard_time": 1675419209,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 373846,
       "num": 373846,
       "word": "谁能拒绝这一桶小猫",
@@ -817,6 +825,14 @@
       "onboard_time": 1675343075,
       "rank": 15,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 366811,
+      "num": 366811,
+      "word": "小猫咪的爪子都要抡冒烟了",
+      "onboard_time": 1675417829,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 360672,
@@ -921,14 +937,6 @@
       "onboard_time": 1675413571,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 325993,
-      "num": 325993,
-      "word": "小猫咪的爪子都要抡冒烟了",
-      "onboard_time": 1675417829,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 321764,
@@ -1299,6 +1307,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230730,
+      "num": 230730,
+      "word": "张若昀杨蓉怕不是在演谍战片吧",
+      "onboard_time": 1675415069,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 228793,
+      "num": 228793,
+      "word": "排便从未如此通畅过",
+      "onboard_time": 1675417110,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227706,
       "num": 227706,
       "word": "对我而言危险的他",
@@ -1323,20 +1347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213875,
+      "num": 213875,
+      "word": "江西的狗有多能吃辣",
+      "onboard_time": 1675417230,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 213596,
+      "num": 213596,
+      "word": "江疏影宅家沉浸式化妆vlog",
+      "onboard_time": 1675419810,
+      "rank": 27,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 211408,
       "num": 211408,
       "word": "严浩翔金发毛线帽造型饭拍",
       "onboard_time": 1675411529,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210467,
-      "num": 210467,
-      "word": "江西的狗有多能吃辣",
-      "onboard_time": 1675417230,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 209579,
@@ -1363,28 +1395,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208714,
-      "num": 208714,
-      "word": "张若昀杨蓉怕不是在演谍战片吧",
-      "onboard_time": 1675415069,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 208611,
-      "num": 208611,
-      "word": "排便从未如此通畅过",
-      "onboard_time": 1675417110,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 208123,
       "num": 208123,
       "word": "提前还房贷要排队几个月",
       "onboard_time": 1675390288,
       "rank": 28,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 207932,
+      "num": 207932,
+      "word": "蒋依依新剧开播",
+      "onboard_time": 1675419810,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 205273,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1675346795,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203894,
+      "num": 203894,
+      "word": "王鹤棣时宴高清镜头",
+      "onboard_time": 1675420170,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 202546,
@@ -1483,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193887,
+      "num": 193887,
+      "word": "TTG官宣风君回归",
+      "onboard_time": 1675419450,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193231,
       "num": 193231,
       "word": "如果狂飙有平行世界",
@@ -1563,6 +1603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186574,
+      "num": 186574,
+      "word": "张星特巡演回归",
+      "onboard_time": 1675419751,
+      "rank": 35,
+      "category": "音乐,音乐"
+    },
+    {
       "raw_hot": 184973,
       "num": 184973,
       "word": "抑郁的孩子为什么会有这么多",
@@ -1585,6 +1633,14 @@
       "onboard_time": 1675349257,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176176,
+      "num": 176176,
+      "word": "金多美活动状态",
+      "onboard_time": 1675420170,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 175150,
@@ -1649,14 +1705,6 @@
       "onboard_time": 1675394008,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167936,
-      "num": 167936,
-      "word": "发工资时间看公司状态",
-      "onboard_time": 1675419209,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 166333,
@@ -1867,14 +1915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141686,
-      "num": 141686,
-      "word": "TTG官宣风君回归",
-      "onboard_time": 1675419450,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 140631,
       "num": 140631,
       "word": "3台设备同时登爱奇艺账号被封",
@@ -1931,6 +1971,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 132758,
+      "num": 132758,
+      "word": "一声不吭的猫往往才最倔",
+      "onboard_time": 1675419990,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 130814,
       "num": 130814,
       "word": "实习时工资低还要考虑吗",
@@ -1945,6 +1993,30 @@
       "onboard_time": 1675405046,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129298,
+      "num": 129298,
+      "word": "虞书欣黑色暗花运动服上班路透",
+      "onboard_time": 1675420049,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127788,
+      "num": 127788,
+      "word": "被心疼狗狗的猫咪暖到了",
+      "onboard_time": 1675420351,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 123090,
+      "num": 123090,
+      "word": "茶颜悦色下一站无锡",
+      "onboard_time": 1675420469,
+      "rank": 49,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 122621,
@@ -1988,7 +2060,7 @@
     },
     {
       "raw_hot": 91512,
-      "num": 1432037,
+      "num": 1598185,
       "word": "太空视角看中国湿地之美",
       "onboard_time": 1675405166,
       "rank": 2,

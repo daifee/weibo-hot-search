@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675419597107,
+  "endTime": 1675420483496,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -779,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1573200,
+      "num": 1573200,
+      "word": "狂飙未播片段",
+      "onboard_time": 1675418370,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1560480,
       "num": 1560480,
       "word": "张颂文 天tian",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1675223793,
       "rank": 5,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1278460,
-      "num": 1278460,
-      "word": "狂飙未播片段",
-      "onboard_time": 1675418370,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1275526,
@@ -3227,6 +3227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607962,
+      "num": 607962,
+      "word": "广西一服刑人员在监狱遭犯人殴打致死",
+      "onboard_time": 1675416210,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 607402,
       "num": 607402,
       "word": "第一次见这么帅的鸡",
@@ -3432,14 +3440,6 @@
       "word": "男子误把绿色动车当绿皮车抽烟被拘",
       "onboard_time": 1675027091,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572884,
-      "num": 572884,
-      "word": "广西一服刑人员在监狱遭犯人殴打致死",
-      "onboard_time": 1675416210,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -5323,6 +5323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375068,
+      "num": 375068,
+      "word": "发工资时间看公司状态",
+      "onboard_time": 1675419209,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 374006,
       "num": 374006,
       "word": "胡鑫宇",
@@ -5409,6 +5417,14 @@
       "onboard_time": 1675057655,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 366811,
+      "num": 366811,
+      "word": "小猫咪的爪子都要抡冒烟了",
+      "onboard_time": 1675417829,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 366643,
@@ -5993,14 +6009,6 @@
       "onboard_time": 1675413571,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 325993,
-      "num": 325993,
-      "word": "小猫咪的爪子都要抡冒烟了",
-      "onboard_time": 1675417829,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 325880,
@@ -7755,6 +7763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230730,
+      "num": 230730,
+      "word": "张若昀杨蓉怕不是在演谍战片吧",
+      "onboard_time": 1675415069,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230348,
       "num": 230348,
       "word": "苏新皓二刷了满江红",
@@ -7777,6 +7793,14 @@
       "onboard_time": 1675280892,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228793,
+      "num": 228793,
+      "word": "排便从未如此通畅过",
+      "onboard_time": 1675417110,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 227701,
@@ -8051,6 +8075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213875,
+      "num": 213875,
+      "word": "江西的狗有多能吃辣",
+      "onboard_time": 1675417230,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213797,
       "num": 213797,
       "word": "王嘉尔Lollapalooza音乐节舞台",
@@ -8065,6 +8097,14 @@
       "onboard_time": 1675092334,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 213596,
+      "num": 213596,
+      "word": "江疏影宅家沉浸式化妆vlog",
+      "onboard_time": 1675419810,
+      "rank": 27,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 213229,
@@ -8123,14 +8163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210467,
-      "num": 210467,
-      "word": "江西的狗有多能吃辣",
-      "onboard_time": 1675417230,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 210113,
       "num": 210113,
       "word": "流浪小狐狸投奔看守所1年胖成球",
@@ -8171,22 +8203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208714,
-      "num": 208714,
-      "word": "张若昀杨蓉怕不是在演谍战片吧",
-      "onboard_time": 1675415069,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 208611,
-      "num": 208611,
-      "word": "排便从未如此通畅过",
-      "onboard_time": 1675417110,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 208457,
       "num": 208457,
       "word": "李楷灿MV镜头",
@@ -8216,6 +8232,14 @@
       "word": "春节档电影联合感谢观众",
       "onboard_time": 1675227694,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 207932,
+      "num": 207932,
+      "word": "蒋依依新剧开播",
+      "onboard_time": 1675419810,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -8321,6 +8345,14 @@
       "onboard_time": 1675154023,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 203894,
+      "num": 203894,
+      "word": "王鹤棣时宴高清镜头",
+      "onboard_time": 1675420170,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 203824,
@@ -8731,6 +8763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193887,
+      "num": 193887,
+      "word": "TTG官宣风君回归",
+      "onboard_time": 1675419450,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193677,
       "num": 193677,
       "word": "谭松韵的四篇plog",
@@ -9049,6 +9089,14 @@
       "onboard_time": 1675253912,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186574,
+      "num": 186574,
+      "word": "张星特巡演回归",
+      "onboard_time": 1675419751,
+      "rank": 35,
+      "category": "音乐,音乐"
     },
     {
       "raw_hot": 186200,
@@ -9451,6 +9499,14 @@
       "category": "科技,游戏"
     },
     {
+      "raw_hot": 176176,
+      "num": 176176,
+      "word": "金多美活动状态",
+      "onboard_time": 1675420170,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175150,
       "num": 165874,
       "word": "范丞丞支持电影中国乒乓",
@@ -9713,14 +9769,6 @@
       "onboard_time": 1675130190,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167936,
-      "num": 167936,
-      "word": "发工资时间看公司状态",
-      "onboard_time": 1675419209,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 167608,
@@ -10387,14 +10435,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 141686,
-      "num": 141686,
-      "word": "TTG官宣风君回归",
-      "onboard_time": 1675419450,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 140536,
       "num": 140536,
       "word": "向白云深处跑去",
@@ -10555,6 +10595,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 132758,
+      "num": 132758,
+      "word": "一声不吭的猫往往才最倔",
+      "onboard_time": 1675419990,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 132415,
       "num": 132415,
       "word": "孟钰没有陷害安欣",
@@ -10611,6 +10659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129298,
+      "num": 129298,
+      "word": "虞书欣黑色暗花运动服上班路透",
+      "onboard_time": 1675420049,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 128110,
       "num": 128110,
       "word": "新疆湖面现碎冰拼图奇观",
@@ -10625,6 +10681,14 @@
       "onboard_time": 1675045525,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 127788,
+      "num": 127788,
+      "word": "被心疼狗狗的猫咪暖到了",
+      "onboard_time": 1675420351,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 127780,
@@ -10689,6 +10753,14 @@
       "onboard_time": 1674991470,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123090,
+      "num": 123090,
+      "word": "茶颜悦色下一站无锡",
+      "onboard_time": 1675420469,
+      "rank": 49,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 122142,
@@ -10868,7 +10940,7 @@
     },
     {
       "raw_hot": 91512,
-      "num": 1432037,
+      "num": 1598185,
       "word": "太空视角看中国湿地之美",
       "onboard_time": 1675405166,
       "rank": 2,
