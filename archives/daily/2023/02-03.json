@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675389914315,
+  "endTime": 1675392610327,
   "band_list": [
     {
       "raw_hot": 3324868,
@@ -11,12 +11,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1714825,
-      "num": 1714825,
+      "raw_hot": 1864323,
+      "num": 1864323,
       "word": "妈妈误用八千元一斤茶叶煮茶叶蛋",
       "onboard_time": 1675387647,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1567597,
+      "num": 1567597,
+      "word": "很体面但工资不高的工作",
+      "onboard_time": 1675391308,
+      "rank": 3,
+      "category": "社会议题"
     },
     {
       "raw_hot": 1287236,
@@ -27,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1170923,
-      "num": 594606,
+      "raw_hot": 1251189,
+      "num": 1251189,
       "word": "女孩打车到墓地司机察觉不对报警救回",
       "onboard_time": 1675388427,
       "rank": 48,
@@ -81,6 +89,30 @@
       "onboard_time": 1675382485,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 745552,
+      "num": 745552,
+      "word": "鹿晗晒滑雪比耶照",
+      "onboard_time": 1675390648,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 707787,
+      "num": 707787,
+      "word": "男子囤7冰柜养死的名贵鱼价值百万",
+      "onboard_time": 1675390585,
+      "rank": 8,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 685922,
+      "num": 685922,
+      "word": "女生用苍耳做自然小清新胸针",
+      "onboard_time": 1675388607,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 683508,
@@ -163,6 +195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 558042,
+      "num": 558042,
+      "word": "商场回应女厕设无遮挡男童便池",
+      "onboard_time": 1675389388,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539525,
       "num": 539525,
       "word": "声生不息宝岛季你最期待谁",
@@ -195,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 489938,
+      "num": 489938,
+      "word": "女子西藏旅游私闯关闭景点圣象天门",
+      "onboard_time": 1675390947,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456596,
       "num": 456596,
       "word": "哈登落选NBA全明星",
@@ -219,20 +267,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 440011,
+      "num": 440011,
+      "word": "内地与港澳人员往来全面恢复",
+      "onboard_time": 1675389088,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434425,
       "num": 434425,
       "word": "网传TFBOYS十周年演唱会备案",
       "onboard_time": 1675379178,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 425260,
-      "num": 425260,
-      "word": "女生用苍耳做自然小清新胸针",
-      "onboard_time": 1675388607,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 421949,
@@ -281,6 +329,14 @@
       "onboard_time": 1675384950,
       "rank": 19,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 352044,
+      "num": 352044,
+      "word": "张雪峰称白酒应多一点国际专利",
+      "onboard_time": 1675391006,
+      "rank": 17,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 348912,
@@ -387,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264929,
-      "num": 264929,
-      "word": "内地与港澳人员往来全面恢复",
-      "onboard_time": 1675389088,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261471,
       "num": 261471,
       "word": "王鹤棣点赞男生腹肌视频",
@@ -451,18 +499,18 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 230995,
-      "num": 230995,
-      "word": "商场回应女厕设无遮挡男童便池",
-      "onboard_time": 1675389388,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227706,
       "num": 227706,
       "word": "对我而言危险的他",
       "onboard_time": 1675346316,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 227036,
+      "num": 227036,
+      "word": "流浪地球2为何如此受欢迎",
+      "onboard_time": 1675391547,
       "rank": 25,
       "category": "影视"
     },
@@ -497,6 +545,14 @@
       "onboard_time": 1675335993,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208123,
+      "num": 208123,
+      "word": "提前还房贷要排队几个月",
+      "onboard_time": 1675390288,
+      "rank": 28,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 204356,
@@ -555,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185240,
+      "num": 185240,
+      "word": "活在热爱里的女孩子是怎样的",
+      "onboard_time": 1675389447,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184973,
       "num": 184973,
       "word": "抑郁的孩子为什么会有这么多",
@@ -579,12 +643,52 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174771,
+      "num": 174771,
+      "word": "无安全防护工作人员悬崖帮游客捡手机",
+      "onboard_time": 1675391547,
+      "rank": 35,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 173138,
+      "num": 173138,
+      "word": "湖人vs步行者",
+      "onboard_time": 1675391846,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172412,
+      "num": 172412,
+      "word": "多地开始调控种植牙价格",
+      "onboard_time": 1675392087,
+      "rank": 38,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 171607,
       "num": 171607,
       "word": "常见的8大癌症筛查方法",
       "onboard_time": 1675382847,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170665,
+      "num": 170665,
+      "word": "躲春",
+      "onboard_time": 1675392147,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 165000,
+      "num": 165000,
+      "word": "德云社节目单",
+      "onboard_time": 1675391428,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 164780,
@@ -601,14 +705,6 @@
       "onboard_time": 1675356383,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 164247,
-      "num": 164247,
-      "word": "活在热爱里的女孩子是怎样的",
-      "onboard_time": 1675389447,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 163899,
@@ -667,6 +763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154269,
+      "num": 154269,
+      "word": "梅西接受奥莱报专访",
+      "onboard_time": 1675392268,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153156,
       "num": 153156,
       "word": "BoysPlanet练习生HOT舞台",
@@ -707,6 +811,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 135768,
+      "num": 135768,
+      "word": "嫌疑人亲属曾是遇袭医生的患者",
+      "onboard_time": 1675392328,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122621,
       "num": 122621,
       "word": "王鸥说没有人会相信我",
@@ -740,7 +852,7 @@
     },
     {
       "raw_hot": 110194,
-      "num": 1132828,
+      "num": 1632650,
       "word": "立春过后是元宵",
       "onboard_time": 1675344816,
       "rank": 2,
