@@ -1,0 +1,410 @@
+{
+  "runTime": 1675401456129,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2237213,
+        "num": 2237213,
+        "word": "微信一手机号可注册两账号",
+        "onboard_time": 1675399174,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1671110,
+        "num": 1671110,
+        "word": "很体面但工资不高的工作",
+        "onboard_time": 1675391308,
+        "rank": 1,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 36628,
+        "num": 1524769,
+        "word": "立春过后是元宵",
+        "onboard_time": 1675344816,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2816023,
+        "num": 1522305,
+        "word": "李荣浩 下午说个大事儿",
+        "onboard_time": 1675395689,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1507934,
+        "num": 1507934,
+        "word": "在中国月收入1万是个什么样的水平",
+        "onboard_time": 1675385610,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1097124,
+        "num": 1097124,
+        "word": "妈妈误用八千元一斤茶叶煮茶叶蛋",
+        "onboard_time": 1675387647,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1044657,
+        "num": 1044657,
+        "word": "女孩打车到墓地司机察觉不对报警救回",
+        "onboard_time": 1675388427,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939772,
+        "num": 939772,
+        "word": "贝克街的亡灵内地定档",
+        "onboard_time": 1675392746,
+        "rank": 7,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 873093,
+        "num": 873093,
+        "word": "年轻人真实薪资水平到底如何",
+        "onboard_time": 1675396168,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787130,
+        "num": 787130,
+        "word": "中国乒乓正式定档2月17日",
+        "onboard_time": 1675395689,
+        "rank": 9,
+        "category": "影视,体育"
+      },
+      {
+        "raw_hot": 663119,
+        "num": 663119,
+        "word": "SMTOWN新女团将第二季度出道",
+        "onboard_time": 1675398571,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645881,
+        "num": 645881,
+        "word": "男子囤7冰柜养死的名贵鱼价值百万",
+        "onboard_time": 1675390585,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 577354,
+        "num": 577354,
+        "word": "张颂文演的贾发好可爱",
+        "onboard_time": 1675394850,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 513982,
+        "num": 513982,
+        "word": "躲春",
+        "onboard_time": 1675392147,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 501863,
+        "num": 501863,
+        "word": "不是已经上了六天班了吗",
+        "onboard_time": 1675393349,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 484441,
+        "num": 484441,
+        "word": "高启盛占卜后流泪的原因",
+        "onboard_time": 1675394309,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 482830,
+        "num": 482830,
+        "word": "离异夫妻过年带娃碰面后决定复婚",
+        "onboard_time": 1675393410,
+        "rank": 16,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 428232,
+        "num": 428232,
+        "word": "张译新剧再演警察",
+        "onboard_time": 1675392689,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423684,
+        "num": 423684,
+        "word": "梁朝伟王一博王传君片场聊天",
+        "onboard_time": 1675397130,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421343,
+        "num": 421343,
+        "word": "收入成了年轻人跳槽唯一的衡量",
+        "onboard_time": 1675393707,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413521,
+        "num": 413521,
+        "word": "他是谁",
+        "onboard_time": 1675395510,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411426,
+        "num": 411426,
+        "word": "理发前是大帅哥烫后秒变壮壮妈",
+        "onboard_time": 1675398094,
+        "rank": 21,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 383059,
+        "num": 383059,
+        "word": "关晓彤晒环球影城九宫格plog",
+        "onboard_time": 1675393289,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347985,
+        "num": 347985,
+        "word": "普京称80年后俄再受德坦克威胁",
+        "onboard_time": 1675399295,
+        "rank": 23,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 336292,
+        "num": 336292,
+        "word": "杨颖相思令男装",
+        "onboard_time": 1675398755,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319033,
+        "num": 319033,
+        "word": "宋亚轩黑白挑染造型",
+        "onboard_time": 1675400193,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315328,
+        "num": 315328,
+        "word": "田柾国翻唱NewJeans的ditto",
+        "onboard_time": 1675400491,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 313427,
+        "num": 313427,
+        "word": "中科院团队创制出无刺喜头鱼",
+        "onboard_time": 1675395510,
+        "rank": 27,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 311894,
+        "num": 311894,
+        "word": "苏炳添6秒59",
+        "onboard_time": 1675382485,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308141,
+        "num": 308141,
+        "word": "朱一龙感谢上学四年做了两个选择",
+        "onboard_time": 1675401212,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302652,
+        "num": 302652,
+        "word": "高学历夫妻现实版去有风的地方",
+        "onboard_time": 1675399055,
+        "rank": 30,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 296172,
+        "num": 296172,
+        "word": "建议专家别再建议了",
+        "onboard_time": 1675399773,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290630,
+        "num": 290630,
+        "word": "黄渤 喜剧",
+        "onboard_time": 1675397008,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290203,
+        "num": 290203,
+        "word": "大侦探",
+        "onboard_time": 1675401091,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286892,
+        "num": 286892,
+        "word": "当你遇到了便秘的小猫",
+        "onboard_time": 1675400253,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 276425,
+        "num": 276425,
+        "word": "时代少年团乌托邦少年实体专辑预告",
+        "onboard_time": 1675398571,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276279,
+        "num": 276279,
+        "word": "李冰冰说用精神吃饭",
+        "onboard_time": 1675400434,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276018,
+        "num": 276018,
+        "word": "男童溺水无呼吸被大叔坚持救回",
+        "onboard_time": 1675396530,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 274234,
+        "num": 274234,
+        "word": "狂飙的唇语解读",
+        "onboard_time": 1675385791,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268421,
+        "num": 268421,
+        "word": "邓超说我们的努力不会停止",
+        "onboard_time": 1675400852,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247056,
+        "num": 247056,
+        "word": "妹妹骑车冲下楼梯妈妈问责姐姐",
+        "onboard_time": 1675400015,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235893,
+        "num": 235893,
+        "word": "不及时阻止猫咪的后果",
+        "onboard_time": 1675396230,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 235556,
+        "num": 235556,
+        "word": "女子西藏旅游私闯关闭景点圣象天门",
+        "onboard_time": 1675390947,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225525,
+        "num": 225525,
+        "word": "鹿晗晒滑雪比耶照",
+        "onboard_time": 1675390648,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220716,
+        "num": 220716,
+        "word": "大妈被邻家小孩放烟花炸伤致左眼失明",
+        "onboard_time": 1675395388,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187723,
+        "num": 187723,
+        "word": "张译内娱劳模",
+        "onboard_time": 1675396408,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184503,
+        "num": 184503,
+        "word": "年轻人为什么不爱听专家建议",
+        "onboard_time": 1675386570,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 181461,
+        "num": 181461,
+        "word": "张译大型返祖现场",
+        "onboard_time": 1675396711,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158751,
+        "num": 158751,
+        "word": "张若昀新剧原声台词",
+        "onboard_time": 1675396590,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145949,
+        "num": 145949,
+        "word": "ITZY模仿朴振英跳舞",
+        "onboard_time": 1675397611,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#兔年开工第一周总书记作出重要部署#"
+    }
+  }
+}
