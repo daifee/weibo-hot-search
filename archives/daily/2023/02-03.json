@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675420483496,
+  "endTime": 1675422984402,
   "band_list": [
     {
       "raw_hot": 3324868,
@@ -499,6 +499,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584958,
+      "num": 584958,
+      "word": "朴叙俊崔宇植金泰亨合体路透",
+      "onboard_time": 1675421847,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 580591,
+      "num": 580591,
+      "word": "发工资时间看公司状态",
+      "onboard_time": 1675419209,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 564538,
       "num": 564538,
       "word": "吴磊赵今麦芬兰拍摄同框路透",
@@ -667,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435963,
+      "num": 435963,
+      "word": "澳门将发放12万张免费机票",
+      "onboard_time": 1675421428,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 434886,
       "num": 434886,
       "word": "王一博为邓超新片打call",
@@ -747,6 +771,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 401376,
+      "num": 401376,
+      "word": "小猫咪的爪子都要抡冒烟了",
+      "onboard_time": 1675417829,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 396366,
       "num": 396366,
       "word": "普京称80年后俄再受德坦克威胁",
@@ -795,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375068,
-      "num": 375068,
-      "word": "发工资时间看公司状态",
-      "onboard_time": 1675419209,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 373846,
       "num": 373846,
       "word": "谁能拒绝这一桶小猫",
@@ -819,20 +843,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 370278,
+      "num": 370278,
+      "word": "茶颜悦色下一站无锡",
+      "onboard_time": 1675420469,
+      "rank": 49,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 368351,
       "num": 368351,
       "word": "得了抑郁症身体会发出信号",
       "onboard_time": 1675343075,
       "rank": 15,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 366811,
-      "num": 366811,
-      "word": "小猫咪的爪子都要抡冒烟了",
-      "onboard_time": 1675417829,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 360672,
@@ -905,6 +929,14 @@
       "onboard_time": 1675402049,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340247,
+      "num": 340247,
+      "word": "王鹤棣时宴高清镜头",
+      "onboard_time": 1675420170,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 336292,
@@ -987,6 +1019,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 306299,
+      "num": 306299,
+      "word": "网友称13岁女儿被同学诱导卖淫",
+      "onboard_time": 1675422450,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305794,
       "num": 305794,
       "word": "郭帆曾想把角色信息码换成自己的收款码",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1675352493,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295741,
+      "num": 295741,
+      "word": "RNG官宣续约Ming",
+      "onboard_time": 1675422630,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 294683,
@@ -1187,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265680,
+      "num": 265680,
+      "word": "蒋依依新剧开播",
+      "onboard_time": 1675419810,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265107,
       "num": 265107,
       "word": "张若昀新剧原声台词",
@@ -1257,6 +1313,14 @@
       "onboard_time": 1675406307,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244578,
+      "num": 244578,
+      "word": "薛之谦线上演唱会",
+      "onboard_time": 1675421669,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 242053,
@@ -1331,6 +1395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224115,
+      "num": 224115,
+      "word": "江西的狗有多能吃辣",
+      "onboard_time": 1675417230,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216497,
       "num": 216497,
       "word": "如何应对渐进式延迟退休",
@@ -1345,14 +1417,6 @@
       "onboard_time": 1675392328,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213875,
-      "num": 213875,
-      "word": "江西的狗有多能吃辣",
-      "onboard_time": 1675417230,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 213596,
@@ -1379,6 +1443,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 208953,
+      "num": 208953,
+      "word": "我老了也要这么高兴",
+      "onboard_time": 1675419751,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 208903,
       "num": 208903,
       "word": "安欣再送饺子 高启强再举杯",
@@ -1403,14 +1475,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 207932,
-      "num": 207932,
-      "word": "蒋依依新剧开播",
-      "onboard_time": 1675419810,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 205273,
       "num": 205273,
       "word": "吴京给邓超新电影打call",
@@ -1425,14 +1489,6 @@
       "onboard_time": 1675346795,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203894,
-      "num": 203894,
-      "word": "王鹤棣时宴高清镜头",
-      "onboard_time": 1675420170,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 202546,
@@ -1456,6 +1512,14 @@
       "word": "檀健次张婧仪同框路透",
       "onboard_time": 1675385369,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 200852,
+      "num": 200852,
+      "word": "周鸿祎感谢三体剧组",
+      "onboard_time": 1675421009,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1545,6 +1609,14 @@
       "onboard_time": 1675341752,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191622,
+      "num": 191622,
+      "word": "赵露思九宫格营业照",
+      "onboard_time": 1675420648,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 190640,
@@ -1689,6 +1761,14 @@
       "onboard_time": 1675382847,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171244,
+      "num": 171244,
+      "word": "鞠婧祎新歌花MV预告",
+      "onboard_time": 1675421009,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 170098,
@@ -2009,14 +2089,6 @@
       "onboard_time": 1675420351,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 123090,
-      "num": 123090,
-      "word": "茶颜悦色下一站无锡",
-      "onboard_time": 1675420469,
-      "rank": 49,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 122621,
