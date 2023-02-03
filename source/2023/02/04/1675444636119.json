@@ -1,0 +1,410 @@
+{
+  "runTime": 1675444636119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1007410,
+        "num": 1007410,
+        "word": "胡鑫宇请给心理指导师五分钟",
+        "onboard_time": 1675430250,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667529,
+        "num": 667529,
+        "word": "王子文微博评论区",
+        "onboard_time": 1675438769,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45524,
+        "num": 613929,
+        "word": "花好灯好月圆人圆",
+        "onboard_time": 1675429711,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560447,
+        "num": 560447,
+        "word": "为什么感觉工资过万很普遍了",
+        "onboard_time": 1675435172,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 557816,
+        "num": 557816,
+        "word": "杭州一商场女店员遭安保无故砍伤",
+        "onboard_time": 1675441167,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 530817,
+        "num": 530817,
+        "word": "中国无人飞艇因不可抗力误入美国领空",
+        "onboard_time": 1675432652,
+        "rank": 5,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 470581,
+        "num": 470581,
+        "word": "杨紫腿部受伤",
+        "onboard_time": 1675438169,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452488,
+        "num": 452488,
+        "word": "男子套圈3000元套中2辆小汽车",
+        "onboard_time": 1675437451,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422398,
+        "num": 422398,
+        "word": "满江红实时票房破37亿",
+        "onboard_time": 1675441108,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383645,
+        "num": 383645,
+        "word": "网友泰国偶遇周震南姚琛",
+        "onboard_time": 1675441588,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335658,
+        "num": 335658,
+        "word": "狂飙未播片段",
+        "onboard_time": 1675418370,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314432,
+        "num": 314432,
+        "word": "女生寺庙祈福遇crush",
+        "onboard_time": 1675441706,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296805,
+        "num": 296805,
+        "word": "历史学博士后称满江红不是岳飞写的",
+        "onboard_time": 1675429170,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293924,
+        "num": 293924,
+        "word": "真的害怕深海回不了本",
+        "onboard_time": 1675435532,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258183,
+        "num": 258183,
+        "word": "狂飙官方声明",
+        "onboard_time": 1675416092,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251402,
+        "num": 251402,
+        "word": "狂飙演员因好友演警察前期不说话",
+        "onboard_time": 1675432893,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246488,
+        "num": 246488,
+        "word": "张颂文大学毕业照",
+        "onboard_time": 1675438232,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242409,
+        "num": 242409,
+        "word": "唐嫣听到罗晋名字心率升高",
+        "onboard_time": 1675432652,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230632,
+        "num": 230632,
+        "word": "流浪地球是在哈尔滨拍的吧",
+        "onboard_time": 1675440390,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206105,
+        "num": 206105,
+        "word": "父亲回应6岁儿子做饭致全身烧伤",
+        "onboard_time": 1675437331,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427325,
+        "num": 200723,
+        "word": "上海一小区发生命案致3死1伤",
+        "onboard_time": 1675426467,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 195072,
+        "num": 195072,
+        "word": "王一博16岁时和姚晨演过大学情侣",
+        "onboard_time": 1675433612,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188585,
+        "num": 188585,
+        "word": "客人泡茶放近50根藏红花吓坏主人",
+        "onboard_time": 1675425090,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175280,
+        "num": 175280,
+        "word": "女子回应泰国旅游警察全程接机",
+        "onboard_time": 1675439791,
+        "rank": 23,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 168053,
+        "num": 168053,
+        "word": "医院免去100元男子50年后还10万",
+        "onboard_time": 1675436671,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155870,
+        "num": 155870,
+        "word": "吴京收到谢楠1999年写的科幻文章",
+        "onboard_time": 1675428748,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154052,
+        "num": 154052,
+        "word": "这小孩长得好像安欣",
+        "onboard_time": 1675439312,
+        "rank": 26,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 152939,
+        "num": 152939,
+        "word": "张颂文狂飙播完后如约回复网友",
+        "onboard_time": 1675430732,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150665,
+        "num": 150665,
+        "word": "易烊千玺满江红拍摄现场",
+        "onboard_time": 1675436732,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144435,
+        "num": 144435,
+        "word": "李宇春翻唱阿珍爱上了阿强",
+        "onboard_time": 1675431451,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139539,
+        "num": 139539,
+        "word": "媳妇帮婆婆化妆美貌还原儿子惊呆",
+        "onboard_time": 1675436671,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130516,
+        "num": 130516,
+        "word": "6岁男童乳牙未掉长新牙变双排牙",
+        "onboard_time": 1675428210,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127546,
+        "num": 127546,
+        "word": "张柏芝把杨迪错认成张杰",
+        "onboard_time": 1675435111,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125697,
+        "num": 125697,
+        "word": "流浪地球2登顶单日票房榜",
+        "onboard_time": 1675434154,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123675,
+        "num": 123675,
+        "word": "熬夜多但工资不高的工作",
+        "onboard_time": 1675427129,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120383,
+        "num": 120383,
+        "word": "历史学者称岳飞长的像岳云鹏",
+        "onboard_time": 1675427729,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 118338,
+        "num": 118338,
+        "word": "梁龙把达拉崩吧又玩活了",
+        "onboard_time": 1675438351,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114126,
+        "num": 114126,
+        "word": "三体",
+        "onboard_time": 1675434274,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111222,
+        "num": 111222,
+        "word": "田柾国凌晨直播实时观看人数1630万",
+        "onboard_time": 1675432712,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100167,
+        "num": 100167,
+        "word": "声生不息2长沙录制",
+        "onboard_time": 1675428931,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98294,
+        "num": 98294,
+        "word": "被吴彦姝阿奶的话治愈了",
+        "onboard_time": 1675443383,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96476,
+        "num": 96476,
+        "word": "那些绘画神童后来如何了",
+        "onboard_time": 1675439190,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94713,
+        "num": 94713,
+        "word": "于和伟李小冉晒火鸡自画像",
+        "onboard_time": 1675440029,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93255,
+        "num": 93255,
+        "word": "第一次见赛博鱼缸",
+        "onboard_time": 1675443743,
+        "rank": 43,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 92859,
+        "num": 92859,
+        "word": "这两只狗好像安欣李响",
+        "onboard_time": 1675424727,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92501,
+        "num": 92501,
+        "word": "姚琛Straykids后台合照",
+        "onboard_time": 1675430431,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85737,
+        "num": 85737,
+        "word": "华裔女孩被美国养父母锁地牢奴役十余年",
+        "onboard_time": 1675413509,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85367,
+        "num": 85367,
+        "word": "许凯上错高铁了",
+        "onboard_time": 1675429771,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78587,
+        "num": 78587,
+        "word": "范丞丞叫张大大起床",
+        "onboard_time": 1675440750,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73422,
+        "num": 73422,
+        "word": "夫妻沪漂22年捡废品打零工在沪买房",
+        "onboard_time": 1675431394,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#强信心加油干#"
+    }
+  }
+}

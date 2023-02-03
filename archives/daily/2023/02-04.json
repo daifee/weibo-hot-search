@@ -1,6 +1,6 @@
 {
   "startTime": 1675441538677,
-  "endTime": 1675442593868,
+  "endTime": 1675444636119,
   "band_list": [
     {
       "raw_hot": 1677701,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 557816,
+      "num": 557816,
+      "word": "杭州一商场女店员遭安保无故砍伤",
+      "onboard_time": 1675441167,
+      "rank": 39,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 541416,
       "num": 541416,
       "word": "狂飙未播片段",
@@ -97,6 +105,14 @@
       "onboard_time": 1675436671,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422398,
+      "num": 422398,
+      "word": "满江红实时票房破37亿",
+      "onboard_time": 1675441108,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 421347,
@@ -171,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314432,
+      "num": 314432,
+      "word": "女生寺庙祈福遇crush",
+      "onboard_time": 1675441706,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313185,
       "num": 313185,
       "word": "历史学博士后称满江红不是岳飞写的",
@@ -187,28 +211,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 295296,
-      "num": 295296,
-      "word": "杭州一商场女店员遭安保无故砍伤",
-      "onboard_time": 1675441167,
-      "rank": 39,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 280172,
       "num": 280172,
       "word": "客人泡茶放近50根藏红花吓坏主人",
       "onboard_time": 1675425090,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280120,
-      "num": 280120,
-      "word": "满江红实时票房破37亿",
-      "onboard_time": 1675441108,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 278233,
@@ -371,14 +379,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 123246,
-      "num": 123246,
-      "word": "女生寺庙祈福遇crush",
-      "onboard_time": 1675441706,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109341,
       "num": 109341,
       "word": "林孝埈500米小组第一晋级",
@@ -411,12 +411,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98294,
+      "num": 98294,
+      "word": "被吴彦姝阿奶的话治愈了",
+      "onboard_time": 1675443383,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96278,
       "num": 96278,
       "word": "马特",
       "onboard_time": 1675434633,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93255,
+      "num": 93255,
+      "word": "第一次见赛博鱼缸",
+      "onboard_time": 1675443743,
+      "rank": 43,
+      "category": "科技,幽默"
+    },
+    {
+      "raw_hot": 92859,
+      "num": 92859,
+      "word": "这两只狗好像安欣李响",
+      "onboard_time": 1675424727,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 56566,
