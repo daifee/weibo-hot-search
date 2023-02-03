@@ -1,0 +1,410 @@
+{
+  "runTime": 1675388503579,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3014611,
+        "num": 3014611,
+        "word": "在中国月收入1万是个什么样的水平",
+        "onboard_time": 1675385610,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1219275,
+        "num": 1219275,
+        "word": "专家称年轻人工资低可能是能力不够",
+        "onboard_time": 1675333654,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110194,
+        "num": 1132828,
+        "word": "立春过后是元宵",
+        "onboard_time": 1675344816,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1112411,
+        "num": 1112411,
+        "word": "年轻人为什么不爱听专家建议",
+        "onboard_time": 1675386570,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 941578,
+        "num": 941578,
+        "word": "我们抱怨工资低有错吗",
+        "onboard_time": 1675348295,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 841073,
+        "num": 841073,
+        "word": "狂飙的唇语解读",
+        "onboard_time": 1675385791,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 824243,
+        "num": 824243,
+        "word": "女孩花4万在鹤岗买房后卖煎饼挣钱",
+        "onboard_time": 1675381523,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754944,
+        "num": 754944,
+        "word": "苏炳添6秒59",
+        "onboard_time": 1675382485,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 661555,
+        "num": 661555,
+        "word": "江苏省考",
+        "onboard_time": 1675385906,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 659092,
+        "num": 659092,
+        "word": "渐进式延迟退休方案或于2023年公布",
+        "onboard_time": 1675346679,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643983,
+        "num": 643983,
+        "word": "妈妈误用八千元一斤茶叶煮茶叶蛋",
+        "onboard_time": 1675387647,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636083,
+        "num": 636083,
+        "word": "酒驾遇查夫妻换驾萌娃大喊我爸喝啦",
+        "onboard_time": 1675386447,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553911,
+        "num": 553911,
+        "word": "奶奶因帕金森抖腿给女子道歉",
+        "onboard_time": 1675376474,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529433,
+        "num": 529433,
+        "word": "吴磊赵今麦芬兰拍摄同框路透",
+        "onboard_time": 1675387948,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 456596,
+        "num": 456596,
+        "word": "哈登落选NBA全明星",
+        "onboard_time": 1675384649,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434425,
+        "num": 434425,
+        "word": "网传TFBOYS十周年演唱会备案",
+        "onboard_time": 1675379178,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 418705,
+        "num": 418705,
+        "word": "这就是鼠鼠我本人呀",
+        "onboard_time": 1675382847,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373873,
+        "num": 373873,
+        "word": "人民日报评胡鑫宇事件",
+        "onboard_time": 1675351774,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368684,
+        "num": 368684,
+        "word": "女子承认邻居连生7女1男为造假",
+        "onboard_time": 1675352910,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357524,
+        "num": 357524,
+        "word": "原来生日可以领这么多福利",
+        "onboard_time": 1675384950,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 348912,
+        "num": 348912,
+        "word": "11岁男孩独乘列车2天跨省返校",
+        "onboard_time": 1675380380,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 321764,
+        "num": 321764,
+        "word": "陈楚生曾以为海南岛在鲸鱼背上",
+        "onboard_time": 1675385008,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292451,
+        "num": 292451,
+        "word": "李一桐说和张译合作很过瘾",
+        "onboard_time": 1675346978,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285060,
+        "num": 285060,
+        "word": "谁能拒绝这一桶小猫",
+        "onboard_time": 1675357102,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284994,
+        "num": 284994,
+        "word": "以性别为由拒聘妇女最高可罚5万",
+        "onboard_time": 1675384409,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283025,
+        "num": 283025,
+        "word": "丈夫去世前给前女同事转账100万",
+        "onboard_time": 1675349198,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278072,
+        "num": 278072,
+        "word": "张颂文与他的经纪人赵玉德",
+        "onboard_time": 1675342052,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273460,
+        "num": 273460,
+        "word": "2023NBA全明星替补名单",
+        "onboard_time": 1675386987,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270823,
+        "num": 270823,
+        "word": "狂飙小说 陈书婷",
+        "onboard_time": 1675343497,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259183,
+        "num": 259183,
+        "word": "男子路边解手意外发现被困37小时老人",
+        "onboard_time": 1675363335,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 257782,
+        "num": 257782,
+        "word": "苏炳添又夺冠了",
+        "onboard_time": 1675382966,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255017,
+        "num": 255017,
+        "word": "唐嫣孙坚扶摔倒的工作人员",
+        "onboard_time": 1675352610,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236557,
+        "num": 236557,
+        "word": "王铮亮骗陈楚生有苦是真能忍",
+        "onboard_time": 1675384767,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233836,
+        "num": 233836,
+        "word": "得了抑郁症身体会发出信号",
+        "onboard_time": 1675343075,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 221597,
+        "num": 221597,
+        "word": "胡鑫宇曾向母亲哭诉不想读书",
+        "onboard_time": 1675323749,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216497,
+        "num": 216497,
+        "word": "如何应对渐进式延迟退休",
+        "onboard_time": 1675380380,
+        "rank": 35,
+        "category": "社会议题,财经"
+      },
+      {
+        "raw_hot": 201118,
+        "num": 201118,
+        "word": "檀健次张婧仪同框路透",
+        "onboard_time": 1675385369,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196871,
+        "num": 196871,
+        "word": "刘德华逗吴京儿子",
+        "onboard_time": 1675345777,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189095,
+        "num": 189095,
+        "word": "女子带老公回娘家半夜被赶出门",
+        "onboard_time": 1675373231,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184973,
+        "num": 184973,
+        "word": "抑郁的孩子为什么会有这么多",
+        "onboard_time": 1675367832,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182908,
+        "num": 182908,
+        "word": "房东曾让张颂文给李宇春投票",
+        "onboard_time": 1675350695,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182394,
+        "num": 182394,
+        "word": "夫妻回村建40座大棚种草莓销全国",
+        "onboard_time": 1675359676,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179977,
+        "num": 179977,
+        "word": "网友泰国街头偶遇蔡徐坤",
+        "onboard_time": 1675345837,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173491,
+        "num": 173491,
+        "word": "想在敖瑞鹏的嘴里下哑药",
+        "onboard_time": 1675388488,
+        "rank": 43,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 171607,
+        "num": 171607,
+        "word": "常见的8大癌症筛查方法",
+        "onboard_time": 1675382847,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163899,
+        "num": 163899,
+        "word": "TWICE将3月10日回归",
+        "onboard_time": 1675383088,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163331,
+        "num": 163331,
+        "word": "声生不息宝岛季你最期待谁",
+        "onboard_time": 1675353511,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156944,
+        "num": 156944,
+        "word": "苹果iPhone业务收入下降8%",
+        "onboard_time": 1675387108,
+        "rank": 47,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 154270,
+        "num": 154270,
+        "word": "女孩打车到墓地司机察觉不对报警救回",
+        "onboard_time": 1675388427,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151034,
+        "num": 151034,
+        "word": "辽宁袭击医生嫌疑人被抓获",
+        "onboard_time": 1675346795,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#强信心开新局#"
+    }
+  }
+}
