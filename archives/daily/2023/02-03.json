@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675415914736,
+  "endTime": 1675416810566,
   "band_list": [
     {
       "raw_hot": 3324868,
@@ -35,6 +35,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1892626,
+      "num": 1892626,
+      "word": "华裔女孩被美国养父母锁地牢奴役十余年",
+      "onboard_time": 1675413509,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1864323,
       "num": 1864323,
       "word": "妈妈误用八千元一斤茶叶煮茶叶蛋",
@@ -59,14 +67,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1627777,
-      "num": 1627777,
-      "word": "华裔女孩被美国养父母锁地牢奴役十余年",
-      "onboard_time": 1675413509,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1509984,
       "num": 1509984,
       "word": "李荣浩要说的大事儿是巡演",
@@ -81,6 +81,14 @@
       "onboard_time": 1675392746,
       "rank": 18,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 1375555,
+      "num": 1375555,
+      "word": "唐嫣方发声明",
+      "onboard_time": 1675413926,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1359195,
@@ -113,14 +121,6 @@
       "onboard_time": 1675388427,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1208073,
-      "num": 1208073,
-      "word": "唐嫣方发声明",
-      "onboard_time": 1675413926,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1207503,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 876516,
+      "num": 876516,
+      "word": "上班时突然想到工资",
+      "onboard_time": 1675412669,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 866934,
       "num": 866934,
       "word": "狂飙的唇语解读",
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 779151,
+      "num": 779151,
+      "word": "狂飙官方声明",
+      "onboard_time": 1675416092,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 754944,
       "num": 754944,
       "word": "苏炳添6秒59",
@@ -283,20 +299,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 721119,
-      "num": 721119,
-      "word": "上班时突然想到工资",
-      "onboard_time": 1675412669,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 698937,
       "num": 698937,
       "word": "朴灿烈吴世勋出国机场图",
       "onboard_time": 1675410029,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 689845,
+      "num": 689845,
+      "word": "山东一97.6斤头鱼58.8万拍出",
+      "onboard_time": 1675414531,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 685922,
@@ -459,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 559082,
+      "num": 559082,
+      "word": "每周单休双休区别大吗",
+      "onboard_time": 1675415612,
+      "rank": 42,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 558042,
       "num": 558042,
       "word": "商场回应女厕设无遮挡男童便池",
@@ -547,20 +571,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 475462,
-      "num": 475462,
-      "word": "山东一97.6斤头鱼58.8万拍出",
-      "onboard_time": 1675414531,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 472098,
       "num": 472098,
       "word": "满江红居然有欧豪",
       "onboard_time": 1675409612,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 468053,
+      "num": 468053,
+      "word": "江西吃辣是真的离谱",
+      "onboard_time": 1675412788,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 456596,
@@ -611,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434629,
+      "num": 434629,
+      "word": "婆婆征求儿媳同意后贴宝宝图",
+      "onboard_time": 1675415069,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434425,
       "num": 434425,
       "word": "网传TFBOYS十周年演唱会备案",
@@ -659,20 +691,20 @@
       "category": "幽默,音乐"
     },
     {
-      "raw_hot": 416108,
-      "num": 416108,
-      "word": "江西吃辣是真的离谱",
-      "onboard_time": 1675412788,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 409586,
       "num": 409586,
       "word": "于文文唱体面跟自己和解",
       "onboard_time": 1675406008,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 408611,
+      "num": 408611,
+      "word": "猫咪的头为什么能转720度",
+      "onboard_time": 1675414048,
+      "rank": 15,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 402269,
@@ -753,14 +785,6 @@
       "onboard_time": 1675343075,
       "rank": 15,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 368264,
-      "num": 368264,
-      "word": "猫咪的头为什么能转720度",
-      "onboard_time": 1675414048,
-      "rank": 15,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 360672,
@@ -955,14 +979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 294598,
-      "num": 294598,
-      "word": "婆婆征求儿媳同意后贴宝宝图",
-      "onboard_time": 1675415069,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292451,
       "num": 292451,
       "word": "李一桐说和张译合作很过瘾",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1675338989,
       "rank": 20,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 270529,
+      "num": 270529,
+      "word": "狂飙反派都不知道自己是坏人",
+      "onboard_time": 1675415492,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 266937,
@@ -1195,6 +1219,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 235602,
+      "num": 235602,
+      "word": "吴昕官宣半熟恋人2",
+      "onboard_time": 1675415972,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234522,
       "num": 234522,
       "word": "君子盟删减剧情",
@@ -1217,6 +1249,14 @@
       "onboard_time": 1675346316,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217449,
+      "num": 217449,
+      "word": "广西一服刑人员在监狱遭犯人殴打致死",
+      "onboard_time": 1675416210,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216497,
@@ -1345,6 +1385,14 @@
       "onboard_time": 1675415069,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199284,
+      "num": 199284,
+      "word": "李一桐蓝绿发色挑染造型",
+      "onboard_time": 1675416092,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198230,
@@ -1483,14 +1531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178754,
-      "num": 229330,
-      "word": "狂飙反派都不知道自己是坏人",
-      "onboard_time": 1675415492,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 175150,
       "num": 165874,
       "word": "范丞丞支持电影中国乒乓",
@@ -1537,14 +1577,6 @@
       "onboard_time": 1675382847,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168865,
-      "num": 168865,
-      "word": "每周单休双休区别大吗",
-      "onboard_time": 1675415612,
-      "rank": 42,
-      "category": "社会议题"
     },
     {
       "raw_hot": 168065,
@@ -1801,6 +1833,14 @@
       "onboard_time": 1675405046,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129187,
+      "num": 129187,
+      "word": "林孝埈1000米晋级",
+      "onboard_time": 1675416751,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 122621,
