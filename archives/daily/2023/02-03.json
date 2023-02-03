@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675430660365,
+  "endTime": 1675431336860,
   "band_list": [
     {
       "raw_hot": 3324868,
@@ -123,6 +123,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 1416363,
+      "num": 1416363,
+      "word": "历史学者称岳飞长的像岳云鹏",
+      "onboard_time": 1675427729,
+      "rank": 9,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1375555,
       "num": 1375555,
       "word": "唐嫣方发声明",
@@ -169,14 +177,6 @@
       "onboard_time": 1675388427,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1220462,
-      "num": 1220462,
-      "word": "历史学者称岳飞长的像岳云鹏",
-      "onboard_time": 1675427729,
-      "rank": 9,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1207503,
@@ -227,6 +227,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 974020,
+      "num": 974020,
+      "word": "许凯上错高铁了",
+      "onboard_time": 1675429771,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 941578,
       "num": 941578,
       "word": "我们抱怨工资低有错吗",
@@ -256,6 +264,14 @@
       "word": "年轻人真实薪资水平到底如何",
       "onboard_time": 1675396168,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 893681,
+      "num": 893681,
+      "word": "6岁男童乳牙未掉长新牙变双排牙",
+      "onboard_time": 1675428210,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -315,28 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 788773,
-      "num": 788773,
-      "word": "6岁男童乳牙未掉长新牙变双排牙",
-      "onboard_time": 1675428210,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 787389,
       "num": 787389,
       "word": "婆婆征求儿媳同意后贴宝宝图",
       "onboard_time": 1675415069,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 758542,
-      "num": 758542,
-      "word": "许凯上错高铁了",
-      "onboard_time": 1675429771,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 754944,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 647061,
+      "num": 647061,
+      "word": "熬夜多但工资不高的工作",
+      "onboard_time": 1675427129,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 646322,
       "num": 646322,
       "word": "田震看宋亚轩模仿自己的reaction",
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607256,
+      "num": 607256,
+      "word": "吴京收到谢楠1999年写的科幻文章",
+      "onboard_time": 1675428748,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 605169,
       "num": 605169,
       "word": "金莎18岁采访梁朝伟旧照",
@@ -609,14 +625,6 @@
       "onboard_time": 1675422989,
       "rank": 26,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 566098,
-      "num": 566098,
-      "word": "熬夜多但工资不高的工作",
-      "onboard_time": 1675427129,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 564538,
@@ -673,6 +681,14 @@
       "onboard_time": 1675353511,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 536674,
+      "num": 536674,
+      "word": "历史学博士后称满江红不是岳飞写的",
+      "onboard_time": 1675429170,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533775,
@@ -771,11 +787,11 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 461108,
-      "num": 461108,
-      "word": "吴京收到谢楠1999年写的科幻文章",
-      "onboard_time": 1675428748,
-      "rank": 26,
+      "raw_hot": 457060,
+      "num": 457060,
+      "word": "姚琛Straykids后台合照",
+      "onboard_time": 1675430431,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -899,11 +915,11 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 406661,
-      "num": 406661,
-      "word": "历史学博士后称满江红不是岳飞写的",
-      "onboard_time": 1675429170,
-      "rank": 17,
+      "raw_hot": 407691,
+      "num": 407691,
+      "word": "胡鑫宇请给心理指导师五分钟",
+      "onboard_time": 1675430250,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1179,6 +1195,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 307164,
+      "num": 307164,
+      "word": "时光音乐会",
+      "onboard_time": 1675430612,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305794,
       "num": 305794,
       "word": "郭帆曾想把角色信息码换成自己的收款码",
@@ -1281,14 +1305,6 @@
       "onboard_time": 1675403791,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279712,
-      "num": 279712,
-      "word": "姚琛Straykids后台合照",
-      "onboard_time": 1675430431,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 278072,
@@ -1483,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252679,
+      "num": 252679,
+      "word": "TT官宣xiaohuangren",
+      "onboard_time": 1675428028,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 247861,
       "num": 247861,
       "word": "吴京的表情不像演的",
@@ -1555,14 +1579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229086,
-      "num": 229086,
-      "word": "TT官宣xiaohuangren",
-      "onboard_time": 1675428028,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 228793,
       "num": 228793,
       "word": "排便从未如此通畅过",
@@ -1577,14 +1593,6 @@
       "onboard_time": 1675346316,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224368,
-      "num": 224368,
-      "word": "时光音乐会",
-      "onboard_time": 1675430612,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 224115,
@@ -1795,6 +1803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193491,
+      "num": 193491,
+      "word": "唐嫣用嘻唰唰唱人逢喜事精神爽",
+      "onboard_time": 1675430973,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193231,
       "num": 193231,
       "word": "如果狂飙有平行世界",
@@ -1881,6 +1897,14 @@
       "onboard_time": 1675398452,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187451,
+      "num": 187451,
+      "word": "张颂文狂飙播完后如约回复网友",
+      "onboard_time": 1675430732,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 187410,
@@ -1993,6 +2017,14 @@
       "onboard_time": 1675418789,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168608,
+      "num": 168608,
+      "word": "蒋依依新剧古装造型",
+      "onboard_time": 1675430370,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 168065,
@@ -2147,6 +2179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155182,
+      "num": 155182,
+      "word": "连上七天班的下班状态",
+      "onboard_time": 1675430793,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 154563,
       "num": 154563,
       "word": "几张图看懂五险一金是什么",
@@ -2217,14 +2257,6 @@
       "onboard_time": 1675417829,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 145130,
-      "num": 145130,
-      "word": "胡鑫宇请给心理指导师五分钟",
-      "onboard_time": 1675430250,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143531,
@@ -2339,14 +2371,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 130235,
-      "num": 130235,
-      "word": "蒋依依新剧古装造型",
-      "onboard_time": 1675430370,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 130092,
       "num": 179938,
       "word": "用瓶盖做好看的红灯笼",
@@ -2419,6 +2443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94200,
+      "num": 1236687,
+      "word": "花好灯好月圆人圆",
+      "onboard_time": 1675429711,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91512,
       "num": 1598185,
       "word": "太空视角看中国湿地之美",
@@ -2441,14 +2473,6 @@
       "onboard_time": 1675326872,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 70958,
-      "num": 1236687,
-      "word": "花好灯好月圆人圆",
-      "onboard_time": 1675429711,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44628,
