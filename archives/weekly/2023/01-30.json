@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675449445836,
+  "endTime": 1675451714758,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -11739,20 +11739,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86666,
+      "num": 86666,
+      "word": "狂飙同款猪脚面原来那么香",
+      "onboard_time": 1675446079,
+      "rank": 24,
+      "category": "美食,影视"
+    },
+    {
       "raw_hot": 85337,
       "num": 85337,
       "word": "万达电影制作满江红海报出现错别字",
       "onboard_time": 1674984987,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 80675,
-      "num": 80675,
-      "word": "狂飙同款猪脚面原来那么香",
-      "onboard_time": 1675446079,
-      "rank": 24,
-      "category": "美食,影视"
     },
     {
       "raw_hot": 78798,
@@ -11777,6 +11777,14 @@
       "onboard_time": 1675121362,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 72250,
+      "num": 72250,
+      "word": "美国被曝将用乌两成领土换和平",
+      "onboard_time": 1675450454,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 71881,
@@ -12049,6 +12057,14 @@
       "onboard_time": 1675365912,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24571,
+      "num": 24571,
+      "word": "艾伦建议程领先该闭麦时闭麦",
+      "onboard_time": 1675450334,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 24270,
