@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675458942088,
+  "endTime": 1675460014855,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -7339,6 +7339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75112,
+      "num": 42928,
+      "word": "女子独自生娃婆家无人陪同",
+      "onboard_time": 1675456752,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71881,
       "num": 71881,
       "word": "宋威龙玄烈今日启程",
@@ -7393,14 +7401,6 @@
       "onboard_time": 1675173454,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 57630,
-      "num": 42928,
-      "word": "女子独自生娃婆家无人陪同",
-      "onboard_time": 1675456752,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55997,
@@ -7547,6 +7547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32603,
+      "num": 32603,
+      "word": "3月大宝宝发量惊人撞脸蒙奇奇",
+      "onboard_time": 1675458492,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30425,
       "num": 30425,
       "word": "宋亚轩晒乌托邦乐园花絮照",
@@ -7601,14 +7609,6 @@
       "onboard_time": 1675369332,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 17563,
-      "num": 17563,
-      "word": "3月大宝宝发量惊人撞脸蒙奇奇",
-      "onboard_time": 1675458492,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16380,

@@ -1,6 +1,6 @@
 {
   "startTime": 1675441538677,
-  "endTime": 1675458942088,
+  "endTime": 1675460014855,
   "band_list": [
     {
       "raw_hot": 1677701,
@@ -459,7 +459,7 @@
       "category": "美食,影视"
     },
     {
-      "raw_hot": 57630,
+      "raw_hot": 75112,
       "num": 42928,
       "word": "女子独自生娃婆家无人陪同",
       "onboard_time": 1675456752,
@@ -491,20 +491,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 32603,
+      "num": 32603,
+      "word": "3月大宝宝发量惊人撞脸蒙奇奇",
+      "onboard_time": 1675458492,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24571,
       "num": 24571,
       "word": "艾伦建议程领先该闭麦时闭麦",
       "onboard_time": 1675450334,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 17563,
-      "num": 17563,
-      "word": "3月大宝宝发量惊人撞脸蒙奇奇",
-      "onboard_time": 1675458492,
-      "rank": 44,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
