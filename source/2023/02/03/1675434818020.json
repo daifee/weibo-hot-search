@@ -1,0 +1,410 @@
+{
+  "runTime": 1675434818020,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2011395,
+        "num": 2011395,
+        "word": "中国无人飞艇因不可抗力误入美国领空",
+        "onboard_time": 1675432652,
+        "rank": 0,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 1911920,
+        "num": 1911920,
+        "word": "胡鑫宇请给心理指导师五分钟",
+        "onboard_time": 1675430250,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119934,
+        "num": 1427758,
+        "word": "花好灯好月圆人圆",
+        "onboard_time": 1675429711,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1349295,
+        "num": 1349295,
+        "word": "唐嫣听到罗晋名字心率升高",
+        "onboard_time": 1675432652,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1046680,
+        "num": 1046680,
+        "word": "历史学者称岳飞长的像岳云鹏",
+        "onboard_time": 1675427729,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 903212,
+        "num": 903212,
+        "word": "狂飙未播片段",
+        "onboard_time": 1675418370,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 722291,
+        "num": 722291,
+        "word": "6岁男童乳牙未掉长新牙变双排牙",
+        "onboard_time": 1675428210,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709791,
+        "num": 709791,
+        "word": "许凯上错高铁了",
+        "onboard_time": 1675429771,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 678193,
+        "num": 678193,
+        "word": "吴京收到谢楠1999年写的科幻文章",
+        "onboard_time": 1675428748,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 639874,
+        "num": 639874,
+        "word": "客人泡茶放近50根藏红花吓坏主人",
+        "onboard_time": 1675425090,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593716,
+        "num": 593716,
+        "word": "夫妻沪漂22年捡废品打零工在沪买房",
+        "onboard_time": 1675431394,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 578672,
+        "num": 578672,
+        "word": "历史学博士后称满江红不是岳飞写的",
+        "onboard_time": 1675429170,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559111,
+        "num": 559111,
+        "word": "王一博16岁时和姚晨演过大学情侣",
+        "onboard_time": 1675433612,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 557598,
+        "num": 557598,
+        "word": "田柾国凌晨直播实时观看人数1630万",
+        "onboard_time": 1675432712,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534968,
+        "num": 534968,
+        "word": "华裔女孩被美国养父母锁地牢奴役十余年",
+        "onboard_time": 1675413509,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526983,
+        "num": 526983,
+        "word": "李宇春翻唱阿珍爱上了阿强",
+        "onboard_time": 1675431451,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476316,
+        "num": 476316,
+        "word": "狂飙官方声明",
+        "onboard_time": 1675416092,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450941,
+        "num": 450941,
+        "word": "张颂文狂飙播完后如约回复网友",
+        "onboard_time": 1675430732,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 446843,
+        "num": 446843,
+        "word": "短道速滑",
+        "onboard_time": 1675428511,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405791,
+        "num": 405791,
+        "word": "姚琛Straykids后台合照",
+        "onboard_time": 1675430431,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1147908,
+        "num": 405687,
+        "word": "上海一小区发生命案致3死1伤",
+        "onboard_time": 1675426467,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 405541,
+        "num": 405541,
+        "word": "熬夜多但工资不高的工作",
+        "onboard_time": 1675427129,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 368732,
+        "num": 368732,
+        "word": "狂飙演员因好友演警察前期不说话",
+        "onboard_time": 1675432893,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348103,
+        "num": 348103,
+        "word": "薛之谦线上演唱会",
+        "onboard_time": 1675421669,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 343183,
+        "num": 343183,
+        "word": "林孝埈500米小组第一晋级",
+        "onboard_time": 1675434154,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318435,
+        "num": 318435,
+        "word": "流浪地球2登顶单日票房榜",
+        "onboard_time": 1675434154,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318391,
+        "num": 318391,
+        "word": "三体",
+        "onboard_time": 1675434274,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302552,
+        "num": 302552,
+        "word": "声生不息2长沙录制",
+        "onboard_time": 1675428931,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278878,
+        "num": 278878,
+        "word": "张柏芝任贤齐哭着演绎星语心愿",
+        "onboard_time": 1675433554,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248006,
+        "num": 248006,
+        "word": "连上七天班的下班状态",
+        "onboard_time": 1675430793,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 241907,
+        "num": 241907,
+        "word": "唐嫣练习室版爱你",
+        "onboard_time": 1675433734,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237173,
+        "num": 237173,
+        "word": "婆婆征求儿媳同意后贴宝宝图",
+        "onboard_time": 1675415069,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229691,
+        "num": 229691,
+        "word": "唐嫣学院风高马尾造型",
+        "onboard_time": 1675433974,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216123,
+        "num": 216123,
+        "word": "汪淼加入ETO",
+        "onboard_time": 1675433012,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201770,
+        "num": 201770,
+        "word": "澳门将发放12万张免费机票",
+        "onboard_time": 1675421428,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 199664,
+        "num": 199664,
+        "word": "最强大脑今晚肾上腺素狂飙",
+        "onboard_time": 1675434396,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178337,
+        "num": 178337,
+        "word": "花车巡游小姐姐遇游客送烤肠懵了",
+        "onboard_time": 1675426106,
+        "rank": 36,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 177961,
+        "num": 177961,
+        "word": "婚房贴宝宝照片有什么寓意",
+        "onboard_time": 1675433853,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176406,
+        "num": 176406,
+        "word": "RNG官宣续约Ming",
+        "onboard_time": 1675422630,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173114,
+        "num": 173114,
+        "word": "最强大脑",
+        "onboard_time": 1675434514,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171640,
+        "num": 171640,
+        "word": "时光音乐会",
+        "onboard_time": 1675430612,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170704,
+        "num": 170704,
+        "word": "这两只狗好像安欣李响",
+        "onboard_time": 1675424727,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165901,
+        "num": 165901,
+        "word": "田震看宋亚轩模仿自己的reaction",
+        "onboard_time": 1675427610,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152825,
+        "num": 152825,
+        "word": "TT官宣xiaohuangren",
+        "onboard_time": 1675428028,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151160,
+        "num": 151160,
+        "word": "在时光音乐会听5D流浪地球",
+        "onboard_time": 1675426594,
+        "rank": 44,
+        "category": "综艺,影视"
+      },
+      {
+        "raw_hot": 472810,
+        "num": 150671,
+        "word": "网友称13岁女儿被同学诱导卖淫",
+        "onboard_time": 1675422450,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148684,
+        "num": 148684,
+        "word": "马特",
+        "onboard_time": 1675434633,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147597,
+        "num": 147597,
+        "word": "高启强取材于现实黑恶大案",
+        "onboard_time": 1675422989,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146867,
+        "num": 146867,
+        "word": "每周单休双休区别大吗",
+        "onboard_time": 1675415612,
+        "rank": 48,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 145753,
+        "num": 145753,
+        "word": "我老了也要这么高兴",
+        "onboard_time": 1675419751,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#强信心加油干#"
+    }
+  }
+}
