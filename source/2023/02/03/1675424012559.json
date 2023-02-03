@@ -1,0 +1,410 @@
+{
+  "runTime": 1675424012559,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1525064,
+        "num": 1525064,
+        "word": "狂飙未播片段",
+        "onboard_time": 1675418370,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1476145,
+        "num": 1476145,
+        "word": "华裔女孩被美国养父母锁地牢奴役十余年",
+        "onboard_time": 1675413509,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41899,
+        "num": 1007570,
+        "word": "太空视角看中国湿地之美",
+        "onboard_time": 1675405166,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1558727,
+        "num": 981437,
+        "word": "网友称13岁女儿被同学诱导卖淫",
+        "onboard_time": 1675422450,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944483,
+        "num": 944483,
+        "word": "狂飙官方声明",
+        "onboard_time": 1675416092,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 670324,
+        "num": 670324,
+        "word": "婆婆征求儿媳同意后贴宝宝图",
+        "onboard_time": 1675415069,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629094,
+        "num": 629094,
+        "word": "澳门将发放12万张免费机票",
+        "onboard_time": 1675421428,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 553100,
+        "num": 553100,
+        "word": "朴叙俊崔宇植金泰亨合体路透",
+        "onboard_time": 1675421847,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523352,
+        "num": 523352,
+        "word": "发工资时间看公司状态",
+        "onboard_time": 1675419209,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 480177,
+        "num": 480177,
+        "word": "唐嫣方发声明",
+        "onboard_time": 1675413926,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 714448,
+        "num": 476870,
+        "word": "RNG官宣续约Ming",
+        "onboard_time": 1675422630,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 589304,
+        "num": 470841,
+        "word": "每周单休双休区别大吗",
+        "onboard_time": 1675415612,
+        "rank": 11,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 461894,
+        "num": 461894,
+        "word": "茶颜悦色下一站无锡",
+        "onboard_time": 1675420469,
+        "rank": 12,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 430182,
+        "num": 430182,
+        "word": "广西一服刑人员在监狱遭犯人殴打致死",
+        "onboard_time": 1675416210,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346976,
+        "num": 346976,
+        "word": "微信一手机号可注册两账号",
+        "onboard_time": 1675399174,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 344182,
+        "num": 344182,
+        "word": "小猫咪的爪子都要抡冒烟了",
+        "onboard_time": 1675417829,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333447,
+        "num": 333447,
+        "word": "王鹤棣时宴高清镜头",
+        "onboard_time": 1675420170,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288563,
+        "num": 288563,
+        "word": "直面生育损伤",
+        "onboard_time": 1675405767,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281040,
+        "num": 281040,
+        "word": "我老了也要这么高兴",
+        "onboard_time": 1675419751,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 269441,
+        "num": 269441,
+        "word": "杨幂为邓超新电影打call",
+        "onboard_time": 1675418072,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260748,
+        "num": 260748,
+        "word": "张栋梁回应在大火的时候暂停工作",
+        "onboard_time": 1675418072,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255507,
+        "num": 255507,
+        "word": "山东一97.6斤头鱼58.8万拍出",
+        "onboard_time": 1675414531,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241084,
+        "num": 241084,
+        "word": "杨天真不建议艺人上恋综",
+        "onboard_time": 1675408288,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236368,
+        "num": 236368,
+        "word": "薛之谦线上演唱会",
+        "onboard_time": 1675421669,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233136,
+        "num": 233136,
+        "word": "江西吃辣是真的离谱",
+        "onboard_time": 1675412788,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 229036,
+        "num": 229036,
+        "word": "上班时突然想到工资",
+        "onboard_time": 1675412669,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221649,
+        "num": 221649,
+        "word": "高启强取材于现实黑恶大案",
+        "onboard_time": 1675422989,
+        "rank": 26,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 208307,
+        "num": 208307,
+        "word": "江疏影宅家沉浸式化妆vlog",
+        "onboard_time": 1675419810,
+        "rank": 27,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 205123,
+        "num": 205123,
+        "word": "江西的狗有多能吃辣",
+        "onboard_time": 1675417230,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203080,
+        "num": 203080,
+        "word": "蒋依依新剧开播",
+        "onboard_time": 1675419810,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201089,
+        "num": 201089,
+        "word": "李荣浩要说的大事儿是巡演",
+        "onboard_time": 1675401509,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195443,
+        "num": 195443,
+        "word": "孙悦复古烟熏眼妆造型",
+        "onboard_time": 1675423589,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190899,
+        "num": 190899,
+        "word": "周鸿祎感谢三体剧组",
+        "onboard_time": 1675421009,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186587,
+        "num": 186587,
+        "word": "排便从未如此通畅过",
+        "onboard_time": 1675417110,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183352,
+        "num": 183352,
+        "word": "赵露思九宫格营业照",
+        "onboard_time": 1675420648,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161166,
+        "num": 161166,
+        "word": "满江红居然有欧豪",
+        "onboard_time": 1675409612,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156003,
+        "num": 156003,
+        "word": "狂飙反派都不知道自己是坏人",
+        "onboard_time": 1675415492,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151630,
+        "num": 151630,
+        "word": "往返香港机票搜索量半小时增长7倍",
+        "onboard_time": 1675423407,
+        "rank": 37,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 149852,
+        "num": 149852,
+        "word": "金多美活动状态",
+        "onboard_time": 1675420170,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146499,
+        "num": 146499,
+        "word": "安欣的穿搭是不是参考了王俊凯",
+        "onboard_time": 1675413571,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143546,
+        "num": 143546,
+        "word": "鞠婧祎新歌花MV预告",
+        "onboard_time": 1675421009,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143416,
+        "num": 143416,
+        "word": "猫咪的头为什么能转720度",
+        "onboard_time": 1675414048,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 143144,
+        "num": 143144,
+        "word": "Angelababy杨紫白鹿待播剧男装路透",
+        "onboard_time": 1675412128,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142057,
+        "num": 142057,
+        "word": "当爸妈第一次见到缅因猫",
+        "onboard_time": 1675415791,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136531,
+        "num": 136531,
+        "word": "李秀满与公司制作人合约终止",
+        "onboard_time": 1675402589,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135524,
+        "num": 135524,
+        "word": "张若昀杨蓉怕不是在演谍战片吧",
+        "onboard_time": 1675415069,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134407,
+        "num": 134407,
+        "word": "早年国产蓝色生死恋",
+        "onboard_time": 1675423768,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134168,
+        "num": 134168,
+        "word": "山东强盛集团的保安大爷有多硬核",
+        "onboard_time": 1675405829,
+        "rank": 47,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 133949,
+        "num": 133949,
+        "word": "林孝埈1000米晋级",
+        "onboard_time": 1675416751,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133247,
+        "num": 133247,
+        "word": "港澳目的地搜索瞬时大涨超3倍",
+        "onboard_time": 1675423289,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#强信心加油干#"
+    }
+  }
+}

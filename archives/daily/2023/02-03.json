@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675422984402,
+  "endTime": 1675424012559,
   "band_list": [
     {
       "raw_hot": 3324868,
@@ -89,6 +89,14 @@
       "onboard_time": 1675418370,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1558727,
+      "num": 981437,
+      "word": "网友称13岁女儿被同学诱导卖淫",
+      "onboard_time": 1675422450,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1509984,
@@ -331,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 714448,
+      "num": 476870,
+      "word": "RNG官宣续约Ming",
+      "onboard_time": 1675422630,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 698937,
       "num": 698937,
       "word": "朴灿烈吴世勋出国机场图",
@@ -433,6 +449,14 @@
       "onboard_time": 1675404749,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 629094,
+      "num": 629094,
+      "word": "澳门将发放12万张免费机票",
+      "onboard_time": 1675421428,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 626381,
@@ -643,6 +667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 461894,
+      "num": 461894,
+      "word": "茶颜悦色下一站无锡",
+      "onboard_time": 1675420469,
+      "rank": 49,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 456596,
       "num": 456596,
       "word": "哈登落选NBA全明星",
@@ -681,14 +713,6 @@
       "onboard_time": 1675389088,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 435963,
-      "num": 435963,
-      "word": "澳门将发放12万张免费机票",
-      "onboard_time": 1675421428,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 434886,
@@ -841,14 +865,6 @@
       "onboard_time": 1675414710,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 370278,
-      "num": 370278,
-      "word": "茶颜悦色下一站无锡",
-      "onboard_time": 1675420469,
-      "rank": 49,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 368351,
@@ -1019,14 +1035,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 306299,
-      "num": 306299,
-      "word": "网友称13岁女儿被同学诱导卖淫",
-      "onboard_time": 1675422450,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305794,
       "num": 305794,
       "word": "郭帆曾想把角色信息码换成自己的收款码",
@@ -1075,14 +1083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295741,
-      "num": 295741,
-      "word": "RNG官宣续约Ming",
-      "onboard_time": 1675422630,
-      "rank": 20,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 294683,
       "num": 294683,
       "word": "还得是九尾",
@@ -1121,6 +1121,14 @@
       "onboard_time": 1675394188,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281040,
+      "num": 281040,
+      "word": "我老了也要这么高兴",
+      "onboard_time": 1675419751,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 280256,
@@ -1403,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221649,
+      "num": 221649,
+      "word": "高启强取材于现实黑恶大案",
+      "onboard_time": 1675422989,
+      "rank": 26,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 216497,
       "num": 216497,
       "word": "如何应对渐进式延迟退休",
@@ -1441,14 +1457,6 @@
       "onboard_time": 1675387108,
       "rank": 47,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 208953,
-      "num": 208953,
-      "word": "我老了也要这么高兴",
-      "onboard_time": 1675419751,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 208903,
@@ -1569,6 +1577,14 @@
       "onboard_time": 1675402350,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195443,
+      "num": 195443,
+      "word": "孙悦复古烟熏眼妆造型",
+      "onboard_time": 1675423589,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195275,
@@ -1955,6 +1971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151630,
+      "num": 151630,
+      "word": "往返香港机票搜索量半小时增长7倍",
+      "onboard_time": 1675423407,
+      "rank": 37,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 151626,
       "num": 151626,
       "word": "赵梦跳伞时喊郑秀妍的名字",
@@ -2043,12 +2067,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 134407,
+      "num": 134407,
+      "word": "早年国产蓝色生死恋",
+      "onboard_time": 1675423768,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 133343,
       "num": 133343,
       "word": "你还期待微信增加哪些功能",
       "onboard_time": 1675412727,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 133247,
+      "num": 133247,
+      "word": "港澳目的地搜索瞬时大涨超3倍",
+      "onboard_time": 1675423289,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 132758,
