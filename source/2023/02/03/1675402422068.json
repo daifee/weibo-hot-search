@@ -1,0 +1,410 @@
+{
+  "runTime": 1675402422068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2464987,
+        "num": 2464987,
+        "word": "微信一手机号可注册两账号",
+        "onboard_time": 1675399174,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1546657,
+        "num": 1546657,
+        "word": "很体面但工资不高的工作",
+        "onboard_time": 1675391308,
+        "rank": 1,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 27445,
+        "num": 1381136,
+        "word": "立春过后是元宵",
+        "onboard_time": 1675344816,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1286898,
+        "num": 1286898,
+        "word": "在中国月收入1万是个什么样的水平",
+        "onboard_time": 1675385610,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1172793,
+        "num": 1172793,
+        "word": "女孩打车到墓地司机察觉不对报警救回",
+        "onboard_time": 1675388427,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032521,
+        "num": 1032521,
+        "word": "李荣浩要说的大事儿是巡演",
+        "onboard_time": 1675401509,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 895149,
+        "num": 895149,
+        "word": "妈妈误用八千元一斤茶叶煮茶叶蛋",
+        "onboard_time": 1675387647,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828422,
+        "num": 828422,
+        "word": "中国乒乓正式定档2月17日",
+        "onboard_time": 1675395689,
+        "rank": 7,
+        "category": "影视,体育"
+      },
+      {
+        "raw_hot": 776473,
+        "num": 776473,
+        "word": "贝克街的亡灵内地定档",
+        "onboard_time": 1675392746,
+        "rank": 8,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 672288,
+        "num": 672288,
+        "word": "SMTOWN新女团将第二季度出道",
+        "onboard_time": 1675398571,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2441857,
+        "num": 669726,
+        "word": "李荣浩 下午说个大事儿",
+        "onboard_time": 1675395689,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652542,
+        "num": 652542,
+        "word": "年轻人真实薪资水平到底如何",
+        "onboard_time": 1675396168,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616739,
+        "num": 616739,
+        "word": "朱一龙感谢上学四年做了两个选择",
+        "onboard_time": 1675401212,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 596978,
+        "num": 596978,
+        "word": "男子囤7冰柜养死的名贵鱼价值百万",
+        "onboard_time": 1675390585,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 502341,
+        "num": 502341,
+        "word": "大侦探",
+        "onboard_time": 1675401091,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488916,
+        "num": 488916,
+        "word": "高启盛占卜后流泪的原因",
+        "onboard_time": 1675394309,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447956,
+        "num": 447956,
+        "word": "不是已经上了六天班了吗",
+        "onboard_time": 1675393349,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 432211,
+        "num": 432211,
+        "word": "理发前是大帅哥烫后秒变壮壮妈",
+        "onboard_time": 1675398094,
+        "rank": 17,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 428813,
+        "num": 428813,
+        "word": "躲春",
+        "onboard_time": 1675392147,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424395,
+        "num": 424395,
+        "word": "张颂文演的贾发好可爱",
+        "onboard_time": 1675394850,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412107,
+        "num": 412107,
+        "word": "台历后续",
+        "onboard_time": 1675401631,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396366,
+        "num": 396366,
+        "word": "普京称80年后俄再受德坦克威胁",
+        "onboard_time": 1675399295,
+        "rank": 21,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 393270,
+        "num": 393270,
+        "word": "离异夫妻过年带娃碰面后决定复婚",
+        "onboard_time": 1675393410,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 352984,
+        "num": 352984,
+        "word": "收入成了年轻人跳槽唯一的衡量",
+        "onboard_time": 1675393707,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345735,
+        "num": 345735,
+        "word": "梁朝伟王一博王传君片场聊天",
+        "onboard_time": 1675397130,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334887,
+        "num": 334887,
+        "word": "高学历夫妻现实版去有风的地方",
+        "onboard_time": 1675399055,
+        "rank": 25,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 326016,
+        "num": 326016,
+        "word": "张译新剧再演警察",
+        "onboard_time": 1675392689,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320436,
+        "num": 320436,
+        "word": "邓超说我们的努力不会停止",
+        "onboard_time": 1675400852,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311090,
+        "num": 311090,
+        "word": "当你遇到了便秘的小猫",
+        "onboard_time": 1675400253,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 305887,
+        "num": 305887,
+        "word": "杨颖相思令男装",
+        "onboard_time": 1675398755,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296061,
+        "num": 296061,
+        "word": "他是谁",
+        "onboard_time": 1675395510,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280731,
+        "num": 280731,
+        "word": "苏炳添6秒59",
+        "onboard_time": 1675382485,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273884,
+        "num": 273884,
+        "word": "宋亚轩黑白挑染造型",
+        "onboard_time": 1675400193,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272237,
+        "num": 272237,
+        "word": "妹妹骑车冲下楼梯妈妈问责姐姐",
+        "onboard_time": 1675400015,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270164,
+        "num": 270164,
+        "word": "关晓彤晒环球影城九宫格plog",
+        "onboard_time": 1675393289,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268691,
+        "num": 268691,
+        "word": "狂飙的唇语解读",
+        "onboard_time": 1675385791,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263775,
+        "num": 263775,
+        "word": "男童溺水无呼吸被大叔坚持救回",
+        "onboard_time": 1675396530,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 258632,
+        "num": 258632,
+        "word": "中科院团队创制出无刺喜头鱼",
+        "onboard_time": 1675395510,
+        "rank": 37,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 248425,
+        "num": 248425,
+        "word": "建议专家别再建议了",
+        "onboard_time": 1675399773,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239671,
+        "num": 239671,
+        "word": "关晓彤被恐龙吓到的反应",
+        "onboard_time": 1675402049,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234931,
+        "num": 234931,
+        "word": "狂飙拍的还是太保守了",
+        "onboard_time": 1675401871,
+        "rank": 40,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 232077,
+        "num": 232077,
+        "word": "黄渤 喜剧",
+        "onboard_time": 1675397008,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225408,
+        "num": 225408,
+        "word": "田柾国翻唱NewJeans的ditto",
+        "onboard_time": 1675400491,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224638,
+        "num": 224638,
+        "word": "鹿晗晒滑雪比耶照",
+        "onboard_time": 1675390648,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223031,
+        "num": 223031,
+        "word": "时代少年团乌托邦少年实体专辑预告",
+        "onboard_time": 1675398571,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204250,
+        "num": 204250,
+        "word": "女子西藏旅游私闯关闭景点圣象天门",
+        "onboard_time": 1675390947,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195997,
+        "num": 195997,
+        "word": "萌兔闹元宵",
+        "onboard_time": 1675402350,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188861,
+        "num": 188861,
+        "word": "张若昀魏晨极限拉扯",
+        "onboard_time": 1675402231,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177833,
+        "num": 177833,
+        "word": "李冰冰说用精神吃饭",
+        "onboard_time": 1675400434,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170608,
+        "num": 170608,
+        "word": "不及时阻止猫咪的后果",
+        "onboard_time": 1675396230,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#强信心开新局#"
+    }
+  }
+}

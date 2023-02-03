@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675401456129,
+  "endTime": 1675402422068,
   "band_list": [
     {
       "raw_hot": 3324868,
@@ -27,8 +27,8 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 2237213,
-      "num": 2237213,
+      "raw_hot": 2464987,
+      "num": 2464987,
       "word": "微信一手机号可注册两账号",
       "onboard_time": 1675399174,
       "rank": 0,
@@ -99,6 +99,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1032521,
+      "num": 1032521,
+      "word": "李荣浩要说的大事儿是巡演",
+      "onboard_time": 1675401509,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 941578,
       "num": 941578,
       "word": "我们抱怨工资低有错吗",
@@ -131,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 828422,
+      "num": 828422,
+      "word": "中国乒乓正式定档2月17日",
+      "onboard_time": 1675395689,
+      "rank": 16,
+      "category": "影视,体育"
+    },
+    {
       "raw_hot": 824243,
       "num": 824243,
       "word": "女孩花4万在鹤岗买房后卖煎饼挣钱",
@@ -153,14 +169,6 @@
       "onboard_time": 1675398571,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 787130,
-      "num": 787130,
-      "word": "中国乒乓正式定档2月17日",
-      "onboard_time": 1675395689,
-      "rank": 16,
-      "category": "影视,体育"
     },
     {
       "raw_hot": 754944,
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 616739,
+      "num": 616739,
+      "word": "朱一龙感谢上学四年做了两个选择",
+      "onboard_time": 1675401212,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 599131,
       "num": 599131,
       "word": "关晓彤晒环球影城九宫格plog",
@@ -355,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 502341,
+      "num": 502341,
+      "word": "大侦探",
+      "onboard_time": 1675401091,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 498881,
       "num": 498881,
       "word": "网友泰国街头偶遇蔡徐坤",
@@ -363,8 +387,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 484441,
-      "num": 484441,
+      "raw_hot": 488916,
+      "num": 488916,
       "word": "高启盛占卜后流泪的原因",
       "onboard_time": 1675394309,
       "rank": 21,
@@ -419,6 +443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 432211,
+      "num": 432211,
+      "word": "理发前是大帅哥烫后秒变壮壮妈",
+      "onboard_time": 1675398094,
+      "rank": 47,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 429894,
       "num": 429894,
       "word": "黄渤 喜剧",
@@ -443,12 +475,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 411426,
-      "num": 411426,
-      "word": "理发前是大帅哥烫后秒变壮壮妈",
-      "onboard_time": 1675398094,
-      "rank": 47,
-      "category": "社会新闻,幽默"
+      "raw_hot": 412107,
+      "num": 412107,
+      "word": "台历后续",
+      "onboard_time": 1675401631,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 402269,
@@ -457,6 +489,14 @@
       "onboard_time": 1675391006,
       "rank": 17,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 396366,
+      "num": 396366,
+      "word": "普京称80年后俄再受德坦克威胁",
+      "onboard_time": 1675399295,
+      "rank": 23,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 376523,
@@ -531,20 +571,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 347985,
-      "num": 347985,
-      "word": "普京称80年后俄再受德坦克威胁",
-      "onboard_time": 1675399295,
-      "rank": 23,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 336292,
       "num": 336292,
       "word": "杨颖相思令男装",
       "onboard_time": 1675398755,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 334887,
+      "num": 334887,
+      "word": "高学历夫妻现实版去有风的地方",
+      "onboard_time": 1675399055,
+      "rank": 44,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 334280,
@@ -563,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320436,
+      "num": 320436,
+      "word": "邓超说我们的努力不会停止",
+      "onboard_time": 1675400852,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 319033,
       "num": 319033,
       "word": "宋亚轩黑白挑染造型",
@@ -579,20 +627,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 308141,
-      "num": 308141,
-      "word": "朱一龙感谢上学四年做了两个选择",
-      "onboard_time": 1675401212,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 302652,
-      "num": 302652,
-      "word": "高学历夫妻现实版去有风的地方",
-      "onboard_time": 1675399055,
-      "rank": 44,
-      "category": "社会新闻,影视"
+      "raw_hot": 311090,
+      "num": 311090,
+      "word": "当你遇到了便秘的小猫",
+      "onboard_time": 1675400253,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 297510,
@@ -625,22 +665,6 @@
       "onboard_time": 1675346978,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 290203,
-      "num": 290203,
-      "word": "大侦探",
-      "onboard_time": 1675401091,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 286892,
-      "num": 286892,
-      "word": "当你遇到了便秘的小猫",
-      "onboard_time": 1675400253,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 284994,
@@ -699,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272237,
+      "num": 272237,
+      "word": "妹妹骑车冲下楼梯妈妈问责姐姐",
+      "onboard_time": 1675400015,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271577,
       "num": 271577,
       "word": "张译大型返祖现场",
@@ -713,14 +745,6 @@
       "onboard_time": 1675338989,
       "rank": 20,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 268421,
-      "num": 268421,
-      "word": "邓超说我们的努力不会停止",
-      "onboard_time": 1675400852,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 266937,
@@ -819,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247056,
-      "num": 247056,
-      "word": "妹妹骑车冲下楼梯妈妈问责姐姐",
-      "onboard_time": 1675400015,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242053,
       "num": 242053,
       "word": "专家怒批50万以上存款征税",
@@ -849,6 +865,22 @@
       "onboard_time": 1675388488,
       "rank": 43,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 239671,
+      "num": 239671,
+      "word": "关晓彤被恐龙吓到的反应",
+      "onboard_time": 1675402049,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 234931,
+      "num": 234931,
+      "word": "狂飙拍的还是太保守了",
+      "onboard_time": 1675401871,
+      "rank": 40,
+      "category": "幽默,影视"
     },
     {
       "raw_hot": 231150,
@@ -963,6 +995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195997,
+      "num": 195997,
+      "word": "萌兔闹元宵",
+      "onboard_time": 1675402350,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193231,
       "num": 193231,
       "word": "如果狂飙有平行世界",
@@ -993,6 +1033,14 @@
       "onboard_time": 1675350096,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188861,
+      "num": 188861,
+      "word": "张若昀魏晨极限拉扯",
+      "onboard_time": 1675402231,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 188824,
