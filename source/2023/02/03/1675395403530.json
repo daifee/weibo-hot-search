@@ -1,0 +1,410 @@
+{
+  "runTime": 1675395403530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2438191,
+        "num": 2438191,
+        "word": "在中国月收入1万是个什么样的水平",
+        "onboard_time": 1675385610,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 2382932,
+        "num": 2382932,
+        "word": "很体面但工资不高的工作",
+        "onboard_time": 1675391308,
+        "rank": 1,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 56255,
+        "num": 1617106,
+        "word": "立春过后是元宵",
+        "onboard_time": 1675344816,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1416055,
+        "num": 1416055,
+        "word": "妈妈误用八千元一斤茶叶煮茶叶蛋",
+        "onboard_time": 1675387647,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1341412,
+        "num": 1341412,
+        "word": "贝克街的亡灵内地定档",
+        "onboard_time": 1675392746,
+        "rank": 4,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 1207503,
+        "num": 1207503,
+        "word": "张译新剧再演警察",
+        "onboard_time": 1675392689,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 978569,
+        "num": 978569,
+        "word": "女孩打车到墓地司机察觉不对报警救回",
+        "onboard_time": 1675388427,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941332,
+        "num": 941332,
+        "word": "躲春",
+        "onboard_time": 1675392147,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 903168,
+        "num": 903168,
+        "word": "男子囤7冰柜养死的名贵鱼价值百万",
+        "onboard_time": 1675390585,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 799450,
+        "num": 799450,
+        "word": "年轻人为什么不爱听专家建议",
+        "onboard_time": 1675386570,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 654281,
+        "num": 654281,
+        "word": "女子西藏旅游私闯关闭景点圣象天门",
+        "onboard_time": 1675390947,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650141,
+        "num": 650141,
+        "word": "不是已经上了六天班了吗",
+        "onboard_time": 1675393349,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 578900,
+        "num": 578900,
+        "word": "关晓彤晒环球影城九宫格plog",
+        "onboard_time": 1675393289,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540231,
+        "num": 540231,
+        "word": "鹿晗晒滑雪比耶照",
+        "onboard_time": 1675390648,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530917,
+        "num": 530917,
+        "word": "离异夫妻过年带娃碰面后决定复婚",
+        "onboard_time": 1675393410,
+        "rank": 14,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 530420,
+        "num": 530420,
+        "word": "狂飙的唇语解读",
+        "onboard_time": 1675385791,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477652,
+        "num": 477652,
+        "word": "高启盛占卜后流泪的原因",
+        "onboard_time": 1675394309,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411444,
+        "num": 411444,
+        "word": "收入成了年轻人跳槽唯一的衡量",
+        "onboard_time": 1675393707,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351828,
+        "num": 351828,
+        "word": "米切尔狄龙冲突",
+        "onboard_time": 1675393529,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266748,
+        "num": 338141,
+        "word": "极氪X来了",
+        "onboard_time": 1675393166,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 332462,
+        "num": 332462,
+        "word": "苏炳添6秒59",
+        "onboard_time": 1675382485,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330804,
+        "num": 330804,
+        "word": "女生用苍耳做自然小清新胸针",
+        "onboard_time": 1675388607,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308426,
+        "num": 308426,
+        "word": "商场回应女厕设无遮挡男童便池",
+        "onboard_time": 1675389388,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291864,
+        "num": 291864,
+        "word": "张雪峰称白酒应多一点国际专利",
+        "onboard_time": 1675391006,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 283075,
+        "num": 283075,
+        "word": "显微镜下的大明全员自报家门",
+        "onboard_time": 1675394188,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266122,
+        "num": 266122,
+        "word": "吴磊赵今麦芬兰拍摄同框路透",
+        "onboard_time": 1675387948,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254750,
+        "num": 254750,
+        "word": "三体古筝行动片头",
+        "onboard_time": 1675393047,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232638,
+        "num": 232638,
+        "word": "江苏省考",
+        "onboard_time": 1675385906,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 231791,
+        "num": 231791,
+        "word": "网传TFBOYS十周年演唱会备案",
+        "onboard_time": 1675379178,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231150,
+        "num": 231150,
+        "word": "流浪地球2为何如此受欢迎",
+        "onboard_time": 1675391547,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229522,
+        "num": 229522,
+        "word": "女孩花4万在鹤岗买房后卖煎饼挣钱",
+        "onboard_time": 1675381523,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228511,
+        "num": 228511,
+        "word": "丈夫去世前给前女同事转账100万",
+        "onboard_time": 1675349198,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206797,
+        "num": 206797,
+        "word": "酒驾遇查夫妻换驾萌娃大喊我爸喝啦",
+        "onboard_time": 1675386447,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202138,
+        "num": 202138,
+        "word": "电影荒原定档3月3日",
+        "onboard_time": 1675393230,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197498,
+        "num": 197498,
+        "word": "张颂文演的贾发好可爱",
+        "onboard_time": 1675394850,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192588,
+        "num": 192588,
+        "word": "电影断网定档3月3日",
+        "onboard_time": 1675394969,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187382,
+        "num": 187382,
+        "word": "原来生日可以领这么多福利",
+        "onboard_time": 1675384950,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 187285,
+        "num": 187285,
+        "word": "内地与港澳人员往来全面恢复",
+        "onboard_time": 1675389088,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181419,
+        "num": 181419,
+        "word": "多地开始调控种植牙价格",
+        "onboard_time": 1675392087,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 177180,
+        "num": 177180,
+        "word": "嫌疑人亲属曾是遇袭医生的患者",
+        "onboard_time": 1675392328,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168065,
+        "num": 168065,
+        "word": "专家说已被注册为商标",
+        "onboard_time": 1675394008,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157788,
+        "num": 157788,
+        "word": "人民日报评胡鑫宇事件",
+        "onboard_time": 1675351774,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150529,
+        "num": 150529,
+        "word": "王铮亮骗陈楚生有苦是真能忍",
+        "onboard_time": 1675384767,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148213,
+        "num": 148213,
+        "word": "当广东人看完狂飙",
+        "onboard_time": 1675350695,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138152,
+        "num": 138152,
+        "word": "提前还房贷要排队几个月",
+        "onboard_time": 1675390288,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 135668,
+        "num": 135668,
+        "word": "智能电视使用套路",
+        "onboard_time": 1675395267,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 135582,
+        "num": 135582,
+        "word": "酷云认证赵丽颖85花收视TOP",
+        "onboard_time": 1675355005,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135134,
+        "num": 135134,
+        "word": "大妈被邻家小孩放烟花炸伤致左眼失明",
+        "onboard_time": 1675395388,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134122,
+        "num": 134122,
+        "word": "奶奶因帕金森抖腿给女子道歉",
+        "onboard_time": 1675376474,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131577,
+        "num": 131577,
+        "word": "活在热爱里的女孩子是怎样的",
+        "onboard_time": 1675389447,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#强信心开新局#"
+    }
+  }
+}

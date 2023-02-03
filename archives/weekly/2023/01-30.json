@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675394582099,
+  "endTime": 1675395403530,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -291,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2382932,
+      "num": 2382932,
+      "word": "很体面但工资不高的工作",
+      "onboard_time": 1675391308,
+      "rank": 3,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 2374980,
       "num": 2374980,
       "word": "张颂文 我永远难忘这个春节",
@@ -321,14 +329,6 @@
       "onboard_time": 1675307976,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2252397,
-      "num": 2252397,
-      "word": "很体面但工资不高的工作",
-      "onboard_time": 1675391308,
-      "rank": 3,
-      "category": "社会议题"
     },
     {
       "raw_hot": 2228547,
@@ -915,6 +915,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1341412,
+      "num": 1341412,
+      "word": "贝克街的亡灵内地定档",
+      "onboard_time": 1675392746,
+      "rank": 18,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 1337654,
       "num": 1337654,
       "word": "谢娜晒背影照为跳跳俏俏庆生",
@@ -1115,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1207503,
+      "num": 1207503,
+      "word": "张译新剧再演警察",
+      "onboard_time": 1675392689,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1206729,
       "num": 1206729,
       "word": "强盛集团旗下公司年终奖现金堆成山",
@@ -1177,14 +1193,6 @@
       "onboard_time": 1675043307,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1169424,
-      "num": 1169424,
-      "word": "张译新剧再演警察",
-      "onboard_time": 1675392689,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1167851,
@@ -1475,14 +1483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1054349,
-      "num": 1054349,
-      "word": "贝克街的亡灵内地定档",
-      "onboard_time": 1675392746,
-      "rank": 18,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 1049066,
       "num": 1049066,
       "word": "民政局开工离婚队伍排到门外",
@@ -1683,6 +1683,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 941332,
+      "num": 941332,
+      "word": "躲春",
+      "onboard_time": 1675392147,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 939879,
       "num": 939879,
       "word": "扎堆提前还房贷并不可取",
@@ -1795,6 +1803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 903168,
+      "num": 903168,
+      "word": "男子囤7冰柜养死的名贵鱼价值百万",
+      "onboard_time": 1675390585,
+      "rank": 8,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 898988,
       "num": 898988,
       "word": "尸检能否查明死亡原因",
@@ -1873,14 +1889,6 @@
       "onboard_time": 1675120880,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 867709,
-      "num": 867709,
-      "word": "男子囤7冰柜养死的名贵鱼价值百万",
-      "onboard_time": 1675390585,
-      "rank": 8,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 866934,
@@ -2257,14 +2265,6 @@
       "onboard_time": 1675041987,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 755513,
-      "num": 755513,
-      "word": "躲春",
-      "onboard_time": 1675392147,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 754944,
@@ -2737,6 +2737,14 @@
       "onboard_time": 1675134388,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 650141,
+      "num": 650141,
+      "word": "不是已经上了六天班了吗",
+      "onboard_time": 1675393349,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 650133,
@@ -3491,6 +3499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530917,
+      "num": 530917,
+      "word": "离异夫妻过年带娃碰面后决定复婚",
+      "onboard_time": 1675393410,
+      "rank": 17,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 528906,
       "num": 528906,
       "word": "P图可以冷门但不可以邪门",
@@ -3920,6 +3936,14 @@
       "word": "满江红",
       "onboard_time": 1675037430,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 477652,
+      "num": 477652,
+      "word": "高启盛占卜后流泪的原因",
+      "onboard_time": 1675394309,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -4467,20 +4491,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411444,
+      "num": 411444,
+      "word": "收入成了年轻人跳槽唯一的衡量",
+      "onboard_time": 1675393707,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409520,
       "num": 409520,
       "word": "唯五得欣",
       "onboard_time": 1675298789,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 409199,
-      "num": 409199,
-      "word": "不是已经上了六天班了吗",
-      "onboard_time": 1675393349,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 409152,
@@ -4931,14 +4955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371697,
-      "num": 371697,
-      "word": "离异夫妻过年带娃碰面后决定复婚",
-      "onboard_time": 1675393410,
-      "rank": 17,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 371184,
       "num": 371184,
       "word": "田柾国清唱ditto片段",
@@ -5129,6 +5145,14 @@
       "onboard_time": 1675066649,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 351828,
+      "num": 351828,
+      "word": "米切尔狄龙冲突",
+      "onboard_time": 1675393529,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 350329,
@@ -5449,14 +5473,6 @@
       "onboard_time": 1675295722,
       "rank": 28,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 327621,
-      "num": 327621,
-      "word": "高启盛占卜后流泪的原因",
-      "onboard_time": 1675394309,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 327428,
@@ -6067,6 +6083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283075,
+      "num": 283075,
+      "word": "显微镜下的大明全员自报家门",
+      "onboard_time": 1675394188,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281107,
       "num": 281107,
       "word": "福建人是都会飞吗",
@@ -6200,14 +6224,6 @@
       "word": "2023NBA全明星替补名单",
       "onboard_time": 1675386987,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 273241,
-      "num": 273241,
-      "word": "米切尔狄龙冲突",
-      "onboard_time": 1675393529,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -6377,6 +6393,14 @@
       "onboard_time": 1675238852,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266748,
+      "num": 347643,
+      "word": "极氪X来了",
+      "onboard_time": 1675393166,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 266240,
@@ -6659,14 +6683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 253882,
-      "num": 253882,
-      "word": "显微镜下的大明全员自报家门",
-      "onboard_time": 1675394188,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 252876,
       "num": 252876,
       "word": "张雨绮请半熟恋人全组喝奶茶",
@@ -6753,14 +6769,6 @@
       "onboard_time": 1675261477,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246061,
-      "num": 347643,
-      "word": "极氪X来了",
-      "onboard_time": 1675393166,
-      "rank": 46,
-      "category": "科技"
     },
     {
       "raw_hot": 244873,
@@ -7059,6 +7067,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 231150,
+      "num": 231150,
+      "word": "流浪地球2为何如此受欢迎",
+      "onboard_time": 1675391547,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230348,
       "num": 230348,
       "word": "苏新皓二刷了满江红",
@@ -7105,14 +7121,6 @@
       "onboard_time": 1675222953,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 227036,
-      "num": 227036,
-      "word": "流浪地球2为何如此受欢迎",
-      "onboard_time": 1675391547,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 226641,
@@ -7835,6 +7843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197498,
+      "num": 197498,
+      "word": "张颂文演的贾发好可爱",
+      "onboard_time": 1675394850,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197283,
       "num": 197283,
       "word": "几代民警接力找到被拐32年男孩",
@@ -8009,6 +8025,14 @@
       "onboard_time": 1675151589,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192588,
+      "num": 192588,
+      "word": "电影断网定档3月3日",
+      "onboard_time": 1675394969,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 192380,
@@ -8603,14 +8627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 177400,
-      "num": 177400,
-      "word": "收入成了年轻人跳槽唯一的衡量",
-      "onboard_time": 1675393707,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176772,
       "num": 176772,
       "word": "魏晨王鸥大侦探双人舞",
@@ -8848,6 +8864,14 @@
       "word": "专家回应新冠变异病毒能否人工合成",
       "onboard_time": 1675043908,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168065,
+      "num": 168065,
+      "word": "专家说已被注册为商标",
+      "onboard_time": 1675394008,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -9355,14 +9379,6 @@
       "category": "旅游,影视"
     },
     {
-      "raw_hot": 146508,
-      "num": 146508,
-      "word": "专家说已被注册为商标",
-      "onboard_time": 1675394008,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145486,
       "num": 145486,
       "word": "庄达菲张艺凡挽手路透",
@@ -9547,12 +9563,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135668,
+      "num": 135668,
+      "word": "智能电视使用套路",
+      "onboard_time": 1675395267,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 135421,
       "num": 135421,
       "word": "谢谢郭帆",
       "onboard_time": 1675218268,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135134,
+      "num": 135134,
+      "word": "大妈被邻家小孩放烟花炸伤致左眼失明",
+      "onboard_time": 1675395388,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133947,
