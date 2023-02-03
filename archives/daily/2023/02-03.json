@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675409620994,
+  "endTime": 1675412580991,
   "band_list": [
     {
       "raw_hot": 3324868,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1674299,
+      "num": 1674299,
+      "word": "杨天真不建议艺人上恋综",
+      "onboard_time": 1675408288,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1509984,
       "num": 1509984,
       "word": "李荣浩要说的大事儿是巡演",
@@ -57,6 +65,14 @@
       "onboard_time": 1675392746,
       "rank": 18,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 1458949,
+      "num": 734911,
+      "word": "河南一女子衣着暴露跪地表演",
+      "onboard_time": 1675409730,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1359195,
@@ -219,14 +235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 749478,
-      "num": 749478,
-      "word": "杨天真不建议艺人上恋综",
-      "onboard_time": 1675408288,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 745552,
       "num": 745552,
       "word": "鹿晗晒滑雪比耶照",
@@ -257,6 +265,14 @@
       "onboard_time": 1675393349,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 698937,
+      "num": 698937,
+      "word": "朴灿烈吴世勋出国机场图",
+      "onboard_time": 1675410029,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 685922,
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638958,
+      "num": 638958,
+      "word": "张译曾把导演的裤衩挂在树上",
+      "onboard_time": 1675408708,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 636083,
       "num": 636083,
       "word": "酒驾遇查夫妻换驾萌娃大喊我爸喝啦",
@@ -387,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568249,
+      "num": 568249,
+      "word": "Angelababy杨紫白鹿待播剧男装路透",
+      "onboard_time": 1675412128,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 564538,
       "num": 564538,
       "word": "吴磊赵今麦芬兰拍摄同框路透",
@@ -411,12 +443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557904,
+      "num": 557904,
+      "word": "老爹是高叶给泰叔起的",
+      "onboard_time": 1675407507,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 539525,
       "num": 539525,
       "word": "声生不息宝岛季你最期待谁",
       "onboard_time": 1675353511,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 533775,
+      "num": 533775,
+      "word": "教授称投资不过山海关对东北伤害极大",
+      "onboard_time": 1675406967,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 525925,
@@ -433,6 +481,14 @@
       "onboard_time": 1675335513,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 504571,
+      "num": 504571,
+      "word": "小猫咪有仇当场就报",
+      "onboard_time": 1675410208,
+      "rank": 12,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 502341,
@@ -465,22 +521,6 @@
       "onboard_time": 1675394309,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 484488,
-      "num": 484488,
-      "word": "老爹是高叶给泰叔起的",
-      "onboard_time": 1675407507,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 459193,
-      "num": 459193,
-      "word": "教授称投资不过山海关对东北伤害极大",
-      "onboard_time": 1675406967,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 456596,
@@ -587,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406005,
+      "num": 406005,
+      "word": "满江红居然有欧豪",
+      "onboard_time": 1675409612,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 402269,
       "num": 402269,
       "word": "张雪峰称白酒应多一点国际专利",
@@ -609,6 +657,14 @@
       "onboard_time": 1675408407,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 378888,
+      "num": 378888,
+      "word": "微信小号有用吗",
+      "onboard_time": 1675410989,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 376523,
@@ -689,6 +745,14 @@
       "onboard_time": 1675380380,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 347087,
+      "num": 347087,
+      "word": "你的工资和消费成正比吗",
+      "onboard_time": 1675408888,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 342976,
@@ -1059,14 +1123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223221,
-      "num": 223221,
-      "word": "张译曾把导演的裤衩挂在树上",
-      "onboard_time": 1675408708,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216497,
       "num": 216497,
       "word": "如何应对渐进式延迟退休",
@@ -1081,6 +1137,14 @@
       "onboard_time": 1675392328,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211408,
+      "num": 211408,
+      "word": "严浩翔金发毛线帽造型饭拍",
+      "onboard_time": 1675411529,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 209579,
@@ -1187,6 +1251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195275,
+      "num": 195275,
+      "word": "洪恩採将担任音银下任MC",
+      "onboard_time": 1675410091,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193231,
       "num": 193231,
       "word": "如果狂飙有平行世界",
@@ -1259,6 +1331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185248,
+      "num": 185248,
+      "word": "吴京给邓超新电影打call",
+      "onboard_time": 1675409792,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184973,
       "num": 184973,
       "word": "抑郁的孩子为什么会有这么多",
@@ -1275,11 +1355,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178519,
-      "num": 178519,
-      "word": "满江红居然有欧豪",
-      "onboard_time": 1675409612,
-      "rank": 37,
+      "raw_hot": 175150,
+      "num": 165874,
+      "word": "范丞丞支持电影中国乒乓",
+      "onboard_time": 1675411348,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1329,6 +1409,14 @@
       "onboard_time": 1675394008,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166333,
+      "num": 166333,
+      "word": "那些又美又飒的女性角色",
+      "onboard_time": 1675412251,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 166308,
@@ -1459,14 +1547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152716,
-      "num": 152716,
-      "word": "你的工资和消费成正比吗",
-      "onboard_time": 1675408888,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152608,
       "num": 152608,
       "word": "李现祝大家人生如风轻轻松松",
@@ -1497,6 +1577,14 @@
       "onboard_time": 1675332754,
       "rank": 47,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 135937,
+      "num": 127211,
+      "word": "郭帆再次挑战了自己的极限",
+      "onboard_time": 1675411948,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 135668,
