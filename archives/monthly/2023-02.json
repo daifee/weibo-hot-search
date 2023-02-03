@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675413413386,
+  "endTime": 1675415914736,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1627777,
+      "num": 1627777,
+      "word": "华裔女孩被美国养父母锁地牢奴役十余年",
+      "onboard_time": 1675413509,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1578244,
       "num": 1578244,
       "word": "央视采访发现胡鑫宇尸体的粮库员工",
@@ -664,6 +672,14 @@
       "word": "杨幂工作室回应广告被下刊传言",
       "onboard_time": 1675327835,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1208073,
+      "num": 1208073,
+      "word": "唐嫣方发声明",
+      "onboard_time": 1675413926,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -1457,6 +1473,14 @@
       "onboard_time": 1675338453,
       "rank": 12,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 721119,
+      "num": 721119,
+      "word": "上班时突然想到工资",
+      "onboard_time": 1675412669,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 719649,
@@ -2475,11 +2499,27 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 475462,
+      "num": 475462,
+      "word": "山东一97.6斤头鱼58.8万拍出",
+      "onboard_time": 1675414531,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473461,
       "num": 473461,
       "word": "红豆遥遥冰的爱还在继续",
       "onboard_time": 1675346557,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 472098,
+      "num": 472098,
+      "word": "满江红居然有欧豪",
+      "onboard_time": 1675409612,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -2731,14 +2771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 426796,
-      "num": 426796,
-      "word": "满江红居然有欧豪",
-      "onboard_time": 1675409612,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 426254,
       "num": 426254,
       "word": "女子落入流浪地球投资骗局被骗11万",
@@ -2817,6 +2849,14 @@
       "onboard_time": 1675404150,
       "rank": 25,
       "category": "幽默,音乐"
+    },
+    {
+      "raw_hot": 416108,
+      "num": 416108,
+      "word": "江西吃辣是真的离谱",
+      "onboard_time": 1675412788,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 415345,
@@ -2944,6 +2984,14 @@
       "word": "张杰为马琪芮落选意难平",
       "onboard_time": 1675255112,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 395169,
+      "num": 395169,
+      "word": "何洁回应恶评",
+      "onboard_time": 1675413330,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -3131,6 +3179,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 372986,
+      "num": 372986,
+      "word": "无名王一博说去看我挨打",
+      "onboard_time": 1675414710,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372011,
       "num": 372011,
       "word": "脱口秀演员的饭局好有梗",
@@ -3153,6 +3209,14 @@
       "onboard_time": 1675302869,
       "rank": 46,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 368264,
+      "num": 368264,
+      "word": "猫咪的头为什么能转720度",
+      "onboard_time": 1675414048,
+      "rank": 15,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 364472,
@@ -3491,6 +3555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326026,
+      "num": 326026,
+      "word": "安欣的穿搭是不是参考了王俊凯",
+      "onboard_time": 1675413571,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325422,
       "num": 325422,
       "word": "流浪地球3刘德华演笨笨吴京演MOSS",
@@ -3731,6 +3803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294598,
+      "num": 294598,
+      "word": "婆婆征求儿媳同意后贴宝宝图",
+      "onboard_time": 1675415069,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294269,
       "num": 294269,
       "word": "不同类型的婚后生活",
@@ -3939,14 +4019,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 275476,
-      "num": 275476,
-      "word": "何洁回应恶评",
-      "onboard_time": 1675413330,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 275109,
       "num": 275109,
       "word": "李一桐发文告别狂飙",
@@ -4153,14 +4225,6 @@
       "onboard_time": 1675336173,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263408,
-      "num": 263408,
-      "word": "江西吃辣是真的离谱",
-      "onboard_time": 1675412788,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 263308,
@@ -4448,6 +4512,14 @@
       "word": "速度与激情10海报",
       "onboard_time": 1675215508,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 234522,
+      "num": 234522,
+      "word": "君子盟删减剧情",
+      "onboard_time": 1675413090,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -4859,6 +4931,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199760,
+      "num": 199760,
+      "word": "当爸妈第一次见到缅因猫",
+      "onboard_time": 1675415791,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 199526,
+      "num": 199526,
+      "word": "张若昀杨蓉怕不是在演谍战片吧",
+      "onboard_time": 1675415069,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198796,
       "num": 198796,
       "word": "古代人一封手写信可以包含多少情感",
@@ -4979,14 +5067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193873,
-      "num": 193873,
-      "word": "上班时突然想到工资",
-      "onboard_time": 1675412669,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 193231,
       "num": 193231,
       "word": "如果狂飙有平行世界",
@@ -5041,6 +5121,14 @@
       "onboard_time": 1675278193,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190640,
+      "num": 190640,
+      "word": "这猫在演我晕车的样子",
+      "onboard_time": 1675414048,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 190066,
@@ -5131,14 +5219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187332,
-      "num": 187332,
-      "word": "君子盟删减剧情",
-      "onboard_time": 1675413090,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 186706,
       "num": 186706,
       "word": "狂飙月考题",
@@ -5217,6 +5297,14 @@
       "onboard_time": 1675235550,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184259,
+      "num": 184259,
+      "word": "微信小号功能仍在测试",
+      "onboard_time": 1675413571,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 183987,
@@ -5353,6 +5441,14 @@
       "onboard_time": 1675344816,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178754,
+      "num": 229330,
+      "word": "狂飙反派都不知道自己是坏人",
+      "onboard_time": 1675415492,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 178144,
@@ -5539,6 +5635,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 168865,
+      "num": 168865,
+      "word": "每周单休双休区别大吗",
+      "onboard_time": 1675415612,
+      "rank": 42,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 168065,
       "num": 168065,
       "word": "专家说已被注册为商标",
@@ -5723,6 +5827,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158884,
+      "num": 158884,
+      "word": "网友自制地球联合政府官网",
+      "onboard_time": 1675413990,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 157365,
+      "num": 157365,
+      "word": "张远在婚庆广场唱嘉宾",
+      "onboard_time": 1675412848,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156287,
       "num": 156287,
       "word": "ming",
@@ -5771,6 +5891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152661,
+      "num": 186465,
+      "word": "泸沽湖落日绝美晚霞",
+      "onboard_time": 1675415310,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 151985,
       "num": 1676391,
       "word": "各地灯会直拍",
@@ -5785,6 +5913,14 @@
       "onboard_time": 1675222351,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151626,
+      "num": 151626,
+      "word": "赵梦跳伞时喊郑秀妍的名字",
+      "onboard_time": 1675413749,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 149883,
@@ -5899,6 +6035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136966,
+      "num": 136966,
+      "word": "规范APP乱跳转新标准出台",
+      "onboard_time": 1675415851,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 136834,
       "num": 136834,
       "word": "GEN战胜DK",
@@ -5913,6 +6057,14 @@
       "onboard_time": 1675411948,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135896,
+      "num": 135896,
+      "word": "这猫像极了不爱上班的我",
+      "onboard_time": 1675414771,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 135668,

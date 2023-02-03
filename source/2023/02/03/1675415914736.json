@@ -1,0 +1,410 @@
+{
+  "runTime": 1675415914736,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1627777,
+        "num": 1627777,
+        "word": "华裔女孩被美国养父母锁地牢奴役十余年",
+        "onboard_time": 1675413509,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1208073,
+        "num": 1208073,
+        "word": "唐嫣方发声明",
+        "onboard_time": 1675413926,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62125,
+        "num": 1182643,
+        "word": "太空视角看中国湿地之美",
+        "onboard_time": 1675405166,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1175270,
+        "num": 1175270,
+        "word": "杨天真不建议艺人上恋综",
+        "onboard_time": 1675408288,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 926875,
+        "num": 926875,
+        "word": "微信一手机号可注册两账号",
+        "onboard_time": 1675399174,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 721119,
+        "num": 721119,
+        "word": "上班时突然想到工资",
+        "onboard_time": 1675412669,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 618816,
+        "num": 618816,
+        "word": "李荣浩要说的大事儿是巡演",
+        "onboard_time": 1675401509,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 502079,
+        "num": 502079,
+        "word": "Angelababy杨紫白鹿待播剧男装路透",
+        "onboard_time": 1675412128,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475462,
+        "num": 475462,
+        "word": "山东一97.6斤头鱼58.8万拍出",
+        "onboard_time": 1675414531,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472098,
+        "num": 472098,
+        "word": "满江红居然有欧豪",
+        "onboard_time": 1675409612,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604943,
+        "num": 447974,
+        "word": "直面生育损伤",
+        "onboard_time": 1675405767,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 416108,
+        "num": 416108,
+        "word": "江西吃辣是真的离谱",
+        "onboard_time": 1675412788,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 395169,
+        "num": 395169,
+        "word": "何洁回应恶评",
+        "onboard_time": 1675413330,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390809,
+        "num": 390809,
+        "word": "朴灿烈吴世勋出国机场图",
+        "onboard_time": 1675410029,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372986,
+        "num": 372986,
+        "word": "无名王一博说去看我挨打",
+        "onboard_time": 1675414710,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368264,
+        "num": 368264,
+        "word": "猫咪的头为什么能转720度",
+        "onboard_time": 1675414048,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 361965,
+        "num": 361965,
+        "word": "狂飙拍的还是太保守了",
+        "onboard_time": 1675401871,
+        "rank": 16,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 360540,
+        "num": 360540,
+        "word": "山东强盛集团的保安大爷有多硬核",
+        "onboard_time": 1675405829,
+        "rank": 17,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 344099,
+        "num": 344099,
+        "word": "老爹是高叶给泰叔起的",
+        "onboard_time": 1675407507,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326026,
+        "num": 326026,
+        "word": "安欣的穿搭是不是参考了王俊凯",
+        "onboard_time": 1675413571,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324686,
+        "num": 324686,
+        "word": "张译曾把导演的裤衩挂在树上",
+        "onboard_time": 1675408708,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322753,
+        "num": 322753,
+        "word": "小猫咪有仇当场就报",
+        "onboard_time": 1675410208,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 294598,
+        "num": 294598,
+        "word": "婆婆征求儿媳同意后贴宝宝图",
+        "onboard_time": 1675415069,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279487,
+        "num": 279487,
+        "word": "女孩打车到墓地司机察觉不对报警救回",
+        "onboard_time": 1675388427,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257147,
+        "num": 257147,
+        "word": "李秀满与公司制作人合约终止",
+        "onboard_time": 1675402589,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256096,
+        "num": 256096,
+        "word": "教授称投资不过山海关对东北伤害极大",
+        "onboard_time": 1675406967,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 254821,
+        "num": 254821,
+        "word": "蒲熠星 明灯",
+        "onboard_time": 1675412727,
+        "rank": 26,
+        "category": "综艺,社会议题"
+      },
+      {
+        "raw_hot": 237207,
+        "num": 237207,
+        "word": "很体面但工资不高的工作",
+        "onboard_time": 1675391308,
+        "rank": 27,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 234522,
+        "num": 234522,
+        "word": "君子盟删减剧情",
+        "onboard_time": 1675413090,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178754,
+        "num": 229330,
+        "word": "狂飙反派都不知道自己是坏人",
+        "onboard_time": 1675415492,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228326,
+        "num": 228326,
+        "word": "微信小号有用吗",
+        "onboard_time": 1675410989,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 199760,
+        "num": 199760,
+        "word": "当爸妈第一次见到缅因猫",
+        "onboard_time": 1675415791,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199526,
+        "num": 199526,
+        "word": "张若昀杨蓉怕不是在演谍战片吧",
+        "onboard_time": 1675415069,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190640,
+        "num": 190640,
+        "word": "这猫在演我晕车的样子",
+        "onboard_time": 1675414048,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152661,
+        "num": 186465,
+        "word": "泸沽湖落日绝美晚霞",
+        "onboard_time": 1675415310,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 185048,
+        "num": 185048,
+        "word": "流浪地球2将饱和式贯彻到底",
+        "onboard_time": 1675407389,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184259,
+        "num": 184259,
+        "word": "微信小号功能仍在测试",
+        "onboard_time": 1675413571,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 180228,
+        "num": 180228,
+        "word": "蒲熠星大侦探绝杀",
+        "onboard_time": 1675404749,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173812,
+        "num": 173812,
+        "word": "郭帆曾想把角色信息码换成自己的收款码",
+        "onboard_time": 1675404390,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173521,
+        "num": 173521,
+        "word": "在中国月收入1万是个什么样的水平",
+        "onboard_time": 1675385610,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 171156,
+        "num": 171156,
+        "word": "你的工资和消费成正比吗",
+        "onboard_time": 1675408888,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169614,
+        "num": 169614,
+        "word": "躲春",
+        "onboard_time": 1675392147,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168865,
+        "num": 168865,
+        "word": "每周单休双休区别大吗",
+        "onboard_time": 1675415612,
+        "rank": 42,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 158884,
+        "num": 158884,
+        "word": "网友自制地球联合政府官网",
+        "onboard_time": 1675413990,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157365,
+        "num": 157365,
+        "word": "张远在婚庆广场唱嘉宾",
+        "onboard_time": 1675412848,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151626,
+        "num": 151626,
+        "word": "赵梦跳伞时喊郑秀妍的名字",
+        "onboard_time": 1675413749,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150162,
+        "num": 150162,
+        "word": "严浩翔金发毛线帽造型饭拍",
+        "onboard_time": 1675411529,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142402,
+        "num": 142402,
+        "word": "年轻人真实薪资水平到底如何",
+        "onboard_time": 1675396168,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136966,
+        "num": 136966,
+        "word": "规范APP乱跳转新标准出台",
+        "onboard_time": 1675415851,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 135896,
+        "num": 135896,
+        "word": "这猫像极了不爱上班的我",
+        "onboard_time": 1675414771,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#强信心加油干#"
+    }
+  }
+}
