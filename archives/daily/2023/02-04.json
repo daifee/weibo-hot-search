@@ -1,6 +1,6 @@
 {
   "startTime": 1675441538677,
-  "endTime": 1675441538677,
+  "endTime": 1675442593868,
   "band_list": [
     {
       "raw_hot": 1677701,
@@ -35,8 +35,8 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 798311,
-      "num": 798311,
+      "raw_hot": 927502,
+      "num": 927502,
       "word": "王子文微博评论区",
       "onboard_time": 1675438769,
       "rank": 5,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 390885,
+      "num": 390885,
+      "word": "网友泰国偶遇周震南姚琛",
+      "onboard_time": 1675441588,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390635,
       "num": 390635,
       "word": "张柏芝把杨迪错认成张杰",
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313185,
+      "num": 313185,
+      "word": "历史学博士后称满江红不是岳飞写的",
+      "onboard_time": 1675429170,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304982,
       "num": 304982,
       "word": "历史学者称岳飞长的像岳云鹏",
@@ -171,12 +187,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 291109,
-      "num": 291109,
-      "word": "历史学博士后称满江红不是岳飞写的",
-      "onboard_time": 1675429170,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 295296,
+      "num": 295296,
+      "word": "杭州一商场女店员遭安保无故砍伤",
+      "onboard_time": 1675441167,
+      "rank": 39,
+      "category": "社会负面"
     },
     {
       "raw_hot": 280172,
@@ -185,6 +201,14 @@
       "onboard_time": 1675425090,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280120,
+      "num": 280120,
+      "word": "满江红实时票房破37亿",
+      "onboard_time": 1675441108,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 278233,
@@ -219,20 +243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242918,
+      "num": 242918,
+      "word": "流浪地球是在哈尔滨拍的吧",
+      "onboard_time": 1675440390,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232644,
       "num": 232644,
       "word": "女子回应泰国旅游警察全程接机",
       "onboard_time": 1675439791,
       "rank": 28,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 230528,
-      "num": 230528,
-      "word": "流浪地球是在哈尔滨拍的吧",
-      "onboard_time": 1675440390,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 228587,
@@ -257,14 +281,6 @@
       "onboard_time": 1675428210,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192330,
-      "num": 192330,
-      "word": "满江红实时票房破37亿",
-      "onboard_time": 1675441108,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 190896,
@@ -307,12 +323,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158988,
-      "num": 158988,
-      "word": "杭州一商场女店员遭安保无故砍伤",
-      "onboard_time": 1675441167,
-      "rank": 39,
-      "category": "社会负面"
+      "raw_hot": 161451,
+      "num": 161451,
+      "word": "梁龙把达拉崩吧又玩活了",
+      "onboard_time": 1675438351,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 146024,
@@ -347,20 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135271,
-      "num": 135271,
-      "word": "梁龙把达拉崩吧又玩活了",
-      "onboard_time": 1675438351,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134888,
       "num": 134888,
       "word": "夫妻沪漂22年捡废品打零工在沪买房",
       "onboard_time": 1675431394,
       "rank": 45,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 123246,
+      "num": 123246,
+      "word": "女生寺庙祈福遇crush",
+      "onboard_time": 1675441706,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109341,
@@ -385,6 +401,14 @@
       "onboard_time": 1675434396,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100392,
+      "num": 100392,
+      "word": "那些绘画神童后来如何了",
+      "onboard_time": 1675439190,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 96278,
