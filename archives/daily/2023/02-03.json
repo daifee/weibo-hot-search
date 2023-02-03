@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675424012559,
+  "endTime": 1675427715352,
   "band_list": [
     {
       "raw_hot": 3324868,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1694174,
+      "num": 1137015,
+      "word": "网友称13岁女儿被同学诱导卖淫",
+      "onboard_time": 1675422450,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1674299,
       "num": 1674299,
       "word": "杨天真不建议艺人上恋综",
@@ -89,14 +97,6 @@
       "onboard_time": 1675418370,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1558727,
-      "num": 981437,
-      "word": "网友称13岁女儿被同学诱导卖淫",
-      "onboard_time": 1675422450,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1509984,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1114964,
+      "num": 1114964,
+      "word": "上海一小区发生命案致3死1伤",
+      "onboard_time": 1675426467,
+      "rank": 4,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1112411,
       "num": 1112411,
       "word": "年轻人为什么不爱听专家建议",
@@ -184,6 +192,14 @@
       "word": "丈夫去世前给前女同事转账100万",
       "onboard_time": 1675349198,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1081043,
+      "num": 1081043,
+      "word": "客人泡茶放近50根藏红花吓坏主人",
+      "onboard_time": 1675425090,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -507,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605169,
+      "num": 605169,
+      "word": "金莎18岁采访梁朝伟旧照",
+      "onboard_time": 1675425806,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 599131,
       "num": 599131,
       "word": "关晓彤晒环球影城九宫格plog",
@@ -547,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 562309,
+      "num": 562309,
+      "word": "高启强取材于现实黑恶大案",
+      "onboard_time": 1675422989,
+      "rank": 26,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 560773,
       "num": 560773,
       "word": "没有锁的门有多窒息",
@@ -569,6 +601,14 @@
       "onboard_time": 1675407507,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 549615,
+      "num": 549615,
+      "word": "田震看宋亚轩模仿自己的reaction",
+      "onboard_time": 1675427610,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 548644,
@@ -705,6 +745,14 @@
       "onboard_time": 1675395510,
       "rank": 20,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 441797,
+      "num": 441797,
+      "word": "这两只狗好像安欣李响",
+      "onboard_time": 1675424727,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 440011,
@@ -939,6 +987,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345518,
+      "num": 345518,
+      "word": "女士的品格定档0206",
+      "onboard_time": 1675425448,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 343925,
+      "num": 343925,
+      "word": "薛之谦线上演唱会",
+      "onboard_time": 1675421669,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 342976,
       "num": 342976,
       "word": "关晓彤被恐龙吓到的反应",
@@ -1011,6 +1075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 317535,
+      "num": 317535,
+      "word": "在时光音乐会听5D流浪地球",
+      "onboard_time": 1675426594,
+      "rank": 19,
+      "category": "综艺,影视"
+    },
+    {
       "raw_hot": 315328,
       "num": 315328,
       "word": "田柾国翻唱NewJeans的ditto",
@@ -1025,6 +1097,14 @@
       "onboard_time": 1675415492,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 311599,
+      "num": 311599,
+      "word": "花车巡游小姐姐遇游客送烤肠懵了",
+      "onboard_time": 1675426106,
+      "rank": 20,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 311090,
@@ -1243,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265842,
+      "num": 265842,
+      "word": "魏晨说大侦探2太难了",
+      "onboard_time": 1675424609,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265680,
       "num": 265680,
       "word": "蒋依依新剧开播",
@@ -1323,12 +1411,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244578,
-      "num": 244578,
-      "word": "薛之谦线上演唱会",
-      "onboard_time": 1675421669,
+      "raw_hot": 244162,
+      "num": 244162,
+      "word": "金泰亨发布会饭拍生图",
+      "onboard_time": 1675427312,
       "rank": 25,
-      "category": "音乐"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 242053,
@@ -1411,14 +1499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 221649,
-      "num": 221649,
-      "word": "高启强取材于现实黑恶大案",
-      "onboard_time": 1675422989,
-      "rank": 26,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 216497,
       "num": 216497,
       "word": "如何应对渐进式延迟退休",
@@ -1449,6 +1529,14 @@
       "onboard_time": 1675411529,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210843,
+      "num": 210843,
+      "word": "小伙5米高桥纵身一跃托起落水男孩",
+      "onboard_time": 1675424549,
+      "rank": 27,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 209579,
@@ -1675,6 +1763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188585,
+      "num": 188585,
+      "word": "往返香港机票搜索量半小时增长7倍",
+      "onboard_time": 1675423407,
+      "rank": 37,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 188522,
       "num": 188522,
       "word": "薛之谦演唱会彩排氛围好欢乐",
@@ -1721,6 +1817,14 @@
       "onboard_time": 1675349257,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178004,
+      "num": 178004,
+      "word": "熬夜多但工资不高的工作",
+      "onboard_time": 1675427129,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 176176,
@@ -1816,6 +1920,14 @@
       "word": "时代少年团你好星期六本周预告",
       "onboard_time": 1675406846,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165858,
+      "num": 165858,
+      "word": "时光音乐会全员童年照",
+      "onboard_time": 1675425329,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -1939,6 +2051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154563,
+      "num": 154563,
+      "word": "几张图看懂五险一金是什么",
+      "onboard_time": 1675424128,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 154269,
       "num": 154269,
       "word": "梅西接受奥莱报专访",
@@ -1969,14 +2089,6 @@
       "onboard_time": 1675351953,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 151630,
-      "num": 151630,
-      "word": "往返香港机票搜索量半小时增长7倍",
-      "onboard_time": 1675423407,
-      "rank": 37,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 151626,
@@ -2017,6 +2129,14 @@
       "onboard_time": 1675345657,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142641,
+      "num": 142641,
+      "word": "早年国产蓝色生死恋",
+      "onboard_time": 1675423768,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 140631,
@@ -2067,12 +2187,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 134407,
-      "num": 134407,
-      "word": "早年国产蓝色生死恋",
-      "onboard_time": 1675423768,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 133513,
+      "num": 133513,
+      "word": "不小心丢失手机后该怎么做",
+      "onboard_time": 1675425090,
+      "rank": 47,
+      "category": "其它"
     },
     {
       "raw_hot": 133343,
@@ -2145,6 +2265,14 @@
       "onboard_time": 1675330173,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120458,
+      "num": 120458,
+      "word": "周深beatbox版祝你平安吹蜡烛",
+      "onboard_time": 1675425991,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 114264,
