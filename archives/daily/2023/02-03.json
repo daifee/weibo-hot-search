@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675427715352,
+  "endTime": 1675428815471,
   "band_list": [
     {
       "raw_hot": 3324868,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2275117,
+      "num": 2275117,
+      "word": "上海一小区发生命案致3死1伤",
+      "onboard_time": 1675426467,
+      "rank": 4,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1892626,
       "num": 1892626,
       "word": "华裔女孩被美国养父母锁地牢奴役十余年",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1694174,
-      "num": 1137015,
+      "num": 1159369,
       "word": "网友称13岁女儿被同学诱导卖淫",
       "onboard_time": 1675422450,
       "rank": 18,
@@ -171,12 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1114964,
-      "num": 1114964,
-      "word": "上海一小区发生命案致3死1伤",
-      "onboard_time": 1675426467,
-      "rank": 4,
-      "category": "社会负面"
+      "raw_hot": 1152517,
+      "num": 1152517,
+      "word": "客人泡茶放近50根藏红花吓坏主人",
+      "onboard_time": 1675425090,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1112411,
@@ -192,14 +200,6 @@
       "word": "丈夫去世前给前女同事转账100万",
       "onboard_time": 1675349198,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1081043,
-      "num": 1081043,
-      "word": "客人泡茶放近50根藏红花吓坏主人",
-      "onboard_time": 1675425090,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646322,
+      "num": 646322,
+      "word": "田震看宋亚轩模仿自己的reaction",
+      "onboard_time": 1675427610,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 638958,
       "num": 638958,
       "word": "张译曾把导演的裤衩挂在树上",
@@ -563,20 +571,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 568099,
+      "num": 568099,
+      "word": "高启强取材于现实黑恶大案",
+      "onboard_time": 1675422989,
+      "rank": 26,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 564538,
       "num": 564538,
       "word": "吴磊赵今麦芬兰拍摄同框路透",
       "onboard_time": 1675387948,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 562309,
-      "num": 562309,
-      "word": "高启强取材于现实黑恶大案",
-      "onboard_time": 1675422989,
-      "rank": 26,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 560773,
@@ -601,14 +609,6 @@
       "onboard_time": 1675407507,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 549615,
-      "num": 549615,
-      "word": "田震看宋亚轩模仿自己的reaction",
-      "onboard_time": 1675427610,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 548644,
@@ -641,6 +641,14 @@
       "onboard_time": 1675351774,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522290,
+      "num": 522290,
+      "word": "历史学者称岳飞长的像岳云鹏",
+      "onboard_time": 1675427729,
+      "rank": 9,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 508721,
@@ -819,6 +827,14 @@
       "category": "幽默,音乐"
     },
     {
+      "raw_hot": 415112,
+      "num": 415112,
+      "word": "薛之谦线上演唱会",
+      "onboard_time": 1675421669,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 409586,
       "num": 409586,
       "word": "于文文唱体面跟自己和解",
@@ -881,6 +897,22 @@
       "onboard_time": 1675408407,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 380618,
+      "num": 380618,
+      "word": "熬夜多但工资不高的工作",
+      "onboard_time": 1675427129,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 377853,
+      "num": 377853,
+      "word": "花车巡游小姐姐遇游客送烤肠懵了",
+      "onboard_time": 1675426106,
+      "rank": 20,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 376523,
@@ -995,14 +1027,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 343925,
-      "num": 343925,
-      "word": "薛之谦线上演唱会",
-      "onboard_time": 1675421669,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 342976,
       "num": 342976,
       "word": "关晓彤被恐龙吓到的反应",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1675415492,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 311599,
-      "num": 311599,
-      "word": "花车巡游小姐姐遇游客送烤肠懵了",
-      "onboard_time": 1675426106,
-      "rank": 20,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 311090,
@@ -1251,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273692,
+      "num": 273692,
+      "word": "魏晨说大侦探2太难了",
+      "onboard_time": 1675424609,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273460,
       "num": 273460,
       "word": "2023NBA全明星替补名单",
@@ -1323,14 +1347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265842,
-      "num": 265842,
-      "word": "魏晨说大侦探2太难了",
-      "onboard_time": 1675424609,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265680,
       "num": 265680,
       "word": "蒋依依新剧开播",
@@ -1369,6 +1385,14 @@
       "onboard_time": 1675339831,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261409,
+      "num": 261409,
+      "word": "邢菲新剧定妆vlog",
+      "onboard_time": 1675427849,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 259183,
@@ -1449,6 +1473,14 @@
       "onboard_time": 1675415972,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235308,
+      "num": 235308,
+      "word": "吴京收到谢楠1999年写的科幻文章",
+      "onboard_time": 1675428748,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 234522,
@@ -1617,6 +1649,14 @@
       "onboard_time": 1675421009,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200523,
+      "num": 200523,
+      "word": "6岁男童乳牙未掉长新牙变双排牙",
+      "onboard_time": 1675428210,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200076,
@@ -1819,12 +1859,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178004,
-      "num": 178004,
-      "word": "熬夜多但工资不高的工作",
-      "onboard_time": 1675427129,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 181639,
+      "num": 181639,
+      "word": "短道速滑",
+      "onboard_time": 1675428511,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 176176,
@@ -1905,6 +1945,14 @@
       "onboard_time": 1675394008,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167562,
+      "num": 167562,
+      "word": "TT官宣xiaohuangren",
+      "onboard_time": 1675428028,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 166333,
