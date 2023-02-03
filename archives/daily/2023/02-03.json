@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675408631344,
+  "endTime": 1675409620994,
   "band_list": [
     {
       "raw_hot": 3324868,
@@ -67,6 +67,14 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 1298458,
+      "num": 999932,
+      "word": "直面生育损伤",
+      "onboard_time": 1675405767,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1287236,
       "num": 1287236,
       "word": "专家称年轻人工资低可能是能力不够",
@@ -123,12 +131,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 999932,
-      "num": 999932,
-      "word": "直面生育损伤",
-      "onboard_time": 1675405767,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 1023824,
+      "num": 1023824,
+      "word": "山东强盛集团的保安大爷有多硬核",
+      "onboard_time": 1675405829,
+      "rank": 38,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 941578,
@@ -187,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 812073,
-      "num": 812073,
-      "word": "山东强盛集团的保安大爷有多硬核",
-      "onboard_time": 1675405829,
-      "rank": 38,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 802414,
       "num": 802414,
       "word": "梁朝伟王一博王传君片场聊天",
@@ -217,6 +217,14 @@
       "onboard_time": 1675382485,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 749478,
+      "num": 749478,
+      "word": "杨天真不建议艺人上恋综",
+      "onboard_time": 1675408288,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 745552,
@@ -459,6 +467,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 484488,
+      "num": 484488,
+      "word": "老爹是高叶给泰叔起的",
+      "onboard_time": 1675407507,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 459193,
+      "num": 459193,
+      "word": "教授称投资不过山海关对东北伤害极大",
+      "onboard_time": 1675406967,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 456596,
       "num": 456596,
       "word": "哈登落选NBA全明星",
@@ -579,6 +603,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 382251,
+      "num": 382251,
+      "word": "王一博无名原野天空剧照",
+      "onboard_time": 1675408407,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 376523,
       "num": 376523,
       "word": "胡鑫宇曾向母亲哭诉不想读书",
@@ -609,22 +641,6 @@
       "onboard_time": 1675343075,
       "rank": 15,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 367589,
-      "num": 367589,
-      "word": "王一博无名原野天空剧照",
-      "onboard_time": 1675408407,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 366121,
-      "num": 366121,
-      "word": "教授称投资不过山海关对东北伤害极大",
-      "onboard_time": 1675406967,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 360672,
@@ -755,8 +771,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298534,
-      "num": 298534,
+      "raw_hot": 299508,
+      "num": 299508,
       "word": "开心麻花发文纪念夏洛特烦恼10周年",
       "onboard_time": 1675406008,
       "rank": 39,
@@ -1043,12 +1059,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219730,
-      "num": 219730,
-      "word": "老爹是高叶给泰叔起的",
-      "onboard_time": 1675407507,
+      "raw_hot": 223221,
+      "num": 223221,
+      "word": "张译曾把导演的裤衩挂在树上",
+      "onboard_time": 1675408708,
       "rank": 32,
-      "category": "影视"
+      "category": "艺人"
     },
     {
       "raw_hot": 216497,
@@ -1099,20 +1115,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 205145,
-      "num": 205145,
-      "word": "杨天真不建议艺人上恋综",
-      "onboard_time": 1675408288,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204356,
       "num": 204356,
       "word": "辽宁袭击医生嫌疑人被抓获",
       "onboard_time": 1675346795,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202546,
+      "num": 202546,
+      "word": "李现的演员价值",
+      "onboard_time": 1675409128,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 201999,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1675349257,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178519,
+      "num": 178519,
+      "word": "满江红居然有欧豪",
+      "onboard_time": 1675409612,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 175096,
@@ -1435,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152716,
+      "num": 152716,
+      "word": "你的工资和消费成正比吗",
+      "onboard_time": 1675408888,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152608,
       "num": 152608,
       "word": "李现祝大家人生如风轻轻松松",
@@ -1523,7 +1555,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89801,
+      "raw_hot": 91512,
       "num": 1364066,
       "word": "太空视角看中国湿地之美",
       "onboard_time": 1675405166,
