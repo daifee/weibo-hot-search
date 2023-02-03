@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675428815471,
+  "endTime": 1675430660365,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2414697,
+      "num": 2414697,
+      "word": "上海一小区发生命案致3死1伤",
+      "onboard_time": 1675426467,
+      "rank": 4,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2374980,
       "num": 2374980,
       "word": "张颂文 我永远难忘这个春节",
@@ -233,14 +241,6 @@
       "onboard_time": 1675307976,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2275117,
-      "num": 2275117,
-      "word": "上海一小区发生命案致3死1伤",
-      "onboard_time": 1675426467,
-      "rank": 4,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2225066,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 1694174,
-      "num": 1159369,
+      "num": 1233264,
       "word": "网友称13岁女儿被同学诱导卖淫",
       "onboard_time": 1675422450,
       "rank": 18,
@@ -683,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1254411,
+      "num": 1254411,
+      "word": "客人泡茶放近50根藏红花吓坏主人",
+      "onboard_time": 1675425090,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1251189,
       "num": 1251189,
       "word": "女孩打车到墓地司机察觉不对报警救回",
@@ -721,6 +729,14 @@
       "onboard_time": 1675327835,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1220462,
+      "num": 1220462,
+      "word": "历史学者称岳飞长的像岳云鹏",
+      "onboard_time": 1675427729,
+      "rank": 9,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1207503,
@@ -777,14 +793,6 @@
       "onboard_time": 1675402589,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1152517,
-      "num": 1152517,
-      "word": "客人泡茶放近50根藏红花吓坏主人",
-      "onboard_time": 1675425090,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1144748,
@@ -1395,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 788773,
+      "num": 788773,
+      "word": "6岁男童乳牙未掉长新牙变双排牙",
+      "onboard_time": 1675428210,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787389,
       "num": 787389,
       "word": "婆婆征求儿媳同意后贴宝宝图",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1675257814,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 758542,
+      "num": 758542,
+      "word": "许凯上错高铁了",
+      "onboard_time": 1675429771,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 758293,
@@ -1947,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 623566,
+      "num": 623566,
+      "word": "短道速滑",
+      "onboard_time": 1675428511,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 623553,
       "num": 623553,
       "word": "唐嫣接孙坚用跑的",
@@ -2195,6 +2227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 566098,
+      "num": 566098,
+      "word": "熬夜多但工资不高的工作",
+      "onboard_time": 1675427129,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 564538,
       "num": 564538,
       "word": "吴磊赵今麦芬兰拍摄同框路透",
@@ -2241,6 +2281,14 @@
       "onboard_time": 1675216831,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 556187,
+      "num": 556187,
+      "word": "声生不息2长沙录制",
+      "onboard_time": 1675428931,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 554447,
@@ -2417,14 +2465,6 @@
       "onboard_time": 1675243351,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 522290,
-      "num": 522290,
-      "word": "历史学者称岳飞长的像岳云鹏",
-      "onboard_time": 1675427729,
-      "rank": 9,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 521818,
@@ -2683,6 +2723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465971,
+      "num": 465971,
+      "word": "这两只狗好像安欣李响",
+      "onboard_time": 1675424727,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 462820,
       "num": 462820,
       "word": "辽宁省中医医院一名医生遇袭",
@@ -2705,6 +2753,14 @@
       "onboard_time": 1675420469,
       "rank": 49,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 461108,
+      "num": 461108,
+      "word": "吴京收到谢楠1999年写的科幻文章",
+      "onboard_time": 1675428748,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 460903,
@@ -2817,14 +2873,6 @@
       "onboard_time": 1675218568,
       "rank": 11,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 441797,
-      "num": 441797,
-      "word": "这两只狗好像安欣李响",
-      "onboard_time": 1675424727,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 441549,
@@ -3091,6 +3139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 406661,
+      "num": 406661,
+      "word": "历史学博士后称满江红不是岳飞写的",
+      "onboard_time": 1675429170,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405380,
       "num": 405380,
       "word": "动物园通报小老虎意外溺亡",
@@ -3281,14 +3337,6 @@
       "onboard_time": 1675349257,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 380618,
-      "num": 380618,
-      "word": "熬夜多但工资不高的工作",
-      "onboard_time": 1675427129,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 379292,
@@ -4211,6 +4259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279712,
+      "num": 279712,
+      "word": "姚琛Straykids后台合照",
+      "onboard_time": 1675430431,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277549,
       "num": 277549,
       "word": "导演称狂飙也曾想叫70后",
@@ -4795,14 +4851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235308,
-      "num": 235308,
-      "word": "吴京收到谢楠1999年写的科幻文章",
-      "onboard_time": 1675428748,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234522,
       "num": 234522,
       "word": "君子盟删减剧情",
@@ -4883,6 +4931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229086,
+      "num": 229086,
+      "word": "TT官宣xiaohuangren",
+      "onboard_time": 1675428028,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228793,
       "num": 228793,
       "word": "排便从未如此通畅过",
@@ -4929,6 +4985,14 @@
       "onboard_time": 1675228834,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224368,
+      "num": 224368,
+      "word": "时光音乐会",
+      "onboard_time": 1675430612,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 224155,
@@ -5139,6 +5203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207296,
+      "num": 207296,
+      "word": "徐明浩分享和家人爬山vlog",
+      "onboard_time": 1675428810,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206193,
       "num": 206193,
       "word": "TES对战RA",
@@ -5233,14 +5305,6 @@
       "onboard_time": 1675421009,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200523,
-      "num": 200523,
-      "word": "6岁男童乳牙未掉长新牙变双排牙",
-      "onboard_time": 1675428210,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200267,
@@ -5747,14 +5811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181639,
-      "num": 181639,
-      "word": "短道速滑",
-      "onboard_time": 1675428511,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181164,
       "num": 181164,
       "word": "周深央视元宵晚会录制路透",
@@ -6041,14 +6097,6 @@
       "onboard_time": 1675394008,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167562,
-      "num": 167562,
-      "word": "TT官宣xiaohuangren",
-      "onboard_time": 1675428028,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 167399,
@@ -6411,6 +6459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145130,
+      "num": 145130,
+      "word": "胡鑫宇请给心理指导师五分钟",
+      "onboard_time": 1675430250,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142760,
       "num": 142760,
       "word": "72岁赤脚医生坚守弹丸小岛56年",
@@ -6433,6 +6489,14 @@
       "onboard_time": 1675236811,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140627,
+      "num": 140627,
+      "word": "择君记",
+      "onboard_time": 1675429410,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 140519,
@@ -6584,6 +6648,14 @@
       "word": "狂飙导演回应吃肠粉不加酱油",
       "onboard_time": 1675280232,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 130235,
+      "num": 130235,
+      "word": "蒋依依新剧古装造型",
+      "onboard_time": 1675430370,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -6839,6 +6911,14 @@
       "num": 1807729,
       "word": "1月份制造业PMI升至50.1%",
       "onboard_time": 1675170759,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70958,
+      "num": 1236687,
+      "word": "花好灯好月圆人圆",
+      "onboard_time": 1675429711,
       "rank": 2,
       "category": "社会新闻"
     },
