@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675416810566,
+  "endTime": 1675419597107,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -185,6 +185,14 @@
       "onboard_time": 1675399174,
       "rank": 0,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2455474,
+      "num": 2455474,
+      "word": "狂飙官方声明",
+      "onboard_time": 1675416092,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 2449521,
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1600338,
+      "num": 903822,
+      "word": "每周单休双休区别大吗",
+      "onboard_time": 1675415612,
+      "rank": 42,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 1578244,
       "num": 1578244,
       "word": "央视采访发现胡鑫宇尸体的粮库员工",
@@ -633,6 +649,14 @@
       "onboard_time": 1675223793,
       "rank": 5,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1278460,
+      "num": 1278460,
+      "word": "狂飙未播片段",
+      "onboard_time": 1675418370,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1255137,
@@ -1035,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 927106,
+      "num": 927106,
+      "word": "张栋梁回应在大火的时候暂停工作",
+      "onboard_time": 1675418072,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 925476,
       "num": 925476,
       "word": "千斤棺木压手戴10年尾戒保住男子手指",
@@ -1339,19 +1371,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 787389,
+      "num": 787389,
+      "word": "婆婆征求儿媳同意后贴宝宝图",
+      "onboard_time": 1675415069,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 785029,
       "num": 785029,
       "word": "李一桐说拍狂飙像进入顶级叔圈",
       "onboard_time": 1675336292,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 779151,
-      "num": 779151,
-      "word": "狂飙官方声明",
-      "onboard_time": 1675416092,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -2051,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572884,
+      "num": 572884,
+      "word": "广西一服刑人员在监狱遭犯人殴打致死",
+      "onboard_time": 1675416210,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571129,
       "num": 571129,
       "word": "邓先生 这次表现还不够完美",
@@ -2097,14 +2137,6 @@
       "onboard_time": 1675354469,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 559082,
-      "num": 559082,
-      "word": "每周单休双休区别大吗",
-      "onboard_time": 1675415612,
-      "rank": 42,
-      "category": "社会议题"
     },
     {
       "raw_hot": 558042,
@@ -2539,6 +2571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470559,
+      "num": 470559,
+      "word": "杨幂为邓超新电影打call",
+      "onboard_time": 1675418072,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 468053,
       "num": 468053,
       "word": "江西吃辣是真的离谱",
@@ -2737,14 +2777,6 @@
       "onboard_time": 1675403791,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 434629,
-      "num": 434629,
-      "word": "婆婆征求儿媳同意后贴宝宝图",
-      "onboard_time": 1675415069,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 434425,
@@ -3587,6 +3619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325993,
+      "num": 325993,
+      "word": "小猫咪的爪子都要抡冒烟了",
+      "onboard_time": 1675417829,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 325422,
       "num": 325422,
       "word": "流浪地球3刘德华演笨笨吴京演MOSS",
@@ -3673,6 +3713,14 @@
       "onboard_time": 1675400491,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 314688,
+      "num": 314688,
+      "word": "狂飙反派都不知道自己是坏人",
+      "onboard_time": 1675415492,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 314480,
@@ -3785,6 +3833,14 @@
       "onboard_time": 1675406008,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 299154,
+      "num": 299154,
+      "word": "林孝埈1000米晋级",
+      "onboard_time": 1675416751,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 296411,
@@ -4123,14 +4179,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 270529,
-      "num": 270529,
-      "word": "狂飙反派都不知道自己是坏人",
-      "onboard_time": 1675415492,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 269699,
       "num": 269699,
       "word": "江西警方回应100多天才找到胡鑫宇",
@@ -4169,6 +4217,14 @@
       "onboard_time": 1675261299,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 267480,
+      "num": 267480,
+      "word": "当爸妈第一次见到缅因猫",
+      "onboard_time": 1675415791,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 266994,
@@ -4739,14 +4795,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 217449,
-      "num": 217449,
-      "word": "广西一服刑人员在监狱遭犯人殴打致死",
-      "onboard_time": 1675416210,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216497,
       "num": 216497,
       "word": "如何应对渐进式延迟退休",
@@ -4811,12 +4859,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210467,
+      "num": 210467,
+      "word": "江西的狗有多能吃辣",
+      "onboard_time": 1675417230,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209579,
       "num": 209579,
       "word": "苹果iPhone业务收入下降8%",
       "onboard_time": 1675387108,
       "rank": 47,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 208714,
+      "num": 208714,
+      "word": "张若昀杨蓉怕不是在演谍战片吧",
+      "onboard_time": 1675415069,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 208611,
+      "num": 208611,
+      "word": "排便从未如此通畅过",
+      "onboard_time": 1675417110,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 208123,
@@ -4969,22 +5041,6 @@
       "onboard_time": 1675356442,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 199760,
-      "num": 199760,
-      "word": "当爸妈第一次见到缅因猫",
-      "onboard_time": 1675415791,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 199526,
-      "num": 199526,
-      "word": "张若昀杨蓉怕不是在演谍战片吧",
-      "onboard_time": 1675415069,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 199284,
@@ -5675,12 +5731,28 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 170098,
+      "num": 170098,
+      "word": "如何看待艺人上恋综",
+      "onboard_time": 1675418789,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168065,
       "num": 168065,
       "word": "专家说已被注册为商标",
       "onboard_time": 1675394008,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167936,
+      "num": 167936,
+      "word": "发工资时间看公司状态",
+      "onboard_time": 1675419209,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 167399,
@@ -5963,6 +6035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149688,
+      "num": 149688,
+      "word": "生活到底困住了你什么",
+      "onboard_time": 1675418370,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149612,
       "num": 149612,
       "word": "fgo",
@@ -5985,6 +6065,14 @@
       "onboard_time": 1675225296,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147549,
+      "num": 147549,
+      "word": "被复诵满江红点燃热血",
+      "onboard_time": 1675417829,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 146795,
@@ -6027,6 +6115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141686,
+      "num": 141686,
+      "word": "TTG官宣风君回归",
+      "onboard_time": 1675419450,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140519,
       "num": 140519,
       "word": "苹果1月新品怎么选",
@@ -6057,6 +6153,14 @@
       "onboard_time": 1675227276,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138687,
+      "num": 138687,
+      "word": "猫咪的嫌弃都写在脸上了",
+      "onboard_time": 1675418132,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 137074,
@@ -6131,6 +6235,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 130814,
+      "num": 130814,
+      "word": "实习时工资低还要考虑吗",
+      "onboard_time": 1675417829,
+      "rank": 49,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 130759,
       "num": 130759,
       "word": "狂飙导演回应吃肠粉不加酱油",
@@ -6145,14 +6257,6 @@
       "onboard_time": 1675405046,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129187,
-      "num": 129187,
-      "word": "林孝埈1000米晋级",
-      "onboard_time": 1675416751,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 127780,
@@ -6300,7 +6404,7 @@
     },
     {
       "raw_hot": 91512,
-      "num": 1364066,
+      "num": 1432037,
       "word": "太空视角看中国湿地之美",
       "onboard_time": 1675405166,
       "rank": 2,
