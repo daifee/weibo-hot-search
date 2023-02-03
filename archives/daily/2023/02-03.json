@@ -1,6 +1,6 @@
 {
   "startTime": 1675355180251,
-  "endTime": 1675412580991,
+  "endTime": 1675413413386,
   "band_list": [
     {
       "raw_hot": 3324868,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1646931,
+      "num": 845490,
+      "word": "河南一女子衣着暴露跪地表演",
+      "onboard_time": 1675409730,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1509984,
       "num": 1509984,
       "word": "李荣浩要说的大事儿是巡演",
@@ -65,14 +73,6 @@
       "onboard_time": 1675392746,
       "rank": 18,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 1458949,
-      "num": 734911,
-      "word": "河南一女子衣着暴露跪地表演",
-      "onboard_time": 1675409730,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1359195,
@@ -379,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 618247,
+      "num": 618247,
+      "word": "Angelababy杨紫白鹿待播剧男装路透",
+      "onboard_time": 1675412128,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 616959,
       "num": 616959,
       "word": "刘耀文叫王鹤棣棣哥",
@@ -409,14 +417,6 @@
       "onboard_time": 1675352910,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 568249,
-      "num": 568249,
-      "word": "Angelababy杨紫白鹿待播剧男装路透",
-      "onboard_time": 1675412128,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 564538,
@@ -451,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 548644,
+      "num": 548644,
+      "word": "小猫咪有仇当场就报",
+      "onboard_time": 1675410208,
+      "rank": 12,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 539525,
       "num": 539525,
       "word": "声生不息宝岛季你最期待谁",
@@ -481,14 +489,6 @@
       "onboard_time": 1675335513,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 504571,
-      "num": 504571,
-      "word": "小猫咪有仇当场就报",
-      "onboard_time": 1675410208,
-      "rank": 12,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 502341,
@@ -595,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426796,
+      "num": 426796,
+      "word": "满江红居然有欧豪",
+      "onboard_time": 1675409612,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 421949,
       "num": 421949,
       "word": "爱奇艺回应3台设备登录账号被封",
@@ -627,14 +635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 406005,
-      "num": 406005,
-      "word": "满江红居然有欧豪",
-      "onboard_time": 1675409612,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 402269,
       "num": 402269,
       "word": "张雪峰称白酒应多一点国际专利",
@@ -651,20 +651,20 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 383541,
+      "num": 383541,
+      "word": "微信小号有用吗",
+      "onboard_time": 1675410989,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 382251,
       "num": 382251,
       "word": "王一博无名原野天空剧照",
       "onboard_time": 1675408407,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 378888,
-      "num": 378888,
-      "word": "微信小号有用吗",
-      "onboard_time": 1675410989,
-      "rank": 18,
-      "category": "科技"
     },
     {
       "raw_hot": 376523,
@@ -705,6 +705,14 @@
       "onboard_time": 1675398571,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 358735,
+      "num": 358735,
+      "word": "蒲熠星 明灯",
+      "onboard_time": 1675412727,
+      "rank": 19,
+      "category": "综艺,社会议题"
     },
     {
       "raw_hot": 357524,
@@ -939,6 +947,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 275476,
+      "num": 275476,
+      "word": "何洁回应恶评",
+      "onboard_time": 1675413330,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274653,
       "num": 274653,
       "word": "三体古筝行动片头",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1675396408,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263408,
+      "num": 263408,
+      "word": "江西吃辣是真的离谱",
+      "onboard_time": 1675412788,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 261471,
@@ -1179,6 +1203,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 205273,
+      "num": 205273,
+      "word": "吴京给邓超新电影打call",
+      "onboard_time": 1675409792,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204356,
       "num": 204356,
       "word": "辽宁袭击医生嫌疑人被抓获",
@@ -1259,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193873,
+      "num": 193873,
+      "word": "上班时突然想到工资",
+      "onboard_time": 1675412669,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193231,
       "num": 193231,
       "word": "如果狂飙有平行世界",
@@ -1331,11 +1371,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 185248,
-      "num": 185248,
-      "word": "吴京给邓超新电影打call",
-      "onboard_time": 1675409792,
-      "rank": 38,
+      "raw_hot": 187332,
+      "num": 187332,
+      "word": "君子盟删减剧情",
+      "onboard_time": 1675413090,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -1592,6 +1632,14 @@
       "word": "智能电视使用套路",
       "onboard_time": 1675395267,
       "rank": 45,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 133343,
+      "num": 133343,
+      "word": "你还期待微信增加哪些功能",
+      "onboard_time": 1675412727,
+      "rank": 48,
       "category": "科技"
     },
     {
