@@ -1,6 +1,6 @@
 {
   "startTime": 1675441538677,
-  "endTime": 1675478933544,
+  "endTime": 1675480810329,
   "band_list": [
     {
       "raw_hot": 3893603,
@@ -59,6 +59,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1106265,
+      "num": 1106265,
+      "word": "男子2000万买别墅中介闹乌龙卖错房",
+      "onboard_time": 1675478429,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1054257,
       "num": 1054257,
       "word": "立春",
@@ -99,11 +107,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 872355,
+      "num": 872355,
+      "word": "破太岁",
+      "onboard_time": 1675477887,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 812726,
+      "num": 812726,
+      "word": "薛之谦说张靓颖坐反了",
+      "onboard_time": 1675476208,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 780731,
       "num": 780731,
       "word": "00后在过一种很新的立春",
       "onboard_time": 1675476446,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 769350,
+      "num": 769350,
+      "word": "初中男生关在房间烧寒假作业",
+      "onboard_time": 1675477287,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -139,6 +171,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 677471,
+      "num": 677471,
+      "word": "流浪气球",
+      "onboard_time": 1675478247,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628686,
       "num": 628686,
       "word": "查出乳腺结节怎么办",
@@ -147,20 +187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 579938,
-      "num": 579938,
-      "word": "薛之谦说张靓颖坐反了",
-      "onboard_time": 1675476208,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 578965,
       "num": 578965,
       "word": "唐嫣听到罗晋名字心率升高",
       "onboard_time": 1675432652,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 574610,
+      "num": 574610,
+      "word": "大二男生凌晨冲进火场智救6岁女孩",
+      "onboard_time": 1675478907,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 561622,
@@ -187,12 +227,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 545617,
-      "num": 545617,
-      "word": "破太岁",
-      "onboard_time": 1675477887,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 545546,
+      "num": 545546,
+      "word": "气出来的乳腺增生",
+      "onboard_time": 1675478726,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 541416,
@@ -233,14 +273,6 @@
       "onboard_time": 1675432893,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 436266,
-      "num": 436266,
-      "word": "初中男生关在房间烧寒假作业",
-      "onboard_time": 1675477287,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432375,
@@ -403,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310788,
+      "num": 310788,
+      "word": "白鹿学院风大衣水桶帽上班路透",
+      "onboard_time": 1675480106,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 304982,
       "num": 304982,
       "word": "历史学者称岳飞长的像岳云鹏",
@@ -441,6 +481,14 @@
       "onboard_time": 1675425090,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280141,
+      "num": 280141,
+      "word": "时代少年团下班路透",
+      "onboard_time": 1675480346,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 278233,
@@ -483,11 +531,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243937,
-      "num": 243937,
-      "word": "流浪气球",
-      "onboard_time": 1675478247,
-      "rank": 46,
+      "raw_hot": 244806,
+      "num": 244806,
+      "word": "教授称年轻人不是鹤岗类城市的目标",
+      "onboard_time": 1675479447,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -529,14 +577,6 @@
       "onboard_time": 1675439791,
       "rank": 28,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 228840,
-      "num": 228840,
-      "word": "男子2000万买别墅中介闹乌龙卖错房",
-      "onboard_time": 1675478429,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228587,
@@ -587,12 +627,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204354,
+      "num": 204354,
+      "word": "仁科对李宇春的歌轻敌了",
+      "onboard_time": 1675479507,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201612,
+      "num": 201612,
+      "word": "欧文有意湖人",
+      "onboard_time": 1675476686,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198032,
       "num": 198032,
       "word": "立春的到来意味着什么",
       "onboard_time": 1675467799,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192070,
+      "num": 192070,
+      "word": "张俪跳伞是第一个上的",
+      "onboard_time": 1675480707,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 191935,
@@ -633,14 +697,6 @@
       "onboard_time": 1675475066,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185545,
-      "num": 185545,
-      "word": "欧文有意湖人",
-      "onboard_time": 1675476686,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 184967,
@@ -731,6 +787,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155692,
+      "num": 155692,
+      "word": "城市女性比农村女性更易得乳腺癌",
+      "onboard_time": 1675480167,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154733,
+      "num": 154733,
+      "word": "女士的品格接档去有风的地方",
+      "onboard_time": 1675480286,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149548,
       "num": 149548,
       "word": "流浪地球",
@@ -811,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132141,
+      "num": 132141,
+      "word": "良性乳腺结节一般不会发生癌变",
+      "onboard_time": 1675479809,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127496,
       "num": 127496,
       "word": "杨易淘汰",
@@ -819,12 +899,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120563,
-      "num": 120563,
-      "word": "气出来的乳腺增生",
-      "onboard_time": 1675478726,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 121910,
+      "num": 121910,
+      "word": "立春该吃啥",
+      "onboard_time": 1675480526,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 109341,
@@ -833,14 +913,6 @@
       "onboard_time": 1675434154,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108451,
-      "num": 108451,
-      "word": "大二男生凌晨冲进火场智救6岁女孩",
-      "onboard_time": 1675478907,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 107674,
@@ -915,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73541,
+      "num": 1108728,
+      "word": "风和日暖人勤春早",
+      "onboard_time": 1675479209,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54611,
       "num": 54611,
       "word": "龚俊看词猜东北话意思",
@@ -953,6 +1033,9 @@
     },
     {
       "word": "#元宵赏月指南#"
+    },
+    {
+      "word": "#北京冬奥会的雪花永远盛放#"
     }
   ]
 }
