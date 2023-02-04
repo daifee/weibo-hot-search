@@ -1,0 +1,410 @@
+{
+  "runTime": 1675509288206,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1672799,
+        "num": 1672799,
+        "word": "美国两架客机在机场相撞",
+        "onboard_time": 1675503808,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1117055,
+        "num": 1117055,
+        "word": "兄妹4人花38万在农村给父母盖养老房",
+        "onboard_time": 1675504048,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16324,
+        "num": 917556,
+        "word": "风和日暖人勤春早",
+        "onboard_time": 1675479209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862849,
+        "num": 862849,
+        "word": "赵露思演的孙头头人小辈大",
+        "onboard_time": 1675505550,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 732808,
+        "num": 732808,
+        "word": "42岁张柏芝和44岁沙溢同框",
+        "onboard_time": 1675505488,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 610883,
+        "num": 610883,
+        "word": "游客洪崖洞花30元找当地大爷抄近道",
+        "onboard_time": 1675496368,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 601033,
+        "num": 601033,
+        "word": "大学生寒假点外卖现状",
+        "onboard_time": 1675505250,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 572867,
+        "num": 572867,
+        "word": "女子疑打车花80元被婆家罚跪跑圈",
+        "onboard_time": 1675502009,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510575,
+        "num": 510575,
+        "word": "吴刚赵露思罗一舟后浪24节气版预告",
+        "onboard_time": 1675504528,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499267,
+        "num": 499267,
+        "word": "狂飙2没你们我不看",
+        "onboard_time": 1675493610,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490330,
+        "num": 490330,
+        "word": "吴刚说庆余年2快了",
+        "onboard_time": 1675507408,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438050,
+        "num": 438050,
+        "word": "癌症的3个身体求救信号",
+        "onboard_time": 1675485567,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372184,
+        "num": 372184,
+        "word": "沈月说我没有不服我只有不足",
+        "onboard_time": 1675502606,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357248,
+        "num": 357248,
+        "word": "制止男童进女厕女子称对方已道歉",
+        "onboard_time": 1675501050,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18222,
+        "num": 353576,
+        "word": "比亚迪汽车王者荣耀高校赛",
+        "onboard_time": 1675508428,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 353028,
+        "num": 353028,
+        "word": "女子发现超市1个橙子卖128元",
+        "onboard_time": 1675500690,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340545,
+        "num": 340545,
+        "word": "深海",
+        "onboard_time": 1675507050,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322233,
+        "num": 322233,
+        "word": "咖啡渣居然能去黑眼圈",
+        "onboard_time": 1675501346,
+        "rank": 17,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 313962,
+        "num": 313962,
+        "word": "研究发现易胖和易瘦者的大脑不同",
+        "onboard_time": 1675498048,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281202,
+        "num": 281202,
+        "word": "台湾网友看了狂飙想去广东吃肠粉",
+        "onboard_time": 1675491205,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254051,
+        "num": 254051,
+        "word": "捡到无毛猫却养不起",
+        "onboard_time": 1675503450,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252590,
+        "num": 252590,
+        "word": "父亲在公园眼睁睁看着女儿被亲",
+        "onboard_time": 1675493251,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247291,
+        "num": 247291,
+        "word": "你好星期六",
+        "onboard_time": 1675506687,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235063,
+        "num": 235063,
+        "word": "君子盟",
+        "onboard_time": 1675507169,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233462,
+        "num": 233462,
+        "word": "连狗狗都有狗狗了",
+        "onboard_time": 1675508608,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233098,
+        "num": 233098,
+        "word": "时代少年团全员震惊表情包",
+        "onboard_time": 1675504829,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220325,
+        "num": 220325,
+        "word": "满江红",
+        "onboard_time": 1675506207,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219972,
+        "num": 219972,
+        "word": "孙俪看邓超跳广场舞表情演我",
+        "onboard_time": 1675506929,
+        "rank": 27,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 219482,
+        "num": 219482,
+        "word": "34岁女子过年被催婚患上抑郁症",
+        "onboard_time": 1675494328,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216738,
+        "num": 216738,
+        "word": "怎么有猫舔不到自己的毛啊",
+        "onboard_time": 1675501889,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204382,
+        "num": 204382,
+        "word": "分不清李一桐白鹿",
+        "onboard_time": 1675491267,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192180,
+        "num": 192180,
+        "word": "这是看狂飙魔怔了",
+        "onboard_time": 1675508249,
+        "rank": 31,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 188334,
+        "num": 188334,
+        "word": "张颂文曾经是广东省最佳导游",
+        "onboard_time": 1675489647,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184195,
+        "num": 184195,
+        "word": "武大靖叫宋妍霏塞塞",
+        "onboard_time": 1675509088,
+        "rank": 33,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 173419,
+        "num": 173419,
+        "word": "躲春是迷信吗",
+        "onboard_time": 1675486589,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165018,
+        "num": 165018,
+        "word": "湖南一男子当街殴打掌掴女子",
+        "onboard_time": 1675499487,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 163719,
+        "num": 163719,
+        "word": "女孩总喊腹痛被说厌学查出恶性肿瘤",
+        "onboard_time": 1675492347,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159924,
+        "num": 159924,
+        "word": "王鹤棣时宴戳头杀",
+        "onboard_time": 1675500985,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156701,
+        "num": 156701,
+        "word": "你被水果刺客劝退过吗",
+        "onboard_time": 1675508068,
+        "rank": 38,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 153000,
+        "num": 153000,
+        "word": "父亲借女儿3万压岁钱不还被起诉",
+        "onboard_time": 1675491807,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152076,
+        "num": 152076,
+        "word": "流浪狗的世界出现了一束光",
+        "onboard_time": 1675508187,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144698,
+        "num": 144698,
+        "word": "得到了流浪小狗的认可",
+        "onboard_time": 1675504408,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140608,
+        "num": 140608,
+        "word": "狂飙的取景地找到了",
+        "onboard_time": 1675499008,
+        "rank": 42,
+        "category": "影视,旅游"
+      },
+      {
+        "raw_hot": 134717,
+        "num": 134717,
+        "word": "TangoZ看AOMG演唱会",
+        "onboard_time": 1675503628,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133282,
+        "num": 133282,
+        "word": "IG对战TT",
+        "onboard_time": 1675504108,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124715,
+        "num": 124715,
+        "word": "华晨宇的愿望是飞行模式自由",
+        "onboard_time": 1675506808,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120777,
+        "num": 120777,
+        "word": "李宇春惋惜陈粒淘汰",
+        "onboard_time": 1675504888,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119907,
+        "num": 119907,
+        "word": "王一博无名西装造型插兜花絮",
+        "onboard_time": 1675505129,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110650,
+        "num": 110650,
+        "word": "中美双方都没有宣布过什么访问",
+        "onboard_time": 1675485326,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 105818,
+        "num": 105818,
+        "word": "兔年想活成曾黎",
+        "onboard_time": 1675500388,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京冬奥会的雪花永远盛放#"
+    }
+  }
+}
