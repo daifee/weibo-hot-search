@@ -1,6 +1,6 @@
 {
   "startTime": 1675527843138,
-  "endTime": 1675528855399,
+  "endTime": 1675530924645,
   "band_list": [
     {
       "raw_hot": 1429675,
@@ -59,6 +59,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 490790,
+      "num": 490790,
+      "word": "被三体第29集震撼到了",
+      "onboard_time": 1675526669,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 465616,
       "num": 386779,
       "word": "女子吐槽30岁相亲不是二婚就是老头",
@@ -75,12 +83,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 402399,
-      "num": 402399,
-      "word": "被三体第29集震撼到了",
-      "onboard_time": 1675526669,
-      "rank": 14,
-      "category": "影视"
+      "raw_hot": 357386,
+      "num": 357386,
+      "word": "巴黎圣日耳曼vs图卢兹",
+      "onboard_time": 1675527806,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 351747,
@@ -155,6 +163,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 241535,
+      "num": 241535,
+      "word": "荣梓杉被尔冬升的严厉吓到",
+      "onboard_time": 1675527685,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235877,
       "num": 235877,
       "word": "朴灿烈吴世勋见面会生图",
@@ -195,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209159,
-      "num": 209159,
-      "word": "巴黎圣日耳曼vs图卢兹",
-      "onboard_time": 1675527806,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192433,
       "num": 192433,
       "word": "第一次见咖啡肠粉",
@@ -219,6 +227,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187829,
+      "num": 187829,
+      "word": "赵樱子当群演再次落选",
+      "onboard_time": 1675527748,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186272,
+      "num": 186272,
+      "word": "2023LPL春季赛",
+      "onboard_time": 1675530442,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182919,
       "num": 182919,
       "word": "38岁男子因未婚被母亲带医院检查",
@@ -233,14 +257,6 @@
       "onboard_time": 1675519412,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180472,
-      "num": 180472,
-      "word": "荣梓杉被尔冬升的严厉吓到",
-      "onboard_time": 1675527685,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 174239,
@@ -299,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143818,
+      "num": 143818,
+      "word": "时代少年团你好星期六唱的百忧戒",
+      "onboard_time": 1675530620,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140445,
       "num": 140445,
       "word": "权顺荣说追星不容易",
@@ -347,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124660,
-      "num": 124660,
-      "word": "赵樱子当群演再次落选",
-      "onboard_time": 1675527748,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 123942,
+      "num": 123942,
+      "word": "曼联vs水晶宫",
+      "onboard_time": 1675522533,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 121019,
@@ -411,14 +435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 103812,
-      "num": 103812,
-      "word": "曼联vs水晶宫",
-      "onboard_time": 1675522533,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 27967,
       "num": 1145502,
       "word": "全国元宵节花灯大比拼",
@@ -430,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#实现冬奥遗产利用效益最大化#"
+    },
+    {
+      "word": "#总书记跨越千里的惦念#"
     }
   ]
 }
