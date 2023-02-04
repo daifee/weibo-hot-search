@@ -1,0 +1,410 @@
+{
+  "runTime": 1675517588866,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1025629,
+        "num": 1025629,
+        "word": "李一桐郭晓婷不到90斤",
+        "onboard_time": 1675512270,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 946691,
+        "num": 946691,
+        "word": "恃宠",
+        "onboard_time": 1675514490,
+        "rank": 1,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 16528,
+        "num": 855440,
+        "word": "和春天相约",
+        "onboard_time": 1675497627,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1952472,
+        "num": 855286,
+        "word": "刚领证7天男子被妻子打进医院",
+        "onboard_time": 1675513410,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853391,
+        "num": 853391,
+        "word": "高启强听完都得哭两声",
+        "onboard_time": 1675510708,
+        "rank": 4,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 840748,
+        "num": 840748,
+        "word": "42岁张柏芝和44岁沙溢同框",
+        "onboard_time": 1675505488,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 769723,
+        "num": 769723,
+        "word": "遭遇断崖式分手如何走出来",
+        "onboard_time": 1675513590,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 751669,
+        "num": 751669,
+        "word": "女子吐槽30岁相亲不是二婚就是老头",
+        "onboard_time": 1675514187,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 544248,
+        "num": 544248,
+        "word": "宋亚轩提醒田震",
+        "onboard_time": 1675515211,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527491,
+        "num": 527491,
+        "word": "38岁男子因未婚被母亲带医院检查",
+        "onboard_time": 1675512510,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1093796,
+        "num": 523979,
+        "word": "专家再谈劝百姓拿出三分之一存款买房",
+        "onboard_time": 1675511910,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 502467,
+        "num": 502467,
+        "word": "男子车被刮发现6只狗打1只猫",
+        "onboard_time": 1675511670,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447027,
+        "num": 447027,
+        "word": "iPhone微信转账语音播报出错",
+        "onboard_time": 1675510409,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 428496,
+        "num": 428496,
+        "word": "少爷和我龙傲天你好星期六VCR好惊喜",
+        "onboard_time": 1675515751,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377425,
+        "num": 377425,
+        "word": "兄妹4人花38万在农村给父母盖养老房",
+        "onboard_time": 1675504048,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363653,
+        "num": 363653,
+        "word": "宋亚轩说刘耀文发量少",
+        "onboard_time": 1675516711,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359347,
+        "num": 359347,
+        "word": "19岁男孩患阿尔兹海默症",
+        "onboard_time": 1675516232,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346865,
+        "num": 346865,
+        "word": "人气超高但你却无感的水果",
+        "onboard_time": 1675514788,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 329877,
+        "num": 329877,
+        "word": "刘怡潼说热度破8000穿婚纱自拍",
+        "onboard_time": 1675511970,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319433,
+        "num": 319433,
+        "word": "美国两架客机在机场相撞",
+        "onboard_time": 1675503808,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309235,
+        "num": 309235,
+        "word": "高启强意想不到的出圈方式",
+        "onboard_time": 1675516471,
+        "rank": 20,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 294190,
+        "num": 294190,
+        "word": "BLG对战WBG",
+        "onboard_time": 1675516592,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274746,
+        "num": 274746,
+        "word": "邓超说准备面试苏有朋导的戏",
+        "onboard_time": 1675514609,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263655,
+        "num": 263655,
+        "word": "井柏然去宋威龙房车蹭饭",
+        "onboard_time": 1675515030,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260519,
+        "num": 260519,
+        "word": "连狗狗都有狗狗了",
+        "onboard_time": 1675508608,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257349,
+        "num": 257349,
+        "word": "妇联回应女子被婆家罚跪",
+        "onboard_time": 1675515092,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247042,
+        "num": 247042,
+        "word": "狂飙2没你们我不看",
+        "onboard_time": 1675493610,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234180,
+        "num": 234180,
+        "word": "赵露思演的孙头头人小辈大",
+        "onboard_time": 1675505550,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231324,
+        "num": 231324,
+        "word": "刘耀文一镜到底吃8碗面",
+        "onboard_time": 1675517372,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221431,
+        "num": 221431,
+        "word": "吴刚说庆余年2快了",
+        "onboard_time": 1675507408,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212906,
+        "num": 212906,
+        "word": "李一桐郭晓婷相声二人组",
+        "onboard_time": 1675516892,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212131,
+        "num": 212131,
+        "word": "宋威龙直播叫井柏然大叔",
+        "onboard_time": 1675513769,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209421,
+        "num": 209421,
+        "word": "黄绮珊8年前后对比照",
+        "onboard_time": 1675516711,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207419,
+        "num": 207419,
+        "word": "制止男童进女厕女子称对方已道歉",
+        "onboard_time": 1675501050,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206044,
+        "num": 206044,
+        "word": "游客洪崖洞花30元找当地大爷抄近道",
+        "onboard_time": 1675496368,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 202628,
+        "num": 202628,
+        "word": "深海",
+        "onboard_time": 1675507050,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201979,
+        "num": 201979,
+        "word": "你会考虑在农村盖养老房吗",
+        "onboard_time": 1675515932,
+        "rank": 36,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 194244,
+        "num": 194244,
+        "word": "第一次见咖啡肠粉",
+        "onboard_time": 1675516892,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185952,
+        "num": 185952,
+        "word": "权顺荣剧透PLEDIS新男团将今年出道",
+        "onboard_time": 1675514430,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185492,
+        "num": 185492,
+        "word": "梳小平头的猫咪",
+        "onboard_time": 1675512029,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176233,
+        "num": 176233,
+        "word": "谢谢张颂文聊天表情包很好用",
+        "onboard_time": 1675510053,
+        "rank": 40,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 169122,
+        "num": 169122,
+        "word": "贺峻霖说为了贴丁程鑫要拼命地赢",
+        "onboard_time": 1675514972,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159949,
+        "num": 159949,
+        "word": "女子发现超市1个橙子卖128元",
+        "onboard_time": 1675500690,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155901,
+        "num": 155901,
+        "word": "研究发现易胖和易瘦者的大脑不同",
+        "onboard_time": 1675498048,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150879,
+        "num": 150879,
+        "word": "这就是司机经常骂人的原因",
+        "onboard_time": 1675514910,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133758,
+        "num": 133758,
+        "word": "癌症的3个身体求救信号",
+        "onboard_time": 1675485567,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132011,
+        "num": 132011,
+        "word": "咖啡渣居然能去黑眼圈",
+        "onboard_time": 1675501346,
+        "rank": 46,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 131801,
+        "num": 131801,
+        "word": "台湾网友看了狂飙想去广东吃肠粉",
+        "onboard_time": 1675491205,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125411,
+        "num": 125411,
+        "word": "无名王一博王传君观摩梁朝伟演戏",
+        "onboard_time": 1675511191,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122201,
+        "num": 122201,
+        "word": "沈月说我没有不服我只有不足",
+        "onboard_time": 1675502606,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京冬奥会的雪花永远盛放#"
+    }
+  }
+}

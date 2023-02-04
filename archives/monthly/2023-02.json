@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675516858490,
+  "endTime": 1675517588866,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -331,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1952472,
+      "num": 894145,
+      "word": "刚领证7天男子被妻子打进医院",
+      "onboard_time": 1675513410,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1949008,
       "num": 1949008,
       "word": "嗯哼长青春痘了",
@@ -401,14 +409,6 @@
       "onboard_time": 1675254691,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1801383,
-      "num": 894145,
-      "word": "刚领证7天男子被妻子打进医院",
-      "onboard_time": 1675513410,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1798545,
@@ -1179,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1025629,
+      "num": 1025629,
+      "word": "李一桐郭晓婷不到90斤",
+      "onboard_time": 1675512270,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1023824,
       "num": 1023824,
       "word": "山东强盛集团的保安大爷有多硬核",
@@ -1225,14 +1233,6 @@
       "onboard_time": 1675247254,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 977744,
-      "num": 977744,
-      "word": "李一桐郭晓婷不到90斤",
-      "onboard_time": 1675512270,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 975836,
@@ -1305,6 +1305,14 @@
       "onboard_time": 1675329634,
       "rank": 11,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 946691,
+      "num": 946691,
+      "word": "恃宠",
+      "onboard_time": 1675514490,
+      "rank": 24,
+      "category": "其它"
     },
     {
       "raw_hot": 939879,
@@ -1561,14 +1569,6 @@
       "onboard_time": 1675207942,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 844930,
-      "num": 844930,
-      "word": "恃宠",
-      "onboard_time": 1675514490,
-      "rank": 24,
-      "category": "其它"
     },
     {
       "raw_hot": 841413,
@@ -1849,6 +1849,14 @@
       "onboard_time": 1675382485,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 751669,
+      "num": 751669,
+      "word": "女子吐槽30岁相亲不是二婚就是老头",
+      "onboard_time": 1675514187,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 750245,
@@ -2297,14 +2305,6 @@
       "onboard_time": 1675385906,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 661133,
-      "num": 661133,
-      "word": "女子吐槽30岁相亲不是二婚就是老头",
-      "onboard_time": 1675514187,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 659438,
@@ -4371,6 +4371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363653,
+      "num": 363653,
+      "word": "宋亚轩说刘耀文发量少",
+      "onboard_time": 1675516711,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361702,
       "num": 361702,
       "word": "女子宝娟嗓20年疑似癔症",
@@ -4409,6 +4417,14 @@
       "onboard_time": 1675229312,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359347,
+      "num": 359347,
+      "word": "19岁男孩患阿尔兹海默症",
+      "onboard_time": 1675516232,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358735,
@@ -4571,6 +4587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346865,
+      "num": 346865,
+      "word": "人气超高但你却无感的水果",
+      "onboard_time": 1675514788,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 345642,
       "num": 345642,
       "word": "虞书欣粉色抹胸碎花裙",
@@ -4729,14 +4753,6 @@
       "onboard_time": 1675296567,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330655,
-      "num": 330655,
-      "word": "人气超高但你却无感的水果",
-      "onboard_time": 1675514788,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 330587,
@@ -5027,6 +5043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309235,
+      "num": 309235,
+      "word": "高启强意想不到的出圈方式",
+      "onboard_time": 1675516471,
+      "rank": 37,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 308181,
       "num": 308181,
       "word": "警方回应胡鑫宇事件相关谣言",
@@ -5211,6 +5235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294190,
+      "num": 294190,
+      "word": "BLG对战WBG",
+      "onboard_time": 1675516592,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 293743,
       "num": 293743,
       "word": "高中的友谊会是一辈子的友谊",
@@ -5345,14 +5377,6 @@
       "onboard_time": 1675483347,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 286013,
-      "num": 286013,
-      "word": "BLG对战WBG",
-      "onboard_time": 1675516592,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 285449,
@@ -5745,6 +5769,14 @@
       "onboard_time": 1675336173,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263655,
+      "num": 263655,
+      "word": "井柏然去宋威龙房车蹭饭",
+      "onboard_time": 1675515030,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 263308,
@@ -6291,6 +6323,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 231324,
+      "num": 231324,
+      "word": "刘耀文一镜到底吃8碗面",
+      "onboard_time": 1675517372,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231150,
       "num": 231150,
       "word": "流浪地球2为何如此受欢迎",
@@ -6361,14 +6401,6 @@
       "onboard_time": 1675417110,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 228298,
-      "num": 228298,
-      "word": "井柏然去宋威龙房车蹭饭",
-      "onboard_time": 1675515030,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 227215,
@@ -6611,20 +6643,20 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 213535,
-      "num": 202604,
-      "word": "宋亚轩说刘耀文发量少",
-      "onboard_time": 1675516711,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212943,
       "num": 212943,
       "word": "小猫也懂重色轻友",
       "onboard_time": 1675316672,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 212906,
+      "num": 212906,
+      "word": "李一桐郭晓婷相声二人组",
+      "onboard_time": 1675516892,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 212899,
@@ -6681,6 +6713,14 @@
       "onboard_time": 1675387108,
       "rank": 47,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 209421,
+      "num": 209421,
+      "word": "黄绮珊8年前后对比照",
+      "onboard_time": 1675516711,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 208123,
@@ -6817,6 +6857,14 @@
       "onboard_time": 1675392087,
       "rank": 38,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 201979,
+      "num": 201979,
+      "word": "你会考虑在农村盖养老房吗",
+      "onboard_time": 1675515932,
+      "rank": 46,
+      "category": "社会议题"
     },
     {
       "raw_hot": 201977,
@@ -7057,6 +7105,14 @@
       "onboard_time": 1675510291,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194244,
+      "num": 194244,
+      "word": "第一次见咖啡肠粉",
+      "onboard_time": 1675516892,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 193887,
@@ -7651,14 +7707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175253,
-      "num": 175253,
-      "word": "19岁男孩患阿尔兹海默症",
-      "onboard_time": 1675516232,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175150,
       "num": 165874,
       "word": "范丞丞支持电影中国乒乓",
@@ -7745,14 +7793,6 @@
       "onboard_time": 1675255590,
       "rank": 49,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 172429,
-      "num": 172429,
-      "word": "高启强意想不到的出圈方式",
-      "onboard_time": 1675516471,
-      "rank": 37,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 172403,
@@ -8323,14 +8363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 151758,
-      "num": 151758,
-      "word": "黄绮珊8年前后对比照",
-      "onboard_time": 1675516711,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151626,
       "num": 151626,
       "word": "赵梦跳伞时喊郑秀妍的名字",
@@ -8601,14 +8633,6 @@
       "onboard_time": 1675271959,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136492,
-      "num": 136492,
-      "word": "你会考虑在农村盖养老房吗",
-      "onboard_time": 1675515932,
-      "rank": 46,
-      "category": "社会议题"
     },
     {
       "raw_hot": 135937,

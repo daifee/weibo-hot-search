@@ -1,6 +1,6 @@
 {
   "startTime": 1675441538677,
-  "endTime": 1675516858490,
+  "endTime": 1675517588866,
   "band_list": [
     {
       "raw_hot": 3893603,
@@ -19,19 +19,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1952472,
+      "num": 894145,
+      "word": "刚领证7天男子被妻子打进医院",
+      "onboard_time": 1675513410,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1839550,
       "num": 1839550,
       "word": "癌症的3个身体求救信号",
       "onboard_time": 1675485567,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1801383,
-      "num": 894145,
-      "word": "刚领证7天男子被妻子打进医院",
-      "onboard_time": 1675513410,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -179,20 +179,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1025629,
+      "num": 1025629,
+      "word": "李一桐郭晓婷不到90斤",
+      "onboard_time": 1675512270,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1017851,
       "num": 1017851,
       "word": "杨紫腿部受伤",
       "onboard_time": 1675438169,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 977744,
-      "num": 977744,
-      "word": "李一桐郭晓婷不到90斤",
-      "onboard_time": 1675512270,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 965201,
@@ -217,6 +217,14 @@
       "onboard_time": 1675510708,
       "rank": 4,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 946691,
+      "num": 946691,
+      "word": "恃宠",
+      "onboard_time": 1675514490,
+      "rank": 24,
+      "category": "其它"
     },
     {
       "raw_hot": 932879,
@@ -299,14 +307,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 844930,
-      "num": 844930,
-      "word": "恃宠",
-      "onboard_time": 1675514490,
-      "rank": 24,
-      "category": "其它"
-    },
-    {
       "raw_hot": 821373,
       "num": 821373,
       "word": "薛之谦说张靓颖坐反了",
@@ -361,6 +361,14 @@
       "onboard_time": 1675437451,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 751669,
+      "num": 751669,
+      "word": "女子吐槽30岁相亲不是二婚就是老头",
+      "onboard_time": 1675514187,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 731996,
@@ -457,14 +465,6 @@
       "onboard_time": 1675501050,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 661133,
-      "num": 661133,
-      "word": "女子吐槽30岁相亲不是二婚就是老头",
-      "onboard_time": 1675514187,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 658641,
@@ -875,6 +875,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 363653,
+      "num": 363653,
+      "word": "宋亚轩说刘耀文发量少",
+      "onboard_time": 1675516711,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360839,
       "num": 360839,
       "word": "父亲回应6岁儿子做饭致全身烧伤",
@@ -888,6 +896,14 @@
       "word": "用过期口罩做兔子灯笼",
       "onboard_time": 1675470384,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359347,
+      "num": 359347,
+      "word": "19岁男孩患阿尔兹海默症",
+      "onboard_time": 1675516232,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -913,6 +929,14 @@
       "onboard_time": 1675476208,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346865,
+      "num": 346865,
+      "word": "人气超高但你却无感的水果",
+      "onboard_time": 1675514788,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 342637,
@@ -945,14 +969,6 @@
       "onboard_time": 1675504829,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 330655,
-      "num": 330655,
-      "word": "人气超高但你却无感的水果",
-      "onboard_time": 1675514788,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 327086,
@@ -1051,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309235,
+      "num": 309235,
+      "word": "高启强意想不到的出圈方式",
+      "onboard_time": 1675516471,
+      "rank": 37,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 307443,
       "num": 307443,
       "word": "邓超说准备面试苏有朋导的戏",
@@ -1091,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294190,
+      "num": 294190,
+      "word": "BLG对战WBG",
+      "onboard_time": 1675516592,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 291948,
       "num": 291948,
       "word": "俄军首批战斗机器人抵达顿巴斯",
@@ -1129,14 +1161,6 @@
       "onboard_time": 1675483347,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 286013,
-      "num": 286013,
-      "word": "BLG对战WBG",
-      "onboard_time": 1675516592,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 283146,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1675515092,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263655,
+      "num": 263655,
+      "word": "井柏然去宋威龙房车蹭饭",
+      "onboard_time": 1675515030,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 262055,
@@ -1371,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231324,
+      "num": 231324,
+      "word": "刘耀文一镜到底吃8碗面",
+      "onboard_time": 1675517372,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230928,
       "num": 230928,
       "word": "大象限号所以骑鸵鸟出门了",
@@ -1393,14 +1433,6 @@
       "onboard_time": 1675432712,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228298,
-      "num": 228298,
-      "word": "井柏然去宋威龙房车蹭饭",
-      "onboard_time": 1675515030,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 227858,
@@ -1483,11 +1515,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213535,
-      "num": 202604,
-      "word": "宋亚轩说刘耀文发量少",
-      "onboard_time": 1675516711,
-      "rank": 32,
+      "raw_hot": 212906,
+      "num": 212906,
+      "word": "李一桐郭晓婷相声二人组",
+      "onboard_time": 1675516892,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1515,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209421,
+      "num": 209421,
+      "word": "黄绮珊8年前后对比照",
+      "onboard_time": 1675516711,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207986,
       "num": 194821,
       "word": "还以为坐上了太空电梯",
@@ -1537,6 +1577,14 @@
       "onboard_time": 1675479507,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201979,
+      "num": 201979,
+      "word": "你会考虑在农村盖养老房吗",
+      "onboard_time": 1675515932,
+      "rank": 46,
+      "category": "社会议题"
     },
     {
       "raw_hot": 201793,
@@ -1585,6 +1633,14 @@
       "onboard_time": 1675510291,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194244,
+      "num": 194244,
+      "word": "第一次见咖啡肠粉",
+      "onboard_time": 1675516892,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 191935,
@@ -1715,14 +1771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175253,
-      "num": 175253,
-      "word": "19岁男孩患阿尔兹海默症",
-      "onboard_time": 1675516232,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173696,
       "num": 173696,
       "word": "得到了流浪小狗的认可",
@@ -1737,14 +1785,6 @@
       "onboard_time": 1675484607,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 172429,
-      "num": 172429,
-      "word": "高启强意想不到的出圈方式",
-      "onboard_time": 1675516471,
-      "rank": 37,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 170867,
@@ -1915,14 +1955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 151758,
-      "num": 151758,
-      "word": "黄绮珊8年前后对比照",
-      "onboard_time": 1675516711,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 149548,
       "num": 149548,
       "word": "流浪地球",
@@ -2033,14 +2065,6 @@
       "onboard_time": 1675474047,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136492,
-      "num": 136492,
-      "word": "你会考虑在农村盖养老房吗",
-      "onboard_time": 1675515932,
-      "rank": 46,
-      "category": "社会议题"
     },
     {
       "raw_hot": 135208,
