@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675515003698,
+  "endTime": 1675516858490,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -649,6 +649,14 @@
       "onboard_time": 1675081471,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1801383,
+      "num": 894145,
+      "word": "刚领证7天男子被妻子打进医院",
+      "onboard_time": 1675513410,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1798545,
@@ -1363,14 +1371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1207809,
-      "num": 812665,
-      "word": "刚领证7天男子被妻子打进医院",
-      "onboard_time": 1675513410,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1207503,
       "num": 1207503,
       "word": "张译新剧再演警察",
@@ -1963,6 +1963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 977744,
+      "num": 977744,
+      "word": "李一桐郭晓婷不到90斤",
+      "onboard_time": 1675512270,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 975836,
       "num": 975836,
       "word": "孟钰的包15万",
@@ -2025,6 +2033,14 @@
       "onboard_time": 1675258356,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 954514,
+      "num": 954514,
+      "word": "高启强听完都得哭两声",
+      "onboard_time": 1675510708,
+      "rank": 4,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 954061,
@@ -2443,6 +2459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 844930,
+      "num": 844930,
+      "word": "恃宠",
+      "onboard_time": 1675514490,
+      "rank": 24,
+      "category": "其它"
+    },
+    {
       "raw_hot": 841413,
       "num": 841413,
       "word": "狂飙删减",
@@ -2723,6 +2747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771632,
+      "num": 771632,
+      "word": "遭遇断崖式分手如何走出来",
+      "onboard_time": 1675513590,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 771620,
       "num": 771620,
       "word": "王一博16岁时和姚晨演过大学情侣",
@@ -2833,14 +2865,6 @@
       "onboard_time": 1675382485,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 752131,
-      "num": 752131,
-      "word": "高启强听完都得哭两声",
-      "onboard_time": 1675510708,
-      "rank": 4,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 750245,
@@ -3017,14 +3041,6 @@
       "onboard_time": 1675338453,
       "rank": 12,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 720597,
-      "num": 720597,
-      "word": "李一桐郭晓婷不到90斤",
-      "onboard_time": 1675512270,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 720264,
@@ -3419,6 +3435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 661133,
+      "num": 661133,
+      "word": "女子吐槽30岁相亲不是二婚就是老头",
+      "onboard_time": 1675514187,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 660341,
       "num": 660341,
       "word": "网剧飞驰人生全阵容官宣",
@@ -3803,14 +3827,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 615673,
-      "num": 615673,
-      "word": "遭遇断崖式分手如何走出来",
-      "onboard_time": 1675513590,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 611197,
       "num": 611197,
       "word": "李飞对时代少年团成员的评价",
@@ -3905,6 +3921,14 @@
       "onboard_time": 1675352910,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 596731,
+      "num": 596731,
+      "word": "宋亚轩提醒田震",
+      "onboard_time": 1675515211,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 596234,
@@ -4905,6 +4929,14 @@
       "onboard_time": 1675143390,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 494221,
+      "num": 494221,
+      "word": "少爷和我龙傲天你好星期六VCR好惊喜",
+      "onboard_time": 1675515751,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 493363,
@@ -7059,6 +7091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 330655,
+      "num": 330655,
+      "word": "人气超高但你却无感的水果",
+      "onboard_time": 1675514788,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 330587,
       "num": 330587,
       "word": "杨晓培晒与赵露思合影",
@@ -7507,6 +7547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307443,
+      "num": 307443,
+      "word": "邓超说准备面试苏有朋导的戏",
+      "onboard_time": 1675514609,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307195,
       "num": 307195,
       "word": "众人在轿车爆燃前救出车主",
@@ -7739,14 +7787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 293950,
-      "num": 293950,
-      "word": "女子吐槽30岁相亲不是二婚就是老头",
-      "onboard_time": 1675514187,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 293743,
       "num": 293743,
       "word": "高中的友谊会是一辈子的友谊",
@@ -7945,6 +7985,14 @@
       "onboard_time": 1675483347,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286013,
+      "num": 286013,
+      "word": "BLG对战WBG",
+      "onboard_time": 1675516592,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 286011,
@@ -8411,6 +8459,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 266567,
+      "num": 266567,
+      "word": "妇联回应女子被婆家罚跪",
+      "onboard_time": 1675515092,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266240,
       "num": 266240,
       "word": "邢菲武庚纪路透",
@@ -8793,14 +8849,6 @@
       "onboard_time": 1675260096,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 250166,
-      "num": 250166,
-      "word": "恃宠",
-      "onboard_time": 1675514490,
-      "rank": 24,
-      "category": "其它"
     },
     {
       "raw_hot": 250033,
@@ -9403,6 +9451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228298,
+      "num": 228298,
+      "word": "井柏然去宋威龙房车蹭饭",
+      "onboard_time": 1675515030,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227701,
       "num": 227701,
       "word": "王力宏晒与粉丝演唱会合照",
@@ -9763,12 +9819,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 213600,
+      "num": 213600,
+      "word": "贺峻霖说为了贴丁程鑫要拼命地赢",
+      "onboard_time": 1675514972,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213596,
       "num": 213596,
       "word": "江疏影宅家沉浸式化妆vlog",
       "onboard_time": 1675419810,
       "rank": 27,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 213535,
+      "num": 202604,
+      "word": "宋亚轩说刘耀文发量少",
+      "onboard_time": 1675516711,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 213229,
@@ -10652,7 +10724,7 @@
     },
     {
       "raw_hot": 191935,
-      "num": 826186,
+      "num": 895403,
       "word": "和春天相约",
       "onboard_time": 1675475247,
       "rank": 31,
@@ -10697,14 +10769,6 @@
       "onboard_time": 1675466417,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190979,
-      "num": 190979,
-      "word": "邓超说准备面试苏有朋导的戏",
-      "onboard_time": 1675514609,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 190955,
@@ -11427,14 +11491,6 @@
       "category": "科技,游戏"
     },
     {
-      "raw_hot": 176202,
-      "num": 176202,
-      "word": "人气超高但你却无感的水果",
-      "onboard_time": 1675514788,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 176176,
       "num": 176176,
       "word": "金多美活动状态",
@@ -11449,6 +11505,14 @@
       "onboard_time": 1675496908,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175253,
+      "num": 175253,
+      "word": "19岁男孩患阿尔兹海默症",
+      "onboard_time": 1675516232,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175150,
@@ -11569,6 +11633,14 @@
       "onboard_time": 1675255590,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 172429,
+      "num": 172429,
+      "word": "高启强意想不到的出圈方式",
+      "onboard_time": 1675516471,
+      "rank": 37,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 172403,
@@ -11979,20 +12051,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 163057,
+      "num": 163057,
+      "word": "TT战胜iG",
+      "onboard_time": 1675516592,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162168,
       "num": 162168,
       "word": "熬夜后怎么快速恢复精神",
       "onboard_time": 1675102214,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 162015,
-      "num": 162015,
-      "word": "贺峻霖说为了贴丁程鑫要拼命地赢",
-      "onboard_time": 1675514972,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 161901,
@@ -12211,6 +12283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156448,
+      "num": 156448,
+      "word": "这就是司机经常骂人的原因",
+      "onboard_time": 1675514910,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156287,
       "num": 156287,
       "word": "ming",
@@ -12369,6 +12449,14 @@
       "onboard_time": 1675222351,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151758,
+      "num": 151758,
+      "word": "黄绮珊8年前后对比照",
+      "onboard_time": 1675516711,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 151626,
@@ -12809,6 +12897,14 @@
       "onboard_time": 1675271959,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136492,
+      "num": 136492,
+      "word": "你会考虑在农村盖养老房吗",
+      "onboard_time": 1675515932,
+      "rank": 46,
+      "category": "社会议题"
     },
     {
       "raw_hot": 135937,
@@ -13854,6 +13950,9 @@
     },
     {
       "word": "#北京冬奥会的雪花永远盛放#"
+    },
+    {
+      "word": "#总书记跨越千里的惦念#"
     }
   ]
 }

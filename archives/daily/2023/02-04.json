@@ -1,6 +1,6 @@
 {
   "startTime": 1675441538677,
-  "endTime": 1675515003698,
+  "endTime": 1675516858490,
   "band_list": [
     {
       "raw_hot": 3893603,
@@ -24,6 +24,14 @@
       "word": "癌症的3个身体求救信号",
       "onboard_time": 1675485567,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1801383,
+      "num": 894145,
+      "word": "刚领证7天男子被妻子打进医院",
+      "onboard_time": 1675513410,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -88,14 +96,6 @@
       "word": "父亲借女儿3万压岁钱不还被起诉",
       "onboard_time": 1675491807,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1207809,
-      "num": 812665,
-      "word": "刚领证7天男子被妻子打进医院",
-      "onboard_time": 1675513410,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 977744,
+      "num": 977744,
+      "word": "李一桐郭晓婷不到90斤",
+      "onboard_time": 1675512270,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 965201,
       "num": 965201,
       "word": "躲春是迷信吗",
@@ -201,6 +209,14 @@
       "onboard_time": 1675490547,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 954514,
+      "num": 954514,
+      "word": "高启强听完都得哭两声",
+      "onboard_time": 1675510708,
+      "rank": 4,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 932879,
@@ -283,6 +299,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 844930,
+      "num": 844930,
+      "word": "恃宠",
+      "onboard_time": 1675514490,
+      "rank": 24,
+      "category": "其它"
+    },
+    {
       "raw_hot": 821373,
       "num": 821373,
       "word": "薛之谦说张靓颖坐反了",
@@ -323,20 +347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771632,
+      "num": 771632,
+      "word": "遭遇断崖式分手如何走出来",
+      "onboard_time": 1675513590,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 756123,
       "num": 756123,
       "word": "男子套圈3000元套中2辆小汽车",
       "onboard_time": 1675437451,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 752131,
-      "num": 752131,
-      "word": "高启强听完都得哭两声",
-      "onboard_time": 1675510708,
-      "rank": 4,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 731996,
@@ -353,14 +377,6 @@
       "onboard_time": 1675500690,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 720597,
-      "num": 720597,
-      "word": "李一桐郭晓婷不到90斤",
-      "onboard_time": 1675512270,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 720264,
@@ -443,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 661133,
+      "num": 661133,
+      "word": "女子吐槽30岁相亲不是二婚就是老头",
+      "onboard_time": 1675514187,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 658641,
       "num": 658641,
       "word": "狂飙2没你们我不看",
@@ -483,20 +507,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 615673,
-      "num": 615673,
-      "word": "遭遇断崖式分手如何走出来",
-      "onboard_time": 1675513590,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 599294,
       "num": 599294,
       "word": "气出来的乳腺增生",
       "onboard_time": 1675478726,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 596731,
+      "num": 596731,
+      "word": "宋亚轩提醒田震",
+      "onboard_time": 1675515211,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 595009,
@@ -609,6 +633,14 @@
       "onboard_time": 1675507408,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 494221,
+      "num": 494221,
+      "word": "少爷和我龙傲天你好星期六VCR好惊喜",
+      "onboard_time": 1675515751,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 493363,
@@ -915,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330655,
+      "num": 330655,
+      "word": "人气超高但你却无感的水果",
+      "onboard_time": 1675514788,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 327086,
       "num": 327086,
       "word": "工人焊桥墩钢筋把自己焊进里面",
@@ -1011,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307443,
+      "num": 307443,
+      "word": "邓超说准备面试苏有朋导的戏",
+      "onboard_time": 1675514609,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304982,
       "num": 304982,
       "word": "历史学者称岳飞长的像岳云鹏",
@@ -1041,14 +1089,6 @@
       "onboard_time": 1675481966,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 293950,
-      "num": 293950,
-      "word": "女子吐槽30岁相亲不是二婚就是老头",
-      "onboard_time": 1675514187,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 291948,
@@ -1089,6 +1129,14 @@
       "onboard_time": 1675483347,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286013,
+      "num": 286013,
+      "word": "BLG对战WBG",
+      "onboard_time": 1675516592,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 283146,
@@ -1139,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266567,
+      "num": 266567,
+      "word": "妇联回应女子被婆家罚跪",
+      "onboard_time": 1675515092,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262055,
       "num": 262055,
       "word": "这小孩长得好像安欣",
@@ -1177,14 +1233,6 @@
       "onboard_time": 1675506207,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 250166,
-      "num": 250166,
-      "word": "恃宠",
-      "onboard_time": 1675514490,
-      "rank": 24,
-      "category": "其它"
     },
     {
       "raw_hot": 250033,
@@ -1347,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228298,
+      "num": 228298,
+      "word": "井柏然去宋威龙房车蹭饭",
+      "onboard_time": 1675515030,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227858,
       "num": 227858,
       "word": "华裔女孩被美国养父母锁地牢奴役十余年",
@@ -1417,6 +1473,22 @@
       "onboard_time": 1675511191,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213600,
+      "num": 213600,
+      "word": "贺峻霖说为了贴丁程鑫要拼命地赢",
+      "onboard_time": 1675514972,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213535,
+      "num": 202604,
+      "word": "宋亚轩说刘耀文发量少",
+      "onboard_time": 1675516711,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 212657,
@@ -1516,7 +1588,7 @@
     },
     {
       "raw_hot": 191935,
-      "num": 826186,
+      "num": 895403,
       "word": "和春天相约",
       "onboard_time": 1675475247,
       "rank": 31,
@@ -1529,14 +1601,6 @@
       "onboard_time": 1675466417,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190979,
-      "num": 190979,
-      "word": "邓超说准备面试苏有朋导的戏",
-      "onboard_time": 1675514609,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 190896,
@@ -1643,20 +1707,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176202,
-      "num": 176202,
-      "word": "人气超高但你却无感的水果",
-      "onboard_time": 1675514788,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 175888,
       "num": 175888,
       "word": "时代少年团串烧彩排舞台花絮",
       "onboard_time": 1675496908,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175253,
+      "num": 175253,
+      "word": "19岁男孩患阿尔兹海默症",
+      "onboard_time": 1675516232,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173696,
@@ -1673,6 +1737,14 @@
       "onboard_time": 1675484607,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 172429,
+      "num": 172429,
+      "word": "高启强意想不到的出圈方式",
+      "onboard_time": 1675516471,
+      "rank": 37,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 170867,
@@ -1739,12 +1811,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162015,
-      "num": 162015,
-      "word": "贺峻霖说为了贴丁程鑫要拼命地赢",
-      "onboard_time": 1675514972,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 163057,
+      "num": 163057,
+      "word": "TT战胜iG",
+      "onboard_time": 1675516592,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 161451,
@@ -1785,6 +1857,14 @@
       "onboard_time": 1675508068,
       "rank": 38,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 156448,
+      "num": 156448,
+      "word": "这就是司机经常骂人的原因",
+      "onboard_time": 1675514910,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 155692,
@@ -1833,6 +1913,14 @@
       "onboard_time": 1675508187,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151758,
+      "num": 151758,
+      "word": "黄绮珊8年前后对比照",
+      "onboard_time": 1675516711,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 149548,
@@ -1945,6 +2033,14 @@
       "onboard_time": 1675474047,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136492,
+      "num": 136492,
+      "word": "你会考虑在农村盖养老房吗",
+      "onboard_time": 1675515932,
+      "rank": 46,
+      "category": "社会议题"
     },
     {
       "raw_hot": 135208,
@@ -2212,6 +2308,9 @@
     },
     {
       "word": "#北京冬奥会的雪花永远盛放#"
+    },
+    {
+      "word": "#总书记跨越千里的惦念#"
     }
   ]
 }
