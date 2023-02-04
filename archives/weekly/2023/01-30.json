@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675521210650,
+  "endTime": 1675523839972,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -675,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1748081,
+      "num": 1748081,
+      "word": "iPhone14Pro全系降价700元",
+      "onboard_time": 1675518271,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1738489,
       "num": 1643874,
       "word": "李成洙晒与黄旭熙合照",
@@ -689,14 +697,6 @@
       "onboard_time": 1675240232,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1734117,
-      "num": 1734117,
-      "word": "iPhone14Pro全系降价700元",
-      "onboard_time": 1675518271,
-      "rank": 0,
-      "category": "科技"
     },
     {
       "raw_hot": 1730670,
@@ -2211,6 +2211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 906478,
+      "num": 906478,
+      "word": "票房",
+      "onboard_time": 1675523010,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 905129,
       "num": 905129,
       "word": "张颂文修改全民K歌个性签名",
@@ -2249,6 +2257,14 @@
       "onboard_time": 1675390585,
       "rank": 8,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 901611,
+      "num": 901611,
+      "word": "高启强意想不到的出圈方式",
+      "onboard_time": 1675516471,
+      "rank": 37,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 898988,
@@ -2505,14 +2521,6 @@
       "onboard_time": 1675177776,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 831206,
-      "num": 831206,
-      "word": "高启强意想不到的出圈方式",
-      "onboard_time": 1675516471,
-      "rank": 37,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 830623,
@@ -3265,6 +3273,14 @@
       "onboard_time": 1675469245,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 690298,
+      "num": 690298,
+      "word": "朴灿烈吴世勋见面会生图",
+      "onboard_time": 1675521031,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 689845,
@@ -4161,6 +4177,14 @@
       "onboard_time": 1675027091,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571990,
+      "num": 571990,
+      "word": "成龙张艺兴同框视频",
+      "onboard_time": 1675521571,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 571129,
@@ -5507,6 +5531,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 443930,
+      "num": 443930,
+      "word": "边伯贤 退伍",
+      "onboard_time": 1675523613,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443488,
       "num": 443488,
       "word": "中科院团队创制出无刺喜头鱼",
@@ -5689,6 +5721,14 @@
       "onboard_time": 1675345357,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 426694,
+      "num": 426694,
+      "word": "BLG对战WBG",
+      "onboard_time": 1675516592,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 426254,
@@ -5899,6 +5939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410633,
+      "num": 410633,
+      "word": "华晨宇声生不息2台湾街采人气第一",
+      "onboard_time": 1675522831,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410167,
       "num": 410167,
       "word": "高叶说想吃鱼了",
@@ -6081,6 +6129,14 @@
       "onboard_time": 1674999634,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398279,
+      "num": 398279,
+      "word": "安凯",
+      "onboard_time": 1675520012,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 398099,
@@ -6331,14 +6387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 381558,
-      "num": 381558,
-      "word": "朴灿烈吴世勋见面会生图",
-      "onboard_time": 1675521031,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 380964,
       "num": 380964,
       "word": "权顺荣再上酒综",
@@ -6571,14 +6619,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 369137,
-      "num": 369137,
-      "word": "安凯",
-      "onboard_time": 1675520012,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 366643,
       "num": 366643,
       "word": "以为是剧情需要没想到是人间真实",
@@ -6739,6 +6779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354243,
+      "num": 354243,
+      "word": "赵丽颖沈璃白衣造型路透图",
+      "onboard_time": 1675522470,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354135,
       "num": 354135,
       "word": "姆巴佩连续两次点球踢丢",
@@ -6825,14 +6873,6 @@
       "onboard_time": 1675507050,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 349802,
-      "num": 349802,
-      "word": "BLG对战WBG",
-      "onboard_time": 1675516592,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 349744,
@@ -7387,6 +7427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321459,
+      "num": 321459,
+      "word": "崔秀彬李泳知同框跳舞",
+      "onboard_time": 1675523010,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 321300,
       "num": 321300,
       "word": "李现逛超市和路人互道新年快乐",
@@ -7849,6 +7897,14 @@
       "onboard_time": 1675352493,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295635,
+      "num": 295635,
+      "word": "王鹤棣拍戏现场和刘耀文连线",
+      "onboard_time": 1675522712,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 295453,
@@ -8467,6 +8523,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 270872,
+      "num": 270872,
+      "word": "权顺荣说追星不容易",
+      "onboard_time": 1675523311,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270525,
       "num": 270525,
       "word": "高启盛疯批兄控",
@@ -8755,6 +8819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261453,
+      "num": 261453,
+      "word": "狂飙拍摄中的隐藏彩蛋",
+      "onboard_time": 1675519353,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261409,
       "num": 261409,
       "word": "邢菲新剧定妆vlog",
@@ -8865,6 +8937,14 @@
       "onboard_time": 1675247552,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 258040,
+      "num": 258040,
+      "word": "李钟硕戴了IU演唱会周边帽子",
+      "onboard_time": 1675523613,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 257782,
@@ -9187,6 +9267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243000,
+      "num": 243000,
+      "word": "幼儿园表演节目完的我",
+      "onboard_time": 1675519051,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242918,
       "num": 242918,
       "word": "流浪地球是在哈尔滨拍的吧",
@@ -9217,6 +9305,14 @@
       "onboard_time": 1675154085,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242551,
+      "num": 242551,
+      "word": "宋威龙直播时让狗狗代播",
+      "onboard_time": 1675520852,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 241907,
@@ -9321,14 +9417,6 @@
       "onboard_time": 1675144408,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 239412,
-      "num": 239412,
-      "word": "幼儿园表演节目完的我",
-      "onboard_time": 1675519051,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 238422,
@@ -9832,6 +9920,14 @@
       "word": "苏醒说何洁比他境界高多了",
       "onboard_time": 1675495708,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 219546,
+      "num": 219546,
+      "word": "苏醒兔年第一期老歌手的日常vlog",
+      "onboard_time": 1675522229,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -10523,14 +10619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198421,
-      "num": 198421,
-      "word": "狂飙拍摄中的隐藏彩蛋",
-      "onboard_time": 1675519353,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 198230,
       "num": 198230,
       "word": "严浩翔说假期结束",
@@ -10657,6 +10745,14 @@
       "onboard_time": 1675069170,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195926,
+      "num": 195926,
+      "word": "阿杜唱的坚持到底真是回忆杀了",
+      "onboard_time": 1675522950,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 195814,
@@ -12089,14 +12185,6 @@
       "onboard_time": 1675406846,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166281,
-      "num": 166281,
-      "word": "宋威龙直播时让狗狗代播",
-      "onboard_time": 1675520852,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 166113,
