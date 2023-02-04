@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675538017658,
+  "endTime": 1675539190077,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -14155,6 +14155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 38028,
+      "num": 31665,
+      "word": "我参加了妈妈的婚礼",
+      "onboard_time": 1675537094,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 37010,
       "num": 37010,
       "word": "女子给自行车架套袋丝滑度拉满",
@@ -14265,14 +14273,6 @@
       "onboard_time": 1675365912,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25750,
-      "num": 25750,
-      "word": "我参加了妈妈的婚礼",
-      "onboard_time": 1675537094,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 24571,
