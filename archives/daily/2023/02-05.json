@@ -1,6 +1,6 @@
 {
   "startTime": 1675527843138,
-  "endTime": 1675530924645,
+  "endTime": 1675532012881,
   "band_list": [
     {
       "raw_hot": 1429675,
@@ -83,8 +83,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 357386,
-      "num": 357386,
+      "raw_hot": 403522,
+      "num": 403522,
       "word": "巴黎圣日耳曼vs图卢兹",
       "onboard_time": 1675527806,
       "rank": 49,
@@ -131,6 +131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280239,
+      "num": 280239,
+      "word": "荣梓杉被尔冬升的严厉吓到",
+      "onboard_time": 1675527685,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260945,
       "num": 260945,
       "word": "刘耀文一镜到底吃8碗面",
@@ -161,14 +169,6 @@
       "onboard_time": 1675510708,
       "rank": 18,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 241535,
-      "num": 241535,
-      "word": "荣梓杉被尔冬升的严厉吓到",
-      "onboard_time": 1675527685,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 235877,
@@ -433,6 +433,14 @@
       "onboard_time": 1675528344,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 67992,
+      "num": 67992,
+      "word": "五角大楼回应中国飞艇事件",
+      "onboard_time": 1675531400,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27967,
