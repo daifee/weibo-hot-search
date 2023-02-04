@@ -1,6 +1,6 @@
 {
   "startTime": 1675527843138,
-  "endTime": 1675545331709,
+  "endTime": 1675546406938,
   "band_list": [
     {
       "raw_hot": 1429675,
@@ -459,7 +459,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 67045,
+      "raw_hot": 68704,
       "num": 40697,
       "word": "胡鑫宇事件背后的流量生意",
       "onboard_time": 1675541773,
@@ -483,11 +483,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28642,
+      "num": 28642,
+      "word": "一拍照就职业假笑的宝宝",
+      "onboard_time": 1675544711,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27967,
       "num": 1145502,
       "word": "全国元宵节花灯大比拼",
       "onboard_time": 1675477347,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25190,
+      "num": 25190,
+      "word": "有中国公民在阿尔卑斯山遇雪崩不幸伤亡",
+      "onboard_time": 1675545613,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -507,28 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17035,
-      "num": 17035,
-      "word": "原来大一点的哥哥也喜欢玩",
-      "onboard_time": 1675543153,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 14435,
-      "num": 14435,
-      "word": "一拍照就职业假笑的宝宝",
-      "onboard_time": 1675544711,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 12048,
-      "num": 12048,
+      "raw_hot": 19277,
+      "num": 19277,
       "word": "李一桐说强扭的瓜不一定不甜",
       "onboard_time": 1675545132,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19052,
+      "num": 19052,
+      "word": "原来大一点的哥哥也喜欢玩",
+      "onboard_time": 1675543153,
+      "rank": 33,
+      "category": "情感"
     }
   ],
   "hotgov_list": [

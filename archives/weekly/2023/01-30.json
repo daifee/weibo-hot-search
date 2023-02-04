@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675545331709,
+  "endTime": 1675546406938,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -14003,20 +14003,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68704,
+      "num": 40697,
+      "word": "胡鑫宇事件背后的流量生意",
+      "onboard_time": 1675541773,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67252,
       "num": 67252,
       "word": "布莱顿2比1利物浦",
       "onboard_time": 1675034960,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67045,
-      "num": 40697,
-      "word": "胡鑫宇事件背后的流量生意",
-      "onboard_time": 1675541773,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65801,
@@ -14259,6 +14259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 28642,
+      "num": 28642,
+      "word": "一拍照就职业假笑的宝宝",
+      "onboard_time": 1675544711,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27900,
       "num": 353576,
       "word": "比亚迪汽车王者荣耀高校赛",
@@ -14281,6 +14289,14 @@
       "onboard_time": 1675365912,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25190,
+      "num": 25190,
+      "word": "有中国公民在阿尔卑斯山遇雪崩不幸伤亡",
+      "onboard_time": 1675545613,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24571,
@@ -14307,6 +14323,22 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 19277,
+      "num": 19277,
+      "word": "李一桐说强扭的瓜不一定不甜",
+      "onboard_time": 1675545132,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 19052,
+      "num": 19052,
+      "word": "原来大一点的哥哥也喜欢玩",
+      "onboard_time": 1675543153,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19031,
       "num": 19031,
       "word": "树林中一缢吊尸体经检验系胡鑫宇",
@@ -14331,14 +14363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 17035,
-      "num": 17035,
-      "word": "原来大一点的哥哥也喜欢玩",
-      "onboard_time": 1675543153,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 16380,
       "num": 16380,
       "word": "五世同堂排排坐接龙喊妈妈",
@@ -14347,28 +14371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14435,
-      "num": 14435,
-      "word": "一拍照就职业假笑的宝宝",
-      "onboard_time": 1675544711,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 13142,
       "num": 13142,
       "word": "开始7天渡劫",
       "onboard_time": 1674864141,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 12048,
-      "num": 12048,
-      "word": "李一桐说强扭的瓜不一定不甜",
-      "onboard_time": 1675545132,
-      "rank": 47,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
