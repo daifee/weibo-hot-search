@@ -1,6 +1,6 @@
 {
   "startTime": 1675441538677,
-  "endTime": 1675480810329,
+  "endTime": 1675481610936,
   "band_list": [
     {
       "raw_hot": 3893603,
@@ -51,20 +51,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1161722,
+      "num": 1161722,
+      "word": "男子2000万买别墅中介闹乌龙卖错房",
+      "onboard_time": 1675478429,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1142215,
       "num": 1142215,
       "word": "有人还完90万房贷月供1块抵个税",
       "onboard_time": 1675474227,
       "rank": 34,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1106265,
-      "num": 1106265,
-      "word": "男子2000万买别墅中介闹乌龙卖错房",
-      "onboard_time": 1675478429,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1054257,
@@ -115,12 +115,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 812726,
-      "num": 812726,
+      "raw_hot": 821373,
+      "num": 821373,
       "word": "薛之谦说张靓颖坐反了",
       "onboard_time": 1675476208,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 807496,
+      "num": 807496,
+      "word": "初中男生关在房间烧寒假作业",
+      "onboard_time": 1675477287,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 780731,
@@ -131,19 +139,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 769350,
-      "num": 769350,
-      "word": "初中男生关在房间烧寒假作业",
-      "onboard_time": 1675477287,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 756123,
       "num": 756123,
       "word": "男子套圈3000元套中2辆小汽车",
       "onboard_time": 1675437451,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 720211,
+      "num": 720211,
+      "word": "流浪气球",
+      "onboard_time": 1675478247,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -171,12 +179,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 677471,
-      "num": 677471,
-      "word": "流浪气球",
-      "onboard_time": 1675478247,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 654307,
+      "num": 654307,
+      "word": "何洁朋友圈签名无所谓没必要不至于",
+      "onboard_time": 1675481427,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 628686,
@@ -187,20 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599294,
+      "num": 599294,
+      "word": "气出来的乳腺增生",
+      "onboard_time": 1675478726,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588065,
+      "num": 588065,
+      "word": "大二男生凌晨冲进火场智救6岁女孩",
+      "onboard_time": 1675478907,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 578965,
       "num": 578965,
       "word": "唐嫣听到罗晋名字心率升高",
       "onboard_time": 1675432652,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 574610,
-      "num": 574610,
-      "word": "大二男生凌晨冲进火场智救6岁女孩",
-      "onboard_time": 1675478907,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 561622,
@@ -225,14 +241,6 @@
       "onboard_time": 1675476146,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 545546,
-      "num": 545546,
-      "word": "气出来的乳腺增生",
-      "onboard_time": 1675478726,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 541416,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370641,
+      "num": 370641,
+      "word": "白鹿学院风大衣水桶帽上班路透",
+      "onboard_time": 1675480106,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 360839,
       "num": 360839,
       "word": "父亲回应6岁儿子做饭致全身烧伤",
@@ -403,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325535,
+      "num": 325535,
+      "word": "教授称年轻人不是鹤岗类城市的目标",
+      "onboard_time": 1675479447,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323783,
       "num": 323783,
       "word": "张颂文狂飙播完后如约回复网友",
@@ -433,14 +457,6 @@
       "onboard_time": 1675429170,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310788,
-      "num": 310788,
-      "word": "白鹿学院风大衣水桶帽上班路透",
-      "onboard_time": 1675480106,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 304982,
@@ -523,20 +539,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246967,
+      "num": 246967,
+      "word": "张俪跳伞是第一个上的",
+      "onboard_time": 1675480707,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246312,
       "num": 246312,
       "word": "李宇春翻唱阿珍爱上了阿强",
       "onboard_time": 1675431451,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244806,
-      "num": 244806,
-      "word": "教授称年轻人不是鹤岗类城市的目标",
-      "onboard_time": 1675479447,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242918,
@@ -595,6 +611,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225319,
+      "num": 225319,
+      "word": "唐嫣好有少女感",
+      "onboard_time": 1675481067,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 214172,
+      "num": 214172,
+      "word": "流浪地球后遗症",
+      "onboard_time": 1675480944,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212657,
       "num": 212657,
       "word": "薛之谦线上演唱会收官舞台照",
@@ -649,14 +681,6 @@
       "onboard_time": 1675467799,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192070,
-      "num": 192070,
-      "word": "张俪跳伞是第一个上的",
-      "onboard_time": 1675480707,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 191935,
@@ -731,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177566,
+      "num": 177566,
+      "word": "立春该吃啥",
+      "onboard_time": 1675480526,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 176362,
       "num": 176362,
       "word": "这个兔年的立春有何特别之处",
@@ -787,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157812,
+      "num": 157812,
+      "word": "女士的品格接档去有风的地方",
+      "onboard_time": 1675480286,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155692,
       "num": 155692,
       "word": "城市女性比农村女性更易得乳腺癌",
@@ -795,20 +835,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154733,
-      "num": 154733,
-      "word": "女士的品格接档去有风的地方",
-      "onboard_time": 1675480286,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 149548,
       "num": 149548,
       "word": "流浪地球",
       "onboard_time": 1675468941,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146842,
+      "num": 146842,
+      "word": "3斤肉上桌只剩1斤多店家称正常",
+      "onboard_time": 1675481245,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146377,
@@ -899,14 +939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121910,
-      "num": 121910,
-      "word": "立春该吃啥",
-      "onboard_time": 1675480526,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 109341,
       "num": 109341,
       "word": "林孝埈500米小组第一晋级",
@@ -929,6 +961,14 @@
       "onboard_time": 1675434396,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102406,
+      "num": 146892,
+      "word": "男子玩套圈直接横扫全场",
+      "onboard_time": 1675480887,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100495,
@@ -979,18 +1019,18 @@
       "category": "美食,影视"
     },
     {
-      "raw_hot": 77987,
-      "num": 1497770,
-      "word": "花好灯好月圆人圆",
-      "onboard_time": 1675429711,
+      "raw_hot": 84707,
+      "num": 1175015,
+      "word": "风和日暖人勤春早",
+      "onboard_time": 1675479209,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73541,
-      "num": 1108728,
-      "word": "风和日暖人勤春早",
-      "onboard_time": 1675479209,
+      "raw_hot": 77987,
+      "num": 1497770,
+      "word": "花好灯好月圆人圆",
+      "onboard_time": 1675429711,
       "rank": 2,
       "category": "社会新闻"
     },
