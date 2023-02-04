@@ -1,6 +1,6 @@
 {
   "startTime": 1675441538677,
-  "endTime": 1675478331460,
+  "endTime": 1675478933544,
   "band_list": [
     {
       "raw_hot": 3893603,
@@ -11,8 +11,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2110213,
-      "num": 2110213,
+      "raw_hot": 2190525,
+      "num": 2190525,
       "word": "李一桐 什么都嗑只会害了你",
       "onboard_time": 1675474827,
       "rank": 12,
@@ -59,20 +59,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1054257,
+      "num": 1054257,
+      "word": "立春",
+      "onboard_time": 1675467199,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1017851,
       "num": 1017851,
       "word": "杨紫腿部受伤",
       "onboard_time": 1675438169,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 947946,
-      "num": 947946,
-      "word": "立春",
-      "onboard_time": 1675467199,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 932879,
@@ -99,8 +99,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 777167,
-      "num": 611263,
+      "raw_hot": 780731,
+      "num": 780731,
       "word": "00后在过一种很新的立春",
       "onboard_time": 1675476446,
       "rank": 7,
@@ -139,12 +139,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 612562,
-      "num": 612562,
+      "raw_hot": 628686,
+      "num": 628686,
       "word": "查出乳腺结节怎么办",
       "onboard_time": 1675475426,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579938,
+      "num": 579938,
+      "word": "薛之谦说张靓颖坐反了",
+      "onboard_time": 1675476208,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 578965,
@@ -163,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 557865,
-      "num": 557865,
-      "word": "薛之谦说张靓颖坐反了",
-      "onboard_time": 1675476208,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 557816,
       "num": 557816,
       "word": "杭州一商场女店员遭安保无故砍伤",
@@ -185,6 +185,14 @@
       "onboard_time": 1675476146,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 545617,
+      "num": 545617,
+      "word": "破太岁",
+      "onboard_time": 1675477887,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 541416,
@@ -227,6 +235,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 436266,
+      "num": 436266,
+      "word": "初中男生关在房间烧寒假作业",
+      "onboard_time": 1675477287,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432375,
+      "num": 432375,
+      "word": "边伯贤明日将退伍",
+      "onboard_time": 1675477588,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430498,
       "num": 430498,
       "word": "医院免去100元男子50年后还10万",
@@ -257,14 +281,6 @@
       "onboard_time": 1675474947,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402508,
-      "num": 402508,
-      "word": "边伯贤明日将退伍",
-      "onboard_time": 1675477588,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 399119,
@@ -307,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373362,
+      "num": 373362,
+      "word": "民警为救自残轻生女子被连刺三刀",
+      "onboard_time": 1675476745,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360839,
       "num": 360839,
       "word": "父亲回应6岁儿子做饭致全身烧伤",
@@ -323,11 +347,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339802,
-      "num": 339802,
-      "word": "民警为救自残轻生女子被连刺三刀",
-      "onboard_time": 1675476745,
-      "rank": 19,
+      "raw_hot": 348241,
+      "num": 348241,
+      "word": "今天10时42分立春",
+      "onboard_time": 1675476208,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -403,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283146,
+      "num": 283146,
+      "word": "被人坚定地选择是什么感觉",
+      "onboard_time": 1675475788,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 280172,
       "num": 280172,
       "word": "客人泡茶放近50根藏红花吓坏主人",
@@ -435,30 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256938,
-      "num": 256938,
-      "word": "破太岁",
-      "onboard_time": 1675477887,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 253711,
-      "num": 253711,
-      "word": "被人坚定地选择是什么感觉",
-      "onboard_time": 1675475788,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 253256,
-      "num": 253256,
-      "word": "初中男生关在房间烧寒假作业",
-      "onboard_time": 1675477287,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247228,
       "num": 247228,
       "word": "流浪地球2登顶单日票房榜",
@@ -473,6 +481,14 @@
       "onboard_time": 1675431451,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243937,
+      "num": 243937,
+      "word": "流浪气球",
+      "onboard_time": 1675478247,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242918,
@@ -507,20 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233982,
-      "num": 233982,
-      "word": "今天10时42分立春",
-      "onboard_time": 1675476208,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232644,
       "num": 232644,
       "word": "女子回应泰国旅游警察全程接机",
       "onboard_time": 1675439791,
       "rank": 28,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 228840,
+      "num": 228840,
+      "word": "男子2000万买别墅中介闹乌龙卖错房",
+      "onboard_time": 1675478429,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228587,
@@ -787,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134257,
-      "num": 134257,
-      "word": "流浪气球",
-      "onboard_time": 1675478247,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132638,
       "num": 132638,
       "word": "马嘉祺的第二个音综",
@@ -811,12 +819,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120563,
+      "num": 120563,
+      "word": "气出来的乳腺增生",
+      "onboard_time": 1675478726,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109341,
       "num": 109341,
       "word": "林孝埈500米小组第一晋级",
       "onboard_time": 1675434154,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108451,
+      "num": 108451,
+      "word": "大二男生凌晨冲进火场智救6岁女孩",
+      "onboard_time": 1675478907,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 107674,

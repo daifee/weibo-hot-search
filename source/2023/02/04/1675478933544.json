@@ -1,0 +1,410 @@
+{
+  "runTime": 1675478933544,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3025430,
+        "num": 3025430,
+        "word": "躲春",
+        "onboard_time": 1675468401,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2190525,
+        "num": 2190525,
+        "word": "李一桐 什么都嗑只会害了你",
+        "onboard_time": 1675474827,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48477,
+        "num": 1297604,
+        "word": "花好灯好月圆人圆",
+        "onboard_time": 1675429711,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1110892,
+        "num": 1110892,
+        "word": "有人还完90万房贷月供1块抵个税",
+        "onboard_time": 1675474227,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1054257,
+        "num": 1054257,
+        "word": "立春",
+        "onboard_time": 1675467199,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999378,
+        "num": 999378,
+        "word": "97岁奶奶为吃炸鸡打扮3小时",
+        "onboard_time": 1675471464,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780731,
+        "num": 780731,
+        "word": "00后在过一种很新的立春",
+        "onboard_time": 1675476446,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628686,
+        "num": 628686,
+        "word": "查出乳腺结节怎么办",
+        "onboard_time": 1675475426,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601303,
+        "num": 601303,
+        "word": "狂飙张彪扮演者说张译是恩人",
+        "onboard_time": 1675469245,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 579938,
+        "num": 579938,
+        "word": "薛之谦说张靓颖坐反了",
+        "onboard_time": 1675476208,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 744303,
+        "num": 576058,
+        "word": "牛小莉直播",
+        "onboard_time": 1675471765,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610986,
+        "num": 561458,
+        "word": "中国无人飞艇因不可抗力误入美国领空",
+        "onboard_time": 1675432652,
+        "rank": 11,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 545617,
+        "num": 545617,
+        "word": "破太岁",
+        "onboard_time": 1675477887,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 509504,
+        "num": 509504,
+        "word": "苏小玎 我要演一条欧巴养的喝狼奶长大的狗",
+        "onboard_time": 1675476146,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 436266,
+        "num": 436266,
+        "word": "初中男生关在房间烧寒假作业",
+        "onboard_time": 1675477287,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432375,
+        "num": 432375,
+        "word": "边伯贤明日将退伍",
+        "onboard_time": 1675477588,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389511,
+        "num": 389511,
+        "word": "女子患病失忆后再次爱上丈夫",
+        "onboard_time": 1675472668,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385016,
+        "num": 385016,
+        "word": "为什么感觉工资过万很普遍了",
+        "onboard_time": 1675435172,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 373362,
+        "num": 373362,
+        "word": "民警为救自残轻生女子被连刺三刀",
+        "onboard_time": 1675476745,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348241,
+        "num": 348241,
+        "word": "今天10时42分立春",
+        "onboard_time": 1675476208,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315372,
+        "num": 315372,
+        "word": "旅美大熊猫乐乐离世",
+        "onboard_time": 1675465816,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283146,
+        "num": 283146,
+        "word": "被人坚定地选择是什么感觉",
+        "onboard_time": 1675475788,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 440566,
+        "num": 282826,
+        "word": "胡鑫宇请给心理指导师五分钟",
+        "onboard_time": 1675430250,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262516,
+        "num": 262516,
+        "word": "狂飙演员因好友演警察前期不说话",
+        "onboard_time": 1675432893,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246333,
+        "num": 246333,
+        "word": "欧文申请交易",
+        "onboard_time": 1675467199,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245065,
+        "num": 245065,
+        "word": "张颂文大学毕业照",
+        "onboard_time": 1675438232,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243937,
+        "num": 243937,
+        "word": "流浪气球",
+        "onboard_time": 1675478247,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239926,
+        "num": 239926,
+        "word": "唐嫣听到罗晋名字心率升高",
+        "onboard_time": 1675432652,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230339,
+        "num": 230339,
+        "word": "3月大宝宝发量惊人撞脸蒙奇奇",
+        "onboard_time": 1675458492,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228840,
+        "num": 228840,
+        "word": "男子2000万买别墅中介闹乌龙卖错房",
+        "onboard_time": 1675478429,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341504,
+        "num": 217034,
+        "word": "布林肯",
+        "onboard_time": 1675474947,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203906,
+        "num": 203906,
+        "word": "中国人在西班牙卖糖葫芦1串30元",
+        "onboard_time": 1675460172,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197343,
+        "num": 197343,
+        "word": "杨紫腿部受伤",
+        "onboard_time": 1675438169,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188244,
+        "num": 188244,
+        "word": "真的害怕深海回不了本",
+        "onboard_time": 1675435532,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177601,
+        "num": 177601,
+        "word": "男子套圈3000元套中2辆小汽车",
+        "onboard_time": 1675437451,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174961,
+        "num": 174961,
+        "word": "俄军首批战斗机器人抵达顿巴斯",
+        "onboard_time": 1675466298,
+        "rank": 35,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 170213,
+        "num": 170213,
+        "word": "欧文有意湖人",
+        "onboard_time": 1675476686,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159251,
+        "num": 159251,
+        "word": "流浪地球是在哈尔滨拍的吧",
+        "onboard_time": 1675440390,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152248,
+        "num": 152248,
+        "word": "全国元宵节花灯大比拼",
+        "onboard_time": 1675477347,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150218,
+        "num": 150218,
+        "word": "C罗沙特超首球",
+        "onboard_time": 1675466417,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149343,
+        "num": 149343,
+        "word": "王子文微博评论区",
+        "onboard_time": 1675438769,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141448,
+        "num": 141448,
+        "word": "这个兔年的立春有何特别之处",
+        "onboard_time": 1675474524,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140462,
+        "num": 140462,
+        "word": "美国被曝将用乌两成领土换和平",
+        "onboard_time": 1675450454,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 139824,
+        "num": 139824,
+        "word": "流浪地球2票房破30亿",
+        "onboard_time": 1675470443,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139023,
+        "num": 139023,
+        "word": "今年立春有啥不同",
+        "onboard_time": 1675475906,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139000,
+        "num": 139000,
+        "word": "为什么要咬春",
+        "onboard_time": 1675464255,
+        "rank": 45,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 136367,
+        "num": 136367,
+        "word": "用过期口罩做兔子灯笼",
+        "onboard_time": 1675470384,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122872,
+        "num": 122872,
+        "word": "王一博16岁时和姚晨演过大学情侣",
+        "onboard_time": 1675433612,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120563,
+        "num": 120563,
+        "word": "气出来的乳腺增生",
+        "onboard_time": 1675478726,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108451,
+        "num": 108451,
+        "word": "大二男生凌晨冲进火场智救6岁女孩",
+        "onboard_time": 1675478907,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#强信心加油干#"
+    }
+  }
+}

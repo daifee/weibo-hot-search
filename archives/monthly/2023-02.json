@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675478331460,
+  "endTime": 1675478933544,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -267,8 +267,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2110213,
-      "num": 2110213,
+      "raw_hot": 2190525,
+      "num": 2190525,
       "word": "李一桐 什么都嗑只会害了你",
       "onboard_time": 1675474827,
       "rank": 12,
@@ -1019,6 +1019,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1054257,
+      "num": 1054257,
+      "word": "立春",
+      "onboard_time": 1675467199,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1040158,
       "num": 1040158,
       "word": "吴京说易烊千玺王俊凯很努力不骄傲",
@@ -1153,14 +1161,6 @@
       "onboard_time": 1675329634,
       "rank": 11,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 947946,
-      "num": 947946,
-      "word": "立春",
-      "onboard_time": 1675467199,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 939879,
@@ -1531,8 +1531,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 777167,
-      "num": 611263,
+      "raw_hot": 780731,
+      "num": 780731,
       "word": "00后在过一种很新的立春",
       "onboard_time": 1675476446,
       "rank": 7,
@@ -2107,6 +2107,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 628686,
+      "num": 628686,
+      "word": "查出乳腺结节怎么办",
+      "onboard_time": 1675475426,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626820,
       "num": 626820,
       "word": "Angelababy绿色露背缎面裙造型",
@@ -2201,14 +2209,6 @@
       "onboard_time": 1675401212,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 612562,
-      "num": 612562,
-      "word": "查出乳腺结节怎么办",
-      "onboard_time": 1675475426,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 607962,
@@ -2371,6 +2371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 579938,
+      "num": 579938,
+      "word": "薛之谦说张靓颖坐反了",
+      "onboard_time": 1675476208,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 577672,
       "num": 577672,
       "word": "赵丽颖2023年的目标和心愿",
@@ -2467,14 +2475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 557865,
-      "num": 557865,
-      "word": "薛之谦说张靓颖坐反了",
-      "onboard_time": 1675476208,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 557816,
       "num": 557816,
       "word": "杭州一商场女店员遭安保无故砍伤",
@@ -2537,6 +2537,14 @@
       "onboard_time": 1675410208,
       "rank": 12,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 545617,
+      "num": 545617,
+      "word": "破太岁",
+      "onboard_time": 1675477887,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 544103,
@@ -3195,6 +3203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 436266,
+      "num": 436266,
+      "word": "初中男生关在房间烧寒假作业",
+      "onboard_time": 1675477287,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435341,
       "num": 435341,
       "word": "女性分娩阵痛到底有多痛",
@@ -3224,6 +3240,14 @@
       "word": "颖儿赵露思合照",
       "onboard_time": 1675219647,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 432375,
+      "num": 432375,
+      "word": "边伯贤明日将退伍",
+      "onboard_time": 1675477588,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -3481,14 +3505,6 @@
       "onboard_time": 1675335033,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402508,
-      "num": 402508,
-      "word": "边伯贤明日将退伍",
-      "onboard_time": 1675477588,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 402269,
@@ -3755,6 +3771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 373362,
+      "num": 373362,
+      "word": "民警为救自残轻生女子被连刺三刀",
+      "onboard_time": 1675476745,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373200,
       "num": 373200,
       "word": "名侦探学院第九期预告",
@@ -3963,6 +3987,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 348241,
+      "num": 348241,
+      "word": "今天10时42分立春",
+      "onboard_time": 1675476208,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347087,
       "num": 347087,
       "word": "你的工资和消费成正比吗",
@@ -4033,14 +4065,6 @@
       "onboard_time": 1675420170,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 339802,
-      "num": 339802,
-      "word": "民警为救自残轻生女子被连刺三刀",
-      "onboard_time": 1675476745,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339024,
@@ -4659,6 +4683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283146,
+      "num": 283146,
+      "word": "被人坚定地选择是什么感觉",
+      "onboard_time": 1675475788,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 283075,
       "num": 283075,
       "word": "显微镜下的大明全员自报家门",
@@ -5083,14 +5115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256938,
-      "num": 256938,
-      "word": "破太岁",
-      "onboard_time": 1675477887,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 256588,
       "num": 256588,
       "word": "狂飙 boss",
@@ -5129,22 +5153,6 @@
       "onboard_time": 1675343436,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 253711,
-      "num": 253711,
-      "word": "被人坚定地选择是什么感觉",
-      "onboard_time": 1675475788,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 253256,
-      "num": 253256,
-      "word": "初中男生关在房间烧寒假作业",
-      "onboard_time": 1675477287,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252876,
@@ -5257,6 +5265,14 @@
       "onboard_time": 1675427312,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 243937,
+      "num": 243937,
+      "word": "流浪气球",
+      "onboard_time": 1675478247,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243529,
@@ -5403,14 +5419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233982,
-      "num": 233982,
-      "word": "今天10时42分立春",
-      "onboard_time": 1675476208,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233212,
       "num": 233212,
       "word": "流浪地球2引入全程预拍摄",
@@ -5488,6 +5496,14 @@
       "word": "女子到男友舅舅家拜年盗走5万元",
       "onboard_time": 1675280892,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228840,
+      "num": 228840,
+      "word": "男子2000万买别墅中介闹乌龙卖错房",
+      "onboard_time": 1675478429,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -7387,14 +7403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 134257,
-      "num": 134257,
-      "word": "流浪气球",
-      "onboard_time": 1675478247,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134078,
       "num": 1573392,
       "word": "花好灯好月圆人圆",
@@ -7539,6 +7547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120563,
+      "num": 120563,
+      "word": "气出来的乳腺增生",
+      "onboard_time": 1675478726,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120458,
       "num": 120458,
       "word": "周深beatbox版祝你平安吹蜡烛",
@@ -7593,6 +7609,14 @@
       "onboard_time": 1675309597,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 108451,
+      "num": 108451,
+      "word": "大二男生凌晨冲进火场智救6岁女孩",
+      "onboard_time": 1675478907,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 107157,
