@@ -1,6 +1,6 @@
 {
   "startTime": 1675441538677,
-  "endTime": 1675475636207,
+  "endTime": 1675478331460,
   "band_list": [
     {
       "raw_hot": 3893603,
@@ -9,6 +9,14 @@
       "onboard_time": 1675468401,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2110213,
+      "num": 2110213,
+      "word": "李一桐 什么都嗑只会害了你",
+      "onboard_time": 1675474827,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1730670,
@@ -43,6 +51,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1142215,
+      "num": 1142215,
+      "word": "有人还完90万房贷月供1块抵个税",
+      "onboard_time": 1675474227,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1017851,
       "num": 1017851,
       "word": "杨紫腿部受伤",
@@ -75,12 +91,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 816615,
-      "num": 435376,
-      "word": "有人还完90万房贷月供1块抵个税",
-      "onboard_time": 1675474227,
-      "rank": 34,
-      "category": "财经,社会新闻"
+      "raw_hot": 903176,
+      "num": 604129,
+      "word": "牛小莉直播",
+      "onboard_time": 1675471765,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 777167,
+      "num": 611263,
+      "word": "00后在过一种很新的立春",
+      "onboard_time": 1675476446,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 756123,
@@ -115,6 +139,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 612562,
+      "num": 612562,
+      "word": "查出乳腺结节怎么办",
+      "onboard_time": 1675475426,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 578965,
       "num": 578965,
       "word": "唐嫣听到罗晋名字心率升高",
@@ -131,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557865,
+      "num": 557865,
+      "word": "薛之谦说张靓颖坐反了",
+      "onboard_time": 1675476208,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 557816,
       "num": 557816,
       "word": "杭州一商场女店员遭安保无故砍伤",
@@ -139,20 +179,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 551325,
+      "num": 551325,
+      "word": "苏小玎 我要演一条欧巴养的喝狼奶长大的狗",
+      "onboard_time": 1675476146,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 541416,
       "num": 541416,
       "word": "狂飙未播片段",
       "onboard_time": 1675418370,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 493690,
-      "num": 420143,
-      "word": "李一桐 什么都嗑只会害了你",
-      "onboard_time": 1675474827,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 493363,
@@ -211,6 +251,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403416,
+      "num": 338351,
+      "word": "布林肯",
+      "onboard_time": 1675474947,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402508,
+      "num": 402508,
+      "word": "边伯贤明日将退伍",
+      "onboard_time": 1675477588,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399119,
       "num": 399119,
       "word": "狂飙官方声明",
@@ -264,6 +320,14 @@
       "word": "用过期口罩做兔子灯笼",
       "onboard_time": 1675470384,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339802,
+      "num": 339802,
+      "word": "民警为救自残轻生女子被连刺三刀",
+      "onboard_time": 1675476745,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -371,6 +435,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256938,
+      "num": 256938,
+      "word": "破太岁",
+      "onboard_time": 1675477887,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 253711,
+      "num": 253711,
+      "word": "被人坚定地选择是什么感觉",
+      "onboard_time": 1675475788,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 253256,
+      "num": 253256,
+      "word": "初中男生关在房间烧寒假作业",
+      "onboard_time": 1675477287,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247228,
       "num": 247228,
       "word": "流浪地球2登顶单日票房榜",
@@ -419,20 +507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233982,
+      "num": 233982,
+      "word": "今天10时42分立春",
+      "onboard_time": 1675476208,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232644,
       "num": 232644,
       "word": "女子回应泰国旅游警察全程接机",
       "onboard_time": 1675439791,
       "rank": 28,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 229870,
-      "num": 229870,
-      "word": "布林肯",
-      "onboard_time": 1675474947,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228587,
@@ -531,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185545,
+      "num": 185545,
+      "word": "欧文有意湖人",
+      "onboard_time": 1675476686,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184967,
       "num": 184967,
       "word": "胡鑫宇为何成短视频流量密码",
@@ -545,6 +641,14 @@
       "onboard_time": 1675440029,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181377,
+      "num": 181377,
+      "word": "全国元宵节花灯大比拼",
+      "onboard_time": 1675477347,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178485,
@@ -603,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160906,
-      "num": 160906,
-      "word": "查出乳腺结节怎么办",
-      "onboard_time": 1675475426,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158299,
       "num": 158299,
       "word": "王一博无名打戏有自己的设计",
@@ -641,6 +737,14 @@
       "onboard_time": 1675430431,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143856,
+      "num": 143856,
+      "word": "今年立春有啥不同",
+      "onboard_time": 1675475906,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143340,
@@ -680,6 +784,14 @@
       "word": "春日诗词有多美",
       "onboard_time": 1675474047,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134257,
+      "num": 134257,
+      "word": "流浪气球",
+      "onboard_time": 1675478247,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -772,7 +884,7 @@
     },
     {
       "raw_hot": 77987,
-      "num": 1350825,
+      "num": 1497770,
       "word": "花好灯好月圆人圆",
       "onboard_time": 1675429711,
       "rank": 2,
