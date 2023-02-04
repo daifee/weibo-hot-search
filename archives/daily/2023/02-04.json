@@ -1,14 +1,22 @@
 {
   "startTime": 1675441538677,
-  "endTime": 1675474511843,
+  "endTime": 1675475636207,
   "band_list": [
     {
-      "raw_hot": 3587321,
-      "num": 3587321,
+      "raw_hot": 3893603,
+      "num": 3893603,
       "word": "躲春",
       "onboard_time": 1675468401,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1730670,
+      "num": 1730670,
+      "word": "牛莉直播",
+      "onboard_time": 1675471765,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1677701,
@@ -19,16 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1585740,
-      "num": 1585740,
-      "word": "牛莉直播",
-      "onboard_time": 1675471765,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1202940,
-      "num": 1202940,
+      "raw_hot": 1305240,
+      "num": 1305240,
       "word": "97岁奶奶为吃炸鸡打扮3小时",
       "onboard_time": 1675471464,
       "rank": 3,
@@ -73,6 +73,14 @@
       "onboard_time": 1675438769,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 816615,
+      "num": 435376,
+      "word": "有人还完90万房贷月供1块抵个税",
+      "onboard_time": 1675474227,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 756123,
@@ -137,6 +145,14 @@
       "onboard_time": 1675418370,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 493690,
+      "num": 420143,
+      "word": "李一桐 什么都嗑只会害了你",
+      "onboard_time": 1675474827,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 493363,
@@ -243,8 +259,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340970,
-      "num": 340970,
+      "raw_hot": 359676,
+      "num": 359676,
       "word": "用过期口罩做兔子灯笼",
       "onboard_time": 1675470384,
       "rank": 13,
@@ -379,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238042,
+      "num": 238042,
+      "word": "女孩要出门没钥匙自制开门机关",
+      "onboard_time": 1675472066,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237423,
       "num": 237423,
       "word": "3月大宝宝发量惊人撞脸蒙奇奇",
@@ -403,11 +427,11 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 231211,
-      "num": 231211,
-      "word": "女孩要出门没钥匙自制开门机关",
-      "onboard_time": 1675472066,
-      "rank": 23,
+      "raw_hot": 229870,
+      "num": 229870,
+      "word": "布林肯",
+      "onboard_time": 1675474947,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -427,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212657,
+      "num": 212657,
+      "word": "薛之谦线上演唱会收官舞台照",
+      "onboard_time": 1675475426,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 211039,
       "num": 211039,
       "word": "6岁男童乳牙未掉长新牙变双排牙",
@@ -444,7 +476,7 @@
     },
     {
       "raw_hot": 207986,
-      "num": 191192,
+      "num": 194821,
       "word": "还以为坐上了太空电梯",
       "onboard_time": 1675473446,
       "rank": 30,
@@ -456,6 +488,14 @@
       "word": "立春的到来意味着什么",
       "onboard_time": 1675467799,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191935,
+      "num": 191935,
+      "word": "和春天相约",
+      "onboard_time": 1675475247,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -483,6 +523,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 186881,
+      "num": 186881,
+      "word": "世界癌症日",
+      "onboard_time": 1675475066,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184967,
       "num": 184967,
       "word": "胡鑫宇为何成短视频流量密码",
@@ -507,12 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175644,
-      "num": 175644,
-      "word": "有人还完90万房贷月供1块抵个税",
-      "onboard_time": 1675474227,
-      "rank": 34,
-      "category": "财经,社会新闻"
+      "raw_hot": 176362,
+      "num": 176362,
+      "word": "这个兔年的立春有何特别之处",
+      "onboard_time": 1675474524,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170867,
@@ -553,6 +601,14 @@
       "onboard_time": 1675438351,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160906,
+      "num": 160906,
+      "word": "查出乳腺结节怎么办",
+      "onboard_time": 1675475426,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158299,
