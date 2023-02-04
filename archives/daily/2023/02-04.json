@@ -1,13 +1,37 @@
 {
   "startTime": 1675441538677,
-  "endTime": 1675467229735,
+  "endTime": 1675474511843,
   "band_list": [
+    {
+      "raw_hot": 3587321,
+      "num": 3587321,
+      "word": "躲春",
+      "onboard_time": 1675468401,
+      "rank": 0,
+      "category": "情感"
+    },
     {
       "raw_hot": 1677701,
       "num": 1677701,
       "word": "胡鑫宇请给心理指导师五分钟",
       "onboard_time": 1675430250,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1585740,
+      "num": 1585740,
+      "word": "牛莉直播",
+      "onboard_time": 1675471765,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1202940,
+      "num": 1202940,
+      "word": "97岁奶奶为吃炸鸡打扮3小时",
+      "onboard_time": 1675471464,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -25,6 +49,14 @@
       "onboard_time": 1675438169,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 947946,
+      "num": 947946,
+      "word": "立春",
+      "onboard_time": 1675467199,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 932879,
@@ -51,6 +83,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 694538,
+      "num": 694538,
+      "word": "女子患病失忆后再次爱上丈夫",
+      "onboard_time": 1675472668,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691252,
+      "num": 691252,
+      "word": "狂飙张彪扮演者说张译是恩人",
+      "onboard_time": 1675469245,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 678512,
       "num": 318294,
       "word": "上海一小区发生命案致3死1伤",
@@ -65,6 +113,14 @@
       "onboard_time": 1675432652,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 561622,
+      "num": 561622,
+      "word": "旅美大熊猫乐乐离世",
+      "onboard_time": 1675465816,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 557816,
@@ -97,6 +153,14 @@
       "onboard_time": 1675435532,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 451002,
+      "num": 451002,
+      "word": "欧文申请交易",
+      "onboard_time": 1675467199,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 443673,
@@ -171,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 360889,
-      "num": 360889,
-      "word": "立春",
-      "onboard_time": 1675467199,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360839,
       "num": 360839,
       "word": "父亲回应6岁儿子做饭致全身烧伤",
@@ -187,11 +243,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340970,
+      "num": 340970,
+      "word": "用过期口罩做兔子灯笼",
+      "onboard_time": 1675470384,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326658,
       "num": 326658,
       "word": "女生寺庙祈福遇crush",
       "onboard_time": 1675441706,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326210,
+      "num": 326210,
+      "word": "女子独自生娃婆家无人陪同",
+      "onboard_time": 1675456752,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -235,12 +307,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 286624,
-      "num": 286624,
-      "word": "女子独自生娃婆家无人陪同",
-      "onboard_time": 1675456752,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 291948,
+      "num": 291948,
+      "word": "俄军首批战斗机器人抵达顿巴斯",
+      "onboard_time": 1675466298,
+      "rank": 30,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 289413,
+      "num": 289413,
+      "word": "流浪地球2票房破30亿",
+      "onboard_time": 1675470443,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 280172,
@@ -257,14 +337,6 @@
       "onboard_time": 1675428748,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 272533,
-      "num": 272533,
-      "word": "旅美大熊猫乐乐离世",
-      "onboard_time": 1675465816,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262055,
@@ -307,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237423,
+      "num": 237423,
+      "word": "3月大宝宝发量惊人撞脸蒙奇奇",
+      "onboard_time": 1675458492,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236860,
       "num": 236860,
       "word": "癸卯兔年有两个立春",
@@ -321,6 +401,14 @@
       "onboard_time": 1675439791,
       "rank": 28,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 231211,
+      "num": 231211,
+      "word": "女孩要出门没钥匙自制开门机关",
+      "onboard_time": 1675472066,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228587,
@@ -347,12 +435,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209920,
+      "num": 209920,
+      "word": "男子社牛式问大哥要花生被热情投喂",
+      "onboard_time": 1675469785,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207986,
+      "num": 191192,
+      "word": "还以为坐上了太空电梯",
+      "onboard_time": 1675473446,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 198032,
+      "num": 198032,
+      "word": "立春的到来意味着什么",
+      "onboard_time": 1675467799,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191568,
+      "num": 191568,
+      "word": "C罗沙特超首球",
+      "onboard_time": 1675466417,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190896,
       "num": 190896,
       "word": "熬夜多但工资不高的工作",
       "onboard_time": 1675427129,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190365,
+      "num": 190365,
+      "word": "美国被曝将用乌两成领土换和平",
+      "onboard_time": 1675450454,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 184967,
@@ -379,12 +507,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172406,
-      "num": 172406,
-      "word": "美国被曝将用乌两成领土换和平",
-      "onboard_time": 1675450454,
-      "rank": 16,
-      "category": "国外要闻"
+      "raw_hot": 175644,
+      "num": 175644,
+      "word": "有人还完90万房贷月供1块抵个税",
+      "onboard_time": 1675474227,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 170867,
+      "num": 170867,
+      "word": "湖人太阳独行侠有意欧文",
+      "onboard_time": 1675469182,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 165889,
@@ -419,6 +555,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158299,
+      "num": 158299,
+      "word": "王一博无名打戏有自己的设计",
+      "onboard_time": 1675472306,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 149548,
+      "num": 149548,
+      "word": "流浪地球",
+      "onboard_time": 1675468941,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 146377,
+      "num": 146377,
+      "word": "舒淇说陈坤哥您生日快乐",
+      "onboard_time": 1675470865,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146024,
       "num": 146024,
       "word": "姚琛Straykids后台合照",
@@ -451,44 +611,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137371,
-      "num": 137371,
-      "word": "欧文申请交易",
-      "onboard_time": 1675467199,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 134888,
-      "num": 134888,
+      "raw_hot": 138779,
+      "num": 138779,
       "word": "夫妻沪漂22年捡废品打零工在沪买房",
       "onboard_time": 1675431394,
       "rank": 45,
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 129760,
-      "num": 129760,
-      "word": "C罗沙特超首球",
-      "onboard_time": 1675466417,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 120807,
-      "num": 99253,
-      "word": "俄军首批战斗机器人抵达顿巴斯",
-      "onboard_time": 1675466298,
-      "rank": 30,
-      "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 112083,
-      "num": 112083,
-      "word": "3月大宝宝发量惊人撞脸蒙奇奇",
-      "onboard_time": 1675458492,
-      "rank": 44,
+      "raw_hot": 137209,
+      "num": 137209,
+      "word": "春日诗词有多美",
+      "onboard_time": 1675474047,
+      "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132638,
+      "num": 132638,
+      "word": "马嘉祺的第二个音综",
+      "onboard_time": 1675468280,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127496,
+      "num": 127496,
+      "word": "杨易淘汰",
+      "onboard_time": 1675469122,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 109341,
@@ -563,8 +715,8 @@
       "category": "美食,影视"
     },
     {
-      "raw_hot": 56566,
-      "num": 1024460,
+      "raw_hot": 77987,
+      "num": 1350825,
       "word": "花好灯好月圆人圆",
       "onboard_time": 1675429711,
       "rank": 2,

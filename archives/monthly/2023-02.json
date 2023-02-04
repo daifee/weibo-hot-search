@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675467229735,
+  "endTime": 1675474511843,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -41,6 +41,14 @@
       "onboard_time": 1675249470,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3587321,
+      "num": 3587321,
+      "word": "躲春",
+      "onboard_time": 1675392147,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 3530109,
@@ -475,6 +483,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1585740,
+      "num": 1585740,
+      "word": "牛莉直播",
+      "onboard_time": 1675471765,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1578244,
       "num": 1578244,
       "word": "央视采访发现胡鑫宇尸体的粮库员工",
@@ -779,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1202940,
+      "num": 1202940,
+      "word": "97岁奶奶为吃炸鸡打扮3小时",
+      "onboard_time": 1675471464,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1184022,
       "num": 1184022,
       "word": "30岁女子买70万平小岛成岛主",
@@ -963,14 +987,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1067114,
-      "num": 1067114,
-      "word": "躲春",
-      "onboard_time": 1675392147,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1062909,
       "num": 1062909,
       "word": "黄瑶写给安欣的信",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1675329634,
       "rank": 11,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 947946,
+      "num": 947946,
+      "word": "立春",
+      "onboard_time": 1675467199,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 939879,
@@ -1771,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 694538,
+      "num": 694538,
+      "word": "女子患病失忆后再次爱上丈夫",
+      "onboard_time": 1675472668,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 692600,
       "num": 692600,
       "word": "第一次见可以剥皮的西瓜",
@@ -1785,6 +1817,14 @@
       "onboard_time": 1675169317,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691252,
+      "num": 691252,
+      "word": "狂飙张彪扮演者说张译是恩人",
+      "onboard_time": 1675469245,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 689845,
@@ -2353,6 +2393,14 @@
       "onboard_time": 1675245393,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 561622,
+      "num": 561622,
+      "word": "旅美大熊猫乐乐离世",
+      "onboard_time": 1675465816,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560773,
@@ -2969,6 +3017,14 @@
       "onboard_time": 1675436732,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 451002,
+      "num": 451002,
+      "word": "欧文申请交易",
+      "onboard_time": 1675467199,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 450850,
@@ -3683,14 +3739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360889,
-      "num": 360889,
-      "word": "立春",
-      "onboard_time": 1675467199,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360839,
       "num": 360839,
       "word": "父亲回应6岁儿子做饭致全身烧伤",
@@ -3883,6 +3931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340970,
+      "num": 340970,
+      "word": "用过期口罩做兔子灯笼",
+      "onboard_time": 1675470384,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340396,
       "num": 340396,
       "word": "父母患阿尔茨海默病儿子假装邻居陪护",
@@ -4025,6 +4081,14 @@
       "onboard_time": 1675350096,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 326210,
+      "num": 326210,
+      "word": "女子独自生娃婆家无人陪同",
+      "onboard_time": 1675456752,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326109,
@@ -4379,6 +4443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 291948,
+      "num": 291948,
+      "word": "俄军首批战斗机器人抵达顿巴斯",
+      "onboard_time": 1675466298,
+      "rank": 30,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 291371,
       "num": 217568,
       "word": "我的眼泪狂飙",
@@ -4400,6 +4472,14 @@
       "word": "流浪地球2票房破29亿",
       "onboard_time": 1675265374,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 289413,
+      "num": 289413,
+      "word": "流浪地球2票房破30亿",
+      "onboard_time": 1675470443,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -4449,14 +4529,6 @@
       "onboard_time": 1675434633,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286624,
-      "num": 286624,
-      "word": "女子独自生娃婆家无人陪同",
-      "onboard_time": 1675456752,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286538,
@@ -4657,14 +4729,6 @@
       "onboard_time": 1675223313,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 272533,
-      "num": 272533,
-      "word": "旅美大熊猫乐乐离世",
-      "onboard_time": 1675465816,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272237,
@@ -5163,6 +5227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237423,
+      "num": 237423,
+      "word": "3月大宝宝发量惊人撞脸蒙奇奇",
+      "onboard_time": 1675458492,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236860,
       "num": 236860,
       "word": "癸卯兔年有两个立春",
@@ -5249,6 +5321,14 @@
       "onboard_time": 1675226919,
       "rank": 36,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 231211,
+      "num": 231211,
+      "word": "女孩要出门没钥匙自制开门机关",
+      "onboard_time": 1675472066,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231150,
@@ -5515,6 +5595,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 209920,
+      "num": 209920,
+      "word": "男子社牛式问大哥要花生被热情投喂",
+      "onboard_time": 1675469785,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209579,
       "num": 209579,
       "word": "苹果iPhone业务收入下降8%",
@@ -5536,6 +5624,14 @@
       "word": "春节档电影联合感谢观众",
       "onboard_time": 1675227694,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 207986,
+      "num": 191192,
+      "word": "还以为坐上了太空电梯",
+      "onboard_time": 1675473446,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -5739,6 +5835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198032,
+      "num": 198032,
+      "word": "立春的到来意味着什么",
+      "onboard_time": 1675467799,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197639,
       "num": 197639,
       "word": "苹果或2025年推出可折叠笔记本",
@@ -5899,6 +6003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191568,
+      "num": 191568,
+      "word": "C罗沙特超首球",
+      "onboard_time": 1675466417,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190955,
       "num": 190955,
       "word": "谢谢狂飙",
@@ -5913,6 +6025,14 @@
       "onboard_time": 1675414048,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190365,
+      "num": 190365,
+      "word": "美国被曝将用乌两成领土换和平",
+      "onboard_time": 1675450454,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 190066,
@@ -6323,6 +6443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175644,
+      "num": 175644,
+      "word": "有人还完90万房贷月供1块抵个税",
+      "onboard_time": 1675474227,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 175150,
       "num": 165874,
       "word": "范丞丞支持电影中国乒乓",
@@ -6393,14 +6521,6 @@
       "onboard_time": 1675255590,
       "rank": 49,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 172406,
-      "num": 172406,
-      "word": "美国被曝将用乌两成领土换和平",
-      "onboard_time": 1675450454,
-      "rank": 16,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 172403,
@@ -6497,6 +6617,14 @@
       "onboard_time": 1675331793,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170867,
+      "num": 170867,
+      "word": "湖人太阳独行侠有意欧文",
+      "onboard_time": 1675469182,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 170289,
@@ -6747,6 +6875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158299,
+      "num": 158299,
+      "word": "王一博无名打戏有自己的设计",
+      "onboard_time": 1675472306,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157365,
       "num": 157365,
       "word": "张远在婚庆广场唱嘉宾",
@@ -6875,6 +7011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149548,
+      "num": 149548,
+      "word": "流浪地球",
+      "onboard_time": 1675468941,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148438,
       "num": 148438,
       "word": "以为是安欣和高启强",
@@ -6905,6 +7049,14 @@
       "onboard_time": 1675222833,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146377,
+      "num": 146377,
+      "word": "舒淇说陈坤哥您生日快乐",
+      "onboard_time": 1675470865,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 145486,
@@ -7011,12 +7163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137371,
-      "num": 137371,
-      "word": "欧文申请交易",
-      "onboard_time": 1675467199,
-      "rank": 21,
-      "category": "体育"
+      "raw_hot": 137209,
+      "num": 137209,
+      "word": "春日诗词有多美",
+      "onboard_time": 1675474047,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137074,
@@ -7123,6 +7275,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 132638,
+      "num": 132638,
+      "word": "马嘉祺的第二个音综",
+      "onboard_time": 1675468280,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130814,
       "num": 130814,
       "word": "实习时工资低还要考虑吗",
@@ -7147,14 +7307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129760,
-      "num": 129760,
-      "word": "C罗沙特超首球",
-      "onboard_time": 1675466417,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129298,
       "num": 129298,
       "word": "虞书欣黑色暗花运动服上班路透",
@@ -7177,6 +7329,14 @@
       "onboard_time": 1675206617,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127496,
+      "num": 127496,
+      "word": "杨易淘汰",
+      "onboard_time": 1675469122,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 127056,
@@ -7209,14 +7369,6 @@
       "onboard_time": 1675268186,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120807,
-      "num": 99253,
-      "word": "俄军首批战斗机器人抵达顿巴斯",
-      "onboard_time": 1675466298,
-      "rank": 30,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 120458,
@@ -7257,14 +7409,6 @@
       "onboard_time": 1675434872,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112083,
-      "num": 112083,
-      "word": "3月大宝宝发量惊人撞脸蒙奇奇",
-      "onboard_time": 1675458492,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110431,

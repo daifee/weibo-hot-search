@@ -1,0 +1,410 @@
+{
+  "runTime": 1675474511843,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3587321,
+        "num": 3587321,
+        "word": "躲春",
+        "onboard_time": 1675468401,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1585740,
+        "num": 1585740,
+        "word": "牛莉直播",
+        "onboard_time": 1675471765,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77987,
+        "num": 1350825,
+        "word": "花好灯好月圆人圆",
+        "onboard_time": 1675429711,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1202940,
+        "num": 1202940,
+        "word": "97岁奶奶为吃炸鸡打扮3小时",
+        "onboard_time": 1675471464,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947980,
+        "num": 947980,
+        "word": "胡鑫宇请给心理指导师五分钟",
+        "onboard_time": 1675430250,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947946,
+        "num": 947946,
+        "word": "立春",
+        "onboard_time": 1675467199,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826194,
+        "num": 826194,
+        "word": "为什么感觉工资过万很普遍了",
+        "onboard_time": 1675435172,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 694538,
+        "num": 694538,
+        "word": "女子患病失忆后再次爱上丈夫",
+        "onboard_time": 1675472668,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691252,
+        "num": 691252,
+        "word": "狂飙张彪扮演者说张译是恩人",
+        "onboard_time": 1675469245,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 561622,
+        "num": 561622,
+        "word": "旅美大熊猫乐乐离世",
+        "onboard_time": 1675465816,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657849,
+        "num": 518597,
+        "word": "中国无人飞艇因不可抗力误入美国领空",
+        "onboard_time": 1675432652,
+        "rank": 10,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 451002,
+        "num": 451002,
+        "word": "欧文申请交易",
+        "onboard_time": 1675467199,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373313,
+        "num": 373313,
+        "word": "中国人在西班牙卖糖葫芦1串30元",
+        "onboard_time": 1675460172,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340970,
+        "num": 340970,
+        "word": "用过期口罩做兔子灯笼",
+        "onboard_time": 1675470384,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334339,
+        "num": 334339,
+        "word": "杨紫腿部受伤",
+        "onboard_time": 1675438169,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326210,
+        "num": 326210,
+        "word": "女子独自生娃婆家无人陪同",
+        "onboard_time": 1675456752,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305906,
+        "num": 305906,
+        "word": "男子套圈3000元套中2辆小汽车",
+        "onboard_time": 1675437451,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299714,
+        "num": 299714,
+        "word": "狂飙演员因好友演警察前期不说话",
+        "onboard_time": 1675432893,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291948,
+        "num": 291948,
+        "word": "俄军首批战斗机器人抵达顿巴斯",
+        "onboard_time": 1675466298,
+        "rank": 18,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 289413,
+        "num": 289413,
+        "word": "流浪地球2票房破30亿",
+        "onboard_time": 1675470443,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281163,
+        "num": 281163,
+        "word": "真的害怕深海回不了本",
+        "onboard_time": 1675435532,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258847,
+        "num": 258847,
+        "word": "为什么要咬春",
+        "onboard_time": 1675464255,
+        "rank": 21,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 237423,
+        "num": 237423,
+        "word": "3月大宝宝发量惊人撞脸蒙奇奇",
+        "onboard_time": 1675458492,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231211,
+        "num": 231211,
+        "word": "女孩要出门没钥匙自制开门机关",
+        "onboard_time": 1675472066,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228945,
+        "num": 228945,
+        "word": "王子文微博评论区",
+        "onboard_time": 1675438769,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227021,
+        "num": 227021,
+        "word": "唐嫣听到罗晋名字心率升高",
+        "onboard_time": 1675432652,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215474,
+        "num": 215474,
+        "word": "癸卯兔年有两个立春",
+        "onboard_time": 1675465816,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209920,
+        "num": 209920,
+        "word": "男子社牛式问大哥要花生被热情投喂",
+        "onboard_time": 1675469785,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198032,
+        "num": 198032,
+        "word": "立春的到来意味着什么",
+        "onboard_time": 1675467799,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191568,
+        "num": 191568,
+        "word": "C罗沙特超首球",
+        "onboard_time": 1675466417,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207986,
+        "num": 191192,
+        "word": "还以为坐上了太空电梯",
+        "onboard_time": 1675473446,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190365,
+        "num": 190365,
+        "word": "美国被曝将用乌两成领土换和平",
+        "onboard_time": 1675450454,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 186804,
+        "num": 186804,
+        "word": "张颂文大学毕业照",
+        "onboard_time": 1675438232,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183035,
+        "num": 183035,
+        "word": "媳妇帮婆婆化妆美貌还原儿子惊呆",
+        "onboard_time": 1675436671,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175644,
+        "num": 175644,
+        "word": "有人还完90万房贷月供1块抵个税",
+        "onboard_time": 1675474227,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 175014,
+        "num": 175014,
+        "word": "流浪地球是在哈尔滨拍的吧",
+        "onboard_time": 1675440390,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170867,
+        "num": 170867,
+        "word": "湖人太阳独行侠有意欧文",
+        "onboard_time": 1675469182,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166096,
+        "num": 166096,
+        "word": "王一博16岁时和姚晨演过大学情侣",
+        "onboard_time": 1675433612,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164183,
+        "num": 164183,
+        "word": "历史学博士后称满江红不是岳飞写的",
+        "onboard_time": 1675429170,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158299,
+        "num": 158299,
+        "word": "王一博无名打戏有自己的设计",
+        "onboard_time": 1675472306,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153017,
+        "num": 153017,
+        "word": "气球",
+        "onboard_time": 1675465516,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149548,
+        "num": 149548,
+        "word": "流浪地球",
+        "onboard_time": 1675468941,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146377,
+        "num": 146377,
+        "word": "舒淇说陈坤哥您生日快乐",
+        "onboard_time": 1675470865,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144644,
+        "num": 144644,
+        "word": "熬夜多但工资不高的工作",
+        "onboard_time": 1675427129,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138779,
+        "num": 138779,
+        "word": "夫妻沪漂22年捡废品打零工在沪买房",
+        "onboard_time": 1675431394,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 137209,
+        "num": 137209,
+        "word": "春日诗词有多美",
+        "onboard_time": 1675474047,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134517,
+        "num": 134517,
+        "word": "买旧相机发现15年前北京奥运留影",
+        "onboard_time": 1675465216,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132638,
+        "num": 132638,
+        "word": "马嘉祺的第二个音综",
+        "onboard_time": 1675468280,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129069,
+        "num": 129069,
+        "word": "医院免去100元男子50年后还10万",
+        "onboard_time": 1675436671,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127496,
+        "num": 127496,
+        "word": "杨易淘汰",
+        "onboard_time": 1675469122,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#元宵赏月指南#"
+    }
+  }
+}
