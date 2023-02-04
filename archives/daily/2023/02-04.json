@@ -1,6 +1,6 @@
 {
   "startTime": 1675441538677,
-  "endTime": 1675510392558,
+  "endTime": 1675513946070,
   "band_list": [
     {
       "raw_hot": 3893603,
@@ -155,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1050408,
+      "num": 1050408,
+      "word": "42岁张柏芝和44岁沙溢同框",
+      "onboard_time": 1675505488,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1017851,
       "num": 1017851,
       "word": "杨紫腿部受伤",
       "onboard_time": 1675438169,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1007445,
+      "num": 1007445,
+      "word": "专家再谈劝百姓拿出三分之一存款买房",
+      "onboard_time": 1675511910,
+      "rank": 1,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 965201,
@@ -243,20 +259,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 857540,
-      "num": 857540,
-      "word": "42岁张柏芝和44岁沙溢同框",
-      "onboard_time": 1675505488,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 856575,
       "num": 856575,
       "word": "分不清李一桐白鹿",
       "onboard_time": 1675491267,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 849444,
+      "num": 849444,
+      "word": "iPhone微信转账语音播报出错",
+      "onboard_time": 1675510409,
+      "rank": 2,
+      "category": "科技"
     },
     {
       "raw_hot": 821373,
@@ -363,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 689115,
+      "num": 689115,
+      "word": "高启强听完都得哭两声",
+      "onboard_time": 1675510708,
+      "rank": 4,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 678512,
       "num": 318294,
       "word": "上海一小区发生命案致3死1伤",
@@ -401,6 +425,14 @@
       "onboard_time": 1675493610,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 652344,
+      "num": 652344,
+      "word": "李一桐郭晓婷不到90斤",
+      "onboard_time": 1675512270,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 631121,
@@ -443,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 588121,
+      "num": 588121,
+      "word": "连狗狗都有狗狗了",
+      "onboard_time": 1675508608,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 588065,
       "num": 588065,
       "word": "大二男生凌晨冲进火场智救6岁女孩",
@@ -475,20 +515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 557916,
-      "num": 557916,
-      "word": "连狗狗都有狗狗了",
-      "onboard_time": 1675508608,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 557816,
       "num": 557816,
       "word": "杭州一商场女店员遭安保无故砍伤",
       "onboard_time": 1675441167,
       "rank": 39,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 556806,
+      "num": 504164,
+      "word": "38岁男子因未婚被母亲带医院检查",
+      "onboard_time": 1675512510,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 551902,
@@ -539,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 518550,
+      "num": 518550,
+      "word": "男子车被刮发现6只狗打1只猫",
+      "onboard_time": 1675511670,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507326,
       "num": 507326,
       "word": "吴刚说庆余年2快了",
@@ -560,6 +608,14 @@
       "word": "真的害怕深海回不了本",
       "onboard_time": 1675435532,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 486234,
+      "num": 486234,
+      "word": "宋威龙直播叫井柏然大叔",
+      "onboard_time": 1675513769,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -649,6 +705,14 @@
       "onboard_time": 1675438232,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411307,
+      "num": 411307,
+      "word": "刘怡潼说热度破8000穿婚纱自拍",
+      "onboard_time": 1675511970,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 410167,
@@ -753,6 +817,14 @@
       "onboard_time": 1675480106,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 364792,
+      "num": 364792,
+      "word": "谢谢张颂文聊天表情包很好用",
+      "onboard_time": 1675510053,
+      "rank": 20,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 360839,
@@ -1027,14 +1099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 272687,
-      "num": 272687,
-      "word": "谢谢张颂文聊天表情包很好用",
-      "onboard_time": 1675510053,
-      "rank": 20,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 269710,
       "num": 269710,
       "word": "女生被爸爸催婚称不要彩礼倒贴2万",
@@ -1064,6 +1128,14 @@
       "word": "刘耀文跑龙套带零食创可贴",
       "onboard_time": 1675489708,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 254469,
+      "num": 254469,
+      "word": "时代少年团百忧戒转场视频",
+      "onboard_time": 1675513769,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -1267,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219495,
+      "num": 219495,
+      "word": "刚领证7天男子被妻子打进医院",
+      "onboard_time": 1675513410,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218659,
       "num": 218659,
       "word": "这是看狂飙魔怔了",
@@ -1296,6 +1376,14 @@
       "word": "流浪地球后遗症",
       "onboard_time": 1675480944,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 213882,
+      "num": 213882,
+      "word": "无名王一博王传君观摩梁朝伟演戏",
+      "onboard_time": 1675511191,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -1329,6 +1417,14 @@
       "onboard_time": 1675473446,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204877,
+      "num": 204877,
+      "word": "梳小平头的猫咪",
+      "onboard_time": 1675512029,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 204354,
@@ -1667,12 +1763,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152530,
+      "num": 152530,
+      "word": "蒋依依直播模仿懒羊羊美羊羊",
+      "onboard_time": 1675512569,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152076,
       "num": 152076,
       "word": "流浪狗的世界出现了一束光",
       "onboard_time": 1675508187,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150643,
+      "num": 150643,
+      "word": "遭遇断崖式分手如何走出来",
+      "onboard_time": 1675513590,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 149548,
@@ -1688,6 +1800,14 @@
       "word": "显微镜下的大明预约破400万",
       "onboard_time": 1675490366,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 148949,
+      "num": 148949,
+      "word": "宋威龙直播谈新剧人设",
+      "onboard_time": 1675511850,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1763,6 +1883,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 137743,
+      "num": 137743,
+      "word": "流浪地球2主创央视对话",
+      "onboard_time": 1675511249,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137209,
       "num": 137209,
       "word": "春日诗词有多美",
@@ -1777,6 +1905,14 @@
       "onboard_time": 1675499668,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134958,
+      "num": 134958,
+      "word": "感受到了小狗的开心",
+      "onboard_time": 1675509451,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 134908,
@@ -1801,6 +1937,14 @@
       "onboard_time": 1675479809,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131060,
+      "num": 131060,
+      "word": "仔仔细细照镜子的狗狗",
+      "onboard_time": 1675513229,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 128323,
