@@ -1,6 +1,6 @@
 {
   "startTime": 1675441538677,
-  "endTime": 1675491717509,
+  "endTime": 1675492570439,
   "band_list": [
     {
       "raw_hot": 3893603,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 957955,
+      "num": 957955,
+      "word": "网传我是歌手女生季首发名单",
+      "onboard_time": 1675490547,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 932879,
       "num": 932879,
       "word": "中国无人飞艇因不可抗力误入美国领空",
@@ -193,14 +201,6 @@
       "onboard_time": 1675477287,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 790564,
-      "num": 790564,
-      "word": "网传我是歌手女生季首发名单",
-      "onboard_time": 1675490547,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 780731,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491518,
+      "num": 491518,
+      "word": "分不清李一桐白鹿",
+      "onboard_time": 1675491267,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489448,
       "num": 489448,
       "word": "真的害怕深海回不了本",
@@ -387,8 +395,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 462801,
-      "num": 462801,
+      "raw_hot": 484172,
+      "num": 484172,
       "word": "张颂文曾经是广东省最佳导游",
       "onboard_time": 1675489647,
       "rank": 10,
@@ -691,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284632,
+      "num": 284632,
+      "word": "父亲借女儿3万压岁钱不还被起诉",
+      "onboard_time": 1675491807,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283146,
       "num": 283146,
       "word": "被人坚定地选择是什么感觉",
@@ -771,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247948,
+      "num": 247948,
+      "word": "台湾网友看了狂飙想去广东吃肠粉",
+      "onboard_time": 1675491205,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247228,
       "num": 247228,
       "word": "流浪地球2登顶单日票房榜",
@@ -793,14 +817,6 @@
       "onboard_time": 1675440390,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 240289,
-      "num": 240289,
-      "word": "分不清李一桐白鹿",
-      "onboard_time": 1675491267,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 238042,
@@ -875,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214563,
+      "num": 214563,
+      "word": "唐艺昕晒旅行plog",
+      "onboard_time": 1675490966,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214172,
       "num": 214172,
       "word": "流浪地球后遗症",
@@ -907,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208130,
+      "num": 208130,
+      "word": "张译跳舞",
+      "onboard_time": 1675491985,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207986,
       "num": 194821,
       "word": "还以为坐上了太空电梯",
@@ -921,14 +953,6 @@
       "onboard_time": 1675479507,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202919,
-      "num": 202919,
-      "word": "唐艺昕晒旅行plog",
-      "onboard_time": 1675490966,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 201793,
@@ -1083,14 +1107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165622,
-      "num": 165622,
-      "word": "台湾网友看了狂飙想去广东吃肠粉",
-      "onboard_time": 1675491205,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 164308,
       "num": 164308,
       "word": "三体",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1675438351,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161084,
+      "num": 161084,
+      "word": "男子拿被赠饼干换烟遭拒后踩碎",
+      "onboard_time": 1675491685,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158299,
@@ -1291,6 +1315,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127035,
+      "num": 127035,
+      "word": "明星立春营业照",
+      "onboard_time": 1675492168,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119671,
+      "num": 119671,
+      "word": "钎城学猫叫",
+      "onboard_time": 1675491985,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 118949,
+      "num": 118949,
+      "word": "女孩总喊腹痛被说厌学查出恶性肿瘤",
+      "onboard_time": 1675492347,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110089,
       "num": 461924,
       "word": "吐槽老板居然这么爽",
@@ -1321,14 +1369,6 @@
       "onboard_time": 1675434396,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104303,
-      "num": 104303,
-      "word": "男子拿被赠饼干换烟遭拒后踩碎",
-      "onboard_time": 1675491685,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102406,
