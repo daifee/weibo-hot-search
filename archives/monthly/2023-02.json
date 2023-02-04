@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675496001911,
+  "endTime": 1675498921834,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -795,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1249126,
+      "num": 1249126,
+      "word": "父亲借女儿3万压岁钱不还被起诉",
+      "onboard_time": 1675491807,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1248778,
       "num": 1248778,
       "word": "我们抱怨工资低有错吗",
@@ -825,14 +833,6 @@
       "onboard_time": 1675392689,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1190877,
-      "num": 1190877,
-      "word": "父亲借女儿3万压岁钱不还被起诉",
-      "onboard_time": 1675491807,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1187264,
@@ -889,6 +889,14 @@
       "onboard_time": 1675402589,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1156765,
+      "num": 1156765,
+      "word": "父亲在公园眼睁睁看着女儿被亲",
+      "onboard_time": 1675493251,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1144748,
@@ -1057,6 +1065,14 @@
       "onboard_time": 1675254151,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1059464,
+      "num": 1059464,
+      "word": "游客洪崖洞花30元找当地大爷抄近道",
+      "onboard_time": 1675496368,
+      "rank": 3,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 1055402,
@@ -1385,14 +1401,6 @@
       "onboard_time": 1675229910,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 878626,
-      "num": 878626,
-      "word": "父亲在公园眼睁睁看着女儿被亲",
-      "onboard_time": 1675493251,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 878534,
@@ -2747,6 +2755,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 544123,
+      "num": 544123,
+      "word": "马思纯说不会让大家等太久了",
+      "onboard_time": 1675495889,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 544103,
       "num": 544103,
       "word": "李一桐说和张译合作很过瘾",
@@ -3024,6 +3040,14 @@
       "word": "陈星旭李兰迪新剧预告",
       "onboard_time": 1675307976,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 500720,
+      "num": 500720,
+      "word": "狂飙2没你们我不看",
+      "onboard_time": 1675493610,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -3441,6 +3465,14 @@
       "onboard_time": 1675403791,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 434764,
+      "num": 434764,
+      "word": "34岁女子过年被催婚患上抑郁症",
+      "onboard_time": 1675494328,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434425,
@@ -3923,14 +3955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 381449,
-      "num": 381449,
-      "word": "34岁女子过年被催婚患上抑郁症",
-      "onboard_time": 1675494328,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 380964,
       "num": 380964,
       "word": "权顺荣再上酒综",
@@ -3945,14 +3969,6 @@
       "onboard_time": 1675343376,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 379278,
-      "num": 379278,
-      "word": "狂飙2没你们我不看",
-      "onboard_time": 1675493610,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 379088,
@@ -4451,6 +4467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327086,
+      "num": 327086,
+      "word": "工人焊桥墩钢筋把自己焊进里面",
+      "onboard_time": 1675495049,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326658,
       "num": 326658,
       "word": "女生寺庙祈福遇crush",
@@ -4761,14 +4785,6 @@
       "onboard_time": 1675438111,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 302200,
-      "num": 302200,
-      "word": "马思纯说不会让大家等太久了",
-      "onboard_time": 1675495889,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 302199,
@@ -5547,6 +5563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249915,
+      "num": 249915,
+      "word": "白鹿以爱为营片场玩耍路透",
+      "onboard_time": 1675496428,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249518,
       "num": 249518,
       "word": "张俪跳伞是第一个上的",
@@ -5697,6 +5721,14 @@
       "onboard_time": 1675268785,
       "rank": 27,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 242445,
+      "num": 242445,
+      "word": "研究发现易胖和易瘦者的大脑不同",
+      "onboard_time": 1675498048,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241907,
@@ -6043,6 +6075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219766,
+      "num": 219766,
+      "word": "苏醒说何洁比他境界高多了",
+      "onboard_time": 1675495708,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218863,
       "num": 218863,
       "word": "体面地说分手是种什么体验",
@@ -6241,14 +6281,6 @@
       "onboard_time": 1675339112,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 205378,
-      "num": 205378,
-      "word": "苏醒说何洁比他境界高多了",
-      "onboard_time": 1675495708,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 205360,
@@ -6604,7 +6636,7 @@
     },
     {
       "raw_hot": 191935,
-      "num": 191935,
+      "num": 338691,
       "word": "和春天相约",
       "onboard_time": 1675475247,
       "rank": 31,
@@ -7091,6 +7123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175888,
+      "num": 175888,
+      "word": "时代少年团串烧彩排舞台花絮",
+      "onboard_time": 1675496908,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175150,
       "num": 165874,
       "word": "范丞丞支持电影中国乒乓",
@@ -7315,14 +7355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167737,
-      "num": 167737,
-      "word": "工人焊桥墩钢筋把自己焊进里面",
-      "onboard_time": 1675495049,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167399,
       "num": 167399,
       "word": "LNG战胜RNG",
@@ -7521,6 +7553,14 @@
       "onboard_time": 1675243169,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159307,
+      "num": 159307,
+      "word": "还没走出狂飙",
+      "onboard_time": 1675498350,
+      "rank": 32,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 159208,
@@ -8233,6 +8273,14 @@
       "onboard_time": 1675309597,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 107764,
+      "num": 107764,
+      "word": "超市回应男子踩碎两女孩送的饼干",
+      "onboard_time": 1675498889,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107157,
