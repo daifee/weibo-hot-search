@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675509288206,
+  "endTime": 1675510392558,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -1499,6 +1499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 857540,
+      "num": 857540,
+      "word": "42岁张柏芝和44岁沙溢同框",
+      "onboard_time": 1675505488,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 856575,
       "num": 856575,
       "word": "分不清李一桐白鹿",
@@ -1849,14 +1857,6 @@
       "onboard_time": 1675432893,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 732808,
-      "num": 732808,
-      "word": "42岁张柏芝和44岁沙溢同框",
-      "onboard_time": 1675505488,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 731996,
@@ -2467,6 +2467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 618078,
+      "num": 618078,
+      "word": "大学生寒假点外卖现状",
+      "onboard_time": 1675505250,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 616959,
       "num": 616959,
       "word": "刘耀文叫王鹤棣棣哥",
@@ -2505,14 +2513,6 @@
       "onboard_time": 1675425806,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 601033,
-      "num": 601033,
-      "word": "大学生寒假点外卖现状",
-      "onboard_time": 1675505250,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 600722,
@@ -2769,6 +2769,14 @@
       "onboard_time": 1675389388,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557916,
+      "num": 557916,
+      "word": "连狗狗都有狗狗了",
+      "onboard_time": 1675508608,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 557904,
@@ -3099,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 507326,
+      "num": 507326,
+      "word": "吴刚说庆余年2快了",
+      "onboard_time": 1675507408,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 507034,
       "num": 507034,
       "word": "妈妈先抱弟弟引女儿委屈质问",
@@ -3208,14 +3224,6 @@
       "word": "张译写的书名叫不靠谱的演员都爱说如果",
       "onboard_time": 1675315352,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 490330,
-      "num": 490330,
-      "word": "吴刚说庆余年2快了",
-      "onboard_time": 1675507408,
-      "rank": 10,
       "category": "影视"
     },
     {
@@ -4387,6 +4395,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 349867,
+      "num": 349867,
+      "word": "深海",
+      "onboard_time": 1675507050,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349744,
       "num": 349744,
       "word": "流浪地球2将饱和式贯彻到底",
@@ -4473,14 +4489,6 @@
       "onboard_time": 1675503450,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 340545,
-      "num": 340545,
-      "word": "深海",
-      "onboard_time": 1675507050,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 340396,
@@ -4881,6 +4889,14 @@
       "onboard_time": 1675400253,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 310843,
+      "num": 310843,
+      "word": "你好星期六",
+      "onboard_time": 1675506687,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 308181,
@@ -5403,6 +5419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 272687,
+      "num": 272687,
+      "word": "谢谢张颂文聊天表情包很好用",
+      "onboard_time": 1675510053,
+      "rank": 20,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 272237,
       "num": 272237,
       "word": "妹妹骑车冲下楼梯妈妈问责姐姐",
@@ -5747,12 +5771,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 250842,
+      "num": 250842,
+      "word": "满江红",
+      "onboard_time": 1675506207,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250796,
       "num": 250796,
       "word": "王一博无名卡车笑拍摄幕后",
       "onboard_time": 1675260096,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 250033,
+      "num": 250033,
+      "word": "孙俪看邓超跳广场舞表情演我",
+      "onboard_time": 1675506929,
+      "rank": 27,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 249915,
@@ -5857,14 +5897,6 @@
       "onboard_time": 1675261477,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 247291,
-      "num": 247291,
-      "word": "你好星期六",
-      "onboard_time": 1675506687,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 245774,
@@ -6059,14 +6091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233462,
-      "num": 233462,
-      "word": "连狗狗都有狗狗了",
-      "onboard_time": 1675508608,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 233212,
       "num": 233212,
       "word": "流浪地球2引入全程预拍摄",
@@ -6081,6 +6105,14 @@
       "onboard_time": 1675439791,
       "rank": 28,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 232453,
+      "num": 207834,
+      "word": "无限艺员身高体重公开",
+      "onboard_time": 1675509451,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 232089,
@@ -6283,14 +6315,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 220325,
-      "num": 220325,
-      "word": "满江红",
-      "onboard_time": 1675506207,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 220159,
       "num": 220159,
       "word": "你知道皮蛋有多美吗",
@@ -6307,14 +6331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219972,
-      "num": 219972,
-      "word": "孙俪看邓超跳广场舞表情演我",
-      "onboard_time": 1675506929,
-      "rank": 27,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 219766,
       "num": 219766,
       "word": "苏醒说何洁比他境界高多了",
@@ -6329,6 +6345,14 @@
       "onboard_time": 1675330833,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218659,
+      "num": 218659,
+      "word": "这是看狂飙魔怔了",
+      "onboard_time": 1675508249,
+      "rank": 31,
+      "category": "幽默,影视"
     },
     {
       "raw_hot": 218618,
@@ -6827,6 +6851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194320,
+      "num": 194320,
+      "word": "绘旅人情人节",
+      "onboard_time": 1675510291,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193887,
       "num": 193887,
       "word": "TTG官宣风君回归",
@@ -6889,14 +6921,6 @@
       "onboard_time": 1675315712,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192180,
-      "num": 192180,
-      "word": "这是看狂飙魔怔了",
-      "onboard_time": 1675508249,
-      "rank": 31,
-      "category": "幽默,影视"
     },
     {
       "raw_hot": 191935,
@@ -7715,20 +7739,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165556,
+      "num": 165556,
+      "word": "湖南一男子当街殴打掌掴女子",
+      "onboard_time": 1675499487,
+      "rank": 42,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 165341,
       "num": 165341,
       "word": "孙悦说周深的声音带入感很强",
       "onboard_time": 1675435172,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165018,
-      "num": 165018,
-      "word": "湖南一男子当街殴打掌掴女子",
-      "onboard_time": 1675499487,
-      "rank": 42,
-      "category": "社会负面"
     },
     {
       "raw_hot": 165000,
@@ -7923,20 +7947,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157419,
+      "num": 157419,
+      "word": "你被水果刺客劝退过吗",
+      "onboard_time": 1675508068,
+      "rank": 38,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 157365,
       "num": 157365,
       "word": "张远在婚庆广场唱嘉宾",
       "onboard_time": 1675412848,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156701,
-      "num": 156701,
-      "word": "你被水果刺客劝退过吗",
-      "onboard_time": 1675508068,
-      "rank": 38,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 156287,
@@ -8563,6 +8587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116824,
+      "num": 116824,
+      "word": "典籍里的中国越绝书",
+      "onboard_time": 1675509931,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114264,
       "num": 114264,
       "word": "不想带娃的狗妈妈",
@@ -9035,6 +9067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 27900,
+      "num": 353576,
+      "word": "比亚迪汽车王者荣耀高校赛",
+      "onboard_time": 1675508428,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26846,
       "num": 21901,
       "word": "饺子皮薯片",
@@ -9065,14 +9105,6 @@
       "onboard_time": 1675369332,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 18222,
-      "num": 353576,
-      "word": "比亚迪汽车王者荣耀高校赛",
-      "onboard_time": 1675508428,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 16380,
