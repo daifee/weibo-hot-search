@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675517588866,
+  "endTime": 1675520133650,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 1952472,
-      "num": 894145,
+      "num": 980947,
       "word": "刚领证7天男子被妻子打进医院",
       "onboard_time": 1675513410,
       "rank": 24,
@@ -441,6 +441,14 @@
       "onboard_time": 1675471765,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1721837,
+      "num": 1721837,
+      "word": "iPhone14Pro全系降价700元",
+      "onboard_time": 1675518271,
+      "rank": 0,
+      "category": "科技"
     },
     {
       "raw_hot": 1719004,
@@ -849,6 +857,14 @@
       "onboard_time": 1675218988,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1244732,
+      "num": 1244732,
+      "word": "恃宠",
+      "onboard_time": 1675514490,
+      "rank": 24,
+      "category": "其它"
     },
     {
       "raw_hot": 1232329,
@@ -1307,14 +1323,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 946691,
-      "num": 946691,
-      "word": "恃宠",
-      "onboard_time": 1675514490,
-      "rank": 24,
-      "category": "其它"
-    },
-    {
       "raw_hot": 939879,
       "num": 939879,
       "word": "扎堆提前还房贷并不可取",
@@ -1545,6 +1553,14 @@
       "onboard_time": 1675228650,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 858897,
+      "num": 858897,
+      "word": "女子吐槽30岁相亲不是二婚就是老头",
+      "onboard_time": 1675514187,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 856575,
@@ -1851,20 +1867,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 751669,
-      "num": 751669,
-      "word": "女子吐槽30岁相亲不是二婚就是老头",
-      "onboard_time": 1675514187,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 750245,
       "num": 661965,
       "word": "张柏芝把杨迪错认成张杰",
       "onboard_time": 1675435111,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 745553,
+      "num": 745553,
+      "word": "高启强意想不到的出圈方式",
+      "onboard_time": 1675516471,
+      "rank": 37,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 745552,
@@ -2209,6 +2225,14 @@
       "onboard_time": 1675394850,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 679248,
+      "num": 679248,
+      "word": "19岁男孩患阿尔兹海默症",
+      "onboard_time": 1675516232,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 677841,
@@ -3243,6 +3267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502024,
+      "num": 502024,
+      "word": "秦霄贤看到钟楚曦劈叉的反应",
+      "onboard_time": 1675518333,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501507,
       "num": 501507,
       "word": "陈星旭李兰迪新剧预告",
@@ -3379,6 +3411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 481874,
+      "num": 481874,
+      "word": "龚俊钟楚曦合体宣传我要逆风去",
+      "onboard_time": 1675517851,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479629,
       "num": 479629,
       "word": "姚琛Straykids后台合照",
@@ -3409,6 +3449,14 @@
       "onboard_time": 1675233812,
       "rank": 16,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 475436,
+      "num": 475436,
+      "word": "黄绮珊8年前后对比照",
+      "onboard_time": 1675516711,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 473461,
@@ -3553,6 +3601,14 @@
       "onboard_time": 1675373231,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452874,
+      "num": 452874,
+      "word": "刘耀文一镜到底吃8碗面",
+      "onboard_time": 1675517372,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 451281,
@@ -3840,6 +3896,14 @@
       "word": "谢天华因少买咖啡被同组女演员排挤",
       "onboard_time": 1675264414,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 420019,
+      "num": 420019,
+      "word": "严浩翔执着于和刘耀文比心",
+      "onboard_time": 1675518391,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -4371,6 +4435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363991,
+      "num": 363991,
+      "word": "第一次见咖啡肠粉",
+      "onboard_time": 1675516892,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 363653,
       "num": 363653,
       "word": "宋亚轩说刘耀文发量少",
@@ -4417,14 +4489,6 @@
       "onboard_time": 1675229312,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 359347,
-      "num": 359347,
-      "word": "19岁男孩患阿尔兹海默症",
-      "onboard_time": 1675516232,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358735,
@@ -4537,6 +4601,14 @@
       "onboard_time": 1675507050,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 349802,
+      "num": 349802,
+      "word": "BLG对战WBG",
+      "onboard_time": 1675516592,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 349744,
@@ -4729,6 +4801,14 @@
       "onboard_time": 1675399055,
       "rank": 44,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 334162,
+      "num": 334162,
+      "word": "张真源唱心桥",
+      "onboard_time": 1675518271,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 331459,
@@ -5043,14 +5123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 309235,
-      "num": 309235,
-      "word": "高启强意想不到的出圈方式",
-      "onboard_time": 1675516471,
-      "rank": 37,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 308181,
       "num": 308181,
       "word": "警方回应胡鑫宇事件相关谣言",
@@ -5121,6 +5193,14 @@
       "onboard_time": 1675214909,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302836,
+      "num": 302836,
+      "word": "你会考虑在农村盖养老房吗",
+      "onboard_time": 1675515932,
+      "rank": 46,
+      "category": "社会议题"
     },
     {
       "raw_hot": 302203,
@@ -5233,14 +5313,6 @@
       "onboard_time": 1675481966,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 294190,
-      "num": 294190,
-      "word": "BLG对战WBG",
-      "onboard_time": 1675516592,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 293743,
@@ -5440,6 +5512,14 @@
       "word": "王一博无名西装造型插兜花絮",
       "onboard_time": 1675505129,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 282810,
+      "num": 282810,
+      "word": "井柏然去宋威龙房车蹭饭",
+      "onboard_time": 1675515030,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -5651,6 +5731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268153,
+      "num": 268153,
+      "word": "埃弗顿vs阿森纳",
+      "onboard_time": 1675520071,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267999,
       "num": 267999,
       "word": "iG青春风暴",
@@ -5769,14 +5857,6 @@
       "onboard_time": 1675336173,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263655,
-      "num": 263655,
-      "word": "井柏然去宋威龙房车蹭饭",
-      "onboard_time": 1675515030,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 263308,
@@ -5945,6 +6025,14 @@
       "onboard_time": 1675343436,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 253374,
+      "num": 253374,
+      "word": "荣梓杉演了神雕侠侣里的雕",
+      "onboard_time": 1675518630,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 252876,
@@ -6323,14 +6411,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 231324,
-      "num": 231324,
-      "word": "刘耀文一镜到底吃8碗面",
-      "onboard_time": 1675517372,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 231150,
       "num": 231150,
       "word": "流浪地球2为何如此受欢迎",
@@ -6497,6 +6577,14 @@
       "onboard_time": 1675245571,
       "rank": 42,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 222303,
+      "num": 222303,
+      "word": "航天专家谈三体太空电梯可行性",
+      "onboard_time": 1675518091,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 221945,
@@ -6715,14 +6803,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 209421,
-      "num": 209421,
-      "word": "黄绮珊8年前后对比照",
-      "onboard_time": 1675516711,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208123,
       "num": 208123,
       "word": "提前还房贷要排队几个月",
@@ -6769,6 +6849,14 @@
       "onboard_time": 1675428810,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207147,
+      "num": 207147,
+      "word": "宋亚轩被喷的表情",
+      "onboard_time": 1675520071,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 206193,
@@ -6857,14 +6945,6 @@
       "onboard_time": 1675392087,
       "rank": 38,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 201979,
-      "num": 201979,
-      "word": "你会考虑在农村盖养老房吗",
-      "onboard_time": 1675515932,
-      "rank": 46,
-      "category": "社会议题"
     },
     {
       "raw_hot": 201977,
@@ -6976,6 +7056,14 @@
       "word": "狂飙中的意难平",
       "onboard_time": 1675240291,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 198421,
+      "num": 198421,
+      "word": "狂飙拍摄中的隐藏彩蛋",
+      "onboard_time": 1675519353,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -7105,14 +7193,6 @@
       "onboard_time": 1675510291,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 194244,
-      "num": 194244,
-      "word": "第一次见咖啡肠粉",
-      "onboard_time": 1675516892,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 193887,
@@ -7556,7 +7636,7 @@
     },
     {
       "raw_hot": 181377,
-      "num": 181377,
+      "num": 989900,
       "word": "全国元宵节花灯大比拼",
       "onboard_time": 1675477347,
       "rank": 35,
@@ -7729,6 +7809,14 @@
       "onboard_time": 1675435293,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174884,
+      "num": 174884,
+      "word": "这就是司机经常骂人的原因",
+      "onboard_time": 1675514910,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 174771,
@@ -8227,14 +8315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156448,
-      "num": 156448,
-      "word": "这就是司机经常骂人的原因",
-      "onboard_time": 1675514910,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156287,
       "num": 156287,
       "word": "ming",
@@ -8475,6 +8555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145736,
+      "num": 145736,
+      "word": "幼儿园表演节目完的我",
+      "onboard_time": 1675519051,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145486,
       "num": 145486,
       "word": "庄达菲张艺凡挽手路透",
@@ -8489,6 +8577,14 @@
       "onboard_time": 1675173939,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143891,
+      "num": 143891,
+      "word": "安凯",
+      "onboard_time": 1675520012,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 143856,
