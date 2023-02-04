@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675535700483,
+  "endTime": 1675538017658,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -6491,6 +6491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237243,
+      "num": 237243,
+      "word": "70后丁克夫妻回应质疑",
+      "onboard_time": 1675534036,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236860,
       "num": 236860,
       "word": "癸卯兔年有两个立春",
@@ -8571,14 +8579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156798,
-      "num": 146718,
-      "word": "70后丁克夫妻回应质疑",
-      "onboard_time": 1675534036,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156287,
       "num": 156287,
       "word": "ming",
@@ -9801,6 +9801,14 @@
       "onboard_time": 1675365912,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25750,
+      "num": 25750,
+      "word": "我参加了妈妈的婚礼",
+      "onboard_time": 1675537094,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 24571,
