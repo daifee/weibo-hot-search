@@ -1,6 +1,6 @@
 {
   "startTime": 1675441538677,
-  "endTime": 1675520133650,
+  "endTime": 1675521210650,
   "band_list": [
     {
       "raw_hot": 3893603,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1734117,
+      "num": 1734117,
+      "word": "iPhone14Pro全系降价700元",
+      "onboard_time": 1675518271,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1730670,
       "num": 1730670,
       "word": "牛莉直播",
       "onboard_time": 1675471765,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1721837,
-      "num": 1721837,
-      "word": "iPhone14Pro全系降价700元",
-      "onboard_time": 1675518271,
-      "rank": 0,
-      "category": "科技"
     },
     {
       "raw_hot": 1711354,
@@ -323,6 +323,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 831206,
+      "num": 831206,
+      "word": "高启强意想不到的出圈方式",
+      "onboard_time": 1675516471,
+      "rank": 37,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 821373,
       "num": 821373,
       "word": "薛之谦说张靓颖坐反了",
@@ -377,14 +385,6 @@
       "onboard_time": 1675437451,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 745553,
-      "num": 745553,
-      "word": "高启强意想不到的出圈方式",
-      "onboard_time": 1675516471,
-      "rank": 37,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 731996,
@@ -651,20 +651,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 511769,
+      "num": 511769,
+      "word": "秦霄贤看到钟楚曦劈叉的反应",
+      "onboard_time": 1675518333,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 507326,
       "num": 507326,
       "word": "吴刚说庆余年2快了",
       "onboard_time": 1675507408,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 502024,
-      "num": 502024,
-      "word": "秦霄贤看到钟楚曦劈叉的反应",
-      "onboard_time": 1675518333,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 494221,
@@ -715,8 +715,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 475436,
-      "num": 475436,
+      "raw_hot": 476360,
+      "num": 476360,
       "word": "黄绮珊8年前后对比照",
       "onboard_time": 1675516711,
       "rank": 42,
@@ -915,6 +915,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381558,
+      "num": 381558,
+      "word": "朴灿烈吴世勋见面会生图",
+      "onboard_time": 1675521031,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 379252,
+      "num": 379252,
+      "word": "第一次见咖啡肠粉",
+      "onboard_time": 1675516892,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 373362,
       "num": 373362,
       "word": "民警为救自残轻生女子被连刺三刀",
@@ -931,20 +947,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 369137,
+      "num": 369137,
+      "word": "安凯",
+      "onboard_time": 1675520012,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364792,
       "num": 364792,
       "word": "谢谢张颂文聊天表情包很好用",
       "onboard_time": 1675510053,
       "rank": 20,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 363991,
-      "num": 363991,
-      "word": "第一次见咖啡肠粉",
-      "onboard_time": 1675516892,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 363653,
@@ -1259,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282425,
+      "num": 282425,
+      "word": "埃弗顿vs阿森纳",
+      "onboard_time": 1675520071,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280172,
       "num": 280172,
       "word": "客人泡茶放近50根藏红花吓坏主人",
@@ -1289,14 +1313,6 @@
       "onboard_time": 1675500927,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268153,
-      "num": 268153,
-      "word": "埃弗顿vs阿森纳",
-      "onboard_time": 1675520071,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 266567,
@@ -1427,12 +1443,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243343,
+      "num": 243343,
+      "word": "四川宜宾长宁3.1级地震",
+      "onboard_time": 1675520313,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242918,
       "num": 242918,
       "word": "流浪地球是在哈尔滨拍的吧",
       "onboard_time": 1675440390,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 239412,
+      "num": 239412,
+      "word": "幼儿园表演节目完的我",
+      "onboard_time": 1675519051,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 238042,
@@ -1499,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230682,
+      "num": 230682,
+      "word": "宋亚轩被喷的表情",
+      "onboard_time": 1675520071,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228940,
       "num": 228940,
       "word": "狗子是懂怎么缓和气氛的",
@@ -1515,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228468,
+      "num": 228468,
+      "word": "薛之谦演唱会前的24小时",
+      "onboard_time": 1675520491,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 227858,
       "num": 227858,
       "word": "华裔女孩被美国养父母锁地牢奴役十余年",
@@ -1523,20 +1571,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226883,
+      "num": 226883,
+      "word": "航天专家谈三体太空电梯可行性",
+      "onboard_time": 1675518091,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 223894,
       "num": 223894,
       "word": "TangoZ看AOMG演唱会",
       "onboard_time": 1675503628,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 222303,
-      "num": 222303,
-      "word": "航天专家谈三体太空电梯可行性",
-      "onboard_time": 1675518091,
-      "rank": 32,
-      "category": "科技"
     },
     {
       "raw_hot": 221945,
@@ -1641,14 +1689,6 @@
       "onboard_time": 1675473446,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207147,
-      "num": 207147,
-      "word": "宋亚轩被喷的表情",
-      "onboard_time": 1675520071,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 204877,
@@ -1811,6 +1851,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 181918,
+      "num": 181918,
+      "word": "贵州美食离不开洋芋",
+      "onboard_time": 1675521094,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 181377,
       "num": 989900,
       "word": "全国元宵节花灯大比拼",
@@ -1833,6 +1881,14 @@
       "onboard_time": 1675429771,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176896,
+      "num": 176896,
+      "word": "张远灯火阑珊古装舞台",
+      "onboard_time": 1675520193,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 176362,
@@ -1897,6 +1953,14 @@
       "onboard_time": 1675482147,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 166281,
+      "num": 166281,
+      "word": "宋威龙直播时让狗狗代播",
+      "onboard_time": 1675520852,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 165889,
@@ -2081,22 +2145,6 @@
       "onboard_time": 1675430431,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145736,
-      "num": 145736,
-      "word": "幼儿园表演节目完的我",
-      "onboard_time": 1675519051,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 143891,
-      "num": 143891,
-      "word": "安凯",
-      "onboard_time": 1675520012,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 143856,

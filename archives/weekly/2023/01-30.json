@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675520133650,
+  "endTime": 1675521210650,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -691,20 +691,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1734117,
+      "num": 1734117,
+      "word": "iPhone14Pro全系降价700元",
+      "onboard_time": 1675518271,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1730670,
       "num": 1730670,
       "word": "牛莉直播",
       "onboard_time": 1675471765,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1721837,
-      "num": 1721837,
-      "word": "iPhone14Pro全系降价700元",
-      "onboard_time": 1675518271,
-      "rank": 0,
-      "category": "科技"
     },
     {
       "raw_hot": 1719004,
@@ -2507,6 +2507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 831206,
+      "num": 831206,
+      "word": "高启强意想不到的出圈方式",
+      "onboard_time": 1675516471,
+      "rank": 37,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 830623,
       "num": 830623,
       "word": "老默 我想吃鱼了",
@@ -2897,14 +2905,6 @@
       "onboard_time": 1675159298,
       "rank": 29,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 745553,
-      "num": 745553,
-      "word": "高启强意想不到的出圈方式",
-      "onboard_time": 1675516471,
-      "rank": 37,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 745552,
@@ -4747,6 +4747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 511769,
+      "num": 511769,
+      "word": "秦霄贤看到钟楚曦劈叉的反应",
+      "onboard_time": 1675518333,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 511284,
       "num": 511284,
       "word": "半熟恋人第二季官宣",
@@ -4864,14 +4872,6 @@
       "word": "大侦探",
       "onboard_time": 1675318113,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 502024,
-      "num": 502024,
-      "word": "秦霄贤看到钟楚曦劈叉的反应",
-      "onboard_time": 1675518333,
-      "rank": 10,
       "category": "综艺"
     },
     {
@@ -5147,6 +5147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 476360,
+      "num": 476360,
+      "word": "黄绮珊8年前后对比照",
+      "onboard_time": 1675516711,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476267,
       "num": 476267,
       "word": "孟美岐空降百分百开麦",
@@ -5161,14 +5169,6 @@
       "onboard_time": 1675233812,
       "rank": 16,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 475436,
-      "num": 475436,
-      "word": "黄绮珊8年前后对比照",
-      "onboard_time": 1675516711,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 475165,
@@ -6331,6 +6331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381558,
+      "num": 381558,
+      "word": "朴灿烈吴世勋见面会生图",
+      "onboard_time": 1675521031,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380964,
       "num": 380964,
       "word": "权顺荣再上酒综",
@@ -6353,6 +6361,14 @@
       "onboard_time": 1675343376,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 379252,
+      "num": 379252,
+      "word": "第一次见咖啡肠粉",
+      "onboard_time": 1675516892,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 379088,
@@ -6555,6 +6571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 369137,
+      "num": 369137,
+      "word": "安凯",
+      "onboard_time": 1675520012,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366643,
       "num": 366643,
       "word": "以为是剧情需要没想到是人间真实",
@@ -6577,14 +6601,6 @@
       "onboard_time": 1675225296,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 363991,
-      "num": 363991,
-      "word": "第一次见咖啡肠粉",
-      "onboard_time": 1675516892,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 363653,
@@ -8171,6 +8187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282425,
+      "num": 282425,
+      "word": "埃弗顿vs阿森纳",
+      "onboard_time": 1675520071,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281107,
       "num": 281107,
       "word": "福建人是都会飞吗",
@@ -8505,14 +8529,6 @@
       "onboard_time": 1675228953,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 268153,
-      "num": 268153,
-      "word": "埃弗顿vs阿森纳",
-      "onboard_time": 1675520071,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 268052,
@@ -9147,6 +9163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243343,
+      "num": 243343,
+      "word": "四川宜宾长宁3.1级地震",
+      "onboard_time": 1675520313,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243109,
       "num": 243109,
       "word": "早年上过相亲节目的明星",
@@ -9297,6 +9321,14 @@
       "onboard_time": 1675144408,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239412,
+      "num": 239412,
+      "word": "幼儿园表演节目完的我",
+      "onboard_time": 1675519051,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 238422,
@@ -9523,6 +9555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230682,
+      "num": 230682,
+      "word": "宋亚轩被喷的表情",
+      "onboard_time": 1675520071,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230348,
       "num": 230348,
       "word": "苏新皓二刷了满江红",
@@ -9571,6 +9611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228468,
+      "num": 228468,
+      "word": "薛之谦演唱会前的24小时",
+      "onboard_time": 1675520491,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 227701,
       "num": 227701,
       "word": "王力宏晒与粉丝演唱会合照",
@@ -9593,6 +9641,14 @@
       "onboard_time": 1675222953,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226883,
+      "num": 226883,
+      "word": "航天专家谈三体太空电梯可行性",
+      "onboard_time": 1675518091,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 226641,
@@ -9729,14 +9785,6 @@
       "onboard_time": 1675166494,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222303,
-      "num": 222303,
-      "word": "航天专家谈三体太空电梯可行性",
-      "onboard_time": 1675518091,
-      "rank": 32,
-      "category": "科技"
     },
     {
       "raw_hot": 221945,
@@ -10153,14 +10201,6 @@
       "onboard_time": 1675428810,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207147,
-      "num": 207147,
-      "word": "宋亚轩被喷的表情",
-      "onboard_time": 1675520071,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 206671,
@@ -11387,6 +11427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181918,
+      "num": 181918,
+      "word": "贵州美食离不开洋芋",
+      "onboard_time": 1675521094,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 181765,
       "num": 181765,
       "word": "小狗犯错后的表情",
@@ -11601,6 +11649,14 @@
       "onboard_time": 1675276095,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176896,
+      "num": 176896,
+      "word": "张远灯火阑珊古装舞台",
+      "onboard_time": 1675520193,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 176772,
@@ -12033,6 +12089,14 @@
       "onboard_time": 1675406846,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166281,
+      "num": 166281,
+      "word": "宋威龙直播时让狗狗代播",
+      "onboard_time": 1675520852,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 166113,
@@ -12755,14 +12819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145736,
-      "num": 145736,
-      "word": "幼儿园表演节目完的我",
-      "onboard_time": 1675519051,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 145486,
       "num": 145486,
       "word": "庄达菲张艺凡挽手路透",
@@ -12792,14 +12848,6 @@
       "word": "湖人vs篮网",
       "onboard_time": 1675128388,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 143891,
-      "num": 143891,
-      "word": "安凯",
-      "onboard_time": 1675520012,
-      "rank": 48,
       "category": "体育"
     },
     {
