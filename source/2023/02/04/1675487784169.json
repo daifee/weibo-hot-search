@@ -1,0 +1,410 @@
+{
+  "runTime": 1675487784169,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1640967,
+        "num": 1640967,
+        "word": "破太岁",
+        "onboard_time": 1675477887,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1433252,
+        "num": 1433252,
+        "word": "癌症的3个身体求救信号",
+        "onboard_time": 1675485567,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80718,
+        "num": 1177289,
+        "word": "风和日暖人勤春早",
+        "onboard_time": 1675479209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1088530,
+        "num": 1088530,
+        "word": "雪见又要长头发了",
+        "onboard_time": 1675482985,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1031429,
+        "num": 1031429,
+        "word": "躲春",
+        "onboard_time": 1675468401,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 826342,
+        "num": 826342,
+        "word": "尔冬升说你们不是来演男一女一的",
+        "onboard_time": 1675482326,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 810202,
+        "num": 810202,
+        "word": "男孩回应从富豪家被拐致亿万富豪家",
+        "onboard_time": 1675485687,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669469,
+        "num": 669469,
+        "word": "男子2000万买别墅中介闹乌龙卖错房",
+        "onboard_time": 1675478429,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643294,
+        "num": 643294,
+        "word": "97岁奶奶为吃炸鸡打扮3小时",
+        "onboard_time": 1675471464,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539090,
+        "num": 539090,
+        "word": "中美双方都没有宣布过什么访问",
+        "onboard_time": 1675485326,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 711440,
+        "num": 530651,
+        "word": "躲春是迷信吗",
+        "onboard_time": 1675486589,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519694,
+        "num": 519694,
+        "word": "易烊千玺满江红落泪花絮",
+        "onboard_time": 1675484007,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 485619,
+        "num": 485619,
+        "word": "张译狂飙现场疯狂撸猫",
+        "onboard_time": 1675481908,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 473415,
+        "num": 473415,
+        "word": "何洁朋友圈签名无所谓没必要不至于",
+        "onboard_time": 1675481427,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62764,
+        "num": 461924,
+        "word": "吐槽老板居然这么爽",
+        "onboard_time": 1675486827,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457936,
+        "num": 457936,
+        "word": "3斤肉上桌只剩1斤多店家称正常",
+        "onboard_time": 1675481245,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450272,
+        "num": 450272,
+        "word": "女子遇糖果刺客6块糖卖466元",
+        "onboard_time": 1675486409,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410056,
+        "num": 410056,
+        "word": "宋亚轩瞳色",
+        "onboard_time": 1675487008,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392180,
+        "num": 392180,
+        "word": "王安宇瘦了好多",
+        "onboard_time": 1675487068,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355297,
+        "num": 355297,
+        "word": "黄明昊不会唱大梦想家",
+        "onboard_time": 1675486650,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314587,
+        "num": 314587,
+        "word": "高叶说想吃鱼了",
+        "onboard_time": 1675482267,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302155,
+        "num": 302155,
+        "word": "气出来的乳腺增生",
+        "onboard_time": 1675478726,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270335,
+        "num": 270335,
+        "word": "中国无人飞艇因不可抗力误入美国领空",
+        "onboard_time": 1675432652,
+        "rank": 22,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 264491,
+        "num": 264491,
+        "word": "金巧巧说从来没有暗指满江红排片多",
+        "onboard_time": 1675483347,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253248,
+        "num": 253248,
+        "word": "立春",
+        "onboard_time": 1675467199,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249518,
+        "num": 249518,
+        "word": "张俪跳伞是第一个上的",
+        "onboard_time": 1675480707,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248783,
+        "num": 248783,
+        "word": "张译沉默的代价警服路透",
+        "onboard_time": 1675483526,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248467,
+        "num": 248467,
+        "word": "有人还完90万房贷月供1块抵个税",
+        "onboard_time": 1675474227,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 237435,
+        "num": 237435,
+        "word": "初中男生关在房间烧寒假作业",
+        "onboard_time": 1675477287,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230928,
+        "num": 230928,
+        "word": "大象限号所以骑鸵鸟出门了",
+        "onboard_time": 1675484548,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215088,
+        "num": 215088,
+        "word": "唐嫣好有少女感",
+        "onboard_time": 1675481067,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210492,
+        "num": 210492,
+        "word": "魔术森林狼大规模冲突",
+        "onboard_time": 1675481966,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201793,
+        "num": 201793,
+        "word": "严浩翔珍珠脸钻造型",
+        "onboard_time": 1675485867,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187948,
+        "num": 187948,
+        "word": "狂飙张彪扮演者说张译是恩人",
+        "onboard_time": 1675469245,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181479,
+        "num": 181479,
+        "word": "女子患病失忆后再次爱上丈夫",
+        "onboard_time": 1675472668,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174551,
+        "num": 174551,
+        "word": "你好星期六全员猜灯谜",
+        "onboard_time": 1675482207,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173163,
+        "num": 173163,
+        "word": "专家称ChatGPT对话水平已超过9成人类",
+        "onboard_time": 1675484607,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172080,
+        "num": 172080,
+        "word": "教授称年轻人不是鹤岗类城市的目标",
+        "onboard_time": 1675479447,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169968,
+        "num": 169968,
+        "word": "薛之谦说张靓颖坐反了",
+        "onboard_time": 1675476208,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165168,
+        "num": 165168,
+        "word": "陈晓说王一博带来很多惊喜",
+        "onboard_time": 1675487668,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163506,
+        "num": 163506,
+        "word": "生气对身体都有哪些危害",
+        "onboard_time": 1675486650,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155372,
+        "num": 155372,
+        "word": "1分钟听见春天的声音",
+        "onboard_time": 1675487547,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155073,
+        "num": 155073,
+        "word": "苏小玎 我要演一条欧巴养的喝狼奶长大的狗",
+        "onboard_time": 1675476146,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145878,
+        "num": 145878,
+        "word": "大二男生凌晨冲进火场智救6岁女孩",
+        "onboard_time": 1675478907,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 142012,
+        "num": 142012,
+        "word": "种地吧",
+        "onboard_time": 1675485208,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140553,
+        "num": 140553,
+        "word": "警方介入调查女子摩托车被加白糖",
+        "onboard_time": 1675487308,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135397,
+        "num": 135397,
+        "word": "被人坚定地选择是什么感觉",
+        "onboard_time": 1675475788,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134908,
+        "num": 134908,
+        "word": "春饼",
+        "onboard_time": 1675485508,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132016,
+        "num": 132016,
+        "word": "杨蓉大侦探幕后vlog",
+        "onboard_time": 1675487489,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130981,
+        "num": 130981,
+        "word": "马嘉祺你好星期六绿色毛衣造型",
+        "onboard_time": 1675484784,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#元宵赏月指南#"
+    }
+  }
+}

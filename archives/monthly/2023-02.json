@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675485417513,
+  "endTime": 1675487784169,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -619,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1433252,
+      "num": 1433252,
+      "word": "癌症的3个身体求救信号",
+      "onboard_time": 1675485567,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1428357,
       "num": 1428357,
       "word": "黄瑶没有一天不恨高启强",
@@ -995,6 +1003,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1088530,
+      "num": 1088530,
+      "word": "雪见又要长头发了",
+      "onboard_time": 1675482985,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1086072,
       "num": 1086072,
       "word": "唐嫣终于进组拍戏了",
@@ -1025,14 +1041,6 @@
       "onboard_time": 1675298672,
       "rank": 8,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1074414,
-      "num": 1074414,
-      "word": "雪见又要长头发了",
-      "onboard_time": 1675482985,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1062909,
@@ -1507,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 810202,
+      "num": 810202,
+      "word": "男孩回应从富豪家被拐致亿万富豪家",
+      "onboard_time": 1675485687,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807496,
       "num": 807496,
       "word": "初中男生关在房间烧寒假作业",
@@ -1825,6 +1841,14 @@
       "onboard_time": 1675241852,
       "rank": 20,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 711440,
+      "num": 530651,
+      "word": "躲春是迷信吗",
+      "onboard_time": 1675486589,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710732,
@@ -2667,6 +2691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 539090,
+      "num": 539090,
+      "word": "中美双方都没有宣布过什么访问",
+      "onboard_time": 1675485326,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 538211,
       "num": 538211,
       "word": "伽罗新皮肤炽翼辉光",
@@ -2784,6 +2816,14 @@
       "word": "成毅躲镜头",
       "onboard_time": 1675253850,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 519694,
+      "num": 519694,
+      "word": "易烊千玺满江红落泪花絮",
+      "onboard_time": 1675484007,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -2979,6 +3019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 485619,
+      "num": 485619,
+      "word": "张译狂飙现场疯狂撸猫",
+      "onboard_time": 1675481908,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 483611,
       "num": 483611,
       "word": "女子收老板万元红包拆开后崩溃",
@@ -3032,14 +3080,6 @@
       "word": "红豆遥遥冰的爱还在继续",
       "onboard_time": 1675346557,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 473179,
-      "num": 473179,
-      "word": "张译狂飙现场疯狂撸猫",
-      "onboard_time": 1675481908,
-      "rank": 16,
       "category": "影视"
     },
     {
@@ -3185,6 +3225,14 @@
       "onboard_time": 1675251870,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 450272,
+      "num": 450272,
+      "word": "女子遇糖果刺客6块糖卖466元",
+      "onboard_time": 1675486409,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449659,
@@ -3499,6 +3547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 410056,
+      "num": 410056,
+      "word": "宋亚轩瞳色",
+      "onboard_time": 1675487008,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409586,
       "num": 409586,
       "word": "于文文唱体面跟自己和解",
@@ -3651,12 +3707,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 393522,
-      "num": 393522,
-      "word": "易烊千玺满江红落泪花絮",
-      "onboard_time": 1675484007,
-      "rank": 24,
-      "category": "影视"
+      "raw_hot": 392180,
+      "num": 392180,
+      "word": "王安宇瘦了好多",
+      "onboard_time": 1675487068,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 391513,
@@ -4001,6 +4057,14 @@
       "onboard_time": 1675306961,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355297,
+      "num": 355297,
+      "word": "黄明昊不会唱大梦想家",
+      "onboard_time": 1675486650,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 354135,
@@ -5331,6 +5395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249518,
+      "num": 249518,
+      "word": "张俪跳伞是第一个上的",
+      "onboard_time": 1675480707,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249470,
       "num": 249470,
       "word": "躲春是什么",
@@ -5345,6 +5417,14 @@
       "onboard_time": 1675346498,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248783,
+      "num": 248783,
+      "word": "张译沉默的代价警服路透",
+      "onboard_time": 1675483526,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 248037,
@@ -5393,14 +5473,6 @@
       "onboard_time": 1675261477,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246967,
-      "num": 246967,
-      "word": "张俪跳伞是第一个上的",
-      "onboard_time": 1675480707,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 245774,
@@ -5617,6 +5689,14 @@
       "onboard_time": 1675391547,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 230928,
+      "num": 230928,
+      "word": "大象限号所以骑鸵鸟出门了",
+      "onboard_time": 1675484548,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230730,
@@ -6041,6 +6121,14 @@
       "onboard_time": 1675327174,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201793,
+      "num": 201793,
+      "word": "严浩翔珍珠脸钻造型",
+      "onboard_time": 1675485867,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201612,
@@ -6827,20 +6915,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 174617,
-      "num": 174617,
-      "word": "张译沉默的代价警服路透",
-      "onboard_time": 1675483526,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 173992,
       "num": 173992,
       "word": "原来小五一直都在",
       "onboard_time": 1675316132,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173163,
+      "num": 173163,
+      "word": "专家称ChatGPT对话水平已超过9成人类",
+      "onboard_time": 1675484607,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 173138,
@@ -7083,6 +7171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165168,
+      "num": 165168,
+      "word": "陈晓说王一博带来很多惊喜",
+      "onboard_time": 1675487668,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165000,
       "num": 165000,
       "word": "德云社节目单",
@@ -7121,6 +7217,14 @@
       "onboard_time": 1675383088,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163506,
+      "num": 163506,
+      "word": "生气对身体都有哪些危害",
+      "onboard_time": 1675486650,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 163501,
@@ -7283,6 +7387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155372,
+      "num": 155372,
+      "word": "1分钟听见春天的声音",
+      "onboard_time": 1675487547,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155189,
       "num": 155189,
       "word": "陈书婷大嫂表情包",
@@ -7328,14 +7440,6 @@
       "word": "6岁萌娃耍大蛇奶凶奶凶跳英歌舞",
       "onboard_time": 1675291155,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153103,
-      "num": 153103,
-      "word": "大象限号所以骑鸵鸟出门了",
-      "onboard_time": 1675484548,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -7507,8 +7611,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141662,
-      "num": 141662,
+      "raw_hot": 142012,
+      "num": 142012,
       "word": "种地吧",
       "onboard_time": 1675485208,
       "rank": 40,
@@ -7521,6 +7625,14 @@
       "onboard_time": 1675429410,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140553,
+      "num": 140553,
+      "word": "警方介入调查女子摩托车被加白糖",
+      "onboard_time": 1675487308,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140519,
@@ -7635,6 +7747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134908,
+      "num": 134908,
+      "word": "春饼",
+      "onboard_time": 1675485508,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 134078,
       "num": 1573392,
       "word": "花好灯好月圆人圆",
@@ -7697,6 +7817,14 @@
       "onboard_time": 1675479809,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132016,
+      "num": 132016,
+      "word": "杨蓉大侦探幕后vlog",
+      "onboard_time": 1675487489,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 130814,
@@ -7777,14 +7905,6 @@
       "onboard_time": 1675182628,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123547,
-      "num": 123547,
-      "word": "专家称ChatGPT对话水平已超过9成人类",
-      "onboard_time": 1675484607,
-      "rank": 44,
-      "category": "科技"
     },
     {
       "raw_hot": 122142,
@@ -7931,14 +8051,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 96753,
-      "num": 96753,
-      "word": "中美双方都没有宣布过什么访问",
-      "onboard_time": 1675485326,
-      "rank": 49,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 96522,
       "num": 96522,
       "word": "诗词大会选手有点东西",
@@ -8064,6 +8176,14 @@
       "word": "煎饼大爷出租屋创作绝美国画",
       "onboard_time": 1675207401,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62764,
+      "num": 461924,
+      "word": "吐槽老板居然这么爽",
+      "onboard_time": 1675486827,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
