@@ -1,0 +1,410 @@
+{
+  "runTime": 1675491717509,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1649582,
+        "num": 1649582,
+        "word": "癌症的3个身体求救信号",
+        "onboard_time": 1675485567,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901494,
+        "num": 901494,
+        "word": "破太岁",
+        "onboard_time": 1675477887,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70028,
+        "num": 891979,
+        "word": "风和日暖人勤春早",
+        "onboard_time": 1675479209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891186,
+        "num": 891186,
+        "word": "女子遇糖果刺客6块糖卖466元",
+        "onboard_time": 1675486409,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837395,
+        "num": 837395,
+        "word": "王安宇瘦了好多",
+        "onboard_time": 1675487068,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 790564,
+        "num": 790564,
+        "word": "网传我是歌手女生季首发名单",
+        "onboard_time": 1675490547,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 731996,
+        "num": 731996,
+        "word": "警方介入调查女子摩托车被加白糖",
+        "onboard_time": 1675487308,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648141,
+        "num": 648141,
+        "word": "躲春是迷信吗",
+        "onboard_time": 1675486589,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595009,
+        "num": 595009,
+        "word": "陈晓说刘亦菲有很多值得学习的地方",
+        "onboard_time": 1675488148,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 589891,
+        "num": 589891,
+        "word": "雪见又要长头发了",
+        "onboard_time": 1675482985,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462801,
+        "num": 462801,
+        "word": "张颂文曾经是广东省最佳导游",
+        "onboard_time": 1675489647,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461326,
+        "num": 461326,
+        "word": "男孩回应从富豪家被拐至亿万富豪家",
+        "onboard_time": 1675485687,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452275,
+        "num": 452275,
+        "word": "陈晓说王一博带来很多惊喜",
+        "onboard_time": 1675487668,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 420755,
+        "num": 420755,
+        "word": "中美双方都没有宣布过什么访问",
+        "onboard_time": 1675485326,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 406680,
+        "num": 406680,
+        "word": "张译狂飙现场疯狂撸猫",
+        "onboard_time": 1675481908,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339583,
+        "num": 339583,
+        "word": "满江红瑶琴被指导前后变化",
+        "onboard_time": 1675489108,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320184,
+        "num": 320184,
+        "word": "97岁奶奶为吃炸鸡打扮3小时",
+        "onboard_time": 1675471464,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316289,
+        "num": 316289,
+        "word": "尔冬升说你们不是来演男一女一的",
+        "onboard_time": 1675482326,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299244,
+        "num": 299244,
+        "word": "男子2000万买别墅中介闹乌龙卖错房",
+        "onboard_time": 1675478429,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283438,
+        "num": 283438,
+        "word": "躲春",
+        "onboard_time": 1675468401,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282925,
+        "num": 282925,
+        "word": "何洁朋友圈签名无所谓没必要不至于",
+        "onboard_time": 1675481427,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259511,
+        "num": 259511,
+        "word": "刘耀文跑龙套带零食创可贴",
+        "onboard_time": 1675489708,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240289,
+        "num": 240289,
+        "word": "分不清李一桐白鹿",
+        "onboard_time": 1675491267,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237426,
+        "num": 237426,
+        "word": "三体古筝行动好震撼",
+        "onboard_time": 1675488448,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228940,
+        "num": 228940,
+        "word": "狗子是懂怎么缓和气氛的",
+        "onboard_time": 1675489467,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211331,
+        "num": 211331,
+        "word": "宋亚轩瞳色",
+        "onboard_time": 1675487008,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202919,
+        "num": 202919,
+        "word": "唐艺昕晒旅行plog",
+        "onboard_time": 1675490966,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198540,
+        "num": 198540,
+        "word": "高叶说想吃鱼了",
+        "onboard_time": 1675482267,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196222,
+        "num": 196222,
+        "word": "易烊千玺满江红落泪花絮",
+        "onboard_time": 1675484007,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189146,
+        "num": 189146,
+        "word": "3斤肉上桌只剩1斤多店家称正常",
+        "onboard_time": 1675481245,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174958,
+        "num": 174958,
+        "word": "气出来的乳腺增生",
+        "onboard_time": 1675478726,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173552,
+        "num": 173552,
+        "word": "黄明昊不会唱大梦想家",
+        "onboard_time": 1675486650,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167954,
+        "num": 167954,
+        "word": "有人还完90万房贷月供1块抵个税",
+        "onboard_time": 1675474227,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 165622,
+        "num": 165622,
+        "word": "台湾网友看了狂飙想去广东吃肠粉",
+        "onboard_time": 1675491205,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155947,
+        "num": 155947,
+        "word": "大象限号所以骑鸵鸟出门了",
+        "onboard_time": 1675484548,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149246,
+        "num": 149246,
+        "word": "显微镜下的大明预约破400万",
+        "onboard_time": 1675490366,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146767,
+        "num": 146767,
+        "word": "立春",
+        "onboard_time": 1675467199,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143876,
+        "num": 143876,
+        "word": "唐嫣好有少女感",
+        "onboard_time": 1675481067,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134535,
+        "num": 134535,
+        "word": "魔术森林狼大规模冲突",
+        "onboard_time": 1675481966,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129958,
+        "num": 129958,
+        "word": "初中男生关在房间烧寒假作业",
+        "onboard_time": 1675477287,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128323,
+        "num": 128323,
+        "word": "恩佐切尔西首秀",
+        "onboard_time": 1675488689,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126687,
+        "num": 126687,
+        "word": "张译沉默的代价警服路透",
+        "onboard_time": 1675483526,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125512,
+        "num": 125512,
+        "word": "中国无人飞艇因不可抗力误入美国领空",
+        "onboard_time": 1675432652,
+        "rank": 42,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 120298,
+        "num": 120298,
+        "word": "种地吧",
+        "onboard_time": 1675485208,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119874,
+        "num": 119874,
+        "word": "狂飙张彪扮演者说张译是恩人",
+        "onboard_time": 1675469245,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112176,
+        "num": 112176,
+        "word": "大二男生凌晨冲进火场智救6岁女孩",
+        "onboard_time": 1675478907,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 110089,
+        "num": 110089,
+        "word": "吐槽老板居然这么爽",
+        "onboard_time": 1675486827,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109060,
+        "num": 109060,
+        "word": "苏小玎 我要演一条欧巴养的喝狼奶长大的狗",
+        "onboard_time": 1675476146,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105079,
+        "num": 105079,
+        "word": "金巧巧说从来没有暗指满江红排片多",
+        "onboard_time": 1675483347,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104303,
+        "num": 104303,
+        "word": "男子拿被赠饼干换烟遭拒后踩碎",
+        "onboard_time": 1675491685,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京冬奥会的雪花永远盛放#"
+    }
+  }
+}
