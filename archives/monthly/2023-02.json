@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675484508212,
+  "endTime": 1675485417513,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1667366,
+      "num": 1667366,
+      "word": "破太岁",
+      "onboard_time": 1675477887,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1656576,
       "num": 1656576,
       "word": "胡鑫宇事件新闻发布会明天召开",
@@ -681,14 +689,6 @@
       "onboard_time": 1675262258,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1331094,
-      "num": 1331094,
-      "word": "破太岁",
-      "onboard_time": 1675477887,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 1327026,
@@ -947,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1119953,
+      "num": 1119953,
+      "word": "尔冬升说你们不是来演男一女一的",
+      "onboard_time": 1675482326,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1114043,
       "num": 1114043,
       "word": "胡鑫宇生前社交软件留言",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1675298672,
       "rank": 8,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1074414,
+      "num": 1074414,
+      "word": "雪见又要长头发了",
+      "onboard_time": 1675482985,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1062909,
@@ -1121,14 +1137,6 @@
       "onboard_time": 1675343075,
       "rank": 14,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 990823,
-      "num": 990823,
-      "word": "尔冬升说你们不是来演男一女一的",
-      "onboard_time": 1675482326,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 980061,
@@ -1256,14 +1264,6 @@
       "word": "王嘉晨回应狂飙拍了100集是玩笑",
       "onboard_time": 1675219949,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 907624,
-      "num": 907624,
-      "word": "雪见又要长头发了",
-      "onboard_time": 1675482985,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -1835,6 +1835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 709967,
+      "num": 709967,
+      "word": "3斤肉上桌只剩1斤多店家称正常",
+      "onboard_time": 1675481245,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 705822,
       "num": 705822,
       "word": "张颂文和巩俐走红毯",
@@ -1993,14 +2001,6 @@
       "onboard_time": 1675315654,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 674329,
-      "num": 674329,
-      "word": "3斤肉上桌只剩1斤多店家称正常",
-      "onboard_time": 1675481245,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 671453,
@@ -3035,6 +3035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 473179,
+      "num": 473179,
+      "word": "张译狂飙现场疯狂撸猫",
+      "onboard_time": 1675481908,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 472098,
       "num": 472098,
       "word": "满江红居然有欧豪",
@@ -3483,6 +3491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410167,
+      "num": 410167,
+      "word": "高叶说想吃鱼了",
+      "onboard_time": 1675482267,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 409586,
       "num": 409586,
       "word": "于文文唱体面跟自己和解",
@@ -3635,6 +3651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393522,
+      "num": 393522,
+      "word": "易烊千玺满江红落泪花絮",
+      "onboard_time": 1675484007,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391513,
       "num": 391513,
       "word": "去有风的地方",
@@ -3769,14 +3793,6 @@
       "onboard_time": 1675343436,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 379043,
-      "num": 379043,
-      "word": "高叶说想吃鱼了",
-      "onboard_time": 1675482267,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 378792,
@@ -3969,14 +3985,6 @@
       "onboard_time": 1675312117,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357531,
-      "num": 357531,
-      "word": "张译狂飙现场疯狂撸猫",
-      "onboard_time": 1675481908,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 357524,
@@ -4411,6 +4419,14 @@
       "category": "综艺,影视"
     },
     {
+      "raw_hot": 316546,
+      "num": 316546,
+      "word": "马嘉祺你好星期六绿色毛衣造型",
+      "onboard_time": 1675484784,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316116,
       "num": 316116,
       "word": "胡鑫宇缢吊地点为何成搜索盲区",
@@ -4760,6 +4776,14 @@
       "word": "狂飙全员rapper",
       "onboard_time": 1675220490,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 286319,
+      "num": 286319,
+      "word": "金巧巧说从来没有暗指满江红排片多",
+      "onboard_time": 1675483347,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -5131,14 +5155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263404,
-      "num": 263404,
-      "word": "易烊千玺满江红落泪花絮",
-      "onboard_time": 1675484007,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 263308,
       "num": 263308,
       "word": "沈月沈阳vlog",
@@ -5259,14 +5275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 256340,
-      "num": 256340,
-      "word": "金巧巧说从来没有暗指满江红排片多",
-      "onboard_time": 1675483347,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 256330,
       "num": 256330,
       "word": "酷云认证赵丽颖85花收视TOP",
@@ -5321,6 +5329,14 @@
       "onboard_time": 1675260096,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249470,
+      "num": 249470,
+      "word": "躲春是什么",
+      "onboard_time": 1675481667,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248827,
@@ -5569,14 +5585,6 @@
       "onboard_time": 1675219647,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 232922,
-      "num": 232922,
-      "word": "躲春是什么",
-      "onboard_time": 1675481667,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232644,
@@ -6819,19 +6827,19 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 174617,
+      "num": 174617,
+      "word": "张译沉默的代价警服路透",
+      "onboard_time": 1675483526,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173992,
       "num": 173992,
       "word": "原来小五一直都在",
       "onboard_time": 1675316132,
       "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 173224,
-      "num": 173224,
-      "word": "张译沉默的代价警服路透",
-      "onboard_time": 1675483526,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -6985,6 +6993,14 @@
       "onboard_time": 1675418789,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168792,
+      "num": 168792,
+      "word": "北京人把春天咬进春饼里",
+      "onboard_time": 1675484308,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 168608,
@@ -7315,6 +7331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153103,
+      "num": 153103,
+      "word": "大象限号所以骑鸵鸟出门了",
+      "onboard_time": 1675484548,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152661,
       "num": 186465,
       "word": "泸沽湖落日绝美晚霞",
@@ -7345,14 +7369,6 @@
       "onboard_time": 1675413749,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150897,
-      "num": 150897,
-      "word": "北京人把春天咬进春饼里",
-      "onboard_time": 1675484308,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 150696,
@@ -7489,6 +7505,14 @@
       "onboard_time": 1675236811,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141662,
+      "num": 141662,
+      "word": "种地吧",
+      "onboard_time": 1675485208,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 140627,
@@ -7755,6 +7779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123547,
+      "num": 123547,
+      "word": "专家称ChatGPT对话水平已超过9成人类",
+      "onboard_time": 1675484607,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 122142,
       "num": 131104,
       "word": "为什么一定要选择正规医疗机构",
@@ -7897,6 +7929,14 @@
       "onboard_time": 1675159298,
       "rank": 43,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 96753,
+      "num": 96753,
+      "word": "中美双方都没有宣布过什么访问",
+      "onboard_time": 1675485326,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 96522,
