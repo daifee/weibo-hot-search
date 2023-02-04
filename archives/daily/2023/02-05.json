@@ -1,6 +1,6 @@
 {
   "startTime": 1675527843138,
-  "endTime": 1675552667445,
+  "endTime": 1675553623871,
   "band_list": [
     {
       "raw_hot": 1429675,
@@ -17,6 +17,14 @@
       "onboard_time": 1675524152,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1239572,
+      "num": 113694,
+      "word": "狗头萝莉",
+      "onboard_time": 1675552817,
+      "rank": 10,
+      "category": "动漫,网红"
     },
     {
       "raw_hot": 1101378,
@@ -67,6 +75,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 508788,
+      "num": 508788,
+      "word": "日本将限制对华出口半导体设备",
+      "onboard_time": 1675548792,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490790,
       "num": 490790,
       "word": "被三体第29集震撼到了",
@@ -115,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332271,
-      "num": 332271,
-      "word": "日本将限制对华出口半导体设备",
-      "onboard_time": 1675548792,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326994,
       "num": 326994,
       "word": "华晨宇声生不息2台湾街采人气第一",
@@ -137,6 +145,14 @@
       "onboard_time": 1675513590,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 290302,
+      "num": 255917,
+      "word": "70后丁克夫妻回应质疑",
+      "onboard_time": 1675534036,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280481,
@@ -187,14 +203,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 237243,
-      "num": 237243,
-      "word": "70后丁克夫妻回应质疑",
-      "onboard_time": 1675534036,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235877,
       "num": 235877,
       "word": "朴灿烈吴世勋见面会生图",
@@ -233,6 +241,14 @@
       "onboard_time": 1675505488,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197262,
+      "num": 128326,
+      "word": "女店员遭男顾客辱骂推搡20分钟",
+      "onboard_time": 1675549332,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192433,
@@ -283,20 +299,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181943,
-      "num": 128326,
-      "word": "女店员遭男顾客辱骂推搡20分钟",
-      "onboard_time": 1675549332,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174239,
       "num": 174239,
       "word": "王鹤棣拍戏现场和刘耀文连线",
       "onboard_time": 1675522712,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165587,
+      "num": 165587,
+      "word": "胡鑫宇事件背后的流量生意",
+      "onboard_time": 1675541773,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163967,
@@ -337,6 +353,14 @@
       "onboard_time": 1675507050,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 147910,
+      "num": 125509,
+      "word": "女孩摆航母照祭拜葬日中国将士",
+      "onboard_time": 1675549993,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147296,
@@ -387,27 +411,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131739,
-      "num": 131739,
-      "word": "胡鑫宇事件背后的流量生意",
-      "onboard_time": 1675541773,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130112,
       "num": 130112,
       "word": "制止男童进女厕女子称对方已道歉",
       "onboard_time": 1675501050,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125509,
-      "num": 125509,
-      "word": "女孩摆航母照祭拜葬日中国将士",
-      "onboard_time": 1675549993,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -499,20 +507,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 72964,
-      "num": 72964,
+      "raw_hot": 86543,
+      "num": 86543,
+      "word": "刘宇宁折腰穿貂侧颜路透图",
+      "onboard_time": 1675546513,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 84374,
+      "num": 84374,
       "word": "四川一地昼夜温差38.6℃",
       "onboard_time": 1675551494,
       "rank": 18,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72623,
-      "num": 72623,
-      "word": "刘宇宁折腰穿貂侧颜路透图",
-      "onboard_time": 1675546513,
-      "rank": 23,
-      "category": "影视"
+      "raw_hot": 71138,
+      "num": 71138,
+      "word": "这就是桃李满天下的含义吧",
+      "onboard_time": 1675551194,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61241,
@@ -531,40 +547,32 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 41914,
-      "num": 34038,
-      "word": "我参加了妈妈的婚礼",
-      "onboard_time": 1675537094,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 41397,
-      "num": 41397,
-      "word": "去有风的地方取景地绽放万亩花海",
-      "onboard_time": 1675540633,
-      "rank": 35,
-      "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 36019,
-      "num": 36019,
-      "word": "这就是桃李满天下的含义吧",
-      "onboard_time": 1675551194,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29894,
-      "num": 29894,
+      "raw_hot": 49126,
+      "num": 49126,
       "word": "原来高叶也这么有梗",
       "onboard_time": 1675550953,
       "rank": 39,
       "category": "艺人"
     },
     {
-      "raw_hot": 29672,
-      "num": 29672,
+      "raw_hot": 46806,
+      "num": 46806,
+      "word": "去有风的地方取景地绽放万亩花海",
+      "onboard_time": 1675540633,
+      "rank": 35,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 41914,
+      "num": 39422,
+      "word": "我参加了妈妈的婚礼",
+      "onboard_time": 1675537094,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 29925,
+      "num": 29925,
       "word": "李一桐说强扭的瓜不一定不甜",
       "onboard_time": 1675545132,
       "rank": 47,
