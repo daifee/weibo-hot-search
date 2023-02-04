@@ -1,6 +1,6 @@
 {
   "startTime": 1675527843138,
-  "endTime": 1675541887766,
+  "endTime": 1675542829396,
   "band_list": [
     {
       "raw_hot": 1429675,
@@ -475,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 40697,
+      "num": 40697,
+      "word": "胡鑫宇事件背后的流量生意",
+      "onboard_time": 1675541773,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27967,
       "num": 1145502,
       "word": "全国元宵节花灯大比拼",
@@ -483,27 +491,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19468,
-      "num": 19468,
-      "word": "内地与港澳人员往来全面恢复",
-      "onboard_time": 1675389088,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19201,
-      "num": 19201,
+      "raw_hot": 19857,
+      "num": 19857,
       "word": "去有风的地方取景地绽放万亩花海",
       "onboard_time": 1675540633,
       "rank": 35,
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 12891,
-      "num": 14414,
-      "word": "胡鑫宇事件背后的流量生意",
-      "onboard_time": 1675541773,
-      "rank": 48,
+      "raw_hot": 19468,
+      "num": 19468,
+      "word": "内地与港澳人员往来全面恢复",
+      "onboard_time": 1675389088,
+      "rank": 47,
       "category": "社会新闻"
     }
   ],
