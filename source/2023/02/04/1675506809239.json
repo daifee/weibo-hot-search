@@ -1,0 +1,410 @@
+{
+  "runTime": 1675506809239,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1711354,
+        "num": 1711354,
+        "word": "美国两架客机在机场相撞",
+        "onboard_time": 1675503808,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841042,
+        "num": 841042,
+        "word": "游客洪崖洞花30元找当地大爷抄近道",
+        "onboard_time": 1675496368,
+        "rank": 1,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 21859,
+        "num": 839712,
+        "word": "风和日暖人勤春早",
+        "onboard_time": 1675479209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839013,
+        "num": 839013,
+        "word": "吴刚赵露思罗一舟后浪24节气版预告",
+        "onboard_time": 1675504528,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 674121,
+        "num": 674121,
+        "word": "女子疑打车花80元被婆家罚跪跑圈",
+        "onboard_time": 1675502009,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672321,
+        "num": 672321,
+        "word": "赵露思演的孙头头人小辈大",
+        "onboard_time": 1675505550,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 658641,
+        "num": 658641,
+        "word": "狂飙2没你们我不看",
+        "onboard_time": 1675493610,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 633518,
+        "num": 633518,
+        "word": "咖啡渣居然能去黑眼圈",
+        "onboard_time": 1675501346,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 626856,
+        "num": 626856,
+        "word": "女子发现超市1个橙子卖128元",
+        "onboard_time": 1675500690,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605181,
+        "num": 605181,
+        "word": "兄妹4人花38万在农村给父母盖养老房",
+        "onboard_time": 1675504048,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560914,
+        "num": 560914,
+        "word": "制止男童进女厕女子称对方已道歉",
+        "onboard_time": 1675501050,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523628,
+        "num": 523628,
+        "word": "癌症的3个身体求救信号",
+        "onboard_time": 1675485567,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488376,
+        "num": 488376,
+        "word": "沈月说我没有不服我只有不足",
+        "onboard_time": 1675502606,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364958,
+        "num": 364958,
+        "word": "研究发现易胖和易瘦者的大脑不同",
+        "onboard_time": 1675498048,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344303,
+        "num": 344303,
+        "word": "父亲在公园眼睁睁看着女儿被亲",
+        "onboard_time": 1675493251,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342637,
+        "num": 342637,
+        "word": "捡到无毛猫却养不起",
+        "onboard_time": 1675503450,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338290,
+        "num": 338290,
+        "word": "怎么有猫舔不到自己的毛啊",
+        "onboard_time": 1675501889,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327798,
+        "num": 327798,
+        "word": "台湾网友看了狂飙想去广东吃肠粉",
+        "onboard_time": 1675491205,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317620,
+        "num": 317620,
+        "word": "躲春是迷信吗",
+        "onboard_time": 1675486589,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307891,
+        "num": 307891,
+        "word": "时代少年团全员震惊表情包",
+        "onboard_time": 1675504829,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263810,
+        "num": 263810,
+        "word": "42岁张柏芝和44岁沙溢同框",
+        "onboard_time": 1675505488,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243575,
+        "num": 243575,
+        "word": "张颂文曾经是广东省最佳导游",
+        "onboard_time": 1675489647,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234769,
+        "num": 234769,
+        "word": "大学生寒假点外卖现状",
+        "onboard_time": 1675505250,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227745,
+        "num": 227745,
+        "word": "分不清李一桐白鹿",
+        "onboard_time": 1675491267,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215198,
+        "num": 215198,
+        "word": "王鹤棣时宴戳头杀",
+        "onboard_time": 1675500985,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211964,
+        "num": 211964,
+        "word": "34岁女子过年被催婚患上抑郁症",
+        "onboard_time": 1675494328,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198282,
+        "num": 198282,
+        "word": "女孩总喊腹痛被说厌学查出恶性肿瘤",
+        "onboard_time": 1675492347,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198238,
+        "num": 198238,
+        "word": "父亲借女儿3万压岁钱不还被起诉",
+        "onboard_time": 1675491807,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196665,
+        "num": 196665,
+        "word": "你好星期六",
+        "onboard_time": 1675506687,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187889,
+        "num": 187889,
+        "word": "王一博无名西装造型插兜花絮",
+        "onboard_time": 1675505129,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173845,
+        "num": 173845,
+        "word": "兔年想活成曾黎",
+        "onboard_time": 1675500388,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169017,
+        "num": 169017,
+        "word": "IG对战TT",
+        "onboard_time": 1675504108,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165858,
+        "num": 165858,
+        "word": "李宇春惋惜陈粒淘汰",
+        "onboard_time": 1675504888,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159837,
+        "num": 159837,
+        "word": "TangoZ看AOMG演唱会",
+        "onboard_time": 1675503628,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158451,
+        "num": 158451,
+        "word": "满江红",
+        "onboard_time": 1675506207,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151795,
+        "num": 151795,
+        "word": "狂飙的取景地找到了",
+        "onboard_time": 1675499008,
+        "rank": 35,
+        "category": "影视,旅游"
+      },
+      {
+        "raw_hot": 149766,
+        "num": 149766,
+        "word": "网传我是歌手女生季首发名单",
+        "onboard_time": 1675490547,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147450,
+        "num": 147450,
+        "word": "流浪地球2太空电梯美术设定",
+        "onboard_time": 1675501827,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142018,
+        "num": 142018,
+        "word": "得到了流浪小狗的认可",
+        "onboard_time": 1675504408,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140382,
+        "num": 140382,
+        "word": "王安宇瘦了好多",
+        "onboard_time": 1675487068,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136047,
+        "num": 136047,
+        "word": "超市回应男子踩碎两女孩送的饼干",
+        "onboard_time": 1675498889,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132650,
+        "num": 132650,
+        "word": "女子遇糖果刺客6块糖卖466元",
+        "onboard_time": 1675486409,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123487,
+        "num": 123487,
+        "word": "玉兔二号设计寿命3个月已运行4年",
+        "onboard_time": 1675502127,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 122922,
+        "num": 122922,
+        "word": "雪见又要长头发了",
+        "onboard_time": 1675482985,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122565,
+        "num": 122565,
+        "word": "湖南一男子当街殴打掌掴女子",
+        "onboard_time": 1675499487,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 120125,
+        "num": 120125,
+        "word": "中美双方都没有宣布过什么访问",
+        "onboard_time": 1675485326,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 110607,
+        "num": 110607,
+        "word": "男孩回应从富豪家被拐至亿万富豪家",
+        "onboard_time": 1675485687,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109484,
+        "num": 109484,
+        "word": "刘耀文乞丐发型是自己抓的",
+        "onboard_time": 1675493908,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104914,
+        "num": 104914,
+        "word": "马嘉祺声生不息上班出发路透",
+        "onboard_time": 1675495347,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102746,
+        "num": 102746,
+        "word": "鞠婧祎新歌花九宫格剧照",
+        "onboard_time": 1675499605,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#元宵赏月指南#"
+    }
+  }
+}
