@@ -1,0 +1,410 @@
+{
+  "runTime": 1675494939156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1276372,
+        "num": 1276372,
+        "word": "癌症的3个身体求救信号",
+        "onboard_time": 1675485567,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1054110,
+        "num": 1054110,
+        "word": "父亲借女儿3万压岁钱不还被起诉",
+        "onboard_time": 1675491807,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51460,
+        "num": 946241,
+        "word": "风和日暖人勤春早",
+        "onboard_time": 1675479209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928456,
+        "num": 928456,
+        "word": "躲春是迷信吗",
+        "onboard_time": 1675486589,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856575,
+        "num": 856575,
+        "word": "分不清李一桐白鹿",
+        "onboard_time": 1675491267,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 798359,
+        "num": 798359,
+        "word": "网传我是歌手女生季首发名单",
+        "onboard_time": 1675490547,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 759864,
+        "num": 759864,
+        "word": "女孩总喊腹痛被说厌学查出恶性肿瘤",
+        "onboard_time": 1675492347,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683164,
+        "num": 683164,
+        "word": "父亲在公园眼睁睁看着女儿被亲",
+        "onboard_time": 1675493251,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558658,
+        "num": 558658,
+        "word": "台湾网友看了狂飙想去广东吃肠粉",
+        "onboard_time": 1675491205,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 551902,
+        "num": 551902,
+        "word": "张颂文曾经是广东省最佳导游",
+        "onboard_time": 1675489647,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546662,
+        "num": 546662,
+        "word": "女子遇糖果刺客6块糖卖466元",
+        "onboard_time": 1675486409,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397138,
+        "num": 397138,
+        "word": "雪见又要长头发了",
+        "onboard_time": 1675482985,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372764,
+        "num": 372764,
+        "word": "陈晓说刘亦菲有很多值得学习的地方",
+        "onboard_time": 1675488148,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 457735,
+        "num": 369079,
+        "word": "王安宇瘦了好多",
+        "onboard_time": 1675487068,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356948,
+        "num": 356948,
+        "word": "狂飙2没你们我不看",
+        "onboard_time": 1675493610,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321128,
+        "num": 321128,
+        "word": "刘耀文乞丐发型是自己抓的",
+        "onboard_time": 1675493908,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319624,
+        "num": 319624,
+        "word": "警方介入调查女子摩托车被加白糖",
+        "onboard_time": 1675487308,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294374,
+        "num": 294374,
+        "word": "王一博王传君默契对视摊手",
+        "onboard_time": 1675493369,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288890,
+        "num": 288890,
+        "word": "张译狂飙现场疯狂撸猫",
+        "onboard_time": 1675481908,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283920,
+        "num": 283920,
+        "word": "男孩回应从富豪家被拐至亿万富豪家",
+        "onboard_time": 1675485687,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264454,
+        "num": 264454,
+        "word": "中美双方都没有宣布过什么访问",
+        "onboard_time": 1675485326,
+        "rank": 20,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 248824,
+        "num": 248824,
+        "word": "张译跳舞",
+        "onboard_time": 1675491985,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247691,
+        "num": 247691,
+        "word": "男子拿被赠饼干换烟遭拒后踩碎",
+        "onboard_time": 1675491685,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245098,
+        "num": 245098,
+        "word": "满江红瑶琴被指导前后变化",
+        "onboard_time": 1675489108,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225025,
+        "num": 225025,
+        "word": "破太岁",
+        "onboard_time": 1675477887,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210063,
+        "num": 210063,
+        "word": "陈晓说王一博带来很多惊喜",
+        "onboard_time": 1675487668,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209774,
+        "num": 209774,
+        "word": "警方公布14名赴柬埔寨及缅北涉赌诈人员",
+        "onboard_time": 1675493009,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196856,
+        "num": 196856,
+        "word": "男子2000万买别墅中介闹乌龙卖错房",
+        "onboard_time": 1675478429,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179591,
+        "num": 179591,
+        "word": "97岁奶奶为吃炸鸡打扮3小时",
+        "onboard_time": 1675471464,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171777,
+        "num": 171777,
+        "word": "唐艺昕晒旅行plog",
+        "onboard_time": 1675490966,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170115,
+        "num": 170115,
+        "word": "三体古筝行动好震撼",
+        "onboard_time": 1675488448,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156029,
+        "num": 156029,
+        "word": "34岁女子过年被催婚患上抑郁症",
+        "onboard_time": 1675494328,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153032,
+        "num": 153032,
+        "word": "狗子是懂怎么缓和气氛的",
+        "onboard_time": 1675489467,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149769,
+        "num": 149769,
+        "word": "刘耀文跑龙套带零食创可贴",
+        "onboard_time": 1675489708,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143852,
+        "num": 143852,
+        "word": "尔冬升说你们不是来演男一女一的",
+        "onboard_time": 1675482326,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141259,
+        "num": 141259,
+        "word": "3斤肉上桌只剩1斤多店家称正常",
+        "onboard_time": 1675481245,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135863,
+        "num": 135863,
+        "word": "躲春",
+        "onboard_time": 1675468401,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134524,
+        "num": 134524,
+        "word": "高叶说想吃鱼了",
+        "onboard_time": 1675482267,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129015,
+        "num": 129015,
+        "word": "何洁朋友圈签名无所谓没必要不至于",
+        "onboard_time": 1675481427,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120557,
+        "num": 120557,
+        "word": "宋亚轩瞳色",
+        "onboard_time": 1675487008,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116323,
+        "num": 116323,
+        "word": "易烊千玺满江红落泪花絮",
+        "onboard_time": 1675484007,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115243,
+        "num": 115243,
+        "word": "气出来的乳腺增生",
+        "onboard_time": 1675478726,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110219,
+        "num": 110219,
+        "word": "无畏立春唱无畏",
+        "onboard_time": 1675493847,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108276,
+        "num": 108276,
+        "word": "魔术森林狼大规模冲突",
+        "onboard_time": 1675481966,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104348,
+        "num": 104348,
+        "word": "黄明昊不会唱大梦想家",
+        "onboard_time": 1675486650,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104094,
+        "num": 104094,
+        "word": "有人还完90万房贷月供1块抵个税",
+        "onboard_time": 1675474227,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 100802,
+        "num": 100802,
+        "word": "唐嫣好有少女感",
+        "onboard_time": 1675481067,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97769,
+        "num": 97769,
+        "word": "立春",
+        "onboard_time": 1675467199,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94106,
+        "num": 94106,
+        "word": "恩佐切尔西首秀",
+        "onboard_time": 1675488689,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90167,
+        "num": 90167,
+        "word": "钎城学猫叫",
+        "onboard_time": 1675491985,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京冬奥会的雪花永远盛放#"
+    }
+  }
+}
