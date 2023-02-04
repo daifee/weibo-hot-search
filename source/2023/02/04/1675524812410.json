@@ -1,0 +1,410 @@
+{
+  "runTime": 1675524812410,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1648058,
+        "num": 1648058,
+        "word": "iPhone14Pro全系降价700元",
+        "onboard_time": 1675518271,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1489798,
+        "num": 1489798,
+        "word": "边伯贤 退伍",
+        "onboard_time": 1675523613,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32558,
+        "num": 1439834,
+        "word": "全国元宵节花灯大比拼",
+        "onboard_time": 1675477347,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1398895,
+        "num": 1398895,
+        "word": "刚领证7天男子被妻子打进医院",
+        "onboard_time": 1675513410,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1364140,
+        "num": 1364140,
+        "word": "票房",
+        "onboard_time": 1675523010,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1013940,
+        "num": 1013940,
+        "word": "李钟硕戴了IU演唱会周边帽子",
+        "onboard_time": 1675523613,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 748121,
+        "num": 748121,
+        "word": "高启强意想不到的出圈方式",
+        "onboard_time": 1675516471,
+        "rank": 6,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 714839,
+        "num": 714839,
+        "word": "女子吐槽30岁相亲不是二婚就是老头",
+        "onboard_time": 1675514187,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 495686,
+        "num": 495686,
+        "word": "李一桐郭晓婷不到90斤",
+        "onboard_time": 1675512270,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475659,
+        "num": 475659,
+        "word": "朴灿烈吴世勋见面会生图",
+        "onboard_time": 1675521031,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457137,
+        "num": 457137,
+        "word": "男子车被刮发现6只狗打1只猫",
+        "onboard_time": 1675511670,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432816,
+        "num": 432816,
+        "word": "成龙张艺兴同框视频",
+        "onboard_time": 1675521571,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427852,
+        "num": 427852,
+        "word": "BLG对战WBG",
+        "onboard_time": 1675516592,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 419727,
+        "num": 419727,
+        "word": "华晨宇声生不息2台湾街采人气第一",
+        "onboard_time": 1675522831,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393980,
+        "num": 393980,
+        "word": "遭遇断崖式分手如何走出来",
+        "onboard_time": 1675513590,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382455,
+        "num": 382455,
+        "word": "19岁男孩患阿尔兹海默症",
+        "onboard_time": 1675516232,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360475,
+        "num": 360475,
+        "word": "刘耀文一镜到底吃8碗面",
+        "onboard_time": 1675517372,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346377,
+        "num": 346377,
+        "word": "黄绮珊8年前后对比照",
+        "onboard_time": 1675516711,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343186,
+        "num": 343186,
+        "word": "42岁张柏芝和44岁沙溢同框",
+        "onboard_time": 1675505488,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313931,
+        "num": 313931,
+        "word": "安凯",
+        "onboard_time": 1675520012,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298111,
+        "num": 298111,
+        "word": "赵丽颖沈璃白衣造型路透图",
+        "onboard_time": 1675522470,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297163,
+        "num": 297163,
+        "word": "高启强听完都得哭两声",
+        "onboard_time": 1675510708,
+        "rank": 21,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 292150,
+        "num": 292150,
+        "word": "老婆生了儿子男子一脸勉强",
+        "onboard_time": 1675524152,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278217,
+        "num": 278217,
+        "word": "流浪地球2",
+        "onboard_time": 1675519412,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268681,
+        "num": 268681,
+        "word": "狂飙拍摄中的隐藏彩蛋",
+        "onboard_time": 1675519353,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261294,
+        "num": 261294,
+        "word": "崔秀彬李泳知同框跳舞",
+        "onboard_time": 1675523010,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260500,
+        "num": 260500,
+        "word": "秦霄贤看到钟楚曦劈叉的反应",
+        "onboard_time": 1675518333,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257097,
+        "num": 257097,
+        "word": "38岁男子因未婚被母亲带医院检查",
+        "onboard_time": 1675512510,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252136,
+        "num": 252136,
+        "word": "第一次见咖啡肠粉",
+        "onboard_time": 1675516892,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247442,
+        "num": 247442,
+        "word": "宋威龙直播时让狗狗代播",
+        "onboard_time": 1675520852,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234823,
+        "num": 234823,
+        "word": "权顺荣说追星不容易",
+        "onboard_time": 1675523311,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230594,
+        "num": 230594,
+        "word": "人气超高但你却无感的水果",
+        "onboard_time": 1675514788,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 221133,
+        "num": 221133,
+        "word": "光遇",
+        "onboard_time": 1675524332,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218276,
+        "num": 218276,
+        "word": "恃宠",
+        "onboard_time": 1675514490,
+        "rank": 33,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 213307,
+        "num": 213307,
+        "word": "王鹤棣拍戏现场和刘耀文连线",
+        "onboard_time": 1675522712,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207160,
+        "num": 207160,
+        "word": "深海",
+        "onboard_time": 1675507050,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204332,
+        "num": 204332,
+        "word": "狼队vs利物浦",
+        "onboard_time": 1675524332,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203676,
+        "num": 203676,
+        "word": "兄妹4人花38万在农村给父母盖养老房",
+        "onboard_time": 1675504048,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201738,
+        "num": 201738,
+        "word": "幼儿园表演节目完的我",
+        "onboard_time": 1675519051,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200810,
+        "num": 200810,
+        "word": "美国两架客机在机场相撞",
+        "onboard_time": 1675503808,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196136,
+        "num": 196136,
+        "word": "阿杜唱的坚持到底真是回忆杀了",
+        "onboard_time": 1675522950,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193975,
+        "num": 193975,
+        "word": "埃弗顿1比0阿森纳",
+        "onboard_time": 1675524751,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188263,
+        "num": 188263,
+        "word": "丁程鑫贺峻霖冤种兄弟实锤",
+        "onboard_time": 1675524212,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168250,
+        "num": 168250,
+        "word": "制止男童进女厕女子称对方已道歉",
+        "onboard_time": 1675501050,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179190,
+        "num": 166720,
+        "word": "严浩翔执着于和刘耀文比心",
+        "onboard_time": 1675518391,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164708,
+        "num": 164708,
+        "word": "苏醒兔年第一期老歌手的日常vlog",
+        "onboard_time": 1675522229,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162192,
+        "num": 162192,
+        "word": "赵露思演的孙头头人小辈大",
+        "onboard_time": 1675505550,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155400,
+        "num": 155400,
+        "word": "你会考虑在农村盖养老房吗",
+        "onboard_time": 1675515932,
+        "rank": 47,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 152249,
+        "num": 152249,
+        "word": "女子发现超市1个橙子卖128元",
+        "onboard_time": 1675500690,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147610,
+        "num": 147610,
+        "word": "航天专家谈三体太空电梯可行性",
+        "onboard_time": 1675518091,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京冬奥会的雪花永远盛放#"
+    }
+  }
+}

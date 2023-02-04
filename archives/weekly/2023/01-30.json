@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675523839972,
+  "endTime": 1675524812410,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 1952472,
-      "num": 980947,
+      "num": 1398895,
       "word": "刚领证7天男子被妻子打进医院",
       "onboard_time": 1675513410,
       "rank": 24,
@@ -987,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1489798,
+      "num": 1489798,
+      "word": "边伯贤 退伍",
+      "onboard_time": 1675523613,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1487733,
       "num": 1487733,
       "word": "胡鑫宇曾向母亲哭诉不想读书",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1675307738,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1364140,
+      "num": 1364140,
+      "word": "票房",
+      "onboard_time": 1675523010,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1359195,
@@ -1931,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1013940,
+      "num": 1013940,
+      "word": "李钟硕戴了IU演唱会周边帽子",
+      "onboard_time": 1675523613,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1012154,
       "num": 1012154,
       "word": "初四相亲初八订婚算闪婚吗",
@@ -2208,14 +2232,6 @@
       "word": "王嘉晨回应狂飙拍了100集是玩笑",
       "onboard_time": 1675219949,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 906478,
-      "num": 906478,
-      "word": "票房",
-      "onboard_time": 1675523010,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -5531,14 +5547,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 443930,
-      "num": 443930,
-      "word": "边伯贤 退伍",
-      "onboard_time": 1675523613,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 443488,
       "num": 443488,
       "word": "中科院团队创制出无刺喜头鱼",
@@ -5715,20 +5723,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427852,
+      "num": 427852,
+      "word": "BLG对战WBG",
+      "onboard_time": 1675516592,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 427604,
       "num": 427604,
       "word": "乐华boysplanet英雄舞台",
       "onboard_time": 1675345357,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 426694,
-      "num": 426694,
-      "word": "BLG对战WBG",
-      "onboard_time": 1675516592,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 426254,
@@ -5851,6 +5859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419727,
+      "num": 419727,
+      "word": "华晨宇声生不息2台湾街采人气第一",
+      "onboard_time": 1675522831,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418724,
       "num": 418724,
       "word": "男子醉酒后哭诉心疼妻子想让娃断奶",
@@ -5937,14 +5953,6 @@
       "onboard_time": 1675434154,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 410633,
-      "num": 410633,
-      "word": "华晨宇声生不息2台湾街采人气第一",
-      "onboard_time": 1675522831,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 410167,
@@ -8003,6 +8011,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 292150,
+      "num": 292150,
+      "word": "老婆生了儿子男子一脸勉强",
+      "onboard_time": 1675524152,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291948,
       "num": 291948,
       "word": "俄军首批战斗机器人抵达顿巴斯",
@@ -8297,6 +8313,14 @@
       "onboard_time": 1675015635,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278217,
+      "num": 278217,
+      "word": "流浪地球2",
+      "onboard_time": 1675370592,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 277755,
@@ -8595,6 +8619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268681,
+      "num": 268681,
+      "word": "狂飙拍摄中的隐藏彩蛋",
+      "onboard_time": 1675519353,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 268052,
       "num": 268052,
       "word": "时代少年团新歌纯享版舞台",
@@ -8819,14 +8851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261453,
-      "num": 261453,
-      "word": "狂飙拍摄中的隐藏彩蛋",
-      "onboard_time": 1675519353,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 261409,
       "num": 261409,
       "word": "邢菲新剧定妆vlog",
@@ -8937,14 +8961,6 @@
       "onboard_time": 1675247552,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 258040,
-      "num": 258040,
-      "word": "李钟硕戴了IU演唱会周边帽子",
-      "onboard_time": 1675523613,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 257782,
@@ -9195,6 +9211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247442,
+      "num": 247442,
+      "word": "宋威龙直播时让狗狗代播",
+      "onboard_time": 1675520852,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247329,
       "num": 247329,
       "word": "汤姆布雷迪再次宣布退役",
@@ -9305,14 +9329,6 @@
       "onboard_time": 1675154085,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242551,
-      "num": 242551,
-      "word": "宋威龙直播时让狗狗代播",
-      "onboard_time": 1675520852,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 241907,
@@ -9907,6 +9923,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 221133,
+      "num": 221133,
+      "word": "光遇",
+      "onboard_time": 1675524332,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 220159,
       "num": 220159,
       "word": "你知道皮蛋有多美吗",
@@ -10371,6 +10395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204332,
+      "num": 204332,
+      "word": "狼队vs利物浦",
+      "onboard_time": 1675524332,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204027,
       "num": 204027,
       "word": "父母该不该带孩子进异性厕所",
@@ -10731,6 +10763,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 196136,
+      "num": 196136,
+      "word": "阿杜唱的坚持到底真是回忆杀了",
+      "onboard_time": 1675522950,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195997,
       "num": 195997,
       "word": "萌兔闹元宵",
@@ -10745,14 +10785,6 @@
       "onboard_time": 1675069170,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195926,
-      "num": 195926,
-      "word": "阿杜唱的坚持到底真是回忆杀了",
-      "onboard_time": 1675522950,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 195814,
@@ -10873,6 +10905,14 @@
       "onboard_time": 1675163018,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193975,
+      "num": 193975,
+      "word": "埃弗顿1比0阿森纳",
+      "onboard_time": 1675524751,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 193887,
@@ -11185,6 +11225,14 @@
       "onboard_time": 1675398452,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188263,
+      "num": 188263,
+      "word": "丁程鑫贺峻霖冤种兄弟实锤",
+      "onboard_time": 1675524212,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 188262,
@@ -11548,7 +11596,7 @@
     },
     {
       "raw_hot": 181377,
-      "num": 989900,
+      "num": 1439834,
       "word": "全国元宵节花灯大比拼",
       "onboard_time": 1675477347,
       "rank": 35,
@@ -13937,14 +13985,6 @@
       "onboard_time": 1675187837,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44628,
-      "num": 44628,
-      "word": "流浪地球2",
-      "onboard_time": 1675370592,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 43062,

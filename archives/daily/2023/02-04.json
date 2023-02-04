@@ -1,6 +1,6 @@
 {
   "startTime": 1675441538677,
-  "endTime": 1675523839972,
+  "endTime": 1675524812410,
   "band_list": [
     {
       "raw_hot": 3893603,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1952472,
-      "num": 980947,
+      "num": 1398895,
       "word": "刚领证7天男子被妻子打进医院",
       "onboard_time": 1675513410,
       "rank": 24,
@@ -83,12 +83,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1489798,
+      "num": 1489798,
+      "word": "边伯贤 退伍",
+      "onboard_time": 1675523613,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1426235,
       "num": 1426235,
       "word": "专家再谈劝百姓拿出三分之一存款买房",
       "onboard_time": 1675511910,
       "rank": 1,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1364140,
+      "num": 1364140,
+      "word": "票房",
+      "onboard_time": 1675523010,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1305240,
@@ -211,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1013940,
+      "num": 1013940,
+      "word": "李钟硕戴了IU演唱会周边帽子",
+      "onboard_time": 1675523613,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 965201,
       "num": 965201,
       "word": "躲春是迷信吗",
@@ -256,14 +280,6 @@
       "word": "吴刚赵露思罗一舟后浪24节气版预告",
       "onboard_time": 1675504528,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 906478,
-      "num": 906478,
-      "word": "票房",
-      "onboard_time": 1675523010,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -795,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 443930,
-      "num": 443930,
-      "word": "边伯贤 退伍",
-      "onboard_time": 1675523613,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 443673,
       "num": 443673,
       "word": "狂飙演员因好友演警察前期不说话",
@@ -827,8 +835,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 426694,
-      "num": 426694,
+      "raw_hot": 427852,
+      "num": 427852,
       "word": "BLG对战WBG",
       "onboard_time": 1675516592,
       "rank": 20,
@@ -859,20 +867,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419727,
+      "num": 419727,
+      "word": "华晨宇声生不息2台湾街采人气第一",
+      "onboard_time": 1675522831,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 411307,
       "num": 411307,
       "word": "刘怡潼说热度破8000穿婚纱自拍",
       "onboard_time": 1675511970,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 410633,
-      "num": 410633,
-      "word": "华晨宇声生不息2台湾街采人气第一",
-      "onboard_time": 1675522831,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 410167,
@@ -1267,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292150,
+      "num": 292150,
+      "word": "老婆生了儿子男子一脸勉强",
+      "onboard_time": 1675524152,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291948,
       "num": 291948,
       "word": "俄军首批战斗机器人抵达顿巴斯",
@@ -1363,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278217,
+      "num": 278217,
+      "word": "流浪地球2",
+      "onboard_time": 1675519412,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270872,
       "num": 270872,
       "word": "权顺荣说追星不容易",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1675500927,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268681,
+      "num": 268681,
+      "word": "狂飙拍摄中的隐藏彩蛋",
+      "onboard_time": 1675519353,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 266567,
@@ -1403,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261453,
-      "num": 261453,
-      "word": "狂飙拍摄中的隐藏彩蛋",
-      "onboard_time": 1675519353,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 260888,
       "num": 260888,
       "word": "时代少年团百忧戒转场视频",
@@ -1425,14 +1449,6 @@
       "onboard_time": 1675489708,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258040,
-      "num": 258040,
-      "word": "李钟硕戴了IU演唱会周边帽子",
-      "onboard_time": 1675523613,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 253374,
@@ -1507,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247442,
+      "num": 247442,
+      "word": "宋威龙直播时让狗狗代播",
+      "onboard_time": 1675520852,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247228,
       "num": 247228,
       "word": "流浪地球2登顶单日票房榜",
@@ -1544,14 +1568,6 @@
       "word": "流浪地球是在哈尔滨拍的吧",
       "onboard_time": 1675440390,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 242551,
-      "num": 242551,
-      "word": "宋威龙直播时让狗狗代播",
-      "onboard_time": 1675520852,
-      "rank": 47,
       "category": "影视"
     },
     {
@@ -1683,6 +1699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221133,
+      "num": 221133,
+      "word": "光遇",
+      "onboard_time": 1675524332,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219766,
       "num": 219766,
       "word": "苏醒说何洁比他境界高多了",
@@ -1803,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204332,
+      "num": 204332,
+      "word": "狼队vs利物浦",
+      "onboard_time": 1675524332,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201793,
       "num": 201793,
       "word": "严浩翔珍珠脸钻造型",
@@ -1835,8 +1867,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195926,
-      "num": 195926,
+      "raw_hot": 196136,
+      "num": 196136,
       "word": "阿杜唱的坚持到底真是回忆杀了",
       "onboard_time": 1675522950,
       "rank": 39,
@@ -1857,6 +1889,14 @@
       "onboard_time": 1675510291,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193975,
+      "num": 193975,
+      "word": "埃弗顿1比0阿森纳",
+      "onboard_time": 1675524751,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 191935,
@@ -1889,6 +1929,14 @@
       "onboard_time": 1675450454,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 188263,
+      "num": 188263,
+      "word": "丁程鑫贺峻霖冤种兄弟实锤",
+      "onboard_time": 1675524212,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 187631,
@@ -1956,7 +2004,7 @@
     },
     {
       "raw_hot": 181377,
-      "num": 989900,
+      "num": 1439834,
       "word": "全国元宵节花灯大比拼",
       "onboard_time": 1675477347,
       "rank": 35,
