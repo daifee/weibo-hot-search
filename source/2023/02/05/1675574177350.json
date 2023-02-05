@@ -1,0 +1,410 @@
+{
+  "runTime": 1675574177350,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2887252,
+        "num": 2887252,
+        "word": "佛山地震",
+        "onboard_time": 1675568914,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1246302,
+        "num": 1246302,
+        "word": "超市回应1个橙子卖128元",
+        "onboard_time": 1675569093,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 138861,
+        "num": 876837,
+        "word": "今天元宵节",
+        "onboard_time": 1675566031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874073,
+        "num": 874073,
+        "word": "狂飙制片人和疯驴子聊成毅",
+        "onboard_time": 1675572929,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 843061,
+        "num": 843061,
+        "word": "外交部就美称击落我无人飞艇发表声明",
+        "onboard_time": 1675557084,
+        "rank": 4,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 805434,
+        "num": 805434,
+        "word": "易烊千玺把沈腾后背刮出痧的反应",
+        "onboard_time": 1675572691,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 647542,
+        "num": 647542,
+        "word": "张颂文电子签名",
+        "onboard_time": 1675558586,
+        "rank": 6,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 621489,
+        "num": 621489,
+        "word": "吴磊赵今麦雪中拍摄氛围感",
+        "onboard_time": 1675569033,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 621466,
+        "num": 621466,
+        "word": "时代少年团 二专",
+        "onboard_time": 1675571134,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 520746,
+        "num": 520746,
+        "word": "经常吃辣或能降低患癌几率",
+        "onboard_time": 1675565247,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494577,
+        "num": 494577,
+        "word": "朱珠说希望大家也能勇敢拒绝",
+        "onboard_time": 1675571915,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477504,
+        "num": 477504,
+        "word": "丁程鑫一次记住八个人动作",
+        "onboard_time": 1675573770,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469270,
+        "num": 469270,
+        "word": "女子买面条差0.04kg怒拍视频曝光商家",
+        "onboard_time": 1675562311,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460847,
+        "num": 460847,
+        "word": "光遇氪金送礼被封号",
+        "onboard_time": 1675554559,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 450018,
+        "num": 450018,
+        "word": "广州震感",
+        "onboard_time": 1675568914,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436206,
+        "num": 436206,
+        "word": "许凯谭松韵新剧开机路透",
+        "onboard_time": 1675569873,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395949,
+        "num": 395949,
+        "word": "肖战元宵九宫格祝福",
+        "onboard_time": 1675566627,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372269,
+        "num": 372269,
+        "word": "王子文说三体后10集激动人心",
+        "onboard_time": 1675573113,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366387,
+        "num": 366387,
+        "word": "广东佛山地震多地有震感",
+        "onboard_time": 1675571134,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350185,
+        "num": 350185,
+        "word": "被语文教材安利过的东西",
+        "onboard_time": 1675570834,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313801,
+        "num": 313801,
+        "word": "男子油锅炸元宵现场惨烈",
+        "onboard_time": 1675566447,
+        "rank": 20,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 284174,
+        "num": 284174,
+        "word": "边伯贤 退伍",
+        "onboard_time": 1675523613,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278562,
+        "num": 278562,
+        "word": "张子枫陈飞宇活动同框",
+        "onboard_time": 1675566929,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272874,
+        "num": 272874,
+        "word": "徐冬冬晒自己145斤和108斤对比照",
+        "onboard_time": 1675566387,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258918,
+        "num": 258918,
+        "word": "这摊真的非出不可吗",
+        "onboard_time": 1675572514,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258346,
+        "num": 258346,
+        "word": "高一男生英语考试疯狂默写古诗词",
+        "onboard_time": 1675564467,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 258189,
+        "num": 258189,
+        "word": "超女快男集体发文呼唤舞台",
+        "onboard_time": 1675561527,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256945,
+        "num": 256945,
+        "word": "元宵",
+        "onboard_time": 1675555582,
+        "rank": 27,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 251323,
+        "num": 251323,
+        "word": "人人视频遭集体起诉",
+        "onboard_time": 1675564766,
+        "rank": 28,
+        "category": "财经,影视"
+      },
+      {
+        "raw_hot": 249273,
+        "num": 249273,
+        "word": "C罗",
+        "onboard_time": 1675565308,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236190,
+        "num": 236190,
+        "word": "库里受伤",
+        "onboard_time": 1675569393,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223690,
+        "num": 223690,
+        "word": "陈飞宇和狮子互相鞠躬",
+        "onboard_time": 1675569937,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212853,
+        "num": 212853,
+        "word": "老婆生了儿子男子一脸勉强",
+        "onboard_time": 1675524152,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209879,
+        "num": 209879,
+        "word": "宋朝元宵节放7天假",
+        "onboard_time": 1675566146,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209698,
+        "num": 209698,
+        "word": "光遇",
+        "onboard_time": 1675524332,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195183,
+        "num": 195183,
+        "word": "无名梁朝伟王一博卡车高能对手戏",
+        "onboard_time": 1675568368,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175973,
+        "num": 175973,
+        "word": "虞书欣许凯仙剑六元宵海报",
+        "onboard_time": 1675565549,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172021,
+        "num": 172021,
+        "word": "iPhone14Pro全系降价700元",
+        "onboard_time": 1675518271,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 170607,
+        "num": 170607,
+        "word": "内马尔",
+        "onboard_time": 1675553959,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167674,
+        "num": 167674,
+        "word": "中国奇谭演活了北京胡同",
+        "onboard_time": 1675573949,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 167436,
+        "num": 167436,
+        "word": "长公主在上开播一周年",
+        "onboard_time": 1675568730,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166428,
+        "num": 166428,
+        "word": "杨颖祝大家岁岁平安幸福团圆",
+        "onboard_time": 1675573649,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162101,
+        "num": 162101,
+        "word": "贺峻霖眼睛",
+        "onboard_time": 1675555521,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149262,
+        "num": 149262,
+        "word": "iPhone出货量刷新历史纪录",
+        "onboard_time": 1675554559,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 145775,
+        "num": 145775,
+        "word": "张译鼓励满江红新人演员",
+        "onboard_time": 1675565727,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145389,
+        "num": 145389,
+        "word": "汤圆和元宵傻傻分不清",
+        "onboard_time": 1675559608,
+        "rank": 45,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1831863,
+        "num": 145346,
+        "word": "警方回应狗头萝莉疑似轻生一事",
+        "onboard_time": 1675570655,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144772,
+        "num": 144772,
+        "word": "沈腾马丽时隔8年再演夏洛马冬梅",
+        "onboard_time": 1675554559,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143419,
+        "num": 143419,
+        "word": "篮网决心交易欧文",
+        "onboard_time": 1675564766,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139774,
+        "num": 139774,
+        "word": "公公回应女子被婆家罚跪跑圈",
+        "onboard_time": 1675559246,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好满足人民精神文化生活新期待#"
+    }
+  }
+}

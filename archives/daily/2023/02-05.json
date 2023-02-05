@@ -1,6 +1,6 @@
 {
   "startTime": 1675527843138,
-  "endTime": 1675571800682,
+  "endTime": 1675574177350,
   "band_list": [
     {
       "raw_hot": 9632259,
@@ -51,6 +51,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1831863,
+      "num": 652597,
+      "word": "警方回应狗头萝莉疑似轻生一事",
+      "onboard_time": 1675570655,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1528908,
       "num": 667354,
       "word": "台网红谷阿莫被曝参选台独政党委员",
@@ -75,20 +83,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1427085,
-      "num": 652597,
-      "word": "警方回应狗头萝莉疑似轻生一事",
-      "onboard_time": 1675570655,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1406502,
       "num": 1406502,
       "word": "老婆生了儿子男子一脸勉强",
       "onboard_time": 1675524152,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1246302,
+      "num": 1246302,
+      "word": "超市回应1个橙子卖128元",
+      "onboard_time": 1675569093,
+      "rank": 6,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1128757,
@@ -163,20 +171,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 959802,
-      "num": 959802,
-      "word": "超市回应1个橙子卖128元",
-      "onboard_time": 1675569093,
-      "rank": 6,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 896838,
       "num": 896838,
       "word": "时代少年团 二专",
       "onboard_time": 1675571134,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 874073,
+      "num": 874073,
+      "word": "狂飙制片人和疯驴子聊成毅",
+      "onboard_time": 1675572929,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 859913,
@@ -193,6 +201,14 @@
       "onboard_time": 1675559246,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 805434,
+      "num": 805434,
+      "word": "易烊千玺把沈腾后背刮出痧的反应",
+      "onboard_time": 1675572691,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 736407,
@@ -315,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494577,
+      "num": 494577,
+      "word": "朱珠说希望大家也能勇敢拒绝",
+      "onboard_time": 1675571915,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 491221,
       "num": 491221,
       "word": "贺峻霖眼睛",
@@ -337,6 +361,14 @@
       "onboard_time": 1675565308,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 477504,
+      "num": 477504,
+      "word": "丁程鑫一次记住八个人动作",
+      "onboard_time": 1675573770,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 472496,
@@ -411,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372269,
+      "num": 372269,
+      "word": "王子文说三体后10集激动人心",
+      "onboard_time": 1675573113,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 369432,
       "num": 369432,
       "word": "王心凌杨丞琳聚会合照",
@@ -441,6 +481,14 @@
       "onboard_time": 1675524332,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 350185,
+      "num": 350185,
+      "word": "被语文教材安利过的东西",
+      "onboard_time": 1675570834,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 347932,
@@ -571,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258918,
+      "num": 258918,
+      "word": "这摊真的非出不可吗",
+      "onboard_time": 1675572514,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257916,
       "num": 257916,
       "word": "无名梁朝伟王一博卡车高能对手戏",
@@ -657,14 +713,6 @@
       "onboard_time": 1675516232,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232860,
-      "num": 232860,
-      "word": "被语文教材安利过的东西",
-      "onboard_time": 1675570834,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 230161,
@@ -841,6 +889,22 @@
       "onboard_time": 1675557144,
       "rank": 31,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 167674,
+      "num": 167674,
+      "word": "中国奇谭演活了北京胡同",
+      "onboard_time": 1675573949,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 166428,
+      "num": 166428,
+      "word": "杨颖祝大家岁岁平安幸福团圆",
+      "onboard_time": 1675573649,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 163967,
