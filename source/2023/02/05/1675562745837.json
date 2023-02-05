@@ -1,0 +1,410 @@
+{
+  "runTime": 1675562745837,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2880224,
+        "num": 2880224,
+        "word": "外交部就美称击落我无人飞艇发表声明",
+        "onboard_time": 1675557084,
+        "rank": 0,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1976940,
+        "num": 1976940,
+        "word": "气球",
+        "onboard_time": 1675558046,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 29231,
+        "num": 1145861,
+        "word": "全国元宵节花灯大比拼",
+        "onboard_time": 1675477347,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3738233,
+        "num": 1113999,
+        "word": "狗头萝莉",
+        "onboard_time": 1675552817,
+        "rank": 3,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 992193,
+        "num": 992193,
+        "word": "超女快男集体发文呼唤舞台",
+        "onboard_time": 1675561527,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 990998,
+        "num": 990998,
+        "word": "张颂文电子签名",
+        "onboard_time": 1675558586,
+        "rank": 5,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 786319,
+        "num": 786319,
+        "word": "票房",
+        "onboard_time": 1675523010,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 730952,
+        "num": 730952,
+        "word": "边伯贤 退伍",
+        "onboard_time": 1675523613,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673934,
+        "num": 673934,
+        "word": "元宵",
+        "onboard_time": 1675555582,
+        "rank": 8,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 561388,
+        "num": 561388,
+        "word": "沈腾马丽时隔8年再演夏洛马冬梅",
+        "onboard_time": 1675554559,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 835372,
+        "num": 543097,
+        "word": "公公回应女子被婆家罚跪跑圈",
+        "onboard_time": 1675559246,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503956,
+        "num": 503956,
+        "word": "老婆生了儿子男子一脸勉强",
+        "onboard_time": 1675524152,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466339,
+        "num": 466339,
+        "word": "汤圆和元宵傻傻分不清",
+        "onboard_time": 1675559608,
+        "rank": 12,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 458469,
+        "num": 458469,
+        "word": "iPhone14Pro全系降价700元",
+        "onboard_time": 1675518271,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 451846,
+        "num": 451846,
+        "word": "光遇氪金送礼被封号",
+        "onboard_time": 1675554559,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 439146,
+        "num": 439146,
+        "word": "内马尔",
+        "onboard_time": 1675553959,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438944,
+        "num": 438944,
+        "word": "贺峻霖眼睛",
+        "onboard_time": 1675555521,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351597,
+        "num": 351597,
+        "word": "王心凌杨丞琳聚会合照",
+        "onboard_time": 1675557084,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307819,
+        "num": 307819,
+        "word": "收费员听声识隐患救下一车人",
+        "onboard_time": 1675556844,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301169,
+        "num": 301169,
+        "word": "iPhone出货量刷新历史纪录",
+        "onboard_time": 1675554559,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 299029,
+        "num": 299029,
+        "word": "李钟硕戴了IU演唱会周边帽子",
+        "onboard_time": 1675523613,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299026,
+        "num": 299026,
+        "word": "金钟仁说正在准备solo3辑",
+        "onboard_time": 1675562187,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 295499,
+        "num": 295499,
+        "word": "博纳说无名票房超出预期",
+        "onboard_time": 1675554501,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282685,
+        "num": 282685,
+        "word": "郭帆谈流浪地球3选角",
+        "onboard_time": 1675558648,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244893,
+        "num": 244893,
+        "word": "婚礼当天新娘看不到的画面",
+        "onboard_time": 1675555704,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392031,
+        "num": 244395,
+        "word": "刚领证7天男子被妻子打进医院",
+        "onboard_time": 1675513410,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240918,
+        "num": 240918,
+        "word": "光遇",
+        "onboard_time": 1675524332,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237876,
+        "num": 237876,
+        "word": "胡鑫宇事件背后的流量生意",
+        "onboard_time": 1675541773,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235221,
+        "num": 235221,
+        "word": "日本将限制对华出口半导体设备",
+        "onboard_time": 1675548792,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214434,
+        "num": 214434,
+        "word": "70后丁克夫妻回应质疑",
+        "onboard_time": 1675534036,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208131,
+        "num": 208131,
+        "word": "女子买面条差0.04kg怒拍视频曝光商家",
+        "onboard_time": 1675562311,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186860,
+        "num": 186860,
+        "word": "梅西进球",
+        "onboard_time": 1675554501,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186447,
+        "num": 186447,
+        "word": "正月十五为什么吃元宵",
+        "onboard_time": 1675558709,
+        "rank": 32,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 170329,
+        "num": 170329,
+        "word": "元宵节文案",
+        "onboard_time": 1675560926,
+        "rank": 33,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 162556,
+        "num": 162556,
+        "word": "王一博王传君同款姿势拍照花絮",
+        "onboard_time": 1675561588,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154228,
+        "num": 154228,
+        "word": "女子吐槽30岁相亲不是二婚就是老头",
+        "onboard_time": 1675514187,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147889,
+        "num": 147889,
+        "word": "微信上线吃元宵限时状态",
+        "onboard_time": 1675561468,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 146312,
+        "num": 146312,
+        "word": "火力少年王穿越古代了",
+        "onboard_time": 1675560148,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143049,
+        "num": 143049,
+        "word": "湖人vs鹈鹕",
+        "onboard_time": 1675557144,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131683,
+        "num": 131683,
+        "word": "女店员遭男顾客辱骂推搡20分钟",
+        "onboard_time": 1675549332,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130368,
+        "num": 130368,
+        "word": "四川一地昼夜温差38.6℃",
+        "onboard_time": 1675551494,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124947,
+        "num": 124947,
+        "word": "送你圆圆圆圆圆圆圆圆圆",
+        "onboard_time": 1675557144,
+        "rank": 41,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 121691,
+        "num": 121691,
+        "word": "千年古都遇上青春盛会",
+        "onboard_time": 1675561649,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120882,
+        "num": 120882,
+        "word": "被三体第29集震撼到了",
+        "onboard_time": 1675526669,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115010,
+        "num": 115010,
+        "word": "元宵节快乐",
+        "onboard_time": 1675554140,
+        "rank": 44,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 114163,
+        "num": 114163,
+        "word": "女孩摆航母照祭拜葬日中国将士",
+        "onboard_time": 1675549993,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110226,
+        "num": 110226,
+        "word": "元宵节到底是吃汤圆还是吃元宵",
+        "onboard_time": 1675555040,
+        "rank": 46,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 99533,
+        "num": 99533,
+        "word": "李一桐郭晓婷不到90斤",
+        "onboard_time": 1675512270,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98064,
+        "num": 98064,
+        "word": "解放军仪仗司礼大队将首次亮相总台元宵晚会",
+        "onboard_time": 1675554559,
+        "rank": 48,
+        "category": "综艺,军事"
+      },
+      {
+        "raw_hot": 90826,
+        "num": 90826,
+        "word": "谷爱凌现场观战篮网",
+        "onboard_time": 1675562066,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#实现冬奥遗产利用效益最大化#"
+    }
+  }
+}
