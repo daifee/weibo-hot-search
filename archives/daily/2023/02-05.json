@@ -1,6 +1,6 @@
 {
   "startTime": 1675527843138,
-  "endTime": 1675562745837,
+  "endTime": 1675565504261,
   "band_list": [
     {
       "raw_hot": 3753600,
@@ -41,6 +41,14 @@
       "onboard_time": 1675523613,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1408442,
+      "num": 1408442,
+      "word": "女子买面条差0.04kg怒拍视频曝光商家",
+      "onboard_time": 1675562311,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1406502,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 849271,
+      "num": 849271,
+      "word": "人人视频遭集体起诉",
+      "onboard_time": 1675564766,
+      "rank": 5,
+      "category": "财经,影视"
+    },
+    {
       "raw_hot": 835372,
       "num": 818067,
       "word": "公公回应女子被婆家罚跪跑圈",
@@ -137,6 +153,22 @@
       "onboard_time": 1675516471,
       "rank": 7,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 544239,
+      "num": 544239,
+      "word": "光遇氪金送礼被封号",
+      "onboard_time": 1675554559,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 518394,
+      "num": 518394,
+      "word": "仙剑六祈今朝",
+      "onboard_time": 1675564887,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 508788,
@@ -187,14 +219,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 451846,
-      "num": 451846,
-      "word": "光遇氪金送礼被封号",
-      "onboard_time": 1675554559,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 403587,
       "num": 403587,
       "word": "李一桐郭晓婷不到90斤",
@@ -243,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338058,
+      "num": 338058,
+      "word": "马嘉祺河南人的功夫基因",
+      "onboard_time": 1675564709,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333798,
       "num": 333798,
       "word": "男子车被刮发现6只狗打1只猫",
@@ -281,6 +313,14 @@
       "onboard_time": 1675513590,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 301479,
+      "num": 301479,
+      "word": "高一男生英语考试疯狂默写古诗词",
+      "onboard_time": 1675564467,
+      "rank": 20,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 299026,
@@ -347,12 +387,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250295,
+      "num": 250295,
+      "word": "谷爱凌现场观战篮网",
+      "onboard_time": 1675562066,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249159,
       "num": 249159,
       "word": "高启强听完都得哭两声",
       "onboard_time": 1675510708,
       "rank": 18,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 240839,
+      "num": 240839,
+      "word": "一件事坚持10年是什么体验",
+      "onboard_time": 1675563565,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238659,
+      "num": 238659,
+      "word": "篮网决心交易欧文",
+      "onboard_time": 1675564766,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 237876,
@@ -419,20 +483,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208131,
-      "num": 208131,
-      "word": "女子买面条差0.04kg怒拍视频曝光商家",
-      "onboard_time": 1675562311,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197262,
       "num": 133172,
       "word": "女店员遭男顾客辱骂推搡20分钟",
       "onboard_time": 1675549332,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192948,
+      "num": 192948,
+      "word": "假如你一不小心穿越到唐朝",
+      "onboard_time": 1675564766,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 192433,
@@ -507,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172353,
+      "num": 172353,
+      "word": "C罗",
+      "onboard_time": 1675565308,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168814,
       "num": 168814,
       "word": "送你圆圆圆圆圆圆圆圆圆",
@@ -563,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150719,
+      "num": 150719,
+      "word": "詹姆斯拼抢冲进观众席",
+      "onboard_time": 1675564827,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147910,
       "num": 125509,
       "word": "女孩摆航母照祭拜葬日中国将士",
@@ -587,12 +667,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146905,
+      "num": 146905,
+      "word": "经常吃辣或能降低患癌几率",
+      "onboard_time": 1675565247,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146312,
       "num": 146312,
       "word": "火力少年王穿越古代了",
       "onboard_time": 1675560148,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144910,
+      "num": 144910,
+      "word": "托马斯44分",
+      "onboard_time": 1675564648,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 143818,
@@ -609,6 +705,22 @@
       "onboard_time": 1675557144,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142542,
+      "num": 142542,
+      "word": "朱婷12分",
+      "onboard_time": 1675563267,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142392,
+      "num": 142392,
+      "word": "9科老师一同家访现场压迫感十足",
+      "onboard_time": 1675564709,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140445,
@@ -667,12 +779,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125369,
+      "num": 125369,
+      "word": "男孩冷静阻止伙伴盲目下水救人",
+      "onboard_time": 1675563145,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123942,
       "num": 123942,
       "word": "曼联vs水晶宫",
       "onboard_time": 1675522533,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122509,
+      "num": 122509,
+      "word": "什么馅元宵最好吃",
+      "onboard_time": 1675565429,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 121691,
@@ -785,14 +913,6 @@
       "onboard_time": 1675554559,
       "rank": 48,
       "category": "综艺,军事"
-    },
-    {
-      "raw_hot": 90826,
-      "num": 90826,
-      "word": "谷爱凌现场观战篮网",
-      "onboard_time": 1675562066,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 90204,
