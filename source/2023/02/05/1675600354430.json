@@ -1,0 +1,410 @@
+{
+  "runTime": 1675600354430,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2467247,
+        "num": 2467247,
+        "word": "杭州烟花",
+        "onboard_time": 1675587149,
+        "rank": 0,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 2062336,
+        "num": 2062336,
+        "word": "央视元宵晚会",
+        "onboard_time": 1675596571,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169632,
+        "num": 1414073,
+        "word": "元宵喜乐",
+        "onboard_time": 1675589368,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1292684,
+        "num": 1292684,
+        "word": "丈夫偷拍妻子在副驾吃喝睡780公里",
+        "onboard_time": 1675588948,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1112781,
+        "num": 1112781,
+        "word": "元宵晚会节目单",
+        "onboard_time": 1675588470,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1078109,
+        "num": 1078109,
+        "word": "央视元宵晚会 开盲盒",
+        "onboard_time": 1675599990,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1068075,
+        "num": 1068075,
+        "word": "周深 观众席",
+        "onboard_time": 1675599511,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 778896,
+        "num": 778896,
+        "word": "迪丽热巴晒元宵节随拍",
+        "onboard_time": 1675599690,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773693,
+        "num": 773693,
+        "word": "年轻人报复性还房贷银行为何急了",
+        "onboard_time": 1675593750,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 749108,
+        "num": 749108,
+        "word": "旧手机被妈妈换菜刀女子开车狂追",
+        "onboard_time": 1675596447,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1094314,
+        "num": 721843,
+        "word": "肖战吃的是儿童元宵",
+        "onboard_time": 1675595251,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1006093,
+        "num": 709350,
+        "word": "张晨张常宁父亲因病去世",
+        "onboard_time": 1675591946,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 679897,
+        "num": 679897,
+        "word": "这个选秀是一定要选吗",
+        "onboard_time": 1675595671,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 651482,
+        "num": 651482,
+        "word": "顾客质疑158元烤鸭上桌仅有半只",
+        "onboard_time": 1675598130,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645003,
+        "num": 645003,
+        "word": "湖南高速多车相撞致16死66伤",
+        "onboard_time": 1675586847,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 537102,
+        "num": 537102,
+        "word": "元宵晚会",
+        "onboard_time": 1675595309,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512703,
+        "num": 512703,
+        "word": "男友视角下的邓紫棋",
+        "onboard_time": 1675597051,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402372,
+        "num": 402372,
+        "word": "郭帆化缘都化到联合国了",
+        "onboard_time": 1675597469,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386359,
+        "num": 386359,
+        "word": "女子偷闺蜜百万奢侈品用高仿替代",
+        "onboard_time": 1675590149,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384788,
+        "num": 384788,
+        "word": "吴磊煮汤圆vlog",
+        "onboard_time": 1675598609,
+        "rank": 19,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 383139,
+        "num": 383139,
+        "word": "赵露思偷偷藏不住骑车饭拍",
+        "onboard_time": 1675599452,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366952,
+        "num": 366952,
+        "word": "湖南卫视元宵喜乐会",
+        "onboard_time": 1675599511,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354438,
+        "num": 354438,
+        "word": "上海平均月薪10605元",
+        "onboard_time": 1675584205,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 351319,
+        "num": 351319,
+        "word": "白鹿以爱为营生气踢树路透",
+        "onboard_time": 1675598670,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344196,
+        "num": 344196,
+        "word": "狂飙二创",
+        "onboard_time": 1675592069,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343993,
+        "num": 343993,
+        "word": "烟花",
+        "onboard_time": 1675594832,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333275,
+        "num": 333275,
+        "word": "路人视角下张子枫陈飞宇状态",
+        "onboard_time": 1675596571,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286483,
+        "num": 286483,
+        "word": "00后平均期望薪资超7K",
+        "onboard_time": 1675591529,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 251850,
+        "num": 251850,
+        "word": "在上海月收入一万算高吗",
+        "onboard_time": 1675587988,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171995,
+        "num": 247386,
+        "word": "湖南高速多车相撞造成重大伤亡",
+        "onboard_time": 1675578927,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 245744,
+        "num": 245744,
+        "word": "EDG对战RNG",
+        "onboard_time": 1675596752,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236982,
+        "num": 236982,
+        "word": "杭州人对烟花有多热情",
+        "onboard_time": 1675598609,
+        "rank": 31,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 232063,
+        "num": 232063,
+        "word": "宋亚轩说我觉得爱是我和你们",
+        "onboard_time": 1675595309,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217102,
+        "num": 217102,
+        "word": "泰国副总理说身上也流淌着中华血液",
+        "onboard_time": 1675588410,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 211751,
+        "num": 211751,
+        "word": "辛叡恩跳NewJeans的hypeboy",
+        "onboard_time": 1675598670,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197345,
+        "num": 197345,
+        "word": "25城平均月薪8203.56元",
+        "onboard_time": 1675584868,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 177339,
+        "num": 177339,
+        "word": "隔着屏幕被一只狗狗哼了",
+        "onboard_time": 1675597649,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174002,
+        "num": 174002,
+        "word": "杨超越粉色拼接半身裙",
+        "onboard_time": 1675593686,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164544,
+        "num": 164544,
+        "word": "叶舒华金发随拍",
+        "onboard_time": 1675594529,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38556,
+        "num": 162606,
+        "word": "一年一度花灯大晒",
+        "onboard_time": 1675598431,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162291,
+        "num": 162291,
+        "word": "元宵文案",
+        "onboard_time": 1675596509,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162017,
+        "num": 162017,
+        "word": "猫猫头汤圆",
+        "onboard_time": 1675593089,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159961,
+        "num": 159961,
+        "word": "派出所回应邻居放炮男孩被炸截肢",
+        "onboard_time": 1675583728,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 157183,
+        "num": 157183,
+        "word": "深圳平均月薪9903元",
+        "onboard_time": 1675590149,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 156084,
+        "num": 156084,
+        "word": "杭州烟花秀准备情况",
+        "onboard_time": 1675592549,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149340,
+        "num": 149340,
+        "word": "流浪地球2谢谢月亮",
+        "onboard_time": 1675596571,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148345,
+        "num": 148345,
+        "word": "26岁小伙被女友嫌胖生气凌晨出走",
+        "onboard_time": 1675581566,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144365,
+        "num": 144365,
+        "word": "湖南高速多车相撞10分钟内发生5起",
+        "onboard_time": 1675598010,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 143725,
+        "num": 143725,
+        "word": "正月十五中纪委连打三虎",
+        "onboard_time": 1675585887,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 135013,
+        "num": 135013,
+        "word": "没见过这么大的汤圆",
+        "onboard_time": 1675591529,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好满足人民精神文化生活新期待#"
+    }
+  }
+}
