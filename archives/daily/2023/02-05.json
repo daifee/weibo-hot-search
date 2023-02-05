@@ -1,6 +1,6 @@
 {
   "startTime": 1675527843138,
-  "endTime": 1675581351837,
+  "endTime": 1675582406955,
   "band_list": [
     {
       "raw_hot": 9632259,
@@ -67,8 +67,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1554359,
-      "num": 1554359,
+      "raw_hot": 1732667,
+      "num": 1732667,
       "word": "湖南高速多车相撞造成重大伤亡",
       "onboard_time": 1675578927,
       "rank": 43,
@@ -115,6 +115,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1172054,
+      "num": 1172054,
+      "word": "儿子监控中看到老父从房顶摔下瞬间泪奔",
+      "onboard_time": 1675578206,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1128757,
       "num": 1128757,
       "word": "徐冬冬晒自己145斤和108斤对比照",
@@ -155,12 +163,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1006210,
-      "num": 1006210,
-      "word": "儿子监控中看到老父从房顶摔下瞬间泪奔",
-      "onboard_time": 1675578206,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 1035051,
+      "num": 1035051,
+      "word": "边伯贤退伍后首发文",
+      "onboard_time": 1675581627,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 992193,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 825077,
+      "num": 825077,
+      "word": "杨超越爆梗",
+      "onboard_time": 1675580067,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 793557,
       "num": 793557,
       "word": "95后开了家年轻人都眼馋的养老院",
@@ -251,20 +267,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 783852,
-      "num": 783852,
-      "word": "杨超越爆梗",
-      "onboard_time": 1675580067,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 736407,
       "num": 736407,
       "word": "高一男生英语考试疯狂默写古诗词",
       "onboard_time": 1675564467,
       "rank": 20,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 721485,
+      "num": 721485,
+      "word": "张雨绮腰背线条",
+      "onboard_time": 1675579828,
+      "rank": 7,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 715745,
@@ -297,6 +313,14 @@
       "onboard_time": 1675566929,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 665117,
+      "num": 665117,
+      "word": "张译不回头看段奕宏被送花",
+      "onboard_time": 1675579347,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 647163,
@@ -379,14 +403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 548753,
-      "num": 548753,
-      "word": "张雨绮腰背线条",
-      "onboard_time": 1675579828,
-      "rank": 7,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 532887,
       "num": 532887,
       "word": "白鹿王鹤棣元宵节谐音梗祝福",
@@ -465,14 +481,6 @@
       "onboard_time": 1675514187,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 458681,
-      "num": 458681,
-      "word": "张译不回头看段奕宏被送花",
-      "onboard_time": 1675579347,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 456557,
@@ -667,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314753,
+      "num": 314753,
+      "word": "如果狂飙改名",
+      "onboard_time": 1675580007,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 313830,
       "num": 313830,
       "word": "宋朝元宵节放7天假",
@@ -691,12 +707,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 295047,
-      "num": 295047,
-      "word": "如果狂飙改名",
-      "onboard_time": 1675580007,
-      "rank": 19,
-      "category": "影视"
+      "raw_hot": 296772,
+      "num": 296772,
+      "word": "巴基斯坦前总统穆沙拉夫去世",
+      "onboard_time": 1675581387,
+      "rank": 20,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 291971,
@@ -753,6 +769,14 @@
       "onboard_time": 1675578808,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269714,
+      "num": 269714,
+      "word": "26岁小伙被女友嫌胖生气凌晨出走",
+      "onboard_time": 1675581566,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269432,
@@ -905,6 +929,14 @@
       "onboard_time": 1675573649,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209426,
+      "num": 209426,
+      "word": "何广智用便携式红毯闯时尚圈",
+      "onboard_time": 1675581807,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 199953,
@@ -1179,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148444,
+      "num": 148444,
+      "word": "张译谈和张艺谋第四次合作感受",
+      "onboard_time": 1675579406,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147910,
       "num": 125509,
       "word": "女孩摆航母照祭拜葬日中国将士",
@@ -1225,14 +1265,6 @@
       "onboard_time": 1675564648,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144813,
-      "num": 144813,
-      "word": "张译谈和张艺谋第四次合作感受",
-      "onboard_time": 1675579406,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 143818,
@@ -1355,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121866,
+      "num": 121866,
+      "word": "全村一起闹元宵是什么感觉",
+      "onboard_time": 1675582104,
+      "rank": 39,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 121691,
       "num": 121691,
       "word": "千年古都遇上青春盛会",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1675527865,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109886,
+      "num": 109886,
+      "word": "第一次见会开球形锁的猫",
+      "onboard_time": 1675582286,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 109864,
