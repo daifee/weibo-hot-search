@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675565504261,
+  "endTime": 1675566077128,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -51,20 +51,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 3785531,
+      "num": 1113999,
+      "word": "狗头萝莉",
+      "onboard_time": 1675552817,
+      "rank": 10,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 3753600,
       "num": 3753600,
       "word": "美方宣称击落中国无人飞艇",
       "onboard_time": 1675557084,
       "rank": 0,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 3738233,
-      "num": 1113999,
-      "word": "狗头萝莉",
-      "onboard_time": 1675552817,
-      "rank": 10,
-      "category": "动漫,网红"
     },
     {
       "raw_hot": 3530109,
@@ -683,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1471863,
+      "num": 1471863,
+      "word": "女子买面条差0.04kg怒拍视频曝光商家",
+      "onboard_time": 1675562311,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1464997,
       "num": 1464997,
       "word": "贝克街的亡灵内地定档",
@@ -721,14 +729,6 @@
       "onboard_time": 1675427729,
       "rank": 9,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1408442,
-      "num": 1408442,
-      "word": "女子买面条差0.04kg怒拍视频曝光商家",
-      "onboard_time": 1675562311,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1406502,
@@ -1651,6 +1651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 859913,
+      "num": 859913,
+      "word": "人人视频遭集体起诉",
+      "onboard_time": 1675564766,
+      "rank": 5,
+      "category": "财经,影视"
+    },
+    {
       "raw_hot": 858897,
       "num": 858897,
       "word": "女子吐槽30岁相亲不是二婚就是老头",
@@ -1673,14 +1681,6 @@
       "onboard_time": 1675510409,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 849271,
-      "num": 849271,
-      "word": "人人视频遭集体起诉",
-      "onboard_time": 1675564766,
-      "rank": 5,
-      "category": "财经,影视"
     },
     {
       "raw_hot": 848462,
@@ -2217,6 +2217,14 @@
       "onboard_time": 1675338989,
       "rank": 14,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 699455,
+      "num": 699455,
+      "word": "仙剑六祈今朝",
+      "onboard_time": 1675564887,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 698937,
@@ -3091,6 +3099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 552389,
+      "num": 552389,
+      "word": "虞书欣许凯仙剑六元宵海报",
+      "onboard_time": 1675565549,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 551902,
       "num": 551902,
       "word": "张颂文曾经是广东省最佳导游",
@@ -3115,8 +3131,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 544239,
-      "num": 544239,
+      "raw_hot": 544247,
+      "num": 544247,
       "word": "光遇氪金送礼被封号",
       "onboard_time": 1675554559,
       "rank": 16,
@@ -3243,6 +3259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532887,
+      "num": 532887,
+      "word": "白鹿王鹤棣元宵节谐音梗祝福",
+      "onboard_time": 1675565727,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 528906,
       "num": 528906,
       "word": "P图可以冷门但不可以邪门",
@@ -3323,20 +3347,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 518394,
-      "num": 518394,
-      "word": "仙剑六祈今朝",
-      "onboard_time": 1675564887,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 518209,
       "num": 518209,
       "word": "安欣熊猫血",
       "onboard_time": 1675176217,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 515154,
+      "num": 515154,
+      "word": "高一男生英语考试疯狂默写古诗词",
+      "onboard_time": 1675564467,
+      "rank": 20,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 512746,
@@ -4248,6 +4272,14 @@
       "word": "流浪地球2单日票房反超满江红",
       "onboard_time": 1675232911,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 407333,
+      "num": 407333,
+      "word": "张译鼓励满江红新人演员",
+      "onboard_time": 1675565727,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -5515,14 +5547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 301479,
-      "num": 301479,
-      "word": "高一男生英语考试疯狂默写古诗词",
-      "onboard_time": 1675564467,
-      "rank": 20,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 300696,
       "num": 300696,
       "word": "香港将送50万张机票吸引旅客",
@@ -5817,6 +5841,14 @@
       "onboard_time": 1675384409,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284834,
+      "num": 284834,
+      "word": "篮网决心交易欧文",
+      "onboard_time": 1675564766,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 283934,
@@ -6563,6 +6595,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246457,
+      "num": 246457,
+      "word": "经常吃辣或能降低患癌几率",
+      "onboard_time": 1675565247,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245942,
+      "num": 245942,
+      "word": "一件事坚持10年是什么体验",
+      "onboard_time": 1675563565,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245774,
       "num": 245774,
       "word": "压力给到彭于晏",
@@ -6643,14 +6691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240839,
-      "num": 240839,
-      "word": "一件事坚持10年是什么体验",
-      "onboard_time": 1675563565,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240461,
       "num": 240461,
       "word": "李秀根你是懂烦人的",
@@ -6681,14 +6721,6 @@
       "onboard_time": 1675388488,
       "rank": 43,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 238659,
-      "num": 238659,
-      "word": "篮网决心交易欧文",
-      "onboard_time": 1675564766,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 238310,
@@ -7315,6 +7347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206549,
+      "num": 206549,
+      "word": "C罗",
+      "onboard_time": 1675565308,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206193,
       "num": 206193,
       "word": "TES对战RA",
@@ -7729,6 +7769,14 @@
       "onboard_time": 1675394969,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192418,
+      "num": 192418,
+      "word": "9科老师一同家访现场压迫感十足",
+      "onboard_time": 1675564709,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192268,
@@ -8251,6 +8299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179627,
+      "num": 179627,
+      "word": "詹姆斯拼抢冲进观众席",
+      "onboard_time": 1675564827,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178144,
       "num": 178144,
       "word": "想看原班人马拍狂飙第二部",
@@ -8425,14 +8481,6 @@
       "onboard_time": 1675236632,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 172353,
-      "num": 172353,
-      "word": "C罗",
-      "onboard_time": 1675565308,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 172343,
@@ -9027,12 +9075,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150719,
-      "num": 150719,
-      "word": "詹姆斯拼抢冲进观众席",
-      "onboard_time": 1675564827,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 150874,
+      "num": 150874,
+      "word": "什么馅元宵最好吃",
+      "onboard_time": 1675565429,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 150696,
@@ -9129,14 +9177,6 @@
       "onboard_time": 1675417829,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146905,
-      "num": 146905,
-      "word": "经常吃辣或能降低患癌几率",
-      "onboard_time": 1675565247,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146795,
@@ -9257,14 +9297,6 @@
       "onboard_time": 1675236811,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 142392,
-      "num": 142392,
-      "word": "9科老师一同家访现场压迫感十足",
-      "onboard_time": 1675564709,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142012,
@@ -9633,14 +9665,6 @@
       "onboard_time": 1675182628,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122509,
-      "num": 122509,
-      "word": "什么馅元宵最好吃",
-      "onboard_time": 1675565429,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 122142,
@@ -10347,6 +10371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 17336,
+      "num": 980552,
+      "word": "今天元宵节",
+      "onboard_time": 1675566031,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16380,
       "num": 16380,
       "word": "五世同堂排排坐接龙喊妈妈",
@@ -10397,6 +10429,9 @@
     },
     {
       "word": "#实现冬奥遗产利用效益最大化#"
+    },
+    {
+      "word": "#更好满足人民精神文化生活新期待#"
     }
   ]
 }

@@ -1,7 +1,15 @@
 {
   "startTime": 1675527843138,
-  "endTime": 1675565504261,
+  "endTime": 1675566077128,
   "band_list": [
+    {
+      "raw_hot": 3785531,
+      "num": 1113999,
+      "word": "狗头萝莉",
+      "onboard_time": 1675552817,
+      "rank": 10,
+      "category": "动漫,网红"
+    },
     {
       "raw_hot": 3753600,
       "num": 3753600,
@@ -9,14 +17,6 @@
       "onboard_time": 1675557084,
       "rank": 0,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 3738233,
-      "num": 1113999,
-      "word": "狗头萝莉",
-      "onboard_time": 1675552817,
-      "rank": 10,
-      "category": "动漫,网红"
     },
     {
       "raw_hot": 2880224,
@@ -35,20 +35,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1471863,
+      "num": 1471863,
+      "word": "女子买面条差0.04kg怒拍视频曝光商家",
+      "onboard_time": 1675562311,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1429675,
       "num": 1429675,
       "word": "边伯贤 退伍",
       "onboard_time": 1675523613,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1408442,
-      "num": 1408442,
-      "word": "女子买面条差0.04kg怒拍视频曝光商家",
-      "onboard_time": 1675562311,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1406502,
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 849271,
-      "num": 849271,
+      "raw_hot": 859913,
+      "num": 859913,
       "word": "人人视频遭集体起诉",
       "onboard_time": 1675564766,
       "rank": 5,
@@ -121,6 +121,14 @@
       "onboard_time": 1675559246,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699455,
+      "num": 699455,
+      "word": "仙剑六祈今朝",
+      "onboard_time": 1675564887,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 691554,
@@ -155,20 +163,36 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 544239,
-      "num": 544239,
+      "raw_hot": 552389,
+      "num": 552389,
+      "word": "虞书欣许凯仙剑六元宵海报",
+      "onboard_time": 1675565549,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 544247,
+      "num": 544247,
       "word": "光遇氪金送礼被封号",
       "onboard_time": 1675554559,
       "rank": 16,
       "category": "游戏"
     },
     {
-      "raw_hot": 518394,
-      "num": 518394,
-      "word": "仙剑六祈今朝",
-      "onboard_time": 1675564887,
-      "rank": 12,
+      "raw_hot": 532887,
+      "num": 532887,
+      "word": "白鹿王鹤棣元宵节谐音梗祝福",
+      "onboard_time": 1675565727,
+      "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 515154,
+      "num": 515154,
+      "word": "高一男生英语考试疯狂默写古诗词",
+      "onboard_time": 1675564467,
+      "rank": 20,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 508788,
@@ -217,6 +241,14 @@
       "onboard_time": 1675514187,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 407333,
+      "num": 407333,
+      "word": "张译鼓励满江红新人演员",
+      "onboard_time": 1675565727,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 403587,
@@ -315,14 +347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 301479,
-      "num": 301479,
-      "word": "高一男生英语考试疯狂默写古诗词",
-      "onboard_time": 1675564467,
-      "rank": 20,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 299026,
       "num": 299026,
       "word": "金钟仁说正在准备solo3辑",
@@ -345,6 +369,14 @@
       "onboard_time": 1675534036,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284834,
+      "num": 284834,
+      "word": "篮网决心交易欧文",
+      "onboard_time": 1675564766,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 280481,
@@ -403,20 +435,20 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 240839,
-      "num": 240839,
+      "raw_hot": 246457,
+      "num": 246457,
+      "word": "经常吃辣或能降低患癌几率",
+      "onboard_time": 1675565247,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245942,
+      "num": 245942,
       "word": "一件事坚持10年是什么体验",
       "onboard_time": 1675563565,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238659,
-      "num": 238659,
-      "word": "篮网决心交易欧文",
-      "onboard_time": 1675564766,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 237876,
@@ -483,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206549,
+      "num": 206549,
+      "word": "C罗",
+      "onboard_time": 1675565308,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197262,
       "num": 133172,
       "word": "女店员遭男顾客辱骂推搡20分钟",
@@ -505,6 +545,14 @@
       "onboard_time": 1675516892,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192418,
+      "num": 192418,
+      "word": "9科老师一同家访现场压迫感十足",
+      "onboard_time": 1675564709,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192009,
@@ -563,20 +611,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179627,
+      "num": 179627,
+      "word": "詹姆斯拼抢冲进观众席",
+      "onboard_time": 1675564827,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174239,
       "num": 174239,
       "word": "王鹤棣拍戏现场和刘耀文连线",
       "onboard_time": 1675522712,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172353,
-      "num": 172353,
-      "word": "C罗",
-      "onboard_time": 1675565308,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 168814,
@@ -635,12 +683,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150719,
-      "num": 150719,
-      "word": "詹姆斯拼抢冲进观众席",
-      "onboard_time": 1675564827,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 150874,
+      "num": 150874,
+      "word": "什么馅元宵最好吃",
+      "onboard_time": 1675565429,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 147910,
@@ -665,14 +713,6 @@
       "onboard_time": 1675519353,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146905,
-      "num": 146905,
-      "word": "经常吃辣或能降低患癌几率",
-      "onboard_time": 1675565247,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146312,
@@ -713,14 +753,6 @@
       "onboard_time": 1675563267,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142392,
-      "num": 142392,
-      "word": "9科老师一同家访现场压迫感十足",
-      "onboard_time": 1675564709,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140445,
@@ -793,14 +825,6 @@
       "onboard_time": 1675522533,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122509,
-      "num": 122509,
-      "word": "什么馅元宵最好吃",
-      "onboard_time": 1675565429,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 121691,
@@ -1017,6 +1041,14 @@
       "onboard_time": 1675543153,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 17336,
+      "num": 980552,
+      "word": "今天元宵节",
+      "onboard_time": 1675566031,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1028,6 +1060,9 @@
     },
     {
       "word": "#北京冬奥会的雪花永远盛放#"
+    },
+    {
+      "word": "#更好满足人民精神文化生活新期待#"
     }
   ]
 }
