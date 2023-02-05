@@ -1,6 +1,6 @@
 {
   "startTime": 1675527843138,
-  "endTime": 1675592294395,
+  "endTime": 1675593204645,
   "band_list": [
     {
       "raw_hot": 9632259,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1456958,
+      "num": 1456958,
+      "word": "丈夫偷拍妻子在副驾吃喝睡780公里",
+      "onboard_time": 1675588948,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1429675,
       "num": 1429675,
       "word": "边伯贤 退伍",
@@ -137,14 +145,6 @@
       "onboard_time": 1675569093,
       "rank": 6,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1186671,
-      "num": 262234,
-      "word": "丈夫偷拍妻子在副驾吃喝睡780公里",
-      "onboard_time": 1675588948,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1172054,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 974598,
+      "num": 974598,
+      "word": "张晨张常宁父亲因病去世",
+      "onboard_time": 1675591946,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 971206,
       "num": 971206,
       "word": "经常吃辣或能降低患癌几率",
@@ -267,8 +275,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 878364,
-      "num": 878364,
+      "raw_hot": 879980,
+      "num": 879980,
       "word": "女子偷闺蜜百万奢侈品用高仿替代",
       "onboard_time": 1675590149,
       "rank": 3,
@@ -371,6 +379,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 677518,
+      "num": 677518,
+      "word": "元宵晚会节目单",
+      "onboard_time": 1675588470,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 677424,
       "num": 677424,
       "word": "张子枫陈飞宇活动同框",
@@ -400,14 +416,6 @@
       "word": "丁程鑫一次记住八个人动作",
       "onboard_time": 1675573770,
       "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 641787,
-      "num": 641787,
-      "word": "元宵晚会节目单",
-      "onboard_time": 1675588470,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 596628,
-      "num": 227114,
+      "num": 582893,
       "word": "泰国副总理说身上也流淌着中华血液",
       "onboard_time": 1675588410,
       "rank": 49,
@@ -683,6 +691,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394452,
+      "num": 394452,
+      "word": "深圳平均月薪9903元",
+      "onboard_time": 1675590149,
+      "rank": 16,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 391772,
+      "num": 391772,
+      "word": "00后平均期望薪资超7K",
+      "onboard_time": 1675591529,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 385314,
       "num": 385314,
       "word": "被语文教材安利过的东西",
@@ -697,14 +721,6 @@
       "onboard_time": 1675586007,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 378871,
-      "num": 221071,
-      "word": "深圳平均月薪9903元",
-      "onboard_time": 1675590149,
-      "rank": 16,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 372269,
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 360574,
-      "num": 219747,
+      "num": 348971,
       "word": "宝宝260天未见月嫂主动钻怀蹭脸",
       "onboard_time": 1675590030,
       "rank": 17,
@@ -843,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316398,
+      "num": 316398,
+      "word": "赵露思晒元宵节九宫格随拍",
+      "onboard_time": 1675592849,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313830,
       "num": 313830,
       "word": "宋朝元宵节放7天假",
@@ -857,6 +881,14 @@
       "onboard_time": 1675513590,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 303561,
+      "num": 303561,
+      "word": "狂飙二创",
+      "onboard_time": 1675592069,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 299026,
@@ -881,6 +913,14 @@
       "onboard_time": 1675558648,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290716,
+      "num": 290716,
+      "word": "1碗汤圆有多少热量",
+      "onboard_time": 1675591588,
+      "rank": 30,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 290302,
@@ -1019,14 +1059,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 247404,
-      "num": 214406,
-      "word": "张晨张常宁父亲因病去世",
-      "onboard_time": 1675591946,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 245942,
       "num": 245942,
       "word": "一件事坚持10年是什么体验",
@@ -1129,6 +1161,14 @@
       "onboard_time": 1675581807,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207318,
+      "num": 207318,
+      "word": "没见过这么大的汤圆",
+      "onboard_time": 1675591529,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 202805,
@@ -1411,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158565,
+      "num": 1067712,
+      "word": "元宵喜乐",
+      "onboard_time": 1675589368,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158552,
       "num": 158552,
       "word": "WTT支线赛安曼站2023",
@@ -1427,36 +1475,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 157898,
-      "num": 157898,
-      "word": "1碗汤圆有多少热量",
-      "onboard_time": 1675591588,
-      "rank": 30,
-      "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 157501,
-      "num": 1067712,
-      "word": "元宵喜乐",
-      "onboard_time": 1675589368,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156010,
       "num": 156010,
       "word": "没想到你是这样的张颂文",
       "onboard_time": 1675527445,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154106,
-      "num": 154106,
-      "word": "狂飙二创",
-      "onboard_time": 1675592069,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 152356,
@@ -1473,14 +1497,6 @@
       "onboard_time": 1675565429,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 150664,
-      "num": 150664,
-      "word": "00后平均期望薪资超7K",
-      "onboard_time": 1675591529,
-      "rank": 34,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 149881,
@@ -1611,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135842,
+      "num": 135842,
+      "word": "这是港普和川普的高手对决",
+      "onboard_time": 1675591889,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135664,
       "num": 135664,
       "word": "沈月荣梓杉搞笑姐弟",
@@ -1651,8 +1675,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131016,
+      "num": 131016,
+      "word": "杭州烟花秀准备情况",
+      "onboard_time": 1675592549,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130438,
-      "num": 128717,
+      "num": 131078,
       "word": "甜咸元宵大作战",
       "onboard_time": 1675591231,
       "rank": 39,
@@ -1667,20 +1699,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129422,
+      "num": 129422,
+      "word": "哈尔滨也有火影山了",
+      "onboard_time": 1675592609,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128674,
       "num": 128674,
       "word": "这是躺式招财猫吧",
       "onboard_time": 1675587808,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128513,
-      "num": 128513,
-      "word": "没见过这么大的汤圆",
-      "onboard_time": 1675591529,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 126267,
@@ -1779,14 +1811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113413,
-      "num": 113413,
-      "word": "这是港普和川普的高手对决",
-      "onboard_time": 1675591889,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 109864,
       "num": 109864,
       "word": "购买汤圆要注意什么",
@@ -1841,6 +1865,14 @@
       "onboard_time": 1675528344,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 98778,
+      "num": 98778,
+      "word": "猫猫头汤圆",
+      "onboard_time": 1675593089,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 98064,
