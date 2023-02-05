@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675553623871,
+  "endTime": 1675561435173,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -51,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 3753600,
+      "num": 3753600,
+      "word": "美方宣称击落中国无人飞艇",
+      "onboard_time": 1675557084,
+      "rank": 0,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 3530109,
       "num": 3530109,
       "word": "狂飙拍了100集",
@@ -73,6 +81,14 @@
       "onboard_time": 1675311036,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3453880,
+      "num": 1087033,
+      "word": "狗头萝莉",
+      "onboard_time": 1675552817,
+      "rank": 10,
+      "category": "动漫,网红"
     },
     {
       "raw_hot": 3324868,
@@ -273,6 +289,14 @@
       "onboard_time": 1675474827,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2126495,
+      "num": 2126495,
+      "word": "气球",
+      "onboard_time": 1675465516,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2102309,
@@ -891,14 +915,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 1239572,
-      "num": 113694,
-      "word": "狗头萝莉",
-      "onboard_time": 1675552817,
-      "rank": 10,
-      "category": "动漫,网红"
-    },
-    {
       "raw_hot": 1232329,
       "num": 1232329,
       "word": "杨幂工作室回应广告被下刊传言",
@@ -1499,6 +1515,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 897209,
+      "num": 897209,
+      "word": "张颂文电子签名",
+      "onboard_time": 1675558586,
+      "rank": 4,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 896063,
       "num": 896063,
       "word": "狂飙的艺术总监是张译",
@@ -1713,6 +1737,14 @@
       "onboard_time": 1675476208,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 818067,
+      "num": 818067,
+      "word": "公公回应女子被婆家罚跪跑圈",
+      "onboard_time": 1675559246,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 815216,
@@ -2211,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 691554,
+      "num": 691554,
+      "word": "元宵",
+      "onboard_time": 1675555582,
+      "rank": 8,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 691252,
       "num": 691252,
       "word": "狂飙张彪扮演者说张译是恩人",
@@ -2417,6 +2457,14 @@
       "onboard_time": 1675258537,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647163,
+      "num": 647163,
+      "word": "沈腾马丽时隔8年再演夏洛马冬梅",
+      "onboard_time": 1675554559,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 647061,
@@ -3427,6 +3475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 491221,
+      "num": 491221,
+      "word": "贺峻霖眼睛",
+      "onboard_time": 1675555521,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 490790,
       "num": 490790,
       "word": "被三体第29集震撼到了",
@@ -3545,6 +3601,14 @@
       "onboard_time": 1675346557,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 472496,
+      "num": 472496,
+      "word": "内马尔",
+      "onboard_time": 1675553959,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 472098,
@@ -3817,6 +3881,14 @@
       "onboard_time": 1675248931,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 438959,
+      "num": 438959,
+      "word": "汤圆和元宵傻傻分不清",
+      "onboard_time": 1675559608,
+      "rank": 14,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 437542,
@@ -4219,6 +4291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 398170,
+      "num": 398170,
+      "word": "光遇氪金送礼被封号",
+      "onboard_time": 1675554559,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 396868,
       "num": 396868,
       "word": "赵丽颖漫步古城游玩照",
@@ -4539,6 +4619,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 369432,
+      "num": 369432,
+      "word": "王心凌杨丞琳聚会合照",
+      "onboard_time": 1675557084,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 366217,
+      "num": 366217,
+      "word": "博纳说无名票房超出预期",
+      "onboard_time": 1675554501,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364792,
       "num": 364792,
       "word": "谢谢张颂文聊天表情包很好用",
@@ -4763,6 +4859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347932,
+      "num": 347932,
+      "word": "收费员听声识隐患救下一车人",
+      "onboard_time": 1675556844,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347087,
       "num": 347087,
       "word": "你的工资和消费成正比吗",
@@ -4931,6 +5035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332828,
+      "num": 332828,
+      "word": "iPhone出货量刷新历史纪录",
+      "onboard_time": 1675554559,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 331459,
       "num": 318821,
       "word": "狂飙演员谈和张译合作感受",
@@ -4969,6 +5081,14 @@
       "onboard_time": 1675255052,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 328569,
+      "num": 328569,
+      "word": "婚礼当天新娘看不到的画面",
+      "onboard_time": 1675555704,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 328564,
@@ -5464,6 +5584,14 @@
       "word": "对我而言危险的他直播",
       "onboard_time": 1675347519,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 291971,
+      "num": 291971,
+      "word": "郭帆谈流浪地球3选角",
+      "onboard_time": 1675558648,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -6083,14 +6211,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 261996,
-      "num": 261996,
-      "word": "气球",
-      "onboard_time": 1675465516,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261409,
       "num": 261409,
       "word": "邢菲新剧定妆vlog",
@@ -6523,6 +6643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236473,
+      "num": 236473,
+      "word": "元宵节文案",
+      "onboard_time": 1675560926,
+      "rank": 25,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 235859,
       "num": 235859,
       "word": "王嘉尔EPIKHIGH合作曲",
@@ -6665,6 +6793,14 @@
       "onboard_time": 1675243470,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 230161,
+      "num": 230161,
+      "word": "梅西进球",
+      "onboard_time": 1675554501,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 229691,
@@ -6913,6 +7049,14 @@
       "onboard_time": 1675490966,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214372,
+      "num": 214372,
+      "word": "胡鑫宇事件背后的流量生意",
+      "onboard_time": 1675541773,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214290,
@@ -7340,7 +7484,7 @@
     },
     {
       "raw_hot": 197262,
-      "num": 128326,
+      "num": 133172,
       "word": "女店员遭男顾客辱骂推搡20分钟",
       "onboard_time": 1675549332,
       "rank": 31,
@@ -7681,6 +7825,14 @@
       "onboard_time": 1675404868,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187346,
+      "num": 187346,
+      "word": "元宵节到底是吃汤圆还是吃元宵",
+      "onboard_time": 1675555040,
+      "rank": 30,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 186968,
@@ -8283,6 +8435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168814,
+      "num": 168814,
+      "word": "送你圆圆圆圆圆圆圆圆圆",
+      "onboard_time": 1675557144,
+      "rank": 31,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 168792,
       "num": 168792,
       "word": "北京人把春天咬进春饼里",
@@ -8363,12 +8523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165587,
-      "num": 165587,
-      "word": "胡鑫宇事件背后的流量生意",
-      "onboard_time": 1675541773,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 165661,
+      "num": 165661,
+      "word": "正月十五为什么吃元宵",
+      "onboard_time": 1675558709,
+      "rank": 33,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 165556,
@@ -8899,6 +9059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143778,
+      "num": 143778,
+      "word": "火力少年王穿越古代了",
+      "onboard_time": 1675560148,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143340,
       "num": 143340,
       "word": "范丞丞叫张大大起床",
@@ -9016,6 +9184,14 @@
       "word": "青少年抑郁最常见的求救方式",
       "onboard_time": 1675321891,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137007,
+      "num": 137007,
+      "word": "四川一地昼夜温差38.6℃",
+      "onboard_time": 1675551494,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -9145,6 +9321,14 @@
       "onboard_time": 1675468280,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132586,
+      "num": 132586,
+      "word": "湖人vs鹈鹕",
+      "onboard_time": 1675557144,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 132141,
@@ -9315,6 +9499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116600,
+      "num": 116600,
+      "word": "元宵节快乐",
+      "onboard_time": 1675554140,
+      "rank": 39,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 115587,
       "num": 115587,
       "word": "许魏洲横店当群演拍跳楼戏份",
@@ -9379,6 +9571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109864,
+      "num": 109864,
+      "word": "购买汤圆要注意什么",
+      "onboard_time": 1675559848,
+      "rank": 42,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 109334,
       "num": 4109278,
       "word": "一起感受中国湿地之美",
@@ -9408,6 +9608,14 @@
       "word": "美国防部称公众可自行仰望气球位置",
       "onboard_time": 1675532837,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106503,
+      "num": 106503,
+      "word": "90后画家街头绘画上演画板消失术",
+      "onboard_time": 1675559668,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -9531,6 +9739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90204,
+      "num": 90204,
+      "word": "苏翊鸣说梦想就要百分百努力追求",
+      "onboard_time": 1675560566,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90116,
       "num": 78427,
       "word": "湖南一网吧凌晨变狂飙专场",
@@ -9577,14 +9793,6 @@
       "onboard_time": 1675172797,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84374,
-      "num": 84374,
-      "word": "四川一地昼夜温差38.6℃",
-      "onboard_time": 1675551494,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78798,
