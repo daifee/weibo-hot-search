@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675636406582,
+  "endTime": 1675639110507,
   "band_list": [
     {
       "raw_hot": 2057929,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 618487,
+      "num": 618487,
+      "word": "林孝埈连夺两金",
+      "onboard_time": 1675631352,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 614293,
       "num": 614293,
       "word": "男朋友长得像高启强是啥体验",
@@ -97,6 +105,30 @@
       "onboard_time": 1675606709,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 464109,
+      "num": 464109,
+      "word": "韩国称自华入韩旅客阳性率为零",
+      "onboard_time": 1675622235,
+      "rank": 10,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 448147,
+      "num": 448147,
+      "word": "欧文被交易至独行侠",
+      "onboard_time": 1675638797,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 439540,
+      "num": 439540,
+      "word": "黄多多晒与同学比心合照",
+      "onboard_time": 1675638378,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 437694,
@@ -163,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314712,
+      "num": 216317,
+      "word": "湖南高速追尾事故亲历者发声",
+      "onboard_time": 1675619776,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 310410,
       "num": 310410,
       "word": "杭州烟花",
       "onboard_time": 1675587149,
       "rank": 20,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 297999,
+      "num": 297999,
+      "word": "女生庙里求姻缘对过路帅哥一见钟情",
+      "onboard_time": 1675620855,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 297093,
@@ -193,6 +241,14 @@
       "onboard_time": 1675608931,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252602,
+      "num": 215976,
+      "word": "世界上最长寿的狗超30岁",
+      "onboard_time": 1675636095,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244693,
@@ -227,12 +283,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 214087,
-      "num": 214087,
-      "word": "林孝埈连夺两金",
-      "onboard_time": 1675631352,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 216713,
+      "num": 216713,
+      "word": "南京夫子庙人海里的定海神针",
+      "onboard_time": 1675632432,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 201134,
@@ -259,14 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182778,
-      "num": 176699,
-      "word": "韩国称自华入韩旅客阳性率为零",
-      "onboard_time": 1675622235,
-      "rank": 10,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 182020,
       "num": 182020,
       "word": "时代少年团爆炸头错位图",
@@ -281,6 +329,14 @@
       "onboard_time": 1675625292,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 165419,
+      "num": 165419,
+      "word": "短道速滑世界杯",
+      "onboard_time": 1675638920,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 161496,
@@ -313,14 +369,6 @@
       "onboard_time": 1675595671,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150826,
-      "num": 101963,
-      "word": "湖南高速追尾事故亲历者发声",
-      "onboard_time": 1675619776,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 147191,
@@ -361,14 +409,6 @@
       "onboard_time": 1675590149,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125638,
-      "num": 125638,
-      "word": "女生庙里求姻缘对过路帅哥一见钟情",
-      "onboard_time": 1675620855,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 123873,
@@ -435,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115185,
+      "num": 94926,
+      "word": "男生打架被老师用胶带捆绑增进感情",
+      "onboard_time": 1675638016,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112663,
       "num": 112663,
       "word": "三体流浪计划启动",
@@ -449,14 +497,6 @@
       "onboard_time": 1675607012,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 108468,
-      "num": 87194,
-      "word": "南京夫子庙人海里的定海神针",
-      "onboard_time": 1675632432,
-      "rank": 48,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 106248,
@@ -475,6 +515,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98411,
+      "num": 98411,
+      "word": "住户楼道腌酸菜满地酸水散发恶臭",
+      "onboard_time": 1675628172,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70689,
+      "num": 70689,
+      "word": "郭帆化缘都化到联合国了",
+      "onboard_time": 1675597469,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 65971,
       "num": 1107248,
       "word": "元宵喜乐",
@@ -483,20 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52930,
-      "num": 52930,
-      "word": "住户楼道腌酸菜满地酸水散发恶臭",
-      "onboard_time": 1675628172,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18210,
-      "num": 18210,
-      "word": "世界上最长寿的狗超30岁",
-      "onboard_time": 1675636095,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 55921,
+      "num": 55921,
+      "word": "曼城",
+      "onboard_time": 1675639040,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 17931,
