@@ -1,6 +1,6 @@
 {
   "startTime": 1675527843138,
-  "endTime": 1675570907815,
+  "endTime": 1675571800682,
   "band_list": [
     {
       "raw_hot": 9632259,
@@ -51,7 +51,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1499394,
+      "raw_hot": 1528908,
       "num": 667354,
       "word": "台网红谷阿莫被曝参选台独政党委员",
       "onboard_time": 1675566929,
@@ -73,6 +73,14 @@
       "onboard_time": 1675523613,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1427085,
+      "num": 652597,
+      "word": "警方回应狗头萝莉疑似轻生一事",
+      "onboard_time": 1675570655,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1406502,
@@ -97,6 +105,14 @@
       "onboard_time": 1675518271,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1082451,
+      "num": 1082451,
+      "word": "谷阿莫",
+      "onboard_time": 1675569393,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1070041,
@@ -139,20 +155,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 981157,
-      "num": 981157,
-      "word": "谷阿莫",
-      "onboard_time": 1675569393,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 971206,
       "num": 971206,
       "word": "经常吃辣或能降低患癌几率",
       "onboard_time": 1675565247,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 959802,
+      "num": 959802,
+      "word": "超市回应1个橙子卖128元",
+      "onboard_time": 1675569093,
+      "rank": 6,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 896838,
+      "num": 896838,
+      "word": "时代少年团 二专",
+      "onboard_time": 1675571134,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 859913,
@@ -171,20 +195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 822034,
-      "num": 822034,
-      "word": "超市回应1个橙子卖128元",
-      "onboard_time": 1675569093,
-      "rank": 6,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 736407,
       "num": 736407,
       "word": "高一男生英语考试疯狂默写古诗词",
       "onboard_time": 1675564467,
       "rank": 20,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 715745,
+      "num": 715745,
+      "word": "吴磊赵今麦雪中拍摄氛围感",
+      "onboard_time": 1675569033,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 699455,
@@ -243,16 +267,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 593682,
-      "num": 593682,
-      "word": "吴磊赵今麦雪中拍摄氛围感",
-      "onboard_time": 1675569033,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 572070,
-      "num": 572070,
+      "raw_hot": 611454,
+      "num": 611454,
       "word": "许凯谭松韵新剧开机路透",
       "onboard_time": 1675569873,
       "rank": 11,
@@ -385,6 +401,14 @@
       "onboard_time": 1675527806,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 399284,
+      "num": 399284,
+      "word": "广东佛山地震多地有震感",
+      "onboard_time": 1675571134,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369432,
@@ -595,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245353,
-      "num": 245353,
-      "word": "警方回应狗头萝莉疑似轻生一事",
-      "onboard_time": 1675570655,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241690,
       "num": 241690,
       "word": "9科老师一同家访现场压迫感十足",
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232860,
+      "num": 232860,
+      "word": "被语文教材安利过的东西",
+      "onboard_time": 1675570834,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230161,
       "num": 230161,
       "word": "梅西进球",
@@ -681,6 +705,14 @@
       "onboard_time": 1675549332,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194974,
+      "num": 194974,
+      "word": "长公主在上开播一周年",
+      "onboard_time": 1675568730,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 192948,
@@ -763,6 +795,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181547,
+      "num": 1814162,
+      "word": "今天元宵节",
+      "onboard_time": 1675566031,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181443,
+      "num": 181443,
+      "word": "佛山发生3.2级地震",
+      "onboard_time": 1675570294,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179627,
       "num": 179627,
       "word": "詹姆斯拼抢冲进观众席",
@@ -793,22 +841,6 @@
       "onboard_time": 1675557144,
       "rank": 31,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 168553,
-      "num": 1814162,
-      "word": "今天元宵节",
-      "onboard_time": 1675566031,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167416,
-      "num": 167416,
-      "word": "长公主在上开播一周年",
-      "onboard_time": 1675568730,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 163967,
@@ -857,14 +889,6 @@
       "onboard_time": 1675527445,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154571,
-      "num": 154571,
-      "word": "被语文教材安利过的东西",
-      "onboard_time": 1675570834,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 152356,

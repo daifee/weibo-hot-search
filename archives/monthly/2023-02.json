@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675570907815,
+  "endTime": 1675571800682,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1528908,
+      "num": 667354,
+      "word": "台网红谷阿莫被曝参选台独政党委员",
+      "onboard_time": 1675566929,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1509984,
       "num": 1509984,
       "word": "李荣浩要说的大事儿是巡演",
@@ -665,14 +673,6 @@
       "onboard_time": 1675335513,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1499394,
-      "num": 667354,
-      "word": "台网红谷阿莫被曝参选台独政党委员",
-      "onboard_time": 1675566929,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1497413,
@@ -737,6 +737,14 @@
       "onboard_time": 1675255473,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1427085,
+      "num": 652597,
+      "word": "警方回应狗头萝莉疑似轻生一事",
+      "onboard_time": 1675570655,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1426235,
@@ -1211,6 +1219,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1082451,
+      "num": 1082451,
+      "word": "谷阿莫",
+      "onboard_time": 1675569393,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1081919,
       "num": 1081919,
       "word": "男子结婚7年体重暴增颜值不再",
@@ -1363,14 +1379,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 981157,
-      "num": 981157,
-      "word": "谷阿莫",
-      "onboard_time": 1675569393,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 980061,
       "num": 980061,
       "word": "iG正统在iG",
@@ -1417,6 +1425,14 @@
       "onboard_time": 1675486589,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 959802,
+      "num": 959802,
+      "word": "超市回应1个橙子卖128元",
+      "onboard_time": 1675569093,
+      "rank": 6,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 957955,
@@ -1593,6 +1609,14 @@
       "onboard_time": 1675341752,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 896838,
+      "num": 896838,
+      "word": "时代少年团 二专",
+      "onboard_time": 1675571134,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 896063,
@@ -1817,14 +1841,6 @@
       "onboard_time": 1675381523,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 822034,
-      "num": 822034,
-      "word": "超市回应1个橙子卖128元",
-      "onboard_time": 1675569093,
-      "rank": 6,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 821373,
@@ -2208,6 +2224,14 @@
       "word": "狂飙豆瓣评分降了",
       "onboard_time": 1675316371,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 715745,
+      "num": 715745,
+      "word": "吴磊赵今麦雪中拍摄氛围感",
+      "onboard_time": 1675569033,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -2827,6 +2851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 611454,
+      "num": 611454,
+      "word": "许凯谭松韵新剧开机路透",
+      "onboard_time": 1675569873,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 607962,
       "num": 607962,
       "word": "广西一服刑人员在监狱遭犯人殴打致死",
@@ -2921,14 +2953,6 @@
       "onboard_time": 1675431394,
       "rank": 12,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 593682,
-      "num": 593682,
-      "word": "吴磊赵今麦雪中拍摄氛围感",
-      "onboard_time": 1675569033,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 592008,
@@ -3049,14 +3073,6 @@
       "onboard_time": 1675325014,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572070,
-      "num": 572070,
-      "word": "许凯谭松韵新剧开机路透",
-      "onboard_time": 1675569873,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 571990,
@@ -4473,6 +4489,14 @@
       "onboard_time": 1675417829,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 399284,
+      "num": 399284,
+      "word": "广东佛山地震多地有震感",
+      "onboard_time": 1675571134,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398815,
@@ -6771,14 +6795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245353,
-      "num": 245353,
-      "word": "警方回应狗头萝莉疑似轻生一事",
-      "onboard_time": 1675570655,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244375,
       "num": 244375,
       "word": "这些戏都是张译设计的",
@@ -7001,6 +7017,14 @@
       "onboard_time": 1675219647,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232860,
+      "num": 232860,
+      "word": "被语文教材安利过的东西",
+      "onboard_time": 1675570834,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 232644,
@@ -7827,6 +7851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194974,
+      "num": 194974,
+      "word": "长公主在上开播一周年",
+      "onboard_time": 1675568730,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194761,
       "num": 194761,
       "word": "新海诚铃芽之旅确认引进",
@@ -8363,6 +8395,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181547,
+      "num": 1814162,
+      "word": "今天元宵节",
+      "onboard_time": 1675566031,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181443,
+      "num": 181443,
+      "word": "佛山发生3.2级地震",
+      "onboard_time": 1675570294,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181377,
       "num": 1439834,
       "word": "全国元宵节花灯大比拼",
@@ -8779,28 +8827,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168553,
-      "num": 1814162,
-      "word": "今天元宵节",
-      "onboard_time": 1675566031,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168065,
       "num": 168065,
       "word": "专家说已被注册为商标",
       "onboard_time": 1675394008,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167416,
-      "num": 167416,
-      "word": "长公主在上开播一周年",
-      "onboard_time": 1675568730,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 167399,
@@ -9161,14 +9193,6 @@
       "onboard_time": 1675495889,
       "rank": 33,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 154571,
-      "num": 154571,
-      "word": "被语文教材安利过的东西",
-      "onboard_time": 1675570834,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 154563,
