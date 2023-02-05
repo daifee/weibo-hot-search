@@ -1,0 +1,410 @@
+{
+  "runTime": 1675611219309,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1642022,
+        "num": 1642022,
+        "word": "张远压轴出息了",
+        "onboard_time": 1675605694,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1558173,
+        "num": 1558173,
+        "word": "周深被人踩了",
+        "onboard_time": 1675608872,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113336,
+        "num": 1195129,
+        "word": "元宵喜乐",
+        "onboard_time": 1675589368,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1012218,
+        "num": 1012218,
+        "word": "毛晓彤真的好漂亮啊",
+        "onboard_time": 1675602632,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 875136,
+        "num": 875136,
+        "word": "中戏教授李红说安欣比高启强难演",
+        "onboard_time": 1675606709,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 787298,
+        "num": 787298,
+        "word": "格莱美",
+        "onboard_time": 1675606354,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 773310,
+        "num": 773310,
+        "word": "丈夫偷拍妻子在副驾吃喝睡780公里",
+        "onboard_time": 1675588948,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759574,
+        "num": 759574,
+        "word": "杭州烟花",
+        "onboard_time": 1675587149,
+        "rank": 7,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 722039,
+        "num": 722039,
+        "word": "男子靠邻座女生肩上睡觉被质疑假睡",
+        "onboard_time": 1675606295,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715884,
+        "num": 715884,
+        "word": "短道速滑",
+        "onboard_time": 1675608931,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 642696,
+        "num": 642696,
+        "word": "林孝埈钟宇晨500米晋级",
+        "onboard_time": 1675609052,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 627232,
+        "num": 627232,
+        "word": "男朋友长得像高启强是啥体验",
+        "onboard_time": 1675607553,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 614780,
+        "num": 614780,
+        "word": "张晨张常宁父亲因病去世",
+        "onboard_time": 1675591946,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 608961,
+        "num": 608961,
+        "word": "女子病危前夫带住院用品登记复婚",
+        "onboard_time": 1675607674,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85818,
+        "num": 606878,
+        "word": "中国军人唱清澈的爱献给祖国",
+        "onboard_time": 1675609232,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605302,
+        "num": 605302,
+        "word": "现在包书皮都能代包了",
+        "onboard_time": 1675607613,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 565614,
+        "num": 565614,
+        "word": "工资不高但想留下来的城市",
+        "onboard_time": 1675600532,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 558458,
+        "num": 558458,
+        "word": "五哈艺人总监谈鹿晗",
+        "onboard_time": 1675607495,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 434221,
+        "num": 434221,
+        "word": "强迫症兔子每天睡前努力铺平床单",
+        "onboard_time": 1675609412,
+        "rank": 18,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 361300,
+        "num": 361300,
+        "word": "把元宵煮成了藕粉",
+        "onboard_time": 1675605454,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 401737,
+        "num": 340487,
+        "word": "肖战吃的是儿童元宵",
+        "onboard_time": 1675595251,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319066,
+        "num": 319066,
+        "word": "陈兰青产后抑郁爬上天台",
+        "onboard_time": 1675607012,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306238,
+        "num": 306238,
+        "word": "湖南高速多车相撞致16死66伤",
+        "onboard_time": 1675586847,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 305011,
+        "num": 305011,
+        "word": "时代少年团爆炸头错位图",
+        "onboard_time": 1675609532,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303470,
+        "num": 303470,
+        "word": "夫妇后悔送养女儿寻女30年",
+        "onboard_time": 1675610310,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293977,
+        "num": 293977,
+        "word": "年轻人报复性还房贷银行为何急了",
+        "onboard_time": 1675593750,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 282177,
+        "num": 282177,
+        "word": "玖月奇迹王小玮嫦娥造型唱花腔",
+        "onboard_time": 1675603110,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279465,
+        "num": 279465,
+        "word": "时代少年团元宵喜乐会唱第一天",
+        "onboard_time": 1675608931,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272978,
+        "num": 272978,
+        "word": "声声慢",
+        "onboard_time": 1675603712,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261217,
+        "num": 261217,
+        "word": "迪丽热巴晒元宵节随拍",
+        "onboard_time": 1675599690,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260517,
+        "num": 260517,
+        "word": "马嘉祺第一天舞台开口定调",
+        "onboard_time": 1675608752,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253473,
+        "num": 253473,
+        "word": "周深毛不易 双厨狂喜",
+        "onboard_time": 1675604376,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241246,
+        "num": 241246,
+        "word": "大张伟 万有引力",
+        "onboard_time": 1675606773,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233378,
+        "num": 233378,
+        "word": "顾客质疑158元烤鸭上桌仅有半只",
+        "onboard_time": 1675598130,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220478,
+        "num": 220478,
+        "word": "属于福建人的快乐又回来了",
+        "onboard_time": 1675610670,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 207926,
+        "num": 207926,
+        "word": "电影无名被写成论文",
+        "onboard_time": 1675603232,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206239,
+        "num": 206239,
+        "word": "约会时送什么才能让他想起你",
+        "onboard_time": 1675608333,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 205414,
+        "num": 205414,
+        "word": "杭州地铁上都是去看烟花的人",
+        "onboard_time": 1675603471,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200937,
+        "num": 200937,
+        "word": "这个选秀是一定要选吗",
+        "onboard_time": 1675595671,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191656,
+        "num": 191656,
+        "word": "赵露思偷偷藏不住骑车饭拍",
+        "onboard_time": 1675599452,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188044,
+        "num": 188044,
+        "word": "旧手机被妈妈换菜刀女子开车狂追",
+        "onboard_time": 1675596447,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178050,
+        "num": 178050,
+        "word": "女子偷闺蜜百万奢侈品用高仿替代",
+        "onboard_time": 1675590149,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167544,
+        "num": 167544,
+        "word": "夫子庙",
+        "onboard_time": 1675602331,
+        "rank": 42,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 164263,
+        "num": 164263,
+        "word": "EDG战胜RNG",
+        "onboard_time": 1675602570,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152970,
+        "num": 152970,
+        "word": "声声慢 苏州评弹英文",
+        "onboard_time": 1675607133,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151310,
+        "num": 151310,
+        "word": "当事人回应放炮炸伤男孩致截肢",
+        "onboard_time": 1675604974,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 150031,
+        "num": 150031,
+        "word": "上海平均月薪10605元",
+        "onboard_time": 1675584205,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 147894,
+        "num": 147894,
+        "word": "马略卡vs皇马",
+        "onboard_time": 1675610310,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143697,
+        "num": 143697,
+        "word": "狂飙剧组有多入戏",
+        "onboard_time": 1675600771,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140130,
+        "num": 140130,
+        "word": "宁理喂海鸥吃薯条",
+        "onboard_time": 1675605094,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#花好灯好月圆人圆#"
+    }
+  }
+}
