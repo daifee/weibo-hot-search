@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675621260589,
+  "endTime": 1675622095707,
   "band_list": [
     {
       "raw_hot": 2057929,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150826,
+      "num": 101963,
+      "word": "湖南高速追尾事故亲历者发声",
+      "onboard_time": 1675619776,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 147191,
       "num": 200057,
       "word": "狂飙剧组有多入戏",
@@ -427,12 +435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101963,
-      "num": 101963,
-      "word": "湖南高速追尾事故亲历者发声",
-      "onboard_time": 1675619776,
-      "rank": 13,
-      "category": "社会负面"
+      "raw_hot": 70171,
+      "num": 47223,
+      "word": "女生庙里求姻缘对过路帅哥一见钟情",
+      "onboard_time": 1675620855,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 65971,
@@ -441,14 +449,6 @@
       "onboard_time": 1675589368,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33142,
-      "num": 33142,
-      "word": "女生庙里求姻缘对过路帅哥一见钟情",
-      "onboard_time": 1675620855,
-      "rank": 47,
-      "category": "社会新闻,情感"
     }
   ],
   "hotgov_list": [
