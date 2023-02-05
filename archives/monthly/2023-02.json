@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675632812509,
+  "endTime": 1675635427677,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -10523,6 +10523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156984,
+      "num": 156984,
+      "word": "林孝埈连夺两金",
+      "onboard_time": 1675631352,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156287,
       "num": 156287,
       "word": "ming",
@@ -11628,7 +11636,7 @@
     },
     {
       "raw_hot": 101624,
-      "num": 71601,
+      "num": 90006,
       "word": "女生庙里求姻缘对过路帅哥一见钟情",
       "onboard_time": 1675620855,
       "rank": 47,
@@ -11795,6 +11803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77220,
+      "num": 65427,
+      "word": "南京夫子庙人海里的定海神针",
+      "onboard_time": 1675632432,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 76680,
       "num": 76680,
       "word": "大鹅在曲水亭街快乐游玩",
@@ -11849,14 +11865,6 @@
       "onboard_time": 1675207401,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62803,
-      "num": 62803,
-      "word": "林孝埈连夺两金",
-      "onboard_time": 1675631352,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 61241,
@@ -12003,6 +12011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 41998,
+      "num": 41998,
+      "word": "住户楼道腌酸菜满地酸水散发恶臭",
+      "onboard_time": 1675628172,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41914,
       "num": 39422,
       "word": "我参加了妈妈的婚礼",
@@ -12081,14 +12097,6 @@
       "onboard_time": 1675195453,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 33525,
-      "num": 33525,
-      "word": "住户楼道腌酸菜满地酸水散发恶臭",
-      "onboard_time": 1675628172,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30425,
@@ -12185,14 +12193,6 @@
       "onboard_time": 1675190774,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12771,
-      "num": 14125,
-      "word": "南京夫子庙人海里的定海神针",
-      "onboard_time": 1675632432,
-      "rank": 48,
-      "category": "旅游,社会新闻"
     }
   ],
   "hotgov_list": [
