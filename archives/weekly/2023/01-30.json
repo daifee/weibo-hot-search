@@ -1,6 +1,6 @@
 {
   "startTime": 1675009421114,
-  "endTime": 1675607603225,
+  "endTime": 1675610248956,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1451,6 +1451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1295196,
+      "num": 1295196,
+      "word": "周深被人踩了",
+      "onboard_time": 1675608872,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1284222,
       "num": 1284222,
       "word": "男子连喝2场酒死亡6酒友赔27万",
@@ -2291,6 +2299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 977315,
+      "num": 977315,
+      "word": "格莱美",
+      "onboard_time": 1675606354,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 975836,
       "num": 975836,
       "word": "孟钰的包15万",
@@ -2561,6 +2577,14 @@
       "onboard_time": 1675072351,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 904372,
+      "num": 904372,
+      "word": "中戏教授李红说安欣比高启强难演",
+      "onboard_time": 1675606709,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 904020,
@@ -3355,6 +3379,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 745587,
+      "num": 745587,
+      "word": "男子靠邻座女生肩上睡觉被质疑假睡",
+      "onboard_time": 1675606295,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 745552,
       "num": 745552,
       "word": "鹿晗晒滑雪比耶照",
@@ -3369,14 +3401,6 @@
       "onboard_time": 1675137989,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 740882,
-      "num": 740882,
-      "word": "格莱美",
-      "onboard_time": 1675606354,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 739889,
@@ -3617,6 +3641,14 @@
       "onboard_time": 1675481245,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706281,
+      "num": 706281,
+      "word": "五哈艺人总监谈鹿晗",
+      "onboard_time": 1675607495,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 706270,
@@ -4451,6 +4483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 616399,
+      "num": 616399,
+      "word": "现在包书皮都能代包了",
+      "onboard_time": 1675607613,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 611454,
       "num": 611454,
       "word": "许凯谭松韵新剧开机路透",
@@ -5195,6 +5235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 540160,
+      "num": 540160,
+      "word": "女子病危前夫带住院用品登记复婚",
+      "onboard_time": 1675607674,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539525,
       "num": 539525,
       "word": "声生不息宝岛季你最期待谁",
@@ -5371,14 +5419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 523641,
-      "num": 523641,
-      "word": "中戏教授李红说安欣比高启强难演",
-      "onboard_time": 1675606709,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 522342,
       "num": 522342,
       "word": "iG对战EDG",
@@ -5513,6 +5553,14 @@
       "onboard_time": 1675582708,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509778,
+      "num": 509778,
+      "word": "男朋友长得像高启强是啥体验",
+      "onboard_time": 1675607553,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 509509,
@@ -5881,14 +5929,6 @@
       "onboard_time": 1675055195,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 484338,
-      "num": 484338,
-      "word": "五哈艺人总监谈鹿晗",
-      "onboard_time": 1675607495,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 483611,
@@ -6787,6 +6827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413199,
+      "num": 413199,
+      "word": "林孝埈钟宇晨500米晋级",
+      "onboard_time": 1675609052,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 412861,
       "num": 412861,
       "word": "道明寺今天46岁了",
@@ -7059,6 +7107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398356,
+      "num": 398356,
+      "word": "陈兰青产后抑郁爬上天台",
+      "onboard_time": 1675607012,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 398279,
       "num": 398279,
       "word": "安凯",
@@ -7249,6 +7305,14 @@
       "onboard_time": 1675144531,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385820,
+      "num": 385820,
+      "word": "时代少年团元宵喜乐会唱第一天",
+      "onboard_time": 1675608931,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 385754,
@@ -7617,6 +7681,14 @@
       "onboard_time": 1675603471,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369030,
+      "num": 369030,
+      "word": "马嘉祺第一天舞台开口定调",
+      "onboard_time": 1675608752,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 368213,
@@ -8115,6 +8187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 342444,
+      "num": 342444,
+      "word": "大张伟 万有引力",
+      "onboard_time": 1675606773,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341801,
       "num": 341801,
       "word": "闪耀暖暖",
@@ -8169,6 +8249,14 @@
       "onboard_time": 1675593686,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 339096,
+      "num": 339096,
+      "word": "时代少年团爆炸头错位图",
+      "onboard_time": 1675609532,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 339024,
@@ -8339,14 +8427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331793,
-      "num": 331793,
-      "word": "陈兰青产后抑郁爬上天台",
-      "onboard_time": 1675607012,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 331587,
       "num": 331587,
       "word": "2023第一批心急的小花已经开了",
@@ -8409,14 +8489,6 @@
       "onboard_time": 1675156300,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 329462,
-      "num": 329462,
-      "word": "男子靠邻座女生肩上睡觉被质疑假睡",
-      "onboard_time": 1675606295,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 329387,
@@ -8697,14 +8769,6 @@
       "onboard_time": 1675065152,
       "rank": 23,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 317732,
-      "num": 165743,
-      "word": "大张伟 万有引力",
-      "onboard_time": 1675606773,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 317535,
@@ -10451,6 +10515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 251359,
+      "num": 251359,
+      "word": "强迫症兔子每天睡前努力铺平床单",
+      "onboard_time": 1675609412,
+      "rank": 33,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 251339,
       "num": 251339,
       "word": "王鹤棣你好星期六给秦霄贤清唱水星记",
@@ -11377,6 +11449,14 @@
       "onboard_time": 1675178736,
       "rank": 35,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 220674,
+      "num": 220674,
+      "word": "约会时送什么才能让他想起你",
+      "onboard_time": 1675608333,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 220159,
@@ -13963,6 +14043,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 167563,
+      "num": 167563,
+      "word": "Meiko500胜",
+      "onboard_time": 1675609112,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167399,
       "num": 167399,
       "word": "LNG战胜RNG",
@@ -14457,14 +14545,6 @@
       "onboard_time": 1675527445,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155790,
-      "num": 155790,
-      "word": "男朋友长得像高启强是啥体验",
-      "onboard_time": 1675607553,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 155692,
@@ -16073,6 +16153,14 @@
       "onboard_time": 1674978691,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64150,
+      "num": 515535,
+      "word": "中国军人唱清澈的爱献给祖国",
+      "onboard_time": 1675609232,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63772,
