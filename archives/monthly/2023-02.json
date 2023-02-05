@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675568152057,
+  "endTime": 1675570907815,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -32,6 +32,14 @@
       "word": "胡鑫宇录音笔中音频表达自杀意愿",
       "onboard_time": 1675304683,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9632259,
+      "num": 9632259,
+      "word": "佛山地震",
+      "onboard_time": 1675568914,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -128,6 +136,14 @@
       "word": "男子中奖1000万瞒着妻子给前妻70万",
       "onboard_time": 1675299629,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3061118,
+      "num": 3061118,
+      "word": "广州震感",
+      "onboard_time": 1675568914,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -651,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1499394,
+      "num": 667354,
+      "word": "台网红谷阿莫被曝参选台独政党委员",
+      "onboard_time": 1675566929,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1497413,
       "num": 1497413,
       "word": "Lisa购买75亿韩元住宅",
@@ -1075,14 +1099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1127323,
-      "num": 667354,
-      "word": "台网红谷阿莫被曝参选台独政党委员",
-      "onboard_time": 1675566929,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1122763,
       "num": 1122763,
       "word": "黄瑶 卧底",
@@ -1347,6 +1363,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 981157,
+      "num": 981157,
+      "word": "谷阿莫",
+      "onboard_time": 1675569393,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 980061,
       "num": 980061,
       "word": "iG正统在iG",
@@ -1376,6 +1400,14 @@
       "word": "女子拒绝底薪1000工作被HR怼",
       "onboard_time": 1675312598,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 971206,
+      "num": 971206,
+      "word": "经常吃辣或能降低患癌几率",
+      "onboard_time": 1675565247,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1785,6 +1817,14 @@
       "onboard_time": 1675381523,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 822034,
+      "num": 822034,
+      "word": "超市回应1个橙子卖128元",
+      "onboard_time": 1675569093,
+      "rank": 6,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 821373,
@@ -2217,14 +2257,6 @@
       "onboard_time": 1675221149,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 705246,
-      "num": 705246,
-      "word": "经常吃辣或能降低患癌几率",
-      "onboard_time": 1675565247,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 701967,
@@ -2891,6 +2923,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 593682,
+      "num": 593682,
+      "word": "吴磊赵今麦雪中拍摄氛围感",
+      "onboard_time": 1675569033,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 592008,
       "num": 534674,
       "word": "陈国恩offer4现场拒绝offer",
@@ -3009,6 +3049,14 @@
       "onboard_time": 1675325014,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572070,
+      "num": 572070,
+      "word": "许凯谭松韵新剧开机路透",
+      "onboard_time": 1675569873,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 571990,
@@ -4043,6 +4091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434465,
+      "num": 434465,
+      "word": "男子油锅炸元宵现场惨烈",
+      "onboard_time": 1675566447,
+      "rank": 32,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 434425,
       "num": 434425,
       "word": "网传TFBOYS十周年演唱会备案",
@@ -4097,6 +4153,14 @@
       "onboard_time": 1675187777,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429768,
+      "num": 429768,
+      "word": "陈飞宇和狮子互相鞠躬",
+      "onboard_time": 1675569937,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 427852,
@@ -4353,6 +4417,14 @@
       "onboard_time": 1675319730,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 403796,
+      "num": 403796,
+      "word": "库里受伤",
+      "onboard_time": 1675569393,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 403684,
@@ -4747,12 +4819,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 367111,
-      "num": 367111,
-      "word": "男子油锅炸元宵现场惨烈",
-      "onboard_time": 1675566447,
-      "rank": 32,
-      "category": "社会新闻,美食"
+      "raw_hot": 368213,
+      "num": 245946,
+      "word": "广东佛山三水3.5级地震",
+      "onboard_time": 1675570294,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366217,
@@ -6451,6 +6523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 257916,
+      "num": 257916,
+      "word": "无名梁朝伟王一博卡车高能对手戏",
+      "onboard_time": 1675568368,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257782,
       "num": 257782,
       "word": "苏炳添又夺冠了",
@@ -6688,6 +6768,14 @@
       "word": "律师谈12.4万保时捷遭抢购后下架",
       "onboard_time": 1675175316,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245353,
+      "num": 245353,
+      "word": "警方回应狗头萝莉疑似轻生一事",
+      "onboard_time": 1675570655,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -7963,6 +8051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188808,
+      "num": 188808,
+      "word": "武大靖北京冬奥会首金一周年",
+      "onboard_time": 1675567110,
+      "rank": 46,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 188685,
       "num": 188685,
       "word": "年轻人应该回县城买房吗",
@@ -8635,6 +8731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170308,
+      "num": 170308,
+      "word": "穿越到唐朝上元节是啥体验",
+      "onboard_time": 1675570474,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 170289,
       "num": 170289,
       "word": "中纪委列狂飙里不能踩的纪律红线",
@@ -8675,12 +8779,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168553,
+      "num": 1814162,
+      "word": "今天元宵节",
+      "onboard_time": 1675566031,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168065,
       "num": 168065,
       "word": "专家说已被注册为商标",
       "onboard_time": 1675394008,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167416,
+      "num": 167416,
+      "word": "长公主在上开播一周年",
+      "onboard_time": 1675568730,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 167399,
@@ -9043,6 +9163,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 154571,
+      "num": 154571,
+      "word": "被语文教材安利过的东西",
+      "onboard_time": 1675570834,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154563,
       "num": 154563,
       "word": "几张图看懂五险一金是什么",
@@ -9201,14 +9329,6 @@
       "onboard_time": 1675511850,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 148595,
-      "num": 148595,
-      "word": "武大靖北京冬奥会首金一周年",
-      "onboard_time": 1675567110,
-      "rank": 46,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 148438,
@@ -9801,14 +9921,6 @@
       "onboard_time": 1675527865,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115494,
-      "num": 1167814,
-      "word": "今天元宵节",
-      "onboard_time": 1675566031,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114264,
