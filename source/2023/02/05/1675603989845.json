@@ -1,0 +1,410 @@
+{
+  "runTime": 1675603989845,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2515740,
+        "num": 2515740,
+        "word": "杭州烟花",
+        "onboard_time": 1675587149,
+        "rank": 0,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1788463,
+        "num": 1788463,
+        "word": "周深 观众席",
+        "onboard_time": 1675599511,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182328,
+        "num": 1470899,
+        "word": "元宵喜乐",
+        "onboard_time": 1675589368,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1243871,
+        "num": 1243871,
+        "word": "丈夫偷拍妻子在副驾吃喝睡780公里",
+        "onboard_time": 1675588948,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1138834,
+        "num": 1138834,
+        "word": "毛晓彤真的好漂亮啊",
+        "onboard_time": 1675602632,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1137016,
+        "num": 1137016,
+        "word": "央视元宵晚会 开盲盒",
+        "onboard_time": 1675599990,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1125106,
+        "num": 1125106,
+        "word": "工资不高但想留下来的城市",
+        "onboard_time": 1675600532,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1007091,
+        "num": 1007091,
+        "word": "玖月奇迹王小玮嫦娥造型唱花腔",
+        "onboard_time": 1675603110,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 991328,
+        "num": 991328,
+        "word": "央视元宵晚会",
+        "onboard_time": 1675596571,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 923098,
+        "num": 923098,
+        "word": "顾客质疑158元烤鸭上桌仅有半只",
+        "onboard_time": 1675598130,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1165765,
+        "num": 912709,
+        "word": "张晨张常宁父亲因病去世",
+        "onboard_time": 1675591946,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 828897,
+        "num": 828897,
+        "word": "十分是一毛难得是不易",
+        "onboard_time": 1675601490,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 803299,
+        "num": 803299,
+        "word": "少爷和我 把事办妥",
+        "onboard_time": 1675603652,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 652425,
+        "num": 652425,
+        "word": "迪丽热巴晒元宵节随拍",
+        "onboard_time": 1675599690,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598323,
+        "num": 598323,
+        "word": "元宵晚会节目单",
+        "onboard_time": 1675588470,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533693,
+        "num": 533693,
+        "word": "赵露思偷偷藏不住骑车饭拍",
+        "onboard_time": 1675599452,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 530562,
+        "num": 530562,
+        "word": "旧手机被妈妈换菜刀女子开车狂追",
+        "onboard_time": 1675596447,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521622,
+        "num": 521622,
+        "word": "EDG战胜RNG",
+        "onboard_time": 1675602570,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 514769,
+        "num": 514769,
+        "word": "男友视角下的邓紫棋",
+        "onboard_time": 1675597051,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507102,
+        "num": 507102,
+        "word": "湖南高速多车相撞致16死66伤",
+        "onboard_time": 1675586847,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 587862,
+        "num": 499797,
+        "word": "肖战吃的是儿童元宵",
+        "onboard_time": 1675595251,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477743,
+        "num": 477743,
+        "word": "这个选秀是一定要选吗",
+        "onboard_time": 1675595671,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457595,
+        "num": 457595,
+        "word": "上海平均月薪10605元",
+        "onboard_time": 1675584205,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 376479,
+        "num": 376479,
+        "word": "年轻人报复性还房贷银行为何急了",
+        "onboard_time": 1675593750,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 363031,
+        "num": 363031,
+        "word": "岳云鹏唱歌",
+        "onboard_time": 1675600952,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351004,
+        "num": 351004,
+        "word": "杭州人对烟花有多热情",
+        "onboard_time": 1675598609,
+        "rank": 25,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 339008,
+        "num": 339008,
+        "word": "女子偷闺蜜百万奢侈品用高仿替代",
+        "onboard_time": 1675590149,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327883,
+        "num": 327883,
+        "word": "声声慢",
+        "onboard_time": 1675603712,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326658,
+        "num": 326658,
+        "word": "夫子庙",
+        "onboard_time": 1675602331,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 319194,
+        "num": 319194,
+        "word": "电影无名被写成论文",
+        "onboard_time": 1675603232,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307633,
+        "num": 307633,
+        "word": "流浪地球2万物皆是moss",
+        "onboard_time": 1675602931,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303647,
+        "num": 303647,
+        "word": "前门花灯",
+        "onboard_time": 1675601130,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 289687,
+        "num": 289687,
+        "word": "EDG对战RNG",
+        "onboard_time": 1675596752,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283954,
+        "num": 283954,
+        "word": "朱琳首夺WTA单打冠军",
+        "onboard_time": 1675601550,
+        "rank": 33,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 266629,
+        "num": 266629,
+        "word": "你好星期六马嘉祺现场连线杨坤",
+        "onboard_time": 1675601790,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262808,
+        "num": 262808,
+        "word": "湖南卫视元宵喜乐会",
+        "onboard_time": 1675599511,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253631,
+        "num": 253631,
+        "word": "白鹿以爱为营生气踢树路透",
+        "onboard_time": 1675598670,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252172,
+        "num": 252172,
+        "word": "烟花",
+        "onboard_time": 1675594832,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249202,
+        "num": 249202,
+        "word": "在上海月收入一万算高吗",
+        "onboard_time": 1675587988,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243624,
+        "num": 243624,
+        "word": "狂飙二创",
+        "onboard_time": 1675592069,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242213,
+        "num": 242213,
+        "word": "元宵晚会",
+        "onboard_time": 1675595309,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231436,
+        "num": 231436,
+        "word": "郭帆化缘都化到联合国了",
+        "onboard_time": 1675597469,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227409,
+        "num": 227409,
+        "word": "一目连典藏皮肤",
+        "onboard_time": 1675602931,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217076,
+        "num": 217076,
+        "word": "路人视角下张子枫陈飞宇状态",
+        "onboard_time": 1675596571,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203580,
+        "num": 203580,
+        "word": "湖南高速多车相撞10分钟内发生5起",
+        "onboard_time": 1675598010,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 203144,
+        "num": 203144,
+        "word": "吴磊煮汤圆vlog",
+        "onboard_time": 1675598609,
+        "rank": 45,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 189110,
+        "num": 189110,
+        "word": "00后平均期望薪资超7K",
+        "onboard_time": 1675591529,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 187816,
+        "num": 187816,
+        "word": "王一博无名叶先生库存照",
+        "onboard_time": 1675600952,
+        "rank": 47,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 186525,
+        "num": 186525,
+        "word": "隔着屏幕被一只狗狗哼了",
+        "onboard_time": 1675597649,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174995,
+        "num": 174995,
+        "word": "杭州烟花秀好看吗",
+        "onboard_time": 1675603652,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#花好灯好月圆人圆#"
+    }
+  }
+}

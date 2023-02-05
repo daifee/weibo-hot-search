@@ -1,6 +1,6 @@
 {
   "startTime": 1675527843138,
-  "endTime": 1675603264498,
+  "endTime": 1675603989845,
   "band_list": [
     {
       "raw_hot": 9632259,
@@ -51,8 +51,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 2467247,
-      "num": 2467247,
+      "raw_hot": 2515740,
+      "num": 2515740,
       "word": "杭州烟花",
       "onboard_time": 1675587149,
       "rank": 5,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1788463,
+      "num": 1788463,
+      "word": "周深 观众席",
+      "onboard_time": 1675599511,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1773969,
       "num": 1773969,
       "word": "张晨张常宁父亲因病去世",
@@ -121,14 +129,6 @@
       "onboard_time": 1675588948,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1608912,
-      "num": 1608912,
-      "word": "周深 观众席",
-      "onboard_time": 1675599511,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1528908,
@@ -203,12 +203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1138834,
+      "num": 1138834,
+      "word": "毛晓彤真的好漂亮啊",
+      "onboard_time": 1675602632,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1128757,
       "num": 1128757,
       "word": "徐冬冬晒自己145斤和108斤对比照",
       "onboard_time": 1675566387,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1125106,
+      "num": 1125106,
+      "word": "工资不高但想留下来的城市",
+      "onboard_time": 1675600532,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 1112781,
@@ -225,14 +241,6 @@
       "onboard_time": 1675518271,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1086105,
-      "num": 1086105,
-      "word": "工资不高但想留下来的城市",
-      "onboard_time": 1675600532,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 1082451,
@@ -265,6 +273,14 @@
       "onboard_time": 1675581627,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1007091,
+      "num": 1007091,
+      "word": "玖月奇迹王小玮嫦娥造型唱花腔",
+      "onboard_time": 1675603110,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 992193,
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 828897,
+      "num": 828897,
+      "word": "十分是一毛难得是不易",
+      "onboard_time": 1675601490,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 825077,
       "num": 825077,
       "word": "杨超越爆梗",
@@ -393,6 +417,14 @@
       "onboard_time": 1675596447,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 803299,
+      "num": 803299,
+      "word": "少爷和我 把事办妥",
+      "onboard_time": 1675603652,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 793557,
@@ -425,14 +457,6 @@
       "onboard_time": 1675564467,
       "rank": 20,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 732116,
-      "num": 732116,
-      "word": "十分是一毛难得是不易",
-      "onboard_time": 1675601490,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 721485,
@@ -619,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 533693,
+      "num": 533693,
+      "word": "赵露思偷偷藏不住骑车饭拍",
+      "onboard_time": 1675599452,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 532887,
       "num": 532887,
       "word": "白鹿王鹤棣元宵节谐音梗祝福",
@@ -627,12 +659,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 524536,
-      "num": 524536,
-      "word": "赵露思偷偷藏不住骑车饭拍",
-      "onboard_time": 1675599452,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 521622,
+      "num": 521622,
+      "word": "EDG战胜RNG",
+      "onboard_time": 1675602570,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 515181,
@@ -665,14 +697,6 @@
       "onboard_time": 1675548792,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 501361,
-      "num": 501361,
-      "word": "EDG战胜RNG",
-      "onboard_time": 1675602570,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 494577,
@@ -801,14 +825,6 @@
       "onboard_time": 1675576590,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 407399,
-      "num": 407399,
-      "word": "毛晓彤真的好漂亮啊",
-      "onboard_time": 1675602632,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 403796,
@@ -995,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351004,
+      "num": 351004,
+      "word": "杭州人对烟花有多热情",
+      "onboard_time": 1675598609,
+      "rank": 31,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 349132,
       "num": 349132,
       "word": "EDG对战RNG",
@@ -1009,14 +1033,6 @@
       "onboard_time": 1675556844,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341959,
-      "num": 341959,
-      "word": "杭州人对烟花有多热情",
-      "onboard_time": 1675598609,
-      "rank": 31,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 339824,
@@ -1091,12 +1107,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 327883,
+      "num": 327883,
+      "word": "声声慢",
+      "onboard_time": 1675603712,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326994,
       "num": 326994,
       "word": "华晨宇声生不息2台湾街采人气第一",
       "onboard_time": 1675522831,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326658,
+      "num": 326658,
+      "word": "夫子庙",
+      "onboard_time": 1675602331,
+      "rank": 35,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 319194,
+      "num": 319194,
+      "word": "电影无名被写成论文",
+      "onboard_time": 1675603232,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 319086,
@@ -1139,12 +1179,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 307633,
+      "num": 307633,
+      "word": "流浪地球2万物皆是moss",
+      "onboard_time": 1675602931,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 303976,
       "num": 303976,
       "word": "没见过这么大的汤圆",
       "onboard_time": 1675591529,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 303647,
+      "num": 303647,
+      "word": "前门花灯",
+      "onboard_time": 1675601130,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 299026,
@@ -1195,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287024,
-      "num": 287024,
-      "word": "前门花灯",
-      "onboard_time": 1675601130,
-      "rank": 41,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 285163,
       "num": 285163,
       "word": "易烊千玺孙均侧颜四连拍",
@@ -1251,14 +1299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 269647,
-      "num": 259151,
-      "word": "流浪地球2万物皆是moss",
-      "onboard_time": 1675602931,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 269432,
       "num": 269432,
       "word": "三体豆瓣涨至8.2分",
@@ -1288,14 +1328,6 @@
       "word": "刘耀文一镜到底吃8碗面",
       "onboard_time": 1675517372,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 258717,
-      "num": 258717,
-      "word": "玖月奇迹王小玮嫦娥造型唱花腔",
-      "onboard_time": 1675603110,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1387,14 +1419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244790,
-      "num": 244790,
-      "word": "夫子庙",
-      "onboard_time": 1675602331,
-      "rank": 35,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 241690,
       "num": 241690,
       "word": "9科老师一同家访现场压迫感十足",
@@ -1451,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227409,
+      "num": 227409,
+      "word": "一目连典藏皮肤",
+      "onboard_time": 1675602931,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218837,
       "num": 218837,
       "word": "人气超高但你却无感的水果",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1675592609,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203580,
+      "num": 203580,
+      "word": "湖南高速多车相撞10分钟内发生5起",
+      "onboard_time": 1675598010,
+      "rank": 47,
+      "category": "社会负面"
     },
     {
       "raw_hot": 202805,
@@ -1593,22 +1633,6 @@
       "onboard_time": 1675522470,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190253,
-      "num": 190253,
-      "word": "一目连典藏皮肤",
-      "onboard_time": 1675602931,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 189906,
-      "num": 189906,
-      "word": "湖南高速多车相撞10分钟内发生5起",
-      "onboard_time": 1675598010,
-      "rank": 47,
-      "category": "社会负面"
     },
     {
       "raw_hot": 188808,
@@ -1747,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174995,
+      "num": 174995,
+      "word": "杭州烟花秀好看吗",
+      "onboard_time": 1675603652,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174634,
       "num": 174634,
       "word": "苗苗分享逛城隍庙vlog",
@@ -1840,14 +1872,6 @@
       "word": "狂飙剧组有多入戏",
       "onboard_time": 1675600771,
       "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 164745,
-      "num": 164745,
-      "word": "电影无名被写成论文",
-      "onboard_time": 1675603232,
-      "rank": 49,
       "category": "影视"
     },
     {
