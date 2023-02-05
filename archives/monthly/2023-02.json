@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675606541355,
+  "endTime": 1675607603225,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -321,6 +321,14 @@
       "onboard_time": 1675432652,
       "rank": 11,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 2225159,
+      "num": 2225159,
+      "word": "张远压轴出息了",
+      "onboard_time": 1675605694,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 2225066,
@@ -825,14 +833,6 @@
       "onboard_time": 1675392746,
       "rank": 18,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 1456443,
-      "num": 1456443,
-      "word": "张远压轴出息了",
-      "onboard_time": 1675605694,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1441443,
@@ -2339,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 740882,
+      "num": 740882,
+      "word": "格莱美",
+      "onboard_time": 1675606354,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 739889,
       "num": 739889,
       "word": "女子在婆家被打娘家齐上阵",
@@ -2579,6 +2587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 703259,
+      "num": 703259,
+      "word": "声声慢",
+      "onboard_time": 1675603712,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 701967,
       "num": 701967,
       "word": "沙溢拍流浪地球2一天吃六七顿",
@@ -2721,14 +2737,6 @@
       "onboard_time": 1675388607,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 685329,
-      "num": 685329,
-      "word": "声声慢",
-      "onboard_time": 1675603712,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 683508,
@@ -3403,6 +3411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 579462,
+      "num": 579462,
+      "word": "把元宵煮成了藕粉",
+      "onboard_time": 1675605454,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 577672,
       "num": 577672,
       "word": "赵丽颖2023年的目标和心愿",
@@ -3611,6 +3627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 549735,
+      "num": 549735,
+      "word": "声声慢 苏州评弹英文",
+      "onboard_time": 1675607133,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 548644,
       "num": 548644,
       "word": "小猫咪有仇当场就报",
@@ -3817,6 +3841,14 @@
       "onboard_time": 1675309776,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 523641,
+      "num": 523641,
+      "word": "中戏教授李红说安欣比高启强难演",
+      "onboard_time": 1675606709,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 522342,
@@ -4161,6 +4193,14 @@
       "onboard_time": 1675481908,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 484338,
+      "num": 484338,
+      "word": "五哈艺人总监谈鹿晗",
+      "onboard_time": 1675607495,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 483611,
@@ -5435,19 +5475,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369108,
+      "num": 369108,
+      "word": "杭州地铁上都是去看烟花的人",
+      "onboard_time": 1675603471,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368213,
       "num": 245946,
       "word": "广东佛山三水3.5级地震",
       "onboard_time": 1675570294,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367484,
-      "num": 367484,
-      "word": "杭州地铁上都是去看烟花的人",
-      "onboard_time": 1675603471,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -5521,14 +5561,6 @@
       "onboard_time": 1675590030,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 360050,
-      "num": 360050,
-      "word": "把元宵煮成了藕粉",
-      "onboard_time": 1675605454,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 359676,
@@ -5971,6 +6003,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 331793,
+      "num": 331793,
+      "word": "陈兰青产后抑郁爬上天台",
+      "onboard_time": 1675607012,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331459,
       "num": 318821,
       "word": "狂飙演员谈和张译合作感受",
@@ -6001,6 +6041,14 @@
       "onboard_time": 1675219109,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329462,
+      "num": 329462,
+      "word": "男子靠邻座女生肩上睡觉被质疑假睡",
+      "onboard_time": 1675606295,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329366,
@@ -6209,6 +6257,14 @@
       "onboard_time": 1675464255,
       "rank": 10,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 317732,
+      "num": 165743,
+      "word": "大张伟 万有引力",
+      "onboard_time": 1675606773,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 317535,
@@ -7073,14 +7129,6 @@
       "onboard_time": 1675523311,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270251,
-      "num": 270251,
-      "word": "格莱美",
-      "onboard_time": 1675606354,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 269710,
@@ -8588,7 +8636,7 @@
     },
     {
       "raw_hot": 201728,
-      "num": 1600105,
+      "num": 1716889,
       "word": "元宵喜乐",
       "onboard_time": 1675589368,
       "rank": 2,
@@ -8889,6 +8937,14 @@
       "onboard_time": 1675419450,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193754,
+      "num": 193754,
+      "word": "英语如何唱出中文的意境",
+      "onboard_time": 1675607253,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 193491,
@@ -10004,7 +10060,7 @@
     },
     {
       "raw_hot": 165867,
-      "num": 165867,
+      "num": 205016,
       "word": "狂飙剧组有多入戏",
       "onboard_time": 1675600771,
       "rank": 48,
@@ -10307,6 +10363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155790,
+      "num": 155790,
+      "word": "男朋友长得像高启强是啥体验",
+      "onboard_time": 1675607553,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155692,
       "num": 155692,
       "word": "城市女性比农村女性更易得乳腺癌",
@@ -10401,14 +10465,6 @@
       "onboard_time": 1675512569,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152253,
-      "num": 152253,
-      "word": "男子靠邻座女生肩上睡觉被质疑假睡",
-      "onboard_time": 1675606295,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152076,

@@ -1,6 +1,6 @@
 {
   "startTime": 1675527843138,
-  "endTime": 1675606541355,
+  "endTime": 1675607603225,
   "band_list": [
     {
       "raw_hot": 9632259,
@@ -64,6 +64,14 @@
       "word": "毛晓彤真的好漂亮啊",
       "onboard_time": 1675602632,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2225159,
+      "num": 2225159,
+      "word": "张远压轴出息了",
+      "onboard_time": 1675605694,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -169,14 +177,6 @@
       "onboard_time": 1675562311,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1456443,
-      "num": 1456443,
-      "word": "张远压轴出息了",
-      "onboard_time": 1675605694,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1436218,
@@ -467,6 +467,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 740882,
+      "num": 740882,
+      "word": "格莱美",
+      "onboard_time": 1675606354,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 736407,
       "num": 736407,
       "word": "高一男生英语考试疯狂默写古诗词",
@@ -507,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 703259,
+      "num": 703259,
+      "word": "声声慢",
+      "onboard_time": 1675603712,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 700159,
       "num": 700159,
       "word": "元宵晚会",
@@ -529,14 +545,6 @@
       "onboard_time": 1675555582,
       "rank": 8,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 685329,
-      "num": 685329,
-      "word": "声声慢",
-      "onboard_time": 1675603712,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 677424,
@@ -619,6 +627,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 579462,
+      "num": 579462,
+      "word": "把元宵煮成了藕粉",
+      "onboard_time": 1675605454,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 575021,
       "num": 575021,
       "word": "网传张凌赫宋祖儿主演七星彩",
@@ -659,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 549735,
+      "num": 549735,
+      "word": "声声慢 苏州评弹英文",
+      "onboard_time": 1675607133,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547979,
       "num": 547979,
       "word": "男友视角下的邓紫棋",
@@ -688,6 +712,14 @@
       "word": "电影无名被写成论文",
       "onboard_time": 1675603232,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 523641,
+      "num": 523641,
+      "word": "中戏教授李红说安欣比高启强难演",
+      "onboard_time": 1675606709,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -777,6 +809,14 @@
       "onboard_time": 1675595309,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484338,
+      "num": 484338,
+      "word": "五哈艺人总监谈鹿晗",
+      "onboard_time": 1675607495,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 474170,
@@ -1011,19 +1051,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369108,
+      "num": 369108,
+      "word": "杭州地铁上都是去看烟花的人",
+      "onboard_time": 1675603471,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368213,
       "num": 245946,
       "word": "广东佛山三水3.5级地震",
       "onboard_time": 1675570294,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367484,
-      "num": 367484,
-      "word": "杭州地铁上都是去看烟花的人",
-      "onboard_time": 1675603471,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1049,14 +1089,6 @@
       "onboard_time": 1675590030,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 360050,
-      "num": 360050,
-      "word": "把元宵煮成了藕粉",
-      "onboard_time": 1675605454,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 356712,
@@ -1171,6 +1203,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 331793,
+      "num": 331793,
+      "word": "陈兰青产后抑郁爬上天台",
+      "onboard_time": 1675607012,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 329462,
+      "num": 329462,
+      "word": "男子靠邻座女生肩上睡觉被质疑假睡",
+      "onboard_time": 1675606295,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328569,
       "num": 328569,
       "word": "婚礼当天新娘看不到的画面",
@@ -1192,6 +1240,14 @@
       "word": "湖南卫视元宵喜乐会节目单",
       "onboard_time": 1675575928,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 317732,
+      "num": 165743,
+      "word": "大张伟 万有引力",
+      "onboard_time": 1675606773,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1353,14 +1409,6 @@
       "onboard_time": 1675596571,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 270251,
-      "num": 270251,
-      "word": "格莱美",
-      "onboard_time": 1675606354,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 269432,
@@ -1644,7 +1692,7 @@
     },
     {
       "raw_hot": 201728,
-      "num": 1600105,
+      "num": 1716889,
       "word": "元宵喜乐",
       "onboard_time": 1675589368,
       "rank": 2,
@@ -1697,6 +1745,14 @@
       "onboard_time": 1675589788,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193754,
+      "num": 193754,
+      "word": "英语如何唱出中文的意境",
+      "onboard_time": 1675607253,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 192948,
@@ -1964,7 +2020,7 @@
     },
     {
       "raw_hot": 165867,
-      "num": 165867,
+      "num": 205016,
       "word": "狂飙剧组有多入戏",
       "onboard_time": 1675600771,
       "rank": 48,
@@ -2035,20 +2091,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155790,
+      "num": 155790,
+      "word": "男朋友长得像高启强是啥体验",
+      "onboard_time": 1675607553,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152356,
       "num": 152356,
       "word": "深海",
       "onboard_time": 1675507050,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152253,
-      "num": 152253,
-      "word": "男子靠邻座女生肩上睡觉被质疑假睡",
-      "onboard_time": 1675606295,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150874,
