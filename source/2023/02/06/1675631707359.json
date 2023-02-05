@@ -1,0 +1,410 @@
+{
+  "runTime": 1675631707359,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 165100,
+        "num": 165100,
+        "word": "星云大师圆寂",
+        "onboard_time": 1675614505,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138964,
+        "num": 138964,
+        "word": "林孝埈中国队首金",
+        "onboard_time": 1675613907,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13710,
+        "num": 101243,
+        "word": "元宵喜乐",
+        "onboard_time": 1675589368,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75432,
+        "num": 75432,
+        "word": "韩国称自华入韩旅客阳性率为零",
+        "onboard_time": 1675622235,
+        "rank": 3,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 74263,
+        "num": 74263,
+        "word": "夫妇后悔送养女儿寻女30年",
+        "onboard_time": 1675610310,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49446,
+        "num": 49446,
+        "word": "强迫症兔子每天睡前努力铺平床单",
+        "onboard_time": 1675609412,
+        "rank": 5,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 47952,
+        "num": 47952,
+        "word": "段奥娟瘦了好多",
+        "onboard_time": 1675611272,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42112,
+        "num": 42112,
+        "word": "中戏教授李红说安欣比高启强难演",
+        "onboard_time": 1675606709,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39613,
+        "num": 39613,
+        "word": "不要当着小狗面骂狗",
+        "onboard_time": 1675612287,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37972,
+        "num": 37972,
+        "word": "丈夫偷拍妻子在副驾吃喝睡780公里",
+        "onboard_time": 1675588948,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59547,
+        "num": 37417,
+        "word": "湖南高速追尾事故亲历者发声",
+        "onboard_time": 1675619776,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 42288,
+        "num": 37159,
+        "word": "女生庙里求姻缘对过路帅哥一见钟情",
+        "onboard_time": 1675620855,
+        "rank": 11,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 33795,
+        "num": 33795,
+        "word": "毛晓彤真的好漂亮啊",
+        "onboard_time": 1675602632,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33686,
+        "num": 33686,
+        "word": "男朋友长得像高启强是啥体验",
+        "onboard_time": 1675607553,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32952,
+        "num": 32952,
+        "word": "年轻人报复性还房贷银行为何急了",
+        "onboard_time": 1675593750,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 32251,
+        "num": 32251,
+        "word": "张远压轴出息了",
+        "onboard_time": 1675605694,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32200,
+        "num": 32200,
+        "word": "工资不高但想留下来的城市",
+        "onboard_time": 1675600532,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31329,
+        "num": 31329,
+        "word": "现在包书皮都能代包了",
+        "onboard_time": 1675607613,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29642,
+        "num": 29642,
+        "word": "格莱美",
+        "onboard_time": 1675606354,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27768,
+        "num": 27768,
+        "word": "玖月奇迹王小玮嫦娥造型唱花腔",
+        "onboard_time": 1675603110,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31303,
+        "num": 26823,
+        "word": "肖战吃的是儿童元宵",
+        "onboard_time": 1675595251,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24423,
+        "num": 24423,
+        "word": "女子病危前夫带住院用品登记复婚",
+        "onboard_time": 1675607674,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23589,
+        "num": 23589,
+        "word": "属于福建人的快乐又回来了",
+        "onboard_time": 1675610670,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 22036,
+        "num": 22036,
+        "word": "男子靠邻座女生肩上睡觉被质疑假睡",
+        "onboard_time": 1675606295,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21836,
+        "num": 21836,
+        "word": "张晨张常宁父亲因病去世",
+        "onboard_time": 1675591946,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20919,
+        "num": 20919,
+        "word": "林孝埈连夺两金",
+        "onboard_time": 1675631352,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20387,
+        "num": 20387,
+        "word": "林孝埈钟宇晨500米晋级",
+        "onboard_time": 1675609052,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19955,
+        "num": 19955,
+        "word": "顾客质疑158元烤鸭上桌仅有半只",
+        "onboard_time": 1675598130,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19271,
+        "num": 19271,
+        "word": "狂飙剧组有多入戏",
+        "onboard_time": 1675600771,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18473,
+        "num": 18473,
+        "word": "旧手机被妈妈换菜刀女子开车狂追",
+        "onboard_time": 1675596447,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32796,
+        "num": 18327,
+        "word": "住户楼道腌酸菜满地酸水散发恶臭",
+        "onboard_time": 1675628172,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18133,
+        "num": 18133,
+        "word": "关晓彤晒元宵怼脸自拍",
+        "onboard_time": 1675616482,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17866,
+        "num": 17866,
+        "word": "路人见到杨超越的反应",
+        "onboard_time": 1675611691,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17865,
+        "num": 17865,
+        "word": "时代少年团元宵喜乐会唱第一天",
+        "onboard_time": 1675608931,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17618,
+        "num": 17618,
+        "word": "湖南高速多车相撞致16死66伤",
+        "onboard_time": 1675586847,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 17446,
+        "num": 17446,
+        "word": "孙杨张豆豆同游环球影城",
+        "onboard_time": 1675611931,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17425,
+        "num": 17425,
+        "word": "周深毛不易 双厨狂喜",
+        "onboard_time": 1675604376,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17312,
+        "num": 17312,
+        "word": "约会时送什么才能让他想起你",
+        "onboard_time": 1675608333,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 16795,
+        "num": 16795,
+        "word": "短道速滑",
+        "onboard_time": 1675608931,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16741,
+        "num": 16741,
+        "word": "周深被人踩了",
+        "onboard_time": 1675608872,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16499,
+        "num": 16499,
+        "word": "汤圆",
+        "onboard_time": 1675625292,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 16035,
+        "num": 16035,
+        "word": "杭州烟花",
+        "onboard_time": 1675587149,
+        "rank": 41,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 15829,
+        "num": 15829,
+        "word": "女子偷闺蜜百万奢侈品用高仿替代",
+        "onboard_time": 1675590149,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15715,
+        "num": 15715,
+        "word": "滑出了半身不遂的感觉",
+        "onboard_time": 1675611630,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14672,
+        "num": 14672,
+        "word": "电影无名被写成论文",
+        "onboard_time": 1675603232,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14498,
+        "num": 14498,
+        "word": "五哈艺人总监谈鹿晗",
+        "onboard_time": 1675607495,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14222,
+        "num": 14222,
+        "word": "迪丽热巴晒元宵节随拍",
+        "onboard_time": 1675599690,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13356,
+        "num": 14222,
+        "word": "三体流浪计划启动",
+        "onboard_time": 1675616121,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12909,
+        "num": 14222,
+        "word": "赵露思偷偷藏不住骑车饭拍",
+        "onboard_time": 1675599452,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12699,
+        "num": 14221,
+        "word": "今天元宵节",
+        "onboard_time": 1675566031,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#花好灯好月圆人圆#"
+    }
+  }
+}
