@@ -1,0 +1,410 @@
+{
+  "runTime": 1675595692068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1773969,
+        "num": 1773969,
+        "word": "张晨张常宁父亲因病去世",
+        "onboard_time": 1675591946,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1628326,
+        "num": 1628326,
+        "word": "丈夫偷拍妻子在副驾吃喝睡780公里",
+        "onboard_time": 1675588948,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201728,
+        "num": 1398292,
+        "word": "元宵喜乐",
+        "onboard_time": 1675589368,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1197781,
+        "num": 1197781,
+        "word": "杭州烟花",
+        "onboard_time": 1675587149,
+        "rank": 3,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1014647,
+        "num": 1014647,
+        "word": "肖战吃的是儿童元宵",
+        "onboard_time": 1675595251,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 903416,
+        "num": 903416,
+        "word": "女子偷闺蜜百万奢侈品用高仿替代",
+        "onboard_time": 1675590149,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723660,
+        "num": 723660,
+        "word": "狂飙二创",
+        "onboard_time": 1675592069,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 657890,
+        "num": 657890,
+        "word": "元宵晚会节目单",
+        "onboard_time": 1675588470,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611984,
+        "num": 611984,
+        "word": "00后平均期望薪资超7K",
+        "onboard_time": 1675591529,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 591009,
+        "num": 591009,
+        "word": "年轻人报复性还房贷银行为何急了",
+        "onboard_time": 1675593750,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 979584,
+        "num": 590053,
+        "word": "湖南高速多车相撞致16死66伤",
+        "onboard_time": 1675586847,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 584988,
+        "num": 584988,
+        "word": "上海平均月薪10605元",
+        "onboard_time": 1675584205,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 486967,
+        "num": 486967,
+        "word": "宋亚轩说我觉得爱是我和你们",
+        "onboard_time": 1675595309,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451090,
+        "num": 451090,
+        "word": "叶舒华金发随拍",
+        "onboard_time": 1675594529,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429925,
+        "num": 429925,
+        "word": "元宵晚会",
+        "onboard_time": 1675595309,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399686,
+        "num": 399686,
+        "word": "深圳平均月薪9903元",
+        "onboard_time": 1675590149,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 399638,
+        "num": 399638,
+        "word": "这个选秀是一定要选吗",
+        "onboard_time": 1675595671,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382953,
+        "num": 382953,
+        "word": "泰国副总理说身上也流淌着中华血液",
+        "onboard_time": 1675588410,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 379821,
+        "num": 379821,
+        "word": "网传张凌赫宋祖儿主演七星彩",
+        "onboard_time": 1675590209,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378143,
+        "num": 378143,
+        "word": "杭州烟花秀准备情况",
+        "onboard_time": 1675592549,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339579,
+        "num": 339579,
+        "word": "杨超越粉色拼接半身裙",
+        "onboard_time": 1675593686,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318880,
+        "num": 318880,
+        "word": "边伯贤退伍后首发文",
+        "onboard_time": 1675581627,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311012,
+        "num": 311012,
+        "word": "在上海月收入一万算高吗",
+        "onboard_time": 1675587988,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289488,
+        "num": 289488,
+        "word": "湖南高速多车相撞造成重大伤亡",
+        "onboard_time": 1675578927,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 284673,
+        "num": 284673,
+        "word": "25城平均月薪8203.56元",
+        "onboard_time": 1675584868,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 277774,
+        "num": 277774,
+        "word": "没见过这么大的汤圆",
+        "onboard_time": 1675591529,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 272470,
+        "num": 272470,
+        "word": "烟花",
+        "onboard_time": 1675594832,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250140,
+        "num": 250140,
+        "word": "任贤齐拒绝郑钧坚持骑行",
+        "onboard_time": 1675593448,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242518,
+        "num": 242518,
+        "word": "26岁小伙被女友嫌胖生气凌晨出走",
+        "onboard_time": 1675581566,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238538,
+        "num": 238538,
+        "word": "1碗汤圆有多少热量",
+        "onboard_time": 1675591588,
+        "rank": 29,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 236062,
+        "num": 236062,
+        "word": "宝宝260天未见月嫂主动钻怀蹭脸",
+        "onboard_time": 1675590030,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214996,
+        "num": 214996,
+        "word": "猫猫头汤圆",
+        "onboard_time": 1675593089,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213074,
+        "num": 213074,
+        "word": "派出所回应邻居放炮男孩被炸截肢",
+        "onboard_time": 1675583728,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 202935,
+        "num": 202935,
+        "word": "赵露思晒元宵节九宫格随拍",
+        "onboard_time": 1675592849,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180522,
+        "num": 180522,
+        "word": "张雨绮腰背线条",
+        "onboard_time": 1675579828,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170913,
+        "num": 170913,
+        "word": "正月十五中纪委连打三虎",
+        "onboard_time": 1675585887,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 170609,
+        "num": 170609,
+        "word": "哈尔滨也有火影山了",
+        "onboard_time": 1675592609,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170088,
+        "num": 170088,
+        "word": "这是港普和川普的高手对决",
+        "onboard_time": 1675591889,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148183,
+        "num": 148183,
+        "word": "商家回应卖面条差0.04kg被曝光",
+        "onboard_time": 1675584748,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28885,
+        "num": 143886,
+        "word": "送你兔年的第一轮圆月",
+        "onboard_time": 1675594832,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140947,
+        "num": 140947,
+        "word": "美方执意动用武力明显反应过度",
+        "onboard_time": 1675582708,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136808,
+        "num": 136808,
+        "word": "元宵节日落后2小时赏月最佳",
+        "onboard_time": 1675595068,
+        "rank": 41,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 135608,
+        "num": 135608,
+        "word": "杭州天气有利于观赏烟花",
+        "onboard_time": 1675595547,
+        "rank": 42,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 134983,
+        "num": 134983,
+        "word": "光遇渠道服",
+        "onboard_time": 1675589788,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127776,
+        "num": 127776,
+        "word": "狂飙制片人和疯驴子聊成毅",
+        "onboard_time": 1675572929,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126007,
+        "num": 126007,
+        "word": "张朝阳用流体力学原理解释汤圆",
+        "onboard_time": 1675595547,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 124895,
+        "num": 124895,
+        "word": "时代少年团 二专",
+        "onboard_time": 1675571134,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124133,
+        "num": 124133,
+        "word": "RA对战LNG",
+        "onboard_time": 1675593330,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123212,
+        "num": 123212,
+        "word": "如果狂飙改名",
+        "onboard_time": 1675580007,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111962,
+        "num": 111962,
+        "word": "唱离歌的张天爱",
+        "onboard_time": 1675583728,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好满足人民精神文化生活新期待#"
+    }
+  }
+}
