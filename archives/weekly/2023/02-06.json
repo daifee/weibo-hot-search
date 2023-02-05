@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675618408715,
+  "endTime": 1675621260589,
   "band_list": [
     {
       "raw_hot": 2057929,
@@ -427,12 +427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101963,
+      "num": 101963,
+      "word": "湖南高速追尾事故亲历者发声",
+      "onboard_time": 1675619776,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 65971,
       "num": 1107248,
       "word": "元宵喜乐",
       "onboard_time": 1675589368,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33142,
+      "num": 33142,
+      "word": "女生庙里求姻缘对过路帅哥一见钟情",
+      "onboard_time": 1675620855,
+      "rank": 47,
+      "category": "社会新闻,情感"
     }
   ],
   "hotgov_list": [
