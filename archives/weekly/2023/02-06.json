@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675639110507,
+  "endTime": 1675640012949,
   "band_list": [
     {
       "raw_hot": 2057929,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 852871,
+      "num": 852871,
+      "word": "欧文被交易至独行侠",
+      "onboard_time": 1675638797,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 785356,
       "num": 785356,
       "word": "张远压轴出息了",
@@ -51,11 +59,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 737854,
+      "num": 737854,
+      "word": "黄多多晒与同学比心合照",
+      "onboard_time": 1675638378,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 702725,
       "num": 702725,
       "word": "林孝埈钟宇晨500米晋级",
       "onboard_time": 1675609052,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 631938,
+      "num": 631938,
+      "word": "林孝埈连夺两金",
+      "onboard_time": 1675631352,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -67,20 +91,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 618487,
-      "num": 618487,
-      "word": "林孝埈连夺两金",
-      "onboard_time": 1675631352,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 614293,
       "num": 614293,
       "word": "男朋友长得像高启强是啥体验",
       "onboard_time": 1675607553,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 578787,
+      "num": 578787,
+      "word": "韩国称自华入韩旅客阳性率为零",
+      "onboard_time": 1675622235,
+      "rank": 10,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 560137,
@@ -107,30 +131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 464109,
-      "num": 464109,
-      "word": "韩国称自华入韩旅客阳性率为零",
-      "onboard_time": 1675622235,
-      "rank": 10,
-      "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 448147,
-      "num": 448147,
-      "word": "欧文被交易至独行侠",
-      "onboard_time": 1675638797,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 439540,
-      "num": 439540,
-      "word": "黄多多晒与同学比心合照",
-      "onboard_time": 1675638378,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 437694,
       "num": 437694,
       "word": "丈夫偷拍妻子在副驾吃喝睡780公里",
@@ -155,12 +155,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 397710,
+      "num": 298488,
+      "word": "湖南高速追尾事故亲历者发声",
+      "onboard_time": 1675619776,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 373189,
       "num": 373189,
       "word": "格莱美",
       "onboard_time": 1675606354,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 366182,
+      "num": 366182,
+      "word": "女生庙里求姻缘对过路帅哥一见钟情",
+      "onboard_time": 1675620855,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 343797,
@@ -195,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314712,
-      "num": 216317,
-      "word": "湖南高速追尾事故亲历者发声",
-      "onboard_time": 1675619776,
-      "rank": 13,
-      "category": "社会负面"
+      "raw_hot": 314143,
+      "num": 314143,
+      "word": "世界上最长寿的狗超30岁",
+      "onboard_time": 1675636095,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310410,
@@ -209,14 +225,6 @@
       "onboard_time": 1675587149,
       "rank": 20,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 297999,
-      "num": 297999,
-      "word": "女生庙里求姻缘对过路帅哥一见钟情",
-      "onboard_time": 1675620855,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 297093,
@@ -243,11 +251,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252602,
-      "num": 215976,
-      "word": "世界上最长寿的狗超30岁",
-      "onboard_time": 1675636095,
-      "rank": 48,
+      "raw_hot": 270592,
+      "num": 116586,
+      "word": "24岁女子嫁85岁老头还要为其生子",
+      "onboard_time": 1675639580,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -347,12 +355,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160561,
+      "num": 160561,
+      "word": "短道速滑接力",
+      "onboard_time": 1675639580,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158831,
       "num": 158831,
       "word": "顾客质疑158元烤鸭上桌仅有半只",
       "onboard_time": 1675598130,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156625,
+      "num": 156625,
+      "word": "曼城",
+      "onboard_time": 1675639040,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 156529,
@@ -400,6 +424,14 @@
       "word": "宋亚轩元宵喜乐会舞台怼脸镜头",
       "onboard_time": 1675616602,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132341,
+      "num": 132341,
+      "word": "玖月奇迹王小玮嫦娥造型唱花腔",
+      "onboard_time": 1675603110,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -459,12 +491,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115665,
-      "num": 115665,
-      "word": "玖月奇迹王小玮嫦娥造型唱花腔",
-      "onboard_time": 1675603110,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 116748,
+      "num": 116748,
+      "word": "今天BSS回归",
+      "onboard_time": 1675639580,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 115303,
@@ -476,7 +508,7 @@
     },
     {
       "raw_hot": 115185,
-      "num": 94926,
+      "num": 115102,
       "word": "男生打架被老师用胶带捆绑增进感情",
       "onboard_time": 1675638016,
       "rank": 30,
@@ -499,12 +531,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 109560,
+      "num": 109560,
+      "word": "床也没想过能受这么大礼",
+      "onboard_time": 1675639642,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106248,
       "num": 106248,
       "word": "夫子庙",
       "onboard_time": 1675602331,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 106212,
+      "num": 106212,
+      "word": "郭帆化缘都化到联合国了",
+      "onboard_time": 1675597469,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 102009,
@@ -523,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70689,
-      "num": 70689,
-      "word": "郭帆化缘都化到联合国了",
-      "onboard_time": 1675597469,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 91710,
+      "num": 91710,
+      "word": "星云大师",
+      "onboard_time": 1675639701,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65971,
@@ -537,14 +585,6 @@
       "onboard_time": 1675589368,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55921,
-      "num": 55921,
-      "word": "曼城",
-      "onboard_time": 1675639040,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 17931,

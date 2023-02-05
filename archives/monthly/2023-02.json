@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675639110507,
+  "endTime": 1675640012949,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -2019,6 +2019,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 852871,
+      "num": 852871,
+      "word": "欧文被交易至独行侠",
+      "onboard_time": 1675638797,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 849444,
       "num": 849444,
       "word": "iPhone微信转账语音播报出错",
@@ -2409,6 +2417,14 @@
       "onboard_time": 1675223132,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 737854,
+      "num": 737854,
+      "word": "黄多多晒与同学比心合照",
+      "onboard_time": 1675638378,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 737367,
@@ -3123,6 +3139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 631938,
+      "num": 631938,
+      "word": "林孝埈连夺两金",
+      "onboard_time": 1675631352,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 631121,
       "num": 631121,
       "word": "男孩回应从富豪家被拐至亿万富豪家",
@@ -3241,14 +3265,6 @@
       "onboard_time": 1675244369,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 618487,
-      "num": 618487,
-      "word": "林孝埈连夺两金",
-      "onboard_time": 1675631352,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 618247,
@@ -3521,6 +3537,14 @@
       "onboard_time": 1675605454,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 578787,
+      "num": 578787,
+      "word": "韩国称自华入韩旅客阳性率为零",
+      "onboard_time": 1675622235,
+      "rank": 10,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 577672,
@@ -4451,14 +4475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 464109,
-      "num": 464109,
-      "word": "韩国称自华入韩旅客阳性率为零",
-      "onboard_time": 1675622235,
-      "rank": 10,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 463718,
       "num": 463718,
       "word": "医院免去100元男子50年后还10万",
@@ -4619,14 +4635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 448147,
-      "num": 448147,
-      "word": "欧文被交易至独行侠",
-      "onboard_time": 1675638797,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 446930,
       "num": 446930,
       "word": "兔年想活成曾黎",
@@ -4713,14 +4721,6 @@
       "onboard_time": 1675248931,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 439540,
-      "num": 439540,
-      "word": "黄多多晒与同学比心合照",
-      "onboard_time": 1675638378,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 437542,
@@ -5227,6 +5227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397710,
+      "num": 298488,
+      "word": "湖南高速追尾事故亲历者发声",
+      "onboard_time": 1675619776,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 396868,
       "num": 396868,
       "word": "赵丽颖漫步古城游玩照",
@@ -5657,6 +5665,14 @@
       "onboard_time": 1675554501,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366182,
+      "num": 366182,
+      "word": "女生庙里求姻缘对过路帅哥一见钟情",
+      "onboard_time": 1675620855,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 364792,
@@ -6475,14 +6491,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 314712,
-      "num": 216317,
-      "word": "湖南高速追尾事故亲历者发声",
-      "onboard_time": 1675619776,
-      "rank": 13,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 314688,
       "num": 314688,
       "word": "狂飙反派都不知道自己是坏人",
@@ -6497,6 +6505,14 @@
       "onboard_time": 1675289772,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 314143,
+      "num": 314143,
+      "word": "世界上最长寿的狗超30岁",
+      "onboard_time": 1675636095,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313830,
@@ -6705,14 +6721,6 @@
       "onboard_time": 1675562187,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 297999,
-      "num": 297999,
-      "word": "女生庙里求姻缘对过路帅哥一见钟情",
-      "onboard_time": 1675620855,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 297497,
@@ -7299,6 +7307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270592,
+      "num": 116586,
+      "word": "24岁女子嫁85岁老头还要为其生子",
+      "onboard_time": 1675639580,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269710,
       "num": 269710,
       "word": "女生被爸爸催婚称不要彩礼倒贴2万",
@@ -7705,14 +7721,6 @@
       "onboard_time": 1675428028,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 252602,
-      "num": 215976,
-      "word": "世界上最长寿的狗超30岁",
-      "onboard_time": 1675636095,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251339,
@@ -10483,6 +10491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160561,
+      "num": 160561,
+      "word": "短道速滑接力",
+      "onboard_time": 1675639580,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160309,
       "num": 160309,
       "word": "张云雷开箱",
@@ -10585,6 +10601,14 @@
       "onboard_time": 1675412848,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156625,
+      "num": 156625,
+      "word": "曼城",
+      "onboard_time": 1675639040,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 156287,
@@ -11499,6 +11523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116748,
+      "num": 116748,
+      "word": "今天BSS回归",
+      "onboard_time": 1675639580,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 116600,
       "num": 116600,
       "word": "元宵节快乐",
@@ -11516,7 +11548,7 @@
     },
     {
       "raw_hot": 115185,
-      "num": 94926,
+      "num": 115102,
       "word": "男生打架被老师用胶带捆绑增进感情",
       "onboard_time": 1675638016,
       "rank": 30,
@@ -11593,6 +11625,14 @@
       "onboard_time": 1675559848,
       "rank": 42,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 109560,
+      "num": 109560,
+      "word": "床也没想过能受这么大礼",
+      "onboard_time": 1675639642,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 109334,
@@ -11771,6 +11811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91710,
+      "num": 91710,
+      "word": "星云大师",
+      "onboard_time": 1675639701,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91512,
       "num": 1598185,
       "word": "太空视角看中国湿地之美",
@@ -11945,14 +11993,6 @@
       "onboard_time": 1675171596,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 55921,
-      "num": 55921,
-      "word": "曼城",
-      "onboard_time": 1675639040,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 54629,
