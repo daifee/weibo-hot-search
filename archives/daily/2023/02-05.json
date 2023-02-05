@@ -1,6 +1,6 @@
 {
   "startTime": 1675527843138,
-  "endTime": 1675574177350,
+  "endTime": 1675575208534,
   "band_list": [
     {
       "raw_hot": 9632259,
@@ -57,6 +57,14 @@
       "onboard_time": 1675570655,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1726592,
+      "num": 1726592,
+      "word": "狂飙制片人和疯驴子聊成毅",
+      "onboard_time": 1675572929,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1528908,
@@ -179,11 +187,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 874073,
-      "num": 874073,
-      "word": "狂飙制片人和疯驴子聊成毅",
-      "onboard_time": 1675572929,
-      "rank": 3,
+      "raw_hot": 867307,
+      "num": 867307,
+      "word": "易烊千玺把沈腾后背刮出痧的反应",
+      "onboard_time": 1675572691,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -201,14 +209,6 @@
       "onboard_time": 1675559246,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 805434,
-      "num": 805434,
-      "word": "易烊千玺把沈腾后背刮出痧的反应",
-      "onboard_time": 1675572691,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 736407,
@@ -257,6 +257,14 @@
       "onboard_time": 1675554559,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 642183,
+      "num": 642183,
+      "word": "丁程鑫一次记住八个人动作",
+      "onboard_time": 1675573770,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 641651,
@@ -363,14 +371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 477504,
-      "num": 477504,
-      "word": "丁程鑫一次记住八个人动作",
-      "onboard_time": 1675573770,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 472496,
       "num": 472496,
       "word": "内马尔",
@@ -435,12 +435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402361,
+      "num": 402361,
+      "word": "中国奇谭演活了北京胡同",
+      "onboard_time": 1675573949,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 399284,
       "num": 399284,
       "word": "广东佛山地震多地有震感",
       "onboard_time": 1675571134,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385314,
+      "num": 385314,
+      "word": "被语文教材安利过的东西",
+      "onboard_time": 1675570834,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 372269,
@@ -483,14 +499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 350185,
-      "num": 350185,
-      "word": "被语文教材安利过的东西",
-      "onboard_time": 1675570834,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 347932,
       "num": 347932,
       "word": "收费员听声识隐患救下一车人",
@@ -505,6 +513,14 @@
       "onboard_time": 1675564709,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335502,
+      "num": 335502,
+      "word": "这摊真的非出不可吗",
+      "onboard_time": 1675572514,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 333798,
@@ -536,6 +552,14 @@
       "word": "华晨宇声生不息2台湾街采人气第一",
       "onboard_time": 1675522831,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 316117,
+      "num": 316117,
+      "word": "李诞说王建国新的一年开始主动要活",
+      "onboard_time": 1675574846,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -617,14 +641,6 @@
       "onboard_time": 1675517372,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258918,
-      "num": 258918,
-      "word": "这摊真的非出不可吗",
-      "onboard_time": 1675572514,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 257916,
@@ -745,6 +761,14 @@
       "onboard_time": 1675505488,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214786,
+      "num": 214786,
+      "word": "杨颖祝大家岁岁平安幸福团圆",
+      "onboard_time": 1675573649,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 197262,
@@ -891,20 +915,12 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 167674,
-      "num": 167674,
-      "word": "中国奇谭演活了北京胡同",
-      "onboard_time": 1675573949,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 166428,
-      "num": 166428,
-      "word": "杨颖祝大家岁岁平安幸福团圆",
-      "onboard_time": 1675573649,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 168222,
+      "num": 168222,
+      "word": "连鹦鹉都开始养狗了",
+      "onboard_time": 1675574248,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 163967,
@@ -971,6 +987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 149881,
+      "num": 149881,
+      "word": "国宝级背影也太可爱了吧",
+      "onboard_time": 1675574908,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147910,
       "num": 125509,
       "word": "女孩摆航母照祭拜葬日中国将士",
@@ -985,6 +1009,14 @@
       "onboard_time": 1675561468,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 147525,
+      "num": 147525,
+      "word": "融安金桔",
+      "onboard_time": 1675574546,
+      "rank": 43,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 147296,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1675563267,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141187,
+      "num": 141187,
+      "word": "被广西的水果便宜哭了",
+      "onboard_time": 1675574846,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 140445,
