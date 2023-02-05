@@ -1,0 +1,410 @@
+{
+  "runTime": 1675567353712,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1613025,
+        "num": 1613025,
+        "word": "外交部就美称击落我无人飞艇发表声明",
+        "onboard_time": 1675557084,
+        "rank": 0,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 1464381,
+        "num": 1464381,
+        "word": "女子买面条差0.04kg怒拍视频曝光商家",
+        "onboard_time": 1675562311,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93376,
+        "num": 915893,
+        "word": "今天元宵节",
+        "onboard_time": 1675566031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3054437,
+        "num": 908425,
+        "word": "狗头萝莉",
+        "onboard_time": 1675552817,
+        "rank": 3,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 815703,
+        "num": 815703,
+        "word": "人人视频遭集体起诉",
+        "onboard_time": 1675564766,
+        "rank": 4,
+        "category": "财经,影视"
+      },
+      {
+        "raw_hot": 691642,
+        "num": 691642,
+        "word": "高一男生英语考试疯狂默写古诗词",
+        "onboard_time": 1675564467,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 671576,
+        "num": 671576,
+        "word": "超女快男集体发文呼唤舞台",
+        "onboard_time": 1675561527,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 663631,
+        "num": 663631,
+        "word": "张颂文电子签名",
+        "onboard_time": 1675558586,
+        "rank": 7,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 630344,
+        "num": 630344,
+        "word": "张译鼓励满江红新人演员",
+        "onboard_time": 1675565727,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 621511,
+        "num": 621511,
+        "word": "经常吃辣或能降低患癌几率",
+        "onboard_time": 1675565247,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687115,
+        "num": 617990,
+        "word": "徐冬冬晒自己145斤和108斤对比照",
+        "onboard_time": 1675566387,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612448,
+        "num": 612448,
+        "word": "仙剑六祈今朝",
+        "onboard_time": 1675564887,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 592557,
+        "num": 592557,
+        "word": "肖战元宵九宫格祝福",
+        "onboard_time": 1675566627,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526757,
+        "num": 526757,
+        "word": "光遇氪金送礼被封号",
+        "onboard_time": 1675554559,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 515159,
+        "num": 515159,
+        "word": "虞书欣许凯仙剑六元宵海报",
+        "onboard_time": 1675565549,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 502977,
+        "num": 502977,
+        "word": "边伯贤 退伍",
+        "onboard_time": 1675523613,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494964,
+        "num": 494964,
+        "word": "元宵",
+        "onboard_time": 1675555582,
+        "rank": 16,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 443859,
+        "num": 443859,
+        "word": "C罗",
+        "onboard_time": 1675565308,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412432,
+        "num": 412432,
+        "word": "张子枫陈飞宇活动同框",
+        "onboard_time": 1675566929,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393942,
+        "num": 393942,
+        "word": "公公回应女子被婆家罚跪跑圈",
+        "onboard_time": 1675559246,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358792,
+        "num": 358792,
+        "word": "白鹿王鹤棣元宵节谐音梗祝福",
+        "onboard_time": 1675565727,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342037,
+        "num": 342037,
+        "word": "iPhone14Pro全系降价700元",
+        "onboard_time": 1675518271,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 314761,
+        "num": 314761,
+        "word": "沈腾马丽时隔8年再演夏洛马冬梅",
+        "onboard_time": 1675554559,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302335,
+        "num": 302335,
+        "word": "老婆生了儿子男子一脸勉强",
+        "onboard_time": 1675524152,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288951,
+        "num": 288951,
+        "word": "汤圆和元宵傻傻分不清",
+        "onboard_time": 1675559608,
+        "rank": 24,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 287279,
+        "num": 287279,
+        "word": "内马尔",
+        "onboard_time": 1675553959,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271676,
+        "num": 271676,
+        "word": "光遇",
+        "onboard_time": 1675524332,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269432,
+        "num": 269432,
+        "word": "三体豆瓣涨至8.2分",
+        "onboard_time": 1675566687,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263853,
+        "num": 263853,
+        "word": "李钟硕戴了IU演唱会周边帽子",
+        "onboard_time": 1675523613,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260158,
+        "num": 260158,
+        "word": "马嘉祺河南人的功夫基因",
+        "onboard_time": 1675564709,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441885,
+        "num": 257959,
+        "word": "台网红谷阿莫被曝参选台独政党委员",
+        "onboard_time": 1675566929,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 240068,
+        "num": 240068,
+        "word": "贺峻霖眼睛",
+        "onboard_time": 1675555521,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239666,
+        "num": 239666,
+        "word": "男子油锅炸元宵现场惨烈",
+        "onboard_time": 1675566447,
+        "rank": 32,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 238058,
+        "num": 238058,
+        "word": "一件事坚持10年是什么体验",
+        "onboard_time": 1675563565,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237639,
+        "num": 237639,
+        "word": "9科老师一同家访现场压迫感十足",
+        "onboard_time": 1675564709,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232992,
+        "num": 232992,
+        "word": "宋朝元宵节放7天假",
+        "onboard_time": 1675566146,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232622,
+        "num": 232622,
+        "word": "篮网决心交易欧文",
+        "onboard_time": 1675564766,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228732,
+        "num": 228732,
+        "word": "票房",
+        "onboard_time": 1675523010,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224775,
+        "num": 224775,
+        "word": "iPhone出货量刷新历史纪录",
+        "onboard_time": 1675554559,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 186404,
+        "num": 186404,
+        "word": "郭帆谈流浪地球3选角",
+        "onboard_time": 1675558648,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182268,
+        "num": 182268,
+        "word": "谷爱凌现场观战篮网",
+        "onboard_time": 1675562066,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178090,
+        "num": 178090,
+        "word": "胡鑫宇事件背后的流量生意",
+        "onboard_time": 1675541773,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177994,
+        "num": 177994,
+        "word": "婚礼当天新娘看不到的画面",
+        "onboard_time": 1675555704,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171570,
+        "num": 171570,
+        "word": "詹姆斯拼抢冲进观众席",
+        "onboard_time": 1675564827,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166836,
+        "num": 166836,
+        "word": "金钟仁说正在准备solo3辑",
+        "onboard_time": 1675562187,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155643,
+        "num": 155643,
+        "word": "博纳说无名票房超出预期",
+        "onboard_time": 1675554501,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144215,
+        "num": 144215,
+        "word": "武大靖北京冬奥会首金一周年",
+        "onboard_time": 1675567110,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 138965,
+        "num": 138965,
+        "word": "元宵节文案",
+        "onboard_time": 1675560926,
+        "rank": 47,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 134009,
+        "num": 134009,
+        "word": "梅西进球",
+        "onboard_time": 1675554501,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133436,
+        "num": 133436,
+        "word": "王一博王传君同款姿势拍照花絮",
+        "onboard_time": 1675561588,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好满足人民精神文化生活新期待#"
+    }
+  }
+}

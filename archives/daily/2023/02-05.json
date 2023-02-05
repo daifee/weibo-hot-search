@@ -1,6 +1,6 @@
 {
   "startTime": 1675527843138,
-  "endTime": 1675566077128,
+  "endTime": 1675567353712,
   "band_list": [
     {
       "raw_hot": 3785531,
@@ -131,12 +131,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 691642,
+      "num": 691642,
+      "word": "高一男生英语考试疯狂默写古诗词",
+      "onboard_time": 1675564467,
+      "rank": 20,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 691554,
       "num": 691554,
       "word": "元宵",
       "onboard_time": 1675555582,
       "rank": 8,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 687115,
+      "num": 617990,
+      "word": "徐冬冬晒自己145斤和108斤对比照",
+      "onboard_time": 1675566387,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 647163,
@@ -147,12 +163,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 630344,
+      "num": 630344,
+      "word": "张译鼓励满江红新人演员",
+      "onboard_time": 1675565727,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 628760,
       "num": 628760,
       "word": "五角大楼回应中国飞艇事件",
       "onboard_time": 1675531400,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 621511,
+      "num": 621511,
+      "word": "经常吃辣或能降低患癌几率",
+      "onboard_time": 1675565247,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592557,
+      "num": 592557,
+      "word": "肖战元宵九宫格祝福",
+      "onboard_time": 1675566627,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 563299,
@@ -185,14 +225,6 @@
       "onboard_time": 1675565727,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 515154,
-      "num": 515154,
-      "word": "高一男生英语考试疯狂默写古诗词",
-      "onboard_time": 1675564467,
-      "rank": 20,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 508788,
@@ -243,12 +275,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 407333,
-      "num": 407333,
-      "word": "张译鼓励满江红新人演员",
-      "onboard_time": 1675565727,
+      "raw_hot": 443859,
+      "num": 443859,
+      "word": "C罗",
+      "onboard_time": 1675565308,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 441885,
+      "num": 257959,
+      "word": "台网红谷阿莫被曝参选台独政党委员",
+      "onboard_time": 1675566929,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 412432,
+      "num": 412432,
+      "word": "张子枫陈飞宇活动同框",
+      "onboard_time": 1675566929,
       "rank": 18,
-      "category": "影视"
+      "category": "艺人"
     },
     {
       "raw_hot": 403587,
@@ -395,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269432,
+      "num": 269432,
+      "word": "三体豆瓣涨至8.2分",
+      "onboard_time": 1675566687,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260945,
       "num": 260945,
       "word": "刘耀文一镜到底吃8碗面",
@@ -435,14 +491,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 246457,
-      "num": 246457,
-      "word": "经常吃辣或能降低患癌几率",
-      "onboard_time": 1675565247,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245942,
       "num": 245942,
       "word": "一件事坚持10年是什么体验",
@@ -451,11 +499,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239666,
+      "num": 239666,
+      "word": "男子油锅炸元宵现场惨烈",
+      "onboard_time": 1675566447,
+      "rank": 32,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 237876,
       "num": 237876,
       "word": "胡鑫宇事件背后的流量生意",
       "onboard_time": 1675541773,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237639,
+      "num": 237639,
+      "word": "9科老师一同家访现场压迫感十足",
+      "onboard_time": 1675564709,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -480,6 +544,14 @@
       "word": "19岁男孩患阿尔兹海默症",
       "onboard_time": 1675516232,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232992,
+      "num": 232992,
+      "word": "宋朝元宵节放7天假",
+      "onboard_time": 1675566146,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -515,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206549,
-      "num": 206549,
-      "word": "C罗",
-      "onboard_time": 1675565308,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197262,
       "num": 133172,
       "word": "女店员遭男顾客辱骂推搡20分钟",
@@ -545,14 +609,6 @@
       "onboard_time": 1675516892,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 192418,
-      "num": 192418,
-      "word": "9科老师一同家访现场压迫感十足",
-      "onboard_time": 1675564709,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192009,
@@ -729,6 +785,14 @@
       "onboard_time": 1675564648,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144215,
+      "num": 144215,
+      "word": "武大靖北京冬奥会首金一周年",
+      "onboard_time": 1675567110,
+      "rank": 46,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 143818,
@@ -939,6 +1003,14 @@
       "category": "综艺,军事"
     },
     {
+      "raw_hot": 93376,
+      "num": 980552,
+      "word": "今天元宵节",
+      "onboard_time": 1675566031,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90204,
       "num": 90204,
       "word": "苏翊鸣说梦想就要百分百努力追求",
@@ -1041,14 +1113,6 @@
       "onboard_time": 1675543153,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 17336,
-      "num": 980552,
-      "word": "今天元宵节",
-      "onboard_time": 1675566031,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
