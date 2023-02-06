@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675690306390,
+  "endTime": 1675690915367,
   "band_list": [
     {
       "raw_hot": 2366961,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1770807,
-      "num": 991116,
+      "num": 1003656,
       "word": "王俊凯给车牌打码",
       "onboard_time": 1675684232,
       "rank": 3,
@@ -243,8 +243,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1094099,
-      "num": 1094099,
+      "raw_hot": 1182652,
+      "num": 1182652,
       "word": "土耳其大批运动员被埋废墟",
       "onboard_time": 1675685729,
       "rank": 30,
@@ -299,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 976103,
+      "num": 976103,
+      "word": "张译演反派吓到岳云鹏",
+      "onboard_time": 1675687409,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 973048,
       "num": 973048,
       "word": "30岁男子发现56岁老妈生二胎",
@@ -321,14 +329,6 @@
       "onboard_time": 1675644868,
       "rank": 5,
       "category": "科技"
-    },
-    {
-      "raw_hot": 941727,
-      "num": 941727,
-      "word": "张译演反派吓到岳云鹏",
-      "onboard_time": 1675687409,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 938797,
@@ -585,6 +585,14 @@
       "onboard_time": 1675607553,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 612883,
+      "num": 612883,
+      "word": "广东人会把肠粉淹死在酱汁里",
+      "onboard_time": 1675688906,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 594436,
@@ -929,14 +937,6 @@
       "onboard_time": 1675671449,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 419092,
-      "num": 419092,
-      "word": "广东人会把肠粉淹死在酱汁里",
-      "onboard_time": 1675688906,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 417768,
@@ -1435,6 +1435,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 278344,
+      "num": 278344,
+      "word": "狂飙小五扮演者说和安欣是师徒情",
+      "onboard_time": 1675689991,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277336,
       "num": 277336,
       "word": "千万不要坐着遛狗",
@@ -1465,6 +1473,14 @@
       "onboard_time": 1675685966,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 268443,
+      "num": 268443,
+      "word": "张艺兴面纱封面在格莱美现场出现",
+      "onboard_time": 1675690710,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 268254,
@@ -1595,6 +1611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239876,
+      "num": 239876,
+      "word": "aespa演唱会预告视频",
+      "onboard_time": 1675689094,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 237321,
       "num": 237321,
       "word": "Adele获格莱美最佳流行歌手",
@@ -1651,14 +1675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231887,
-      "num": 231887,
-      "word": "aespa演唱会预告视频",
-      "onboard_time": 1675689094,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 231672,
       "num": 231672,
       "word": "郑秀妍郑秀晶元宵节做饭vlog",
@@ -1673,6 +1689,14 @@
       "onboard_time": 1675593750,
       "rank": 26,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 229544,
+      "num": 229142,
+      "word": "高叶周冬雨早期合照",
+      "onboard_time": 1675690409,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 228775,
@@ -1721,6 +1745,14 @@
       "onboard_time": 1675681647,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220652,
+      "num": 220652,
+      "word": "如何看待高龄父母要生二胎",
+      "onboard_time": 1675690530,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 216713,
@@ -1883,6 +1915,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186631,
+      "num": 186631,
+      "word": "文草草茶言茶语",
+      "onboard_time": 1675689928,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185338,
+      "num": 185338,
+      "word": "吴谨言机场给粉丝发红包",
+      "onboard_time": 1675689507,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182487,
       "num": 182487,
       "word": "朱一龙周一黑西装侧颜大片",
@@ -1971,28 +2019,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 172412,
-      "num": 172412,
-      "word": "文草草茶言茶语",
-      "onboard_time": 1675689928,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 170578,
       "num": 170578,
       "word": "床也没想过能受这么大礼",
       "onboard_time": 1675639642,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169390,
-      "num": 169390,
-      "word": "狂飙小五扮演者说和安欣是师徒情",
-      "onboard_time": 1675689991,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 168561,
@@ -2036,7 +2068,7 @@
     },
     {
       "raw_hot": 166438,
-      "num": 169681,
+      "num": 186312,
       "word": "我的开学之光",
       "onboard_time": 1675681408,
       "rank": 39,
@@ -2121,14 +2153,6 @@
       "onboard_time": 1675662208,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157192,
-      "num": 157192,
-      "word": "吴谨言机场给粉丝发红包",
-      "onboard_time": 1675689507,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 156625,
@@ -2225,6 +2249,14 @@
       "onboard_time": 1675599452,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145854,
+      "num": 145854,
+      "word": "女子收房发现门外1米是公厕",
+      "onboard_time": 1675690891,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142488,
@@ -2468,7 +2500,7 @@
     },
     {
       "raw_hot": 93074,
-      "num": 998592,
+      "num": 1015864,
       "word": "太空视角看灯火里的中国",
       "onboard_time": 1675669888,
       "rank": 2,
