@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675648463090,
+  "endTime": 1675651274404,
   "band_list": [
     {
       "raw_hot": 2057929,
@@ -16,6 +16,14 @@
       "word": "24岁女子嫁85岁老头还要为其生子",
       "onboard_time": 1675639580,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1657129,
+      "num": 1657129,
+      "word": "土耳其发生7.8级地震",
+      "onboard_time": 1675648107,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -43,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1220977,
+      "num": 1220977,
+      "word": "胜利将于2月11日出狱",
+      "onboard_time": 1675648947,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1060545,
       "num": 844989,
       "word": "黄多多晒与同学比心合照",
@@ -65,6 +81,14 @@
       "onboard_time": 1675644868,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 903738,
+      "num": 903738,
+      "word": "网传骄阳伴我今日杀青",
+      "onboard_time": 1675649668,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 903358,
@@ -107,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 696026,
+      "num": 696026,
+      "word": "你会买超过2万元的iPhone吗",
+      "onboard_time": 1675648646,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 645152,
       "num": 645152,
       "word": "张颂文元宵节看烟花vlog",
@@ -147,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 540289,
+      "num": 540289,
+      "word": "泫雅亲粉丝脸",
+      "onboard_time": 1675649068,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 525715,
       "num": 525715,
       "word": "这烟花都对不起自己的块头",
@@ -161,6 +201,14 @@
       "onboard_time": 1675646009,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511120,
+      "num": 511120,
+      "word": "李承铉脖子上挂的是奶嘴",
+      "onboard_time": 1675649006,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 501437,
@@ -179,12 +227,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 450753,
-      "num": 450753,
-      "word": "土耳其发生7.8级地震",
-      "onboard_time": 1675648107,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 468334,
+      "num": 468334,
+      "word": "央美学生还原三体火鸡科学家",
+      "onboard_time": 1675649608,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 442405,
+      "num": 442405,
+      "word": "消失的她定档0622",
+      "onboard_time": 1675650029,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 437694,
@@ -208,6 +264,22 @@
       "word": "现在包书皮都能代包了",
       "onboard_time": 1675607613,
       "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 407619,
+      "num": 407619,
+      "word": "于谦 梁家辉你被我盯上了",
+      "onboard_time": 1675648828,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 406859,
+      "num": 406859,
+      "word": "狗狗跟主人坐长途车就差拍照了",
+      "onboard_time": 1675647808,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -275,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333895,
+      "num": 333895,
+      "word": "84岁外婆第一次穿旗袍惊艳外孙女",
+      "onboard_time": 1675650207,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332843,
       "num": 332843,
       "word": "男子靠邻座女生肩上睡觉被质疑假睡",
@@ -331,6 +411,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 309083,
+      "num": 309083,
+      "word": "韩媒评林孝埈双冠",
+      "onboard_time": 1675650568,
+      "rank": 25,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 303247,
       "num": 303247,
       "word": "开学",
@@ -339,12 +427,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 299250,
+      "num": 299250,
+      "word": "库克称果粉愿意高价买iPhone",
+      "onboard_time": 1675649847,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 297093,
       "num": 297093,
       "word": "五哈艺人总监谈鹿晗",
       "onboard_time": 1675607495,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 295132,
+      "num": 295132,
+      "word": "车辆轮胎扎入钉子收费员一下听出",
+      "onboard_time": 1675648165,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289212,
@@ -363,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273646,
+      "num": 273646,
+      "word": "我国今年将全面推进探月工程四期",
+      "onboard_time": 1675648708,
+      "rank": 30,
+      "category": "科技,国内要闻"
+    },
+    {
       "raw_hot": 268254,
       "num": 268254,
       "word": "周深躲不过初一也躲不过十五",
@@ -371,12 +483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250010,
+      "num": 250010,
+      "word": "90岁爷爷和5岁孙子对话看哭了",
+      "onboard_time": 1675649908,
+      "rank": 32,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 244693,
       "num": 244693,
       "word": "属于福建人的快乐又回来了",
       "onboard_time": 1675610670,
       "rank": 24,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 234179,
+      "num": 234179,
+      "word": "苹果短期不会出新款MacStudio",
+      "onboard_time": 1675648828,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 233222,
@@ -411,12 +539,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 201801,
+      "num": 201801,
+      "word": "提前还贷比借钱难",
+      "onboard_time": 1675650749,
+      "rank": 36,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 201134,
       "num": 201134,
       "word": "滑出了半身不遂的感觉",
       "onboard_time": 1675611630,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200918,
+      "num": 200918,
+      "word": "三体结尾有罗辑",
+      "onboard_time": 1675650991,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 198632,
@@ -467,6 +611,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179554,
+      "num": 179554,
+      "word": "孟佳粉色双马尾唱candy",
+      "onboard_time": 1675648467,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175498,
+      "num": 175498,
+      "word": "朱一龙文咏珊新电影演夫妻",
+      "onboard_time": 1675651169,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173461,
       "num": 173461,
       "word": "汤圆",
@@ -489,14 +649,6 @@
       "onboard_time": 1675646066,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166070,
-      "num": 166070,
-      "word": "狗狗跟主人坐长途车就差拍照了",
-      "onboard_time": 1675647808,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 165419,
@@ -523,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163502,
+      "num": 163502,
+      "word": "中国天眼发现的脉冲星已超740颗",
+      "onboard_time": 1675649430,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 161496,
       "num": 161496,
       "word": "把元宵煮成了藕粉",
@@ -545,6 +705,14 @@
       "onboard_time": 1675598130,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157941,
+      "num": 157941,
+      "word": "郑秀妍郑秀晶元宵节做饭vlog",
+      "onboard_time": 1675649188,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 156625,
@@ -635,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136737,
+      "num": 969166,
+      "word": "坐上高铁去滑雪",
+      "onboard_time": 1675650447,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135787,
       "num": 135787,
       "word": "中国短道速滑队一天连夺2金",
@@ -681,14 +857,6 @@
       "onboard_time": 1675604376,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122548,
-      "num": 122548,
-      "word": "车辆轮胎扎入钉子收费员一下听出",
-      "onboard_time": 1675648165,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122035,
@@ -836,6 +1004,9 @@
     },
     {
       "word": "#元宵晚会舞台再现中国排面#"
+    },
+    {
+      "word": "#习近平的文化情缘#"
     }
   ]
 }
