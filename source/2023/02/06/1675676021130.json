@@ -1,0 +1,410 @@
+{
+  "runTime": 1675676021130,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1620501,
+        "num": 1620501,
+        "word": "伊拉克女网红被父亲荣誉处决",
+        "onboard_time": 1675670487,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1581136,
+        "num": 1581136,
+        "word": "美方称发现第二个来自中国的气球",
+        "onboard_time": 1675674329,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50236,
+        "num": 1347306,
+        "word": "流动的中国活力",
+        "onboard_time": 1675669826,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1259935,
+        "num": 1259935,
+        "word": "香港女子凌晨通关来深圳吃宵夜",
+        "onboard_time": 1675671568,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901998,
+        "num": 901998,
+        "word": "陈思诚说朱一龙太文质彬彬了",
+        "onboard_time": 1675674390,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 769173,
+        "num": 769173,
+        "word": "林志颖违规停车被罚款",
+        "onboard_time": 1675663767,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 754940,
+        "num": 754940,
+        "word": "连体女婴分离14年后长成健康少女",
+        "onboard_time": 1675665447,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689385,
+        "num": 689385,
+        "word": "学校组织学生徒步自费看满江红",
+        "onboard_time": 1675665088,
+        "rank": 7,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 622711,
+        "num": 622711,
+        "word": "言承旭吐烟圈",
+        "onboard_time": 1675670249,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 605917,
+        "num": 605917,
+        "word": "贾冰说我都这么狠了你们还想笑",
+        "onboard_time": 1675662088,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 544927,
+        "num": 544927,
+        "word": "九价HPV疫苗现捆绑销售",
+        "onboard_time": 1675658314,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536442,
+        "num": 536442,
+        "word": "外交部回应拉美上空也发现中国无人飞艇",
+        "onboard_time": 1675674630,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530677,
+        "num": 530677,
+        "word": "为什么银行限制提前还房贷",
+        "onboard_time": 1675673909,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 516013,
+        "num": 516013,
+        "word": "广州平均月薪11710元",
+        "onboard_time": 1675668149,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 511562,
+        "num": 511562,
+        "word": "BSS回归",
+        "onboard_time": 1675675648,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417768,
+        "num": 417768,
+        "word": "你理想的结婚年龄是多少岁",
+        "onboard_time": 1675674029,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 384797,
+        "num": 384797,
+        "word": "YSKM入院检查",
+        "onboard_time": 1675673430,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 361942,
+        "num": 361942,
+        "word": "谁家小狗这样贱嗖嗖的",
+        "onboard_time": 1675671449,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 347483,
+        "num": 347483,
+        "word": "王智流浪地球2路演状态",
+        "onboard_time": 1675672288,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344940,
+        "num": 344940,
+        "word": "夫硕顺新歌上线",
+        "onboard_time": 1675675831,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 324940,
+        "num": 324940,
+        "word": "流浪地球2图丫丫房间美术设定",
+        "onboard_time": 1675670727,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319551,
+        "num": 319551,
+        "word": "鹿晗五哈疯狂炫醋",
+        "onboard_time": 1675675768,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304973,
+        "num": 304973,
+        "word": "第一次见这么窄的房子",
+        "onboard_time": 1675674208,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293221,
+        "num": 293221,
+        "word": "66岁大叔和女友买新房名字没自己",
+        "onboard_time": 1675664368,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291740,
+        "num": 291740,
+        "word": "哪些人群不建议打九价疫苗",
+        "onboard_time": 1675666348,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290881,
+        "num": 290881,
+        "word": "葛优诉B站侵权案将开庭",
+        "onboard_time": 1675670249,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286580,
+        "num": 286580,
+        "word": "言承旭问什么是下海",
+        "onboard_time": 1675673247,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269573,
+        "num": 269573,
+        "word": "土耳其地震已致土叙300余人死亡",
+        "onboard_time": 1675670907,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256872,
+        "num": 256872,
+        "word": "专家提醒提前还贷不可盲目跟风",
+        "onboard_time": 1675672648,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 255496,
+        "num": 255496,
+        "word": "为什么现在年轻人不想结婚了",
+        "onboard_time": 1675675229,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343210,
+        "num": 255058,
+        "word": "福原爱向男友前妻道歉",
+        "onboard_time": 1675675468,
+        "rank": 30,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 252972,
+        "num": 252972,
+        "word": "倪妮消失的她短发机车造型",
+        "onboard_time": 1675666587,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246737,
+        "num": 246737,
+        "word": "路人视角下的唐嫣状态",
+        "onboard_time": 1675674687,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241335,
+        "num": 241335,
+        "word": "狂飙反派演员心中的正义",
+        "onboard_time": 1675669888,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230320,
+        "num": 230320,
+        "word": "4岁血癌娃术后重度感染每天便血270次",
+        "onboard_time": 1675660353,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210957,
+        "num": 210957,
+        "word": "小学生背满江红获寒假作业免检红包",
+        "onboard_time": 1675669168,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200363,
+        "num": 200363,
+        "word": "无名可以线上预约了",
+        "onboard_time": 1675673848,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196988,
+        "num": 196988,
+        "word": "赵露思晒抱玩偶回眸随拍",
+        "onboard_time": 1675673848,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193087,
+        "num": 193087,
+        "word": "夏花",
+        "onboard_time": 1675674687,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182035,
+        "num": 182035,
+        "word": "海底捞很关心久龙",
+        "onboard_time": 1675667247,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181926,
+        "num": 181926,
+        "word": "母亲回应儿子被邻居放炮炸伤致截肢",
+        "onboard_time": 1675656393,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173920,
+        "num": 173920,
+        "word": "网传TFBOYS十周年线下演唱会确定",
+        "onboard_time": 1675655248,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172485,
+        "num": 172485,
+        "word": "肖战盛阳片场休息路透",
+        "onboard_time": 1675669286,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166817,
+        "num": 166817,
+        "word": "贾冰说你还有存酒咋的",
+        "onboard_time": 1675674568,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152373,
+        "num": 152373,
+        "word": "为什么现在都盛行打九价",
+        "onboard_time": 1675667067,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148436,
+        "num": 148436,
+        "word": "年龄差距很大的婚姻会幸福吗",
+        "onboard_time": 1675669526,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144091,
+        "num": 144091,
+        "word": "李小冉新剧人设",
+        "onboard_time": 1675670249,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141743,
+        "num": 141743,
+        "word": "在北京月收入过万算高吗",
+        "onboard_time": 1675662687,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135943,
+        "num": 135943,
+        "word": "满江红实时票房破40亿",
+        "onboard_time": 1675662747,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134007,
+        "num": 134007,
+        "word": "图丫丫的房间壁纸条形码被解码了",
+        "onboard_time": 1675662088,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}

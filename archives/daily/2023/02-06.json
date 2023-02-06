@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675675133641,
+  "endTime": 1675676021130,
   "band_list": [
     {
       "raw_hot": 2265486,
@@ -72,6 +72,14 @@
       "word": "九价HPV疫苗现捆绑销售",
       "onboard_time": 1675658314,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1581136,
+      "num": 1581136,
+      "word": "美方称发现第二个来自中国的气球",
+      "onboard_time": 1675674329,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 901998,
+      "num": 901998,
+      "word": "陈思诚说朱一龙太文质彬彬了",
+      "onboard_time": 1675674390,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 893888,
       "num": 893888,
       "word": "广州平均月薪11710元",
@@ -307,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 792587,
-      "num": 792587,
-      "word": "美方称发现第二个来自中国的气球",
-      "onboard_time": 1675674329,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 785356,
       "num": 785356,
       "word": "张远压轴出息了",
@@ -344,14 +352,6 @@
       "word": "言承旭吐烟圈",
       "onboard_time": 1675670249,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 666817,
-      "num": 666817,
-      "word": "陈思诚说朱一龙太文质彬彬了",
-      "onboard_time": 1675674390,
-      "rank": 9,
       "category": "影视"
     },
     {
@@ -483,12 +483,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 536442,
+      "num": 536442,
+      "word": "外交部回应拉美上空也发现中国无人飞艇",
+      "onboard_time": 1675674630,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532133,
       "num": 532133,
       "word": "李小冉新剧人设",
       "onboard_time": 1675670249,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 530677,
+      "num": 530677,
+      "word": "为什么银行限制提前还房贷",
+      "onboard_time": 1675673909,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 528552,
@@ -545,6 +561,14 @@
       "onboard_time": 1675659512,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 511562,
+      "num": 511562,
+      "word": "BSS回归",
+      "onboard_time": 1675675648,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 502745,
@@ -673,6 +697,14 @@
       "onboard_time": 1675671449,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 417768,
+      "num": 417768,
+      "word": "你理想的结婚年龄是多少岁",
+      "onboard_time": 1675674029,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 410741,
@@ -843,6 +875,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 344940,
+      "num": 344940,
+      "word": "夫硕顺新歌上线",
+      "onboard_time": 1675675831,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 344625,
       "num": 344625,
       "word": "女士的品格开播",
@@ -859,12 +899,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 342942,
-      "num": 342942,
-      "word": "为什么银行限制提前还房贷",
-      "onboard_time": 1675673909,
-      "rank": 19,
-      "category": "财经"
+      "raw_hot": 343210,
+      "num": 255058,
+      "word": "福原爱向男友前妻道歉",
+      "onboard_time": 1675675468,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 340638,
@@ -923,12 +963,12 @@
       "category": "教育,艺人"
     },
     {
-      "raw_hot": 326143,
-      "num": 326143,
-      "word": "你理想的结婚年龄是多少岁",
-      "onboard_time": 1675674029,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 319551,
+      "num": 319551,
+      "word": "鹿晗五哈疯狂炫醋",
+      "onboard_time": 1675675768,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 316167,
@@ -977,6 +1017,14 @@
       "onboard_time": 1675670907,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304973,
+      "num": 304973,
+      "word": "第一次见这么窄的房子",
+      "onboard_time": 1675674208,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 304077,
@@ -1163,6 +1211,22 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 256872,
+      "num": 256872,
+      "word": "专家提醒提前还贷不可盲目跟风",
+      "onboard_time": 1675672648,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 255496,
+      "num": 255496,
+      "word": "为什么现在年轻人不想结婚了",
+      "onboard_time": 1675675229,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 253489,
       "num": 253489,
       "word": "徐若晗对言承旭说记住你了",
@@ -1291,14 +1355,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 229777,
-      "num": 229777,
-      "word": "外交部回应拉美上空也发现中国无人飞艇",
-      "onboard_time": 1675674630,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227770,
       "num": 227770,
       "word": "年龄差距很大的婚姻会幸福吗",
@@ -1321,22 +1377,6 @@
       "onboard_time": 1675668688,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220713,
-      "num": 220713,
-      "word": "第一次见这么窄的房子",
-      "onboard_time": 1675674208,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 216854,
-      "num": 216854,
-      "word": "专家提醒提前还贷不可盲目跟风",
-      "onboard_time": 1675672648,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 216713,
@@ -1419,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193087,
+      "num": 193087,
+      "word": "夏花",
+      "onboard_time": 1675674687,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192430,
       "num": 192430,
       "word": "苹果4年来季度营收首次下滑",
@@ -1441,14 +1489,6 @@
       "onboard_time": 1675599690,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189340,
-      "num": 189340,
-      "word": "夏花",
-      "onboard_time": 1675674687,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 188452,
@@ -1561,6 +1601,14 @@
       "onboard_time": 1675646066,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166817,
+      "num": 166817,
+      "word": "贾冰说你还有存酒咋的",
+      "onboard_time": 1675674568,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 165419,
@@ -1681,14 +1729,6 @@
       "onboard_time": 1675644330,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149435,
-      "num": 149435,
-      "word": "贾冰说你还有存酒咋的",
-      "onboard_time": 1675674568,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 148954,
@@ -1948,7 +1988,7 @@
     },
     {
       "raw_hot": 59792,
-      "num": 1175120,
+      "num": 1347306,
       "word": "流动的中国活力",
       "onboard_time": 1675669826,
       "rank": 2,
