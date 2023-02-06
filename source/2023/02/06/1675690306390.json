@@ -1,0 +1,410 @@
+{
+  "runTime": 1675690306390,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1241686,
+        "num": 1241686,
+        "word": "男子结婚当天前女友们现场拉横幅",
+        "onboard_time": 1675683089,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1094099,
+        "num": 1094099,
+        "word": "土耳其大批运动员被埋废墟",
+        "onboard_time": 1675685729,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 93074,
+        "num": 972380,
+        "word": "太空视角看灯火里的中国",
+        "onboard_time": 1675669888,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1480833,
+        "num": 969443,
+        "word": "王俊凯给车牌打码",
+        "onboard_time": 1675684232,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 941727,
+        "num": 941727,
+        "word": "张译演反派吓到岳云鹏",
+        "onboard_time": 1675687409,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 863099,
+        "num": 863099,
+        "word": "土耳其附近发生8.0级左右地震",
+        "onboard_time": 1675680269,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846489,
+        "num": 846489,
+        "word": "福原爱向男友前妻道歉",
+        "onboard_time": 1675675468,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 745844,
+        "num": 745844,
+        "word": "杨紫绿色抹胸纱裙",
+        "onboard_time": 1675683208,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 711543,
+        "num": 711543,
+        "word": "土耳其一天内两次7.8级强震",
+        "onboard_time": 1675681289,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683278,
+        "num": 683278,
+        "word": "刘慈欣二刷流浪地球2发现小bug",
+        "onboard_time": 1675685070,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1050682,
+        "num": 658613,
+        "word": "男生骑车被劳斯莱斯撞倒笑出了声",
+        "onboard_time": 1675682730,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761815,
+        "num": 657906,
+        "word": "30岁男子发现56岁老妈生二胎",
+        "onboard_time": 1675680450,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628830,
+        "num": 628830,
+        "word": "林志颖仍开特斯拉",
+        "onboard_time": 1675678409,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627778,
+        "num": 627778,
+        "word": "沈阳的澡堂子还能漂流",
+        "onboard_time": 1675683327,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 556832,
+        "num": 556832,
+        "word": "贾冰回复网友一定要支持正版",
+        "onboard_time": 1675686807,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 525245,
+        "num": 525245,
+        "word": "她的寒假作业是吹出来的",
+        "onboard_time": 1675687047,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 510638,
+        "num": 510638,
+        "word": "美方称发现第二个来自中国的气球",
+        "onboard_time": 1675674329,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493383,
+        "num": 493383,
+        "word": "狂飙收视战报",
+        "onboard_time": 1675687409,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419092,
+        "num": 419092,
+        "word": "广东人会把肠粉淹死在酱汁里",
+        "onboard_time": 1675688906,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 386155,
+        "num": 386155,
+        "word": "赵樱子扮演的裘千尺",
+        "onboard_time": 1675684647,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348279,
+        "num": 348279,
+        "word": "边伯贤chu手势舞",
+        "onboard_time": 1675687289,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294711,
+        "num": 294711,
+        "word": "直击土耳其地震救援现场",
+        "onboard_time": 1675665806,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280594,
+        "num": 280594,
+        "word": "声生不息台湾音乐回忆大赏",
+        "onboard_time": 1675688128,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274725,
+        "num": 274725,
+        "word": "原来笨笨是柯基",
+        "onboard_time": 1675684167,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246082,
+        "num": 246082,
+        "word": "林孝埈 谢谢大家我回来了",
+        "onboard_time": 1675677089,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232615,
+        "num": 232615,
+        "word": "鞠婧祎韩菱纱红衣造型路透",
+        "onboard_time": 1675685966,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231887,
+        "num": 231887,
+        "word": "aespa演唱会预告视频",
+        "onboard_time": 1675689094,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 419637,
+        "num": 231866,
+        "word": "边伯贤直播",
+        "onboard_time": 1675682549,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231603,
+        "num": 231603,
+        "word": "陈思诚说朱一龙太文质彬彬了",
+        "onboard_time": 1675674390,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222411,
+        "num": 222411,
+        "word": "刘培强的AI修复还是保守了",
+        "onboard_time": 1675680512,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216545,
+        "num": 216545,
+        "word": "万茜刘敏涛新剧好带感",
+        "onboard_time": 1675685370,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210957,
+        "num": 210957,
+        "word": "我们的日子",
+        "onboard_time": 1675689633,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190500,
+        "num": 190500,
+        "word": "中国飞艇不会对任何国家造成任何威胁",
+        "onboard_time": 1675686510,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 188631,
+        "num": 188631,
+        "word": "7pm 好听",
+        "onboard_time": 1675680691,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184091,
+        "num": 184091,
+        "word": "为什么现在年轻人不想结婚了",
+        "onboard_time": 1675675229,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174830,
+        "num": 174830,
+        "word": "JDG零封AL",
+        "onboard_time": 1675689809,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172412,
+        "num": 172412,
+        "word": "文草草茶言茶语",
+        "onboard_time": 1675689928,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171527,
+        "num": 171527,
+        "word": "广州平均月薪11710元",
+        "onboard_time": 1675668149,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 171000,
+        "num": 171000,
+        "word": "为什么银行限制提前还房贷",
+        "onboard_time": 1675673909,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21747,
+        "num": 169681,
+        "word": "我的开学之光",
+        "onboard_time": 1675688430,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169390,
+        "num": 169390,
+        "word": "狂飙小五扮演者说和安欣是师徒情",
+        "onboard_time": 1675689991,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167518,
+        "num": 167518,
+        "word": "强震已致土耳其叙利亚超1400人遇难",
+        "onboard_time": 1675679491,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167213,
+        "num": 167213,
+        "word": "香港女子凌晨通关来深圳吃宵夜",
+        "onboard_time": 1675671568,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163791,
+        "num": 163791,
+        "word": "郑秀妍素颜下午茶随拍",
+        "onboard_time": 1675686691,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159361,
+        "num": 159361,
+        "word": "三体潘寒下线",
+        "onboard_time": 1675687889,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157192,
+        "num": 157192,
+        "word": "吴谨言机场给粉丝发红包",
+        "onboard_time": 1675689507,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150866,
+        "num": 150866,
+        "word": "第一次见这么窄的房子",
+        "onboard_time": 1675674208,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149912,
+        "num": 149912,
+        "word": "店方回应89元番茄牛腩肉少汤浅",
+        "onboard_time": 1675677688,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145904,
+        "num": 145904,
+        "word": "狂飙全员撞脸动画片",
+        "onboard_time": 1675678471,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140648,
+        "num": 140648,
+        "word": "贾冰说我都这么狠了你们还想笑",
+        "onboard_time": 1675662088,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国天眼发现的脉冲星已超740颗#"
+    }
+  }
+}
