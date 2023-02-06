@@ -1,6 +1,6 @@
 {
   "startTime": 1675700746732,
-  "endTime": 1675710897369,
+  "endTime": 1675711984496,
   "band_list": [
     {
       "raw_hot": 1152201,
@@ -457,6 +457,14 @@
       "onboard_time": 1675705217,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 45771,
+      "num": 45771,
+      "word": "杭州两套拆迁房让一对亲姐妹闹翻",
+      "onboard_time": 1675711152,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18749,
